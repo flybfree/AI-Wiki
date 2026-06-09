@@ -33,4 +33,4 @@ This work is significant because it shifts the evaluation of video generation mo
 - Projective Geometry
 - Video Evaluation Benchmarks
 
-[[2026-05-14_17-59-04Z_QuantitativeVideoWorldModelEvaluationforGeometric_.md]]
+[[Quantitative Video World Model Evaluation for Geometric-Consistency]]

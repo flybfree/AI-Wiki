@@ -33,4 +33,4 @@ This work is significant because it provides a clear, mechanistic explanation fo
 - Weight Decay
 - Extrapolation Robustness
 
-[[2026-05-20_17-59-40Z_QuantifyingHyperparameterTransferandtheImportanceo.md]]
+[[Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate]]

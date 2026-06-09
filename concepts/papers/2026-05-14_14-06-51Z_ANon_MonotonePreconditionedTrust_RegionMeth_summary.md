@@ -31,4 +31,4 @@ This research is significant because it provides a practical solution to the sca
 - Neural Network Training
 - Additively Preconditioned Trust-Region Strategy (APTS)
 
-[[2026-05-14_14-06-51Z_ANon_MonotonePreconditionedTrust_RegionMethodforNe.md]]
+[[A Non-Monotone Preconditioned Trust-Region Method for Neural Network Training]]

@@ -26,4 +26,4 @@ UniPool proves that expert parameters need not grow linearly with model depth; a
 ## Related Concepts  
 Mixture-of-Experts, global architectural budget, per‑layer router replacement, auxiliary loss for utilization balancing, NormRouter (sparse routing), depth‑scaling hyperparameter, sublinear parameter growth.
 
-[[2026-05-07_17-59-44Z_UniPool_AGloballySharedExpertPoolforMixture_of_Exp.md]]
+[[UniPool: A Globally Shared Expert Pool for Mixture-of-Experts]]

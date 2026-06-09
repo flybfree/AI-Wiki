@@ -26,4 +26,4 @@ This research demonstrates that generative correction can be integrated seamless
 ## Related Concepts  
 MeanFlow, Data‑Space Optimization (DSO), endpoint SI‑SDR loss, discriminative multi‑channel separation, generative corrector, conditional velocity field.
 
-[[2026-06-08_15-58-31Z_MeCo_One_StepMeanFlow_basedCorrectorforMulti_Chann.md]]
+[[MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation]]

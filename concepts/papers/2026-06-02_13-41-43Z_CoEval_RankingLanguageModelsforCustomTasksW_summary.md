@@ -26,4 +26,4 @@ CoEval solves a longstanding problem in AI research: evaluating models on bespok
 ## Related Concepts  
 label‑free evaluation, synthetic benchmark generation, cross‑family judging, ensemble ranking, contamination mitigation, attribute‑controlled tasks
 
-[[2026-06-02_13-41-43Z_CoEval_RankingLanguageModelsforCustomTasksWithoutL.md]]
+[[CoEval: Ranking Language Models for Custom Tasks Without Labeled Data or Trustworthy Benchmarks]]

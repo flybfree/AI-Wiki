@@ -31,4 +31,4 @@ Addressing false negatives is crucial because they cause the model to misclassif
 - Sampling bias correction  
 - Inference reliability and model trustworthiness
 
-[[2026-05-22_15-57-56Z_DebiasedNegativeMiningImprovesOut_of_distributionD.md]]
+[[Debiased Negative Mining Improves Out-of-distribution Detection with Pre-trained Vision-Language Models]]

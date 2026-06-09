@@ -26,4 +26,4 @@ By providing a principled, dataset‑aware comparison tool that mitigates the pi
 ## Related Concepts  
 Bradley‑Terry model, NDCG, sparsity, sequential structure, covariate models, BT trees, ranking consistency, incomplete data robustness.
 
-[[2026-06-05_17-46-36Z_Bradley_TerryRankingsforRecommenderSystemsAcrossDa.md]]
+[[Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies]]

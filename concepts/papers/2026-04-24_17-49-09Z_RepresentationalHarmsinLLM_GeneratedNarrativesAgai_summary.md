@@ -26,4 +26,4 @@ Based on our findings, we call for further exploration of cultural harms in LLMs
 - URL: http://arxiv.org/abs/2604.22749v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-49-09Z_RepresentationalHarmsinLLM_GeneratedNarrativesAgai.md
 
-[[2026-04-24_17-49-09Z_RepresentationalHarmsinLLM_GeneratedNarrativesAgai.md]]
+[[Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities]]

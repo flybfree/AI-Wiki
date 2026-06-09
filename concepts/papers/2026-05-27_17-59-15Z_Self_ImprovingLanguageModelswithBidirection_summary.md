@@ -26,4 +26,4 @@ This work matters because it tackles two fundamental limitations of current self
 ## Related Concepts  
 Key concepts include evolutionary search, entropy shell, bidirectional search, task decomposition, post‑training fine‑tuning, open problem solving, and model rollout.
 
-[[2026-05-27_17-59-15Z_Self_ImprovingLanguageModelswithBidirectionalEvolu.md]]
+[[Self-Improving Language Models with Bidirectional Evolutionary Search]]

@@ -30,4 +30,4 @@ Integrating sEMG with lipreading via cross‑modal masking provides a practical 
 - Multimodal Neural Networks  
 - Masking Strategies in Deep Learning
 
-[[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]]
+[[Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading]]

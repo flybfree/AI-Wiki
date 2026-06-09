@@ -34,4 +34,4 @@ This work matters because it shifts the perspective on robustness from a collect
 - Geometric Deep Learning
 - Cube-Root Water-Filling
 
-[[2026-05-21_17-53-28Z_TheMatchingPrinciple_AGeometricTheoryofLossFunctio.md]]
+[[The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning]]

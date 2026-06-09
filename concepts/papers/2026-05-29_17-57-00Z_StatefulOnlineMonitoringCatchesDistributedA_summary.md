@@ -32,4 +32,4 @@ This work highlights a fundamental flaw in current AI safety paradigms that rely
 - Language Model Safety
 - Aggregated Suspiciousness Signals
 
-[[2026-05-29_17-57-00Z_StatefulOnlineMonitoringCatchesDistributedAgentAtt.md]]
+[[Stateful Online Monitoring Catches Distributed Agent Attacks]]

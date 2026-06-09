@@ -30,4 +30,4 @@ By eliminating redundant confidence evaluations, VecCISC makes large‑scale sel
 - Candidate answer selection: choosing representative traces for evaluation.  
 - Weighted majority voting: aggregating confidence scores into a final decision.
 
-[[2026-05-08_17-54-38Z_VecCISC_ImprovingConfidence_InformedSelf_Consisten.md]]
+[[VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection]]

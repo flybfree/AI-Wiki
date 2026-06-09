@@ -30,4 +30,4 @@ By treating representation alignment as a pretraining objective, LENSEs opens th
 - Node‑level alignment (REPA)  
 - Lipschitz constant reduction for smoother embeddings
 
-[[2026-05-08_13-02-58Z_TowardBetterGeometricRepresentationsforMoleculeGen.md]]
+[[Toward Better Geometric Representations for Molecule Generative Models]]

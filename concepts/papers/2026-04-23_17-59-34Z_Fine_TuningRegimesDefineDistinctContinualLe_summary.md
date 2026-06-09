@@ -11,4 +11,4 @@ This paper challenges the assumption that comparative evaluations in Continual L
 ## Key Contributions
 1. **Regime-Dependence Formalization:** They formalize adaptation regimes as projected optimization over fixed trainable subspaces, establishing that the depth of the trainable parameters dictates the effective update signal in CL.
 
-[[2026-04-23_17-59-34Z_Fine_TuningRegimesDefineDistinctContinualLearningP.md]]
+[[Fine-Tuning Regimes Define Distinct Continual Learning Problems]]

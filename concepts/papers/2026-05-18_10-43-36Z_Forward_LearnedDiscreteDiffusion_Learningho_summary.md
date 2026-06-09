@@ -31,4 +31,4 @@ This research is significant because it resolves a fundamental trade-off in disc
 - End-to-End Training
 - Forward-Reverse Process Alignment
 
-[[2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md]]
+[[Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster]]

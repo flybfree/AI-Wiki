@@ -30,4 +30,4 @@ This work matters because it shifts the focus from merely improving model accura
 - Agent Coordination and State Management
 - Production LLM Agents
 
-[[2026-05-19_17-54-21Z_AMethodologyforSelectingandComposingRuntimeArchite.md]]
+[[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents]]

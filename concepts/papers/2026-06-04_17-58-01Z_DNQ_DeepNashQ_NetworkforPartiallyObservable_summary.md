@@ -32,4 +32,4 @@ By balancing strategic fidelity with computational tractability, DNQ offers a vi
 - Multiplayer game theory  
 - Scalable equilibrium computation
 
-[[2026-06-04_17-58-01Z_DNQ_DeepNashQ_NetworkforPartiallyObservablen_Playe.md]]
+[[DNQ: Deep Nash Q-Network for Partially Observable n-Player Games]]

@@ -26,4 +26,4 @@ OpAI‑Bench bridges a critical gap in AI‑text detection by focusing on the ev
 ## Related Concepts  
 human-AI co‑editing, AI text detection, authorship provenance, multi‑granularity benchmarking, operation‑guided transformation, mixed‑authorship detection, revision history, fine‑grained token/span analysis.
 
-[[2026-06-04_17-58-05Z_Operation_GuidedProgressiveHuman_to_AITextTransfor.md]]
+[[Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection]]

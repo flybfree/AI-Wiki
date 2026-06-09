@@ -26,4 +26,4 @@ By decoupling the selection of key tokens from the model’s attention computati
 ## Related Concepts  
 visual geometry transformers, global attention, token sparsification, diversity‑based selection, entropy‑guided selection
 
-[[2026-05-22_17-55-13Z_GoodTokenHunting_AHitchhiker_sGuidetoTokenSelectio.md]]
+[[Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers]]

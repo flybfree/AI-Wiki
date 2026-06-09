@@ -31,4 +31,4 @@ This work is significant as it represents one of the first practical application
 - Transformer Architecture Limitations
 - Recurrent Neural Networks (RNNs)
 
-[[2026-05-13_17-56-20Z_QLAM_AQuantumLong_AttentionMemoryApproachtoLong_Se.md]]
+[[QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling]]

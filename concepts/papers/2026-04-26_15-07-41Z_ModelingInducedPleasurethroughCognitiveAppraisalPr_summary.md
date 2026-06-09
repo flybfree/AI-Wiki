@@ -26,4 +26,4 @@ These findings highlight promising implications for affective content recommenda
 - URL: http://arxiv.org/abs/2604.23753v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_15-07-41Z_ModelingInducedPleasurethroughCognitiveAppraisalPr.md
 
-[[2026-04-26_15-07-41Z_ModelingInducedPleasurethroughCognitiveAppraisalPr.md]]
+[[Modeling Induced Pleasure through Cognitive Appraisal Prediction via Multimodal Fusion]]

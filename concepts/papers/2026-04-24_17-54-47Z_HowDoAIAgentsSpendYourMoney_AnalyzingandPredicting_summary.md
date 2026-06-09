@@ -26,4 +26,4 @@ Our study offers new insights into the economics of AI agents and can inspire fu
 - URL: http://arxiv.org/abs/2604.22750v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-54-47Z_HowDoAIAgentsSpendYourMoney_AnalyzingandPredicting.md
 
-[[2026-04-24_17-54-47Z_HowDoAIAgentsSpendYourMoney_AnalyzingandPredicting.md]]
+[[How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks]]

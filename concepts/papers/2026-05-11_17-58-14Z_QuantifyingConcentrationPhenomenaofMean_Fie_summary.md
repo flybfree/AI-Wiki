@@ -35,4 +35,4 @@ This work provides a rigorous quantitative measure of token concentration in tra
 - Metastability of the limiting distribution  
 - Value matrix spectrum influencing terminal phase
 
-[[2026-05-11_17-58-14Z_QuantifyingConcentrationPhenomenaofMean_FieldTrans.md]]
+[[Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime]]

@@ -30,4 +30,4 @@ By delivering certified, non‑asymptotic guarantees and maintaining performance
 - Cover‑theoretic distortion bounds  
 - Farthest‑point sampling
 
-[[2026-05-05_17-59-18Z_AClosed_FormAdaptive_LandmarkKernelforCertifiedPoi.md]]
+[[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification]]

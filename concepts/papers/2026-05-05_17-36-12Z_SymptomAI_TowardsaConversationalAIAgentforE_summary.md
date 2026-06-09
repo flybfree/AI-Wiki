@@ -65,4 +65,4 @@ Participants praised SymptomAI for its “quick answer” nature and the clear l
 
 **Conclusion (preview)** – The results demonstrate that a conversational AI can provide accurate, safe, and user‑friendly symptom guidance for everyday health concerns. Future work will focus on expanding the ontology to include chronic conditions and integrating real‑time data from wearable sensors to personalize recommendations.
 
-[[2026-05-05_17-36-12Z_SymptomAI_TowardsaConversationalAIAgentforEveryday.md]]
+[[SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment]]

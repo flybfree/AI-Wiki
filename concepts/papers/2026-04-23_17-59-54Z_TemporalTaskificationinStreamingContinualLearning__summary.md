@@ -27,4 +27,4 @@ How a stream is taskified can matter as much as the learner being evaluated.
 - Published: 2026-04-23T17:59:54Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-59-54Z_TemporalTaskificationinStreamingContinualLearning_.md
 
-[[2026-04-23_17-59-54Z_TemporalTaskificationinStreamingContinualLearning_.md]]
+[[Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability]]

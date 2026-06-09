@@ -31,4 +31,4 @@ This research is significant because it addresses a fundamental bottleneck in th
 - Discrete Optimization
 - Computational Efficiency
 
-[[2026-05-13_11-32-03Z_GRIP_VLM_Group_RelativeImportancePruningforEfficie.md]]
+[[GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models]]

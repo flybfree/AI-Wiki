@@ -26,4 +26,4 @@ Our dataset and relevant resources will be available online.
 - URL: http://arxiv.org/abs/2604.23730v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-15-43Z_ExpertEvaluationofLLM_sOpen_EndedLegalReasoningont.md
 
-[[2026-04-26_14-15-43Z_ExpertEvaluationofLLM_sOpen_EndedLegalReasoningont.md]]
+[[Expert Evaluation of LLM's Open-Ended Legal Reasoning on the Japanese Bar Exam Writing Task]]

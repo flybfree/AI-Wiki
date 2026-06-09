@@ -31,4 +31,4 @@ This research is significant because it challenges the prevailing optimism surro
 - Natural Language Processing (NLP)
 - Software Engineering Automation
 
-[[2026-05-12_11-35-59Z_OntheLimitationsofLargeLanguageModelsforConceptual.md]]
+[[On the Limitations of Large Language Models for Conceptual Database Modeling]]

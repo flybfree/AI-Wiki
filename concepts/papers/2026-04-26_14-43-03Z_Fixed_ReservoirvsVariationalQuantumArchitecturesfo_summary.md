@@ -26,4 +26,4 @@ Our findings suggest the fixed-reservoir architecture is a primary driver of QRC
 - URL: http://arxiv.org/abs/2604.23743v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-43-03Z_Fixed_ReservoirvsVariationalQuantumArchitecturesfo.md
 
-[[2026-04-26_14-43-03Z_Fixed_ReservoirvsVariationalQuantumArchitecturesfo.md]]
+[[Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System]]

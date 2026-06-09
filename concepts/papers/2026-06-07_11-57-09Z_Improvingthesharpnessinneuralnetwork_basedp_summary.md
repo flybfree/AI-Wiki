@@ -31,4 +31,4 @@ Sharper intervals are crucial for operational decision‑making because they low
 - Sharpness vs. dispersion in probabilistic forecasts  
 - Ensemble forecast width and central prediction interval
 
-[[2026-06-07_11-57-09Z_Improvingthesharpnessinneuralnetwork_basedparametr.md]]
+[[Improving the sharpness in neural network-based parametric post-processing of ensemble forecasts]]

@@ -30,4 +30,4 @@ This work bridges the gap between gradient‑based efficiency and population‑b
 - Adaptive PSO (APSO)  
 - Multi‑Column RBFN (MCRN)
 
-[[2026-06-03_17-53-48Z_Multi_ColumnRBFNeuralNetworkUsingAdaptiveandNon_Ad.md]]
+[[Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization]]

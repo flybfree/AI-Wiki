@@ -26,4 +26,4 @@ Experiments on pre-trained language models with prefix shuffling show that SVFlo
 - URL: http://arxiv.org/abs/2604.23740v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-36-31Z_TransformerasanEulerDiscretizationofScore_basedVar.md
 
-[[2026-04-26_14-36-31Z_TransformerasanEulerDiscretizationofScore_basedVar.md]]
+[[Transformer as an Euler Discretization of Score-based Variational Flow]]

@@ -32,4 +32,4 @@ This work is significant because it moves beyond passive digital warnings to act
 - Real-time hazard detection
 - Smart City Infrastructure
 
-[[2026-05-12_11-26-47Z_CooperativeRoboticsReinforcedbyCollectivePerceptio.md]]
+[[Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation]]

@@ -26,4 +26,4 @@ This work advances long‑context reasoning by providing a scalable data‑gener
 ## Related Concepts  
 Long‑context reasoning, reinforcement learning with verifiable rewards (RLVR), knowledge graph random walks, tiered distractors, rubric reward, multi‑hop questions, evidence grounding.
 
-[[2026-05-29_17-51-40Z_LongTraceRL_LearningLong_ContextReasoningfromSearc.md]]
+[[LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards]]

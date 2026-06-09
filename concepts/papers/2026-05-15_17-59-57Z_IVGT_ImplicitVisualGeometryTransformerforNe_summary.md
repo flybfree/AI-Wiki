@@ -31,4 +31,4 @@ This work is significant because it shifts the paradigm from discrete, redundant
 - Novel View Synthesis
 - Implicit Neural Networks
 
-[[2026-05-15_17-59-57Z_IVGT_ImplicitVisualGeometryTransformerforNeuralSce.md]]
+[[IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation]]

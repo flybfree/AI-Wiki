@@ -13,4 +13,4 @@ This paper introduces MathDuels, a novel self-play benchmark designed to evaluat
 2. **Adversarial Problem Generation:** Developed a three-stage generation pipeline (meta-prompting, problem generation, and difficulty amplification) to ensure generated problems are rigorous, non-trivial, and validated against ill-posed questions.
 3. **
 
-[[2026-04-23_17-57-46Z_MathDuels_EvaluatingLLMsasProblemPosersandSolvers.md]]
+[[MathDuels: Evaluating LLMs as Problem Posers and Solvers]]

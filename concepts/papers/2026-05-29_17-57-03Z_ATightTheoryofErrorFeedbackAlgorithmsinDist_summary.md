@@ -29,4 +29,4 @@ This work bridges theory and practice by delivering provably optimal feedback me
 - Lyapunov functions, Asymptotic stability  
 - Communication cost, Gradient compression
 
-[[2026-05-29_17-57-03Z_ATightTheoryofErrorFeedbackAlgorithmsinDistributed.md]]
+[[A Tight Theory of Error Feedback Algorithms in Distributed Optimization]]

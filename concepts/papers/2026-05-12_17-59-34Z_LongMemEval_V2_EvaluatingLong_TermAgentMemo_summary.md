@@ -31,4 +31,4 @@ This research matters because it provides a rigorous testbed for developing long
 - AgentRunbook architectures
 - Benchmarking AI memory systems
 
-[[2026-05-12_17-59-34Z_LongMemEval_V2_EvaluatingLong_TermAgentMemoryTowar.md]]
+[[LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues]]

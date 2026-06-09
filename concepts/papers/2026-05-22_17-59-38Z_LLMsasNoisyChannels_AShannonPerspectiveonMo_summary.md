@@ -30,4 +30,4 @@ This work bridges information theory with LLM scaling, offering a testable model
 - Catastrophic overtraining and quantization degradation  
 - Classical power‑law scaling laws for LLMs
 
-[[2026-05-22_17-59-38Z_LLMsasNoisyChannels_AShannonPerspectiveonModelCapa.md]]
+[[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws]]

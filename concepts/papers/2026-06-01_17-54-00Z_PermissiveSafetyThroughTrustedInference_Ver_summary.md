@@ -97,4 +97,4 @@ The belief‑space framework demonstrates that **trusted inference** can be oper
 
 Future work includes extending the framework to multi‑robot coordination (where each robot’s belief space must be jointly verified) and integrating higher‑level goal planning within the same trust‑aware pipeline.
 
-[[2026-06-01_17-54-00Z_PermissiveSafetyThroughTrustedInference_Verifiable.md]]
+[[Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics]]

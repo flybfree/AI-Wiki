@@ -26,4 +26,4 @@ By unifying heterogeneous evaluation signals into a single skill framework, Skil
 ## Related Concepts  
 Reward models (RMs), reinforcement learning (RL) fine‑tuning, heterogeneous evaluation criteria, rule‑based verifiers, ground‑truth references, procedural checklists, rubric scoring, agentic tasks, skill decomposition, dynamic evidence aggregation.
 
-[[2026-06-02_17-56-57Z_Skill_RM_UnifyingHeterogeneousEvaluationCriteriavi.md]]
+[[Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill]]

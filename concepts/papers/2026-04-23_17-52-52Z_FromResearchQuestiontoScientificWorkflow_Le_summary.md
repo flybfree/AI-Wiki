@@ -19,4 +19,4 @@ The proposed system operates in three layers:
 2. **Knowledge Layer (Skills):** Domain experts author "Skills" to provide explicit knowledge constraints and vocabulary mappings, guiding the LLM's interpretation.
 3. **Deterministic Layer:** Validated generators take the structured intent and produce reproducible workflow Directed Acyclic Graphs (DAGs), ensuring that identical intents always yield identical workflows regardless of LLM variability. The system was evaluated on a 1000 Genomes population genetics workflow running
 
-[[2026-04-23_17-52-52Z_FromResearchQuestiontoScientificWorkflow_Leveragin.md]]
+[[From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation]]

@@ -31,4 +31,4 @@ This work is significant because it resolves the tension between the high perfor
 - LIBERO Benchmarks
 - Vision-Language Models (VLM)
 
-[[2026-05-15_17-48-25Z_OfflineSemanticGuidanceforEfficientVision_Language.md]]
+[[Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation]]

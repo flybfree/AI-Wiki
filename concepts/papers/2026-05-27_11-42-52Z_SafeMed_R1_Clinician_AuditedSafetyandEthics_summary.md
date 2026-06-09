@@ -30,4 +30,4 @@ These results demonstrate that clinician‑audited supervision provenance, combi
 - Macro‑averaged accuracy – aggregate performance metric across benchmarks.  
 - PGY1/PGY2 residents – medical training levels used in the paired study.
 
-[[2026-05-27_11-42-52Z_SafeMed_R1_Clinician_AuditedSafetyandEthicsAlignme.md]]
+[[SafeMed-R1: Clinician-Audited Safety and Ethics Alignment for Medical Large Language Models]]

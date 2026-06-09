@@ -30,4 +30,4 @@ By decoupling survival objectives from classification tasks, SRL opens a pathway
 - Long‑horizon planning  
 - Uniform‑tolerance dilemma in contrastive losses
 
-[[2026-05-29_13-05-08Z_SurvivalReinforcementLearning_TowardScalableSelf_S.md]]
+[[Survival Reinforcement Learning: Toward Scalable Self-Supervised RL]]

@@ -30,4 +30,4 @@ Complete‑muE decouples hyperparameter tuning from architectural scaling, enabl
 - Hyperparameter transfer  
 - Stochastic depth scaling
 
-[[2026-05-22_17-56-13Z_Complete_muE_OptimalHyperparameterTransferandScali.md]]
+[[Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models]]

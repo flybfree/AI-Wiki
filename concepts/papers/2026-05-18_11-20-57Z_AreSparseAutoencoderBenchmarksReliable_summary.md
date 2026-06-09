@@ -31,4 +31,4 @@ These findings are significant because they challenge the foundational assumptio
 - k-sparse probing
 - Metric Stability and Discriminability
 
-[[2026-05-18_11-20-57Z_AreSparseAutoencoderBenchmarksReliable.md]]
+[[Are Sparse Autoencoder Benchmarks Reliable?]]

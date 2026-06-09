@@ -34,4 +34,4 @@ This research is significant because it removes a major practical barrier to dep
 - Geometric Distortion
 - Spatio-Temporal Priors
 
-[[2026-05-13_17-58-13Z_R_DMesh_Video_Guided3DAnimationviaRectifiedDynamic.md]]
+[[R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow]]

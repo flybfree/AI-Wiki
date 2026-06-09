@@ -32,4 +32,4 @@ This work is significant because it provides a practical and theoretically groun
 - Model Distillation
 - Compute-Aware Optimization
 
-[[2026-05-20_17-59-52Z_VarianceReductionforExpectationswithDiffusionTeach.md]]
+[[Variance Reduction for Expectations with Diffusion Teachers]]

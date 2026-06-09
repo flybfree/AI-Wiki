@@ -31,4 +31,4 @@ This work is significant because it fundamentally shifts the paradigm of graph c
 - Functional Dependency Constraints
 - Table Role Modeling
 
-[[2026-05-20_17-56-09Z_IsFixingSchemaGraphsNecessary_Full_ResolutionGraph.md]]
+[[Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning]]

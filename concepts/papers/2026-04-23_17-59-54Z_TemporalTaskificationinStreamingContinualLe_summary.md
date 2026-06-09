@@ -12,4 +12,4 @@ This paper challenges the assumption that temporal partitioning in Streaming Con
 1. **Taskification-Level Framework:** Introduction of a framework utilizing plasticity and stability profiles, profile distance, and Boundary-Profile Sensitivity (BPS) to rigorously diagnose how sensitive CL regimes are to changes in task boundaries.
 2. **Demonstration of Instability:** Empirical evidence showing that the choice of temporal split for streaming data can drastically change the reported performance
 
-[[2026-04-23_17-59-54Z_TemporalTaskificationinStreamingContinualLearning_.md]]
+[[Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability]]

@@ -31,4 +31,4 @@ This work is significant because it provides a unified theoretical framework for
 - Text-to-Image Generation
 - Preference Alignment
 
-[[2026-05-20_12-54-51Z_Linear_DPO_LinearDirectPreferenceOptimizationforDi.md]]
+[[Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models]]

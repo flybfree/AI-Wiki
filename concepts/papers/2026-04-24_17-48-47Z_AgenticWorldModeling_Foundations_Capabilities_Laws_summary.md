@@ -26,4 +26,4 @@ The resulting roadmap connects previously isolated communities and charts a path
 - URL: http://arxiv.org/abs/2604.22748v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-48-47Z_AgenticWorldModeling_Foundations_Capabilities_Laws.md
 
-[[2026-04-24_17-48-47Z_AgenticWorldModeling_Foundations_Capabilities_Laws.md]]
+[[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond]]

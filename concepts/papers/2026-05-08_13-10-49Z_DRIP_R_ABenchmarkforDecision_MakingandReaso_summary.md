@@ -26,4 +26,4 @@ DRIP‑R provides a concrete, domain‑specific benchmark that forces researcher
 ## Related Concepts  
 policy ambiguity, LLM decision‑making, multimodal conversational agents, tool‑calling in dialogue, multi‑judge evaluation, benchmarking for AI systems.
 
-[[2026-05-08_13-10-49Z_DRIP_R_ABenchmarkforDecision_MakingandReasoningUnd.md]]
+[[DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain]]

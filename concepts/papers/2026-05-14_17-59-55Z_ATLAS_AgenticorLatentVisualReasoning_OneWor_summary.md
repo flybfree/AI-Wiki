@@ -32,4 +32,4 @@ This research matters because it offers a new paradigm for visual reasoning that
 - Multimodal Large Language Models
 - Next-Token Prediction
 
-[[2026-05-14_17-59-55Z_ATLAS_AgenticorLatentVisualReasoning_OneWordisEnou.md]]
+[[ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both]]

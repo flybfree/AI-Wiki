@@ -31,4 +31,4 @@ These findings reveal a critical gap between LLMs’ apparent competence in adva
 - Token bias / formulation sensitivity  
 - Embedding manipulation in prompts
 
-[[2026-06-05_17-59-42Z_HowreliableareLLMswhenitcomestoplayingdice.md]]
+[[How reliable are LLMs when it comes to playing dice?]]

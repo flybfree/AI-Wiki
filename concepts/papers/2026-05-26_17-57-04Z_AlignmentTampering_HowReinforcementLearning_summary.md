@@ -30,4 +30,4 @@ These findings expose a fundamental flaw in current RLHF: the feedback loop can 
 - Reward hacking / reward model exploitation  
 - Alignment tampering
 
-[[2026-05-26_17-57-04Z_AlignmentTampering_HowReinforcementLearningfromHum.md]]
+[[Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases]]

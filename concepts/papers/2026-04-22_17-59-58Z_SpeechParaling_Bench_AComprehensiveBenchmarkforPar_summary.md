@@ -27,4 +27,4 @@ More reliable relative evaluation can expose limitations in current voice-genera
 - Published: 2026-04-22T17:59:58Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-22_17-59-58Z_SpeechParaling_Bench_AComprehensiveBenchmarkforPar.md
 
-[[2026-04-22_17-59-58Z_SpeechParaling_Bench_AComprehensiveBenchmarkforPar.md]]
+[[SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation]]

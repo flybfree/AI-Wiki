@@ -32,4 +32,4 @@ By delivering a communicationâ€‘efficient, accelerated stochastic algorithm, MGâ
 - Consensus accuracy improvement  
 - Gradient variance reduction
 
-[[2026-06-05_17-51-11Z_AcceleratedDecentralizedStochasticGradientDescentf.md]]
+[[Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization]]

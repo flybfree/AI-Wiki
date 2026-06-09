@@ -30,4 +30,4 @@ GRAPHLCP bridges the gap between CP’s finite‑sample robustness and the uniqu
 - Localized Confidence Intervals: region‑based prediction sets.  
 - Marginal Coverage: theoretical guarantee that at least one prediction is correct.
 
-[[2026-05-08_17-56-09Z_GRAPHLCP_Structure_AwareLocalizedConformalPredicti.md]]
+[[GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs]]

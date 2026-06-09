@@ -32,4 +32,4 @@ This work is significant because it provides a practical solution to a previousl
 - Representation Learning
 - Data Privacy in AI
 
-[[2026-05-21_17-42-12Z_LCGuard_LatentCommunicationGuardforSafeKVSharingin.md]]
+[[LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems]]

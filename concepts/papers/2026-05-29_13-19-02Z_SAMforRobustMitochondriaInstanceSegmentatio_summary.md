@@ -32,4 +32,4 @@ This research resolves a critical bottleneck in AI‑driven microscopy: the abse
 - Mitochondria morphology analysis  
 - AI fine‑tuning
 
-[[2026-05-29_13-19-02Z_SAMforRobustMitochondriaInstanceSegmentationinFluo.md]]
+[[SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy]]

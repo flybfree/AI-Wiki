@@ -30,4 +30,4 @@ Accurate 3D segmentation is essential for early diagnosis of brain tumors, as it
 - Dice loss function  
 - Dice metric for evaluation
 
-[[2026-05-05_17-30-17Z_Enhanced3DBrainTumorSegmentationUsingAssortedPreci.md]]
+[[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training]]

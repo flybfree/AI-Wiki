@@ -31,4 +31,4 @@ This work matters because it transforms AI red teaming from a reactive, labor-in
 - Multi-agent Systems  
 - Generative AI Security
 
-[[2026-05-05_17-43-52Z_RedefiningAIRedTeamingintheAgenticEra_FromWeekstoH.md]]
+[[Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours]]

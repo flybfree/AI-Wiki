@@ -27,4 +27,4 @@ Instruction-driven hallucinations can be reduced with targeted preference optimi
 - Published: 2026-04-23T17:54:36Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-54-36Z_WhenPromptsOverrideVision_Prompt_InducedHallucinat.md
 
-[[2026-04-23_17-54-36Z_WhenPromptsOverrideVision_Prompt_InducedHallucinat.md]]
+[[When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs]]

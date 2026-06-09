@@ -32,4 +32,4 @@ This study demonstrates that augmenting automated discovery with process‑level
 - Behavioral trajectory analysis  
 - Under‑determined models and additional constraints
 
-[[2026-05-06_16-29-35Z_Think_AloudReshapesAutomatedCognitiveModelDiscover.md]]
+[[Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior]]

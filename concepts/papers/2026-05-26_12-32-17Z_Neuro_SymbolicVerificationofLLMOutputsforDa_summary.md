@@ -30,4 +30,4 @@ This work addresses a critical gap in AI safety: while LLMs are increasingly dep
 - Hallucination detection in LLMs  
 - Data‑sensitive domain compliance
 
-[[2026-05-26_12-32-17Z_Neuro_SymbolicVerificationofLLMOutputsforData_Sens.md]]
+[[Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains (extended preprint)]]

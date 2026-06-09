@@ -30,4 +30,4 @@ TailLoR demonstrates that protecting principal components through spectral regul
 - Soft spectral penalties for regularization  
 - Continual learning and interference mitigation
 
-[[2026-06-04_17-59-55Z_TailLoR_ProtectingPrincipalComponentsinParameter_E.md]]
+[[TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning]]

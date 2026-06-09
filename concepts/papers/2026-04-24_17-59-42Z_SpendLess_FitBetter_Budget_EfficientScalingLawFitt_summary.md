@@ -26,4 +26,4 @@ Our code is available at https://github.com/PlanarG/active-sl.
 - URL: http://arxiv.org/abs/2604.22753v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md
 
-[[2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md]]
+[[Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection]]

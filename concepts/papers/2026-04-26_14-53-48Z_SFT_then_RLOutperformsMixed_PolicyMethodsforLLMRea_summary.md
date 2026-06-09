@@ -26,4 +26,4 @@ Even a truncated variant with just 50 RL steps outperforms mixed-policy methods 
 - URL: http://arxiv.org/abs/2604.23747v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-53-48Z_SFT_then_RLOutperformsMixed_PolicyMethodsforLLMRea.md
 
-[[2026-04-26_14-53-48Z_SFT_then_RLOutperformsMixed_PolicyMethodsforLLMRea.md]]
+[[SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning]]

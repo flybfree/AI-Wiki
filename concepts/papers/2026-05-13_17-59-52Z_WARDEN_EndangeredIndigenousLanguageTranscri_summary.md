@@ -31,4 +31,4 @@ This research is crucial for the preservation and revitalization of endangered l
 - Two-stage Machine Translation Pipelines
 - Indigenous Language Technology
 
-[[2026-05-13_17-59-52Z_WARDEN_EndangeredIndigenousLanguageTranscriptionan.md]]
+[[WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data]]

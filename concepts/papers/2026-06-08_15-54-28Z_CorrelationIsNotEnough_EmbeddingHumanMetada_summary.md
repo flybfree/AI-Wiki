@@ -32,4 +32,4 @@ By embedding human metadata into causal discovery pipelines, the paper shifts th
 - OpenVINO runtime  
 - AMX silicon acceleration
 
-[[2026-06-08_15-54-28Z_CorrelationIsNotEnough_EmbeddingHumanMetadataforIn.md]]
+[[Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery]]

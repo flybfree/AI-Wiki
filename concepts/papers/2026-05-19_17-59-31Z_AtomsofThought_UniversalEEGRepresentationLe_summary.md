@@ -33,4 +33,4 @@ This research is significant because it establishes a universal standard for EEG
 - Motor Imagery Classification
 - Neuroinformatics
 
-[[2026-05-19_17-59-31Z_AtomsofThought_UniversalEEGRepresentationLearningw.md]]
+[[Atoms of Thought: Universal EEG Representation Learning with Microstates]]

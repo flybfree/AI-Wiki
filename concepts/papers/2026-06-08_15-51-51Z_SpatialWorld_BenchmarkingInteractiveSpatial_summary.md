@@ -26,4 +26,4 @@ SpatialWorld exposes critical limitations in current multimodal agents’ spatia
 ## Related Concepts  
 multimodal large language models (MLLMs), interactive spatial reasoning, partial observability, active exploration, long‑horizon planning, benchmark evaluation, simulation backends, text‑based action interface.
 
-[[2026-06-08_15-51-51Z_SpatialWorld_BenchmarkingInteractiveSpatialReasoni.md]]
+[[SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks]]

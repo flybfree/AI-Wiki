@@ -30,4 +30,4 @@ This work matters because it bridges the gap between AI automation and open‑en
 - Theorem proving  
 - Collaborative workflow modeling
 
-[[2026-05-07_17-56-32Z_AICo_Mathematician_AcceleratingMathematicianswithA.md]]
+[[AI Co-Mathematician: Accelerating Mathematicians with Agentic AI]]

@@ -31,4 +31,4 @@ This work matters because it provides a practical, empirically validated guideli
 - Post-Training Alignment
 - Verifiable Math Benchmarks (MATH, AIME)
 
-[[2026-05-12_17-57-48Z_BeyondGRPOandOn_PolicyDistillation_AnEmpiricalSpar.md]]
+[[Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training]]

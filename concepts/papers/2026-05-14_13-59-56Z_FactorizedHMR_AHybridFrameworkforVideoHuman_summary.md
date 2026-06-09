@@ -31,4 +31,4 @@ This research is significant because it challenges the monolithic approach to HM
 - Occlusion Handling
 - World-Space vs. Camera-Space Metrics
 
-[[2026-05-14_13-59-56Z_FactorizedHMR_AHybridFrameworkforVideoHumanMeshRec.md]]
+[[FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery]]

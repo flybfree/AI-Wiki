@@ -34,4 +34,4 @@ This work is significant because it provides a practical architectural mechanism
 - Gradient Conflict Mitigation
 - Foundation Models
 
-[[2026-05-14_17-58-15Z_EradicatingNegativeTransferinMulti_PhysicsFoundati.md]]
+[[Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing]]

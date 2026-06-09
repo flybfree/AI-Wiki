@@ -26,4 +26,4 @@ SkillOpt demonstrates that skills can be treated as external state objects subje
 ## Related Concepts  
 skill optimization, external state of frozen agent, textual learning‑rate budget, rejected‑edit buffer, epoch‑wise slow/meta update, rollout scoring, edit acceptance criteria, self‑evolving skills, text‑space optimizer, benchmark evaluation cells.
 
-[[2026-05-22_17-59-50Z_SkillOpt_ExecutiveStrategyforSelf_EvolvingAgentSki.md]]
+[[SkillOpt: Executive Strategy for Self-Evolving Agent Skills]]

@@ -26,4 +26,4 @@ This work demonstrates that intrinsic model internals can provide a principled, 
 ## Related Concepts  
 Sparse Autoencoder, mechanistic interpretability, reinforcement learning post‑training, curriculum learning, diversity control, quality filtering, latent representation extraction.
 
-[[2026-05-26_17-55-59Z_GuidingLLMPost_trainingDataEngineeringwithModelInt.md]]
+[[Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders]]

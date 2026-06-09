@@ -31,4 +31,4 @@ This work is significant because it provides a scalable and effective method for
 - Codeforces Elo
 - Reasoning trace mutation
 
-[[2026-05-14_17-57-40Z_OpenDeepThink_ParallelReasoningviaBradley__TerryAg.md]]
+[[OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation]]

@@ -31,4 +31,4 @@ RLDT bridges the gap between reinforcement learning and density-based generative
 - Expected-Target Approximation  
 - BPTT (Backpropagation Through Time)
 
-[[2026-06-07_12-28-51Z_ReinforcementLearningforFlow_MatchingPolicieswithD.md]]
+[[Reinforcement Learning for Flow-Matching Policies with Density Transport]]

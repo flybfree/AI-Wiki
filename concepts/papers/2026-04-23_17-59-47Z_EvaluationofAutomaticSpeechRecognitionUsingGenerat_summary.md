@@ -27,4 +27,4 @@ Generative LLMs may support more interpretable, semantics-aware ASR metrics.
 - Published: 2026-04-23T17:59:47Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-59-47Z_EvaluationofAutomaticSpeechRecognitionUsingGenerat.md
 
-[[2026-04-23_17-59-47Z_EvaluationofAutomaticSpeechRecognitionUsingGenerat.md]]
+[[Evaluation of Automatic Speech Recognition Using Generative Large Language Models]]

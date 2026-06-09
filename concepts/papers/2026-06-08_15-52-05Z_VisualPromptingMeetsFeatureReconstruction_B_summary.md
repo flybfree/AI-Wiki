@@ -30,4 +30,4 @@ These results prove that integrating visual prompting, dual‑teacher adaptation
 - Diffusion Models for Synthetic Data Generation  
 - Masked Multiscale Reconstruction (MMR) backbone
 
-[[2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md]]
+[[Visual Prompting Meets Feature Reconstruction-Based Anomaly Detection with Dual-Teacher Supervision]]

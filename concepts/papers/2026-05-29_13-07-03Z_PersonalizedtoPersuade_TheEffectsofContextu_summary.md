@@ -31,4 +31,4 @@ These results highlight that conversational design can modestly shape user perce
 - Persuasive communication (influencing attitudes or choices)  
 - AI literacy (user’s knowledge of AI capabilities and limitations)
 
-[[2026-05-29_13-07-03Z_PersonalizedtoPersuade_TheEffectsofContextualizati.md]]
+[[Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI]]

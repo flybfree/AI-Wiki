@@ -30,4 +30,4 @@ This work bridges discrete diffusion with continuous‑time theory, offering a s
 - Error propagation analysis  
 - Girsanov change‑of‑measure technique
 
-[[2026-05-26_17-52-28Z_FromScorestoGibbsCorrectors_AcceleratingUniform_Ra.md]]
+[[From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models]]

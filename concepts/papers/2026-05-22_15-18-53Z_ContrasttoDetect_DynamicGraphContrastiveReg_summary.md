@@ -31,4 +31,4 @@ ContrastAD addresses a critical gap in unsupervised MTS anomaly detection by ali
 - Batch‑level DTW distances  
 - Structural evolution as a learning signal
 
-[[2026-05-22_15-18-53Z_ContrasttoDetect_DynamicGraphContrastiveRegulariza.md]]
+[[Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series]]

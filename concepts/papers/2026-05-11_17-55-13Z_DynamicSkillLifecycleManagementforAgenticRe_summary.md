@@ -32,4 +32,4 @@ This work moves beyond static or fully internalized skill assumptions, enabling 
 - Skill retention, retirement, expansion  
 - Policy integration with external modules
 
-[[2026-05-11_17-55-13Z_DynamicSkillLifecycleManagementforAgenticReinforce.md]]
+[[Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning]]

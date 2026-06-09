@@ -31,4 +31,4 @@ This research is significant because it shifts the paradigm of agent maintenance
 - Containerization and Deployment Safety
 - Large Language Model Agents
 
-[[2026-05-21_17-48-33Z_MOSS_Self_EvolutionthroughSource_LevelRewritinginA.md]]
+[[MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems]]

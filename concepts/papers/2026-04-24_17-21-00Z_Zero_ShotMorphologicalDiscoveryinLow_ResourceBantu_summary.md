@@ -26,4 +26,4 @@ We release all code and discovered lexicons to support morphological documentati
 - URL: http://arxiv.org/abs/2604.22723v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-21-00Z_Zero_ShotMorphologicalDiscoveryinLow_ResourceBantu.md
 
-[[2026-04-24_17-21-00Z_Zero_ShotMorphologicalDiscoveryinLow_ResourceBantu.md]]
+[[Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering]]

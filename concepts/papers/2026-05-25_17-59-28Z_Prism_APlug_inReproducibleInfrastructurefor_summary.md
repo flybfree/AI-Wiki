@@ -30,4 +30,4 @@ This work matters because it addresses a fundamental barrier in the advancement 
 - Scalable Training Pipelines
 - Code Reuse and Fair Comparison
 
-[[2026-05-25_17-59-28Z_Prism_APlug_inReproducibleInfrastructureforScalabl.md]]
+[[Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning]]

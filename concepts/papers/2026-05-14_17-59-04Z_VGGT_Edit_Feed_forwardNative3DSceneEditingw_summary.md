@@ -32,4 +32,4 @@ This research is significant because it bridges the gap between high-speed 3D re
 - 3D geometric displacement
 - Text-conditioned generation
 
-[[2026-05-14_17-59-04Z_VGGT_Edit_Feed_forwardNative3DSceneEditingwithResi.md]]
+[[VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction]]

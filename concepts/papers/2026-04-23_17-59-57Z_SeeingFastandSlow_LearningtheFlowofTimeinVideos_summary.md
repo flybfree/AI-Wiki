@@ -27,4 +27,4 @@ Learning time-aware video representations may support new forms of controllable 
 - Published: 2026-04-23T17:59:57Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-59-57Z_SeeingFastandSlow_LearningtheFlowofTimeinVideos.md
 
-[[2026-04-23_17-59-57Z_SeeingFastandSlow_LearningtheFlowofTimeinVideos.md]]
+[[Seeing Fast and Slow: Learning the Flow of Time in Videos]]

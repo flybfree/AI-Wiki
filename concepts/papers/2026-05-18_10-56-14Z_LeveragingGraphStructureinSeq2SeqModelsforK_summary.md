@@ -32,4 +32,4 @@ This research is significant because it bridges a critical gap between textual s
 - CoDEx Dataset
 - Subgraph Topology
 
-[[2026-05-18_10-56-14Z_LeveragingGraphStructureinSeq2SeqModelsforKnowledg.md]]
+[[Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction]]

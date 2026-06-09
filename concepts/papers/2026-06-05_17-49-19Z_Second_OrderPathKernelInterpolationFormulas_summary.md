@@ -26,4 +26,4 @@ By refining the interpretation of neural network predictions, the work bridges l
 ## Related Concepts  
 Path kernel interpolation, deterministic gradient descent, stochastic gradient descent, momentum SGD, curvature weighting, sampling covariance, concentration inequalities, second‑order Taylor expansion.
 
-[[2026-06-05_17-49-19Z_Second_OrderPathKernelInterpolationFormulasinMachi.md]]
+[[Second-Order Path Kernel Interpolation Formulas in Machine Learning]]

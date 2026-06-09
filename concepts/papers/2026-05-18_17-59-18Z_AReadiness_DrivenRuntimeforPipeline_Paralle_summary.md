@@ -32,4 +32,4 @@ This research is significant because it tackles a fundamental bottleneck in scal
 - Resource Utilization
 - Stage Misalignment
 
-[[2026-05-18_17-59-18Z_AReadiness_DrivenRuntimeforPipeline_ParallelTraini.md]]
+[[A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability]]

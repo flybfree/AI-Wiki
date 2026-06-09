@@ -28,4 +28,4 @@ This work matters because it redefines autoformalization as a process rather tha
 - Process Semantics: A framework interpreting meaning in terms of procedural steps rather than static representations.  
 - Lean: A formal verification system used to express mathematical theorems rigorously.
 
-[[2026-06-08_15-57-14Z_Auto_formalizationissupposedtobeeasy_Trellisproces.md]]
+[[(Auto)formalization is supposed to be easy: Trellis process semantics for spelling out rigorous proofs]]

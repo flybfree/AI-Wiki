@@ -30,4 +30,4 @@ It establishes the “pre‑train once, fine‑tune for anything” paradigm tha
 - Pre‑training vs. fine‑tuning  
 - Encoder‑decoder split
 
-[[2026-05-09_1810.04805-bert-pre-training-bidirectional-transformers.md]]
+[[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding]]

@@ -31,4 +31,4 @@ This research is significant because it resolves a fundamental limitation in MLL
 - Evidence-Centered Cropping
 - Agentic Visual Reasoning
 
-[[2026-05-18_17-57-04Z_Vision_OPD_LearningtoSeeFineDetailsforMultimodalLL.md]]
+[[Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation]]

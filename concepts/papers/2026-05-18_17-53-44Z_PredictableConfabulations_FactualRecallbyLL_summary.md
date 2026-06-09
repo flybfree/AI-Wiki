@@ -32,4 +32,4 @@ This work is significant because it moves beyond aggregate performance metrics t
 - Model Capacity
 - Sigmoid Function
 
-[[2026-05-18_17-53-44Z_PredictableConfabulations_FactualRecallbyLLMsScale.md]]
+[[Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency]]

@@ -30,4 +30,4 @@ By replacing impractical stored exemplars with data that can be generated on‑t
 - Low vs high learning rates: tradeoff between speed and forgetting.  
 - Self‑generated samples: data sampled from the model’s own training distribution.
 
-[[2026-05-25_17-54-34Z_ForgettinginLanguageModels_Capacity_Optimization_a.md]]
+[[Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay]]

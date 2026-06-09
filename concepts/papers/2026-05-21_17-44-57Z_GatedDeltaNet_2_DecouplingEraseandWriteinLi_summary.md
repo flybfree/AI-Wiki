@@ -32,4 +32,4 @@ This research matters because it resolves a fundamental bottleneck in linear att
 - Needle-in-a-Haystack Benchmark
 - FineWeb-Edu Dataset
 
-[[2026-05-21_17-44-57Z_GatedDeltaNet_2_DecouplingEraseandWriteinLinearAtt.md]]
+[[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention]]

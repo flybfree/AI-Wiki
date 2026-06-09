@@ -32,4 +32,4 @@ This work is significant because it provides a practical, efficient, and theoret
 - Path-wise Reweighting
 - Gradient-Free Optimization
 
-[[2026-05-18_17-59-00Z_SURGE_Approximation_freeTrainingFreeParticleFilter.md]]
+[[SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate]]

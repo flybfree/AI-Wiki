@@ -30,4 +30,4 @@ This work bridges the gap between LLM reasoning and concrete time‑series evalu
 - Benchmarking for multimodal tasks  
 - Quantitative comparison of time series metrics
 
-[[2026-06-02_13-28-17Z_TSQAgent_RatingTimeSeriesDataQualityviaDedicatedAg.md]]
+[[TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning]]

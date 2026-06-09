@@ -30,4 +30,4 @@ VHG addresses a critical bottleneck in LLM training: generating high‑quality, 
 - Symbolic verification vs. probabilistic LLM verification  
 - Hard problem generation in AI research
 
-[[2026-05-07_17-58-32Z_Verifier_BackedHardProblemGenerationforMathematica.md]]
+[[Verifier-Backed Hard Problem Generation for Mathematical Reasoning]]

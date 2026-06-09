@@ -33,4 +33,4 @@ This research is significant because it demonstrates that automating psychiatric
 - Clinical Nomenclature Adaptation
 - Spanish Medical Text Analysis
 
-[[2026-05-20_13-26-05Z_AutomatedICDClassificationofPsychiatricDiagnoses_F.md]]
+[[Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models]]

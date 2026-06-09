@@ -26,4 +26,4 @@ ClinEnv makes the invisible trade‑off between outcome quality and process effi
 ## Related Concepts  
 Longitudinal Inpatient Simulation, Interactive EHR environment, decision stages, ontology‑grounded matching, F1 score, information‑acquisition gap, multi‑stage decision‑making, agent‑based simulation, longitudinal inpatient scenario.
 
-[[2026-06-01_17-56-26Z_ClinEnv_AnInteractiveMulti_StageLongHorizonEHREnvi.md]]
+[[ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents]]

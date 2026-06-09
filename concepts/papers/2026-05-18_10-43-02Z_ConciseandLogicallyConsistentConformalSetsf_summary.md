@@ -31,4 +31,4 @@ This work is significant because it provides a rigorous mathematical framework f
 - Distribution-Free Guarantees
 - Concept Extraction
 
-[[2026-05-18_10-43-02Z_ConciseandLogicallyConsistentConformalSetsforNeuro.md]]
+[[Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models]]

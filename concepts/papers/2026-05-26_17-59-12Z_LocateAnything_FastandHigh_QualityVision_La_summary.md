@@ -31,4 +31,4 @@ The work matters because it tackles the fundamental bottleneck of sequential tok
 - Inference bottleneck in sequential generation  
 - Large‑scale dataset curation for training robustness
 
-[[2026-05-26_17-59-12Z_LocateAnything_FastandHigh_QualityVision_LanguageG.md]]
+[[LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding]]

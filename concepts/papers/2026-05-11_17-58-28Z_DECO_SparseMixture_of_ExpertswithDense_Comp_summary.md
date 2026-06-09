@@ -32,4 +32,4 @@ DECO demonstrates that sparse MoE models can be deployed efficiently on end‑si
 - Dense vs. sparse inference  
 - Acceleration kernels
 
-[[2026-05-11_17-58-28Z_DECO_SparseMixture_of_ExpertswithDense_ComparableP.md]]
+[[DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices]]

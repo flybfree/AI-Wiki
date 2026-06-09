@@ -32,4 +32,4 @@ This research is significant because it exposes a hidden vulnerability in the fi
 - Instruction-Response Data
 - Open-Weight Models
 
-[[2026-05-20_12-58-01Z_Reasoning_TraceCollapse_EvaluatingtheLossofExplici.md]]
+[[Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning]]

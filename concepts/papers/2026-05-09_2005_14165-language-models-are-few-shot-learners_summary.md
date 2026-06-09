@@ -30,4 +30,4 @@ GPT‑3 introduced the concept of a *foundation model*—a single, broadly train
 - Foundation models: large, general‑purpose models trained on diverse data.  
 - Scaling laws: empirical relationships between model size, data, compute and performance.
 
-[[2026-05-09_2005.14165-language-models-are-few-shot-learners.md]]
+[[Language Models Are Few-Shot Learners" (GPT-3)]]

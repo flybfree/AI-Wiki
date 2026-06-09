@@ -29,4 +29,4 @@ The existence of non‑negative \(L_{1}\)-approximating polynomials is crucial f
 - **Sandwich polynomials**: Approximations constrained between two other functions; they serve as a benchmark for L1 approximation.  
 - **Pointwise guarantee**: The additional condition that the approximating polynomial stays within \([0,\infty)\).
 
-[[2026-05-08_17-55-39Z_ANoteonNon_Negative_L_1__ApproximatingPolynomials.md]]
+[[A Note on Non-Negative $L_1$-Approximating Polynomials]]

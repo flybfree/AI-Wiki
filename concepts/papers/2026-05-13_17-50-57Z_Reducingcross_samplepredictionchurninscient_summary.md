@@ -31,4 +31,4 @@ This work highlights a critical blind spot in scientific machine learning benchm
 - Deep ensembles and MC dropout
 - Stochastic weight averaging
 
-[[2026-05-13_17-50-57Z_Reducingcross_samplepredictionchurninscientificmac.md]]
+[[Reducing cross-sample prediction churn in scientific machine learning]]

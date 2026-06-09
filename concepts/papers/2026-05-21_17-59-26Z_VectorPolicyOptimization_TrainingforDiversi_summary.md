@@ -31,4 +31,4 @@ This work demonstrates that post‑training objectives should prioritize diversi
 - AlphaEvolve and other inference‑scaling search frameworks  
 - Pass@k and best@k evaluation metrics
 
-[[2026-05-21_17-59-26Z_VectorPolicyOptimization_TrainingforDiversityImpro.md]]
+[[Vector Policy Optimization: Training for Diversity Improves Test-Time Search]]

@@ -32,4 +32,4 @@ This work is significant because it provides the first systematic breakdown of w
 - LTX-2 Backbone
 - JavisBench and VBench Benchmarks
 
-[[2026-05-12_17-56-59Z_OmniNFT_Modality_wiseOmniDiffusionReinforcementfor.md]]
+[[OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation]]

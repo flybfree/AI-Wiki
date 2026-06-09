@@ -31,4 +31,4 @@ By enabling high‑fidelity 3D head generation from massive multi‑view dataset
 - Latent space representation  
 - Test‑time optimization (or lack thereof)
 
-[[2026-05-05_17-55-01Z_Large_ScaleHigh_Quality3DGaussianHeadReconstructio.md]]
+[[Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures]]

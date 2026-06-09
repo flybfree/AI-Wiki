@@ -31,4 +31,4 @@ XFP represents a significant advancement in LLM deployment by removing the compl
 - Memory-Efficient Inference
 - Lloyd Clustering
 
-[[2026-05-14_13-52-31Z_XFP_Quality_TargetedAdaptiveCodebookQuantizationwi.md]]
+[[XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference]]

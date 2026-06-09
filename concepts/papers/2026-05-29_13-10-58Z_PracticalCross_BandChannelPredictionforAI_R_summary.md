@@ -33,4 +33,4 @@ This work bridges the gap between model generalization and low‑latency inferen
 - Model‑based baselines (FIRE, R2F2)  
 - Wireless communications modeling
 
-[[2026-05-29_13-10-58Z_PracticalCross_BandChannelPredictionforAI_RANviaPh.md]]
+[[Practical Cross-Band Channel Prediction for AI-RAN via Physics-Guided Deep Unfolding]]

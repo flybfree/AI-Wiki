@@ -26,4 +26,4 @@ AREA provides a principled, end‑to‑end solution for incremental adaptation i
 ## Related Concepts  
 CLIP‑based Class‑Incremental Learning, attribute extraction, attribute aggregation, catastrophic forgetting, hyperspherical embeddings, geodesic analysis, principal component analysis (PCA) on manifolds, variational information bottleneck (VIBO), optimal transport, task manifolds, incremental learning, multimodal representation learning.
 
-[[2026-05-27_17-58-16Z_AREA_AttributeExtractionandAggregationforCLIP_Base.md]]
+[[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning]]

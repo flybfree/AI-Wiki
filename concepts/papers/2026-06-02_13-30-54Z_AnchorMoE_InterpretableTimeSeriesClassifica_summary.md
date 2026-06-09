@@ -26,4 +26,4 @@ AnchorMoE bridges a critical gap in high‑stakes time series analysis by delive
 ## Related Concepts  
 Mixture‑of‑Experts (MoE), additive decomposition, geometric orthogonality constraint, reliability gate, uncertainty‑aware weighting, multi‑view encoding, interpretable AI, time series classification.
 
-[[2026-06-02_13-30-54Z_AnchorMoE_InterpretableTimeSeriesClassificationvia.md]]
+[[AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE]]

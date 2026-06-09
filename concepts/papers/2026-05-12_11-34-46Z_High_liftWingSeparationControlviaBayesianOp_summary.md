@@ -32,4 +32,4 @@ This study highlights the current limitations of applying closed-loop Deep Reinf
 - Synthetic Jets
 - Aerodynamic Efficiency
 
-[[2026-05-12_11-34-46Z_High_liftWingSeparationControlviaBayesianOptimizat.md]]
+[[High-lift Wing Separation Control via Bayesian Optimization and Deep Reinforcement Learning]]

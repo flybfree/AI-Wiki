@@ -32,4 +32,4 @@ This work is significant because it provides a rigorous, algebraic solution to t
 - Basis-Dependent Parameters
 - Recursive Algorithms
 
-[[2026-05-14_17-58-27Z_WhenAreTwoNetworkstheSame_TensorSimilarityforMecha.md]]
+[[When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability]]

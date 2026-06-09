@@ -31,4 +31,4 @@ This work is significant because it proves that MoE architectures are viable and
 - Scaling Laws
 - Parameter Efficiency
 
-[[2026-05-26_17-58-24Z_MobileMoE_ScalingOn_DeviceMixtureofExperts.md]]
+[[MobileMoE: Scaling On-Device Mixture of Experts]]

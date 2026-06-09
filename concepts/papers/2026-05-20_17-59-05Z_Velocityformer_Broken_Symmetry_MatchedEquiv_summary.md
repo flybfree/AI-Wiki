@@ -31,4 +31,4 @@ This research is significant because it provides a robust, data-efficient tool f
 - Signal-to-noise ratio optimization
 - Inductive bias in machine learning
 
-[[2026-05-20_17-59-05Z_Velocityformer_Broken_Symmetry_MatchedEquivariantG.md]]
+[[Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction]]

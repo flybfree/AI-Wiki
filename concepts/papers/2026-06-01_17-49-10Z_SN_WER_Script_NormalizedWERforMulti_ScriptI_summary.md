@@ -31,4 +31,4 @@ SN‑WER provides a script‑insensitive evaluation metric that complements WER 
 - Script‑insensitive evaluation  
 - Token collision rate
 
-[[2026-06-01_17-49-10Z_SN_WER_Script_NormalizedWERforMulti_ScriptIndicASR.md]]
+[[SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation]]

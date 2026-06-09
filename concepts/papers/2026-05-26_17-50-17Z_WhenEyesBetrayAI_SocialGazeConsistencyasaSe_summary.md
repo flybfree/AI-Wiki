@@ -26,4 +26,4 @@ By introducing Social Gaze Consistency as a high‑level semantic cue, the paper
 ## Related Concepts  
 Social Gaze Consistency, high‑level semantic cues, AI image generation artifacts, vision‑language models, block‑compositional caption supervision, CLIP prior preservation, diffusion family spectral weakness in periocular structure, paired‑edit shortcut blocking, hard‑to‑easy difficulty transfer.
 
-[[2026-05-26_17-50-17Z_WhenEyesBetrayAI_SocialGazeConsistencyasaSemanticC.md]]
+[[When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection]]

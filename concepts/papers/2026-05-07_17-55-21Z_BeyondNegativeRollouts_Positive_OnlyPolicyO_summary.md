@@ -32,4 +32,4 @@ POPO offers an efficient, scalable method for RL with verifiable rewards by elim
 - Group Relative Policy Optimization (GRPO)  
 - KL divergence and similarity penalties
 
-[[2026-05-07_17-55-21Z_BeyondNegativeRollouts_Positive_OnlyPolicyOptimiza.md]]
+[[Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients]]

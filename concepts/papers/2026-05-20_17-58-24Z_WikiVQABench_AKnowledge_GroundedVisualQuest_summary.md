@@ -30,4 +30,4 @@ This research is significant because it challenges the prevailing trend in VQA b
 - Human-in-the-Loop Annotation
 - External Knowledge Retrieval
 
-[[2026-05-20_17-58-24Z_WikiVQABench_AKnowledge_GroundedVisualQuestionAnsw.md]]
+[[WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata]]

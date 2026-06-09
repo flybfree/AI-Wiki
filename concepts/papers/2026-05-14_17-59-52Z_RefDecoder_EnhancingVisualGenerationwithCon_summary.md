@@ -32,4 +32,4 @@ This work is significant because it challenges the prevailing assumption that de
 - PSNR (Peak Signal-to-Noise Ratio)
 - Decoder Conditioning
 
-[[2026-05-14_17-59-52Z_RefDecoder_EnhancingVisualGenerationwithConditiona.md]]
+[[RefDecoder: Enhancing Visual Generation with Conditional Video Decoding]]

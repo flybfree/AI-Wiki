@@ -31,4 +31,4 @@ GENESIS addresses a critical bottleneck in 6G deployment by automating synthesis
 - Knowledge graphs / persistent knowledge bases  
 - Over‑the‑air testing
 
-[[2026-05-26_17-58-43Z_GENESIS_HarnessingAIAgentsforAutonomous6GRANSynthe.md]]
+[[GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing]]

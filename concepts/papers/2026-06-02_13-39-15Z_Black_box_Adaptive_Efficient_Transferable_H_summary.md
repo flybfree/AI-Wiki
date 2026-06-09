@@ -26,4 +26,4 @@ IHO provides a standardized evaluation baseline for LLM jailbreak robustness, im
 ## Related Concepts  
 Adversarial robustness, black‑box attack, adaptive attacks, transfer learning, masked diffusion models, preference optimization, Circuit Breaker, auxiliary detector, jailbreak evaluation.
 
-[[2026-06-02_13-39-15Z_Black_box_Adaptive_Efficient_Transferable_Harmful_.md]]
+[[Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs]]

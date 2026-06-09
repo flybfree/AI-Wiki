@@ -31,4 +31,4 @@ This work clarifies that single‑channel distance estimation can achieve high a
 - Mean absolute error (MAE)  
 - Decay‑time (DRR), C₅₀, T₆₀ metrics
 
-[[2026-05-08_13-03-41Z_DependenceonEarlyandLateReverberationofSingle_Chan.md]]
+[[Dependence on Early and Late Reverberation of Single-Channel Speaker Distance Estimation]]

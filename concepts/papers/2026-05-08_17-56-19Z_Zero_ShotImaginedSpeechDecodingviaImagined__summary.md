@@ -32,4 +32,4 @@ This work provides a proof‑of‑concept for zero‑shot imagined speech decodi
 - Contrastive learning for embeddings  
 - Rank‑based evaluation of decoding performance
 
-[[2026-05-08_17-56-19Z_Zero_ShotImaginedSpeechDecodingviaImagined_to_List.md]]
+[[Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping]]

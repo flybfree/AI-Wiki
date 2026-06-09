@@ -27,4 +27,4 @@ A shared architecture plus light retuning can cover many super-resolution scales
 - Published: 2026-04-23T17:49:16Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-49-16Z_AScale_AdaptiveFrameworkforJointSpatiotemporalSupe.md
 
-[[2026-04-23_17-49-16Z_AScale_AdaptiveFrameworkforJointSpatiotemporalSupe.md]]
+[[A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models]]

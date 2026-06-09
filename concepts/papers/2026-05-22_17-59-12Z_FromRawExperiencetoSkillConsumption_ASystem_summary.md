@@ -26,4 +26,4 @@ Understanding the full skill lifecycle is crucial for scalable AI development, w
 ## Related Concepts  
 Skill extraction, domain adaptation, negative transfer, meta‑skill design, utility‑grounded evaluation.
 
-[[2026-05-22_17-59-12Z_FromRawExperiencetoSkillConsumption_ASystematicStu.md]]
+[[From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills]]

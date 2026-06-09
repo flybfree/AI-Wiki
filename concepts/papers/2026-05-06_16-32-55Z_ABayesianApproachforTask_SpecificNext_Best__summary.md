@@ -31,4 +31,4 @@ By aligning uncertainty quantification with task relevance, the framework enable
 - Uncertainty quantification  
 - Task‑specific optimization
 
-[[2026-05-06_16-32-55Z_ABayesianApproachforTask_SpecificNext_Best_ViewSel.md]]
+[[A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry]]

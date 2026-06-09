@@ -27,4 +27,4 @@ Benchmark conclusions in continual learning may depend strongly on the chosen tr
 - Published: 2026-04-23T17:59:34Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-59-34Z_Fine_TuningRegimesDefineDistinctContinualLearningP.md
 
-[[2026-04-23_17-59-34Z_Fine_TuningRegimesDefineDistinctContinualLearningP.md]]
+[[Fine-Tuning Regimes Define Distinct Continual Learning Problems]]

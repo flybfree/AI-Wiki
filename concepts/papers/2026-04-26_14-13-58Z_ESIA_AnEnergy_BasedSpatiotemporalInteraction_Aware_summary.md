@@ -26,4 +26,4 @@ Extensive experiments on standard benchmarks demonstrate that ESIA achieves stat
 - URL: http://arxiv.org/abs/2604.23728v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-13-58Z_ESIA_AnEnergy_BasedSpatiotemporalInteraction_Aware.md
 
-[[2026-04-26_14-13-58Z_ESIA_AnEnergy_BasedSpatiotemporalInteraction_Aware.md]]
+[[ESIA: An Energy-Based Spatiotemporal Interaction-Aware Framework for Pedestrian Intention Prediction]]

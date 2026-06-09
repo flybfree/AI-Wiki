@@ -27,4 +27,4 @@ Synthetic data can provide consistent supervision for multi-task remote-sensing 
 - Published: 2026-04-23T15:59:12Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_15-59-12Z_SyMTRS_BenchmarkMulti_TaskSyntheticDatasetforDepth.md
 
-[[2026-04-23_15-59-12Z_SyMTRS_BenchmarkMulti_TaskSyntheticDatasetforDepth.md]]
+[[SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery]]

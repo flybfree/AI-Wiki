@@ -26,4 +26,4 @@ By embedding syntactic constraints directly into sampling, CFips overcomes a maj
 ## Related Concepts  
 interval patterns, syntactic constraints, constrained pattern mining, frequency‑based sampling, exact sampling guarantees, elementary predicates, multi‑step algorithm, proportional sampling.
 
-[[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]]
+[[Frequency-based Constrained Sampling for Interval Patterns]]

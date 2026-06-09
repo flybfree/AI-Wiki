@@ -32,4 +32,4 @@ These findings reveal that clinical LLMs can replicate documented human biases b
 - Age‑dependent risk stratification  
 - AI fairness and equity in healthcare
 
-[[2026-06-02_13-35-12Z_Gender_DependentDiagnosticSubstitutioninLLMMedical.md]]
+[[Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency]]

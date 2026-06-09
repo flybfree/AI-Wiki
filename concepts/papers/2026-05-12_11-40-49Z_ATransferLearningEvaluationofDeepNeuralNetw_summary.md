@@ -32,4 +32,4 @@ This work is significant because it provides practitioners with actionable insig
 - Accuracy Density
 - Computational Resource Optimization
 
-[[2026-05-12_11-40-49Z_ATransferLearningEvaluationofDeepNeuralNetworksfor.md]]
+[[A Transfer Learning Evaluation of Deep Neural Networks for Image Classification]]

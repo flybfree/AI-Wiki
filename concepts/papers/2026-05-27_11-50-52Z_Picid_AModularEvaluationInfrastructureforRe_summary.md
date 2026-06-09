@@ -30,4 +30,4 @@ Standardized evaluation is a bottleneck in PHM research because ad‑hoc choices
 - Fault detection vs. diagnostics vs. prognostics  
 - Reproducibility in machine learning experiments
 
-[[2026-05-27_11-50-52Z_Picid_AModularEvaluationInfrastructureforReproduci.md]]
+[[Picid: A Modular Evaluation Infrastructure for Reproducible PHM Across Tasks and Domains]]

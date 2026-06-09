@@ -32,4 +32,4 @@ This paper significantly reduces the barrier to entry for frontier search agent 
 - High-difficulty trajectories  
 - SOTA performance benchmarking
 
-[[2026-05-05_17-55-25Z_OpenSeeker_v2_PushingtheLimitsofSearchAgentswithIn.md]]
+[[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories]]

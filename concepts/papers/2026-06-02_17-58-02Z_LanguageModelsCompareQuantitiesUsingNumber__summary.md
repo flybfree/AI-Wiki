@@ -32,4 +32,4 @@ Understanding this heuristic reliance is crucial because it reveals how LMs hand
 - Causal intervention  
 - Linear surrogate modeling
 
-[[2026-06-02_17-58-02Z_LanguageModelsCompareQuantitiesUsingNumber_specifi.md]]
+[[Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics]]

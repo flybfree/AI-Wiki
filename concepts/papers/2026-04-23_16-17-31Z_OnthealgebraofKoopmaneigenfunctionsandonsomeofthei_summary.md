@@ -27,4 +27,4 @@ Algebraic closure of eigenfunctions can help learn more consistent global dynami
 - Published: 2026-04-23T16:17:31Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_16-17-31Z_OnthealgebraofKoopmaneigenfunctionsandonsomeofthei.md
 
-[[2026-04-23_16-17-31Z_OnthealgebraofKoopmaneigenfunctionsandonsomeofthei.md]]
+[[On the algebra of Koopman eigenfunctions and on some of their infinities]]

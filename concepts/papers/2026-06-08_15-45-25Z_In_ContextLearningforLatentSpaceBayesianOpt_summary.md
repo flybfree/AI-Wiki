@@ -31,4 +31,4 @@ This work bridges a longstanding gap between Bayesian optimization and foundatio
 - Regularized loss functions  
 - Variational autoencoders (VAE) for molecular data
 
-[[2026-06-08_15-45-25Z_In_ContextLearningforLatentSpaceBayesianOptimizati.md]]
+[[In-Context Learning for Latent Space Bayesian Optimization]]

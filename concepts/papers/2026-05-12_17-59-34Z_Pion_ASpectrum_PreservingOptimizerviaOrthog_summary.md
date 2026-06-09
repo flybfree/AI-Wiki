@@ -30,4 +30,4 @@ This work matters because it challenges the long-standing assumption that additi
 - Gradient-Based Optimization
 - Weight Matrix Geometry
 
-[[2026-05-12_17-59-34Z_Pion_ASpectrum_PreservingOptimizerviaOrthogonalEqu.md]]
+[[Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation]]

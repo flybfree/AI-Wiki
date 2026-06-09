@@ -30,4 +30,4 @@ This work demonstrates that large language models can harness internal memory st
 - Memory blocks (fixed token sequences)  
 - Two‑stage curriculum learning
 
-[[2026-05-28_17-59-49Z_UnlockingtheWorkingMemoryofLargeLanguageModelsforL.md]]
+[[Unlocking the Working Memory of Large Language Models for Latent Reasoning]]

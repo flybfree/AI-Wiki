@@ -30,4 +30,4 @@ PGT addresses a critical bottleneck in MLLM performance by providing cheap, scal
 - Dense supervision  
 - Instruction tuning
 
-[[2026-05-22_17-45-01Z_PGT_ProcedurallyGeneratedTasksforimprovingvisualgr.md]]
+[[PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs]]

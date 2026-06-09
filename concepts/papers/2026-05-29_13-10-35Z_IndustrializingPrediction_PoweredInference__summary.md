@@ -32,4 +32,4 @@ This work matters because it democratizes high‑quality evaluation for generati
 - LLM‑as‑judge proxy  
 - Decentralized evaluation
 
-[[2026-05-29_13-10-35Z_IndustrializingPrediction_PoweredInference_TheGLID.md]]
+[[Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation]]

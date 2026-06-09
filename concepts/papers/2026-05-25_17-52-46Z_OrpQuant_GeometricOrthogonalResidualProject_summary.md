@@ -26,4 +26,4 @@ ORP bridges the gap between ultra‑low bit quantization and practical edge depl
 ## Related Concepts  
 Power‑of‑Two (PoT) quantization, Low Angular Resolution Regime, orthogonal basis projection, residual lattice synthesis, multiplier‑free hardware implementation, analytical solver for quantization, AWQ baseline, LLaMA‑2‑7B perplexity, 3‑bit W3/A16 constraint.
 
-[[2026-05-25_17-52-46Z_OrpQuant_GeometricOrthogonalResidualProjectionforM.md]]
+[[OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization]]

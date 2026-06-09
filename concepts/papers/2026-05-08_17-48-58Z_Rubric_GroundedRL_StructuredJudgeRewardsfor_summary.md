@@ -34,4 +34,4 @@ Rubric‑grounded RL offers a principled way to design reinforcement learning ob
 - OSTI corpus  
 - Generalizable reasoning
 
-[[2026-05-08_17-48-58Z_Rubric_GroundedRL_StructuredJudgeRewardsforGeneral.md]]
+[[Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning]]

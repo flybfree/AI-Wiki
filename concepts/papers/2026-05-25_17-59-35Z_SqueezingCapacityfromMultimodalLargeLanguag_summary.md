@@ -30,4 +30,4 @@ By integrating multimodal understanding with explicit identity preservation, the
 - Dual Layer Aggregation (DLA) module  
 - Subject‑driven image synthesis
 
-[[2026-05-25_17-59-35Z_SqueezingCapacityfromMultimodalLargeLanguageModels.md]]
+[[Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation]]

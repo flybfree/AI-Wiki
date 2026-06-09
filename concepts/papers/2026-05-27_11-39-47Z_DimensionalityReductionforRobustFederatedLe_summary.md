@@ -26,4 +26,4 @@ Robust federated learning remains limited by computational overhead as models gr
 ## Related Concepts  
 Federated Learning, Byzantine attacks, Robust aggregators, Subspace Embedding Theorem, Sparse random projection, Convergence rates (1/√T, 1/T), Projected Dimensionality Reduction.
 
-[[2026-05-27_11-39-47Z_DimensionalityReductionforRobustFederatedLearning_.md]]
+[[Dimensionality Reduction for Robust Federated Learning: A Theoretical Analysis and Convergence Guarantee]]

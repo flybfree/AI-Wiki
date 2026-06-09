@@ -26,4 +26,4 @@ By separating perception from reasoning, MemDreamer mitigates the token explosio
 ## Related Concepts  
 Hierarchical Graph Memory, Agentic Retrieval, Observation‑Reason‑Action loop, Vision‑Language Models, Long Video Understanding, Perception‑Reasoning Decoupling, Spatiotemporal Causal Relations.
 
-[[2026-06-05_17-59-21Z_MemDreamer_DecouplingPerceptionandReasoningforLong.md]]
+[[MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism]]

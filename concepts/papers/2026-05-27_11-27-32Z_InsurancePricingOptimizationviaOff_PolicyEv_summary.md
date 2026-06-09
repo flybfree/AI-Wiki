@@ -33,4 +33,4 @@ This work bridges insurance actuary theory with modern machine learning, offerin
 - Actuarial fairness  
 - Price sensitivity modeling
 
-[[2026-05-27_11-27-32Z_InsurancePricingOptimizationviaOff_PolicyEvaluatio.md]]
+[[Insurance Pricing Optimization via Off-Policy Evaluation]]

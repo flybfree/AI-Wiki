@@ -31,4 +31,4 @@ This work is significant because it highlights a fundamental bottleneck in deplo
 - Inference-Time Reasoning
 - Policy Generation
 
-[[2026-05-14_14-05-58Z_DoCodingAgentsUnderstandLeast_PrivilegeAuthorizati.md]]
+[[Do Coding Agents Understand Least-Privilege Authorization?]]

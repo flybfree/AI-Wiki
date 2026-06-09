@@ -30,4 +30,4 @@ LINK addresses a bottleneck in multilingual AI: transferring knowledge from abun
 - Data‑level interventions in pretraining  
 - Knowledge distillation via token substitution
 
-[[2026-05-22_17-45-49Z_MultilingualKnowledgeTransferunderDataConstraintsv.md]]
+[[Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions]]

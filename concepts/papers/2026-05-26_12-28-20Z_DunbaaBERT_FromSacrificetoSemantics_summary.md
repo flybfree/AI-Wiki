@@ -30,4 +30,4 @@ These findings demonstrate that carefully curated Urdu‑specific encoder models
 - Multilingual baselines: Models trained on diverse languages (e.g., mBART, XLM‑R).  
 - Efficiency trade‑offs: Balance between model size, training cost, and inference speed.
 
-[[2026-05-26_12-28-20Z_DunbaaBERT_FromSacrificetoSemantics.md]]
+[[DunbaaBERT: From Sacrifice to Semantics]]

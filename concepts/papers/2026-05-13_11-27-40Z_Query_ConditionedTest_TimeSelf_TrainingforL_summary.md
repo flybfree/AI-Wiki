@@ -32,4 +32,4 @@ This research is significant because it provides a practical and effective solut
 - Scientific Reasoning
 - Inference-Time Adaptation
 
-[[2026-05-13_11-27-40Z_Query_ConditionedTest_TimeSelf_TrainingforLargeLan.md]]
+[[Query-Conditioned Test-Time Self-Training for Large Language Models]]

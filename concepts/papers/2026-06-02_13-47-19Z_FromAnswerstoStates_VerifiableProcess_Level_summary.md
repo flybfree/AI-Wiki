@@ -30,4 +30,4 @@ ChemCoTBench‑V2 provides a scalable, low‑cost mechanism to audit chemical re
 - Oracle verification  
 - Benchmarking of intermediate states
 
-[[2026-06-02_13-47-19Z_FromAnswerstoStates_VerifiableProcess_LevelEvaluat.md]]
+[[From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models]]

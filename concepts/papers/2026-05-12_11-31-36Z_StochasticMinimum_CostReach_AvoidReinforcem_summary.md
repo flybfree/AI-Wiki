@@ -31,4 +31,4 @@ This work is significant because it provides a rigorous and practical solution t
 - MuJoCo Simulator
 - Safe Reinforcement Learning
 
-[[2026-05-12_11-31-36Z_StochasticMinimum_CostReach_AvoidReinforcementLear.md]]
+[[Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning]]

@@ -31,4 +31,4 @@ This work shows that large language models can act as intelligent heuristic gene
 - Search effort reduction  
 - Benchmark domains for HTN (total‑order)
 
-[[2026-05-08_13-14-31Z_HierarchicalTaskNetworkPlanningwithLLM_GeneratedHe.md]]
+[[Hierarchical Task Network Planning with LLM-Generated Heuristics]]

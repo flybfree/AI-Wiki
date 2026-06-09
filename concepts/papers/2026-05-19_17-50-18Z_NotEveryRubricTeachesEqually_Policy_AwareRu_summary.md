@@ -30,4 +30,4 @@ This work is significant because it challenges the assumption that static human 
 - Dynamic Reward Weighting
 - Strict Completion Metrics
 
-[[2026-05-19_17-50-18Z_NotEveryRubricTeachesEqually_Policy_AwareRubricRew.md]]
+[[Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR]]

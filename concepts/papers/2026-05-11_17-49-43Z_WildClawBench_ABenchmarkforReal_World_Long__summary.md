@@ -33,4 +33,4 @@ WildClawBench demonstrates that long‑horizon, native‑runtime agent evaluatio
 - Real tools vs. mock services  
 - Reproducible evaluation pipelines
 
-[[2026-05-11_17-49-43Z_WildClawBench_ABenchmarkforReal_World_Long_Horizon.md]]
+[[WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation]]

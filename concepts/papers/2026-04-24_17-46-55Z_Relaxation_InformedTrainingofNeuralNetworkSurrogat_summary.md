@@ -26,4 +26,4 @@ Experiments on non-convex benchmark functions and a two-stage stochastic program
 - URL: http://arxiv.org/abs/2604.22746v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-46-55Z_Relaxation_InformedTrainingofNeuralNetworkSurrogat.md
 
-[[2026-04-24_17-46-55Z_Relaxation_InformedTrainingofNeuralNetworkSurrogat.md]]
+[[Relaxation-Informed Training of Neural Network Surrogate Models]]

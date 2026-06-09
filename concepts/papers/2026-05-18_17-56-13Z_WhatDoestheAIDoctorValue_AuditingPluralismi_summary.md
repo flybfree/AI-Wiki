@@ -32,4 +32,4 @@ This work is significant because it highlights a fundamental mismatch between th
 - Overton Pluralism
 - AI Auditing Frameworks
 
-[[2026-05-18_17-56-13Z_WhatDoestheAIDoctorValue_AuditingPluralismintheCli.md]]
+[[What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models]]

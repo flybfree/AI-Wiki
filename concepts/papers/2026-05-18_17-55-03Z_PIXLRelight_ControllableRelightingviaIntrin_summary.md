@@ -32,4 +32,4 @@ This work represents a significant advancement in computational photography and 
 - Coarse 3D Reconstruction
 - Feed-forward Networks
 
-[[2026-05-18_17-55-03Z_PIXLRelight_ControllableRelightingviaIntrinsicCond.md]]
+[[PIXLRelight: Controllable Relighting via Intrinsic Conditioning]]

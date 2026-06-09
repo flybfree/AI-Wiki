@@ -26,4 +26,4 @@ By linking fairness directly to the model’s learning trajectory rather than st
 ## Related Concepts  
 Federated Learning, Shapley Value, Shapley Approximation, Adaptive Aggregation, Fairness Metrics, Validation‑Based Utility, Trajectory Analysis, Adversarial Participation.
 
-[[2026-05-28_17-58-57Z_Fairness_AwareFederatedLearningwithTrajectoryShapl.md]]
+[[Fairness-Aware Federated Learning with Trajectory Shapley Value]]

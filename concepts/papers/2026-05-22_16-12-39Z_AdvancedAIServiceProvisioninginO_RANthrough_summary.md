@@ -30,4 +30,4 @@ By decoupling high‑level intent generation from low‑level model training, th
 - Containerized 5G SA testbed  
 - Kubernetes controller for O‑RAN services
 
-[[2026-05-22_16-12-39Z_AdvancedAIServiceProvisioninginO_RANthroughLLMEngi.md]]
+[[Advanced AI Service Provisioning in O-RAN through LLM Engine Integration]]

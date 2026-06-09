@@ -31,4 +31,4 @@ This research matters because it resolves the trade-off between speed and reliab
 - Tool Use Validation
 - Invariant-Enforcing Protocols
 
-[[2026-05-20_17-54-27Z_AgentJITCompilationforLatency_OptimizingWebAgentPl.md]]
+[[Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling]]

@@ -32,4 +32,4 @@ This research is significant because it provides a practical, scalable solution 
 - Latent Feature Disentanglement
 - Edge Computing for Signal Processing
 
-[[2026-05-14_13-43-55Z_GenAIforEnergy_EfficientandInterference_AwareCompr.md]]
+[[GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU]]

@@ -26,4 +26,4 @@ This work challenges the assumption that scaling models automatically improves b
 ## Related Concepts  
 Scaling laws, safety‑accuracy trade‑off, Retrieval Augmented Generation (RAG), agentic RAG, context length scaling, worst‑case analysis, clinical risk mitigation.
 
-[[2026-05-05_17-57-19Z_Safetyandaccuracyfollowdifferentscalinglawsinclini.md]]
+[[Safety and accuracy follow different scaling laws in clinical large language models]]

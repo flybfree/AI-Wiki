@@ -33,4 +33,4 @@ By addressing the bottleneck between query structure and rubric quality, QUBRIC 
 - Gradient Proximal Policy Optimization (GRPO)  
 - ArenaHard benchmark
 
-[[2026-06-02_17-53-04Z_QUBRIC_Co_DesigningQueriesandRubricsforRLBeyondVer.md]]
+[[QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards]]

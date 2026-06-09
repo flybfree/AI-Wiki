@@ -26,4 +26,4 @@ Crucially, UAE is over 180x faster than the efficient LLM re-ranking methods pre
 - URL: http://arxiv.org/abs/2604.22722v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-18-56Z_AligningDenseRetrieverswithLLMUtilityviaDistillati.md
 
-[[2026-04-24_17-18-56Z_AligningDenseRetrieverswithLLMUtilityviaDistillati.md]]
+[[Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation]]

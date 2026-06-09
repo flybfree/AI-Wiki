@@ -26,4 +26,4 @@ By replacing model‑based auxiliary judges with symbolic meta‑verification an
 ## Related Concepts  
 multimodal meta‑verification, symbolic rationales, reinforcement learning, binary judgment, fine‑grained error localization, agentic generation, self‑correction, foundation model deployment.
 
-[[2026-05-27_17-56-04Z_OmniVerifier_M1_MultimodalMeta_VerifierwithExplici.md]]
+[[OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration]]

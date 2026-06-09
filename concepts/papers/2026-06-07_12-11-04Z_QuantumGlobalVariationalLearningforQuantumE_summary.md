@@ -30,4 +30,4 @@ This work tackles a critical bottleneck: the exponential growth of circuit depth
 - Unitary matrix reduction  
 - Noise robustness
 
-[[2026-06-07_12-11-04Z_QuantumGlobalVariationalLearningforQuantumErrorCor.md]]
+[[Quantum Global Variational Learning for Quantum Error Correction]]

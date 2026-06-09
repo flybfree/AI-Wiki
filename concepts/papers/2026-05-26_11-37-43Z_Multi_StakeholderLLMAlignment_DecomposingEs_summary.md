@@ -26,4 +26,4 @@ By isolating estimation from aggregation, DecompR improves the fairness and reli
 ## Related Concepts  
 Multi‑stakeholder alignment, utility estimation, utility aggregation, implicit weighting, counterfactual calibration, decomposition of tasks, LLM judges.
 
-[[2026-05-26_11-37-43Z_Multi_StakeholderLLMAlignment_DecomposingEstimatio.md]]
+[[Multi-Stakeholder LLM Alignment: Decomposing Estimation from Aggregation]]

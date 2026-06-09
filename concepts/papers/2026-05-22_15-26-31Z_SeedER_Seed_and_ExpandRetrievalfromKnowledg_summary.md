@@ -26,4 +26,4 @@ SeedER matters because it offers an efficient, scalable retrieval mechanism for 
 ## Related Concepts  
 Knowledge Graphs, Retrieval, Dense Embeddings, Entity‑based Retrieval, Reinforcement Learning, Submodular Optimization, Compositional Queries, Ego‑Graph Expansion.
 
-[[2026-05-22_15-26-31Z_SeedER_Seed_and_ExpandRetrievalfromKnowledgeGraphs.md]]
+[[SeedER: Seed-and-Expand Retrieval from Knowledge Graphs]]

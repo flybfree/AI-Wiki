@@ -32,4 +32,4 @@ This work provides a theoretically grounded foundation for scalable sequence mod
 - Long-Context Robustness
 - Mamba Models
 
-[[2026-05-13_11-28-06Z_PhasorMemoryNetworks_StableBackpropagationThroughT.md]]
+[[Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory]]

@@ -32,4 +32,4 @@ This research is pivotal for computational biology and therapeutic antibody deve
 - R-Drop Regularization
 - CHIMERA-Bench
 
-[[2026-05-20_17-59-16Z_EvoStruct_BridgingEvolutionaryandStructuralPriorsf.md]]
+[[EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation]]

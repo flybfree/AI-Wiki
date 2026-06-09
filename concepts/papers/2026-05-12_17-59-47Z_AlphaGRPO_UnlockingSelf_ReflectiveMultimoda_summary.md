@@ -31,4 +31,4 @@ This research is significant because it eliminates the need for a cold-start sta
 - Multimodal Large Language Models (MLLMs)
 - Reinforcement Learning for Generation
 
-[[2026-05-12_17-59-47Z_AlphaGRPO_UnlockingSelf_ReflectiveMultimodalGenera.md]]
+[[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward]]

@@ -32,4 +32,4 @@ This research is significant because it shifts the focus from static knowledge r
 - Brier Skill Score
 - Open-ended Evaluation
 
-[[2026-05-14_17-59-28Z_FutureSim_ReplayingWorldEventstoEvaluateAdaptiveAg.md]]
+[[FutureSim: Replaying World Events to Evaluate Adaptive Agents]]

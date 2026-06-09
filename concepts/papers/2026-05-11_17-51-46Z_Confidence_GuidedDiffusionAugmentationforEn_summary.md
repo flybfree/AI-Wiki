@@ -32,4 +32,4 @@ This work demonstrates that quality‑aware diffusion augmentation can markedly 
 - Low‑resource handwritten character recognition  
 - Bangla compound character dataset (AIBangla)
 
-[[2026-05-11_17-51-46Z_Confidence_GuidedDiffusionAugmentationforEnhancedB.md]]
+[[Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition]]

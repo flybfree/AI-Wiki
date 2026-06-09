@@ -35,4 +35,4 @@ Federated learning enables collaborative model improvement without sharing raw d
 - Region‑level semantics  
 - Gating mechanism
 
-[[2026-05-27_11-51-25Z_FedMPT_FederatedMulti_labelPromptTuningofVision_La.md]]
+[[FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models]]

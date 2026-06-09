@@ -32,4 +32,4 @@ The work demonstrates that optimizing forecast models for downstream economic ou
 - Root mean squared error (RMSE) as a metric of forecast accuracy  
 - Warm‑starting (re‑initialising models with recent data to improve performance)
 
-[[2026-05-27_11-43-27Z_Decision_focusedlearningforoptimalPV_Batteryschedu.md]]
+[[Decision-focused learning for optimal PV-Battery scheduling]]

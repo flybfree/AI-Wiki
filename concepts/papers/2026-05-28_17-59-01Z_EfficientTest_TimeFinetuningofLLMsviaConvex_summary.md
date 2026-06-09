@@ -26,4 +26,4 @@ HullFT addresses the core limitation of TTFT—its per‑query computational exp
 ## Related Concepts  
 Test‑Time Finetuning (TTFT), convex hull approximation, Frank‑Wolfe algorithm, projection‑free optimization, geometric integerization, integer multiset, gradient reuse, sparsity, support set.
 
-[[2026-05-28_17-59-01Z_EfficientTest_TimeFinetuningofLLMsviaConvexReconst.md]]
+[[Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching]]

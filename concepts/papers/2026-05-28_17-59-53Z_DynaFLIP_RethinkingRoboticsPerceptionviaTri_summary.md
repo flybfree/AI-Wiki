@@ -32,4 +32,4 @@ By embedding motion information into the perception layer, DynaFLIP demonstrates
 - Robot manipulation perception  
 - 3D flow fields
 
-[[2026-05-28_17-59-53Z_DynaFLIP_RethinkingRoboticsPerceptionviaTri_Modal_.md]]
+[[DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation]]

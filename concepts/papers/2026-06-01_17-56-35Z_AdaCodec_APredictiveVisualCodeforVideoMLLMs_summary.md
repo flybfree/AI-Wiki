@@ -31,4 +31,4 @@ AdaCodec demonstrates that video MLLMs can achieve high visual quality with far 
 - Reference frames as full visual inputs  
 - Conditional predictive cost estimation
 
-[[2026-06-01_17-56-35Z_AdaCodec_APredictiveVisualCodeforVideoMLLMs.md]]
+[[AdaCodec: A Predictive Visual Code for Video MLLMs]]

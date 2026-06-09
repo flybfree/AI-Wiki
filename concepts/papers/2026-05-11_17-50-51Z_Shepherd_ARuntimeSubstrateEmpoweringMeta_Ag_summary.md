@@ -26,4 +26,4 @@ Shepherd bridges formal verification and high‑performance runtime, offering a 
 ## Related Concepts  
 functional programming, meta‑agents, execution trace, Git‑like logging, Lean formalization, runtime substrate, forked replay, prompt cache reuse, counterfactual exploration, Tree‑RL.
 
-[[2026-05-11_17-50-51Z_Shepherd_ARuntimeSubstrateEmpoweringMeta_Agentswit.md]]
+[[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace]]

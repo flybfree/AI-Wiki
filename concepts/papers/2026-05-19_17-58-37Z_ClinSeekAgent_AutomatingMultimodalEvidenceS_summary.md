@@ -32,4 +32,4 @@ This research is significant because it moves clinical AI from static, data-depe
 - Medical Imaging Integration
 - ClinSeek-Bench
 
-[[2026-05-19_17-58-37Z_ClinSeekAgent_AutomatingMultimodalEvidenceSeekingf.md]]
+[[ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning]]

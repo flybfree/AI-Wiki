@@ -30,4 +30,4 @@ These findings demonstrate that constructional understanding is not limited to t
 - World knowledge integration  
 - Training dynamics in LLMs
 
-[[2026-05-29_17-54-00Z_LanguageModelsLearnConstructionalSemantics_NotToMe.md]]
+[[Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions]]

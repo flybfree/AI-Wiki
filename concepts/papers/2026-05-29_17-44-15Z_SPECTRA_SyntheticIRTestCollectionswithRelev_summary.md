@@ -26,4 +26,4 @@ Synthetic corpora enable early detection of indexing bottlenecks, routing ineffi
 ## Related Concepts  
 Retrieval test collections, Cranfield‑style evaluation, TREC‑style evaluation, synthetic data generation, relevance oracles, distractor diagnostics, Zipf’s law, BM25 nDCG.
 
-[[2026-05-29_17-44-15Z_SPECTRA_SyntheticIRTestCollectionswithRelevanceOra.md]]
+[[SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Distractor Diagnostics]]

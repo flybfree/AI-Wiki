@@ -26,4 +26,4 @@ By decoupling guidance from hyperparameter tuning, the work opens a path toward 
 ## Related Concepts  
 Classifier‑Free Guidance (CFG), diffusion models, reinforcement learning (Proximal Policy Optimization – PPO), hyperparameter tuning, sequential decision making, generative AI, NLP task control.
 
-[[2026-05-08_13-12-32Z_GuidanceIsNotaHyperparameter_LearningDynamicContro.md]]
+[[Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models]]

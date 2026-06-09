@@ -31,4 +31,4 @@ These results demonstrate that autonomy is a lever for accelerating knowledge wo
 - Cross‑occupational knowledge work  
 - Composite task design
 
-[[2026-06-05_17-45-39Z_HowAIAgentsReshapeKnowledgeWork_Autonomy_Efficienc.md]]
+[[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope]]

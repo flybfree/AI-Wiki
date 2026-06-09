@@ -30,4 +30,4 @@ This work bridges theoretical I/O optimality and practical model training effici
 - FlashAttention algorithm  
 - Memory hierarchy (fast vs slow memory)
 
-[[2026-05-22_15-23-26Z_ApproachingI_O_optimalityforApproximateAttention.md]]
+[[Approaching I/O-optimality for Approximate Attention]]

@@ -26,4 +26,4 @@ These findings reveal a systematic loss of audio evidence during multimodal arbi
 ## Related Concepts  
 Audio‑language models, arbitration, counterfactual analysis, activation patching, logit interpolation, faithfulness budget, nAUC (normalized area under the curve), vision‑text arbitration.
 
-[[2026-06-03_17-57-51Z_BeyondTextFollowing_RepairableArbitrationReversals.md]]
+[[Beyond Text Following: Repairable Arbitration Reversals in Audio-Language Models]]

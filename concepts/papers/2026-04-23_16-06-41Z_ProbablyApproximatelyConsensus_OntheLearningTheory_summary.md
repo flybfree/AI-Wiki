@@ -27,4 +27,4 @@ Common-ground discovery can be framed as a learnable problem with practical quer
 - Published: 2026-04-23T16:06:41Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_16-06-41Z_ProbablyApproximatelyConsensus_OntheLearningTheory.md
 
-[[2026-04-23_16-06-41Z_ProbablyApproximatelyConsensus_OntheLearningTheory.md]]
+[[Probably Approximately Consensus: On the Learning Theory of Finding Common Ground]]

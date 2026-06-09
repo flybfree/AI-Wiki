@@ -32,4 +32,4 @@ This research is significant because it addresses a fundamental limitation in th
 - Large Language Models (LLMs)
 - Mathematical Reasoning
 
-[[2026-05-20_12-57-37Z_AdvantageCollapseinGroupRelativePolicyOptimization.md]]
+[[Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation]]

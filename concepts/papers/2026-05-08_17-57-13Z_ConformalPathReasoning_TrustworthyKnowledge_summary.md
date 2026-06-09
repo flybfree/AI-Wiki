@@ -26,4 +26,4 @@ By delivering statistically valid answer sets with tighter coverage and smaller 
 ## Related Concepts  
 Conformal Prediction, Knowledge Graph Question Answering, Path Retrieval, Exchangeability, Residual Conformal Value Network (RCVNet), PUCT‑guided Exploration, Empirical Coverage Rate, AUC.
 
-[[2026-05-08_17-57-13Z_ConformalPathReasoning_TrustworthyKnowledgeGraphQu.md]]
+[[Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration]]

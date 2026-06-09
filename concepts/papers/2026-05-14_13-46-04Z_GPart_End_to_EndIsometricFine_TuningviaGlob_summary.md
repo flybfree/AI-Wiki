@@ -30,4 +30,4 @@ GPart represents a paradigm shift in parameter-efficient fine-tuning by challeng
 - Optimization Landscape Geometry
 - Large Language Model Adaptation
 
-[[2026-05-14_13-46-04Z_GPart_End_to_EndIsometricFine_TuningviaGlobalParam.md]]
+[[GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning]]

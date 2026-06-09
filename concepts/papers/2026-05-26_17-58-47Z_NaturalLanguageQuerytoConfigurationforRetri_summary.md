@@ -29,4 +29,4 @@ This work demonstrates that per‑query optimization of the full retrieval pipel
 - LLM routing / query classification  
 - Per‑config prediction models
 
-[[2026-05-26_17-58-47Z_NaturalLanguageQuerytoConfigurationforRetrievalAge.md]]
+[[Natural Language Query to Configuration for Retrieval Agents]]

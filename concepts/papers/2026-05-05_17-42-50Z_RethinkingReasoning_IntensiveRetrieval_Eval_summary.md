@@ -31,4 +31,4 @@ This work advances reasoning‑intensive retrieval beyond static similarity matc
 - LoRA fine‑tuning  
 - BRIGHT benchmark
 
-[[2026-05-05_17-42-50Z_RethinkingReasoning_IntensiveRetrieval_Evaluatinga.md]]
+[[Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems]]

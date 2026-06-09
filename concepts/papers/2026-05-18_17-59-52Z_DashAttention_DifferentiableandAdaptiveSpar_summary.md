@@ -33,4 +33,4 @@ This research is significant because it resolves a fundamental tension in effici
 - Triton Kernel Implementation
 - Pareto Frontier in Efficiency-Accuracy Trade-offs
 
-[[2026-05-18_17-59-52Z_DashAttention_DifferentiableandAdaptiveSparseHiera.md]]
+[[DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention]]

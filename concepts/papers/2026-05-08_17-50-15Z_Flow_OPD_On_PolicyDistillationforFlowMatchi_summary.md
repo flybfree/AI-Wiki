@@ -26,4 +26,4 @@ This work establishes Flow‑OPD as a scalable alignment paradigm for building g
 ## Related Concepts  
 Flow Matching, On‑Policy Distillation (OPD), GRPO fine‑tuning, Manifold Anchor Regularization (MAR), Cold‑Start scheme, task‑routing labeling, dense trajectory supervision, teacher‑surpassing effect.
 
-[[2026-05-08_17-50-15Z_Flow_OPD_On_PolicyDistillationforFlowMatchingModel.md]]
+[[Flow-OPD: On-Policy Distillation for Flow Matching Models]]

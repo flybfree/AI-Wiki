@@ -30,4 +30,4 @@ Robust multimodal knowledge editing is crucial for practical deployment of MLLMs
 - Low‑rank subspace learning / Rank‑Constrained Subspace Learning (RCSL)  
 - Semantic equivalence units / Knowledge units
 
-[[2026-05-22_15-46-10Z_BeyondBinaryEditsRobustMultimodalKnowledgeEditingw.md]]
+[[Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment]]

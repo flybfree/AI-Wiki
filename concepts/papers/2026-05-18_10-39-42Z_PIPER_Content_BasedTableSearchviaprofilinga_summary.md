@@ -32,4 +32,4 @@ This research is significant because it addresses a fundamental bottleneck in da
 - Dataset Discovery
 - Metadata-Poor Environments
 
-[[2026-05-18_10-39-42Z_PIPER_Content_BasedTableSearchviaprofilingandLLM_G.md]]
+[[PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries]]

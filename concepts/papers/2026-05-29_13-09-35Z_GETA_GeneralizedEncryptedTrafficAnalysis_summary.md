@@ -34,4 +34,4 @@ GETA provides a practical foundation for reliable traffic analysis in modern enc
 - Few‑shot learning  
 - Traffic metadata extraction
 
-[[2026-05-29_13-09-35Z_GETA_GeneralizedEncryptedTrafficAnalysis.md]]
+[[GETA: Generalized Encrypted Traffic Analysis]]

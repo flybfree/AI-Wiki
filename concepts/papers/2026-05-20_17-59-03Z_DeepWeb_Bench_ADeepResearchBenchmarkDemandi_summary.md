@@ -31,4 +31,4 @@ This work is significant because it establishes a more rigorous standard for eva
 - Hallucination in AI
 - Benchmark Design for AI
 
-[[2026-05-20_17-59-03Z_DeepWeb_Bench_ADeepResearchBenchmarkDemandingMassi.md]]
+[[DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation]]

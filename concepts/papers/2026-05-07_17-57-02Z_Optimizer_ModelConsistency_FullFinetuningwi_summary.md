@@ -32,4 +32,4 @@ This research provides a principled explanation for why optimizer consistency ma
 - Model landscape  
 - Knowledge retention
 
-[[2026-05-07_17-57-02Z_Optimizer_ModelConsistency_FullFinetuningwiththeSa.md]]
+[[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less]]

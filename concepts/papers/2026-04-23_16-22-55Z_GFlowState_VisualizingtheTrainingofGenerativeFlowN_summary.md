@@ -27,4 +27,4 @@ Visualization tools can help developers reason about how GFlowNets explore and l
 - Published: 2026-04-23T16:22:55Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_16-22-55Z_GFlowState_VisualizingtheTrainingofGenerativeFlowN.md
 
-[[2026-04-23_16-22-55Z_GFlowState_VisualizingtheTrainingofGenerativeFlowN.md]]
+[[GFlowState: Visualizing the Training of Generative Flow Networks Beyond the Reward]]

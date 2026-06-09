@@ -34,4 +34,4 @@ This research is significant because it bridges the gap between generative AI ca
 - Plan Verification and Validation
 - Commander Intent Decomposition
 
-[[2026-05-14_13-58-36Z_IFPV_AnIntegratedMulti_AgentFrameworkforGenerative.md]]
+[[IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification]]

@@ -31,4 +31,4 @@ This work resolves a longstanding limitation of curiosity learning in photoreali
 - Active mapping baselines  
 - Zero‑shot generalization to new environments
 
-[[2026-05-21_17-58-06Z_RemembertobeCurious_EpisodicContextandPersistentWo.md]]
+[[Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration]]

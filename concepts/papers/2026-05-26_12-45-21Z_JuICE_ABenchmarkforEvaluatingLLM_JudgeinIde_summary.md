@@ -30,4 +30,4 @@ JuICE reveals that existing benchmarks and LLM‑based judges cannot reliably as
 - LLM‑as‑a‑Judge framework  
 - Span‑level annotation for error detection
 
-[[2026-05-26_12-45-21Z_JuICE_ABenchmarkforEvaluatingLLM_JudgeinIdentifyin.md]]
+[[JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors]]

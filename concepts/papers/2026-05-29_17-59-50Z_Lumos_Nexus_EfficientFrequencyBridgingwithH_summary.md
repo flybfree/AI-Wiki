@@ -31,4 +31,4 @@ This work is significant because it resolves a fundamental tension in unified vi
 - Computational Efficiency in Generative AI
 - VR-Bench Benchmark
 
-[[2026-05-29_17-59-50Z_Lumos_Nexus_EfficientFrequencyBridgingwithHomogene.md]]
+[[Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models]]

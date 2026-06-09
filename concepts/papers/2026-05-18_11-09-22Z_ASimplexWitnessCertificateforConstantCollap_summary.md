@@ -31,4 +31,4 @@ This work is significant because it shifts the paradigm of handling VAE collapse
 - Log-Odds Embedding
 - Information Theory
 
-[[2026-05-18_11-09-22Z_ASimplexWitnessCertificateforConstantCollapseinVar.md]]
+[[A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders]]

@@ -30,4 +30,4 @@ Grounding safety measurements in capability provides a consistent yardstick for 
 - Automated safety judgment systems  
 - Incoherent generation as a symptom of capability erosion
 
-[[2026-06-02_13-39-17Z_SafetyMeasurementsforFine_tunedLLMsShouldbeGrounde.md]]
+[[Safety Measurements for Fine-tuned LLMs Should be Grounded in Capability]]

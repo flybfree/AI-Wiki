@@ -26,4 +26,4 @@ CHRONOS provides a practical operating point where high recall, low latency, and
 ## Related Concepts  
 Temporal decay, neural ODE, Shapley valuation, changepoint detection, differential privacy (ε/δ), EXP3‑IX, moments accounting, Gaussian mechanism, post‑processing retrieval.
 
-[[2026-05-22_17-47-45Z_CHRONOS_Temporally_AwareMulti_AgentCoordinationfor.md]]
+[[CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces]]

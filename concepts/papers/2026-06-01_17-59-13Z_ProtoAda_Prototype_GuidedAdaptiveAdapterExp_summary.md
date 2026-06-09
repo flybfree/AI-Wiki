@@ -31,4 +31,4 @@ ProtoAda provides a principled way to align task semantics with output format, p
 - Geometric Consistency  
 - Adapter Expansion
 
-[[2026-06-01_17-59-13Z_ProtoAda_Prototype_GuidedAdaptiveAdapterExpansiona.md]]
+[[ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning]]

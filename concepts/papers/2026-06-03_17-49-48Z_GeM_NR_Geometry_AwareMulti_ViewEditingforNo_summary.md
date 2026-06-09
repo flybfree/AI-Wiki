@@ -30,4 +30,4 @@ GeM‑NR advances the state of the art by providing a general, training‑free s
 - Nonrigid scene modification  
 - Backbone editors (e.g., FLUX, Qwen)
 
-[[2026-06-03_17-49-48Z_GeM_NR_Geometry_AwareMulti_ViewEditingforNonrigidS.md]]
+[[GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes]]

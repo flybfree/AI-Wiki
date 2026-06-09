@@ -31,4 +31,4 @@ This work is significant because it offers a new paradigm for intellectual prope
 - Black-Box Querying
 - Intellectual Property Protection in AI
 
-[[2026-05-15_17-48-22Z_Dynamics_LevelWatermarkingofFlowMatchingModelswith.md]]
+[[Dynamics-Level Watermarking of Flow Matching Models with Random Codes]]

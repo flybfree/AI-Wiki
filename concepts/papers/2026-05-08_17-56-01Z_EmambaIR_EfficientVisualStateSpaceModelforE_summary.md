@@ -26,4 +26,4 @@ By merging sparse attention with linear‑time state‑space dynamics, EmambaIR 
 ## Related Concepts  
 Event‑based vision, convolutional neural networks (CNN), Vision Transformers (ViT), state space models (SSMs), sparse attention, gated units, top‑k selection, cross‑modal fusion.
 
-[[2026-05-08_17-56-01Z_EmambaIR_EfficientVisualStateSpaceModelforEvent_gu.md]]
+[[EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction]]

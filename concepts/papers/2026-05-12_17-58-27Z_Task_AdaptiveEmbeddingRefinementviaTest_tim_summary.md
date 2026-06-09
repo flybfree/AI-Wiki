@@ -31,4 +31,4 @@ This work is significant because it expands the practical applicability of embed
 - Intent detection
 - Binary separation in embedding space
 
-[[2026-05-12_17-58-27Z_Task_AdaptiveEmbeddingRefinementviaTest_timeLLMGui.md]]
+[[Task-Adaptive Embedding Refinement via Test-time LLM Guidance]]

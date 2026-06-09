@@ -33,4 +33,4 @@ These findings highlight that harness design is a central factor in end‑to‑e
 - Model scaling and distillation (Sonnet, Haiku)  
 - Fine‑tuning vs. generic RL objectives in theorem proving
 
-[[2026-05-26_12-49-49Z_MerLean_Prover_ARecursiveLoopingHarnessforEnd_to_E.md]]
+[[MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving]]

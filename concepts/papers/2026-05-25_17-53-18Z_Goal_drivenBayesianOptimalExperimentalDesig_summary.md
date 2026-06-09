@@ -31,4 +31,4 @@ By aligning experimental design with real‑world objectives, GoBOED reduces com
 - Differentiable convex decision layer  
 - Model uncertainty handling
 
-[[2026-05-25_17-53-18Z_Goal_drivenBayesianOptimalExperimentalDesignforRob.md]]
+[[Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty]]

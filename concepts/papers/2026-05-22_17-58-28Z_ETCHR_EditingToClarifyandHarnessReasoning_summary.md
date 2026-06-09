@@ -31,4 +31,4 @@ By separating reasoning from generation, ETCHR enables multimodal assistants to 
 - Decoupled prompting / plug‑in architecture  
 - Pass@1 metric for image‑question answering
 
-[[2026-05-22_17-58-28Z_ETCHR_EditingToClarifyandHarnessReasoning.md]]
+[[ETCHR: Editing To Clarify and Harness Reasoning]]

@@ -32,4 +32,4 @@ This work is significant because it shifts the paradigm of VLM post-training fro
 - Curriculum Learning
 - Decoupled Training Stages
 
-[[2026-05-19_17-58-40Z_FromSeeingtoThinking_DecouplingPerceptionandReason.md]]
+[[From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models]]

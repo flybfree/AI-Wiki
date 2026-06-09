@@ -26,4 +26,4 @@ This work bridges the gap between black‑box machine learning and interpretable
 ## Related Concepts  
 Neuro Symbolic Regression, Multi-Set Symbolic Skeleton Prediction, Transformer architectures, Genetic algorithms, Epistemic uncertainty, Parametric response curves, Management zones (MZ), Precision agriculture.
 
-[[2026-05-29_13-08-46Z_LearningParametricNitrogenFertilizerResponseCurves.md]]
+[[Learning Parametric Nitrogen Fertilizer Response Curves Using Neuro Symbolic Regression]]

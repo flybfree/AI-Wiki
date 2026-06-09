@@ -33,4 +33,4 @@ This work is significant because it establishes the first comprehensive, open-so
 - Metric Design (EVA-A, EVA-X)
 - Automated Simulation Validation
 
-[[2026-05-13_17-58-52Z_EVA_Bench_ANewEnd_to_endFrameworkforEvaluatingVoic.md]]
+[[EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents]]

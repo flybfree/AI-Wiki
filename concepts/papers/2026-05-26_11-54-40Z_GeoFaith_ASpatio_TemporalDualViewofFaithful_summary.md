@@ -32,4 +32,4 @@ By providing a scalable, reliable method to assess and improve faithfulness in L
 - Latent geometry  
 - Bootstrapping annotation pipelines
 
-[[2026-05-26_11-54-40Z_GeoFaith_ASpatio_TemporalDualViewofFaithfulChain_o.md]]
+[[GeoFaith: A Spatio-Temporal Dual View of Faithful Chain-of-Thought]]

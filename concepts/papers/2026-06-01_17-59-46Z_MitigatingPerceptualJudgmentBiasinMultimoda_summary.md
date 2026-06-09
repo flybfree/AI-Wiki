@@ -31,4 +31,4 @@ This work provides a scalable pathway for training multimodal judges that respec
 - Batch Ranking  
 - Counterfactual Generation
 
-[[2026-06-01_17-59-46Z_MitigatingPerceptualJudgmentBiasinMultimodalLLM_as.md]]
+[[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling]]

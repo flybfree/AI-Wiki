@@ -31,4 +31,4 @@ This work is significant because it anticipates and prepares the academic commun
 - Human-AI Collaboration
 - Preprint Servers
 
-[[2026-05-20_17-59-03Z_AiraXiv_AnAI_DrivenOpen_AccessPlatformforHumanandA.md]]
+[[AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists]]

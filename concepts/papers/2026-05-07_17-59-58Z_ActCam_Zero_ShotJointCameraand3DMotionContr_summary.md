@@ -28,4 +28,4 @@ This work matters because it addresses a long-standing challenge in video genera
 - Zero-shot learning: Achieving task performance without prior training data for that specific task.  
 - Two-phase conditioning: A strategy used to balance constraints during model inference to improve quality and stability.
 
-[[2026-05-07_17-59-58Z_ActCam_Zero_ShotJointCameraand3DMotionControlforVi.md]]
+[[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation]]

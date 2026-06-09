@@ -32,4 +32,4 @@ This research matters because it tackles the critical scalability and reliabilit
 - 1-hop Sub-graphs
 - Computational Efficiency
 
-[[2026-05-19_17-53-29Z_KoRe_CompactKnowledgeRepresentationsforLargeLangua.md]]
+[[KoRe: Compact Knowledge Representations for Large Language Models]]

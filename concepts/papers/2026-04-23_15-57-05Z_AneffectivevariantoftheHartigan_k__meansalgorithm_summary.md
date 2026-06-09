@@ -27,4 +27,4 @@ Small implementation changes can still matter in practical clustering performanc
 - Published: 2026-04-23T15:57:05Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_15-57-05Z_AneffectivevariantoftheHartigan_k__meansalgorithm.md
 
-[[2026-04-23_15-57-05Z_AneffectivevariantoftheHartigan_k__meansalgorithm.md]]
+[[An effective variant of the Hartigan $k$-means algorithm]]

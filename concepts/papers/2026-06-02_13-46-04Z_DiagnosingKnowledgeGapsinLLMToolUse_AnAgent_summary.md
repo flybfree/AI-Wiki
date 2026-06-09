@@ -32,4 +32,4 @@ This work provides a systematic framework for diagnosing why LLMs fail to use AP
 - Dynamic benchmarking  
 - Diagnostic categories for model failure
 
-[[2026-06-02_13-46-04Z_DiagnosingKnowledgeGapsinLLMToolUse_AnAgenticBench.md]]
+[[Diagnosing Knowledge Gaps in LLM Tool Use: An Agentic Benchmark for Novel API Acquisition]]

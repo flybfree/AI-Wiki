@@ -30,4 +30,4 @@ By enabling the use of rich, non‑binary feedback and guaranteeing monotonic im
 - Regret bounds in reinforcement learning  
 - Pass@N evaluation metric
 
-[[2026-06-03_17-54-04Z_ReinforcementLearningfromRichFeedbackwithDistribut.md]]
+[[Reinforcement Learning from Rich Feedback with Distributional DAgger]]

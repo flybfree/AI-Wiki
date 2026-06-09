@@ -32,4 +32,4 @@ This research is vital for datacenter designers and cloud providers as grid powe
 - Microsoft Azure Operational Data
 - Long-term Infrastructure Planning
 
-[[2026-05-15_17-58-58Z_DesigningDatacenterPowerDeliveryHierarchiesfortheA.md]]
+[[Designing Datacenter Power Delivery Hierarchies for the AI Era]]

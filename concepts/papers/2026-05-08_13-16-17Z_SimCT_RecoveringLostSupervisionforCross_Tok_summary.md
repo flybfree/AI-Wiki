@@ -29,4 +29,4 @@ This work resolves a fundamental limitation of OPD in real‑world settings wher
 - Supervision space enlargement  
 - Multi‑token continuations
 
-[[2026-05-08_13-16-17Z_SimCT_RecoveringLostSupervisionforCross_TokenizerO.md]]
+[[SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation]]

@@ -31,4 +31,4 @@ These findings are significant because they clarify the actual mechanisms and li
 - Human Evaluation of Machine Translation
 - LLM Distribution Bias
 
-[[2026-05-13_11-27-32Z_WhatDoesLLMRefinementActuallyImprove_ASystematicSt.md]]
+[[What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation]]

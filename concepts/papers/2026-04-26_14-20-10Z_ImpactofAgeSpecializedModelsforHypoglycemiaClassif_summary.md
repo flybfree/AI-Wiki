@@ -26,4 +26,4 @@ However, data of children obtain their best recall with age specialized model.
 - URL: http://arxiv.org/abs/2604.23732v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-20-10Z_ImpactofAgeSpecializedModelsforHypoglycemiaClassif.md
 
-[[2026-04-26_14-20-10Z_ImpactofAgeSpecializedModelsforHypoglycemiaClassif.md]]
+[[Impact of Age Specialized Models for Hypoglycemia Classification]]

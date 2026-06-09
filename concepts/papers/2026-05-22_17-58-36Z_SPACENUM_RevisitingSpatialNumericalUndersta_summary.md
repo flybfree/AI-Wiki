@@ -32,4 +32,4 @@ This work highlights a critical gap in VLM design: numerical outputs must be anc
 - Model tuning  
 - Reasoning traces
 
-[[2026-05-22_17-58-36Z_SPACENUM_RevisitingSpatialNumericalUnderstandingin.md]]
+[[SPACENUM: Revisiting Spatial Numerical Understanding in VLMs]]

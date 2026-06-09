@@ -32,4 +32,4 @@ Transforming qualitative maintenance observations into quantifiable reliability 
 - Hierarchical system codes  
 - Predictive maintenance
 
-[[2026-05-29_13-13-03Z_WindTurbineMaintenanceLogLabellingFramework_LLM_Dr.md]]
+[[Wind Turbine Maintenance Log Labelling Framework: LLM-Driven Data Correction and Enrichment via Semantic Extraction of Reliability Intelligence]]

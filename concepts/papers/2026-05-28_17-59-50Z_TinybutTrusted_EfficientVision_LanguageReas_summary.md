@@ -30,4 +30,4 @@ This work bridges the interpretability gap in multimodal anomaly detection, enab
 - Knowledge distillation  
 - Benchmarking with natural‑language rationales
 
-[[2026-05-28_17-59-50Z_TinybutTrusted_EfficientVision_LanguageReasoningfo.md]]
+[[Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection]]

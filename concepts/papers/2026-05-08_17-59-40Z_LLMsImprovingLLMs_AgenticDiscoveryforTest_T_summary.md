@@ -26,4 +26,4 @@ Automating TTS design reduces research effort, eliminates costly LLM calls durin
 ## Related Concepts  
 Test‑Time Scaling (TTS), controller synthesis, environment‑driven discovery, beta parameterization, reasoning trajectories, probe signals, width‑depth TTS.
 
-[[2026-05-08_17-59-40Z_LLMsImprovingLLMs_AgenticDiscoveryforTest_TimeScal.md]]
+[[LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling]]

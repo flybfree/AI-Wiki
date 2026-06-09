@@ -32,4 +32,4 @@ Training‑free bias mitigation is crucial for deploying GUI agents in real‑wo
 - Ambiguity bias from intricate UI components  
 - Training‑free adaptation and mitigation
 
-[[2026-05-07_17-59-31Z_BAMI_Training_FreeBiasMitigationinGUIGrounding.md]]
+[[BAMI: Training-Free Bias Mitigation in GUI Grounding]]

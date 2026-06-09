@@ -32,4 +32,4 @@ This research is significant because it challenges the prevailing trend of blind
 - LongMemEval Benchmark
 - Chronos Agent Harness
 
-[[2026-05-14_17-58-41Z_IsGrepAllYouNeed_HowAgentHarnessesReshapeAgenticSe.md]]
+[[Is Grep All You Need? How Agent Harnesses Reshape Agentic Search]]

@@ -31,4 +31,4 @@ This work moves root‑cause analysis from heuristic to auditable reasoning, red
 - Evidence‑based root cause analysis (RCA)  
 - F1 score (evaluation metric for entity classification)
 
-[[2026-06-07_12-05-09Z_AuditableGraph_GuidedRootCauseAnalysisforKubernete.md]]
+[[Auditable Graph-Guided Root Cause Analysis for Kubernetes Incidents]]

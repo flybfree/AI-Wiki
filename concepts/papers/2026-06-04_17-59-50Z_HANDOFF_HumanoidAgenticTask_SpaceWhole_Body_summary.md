@@ -34,4 +34,4 @@ HANDOFF bridges the gap between high‑level task planning and low‑level whole
 - Humanoid robotics  
 - Safety‑filtered data handling
 
-[[2026-06-04_17-59-50Z_HANDOFF_HumanoidAgenticTask_SpaceWhole_BodyControl.md]]
+[[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers]]

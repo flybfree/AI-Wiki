@@ -32,4 +32,4 @@ This research is significant because it bridges the gap between abstract differe
 - Hybrid Eulerian-Lagrangian Methods
 - Physics-Informed Machine Learning
 
-[[2026-05-13_17-56-23Z_Topology_PreservingNeuralOperatorLearningviaHodgeD.md]]
+[[Topology-Preserving Neural Operator Learning via Hodge Decomposition]]

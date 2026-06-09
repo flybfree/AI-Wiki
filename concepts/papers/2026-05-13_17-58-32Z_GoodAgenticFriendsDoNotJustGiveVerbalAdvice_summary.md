@@ -32,4 +32,4 @@ This research matters because it challenges the dominant paradigm of natural-lan
 - Parameter-efficient fine-tuning
 - Hidden state mapping
 
-[[2026-05-13_17-58-32Z_GoodAgenticFriendsDoNotJustGiveVerbalAdvice_TheyCa.md]]
+[[Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights]]

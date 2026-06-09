@@ -30,4 +30,4 @@ This research exposes a critical vulnerability in AI safety and data curation. I
 - Negation Processing in NLP
 - Model Hallucination and Belief
 
-[[2026-05-13_17-51-31Z_NegationNeglect_Whenmodelsfailtolearnnegationsintr.md]]
+[[Negation Neglect: When models fail to learn negations in training]]

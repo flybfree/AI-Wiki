@@ -30,4 +30,4 @@ By turning LLM reasoning into an interpretable policy tree, Co‑pi‑tree addre
 - Policy distillation techniques  
 - Closed‑loop learning with human feedback
 
-[[2026-06-07_12-20-32Z_DistillingLLMReasoningintoanInterpretablePolicyTre.md]]
+[[Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration]]

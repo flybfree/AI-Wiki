@@ -32,4 +32,4 @@ This study is significant because it challenges the assumption that more advance
 - User Experience in NLP
 - Machine Translation Quality
 
-[[2026-05-20_13-09-51Z_Smarteredits_Post_editingwitherrorhighlightsandtra.md]]
+[[Smarter edits? Post-editing with error highlights and translation suggestions]]

@@ -30,4 +30,4 @@ This work is significant because it provides a mechanistic explanation for the s
 - Adaptive Computation
 - Sudoku-Extreme Benchmark
 
-[[2026-05-20_17-59-48Z_EquilibriumReasoners_LearningAttractorsEnablesScal.md]]
+[[Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning]]

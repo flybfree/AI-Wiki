@@ -33,4 +33,4 @@ This work provides a unified theoretical lens for understanding cross‑attentio
 - Masking in sequence models  
 - Autoregressive generation
 
-[[2026-05-08_13-14-04Z_Cross_AttentionandEncoder_DecoderTransformers_ALog.md]]
+[[Cross-Attention and Encoder-Decoder Transformers: A Logical Characterization]]

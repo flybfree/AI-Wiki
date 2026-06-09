@@ -30,4 +30,4 @@ PhotoFlow bridges the gap between vision‑language models and complex 3D spatia
 - Aesthetic judgment in computer vision  
 - Closed‑loop reinforcement learning with memory management
 
-[[2026-05-22_15-40-52Z_PhotoFlow_Agentic3DVirtualPhotographyMissions.md]]
+[[PhotoFlow: Agentic 3D Virtual Photography Missions]]

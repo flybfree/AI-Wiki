@@ -32,4 +32,4 @@ This framework represents a paradigm shift in public health infrastructure by ov
 - Cold Start Problems
 - Automated Scientific Discovery
 
-[[2026-05-15_17-45-17Z_Prospectivemulti_pathogendiseaseforecastingusingau.md]]
+[[Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search]]

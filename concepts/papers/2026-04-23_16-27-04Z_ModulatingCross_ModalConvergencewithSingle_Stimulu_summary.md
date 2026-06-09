@@ -27,4 +27,4 @@ Single-stimulus analysis can help explain when and why vision and language model
 - Published: 2026-04-23T16:27:04Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_16-27-04Z_ModulatingCross_ModalConvergencewithSingle_Stimulu.md
 
-[[2026-04-23_16-27-04Z_ModulatingCross_ModalConvergencewithSingle_Stimulu.md]]
+[[Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion]]

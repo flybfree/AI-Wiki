@@ -32,4 +32,4 @@ This work is significant because it shifts the paradigm of AI-assisted tariff cl
 - Knowledge Engineering
 - Large Language Model Limitations
 
-[[2026-05-14_14-04-46Z_ADeterministicAgenticWorkflowforHSTariffClassifica.md]]
+[[A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions]]

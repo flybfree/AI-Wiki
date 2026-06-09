@@ -31,4 +31,4 @@ This research matters because it provides a reliable, generalizable solution for
 - Machine Learning Generalization
 - Acoustic Indices
 
-[[2026-05-20_13-18-11Z_CoarseSoundNet_Buildingareliablemodelforecological.md]]
+[[CoarseSoundNet: Building a reliable model for ecological soundscape analysis]]

@@ -31,4 +31,4 @@ This work provides an early deployed validation of a methodology for affective m
 - Behaviour cloning  
 - Cold‑start protocol
 
-[[2026-05-27_17-58-46Z_AffectiveMusicRecommendation_ARollout_BasedWorldMo.md]]
+[[Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization]]

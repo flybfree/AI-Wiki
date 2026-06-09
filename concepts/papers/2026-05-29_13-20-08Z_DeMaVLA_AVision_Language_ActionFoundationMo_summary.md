@@ -26,4 +26,4 @@ These findings highlight the value of scalable real‑world data acquisition, ef
 ## Related Concepts  
 Vision‑Language‑Action (VLA) foundation models, deformable object manipulation, flow matching for continuous action generation, transformer layer pruning, human‑in‑the‑loop data aggregation (DAgger), corrective trajectories, mixed dataset training.
 
-[[2026-05-29_13-20-08Z_DeMaVLA_AVision_Language_ActionFoundationModelforG.md]]
+[[DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation]]

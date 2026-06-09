@@ -32,4 +32,4 @@ By unifying path planning with optimal transport theory, the work opens new algo
 - Sinkhorn algorithm  
 - Anonymous routing / MAPF
 
-[[2026-05-11_17-52-15Z_OptimalandScalableMAPFviaMulti_MarginalOptimalTran.md]]
+[[Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges]]

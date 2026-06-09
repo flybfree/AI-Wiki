@@ -31,4 +31,4 @@ This work is significant because it provides a practical, training-free solution
 - Inference Optimization
 - Heterogeneous Computing (GPU-CPU)
 
-[[2026-05-19_17-59-08Z_TIDE_EfficientandLosslessMoEDiffusionLLMInferencew.md]]
+[[TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload]]

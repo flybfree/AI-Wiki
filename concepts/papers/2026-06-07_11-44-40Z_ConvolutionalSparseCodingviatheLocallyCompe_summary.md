@@ -30,4 +30,4 @@ This research is significant because it provides the first concrete benchmark fo
 - Convolutional feature maps: spatially distributed filters that share weights across receptive fields.  
 - Local inhibitory kernels: derived from pairwise filter interactions to emulate biological inhibition.
 
-[[2026-06-07_11-44-40Z_ConvolutionalSparseCodingviatheLocallyCompetitiveA.md]]
+[[Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2]]

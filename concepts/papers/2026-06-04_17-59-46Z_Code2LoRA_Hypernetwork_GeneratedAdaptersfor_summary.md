@@ -31,4 +31,4 @@ Code2LoRA demonstrates that hypernetworks can efficiently inject repository cont
 - Repository‑level context injection  
 - Software evolution and continuous integration
 
-[[2026-06-04_17-59-46Z_Code2LoRA_Hypernetwork_GeneratedAdaptersforCodeLan.md]]
+[[Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution]]

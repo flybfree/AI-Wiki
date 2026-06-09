@@ -26,4 +26,4 @@ We release KID-Bench, a 489-question benchmark that separates novel recall, cros
 - URL: http://arxiv.org/abs/2604.23750v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-59-14Z_TheOverrideGap_AMagnitudeAccountofKnowledgeConflic.md
 
-[[2026-04-26_14-59-14Z_TheOverrideGap_AMagnitudeAccountofKnowledgeConflic.md]]
+[[The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation]]

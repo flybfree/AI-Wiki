@@ -26,4 +26,4 @@ This work bridges reinforcement learning with quantum circuit synthesis, offerin
 ## Related Concepts  
 Clifford group, symplectic matrix representation, reinforcement learning, random walks, equivariance, qubit relabeling invariance, two‑qubit gate synthesis.
 
-[[2026-05-11_17-49-28Z_EquivariantReinforcementLearningforCliffordQuantum.md]]
+[[Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis]]

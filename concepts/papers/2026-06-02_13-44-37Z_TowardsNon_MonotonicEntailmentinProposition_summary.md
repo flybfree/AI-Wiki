@@ -30,4 +30,4 @@ This work bridges KLM‑style non‑monotonic reasoning with modal standpoint lo
 - KLM‑style reasoning  
 - Lexicographic closure
 
-[[2026-06-02_13-44-37Z_TowardsNon_MonotonicEntailmentinPropositionalDefea.md]]
+[[Towards Non-Monotonic Entailment in Propositional Defeasible Standpoint Logic]]

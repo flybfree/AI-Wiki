@@ -32,4 +32,4 @@ This work is pivotal for the practical deployment of agentic AI in consumer-faci
 - Synthetic Data Generation
 - Multi-turn Tool Calling
 
-[[2026-05-13_11-20-52Z_BuildingInteractiveReal_TimeAgentswithAsynchronous.md]]
+[[Building Interactive Real-Time Agents with Asynchronous I/O and Speculative Tool Calling]]

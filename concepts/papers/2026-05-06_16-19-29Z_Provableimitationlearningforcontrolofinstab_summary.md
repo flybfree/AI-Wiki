@@ -29,4 +29,4 @@ This work bridges theoretical control theory and machine learning under real-wor
 - Entropy-based complexity measures: information-theoretic quantification of uncertainty  
 - Lyapunov stability: mathematical criterion for system stabilization
 
-[[2026-05-06_16-19-29Z_Provableimitationlearningforcontrolofinstabilityin.md]]
+[[Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations]]

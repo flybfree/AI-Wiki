@@ -26,4 +26,4 @@ This work extends LNS to a problem class with hard incompatibility constraints, 
 ## Related Concepts  
 Capacitated Facility Location (CFL), Large Neighborhood Search (LNS), Incompatible Customer Constraints, Exact Solvers (e.g., MILP), Metaheuristics, Neighborhood Repair, Integer Programming.
 
-[[2026-05-27_11-42-06Z_AnEnhancedLargeNeighborhoodSearchApproachfortheCap.md]]
+[[An Enhanced Large Neighborhood Search Approach for the Capacitated Facility Location Problem with Incompatible Customers]]

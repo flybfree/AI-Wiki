@@ -31,4 +31,4 @@ This research is significant because it provides a secure, trustless alternative
 - Byzantine-Resilient Aggregation
 - Incentive Mechanisms in Distributed Systems
 
-[[2026-05-20_12-47-14Z_AutomatedByzantine_ResilientClusteredDecentralized.md]]
+[[Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs]]

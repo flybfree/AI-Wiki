@@ -32,4 +32,4 @@ This work is significant because it establishes a standardized, rigorous framewo
 - Prompt Following
 - Fidelity Metrics
 
-[[2026-05-14_17-59-55Z_EntityBench_TowardsEntity_ConsistentLong_RangeMult.md]]
+[[EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation]]

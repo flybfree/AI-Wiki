@@ -31,4 +31,4 @@ The findings underscore that evaluating VLMs should consider not only factual co
 - Vision‑Language Models (VLMs)  
 - Syntactic Position Mapping
 
-[[2026-05-27_11-50-56Z_WhenDiscoursePressuresConflict_InformationStructur.md]]
+[[When Discourse Pressures Conflict: Information Structure in Vision-Language Model Outputs]]

@@ -32,4 +32,4 @@ LLMSurgeon offers a practical, post‑hoc audit tool for foundation models, addr
 - **Domain confusion**: Systematic misclassification due to mixed data sources.  
 - **LLMScan**: A verification suite for evaluating mixture‑recovery methods.
 
-[[2026-05-28_17-59-53Z_LLMSurgeon_DiagnosingDataMixtureofLargeLanguageMod.md]]
+[[LLMSurgeon: Diagnosing Data Mixture of Large Language Models]]

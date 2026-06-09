@@ -26,4 +26,4 @@ By aligning temporal modelling strategies with the inherent sparsity of clinical
 ## Related Concepts  
 digital twin, transition‑based modelling, longitudinal data, uncertainty quantification, multimodal integration, Alzheimer’s disease progression, ADNI dataset, patient‑specific trajectory analysis, sequence vs. local modelling.
 
-[[2026-06-08_15-54-10Z_Transition_BasedDigitalTwinModellingforAlzheimer_s.md]]
+[[Transition-Based Digital Twin Modelling for Alzheimer's Disease under Sparse Longitudinal Data]]

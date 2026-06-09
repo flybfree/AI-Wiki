@@ -30,4 +30,4 @@ By decoupling generation from validation, the two‑agent framework transforms L
 - Physical constraint checking in machine‑learned models  
 - Transfer learning and generalization to unseen loading paths
 
-[[2026-05-22_15-27-09Z_LLM_drivendesignofphysics_constrainedconstitutivem.md]]
+[[LLM-driven design of physics-constrained constitutive models: two agents are better than one]]

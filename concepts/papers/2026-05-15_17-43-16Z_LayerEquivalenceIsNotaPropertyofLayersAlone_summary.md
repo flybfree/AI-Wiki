@@ -31,4 +31,4 @@ This work is significant because it challenges the foundational assumptions of t
 - Replacement Testing
 - Redundancy Analysis
 
-[[2026-05-15_17-43-16Z_LayerEquivalenceIsNotaPropertyofLayersAlone_HowYou.md]]
+[[Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find]]

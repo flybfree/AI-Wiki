@@ -31,4 +31,4 @@ These findings challenge the conventional view of LLM psychometrics as a measure
 - Supervised Semantic Differential (SSD) questionnaire framework  
 - Pinocchio axis as a psychometric dimension for LLMs
 
-[[2026-05-06_16-18-47Z_ThePinocchioDimension_PhenomenalityofExperienceast.md]]
+[[The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences]]

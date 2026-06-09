@@ -26,4 +26,4 @@ This approach bridges massive pre‑training with real‑time control, offering 
 ## Related Concepts  
 GPT architecture, causal attention, zero‑shot learning, whole‑body motion tracking, transformer scalability, retargeted datasets, agility‑generalization trade‑off.
 
-[[2026-06-02_17-59-05Z_Humanoid_GPT_ScalingDataandStructureforZero_ShotMo.md]]
+[[Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking]]

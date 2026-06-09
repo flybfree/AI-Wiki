@@ -32,4 +32,4 @@ This research is significant because it establishes an initial benchmark for mul
 - Compressed sensing
 - Articulator dynamics
 
-[[2026-05-18_11-05-10Z_SIREM_Speech_InformedMRIReconstructionwithLearnedS.md]]
+[[SIREM: Speech-Informed MRI Reconstruction with Learned Sampling]]

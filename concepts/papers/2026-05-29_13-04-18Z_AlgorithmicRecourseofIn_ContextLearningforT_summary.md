@@ -31,4 +31,4 @@ By providing a mathematically sound and computationally efficient recourse mecha
 - Zeroth‑Order Optimization  
 - Subspace Approximation
 
-[[2026-05-29_13-04-18Z_AlgorithmicRecourseofIn_ContextLearningforTabularD.md]]
+[[Algorithmic Recourse of In-Context Learning for Tabular Data]]

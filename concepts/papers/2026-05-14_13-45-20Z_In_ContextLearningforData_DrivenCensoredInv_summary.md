@@ -33,4 +33,4 @@ This work is significant because it resolves the tension between the theoretical
 - Normalizing Flows
 - Decision-Dependent Censoring
 
-[[2026-05-14_13-45-20Z_In_ContextLearningforData_DrivenCensoredInventoryC.md]]
+[[In-Context Learning for Data-Driven Censored Inventory Control]]

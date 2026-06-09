@@ -34,4 +34,4 @@ By replacing adversarial training with a denoising objective, DDPM eliminates ma
 - mode collapse  
 - PSNR / SSIM metrics
 
-[[2026-05-09_2006.11239-denoising-diffusion-probabilistic-models.md]]
+[[Denoising Diffusion Probabilistic Models" (DDPM)]]

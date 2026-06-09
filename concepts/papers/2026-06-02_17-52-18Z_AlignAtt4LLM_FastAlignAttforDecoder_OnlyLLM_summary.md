@@ -30,4 +30,4 @@ This work demonstrates that alignment mechanisms originally designed for encoder
 - Query/key capture in attention heads  
 - Prompt engineering with source spans
 
-[[2026-06-02_17-52-18Z_AlignAtt4LLM_FastAlignAttforDecoder_OnlyLLMsatIWSL.md]]
+[[AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Speech Translation Task]]

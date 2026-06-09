@@ -31,4 +31,4 @@ This research is significant because it provides a scalable and cost-effective s
 - OSWorld-MCP Benchmark
 - Tool-Efficient Path Reward
 
-[[2026-05-12_17-57-04Z_ToolCUA_TowardsOptimalGUI_ToolPathOrchestrationfor.md]]
+[[ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents]]

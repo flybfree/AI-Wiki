@@ -31,4 +31,4 @@ This work bridges language, vision, and time‑series representation learning by
 - Equivariant attention  
 - Linear probe evaluation
 
-[[2026-05-29_17-48-30Z_GivingSensorsaVoice_MultimodalJEPAforSemanticTime_.md]]
+[[Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings]]

@@ -31,4 +31,4 @@ VidMsg matters because it bridges the gap between visual perception and pragmati
 - Fine‑grained target messaging  
 - Benchmarking for holistic video understanding
 
-[[2026-06-02_13-31-57Z_VidMsg_ABenchmarkforImplicitMessageInferenceinShor.md]]
+[[VidMsg: A Benchmark for Implicit Message Inference in Short Videos]]

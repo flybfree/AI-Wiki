@@ -30,4 +30,4 @@ SOCK provides a scalable, differentiable alternative to path signatures for trai
 - Diffusion models for time‑series synthesis  
 - Unsupervised hypothesis testing and classification in finance
 
-[[2026-06-03_17-46-50Z_GeneratingFinancialTimeSeriesbyMatchingRandomConvo.md]]
+[[Generating Financial Time Series by Matching Random Convolutional Features]]

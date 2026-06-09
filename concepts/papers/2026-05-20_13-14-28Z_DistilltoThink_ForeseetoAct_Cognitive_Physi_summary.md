@@ -31,4 +31,4 @@ This research matters because it overcomes the fundamental constraints of imitat
 - Dual-Reward Mechanism
 - Autonomous Driving Semantics
 
-[[2026-05-20_13-14-28Z_DistilltoThink_ForeseetoAct_Cognitive_PhysicalRein.md]]
+[[Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving]]

@@ -26,4 +26,4 @@ We show that fine-tuning a VLM on MQUD shifts the model from generating generic 
 - URL: http://arxiv.org/abs/2604.23733v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-25-23Z_MultimodalQUD_InquisitiveQuestionsfromScientificFi.md
 
-[[2026-04-26_14-25-23Z_MultimodalQUD_InquisitiveQuestionsfromScientificFi.md]]
+[[Multimodal QUD: Inquisitive Questions from Scientific Figures]]

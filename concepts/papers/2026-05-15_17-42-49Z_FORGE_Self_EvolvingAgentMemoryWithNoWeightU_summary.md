@@ -32,4 +32,4 @@ This work is significant because it demonstrates that complex agent behaviors ca
 - Cybersecurity Simulation (CybORG)
 - In-Context Learning
 
-[[2026-05-15_17-42-49Z_FORGE_Self_EvolvingAgentMemoryWithNoWeightUpdatesv.md]]
+[[FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast]]

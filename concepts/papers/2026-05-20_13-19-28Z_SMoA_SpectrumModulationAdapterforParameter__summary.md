@@ -31,4 +31,4 @@ This research is significant because it provides a practical solution to the sca
 - Large Language Models (LLMs)
 - Computational Efficiency
 
-[[2026-05-20_13-19-28Z_SMoA_SpectrumModulationAdapterforParameter_Efficie.md]]
+[[SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning]]

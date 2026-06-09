@@ -25,4 +25,4 @@ The results suggest that similar internal features can arise across model types 
 - URL: http://arxiv.org/abs/2604.20817v1
 - Published: 2026-04-22T17:45:27Z
 
-[[2026-04-22_17-45-27Z_ConvergentEvolution_HowDifferentLanguageModelsLear.md]]
+[[Convergent Evolution: How Different Language Models Learn Similar Number Representations]]

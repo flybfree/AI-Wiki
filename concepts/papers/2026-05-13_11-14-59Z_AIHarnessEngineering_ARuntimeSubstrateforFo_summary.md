@@ -32,4 +32,4 @@ This work is significant because it shifts the paradigm of autonomous software e
 - Verification and Validation
 - Software Reliability
 
-[[2026-05-13_11-14-59Z_AIHarnessEngineering_ARuntimeSubstrateforFoundatio.md]]
+[[AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents]]

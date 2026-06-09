@@ -30,4 +30,4 @@ Treating skills as long‑lived, testable entities addresses a fundamental limit
 - Evaluation (unit tests, runtime feedback)  
 - Continuous refinement (learning from performance data)
 
-[[2026-05-26_17-59-19Z_MUSE_Autoskill_Self_EvolvingAgentsviaSkillCreation.md]]
+[[MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation]]

@@ -29,4 +29,4 @@ This work bridges the gap between visual perception and language understanding b
 - Spatial reasoning tasks such as Perspective Taking, Path Tracing, and Multiview Counting.  
 - Chain‑of‑thought prompting – a language‑only strategy that can interfere with spatial computation.
 
-[[2026-06-02_17-59-17Z_ImaginativePerceptionTokensEnhanceSpatialReasoning.md]]
+[[Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models]]

@@ -34,4 +34,4 @@ These findings clarify that vision‑language learning does not automatically pr
 - Cross‑modal fusion  
 - Text representation quality
 
-[[2026-05-27_17-59-34Z_VLMsMayNotGloballyEnhanceHumanAlignmentoverLLMsDur.md]]
+[[VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading]]

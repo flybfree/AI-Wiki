@@ -30,4 +30,4 @@ GPIC addresses longstanding challenges in visual generative modeling: scalabilit
 - Pixel‑space flow matching for generative modeling  
 - Benchmarking protocols for visual generation tasks
 
-[[2026-05-28_17-59-26Z_GPIC_AGiantPermissiveImageCorpusforVisualGeneratio.md]]
+[[GPIC: A Giant Permissive Image Corpus for Visual Generation]]

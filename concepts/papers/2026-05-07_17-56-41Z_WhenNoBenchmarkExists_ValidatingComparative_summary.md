@@ -26,4 +26,4 @@ This work provides a principled method for generating safety evidence when no be
 ## Related Concepts  
 benchmarkless comparative safety scoring; instrumental validity; AUROC; variance decomposition (η²); scenario pack; rubric; local‑first instrument SimpleAudit; procurement case study.
 
-[[2026-05-07_17-56-41Z_WhenNoBenchmarkExists_ValidatingComparativeLLMSafe.md]]
+[[When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels]]

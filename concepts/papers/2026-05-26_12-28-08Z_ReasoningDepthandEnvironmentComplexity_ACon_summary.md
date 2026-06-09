@@ -26,4 +26,4 @@ This work bridges the gap between depth and complexity in RLVR research, offerin
 ## Related Concepts  
 RLVR, reasoning depth, environment complexity, deductive state tracking, abductive recovery, inductive rule induction, analogical transfer, knowledge graph, curriculum learning, staged curricula, uniform mixing, off‑the‑shelf models.
 
-[[2026-05-26_12-28-08Z_ReasoningDepthandEnvironmentComplexity_AControlled.md]]
+[[Reasoning Depth and Environment Complexity: A Controlled Study of RLVR Data Allocation across Logical Reasoning Tasks]]

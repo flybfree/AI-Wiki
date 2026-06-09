@@ -30,4 +30,4 @@ Improving the queue‑length regret rate from \(\widetilde{\mathcal{O}}(T^{-1/4}
 - Random exploration cutoff: strategy of using pure randomness only up to a predetermined round.  
 - Minimax analysis: establishing both upper and lower bounds on regret rates.
 
-[[2026-06-08_15-51-25Z_AlgorithmforContextualQueueingBanditswithRate_Opti.md]]
+[[Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret]]

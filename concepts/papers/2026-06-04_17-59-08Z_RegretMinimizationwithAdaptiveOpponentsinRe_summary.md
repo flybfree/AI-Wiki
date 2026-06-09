@@ -30,4 +30,4 @@ This work bridges online learning and game theory by introducing a regret notion
 - Non‑convex Optimization  
 - Convex Linearization Surrogate
 
-[[2026-06-04_17-59-08Z_RegretMinimizationwithAdaptiveOpponentsinRepeatedG.md]]
+[[Regret Minimization with Adaptive Opponents in Repeated Games]]

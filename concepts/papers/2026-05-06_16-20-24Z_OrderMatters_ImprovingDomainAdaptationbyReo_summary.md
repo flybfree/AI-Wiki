@@ -31,4 +31,4 @@ By addressing a fundamental limitation of stochastic domain adaptation—high va
 - Maximum mean discrepancy (MMD)  
 - Stochastic estimation error analysis
 
-[[2026-05-06_16-20-24Z_OrderMatters_ImprovingDomainAdaptationbyReordering.md]]
+[[Order Matters: Improving Domain Adaptation by Reordering Data]]

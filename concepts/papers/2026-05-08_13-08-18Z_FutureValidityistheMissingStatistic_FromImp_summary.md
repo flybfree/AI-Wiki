@@ -35,4 +35,4 @@ By supplying the missing future‑validity statistic, the paper enables speculat
 - OneStep correction estimator  
 - Exact dynamic programming for Φ estimation
 
-[[2026-05-08_13-08-18Z_FutureValidityistheMissingStatistic_FromImpossibil.md]]
+[[Future Validity is the Missing Statistic: From Impossibility to $Φ$-Estimation for Grammar-Faithful Speculative Decoding]]

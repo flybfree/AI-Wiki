@@ -32,4 +32,4 @@ This research matters because it provides a compute-efficient mechanism for foun
 - Model Selection
 - Foundation Models
 
-[[2026-05-12_11-33-49Z_OnPredictingthePost_trainingPotentialofPre_trained.md]]
+[[On Predicting the Post-training Potential of Pre-trained LLMs]]

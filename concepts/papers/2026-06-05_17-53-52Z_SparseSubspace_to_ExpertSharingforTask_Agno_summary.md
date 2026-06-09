@@ -26,4 +26,4 @@ By enabling task‑agnostic continual learning without catastrophic forgetting, 
 ## Related Concepts  
 Plasticity‑stability dilemma, continual learning, sparse expert networks, elastic anchoring, routing‑aware regularization, gating network, task‑agnostic continual learning, backward transfer, LLaMA‑2, Qwen3.
 
-[[2026-06-05_17-53-52Z_SparseSubspace_to_ExpertSharingforTask_AgnosticCon.md]]
+[[Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning]]

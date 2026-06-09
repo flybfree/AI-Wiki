@@ -26,4 +26,4 @@ By shifting focus from one‑shot task success to holistic system evaluation, th
 ## Related Concepts  
 - Foundation model; Agentic AI; Memory substrate; Context constructor; Skill‑routing layer; Orchestration loop; Verification‑and‑governance layer; Harness; Benchmarking; Safety; Evolution.
 
-[[2026-05-25_17-59-36Z_FromModelScalingtoSystemScaling_ScalingtheHarnessi.md]]
+[[From Model Scaling to System Scaling: Scaling the Harness in Agentic AI]]

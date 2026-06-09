@@ -27,4 +27,4 @@ A layered agent architecture can make scientific workflow creation more reproduc
 - Published: 2026-04-23T17:52:52Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-52-52Z_FromResearchQuestiontoScientificWorkflow_Leveragin.md
 
-[[2026-04-23_17-52-52Z_FromResearchQuestiontoScientificWorkflow_Leveragin.md]]
+[[From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation]]

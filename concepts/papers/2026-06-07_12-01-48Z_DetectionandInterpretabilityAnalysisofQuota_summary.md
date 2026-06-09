@@ -26,4 +26,4 @@ Automated detection reduces manual labor in scholarly review, enhances academic 
 ## Related Concepts  
 Quotation error, large language models, fine‑tuning, full‑text integration, source abstract, citation metadata, interpretability, TokenSHAP, automated detection.
 
-[[2026-06-07_12-01-48Z_DetectionandInterpretabilityAnalysisofQuotationErr.md]]
+[[Detection and Interpretability Analysis of Quotation Errors by Large Language Models]]

@@ -30,4 +30,4 @@ Driver‑WM advances autonomous driving by providing a unified framework for pre
 - Dual‑stream architectures  
 - In‑cabin dynamics rollout
 
-[[2026-05-06_16-30-48Z_Driver_WM_ADriver_CentricTraffic_ConditionedLatent.md]]
+[[Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout]]

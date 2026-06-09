@@ -31,4 +31,4 @@ By decoupling the adaptation step from manual data curation, DART offers a scala
 - Prompt Engineering  
 - Model‑Specific Adaptation
 
-[[2026-05-26_12-20-53Z_LearningtoAdaptSFTDataforBetterReasoningGeneraliza.md]]
+[[Learning to Adapt SFT Data for Better Reasoning Generalization]]

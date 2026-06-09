@@ -31,4 +31,4 @@ This work reveals a hidden bias in LLM embeddings—a systematic over‑represen
 - Dimensionality reduction in text representations  
 - Zero‑shot learning evaluation
 
-[[2026-06-05_17-54-32Z_YourUnEmbeddingMatrixisSecretlyaFeatureLensforText.md]]
+[[Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings]]

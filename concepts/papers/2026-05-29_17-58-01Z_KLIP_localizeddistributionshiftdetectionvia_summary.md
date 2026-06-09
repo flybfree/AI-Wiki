@@ -26,4 +26,4 @@ By enabling reliable OOD detection in inverse problems without external calibrat
 ## Related Concepts  
 Kullback‑Leibler divergence, diffusion priors, variational inference, out‑of‑distribution detection, inverse problems, computational imaging.
 
-[[2026-05-29_17-58-01Z_KLIP_localizeddistributionshiftdetectionviaKL_dive.md]]
+[[KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems]]

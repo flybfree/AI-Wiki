@@ -32,4 +32,4 @@ This work is significant because it shifts the paradigm of spatial intelligence 
 - Metacognitive Reasoning
 - Action Blindness
 
-[[2026-05-18_17-59-02Z_ESI_Bench_TowardsEmbodiedSpatialIntelligencethatCl.md]]
+[[ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop]]

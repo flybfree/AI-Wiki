@@ -31,4 +31,4 @@ BBOmix democratizes access to large‑scale unsupervised HPO research, enabling 
 - Reconstruction loss versus downstream task performance correlation  
 - Benchmarking frameworks for deep learning research
 
-[[2026-06-03_17-48-31Z_BBOmix_ATabularBenchmarkforHyperparameterOptimizat.md]]
+[[BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning]]

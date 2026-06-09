@@ -30,4 +30,4 @@ Faithful confidence is a distinct reliability target that directly impacts trust
 - Intrinsic confidence – model’s internal estimate of uncertainty.  
 - Response consistency – whether repeated runs produce similar outputs given the same input.
 
-[[2026-06-02_17-53-45Z_QuantifyingFaithfulConfidenceExpressioninLargeReas.md]]
+[[Quantifying Faithful Confidence Expression in Large Reasoning Models]]

@@ -30,4 +30,4 @@ These findings reveal a hidden scaling law at the neuron level, suggesting that 
 - Feature utility vs. capacity trade‑off  
 - Domain specialization in pretraining
 
-[[2026-06-02_17-59-52Z_NeuronPopulationsExhibitDivergentSelectivitywithSc.md]]
+[[Neuron Populations Exhibit Divergent Selectivity with Scale]]

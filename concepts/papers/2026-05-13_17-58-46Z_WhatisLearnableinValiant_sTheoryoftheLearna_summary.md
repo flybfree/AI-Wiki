@@ -31,4 +31,4 @@ This work is significant because it corrects a historical misconception by clari
 - Halfspaces
 - Learnability Characterization
 
-[[2026-05-13_17-58-46Z_WhatisLearnableinValiant_sTheoryoftheLearnable.md]]
+[[What is Learnable in Valiant's Theory of the Learnable?]]

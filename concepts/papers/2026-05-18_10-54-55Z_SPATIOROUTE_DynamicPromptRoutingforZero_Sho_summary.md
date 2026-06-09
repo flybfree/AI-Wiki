@@ -32,4 +32,4 @@ This research is significant because it provides a cost-effective and efficient 
 - Spatial Question Answering (VQA)
 - Prompt Engineering
 
-[[2026-05-18_10-54-55Z_SPATIOROUTE_DynamicPromptRoutingforZero_ShotSpatia.md]]
+[[SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning]]

@@ -32,4 +32,4 @@ MobileGym bridges the gap between high‑fidelity mobile GUI research and practi
 - MobileGym‑Bench task templates  
 - AnswerSheet protocol for consistent evaluation
 
-[[2026-05-25_17-59-49Z_MobileGym_AVerifiableandHighlyParallelSimulationPl.md]]
+[[MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research]]

@@ -26,4 +26,4 @@ By enabling fast, scalable TDA for LLMs, STRIDE facilitates responsible AI pract
 ## Related Concepts  
 Training Data Attribution (TDA), Causal Interventions, Sparse Recovery, Compressive Sensing, Activation Space Modeling, Steering Operators, Large Language Models (LLMs).
 
-[[2026-06-03_17-59-36Z_STRIDE_TrainingDataAttributionviaSparseRecoveryfro.md]]
+[[STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations]]

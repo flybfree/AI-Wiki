@@ -30,4 +30,4 @@ This research demonstrates that sustained social interaction can be a powerful d
 - Rejection sampling for LLM training  
 - Anthropomorphic intelligence in AI
 
-[[2026-06-05_17-59-31Z_Agentopia_Long_TermLifeSimulationandLearninginAgen.md]]
+[[Agentopia: Long-Term Life Simulation and Learning in Agent Societies]]

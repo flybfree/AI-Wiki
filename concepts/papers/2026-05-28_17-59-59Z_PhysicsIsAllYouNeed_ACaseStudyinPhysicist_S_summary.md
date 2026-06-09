@@ -31,4 +31,4 @@ The findings demonstrate that current AI models lack architectural creativity an
 - Unphysical numerical patches in scientific software  
 - CLASS‑PT branch choice and BAO damping concepts
 
-[[2026-05-28_17-59-59Z_PhysicsIsAllYouNeed_ACaseStudyinPhysicist_Supervis.md]]
+[[Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software]]

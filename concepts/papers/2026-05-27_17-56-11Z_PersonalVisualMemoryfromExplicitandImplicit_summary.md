@@ -30,4 +30,4 @@ This research underscores a critical insight: effective long‑term memory for p
 - Hybrid architectures that combine text and image processing  
 - Personalized long‑term memory in AI agents
 
-[[2026-05-27_17-56-11Z_PersonalVisualMemoryfromExplicitandImplicitEvidenc.md]]
+[[Personal Visual Memory from Explicit and Implicit Evidence]]

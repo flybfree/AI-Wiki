@@ -26,4 +26,4 @@ Our findings highlight the potential for post-training latent reasoning mechanis
 - URL: http://arxiv.org/abs/2604.22709v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_16-45-51Z_ThinkingWithoutWords_EfficientLatentReasoningwithA.md
 
-[[2026-04-24_16-45-51Z_ThinkingWithoutWords_EfficientLatentReasoningwithA.md]]
+[[Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought]]

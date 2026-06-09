@@ -31,4 +31,4 @@ This research is significant because it provides a robust, efficient solution to
 - Dual Group Advantage Optimization (DGAO)
 - Pseudo-Stability vs. True Stability
 
-[[2026-05-12_11-31-18Z_TowardsOrderFairness_MitigatingLLMsOrderSensitivit.md]]
+[[Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization]]

@@ -27,4 +27,4 @@ A better SFT initialization can make later RL more transferable across programmi
 - Published: 2026-04-22T17:58:36Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-22_17-58-36Z_Parallel_SFT_ImprovingZero_ShotCross_Programming_L.md
 
-[[2026-04-22_17-58-36Z_Parallel_SFT_ImprovingZero_ShotCross_Programming_L.md]]
+[[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL]]

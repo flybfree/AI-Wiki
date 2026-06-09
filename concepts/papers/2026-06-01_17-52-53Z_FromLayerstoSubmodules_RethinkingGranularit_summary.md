@@ -31,4 +31,4 @@ By relaxing granularity constraints, SubFit enables more efficient compression t
 - Post‑training calibration data  
 - Residual bypass fitting
 
-[[2026-06-01_17-52-53Z_FromLayerstoSubmodules_RethinkingGranularityinRepl.md]]
+[[From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression]]

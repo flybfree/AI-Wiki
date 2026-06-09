@@ -33,4 +33,4 @@ This research is significant because it challenges the binary choice between in-
 - KL Divergence
 - Fast-Slow Learning Framework
 
-[[2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md]]
+[[Learning, Fast and Slow: Towards LLMs That Adapt Continually]]

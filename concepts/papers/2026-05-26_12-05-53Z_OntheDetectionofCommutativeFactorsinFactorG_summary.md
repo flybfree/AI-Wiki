@@ -26,4 +26,4 @@ Accurate detection of commutative factors is essential for lifted inference, whi
 ## Related Concepts  
 Factor graphs, commutative factors, indistinguishability of variables, lifted probabilistic inference, necessary vs. sufficient conditions, factor graph algorithms, domain size scaling, worst‑case analysis.
 
-[[2026-05-26_12-05-53Z_OntheDetectionofCommutativeFactorsinFactorGraphs_N.md]]
+[[On the Detection of Commutative Factors in Factor Graphs: Necessary and Sufficient Conditions]]

@@ -32,4 +32,4 @@ This framework provides scalable, property‑level evidence for city‑wide retr
 - Retrofit scenario analysis  
 - GIS spatial features (footprint geometry, height, area, orientation)
 
-[[2026-05-06_16-23-11Z_GatedMultimodalLearningforInterpretablePropertyEne.md]]
+[[Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis]]

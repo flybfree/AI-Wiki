@@ -31,4 +31,4 @@ EMO opens a practical route for deploying massive sparse models without sacrific
 - Large‑scale pretraining on trillion‑token corpora  
 - Memory‑efficient inference strategies
 
-[[2026-05-07_17-59-20Z_EMO_PretrainingMixtureofExpertsforEmergentModulari.md]]
+[[EMO: Pretraining Mixture of Experts for Emergent Modularity]]

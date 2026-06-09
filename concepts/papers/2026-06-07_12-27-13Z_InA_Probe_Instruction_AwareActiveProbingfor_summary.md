@@ -34,4 +34,4 @@ This work demonstrates that active, instruction‑driven probing can unlock the 
 - One‑for‑all Generalization  
 - Zero‑shot Transfer
 
-[[2026-06-07_12-27-13Z_InA_Probe_Instruction_AwareActiveProbingforTimeSer.md]]
+[[InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs]]

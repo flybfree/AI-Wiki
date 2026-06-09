@@ -31,4 +31,4 @@ By replacing coarse binary tactile features with a physics‑grounded representa
 - Taxel Orientation Calibration  
 - Differentiable Dynamics
 
-[[2026-05-27_17-59-02Z_BeyondBinary_Sim_to_RealDexterousManipulationwithP.md]]
+[[Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation]]

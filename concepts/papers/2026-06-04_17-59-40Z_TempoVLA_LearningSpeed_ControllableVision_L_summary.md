@@ -26,4 +26,4 @@ Enabling robots to adapt their execution speed dynamically improves safety and e
 ## Related Concepts  
 Vision‑Language‑Action models, Variable‑Speed Trajectory Augmentation (VSTA), multimodal conditioning, action magnitude as a speed proxy, large multimodal language models, dynamic speed control in robotics.
 
-[[2026-06-04_17-59-40Z_TempoVLA_LearningSpeed_ControllableVision_Language.md]]
+[[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies]]

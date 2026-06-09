@@ -26,4 +26,4 @@ This work demonstrates that self‑hosted fine‑tuned compact models can serve 
 ## Related Concepts  
 Multilingual NLP, fine‑tuning, SetFit, encoder‑based models (XLM‑RoBERTa, mmBERT), large language models (GPT‑5.2, Claude Opus, Qwen3), latency optimization, production deployment, fact‑checking pipelines, modular AI systems.
 
-[[2026-06-07_12-33-43Z_MultilingualFact_CheckingatScale_Fine_TunedCompact.md]]
+[[Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs]]

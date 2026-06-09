@@ -26,4 +26,4 @@ TunerDiT provides a practical pathway for generating multi‑event videos withou
 ## Related Concepts  
 Diffusion Transformers (DiT), progressive steering, event segmentation, prompt fusion, training‑free fine‑tuning, video consistency, event separation, multi‑event generation, text‑to‑video alignment.
 
-[[2026-05-29_17-56-09Z_TunerDiT_Training_freeProgressiveSteeringofDiffusi.md]]
+[[TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation]]

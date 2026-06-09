@@ -26,4 +26,4 @@ By introducing PEFT‑Arena, this study shifts the evaluation paradigm of PEFT b
 ## Related Concepts  
 Parameter-efficient fine-tuning (PEFT), stability‑plasticity dilemma, Pareto frontier, spectral analysis, singular‑value structure, activation space representation distortion, forgetting, isometric transformation, path‑wise rewinding.
 
-[[2026-05-27_17-59-51Z_PEFT_Arena_UnderstandingParameter_EfficientFinetun.md]]
+[[PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective]]

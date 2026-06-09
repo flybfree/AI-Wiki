@@ -26,4 +26,4 @@ These findings argue that current EEG denoising benchmarks are saturated far bel
 ## Related Concepts  
 Capacity saturation, metric‑utility gap, depthwise‑separable convolutions, U‑Net architecture, FLOPs/segment, patch‑transformer, BCI Competition IV‑2a, reconstruction vs. classification trade‑off.
 
-[[2026-06-07_12-17-25Z_HowMuchCapacityDoesEEGDenoisingNeed_Ultra_CompactN.md]]
+[[How Much Capacity Does EEG Denoising Need? Ultra-Compact Networks reveal Benchmark Saturation and Metric-Utility Gap]]

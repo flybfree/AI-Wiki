@@ -26,4 +26,4 @@ This work delivers a reliable, open‑source tool for cyclist safety research by
 ## Related Concepts  
 Vision Transformers, RT‑DETR, fine‑grained classification, confidence‑based abstention, domain shift, object detection, video surveillance, cyclist injury risk assessment.
 
-[[2026-06-03_17-53-33Z_AnOpen_SourceTwo_StageComputerVisionPipelineforFin.md]]
+[[An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers]]

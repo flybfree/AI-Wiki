@@ -31,4 +31,4 @@ Providing a statistically grounded, interpretable tool for post‑hoc auditing o
 - Statistical validation of model differences  
 - Prompt bank alignment
 
-[[2026-05-06_16-27-23Z_AutomaticallyFindingandValidatingUnexpectedSide_Ef.md]]
+[[Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models]]

@@ -31,4 +31,4 @@ This work matters because it removes a major barrier in clinical cardiac modelin
 - Non-invasive Cardiac Assessment
 - Bidomain/Monodomain Equations
 
-[[2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md]]
+[[Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor]]

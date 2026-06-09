@@ -30,4 +30,4 @@ HERO’S JOURNEY quantifies a longstanding difficulty: LLMs can learn simple dec
 - Execution bottlenecks  
 - Surface semantics vs. underlying logic
 
-[[2026-06-01_17-51-40Z_HERO_SJOURNEY_TestingComplexRuleInductionwithTextG.md]]
+[[HERO'S JOURNEY: Testing Complex Rule Induction with Text Games]]

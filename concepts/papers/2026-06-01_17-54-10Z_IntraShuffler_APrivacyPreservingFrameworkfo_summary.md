@@ -30,4 +30,4 @@ This work bridges a long‑standing gap between differential privacy and federat
 - Shuffle‑Model defenses  
 - Parameter shuffling / bucketed privacy mechanisms
 
-[[2026-06-01_17-54-10Z_IntraShuffler_APrivacyPreservingFrameworkforHetero.md]]
+[[IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning]]

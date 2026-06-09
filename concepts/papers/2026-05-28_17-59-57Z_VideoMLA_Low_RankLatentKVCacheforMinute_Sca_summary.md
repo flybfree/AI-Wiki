@@ -30,4 +30,4 @@ By dramatically lowering streaming memory usage without sacrificing generation q
 - Autoregressive Video Diffusion  
 - Spectral Rank Assumption
 
-[[2026-05-28_17-59-57Z_VideoMLA_Low_RankLatentKVCacheforMinute_ScaleAutor.md]]
+[[VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion]]

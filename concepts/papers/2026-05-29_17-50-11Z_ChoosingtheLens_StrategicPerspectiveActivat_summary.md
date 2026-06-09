@@ -26,4 +26,4 @@ This work bridges formal argumentation theory with strategic manipulation, offer
 ## Related Concepts  
 Context‑dependent argumentation frameworks (CDAFs), Dung’s theory of argumentation, defeat functions, relevance sets, priority assignments, injective priorities, VAF (Vienna Argument Framework) audience mirroring, ACTIVATION‑MANIPULATION decision problem, complexity bounds.
 
-[[2026-05-29_17-50-11Z_ChoosingtheLens_StrategicPerspectiveActivationinCo.md]]
+[[Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation]]

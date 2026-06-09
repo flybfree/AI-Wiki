@@ -31,4 +31,4 @@ RREDCoT represents a significant advancement in reinforcement learning for reaso
 - Reward redistribution  
 - Segment-level attribution
 
-[[2026-06-04_17-56-31Z_RREDCoT_Segment_LevelRewardRedistributionforReason.md]]
+[[RREDCoT: Segment-Level Reward Redistribution for Reasoning Models]]

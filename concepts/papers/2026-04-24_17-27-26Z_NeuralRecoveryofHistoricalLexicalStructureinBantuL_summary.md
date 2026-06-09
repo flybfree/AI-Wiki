@@ -26,4 +26,4 @@ Our dataset is restricted to Eastern and Southern Bantu, so we interpret these r
 - URL: http://arxiv.org/abs/2604.22730v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-27-26Z_NeuralRecoveryofHistoricalLexicalStructureinBantuL.md
 
-[[2026-04-24_17-27-26Z_NeuralRecoveryofHistoricalLexicalStructureinBantuL.md]]
+[[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data]]

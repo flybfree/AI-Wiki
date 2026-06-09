@@ -32,4 +32,4 @@ This research is significant because it removes the hardware barriers associated
 - Replica Dataset
 - ReplicaCAD Dataset
 
-[[2026-05-18_10-37-39Z_RGB_onlyActive3DSceneGraphGenerationforIndoorMobil.md]]
+[[RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots]]

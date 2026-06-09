@@ -30,4 +30,4 @@ This work demonstrates that representation design is pivotal for enabling genera
 - Human‑agent collaborative data collection  
 - PCB schematic editing primitives
 
-[[2026-05-28_17-59-50Z_SchGen_PCBSchematicGenerationwithSemantic_Grounded.md]]
+[[SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations]]

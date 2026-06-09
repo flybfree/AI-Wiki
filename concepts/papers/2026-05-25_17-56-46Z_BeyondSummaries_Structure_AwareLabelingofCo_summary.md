@@ -26,4 +26,4 @@ This work shows that LLM‑driven labeling can automate code review workflows, s
 ## Related Concepts  
 code diff hunk, taxonomy labeling, few‑shot prompting, static analysis, semantic attributes, rename propagation, type changes, relational metadata.
 
-[[2026-05-25_17-56-46Z_BeyondSummaries_Structure_AwareLabelingofCodeChang.md]]
+[[Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models]]

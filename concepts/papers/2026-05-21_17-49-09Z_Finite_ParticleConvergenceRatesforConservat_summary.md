@@ -33,4 +33,4 @@ By providing rigorous finite‑particle convergence rates for conservative and n
 - Laplace kernel displacement drifting  
 - One‑step generation guarantee via explicit \(\eta\)
 
-[[2026-05-21_17-49-09Z_Finite_ParticleConvergenceRatesforConservativeandN.md]]
+[[Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models]]

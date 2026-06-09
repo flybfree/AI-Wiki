@@ -31,4 +31,4 @@ Flying‑point artifacts degrade downstream perception and segmentation tasks, m
 - Skyline component  
 - Transparent object depth estimation
 
-[[2026-06-01_17-50-28Z_ModelingDepthAmbiguity_AMixture_DensityRepresentat.md]]
+[[Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation]]
