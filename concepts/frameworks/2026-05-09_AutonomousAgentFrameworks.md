@@ -122,6 +122,6 @@ This entry documents the major autonomous agent frameworks and architectures ava
 7. Framework choice should consider: orchestration pattern, persistence, and ecosystem
 
 ## Cross-References
-- ReAct paper: [[2026-05-09_131500Z_ReAct_SynergizingReasoningAndActingInLanguageModels.md]]
+- ReAct paper: [[ReAct: Synergizing Reasoning and Acting in Language Models]]
 - Agent Architecture Evolution: [[Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)]]
 - CourseDesigner Lesson 13: Agents and Agentic Workflows
