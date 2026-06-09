@@ -1,0 +1,18 @@
+---
+title: Scalable Hyperparameter-Divergent Ensemble Training with Automatic Learning Rate Exploration for Large Models
+published: 2026-04-27T17:17:28Z
+authors: Hailing Cheng, Tao Huang, Chen Zhu, Antonio Alonso
+url: http://arxiv.org/abs/2604.24708v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Scalable Hyperparameter-Divergent Ensemble Training with Automatic Learning Rate Exploration for Large Models
+
+## Abstract
+Training large neural networks with data-parallel stochastic gradient descent allocates N GPU replicas to compute effectively identical updates -- a practice that leaves the rich space of learning rate configurations entirely unexplored during training. We propose Hyperparameter-Divergent Ensemble Training (HDET), a method that repurposes these replicas for simultaneous learning rate exploration at negligible communication overhead. HDET operates in alternating phases: a fan-out stage in which replicas train independently under a structured, symmetric spread of learning rates, and a converge stage in which parameters are averaged across all replicas via AllReduce every T steps. Building on this ensemble substrate, we further propose an automatic learning rate (auto-LR) controller that treats the relative training loss across replicas as a performance signal, updating the shared base schedule toward higher-performing configurations via a momentum-based gradient-free meta-update. The combined method produces a self-adapting learning rate schedule that improves both optimization quality and generalization without additional hyperparameter sweeps or training budget.   Crucially, the framework generalizes beyond learning rate: any scalar hyperparameter that does not alter model architecture -- such as dropout rate, attention scale temperature, or weight-decay coefficient -- can be explored across replicas using the same fan-out/converge protocol, with inter-replica loss differences serving as zero-order hypergradients that guide the search direction. HDET is implemented as a drop-in replacement for PyTorch's OneCycleLR scheduler, requiring no changes to model architecture, optimizer, or data pipeline.
+
+## Metadata
+- **Published**: 2026-04-27T17:17:28Z
+- **Authors**: Hailing Cheng, Tao Huang, Chen Zhu, Antonio Alonso
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2604.24708v1)

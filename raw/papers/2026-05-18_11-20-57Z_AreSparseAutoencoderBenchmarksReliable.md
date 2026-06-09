@@ -1,0 +1,18 @@
+---
+title: Are Sparse Autoencoder Benchmarks Reliable?
+published: 2026-05-18T11:20:57Z
+authors: David Chanin
+url: http://arxiv.org/abs/2605.18229v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Are Sparse Autoencoder Benchmarks Reliable?
+
+## Abstract
+Sparse autoencoders (SAEs) are a core interpretability tool for large language models, and progress on SAE architectures depends on benchmarks that reliably distinguish better SAEs from worse ones. We audit the SAE quality metrics in SAEBench, the de-facto standard SAE evaluation suite, through three complementary lenses: reseed noise on a fixed SAE, ground-truth correlation on synthetic SAEs, and discriminability across training trajectories. We find that two of these metrics, Targeted Probe Perturbation (TPP) and Spurious Correlation Removal (SCR), fail multiple lenses at their canonical settings and should not be used to evaluate SAEs. The other metrics show higher reseed noise and lower discriminability than the field assumes. The sae-probes variant of $k$-sparse probing is the most reliable metric we tested, but even sae-probes struggles to separate variants of the same SAE architecture. Our results show the field needs better SAE benchmarks.
+
+## Metadata
+- **Published**: 2026-05-18T11:20:57Z
+- **Authors**: David Chanin
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2605.18229v1)

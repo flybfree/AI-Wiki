@@ -1,0 +1,18 @@
+---
+title: IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification
+published: 2026-05-14T13:58:36Z
+authors: Zhigao Huang, Zhengqing Hu, Dong Chen, Shaohan Zhang, Zhao Jin, Bo Zhang, Han Wu, Mingliang Xu
+url: http://arxiv.org/abs/2605.14851v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification
+
+## Abstract
+Operational plan generation and verification are critical for modern complex and rapidly changing battlefield environments, yet traditional generation and verification methods still respectively face the challenges of generation infeasibility and verification insufficiency. To alleviate these limitations, we propose an Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification (IFPV). IFPV consists of two tightly coupled modules: Multi-Perspective Hierarchical Agents (MPHA) for generative operational planning and an Adversarial Cognitive Simulation Engine (ACSE) for high-fidelity adversarial plan verification. MPHA decomposes commander intent into executable multi-platform tactical action sequences through the collaboration of Pathfinder, Analyst, and Planner agents. ACSE introduces an opponent equipped with a customized world model, which predicts the future evolution of mission-critical platforms and conducts dynamic counteractions against candidate plans. Simulation experiments in the Asymmetric Combat Tactic Simulator (ACTS) show that IFPV improves mission success by 19.4% and reduces operational cost by 41.7% compared with a single-step large language model (LLM) planning baseline. Compared with a traditional rule-based validator, ACSE increases the average suppression rate by 31.8%, indicating that the proposed verification environment is stricter and more discriminative in revealing the latent vulnerabilities of candidate plans. The code for IFPV can be found at https://github.com/zhigao3ks/IFPV.
+
+## Metadata
+- **Published**: 2026-05-14T13:58:36Z
+- **Authors**: Zhigao Huang, Zhengqing Hu, Dong Chen, Shaohan Zhang, Zhao Jin, Bo Zhang, Han Wu, Mingliang Xu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2605.14851v1)

@@ -1,0 +1,67 @@
+# AI Industry & News Hub
+
+## Overview
+
+This hub organizes AI industry news, model releases, market analysis, and breakthrough announcements.
+
+## Latest AI News
+
+- [[2026-06-08_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md|AI Updates Today — June 2026]]
+- [[2026-06-08_GenerativeAInewsandanalysis_TechCrunch_summary.md|Generative AI News — TechCrunch]]
+- [[2026-06-08_GenerativeAIrecentnews_AIBusiness_summary.md|Generative AI Recent News — AI Business]]
+- [[2026-06-08_TheLatestAINewsandBreakthroughsThatMatterMost_News_summary.md|Latest AI News and Breakthroughs]]
+- [[2026-06-08_NineBreakthroughsMadePossiblebyAI_summary.md|Nine Breakthroughs Made Possible by AI]]
+- [[2026-06-01_ArtificialIntelligenceNews--ScienceDaily_summary.md|AI News — Science Daily]]
+- [[2026-06-03_GenerativeAInewsandanalysis_TechCrunch_summary.md|Generative AI News — TechCrunch]]
+- [[2026-06-04_TheLatestAINewsandBreakthroughsThatMatterMost_News_summary.md|Latest AI News]]
+- [[2026-06-06_GenerativeAIrecentnews_AIBusiness_summary.md|Generative AI Recent News]]
+- [[2026-06-07_GenerativeAIrecentnews_AIBusiness_summary.md|Generative AI Recent News]]
+- [[2026-06-05_GenerativeAInewsandanalysis_TechCrunch_summary.md|Generative AI News]]
+- [[2026-06-05_GenerativeAIrecentnews_AIBusiness_summary.md|Generative AI Recent News]]
+
+## Model Releases & Benchmarks
+
+- [[2026-06-07_TheBestOpen-SourceLLMsin2026_summary.md|Best Open-Source LLMs in 2026]]
+- [[2026-06-06_Top7opensourceLLMsfor2026_summary.md|Top 7 Open-Source LLMs for 2026]]
+- [[2026-06-04_Top7opensourceLLMsfor2026_summary.md|Top 7 Open-Source LLMs for 2026]]
+- [[2026-06-02_Top7opensourceLLMsfor2026_summary.md|Top 7 Open-Source LLMs for 2026]]
+- [[2026-06-02_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md|AI Updates — June 2026]]
+- [[2026-06-01_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md|AI Updates — June 2026]]
+- [[2026-06-07_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md|AI Updates — June 2026]]
+- [[2026-05-05_BestOpen-SourceLLMMay2026_Llama4vsQwenvsDeepSeek_summary.md|Best Open-Source LLMs May 2026]]
+- [[2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw_summary.md|Open-Source LLM Landscape 2026]]
+- [[2026-05-11_Top7opensourceLLMsfor2026_summary.md|Top 7 Open-Source LLMs for 2026]]
+- [[2026-05-08_Top7opensourceLLMsfor2026-NetAppInstaclustr_summary.md|Top 7 Open-Source LLMs]]
+- [[2026-05-12_Top7opensourceLLMsfor2026_summary.md|Top 7 Open-Source LLMs]]
+- [[2026-04-29_10_Best_Open-Source_LLM_Models__2025_Updated___Lla_summary.md|Best Open-Source LLM Models 2025]]
+- [[2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben_summary.md|Best LLM Leaderboard 2026]]
+- [[2026-05-04_LLMLeaderboard_BestAIModelsRanked_April2026__summary.md|LLM Leaderboard April 2026]]
+- [[2026-05-05_LLMComparison2026_ClaudevsGPTvsGemini_Keymakr_summary.md|LLM Comparison 2026]]
+- [[2026-05-04_AIModelReleaseTimeline2025_2026_KeyLLMLaunchesandU_summary.md|AI Model Release Timeline]]
+- [[2026-05-05_AIModelReleaseTimeline2025_2026_KeyLLMLaunchesandU_summary.md|AI Model Release Timeline]]
+- [[2026-05-05_NewAIModels2026-LatestReleases_LMMarketCap_summary.md|New AI Models 2026]]
+- [[2026-05-02_NewAIModels2026-LatestReleases_LMMarketCap_summary.md|New AI Models 2026]]
+
+## Industry Analysis
+
+- [[2026-04-29_Inside_the_AI_Index__12_Takeaways_from_the_2026_Re_summary.md|Inside the AI Index]]
+- [[2026-04-29_Inaugural_Adobe_Creators__Toolkit_Report__86_Perce_summary.md|Adobe Creators Toolkit Report]]
+- [[2026-05-04_MorganStanleywarnsanAIbreakthroughIscomingin2026-F_summary.md|Morgan Stanley: AI Breakthrough Coming]]
+- [[2026-05-13_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc_summary.md|New Brain-Like Chip]]
+- [[2026-05-05_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc_summary.md|New Brain-Like Chip]]
+- [[2026-05-12_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc_summary.md|New Brain-Like Chip]]
+- [[2026-05-07_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc_summary.md|New Brain-Like Chip]]
+- [[2026-05-14_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc_summary.md|New Brain-Like Chip]]
+- [[2026-04-29_Here_s_who_is_spending_money_on_AI_subscriptions__.md|Who is Spending on AI]]
+- [[2026-04-29_China_s_AI_upstart_DeepSeek_drops_new_model__Will_.md|China's DeepSeek]]
+- [[2026-04-27_China_s_AI_upstart_DeepSeek_drops_new_model__Will__summary.md|China's DeepSeek]]
+- [[2026-04-26_DeepSeekunveilsnew_low_costV4AImodels_Here_swhatyo_summary.md|DeepSeek Low-Cost V4]]
+- [[2026-04-29_China_s_DeepSeek_releases_preview_of_long-awaited_.md|DeepSeek Long-Awaited Release]]
+- [[2026-04-29_Qwen_3_6_27B_Arrives_with_GGUF_Support_and_Local_M_summary.md|Qwen 3.6 27B]]
+- [[2026-04-26_Qwen_3_6_27B_Arrives_with_GGUF_Support_and_Local_M_summary.md|Qwen 3.6 27B]]
+- [[2026-04-27_Merck_and_Mayo_Clinic_Announce_New_Research_and_De_summary.md|Merck & Mayo AI Research]]
+- [[2026-04-29_Sony_AI_Announces_Breakthrough_Research_in_Real-Wo_summary.md|Sony AI Breakthrough]]
+- [[2026-05-10_SonyAIAnnouncesBreakthroughResearchinReal-WorldArt_summary.md|Sony AI Breakthrough]]
+- [[2026-05-06_SonyAIAnnouncesBreakthroughResearchinReal-WorldArt_summary.md|Sony AI Breakthrough]]
+- [[2026-05-15_SonyAIAnnouncesBreakthroughResearchinReal-WorldArt_summary.md|Sony AI Breakthrough]]
+- [[2026-05-07_SonyAIAnnouncesBreakthroughResearchinReal-WorldArt_summary.md|Sony AI Breakthrough]]

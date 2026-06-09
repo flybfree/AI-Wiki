@@ -1,0 +1,18 @@
+---
+title: Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains (extended preprint)
+published: 2026-05-26T12:32:17Z
+authors: Paul Sigloch, Christoph Benzmüller
+url: http://arxiv.org/abs/2605.26942v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains (extended preprint)
+
+## Abstract
+LLMs deployed in high-stakes domains face fundamental reliability challenges: hallucinations, inconsistencies, and privacy vulnerabilities introduce unacceptable risks where errors carry legal, financial, or safety consequences. This paper presents a hybrid verification architecture combining formal symbolic methods with neural semantic analysis to provide complementary guarantees for LLM-generated content. This architecture employs logical reasoning for input verification, leveraging completeness properties to provide decidable guarantees on structured requirements. For output validation, embedding-based semantic similarity detects contextual hallucinations where formal methods lack expressiveness. This separation is realized in a parallel, actor-based pipeline, addressing limitations of prompt-based self-verification approaches, which inherit the distributional biases that produce hallucinations. The proposed architecture and type-aware verification method are validated with HAIMEDA, a real-world medical device damage assessment reporting system developed through Action Design Research. Evaluation shows hallucination detection rates of over 83% for structured entities and 72% for semantic fabrications, with a 30% reduction in report creation time, demonstrating that neuro-symbolic architectures can provide principled safeguards for LLM deployment in data-sensitive domains.
+
+## Metadata
+- **Published**: 2026-05-26T12:32:17Z
+- **Authors**: Paul Sigloch, Christoph Benzmüller
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2605.26942v1)

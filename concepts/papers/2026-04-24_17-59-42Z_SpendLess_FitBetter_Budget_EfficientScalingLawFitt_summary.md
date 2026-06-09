@@ -1,0 +1,29 @@
+# Summary: 2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md
+Saved: 2026-05-07 22:29
+Source: 2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md
+Model: None
+
+---
+
+## Summary
+Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions. In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step. We formulate scaling-law fitting as budget-aware sequential experimental design: given a finite pool of runnable experiments with heterogeneous costs, choose which runs to execute so as to maximize extrapolation accuracy in a high-cost target region.
+
+## Key Takeaways
+- Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions.
+- In modern large-scale workflows, assembling a sufficiently informative set of pilot experiments is already a major budget-allocation problem rather than a routine preprocessing step.
+- We formulate scaling-law fitting as budget-aware sequential experimental design: given a finite pool of runnable experiments with heterogeneous costs, choose which runs to execute so as to maximize extrapolation accuracy in a high-cost target region.
+
+## Context
+Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions.
+
+## Implications
+Our code is available at https://github.com/PlanarG/active-sl.
+
+## Original Reference
+- Title: Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection
+- Authors: Sijie Li, Shanda Li, Haowei Lin, Weiwei Sun, Ameet Talwalkar, Yiming Yang
+- Published: 2026-04-24T17:59:42Z
+- URL: http://arxiv.org/abs/2604.22753v1
+- Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md
+
+[[2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md]]

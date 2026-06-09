@@ -1,0 +1,10 @@
+{
+  "processed": 52,
+  "skipped": 6,
+  "errors": 0,
+  "total": 58,
+  "timestamp": "1777480169",
+  "elapsed": "247.1s",
+  "endpoint": "http://192.168.3.181:1234/v1/chat/completions",
+  "model": "nvidia/nemotron-3-nano-4b"
+}
