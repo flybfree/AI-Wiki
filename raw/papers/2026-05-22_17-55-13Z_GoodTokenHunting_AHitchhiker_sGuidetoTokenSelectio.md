@@ -1,5 +1,5 @@
 ---
-title: Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers
+title: "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers"
 published: 2026-05-22T17:55:13Z
 authors: Shuhong Zheng, Michael Oechsle, Erik Sandström, Marie-Julie Rakotosaona, Federico Tombari, Igor Gilitschenski
 url: http://arxiv.org/abs/2605.23892v1

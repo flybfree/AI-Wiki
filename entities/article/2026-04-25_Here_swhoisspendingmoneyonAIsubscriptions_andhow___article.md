@@ -1,6 +1,6 @@
 ---
 
-title: Here's who is spending money on AI subscriptions, and how ... - CBS News
+title: "Here's who is spending money on AI subscriptions, and how ... - CBS News"
 date: 2026-04-25
 url: https://www.cbsnews.com/news/generative-ai-subscriptions-consumer-spending/
 type: news-snippet

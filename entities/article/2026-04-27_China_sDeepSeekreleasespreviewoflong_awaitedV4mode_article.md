@@ -1,6 +1,6 @@
 ---
 
-title: China's DeepSeek releases preview of long-awaited V4 model as AI
+title: "China's DeepSeek releases preview of long-awaited V4 model as AI"
 date: 2026-04-27
 url: https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html?msockid=2e6aa028c1756b8d1ac3b760c05e6a7a
 type: news-snippet

@@ -1,5 +1,5 @@
 ---
-title: Expert Evaluation of LLM's Open-Ended Legal Reasoning on the Japanese Bar Exam Writing Task
+title: "Expert Evaluation of LLM's Open-Ended Legal Reasoning on the Japanese Bar Exam Writing Task"
 published: 2026-04-26T14:15:43Z
 authors: Jungmin Choi, Keisuke Sakaguchi, Hiroaki Yamada
 url: http://arxiv.org/abs/2604.23730v1

@@ -1,6 +1,6 @@
 ---
 
-title: Inaugural Adobe Creators' Toolkit Report: 86 Percent of Global …
+title: "Inaugural Adobe Creators' Toolkit Report: 86 Percent of Global …"
 date: 2026-04-27
 url: https://news.adobe.com/news/2025/10/adobe-max-2025-creators-survey
 type: news-snippet

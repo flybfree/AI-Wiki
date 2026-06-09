@@ -1,5 +1,5 @@
 ---
-title: HERO'S JOURNEY: Testing Complex Rule Induction with Text Games
+title: "HERO'S JOURNEY: Testing Complex Rule Induction with Text Games"
 published: 2026-06-01T17:51:40Z
 authors: Anshun Asher Zheng, Kanishka Misra, David I. Beaver, Junyi Jessy Li
 url: http://arxiv.org/abs/2606.02556v1

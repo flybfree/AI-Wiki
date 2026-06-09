@@ -1,5 +1,5 @@
 ---
-title: Transition-Based Digital Twin Modelling for Alzheimer's Disease under Sparse Longitudinal Data
+title: "Transition-Based Digital Twin Modelling for Alzheimer's Disease under Sparse Longitudinal Data"
 published: 2026-06-08T15:54:10Z
 authors: Yinyu Huang, Yilin Zhang, Sofia Michopoulou, Christopher Kipps, Rahman Attar
 url: http://arxiv.org/abs/2606.09671v1

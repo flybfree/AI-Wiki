@@ -1,5 +1,5 @@
 ---
-title: What is Learnable in Valiant's Theory of the Learnable?
+title: "What is Learnable in Valiant's Theory of the Learnable?"
 published: 2026-05-13T17:58:46Z
 authors: Steve Hanneke, Anay Mehrotra, Grigoris Velegkas, Manolis Zampetakis
 url: http://arxiv.org/abs/2605.13840v1

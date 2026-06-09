@@ -1,5 +1,5 @@
 ---
-title: "HLL: Can Agents Cross Humanity's Last Line of Verification?"
+title: "\"HLL: Can Agents Cross Humanity's Last Line of Verification?\""
 arxiv: 2606.02449
 date: 2026-06-01
 authors: Song, Xinhao; Su, Su; Song, Sirui; Wu, Hongliang; Shen, Wen; Wei, Zhihua; Liu, Gongshen; Zhang, Linfeng; Liu, Dongrui
