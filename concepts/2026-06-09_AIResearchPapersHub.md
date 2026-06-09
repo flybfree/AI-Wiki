@@ -8,7 +8,7 @@ This hub organizes the raw research papers collected from arXiv and other source
 
 ### Transformers & Attention
 
-- [[2026-05-09_1706.03762-attention-is-all-you-need.md|Attention Is All You Need]]
+- [[Attention Is All You Need]]
 - [[2026-04-22_17-46-09Z_Stream_CQSA_AvoidingOut_of_MemoryinAttentio.md|Stream-CQSA: Avoiding Out-of-Memory in Attention]]
 - [[2026-06-08_15-54-28Z_CorrelationIsNotEnough_EmbeddingHumanMetadataforIn.md|Correlation Is Not Enough]]
 

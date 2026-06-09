@@ -804,7 +804,7 @@
 - [[2026-05-09_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 - [[2026-05-09_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 - [[2026-05-09_2001.08361-scaling-laws-for-neural-language-models.md]] : "Scaling Laws for Neural Language Models"
-- [[2026-05-09_1706.03762-attention-is-all-you-need.md]] : "Attention Is All You Need"
+- [[Attention Is All You Need]] : "Attention Is All You Need"
 - [[2026-05-09_2006.11239-denoising-diffusion-probabilistic-models.md]] : "Denoising Diffusion Probabilistic Models" (DDPM)
 - [[2026-05-09_1810.04805-bert-pre-training-bidirectional-transformers.md]] : "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
 - [[2026-05-09_2005.14165-language-models-are-few-shot-learners.md]] : "Language Models Are Few-Shot Learners" (GPT-3)

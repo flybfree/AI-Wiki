@@ -11,7 +11,7 @@ This hub organizes content related to large language models, their architectures
 
 ## Key Papers
 
-- [[2026-05-09_1706.03762-attention-is-all-you-need.md|Attention Is All You Need]]
+- [[Attention Is All You Need]]
 - [[2026-05-09_1512.03385-deep-residual-learning-resnet.md|Deep Residual Learning]]
 - [[2026-05-09_1406.2661-generative-adversarial-networks.md|Generative Adversarial Networks]]
 - [[2026-05-09_1701.06538-mixture-of-experts-moe.md|Mixture of Experts]]
