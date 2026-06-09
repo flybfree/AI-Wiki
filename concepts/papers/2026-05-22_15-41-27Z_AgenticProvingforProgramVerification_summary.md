@@ -29,4 +29,4 @@ These results reveal a growing mismatch between the difficulty of existing progr
 ## Related Concepts  
 Agentic systems, theorem proving, program verification, CLEVER benchmark, isomorphism‑based scoring, end‑to‑end pipeline, self‑diagnostic feedback, compiler‑in‑the‑loop, generative AI.
 
-[[2026-05-22_15-41-27Z_AgenticProvingforProgramVerification.md]]
+[[Agentic Proving for Program Verification]]

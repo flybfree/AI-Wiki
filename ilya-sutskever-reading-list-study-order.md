@@ -84,4 +84,4 @@ If you want the fastest high-signal path, read these first:
 ## Notes
 - Some items on the original list are essays, blog posts, or course materials rather than arXiv papers.
 - The study order above is opinionated: it emphasizes conceptual buildup over strict historical order.
-- The original list remains available at [[ilya-sutskever-reading-list.md|Ilya Sutskever Recommended Reading List]].
+- The original list remains available at [[Ilya Sutskever Reading List Study Order|Ilya Sutskever Recommended Reading List]].

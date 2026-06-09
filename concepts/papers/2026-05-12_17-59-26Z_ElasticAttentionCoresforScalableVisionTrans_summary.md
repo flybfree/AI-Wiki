@@ -32,4 +32,4 @@ This work is significant because it decouples the performance of Vision Transfor
 - Sparse Attention
 - Computational Efficiency in Deep Learning
 
-[[2026-05-12_17-59-26Z_ElasticAttentionCoresforScalableVisionTransformers.md]]
+[[Elastic Attention Cores for Scalable Vision Transformers]]

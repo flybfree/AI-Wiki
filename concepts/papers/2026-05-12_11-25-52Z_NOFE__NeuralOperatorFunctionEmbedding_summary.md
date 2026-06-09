@@ -31,4 +31,4 @@ This research matters because it fundamentally shifts the paradigm of dimensiona
 - Climate Reanalysis (ERA5)
 - Local and Global Structure Preservation
 
-[[2026-05-12_11-25-52Z_NOFE__NeuralOperatorFunctionEmbedding.md]]
+[[NOFE -- Neural Operator Function Embedding]]

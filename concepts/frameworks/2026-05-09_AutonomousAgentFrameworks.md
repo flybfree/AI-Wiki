@@ -123,5 +123,5 @@ This entry documents the major autonomous agent frameworks and architectures ava
 
 ## Cross-References
 - ReAct paper: [[2026-05-09_131500Z_ReAct_SynergizingReasoningAndActingInLanguageModels.md]]
-- Agent Architecture Evolution: [[2026-05-09_AgentArchitectureEvolution.md]]
+- Agent Architecture Evolution: [[Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)]]
 - CourseDesigner Lesson 13: Agents and Agentic Workflows

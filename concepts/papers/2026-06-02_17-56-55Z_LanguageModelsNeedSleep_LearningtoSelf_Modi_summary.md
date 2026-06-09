@@ -32,4 +32,4 @@ This work bridges human cognitive sleep mechanisms with AI model training, offer
 - Self‑modifying agents  
 - Dream cycles
 
-[[2026-06-02_17-56-55Z_LanguageModelsNeedSleep_LearningtoSelf_ModifyandCo.md]]
+[[Language Models Need Sleep]]

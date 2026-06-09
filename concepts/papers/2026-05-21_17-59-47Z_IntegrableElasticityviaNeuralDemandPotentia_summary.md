@@ -32,4 +32,4 @@ This research matters because it bridges the gap between flexible machine learni
 - Context-dependent demand
 - Economic consistency in machine learning
 
-[[2026-05-21_17-59-47Z_IntegrableElasticityviaNeuralDemandPotentials.md]]
+[[Integrable Elasticity via Neural Demand Potentials]]

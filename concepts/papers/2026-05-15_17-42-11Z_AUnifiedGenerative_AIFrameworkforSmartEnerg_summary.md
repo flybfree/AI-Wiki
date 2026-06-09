@@ -34,4 +34,4 @@ This research is significant because it provides a scalable, unified solution fo
 - IoT in Energy Grids
 - Predictive Maintenance
 
-[[2026-05-15_17-42-11Z_AUnifiedGenerative_AIFrameworkforSmartEnergyInfras.md]]
+[[Generative AI]]

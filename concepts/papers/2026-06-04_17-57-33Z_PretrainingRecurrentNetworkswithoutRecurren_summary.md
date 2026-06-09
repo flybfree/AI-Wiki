@@ -31,4 +31,4 @@ By removing recurrence, SMT unlocks parallel pretraining for nonlinear RNNs, all
 - Memory state transition labels  
 - Gradient path length
 
-[[2026-06-04_17-57-33Z_PretrainingRecurrentNetworkswithoutRecurrence.md]]
+[[Pretraining Recurrent Networks without Recurrence]]

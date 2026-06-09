@@ -26,4 +26,4 @@ The (un)decidability of this problem was previously unknown.
 - URL: http://arxiv.org/abs/2604.22736v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-36-17Z_AnUndecidabilityProofforthePlanExistenceProblem.md
 
-[[2026-04-24_17-36-17Z_AnUndecidabilityProofforthePlanExistenceProblem.md]]
+[[An Undecidability Proof for the Plan Existence Problem]]

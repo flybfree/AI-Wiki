@@ -16,4 +16,4 @@ This paper investigates the theoretical limits and practical methods of learning
 ## Methodology
 The study combines theoretical cryptography (to establish hardness bounds) with computational learning theory (to design efficient algorithms). The core approach involves analyzing the information content provided by multiple, systematically different step-by-step solution traces (CoT data) alongside general end-result supervision. They develop an active
 
-[[2026-04-27_17-43-44Z_LearningtoThinkfromMultipleThinkers.md]]
+[[Learning to Think from Multiple Thinkers]]

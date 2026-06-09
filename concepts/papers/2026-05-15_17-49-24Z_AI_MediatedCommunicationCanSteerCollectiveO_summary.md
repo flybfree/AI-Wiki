@@ -32,4 +32,4 @@ This research is critical because it exposes a hidden mechanism through which AI
 - Social Network Analysis
 - AI Governance and Regulation
 
-[[2026-05-15_17-49-24Z_AI_MediatedCommunicationCanSteerCollectiveOpinion.md]]
+[[AI-Mediated Communication Can Steer Collective Opinion]]

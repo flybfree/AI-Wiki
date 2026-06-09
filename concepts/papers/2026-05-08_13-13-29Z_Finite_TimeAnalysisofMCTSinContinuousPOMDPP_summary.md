@@ -26,4 +26,4 @@ This work bridges the gap between empirical success and rigorous theory, deliver
 ## Related Concepts  
 MCTS, POMDP, UCB, polynomial concentration, Voronoi cells, finite‑time analysis, exploration bonus, partitioning loss, branching factor, empirical value estimation.
 
-[[2026-05-08_13-13-29Z_Finite_TimeAnalysisofMCTSinContinuousPOMDPPlanning.md]]
+[[Finite-Time Analysis of MCTS in Continuous POMDP Planning]]

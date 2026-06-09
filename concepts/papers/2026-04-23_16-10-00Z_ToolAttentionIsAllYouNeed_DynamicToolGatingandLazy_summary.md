@@ -27,4 +27,4 @@ Protocol-level tool selection can substantially reduce per-turn overhead in larg
 - Published: 2026-04-23T16:10:00Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_16-10-00Z_ToolAttentionIsAllYouNeed_DynamicToolGatingandLazy.md
 
-[[2026-04-23_16-10-00Z_ToolAttentionIsAllYouNeed_DynamicToolGatingandLazy.md]]
+[[Attention Is All You Need]]

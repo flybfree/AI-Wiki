@@ -26,4 +26,4 @@ By replacing heuristic tokenisation with a provably near‑optimal convex optimi
 ## Related Concepts  
 tokenisation, BPE (Byte‑Pair Encoding), Unigram, linear programming, convex relaxation, bits‑per‑byte, lower bound, intrinsic metrics, language models.
 
-[[2026-05-21_17-59-56Z_TokenisationviaConvexRelaxations.md]]
+[[Tokenisation via Convex Relaxations]]

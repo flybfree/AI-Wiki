@@ -30,4 +30,4 @@ Exploiting the underlying graph structure reduces both computational overhead of
 - L1/L2 trade‑off penalty  
 - Predictor duplication methods
 
-[[2026-05-06_16-31-20Z_ProximalProjectionforDoublySparseRegularizedModels.md]]
+[[Proximal Projection for Doubly Sparse Regularized Models]]

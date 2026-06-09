@@ -33,4 +33,4 @@ This research is significant because it resolves the long-standing challenge of 
 - Generalized Median
 - Strategic Voting and Sincerity
 
-[[2026-05-13_11-23-34Z_ConstitutionalGovernanceinMetricSpaces.md]]
+[[Constitutional Governance in Metric Spaces]]

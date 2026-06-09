@@ -32,4 +32,4 @@ This research matters because it provides a practical and robust solution for se
 - Adversarial Machine Learning
 - Model Integrity Verification
 
-[[2026-05-20_13-19-27Z_DetectingTrojanedDNNsviaSpectralRegressionAnalysis.md]]
+[[Detecting Trojaned DNNs via Spectral Regression Analysis]]

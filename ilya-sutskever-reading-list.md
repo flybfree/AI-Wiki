@@ -14,7 +14,7 @@ Source repo: https://github.com/dzyim/ilya-sutskever-recommended-reading
 - Items with local wiki pages added today: 6
 
 ## Related pages
-- [[ilya-sutskever-reading-list-study-order.md|Study order version]]
+- [[Ilya Sutskever Reading List Study Order|Study order version]]
 
 ## Local wiki pages added today
 - [[raw/papers/2026-05-06_understanding_lstm_networks.md|Understanding LSTM Networks]]

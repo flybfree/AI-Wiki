@@ -32,4 +32,4 @@ This work is significant because it breaks the rigid AC0 vs. PTime dichotomy tha
 - GQL and SQL/PGQ Standards
 - ELI Description Logic
 
-[[2026-05-13_11-26-32Z_AHornextensionofDL_LitewithNLdatacomplexity.md]]
+[[A Horn extension of DL-Lite with NL data complexity]]

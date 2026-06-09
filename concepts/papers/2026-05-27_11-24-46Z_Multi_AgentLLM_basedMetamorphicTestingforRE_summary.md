@@ -32,4 +32,4 @@ ARMeta addresses the core challenge of metamorphic testing for APIs by automatin
 - Test oracle problem  
 - Scenario‑based testing baseline
 
-[[2026-05-27_11-24-46Z_Multi_AgentLLM_basedMetamorphicTestingforRESTAPIs.md]]
+[[Multi-Agent LLM-based Metamorphic Testing for REST APIs]]

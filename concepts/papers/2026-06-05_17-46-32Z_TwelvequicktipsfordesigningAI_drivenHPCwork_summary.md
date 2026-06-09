@@ -33,4 +33,4 @@ This work matters because it equips researchers with a practical toolkit for nav
 - I/O optimisation for small files  
 - Reproducibility and scalability of AI experiments
 
-[[2026-06-05_17-46-32Z_TwelvequicktipsfordesigningAI_drivenHPCworkflows.md]]
+[[Twelve quick tips for designing AI-driven HPC workflows]]

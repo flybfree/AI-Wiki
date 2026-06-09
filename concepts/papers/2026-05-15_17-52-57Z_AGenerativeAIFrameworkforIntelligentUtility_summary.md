@@ -32,4 +32,4 @@ This research is significant because it addresses a critical gap in the current 
 - Natural Language Generation for Billing
 - Calibrated Quantile Bands
 
-[[2026-05-15_17-52-57Z_AGenerativeAIFrameworkforIntelligentUtilityBilling.md]]
+[[Generative AI]]

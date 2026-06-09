@@ -32,4 +32,4 @@ The scaling laws give a rational justification for massive compute budgets and g
 - Compute budget allocation  
 - Chinchilla model
 
-[[2026-05-09_2001.08361-scaling-laws-for-neural-language-models.md]]
+[[Scaling Laws for Neural Language Models]]

@@ -30,4 +30,4 @@ By confining uncertainty modeling to a low‑dimensional projected space, the me
 - Weight covariance modeling  
 - Calibration of probabilistic outputs
 
-[[2026-05-08_13-14-24Z_BayesianFine_tuninginProjectedSubspaces.md]]
+[[Bayesian Fine-tuning in Projected Subspaces]]

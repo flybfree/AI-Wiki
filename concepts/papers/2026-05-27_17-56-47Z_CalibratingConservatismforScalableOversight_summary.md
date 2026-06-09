@@ -29,4 +29,4 @@ This work advances scalable oversight by providing a principled, assumption‑fr
 - Collective conservatism  
 - Scalable oversight
 
-[[2026-05-27_17-56-47Z_CalibratingConservatismforScalableOversight.md]]
+[[Calibrating Conservatism for Scalable Oversight]]

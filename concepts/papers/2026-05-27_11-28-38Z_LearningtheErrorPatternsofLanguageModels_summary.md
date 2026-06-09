@@ -26,4 +26,4 @@ Understanding error patterns as learnable symbolic constraints transforms LLM de
 ## Related Concepts  
 Prefix filters, constrained sampling, symbolic functions, reinforcement learning for constraints, error analysis in LLMs.
 
-[[2026-05-27_11-28-38Z_LearningtheErrorPatternsofLanguageModels.md]]
+[[Learning the Error Patterns of Language Models]]

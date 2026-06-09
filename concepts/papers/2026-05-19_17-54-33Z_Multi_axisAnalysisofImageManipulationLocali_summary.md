@@ -31,4 +31,4 @@ This research is significant because it addresses a growing societal threat pose
 - Generative AI
 - Benchmark Datasets
 
-[[2026-05-19_17-54-33Z_Multi_axisAnalysisofImageManipulationLocalization.md]]
+[[Multi-axis Analysis of Image Manipulation Localization]]

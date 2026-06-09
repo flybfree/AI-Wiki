@@ -32,4 +32,4 @@ This work introduces a novel paradigm for multi‑agent reasoning that decouples
 - Joint analysis of communication topologies  
 - Step‑level scaling law
 
-[[2026-06-03_17-57-04Z_StreamingCommunicationinMulti_AgentReasoning.md]]
+[[Streaming Communication in Multi-Agent Reasoning]]

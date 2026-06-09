@@ -31,4 +31,4 @@ This research is significant because it provides a robust, automated solution to
 - Sustainable Energy Systems
 - Constraint Satisfaction Problems
 
-[[2026-05-19_17-54-15Z_Long_termPowerGridPlanningviaAnswerSetProgramming.md]]
+[[Long-term Power Grid Planning via Answer Set Programming]]

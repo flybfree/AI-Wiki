@@ -32,4 +32,4 @@ By decoupling explicit predictions from high‑cost metric evaluations, the appr
 - Approximation guarantees  
 - Metrical task systems
 
-[[2026-05-26_11-47-58Z_ParsimoniousLearning_AugmentedOnlineMetricMatching.md]]
+[[Parsimonious Learning-Augmented Online Metric Matching]]

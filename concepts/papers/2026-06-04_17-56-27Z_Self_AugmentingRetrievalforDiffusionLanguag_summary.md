@@ -26,4 +26,4 @@ By repurposing discarded tokens as retrieval cues, SARDI bridges the gap between
 ## Related Concepts  
 Diffusion language models, Retrieval‑Augmented Generation (RAG), low‑confidence token utilization, dynamic retrieval, multi‑hop question answering.
 
-[[2026-06-04_17-56-27Z_Self_AugmentingRetrievalforDiffusionLanguageModels.md]]
+[[Self-Augmenting Retrieval for Diffusion Language Models]]
