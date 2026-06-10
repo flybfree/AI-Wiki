@@ -1250,6 +1250,16 @@
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 
 ## Papers
+- [[2026-06-09_17-48-41Z_Piper_AProgrammableDistributedTrainingSystem.md]] : Piper: A Programmable Distributed Training System
+- [[2026-06-09_17-49-24Z_PredictingFutureBehaviorsinReasoningModelsEnablesB.md]] : Predicting Future Behaviors in Reasoning Models Enables Better Steering
+- [[2026-06-09_17-49-09Z_AlgorithmicandMinimaxComplexitiesinKernelBandits.md]] : Algorithmic and Minimax Complexities in Kernel Bandits
+- [[2026-06-09_17-51-55Z_DataJournalistAgent_TransformingDataintoVerifiable.md]] : Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories
+- [[2026-06-09_17-59-58Z_WhentoAlign_WhentoPredict_APhaseDiagramforMultimod.md]] : When to Align, When to Predict: A Phase Diagram for Multimodal Learning
+- [[2026-06-09_17-46-55Z_Multi_FacetedInteractivityAlignmentinFull_DuplexSp.md]] : Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models
+- [[2026-06-09_17-57-16Z_EEVEE_TowardsTest_timePromptLearningintheRealWorld.md]] : EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents
+- [[2026-06-09_17-59-54Z_AUnifyingLensonSupervisedFine_TuningThroughTargetD.md]] : A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design
+- [[2026-06-09_17-50-09Z_TheRoleofFeedbackAlignmentinSelf_Distillation.md]] : The Role of Feedback Alignment in Self-Distillation
+- [[2026-06-09_17-46-10Z_FlawsintheLLMAutomationNarrative.md]] : Flaws in the LLM Automation Narrative
 - [[2026-06-08_17-59-43Z_OmniGameArena_AUnifiedUE5BenchmarkforVLMGameAgents.md]] : OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics
 - [[Rethinking the Divergence Regularization in LLM RL]] : Rethinking the Divergence Regularization in LLM RL
 - [[2026-06-08_17-58-36Z_CausallyEvaluatingtheLearnabilityofFormalLanguageT.md]] : Causally Evaluating the Learnability of Formal Language Tasks
