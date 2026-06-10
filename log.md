@@ -403,3 +403,5 @@
 ## [2026-06-09 22:00] ingest | 2026-06-09_17-48-41Z_Piper_AProgrammableDistributedTrainingSystem.md
 ## [2026-06-10 00:00] skip-duplicate | 2026-06-10_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md
 ## [2026-06-10 00:00] skip-duplicate | 2026-06-10_NineBreakthroughsMadePossiblebyAI.md
+## [2026-06-10 10:00] skip-duplicate | 2026-06-10_GenerativeAI.md
+## [2026-06-10 11:00] skip-duplicate | 2026-06-10_ArtificialIntelligenceNews--ScienceDaily.md
