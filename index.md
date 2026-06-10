@@ -14,6 +14,7 @@
 - [[self-improving-ai-loops/2026-06-10_Lesson7_Orchestration.md|Lesson 7: Orchestration & UI — Making It Usable]] — Dify, Flowise, Open WebUI, visual vs code-based
 - [[self-improving-ai-loops/2026-06-10_Lesson8_DIYArchitecture.md|Lesson 8: Putting It All Together — DIY Architecture]] — complete stack, working Ralph loop script, production checklist
 - [[self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9: SmolAgents Deep Dive — Code-First Agents from Hugging Face]] — CodeAgent vs ToolCallingAgent, model backends, tools system, memory management, security, best practices
+- [[self-improving-ai-loops/2026-06-10_Lesson10_DiffusionGemma.md|Lesson 10: DiffusionGemma — Block-Autoregressive Text Generation]] — Google DeepMind's 26B MoE model, discrete diffusion for text, up to 4x faster local inference, multimodal capabilities, benchmark comparison
 
 ## Claude Code / Harness Engineering
 - [[dive-into-claude-code.md|dive-into-claude-code]] — hub page for the Claude Code architecture analysis
