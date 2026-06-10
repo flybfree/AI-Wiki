@@ -1,5 +1,5 @@
 ---
-title: Lesson 5 — Knowledge & Memory: The Outer Loop
+title: "Lesson 5 — Knowledge & Memory: The Outer Loop"
 created: 2026-06-10
 module: Self Improving AI Loops
 lesson: 5

@@ -1,5 +1,5 @@
 ---
-title: Lesson 7 — Orchestration & UI: Making It Usable
+title: "Lesson 7 — Orchestration & UI: Making It Usable"
 created: 2026-06-10
 module: Self Improving AI Loops
 lesson: 7

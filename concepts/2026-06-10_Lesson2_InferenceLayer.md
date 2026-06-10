@@ -1,5 +1,5 @@
 ---
-title: Lesson 2 — Inference Layer: Self-Hosted LLMs
+title: "Lesson 2 — Inference Layer: Self-Hosted LLMs"
 created: 2026-06-10
 module: Self Improving AI Loops
 lesson: 2

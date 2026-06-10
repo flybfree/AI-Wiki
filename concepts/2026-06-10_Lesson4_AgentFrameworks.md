@@ -1,5 +1,5 @@
 ---
-title: Lesson 4 — Agent Frameworks: The Loop Engine
+title: "Lesson 4 — Agent Frameworks: The Loop Engine"
 created: 2026-06-10
 module: Self Improving AI Loops
 lesson: 4

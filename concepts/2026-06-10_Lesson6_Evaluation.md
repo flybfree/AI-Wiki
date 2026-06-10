@@ -1,5 +1,5 @@
 ---
-title: Lesson 6 — Evaluation & Verification: The Judge Node
+title: "Lesson 6 — Evaluation & Verification: The Judge Node"
 created: 2026-06-10
 module: Self Improving AI Loops
 lesson: 6

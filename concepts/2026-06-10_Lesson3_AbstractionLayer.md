@@ -1,5 +1,5 @@
 ---
-title: Lesson 3 — Abstraction Layer: Model Swapping & Normalization
+title: "Lesson 3 — Abstraction Layer: Model Swapping & Normalization"
 created: 2026-06-10
 module: Self Improving AI Loops
 lesson: 3

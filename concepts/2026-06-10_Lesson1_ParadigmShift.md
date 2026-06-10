@@ -1,5 +1,5 @@
 ---
-title: Lesson 1 — The Paradigm Shift: From Prompting to Loops
+title: "Lesson 1 — The Paradigm Shift: From Prompting to Loops"
 created: 2026-06-10
 module: Self Improving AI Loops
 lesson: 1

@@ -1,5 +1,5 @@
 ---
-title: Lesson 9 — SmolAgents Deep Dive: Code-First Agents from Hugging Face
+title: "Lesson 9 — SmolAgents Deep Dive: Code-First Agents from Hugging Face"
 created: 2026-06-10
 module: Self Improving AI Loops
 lesson: 9

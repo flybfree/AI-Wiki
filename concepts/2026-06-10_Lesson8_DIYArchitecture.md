@@ -1,5 +1,5 @@
 ---
-title: Lesson 8 — Putting It All Together: DIY Architecture
+title: "Lesson 8 — Putting It All Together: DIY Architecture"
 created: 2026-06-10
 module: Self Improving AI Loops
 lesson: 8
