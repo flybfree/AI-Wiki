@@ -4,16 +4,16 @@
 > Last updated: 2026-06-10
 
 ## Self Improving AI Loops
-- [[2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
-- [[2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
-- [[2026-06-10_Lesson2_InferenceLayer.md|Lesson 2: Inference Layer — Self-Hosted LLMs]] — Ollama, vLLM, LM Studio, TGI, model picks for agentic work
-- [[2026-06-10_Lesson3_AbstractionLayer.md|Lesson 3: Abstraction Layer — Model Swapping & Normalization]] — LiteLLM proxy, model routing, reducing vendor lock-in
-- [[2026-06-10_Lesson4_AgentFrameworks.md|Lesson 4: Agent Frameworks — The Loop Engine]] — SmolAgents, LangGraph, OpenDevin, Aider, pattern comparison
-- [[2026-06-10_Lesson5_KnowledgeMemory.md|Lesson 5: Knowledge & Memory — The Outer Loop]] — Mozilla cq, vector DBs, cold start strategy
-- [[2026-06-10_Lesson6_Evaluation.md|Lesson 6: Evaluation & Verification — The Judge Node]] — DeepEval, Arize Phoenix, Promptfoo, drift detection
-- [[2026-06-10_Lesson7_Orchestration.md|Lesson 7: Orchestration & UI — Making It Usable]] — Dify, Flowise, Open WebUI, visual vs code-based
-- [[2026-06-10_Lesson8_DIYArchitecture.md|Lesson 8: Putting It All Together — DIY Architecture]] — complete stack, working Ralph loop script, production checklist
-- [[2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9: SmolAgents Deep Dive — Code-First Agents from Hugging Face]] — CodeAgent vs ToolCallingAgent, model backends, tools system, memory management, security, best practices
+- [[self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
+- [[self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
+- [[self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md|Lesson 2: Inference Layer — Self-Hosted LLMs]] — LM Studio, vLLM, Ollama, TGI, model picks for agentic work
+- [[self-improving-ai-loops/2026-06-10_Lesson3_AbstractionLayer.md|Lesson 3: Abstraction Layer — Model Swapping & Normalization]] — LiteLLM proxy, model routing, reducing vendor lock-in
+- [[self-improving-ai-loops/2026-06-10_Lesson4_AgentFrameworks.md|Lesson 4: Agent Frameworks — The Loop Engine]] — SmolAgents, LangGraph, OpenDevin, Aider, pattern comparison
+- [[self-improving-ai-loops/2026-06-10_Lesson5_KnowledgeMemory.md|Lesson 5: Knowledge & Memory — The Outer Loop]] — Mozilla cq, vector DBs, cold start strategy
+- [[self-improving-ai-loops/2026-06-10_Lesson6_Evaluation.md|Lesson 6: Evaluation & Verification — The Judge Node]] — DeepEval, Arize Phoenix, Promptfoo, drift detection
+- [[self-improving-ai-loops/2026-06-10_Lesson7_Orchestration.md|Lesson 7: Orchestration & UI — Making It Usable]] — Dify, Flowise, Open WebUI, visual vs code-based
+- [[self-improving-ai-loops/2026-06-10_Lesson8_DIYArchitecture.md|Lesson 8: Putting It All Together — DIY Architecture]] — complete stack, working Ralph loop script, production checklist
+- [[self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9: SmolAgents Deep Dive — Code-First Agents from Hugging Face]] — CodeAgent vs ToolCallingAgent, model backends, tools system, memory management, security, best practices
 
 ## Claude Code / Harness Engineering
 - [[dive-into-claude-code.md|dive-into-claude-code]] — hub page for the Claude Code architecture analysis
