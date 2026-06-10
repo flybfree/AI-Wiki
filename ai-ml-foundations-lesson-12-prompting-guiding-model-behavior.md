@@ -1,5 +1,5 @@
 ---
-title: AI/ML Foundations Lesson 12 - Prompting: Guiding Model Behavior
+title: 'AI/ML Foundations Lesson 12 - Prompting: Guiding Model Behavior'
 date: 2026-05-06
 status: draft
 tags: [lesson, prompting, prompt-engineering, llm, foundations]

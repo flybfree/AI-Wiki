@@ -1,6 +1,6 @@
 ---
 
-title: LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Review
+title: 'LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Review'
 date: 2026-04-25
 url: https://www.technologyreview.com/2026/04/21/1135645/llm-large-language-models-ai/
 type: news-snippet

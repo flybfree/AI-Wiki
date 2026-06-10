@@ -1,5 +1,5 @@
 ---
-title: "Computing Machinery and Intelligence" (Turing Test)
+title: 'Computing Machinery and Intelligence" (Turing Test)'
 authors: "Alan Turing"
 published: "1950-10-01"
 arxiv_id: N/A — published in Mind, 1950. Public domain.

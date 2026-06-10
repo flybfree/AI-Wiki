@@ -1,6 +1,6 @@
 ---
 
-title: AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts
+title: 'AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts'
 date: 2026-04-25
 url: https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/
 type: news-snippet

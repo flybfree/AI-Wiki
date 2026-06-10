@@ -1,5 +1,5 @@
 ---
-title: LLM Leaderboard: Best AI Models Ranked (April 2026)
+title: 'LLM Leaderboard: Best AI Models Ranked (April 2026)'
 date: 2026-05-04
 url: https://ofox.ai/blog/llm-leaderboard-best-ai-models-ranked-2026/
 type: article-full-text

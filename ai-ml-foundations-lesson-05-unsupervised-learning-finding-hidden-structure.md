@@ -1,5 +1,5 @@
 ---
-title: AI/ML Foundations Lesson 05 - Unsupervised Learning: Finding Hidden Structure
+title: 'AI/ML Foundations Lesson 05 - Unsupervised Learning: Finding Hidden Structure'
 date: 2026-05-06
 status: draft
 tags: [lesson, unsupervised-learning, clustering, anomaly-detection, foundations]

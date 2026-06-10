@@ -1,6 +1,6 @@
 ---
 
-title: The Architecture of Machine Learning Systems: A Comprehensive …
+title: 'The Architecture of Machine Learning Systems: A Comprehensive …'
 date: 2026-04-25
 url: https://medium.com/@rijuldahiya/the-architecture-of-machine-learning-systems-a-comprehensive-guide-part-1-7d5d9c3ac380
 type: news-snippet

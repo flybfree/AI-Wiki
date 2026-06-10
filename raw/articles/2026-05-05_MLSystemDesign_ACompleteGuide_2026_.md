@@ -1,5 +1,5 @@
 ---
-title: ML System Design: A Complete Guide (2026)
+title: 'ML System Design: A Complete Guide (2026)'
 date: 2026-05-05
 url: https://www.systemdesignhandbook.com/guides/ml-system-design/
 type: article-full-text

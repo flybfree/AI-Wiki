@@ -1,5 +1,5 @@
 ---
-title: GitHub - wdopen-nk/student-performance-predictor: Machine learning ...
+title: 'GitHub - wdopen-nk/student-performance-predictor: Machine learning ...'
 date: 2026-05-03
 url: https://github.com/wdopen-nk/student-performance-predictor
 type: article-full-text

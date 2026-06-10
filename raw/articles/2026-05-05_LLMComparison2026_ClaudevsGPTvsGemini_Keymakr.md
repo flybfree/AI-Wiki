@@ -1,5 +1,5 @@
 ---
-title: LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr
+title: 'LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr'
 date: 2026-05-05
 url: https://keymakr.com/blog/llm-comparison-2026-claude-vs-gpt-vs-gemini-vs-open-source-models/
 type: article-full-text

@@ -1,6 +1,6 @@
 ---
 
-title: Claude Opus 4.7: Anthropic’s New Best (Available) Model
+title: 'Claude Opus 4.7: Anthropic’s New Best (Available) Model'
 date: 2026-04-23
 url: https://www.datacamp.com/blog/opus-4-7
 type: news-snippet

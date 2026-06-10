@@ -1,5 +1,5 @@
 ---
-title: AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks
+title: 'AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks'
 date: 2026-05-06
 status: draft
 tags: [lesson, neural-networks, deep-learning, layers, activations, foundations]

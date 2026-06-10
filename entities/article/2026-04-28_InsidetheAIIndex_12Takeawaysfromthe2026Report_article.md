@@ -1,6 +1,6 @@
 ---
 
-title: Inside the AI Index: 12 Takeaways from the 2026 Report
+title: 'Inside the AI Index: 12 Takeaways from the 2026 Report'
 date: 2026-04-28
 url: https://hai.stanford.edu/news/inside-the-ai-index-12-takeaways-from-the-2026-report
 type: news-snippet

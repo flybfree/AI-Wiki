@@ -1,5 +1,5 @@
 ---
-title: AI/ML Foundations Lesson 10 - Generative AI: Creating New Content
+title: 'AI/ML Foundations Lesson 10 - Generative AI: Creating New Content'
 date: 2026-05-06
 status: draft
 tags: [lesson, generative-ai, generative-models, text-generation, image-generation, foundations]

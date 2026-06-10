@@ -1,5 +1,5 @@
 ---
-title: AI Model Release Timeline 2025–2026: Key LLM Launches and Updates ...
+title: 'AI Model Release Timeline 2025–2026: Key LLM Launches and Updates ...'
 date: 2026-05-05
 url: https://af.net/realtime/ai-model-release-timeline-2025-2026-key-llm-launches-and-updates/
 type: article-full-text

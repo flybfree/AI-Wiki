@@ -1,6 +1,6 @@
 ---
 
-title: Best Open-Source LLMs April 2026: Benchmarks, Licensing & Deployme…
+title: 'Best Open-Source LLMs April 2026: Benchmarks, Licensing & Deployme…'
 date: 2026-04-26
 url: https://lushbinary.com/blog/best-open-source-llms-april-2026-comparison-guide/
 type: news-snippet

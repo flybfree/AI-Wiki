@@ -1,6 +1,6 @@
 ---
 
-title: 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 an…
+title: '10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 an…'
 date: 2026-04-29
 url: https://huggingface.co/blog/daya-shankar/open-source-llms
 type: news-snippet

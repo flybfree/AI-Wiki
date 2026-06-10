@@ -1,6 +1,6 @@
 ---
 
-title: Coming soon: 10 Things That Matter in AI Right Now
+title: 'Coming soon: 10 Things That Matter in AI Right Now'
 date: 2026-04-25
 url: https://www.technologyreview.com/2026/04/14/1135298/coming-soon-10-things-that-matter-in-ai-right-now/
 type: news-snippet

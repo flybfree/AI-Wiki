@@ -1,5 +1,5 @@
 ---
-title: New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+title: 'New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog'
 date: 2026-06-09
 url: https://fazm.ai/blog/new-llm-releases-april-2026
 type: article-full-text

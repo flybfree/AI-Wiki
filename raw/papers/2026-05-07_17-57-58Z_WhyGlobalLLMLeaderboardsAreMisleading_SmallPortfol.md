@@ -1,5 +1,5 @@
 ---
-title: Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML
+title: 'Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML'
 published: 2026-05-07T17:57:58Z
 authors: Jai Moondra, Ayela Chughtai, Bhargavi Lanka, Swati Gupta
 url: http://arxiv.org/abs/2605.06656v1

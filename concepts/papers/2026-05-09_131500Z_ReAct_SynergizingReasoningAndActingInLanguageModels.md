@@ -1,4 +1,4 @@
-title: ReAct: Synergizing Reasoning and Acting in Language Models
+title: 'ReAct: Synergizing Reasoning and Acting in Language Models'
 source_arxiv: https://arxiv.org/abs/2210.03629
 source_pdf: https://arxiv.org/pdf/2210.03629
 source_pdf_local: /home/rich/wiki/raw/papers/2026-05-09_ReAct_SynergizingReasoningAndActing.pdf

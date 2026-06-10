@@ -1,5 +1,5 @@
 ---
-title: AI/ML Foundations Lesson 04 - Supervised Learning: Learning from Labels
+title: 'AI/ML Foundations Lesson 04 - Supervised Learning: Learning from Labels'
 date: 2026-05-06
 status: draft
 tags: [lesson, supervised-learning, classification, regression, foundations]

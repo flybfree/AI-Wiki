@@ -1,5 +1,5 @@
 ---
-title: AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface
+title: 'AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface'
 date: 2026-05-06
 status: draft
 tags: [lesson, llm, large-language-models, tokens, context-window, foundations]
