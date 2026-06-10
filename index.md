@@ -95,6 +95,18 @@
 
 ## Entities
 ## Concepts
+### LLM Model Evolution
+- [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — tracking model releases, benchmarks, and capabilities
+
+### AI Benchmarks
+- [[concepts/ai-benchmarks/2026-06-10_AIBenchmarks.md|AI Benchmarks]] — benchmark results, SOTA models, and evaluation trends
+
+### AI Industry Trends
+- [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
+
+### AI Research Papers
+- [[concepts/ai-research/2026-06-10_AIResearchPapers.md|AI Research Papers]] — key papers, contributions, and implications
+
 ## Comparisons
 ## Queries
 - [[Diagnosing CFG Interpretation in LLMs]] : Diagnosing CFG Interpretation in LLMs
