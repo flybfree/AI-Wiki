@@ -15,7 +15,6 @@ This hub organizes content related to AI system architecture — from ML pipelin
 ## Related Entity Articles
 
 - [[2026-04-23_SaiPrashanthPathi_AIForCreditRisk_ArchitectingExpl_article.md]]
-- [[2026-04-23_SeniorMachineLearningEngineer_Prediction_Planning__article.md]]
 - [[Machine Learning Lens - AWS Well-Architected Framework]]
 - [[2026-05-01_AIArchitectureDesign-AzureArchitectureCenter_Micro.md]]
 - [[2026-05-02_AIArchitectureDesign-AzureArchitectureCenter_Micro.md]]
