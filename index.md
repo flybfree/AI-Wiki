@@ -13,6 +13,7 @@
 - [[2026-06-10_Lesson6_Evaluation.md|Lesson 6: Evaluation & Verification — The Judge Node]] — DeepEval, Arize Phoenix, Promptfoo, drift detection
 - [[2026-06-10_Lesson7_Orchestration.md|Lesson 7: Orchestration & UI — Making It Usable]] — Dify, Flowise, Open WebUI, visual vs code-based
 - [[2026-06-10_Lesson8_DIYArchitecture.md|Lesson 8: Putting It All Together — DIY Architecture]] — complete stack, working Ralph loop script, production checklist
+- [[2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9: SmolAgents Deep Dive — Code-First Agents from Hugging Face]] — CodeAgent vs ToolCallingAgent, model backends, tools system, memory management, security, best practices
 
 ## Claude Code / Harness Engineering
 - [[dive-into-claude-code.md|dive-into-claude-code]] — hub page for the Claude Code architecture analysis
