@@ -28,6 +28,9 @@
 - [[claude-code-ecosystem-and-comparisons.md|claude-code-ecosystem-and-comparisons]] — OpenClaw, Hermes-Agent, and related research
 - [[claude-code-linked-sources.md|claude-code-linked-sources]] — researched papers, docs, and community deep dives
 
+## Search Agents
+- [[llm-models/2026-06-10_Harness1.md|Harness-1]] — 20B search agent trained with RL inside a stateful retrieval harness (arXiv:2606.02373)
+
 ## AI/ML Foundations
 - [[ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — main entry point and lesson navigator
 - [[ai-foundations/ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]] — concrete lesson-by-lesson revision checklist for the 16-lesson course

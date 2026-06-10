@@ -50,6 +50,15 @@ tags: [llm-models, evolution]
 - **Availability**: Open source, self-hosted
 - **Notes**: 4x faster inference than autoregressive models, 1,100+ tok/s on H100
 
+### Harness-1
+- **Params**: 20B
+- **Type**: Search Agent (RL-trained)
+- **Capabilities**: Long-horizon search, evidence curation, stateful retrieval
+- **Training**: Reinforcement learning inside a stateful retrieval harness
+- **Benchmark**: BrowseComp+ (browsing and evidence-seeking questions)
+- **Availability**: Open source, self-hosted (vLLM)
+- **Source**: [[llm-models/2026-06-10_Harness1.md|Harness-1 concept page]] · [arXiv:2606.02373](https://arxiv.org/abs/2606.02373)
+
 ---
 
 ## Benchmark Trends
