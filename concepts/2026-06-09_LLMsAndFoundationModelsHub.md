@@ -31,9 +31,9 @@ This hub organizes content related to large language models, their architectures
 - [[2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw_summary.md|Open-Source LLM Landscape 2026]]
 - [[The Best Open-Source LLMs in 2026|Best Open-Source LLMs in 2026]]
 - [[Top 7 open source LLMs for 2026|Top 7 Open-Source LLMs for 2026]]
-- [[Top 7 open source LLMs for 2026|Top 7 Open-Source LLMs for 2026]]
+
 - [[Top 7 open source LLMs for 2026 - NetApp Instaclustr|Top 7 Open-Source LLMs for 2026]]
-- [[Top 7 open source LLMs for 2026|Top 7 Open-Source LLMs for 2026]]
+
 - [[2026-05-18_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md|New LLM Releases April 2026]]
 - [[2026-06-08_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md|New LLM Releases April 2026]]
 
@@ -42,6 +42,6 @@ This hub organizes content related to large language models, their architectures
 - [[2026-06-08_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md|AI Updates Today, June 2026]]
 - [[Generative AI|Generative AI News — TechCrunch]]
 - [[Generative AI recent news - AI Business|Generative AI Recent News — AI Business]]
-- [[Artificial Intelligence News -- ScienceDaily|AI News — Science Daily]]
+- [[Artificial Intelligence News - ScienceDaily|AI News — Science Daily]]
 - [[2026-06-08_TheLatestAINewsandBreakthroughsThatMatterMost_News_summary.md|Latest AI News and Breakthroughs]]
 - [[Nine Breakthroughs Made Possible by AI|Nine Breakthroughs Made Possible by AI]]

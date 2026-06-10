@@ -117,7 +117,7 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-04-29_17-58-28Z_DECO_SparseMixture_of_ExpertswithDense_ComparableP.md|DECO]]
 - [[2026-04-29_17-58-45Z_VariationalInferenceforLévyProcess_DrivenSDEsviaNe.md|Variational Inference for Lévy Process]]
 - [[2026-04-29_17-59-29Z_ELF_EmbeddedLanguageFlows.md|ELF]]
-- [[NOFE -- Neural Operator Function Embedding|NOFE]]
+- [[NOFE - Neural Operator Function Embedding|NOFE]]
 - [[2026-05-12_11-26-47Z_CooperativeRoboticsReinforcedbyCollectivePerceptio.md|Cooperative Robotics]]
 - [[2026-05-12_11-31-18Z_TowardsOrderFairness_MitigatingLLMsOrderSensitivit.md|Order Fairness]]
 - [[2026-05-12_11-31-36Z_StochasticMinimum_CostReach_AvoidReinforcementLear.md|Stochastic Min-Cost Reach-Avoid]]
@@ -128,8 +128,8 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[Random-Set Graph Neural Networks|Random Set Graph Neural Networks]]
 - [[2026-05-12_11-40-49Z_ATransferLearningEvaluationofDeepNeuralNetworksfor.md|Transfer Learning Evaluation]]
 - [[2026-05-12_17-55-10Z_MEME_Multi_entity_EvolvingMemoryEvaluation.md|MEME]]
-- [[2026-05-12_17-56-59Z_OmniNFT_Modality_wiseOmniDiffusionReinforce.md|OmniNFT]]
-- [[2026-05-12_17-57-04Z_ToolCUA_TowardsOptimalGUI_ToolPathOrchestrationfor.md|ToolCUA]]
+
+
 - [[2026-05-12_17-57-48Z_BeyondGRPOandOn_PolicyDistillation_AnEmpiricalSpar.md|Beyond GRPO]]
 - [[2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md|Learning Fast and Slow]]
 - [[2026-05-12_17-58-27Z_Task_AdaptiveEmbeddingRefinementviaTest_timeLLMGui.md|Task-Adaptive Embedding]]
@@ -186,8 +186,8 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[Generative AI|Generative AI for Utility Billing]]
 - [[2026-05-15_17-58-58Z_DesigningDatacenterPowerDeliveryHierarchiesfortheA.md|Datacenter Power Delivery]]
 - [[2026-05-15_17-59-57Z_IVGT_ImplicitVisualGeometryTransformerforNeuralSce.md|IVGT]]
-- [[2026-05-18_10-37-39Z_RGB_onlyActive3DSceneGraphGenerationforIndoorMobil.md|RGB-only Active 3D Scene Graph]]
-- [[2026-05-18_10-39-42Z_PIPER_Content_BasedTableSearchviaprofilingandLLM_G.md|PIPER]]
+
+
 - [[2026-05-18_10-43-02Z_ConciseandLogicallyConsistentConformalSetsforNeuro.md|Conformal Sets]]
 - [[2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md|Forward-Learned Discrete Diffusion]]
 - [[2026-05-18_10-54-55Z_SPATIOROUTE_DynamicPromptRoutingforZero_ShotSpatia.md|SPATIOROUTE]]
@@ -197,13 +197,13 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-05-18_11-12-45Z_ContextMemorizationforEfficientLongContextGenerati.md|Context Memorization]]
 - [[2026-05-18_11-20-57Z_AreSparseAutoencoderBenchmarksReliable.md|Sparse Autoencoder Benchmarks]]
 - [[2026-05-18_17-53-44Z_PredictableConfabulations_FactualRecallbyLLMsScale.md|Predictable Confabulations]]
-- [[2026-05-18_17-55-03Z_PIXLRelight_ControllableRelightingviaIntrinsicCond.md|PIXL Relight]]
+
 - [[2026-05-18_17-56-13Z_WhatDoestheAIDoctorValue_AuditingPluralismintheCli.md|What Does the AI Doctor Value]]
-- [[2026-05-18_17-57-04Z_Vision_OPD_LearningtoSeeFineDetailsforMultimodalLL.md|Vision OPD]]
+
 - [[Actionable World Representation|Actionable World Representation]]
 - [[2026-05-18_17-59-00Z_SURGE_Approximation_freeTrainingFreeParticleFilter.md|SURGE]]
 - [[2026-05-18_17-59-02Z_ESI_Bench_TowardsEmbodiedSpatialIntelligencethatCl.md|ESI Bench]]
-- [[Code as Agent Harness|Code as Agent Harness]]
+
 - [[2026-05-18_17-59-18Z_AReadiness_DrivenRuntimeforPipeline_ParallelTraini.md|Readiness-Driven Runtime]]
 - [[2026-05-18_17-59-52Z_DashAttention_DifferentiableandAdaptiveSparseHiera.md|Dash Attention]]
 - [[2026-05-19_17-50-18Z_NotEveryRubricTeachesEqually_Policy_AwareRubricRew.md|Not Every Rubric Teaches Equally]]
@@ -217,7 +217,7 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-05-19_17-59-08Z_TIDE_EfficientandLosslessMoEDiffusionLLMInferencew.md|TIDE]]
 - [[2026-05-19_17-59-31Z_AtomsofThought_UniversalEEGRepresentationLearningw.md|Atoms of Thought]]
 - [[2026-05-20_12-47-14Z_AutomatedByzantine_ResilientClusteredDecentralized.md|Automated Byzantine-Resilient]]
-- [[2026-05-20_12-54-51Z_Linear_DPO_LinearDirectPreferenceOptimizati.md|Linear DPO]]
+
 - [[2026-05-20_12-57-37Z_AdvantageCollapseinGroupRelativePolicyOptim.md|Advantage Collapse]]
 - [[2026-05-20_12-58-01Z_Reasoning_TraceCollapse_EvaluatingtheLossofExplici.md|Reasoning Trace Collapse]]
 - [[2026-05-20_13-09-51Z_Smarteredits_Post_editingwitherrorhighlightsandtra.md|Smarter Edits]]
@@ -265,13 +265,13 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-05-22_17-58-36Z_SPACENUM_RevisitingSpatialNumericalUnderstandingin.md|SPACENUM]]
 - [[2026-05-22_17-59-12Z_FromRawExperiencetoSkillConsumption_ASystematicStu.md|From Raw Experience to Skill]]
 - [[2026-05-22_17-59-38Z_LLMsasNoisyChannels_AShannonPerspectiveonModelCapa.md|LLMs as Noisy Channels]]
-- [[2026-05-22_17-59-50Z_SkillOpt_ExecutiveStrategyforSelf_EvolvingAgentSki.md|SkillOpt]]
+
 - [[2026-05-25_17-52-46Z_OrpQuant_GeometricOrthogonalResidualProjectionforM.md|OrpQuant]]
 - [[2026-05-25_17-53-18Z_Goal_drivenBayesianOptimalExperimentalDesignforRob.md|Goal-Driven Bayesian Optimal]]
-- [[2026-05-25_17-54-34Z_ForgettinginLanguageModels_Capacity_Optimiz_summary.md|Forgetting in Language Models]]
+
 - [[Language Models Need Sleep|Language Models Need Sleep]]
-- [[2026-05-25_17-56-46Z_BeyondSummaries_Structure_AwareLabelingofCodeChang.md|Beyond Summaries]]
-- [[Looped Diffusion Language Models|Looped Diffusion Language Models]]
+
+
 - [[2026-05-25_17-59-28Z_Prism_APlug_inReproducibleInfrastructureforScalabl.md|Prism]]
 - [[2026-05-25_17-59-35Z_SqueezingCapacityfromMultimodalLargeLanguageModels.md|Squeezing Capacity]]
 - [[2026-05-25_17-59-36Z_FromModelScalingtoSystemScaling_ScalingtheHarnessi.md|From Model Scaling to System Scaling]]
@@ -346,7 +346,7 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-05-29_17-57-03Z_ATightTheoryofErrorFeedbackAlgorithmsinDistributed.md|Tight Theory of Error Feedback]]
 - [[2026-05-29_17-58-01Z_KLIP_localizeddistributionshiftdetectionviaKL_dive.md|KLIP]]
 - [[2026-05-29_17-59-50Z_Lumos_Nexus_EfficientFrequencyBridgingwithHomogene.md|Lumos Nexus]]
-- [[2026-06-01_17-49-10Z_SN_WER_Script_NormalizedWERforMulti_ScriptIndicASR.md|SN-WER]]
+
 - [[2026-06-01_17-50-28Z_ModelingDepthAmbiguity_AMixture_DensityRepresentat.md|Modeling Depth Ambiguity]]
 - [[2026-06-01_17-51-40Z_HERO_SJOURNEY_TestingComplexRuleInductionwi.md|HERO SJOURNEY]]
 - [[2026-06-01_17-52-53Z_FromLayerstoSubmodules_RethinkingGranularit.md|From Layers to Submodules]]
@@ -370,7 +370,7 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-06-02_17-53-04Z_QUBRIC_Co_DesigningQueriesandRubricsforRLBe.md|QUBRIC]]
 - [[2026-06-02_17-53-45Z_QuantifyingFaithfulConfidenceExpressioninLargeRea.md|Quantifying Faithful Confidence]]
 - [[Formalizing the Binding Problem|Formalizing the Binding Problem]]
-- [[Language Models Need Sleep|Language Models Need Sleep]]
+
 - [[2026-06-02_17-56-57Z_Skill_RM_UnifyingHeterogeneousEvaluationCriteriavi.md|Skill RM]]
 - [[2026-06-02_17-58-02Z_LanguageModelsCompareQuantitiesUsingNumber_specifi.md|Language Models Compare Quantities]]
 - [[2026-06-02_17-59-05Z_Humanoid_GPT_ScalingDataandStructureforZero_ShotMo.md|Humanoid GPT]]
@@ -423,6 +423,6 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-06-08_15-51-51Z_SpatialWorld_BenchmarkingInteractiveSpatialReasoni.md|Spatial World]]
 - [[2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md|Visual Prompting]]
 - [[2026-06-08_15-54-10Z_Transition_BasedDigitalTwinModellingforAlzheimer_s.md|Transition-Based Digital Twin]]
-- [[2026-06-08_15-54-28Z_CorrelationIsNotEnough_EmbeddingHumanMetadataforIn.md|Correlation Is Not Enough]]
+
 - [[2026-06-08_15-57-14Z_Auto_formalizationissupposedtobeeasy_Trellisproces.md|Auto-Formalization]]
 - [[2026-06-08_15-58-31Z_MeCo_One_StepMeanFlow_basedCorrectorforMulti_Chann.md|MeCo]]
