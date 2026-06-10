@@ -29,69 +29,69 @@
 - [[claude-code-linked-sources.md|claude-code-linked-sources]] — researched papers, docs, and community deep dives
 
 ## AI/ML Foundations
-- [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — main entry point and lesson navigator
-- [[ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]] — concrete lesson-by-lesson revision checklist for the 16-lesson course
+- [[ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — main entry point and lesson navigator
+- [[ai-foundations/ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]] — concrete lesson-by-lesson revision checklist for the 16-lesson course
 
 ## Start Here
-- [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
-- [[ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
-- [[ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
-- [[ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
-- [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
-- [[ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]]
-- [[ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
-- [[ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
-- [[ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
-- [[ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
+- [[ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
+- [[ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
+- [[ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
+- [[ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
+- [[ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
+- [[ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]]
+- [[ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
+- [[ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
+- [[ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
+- [[ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
 
 ## Beginner / Fast / Deep Dive
-- Beginner: [[ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]] → [[ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]] → [[ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]] → [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]] → [[ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
-- Fast: [[ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]] → [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]] → [[ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]] → [[ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]] → [[ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]] → [[ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
-- Deep Dive: [[ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]] → [[ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]] → [[ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]] → [[ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]] → [[ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]] → [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]] → [[ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]] → [[ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]] → [[ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]] → [[Generative AI|Lesson 10: Generative AI: Creating New Content]] → [[ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]] → [[ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]] → [[ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]] → [[ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]] → [[ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]] → [[ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
+- Beginner: [[ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]] → [[ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]] → [[ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]] → [[ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]] → [[ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
+- Fast: [[ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]] → [[ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]] → [[ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]] → [[ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]] → [[ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]] → [[ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
+- Deep Dive: [[ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]] → [[ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]] → [[ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]] → [[ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]] → [[ai-foundations/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]] → [[ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]] → [[ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]] → [[ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]] → [[ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]] → [[Generative AI|Lesson 10: Generative AI: Creating New Content]] → [[ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]] → [[ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]] → [[ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]] → [[ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]] → [[ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]] → [[ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
 
 ## Full Sequence
-- [[ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
-- [[ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
-- [[ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]]
-- [[ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]]
-- [[ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]]
-- [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
-- [[ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]]
-- [[ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]]
-- [[ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]]
+- [[ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
+- [[ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
+- [[ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]]
+- [[ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]]
+- [[ai-foundations/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]]
+- [[ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
+- [[ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]]
+- [[ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]]
+- [[ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]]
 - [[Generative AI|Lesson 10: Generative AI: Creating New Content]]
-- [[ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
-- [[ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
-- [[ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
-- [[ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]]
-- [[ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]]
-- [[ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
+- [[ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
+- [[ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
+- [[ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
+- [[ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]]
+- [[ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]]
+- [[ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
 
 ## Reading Lists
 - [[Ilya Sutskever Reading List Study Order|Ilya Sutskever Recommended Reading List]]
 - [[Ilya Sutskever Reading List Study Order|Ilya Sutskever Reading List Study Order]]
 
 ## Course Maps
-- [[ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]]
-- [[ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
+- [[ai-foundations/ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]]
+- [[ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
 
 ## Lesson Files
-- [[ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
-- [[ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
-- [[ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]]
-- [[ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]]
-- [[ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]]
-- [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
-- [[ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]]
-- [[ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]]
-- [[ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]]
+- [[ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
+- [[ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
+- [[ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]]
+- [[ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]]
+- [[ai-foundations/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]]
+- [[ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
+- [[ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]]
+- [[ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]]
+- [[ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]]
 - [[Generative AI|Lesson 10: Generative AI: Creating New Content]]
-- [[ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
-- [[ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
-- [[ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
-- [[ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]]
-- [[ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]]
-- [[ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
+- [[ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
+- [[ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
+- [[ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
+- [[ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]]
+- [[ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]]
+- [[ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
 
 ## Entities
 ## Concepts

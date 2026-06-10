@@ -79,7 +79,7 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 ## Related Pages
 
 - [AI Research Topic Index](wiki-topic-index.md)
-- [AI/ML Foundations Course](ai-ml-foundations-landing-page.md)
+- [AI/ML Foundations Course](concepts/ai-foundations/ai-ml-foundations-landing-page.md)
 - [Ilya Sutskever Reading List](ilya-sutskever-reading-list.md)
-- [Course Syllabus](ai-ml-foundations-syllabus.md)
-- [Course Map](ai-ml-foundations-course-map.md)
+- [Course Syllabus](concepts/ai-foundations/ai-ml-foundations-syllabus.md)
+- [Course Map](concepts/ai-foundations/ai-ml-foundations-course-map.md)
