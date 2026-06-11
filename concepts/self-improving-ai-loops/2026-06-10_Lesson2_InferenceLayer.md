@@ -3,7 +3,7 @@ title: "Lesson 2 — Inference Layer: Self-Hosted LLMs"
 created: 2026-06-10
 module: Self Improving AI Loops
 lesson: 2
-tags: [inference, self-hosted, ollama, vllm, model-selection]
+tags: [inference, self-hosted, ollama, vllm, llama-cpp, model-selection, gguf]
 ---
 
 # Lesson 2: Inference Layer — Self-Hosted LLMs
@@ -116,6 +116,65 @@ docker run --gpus all -p 8080:80 \
 - Smaller community than vLLM
 - Less flexible configuration
 - Primarily for text generation (not agentic tool calling)
+
+### llama.cpp — CPU-GPU Hybrid Inference
+**Definition:** A highly optimized C++ implementation of the Transformer architecture for local inference. Supports GGUF, GGML, AWQ, GPTQ, and FP16 models with fine-grained control over GPU/CPU memory split.
+
+**Best for:** Systems with limited VRAM, mixed CPU-GPU workloads, users who want maximum control over quantization and memory management.
+
+```bash
+# Install (if not already installed)
+git clone https://github.com/ggerganov/llama.cpp.git
+cd llama.cpp && cmake -B build && cmake --build build --target server -j$(nproc)
+
+# Start the OpenAI-compatible server
+llama-server \
+  --model /path/to/model.gguf \
+  --host 127.0.0.1 --port 8080 \
+  --ngl 999 \
+  --ctx-size 8192 \
+  --threads $(nproc) \
+  --log-disable
+```
+
+Verify: `curl http://localhost:8080/v1/models` should return the model list.
+
+**Key features:**
+- **CPU offloading:** Control exactly how many layers go to GPU (`--ngl`) vs CPU — offload as many as VRAM allows, rest runs on CPU
+- **Quantization support:** Native GGUF format with Q4_K_M, Q5_K_M, Q8_0, and more — minimal quality loss at 4-bit
+- **KV cache quantization:** Reduce memory usage with Q4_K or Q8_0 KV cache at small perplexity cost
+- **Speculative decoding:** Faster token generation via `--speculative` draft models
+- **OpenAI-compatible API:** Same API shape as Ollama/LM Studio — swap without changing agent code
+- **ROPE scaling:** Extend context window with `--rope-scaling yarn` or `:extended` on compatible models
+- **Numactl binding:** Multi-socket server support: `numactl --cpunodebind=0 --membind=0 llama-server ...`
+
+**GGUF quantization guide:**
+| Quant | Size (7B) | Quality | Speed | When to Use |
+|-------|-----------|---------|-------|-------------|
+| Q4_K_M | ~4.0 GB | 95-97% of FP16 | Fast | Default for agentic work, tool-calling |
+| Q5_K_M | ~4.8 GB | 97-99% of FP16 | Fast | When marginal quality matters |
+| Q8_0 | ~7.3 GB | 99%+ of FP16 | Medium | When VRAM permits full offload |
+| IQ4_XS | ~3.4 GB | 93-95% of FP16 | Fast | Non-knowledge-intensive tasks |
+
+**Recommendation:** Q4_K_M is the sweet spot for agentic work. Avoid IQ2_XS / IQ3_XXS — too aggressive, hurts tool-calling and reasoning.
+
+**Memory management tips:**
+- `--mlock` pins model to RAM (prevents swap thrashing on Linux)
+- `--cache-reuse 256` persists KV cache across requests (reduces re-computation)
+- `--tensor-split 0.5,0.5` distributes across multiple GPUs
+
+**Pros:**
+- Best VRAM efficiency of any local option — partial GPU offload works well
+- Extremely fast inference on CPU when GPU memory is insufficient
+- Granular quantization control for fitting any model on any hardware
+- Active development, large GGUF model ecosystem
+- OpenAI-compatible API — drop-in replacement for Ollama/LM Studio
+
+**Cons:**
+- CLI-only, no GUI — requires comfort with configuration flags
+- No automatic model download — you must source GGUF files yourself
+- Steeper learning curve for quantization and memory tuning
+- No built-in concurrency management for multi-user setups
 
 ## Model Picks for Agentic Work (2026)
 
