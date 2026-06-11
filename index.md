@@ -1255,6 +1255,26 @@
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] : Doc-to-Atom: Learning to Compile and Compose Memory Atoms
+- [[2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md]] : Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs
+- [[2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] : ATLAS: Active Theory Learning for Automated Science
+- [[2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] : Context-Driven Incremental Compression for Multi-Turn Dialogue Generation
+- [[2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] : System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5
+- [[2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] : TAHOE: Text-to-SQL with Automated Hint Optimization from Experience
+- [[2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] : Redesign Mixture-of-Experts Routers with Manifold Power Iteration
+- [[2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] : FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning
+- [[2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] : Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models
+- [[2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] : DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?
+- [[2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md]] : A Riemannian Approach to Low-Rank Optimal Transport
+- [[2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines.md]] : Towards Responsibly Non-Compliant Machines
+- [[2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] : MSUE: Multi-Modal Soccer Understanding Expert
+- [[2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] : Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning
+- [[2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] : Detecting Sensitive Personal Information in Japanese Pre-Training Corpora for Large Language Models
+- [[2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] : Augmenting Molecular Language Models with Local $n$-gram Memory
+- [[2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md]] : Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders
+- [[2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPositionEm.md]] : nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding
+- [[2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] : Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation
+- [[2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] : PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea
 - [[2026-06-09_17-48-41Z_Piper_AProgrammableDistributedTrainingSystem.md]] : Piper: A Programmable Distributed Training System
 - [[2026-06-09_17-49-24Z_PredictingFutureBehaviorsinReasoningModelsEnablesB.md]] : Predicting Future Behaviors in Reasoning Models Enables Better Steering
 - [[2026-06-09_17-49-09Z_AlgorithmicandMinimaxComplexitiesinKernelBandits.md]] : Algorithmic and Minimax Complexities in Kernel Bandits
@@ -1277,3 +1297,6 @@
 - [[2026-06-08_17-59-39Z_AnAgency_TransferringModel_FreePolicyEnhancementTe.md]] : An Agency-Transferring Model-Free Policy Enhancement Technique
 - [[2026-06-09_MachineLearningArchitectureHub]] : Machine Learning Architecture — Hub
 - [[2026-06-08_MachineLearningArchitecture_WhatItIs_Components_Ty_summary]] : Machine Learning Architecture: What It Is, Components & Types (June 8)
+- [[2026-06-10_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[2026-06-10_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[2026-06-10_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
