@@ -10,6 +10,8 @@ scraped: 2026-05-22 00:00
 
 # Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 
+**Source**: [Original Article](https://www.crescendo.ai/news/latest-ai-news-and-updates)
+
 ## Full Article
 
 CRESCENDO LIVE - Step into the future of CX!

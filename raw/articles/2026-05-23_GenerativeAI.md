@@ -10,6 +10,8 @@ scraped: 2026-05-23 00:00
 
 # Generative AI
 
+**Source**: [Original Article](https://generativeai.pub/)
+
 ## Full Article
 
 Stay updated with the latest news, research, and developments in the world of generative AI. We cover everything from AI model updates, comprehensive tutorials, and real-world applications to the broader impact of AI on society. Work with us: jimclydegm@gmail.com

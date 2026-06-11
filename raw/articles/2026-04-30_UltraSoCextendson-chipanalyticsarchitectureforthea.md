@@ -10,6 +10,8 @@ scraped: 2026-04-30 08:00
 
 # UltraSoC extends on-chip analytics architecture for the age of machine ...
 
+**Source**: [Original Article](https://semiiphub.com/pulse/news/ultrasoc-on-chip-analytics-architecture-machine-learning-artificial-intelligence-parallel-computing)
+
 ## Full Article
 
 UltraSoC extends on-chip analytics architecture for the age of machine learning, artificial intelligence and parallel computing

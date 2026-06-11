@@ -10,6 +10,8 @@ scraped: 2026-05-04 06:00
 
 # All Products - support.microsoft.com
 
+**Source**: [Original Article](https://support.microsoft.com/en-us/all-products)
+
 ## Full Article
 
 Get AI-powered features in Microsoft 365

@@ -10,6 +10,8 @@ scraped: 2026-06-11 00:00
 
 # Generative AI news and analysis | TechCrunch
 
+**Source**: [Original Article](https://techcrunch.com/tag/generative-ai/)
+
 ## Full Article
 
 Generative AI

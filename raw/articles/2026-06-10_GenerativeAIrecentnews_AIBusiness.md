@@ -10,6 +10,8 @@ scraped: 2026-06-10 23:00
 
 # Generative AI recent news | AI Business
 
+**Source**: [Original Article](https://aibusiness.com/generative-ai)
+
 ## Full Article
 
 <strong>Bosch, Researchers Develop AI for Humanoid Dexterity</strong><strong>Bosch, Researchers Develop AI for Humanoid Dexterity</strong>

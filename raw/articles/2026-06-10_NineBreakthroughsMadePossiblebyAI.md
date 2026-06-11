@@ -10,6 +10,8 @@ scraped: 2026-06-10 20:58
 
 # Nine Breakthroughs Made Possible by AI
 
+**Source**: [Original Article](https://today.ucsd.edu/story/nine-breakthroughs-made-possible-by-ai)
+
 ## Full Article
 
 UC San Diego Magazine Logo

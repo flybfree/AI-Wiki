@@ -10,6 +10,8 @@ scraped: 2026-05-03 16:36
 
 # c# - What does new () mean? - Stack Overflow
 
+**Source**: [Original Article](https://stackoverflow.com/questions/4236854/what-does-new-mean)
+
 ## Full Article
 
 Collectives™ on Stack Overflow

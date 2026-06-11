@@ -10,6 +10,8 @@ scraped: 2026-05-05 03:00
 
 # ML System Design: A Complete Guide (2026)
 
+**Source**: [Original Article](https://www.systemdesignhandbook.com/guides/ml-system-design/)
+
 ## Full Article
 
 Availability vs Consistency In System Design: A Practical Guide

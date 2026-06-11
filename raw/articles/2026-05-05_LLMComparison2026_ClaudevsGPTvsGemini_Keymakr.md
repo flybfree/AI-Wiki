@@ -10,6 +10,8 @@ scraped: 2026-05-05 19:00
 
 # LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr
 
+**Source**: [Original Article](https://keymakr.com/blog/llm-comparison-2026-claude-vs-gpt-vs-gemini-vs-open-source-models/)
+
 ## Full Article
 
 The world of LLMs in 2026 is much more competitive and diverse than it was just a few years ago. Leading players such as OpenAI, Anthropic, and Google are actively improving their models - GPT, Claude, and Gemini, respectively. Each of them has its own approach to security, performance, and user interaction, which shapes different application scenarios - everyday chat assistance and complex professional tasks.

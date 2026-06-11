@@ -10,6 +10,8 @@ scraped: 2026-06-11 10:00
 
 # Artificial Intelligence News -- ScienceDaily
 
+**Source**: [Original Article](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+
 ## Full Article
 
 Artificial Intelligence News

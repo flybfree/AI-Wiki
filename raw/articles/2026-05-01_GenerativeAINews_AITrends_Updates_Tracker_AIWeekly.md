@@ -10,6 +10,8 @@ scraped: 2026-05-01 02:00
 
 # Generative AI News — AI Trends, Updates & Tracker | AI Weekly
 
+**Source**: [Original Article](https://aiweekly.co/ai-news-today/generative-ai-news)
+
 ## Full Article
 
 Generative ai

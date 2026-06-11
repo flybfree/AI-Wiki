@@ -10,6 +10,8 @@ scraped: 2026-06-10 20:58
 
 # The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 
+**Source**: [Original Article](https://medium.com/@rijuldahiya/the-architecture-of-machine-learning-systems-a-comprehensive-guide-part-1-7d5d9c3ac380)
+
 ## Full Article
 
 The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1

@@ -10,6 +10,8 @@ scraped: 2026-05-04 17:00
 
 # Morgan Stanley warns an AI breakthrough Is coming in 2026 - Fortune
 
+**Source**: [Original Article](https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/)
+
 ## Full Article
 
 A massive AI breakthrough is coming in the first half of 2026—and

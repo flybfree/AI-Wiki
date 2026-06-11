@@ -10,6 +10,8 @@ scraped: 2026-05-03 16:36
 
 # What is the 'new' keyword in JavaScript? - Stack Overflow
 
+**Source**: [Original Article](https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript)
+
 ## Full Article
 
 Collectives™ on Stack Overflow

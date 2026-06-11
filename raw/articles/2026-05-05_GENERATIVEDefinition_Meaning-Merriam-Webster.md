@@ -10,6 +10,8 @@ scraped: 2026-05-05 20:41
 
 # GENERATIVE Definition & Meaning - Merriam-Webster
 
+**Source**: [Original Article](https://www.merriam-webster.com/dictionary/generative)
+
 ## Full Article
 
 Est. 1828

@@ -10,6 +10,8 @@ scraped: 2026-05-03 04:32
 
 # GitHub - wdopen-nk/student-performance-predictor: Machine learning ...
 
+**Source**: [Original Article](https://github.com/wdopen-nk/student-performance-predictor)
+
 ## Full Article
 
 Student Performance Predictor (C# + ML.NET)

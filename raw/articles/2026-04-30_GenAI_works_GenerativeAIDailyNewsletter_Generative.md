@@ -10,6 +10,8 @@ scraped: 2026-04-30 19:00
 
 # GenAI.works | Generative AI Daily Newsletter | Generative AI Newsletter
 
+**Source**: [Original Article](https://newsletter.genai.works/)
+
 ## Full Article
 
 This website uses cookies

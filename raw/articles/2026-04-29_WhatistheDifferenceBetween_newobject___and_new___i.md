@@ -10,6 +10,8 @@ scraped: 2026-04-29 11:00
 
 # What is the Difference Between `new object()` and `new {}` in C#?
 
+**Source**: [Original Article](https://stackoverflow.com/questions/17586525/what-is-the-difference-between-new-object-and-new-in-c)
+
 ## Full Article
 
 Collectives™ on Stack Overflow

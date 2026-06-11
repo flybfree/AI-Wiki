@@ -10,6 +10,8 @@ scraped: 2026-05-05 18:00
 
 # Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
 
+**Source**: [Original Article](https://codersera.com/blog/open-source-llms-landscape-2026/)
+
 ## Full Article
 
 Last updated: May 1, 2026.

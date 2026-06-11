@@ -10,6 +10,8 @@ scraped: 2026-06-10 20:58
 
 # Machine Learning Architecture: What It Is, Components & Types
 
+**Source**: [Original Article](https://lakefs.io/blog/machine-learning-architecture/)
+
 ## Full Article
 
 Skip to content

@@ -10,6 +10,8 @@ scraped: 2026-06-11 00:00
 
 # Machine Learning Architecture: What It Is, Components & Types
 
+**Source**: [Original Article](https://lakefs.io/blog/machine-learning-architecture/)
+
 ## Full Article
 
 ML architecture structures the full lifecycle: Machine learning architecture <strong>defines how data is processed, models are trained and evaluated, and predictions are generated, acting as a blueprint tailored to specific use cases and system requirements</strong>.

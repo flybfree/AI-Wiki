@@ -10,6 +10,8 @@ scraped: 2026-05-04 03:57
 
 # Machine Learning Lens - AWS Well-Architected Framework
 
+**Source**: [Original Article](https://docs.aws.amazon.com/wellarchitected/latest/machine-learning-lens/machine-learning-lens.html)
+
 ## Full Article
 
 View a markdown version of this page

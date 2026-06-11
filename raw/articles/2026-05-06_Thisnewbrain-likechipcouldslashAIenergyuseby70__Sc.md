@@ -10,6 +10,8 @@ scraped: 2026-05-06 00:00
 
 # This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 
+**Source**: [Original Article](https://www.sciencedaily.com/releases/2026/04/260422044633.htm)
+
 ## Full Article
 
 Science News

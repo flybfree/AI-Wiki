@@ -10,6 +10,8 @@ scraped: 2026-05-04 07:00
 
 # What does the future hold for generative AI? - MIT News
 
+**Source**: [Original Article](https://news.mit.edu/2025/what-does-future-hold-generative-ai-0919)
+
 ## Full Article
 
 At the inaugural MIT Generative AI Impact Consortium Symposium, researchers and business leaders discussed potential advancements centered on this powerful technology.
