@@ -2,7 +2,6 @@
 
 > Content catalog for AI Intelligence.
 > Last updated: 2026-06-10
-
 ## Self Improving AI Loops
 - [[self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -15,7 +14,6 @@
 - [[self-improving-ai-loops/2026-06-10_Lesson8_DIYArchitecture.md|Lesson 8: Putting It All Together — DIY Architecture]] — complete stack, working Ralph loop script, production checklist
 - [[self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9: SmolAgents Deep Dive — Code-First Agents from Hugging Face]] — CodeAgent vs ToolCallingAgent, model backends, tools system, memory management, security, best practices
 - [[self-improving-ai-loops/2026-06-10_Lesson10_DiffusionGemma.md|Lesson 10: DiffusionGemma — Block-Autoregressive Text Generation]] — Google DeepMind's 26B MoE model, discrete diffusion for text, up to 4x faster local inference, multimodal capabilities, benchmark comparison
-
 ## Claude Code / Harness Engineering
 - [[dive-into-claude-code.md|dive-into-claude-code]] — hub page for the Claude Code architecture analysis
 - [[claude-code-agentic-query-loop.md|claude-code-agentic-query-loop]] — runtime loop and turn pipeline
@@ -27,14 +25,11 @@
 - [[claude-code-build-your-own-agent.md|claude-code-build-your-own-agent]] — design guide for agent builders
 - [[claude-code-ecosystem-and-comparisons.md|claude-code-ecosystem-and-comparisons]] — OpenClaw, Hermes-Agent, and related research
 - [[claude-code-linked-sources.md|claude-code-linked-sources]] — researched papers, docs, and community deep dives
-
 ## Search Agents
 - [[llm-models/2026-06-10_Harness1.md|Harness-1]] — 20B search agent trained with RL inside a stateful retrieval harness (arXiv:2606.02373)
-
 ## AI/ML Foundations
 - [[ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — main entry point and lesson navigator
 - [[ai-foundations/ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]] — concrete lesson-by-lesson revision checklist for the 16-lesson course
-
 ## Start Here
 
 - [[ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
@@ -46,17 +41,11 @@
 - [[ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
 - [[ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
 - [[ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
-
 ## Beginner / Fast / Deep Dive
 - Beginner:  →  → [[ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]] →  →
 - Fast:  →  →  →  →  →
 - Deep Dive:  →  → [[ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]] →  → [[ai-foundations/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]] →  → [[ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]] → [[ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]] →  → [[Generative AI|Lesson 10: Generative AI: Creating New Content]] →  →  →  → [[ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]] → [[ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]] →
-
 ## Full Sequence
-
-
-
-
 
 
 
@@ -73,11 +62,8 @@
 ## Reading Lists
 - [[Ilya Sutskever Reading List Study Order|Ilya Sutskever Recommended Reading List]]
 - [[Ilya Sutskever Reading List Study Order|Ilya Sutskever Reading List Study Order]]
-
 ## Course Maps
 - [[ai-foundations/ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]]
-
-
 ## Lesson Files
 
 
@@ -92,12 +78,7 @@
 
 
 
-
-
-
-
 ## Entities
-
 ## Concepts
 ### LLM Model Evolution
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — tracking model releases, benchmarks, and capabilities
@@ -110,9 +91,7 @@
 
 ### AI Research Papers
 - [[concepts/ai-research/2026-06-10_AIResearchPapers.md|AI Research Papers]] — key papers, contributions, and implications
-
 ## Comparisons
-
 ## Queries
 -  : Diagnosing CFG Interpretation in LLMs
 -  : SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation
@@ -1275,7 +1254,6 @@
 - [[2026-06-08_15-51-25Z_AlgorithmforContextualQueueingBanditswithRate_Opti.md]] : Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
-
 ## Papers
 - [[2026-06-09_17-48-41Z_Piper_AProgrammableDistributedTrainingSystem.md]] : Piper: A Programmable Distributed Training System
 - [[2026-06-09_17-49-24Z_PredictingFutureBehaviorsinReasoningModelsEnablesB.md]] : Predicting Future Behaviors in Reasoning Models Enables Better Steering
