@@ -438,4 +438,5 @@
 ## [2026-06-11 00:00] ingest | 2026-06-11_TheArchitectureofMachineLearningSystems_AComprehen.md
 ## [2026-06-11 00:00] ingest | 2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md
 ## [2026-06-11 01:00] ingest | 2026-06-11_GenerativeAI.md
+## [2026-06-11 16:45] create-concept | 2026-06-11_llm-alignment.md — Deep dive research on LLM alignment: foundational methods (RLHF, DPO, Constitutional AI, RLAIF), core challenges (alignment tax, shallow alignment, sycophancy), mechanistic interpretability, scalable oversight, and recent 2025-2026 developments. Synced to wiki and Logseq.
 ## [2026-06-11 10:00] ingest | 2026-06-11_ArtificialIntelligenceNews--ScienceDaily.md
