@@ -1342,3 +1342,4 @@
 - [[2026-06-12_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 - [[2026-06-12_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
 - [[2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[2026-06-12_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
