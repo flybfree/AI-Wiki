@@ -440,3 +440,23 @@
 ## [2026-06-11 01:00] ingest | 2026-06-11_GenerativeAI.md
 ## [2026-06-11 16:45] create-concept | 2026-06-11_llm-alignment.md — Deep dive research on LLM alignment: foundational methods (RLHF, DPO, Constitutional AI, RLAIF), core challenges (alignment tax, shallow alignment, sycophancy), mechanistic interpretability, scalable oversight, and recent 2025-2026 developments. Synced to wiki and Logseq.
 ## [2026-06-11 10:00] ingest | 2026-06-11_ArtificialIntelligenceNews--ScienceDaily.md
+## [2026-06-11 21:00] ingest | 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md
+## [2026-06-11 21:00] ingest | 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md
+## [2026-06-11 21:00] ingest | 2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md
+## [2026-06-11 21:00] ingest | 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md
+## [2026-06-11 21:00] ingest | 2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md
+## [2026-06-11 21:00] ingest | 2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedbyAgentic.md
+## [2026-06-11 21:00] ingest | 2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md
+## [2026-06-11 21:00] ingest | 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md
+## [2026-06-11 21:00] ingest | 2026-06-11_15-29-56Z_SupraBench_ABenchmarkforSupramolecularChemistry.md
+## [2026-06-11 21:00] ingest | 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md
+## [2026-06-11 23:00] ingest | 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md
+## [2026-06-11 23:00] ingest | 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md
+## [2026-06-11 23:00] ingest | 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md
+## [2026-06-11 23:00] ingest | 2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_Augmente.md
+## [2026-06-11 23:00] ingest | 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md
+## [2026-06-11 23:00] ingest | 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md
+## [2026-06-11 23:00] ingest | 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md
+## [2026-06-11 23:00] ingest | 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md
+## [2026-06-11 23:00] ingest | 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md
+## [2026-06-11 23:00] ingest | 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md

@@ -1,0 +1,18 @@
+---
+title: Understanding Truncated Positional Encodings for Graph Neural Networks
+published: 2026-06-11T17:58:56Z
+authors: James Flora, Mitchell Black, Weng-Keen Wong, Amir Nayyeri
+url: http://arxiv.org/abs/2606.13671v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Understanding Truncated Positional Encodings for Graph Neural Networks
+
+## Abstract
+Positional encodings (PEs) enhance the power of graph neural networks (GNNs), both theoretically and empirically. Two of the most popular families of PEs - spectral (e.g., Laplacian eigenspaces, effective resistance) and walk-based (polynomials of the adjacency matrix) - are theoretically equivalent in expressive power, with expressivity between the 1-WL and 3-WL tests. However, this equivalence assumes the GNN uses the "complete" version of these PEs, which requires $O(n^3)$ time and space complexity. Instead, practitioners commonly use truncated variants of these encodings, such as the first $k$ eigenspaces or powers of the adjacency matrix. However, the theoretical properties of these truncated PEs are unknown. In this work, we initiate the study of these truncated PEs. Theoretically, we show that, under truncation, several families of PEs are fundamentally different in expressive power. As a corollary, we show that truncated spectral PEs are no longer stronger than the 1-WL test. We also study a family of spectral PEs, the $k$-harmonic distances, to highlight the differences in expressive power of even closely related truncated PEs. Finally, we experimentally show that a mix of truncated PEs is preferable to any single family on real-world datasets.
+
+## Metadata
+- **Published**: 2026-06-11T17:58:56Z
+- **Authors**: James Flora, Mitchell Black, Weng-Keen Wong, Amir Nayyeri
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2606.13671v1)
