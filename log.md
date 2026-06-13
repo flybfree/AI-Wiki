@@ -478,3 +478,4 @@
 ## [2026-06-13 00:00] ingest | 2026-06-13_MachineLearningArchitecture_WhatItIs_Components_Ty.md
 ## [2026-06-13 00:00] ingest | 2026-06-13_NineBreakthroughsMadePossiblebyAI.md
 ## [2026-06-13 00:00] ingest | 2026-06-13_WhatisMLArchitecture.md
+## [2026-06-13 13:00] ingest | 2026-06-13_TheArchitectureofMachineLearningSystems_AComprehen.md

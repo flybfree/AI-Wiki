@@ -1350,3 +1350,4 @@
 - [[2026-06-13_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
 - [[2026-06-13_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
 - [[2026-06-13_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[2026-06-13_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
