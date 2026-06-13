@@ -471,3 +471,10 @@
 ## [2026-06-12 01:00] ingest | 2026-06-12_GenerativeAIrecentnews_AIBusiness.md
 ## [2026-06-12 03:00] ingest | 2026-06-12_WhatisMLArchitecture.md
 ## [2026-06-12 14:00] ingest | 2026-06-12_Top7opensourceLLMsfor2026.md
+## [2026-06-13 00:00] ingest | 2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md
+## [2026-06-13 00:00] ingest | 2026-06-13_AIUpdatesToday_June2026__LatestAIModelReleases.md
+## [2026-06-13 00:00] ingest | 2026-06-13_GenerativeAI.md
+## [2026-06-13 00:00] ingest | 2026-06-13_GenerativeAInewsandanalysis_TechCrunch.md
+## [2026-06-13 00:00] ingest | 2026-06-13_MachineLearningArchitecture_WhatItIs_Components_Ty.md
+## [2026-06-13 00:00] ingest | 2026-06-13_NineBreakthroughsMadePossiblebyAI.md
+## [2026-06-13 00:00] ingest | 2026-06-13_WhatisMLArchitecture.md
