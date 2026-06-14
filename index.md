@@ -1361,3 +1361,4 @@
 - [[2026-06-14_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
 - [[2026-06-14_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
 - [[2026-06-14_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[2026-06-14_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
