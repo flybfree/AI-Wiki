@@ -479,3 +479,6 @@
 ## [2026-06-13 00:00] ingest | 2026-06-13_NineBreakthroughsMadePossiblebyAI.md
 ## [2026-06-13 00:00] ingest | 2026-06-13_WhatisMLArchitecture.md
 ## [2026-06-13 13:00] ingest | 2026-06-13_TheArchitectureofMachineLearningSystems_AComprehen.md
+## [2026-06-13 20:00] ingest | 2026-06-13_GenerativeAIrecentnews_AIBusiness.md
+## [2026-06-13 21:00] ingest | 2026-06-09_LoopEngineering_AI_Coding_Agents.md
+## [2026-06-13 22:00] ingest | 2026-06-13_OpenNotebook_Open_Source_Notebook_LM.md

@@ -1351,3 +1351,6 @@
 - [[2026-06-13_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
 - [[2026-06-13_WhatisMLArchitecture.md]] : What is ML Architecture
 - [[2026-06-13_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[2026-06-13_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[2026-06-09_LoopEngineering_AI_Coding_Agents.md]] : "Loop Engineering: The New Meta for AI Coding Agents"
+- [[2026-06-13_OpenNotebook_Open_Source_Notebook_LM.md]] : "Open Notebook — Open Source Notebook LM Alternative"
