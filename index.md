@@ -1258,6 +1258,16 @@
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] : AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization
+- [[2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] : Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit
+- [[2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeepLearnin.md]] : CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification
+- [[2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] : Persona-Pruner: Sculpting Lightweight Models for Role-Playing
+- [[2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] : A Complexity Measure for Active Learning in Multi-group Mean Estimation
+- [[2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] : HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification
+- [[2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] : CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment
+- [[2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] : ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning
+- [[2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] : Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning
+- [[2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] : Gaze Heads: How VLMs Look at What They Describe
 - [[2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] : Agents-K1: Towards Agent-native Knowledge Orchestration
 - [[2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] : SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning
 - [[2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] : EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery
@@ -1363,3 +1373,6 @@
 - [[2026-06-14_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
 - [[2026-06-14_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
 - [[2026-06-14_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[2026-06-14_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[2026-06-14_TopMachineLearningArchitecturesExplained_BMCSoftwa.md]] : Top Machine Learning Architectures Explained – BMC Software | Blogs
+- [[2026-06-14_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
