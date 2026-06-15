@@ -504,3 +504,14 @@
 ## [2026-06-14 22:00] ingest | 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md
 ## [2026-06-14 22:00] ingest | 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md
 ## [2026-06-14 23:00] ingest | 2026-06-14_ArtificialIntelligenceNews--ScienceDaily.md
+## [2026-06-15 00:00] ingest | 2026-06-15_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md
+## [2026-06-15 00:00] ingest | 2026-06-15_TopMachineLearningArchitecturesExplained_BMCSoftwa.md
+## [2026-06-15 00:00] ingest | 2026-06-15_GenerativeAIrecentnews_AIBusiness.md
+## [2026-06-15 00:00] ingest | 2026-06-15_GenerativeAInewsandanalysis_TechCrunch.md
+## [2026-06-15 00:00] ingest | 2026-06-15_AIUpdatesToday_June2026__LatestAIModelReleases.md
+## [2026-06-15 00:00] ingest | 2026-06-15_ArtificialIntelligenceNews--ScienceDaily.md
+## [2026-06-15 00:00] ingest | 2026-06-15_NineBreakthroughsMadePossiblebyAI.md
+## [2026-06-15 00:00] ingest | 2026-06-15_MachineLearningArchitecture_WhatItIs_Components_Ty.md
+## [2026-06-15 01:00] ingest | 2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md
+## [2026-06-15 02:00] ingest | 2026-06-15_GenerativeAI.md
+## [2026-06-15 04:00] ingest | 2026-06-15_Top7opensourceLLMsfor2026.md
