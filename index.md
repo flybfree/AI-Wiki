@@ -1258,6 +1258,26 @@
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] : DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents
+- [[2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md]] : Geometric Action Model for Robot Policy Learning
+- [[2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] : KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing
+- [[2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDifferentially.md]] : Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning
+- [[2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticlesfromNa.md]] : Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio
+- [[2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLinearInver.md]] : Exact Posterior Score Estimation for Solving Linear Inverse Problems
+- [[2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFine_Tuni.md]] : Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes
+- [[2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] : Context-Aware RL for Agentic and Multimodal LLMs
+- [[2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThey_reont.md]] : The Value Axis: Language Models Encode Whether They're on the Right Track
+- [[2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] : The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers
+- [[2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md]] : The Truth Stays in the Family: Enhancing Contextual Grounding via Inherited Truthful Heads in Model Lineages
+- [[2026-06-14_13-34-10Z_OnDefiningErasureHarmsforNLP.md]] : On Defining Erasure Harms for NLP
+- [[2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] : Mean-Field Parallel Decoding for Discrete Diffusion Language Models
+- [[2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md]] : Continuous Cross-Domain Traffic State Prediction via Memory-Augmented Graph Liquid Time-Constant Networks
+- [[2026-06-14_13-23-48Z_LetThemSteal_TrappingLargeLanguageModelExtractionA.md]] : Let Them Steal: Trapping Large Language Model Extraction Attacks with Knowledge Honeypot
+- [[2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandAttribut.md]] : DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing
+- [[2026-06-14_13-04-03Z_UnassignedAgentsinCompilation_basedMulti_agentPath.md]] : Unassigned Agents in Compilation-based Multi-agent Path Finding
+- [[2026-06-14_13-39-00Z_SACE_ConceptErasureattheSemanticSingularityinVisua.md]] : SACE: Concept Erasure at the Semantic Singularity in Visual Autoregressive Models
+- [[2026-06-14_13-27-28Z_BrownianKernelLadders.md]] : Brownian Kernel Ladders
+- [[2026-06-14_13-39-56Z_TrustedARI_TowardsTrust_NativeAgenticRoutingInfras.md]] : TrustedARI: Towards Trust-Native Agentic Routing Infrastructure for Agentic AI
 - [[2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] : AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization
 - [[2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] : Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit
 - [[2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeepLearnin.md]] : CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification
