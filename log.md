@@ -535,3 +535,13 @@
 ## [2026-06-15 23:01] ingest | 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md
 ## [2026-06-15 23:01] ingest | 2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md
 ## [2026-06-15 23:01] ingest | 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md
+## [2026-06-16 00:00] ingest | 2026-06-16_NineBreakthroughsMadePossiblebyAI.md
+## [2026-06-16 00:00] ingest | 2026-06-16_MachineLearningArchitecture_WhatItIs_Components_Ty.md
+## [2026-06-16 00:00] ingest | 2026-06-16_GenerativeAInewsandanalysis_TechCrunch.md
+## [2026-06-16 00:00] ingest | 2026-06-16_TheArchitectureofMachineLearningSystems_AComprehen.md
+## [2026-06-16 00:00] ingest | 2026-06-16_Top7opensourceLLMsfor2026.md
+## [2026-06-16 00:00] ingest | 2026-06-16_GenerativeAI.md
+## [2026-06-16 00:00] ingest | 2026-06-16_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md
+## [2026-06-16 01:00] ingest | 2026-06-16_GenerativeAIrecentnews_AIBusiness.md
+## [2026-06-16 02:00] ingest | 2026-06-16_AIUpdatesToday_June2026__LatestAIModelReleases.md
+## [2026-06-16 03:30] ingest | 2026-06-16_ArtificialIntelligenceNews--ScienceDaily.md
