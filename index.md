@@ -1434,3 +1434,4 @@
 - [[2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
 - [[2026-06-17_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
 - [[2026-06-17_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[2026-06-17_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026

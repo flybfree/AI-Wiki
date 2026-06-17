@@ -562,3 +562,5 @@
 ## [2026-06-17 00:00] ingest | 2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md
 ## [2026-06-17 00:00] ingest | 2026-06-17_MachineLearningArchitecture_WhatItIs_Components_Ty.md
 ## [2026-06-17 00:00] ingest | 2026-06-17_GenerativeAIrecentnews_AIBusiness.md
+## [2026-06-17 08:00] ingest | 2026-06-17_Top7opensourceLLMsfor2026.md
+2026-06-17T15:00:33Z | added | concepts/2026-06-17_turboquant.md | TurboQuant — Google's ICLR 2026 vector quantization for KV cache compression
