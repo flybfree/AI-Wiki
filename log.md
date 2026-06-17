@@ -555,3 +555,10 @@
 ## [2026-06-16 23:01] ingest | 2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md
 ## [2026-06-16 23:01] ingest | 2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md
 ## [2026-06-16 23:01] ingest | 2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md
+## [2026-06-17 00:00] ingest | 2026-06-17_GenerativeAInewsandanalysis_TechCrunch.md
+## [2026-06-17 00:00] ingest | 2026-06-17_AIUpdatesToday_June2026__LatestAIModelReleases.md
+## [2026-06-17 00:00] ingest | 2026-06-17_NineBreakthroughsMadePossiblebyAI.md
+## [2026-06-17 00:00] ingest | 2026-06-17_TheArchitectureofMachineLearningSystems_AComprehen.md
+## [2026-06-17 00:00] ingest | 2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md
+## [2026-06-17 00:00] ingest | 2026-06-17_MachineLearningArchitecture_WhatItIs_Components_Ty.md
+## [2026-06-17 00:00] ingest | 2026-06-17_GenerativeAIrecentnews_AIBusiness.md

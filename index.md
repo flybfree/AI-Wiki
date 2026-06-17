@@ -1427,3 +1427,10 @@
 - [[2026-06-16_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
 - [[2026-06-16_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
 - [[2026-06-16_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[2026-06-17_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[2026-06-17_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[2026-06-17_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[2026-06-17_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[2026-06-17_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[2026-06-17_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
