@@ -1258,6 +1258,16 @@
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md]] : Sign-Rank, Index, and List Replicability: Connections and Separations
+- [[2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] : ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues
+- [[2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] : Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds
+- [[2026-06-16_17-59-03Z_Variable_WidthTransformers.md]] : Variable-Width Transformers
+- [[2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsInvarian.md]] : Adaptive Volumetric Mechanical Property Fields Invariant to Resolution
+- [[2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforComparat.md]] : Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses
+- [[2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md]] : Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement
+- [[2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] : Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents
+- [[2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] : Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients
+- [[2026-06-16_17-56-57Z_EvolveNav_ProactivePreflectionandSelf_EvolvingMemo.md]] : EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation
 - [[2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] : DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents
 - [[2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md]] : Geometric Action Model for Robot Policy Learning
 - [[2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] : KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing
