@@ -576,3 +576,12 @@
 ## [2026-06-17 22:00] ingest | 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md
 ## [2026-06-17 22:00] ingest | 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md
 ## [2026-06-17 22:00] ingest | 2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md
+## [2026-06-18 00:00] ingest | 2026-06-18_Top7opensourceLLMsfor2026.md
+## [2026-06-18 00:00] ingest | 2026-06-18_NineBreakthroughsMadePossiblebyAI.md
+## [2026-06-18 00:00] ingest | 2026-06-18_MachineLearningArchitecture_WhatItIs_Components_Ty.md
+## [2026-06-18 00:00] ingest | 2026-06-18_AIUpdatesToday_June2026__LatestAIModelReleases.md
+## [2026-06-18 00:00] ingest | 2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md
+## [2026-06-18 00:00] ingest | 2026-06-18_GenerativeAInewsandanalysis_TechCrunch.md
+## [2026-06-18 00:00] ingest | 2026-06-18_GenerativeAIrecentnews_AIBusiness.md
+## [2026-06-18 01:00] ingest | 2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md
+## [2026-06-18 05:00] ingest | 2026-06-18_Thebestlargelanguagemodels_LLMs_in2026.md

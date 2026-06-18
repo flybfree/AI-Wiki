@@ -1447,3 +1447,12 @@
 - [[2026-06-17_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
 - [[2026-06-17_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
 - [[2026-06-17_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
+- [[2026-06-18_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[2026-06-18_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[2026-06-18_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[2026-06-18_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[2026-06-18_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[2026-06-18_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
+- [[2026-06-18_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
