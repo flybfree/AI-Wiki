@@ -1258,6 +1258,16 @@
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md]] : Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States
+- [[2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] : Learning User Simulators with Turing Rewards
+- [[2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] : The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning
+- [[2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] : Native Active Perception as Reasoning for Omni-Modal Understanding
+- [[2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] : UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning
+- [[2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] : Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation
+- [[2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] : Explaining Attention with Program Synthesis
+- [[2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] : Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors
+- [[2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] : Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation
+- [[2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] : Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents
 - [[2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md]] : Sign-Rank, Index, and List Replicability: Connections and Separations
 - [[2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] : ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues
 - [[2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] : Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds
@@ -1435,3 +1445,5 @@
 - [[2026-06-17_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
 - [[2026-06-17_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
 - [[2026-06-17_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[2026-06-17_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
+- [[2026-06-17_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026

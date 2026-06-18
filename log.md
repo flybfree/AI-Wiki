@@ -564,3 +564,15 @@
 ## [2026-06-17 00:00] ingest | 2026-06-17_GenerativeAIrecentnews_AIBusiness.md
 ## [2026-06-17 08:00] ingest | 2026-06-17_Top7opensourceLLMsfor2026.md
 2026-06-17T15:00:33Z | added | concepts/2026-06-17_turboquant.md | TurboQuant — Google's ICLR 2026 vector quantization for KV cache compression
+## [2026-06-17 19:00] ingest | 2026-06-17_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md
+## [2026-06-17 19:00] ingest | 2026-06-17_Thebestlargelanguagemodels_LLMs_in2026.md
+## [2026-06-17 22:00] ingest | 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md
+## [2026-06-17 22:00] ingest | 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md
+## [2026-06-17 22:00] ingest | 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md
+## [2026-06-17 22:00] ingest | 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md
+## [2026-06-17 22:00] ingest | 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md
+## [2026-06-17 22:00] ingest | 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md
+## [2026-06-17 22:00] ingest | 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md
+## [2026-06-17 22:00] ingest | 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md
+## [2026-06-17 22:00] ingest | 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md
+## [2026-06-17 22:00] ingest | 2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md
