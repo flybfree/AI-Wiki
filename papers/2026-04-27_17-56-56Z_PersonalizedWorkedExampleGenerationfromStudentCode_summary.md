@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 17 56 56Z Personalizedworkedexamplegenerationfromstudentcode Summary"
+date: 2026-04-27
+tags: ['paper', 'research', 'ai']
+---
 # Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.24758v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-27_17-56-56Z_PersonalizedWorkedExampleGenerationfromStudentCode.md
 

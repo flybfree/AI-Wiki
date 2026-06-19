@@ -1,12 +1,15 @@
 ---
-title: Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training
+
+title: "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training"
 url: http://arxiv.org/abs/2605.12483v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_17-57-48Z_BeyondGRPOandOn_PolicyDistillation_AnEmpiricalSpar.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a reward‑density principle that guides how scarce labeled data should be allocated between sparse and dense supervision. It shows that using the data on a strong teacher first, then compressing it into a smaller student via dense teacher supervision, yields better performance than applying GRPO directly to the deployment model.

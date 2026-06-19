@@ -1,12 +1,15 @@
 ---
+
 title: Neuron Populations Exhibit Divergent Selectivity with Scale
 url: http://arxiv.org/abs/2606.03990v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_17-59-52Z_NeuronPopulationsExhibitDivergentSelectivitywithSc.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how neuron populations in neural networks change predictably as models grow, focusing on Rosetta Neurons—a class with consistent activation patterns across different architectures. The study shows that the number of Rosetta Neurons scales sublinearly with model size while their relative proportion shrinks, and they become more selective and domain‑specific. An analytical model explains this scaling law and polarization effect.

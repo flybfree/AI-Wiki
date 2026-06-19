@@ -1,4 +1,12 @@
+---
+title: "2026 06 03 17 57 51Z Beyondtextfollowing Repairablearbitrationre Summary"
+date: 2026-06-03
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-03_17-57-51Z_BeyondTextFollowing_RepairableArbitrationReversals.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-04 00:01
 Source: 2026-06-03_17-57-51Z_BeyondTextFollowing_RepairableArbitrationReversals.md
 Model: None

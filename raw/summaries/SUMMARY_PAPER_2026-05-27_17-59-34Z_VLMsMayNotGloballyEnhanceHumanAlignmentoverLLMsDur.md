@@ -1,12 +1,15 @@
 ---
+
 title: VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading
 url: http://arxiv.org/abs/2605.28818v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_17-59-34Z_VLMsMayNotGloballyEnhanceHumanAlignmentoverLLMsDur.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper compares vision-language models (VLMs) with large language models (LLMs) in a text‑only setting to see if multimodal training improves human alignment during natural reading. The study finds that VLMs do not provide a uniform advantage, while LLMs remain the baseline for aligning with human brain activity.

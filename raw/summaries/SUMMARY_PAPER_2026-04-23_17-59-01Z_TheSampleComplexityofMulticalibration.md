@@ -1,12 +1,15 @@
 ---
+
 title: The Sample Complexity of Multicalibration
 url: http://arxiv.org/abs/2604.21923v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_17-59-01Z_TheSampleComplexityofMulticalibration.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper determines the minimax sample complexity of multicalibration in batch learning, showing that Θ(ε⁻³) samples are needed for a fixed error ε when the number of groups |G| is bounded by ε⁻ᵏ. It also reveals a sharp threshold where the complexity drops to Θ(ε⁻²) at κ=0.

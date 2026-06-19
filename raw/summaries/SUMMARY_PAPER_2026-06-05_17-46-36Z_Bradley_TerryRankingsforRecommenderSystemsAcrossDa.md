@@ -1,12 +1,15 @@
 ---
+
 title: Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies
 url: http://arxiv.org/abs/2606.07492v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-05_17-46-36Z_Bradley_TerryRankingsforRecommenderSystemsAcrossDa.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes a data‑driven ranking methodology for recommender systems that leverages the Bradley‑Terry (BT) model to compare algorithms across diverse dataset taxonomies. The authors show that algorithmic rankings are influenced by key dataset statistics, introduce a consistency metric, and demonstrate robustness to incomplete data. They also present a model‑free approach using BT trees and covariates for unseen datasets.

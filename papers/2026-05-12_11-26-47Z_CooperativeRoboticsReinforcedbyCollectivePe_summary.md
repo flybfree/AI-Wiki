@@ -1,4 +1,12 @@
+---
+title: "2026 05 12 11 26 47Z Cooperativeroboticsreinforcedbycollectivepe Summary"
+date: 2026-05-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-12_11-26-47Z_CooperativeRoboticsReinforcedbyCollectivePerceptio.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-12 21:01
 Source: 2026-05-12_11-26-47Z_CooperativeRoboticsReinforcedbyCollectivePerceptio.md
 Model: None

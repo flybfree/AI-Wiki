@@ -1,12 +1,15 @@
 ---
-title: DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation
+
+title: "DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation"
 url: http://arxiv.org/abs/2605.21482v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_17-59-03Z_DeepWeb_Bench_ADeepResearchBenchmarkDemandingMassi.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 DeepWeb-Bench is a benchmark designed to test frontier language models’ ability to perform deep research by demanding massive evidence collection, cross‑source reconciliation, and long‑horizon reasoning. The study shows that derivation and calibration errors dominate model failures, while retrieval contributes only a small fraction of mistakes.

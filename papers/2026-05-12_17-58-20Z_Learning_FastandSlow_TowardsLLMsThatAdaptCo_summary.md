@@ -1,4 +1,12 @@
+---
+title: "2026 05 12 17 58 20Z Learning Fastandslow Towardsllmsthatadaptco Summary"
+date: 2026-05-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-12 23:02
 Source: 2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md
 Model: None

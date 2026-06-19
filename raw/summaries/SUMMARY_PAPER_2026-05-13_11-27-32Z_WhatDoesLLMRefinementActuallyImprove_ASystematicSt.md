@@ -1,12 +1,15 @@
 ---
+
 title: What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation
 url: http://arxiv.org/abs/2605.13368v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_11-27-32Z_WhatDoesLLMRefinementActuallyImprove_ASystematicSt.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper investigates how iterative self‑refinement of large language models affects document‑level literary translation, testing nine LLMs across seven language pairs and multiple refinement strategies. It discovers that a two‑stage pipeline—document‑level machine translation followed by segment‑level refinement—delivers the strongest and most stable gains, while full‑document refinement often yields fewer edits and smaller improvements.

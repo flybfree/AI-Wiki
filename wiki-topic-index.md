@@ -7,6 +7,9 @@ tags: [wiki, index, ai-research, navigation]
 
 # AI Research Wiki — Topic Index
 
+
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 This page organizes all AI research content by topic. Use it to find what you're looking for.
 
 ## Table of Contents

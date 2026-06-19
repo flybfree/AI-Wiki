@@ -1,12 +1,15 @@
 ---
-title: Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction
+
+title: "Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction"
 url: http://arxiv.org/abs/2605.21483v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_17-59-05Z_Velocityformer_Broken_Symmetry_MatchedEquivariantG.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Velocityformer, an equivariant graph transformer designed to reconstruct galaxy velocities from the kinematic Sunyaev‑Zel'dovich effect while matching the broken symmetry of observational effects. It achieves a 35% improvement in correlation coefficient r over linear theory baselines and outperforms ML methods across all data volumes.

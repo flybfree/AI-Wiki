@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 Order Matters Sequence To Sequence For Sets 20260507 2310 Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-06_order_matters_sequence_to_sequence_for_sets.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:10
 Source: 2026-05-06_order_matters_sequence_to_sequence_for_sets.md
 Model: None

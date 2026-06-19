@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 China S Deepseek Releases Preview Of Long Awaited Summary"
+date: 2026-04-27
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-27_China_s_DeepSeek_releases_preview_of_long-awaited_.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 17:58
 Source: 2026-04-27_China_s_DeepSeek_releases_preview_of_long-awaited_.md
 Model: qwen3.6:35b

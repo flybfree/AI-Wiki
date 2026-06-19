@@ -1,12 +1,15 @@
 ---
-title: Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs
+
+title: "Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs"
 url: http://arxiv.org/abs/2606.08605v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-07_12-33-43Z_MultilingualFact_CheckingatScale_Fine_TunedCompact.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper presents a high‑throughput multilingual fact‑checking system that fine‑tunes compact encoder models for claim detection, stance classification, and evidence re‑ranking, then evaluates them against state‑of‑the‑art LLMs such as GPT‑5.2, Claude Opus~4.6, and Qwen3‑8b on production data across 114 languages for detection and 28 languages for prediction.

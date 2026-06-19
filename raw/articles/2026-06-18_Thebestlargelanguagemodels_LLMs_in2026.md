@@ -1,12 +1,20 @@
 ---
+
 title: The best large language models (LLMs) in 2026
 date: 2026-06-18
 url: https://zapier.com/blog/best-llm/
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://zapier.com/blog/best-llm/
-scraped: 2026-06-18 05:00
+scraped: "2026-06-18 05:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # The best large language models (LLMs) in 2026
 

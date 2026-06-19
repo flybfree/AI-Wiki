@@ -6,8 +6,16 @@ lesson: 10
 tags: [diffusiongemma, google-deepmind, text-diffusion, moe, inference-speed]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 10: DiffusionGemma — Block-Autoregressive Text Generation
 
+
+
+**Source**: [Original Article](https://github.com/ggml-org/llama.cpp/pull/24423)
 ## Concept: Why Diffusion for Text?
 
 Traditional LLMs act like typewriters — generating one token at a time, left to right. This is efficient in cloud servers that batch thousands of requests, but wasteful locally: a single user's GPU sits idle waiting for each "keystroke."

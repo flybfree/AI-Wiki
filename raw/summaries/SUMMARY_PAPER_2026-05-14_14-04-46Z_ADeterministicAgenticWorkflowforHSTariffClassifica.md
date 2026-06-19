@@ -1,12 +1,15 @@
 ---
-title: A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions
+
+title: "A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions"
 url: http://arxiv.org/abs/2605.14857v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_14-04-46Z_ADeterministicAgenticWorkflowforHSTariffClassifica.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a deterministic agentic workflow that maps free‑form product descriptions to HS tariff codes by applying multi‑dimensional rule reasoning, contrasting it with self‑planning large language models. The framework achieves 75 % top‑1 accuracy at four digits and 64 % top‑1 at six digits using Qwen3.6‑plus, while an open‑weight version reaches 84 % top‑1 agreement, highlighting the value of structured, interpretable decision pathways.

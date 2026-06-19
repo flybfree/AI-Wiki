@@ -1,14 +1,25 @@
 ---
+
 title: What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation
-published: 2026-05-13T11:27:32Z
+published: "2026-05-13T11:27:32Z"
 authors: Shaomu Tan, Dawei Zhu, Ke Tran, Michael Denkowski, Sony Trenous, Bill Byrne, Leonardo Ribeiro, Felix Hieber
 url: http://arxiv.org/abs/2605.13368v1
 type: paper-summary
 tags: [paper-summary, arxiv]
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
+
 
 # What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation
 
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.13368v1)
 ## Abstract
 Iterative self-refinement is a simple inference-time strategy for machine translation: an LLM revises its own translation over multiple inference-time passes. Yet document-scale refinement remains poorly understood: 1) which pipelines work best, 2) what quality dimensions improve, and 3) how refiners behave. In this paper, we present a systematic study of document-level literary translation, covering nine LLMs and seven language pairs. Across nine translation-refinement granularity combinations and five refinement strategies, we find a robust recipe: document-level MT followed by segment-level refinement yields strong and stable improvements. In contrast, document-level refinement often makes fewer edits and leads to smaller or less reliable gains. Beyond granularity, A simple general refinement prompt consistently outperforms error-specific prompting and evaluate-then-refine schemes. Our large-scale human evaluation shows that refinement gains come primarily from fluency, style, and terminology, with limited and less consistent improvements in adequacy. Experiments varying model strength reveal refinement projects outputs toward the refiner's distribution rather than performing targeted error repair. These findings clarify the mechanisms and limitations of current refinement approaches.
 

@@ -1,12 +1,15 @@
 ---
+
 title: Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning
 url: http://arxiv.org/abs/2605.10923v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-11_17-55-13Z_DynamicSkillLifecycleManagementforAgenticReinforce.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces SLIM, a dynamic Skill Lifecycle Management framework for agentic reinforcement learning that treats the active external skill set as an optimization variable. Experiments demonstrate that SLIM improves performance by about 7% points over existing baselines on ALFWorld and SearchQA, showing that optimal skill sets are non‑monotonic and depend on task stage.

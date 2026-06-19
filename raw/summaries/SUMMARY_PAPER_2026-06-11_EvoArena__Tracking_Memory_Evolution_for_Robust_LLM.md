@@ -1,12 +1,15 @@
 ---
-title: EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments
+
+title: "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments"
 url: http://arxiv.org/abs/2606.13681v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md
-generated_at: 2026-06-11 23:00
+generated_at: "2026-06-11 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces EvoArena, a benchmark that models environment changes across terminal, software, and social domains as progressive updates. It also proposes EvoMem, a patch‑based memory system that records structured update histories to help agents reason about evolving conditions. Experiments show current LLM agents perform poorly on the evolving tasks with an average accuracy of 39.6%, while EvoMem improves performance by around 1.5% and boosts standard benchmarks.

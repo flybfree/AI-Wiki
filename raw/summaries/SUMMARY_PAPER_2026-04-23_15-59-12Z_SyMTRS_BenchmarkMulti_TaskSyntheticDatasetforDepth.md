@@ -1,12 +1,15 @@
 ---
-title: SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery
+
+title: "SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery"
 url: http://arxiv.org/abs/2604.21801v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_15-59-12Z_SyMTRS_BenchmarkMulti_TaskSyntheticDatasetforDepth.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces SyMTRS, a synthetic multi‑task benchmark for aerial imagery that simultaneously supplies depth estimation, domain adaptation, and super‑resolution tasks with pixel‑perfect geometric ground truth. The dataset includes high‑resolution RGB images (2048 × 2048), night‑time counterparts, and low‑resolution variants at x2, x4, and x8 scales.

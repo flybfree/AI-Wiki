@@ -1,4 +1,12 @@
+---
+title: "2026 05 07 Data Foundation Web Sources Summary"
+date: 2026-05-07
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-05-07_Data_Foundation_Web_Sources.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-05-07
 Source: 2026-05-07_Data_Foundation_Web_Sources.md
 Model: gpt-5.4-mini

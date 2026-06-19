@@ -1,12 +1,15 @@
 ---
+
 title: Finite-Time Analysis of MCTS in Continuous POMDP Planning
 url: http://arxiv.org/abs/2605.07703v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_13-13-29Z_Finite_TimeAnalysisofMCTSinContinuousPOMDPPlanning.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper provides finite‑time concentration bounds for Monte Carlo Tree Search in Partially Observable Markov Decision Processes with both discrete and continuous observation spaces. It introduces Voro‑POMCPOW, a variant of POMCPOW that adaptively partitions the continuous space using Voronoi cells to guarantee high‑probability value estimates.

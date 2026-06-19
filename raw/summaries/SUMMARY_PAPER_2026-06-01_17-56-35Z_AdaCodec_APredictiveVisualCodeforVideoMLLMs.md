@@ -1,12 +1,15 @@
 ---
-title: AdaCodec: A Predictive Visual Code for Video MLLMs
+
+title: "AdaCodec: A Predictive Visual Code for Video MLLMs"
 url: http://arxiv.org/abs/2606.02569v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-01_17-56-35Z_AdaCodec_APredictiveVisualCodeforVideoMLLMs.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces AdaCodec, a predictive visual code that reduces redundant video token usage in multimodal large language models by transmitting full frames only when necessary and otherwise encoding inter‑frame changes as compact tokens. Across eleven benchmarks it matches or exceeds per‑frame RGB baselines while using fewer visual tokens.

@@ -1,12 +1,15 @@
 ---
-title: GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing
+
+title: "GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing"
 url: http://arxiv.org/abs/2605.27360v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_17-58-43Z_GENESIS_HarnessingAIAgentsforAutonomous6GRANSynthe.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces GENESIS, an agentic AI framework that automates the six labor‑intensive steps of cellular R&D by converting intents into validated over‑the‑air solutions stored in a persistent knowledge base. Experiments show it reduces manual engineering effort and improves interoperability compared with traditional methods.

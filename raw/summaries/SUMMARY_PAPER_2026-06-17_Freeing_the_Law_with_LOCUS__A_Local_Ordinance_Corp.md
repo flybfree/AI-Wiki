@@ -1,12 +1,15 @@
 ---
-title: Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States
+
+title: "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States"
 url: http://arxiv.org/abs/2606.19334v1
 type: paper-summary
 date: 2026-06-17
 source_paper: 2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md
-generated_at: 2026-06-17 22:00
+generated_at: "2026-06-17 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces LOCUS, a large-scale corpus of U.S. local ordinances that fills a gap in legal AI training data by providing machine‑readable access to municipal and county codes. The raw dataset covers 9,239 jurisdictions, while the count­y‑harmonized layer serves the most populous 2,309 counties. Researchers can download LOCUS‑v1 from Hugging Face for analysis.

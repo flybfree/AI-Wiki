@@ -1,4 +1,12 @@
+---
+title: "2026 06 08 17 54 33Z Topologicalneuraloperators Summary"
+date: 2026-06-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-08_17-54-33Z_TopologicalNeuralOperators.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-09 00:00
 Source: 2026-06-08_17-54-33Z_TopologicalNeuralOperators.md
 Model: None

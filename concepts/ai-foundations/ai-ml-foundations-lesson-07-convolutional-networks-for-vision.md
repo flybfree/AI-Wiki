@@ -11,8 +11,16 @@ source_pages:
   - ilya-sutskever-reading-list.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 7: Convolutional Networks for Vision
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

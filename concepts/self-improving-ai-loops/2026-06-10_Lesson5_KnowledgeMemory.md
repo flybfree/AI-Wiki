@@ -6,8 +6,16 @@ lesson: 5
 tags: [knowledge-management, memory, mozilla-cq, vector-dbs, cold-start]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 5: Knowledge & Memory — The Outer Loop
 
+
+
+**Source**: [Original Article](http://localhost:8080/knowledge?query=)
 ## Core Idea
 
 The **outer loop** turns one session's hard-won lesson into something every future session starts with. It separates solving from learning: agents store discoveries as structured Knowledge Units and query the store before retrying a failure, so they stop rediscovering the same dead ends.

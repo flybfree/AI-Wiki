@@ -1,4 +1,12 @@
+---
+title: "2026 05 18 10 37 39Z Rgb Onlyactive3Dscenegraphgenerationforindo Summary"
+date: 2026-05-18
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-18_10-37-39Z_RGB_onlyActive3DSceneGraphGenerationforIndoorMobil.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-18 22:00
 Source: 2026-05-18_10-37-39Z_RGB_onlyActive3DSceneGraphGenerationforIndoorMobil.md
 Model: None

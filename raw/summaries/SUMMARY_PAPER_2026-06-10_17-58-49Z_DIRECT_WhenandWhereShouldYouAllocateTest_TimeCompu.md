@@ -1,12 +1,15 @@
 ---
-title: DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?
+
+title: "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?"
 url: http://arxiv.org/abs/2606.12402v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md
-generated_at: 2026-06-11 10:57
+generated_at: "2026-06-11 10:57"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces DIRECT, a routing framework that allocates test‑time compute to embodied agents based on multimodal scene context. Experiments across chain‑of‑thought depth, model size, and memory history show that test‑time scaling is not uniform; instead, different axes yield distinct capability gains. The router can match or exceed the performance of stronger models while reducing average latency by up to 65 %.

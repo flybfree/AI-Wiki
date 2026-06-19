@@ -1,14 +1,25 @@
 ---
+
 title: Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation
-published: 2026-05-12T11:26:47Z
+published: "2026-05-12T11:26:47Z"
 authors: Mohammad Khoshkdahan, John Pravin Arockiasamy, Andy Flores Comeca, Alexey Vinel
 url: http://arxiv.org/abs/2605.11972v1
 type: paper-summary
 tags: [paper-summary, arxiv]
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
+
 
 # Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation
 
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.11972v1)
 ## Abstract
 Collisions at non-line-of-sight (NLOS) intersections remain a major safety concern because drivers have limited visibility of approaching traffic. V2X based warnings can reduce these risks, yet many vehicles are not equipped with V2X and drivers may ignore in vehicle alerts. Collective perception (CP) can compensate for low V2X penetration by extending the awareness of connected vehicles, but it cannot influence unconnected vehicles. To fill this gap, our work introduces a complementary concept that adds a cooperative humanoid robot as an active traffic moderator capable of physically stopping a vehicle that attempts to merge into an unseen traffic stream. The system operates on two parallel perception pathways. A dual camera infrastructure unit detects the position, speed and motion of approaching vehicles and transmits this information to the robot as a collective perception message (CPM). The robot also receives cooperative awareness messages (CAM) from connected vehicles through its onboard V2X unit and can act as a relay for decentralized environmental notification messages (DENM) when safety events originate elsewhere along the road. A fusion module combines these streams to maintain a robust real time view of the main road. A Zone of Danger (ZoD) is defined and used to predict whether an approaching vehicle creates a collision risk for a merging road user. When such a risk is detected, the robot issues a human-like STOP gesture and blocks the merging path until the hazard disappears. The full system was deployed at the Future Mobility Park (FMP) in Rotterdam. Experiments show that the combined vision and V2X perception allows the robot to detect approaching vehicles early, predict hazards reliably and prevent unsafe merges in real world NLOS conditions.
 

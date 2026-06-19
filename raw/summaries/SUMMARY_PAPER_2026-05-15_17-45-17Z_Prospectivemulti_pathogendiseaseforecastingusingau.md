@@ -1,12 +1,15 @@
 ---
+
 title: Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search
 url: http://arxiv.org/abs/2605.16238v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-15_17-45-17Z_Prospectivemulti_pathogendiseaseforecastingusingau.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces an autonomous system that uses a large language model to generate, evaluate, and optimize disease forecasting software without human curation. During the 2025‑2026 US respiratory season it produced ensembles for influenza, COVID‑19, and RSV that matched or beat CDC hub models, especially in data‑scarce cold‑start scenarios.

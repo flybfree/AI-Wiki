@@ -1,4 +1,12 @@
+---
+title: "2026 05 08 17 59 40Z Llmsimprovingllms Agenticdiscoveryfortest T Summary"
+date: 2026-05-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-08_17-59-40Z_LLMsImprovingLLMs_AgenticDiscoveryforTest_TimeScal.md
+
+
+**Source**: [Original Paper](https://github.com/zhengkid/AutoTTS.)
 Saved: 2026-05-10 22:54
 Source: 2026-05-08_17-59-40Z_LLMsImprovingLLMs_AgenticDiscoveryforTest_TimeScal.md
 Model: None

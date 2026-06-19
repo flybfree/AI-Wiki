@@ -1,12 +1,15 @@
 ---
+
 title: A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents
 url: http://arxiv.org/abs/2605.20173v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-19_17-54-21Z_AMethodologyforSelectingandComposingRuntimeArchite.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a methodology for selecting runtime architecture patterns that handle the stochastic‑deterministic boundary in production LLM agents, presenting six patterns and a five‑step selection process. It shows how pattern choice affects reliability as model variance changes.

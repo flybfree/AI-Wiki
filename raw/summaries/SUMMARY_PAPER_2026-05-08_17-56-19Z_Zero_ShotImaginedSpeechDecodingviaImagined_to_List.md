@@ -1,12 +1,15 @@
 ---
+
 title: Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping
 url: http://arxiv.org/abs/2605.08075v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_17-56-19Z_Zero_ShotImaginedSpeechDecodingviaImagined_to_List.md
-generated_at: 2026-06-11 10:31
+generated_at: "2026-06-11 10:31"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a three‑stage decoding pipeline that uses paired imagined and listened MEG recordings to map neural activity from imagined speech to the corresponding listening response, then decodes the imagined word using a listener‑trained model. The approach achieves significant performance above chance on held‑out subjects, with results improving as training data size increases.

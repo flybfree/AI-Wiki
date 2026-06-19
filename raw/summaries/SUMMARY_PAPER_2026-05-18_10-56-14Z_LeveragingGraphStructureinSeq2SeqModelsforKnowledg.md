@@ -1,12 +1,15 @@
 ---
+
 title: Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction
 url: http://arxiv.org/abs/2605.18211v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_10-56-14Z_LeveragingGraphStructureinSeq2SeqModelsforKnowledg.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper proposes Graph-Augmented Sequence-to-Sequence (GA‑S2S), a model that combines a T5‑small encoder‑decoder with a Relational Graph Attention Network to predict links in knowledge graphs. Experiments on the CoDEx dataset show GA‑S2S improves link prediction accuracy by up to 19 % relative to strong Seq2Seq baselines.

@@ -1,12 +1,15 @@
 ---
+
 title: A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification
 url: http://arxiv.org/abs/2605.04046v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-05_17-59-18Z_AClosed_FormAdaptive_LandmarkKernelforCertifiedPoi.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces PALACE, a closed‑form adaptive landmark kernel that improves point‑cloud and graph classification by adapting cover parameters without gradient training. The method provides four rigorous guarantees and achieves state‑of‑the‑art performance on benchmark datasets, matching or surpassing existing diagram‑based approaches.

@@ -1,4 +1,12 @@
+---
+title: "2026 04 29 Generative Ai News And Analysis Techcrunch Summary"
+date: 2026-04-29
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-29_Generative_AI_news_and_analysis___TechCrunch.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 20:12
 Source: 2026-04-29_Generative_AI_news_and_analysis___TechCrunch.md
 Model: qwen3.6:35b

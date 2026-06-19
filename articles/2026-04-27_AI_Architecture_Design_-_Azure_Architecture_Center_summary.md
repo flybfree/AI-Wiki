@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 Ai Architecture Design Azure Architecture Center Summary"
+date: 2026-04-27
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-27_AI_Architecture_Design_-_Azure_Architecture_Center.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 17:57
 Source: 2026-04-27_AI_Architecture_Design_-_Azure_Architecture_Center.md
 Model: qwen3.6:35b

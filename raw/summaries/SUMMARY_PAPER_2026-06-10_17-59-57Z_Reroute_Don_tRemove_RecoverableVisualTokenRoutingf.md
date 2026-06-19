@@ -1,12 +1,15 @@
 ---
-title: Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models
+
+title: "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models"
 url: http://arxiv.org/abs/2606.12412v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md
-generated_at: 2026-06-11 10:57
+generated_at: "2026-06-11 10:57"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Reroute, a training‑free plug‑in that replaces the irreversible token removal used in vision‑language models with recoverable routing. By letting low‑ranked tokens bypass certain decoder stages and re‑enter later candidate pools, Reroute maintains the attention‑budget and KV‑cache limits of existing pruning methods while improving grounding performance.

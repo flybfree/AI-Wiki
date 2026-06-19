@@ -1,4 +1,12 @@
+---
+title: "2026 05 08 13 14 24Z Bayesianfine Tuninginprojectedsubspaces Summary"
+date: 2026-05-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-08_13-14-24Z_BayesianFine_tuninginProjectedSubspaces.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-10 21:01
 Source: 2026-05-08_13-14-24Z_BayesianFine_tuninginProjectedSubspaces.md
 Model: None

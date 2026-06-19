@@ -1,12 +1,15 @@
 ---
-title: OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics
+
+title: "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics"
 url: http://arxiv.org/abs/2606.09826v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_17-59-43Z_OmniGameArena_AUnifiedUE5BenchmarkforVLMGameAgents.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces OmniGameArena, a unified Unreal Engine 5 benchmark that evaluates twelve newly built games across Solo, PvP, and Coop modes with consistent action interfaces. It also presents the Improvement Dynamics Curve (IDC), an automated harness where tool-using reflectors refine prompts over multiple rounds to track skill evolution. The study reports cold-start leaderboard scores for twelve VLM agents and detailed IDC observables for four top agents.

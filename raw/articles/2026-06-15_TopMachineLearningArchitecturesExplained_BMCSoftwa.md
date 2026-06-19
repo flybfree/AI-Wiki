@@ -1,12 +1,20 @@
 ---
+
 title: Top Machine Learning Architectures Explained – BMC Software | Blogs
 date: 2026-06-15
 url: https://www.bmc.com/blogs/machine-learning-architecture/
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://www.bmc.com/blogs/machine-learning-architecture/
-scraped: 2026-06-15 00:00
+scraped: "2026-06-15 00:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # Top Machine Learning Architectures Explained – BMC Software | Blogs
 

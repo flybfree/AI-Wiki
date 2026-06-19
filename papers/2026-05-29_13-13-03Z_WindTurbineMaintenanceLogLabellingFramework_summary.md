@@ -1,4 +1,12 @@
+---
+title: "2026 05 29 13 13 03Z Windturbinemaintenanceloglabellingframework Summary"
+date: 2026-05-29
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-29_13-13-03Z_WindTurbineMaintenanceLogLabellingFramework_LLM_Dr.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-31 21:00
 Source: 2026-05-29_13-13-03Z_WindTurbineMaintenanceLogLabellingFramework_LLM_Dr.md
 Model: None

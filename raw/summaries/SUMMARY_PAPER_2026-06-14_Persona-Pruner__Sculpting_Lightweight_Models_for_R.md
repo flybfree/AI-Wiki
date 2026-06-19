@@ -1,12 +1,15 @@
 ---
-title: Persona-Pruner: Sculpting Lightweight Models for Role-Playing
+
+title: "Persona-Pruner: Sculpting Lightweight Models for Role-Playing"
 url: http://arxiv.org/abs/2606.14695v1
 type: paper-summary
 date: 2026-06-14
 source_paper: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md
-generated_at: 2026-06-14 22:00
+generated_at: "2026-06-14 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 Persona‑Pruner introduces a method to create lightweight role‑playing language models by isolating persona‑specific subnetworks from a single description, reducing the need for full generalist models. Experiments on RoleBench show that pruning can cut performance loss by up to 93.8 % compared with dense baselines while keeping overall LLM capabilities intact.

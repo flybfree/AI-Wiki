@@ -1,4 +1,12 @@
+---
+title: "2026 05 04 Whatisgenerativeai Ibm Summary"
+date: 2026-05-04
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-05-04_WhatisgenerativeAI_-IBM.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-05-04 18:11
 Source: 2026-05-04_WhatisgenerativeAI_-IBM.md
 Model: qwen3.6:35b

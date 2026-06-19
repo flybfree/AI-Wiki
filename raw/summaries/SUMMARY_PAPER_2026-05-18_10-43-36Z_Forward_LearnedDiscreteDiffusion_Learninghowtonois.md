@@ -1,12 +1,15 @@
 ---
-title: Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster
+
+title: "Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster"
 url: http://arxiv.org/abs/2605.18204v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Forward-Learned Discrete Diffusion (FLDD), a method that learns the forward (noising) process of discrete diffusion models to improve efficiency. Experiments show that FLDD generates higher‑quality samples in fewer steps compared with conventional reverse‑parameterized approaches.

@@ -1,12 +1,15 @@
 ---
+
 title: How reliable are LLMs when it comes to playing dice?
 url: http://arxiv.org/abs/2606.07515v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-05_17-59-42Z_HowreliableareLLMswhenitcomestoplayingdice.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates how reliable large language models are for discrete probability problems, comparing standard exercises with counterintuitive ones and testing both with and without Chain-of-Thought prompting. It finds that LLMs achieve high accuracy on routine tasks but lower performance on more challenging cases, and that token bias can further degrade results.

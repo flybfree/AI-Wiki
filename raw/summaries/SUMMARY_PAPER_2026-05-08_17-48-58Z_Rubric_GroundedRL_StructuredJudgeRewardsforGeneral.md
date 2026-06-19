@@ -1,12 +1,15 @@
 ---
-title: Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning
+
+title: "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning"
 url: http://arxiv.org/abs/2605.08061v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_17-48-58Z_Rubric_GroundedRL_StructuredJudgeRewardsforGeneral.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces rubric‑grounded reinforcement learning (RL), a method that decomposes rewards into weighted, verifiable criteria scored by a frozen LLM judge to provide partial‑credit optimization signals. Using GRPO, the model achieves 71.7 % normalized reward on held‑out rubric evaluation and improves performance on four reasoning benchmarks not present in its training corpus.

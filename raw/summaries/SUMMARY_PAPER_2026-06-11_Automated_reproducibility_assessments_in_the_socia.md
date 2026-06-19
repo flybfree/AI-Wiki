@@ -1,12 +1,15 @@
 ---
+
 title: Automated reproducibility assessments in the social and behavioral sciences using large language models
 url: http://arxiv.org/abs/2606.13670v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md
-generated_at: 2026-06-11 23:00
+generated_at: "2026-06-11 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates whether large language models can automatically evaluate the reproducibility of social and behavioral science studies by comparing their predictions to original results and human reanalysis. Using a dataset of 76 published claims, the LLM pipeline recovered effect sizes in 41% of cases within a small tolerance and matched qualitative conclusions in 96% of instances, outperforming human reanalysts who succeeded only 34% and 74% respectively.

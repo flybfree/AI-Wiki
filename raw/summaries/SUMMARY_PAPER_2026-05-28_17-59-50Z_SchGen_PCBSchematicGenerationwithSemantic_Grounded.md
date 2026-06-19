@@ -1,12 +1,15 @@
 ---
-title: SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations
+
+title: "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations"
 url: http://arxiv.org/abs/2605.30345v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-28_17-59-50Z_SchGen_PCBSchematicGenerationwithSemantic_Grounded.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 SchGen is the first large language model that creates editable PCB schematics directly from natural‑language requests. Experiments show it achieves higher wire connectivity accuracy and functional correctness than both alternative representations and larger general‑purpose LLMs.

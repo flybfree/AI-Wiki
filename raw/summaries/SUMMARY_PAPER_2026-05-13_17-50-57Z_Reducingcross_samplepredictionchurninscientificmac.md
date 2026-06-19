@@ -1,12 +1,15 @@
 ---
+
 title: Reducing cross-sample prediction churn in scientific machine learning
 url: http://arxiv.org/abs/2605.13826v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_17-50-57Z_Reducingcross_samplepredictionchurninscientificmac.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces cross‑sample prediction churn as a gap between aggregate accuracy and label agreement across independent bootstraps of the same training set. It demonstrates that standard parameter‑side methods fail to reduce this churn, while two data‑side approaches — K‑bootstrap bagging and twin‑bootstrap with a sym‑KL loss — can cut churn rates by up to 54 % at modest compute cost.

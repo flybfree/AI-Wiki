@@ -1,4 +1,12 @@
+---
+title: "2026 05 28 17 58 57Z Fairness Awarefederatedlearningwithtrajecto Summary"
+date: 2026-05-28
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-28_17-58-57Z_Fairness_AwareFederatedLearningwithTrajectoryShapl.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-29 01:00
 Source: 2026-05-28_17-58-57Z_Fairness_AwareFederatedLearningwithTrajectoryShapl.md
 Model: None

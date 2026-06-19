@@ -1,12 +1,15 @@
 ---
-title: IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning
+
+title: "IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning"
 url: http://arxiv.org/abs/2606.02563v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-01_17-54-10Z_IntraShuffler_APrivacyPreservingFrameworkforHetero.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces IntraShuffler, a privacy‑preserving middleware for heterogeneous differential privacy federated learning that mitigates server inference attacks. Experiments show it reduces gradient recoverability by over 60% and lowers surrogate inference accuracy from 0.78 to 0.33 while keeping model utility stable.

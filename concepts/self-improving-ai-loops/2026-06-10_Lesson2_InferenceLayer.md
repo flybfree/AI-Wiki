@@ -6,8 +6,16 @@ lesson: 2
 tags: [inference, self-hosted, ollama, vllm, llama-cpp, model-selection, gguf]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 2: Inference Layer — Self-Hosted LLMs
 
+
+
+**Source**: [Original Article](https://github.com/ggerganov/llama.cpp.git)
 ## Core Idea
 
 The inference layer is where your models live and serve requests. For self-hosted self-improving loops, you need a local model server that provides an OpenAI-compatible API — this lets you run agents against local models in dev and swap to cloud models in prod without changing agent code.

@@ -1,12 +1,15 @@
 ---
-title: KoRe: Compact Knowledge Representations for Large Language Models
+
+title: "KoRe: Compact Knowledge Representations for Large Language Models"
 url: http://arxiv.org/abs/2605.20170v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-19_17-53-29Z_KoRe_CompactKnowledgeRepresentationsforLargeLangua.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes KoRe, a method that converts 1‑hop sub‑graphs into compact discrete tokens to augment large language model backbones. Experiments on three benchmarks show competitive performance gains while reducing token usage up to tenfold. This demonstrates that discrete knowledge graphs can be efficiently integrated with modern LLMs.

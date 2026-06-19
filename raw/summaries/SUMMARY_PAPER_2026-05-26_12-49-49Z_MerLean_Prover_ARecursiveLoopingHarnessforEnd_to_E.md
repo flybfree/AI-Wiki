@@ -1,12 +1,15 @@
 ---
-title: MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving
+
+title: "MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving"
 url: http://arxiv.org/abs/2605.26959v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_12-49-49Z_MerLean_Prover_ARecursiveLoopingHarnessforEnd_to_E.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 MerLean-Prover is an end-to-end Lean4 theorem prover that replaces sorry declarations with kernel-checkable proofs using a recursive loop over proof plans without fine‑tuning or custom objectives. On FormalQualBench it solves 10 out of 23 problems, beating the best open‑source baseline, and on Putnam2025 it closes all twelve problems with lower wall‑clock time.

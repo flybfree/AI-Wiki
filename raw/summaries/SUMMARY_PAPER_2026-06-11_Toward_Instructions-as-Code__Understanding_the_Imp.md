@@ -1,12 +1,15 @@
 ---
-title: Toward Instructions-as-Code: Understanding the Impact of Instruction Files on Agentic Pull Requests
+
+title: "Toward Instructions-as-Code: Understanding the Impact of Instruction Files on Agentic Pull Requests"
 url: http://arxiv.org/abs/2606.13449v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md
-generated_at: 2026-06-11 21:00
+generated_at: "2026-06-11 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates how instruction files affect AI agents' performance in generating pull requests for software engineering tasks. It analyzes 15,549 agentic PRs across 148 projects and finds that instruction files do not uniformly improve outcomes; some increase merge rates while others decrease them.

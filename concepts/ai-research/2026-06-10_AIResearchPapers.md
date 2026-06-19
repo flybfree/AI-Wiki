@@ -5,6 +5,14 @@ type: concept
 tags: [ai-research, papers]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
+
+
 ## AI Research Papers
 
 **Last Updated**: 2026-06-10

@@ -1,4 +1,12 @@
+---
+title: "2026 06 11 15 09 32Z Towardinstructions As Code Understandingthe Summary"
+date: 2026-06-11
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-11 21:00
 Source: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md
 Model: None

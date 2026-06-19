@@ -1,12 +1,15 @@
 ---
-title: FutureSim: Replaying World Events to Evaluate Adaptive Agents
+
+title: "FutureSim: Replaying World Events to Evaluate Adaptive Agents"
 url: http://arxiv.org/abs/2605.15188v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_17-59-28Z_FutureSim_ReplayingWorldEventstoEvaluateAdaptiveAg.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces FutureSim, a simulation that replays real-world events in chronological order to test AI agents’ ability to forecast future occurrences beyond their knowledge cutoff. Evaluating frontier agents over January‑March 2026 shows the best model achieves about 25% accuracy while many perform worse than simply not predicting.

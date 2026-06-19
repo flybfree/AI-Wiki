@@ -1,12 +1,15 @@
 ---
-title: PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws
+
+title: "PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws"
 url: http://arxiv.org/abs/2606.09816v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_17-56-16Z_PTL_Diffusion_Manifold_AwareDiffusionwithPeriodicT.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 PTL‑Diffusion introduces a periodic family of Gaussian terminal laws that encode phase information directly into the forward diffusion process, allowing the reverse model to recover manifold structure more explicitly than standard single‑law DDPMs. Experiments on torus and cylinder point clouds and Olivetti faces show improved manifold‑level matching and reduced errors compared with matched baselines.

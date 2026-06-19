@@ -1,12 +1,15 @@
 ---
-title: Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration
+
+title: "Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration"
 url: http://arxiv.org/abs/2605.08077v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_17-57-13Z_ConformalPathReasoning_TrustworthyKnowledgeGraphQu.md
-generated_at: 2026-06-11 10:31
+generated_at: "2026-06-11 10:31"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Conformal Path Reasoning (CPR), a KGQA method that combines query-level conformal calibration with path-level scores to produce reliable answer sets. Experiments show a 34% increase in empirical coverage rate and a 40% reduction in average prediction set size compared to baselines.

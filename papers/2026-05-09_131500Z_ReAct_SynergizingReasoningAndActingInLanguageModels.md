@@ -1,3 +1,8 @@
+---
+title: "2026 05 09 131500Z React Synergizingreasoningandactinginlanguagemodels"
+date: 2026-05-09
+tags: ['paper', 'research', 'ai']
+---
 title: 'ReAct: Synergizing Reasoning and Acting in Language Models'
 source_arxiv: https://arxiv.org/abs/2210.03629
 source_pdf: https://arxiv.org/pdf/2210.03629
@@ -10,6 +15,9 @@ tags: [reasoning, acting, agentic, LLM, chain-of-thought, tool-use, HOTPOTQA, AL
 
 # ReAct: Synergizing Reasoning and Acting in Language Models
 
+
+
+**Source**: [Original Paper](https://arxiv.org/abs/2210.03629)
 ## Source
 - Paper: [[https://arxiv.org/abs/2210.03629|arXiv:2210.03629]]
 - PDF: [[https://arxiv.org/pdf/2210.03629|PDF]]

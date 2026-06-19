@@ -1,4 +1,12 @@
+---
+title: "2026 05 09 2005 14165 Language Models Are Few Shot Learners Summary"
+date: 2026-05-09
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-09_2005.14165-language-models-are-few-shot-learners.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-09 23:00
 Source: 2026-05-09_2005.14165-language-models-are-few-shot-learners.md
 Model: None

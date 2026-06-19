@@ -1,12 +1,15 @@
 ---
-title: SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment
+
+title: "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment"
 url: http://arxiv.org/abs/2605.04012v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-05_17-36-12Z_SymptomAI_TowardsaConversationalAIAgentforEveryday.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces SymptomAI, a set of conversational AI agents that interview users about symptoms and generate differential diagnoses within the Fitbit app. In a randomized study with 13,917 participants, the AI’s diagnoses were significantly more accurate than those from independent clinicians (OR = 2.47, p < 0.001). The results also show that agents that conduct dedicated symptom interviews outperform baseline user‑guided conversations.

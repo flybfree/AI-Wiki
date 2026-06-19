@@ -1,12 +1,15 @@
 ---
-title: DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation
+
+title: "DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation"
 url: http://arxiv.org/abs/2605.31286v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_13-20-08Z_DeMaVLA_AVision_Language_ActionFoundationModelforG.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 DeMaVLA is a Vision‑Language‑Action foundation model designed for generalizable deformable manipulation, such as folding clothing items in real households. The system combines a VLM backbone with an action expert that uses flow matching and pruned transformer layers to generate continuous actions efficiently. Experiments demonstrate competitive performance on RoboTwin and strong results on a household folding benchmark.

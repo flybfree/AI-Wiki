@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 17 52 38Z Howfastshouldamodelcommittosupervision Trai Summary"
+date: 2026-04-28
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-28_17-52-38Z_HowFastShouldaModelCommittoSupervision_TrainingRea.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-04-29 00:20
 Source: 2026-04-28_17-52-38Z_HowFastShouldaModelCommittoSupervision_TrainingRea.md
 Model: None

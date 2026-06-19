@@ -1,12 +1,15 @@
 ---
+
 title: How Transparent is DiffusionGemma?
 url: http://arxiv.org/abs/2606.20560v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md
-generated_at: 2026-06-18 23:00
+generated_at: "2026-06-18 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how transparent diffusion models like DiffusionGemma are compared to autoregressive counterparts such as Gemma 4, focusing on two aspects of transparency: variable and algorithmic. It finds that while DiffusionGemma’s serial depth is roughly 28.6 times larger than Gemma 4, the use of an interpretable token bottleneck restores variable transparency to near‑autoregressive levels. Algorithmic transparency remains challenging because many tokens are updated each denoising step, enabling complex distributed reasoning.

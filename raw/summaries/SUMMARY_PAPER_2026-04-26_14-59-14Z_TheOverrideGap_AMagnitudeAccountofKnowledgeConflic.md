@@ -1,12 +1,15 @@
 ---
-title: The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation
+
+title: "The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation"
 url: http://arxiv.org/abs/2604.23750v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-26_14-59-14Z_TheOverrideGap_AMagnitudeAccountofKnowledgeConflic.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates why hypernetwork-based methods for instant LLM adaptation fail on factual conflicts and shows that the failure is a magnitude issue rather than a representational one. It demonstrates that deep conflicts cause accuracy drops to 46.4% while strong prior knowledge yields only 16%, revealing a systematic gap.

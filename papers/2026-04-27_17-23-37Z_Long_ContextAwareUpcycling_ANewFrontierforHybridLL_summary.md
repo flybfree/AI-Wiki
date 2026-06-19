@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 17 23 37Z Long Contextawareupcycling Anewfrontierforhybridll Summary"
+date: 2026-04-27
+tags: ['paper', 'research', 'ai']
+---
 # Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.24715v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-27_17-23-37Z_Long_ContextAwareUpcycling_ANewFrontierforHybridLL.md
 

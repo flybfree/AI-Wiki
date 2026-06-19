@@ -1,12 +1,15 @@
 ---
-title: Future Validity is the Missing Statistic: From Impossibility to $Φ$-Estimation for Grammar-Faithful Speculative Decoding
+
+title: "Future Validity is the Missing Statistic: From Impossibility to $Φ$-Estimation for Grammar-Faithful Speculative Decoding"
 url: http://arxiv.org/abs/2605.07698v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_13-08-18Z_FutureValidityistheMissingStatistic_FromImpossibil.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper reveals that speculative decoding, despite local mask access and rollback soundness, samples from a locally projected distribution rather than the intended grammar‑conditional one. It introduces the future‑validity function Φ_t(y) as the missing correction statistic and demonstrates an oracle decoder FVO‑Spec that uses exact Φ to achieve perfect sampling for Dyck grammars with minimal overhead.

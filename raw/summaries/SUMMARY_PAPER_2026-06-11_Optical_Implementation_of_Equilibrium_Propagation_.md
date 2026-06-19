@@ -1,12 +1,15 @@
 ---
+
 title: Optical Implementation of Equilibrium Propagation Using Spatial Photonic Ising Machines
 url: http://arxiv.org/abs/2606.13454v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md
-generated_at: 2026-06-11 21:00
+generated_at: "2026-06-11 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper presents a hybrid optical-digital implementation of equilibrium propagation (EP) using a spatial photonic ising machine (SPIM). It shows that the SPIM can encode continuous neuron states and binary trainable patterns via phase modulations on a spatial light modulator, while inference follows a finite difference scheme. Experiments confirm its feasibility on both wine classification and MNIST tasks.

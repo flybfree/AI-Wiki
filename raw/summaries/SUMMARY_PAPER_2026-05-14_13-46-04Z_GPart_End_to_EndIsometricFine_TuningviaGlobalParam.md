@@ -1,12 +1,15 @@
 ---
-title: GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning
+
+title: "GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning"
 url: http://arxiv.org/abs/2605.14841v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_13-46-04Z_GPart_End_to_EndIsometricFine_TuningviaGlobalParam.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces GPart, a fine‑tuning method that eliminates the low‑rank bottleneck of LoRA by using an isometric projection. It achieves end‑to‑end distance preservation with minimal parameters and storage cost. Experiments show GPart matches or exceeds existing PEFT methods across NLP, vision, and math tasks.

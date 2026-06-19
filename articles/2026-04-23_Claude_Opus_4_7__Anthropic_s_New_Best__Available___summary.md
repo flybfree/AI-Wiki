@@ -1,4 +1,12 @@
+---
+title: "2026 04 23 Claude Opus 4 7 Anthropic S New Best Available Summary"
+date: 2026-04-23
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-23_Claude_Opus_4_7__Anthropic_s_New_Best__Available__.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 15:46
 Source: 2026-04-23_Claude_Opus_4_7__Anthropic_s_New_Best__Available__.md
 Model: qwen3.6:35b

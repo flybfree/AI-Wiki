@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://www.cnn.com/2026/04/24/tech/chinas-ai-deepseek-v4-intl-hnk)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-27_China_sAIupstartDeepSeekdropsnewmodel_Willitmakewa.md

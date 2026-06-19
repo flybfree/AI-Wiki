@@ -1,12 +1,15 @@
 ---
+
 title: Actionable World Representation
 url: http://arxiv.org/abs/2605.18743v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_17-58-51Z_ActionableWorldRepresentation.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces WorldString, a neural architecture that learns an actionable representation of real‑world objects directly from point clouds or RGB‑D video. By modeling the state manifold of objects as differentiable tensors, it provides a unified digital twin for physical world models. The framework enables seamless integration with policy learning and dynamics.

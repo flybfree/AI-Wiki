@@ -1,12 +1,15 @@
 ---
-title: When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels
+
+title: "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels"
 url: http://arxiv.org/abs/2605.06652v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-07_17-56-41Z_WhenNoBenchmarkExists_ValidatingComparativeLLMSafe.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a framework for evaluating language model safety without relying on labeled benchmarks, focusing on Norwegian public‑sector procurement as an example. The authors demonstrate that a scenario‑based audit can generate valid comparative scores when the instrument’s validity chain—responsiveness to safe versus abliterated targets, dominance of target variance, and stability across reruns—is satisfied.

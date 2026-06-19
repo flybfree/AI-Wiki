@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html?msockid=2e6aa028c1756b8d1ac3b760c05e6a7a)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-27_China_sDeepSeekreleasespreviewoflong_awaitedV4mode.md

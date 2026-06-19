@@ -12,8 +12,16 @@ source_pages:
   - raw/articles/2026-04-25_LLMs___10_Things_That_Matter_in_AI_Right_Now___MIT.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 15: Evaluation, Overfitting, and Limits
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

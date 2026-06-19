@@ -1,12 +1,15 @@
 ---
-title: Convergent Evolution: How Different Language Models Learn Similar Number Representations
+
+title: "Convergent Evolution: How Different Language Models Learn Similar Number Representations"
 url: http://arxiv.org/abs/2604.20817v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-22_17-45-27Z_ConvergentEvolution_HowDifferentLanguageModelsLear.md
-generated_at: 2026-06-11 10:25
+generated_at: "2026-06-11 10:25"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates how various language models converge on similar number representations and shows that these representations exhibit periodic Fourier features with periods 2,5,10. It demonstrates that only some models learn geometrically separable features enabling linear classification of numbers modulo T, and identifies two pathways: complementary co‑occurrence signals in general data or multi‑token addition problems.

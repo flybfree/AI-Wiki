@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://www.cbsnews.com/news/generative-ai-subscriptions-consumer-spending/)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-25_Here_swhoisspendingmoneyonAIsubscriptions_andhow__.md

@@ -1,14 +1,25 @@
 ---
+
 title: 'SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate'
-published: 2026-05-18T17:59:00Z
+published: "2026-05-18T17:59:00Z"
 authors: Lifu Wei, Yinuo Ren, Naichen Shi, Yiping Lu
 url: http://arxiv.org/abs/2605.18745v1
 type: paper-summary
 tags: [paper-summary, arxiv]
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
+
 
 # SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate
 
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.18745v1)
 ## Abstract
 Diffusion-based generative models increasingly rely on inference-time guidance, adding a drift term or reweighting mixture of experts, to improve sample quality on task-specific objectives. However, most existing techniques require repeated score or gradient evaluations, introducing bias, high computational overhead, or both. We introduce \texttt{URGE}, Unbiased Resampling via Girsanov Estimation, a derivative-free inference-time scaling algorithm that performs path-wise importance reweighting via a Girsanov change of measure. Instead of computing gradient-based particle weights in previous work, \texttt{URGE} attaches a simple multiplicative weight to each simulated trajectory and periodically resamples. No score, no Hessian, and no PDE evaluation is required. We establish an equivalence between path-wise and particle-wise SMC: the Girsanov path weight admits a backward conditional expectation that recovers the previous particle-level weights, guaranteeing that both schemes produce the same unbiased terminal law. Empirically, \texttt{URGE} outperforms existing inference-time guidance baselines on synthetic tests and diffusion-model benchmarks, achieving better generation quality, while being significantly simpler to implement and fully gradient-free.
 

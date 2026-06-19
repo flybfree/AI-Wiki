@@ -1,4 +1,12 @@
+---
+title: "2026 04 29 Generative Ai Recent News Ai Business Summary"
+date: 2026-04-29
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-29_Generative_AI_recent_news_-_AI_Business.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 20:12
 Source: 2026-04-29_Generative_AI_recent_news_-_AI_Business.md
 Model: qwen3.6:35b

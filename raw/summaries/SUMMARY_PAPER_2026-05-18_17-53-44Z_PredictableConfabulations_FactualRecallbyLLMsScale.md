@@ -1,12 +1,15 @@
 ---
-title: Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency
+
+title: "Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency"
 url: http://arxiv.org/abs/2605.18732v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_17-53-44Z_PredictableConfabulations_FactualRecallbyLLMsScale.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates how factual recall by large language models scales with model size and training‑data composition, finding a sigmoid relationship between parameter count and topic frequency that explains most of the variance in performance across diverse models.

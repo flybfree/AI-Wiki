@@ -1,12 +1,20 @@
 ---
+
 title: GENERATIVE Definition & Meaning - Merriam-Webster
 date: 2026-05-05
 url: https://www.merriam-webster.com/dictionary/generative
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://www.merriam-webster.com/dictionary/generative
-scraped: 2026-05-05 20:41
+scraped: "2026-05-05 20:41"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # GENERATIVE Definition & Meaning - Merriam-Webster
 

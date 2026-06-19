@@ -1,4 +1,12 @@
+---
+title: "2026 05 02 Open Sourcellmlandscape2026 Deepseekv4Vsllama4V Summary"
+date: 2026-05-02
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-05-02_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4v_.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-05-02 18:50
 Source: 2026-05-02_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4v_.md
 Model: qwen3.6:35b

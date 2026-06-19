@@ -1,12 +1,15 @@
 ---
-title: Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation
+
+title: "Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation"
 url: http://arxiv.org/abs/2605.31581v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_17-50-11Z_ChoosingtheLens_StrategicPerspectiveActivationinCo.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes Context‑Dependent Argumentation Frameworks (CDAFs) to model how the same argument can be judged differently under varying external regimes. It demonstrates that a target argument is rejected when all relevant attacks are activated, yet it survives under certain partial activations, one of which cannot be mirrored by any VAF audience. The authors also define the decision problem ACTIVATION‑MANIPULATION and establish baseline complexity bounds.

@@ -1,12 +1,15 @@
 ---
+
 title: Relaxation-Informed Training of Neural Network Surrogate Models
 url: http://arxiv.org/abs/2604.22746v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-24_17-46-55Z_Relaxation_InformedTrainingofNeuralNetworkSurrogat.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces training regularizers that directly target the tractability of mixed‑integer linear program (MILP) formulations derived from ReLU neural network surrogates. By penalizing large big‑M constants and unstable neurons, as well as the per‑sample LP relaxation gap, the authors achieve up to four orders of magnitude faster solves while preserving surrogate accuracy.

@@ -1,4 +1,12 @@
+---
+title: "2026 06 08 15 51 51Z Spatialworld Benchmarkinginteractivespatial Summary"
+date: 2026-06-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-08_15-51-51Z_SpatialWorld_BenchmarkingInteractiveSpatialReasoni.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-08 22:00
 Source: 2026-06-08_15-51-51Z_SpatialWorld_BenchmarkingInteractiveSpatialReasoni.md
 Model: None

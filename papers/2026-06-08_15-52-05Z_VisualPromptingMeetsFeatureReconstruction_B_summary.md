@@ -1,4 +1,12 @@
+---
+title: "2026 06 08 15 52 05Z Visualpromptingmeetsfeaturereconstruction B Summary"
+date: 2026-06-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-08 22:00
 Source: 2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md
 Model: None

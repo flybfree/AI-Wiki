@@ -1,12 +1,15 @@
 ---
+
 title: In-Context Learning for Data-Driven Censored Inventory Control
 url: http://arxiv.org/abs/2605.14840v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_13-45-20Z_In_ContextLearningforData_DrivenCensoredInventoryC.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper addresses inventory control under decision‑dependent censoring by proposing in‑context generative posterior sampling (ICGPS). The method learns latent demand completions offline and uses them online to generate optimal orders, achieving sublinear Bayesian regret that matches the best Thompson sampling benchmark plus a small deployment penalty. Experiments on both synthetic R‑Newsvendor problems and the real SuperStore dataset show that ICGPS outperforms myopic and UCB baselines and remains robust to prior mismatch and distribution shift.

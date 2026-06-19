@@ -1,12 +1,15 @@
 ---
-title: CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment
+
+title: "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment"
 url: http://arxiv.org/abs/2606.14691v1
 type: paper-summary
 date: 2026-06-14
 source_paper: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md
-generated_at: 2026-06-14 22:00
+generated_at: "2026-06-14 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates thinking‑answer inconsistency in reinforcement learning with verifiable rewards (RLVR) for large vision‑language models, demonstrating that the mismatch persists both during training and inference. The authors introduce Consistency‑Oriented Reasoning Alignment (CORA), a lightweight consistency reward model combined with Hybrid Reward Advantage Splitting (HRAS), which improves task performance while reducing semantic gaps between reasoning traces and final answers.

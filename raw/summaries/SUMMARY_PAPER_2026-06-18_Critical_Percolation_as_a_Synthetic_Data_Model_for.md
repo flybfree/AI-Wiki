@@ -1,12 +1,15 @@
 ---
+
 title: Critical Percolation as a Synthetic Data Model for Interpretability
 url: http://arxiv.org/abs/2606.20347v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelforInterpr.md
-generated_at: 2026-06-18 21:00
+generated_at: "2026-06-18 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a new class of synthetic datasets built from critical mean‑field percolation clusters, which mimic the hierarchical and multi‑scale structure present in natural data. The authors demonstrate that neural networks can decode the true latent variables underlying these percolation‑based targets with near‑linear complexity, showing that such models serve as reliable testbeds for interpretability research.

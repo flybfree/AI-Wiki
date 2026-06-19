@@ -1,4 +1,12 @@
+---
+title: "2026 05 20 13 19 27Z Detectingtrojaneddnnsviaspectralregressiona Summary"
+date: 2026-05-20
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-20_13-19-27Z_DetectingTrojanedDNNsviaSpectralRegressionAnalysis.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-20 21:03
 Source: 2026-05-20_13-19-27Z_DetectingTrojanedDNNsviaSpectralRegressionAnalysis.md
 Model: None

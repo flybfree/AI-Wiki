@@ -1,4 +1,12 @@
+---
+title: "2026 06 03 17 54 04Z Reinforcementlearningfromrichfeedbackwithdi Summary"
+date: 2026-06-03
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-03_17-54-04Z_ReinforcementLearningfromRichFeedbackwithDistribut.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-04 00:01
 Source: 2026-06-03_17-54-04Z_ReinforcementLearningfromRichFeedbackwithDistribut.md
 Model: None

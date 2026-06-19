@@ -1,12 +1,15 @@
 ---
+
 title: Safety and accuracy follow different scaling laws in clinical large language models
 url: http://arxiv.org/abs/2605.04039v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-05_17-57-19Z_Safetyandaccuracyfollowdifferentscalinglawsinclini.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates how safety and accuracy evolve differently as clinical large language models are scaled, using a benchmark of radiology multiple-choice questions. It finds that improving model size alone does not guarantee safer behavior; instead, evidence quality and retrieval design drive safety gains. The study shows clean evidence markedly reduces high‑risk errors while standard RAG approaches leave them elevated.

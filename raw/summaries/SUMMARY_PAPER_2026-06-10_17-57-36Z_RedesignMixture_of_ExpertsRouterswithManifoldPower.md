@@ -1,12 +1,15 @@
 ---
+
 title: Redesign Mixture-of-Experts Routers with Manifold Power Iteration
 url: http://arxiv.org/abs/2606.12397v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md
-generated_at: 2026-06-11 10:57
+generated_at: "2026-06-11 10:57"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a new router redesign for Mixture-of-Experts models that aligns each router row with the principal singular direction of its associated expert. By using Manifold Power Iteration, the method ensures routers converge to these expressive directions, improving token‑expert affinity and model performance across scales from 1B to 11B parameters.

@@ -1,12 +1,15 @@
 ---
-title: SupraBench: A Benchmark for Supramolecular Chemistry
+
+title: "SupraBench: A Benchmark for Supramolecular Chemistry"
 url: http://arxiv.org/abs/2606.13477v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_15-29-56Z_SupraBench_ABenchmarkforSupramolecularChemistry.md
-generated_at: 2026-06-11 21:00
+generated_at: "2026-06-11 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces SupraBench, a benchmark designed to evaluate large language models on core supramolecular chemistry tasks such as binding affinity prediction and host‑guest description. The study finds that LLMs show substantial headroom across all tasks and that domain adaptation using the released corpus improves performance in regression but may affect strict output formatting.

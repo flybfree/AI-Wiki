@@ -1,12 +1,15 @@
 ---
-title: The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning
+
+title: "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning"
 url: http://arxiv.org/abs/2606.19329v1
 type: paper-summary
 date: 2026-06-17
 source_paper: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md
-generated_at: 2026-06-17 22:00
+generated_at: "2026-06-17 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a machine‑learning framework that cross‑matches the Chandra Source Catalog with Gaia DR3 to identify true counterparts, detect chance coincidences, and resolve ambiguous matches. The authors report that 113 000 X‑ray sources have counterparts in Gaia, while separation‑based methods miss about 20 000 potential matches, half of which are likely false positives.

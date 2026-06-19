@@ -1,12 +1,15 @@
 ---
+
 title: Expert Evaluation of LLM's Open-Ended Legal Reasoning on the Japanese Bar Exam Writing Task
 url: http://arxiv.org/abs/2604.23730v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-26_14-15-43Z_ExpertEvaluationofLLM_sOpen_EndedLegalReasoningont.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a dataset for evaluating large language models' open-ended legal reasoning on the Japanese bar exam writing task. It reports that expert evaluations show significant gaps in structured argument generation and frequent hallucinations. The findings highlight current limitations of LLMs in this specialized domain.

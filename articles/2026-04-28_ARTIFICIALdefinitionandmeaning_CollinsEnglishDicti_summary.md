@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 Artificialdefinitionandmeaning Collinsenglishdicti Summary"
+date: 2026-04-28
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-28_ARTIFICIALdefinitionandmeaning_CollinsEnglishDicti.md
+
+
+**Source**: [Original Article](https://www.collinsdictionary.com/dictionary/english/artificial)
 Saved: 2026-05-07 22:34
 Source: 2026-04-28_ARTIFICIALdefinitionandmeaning_CollinsEnglishDicti.md
 Model: gpt-5.4-mini

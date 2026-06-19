@@ -1,12 +1,15 @@
 ---
+
 title: Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior
 url: http://arxiv.org/abs/2605.05091v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-06_16-29-35Z_Think_AloudReshapesAutomatedCognitiveModelDiscover.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how incorporating think‑aloud language traces can enhance automated discovery of cognitive models beyond the limitations imposed by behavioral data alone. The authors demonstrate that adding these process‑level constraints yields higher predictive accuracy and reveals a systematic shift in model structure from explicit comparator to integrated utility representations.

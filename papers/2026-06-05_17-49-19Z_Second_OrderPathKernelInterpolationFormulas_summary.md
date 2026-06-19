@@ -1,4 +1,12 @@
+---
+title: "2026 06 05 17 49 19Z Second Orderpathkernelinterpolationformulas Summary"
+date: 2026-06-05
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-05_17-49-19Z_Second_OrderPathKernelInterpolationFormulasinMachi.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-07 22:00
 Source: 2026-06-05_17-49-19Z_Second_OrderPathKernelInterpolationFormulasinMachi.md
 Model: None

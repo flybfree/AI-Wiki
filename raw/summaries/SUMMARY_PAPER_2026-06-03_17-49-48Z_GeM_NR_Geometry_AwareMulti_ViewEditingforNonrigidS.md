@@ -1,12 +1,15 @@
 ---
-title: GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes
+
+title: "GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes"
 url: http://arxiv.org/abs/2606.05142v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-03_17-49-48Z_GeM_NR_Geometry_AwareMulti_ViewEditingforNonrigidS.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 GeM-NR is a training-free method that enables multi-view consistent editing of images even when the edit changes both geometry and appearance.

@@ -1,12 +1,15 @@
 ---
-title: Order Matters: Improving Domain Adaptation by Reordering Data
+
+title: "Order Matters: Improving Domain Adaptation by Reordering Data"
 url: http://arxiv.org/abs/2605.05084v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-06_16-20-24Z_OrderMatters_ImprovingDomainAdaptationbyReordering.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces ORDERED, a technique that reduces variance in unsupervised domain adaptation by optimising the order of data sampling. The authors show that reordering training samples can lower discrepancy estimation error and improve target‑domain classification accuracy on benchmark datasets.

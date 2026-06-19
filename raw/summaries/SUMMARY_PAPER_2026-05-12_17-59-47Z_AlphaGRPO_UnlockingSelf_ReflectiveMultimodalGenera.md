@@ -1,12 +1,15 @@
 ---
-title: AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward
+
+title: "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward"
 url: http://arxiv.org/abs/2605.12495v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_17-59-47Z_AlphaGRPO_UnlockingSelf_ReflectiveMultimodalGenera.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 AlphaGRPO introduces Group Relative Policy Optimization for AR-Diffusion Unified Multimodal Models (UMMs) to boost multimodal generation without a cold-start stage. The framework enables reasoning‑based text‑to‑image tasks and self‑reflective refinement through a novel reward system.

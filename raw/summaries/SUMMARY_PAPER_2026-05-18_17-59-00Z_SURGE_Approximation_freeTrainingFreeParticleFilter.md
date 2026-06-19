@@ -1,12 +1,15 @@
 ---
-title: SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate
+
+title: "SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate"
 url: http://arxiv.org/abs/2605.18745v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_17-59-00Z_SURGE_Approximation_freeTrainingFreeParticleFilter.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces URGE, a derivative‑free inference‑time scaling algorithm for diffusion surrogates that improves sample quality without requiring score or gradient evaluations. By attaching simple multiplicative weights to simulated trajectories and periodically resampling, URGE achieves unbiased terminal distributions comparable to more complex methods. The approach is both simpler to implement and significantly outperforms existing guidance baselines on synthetic and real‑world tests.

@@ -1,12 +1,15 @@
 ---
-title: CoarseSoundNet: Building a reliable model for ecological soundscape analysis
+
+title: "CoarseSoundNet: Building a reliable model for ecological soundscape analysis"
 url: http://arxiv.org/abs/2605.21143v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_13-18-11Z_CoarseSoundNet_Buildingareliablemodelforecological.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces CoarseSoundNet, a deep learning model designed to classify biophony, geophony, and anthropophony in noisy passive acoustic monitoring recordings. It demonstrates that incorporating an explicit silence class and using training data similar to the target environment markedly improves classification accuracy.

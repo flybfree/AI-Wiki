@@ -1,12 +1,15 @@
 ---
-title: ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning
+
+title: "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning"
 url: http://arxiv.org/abs/2606.02576v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-01_17-59-13Z_ProtoAda_Prototype_GuidedAdaptiveAdapterExpansiona.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 ProtoAda introduces a prototype‑guided adaptive framework for multimodal continual instruction tuning that aligns task assignment with both semantic meaning and output structure, while consolidating format‑compatible updates in a geometry‑aware manner. The method reduces inter‑task interference by preventing similar visual‑linguistic semantics from sharing parameters across tasks with different response formats, thereby improving performance especially on tasks whose answer structures are easily corrupted by sequential tuning.

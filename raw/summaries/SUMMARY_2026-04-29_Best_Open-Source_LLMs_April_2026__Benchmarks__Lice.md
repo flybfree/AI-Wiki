@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Best Open Source Llms April 2026 Benchmarks Lice"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Best Open Source Llms April 2026  Benchmarks  Lice
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: Best Open-Source LLMs April 2026: Benchmarks, Licensing
 Article text:
 

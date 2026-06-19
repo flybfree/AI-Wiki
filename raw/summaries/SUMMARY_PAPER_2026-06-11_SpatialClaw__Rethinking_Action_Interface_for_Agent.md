@@ -1,12 +1,15 @@
 ---
-title: SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning
+
+title: "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning"
 url: http://arxiv.org/abs/2606.13673v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md
-generated_at: 2026-06-11 23:00
+generated_at: "2026-06-11 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces SpatialClaw, a training-free framework that uses code as the action interface for VLM‑backed agents to perform open-ended spatial reasoning in 3D and 4D. By allowing agents to write executable Python cells on each step, SpatialClaw enables flexible composition of perception and geometry primitives without retraining or adapting to specific benchmarks. The framework achieves an average accuracy of 59.9 % across twenty tasks, outperforming the latest spatial agent by eleven points.

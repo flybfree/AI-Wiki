@@ -1,12 +1,15 @@
 ---
-title: AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning
+
+title: "AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning"
 url: http://arxiv.org/abs/2606.20373v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md
-generated_at: 2026-06-18 21:00
+generated_at: "2026-06-18 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 AutoPass is a multi‑agent framework that uses compiler and runtime evidence to guide LLM‑driven optimization decisions for LLVM. The method iteratively refines configuration using measured latency feedback, achieving geometric‑mean speedups of 1.043× on x86‑64 and 1.117× on ARM64 over standard -O3.

@@ -1,12 +1,15 @@
 ---
-title: Reasoning Depth and Environment Complexity: A Controlled Study of RLVR Data Allocation across Logical Reasoning Tasks
+
+title: "Reasoning Depth and Environment Complexity: A Controlled Study of RLVR Data Allocation across Logical Reasoning Tasks"
 url: http://arxiv.org/abs/2605.26934v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_12-28-08Z_ReasoningDepthandEnvironmentComplexity_AControlled.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a controlled study of RLVR data allocation across logical reasoning tasks to explore how difficulty is shaped by both reasoning depth and environment complexity. It finds that joint coverage of these dimensions yields better performance than focusing on one axis alone, and that recent models show a consistent deductive‑over‑abductive bias.

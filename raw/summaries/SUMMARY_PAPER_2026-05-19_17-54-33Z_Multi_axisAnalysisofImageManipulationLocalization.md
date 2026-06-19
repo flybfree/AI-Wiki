@@ -1,12 +1,15 @@
 ---
+
 title: Multi-axis Analysis of Image Manipulation Localization
 url: http://arxiv.org/abs/2605.20174v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-19_17-54-33Z_Multi_axisAnalysisofImageManipulationLocalization.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces AUDITS, a benchmark for studying image manipulation detection across four axes: domain‑shift, quality, type, and size. The authors evaluate existing methods on over 530 K images spanning user and news photos, showing that current approaches struggle under varied shifts.

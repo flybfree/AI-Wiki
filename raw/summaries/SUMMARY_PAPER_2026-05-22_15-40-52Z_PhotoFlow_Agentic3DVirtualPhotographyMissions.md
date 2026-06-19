@@ -1,12 +1,15 @@
 ---
-title: PhotoFlow: Agentic 3D Virtual Photography Missions
+
+title: "PhotoFlow: Agentic 3D Virtual Photography Missions"
 url: http://arxiv.org/abs/2605.23771v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_15-40-52Z_PhotoFlow_Agentic3DVirtualPhotographyMissions.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 PhotoFlow introduces a three‑stage agent architecture that enables an LLM‑driven virtual photographer to generate high‑quality photographs from language commands in arbitrary Blender 3D scenes. The system outperforms prior methods on a benchmark of 47 scenes and 141 missions, achieving the highest composite quality score and success rate under a limited rendering budget.

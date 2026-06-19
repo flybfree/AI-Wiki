@@ -1,12 +1,15 @@
 ---
-title: EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction
+
+title: "EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction"
 url: http://arxiv.org/abs/2605.08073v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_17-56-01Z_EmambaIR_EfficientVisualStateSpaceModelforEvent_gu.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes EmambaIR, an efficient visual state space model for event‑guided image reconstruction that overcomes the limitations of CNNs and ViTs by using sparse attention and gated SSMs. It achieves superior reconstruction quality across multiple tasks while reducing memory usage and computational cost. The authors release code and data for further research.

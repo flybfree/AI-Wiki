@@ -1,12 +1,15 @@
 ---
+
 title: Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty
 url: http://arxiv.org/abs/2605.26093v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-25_17-53-18Z_Goal_drivenBayesianOptimalExperimentalDesignforRob.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces GoBOED, a goal‑driven Bayesian optimal experimental design that optimizes experiments for a specified decision objective rather than merely maximizing information gain. It demonstrates that GoBOED gradients are insensitive to parameter directions irrelevant to the decision and empirically outperforms standard BOED in several applications.

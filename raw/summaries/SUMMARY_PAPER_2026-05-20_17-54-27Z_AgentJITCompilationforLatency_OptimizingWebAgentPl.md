@@ -1,12 +1,15 @@
 ---
+
 title: Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling
 url: http://arxiv.org/abs/2605.21470v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_17-54-27Z_AgentJITCompilationforLatency_OptimizingWebAgentPl.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces agent JIT compilation to reduce latency in computer-use agents by compiling natural language tasks into executable code that directly calls tools, avoiding the sequential fetch-screenshot-execute loop of current implementations. Across five web applications, the approach yields a tenfold speedup and improved accuracy compared with existing methods.

@@ -1,12 +1,15 @@
 ---
+
 title: Query-Conditioned Test-Time Self-Training for Large Language Models
 url: http://arxiv.org/abs/2605.13369v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_11-27-40Z_Query_ConditionedTest_TimeSelf_TrainingforLargeLan.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Query-Conditioned Test-Time Self-Training (QueST), a method that adapts large language model parameters during inference using supervision derived directly from the input query. The framework creates query‑conditioned problem–solution pairs and uses them for parameter‑efficient fine‑tuning, enabling query‑specific adaptation without external data. Across multiple benchmarks, QueST outperforms existing test‑time optimization baselines.

@@ -1,12 +1,15 @@
 ---
-title: FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery
+
+title: "FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery"
 url: http://arxiv.org/abs/2605.14854v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_13-59-56Z_FactorizedHMR_AHybridFrameworkforVideoHumanMeshRec.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 FactorizedHMR introduces a two‑stage hybrid framework for video human mesh recovery that separates torso‑root reconstruction from the uncertain distal articulations of arms and legs. By using deterministic regression for the stable anchor and probabilistic flow‑matching for the rest, the method achieves reliable single‑reference results even under occlusion.

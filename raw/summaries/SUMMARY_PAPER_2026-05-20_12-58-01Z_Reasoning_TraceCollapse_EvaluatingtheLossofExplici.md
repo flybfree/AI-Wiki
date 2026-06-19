@@ -1,12 +1,15 @@
 ---
-title: Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning
+
+title: "Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning"
 url: http://arxiv.org/abs/2605.21127v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_12-58-01Z_Reasoning_TraceCollapse_EvaluatingtheLossofExplici.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates why explicit reasoning traces disappear after fine‑tuning models on instruction‑response data that lacks such traces. The authors demonstrate a phenomenon called reasoning‑trace collapse where models retain answer accuracy but lose structurally valid reasoning steps. Their framework quantifies trace validity alongside task performance, revealing that standard metrics hide this degradation.

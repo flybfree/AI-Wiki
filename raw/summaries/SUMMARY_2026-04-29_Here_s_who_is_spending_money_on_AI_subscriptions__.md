@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Here S Who Is Spending Money On Ai Subscriptions"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Here S Who Is Spending Money On Ai Subscriptions  
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: Here's who is spending money on AI subscriptions, and how ... - CBS News
 Article text:
 

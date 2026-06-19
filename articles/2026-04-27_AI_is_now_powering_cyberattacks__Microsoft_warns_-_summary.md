@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 Ai Is Now Powering Cyberattacks Microsoft Warns Summary"
+date: 2026-04-27
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-27_AI_is_now_powering_cyberattacks__Microsoft_warns_-.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 17:57
 Source: 2026-04-27_AI_is_now_powering_cyberattacks__Microsoft_warns_-.md
 Model: qwen3.6:35b

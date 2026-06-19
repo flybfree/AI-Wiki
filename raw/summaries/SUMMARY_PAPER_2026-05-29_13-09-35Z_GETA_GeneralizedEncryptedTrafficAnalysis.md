@@ -1,12 +1,15 @@
 ---
-title: GETA: Generalized Encrypted Traffic Analysis
+
+title: "GETA: Generalized Encrypted Traffic Analysis"
 url: http://arxiv.org/abs/2605.31277v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_13-09-35Z_GETA_GeneralizedEncryptedTrafficAnalysis.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces GETA, a protocol‑agnostic framework that analyzes encrypted network traffic using only metadata as multivariate time series. By leveraging meta‑learning, embedding refinement, and self‑attention, GETA adapts to unseen domains with few labeled examples. Across nine public datasets, GETA consistently outperforms state‑of‑the‑art baselines.

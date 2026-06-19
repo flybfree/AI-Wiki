@@ -1,12 +1,15 @@
 ---
+
 title: Detecting Sensitive Personal Information in Japanese Pre-Training Corpora for Large Language Models
 url: http://arxiv.org/abs/2606.12114v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper aims to detect sensitive personal information defined as special care‑required personal information (SCPI) under Japan’s Act on the Protection of Personal Information (APPI) within Japanese pre‑training corpora for large language models. It constructs an SCPI dataset using LLM‑based annotation and trains a classifier that can effectively identify SCPI content, marking this as the first study to explore SCPI detection in Japanese text.

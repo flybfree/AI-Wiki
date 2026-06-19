@@ -1,12 +1,15 @@
 ---
-title: SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation
+
+title: "SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation"
 url: http://arxiv.org/abs/2604.20842v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-22_17-59-58Z_SpeechParaling_Bench_AComprehensiveBenchmarkforPar.md
-generated_at: 2026-06-11 10:25
+generated_at: "2026-06-11 10:25"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces SpeechParaling-Bench, a comprehensive benchmark for paralinguistic-aware speech generation that expands existing feature coverage from fewer than 50 to over 100 fine-grained features and uses more than 1,000 English-Chinese parallel queries. It demonstrates that current Large Audio-Language Models (LALMs) suffer substantial limitations in static control and dynamic modulation of paralinguistic cues.

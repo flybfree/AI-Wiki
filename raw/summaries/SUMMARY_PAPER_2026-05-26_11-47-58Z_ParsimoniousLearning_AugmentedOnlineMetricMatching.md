@@ -1,12 +1,15 @@
 ---
+
 title: Parsimonious Learning-Augmented Online Metric Matching
 url: http://arxiv.org/abs/2605.26886v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_11-47-58Z_ParsimoniousLearning_AugmentedOnlineMetricMatching.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a parsimonious learning‑augmented algorithm for online metric matching that extends the Follow‑the‑Prediction framework by inserting a virtual prediction when no real one exists. The authors establish lower bounds on the performance of such algorithms and demonstrate their practical effectiveness through empirical experiments.

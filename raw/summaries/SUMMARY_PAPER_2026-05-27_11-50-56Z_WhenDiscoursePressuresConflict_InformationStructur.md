@@ -1,12 +1,15 @@
 ---
-title: When Discourse Pressures Conflict: Information Structure in Vision-Language Model Outputs
+
+title: "When Discourse Pressures Conflict: Information Structure in Vision-Language Model Outputs"
 url: http://arxiv.org/abs/2605.28346v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_11-50-56Z_WhenDiscoursePressuresConflict_InformationStructur.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper investigates how vision‑language models structure their answers to visually grounded questions and whether they respect the discourse rules of Hungarian. It finds that while models generate IS‑relevant sentences, they over‑regularise and collapse onto narrow templates, unlike human speakers who adapt to topic, focus, grammatical role, and definiteness.

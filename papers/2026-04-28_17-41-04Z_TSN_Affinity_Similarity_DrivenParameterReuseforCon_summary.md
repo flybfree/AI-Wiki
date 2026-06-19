@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 17 41 04Z Tsn Affinity Similarity Drivenparameterreuseforcon Summary"
+date: 2026-04-28
+tags: ['paper', 'research', 'ai']
+---
 # TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.25898v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-28_17-41-04Z_TSN_Affinity_Similarity_DrivenParameterReuseforCon.md
 

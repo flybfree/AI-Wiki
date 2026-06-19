@@ -1,12 +1,15 @@
 ---
+
 title: Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models
 url: http://arxiv.org/abs/2605.05090v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-06_16-27-23Z_AutomaticallyFindingandValidatingUnexpectedSide_Ef.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces an automated contrastive evaluation pipeline that audits how interventions affect large language model behavior by comparing outputs across aligned prompts and generating human‑readable, statistically validated hypotheses. The method reliably detects both intended and unexpected changes in three real‑world interventions—reasoning distillation, knowledge editing, and unlearning—while avoiding hallucinations when no effect exists.

@@ -1,12 +1,15 @@
 ---
+
 title: Random-Set Graph Neural Networks
 url: http://arxiv.org/abs/2605.11987v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_11-38-13Z_Random_SetGraphNeuralNetworks.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Random-Set Graph Neural Networks that model epistemic uncertainty using belief functions and finite random sets, achieving superior uncertainty quantification on nine graph datasets including Nuscene and ROAD. The framework integrates a belief‑function head into GNNs to produce both precise probability predictions and a quantitative measure of uncertainty.

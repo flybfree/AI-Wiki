@@ -1,12 +1,15 @@
 ---
-title: Multi-Stakeholder LLM Alignment: Decomposing Estimation from Aggregation
+
+title: "Multi-Stakeholder LLM Alignment: Decomposing Estimation from Aggregation"
 url: http://arxiv.org/abs/2605.26878v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_11-37-43Z_Multi_StakeholderLLMAlignment_DecomposingEstimatio.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper addresses the instability of multi‑stakeholder LLM alignment caused by conflated utility estimation and aggregation. It demonstrates that weighting noise from conflicting stakeholder preferences can shift scores dramatically as more stakeholders are added. The authors introduce DecompR, a method that fixes calibration weights from query structure before scoring while estimating per‑role utilities independently.

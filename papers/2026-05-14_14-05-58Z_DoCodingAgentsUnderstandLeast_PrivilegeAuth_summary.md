@@ -1,4 +1,12 @@
+---
+title: "2026 05 14 14 05 58Z Docodingagentsunderstandleast Privilegeauth Summary"
+date: 2026-05-14
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-14_14-05-58Z_DoCodingAgentsUnderstandLeast_PrivilegeAuthorizati.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-14 21:04
 Source: 2026-05-14_14-05-58Z_DoCodingAgentsUnderstandLeast_PrivilegeAuthorizati.md
 Model: None

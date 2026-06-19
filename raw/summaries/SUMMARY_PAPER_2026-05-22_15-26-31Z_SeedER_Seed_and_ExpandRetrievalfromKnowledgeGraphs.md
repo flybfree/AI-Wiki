@@ -1,12 +1,15 @@
 ---
-title: SeedER: Seed-and-Expand Retrieval from Knowledge Graphs
+
+title: "SeedER: Seed-and-Expand Retrieval from Knowledge Graphs"
 url: http://arxiv.org/abs/2605.23753v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_15-26-31Z_SeedER_Seed_and_ExpandRetrievalfromKnowledgeGraphs.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces SeedER, a retrieval framework that seeds compact core nodes using lightweight dense and entity‑based methods and then expands them iteratively via a learned graph‑aware policy to improve recall for knowledge‑graph queries while controlling computational cost. It demonstrates theoretical limits of dense retrieval on compositional queries and shows empirical gains over baselines with smaller candidate sets.

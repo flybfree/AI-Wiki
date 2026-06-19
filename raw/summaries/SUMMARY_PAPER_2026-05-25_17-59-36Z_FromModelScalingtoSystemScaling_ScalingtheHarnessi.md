@@ -1,12 +1,15 @@
 ---
-title: From Model Scaling to System Scaling: Scaling the Harness in Agentic AI
+
+title: "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI"
 url: http://arxiv.org/abs/2605.26112v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-25_17-59-36Z_FromModelScalingtoSystemScaling_ScalingtheHarnessi.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper argues that the next bottleneck in agentic AI is system scaling, focusing on designing an auditable harness around foundation models. It introduces CheetahClaws as a reference harness and shows that progress depends on both model strength and harness design.

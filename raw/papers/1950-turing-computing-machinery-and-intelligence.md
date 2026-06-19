@@ -12,8 +12,16 @@ related_papers:
   - "1991-improving-neural-networks-by-preventing-co-adaptation.md"
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
+
 # Computing Machinery and Intelligence
 
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 **Alan Turing, published in Mind (1950)**
 Originally published as "The Imitation Game" in Mind, Vol. 59, No. 236, pp. 433-460.
 Public domain — the arguments are from the original 1950 text.

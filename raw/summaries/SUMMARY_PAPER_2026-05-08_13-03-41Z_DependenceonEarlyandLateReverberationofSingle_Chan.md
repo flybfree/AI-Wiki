@@ -1,12 +1,15 @@
 ---
+
 title: Dependence on Early and Late Reverberation of Single-Channel Speaker Distance Estimation
 url: http://arxiv.org/abs/2605.07694v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_13-03-41Z_DependenceonEarlyandLateReverberationofSingle_Chan.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how a single‑channel speaker distance estimator uses the room impulse response and what happens when its timing information is unavailable. By creating four RIR variants and testing both calibrated and uncalibrated scenarios, the authors find that without time calibration the model relies on early reflections and suffers larger errors, while with calibration it can achieve high accuracy using only propagation delay.

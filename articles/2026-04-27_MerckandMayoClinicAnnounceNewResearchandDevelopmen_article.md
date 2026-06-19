@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://www.merck.com/news/merck-and-mayo-clinic-announce-new-research-and-development-collaboration-to-support-ai-enabled-drug-discovery-and-precision-medicine/)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-27_MerckandMayoClinicAnnounceNewResearchandDevelopmen.md

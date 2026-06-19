@@ -1,12 +1,15 @@
 ---
+
 title: Topology-Preserving Neural Operator Learning via Hodge Decomposition
 url: http://arxiv.org/abs/2605.13834v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_17-56-23Z_Topology_PreservingNeuralOperatorLearningviaHodgeD.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates solution operators for field equations on geometric meshes by viewing them as functions in a function space. It shows that Hodge orthogonality separates unlearnable topological degrees of freedom from learnable dynamics, allowing an additive approximation within structure‑preserving subspaces and introducing the Hodge Spectral Duality (HSD) bias.

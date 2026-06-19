@@ -1,12 +1,15 @@
 ---
-title: Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization
+
+title: "Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization"
 url: http://arxiv.org/abs/2605.11974v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_11-31-18Z_TowardsOrderFairness_MitigatingLLMsOrderSensitivit.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Dual Group Advantage Optimization (DGAO) to reduce order bias in large language models by balancing accuracy and stability through reinforcement learning. Experiments show DGAO improves performance on RAG, math reasoning, and classification while achieving superior order fairness compared with prior methods.

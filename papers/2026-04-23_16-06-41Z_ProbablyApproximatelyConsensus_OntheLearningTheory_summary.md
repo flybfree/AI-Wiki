@@ -1,4 +1,12 @@
+---
+title: "2026 04 23 16 06 41Z Probablyapproximatelyconsensus Onthelearningtheory Summary"
+date: 2026-04-23
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-23_16-06-41Z_ProbablyApproximatelyConsensus_OntheLearningTheory
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.21811v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-23_16-06-41Z_ProbablyApproximatelyConsensus_OntheLearningTheory.md
 Model: None

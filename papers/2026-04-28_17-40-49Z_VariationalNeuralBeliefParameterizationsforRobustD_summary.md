@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 17 40 49Z Variationalneuralbeliefparameterizationsforrobustd Summary"
+date: 2026-04-28
+tags: ['paper', 'research', 'ai']
+---
 # Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.25897v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-28_17-40-49Z_VariationalNeuralBeliefParameterizationsforRobustD.md
 

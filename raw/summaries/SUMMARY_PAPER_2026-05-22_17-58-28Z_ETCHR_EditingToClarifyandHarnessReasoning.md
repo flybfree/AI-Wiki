@@ -1,12 +1,15 @@
 ---
-title: ETCHR: Editing To Clarify and Harness Reasoning
+
+title: "ETCHR: Editing To Clarify and Harness Reasoning"
 url: http://arxiv.org/abs/2605.23897v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_17-58-28Z_ETCHR_EditingToClarifyandHarnessReasoning.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces ETCHR, an editing model that clarifies and harnesses reasoning by decoupling image editing from understanding models. It improves Pass@1 scores across multiple tasks with various MLLMs.

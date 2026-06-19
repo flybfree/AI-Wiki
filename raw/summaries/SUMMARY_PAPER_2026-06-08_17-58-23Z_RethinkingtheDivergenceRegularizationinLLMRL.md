@@ -1,12 +1,15 @@
 ---
+
 title: Rethinking the Divergence Regularization in LLM RL
 url: http://arxiv.org/abs/2606.09821v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_17-58-23Z_RethinkingtheDivergenceRegularizationinLLMRL.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes Divergence Regularized Policy Optimization (DRPO) to improve reinforcement learning training of large language models by replacing hard ratio clipping with a smooth divergence‑based regularizer that corrects policy shifts beyond the trust region. Experiments show DRPO yields more stable and efficient updates across various model sizes, architectures, and precision settings.

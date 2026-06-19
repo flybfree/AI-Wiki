@@ -1,12 +1,15 @@
 ---
-title: ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control
+
+title: "ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control"
 url: http://arxiv.org/abs/2604.20816v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-22_17-44-56Z_ParetoSlider_DiffusionModelsPost_TrainingforContin.md
-generated_at: 2026-06-11 10:25
+generated_at: "2026-06-11 10:25"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces ParetoSlider, a method for training diffusion models to approximate the full Pareto front of multi-objective preferences. By conditioning on continuously varying preference weights, it allows inference‑time control over conflicting goals without retraining or multiple checkpoints. Experiments show that a single model matches or exceeds separate baseline performance across three state‑of‑the‑art backbones.

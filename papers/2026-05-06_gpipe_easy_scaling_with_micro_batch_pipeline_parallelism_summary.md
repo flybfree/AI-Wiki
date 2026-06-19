@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 Gpipe Easy Scaling With Micro Batch Pipeline Parallelism Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism
+
+
+**Source**: [Original Paper](https://arxiv.org/abs/1811.06965)
 Saved: 2026-05-07 22:08
 Source: 2026-05-06_gpipe_easy_scaling_with_micro_batch_pipeline_parallelism.md
 

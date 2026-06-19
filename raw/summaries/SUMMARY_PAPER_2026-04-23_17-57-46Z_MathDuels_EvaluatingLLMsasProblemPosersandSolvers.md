@@ -1,12 +1,15 @@
 ---
-title: MathDuels: Evaluating LLMs as Problem Posers and Solvers
+
+title: "MathDuels: Evaluating LLMs as Problem Posers and Solvers"
 url: http://arxiv.org/abs/2604.21916v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_17-57-46Z_MathDuels_EvaluatingLLMsasProblemPosersandSolvers.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces MathDuels, a self‑play benchmark that forces frontier language models to both create and solve mathematical problems under adversarial prompting. Experiments across 19 state‑of‑the‑art models show that authoring and solving capabilities are not perfectly correlated, exposing skill gaps invisible in single‑role evaluations.

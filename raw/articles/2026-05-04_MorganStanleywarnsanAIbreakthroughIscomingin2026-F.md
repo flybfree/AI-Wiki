@@ -1,12 +1,20 @@
 ---
+
 title: Morgan Stanley warns an AI breakthrough Is coming in 2026 - Fortune
 date: 2026-05-04
 url: https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://fortune.com/2026/03/13/elon-musk-morgan-stanley-ai-leap-2026/
-scraped: 2026-05-04 17:00
+scraped: "2026-05-04 17:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # Morgan Stanley warns an AI breakthrough Is coming in 2026 - Fortune
 

@@ -1,12 +1,15 @@
 ---
-title: MEME: Multi-entity & Evolving Memory Evaluation
+
+title: "MEME: Multi-entity & Evolving Memory Evaluation"
 url: http://arxiv.org/abs/2605.12477v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_17-55-10Z_MEME_Multi_entity_EvolvingMemoryEvaluation.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces MEME, a benchmark that tests six memory tasks across multi‑entity and evolving scenarios, including three new ones: Cascade, Absence, and Deletion. Experiments on 100 episodes show all current LLM agents collapse on dependency reasoning despite good static retrieval, only a costly file‑based Claude Opus configuration partially fixes it.

@@ -1,4 +1,12 @@
+---
+title: "2026 05 08 17 50 15Z Flow Opd On Policydistillationforflowmatchi Summary"
+date: 2026-05-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-08_17-50-15Z_Flow_OPD_On_PolicyDistillationforFlowMatchingModel.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-10 22:53
 Source: 2026-05-08_17-50-15Z_Flow_OPD_On_PolicyDistillationforFlowMatchingModel.md
 Model: None

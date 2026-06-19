@@ -11,8 +11,16 @@ source_pages:
   - ilya-sutskever-reading-list-study-order.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 11: Large Language Models: The Modern AI Interface
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-10-generative-ai-creating-new-content.md|Lesson 10: Generative AI: Creating New Content]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

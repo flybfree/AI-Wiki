@@ -1,12 +1,15 @@
 ---
+
 title: Augmenting Molecular Language Models with Local $n$-gram Memory
 url: http://arxiv.org/abs/2606.12113v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes MolGram, a method that adds an $n$-gram memory module to transformer models for SMILES strings. It improves generation and prediction tasks by injecting local pattern context without changing tokenization.

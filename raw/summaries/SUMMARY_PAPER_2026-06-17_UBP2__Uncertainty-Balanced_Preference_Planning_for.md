@@ -1,12 +1,15 @@
 ---
-title: UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning
+
+title: "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning"
 url: http://arxiv.org/abs/2606.19328v1
 type: paper-summary
 date: 2026-06-17
 source_paper: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md
-generated_at: 2026-06-17 22:00
+generated_at: "2026-06-17 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Uncertainty-Balanced Preference Planning (UBP2), a model‑based method that learns reward models from pairwise behavior comparisons while actively exploring the environment by balancing exploitation and information gathering. The authors show that UBP2 yields sublinear regret guarantees in both finite‑ and infinite‑horizon settings and achieves higher sample efficiency on Meta‑World than existing preference‑based RL approaches.

@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 Neural Network Architectures Geeksforgeeks Summary"
+date: 2026-04-27
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-27_Neural_Network_Architectures_-_GeeksforGeeks.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 17:59
 Source: 2026-04-27_Neural_Network_Architectures_-_GeeksforGeeks.md
 Model: qwen3.6:35b

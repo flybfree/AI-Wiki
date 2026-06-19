@@ -1,12 +1,15 @@
 ---
-title: Multimodal QUD: Inquisitive Questions from Scientific Figures
+
+title: "Multimodal QUD: Inquisitive Questions from Scientific Figures"
 url: http://arxiv.org/abs/2604.23733v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-26_14-25-23Z_MultimodalQUD_InquisitiveQuestionsfromScientificFi.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces MQUD, a multimodal dataset that conditions inquisitive questions on both scientific figures and the surrounding textual context. By fine‑tuning vision‑language models on this data, the authors demonstrate that models can generate higher‑level, content‑specific questions that require reasoning across modalities rather than merely extracting facts.

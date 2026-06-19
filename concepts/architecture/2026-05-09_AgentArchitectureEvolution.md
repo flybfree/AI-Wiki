@@ -1,9 +1,22 @@
+---
+title: "2026 05 09 Agentarchitectureevolution"
+date: 2026-05-09
+tags: ['concept', 'ai', 'ml']
+---
+
+## Summary
+
+Placeholder summary — please add a concise summary.
+
 title: Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)
 date: 2026-05-09
 tags: [agent-architecture, evolution, prompting-patterns, reasoning-patterns, tool-use, agentic]
 
 # Agent Architecture Evolution
 
+
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 This entry maps the full evolution of agent reasoning architectures, from early single-pass approaches through modern multi-step, tool-using, self-reflecting workflows.
 
 ## Architecture Timeline

@@ -1,12 +1,15 @@
 ---
+
 title: Code as Agent Harness
 url: http://arxiv.org/abs/2605.18747v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_17-59-03Z_CodeasAgentHarness.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces the concept of code as agent harness, framing code as the infrastructure that enables agents to reason, act, and model environments. It surveys three layers: interface, mechanisms, and scaling, highlighting methods across various applications. The authors propose a unified roadmap for building executable, verifiable AI agents.

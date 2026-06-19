@@ -1,4 +1,12 @@
+---
+title: "2026 06 10 14 12 19Z Soft Prompttuningforfairandefficientllmbenc Summary"
+date: 2026-06-10
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-10 20:59
 Source: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md
 Model: None

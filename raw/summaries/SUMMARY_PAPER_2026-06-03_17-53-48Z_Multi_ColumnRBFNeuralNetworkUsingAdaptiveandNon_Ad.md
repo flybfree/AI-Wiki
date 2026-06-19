@@ -1,12 +1,15 @@
 ---
+
 title: Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization
 url: http://arxiv.org/abs/2606.05150v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-03_17-53-48Z_Multi_ColumnRBFNeuralNetworkUsingAdaptiveandNon_Ad.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces two new methods, multi‑column RBFN with particle swarm optimization (MC‑PSO) and multi‑column RBFN with adaptive PSO (MC‑APSO), that improve the performance of radial basis function neural networks on large datasets. Experiments show these approaches surpass gradient‑based ErrCor, PSO, APSO, and the existing MCRN in accuracy, recall, training time, and testing speed.

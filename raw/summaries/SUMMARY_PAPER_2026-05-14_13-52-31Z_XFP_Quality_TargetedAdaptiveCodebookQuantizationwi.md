@@ -1,12 +1,15 @@
 ---
-title: XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference
+
+title: "XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference"
 url: http://arxiv.org/abs/2605.14844v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_13-52-31Z_XFP_Quality_TargetedAdaptiveCodebookQuantizationwi.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 XFP is a dynamic weight quantizer designed to improve LLM inference by automatically selecting codebook parameters such as size and outlier budget without manual calibration. The paper demonstrates that XFP reaches 138 tokens per second on the Qwen3.5-122B-A10B model at 94.49% GSM8K strict-match, outperforming Marlin INT4 in both speed and accuracy.

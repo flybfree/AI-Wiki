@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://dictionary.cambridge.org/dictionary/english/artificial)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-25_ARTIFICIAL_Englishmeaning_CambridgeDictionary.md

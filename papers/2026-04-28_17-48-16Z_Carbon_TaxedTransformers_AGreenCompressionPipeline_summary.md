@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 17 48 16Z Carbon Taxedtransformers Agreencompressionpipeline Summary"
+date: 2026-04-28
+tags: ['paper', 'research', 'ai']
+---
 # Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.25903v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-28_17-48-16Z_Carbon_TaxedTransformers_AGreenCompressionPipeline.md
 

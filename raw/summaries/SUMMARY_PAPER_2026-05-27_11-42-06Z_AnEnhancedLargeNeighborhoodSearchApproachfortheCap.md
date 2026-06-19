@@ -1,12 +1,15 @@
 ---
+
 title: An Enhanced Large Neighborhood Search Approach for the Capacitated Facility Location Problem with Incompatible Customers
 url: http://arxiv.org/abs/2605.28337v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_11-42-06Z_AnEnhancedLargeNeighborhoodSearchApproachfortheCap.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a Large Neighborhood Search method for the capacitated facility location problem with incompatible customers, where certain pairs cannot share a service. It combines three destroy operators in a hybrid way and uses an exact solver to repair infeasible neighborhoods. Experiments show that the new LNS approach yields better solutions than current metaheuristics on all benchmark instances.

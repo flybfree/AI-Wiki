@@ -1,12 +1,15 @@
 ---
+
 title: Detection and Interpretability Analysis of Quotation Errors by Large Language Models
 url: http://arxiv.org/abs/2606.08589v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-07_12-01-48Z_DetectionandInterpretabilityAnalysisofQuotationErr.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper tackles the problem of quotation error, which occurs when cited information does not match its original source, by proposing an automated detection system based on a large language model. The authors fine‑tune an LLM and evaluate three ways to embed full‑text data, finding that using only the source abstract yields the highest accuracy.

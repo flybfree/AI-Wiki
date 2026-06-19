@@ -1,12 +1,15 @@
 ---
-title: Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours
+
+title: "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours"
 url: http://arxiv.org/abs/2605.04019v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-05_17-43-52Z_RedefiningAIRedTeamingintheAgenticEra_FromWeekstoH.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces an AI red teaming agent that automates the creation of adversarial workflows, reducing manual effort from weeks to hours. It demonstrates success on a multi‑agent system and Meta Llama Scout with high attack rates using only natural‑language commands.

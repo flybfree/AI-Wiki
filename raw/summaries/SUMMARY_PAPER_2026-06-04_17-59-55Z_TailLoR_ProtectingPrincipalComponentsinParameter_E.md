@@ -1,12 +1,15 @@
 ---
-title: TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning
+
+title: "TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning"
 url: http://arxiv.org/abs/2606.06494v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-04_17-59-55Z_TailLoR_ProtectingPrincipalComponentsinParameter_E.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 TailLoR introduces a parameter-efficient continual learning method that leverages the singular bases of pre-trained models as a fixed reference frame to compute low-rank updates on the singular value matrix. By applying a soft spectral penalty, the approach discourages alignment with dominant singular directions, thereby minimizing interference and preserving principal components for fine-grained adaptation.

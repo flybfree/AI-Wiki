@@ -11,8 +11,16 @@ source_pages:
   - raw/articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 1: AI, Machine Learning, and Deep Learning
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: AI/ML Foundations Landing Page
 - Landing page: AI/ML Foundations Landing Page

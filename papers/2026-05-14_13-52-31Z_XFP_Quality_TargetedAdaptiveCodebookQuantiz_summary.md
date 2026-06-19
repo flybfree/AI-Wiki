@@ -1,4 +1,12 @@
+---
+title: "2026 05 14 13 52 31Z Xfp Quality Targetedadaptivecodebookquantiz Summary"
+date: 2026-05-14
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-14_13-52-31Z_XFP_Quality_TargetedAdaptiveCodebookQuantizationwi.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-14 21:02
 Source: 2026-05-14_13-52-31Z_XFP_Quality_TargetedAdaptiveCodebookQuantizationwi.md
 Model: None

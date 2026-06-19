@@ -1,12 +1,15 @@
 ---
+
 title: Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models
 url: http://arxiv.org/abs/2606.11167v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-09_17-46-55Z_Multi_FacetedInteractivityAlignmentinFull_DuplexSp.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a post‑training reinforcement learning alignment method to improve the interactivity of full‑duplex speech models. By optimizing four canonical axes—pause handling, turn‑taking, backchanneling, and user interruption—the authors achieve consistent gains on both offline evaluation and real‑time multi‑turn dialogue for models such as Moshi and PersonaPlex.

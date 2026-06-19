@@ -1,12 +1,15 @@
 ---
+
 title: Transition-Based Digital Twin Modelling for Alzheimer's Disease under Sparse Longitudinal Data
 url: http://arxiv.org/abs/2606.09671v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_15-54-10Z_Transition_BasedDigitalTwinModellingforAlzheimer_s.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a transition‑based digital twin for Alzheimer’s disease using sparse longitudinal ADNI data, focusing on personalised prediction and uncertainty quantification. It shows that local transition modelling outperforms sequence models in score forecasting and diagnosis classification while remaining more data‑efficient.

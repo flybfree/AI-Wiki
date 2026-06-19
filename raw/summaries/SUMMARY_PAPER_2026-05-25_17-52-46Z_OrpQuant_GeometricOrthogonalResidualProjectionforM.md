@@ -1,12 +1,15 @@
 ---
-title: OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization
+
+title: "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization"
 url: http://arxiv.org/abs/2605.26092v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-25_17-52-46Z_OrpQuant_GeometricOrthogonalResidualProjectionforM.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Orthogonal Residual Projection ORP to solve low angular resolution issues in power-of-two quantization for transformers and vision models. It replaces MACs with shifts and adds, producing a higher-resolution residual lattice without gradient optimization. Experiments show 3-bit W3/A16 yields perplexity 6.10 on LLaMA-2-7B.

@@ -1,12 +1,15 @@
 ---
-title: SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning
+
+title: "SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning"
 url: http://arxiv.org/abs/2605.18209v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_10-54-55Z_SPATIOROUTE_DynamicPromptRoutingforZero_ShotSpatia.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces SpatioRoute, a dynamic prompt generation method for zero-shot spatial question answering in egocentric video without fine-tuning or 3D inputs. It combines a rule‑based router and an LLM‑driven approach, achieving up to 5 % accuracy improvement over fixed prompts.

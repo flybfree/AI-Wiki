@@ -1,12 +1,15 @@
 ---
+
 title: Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering
 url: http://arxiv.org/abs/2604.22723v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-24_17-21-00Z_Zero_ShotMorphologicalDiscoveryinLow_ResourceBantu.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a zero-shot morphological discovery framework for low‑resource Bantu languages, leveraging cross‑lingual transfer from Swahili and unsupervised clustering to uncover hidden grammatical patterns. Applied to the Giriama language (nyf) with only 91 labeled paradigms, the method assigns noun classes to 2,455 words and reveals two new morphological features: an a‑prefix variant for Class 2 vowel coalescence and a contracted k′ prefix. The pipeline achieves high segmentation (97.3%) and lemmatization (86.7%) rates on an expanded corpus of 19,624 words.

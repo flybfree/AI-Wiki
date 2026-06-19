@@ -1,4 +1,12 @@
+---
+title: "2026 04 29 Full Article Text Summary"
+date: 2026-04-29
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-29_Full_Article_Text.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 20:11
 Source: 2026-04-29_Full_Article_Text.md
 Model: qwen3.6:35b

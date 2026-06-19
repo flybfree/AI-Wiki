@@ -1,12 +1,15 @@
 ---
-title: ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning
+
+title: "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning"
 url: http://arxiv.org/abs/2606.14697v1
 type: paper-summary
 date: 2026-06-14
 source_paper: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md
-generated_at: 2026-06-14 22:00
+generated_at: "2026-06-14 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces ClinHallu, a benchmark designed to diagnose hallucinations at each stage of medical multimodal large language model reasoning. The study demonstrates that hallucinations can stem from visual misrecognition, incorrect knowledge recall, or flawed integration, and shows that trace‑supervised fine‑tuning can reduce these errors.

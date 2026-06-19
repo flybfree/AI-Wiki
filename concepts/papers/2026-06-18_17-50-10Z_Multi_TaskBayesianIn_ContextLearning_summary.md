@@ -1,4 +1,12 @@
+---
+title: "2026 06 18 17 50 10Z Multi Taskbayesianin Contextlearning Summary"
+date: 2026-06-18
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md
+
+
+**Source**: [Original Paper](https://github.com/martianmartina/multi-task-bayesian-icl.)
 Saved: 2026-06-18 23:01
 Source: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md
 Model: None

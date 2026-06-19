@@ -1,12 +1,15 @@
 ---
+
 title: Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software
 url: http://arxiv.org/abs/2605.30353v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-28_17-59-59Z_PhysicsIsAllYouNeed_ACaseStudyinPhysicist_Supervis.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper presents a case study of a physicist supervising an AI coding agent over twelve days to develop the CLAX‑PT module. The results show that supervision design, not model scaling, determines whether the software is trustworthy.

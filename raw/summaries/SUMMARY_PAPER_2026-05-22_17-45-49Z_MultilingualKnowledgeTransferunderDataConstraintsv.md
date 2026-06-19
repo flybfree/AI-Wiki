@@ -1,12 +1,15 @@
 ---
+
 title: Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions
 url: http://arxiv.org/abs/2605.23885v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_17-45-49Z_MultilingualKnowledgeTransferunderDataConstraintsv.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces LINK, a data-level intervention that enhances cross‑lingual knowledge transfer for low‑resource languages. It achieves up to a twofold speedup in training while reaching performance comparable to models trained on full parallel corpora.

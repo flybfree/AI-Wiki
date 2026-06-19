@@ -1,14 +1,25 @@
 ---
+
 title: 'Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation'
-published: 2026-05-27T17:59:02Z
+published: "2026-05-27T17:59:02Z"
 authors: Jiahe Pan, Stelian Coros, Jitendra Malik, Toru Lin
 url: http://arxiv.org/abs/2605.28812v1
 type: paper-summary
 tags: [paper-summary, arxiv]
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
+
 
 # Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation
 
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.28812v1)
 ## Abstract
 A primary bottleneck in contact-rich manipulation is the difficulty of collecting real-world data. Sim-to-real reinforcement learning offers a scalable alternative, but the simulation-reality gap prevents information-dense modalities like touch from being effectively used. Existing sim-to-real methods often mitigate this gap by simplifying tactile data into coarse low-dimensional features -- sacrificing the richness required for complex manipulation. In this work, we introduce Center-of-Pressure (CoP), an effective tactile representation grounded in physical principles that preserves dense contact information while maintaining robustness for sim-to-real transfer. To support this representation, we propose a sensor calibration scheme based on differentiable dynamics, enabling the estimation of taxel orientations without requiring ground-truth force measurements. We evaluate CoP on two blind, challenging contact-rich manipulation tasks: peg-in-hole insertion and ball balancing. Across both tasks, policies conditioned on CoP achieve zero-shot sim-to-real transfer on a multi-fingered hand, and outperform both coarse binary-contact and raw-taxel baselines. Analysis of learned policy states further suggests that CoP-conditioned policies encode task-relevant physical properties, such as object mass, as an emergent byproduct of control.
 

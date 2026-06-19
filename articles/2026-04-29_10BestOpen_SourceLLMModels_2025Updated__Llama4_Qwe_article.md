@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://huggingface.co/blog/daya-shankar/open-source-llms)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe.md

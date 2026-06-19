@@ -1,12 +1,15 @@
 ---
+
 title: Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment
 url: http://arxiv.org/abs/2605.23780v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_15-46-10Z_BeyondBinaryEditsRobustMultimodalKnowledgeEditingw.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes ASAM, a method for robust multimodal knowledge editing that ensures edits generalize across semantically equivalent visual and linguistic variations by targeting generalization through knowledge units and adversarial subspace alignment. It introduces Latent Adversarial Robustification (LAR) and Rank-Constrained Subspace Learning (RCSL) to produce low-rank aligned adversarial representations, improving reliability.

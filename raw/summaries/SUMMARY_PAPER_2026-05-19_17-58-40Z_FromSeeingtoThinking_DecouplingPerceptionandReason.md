@@ -1,12 +1,15 @@
 ---
-title: From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models
+
+title: "From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models"
 url: http://arxiv.org/abs/2605.20177v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-19_17-58-40Z_FromSeeingtoThinking_DecouplingPerceptionandReason.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper investigates how visual perception and reasoning interact in vision‑language model post‑training and argues that separating these capabilities leads to better performance. By training perception first, then visual reasoning, and finally textual reasoning with specialized data, the authors achieve higher accuracy while shortening reasoning traces.

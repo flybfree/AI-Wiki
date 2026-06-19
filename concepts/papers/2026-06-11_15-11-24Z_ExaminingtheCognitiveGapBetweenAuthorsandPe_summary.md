@@ -1,4 +1,12 @@
+---
+title: "2026 06 11 15 11 24Z Examiningthecognitivegapbetweenauthorsandpe Summary"
+date: 2026-06-11
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-11 21:00
 Source: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md
 Model: None

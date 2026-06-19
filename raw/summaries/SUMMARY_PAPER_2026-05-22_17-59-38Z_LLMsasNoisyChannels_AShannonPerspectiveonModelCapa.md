@@ -1,12 +1,15 @@
 ---
-title: LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws
+
+title: "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws"
 url: http://arxiv.org/abs/2605.23901v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_17-59-38Z_LLMsasNoisyChannels_AShannonPerspectiveonModelCapa.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces the Shannon Scaling Law as a theoretical framework that treats LLM training like information transmission over a noisy channel, linking model capacity to bandwidth and signal power. It demonstrates that this perspective explains non‑monotonic performance trends such as catastrophic overtraining and quantization degradation. The model’s predictions outperform classical scaling laws with high R² scores.

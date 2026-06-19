@@ -1,12 +1,15 @@
 ---
+
 title: Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)
 url: http://arxiv.org/abs/2606.05145v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-03_17-50-26Z_FailedReasoningTracesTellYouWhatIsFixable_ButNotby.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper argues that discarded failure traces from language model rollouts contain diagnostic information about which test‑time interventions can recover a given failure. By extracting three structural features from the trace structure, the authors show that these features cluster failures into stable regimes and enable a training‑free routing rule that improves rescue performance by 12.2 % on hard, steerable problems.

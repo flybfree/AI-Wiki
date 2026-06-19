@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://github.com/CodeBoarding/awesome-architecture-mds/blob/main/scientific-research/somaticseq/Machine_Learning_Output.md)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-27_awesome_architecture_mds_scientific_research_somat.md

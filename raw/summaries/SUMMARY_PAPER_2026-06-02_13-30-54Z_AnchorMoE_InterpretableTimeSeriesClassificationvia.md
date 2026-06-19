@@ -1,12 +1,15 @@
 ---
-title: AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE
+
+title: "AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE"
 url: http://arxiv.org/abs/2606.03631v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_13-30-54Z_AnchorMoE_InterpretableTimeSeriesClassificationvia.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 AnchorMoE introduces an interpretable time series classification method that uses a Mixture-of-Experts architecture to decompose predictions into additive contributions from specific temporal segments. The framework ensures transparency by constructing the decomposition during training rather than estimating it afterward, and it achieves strong performance on both real‑world and synthetic datasets.

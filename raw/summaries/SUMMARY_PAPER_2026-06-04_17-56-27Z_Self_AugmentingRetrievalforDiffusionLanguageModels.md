@@ -1,12 +1,15 @@
 ---
+
 title: Self-Augmenting Retrieval for Diffusion Language Models
 url: http://arxiv.org/abs/2606.06474v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-04_17-56-27Z_Self_AugmentingRetrievalforDiffusionLanguageModels.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Self‑Augmenting Retrieval for Diffusion Language Models (SARDI), a training‑free dynamic RAG framework that uses low‑confidence tokens discarded during diffusion denoising as lookahead signals to guide retrieval. On five multi‑hop QA benchmarks, SARDI achieves up to eight times higher throughput than existing training‑free diffusion and autoregressive retrieval baselines.

@@ -6,8 +6,16 @@ lesson: 6
 tags: [evaluation, verification, deepeval, arize-phoenix, promptfoo, drift-detection]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 6: Evaluation & Verification — The Judge Node
 
+
+
+**Source**: [Original Article](http://localhost:6006)
 ## Core Idea
 
 **"Does it compile?" ≠ "Does it work?"** Verification is the gap between syntax and semantics. Your judge node needs to check that the agent's output actually works in a running system and fails gracefully — not just that it passes basic checks.

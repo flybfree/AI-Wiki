@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://explore.n1n.ai/blog/qwen-3-6-27b-gguf-llama-cpp-local-multimodal-2026-04-23)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-26_Qwen3_627BArriveswithGGUFSupportandLocalMultimodal.md

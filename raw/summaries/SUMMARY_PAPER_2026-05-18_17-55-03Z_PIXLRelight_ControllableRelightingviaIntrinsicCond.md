@@ -1,12 +1,15 @@
 ---
-title: PIXLRelight: Controllable Relighting via Intrinsic Conditioning
+
+title: "PIXLRelight: Controllable Relighting via Intrinsic Conditioning"
 url: http://arxiv.org/abs/2605.18735v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_17-55-03Z_PIXLRelight_ControllableRelightingviaIntrinsicCond.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 PIXLRelight introduces a feed‑forward method for controllable single‑image relighting that uses intrinsic conditioning derived from either real photos or PBR renders. The approach avoids chaining errors and costly per‑image optimization, achieving high quality under sub‑tenth‑second inference.

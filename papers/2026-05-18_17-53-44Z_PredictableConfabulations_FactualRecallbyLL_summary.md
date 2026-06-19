@@ -1,4 +1,12 @@
+---
+title: "2026 05 18 17 53 44Z Predictableconfabulations Factualrecallbyll Summary"
+date: 2026-05-18
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-18_17-53-44Z_PredictableConfabulations_FactualRecallbyLLMsScale.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-19 01:00
 Source: 2026-05-18_17-53-44Z_PredictableConfabulations_FactualRecallbyLLMsScale.md
 Model: None

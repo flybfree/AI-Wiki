@@ -1,4 +1,12 @@
+---
+title: "2026 05 21 17 42 12Z Lcguard Latentcommunicationguardforsafekvsh Summary"
+date: 2026-05-21
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-21_17-42-12Z_LCGuard_LatentCommunicationGuardforSafeKVSharingin.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-22 00:04
 Source: 2026-05-21_17-42-12Z_LCGuard_LatentCommunicationGuardforSafeKVSharingin.md
 Model: None

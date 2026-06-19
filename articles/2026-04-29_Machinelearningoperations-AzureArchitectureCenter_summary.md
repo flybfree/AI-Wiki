@@ -1,4 +1,12 @@
+---
+title: "2026 04 29 Machinelearningoperations Azurearchitecturecenter Summary"
+date: 2026-04-29
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-29_Machinelearningoperations-AzureArchitectureCenter.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-30 02:41
 Source: 2026-04-29_Machinelearningoperations-AzureArchitectureCenter.md
 Model: qwen3.6:35b

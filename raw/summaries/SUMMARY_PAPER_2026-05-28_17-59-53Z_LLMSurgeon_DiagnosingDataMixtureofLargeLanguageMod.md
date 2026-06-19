@@ -1,12 +1,15 @@
 ---
-title: LLMSurgeon: Diagnosing Data Mixture of Large Language Models
+
+title: "LLMSurgeon: Diagnosing Data Mixture of Large Language Models"
 url: http://arxiv.org/abs/2605.30348v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-28_17-59-53Z_LLMSurgeon_DiagnosingDataMixtureofLargeLanguageMod.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces LLMSurgeon, a framework that estimates the domain-level distribution of a large language model’s pretraining corpus from its generated output alone. By treating data mixture as an inverse problem under a label‑shift assumption it recovers a calibrated soft confusion matrix and corrects systematic domain confusion. Experiments on LLMScan show high fidelity recovery of hidden mixtures without access to training data.

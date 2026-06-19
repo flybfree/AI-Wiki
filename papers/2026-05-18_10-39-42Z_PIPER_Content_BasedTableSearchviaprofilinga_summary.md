@@ -1,4 +1,12 @@
+---
+title: "2026 05 18 10 39 42Z Piper Content Basedtablesearchviaprofilinga Summary"
+date: 2026-05-18
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-18_10-39-42Z_PIPER_Content_BasedTableSearchviaprofilingandLLM_G.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-18 22:01
 Source: 2026-05-18_10-39-42Z_PIPER_Content_BasedTableSearchviaprofilingandLLM_G.md
 Model: None

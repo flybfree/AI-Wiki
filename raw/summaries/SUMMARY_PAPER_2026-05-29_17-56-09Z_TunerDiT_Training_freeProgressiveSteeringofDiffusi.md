@@ -1,12 +1,15 @@
 ---
-title: TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation
+
+title: "TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation"
 url: http://arxiv.org/abs/2605.31590v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_17-56-09Z_TunerDiT_Training_freeProgressiveSteeringofDiffusi.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces TunerDiT, a training‑free progressive steering method for generating videos with multiple events. The authors show that DiT diffusion transformers have intrinsic turning points where text conditioning influences generation from global layout to fine details, and they achieve state‑of‑the‑art results on eight metrics.

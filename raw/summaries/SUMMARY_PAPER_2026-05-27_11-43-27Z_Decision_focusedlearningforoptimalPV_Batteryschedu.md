@@ -1,12 +1,15 @@
 ---
+
 title: Decision-focused learning for optimal PV-Battery scheduling
 url: http://arxiv.org/abs/2605.28340v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_11-43-27Z_Decision_focusedlearningforoptimalPV_Batteryschedu.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a decision-focused learning framework that trains an LSTM forecaster using the optimal scheduling decisions of PV-battery systems as supervision. Across 20 households over 14 months it achieved a 3.6% reduction in electricity costs despite a higher forecast error than a standard model.

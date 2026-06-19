@@ -1,12 +1,15 @@
 ---
-title: VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection
+
+title: "VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection"
 url: http://arxiv.org/abs/2605.08070v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_17-54-38Z_VecCISC_ImprovingConfidence_InformedSelf_Consisten.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 VecCISC is a lightweight framework that reduces the overhead of confidence‑informed self‑consistency by filtering out reasoning traces that are semantically equivalent, degenerate, or hallucinated using a similarity measure. The method achieves a 47% reduction in total token usage while maintaining accuracy comparable to CISC on five benchmark datasets.

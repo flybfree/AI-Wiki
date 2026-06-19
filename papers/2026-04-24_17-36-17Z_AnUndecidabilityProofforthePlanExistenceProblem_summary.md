@@ -1,4 +1,12 @@
+---
+title: "2026 04 24 17 36 17Z Anundecidabilityprooffortheplanexistenceproblem Summary"
+date: 2026-04-24
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-24_17-36-17Z_AnUndecidabilityProofforthePlanExistenceProblem.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.22736v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-24_17-36-17Z_AnUndecidabilityProofforthePlanExistenceProblem.md
 Model: None

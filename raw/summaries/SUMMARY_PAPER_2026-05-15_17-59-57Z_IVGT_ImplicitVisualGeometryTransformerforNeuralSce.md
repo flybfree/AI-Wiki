@@ -1,12 +1,15 @@
 ---
-title: IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation
+
+title: "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation"
 url: http://arxiv.org/abs/2605.16258v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-15_17-59-57Z_IVGT_ImplicitVisualGeometryTransformerforNeuralSce.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper introduces IVGT, an Implicit Visual Geometry Transformer that learns a continuous neural scene representation from pose‑free multi‑view images. By avoiding explicit pointmaps, it produces coherent 3D geometry and appearance directly through signed distance function and color predictions. The model generalizes across diverse scenes and excels in tasks such as mesh reconstruction, novel view synthesis, depth estimation, and camera pose recovery.

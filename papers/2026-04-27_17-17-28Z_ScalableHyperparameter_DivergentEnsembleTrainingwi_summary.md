@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 17 17 28Z Scalablehyperparameter Divergentensembletrainingwi Summary"
+date: 2026-04-27
+tags: ['paper', 'research', 'ai']
+---
 # Scalable Hyperparameter-Divergent Ensemble Training with Automatic Learning Rate Exploration for Large Models
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.24708v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-27_17-17-28Z_ScalableHyperparameter_DivergentEnsembleTrainingwi.md
 

@@ -1,12 +1,15 @@
 ---
-title: QDSB: Quantized Diffusion Schrödinger Bridges
+
+title: "QDSB: Quantized Diffusion Schrödinger Bridges"
 url: http://arxiv.org/abs/2605.11983v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_11-35-08Z_QDSB_QuantizedDiffusionSchrödingerBridges.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces QDSB, a quantized diffusion Schrödinger bridge that approximates the optimal coupling between source and target distributions without simulating paths. It achieves comparable sample quality to baselines while reducing training time significantly by using anchor-quantized endpoint distributions.

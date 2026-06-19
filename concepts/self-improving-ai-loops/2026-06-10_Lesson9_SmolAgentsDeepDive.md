@@ -6,8 +6,16 @@ lesson: 9
 tags: [smolagents, code-agents, huggingface, tool-calling, secure-execution]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 9: SmolAgents Deep Dive — Code-First Agents from Hugging Face
 
+
+
+**Source**: [Original Article](http://localhost:11434)
 ## Core Idea
 
 **SmolAgents** is a Hugging Face library (~1,000 lines of code) that lets agents write their own actions as **Python code** instead of JSON tool calls. This is the key differentiator: code is a better language for expressing computer actions than JSON because it has composability, object management, generality, and representation in LLM training data.

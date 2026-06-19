@@ -1,4 +1,12 @@
+---
+title: "2026 05 05 17 55 25Z Openseeker V2 Pushingthelimitsofsearchagent Summary"
+date: 2026-05-05
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-05_17-55-25Z_OpenSeeker_v2_PushingtheLimitsofSearchAgentswithIn.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:04
 Source: 2026-05-05_17-55-25Z_OpenSeeker_v2_PushingtheLimitsofSearchAgentswithIn.md
 Model: None

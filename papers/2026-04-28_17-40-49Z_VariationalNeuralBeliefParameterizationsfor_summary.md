@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 17 40 49Z Variationalneuralbeliefparameterizationsfor Summary"
+date: 2026-04-28
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-28_17-40-49Z_VariationalNeuralBeliefParameterizationsforRobustD.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-04-29 03:55
 Source: 2026-04-28_17-40-49Z_VariationalNeuralBeliefParameterizationsforRobustD.md
 Model: qwen3.6:35b

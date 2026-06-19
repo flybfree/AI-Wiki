@@ -1,12 +1,15 @@
 ---
+
 title: Stateful Online Monitoring Catches Distributed Agent Attacks
 url: http://arxiv.org/abs/2605.31593v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_17-57-00Z_StatefulOnlineMonitoringCatchesDistributedAgentAtt.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper addresses the gap between language model safety monitors and distributed agent attacks, where malicious activity is split across many accounts to evade detection. It introduces a stateful online monitor that clusters weak suspicious signals from multiple user transcripts, achieving 30% earlier detection of such attacks with minimal latency.

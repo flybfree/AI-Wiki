@@ -1,12 +1,15 @@
 ---
-title: Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models
+
+title: "Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models"
 url: http://arxiv.org/abs/2605.07701v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_13-12-32Z_GuidanceIsNotaHyperparameter_LearningDynamicContro.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper argues that classifier‑free guidance in diffusion language models should be treated as a dynamic control problem rather than a fixed hyperparameter. It introduces a reinforcement learning framework that learns adaptive guidance trajectories to improve controllability and generation quality. Experiments show the learned policies outperform static scales across three NLP tasks.

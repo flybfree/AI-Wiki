@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 Awesome Architecture Mds Scientific Research Somat Summary"
+date: 2026-04-27
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-27_awesome-architecture-mds_scientific-research_somat.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 18:00
 Source: 2026-04-27_awesome-architecture-mds_scientific-research_somat.md
 Model: qwen3.6:35b

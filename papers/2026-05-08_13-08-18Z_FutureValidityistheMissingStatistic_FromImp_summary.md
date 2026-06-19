@@ -1,4 +1,12 @@
+---
+title: "2026 05 08 13 08 18Z Futurevalidityisthemissingstatistic Fromimp Summary"
+date: 2026-05-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-08_13-08-18Z_FutureValidityistheMissingStatistic_FromImpossibil.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-10 21:00
 Source: 2026-05-08_13-08-18Z_FutureValidityistheMissingStatistic_FromImpossibil.md
 Model: None

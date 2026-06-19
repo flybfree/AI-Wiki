@@ -1,4 +1,12 @@
+---
+title: "2026 04 26 14 15 43Z Expertevaluationofllm Sopen Endedlegalreasoningont Summary"
+date: 2026-04-26
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-26_14-15-43Z_ExpertEvaluationofLLM_sOpen_EndedLegalReasoningont.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.23730v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-26_14-15-43Z_ExpertEvaluationofLLM_sOpen_EndedLegalReasoningont.md
 Model: None

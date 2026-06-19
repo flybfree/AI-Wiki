@@ -1,12 +1,15 @@
 ---
-title: PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective
+
+title: "PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective"
 url: http://arxiv.org/abs/2605.28819v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_17-59-51Z_PEFT_Arena_UnderstandingParameter_EfficientFinetun.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 PEFT-Arena introduces a benchmark that jointly evaluates downstream accuracy and retention of pretrained capabilities, addressing the stability‑plasticity trade‑off in parameter‑efficient finetuning. The study finds orthogonal finetuning yields the most favorable performance frontier across methods with comparable parameter budgets. Updates are analyzed both in weight space via spectral interaction with singular values and in activation space through representation distortion metrics.

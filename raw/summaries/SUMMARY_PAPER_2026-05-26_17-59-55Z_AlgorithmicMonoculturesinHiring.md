@@ -1,12 +1,15 @@
 ---
+
 title: Algorithmic Monocultures in Hiring
 url: http://arxiv.org/abs/2605.27371v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_17-59-55Z_AlgorithmicMonoculturesinHiring.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper investigates how hiring algorithms from a single vendor create algorithmic monocultures that produce racial disparities in applicant outcomes, finding higher rejection rates for Asian and Black applicants despite similar qualifications.

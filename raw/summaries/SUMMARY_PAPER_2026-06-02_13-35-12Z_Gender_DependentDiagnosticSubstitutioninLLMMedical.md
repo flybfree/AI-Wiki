@@ -1,12 +1,15 @@
 ---
-title: Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency
+
+title: "Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency"
 url: http://arxiv.org/abs/2606.03641v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_13-35-12Z_Gender_DependentDiagnosticSubstitutioninLLMMedical.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper tests whether large language models give different emergency‑room referral rates for identical neurological symptoms depending on patient gender and age. It finds that young women are referred far less often than men, even though severity scores are comparable.

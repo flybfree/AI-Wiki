@@ -1,5 +1,13 @@
+---
+title: "Index"
+date: 2026-06-19
+tags: ['wiki']
+---
 # AI Research Wiki Index
 
+
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
 > Last updated: 2026-06-10
 ## Self Improving AI Loops

@@ -1,12 +1,15 @@
 ---
+
 title: Fairness-Aware Federated Learning with Trajectory Shapley Value
 url: http://arxiv.org/abs/2605.30336v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-28_17-58-57Z_Fairness_AwareFederatedLearningwithTrajectoryShapl.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces the Trajectory Shapley Value (TSV) and its application in FedTSV, an adaptive aggregation scheme for federated learning that balances fairness and stability by dynamically weighting client contributions based on their impact on the global model’s optimization path. Experiments demonstrate faster convergence, improved robustness, and more equitable assessment of client influence compared to fixed‑weight methods.

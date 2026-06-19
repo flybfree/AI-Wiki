@@ -1,12 +1,15 @@
 ---
+
 title: On the Limitations of Large Language Models for Conceptual Database Modeling
 url: http://arxiv.org/abs/2605.11986v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_11-35-59Z_OntheLimitationsofLargeLanguageModelsforConceptual.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates how large language models can automatically generate Entity-Relationship diagrams from natural‑language database requirements and finds that their performance drops sharply as the complexity of the requirements grows. Despite reasonable results on simple tasks, LLMs frequently introduce inconsistencies, ambiguities, or missing constraints in more elaborate scenarios.

@@ -1,4 +1,12 @@
+---
+title: "2026 05 21 17 59 56Z Tokenisationviaconvexrelaxations Summary"
+date: 2026-05-21
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-21_17-59-56Z_TokenisationviaConvexRelaxations.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-22 00:16
 Source: 2026-05-21_17-59-56Z_TokenisationviaConvexRelaxations.md
 Model: None

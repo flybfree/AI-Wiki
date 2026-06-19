@@ -1,12 +1,15 @@
 ---
-title: AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning
+
+title: "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning"
 url: http://arxiv.org/abs/2605.28809v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_17-58-16Z_AREA_AttributeExtractionandAggregationforCLIP_Base.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces AREA, a framework for attribute extraction and aggregation in CLIP-based class-incremental learning. It addresses catastrophic forgetting by stabilizing both stages through geodesic analysis and task-specific experts. Experiments demonstrate that AREA outperforms state-of-the-art methods on incremental classification tasks.

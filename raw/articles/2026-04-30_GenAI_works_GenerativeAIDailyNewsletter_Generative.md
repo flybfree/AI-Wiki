@@ -1,12 +1,20 @@
 ---
+
 title: GenAI.works | Generative AI Daily Newsletter | Generative AI Newsletter
 date: 2026-04-30
 url: https://newsletter.genai.works/
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://newsletter.genai.works/
-scraped: 2026-04-30 19:00
+scraped: "2026-04-30 19:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # GenAI.works | Generative AI Daily Newsletter | Generative AI Newsletter
 

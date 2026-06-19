@@ -1,12 +1,15 @@
 ---
+
 title: Improving the sharpness in neural network-based parametric post-processing of ensemble forecasts
 url: http://arxiv.org/abs/2606.08587v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-07_11-57-09Z_Improvingthesharpnessinneuralnetwork_basedparametr.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a neural network loss function that includes a penalty term to reduce the widening of ensemble prediction intervals. Case studies on 2m temperature forecasts show an 8.2%–12.5% reduction in interval width without worsening skill metrics.

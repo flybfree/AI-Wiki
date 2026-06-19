@@ -1,14 +1,25 @@
 ---
+
 title: Variable-Width Transformers
-published: 2026-06-16T17:59:03Z
+published: "2026-06-16T17:59:03Z"
 authors: Zhaofeng Wu, Oliver Sieberling, Shawn Tan, Rameswar Panda, Yury Polyanskiy, Yoon Kim
 url: http://arxiv.org/abs/2606.18246v1
 type: paper-summary
 tags: [paper-summary, arxiv]
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
+
 
 # Variable-Width Transformers
 
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2606.18246v1)
 ## Abstract
 Scaling model size, specifically depth and width, has driven significant progress in transformer-based language models. However, most architectures maintain a constant width across all layers, allocating a fixed parameter and computation budget evenly despite different layers potentially playing distinct computational roles. In this work, we empirically investigate nonuniform capacity allocation across network depth by proposing a $\times$-shaped > <former architecture. This design maintains wider early and late layers while narrowing the middle layers, utilizing a parameter-free residual resizing mechanism. Across decoder-only language models ranging from 200M to 2B parameters (dense) and 3B parameters (MoE), our > <former consistently outperforms parameter-matched uniform baselines on language modeling loss. By reducing the average layer width, this architecture also requires fewer overall FLOPs (22% reduction under fitted loss-matched scaling curves) and smaller KV cache memory and I/O cost (15% reduction). In analysis, we show that this bottleneck structure results in qualitatively different representations in residual streams. Overall, our results demonstrate that nonuniform width allocation can result in more resource-optimal scaling of language models.
 

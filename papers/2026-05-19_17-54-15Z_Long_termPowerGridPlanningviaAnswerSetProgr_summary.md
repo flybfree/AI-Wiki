@@ -1,4 +1,12 @@
+---
+title: "2026 05 19 17 54 15Z Long Termpowergridplanningviaanswersetprogr Summary"
+date: 2026-05-19
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-19_17-54-15Z_Long_termPowerGridPlanningviaAnswerSetProgramming.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-19 22:02
 Source: 2026-05-19_17-54-15Z_Long_termPowerGridPlanningviaAnswerSetProgramming.md
 Model: None

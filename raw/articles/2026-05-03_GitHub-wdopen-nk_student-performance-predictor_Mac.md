@@ -1,12 +1,20 @@
 ---
+
 title: 'GitHub - wdopen-nk/student-performance-predictor: Machine learning ...'
 date: 2026-05-03
 url: https://github.com/wdopen-nk/student-performance-predictor
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://github.com/wdopen-nk/student-performance-predictor
-scraped: 2026-05-03 04:32
+scraped: "2026-05-03 04:32"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 
 # GitHub - wdopen-nk/student-performance-predictor: Machine learning ...
 

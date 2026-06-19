@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://learn.microsoft.com/en-us/azure/architecture/ai-ml/guide/machine-learning-operations-v2)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-29_Machinelearningoperations_AzureArchitectureCenter.md

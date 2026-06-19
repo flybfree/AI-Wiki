@@ -1,4 +1,12 @@
+---
+title: "2026 04 26 14 53 48Z Sft Then Rloutperformsmixed Policymethodsforllmrea Summary"
+date: 2026-04-26
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-26_14-53-48Z_SFT_then_RLOutperformsMixed_PolicyMethodsforLLMRea.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.23747v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-26_14-53-48Z_SFT_then_RLOutperformsMixed_PolicyMethodsforLLMRea.md
 Model: None

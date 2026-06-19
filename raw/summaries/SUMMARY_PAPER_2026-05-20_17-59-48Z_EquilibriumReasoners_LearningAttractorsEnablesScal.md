@@ -1,12 +1,15 @@
 ---
-title: Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning
+
+title: "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning"
 url: http://arxiv.org/abs/2605.21488v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_17-59-48Z_EquilibriumReasoners_LearningAttractorsEnablesScal.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Equilibrium Reasoners, a framework that learns task‑conditioned attractors to enable scalable test‑time computation without external verifiers. It shows that iterative latent models can achieve high accuracy by converging toward solution‑aligned attractors, scaling up to 40 k layers.

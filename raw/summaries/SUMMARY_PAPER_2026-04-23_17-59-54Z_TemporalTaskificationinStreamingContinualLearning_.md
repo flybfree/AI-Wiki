@@ -1,12 +1,15 @@
 ---
-title: Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability
+
+title: "Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability"
 url: http://arxiv.org/abs/2604.21930v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_17-59-54Z_TemporalTaskificationinStreamingContinualLearning_.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper argues that temporal taskification in streaming continual learning is a structural preprocessing choice that influences evaluation, not neutral. Experiments show varying splits produce different CL regimes and errors. The framework introduces plasticity, stability profiles, profile distance, and boundary-profile sensitivity to diagnose impact.

@@ -1,4 +1,12 @@
+---
+title: "2026 05 29 13 07 03Z Personalizedtopersuade Theeffectsofcontextu Summary"
+date: 2026-05-29
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-29_13-07-03Z_PersonalizedtoPersuade_TheEffectsofContextualizati.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-31 21:00
 Source: 2026-05-29_13-07-03Z_PersonalizedtoPersuade_TheEffectsofContextualizati.md
 Model: None

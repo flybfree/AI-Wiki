@@ -1,12 +1,15 @@
 ---
-title: JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors
+
+title: "JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors"
 url: http://arxiv.org/abs/2605.26955v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_12-45-21Z_JuICE_ABenchmarkforEvaluatingLLM_JudgeinIdentifyin.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces JuICE, a multilingual benchmark for detecting cultural errors in long‑form LLM outputs across four countries and their primary languages. Using 7,470 span‑level annotations, the study shows that even the best LLM‑judge achieves an F1 of only 0.52 on erroneous span detection and repeatedly overlooks thick cultural mistakes.

@@ -11,6 +11,9 @@ source_pages:
 
 # AI/ML Foundations Syllabus
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 A concept-first, math-light syllabus for building a basic understanding of machine learning and artificial intelligence.
 
 Time budget:

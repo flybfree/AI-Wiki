@@ -1,12 +1,15 @@
 ---
-title: CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges
+
+title: "CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges"
 url: http://arxiv.org/abs/2606.20369v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md
-generated_at: 2026-06-18 21:00
+generated_at: "2026-06-18 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a large‑scale multilingual dataset of multi‑turn dialogues where hate speech and misinformation intersect, providing contextually annotated counterspeech for RAG systems. It covers five languages and seven marginalized groups, anchored to verified fact‑checking sources with document‑level annotations.

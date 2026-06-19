@@ -1,4 +1,12 @@
+---
+title: "2026 04 22 17 58 36Z Parallel Sft Improvingzero Shotcross Programming L Summary"
+date: 2026-04-22
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-22_17-58-36Z_Parallel_SFT_ImprovingZero_ShotCross_Programming_L
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.20835v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-22_17-58-36Z_Parallel_SFT_ImprovingZero_ShotCross_Programming_L.md
 Model: None

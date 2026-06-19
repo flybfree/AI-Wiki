@@ -1,4 +1,12 @@
+---
+title: "2026 05 13 17 56 20Z Qlam Aquantumlong Attentionmemoryapproachto Summary"
+date: 2026-05-13
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-13_17-56-20Z_QLAM_AQuantumLong_AttentionMemoryApproachtoLong_Se.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-13 23:01
 Source: 2026-05-13_17-56-20Z_QLAM_AQuantumLong_AttentionMemoryApproachtoLong_Se.md
 Model: None

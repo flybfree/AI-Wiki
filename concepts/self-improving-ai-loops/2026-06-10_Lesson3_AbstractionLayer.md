@@ -6,8 +6,16 @@ lesson: 3
 tags: [abstraction, litellm, model-routing, vendor-lock-in]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 3: Abstraction Layer — Model Swapping & Normalization
 
+
+
+**Source**: [Original Article](http://localhost:11434)
 ## Core Idea
 
 **LiteLLM** runs as a proxy server that normalizes 100+ LLM providers (including local models) to a single OpenAI-compatible API. This is the critical layer that lets you swap models without rewriting agent code.

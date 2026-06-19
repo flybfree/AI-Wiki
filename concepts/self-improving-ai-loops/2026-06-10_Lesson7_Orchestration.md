@@ -6,8 +6,16 @@ lesson: 7
 tags: [orchestration, dify, flowise, open-webui, visual-workflows]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 7: Orchestration & UI — Making It Usable
 
+
+
+**Source**: [Original Article](https://github.com/langgenius/dify.git)
 ## Core Idea
 
 You can build the best feedback loops in the world, but if you can't see what's happening or manage the agents, you'll fail. Orchestration and UI layers make self-improving systems **usable** — visible, manageable, and debuggable.

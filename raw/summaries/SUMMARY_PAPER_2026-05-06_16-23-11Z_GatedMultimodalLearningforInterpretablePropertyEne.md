@@ -1,12 +1,15 @@
 ---
+
 title: Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis
 url: http://arxiv.org/abs/2605.05088v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-06_16-23-11Z_GatedMultimodalLearningforInterpretablePropertyEne.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a gated multimodal learning framework that predicts Standard Assessment Procedure (SAP) energy efficiency and Environmental Impact scores by fusing EPC data, assessor free‑text, and GIS spatial features. In the Westminster London case study it achieves MAEs of 4.03 and 4.76 points with R2 values around 0.75, outperforming unimodal and bimodal baselines.

@@ -1,12 +1,15 @@
 ---
-title: Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought
+
+title: "Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought"
 url: http://arxiv.org/abs/2604.22709v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-24_16-45-51Z_ThinkingWithoutWords_EfficientLatentReasoningwithA.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Abstract Chain-of-Thought, a post‑training method that replaces long natural‑language reasoning chains with discrete abstract tokens to speed up inference. It achieves up to 11.6× fewer reasoning tokens while keeping performance comparable across tasks. The approach uses a policy iteration warm‑up and reinforcement learning under constrained decoding.

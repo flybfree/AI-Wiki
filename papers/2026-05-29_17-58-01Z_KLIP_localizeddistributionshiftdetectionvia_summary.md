@@ -1,4 +1,12 @@
+---
+title: "2026 05 29 17 58 01Z Klip Localizeddistributionshiftdetectionvia Summary"
+date: 2026-05-29
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-29_17-58-01Z_KLIP_localizeddistributionshiftdetectionviaKL_dive.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-01 00:02
 Source: 2026-05-29_17-58-01Z_KLIP_localizeddistributionshiftdetectionviaKL_dive.md
 Model: None

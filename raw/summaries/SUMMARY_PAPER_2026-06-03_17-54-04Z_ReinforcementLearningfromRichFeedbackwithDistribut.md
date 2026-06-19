@@ -1,12 +1,15 @@
 ---
+
 title: Reinforcement Learning from Rich Feedback with Distributional DAgger
 url: http://arxiv.org/abs/2606.05152v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-03_17-54-04Z_ReinforcementLearningfromRichFeedbackwithDistribut.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes DistIL, a distributional version of the DAgger algorithm that leverages rich feedback such as execution traces and expert corrections to improve reinforcement learning. The authors demonstrate that their forward cross‑entropy objective yields monotonic policy improvement with regret guarantees, outperforming prior self‑distillation methods across scientific reasoning, coding, and mathematical problem solving.

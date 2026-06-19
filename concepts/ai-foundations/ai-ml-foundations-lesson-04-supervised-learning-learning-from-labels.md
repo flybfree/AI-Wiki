@@ -11,8 +11,16 @@ source_pages:
   - raw/articles/2026-05-07_Supervised_Learning_Web_Sources.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 4: Supervised Learning: Learning from Labels
 
+
+
+**Source**: [Original Article](https://www.ibm.com/think/topics/supervised-learning)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

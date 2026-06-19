@@ -1,4 +1,12 @@
+---
+title: "2026 06 07 12 27 13Z Ina Probe Instruction Awareactiveprobingfor Summary"
+date: 2026-06-07
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-07_12-27-13Z_InA_Probe_Instruction_AwareActiveProbingforTimeSer.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-08 21:01
 Source: 2026-06-07_12-27-13Z_InA_Probe_Instruction_AwareActiveProbingforTimeSer.md
 Model: None

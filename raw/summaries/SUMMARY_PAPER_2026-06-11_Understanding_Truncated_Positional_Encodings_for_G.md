@@ -1,12 +1,15 @@
 ---
+
 title: Understanding Truncated Positional Encodings for Graph Neural Networks
 url: http://arxiv.org/abs/2606.13671v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md
-generated_at: 2026-06-11 23:00
+generated_at: "2026-06-11 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates truncated positional encodings used in graph neural networks and shows that truncating spectral or walk‑based encodings changes their expressive power. It proves that truncated spectral PEs are no longer stronger than the 1-WL test, introduces k‑harmonic distances as a related family, and finds that combining different truncated PEs yields better performance on real datasets.

@@ -1,4 +1,12 @@
+---
+title: "2026 05 13 17 58 13Z R Dmesh Video Guided3Danimationviarectified Summary"
+date: 2026-05-13
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-13_17-58-13Z_R_DMesh_Video_Guided3DAnimationviaRectifiedDynamic.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-13 23:02
 Source: 2026-05-13_17-58-13Z_R_DMesh_Video_Guided3DAnimationviaRectifiedDynamic.md
 Model: None

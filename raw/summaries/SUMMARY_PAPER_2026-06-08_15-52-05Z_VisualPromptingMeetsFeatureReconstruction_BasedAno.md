@@ -1,12 +1,15 @@
 ---
+
 title: Visual Prompting Meets Feature Reconstruction-Based Anomaly Detection with Dual-Teacher Supervision
 url: http://arxiv.org/abs/2606.09670v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes a novel approach to anomaly detection that combines visual prompting, teacher unfreezing, and diffusion‑based data augmentation. The authors demonstrate that their Masked Multiscale Reconstruction (MMR) model achieves a 3.5 percentage point gain over the state‑of‑the‑art on the AeBAD dataset.

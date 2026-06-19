@@ -1,4 +1,12 @@
+---
+title: "2026 04 29 10 Things That Matter In Ai Right Now Mit Techno Summary"
+date: 2026-04-29
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-29_10_Things_That_Matter_in_AI_Right_Now_-_MIT_Techno.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 20:09
 Source: 2026-04-29_10_Things_That_Matter_in_AI_Right_Now_-_MIT_Techno.md
 Model: qwen3.6:35b

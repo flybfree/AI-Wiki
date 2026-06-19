@@ -7,8 +7,16 @@ sources:
   - code: https://github.com/XinhaoS0101/HLL
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # HLL Benchmark
 
+
+
+**Source**: [Original Article](https://github.com/XinhaoS0101/HLL)
 **Humanity's Last Line of Verification (HLL)** is a benchmark introduced in [2606.02449](arxiv:2606.02449) that evaluates whether multimodal agents can cross CAPTCHA verification boundaries through grounded, human-like interaction.
 
 ## Core Idea

@@ -1,12 +1,15 @@
 ---
-title: GeoFaith: A Spatio-Temporal Dual View of Faithful Chain-of-Thought
+
+title: "GeoFaith: A Spatio-Temporal Dual View of Faithful Chain-of-Thought"
 url: http://arxiv.org/abs/2605.26893v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_11-54-40Z_GeoFaith_ASpatio_TemporalDualViewofFaithfulChain_o.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces GeoFaith, a spatio-temporal framework that diagnoses and enforces faithful chain-of-thought reasoning in large language models by leveraging latent geometric structure and entropy dynamics. It achieves scalable annotation expansion to 20k samples, trains an 8B detector outperforming GPT-5, and integrates faithfulness‑aware reinforcement learning.

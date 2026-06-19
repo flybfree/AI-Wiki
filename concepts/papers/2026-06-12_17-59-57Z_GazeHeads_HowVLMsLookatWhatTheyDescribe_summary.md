@@ -1,4 +1,12 @@
+---
+title: "2026 06 12 17 59 57Z Gazeheads Howvlmslookatwhattheydescribe Summary"
+date: 2026-06-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-14 22:01
 Source: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md
 Model: None

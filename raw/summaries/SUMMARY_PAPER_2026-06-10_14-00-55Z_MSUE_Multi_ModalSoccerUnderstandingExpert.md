@@ -1,12 +1,15 @@
 ---
-title: MSUE: Multi-Modal Soccer Understanding Expert
+
+title: "MSUE: Multi-Modal Soccer Understanding Expert"
 url: http://arxiv.org/abs/2606.12106v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces MSUE, a multi-expert question answering system for the 2026 SoccerNet VQA Challenge. It combines data synthesis with three specialized experts to achieve high accuracy on diverse soccer video queries. The model reaches 0.95 accuracy and secures third place in the competition.

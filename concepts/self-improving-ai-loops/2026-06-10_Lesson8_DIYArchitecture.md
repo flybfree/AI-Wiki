@@ -6,8 +6,16 @@ lesson: 8
 tags: [architecture, diy-stack, production-readiness, pitfalls]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 8: Putting It All Together — DIY Architecture
 
+
+
+**Source**: [Original Article](http://localhost:4000/v1)
 ## Core Idea
 
 This lesson ties all 7 previous lessons into a complete, working self-hosted stack. You'll see how each layer connects, a working Ralph loop script, integration patterns, and the production readiness checklist.

@@ -4,8 +4,16 @@ created: 2026-06-10
 tags: [agent-architecture, feedback-loops, harness-engineering, open-source, self-hosted]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Self-Improving AI Loops
 
+
+
+**Source**: [Original Article](http://localhost:11434)
 A paradigm shift in AI engineering where agents improve over time through automated feedback loops rather than static prompting. The core insight: **the harness matters more than the model**.
 
 ## Core Concepts

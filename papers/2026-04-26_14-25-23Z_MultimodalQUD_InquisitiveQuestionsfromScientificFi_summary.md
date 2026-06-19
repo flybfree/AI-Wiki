@@ -1,4 +1,12 @@
+---
+title: "2026 04 26 14 25 23Z Multimodalqud Inquisitivequestionsfromscientificfi Summary"
+date: 2026-04-26
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-26_14-25-23Z_MultimodalQUD_InquisitiveQuestionsfromScientificFi.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.23733v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-26_14-25-23Z_MultimodalQUD_InquisitiveQuestionsfromScientificFi.md
 Model: None

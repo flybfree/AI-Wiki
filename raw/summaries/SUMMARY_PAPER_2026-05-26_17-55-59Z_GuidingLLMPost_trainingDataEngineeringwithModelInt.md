@@ -1,12 +1,15 @@
 ---
+
 title: Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders
 url: http://arxiv.org/abs/2605.27354v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_17-55-59Z_GuidingLLMPost_trainingDataEngineeringwithModelInt.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces SAERL, a data engineering framework that extracts intrinsic signals from large language model internals using Sparse Autoencoders to improve reinforcement learning training. The method boosts average accuracy by 3.00% over vanilla GRPO and achieves target performance with 20% fewer steps on Qwen2.5-Math-1.5B, showing consistent gains across scales.

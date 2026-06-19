@@ -1,12 +1,15 @@
 ---
-title: QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling
+
+title: "QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling"
 url: http://arxiv.org/abs/2605.13833v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_17-56-20Z_QLAM_AQuantumLong_AttentionMemoryApproachtoLong_Se.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces QLAM, a quantum‑enhanced state‑space model that tackles the quadratic bottleneck of transformers and the limited memory depth of classical SSMs. By representing hidden states as quantum amplitudes in superposition, QLAM enables global updates with linear‑time evolution while preserving recurrent structure. Experiments on sMNIST, sFashion‑MNIST, and sCIFAR‑10 show consistent gains over both recurrent baselines and transformer models.

@@ -1,12 +1,15 @@
 ---
-title: Atoms of Thought: Universal EEG Representation Learning with Microstates
+
+title: "Atoms of Thought: Universal EEG Representation Learning with Microstates"
 url: http://arxiv.org/abs/2605.20182v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-19_17-59-31Z_AtomsofThought_UniversalEEGRepresentationLearningw.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes a universal microstate tokenizer that converts continuous EEG signals into discrete microstates, which serve as building blocks for representation learning. The authors demonstrate that this approach outperforms conventional time‑domain and frequency‑domain features across sleep staging, emotion recognition, and motor imagery tasks.  

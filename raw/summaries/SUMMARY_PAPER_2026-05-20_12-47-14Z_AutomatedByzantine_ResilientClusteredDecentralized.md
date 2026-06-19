@@ -1,12 +1,15 @@
 ---
+
 title: Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs
 url: http://arxiv.org/abs/2605.21115v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_12-47-14Z_AutomatedByzantine_ResilientClusteredDecentralized.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces ABC-DFL, an automated Byzantine‑resilient clustered decentralized federated learning framework for electric vehicle battery intelligence. The system replaces centralized servers with a blockchain oracle and uses FLECA to filter malicious updates, achieving convergence comparable to FedProx while keeping attack impact below 0.10.

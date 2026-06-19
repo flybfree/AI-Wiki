@@ -13,6 +13,9 @@ source_pages:
 
 # AI/ML Foundations Landing Page
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Use this page as the main entry point for the 16-lesson AI/ML Foundations course.
 
 Each lesson page links to the previous and next lesson, so the course can be read as one integrated document.

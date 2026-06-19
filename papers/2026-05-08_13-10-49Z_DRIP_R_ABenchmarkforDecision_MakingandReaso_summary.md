@@ -1,4 +1,12 @@
+---
+title: "2026 05 08 13 10 49Z Drip R Abenchmarkfordecision Makingandreaso Summary"
+date: 2026-05-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-08_13-10-49Z_DRIP_R_ABenchmarkforDecision_MakingandReasoningUnd.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-10 21:00
 Source: 2026-05-08_13-10-49Z_DRIP_R_ABenchmarkforDecision_MakingandReasoningUnd.md
 Model: None

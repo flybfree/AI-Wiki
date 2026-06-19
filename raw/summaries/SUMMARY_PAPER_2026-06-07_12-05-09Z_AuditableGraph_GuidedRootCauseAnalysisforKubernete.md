@@ -1,12 +1,15 @@
 ---
+
 title: Auditable Graph-Guided Root Cause Analysis for Kubernetes Incidents
 url: http://arxiv.org/abs/2606.08590v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-07_12-05-09Z_AuditableGraph_GuidedRootCauseAnalysisforKubernete.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Graph Traversal Agent, a system that combines large language model reasoning with specialized tools to perform auditable root‑cause analysis for Kubernetes incidents. By mapping operational constraints onto a typed incident graph and using a LangGraph traversal state machine, the approach achieves an F1 score of 0.9130 on a 23‑scenario subset, improving over previous versions.

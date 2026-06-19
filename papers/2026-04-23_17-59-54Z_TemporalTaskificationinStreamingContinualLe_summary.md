@@ -1,4 +1,12 @@
+---
+title: "2026 04 23 17 59 54Z Temporaltaskificationinstreamingcontinualle Summary"
+date: 2026-04-23
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-23_17-59-54Z_TemporalTaskificationinStreamingContinualLearning_.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-04-29 02:51
 Source: 2026-04-23_17-59-54Z_TemporalTaskificationinStreamingContinualLearning_.md
 Model: qwen3.6:35b

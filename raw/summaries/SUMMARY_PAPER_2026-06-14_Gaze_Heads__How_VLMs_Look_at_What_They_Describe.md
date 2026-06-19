@@ -1,12 +1,15 @@
 ---
-title: Gaze Heads: How VLMs Look at What They Describe
+
+title: "Gaze Heads: How VLMs Look at What They Describe"
 url: http://arxiv.org/abs/2606.14703v1
 type: paper-summary
 date: 2026-06-14
 source_paper: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md
-generated_at: 2026-06-14 22:00
+generated_at: "2026-06-14 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper discovers that vision-language models develop gaze heads—a subset of attention heads that focus on the image region being described, enabling targeted control over generation without retraining. This finding shows that these heads are not random but serve as a dedicated mechanism for describing specific visual areas.

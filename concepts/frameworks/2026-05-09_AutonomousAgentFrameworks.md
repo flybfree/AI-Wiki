@@ -1,9 +1,22 @@
+---
+title: "2026 05 09 Autonomousagentframeworks"
+date: 2026-05-09
+tags: ['concept', 'ai', 'ml']
+---
+
+## Summary
+
+Placeholder summary — please add a concise summary.
+
 title: Autonomous Agent Frameworks
 date: 2026-05-09
 tags: [agent-frameworks, orchestration, tool-use, multi-agent, autonomous-agents]
 
 # Autonomous Agent Frameworks
 
+
+
+**Source**: [Original Article](https://github.com/Significant-Gravitas/Auto-GPT)
 This entry documents the major autonomous agent frameworks and architectures available for building LLM-powered agents.
 
 ## Major Frameworks

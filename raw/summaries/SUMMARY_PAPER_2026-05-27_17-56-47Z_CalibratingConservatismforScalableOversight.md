@@ -1,12 +1,15 @@
 ---
+
 title: Calibrating Conservatism for Scalable Oversight
 url: http://arxiv.org/abs/2605.28807v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_17-56-47Z_CalibratingConservatismforScalableOversight.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Calibrated Collective Oversight (CCO), a method that aggregates auxiliary scoring functions into a conservative penalty to limit AI actions. The approach uses Conformal Decision Theory for online calibration and achieves empirical violation rates matching user‑specified targets on benchmark tasks, demonstrating effective collective conservatism without distributional assumptions.

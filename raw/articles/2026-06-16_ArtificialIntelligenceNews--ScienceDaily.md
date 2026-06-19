@@ -1,12 +1,20 @@
 ---
+
 title: Artificial Intelligence News -- ScienceDaily
 date: 2026-06-16
 url: https://www.sciencedaily.com/news/computers_math/artificial_intelligence/
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://www.sciencedaily.com/news/computers_math/artificial_intelligence/
-scraped: 2026-06-16 03:30
+scraped: "2026-06-16 03:30"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # Artificial Intelligence News -- ScienceDaily
 

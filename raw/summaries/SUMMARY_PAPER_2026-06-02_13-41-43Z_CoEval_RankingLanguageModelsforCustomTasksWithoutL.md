@@ -1,12 +1,15 @@
 ---
-title: CoEval: Ranking Language Models for Custom Tasks Without Labeled Data or Trustworthy Benchmarks
+
+title: "CoEval: Ranking Language Models for Custom Tasks Without Labeled Data or Trustworthy Benchmarks"
 url: http://arxiv.org/abs/2606.03650v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_13-41-43Z_CoEval_RankingLanguageModelsforCustomTasksWithoutL.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 CoEval is an open‑source framework that lets researchers rank language models using only a textual task description and without relying on human‑labeled data or standard benchmark scores. It creates a fresh attribute‑controlled benchmark each run, judges the rankings automatically with a cross‑family ensemble of models, and recovers the true model ordering with high accuracy. The system generates items that show no verbatim overlap with existing public benchmarks.

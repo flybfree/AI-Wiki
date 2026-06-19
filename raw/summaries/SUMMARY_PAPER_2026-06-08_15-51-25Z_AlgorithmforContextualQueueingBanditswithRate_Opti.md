@@ -1,12 +1,15 @@
 ---
+
 title: Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret
 url: http://arxiv.org/abs/2606.09668v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_15-51-25Z_AlgorithmforContextualQueueingBanditswithRate_Opti.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces CQB‑η‑2, a three‑phase algorithm for contextual queueing bandits that reduces the expected queue length regret to \(\widetilde{\mathcal{O}}(T^{-1/2})\) instead of the previous \(\widetilde{\mathcal{O}}(T^{-1/4})\). The authors prove this improvement by limiting random exploration to an early cutoff and using η‑random exploration with a UCB rule thereafter. They also establish a matching lower bound, showing the bound is tight up to logarithmic factors.

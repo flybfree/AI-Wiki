@@ -1,12 +1,15 @@
 ---
-title: LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling
+
+title: "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling"
 url: http://arxiv.org/abs/2605.08083v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_17-59-40Z_LLMsImprovingLLMs_AgenticDiscoveryforTest_TimeScal.md
-generated_at: 2026-06-11 10:31
+generated_at: "2026-06-11 10:31"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces AutoTTS, an environment‑driven framework that automatically discovers test‑time scaling (TTS) strategies instead of relying on manual design. Experiments show the discovered strategies improve accuracy‑cost tradeoffs over strong handcrafted baselines and generalize across benchmarks and model scales while the entire discovery process costs only $39.9 and 160 minutes.

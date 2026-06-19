@@ -5,8 +5,16 @@ date: 2026-05-06
 tags: [reading-list, ilya-sutskever, deep-learning, study-order]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Ilya Sutskever Reading List Study Order
 
+
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 This is a grouped reading path for the Ilya Sutskever recommended list.
 
 Goal: start with the simplest conceptual foundations, then move through sequence models, memory/attention, relational reasoning, vision, and scaling.

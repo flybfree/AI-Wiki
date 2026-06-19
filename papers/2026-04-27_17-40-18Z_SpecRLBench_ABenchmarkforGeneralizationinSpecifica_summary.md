@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 17 40 18Z Specrlbench Abenchmarkforgeneralizationinspecifica Summary"
+date: 2026-04-27
+tags: ['paper', 'research', 'ai']
+---
 # SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.24729v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-27_17-40-18Z_SpecRLBench_ABenchmarkforGeneralizationinSpecifica.md
 

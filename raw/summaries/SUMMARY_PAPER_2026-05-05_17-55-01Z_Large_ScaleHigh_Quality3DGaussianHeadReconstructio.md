@@ -1,12 +1,15 @@
 ---
+
 title: Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures
 url: http://arxiv.org/abs/2605.04035v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-05_17-55-01Z_Large_ScaleHigh_Quality3DGaussianHeadReconstructio.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces HeadsUp, a scalable feed‑forward model that reconstructs high‑quality 3D Gaussian heads from large multi‑camera datasets. It compresses multiple view images into a compact latent code and decodes it to UV‑parameterized Gaussians on a neutral head template without requiring test‑time optimization.

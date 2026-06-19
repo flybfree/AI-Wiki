@@ -1,12 +1,15 @@
 ---
-title: MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation
+
+title: "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation"
 url: http://arxiv.org/abs/2605.27366v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_17-59-19Z_MUSE_Autoskill_Self_EvolvingAgentsviaSkillCreation.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces MUSE‑Autoskill, a framework that treats skills as long‑lived, experience‑aware assets rather than isolated artifacts. By integrating creation, memory, management, evaluation, and refinement into a unified lifecycle, the authors demonstrate that agents can continuously improve task performance through skill reuse and adaptation.

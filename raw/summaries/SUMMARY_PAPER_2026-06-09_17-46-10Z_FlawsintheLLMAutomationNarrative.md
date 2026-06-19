@@ -1,12 +1,15 @@
 ---
+
 title: Flaws in the LLM Automation Narrative
 url: http://arxiv.org/abs/2606.11166v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-09_17-46-10Z_FlawsintheLLMAutomationNarrative.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates the claim that large language models operate at human‑expert level by comparing them to real experts on a code‑writing task. It finds that humans outperform LLMs on average and show lower variance, while LLMs exhibit larger errors.

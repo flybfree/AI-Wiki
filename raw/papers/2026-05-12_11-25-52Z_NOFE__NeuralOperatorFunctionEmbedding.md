@@ -1,14 +1,25 @@
 ---
+
 title: NOFE -- Neural Operator Function Embedding
-published: 2026-05-12T11:25:52Z
+published: "2026-05-12T11:25:52Z"
 authors: Lars Uebbing, Harald L. Joakimsen, Siyan Chen, Georgios Leontidis, Kristoffer K. Wickstrøm, Michael C. Kampffmeyer, Sébastien Lefèvre, Arnt-Børre Salberg, Robert Jenssen
 url: http://arxiv.org/abs/2605.11970v1
 type: paper-summary
 tags: [paper-summary, arxiv]
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
+
 
 # NOFE -- Neural Operator Function Embedding
 
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.11970v1)
 ## Abstract
 Most dimensionality reduction methods treat data as discrete point clouds, ignoring the continuous domain structure inherent to many real-world processes. To bridge this gap, we introduce Neural Operator Function Embedding (NOFE), a domain-aware framework for continuous dimensionality reduction. NOFE learns function-to-function mappings via a Graph Kernel Operator, enabling mesh-free evaluation at arbitrary query locations independent of input discretization. We establish NOFE as approximation of sheaf-to-sheaf mappings, generalizing Sheaf Neural Networks to continuous domains. We evaluate NOFE across different datasets, comparing it against PCA, t-SNE, and UMAP. Our results demonstrate that NOFE significantly outperforms baselines in local structure preservation, achieving a local Stress of 0.111 compared to 0.398 for PCA, 0.773 for t-SNE, and 0.791 for UMAP for the ERA5 climate reanalysis dataset. NOFE also exhibits robust sampling independence, reducing the Patch Stitching Error by up to $20.0\times$ relative to UMAP (59.0 vs. 267.6 under regional normalization) and ensuring consistency across disjoint domain patches. While maintaining competitive global structure preservation (Stress-1: 0.379 vs. PCA's 0.268), NOFE resolves fine-grained structures and produces smooth, consistent embeddings that generalize across varying sample densities, addressing key limitations of discrete reduction methods.
 

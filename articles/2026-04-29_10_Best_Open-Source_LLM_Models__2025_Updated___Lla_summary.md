@@ -1,4 +1,12 @@
+---
+title: "2026 04 29 10 Best Open Source Llm Models 2025 Updated Lla Summary"
+date: 2026-04-29
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-29_10_Best_Open-Source_LLM_Models__2025_Updated___Lla.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 20:09
 Source: 2026-04-29_10_Best_Open-Source_LLM_Models__2025_Updated___Lla.md
 Model: qwen3.6:35b

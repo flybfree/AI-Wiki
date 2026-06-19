@@ -1,4 +1,12 @@
+---
+title: "2026 04 25 List Of Large Language Models Wikipedia Summary"
+date: 2026-04-25
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-25_List_of_large_language_models_-_Wikipedia.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 15:53
 Source: 2026-04-25_List_of_large_language_models_-_Wikipedia.md
 Model: qwen3.6:35b

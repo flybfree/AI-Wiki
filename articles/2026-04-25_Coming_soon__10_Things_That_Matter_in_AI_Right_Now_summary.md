@@ -1,4 +1,12 @@
+---
+title: "2026 04 25 Coming Soon 10 Things That Matter In Ai Right Now Summary"
+date: 2026-04-25
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-25_Coming_soon__10_Things_That_Matter_in_AI_Right_Now.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 15:47
 Source: 2026-04-25_Coming_soon__10_Things_That_Matter_in_AI_Right_Now.md
 Model: qwen3.6:35b

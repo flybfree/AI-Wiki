@@ -1,12 +1,15 @@
 ---
-title: DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices
+
+title: "DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices"
 url: http://arxiv.org/abs/2605.10933v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-11_17-58-28Z_DECO_SparseMixture_of_ExpertswithDense_ComparableP.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces DECO, a sparse Mixture-of-Experts architecture that matches the performance of dense Transformers while using only 20% of experts and achieving three times faster inference on real hardware. The authors demonstrate that DECO’s learnable scaling and NormSiLU activation enable high sparsity without sacrificing quality.

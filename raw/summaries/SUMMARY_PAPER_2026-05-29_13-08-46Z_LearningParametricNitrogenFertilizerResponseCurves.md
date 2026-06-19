@@ -1,12 +1,15 @@
 ---
+
 title: Learning Parametric Nitrogen Fertilizer Response Curves Using Neuro Symbolic Regression
 url: http://arxiv.org/abs/2605.31276v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_13-08-46Z_LearningParametricNitrogenFertilizerResponseCurves.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces neuro symbolic regression (SR) to learn parametric nitrogen fertilizer response curves without assuming a predefined functional form, applying it to real‑world winter wheat data across multiple management zones. The method discovers shared symbolic skeletons using a transformer‑based multi‑set approach and fits them with a genetic algorithm, achieving lower errors than traditional quadratic‑plateau or exponential models while capturing diverse spatial behaviors.

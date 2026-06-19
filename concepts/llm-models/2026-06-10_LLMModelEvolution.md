@@ -5,6 +5,14 @@ type: concept
 tags: [llm-models, evolution]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
+**Source**: [Original Article](https://arxiv.org/abs/2606.02373)
+
+
 ## LLM Model Evolution
 
 **Last Updated**: 2026-06-10

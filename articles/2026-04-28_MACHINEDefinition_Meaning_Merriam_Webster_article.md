@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://www.merriam-webster.com/dictionary/machine)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-28_MACHINEDefinition_Meaning_Merriam_Webster.md

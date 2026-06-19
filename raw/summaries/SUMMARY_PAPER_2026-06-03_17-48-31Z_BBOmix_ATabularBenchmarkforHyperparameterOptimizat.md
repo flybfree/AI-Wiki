@@ -1,12 +1,15 @@
 ---
-title: BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning
+
+title: "BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning"
 url: http://arxiv.org/abs/2606.05139v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-03_17-48-31Z_BBOmix_ATabularBenchmarkforHyperparameterOptimizat.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces BBOmix, an open‑source benchmark that evaluates hyperparameter optimization for deep autoencoders on real biological data. The study demonstrates that reconstruction loss alone is insufficient and shows how advanced HPO methods can improve downstream task performance.

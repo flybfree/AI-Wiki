@@ -1,12 +1,15 @@
 ---
+
 title: RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots
 url: http://arxiv.org/abs/2605.18197v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_10-37-39Z_RGB_onlyActive3DSceneGraphGenerationforIndoorMobil.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a fully visual active framework that builds 3D scene graphs from RGB-only inputs, unifying perception and planning in one structured representation. Experiments on the Replica dataset demonstrate F1-score parity with ground-truth depth baselines and show semantic viewpoint selection doubles object detection compared to geometric frontiers.

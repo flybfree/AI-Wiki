@@ -1,4 +1,12 @@
+---
+title: "2026 05 20 17 54 27Z Agentjitcompilationforlatency Optimizingweb Summary"
+date: 2026-05-20
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-20_17-54-27Z_AgentJITCompilationforLatency_OptimizingWebAgentPl.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-20 23:00
 Source: 2026-05-20_17-54-27Z_AgentJITCompilationforLatency_OptimizingWebAgentPl.md
 Model: None

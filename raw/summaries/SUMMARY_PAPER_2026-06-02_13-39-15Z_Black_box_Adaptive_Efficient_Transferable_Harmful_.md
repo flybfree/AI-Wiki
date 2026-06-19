@@ -1,12 +1,15 @@
 ---
+
 title: Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs
 url: http://arxiv.org/abs/2606.03647v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_13-39-15Z_Black_box_Adaptive_Efficient_Transferable_Harmful_.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper presents Indirect Harm Optimization (IHO), a black‑box, adaptive, and transferable attack for large language models that significantly outperforms existing methods. IHO is trained via iterative preference optimization against a harmfulness judge and requires only access to the target model.

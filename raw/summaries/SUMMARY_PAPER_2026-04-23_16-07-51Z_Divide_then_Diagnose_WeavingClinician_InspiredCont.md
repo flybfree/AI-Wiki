@@ -1,12 +1,15 @@
 ---
-title: Divide-then-Diagnose: Weaving Clinician-Inspired Contexts for Ultra-Long Capsule Endoscopy Videos
+
+title: "Divide-then-Diagnose: Weaving Clinician-Inspired Contexts for Ultra-Long Capsule Endoscopy Videos"
 url: http://arxiv.org/abs/2604.21814v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_16-07-51Z_Divide_then_Diagnose_WeavingClinician_InspiredCont.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces VideoCAP, a dataset of 240 full‑length capsule endoscopy videos annotated for diagnosis‑driven video summarization, and proposes DiCE, a clinician‑inspired framework that extracts key evidence frames and builds coherent diagnostic contexts. Experiments demonstrate that DiCE outperforms existing methods by producing concise, reliable summaries that capture sparse but clinically relevant events.

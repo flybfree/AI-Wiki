@@ -1,12 +1,15 @@
 ---
+
 title: Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation
 url: http://arxiv.org/abs/2605.11972v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_11-26-47Z_CooperativeRoboticsReinforcedbyCollectivePerceptio.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a cooperative robot that uses vision and V2X data to stop vehicles merging into unseen traffic streams. It combines collective perception messages from cameras with awareness messages from connected cars, creating a robust real‑time view of the road. Experiments at Rotterdam’s Future Mobility Park show reliable hazard prediction and prevention of unsafe merges.

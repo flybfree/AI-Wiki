@@ -5,8 +5,16 @@ date: 2026-05-07
 tags: [sources, supervised-learning, classification, regression, metrics]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 # Supervised Learning Web Sources
 
+
+
+**Source**: [Original Article](https://www.ibm.com/think/topics/supervised-learning)
 These sources were used to strengthen the supervised learning lesson with current, authoritative web material.
 
 ## Core overview

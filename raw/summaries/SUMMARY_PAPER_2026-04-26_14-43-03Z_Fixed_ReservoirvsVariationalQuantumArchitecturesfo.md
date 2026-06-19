@@ -1,12 +1,15 @@
 ---
-title: Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System
+
+title: "Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System"
 url: http://arxiv.org/abs/2604.23743v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-26_14-43-03Z_Fixed_ReservoirvsVariationalQuantumArchitecturesfo.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper compares a variational quantum physics-informed neural network (QPINN) and a fixed-reservoir computing approach for predicting chaotic time series on the Lorenz system using NISQ hardware. It finds that QRC delivers an 81% lower mean-squared error while training over 50,000 times faster than QPINN under matched resources of four to five qubits and two to three layers.

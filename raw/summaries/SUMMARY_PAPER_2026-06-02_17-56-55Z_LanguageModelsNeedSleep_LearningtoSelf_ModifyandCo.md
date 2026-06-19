@@ -1,12 +1,15 @@
 ---
-title: Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories
+
+title: "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories"
 url: http://arxiv.org/abs/2606.03979v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_17-56-55Z_LanguageModelsNeedSleep_LearningtoSelf_ModifyandCo.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes a “Sleep” paradigm for large language models that mimics human memory consolidation and dreaming. It introduces Knowledge Seeding to transfer short‑term memories into stable long‑term parameters and Dreaming to generate synthetic data for self‑improvement, demonstrating success on continual learning tasks.

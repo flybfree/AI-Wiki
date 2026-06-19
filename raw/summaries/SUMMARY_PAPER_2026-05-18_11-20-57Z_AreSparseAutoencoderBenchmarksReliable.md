@@ -1,12 +1,15 @@
 ---
+
 title: Are Sparse Autoencoder Benchmarks Reliable?
 url: http://arxiv.org/abs/2605.18229v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_11-20-57Z_AreSparseAutoencoderBenchmarksReliable.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper audits the quality metrics used in SAEBench, a widely adopted suite for evaluating sparse autoencoders (SAEs). It finds that two core metrics—Targeted Probe Perturbation and Spurious Correlation Removal—fail across multiple evaluation lenses, while other metrics exhibit higher reseed noise and lower discriminability than previously assumed. The most reliable metric, sae‑probes, still struggles to distinguish variants of the same SAE architecture.

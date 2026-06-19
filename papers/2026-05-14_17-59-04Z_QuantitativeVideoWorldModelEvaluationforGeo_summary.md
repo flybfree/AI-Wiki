@@ -1,4 +1,12 @@
+---
+title: "2026 05 14 17 59 04Z Quantitativevideoworldmodelevaluationforgeo Summary"
+date: 2026-05-14
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-14_17-59-04Z_QuantitativeVideoWorldModelEvaluationforGeometric_.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-15 00:03
 Source: 2026-05-14_17-59-04Z_QuantitativeVideoWorldModelEvaluationforGeometric_.md
 Model: None

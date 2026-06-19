@@ -1,4 +1,12 @@
+---
+title: "2026 06 09 17 50 09Z Theroleoffeedbackalignmentinself Distillati Summary"
+date: 2026-06-09
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-09_17-50-09Z_TheRoleofFeedbackAlignmentinSelf_Distillation.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-09 22:00
 Source: 2026-06-09_17-50-09Z_TheRoleofFeedbackAlignmentinSelf_Distillation.md
 Model: None

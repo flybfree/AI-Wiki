@@ -1,12 +1,15 @@
 ---
-title: Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution
+
+title: "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution"
 url: http://arxiv.org/abs/2606.06492v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-04_17-59-46Z_Code2LoRA_Hypernetwork_GeneratedAdaptersforCodeLan.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 Code2LoRA introduces a hypernetwork framework that creates repository‑specific LoRA adapters for code language models, injecting repository knowledge without any inference‑time token overhead. On static tasks it reaches 63.8% cross‑repo and 66.2% in‑repo exact match, matching the per‑repository LoRA upper bound; on evolving tasks Code2LoRA‑Evo achieves 60.3% cross‑repo exact match, a gain of +5.2 percentage points over a single shared LoRA.

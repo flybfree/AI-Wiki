@@ -1,4 +1,12 @@
+---
+title: "2026 06 01 17 59 13Z Protoada Prototype Guidedadaptiveadapterexp Summary"
+date: 2026-06-01
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-01_17-59-13Z_ProtoAda_Prototype_GuidedAdaptiveAdapterExpansiona.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-01 23:01
 Source: 2026-06-01_17-59-13Z_ProtoAda_Prototype_GuidedAdaptiveAdapterExpansiona.md
 Model: None

@@ -1,12 +1,15 @@
 ---
+
 title: High-lift Wing Separation Control via Bayesian Optimization and Deep Reinforcement Learning
 url: http://arxiv.org/abs/2605.11981v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_11-34-46Z_High_liftWingSeparationControlviaBayesianOptimizat.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates active flow control of a high‑lift wing using wall‑resolved LES to reduce stall and improve efficiency, comparing open‑loop Bayesian optimization with closed‑loop deep reinforcement learning. Open‑loop BO achieved a 10.9 % efficiency gain via drag reduction, while DRL showed only minor improvements due to reward constraints.

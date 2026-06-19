@@ -1,12 +1,15 @@
 ---
-title: SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks
+
+title: "SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks"
 url: http://arxiv.org/abs/2606.09669v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_15-51-51Z_SpatialWorld_BenchmarkingInteractiveSpatialReasoni.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces SpatialWorld, a benchmark that tests multimodal large language models' ability to solve interactive spatial tasks in real-world scenarios. It evaluates 15 advanced agents across eight simulation backends and reports average task success rates ranging from 14% to 17%, showing limited performance despite advanced capabilities.

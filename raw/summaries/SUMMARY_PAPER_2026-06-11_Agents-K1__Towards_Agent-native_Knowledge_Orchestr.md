@@ -1,12 +1,15 @@
 ---
-title: Agents-K1: Towards Agent-native Knowledge Orchestration
+
+title: "Agents-K1: Towards Agent-native Knowledge Orchestration"
 url: http://arxiv.org/abs/2606.13669v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md
-generated_at: 2026-06-11 23:00
+generated_at: "2026-06-11 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Agents‑K1, an end‑to‑end knowledge orchestration pipeline that transforms raw scientific papers into agent‑native scientific knowledge graphs. By integrating a multimodal parser, a 4B information‑extraction backbone trained with GRPO, and a tri‑source CLI, the system outperforms previous approaches in extraction, graph construction, and multi‑hop reasoning.

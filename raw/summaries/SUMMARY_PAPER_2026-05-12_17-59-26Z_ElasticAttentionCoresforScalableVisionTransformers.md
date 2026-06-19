@@ -1,12 +1,15 @@
 ---
+
 title: Elastic Attention Cores for Scalable Vision Transformers
 url: http://arxiv.org/abs/2605.12491v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_17-59-26Z_ElasticAttentionCoresforScalableVisionTransformers.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces VECA, a vision transformer architecture that replaces the quadratic self‑attention with linear‑time core‑periphery communication. By learning a small set of “core” embeddings that serve as communication hubs, the model achieves scalable performance while maintaining accuracy on classification and dense tasks.

@@ -1,12 +1,15 @@
 ---
+
 title: On the Variance of Temporal Difference Learning and its Reduction Using Control Variates
 url: http://arxiv.org/abs/2606.20357v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md
-generated_at: 2026-06-18 21:00
+generated_at: "2026-06-18 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates the variance of temporal difference (TD) learning in a phased tabular setting and shows that its variance reduction stems from aggregating over many independent trajectories. It proves an asymptotic upper bound on TD’s variance comparable to Monte Carlo estimators, notes that shorter horizon updates reduce variance for fixed sample counts, and identifies Direct Advantage Estimation as a regression‑adjusted control variate with tighter large‑sample bounds.

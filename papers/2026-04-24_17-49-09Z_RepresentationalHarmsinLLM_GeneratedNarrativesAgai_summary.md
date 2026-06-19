@@ -1,4 +1,12 @@
+---
+title: "2026 04 24 17 49 09Z Representationalharmsinllm Generatednarrativesagai Summary"
+date: 2026-04-24
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-24_17-49-09Z_RepresentationalHarmsinLLM_GeneratedNarrativesAgai.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.22749v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-24_17-49-09Z_RepresentationalHarmsinLLM_GeneratedNarrativesAgai.md
 Model: None

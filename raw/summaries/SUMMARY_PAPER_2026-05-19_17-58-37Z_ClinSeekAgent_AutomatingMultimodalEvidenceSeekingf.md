@@ -1,12 +1,15 @@
 ---
-title: ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning
+
+title: "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning"
 url: http://arxiv.org/abs/2605.20176v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-19_17-58-37Z_ClinSeekAgent_AutomatingMultimodalEvidenceSeekingf.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces ClinSeekAgent, an automated agentic framework that actively seeks multimodal evidence from raw clinical data to support reasoning. It improves LLM performance on both text‑only and imaging tasks, achieving higher F1 scores compared to baseline models.

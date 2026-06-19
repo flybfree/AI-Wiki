@@ -1,12 +1,20 @@
 ---
+
 title: What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
 date: 2026-06-17
 url: https://news.mit.edu/2025/what-does-future-hold-generative-ai-0919
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://news.mit.edu/2025/what-does-future-hold-generative-ai-0919
-scraped: 2026-06-17 19:00
+scraped: "2026-06-17 19:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
 

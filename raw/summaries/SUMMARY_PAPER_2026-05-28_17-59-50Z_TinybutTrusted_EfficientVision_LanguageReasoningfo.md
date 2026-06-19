@@ -1,12 +1,15 @@
 ---
-title: Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection
+
+title: "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection"
 url: http://arxiv.org/abs/2605.30344v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-28_17-59-50Z_TinybutTrusted_EfficientVision_LanguageReasoningfo.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces VisAnomReasoner, a parameter-efficient vision-language model fine‑tuned for time‑series anomaly detection that generates natural‑language rationales. On its benchmark it achieves notable gains in precision and F1 compared to existing baselines.

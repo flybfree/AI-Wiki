@@ -11,8 +11,16 @@ source_pages:
   - raw/articles/2026-05-07_Data_Foundation_Web_Sources.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 3: Data as the Foundation of Learning
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

@@ -1,12 +1,15 @@
 ---
-title: EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery
+
+title: "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery"
 url: http://arxiv.org/abs/2606.13662v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md
-generated_at: 2026-06-11 23:00
+generated_at: "2026-06-11 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 This paper introduces EurekAgent, a system that engineers the environment for autonomous scientific discovery to overcome the bottleneck of workflow design. The authors demonstrate that by tailoring permissions, artifact handling, budget constraints, and human‑in‑the‑loop interfaces, agents can achieve state‑of‑the‑art results across mathematics, kernel engineering, and machine learning tasks. Notably, EurekAgent discovered a 26‑circle packing solution with total API cost under $11.

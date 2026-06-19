@@ -1,12 +1,15 @@
 ---
-title: PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries
+
+title: "PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries"
 url: http://arxiv.org/abs/2605.18199v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_10-39-42Z_PIPER_Content_BasedTableSearchviaprofilingandLLM_G.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces PIPER, a content‑based retrieval system for tabular datasets that combines table profiles with LLM‑generated pseudoqueries to rank relevant tables in poor metadata settings. Experiments show it outperforms both classic metadata baselines and strong TableQA approaches, proving the value of LLM modeling for dataset search.

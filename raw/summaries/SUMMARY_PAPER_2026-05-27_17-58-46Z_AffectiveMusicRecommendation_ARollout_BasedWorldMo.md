@@ -1,12 +1,15 @@
 ---
-title: Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization
+
+title: "Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization"
 url: http://arxiv.org/abs/2605.28810v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_17-58-46Z_AffectiveMusicRecommendation_ARollout_BasedWorldMo.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces AMRS, an affective music recommendation system that predicts listener engagement and emotional valence using a rollout‑based world model trained on logged listening data. The authors demonstrate that offline direct preference optimization improves predicted affect while preserving diversity and avoiding collapse compared with behavior cloning baselines.

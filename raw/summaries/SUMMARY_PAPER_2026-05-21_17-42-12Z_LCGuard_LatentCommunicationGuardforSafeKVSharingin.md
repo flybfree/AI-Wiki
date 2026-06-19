@@ -1,12 +1,15 @@
 ---
-title: LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems
+
+title: "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems"
 url: http://arxiv.org/abs/2605.22786v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-21_17-42-12Z_LCGuard_LatentCommunicationGuardforSafeKVSharingin.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces LCGuard, a framework that protects sensitive information when large language model agents share transformer key-value caches. It shows that without safeguards, cache artifacts can leak agent-specific inputs to an adversary, and the authors propose representation-level transformations to reduce this leakage while preserving task performance.

@@ -1,12 +1,15 @@
 ---
+
 title: Proximal Projection for Doubly Sparse Regularized Models
 url: http://arxiv.org/abs/2605.05093v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-06_16-31-20Z_ProximalProjectionforDoublySparseRegularizedModels.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a proximal projection method for doubly sparse regularized regression when predictors follow a Gaussian graphical model. It decomposes coefficients into latent variables tied to each node in the predictor graph and applies a user‑defined L1/L2 trade‑off via a novel projection that operates on selected groups, achieving stable performance across simulations and real data.

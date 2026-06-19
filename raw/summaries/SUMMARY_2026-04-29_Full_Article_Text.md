@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Full Article Text"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Full Article Text
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: Full Article Text
 Article text:
 

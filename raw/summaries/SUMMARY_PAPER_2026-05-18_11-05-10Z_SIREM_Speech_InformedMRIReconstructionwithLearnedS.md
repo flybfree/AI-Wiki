@@ -1,12 +1,15 @@
 ---
-title: SIREM: Speech-Informed MRI Reconstruction with Learned Sampling
+
+title: "SIREM: Speech-Informed MRI Reconstruction with Learned Sampling"
 url: http://arxiv.org/abs/2605.18221v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_11-05-10Z_SIREM_Speech_InformedMRIReconstructionwithLearnedS.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces SIREM, a speech-informed MRI reconstruction method that leverages synchronized speech to guide real-time magnetic resonance imaging. By fusing audio predictions with k-space data and using a learnable weighting profile over spiral arms, SIREM achieves high‑throughput reconstruction while preserving anatomically plausible vocal‑tract structures.

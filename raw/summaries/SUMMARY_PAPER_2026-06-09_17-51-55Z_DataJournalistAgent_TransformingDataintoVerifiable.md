@@ -1,12 +1,15 @@
 ---
-title: Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories
+
+title: "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories"
 url: http://arxiv.org/abs/2606.11176v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-09_17-51-55Z_DataJournalistAgent_TransformingDataintoVerifiable.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Data2Story, a multi‑agent framework that turns raw data into verifiable multimedia stories. Evaluation on 18 articles shows it matches expert work in evidence and interactivity while lagging slightly in editorial flair.

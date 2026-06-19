@@ -1,12 +1,15 @@
 ---
-title: Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models
+
+title: "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models"
 url: http://arxiv.org/abs/2605.31603v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_17-59-50Z_Lumos_Nexus_EfficientFrequencyBridgingwithHomogene.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Lumos‑Nexus, a training‑efficient unified video generation framework that separates lightweight and high‑capacity generators. It achieves higher visual fidelity while preserving reasoning quality on the VR‑Bench benchmark.

@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Neural Network Architectures Geeksforgeeks"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Neural Network Architectures   Geeksforgeeks
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: Neural Network Architectures - GeeksforGeeks
 Article text:
 

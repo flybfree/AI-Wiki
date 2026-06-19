@@ -1,12 +1,15 @@
 ---
+
 title: Integrable Elasticity via Neural Demand Potentials
 url: http://arxiv.org/abs/2605.22820v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-21_17-59-47Z_IntegrableElasticityviaNeuralDemandPotentials.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces the Integrable Context-Dependent Demand Network (ICDN), a neural model that treats demand as a smooth function of log‑prices conditioned on product context, enabling exact elasticity extraction. On the Dominick’s beer dataset it outperforms a directed log‑log benchmark and provides stable, economically sensible elasticity estimates even for weakly identified cross‑price effects.

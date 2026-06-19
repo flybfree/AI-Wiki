@@ -1,4 +1,12 @@
+---
+title: "2026 05 12 17 58 27Z Task Adaptiveembeddingrefinementviatest Tim Summary"
+date: 2026-05-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-12_17-58-27Z_Task_AdaptiveEmbeddingRefinementviaTest_timeLLMGui.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-12 23:03
 Source: 2026-05-12_17-58-27Z_Task_AdaptiveEmbeddingRefinementviaTest_timeLLMGui.md
 Model: None

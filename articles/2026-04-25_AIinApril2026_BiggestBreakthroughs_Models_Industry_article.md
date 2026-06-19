@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://kersai.com/ai-breakthroughs-april-2026-models-funding-shifts/)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-25_AIinApril2026_BiggestBreakthroughs_Models_Industry.md

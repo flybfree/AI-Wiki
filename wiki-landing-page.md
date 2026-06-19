@@ -7,6 +7,9 @@ tags: [wiki, landing-page, ai-research, navigation]
 
 # AI Research Wiki
 
+
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 This is the central hub for the AI research wiki. Use it to navigate by topic rather than browsing the raw file structure.
 
 ## What's Here

@@ -1,12 +1,15 @@
 ---
-title: VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction
+
+title: "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction"
 url: http://arxiv.org/abs/2605.15186v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_17-59-04Z_VGGT_Edit_Feed_forwardNative3DSceneEditingwithResi.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 VGGT-Edit introduces a feed‑forward framework for text‑conditioned native 3D scene editing that eliminates the need for 2D lifting pipelines. By injecting depth‑synchronized semantic cues and predicting geometric displacements directly, it generates sharp, consistent scenes in a single forward pass. Experiments demonstrate superior detail preservation, multi‑view consistency, and near‑instant inference compared to baselines.

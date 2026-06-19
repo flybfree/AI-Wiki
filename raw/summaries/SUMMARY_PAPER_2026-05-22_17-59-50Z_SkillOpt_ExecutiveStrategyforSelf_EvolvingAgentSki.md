@@ -1,12 +1,15 @@
 ---
-title: SkillOpt: Executive Strategy for Self-Evolving Agent Skills
+
+title: "SkillOpt: Executive Strategy for Self-Evolving Agent Skills"
 url: http://arxiv.org/abs/2605.23904v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_17-59-50Z_SkillOpt_ExecutiveStrategyforSelf_EvolvingAgentSki.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces SkillOpt, a systematic optimizer that treats agent skills as external state and improves them via bounded edits without inference at deployment. Across extensive benchmarks it outperforms all human and automated skill‑evolution methods, boosting accuracy by up to 24 points on GPT‑5.5.

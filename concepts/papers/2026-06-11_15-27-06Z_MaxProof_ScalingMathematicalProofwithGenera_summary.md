@@ -1,4 +1,12 @@
+---
+title: "2026 06 11 15 27 06Z Maxproof Scalingmathematicalproofwithgenera Summary"
+date: 2026-06-11
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-11 21:01
 Source: 2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md
 Model: None

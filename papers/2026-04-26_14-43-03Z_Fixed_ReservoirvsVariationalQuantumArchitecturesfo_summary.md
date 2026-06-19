@@ -1,4 +1,12 @@
+---
+title: "2026 04 26 14 43 03Z Fixed Reservoirvsvariationalquantumarchitecturesfo Summary"
+date: 2026-04-26
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-26_14-43-03Z_Fixed_ReservoirvsVariationalQuantumArchitecturesfo.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.23743v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-26_14-43-03Z_Fixed_ReservoirvsVariationalQuantumArchitecturesfo.md
 Model: None

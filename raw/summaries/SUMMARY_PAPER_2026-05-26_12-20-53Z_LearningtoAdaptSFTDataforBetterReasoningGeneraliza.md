@@ -1,12 +1,15 @@
 ---
+
 title: Learning to Adapt SFT Data for Better Reasoning Generalization
 url: http://arxiv.org/abs/2605.26924v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_12-20-53Z_LearningtoAdaptSFTDataforBetterReasoningGeneraliza.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Data Adaptation for Reasoning Tuning (DART), a method that uses reinforcement learning to transform existing supervised fine‑tuning data into a distributionally aligned version, improving the target model’s reasoning generalization. The method demonstrates that synthetic supervision can significantly boost reasoning performance.

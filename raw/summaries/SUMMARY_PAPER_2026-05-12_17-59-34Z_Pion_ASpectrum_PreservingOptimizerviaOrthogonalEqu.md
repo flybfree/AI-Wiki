@@ -1,12 +1,15 @@
 ---
-title: Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation
+
+title: "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation"
 url: http://arxiv.org/abs/2605.12492v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_17-59-34Z_Pion_ASpectrum_PreservingOptimizerviaOrthogonalEqu.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Pion, a spectrum‑preserving optimizer that updates LLM weight matrices using left and right orthogonal transformations. By fixing the singular values of each matrix, Pion maintains the spectral norm while allowing geometry changes during training. Empirical results demonstrate that Pion provides stable performance comparable to standard optimizers such as Adam for both pretraining and fine‑tuning.

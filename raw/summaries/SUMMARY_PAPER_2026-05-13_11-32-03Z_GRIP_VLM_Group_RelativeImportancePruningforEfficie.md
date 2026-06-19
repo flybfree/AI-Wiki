@@ -1,12 +1,15 @@
 ---
-title: GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models
+
+title: "GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models"
 url: http://arxiv.org/abs/2605.13375v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_11-32-03Z_GRIP_VLM_Group_RelativeImportancePruningforEfficie.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces GRIP-VLM, a reinforcement‑learning based framework for pruning visual tokens in vision‑language models to reduce computational cost while preserving performance. Experiments show that GRIP-VLM outperforms existing methods and can achieve up to 15 % inference speedup without sacrificing accuracy.

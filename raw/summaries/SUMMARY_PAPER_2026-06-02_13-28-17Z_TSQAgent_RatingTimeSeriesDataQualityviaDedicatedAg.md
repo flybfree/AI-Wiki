@@ -1,12 +1,15 @@
 ---
-title: TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning
+
+title: "TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning"
 url: http://arxiv.org/abs/2606.03629v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_13-28-17Z_TSQAgent_RatingTimeSeriesDataQualityviaDedicatedAg.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces TSQAgent, an agentic reasoning framework for rating time series data quality. It evaluates LLMs on identifying relevant dimensions and performing grounded quantitative comparisons using a new benchmark TSQBench. Experiments show improved performance across both tasks and downstream applications.

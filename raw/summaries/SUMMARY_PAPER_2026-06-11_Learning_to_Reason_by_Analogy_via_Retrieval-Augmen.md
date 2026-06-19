@@ -1,12 +1,15 @@
 ---
+
 title: Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning
 url: http://arxiv.org/abs/2606.13680v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md
-generated_at: 2026-06-11 23:00
+generated_at: "2026-06-11 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Retrieval-Augmented Reinforcement Fine-Tuning (RA‑RFT), a method that teaches language models to solve reasoning problems by analogy rather than relying solely on semantic similarity. By using gold‑relevance distillation to rank contexts based on expected reasoning benefit and then applying reinforcement fine‑tuning with retrieved analogous demonstrations, RA‑RFT enables the model to leverage distinct reasoning scaffolds. Across difficult mathematical benchmarks it improves AIME 2025 accuracy by 7.1 points over GRPO for Qwen3‑1.7B and by 2.8 points for Qwen3‑4B.

@@ -1,12 +1,15 @@
 ---
-title: Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models
+
+title: "Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models"
 url: http://arxiv.org/abs/2605.21123v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_12-54-51Z_Linear_DPO_LinearDirectPreferenceOptimizationforDi.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Linear-DPO, a method that extends Direct Preference Optimization for generative models beyond diffusion to flow-matching by using a unified reverse-time SDE framework. It replaces the sigmoid utility with a linear one and uses an EMA-updated reference model, achieving better alignment in text-to-image tasks.

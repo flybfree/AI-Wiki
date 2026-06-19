@@ -1,4 +1,12 @@
+---
+title: "2026 04 24 17 18 56Z Aligningdenseretrieverswithllmutilityviadistillati Summary"
+date: 2026-04-24
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-24_17-18-56Z_AligningDenseRetrieverswithLLMUtilityviaDistillati.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.22722v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-24_17-18-56Z_AligningDenseRetrieverswithLLMUtilityviaDistillati.md
 Model: None

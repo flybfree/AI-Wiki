@@ -1,12 +1,15 @@
 ---
-title: Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows
+
+title: "Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows"
 url: http://arxiv.org/abs/2604.21816v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_16-10-00Z_ToolAttentionIsAllYouNeed_DynamicToolGatingandLazy.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Tool Attention, a middleware that reduces the hidden token overhead caused by the Model Context Protocol (MCP) Tools Tax in agentic workflows. The authors report a 95% reduction in per‑turn tool tokens and a jump from 24% to 91% effective context utilization on a simulated benchmark.

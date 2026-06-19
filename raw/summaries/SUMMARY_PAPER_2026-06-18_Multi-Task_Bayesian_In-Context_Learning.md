@@ -1,12 +1,15 @@
 ---
+
 title: Multi-Task Bayesian In-Context Learning
 url: http://arxiv.org/abs/2606.20538v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md
-generated_at: 2026-06-18 23:00
+generated_at: "2026-06-18 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a multi‑task in‑context learning framework that enables hierarchical Bayesian predictive inference to be adapted quickly across different prior distributions without retraining the model. By treating prior information as a prefix of each in‑context dataset, the transformer learns to generate predictive distributions for new tasks while preserving data efficiency and uncertainty quantification. On challenging benchmarks including out‑of‑meta priors and high‑dimensional latent structures, the method matches oracle Bayesian predictors while being orders of magnitude faster than exact inference.

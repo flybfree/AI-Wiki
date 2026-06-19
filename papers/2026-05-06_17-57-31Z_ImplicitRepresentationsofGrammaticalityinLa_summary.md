@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 17 57 31Z Implicitrepresentationsofgrammaticalityinla Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-06_17-57-31Z_ImplicitRepresentationsofGrammaticalityinLanguageM.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:09
 Source: 2026-05-06_17-57-31Z_ImplicitRepresentationsofGrammaticalityinLanguageM.md
 Model: None

@@ -1,12 +1,15 @@
 ---
+
 title: Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning
 url: http://arxiv.org/abs/2605.21475v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_17-56-09Z_IsFixingSchemaGraphsNecessary_Full_ResolutionGraph.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces FROG, a framework that learns graph structures from relational data while preserving full-resolution semantics. It treats table roles as learnable parameters and optimizes them jointly with GNN representations. Experiments show improved performance over fixed-structure methods.

@@ -1,12 +1,15 @@
 ---
-title: Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning
+
+title: "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning"
 url: http://arxiv.org/abs/2605.26110v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-25_17-59-28Z_Prism_APlug_inReproducibleInfrastructureforScalabl.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Prism, a plug‑in based infrastructure that enables scalable multimodal continual instruction tuning (MCIT) without altering the core MLLM codebase. By separating algorithmic strategies into lightweight plugins, Prism removes engineering bottlenecks and structural fragmentation in existing MCIT methods.

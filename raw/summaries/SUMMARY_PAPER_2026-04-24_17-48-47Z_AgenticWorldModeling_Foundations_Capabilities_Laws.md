@@ -1,12 +1,15 @@
 ---
-title: Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond
+
+title: "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond"
 url: http://arxiv.org/abs/2604.22748v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-24_17-48-47Z_AgenticWorldModeling_Foundations_Capabilities_Laws.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes a “levels x laws” taxonomy to unify the diverse ways AI agents model environments and the constraints that govern those models. By classifying agent capabilities into three levels (predictor, simulator, evolver) and four law regimes (physical, digital, social, scientific), it synthesizes over 400 works and highlights failure modes across level‑regime pairs.

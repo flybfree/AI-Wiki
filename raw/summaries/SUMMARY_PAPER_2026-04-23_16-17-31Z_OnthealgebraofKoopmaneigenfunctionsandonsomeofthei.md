@@ -1,12 +1,15 @@
 ---
+
 title: On the algebra of Koopman eigenfunctions and on some of their infinities
 url: http://arxiv.org/abs/2604.21825v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_16-17-31Z_OnthealgebraofKoopmaneigenfunctionsandonsomeofthei.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates the algebraic structure of Koopman eigenfunctions for reversible dynamical systems and shows how their multiplicative group property enables systematic construction of larger sets from a few principal eigenfunctions. It demonstrates that by forming polynomials of these functions we can capture localized or extended singularities, enabling accurate representation of observables across complex state spaces.

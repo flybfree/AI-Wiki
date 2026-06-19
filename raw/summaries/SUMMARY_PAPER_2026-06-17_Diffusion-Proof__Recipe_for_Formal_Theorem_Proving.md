@@ -1,12 +1,15 @@
 ---
-title: Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation
+
+title: "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation"
 url: http://arxiv.org/abs/2606.19315v1
 type: paper-summary
 date: 2026-06-17
 source_paper: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md
-generated_at: 2026-06-17 22:00
+generated_at: "2026-06-17 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Diffusion‑Proof, a framework that leverages diffusion large language models (dLLMs) for formal theorem proving. It trains two dLLM variants: one for whole‑proof generation and another for local correction, achieving measurable gains over autoregressive baselines on ProofNet‑Test and MiniF2F‑Test.

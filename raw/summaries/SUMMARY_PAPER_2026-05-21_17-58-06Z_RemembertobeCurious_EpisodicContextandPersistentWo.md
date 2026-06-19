@@ -1,12 +1,15 @@
 ---
-title: Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration
+
+title: "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration"
 url: http://arxiv.org/abs/2605.22814v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-21_17-58-06Z_RemembertobeCurious_EpisodicContextandPersistentWo.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a curiosity‑driven reinforcement learning framework for 3D exploration that combines persistent world modeling and episodic trajectory memory, allowing agents to explore novel regions without getting trapped in local loops. On the HM3D benchmark it outperforms active‑mapping baselines and generalizes zero‑shot to new visual worlds such as Gibson and AI‑generated scenes. The end‑to‑end policy operates on RGB frames at deployment while maintaining an internal 3D reconstruction for exploration.

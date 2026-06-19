@@ -10,8 +10,16 @@ source_pages:
   - raw/articles/2026-04-29_Top_Machine_Learning_Architectures_Explained_-_BMC.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 2: How an ML System Works
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

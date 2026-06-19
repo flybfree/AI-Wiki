@@ -1,12 +1,15 @@
 ---
-title: Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention
+
+title: "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention"
 url: http://arxiv.org/abs/2605.22791v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-21_17-44-57Z_GatedDeltaNet_2_DecouplingEraseandWriteinLinearAtt.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Gated DeltaNet‑2, a linear attention model that separates the erasing and writing operations using channel‑wise gates while preserving adaptive forgetting and decay mechanisms. The authors show that Gated DeltaNet‑2 outperforms Mamba‑2, Gated DeltaNet, KDA, and Mamba‑3 variants across language modeling, commonsense reasoning, and retrieval tasks, especially on long‑context benchmarks.

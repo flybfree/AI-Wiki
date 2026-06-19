@@ -1,4 +1,12 @@
+---
+title: "2026 06 17 17 40 55Z Explainingattentionwithprogramsynthesis Summary"
+date: 2026-06-17
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-17 22:00
 Source: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md
 Model: None

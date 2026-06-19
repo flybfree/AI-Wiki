@@ -1,12 +1,15 @@
 ---
+
 title: Recursive Multi-Agent Systems
 url: http://arxiv.org/abs/2604.25917v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-28_17-59-34Z_RecursiveMulti_AgentSystems.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces RecursiveMAS a framework that lets multi‑agent systems scale by nesting loops of model computation. It shows the approach improves accuracy and reduces token usage compared with existing methods.

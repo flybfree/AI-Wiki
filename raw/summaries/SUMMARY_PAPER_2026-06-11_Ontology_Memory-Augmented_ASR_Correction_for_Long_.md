@@ -1,12 +1,15 @@
 ---
+
 title: Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations
 url: http://arxiv.org/abs/2606.13464v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md
-generated_at: 2026-06-11 21:00
+generated_at: "2026-06-11 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces an ontology memory‑augmented ASR correction framework designed for long, interleaved text‑speech conversations where errors are context‑dependent. The method organizes prior interaction history into a dynamically updatable knowledge graph that stores entities, terminology variants, potential confusions and semantic relations, enabling retrieval‑grounded corrections. Experiments on the RAMC‑Corr dataset show the approach outperforms direct correction in nine out of ten backbone settings.

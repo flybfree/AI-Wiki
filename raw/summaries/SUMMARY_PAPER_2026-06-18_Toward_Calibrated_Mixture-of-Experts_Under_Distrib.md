@@ -1,12 +1,15 @@
 ---
+
 title: Toward Calibrated Mixture-of-Experts Under Distribution Shift
 url: http://arxiv.org/abs/2606.20544v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md
-generated_at: 2026-06-18 23:00
+generated_at: "2026-06-18 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how mixture-of-experts (MoE) models maintain calibration when faced with distribution shift, focusing on the interaction between expert-level calibration and routing mechanisms. The authors demonstrate that expert calibration guarantees overall model calibration in hard‑routed scenarios but fails for soft‑routed models, leading to a proposed adversarial reweighting approach that improves both accuracy and calibration across various settings.

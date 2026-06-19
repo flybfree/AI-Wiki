@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 17 58 21Z Dv World Benchmarkingdatavisualizationagentsinreal Summary"
+date: 2026-04-28
+tags: ['paper', 'research', 'ai']
+---
 # DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.25914v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-28_17-58-21Z_DV_World_BenchmarkingDataVisualizationAgentsinReal.md
 

@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 China S Ai Upstart Deepseek Drops New Model Will"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 China S Ai Upstart Deepseek Drops New Model  Will 
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: China’s AI upstart DeepSeek drops new model. Will it make waves like ...
 Article text:
 

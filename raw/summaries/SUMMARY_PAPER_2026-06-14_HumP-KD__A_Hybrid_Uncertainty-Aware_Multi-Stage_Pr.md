@@ -1,12 +1,15 @@
 ---
-title: HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification
+
+title: "HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification"
 url: http://arxiv.org/abs/2606.14684v1
 type: paper-summary
 date: 2026-06-14
 source_paper: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md
-generated_at: 2026-06-14 22:00
+generated_at: "2026-06-14 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces HumP‑KD, a hybrid uncertainty‑aware multi‑stage progressive knowledge distillation framework designed to produce accurate yet lightweight fire classification models suitable for real‑time deployment on edge hardware. On the large Dataset‑II, HumP‑KD reaches a mean F1 score of 0.9876 ± 0.0063, markedly surpassing the baseline MobileViT‑S trained without distillation (0.9537 ± 0.0351). The student model is reduced to 4.94 M parameters and 19.01 Mb in size, delivering 37.72 CPU FPS.

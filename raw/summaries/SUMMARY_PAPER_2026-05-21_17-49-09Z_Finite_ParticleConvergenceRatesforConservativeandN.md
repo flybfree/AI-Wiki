@@ -1,12 +1,15 @@
 ---
+
 title: Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models
 url: http://arxiv.org/abs/2605.22795v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-21_17-49-09Z_Finite_ParticleConvergenceRatesforConservativeandN.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a conservative drifting method for one-step generative modeling and establishes finite‑particle convergence rates for both conservative and non‑conservative drift fields. It shows that the empirical Stein drift, KDE discrepancy, and center velocity satisfy bounds that depend on kernel bandwidth and quadrature regularity.

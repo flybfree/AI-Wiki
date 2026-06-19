@@ -1,12 +1,15 @@
 ---
+
 title: Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics
 url: http://arxiv.org/abs/2606.03982v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_17-58-02Z_LanguageModelsCompareQuantitiesUsingNumber_specifi.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how language models compare quantities that include measurement units such as 110 cm and 1.2 m across different unit systems. The study reveals that model performance drops near the comparison boundary where small numerical differences dictate the correct answer, indicating reliance on heuristic shortcuts rather than precise conversion.

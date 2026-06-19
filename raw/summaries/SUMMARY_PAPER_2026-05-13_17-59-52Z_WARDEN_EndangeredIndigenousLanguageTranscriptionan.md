@@ -1,12 +1,15 @@
 ---
-title: WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data
+
+title: "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data"
 url: http://arxiv.org/abs/2605.13846v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_17-59-52Z_WARDEN_EndangeredIndigenousLanguageTranscriptionan.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper presents WARDEN, a two‑stage system that transcribes and translates the endangered Wardaman language into English using only six hours of annotated audio data. The authors show that separate transcription and translation models outperform unified approaches in such low‑resource settings, establishing a strong baseline for early language modeling.

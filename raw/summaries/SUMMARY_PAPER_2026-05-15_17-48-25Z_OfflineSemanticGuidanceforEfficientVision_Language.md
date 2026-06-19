@@ -1,12 +1,15 @@
 ---
+
 title: Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation
 url: http://arxiv.org/abs/2605.16241v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-15_17-48-25Z_OfflineSemanticGuidanceforEfficientVision_Language.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces VLA-AD, a distillation framework that transfers large vision‑language‑action policies into compact student models using offline semantic guidance from a vision‑language model. It achieves size reduction and speedup while preserving performance on robotic manipulation tasks.

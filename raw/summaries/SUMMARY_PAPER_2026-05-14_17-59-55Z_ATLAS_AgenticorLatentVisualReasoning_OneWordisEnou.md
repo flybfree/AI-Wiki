@@ -1,12 +1,15 @@
 ---
-title: ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both
+
+title: "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both"
 url: http://arxiv.org/abs/2605.15198v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_17-59-55Z_ATLAS_AgenticorLatentVisualReasoning_OneWordisEnou.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces ATLAS, a framework that uses a single discrete token to represent both an agentic operation and latent visual reasoning. Experiments show ATLAS outperforms prior methods while keeping training simple. The approach avoids complex architectures and maintains standard SFT/RL pipelines.

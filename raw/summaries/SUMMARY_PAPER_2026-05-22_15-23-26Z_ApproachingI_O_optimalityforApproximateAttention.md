@@ -1,12 +1,15 @@
 ---
+
 title: Approaching I/O-optimality for Approximate Attention
 url: http://arxiv.org/abs/2605.23751v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_15-23-26Z_ApproachingI_O_optimalityforApproximateAttention.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper revisits the I/O complexity of attention in large language models and introduces a technique that reduces it to almost‑linear dependence on sequence length n while keeping other parameters fixed. It achieves this by adapting approximate attention methods from Alman and Song, and proves lower bounds showing the algorithm is close to optimal.

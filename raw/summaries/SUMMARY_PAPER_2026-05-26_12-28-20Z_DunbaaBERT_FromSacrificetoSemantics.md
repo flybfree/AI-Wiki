@@ -1,12 +1,15 @@
 ---
-title: DunbaaBERT: From Sacrifice to Semantics
+
+title: "DunbaaBERT: From Sacrifice to Semantics"
 url: http://arxiv.org/abs/2605.26935v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_12-28-20Z_DunbaaBERT_FromSacrificetoSemantics.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces DunbaaBERT, a set of Urdu RoBERTa‑base models trained from scratch on a deduplicated Urdu corpus using Byte‑BPE vocabularies ranging from 32k to 96k tokens. The authors evaluate these models across linguistic acceptability, news classification, offensive language detection, and sentiment analysis, finding that larger vocabularies do not consistently boost downstream performance while the 32k variant offers the best efficiency trade‑off.

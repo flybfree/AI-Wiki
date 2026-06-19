@@ -1,12 +1,15 @@
 ---
+
 title: Designing Datacenter Power Delivery Hierarchies for the AI Era
 url: http://arxiv.org/abs/2605.16255v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-15_17-58-58Z_DesigningDatacenterPowerDeliveryHierarchiesfortheA.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a framework that evaluates datacenter power delivery designs by measuring throughput, power usage, and cost over realistic arrival, oversubscription, and decommissioning sequences. The study combines projection models for GPU, compute, and storage deployments with operational data from Microsoft Azure to quantify how multi‑resource stranding affects capacity, capital expenditure, and delivered performance as AI rack densities rise.

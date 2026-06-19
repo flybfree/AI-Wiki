@@ -1,14 +1,25 @@
 ---
+
 title: 'KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems'
-published: 2026-05-29T17:58:01Z
+published: "2026-05-29T17:58:01Z"
 authors: Alireza Kheirandish, Jihoon Hong, Sara Fridovich-Keil
 url: http://arxiv.org/abs/2605.31596v1
 type: paper-summary
 tags: [paper-summary, arxiv]
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
+
 
 # KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems
 
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.31596v1)
 ## Abstract
 Diffusion models have shown promising performance as data-driven priors for computational imaging, as well as some capacity to detect out-of-distribution (OOD) images. However, existing approaches to OOD detection often require some knowledge of the shifted distribution, fail to detect subtle or localized distribution shifts, and operate on full images, rather than the indirect measurements available in inverse problems. We propose an OOD detection metric based on the Kullback-Leibler divergence between the diffusion prior and the posterior distribution, that (i) does not require any calibration data or knowledge of the shifted distribution, and (ii) can detect whole images as OOD as well as localize OOD patches within an image. Experimentally, we show that this metric can detect subtle yet semantically meaningful distribution shifts, such as the shift from healthy liver CT scans to those with tumors, and generalizes across different types of diffusion models, datasets, and inverse problems. Our code can be found at https://github.com/voilalab/KLIP.
 

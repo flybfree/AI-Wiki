@@ -1,12 +1,15 @@
 ---
+
 title: Toward Better Geometric Representations for Molecule Generative Models
 url: http://arxiv.org/abs/2605.07693v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_13-02-58Z_TowardBetterGeometricRepresentationsforMoleculeGen.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces LENSEs, a framework that improves geometric representations for molecule generation by integrating a representation head, perceptual loss, and node-level alignment. The authors show that LENSEs yields higher validity (97.28%) and stability (98.51%) on GEOM-DRUG than prior methods.

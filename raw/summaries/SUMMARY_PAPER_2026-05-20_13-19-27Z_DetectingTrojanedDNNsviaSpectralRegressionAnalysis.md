@@ -1,12 +1,15 @@
 ---
+
 title: Detecting Trojaned DNNs via Spectral Regression Analysis
 url: http://arxiv.org/abs/2605.21146v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_13-19-27Z_DetectingTrojanedDNNsviaSpectralRegressionAnalysis.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces MIST, a method for detecting Trojaned deep neural networks by analyzing spectral deviations in model updates. It treats detection as a regression problem over the evolution of internal representations and demonstrates that MIST reliably distinguishes malicious fine‑tuning from clean updates without needing knowledge of poisoned data or triggers.

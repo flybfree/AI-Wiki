@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 Inside The Ai Index 12 Takeaways From The 2026 Re Summary"
+date: 2026-04-28
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-28_Inside_the_AI_Index__12_Takeaways_from_the_2026_Re.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 20:04
 Source: 2026-04-28_Inside_the_AI_Index__12_Takeaways_from_the_2026_Re.md
 Model: qwen3.6:35b

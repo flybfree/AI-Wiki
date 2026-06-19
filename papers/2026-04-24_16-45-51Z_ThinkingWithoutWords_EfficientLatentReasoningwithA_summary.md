@@ -1,4 +1,12 @@
+---
+title: "2026 04 24 16 45 51Z Thinkingwithoutwords Efficientlatentreasoningwitha Summary"
+date: 2026-04-24
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-24_16-45-51Z_ThinkingWithoutWords_EfficientLatentReasoningwithA.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.22709v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-24_16-45-51Z_ThinkingWithoutWords_EfficientLatentReasoningwithA.md
 Model: None

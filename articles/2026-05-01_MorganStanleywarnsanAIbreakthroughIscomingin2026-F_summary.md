@@ -1,4 +1,12 @@
+---
+title: "2026 05 01 Morganstanleywarnsanaibreakthroughiscomingin2026 F Summary"
+date: 2026-05-01
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-05-01_MorganStanleywarnsanAIbreakthroughIscomingin2026-F.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-05-01 04:15
 Source: 2026-05-01_MorganStanleywarnsanAIbreakthroughIscomingin2026-F.md
 Model: qwen3.6:35b

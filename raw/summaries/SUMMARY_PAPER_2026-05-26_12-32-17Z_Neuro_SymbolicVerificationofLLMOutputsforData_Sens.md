@@ -1,12 +1,15 @@
 ---
+
 title: Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains (extended preprint)
 url: http://arxiv.org/abs/2605.26942v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_12-32-17Z_Neuro_SymbolicVerificationofLLMOutputsforData_Sens.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a neuro‑symbolic verification framework that merges formal logical reasoning with neural semantic analysis to safeguard LLM outputs in high‑stakes, data‑sensitive domains. The architecture achieves high hallucination detection rates and reduces report creation time, showing its practical value for reliable AI deployment.

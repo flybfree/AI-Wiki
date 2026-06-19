@@ -12,8 +12,16 @@ source_pages:
   - raw/articles/2026-04-28_Generative_AI_-_Wikipedia.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 16: Deployment, Scaling, and What Comes Next
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

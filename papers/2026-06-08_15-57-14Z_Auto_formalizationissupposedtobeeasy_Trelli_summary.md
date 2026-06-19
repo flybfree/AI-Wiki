@@ -1,4 +1,12 @@
+---
+title: "2026 06 08 15 57 14Z Auto Formalizationissupposedtobeeasy Trelli Summary"
+date: 2026-06-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-08_15-57-14Z_Auto_formalizationissupposedtobeeasy_Trellisproces.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-08 22:02
 Source: 2026-06-08_15-57-14Z_Auto_formalizationissupposedtobeeasy_Trellisproces.md
 Model: None

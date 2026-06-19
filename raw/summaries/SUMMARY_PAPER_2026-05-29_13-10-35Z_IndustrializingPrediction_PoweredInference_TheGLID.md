@@ -1,12 +1,15 @@
 ---
-title: Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation
+
+title: "Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation"
 url: http://arxiv.org/abs/2605.31278v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_13-10-35Z_IndustrializingPrediction_PoweredInference_TheGLID.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces GLIDE, an open‑source Python library that unifies multiple prediction‑powered inference estimators and samplers for reliable agentic system evaluation. By providing a scipy‑style API for mean estimation, GLIDE delivers unbiased confidence intervals without relying solely on costly human annotation or biased LLM judges.

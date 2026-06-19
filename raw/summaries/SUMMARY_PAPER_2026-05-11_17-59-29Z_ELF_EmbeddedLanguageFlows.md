@@ -1,12 +1,15 @@
 ---
-title: ELF: Embedded Language Flows
+
+title: "ELF: Embedded Language Flows"
 url: http://arxiv.org/abs/2605.10938v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-11_17-59-29Z_ELF_EmbeddedLanguageFlows.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Embedded Language Flows (ELF), a continuous‑time diffusion model that generates language data by operating in an embedding space until the final step, where it maps to discrete tokens. Experiments show ELF outperforms existing discrete and continuous language models with higher quality generation and fewer sampling steps.

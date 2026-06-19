@@ -1,12 +1,15 @@
 ---
+
 title: Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization
 url: http://arxiv.org/abs/2606.07496v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-05_17-51-11Z_AcceleratedDecentralizedStochasticGradientDescentf.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Multi-Gossip Accelerated DSGD, a decentralized stochastic algorithm that merges Nesterov-type primal-dual extrapolation with multi-round gossip averaging to accelerate convergence for strongly convex problems. The authors demonstrate that the method achieves a communication complexity of \(\widetilde{\mathcal O}\!\left( \frac{σ^2}{μnε}\log\frac{1}ε + \sqrt{\fracκ{1-β}}\log\frac{1}ε \right)\), which is currently the best known up to logarithmic factors.

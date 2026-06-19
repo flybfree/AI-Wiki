@@ -1,12 +1,15 @@
 ---
-title: SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Distractor Diagnostics
+
+title: "SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Distractor Diagnostics"
 url: http://arxiv.org/abs/2605.31575v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_17-44-15Z_SPECTRA_SyntheticIRTestCollectionswithRelevanceOra.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper presents SPECTRA, a framework for generating synthetic IR test collections that can stress index construction and ranking latency without relying on costly human judgments. The authors demonstrate that a single‑process Python prototype can create up to 60 k documents and 9.61 M tokens while maintaining controllable vocabulary growth and providing graded relevance labels for 96 queries.

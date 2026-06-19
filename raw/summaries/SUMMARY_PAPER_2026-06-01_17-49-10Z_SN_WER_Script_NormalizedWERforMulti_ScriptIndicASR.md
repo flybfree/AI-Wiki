@@ -1,12 +1,15 @@
 ---
-title: SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation
+
+title: "SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation"
 url: http://arxiv.org/abs/2606.02548v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-01_17-49-10Z_SN_WER_Script_NormalizedWERforMulti_ScriptIndicASR.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Script-Normalized WER (SN-WER), a training‑free evaluation metric that transliterates both reference and hypothesis into a language‑specific canonical script before computing the usual word error rate. On Indic languages, SN-WER reduces inflated model gaps by up to 12% on the curated FLEURS data.

@@ -1,4 +1,12 @@
+---
+title: "2026 06 09 Loopengineering Ai Coding Agents Summary"
+date: 2026-06-09
+tags: ['wiki']
+---
 # Summary: 2026-06-09_LoopEngineering_AI_Coding_Agents.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-06-13 21:00
 Source: 2026-06-09_LoopEngineering_AI_Coding_Agents.md
 Model: nvidia/nemotron-3-nano-4b

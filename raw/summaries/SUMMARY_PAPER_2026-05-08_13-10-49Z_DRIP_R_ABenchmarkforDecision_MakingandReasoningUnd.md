@@ -1,12 +1,15 @@
 ---
-title: DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain
+
+title: "DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain"
 url: http://arxiv.org/abs/2605.07699v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_13-10-49Z_DRIP_R_ABenchmarkforDecision_MakingandReasoningUnd.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces DRIP-R, a benchmark designed to evaluate LLM agents on real‑world retail policy ambiguities where multiple valid interpretations exist. The authors demonstrate that frontier models frequently disagree on identical ambiguous scenarios, confirming ambiguity as a systematic challenge for decision‑making under uncertain policies.

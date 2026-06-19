@@ -1,12 +1,15 @@
 ---
-title: Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL
+
+title: "Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL"
 url: http://arxiv.org/abs/2604.20835v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-22_17-58-36Z_Parallel_SFT_ImprovingZero_ShotCross_Programming_L.md
-generated_at: 2026-06-11 10:25
+generated_at: "2026-06-11 10:25"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Parallel-SFT, a method that mixes functionally equivalent code written in different programming languages to improve zero-shot cross-programming-language transfer for code reinforcement learning. Experiments show that applying this SFT initialization before RL yields better performance on unseen languages compared with training directly from scratch. The model’s latent space becomes more functionality‑centric, clustering similar programs together.

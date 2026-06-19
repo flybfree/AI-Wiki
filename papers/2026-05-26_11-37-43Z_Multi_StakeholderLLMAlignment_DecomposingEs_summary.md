@@ -1,4 +1,12 @@
+---
+title: "2026 05 26 11 37 43Z Multi Stakeholderllmalignment Decomposinges Summary"
+date: 2026-05-26
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-26_11-37-43Z_Multi_StakeholderLLMAlignment_DecomposingEstimatio.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-26 20:00
 Source: 2026-05-26_11-37-43Z_Multi_StakeholderLLMAlignment_DecomposingEstimatio.md
 Model: None

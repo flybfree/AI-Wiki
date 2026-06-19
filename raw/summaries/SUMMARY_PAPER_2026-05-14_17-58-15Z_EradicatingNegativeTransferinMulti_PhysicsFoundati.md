@@ -1,12 +1,15 @@
 ---
+
 title: Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing
 url: http://arxiv.org/abs/2605.15179v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_17-58-15Z_EradicatingNegativeTransferinMulti_PhysicsFoundati.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Shodh-MoE, a sparse‑activated latent transformer that mitigates negative transfer in multi‑physics foundation models by routing latent patches to specialized experts while preserving shared components. It achieves exact mass conservation and low reconstruction MSEs on both open‑channel fluid dynamics and porous‑media flows.

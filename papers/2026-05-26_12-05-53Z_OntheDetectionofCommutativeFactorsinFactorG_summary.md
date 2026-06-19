@@ -1,4 +1,12 @@
+---
+title: "2026 05 26 12 05 53Z Onthedetectionofcommutativefactorsinfactorg Summary"
+date: 2026-05-26
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-26_12-05-53Z_OntheDetectionofCommutativeFactorsinFactorGraphs_N.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-26 20:00
 Source: 2026-05-26_12-05-53Z_OntheDetectionofCommutativeFactorsinFactorGraphs_N.md
 Model: None

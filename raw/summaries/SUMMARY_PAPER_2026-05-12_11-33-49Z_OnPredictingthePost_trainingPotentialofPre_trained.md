@@ -1,12 +1,15 @@
 ---
+
 title: On Predicting the Post-training Potential of Pre-trained LLMs
 url: http://arxiv.org/abs/2605.11978v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_11-33-49Z_OnPredictingthePost_trainingPotentialofPre_trained.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces RuDE to predict post‑training performance of LLMs before fine‑tuning, achieving a correlation above 90% with actual results and showing smaller models can surpass larger ones. It demonstrates that response discrimination via rubric violations provides a reliable proxy for future capability.

@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 What Is Generative Ai How It Works Examples Ben Summary"
+date: 2026-04-28
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-28_What_Is_Generative_AI__How_It_Works__Examples__Ben.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 20:07
 Source: 2026-04-28_What_Is_Generative_AI__How_It_Works__Examples__Ben.md
 Model: qwen3.6:35b

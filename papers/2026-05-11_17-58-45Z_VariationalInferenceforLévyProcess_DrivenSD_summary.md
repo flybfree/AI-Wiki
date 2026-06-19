@@ -1,4 +1,12 @@
+---
+title: "2026 05 11 17 58 45Z Variationalinferenceforlévyprocess Drivensd Summary"
+date: 2026-05-11
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-11_17-58-45Z_VariationalInferenceforLévyProcess_DrivenSDEsviaNe.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-12 03:01
 Source: 2026-05-11_17-58-45Z_VariationalInferenceforLévyProcess_DrivenSDEsviaNe.md
 Model: None

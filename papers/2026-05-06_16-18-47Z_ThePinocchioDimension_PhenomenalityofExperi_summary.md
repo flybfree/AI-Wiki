@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 16 18 47Z Thepinocchiodimension Phenomenalityofexperi Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-06_16-18-47Z_ThePinocchioDimension_PhenomenalityofExperienceast.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:04
 Source: 2026-05-06_16-18-47Z_ThePinocchioDimension_PhenomenalityofExperienceast.md
 Model: None

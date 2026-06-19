@@ -1,4 +1,12 @@
+---
+title: "2026 06 12 Top7Opensourcellmsfor2026 Summary"
+date: 2026-06-12
+tags: ['wiki']
+---
 # Summary: 2026-06-12_Top7opensourceLLMsfor2026.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-06-12 14:00
 Source: 2026-06-12_Top7opensourceLLMsfor2026.md
 Model: nvidia/nemotron-3-nano-4b

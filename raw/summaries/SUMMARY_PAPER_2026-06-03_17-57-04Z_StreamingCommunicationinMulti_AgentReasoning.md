@@ -1,12 +1,15 @@
 ---
+
 title: Streaming Communication in Multi-Agent Reasoning
 url: http://arxiv.org/abs/2606.05158v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-03_17-57-04Z_StreamingCommunicationinMulti_AgentReasoning.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces StreamMA, a multi‑agent reasoning framework that streams each step to downstream agents as soon as it is generated, thereby pipelining the pipeline and reducing latency. The authors demonstrate that this streaming approach not only cuts end‑to‑end delay but also improves effectiveness by leveraging reliable early steps instead of error‑prone later ones.

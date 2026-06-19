@@ -1,12 +1,15 @@
 ---
-title: Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems
+
+title: "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems"
 url: http://arxiv.org/abs/2605.04018v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-05_17-42-50Z_RethinkingReasoning_IntensiveRetrieval_Evaluatinga.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces BRIGHT‑Pro, an expert‑annotated benchmark that supplies multi‑aspect gold evidence to test reasoning‑intensive retrieval, and builds RTriever‑Synth, a synthetic corpus designed to create complementary positives and hard negatives. Experiments show that aspect‑aware evaluation uncovers weaknesses hidden by standard metrics, while fine‑tuning RTriever‑4B on RTriever‑Synth yields substantial gains over the base Qwen3‑Embedding‑4B model.

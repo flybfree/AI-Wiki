@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 17 54 16Z Longseeker Elasticcontextorchestrationforlo Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-06_17-54-16Z_LongSeeker_ElasticContextOrchestrationforLong_Hori.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:08
 Source: 2026-05-06_17-54-16Z_LongSeeker_ElasticContextOrchestrationforLong_Hori.md
 Model: None

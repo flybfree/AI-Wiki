@@ -11,8 +11,16 @@ source_pages:
   - raw/articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 14: Choosing the Right Architecture for the Task
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

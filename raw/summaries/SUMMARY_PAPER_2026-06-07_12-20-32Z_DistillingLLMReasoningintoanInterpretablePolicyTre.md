@@ -1,12 +1,15 @@
 ---
+
 title: Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration
 url: http://arxiv.org/abs/2606.08596v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-07_12-20-32Z_DistillingLLMReasoningintoanInterpretablePolicyTre.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Collaboration Policy Tree (Co‑pi‑tree), a closed-loop method that distills LLM reasoning into an interpretable policy tree, improving reward and reducing query costs compared to baseline. Experiments in Overcooked‑AI show 35.4% higher average reward, 77.7% fewer LLM queries, and 97.1% lower latency.

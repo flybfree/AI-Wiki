@@ -1,12 +1,15 @@
 ---
-title: Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery
+
+title: "Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery"
 url: http://arxiv.org/abs/2606.09672v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_15-54-28Z_CorrelationIsNotEnough_EmbeddingHumanMetadataforIn.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper addresses the problem that off‑the‑shelf biomedical language models generate spurious correlations between unrelated concepts, leading downstream systems to infer false causal links. By adding a contrastive pass over 72 034 pairs and a knowledge‑graph based negative mining step, PubMedBERT BIOSSES correlation improves from 0.633 to 0.828 while separation rises to 1.63×. The solution also yields 555 sentences per second on an Intel Xeon 6737P with OpenVINO.

@@ -1,12 +1,15 @@
 ---
-title: Judging to Improve: A De-biased VLM-as-3D-Judge Protocol for Single-Image 3D Generation
+
+title: "Judging to Improve: A De-biased VLM-as-3D-Judge Protocol for Single-Image 3D Generation"
 url: http://arxiv.org/abs/2606.20364v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md
-generated_at: 2026-06-18 21:00
+generated_at: "2026-06-18 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a de‑biased vision‑language model as a 3D judge that ranks single‑image to mesh quality and adapts it cheaply to the furniture class using TRELLIS. The study shows that conditioning repair can match the performance of strong public baselines while other methods fail, demonstrating that lightweight PEFT is insufficient.

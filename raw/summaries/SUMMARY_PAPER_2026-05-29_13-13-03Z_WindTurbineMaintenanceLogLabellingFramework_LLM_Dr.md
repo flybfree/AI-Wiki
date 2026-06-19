@@ -1,12 +1,15 @@
 ---
-title: Wind Turbine Maintenance Log Labelling Framework: LLM-Driven Data Correction and Enrichment via Semantic Extraction of Reliability Intelligence
+
+title: "Wind Turbine Maintenance Log Labelling Framework: LLM-Driven Data Correction and Enrichment via Semantic Extraction of Reliability Intelligence"
 url: http://arxiv.org/abs/2605.31281v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_13-13-03Z_WindTurbineMaintenanceLogLabellingFramework_LLM_Dr.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces an LLM‑driven framework that automatically standardises and enriches unstructured wind turbine maintenance logs by extracting reliability intelligence from free‑text failure descriptions. Applied to 16,316 logs from 280 turbines over nine years, the method corrected hierarchical system codes and generated structured taxonomies of actions and failure modes, structuring over 70 % of the dataset.

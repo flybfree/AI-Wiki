@@ -1,12 +1,15 @@
 ---
-title: Vector Policy Optimization: Training for Diversity Improves Test-Time Search
+
+title: "Vector Policy Optimization: Training for Diversity Improves Test-Time Search"
 url: http://arxiv.org/abs/2605.22817v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-21_17-59-26Z_VectorPolicyOptimization_TrainingforDiversityImpro.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Vector Policy Optimization VPO, a method that replaces the standard GRPO advantage estimator with an approach that trains language models to generate diverse solution sets aligned with multiple vector-valued reward functions. Experiments across four tasks show VPO matches or exceeds scalar RL baselines on test‑time search metrics such as pass@k and best@k, especially when search budgets are large.

@@ -1,4 +1,12 @@
+---
+title: "2026 06 12 Whatismlarchitecture Summary"
+date: 2026-06-12
+tags: ['wiki']
+---
 # Summary: 2026-06-12_WhatisMLArchitecture.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-06-12 03:00
 Source: 2026-06-12_WhatisMLArchitecture.md
 Model: nvidia/nemotron-3-nano-4b

@@ -1,12 +1,15 @@
 ---
-title: ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation
+
+title: "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation"
 url: http://arxiv.org/abs/2605.06667v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-07_17-59-58Z_ActCam_Zero_ShotJointCameraand3DMotionControlforVi.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 ActCam is a zero‑shot method that jointly transfers character motion from a source video into a new scene while allowing per‑frame control of both camera pose and depth. The approach uses pretrained image‑to‑video diffusion models conditioned on scene depth and character pose, generating consistent conditions across frames. Human evaluations show superior adherence to camera motion, especially under large viewpoint changes.

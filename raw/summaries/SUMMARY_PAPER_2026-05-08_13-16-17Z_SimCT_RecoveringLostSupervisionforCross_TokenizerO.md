@@ -1,12 +1,15 @@
 ---
-title: SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation
+
+title: "SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation"
 url: http://arxiv.org/abs/2605.07711v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_13-16-17Z_SimCT_RecoveringLostSupervisionforCross_TokenizerO.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 SimCT addresses a limitation of on‑policy distillation (OPD) when teacher and student use different tokenizers by silently discarding supervision at mismatched positions. The method restores this signal using short multi‑token continuations that both tokenizers can generate, preserving the original OPD loss form while significantly improving performance.

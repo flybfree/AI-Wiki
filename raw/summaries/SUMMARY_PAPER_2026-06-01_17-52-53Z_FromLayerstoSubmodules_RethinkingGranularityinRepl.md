@@ -1,12 +1,15 @@
 ---
-title: From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression
+
+title: "From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression"
 url: http://arxiv.org/abs/2606.02559v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-01_17-52-53Z_FromLayerstoSubmodules_RethinkingGranularityinRepl.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes SubFit, a method that replaces LLM submodules rather than whole layers, achieving better compression trade‑offs at various sparsity levels. The authors demonstrate that non‑contiguous and unevenly distributed redundancy allows more effective residual bypasses for Attention and FeedForward modules. Across ten models and four baselines, SubFit outperforms them in perplexity‑accuracy balance, especially under aggressive compression.

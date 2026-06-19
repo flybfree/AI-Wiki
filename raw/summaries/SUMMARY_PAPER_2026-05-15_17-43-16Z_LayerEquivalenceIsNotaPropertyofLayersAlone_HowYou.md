@@ -1,12 +1,15 @@
 ---
-title: Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find
+
+title: "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find"
 url: http://arxiv.org/abs/2605.16234v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-15_17-43-16Z_LayerEquivalenceIsNotaPropertyofLayersAlone_HowYou.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates the discrepancy between two common tests for layer equivalence in transformer compression: replacement and interchange. It shows that these tests can yield different conclusions about which layers are safe to prune or merge, especially as models evolve from initialization to convergence. The study demonstrates a growing gap in results across checkpoints and architectures.

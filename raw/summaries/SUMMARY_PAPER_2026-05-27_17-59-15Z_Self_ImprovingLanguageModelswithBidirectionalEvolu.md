@@ -1,12 +1,15 @@
 ---
+
 title: Self-Improving Language Models with Bidirectional Evolutionary Search
 url: http://arxiv.org/abs/2605.28814v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_17-59-15Z_Self_ImprovingLanguageModelswithBidirectionalEvolu.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Bidirectional Evolutionary Search (BES) to boost self-improving language models by merging forward candidate expansion with backward task decomposition. Experiments demonstrate that BES yields consistent gains on challenging post‑training tasks and outperforms existing open‑source frameworks in both average and best‑case performance.

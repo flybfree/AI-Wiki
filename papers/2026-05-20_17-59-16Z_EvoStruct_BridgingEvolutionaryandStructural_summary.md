@@ -1,4 +1,12 @@
+---
+title: "2026 05 20 17 59 16Z Evostruct Bridgingevolutionaryandstructural Summary"
+date: 2026-05-20
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-20_17-59-16Z_EvoStruct_BridgingEvolutionaryandStructuralPriorsf.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-20 23:02
 Source: 2026-05-20_17-59-16Z_EvoStruct_BridgingEvolutionaryandStructuralPriorsf.md
 Model: None

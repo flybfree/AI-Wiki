@@ -1,12 +1,15 @@
 ---
+
 title: Native Active Perception as Reasoning for Omni-Modal Understanding
 url: http://arxiv.org/abs/2606.19341v1
 type: paper-summary
 date: 2026-06-17
 source_paper: 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md
-generated_at: 2026-06-17 22:00
+generated_at: "2026-06-17 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces OmniAgent, the first native omni‑modal agent that treats video understanding as a POMDP‑based iterative Observation‑Thought‑Action cycle. By performing on‑demand actions to extract relevant audio‑visual cues into a persistent textual memory, OmniAgent decouples reasoning complexity from raw video duration and achieves positive test‑time scaling. Empirical evaluation across ten benchmarks shows state‑of‑the‑art performance, with the 7B agent surpassing the larger Qwen2.5‑VL‑72B on LVBench.

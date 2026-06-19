@@ -1,4 +1,12 @@
+---
+title: "2026 05 27 11 42 06Z Anenhancedlargeneighborhoodsearchapproachfo Summary"
+date: 2026-05-27
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-27_11-42-06Z_AnEnhancedLargeNeighborhoodSearchApproachfortheCap.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-27 21:00
 Source: 2026-05-27_11-42-06Z_AnEnhancedLargeNeighborhoodSearchApproachfortheCap.md
 Model: None

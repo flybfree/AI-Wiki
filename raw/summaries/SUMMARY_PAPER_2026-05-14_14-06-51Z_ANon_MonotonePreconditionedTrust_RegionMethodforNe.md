@@ -1,12 +1,15 @@
 ---
+
 title: A Non-Monotone Preconditioned Trust-Region Method for Neural Network Training
 url: http://arxiv.org/abs/2605.14860v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_14-06-51Z_ANon_MonotonePreconditionedTrust_RegionMethodforNe.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a non-monotone variant of the Additively Preconditioned Trust-Region Strategy called NAPTS. It uses a nonlinear additive Schwarz preconditioner to combine parallel subdomain corrections with global coarse-space directions, achieving faster convergence and fewer rejected steps compared to the original APTS.

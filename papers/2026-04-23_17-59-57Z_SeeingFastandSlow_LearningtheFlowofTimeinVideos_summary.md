@@ -1,4 +1,12 @@
+---
+title: "2026 04 23 17 59 57Z Seeingfastandslow Learningtheflowoftimeinvideos Summary"
+date: 2026-04-23
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-23_17-59-57Z_SeeingFastandSlow_LearningtheFlowofTimeinVideos
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.21931v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-23_17-59-57Z_SeeingFastandSlow_LearningtheFlowofTimeinVideos.md
 Model: None

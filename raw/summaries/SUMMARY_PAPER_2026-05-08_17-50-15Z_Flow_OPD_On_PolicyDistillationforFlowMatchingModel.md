@@ -1,12 +1,15 @@
 ---
-title: Flow-OPD: On-Policy Distillation for Flow Matching Models
+
+title: "Flow-OPD: On-Policy Distillation for Flow Matching Models"
 url: http://arxiv.org/abs/2605.08063v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_17-50-15Z_Flow_OPD_On_PolicyDistillationforFlowMatchingModel.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Flow‑OPD, a post‑training framework that combines on‑policy distillation with flow matching to align heterogeneous objectives in text‑to‑image models. By first fine‑tuning domain‑specialized teachers with single‑reward GRPO and then merging them via flow‑based cold start and trajectory supervision, the method achieves strong alignment while preserving image fidelity.

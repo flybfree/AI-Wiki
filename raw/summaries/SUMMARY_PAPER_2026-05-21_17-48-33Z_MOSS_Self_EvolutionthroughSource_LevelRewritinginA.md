@@ -1,12 +1,15 @@
 ---
-title: MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems
+
+title: "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems"
 url: http://arxiv.org/abs/2605.22794v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-21_17-48-33Z_MOSS_Self_EvolutionthroughSource_LevelRewritinginA.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces MOSS, a framework that enables autonomous agents to rewrite their source code at runtime based on observed failures. It achieves a four‑task grader score improvement from 0.25 to 0.61 without human intervention.

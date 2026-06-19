@@ -1,4 +1,12 @@
+---
+title: "2026 05 20 17 58 24Z Wikivqabench Aknowledge Groundedvisualquest Summary"
+date: 2026-05-20
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-20_17-58-24Z_WikiVQABench_AKnowledge_GroundedVisualQuestionAnsw.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-20 23:01
 Source: 2026-05-20_17-58-24Z_WikiVQABench_AKnowledge_GroundedVisualQuestionAnsw.md
 Model: None

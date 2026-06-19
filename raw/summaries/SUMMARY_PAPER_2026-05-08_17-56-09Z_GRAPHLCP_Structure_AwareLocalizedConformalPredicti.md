@@ -1,12 +1,15 @@
 ---
-title: GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs
+
+title: "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs"
 url: http://arxiv.org/abs/2605.08074v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_17-56-09Z_GRAPHLCP_Structure_AwareLocalizedConformalPredicti.md
-generated_at: 2026-06-11 10:31
+generated_at: "2026-06-11 10:31"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces GRAPHLCP, a conformal prediction framework for graph neural networks that addresses the limitations of conventional embedding‑based localization by explicitly modeling graph topology and inter‑node dependencies. By integrating a feature‑aware densification step and a personalized PageRank kernel, GRAPHLCP provides topology‑dependent anchor sampling with finite‑sample marginal coverage guarantees.

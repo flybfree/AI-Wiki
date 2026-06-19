@@ -1,12 +1,15 @@
 ---
-title: Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less
+
+title: "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less"
 url: http://arxiv.org/abs/2605.06654v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-07_17-57-02Z_Optimizer_ModelConsistency_FullFinetuningwiththeSa.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates optimizer‑model consistency and demonstrates that using the same optimizer throughout pretraining and fine‑tuning reduces forgetting while preserving or improving performance compared to other optimizers such as AdamW and LoRA.

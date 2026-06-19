@@ -1,12 +1,15 @@
 ---
+
 title: Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning
 url: http://arxiv.org/abs/2606.07500v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-05_17-53-52Z_SparseSubspace_to_ExpertSharingforTask_AgnosticCon.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes Mixture of Sparse Experts for Task Agnostic Continual Learning (SETA), a framework that resolves the plasticity‑stability dilemma in large language models by separating task‑specific and shared knowledge into distinct expert modules. Experiments on LLaMA‑2 7B and Qwen3-4B show competitive overall performance with strong retention of early‑task knowledge and improved backward transfer, outperforming state‑of‑the‑art continual learning baselines.

@@ -1,12 +1,15 @@
 ---
+
 title: Algorithmic Recourse of In-Context Learning for Tabular Data
 url: http://arxiv.org/abs/2605.31272v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_13-04-18Z_AlgorithmicRecourseofIn_ContextLearningforTabularD.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces the first theoretical and practical study of algorithmic recourse for tabular data under in‑context learning (ICL). It proves that recourse remains well‑defined and bounded as context size grows, and proposes Adaptive Subspace Recourse for ICL (ASR‑ICL) to generate sparse, actionable explanations. Experiments show ASR‑ICL matches existing methods with fewer queries while confirming the convergence behavior.

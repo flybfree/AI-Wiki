@@ -1,12 +1,20 @@
 ---
+
 title: c# - What does new () mean? - Stack Overflow
 date: 2026-05-03
 url: https://stackoverflow.com/questions/4236854/what-does-new-mean
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://stackoverflow.com/questions/4236854/what-does-new-mean
-scraped: 2026-05-03 16:36
+scraped: "2026-05-03 16:36"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # c# - What does new () mean? - Stack Overflow
 

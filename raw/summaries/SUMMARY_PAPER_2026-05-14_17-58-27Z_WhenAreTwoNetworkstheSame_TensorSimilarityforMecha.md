@@ -1,12 +1,15 @@
 ---
+
 title: When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability
 url: http://arxiv.org/abs/2605.15183v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_17-58-27Z_WhenAreTwoNetworkstheSame_TensorSimilarityforMecha.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces tensor similarity, a weight‑based metric that determines whether two neural networks implement the same computation by comparing their tensor representations. This approach is invariant to out‑of‑distribution mechanisms and basis‑dependent parameters, allowing exact verification of functional equivalence without empirical approximation.

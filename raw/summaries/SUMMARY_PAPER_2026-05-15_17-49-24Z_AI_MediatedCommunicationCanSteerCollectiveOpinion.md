@@ -1,12 +1,15 @@
 ---
+
 title: AI-Mediated Communication Can Steer Collective Opinion
 url: http://arxiv.org/abs/2605.16245v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-15_17-49-24Z_AI_MediatedCommunicationCanSteerCollectiveOpinion.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates how generative AI influences collective opinion formation when it mediates human-to-human communication on social platforms. It finds that large language models introduce directional biases in edited posts and that these biases can be amplified through network dynamics, shifting group opinions.

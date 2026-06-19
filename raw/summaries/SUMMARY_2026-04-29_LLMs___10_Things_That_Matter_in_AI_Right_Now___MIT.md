@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Llms 10 Things That Matter In Ai Right Now Mit"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Llms   10 Things That Matter In Ai Right Now   Mit
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Review
 Article text:
 

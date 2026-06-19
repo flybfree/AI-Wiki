@@ -10,8 +10,16 @@ source_pages:
   - ilya-sutskever-reading-list.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 10: Generative AI: Creating New Content
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

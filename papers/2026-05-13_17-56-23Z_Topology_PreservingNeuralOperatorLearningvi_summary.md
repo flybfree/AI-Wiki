@@ -1,4 +1,12 @@
+---
+title: "2026 05 13 17 56 23Z Topology Preservingneuraloperatorlearningvi Summary"
+date: 2026-05-13
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-13_17-56-23Z_Topology_PreservingNeuralOperatorLearningviaHodgeD.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-13 23:02
 Source: 2026-05-13_17-56-23Z_Topology_PreservingNeuralOperatorLearningviaHodgeD.md
 Model: None

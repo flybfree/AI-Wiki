@@ -1,12 +1,15 @@
 ---
-title: ESIA: An Energy-Based Spatiotemporal Interaction-Aware Framework for Pedestrian Intention Prediction
+
+title: "ESIA: An Energy-Based Spatiotemporal Interaction-Aware Framework for Pedestrian Intention Prediction"
 url: http://arxiv.org/abs/2604.23728v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-26_14-13-58Z_ESIA_AnEnergy_BasedSpatiotemporalInteraction_Aware.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces ESIA, an energy‑based spatiotemporal interaction‑aware framework that predicts pedestrian crossing intentions using a Conditional Random Field model. By representing pedestrians and the environment as nodes in a unified graph and integrating unary and pairwise potentials into a global energy function, ESIA achieves scene‑level consistency while preserving interpretability.

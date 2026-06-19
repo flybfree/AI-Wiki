@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 17 57 31Z Implicitrepresentationsofgrammaticalityinlanguagem Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Implicit Representations of Grammaticality in Language Models
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05197v1)
 Saved: 2026-05-07 22:08
 Source: 2026-05-06_17-57-31Z_ImplicitRepresentationsofGrammaticalityinLanguageM.md
 

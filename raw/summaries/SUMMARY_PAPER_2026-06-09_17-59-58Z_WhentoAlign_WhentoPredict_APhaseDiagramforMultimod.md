@@ -1,12 +1,15 @@
 ---
-title: When to Align, When to Predict: A Phase Diagram for Multimodal Learning
+
+title: "When to Align, When to Predict: A Phase Diagram for Multimodal Learning"
 url: http://arxiv.org/abs/2606.11190v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-09_17-59-58Z_WhentoAlign_WhentoPredict_APhaseDiagramforMultimod.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a unified linear framework that systematically compares cross‑modal alignment and cross‑modal prediction to reveal when each succeeds or fails in multimodal learning tasks. The authors derive separation ratios under a spiked signal model with correlated nuisance, creating a phase diagram that classifies problems into four regimes: both objectives work, only alignment works, only prediction works, or neither works.

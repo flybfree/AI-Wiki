@@ -1,12 +1,15 @@
 ---
-title: Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models
+
+title: "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models"
 url: http://arxiv.org/abs/2605.23893v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_17-56-13Z_Complete_muE_OptimalHyperparameterTransferandScali.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 Complete-muE introduces a two-bridge system that transfers hyperparameters between dense and Mixture-of-Experts transformer blocks, handling changes in architecture, expert count, and token granularity. The framework demonstrates that tuning hyperparameters on a single dense reference model yields near‑optimal results across diverse MoE configurations, enabling faster convergence without extensive search.

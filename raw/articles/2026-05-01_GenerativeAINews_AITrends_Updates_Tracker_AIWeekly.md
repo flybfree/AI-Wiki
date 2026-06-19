@@ -1,12 +1,20 @@
 ---
+
 title: Generative AI News — AI Trends, Updates & Tracker | AI Weekly
 date: 2026-05-01
 url: https://aiweekly.co/ai-news-today/generative-ai-news
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://aiweekly.co/ai-news-today/generative-ai-news
-scraped: 2026-05-01 02:00
+scraped: "2026-05-01 02:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # Generative AI News — AI Trends, Updates & Tracker | AI Weekly
 

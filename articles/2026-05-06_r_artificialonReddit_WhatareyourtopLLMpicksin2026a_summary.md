@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 R Artificialonreddit Whatareyourtopllmpicksin2026A Summary"
+date: 2026-05-06
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-05-06_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md
+
+
+**Source**: [Original Article](https://www.reddit.com/r/artificial/comments/1qo7psc/what_are_your_top_llm_picks_in_2026_and_why/)
 Saved: 2026-05-06 08:00
 Source: 2026-05-06_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md
 Model: gpt-5.4-mini

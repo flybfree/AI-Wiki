@@ -1,4 +1,12 @@
+---
+title: "2026 05 28 17 59 59Z Physicsisallyouneed Acasestudyinphysicist S Summary"
+date: 2026-05-28
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-28_17-59-59Z_PhysicsIsAllYouNeed_ACaseStudyinPhysicist_Supervis.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-29 01:01
 Source: 2026-05-28_17-59-59Z_PhysicsIsAllYouNeed_ACaseStudyinPhysicist_Supervis.md
 Model: None

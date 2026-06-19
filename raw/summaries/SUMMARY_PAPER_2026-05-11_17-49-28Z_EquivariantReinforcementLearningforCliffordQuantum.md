@@ -1,12 +1,15 @@
 ---
+
 title: Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis
 url: http://arxiv.org/abs/2605.10910v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-11_17-49-28Z_EquivariantReinforcementLearningforCliffordQuantum.md
-generated_at: 2026-06-11 10:37
+generated_at: "2026-06-11 10:37"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper tackles the synthesis of Clifford quantum circuits for fully connected qubit devices by framing the task as a reinforcement learning problem that minimizes the number of two‑qubit gates needed to reduce a symplectic matrix representation to identity. The learned policy is an equivariant neural network that works across any qubit count without retraining, and on six‑qubit instances it reaches near‑optimal solutions in milliseconds while achieving optimal results in 99.2 % of cases within seconds per instance.

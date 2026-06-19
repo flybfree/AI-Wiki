@@ -1,12 +1,15 @@
 ---
-title: HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers
+
+title: "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers"
 url: http://arxiv.org/abs/2606.06493v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-04_17-59-50Z_HANDOFF_HumanoidAgenticTask_SpaceWhole_BodyControl.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces HANDOFF, a compact whole‑body controller that bridges task planning and robot motion without requiring dense kinematic or spatial references. By distilling three complementary specialists—motion tracking with safety filtering, locomotion, and fall recovery—into a mixture‑of‑experts student, HANDOFF achieves state‑of‑the‑art performance on the Unitree G1 while supporting large manipulation workspaces.

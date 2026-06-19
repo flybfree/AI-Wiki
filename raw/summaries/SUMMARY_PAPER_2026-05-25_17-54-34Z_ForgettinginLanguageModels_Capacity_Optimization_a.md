@@ -1,12 +1,15 @@
 ---
-title: Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay
+
+title: "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay"
 url: http://arxiv.org/abs/2605.26097v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-25_17-54-34Z_ForgettinginLanguageModels_Capacity_Optimization_a.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates forgetting in fine‑tuned language models and demonstrates that self‑generated samples can replace stored exemplars as effective replay data. The authors show that forgetting disappears under most conditions but persists when the model is near saturation, and they resolve a tradeoff between learning rate and training steps by using replay.

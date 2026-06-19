@@ -1,12 +1,20 @@
 ---
-title: Machine Learning Architecture: What It Is, Components & Types
+
+title: "Machine Learning Architecture: What It Is, Components & Types"
 date: 2026-06-18
 url: https://lakefs.io/blog/machine-learning-architecture/
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://lakefs.io/blog/machine-learning-architecture/
-scraped: 2026-06-18 00:00
+scraped: "2026-06-18 00:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # Machine Learning Architecture: What It Is, Components & Types
 

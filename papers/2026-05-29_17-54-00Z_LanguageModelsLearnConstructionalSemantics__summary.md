@@ -1,4 +1,12 @@
+---
+title: "2026 05 29 17 54 00Z Languagemodelslearnconstructionalsemantics Summary"
+date: 2026-05-29
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-29_17-54-00Z_LanguageModelsLearnConstructionalSemantics_NotToMe.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-01 00:00
 Source: 2026-05-29_17-54-00Z_LanguageModelsLearnConstructionalSemantics_NotToMe.md
 Model: None

@@ -1,12 +1,15 @@
 ---
-title: LLM-driven design of physics-constrained constitutive models: two agents are better than one
+
+title: "LLM-driven design of physics-constrained constitutive models: two agents are better than one"
 url: http://arxiv.org/abs/2605.23754v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_15-27-09Z_LLM_drivendesignofphysics_constrainedconstitutivem.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a multi‑agent system where an LLM Creator proposes constitutive models and an Inspector agent checks them against nine physical constraints, improving model validity from 91% to 100% for Claude Opus while preserving accuracy. The approach works with different LLMs (Claude Opus 4.7 and Kimi K2.5) across materials like brain tissue and rubber.

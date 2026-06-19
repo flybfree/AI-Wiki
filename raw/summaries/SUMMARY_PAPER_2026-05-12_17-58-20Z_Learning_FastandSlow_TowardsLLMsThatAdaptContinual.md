@@ -1,12 +1,15 @@
 ---
-title: Learning, Fast and Slow: Towards LLMs That Adapt Continually
+
+title: "Learning, Fast and Slow: Towards LLMs That Adapt Continually"
 url: http://arxiv.org/abs/2605.12484v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a fast‑slow learning framework for large language models that treats model parameters as “slow” weights and the optimized context as “fast” weights, enabling continual adaptation without catastrophic forgetting. Experiments show this approach is up to three times more sample‑efficient than parameter‑only reinforcement learning while reaching higher performance asymptotes.

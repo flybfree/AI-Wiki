@@ -1,12 +1,15 @@
 ---
+
 title: Impact of Age Specialized Models for Hypoglycemia Classification
 url: http://arxiv.org/abs/2604.23732v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-26_14-20-10Z_ImpactofAgeSpecializedModelsforHypoglycemiaClassif.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper evaluates how age‑specific versus globally trained models perform in classifying hypoglycemia events using a large CGM dataset spanning children to seniors. It finds that a single model trained on all age groups achieves performance comparable to or better than separate models for each age segment, while specialized models retain the highest recall for pediatric patients.

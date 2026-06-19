@@ -1,12 +1,15 @@
 ---
+
 title: Reinforcement Learning for Neural Model Editing
 url: http://arxiv.org/abs/2606.13461v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md
-generated_at: 2026-06-11 21:00
+generated_at: "2026-06-11 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes a reinforcement learning framework for neural model editing, treating weight modifications as actions guided by reward signals that balance utility preservation and task‑specific objectives. The authors demonstrate that learned policies can achieve near‑zero forget set accuracy while retaining over 90% of the original performance in unlearning tasks and improve bias mitigation by more than five percent without sacrificing classification utility.

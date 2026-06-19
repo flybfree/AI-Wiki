@@ -1,12 +1,15 @@
 ---
+
 title: A Complexity Measure for Active Learning in Multi-group Mean Estimation
 url: http://arxiv.org/abs/2606.14690v1
 type: paper-summary
 date: 2026-06-14
 source_paper: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md
-generated_at: 2026-06-14 22:00
+generated_at: "2026-06-14 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a max-risk objective for active learning in multi-group mean estimation and develops a lower bound that separates difficulty into budget, heteroscedasticity, and model complexity via Variance Local Curvature. It proves near-optimality of the bound up to logarithmic factors and identifies a gap in highly heterogeneous instances.

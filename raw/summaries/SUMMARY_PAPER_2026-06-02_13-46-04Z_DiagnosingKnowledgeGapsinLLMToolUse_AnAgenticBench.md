@@ -1,12 +1,15 @@
 ---
-title: Diagnosing Knowledge Gaps in LLM Tool Use: An Agentic Benchmark for Novel API Acquisition
+
+title: "Diagnosing Knowledge Gaps in LLM Tool Use: An Agentic Benchmark for Novel API Acquisition"
 url: http://arxiv.org/abs/2606.03657v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_13-46-04Z_DiagnosingKnowledgeGapsinLLMToolUse_AnAgenticBench.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces NovelAPIBench, a dynamic benchmark that automatically discovers novel APIs for large language models and evaluates their ability to use these functions. The study compares knowledge injection via retrieval with parametric adaptation across multiple models, tasks, and domains, revealing that the two methods are complementary rather than interchangeable.

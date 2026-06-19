@@ -1,12 +1,15 @@
 ---
+
 title: Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation
 url: http://arxiv.org/abs/2605.26111v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-25_17-59-35Z_SqueezingCapacityfromMultimodalLargeLanguageModels.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a framework for subject‑driven image generation that uses multimodal large language models to keep the identity of a given subject while obeying textual instructions, achieving results superior to earlier methods that separate modalities or ignore identity preservation. Experiments show reduced copy‑paste artifacts and higher human preference scores.

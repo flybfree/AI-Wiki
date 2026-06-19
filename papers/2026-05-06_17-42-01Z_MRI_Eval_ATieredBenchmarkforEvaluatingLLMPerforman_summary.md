@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 17 42 01Z Mri Eval Atieredbenchmarkforevaluatingllmperforman Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # MRI-Eval: A Tiered Benchmark for Evaluating LLM Performance on MRI Physics and GE Scanner Operations Knowledge
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05175v1)
 Saved: 2026-05-07 22:08
 Source: 2026-05-06_17-42-01Z_MRI_Eval_ATieredBenchmarkforEvaluatingLLMPerforman.md
 

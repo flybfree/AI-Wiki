@@ -1,4 +1,12 @@
+---
+title: "2026 05 12 17 59 47Z Alphagrpo Unlockingself Reflectivemultimoda Summary"
+date: 2026-05-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-12_17-59-47Z_AlphaGRPO_UnlockingSelf_ReflectiveMultimodalGenera.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-12 23:05
 Source: 2026-05-12_17-59-47Z_AlphaGRPO_UnlockingSelf_ReflectiveMultimodalGenera.md
 Model: None

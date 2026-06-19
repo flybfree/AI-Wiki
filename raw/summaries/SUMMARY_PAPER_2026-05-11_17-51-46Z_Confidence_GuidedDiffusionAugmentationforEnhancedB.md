@@ -1,12 +1,15 @@
 ---
+
 title: Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition
 url: http://arxiv.org/abs/2605.10916v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-11_17-51-46Z_Confidence_GuidedDiffusionAugmentationforEnhancedB.md
-generated_at: 2026-06-11 10:37
+generated_at: "2026-06-11 10:37"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a confidence‑guided diffusion augmentation method to improve recognition of low‑resolution Bangla compound characters. The framework synthesizes high‑quality samples using class‑conditional diffusion and classifier guidance, then filters them with quality gates. Experiments on the AIBangla dataset show that the best model reaches 89.2% accuracy.

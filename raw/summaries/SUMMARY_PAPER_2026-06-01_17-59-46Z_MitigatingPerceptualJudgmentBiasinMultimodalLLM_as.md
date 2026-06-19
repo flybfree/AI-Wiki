@@ -1,12 +1,15 @@
 ---
+
 title: Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling
 url: http://arxiv.org/abs/2606.02578v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-01_17-59-46Z_MitigatingPerceptualJudgmentBiasinMultimodalLLM_as.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper addresses Perceptual Judgment Bias where multimodal language models prioritize textual cues over visual evidence. It introduces a dataset of perturbed counterfactuals and a training framework that improves perceptual fidelity and ranking coherence. Experiments show substantial gains across benchmarks.

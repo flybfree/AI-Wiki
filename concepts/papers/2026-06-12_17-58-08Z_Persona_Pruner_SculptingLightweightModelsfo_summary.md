@@ -1,4 +1,12 @@
+---
+title: "2026 06 12 17 58 08Z Persona Pruner Sculptinglightweightmodelsfo Summary"
+date: 2026-06-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-14 22:01
 Source: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md
 Model: None

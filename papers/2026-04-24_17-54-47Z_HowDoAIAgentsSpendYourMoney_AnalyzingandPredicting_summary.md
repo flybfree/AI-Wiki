@@ -1,4 +1,12 @@
+---
+title: "2026 04 24 17 54 47Z Howdoaiagentsspendyourmoney Analyzingandpredicting Summary"
+date: 2026-04-24
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-24_17-54-47Z_HowDoAIAgentsSpendYourMoney_AnalyzingandPredicting.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.22750v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-24_17-54-47Z_HowDoAIAgentsSpendYourMoney_AnalyzingandPredicting.md
 Model: None

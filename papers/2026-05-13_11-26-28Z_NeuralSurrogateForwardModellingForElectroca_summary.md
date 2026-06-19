@@ -1,4 +1,12 @@
+---
+title: "2026 05 13 11 26 28Z Neuralsurrogateforwardmodellingforelectroca Summary"
+date: 2026-05-13
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-13 21:02
 Source: 2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md
 Model: None

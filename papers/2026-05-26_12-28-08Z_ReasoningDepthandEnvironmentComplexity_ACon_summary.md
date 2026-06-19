@@ -1,4 +1,12 @@
+---
+title: "2026 05 26 12 28 08Z Reasoningdepthandenvironmentcomplexity Acon Summary"
+date: 2026-05-26
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-26_12-28-08Z_ReasoningDepthandEnvironmentComplexity_AControlled.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-26 20:00
 Source: 2026-05-26_12-28-08Z_ReasoningDepthandEnvironmentComplexity_AControlled.md
 Model: None

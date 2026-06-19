@@ -1,12 +1,15 @@
 ---
-title: MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research
+
+title: "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research"
 url: http://arxiv.org/abs/2605.26114v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-25_17-59-49Z_MobileGym_AVerifiableandHighlyParallelSimulationPl.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 MobileGym is a browser‑hosted, lightweight environment that provides everyday mobile users with a controllable simulation space for GUI agent research. It introduces two novel capabilities: deterministic outcome signals via structured JSON state and scalable online reinforcement learning through low‑cost parallel rollouts.

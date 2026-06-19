@@ -1,4 +1,12 @@
+---
+title: "2026 05 20 17 59 05Z Velocityformer Broken Symmetry Matchedequiv Summary"
+date: 2026-05-20
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-20_17-59-05Z_Velocityformer_Broken_Symmetry_MatchedEquivariantG.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-20 23:02
 Source: 2026-05-20_17-59-05Z_Velocityformer_Broken_Symmetry_MatchedEquivariantG.md
 Model: None

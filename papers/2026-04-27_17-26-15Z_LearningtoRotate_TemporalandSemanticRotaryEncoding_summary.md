@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 17 26 15Z Learningtorotate Temporalandsemanticrotaryencoding Summary"
+date: 2026-04-27
+tags: ['paper', 'research', 'ai']
+---
 # Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.24717v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-27_17-26-15Z_LearningtoRotate_TemporalandSemanticRotaryEncoding.md
 

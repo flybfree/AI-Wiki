@@ -1,12 +1,15 @@
 ---
-title: RefDecoder: Enhancing Visual Generation with Conditional Video Decoding
+
+title: "RefDecoder: Enhancing Visual Generation with Conditional Video Decoding"
 url: http://arxiv.org/abs/2605.15196v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_17-59-52Z_RefDecoder_EnhancingVisualGenerationwithConditiona.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces RefDecoder, a reference-conditioned video VAE decoder that injects high-fidelity reference images into the decoding process to improve detail and consistency. It achieves up to +2.1 dB PSNR over unconditional baselines on Inter4K, WebVid, and Large Motion reconstruction benchmarks. The design can be swapped into existing video generation systems without fine‑tuning.

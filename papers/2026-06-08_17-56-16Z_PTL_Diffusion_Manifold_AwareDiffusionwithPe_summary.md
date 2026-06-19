@@ -1,4 +1,17 @@
+---
+title: "2026 06 08 17 56 16Z Ptl Diffusion Manifold Awarediffusionwithpe Summary"
+date: 2026-06-08
+tags: ['paper', 'research', 'ai']
+---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
 # Summary: 2026-06-08_17-56-16Z_PTL_Diffusion_Manifold_AwareDiffusionwithPeriodicT.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-09 00:00
 Source: 2026-06-08_17-56-16Z_PTL_Diffusion_Manifold_AwareDiffusionwithPeriodicT.md
 Model: None

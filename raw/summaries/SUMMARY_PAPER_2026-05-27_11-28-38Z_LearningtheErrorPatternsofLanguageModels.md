@@ -1,12 +1,15 @@
 ---
+
 title: Learning the Error Patterns of Language Models
 url: http://arxiv.org/abs/2605.28328v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_11-28-38Z_LearningtheErrorPatternsofLanguageModels.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces prefix filters and a learning algorithm called Palla to capture error patterns of large language models when generating outputs under specific validity constraints. It demonstrates that these learned filters can be used to improve model performance through constrained sampling.

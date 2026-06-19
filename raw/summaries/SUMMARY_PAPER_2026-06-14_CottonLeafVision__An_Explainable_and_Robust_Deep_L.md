@@ -1,12 +1,15 @@
 ---
-title: CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification
+
+title: "CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification"
 url: http://arxiv.org/abs/2606.14686v1
 type: paper-summary
 date: 2026-06-14
 source_paper: 2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeepLearnin.md
-generated_at: 2026-06-14 22:00
+generated_at: "2026-06-14 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper aims to develop an explainable and robust deep learning framework for classifying cotton leaf diseases using pretrained convolutional neural networks on a real‑world dataset. DenseNet201 achieved the highest accuracy at 98% among tested models, and our prototype shows practical deployment potential in field use. The study also evaluates occlusion sensitivity to ensure the model remains reliable when leaves are partially hidden by other foliage.

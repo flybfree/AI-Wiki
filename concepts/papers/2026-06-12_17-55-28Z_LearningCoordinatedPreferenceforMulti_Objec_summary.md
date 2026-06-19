@@ -1,4 +1,12 @@
+---
+title: "2026 06 12 17 55 28Z Learningcoordinatedpreferenceformulti Objec Summary"
+date: 2026-06-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-14 22:01
 Source: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md
 Model: None

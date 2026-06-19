@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 16 32 55Z Abayesianapproachfortask Specificnext Best Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-06_16-32-55Z_ABayesianApproachforTask_SpecificNext_Best_ViewSel.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:07
 Source: 2026-05-06_16-32-55Z_ABayesianApproachforTask_SpecificNext_Best_ViewSel.md
 Model: None

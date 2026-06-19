@@ -1,4 +1,12 @@
+---
+title: "2026 04 26 Sony Ai Announces Breakthrough Research In Real Wo Summary"
+date: 2026-04-26
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-26_Sony_AI_Announces_Breakthrough_Research_in_Real-Wo.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 15:54
 Source: 2026-04-26_Sony_AI_Announces_Breakthrough_Research_in_Real-Wo.md
 Model: qwen3.6:35b

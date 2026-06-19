@@ -1,12 +1,15 @@
 ---
+
 title: A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models
 url: http://arxiv.org/abs/2604.21903v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_17-49-16Z_AScale_AdaptiveFrameworkforJointSpatiotemporalSupe.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a scale‑adaptive framework for joint spatiotemporal super‑resolution that can be reused across different upscaling factors. By separating the conditional mean, attention, and diffusion residual, the model adapts hyperparameters to larger factors while preserving mass conservation. Experiments on French precipitation data show a single architecture works from 1 to 25 spatial and 1 to 6 temporal scales.

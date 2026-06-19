@@ -1,12 +1,15 @@
 ---
-title: Agentopia: Long-Term Life Simulation and Learning in Agent Societies
+
+title: "Agentopia: Long-Term Life Simulation and Learning in Agent Societies"
 url: http://arxiv.org/abs/2606.07513v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-05_17-59-31Z_Agentopia_Long_TermLifeSimulationandLearninginAgen.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Agentopia, a framework that simulates 100 autonomous agents over ten simulated years to study long-term social growth and LLM learning. It shows that life reward training improves agent well-being and the underlying LLM’s performance with +15.6% improvement on role‑playing benchmarks.

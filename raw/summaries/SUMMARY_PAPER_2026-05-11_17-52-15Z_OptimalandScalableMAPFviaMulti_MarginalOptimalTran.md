@@ -1,12 +1,15 @@
 ---
+
 title: Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges
 url: http://arxiv.org/abs/2605.10917v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-11_17-52-15Z_OptimalandScalableMAPFviaMulti_MarginalOptimalTran.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper casts anonymous multi‑agent path finding as a multi‑marginal optimal transport problem and shows that the exponentially large MMOT reduces to a polynomial‑size linear program under Markovian assumptions. It further uses Schrödinger bridges, a probabilistic framework, to obtain near‑optimal integral transports with far lower computational cost.

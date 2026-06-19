@@ -1,4 +1,12 @@
+---
+title: "2026 05 02 Whatdoesthefutureholdforgenerativeai Mitnews Summary"
+date: 2026-05-02
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-05-02_WhatdoesthefutureholdforgenerativeAI_-MITNews.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-05-02 18:50
 Source: 2026-05-02_WhatdoesthefutureholdforgenerativeAI_-MITNews.md
 Model: qwen3.6:35b

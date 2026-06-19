@@ -12,6 +12,9 @@ tags: [CAPTCHA, agent-evaluation, multimodal-agents, human-substitution, GUI-age
 
 # HLL: Can Agents Cross Humanity's Last Line of Verification?
 
+
+
+**Source**: [Original Paper](https://github.com/XinhaoS0101/HLL)
 ## Summary
 
 This paper introduces **Humanity's Last Line of Verification (HLL)**, a controlled benchmark that uses interactive CAPTCHA verification to evaluate whether multimodal agents can truly substitute for humans in workflows that services deliberately protect against automation.

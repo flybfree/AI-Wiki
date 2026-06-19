@@ -1,4 +1,12 @@
+---
+title: "2026 04 22 17 44 56Z Paretoslider Diffusionmodelspost Trainingforcontin Summary"
+date: 2026-04-22
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-22_17-44-56Z_ParetoSlider_DiffusionModelsPost_TrainingforContin.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.20816v1)
 Saved: 2026-05-08 03:23:12Z
 Source: 2026-04-22_17-44-56Z_ParetoSlider_DiffusionModelsPost_TrainingforContin.md
 Model: None

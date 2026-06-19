@@ -1,12 +1,15 @@
 ---
-title: ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents
+
+title: "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents"
 url: http://arxiv.org/abs/2605.12481v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_17-57-04Z_ToolCUA_TowardsOptimalGUI_ToolPathOrchestrationfor.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 ToolCUA is an end-to-end framework that learns optimal GUI-Tool path selection for computer use agents. Experiments on OSWorld-MCP show it reaches 46.85% accuracy, a 66% improvement over baselines and a further 3.9% gain over pure GUI settings.

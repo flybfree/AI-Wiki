@@ -1,12 +1,15 @@
 ---
+
 title: Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs
 url: http://arxiv.org/abs/2606.12385v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces ModSleuth, an agentic system that reconstructs LLM dependency graphs from public artifacts using source‑grounded evidence. It recovers 1,060 verified dependencies across four releases and shows complex multi‑hop relationships.

@@ -1,4 +1,12 @@
+---
+title: "2026 05 08 17 56 01Z Emambair Efficientvisualstatespacemodelfore Summary"
+date: 2026-05-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-08_17-56-01Z_EmambaIR_EfficientVisualStateSpaceModelforEvent_gu.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-10 22:53
 Source: 2026-05-08_17-56-01Z_EmambaIR_EfficientVisualStateSpaceModelforEvent_gu.md
 Model: None

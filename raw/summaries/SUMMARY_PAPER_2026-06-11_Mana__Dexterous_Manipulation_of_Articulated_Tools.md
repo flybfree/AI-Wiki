@@ -1,12 +1,15 @@
 ---
-title: Mana: Dexterous Manipulation of Articulated Tools
+
+title: "Mana: Dexterous Manipulation of Articulated Tools"
 url: http://arxiv.org/abs/2606.13677v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md
-generated_at: 2026-06-11 23:00
+generated_at: "2026-06-11 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Mana, a sim-to-real framework for articulated tool manipulation that treats dexterous actions as animations. It converts coarse grasp keyframes into fine trajectories via motion planning and reinforcement learning. Zero-shot transfer is achieved across four tools with minimal human input.

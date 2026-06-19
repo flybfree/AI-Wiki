@@ -1,4 +1,12 @@
+---
+title: "2026 05 18 17 55 03Z Pixlrelight Controllablerelightingviaintrin Summary"
+date: 2026-05-18
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-18_17-55-03Z_PIXLRelight_ControllableRelightingviaIntrinsicCond.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-19 01:01
 Source: 2026-05-18_17-55-03Z_PIXLRelight_ControllableRelightingviaIntrinsicCond.md
 Model: None

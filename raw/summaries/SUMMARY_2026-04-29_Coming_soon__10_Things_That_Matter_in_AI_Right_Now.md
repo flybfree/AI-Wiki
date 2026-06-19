@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Coming Soon 10 Things That Matter In Ai Right Now"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Coming Soon  10 Things That Matter In Ai Right Now
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: Coming soon: 10 Things That Matter in AI Right Now
 Article text:
 

@@ -1,12 +1,15 @@
 ---
+
 title: Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings
 url: http://arxiv.org/abs/2606.07502v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-05_17-54-32Z_YourUnEmbeddingMatrixisSecretlyaFeatureLensforText.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates why large language models produce suboptimal embeddings despite strong zero‑shot performance and discovers that a linear unembedding matrix is unintentionally amplifying high‑frequency tokens. By applying EmbedFilter, a simple projection that removes this unwanted subspace, the authors show that semantic quality improves while dimensions shrink.

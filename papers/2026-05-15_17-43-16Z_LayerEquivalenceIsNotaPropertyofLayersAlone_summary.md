@@ -1,4 +1,12 @@
+---
+title: "2026 05 15 17 43 16Z Layerequivalenceisnotapropertyoflayersalone Summary"
+date: 2026-05-15
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-15_17-43-16Z_LayerEquivalenceIsNotaPropertyofLayersAlone_HowYou.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-18 03:01
 Source: 2026-05-15_17-43-16Z_LayerEquivalenceIsNotaPropertyofLayersAlone_HowYou.md
 Model: None

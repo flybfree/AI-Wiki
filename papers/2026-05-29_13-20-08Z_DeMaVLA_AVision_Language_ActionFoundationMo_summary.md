@@ -1,4 +1,12 @@
+---
+title: "2026 05 29 13 20 08Z Demavla Avision Language Actionfoundationmo Summary"
+date: 2026-05-29
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-29_13-20-08Z_DeMaVLA_AVision_Language_ActionFoundationModelforG.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-31 21:01
 Source: 2026-05-29_13-20-08Z_DeMaVLA_AVision_Language_ActionFoundationModelforG.md
 Model: None

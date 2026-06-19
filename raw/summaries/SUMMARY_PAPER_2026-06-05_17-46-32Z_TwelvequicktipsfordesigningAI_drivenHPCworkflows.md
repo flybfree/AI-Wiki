@@ -1,12 +1,15 @@
 ---
+
 title: Twelve quick tips for designing AI-driven HPC workflows
 url: http://arxiv.org/abs/2606.07491v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-05_17-46-32Z_TwelvequicktipsfordesigningAI_drivenHPCworkflows.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper presents twelve practical tips for designing AI-driven HPC workflows, focusing on overcoming challenges like data gravity, heterogeneous resource management, and complex orchestration. It emphasizes containerisation, job arrays, feedback loops, and I/O optimisation to shift from deterministic pipelines to adaptive environments.

@@ -1,12 +1,15 @@
 ---
+
 title: Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime
 url: http://arxiv.org/abs/2605.10931v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-11_17-58-14Z_QuantifyingConcentrationPhenomenaofMean_FieldTrans.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 This paper investigates how token distributions evolve inside deep encoder‑only transformers during inference by formulating the process as a mean‑field continuity equation in the large‑token limit. It proves that, as temperature β approaches zero, the distribution rapidly concentrates onto a push‑forward of the initial distribution under a projection map defined by key, query and value matrices, remaining metastable for moderate times before settling into a limiting form.

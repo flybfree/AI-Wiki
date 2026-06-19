@@ -1,4 +1,12 @@
+---
+title: "2026 05 27 17 59 51Z Peft Arena Understandingparameter Efficient Summary"
+date: 2026-05-27
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-27_17-59-51Z_PEFT_Arena_UnderstandingParameter_EfficientFinetun.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-27 23:01
 Source: 2026-05-27_17-59-51Z_PEFT_Arena_UnderstandingParameter_EfficientFinetun.md
 Model: None

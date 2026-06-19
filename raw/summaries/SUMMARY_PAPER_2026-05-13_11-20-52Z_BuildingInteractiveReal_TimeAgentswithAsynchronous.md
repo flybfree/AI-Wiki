@@ -1,12 +1,15 @@
 ---
+
 title: Building Interactive Real-Time Agents with Asynchronous I/O and Speculative Tool Calling
 url: http://arxiv.org/abs/2605.13360v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_11-20-52Z_BuildingInteractiveReal_TimeAgentswithAsynchronous.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Asynchronous I/O and Speculative Tool Calling to enable real-time agentic AI, achieving speedups on large models while maintaining reasonable accuracy; it also provides a clock-based training method for edge-scale models.

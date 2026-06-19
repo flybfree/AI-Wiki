@@ -1,4 +1,12 @@
+---
+title: "2026 06 04 17 57 33Z Pretrainingrecurrentnetworkswithoutrecurren Summary"
+date: 2026-06-04
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-04_17-57-33Z_PretrainingRecurrentNetworkswithoutRecurrence.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-05 02:02
 Source: 2026-06-04_17-57-33Z_PretrainingRecurrentNetworkswithoutRecurrence.md
 Model: None

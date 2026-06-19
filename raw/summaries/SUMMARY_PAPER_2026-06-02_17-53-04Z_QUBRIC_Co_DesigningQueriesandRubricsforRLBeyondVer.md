@@ -1,12 +1,15 @@
 ---
-title: QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards
+
+title: "QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards"
 url: http://arxiv.org/abs/2606.03968v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_17-53-04Z_QUBRIC_Co_DesigningQueriesandRubricsforRLBeyondVer.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces QUBRIC, a framework that jointly designs queries and rubrics for reinforcement learning beyond verifiable rewards, achieving significant performance gains on ArenaHard and related benchmarks. It demonstrates that open-ended queries produce vague rubrics leading to training failure, while co-designing them yields effective reward signals.

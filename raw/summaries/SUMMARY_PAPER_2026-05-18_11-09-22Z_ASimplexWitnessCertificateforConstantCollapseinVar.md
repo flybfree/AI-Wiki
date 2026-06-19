@@ -1,12 +1,15 @@
 ---
+
 title: A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders
 url: http://arxiv.org/abs/2605.18224v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_11-09-22Z_ASimplexWitnessCertificateforConstantCollapseinVar.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a design framework for exact constant collapse in variational autoencoders, where the encoder mean becomes independent of input. It uses a simplex witness head to certify that this failure mode is pre‑designed and verifiable after training.

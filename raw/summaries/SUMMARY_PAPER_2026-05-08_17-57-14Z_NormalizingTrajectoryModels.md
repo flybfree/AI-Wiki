@@ -1,12 +1,15 @@
 ---
+
 title: Normalizing Trajectory Models
 url: http://arxiv.org/abs/2605.08078v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_17-57-14Z_NormalizingTrajectoryModels.md
-generated_at: 2026-06-11 10:31
+generated_at: "2026-06-11 10:31"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Normalizing Trajectory Models, a framework that treats each reverse step of diffusion as an invertible normalizing flow with exact likelihood training. The model generates high-quality images in four steps and maintains the full likelihood over the trajectory.

@@ -1,12 +1,15 @@
 ---
-title: VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion
+
+title: "VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion"
 url: http://arxiv.org/abs/2605.30351v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-28_17-59-57Z_VideoMLA_Low_RankLatentKVCacheforMinute_ScaleAutor.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces VideoMLA, a method for compressing the key‑value cache in causal video diffusion models by replacing per‑head keys and values with a shared low‑rank content latent and a decoupled 3D‑RoPE positional key. Experiments show that this replacement cuts KV memory usage by 92.7 % without sacrificing performance, especially at long rollout horizons.

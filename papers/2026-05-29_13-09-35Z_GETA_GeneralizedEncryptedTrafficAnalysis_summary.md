@@ -1,4 +1,12 @@
+---
+title: "2026 05 29 13 09 35Z Geta Generalizedencryptedtrafficanalysis Summary"
+date: 2026-05-29
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-29_13-09-35Z_GETA_GeneralizedEncryptedTrafficAnalysis.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-31 21:00
 Source: 2026-05-29_13-09-35Z_GETA_GeneralizedEncryptedTrafficAnalysis.md
 Model: None

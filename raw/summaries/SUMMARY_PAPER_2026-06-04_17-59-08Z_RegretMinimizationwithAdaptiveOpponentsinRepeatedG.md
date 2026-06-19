@@ -1,12 +1,15 @@
 ---
+
 title: Regret Minimization with Adaptive Opponents in Repeated Games
 url: http://arxiv.org/abs/2606.06486v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-04_17-59-08Z_RegretMinimizationwithAdaptiveOpponentsinRepeatedG.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a new regret measure called Repeated Policy Regret that accounts for adaptive opponents and measures the gap between actual utility and best‑in‑hindsight utility in repeated games. It proves sublinear RP‑Regret under certain conditions and designs three algorithms to minimize it, showing that minimizing this metric can lead to cooperative equilibria with higher payoff.

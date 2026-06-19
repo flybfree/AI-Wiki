@@ -1,12 +1,15 @@
 ---
-title: AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization
+
+title: "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization"
 url: http://arxiv.org/abs/2606.14694v1
 type: paper-summary
 date: 2026-06-14
 source_paper: 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md
-generated_at: 2026-06-14 22:00
+generated_at: "2026-06-14 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 AdaSR introduces an adaptive streaming reasoning framework that allows models to reason while receiving continuous input, learning when and how much computation to allocate. The method uses Hierarchical Relative Policy Optimization (HRPO) to refine the decision process, achieving a superior balance between reasoning accuracy, computational efficiency, and streaming latency compared with supervised fine‑tuning baselines.

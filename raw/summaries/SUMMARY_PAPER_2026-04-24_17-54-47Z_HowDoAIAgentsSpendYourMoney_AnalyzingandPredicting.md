@@ -1,12 +1,15 @@
 ---
+
 title: How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks
 url: http://arxiv.org/abs/2604.22750v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-24_17-54-47Z_HowDoAIAgentsSpendYourMoney_AnalyzingandPredicting.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how AI agents allocate and consume tokens during coding tasks, revealing that token usage is dominated by input rather than output and varies widely across models. It shows that while some models appear more efficient, all frontier LLMs struggle to predict their own token costs accurately.

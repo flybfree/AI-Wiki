@@ -1,4 +1,12 @@
+---
+title: "2026 04 24 17 48 47Z Agenticworldmodeling Foundations Capabilities Laws Summary"
+date: 2026-04-24
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-24_17-48-47Z_AgenticWorldModeling_Foundations_Capabilities_Laws.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.22748v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-24_17-48-47Z_AgenticWorldModeling_Foundations_Capabilities_Laws.md
 Model: None

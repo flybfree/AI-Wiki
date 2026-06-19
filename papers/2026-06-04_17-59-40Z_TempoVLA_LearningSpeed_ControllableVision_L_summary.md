@@ -1,4 +1,12 @@
+---
+title: "2026 06 04 17 59 40Z Tempovla Learningspeed Controllablevision L Summary"
+date: 2026-06-04
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-04_17-59-40Z_TempoVLA_LearningSpeed_ControllableVision_Language.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-05 02:02
 Source: 2026-06-04_17-59-40Z_TempoVLA_LearningSpeed_ControllableVision_Language.md
 Model: None

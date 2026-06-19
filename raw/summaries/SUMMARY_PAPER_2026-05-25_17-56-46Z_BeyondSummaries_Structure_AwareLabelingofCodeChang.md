@@ -1,12 +1,15 @@
 ---
-title: Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models
+
+title: "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models"
 url: http://arxiv.org/abs/2605.26100v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-25_17-56-46Z_BeyondSummaries_Structure_AwareLabelingofCodeChang.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a two‑stage pipeline that uses large language models to label code changes in a patch according to a taxonomy, improving the efficiency of manual code reviews. The authors evaluate four LLMs on a mixed benchmark and report the best configuration achieving high recall and precision for both structural and semantic labels.

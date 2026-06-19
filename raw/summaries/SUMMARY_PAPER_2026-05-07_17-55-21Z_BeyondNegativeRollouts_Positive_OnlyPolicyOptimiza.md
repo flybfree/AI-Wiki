@@ -1,12 +1,15 @@
 ---
-title: Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients
+
+title: "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients"
 url: http://arxiv.org/abs/2605.06650v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-07_17-55-21Z_BeyondNegativeRollouts_Positive_OnlyPolicyOptimiza.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Positive-Only Policy Optimization (POPO), a reinforcement learning with verifiable rewards framework that learns exclusively from online positive rollouts, eliminating the need for explicit negative samples. The authors demonstrate that POPO can achieve performance comparable to or better than Group Relative Policy Optimization (GRPO) on standard mathematical benchmarks, including reaching 36.67% in AIME 2025 with Qwen‑Math‑7B versus GRPO’s 30.00%.  

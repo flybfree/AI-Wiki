@@ -5,8 +5,16 @@ type: tutorial
 tags: [agent-framework, implementation, tutorial, harness, agentic-loop, tool-design]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Tutorial: Building an AI Agent Framework from Scratch
 
+
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 This tutorial walks through designing and implementing an agent framework -- the infrastructure that wraps an LLM and lets it act autonomously. We draw on Anthropic's "Building Effective Agents" research, the "Code as Agent Harness" survey, the "Is Grep All You Need?" study, and practical patterns from AutoGen, CrewAI, LangGraph, and DSPy.
 
 ---

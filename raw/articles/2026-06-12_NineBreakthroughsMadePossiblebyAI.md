@@ -1,12 +1,20 @@
 ---
+
 title: Nine Breakthroughs Made Possible by AI
 date: 2026-06-12
 url: https://today.ucsd.edu/story/nine-breakthroughs-made-possible-by-ai
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://today.ucsd.edu/story/nine-breakthroughs-made-possible-by-ai
-scraped: 2026-06-12 00:00
+scraped: "2026-06-12 00:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # Nine Breakthroughs Made Possible by AI
 

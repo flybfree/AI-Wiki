@@ -1,12 +1,15 @@
 ---
+
 title: Towards Responsibly Non-Compliant Machines
 url: http://arxiv.org/abs/2606.12147v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a framework for engineering autonomous intelligent agents that can responsibly refuse user requests, outlining forms of non-compliance and related issues. It identifies task refusal justification, override pathways, and risk tracking as core components.

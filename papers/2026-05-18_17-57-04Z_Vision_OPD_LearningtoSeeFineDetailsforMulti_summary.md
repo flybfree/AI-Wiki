@@ -1,4 +1,12 @@
+---
+title: "2026 05 18 17 57 04Z Vision Opd Learningtoseefinedetailsformulti Summary"
+date: 2026-05-18
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-18_17-57-04Z_Vision_OPD_LearningtoSeeFineDetailsforMultimodalLL.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-19 01:02
 Source: 2026-05-18_17-57-04Z_Vision_OPD_LearningtoSeeFineDetailsforMultimodalLL.md
 Model: None

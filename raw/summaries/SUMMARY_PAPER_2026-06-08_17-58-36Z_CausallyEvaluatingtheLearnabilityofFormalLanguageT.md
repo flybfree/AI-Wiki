@@ -1,12 +1,15 @@
 ---
+
 title: Causally Evaluating the Learnability of Formal Language Tasks
 url: http://arxiv.org/abs/2606.09822v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_17-58-36Z_CausallyEvaluatingtheLearnabilityofFormalLanguageT.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper’s main purpose is to rigorously test how much task‑specific data a language model needs to learn formal language tasks by using a controlled setting of probabilistic finite automata. It shows that standard correlational evaluation methods are unreliable because they cannot isolate the effect of data frequency from other confounders, and it introduces a causal framework to obtain correct conclusions.

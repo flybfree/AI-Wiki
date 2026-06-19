@@ -1,12 +1,15 @@
 ---
+
 title: Pretraining Recurrent Networks without Recurrence
 url: http://arxiv.org/abs/2606.06479v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-04_17-57-33Z_PretrainingRecurrentNetworkswithoutRecurrence.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Supervised Memory Training (SMT), a method that trains recurrent neural networks without using recurrence. By treating memory updates as supervised one‑step transitions, SMT replaces the sequential backpropagation through time with parallelizable learning on label pairs $(m_t, x_{t+1}) \rightarrow m_{t+1}$. The authors show that SMT yields stable $O(1)$ gradient paths and improves performance over traditional BPTT.

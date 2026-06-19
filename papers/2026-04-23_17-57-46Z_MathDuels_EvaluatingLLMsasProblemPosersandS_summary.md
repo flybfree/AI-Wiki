@@ -1,4 +1,12 @@
+---
+title: "2026 04 23 17 57 46Z Mathduels Evaluatingllmsasproblemposersands Summary"
+date: 2026-04-23
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-23_17-57-46Z_MathDuels_EvaluatingLLMsasProblemPosersandSolvers.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-04-29 02:47
 Source: 2026-04-23_17-57-46Z_MathDuels_EvaluatingLLMsasProblemPosersandSolvers.md
 Model: qwen3.6:35b

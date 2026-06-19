@@ -1,12 +1,15 @@
 ---
-title: Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit
+
+title: "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit"
 url: http://arxiv.org/abs/2606.14688v1
 type: paper-summary
 date: 2026-06-14
 source_paper: 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md
-generated_at: 2026-06-14 22:00
+generated_at: "2026-06-14 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how AI systems that generate formal mathematics must balance verifiable correctness with the value of statements to a human mathematician. It establishes that generating valuable math requires an unavoidable stream of “trivia” — correct but worthless statements — and shows that this trade‑off is provable rather than accidental.

@@ -1,4 +1,12 @@
+---
+title: "2026 05 08 13 12 32Z Guidanceisnotahyperparameter Learningdynami Summary"
+date: 2026-05-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-08_13-12-32Z_GuidanceIsNotaHyperparameter_LearningDynamicContro.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-10 21:00
 Source: 2026-05-08_13-12-32Z_GuidanceIsNotaHyperparameter_LearningDynamicContro.md
 Model: None

@@ -1,12 +1,15 @@
 ---
-title: IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification
+
+title: "IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification"
 url: http://arxiv.org/abs/2605.14851v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_13-58-36Z_IFPV_AnIntegratedMulti_AgentFrameworkforGenerative.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces IFPV, an integrated multi‑agent framework that combines generative operational planning with high‑fidelity adversarial verification to address infeasibility and insufficiency in battlefield planning. In simulation, IFPV boosts mission success by 19.4% and cuts cost by 41.7% versus a single‑step LLM baseline.

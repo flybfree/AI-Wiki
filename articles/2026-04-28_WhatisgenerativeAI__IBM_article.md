@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://www.ibm.com/think/topics/generative-ai)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-28_WhatisgenerativeAI__IBM.md

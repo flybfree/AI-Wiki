@@ -8,8 +8,16 @@ source_pages:
   - ilya-sutskever-reading-list-study-order.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # AI/ML Foundations Course Map
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Concept-first, math-light sequence for a basic understanding of machine learning and artificial intelligence.
 
 Design principles:

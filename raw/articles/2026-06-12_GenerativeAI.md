@@ -1,12 +1,20 @@
 ---
+
 title: Generative AI
 date: 2026-06-12
 url: https://generativeai.pub/
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://generativeai.pub/
-scraped: 2026-06-12 00:00
+scraped: "2026-06-12 00:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # Generative AI
 

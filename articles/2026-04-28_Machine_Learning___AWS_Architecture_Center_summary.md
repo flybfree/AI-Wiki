@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 Machine Learning Aws Architecture Center Summary"
+date: 2026-04-28
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-28_Machine_Learning___AWS_Architecture_Center.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 20:07
 Source: 2026-04-28_Machine_Learning___AWS_Architecture_Center.md
 Model: qwen3.6:35b

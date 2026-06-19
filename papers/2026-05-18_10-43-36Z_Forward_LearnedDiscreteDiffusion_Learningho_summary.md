@@ -1,4 +1,12 @@
+---
+title: "2026 05 18 10 43 36Z Forward Learneddiscretediffusion Learningho Summary"
+date: 2026-05-18
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-18 22:02
 Source: 2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md
 Model: None

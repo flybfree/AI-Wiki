@@ -1,12 +1,15 @@
 ---
-title: EMO: Pretraining Mixture of Experts for Emergent Modularity
+
+title: "EMO: Pretraining Mixture of Experts for Emergent Modularity"
 url: http://arxiv.org/abs/2605.06663v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-07_17-59-20Z_EMO_PretrainingMixtureofExpertsforEmergentModulari.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces EMO, a mixture-of-experts model that enables modular deployment by allowing independent expert subsets to be used per input without predefined priors. The authors demonstrate that restricting inference to 25% of experts causes only minor performance loss, unlike standard MoEs which degrade sharply. Pretraining on 1 trillion tokens yields a 1B‑active, 14B‑total model that matches full‑model performance while supporting selective expert use.

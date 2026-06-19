@@ -1,4 +1,12 @@
+---
+title: "2026 05 14 17 57 40Z Opendeepthink Parallelreasoningviabradley Summary"
+date: 2026-05-14
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-14_17-57-40Z_OpenDeepThink_ParallelReasoningviaBradley__TerryAg.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-15 00:00
 Source: 2026-05-14_17-57-40Z_OpenDeepThink_ParallelReasoningviaBradley__TerryAg.md
 Model: None

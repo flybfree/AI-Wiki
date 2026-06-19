@@ -1,4 +1,12 @@
+---
+title: "2026 04 29 Aiarchitecturedesign Azurearchitecturecenter Micro Summary"
+date: 2026-04-29
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-29_AIArchitectureDesign-AzureArchitectureCenter_Micro.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 20:10
 Source: 2026-04-29_AIArchitectureDesign-AzureArchitectureCenter_Micro.md
 Model: qwen3.6:35b

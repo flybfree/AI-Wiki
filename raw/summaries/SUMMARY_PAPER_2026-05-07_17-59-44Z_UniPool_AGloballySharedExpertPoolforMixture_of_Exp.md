@@ -1,12 +1,15 @@
 ---
-title: UniPool: A Globally Shared Expert Pool for Mixture-of-Experts
+
+title: "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts"
 url: http://arxiv.org/abs/2605.06665v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-07_17-59-44Z_UniPool_AGloballySharedExpertPoolforMixture_of_Exp.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces UniPool, a new Mixture‑of‑Experts architecture that replaces per‑layer expert ownership with a single shared expert pool accessed by independent routers. Experiments on multiple LLaMA scales show that UniPool consistently lowers validation loss and improves perplexity compared to the standard vanilla MoE baseline.

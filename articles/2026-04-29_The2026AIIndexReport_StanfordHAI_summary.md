@@ -1,4 +1,12 @@
+---
+title: "2026 04 29 The2026Aiindexreport Stanfordhai Summary"
+date: 2026-04-29
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-29_The2026AIIndexReport_StanfordHAI.md
+
+
+**Source**: [Original Article](https://hai.stanford.edu/ai-index/2026-ai-index-report)
 Saved: 2026-05-07 22:34
 Source: 2026-04-29_The2026AIIndexReport_StanfordHAI.md
 Model: gpt-5.4-mini

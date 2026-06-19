@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 17 46 12Z Estimatingtheexpectedoutputofwiderandommlpsmoreeff Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Estimating the expected output of wide random MLPs more efficiently than sampling
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05179v1)
 Saved: 2026-05-07 22:08
 Source: 2026-05-06_17-46-12Z_EstimatingtheexpectedoutputofwiderandomMLPsmoreeff.md
 

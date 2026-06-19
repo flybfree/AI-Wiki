@@ -1,4 +1,12 @@
+---
+title: "2026 06 07 11 44 40Z Convolutionalsparsecodingviathelocallycompe Summary"
+date: 2026-06-07
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-07_11-44-40Z_ConvolutionalSparseCodingviatheLocallyCompetitiveA.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-08 21:00
 Source: 2026-06-07_11-44-40Z_ConvolutionalSparseCodingviatheLocallyCompetitiveA.md
 Model: None

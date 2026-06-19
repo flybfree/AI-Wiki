@@ -1,12 +1,15 @@
 ---
-title: Negation Neglect: When models fail to learn negations in training
+
+title: "Negation Neglect: When models fail to learn negations in training"
 url: http://arxiv.org/abs/2605.13829v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_17-51-31Z_NegationNeglect_Whenmodelsfailtolearnnegationsintr.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Negation Neglect, a failure mode where fine‑tuned LLMs ignore explicit negations and treat false claims as true. Experiments show belief rates jump from 2.5% to 88.6% when negated documents are used versus 92.4% without them across models like Qwen3.5-397B-A17B, GPT‑4.1, and Kimi K2.5.

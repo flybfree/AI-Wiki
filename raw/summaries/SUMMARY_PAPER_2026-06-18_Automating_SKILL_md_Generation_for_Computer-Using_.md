@@ -1,12 +1,15 @@
 ---
+
 title: Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining
 url: http://arxiv.org/abs/2606.20363v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md
-generated_at: 2026-06-18 21:00
+generated_at: "2026-06-18 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes a pipeline that mines skill libraries from computer‑using agents’ interaction trajectories to improve downstream policies. The study shows that while the mined clusters are highly readable on the source benchmark, they do not guarantee transferability, and current methods only modestly boost performance.

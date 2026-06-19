@@ -1,12 +1,15 @@
 ---
-title: EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents
+
+title: "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents"
 url: http://arxiv.org/abs/2606.11182v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-09_17-57-16Z_EEVEE_TowardsTest_timePromptLearningintheRealWorld.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces EEVEE, a multi-dataset test-time prompt learning framework for LLM agents that handles heterogeneous real-world task streams. It improves robustness and achieves higher scores over existing models such as Qwen3-4B-Instruct and DeepSeek-V3.2.

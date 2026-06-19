@@ -1,4 +1,12 @@
+---
+title: "2026 04 24 17 21 00Z Zero Shotmorphologicaldiscoveryinlow Resourcebantu Summary"
+date: 2026-04-24
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-24_17-21-00Z_Zero_ShotMorphologicalDiscoveryinLow_ResourceBantu.md
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.22723v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-24_17-21-00Z_Zero_ShotMorphologicalDiscoveryinLow_ResourceBantu.md
 Model: None

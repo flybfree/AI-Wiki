@@ -1,4 +1,12 @@
+---
+title: "2026 05 08 17 56 19Z Zero Shotimaginedspeechdecodingviaimagined Summary"
+date: 2026-05-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-08_17-56-19Z_Zero_ShotImaginedSpeechDecodingviaImagined_to_List.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-10 22:54
 Source: 2026-05-08_17-56-19Z_Zero_ShotImaginedSpeechDecodingviaImagined_to_List.md
 Model: None

@@ -1,12 +1,15 @@
 ---
+
 title: Conditional Diffusion Sampling
 url: http://arxiv.org/abs/2605.04013v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-05_17-36-29Z_ConditionalDiffusionSampling.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes Conditional Diffusion Sampling (CDS), a method that merges parallel tempering with continuous diffusion transport to sample from unnormalized multimodal distributions efficiently. The authors derive exact stochastic differential equations for the transport dynamics, eliminating neural approximations and showing that initialization cost drops quickly as diffusion time shortens. Experiments demonstrate CDS achieves higher sample quality than existing samplers while reducing density evaluations.

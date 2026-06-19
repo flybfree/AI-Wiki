@@ -1,3 +1,17 @@
+---
+title: "Summary 2026 04 29 What Is The Difference Between New Object And"
+date: 2026-06-19
+tags: ['wiki']
+---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+# Summary 2026 04 29 What Is The Difference Between  New Object    And 
+
+**Source**: [Original Article](https://stackoverflow.com/questions/17586525/what-is-the-difference-between-new-object-and-new-in-c)
+
 Title: What is the Difference Between `new object()` and `new {}` in C#?
 Article text:
 

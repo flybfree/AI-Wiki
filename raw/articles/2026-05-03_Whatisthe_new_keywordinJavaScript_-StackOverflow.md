@@ -1,12 +1,20 @@
 ---
+
 title: What is the 'new' keyword in JavaScript? - Stack Overflow
 date: 2026-05-03
 url: https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://stackoverflow.com/questions/1646698/what-is-the-new-keyword-in-javascript
-scraped: 2026-05-03 16:36
+scraped: "2026-05-03 16:36"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # What is the 'new' keyword in JavaScript? - Stack Overflow
 

@@ -1,12 +1,15 @@
 ---
+
 title: Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data
 url: http://arxiv.org/abs/2604.22730v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-24_17-27-26Z_NeuralRecoveryofHistoricalLexicalStructureinBantuL.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates whether neural models trained exclusively on modern morphological data can recover cross‑lingual lexical structures that align with historical reconstructions of Proto‑Bantu. Using BantuMorph v7 and encoder embeddings for noun and verb lemmas across 14 Eastern and Southern Bantu languages, the authors identify many cognate candidates that match established reconstructed forms.

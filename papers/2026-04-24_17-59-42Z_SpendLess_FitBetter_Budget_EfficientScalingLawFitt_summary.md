@@ -1,4 +1,12 @@
+---
+title: "2026 04 24 17 59 42Z Spendless Fitbetter Budget Efficientscalinglawfitt Summary"
+date: 2026-04-24
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md
+
+
+**Source**: [Original Paper](https://github.com/PlanarG/active-sl.)
 Saved: 2026-05-07 22:29
 Source: 2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md
 Model: None

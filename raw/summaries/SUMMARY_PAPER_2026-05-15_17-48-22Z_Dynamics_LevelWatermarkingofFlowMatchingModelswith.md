@@ -1,12 +1,15 @@
 ---
+
 title: Dynamics-Level Watermarking of Flow Matching Models with Random Codes
 url: http://arxiv.org/abs/2605.16239v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-15_17-48-22Z_Dynamics_LevelWatermarkingofFlowMatchingModelswith.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a dynamics-level watermarking method for flow matching models that embeds random codes into the model’s velocity field rather than weights or outputs. The approach uses key-dependent perturbations during training and recovers messages from black‑box queries without altering the generated distribution.

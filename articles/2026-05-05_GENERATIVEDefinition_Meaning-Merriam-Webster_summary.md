@@ -1,4 +1,12 @@
+---
+title: "2026 05 05 Generativedefinition Meaning Merriam Webster Summary"
+date: 2026-05-05
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-05-05_GENERATIVEDefinition_Meaning-Merriam-Webster.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-05-05 20:41
 Source: 2026-05-05_GENERATIVEDefinition_Meaning-Merriam-Webster.md
 Model: qwen3.6:35b

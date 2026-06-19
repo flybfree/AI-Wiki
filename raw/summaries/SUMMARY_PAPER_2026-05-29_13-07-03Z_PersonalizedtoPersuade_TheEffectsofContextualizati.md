@@ -1,12 +1,15 @@
 ---
-title: Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI
+
+title: "Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI"
 url: http://arxiv.org/abs/2605.31275v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-29_13-07-03Z_PersonalizedtoPersuade_TheEffectsofContextualizati.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper investigates how contextualization combined with conversational warmth influences trust and reliance on an AI assistant that argues against expert advice. It finds that contextualization alone weakens persuasion, but when paired with warmth it restores persuasiveness through a crossover effect.  

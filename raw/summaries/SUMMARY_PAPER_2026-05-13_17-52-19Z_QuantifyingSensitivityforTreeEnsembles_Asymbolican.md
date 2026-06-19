@@ -1,12 +1,15 @@
 ---
-title: Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach
+
+title: "Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach"
 url: http://arxiv.org/abs/2605.13830v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_17-52-19Z_QuantifyingSensitivityforTreeEnsembles_Asymbolican.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces XCount, a method for quantifying sensitivity of tree ensembles by discretizing the input space and enumerating vulnerable regions using an algebraic decision diagram. It claims to compute a quantitative notion with certified error and confidence bounds efficiently. Experiments show speedup over model counters on benchmarks with varying tree size and depth.

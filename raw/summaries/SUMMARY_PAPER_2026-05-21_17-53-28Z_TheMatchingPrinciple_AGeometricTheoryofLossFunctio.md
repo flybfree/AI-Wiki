@@ -1,12 +1,15 @@
 ---
-title: The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning
+
+title: "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning"
 url: http://arxiv.org/abs/2605.22800v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-21_17-53-28Z_TheMatchingPrinciple_AGeometricTheoryofLossFunctio.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper identifies a common statistical object — the covariance of label‑preserving deployment nuisance — that underlies many robustness techniques such as CORAL, adversarial training, and Jacobian penalties. It proves closed‑form optimality for this problem in a linear‑Gaussian setting and introduces the Trajectory Deviation Index to probe embedding sensitivity beyond accuracy or norm metrics.

@@ -1,12 +1,15 @@
 ---
-title: InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs
+
+title: "InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs"
 url: http://arxiv.org/abs/2606.08601v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-07_12-27-13Z_InA_Probe_Instruction_AwareActiveProbingforTimeSer.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces InA‑Probe, an instruction‑aware active probing framework for time series forecasting using large language models. The method combines multi‑level instruction injection with adaptive query generation and dual‑stage attention to improve model performance on real‑world benchmarks.

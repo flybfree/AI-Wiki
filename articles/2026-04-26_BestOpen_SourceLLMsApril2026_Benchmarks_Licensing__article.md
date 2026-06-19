@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://lushbinary.com/blog/best-open-source-llms-april-2026-comparison-guide/)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-26_BestOpen_SourceLLMsApril2026_Benchmarks_Licensing_.md

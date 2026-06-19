@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Claude Opus 4 7 Anthropic S New Best Available"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Claude Opus 4 7  Anthropic S New Best  Available  
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: Claude Opus 4.7: Anthropic’s New Best (Available) Model
 Article text:
 

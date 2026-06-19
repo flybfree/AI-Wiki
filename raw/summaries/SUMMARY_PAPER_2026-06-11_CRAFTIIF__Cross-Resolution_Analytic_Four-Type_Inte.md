@@ -1,12 +1,15 @@
 ---
-title: CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Forest for Multivariate Time Series Anomaly Detection
+
+title: "CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Forest for Multivariate Time Series Anomaly Detection"
 url: http://arxiv.org/abs/2606.13486v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md
-generated_at: 2026-06-11 21:00
+generated_at: "2026-06-11 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces CRAFTIIF, a fully unsupervised framework that detects four distinct anomaly types — point spikes, distributional shifts, temporal rhythm changes, and collective sensor correlation breakdowns — in multivariate time series. By generating random wavelet features for each type and training separate Isolation Forests with an adaptive threshold, the method achieves high F1 scores across 19 benchmark datasets, outperforming previous work on VUS-PR.

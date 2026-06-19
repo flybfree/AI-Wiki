@@ -1,12 +1,15 @@
 ---
-title: Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory
+
+title: "Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory"
 url: http://arxiv.org/abs/2605.13370v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_11-28-06Z_PhasorMemoryNetworks_StableBackpropagationThroughT.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Phasor Memory Network (PMNet), a new architecture that tackles gradient instability in explicit memory models by using unitary phasor dynamics and hierarchical learnable anchors. The authors show that PMNet can retrieve data across long temporal distances with high accuracy, matching the performance of larger models like Mamba while being far smaller.

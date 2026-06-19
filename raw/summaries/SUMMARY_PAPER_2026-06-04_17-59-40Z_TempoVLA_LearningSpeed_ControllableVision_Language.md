@@ -1,12 +1,15 @@
 ---
-title: TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies
+
+title: "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies"
 url: http://arxiv.org/abs/2606.06491v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-04_17-59-40Z_TempoVLA_LearningSpeed_ControllableVision_Language.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 TempoVLA introduces a method for controlling the execution speed of vision‑language‑action policies by conditioning on an explicit speed parameter, rather than relying on fixed speeds from demonstrations. The approach combines data augmentation that re‑times trajectories with a model‑side mechanism that injects the desired speed into policy inference.

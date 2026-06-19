@@ -1,12 +1,15 @@
 ---
-title: EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents
+
+title: "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents"
 url: http://arxiv.org/abs/2605.13841v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_17-58-52Z_EVA_Bench_ANewEnd_to_endFrameworkforEvaluatingVoic.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces EVA‑Bench, an end‑to‑end framework that simultaneously generates realistic simulated voice agent conversations and measures their quality across multiple failure modes. The evaluation shows that no system can achieve high accuracy and experience scores together, highlighting a trade‑off between task completion and conversational smoothness.

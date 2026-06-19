@@ -1,12 +1,15 @@
 ---
+
 title: Smarter edits? Post-editing with error highlights and translation suggestions
 url: http://arxiv.org/abs/2605.21135v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_13-09-51Z_Smarteredits_Post_editingwitherrorhighlightsandtra.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates whether LLM-generated error highlights and correction suggestions improve professional translator productivity, translation quality, and user experience compared to standard post‑editing and QE‑derived highlights. The study found no gains in productivity or quality over regular post‑editing, but APE highlights were preferred over QE highlights and suggestion prompts enhanced overall satisfaction.

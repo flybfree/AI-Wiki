@@ -1,4 +1,12 @@
+---
+title: "2026 06 11 17 58 56Z Understandingtruncatedpositionalencodingsfo Summary"
+date: 2026-06-11
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-11 23:02
 Source: 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md
 Model: None

@@ -1,4 +1,12 @@
+---
+title: "2026 04 25 Here S Who Is Spending Money On Ai Subscriptions Summary"
+date: 2026-04-25
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-25_Here_s_who_is_spending_money_on_AI_subscriptions__.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 15:47
 Source: 2026-04-25_Here_s_who_is_spending_money_on_AI_subscriptions__.md
 Model: qwen3.6:35b

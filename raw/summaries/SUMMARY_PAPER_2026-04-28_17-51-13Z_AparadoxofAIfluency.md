@@ -1,12 +1,15 @@
 ---
+
 title: A paradox of AI fluency
 url: http://arxiv.org/abs/2604.25905v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-28_17-51-13Z_AparadoxofAIfluency.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates how users’ fluency with AI influences the outcomes of their interactions, using a large annotated dataset. It finds that fluent users engage actively while novices are passive, leading to more visible failures but also higher success on complex tasks.

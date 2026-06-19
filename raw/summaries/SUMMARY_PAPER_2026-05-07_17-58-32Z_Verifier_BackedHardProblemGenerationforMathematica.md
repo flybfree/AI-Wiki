@@ -1,12 +1,15 @@
 ---
+
 title: Verifier-Backed Hard Problem Generation for Mathematical Reasoning
 url: http://arxiv.org/abs/2605.06660v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-07_17-58-32Z_Verifier_BackedHardProblemGenerationforMathematica.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces VHG, a verifier‑enhanced hard problem generation framework for mathematical reasoning LLMs, which achieves superior performance over existing baselines on indefinite integral tasks and general reasoning challenges.  

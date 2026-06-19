@@ -1,12 +1,15 @@
 ---
+
 title: Uncertainty Estimation for Molecular Diffusion Models
 url: http://arxiv.org/abs/2606.13451v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md
-generated_at: 2026-06-11 21:00
+generated_at: "2026-06-11 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a method to estimate per-sample uncertainty for pretrained molecular diffusion models by leveraging a Laplace approximation of the denoising network and measuring noise prediction variability across the generation trajectory. The resulting uncertainty score correlates negatively with existing quality metrics, indicating that lower scores correspond to higher-quality molecules. Experiments demonstrate that this score can be used to filter samples during test-time scaling.

@@ -1,12 +1,15 @@
 ---
+
 title: Safety Measurements for Fine-tuned LLMs Should be Grounded in Capability
 url: http://arxiv.org/abs/2606.03648v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_13-39-17Z_SafetyMeasurementsforFine_tunedLLMsShouldbeGrounde.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper argues that fine‑tuning large language models should be evaluated not just on safety but also on the underlying capability they achieve. It finds that fine‑tuned models often generate incoherent responses to safety prompts and that automated safety judgments are unreliable for such outputs, leading to inconsistent conclusions about fine‑tuning’s impact.

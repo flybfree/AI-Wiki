@@ -1,12 +1,15 @@
 ---
-title: Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR
+
+title: "Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR"
 url: http://arxiv.org/abs/2605.20164v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-19_17-50-18Z_NotEveryRubricTeachesEqually_Policy_AwareRubricRew.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces POW3R, a policy‑aware rubric reward framework for reinforcement learning with verifiable rewards (RLVR). The authors demonstrate that static rubric aggregations often misalign human importance with useful optimization signals, and their method improves both mean rubric reward and strict completion across multiple benchmarks.  

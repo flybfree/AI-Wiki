@@ -1,12 +1,15 @@
 ---
-title: DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation
+
+title: "DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation"
 url: http://arxiv.org/abs/2605.30350v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-28_17-59-53Z_DynaFLIP_RethinkingRoboticsPerceptionviaTri_Modal_.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces DynaFLIP, a framework that integrates motion understanding into robot perception by pre‑training an image encoder with multimodal supervision. The authors demonstrate that the resulting dynamics‑aware representations improve manipulation performance and generalize better to out‑of‑distribution scenarios.

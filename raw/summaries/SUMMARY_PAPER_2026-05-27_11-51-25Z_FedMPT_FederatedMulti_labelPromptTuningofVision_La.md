@@ -1,12 +1,15 @@
 ---
-title: FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models
+
+title: "FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models"
 url: http://arxiv.org/abs/2605.28347v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_11-51-25Z_FedMPT_FederatedMulti_labelPromptTuningofVision_La.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces FedMPT, a federated multi‑label prompt tuning method for vision‑language models that addresses overfitting to spurious label correlations in decentralized settings. Experiments on several benchmark datasets show that FedMPT achieves competitive performance and surpasses state‑of‑the‑art approaches under varied conditions.

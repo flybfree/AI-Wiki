@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 17 17 56Z Case Specificrubricsforclinicalaievaluation Method Summary"
+date: 2026-04-27
+tags: ['paper', 'research', 'ai']
+---
 # Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.24710v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-27_17-17-56Z_Case_SpecificRubricsforClinicalAIEvaluation_Method.md
 

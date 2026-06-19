@@ -1,4 +1,12 @@
+---
+title: "2026 05 22 15 26 31Z Seeder Seed And Expandretrievalfromknowledg Summary"
+date: 2026-05-22
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-22_15-26-31Z_SeedER_Seed_and_ExpandRetrievalfromKnowledgeGraphs.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-24 21:00
 Source: 2026-05-22_15-26-31Z_SeedER_Seed_and_ExpandRetrievalfromKnowledgeGraphs.md
 Model: None

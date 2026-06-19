@@ -1,4 +1,12 @@
+---
+title: "2026 05 14 13 58 36Z Ifpv Anintegratedmulti Agentframeworkforgen Summary"
+date: 2026-05-14
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-14_13-58-36Z_IFPV_AnIntegratedMulti_AgentFrameworkforGenerative.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-14 21:02
 Source: 2026-05-14_13-58-36Z_IFPV_AnIntegratedMulti_AgentFrameworkforGenerative.md
 Model: None

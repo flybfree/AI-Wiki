@@ -1,12 +1,15 @@
 ---
-title: MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation
+
+title: "MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation"
 url: http://arxiv.org/abs/2606.09677v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_15-58-31Z_MeCo_One_StepMeanFlow_basedCorrectorforMulti_Chann.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces MeCo, a one-step generative corrector that uses MeanFlow to map discriminative speech estimates onto the clean signal manifold directly. The method combines a data-space optimization loss with an endpoint single-input-single-output-difference loss to improve both fidelity and human listening quality. Experiments show MeCo reaches state-of-the-art results with minimal computational overhead.

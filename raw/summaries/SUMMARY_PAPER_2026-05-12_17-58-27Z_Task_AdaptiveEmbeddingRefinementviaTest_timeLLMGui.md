@@ -1,12 +1,15 @@
 ---
+
 title: Task-Adaptive Embedding Refinement via Test-time LLM Guidance
 url: http://arxiv.org/abs/2605.12487v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_17-58-27Z_Task_AdaptiveEmbeddingRefinementviaTest_timeLLMGui.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a task‑adaptive embedding refinement method that uses feedback from a generative LLM on a small set of documents to adjust the representation of user queries in real time for zero‑shot search and classification tasks. Experiments across state‑of‑the‑art embeddings show consistent gains, with up to 25 % improvement in several benchmarks.

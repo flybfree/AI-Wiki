@@ -1,12 +1,15 @@
 ---
+
 title: NOFE -- Neural Operator Function Embedding
 url: http://arxiv.org/abs/2605.11970v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_11-25-52Z_NOFE__NeuralOperatorFunctionEmbedding.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Neural Operator Function Embedding (NOFE), a framework that performs continuous dimensionality reduction by learning function-to-function mappings through a Graph Kernel Operator. The authors demonstrate that NOFE achieves superior local structure preservation compared to traditional methods such as PCA, t‑SNE, and UMAP on the ERA5 climate reanalysis dataset.

@@ -1,12 +1,15 @@
 ---
+
 title: Quantitative Video World Model Evaluation for Geometric-Consistency
 url: http://arxiv.org/abs/2605.15185v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_17-59-04Z_QuantitativeVideoWorldModelEvaluationforGeometric_.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces PDI‑Bench, a quantitative framework that evaluates the geometric coherence of generated videos by measuring projective‑geometry residuals across scale‑depth alignment, 3D motion consistency, and structural rigidity. The study demonstrates that state‑of‑the‑art video generators consistently exhibit geometry‑specific failures that are invisible to conventional perceptual metrics.

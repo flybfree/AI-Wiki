@@ -1,4 +1,12 @@
+---
+title: "2026 05 26 17 58 47Z Naturallanguagequerytoconfigurationforretri Summary"
+date: 2026-05-26
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-26_17-58-47Z_NaturalLanguageQuerytoConfigurationforRetrievalAge.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-26 22:01
 Source: 2026-05-26_17-58-47Z_NaturalLanguageQuerytoConfigurationforRetrievalAge.md
 Model: None

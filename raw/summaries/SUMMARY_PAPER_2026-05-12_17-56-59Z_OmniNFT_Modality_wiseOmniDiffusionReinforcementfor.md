@@ -1,12 +1,15 @@
 ---
-title: OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation
+
+title: "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation"
 url: http://arxiv.org/abs/2605.12480v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_17-56-59Z_OmniNFT_Modality_wiseOmniDiffusionReinforcementfor.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces OmniNFT, a modality‑aware online diffusion reinforcement learning framework designed to improve joint audio‑video generation. The authors demonstrate that vanilla RL suffers from inconsistent multimodal rewards, gradient leakage, and poor exploration of fine‑grained alignment regions, leading to suboptimal results on benchmarks such as JavisBench and VBench.

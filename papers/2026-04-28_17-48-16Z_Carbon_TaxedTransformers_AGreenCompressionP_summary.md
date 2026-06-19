@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 17 48 16Z Carbon Taxedtransformers Agreencompressionp Summary"
+date: 2026-04-28
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-28_17-48-16Z_Carbon_TaxedTransformers_AGreenCompressionPipeline.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-04-29 00:18
 Source: 2026-04-28_17-48-16Z_Carbon_TaxedTransformers_AGreenCompressionPipeline.md
 Model: None

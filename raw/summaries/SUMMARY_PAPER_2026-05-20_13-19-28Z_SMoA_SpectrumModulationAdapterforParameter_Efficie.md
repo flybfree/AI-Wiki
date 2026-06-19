@@ -1,12 +1,15 @@
 ---
-title: SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning
+
+title: "SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning"
 url: http://arxiv.org/abs/2605.21147v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_13-19-28Z_SMoA_SpectrumModulationAdapterforParameter_Efficie.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces SMoA, a spectrum modulation adapter that expands low-rank adaptation within a limited parameter budget. It partitions layers into aligned spectral blocks and applies Hadamard-modulated low‑rank updates to each block, thereby covering more principal singular directions of the pre‑trained weights. Experiments show that SMoA achieves higher average performance than LoRA and competitive baselines under lower computational budgets.

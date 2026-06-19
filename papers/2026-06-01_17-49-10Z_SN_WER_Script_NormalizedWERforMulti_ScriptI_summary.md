@@ -1,4 +1,12 @@
+---
+title: "2026 06 01 17 49 10Z Sn Wer Script Normalizedwerformulti Scripti Summary"
+date: 2026-06-01
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-01_17-49-10Z_SN_WER_Script_NormalizedWERforMulti_ScriptIndicASR.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-01 23:00
 Source: 2026-06-01_17-49-10Z_SN_WER_Script_NormalizedWERforMulti_ScriptIndicASR.md
 Model: None

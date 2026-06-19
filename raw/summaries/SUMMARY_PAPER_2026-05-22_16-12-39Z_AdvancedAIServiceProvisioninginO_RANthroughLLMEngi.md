@@ -1,12 +1,15 @@
 ---
+
 title: Advanced AI Service Provisioning in O-RAN through LLM Engine Integration
 url: http://arxiv.org/abs/2605.23809v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_16-12-39Z_AdvancedAIServiceProvisioninginO_RANthroughLLMEngi.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a Dual‑Brain architecture that integrates large language models with an automated ML engine to streamline O‑RAN application provisioning. It demonstrates a proof‑of‑concept containerized testbed where the LLM orchestrator generates data‑collection policies and deployment code, while NeuralSmith trains lightweight classifiers on demand via an API. The results show that manual effort is reduced and deployment times are accelerated.

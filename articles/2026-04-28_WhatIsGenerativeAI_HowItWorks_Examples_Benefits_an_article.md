@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://www.coursera.org/articles/what-is-generative-ai?msockid=12d38bd4e07a648e291e9c9de1b1654b)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-28_WhatIsGenerativeAI_HowItWorks_Examples_Benefits_an.md

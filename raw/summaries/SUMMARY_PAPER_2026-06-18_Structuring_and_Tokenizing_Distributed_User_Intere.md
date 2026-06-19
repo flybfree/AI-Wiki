@@ -1,12 +1,15 @@
 ---
+
 title: Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation
 url: http://arxiv.org/abs/2606.20554v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md
-generated_at: 2026-06-18 23:00
+generated_at: "2026-06-18 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper introduces G2Rec, a scalable framework that combines holistic graph-based modeling of user co‑engagement with semantic tokenization for generative recommendation. It demonstrates that the approach can capture rich, semantically grounded user interest prototypes without requiring explicit ground‑truth interests, outperforming existing methods on public datasets and online product surfaces.

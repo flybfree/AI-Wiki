@@ -1,12 +1,15 @@
 ---
-title: MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism
+
+title: "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism"
 url: http://arxiv.org/abs/2606.07512v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-05_17-59-21Z_MemDreamer_DecouplingPerceptionandReasoningforLong.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 MemDreamer introduces a plug‑and‑play framework that separates video perception from reasoning by building a Hierarchical Graph Memory and using an agentic retrieval loop. The method reduces the effective context window to 2% of full video length while improving logic reasoning accuracy by 12.5 points, achieving SOTA on four benchmarks.

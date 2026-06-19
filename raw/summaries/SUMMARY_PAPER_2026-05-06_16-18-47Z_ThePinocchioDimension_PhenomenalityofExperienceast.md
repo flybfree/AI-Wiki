@@ -1,12 +1,15 @@
 ---
-title: The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences
+
+title: "The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences"
 url: http://arxiv.org/abs/2605.05080v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-06_16-18-47Z_ThePinocchioDimension_PhenomenalityofExperienceast.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper measures how large language models vary psychometrically by administering forty‑five validated questionnaires and finds that the main source of divergence is a dimension centered on phenomenally rich experience rather than simple stimulus reactivity. Introducing a Pinocchio score, it shows that this axis predicts measurable shifts in factor loadings across items.

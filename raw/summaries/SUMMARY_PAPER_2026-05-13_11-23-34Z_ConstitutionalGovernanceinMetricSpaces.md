@@ -1,12 +1,15 @@
 ---
+
 title: Constitutional Governance in Metric Spaces
 url: http://arxiv.org/abs/2605.13362v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_11-23-34Z_ConstitutionalGovernanceinMetricSpaces.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces constitutional governance in metric spaces, a unified polynomial‑time framework that integrates social choice aggregation, deliberation, amendment, and consensus. The authors prove the generalised median satisfies key properties such as no misreport weak dominance and bounded compromise gaps, demonstrating it works across seven canonical settings.

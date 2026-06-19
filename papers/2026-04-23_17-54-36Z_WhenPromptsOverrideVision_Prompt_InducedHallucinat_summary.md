@@ -1,4 +1,12 @@
+---
+title: "2026 04 23 17 54 36Z Whenpromptsoverridevision Prompt Inducedhallucinat Summary"
+date: 2026-04-23
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-23_17-54-36Z_WhenPromptsOverrideVision_Prompt_InducedHallucinat
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.21911v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-23_17-54-36Z_WhenPromptsOverrideVision_Prompt_InducedHallucinat.md
 Model: None

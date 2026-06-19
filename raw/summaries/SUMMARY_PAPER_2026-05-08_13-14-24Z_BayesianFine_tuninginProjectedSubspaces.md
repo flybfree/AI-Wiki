@@ -1,12 +1,15 @@
 ---
+
 title: Bayesian Fine-tuning in Projected Subspaces
 url: http://arxiv.org/abs/2605.07706v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_13-14-24Z_BayesianFine_tuninginProjectedSubspaces.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a Bayesian fine‑tuning framework that projects weight uncertainty into low‑dimensional subspaces, allowing effective calibration while keeping the number of trainable parameters minimal. Experiments show that this approach yields well‑calibrated models without sacrificing the efficiency gains of standard LoRA.

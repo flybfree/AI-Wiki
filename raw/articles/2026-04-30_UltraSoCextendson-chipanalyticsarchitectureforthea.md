@@ -1,12 +1,20 @@
 ---
+
 title: UltraSoC extends on-chip analytics architecture for the age of machine ...
 date: 2026-04-30
 url: https://semiiphub.com/pulse/news/ultrasoc-on-chip-analytics-architecture-machine-learning-artificial-intelligence-parallel-computing
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://semiiphub.com/pulse/news/ultrasoc-on-chip-analytics-architecture-machine-learning-artificial-intelligence-parallel-computing
-scraped: 2026-04-30 08:00
+scraped: "2026-04-30 08:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # UltraSoC extends on-chip analytics architecture for the age of machine ...
 

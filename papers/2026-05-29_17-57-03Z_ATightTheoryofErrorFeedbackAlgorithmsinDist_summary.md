@@ -1,4 +1,12 @@
+---
+title: "2026 05 29 17 57 03Z Atighttheoryoferrorfeedbackalgorithmsindist Summary"
+date: 2026-05-29
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-29_17-57-03Z_ATightTheoryofErrorFeedbackAlgorithmsinDistributed.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-01 00:02
 Source: 2026-05-29_17-57-03Z_ATightTheoryofErrorFeedbackAlgorithmsinDistributed.md
 Model: None

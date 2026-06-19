@@ -1,12 +1,15 @@
 ---
-title: HERO'S JOURNEY: Testing Complex Rule Induction with Text Games
+
+title: "HERO'S JOURNEY: Testing Complex Rule Induction with Text Games"
 url: http://arxiv.org/abs/2606.02556v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-01_17-51-40Z_HERO_SJOURNEY_TestingComplexRuleInductionwithTextG.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces HERO'S JOURNEY, a benchmark for rule induction in goal‑directed episodic tasks where agents must infer hidden rules from demonstrations and execute them through multiple steps. Evaluating large language models reveals that while some evidence of rule learning appears, the ability is limited and uneven across the eight tasks.

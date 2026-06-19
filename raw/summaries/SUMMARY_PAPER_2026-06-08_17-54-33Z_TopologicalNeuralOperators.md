@@ -1,12 +1,15 @@
 ---
+
 title: Topological Neural Operators
 url: http://arxiv.org/abs/2606.09806v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_17-54-33Z_TopologicalNeuralOperators.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 The paper introduces Topological Neural Operators (TNOs) as a framework for learning operators on cell complexes that lifts pointwise neural operators to topological domains using Discrete Exterior Calculus. It also proposes Hierarchical TNOs which incorporate learned coarse complexes to propagate long‑range, topology‑dependent information. Across PDE benchmarks, both TNOs and HTNOs achieve higher accuracy than conventional methods.

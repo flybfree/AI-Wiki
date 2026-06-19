@@ -1,12 +1,15 @@
 ---
+
 title: Formalizing the Binding Problem
 url: http://arxiv.org/abs/2606.03976v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_17-56-24Z_FormalizingtheBindingProblem.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper formalizes the binding problem using information theory and introduces a probing method to quantify how well Vision Transformers encode relationships between visual features across objects. Experiments show that certain ViT components like the [CLS] token can capture binding information, especially when features are shared or occluded.

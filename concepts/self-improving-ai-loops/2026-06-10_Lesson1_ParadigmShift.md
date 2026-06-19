@@ -6,8 +6,16 @@ lesson: 1
 tags: [paradigm-shift, context-engineering, feedback-loops, harness-engineering]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 1: The Paradigm Shift — From Prompting to Loops
 
+
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 ## Core Idea
 
 AI engineering is undergoing a fundamental shift: the leverage point is moving from **how you ask the model** (prompting) to **what happens after the model responds** (loops). Models are converging in capability — the harness around the model is becoming the differentiator.

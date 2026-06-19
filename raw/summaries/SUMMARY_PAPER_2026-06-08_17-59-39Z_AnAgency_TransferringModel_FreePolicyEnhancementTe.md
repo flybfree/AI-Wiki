@@ -1,12 +1,15 @@
 ---
+
 title: An Agency-Transferring Model-Free Policy Enhancement Technique
 url: http://arxiv.org/abs/2606.09825v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_17-59-39Z_AnAgency_TransferringModel_FreePolicyEnhancementTe.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces an agency‑transferring model‑free policy enhancement technique that embeds a functional baseline policy into reinforcement learning training, improving efficiency and performance. By gradually shifting control from the baseline to a trainable network, the method achieves high goal‑reaching rates even in the final stage when no baseline is used.

@@ -1,12 +1,15 @@
 ---
-title: OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation
+
+title: "OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation"
 url: http://arxiv.org/abs/2605.15177v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_17-57-40Z_OpenDeepThink_ParallelReasoningviaBradley__TerryAg.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces OpenDeepThink, a population-based test-time compute framework that selects among multiple LLM reasoning candidates using Bradley-Terry pairwise comparisons. It improves Gemini 3.1 Pro's Codeforces Elo by 405 points in eight sequential rounds and transfers across models without retuning.

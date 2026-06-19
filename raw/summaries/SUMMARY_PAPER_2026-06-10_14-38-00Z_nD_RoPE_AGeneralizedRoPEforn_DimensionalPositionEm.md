@@ -1,12 +1,15 @@
 ---
-title: nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding
+
+title: "nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding"
 url: http://arxiv.org/abs/2606.12146v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPositionEm.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces nD-RoPE, a unified theoretical framework for extending rotary position embedding to arbitrary dimensions without decomposing rotations per axis. Experiments across images, videos, and point clouds show consistent performance gains and better generalization in high‑dimensional settings.

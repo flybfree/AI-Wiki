@@ -1,12 +1,15 @@
 ---
-title: Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving
+
+title: "Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving"
 url: http://arxiv.org/abs/2605.21139v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_13-14-28Z_DistilltoThink_ForeseetoAct_Cognitive_PhysicalRein.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces CoPhy, a CognitivePhysical reinforcement learning framework that overcomes the imitation‑learning ceiling in autonomous driving by integrating cognitive semantics and foresighted physical modeling. Experiments show state‑of‑the‑art performance on NAVSIM v1/v2 while enabling safer, intent‑aware behavior through a dual‑reward optimization scheme.

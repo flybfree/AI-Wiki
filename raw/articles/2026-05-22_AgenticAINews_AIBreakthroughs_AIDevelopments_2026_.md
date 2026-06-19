@@ -1,12 +1,20 @@
 ---
+
 title: Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 date: 2026-05-22
 url: https://www.crescendo.ai/news/latest-ai-news-and-updates
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://www.crescendo.ai/news/latest-ai-news-and-updates
-scraped: 2026-05-22 00:00
+scraped: "2026-05-22 00:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 

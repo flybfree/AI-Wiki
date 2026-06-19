@@ -1,12 +1,15 @@
 ---
+
 title: Evaluating Commercial AI Chatbots as News Intermediaries
 url: http://arxiv.org/abs/2605.22785v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-21_17-42-07Z_EvaluatingCommercialAIChatbotsasNewsIntermediaries.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 This study evaluates six commercial AI chatbots on factual questions derived from same‑day BBC News articles across multiple languages and regions, revealing that the best models achieve high accuracy for event‑based queries but drop sharply under free‑response or when premises are subtly false. The analysis shows systematic regional inequities, heavy reliance on retrieval infrastructure, and vulnerability to imperfect user inputs.

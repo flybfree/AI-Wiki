@@ -1,12 +1,15 @@
 ---
+
 title: Algorithmic and Minimax Complexities in Kernel Bandits
 url: http://arxiv.org/abs/2606.11171v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-09_17-49-09Z_AlgorithmicandMinimaxComplexitiesinKernelBandits.md
-generated_at: 2026-06-11 10:55
+generated_at: "2026-06-11 10:55"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper unifies Gaussian-process upper confidence bound and decision-estimation-coefficient analyses within a common algorithmic-information framework for frequentist kernel bandits, showing that algorithmic complexity can be more informative than class-wide minimax or DEC certificates in overparameterized models. It proposes a safeguarded master combining GP-UCB and MAMS advantages and demonstrates this distinction mathematically.

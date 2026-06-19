@@ -10,8 +10,16 @@ source_pages:
   - raw/articles/2026-04-29_Top_Machine_Learning_Architectures_Explained_-_BMC.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 5: Unsupervised Learning: Finding Hidden Structure
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

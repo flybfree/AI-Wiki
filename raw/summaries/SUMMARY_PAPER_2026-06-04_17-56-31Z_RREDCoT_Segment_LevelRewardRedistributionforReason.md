@@ -1,12 +1,15 @@
 ---
-title: RREDCoT: Segment-Level Reward Redistribution for Reasoning Models
+
+title: "RREDCoT: Segment-Level Reward Redistribution for Reasoning Models"
 url: http://arxiv.org/abs/2606.06475v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-04_17-56-31Z_RREDCoT_Segment_LevelRewardRedistributionforReason.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 RREDCoT proposes a method for redistributing rewards at the segment level within Chain-of-Thought traces, allowing reasoning models to receive timely feedback during training. By leveraging the model itself to estimate optimal reward allocation, it avoids the high variance and computational cost of Monte Carlo sampling while improving final answer accuracy.

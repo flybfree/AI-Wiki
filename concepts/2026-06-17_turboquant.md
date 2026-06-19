@@ -9,8 +9,16 @@ sources:
   - arxiv: "https://arxiv.org/abs/2506.xxxxx"
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # TurboQuant
 
+
+
+**Source**: [Original Article](https://github.com/TheTom/llama-cpp-turboquant)
 **TurboQuant** is an online vector quantization algorithm developed by Google researchers (Amir Zandieh, Majid Daliri, Majid Hadian, Vahab Mirrokni) that compresses high-dimensional Euclidean vectors while preserving their geometric structure. Proposed in 2025 and published at ICLR 2026, it uses Walsh-Hadamard-rotated polar codebook quantization for KV cache in large language models.
 
 **Source**: [TurboQuant - Wikipedia](https://en.wikipedia.org/wiki/TurboQuant)

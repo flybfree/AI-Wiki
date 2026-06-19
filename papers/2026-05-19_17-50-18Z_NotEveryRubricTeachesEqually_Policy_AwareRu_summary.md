@@ -1,4 +1,12 @@
+---
+title: "2026 05 19 17 50 18Z Noteveryrubricteachesequally Policy Awareru Summary"
+date: 2026-05-19
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-19_17-50-18Z_NotEveryRubricTeachesEqually_Policy_AwareRubricRew.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-19 22:00
 Source: 2026-05-19_17-50-18Z_NotEveryRubricTeachesEqually_Policy_AwareRubricRew.md
 Model: None

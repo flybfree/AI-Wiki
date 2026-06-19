@@ -1,4 +1,12 @@
+---
+title: "2026 04 30 Genai Works Generativeaidailynewsletter Generative Summary"
+date: 2026-04-30
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-30_GenAI_works_GenerativeAIDailyNewsletter_Generative.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-30 19:29
 Source: 2026-04-30_GenAI_works_GenerativeAIDailyNewsletter_Generative.md
 Model: qwen3.6:35b

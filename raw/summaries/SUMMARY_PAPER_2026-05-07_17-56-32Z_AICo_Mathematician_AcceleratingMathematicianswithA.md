@@ -1,12 +1,15 @@
 ---
-title: AI Co-Mathematician: Accelerating Mathematicians with Agentic AI
+
+title: "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI"
 url: http://arxiv.org/abs/2605.06651v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-07_17-56-32Z_AICo_Mathematician_AcceleratingMathematicianswithA.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces the AI co‑mathematician, a stateful workbench that enables mathematicians to interactively use AI agents for ideation, literature search, computational exploration, theorem proving and theory building. Early experiments show the system can solve open problems, suggest new research directions, and achieve top scores on FrontierMath Tier 4 benchmarks.

@@ -1,4 +1,12 @@
+---
+title: "2026 05 18 10 56 14Z Leveraginggraphstructureinseq2Seqmodelsfork Summary"
+date: 2026-05-18
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-18_10-56-14Z_LeveragingGraphStructureinSeq2SeqModelsforKnowledg.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-18 22:03
 Source: 2026-05-18_10-56-14Z_LeveragingGraphStructureinSeq2SeqModelsforKnowledg.md
 Model: None

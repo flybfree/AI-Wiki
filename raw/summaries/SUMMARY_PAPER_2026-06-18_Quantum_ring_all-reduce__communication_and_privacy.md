@@ -1,12 +1,15 @@
 ---
-title: Quantum ring all-reduce: communication and privacy advantages for distributed learning
+
+title: "Quantum ring all-reduce: communication and privacy advantages for distributed learning"
 url: http://arxiv.org/abs/2606.20344v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md
-generated_at: 2026-06-18 21:00
+generated_at: "2026-06-18 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a quantum version of the ring all-reduce protocol that cuts per-link communication by half using entanglement and superdense coding, while providing information-theoretic privacy via verifiable entanglement. It achieves ε-secure aggregation with only twice the overhead of GHZ copies compared to classical methods. The authors also analyze gradient conflict detection under bandwidth limits, showing quadratic advantage for margin-based testing and exponential separation for sign-consistency auditing.

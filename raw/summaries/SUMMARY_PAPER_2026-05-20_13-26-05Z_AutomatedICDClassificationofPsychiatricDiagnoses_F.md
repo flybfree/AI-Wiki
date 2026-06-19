@@ -1,12 +1,15 @@
 ---
-title: Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models
+
+title: "Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models"
 url: http://arxiv.org/abs/2605.21154v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_13-26-05Z_AutomatedICDClassificationofPsychiatricDiagnoses_F.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper aims to automate the mapping of free‑text psychiatric descriptions to ICD codes using NLP and ML. It evaluates classical models such as BoW and TF‑IDF against state‑of‑the‑art LLMs like e5_large, BioLORD, and Llama‑3-8B on a dataset of 145 513 Spanish psychiatric notes. The best result comes from fine‑tuned e5_large achieving a micro F1 of 0.866.

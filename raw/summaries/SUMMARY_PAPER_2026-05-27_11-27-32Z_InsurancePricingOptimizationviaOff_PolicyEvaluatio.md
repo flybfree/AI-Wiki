@@ -1,12 +1,15 @@
 ---
+
 title: Insurance Pricing Optimization via Off-Policy Evaluation
 url: http://arxiv.org/abs/2605.28327v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_11-27-32Z_InsurancePricingOptimizationviaOff_PolicyEvaluatio.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper tackles insurance pricing as a decision‑making problem and uses off‑policy evaluation to develop a kernelized inverse propensity score estimator that reduces variance. It then applies these value estimates to optimize pricing rules, comparing an interpretable Lasso model with a neural network approach in a synthetic travel‑insurance setting.

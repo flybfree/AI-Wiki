@@ -1,4 +1,12 @@
+---
+title: "2026 04 26 15 14 38Z Agenticfusionoflargeatomicandlanguagemodelstoaccel Summary"
+date: 2026-04-26
+tags: ['paper', 'research', 'ai']
+---
 # Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.23758v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-26_15-14-38Z_AgenticFusionofLargeAtomicandLanguageModelstoAccel.md
 

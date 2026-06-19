@@ -1,12 +1,15 @@
 ---
+
 title: Learning User Simulators with Turing Rewards
 url: http://arxiv.org/abs/2606.19336v1
 type: paper-summary
 date: 2026-06-17
 source_paper: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md
-generated_at: 2026-06-17 22:00
+generated_at: "2026-06-17 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Turing‑RL, a reinforcement learning framework that trains language model simulators to generate responses indistinguishable from real users using a discriminative Turing reward. Experiments on chat and Reddit forums show the method outperforms baselines in both automated and human evaluations. The core finding is that optimizing for indistinguishability rather than exact response matching improves simulator performance.

@@ -1,12 +1,15 @@
 ---
+
 title: Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation
 url: http://arxiv.org/abs/2606.12117v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces soft-prompt tuning to evaluate LLM knowledge fairly by adapting models to benchmark formats with minimal parameter changes. It shows that optimizing only 10 vectors improves format-following and reveals true model knowledge across seven datasets.

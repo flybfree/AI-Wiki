@@ -1,12 +1,15 @@
 ---
+
 title: Aligning Dense Retrievers with LLM Utility via DistillationAligning Dense Retrievers with LLM Utility via Distillation
 url: http://arxiv.org/abs/2604.22722v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-24_17-18-56Z_AligningDenseRetrieverswithLLMUtilityviaDistillati.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Utility-Aligned Embeddings (UAE), a method that combines dense vector retrieval with LLM utility signals to overcome precision and computational trade‑offs in Retrieval‑Augmented Generation. By training a bi‑encoder to match the utility distribution derived from perplexity reduction, UAE boosts Recall@1 by 30.59%, MAP by 30.16% and Token F1 by 17.3% over BGE‑Base on QASPER while being 180× faster than LLM re‑ranking.

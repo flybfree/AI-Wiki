@@ -6,8 +6,16 @@ url: "https://github.com/lfnovo/open-notebook"
 tags: [notebook-lm, open-source, self-hosted, podcast-generation, multimodal, ai-tools]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 # Open Notebook — Open Source Notebook LM Alternative
 
+
+
+**Source**: [Original Article](https://github.com/lfnovo/open-notebook)
 **Source**: [Original Repo](https://github.com/lfnovo/open-notebook)
 
 ## Overview

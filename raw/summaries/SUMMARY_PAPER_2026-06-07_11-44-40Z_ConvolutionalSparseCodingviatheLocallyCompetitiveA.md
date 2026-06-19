@@ -1,12 +1,15 @@
 ---
+
 title: Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2
 url: http://arxiv.org/abs/2606.08584v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-07_11-44-40Z_ConvolutionalSparseCodingviatheLocallyCompetitiveA.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a Loihi 2 implementation of convolutional sparse coding using the Locally Competitive Algorithm, which is compared to a GPU baseline on the same inference tasks. The work demonstrates that a one‑layer recurrent LCA with local inhibitory kernels can perform structured sparse inference on neuromorphic hardware. The authors report feasibility and provide insights into when this approach becomes advantageous.

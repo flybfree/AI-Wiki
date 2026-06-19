@@ -1,12 +1,15 @@
 ---
-title: WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation
+
+title: "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"
 url: http://arxiv.org/abs/2605.10912v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-11_17-49-43Z_WildClawBench_ABenchmarkforReal_World_Long_Horizon.md
-generated_at: 2026-06-11 10:37
+generated_at: "2026-06-11 10:37"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 WildClawBench introduces a native‑runtime benchmark that evaluates 60 human‑authored, bilingual, multimodal tasks across six themes within a Docker container hosting real CLI agents and actual tools. The study shows that even the top model Claude Opus 4.7 achieves only 62.2% overall accuracy, while all others fall below 60%, highlighting the difficulty of long‑horizon agent performance in realistic environments.

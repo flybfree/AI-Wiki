@@ -1,12 +1,20 @@
 ---
+
 title: AI Updates Today (June 2026) – Latest AI Model Releases
 date: 2026-06-14
 url: https://llm-stats.com/llm-updates
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://llm-stats.com/llm-updates
-scraped: 2026-06-14 00:00
+scraped: "2026-06-14 00:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # AI Updates Today (June 2026) – Latest AI Model Releases
 

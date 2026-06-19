@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://theconversation.com/topics/generative-ai-133426)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-29_GenerativeAINews_ResearchandAnalysis_TheConversati.md

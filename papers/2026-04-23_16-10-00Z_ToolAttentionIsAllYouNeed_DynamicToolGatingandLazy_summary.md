@@ -1,4 +1,12 @@
+---
+title: "2026 04 23 16 10 00Z Toolattentionisallyouneed Dynamictoolgatingandlazy Summary"
+date: 2026-04-23
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-23_16-10-00Z_ToolAttentionIsAllYouNeed_DynamicToolGatingandLazy
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.21816v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-23_16-10-00Z_ToolAttentionIsAllYouNeed_DynamicToolGatingandLazy.md
 Model: None

@@ -1,12 +1,15 @@
 ---
+
 title: Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 url: http://arxiv.org/abs/2606.09667v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a masked multimodal framework that jointly uses surface electromyography (sEMG) and video lipreading to synthesize silent speech, achieving up to 14 absolute percentage points lower word error rates than the best unimodal baseline. The authors demonstrate that masking strategies are essential for both performance gains and robustness under low‑bitrate conditions and when one modality is temporarily absent.

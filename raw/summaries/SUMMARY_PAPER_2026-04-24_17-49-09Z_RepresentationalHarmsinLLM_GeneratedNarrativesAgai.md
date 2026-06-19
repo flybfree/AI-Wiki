@@ -1,12 +1,15 @@
 ---
+
 title: Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities
 url: http://arxiv.org/abs/2604.22749v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-24_17-49-09Z_RepresentationalHarmsinLLM_GeneratedNarrativesAgai.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how large language models generate narratives about national origin identities and shows that these outputs often reinforce harmful stereotypes, erasure, or one‑dimensional portrayals of Global Majority groups. The study finds that minority nationalities are far less likely to appear in neutral stories than in subordinated character roles, a disparity that is especially pronounced when US nationality cues are present.

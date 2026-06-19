@@ -11,8 +11,16 @@ source_pages:
   - raw/papers/2026-05-06_understanding_lstm_networks.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 8: Recurrent Networks and LSTMs
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

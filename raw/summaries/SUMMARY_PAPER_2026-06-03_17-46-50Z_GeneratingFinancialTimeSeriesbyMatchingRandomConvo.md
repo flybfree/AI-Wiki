@@ -1,12 +1,15 @@
 ---
+
 title: Generating Financial Time Series by Matching Random Convolutional Features
 url: http://arxiv.org/abs/2606.05138v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-03_17-46-50Z_GeneratingFinancialTimeSeriesbyMatchingRandomConvo.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes SOCK, a fully differentiable random convolutional feature map for generating financial time series. By matching these features between real and generated data, the authors achieve better performance than traditional path‑signature methods on limited datasets.

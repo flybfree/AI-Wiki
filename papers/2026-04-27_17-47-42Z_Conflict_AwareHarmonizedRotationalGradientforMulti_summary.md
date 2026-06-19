@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 17 47 42Z Conflict Awareharmonizedrotationalgradientformulti Summary"
+date: 2026-04-27
+tags: ['paper', 'research', 'ai']
+---
 # Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.24745v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-27_17-47-42Z_Conflict_AwareHarmonizedRotationalGradientforMulti.md
 

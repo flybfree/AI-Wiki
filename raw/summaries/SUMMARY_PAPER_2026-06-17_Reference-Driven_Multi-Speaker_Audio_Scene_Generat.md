@@ -1,12 +1,15 @@
 ---
+
 title: Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors
 url: http://arxiv.org/abs/2606.19325v1
 type: paper-summary
 date: 2026-06-17
 source_paper: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md
-generated_at: 2026-06-17 22:00
+generated_at: "2026-06-17 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces ScenA, a method for generating multi‑speaker audio scenes directly from free‑form natural language prompts using a foundation model pretrained on in‑the‑wild data. By conditioning the model on concatenated reference latents and lightweight identity‑aware positional encodings, it produces rich conversational audio with overlapping speech and ambient textures without per‑turn supervision.

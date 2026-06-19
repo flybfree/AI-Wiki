@@ -1,12 +1,15 @@
 ---
+
 title: Language Models Need Sleep
 url: http://arxiv.org/abs/2605.26099v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-25_17-55-39Z_LanguageModelsNeedSleep.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 Transformer-based large language models struggle with long context due to attention scaling; this paper introduces a sleep-like consolidation mechanism that periodically updates fast weights during offline passes, improving performance on reasoning tasks.

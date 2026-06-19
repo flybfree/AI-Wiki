@@ -1,4 +1,12 @@
+---
+title: "2026 05 05 17 55 01Z Large Scalehigh Quality3Dgaussianheadrecons Summary"
+date: 2026-05-05
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-05_17-55-01Z_Large_ScaleHigh_Quality3DGaussianHeadReconstructio.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:02
 Source: 2026-05-05_17-55-01Z_Large_ScaleHigh_Quality3DGaussianHeadReconstructio.md
 Model: None

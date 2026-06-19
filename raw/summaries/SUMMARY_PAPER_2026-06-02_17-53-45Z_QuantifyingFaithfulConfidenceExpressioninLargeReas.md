@@ -1,12 +1,15 @@
 ---
+
 title: Quantifying Faithful Confidence Expression in Large Reasoning Models
 url: http://arxiv.org/abs/2606.03969v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_17-53-45Z_QuantifyingFaithfulConfidenceExpressioninLargeReas.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a framework for quantifying faithful confidence expression in large reasoning models, which often generate long chain‑of‑thought traces without clear step boundaries. The study shows that LRMs frequently misalign their expressed confidence with internal uncertainty, and that existing evaluation methods do not generalize to such complex outputs.

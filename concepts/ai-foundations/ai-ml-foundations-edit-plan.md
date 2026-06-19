@@ -10,8 +10,16 @@ source_pages:
   - claude-code-linked-sources.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # AI/ML Foundations Edit Plan
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 This is the concrete lesson-by-lesson revision checklist for the 16-lesson AI/ML Foundations course.
 
 Primary goal:

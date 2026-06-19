@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 17 39 14Z Threemodelsofrlhfannotation Extension Evidence And Summary"
+date: 2026-04-28
+tags: ['paper', 'research', 'ai']
+---
 # Three Models of RLHF Annotation: Extension, Evidence, and Authority
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.25895v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-28_17-39-14Z_ThreeModelsofRLHFAnnotation_Extension_Evidence_and.md
 

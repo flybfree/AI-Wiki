@@ -1,4 +1,12 @@
+---
+title: "2026 05 21 17 58 06Z Remembertobecurious Episodiccontextandpersi Summary"
+date: 2026-05-21
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-21_17-58-06Z_RemembertobeCurious_EpisodicContextandPersistentWo.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-22 00:12
 Source: 2026-05-21_17-58-06Z_RemembertobeCurious_EpisodicContextandPersistentWo.md
 Model: None

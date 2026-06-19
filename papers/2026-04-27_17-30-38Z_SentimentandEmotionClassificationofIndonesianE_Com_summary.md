@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 17 30 38Z Sentimentandemotionclassificationofindonesiane Com Summary"
+date: 2026-04-27
+tags: ['paper', 'research', 'ai']
+---
 # Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.24720v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-27_17-30-38Z_SentimentandEmotionClassificationofIndonesianE_Com.md
 

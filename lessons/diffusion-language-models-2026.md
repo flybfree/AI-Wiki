@@ -5,8 +5,16 @@ tags: [diffusion-models, language-models, text-generation, parallel-generation, 
 category: AI Foundations
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Diffusion Language Models: The Parallel Text Revolution
 
+
+
+**Source**: [Original Article](https://openreview.net/forum?id=BVnIsh4Nz1)
 **Source**: [Google DeepMind Gemini Diffusion](https://deepmind.google/models/gemini-diffusion) · [DiffusionGemma Blog](https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/) · [Inception Labs Mercury](https://www.inceptionlabs.ai/) · [ICLR 2026 Oral](https://openreview.net/forum?id=BVnIsh4Nz1) · [Together AI CDLM](https://www.together.ai/blog/consistency-diffusion-language-models)
 
 ---

@@ -1,12 +1,15 @@
 ---
+
 title: In-Context Learning for Latent Space Bayesian Optimization
 url: http://arxiv.org/abs/2606.09664v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-08_15-45-25Z_In_ContextLearningforLatentSpaceBayesianOptimizati.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper tackles the mismatch between latent-space Bayesian optimization and tabular foundation models by extending their pretraining with synthetic optimization tasks defined on a molecular VAE. The resulting model retains its broad regression prior while adapting to LSBO objectives, achieving strong performance on held-out molecular benchmarks.

@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Inaugural Adobe Creators Toolkit Report 86 Perce"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Inaugural Adobe Creators  Toolkit Report  86 Perce
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: Inaugural Adobe Creators' Toolkit Report: 86 Percent of Global …
 Article text:
 

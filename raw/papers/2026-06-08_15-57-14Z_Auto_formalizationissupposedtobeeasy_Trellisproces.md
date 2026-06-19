@@ -1,14 +1,25 @@
 ---
+
 title: '(Auto)formalization is supposed to be easy: Trellis process semantics for spelling out rigorous proofs'
-published: 2026-06-08T15:57:14Z
+published: "2026-06-08T15:57:14Z"
 authors: Wesley Pegden
 url: http://arxiv.org/abs/2606.09674v1
 type: paper-summary
 tags: [paper-summary, arxiv]
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
+
 
 # (Auto)formalization is supposed to be easy: Trellis process semantics for spelling out rigorous proofs
 
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2606.09674v1)
 ## Abstract
 We present Trellis: an autoformalization system that leverages LLM agents in a deterministically constrained workflow to enforce incremental progress in Lean autoformalization tasks through iterative refinement of natural language proofs. Our approach is motivated by the common mathematician's notion of what it means to have a rigorous proof in the first place: namely, that it would be routine to elaborate any part of the proof in further detail. The result is a system which aims to achieve reliable autoformalization on a modest budget and with generalist agents, with specialization to autoformalization coming not from any task-specific agent training but instead from a meaning-of-rigor inspired workflow enforced by process semantics. We link to an end-to-end Lean formalization of a recent Ramsey theory breakthrough produced by the process.
 

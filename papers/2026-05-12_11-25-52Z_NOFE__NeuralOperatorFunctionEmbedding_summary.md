@@ -1,4 +1,12 @@
+---
+title: "2026 05 12 11 25 52Z Nofe Neuraloperatorfunctionembedding Summary"
+date: 2026-05-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-12_11-25-52Z_NOFE__NeuralOperatorFunctionEmbedding.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-12 21:00
 Source: 2026-05-12_11-25-52Z_NOFE__NeuralOperatorFunctionEmbedding.md
 Model: None

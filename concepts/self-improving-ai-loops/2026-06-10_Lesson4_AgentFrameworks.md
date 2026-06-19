@@ -6,8 +6,16 @@ lesson: 4
 tags: [agent-frameworks, smolagents, langgraph, openhands, aider]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 4: Agent Frameworks — The Loop Engine
 
+
+
+**Source**: [Original Article](http://localhost:4000/v1)
 ## Core Idea
 
 Agent frameworks are the engines that run your loops. They handle the ReAct cycle (Reasoning → Acting → Observing), manage tool calls, and orchestrate the feedback loop. Each framework has a different philosophy — pick based on your use case.

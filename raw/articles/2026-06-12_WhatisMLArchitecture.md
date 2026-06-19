@@ -1,12 +1,20 @@
 ---
+
 title: What is ML Architecture
 date: 2026-06-12
 url: https://www.giskard.ai/glossary/ml-architecture
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://www.giskard.ai/glossary/ml-architecture
-scraped: 2026-06-12 03:00
+scraped: "2026-06-12 03:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # What is ML Architecture
 

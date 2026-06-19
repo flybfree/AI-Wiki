@@ -1,4 +1,12 @@
+---
+title: "2026 04 30 Saiprashanthpathi Aiforcreditrisk Architectingexpl Summary"
+date: 2026-04-30
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-30_SaiPrashanthPathi-AIForCreditRisk_ArchitectingExpl.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-30 06:47
 Source: 2026-04-30_SaiPrashanthPathi-AIForCreditRisk_ArchitectingExpl.md
 Model: qwen3.6:35b

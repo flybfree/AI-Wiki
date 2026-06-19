@@ -1,12 +1,15 @@
 ---
-title: AVISE: Framework for Evaluating the Security of AI Systems
+
+title: "AVISE: Framework for Evaluating the Security of AI Systems"
 url: http://arxiv.org/abs/2604.20833v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-22_17-58-17Z_AVISE_FrameworkforEvaluatingtheSecurityofAISystems.md
-generated_at: 2026-06-11 10:25
+generated_at: "2026-06-11 10:25"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces AVISE, a modular open‑source framework for identifying vulnerabilities in AI systems and evaluating their security. It demonstrates the framework with an extended Red Queen attack on language models and an automated Security Evaluation Test that achieves high accuracy.

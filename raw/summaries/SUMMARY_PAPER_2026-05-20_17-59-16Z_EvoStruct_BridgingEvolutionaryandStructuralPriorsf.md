@@ -1,12 +1,15 @@
 ---
-title: EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation
+
+title: "EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation"
 url: http://arxiv.org/abs/2605.21485v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_17-59-16Z_EvoStruct_BridgingEvolutionaryandStructuralPriorsf.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces EvoStruct, a method that combines a frozen protein language model with three‑dimensional structural information to design antibody complementarity‑determining regions (CDRs) while addressing vocabulary collapse in graph neural network approaches. On the CHIMERA‑Bench benchmark it achieves the highest amino acid recovery and lowest perplexity among several antibody design methods.

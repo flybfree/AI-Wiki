@@ -1,12 +1,15 @@
 ---
-title: CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces
+
+title: "CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces"
 url: http://arxiv.org/abs/2605.23887v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_17-47-45Z_CHRONOS_Temporally_AwareMulti_AgentCoordinationfor.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces CHRONOS, a three‑layer framework that tackles the three core failures of static temporal data marketplaces. It achieves a recall loss bound of O(Pq λ δt) with a monotone envelope improvement from 3.2 to 1.8, provides finite‑sample Shapley valuation guarantees at changepoints, and enforces ε‑differential privacy via EXP3‑IX while delivering a regret of O(√T log T). Across benchmarks CHRONOS reaches 0.937 recall in ten epochs with 2.74 queries per second and total ε = 4.25 at δ = 1e‑6.

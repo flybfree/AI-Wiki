@@ -1,12 +1,15 @@
 ---
+
 title: Is Grep All You Need? How Agent Harnesses Reshape Agentic Search
 url: http://arxiv.org/abs/2605.15184v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_17-58-41Z_IsGrepAllYouNeed_HowAgentHarnessesReshapeAgenticSe.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how retrieval strategy — grep versus vector search — affects the performance of LLM agents in a controlled environment, comparing two harnesses (Chronos and provider CLI) across different tool output formats. The experiments show that grep generally outperforms vector retrieval in accuracy while overall scores remain sensitive to the specific harness and tool‑calling style.

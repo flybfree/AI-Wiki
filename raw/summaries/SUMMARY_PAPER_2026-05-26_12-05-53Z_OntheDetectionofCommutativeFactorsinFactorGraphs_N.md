@@ -1,12 +1,15 @@
 ---
-title: On the Detection of Commutative Factors in Factor Graphs: Necessary and Sufficient Conditions
+
+title: "On the Detection of Commutative Factors in Factor Graphs: Necessary and Sufficient Conditions"
 url: http://arxiv.org/abs/2605.26908v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_12-05-53Z_OntheDetectionofCommutativeFactorsinFactorGraphs_N.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper revisits the theory behind detecting commutative factors in factor graphs, showing that current algorithms rely on a theorem that is only necessary not sufficient. They prove a corrected version of the theorem and provide efficient corrected algorithm plus tighter bound algorithm.

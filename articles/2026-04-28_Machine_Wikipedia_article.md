@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://en.m.wikipedia.org/wiki/Machine)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-28_Machine_Wikipedia.md

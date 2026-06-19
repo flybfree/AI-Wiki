@@ -1,12 +1,15 @@
 ---
+
 title: Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models
 url: http://arxiv.org/abs/2606.03988v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_17-59-17Z_ImaginativePerceptionTokensEnhanceSpatialReasoning.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces Imaginative Perception Tokens (IPT), a novel supervision signal that externalizes how a vision‑language model would perceive alternative spatial configurations. Experiments show IPT consistently boosts spatial reasoning performance, often surpassing chain‑of‑thought training and outperforming strong closed‑source models on specific tasks.

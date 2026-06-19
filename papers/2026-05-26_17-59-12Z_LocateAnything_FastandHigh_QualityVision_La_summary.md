@@ -1,4 +1,12 @@
+---
+title: "2026 05 26 17 59 12Z Locateanything Fastandhigh Qualityvision La Summary"
+date: 2026-05-26
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-26_17-59-12Z_LocateAnything_FastandHigh_QualityVision_LanguageG.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-26 22:01
 Source: 2026-05-26_17-59-12Z_LocateAnything_FastandHigh_QualityVision_LanguageG.md
 Model: None

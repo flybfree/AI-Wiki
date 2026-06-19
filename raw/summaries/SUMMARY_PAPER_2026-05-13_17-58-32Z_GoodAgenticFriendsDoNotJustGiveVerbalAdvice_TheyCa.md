@@ -1,12 +1,15 @@
 ---
-title: Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights
+
+title: "Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights"
 url: http://arxiv.org/abs/2605.13839v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_17-58-32Z_GoodAgenticFriendsDoNotJustGiveVerbalAdvice_TheyCa.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes TFlow, a weight-space communication framework that lets frozen role‑prompted sender agents exchange information with a fixed receiver model without appending messages to the context. Instead of generating tokens, the senders’ hidden states are mapped into low‑rank LoRA perturbations applied only during the receiver’s generation. The method improves accuracy by up to 8.5 points while cutting token processing and inference time dramatically.

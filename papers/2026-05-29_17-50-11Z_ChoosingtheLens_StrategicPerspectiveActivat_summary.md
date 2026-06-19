@@ -1,4 +1,12 @@
+---
+title: "2026 05 29 17 50 11Z Choosingthelens Strategicperspectiveactivat Summary"
+date: 2026-05-29
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-29_17-50-11Z_ChoosingtheLens_StrategicPerspectiveActivationinCo.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-01 00:00
 Source: 2026-05-29_17-50-11Z_ChoosingtheLens_StrategicPerspectiveActivationinCo.md
 Model: None

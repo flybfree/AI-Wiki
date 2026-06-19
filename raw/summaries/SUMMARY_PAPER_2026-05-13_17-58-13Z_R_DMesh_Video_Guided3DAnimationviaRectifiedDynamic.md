@@ -1,12 +1,15 @@
 ---
-title: R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow
+
+title: "R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow"
 url: http://arxiv.org/abs/2605.13838v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_17-58-13Z_R_DMesh_Video_Guided3DAnimationviaRectifiedDynamic.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 R-DMesh tackles the pose misalignment problem that arises when a static mesh’s initial pose does not match the start frame of a reference video, preventing high‑fidelity 4D animation. The authors present a unified framework that generates rectified 4D meshes and demonstrates robust alignment as well as downstream applications such as pose retargeting.

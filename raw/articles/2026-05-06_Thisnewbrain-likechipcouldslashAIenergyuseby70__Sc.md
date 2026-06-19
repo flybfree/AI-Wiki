@@ -1,12 +1,20 @@
 ---
+
 title: This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 date: 2026-05-06
 url: https://www.sciencedaily.com/releases/2026/04/260422044633.htm
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://www.sciencedaily.com/releases/2026/04/260422044633.htm
-scraped: 2026-05-06 00:00
+scraped: "2026-05-06 00:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 

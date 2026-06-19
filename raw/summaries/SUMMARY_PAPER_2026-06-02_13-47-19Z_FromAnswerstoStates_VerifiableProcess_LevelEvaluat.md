@@ -1,12 +1,15 @@
 ---
-title: From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models
+
+title: "From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models"
 url: http://arxiv.org/abs/2606.03660v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_13-47-19Z_FromAnswerstoStates_VerifiableProcess_LevelEvaluat.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces ChemCoTBench‑V2, a rule‑verifiable benchmark that evaluates the structured reasoning of large language models in chemistry. Experiments show a persistent gap between correct final answers and consistent chemical step traces, revealing that many models follow the requested format while violating underlying logic.

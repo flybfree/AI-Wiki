@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 17 23 37Z Long Contextawareupcycling Anewfrontierforh Summary"
+date: 2026-04-27
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-27_17-23-37Z_Long_ContextAwareUpcycling_ANewFrontierforHybridLL.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-04-29 03:14
 Source: 2026-04-27_17-23-37Z_Long_ContextAwareUpcycling_ANewFrontierforHybridLL.md
 Model: qwen3.6:35b

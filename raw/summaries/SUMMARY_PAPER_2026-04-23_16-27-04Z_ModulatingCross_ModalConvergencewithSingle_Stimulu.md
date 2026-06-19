@@ -1,12 +1,15 @@
 ---
+
 title: Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion
 url: http://arxiv.org/abs/2604.21836v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_16-27-04Z_ModulatingCross_ModalConvergencewithSingle_Stimulu.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how individual stimuli influence the convergence of vision and language neural networks by measuring intra‑modal representational dispersion with a Generalized Procrustes Algorithm. The authors find that low intra‑modal dispersion leads to significantly higher cross‑modal alignment, sometimes up to a factor of two stronger than high dispersion.

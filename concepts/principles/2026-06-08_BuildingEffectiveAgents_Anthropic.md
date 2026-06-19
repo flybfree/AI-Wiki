@@ -9,6 +9,9 @@ sources:
 
 # Building Effective Agents (Anthropic)
 
+
+
+**Source**: [Original Article](https://www.anthropic.com/research/building-effective-agents)
 ## Summary
 
 Anthropic's engineering team shares lessons from working with dozens of teams building LLM agents. The core thesis: **simple, composable patterns beat complex frameworks**. The most successful implementations use basic building blocks rather than specialized libraries.

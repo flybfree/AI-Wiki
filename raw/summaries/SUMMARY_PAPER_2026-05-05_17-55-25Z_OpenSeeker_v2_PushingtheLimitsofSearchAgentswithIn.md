@@ -1,12 +1,15 @@
 ---
-title: OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories
+
+title: "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories"
 url: http://arxiv.org/abs/2605.04036v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-05_17-55-25Z_OpenSeeker_v2_PushingtheLimitsofSearchAgentswithIn.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper demonstrates that a simple supervised fine‑tuning (SFT) approach can achieve state‑of‑the‑art performance on frontier search agents when trained with informative and high‑difficulty trajectories. The authors report OpenSeeker‑v2 surpassing heavy pipeline models across four benchmarks while using only 10.6 k data points.

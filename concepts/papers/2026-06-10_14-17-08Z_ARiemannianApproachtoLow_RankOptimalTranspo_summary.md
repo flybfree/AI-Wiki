@@ -1,4 +1,12 @@
+---
+title: "2026 06 10 14 17 08Z Ariemannianapproachtolow Rankoptimaltranspo Summary"
+date: 2026-06-10
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-10 20:59
 Source: 2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md
 Model: None

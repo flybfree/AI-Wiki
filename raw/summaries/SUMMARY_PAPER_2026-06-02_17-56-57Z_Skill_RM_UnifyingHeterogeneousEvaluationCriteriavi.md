@@ -1,12 +1,15 @@
 ---
-title: Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill
+
+title: "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill"
 url: http://arxiv.org/abs/2606.03980v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_17-56-57Z_Skill_RM_UnifyingHeterogeneousEvaluationCriteriavi.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Skill-RM, a unified framework that treats reward computation as the execution of a reusable Reward-Evaluation Skill to integrate heterogeneous evaluation criteria such as rule‑based verifiers and ground‑truth references into a single agentic process. Experiments on reward benchmarks and downstream RL show Skill‑RM outperforms traditional judge baselines by consistently delivering higher scores while maintaining transparency.

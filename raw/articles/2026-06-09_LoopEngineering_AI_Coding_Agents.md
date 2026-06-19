@@ -6,6 +6,11 @@ url: "https://www.mindstudio.ai/blog/what-is-loop-engineering-ai-coding-agents"
 tags: [agents, loop-engineering, ai-coding, agentic-workflows, re-act]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 # Loop Engineering: The New Meta for AI Coding Agents
 
 **Source**: [Original Article](https://www.mindstudio.ai/blog/what-is-loop-engineering-ai-coding-agents)

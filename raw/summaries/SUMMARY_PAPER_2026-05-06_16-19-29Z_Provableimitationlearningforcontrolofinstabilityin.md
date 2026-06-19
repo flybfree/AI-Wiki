@@ -1,12 +1,15 @@
 ---
+
 title: Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations
 url: http://arxiv.org/abs/2605.05081v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-06_16-19-29Z_Provableimitationlearningforcontrolofinstabilityin.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper develops provable imitation learning methods to stabilize Vlasov‑Poisson plasma dynamics using only sparse macroscopic measurements. The learned policies achieve stability with an error floor that depends on the minimal behavior‑cloning loss under observation constraints, and they are characterized by a complexity entropy tied to the initial distribution’s structure.

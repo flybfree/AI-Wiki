@@ -6,6 +6,9 @@ version: 1.0.0
 
 # Wiki Schema: AI Research
 
+
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 ## Conventions
 - File names: lowercase, hyphens (e.g., `gpt-4o.md`)
 - Every page starts with YAML frontmatter

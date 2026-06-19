@@ -1,12 +1,15 @@
 ---
-title: Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving
+
+title: "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving"
 url: http://arxiv.org/abs/2606.20537v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md
-generated_at: 2026-06-18 23:00
+generated_at: "2026-06-18 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces execution‑state capsules, a mechanism that captures and restores the complete state of an LLM at a graph‑bound checkpoint for low‑latency, on‑device serving. Experiments show byte‑exact snapshots and token‑identical restores with sub‑millisecond GPU latency, delivering up to 27× speedup in TTFT over cold prefill.

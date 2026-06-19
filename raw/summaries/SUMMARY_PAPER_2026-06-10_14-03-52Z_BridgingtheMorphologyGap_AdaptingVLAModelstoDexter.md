@@ -1,12 +1,15 @@
 ---
-title: Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning
+
+title: "Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning"
 url: http://arxiv.org/abs/2606.12109v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces InDex, a framework that adapts pre‑trained Vision‑Language‑Action (VLA) models from low‑degree parallel grippers to high‑degree dexterous hands by bridging the morphology gap. By repurposing the 1‑DoF grasp output as a continuous virtual grasp intent proxy and using an intent‑conditioned diffusion head, InDex achieves strong performance with only minimal demonstration data while preserving the original VLA’s spatial reasoning.

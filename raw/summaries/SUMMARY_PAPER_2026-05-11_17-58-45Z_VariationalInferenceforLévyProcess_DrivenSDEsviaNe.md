@@ -1,12 +1,15 @@
 ---
+
 title: Variational Inference for Lévy Process-Driven SDEs via Neural Tilting
 url: http://arxiv.org/abs/2605.10934v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-11_17-58-45Z_VariationalInferenceforLévyProcess_DrivenSDEsviaNe.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes a neural exponential tilting framework for variational inference on stochastic differential equations driven by Lévy processes. The method learns to reweight the heavy‑tailed Lévy measure with neural networks, preserving jump structure while enabling tractable optimization and closed‑form normalization. Empirical results show that the approach outperforms Gaussian‑based variational methods in capturing discontinuities and provides reliable posterior estimates on both synthetic and real data.

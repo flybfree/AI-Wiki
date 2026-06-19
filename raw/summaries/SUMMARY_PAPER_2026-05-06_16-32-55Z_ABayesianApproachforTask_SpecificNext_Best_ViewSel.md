@@ -1,12 +1,15 @@
 ---
+
 title: A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry
 url: http://arxiv.org/abs/2605.05095v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-06_16-32-55Z_ABayesianApproachforTask_SpecificNext_Best_ViewSel.md
-generated_at: 2026-06-11 10:29
+generated_at: "2026-06-11 10:29"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a Bayesian framework for task-specific active next-best-view selection in 3D reconstruction, optimizing camera scans to reduce uncertainty where it matters most. It outperforms baselines by achieving better performance with fewer views across semantic classification, segmentation, and physics simulation tasks.

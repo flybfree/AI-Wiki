@@ -1,12 +1,15 @@
 ---
+
 title: Diagnosing CFG Interpretation in LLMs
 url: http://arxiv.org/abs/2604.20811v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-22_17-43-05Z_DiagnosingCFGInterpretationinLLMs.md
-generated_at: 2026-06-11 10:25
+generated_at: "2026-06-11 10:25"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates how large language models interpret and generate outputs from arbitrary context‑free grammars, testing their ability to produce syntactically valid, behaviorally functional, and semantically faithful responses. It finds that while surface syntax often remains intact, structural semantics degrade sharply with increasing recursion depth or expression complexity.

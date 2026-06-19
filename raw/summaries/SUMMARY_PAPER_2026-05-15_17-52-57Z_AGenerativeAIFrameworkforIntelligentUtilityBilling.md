@@ -1,12 +1,15 @@
 ---
+
 title: A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation
 url: http://arxiv.org/abs/2605.16250v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-15_17-52-57Z_AGenerativeAIFrameworkforIntelligentUtilityBilling.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes an end-to-end generative AI framework that integrates a language model for drafting natural‑language billing statements, a transformer forecaster for day‑ahead consumption predictions with quantile bands. It unifies these capabilities under one architecture to meet utility goals of readable bills and carbon accounting.

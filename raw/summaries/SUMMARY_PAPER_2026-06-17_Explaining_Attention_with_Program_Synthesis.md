@@ -1,12 +1,15 @@
 ---
+
 title: Explaining Attention with Program Synthesis
 url: http://arxiv.org/abs/2606.19317v1
 type: paper-summary
 date: 2026-06-17
 source_paper: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md
-generated_at: 2026-06-17 22:00
+generated_at: "2026-06-17 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper aims to replace opaque neural attention heads with human‑readable, executable Python programs derived from summaries of the attention matrices on random training examples. By generating fewer than 1000 such programs for GPT‑2, TinyLlama‑1.1B and Llama‑3B, it achieves an average Intersection‑over‑Union similarity above 75% on TinyStories while only a modest 16% increase in perplexity when replacing 25% of attention heads.

@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 17 42 07Z Understandingin Contextlearningfornonlinearregress Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Understanding In-Context Learning for Nonlinear Regression with Transformers: Attention as Featurizer
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05176v1)
 Saved: 2026-05-07 22:08
 Source: 2026-05-06_17-42-07Z_UnderstandingIn_ContextLearningforNonlinearRegress.md
 

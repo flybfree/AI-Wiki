@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 17 40 11Z Whenlifegivesyoubc Makeq Functions Extractingq Val Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05172v1)
 Saved: 2026-05-07 22:08
 Source: 2026-05-06_17-40-11Z_WhenLifeGivesYouBC_MakeQ_functions_ExtractingQ_val.md
 

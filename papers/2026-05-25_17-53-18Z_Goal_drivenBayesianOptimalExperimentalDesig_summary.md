@@ -1,4 +1,12 @@
+---
+title: "2026 05 25 17 53 18Z Goal Drivenbayesianoptimalexperimentaldesig Summary"
+date: 2026-05-25
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-25_17-53-18Z_Goal_drivenBayesianOptimalExperimentalDesignforRob.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-26 00:00
 Source: 2026-05-25_17-53-18Z_Goal_drivenBayesianOptimalExperimentalDesignforRob.md
 Model: None

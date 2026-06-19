@@ -1,4 +1,12 @@
+---
+title: "2026 04 23 17 52 52Z Fromresearchquestiontoscientificworkflow Le Summary"
+date: 2026-04-23
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-23_17-52-52Z_FromResearchQuestiontoScientificWorkflow_Leveragin.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-04-29 02:45
 Source: 2026-04-23_17-52-52Z_FromResearchQuestiontoScientificWorkflow_Leveragin.md
 Model: qwen3.6:35b

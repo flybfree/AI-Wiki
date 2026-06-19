@@ -1,4 +1,12 @@
+---
+title: "2026 05 05 17 42 50Z Rethinkingreasoning Intensiveretrieval Eval Summary"
+date: 2026-05-05
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-05_17-42-50Z_RethinkingReasoning_IntensiveRetrieval_Evaluatinga.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:00
 Source: 2026-05-05_17-42-50Z_RethinkingReasoning_IntensiveRetrieval_Evaluatinga.md
 Model: None

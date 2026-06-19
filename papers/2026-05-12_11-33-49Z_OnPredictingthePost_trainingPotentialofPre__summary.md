@@ -1,4 +1,12 @@
+---
+title: "2026 05 12 11 33 49Z Onpredictingthepost Trainingpotentialofpre Summary"
+date: 2026-05-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-12_11-33-49Z_OnPredictingthePost_trainingPotentialofPre_trained.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-12 21:02
 Source: 2026-05-12_11-33-49Z_OnPredictingthePost_trainingPotentialofPre_trained.md
 Model: None

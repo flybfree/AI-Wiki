@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Machine Learning Operations Azure Architecture C"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Machine Learning Operations   Azure Architecture C
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: Machine learning operations - Azure Architecture Center
 Article text:
 

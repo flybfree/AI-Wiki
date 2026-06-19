@@ -1,12 +1,15 @@
 ---
+
 title: A Riemannian Approach to Low-Rank Optimal Transport
 url: http://arxiv.org/abs/2606.12120v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a Riemannian geometric framework for low‑rank optimal transport that replaces costly first‑order mirror‑descent updates with curvature‑aware operations. The authors show that the resulting solvers converge faster and perform better than existing methods, while maintaining linear per‑iteration complexity.

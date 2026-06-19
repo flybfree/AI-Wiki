@@ -1,12 +1,15 @@
 ---
+
 title: Variance Reduction for Expectations with Diffusion Teachers
 url: http://arxiv.org/abs/2605.21489v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_17-59-52Z_VarianceReductionforExpectationswithDiffusionTeach.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces CARV, a compute‑aware variance reduction framework for diffusion teacher gradients in AI pipelines. By amortizing expensive upstream work across cheap noise resamples and applying timestep importance sampling with stratified inverse‑CDF construction, the method reduces MC estimator variance without altering the training objective.

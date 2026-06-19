@@ -1,12 +1,15 @@
 ---
+
 title: Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation on the Ontario Residential Tenancies Act
 url: http://arxiv.org/abs/2606.20359v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md
-generated_at: 2026-06-18 21:00
+generated_at: "2026-06-18 21:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper evaluates four approaches to generating correct statutory citations from the Ontario Residential Tenancies Act: zero‑shot fine‑tuning, LoRA SFT‑only, RAG‑only, and a hybrid SFT+RAG. The results show that retrieval is indispensable for accurate citation, while a cheap bge‑small hybrid outperforms larger, specialized pipelines and reaches 0.481 exact‑match with no hallucinated citations.

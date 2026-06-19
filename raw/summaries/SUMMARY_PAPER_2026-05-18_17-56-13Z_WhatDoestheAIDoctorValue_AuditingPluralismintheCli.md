@@ -1,12 +1,15 @@
 ---
+
 title: What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models
 url: http://arxiv.org/abs/2605.18738v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_17-56-13Z_WhatDoestheAIDoctorValue_AuditingPluralismintheCli.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a framework to audit value pluralism in the clinical ethics of large language models, using clinician‑verified ethical dilemmas as benchmarks and an attribution method that extracts model decision priorities. The results show that while frontier LLMs can articulate competing values during reasoning, their actual outputs are highly deterministic across repeated sampling, revealing systematic value preferences rather than the distributional pluralism seen among physicians.

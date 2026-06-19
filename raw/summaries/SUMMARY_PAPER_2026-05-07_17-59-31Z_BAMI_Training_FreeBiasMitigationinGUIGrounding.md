@@ -1,12 +1,15 @@
 ---
-title: BAMI: Training-Free Bias Mitigation in GUI Grounding
+
+title: "BAMI: Training-Free Bias Mitigation in GUI Grounding"
 url: http://arxiv.org/abs/2605.06664v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-07_17-59-31Z_BAMI_Training_FreeBiasMitigationinGUIGrounding.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces BAMI a training-free bias mitigation method for GUI grounding tasks. It addresses errors caused by high image resolution and ambiguous interface elements. Experiments show improved accuracy on the ScreenSpot-Pro benchmark.

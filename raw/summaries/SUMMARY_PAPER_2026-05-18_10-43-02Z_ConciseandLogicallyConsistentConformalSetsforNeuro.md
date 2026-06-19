@@ -1,12 +1,15 @@
 ---
+
 title: Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models
 url: http://arxiv.org/abs/2605.18202v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_10-43-02Z_ConciseandLogicallyConsistentConformalSetsforNeuro.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes COCOCO, a conformal framework for neuro-symbolic concept-based models that jointly conformalizes concepts and labels while maintaining distribution-free coverage, consistency, and conciseness. Experiments on eight datasets show COCOCO outperforms baselines in both accuracy and set size.

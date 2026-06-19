@@ -1,12 +1,15 @@
 ---
-title: AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents
+
+title: "AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents"
 url: http://arxiv.org/abs/2605.13357v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_11-14-59Z_AIHarnessEngineering_ARuntimeSubstrateforFoundatio.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces AI Harness Engineering as a runtime substrate that enables foundation‑model software agents to perform autonomous code generation reliably. By formalizing eleven component responsibilities and a four‑level harness ladder, the authors show that the system’s level determines the depth of evidence produced for each run.

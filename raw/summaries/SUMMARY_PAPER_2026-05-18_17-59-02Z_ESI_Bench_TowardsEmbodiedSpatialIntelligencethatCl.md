@@ -1,12 +1,15 @@
 ---
-title: ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop
+
+title: "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop"
 url: http://arxiv.org/abs/2605.18746v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_17-59-02Z_ESI_Bench_TowardsEmbodiedSpatialIntelligencethatCl.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces ESI‑Bench, a benchmark for embodied spatial intelligence that tests how agents combine perception, locomotion, and manipulation to actively gather task‑relevant evidence. Experiments show that active exploration yields better performance than passive observation, especially when agents discover emergent strategies without explicit guidance.

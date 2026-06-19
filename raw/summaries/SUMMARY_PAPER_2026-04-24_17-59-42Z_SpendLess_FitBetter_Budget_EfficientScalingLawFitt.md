@@ -1,12 +1,15 @@
 ---
-title: Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection
+
+title: "Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection"
 url: http://arxiv.org/abs/2604.22753v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md
-generated_at: 2026-06-11 10:33
+generated_at: "2026-06-11 10:33"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper addresses the problem of fitting scaling laws for expensive AI training experiments, where selecting a limited budget of runs is crucial. It introduces a budget‑aware sequential experimental design that maximizes extrapolation accuracy while minimizing total cost, achieving results comparable to full‑set fitting with only about ten percent of the budget.

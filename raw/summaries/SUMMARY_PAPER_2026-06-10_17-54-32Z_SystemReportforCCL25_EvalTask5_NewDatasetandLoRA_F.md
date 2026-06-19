@@ -1,12 +1,15 @@
 ---
-title: System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5
+
+title: "System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5"
 url: http://arxiv.org/abs/2606.12392v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md
-generated_at: 2026-06-11 10:57
+generated_at: "2026-06-11 10:57"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper presents a new dataset called CCPoetry-49K and a LoRA‑fine‑tuned version of Qwen2.5 named PoetryQwen that achieves a score of 0.757 on the CCL25‑Eval Task 5 benchmark, which is a 9.7% improvement over the baseline model.

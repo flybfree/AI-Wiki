@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 What Is The New Keyword In Javascript Stack O"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 What Is The  New  Keyword In Javascript    Stack O
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: What is the 'new' keyword in JavaScript? - Stack Overflow
 Article text:
 

@@ -1,12 +1,15 @@
 ---
-title: AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists
+
+title: "AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists"
 url: http://arxiv.org/abs/2605.21481v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_17-59-03Z_AiraXiv_AnAI_DrivenOpen_AccessPlatformforHumanandA.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 AiraXiv is an AI‑driven open‑access platform that enables both human and machine scientists to co‑author, review, and iterate on research preprints. The system integrates interactive UI tools for humans with Model Context Protocol (MCP) interactions for AI agents, and it has been validated as a submission venue for ICAIS 2025, showing rapid processing and inclusive participation.

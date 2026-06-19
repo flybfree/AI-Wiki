@@ -1,12 +1,15 @@
 ---
-title: Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution
+
+title: "Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution"
 url: http://arxiv.org/abs/2606.13668v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md
-generated_at: 2026-06-11 23:00
+generated_at: "2026-06-11 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Influcoder, a method that converts influence function rankings into an encoder for fast data attribution at scale. It demonstrates that the learned encoder can approximate which training samples most strongly affect model outputs while being lightweight and memory efficient. Experiments show comparable accuracy to traditional influence‑function approaches with orders of magnitude lower computational cost.

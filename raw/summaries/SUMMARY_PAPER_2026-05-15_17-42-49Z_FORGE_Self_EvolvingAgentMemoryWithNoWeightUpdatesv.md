@@ -1,12 +1,15 @@
 ---
-title: FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast
+
+title: "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast"
 url: http://arxiv.org/abs/2605.16233v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-15_17-42-49Z_FORGE_Self_EvolvingAgentMemoryWithNoWeightUpdatesv.md
-generated_at: 2026-06-11 10:41
+generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces FORGE, a population-based protocol that lets ReAct agents evolve natural-language memory through reflection without gradient updates. On the stochastic CAGE-2 task it boosts average returns by 1.7–7.7× over zero‑shot baselines and reduces major failures to about 1%.

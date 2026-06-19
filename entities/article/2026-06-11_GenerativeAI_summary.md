@@ -1,4 +1,17 @@
+---
+title: "2026 06 11 Generativeai Summary"
+date: 2026-06-11
+tags: ['wiki']
+---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
 # Summary: 2026-06-11_GenerativeAI.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-06-11 01:00
 Source: 2026-06-11_GenerativeAI.md
 Model: nvidia/nemotron-3-nano-4b

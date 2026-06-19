@@ -1,12 +1,15 @@
 ---
-title: Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation
+
+title: "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation"
 url: http://arxiv.org/abs/2606.19327v1
 type: paper-summary
 date: 2026-06-17
 source_paper: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md
-generated_at: 2026-06-17 22:00
+generated_at: "2026-06-17 22:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Rubric-Conditioned Self-Distillation, a framework that uses structured rubrics to guide token-level learning in reasoning language models, achieving higher performance than prior methods. It shows rubric-guided distillation surpasses GRPO and OPSD by 1 point on average while avoiding the need for single reference rationales.

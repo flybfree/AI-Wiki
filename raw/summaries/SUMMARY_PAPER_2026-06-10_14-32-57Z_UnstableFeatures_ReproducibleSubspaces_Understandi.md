@@ -1,12 +1,15 @@
 ---
-title: Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders
+
+title: "Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders"
 url: http://arxiv.org/abs/2606.12138v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper investigates how seed dependence affects sparse autoencoder (SAE) feature stability, defining a per‑feature signal that measures the likelihood of similar features reappearing in independent training runs. The study reveals that stable features dominate reconstruction and prediction signals while unstable ones are weak and driven by low‑frequency activation patterns.

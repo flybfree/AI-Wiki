@@ -1,12 +1,15 @@
 ---
-title: Probably Approximately Consensus: On the Learning Theory of Finding Common Ground
+
+title: "Probably Approximately Consensus: On the Learning Theory of Finding Common Ground"
 url: http://arxiv.org/abs/2604.21811v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_16-06-41Z_ProbablyApproximatelyConsensus_OntheLearningTheory.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a model that finds consensus intervals in a one-dimensional opinion space derived from high‑dimensional user data, maximizing expected agreement while accounting for topic salience. An ERM algorithm with PAC‑learning guarantees is introduced and shown to reduce query needs through sampling existing statements.

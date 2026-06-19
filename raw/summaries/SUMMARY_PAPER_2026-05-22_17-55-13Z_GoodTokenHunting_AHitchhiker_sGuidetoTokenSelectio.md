@@ -1,12 +1,15 @@
 ---
-title: Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers
+
+title: "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers"
 url: http://arxiv.org/abs/2605.23892v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_17-55-13Z_GoodTokenHunting_AHitchhiker_sGuidetoTokenSelectio.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes a simple strategy to reduce the quadratic cost of global attention in visual geometry transformers by limiting token interactions. It achieves this through a two-stage selection process that preserves representative frames and discards redundant tokens within them.  

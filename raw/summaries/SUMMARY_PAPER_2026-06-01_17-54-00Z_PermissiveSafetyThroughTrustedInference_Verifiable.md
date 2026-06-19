@@ -1,12 +1,15 @@
 ---
-title: Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics
+
+title: "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics"
 url: http://arxiv.org/abs/2606.02562v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-01_17-54-00Z_PermissiveSafetyThroughTrustedInference_Verifiable.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces an algorithmic method for certifying high‑probability safety of belief‑space safety filters using conformal prediction while accounting for runtime inference reliability. It demonstrates that the approach yields a less conservative filter than standard conformal prediction in simulated human‑vehicle interactions, providing verifiable safety guarantees.

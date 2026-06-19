@@ -1,4 +1,12 @@
+---
+title: "2026 06 17 17 54 04Z Rethinkingrewardsupervision Rubric Conditio Summary"
+date: 2026-06-17
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-17 22:01
 Source: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md
 Model: None

@@ -1,4 +1,12 @@
+---
+title: "2026 06 12 17 54 59Z Cora Analyzingandbridgingthinking Answergap Summary"
+date: 2026-06-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-14 22:01
 Source: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md
 Model: None

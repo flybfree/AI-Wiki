@@ -1,12 +1,15 @@
 ---
-title: VidMsg: A Benchmark for Implicit Message Inference in Short Videos
+
+title: "VidMsg: A Benchmark for Implicit Message Inference in Short Videos"
 url: http://arxiv.org/abs/2606.03635v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-02_13-31-57Z_VidMsg_ABenchmarkforImplicitMessageInferenceinShor.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper presents VidMsg, a benchmark designed to evaluate how well models infer implicit messages from short internet videos. Experiments reveal that current video-language and retrieval systems often perform poorly because they cannot integrate contextual cues or make pragmatic inferences required for holistic understanding.

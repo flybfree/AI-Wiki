@@ -1,4 +1,12 @@
+---
+title: "2026 05 26 12 28 20Z Dunbaabert Fromsacrificetosemantics Summary"
+date: 2026-05-26
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-26_12-28-20Z_DunbaaBERT_FromSacrificetoSemantics.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-26 20:01
 Source: 2026-05-26_12-28-20Z_DunbaaBERT_FromSacrificetoSemantics.md
 Model: None

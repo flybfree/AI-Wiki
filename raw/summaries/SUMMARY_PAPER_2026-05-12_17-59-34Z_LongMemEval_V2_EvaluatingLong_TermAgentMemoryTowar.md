@@ -1,12 +1,15 @@
 ---
-title: LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues
+
+title: "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues"
 url: http://arxiv.org/abs/2605.12493v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_17-59-34Z_LongMemEval_V2_EvaluatingLong_TermAgentMemoryTowar.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces LongMemEval-V2, a benchmark for evaluating long-term memory in web agents, and demonstrates that AgentRunbook-C achieves the highest accuracy at 72.5% while outperforming RAG baselines. The results highlight a strong trade‑off between performance and latency.

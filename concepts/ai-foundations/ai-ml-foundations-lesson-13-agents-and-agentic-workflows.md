@@ -12,8 +12,16 @@ source_pages:
   - raw/articles/2026-04-26_Qwen_3_6_27B_Arrives_with_GGUF_Support_and_Local_M.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 13: Agents and Agentic Workflows
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

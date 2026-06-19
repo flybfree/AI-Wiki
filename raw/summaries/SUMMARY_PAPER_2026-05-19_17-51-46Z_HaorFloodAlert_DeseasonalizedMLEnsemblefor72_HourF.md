@@ -1,12 +1,15 @@
 ---
-title: HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands
+
+title: "HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands"
 url: http://arxiv.org/abs/2605.20167v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-19_17-51-46Z_HaorFloodAlert_DeseasonalizedMLEnsemblefor72_HourF.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces HaorFloodAlert, a deseasonalized machine‑learning ensemble that predicts flood probability for the Sunamganj haor wetlands within 72 hours. The model combines random forest and XGBoost with a SAR‑derived upstream indicator from Assam’s Barak River, achieving high accuracy on real Sentinel‑1 events.

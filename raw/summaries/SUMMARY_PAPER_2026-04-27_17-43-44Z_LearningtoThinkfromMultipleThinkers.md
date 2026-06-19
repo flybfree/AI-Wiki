@@ -1,12 +1,15 @@
 ---
+
 title: Learning to Think from Multiple Thinkers
 url: http://arxiv.org/abs/2604.24737v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-27_17-43-44Z_LearningtoThinkfromMultipleThinkers.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper examines how learning can be performed from Chain-of-Thought (CoT) supervision when multiple thinkers provide correct but distinct solution traces. It shows that while a single thinker’s CoT data is computationally easy to learn, adding two or more independent thinkers makes the task hard in passive settings under cryptographic assumptions. The authors also propose an active learning algorithm that uses only a few CoT samples per thinker and scales efficiently with desired accuracy.

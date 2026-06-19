@@ -1,12 +1,15 @@
 ---
-title: STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations
+
+title: "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations"
 url: http://arxiv.org/abs/2606.05165v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-03_17-59-36Z_STRIDE_TrainingDataAttributionviaSparseRecoveryfro.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces STRIDE, a method for attributing model predictions to specific training examples without costly retraining or gradient tracking. By modeling data influence in the activation space and solving it as a sparse recovery problem, STRIDE recovers individual example contributions efficiently. The approach achieves state‑of‑the‑art performance on LLM pre‑training attribution while being an order of magnitude faster than prior techniques.

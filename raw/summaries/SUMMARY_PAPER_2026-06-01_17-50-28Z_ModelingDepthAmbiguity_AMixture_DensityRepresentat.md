@@ -1,12 +1,15 @@
 ---
-title: Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation
+
+title: "Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation"
 url: http://arxiv.org/abs/2606.02552v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-01_17-50-28Z_ModelingDepthAmbiguity_AMixture_DensityRepresentat.md
-generated_at: 2026-06-11 10:50
+generated_at: "2026-06-11 10:50"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces MDA, a mixture‑density representation that allows depth estimators to predict multiple depth hypotheses per pixel instead of a single value. By modeling ambiguity at object boundaries and transparent regions, the model avoids spurious points in empty space, achieving flying‑point‑free depth estimates across various backbones even under severe blur.

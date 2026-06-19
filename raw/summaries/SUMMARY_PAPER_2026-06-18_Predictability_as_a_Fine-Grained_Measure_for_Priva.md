@@ -1,12 +1,15 @@
 ---
+
 title: Predictability as a Fine-Grained Measure for Privacy
 url: http://arxiv.org/abs/2606.20546v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md
-generated_at: 2026-06-18 23:00
+generated_at: "2026-06-18 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces predictability as a fine-grained privacy measure that quantifies how much an attacker can improve their ability to infer unknown individuals' sensitive information beyond what compromised data already reveals. It demonstrates that differential privacy and predictability are generally incomparable, but they align in the worst‑case regime where all but one individual is compromised, implying mutual‑information DP.

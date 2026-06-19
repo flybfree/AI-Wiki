@@ -1,12 +1,15 @@
 ---
+
 title: A Horn extension of DL-Lite with NL data complexity
 url: http://arxiv.org/abs/2605.13367v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_11-26-32Z_AHornextensionofDL_LitewithNLdatacomplexity.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces ELbotpreceq, a Horn description logic that extends DL-Lite to support natural language reasoning and can be rewritten into nested two‑way regular path queries of GQL. It resolves the AC0 vs PTime dichotomy by providing an ontology language that enables practical OMQA solutions beyond first‑order constraints.

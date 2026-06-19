@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 Best Open Source Llms April 2026 Benchmarks Lice Summary"
+date: 2026-04-27
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-27_Best_Open-Source_LLMs_April_2026__Benchmarks__Lice.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 17:57
 Source: 2026-04-27_Best_Open-Source_LLMs_April_2026__Benchmarks__Lice.md
 Model: qwen3.6:35b

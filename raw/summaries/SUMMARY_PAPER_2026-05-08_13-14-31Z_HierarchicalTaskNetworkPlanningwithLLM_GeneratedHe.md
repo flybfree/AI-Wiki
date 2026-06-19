@@ -1,12 +1,15 @@
 ---
+
 title: Hierarchical Task Network Planning with LLM-Generated Heuristics
 url: http://arxiv.org/abs/2605.07707v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_13-14-31Z_HierarchicalTaskNetworkPlanningwithLLM_GeneratedHe.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper explores using large language models to generate search heuristics for hierarchical task network (HTN) planning, extending prior work on classical HTN methods. Experiments on six benchmark domains show LLM-generated heuristics nearly match the coverage of top planners while cutting search effort by 83%. The study evaluates nine different LLMs under domain-specific prompting.

@@ -1,12 +1,15 @@
 ---
-title: ATLAS: Active Theory Learning for Automated Science
+
+title: "ATLAS: Active Theory Learning for Automated Science"
 url: http://arxiv.org/abs/2606.12386v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md
-generated_at: 2026-06-11 10:56
+generated_at: "2026-06-11 10:56"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces ATLAS, an active learning framework that automatically designs experiments to recover interpretable mechanistic models of behavior from bandit task data. On a reinforcement learning agent recovery benchmark, ATLAS outperforms random experimentation by improving sample efficiency five to tenfold across multiple metrics.

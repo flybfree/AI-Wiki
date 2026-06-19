@@ -1,12 +1,15 @@
 ---
-title: LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding
+
+title: "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding"
 url: http://arxiv.org/abs/2605.27365v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_17-59-12Z_LocateAnything_FastandHigh_QualityVision_LanguageG.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces LocateAnything, a unified framework that treats visual grounding and detection as a single generative task using Parallel Box Decoding (PBD). By decoding bounding boxes and points atomically in parallel, the model avoids sequential token generation bottlenecks. Experiments show faster inference while improving high‑IoU localization accuracy across multiple benchmarks.

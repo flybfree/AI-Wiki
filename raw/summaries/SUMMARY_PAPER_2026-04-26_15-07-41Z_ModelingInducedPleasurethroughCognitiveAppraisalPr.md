@@ -1,12 +1,15 @@
 ---
+
 title: Modeling Induced Pleasure through Cognitive Appraisal Prediction via Multimodal Fusion
 url: http://arxiv.org/abs/2604.23753v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-26_15-07-41Z_ModelingInducedPleasurethroughCognitiveAppraisalPr.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes a computational model that predicts pleasure from video content by linking visual cues to cognitive appraisal variables. The model achieves high accuracy of 0.6624 in pleasure prediction and improves interpretability beyond traditional fusion methods.

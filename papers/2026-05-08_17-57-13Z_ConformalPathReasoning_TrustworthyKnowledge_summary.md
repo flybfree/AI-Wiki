@@ -1,4 +1,12 @@
+---
+title: "2026 05 08 17 57 13Z Conformalpathreasoning Trustworthyknowledge Summary"
+date: 2026-05-08
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-08_17-57-13Z_ConformalPathReasoning_TrustworthyKnowledgeGraphQu.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-10 22:54
 Source: 2026-05-08_17-57-13Z_ConformalPathReasoning_TrustworthyKnowledgeGraphQu.md
 Model: None

@@ -1,4 +1,12 @@
+---
+title: "2026 05 03 Github Wdopen Nk Student Performance Predictor Mac Summary"
+date: 2026-05-03
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-05-03_GitHub-wdopen-nk_student-performance-predictor_Mac.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-05-03 04:33
 Source: 2026-05-03_GitHub-wdopen-nk_student-performance-predictor_Mac.md
 Model: qwen3.6:35b

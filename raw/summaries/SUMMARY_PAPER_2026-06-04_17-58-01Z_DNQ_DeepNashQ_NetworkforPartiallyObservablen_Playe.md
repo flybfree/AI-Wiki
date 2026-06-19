@@ -1,12 +1,15 @@
 ---
-title: DNQ: Deep Nash Q-Network for Partially Observable n-Player Games
+
+title: "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games"
 url: http://arxiv.org/abs/2606.06480v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-04_17-58-01Z_DNQ_DeepNashQ_NetworkforPartiallyObservablen_Playe.md
-generated_at: 2026-06-11 10:53
+generated_at: "2026-06-11 10:53"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces DNQ, a framework for training bidding agents in partially observable n‑player games via solver‑in‑the‑loop equilibrium supervision. It alternates trajectory collection, payoff estimation, equilibrium computation, and policy imitation. Experiments show that the scalable pairwise formulation reduces computational cost compared to exact N‑player tensor solving.

@@ -1,12 +1,15 @@
 ---
-title: Cross-Attention and Encoder-Decoder Transformers: A Logical Characterization
+
+title: "Cross-Attention and Encoder-Decoder Transformers: A Logical Characterization"
 url: http://arxiv.org/abs/2605.07705v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-08_13-14-04Z_Cross_AttentionandEncoder_DecoderTransformers_ALog.md
-generated_at: 2026-06-11 10:30
+generated_at: "2026-06-11 10:30"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a logical characterization of encoder-decoder transformers, extending propositional logic with modalities for counting global encoder inputs and tracking past decoder states. It also models the system as a distributed automaton, showing that these properties hold regardless of architectural choices such as masking or attention type.

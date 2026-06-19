@@ -1,12 +1,15 @@
 ---
-title: WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata
+
+title: "WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata"
 url: http://arxiv.org/abs/2605.21479v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-20_17-58-24Z_WikiVQABench_AKnowledge_GroundedVisualQuestionAnsw.md
-generated_at: 2026-06-11 10:44
+generated_at: "2026-06-11 10:44"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces WikiVQABench, a knowledge‑grounded Visual Question Answering benchmark that combines Wikipedia images with external Wikidata facts to evaluate models on reasoning beyond visual perception. The dataset includes human‑curated multiple‑choice questions where correct answers require external knowledge, and evaluation of fifteen VLMs shows performance ranging from 24.7% to 75.6% accuracy.

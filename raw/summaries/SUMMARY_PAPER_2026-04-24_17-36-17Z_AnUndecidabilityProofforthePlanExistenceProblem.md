@@ -1,12 +1,15 @@
 ---
+
 title: An Undecidability Proof for the Plan Existence Problem
 url: http://arxiv.org/abs/2604.22736v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-24_17-36-17Z_AnUndecidabilityProofforthePlanExistenceProblem.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proves that the plan existence problem is undecidable even when epistemic actions have preconditions of modal depth at most one and no postconditions are specified. This result establishes a new undecidability result for a previously unexamined subclass of the problem, showing that algorithmic solutions cannot exist under these conditions.

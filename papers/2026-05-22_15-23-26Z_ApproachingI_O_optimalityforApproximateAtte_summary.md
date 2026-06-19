@@ -1,4 +1,12 @@
+---
+title: "2026 05 22 15 23 26Z Approachingi O Optimalityforapproximateatte Summary"
+date: 2026-05-22
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-22_15-23-26Z_ApproachingI_O_optimalityforApproximateAttention.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-24 21:00
 Source: 2026-05-22_15-23-26Z_ApproachingI_O_optimalityforApproximateAttention.md
 Model: None

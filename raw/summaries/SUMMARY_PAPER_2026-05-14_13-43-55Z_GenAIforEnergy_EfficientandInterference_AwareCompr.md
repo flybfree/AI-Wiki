@@ -1,12 +1,15 @@
 ---
+
 title: GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU
 url: http://arxiv.org/abs/2605.14839v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-14_13-43-55Z_GenAIforEnergy_EfficientandInterference_AwareCompr.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper presents a hardware‑centric generative AI method that compresses and classifies GNSS jamming signals in real time on Google Edge TPUs. Using variational autoencoders, the system achieves compression ratios exceeding 42× while maintaining classification accuracy for about 72 interference types with an F2-score of 0.915.

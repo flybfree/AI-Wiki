@@ -1,12 +1,15 @@
 ---
-title: ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents
+
+title: "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents"
 url: http://arxiv.org/abs/2606.02568v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-01_17-56-26Z_ClinEnv_AnInteractiveMulti_StageLongHorizonEHREnvi.md
-generated_at: 2026-06-11 10:51
+generated_at: "2026-06-11 10:51"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 ClinEnv introduces an interactive benchmark that simulates real inpatient admissions, forcing language models to make sequential decisions by querying four specialized agents at each stage. The study shows that even the strongest models achieve only 0.31 decision F1 and that outcome quality is largely separate from how information was gathered.

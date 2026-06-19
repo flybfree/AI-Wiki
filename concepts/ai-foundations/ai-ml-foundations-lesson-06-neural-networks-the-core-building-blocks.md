@@ -10,8 +10,16 @@ source_pages:
   - raw/articles/2026-04-29_Top_Machine_Learning_Architectures_Explained_-_BMC.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 6: Neural Networks: The Core Building Blocks
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

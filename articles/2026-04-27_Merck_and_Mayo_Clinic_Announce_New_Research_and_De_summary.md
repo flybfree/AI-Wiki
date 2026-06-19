@@ -1,4 +1,12 @@
+---
+title: "2026 04 27 Merck And Mayo Clinic Announce New Research And De Summary"
+date: 2026-04-27
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-27_Merck_and_Mayo_Clinic_Announce_New_Research_and_De.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 17:59
 Source: 2026-04-27_Merck_and_Mayo_Clinic_Announce_New_Research_and_De.md
 Model: qwen3.6:35b

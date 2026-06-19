@@ -1,4 +1,12 @@
+---
+title: "2026 05 21 17 42 07Z Evaluatingcommercialaichatbotsasnewsinterme Summary"
+date: 2026-05-21
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-21_17-42-07Z_EvaluatingCommercialAIChatbotsasNewsIntermediaries.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-22 00:02
 Source: 2026-05-21_17-42-07Z_EvaluatingCommercialAIChatbotsasNewsIntermediaries.md
 Model: None

@@ -1,12 +1,15 @@
 ---
-title: Beyond Text Following: Repairable Arbitration Reversals in Audio-Language Models
+
+title: "Beyond Text Following: Repairable Arbitration Reversals in Audio-Language Models"
 url: http://arxiv.org/abs/2606.05161v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-03_17-57-51Z_BeyondTextFollowing_RepairableArbitrationReversals.md
-generated_at: 2026-06-11 10:52
+generated_at: "2026-06-11 10:52"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper investigates why audio-language models sometimes ignore clear audio evidence when a conflicting text is present, showing that the model’s preference flips when only the text is removed. It demonstrates that 64.1% of conflict samples reverse to favor the audio‑supported answer and proposes a decoding rule called GACL.

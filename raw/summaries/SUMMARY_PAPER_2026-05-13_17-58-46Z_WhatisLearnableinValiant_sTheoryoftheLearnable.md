@@ -1,12 +1,15 @@
 ---
+
 title: What is Learnable in Valiant's Theory of the Learnable?
 url: http://arxiv.org/abs/2605.13840v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_17-58-46Z_WhatisLearnableinValiant_sTheoryoftheLearnable.md
-generated_at: 2026-06-11 10:40
+generated_at: "2026-06-11 10:40"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper revisits Valiant's original PAC learning model and asks which classes are learnable when the learner receives only positive samples, can issue membership queries, and must output a hypothesis with no false positives. The authors show that a class is learnable if and only if every realizable positive sample can be certified by a poly‑size adaptive query‑compression scheme, revealing a new variant of sample compression.

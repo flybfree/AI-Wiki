@@ -1,4 +1,12 @@
+---
+title: "2026 05 27 11 43 27Z Decision Focusedlearningforoptimalpv Batter Summary"
+date: 2026-05-27
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-27_11-43-27Z_Decision_focusedlearningforoptimalPV_Batteryschedu.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-27 21:00
 Source: 2026-05-27_11-43-27Z_Decision_focusedlearningforoptimalPV_Batteryschedu.md
 Model: None

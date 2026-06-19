@@ -1,4 +1,12 @@
+---
+title: "2026 04 22 17 59 58Z Speechparaling Bench Acomprehensivebenchmarkforpar Summary"
+date: 2026-04-22
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-22_17-59-58Z_SpeechParaling_Bench_AComprehensiveBenchmarkforPar
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2604.20842v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-22_17-59-58Z_SpeechParaling_Bench_AComprehensiveBenchmarkforPar.md
 Model: None

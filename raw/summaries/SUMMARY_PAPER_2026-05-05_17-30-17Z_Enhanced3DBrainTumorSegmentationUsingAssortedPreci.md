@@ -1,12 +1,15 @@
 ---
+
 title: Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training
 url: http://arxiv.org/abs/2605.04008v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-05_17-30-17Z_Enhanced3DBrainTumorSegmentationUsingAssortedPreci.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper presents an enhanced 3D brain tumor segmentation method using the SegResNet architecture trained with multi-precision and dice loss, achieving a Dice score of 0.84 for the core, 0.90 for whole tumor, and 0.79 for enhanced tumor.

@@ -1,12 +1,15 @@
 ---
+
 title: Transformer as an Euler Discretization of Score-based Variational Flow
 url: http://arxiv.org/abs/2604.23740v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-26_14-36-31Z_TransformerasanEulerDiscretizationofScore_basedVar.md
-generated_at: 2026-06-11 10:28
+generated_at: "2026-06-11 10:28"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Score-based Variational Flow (SVFlow), a continuous-time dynamical system that provides a unified theoretical foundation for the Transformer architecture. It demonstrates that forward Euler discretization of spherical SVFlow exactly recovers the Transformer, linking its design to variational consistency and regularization.

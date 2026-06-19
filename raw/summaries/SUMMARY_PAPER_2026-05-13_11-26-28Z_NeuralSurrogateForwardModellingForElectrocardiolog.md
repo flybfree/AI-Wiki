@@ -1,12 +1,15 @@
 ---
+
 title: Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor
 url: http://arxiv.org/abs/2605.13366v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md
-generated_at: 2026-06-11 10:39
+generated_at: "2026-06-11 10:39"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces a deep learning model that predicts far‑field electrocardiograms from left atrial intracellular potentials without requiring explicit intracellular conductivity tensors at inference time. The model was trained on data from 74 subjects and achieved an R2 of 0.949 ± 0.037, demonstrating strong predictive performance.

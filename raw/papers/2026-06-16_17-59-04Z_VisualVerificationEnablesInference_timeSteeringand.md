@@ -1,14 +1,25 @@
 ---
+
 title: Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement
-published: 2026-06-16T17:59:04Z
+published: "2026-06-16T17:59:04Z"
 authors: Mingtong Zhang, Dhruv Shah
 url: http://arxiv.org/abs/2606.18247v1
 type: paper-summary
 tags: [paper-summary, arxiv]
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this paper's key findings and contributions.
+
+
 
 # Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement
 
+
+
+**Source**: [Original Paper](http://arxiv.org/abs/2606.18247v1)
 ## Abstract
 Robots deployed in the real world should learn from their experience and improve over time. This requires a mechanism of practicing and learning from feedback. In this paper, we propose VERITAS, a generator-verifier framework for generalist robot policies for inference-time policy steering and self-improvement. We use a pre-trained generalist robot policy as a ``generator'' and pair it with a gradient-free ``visual verifier'' that evaluates actions at inference time. This framework enables inference-time steering that improves policy performance without additional training. We demonstrate that inference-time verification consistently outperforms vanilla generalists without training on additional demonstration data. Additionally, we demonstrate that the verified rollouts provide effective supervision for offline policy improvement: policies fine-tuned on verified self-generated trajectories achieve consistent performance gains. Notably, we find that post-training with verified rollouts achieves comparable efficiency to expert demonstrations, while requiring no human interventions. Our results highlight inference-time verification as a practical and scalable mechanism for improving robotic policies during deployment.
 

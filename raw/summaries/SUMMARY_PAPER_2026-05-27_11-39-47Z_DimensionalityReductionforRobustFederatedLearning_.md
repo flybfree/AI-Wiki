@@ -1,12 +1,15 @@
 ---
-title: Dimensionality Reduction for Robust Federated Learning: A Theoretical Analysis and Convergence Guarantee
+
+title: "Dimensionality Reduction for Robust Federated Learning: A Theoretical Analysis and Convergence Guarantee"
 url: http://arxiv.org/abs/2605.28335v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_11-39-47Z_DimensionalityReductionforRobustFederatedLearning_.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Projected Dimensionality Reduction (PDR), a framework that compresses high‑dimensional gradients into a low‑dimensional subspace to accelerate robust federated learning aggregators. It provides theoretical analysis showing optimal convergence rates and demonstrates that the speedup comes with only a bounded increase in Byzantine error.

@@ -1,4 +1,12 @@
+---
+title: "2026 05 22 15 27 09Z Llm Drivendesignofphysics Constrainedconsti Summary"
+date: 2026-05-22
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-22_15-27-09Z_LLM_drivendesignofphysics_constrainedconstitutivem.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-24 21:00
 Source: 2026-05-22_15-27-09Z_LLM_drivendesignofphysics_constrainedconstitutivem.md
 Model: None

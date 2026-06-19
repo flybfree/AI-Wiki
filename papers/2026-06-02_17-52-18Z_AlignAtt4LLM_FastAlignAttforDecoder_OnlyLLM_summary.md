@@ -1,4 +1,12 @@
+---
+title: "2026 06 02 17 52 18Z Alignatt4Llm Fastalignattfordecoder Onlyllm Summary"
+date: 2026-06-02
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-02_17-52-18Z_AlignAtt4LLM_FastAlignAttforDecoder_OnlyLLMsatIWSL.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-02 23:00
 Source: 2026-06-02_17-52-18Z_AlignAtt4LLM_FastAlignAttforDecoder_OnlyLLMsatIWSL.md
 Model: None

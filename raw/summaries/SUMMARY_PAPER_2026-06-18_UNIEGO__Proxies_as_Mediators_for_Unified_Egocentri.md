@@ -1,12 +1,15 @@
 ---
-title: UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning
+
+title: "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning"
 url: http://arxiv.org/abs/2606.20559v1
 type: paper-summary
 date: 2026-06-18
 source_paper: 2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md
-generated_at: 2026-06-18 23:00
+generated_at: "2026-06-18 23:00"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces UNIEGO, a unified egocentric encoder that leverages nine heterogeneous teachers across viewpoints, modalities, and foundation models to generate richer video representations. By employing representation-specific proxy models and selective distillation, UNIEGO achieves state-of-the-art results on action recognition, video retrieval, and action segmentation benchmarks.

@@ -1,4 +1,12 @@
+---
+title: "2026 04 25 Artificial English Meaning Cambridge Dictionar Summary"
+date: 2026-04-25
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-25_ARTIFICIAL___English_meaning_-_Cambridge_Dictionar.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 15:47
 Source: 2026-04-25_ARTIFICIAL___English_meaning_-_Cambridge_Dictionar.md
 Model: qwen3.6:35b

@@ -7,6 +7,14 @@ type: news-snippet
 tags: [news, ai-trends]
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+**Source**: [Original Article](https://link.springer.com/rwe/10.1007/978-981-15-6401-7_12-1)
+
+
 ## Article Entity
 
 Article ingested from raw source: 2026-04-25_ArchitecturesforMachineLearning_SpringerNatureLink.md

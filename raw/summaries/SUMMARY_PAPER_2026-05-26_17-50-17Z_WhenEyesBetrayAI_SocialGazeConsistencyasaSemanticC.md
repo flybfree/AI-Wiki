@@ -1,12 +1,15 @@
 ---
-title: When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection
+
+title: "When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection"
 url: http://arxiv.org/abs/2605.27348v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_17-50-17Z_WhenEyesBetrayAI_SocialGazeConsistencyasaSemanticC.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Social Gaze Consistency as a high-level semantic cue for detecting AI-generated images by analyzing the mutual coherence of gaze direction, head‑eye alignment, and pupil placement between interacting individuals. Experiments show that this cue improves detection accuracy on COCOAI Interaction and Person subsets.

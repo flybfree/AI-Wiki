@@ -1,4 +1,12 @@
+---
+title: "2026 04 23 17 59 34Z Fine Tuningregimesdefinedistinctcontinualle Summary"
+date: 2026-04-23
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-04-23_17-59-34Z_Fine_TuningRegimesDefineDistinctContinualLearningP.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-04-29 02:49
 Source: 2026-04-23_17-59-34Z_Fine_TuningRegimesDefineDistinctContinualLearningP.md
 Model: qwen3.6:35b

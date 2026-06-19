@@ -1,12 +1,15 @@
 ---
-title: Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation
+
+title: "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation"
 url: http://arxiv.org/abs/2605.28812v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_17-59-02Z_BeyondBinary_Sim_to_RealDexterousManipulationwithP.md
-generated_at: 2026-06-11 10:49
+generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper addresses the sim-to-real gap in contact-rich manipulation by introducing a physics‑grounded tactile representation called Center-of-Pressure (CoP). The authors demonstrate that CoP preserves dense contact information, enabling zero‑shot transfer of policies from simulation to real hardware on a multi‑fingered hand. Their results show that CoP‑conditioned policies outperform both coarse binary‑contact and raw taxel baselines.

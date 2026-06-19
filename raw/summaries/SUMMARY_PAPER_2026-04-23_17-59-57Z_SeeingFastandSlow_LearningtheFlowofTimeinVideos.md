@@ -1,12 +1,15 @@
 ---
-title: Seeing Fast and Slow: Learning the Flow of Time in Videos
+
+title: "Seeing Fast and Slow: Learning the Flow of Time in Videos"
 url: http://arxiv.org/abs/2604.21931v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_17-59-57Z_SeeingFastandSlow_LearningtheFlowofTimeinVideos.md
-generated_at: 2026-06-11 10:27
+generated_at: "2026-06-11 10:27"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a framework that treats time as a learnable visual concept, enabling models to detect speed changes and estimate playback speed from videos. It leverages multimodal cues to create the largest slow‑motion dataset from noisy in‑the‑wild footage, then uses this data to generate high‑fps video at arbitrary speeds and perform temporal super‑resolution. The work demonstrates that learned temporal reasoning can control motion flow, opening new possibilities for temporally controllable video generation.

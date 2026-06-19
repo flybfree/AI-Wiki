@@ -1,12 +1,15 @@
 ---
+
 title: A Transfer Learning Evaluation of Deep Neural Networks for Image Classification
 url: http://arxiv.org/abs/2605.11989v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-12_11-40-49Z_ATransferLearningEvaluationofDeepNeuralNetworksfor.md
-generated_at: 2026-06-11 10:38
+generated_at: "2026-06-11 10:38"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper evaluates how well eleven ImageNet‑pre‑trained models can be adapted to five distinct target domains for image classification. It compares accuracy, training time, and model size across single‑episode and ten‑episode training runs.

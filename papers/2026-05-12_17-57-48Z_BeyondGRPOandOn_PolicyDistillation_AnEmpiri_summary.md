@@ -1,4 +1,12 @@
+---
+title: "2026 05 12 17 57 48Z Beyondgrpoandon Policydistillation Anempiri Summary"
+date: 2026-05-12
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-12_17-57-48Z_BeyondGRPOandOn_PolicyDistillation_AnEmpiricalSpar.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-12 23:02
 Source: 2026-05-12_17-57-48Z_BeyondGRPOandOn_PolicyDistillation_AnEmpiricalSpar.md
 Model: None

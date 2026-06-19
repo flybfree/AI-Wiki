@@ -1,4 +1,12 @@
+---
+title: "2026 04 28 Machine Definition Meaning Merriam Webster Summary"
+date: 2026-04-28
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-28_MACHINE_Definition___Meaning_-_Merriam-Webster.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-29 20:05
 Source: 2026-04-28_MACHINE_Definition___Meaning_-_Merriam-Webster.md
 Model: qwen3.6:35b

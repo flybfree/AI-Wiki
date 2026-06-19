@@ -1,4 +1,12 @@
+---
+title: "2026 04 29 Whatisthedifferencebetween Newobject And New I Summary"
+date: 2026-04-29
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-04-29_WhatistheDifferenceBetween_newobject___and_new___i.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-04-30 02:42
 Source: 2026-04-29_WhatistheDifferenceBetween_newobject___and_new___i.md
 Model: qwen3.6:35b

@@ -1,12 +1,15 @@
 ---
+
 title: Tokenisation via Convex Relaxations
 url: http://arxiv.org/abs/2605.22821v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-21_17-59-56Z_TokenisationviaConvexRelaxations.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper presents ConvexTok, a new tokenisation algorithm that formulates tokeniser construction as a linear program and solves it using convex optimisation tools. The method consistently improves intrinsic tokenisation metrics and the bits‑per‑byte (BpB) achieved by language models compared with greedy approaches like BPE and Unigram. It also provides a lower bound to certify how far the resulting tokeniser deviates from optimal, empirically within 1 % at common vocabulary sizes.

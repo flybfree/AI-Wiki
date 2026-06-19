@@ -1,12 +1,15 @@
 ---
+
 title: Agentic Proving for Program Verification
 url: http://arxiv.org/abs/2605.23772v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_15-41-27Z_AgenticProvingforProgramVerification.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary  
 This paper evaluates Claude Code within an agentic proving framework on the CLEVER benchmark to measure its ability to generate and verify verifiable code. The results show high success rates across specification generation, implementation certification, and end‑to‑end pipeline execution, indicating that agentic provers can currently handle many program verification tasks.

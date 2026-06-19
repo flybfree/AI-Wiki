@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Inside The Ai Index 12 Takeaways From The 2026 Re"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Inside The Ai Index  12 Takeaways From The 2026 Re
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: Inside the AI Index: 12 Takeaways from the 2026 Report
 Article text:
 

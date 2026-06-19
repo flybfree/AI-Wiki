@@ -1,12 +1,15 @@
 ---
+
 title: Multi-Agent LLM-based Metamorphic Testing for REST APIs
 url: http://arxiv.org/abs/2605.28321v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_11-24-46Z_Multi_AgentLLM_basedMetamorphicTestingforRESTAPIs.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces ARMeta, a tool that employs an LLM‑driven multi‑agent workflow to perform metamorphic testing of REST APIs defined in OpenAPI. The agents generate test scenarios in Given‑When‑Then format, which are then turned into executable tests and run against the target system. Evaluation on two public web applications shows that ARMeta uncovers additional behaviors complementary to conventional scenario‑based testing.

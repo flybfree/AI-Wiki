@@ -1,4 +1,12 @@
+---
+title: "2026 05 19 17 53 29Z Kore Compactknowledgerepresentationsforlarg Summary"
+date: 2026-05-19
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-19_17-53-29Z_KoRe_CompactKnowledgeRepresentationsforLargeLangua.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-19 22:01
 Source: 2026-05-19_17-53-29Z_KoRe_CompactKnowledgeRepresentationsforLargeLangua.md
 Model: None

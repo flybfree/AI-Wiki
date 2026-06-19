@@ -1,12 +1,15 @@
 ---
-title: Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation
+
+title: "Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation"
 url: http://arxiv.org/abs/2605.18740v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-18_17-57-04Z_Vision_OPD_LearningtoSeeFineDetailsforMultimodalLL.md
-generated_at: 2026-06-11 10:42
+generated_at: "2026-06-11 10:42"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces Vision-OPD, a self‑distillation method that transfers a model’s ability to focus on evidence from cropped regions to its full‑image reasoning. Experiments show the distilled models match or exceed larger open‑source and closed‑source multimodal agents on fine‑grained visual tasks.

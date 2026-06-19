@@ -1,12 +1,15 @@
 ---
-title: MobileMoE: Scaling On-Device Mixture of Experts
+
+title: "MobileMoE: Scaling On-Device Mixture of Experts"
 url: http://arxiv.org/abs/2605.27358v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-26_17-58-24Z_MobileMoE_ScalingOn_DeviceMixtureofExperts.md
-generated_at: 2026-06-11 10:47
+generated_at: "2026-06-11 10:47"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces MobileMoE, a family of on‑device mixture‑of‑experts language models that operate within mobile memory and compute limits. The models achieve sub‑billion active parameters while matching or exceeding dense baselines with far fewer inference FLOPs.

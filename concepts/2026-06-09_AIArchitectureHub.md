@@ -1,5 +1,13 @@
+---
+title: "2026 06 09 Aiarchitecturehub"
+date: 2026-06-09
+tags: ['concept', 'ai', 'ml']
+---
 # AI Architecture Hub
 
+
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 ## Overview
 
 This hub organizes content related to AI system architecture — from ML pipelines to agent frameworks.

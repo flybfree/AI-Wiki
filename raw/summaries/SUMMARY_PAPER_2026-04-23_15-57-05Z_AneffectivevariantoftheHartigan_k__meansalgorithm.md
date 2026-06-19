@@ -1,12 +1,15 @@
 ---
+
 title: An effective variant of the Hartigan $k$-means algorithm
 url: http://arxiv.org/abs/2604.21798v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_15-57-05Z_AneffectivevariantoftheHartigan_k__meansalgorithm.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper proposes a simple variant of Hartigan’s $k$-means algorithm that yields an additional 2%–5% improvement over the original method, with gains increasing as either the number of dimensions or $k$ grows. The authors demonstrate that this modest modification can further boost clustering quality beyond Hartigan’s baseline advantage.

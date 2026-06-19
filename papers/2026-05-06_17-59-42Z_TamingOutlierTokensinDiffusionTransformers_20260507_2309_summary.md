@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 17 59 42Z Tamingoutliertokensindiffusiontransformers 20260507 2309 Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-06_17-59-42Z_TamingOutlierTokensinDiffusionTransformers.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:09
 Source: 2026-05-06_17-59-42Z_TamingOutlierTokensinDiffusionTransformers.md
 Model: None

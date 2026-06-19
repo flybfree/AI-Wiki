@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 16 29 35Z Think Aloudreshapesautomatedcognitivemodeld Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-06_16-29-35Z_Think_AloudReshapesAutomatedCognitiveModelDiscover.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:07
 Source: 2026-05-06_16-29-35Z_Think_AloudReshapesAutomatedCognitiveModelDiscover.md
 Model: None

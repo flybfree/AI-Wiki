@@ -7,6 +7,9 @@ tags: [reading-list, ilya-sutskever, deep-learning, papers]
 
 # Ilya Sutskever Recommended Reading List
 
+
+
+**Source**: [Original Article](https://github.com/dzyim/ilya-sutskever-recommended-reading)
 Source repo: https://github.com/dzyim/ilya-sutskever-recommended-reading
 
 ## Summary

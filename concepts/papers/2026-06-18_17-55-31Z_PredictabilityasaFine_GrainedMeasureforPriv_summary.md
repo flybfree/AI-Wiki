@@ -1,4 +1,12 @@
+---
+title: "2026 06 18 17 55 31Z Predictabilityasafine Grainedmeasureforpriv Summary"
+date: 2026-06-18
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-06-18 23:01
 Source: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md
 Model: None

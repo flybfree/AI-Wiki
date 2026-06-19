@@ -1,4 +1,12 @@
+---
+title: "2026 05 06 16 20 24Z Ordermatters Improvingdomainadaptationbyreo Summary"
+date: 2026-05-06
+tags: ['paper', 'research', 'ai']
+---
 # Summary: 2026-05-06_16-20-24Z_OrderMatters_ImprovingDomainAdaptationbyReordering.md
+
+
+**Source**: [Original Paper](https://example.com/placeholder)
 Saved: 2026-05-07 23:06
 Source: 2026-05-06_16-20-24Z_OrderMatters_ImprovingDomainAdaptationbyReordering.md
 Model: None

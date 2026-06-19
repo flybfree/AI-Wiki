@@ -1,12 +1,15 @@
 ---
+
 title: Looped Diffusion Language Models
 url: http://arxiv.org/abs/2605.26106v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-25_17-58-24Z_LoopedDiffusionLanguageModels.md
-generated_at: 2026-06-11 10:46
+generated_at: "2026-06-11 10:46"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces LoopMDM, a technique that selectively loops early-middle transformer layers in masked diffusion language models to boost training efficiency and performance. By looping specific layers at training time, the method achieves depth scaling without adding parameters, while varying loop counts during inference provides flexible compute scaling.

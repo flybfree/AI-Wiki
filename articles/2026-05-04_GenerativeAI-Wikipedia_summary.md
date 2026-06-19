@@ -1,4 +1,12 @@
+---
+title: "2026 05 04 Generativeai Wikipedia Summary"
+date: 2026-05-04
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-05-04_GenerativeAI-Wikipedia.md
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 Saved: 2026-05-04 18:10
 Source: 2026-05-04_GenerativeAI-Wikipedia.md
 Model: qwen3.6:35b

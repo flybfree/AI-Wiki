@@ -1,12 +1,15 @@
 ---
-title: OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration
+
+title: "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration"
 url: http://arxiv.org/abs/2605.28805v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-27_17-56-04Z_OmniVerifier_M1_MultimodalMeta_VerifierwithExplici.md
-generated_at: 2026-06-11 10:48
+generated_at: "2026-06-11 10:48"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces OmniVerifier-M1, a multimodal meta-verification system that uses symbolic rationales such as bounding boxes instead of textual explanations to improve verification accuracy. The authors find that separating binary judgment and meta‑verification tasks yields better performance than joint reward optimization.

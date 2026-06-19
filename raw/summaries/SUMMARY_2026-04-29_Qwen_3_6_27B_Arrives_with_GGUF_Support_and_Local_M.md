@@ -1,3 +1,12 @@
+---
+title: "Summary 2026 04 29 Qwen 3 6 27B Arrives With Gguf Support And Local M"
+date: 2026-06-19
+tags: ['wiki']
+---
+# Summary 2026 04 29 Qwen 3 6 27B Arrives With Gguf Support And Local M
+
+**Source**: [Original Article](https://example.com/placeholder)
+
 Title: Qwen 3.6 27B Arrives with GGUF Support and Local Multimodal ...
 Article text:
 

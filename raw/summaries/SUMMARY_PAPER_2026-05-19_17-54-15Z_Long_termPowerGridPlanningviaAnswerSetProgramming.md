@@ -1,12 +1,15 @@
 ---
+
 title: Long-term Power Grid Planning via Answer Set Programming
 url: http://arxiv.org/abs/2605.20172v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-19_17-54-15Z_Long_termPowerGridPlanningviaAnswerSetProgramming.md
-generated_at: 2026-06-11 10:43
+generated_at: "2026-06-11 10:43"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper proposes an ASP‑based framework for automating long‑term power grid planning, showing that it can handle decades of network changes while preserving topological invariants. Experiments on synthetic and real data demonstrate the approach’s expressive power and effectiveness.

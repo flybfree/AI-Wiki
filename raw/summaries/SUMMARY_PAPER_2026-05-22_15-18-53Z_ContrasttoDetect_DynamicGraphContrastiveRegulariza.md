@@ -1,12 +1,15 @@
 ---
-title: Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series
+
+title: "Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series"
 url: http://arxiv.org/abs/2605.23744v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-05-22_15-18-53Z_ContrasttoDetect_DynamicGraphContrastiveRegulariza.md
-generated_at: 2026-06-11 10:45
+generated_at: "2026-06-11 10:45"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces ContrastAD, an unsupervised framework that leverages the evolving structure of multivariate time series as a learning signal for anomaly detection. By generating dynamic graph snapshots from batch‑level DTW distances and applying a frequency‑aware attention mixer, the method achieves state‑of‑the‑art performance on multiple benchmarks.

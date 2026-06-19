@@ -1,12 +1,15 @@
 ---
+
 title: Reinforcement Learning for Flow-Matching Policies with Density Transport
 url: http://arxiv.org/abs/2606.08602v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-06-07_12-28-51Z_ReinforcementLearningforFlow_MatchingPolicieswithD.md
-generated_at: 2026-06-11 10:54
+generated_at: "2026-06-11 10:54"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces RLDT, an online reinforcement learning algorithm that fine‑tunes flow‑matching policies using density transport. It outperforms baselines in reward quality and convergence speed across diverse continuous‑control tasks.  

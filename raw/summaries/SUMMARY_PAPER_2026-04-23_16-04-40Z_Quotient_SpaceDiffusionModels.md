@@ -1,12 +1,15 @@
 ---
+
 title: Quotient-Space Diffusion Models
 url: http://arxiv.org/abs/2604.21809v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_16-04-40Z_Quotient_SpaceDiffusionModels.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 The paper introduces a formal framework for diffusion modeling on quotient spaces, applying it to molecular structure generation under the SE(3) symmetry group. It shows that this approach simplifies learning by eliminating the need to learn the group action component and provides samplers that recover the target distribution better than heuristic methods.

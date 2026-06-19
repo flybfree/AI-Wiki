@@ -16,8 +16,16 @@ sources:
   - paper: 2606.03793
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # LLM Alignment
 
+
+
+**Source**: [Original Article](https://arxiv.org/abs/2203.02155)
 **Alignment** is the problem of making AI systems behave in ways that match human intentions and values — not just what they're literally told to do, but what we *mean* for them to do. The core challenge: human values are complex, context-dependent, and often contradictory.
 
 ## Foundational Methods

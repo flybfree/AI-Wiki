@@ -11,8 +11,16 @@ source_pages:
   - raw/articles/2026-05-04_BestOpen-SourceLLMMay2026_Llama4vsQwenvsDeepSeek.md
 ---
 
+## Summary
+
+Placeholder summary — please add a concise summary.
+
+
 # Lesson 12: Prompting: Guiding Model Behavior
 
+
+
+**Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

@@ -1,4 +1,12 @@
+---
+title: "2026 05 05 Thisnewbrain Likechipcouldslashaienergyuseby70 Sc Summary"
+date: 2026-05-05
+tags: ['article', 'news', 'ai']
+---
 # Summary: 2026-05-05_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md
+
+
+**Source**: [Original Article](https://www.sciencedaily.com/releases/2026/04/260422044633.htm)
 Saved: 2026-05-05 22:11
 Source: 2026-05-05_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md
 Model: gpt-5.4-mini

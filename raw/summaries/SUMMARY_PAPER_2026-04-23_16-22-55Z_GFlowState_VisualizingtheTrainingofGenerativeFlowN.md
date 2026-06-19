@@ -1,12 +1,15 @@
 ---
-title: GFlowState: Visualizing the Training of Generative Flow Networks Beyond the Reward
+
+title: "GFlowState: Visualizing the Training of Generative Flow Networks Beyond the Reward"
 url: http://arxiv.org/abs/2604.21830v1
 type: paper-summary
 date: 2026-06-11
 source_paper: 2026-04-23_16-22-55Z_GFlowState_VisualizingtheTrainingofGenerativeFlowN.md
-generated_at: 2026-06-11 10:26
+generated_at: "2026-06-11 10:26"
 model: nvidia/nemotron-3-nano-4b
+
 ---
+
 
 ## Summary
 This paper introduces GFlowState, a visual analytics tool that maps the training dynamics of Generative Flow Networks beyond traditional reward metrics. By providing multiple interactive views such as candidate rankings, state projections, trajectory networks, and transition heatmaps, GFlowState reveals how models explore sample space and adjust probabilities during learning.

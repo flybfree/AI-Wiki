@@ -1,12 +1,20 @@
 ---
+
 title: Top 7 open source LLMs for 2026
 date: 2026-06-18
 url: https://www.instaclustr.com/education/open-source-ai/top-7-open-source-llms-for-2026/
 type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://www.instaclustr.com/education/open-source-ai/top-7-open-source-llms-for-2026/
-scraped: 2026-06-18 00:00
+scraped: "2026-06-18 00:00"
+
 ---
+
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
 
 # Top 7 open source LLMs for 2026
 
