@@ -1258,6 +1258,26 @@
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] : UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning
+- [[2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] : Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation
+- [[2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] : Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving
+- [[2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] : Multi-Task Bayesian In-Context Learning
+- [[2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] : Toward Calibrated Mixture-of-Experts Under Distribution Shift
+- [[2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] : Optimal Deterministic Multicalibration and Omniprediction
+- [[2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] : How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech
+- [[2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] : The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups
+- [[2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] : How Transparent is DiffusionGemma?
+- [[2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] : Predictability as a Fine-Grained Measure for Privacy
+- [[2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md]] : CRAX: Fast Safe Reinforcement Learning Benchmarking
+- [[2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] : AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning
+- [[2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] : Robust $Q$-learning for mean-field control under Wasserstein uncertainty in common noise
+- [[2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] : On the Variance of Temporal Difference Learning and its Reduction Using Control Variates
+- [[2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] : Quantum ring all-reduce: communication and privacy advantages for distributed learning
+- [[2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] : Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining
+- [[2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelforInterpr.md]] : Critical Percolation as a Synthetic Data Model for Interpretability
+- [[2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md]] : CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges
+- [[2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] : Judging to Improve: A De-biased VLM-as-3D-Judge Protocol for Single-Image 3D Generation
+- [[2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] : Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation on the Ontario Residential Tenancies Act
 - [[2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md]] : Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States
 - [[2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] : Learning User Simulators with Turing Rewards
 - [[2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] : The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning
