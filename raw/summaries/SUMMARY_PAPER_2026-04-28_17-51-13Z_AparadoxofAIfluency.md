@@ -1,6 +1,6 @@
 ---
 
-title: A paradox of AI fluency
+title: "Summary: A paradox of AI fluency"
 url: http://arxiv.org/abs/2604.25905v1
 type: paper-summary
 date: 2026-06-11

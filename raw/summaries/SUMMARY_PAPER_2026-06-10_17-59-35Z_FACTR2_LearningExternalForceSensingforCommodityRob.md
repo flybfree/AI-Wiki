@@ -1,6 +1,6 @@
 ---
 
-title: "FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning"
+title: "Summary: FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning"
 url: http://arxiv.org/abs/2606.12406v1
 type: paper-summary
 date: 2026-06-11

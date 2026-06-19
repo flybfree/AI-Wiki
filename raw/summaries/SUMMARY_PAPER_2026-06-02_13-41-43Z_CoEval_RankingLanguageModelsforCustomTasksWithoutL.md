@@ -1,6 +1,6 @@
 ---
 
-title: "CoEval: Ranking Language Models for Custom Tasks Without Labeled Data or Trustworthy Benchmarks"
+title: "Summary: CoEval: Ranking Language Models for Custom Tasks Without Labeled Data or Trustworthy Benchmarks"
 url: http://arxiv.org/abs/2606.03650v1
 type: paper-summary
 date: 2026-06-11

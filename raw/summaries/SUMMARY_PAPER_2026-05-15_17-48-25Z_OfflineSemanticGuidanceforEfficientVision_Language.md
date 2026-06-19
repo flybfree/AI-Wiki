@@ -1,6 +1,6 @@
 ---
 
-title: Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation
+title: "Summary: Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation"
 url: http://arxiv.org/abs/2605.16241v1
 type: paper-summary
 date: 2026-06-11

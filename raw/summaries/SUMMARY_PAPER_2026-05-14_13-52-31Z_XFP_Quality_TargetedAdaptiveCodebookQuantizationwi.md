@@ -1,6 +1,6 @@
 ---
 
-title: "XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference"
+title: "Summary: XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference"
 url: http://arxiv.org/abs/2605.14844v1
 type: paper-summary
 date: 2026-06-11

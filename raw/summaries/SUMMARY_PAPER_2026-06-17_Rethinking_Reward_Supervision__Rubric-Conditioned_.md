@@ -1,6 +1,6 @@
 ---
 
-title: "Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation"
+title: "Summary: Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation"
 url: http://arxiv.org/abs/2606.19327v1
 type: paper-summary
 date: 2026-06-17

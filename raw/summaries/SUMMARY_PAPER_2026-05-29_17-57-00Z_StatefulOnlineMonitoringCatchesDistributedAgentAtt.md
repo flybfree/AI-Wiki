@@ -1,6 +1,6 @@
 ---
 
-title: Stateful Online Monitoring Catches Distributed Agent Attacks
+title: "Summary: Stateful Online Monitoring Catches Distributed Agent Attacks"
 url: http://arxiv.org/abs/2605.31593v1
 type: paper-summary
 date: 2026-06-11

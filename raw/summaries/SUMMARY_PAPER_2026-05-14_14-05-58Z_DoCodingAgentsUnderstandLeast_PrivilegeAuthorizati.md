@@ -1,6 +1,6 @@
 ---
 
-title: Do Coding Agents Understand Least-Privilege Authorization?
+title: "Summary: Do Coding Agents Understand Least-Privilege Authorization?"
 url: http://arxiv.org/abs/2605.14859v1
 type: paper-summary
 date: 2026-06-11

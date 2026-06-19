@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Artificial English Meaning Cambridge Dictionar"
+title: "Summary: Summary 2026 04 29 Artificial English Meaning Cambridge Dictionar"
 date: 2026-06-19
 tags: ['wiki']
 ---

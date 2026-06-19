@@ -1,6 +1,6 @@
 ---
 
-title: "PIXLRelight: Controllable Relighting via Intrinsic Conditioning"
+title: "Summary: PIXLRelight: Controllable Relighting via Intrinsic Conditioning"
 url: http://arxiv.org/abs/2605.18735v1
 type: paper-summary
 date: 2026-06-11

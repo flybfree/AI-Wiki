@@ -1,6 +1,6 @@
 ---
 
-title: Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping
+title: "Summary: Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping"
 url: http://arxiv.org/abs/2605.08075v1
 type: paper-summary
 date: 2026-06-11

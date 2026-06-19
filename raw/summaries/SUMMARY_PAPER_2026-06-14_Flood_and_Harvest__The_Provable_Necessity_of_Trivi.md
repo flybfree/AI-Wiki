@@ -1,6 +1,6 @@
 ---
 
-title: "Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit"
+title: "Summary: Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit"
 url: http://arxiv.org/abs/2606.14688v1
 type: paper-summary
 date: 2026-06-14

@@ -1,6 +1,6 @@
 ---
 
-title: "FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery"
+title: "Summary: FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery"
 url: http://arxiv.org/abs/2605.14854v1
 type: paper-summary
 date: 2026-06-11

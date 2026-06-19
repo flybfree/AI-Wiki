@@ -1,6 +1,6 @@
 ---
 
-title: "Piper: A Programmable Distributed Training System"
+title: "Summary: Piper: A Programmable Distributed Training System"
 url: http://arxiv.org/abs/2606.11169v1
 type: paper-summary
 date: 2026-06-11

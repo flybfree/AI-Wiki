@@ -1,6 +1,6 @@
 ---
 
-title: Towards Non-Monotonic Entailment in Propositional Defeasible Standpoint Logic
+title: "Summary: Towards Non-Monotonic Entailment in Propositional Defeasible Standpoint Logic"
 url: http://arxiv.org/abs/2606.03655v1
 type: paper-summary
 date: 2026-06-11

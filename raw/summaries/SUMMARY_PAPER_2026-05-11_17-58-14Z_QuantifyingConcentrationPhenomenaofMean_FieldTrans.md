@@ -1,6 +1,6 @@
 ---
 
-title: Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime
+title: "Summary: Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime"
 url: http://arxiv.org/abs/2605.10931v1
 type: paper-summary
 date: 2026-06-11

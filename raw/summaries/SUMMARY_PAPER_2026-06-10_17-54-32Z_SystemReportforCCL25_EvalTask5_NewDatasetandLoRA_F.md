@@ -1,6 +1,6 @@
 ---
 
-title: "System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5"
+title: "Summary: System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5"
 url: http://arxiv.org/abs/2606.12392v1
 type: paper-summary
 date: 2026-06-11

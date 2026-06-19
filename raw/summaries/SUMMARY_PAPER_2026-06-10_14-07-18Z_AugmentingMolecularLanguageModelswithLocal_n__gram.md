@@ -1,6 +1,6 @@
 ---
 
-title: Augmenting Molecular Language Models with Local $n$-gram Memory
+title: "Summary: Augmenting Molecular Language Models with Local $n$-gram Memory"
 url: http://arxiv.org/abs/2606.12113v1
 type: paper-summary
 date: 2026-06-11

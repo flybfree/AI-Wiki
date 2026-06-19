@@ -1,6 +1,6 @@
 ---
 
-title: "Doc-to-Atom: Learning to Compile and Compose Memory Atoms"
+title: "Summary: Doc-to-Atom: Learning to Compile and Compose Memory Atoms"
 url: http://arxiv.org/abs/2606.12400v1
 type: paper-summary
 date: 2026-06-11

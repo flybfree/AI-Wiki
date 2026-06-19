@@ -1,6 +1,6 @@
 ---
 
-title: An Enhanced Large Neighborhood Search Approach for the Capacitated Facility Location Problem with Incompatible Customers
+title: "Summary: An Enhanced Large Neighborhood Search Approach for the Capacitated Facility Location Problem with Incompatible Customers"
 url: http://arxiv.org/abs/2605.28337v1
 type: paper-summary
 date: 2026-06-11

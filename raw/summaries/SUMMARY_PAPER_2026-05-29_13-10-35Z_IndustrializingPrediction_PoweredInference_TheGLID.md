@@ -1,6 +1,6 @@
 ---
 
-title: "Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation"
+title: "Summary: Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation"
 url: http://arxiv.org/abs/2605.31278v1
 type: paper-summary
 date: 2026-06-11

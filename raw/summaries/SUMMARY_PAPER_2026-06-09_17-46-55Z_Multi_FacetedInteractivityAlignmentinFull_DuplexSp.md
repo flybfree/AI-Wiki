@@ -1,6 +1,6 @@
 ---
 
-title: Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models
+title: "Summary: Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models"
 url: http://arxiv.org/abs/2606.11167v1
 type: paper-summary
 date: 2026-06-11

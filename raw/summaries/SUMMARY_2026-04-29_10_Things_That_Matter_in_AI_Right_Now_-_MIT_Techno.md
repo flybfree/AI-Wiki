@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 10 Things That Matter In Ai Right Now Mit Techno"
+title: "Summary: Summary 2026 04 29 10 Things That Matter In Ai Right Now Mit Techno"
 date: 2026-06-19
 tags: ['wiki']
 ---

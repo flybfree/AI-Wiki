@@ -1,6 +1,6 @@
 ---
 
-title: A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents
+title: "Summary: A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents"
 url: http://arxiv.org/abs/2605.20173v1
 type: paper-summary
 date: 2026-06-11

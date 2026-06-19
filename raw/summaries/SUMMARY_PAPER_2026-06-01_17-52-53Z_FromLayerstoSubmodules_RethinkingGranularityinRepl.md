@@ -1,6 +1,6 @@
 ---
 
-title: "From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression"
+title: "Summary: From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression"
 url: http://arxiv.org/abs/2606.02559v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection"
+title: "Summary: Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection"
 url: http://arxiv.org/abs/2605.30344v1
 type: paper-summary
 date: 2026-06-11

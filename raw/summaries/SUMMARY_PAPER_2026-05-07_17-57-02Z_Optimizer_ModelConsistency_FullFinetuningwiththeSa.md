@@ -1,6 +1,6 @@
 ---
 
-title: "Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less"
+title: "Summary: Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less"
 url: http://arxiv.org/abs/2605.06654v1
 type: paper-summary
 date: 2026-06-11

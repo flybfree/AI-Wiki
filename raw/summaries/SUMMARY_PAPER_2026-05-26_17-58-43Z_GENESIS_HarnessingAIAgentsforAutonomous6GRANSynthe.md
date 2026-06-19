@@ -1,6 +1,6 @@
 ---
 
-title: "GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing"
+title: "Summary: GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing"
 url: http://arxiv.org/abs/2605.27360v1
 type: paper-summary
 date: 2026-06-11

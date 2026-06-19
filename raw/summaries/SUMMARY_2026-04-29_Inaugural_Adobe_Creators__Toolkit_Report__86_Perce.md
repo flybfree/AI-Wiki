@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Inaugural Adobe Creators Toolkit Report 86 Perce"
+title: "Summary: Summary 2026 04 29 Inaugural Adobe Creators Toolkit Report 86 Perce"
 date: 2026-06-19
 tags: ['wiki']
 ---

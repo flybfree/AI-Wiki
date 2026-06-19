@@ -1,6 +1,6 @@
 ---
 
-title: "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories"
+title: "Summary: Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories"
 url: http://arxiv.org/abs/2606.11176v1
 type: paper-summary
 date: 2026-06-11

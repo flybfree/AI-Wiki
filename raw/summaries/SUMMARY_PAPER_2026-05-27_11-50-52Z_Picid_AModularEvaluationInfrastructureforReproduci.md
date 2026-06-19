@@ -1,6 +1,6 @@
 ---
 
-title: "Picid: A Modular Evaluation Infrastructure for Reproducible PHM Across Tasks and Domains"
+title: "Summary: Picid: A Modular Evaluation Infrastructure for Reproducible PHM Across Tasks and Domains"
 url: http://arxiv.org/abs/2605.28345v1
 type: paper-summary
 date: 2026-06-11

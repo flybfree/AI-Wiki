@@ -1,6 +1,6 @@
 ---
 
-title: Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment
+title: "Summary: Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment"
 url: http://arxiv.org/abs/2605.23780v1
 type: paper-summary
 date: 2026-06-11

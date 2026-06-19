@@ -1,6 +1,6 @@
 ---
 
-title: "AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists"
+title: "Summary: AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists"
 url: http://arxiv.org/abs/2605.21481v1
 type: paper-summary
 date: 2026-06-11

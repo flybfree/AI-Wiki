@@ -1,6 +1,6 @@
 ---
 
-title: "WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"
+title: "Summary: WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation"
 url: http://arxiv.org/abs/2605.10912v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency"
+title: "Summary: Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency"
 url: http://arxiv.org/abs/2605.18732v1
 type: paper-summary
 date: 2026-06-11

@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Ai In April 2026 Biggest Breakthroughs Models"
+title: "Summary: Summary 2026 04 29 Ai In April 2026 Biggest Breakthroughs Models"
 date: 2026-06-19
 tags: ['wiki']
 ---

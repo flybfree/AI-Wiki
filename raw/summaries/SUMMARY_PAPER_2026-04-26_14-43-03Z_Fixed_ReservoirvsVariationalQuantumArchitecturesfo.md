@@ -1,6 +1,6 @@
 ---
 
-title: "Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System"
+title: "Summary: Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System"
 url: http://arxiv.org/abs/2604.23743v1
 type: paper-summary
 date: 2026-06-11

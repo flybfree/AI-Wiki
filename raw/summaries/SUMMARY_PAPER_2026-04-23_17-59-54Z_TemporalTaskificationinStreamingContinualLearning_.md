@@ -1,6 +1,6 @@
 ---
 
-title: "Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability"
+title: "Summary: Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability"
 url: http://arxiv.org/abs/2604.21930v1
 type: paper-summary
 date: 2026-06-11

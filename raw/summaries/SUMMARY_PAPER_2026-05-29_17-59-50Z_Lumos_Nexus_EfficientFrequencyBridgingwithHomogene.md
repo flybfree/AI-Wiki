@@ -1,6 +1,6 @@
 ---
 
-title: "Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models"
+title: "Summary: Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models"
 url: http://arxiv.org/abs/2605.31603v1
 type: paper-summary
 date: 2026-06-11

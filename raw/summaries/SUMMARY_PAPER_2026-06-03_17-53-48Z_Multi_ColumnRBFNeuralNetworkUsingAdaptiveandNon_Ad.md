@@ -1,6 +1,6 @@
 ---
 
-title: Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization
+title: "Summary: Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization"
 url: http://arxiv.org/abs/2606.05150v1
 type: paper-summary
 date: 2026-06-11

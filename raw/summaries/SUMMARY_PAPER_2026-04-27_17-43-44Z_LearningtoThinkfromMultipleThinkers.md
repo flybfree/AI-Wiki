@@ -1,6 +1,6 @@
 ---
 
-title: Learning to Think from Multiple Thinkers
+title: "Summary: Learning to Think from Multiple Thinkers"
 url: http://arxiv.org/abs/2604.24737v1
 type: paper-summary
 date: 2026-06-11

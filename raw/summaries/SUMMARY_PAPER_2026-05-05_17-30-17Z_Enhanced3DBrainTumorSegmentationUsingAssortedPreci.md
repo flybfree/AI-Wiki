@@ -1,6 +1,6 @@
 ---
 
-title: Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training
+title: "Summary: Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training"
 url: http://arxiv.org/abs/2605.04008v1
 type: paper-summary
 date: 2026-06-11

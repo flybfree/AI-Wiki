@@ -1,6 +1,6 @@
 ---
 
-title: "Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking"
+title: "Summary: Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking"
 url: http://arxiv.org/abs/2606.03985v1
 type: paper-summary
 date: 2026-06-11

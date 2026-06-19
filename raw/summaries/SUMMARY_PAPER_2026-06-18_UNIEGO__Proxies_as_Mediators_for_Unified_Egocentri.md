@@ -1,6 +1,6 @@
 ---
 
-title: "UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning"
+title: "Summary: UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning"
 url: http://arxiv.org/abs/2606.20559v1
 type: paper-summary
 date: 2026-06-18

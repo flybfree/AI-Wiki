@@ -1,6 +1,6 @@
 ---
 
-title: Understanding Truncated Positional Encodings for Graph Neural Networks
+title: "Summary: Understanding Truncated Positional Encodings for Graph Neural Networks"
 url: http://arxiv.org/abs/2606.13671v1
 type: paper-summary
 date: 2026-06-11

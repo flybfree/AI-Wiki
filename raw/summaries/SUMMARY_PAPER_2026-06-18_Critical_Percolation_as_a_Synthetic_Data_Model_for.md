@@ -1,6 +1,6 @@
 ---
 
-title: Critical Percolation as a Synthetic Data Model for Interpretability
+title: "Summary: Critical Percolation as a Synthetic Data Model for Interpretability"
 url: http://arxiv.org/abs/2606.20347v1
 type: paper-summary
 date: 2026-06-18

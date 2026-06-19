@@ -1,6 +1,6 @@
 ---
 
-title: A Note on Non-Negative $L_1$-Approximating Polynomials
+title: "Summary: A Note on Non-Negative $L_1$-Approximating Polynomials"
 url: http://arxiv.org/abs/2605.08072v1
 type: paper-summary
 date: 2026-06-11

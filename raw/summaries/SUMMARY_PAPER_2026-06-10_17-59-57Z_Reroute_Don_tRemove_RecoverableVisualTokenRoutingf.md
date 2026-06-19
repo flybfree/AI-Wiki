@@ -1,6 +1,6 @@
 ---
 
-title: "Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models"
+title: "Summary: Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models"
 url: http://arxiv.org/abs/2606.12412v1
 type: paper-summary
 date: 2026-06-11

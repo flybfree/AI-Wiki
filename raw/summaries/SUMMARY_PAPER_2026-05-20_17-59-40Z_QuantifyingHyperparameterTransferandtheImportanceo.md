@@ -1,6 +1,6 @@
 ---
 
-title: Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate
+title: "Summary: Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate"
 url: http://arxiv.org/abs/2605.21486v1
 type: paper-summary
 date: 2026-06-11

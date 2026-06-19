@@ -1,6 +1,6 @@
 ---
 
-title: Smarter edits? Post-editing with error highlights and translation suggestions
+title: "Summary: Smarter edits? Post-editing with error highlights and translation suggestions"
 url: http://arxiv.org/abs/2605.21135v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "SeedER: Seed-and-Expand Retrieval from Knowledge Graphs"
+title: "Summary: SeedER: Seed-and-Expand Retrieval from Knowledge Graphs"
 url: http://arxiv.org/abs/2605.23753v1
 type: paper-summary
 date: 2026-06-11

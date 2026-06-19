@@ -1,6 +1,6 @@
 ---
 
-title: "Gaze Heads: How VLMs Look at What They Describe"
+title: "Summary: Gaze Heads: How VLMs Look at What They Describe"
 url: http://arxiv.org/abs/2606.14703v1
 type: paper-summary
 date: 2026-06-14

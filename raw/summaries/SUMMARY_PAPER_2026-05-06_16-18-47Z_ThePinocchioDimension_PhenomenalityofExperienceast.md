@@ -1,6 +1,6 @@
 ---
 
-title: "The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences"
+title: "Summary: The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences"
 url: http://arxiv.org/abs/2605.05080v1
 type: paper-summary
 date: 2026-06-11

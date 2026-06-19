@@ -1,6 +1,6 @@
 ---
 
-title: "OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation"
+title: "Summary: OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation"
 url: http://arxiv.org/abs/2605.12480v1
 type: paper-summary
 date: 2026-06-11

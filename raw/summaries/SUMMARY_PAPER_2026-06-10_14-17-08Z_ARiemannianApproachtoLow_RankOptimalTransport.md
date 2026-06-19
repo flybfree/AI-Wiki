@@ -1,6 +1,6 @@
 ---
 
-title: A Riemannian Approach to Low-Rank Optimal Transport
+title: "Summary: A Riemannian Approach to Low-Rank Optimal Transport"
 url: http://arxiv.org/abs/2606.12120v1
 type: paper-summary
 date: 2026-06-11

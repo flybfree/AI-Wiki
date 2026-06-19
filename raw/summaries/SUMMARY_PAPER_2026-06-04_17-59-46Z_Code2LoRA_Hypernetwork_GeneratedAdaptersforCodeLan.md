@@ -1,6 +1,6 @@
 ---
 
-title: "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution"
+title: "Summary: Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution"
 url: http://arxiv.org/abs/2606.06492v1
 type: paper-summary
 date: 2026-06-11

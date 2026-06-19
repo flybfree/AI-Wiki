@@ -1,6 +1,6 @@
 ---
 
-title: "Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach"
+title: "Summary: Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach"
 url: http://arxiv.org/abs/2605.13830v1
 type: paper-summary
 date: 2026-06-11

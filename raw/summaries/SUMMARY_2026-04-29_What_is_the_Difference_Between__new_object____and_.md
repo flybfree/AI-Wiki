@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 What Is The Difference Between New Object And"
+title: "Summary: Summary 2026 04 29 What Is The Difference Between New Object And"
 date: 2026-06-19
 tags: ['wiki']
 ---

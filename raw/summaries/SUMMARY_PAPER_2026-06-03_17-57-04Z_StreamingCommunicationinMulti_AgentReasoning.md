@@ -1,6 +1,6 @@
 ---
 
-title: Streaming Communication in Multi-Agent Reasoning
+title: "Summary: Streaming Communication in Multi-Agent Reasoning"
 url: http://arxiv.org/abs/2606.05158v1
 type: paper-summary
 date: 2026-06-11

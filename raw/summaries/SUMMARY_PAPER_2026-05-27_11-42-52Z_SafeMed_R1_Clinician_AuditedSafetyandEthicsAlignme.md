@@ -1,6 +1,6 @@
 ---
 
-title: "SafeMed-R1: Clinician-Audited Safety and Ethics Alignment for Medical Large Language Models"
+title: "Summary: SafeMed-R1: Clinician-Audited Safety and Ethics Alignment for Medical Large Language Models"
 url: http://arxiv.org/abs/2605.28338v1
 type: paper-summary
 date: 2026-06-11

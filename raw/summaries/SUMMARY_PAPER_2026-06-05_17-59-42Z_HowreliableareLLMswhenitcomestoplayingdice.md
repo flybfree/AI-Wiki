@@ -1,6 +1,6 @@
 ---
 
-title: How reliable are LLMs when it comes to playing dice?
+title: "Summary: How reliable are LLMs when it comes to playing dice?"
 url: http://arxiv.org/abs/2606.07515v1
 type: paper-summary
 date: 2026-06-11

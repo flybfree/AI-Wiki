@@ -1,6 +1,6 @@
 ---
 
-title: Multi-Task Bayesian In-Context Learning
+title: "Summary: Multi-Task Bayesian In-Context Learning"
 url: http://arxiv.org/abs/2606.20538v1
 type: paper-summary
 date: 2026-06-18

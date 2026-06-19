@@ -1,6 +1,6 @@
 ---
 
-title: "Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought"
+title: "Summary: Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought"
 url: http://arxiv.org/abs/2604.22709v1
 type: paper-summary
 date: 2026-06-11

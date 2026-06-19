@@ -1,6 +1,6 @@
 ---
 
-title: "Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation"
+title: "Summary: Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation"
 url: http://arxiv.org/abs/2606.19315v1
 type: paper-summary
 date: 2026-06-17

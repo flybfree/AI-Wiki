@@ -1,6 +1,6 @@
 ---
 
-title: Impact of Age Specialized Models for Hypoglycemia Classification
+title: "Summary: Impact of Age Specialized Models for Hypoglycemia Classification"
 url: http://arxiv.org/abs/2604.23732v1
 type: paper-summary
 date: 2026-06-11

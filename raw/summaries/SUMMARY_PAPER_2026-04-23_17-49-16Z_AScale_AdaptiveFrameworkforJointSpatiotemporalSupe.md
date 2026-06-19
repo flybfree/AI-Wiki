@@ -1,6 +1,6 @@
 ---
 
-title: A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models
+title: "Summary: A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models"
 url: http://arxiv.org/abs/2604.21903v1
 type: paper-summary
 date: 2026-06-11

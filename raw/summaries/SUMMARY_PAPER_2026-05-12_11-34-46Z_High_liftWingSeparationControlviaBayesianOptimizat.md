@@ -1,6 +1,6 @@
 ---
 
-title: High-lift Wing Separation Control via Bayesian Optimization and Deep Reinforcement Learning
+title: "Summary: High-lift Wing Separation Control via Bayesian Optimization and Deep Reinforcement Learning"
 url: http://arxiv.org/abs/2605.11981v1
 type: paper-summary
 date: 2026-06-11

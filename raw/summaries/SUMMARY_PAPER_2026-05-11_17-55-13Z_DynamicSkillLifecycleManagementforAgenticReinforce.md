@@ -1,6 +1,6 @@
 ---
 
-title: Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning
+title: "Summary: Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning"
 url: http://arxiv.org/abs/2605.10923v1
 type: paper-summary
 date: 2026-06-11

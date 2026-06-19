@@ -1,6 +1,6 @@
 ---
 
-title: "Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction"
+title: "Summary: Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction"
 url: http://arxiv.org/abs/2605.21483v1
 type: paper-summary
 date: 2026-06-11

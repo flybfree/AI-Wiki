@@ -1,6 +1,6 @@
 ---
 
-title: "SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Distractor Diagnostics"
+title: "Summary: SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Distractor Diagnostics"
 url: http://arxiv.org/abs/2605.31575v1
 type: paper-summary
 date: 2026-06-11

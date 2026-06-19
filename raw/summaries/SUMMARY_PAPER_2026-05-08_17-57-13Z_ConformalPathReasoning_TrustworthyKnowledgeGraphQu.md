@@ -1,6 +1,6 @@
 ---
 
-title: "Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration"
+title: "Summary: Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration"
 url: http://arxiv.org/abs/2605.08077v1
 type: paper-summary
 date: 2026-06-11

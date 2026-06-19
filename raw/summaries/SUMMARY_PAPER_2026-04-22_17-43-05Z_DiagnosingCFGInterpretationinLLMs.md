@@ -1,6 +1,6 @@
 ---
 
-title: Diagnosing CFG Interpretation in LLMs
+title: "Summary: Diagnosing CFG Interpretation in LLMs"
 url: http://arxiv.org/abs/2604.20811v1
 type: paper-summary
 date: 2026-06-11

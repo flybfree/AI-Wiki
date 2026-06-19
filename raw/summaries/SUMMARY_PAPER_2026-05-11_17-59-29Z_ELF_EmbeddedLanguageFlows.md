@@ -1,6 +1,6 @@
 ---
 
-title: "ELF: Embedded Language Flows"
+title: "Summary: ELF: Embedded Language Flows"
 url: http://arxiv.org/abs/2605.10938v1
 type: paper-summary
 date: 2026-06-11

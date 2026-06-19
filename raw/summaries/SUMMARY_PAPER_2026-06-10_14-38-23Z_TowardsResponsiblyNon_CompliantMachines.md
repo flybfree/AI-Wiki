@@ -1,6 +1,6 @@
 ---
 
-title: Towards Responsibly Non-Compliant Machines
+title: "Summary: Towards Responsibly Non-Compliant Machines"
 url: http://arxiv.org/abs/2606.12147v1
 type: paper-summary
 date: 2026-06-11

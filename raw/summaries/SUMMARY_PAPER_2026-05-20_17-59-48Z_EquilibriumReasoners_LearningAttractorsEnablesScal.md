@@ -1,6 +1,6 @@
 ---
 
-title: "Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning"
+title: "Summary: Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning"
 url: http://arxiv.org/abs/2605.21488v1
 type: paper-summary
 date: 2026-06-11

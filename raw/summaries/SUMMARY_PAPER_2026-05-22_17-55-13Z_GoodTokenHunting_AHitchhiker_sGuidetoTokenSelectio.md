@@ -1,6 +1,6 @@
 ---
 
-title: "Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers"
+title: "Summary: Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers"
 url: http://arxiv.org/abs/2605.23892v1
 type: paper-summary
 date: 2026-06-11

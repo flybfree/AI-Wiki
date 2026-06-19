@@ -1,6 +1,6 @@
 ---
 
-title: Quantitative Video World Model Evaluation for Geometric-Consistency
+title: "Summary: Quantitative Video World Model Evaluation for Geometric-Consistency"
 url: http://arxiv.org/abs/2605.15185v1
 type: paper-summary
 date: 2026-06-11

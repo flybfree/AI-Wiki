@@ -1,6 +1,6 @@
 ---
 
-title: "ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning"
+title: "Summary: ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning"
 url: http://arxiv.org/abs/2605.20176v1
 type: paper-summary
 date: 2026-06-11

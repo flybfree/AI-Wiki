@@ -1,6 +1,6 @@
 ---
 
-title: "Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models"
+title: "Summary: Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models"
 url: http://arxiv.org/abs/2605.21154v1
 type: paper-summary
 date: 2026-06-11

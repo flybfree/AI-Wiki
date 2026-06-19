@@ -1,6 +1,6 @@
 ---
 
-title: "EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation"
+title: "Summary: EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation"
 url: http://arxiv.org/abs/2605.15199v1
 type: paper-summary
 date: 2026-06-11

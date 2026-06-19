@@ -1,6 +1,6 @@
 ---
 
-title: "Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions"
+title: "Summary: Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions"
 url: http://arxiv.org/abs/2605.31586v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction
+title: "Summary: Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction"
 url: http://arxiv.org/abs/2605.18211v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards"
+title: "Summary: LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards"
 url: http://arxiv.org/abs/2605.31584v1
 type: paper-summary
 date: 2026-06-11

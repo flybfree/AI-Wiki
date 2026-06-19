@@ -1,6 +1,6 @@
 ---
 
-title: Finite-Time Analysis of MCTS in Continuous POMDP Planning
+title: "Summary: Finite-Time Analysis of MCTS in Continuous POMDP Planning"
 url: http://arxiv.org/abs/2605.07703v1
 type: paper-summary
 date: 2026-06-11

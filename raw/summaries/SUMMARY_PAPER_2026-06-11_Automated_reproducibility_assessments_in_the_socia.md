@@ -1,6 +1,6 @@
 ---
 
-title: Automated reproducibility assessments in the social and behavioral sciences using large language models
+title: "Summary: Automated reproducibility assessments in the social and behavioral sciences using large language models"
 url: http://arxiv.org/abs/2606.13670v1
 type: paper-summary
 date: 2026-06-11

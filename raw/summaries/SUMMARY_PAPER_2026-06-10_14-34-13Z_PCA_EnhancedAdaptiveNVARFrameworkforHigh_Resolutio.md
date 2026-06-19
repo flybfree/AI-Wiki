@@ -1,6 +1,6 @@
 ---
 
-title: PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea
+title: "Summary: PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea"
 url: http://arxiv.org/abs/2606.12141v1
 type: paper-summary
 date: 2026-06-11

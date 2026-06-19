@@ -1,6 +1,6 @@
 ---
 
-title: "The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups"
+title: "Summary: The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups"
 url: http://arxiv.org/abs/2606.20547v1
 type: paper-summary
 date: 2026-06-18

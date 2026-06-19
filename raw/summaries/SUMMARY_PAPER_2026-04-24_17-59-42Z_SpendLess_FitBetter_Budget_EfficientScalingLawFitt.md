@@ -1,6 +1,6 @@
 ---
 
-title: "Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection"
+title: "Summary: Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection"
 url: http://arxiv.org/abs/2604.22753v1
 type: paper-summary
 date: 2026-06-11

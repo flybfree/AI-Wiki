@@ -1,6 +1,6 @@
 ---
 
-title: Context-Driven Incremental Compression for Multi-Turn Dialogue Generation
+title: "Summary: Context-Driven Incremental Compression for Multi-Turn Dialogue Generation"
 url: http://arxiv.org/abs/2606.12411v1
 type: paper-summary
 date: 2026-06-11

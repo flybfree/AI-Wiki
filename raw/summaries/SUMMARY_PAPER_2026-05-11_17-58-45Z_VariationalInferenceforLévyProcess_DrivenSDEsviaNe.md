@@ -1,6 +1,6 @@
 ---
 
-title: Variational Inference for Lévy Process-Driven SDEs via Neural Tilting
+title: "Summary: Variational Inference for Lévy Process-Driven SDEs via Neural Tilting"
 url: http://arxiv.org/abs/2605.10934v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment"
+title: "Summary: CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment"
 url: http://arxiv.org/abs/2606.14691v1
 type: paper-summary
 date: 2026-06-14

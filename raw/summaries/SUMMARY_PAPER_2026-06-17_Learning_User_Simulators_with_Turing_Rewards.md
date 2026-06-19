@@ -1,6 +1,6 @@
 ---
 
-title: Learning User Simulators with Turing Rewards
+title: "Summary: Learning User Simulators with Turing Rewards"
 url: http://arxiv.org/abs/2606.19336v1
 type: paper-summary
 date: 2026-06-17

@@ -1,6 +1,6 @@
 ---
 
-title: RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots
+title: "Summary: RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots"
 url: http://arxiv.org/abs/2605.18197v1
 type: paper-summary
 date: 2026-06-11

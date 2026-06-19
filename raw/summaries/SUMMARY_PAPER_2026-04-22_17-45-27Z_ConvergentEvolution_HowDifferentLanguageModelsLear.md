@@ -1,6 +1,6 @@
 ---
 
-title: "Convergent Evolution: How Different Language Models Learn Similar Number Representations"
+title: "Summary: Convergent Evolution: How Different Language Models Learn Similar Number Representations"
 url: http://arxiv.org/abs/2604.20817v1
 type: paper-summary
 date: 2026-06-11

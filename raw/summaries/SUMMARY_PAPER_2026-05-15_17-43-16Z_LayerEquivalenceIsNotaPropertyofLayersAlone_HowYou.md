@@ -1,6 +1,6 @@
 ---
 
-title: "Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find"
+title: "Summary: Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find"
 url: http://arxiv.org/abs/2605.16234v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation"
+title: "Summary: From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation"
 url: http://arxiv.org/abs/2604.21910v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States"
+title: "Summary: Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States"
 url: http://arxiv.org/abs/2606.19334v1
 type: paper-summary
 date: 2026-06-17

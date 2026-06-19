@@ -1,6 +1,6 @@
 ---
 
-title: "GFlowState: Visualizing the Training of Generative Flow Networks Beyond the Reward"
+title: "Summary: GFlowState: Visualizing the Training of Generative Flow Networks Beyond the Reward"
 url: http://arxiv.org/abs/2604.21830v1
 type: paper-summary
 date: 2026-06-11

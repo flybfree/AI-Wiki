@@ -1,6 +1,6 @@
 ---
 
-title: "Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration"
+title: "Summary: Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration"
 url: http://arxiv.org/abs/2605.22814v1
 type: paper-summary
 date: 2026-06-11

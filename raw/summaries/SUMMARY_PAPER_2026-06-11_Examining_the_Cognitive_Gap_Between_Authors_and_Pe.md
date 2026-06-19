@@ -1,6 +1,6 @@
 ---
 
-title: Examining the Cognitive Gap Between Authors and Peer Reviewers on Academic Paper Novelty
+title: "Summary: Examining the Cognitive Gap Between Authors and Peer Reviewers on Academic Paper Novelty"
 url: http://arxiv.org/abs/2606.13452v1
 type: paper-summary
 date: 2026-06-11

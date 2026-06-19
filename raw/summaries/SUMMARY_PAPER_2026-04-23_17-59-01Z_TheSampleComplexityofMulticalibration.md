@@ -1,6 +1,6 @@
 ---
 
-title: The Sample Complexity of Multicalibration
+title: "Summary: The Sample Complexity of Multicalibration"
 url: http://arxiv.org/abs/2604.21923v1
 type: paper-summary
 date: 2026-06-11

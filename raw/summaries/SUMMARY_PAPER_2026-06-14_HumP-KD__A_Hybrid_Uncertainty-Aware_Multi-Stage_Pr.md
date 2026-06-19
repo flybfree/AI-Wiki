@@ -1,6 +1,6 @@
 ---
 
-title: "HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification"
+title: "Summary: HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification"
 url: http://arxiv.org/abs/2606.14684v1
 type: paper-summary
 date: 2026-06-14

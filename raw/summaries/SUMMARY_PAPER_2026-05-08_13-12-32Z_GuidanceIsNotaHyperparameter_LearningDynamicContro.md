@@ -1,6 +1,6 @@
 ---
 
-title: "Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models"
+title: "Summary: Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models"
 url: http://arxiv.org/abs/2605.07701v1
 type: paper-summary
 date: 2026-06-11

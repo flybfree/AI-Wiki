@@ -1,6 +1,6 @@
 ---
 
-title: "SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate"
+title: "Summary: SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate"
 url: http://arxiv.org/abs/2605.18745v1
 type: paper-summary
 date: 2026-06-11

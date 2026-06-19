@@ -1,6 +1,6 @@
 ---
 
-title: "Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving"
+title: "Summary: Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving"
 url: http://arxiv.org/abs/2605.21139v1
 type: paper-summary
 date: 2026-06-11

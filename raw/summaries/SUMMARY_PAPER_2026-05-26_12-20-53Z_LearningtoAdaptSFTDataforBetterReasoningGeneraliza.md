@@ -1,6 +1,6 @@
 ---
 
-title: Learning to Adapt SFT Data for Better Reasoning Generalization
+title: "Summary: Learning to Adapt SFT Data for Better Reasoning Generalization"
 url: http://arxiv.org/abs/2605.26924v1
 type: paper-summary
 date: 2026-06-11

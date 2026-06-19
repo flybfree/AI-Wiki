@@ -1,6 +1,6 @@
 ---
 
-title: Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining
+title: "Summary: Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining"
 url: http://arxiv.org/abs/2606.20363v1
 type: paper-summary
 date: 2026-06-18

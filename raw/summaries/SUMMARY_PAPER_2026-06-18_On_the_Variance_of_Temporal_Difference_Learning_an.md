@@ -1,6 +1,6 @@
 ---
 
-title: On the Variance of Temporal Difference Learning and its Reduction Using Control Variates
+title: "Summary: On the Variance of Temporal Difference Learning and its Reduction Using Control Variates"
 url: http://arxiv.org/abs/2606.20357v1
 type: paper-summary
 date: 2026-06-18

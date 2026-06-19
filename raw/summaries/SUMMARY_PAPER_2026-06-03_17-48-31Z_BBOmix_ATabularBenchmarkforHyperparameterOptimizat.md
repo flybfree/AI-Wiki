@@ -1,6 +1,6 @@
 ---
 
-title: "BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning"
+title: "Summary: BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning"
 url: http://arxiv.org/abs/2606.05139v1
 type: paper-summary
 date: 2026-06-11

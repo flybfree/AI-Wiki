@@ -1,6 +1,6 @@
 ---
 
-title: "DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain"
+title: "Summary: DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain"
 url: http://arxiv.org/abs/2605.07699v1
 type: paper-summary
 date: 2026-06-11

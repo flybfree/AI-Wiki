@@ -1,6 +1,6 @@
 ---
 
-title: "Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation"
+title: "Summary: Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation"
 url: http://arxiv.org/abs/2605.12492v1
 type: paper-summary
 date: 2026-06-11

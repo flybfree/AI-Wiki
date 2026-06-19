@@ -1,6 +1,6 @@
 ---
 
-title: Reinforcement Learning for Neural Model Editing
+title: "Summary: Reinforcement Learning for Neural Model Editing"
 url: http://arxiv.org/abs/2606.13461v1
 type: paper-summary
 date: 2026-06-11

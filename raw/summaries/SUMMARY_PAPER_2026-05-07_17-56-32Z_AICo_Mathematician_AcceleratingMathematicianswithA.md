@@ -1,6 +1,6 @@
 ---
 
-title: "AI Co-Mathematician: Accelerating Mathematicians with Agentic AI"
+title: "Summary: AI Co-Mathematician: Accelerating Mathematicians with Agentic AI"
 url: http://arxiv.org/abs/2605.06651v1
 type: paper-summary
 date: 2026-06-11

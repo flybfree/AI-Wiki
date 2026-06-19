@@ -1,6 +1,6 @@
 ---
 
-title: Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing
+title: "Summary: Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing"
 url: http://arxiv.org/abs/2605.15179v1
 type: paper-summary
 date: 2026-06-11

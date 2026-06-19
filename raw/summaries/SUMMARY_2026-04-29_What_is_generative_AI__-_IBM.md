@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 What Is Generative Ai Ibm"
+title: "Summary: Summary 2026 04 29 What Is Generative Ai Ibm"
 date: 2026-06-19
 tags: ['wiki']
 ---

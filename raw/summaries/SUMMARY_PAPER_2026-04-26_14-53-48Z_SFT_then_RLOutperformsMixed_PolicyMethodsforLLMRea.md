@@ -1,6 +1,6 @@
 ---
 
-title: SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning
+title: "Summary: SFT-then-RL Outperforms Mixed-Policy Methods for LLM Reasoning"
 url: http://arxiv.org/abs/2604.23747v1
 type: paper-summary
 date: 2026-06-11

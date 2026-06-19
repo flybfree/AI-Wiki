@@ -1,6 +1,6 @@
 ---
 
-title: Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges
+title: "Summary: Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges"
 url: http://arxiv.org/abs/2605.10917v1
 type: paper-summary
 date: 2026-06-11

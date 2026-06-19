@@ -1,6 +1,6 @@
 ---
 
-title: Modeling Induced Pleasure through Cognitive Appraisal Prediction via Multimodal Fusion
+title: "Summary: Modeling Induced Pleasure through Cognitive Appraisal Prediction via Multimodal Fusion"
 url: http://arxiv.org/abs/2604.23753v1
 type: paper-summary
 date: 2026-06-11

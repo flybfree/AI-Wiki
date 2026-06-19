@@ -1,6 +1,6 @@
 ---
 
-title: "Agentopia: Long-Term Life Simulation and Learning in Agent Societies"
+title: "Summary: Agentopia: Long-Term Life Simulation and Learning in Agent Societies"
 url: http://arxiv.org/abs/2606.07513v1
 type: paper-summary
 date: 2026-06-11

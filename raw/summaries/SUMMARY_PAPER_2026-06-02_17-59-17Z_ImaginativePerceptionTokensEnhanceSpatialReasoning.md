@@ -1,6 +1,6 @@
 ---
 
-title: Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models
+title: "Summary: Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models"
 url: http://arxiv.org/abs/2606.03988v1
 type: paper-summary
 date: 2026-06-11

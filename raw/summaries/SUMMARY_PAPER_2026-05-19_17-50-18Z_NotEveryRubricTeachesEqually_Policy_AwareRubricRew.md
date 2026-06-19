@@ -1,6 +1,6 @@
 ---
 
-title: "Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR"
+title: "Summary: Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR"
 url: http://arxiv.org/abs/2605.20164v1
 type: paper-summary
 date: 2026-06-11

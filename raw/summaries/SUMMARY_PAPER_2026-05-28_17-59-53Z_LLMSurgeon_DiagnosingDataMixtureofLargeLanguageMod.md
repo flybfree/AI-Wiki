@@ -1,6 +1,6 @@
 ---
 
-title: "LLMSurgeon: Diagnosing Data Mixture of Large Language Models"
+title: "Summary: LLMSurgeon: Diagnosing Data Mixture of Large Language Models"
 url: http://arxiv.org/abs/2605.30348v1
 type: paper-summary
 date: 2026-06-11

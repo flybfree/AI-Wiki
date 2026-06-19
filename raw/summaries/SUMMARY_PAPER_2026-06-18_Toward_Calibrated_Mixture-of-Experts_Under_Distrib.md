@@ -1,6 +1,6 @@
 ---
 
-title: Toward Calibrated Mixture-of-Experts Under Distribution Shift
+title: "Summary: Toward Calibrated Mixture-of-Experts Under Distribution Shift"
 url: http://arxiv.org/abs/2606.20544v1
 type: paper-summary
 date: 2026-06-18

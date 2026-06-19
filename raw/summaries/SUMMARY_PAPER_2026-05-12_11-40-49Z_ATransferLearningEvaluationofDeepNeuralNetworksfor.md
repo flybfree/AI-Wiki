@@ -1,6 +1,6 @@
 ---
 
-title: A Transfer Learning Evaluation of Deep Neural Networks for Image Classification
+title: "Summary: A Transfer Learning Evaluation of Deep Neural Networks for Image Classification"
 url: http://arxiv.org/abs/2605.11989v1
 type: paper-summary
 date: 2026-06-11

@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Generative Ai News And Analysis Techcrunch"
+title: "Summary: Summary 2026 04 29 Generative Ai News And Analysis Techcrunch"
 date: 2026-06-19
 tags: ['wiki']
 ---

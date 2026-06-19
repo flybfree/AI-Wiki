@@ -1,6 +1,6 @@
 ---
 
-title: Designing Datacenter Power Delivery Hierarchies for the AI Era
+title: "Summary: Designing Datacenter Power Delivery Hierarchies for the AI Era"
 url: http://arxiv.org/abs/2605.16255v1
 type: paper-summary
 date: 2026-06-11

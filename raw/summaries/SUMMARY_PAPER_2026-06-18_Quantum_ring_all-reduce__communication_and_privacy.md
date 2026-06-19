@@ -1,6 +1,6 @@
 ---
 
-title: "Quantum ring all-reduce: communication and privacy advantages for distributed learning"
+title: "Summary: Quantum ring all-reduce: communication and privacy advantages for distributed learning"
 url: http://arxiv.org/abs/2606.20344v1
 type: paper-summary
 date: 2026-06-18

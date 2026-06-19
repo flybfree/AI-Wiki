@@ -1,6 +1,6 @@
 ---
 
-title: "WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata"
+title: "Summary: WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata"
 url: http://arxiv.org/abs/2605.21479v1
 type: paper-summary
 date: 2026-06-11

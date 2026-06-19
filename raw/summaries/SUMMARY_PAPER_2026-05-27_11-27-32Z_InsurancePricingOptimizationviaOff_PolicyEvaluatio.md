@@ -1,6 +1,6 @@
 ---
 
-title: Insurance Pricing Optimization via Off-Policy Evaluation
+title: "Summary: Insurance Pricing Optimization via Off-Policy Evaluation"
 url: http://arxiv.org/abs/2605.28327v1
 type: paper-summary
 date: 2026-06-11

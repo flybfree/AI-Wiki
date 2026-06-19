@@ -1,6 +1,6 @@
 ---
 
-title: "Learning, Fast and Slow: Towards LLMs That Adapt Continually"
+title: "Summary: Learning, Fast and Slow: Towards LLMs That Adapt Continually"
 url: http://arxiv.org/abs/2605.12484v1
 type: paper-summary
 date: 2026-06-11

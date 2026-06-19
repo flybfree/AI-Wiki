@@ -1,6 +1,6 @@
 ---
 
-title: "Divide-then-Diagnose: Weaving Clinician-Inspired Contexts for Ultra-Long Capsule Endoscopy Videos"
+title: "Summary: Divide-then-Diagnose: Weaving Clinician-Inspired Contexts for Ultra-Long Capsule Endoscopy Videos"
 url: http://arxiv.org/abs/2604.21814v1
 type: paper-summary
 date: 2026-06-11

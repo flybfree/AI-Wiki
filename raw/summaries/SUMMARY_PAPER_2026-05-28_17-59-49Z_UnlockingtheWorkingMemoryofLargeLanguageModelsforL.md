@@ -1,6 +1,6 @@
 ---
 
-title: Unlocking the Working Memory of Large Language Models for Latent Reasoning
+title: "Summary: Unlocking the Working Memory of Large Language Models for Latent Reasoning"
 url: http://arxiv.org/abs/2605.30343v1
 type: paper-summary
 date: 2026-06-11

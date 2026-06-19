@@ -1,6 +1,6 @@
 ---
 
-title: Safety Measurements for Fine-tuned LLMs Should be Grounded in Capability
+title: "Summary: Safety Measurements for Fine-tuned LLMs Should be Grounded in Capability"
 url: http://arxiv.org/abs/2606.03648v1
 type: paper-summary
 date: 2026-06-11

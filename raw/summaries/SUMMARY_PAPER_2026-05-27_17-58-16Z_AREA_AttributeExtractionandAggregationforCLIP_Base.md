@@ -1,6 +1,6 @@
 ---
 
-title: "AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning"
+title: "Summary: AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning"
 url: http://arxiv.org/abs/2605.28809v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor
+title: "Summary: Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor"
 url: http://arxiv.org/abs/2605.13366v1
 type: paper-summary
 date: 2026-06-11

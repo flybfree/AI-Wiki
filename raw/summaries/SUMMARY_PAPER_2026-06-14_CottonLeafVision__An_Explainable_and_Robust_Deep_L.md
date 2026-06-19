@@ -1,6 +1,6 @@
 ---
 
-title: "CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification"
+title: "Summary: CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification"
 url: http://arxiv.org/abs/2606.14686v1
 type: paper-summary
 date: 2026-06-14

@@ -1,6 +1,6 @@
 ---
 
-title: On the Limitations of Large Language Models for Conceptual Database Modeling
+title: "Summary: On the Limitations of Large Language Models for Conceptual Database Modeling"
 url: http://arxiv.org/abs/2605.11986v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning"
+title: "Summary: SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning"
 url: http://arxiv.org/abs/2606.13673v1
 type: paper-summary
 date: 2026-06-11

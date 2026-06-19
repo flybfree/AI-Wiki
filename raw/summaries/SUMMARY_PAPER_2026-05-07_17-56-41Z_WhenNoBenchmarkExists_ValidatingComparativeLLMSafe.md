@@ -1,6 +1,6 @@
 ---
 
-title: "When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels"
+title: "Summary: When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels"
 url: http://arxiv.org/abs/2605.06652v1
 type: paper-summary
 date: 2026-06-11

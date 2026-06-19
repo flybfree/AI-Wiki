@@ -1,6 +1,6 @@
 ---
 
-title: Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search
+title: "Summary: Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search"
 url: http://arxiv.org/abs/2605.16238v1
 type: paper-summary
 date: 2026-06-11

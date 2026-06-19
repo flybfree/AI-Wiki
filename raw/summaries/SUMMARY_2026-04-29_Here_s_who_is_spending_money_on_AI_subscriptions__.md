@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Here S Who Is Spending Money On Ai Subscriptions"
+title: "Summary: Summary 2026 04 29 Here S Who Is Spending Money On Ai Subscriptions"
 date: 2026-06-19
 tags: ['wiki']
 ---

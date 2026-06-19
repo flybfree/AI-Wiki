@@ -1,6 +1,6 @@
 ---
 
-title: "ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning"
+title: "Summary: ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning"
 url: http://arxiv.org/abs/2606.14697v1
 type: paper-summary
 date: 2026-06-14

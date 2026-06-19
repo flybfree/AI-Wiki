@@ -1,6 +1,6 @@
 ---
 
-title: "SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation"
+title: "Summary: SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation"
 url: http://arxiv.org/abs/2605.07711v1
 type: paper-summary
 date: 2026-06-11

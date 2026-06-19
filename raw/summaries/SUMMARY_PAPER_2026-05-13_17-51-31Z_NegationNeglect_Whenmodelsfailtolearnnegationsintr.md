@@ -1,6 +1,6 @@
 ---
 
-title: "Negation Neglect: When models fail to learn negations in training"
+title: "Summary: Negation Neglect: When models fail to learn negations in training"
 url: http://arxiv.org/abs/2605.13829v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop"
+title: "Summary: ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop"
 url: http://arxiv.org/abs/2605.18746v1
 type: paper-summary
 date: 2026-06-11

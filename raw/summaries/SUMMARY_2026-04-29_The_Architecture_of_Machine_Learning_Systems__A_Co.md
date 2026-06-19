@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 The Architecture Of Machine Learning Systems A Co"
+title: "Summary: Summary 2026 04 29 The Architecture Of Machine Learning Systems A Co"
 date: 2026-06-19
 tags: ['wiki']
 ---

@@ -1,6 +1,6 @@
 ---
 
-title: "Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization"
+title: "Summary: Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization"
 url: http://arxiv.org/abs/2605.28810v1
 type: paper-summary
 date: 2026-06-11

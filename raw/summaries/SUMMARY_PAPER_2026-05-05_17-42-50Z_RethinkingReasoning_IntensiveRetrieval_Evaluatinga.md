@@ -1,6 +1,6 @@
 ---
 
-title: "Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems"
+title: "Summary: Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems"
 url: http://arxiv.org/abs/2605.04018v1
 type: paper-summary
 date: 2026-06-11

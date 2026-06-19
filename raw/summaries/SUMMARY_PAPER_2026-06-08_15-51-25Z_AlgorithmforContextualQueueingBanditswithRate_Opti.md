@@ -1,6 +1,6 @@
 ---
 
-title: Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret
+title: "Summary: Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret"
 url: http://arxiv.org/abs/2606.09668v1
 type: paper-summary
 date: 2026-06-11

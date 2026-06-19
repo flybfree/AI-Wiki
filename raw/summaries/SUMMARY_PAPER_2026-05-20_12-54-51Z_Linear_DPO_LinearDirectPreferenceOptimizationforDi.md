@@ -1,6 +1,6 @@
 ---
 
-title: "Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models"
+title: "Summary: Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models"
 url: http://arxiv.org/abs/2605.21123v1
 type: paper-summary
 date: 2026-06-11

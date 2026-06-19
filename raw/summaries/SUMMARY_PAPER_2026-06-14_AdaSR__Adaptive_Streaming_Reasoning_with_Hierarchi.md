@@ -1,6 +1,6 @@
 ---
 
-title: "AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization"
+title: "Summary: AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization"
 url: http://arxiv.org/abs/2606.14694v1
 type: paper-summary
 date: 2026-06-14

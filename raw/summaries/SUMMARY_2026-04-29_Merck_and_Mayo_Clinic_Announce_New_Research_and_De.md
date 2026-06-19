@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Merck And Mayo Clinic Announce New Research And De"
+title: "Summary: Summary 2026 04 29 Merck And Mayo Clinic Announce New Research And De"
 date: 2026-06-19
 tags: ['wiki']
 ---

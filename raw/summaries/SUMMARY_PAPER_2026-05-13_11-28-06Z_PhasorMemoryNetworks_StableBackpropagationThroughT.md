@@ -1,6 +1,6 @@
 ---
 
-title: "Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory"
+title: "Summary: Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory"
 url: http://arxiv.org/abs/2605.13370v1
 type: paper-summary
 date: 2026-06-11

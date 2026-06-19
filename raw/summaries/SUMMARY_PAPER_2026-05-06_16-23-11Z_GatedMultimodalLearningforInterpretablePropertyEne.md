@@ -1,6 +1,6 @@
 ---
 
-title: Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis
+title: "Summary: Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis"
 url: http://arxiv.org/abs/2605.05088v1
 type: paper-summary
 date: 2026-06-11

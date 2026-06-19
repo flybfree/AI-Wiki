@@ -1,6 +1,6 @@
 ---
 
-title: "STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations"
+title: "Summary: STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations"
 url: http://arxiv.org/abs/2606.05165v1
 type: paper-summary
 date: 2026-06-11

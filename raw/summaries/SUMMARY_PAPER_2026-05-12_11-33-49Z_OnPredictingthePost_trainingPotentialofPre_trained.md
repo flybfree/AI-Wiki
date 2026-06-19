@@ -1,6 +1,6 @@
 ---
 
-title: On Predicting the Post-training Potential of Pre-trained LLMs
+title: "Summary: On Predicting the Post-training Potential of Pre-trained LLMs"
 url: http://arxiv.org/abs/2605.11978v1
 type: paper-summary
 date: 2026-06-11

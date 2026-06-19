@@ -1,6 +1,6 @@
 ---
 
-title: Toward Better Geometric Representations for Molecule Generative Models
+title: "Summary: Toward Better Geometric Representations for Molecule Generative Models"
 url: http://arxiv.org/abs/2605.07693v1
 type: paper-summary
 date: 2026-06-11

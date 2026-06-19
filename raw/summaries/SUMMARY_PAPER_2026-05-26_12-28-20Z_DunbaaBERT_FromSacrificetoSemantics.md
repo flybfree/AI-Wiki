@@ -1,6 +1,6 @@
 ---
 
-title: "DunbaaBERT: From Sacrifice to Semantics"
+title: "Summary: DunbaaBERT: From Sacrifice to Semantics"
 url: http://arxiv.org/abs/2605.26935v1
 type: paper-summary
 date: 2026-06-11

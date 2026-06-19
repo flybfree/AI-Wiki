@@ -1,6 +1,6 @@
 ---
 
-title: "When Discourse Pressures Conflict: Information Structure in Vision-Language Model Outputs"
+title: "Summary: When Discourse Pressures Conflict: Information Structure in Vision-Language Model Outputs"
 url: http://arxiv.org/abs/2605.28346v1
 type: paper-summary
 date: 2026-06-11

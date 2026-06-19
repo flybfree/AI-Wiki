@@ -1,6 +1,6 @@
 ---
 
-title: "Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay"
+title: "Summary: Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay"
 url: http://arxiv.org/abs/2605.26097v1
 type: paper-summary
 date: 2026-06-11

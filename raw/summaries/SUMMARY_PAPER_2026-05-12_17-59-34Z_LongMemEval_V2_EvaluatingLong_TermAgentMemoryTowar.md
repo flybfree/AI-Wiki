@@ -1,6 +1,6 @@
 ---
 
-title: "LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues"
+title: "Summary: LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues"
 url: http://arxiv.org/abs/2605.12493v1
 type: paper-summary
 date: 2026-06-11

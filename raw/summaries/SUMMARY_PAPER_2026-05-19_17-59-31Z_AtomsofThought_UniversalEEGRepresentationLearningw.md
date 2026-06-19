@@ -1,6 +1,6 @@
 ---
 
-title: "Atoms of Thought: Universal EEG Representation Learning with Microstates"
+title: "Summary: Atoms of Thought: Universal EEG Representation Learning with Microstates"
 url: http://arxiv.org/abs/2605.20182v1
 type: paper-summary
 date: 2026-06-11

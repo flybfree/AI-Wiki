@@ -1,6 +1,6 @@
 ---
 
-title: Rethinking the Divergence Regularization in LLM RL
+title: "Summary: Rethinking the Divergence Regularization in LLM RL"
 url: http://arxiv.org/abs/2606.09821v1
 type: paper-summary
 date: 2026-06-11

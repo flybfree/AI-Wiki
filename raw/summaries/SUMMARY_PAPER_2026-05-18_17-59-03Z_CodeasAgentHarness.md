@@ -1,6 +1,6 @@
 ---
 
-title: Code as Agent Harness
+title: "Summary: Code as Agent Harness"
 url: http://arxiv.org/abs/2605.18747v1
 type: paper-summary
 date: 2026-06-11

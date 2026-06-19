@@ -1,6 +1,6 @@
 ---
 
-title: Low-Rank Adaptation Redux for Large Models
+title: "Summary: Low-Rank Adaptation Redux for Large Models"
 url: http://arxiv.org/abs/2604.21905v1
 type: paper-summary
 date: 2026-06-11

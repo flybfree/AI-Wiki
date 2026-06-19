@@ -1,6 +1,6 @@
 ---
 
-title: "Dimensionality Reduction for Robust Federated Learning: A Theoretical Analysis and Convergence Guarantee"
+title: "Summary: Dimensionality Reduction for Robust Federated Learning: A Theoretical Analysis and Convergence Guarantee"
 url: http://arxiv.org/abs/2605.28335v1
 type: paper-summary
 date: 2026-06-11

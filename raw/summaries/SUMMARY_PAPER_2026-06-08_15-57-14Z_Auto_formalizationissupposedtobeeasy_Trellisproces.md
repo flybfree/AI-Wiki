@@ -1,6 +1,6 @@
 ---
 
-title: "(Auto)formalization is supposed to be easy: Trellis process semantics for spelling out rigorous proofs"
+title: "Summary: (Auto)formalization is supposed to be easy: Trellis process semantics for spelling out rigorous proofs"
 url: http://arxiv.org/abs/2606.09674v1
 type: paper-summary
 date: 2026-06-11

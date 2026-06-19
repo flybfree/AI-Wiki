@@ -1,6 +1,6 @@
 ---
 
-title: "VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction"
+title: "Summary: VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction"
 url: http://arxiv.org/abs/2605.15186v1
 type: paper-summary
 date: 2026-06-11

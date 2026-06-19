@@ -1,6 +1,6 @@
 ---
 
-title: NOFE -- Neural Operator Function Embedding
+title: "Summary: NOFE -- Neural Operator Function Embedding"
 url: http://arxiv.org/abs/2605.11970v1
 type: paper-summary
 date: 2026-06-11

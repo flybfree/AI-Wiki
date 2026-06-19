@@ -1,6 +1,6 @@
 ---
 
-title: "Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights"
+title: "Summary: Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights"
 url: http://arxiv.org/abs/2605.13839v1
 type: paper-summary
 date: 2026-06-11

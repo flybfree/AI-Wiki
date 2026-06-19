@@ -1,6 +1,6 @@
 ---
 
-title: Quantifying Faithful Confidence Expression in Large Reasoning Models
+title: "Summary: Quantifying Faithful Confidence Expression in Large Reasoning Models"
 url: http://arxiv.org/abs/2606.03969v1
 type: paper-summary
 date: 2026-06-11

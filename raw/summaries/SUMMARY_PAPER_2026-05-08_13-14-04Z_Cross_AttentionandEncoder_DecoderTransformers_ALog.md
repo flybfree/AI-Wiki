@@ -1,6 +1,6 @@
 ---
 
-title: "Cross-Attention and Encoder-Decoder Transformers: A Logical Characterization"
+title: "Summary: Cross-Attention and Encoder-Decoder Transformers: A Logical Characterization"
 url: http://arxiv.org/abs/2605.07705v1
 type: paper-summary
 date: 2026-06-11

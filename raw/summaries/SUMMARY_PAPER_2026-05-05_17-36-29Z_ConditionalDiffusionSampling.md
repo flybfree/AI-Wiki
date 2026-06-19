@@ -1,6 +1,6 @@
 ---
 
-title: Conditional Diffusion Sampling
+title: "Summary: Conditional Diffusion Sampling"
 url: http://arxiv.org/abs/2605.04013v1
 type: paper-summary
 date: 2026-06-11

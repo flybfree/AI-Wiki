@@ -1,6 +1,6 @@
 ---
 
-title: "Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving"
+title: "Summary: Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving"
 url: http://arxiv.org/abs/2606.20537v1
 type: paper-summary
 date: 2026-06-18

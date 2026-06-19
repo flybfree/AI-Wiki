@@ -1,6 +1,6 @@
 ---
 
-title: A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability
+title: "Summary: A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability"
 url: http://arxiv.org/abs/2605.18750v1
 type: paper-summary
 date: 2026-06-11

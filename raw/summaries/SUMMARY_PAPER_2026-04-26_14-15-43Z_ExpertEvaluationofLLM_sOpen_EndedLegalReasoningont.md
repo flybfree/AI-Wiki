@@ -1,6 +1,6 @@
 ---
 
-title: Expert Evaluation of LLM's Open-Ended Legal Reasoning on the Japanese Bar Exam Writing Task
+title: "Summary: Expert Evaluation of LLM's Open-Ended Legal Reasoning on the Japanese Bar Exam Writing Task"
 url: http://arxiv.org/abs/2604.23730v1
 type: paper-summary
 date: 2026-06-11

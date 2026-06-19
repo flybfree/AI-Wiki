@@ -1,6 +1,6 @@
 ---
 
-title: "UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning"
+title: "Summary: UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning"
 url: http://arxiv.org/abs/2606.19328v1
 type: paper-summary
 date: 2026-06-17

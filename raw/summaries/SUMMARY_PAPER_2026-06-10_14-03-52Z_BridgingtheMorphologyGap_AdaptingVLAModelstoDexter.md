@@ -1,6 +1,6 @@
 ---
 
-title: "Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning"
+title: "Summary: Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning"
 url: http://arxiv.org/abs/2606.12109v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "GETA: Generalized Encrypted Traffic Analysis"
+title: "Summary: GETA: Generalized Encrypted Traffic Analysis"
 url: http://arxiv.org/abs/2605.31277v1
 type: paper-summary
 date: 2026-06-11

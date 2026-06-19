@@ -1,6 +1,6 @@
 ---
 
-title: "MSUE: Multi-Modal Soccer Understanding Expert"
+title: "Summary: MSUE: Multi-Modal Soccer Understanding Expert"
 url: http://arxiv.org/abs/2606.12106v1
 type: paper-summary
 date: 2026-06-11

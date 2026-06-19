@@ -1,6 +1,6 @@
 ---
 
-title: Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning
+title: "Summary: Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning"
 url: http://arxiv.org/abs/2606.07500v1
 type: paper-summary
 date: 2026-06-11

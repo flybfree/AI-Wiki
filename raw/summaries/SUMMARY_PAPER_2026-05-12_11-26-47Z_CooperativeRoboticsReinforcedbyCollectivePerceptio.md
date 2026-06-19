@@ -1,6 +1,6 @@
 ---
 
-title: Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation
+title: "Summary: Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation"
 url: http://arxiv.org/abs/2605.11972v1
 type: paper-summary
 date: 2026-06-11

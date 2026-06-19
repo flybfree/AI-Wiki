@@ -1,6 +1,6 @@
 ---
 
-title: Integrable Elasticity via Neural Demand Potentials
+title: "Summary: Integrable Elasticity via Neural Demand Potentials"
 url: http://arxiv.org/abs/2605.22820v1
 type: paper-summary
 date: 2026-06-11

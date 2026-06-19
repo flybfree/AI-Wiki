@@ -1,6 +1,6 @@
 ---
 
-title: "MEME: Multi-entity & Evolving Memory Evaluation"
+title: "Summary: MEME: Multi-entity & Evolving Memory Evaluation"
 url: http://arxiv.org/abs/2605.12477v1
 type: paper-summary
 date: 2026-06-11

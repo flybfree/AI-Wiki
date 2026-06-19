@@ -1,6 +1,6 @@
 ---
 
-title: Flaws in the LLM Automation Narrative
+title: "Summary: Flaws in the LLM Automation Narrative"
 url: http://arxiv.org/abs/2606.11166v1
 type: paper-summary
 date: 2026-06-11

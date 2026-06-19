@@ -1,6 +1,6 @@
 ---
 
-title: "SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment"
+title: "Summary: SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment"
 url: http://arxiv.org/abs/2605.04012v1
 type: paper-summary
 date: 2026-06-11

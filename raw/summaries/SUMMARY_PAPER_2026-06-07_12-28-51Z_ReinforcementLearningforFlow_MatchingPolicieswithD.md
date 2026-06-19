@@ -1,6 +1,6 @@
 ---
 
-title: Reinforcement Learning for Flow-Matching Policies with Density Transport
+title: "Summary: Reinforcement Learning for Flow-Matching Policies with Density Transport"
 url: http://arxiv.org/abs/2606.08602v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation"
+title: "Summary: The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation"
 url: http://arxiv.org/abs/2604.23750v1
 type: paper-summary
 date: 2026-06-11

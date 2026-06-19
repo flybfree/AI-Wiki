@@ -1,6 +1,6 @@
 ---
 
-title: "TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies"
+title: "Summary: TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies"
 url: http://arxiv.org/abs/2606.06491v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows"
+title: "Summary: Tool Attention Is All You Need: Dynamic Tool Gating and Lazy Schema Loading for Eliminating the MCP/Tools Tax in Scalable Agentic Workflows"
 url: http://arxiv.org/abs/2604.21816v1
 type: paper-summary
 date: 2026-06-11

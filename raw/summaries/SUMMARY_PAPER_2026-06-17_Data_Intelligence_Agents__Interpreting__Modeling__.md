@@ -1,6 +1,6 @@
 ---
 
-title: "Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents"
+title: "Summary: Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents"
 url: http://arxiv.org/abs/2606.19319v1
 type: paper-summary
 date: 2026-06-17

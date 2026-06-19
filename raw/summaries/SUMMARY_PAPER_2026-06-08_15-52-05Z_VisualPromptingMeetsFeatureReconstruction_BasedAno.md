@@ -1,6 +1,6 @@
 ---
 
-title: Visual Prompting Meets Feature Reconstruction-Based Anomaly Detection with Dual-Teacher Supervision
+title: "Summary: Visual Prompting Meets Feature Reconstruction-Based Anomaly Detection with Dual-Teacher Supervision"
 url: http://arxiv.org/abs/2606.09670v1
 type: paper-summary
 date: 2026-06-11

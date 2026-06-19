@@ -1,6 +1,6 @@
 ---
 
-title: "The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning"
+title: "Summary: The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning"
 url: http://arxiv.org/abs/2605.22800v1
 type: paper-summary
 date: 2026-06-11

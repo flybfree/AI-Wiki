@@ -1,6 +1,6 @@
 ---
 
-title: A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification
+title: "Summary: A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification"
 url: http://arxiv.org/abs/2605.04046v1
 type: paper-summary
 date: 2026-06-11

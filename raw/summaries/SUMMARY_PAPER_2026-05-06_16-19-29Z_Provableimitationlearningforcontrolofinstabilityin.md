@@ -1,6 +1,6 @@
 ---
 
-title: Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations
+title: "Summary: Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations"
 url: http://arxiv.org/abs/2605.05081v1
 type: paper-summary
 date: 2026-06-11

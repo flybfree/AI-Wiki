@@ -1,6 +1,6 @@
 ---
 
-title: "AdaCodec: A Predictive Visual Code for Video MLLMs"
+title: "Summary: AdaCodec: A Predictive Visual Code for Video MLLMs"
 url: http://arxiv.org/abs/2606.02569v1
 type: paper-summary
 date: 2026-06-11

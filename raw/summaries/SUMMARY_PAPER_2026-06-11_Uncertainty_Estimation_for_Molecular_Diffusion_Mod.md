@@ -1,6 +1,6 @@
 ---
 
-title: Uncertainty Estimation for Molecular Diffusion Models
+title: "Summary: Uncertainty Estimation for Molecular Diffusion Models"
 url: http://arxiv.org/abs/2606.13451v1
 type: paper-summary
 date: 2026-06-11

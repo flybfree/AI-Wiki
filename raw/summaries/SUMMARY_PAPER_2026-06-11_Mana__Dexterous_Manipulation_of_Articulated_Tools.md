@@ -1,6 +1,6 @@
 ---
 
-title: "Mana: Dexterous Manipulation of Articulated Tools"
+title: "Summary: Mana: Dexterous Manipulation of Articulated Tools"
 url: http://arxiv.org/abs/2606.13677v1
 type: paper-summary
 date: 2026-06-11

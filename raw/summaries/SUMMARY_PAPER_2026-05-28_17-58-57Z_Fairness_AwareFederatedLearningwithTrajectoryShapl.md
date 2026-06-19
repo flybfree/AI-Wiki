@@ -1,6 +1,6 @@
 ---
 
-title: Fairness-Aware Federated Learning with Trajectory Shapley Value
+title: "Summary: Fairness-Aware Federated Learning with Trajectory Shapley Value"
 url: http://arxiv.org/abs/2605.30336v1
 type: paper-summary
 date: 2026-06-11

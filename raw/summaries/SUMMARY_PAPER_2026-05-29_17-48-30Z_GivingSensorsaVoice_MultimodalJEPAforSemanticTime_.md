@@ -1,6 +1,6 @@
 ---
 
-title: "Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings"
+title: "Summary: Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings"
 url: http://arxiv.org/abs/2605.31580v1
 type: paper-summary
 date: 2026-06-11

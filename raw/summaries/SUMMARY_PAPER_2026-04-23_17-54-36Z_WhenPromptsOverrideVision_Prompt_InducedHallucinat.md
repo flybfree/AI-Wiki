@@ -1,6 +1,6 @@
 ---
 
-title: "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs"
+title: "Summary: When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs"
 url: http://arxiv.org/abs/2604.21911v1
 type: paper-summary
 date: 2026-06-11

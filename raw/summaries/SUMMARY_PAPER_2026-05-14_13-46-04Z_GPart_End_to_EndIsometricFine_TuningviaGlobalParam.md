@@ -1,6 +1,6 @@
 ---
 
-title: "GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning"
+title: "Summary: GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning"
 url: http://arxiv.org/abs/2605.14841v1
 type: paper-summary
 date: 2026-06-11

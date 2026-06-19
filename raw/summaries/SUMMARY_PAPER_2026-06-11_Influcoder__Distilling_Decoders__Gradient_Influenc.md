@@ -1,6 +1,6 @@
 ---
 
-title: "Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution"
+title: "Summary: Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution"
 url: http://arxiv.org/abs/2606.13668v1
 type: paper-summary
 date: 2026-06-11

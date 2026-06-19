@@ -1,6 +1,6 @@
 ---
 
-title: Second-Order Path Kernel Interpolation Formulas in Machine Learning
+title: "Summary: Second-Order Path Kernel Interpolation Formulas in Machine Learning"
 url: http://arxiv.org/abs/2606.07495v1
 type: paper-summary
 date: 2026-06-11

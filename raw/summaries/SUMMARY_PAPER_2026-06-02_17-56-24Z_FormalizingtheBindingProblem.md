@@ -1,6 +1,6 @@
 ---
 
-title: Formalizing the Binding Problem
+title: "Summary: Formalizing the Binding Problem"
 url: http://arxiv.org/abs/2606.03976v1
 type: paper-summary
 date: 2026-06-11

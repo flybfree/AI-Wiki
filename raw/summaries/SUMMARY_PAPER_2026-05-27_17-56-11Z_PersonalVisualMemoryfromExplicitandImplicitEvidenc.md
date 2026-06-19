@@ -1,6 +1,6 @@
 ---
 
-title: Personal Visual Memory from Explicit and Implicit Evidence
+title: "Summary: Personal Visual Memory from Explicit and Implicit Evidence"
 url: http://arxiv.org/abs/2605.28806v1
 type: paper-summary
 date: 2026-06-11

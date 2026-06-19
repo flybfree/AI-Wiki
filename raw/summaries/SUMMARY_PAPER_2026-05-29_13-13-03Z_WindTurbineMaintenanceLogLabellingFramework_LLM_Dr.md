@@ -1,6 +1,6 @@
 ---
 
-title: "Wind Turbine Maintenance Log Labelling Framework: LLM-Driven Data Correction and Enrichment via Semantic Extraction of Reliability Intelligence"
+title: "Summary: Wind Turbine Maintenance Log Labelling Framework: LLM-Driven Data Correction and Enrichment via Semantic Extraction of Reliability Intelligence"
 url: http://arxiv.org/abs/2605.31281v1
 type: paper-summary
 date: 2026-06-11

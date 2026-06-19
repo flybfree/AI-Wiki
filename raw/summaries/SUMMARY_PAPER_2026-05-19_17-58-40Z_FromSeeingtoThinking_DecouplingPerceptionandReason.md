@@ -1,6 +1,6 @@
 ---
 
-title: "From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models"
+title: "Summary: From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models"
 url: http://arxiv.org/abs/2605.20177v1
 type: paper-summary
 date: 2026-06-11

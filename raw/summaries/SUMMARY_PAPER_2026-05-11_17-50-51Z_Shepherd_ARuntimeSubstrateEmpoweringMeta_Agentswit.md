@@ -1,6 +1,6 @@
 ---
 
-title: "Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace"
+title: "Summary: Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace"
 url: http://arxiv.org/abs/2605.10913v1
 type: paper-summary
 date: 2026-06-11

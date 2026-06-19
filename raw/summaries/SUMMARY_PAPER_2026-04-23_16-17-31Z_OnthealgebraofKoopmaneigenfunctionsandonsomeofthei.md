@@ -1,6 +1,6 @@
 ---
 
-title: On the algebra of Koopman eigenfunctions and on some of their infinities
+title: "Summary: On the algebra of Koopman eigenfunctions and on some of their infinities"
 url: http://arxiv.org/abs/2604.21825v1
 type: paper-summary
 date: 2026-06-11

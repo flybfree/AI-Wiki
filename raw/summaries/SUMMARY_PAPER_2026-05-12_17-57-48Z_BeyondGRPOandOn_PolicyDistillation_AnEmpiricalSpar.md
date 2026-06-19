@@ -1,6 +1,6 @@
 ---
 
-title: "Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training"
+title: "Summary: Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training"
 url: http://arxiv.org/abs/2605.12483v1
 type: paper-summary
 date: 2026-06-11

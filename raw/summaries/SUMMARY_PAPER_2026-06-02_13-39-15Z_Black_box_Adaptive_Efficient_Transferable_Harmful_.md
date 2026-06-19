@@ -1,6 +1,6 @@
 ---
 
-title: Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs
+title: "Summary: Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs"
 url: http://arxiv.org/abs/2606.03647v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research"
+title: "Summary: MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research"
 url: http://arxiv.org/abs/2605.26114v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning"
+title: "Summary: AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning"
 url: http://arxiv.org/abs/2606.20373v1
 type: paper-summary
 date: 2026-06-18

@@ -1,6 +1,6 @@
 ---
 
-title: "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments"
+title: "Summary: EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments"
 url: http://arxiv.org/abs/2606.13681v1
 type: paper-summary
 date: 2026-06-11

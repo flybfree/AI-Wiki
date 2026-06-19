@@ -1,6 +1,6 @@
 ---
 
-title: "Judging to Improve: A De-biased VLM-as-3D-Judge Protocol for Single-Image 3D Generation"
+title: "Summary: Judging to Improve: A De-biased VLM-as-3D-Judge Protocol for Single-Image 3D Generation"
 url: http://arxiv.org/abs/2606.20364v1
 type: paper-summary
 date: 2026-06-18

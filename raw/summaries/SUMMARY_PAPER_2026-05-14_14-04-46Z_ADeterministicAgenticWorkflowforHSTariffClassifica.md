@@ -1,6 +1,6 @@
 ---
 
-title: "A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions"
+title: "Summary: A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions"
 url: http://arxiv.org/abs/2605.14857v1
 type: paper-summary
 date: 2026-06-11

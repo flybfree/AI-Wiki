@@ -1,6 +1,6 @@
 ---
 
-title: "LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling"
+title: "Summary: LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling"
 url: http://arxiv.org/abs/2605.08083v1
 type: paper-summary
 date: 2026-06-11

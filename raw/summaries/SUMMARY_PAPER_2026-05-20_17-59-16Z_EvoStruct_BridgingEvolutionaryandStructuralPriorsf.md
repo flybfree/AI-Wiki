@@ -1,6 +1,6 @@
 ---
 
-title: "EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation"
+title: "Summary: EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation"
 url: http://arxiv.org/abs/2605.21485v1
 type: paper-summary
 date: 2026-06-11

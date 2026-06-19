@@ -1,6 +1,6 @@
 ---
 
-title: "LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws"
+title: "Summary: LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws"
 url: http://arxiv.org/abs/2605.23901v1
 type: paper-summary
 date: 2026-06-11

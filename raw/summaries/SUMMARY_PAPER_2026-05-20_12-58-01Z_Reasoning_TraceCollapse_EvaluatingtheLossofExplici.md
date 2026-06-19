@@ -1,6 +1,6 @@
 ---
 
-title: "Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning"
+title: "Summary: Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning"
 url: http://arxiv.org/abs/2605.21127v1
 type: paper-summary
 date: 2026-06-11

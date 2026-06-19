@@ -1,6 +1,6 @@
 ---
 
-title: "Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency"
+title: "Summary: Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency"
 url: http://arxiv.org/abs/2606.03641v1
 type: paper-summary
 date: 2026-06-11

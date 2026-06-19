@@ -1,6 +1,6 @@
 ---
 
-title: "SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation"
+title: "Summary: SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation"
 url: http://arxiv.org/abs/2604.20842v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "Multi-Stakeholder LLM Alignment: Decomposing Estimation from Aggregation"
+title: "Summary: Multi-Stakeholder LLM Alignment: Decomposing Estimation from Aggregation"
 url: http://arxiv.org/abs/2605.26878v1
 type: paper-summary
 date: 2026-06-11

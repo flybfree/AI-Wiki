@@ -1,6 +1,6 @@
 ---
 
-title: "From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models"
+title: "Summary: From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models"
 url: http://arxiv.org/abs/2605.27352v1
 type: paper-summary
 date: 2026-06-11

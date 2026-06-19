@@ -1,6 +1,6 @@
 ---
 
-title: Language Models Need Sleep
+title: "Summary: Language Models Need Sleep"
 url: http://arxiv.org/abs/2605.26099v1
 type: paper-summary
 date: 2026-06-11

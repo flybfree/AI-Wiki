@@ -1,6 +1,6 @@
 ---
 
-title: "Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention"
+title: "Summary: Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention"
 url: http://arxiv.org/abs/2605.22791v1
 type: paper-summary
 date: 2026-06-11

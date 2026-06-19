@@ -1,6 +1,6 @@
 ---
 
-title: In-Context Learning for Data-Driven Censored Inventory Control
+title: "Summary: In-Context Learning for Data-Driven Censored Inventory Control"
 url: http://arxiv.org/abs/2605.14840v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation
+title: "Summary: What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation"
 url: http://arxiv.org/abs/2605.13368v1
 type: paper-summary
 date: 2026-06-11

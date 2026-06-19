@@ -1,6 +1,6 @@
 ---
 
-title: Dynamics-Level Watermarking of Flow Matching Models with Random Codes
+title: "Summary: Dynamics-Level Watermarking of Flow Matching Models with Random Codes"
 url: http://arxiv.org/abs/2605.16239v1
 type: paper-summary
 date: 2026-06-11

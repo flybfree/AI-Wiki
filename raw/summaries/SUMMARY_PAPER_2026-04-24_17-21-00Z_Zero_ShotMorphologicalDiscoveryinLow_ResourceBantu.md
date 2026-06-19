@@ -1,6 +1,6 @@
 ---
 
-title: Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering
+title: "Summary: Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering"
 url: http://arxiv.org/abs/2604.22723v1
 type: paper-summary
 date: 2026-06-11

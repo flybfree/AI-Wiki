@@ -1,6 +1,6 @@
 ---
 
-title: "PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs"
+title: "Summary: PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs"
 url: http://arxiv.org/abs/2605.23883v1
 type: paper-summary
 date: 2026-06-11

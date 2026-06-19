@@ -1,6 +1,6 @@
 ---
 
-title: "GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs"
+title: "Summary: GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs"
 url: http://arxiv.org/abs/2605.08074v1
 type: paper-summary
 date: 2026-06-11

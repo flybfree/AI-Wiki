@@ -1,6 +1,6 @@
 ---
 
-title: Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders
+title: "Summary: Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders"
 url: http://arxiv.org/abs/2605.27354v1
 type: paper-summary
 date: 2026-06-11

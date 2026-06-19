@@ -1,6 +1,6 @@
 ---
 
-title: Algorithmic Recourse of In-Context Learning for Tabular Data
+title: "Summary: Algorithmic Recourse of In-Context Learning for Tabular Data"
 url: http://arxiv.org/abs/2605.31272v1
 type: paper-summary
 date: 2026-06-11

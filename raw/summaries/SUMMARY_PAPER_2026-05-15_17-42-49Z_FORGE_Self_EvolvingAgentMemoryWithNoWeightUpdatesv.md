@@ -1,6 +1,6 @@
 ---
 
-title: "FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast"
+title: "Summary: FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast"
 url: http://arxiv.org/abs/2605.16233v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: Decision-focused learning for optimal PV-Battery scheduling
+title: "Summary: Decision-focused learning for optimal PV-Battery scheduling"
 url: http://arxiv.org/abs/2605.28340v1
 type: paper-summary
 date: 2026-06-11

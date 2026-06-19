@@ -1,6 +1,6 @@
 ---
 
-title: "ESIA: An Energy-Based Spatiotemporal Interaction-Aware Framework for Pedestrian Intention Prediction"
+title: "Summary: ESIA: An Energy-Based Spatiotemporal Interaction-Aware Framework for Pedestrian Intention Prediction"
 url: http://arxiv.org/abs/2604.23728v1
 type: paper-summary
 date: 2026-06-11

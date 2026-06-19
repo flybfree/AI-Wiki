@@ -1,6 +1,6 @@
 ---
 
-title: A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation
+title: "Summary: A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation"
 url: http://arxiv.org/abs/2605.16250v1
 type: paper-summary
 date: 2026-06-11

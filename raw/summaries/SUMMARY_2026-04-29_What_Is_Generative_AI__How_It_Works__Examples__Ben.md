@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 What Is Generative Ai How It Works Examples Ben"
+title: "Summary: Summary 2026 04 29 What Is Generative Ai How It Works Examples Ben"
 date: 2026-06-19
 tags: ['wiki']
 ---

@@ -1,6 +1,6 @@
 ---
 
-title: Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs
+title: "Summary: Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs"
 url: http://arxiv.org/abs/2606.12385v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "Survival Reinforcement Learning: Toward Scalable Self-Supervised RL"
+title: "Summary: Survival Reinforcement Learning: Toward Scalable Self-Supervised RL"
 url: http://arxiv.org/abs/2605.31273v1
 type: paper-summary
 date: 2026-06-11

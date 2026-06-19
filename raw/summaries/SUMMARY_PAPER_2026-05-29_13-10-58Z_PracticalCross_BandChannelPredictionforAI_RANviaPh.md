@@ -1,6 +1,6 @@
 ---
 
-title: Practical Cross-Band Channel Prediction for AI-RAN via Physics-Guided Deep Unfolding
+title: "Summary: Practical Cross-Band Channel Prediction for AI-RAN via Physics-Guided Deep Unfolding"
 url: http://arxiv.org/abs/2605.31279v1
 type: paper-summary
 date: 2026-06-11

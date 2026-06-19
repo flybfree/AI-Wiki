@@ -1,6 +1,6 @@
 ---
 
-title: "LLM-driven design of physics-constrained constitutive models: two agents are better than one"
+title: "Summary: LLM-driven design of physics-constrained constitutive models: two agents are better than one"
 url: http://arxiv.org/abs/2605.23754v1
 type: paper-summary
 date: 2026-06-11

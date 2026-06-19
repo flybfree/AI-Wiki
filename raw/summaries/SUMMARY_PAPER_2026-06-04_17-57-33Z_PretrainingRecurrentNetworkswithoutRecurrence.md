@@ -1,6 +1,6 @@
 ---
 
-title: Pretraining Recurrent Networks without Recurrence
+title: "Summary: Pretraining Recurrent Networks without Recurrence"
 url: http://arxiv.org/abs/2606.06479v1
 type: paper-summary
 date: 2026-06-11

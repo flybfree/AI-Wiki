@@ -1,6 +1,6 @@
 ---
 
-title: "DNQ: Deep Nash Q-Network for Partially Observable n-Player Games"
+title: "Summary: DNQ: Deep Nash Q-Network for Partially Observable n-Player Games"
 url: http://arxiv.org/abs/2606.06480v1
 type: paper-summary
 date: 2026-06-11

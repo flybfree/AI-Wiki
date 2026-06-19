@@ -1,6 +1,6 @@
 ---
 
-title: Quantum Global Variational Learning for Quantum Error Correction
+title: "Summary: Quantum Global Variational Learning for Quantum Error Correction"
 url: http://arxiv.org/abs/2606.08592v1
 type: paper-summary
 date: 2026-06-11

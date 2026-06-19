@@ -1,6 +1,6 @@
 ---
 
-title: A Horn extension of DL-Lite with NL data complexity
+title: "Summary: A Horn extension of DL-Lite with NL data complexity"
 url: http://arxiv.org/abs/2605.13367v1
 type: paper-summary
 date: 2026-06-11

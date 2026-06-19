@@ -1,6 +1,6 @@
 ---
 
-title: Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions
+title: "Summary: Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions"
 url: http://arxiv.org/abs/2605.23885v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization"
+title: "Summary: Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization"
 url: http://arxiv.org/abs/2605.11974v1
 type: paper-summary
 date: 2026-06-11

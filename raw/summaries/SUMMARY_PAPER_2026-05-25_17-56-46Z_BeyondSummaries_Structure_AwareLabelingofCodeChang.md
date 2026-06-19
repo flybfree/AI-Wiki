@@ -1,6 +1,6 @@
 ---
 
-title: "Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models"
+title: "Summary: Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models"
 url: http://arxiv.org/abs/2605.26100v1
 type: paper-summary
 date: 2026-06-11

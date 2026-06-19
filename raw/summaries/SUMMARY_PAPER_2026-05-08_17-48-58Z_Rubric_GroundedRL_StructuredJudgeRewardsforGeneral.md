@@ -1,6 +1,6 @@
 ---
 
-title: "Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning"
+title: "Summary: Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning"
 url: http://arxiv.org/abs/2605.08061v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control"
+title: "Summary: ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control"
 url: http://arxiv.org/abs/2604.20816v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration
+title: "Summary: Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration"
 url: http://arxiv.org/abs/2606.08596v1
 type: paper-summary
 date: 2026-06-11

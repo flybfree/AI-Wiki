@@ -1,6 +1,6 @@
 ---
 
-title: Long-term Power Grid Planning via Answer Set Programming
+title: "Summary: Long-term Power Grid Planning via Answer Set Programming"
 url: http://arxiv.org/abs/2605.20172v1
 type: paper-summary
 date: 2026-06-11

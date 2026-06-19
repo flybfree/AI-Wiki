@@ -1,6 +1,6 @@
 ---
 
-title: Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation
+title: "Summary: Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation"
 url: http://arxiv.org/abs/2606.12117v1
 type: paper-summary
 date: 2026-06-11

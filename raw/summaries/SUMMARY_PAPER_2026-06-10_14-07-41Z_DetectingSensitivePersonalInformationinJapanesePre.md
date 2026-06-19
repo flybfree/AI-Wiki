@@ -1,6 +1,6 @@
 ---
 
-title: Detecting Sensitive Personal Information in Japanese Pre-Training Corpora for Large Language Models
+title: "Summary: Detecting Sensitive Personal Information in Japanese Pre-Training Corpora for Large Language Models"
 url: http://arxiv.org/abs/2606.12114v1
 type: paper-summary
 date: 2026-06-11

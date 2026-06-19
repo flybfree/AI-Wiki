@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Generative Ai News Research And Analysis The Co"
+title: "Summary: Summary 2026 04 29 Generative Ai News Research And Analysis The Co"
 date: 2026-06-19
 tags: ['wiki']
 ---

@@ -1,6 +1,6 @@
 ---
 
-title: "On the Detection of Commutative Factors in Factor Graphs: Necessary and Sufficient Conditions"
+title: "Summary: On the Detection of Commutative Factors in Factor Graphs: Necessary and Sufficient Conditions"
 url: http://arxiv.org/abs/2605.26908v1
 type: paper-summary
 date: 2026-06-11

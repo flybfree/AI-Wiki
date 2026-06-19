@@ -1,6 +1,6 @@
 ---
 
-title: The physics of AI weather models
+title: "Summary: The physics of AI weather models"
 url: http://arxiv.org/abs/2605.23778v1
 type: paper-summary
 date: 2026-06-11

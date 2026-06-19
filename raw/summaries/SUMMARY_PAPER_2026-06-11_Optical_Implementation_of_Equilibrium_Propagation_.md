@@ -1,6 +1,6 @@
 ---
 
-title: Optical Implementation of Equilibrium Propagation Using Spatial Photonic Ising Machines
+title: "Summary: Optical Implementation of Equilibrium Propagation Using Spatial Photonic Ising Machines"
 url: http://arxiv.org/abs/2606.13454v1
 type: paper-summary
 date: 2026-06-11

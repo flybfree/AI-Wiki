@@ -1,6 +1,6 @@
 ---
 
-title: Algorithmic and Minimax Complexities in Kernel Bandits
+title: "Summary: Algorithmic and Minimax Complexities in Kernel Bandits"
 url: http://arxiv.org/abs/2606.11171v1
 type: paper-summary
 date: 2026-06-11

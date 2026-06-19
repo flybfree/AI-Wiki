@@ -1,6 +1,6 @@
 ---
 
-title: "AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Speech Translation Task"
+title: "Summary: AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Speech Translation Task"
 url: http://arxiv.org/abs/2606.03967v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: Evaluating Commercial AI Chatbots as News Intermediaries
+title: "Summary: Evaluating Commercial AI Chatbots as News Intermediaries"
 url: http://arxiv.org/abs/2605.22785v1
 type: paper-summary
 date: 2026-06-11

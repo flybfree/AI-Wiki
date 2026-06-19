@@ -1,6 +1,6 @@
 ---
 
-title: Transformer as an Euler Discretization of Score-based Variational Flow
+title: "Summary: Transformer as an Euler Discretization of Score-based Variational Flow"
 url: http://arxiv.org/abs/2604.23740v1
 type: paper-summary
 date: 2026-06-11

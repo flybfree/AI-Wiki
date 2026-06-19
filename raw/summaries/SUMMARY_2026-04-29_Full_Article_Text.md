@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Full Article Text"
+title: "Summary: Summary 2026 04 29 Full Article Text"
 date: 2026-06-19
 tags: ['wiki']
 ---

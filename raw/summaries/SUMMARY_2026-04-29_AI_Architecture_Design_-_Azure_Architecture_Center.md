@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Ai Architecture Design Azure Architecture Center"
+title: "Summary: Summary 2026 04 29 Ai Architecture Design Azure Architecture Center"
 date: 2026-06-19
 tags: ['wiki']
 ---

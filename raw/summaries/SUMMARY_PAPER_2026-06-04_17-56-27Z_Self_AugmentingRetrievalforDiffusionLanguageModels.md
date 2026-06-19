@@ -1,6 +1,6 @@
 ---
 
-title: Self-Augmenting Retrieval for Diffusion Language Models
+title: "Summary: Self-Augmenting Retrieval for Diffusion Language Models"
 url: http://arxiv.org/abs/2606.06474v1
 type: paper-summary
 date: 2026-06-11

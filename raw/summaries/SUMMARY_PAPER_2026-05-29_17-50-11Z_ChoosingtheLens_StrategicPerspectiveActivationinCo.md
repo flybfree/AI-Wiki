@@ -1,6 +1,6 @@
 ---
 
-title: "Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation"
+title: "Summary: Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation"
 url: http://arxiv.org/abs/2605.31581v1
 type: paper-summary
 date: 2026-06-11

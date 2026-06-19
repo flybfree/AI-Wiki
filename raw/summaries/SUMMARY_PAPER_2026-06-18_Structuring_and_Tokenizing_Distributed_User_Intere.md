@@ -1,6 +1,6 @@
 ---
 
-title: Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation
+title: "Summary: Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation"
 url: http://arxiv.org/abs/2606.20554v1
 type: paper-summary
 date: 2026-06-18

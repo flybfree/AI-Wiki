@@ -1,6 +1,6 @@
 ---
 
-title: Predictability as a Fine-Grained Measure for Privacy
+title: "Summary: Predictability as a Fine-Grained Measure for Privacy"
 url: http://arxiv.org/abs/2606.20546v1
 type: paper-summary
 date: 2026-06-18

@@ -1,6 +1,6 @@
 ---
 
-title: Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty
+title: "Summary: Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty"
 url: http://arxiv.org/abs/2605.26093v1
 type: paper-summary
 date: 2026-06-11

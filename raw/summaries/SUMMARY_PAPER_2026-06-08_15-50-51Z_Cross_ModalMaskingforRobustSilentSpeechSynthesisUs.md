@@ -1,6 +1,6 @@
 ---
 
-title: Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
+title: "Summary: Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading"
 url: http://arxiv.org/abs/2606.09667v1
 type: paper-summary
 date: 2026-06-11

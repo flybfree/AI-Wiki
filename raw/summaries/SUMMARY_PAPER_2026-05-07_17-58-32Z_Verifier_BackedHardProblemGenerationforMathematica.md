@@ -1,6 +1,6 @@
 ---
 
-title: Verifier-Backed Hard Problem Generation for Mathematical Reasoning
+title: "Summary: Verifier-Backed Hard Problem Generation for Mathematical Reasoning"
 url: http://arxiv.org/abs/2605.06660v1
 type: paper-summary
 date: 2026-06-11

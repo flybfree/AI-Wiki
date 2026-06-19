@@ -1,6 +1,6 @@
 ---
 
-title: Reinforcement Learning from Rich Feedback with Distributional DAgger
+title: "Summary: Reinforcement Learning from Rich Feedback with Distributional DAgger"
 url: http://arxiv.org/abs/2606.05152v1
 type: paper-summary
 date: 2026-06-11

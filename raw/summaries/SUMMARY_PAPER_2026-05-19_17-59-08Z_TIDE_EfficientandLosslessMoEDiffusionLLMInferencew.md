@@ -1,6 +1,6 @@
 ---
 
-title: "TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload"
+title: "Summary: TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload"
 url: http://arxiv.org/abs/2605.20179v1
 type: paper-summary
 date: 2026-06-11

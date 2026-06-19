@@ -1,6 +1,6 @@
 ---
 
-title: "Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation"
+title: "Summary: Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation"
 url: http://arxiv.org/abs/2606.02552v1
 type: paper-summary
 date: 2026-06-11

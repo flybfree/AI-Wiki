@@ -1,6 +1,6 @@
 ---
 
-title: "PhotoFlow: Agentic 3D Virtual Photography Missions"
+title: "Summary: PhotoFlow: Agentic 3D Virtual Photography Missions"
 url: http://arxiv.org/abs/2605.23771v1
 type: paper-summary
 date: 2026-06-11

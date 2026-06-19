@@ -1,6 +1,6 @@
 ---
 
-title: "Flow-OPD: On-Policy Distillation for Flow Matching Models"
+title: "Summary: Flow-OPD: On-Policy Distillation for Flow Matching Models"
 url: http://arxiv.org/abs/2605.08063v1
 type: paper-summary
 date: 2026-06-11

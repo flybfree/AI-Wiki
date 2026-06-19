@@ -1,6 +1,6 @@
 ---
 
-title: "CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Forest for Multivariate Time Series Anomaly Detection"
+title: "Summary: CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Forest for Multivariate Time Series Anomaly Detection"
 url: http://arxiv.org/abs/2606.13486v1
 type: paper-summary
 date: 2026-06-11

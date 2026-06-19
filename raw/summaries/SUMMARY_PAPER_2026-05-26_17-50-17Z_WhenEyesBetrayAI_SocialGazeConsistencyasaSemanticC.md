@@ -1,6 +1,6 @@
 ---
 
-title: "When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection"
+title: "Summary: When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection"
 url: http://arxiv.org/abs/2605.27348v1
 type: paper-summary
 date: 2026-06-11

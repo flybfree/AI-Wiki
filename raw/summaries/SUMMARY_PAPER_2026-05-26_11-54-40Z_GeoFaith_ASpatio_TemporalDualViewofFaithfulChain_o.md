@@ -1,6 +1,6 @@
 ---
 
-title: "GeoFaith: A Spatio-Temporal Dual View of Faithful Chain-of-Thought"
+title: "Summary: GeoFaith: A Spatio-Temporal Dual View of Faithful Chain-of-Thought"
 url: http://arxiv.org/abs/2605.26893v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "Diagnosing Knowledge Gaps in LLM Tool Use: An Agentic Benchmark for Novel API Acquisition"
+title: "Summary: Diagnosing Knowledge Gaps in LLM Tool Use: An Agentic Benchmark for Novel API Acquisition"
 url: http://arxiv.org/abs/2606.03657v1
 type: paper-summary
 date: 2026-06-11

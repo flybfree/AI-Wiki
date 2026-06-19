@@ -1,6 +1,6 @@
 ---
 
-title: Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion
+title: "Summary: Modulating Cross-Modal Convergence with Single-Stimulus, Intra-Modal Dispersion"
 url: http://arxiv.org/abs/2604.21836v1
 type: paper-summary
 date: 2026-06-11

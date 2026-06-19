@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Machine Learning Aws Architecture Center"
+title: "Summary: Summary 2026 04 29 Machine Learning Aws Architecture Center"
 date: 2026-06-19
 tags: ['wiki']
 ---

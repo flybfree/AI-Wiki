@@ -1,6 +1,6 @@
 ---
 
-title: Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection
+title: "Summary: Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection"
 url: http://arxiv.org/abs/2606.06481v1
 type: paper-summary
 date: 2026-06-11

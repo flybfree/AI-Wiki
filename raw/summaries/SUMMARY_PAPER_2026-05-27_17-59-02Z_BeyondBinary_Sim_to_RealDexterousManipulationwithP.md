@@ -1,6 +1,6 @@
 ---
 
-title: "Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation"
+title: "Summary: Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation"
 url: http://arxiv.org/abs/2605.28812v1
 type: paper-summary
 date: 2026-06-11

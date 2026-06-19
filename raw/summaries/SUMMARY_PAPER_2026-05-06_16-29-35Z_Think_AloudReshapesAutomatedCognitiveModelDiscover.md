@@ -1,6 +1,6 @@
 ---
 
-title: Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior
+title: "Summary: Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior"
 url: http://arxiv.org/abs/2605.05091v1
 type: paper-summary
 date: 2026-06-11

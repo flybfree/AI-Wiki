@@ -1,6 +1,6 @@
 ---
 
-title: Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations
+title: "Summary: Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations"
 url: http://arxiv.org/abs/2606.13464v1
 type: paper-summary
 date: 2026-06-11

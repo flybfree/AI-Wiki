@@ -1,6 +1,6 @@
 ---
 
-title: Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis
+title: "Summary: Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis"
 url: http://arxiv.org/abs/2605.10910v1
 type: paper-summary
 date: 2026-06-11

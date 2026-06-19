@@ -1,6 +1,6 @@
 ---
 
-title: Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics
+title: "Summary: Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics"
 url: http://arxiv.org/abs/2606.03982v1
 type: paper-summary
 date: 2026-06-11

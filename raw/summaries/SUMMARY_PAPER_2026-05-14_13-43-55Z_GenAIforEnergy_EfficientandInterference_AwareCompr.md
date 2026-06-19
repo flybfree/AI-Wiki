@@ -1,6 +1,6 @@
 ---
 
-title: GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU
+title: "Summary: GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU"
 url: http://arxiv.org/abs/2605.14839v1
 type: paper-summary
 date: 2026-06-11

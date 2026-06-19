@@ -1,6 +1,6 @@
 ---
 
-title: "SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery"
+title: "Summary: SyMTRS: Benchmark Multi-Task Synthetic Dataset for Depth, Domain Adaptation and Super-Resolution in Aerial Imagery"
 url: http://arxiv.org/abs/2604.21801v1
 type: paper-summary
 date: 2026-06-11

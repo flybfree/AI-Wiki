@@ -1,6 +1,6 @@
 ---
 
-title: Elastic Attention Cores for Scalable Vision Transformers
+title: "Summary: Elastic Attention Cores for Scalable Vision Transformers"
 url: http://arxiv.org/abs/2605.12491v1
 type: paper-summary
 date: 2026-06-11

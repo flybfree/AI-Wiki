@@ -1,6 +1,6 @@
 ---
 
-title: An effective variant of the Hartigan $k$-means algorithm
+title: "Summary: An effective variant of the Hartigan $k$-means algorithm"
 url: http://arxiv.org/abs/2604.21798v1
 type: paper-summary
 date: 2026-06-11

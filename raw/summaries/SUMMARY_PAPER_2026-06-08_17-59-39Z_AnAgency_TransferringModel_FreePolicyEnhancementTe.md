@@ -1,6 +1,6 @@
 ---
 
-title: An Agency-Transferring Model-Free Policy Enhancement Technique
+title: "Summary: An Agency-Transferring Model-Free Policy Enhancement Technique"
 url: http://arxiv.org/abs/2606.09825v1
 type: paper-summary
 date: 2026-06-11

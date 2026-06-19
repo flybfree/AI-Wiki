@@ -1,6 +1,6 @@
 ---
 
-title: A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry
+title: "Summary: A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry"
 url: http://arxiv.org/abs/2605.05095v1
 type: paper-summary
 date: 2026-06-11

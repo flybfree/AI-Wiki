@@ -1,6 +1,6 @@
 ---
 
-title: "InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs"
+title: "Summary: InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs"
 url: http://arxiv.org/abs/2606.08601v1
 type: paper-summary
 date: 2026-06-11

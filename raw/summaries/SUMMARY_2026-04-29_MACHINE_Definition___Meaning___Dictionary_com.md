@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Machine Definition Meaning Dictionary Com"
+title: "Summary: Summary 2026 04 29 Machine Definition Meaning Dictionary Com"
 date: 2026-06-19
 tags: ['wiki']
 ---

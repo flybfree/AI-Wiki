@@ -1,6 +1,6 @@
 ---
 
-title: VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading
+title: "Summary: VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading"
 url: http://arxiv.org/abs/2605.28818v1
 type: paper-summary
 date: 2026-06-11

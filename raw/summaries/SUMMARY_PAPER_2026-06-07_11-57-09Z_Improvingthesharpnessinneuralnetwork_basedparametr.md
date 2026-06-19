@@ -1,6 +1,6 @@
 ---
 
-title: Improving the sharpness in neural network-based parametric post-processing of ensemble forecasts
+title: "Summary: Improving the sharpness in neural network-based parametric post-processing of ensemble forecasts"
 url: http://arxiv.org/abs/2606.08587v1
 type: paper-summary
 date: 2026-06-11

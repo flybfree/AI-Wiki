@@ -1,6 +1,6 @@
 ---
 
-title: "OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration"
+title: "Summary: OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration"
 url: http://arxiv.org/abs/2605.28805v1
 type: paper-summary
 date: 2026-06-11

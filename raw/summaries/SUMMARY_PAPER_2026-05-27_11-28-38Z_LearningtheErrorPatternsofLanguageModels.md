@@ -1,6 +1,6 @@
 ---
 
-title: Learning the Error Patterns of Language Models
+title: "Summary: Learning the Error Patterns of Language Models"
 url: http://arxiv.org/abs/2605.28328v1
 type: paper-summary
 date: 2026-06-11

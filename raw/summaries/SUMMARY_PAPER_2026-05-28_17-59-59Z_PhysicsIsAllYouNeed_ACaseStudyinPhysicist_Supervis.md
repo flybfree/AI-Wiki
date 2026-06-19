@@ -1,6 +1,6 @@
 ---
 
-title: Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software
+title: "Summary: Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software"
 url: http://arxiv.org/abs/2605.30353v1
 type: paper-summary
 date: 2026-06-11

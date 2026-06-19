@@ -1,6 +1,6 @@
 ---
 
-title: "MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation"
+title: "Summary: MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation"
 url: http://arxiv.org/abs/2606.09677v1
 type: paper-summary
 date: 2026-06-11

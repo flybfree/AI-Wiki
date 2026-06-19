@@ -1,6 +1,6 @@
 ---
 
-title: Weighted universal approximation of differentiable maps on infinite-dimensional manifolds
+title: "Summary: Weighted universal approximation of differentiable maps on infinite-dimensional manifolds"
 url: http://arxiv.org/abs/2606.09820v1
 type: paper-summary
 date: 2026-06-11

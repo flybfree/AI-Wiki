@@ -1,6 +1,6 @@
 ---
 
-title: "SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation"
+title: "Summary: SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation"
 url: http://arxiv.org/abs/2606.02548v1
 type: paper-summary
 date: 2026-06-11

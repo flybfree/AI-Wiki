@@ -1,6 +1,6 @@
 ---
 
-title: "QDSB: Quantized Diffusion Schrödinger Bridges"
+title: "Summary: QDSB: Quantized Diffusion Schrödinger Bridges"
 url: http://arxiv.org/abs/2605.11983v1
 type: paper-summary
 date: 2026-06-11

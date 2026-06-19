@@ -1,6 +1,6 @@
 ---
 
-title: Relaxation-Informed Training of Neural Network Surrogate Models
+title: "Summary: Relaxation-Informed Training of Neural Network Surrogate Models"
 url: http://arxiv.org/abs/2604.22746v1
 type: paper-summary
 date: 2026-06-11

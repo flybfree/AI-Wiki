@@ -1,6 +1,6 @@
 ---
 
-title: Causally Evaluating the Learnability of Formal Language Tasks
+title: "Summary: Causally Evaluating the Learnability of Formal Language Tasks"
 url: http://arxiv.org/abs/2606.09822v1
 type: paper-summary
 date: 2026-06-11

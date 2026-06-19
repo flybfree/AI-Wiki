@@ -1,6 +1,6 @@
 ---
 
-title: Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models
+title: "Summary: Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models"
 url: http://arxiv.org/abs/2605.22795v1
 type: paper-summary
 date: 2026-06-11

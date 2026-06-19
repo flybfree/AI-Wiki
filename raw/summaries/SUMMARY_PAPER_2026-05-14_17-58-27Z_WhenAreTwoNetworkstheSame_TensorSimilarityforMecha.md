@@ -1,6 +1,6 @@
 ---
 
-title: When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability
+title: "Summary: When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability"
 url: http://arxiv.org/abs/2605.15183v1
 type: paper-summary
 date: 2026-06-11

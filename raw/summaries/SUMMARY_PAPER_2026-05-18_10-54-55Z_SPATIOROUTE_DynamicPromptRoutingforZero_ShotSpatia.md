@@ -1,6 +1,6 @@
 ---
 
-title: "SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning"
+title: "Summary: SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning"
 url: http://arxiv.org/abs/2605.18209v1
 type: paper-summary
 date: 2026-06-11

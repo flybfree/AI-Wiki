@@ -1,6 +1,6 @@
 ---
 
-title: "BAMI: Training-Free Bias Mitigation in GUI Grounding"
+title: "Summary: BAMI: Training-Free Bias Mitigation in GUI Grounding"
 url: http://arxiv.org/abs/2605.06664v1
 type: paper-summary
 date: 2026-06-11

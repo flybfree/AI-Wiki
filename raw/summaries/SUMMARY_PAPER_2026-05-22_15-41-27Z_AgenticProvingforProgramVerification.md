@@ -1,6 +1,6 @@
 ---
 
-title: Agentic Proving for Program Verification
+title: "Summary: Agentic Proving for Program Verification"
 url: http://arxiv.org/abs/2605.23772v1
 type: paper-summary
 date: 2026-06-11

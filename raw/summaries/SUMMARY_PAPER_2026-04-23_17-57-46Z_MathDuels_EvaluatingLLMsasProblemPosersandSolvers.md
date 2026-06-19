@@ -1,6 +1,6 @@
 ---
 
-title: "MathDuels: Evaluating LLMs as Problem Posers and Solvers"
+title: "Summary: MathDuels: Evaluating LLMs as Problem Posers and Solvers"
 url: http://arxiv.org/abs/2604.21916v1
 type: paper-summary
 date: 2026-06-11

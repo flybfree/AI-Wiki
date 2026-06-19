@@ -1,6 +1,6 @@
 ---
 
-title: "Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models"
+title: "Summary: Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models"
 url: http://arxiv.org/abs/2605.23893v1
 type: paper-summary
 date: 2026-06-11

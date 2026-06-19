@@ -1,6 +1,6 @@
 ---
 
-title: "EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery"
+title: "Summary: EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery"
 url: http://arxiv.org/abs/2606.13662v1
 type: paper-summary
 date: 2026-06-11

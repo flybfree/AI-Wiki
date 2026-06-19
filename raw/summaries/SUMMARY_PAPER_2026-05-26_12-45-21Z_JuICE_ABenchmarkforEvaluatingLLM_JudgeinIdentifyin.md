@@ -1,6 +1,6 @@
 ---
 
-title: "JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors"
+title: "Summary: JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors"
 url: http://arxiv.org/abs/2605.26955v1
 type: paper-summary
 date: 2026-06-11

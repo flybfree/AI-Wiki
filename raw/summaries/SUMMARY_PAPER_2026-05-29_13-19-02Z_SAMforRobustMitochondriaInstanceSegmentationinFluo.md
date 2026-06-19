@@ -1,6 +1,6 @@
 ---
 
-title: SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy
+title: "Summary: SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy"
 url: http://arxiv.org/abs/2605.31284v1
 type: paper-summary
 date: 2026-06-11

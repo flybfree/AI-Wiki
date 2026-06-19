@@ -1,6 +1,6 @@
 ---
 
-title: "CRAX: Fast Safe Reinforcement Learning Benchmarking"
+title: "Summary: CRAX: Fast Safe Reinforcement Learning Benchmarking"
 url: http://arxiv.org/abs/2606.20376v1
 type: paper-summary
 date: 2026-06-18

@@ -1,6 +1,6 @@
 ---
 
-title: How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech
+title: "Summary: How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech"
 url: http://arxiv.org/abs/2606.20532v1
 type: paper-summary
 date: 2026-06-18

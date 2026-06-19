@@ -1,6 +1,6 @@
 ---
 
-title: Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data
+title: "Summary: Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data"
 url: http://arxiv.org/abs/2604.22730v1
 type: paper-summary
 date: 2026-06-11

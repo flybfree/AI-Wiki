@@ -1,6 +1,6 @@
 ---
 
-title: "Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL"
+title: "Summary: Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL"
 url: http://arxiv.org/abs/2604.20835v1
 type: paper-summary
 date: 2026-06-11

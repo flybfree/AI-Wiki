@@ -1,6 +1,6 @@
 ---
 
-title: "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding"
+title: "Summary: LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding"
 url: http://arxiv.org/abs/2605.27365v1
 type: paper-summary
 date: 2026-06-11

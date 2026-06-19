@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Architectures For Machine Learning Springer Natu"
+title: "Summary: Summary 2026 04 29 Architectures For Machine Learning Springer Natu"
 date: 2026-06-19
 tags: ['wiki']
 ---

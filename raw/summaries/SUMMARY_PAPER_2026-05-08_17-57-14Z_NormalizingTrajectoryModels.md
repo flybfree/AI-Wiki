@@ -1,6 +1,6 @@
 ---
 
-title: Normalizing Trajectory Models
+title: "Summary: Normalizing Trajectory Models"
 url: http://arxiv.org/abs/2605.08078v1
 type: paper-summary
 date: 2026-06-11

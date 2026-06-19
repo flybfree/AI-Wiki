@@ -1,6 +1,6 @@
 ---
 
-title: What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models
+title: "Summary: What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models"
 url: http://arxiv.org/abs/2605.18738v1
 type: paper-summary
 date: 2026-06-11

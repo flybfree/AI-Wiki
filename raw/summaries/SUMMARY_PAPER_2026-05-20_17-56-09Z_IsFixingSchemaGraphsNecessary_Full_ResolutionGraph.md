@@ -1,6 +1,6 @@
 ---
 
-title: Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning
+title: "Summary: Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning"
 url: http://arxiv.org/abs/2605.21475v1
 type: paper-summary
 date: 2026-06-11

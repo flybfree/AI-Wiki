@@ -1,6 +1,6 @@
 ---
 
-title: "SPACENUM: Revisiting Spatial Numerical Understanding in VLMs"
+title: "Summary: SPACENUM: Revisiting Spatial Numerical Understanding in VLMs"
 url: http://arxiv.org/abs/2605.23898v1
 type: paper-summary
 date: 2026-06-11

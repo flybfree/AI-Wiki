@@ -1,6 +1,6 @@
 ---
 
-title: "ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both"
+title: "Summary: ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both"
 url: http://arxiv.org/abs/2605.15198v1
 type: paper-summary
 date: 2026-06-11

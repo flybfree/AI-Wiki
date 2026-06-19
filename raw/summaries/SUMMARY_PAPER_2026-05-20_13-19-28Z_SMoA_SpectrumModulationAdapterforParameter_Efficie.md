@@ -1,6 +1,6 @@
 ---
 
-title: "SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning"
+title: "Summary: SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning"
 url: http://arxiv.org/abs/2605.21147v1
 type: paper-summary
 date: 2026-06-11

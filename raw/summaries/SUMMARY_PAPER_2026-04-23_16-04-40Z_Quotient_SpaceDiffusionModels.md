@@ -1,6 +1,6 @@
 ---
 
-title: Quotient-Space Diffusion Models
+title: "Summary: Quotient-Space Diffusion Models"
 url: http://arxiv.org/abs/2604.21809v1
 type: paper-summary
 date: 2026-06-11

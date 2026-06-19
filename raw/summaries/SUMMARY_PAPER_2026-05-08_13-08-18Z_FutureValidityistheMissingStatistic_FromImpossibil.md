@@ -1,6 +1,6 @@
 ---
 
-title: "Future Validity is the Missing Statistic: From Impossibility to $Φ$-Estimation for Grammar-Faithful Speculative Decoding"
+title: "Summary: Future Validity is the Missing Statistic: From Impossibility to $Φ$-Estimation for Grammar-Faithful Speculative Decoding"
 url: http://arxiv.org/abs/2605.07698v1
 type: paper-summary
 date: 2026-06-11

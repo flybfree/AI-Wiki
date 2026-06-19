@@ -1,6 +1,6 @@
 ---
 
-title: "Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series"
+title: "Summary: Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series"
 url: http://arxiv.org/abs/2605.23744v1
 type: paper-summary
 date: 2026-06-11

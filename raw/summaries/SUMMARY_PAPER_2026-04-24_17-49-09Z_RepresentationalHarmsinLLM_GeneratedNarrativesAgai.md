@@ -1,6 +1,6 @@
 ---
 
-title: Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities
+title: "Summary: Representational Harms in LLM-Generated Narratives Against Global Majority Nationalities"
 url: http://arxiv.org/abs/2604.22749v1
 type: paper-summary
 date: 2026-06-11

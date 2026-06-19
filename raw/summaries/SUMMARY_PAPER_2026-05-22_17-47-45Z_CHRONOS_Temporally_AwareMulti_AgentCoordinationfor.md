@@ -1,6 +1,6 @@
 ---
 
-title: "CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces"
+title: "Summary: CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces"
 url: http://arxiv.org/abs/2605.23887v1
 type: paper-summary
 date: 2026-06-11

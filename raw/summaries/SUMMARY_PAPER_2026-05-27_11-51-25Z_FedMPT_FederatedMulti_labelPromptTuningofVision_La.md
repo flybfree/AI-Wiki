@@ -1,6 +1,6 @@
 ---
 
-title: "FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models"
+title: "Summary: FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models"
 url: http://arxiv.org/abs/2605.28347v1
 type: paper-summary
 date: 2026-06-11

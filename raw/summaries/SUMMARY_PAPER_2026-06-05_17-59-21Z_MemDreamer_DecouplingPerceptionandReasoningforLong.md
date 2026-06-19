@@ -1,6 +1,6 @@
 ---
 
-title: "MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism"
+title: "Summary: MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism"
 url: http://arxiv.org/abs/2606.07512v1
 type: paper-summary
 date: 2026-06-11

@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Inside The Ai Index 12 Takeaways From The 2026 Re"
+title: "Summary: Summary 2026 04 29 Inside The Ai Index 12 Takeaways From The 2026 Re"
 date: 2026-06-19
 tags: ['wiki']
 ---

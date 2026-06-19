@@ -1,6 +1,6 @@
 ---
 
-title: Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models
+title: "Summary: Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models"
 url: http://arxiv.org/abs/2605.18202v1
 type: paper-summary
 date: 2026-06-11

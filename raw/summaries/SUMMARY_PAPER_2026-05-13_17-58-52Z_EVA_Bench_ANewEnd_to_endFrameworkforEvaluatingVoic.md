@@ -1,6 +1,6 @@
 ---
 
-title: "EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents"
+title: "Summary: EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents"
 url: http://arxiv.org/abs/2605.13841v1
 type: paper-summary
 date: 2026-06-11

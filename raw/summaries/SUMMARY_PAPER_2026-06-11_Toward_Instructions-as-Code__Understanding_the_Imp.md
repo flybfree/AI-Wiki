@@ -1,6 +1,6 @@
 ---
 
-title: "Toward Instructions-as-Code: Understanding the Impact of Instruction Files on Agentic Pull Requests"
+title: "Summary: Toward Instructions-as-Code: Understanding the Impact of Instruction Files on Agentic Pull Requests"
 url: http://arxiv.org/abs/2606.13449v1
 type: paper-summary
 date: 2026-06-11

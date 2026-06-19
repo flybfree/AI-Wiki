@@ -1,6 +1,6 @@
 ---
 
-title: "DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?"
+title: "Summary: DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?"
 url: http://arxiv.org/abs/2606.12402v1
 type: paper-summary
 date: 2026-06-11

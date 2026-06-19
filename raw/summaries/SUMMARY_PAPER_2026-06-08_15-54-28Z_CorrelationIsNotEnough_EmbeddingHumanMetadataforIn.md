@@ -1,6 +1,6 @@
 ---
 
-title: "Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery"
+title: "Summary: Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery"
 url: http://arxiv.org/abs/2606.09672v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving"
+title: "Summary: MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving"
 url: http://arxiv.org/abs/2605.26959v1
 type: paper-summary
 date: 2026-06-11

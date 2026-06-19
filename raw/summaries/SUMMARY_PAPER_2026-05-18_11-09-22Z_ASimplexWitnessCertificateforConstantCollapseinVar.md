@@ -1,6 +1,6 @@
 ---
 
-title: A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders
+title: "Summary: A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders"
 url: http://arxiv.org/abs/2605.18224v1
 type: paper-summary
 date: 2026-06-11

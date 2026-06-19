@@ -1,6 +1,6 @@
 ---
 
-title: Bayesian Fine-tuning in Projected Subspaces
+title: "Summary: Bayesian Fine-tuning in Projected Subspaces"
 url: http://arxiv.org/abs/2605.07706v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges"
+title: "Summary: CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges"
 url: http://arxiv.org/abs/2606.20369v1
 type: paper-summary
 date: 2026-06-18

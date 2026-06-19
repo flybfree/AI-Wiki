@@ -1,6 +1,6 @@
 ---
 
-title: Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors
+title: "Summary: Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors"
 url: http://arxiv.org/abs/2606.19325v1
 type: paper-summary
 date: 2026-06-17

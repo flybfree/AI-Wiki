@@ -1,6 +1,6 @@
 ---
 
-title: Regret Minimization with Adaptive Opponents in Repeated Games
+title: "Summary: Regret Minimization with Adaptive Opponents in Repeated Games"
 url: http://arxiv.org/abs/2606.06486v1
 type: paper-summary
 date: 2026-06-11

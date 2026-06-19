@@ -1,6 +1,6 @@
 ---
 
-title: "Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories"
+title: "Summary: Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories"
 url: http://arxiv.org/abs/2606.03979v1
 type: paper-summary
 date: 2026-06-11

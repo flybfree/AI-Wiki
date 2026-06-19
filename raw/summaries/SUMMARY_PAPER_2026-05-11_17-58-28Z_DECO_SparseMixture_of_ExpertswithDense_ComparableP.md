@@ -1,6 +1,6 @@
 ---
 
-title: "DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices"
+title: "Summary: DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices"
 url: http://arxiv.org/abs/2605.10933v1
 type: paper-summary
 date: 2026-06-11

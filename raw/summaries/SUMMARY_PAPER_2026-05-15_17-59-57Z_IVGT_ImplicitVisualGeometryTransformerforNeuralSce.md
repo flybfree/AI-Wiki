@@ -1,6 +1,6 @@
 ---
 
-title: "IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation"
+title: "Summary: IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation"
 url: http://arxiv.org/abs/2605.16258v1
 type: paper-summary
 date: 2026-06-11

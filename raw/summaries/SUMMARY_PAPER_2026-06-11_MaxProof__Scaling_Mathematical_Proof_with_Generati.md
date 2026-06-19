@@ -1,6 +1,6 @@
 ---
 
-title: "MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling"
+title: "Summary: MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling"
 url: http://arxiv.org/abs/2606.13473v1
 type: paper-summary
 date: 2026-06-11

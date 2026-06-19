@@ -1,6 +1,6 @@
 ---
 
-title: Topology-Preserving Neural Operator Learning via Hodge Decomposition
+title: "Summary: Topology-Preserving Neural Operator Learning via Hodge Decomposition"
 url: http://arxiv.org/abs/2605.13834v1
 type: paper-summary
 date: 2026-06-11

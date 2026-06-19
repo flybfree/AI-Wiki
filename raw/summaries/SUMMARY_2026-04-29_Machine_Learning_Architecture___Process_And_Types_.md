@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Machine Learning Architecture Process And Types"
+title: "Summary: Summary 2026 04 29 Machine Learning Architecture Process And Types"
 date: 2026-06-19
 tags: ['wiki']
 ---

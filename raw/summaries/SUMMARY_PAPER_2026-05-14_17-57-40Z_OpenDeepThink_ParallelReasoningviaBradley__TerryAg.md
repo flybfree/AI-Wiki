@@ -1,6 +1,6 @@
 ---
 
-title: "OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation"
+title: "Summary: OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation"
 url: http://arxiv.org/abs/2605.15177v1
 type: paper-summary
 date: 2026-06-11

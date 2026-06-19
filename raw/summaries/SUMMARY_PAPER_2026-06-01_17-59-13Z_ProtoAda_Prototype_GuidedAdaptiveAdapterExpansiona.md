@@ -1,6 +1,6 @@
 ---
 
-title: "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning"
+title: "Summary: ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning"
 url: http://arxiv.org/abs/2606.02576v1
 type: paper-summary
 date: 2026-06-11

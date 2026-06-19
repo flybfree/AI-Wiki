@@ -1,6 +1,6 @@
 ---
 
-title: "UniPool: A Globally Shared Expert Pool for Mixture-of-Experts"
+title: "Summary: UniPool: A Globally Shared Expert Pool for Mixture-of-Experts"
 url: http://arxiv.org/abs/2605.06665v1
 type: paper-summary
 date: 2026-06-11

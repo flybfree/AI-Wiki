@@ -1,6 +1,6 @@
 ---
 
-title: "QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards"
+title: "Summary: QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards"
 url: http://arxiv.org/abs/2606.03968v1
 type: paper-summary
 date: 2026-06-11

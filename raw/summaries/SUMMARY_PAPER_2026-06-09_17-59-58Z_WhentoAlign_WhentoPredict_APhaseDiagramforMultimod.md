@@ -1,6 +1,6 @@
 ---
 
-title: "When to Align, When to Predict: A Phase Diagram for Multimodal Learning"
+title: "Summary: When to Align, When to Predict: A Phase Diagram for Multimodal Learning"
 url: http://arxiv.org/abs/2606.11190v1
 type: paper-summary
 date: 2026-06-11

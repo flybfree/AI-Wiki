@@ -1,6 +1,6 @@
 ---
 
-title: "nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding"
+title: "Summary: nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding"
 url: http://arxiv.org/abs/2606.12146v1
 type: paper-summary
 date: 2026-06-11

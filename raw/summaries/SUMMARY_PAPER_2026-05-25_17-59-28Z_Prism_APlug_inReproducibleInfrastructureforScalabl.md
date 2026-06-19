@@ -1,6 +1,6 @@
 ---
 
-title: "Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning"
+title: "Summary: Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning"
 url: http://arxiv.org/abs/2605.26110v1
 type: paper-summary
 date: 2026-06-11

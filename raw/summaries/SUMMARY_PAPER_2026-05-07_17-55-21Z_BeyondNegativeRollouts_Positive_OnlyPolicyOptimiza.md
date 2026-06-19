@@ -1,6 +1,6 @@
 ---
 
-title: "Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients"
+title: "Summary: Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients"
 url: http://arxiv.org/abs/2605.06650v1
 type: paper-summary
 date: 2026-06-11

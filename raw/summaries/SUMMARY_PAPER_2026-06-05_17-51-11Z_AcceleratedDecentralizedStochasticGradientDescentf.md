@@ -1,6 +1,6 @@
 ---
 
-title: Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization
+title: "Summary: Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization"
 url: http://arxiv.org/abs/2606.07496v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: Variance Reduction for Expectations with Diffusion Teachers
+title: "Summary: Variance Reduction for Expectations with Diffusion Teachers"
 url: http://arxiv.org/abs/2605.21489v1
 type: paper-summary
 date: 2026-06-11

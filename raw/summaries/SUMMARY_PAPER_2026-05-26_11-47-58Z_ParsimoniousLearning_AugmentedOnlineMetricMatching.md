@@ -1,6 +1,6 @@
 ---
 
-title: Parsimonious Learning-Augmented Online Metric Matching
+title: "Summary: Parsimonious Learning-Augmented Online Metric Matching"
 url: http://arxiv.org/abs/2605.26886v1
 type: paper-summary
 date: 2026-06-11

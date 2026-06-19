@@ -1,6 +1,6 @@
 ---
 
-title: "Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting"
+title: "Summary: Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting"
 url: http://arxiv.org/abs/2606.09809v1
 type: paper-summary
 date: 2026-06-11

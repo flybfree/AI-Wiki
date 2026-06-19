@@ -1,6 +1,6 @@
 ---
 
-title: "A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation"
+title: "Summary: A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation"
 url: http://arxiv.org/abs/2605.16232v1
 type: paper-summary
 date: 2026-06-11

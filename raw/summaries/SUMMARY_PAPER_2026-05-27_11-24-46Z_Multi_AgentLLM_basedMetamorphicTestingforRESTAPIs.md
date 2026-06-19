@@ -1,6 +1,6 @@
 ---
 
-title: Multi-Agent LLM-based Metamorphic Testing for REST APIs
+title: "Summary: Multi-Agent LLM-based Metamorphic Testing for REST APIs"
 url: http://arxiv.org/abs/2605.28321v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents"
+title: "Summary: ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents"
 url: http://arxiv.org/abs/2606.02568v1
 type: paper-summary
 date: 2026-06-11

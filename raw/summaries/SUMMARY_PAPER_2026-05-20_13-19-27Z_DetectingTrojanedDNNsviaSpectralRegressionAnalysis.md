@@ -1,6 +1,6 @@
 ---
 
-title: Detecting Trojaned DNNs via Spectral Regression Analysis
+title: "Summary: Detecting Trojaned DNNs via Spectral Regression Analysis"
 url: http://arxiv.org/abs/2605.21146v1
 type: paper-summary
 date: 2026-06-11

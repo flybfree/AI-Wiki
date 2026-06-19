@@ -1,6 +1,6 @@
 ---
 
-title: "HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents"
+title: "Summary: HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents"
 url: http://arxiv.org/abs/2606.13663v1
 type: paper-summary
 date: 2026-06-11

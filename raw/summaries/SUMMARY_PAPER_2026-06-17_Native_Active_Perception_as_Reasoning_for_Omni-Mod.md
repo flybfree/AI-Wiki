@@ -1,6 +1,6 @@
 ---
 
-title: Native Active Perception as Reasoning for Omni-Modal Understanding
+title: "Summary: Native Active Perception as Reasoning for Omni-Modal Understanding"
 url: http://arxiv.org/abs/2606.19341v1
 type: paper-summary
 date: 2026-06-17

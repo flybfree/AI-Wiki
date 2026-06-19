@@ -1,6 +1,6 @@
 ---
 
-title: "DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention"
+title: "Summary: DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention"
 url: http://arxiv.org/abs/2605.18753v1
 type: paper-summary
 date: 2026-06-11

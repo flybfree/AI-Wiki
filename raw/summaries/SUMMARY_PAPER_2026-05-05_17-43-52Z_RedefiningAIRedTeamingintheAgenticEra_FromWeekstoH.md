@@ -1,6 +1,6 @@
 ---
 
-title: "Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours"
+title: "Summary: Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours"
 url: http://arxiv.org/abs/2605.04019v1
 type: paper-summary
 date: 2026-06-11

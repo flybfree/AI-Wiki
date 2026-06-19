@@ -1,6 +1,6 @@
 ---
 
-title: "ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents"
+title: "Summary: ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents"
 url: http://arxiv.org/abs/2605.12481v1
 type: paper-summary
 date: 2026-06-11

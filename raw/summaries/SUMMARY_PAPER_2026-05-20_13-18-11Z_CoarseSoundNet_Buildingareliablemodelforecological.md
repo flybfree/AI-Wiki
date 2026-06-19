@@ -1,6 +1,6 @@
 ---
 
-title: "CoarseSoundNet: Building a reliable model for ecological soundscape analysis"
+title: "Summary: CoarseSoundNet: Building a reliable model for ecological soundscape analysis"
 url: http://arxiv.org/abs/2605.21143v1
 type: paper-summary
 date: 2026-06-11

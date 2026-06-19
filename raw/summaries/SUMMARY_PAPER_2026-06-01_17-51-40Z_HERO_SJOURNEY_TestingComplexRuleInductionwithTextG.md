@@ -1,6 +1,6 @@
 ---
 
-title: "HERO'S JOURNEY: Testing Complex Rule Induction with Text Games"
+title: "Summary: HERO'S JOURNEY: Testing Complex Rule Induction with Text Games"
 url: http://arxiv.org/abs/2606.02556v1
 type: paper-summary
 date: 2026-06-11

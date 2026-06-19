@@ -1,6 +1,6 @@
 ---
 
-title: Proximal Projection for Doubly Sparse Regularized Models
+title: "Summary: Proximal Projection for Doubly Sparse Regularized Models"
 url: http://arxiv.org/abs/2605.05093v1
 type: paper-summary
 date: 2026-06-11

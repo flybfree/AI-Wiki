@@ -1,6 +1,6 @@
 ---
 
-title: "LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems"
+title: "Summary: LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems"
 url: http://arxiv.org/abs/2605.22786v1
 type: paper-summary
 date: 2026-06-11

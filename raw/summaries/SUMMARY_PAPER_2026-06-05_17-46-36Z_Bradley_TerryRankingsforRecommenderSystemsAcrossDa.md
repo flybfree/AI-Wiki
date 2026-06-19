@@ -1,6 +1,6 @@
 ---
 
-title: Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies
+title: "Summary: Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies"
 url: http://arxiv.org/abs/2606.07492v1
 type: paper-summary
 date: 2026-06-11

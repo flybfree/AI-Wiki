@@ -1,6 +1,6 @@
 ---
 
-title: "MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems"
+title: "Summary: MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems"
 url: http://arxiv.org/abs/2605.22794v1
 type: paper-summary
 date: 2026-06-11

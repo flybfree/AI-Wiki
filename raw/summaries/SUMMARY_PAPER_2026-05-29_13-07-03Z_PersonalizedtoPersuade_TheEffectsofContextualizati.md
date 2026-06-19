@@ -1,6 +1,6 @@
 ---
 
-title: "Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI"
+title: "Summary: Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI"
 url: http://arxiv.org/abs/2605.31275v1
 type: paper-summary
 date: 2026-06-11

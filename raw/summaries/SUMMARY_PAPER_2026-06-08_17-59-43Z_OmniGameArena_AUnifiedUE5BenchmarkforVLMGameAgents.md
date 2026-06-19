@@ -1,6 +1,6 @@
 ---
 
-title: "OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics"
+title: "Summary: OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics"
 url: http://arxiv.org/abs/2606.09826v1
 type: paper-summary
 date: 2026-06-11

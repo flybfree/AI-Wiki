@@ -1,6 +1,6 @@
 ---
 
-title: Predicting Future Behaviors in Reasoning Models Enables Better Steering
+title: "Summary: Predicting Future Behaviors in Reasoning Models Enables Better Steering"
 url: http://arxiv.org/abs/2606.11172v1
 type: paper-summary
 date: 2026-06-11

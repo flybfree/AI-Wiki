@@ -1,6 +1,6 @@
 ---
 
-title: "Order Matters: Improving Domain Adaptation by Reordering Data"
+title: "Summary: Order Matters: Improving Domain Adaptation by Reordering Data"
 url: http://arxiv.org/abs/2605.05084v1
 type: paper-summary
 date: 2026-06-11

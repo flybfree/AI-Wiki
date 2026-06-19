@@ -1,6 +1,6 @@
 ---
 
-title: "Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs"
+title: "Summary: Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs"
 url: http://arxiv.org/abs/2606.08605v1
 type: paper-summary
 date: 2026-06-11

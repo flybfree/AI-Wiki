@@ -1,6 +1,6 @@
 ---
 
-title: "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond"
+title: "Summary: Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond"
 url: http://arxiv.org/abs/2604.22748v1
 type: paper-summary
 date: 2026-06-11

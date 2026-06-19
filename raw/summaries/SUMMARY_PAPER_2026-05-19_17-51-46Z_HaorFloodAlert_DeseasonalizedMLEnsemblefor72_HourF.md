@@ -1,6 +1,6 @@
 ---
 
-title: "HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands"
+title: "Summary: HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands"
 url: http://arxiv.org/abs/2605.20167v1
 type: paper-summary
 date: 2026-06-11

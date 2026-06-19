@@ -1,6 +1,6 @@
 ---
 
-title: Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation
+title: "Summary: Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation"
 url: http://arxiv.org/abs/2605.26111v1
 type: paper-summary
 date: 2026-06-11

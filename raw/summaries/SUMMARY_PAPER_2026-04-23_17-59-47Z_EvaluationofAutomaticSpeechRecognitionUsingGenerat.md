@@ -1,6 +1,6 @@
 ---
 
-title: Evaluation of Automatic Speech Recognition Using Generative Large Language Models
+title: "Summary: Evaluation of Automatic Speech Recognition Using Generative Large Language Models"
 url: http://arxiv.org/abs/2604.21928v1
 type: paper-summary
 date: 2026-06-11

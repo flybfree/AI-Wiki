@@ -1,6 +1,6 @@
 ---
 
-title: Twelve quick tips for designing AI-driven HPC workflows
+title: "Summary: Twelve quick tips for designing AI-driven HPC workflows"
 url: http://arxiv.org/abs/2606.07491v1
 type: paper-summary
 date: 2026-06-11

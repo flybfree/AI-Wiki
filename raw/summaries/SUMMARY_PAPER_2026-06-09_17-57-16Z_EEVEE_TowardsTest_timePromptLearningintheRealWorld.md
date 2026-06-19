@@ -1,6 +1,6 @@
 ---
 
-title: "EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents"
+title: "Summary: EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents"
 url: http://arxiv.org/abs/2606.11182v1
 type: paper-summary
 date: 2026-06-11

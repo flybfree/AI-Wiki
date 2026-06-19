@@ -1,6 +1,6 @@
 ---
 
-title: "Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster"
+title: "Summary: Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster"
 url: http://arxiv.org/abs/2605.18204v1
 type: paper-summary
 date: 2026-06-11

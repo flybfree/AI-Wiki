@@ -1,6 +1,6 @@
 ---
 
-title: "SkillOpt: Executive Strategy for Self-Evolving Agent Skills"
+title: "Summary: SkillOpt: Executive Strategy for Self-Evolving Agent Skills"
 url: http://arxiv.org/abs/2605.23904v1
 type: paper-summary
 date: 2026-06-11

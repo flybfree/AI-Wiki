@@ -1,6 +1,6 @@
 ---
 
-title: "DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation"
+title: "Summary: DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation"
 url: http://arxiv.org/abs/2605.21482v1
 type: paper-summary
 date: 2026-06-11

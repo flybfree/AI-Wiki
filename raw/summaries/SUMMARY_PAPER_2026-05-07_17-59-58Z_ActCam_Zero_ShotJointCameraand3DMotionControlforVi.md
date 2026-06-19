@@ -1,6 +1,6 @@
 ---
 
-title: "ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation"
+title: "Summary: ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation"
 url: http://arxiv.org/abs/2605.06667v1
 type: paper-summary
 date: 2026-06-11

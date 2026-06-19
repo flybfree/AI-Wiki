@@ -1,6 +1,6 @@
 ---
 
-title: "Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders"
+title: "Summary: Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders"
 url: http://arxiv.org/abs/2606.12138v1
 type: paper-summary
 date: 2026-06-11

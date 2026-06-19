@@ -1,6 +1,6 @@
 ---
 
-title: "IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification"
+title: "Summary: IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification"
 url: http://arxiv.org/abs/2605.14851v1
 type: paper-summary
 date: 2026-06-11

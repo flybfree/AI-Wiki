@@ -1,6 +1,6 @@
 ---
 
-title: How Much Capacity Does EEG Denoising Need? Ultra-Compact Networks reveal Benchmark Saturation and Metric-Utility Gap
+title: "Summary: How Much Capacity Does EEG Denoising Need? Ultra-Compact Networks reveal Benchmark Saturation and Metric-Utility Gap"
 url: http://arxiv.org/abs/2606.08594v1
 type: paper-summary
 date: 2026-06-11

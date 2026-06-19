@@ -1,6 +1,6 @@
 ---
 
-title: "SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations"
+title: "Summary: SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations"
 url: http://arxiv.org/abs/2605.30345v1
 type: paper-summary
 date: 2026-06-11

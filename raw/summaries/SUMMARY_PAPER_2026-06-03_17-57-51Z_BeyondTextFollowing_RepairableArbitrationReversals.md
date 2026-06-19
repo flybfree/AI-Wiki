@@ -1,6 +1,6 @@
 ---
 
-title: "Beyond Text Following: Repairable Arbitration Reversals in Audio-Language Models"
+title: "Summary: Beyond Text Following: Repairable Arbitration Reversals in Audio-Language Models"
 url: http://arxiv.org/abs/2606.05161v1
 type: paper-summary
 date: 2026-06-11

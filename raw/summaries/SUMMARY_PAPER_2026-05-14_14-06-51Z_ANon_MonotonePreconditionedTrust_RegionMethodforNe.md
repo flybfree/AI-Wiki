@@ -1,6 +1,6 @@
 ---
 
-title: A Non-Monotone Preconditioned Trust-Region Method for Neural Network Training
+title: "Summary: A Non-Monotone Preconditioned Trust-Region Method for Neural Network Training"
 url: http://arxiv.org/abs/2605.14860v1
 type: paper-summary
 date: 2026-06-11

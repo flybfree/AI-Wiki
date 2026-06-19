@@ -1,6 +1,6 @@
 ---
 
-title: "Probably Approximately Consensus: On the Learning Theory of Finding Common Ground"
+title: "Summary: Probably Approximately Consensus: On the Learning Theory of Finding Common Ground"
 url: http://arxiv.org/abs/2604.21811v1
 type: paper-summary
 date: 2026-06-11

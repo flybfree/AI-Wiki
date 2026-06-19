@@ -1,6 +1,6 @@
 ---
 
-title: "The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning"
+title: "Summary: The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning"
 url: http://arxiv.org/abs/2606.19329v1
 type: paper-summary
 date: 2026-06-17

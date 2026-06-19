@@ -1,6 +1,6 @@
 ---
 
-title: An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers
+title: "Summary: An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers"
 url: http://arxiv.org/abs/2606.05149v1
 type: paper-summary
 date: 2026-06-11

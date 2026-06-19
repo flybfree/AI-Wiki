@@ -1,6 +1,6 @@
 ---
 
-title: Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures
+title: "Summary: Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures"
 url: http://arxiv.org/abs/2605.04035v1
 type: paper-summary
 date: 2026-06-11

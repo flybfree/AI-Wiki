@@ -1,6 +1,6 @@
 ---
 
-title: "ETCHR: Editing To Clarify and Harness Reasoning"
+title: "Summary: ETCHR: Editing To Clarify and Harness Reasoning"
 url: http://arxiv.org/abs/2605.23897v1
 type: paper-summary
 date: 2026-06-11

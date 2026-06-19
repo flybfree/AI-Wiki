@@ -1,6 +1,6 @@
 ---
 
-title: "Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases"
+title: "Summary: Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases"
 url: http://arxiv.org/abs/2605.27355v1
 type: paper-summary
 date: 2026-06-11

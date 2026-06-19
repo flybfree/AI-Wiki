@@ -1,6 +1,6 @@
 ---
 
-title: Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs
+title: "Summary: Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs"
 url: http://arxiv.org/abs/2605.21115v1
 type: paper-summary
 date: 2026-06-11

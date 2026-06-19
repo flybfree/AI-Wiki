@@ -1,6 +1,6 @@
 ---
 
-title: "From Model Scaling to System Scaling: Scaling the Harness in Agentic AI"
+title: "Summary: From Model Scaling to System Scaling: Scaling the Harness in Agentic AI"
 url: http://arxiv.org/abs/2605.26112v1
 type: paper-summary
 date: 2026-06-11

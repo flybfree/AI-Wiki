@@ -1,6 +1,6 @@
 ---
 
-title: Redesign Mixture-of-Experts Routers with Manifold Power Iteration
+title: "Summary: Redesign Mixture-of-Experts Routers with Manifold Power Iteration"
 url: http://arxiv.org/abs/2606.12397v1
 type: paper-summary
 date: 2026-06-11

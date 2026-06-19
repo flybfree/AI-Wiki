@@ -1,6 +1,6 @@
 ---
 
-title: "MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation"
+title: "Summary: MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation"
 url: http://arxiv.org/abs/2605.27366v1
 type: paper-summary
 date: 2026-06-11

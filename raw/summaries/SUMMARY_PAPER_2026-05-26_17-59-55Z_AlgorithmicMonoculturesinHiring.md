@@ -1,6 +1,6 @@
 ---
 
-title: Algorithmic Monocultures in Hiring
+title: "Summary: Algorithmic Monocultures in Hiring"
 url: http://arxiv.org/abs/2605.27371v1
 type: paper-summary
 date: 2026-06-11

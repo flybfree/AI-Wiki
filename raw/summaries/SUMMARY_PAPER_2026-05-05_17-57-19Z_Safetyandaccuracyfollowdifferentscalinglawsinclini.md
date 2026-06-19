@@ -1,6 +1,6 @@
 ---
 
-title: Safety and accuracy follow different scaling laws in clinical large language models
+title: "Summary: Safety and accuracy follow different scaling laws in clinical large language models"
 url: http://arxiv.org/abs/2605.04039v1
 type: paper-summary
 date: 2026-06-11

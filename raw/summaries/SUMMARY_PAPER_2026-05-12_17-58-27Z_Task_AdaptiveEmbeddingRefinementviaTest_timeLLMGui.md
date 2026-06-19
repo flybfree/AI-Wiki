@@ -1,6 +1,6 @@
 ---
 
-title: Task-Adaptive Embedding Refinement via Test-time LLM Guidance
+title: "Summary: Task-Adaptive Embedding Refinement via Test-time LLM Guidance"
 url: http://arxiv.org/abs/2605.12487v1
 type: paper-summary
 date: 2026-06-11

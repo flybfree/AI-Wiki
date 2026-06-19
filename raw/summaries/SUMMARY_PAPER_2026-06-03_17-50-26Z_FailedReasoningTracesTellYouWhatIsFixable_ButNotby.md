@@ -1,6 +1,6 @@
 ---
 
-title: Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)
+title: "Summary: Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)"
 url: http://arxiv.org/abs/2606.05145v1
 type: paper-summary
 date: 2026-06-11

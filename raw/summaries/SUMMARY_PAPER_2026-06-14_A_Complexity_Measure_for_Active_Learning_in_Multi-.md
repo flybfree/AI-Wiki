@@ -1,6 +1,6 @@
 ---
 
-title: A Complexity Measure for Active Learning in Multi-group Mean Estimation
+title: "Summary: A Complexity Measure for Active Learning in Multi-group Mean Estimation"
 url: http://arxiv.org/abs/2606.14690v1
 type: paper-summary
 date: 2026-06-14

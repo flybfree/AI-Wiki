@@ -1,6 +1,6 @@
 ---
 
-title: Tokenisation via Convex Relaxations
+title: "Summary: Tokenisation via Convex Relaxations"
 url: http://arxiv.org/abs/2605.22821v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition
+title: "Summary: Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition"
 url: http://arxiv.org/abs/2605.10916v1
 type: paper-summary
 date: 2026-06-11

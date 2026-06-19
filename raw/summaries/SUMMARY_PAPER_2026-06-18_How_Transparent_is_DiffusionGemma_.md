@@ -1,6 +1,6 @@
 ---
 
-title: How Transparent is DiffusionGemma?
+title: "Summary: How Transparent is DiffusionGemma?"
 url: http://arxiv.org/abs/2606.20560v1
 type: paper-summary
 date: 2026-06-18

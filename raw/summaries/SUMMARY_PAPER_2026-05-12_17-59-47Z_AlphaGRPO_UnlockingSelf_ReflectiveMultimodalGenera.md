@@ -1,6 +1,6 @@
 ---
 
-title: "AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward"
+title: "Summary: AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward"
 url: http://arxiv.org/abs/2605.12495v1
 type: paper-summary
 date: 2026-06-11

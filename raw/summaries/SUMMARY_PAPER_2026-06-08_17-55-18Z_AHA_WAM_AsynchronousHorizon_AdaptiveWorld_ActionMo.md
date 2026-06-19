@@ -1,6 +1,6 @@
 ---
 
-title: "AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing"
+title: "Summary: AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing"
 url: http://arxiv.org/abs/2606.09811v1
 type: paper-summary
 date: 2026-06-11

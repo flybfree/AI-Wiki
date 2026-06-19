@@ -1,6 +1,6 @@
 ---
 
-title: "Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill"
+title: "Summary: Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill"
 url: http://arxiv.org/abs/2606.03980v1
 type: paper-summary
 date: 2026-06-11

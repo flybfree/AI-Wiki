@@ -1,6 +1,6 @@
 ---
 
-title: Advanced AI Service Provisioning in O-RAN through LLM Engine Integration
+title: "Summary: Advanced AI Service Provisioning in O-RAN through LLM Engine Integration"
 url: http://arxiv.org/abs/2605.23809v1
 type: paper-summary
 date: 2026-06-11

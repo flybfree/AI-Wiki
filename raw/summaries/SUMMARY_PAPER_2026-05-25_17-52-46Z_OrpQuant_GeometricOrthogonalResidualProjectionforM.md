@@ -1,6 +1,6 @@
 ---
 
-title: "OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization"
+title: "Summary: OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization"
 url: http://arxiv.org/abs/2605.26092v1
 type: paper-summary
 date: 2026-06-11

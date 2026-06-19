@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Generative Ai Recent News Ai Business"
+title: "Summary: Summary 2026 04 29 Generative Ai Recent News Ai Business"
 date: 2026-06-19
 tags: ['wiki']
 ---

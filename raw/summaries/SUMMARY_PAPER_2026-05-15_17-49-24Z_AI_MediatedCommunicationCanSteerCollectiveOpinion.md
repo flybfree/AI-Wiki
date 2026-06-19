@@ -1,6 +1,6 @@
 ---
 
-title: AI-Mediated Communication Can Steer Collective Opinion
+title: "Summary: AI-Mediated Communication Can Steer Collective Opinion"
 url: http://arxiv.org/abs/2605.16245v1
 type: paper-summary
 date: 2026-06-11

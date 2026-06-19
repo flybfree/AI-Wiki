@@ -1,6 +1,6 @@
 ---
 
-title: Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation on the Ontario Residential Tenancies Act
+title: "Summary: Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation on the Ontario Residential Tenancies Act"
 url: http://arxiv.org/abs/2606.20359v1
 type: paper-summary
 date: 2026-06-18

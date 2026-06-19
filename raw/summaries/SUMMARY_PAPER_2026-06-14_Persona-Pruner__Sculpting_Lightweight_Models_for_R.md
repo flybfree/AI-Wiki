@@ -1,6 +1,6 @@
 ---
 
-title: "Persona-Pruner: Sculpting Lightweight Models for Role-Playing"
+title: "Summary: Persona-Pruner: Sculpting Lightweight Models for Role-Playing"
 url: http://arxiv.org/abs/2606.14695v1
 type: paper-summary
 date: 2026-06-14

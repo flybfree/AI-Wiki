@@ -1,5 +1,5 @@
 ---
-title: "Summary 2026 04 29 Awesome Architecture Mds Scientific Research Somat"
+title: "Summary: Summary 2026 04 29 Awesome Architecture Mds Scientific Research Somat"
 date: 2026-06-19
 tags: ['wiki']
 ---

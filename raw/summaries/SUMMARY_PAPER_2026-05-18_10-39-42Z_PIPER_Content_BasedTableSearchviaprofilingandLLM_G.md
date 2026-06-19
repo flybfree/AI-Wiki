@@ -1,6 +1,6 @@
 ---
 
-title: "PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries"
+title: "Summary: PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries"
 url: http://arxiv.org/abs/2605.18199v1
 type: paper-summary
 date: 2026-06-11

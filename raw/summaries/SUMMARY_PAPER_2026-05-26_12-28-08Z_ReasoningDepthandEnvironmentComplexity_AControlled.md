@@ -1,6 +1,6 @@
 ---
 
-title: "Reasoning Depth and Environment Complexity: A Controlled Study of RLVR Data Allocation across Logical Reasoning Tasks"
+title: "Summary: Reasoning Depth and Environment Complexity: A Controlled Study of RLVR Data Allocation across Logical Reasoning Tasks"
 url: http://arxiv.org/abs/2605.26934v1
 type: paper-summary
 date: 2026-06-11

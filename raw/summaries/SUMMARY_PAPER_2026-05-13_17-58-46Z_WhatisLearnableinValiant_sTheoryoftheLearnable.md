@@ -1,6 +1,6 @@
 ---
 
-title: What is Learnable in Valiant's Theory of the Learnable?
+title: "Summary: What is Learnable in Valiant's Theory of the Learnable?"
 url: http://arxiv.org/abs/2605.13840v1
 type: paper-summary
 date: 2026-06-11

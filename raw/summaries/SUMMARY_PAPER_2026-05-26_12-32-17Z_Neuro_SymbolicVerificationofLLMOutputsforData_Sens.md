@@ -1,6 +1,6 @@
 ---
 
-title: Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains (extended preprint)
+title: "Summary: Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains (extended preprint)"
 url: http://arxiv.org/abs/2605.26942v1
 type: paper-summary
 date: 2026-06-11

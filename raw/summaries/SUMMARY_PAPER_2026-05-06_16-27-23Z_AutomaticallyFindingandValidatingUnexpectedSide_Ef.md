@@ -1,6 +1,6 @@
 ---
 
-title: Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models
+title: "Summary: Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models"
 url: http://arxiv.org/abs/2605.05090v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "AVISE: Framework for Evaluating the Security of AI Systems"
+title: "Summary: AVISE: Framework for Evaluating the Security of AI Systems"
 url: http://arxiv.org/abs/2604.20833v1
 type: paper-summary
 date: 2026-06-11

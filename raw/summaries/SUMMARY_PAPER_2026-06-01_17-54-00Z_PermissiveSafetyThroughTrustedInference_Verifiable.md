@@ -1,6 +1,6 @@
 ---
 
-title: "Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics"
+title: "Summary: Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics"
 url: http://arxiv.org/abs/2606.02562v1
 type: paper-summary
 date: 2026-06-11

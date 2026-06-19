@@ -1,6 +1,6 @@
 ---
 
-title: A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design
+title: "Summary: A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design"
 url: http://arxiv.org/abs/2606.11189v1
 type: paper-summary
 date: 2026-06-11

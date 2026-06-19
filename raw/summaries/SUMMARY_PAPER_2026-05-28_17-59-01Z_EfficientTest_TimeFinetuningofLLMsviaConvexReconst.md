@@ -1,6 +1,6 @@
 ---
 
-title: Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching
+title: "Summary: Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching"
 url: http://arxiv.org/abs/2605.30337v1
 type: paper-summary
 date: 2026-06-11

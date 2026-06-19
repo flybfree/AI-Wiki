@@ -1,6 +1,6 @@
 ---
 
-title: "R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow"
+title: "Summary: R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow"
 url: http://arxiv.org/abs/2605.13838v1
 type: paper-summary
 date: 2026-06-11

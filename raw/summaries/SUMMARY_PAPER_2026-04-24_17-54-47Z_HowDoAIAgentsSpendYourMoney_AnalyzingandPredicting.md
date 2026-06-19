@@ -1,6 +1,6 @@
 ---
 
-title: How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks
+title: "Summary: How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks"
 url: http://arxiv.org/abs/2604.22750v1
 type: paper-summary
 date: 2026-06-11

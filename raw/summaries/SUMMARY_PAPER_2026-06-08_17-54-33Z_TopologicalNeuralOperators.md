@@ -1,6 +1,6 @@
 ---
 
-title: Topological Neural Operators
+title: "Summary: Topological Neural Operators"
 url: http://arxiv.org/abs/2606.09806v1
 type: paper-summary
 date: 2026-06-11

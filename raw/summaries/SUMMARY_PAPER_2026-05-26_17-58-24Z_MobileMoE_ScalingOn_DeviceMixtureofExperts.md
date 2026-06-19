@@ -1,6 +1,6 @@
 ---
 
-title: "MobileMoE: Scaling On-Device Mixture of Experts"
+title: "Summary: MobileMoE: Scaling On-Device Mixture of Experts"
 url: http://arxiv.org/abs/2605.27358v1
 type: paper-summary
 date: 2026-06-11

@@ -1,6 +1,6 @@
 ---
 
-title: "Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation"
+title: "Summary: Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation"
 url: http://arxiv.org/abs/2605.21125v1
 type: paper-summary
 date: 2026-06-11

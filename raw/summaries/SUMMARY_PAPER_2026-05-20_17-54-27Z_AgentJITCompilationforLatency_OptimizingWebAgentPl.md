@@ -1,6 +1,6 @@
 ---
 
-title: Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling
+title: "Summary: Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling"
 url: http://arxiv.org/abs/2605.21470v1
 type: paper-summary
 date: 2026-06-11

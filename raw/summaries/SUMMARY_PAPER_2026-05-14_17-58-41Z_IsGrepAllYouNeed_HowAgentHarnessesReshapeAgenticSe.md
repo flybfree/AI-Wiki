@@ -1,6 +1,6 @@
 ---
 
-title: Is Grep All You Need? How Agent Harnesses Reshape Agentic Search
+title: "Summary: Is Grep All You Need? How Agent Harnesses Reshape Agentic Search"
 url: http://arxiv.org/abs/2605.15184v1
 type: paper-summary
 date: 2026-06-11

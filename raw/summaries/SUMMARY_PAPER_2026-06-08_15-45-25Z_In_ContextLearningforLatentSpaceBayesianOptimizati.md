@@ -1,6 +1,6 @@
 ---
 
-title: In-Context Learning for Latent Space Bayesian Optimization
+title: "Summary: In-Context Learning for Latent Space Bayesian Optimization"
 url: http://arxiv.org/abs/2606.09664v1
 type: paper-summary
 date: 2026-06-11

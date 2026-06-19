@@ -1,6 +1,6 @@
 ---
 
-title: "WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data"
+title: "Summary: WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data"
 url: http://arxiv.org/abs/2605.13846v1
 type: paper-summary
 date: 2026-06-11
