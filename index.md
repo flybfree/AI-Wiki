@@ -1266,6 +1266,26 @@ tags: ['wiki']
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-21_16-44-20Z_Text2DSL_LLM_BasedCodeGenerationforDomain_Specific.md]] : Text2DSL: LLM-Based Code Generation for Domain-Specific Languages
+- [[2026-06-21_16-51-29Z_Training_freeTaskClassificationforMulti_TaskModelM.md]] : Training-free Task Classification for Multi-Task Model Merging
+- [[2026-06-21_16-34-39Z_FromCVEtoCWE_Syscall_BasedHIDSGeneralisation.md]] : From CVE to CWE: Syscall-Based HIDS Generalisation
+- [[2026-06-21_16-27-24Z_Context_AwareDistillationandAblationforText2DSL.md]] : Context-Aware Distillation and Ablation for Text2DSL
+- [[2026-06-21_17-20-21Z_OnthePositionBiasofOn_PolicyDistillation.md]] : On the Position Bias of On-Policy Distillation
+- [[2026-06-21_17-37-01Z_PaperClaw_HarnessingAgentsforAutonomousResearchand.md]] : PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement
+- [[2026-06-21_16-29-25Z_StationaryRobustMean_FieldGamesunderModelMismatche.md]] : Stationary Robust Mean-Field Games under Model Mismatches
+- [[2026-06-21_17-24-31Z_Sub_Billion_Super_Frontier_SmallLanguageModelsRiva.md]] : Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction
+- [[2026-06-21_17-31-05Z_AutomatedsigndetectionacrosstheElectronicBabylonia.md]] : Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline
+- [[2026-06-21_17-20-26Z_ScalableBayesianAdditiveModelsforStellarFlareDetec.md]] : Scalable Bayesian Additive Models for Stellar Flare Detection via Amortized Gaussian Process Inference and Hidden Markov Models
+- [[2026-06-19_15-58-36Z_CompressingObservationHistoryintoAgentMemory_Disti.md]] : Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers
+- [[2026-06-19_15-56-16Z_Rubric_as_Experts_Case_SpecificMQMRubricsforTransl.md]] : Rubric-as-Experts: Case-Specific MQM Rubrics for Translation Quality Evaluation
+- [[2026-06-19_16-44-18Z_FAST_AFrameworkforAlignedSamplingandTraininginPara.md]] : FAST: A Framework for Aligned Sampling and Training in Parallel Reinforcement Learning for Autonomous Driving
+- [[2026-06-19_15-50-35Z_DissectingAgenticRAG_AComponentAblationforMulti_Ho.md]] : Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model
+- [[2026-06-19_16-31-44Z_TheUnreasonableEffectivenessofVLMsforZero_shotProc.md]] : The Unreasonable Effectiveness of VLMs for Zero-shot Procedural Mistake Detection
+- [[2026-06-19_16-02-22Z_LIG_Layer_wiseIntegratedGradientsforWithin_LayerFl.md]] : LIG: Layer-wise Integrated Gradients for Within-Layer Flow Analysis in Transformers
+- [[2026-06-19_16-41-28Z_TheCostGeometryofBelief_finite_resourceinferenceun.md]] : The Cost Geometry of Belief: finite-resource inference under noisy observation
+- [[2026-06-19_15-47-01Z_AIAlignmentFromSocialChoicePerspectives.md]] : AI Alignment From Social Choice Perspectives
+- [[2026-06-19_16-03-53Z_ComposingVerifiableConceptualModelsviaBuildingBloc.md]] : Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows
+- [[2026-06-19_15-55-18Z_PeerMathDial_AMiddleSchoolDialogueDatasetforStuden.md]] : PeerMathDial: A Middle School Dialogue Dataset for Student Collaborative Math Problem Solving
 - [[2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] : UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning
 - [[2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] : Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation
 - [[2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] : Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving
