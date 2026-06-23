@@ -1266,6 +1266,16 @@ tags: ['wiki']
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-22_17-56-30Z_CanLLMsReliablySelf_ReportAdversarialPrefills_andH.md]] : Can LLMs Reliably Self-Report Adversarial Prefills, and How?
+- [[2026-06-22_17-59-55Z_AutoDex_AnAutomatedReal_WorldSystemforDexterousGra.md]] : AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection
+- [[2026-06-22_17-58-54Z_AIR_AdaptiveInterleavedReasoningwithCodeinMLLMs.md]] : AIR: Adaptive Interleaved Reasoning with Code in MLLMs
+- [[2026-06-22_17-59-20Z_CoorDex_CoordinatingBodyandHandPriorsforContinuous.md]] : CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation
+- [[2026-06-22_17-57-08Z_TeachingLLMsStringMatching_Backtracking_andErrorRe.md]] : Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles
+- [[2026-06-22_17-59-53Z_RandomizedYaRNImprovesLengthGeneralizationforLong_.md]] : Randomized YaRN Improves Length Generalization for Long-Context Reasoning
+- [[2026-06-22_17-59-17Z_SemanticBrowsing_ControllableDiversityforImageGene.md]] : Semantic Browsing: Controllable Diversity for Image Generation
+- [[2026-06-22_17-57-15Z_PsyBridge_AHybridIntelligentFrameworkforMulti_Dime.md]] : PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support
+- [[2026-06-22_17-58-52Z_OpenProblem_IsAdamWEffectiveUnderHeavy_TailedNoise.md]] : Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?
+- [[2026-06-22_17-56-25Z_TaperedLanguageModels.md]] : Tapered Language Models
 - [[2026-06-21_16-44-20Z_Text2DSL_LLM_BasedCodeGenerationforDomain_Specific.md]] : Text2DSL: LLM-Based Code Generation for Domain-Specific Languages
 - [[2026-06-21_16-51-29Z_Training_freeTaskClassificationforMulti_TaskModelM.md]] : Training-free Task Classification for Multi-Task Model Merging
 - [[2026-06-21_16-34-39Z_FromCVEtoCWE_Syscall_BasedHIDSGeneralisation.md]] : From CVE to CWE: Syscall-Based HIDS Generalisation
