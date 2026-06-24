@@ -1,5 +1,5 @@
 ---
-title: It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces
+title: "Summary: It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces"
 url: http://arxiv.org/abs/2606.24854v1
 type: paper-summary
 date: 2026-06-24

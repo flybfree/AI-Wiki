@@ -1,5 +1,5 @@
 ---
-title: PeerMathDial: A Middle School Dialogue Dataset for Student Collaborative Math Problem Solving
+title: "Summary: PeerMathDial: A Middle School Dialogue Dataset for Student Collaborative Math Problem Solving"
 url: http://arxiv.org/abs/2606.21557v1
 type: paper-summary
 date: 2026-06-22

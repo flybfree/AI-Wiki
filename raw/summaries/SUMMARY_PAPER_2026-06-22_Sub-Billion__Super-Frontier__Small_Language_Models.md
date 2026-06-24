@@ -1,5 +1,5 @@
 ---
-title: Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction
+title: "Summary: Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction"
 url: http://arxiv.org/abs/2606.22606v1
 type: paper-summary
 date: 2026-06-22

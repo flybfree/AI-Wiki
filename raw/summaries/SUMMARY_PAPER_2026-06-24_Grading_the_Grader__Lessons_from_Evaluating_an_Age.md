@@ -1,5 +1,5 @@
 ---
-title: Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System
+title: "Summary: Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System"
 url: http://arxiv.org/abs/2606.24839v1
 type: paper-summary
 date: 2026-06-24

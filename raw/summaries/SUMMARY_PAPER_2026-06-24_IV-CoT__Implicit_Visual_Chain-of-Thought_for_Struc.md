@@ -1,5 +1,5 @@
 ---
-title: IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation
+title: "Summary: IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation"
 url: http://arxiv.org/abs/2606.24849v1
 type: paper-summary
 date: 2026-06-24

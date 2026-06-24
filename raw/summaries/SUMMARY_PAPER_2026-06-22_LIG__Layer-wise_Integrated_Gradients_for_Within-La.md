@@ -1,5 +1,5 @@
 ---
-title: LIG: Layer-wise Integrated Gradients for Within-Layer Flow Analysis in Transformers
+title: "Summary: LIG: Layer-wise Integrated Gradients for Within-Layer Flow Analysis in Transformers"
 url: http://arxiv.org/abs/2606.21564v1
 type: paper-summary
 date: 2026-06-22

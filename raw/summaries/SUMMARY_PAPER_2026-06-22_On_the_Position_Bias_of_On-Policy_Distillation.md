@@ -1,5 +1,5 @@
 ---
-title: On the Position Bias of On-Policy Distillation
+title: "Summary: On the Position Bias of On-Policy Distillation"
 url: http://arxiv.org/abs/2606.22600v1
 type: paper-summary
 date: 2026-06-22

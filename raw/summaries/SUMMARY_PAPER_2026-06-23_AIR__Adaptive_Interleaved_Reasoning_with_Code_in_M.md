@@ -1,5 +1,5 @@
 ---
-title: AIR: Adaptive Interleaved Reasoning with Code in MLLMs
+title: "Summary: AIR: Adaptive Interleaved Reasoning with Code in MLLMs"
 url: http://arxiv.org/abs/2606.23678v1
 type: paper-summary
 date: 2026-06-23

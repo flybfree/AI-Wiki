@@ -1,5 +1,5 @@
 ---
-title: World Models in Pieces: Structural Certification for General Agents
+title: "Summary: World Models in Pieces: Structural Certification for General Agents"
 url: http://arxiv.org/abs/2606.24842v1
 type: paper-summary
 date: 2026-06-24

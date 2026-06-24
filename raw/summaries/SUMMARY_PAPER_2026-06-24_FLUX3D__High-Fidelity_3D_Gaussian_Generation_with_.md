@@ -1,5 +1,5 @@
 ---
-title: FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation
+title: "Summary: FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation"
 url: http://arxiv.org/abs/2606.24874v1
 type: paper-summary
 date: 2026-06-24

@@ -1,5 +1,5 @@
 ---
-title: Randomized YaRN Improves Length Generalization for Long-Context Reasoning
+title: "Summary: Randomized YaRN Improves Length Generalization for Long-Context Reasoning"
 url: http://arxiv.org/abs/2606.23687v1
 type: paper-summary
 date: 2026-06-23

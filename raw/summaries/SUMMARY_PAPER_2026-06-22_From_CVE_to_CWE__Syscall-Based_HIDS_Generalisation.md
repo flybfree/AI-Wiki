@@ -1,5 +1,5 @@
 ---
-title: From CVE to CWE: Syscall-Based HIDS Generalisation
+title: "Summary: From CVE to CWE: Syscall-Based HIDS Generalisation"
 url: http://arxiv.org/abs/2606.22581v1
 type: paper-summary
 date: 2026-06-22

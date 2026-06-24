@@ -1,5 +1,5 @@
 ---
-title: Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles
+title: "Summary: Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles"
 url: http://arxiv.org/abs/2606.23672v1
 type: paper-summary
 date: 2026-06-23

@@ -1,5 +1,5 @@
 ---
-title: Context-Aware Distillation and Ablation for Text2DSL
+title: "Summary: Context-Aware Distillation and Ablation for Text2DSL"
 url: http://arxiv.org/abs/2606.22578v1
 type: paper-summary
 date: 2026-06-22

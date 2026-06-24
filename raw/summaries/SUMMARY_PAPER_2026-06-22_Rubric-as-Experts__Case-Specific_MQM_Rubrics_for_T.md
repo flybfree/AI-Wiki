@@ -1,5 +1,5 @@
 ---
-title: Rubric-as-Experts: Case-Specific MQM Rubrics for Translation Quality Evaluation
+title: "Summary: Rubric-as-Experts: Case-Specific MQM Rubrics for Translation Quality Evaluation"
 url: http://arxiv.org/abs/2606.21559v1
 type: paper-summary
 date: 2026-06-22

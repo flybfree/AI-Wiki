@@ -1,5 +1,5 @@
 ---
-title: Training-free Task Classification for Multi-Task Model Merging
+title: "Summary: Training-free Task Classification for Multi-Task Model Merging"
 url: http://arxiv.org/abs/2606.22589v1
 type: paper-summary
 date: 2026-06-22

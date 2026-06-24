@@ -1,5 +1,5 @@
 ---
-title: The Unreasonable Effectiveness of VLMs for Zero-shot Procedural Mistake Detection
+title: "Summary: The Unreasonable Effectiveness of VLMs for Zero-shot Procedural Mistake Detection"
 url: http://arxiv.org/abs/2606.21579v1
 type: paper-summary
 date: 2026-06-22

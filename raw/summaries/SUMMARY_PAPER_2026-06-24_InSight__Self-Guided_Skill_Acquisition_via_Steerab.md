@@ -1,5 +1,5 @@
 ---
-title: InSight: Self-Guided Skill Acquisition via Steerable VLAs
+title: "Summary: InSight: Self-Guided Skill Acquisition via Steerable VLAs"
 url: http://arxiv.org/abs/2606.24884v1
 type: paper-summary
 date: 2026-06-24

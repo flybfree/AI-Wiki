@@ -1,5 +1,5 @@
 ---
-title: Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline
+title: "Summary: Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline"
 url: http://arxiv.org/abs/2606.22608v1
 type: paper-summary
 date: 2026-06-22

@@ -1,5 +1,5 @@
 ---
-title: New Bounds for the Last Iterate of the Stochastic subGradient Method
+title: "Summary: New Bounds for the Last Iterate of the Stochastic subGradient Method"
 url: http://arxiv.org/abs/2606.24879v1
 type: paper-summary
 date: 2026-06-24

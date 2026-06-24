@@ -1,5 +1,5 @@
 ---
-title: Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?
+title: "Summary: Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?"
 url: http://arxiv.org/abs/2606.23676v1
 type: paper-summary
 date: 2026-06-23

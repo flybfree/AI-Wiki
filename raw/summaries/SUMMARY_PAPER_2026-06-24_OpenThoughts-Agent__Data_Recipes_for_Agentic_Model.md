@@ -1,5 +1,5 @@
 ---
-title: OpenThoughts-Agent: Data Recipes for Agentic Models
+title: "Summary: OpenThoughts-Agent: Data Recipes for Agentic Models"
 url: http://arxiv.org/abs/2606.24855v1
 type: paper-summary
 date: 2026-06-24

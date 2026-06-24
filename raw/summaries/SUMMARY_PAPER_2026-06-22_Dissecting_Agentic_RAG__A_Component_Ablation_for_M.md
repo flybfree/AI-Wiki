@@ -1,5 +1,5 @@
 ---
-title: Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model
+title: "Summary: Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model"
 url: http://arxiv.org/abs/2606.21553v1
 type: paper-summary
 date: 2026-06-22

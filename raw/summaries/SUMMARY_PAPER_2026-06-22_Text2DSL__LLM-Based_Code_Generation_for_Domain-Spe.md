@@ -1,5 +1,5 @@
 ---
-title: Text2DSL: LLM-Based Code Generation for Domain-Specific Languages
+title: "Summary: Text2DSL: LLM-Based Code Generation for Domain-Specific Languages"
 url: http://arxiv.org/abs/2606.22586v1
 type: paper-summary
 date: 2026-06-22

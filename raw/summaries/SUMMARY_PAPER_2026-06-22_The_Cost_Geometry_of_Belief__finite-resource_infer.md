@@ -1,5 +1,5 @@
 ---
-title: The Cost Geometry of Belief: finite-resource inference under noisy observation
+title: "Summary: The Cost Geometry of Belief: finite-resource inference under noisy observation"
 url: http://arxiv.org/abs/2606.21585v1
 type: paper-summary
 date: 2026-06-22

@@ -1,5 +1,5 @@
 ---
-title: Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows
+title: "Summary: Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows"
 url: http://arxiv.org/abs/2606.21565v1
 type: paper-summary
 date: 2026-06-22

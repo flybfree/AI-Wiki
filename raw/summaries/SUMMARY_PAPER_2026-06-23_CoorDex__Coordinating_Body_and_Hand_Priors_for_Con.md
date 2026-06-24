@@ -1,5 +1,5 @@
 ---
-title: CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation
+title: "Summary: CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation"
 url: http://arxiv.org/abs/2606.23680v1
 type: paper-summary
 date: 2026-06-23

@@ -1,5 +1,5 @@
 ---
-title: Semantic Browsing: Controllable Diversity for Image Generation
+title: "Summary: Semantic Browsing: Controllable Diversity for Image Generation"
 url: http://arxiv.org/abs/2606.23679v1
 type: paper-summary
 date: 2026-06-23

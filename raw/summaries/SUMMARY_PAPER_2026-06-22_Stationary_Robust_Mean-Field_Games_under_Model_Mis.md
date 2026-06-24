@@ -1,5 +1,5 @@
 ---
-title: Stationary Robust Mean-Field Games under Model Mismatches
+title: "Summary: Stationary Robust Mean-Field Games under Model Mismatches"
 url: http://arxiv.org/abs/2606.22579v1
 type: paper-summary
 date: 2026-06-22

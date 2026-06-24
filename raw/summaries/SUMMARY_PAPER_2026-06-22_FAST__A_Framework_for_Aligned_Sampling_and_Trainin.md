@@ -1,5 +1,5 @@
 ---
-title: FAST: A Framework for Aligned Sampling and Training in Parallel Reinforcement Learning for Autonomous Driving
+title: "Summary: FAST: A Framework for Aligned Sampling and Training in Parallel Reinforcement Learning for Autonomous Driving"
 url: http://arxiv.org/abs/2606.21587v1
 type: paper-summary
 date: 2026-06-22

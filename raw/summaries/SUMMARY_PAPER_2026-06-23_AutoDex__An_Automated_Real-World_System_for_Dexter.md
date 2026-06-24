@@ -1,5 +1,5 @@
 ---
-title: AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection
+title: "Summary: AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection"
 url: http://arxiv.org/abs/2606.23689v1
 type: paper-summary
 date: 2026-06-23

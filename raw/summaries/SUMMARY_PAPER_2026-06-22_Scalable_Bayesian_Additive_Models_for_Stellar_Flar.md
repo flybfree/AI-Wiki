@@ -1,5 +1,5 @@
 ---
-title: Scalable Bayesian Additive Models for Stellar Flare Detection via Amortized Gaussian Process Inference and Hidden Markov Models
+title: "Summary: Scalable Bayesian Additive Models for Stellar Flare Detection via Amortized Gaussian Process Inference and Hidden Markov Models"
 url: http://arxiv.org/abs/2606.22601v1
 type: paper-summary
 date: 2026-06-22

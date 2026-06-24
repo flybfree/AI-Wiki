@@ -1,5 +1,5 @@
 ---
-title: AI Alignment From Social Choice Perspectives
+title: "Summary: AI Alignment From Social Choice Perspectives"
 url: http://arxiv.org/abs/2606.21550v1
 type: paper-summary
 date: 2026-06-22

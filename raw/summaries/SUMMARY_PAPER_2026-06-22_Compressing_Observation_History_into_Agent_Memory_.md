@@ -1,5 +1,5 @@
 ---
-title: Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers
+title: "Summary: Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers"
 url: http://arxiv.org/abs/2606.21562v1
 type: paper-summary
 date: 2026-06-22

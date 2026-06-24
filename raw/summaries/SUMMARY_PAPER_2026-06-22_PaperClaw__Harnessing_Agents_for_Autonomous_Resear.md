@@ -1,5 +1,5 @@
 ---
-title: PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement
+title: "Summary: PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement"
 url: http://arxiv.org/abs/2606.22610v1
 type: paper-summary
 date: 2026-06-22

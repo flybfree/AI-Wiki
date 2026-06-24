@@ -1,5 +1,5 @@
 ---
-title: Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models
+title: "Summary: Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models"
 url: http://arxiv.org/abs/2606.24841v1
 type: paper-summary
 date: 2026-06-24

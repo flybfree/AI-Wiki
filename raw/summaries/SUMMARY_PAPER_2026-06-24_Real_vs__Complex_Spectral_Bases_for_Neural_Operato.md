@@ -1,5 +1,5 @@
 ---
-title: Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment
+title: "Summary: Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment"
 url: http://arxiv.org/abs/2606.24851v1
 type: paper-summary
 date: 2026-06-24

@@ -1,5 +1,5 @@
 ---
-title: Tapered Language Models
+title: "Summary: Tapered Language Models"
 url: http://arxiv.org/abs/2606.23670v1
 type: paper-summary
 date: 2026-06-23
