@@ -1266,6 +1266,16 @@ tags: ['wiki']
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-23_17-34-18Z_It_sComplicated_OntheDesignandEvaluationofAI_Power.md]] : It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces
+- [[2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteerableVLA.md]] : InSight: Self-Guided Skill Acquisition via Steerable VLAs
+- [[2026-06-23_17-28-00Z_IV_CoT_ImplicitVisualChain_of_ThoughtforStructure_.md]] : IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation
+- [[2026-06-23_17-21-03Z_MatchingTaskstoObjectives_Fine_TuningandPrompt_Tun.md]] : Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models
+- [[2026-06-23_17-52-21Z_FLUX3D_High_Fidelity3DGaussianGenerationwithDiffus.md]] : FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation
+- [[2026-06-23_17-18-28Z_GradingtheGrader_LessonsfromEvaluatinganAgenticDat.md]] : Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System
+- [[2026-06-23_17-34-29Z_OpenThoughts_Agent_DataRecipesforAgenticModels.md]] : OpenThoughts-Agent: Data Recipes for Agentic Models
+- [[2026-06-23_17-29-15Z_Realvs_ComplexSpectralBasesforNeuralOperators_TheR.md]] : Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment
+- [[2026-06-23_17-21-09Z_WorldModelsinPieces_StructuralCertificationforGene.md]] : World Models in Pieces: Structural Certification for General Agents
+- [[2026-06-23_17-55-18Z_NewBoundsfortheLastIterateoftheStochasticsubGradie.md]] : New Bounds for the Last Iterate of the Stochastic subGradient Method
 - [[2026-06-22_17-56-30Z_CanLLMsReliablySelf_ReportAdversarialPrefills_andH.md]] : Can LLMs Reliably Self-Report Adversarial Prefills, and How?
 - [[2026-06-22_17-59-55Z_AutoDex_AnAutomatedReal_WorldSystemforDexterousGra.md]] : AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection
 - [[2026-06-22_17-58-54Z_AIR_AdaptiveInterleavedReasoningwithCodeinMLLMs.md]] : AIR: Adaptive Interleaved Reasoning with Code in MLLMs
