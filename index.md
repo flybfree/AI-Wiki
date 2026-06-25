@@ -1266,6 +1266,26 @@ tags: ['wiki']
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-24_17-36-39Z_WhenCertaintyIsanArtifact_KeywordLexiconBlindnessa.md]] : When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance
+- [[2026-06-24_17-53-26Z_SameEvidence_DifferentAnswer_AuditingOrderSensitiv.md]] : Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models
+- [[2026-06-24_17-59-46Z_RevengeBench_ReverseEngineeringCode_SpacePoliciesf.md]] : RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments
+- [[2026-06-24_17-59-56Z_LearningActionPriorsforCross_embodimentRobotManipu.md]] : Learning Action Priors for Cross-embodiment Robot Manipulation
+- [[2026-06-24_17-55-38Z_Real_TimeVoiceAIHearsbutDoesNotListen.md]] : Real-Time Voice AI Hears but Does Not Listen
+- [[2026-06-24_17-52-57Z_Across_processweldingpenetrationstatuspredictional.md]] : A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding
+- [[2026-06-24_17-54-08Z_NeglectedFreeLunchfromPost_training_ProgressAdvant.md]] : Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents
+- [[2026-06-24_17-45-47Z_ModelForensics_InvestigatingWhetherConcerningBehav.md]] : Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment
+- [[2026-06-24_17-59-02Z_On_PolicySelf_DistillationwithSampledDemonstration.md]] : On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity
+- [[2026-06-24_17-33-41Z_Aweldingpenetrationpredictionmodelforlaserweldingp.md]] : A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks
+- [[2026-06-24_14-48-23Z_VariationalAutoencoderLayer.md]] : Variational Autoencoder Layer
+- [[2026-06-24_14-07-10Z_ColorMatters_TriggerColorAffectsSuccessinFederated.md]] : Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks
+- [[2026-06-24_14-27-16Z_A3D_PrintableDatasetforFairTestingandComparisonsof.md]] : A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors
+- [[2026-06-24_14-02-13Z_SemanticConsistencyPolicyOptimizationforReinforcem.md]] : Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents
+- [[2026-06-24_14-23-14Z_AI_AssistedComputationalReproducibilityontheFABRIC.md]] : AI-Assisted Computational Reproducibility on the FABRIC Testbed
+- [[2026-06-24_14-41-27Z_EnhancingBrainMRIAnomalyDetectionandReasoningwithR.md]] : Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data
+- [[2026-06-24_14-25-39Z_AnAnalysisofPosteriorCollapse_ParameterizationandI.md]] : An Analysis of Posterior Collapse, Parameterization and Initialization in Variational Deep Gaussian Processes
+- [[2026-06-24_14-20-30Z_AutoRelAnnotator_CalibratedModelCascadesforCost_Ef.md]] : AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search
+- [[2026-06-24_13-51-42Z_EdgesBeforeEmbeddings_AConfidence_AwareBlurGatefor.md]] : Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines
+- [[2026-06-24_13-50-22Z_AISnitchesGetGlitches_TowardsEvadingAgenticSurveil.md]] : AI Snitches Get Glitches: Towards Evading Agentic Surveillance
 - [[2026-06-23_17-34-18Z_It_sComplicated_OntheDesignandEvaluationofAI_Power.md]] : It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces
 - [[2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteerableVLA.md]] : InSight: Self-Guided Skill Acquisition via Steerable VLAs
 - [[2026-06-23_17-28-00Z_IV_CoT_ImplicitVisualChain_of_ThoughtforStructure_.md]] : IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation
