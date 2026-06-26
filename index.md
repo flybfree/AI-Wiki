@@ -1266,6 +1266,16 @@ tags: ['wiki']
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-25_17-51-59Z_MappingPolitical_EliteNetworksinEuropewithaMultili.md]] : Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline
+- [[2026-06-25_17-56-27Z_Error_ConditionedNeuralSolvers.md]] : Error-Conditioned Neural Solvers
+- [[2026-06-25_17-59-58Z_DanceOPD_On_PolicyGenerativeFieldDistillation.md]] : DanceOPD: On-Policy Generative Field Distillation
+- [[2026-06-25_17-49-48Z_UnderstandingDomain_AwareDistributionAlignmentinBu.md]] : Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching
+- [[2026-06-25_17-58-21Z_AutoregressiveBoltzmannGenerators.md]] : Autoregressive Boltzmann Generators
+- [[2026-06-25_17-44-48Z_EmpoweringGUIAgentsviaAutonomousExperienceExplorat.md]] : Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning
+- [[2026-06-25_17-59-36Z_ReinforcementLearningwithoutGround_TruthSolutionsc.md]] : Reinforcement Learning without Ground-Truth Solutions can Improve LLMs
+- [[2026-06-25_17-45-53Z_Language_BasedDigitalTwinsforElderlyCognitiveAssis.md]] : Language-Based Digital Twins for Elderly Cognitive Assistance
+- [[2026-06-25_17-38-45Z_HallucinationinWorldModelsisPredictableandPreventa.md]] : Hallucination in World Models is Predictable and Preventable
+- [[2026-06-25_17-58-02Z_Whenarelikelyanswersright_OnSequenceProbabilityand.md]] : When are likely answers right? On Sequence Probability and Correctness in LLMs
 - [[2026-06-24_17-36-39Z_WhenCertaintyIsanArtifact_KeywordLexiconBlindnessa.md]] : When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance
 - [[2026-06-24_17-53-26Z_SameEvidence_DifferentAnswer_AuditingOrderSensitiv.md]] : Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models
 - [[2026-06-24_17-59-46Z_RevengeBench_ReverseEngineeringCode_SpacePoliciesf.md]] : RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments
