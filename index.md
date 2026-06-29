@@ -1266,6 +1266,22 @@ tags: ['wiki']
 - [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-26_17-47-09Z_VGBforMaskedDiffusionModel_EfficientTest_timeScali.md]] : VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing
+- [[2026-06-26_17-59-57Z_DexCompose_ReusingDexterousPoliciesforMulti_TaskMa.md]] : DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand
+- [[2026-06-26_17-53-30Z_WhichNashEquilibrium_Solver_DependentSelectiononZe.md]] : Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes
+- [[2026-06-26_17-54-13Z_SurprisesinProperPositive_OnlyLearning.md]] : Surprises in Proper Positive-Only Learning
+- [[2026-06-26_17-52-39Z_Second_OrderKKTGuaranteesforBregmanADMMinNonconvex.md]] : Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization
+- [[2026-06-26_17-38-47Z_DemocraticICAI_DebatingOurWaytoSteeringPrinciplesf.md]] : Democratic ICAI: Debating Our Way to Steering Principles from Preferences
+- [[2026-06-26_17-31-34Z_BridgingAbInitioSymmetriesandGlobalNuclearMasseswi.md]] : Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks
+- [[2026-06-26_16-35-48Z_HPRO_HierarchicalProgressiveRewardOptimizationviaP.md]] : HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech
+- [[2026-06-26_17-04-42Z_LearningTopology_AwareRepresentationsviaTest_TimeA.md]] : Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation
+- [[2026-06-26_17-17-17Z_ParameterEfficientHybridTransformer_PEHT_forNetwor.md]] : Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration
+- [[2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] : Agent-Native Immune System: Architecture, Taxonomy, and Engineering
+- [[2026-06-26_17-21-06Z_AgenticHardwareDesignasRepository_LevelCodeEvoluti.md]] : Agentic Hardware Design as Repository-Level Code Evolution
+- [[2026-06-26_16-37-53Z_Parameter_EfficientContinuous_VariablePhotonicQuan.md]] : Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection
+- [[2026-06-26_17-24-21Z_PAC_BayesianCertificatesforQuadraticClosed_LoopCon.md]] : PAC-Bayesian Certificates for Quadratic Closed-Loop Control
+- [[2026-06-26_17-19-17Z_TowardsAutomatingScientificReviewwithGoogle_sPaper.md]] : Towards Automating Scientific Review with Google's Paper Assistant Tool
+- [[2026-06-26_17-16-04Z_Vision_Default_Prior_Override_CausalMechanismsofPe.md]] : Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models
 - [[2026-06-25_17-51-59Z_MappingPolitical_EliteNetworksinEuropewithaMultili.md]] : Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline
 - [[2026-06-25_17-56-27Z_Error_ConditionedNeuralSolvers.md]] : Error-Conditioned Neural Solvers
 - [[2026-06-25_17-59-58Z_DanceOPD_On_PolicyGenerativeFieldDistillation.md]] : DanceOPD: On-Policy Generative Field Distillation
