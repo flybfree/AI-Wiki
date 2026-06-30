@@ -1212,6 +1212,16 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[raw/papers/2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-29_17-59-20Z_LeVo2_StableandMelodiousSongGenerationviaHierarchi.md]] : LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training
+- [[2026-06-29_17-58-43Z_Self_EvolvingWorldModelsforLLMAgentPlanning.md]] : Self-Evolving World Models for LLM Agent Planning
+- [[2026-06-29_17-56-03Z_Pessimism_sParadox_ConservativeOfflineTrainingAmpl.md]] : Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models
+- [[2026-06-29_17-50-54Z_ScalingtheHorizon_NottheParameters_ReachingTrillio.md]] : Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent
+- [[2026-06-29_17-56-53Z_GROW__2__GroundingWhichandWhereforRobotToolUse.md]] : GROW$^2$: Grounding Which and Where for Robot Tool Use
+- [[2026-06-29_17-45-31Z_C___2__R_Cross_sampleConsistencyRegularizationMiti.md]] : C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders
+- [[2026-06-29_17-55-53Z_DOPD_DualOn_policyDistillation.md]] : DOPD: Dual On-policy Distillation
+- [[2026-06-29_17-55-40Z_OptimizationDynamicsImprintSemanticSpecificityinCo.md]] : Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms
+- [[2026-06-29_17-59-55Z_VLK_LearningHumanoidLoco_ManipulationfromSynthetic.md]] : VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes
+- [[2026-06-29_17-57-50Z_One_StepGradientDelayisNotaBarrierforLarge_ScaleAs.md]] : One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining
 - [[raw/papers/2026-06-29_13-54-04Z_DialogPII_Amultilingualdatasetofsyntheticdialogtra.md]] : DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information
 - [[raw/papers/2026-06-29_13-53-29Z_HighlyDataParallelizableEstimationoftheSliced_Wass.md]] : Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions
 - [[raw/papers/2026-06-29_13-56-17Z_TRACE_AConceptBottleneckModelforLongitudinal3DGlio.md]] : TRACE: A Concept Bottleneck Model for Longitudinal 3D Glioblastoma Response Assessment
