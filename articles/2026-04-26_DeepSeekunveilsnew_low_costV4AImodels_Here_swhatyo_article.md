@@ -33,5 +33,5 @@ Article ingested from raw source: 2026-04-26_DeepSeekunveilsnew_low_costV4AImode
 - [[2026-05-09_AgentArchitectureEvolution.md]
 ### Papers
 - [[2026-05-09_2001.08361-scaling-laws-for-neural-language-models.md]
-- [[Attention Is All You Need]]
+- [[raw/papers/2026-05-09_1706.03762-attention-is-all-you-need.md|Attention Is All You Need]]
 - [[2026-05-09_2006.11239-denoising-diffusion-probabilistic-models.md]

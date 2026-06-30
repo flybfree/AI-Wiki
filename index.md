@@ -11,48 +11,37 @@ tags: ['wiki']
 > Content catalog for AI Intelligence.
 > Last updated: 2026-06-10
 ## Self Improving AI Loops
-- [[self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
-- [[self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
-- [[self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md|Lesson 2: Inference Layer — Self-Hosted LLMs]] — LM Studio, vLLM, Ollama, TGI, model picks for agentic work
-- [[self-improving-ai-loops/2026-06-10_Lesson3_AbstractionLayer.md|Lesson 3: Abstraction Layer — Model Swapping & Normalization]] — LiteLLM proxy, model routing, reducing vendor lock-in
-- [[self-improving-ai-loops/2026-06-10_Lesson4_AgentFrameworks.md|Lesson 4: Agent Frameworks — The Loop Engine]] — SmolAgents, LangGraph, OpenDevin, Aider, pattern comparison
-- [[self-improving-ai-loops/2026-06-10_Lesson5_KnowledgeMemory.md|Lesson 5: Knowledge & Memory — The Outer Loop]] — Mozilla cq, vector DBs, cold start strategy
-- [[self-improving-ai-loops/2026-06-10_Lesson6_Evaluation.md|Lesson 6: Evaluation & Verification — The Judge Node]] — DeepEval, Arize Phoenix, Promptfoo, drift detection
-- [[self-improving-ai-loops/2026-06-10_Lesson7_Orchestration.md|Lesson 7: Orchestration & UI — Making It Usable]] — Dify, Flowise, Open WebUI, visual vs code-based
-- [[self-improving-ai-loops/2026-06-10_Lesson8_DIYArchitecture.md|Lesson 8: Putting It All Together — DIY Architecture]] — complete stack, working Ralph loop script, production checklist
-- [[self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9: SmolAgents Deep Dive — Code-First Agents from Hugging Face]] — CodeAgent vs ToolCallingAgent, model backends, tools system, memory management, security, best practices
-- [[self-improving-ai-loops/2026-06-10_Lesson10_DiffusionGemma.md|Lesson 10: DiffusionGemma — Block-Autoregressive Text Generation]] — Google DeepMind's 26B MoE model, discrete diffusion for text, up to 4x faster local inference, multimodal capabilities, benchmark comparison
-## Claude Code / Harness Engineering
-- [[dive-into-claude-code.md|dive-into-claude-code]] — hub page for the Claude Code architecture analysis
-- [[claude-code-agentic-query-loop.md|claude-code-agentic-query-loop]] — runtime loop and turn pipeline
-- [[claude-code-safety-and-permissions.md|claude-code-safety-and-permissions]] — deny-first permissions and safety layers
-- [[claude-code-context-and-memory.md|claude-code-context-and-memory]] — context compaction and file-based memory
-- [[claude-code-extensibility.md|claude-code-extensibility]] — hooks, skills, plugins, and MCP
-- [[claude-code-subagent-delegation.md|claude-code-subagent-delegation]] — isolated subagents and summary-only handoff
-- [[claude-code-session-persistence.md|claude-code-session-persistence]] — append-only transcripts and checkpoints
-- [[claude-code-build-your-own-agent.md|claude-code-build-your-own-agent]] — design guide for agent builders
-- [[claude-code-ecosystem-and-comparisons.md|claude-code-ecosystem-and-comparisons]] — OpenClaw, Hermes-Agent, and related research
-- [[claude-code-linked-sources.md|claude-code-linked-sources]] — researched papers, docs, and community deep dives
+- [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md|Lesson 2: Inference Layer — Self-Hosted LLMs]] — LM Studio, vLLM, Ollama, TGI, model picks for agentic work
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson3_AbstractionLayer.md|Lesson 3: Abstraction Layer — Model Swapping & Normalization]] — LiteLLM proxy, model routing, reducing vendor lock-in
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson4_AgentFrameworks.md|Lesson 4: Agent Frameworks — The Loop Engine]] — SmolAgents, LangGraph, OpenDevin, Aider, pattern comparison
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson5_KnowledgeMemory.md|Lesson 5: Knowledge & Memory — The Outer Loop]] — Mozilla cq, vector DBs, cold start strategy
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson6_Evaluation.md|Lesson 6: Evaluation & Verification — The Judge Node]] — DeepEval, Arize Phoenix, Promptfoo, drift detection
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson7_Orchestration.md|Lesson 7: Orchestration & UI — Making It Usable]] — Dify, Flowise, Open WebUI, visual vs code-based
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson8_DIYArchitecture.md|Lesson 8: Putting It All Together — DIY Architecture]] — complete stack, working Ralph loop script, production checklist
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9: SmolAgents Deep Dive — Code-First Agents from Hugging Face]] — CodeAgent vs ToolCallingAgent, model backends, tools system, memory management, security, best practices
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson10_DiffusionGemma.md|Lesson 10: DiffusionGemma — Block-Autoregressive Text Generation]] — Google DeepMind's 26B MoE model, discrete diffusion for text, up to 4x faster local inference, multimodal capabilities, benchmark comparison
 ## Search Agents
-- [[llm-models/2026-06-10_Harness1.md|Harness-1]] — 20B search agent trained with RL inside a stateful retrieval harness (arXiv:2606.02373)
+- [[concepts/llm-models/2026-06-10_Harness1.md|Harness-1]] — 20B search agent trained with RL inside a stateful retrieval harness (arXiv:2606.02373)
 ## AI/ML Foundations
-- [[ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — main entry point and lesson navigator
-- [[ai-foundations/ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]] — concrete lesson-by-lesson revision checklist for the 16-lesson course
+- [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — main entry point and lesson navigator
+- [[concepts/ai-foundations/ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]] — concrete lesson-by-lesson revision checklist for the 16-lesson course
 ## Start Here
 
-- [[ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
-- [[ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
-- [[ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
-- [[ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
-- [[ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]]
-- [[ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
-- [[ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
-- [[ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
-- [[ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
+- [[concepts/ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
 ## Beginner / Fast / Deep Dive
-- Beginner:  →  → [[ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]] →  →
+- Beginner:  →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]] →  →
 - Fast:  →  →  →  →  →
-- Deep Dive:  →  → [[ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]] →  → [[ai-foundations/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]] →  → [[ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]] → [[ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]] →  → [[Generative AI|Lesson 10: Generative AI: Creating New Content]] →  →  →  → [[ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]] → [[ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]] →
+- Deep Dive:  →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]] →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]] →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]] → [[concepts/ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]] →  → [[articles/2026-04-28_WhatIsGenerativeAI_HowItWorks_Examples_Benefits_an_article.md|Lesson 10: Generative AI: Creating New Content]] →  →  →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]] → [[concepts/ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]] →
 ## Full Sequence
 
 
@@ -68,10 +57,10 @@ tags: ['wiki']
 
 
 ## Reading Lists
-- [[Ilya Sutskever Reading List Study Order|Ilya Sutskever Recommended Reading List]]
-- [[Ilya Sutskever Reading List Study Order|Ilya Sutskever Reading List Study Order]]
+- Ilya Sutskever Recommended Reading List
+- Ilya Sutskever Reading List Study Order
 ## Course Maps
-- [[ai-foundations/ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]]
+- [[concepts/ai-foundations/ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]]
 ## Lesson Files
 
 
@@ -114,17 +103,17 @@ tags: ['wiki']
 -  : Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series
 -  : Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL
 -  : Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling
-- [[2026-04-23_LLMs__10ThingsThatMatterinAIRightNow_MITTechnology.md]] : LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Revi…
+- [[raw/summaries/SUMMARY_2026-04-29_LLMs___10_Things_That_Matter_in_AI_Right_Now___MIT.md]] : LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Revi…
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : Machine learning operations - Azure Architecture Center
-- [[2026-04-23_MachineLearning_AWSArchitectureCenter.md]] : Machine Learning | AWS Architecture Center
-- [[2026-04-23_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen …
+- [[articles/2026-04-28_MachineLearning_AWSArchitectureCenter_article.md]] : Machine Learning | AWS Architecture Center
+- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen …
 -  : Generative AI recent news - AI Business
 -  : Generative AI news and analysis | TechCrunch
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Con…
-- [[2026-04-23_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[2026-04-23_AIUpdatesToday_April2026__LatestAIModelReleases_ll.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
+- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
 -  : 2026 is Breakthrough Year for Reliable AI World Models and …
 -  : Sai Prashanth Pathi- AI For Credit Risk: Architecting Explainable ...
 -  : Claude Opus 4.7: Anthropic's New Best (Available) Model
@@ -141,11 +130,11 @@ tags: ['wiki']
 -  : Generative AI news and analysis | TechCrunch
 -  : Machine learning operations - Azure Architecture Center
 -  : Generative AI recent news - AI Business
-- [[2026-04-24_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
-- [[2026-04-24_LatestAINews_Developments_andBreakthroughs_2026_Ne.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[articles/2026-04-28_LatestAINews_Developments_andBreakthroughs_2026_Ne_article.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
 -  : LLM Leaderboard - Comparison of over 100 AI models from OpenAI, …
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[2026-04-24_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
+- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
 -  : AI Leaderboard 2026 - Compare Top AI Models & Rankings
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
 -  : Seeing Fast and Slow: Learning the Flow of Time in Videos
@@ -158,51 +147,51 @@ tags: ['wiki']
 -  : A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models
 -  : Low-Rank Adaptation Redux for Large Models
 -  : Evaluation of Automatic Speech Recognition Using Generative Large Language Models
-- [[2026-04-24_AIUpdatesToday_April2026__LatestAIModelReleases_ll.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
+- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
 -  : LLM Leaderboard 2026 — Compare 202 AI Models Across 1…
-- [[2026-04-24_Comingsoon_10ThingsThatMatterinAIRightNow.md]] : Coming soon: 10 Things That Matter in AI Right Now
-- [[2026-04-24_BestLLMLeaderboard2026_AIModelRankings_Benchmarks_.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Prici…
-- [[2026-04-24_AIinApril2026_BiggestBreakthroughs_Models_Industry.md]] : AI in April 2026: Biggest Breakthroughs, Models & Industry S…
-- [[2026-04-24_AIArchitectureDesign_AzureArchitectureCenter_Micro.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[2026-04-24_AINews_LatestHeadlinesandDevelopments_Reuters.md]] : AI News | Latest Headlines and Developments | Reuters
-- [[2026-04-25_LatestAINews_Developments_andBreakthroughs_2026_Ne.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
+- [[raw/summaries/SUMMARY_2026-04-29_Coming_soon__10_Things_That_Matter_in_AI_Right_Now.md]] : Coming soon: 10 Things That Matter in AI Right Now
+- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Prici…
+- [[articles/2026-04-25_AIinApril2026_BiggestBreakthroughs_Models_Industry_article.md]] : AI in April 2026: Biggest Breakthroughs, Models & Industry S…
+- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+- [[articles/2026-04-28_AINews_LatestHeadlinesandDevelopments_Reuters_article.md]] : AI News | Latest Headlines and Developments | Reuters
+- [[articles/2026-04-28_LatestAINews_Developments_andBreakthroughs_2026_Ne_article.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
 -  : Coming soon: 10 Things That Matter in AI Right Now
-- [[2026-04-25_BestLLMLeaderboard2026_AIModelRankings_Benchmarks_.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
-- [[2026-04-25_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
+- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
+- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
 -  : Generative AI recent news | AI Business
-- [[2026-04-25_AIUpdatesToday_April2026__LatestAIModelReleases_ll.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
+- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-04-25_AINews_LatestHeadlinesandDevelopments_Reuters.md]] : AI News | Latest Headlines and Developments | Reuters
-- [[2026-04-25_AIArchitectureDesign_AzureArchitectureCenter_Micro.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+- [[articles/2026-04-28_AINews_LatestHeadlinesandDevelopments_Reuters_article.md]] : AI News | Latest Headlines and Developments | Reuters
+- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts
-- [[2026-04-25_LLMModelEvolution2024_2026_CompleteReference_244Mo.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
+- [[articles/2026-04-29_LLMModelEvolution2024_2026_CompleteReference_244Mo_article.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
 -  : Here's who is spending money on AI subscriptions, and how ... - CBS News
 -  : List of large language models - Wikipedia
 -  : The Architecture of Machine Learning Systems: A Comprehensive …
 -  : Architectures for Machine Learning | Springer Nature Link
-- [[2026-04-25_China_sDeepSeekreleasespreviewoflong_awaitedV4mode.md]] : China's DeepSeek releases preview of long-awaited V4 model as AI
+- [[articles/2026-04-27_China_sDeepSeekreleasespreviewoflong_awaitedV4mode_article.md]] : China's DeepSeek releases preview of long-awaited V4 model as AI
 -  : LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Review
 -  : Machine learning operations - Azure Architecture Center
 -  : ARTIFICIAL | English meaning - Cambridge Dictionary
-- [[2026-04-25_ARTIFICIALDefinition_Meaning_Merriam_Webster.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
-- [[2026-04-25_ARTIFICIALDefinition_Meaning_Dictionary_com.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
+- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Merriam_Webster_article.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
+- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Dictionary_com_article.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[2026-04-25_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
-- [[2026-04-26_AIUpdatesToday_April2026__LatestAIModelReleases_ll.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
-- [[2026-04-26_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
+- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial ...
-- [[2026-04-26_AINews_LatestHeadlinesandDevelopments_Reuters.md]] : AI News | Latest Headlines and Developments | Reuters
+- [[articles/2026-04-28_AINews_LatestHeadlinesandDevelopments_Reuters_article.md]] : AI News | Latest Headlines and Developments | Reuters
 -  : Generative AI news and analysis | TechCrunch
 -  : Machine learning operations - Azure Architecture Center
-- [[2026-04-26_LLMModelEvolution2024_2026_CompleteReference_244Mo.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
+- [[articles/2026-04-29_LLMModelEvolution2024_2026_CompleteReference_244Mo_article.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
 -  : Generative AI recent news - AI Business
 -  : Best Open-Source LLMs April 2026: Benchmarks, Licensing & Deployme…
-- [[2026-04-26_China_sAIupstartDeepSeekdropsnewmodel_Willitmakewa.md]] : China’s AI upstart DeepSeek drops new model. Will it make waves like ...
-- [[2026-04-26_LatestAINews_Developments_andBreakthroughs_2026_Ne.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
-- [[2026-04-26_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[articles/2026-04-27_China_sAIupstartDeepSeekdropsnewmodel_Willitmakewa_article.md]] : China’s AI upstart DeepSeek drops new model. Will it make waves like ...
+- [[articles/2026-04-28_LatestAINews_Developments_andBreakthroughs_2026_Ne_article.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : DeepSeek unveils new, low-cost V4 AI models: Here’s what you need to ...
 -  : Qwen 3.6 27B Arrives with GGUF Support and Local Multimodal ...
 -  : Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought
@@ -215,19 +204,19 @@ tags: ['wiki']
 -  : How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks
 -  : Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering
 -  : Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection
-- [[2026-04-27_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
+- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-04-27_LatestAINews_Developments_andBreakthroughs_2026_Ne.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
+- [[articles/2026-04-28_LatestAINews_Developments_andBreakthroughs_2026_Ne_article.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
 -  : 2026 is Breakthrough Year for Reliable AI World Models and …
-- [[2026-04-27_BestLLMLeaderboard2026_AIModelRankings_Benchmarks_.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
+- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
 -  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[2026-04-27_LLMModelEvolution2024_2026_CompleteReference_244Mo.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
+- [[articles/2026-04-29_LLMModelEvolution2024_2026_CompleteReference_244Mo_article.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
 -  : Generative AI News, Research and Analysis - The Conversation
 -  : Generative AI recent news - AI Business
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[2026-04-27_AINews_LatestHeadlinesandDevelopments_Reuters.md]] : AI News | Latest Headlines and Developments | Reuters
+- [[articles/2026-04-28_AINews_LatestHeadlinesandDevelopments_Reuters_article.md]] : AI News | Latest Headlines and Developments | Reuters
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Con…
-- [[2026-04-27_AIUpdatesToday_April2026__LatestAIModelReleases_ll.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
+- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
 -  : China's DeepSeek releases preview of long-awaited V4 model as AI
 -  : AI is now powering cyberattacks, Microsoft warns - Fox News
 -  : awesome-architecture-mds/scientific-research/somaticseq/Machine ...
@@ -264,11 +253,11 @@ tags: ['wiki']
 -  : Machine learning operations - Azure Architecture Center
 -  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[2026-04-28_LLMModelEvolution2024_2026_CompleteReference_244Mo.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Mod…
+- [[articles/2026-04-29_LLMModelEvolution2024_2026_CompleteReference_244Mo_article.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Mod…
 -  : Generative AI recent news - AI Business
-- [[2026-04-28_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen …
+- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen …
 -  : Machine Learning | AWS Architecture Center
-- [[2026-04-28_LLMNewsToday_April2026__AIModelReleases.md]] : LLM News Today (April 2026) – AI Model Releases
+- [[raw/summaries/SUMMARY_2026-04-29_LLM_News_Today__April_2026____AI_Model_Releases.md]] : LLM News Today (April 2026) – AI Model Releases
 -  : Generative AI news and analysis | TechCrunch
 -  : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Prici…
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Contin…
@@ -551,1022 +540,989 @@ tags: ['wiki']
 -  : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
 -  : LLM Leaderboard 2026 — Compare 220 AI Models Across 178 …
 -  : Generative AI - Wikipedia
-- [[2026-04-26_Qwen_3_6_27B_Arrives_with_GGUF_Support_and_Local_M.md]] : Qwen 3.6 27B Arrives with GGUF Support and Local Multimodal ...
+- [[articles/2026-04-26_Qwen3_627BArriveswithGGUFSupportandLocalMultimodal_article.md]] : Qwen 3.6 27B Arrives with GGUF Support and Local Multimodal ...
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[2026-04-28_MACHINE_Definition___Meaning___Dictionary_com.md]] : MACHINE Definition & Meaning | Dictionary.com
-- [[2026-04-29_Full_Article_Text.md]] : Full Article Text
-- [[2026-04-29_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[articles/2026-04-28_MACHINEDefinition_Meaning_Dictionary_com_article.md]] : MACHINE Definition & Meaning | Dictionary.com
+- [[raw/summaries/SUMMARY_2026-04-29_Full_Article_Text.md]] : Full Article Text
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Machine - Wikipedia
-- [[2026-04-29_WhatistheDifferenceBetween_newobject___and_new___i.md]] : What is the Difference Between `new object()` and `new {}` in C#?
+- [[raw/articles/2026-04-29_WhatistheDifferenceBetween_newobject___and_new___i.md]] : What is the Difference Between `new object()` and `new {}` in C#?
 -  : Machine learning operations - Azure Architecture Center
-- [[2026-04-28_MACHINE_Definition___Meaning_-_Merriam-Webster.md]] : MACHINE Definition & Meaning - Merriam-Webster
+- [[articles/2026-04-28_MACHINEDefinition_Meaning_Merriam_Webster_article.md]] : MACHINE Definition & Meaning - Merriam-Webster
 -  : Machine - Wikipedia
-- [[2026-04-25_The_Architecture_of_Machine_Learning_Systems__A_Co.md]] : The Architecture of Machine Learning Systems: A Comprehensive …
-- [[2026-04-29_Top_Machine_Learning_Architectures_Explained_-_BMC.md]] : Top Machine Learning Architectures Explained - BMC Software
-- [[2026-04-26_DeepSeek_unveils_new__low-cost_V4_AI_models__Here_.md]] : DeepSeek unveils new, low-cost V4 AI models: Here’s what you need to ...
-- [[2026-04-27_AI_is_now_powering_cyberattacks__Microsoft_warns_-.md]] : AI is now powering cyberattacks, Microsoft warns - Fox News
-- [[2026-04-27_awesome-architecture-mds_scientific-research_somat.md]] : awesome-architecture-mds/scientific-research/somaticseq/Machine ...
-- [[2026-04-29_LLM_Model_Evolution_2024_2026___Complete_Reference.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
+- [[raw/articles/2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive …
+- [[raw/articles/2026-06-15_TopMachineLearningArchitecturesExplained_BMCSoftwa.md]] : Top Machine Learning Architectures Explained - BMC Software
+- [[articles/2026-04-26_DeepSeekunveilsnew_low_costV4AImodels_Here_swhatyo_article.md]] : DeepSeek unveils new, low-cost V4 AI models: Here’s what you need to ...
+- [[articles/2026-04-27_AIisnowpoweringcyberattacks_Microsoftwarns_FoxNews_article.md]] : AI is now powering cyberattacks, Microsoft warns - Fox News
+- [[articles/2026-04-27_awesome_architecture_mds_scientific_research_somat_article.md]] : awesome-architecture-mds/scientific-research/somaticseq/Machine ...
+- [[articles/2026-04-29_LLMModelEvolution2024_2026_CompleteReference_244Mo_article.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[2026-04-28_Latest_AI_News__Developments__and_Breakthroughs___.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
+- [[articles/2026-04-28_LatestAINews_Developments_andBreakthroughs_2026_Ne_article.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Contin…
 -  : List of large language models - Wikipedia
-- [[2026-04-29_Machine_Learning_Architecture__What_It_Is__Compone.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-04-27_China_s_DeepSeek_releases_preview_of_long-awaited_.md]] : China's DeepSeek releases preview of long-awaited V4 model as AI
-- [[2026-04-23_Claude_Opus_4_7__Anthropic_s_New_Best__Available__.md]] : Claude Opus 4.7: Anthropic’s New Best (Available) Model
-- [[2026-04-25_ARTIFICIAL___English_meaning_-_Cambridge_Dictionar.md]] : ARTIFICIAL | English meaning - Cambridge Dictionary
-- [[AI Architecture Design - Azure Architecture Center | Microsoft Learn]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+- [[raw/articles/2026-06-18_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[articles/2026-04-27_China_sDeepSeekreleasespreviewoflong_awaitedV4mode_article.md]] : China's DeepSeek releases preview of long-awaited V4 model as AI
+- [[articles/2026-04-23_ClaudeOpus4_7_Anthropic_sNewBest_Available_Model_article.md]] : Claude Opus 4.7: Anthropic’s New Best (Available) Model
+- [[articles/2026-04-25_ARTIFICIAL_Englishmeaning_CambridgeDictionary_article.md]] : ARTIFICIAL | English meaning - Cambridge Dictionary
+- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : Generative AI recent news - AI Business
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : Neural Network Architectures - GeeksforGeeks
-- [[2026-04-28_ARTIFICIAL_Definition___Meaning_-_Merriam-Webster.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
-- [[2026-04-23_Senior_Machine_Learning_Engineer__Prediction___Pla.md]] : Senior Machine Learning Engineer, Prediction & Planning, System ...
-- [[2026-04-29_Whatisthe_new_keywordinJavaScript_-StackOverflow.md]] : What is the 'new' keyword in JavaScript? - Stack Overflow
-- [[2026-04-27_Inaugural_Adobe_Creators__Toolkit_Report__86_Perce.md]] : Inaugural Adobe Creators' Toolkit Report: 86 Percent of Global …
+- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Merriam_Webster_article.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
+- [[raw/articles/2026-05-03_Whatisthe_new_keywordinJavaScript_-StackOverflow.md]] : What is the 'new' keyword in JavaScript? - Stack Overflow
+- [[articles/2026-04-27_InauguralAdobeCreators_ToolkitReport_86PercentofGl_article.md]] : Inaugural Adobe Creators' Toolkit Report: 86 Percent of Global …
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[2026-04-28_ARTIFICIAL_Definition___Meaning___Dictionary_com.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
+- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Dictionary_com_article.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
 -  : Merck and Mayo Clinic Announce New Research and Development ...
-- [[2026-04-29_10_Best_Open-Source_LLM_Models__2025_Updated___Lla.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 an…
+- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 an…
 -  : What Is Generative AI? How It Works, Examples, Benefits, and ...
-- [[2026-04-27_Machine_Learning_Architecture___Process_And_Types_.md]] : Machine Learning Architecture | Process And Types Of Machine
+- [[raw/summaries/SUMMARY_2026-04-29_Machine_Learning_Architecture___Process_And_Types_.md]] : Machine Learning Architecture | Process And Types Of Machine
 -  : What is generative AI? - IBM
-- [[2026-04-27_Best_Open-Source_LLMs_April_2026__Benchmarks__Lice.md]] : Best Open-Source LLMs April 2026: Benchmarks, Licensing
-- [[2026-04-25_AI_in_April_2026__Biggest_Breakthroughs__Models___.md]] : AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts
-- [[2026-04-28_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Prici…
-- [[2026-04-25_Architectures_for_Machine_Learning___Springer_Natu.md]] : Architectures for Machine Learning | Springer Nature Link
-- [[2026-04-27_LLM_Leaderboard_2026___Compare_220_AI_Models_Acros.md]] : LLM Leaderboard 2026 — Compare 220 AI Models Across 178 …
-- [[2026-04-25_LLMs___10_Things_That_Matter_in_AI_Right_Now___MIT.md]] : LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Review
-- [[2026-04-28_Machine_Learning___AWS_Architecture_Center.md]] : Machine Learning | AWS Architecture Center
+- [[articles/2026-04-26_BestOpen_SourceLLMsApril2026_Benchmarks_Licensing__article.md]] : Best Open-Source LLMs April 2026: Benchmarks, Licensing
+- [[articles/2026-04-25_AIinApril2026_BiggestBreakthroughs_Models_Industry_article.md]] : AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts
+- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Prici…
+- [[articles/2026-04-25_ArchitecturesforMachineLearning_SpringerNatureLink_article.md]] : Architectures for Machine Learning | Springer Nature Link
+- [[articles/2026-04-27_LLM_Leaderboard_2026___Compare_220_AI_Models_Acros_summary.md]] : LLM Leaderboard 2026 — Compare 220 AI Models Across 178 …
+- [[raw/summaries/SUMMARY_2026-04-29_LLMs___10_Things_That_Matter_in_AI_Right_Now___MIT.md]] : LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Review
+- [[articles/2026-04-28_MachineLearning_AWSArchitectureCenter_article.md]] : Machine Learning | AWS Architecture Center
 -  : Generative AI recent news - AI Business
-- [[2026-04-28_Inside_the_AI_Index__12_Takeaways_from_the_2026_Re.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial ...
-- [[2026-04-29_MACHINEDefinition_Meaning_Dictionary_com.md]] : MACHINE Definition & Meaning | Dictionary.com
-- [[2026-04-29_LLM_News_Today__April_2026____AI_Model_Releases.md]] : LLM News Today (April 2026) – AI Model Releases
-- [[2026-04-28_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-stats.com
+- [[articles/2026-04-28_MACHINEDefinition_Meaning_Dictionary_com_article.md]] : MACHINE Definition & Meaning | Dictionary.com
+- [[raw/summaries/SUMMARY_2026-04-29_LLM_News_Today__April_2026____AI_Model_Releases.md]] : LLM News Today (April 2026) – AI Model Releases
+- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-stats.com
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-04-25_Coming_soon__10_Things_That_Matter_in_AI_Right_Now.md]] : Coming soon: 10 Things That Matter in AI Right Now
-- [[2026-04-25_Here_s_who_is_spending_money_on_AI_subscriptions__.md]] : Here's who is spending money on AI subscriptions, and how ... - CBS News
-- [[2026-04-24_AI_Leaderboard_2026_-_Compare_Top_AI_Models___Rank.md]] : AI Leaderboard 2026 - Compare Top AI Models & Rankings
-- [[2026-04-27_China_s_AI_upstart_DeepSeek_drops_new_model__Will_.md]] : China’s AI upstart DeepSeek drops new model. Will it make waves like ...
+- [[raw/summaries/SUMMARY_2026-04-29_Coming_soon__10_Things_That_Matter_in_AI_Right_Now.md]] : Coming soon: 10 Things That Matter in AI Right Now
+- [[articles/2026-04-25_Here_swhoisspendingmoneyonAIsubscriptions_andhow___article.md]] : Here's who is spending money on AI subscriptions, and how ... - CBS News
+- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : AI Leaderboard 2026 - Compare Top AI Models & Rankings
+- [[articles/2026-04-27_China_sAIupstartDeepSeekdropsnewmodel_Willitmakewa_article.md]] : China’s AI upstart DeepSeek drops new model. Will it make waves like ...
 -  : Machine learning operations - Azure Architecture Center
 -  : The 2026 AI Index Report - Stanford HAI
-- [[2026-04-29_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
-- [[2026-04-29_BestOpen-SourceLLMsApril2026_Benchmarks_Licensing.md]] : Best Open-Source LLMs April 2026: Benchmarks, Licensing
-- [[2026-04-29_LLMLeaderboard_BestAIModelsRanked_April2026_.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
-- [[2026-04-29_AIArchitectureDesign-AzureArchitectureCenter_Micro.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[2026-04-29_ARTIFICIALDefinition_Meaning_Dictionary_com.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
-- [[2026-04-29_ARTIFICIALDefinition_Meaning-Merriam-Webster.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
-- [[2026-04-30_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
+- [[articles/2026-04-26_BestOpen_SourceLLMsApril2026_Benchmarks_Licensing__article.md]] : Best Open-Source LLMs April 2026: Benchmarks, Licensing
+- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
+- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Dictionary_com_article.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
+- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Merriam_Webster_article.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
 -  : Generative AI recent news - AI Business
-- [[2026-04-30_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : Generative AI News, Research and Analysis - The Conversation
 -  : Machine learning operations - Azure Architecture Center
-- [[2026-04-30_AILeaderboard2026-CompareTopAIModels_Rankings.md]] : AI Leaderboard 2026 - Compare Top AI Models & Rankings
-- [[2026-04-30_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month
-- [[2026-04-30_SaiPrashanthPathi-AIForCreditRisk_ArchitectingExpl.md]] : Sai Prashanth Pathi- AI For Credit Risk: Architecting Explainable ...
+- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : AI Leaderboard 2026 - Compare Top AI Models & Rankings
+- [[raw/articles/2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month
+- [[articles/2026-04-30_SaiPrashanthPathi-AIForCreditRisk_ArchitectingExpl_summary.md]] : Sai Prashanth Pathi- AI For Credit Risk: Architecting Explainable ...
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-04-30_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive …
+- [[raw/articles/2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive …
 -  : Artificial Intelligence News -- ScienceDaily
-- [[UltraSoC extends on-chip analytics architecture for the age of machine ...]] : UltraSoC extends on-chip analytics architecture for the age of machine ...
-- [[2026-04-30_LLMLeaderboard_BestAIModelsRanked_April2026_.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
+- [[raw/articles/2026-04-30_UltraSoCextendson-chipanalyticsarchitectureforthea.md]] : UltraSoC extends on-chip analytics architecture for the age of machine ...
+- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
 -  : The 2026 AI Index Report - Stanford HAI
 -  : Machine Learning Lens - AWS Well-Architected Framework
-- [[2026-04-30_AIArchitectureDesign-AzureArchitectureCenter_Micro.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[2026-04-30_AIModelReleaseTimeline2025_2026_KeyLLMLaunchesand_.md]] : AI Model Release Timeline 2025–2026: Key LLM Launches and …
+- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : GenAI.works | Generative AI Daily Newsletter | Generative AI Newsletter
-- [[2026-05-01_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
-- [[2026-05-01_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Generative AI News, Research and Analysis - The Conversation
 -  : Generative AI recent news - AI Business
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[2026-05-01_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month
-- [[2026-05-01_AIArchitectureDesign-AzureArchitectureCenter_Micro.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+- [[raw/articles/2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month
+- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : Generative AI News — AI Trends, Updates & Tracker | AI Weekly
-- [[2026-05-01_AIUpdatesToday_April2026__LatestAIModelReleases-ll.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
+- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
 -  : Morgan Stanley warns an AI breakthrough Is coming in 2026 - Fortune
-- [[2026-05-01_AILeaderboard2026-CompareTopAIModels_Rankings.md]] : AI Leaderboard 2026 - Compare Top AI Models & Rankings
+- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : AI Leaderboard 2026 - Compare Top AI Models & Rankings
 -  : Machine learning operations - Azure Architecture Center
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Contin…
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-01_BestLLMLeaderboard2026_AIModelRankings_Benchmarks_.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & P…
+- [[articles/2026-04-28_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben_summary.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & P…
 -  : Generative AI recent news | AI Business
 -  : Generative AI recent news | AI Business
-- [[2026-05-02_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
-- [[2026-05-02_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[raw/articles/2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Machine learning operations - Azure Architecture Center
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-02_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[2026-05-02_AIModelReleaseTimeline2025_2026_KeyLLMLaunchesand_.md]] : AI Model Release Timeline 2025–2026: Key LLM Launches and …
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
 -  : Machine Learning Lens - AWS Well-Architected Framework
-- [[2026-05-02_AIArchitectureDesign-AzureArchitectureCenter_Micro.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[2026-05-02_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month
+- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+- [[raw/articles/2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month
 -  : What does the future hold for generative AI? - MIT News
-- [[2026-05-02_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4v_.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 v…
-- [[2026-05-02_LLMLeaderboard_BestAIModelsRanked_April2026_.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
-- [[2026-05-02_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide …
-- [[2026-05-03_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
+- [[raw/articles/2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 v…
+- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
+- [[raw/articles/2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide …
 -  : Generative AI recent news | AI Business
 -  : Machine learning operations - Azure Architecture Center
-- [[2026-05-03_ARTIFICIALDefinition_Meaning_Dictionary_com.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
-- [[2026-05-03_ARTIFICIALDefinition_Meaning-Merriam-Webster.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
-- [[2026-05-03_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4v_.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 v…
+- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Dictionary_com_article.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
+- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Merriam_Webster_article.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
+- [[raw/articles/2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 v…
 -  : Generative AI News, Research and Analysis - The Conversation
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[2026-05-03_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
-- [[2026-05-03_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
-- [[2026-05-03_GitHub-wdopen-nk_student-performance-predictor_Mac.md]] : GitHub - wdopen-nk/student-performance-predictor: Machine learning ...
+- [[raw/articles/2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[raw/articles/2026-05-03_GitHub-wdopen-nk_student-performance-predictor_Mac.md]] : GitHub - wdopen-nk/student-performance-predictor: Machine learning ...
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-03_AIArchitectureDesign-AzureArchitectureCenter_Micro.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : What does the future hold for generative AI? - MIT News
-- [[2026-05-03_LLMNewsToday_May2026__AIModelReleases.md]] : LLM News Today (May 2026) – AI Model Releases
-- [[2026-05-03_Whatisthe_new_keywordinJavaScript_-StackOverflow.md]] : What is the 'new' keyword in JavaScript? - Stack Overflow
-- [[2026-05-03_c_-Whatdoesnew__mean_-StackOverflow.md]] : c# - What does new () mean? - Stack Overflow
+- [[raw/articles/2026-05-03_Whatisthe_new_keywordinJavaScript_-StackOverflow.md]] : What is the 'new' keyword in JavaScript? - Stack Overflow
+- [[raw/articles/2026-05-03_c_-Whatdoesnew__mean_-StackOverflow.md]] : c# - What does new () mean? - Stack Overflow
 -  : GenAI.works | Generative AI Daily Newsletter | Generative AI Newsletter
 -  : Machine Learning Lens - AWS Well-Architected Framework
-- [[2026-05-04_LLMLeaderboard2026_Compare300_TopAIModelsby_.md]] : LLM Leaderboard 2026 — Compare 300+ Top AI Models by …
+- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : LLM Leaderboard 2026 — Compare 300+ Top AI Models by …
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-04_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Generative AI recent news | AI Business
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[2026-05-04_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
 -  : Machine learning operations - Azure Architecture Center
-- [[2026-05-04_BestOpen-SourceLLMMay2026_Llama4vsQwenvsDeepSeek.md]] : Best Open-Source LLM May 2026: Llama 4 vs Qwen vs DeepSeek
-- [[2026-05-04_LLMComparison2026_ClaudevsGPTvsGemini_Keymakr.md]] : LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr
+- [[raw/articles/2026-05-05_LLMComparison2026_ClaudevsGPTvsGemini_Keymakr.md]] : LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr
 -  : Machine Learning Lens - AWS Well-Architected Framework
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[2026-05-04_AIModelReleaseTimeline2025_2026_KeyLLMLaunchesandU.md]] : AI Model Release Timeline 2025–2026: Key LLM Launches and Updates ...
-- [[2026-05-04_AIArchitectureDesign-AzureArchitectureCenter_Micro.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[2026-05-04_BestLLMLeaderboard2026_AIModelRankings_Benchmarks_.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
-- [[2026-05-04_LLMNewsToday_May2026__AIModelReleases.md]] : LLM News Today (May 2026) – AI Model Releases
-- [[Contact Us - Microsoft Support]] : Contact Us - Microsoft Support
-- [[2026-05-04_AllProducts-support_microsoft_com.md]] : All Products - support.microsoft.com
+- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
+- [[raw/articles/2026-05-04_ContactUs-MicrosoftSupport.md]] : Contact Us - Microsoft Support
+- [[raw/articles/2026-05-04_AllProducts-support_microsoft_com.md]] : All Products - support.microsoft.com
 -  : What does the future hold for generative AI? - MIT News
-- [[2026-05-04_LLMLeaderboard_BestAIModelsRanked_April2026_.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
+- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
 -  : Morgan Stanley warns an AI breakthrough Is coming in 2026 - Fortune
 -  : What is generative AI? - IBM
 -  : Generative AI - Wikipedia
-- [[2026-05-05_InsidetheAIIndex_12Takeawaysfromthe2026Report.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-05_AIArchitectureDesign-AzureArchitectureCenter_Micro.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : Generative AI recent news | AI Business
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[2026-05-05_LLMLeaderboard2026_Compare300_TopAIModelsby_.md]] : LLM Leaderboard 2026 — Compare 300+ Top AI Models by …
-- [[2026-05-05_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
-- [[2026-05-05_MLSystemDesign_ACompleteGuide_2026_.md]] : ML System Design: A Complete Guide (2026)
+- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : LLM Leaderboard 2026 — Compare 300+ Top AI Models by …
+- [[raw/articles/2026-05-05_MLSystemDesign_ACompleteGuide_2026_.md]] : ML System Design: A Complete Guide (2026)
 -  : The 2026 AI Index Report - Stanford HAI
-- [[2026-05-05_LLMNewsToday_May2026__AIModelReleases.md]] : LLM News Today (May 2026) – AI Model Releases
-- [[2026-05-05_BestOpen-SourceLLMMay2026_Llama4vsQwenvsDeepSeek.md]] : Best Open-Source LLM May 2026: Llama 4 vs Qwen vs DeepSeek
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[2026-05-05_LLMLeaderboard2026_Compare300_TopAIModelsbyIntelli.md]] : LLM Leaderboard 2026 — Compare 300+ Top AI Models by Intelligence ...
+- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : LLM Leaderboard 2026 — Compare 300+ Top AI Models by Intelligence ...
 -  : Machine learning operations - Azure Architecture Center
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
-- [[2026-05-05_AIModelReleaseTimeline2025_2026_KeyLLMLaunchesandU.md]] : AI Model Release Timeline 2025–2026: Key LLM Launches and Updates ...
-- [[2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
-- [[2026-05-05_LLMComparison2026_ClaudevsGPTvsGemini_Keymakr.md]] : LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr
-- [[2026-05-05_GENERATIVEDefinition_Meaning-Merriam-Webster.md]] : GENERATIVE Definition & Meaning - Merriam-Webster
+- [[raw/articles/2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
+- [[raw/articles/2026-05-05_LLMComparison2026_ClaudevsGPTvsGemini_Keymakr.md]] : LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr
+- [[raw/articles/2026-05-05_GENERATIVEDefinition_Meaning-Merriam-Webster.md]] : GENERATIVE Definition & Meaning - Merriam-Webster
 -  : Generative AI - Wikipedia
-- [[2026-05-05_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
+- [[raw/articles/2026-05-13_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
 -  : Top 7 open source LLMs for 2026
-- [[2026-05-05_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 -  : Nine Breakthroughs Made Possible by AI
-- [[2026-05-05_WhatisMLArchitecture.md]] : What is ML Architecture
-- [[2026-05-05_17-55-01Z_Large_ScaleHigh_Quality3DGaussianHeadReconstructio.md]] : Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures
-- [[2026-05-05_17-59-18Z_AClosed_FormAdaptive_LandmarkKernelforCertifiedPoi.md]] : A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification
-- [[2026-05-05_17-30-17Z_Enhanced3DBrainTumorSegmentationUsingAssortedPreci.md]] : Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training
-- [[Conditional Diffusion Sampling]] : Conditional Diffusion Sampling
-- [[2026-05-05_17-24-53Z_Physics_GroundedMulti_AgentArchitectureforTraceabl.md]] : Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing
-- [[2026-05-05_17-55-25Z_OpenSeeker_v2_PushingtheLimitsofSearchAgentswithIn.md]] : OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories
-- [[2026-05-05_17-42-50Z_RethinkingReasoning_IntensiveRetrieval_Evaluatinga.md]] : Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems
-- [[2026-05-05_17-43-52Z_RedefiningAIRedTeamingintheAgenticEra_FromWeekstoH.md]] : Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours
-- [[2026-05-05_17-57-19Z_Safetyandaccuracyfollowdifferentscalinglawsinclini.md]] : Safety and accuracy follow different scaling laws in clinical large language models
-- [[2026-05-05_17-36-12Z_SymptomAI_TowardsaConversationalAIAgentforEveryday.md]] : SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment
+- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[raw/papers/2026-05-05_17-55-01Z_Large_ScaleHigh_Quality3DGaussianHeadReconstructio.md]] : Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures
+- [[raw/papers/2026-05-05_17-59-18Z_AClosed_FormAdaptive_LandmarkKernelforCertifiedPoi.md]] : A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification
+- [[raw/papers/2026-05-05_17-30-17Z_Enhanced3DBrainTumorSegmentationUsingAssortedPreci.md]] : Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training
+- [[raw/papers/2026-05-05_17-36-29Z_ConditionalDiffusionSampling.md]] : Conditional Diffusion Sampling
+- [[raw/papers/2026-05-05_17-55-25Z_OpenSeeker_v2_PushingtheLimitsofSearchAgentswithIn.md]] : OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories
+- [[raw/papers/2026-05-05_17-42-50Z_RethinkingReasoning_IntensiveRetrieval_Evaluatinga.md]] : Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems
+- [[raw/papers/2026-05-05_17-43-52Z_RedefiningAIRedTeamingintheAgenticEra_FromWeekstoH.md]] : Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours
+- [[raw/papers/2026-05-05_17-57-19Z_Safetyandaccuracyfollowdifferentscalinglawsinclini.md]] : Safety and accuracy follow different scaling laws in clinical large language models
+- [[raw/papers/2026-05-05_17-36-12Z_SymptomAI_TowardsaConversationalAIAgentforEveryday.md]] : SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
-- [[2026-05-06_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
+- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+- [[raw/articles/2026-05-13_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
 -  : Top 7 open source LLMs for 2026
 -  : Nine Breakthroughs Made Possible by AI
-- [[2026-05-06_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
 -  : Generative AI recent news | AI Business
-- [[2026-05-06_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[2026-05-06_multi_scale_context_aggregation_by_dilated_convolutions.md]] : Multi-Scale Context Aggregation by Dilated Convolutions
-- [[2026-05-06_gpipe_easy_scaling_with_micro_batch_pipeline_parallelism.md]] : GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism
-- [[2026-05-06_understanding_lstm_networks.md]] : Understanding LSTM Networks
-- [[2026-05-06_pointer_networks.md]] : Pointer Networks
-- [[2026-05-06_order_matters_sequence_to_sequence_for_sets.md]] : Order Matters: Sequence to sequence for sets
-- [[2026-05-06_variational_lossy_autoencoder.md]] : Variational Lossy Autoencoder
-- [[2026-05-06_16-23-11Z_GatedMultimodalLearningforInterpretablePropertyEne.md]] : Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis
-- [[2026-05-06_16-33-42Z_ContinualKnowledgeUpdatinginLLMSystems_LearningThr.md]] : Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics
-- [[2026-05-06_16-30-48Z_Driver_WM_ADriver_CentricTraffic_ConditionedLatent.md]] : Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout
-- [[Proximal Projection for Doubly Sparse Regularized Models]] : Proximal Projection for Doubly Sparse Regularized Models
-- [[2026-05-06_16-27-23Z_AutomaticallyFindingandValidatingUnexpectedSide_Ef.md]] : Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models
-- [[2026-05-06_16-19-29Z_Provableimitationlearningforcontrolofinstabilityin.md]] : Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations
-- [[2026-05-06_16-29-35Z_Think_AloudReshapesAutomatedCognitiveModelDiscover.md]] : Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior
-- [[2026-05-06_16-32-55Z_ABayesianApproachforTask_SpecificNext_Best_ViewSel.md]] : A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry
-- [[2026-05-06_16-20-24Z_OrderMatters_ImprovingDomainAdaptationbyReordering.md]] : Order Matters: Improving Domain Adaptation by Reordering Data
-- [[2026-05-06_16-18-47Z_ThePinocchioDimension_PhenomenalityofExperienceast.md]] : The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences
-- [[2026-05-06_17-57-31Z_ImplicitRepresentationsofGrammaticalityinLanguageM.md]] : Implicit Representations of Grammaticality in Language Models
-- [[2026-05-06_17-42-01Z_MRI_Eval_ATieredBenchmarkforEvaluatingLLMPerforman.md]] : MRI-Eval: A Tiered Benchmark for Evaluating LLM Performance on MRI Physics and GE Scanner Operations Knowledge
-- [[2026-05-06_17-54-51Z_Almost_OrthogonalityinLpSpaces_ACaseStudywithGrok.md]] : Almost-Orthogonality in Lp Spaces: A Case Study with Grok
-- [[2026-05-06_17-53-20Z_SharpCapacityThresholdsinLinearAssociativeMemory_F.md]] : Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval
-- [[2026-05-06_17-40-11Z_WhenLifeGivesYouBC_MakeQ_functions_ExtractingQ_val.md]] : When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning
-- [[2026-05-06_17-59-42Z_TamingOutlierTokensinDiffusionTransformers.md]] : Taming Outlier Tokens in Diffusion Transformers
-- [[2026-05-06_17-46-12Z_EstimatingtheexpectedoutputofwiderandomMLPsmoreeff.md]] : Estimating the expected output of wide random MLPs more efficiently than sampling
-- [[2026-05-06_17-54-16Z_LongSeeker_ElasticContextOrchestrationforLong_Hori.md]] : LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents
-- [[2026-05-06_17-55-15Z_Grokabilityinfiveinequalities.md]] : Grokability in five inequalities
-- [[2026-05-06_17-42-07Z_UnderstandingIn_ContextLearningforNonlinearRegress.md]] : Understanding In-Context Learning for Nonlinear Regression with Transformers: Attention as Featurizer
-- [[2026-05-07_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[raw/papers/2026-05-06_16-23-11Z_GatedMultimodalLearningforInterpretablePropertyEne.md]] : Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis
+- [[raw/papers/2026-05-06_16-30-48Z_Driver_WM_ADriver_CentricTraffic_ConditionedLatent.md]] : Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout
+- [[raw/papers/2026-05-06_16-31-20Z_ProximalProjectionforDoublySparseRegularizedModels.md]] : Proximal Projection for Doubly Sparse Regularized Models
+- [[raw/papers/2026-05-06_16-27-23Z_AutomaticallyFindingandValidatingUnexpectedSide_Ef.md]] : Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models
+- [[raw/papers/2026-05-06_16-19-29Z_Provableimitationlearningforcontrolofinstabilityin.md]] : Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations
+- [[raw/papers/2026-05-06_16-29-35Z_Think_AloudReshapesAutomatedCognitiveModelDiscover.md]] : Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior
+- [[raw/papers/2026-05-06_16-32-55Z_ABayesianApproachforTask_SpecificNext_Best_ViewSel.md]] : A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry
+- [[raw/papers/2026-05-06_16-20-24Z_OrderMatters_ImprovingDomainAdaptationbyReordering.md]] : Order Matters: Improving Domain Adaptation by Reordering Data
+- [[raw/papers/2026-05-06_16-18-47Z_ThePinocchioDimension_PhenomenalityofExperienceast.md]] : The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences
+- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
 -  : Generative AI news and analysis | TechCrunch
 -  : Generative AI recent news | AI Business
 -  : Nine Breakthroughs Made Possible by AI
-- [[2026-05-07_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
-- [[2026-05-07_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Top 7 open source LLMs for 2026
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[Supervised Learning Web Sources]] : Supervised Learning Web Sources
-- [[2026-05-07_Data_Foundation_Web_Sources.md]] : 2026-05-07_Data_Foundation_Web_Sources.md
-- [[2026-05-07_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
-- [[2026-05-07_17-59-20Z_EMO_PretrainingMixtureofExpertsforEmergentModulari.md]] : EMO: Pretraining Mixture of Experts for Emergent Modularity
-- [[2026-05-07_17-59-31Z_BAMI_Training_FreeBiasMitigationinGUIGrounding.md]] : BAMI: Training-Free Bias Mitigation in GUI Grounding
-- [[2026-05-07_17-57-58Z_WhyGlobalLLMLeaderboardsAreMisleading_SmallPortfol.md]] : Why Global LLM Leaderboards Are Misleading: Small Portfolios for Heterogeneous Supervised ML
-- [[2026-05-07_17-59-44Z_UniPool_AGloballySharedExpertPoolforMixture_of_Exp.md]] : UniPool: A Globally Shared Expert Pool for Mixture-of-Experts
-- [[2026-05-07_17-56-32Z_AICo_Mathematician_AcceleratingMathematicianswithA.md]] : AI Co-Mathematician: Accelerating Mathematicians with Agentic AI
-- [[2026-05-07_17-57-02Z_Optimizer_ModelConsistency_FullFinetuningwiththeSa.md]] : Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less
-- [[2026-05-07_17-58-32Z_Verifier_BackedHardProblemGenerationforMathematica.md]] : Verifier-Backed Hard Problem Generation for Mathematical Reasoning
-- [[2026-05-07_17-55-21Z_BeyondNegativeRollouts_Positive_OnlyPolicyOptimiza.md]] : Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients
-- [[2026-05-07_17-59-58Z_ActCam_Zero_ShotJointCameraand3DMotionControlforVi.md]] : ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation
-- [[2026-05-07_17-56-41Z_WhenNoBenchmarkExists_ValidatingComparativeLLMSafe.md]] : When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels
+- [[raw/articles/2026-05-07_Supervised_Learning_Web_Sources.md]] : Supervised Learning Web Sources
+- [[raw/articles/2026-05-07_Data_Foundation_Web_Sources.md]] : 2026-05-07_Data_Foundation_Web_Sources.md
+- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+- [[raw/papers/2026-05-07_17-59-20Z_EMO_PretrainingMixtureofExpertsforEmergentModulari.md]] : EMO: Pretraining Mixture of Experts for Emergent Modularity
+- [[raw/papers/2026-05-07_17-59-31Z_BAMI_Training_FreeBiasMitigationinGUIGrounding.md]] : BAMI: Training-Free Bias Mitigation in GUI Grounding
+- [[raw/papers/2026-05-07_17-59-44Z_UniPool_AGloballySharedExpertPoolforMixture_of_Exp.md]] : UniPool: A Globally Shared Expert Pool for Mixture-of-Experts
+- [[raw/papers/2026-05-07_17-56-32Z_AICo_Mathematician_AcceleratingMathematicianswithA.md]] : AI Co-Mathematician: Accelerating Mathematicians with Agentic AI
+- [[raw/papers/2026-05-07_17-57-02Z_Optimizer_ModelConsistency_FullFinetuningwiththeSa.md]] : Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less
+- [[raw/papers/2026-05-07_17-58-32Z_Verifier_BackedHardProblemGenerationforMathematica.md]] : Verifier-Backed Hard Problem Generation for Mathematical Reasoning
+- [[raw/papers/2026-05-07_17-55-21Z_BeyondNegativeRollouts_Positive_OnlyPolicyOptimiza.md]] : Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients
+- [[raw/papers/2026-05-07_17-59-58Z_ActCam_Zero_ShotJointCameraand3DMotionControlforVi.md]] : ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation
+- [[raw/papers/2026-05-07_17-56-41Z_WhenNoBenchmarkExists_ValidatingComparativeLLMSafe.md]] : When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels
 -  : Nine Breakthroughs Made Possible by AI
-- [[2026-05-08_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
-- [[2026-05-08_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
 -  : Generative AI recent news | AI Business
 -  : Top 7 open source LLMs for 2026
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-08_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 -  : Top 7 open source LLMs for 2026 - NetApp Instaclustr
-- [[2026-05-09_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
 -  : Top 7 open source LLMs for 2026
 -  : Nine Breakthroughs Made Possible by AI
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-09_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Generative AI recent news | AI Business
-- [[2026-05-09_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[2026-05-09_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
-- [[2026-05-09_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[Scaling Laws for Neural Language Models]] : "Scaling Laws for Neural Language Models"
+- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/papers/2026-05-09_2001.08361-scaling-laws-for-neural-language-models.md]] : "Scaling Laws for Neural Language Models"
 -  : "Attention Is All You Need"
-- [[2026-05-09_2006.11239-denoising-diffusion-probabilistic-models.md]] : "Denoising Diffusion Probabilistic Models" (DDPM)
-- [[2026-05-09_1810.04805-bert-pre-training-bidirectional-transformers.md]] : "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
-- [[2026-05-09_2005.14165-language-models-are-few-shot-learners.md]] : "Language Models Are Few-Shot Learners" (GPT-3)
-- [[2026-05-09_1409.1556-alexnet-very-deep-cnn.md]] : "ImageNet Classification with Deep Convolutional Neural Networks" (AlexNet)
-- [[2026-05-09_1406.2661-generative-adversarial-networks.md]] : "Generative Adversarial Networks" (GANs)
-- [[2026-05-09_2203.15556-chinchilla-compute-optimal.md]] : "Training Compute-Optimal Large Language Models" (Chinchilla)
-- [[2026-05-09_1701.06538-mixture-of-experts-moe.md]] : "Sparsely-Gated Mixture of Experts Layers (MoE)"
-- [[2026-05-09_1502.03167-batch-normalization.md]] : "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"
-- [[2026-05-09_1512.03385-deep-residual-learning-resnet.md]] : "Deep Residual Learning for Image Recognition" (ResNet)
+- [[raw/papers/2026-05-09_2006.11239-denoising-diffusion-probabilistic-models.md]] : "Denoising Diffusion Probabilistic Models" (DDPM)
+- [[raw/papers/2026-05-09_1810.04805-bert-pre-training-bidirectional-transformers.md]] : "BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
+- [[raw/papers/2026-05-09_2005.14165-language-models-are-few-shot-learners.md]] : "Language Models Are Few-Shot Learners" (GPT-3)
+- [[raw/papers/2026-05-09_1409.1556-alexnet-very-deep-cnn.md]] : "ImageNet Classification with Deep Convolutional Neural Networks" (AlexNet)
+- [[raw/papers/2026-05-09_1406.2661-generative-adversarial-networks.md]] : "Generative Adversarial Networks" (GANs)
+- [[raw/papers/2026-05-09_2203.15556-chinchilla-compute-optimal.md]] : "Training Compute-Optimal Large Language Models" (Chinchilla)
+- [[raw/papers/2026-05-09_1701.06538-mixture-of-experts-moe.md]] : "Sparsely-Gated Mixture of Experts Layers (MoE)"
+- [[raw/papers/2026-05-09_1502.03167-batch-normalization.md]] : "Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift"
+- [[raw/papers/2026-05-09_1512.03385-deep-residual-learning-resnet.md]] : "Deep Residual Learning for Image Recognition" (ResNet)
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
 -  : Nine Breakthroughs Made Possible by AI
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-10_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 -  : Generative AI recent news | AI Business
 -  : Top 7 open source LLMs for 2026
-- [[2026-05-10_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
-- [[2026-05-08_13-14-04Z_Cross_AttentionandEncoder_DecoderTransformers_ALog.md]] : Cross-Attention and Encoder-Decoder Transformers: A Logical Characterization
-- [[2026-05-08_13-14-31Z_HierarchicalTaskNetworkPlanningwithLLM_GeneratedHe.md]] : Hierarchical Task Network Planning with LLM-Generated Heuristics
-- [[2026-05-08_13-12-32Z_GuidanceIsNotaHyperparameter_LearningDynamicContro.md]] : Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models
-- [[2026-05-08_13-10-49Z_DRIP_R_ABenchmarkforDecision_MakingandReasoningUnd.md]] : DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain
-- [[2026-05-08_13-08-18Z_FutureValidityistheMissingStatistic_FromImpossibil.md]] : Future Validity is the Missing Statistic: From Impossibility to $Φ$-Estimation for Grammar-Faithful Speculative Decoding
-- [[Finite-Time Analysis of MCTS in Continuous POMDP Planning]] : Finite-Time Analysis of MCTS in Continuous POMDP Planning
-- [[Bayesian Fine-tuning in Projected Subspaces]] : Bayesian Fine-tuning in Projected Subspaces
-- [[2026-05-08_13-16-17Z_SimCT_RecoveringLostSupervisionforCross_TokenizerO.md]] : SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation
-- [[2026-05-08_13-02-58Z_TowardBetterGeometricRepresentationsforMoleculeGen.md]] : Toward Better Geometric Representations for Molecule Generative Models
-- [[2026-05-08_13-03-41Z_DependenceonEarlyandLateReverberationofSingle_Chan.md]] : Dependence on Early and Late Reverberation of Single-Channel Speaker Distance Estimation
-- [[1950-turing-computing-machinery-and-intelligence.md]] : "Computing Machinery and Intelligence" (Turing Test)
-- [[2026-05-08_17-56-19Z_Zero_ShotImaginedSpeechDecodingviaImagined_to_List.md]] : Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping
-- [[2026-05-08_17-54-38Z_VecCISC_ImprovingConfidence_InformedSelf_Consisten.md]] : VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection
-- [[Normalizing Trajectory Models]] : Normalizing Trajectory Models
-- [[2026-05-08_17-48-58Z_Rubric_GroundedRL_StructuredJudgeRewardsforGeneral.md]] : Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning
-- [[2026-05-08_17-57-13Z_ConformalPathReasoning_TrustworthyKnowledgeGraphQu.md]] : Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration
-- [[2026-05-08_17-56-01Z_EmambaIR_EfficientVisualStateSpaceModelforEvent_gu.md]] : EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction
-- [[2026-05-08_17-55-39Z_ANoteonNon_Negative_L_1__ApproximatingPolynomials.md]] : A Note on Non-Negative $L_1$-Approximating Polynomials
-- [[2026-05-08_17-50-15Z_Flow_OPD_On_PolicyDistillationforFlowMatchingModel.md]] : Flow-OPD: On-Policy Distillation for Flow Matching Models
-- [[2026-05-08_17-59-40Z_LLMsImprovingLLMs_AgenticDiscoveryforTest_TimeScal.md]] : LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling
-- [[2026-05-08_17-56-09Z_GRAPHLCP_Structure_AwareLocalizedConformalPredicti.md]] : GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs
-- [[2026-05-10_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
-- [[2026-05-11_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+- [[raw/papers/2026-05-08_13-14-04Z_Cross_AttentionandEncoder_DecoderTransformers_ALog.md]] : Cross-Attention and Encoder-Decoder Transformers: A Logical Characterization
+- [[raw/papers/2026-05-08_13-14-31Z_HierarchicalTaskNetworkPlanningwithLLM_GeneratedHe.md]] : Hierarchical Task Network Planning with LLM-Generated Heuristics
+- [[raw/papers/2026-05-08_13-12-32Z_GuidanceIsNotaHyperparameter_LearningDynamicContro.md]] : Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models
+- [[raw/papers/2026-05-08_13-10-49Z_DRIP_R_ABenchmarkforDecision_MakingandReasoningUnd.md]] : DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain
+- [[raw/papers/2026-05-08_13-08-18Z_FutureValidityistheMissingStatistic_FromImpossibil.md]] : Future Validity is the Missing Statistic: From Impossibility to $Φ$-Estimation for Grammar-Faithful Speculative Decoding
+- [[raw/papers/2026-05-08_13-13-29Z_Finite_TimeAnalysisofMCTSinContinuousPOMDPPlanning.md]] : Finite-Time Analysis of MCTS in Continuous POMDP Planning
+- [[raw/papers/2026-05-08_13-14-24Z_BayesianFine_tuninginProjectedSubspaces.md]] : Bayesian Fine-tuning in Projected Subspaces
+- [[raw/papers/2026-05-08_13-16-17Z_SimCT_RecoveringLostSupervisionforCross_TokenizerO.md]] : SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation
+- [[raw/papers/2026-05-08_13-02-58Z_TowardBetterGeometricRepresentationsforMoleculeGen.md]] : Toward Better Geometric Representations for Molecule Generative Models
+- [[raw/papers/2026-05-08_13-03-41Z_DependenceonEarlyandLateReverberationofSingle_Chan.md]] : Dependence on Early and Late Reverberation of Single-Channel Speaker Distance Estimation
+- [[raw/papers/1950-turing-computing-machinery-and-intelligence.md]] : "Computing Machinery and Intelligence" (Turing Test)
+- [[raw/papers/2026-05-08_17-56-19Z_Zero_ShotImaginedSpeechDecodingviaImagined_to_List.md]] : Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping
+- [[raw/papers/2026-05-08_17-54-38Z_VecCISC_ImprovingConfidence_InformedSelf_Consisten.md]] : VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection
+- [[raw/papers/2026-05-08_17-57-14Z_NormalizingTrajectoryModels.md]] : Normalizing Trajectory Models
+- [[raw/papers/2026-05-08_17-48-58Z_Rubric_GroundedRL_StructuredJudgeRewardsforGeneral.md]] : Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning
+- [[raw/papers/2026-05-08_17-57-13Z_ConformalPathReasoning_TrustworthyKnowledgeGraphQu.md]] : Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration
+- [[raw/papers/2026-05-08_17-56-01Z_EmambaIR_EfficientVisualStateSpaceModelforEvent_gu.md]] : EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction
+- [[raw/papers/2026-05-08_17-55-39Z_ANoteonNon_Negative_L_1__ApproximatingPolynomials.md]] : A Note on Non-Negative $L_1$-Approximating Polynomials
+- [[raw/papers/2026-05-08_17-50-15Z_Flow_OPD_On_PolicyDistillationforFlowMatchingModel.md]] : Flow-OPD: On-Policy Distillation for Flow Matching Models
+- [[raw/papers/2026-05-08_17-59-40Z_LLMsImprovingLLMs_AgenticDiscoveryforTest_TimeScal.md]] : LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling
+- [[raw/papers/2026-05-08_17-56-09Z_GRAPHLCP_Structure_AwareLocalizedConformalPredicti.md]] : GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs
+- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 -  : Generative AI news and analysis | TechCrunch
 -  : Generative AI recent news | AI Business
 -  : Nine Breakthroughs Made Possible by AI
 -  : Top 7 open source LLMs for 2026
-- [[2026-05-11_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-05-11_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[2026-05-11_AIUpdatesToday_May2026__LatestAIModelReleases.md]] : AI Updates Today (May 2026) – Latest AI Model Releases
-- [[2026-05-12_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-05-12_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Nine Breakthroughs Made Possible by AI
 -  : Generative AI news and analysis | TechCrunch
 -  : Top 7 open source LLMs for 2026
 -  : Generative AI recent news | AI Business
-- [[2026-05-12_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
-- [[2026-05-11_17-51-46Z_Confidence_GuidedDiffusionAugmentationforEnhancedB.md]] : Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition
-- [[2026-05-11_17-58-45Z_VariationalInferenceforLévyProcess_DrivenSDEsviaNe.md]] : Variational Inference for Lévy Process-Driven SDEs via Neural Tilting
-- [[2026-05-11_17-52-15Z_OptimalandScalableMAPFviaMulti_MarginalOptimalTran.md]] : Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges
-- [[2026-05-11_17-55-13Z_DynamicSkillLifecycleManagementforAgenticReinforce.md]] : Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning
-- [[2026-05-11_17-59-29Z_ELF_EmbeddedLanguageFlows.md]] : ELF: Embedded Language Flows
-- [[2026-05-11_17-49-28Z_EquivariantReinforcementLearningforCliffordQuantum.md]] : Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis
-- [[2026-05-11_17-58-28Z_DECO_SparseMixture_of_ExpertswithDense_ComparableP.md]] : DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices
-- [[2026-05-11_17-50-51Z_Shepherd_ARuntimeSubstrateEmpoweringMeta_Agentswit.md]] : Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace
-- [[2026-05-11_17-58-14Z_QuantifyingConcentrationPhenomenaofMean_FieldTrans.md]] : Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime
-- [[2026-05-11_17-49-43Z_WildClawBench_ABenchmarkforReal_World_Long_Horizon.md]] : WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation
+- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+- [[raw/papers/2026-05-11_17-51-46Z_Confidence_GuidedDiffusionAugmentationforEnhancedB.md]] : Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition
+- [[raw/papers/2026-05-11_17-58-45Z_VariationalInferenceforLévyProcess_DrivenSDEsviaNe.md]] : Variational Inference for Lévy Process-Driven SDEs via Neural Tilting
+- [[raw/papers/2026-05-11_17-52-15Z_OptimalandScalableMAPFviaMulti_MarginalOptimalTran.md]] : Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges
+- [[raw/papers/2026-05-11_17-55-13Z_DynamicSkillLifecycleManagementforAgenticReinforce.md]] : Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning
+- [[raw/papers/2026-05-11_17-59-29Z_ELF_EmbeddedLanguageFlows.md]] : ELF: Embedded Language Flows
+- [[raw/papers/2026-05-11_17-49-28Z_EquivariantReinforcementLearningforCliffordQuantum.md]] : Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis
+- [[raw/papers/2026-05-11_17-58-28Z_DECO_SparseMixture_of_ExpertswithDense_ComparableP.md]] : DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices
+- [[raw/papers/2026-05-11_17-50-51Z_Shepherd_ARuntimeSubstrateEmpoweringMeta_Agentswit.md]] : Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace
+- [[raw/papers/2026-05-11_17-58-14Z_QuantifyingConcentrationPhenomenaofMean_FieldTrans.md]] : Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime
+- [[raw/papers/2026-05-11_17-49-43Z_WildClawBench_ABenchmarkforReal_World_Long_Horizon.md]] : WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[2026-05-12_11-33-49Z_OnPredictingthePost_trainingPotentialofPre_trained.md]] : On Predicting the Post-training Potential of Pre-trained LLMs
-- [[Random-Set Graph Neural Networks]] : Random-Set Graph Neural Networks
-- [[2026-05-12_11-34-46Z_High_liftWingSeparationControlviaBayesianOptimizat.md]] : High-lift Wing Separation Control via Bayesian Optimization and Deep Reinforcement Learning
-- [[2026-05-12_11-26-47Z_CooperativeRoboticsReinforcedbyCollectivePerceptio.md]] : Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation
-- [[NOFE - Neural Operator Function Embedding]] : NOFE - Neural Operator Function Embedding
-- [[2026-05-12_11-35-59Z_OntheLimitationsofLargeLanguageModelsforConceptual.md]] : On the Limitations of Large Language Models for Conceptual Database Modeling
-- [[2026-05-12_11-35-08Z_QDSB_QuantizedDiffusionSchrödingerBridges.md]] : QDSB: Quantized Diffusion Schrödinger Bridges
-- [[2026-05-12_11-31-18Z_TowardsOrderFairness_MitigatingLLMsOrderSensitivit.md]] : Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization
-- [[2026-05-12_11-40-49Z_ATransferLearningEvaluationofDeepNeuralNetworksfor.md]] : A Transfer Learning Evaluation of Deep Neural Networks for Image Classification
-- [[2026-05-12_11-31-36Z_StochasticMinimum_CostReach_AvoidReinforcementLear.md]] : Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning
-- [[2026-05-12_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
-- [[2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md]] : Learning, Fast and Slow: Towards LLMs That Adapt Continually
-- [[2026-05-12_17-58-27Z_Task_AdaptiveEmbeddingRefinementviaTest_timeLLMGui.md]] : Task-Adaptive Embedding Refinement via Test-time LLM Guidance
-- [[2026-05-12_17-57-48Z_BeyondGRPOandOn_PolicyDistillation_AnEmpiricalSpar.md]] : Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training
-- [[2026-05-12_17-57-04Z_ToolCUA_TowardsOptimalGUI_ToolPathOrchestrationfor.md]] : ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents
-- [[2026-05-12_17-59-34Z_LongMemEval_V2_EvaluatingLong_TermAgentMemoryTowar.md]] : LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues
-- [[2026-05-12_17-55-10Z_MEME_Multi_entity_EvolvingMemoryEvaluation.md]] : MEME: Multi-entity & Evolving Memory Evaluation
-- [[2026-05-12_17-56-59Z_OmniNFT_Modality_wiseOmniDiffusionReinforcementfor.md]] : OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation
-- [[2026-05-12_17-59-47Z_AlphaGRPO_UnlockingSelf_ReflectiveMultimodalGenera.md]] : AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward
-- [[2026-05-12_17-59-34Z_Pion_ASpectrum_PreservingOptimizerviaOrthogonalEqu.md]] : Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation
-- [[Elastic Attention Cores for Scalable Vision Transformers]] : Elastic Attention Cores for Scalable Vision Transformers
-- [[2026-05-12_AIUpdatesToday_May2026__LatestAIModelReleases.md]] : AI Updates Today (May 2026) – Latest AI Model Releases
+- [[raw/papers/2026-05-12_11-33-49Z_OnPredictingthePost_trainingPotentialofPre_trained.md]] : On Predicting the Post-training Potential of Pre-trained LLMs
+- [[raw/papers/2026-05-12_11-38-13Z_Random_SetGraphNeuralNetworks.md]] : Random-Set Graph Neural Networks
+- [[raw/papers/2026-05-12_11-34-46Z_High_liftWingSeparationControlviaBayesianOptimizat.md]] : High-lift Wing Separation Control via Bayesian Optimization and Deep Reinforcement Learning
+- [[raw/papers/2026-05-12_11-26-47Z_CooperativeRoboticsReinforcedbyCollectivePerceptio.md]] : Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation
+- [[raw/papers/2026-05-12_11-25-52Z_NOFE__NeuralOperatorFunctionEmbedding.md]] : NOFE - Neural Operator Function Embedding
+- [[raw/papers/2026-05-12_11-35-59Z_OntheLimitationsofLargeLanguageModelsforConceptual.md]] : On the Limitations of Large Language Models for Conceptual Database Modeling
+- [[raw/papers/2026-05-12_11-35-08Z_QDSB_QuantizedDiffusionSchrödingerBridges.md]] : QDSB: Quantized Diffusion Schrödinger Bridges
+- [[raw/papers/2026-05-12_11-31-18Z_TowardsOrderFairness_MitigatingLLMsOrderSensitivit.md]] : Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization
+- [[raw/papers/2026-05-12_11-40-49Z_ATransferLearningEvaluationofDeepNeuralNetworksfor.md]] : A Transfer Learning Evaluation of Deep Neural Networks for Image Classification
+- [[raw/papers/2026-05-12_11-31-36Z_StochasticMinimum_CostReach_AvoidReinforcementLear.md]] : Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning
+- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+- [[raw/papers/2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md]] : Learning, Fast and Slow: Towards LLMs That Adapt Continually
+- [[raw/papers/2026-05-12_17-58-27Z_Task_AdaptiveEmbeddingRefinementviaTest_timeLLMGui.md]] : Task-Adaptive Embedding Refinement via Test-time LLM Guidance
+- [[raw/papers/2026-05-12_17-57-48Z_BeyondGRPOandOn_PolicyDistillation_AnEmpiricalSpar.md]] : Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training
+- [[raw/papers/2026-05-12_17-57-04Z_ToolCUA_TowardsOptimalGUI_ToolPathOrchestrationfor.md]] : ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents
+- [[raw/papers/2026-05-12_17-59-34Z_LongMemEval_V2_EvaluatingLong_TermAgentMemoryTowar.md]] : LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues
+- [[raw/papers/2026-05-12_17-55-10Z_MEME_Multi_entity_EvolvingMemoryEvaluation.md]] : MEME: Multi-entity & Evolving Memory Evaluation
+- [[raw/papers/2026-05-12_17-56-59Z_OmniNFT_Modality_wiseOmniDiffusionReinforcementfor.md]] : OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation
+- [[raw/papers/2026-05-12_17-59-47Z_AlphaGRPO_UnlockingSelf_ReflectiveMultimodalGenera.md]] : AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward
+- [[raw/papers/2026-05-12_17-59-34Z_Pion_ASpectrum_PreservingOptimizerviaOrthogonalEqu.md]] : Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation
+- [[raw/papers/2026-05-12_17-59-26Z_ElasticAttentionCoresforScalableVisionTransformers.md]] : Elastic Attention Cores for Scalable Vision Transformers
 -  : Generative AI recent news | AI Business
 -  : Nine Breakthroughs Made Possible by AI
-- [[2026-05-13_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
-- [[2026-05-13_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
-- [[2026-05-13_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 -  : Generative AI news and analysis | TechCrunch
 -  : Top 7 open source LLMs for 2026
-- [[2026-05-13_AIUpdatesToday_May2026__LatestAIModelReleases.md]] : AI Updates Today (May 2026) – Latest AI Model Releases
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[2026-05-13_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
-- [[2026-05-13_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
-- [[2026-05-13_11-20-52Z_BuildingInteractiveReal_TimeAgentswithAsynchronous.md]] : Building Interactive Real-Time Agents with Asynchronous I/O and Speculative Tool Calling
-- [[2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md]] : Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor
-- [[A Horn extension of DL-Lite with NL data complexity]] : A Horn extension of DL-Lite with NL data complexity
-- [[2026-05-13_11-32-03Z_GRIP_VLM_Group_RelativeImportancePruningforEfficie.md]] : GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models
-- [[2026-05-13_11-27-32Z_WhatDoesLLMRefinementActuallyImprove_ASystematicSt.md]] : What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation
-- [[2026-05-13_11-27-40Z_Query_ConditionedTest_TimeSelf_TrainingforLargeLan.md]] : Query-Conditioned Test-Time Self-Training for Large Language Models
-- [[2026-05-13_11-28-06Z_PhasorMemoryNetworks_StableBackpropagationThroughT.md]] : Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory
-- [[2026-05-13_11-14-59Z_AIHarnessEngineering_ARuntimeSubstrateforFoundatio.md]] : AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents
-- [[Constitutional Governance in Metric Spaces]] : Constitutional Governance in Metric Spaces
-- [[2026-05-13_11-28-56Z_ExploitingPre_trainedEncoder_DecoderTransformersfo.md]] : Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing
-- [[2026-05-13_17-58-32Z_GoodAgenticFriendsDoNotJustGiveVerbalAdvice_TheyCa.md]] : Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights
-- [[2026-05-13_17-56-20Z_QLAM_AQuantumLong_AttentionMemoryApproachtoLong_Se.md]] : QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling
-- [[2026-05-13_17-52-19Z_QuantifyingSensitivityforTreeEnsembles_Asymbolican.md]] : Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach
-- [[2026-05-13_17-58-13Z_R_DMesh_Video_Guided3DAnimationviaRectifiedDynamic.md]] : R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow
-- [[2026-05-13_17-50-57Z_Reducingcross_samplepredictionchurninscientificmac.md]] : Reducing cross-sample prediction churn in scientific machine learning
-- [[2026-05-13_17-51-31Z_NegationNeglect_Whenmodelsfailtolearnnegationsintr.md]] : Negation Neglect: When models fail to learn negations in training
-- [[2026-05-13_17-58-46Z_WhatisLearnableinValiant_sTheoryoftheLearnable.md]] : What is Learnable in Valiant's Theory of the Learnable?
-- [[2026-05-13_17-58-52Z_EVA_Bench_ANewEnd_to_endFrameworkforEvaluatingVoic.md]] : EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents
-- [[2026-05-13_17-56-23Z_Topology_PreservingNeuralOperatorLearningviaHodgeD.md]] : Topology-Preserving Neural Operator Learning via Hodge Decomposition
-- [[2026-05-13_17-59-52Z_WARDEN_EndangeredIndigenousLanguageTranscriptionan.md]] : WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data
+- [[raw/articles/2026-05-13_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
+- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+- [[raw/papers/2026-05-13_11-20-52Z_BuildingInteractiveReal_TimeAgentswithAsynchronous.md]] : Building Interactive Real-Time Agents with Asynchronous I/O and Speculative Tool Calling
+- [[raw/papers/2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md]] : Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor
+- [[raw/papers/2026-05-13_11-26-32Z_AHornextensionofDL_LitewithNLdatacomplexity.md]] : A Horn extension of DL-Lite with NL data complexity
+- [[raw/papers/2026-05-13_11-32-03Z_GRIP_VLM_Group_RelativeImportancePruningforEfficie.md]] : GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models
+- [[raw/papers/2026-05-13_11-27-32Z_WhatDoesLLMRefinementActuallyImprove_ASystematicSt.md]] : What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation
+- [[raw/papers/2026-05-13_11-27-40Z_Query_ConditionedTest_TimeSelf_TrainingforLargeLan.md]] : Query-Conditioned Test-Time Self-Training for Large Language Models
+- [[raw/papers/2026-05-13_11-28-06Z_PhasorMemoryNetworks_StableBackpropagationThroughT.md]] : Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory
+- [[raw/papers/2026-05-13_11-14-59Z_AIHarnessEngineering_ARuntimeSubstrateforFoundatio.md]] : AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents
+- [[raw/papers/2026-05-13_11-23-34Z_ConstitutionalGovernanceinMetricSpaces.md]] : Constitutional Governance in Metric Spaces
+- [[raw/papers/2026-05-13_11-28-56Z_ExploitingPre_trainedEncoder_DecoderTransformersfo.md]] : Exploiting Pre-trained Encoder-Decoder Transformers for Sequence-to-Sequence Constituent Parsing
+- [[raw/papers/2026-05-13_17-58-32Z_GoodAgenticFriendsDoNotJustGiveVerbalAdvice_TheyCa.md]] : Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights
+- [[raw/papers/2026-05-13_17-56-20Z_QLAM_AQuantumLong_AttentionMemoryApproachtoLong_Se.md]] : QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling
+- [[raw/papers/2026-05-13_17-52-19Z_QuantifyingSensitivityforTreeEnsembles_Asymbolican.md]] : Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach
+- [[raw/papers/2026-05-13_17-58-13Z_R_DMesh_Video_Guided3DAnimationviaRectifiedDynamic.md]] : R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow
+- [[raw/papers/2026-05-13_17-50-57Z_Reducingcross_samplepredictionchurninscientificmac.md]] : Reducing cross-sample prediction churn in scientific machine learning
+- [[raw/papers/2026-05-13_17-51-31Z_NegationNeglect_Whenmodelsfailtolearnnegationsintr.md]] : Negation Neglect: When models fail to learn negations in training
+- [[raw/papers/2026-05-13_17-58-46Z_WhatisLearnableinValiant_sTheoryoftheLearnable.md]] : What is Learnable in Valiant's Theory of the Learnable?
+- [[raw/papers/2026-05-13_17-58-52Z_EVA_Bench_ANewEnd_to_endFrameworkforEvaluatingVoic.md]] : EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents
+- [[raw/papers/2026-05-13_17-56-23Z_Topology_PreservingNeuralOperatorLearningviaHodgeD.md]] : Topology-Preserving Neural Operator Learning via Hodge Decomposition
+- [[raw/papers/2026-05-13_17-59-52Z_WARDEN_EndangeredIndigenousLanguageTranscriptionan.md]] : WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data
 -  : Nine Breakthroughs Made Possible by AI
 -  : Top 7 open source LLMs for 2026
-- [[2026-05-14_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-05-14_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 -  : Generative AI news and analysis | TechCrunch
 -  : Generative AI recent news | AI Business
-- [[2026-05-14_AIUpdatesToday_May2026__LatestAIModelReleases.md]] : AI Updates Today (May 2026) – Latest AI Model Releases
 -  : Generative AI
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[2026-05-14_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
-- [[2026-05-14_13-43-55Z_GenAIforEnergy_EfficientandInterference_AwareCompr.md]] : GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU
-- [[2026-05-14_13-58-36Z_IFPV_AnIntegratedMulti_AgentFrameworkforGenerative.md]] : IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification
-- [[2026-05-14_14-04-46Z_ADeterministicAgenticWorkflowforHSTariffClassifica.md]] : A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions
-- [[2026-05-14_14-06-51Z_ANon_MonotonePreconditionedTrust_RegionMethodforNe.md]] : A Non-Monotone Preconditioned Trust-Region Method for Neural Network Training
-- [[2026-05-14_13-59-56Z_FactorizedHMR_AHybridFrameworkforVideoHumanMeshRec.md]] : FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery
-- [[2026-05-14_13-46-04Z_GPart_End_to_EndIsometricFine_TuningviaGlobalParam.md]] : GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning
-- [[2026-05-14_13-45-20Z_In_ContextLearningforData_DrivenCensoredInventoryC.md]] : In-Context Learning for Data-Driven Censored Inventory Control
-- [[2026-05-14_13-52-31Z_XFP_Quality_TargetedAdaptiveCodebookQuantizationwi.md]] : XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference
-- [[2026-05-14_14-05-58Z_DoCodingAgentsUnderstandLeast_PrivilegeAuthorizati.md]] : Do Coding Agents Understand Least-Privilege Authorization?
-- [[2026-05-14_14-02-45Z_ExploitationofHiddenContextinDynamicMovementForeca.md]] : Exploitation of Hidden Context in Dynamic Movement Forecasting: A Neural Network Journey from Recurrent to Graph Neural Networks and General Purpose Transformers
-- [[2026-05-14_17-57-40Z_OpenDeepThink_ParallelReasoningviaBradley__TerryAg.md]] : OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation
-- [[2026-05-14_17-59-55Z_EntityBench_TowardsEntity_ConsistentLong_RangeMult.md]] : EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation
-- [[2026-05-14_17-59-04Z_VGGT_Edit_Feed_forwardNative3DSceneEditingwithResi.md]] : VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction
-- [[2026-05-14_17-59-04Z_QuantitativeVideoWorldModelEvaluationforGeometric_.md]] : Quantitative Video World Model Evaluation for Geometric-Consistency
-- [[2026-05-14_17-58-15Z_EradicatingNegativeTransferinMulti_PhysicsFoundati.md]] : Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing
-- [[2026-05-14_17-59-52Z_RefDecoder_EnhancingVisualGenerationwithConditiona.md]] : RefDecoder: Enhancing Visual Generation with Conditional Video Decoding
-- [[2026-05-14_17-59-28Z_FutureSim_ReplayingWorldEventstoEvaluateAdaptiveAg.md]] : FutureSim: Replaying World Events to Evaluate Adaptive Agents
-- [[2026-05-14_17-58-27Z_WhenAreTwoNetworkstheSame_TensorSimilarityforMecha.md]] : When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability
-- [[2026-05-14_17-58-41Z_IsGrepAllYouNeed_HowAgentHarnessesReshapeAgenticSe.md]] : Is Grep All You Need? How Agent Harnesses Reshape Agentic Search
-- [[2026-05-14_17-59-55Z_ATLAS_AgenticorLatentVisualReasoning_OneWordisEnou.md]] : ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both
+- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+- [[raw/papers/2026-05-14_13-43-55Z_GenAIforEnergy_EfficientandInterference_AwareCompr.md]] : GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU
+- [[raw/papers/2026-05-14_13-58-36Z_IFPV_AnIntegratedMulti_AgentFrameworkforGenerative.md]] : IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification
+- [[raw/papers/2026-05-14_14-04-46Z_ADeterministicAgenticWorkflowforHSTariffClassifica.md]] : A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions
+- [[raw/papers/2026-05-14_14-06-51Z_ANon_MonotonePreconditionedTrust_RegionMethodforNe.md]] : A Non-Monotone Preconditioned Trust-Region Method for Neural Network Training
+- [[raw/papers/2026-05-14_13-59-56Z_FactorizedHMR_AHybridFrameworkforVideoHumanMeshRec.md]] : FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery
+- [[raw/papers/2026-05-14_13-46-04Z_GPart_End_to_EndIsometricFine_TuningviaGlobalParam.md]] : GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning
+- [[raw/papers/2026-05-14_13-45-20Z_In_ContextLearningforData_DrivenCensoredInventoryC.md]] : In-Context Learning for Data-Driven Censored Inventory Control
+- [[raw/papers/2026-05-14_13-52-31Z_XFP_Quality_TargetedAdaptiveCodebookQuantizationwi.md]] : XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference
+- [[raw/papers/2026-05-14_14-05-58Z_DoCodingAgentsUnderstandLeast_PrivilegeAuthorizati.md]] : Do Coding Agents Understand Least-Privilege Authorization?
+- [[raw/papers/2026-05-14_14-02-45Z_ExploitationofHiddenContextinDynamicMovementForeca.md]] : Exploitation of Hidden Context in Dynamic Movement Forecasting: A Neural Network Journey from Recurrent to Graph Neural Networks and General Purpose Transformers
+- [[raw/papers/2026-05-14_17-57-40Z_OpenDeepThink_ParallelReasoningviaBradley__TerryAg.md]] : OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation
+- [[raw/papers/2026-05-14_17-59-55Z_EntityBench_TowardsEntity_ConsistentLong_RangeMult.md]] : EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation
+- [[raw/papers/2026-05-14_17-59-04Z_VGGT_Edit_Feed_forwardNative3DSceneEditingwithResi.md]] : VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction
+- [[raw/papers/2026-05-14_17-59-04Z_QuantitativeVideoWorldModelEvaluationforGeometric_.md]] : Quantitative Video World Model Evaluation for Geometric-Consistency
+- [[raw/papers/2026-05-14_17-58-15Z_EradicatingNegativeTransferinMulti_PhysicsFoundati.md]] : Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing
+- [[raw/papers/2026-05-14_17-59-52Z_RefDecoder_EnhancingVisualGenerationwithConditiona.md]] : RefDecoder: Enhancing Visual Generation with Conditional Video Decoding
+- [[raw/papers/2026-05-14_17-59-28Z_FutureSim_ReplayingWorldEventstoEvaluateAdaptiveAg.md]] : FutureSim: Replaying World Events to Evaluate Adaptive Agents
+- [[raw/papers/2026-05-14_17-58-27Z_WhenAreTwoNetworkstheSame_TensorSimilarityforMecha.md]] : When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability
+- [[raw/papers/2026-05-14_17-58-41Z_IsGrepAllYouNeed_HowAgentHarnessesReshapeAgenticSe.md]] : Is Grep All You Need? How Agent Harnesses Reshape Agentic Search
+- [[raw/papers/2026-05-14_17-59-55Z_ATLAS_AgenticorLatentVisualReasoning_OneWordisEnou.md]] : ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both
 -  : Generative AI recent news | AI Business
 -  : Generative AI news and analysis | TechCrunch
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[2026-05-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 -  : Nine Breakthroughs Made Possible by AI
-- [[2026-05-15_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Top 7 open source LLMs for 2026
-- [[2026-05-15_WhatisMLArchitecture.md]] : What is ML Architecture
-- [[2026-05-15_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
-- [[2026-05-15_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-05-15_AIUpdatesToday_May2026__LatestAIModelReleases.md]] : AI Updates Today (May 2026) – Latest AI Model Releases
+- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+- [[raw/articles/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-16_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-05-16_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
 -  : Top 7 open source LLMs for 2026
-- [[2026-05-16_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 -  : Generative AI recent news | AI Business
 -  : Nine Breakthroughs Made Possible by AI
-- [[2026-05-16_AIUpdatesToday_May2026__LatestAIModelReleases.md]] : AI Updates Today (May 2026) – Latest AI Model Releases
 -  : Top 7 open source LLMs for 2026
 -  : Generative AI recent news | AI Business
 -  : Generative AI news and analysis | TechCrunch
-- [[2026-05-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-05-17_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
-- [[2026-05-17_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 -  : Nine Breakthroughs Made Possible by AI
-- [[2026-05-18_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 -  : Generative AI news and analysis | TechCrunch
 -  : Top 7 open source LLMs for 2026
-- [[2026-05-18_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-05-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 -  : Generative AI recent news | AI Business
 -  : Nine Breakthroughs Made Possible by AI
-- [[2026-05-15_17-43-16Z_LayerEquivalenceIsNotaPropertyofLayersAlone_HowYou.md]] : Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find
-- [[AI-Mediated Communication Can Steer Collective Opinion]] : AI-Mediated Communication Can Steer Collective Opinion
-- [[2026-05-15_17-58-58Z_DesigningDatacenterPowerDeliveryHierarchiesfortheA.md]] : Designing Datacenter Power Delivery Hierarchies for the AI Era
-- [[2026-05-15_17-42-49Z_FORGE_Self_EvolvingAgentMemoryWithNoWeightUpdatesv.md]] : FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast
-- [[2026-05-15_17-45-17Z_Prospectivemulti_pathogendiseaseforecastingusingau.md]] : Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search
-- [[2026-05-15_17-48-22Z_Dynamics_LevelWatermarkingofFlowMatchingModelswith.md]] : Dynamics-Level Watermarking of Flow Matching Models with Random Codes
+- [[raw/papers/2026-05-15_17-43-16Z_LayerEquivalenceIsNotaPropertyofLayersAlone_HowYou.md]] : Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find
+- [[raw/papers/2026-05-15_17-49-24Z_AI_MediatedCommunicationCanSteerCollectiveOpinion.md]] : AI-Mediated Communication Can Steer Collective Opinion
+- [[raw/papers/2026-05-15_17-58-58Z_DesigningDatacenterPowerDeliveryHierarchiesfortheA.md]] : Designing Datacenter Power Delivery Hierarchies for the AI Era
+- [[raw/papers/2026-05-15_17-42-49Z_FORGE_Self_EvolvingAgentMemoryWithNoWeightUpdatesv.md]] : FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast
+- [[raw/papers/2026-05-15_17-45-17Z_Prospectivemulti_pathogendiseaseforecastingusingau.md]] : Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search
+- [[raw/papers/2026-05-15_17-48-22Z_Dynamics_LevelWatermarkingofFlowMatchingModelswith.md]] : Dynamics-Level Watermarking of Flow Matching Models with Random Codes
 -  : A Generative AI Framework for Intelligent Utility Billing CO 2 Analytics and Sustainable Resource Optimisation
 -  : A Unified Generative-AI Framework for Smart Energy Infrastructure: Intelligent Gas Distribution, Utility Billing, Carbon Analytics, and Quantum-Inspired Optimisation
-- [[2026-05-15_17-48-25Z_OfflineSemanticGuidanceforEfficientVision_Language.md]] : Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation
-- [[2026-05-15_17-59-57Z_IVGT_ImplicitVisualGeometryTransformerforNeuralSce.md]] : IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation
+- [[raw/papers/2026-05-15_17-48-25Z_OfflineSemanticGuidanceforEfficientVision_Language.md]] : Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation
+- [[raw/papers/2026-05-15_17-59-57Z_IVGT_ImplicitVisualGeometryTransformerforNeuralSce.md]] : IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation
 -  : Artificial Intelligence News -- ScienceDaily
-- [[2026-05-18_AIUpdatesToday_May2026__LatestAIModelReleases.md]] : AI Updates Today (May 2026) – Latest AI Model Releases
-- [[2026-05-18_10-39-42Z_PIPER_Content_BasedTableSearchviaprofilingandLLM_G.md]] : PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries
-- [[2026-05-18_10-56-14Z_LeveragingGraphStructureinSeq2SeqModelsforKnowledg.md]] : Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction
-- [[2026-05-18_10-54-55Z_SPATIOROUTE_DynamicPromptRoutingforZero_ShotSpatia.md]] : SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning
-- [[2026-05-18_11-12-45Z_ContextMemorizationforEfficientLongContextGenerati.md]] : Context Memorization for Efficient Long Context Generation
-- [[2026-05-18_11-09-22Z_ASimplexWitnessCertificateforConstantCollapseinVar.md]] : A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders
-- [[2026-05-18_10-37-39Z_RGB_onlyActive3DSceneGraphGenerationforIndoorMobil.md]] : RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots
-- [[2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md]] : Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster
-- [[2026-05-18_11-05-10Z_SIREM_Speech_InformedMRIReconstructionwithLearnedS.md]] : SIREM: Speech-Informed MRI Reconstruction with Learned Sampling
-- [[2026-05-18_11-20-57Z_AreSparseAutoencoderBenchmarksReliable.md]] : Are Sparse Autoencoder Benchmarks Reliable?
-- [[2026-05-18_10-43-02Z_ConciseandLogicallyConsistentConformalSetsforNeuro.md]] : Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models
+- [[raw/papers/2026-05-18_10-39-42Z_PIPER_Content_BasedTableSearchviaprofilingandLLM_G.md]] : PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries
+- [[raw/papers/2026-05-18_10-56-14Z_LeveragingGraphStructureinSeq2SeqModelsforKnowledg.md]] : Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction
+- [[raw/papers/2026-05-18_10-54-55Z_SPATIOROUTE_DynamicPromptRoutingforZero_ShotSpatia.md]] : SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning
+- [[raw/papers/2026-05-18_11-12-45Z_ContextMemorizationforEfficientLongContextGenerati.md]] : Context Memorization for Efficient Long Context Generation
+- [[raw/papers/2026-05-18_11-09-22Z_ASimplexWitnessCertificateforConstantCollapseinVar.md]] : A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders
+- [[raw/papers/2026-05-18_10-37-39Z_RGB_onlyActive3DSceneGraphGenerationforIndoorMobil.md]] : RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots
+- [[raw/papers/2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md]] : Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster
+- [[raw/papers/2026-05-18_11-05-10Z_SIREM_Speech_InformedMRIReconstructionwithLearnedS.md]] : SIREM: Speech-Informed MRI Reconstruction with Learned Sampling
+- [[raw/papers/2026-05-18_11-20-57Z_AreSparseAutoencoderBenchmarksReliable.md]] : Are Sparse Autoencoder Benchmarks Reliable?
+- [[raw/papers/2026-05-18_10-43-02Z_ConciseandLogicallyConsistentConformalSetsforNeuro.md]] : Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models
 -  : Generative AI
-- [[2026-05-18_17-57-04Z_Vision_OPD_LearningtoSeeFineDetailsforMultimodalLL.md]] : Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation
-- [[2026-05-18_17-55-03Z_PIXLRelight_ControllableRelightingviaIntrinsicCond.md]] : PIXLRelight: Controllable Relighting via Intrinsic Conditioning
-- [[2026-05-18_17-59-18Z_AReadiness_DrivenRuntimeforPipeline_ParallelTraini.md]] : A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability
-- [[2026-05-18_17-59-00Z_SURGE_Approximation_freeTrainingFreeParticleFilter.md]] : SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate
-- [[Actionable World Representation]] : Actionable World Representation
-- [[2026-05-18_17-59-52Z_DashAttention_DifferentiableandAdaptiveSparseHiera.md]] : DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention
-- [[Code as Agent Harness]] : Code as Agent Harness
-- [[2026-05-18_17-56-13Z_WhatDoestheAIDoctorValue_AuditingPluralismintheCli.md]] : What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models
-- [[2026-05-18_17-53-44Z_PredictableConfabulations_FactualRecallbyLLMsScale.md]] : Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency
-- [[2026-05-18_17-59-02Z_ESI_Bench_TowardsEmbodiedSpatialIntelligencethatCl.md]] : ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop
+- [[raw/papers/2026-05-18_17-57-04Z_Vision_OPD_LearningtoSeeFineDetailsforMultimodalLL.md]] : Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation
+- [[raw/papers/2026-05-18_17-55-03Z_PIXLRelight_ControllableRelightingviaIntrinsicCond.md]] : PIXLRelight: Controllable Relighting via Intrinsic Conditioning
+- [[raw/papers/2026-05-18_17-59-18Z_AReadiness_DrivenRuntimeforPipeline_ParallelTraini.md]] : A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability
+- [[raw/papers/2026-05-18_17-59-00Z_SURGE_Approximation_freeTrainingFreeParticleFilter.md]] : SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate
+- [[raw/papers/2026-05-18_17-58-51Z_ActionableWorldRepresentation.md]] : Actionable World Representation
+- [[raw/papers/2026-05-18_17-59-52Z_DashAttention_DifferentiableandAdaptiveSparseHiera.md]] : DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention
+- [[raw/papers/2026-05-18_17-59-03Z_CodeasAgentHarness.md]] : Code as Agent Harness
+- [[raw/papers/2026-05-18_17-56-13Z_WhatDoestheAIDoctorValue_AuditingPluralismintheCli.md]] : What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models
+- [[raw/papers/2026-05-18_17-53-44Z_PredictableConfabulations_FactualRecallbyLLMsScale.md]] : Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency
+- [[raw/papers/2026-05-18_17-59-02Z_ESI_Bench_TowardsEmbodiedSpatialIntelligencethatCl.md]] : ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop
 -  : Generative AI
 -  : The Best Open-Source LLMs in 2026
-- [[2026-05-19_17-51-46Z_HaorFloodAlert_DeseasonalizedMLEnsemblefor72_HourF.md]] : HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands
-- [[2026-05-19_17-58-40Z_FromSeeingtoThinking_DecouplingPerceptionandReason.md]] : From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models
-- [[2026-05-19_17-53-29Z_KoRe_CompactKnowledgeRepresentationsforLargeLangua.md]] : KoRe: Compact Knowledge Representations for Large Language Models
-- [[2026-05-19_17-59-08Z_TIDE_EfficientandLosslessMoEDiffusionLLMInferencew.md]] : TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload
-- [[2026-05-19_17-50-18Z_NotEveryRubricTeachesEqually_Policy_AwareRubricRew.md]] : Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR
-- [[Long-term Power Grid Planning via Answer Set Programming]] : Long-term Power Grid Planning via Answer Set Programming
-- [[2026-05-19_17-59-31Z_AtomsofThought_UniversalEEGRepresentationLearningw.md]] : Atoms of Thought: Universal EEG Representation Learning with Microstates
-- [[Multi-axis Analysis of Image Manipulation Localization]] : Multi-axis Analysis of Image Manipulation Localization
-- [[2026-05-19_17-58-37Z_ClinSeekAgent_AutomatingMultimodalEvidenceSeekingf.md]] : ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning
-- [[2026-05-19_17-54-21Z_AMethodologyforSelectingandComposingRuntimeArchite.md]] : A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents
+- [[raw/papers/2026-05-19_17-51-46Z_HaorFloodAlert_DeseasonalizedMLEnsemblefor72_HourF.md]] : HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands
+- [[raw/papers/2026-05-19_17-58-40Z_FromSeeingtoThinking_DecouplingPerceptionandReason.md]] : From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models
+- [[raw/papers/2026-05-19_17-53-29Z_KoRe_CompactKnowledgeRepresentationsforLargeLangua.md]] : KoRe: Compact Knowledge Representations for Large Language Models
+- [[raw/papers/2026-05-19_17-59-08Z_TIDE_EfficientandLosslessMoEDiffusionLLMInferencew.md]] : TIDE: Efficient and Lossless MoE Diffusion LLM Inference with I/O-aware Expert Offload
+- [[raw/papers/2026-05-19_17-50-18Z_NotEveryRubricTeachesEqually_Policy_AwareRubricRew.md]] : Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR
+- [[raw/papers/2026-05-19_17-54-15Z_Long_termPowerGridPlanningviaAnswerSetProgramming.md]] : Long-term Power Grid Planning via Answer Set Programming
+- [[raw/papers/2026-05-19_17-59-31Z_AtomsofThought_UniversalEEGRepresentationLearningw.md]] : Atoms of Thought: Universal EEG Representation Learning with Microstates
+- [[raw/papers/2026-05-19_17-54-33Z_Multi_axisAnalysisofImageManipulationLocalization.md]] : Multi-axis Analysis of Image Manipulation Localization
+- [[raw/papers/2026-05-19_17-58-37Z_ClinSeekAgent_AutomatingMultimodalEvidenceSeekingf.md]] : ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning
+- [[raw/papers/2026-05-19_17-54-21Z_AMethodologyforSelectingandComposingRuntimeArchite.md]] : A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents
 -  : The Best Open-Source LLMs in 2026
 -  : Generative AI
-- [[Detecting Trojaned DNNs via Spectral Regression Analysis]] : Detecting Trojaned DNNs via Spectral Regression Analysis
-- [[2026-05-20_13-14-28Z_DistilltoThink_ForeseetoAct_Cognitive_PhysicalRein.md]] : Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving
-- [[2026-05-20_13-18-11Z_CoarseSoundNet_Buildingareliablemodelforecological.md]] : CoarseSoundNet: Building a reliable model for ecological soundscape analysis
-- [[2026-05-20_12-58-01Z_Reasoning_TraceCollapse_EvaluatingtheLossofExplici.md]] : Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning
-- [[2026-05-20_12-47-14Z_AutomatedByzantine_ResilientClusteredDecentralized.md]] : Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs
-- [[2026-05-20_13-19-28Z_SMoA_SpectrumModulationAdapterforParameter_Efficie.md]] : SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning
-- [[2026-05-20_12-54-51Z_Linear_DPO_LinearDirectPreferenceOptimizationforDi.md]] : Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models
-- [[2026-05-20_13-09-51Z_Smarteredits_Post_editingwitherrorhighlightsandtra.md]] : Smarter edits? Post-editing with error highlights and translation suggestions
-- [[2026-05-20_13-26-05Z_AutomatedICDClassificationofPsychiatricDiagnoses_F.md]] : Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models
-- [[2026-05-20_12-57-37Z_AdvantageCollapseinGroupRelativePolicyOptimization.md]] : Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation
-- [[2026-05-20_17-59-05Z_Velocityformer_Broken_Symmetry_MatchedEquivariantG.md]] : Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction
-- [[2026-05-20_17-54-27Z_AgentJITCompilationforLatency_OptimizingWebAgentPl.md]] : Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling
-- [[2026-05-20_17-59-40Z_QuantifyingHyperparameterTransferandtheImportanceo.md]] : Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate
-- [[2026-05-20_17-59-03Z_AiraXiv_AnAI_DrivenOpen_AccessPlatformforHumanandA.md]] : AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists
-- [[2026-05-20_17-59-16Z_EvoStruct_BridgingEvolutionaryandStructuralPriorsf.md]] : EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation
-- [[2026-05-20_17-59-03Z_DeepWeb_Bench_ADeepResearchBenchmarkDemandingMassi.md]] : DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation
-- [[2026-05-20_17-58-24Z_WikiVQABench_AKnowledge_GroundedVisualQuestionAnsw.md]] : WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata
-- [[2026-05-20_17-59-52Z_VarianceReductionforExpectationswithDiffusionTeach.md]] : Variance Reduction for Expectations with Diffusion Teachers
-- [[2026-05-20_17-56-09Z_IsFixingSchemaGraphsNecessary_Full_ResolutionGraph.md]] : Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning
-- [[2026-05-20_17-59-48Z_EquilibriumReasoners_LearningAttractorsEnablesScal.md]] : Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning
+- [[raw/papers/2026-05-20_13-19-27Z_DetectingTrojanedDNNsviaSpectralRegressionAnalysis.md]] : Detecting Trojaned DNNs via Spectral Regression Analysis
+- [[raw/papers/2026-05-20_13-14-28Z_DistilltoThink_ForeseetoAct_Cognitive_PhysicalRein.md]] : Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving
+- [[raw/papers/2026-05-20_13-18-11Z_CoarseSoundNet_Buildingareliablemodelforecological.md]] : CoarseSoundNet: Building a reliable model for ecological soundscape analysis
+- [[raw/papers/2026-05-20_12-58-01Z_Reasoning_TraceCollapse_EvaluatingtheLossofExplici.md]] : Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning
+- [[raw/papers/2026-05-20_12-47-14Z_AutomatedByzantine_ResilientClusteredDecentralized.md]] : Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs
+- [[raw/papers/2026-05-20_13-19-28Z_SMoA_SpectrumModulationAdapterforParameter_Efficie.md]] : SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning
+- [[raw/papers/2026-05-20_12-54-51Z_Linear_DPO_LinearDirectPreferenceOptimizationforDi.md]] : Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models
+- [[raw/papers/2026-05-20_13-09-51Z_Smarteredits_Post_editingwitherrorhighlightsandtra.md]] : Smarter edits? Post-editing with error highlights and translation suggestions
+- [[raw/papers/2026-05-20_13-26-05Z_AutomatedICDClassificationofPsychiatricDiagnoses_F.md]] : Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models
+- [[raw/papers/2026-05-20_12-57-37Z_AdvantageCollapseinGroupRelativePolicyOptimization.md]] : Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation
+- [[raw/papers/2026-05-20_17-59-05Z_Velocityformer_Broken_Symmetry_MatchedEquivariantG.md]] : Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction
+- [[raw/papers/2026-05-20_17-54-27Z_AgentJITCompilationforLatency_OptimizingWebAgentPl.md]] : Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling
+- [[raw/papers/2026-05-20_17-59-40Z_QuantifyingHyperparameterTransferandtheImportanceo.md]] : Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate
+- [[raw/papers/2026-05-20_17-59-03Z_AiraXiv_AnAI_DrivenOpen_AccessPlatformforHumanandA.md]] : AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists
+- [[raw/papers/2026-05-20_17-59-16Z_EvoStruct_BridgingEvolutionaryandStructuralPriorsf.md]] : EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation
+- [[raw/papers/2026-05-20_17-59-03Z_DeepWeb_Bench_ADeepResearchBenchmarkDemandingMassi.md]] : DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation
+- [[raw/papers/2026-05-20_17-58-24Z_WikiVQABench_AKnowledge_GroundedVisualQuestionAnsw.md]] : WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata
+- [[raw/papers/2026-05-20_17-59-52Z_VarianceReductionforExpectationswithDiffusionTeach.md]] : Variance Reduction for Expectations with Diffusion Teachers
+- [[raw/papers/2026-05-20_17-56-09Z_IsFixingSchemaGraphsNecessary_Full_ResolutionGraph.md]] : Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning
+- [[raw/papers/2026-05-20_17-59-48Z_EquilibriumReasoners_LearningAttractorsEnablesScal.md]] : Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning
 -  : Generative AI
-- [[2026-05-21_17-53-28Z_TheMatchingPrinciple_AGeometricTheoryofLossFunctio.md]] : The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning
-- [[Evaluating Commercial AI Chatbots as News Intermediaries]] : Evaluating Commercial AI Chatbots as News Intermediaries
-- [[2026-05-21_17-49-09Z_Finite_ParticleConvergenceRatesforConservativeandN.md]] : Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models
-- [[Tokenisation via Convex Relaxations]] : Tokenisation via Convex Relaxations
-- [[2026-05-21_17-58-06Z_RemembertobeCurious_EpisodicContextandPersistentWo.md]] : Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration
-- [[2026-05-21_17-42-12Z_LCGuard_LatentCommunicationGuardforSafeKVSharingin.md]] : LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems
-- [[2026-05-21_17-44-57Z_GatedDeltaNet_2_DecouplingEraseandWriteinLinearAtt.md]] : Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention
-- [[2026-05-21_17-48-33Z_MOSS_Self_EvolutionthroughSource_LevelRewritinginA.md]] : MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems
-- [[2026-05-21_17-59-26Z_VectorPolicyOptimization_TrainingforDiversityImpro.md]] : Vector Policy Optimization: Training for Diversity Improves Test-Time Search
-- [[Integrable Elasticity via Neural Demand Potentials]] : Integrable Elasticity via Neural Demand Potentials
+- [[raw/papers/2026-05-21_17-53-28Z_TheMatchingPrinciple_AGeometricTheoryofLossFunctio.md]] : The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning
+- [[raw/papers/2026-05-21_17-42-07Z_EvaluatingCommercialAIChatbotsasNewsIntermediaries.md]] : Evaluating Commercial AI Chatbots as News Intermediaries
+- [[raw/papers/2026-05-21_17-49-09Z_Finite_ParticleConvergenceRatesforConservativeandN.md]] : Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models
+- [[raw/papers/2026-05-21_17-59-56Z_TokenisationviaConvexRelaxations.md]] : Tokenisation via Convex Relaxations
+- [[raw/papers/2026-05-21_17-58-06Z_RemembertobeCurious_EpisodicContextandPersistentWo.md]] : Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration
+- [[raw/papers/2026-05-21_17-42-12Z_LCGuard_LatentCommunicationGuardforSafeKVSharingin.md]] : LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems
+- [[raw/papers/2026-05-21_17-44-57Z_GatedDeltaNet_2_DecouplingEraseandWriteinLinearAtt.md]] : Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention
+- [[raw/papers/2026-05-21_17-48-33Z_MOSS_Self_EvolutionthroughSource_LevelRewritinginA.md]] : MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems
+- [[raw/papers/2026-05-21_17-59-26Z_VectorPolicyOptimization_TrainingforDiversityImpro.md]] : Vector Policy Optimization: Training for Diversity Improves Test-Time Search
+- [[raw/papers/2026-05-21_17-59-47Z_IntegrableElasticityviaNeuralDemandPotentials.md]] : Integrable Elasticity via Neural Demand Potentials
 -  : Generative AI
 -  : Generative AI
-- [[2026-05-22_16-12-39Z_AdvancedAIServiceProvisioninginO_RANthroughLLMEngi.md]] : Advanced AI Service Provisioning in O-RAN through LLM Engine Integration
-- [[2026-05-22_15-57-56Z_DebiasedNegativeMiningImprovesOut_of_distributionD.md]] : Debiased Negative Mining Improves Out-of-distribution Detection with Pre-trained Vision-Language Models
-- [[Agentic Proving for Program Verification]] : Agentic Proving for Program Verification
-- [[2026-05-22_15-40-52Z_PhotoFlow_Agentic3DVirtualPhotographyMissions.md]] : PhotoFlow: Agentic 3D Virtual Photography Missions
-- [[2026-05-22_15-18-53Z_ContrasttoDetect_DynamicGraphContrastiveRegulariza.md]] : Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series
-- [[2026-05-22_15-23-26Z_ApproachingI_O_optimalityforApproximateAttention.md]] : Approaching I/O-optimality for Approximate Attention
-- [[2026-05-22_15-27-09Z_LLM_drivendesignofphysics_constrainedconstitutivem.md]] : LLM-driven design of physics-constrained constitutive models: two agents are better than one
-- [[2026-05-22_15-26-31Z_SeedER_Seed_and_ExpandRetrievalfromKnowledgeGraphs.md]] : SeedER: Seed-and-Expand Retrieval from Knowledge Graphs
-- [[The physics of AI weather models]] : The physics of AI weather models
-- [[2026-05-22_15-46-10Z_BeyondBinaryEditsRobustMultimodalKnowledgeEditingw.md]] : Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment
-- [[2026-05-22_17-58-28Z_ETCHR_EditingToClarifyandHarnessReasoning.md]] : ETCHR: Editing To Clarify and Harness Reasoning
-- [[2026-05-22_17-58-36Z_SPACENUM_RevisitingSpatialNumericalUnderstandingin.md]] : SPACENUM: Revisiting Spatial Numerical Understanding in VLMs
-- [[2026-05-22_17-59-12Z_FromRawExperiencetoSkillConsumption_ASystematicStu.md]] : From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills
-- [[2026-05-22_17-59-50Z_SkillOpt_ExecutiveStrategyforSelf_EvolvingAgentSki.md]] : SkillOpt: Executive Strategy for Self-Evolving Agent Skills
-- [[2026-05-22_17-59-38Z_LLMsasNoisyChannels_AShannonPerspectiveonModelCapa.md]] : LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws
-- [[2026-05-22_17-45-01Z_PGT_ProcedurallyGeneratedTasksforimprovingvisualgr.md]] : PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs
-- [[2026-05-22_17-55-13Z_GoodTokenHunting_AHitchhiker_sGuidetoTokenSelectio.md]] : Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers
-- [[2026-05-22_17-47-45Z_CHRONOS_Temporally_AwareMulti_AgentCoordinationfor.md]] : CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces
-- [[2026-05-22_17-45-49Z_MultilingualKnowledgeTransferunderDataConstraintsv.md]] : Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions
-- [[2026-05-22_17-56-13Z_Complete_muE_OptimalHyperparameterTransferandScali.md]] : Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models
-- [[2026-05-25_17-59-35Z_SqueezingCapacityfromMultimodalLargeLanguageModels.md]] : Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation
-- [[2026-05-25_17-59-36Z_FromModelScalingtoSystemScaling_ScalingtheHarnessi.md]] : From Model Scaling to System Scaling: Scaling the Harness in Agentic AI
-- [[2026-05-25_17-53-18Z_Goal_drivenBayesianOptimalExperimentalDesignforRob.md]] : Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty
-- [[2026-05-25_17-56-46Z_BeyondSummaries_Structure_AwareLabelingofCodeChang.md]] : Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models
-- [[Looped Diffusion Language Models]] : Looped Diffusion Language Models
-- [[2026-05-25_17-52-46Z_OrpQuant_GeometricOrthogonalResidualProjectionforM.md]] : OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization
-- [[2026-05-25_17-59-28Z_Prism_APlug_inReproducibleInfrastructureforScalabl.md]] : Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning
-- [[2026-05-25_17-54-34Z_ForgettinginLanguageModels_Capacity_Optimization_a.md]] : Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay
-- [[2026-05-25_17-59-49Z_MobileGym_AVerifiableandHighlyParallelSimulationPl.md]] : MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research
+- [[raw/papers/2026-05-22_16-12-39Z_AdvancedAIServiceProvisioninginO_RANthroughLLMEngi.md]] : Advanced AI Service Provisioning in O-RAN through LLM Engine Integration
+- [[raw/papers/2026-05-22_15-57-56Z_DebiasedNegativeMiningImprovesOut_of_distributionD.md]] : Debiased Negative Mining Improves Out-of-distribution Detection with Pre-trained Vision-Language Models
+- [[raw/papers/2026-05-22_15-41-27Z_AgenticProvingforProgramVerification.md]] : Agentic Proving for Program Verification
+- [[raw/papers/2026-05-22_15-40-52Z_PhotoFlow_Agentic3DVirtualPhotographyMissions.md]] : PhotoFlow: Agentic 3D Virtual Photography Missions
+- [[raw/papers/2026-05-22_15-18-53Z_ContrasttoDetect_DynamicGraphContrastiveRegulariza.md]] : Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series
+- [[raw/papers/2026-05-22_15-23-26Z_ApproachingI_O_optimalityforApproximateAttention.md]] : Approaching I/O-optimality for Approximate Attention
+- [[raw/papers/2026-05-22_15-27-09Z_LLM_drivendesignofphysics_constrainedconstitutivem.md]] : LLM-driven design of physics-constrained constitutive models: two agents are better than one
+- [[raw/papers/2026-05-22_15-26-31Z_SeedER_Seed_and_ExpandRetrievalfromKnowledgeGraphs.md]] : SeedER: Seed-and-Expand Retrieval from Knowledge Graphs
+- [[raw/papers/2026-05-22_15-43-56Z_ThephysicsofAIweathermodels.md]] : The physics of AI weather models
+- [[raw/papers/2026-05-22_15-46-10Z_BeyondBinaryEditsRobustMultimodalKnowledgeEditingw.md]] : Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment
+- [[raw/papers/2026-05-22_17-58-28Z_ETCHR_EditingToClarifyandHarnessReasoning.md]] : ETCHR: Editing To Clarify and Harness Reasoning
+- [[raw/papers/2026-05-22_17-58-36Z_SPACENUM_RevisitingSpatialNumericalUnderstandingin.md]] : SPACENUM: Revisiting Spatial Numerical Understanding in VLMs
+- [[raw/papers/2026-05-22_17-59-12Z_FromRawExperiencetoSkillConsumption_ASystematicStu.md]] : From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills
+- [[raw/papers/2026-05-22_17-59-50Z_SkillOpt_ExecutiveStrategyforSelf_EvolvingAgentSki.md]] : SkillOpt: Executive Strategy for Self-Evolving Agent Skills
+- [[raw/papers/2026-05-22_17-59-38Z_LLMsasNoisyChannels_AShannonPerspectiveonModelCapa.md]] : LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws
+- [[raw/papers/2026-05-22_17-45-01Z_PGT_ProcedurallyGeneratedTasksforimprovingvisualgr.md]] : PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs
+- [[raw/papers/2026-05-22_17-55-13Z_GoodTokenHunting_AHitchhiker_sGuidetoTokenSelectio.md]] : Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers
+- [[raw/papers/2026-05-22_17-47-45Z_CHRONOS_Temporally_AwareMulti_AgentCoordinationfor.md]] : CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces
+- [[raw/papers/2026-05-22_17-45-49Z_MultilingualKnowledgeTransferunderDataConstraintsv.md]] : Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions
+- [[raw/papers/2026-05-22_17-56-13Z_Complete_muE_OptimalHyperparameterTransferandScali.md]] : Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models
+- [[raw/papers/2026-05-25_17-59-35Z_SqueezingCapacityfromMultimodalLargeLanguageModels.md]] : Squeezing Capacity from Multimodal Large Language Models for Subject-driven Generation
+- [[raw/papers/2026-05-25_17-59-36Z_FromModelScalingtoSystemScaling_ScalingtheHarnessi.md]] : From Model Scaling to System Scaling: Scaling the Harness in Agentic AI
+- [[raw/papers/2026-05-25_17-53-18Z_Goal_drivenBayesianOptimalExperimentalDesignforRob.md]] : Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty
+- [[raw/papers/2026-05-25_17-56-46Z_BeyondSummaries_Structure_AwareLabelingofCodeChang.md]] : Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models
+- [[raw/papers/2026-05-25_17-58-24Z_LoopedDiffusionLanguageModels.md]] : Looped Diffusion Language Models
+- [[raw/papers/2026-05-25_17-52-46Z_OrpQuant_GeometricOrthogonalResidualProjectionforM.md]] : OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization
+- [[raw/papers/2026-05-25_17-59-28Z_Prism_APlug_inReproducibleInfrastructureforScalabl.md]] : Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning
+- [[raw/papers/2026-05-25_17-54-34Z_ForgettinginLanguageModels_Capacity_Optimization_a.md]] : Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay
+- [[raw/papers/2026-05-25_17-59-49Z_MobileGym_AVerifiableandHighlyParallelSimulationPl.md]] : MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research
 -  : Language Models Need Sleep
-- [[2026-05-26_12-28-08Z_ReasoningDepthandEnvironmentComplexity_AControlled.md]] : Reasoning Depth and Environment Complexity: A Controlled Study of RLVR Data Allocation across Logical Reasoning Tasks
-- [[2026-05-26_12-49-49Z_MerLean_Prover_ARecursiveLoopingHarnessforEnd_to_E.md]] : MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving
-- [[2026-05-26_12-05-53Z_OntheDetectionofCommutativeFactorsinFactorGraphs_N.md]] : On the Detection of Commutative Factors in Factor Graphs: Necessary and Sufficient Conditions
-- [[2026-05-26_12-45-21Z_JuICE_ABenchmarkforEvaluatingLLM_JudgeinIdentifyin.md]] : JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors
-- [[2026-05-26_12-20-53Z_LearningtoAdaptSFTDataforBetterReasoningGeneraliza.md]] : Learning to Adapt SFT Data for Better Reasoning Generalization
-- [[2026-05-26_12-32-17Z_Neuro_SymbolicVerificationofLLMOutputsforData_Sens.md]] : Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains (extended preprint)
-- [[2026-05-26_11-37-43Z_Multi_StakeholderLLMAlignment_DecomposingEstimatio.md]] : Multi-Stakeholder LLM Alignment: Decomposing Estimation from Aggregation
-- [[2026-05-26_12-28-20Z_DunbaaBERT_FromSacrificetoSemantics.md]] : DunbaaBERT: From Sacrifice to Semantics
-- [[2026-05-26_11-54-40Z_GeoFaith_ASpatio_TemporalDualViewofFaithfulChain_o.md]] : GeoFaith: A Spatio-Temporal Dual View of Faithful Chain-of-Thought
-- [[Parsimonious Learning-Augmented Online Metric Matching]] : Parsimonious Learning-Augmented Online Metric Matching
-- [[2026-05-26_17-59-12Z_LocateAnything_FastandHigh_QualityVision_LanguageG.md]] : LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding
-- [[2026-05-26_17-58-24Z_MobileMoE_ScalingOn_DeviceMixtureofExperts.md]] : MobileMoE: Scaling On-Device Mixture of Experts
-- [[2026-05-26_17-50-17Z_WhenEyesBetrayAI_SocialGazeConsistencyasaSemanticC.md]] : When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection
-- [[2026-05-26_17-57-04Z_AlignmentTampering_HowReinforcementLearningfromHum.md]] : Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases
-- [[2026-05-26_17-55-59Z_GuidingLLMPost_trainingDataEngineeringwithModelInt.md]] : Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders
-- [[Algorithmic Monocultures in Hiring]] : Algorithmic Monocultures in Hiring
-- [[2026-05-26_17-59-19Z_MUSE_Autoskill_Self_EvolvingAgentsviaSkillCreation.md]] : MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation
-- [[2026-05-26_17-52-28Z_FromScorestoGibbsCorrectors_AcceleratingUniform_Ra.md]] : From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models
-- [[2026-05-26_17-58-43Z_GENESIS_HarnessingAIAgentsforAutonomous6GRANSynthe.md]] : GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing
-- [[2026-05-26_17-58-47Z_NaturalLanguageQuerytoConfigurationforRetrievalAge.md]] : Natural Language Query to Configuration for Retrieval Agents
-- [[Learning the Error Patterns of Language Models]] : Learning the Error Patterns of Language Models
-- [[2026-05-27_11-39-47Z_DimensionalityReductionforRobustFederatedLearning_.md]] : Dimensionality Reduction for Robust Federated Learning: A Theoretical Analysis and Convergence Guarantee
-- [[2026-05-27_11-43-27Z_Decision_focusedlearningforoptimalPV_Batteryschedu.md]] : Decision-focused learning for optimal PV-Battery scheduling
-- [[2026-05-27_11-50-52Z_Picid_AModularEvaluationInfrastructureforReproduci.md]] : Picid: A Modular Evaluation Infrastructure for Reproducible PHM Across Tasks and Domains
-- [[2026-05-27_11-42-52Z_SafeMed_R1_Clinician_AuditedSafetyandEthicsAlignme.md]] : SafeMed-R1: Clinician-Audited Safety and Ethics Alignment for Medical Large Language Models
-- [[2026-05-27_11-42-06Z_AnEnhancedLargeNeighborhoodSearchApproachfortheCap.md]] : An Enhanced Large Neighborhood Search Approach for the Capacitated Facility Location Problem with Incompatible Customers
-- [[Multi-Agent LLM-based Metamorphic Testing for REST APIs]] : Multi-Agent LLM-based Metamorphic Testing for REST APIs
-- [[2026-05-27_11-27-32Z_InsurancePricingOptimizationviaOff_PolicyEvaluatio.md]] : Insurance Pricing Optimization via Off-Policy Evaluation
-- [[2026-05-27_11-51-25Z_FedMPT_FederatedMulti_labelPromptTuningofVision_La.md]] : FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models
-- [[2026-05-27_11-50-56Z_WhenDiscoursePressuresConflict_InformationStructur.md]] : When Discourse Pressures Conflict: Information Structure in Vision-Language Model Outputs
-- [[2026-05-27_17-59-15Z_Self_ImprovingLanguageModelswithBidirectionalEvolu.md]] : Self-Improving Language Models with Bidirectional Evolutionary Search
-- [[2026-05-27_17-58-46Z_AffectiveMusicRecommendation_ARollout_BasedWorldMo.md]] : Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization
-- [[2026-05-27_17-55-01Z_Ω_QVLA_RobustQuantizationforVision_Language_Action.md]] : Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling
-- [[2026-05-27_17-59-51Z_PEFT_Arena_UnderstandingParameter_EfficientFinetun.md]] : PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective
-- [[2026-05-27_17-59-02Z_BeyondBinary_Sim_to_RealDexterousManipulationwithP.md]] : Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation
-- [[2026-05-27_17-56-11Z_PersonalVisualMemoryfromExplicitandImplicitEvidenc.md]] : Personal Visual Memory from Explicit and Implicit Evidence
-- [[2026-05-27_17-59-34Z_VLMsMayNotGloballyEnhanceHumanAlignmentoverLLMsDur.md]] : VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading
-- [[2026-05-27_17-56-04Z_OmniVerifier_M1_MultimodalMeta_VerifierwithExplici.md]] : OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration
-- [[Calibrating Conservatism for Scalable Oversight]] : Calibrating Conservatism for Scalable Oversight
-- [[2026-05-27_17-58-16Z_AREA_AttributeExtractionandAggregationforCLIP_Base.md]] : AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning
-- [[2026-05-28_17-59-53Z_DynaFLIP_RethinkingRoboticsPerceptionviaTri_Modal_.md]] : DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation
-- [[2026-05-28_17-59-49Z_UnlockingtheWorkingMemoryofLargeLanguageModelsforL.md]] : Unlocking the Working Memory of Large Language Models for Latent Reasoning
-- [[2026-05-28_17-59-26Z_GPIC_AGiantPermissiveImageCorpusforVisualGeneratio.md]] : GPIC: A Giant Permissive Image Corpus for Visual Generation
-- [[2026-05-28_17-58-57Z_Fairness_AwareFederatedLearningwithTrajectoryShapl.md]] : Fairness-Aware Federated Learning with Trajectory Shapley Value
-- [[2026-05-28_17-59-53Z_LLMSurgeon_DiagnosingDataMixtureofLargeLanguageMod.md]] : LLMSurgeon: Diagnosing Data Mixture of Large Language Models
-- [[2026-05-28_17-59-01Z_EfficientTest_TimeFinetuningofLLMsviaConvexReconst.md]] : Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching
-- [[2026-05-28_17-59-57Z_VideoMLA_Low_RankLatentKVCacheforMinute_ScaleAutor.md]] : VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion
-- [[2026-05-28_17-59-50Z_TinybutTrusted_EfficientVision_LanguageReasoningfo.md]] : Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection
-- [[2026-05-28_17-59-59Z_PhysicsIsAllYouNeed_ACaseStudyinPhysicist_Supervis.md]] : Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software
-- [[2026-05-28_17-59-50Z_SchGen_PCBSchematicGenerationwithSemantic_Grounded.md]] : SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations
-- [[2026-05-29_13-13-03Z_WindTurbineMaintenanceLogLabellingFramework_LLM_Dr.md]] : Wind Turbine Maintenance Log Labelling Framework: LLM-Driven Data Correction and Enrichment via Semantic Extraction of Reliability Intelligence
-- [[2026-05-29_13-04-18Z_AlgorithmicRecourseofIn_ContextLearningforTabularD.md]] : Algorithmic Recourse of In-Context Learning for Tabular Data
-- [[2026-05-29_13-05-08Z_SurvivalReinforcementLearning_TowardScalableSelf_S.md]] : Survival Reinforcement Learning: Toward Scalable Self-Supervised RL
-- [[2026-05-29_13-20-08Z_DeMaVLA_AVision_Language_ActionFoundationModelforG.md]] : DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation
-- [[2026-05-29_13-08-46Z_LearningParametricNitrogenFertilizerResponseCurves.md]] : Learning Parametric Nitrogen Fertilizer Response Curves Using Neuro Symbolic Regression
-- [[2026-05-29_13-09-35Z_GETA_GeneralizedEncryptedTrafficAnalysis.md]] : GETA: Generalized Encrypted Traffic Analysis
-- [[2026-05-29_13-10-35Z_IndustrializingPrediction_PoweredInference_TheGLID.md]] : Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation
-- [[2026-05-29_13-19-02Z_SAMforRobustMitochondriaInstanceSegmentationinFluo.md]] : SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy
-- [[2026-05-29_13-07-03Z_PersonalizedtoPersuade_TheEffectsofContextualizati.md]] : Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI
-- [[2026-05-29_13-10-58Z_PracticalCross_BandChannelPredictionforAI_RANviaPh.md]] : Practical Cross-Band Channel Prediction for AI-RAN via Physics-Guided Deep Unfolding
-- [[2026-05-29_17-56-09Z_TunerDiT_Training_freeProgressiveSteeringofDiffusi.md]] : TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation
-- [[2026-05-29_17-48-30Z_GivingSensorsaVoice_MultimodalJEPAforSemanticTime_.md]] : Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings
-- [[2026-05-29_17-59-50Z_Lumos_Nexus_EfficientFrequencyBridgingwithHomogene.md]] : Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models
-- [[2026-05-29_17-54-00Z_LanguageModelsLearnConstructionalSemantics_NotToMe.md]] : Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions
-- [[2026-05-29_17-50-11Z_ChoosingtheLens_StrategicPerspectiveActivationinCo.md]] : Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation
-- [[2026-05-29_17-58-01Z_KLIP_localizeddistributionshiftdetectionviaKL_dive.md]] : KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems
-- [[2026-05-29_17-51-40Z_LongTraceRL_LearningLong_ContextReasoningfromSearc.md]] : LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards
-- [[2026-05-29_17-44-15Z_SPECTRA_SyntheticIRTestCollectionswithRelevanceOra.md]] : SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Distractor Diagnostics
-- [[2026-05-29_17-57-00Z_StatefulOnlineMonitoringCatchesDistributedAgentAtt.md]] : Stateful Online Monitoring Catches Distributed Agent Attacks
-- [[2026-05-29_17-57-03Z_ATightTheoryofErrorFeedbackAlgorithmsinDistributed.md]] : A Tight Theory of Error Feedback Algorithms in Distributed Optimization
-- [[2026-06-01_17-49-10Z_SN_WER_Script_NormalizedWERforMulti_ScriptIndicASR.md]] : SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation
-- [[2026-06-01_17-51-40Z_HERO_SJOURNEY_TestingComplexRuleInductionwithTextG.md]] : HERO'S JOURNEY: Testing Complex Rule Induction with Text Games
-- [[2026-06-01_17-59-13Z_ProtoAda_Prototype_GuidedAdaptiveAdapterExpansiona.md]] : ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning
-- [[2026-06-01_17-54-00Z_PermissiveSafetyThroughTrustedInference_Verifiable.md]] : Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics
-- [[2026-06-01_17-59-46Z_MitigatingPerceptualJudgmentBiasinMultimodalLLM_as.md]] : Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling
-- [[2026-06-01_17-56-26Z_ClinEnv_AnInteractiveMulti_StageLongHorizonEHREnvi.md]] : ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents
-- [[2026-06-01_17-54-10Z_IntraShuffler_APrivacyPreservingFrameworkforHetero.md]] : IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning
-- [[2026-06-01_17-56-35Z_AdaCodec_APredictiveVisualCodeforVideoMLLMs.md]] : AdaCodec: A Predictive Visual Code for Video MLLMs
-- [[2026-06-01_17-50-28Z_ModelingDepthAmbiguity_AMixture_DensityRepresentat.md]] : Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation
-- [[2026-06-01_17-52-53Z_FromLayerstoSubmodules_RethinkingGranularityinRepl.md]] : From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression
-- [[2026-06-02_13-39-17Z_SafetyMeasurementsforFine_tunedLLMsShouldbeGrounde.md]] : Safety Measurements for Fine-tuned LLMs Should be Grounded in Capability
-- [[2026-06-02_13-30-54Z_AnchorMoE_InterpretableTimeSeriesClassificationvia.md]] : AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE
-- [[2026-06-02_13-41-43Z_CoEval_RankingLanguageModelsforCustomTasksWithoutL.md]] : CoEval: Ranking Language Models for Custom Tasks Without Labeled Data or Trustworthy Benchmarks
-- [[2026-06-02_13-39-15Z_Black_box_Adaptive_Efficient_Transferable_Harmful_.md]] : Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs
-- [[2026-06-02_13-31-57Z_VidMsg_ABenchmarkforImplicitMessageInferenceinShor.md]] : VidMsg: A Benchmark for Implicit Message Inference in Short Videos
-- [[2026-06-02_13-44-37Z_TowardsNon_MonotonicEntailmentinPropositionalDefea.md]] : Towards Non-Monotonic Entailment in Propositional Defeasible Standpoint Logic
-- [[2026-06-02_13-47-19Z_FromAnswerstoStates_VerifiableProcess_LevelEvaluat.md]] : From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models
-- [[2026-06-02_13-46-04Z_DiagnosingKnowledgeGapsinLLMToolUse_AnAgenticBench.md]] : Diagnosing Knowledge Gaps in LLM Tool Use: An Agentic Benchmark for Novel API Acquisition
-- [[2026-06-02_13-28-17Z_TSQAgent_RatingTimeSeriesDataQualityviaDedicatedAg.md]] : TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning
-- [[2026-06-02_13-35-12Z_Gender_DependentDiagnosticSubstitutioninLLMMedical.md]] : Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency
-- [[2026-06-02_17-53-04Z_QUBRIC_Co_DesigningQueriesandRubricsforRLBeyondVer.md]] : QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards
-- [[2026-06-02_17-58-02Z_LanguageModelsCompareQuantitiesUsingNumber_specifi.md]] : Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics
-- [[Formalizing the Binding Problem]] : Formalizing the Binding Problem
-- [[2026-06-02_17-53-45Z_QuantifyingFaithfulConfidenceExpressioninLargeReas.md]] : Quantifying Faithful Confidence Expression in Large Reasoning Models
-- [[2026-06-02_17-59-05Z_Humanoid_GPT_ScalingDataandStructureforZero_ShotMo.md]] : Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking
-- [[2026-06-02_17-59-52Z_NeuronPopulationsExhibitDivergentSelectivitywithSc.md]] : Neuron Populations Exhibit Divergent Selectivity with Scale
-- [[2026-06-02_17-52-18Z_AlignAtt4LLM_FastAlignAttforDecoder_OnlyLLMsatIWSL.md]] : AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Speech Translation Task
-- [[2026-06-02_17-59-17Z_ImaginativePerceptionTokensEnhanceSpatialReasoning.md]] : Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models
-- [[2026-06-02_17-56-57Z_Skill_RM_UnifyingHeterogeneousEvaluationCriteriavi.md]] : Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill
+- [[raw/papers/2026-05-26_12-28-08Z_ReasoningDepthandEnvironmentComplexity_AControlled.md]] : Reasoning Depth and Environment Complexity: A Controlled Study of RLVR Data Allocation across Logical Reasoning Tasks
+- [[raw/papers/2026-05-26_12-49-49Z_MerLean_Prover_ARecursiveLoopingHarnessforEnd_to_E.md]] : MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving
+- [[raw/papers/2026-05-26_12-05-53Z_OntheDetectionofCommutativeFactorsinFactorGraphs_N.md]] : On the Detection of Commutative Factors in Factor Graphs: Necessary and Sufficient Conditions
+- [[raw/papers/2026-05-26_12-45-21Z_JuICE_ABenchmarkforEvaluatingLLM_JudgeinIdentifyin.md]] : JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors
+- [[raw/papers/2026-05-26_12-20-53Z_LearningtoAdaptSFTDataforBetterReasoningGeneraliza.md]] : Learning to Adapt SFT Data for Better Reasoning Generalization
+- [[raw/papers/2026-05-26_12-32-17Z_Neuro_SymbolicVerificationofLLMOutputsforData_Sens.md]] : Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains (extended preprint)
+- [[raw/papers/2026-05-26_11-37-43Z_Multi_StakeholderLLMAlignment_DecomposingEstimatio.md]] : Multi-Stakeholder LLM Alignment: Decomposing Estimation from Aggregation
+- [[raw/papers/2026-05-26_12-28-20Z_DunbaaBERT_FromSacrificetoSemantics.md]] : DunbaaBERT: From Sacrifice to Semantics
+- [[raw/papers/2026-05-26_11-54-40Z_GeoFaith_ASpatio_TemporalDualViewofFaithfulChain_o.md]] : GeoFaith: A Spatio-Temporal Dual View of Faithful Chain-of-Thought
+- [[raw/papers/2026-05-26_11-47-58Z_ParsimoniousLearning_AugmentedOnlineMetricMatching.md]] : Parsimonious Learning-Augmented Online Metric Matching
+- [[raw/papers/2026-05-26_17-59-12Z_LocateAnything_FastandHigh_QualityVision_LanguageG.md]] : LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding
+- [[raw/papers/2026-05-26_17-58-24Z_MobileMoE_ScalingOn_DeviceMixtureofExperts.md]] : MobileMoE: Scaling On-Device Mixture of Experts
+- [[raw/papers/2026-05-26_17-50-17Z_WhenEyesBetrayAI_SocialGazeConsistencyasaSemanticC.md]] : When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection
+- [[raw/papers/2026-05-26_17-57-04Z_AlignmentTampering_HowReinforcementLearningfromHum.md]] : Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases
+- [[raw/papers/2026-05-26_17-55-59Z_GuidingLLMPost_trainingDataEngineeringwithModelInt.md]] : Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders
+- [[raw/papers/2026-05-26_17-59-55Z_AlgorithmicMonoculturesinHiring.md]] : Algorithmic Monocultures in Hiring
+- [[raw/papers/2026-05-26_17-59-19Z_MUSE_Autoskill_Self_EvolvingAgentsviaSkillCreation.md]] : MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation
+- [[raw/papers/2026-05-26_17-52-28Z_FromScorestoGibbsCorrectors_AcceleratingUniform_Ra.md]] : From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models
+- [[raw/papers/2026-05-26_17-58-43Z_GENESIS_HarnessingAIAgentsforAutonomous6GRANSynthe.md]] : GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing
+- [[raw/papers/2026-05-26_17-58-47Z_NaturalLanguageQuerytoConfigurationforRetrievalAge.md]] : Natural Language Query to Configuration for Retrieval Agents
+- [[raw/papers/2026-05-27_11-28-38Z_LearningtheErrorPatternsofLanguageModels.md]] : Learning the Error Patterns of Language Models
+- [[raw/papers/2026-05-27_11-39-47Z_DimensionalityReductionforRobustFederatedLearning_.md]] : Dimensionality Reduction for Robust Federated Learning: A Theoretical Analysis and Convergence Guarantee
+- [[raw/papers/2026-05-27_11-43-27Z_Decision_focusedlearningforoptimalPV_Batteryschedu.md]] : Decision-focused learning for optimal PV-Battery scheduling
+- [[raw/papers/2026-05-27_11-50-52Z_Picid_AModularEvaluationInfrastructureforReproduci.md]] : Picid: A Modular Evaluation Infrastructure for Reproducible PHM Across Tasks and Domains
+- [[raw/papers/2026-05-27_11-42-52Z_SafeMed_R1_Clinician_AuditedSafetyandEthicsAlignme.md]] : SafeMed-R1: Clinician-Audited Safety and Ethics Alignment for Medical Large Language Models
+- [[raw/papers/2026-05-27_11-42-06Z_AnEnhancedLargeNeighborhoodSearchApproachfortheCap.md]] : An Enhanced Large Neighborhood Search Approach for the Capacitated Facility Location Problem with Incompatible Customers
+- [[raw/papers/2026-05-27_11-24-46Z_Multi_AgentLLM_basedMetamorphicTestingforRESTAPIs.md]] : Multi-Agent LLM-based Metamorphic Testing for REST APIs
+- [[raw/papers/2026-05-27_11-27-32Z_InsurancePricingOptimizationviaOff_PolicyEvaluatio.md]] : Insurance Pricing Optimization via Off-Policy Evaluation
+- [[raw/papers/2026-05-27_11-51-25Z_FedMPT_FederatedMulti_labelPromptTuningofVision_La.md]] : FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models
+- [[raw/papers/2026-05-27_11-50-56Z_WhenDiscoursePressuresConflict_InformationStructur.md]] : When Discourse Pressures Conflict: Information Structure in Vision-Language Model Outputs
+- [[raw/papers/2026-05-27_17-59-15Z_Self_ImprovingLanguageModelswithBidirectionalEvolu.md]] : Self-Improving Language Models with Bidirectional Evolutionary Search
+- [[raw/papers/2026-05-27_17-58-46Z_AffectiveMusicRecommendation_ARollout_BasedWorldMo.md]] : Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization
+- [[raw/papers/2026-05-27_17-55-01Z_Ω_QVLA_RobustQuantizationforVision_Language_Action.md]] : Ω-QVLA: Robust Quantization for Vision-Language-Action Models via Composite Rotation and Per-step Scaling
+- [[raw/papers/2026-05-27_17-59-51Z_PEFT_Arena_UnderstandingParameter_EfficientFinetun.md]] : PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective
+- [[raw/papers/2026-05-27_17-59-02Z_BeyondBinary_Sim_to_RealDexterousManipulationwithP.md]] : Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation
+- [[raw/papers/2026-05-27_17-56-11Z_PersonalVisualMemoryfromExplicitandImplicitEvidenc.md]] : Personal Visual Memory from Explicit and Implicit Evidence
+- [[raw/papers/2026-05-27_17-59-34Z_VLMsMayNotGloballyEnhanceHumanAlignmentoverLLMsDur.md]] : VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading
+- [[raw/papers/2026-05-27_17-56-04Z_OmniVerifier_M1_MultimodalMeta_VerifierwithExplici.md]] : OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration
+- [[raw/papers/2026-05-27_17-56-47Z_CalibratingConservatismforScalableOversight.md]] : Calibrating Conservatism for Scalable Oversight
+- [[raw/papers/2026-05-27_17-58-16Z_AREA_AttributeExtractionandAggregationforCLIP_Base.md]] : AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning
+- [[raw/papers/2026-05-28_17-59-53Z_DynaFLIP_RethinkingRoboticsPerceptionviaTri_Modal_.md]] : DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation
+- [[raw/papers/2026-05-28_17-59-49Z_UnlockingtheWorkingMemoryofLargeLanguageModelsforL.md]] : Unlocking the Working Memory of Large Language Models for Latent Reasoning
+- [[raw/papers/2026-05-28_17-59-26Z_GPIC_AGiantPermissiveImageCorpusforVisualGeneratio.md]] : GPIC: A Giant Permissive Image Corpus for Visual Generation
+- [[raw/papers/2026-05-28_17-58-57Z_Fairness_AwareFederatedLearningwithTrajectoryShapl.md]] : Fairness-Aware Federated Learning with Trajectory Shapley Value
+- [[raw/papers/2026-05-28_17-59-53Z_LLMSurgeon_DiagnosingDataMixtureofLargeLanguageMod.md]] : LLMSurgeon: Diagnosing Data Mixture of Large Language Models
+- [[raw/papers/2026-05-28_17-59-01Z_EfficientTest_TimeFinetuningofLLMsviaConvexReconst.md]] : Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching
+- [[raw/papers/2026-05-28_17-59-57Z_VideoMLA_Low_RankLatentKVCacheforMinute_ScaleAutor.md]] : VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion
+- [[raw/papers/2026-05-28_17-59-50Z_TinybutTrusted_EfficientVision_LanguageReasoningfo.md]] : Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection
+- [[raw/papers/2026-05-28_17-59-59Z_PhysicsIsAllYouNeed_ACaseStudyinPhysicist_Supervis.md]] : Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software
+- [[raw/papers/2026-05-28_17-59-50Z_SchGen_PCBSchematicGenerationwithSemantic_Grounded.md]] : SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations
+- [[raw/papers/2026-05-29_13-13-03Z_WindTurbineMaintenanceLogLabellingFramework_LLM_Dr.md]] : Wind Turbine Maintenance Log Labelling Framework: LLM-Driven Data Correction and Enrichment via Semantic Extraction of Reliability Intelligence
+- [[raw/papers/2026-05-29_13-04-18Z_AlgorithmicRecourseofIn_ContextLearningforTabularD.md]] : Algorithmic Recourse of In-Context Learning for Tabular Data
+- [[raw/papers/2026-05-29_13-05-08Z_SurvivalReinforcementLearning_TowardScalableSelf_S.md]] : Survival Reinforcement Learning: Toward Scalable Self-Supervised RL
+- [[raw/papers/2026-05-29_13-20-08Z_DeMaVLA_AVision_Language_ActionFoundationModelforG.md]] : DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation
+- [[raw/papers/2026-05-29_13-08-46Z_LearningParametricNitrogenFertilizerResponseCurves.md]] : Learning Parametric Nitrogen Fertilizer Response Curves Using Neuro Symbolic Regression
+- [[raw/papers/2026-05-29_13-09-35Z_GETA_GeneralizedEncryptedTrafficAnalysis.md]] : GETA: Generalized Encrypted Traffic Analysis
+- [[raw/papers/2026-05-29_13-10-35Z_IndustrializingPrediction_PoweredInference_TheGLID.md]] : Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation
+- [[raw/papers/2026-05-29_13-19-02Z_SAMforRobustMitochondriaInstanceSegmentationinFluo.md]] : SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy
+- [[raw/papers/2026-05-29_13-07-03Z_PersonalizedtoPersuade_TheEffectsofContextualizati.md]] : Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI
+- [[raw/papers/2026-05-29_13-10-58Z_PracticalCross_BandChannelPredictionforAI_RANviaPh.md]] : Practical Cross-Band Channel Prediction for AI-RAN via Physics-Guided Deep Unfolding
+- [[raw/papers/2026-05-29_17-56-09Z_TunerDiT_Training_freeProgressiveSteeringofDiffusi.md]] : TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation
+- [[raw/papers/2026-05-29_17-48-30Z_GivingSensorsaVoice_MultimodalJEPAforSemanticTime_.md]] : Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings
+- [[raw/papers/2026-05-29_17-59-50Z_Lumos_Nexus_EfficientFrequencyBridgingwithHomogene.md]] : Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models
+- [[raw/papers/2026-05-29_17-54-00Z_LanguageModelsLearnConstructionalSemantics_NotToMe.md]] : Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions
+- [[raw/papers/2026-05-29_17-50-11Z_ChoosingtheLens_StrategicPerspectiveActivationinCo.md]] : Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation
+- [[raw/papers/2026-05-29_17-58-01Z_KLIP_localizeddistributionshiftdetectionviaKL_dive.md]] : KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems
+- [[raw/papers/2026-05-29_17-51-40Z_LongTraceRL_LearningLong_ContextReasoningfromSearc.md]] : LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards
+- [[raw/papers/2026-05-29_17-44-15Z_SPECTRA_SyntheticIRTestCollectionswithRelevanceOra.md]] : SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Distractor Diagnostics
+- [[raw/papers/2026-05-29_17-57-00Z_StatefulOnlineMonitoringCatchesDistributedAgentAtt.md]] : Stateful Online Monitoring Catches Distributed Agent Attacks
+- [[raw/papers/2026-05-29_17-57-03Z_ATightTheoryofErrorFeedbackAlgorithmsinDistributed.md]] : A Tight Theory of Error Feedback Algorithms in Distributed Optimization
+- [[raw/papers/2026-06-01_17-49-10Z_SN_WER_Script_NormalizedWERforMulti_ScriptIndicASR.md]] : SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation
+- [[raw/papers/2026-06-01_17-51-40Z_HERO_SJOURNEY_TestingComplexRuleInductionwithTextG.md]] : HERO'S JOURNEY: Testing Complex Rule Induction with Text Games
+- [[raw/papers/2026-06-01_17-59-13Z_ProtoAda_Prototype_GuidedAdaptiveAdapterExpansiona.md]] : ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning
+- [[raw/papers/2026-06-01_17-54-00Z_PermissiveSafetyThroughTrustedInference_Verifiable.md]] : Permissive Safety Through Trusted Inference: Verifiable Belief-Space Neural Safety Filters for Assured Interactive Robotics
+- [[raw/papers/2026-06-01_17-59-46Z_MitigatingPerceptualJudgmentBiasinMultimodalLLM_as.md]] : Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling
+- [[raw/papers/2026-06-01_17-56-26Z_ClinEnv_AnInteractiveMulti_StageLongHorizonEHREnvi.md]] : ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents
+- [[raw/papers/2026-06-01_17-54-10Z_IntraShuffler_APrivacyPreservingFrameworkforHetero.md]] : IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning
+- [[raw/papers/2026-06-01_17-56-35Z_AdaCodec_APredictiveVisualCodeforVideoMLLMs.md]] : AdaCodec: A Predictive Visual Code for Video MLLMs
+- [[raw/papers/2026-06-01_17-50-28Z_ModelingDepthAmbiguity_AMixture_DensityRepresentat.md]] : Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation
+- [[raw/papers/2026-06-01_17-52-53Z_FromLayerstoSubmodules_RethinkingGranularityinRepl.md]] : From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression
+- [[raw/papers/2026-06-02_13-39-17Z_SafetyMeasurementsforFine_tunedLLMsShouldbeGrounde.md]] : Safety Measurements for Fine-tuned LLMs Should be Grounded in Capability
+- [[raw/papers/2026-06-02_13-30-54Z_AnchorMoE_InterpretableTimeSeriesClassificationvia.md]] : AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE
+- [[raw/papers/2026-06-02_13-41-43Z_CoEval_RankingLanguageModelsforCustomTasksWithoutL.md]] : CoEval: Ranking Language Models for Custom Tasks Without Labeled Data or Trustworthy Benchmarks
+- [[raw/papers/2026-06-02_13-39-15Z_Black_box_Adaptive_Efficient_Transferable_Harmful_.md]] : Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs
+- [[raw/papers/2026-06-02_13-31-57Z_VidMsg_ABenchmarkforImplicitMessageInferenceinShor.md]] : VidMsg: A Benchmark for Implicit Message Inference in Short Videos
+- [[raw/papers/2026-06-02_13-44-37Z_TowardsNon_MonotonicEntailmentinPropositionalDefea.md]] : Towards Non-Monotonic Entailment in Propositional Defeasible Standpoint Logic
+- [[raw/papers/2026-06-02_13-47-19Z_FromAnswerstoStates_VerifiableProcess_LevelEvaluat.md]] : From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models
+- [[raw/papers/2026-06-02_13-46-04Z_DiagnosingKnowledgeGapsinLLMToolUse_AnAgenticBench.md]] : Diagnosing Knowledge Gaps in LLM Tool Use: An Agentic Benchmark for Novel API Acquisition
+- [[raw/papers/2026-06-02_13-28-17Z_TSQAgent_RatingTimeSeriesDataQualityviaDedicatedAg.md]] : TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning
+- [[raw/papers/2026-06-02_13-35-12Z_Gender_DependentDiagnosticSubstitutioninLLMMedical.md]] : Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency
+- [[raw/papers/2026-06-02_17-53-04Z_QUBRIC_Co_DesigningQueriesandRubricsforRLBeyondVer.md]] : QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards
+- [[raw/papers/2026-06-02_17-58-02Z_LanguageModelsCompareQuantitiesUsingNumber_specifi.md]] : Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics
+- [[raw/papers/2026-06-02_17-56-24Z_FormalizingtheBindingProblem.md]] : Formalizing the Binding Problem
+- [[raw/papers/2026-06-02_17-53-45Z_QuantifyingFaithfulConfidenceExpressioninLargeReas.md]] : Quantifying Faithful Confidence Expression in Large Reasoning Models
+- [[raw/papers/2026-06-02_17-59-05Z_Humanoid_GPT_ScalingDataandStructureforZero_ShotMo.md]] : Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking
+- [[raw/papers/2026-06-02_17-59-52Z_NeuronPopulationsExhibitDivergentSelectivitywithSc.md]] : Neuron Populations Exhibit Divergent Selectivity with Scale
+- [[raw/papers/2026-06-02_17-52-18Z_AlignAtt4LLM_FastAlignAttforDecoder_OnlyLLMsatIWSL.md]] : AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Speech Translation Task
+- [[raw/papers/2026-06-02_17-59-17Z_ImaginativePerceptionTokensEnhanceSpatialReasoning.md]] : Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models
+- [[raw/papers/2026-06-02_17-56-57Z_Skill_RM_UnifyingHeterogeneousEvaluationCriteriavi.md]] : Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill
 -  : Language Models Need Sleep: Learning to Self-Modify and Consolidate Memories
-- [[2026-06-03_17-48-31Z_BBOmix_ATabularBenchmarkforHyperparameterOptimizat.md]] : BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning
-- [[2026-06-03_17-57-51Z_BeyondTextFollowing_RepairableArbitrationReversals.md]] : Beyond Text Following: Repairable Arbitration Reversals in Audio-Language Models
-- [[Streaming Communication in Multi-Agent Reasoning]] : Streaming Communication in Multi-Agent Reasoning
-- [[2026-06-03_17-59-36Z_STRIDE_TrainingDataAttributionviaSparseRecoveryfro.md]] : STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations
-- [[2026-06-03_17-49-48Z_GeM_NR_Geometry_AwareMulti_ViewEditingforNonrigidS.md]] : GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes
-- [[2026-06-03_17-53-48Z_Multi_ColumnRBFNeuralNetworkUsingAdaptiveandNon_Ad.md]] : Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization
-- [[2026-06-03_17-50-26Z_FailedReasoningTracesTellYouWhatIsFixable_ButNotby.md]] : Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)
-- [[2026-06-03_17-54-04Z_ReinforcementLearningfromRichFeedbackwithDistribut.md]] : Reinforcement Learning from Rich Feedback with Distributional DAgger
-- [[2026-06-03_17-53-33Z_AnOpen_SourceTwo_StageComputerVisionPipelineforFin.md]] : An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers
-- [[2026-06-03_17-46-50Z_GeneratingFinancialTimeSeriesbyMatchingRandomConvo.md]] : Generating Financial Time Series by Matching Random Convolutional Features
-- [[2026-06-04_17-58-01Z_DNQ_DeepNashQ_NetworkforPartiallyObservablen_Playe.md]] : DNQ: Deep Nash Q-Network for Partially Observable n-Player Games
-- [[2026-06-04_17-58-05Z_Operation_GuidedProgressiveHuman_to_AITextTransfor.md]] : Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection
-- [[2026-06-04_17-59-40Z_TempoVLA_LearningSpeed_ControllableVision_Language.md]] : TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies
-- [[2026-06-04_17-59-50Z_HANDOFF_HumanoidAgenticTask_SpaceWhole_BodyControl.md]] : HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers
-- [[Self-Augmenting Retrieval for Diffusion Language Models]] : Self-Augmenting Retrieval for Diffusion Language Models
-- [[2026-06-04_17-59-08Z_RegretMinimizationwithAdaptiveOpponentsinRepeatedG.md]] : Regret Minimization with Adaptive Opponents in Repeated Games
-- [[2026-06-04_17-59-55Z_TailLoR_ProtectingPrincipalComponentsinParameter_E.md]] : TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning
-- [[2026-06-04_17-59-46Z_Code2LoRA_Hypernetwork_GeneratedAdaptersforCodeLan.md]] : Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution
-- [[Pretraining Recurrent Networks without Recurrence]] : Pretraining Recurrent Networks without Recurrence
-- [[2026-06-04_17-56-31Z_RREDCoT_Segment_LevelRewardRedistributionforReason.md]] : RREDCoT: Segment-Level Reward Redistribution for Reasoning Models
+- [[raw/papers/2026-06-03_17-48-31Z_BBOmix_ATabularBenchmarkforHyperparameterOptimizat.md]] : BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning
+- [[raw/papers/2026-06-03_17-57-51Z_BeyondTextFollowing_RepairableArbitrationReversals.md]] : Beyond Text Following: Repairable Arbitration Reversals in Audio-Language Models
+- [[raw/papers/2026-06-03_17-57-04Z_StreamingCommunicationinMulti_AgentReasoning.md]] : Streaming Communication in Multi-Agent Reasoning
+- [[raw/papers/2026-06-03_17-59-36Z_STRIDE_TrainingDataAttributionviaSparseRecoveryfro.md]] : STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations
+- [[raw/papers/2026-06-03_17-49-48Z_GeM_NR_Geometry_AwareMulti_ViewEditingforNonrigidS.md]] : GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes
+- [[raw/papers/2026-06-03_17-53-48Z_Multi_ColumnRBFNeuralNetworkUsingAdaptiveandNon_Ad.md]] : Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization
+- [[raw/papers/2026-06-03_17-50-26Z_FailedReasoningTracesTellYouWhatIsFixable_ButNotby.md]] : Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)
+- [[raw/papers/2026-06-03_17-54-04Z_ReinforcementLearningfromRichFeedbackwithDistribut.md]] : Reinforcement Learning from Rich Feedback with Distributional DAgger
+- [[raw/papers/2026-06-03_17-53-33Z_AnOpen_SourceTwo_StageComputerVisionPipelineforFin.md]] : An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers
+- [[raw/papers/2026-06-03_17-46-50Z_GeneratingFinancialTimeSeriesbyMatchingRandomConvo.md]] : Generating Financial Time Series by Matching Random Convolutional Features
+- [[raw/papers/2026-06-04_17-58-01Z_DNQ_DeepNashQ_NetworkforPartiallyObservablen_Playe.md]] : DNQ: Deep Nash Q-Network for Partially Observable n-Player Games
+- [[raw/papers/2026-06-04_17-58-05Z_Operation_GuidedProgressiveHuman_to_AITextTransfor.md]] : Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection
+- [[raw/papers/2026-06-04_17-59-40Z_TempoVLA_LearningSpeed_ControllableVision_Language.md]] : TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies
+- [[raw/papers/2026-06-04_17-59-50Z_HANDOFF_HumanoidAgenticTask_SpaceWhole_BodyControl.md]] : HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers
+- [[raw/papers/2026-06-04_17-56-27Z_Self_AugmentingRetrievalforDiffusionLanguageModels.md]] : Self-Augmenting Retrieval for Diffusion Language Models
+- [[raw/papers/2026-06-04_17-59-08Z_RegretMinimizationwithAdaptiveOpponentsinRepeatedG.md]] : Regret Minimization with Adaptive Opponents in Repeated Games
+- [[raw/papers/2026-06-04_17-59-55Z_TailLoR_ProtectingPrincipalComponentsinParameter_E.md]] : TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning
+- [[raw/papers/2026-06-04_17-59-46Z_Code2LoRA_Hypernetwork_GeneratedAdaptersforCodeLan.md]] : Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution
+- [[raw/papers/2026-06-04_17-57-33Z_PretrainingRecurrentNetworkswithoutRecurrence.md]] : Pretraining Recurrent Networks without Recurrence
+- [[raw/papers/2026-06-04_17-56-31Z_RREDCoT_Segment_LevelRewardRedistributionforReason.md]] : RREDCoT: Segment-Level Reward Redistribution for Reasoning Models
 -  : The Best Open-Source LLMs in 2026
 -  : The Best Open-Source LLMs in 2026
-- [[2026-06-05_17-49-19Z_Second_OrderPathKernelInterpolationFormulasinMachi.md]] : Second-Order Path Kernel Interpolation Formulas in Machine Learning
-- [[2026-06-05_17-59-42Z_HowreliableareLLMswhenitcomestoplayingdice.md]] : How reliable are LLMs when it comes to playing dice?
-- [[Twelve quick tips for designing AI-driven HPC workflows]] : Twelve quick tips for designing AI-driven HPC workflows
-- [[2026-06-05_17-45-39Z_HowAIAgentsReshapeKnowledgeWork_Autonomy_Efficienc.md]] : How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope
-- [[2026-06-05_17-53-52Z_SparseSubspace_to_ExpertSharingforTask_AgnosticCon.md]] : Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning
-- [[2026-06-05_17-59-21Z_MemDreamer_DecouplingPerceptionandReasoningforLong.md]] : MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism
-- [[2026-06-05_17-51-11Z_AcceleratedDecentralizedStochasticGradientDescentf.md]] : Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization
-- [[2026-06-05_17-46-36Z_Bradley_TerryRankingsforRecommenderSystemsAcrossDa.md]] : Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies
-- [[2026-06-05_17-54-32Z_YourUnEmbeddingMatrixisSecretlyaFeatureLensforText.md]] : Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings
-- [[2026-06-05_17-59-31Z_Agentopia_Long_TermLifeSimulationandLearninginAgen.md]] : Agentopia: Long-Term Life Simulation and Learning in Agent Societies
-- [[2026-06-07_11-44-40Z_ConvolutionalSparseCodingviatheLocallyCompetitiveA.md]] : Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2
-- [[2026-06-07_12-28-51Z_ReinforcementLearningforFlow_MatchingPolicieswithD.md]] : Reinforcement Learning for Flow-Matching Policies with Density Transport
-- [[2026-06-07_12-27-13Z_InA_Probe_Instruction_AwareActiveProbingforTimeSer.md]] : InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs
-- [[2026-06-07_11-57-09Z_Improvingthesharpnessinneuralnetwork_basedparametr.md]] : Improving the sharpness in neural network-based parametric post-processing of ensemble forecasts
-- [[2026-06-07_12-11-04Z_QuantumGlobalVariationalLearningforQuantumErrorCor.md]] : Quantum Global Variational Learning for Quantum Error Correction
-- [[2026-06-07_12-20-32Z_DistillingLLMReasoningintoanInterpretablePolicyTre.md]] : Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration
-- [[2026-06-07_12-01-48Z_DetectionandInterpretabilityAnalysisofQuotationErr.md]] : Detection and Interpretability Analysis of Quotation Errors by Large Language Models
-- [[2026-06-07_12-05-09Z_AuditableGraph_GuidedRootCauseAnalysisforKubernete.md]] : Auditable Graph-Guided Root Cause Analysis for Kubernetes Incidents
-- [[2026-06-07_12-17-25Z_HowMuchCapacityDoesEEGDenoisingNeed_Ultra_CompactN.md]] : How Much Capacity Does EEG Denoising Need? Ultra-Compact Networks reveal Benchmark Saturation and Metric-Utility Gap
-- [[2026-06-07_12-33-43Z_MultilingualFact_CheckingatScale_Fine_TunedCompact.md]] : Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs
-- [[2026-06-08_15-45-25Z_In_ContextLearningforLatentSpaceBayesianOptimizati.md]] : In-Context Learning for Latent Space Bayesian Optimization
-- [[2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md]] : Visual Prompting Meets Feature Reconstruction-Based Anomaly Detection with Dual-Teacher Supervision
-- [[2026-06-08_15-51-51Z_SpatialWorld_BenchmarkingInteractiveSpatialReasoni.md]] : SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks
-- [[2026-06-08_15-54-10Z_Transition_BasedDigitalTwinModellingforAlzheimer_s.md]] : Transition-Based Digital Twin Modelling for Alzheimer's Disease under Sparse Longitudinal Data
-- [[2026-06-08_15-58-31Z_MeCo_One_StepMeanFlow_basedCorrectorforMulti_Chann.md]] : MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation
-- [[2026-06-08_15-57-14Z_Auto_formalizationissupposedtobeeasy_Trellisproces.md]] : (Auto)formalization is supposed to be easy: Trellis process semantics for spelling out rigorous proofs
-- [[2026-06-08_15-54-28Z_CorrelationIsNotEnough_EmbeddingHumanMetadataforIn.md]] : Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery
-- [[2026-06-08_15-51-25Z_AlgorithmforContextualQueueingBanditswithRate_Opti.md]] : Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret
-- [[2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
-- [[2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
+- [[raw/papers/2026-06-05_17-49-19Z_Second_OrderPathKernelInterpolationFormulasinMachi.md]] : Second-Order Path Kernel Interpolation Formulas in Machine Learning
+- [[raw/papers/2026-06-05_17-59-42Z_HowreliableareLLMswhenitcomestoplayingdice.md]] : How reliable are LLMs when it comes to playing dice?
+- [[raw/papers/2026-06-05_17-46-32Z_TwelvequicktipsfordesigningAI_drivenHPCworkflows.md]] : Twelve quick tips for designing AI-driven HPC workflows
+- [[raw/papers/2026-06-05_17-45-39Z_HowAIAgentsReshapeKnowledgeWork_Autonomy_Efficienc.md]] : How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope
+- [[raw/papers/2026-06-05_17-53-52Z_SparseSubspace_to_ExpertSharingforTask_AgnosticCon.md]] : Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning
+- [[raw/papers/2026-06-05_17-59-21Z_MemDreamer_DecouplingPerceptionandReasoningforLong.md]] : MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism
+- [[raw/papers/2026-06-05_17-51-11Z_AcceleratedDecentralizedStochasticGradientDescentf.md]] : Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization
+- [[raw/papers/2026-06-05_17-46-36Z_Bradley_TerryRankingsforRecommenderSystemsAcrossDa.md]] : Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies
+- [[raw/papers/2026-06-05_17-54-32Z_YourUnEmbeddingMatrixisSecretlyaFeatureLensforText.md]] : Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings
+- [[raw/papers/2026-06-05_17-59-31Z_Agentopia_Long_TermLifeSimulationandLearninginAgen.md]] : Agentopia: Long-Term Life Simulation and Learning in Agent Societies
+- [[raw/papers/2026-06-07_11-44-40Z_ConvolutionalSparseCodingviatheLocallyCompetitiveA.md]] : Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2
+- [[raw/papers/2026-06-07_12-28-51Z_ReinforcementLearningforFlow_MatchingPolicieswithD.md]] : Reinforcement Learning for Flow-Matching Policies with Density Transport
+- [[raw/papers/2026-06-07_12-27-13Z_InA_Probe_Instruction_AwareActiveProbingforTimeSer.md]] : InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs
+- [[raw/papers/2026-06-07_11-57-09Z_Improvingthesharpnessinneuralnetwork_basedparametr.md]] : Improving the sharpness in neural network-based parametric post-processing of ensemble forecasts
+- [[raw/papers/2026-06-07_12-11-04Z_QuantumGlobalVariationalLearningforQuantumErrorCor.md]] : Quantum Global Variational Learning for Quantum Error Correction
+- [[raw/papers/2026-06-07_12-20-32Z_DistillingLLMReasoningintoanInterpretablePolicyTre.md]] : Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration
+- [[raw/papers/2026-06-07_12-01-48Z_DetectionandInterpretabilityAnalysisofQuotationErr.md]] : Detection and Interpretability Analysis of Quotation Errors by Large Language Models
+- [[raw/papers/2026-06-07_12-05-09Z_AuditableGraph_GuidedRootCauseAnalysisforKubernete.md]] : Auditable Graph-Guided Root Cause Analysis for Kubernetes Incidents
+- [[raw/papers/2026-06-07_12-17-25Z_HowMuchCapacityDoesEEGDenoisingNeed_Ultra_CompactN.md]] : How Much Capacity Does EEG Denoising Need? Ultra-Compact Networks reveal Benchmark Saturation and Metric-Utility Gap
+- [[raw/papers/2026-06-07_12-33-43Z_MultilingualFact_CheckingatScale_Fine_TunedCompact.md]] : Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs
+- [[raw/papers/2026-06-08_15-45-25Z_In_ContextLearningforLatentSpaceBayesianOptimizati.md]] : In-Context Learning for Latent Space Bayesian Optimization
+- [[raw/papers/2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md]] : Visual Prompting Meets Feature Reconstruction-Based Anomaly Detection with Dual-Teacher Supervision
+- [[raw/papers/2026-06-08_15-51-51Z_SpatialWorld_BenchmarkingInteractiveSpatialReasoni.md]] : SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks
+- [[raw/papers/2026-06-08_15-54-10Z_Transition_BasedDigitalTwinModellingforAlzheimer_s.md]] : Transition-Based Digital Twin Modelling for Alzheimer's Disease under Sparse Longitudinal Data
+- [[raw/papers/2026-06-08_15-58-31Z_MeCo_One_StepMeanFlow_basedCorrectorforMulti_Chann.md]] : MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation
+- [[raw/papers/2026-06-08_15-57-14Z_Auto_formalizationissupposedtobeeasy_Trellisproces.md]] : (Auto)formalization is supposed to be easy: Trellis process semantics for spelling out rigorous proofs
+- [[raw/papers/2026-06-08_15-54-28Z_CorrelationIsNotEnough_EmbeddingHumanMetadataforIn.md]] : Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery
+- [[raw/papers/2026-06-08_15-51-25Z_AlgorithmforContextualQueueingBanditswithRate_Opti.md]] : Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret
+- [[raw/papers/2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
+- [[raw/papers/2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
-- [[2026-06-26_17-47-09Z_VGBforMaskedDiffusionModel_EfficientTest_timeScali.md]] : VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing
-- [[2026-06-26_17-59-57Z_DexCompose_ReusingDexterousPoliciesforMulti_TaskMa.md]] : DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand
-- [[2026-06-26_17-53-30Z_WhichNashEquilibrium_Solver_DependentSelectiononZe.md]] : Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes
-- [[2026-06-26_17-54-13Z_SurprisesinProperPositive_OnlyLearning.md]] : Surprises in Proper Positive-Only Learning
-- [[2026-06-26_17-52-39Z_Second_OrderKKTGuaranteesforBregmanADMMinNonconvex.md]] : Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization
-- [[2026-06-26_17-38-47Z_DemocraticICAI_DebatingOurWaytoSteeringPrinciplesf.md]] : Democratic ICAI: Debating Our Way to Steering Principles from Preferences
-- [[2026-06-26_17-31-34Z_BridgingAbInitioSymmetriesandGlobalNuclearMasseswi.md]] : Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks
-- [[2026-06-26_16-35-48Z_HPRO_HierarchicalProgressiveRewardOptimizationviaP.md]] : HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech
-- [[2026-06-26_17-04-42Z_LearningTopology_AwareRepresentationsviaTest_TimeA.md]] : Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation
-- [[2026-06-26_17-17-17Z_ParameterEfficientHybridTransformer_PEHT_forNetwor.md]] : Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration
-- [[2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] : Agent-Native Immune System: Architecture, Taxonomy, and Engineering
-- [[2026-06-26_17-21-06Z_AgenticHardwareDesignasRepository_LevelCodeEvoluti.md]] : Agentic Hardware Design as Repository-Level Code Evolution
-- [[2026-06-26_16-37-53Z_Parameter_EfficientContinuous_VariablePhotonicQuan.md]] : Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection
-- [[2026-06-26_17-24-21Z_PAC_BayesianCertificatesforQuadraticClosed_LoopCon.md]] : PAC-Bayesian Certificates for Quadratic Closed-Loop Control
-- [[2026-06-26_17-19-17Z_TowardsAutomatingScientificReviewwithGoogle_sPaper.md]] : Towards Automating Scientific Review with Google's Paper Assistant Tool
-- [[2026-06-26_17-16-04Z_Vision_Default_Prior_Override_CausalMechanismsofPe.md]] : Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models
-- [[2026-06-25_17-51-59Z_MappingPolitical_EliteNetworksinEuropewithaMultili.md]] : Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline
-- [[2026-06-25_17-56-27Z_Error_ConditionedNeuralSolvers.md]] : Error-Conditioned Neural Solvers
-- [[2026-06-25_17-59-58Z_DanceOPD_On_PolicyGenerativeFieldDistillation.md]] : DanceOPD: On-Policy Generative Field Distillation
-- [[2026-06-25_17-49-48Z_UnderstandingDomain_AwareDistributionAlignmentinBu.md]] : Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching
-- [[2026-06-25_17-58-21Z_AutoregressiveBoltzmannGenerators.md]] : Autoregressive Boltzmann Generators
-- [[2026-06-25_17-44-48Z_EmpoweringGUIAgentsviaAutonomousExperienceExplorat.md]] : Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning
-- [[2026-06-25_17-59-36Z_ReinforcementLearningwithoutGround_TruthSolutionsc.md]] : Reinforcement Learning without Ground-Truth Solutions can Improve LLMs
-- [[2026-06-25_17-45-53Z_Language_BasedDigitalTwinsforElderlyCognitiveAssis.md]] : Language-Based Digital Twins for Elderly Cognitive Assistance
-- [[2026-06-25_17-38-45Z_HallucinationinWorldModelsisPredictableandPreventa.md]] : Hallucination in World Models is Predictable and Preventable
-- [[2026-06-25_17-58-02Z_Whenarelikelyanswersright_OnSequenceProbabilityand.md]] : When are likely answers right? On Sequence Probability and Correctness in LLMs
-- [[2026-06-24_17-36-39Z_WhenCertaintyIsanArtifact_KeywordLexiconBlindnessa.md]] : When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance
-- [[2026-06-24_17-53-26Z_SameEvidence_DifferentAnswer_AuditingOrderSensitiv.md]] : Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models
-- [[2026-06-24_17-59-46Z_RevengeBench_ReverseEngineeringCode_SpacePoliciesf.md]] : RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments
-- [[2026-06-24_17-59-56Z_LearningActionPriorsforCross_embodimentRobotManipu.md]] : Learning Action Priors for Cross-embodiment Robot Manipulation
-- [[2026-06-24_17-55-38Z_Real_TimeVoiceAIHearsbutDoesNotListen.md]] : Real-Time Voice AI Hears but Does Not Listen
-- [[2026-06-24_17-52-57Z_Across_processweldingpenetrationstatuspredictional.md]] : A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding
-- [[2026-06-24_17-54-08Z_NeglectedFreeLunchfromPost_training_ProgressAdvant.md]] : Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents
-- [[2026-06-24_17-45-47Z_ModelForensics_InvestigatingWhetherConcerningBehav.md]] : Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment
-- [[2026-06-24_17-59-02Z_On_PolicySelf_DistillationwithSampledDemonstration.md]] : On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity
-- [[2026-06-24_17-33-41Z_Aweldingpenetrationpredictionmodelforlaserweldingp.md]] : A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks
-- [[2026-06-24_14-48-23Z_VariationalAutoencoderLayer.md]] : Variational Autoencoder Layer
-- [[2026-06-24_14-07-10Z_ColorMatters_TriggerColorAffectsSuccessinFederated.md]] : Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks
-- [[2026-06-24_14-27-16Z_A3D_PrintableDatasetforFairTestingandComparisonsof.md]] : A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors
-- [[2026-06-24_14-02-13Z_SemanticConsistencyPolicyOptimizationforReinforcem.md]] : Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents
-- [[2026-06-24_14-23-14Z_AI_AssistedComputationalReproducibilityontheFABRIC.md]] : AI-Assisted Computational Reproducibility on the FABRIC Testbed
-- [[2026-06-24_14-41-27Z_EnhancingBrainMRIAnomalyDetectionandReasoningwithR.md]] : Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data
-- [[2026-06-24_14-25-39Z_AnAnalysisofPosteriorCollapse_ParameterizationandI.md]] : An Analysis of Posterior Collapse, Parameterization and Initialization in Variational Deep Gaussian Processes
-- [[2026-06-24_14-20-30Z_AutoRelAnnotator_CalibratedModelCascadesforCost_Ef.md]] : AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search
-- [[2026-06-24_13-51-42Z_EdgesBeforeEmbeddings_AConfidence_AwareBlurGatefor.md]] : Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines
-- [[2026-06-24_13-50-22Z_AISnitchesGetGlitches_TowardsEvadingAgenticSurveil.md]] : AI Snitches Get Glitches: Towards Evading Agentic Surveillance
-- [[2026-06-23_17-34-18Z_It_sComplicated_OntheDesignandEvaluationofAI_Power.md]] : It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces
-- [[2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteerableVLA.md]] : InSight: Self-Guided Skill Acquisition via Steerable VLAs
-- [[2026-06-23_17-28-00Z_IV_CoT_ImplicitVisualChain_of_ThoughtforStructure_.md]] : IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation
-- [[2026-06-23_17-21-03Z_MatchingTaskstoObjectives_Fine_TuningandPrompt_Tun.md]] : Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models
-- [[2026-06-23_17-52-21Z_FLUX3D_High_Fidelity3DGaussianGenerationwithDiffus.md]] : FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation
-- [[2026-06-23_17-18-28Z_GradingtheGrader_LessonsfromEvaluatinganAgenticDat.md]] : Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System
-- [[2026-06-23_17-34-29Z_OpenThoughts_Agent_DataRecipesforAgenticModels.md]] : OpenThoughts-Agent: Data Recipes for Agentic Models
-- [[2026-06-23_17-29-15Z_Realvs_ComplexSpectralBasesforNeuralOperators_TheR.md]] : Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment
-- [[2026-06-23_17-21-09Z_WorldModelsinPieces_StructuralCertificationforGene.md]] : World Models in Pieces: Structural Certification for General Agents
-- [[2026-06-23_17-55-18Z_NewBoundsfortheLastIterateoftheStochasticsubGradie.md]] : New Bounds for the Last Iterate of the Stochastic subGradient Method
-- [[2026-06-22_17-56-30Z_CanLLMsReliablySelf_ReportAdversarialPrefills_andH.md]] : Can LLMs Reliably Self-Report Adversarial Prefills, and How?
-- [[2026-06-22_17-59-55Z_AutoDex_AnAutomatedReal_WorldSystemforDexterousGra.md]] : AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection
-- [[2026-06-22_17-58-54Z_AIR_AdaptiveInterleavedReasoningwithCodeinMLLMs.md]] : AIR: Adaptive Interleaved Reasoning with Code in MLLMs
-- [[2026-06-22_17-59-20Z_CoorDex_CoordinatingBodyandHandPriorsforContinuous.md]] : CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation
-- [[2026-06-22_17-57-08Z_TeachingLLMsStringMatching_Backtracking_andErrorRe.md]] : Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles
-- [[2026-06-22_17-59-53Z_RandomizedYaRNImprovesLengthGeneralizationforLong_.md]] : Randomized YaRN Improves Length Generalization for Long-Context Reasoning
-- [[2026-06-22_17-59-17Z_SemanticBrowsing_ControllableDiversityforImageGene.md]] : Semantic Browsing: Controllable Diversity for Image Generation
-- [[2026-06-22_17-57-15Z_PsyBridge_AHybridIntelligentFrameworkforMulti_Dime.md]] : PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support
-- [[2026-06-22_17-58-52Z_OpenProblem_IsAdamWEffectiveUnderHeavy_TailedNoise.md]] : Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?
-- [[2026-06-22_17-56-25Z_TaperedLanguageModels.md]] : Tapered Language Models
-- [[2026-06-21_16-44-20Z_Text2DSL_LLM_BasedCodeGenerationforDomain_Specific.md]] : Text2DSL: LLM-Based Code Generation for Domain-Specific Languages
-- [[2026-06-21_16-51-29Z_Training_freeTaskClassificationforMulti_TaskModelM.md]] : Training-free Task Classification for Multi-Task Model Merging
-- [[2026-06-21_16-34-39Z_FromCVEtoCWE_Syscall_BasedHIDSGeneralisation.md]] : From CVE to CWE: Syscall-Based HIDS Generalisation
-- [[2026-06-21_16-27-24Z_Context_AwareDistillationandAblationforText2DSL.md]] : Context-Aware Distillation and Ablation for Text2DSL
-- [[2026-06-21_17-20-21Z_OnthePositionBiasofOn_PolicyDistillation.md]] : On the Position Bias of On-Policy Distillation
-- [[2026-06-21_17-37-01Z_PaperClaw_HarnessingAgentsforAutonomousResearchand.md]] : PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement
-- [[2026-06-21_16-29-25Z_StationaryRobustMean_FieldGamesunderModelMismatche.md]] : Stationary Robust Mean-Field Games under Model Mismatches
-- [[2026-06-21_17-24-31Z_Sub_Billion_Super_Frontier_SmallLanguageModelsRiva.md]] : Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction
-- [[2026-06-21_17-31-05Z_AutomatedsigndetectionacrosstheElectronicBabylonia.md]] : Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline
-- [[2026-06-21_17-20-26Z_ScalableBayesianAdditiveModelsforStellarFlareDetec.md]] : Scalable Bayesian Additive Models for Stellar Flare Detection via Amortized Gaussian Process Inference and Hidden Markov Models
-- [[2026-06-19_15-58-36Z_CompressingObservationHistoryintoAgentMemory_Disti.md]] : Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers
-- [[2026-06-19_15-56-16Z_Rubric_as_Experts_Case_SpecificMQMRubricsforTransl.md]] : Rubric-as-Experts: Case-Specific MQM Rubrics for Translation Quality Evaluation
-- [[2026-06-19_16-44-18Z_FAST_AFrameworkforAlignedSamplingandTraininginPara.md]] : FAST: A Framework for Aligned Sampling and Training in Parallel Reinforcement Learning for Autonomous Driving
-- [[2026-06-19_15-50-35Z_DissectingAgenticRAG_AComponentAblationforMulti_Ho.md]] : Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model
-- [[2026-06-19_16-31-44Z_TheUnreasonableEffectivenessofVLMsforZero_shotProc.md]] : The Unreasonable Effectiveness of VLMs for Zero-shot Procedural Mistake Detection
-- [[2026-06-19_16-02-22Z_LIG_Layer_wiseIntegratedGradientsforWithin_LayerFl.md]] : LIG: Layer-wise Integrated Gradients for Within-Layer Flow Analysis in Transformers
-- [[2026-06-19_16-41-28Z_TheCostGeometryofBelief_finite_resourceinferenceun.md]] : The Cost Geometry of Belief: finite-resource inference under noisy observation
-- [[2026-06-19_15-47-01Z_AIAlignmentFromSocialChoicePerspectives.md]] : AI Alignment From Social Choice Perspectives
-- [[2026-06-19_16-03-53Z_ComposingVerifiableConceptualModelsviaBuildingBloc.md]] : Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows
-- [[2026-06-19_15-55-18Z_PeerMathDial_AMiddleSchoolDialogueDatasetforStuden.md]] : PeerMathDial: A Middle School Dialogue Dataset for Student Collaborative Math Problem Solving
-- [[2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] : UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning
-- [[2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] : Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation
-- [[2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] : Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving
-- [[2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] : Multi-Task Bayesian In-Context Learning
-- [[2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] : Toward Calibrated Mixture-of-Experts Under Distribution Shift
-- [[2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] : Optimal Deterministic Multicalibration and Omniprediction
-- [[2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] : How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech
-- [[2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] : The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups
-- [[2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] : How Transparent is DiffusionGemma?
-- [[2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] : Predictability as a Fine-Grained Measure for Privacy
-- [[2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md]] : CRAX: Fast Safe Reinforcement Learning Benchmarking
-- [[2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] : AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning
-- [[2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] : Robust $Q$-learning for mean-field control under Wasserstein uncertainty in common noise
-- [[2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] : On the Variance of Temporal Difference Learning and its Reduction Using Control Variates
-- [[2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] : Quantum ring all-reduce: communication and privacy advantages for distributed learning
-- [[2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] : Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining
-- [[2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelforInterpr.md]] : Critical Percolation as a Synthetic Data Model for Interpretability
-- [[2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md]] : CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges
-- [[2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] : Judging to Improve: A De-biased VLM-as-3D-Judge Protocol for Single-Image 3D Generation
-- [[2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] : Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation on the Ontario Residential Tenancies Act
-- [[2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md]] : Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States
-- [[2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] : Learning User Simulators with Turing Rewards
-- [[2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] : The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning
-- [[2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] : Native Active Perception as Reasoning for Omni-Modal Understanding
-- [[2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] : UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning
-- [[2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] : Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation
-- [[2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] : Explaining Attention with Program Synthesis
-- [[2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] : Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors
-- [[2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] : Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation
-- [[2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] : Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents
-- [[2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md]] : Sign-Rank, Index, and List Replicability: Connections and Separations
-- [[2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] : ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues
-- [[2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] : Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds
-- [[2026-06-16_17-59-03Z_Variable_WidthTransformers.md]] : Variable-Width Transformers
-- [[2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsInvarian.md]] : Adaptive Volumetric Mechanical Property Fields Invariant to Resolution
-- [[2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforComparat.md]] : Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses
-- [[2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md]] : Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement
-- [[2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] : Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents
-- [[2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] : Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients
-- [[2026-06-16_17-56-57Z_EvolveNav_ProactivePreflectionandSelf_EvolvingMemo.md]] : EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation
-- [[2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] : DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents
-- [[2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md]] : Geometric Action Model for Robot Policy Learning
-- [[2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] : KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing
-- [[2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDifferentially.md]] : Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning
-- [[2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticlesfromNa.md]] : Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio
-- [[2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLinearInver.md]] : Exact Posterior Score Estimation for Solving Linear Inverse Problems
-- [[2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFine_Tuni.md]] : Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes
-- [[2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] : Context-Aware RL for Agentic and Multimodal LLMs
-- [[2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThey_reont.md]] : The Value Axis: Language Models Encode Whether They're on the Right Track
-- [[2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] : The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers
-- [[2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md]] : The Truth Stays in the Family: Enhancing Contextual Grounding via Inherited Truthful Heads in Model Lineages
-- [[2026-06-14_13-34-10Z_OnDefiningErasureHarmsforNLP.md]] : On Defining Erasure Harms for NLP
-- [[2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] : Mean-Field Parallel Decoding for Discrete Diffusion Language Models
-- [[2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md]] : Continuous Cross-Domain Traffic State Prediction via Memory-Augmented Graph Liquid Time-Constant Networks
-- [[2026-06-14_13-23-48Z_LetThemSteal_TrappingLargeLanguageModelExtractionA.md]] : Let Them Steal: Trapping Large Language Model Extraction Attacks with Knowledge Honeypot
-- [[2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandAttribut.md]] : DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing
-- [[2026-06-14_13-04-03Z_UnassignedAgentsinCompilation_basedMulti_agentPath.md]] : Unassigned Agents in Compilation-based Multi-agent Path Finding
-- [[2026-06-14_13-39-00Z_SACE_ConceptErasureattheSemanticSingularityinVisua.md]] : SACE: Concept Erasure at the Semantic Singularity in Visual Autoregressive Models
-- [[2026-06-14_13-27-28Z_BrownianKernelLadders.md]] : Brownian Kernel Ladders
-- [[2026-06-14_13-39-56Z_TrustedARI_TowardsTrust_NativeAgenticRoutingInfras.md]] : TrustedARI: Towards Trust-Native Agentic Routing Infrastructure for Agentic AI
-- [[2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] : AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization
-- [[2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] : Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit
-- [[2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeepLearnin.md]] : CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification
-- [[2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] : Persona-Pruner: Sculpting Lightweight Models for Role-Playing
-- [[2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] : A Complexity Measure for Active Learning in Multi-group Mean Estimation
-- [[2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] : HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification
-- [[2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] : CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment
-- [[2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] : ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning
-- [[2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] : Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning
-- [[2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] : Gaze Heads: How VLMs Look at What They Describe
-- [[2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] : Agents-K1: Towards Agent-native Knowledge Orchestration
-- [[2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] : SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning
-- [[2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] : EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery
-- [[2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] : Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning
-- [[2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] : Automated reproducibility assessments in the social and behavioral sciences using large language models
-- [[2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md]] : Understanding Truncated Positional Encodings for Graph Neural Networks
-- [[2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_Augmente.md]] : HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents
-- [[2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] : Mana: Dexterous Manipulation of Articulated Tools
-- [[2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] : EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments
-- [[2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] : Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution
-- [[2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] : Reinforcement Learning for Neural Model Editing
-- [[2026-06-11_15-29-56Z_SupraBench_ABenchmarkforSupramolecularChemistry.md]] : SupraBench: A Benchmark for Supramolecular Chemistry
-- [[2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] : Toward Instructions-as-Code: Understanding the Impact of Instruction Files on Agentic Pull Requests
-- [[2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md]] : Uncertainty Estimation for Molecular Diffusion Models
-- [[2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedbyAgentic.md]] : Understanding the Rejection of Fixes Generated by Agentic Pull Requests -- Insights from the AIDev Dataset
-- [[2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md]] : Optical Implementation of Equilibrium Propagation Using Spatial Photonic Ising Machines
-- [[2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] : CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Forest for Multivariate Time Series Anomaly Detection
-- [[2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md]] : MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling
-- [[2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] : Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations
-- [[2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] : Examining the Cognitive Gap Between Authors and Peer Reviewers on Academic Paper Novelty
-- [[2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] : Doc-to-Atom: Learning to Compile and Compose Memory Atoms
-- [[2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md]] : Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs
-- [[2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] : ATLAS: Active Theory Learning for Automated Science
-- [[2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] : Context-Driven Incremental Compression for Multi-Turn Dialogue Generation
-- [[2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] : System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5
-- [[2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] : TAHOE: Text-to-SQL with Automated Hint Optimization from Experience
-- [[2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] : Redesign Mixture-of-Experts Routers with Manifold Power Iteration
-- [[2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] : FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning
-- [[2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] : Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models
-- [[2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] : DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?
-- [[2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md]] : A Riemannian Approach to Low-Rank Optimal Transport
-- [[2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines.md]] : Towards Responsibly Non-Compliant Machines
-- [[2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] : MSUE: Multi-Modal Soccer Understanding Expert
-- [[2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] : Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning
-- [[2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] : Detecting Sensitive Personal Information in Japanese Pre-Training Corpora for Large Language Models
-- [[2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] : Augmenting Molecular Language Models with Local $n$-gram Memory
-- [[2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md]] : Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders
-- [[2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPositionEm.md]] : nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding
-- [[2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] : Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation
-- [[2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] : PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea
-- [[2026-06-09_17-48-41Z_Piper_AProgrammableDistributedTrainingSystem.md]] : Piper: A Programmable Distributed Training System
-- [[2026-06-09_17-49-24Z_PredictingFutureBehaviorsinReasoningModelsEnablesB.md]] : Predicting Future Behaviors in Reasoning Models Enables Better Steering
-- [[2026-06-09_17-49-09Z_AlgorithmicandMinimaxComplexitiesinKernelBandits.md]] : Algorithmic and Minimax Complexities in Kernel Bandits
-- [[2026-06-09_17-51-55Z_DataJournalistAgent_TransformingDataintoVerifiable.md]] : Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories
-- [[2026-06-09_17-59-58Z_WhentoAlign_WhentoPredict_APhaseDiagramforMultimod.md]] : When to Align, When to Predict: A Phase Diagram for Multimodal Learning
-- [[2026-06-09_17-46-55Z_Multi_FacetedInteractivityAlignmentinFull_DuplexSp.md]] : Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models
-- [[2026-06-09_17-57-16Z_EEVEE_TowardsTest_timePromptLearningintheRealWorld.md]] : EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents
-- [[2026-06-09_17-59-54Z_AUnifyingLensonSupervisedFine_TuningThroughTargetD.md]] : A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design
-- [[2026-06-09_17-50-09Z_TheRoleofFeedbackAlignmentinSelf_Distillation.md]] : The Role of Feedback Alignment in Self-Distillation
-- [[2026-06-09_17-46-10Z_FlawsintheLLMAutomationNarrative.md]] : Flaws in the LLM Automation Narrative
-- [[2026-06-08_17-59-43Z_OmniGameArena_AUnifiedUE5BenchmarkforVLMGameAgents.md]] : OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics
-- [[Rethinking the Divergence Regularization in LLM RL]] : Rethinking the Divergence Regularization in LLM RL
-- [[2026-06-08_17-58-36Z_CausallyEvaluatingtheLearnabilityofFormalLanguageT.md]] : Causally Evaluating the Learnability of Formal Language Tasks
-- [[Topological Neural Operators]] : Topological Neural Operators
-- [[2026-06-08_17-55-02Z_EvaluationCards_AnInterpretiveLayerforAIEvaluation.md]] : Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting
-- [[2026-06-08_17-56-16Z_PTL_Diffusion_Manifold_AwareDiffusionwithPeriodicT.md]] : PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws
-- [[2026-06-08_17-57-40Z_Weighteduniversalapproximationofdifferentiablemaps.md]] : Weighted universal approximation of differentiable maps on infinite-dimensional manifolds
-- [[2026-06-08_17-54-10Z_Echo_Memory_AControlledStudyofMemoryinActionWorldM.md]] : Echo-Memory: A Controlled Study of Memory in Action World Models
-- [[2026-06-08_17-55-18Z_AHA_WAM_AsynchronousHorizon_AdaptiveWorld_ActionMo.md]] : AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing
-- [[2026-06-08_17-59-39Z_AnAgency_TransferringModel_FreePolicyEnhancementTe.md]] : An Agency-Transferring Model-Free Policy Enhancement Technique
-- [[2026-06-09_MachineLearningArchitectureHub]] : Machine Learning Architecture — Hub
-- [[2026-06-08_MachineLearningArchitecture_WhatItIs_Components_Ty_summary]] : Machine Learning Architecture: What It Is, Components & Types (June 8)
-- [[2026-06-10_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[2026-06-10_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-06-10_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-06-11_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-06-11_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-06-11_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[2026-06-11_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-06-11_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-06-11_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-06-11_GenerativeAI.md]] : Generative AI
-- [[2026-06-11_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-06-12_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-06-12_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-06-12_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-06-12_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-06-12_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-06-12_GenerativeAI.md]] : Generative AI
-- [[2026-06-12_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[2026-06-12_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-06-12_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
-- [[2026-06-12_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-06-13_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[2026-06-13_GenerativeAI.md]] : Generative AI
-- [[2026-06-13_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-06-13_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-06-13_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-06-13_WhatisMLArchitecture.md]] : What is ML Architecture
-- [[2026-06-13_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-06-13_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-06-09_LoopEngineering_AI_Coding_Agents.md]] : "Loop Engineering: The New Meta for AI Coding Agents"
-- [[2026-06-13_OpenNotebook_Open_Source_Notebook_LM.md]] : "Open Notebook — Open Source Notebook LM Alternative"
-- [[2026-06-14_GenerativeAI.md]] : Generative AI
-- [[2026-06-14_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-06-14_WhatisMLArchitecture.md]] : What is ML Architecture
-- [[2026-06-14_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-06-14_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-06-14_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-06-14_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[2026-06-14_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-06-14_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-06-14_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-06-14_TopMachineLearningArchitecturesExplained_BMCSoftwa.md]] : Top Machine Learning Architectures Explained – BMC Software | Blogs
-- [[2026-06-14_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-06-15_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-06-15_TopMachineLearningArchitecturesExplained_BMCSoftwa.md]] : Top Machine Learning Architectures Explained – BMC Software | Blogs
-- [[2026-06-15_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-06-15_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-06-15_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[2026-06-15_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-06-15_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-06-15_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-06-15_GenerativeAI.md]] : Generative AI
-- [[2026-06-15_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-06-16_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-06-16_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-06-16_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-06-16_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-06-16_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-06-16_GenerativeAI.md]] : Generative AI
-- [[2026-06-16_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-06-16_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-06-16_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[2026-06-16_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-06-17_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-06-17_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[2026-06-17_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-06-17_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-06-17_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-06-17_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-06-17_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-06-17_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
-- [[2026-06-17_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
-- [[2026-06-18_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-06-18_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-06-18_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-06-18_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[2026-06-18_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-06-18_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
-- [[2026-06-18_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
+- [[raw/papers/2026-06-29_13-54-04Z_DialogPII_Amultilingualdatasetofsyntheticdialogtra.md]] : DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information
+- [[raw/papers/2026-06-29_13-53-29Z_HighlyDataParallelizableEstimationoftheSliced_Wass.md]] : Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions
+- [[raw/papers/2026-06-29_13-56-17Z_TRACE_AConceptBottleneckModelforLongitudinal3DGlio.md]] : TRACE: A Concept Bottleneck Model for Longitudinal 3D Glioblastoma Response Assessment
+- [[raw/papers/2026-06-29_13-45-28Z_ResearchEntityExtractionandTopicDetectionfromUKRIG.md]] : Research Entity Extraction and Topic Detection from UKRI Grant Proposals
+- [[raw/papers/2026-06-29_13-59-33Z_TowardanEnergy_OptimizedOperationofDataCentersLoca.md]] : Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning
+- [[raw/papers/2026-06-29_13-37-56Z_ManimAgent_Self_EvolvingMultimodalAgentsforVisualE.md]] : ManimAgent: Self-Evolving Multimodal Agents for Visual Education
+- [[raw/papers/2026-06-29_14-02-15Z_BrainJanus_AUnifiedModelforUnderstandingandGenerat.md]] : BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language
+- [[raw/papers/2026-06-29_14-04-08Z_HybridActive_OnlineLearningFrameworkforLabel_Effic.md]] : Hybrid Active-Online Learning Framework for Label-Efficient Concept Drift Adaptation in Optical Network Failure Detection
+- [[raw/papers/2026-06-29_13-47-42Z_Always_OnAgents_ASurveyofPersistentMemory_State_an.md]] : Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents
+- [[raw/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_IntegratedAppl.md]] : MCP Server Architecture Patterns for LLM-Integrated Applications
+- [[raw/papers/2026-06-26_17-47-09Z_VGBforMaskedDiffusionModel_EfficientTest_timeScali.md]] : VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing
+- [[raw/papers/2026-06-26_17-59-57Z_DexCompose_ReusingDexterousPoliciesforMulti_TaskMa.md]] : DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand
+- [[raw/papers/2026-06-26_17-53-30Z_WhichNashEquilibrium_Solver_DependentSelectiononZe.md]] : Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes
+- [[raw/papers/2026-06-26_17-54-13Z_SurprisesinProperPositive_OnlyLearning.md]] : Surprises in Proper Positive-Only Learning
+- [[raw/papers/2026-06-26_17-52-39Z_Second_OrderKKTGuaranteesforBregmanADMMinNonconvex.md]] : Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization
+- [[raw/papers/2026-06-26_17-38-47Z_DemocraticICAI_DebatingOurWaytoSteeringPrinciplesf.md]] : Democratic ICAI: Debating Our Way to Steering Principles from Preferences
+- [[raw/papers/2026-06-26_17-31-34Z_BridgingAbInitioSymmetriesandGlobalNuclearMasseswi.md]] : Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks
+- [[raw/papers/2026-06-26_16-35-48Z_HPRO_HierarchicalProgressiveRewardOptimizationviaP.md]] : HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech
+- [[raw/papers/2026-06-26_17-04-42Z_LearningTopology_AwareRepresentationsviaTest_TimeA.md]] : Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation
+- [[raw/papers/2026-06-26_17-17-17Z_ParameterEfficientHybridTransformer_PEHT_forNetwor.md]] : Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration
+- [[raw/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] : Agent-Native Immune System: Architecture, Taxonomy, and Engineering
+- [[raw/papers/2026-06-26_17-21-06Z_AgenticHardwareDesignasRepository_LevelCodeEvoluti.md]] : Agentic Hardware Design as Repository-Level Code Evolution
+- [[raw/papers/2026-06-26_16-37-53Z_Parameter_EfficientContinuous_VariablePhotonicQuan.md]] : Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection
+- [[raw/papers/2026-06-26_17-24-21Z_PAC_BayesianCertificatesforQuadraticClosed_LoopCon.md]] : PAC-Bayesian Certificates for Quadratic Closed-Loop Control
+- [[raw/papers/2026-06-26_17-19-17Z_TowardsAutomatingScientificReviewwithGoogle_sPaper.md]] : Towards Automating Scientific Review with Google's Paper Assistant Tool
+- [[raw/papers/2026-06-26_17-16-04Z_Vision_Default_Prior_Override_CausalMechanismsofPe.md]] : Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models
+- [[raw/papers/2026-06-25_17-51-59Z_MappingPolitical_EliteNetworksinEuropewithaMultili.md]] : Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline
+- [[raw/papers/2026-06-25_17-56-27Z_Error_ConditionedNeuralSolvers.md]] : Error-Conditioned Neural Solvers
+- [[raw/papers/2026-06-25_17-59-58Z_DanceOPD_On_PolicyGenerativeFieldDistillation.md]] : DanceOPD: On-Policy Generative Field Distillation
+- [[raw/papers/2026-06-25_17-49-48Z_UnderstandingDomain_AwareDistributionAlignmentinBu.md]] : Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching
+- [[raw/papers/2026-06-25_17-58-21Z_AutoregressiveBoltzmannGenerators.md]] : Autoregressive Boltzmann Generators
+- [[raw/papers/2026-06-25_17-44-48Z_EmpoweringGUIAgentsviaAutonomousExperienceExplorat.md]] : Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning
+- [[raw/papers/2026-06-25_17-59-36Z_ReinforcementLearningwithoutGround_TruthSolutionsc.md]] : Reinforcement Learning without Ground-Truth Solutions can Improve LLMs
+- [[raw/papers/2026-06-25_17-45-53Z_Language_BasedDigitalTwinsforElderlyCognitiveAssis.md]] : Language-Based Digital Twins for Elderly Cognitive Assistance
+- [[raw/papers/2026-06-25_17-38-45Z_HallucinationinWorldModelsisPredictableandPreventa.md]] : Hallucination in World Models is Predictable and Preventable
+- [[raw/papers/2026-06-25_17-58-02Z_Whenarelikelyanswersright_OnSequenceProbabilityand.md]] : When are likely answers right? On Sequence Probability and Correctness in LLMs
+- [[raw/papers/2026-06-24_17-36-39Z_WhenCertaintyIsanArtifact_KeywordLexiconBlindnessa.md]] : When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance
+- [[raw/papers/2026-06-24_17-53-26Z_SameEvidence_DifferentAnswer_AuditingOrderSensitiv.md]] : Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models
+- [[raw/papers/2026-06-24_17-59-46Z_RevengeBench_ReverseEngineeringCode_SpacePoliciesf.md]] : RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments
+- [[raw/papers/2026-06-24_17-59-56Z_LearningActionPriorsforCross_embodimentRobotManipu.md]] : Learning Action Priors for Cross-embodiment Robot Manipulation
+- [[raw/papers/2026-06-24_17-55-38Z_Real_TimeVoiceAIHearsbutDoesNotListen.md]] : Real-Time Voice AI Hears but Does Not Listen
+- [[raw/papers/2026-06-24_17-52-57Z_Across_processweldingpenetrationstatuspredictional.md]] : A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding
+- [[raw/papers/2026-06-24_17-54-08Z_NeglectedFreeLunchfromPost_training_ProgressAdvant.md]] : Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents
+- [[raw/papers/2026-06-24_17-45-47Z_ModelForensics_InvestigatingWhetherConcerningBehav.md]] : Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment
+- [[raw/papers/2026-06-24_17-59-02Z_On_PolicySelf_DistillationwithSampledDemonstration.md]] : On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity
+- [[raw/papers/2026-06-24_17-33-41Z_Aweldingpenetrationpredictionmodelforlaserweldingp.md]] : A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks
+- [[raw/papers/2026-06-24_14-48-23Z_VariationalAutoencoderLayer.md]] : Variational Autoencoder Layer
+- [[raw/papers/2026-06-24_14-07-10Z_ColorMatters_TriggerColorAffectsSuccessinFederated.md]] : Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks
+- [[raw/papers/2026-06-24_14-27-16Z_A3D_PrintableDatasetforFairTestingandComparisonsof.md]] : A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors
+- [[raw/papers/2026-06-24_14-02-13Z_SemanticConsistencyPolicyOptimizationforReinforcem.md]] : Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents
+- [[raw/papers/2026-06-24_14-23-14Z_AI_AssistedComputationalReproducibilityontheFABRIC.md]] : AI-Assisted Computational Reproducibility on the FABRIC Testbed
+- [[raw/papers/2026-06-24_14-41-27Z_EnhancingBrainMRIAnomalyDetectionandReasoningwithR.md]] : Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data
+- [[raw/papers/2026-06-24_14-25-39Z_AnAnalysisofPosteriorCollapse_ParameterizationandI.md]] : An Analysis of Posterior Collapse, Parameterization and Initialization in Variational Deep Gaussian Processes
+- [[raw/papers/2026-06-24_14-20-30Z_AutoRelAnnotator_CalibratedModelCascadesforCost_Ef.md]] : AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search
+- [[raw/papers/2026-06-24_13-51-42Z_EdgesBeforeEmbeddings_AConfidence_AwareBlurGatefor.md]] : Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines
+- [[raw/papers/2026-06-24_13-50-22Z_AISnitchesGetGlitches_TowardsEvadingAgenticSurveil.md]] : AI Snitches Get Glitches: Towards Evading Agentic Surveillance
+- [[raw/papers/2026-06-23_17-34-18Z_It_sComplicated_OntheDesignandEvaluationofAI_Power.md]] : It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces
+- [[raw/papers/2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteerableVLA.md]] : InSight: Self-Guided Skill Acquisition via Steerable VLAs
+- [[raw/papers/2026-06-23_17-28-00Z_IV_CoT_ImplicitVisualChain_of_ThoughtforStructure_.md]] : IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation
+- [[raw/papers/2026-06-23_17-21-03Z_MatchingTaskstoObjectives_Fine_TuningandPrompt_Tun.md]] : Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models
+- [[raw/papers/2026-06-23_17-52-21Z_FLUX3D_High_Fidelity3DGaussianGenerationwithDiffus.md]] : FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation
+- [[raw/papers/2026-06-23_17-18-28Z_GradingtheGrader_LessonsfromEvaluatinganAgenticDat.md]] : Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System
+- [[raw/papers/2026-06-23_17-34-29Z_OpenThoughts_Agent_DataRecipesforAgenticModels.md]] : OpenThoughts-Agent: Data Recipes for Agentic Models
+- [[raw/papers/2026-06-23_17-29-15Z_Realvs_ComplexSpectralBasesforNeuralOperators_TheR.md]] : Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment
+- [[raw/papers/2026-06-23_17-21-09Z_WorldModelsinPieces_StructuralCertificationforGene.md]] : World Models in Pieces: Structural Certification for General Agents
+- [[raw/papers/2026-06-23_17-55-18Z_NewBoundsfortheLastIterateoftheStochasticsubGradie.md]] : New Bounds for the Last Iterate of the Stochastic subGradient Method
+- [[raw/papers/2026-06-22_17-56-30Z_CanLLMsReliablySelf_ReportAdversarialPrefills_andH.md]] : Can LLMs Reliably Self-Report Adversarial Prefills, and How?
+- [[raw/papers/2026-06-22_17-59-55Z_AutoDex_AnAutomatedReal_WorldSystemforDexterousGra.md]] : AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection
+- [[raw/papers/2026-06-22_17-58-54Z_AIR_AdaptiveInterleavedReasoningwithCodeinMLLMs.md]] : AIR: Adaptive Interleaved Reasoning with Code in MLLMs
+- [[raw/papers/2026-06-22_17-59-20Z_CoorDex_CoordinatingBodyandHandPriorsforContinuous.md]] : CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation
+- [[raw/papers/2026-06-22_17-57-08Z_TeachingLLMsStringMatching_Backtracking_andErrorRe.md]] : Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles
+- [[raw/papers/2026-06-22_17-59-53Z_RandomizedYaRNImprovesLengthGeneralizationforLong_.md]] : Randomized YaRN Improves Length Generalization for Long-Context Reasoning
+- [[raw/papers/2026-06-22_17-59-17Z_SemanticBrowsing_ControllableDiversityforImageGene.md]] : Semantic Browsing: Controllable Diversity for Image Generation
+- [[raw/papers/2026-06-22_17-57-15Z_PsyBridge_AHybridIntelligentFrameworkforMulti_Dime.md]] : PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support
+- [[raw/papers/2026-06-22_17-58-52Z_OpenProblem_IsAdamWEffectiveUnderHeavy_TailedNoise.md]] : Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?
+- [[raw/papers/2026-06-22_17-56-25Z_TaperedLanguageModels.md]] : Tapered Language Models
+- [[raw/papers/2026-06-21_16-44-20Z_Text2DSL_LLM_BasedCodeGenerationforDomain_Specific.md]] : Text2DSL: LLM-Based Code Generation for Domain-Specific Languages
+- [[raw/papers/2026-06-21_16-51-29Z_Training_freeTaskClassificationforMulti_TaskModelM.md]] : Training-free Task Classification for Multi-Task Model Merging
+- [[raw/papers/2026-06-21_16-34-39Z_FromCVEtoCWE_Syscall_BasedHIDSGeneralisation.md]] : From CVE to CWE: Syscall-Based HIDS Generalisation
+- [[raw/papers/2026-06-21_16-27-24Z_Context_AwareDistillationandAblationforText2DSL.md]] : Context-Aware Distillation and Ablation for Text2DSL
+- [[raw/papers/2026-06-21_17-20-21Z_OnthePositionBiasofOn_PolicyDistillation.md]] : On the Position Bias of On-Policy Distillation
+- [[raw/papers/2026-06-21_17-37-01Z_PaperClaw_HarnessingAgentsforAutonomousResearchand.md]] : PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement
+- [[raw/papers/2026-06-21_16-29-25Z_StationaryRobustMean_FieldGamesunderModelMismatche.md]] : Stationary Robust Mean-Field Games under Model Mismatches
+- [[raw/papers/2026-06-21_17-24-31Z_Sub_Billion_Super_Frontier_SmallLanguageModelsRiva.md]] : Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction
+- [[raw/papers/2026-06-21_17-31-05Z_AutomatedsigndetectionacrosstheElectronicBabylonia.md]] : Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline
+- [[raw/papers/2026-06-21_17-20-26Z_ScalableBayesianAdditiveModelsforStellarFlareDetec.md]] : Scalable Bayesian Additive Models for Stellar Flare Detection via Amortized Gaussian Process Inference and Hidden Markov Models
+- [[raw/papers/2026-06-19_15-58-36Z_CompressingObservationHistoryintoAgentMemory_Disti.md]] : Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers
+- [[raw/papers/2026-06-19_15-56-16Z_Rubric_as_Experts_Case_SpecificMQMRubricsforTransl.md]] : Rubric-as-Experts: Case-Specific MQM Rubrics for Translation Quality Evaluation
+- [[raw/papers/2026-06-19_16-44-18Z_FAST_AFrameworkforAlignedSamplingandTraininginPara.md]] : FAST: A Framework for Aligned Sampling and Training in Parallel Reinforcement Learning for Autonomous Driving
+- [[raw/papers/2026-06-19_15-50-35Z_DissectingAgenticRAG_AComponentAblationforMulti_Ho.md]] : Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model
+- [[raw/papers/2026-06-19_16-31-44Z_TheUnreasonableEffectivenessofVLMsforZero_shotProc.md]] : The Unreasonable Effectiveness of VLMs for Zero-shot Procedural Mistake Detection
+- [[raw/papers/2026-06-19_16-02-22Z_LIG_Layer_wiseIntegratedGradientsforWithin_LayerFl.md]] : LIG: Layer-wise Integrated Gradients for Within-Layer Flow Analysis in Transformers
+- [[raw/papers/2026-06-19_16-41-28Z_TheCostGeometryofBelief_finite_resourceinferenceun.md]] : The Cost Geometry of Belief: finite-resource inference under noisy observation
+- [[raw/papers/2026-06-19_15-47-01Z_AIAlignmentFromSocialChoicePerspectives.md]] : AI Alignment From Social Choice Perspectives
+- [[raw/papers/2026-06-19_16-03-53Z_ComposingVerifiableConceptualModelsviaBuildingBloc.md]] : Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows
+- [[raw/papers/2026-06-19_15-55-18Z_PeerMathDial_AMiddleSchoolDialogueDatasetforStuden.md]] : PeerMathDial: A Middle School Dialogue Dataset for Student Collaborative Math Problem Solving
+- [[raw/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] : UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning
+- [[raw/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] : Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation
+- [[raw/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] : Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving
+- [[raw/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] : Multi-Task Bayesian In-Context Learning
+- [[raw/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] : Toward Calibrated Mixture-of-Experts Under Distribution Shift
+- [[raw/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] : Optimal Deterministic Multicalibration and Omniprediction
+- [[raw/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] : How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech
+- [[raw/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] : The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups
+- [[raw/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] : How Transparent is DiffusionGemma?
+- [[raw/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] : Predictability as a Fine-Grained Measure for Privacy
+- [[raw/papers/2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md]] : CRAX: Fast Safe Reinforcement Learning Benchmarking
+- [[raw/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] : AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning
+- [[raw/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] : Robust $Q$-learning for mean-field control under Wasserstein uncertainty in common noise
+- [[raw/papers/2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] : On the Variance of Temporal Difference Learning and its Reduction Using Control Variates
+- [[raw/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] : Quantum ring all-reduce: communication and privacy advantages for distributed learning
+- [[raw/papers/2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] : Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining
+- [[raw/papers/2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelforInterpr.md]] : Critical Percolation as a Synthetic Data Model for Interpretability
+- [[raw/papers/2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md]] : CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges
+- [[raw/papers/2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] : Judging to Improve: A De-biased VLM-as-3D-Judge Protocol for Single-Image 3D Generation
+- [[raw/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] : Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation on the Ontario Residential Tenancies Act
+- [[raw/papers/2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md]] : Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States
+- [[raw/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] : Learning User Simulators with Turing Rewards
+- [[raw/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] : The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning
+- [[raw/papers/2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] : Native Active Perception as Reasoning for Omni-Modal Understanding
+- [[raw/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] : UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning
+- [[raw/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] : Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation
+- [[raw/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] : Explaining Attention with Program Synthesis
+- [[raw/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] : Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors
+- [[raw/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] : Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation
+- [[raw/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] : Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents
+- [[raw/papers/2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md]] : Sign-Rank, Index, and List Replicability: Connections and Separations
+- [[raw/papers/2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] : ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues
+- [[raw/papers/2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] : Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds
+- [[raw/papers/2026-06-16_17-59-03Z_Variable_WidthTransformers.md]] : Variable-Width Transformers
+- [[raw/papers/2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsInvarian.md]] : Adaptive Volumetric Mechanical Property Fields Invariant to Resolution
+- [[raw/papers/2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforComparat.md]] : Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses
+- [[raw/papers/2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md]] : Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement
+- [[raw/papers/2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] : Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents
+- [[raw/papers/2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] : Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients
+- [[raw/papers/2026-06-16_17-56-57Z_EvolveNav_ProactivePreflectionandSelf_EvolvingMemo.md]] : EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation
+- [[raw/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] : DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents
+- [[raw/papers/2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md]] : Geometric Action Model for Robot Policy Learning
+- [[raw/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] : KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing
+- [[raw/papers/2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDifferentially.md]] : Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning
+- [[raw/papers/2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticlesfromNa.md]] : Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio
+- [[raw/papers/2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLinearInver.md]] : Exact Posterior Score Estimation for Solving Linear Inverse Problems
+- [[raw/papers/2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFine_Tuni.md]] : Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes
+- [[raw/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] : Context-Aware RL for Agentic and Multimodal LLMs
+- [[raw/papers/2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThey_reont.md]] : The Value Axis: Language Models Encode Whether They're on the Right Track
+- [[raw/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] : The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers
+- [[raw/papers/2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md]] : The Truth Stays in the Family: Enhancing Contextual Grounding via Inherited Truthful Heads in Model Lineages
+- [[raw/papers/2026-06-14_13-34-10Z_OnDefiningErasureHarmsforNLP.md]] : On Defining Erasure Harms for NLP
+- [[raw/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] : Mean-Field Parallel Decoding for Discrete Diffusion Language Models
+- [[raw/papers/2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md]] : Continuous Cross-Domain Traffic State Prediction via Memory-Augmented Graph Liquid Time-Constant Networks
+- [[raw/papers/2026-06-14_13-23-48Z_LetThemSteal_TrappingLargeLanguageModelExtractionA.md]] : Let Them Steal: Trapping Large Language Model Extraction Attacks with Knowledge Honeypot
+- [[raw/papers/2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandAttribut.md]] : DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing
+- [[raw/papers/2026-06-14_13-04-03Z_UnassignedAgentsinCompilation_basedMulti_agentPath.md]] : Unassigned Agents in Compilation-based Multi-agent Path Finding
+- [[raw/papers/2026-06-14_13-39-00Z_SACE_ConceptErasureattheSemanticSingularityinVisua.md]] : SACE: Concept Erasure at the Semantic Singularity in Visual Autoregressive Models
+- [[raw/papers/2026-06-14_13-27-28Z_BrownianKernelLadders.md]] : Brownian Kernel Ladders
+- [[raw/papers/2026-06-14_13-39-56Z_TrustedARI_TowardsTrust_NativeAgenticRoutingInfras.md]] : TrustedARI: Towards Trust-Native Agentic Routing Infrastructure for Agentic AI
+- [[raw/papers/2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] : AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization
+- [[raw/papers/2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] : Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit
+- [[raw/papers/2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeepLearnin.md]] : CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification
+- [[raw/papers/2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] : Persona-Pruner: Sculpting Lightweight Models for Role-Playing
+- [[raw/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] : A Complexity Measure for Active Learning in Multi-group Mean Estimation
+- [[raw/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] : HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification
+- [[raw/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] : CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment
+- [[raw/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] : ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning
+- [[raw/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] : Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning
+- [[raw/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] : Gaze Heads: How VLMs Look at What They Describe
+- [[raw/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] : Agents-K1: Towards Agent-native Knowledge Orchestration
+- [[raw/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] : SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning
+- [[raw/papers/2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] : EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery
+- [[raw/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] : Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning
+- [[raw/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] : Automated reproducibility assessments in the social and behavioral sciences using large language models
+- [[raw/papers/2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md]] : Understanding Truncated Positional Encodings for Graph Neural Networks
+- [[raw/papers/2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_Augmente.md]] : HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents
+- [[raw/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] : Mana: Dexterous Manipulation of Articulated Tools
+- [[raw/papers/2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] : EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments
+- [[raw/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] : Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution
+- [[raw/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] : Reinforcement Learning for Neural Model Editing
+- [[raw/papers/2026-06-11_15-29-56Z_SupraBench_ABenchmarkforSupramolecularChemistry.md]] : SupraBench: A Benchmark for Supramolecular Chemistry
+- [[raw/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] : Toward Instructions-as-Code: Understanding the Impact of Instruction Files on Agentic Pull Requests
+- [[raw/papers/2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md]] : Uncertainty Estimation for Molecular Diffusion Models
+- [[raw/papers/2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedbyAgentic.md]] : Understanding the Rejection of Fixes Generated by Agentic Pull Requests -- Insights from the AIDev Dataset
+- [[raw/papers/2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md]] : Optical Implementation of Equilibrium Propagation Using Spatial Photonic Ising Machines
+- [[raw/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] : CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Forest for Multivariate Time Series Anomaly Detection
+- [[raw/papers/2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md]] : MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling
+- [[raw/papers/2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] : Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations
+- [[raw/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] : Examining the Cognitive Gap Between Authors and Peer Reviewers on Academic Paper Novelty
+- [[raw/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] : Doc-to-Atom: Learning to Compile and Compose Memory Atoms
+- [[raw/papers/2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md]] : Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs
+- [[raw/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] : ATLAS: Active Theory Learning for Automated Science
+- [[raw/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] : Context-Driven Incremental Compression for Multi-Turn Dialogue Generation
+- [[raw/papers/2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] : System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5
+- [[raw/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] : TAHOE: Text-to-SQL with Automated Hint Optimization from Experience
+- [[raw/papers/2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] : Redesign Mixture-of-Experts Routers with Manifold Power Iteration
+- [[raw/papers/2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] : FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning
+- [[raw/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] : Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models
+- [[raw/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] : DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?
+- [[raw/papers/2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md]] : A Riemannian Approach to Low-Rank Optimal Transport
+- [[raw/papers/2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines.md]] : Towards Responsibly Non-Compliant Machines
+- [[raw/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] : MSUE: Multi-Modal Soccer Understanding Expert
+- [[raw/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] : Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning
+- [[raw/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] : Detecting Sensitive Personal Information in Japanese Pre-Training Corpora for Large Language Models
+- [[raw/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] : Augmenting Molecular Language Models with Local $n$-gram Memory
+- [[raw/papers/2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md]] : Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders
+- [[raw/papers/2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPositionEm.md]] : nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding
+- [[raw/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] : Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation
+- [[raw/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] : PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea
+- [[raw/papers/2026-06-09_17-48-41Z_Piper_AProgrammableDistributedTrainingSystem.md]] : Piper: A Programmable Distributed Training System
+- [[raw/papers/2026-06-09_17-49-24Z_PredictingFutureBehaviorsinReasoningModelsEnablesB.md]] : Predicting Future Behaviors in Reasoning Models Enables Better Steering
+- [[raw/papers/2026-06-09_17-49-09Z_AlgorithmicandMinimaxComplexitiesinKernelBandits.md]] : Algorithmic and Minimax Complexities in Kernel Bandits
+- [[raw/papers/2026-06-09_17-51-55Z_DataJournalistAgent_TransformingDataintoVerifiable.md]] : Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories
+- [[raw/papers/2026-06-09_17-59-58Z_WhentoAlign_WhentoPredict_APhaseDiagramforMultimod.md]] : When to Align, When to Predict: A Phase Diagram for Multimodal Learning
+- [[raw/papers/2026-06-09_17-46-55Z_Multi_FacetedInteractivityAlignmentinFull_DuplexSp.md]] : Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models
+- [[raw/papers/2026-06-09_17-57-16Z_EEVEE_TowardsTest_timePromptLearningintheRealWorld.md]] : EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents
+- [[raw/papers/2026-06-09_17-59-54Z_AUnifyingLensonSupervisedFine_TuningThroughTargetD.md]] : A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design
+- [[raw/papers/2026-06-09_17-50-09Z_TheRoleofFeedbackAlignmentinSelf_Distillation.md]] : The Role of Feedback Alignment in Self-Distillation
+- [[raw/papers/2026-06-09_17-46-10Z_FlawsintheLLMAutomationNarrative.md]] : Flaws in the LLM Automation Narrative
+- [[raw/papers/2026-06-08_17-59-43Z_OmniGameArena_AUnifiedUE5BenchmarkforVLMGameAgents.md]] : OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics
+- [[raw/papers/2026-06-08_17-58-23Z_RethinkingtheDivergenceRegularizationinLLMRL.md]] : Rethinking the Divergence Regularization in LLM RL
+- [[raw/papers/2026-06-08_17-58-36Z_CausallyEvaluatingtheLearnabilityofFormalLanguageT.md]] : Causally Evaluating the Learnability of Formal Language Tasks
+- [[raw/papers/2026-06-08_17-54-33Z_TopologicalNeuralOperators.md]] : Topological Neural Operators
+- [[raw/papers/2026-06-08_17-55-02Z_EvaluationCards_AnInterpretiveLayerforAIEvaluation.md]] : Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting
+- [[raw/papers/2026-06-08_17-56-16Z_PTL_Diffusion_Manifold_AwareDiffusionwithPeriodicT.md]] : PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws
+- [[raw/papers/2026-06-08_17-57-40Z_Weighteduniversalapproximationofdifferentiablemaps.md]] : Weighted universal approximation of differentiable maps on infinite-dimensional manifolds
+- [[raw/papers/2026-06-08_17-54-10Z_Echo_Memory_AControlledStudyofMemoryinActionWorldM.md]] : Echo-Memory: A Controlled Study of Memory in Action World Models
+- [[raw/papers/2026-06-08_17-55-18Z_AHA_WAM_AsynchronousHorizon_AdaptiveWorld_ActionMo.md]] : AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing
+- [[raw/papers/2026-06-08_17-59-39Z_AnAgency_TransferringModel_FreePolicyEnhancementTe.md]] : An Agency-Transferring Model-Free Policy Enhancement Technique
+- [[articles/2026-04-28_MachineLearning_AWSArchitectureCenter_article.md]] : Machine Learning Architecture — Hub
+- [[raw/summaries/SUMMARY_2026-04-29_Machine_Learning_Architecture__What_It_Is__Compone.md]] : Machine Learning Architecture: What It Is, Components & Types (June 8)
+- [[raw/articles/2026-06-10_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[raw/articles/2026-06-10_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[raw/articles/2026-06-10_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-11_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[raw/articles/2026-06-11_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[raw/articles/2026-06-11_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[raw/articles/2026-06-11_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[raw/articles/2026-06-11_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[raw/articles/2026-06-11_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[raw/articles/2026-06-11_GenerativeAI.md]] : Generative AI
+- [[raw/articles/2026-06-11_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[raw/articles/2026-06-12_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[raw/articles/2026-06-12_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[raw/articles/2026-06-12_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[raw/articles/2026-06-12_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[raw/articles/2026-06-12_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[raw/articles/2026-06-12_GenerativeAI.md]] : Generative AI
+- [[raw/articles/2026-06-12_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[raw/articles/2026-06-12_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-12_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[raw/articles/2026-06-12_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[raw/articles/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[raw/articles/2026-06-13_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[raw/articles/2026-06-13_GenerativeAI.md]] : Generative AI
+- [[raw/articles/2026-06-13_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[raw/articles/2026-06-13_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[raw/articles/2026-06-13_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[raw/articles/2026-06-13_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[raw/articles/2026-06-13_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-13_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[raw/articles/2026-06-09_LoopEngineering_AI_Coding_Agents.md]] : "Loop Engineering: The New Meta for AI Coding Agents"
+- [[raw/articles/2026-06-13_OpenNotebook_Open_Source_Notebook_LM.md]] : "Open Notebook — Open Source Notebook LM Alternative"
+- [[raw/articles/2026-06-14_GenerativeAI.md]] : Generative AI
+- [[raw/articles/2026-06-14_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[raw/articles/2026-06-14_WhatisMLArchitecture.md]] : What is ML Architecture
+- [[raw/articles/2026-06-14_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[raw/articles/2026-06-14_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[raw/articles/2026-06-14_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[raw/articles/2026-06-14_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[raw/articles/2026-06-14_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[raw/articles/2026-06-14_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[raw/articles/2026-06-14_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-14_TopMachineLearningArchitecturesExplained_BMCSoftwa.md]] : Top Machine Learning Architectures Explained – BMC Software | Blogs
+- [[raw/articles/2026-06-14_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[raw/articles/2026-06-15_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[raw/articles/2026-06-15_TopMachineLearningArchitecturesExplained_BMCSoftwa.md]] : Top Machine Learning Architectures Explained – BMC Software | Blogs
+- [[raw/articles/2026-06-15_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[raw/articles/2026-06-15_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[raw/articles/2026-06-15_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[raw/articles/2026-06-15_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[raw/articles/2026-06-15_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[raw/articles/2026-06-15_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-15_GenerativeAI.md]] : Generative AI
+- [[raw/articles/2026-06-15_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[raw/articles/2026-06-16_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[raw/articles/2026-06-16_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[raw/articles/2026-06-16_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[raw/articles/2026-06-16_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-16_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[raw/articles/2026-06-16_GenerativeAI.md]] : Generative AI
+- [[raw/articles/2026-06-16_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[raw/articles/2026-06-16_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[raw/articles/2026-06-16_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[raw/articles/2026-06-16_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[raw/articles/2026-06-17_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[raw/articles/2026-06-17_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[raw/articles/2026-06-17_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[raw/articles/2026-06-17_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[raw/articles/2026-06-17_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[raw/articles/2026-06-17_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[raw/articles/2026-06-17_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[raw/articles/2026-06-17_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
+- [[raw/articles/2026-06-17_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
+- [[raw/articles/2026-06-18_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[raw/articles/2026-06-18_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[raw/articles/2026-06-18_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[raw/articles/2026-06-18_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[raw/articles/2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[raw/articles/2026-06-18_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[raw/articles/2026-06-18_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[raw/articles/2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
+- [[raw/articles/2026-06-18_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026

@@ -25,11 +25,11 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 
 ### Topic Hubs
 
-- [[2026-06-09_LLMsAndFoundationModelsHub.md|LLMs & Foundation Models Hub]] — Key papers, models, and industry articles
-- [[2026-06-09_AgentSystemsHub.md|Agent Systems Hub]] — Agent architectures, frameworks, and multi-agent research
-- [[2026-06-09_AIIndustryAndNewsHub.md|AI Industry & News Hub]] — Latest AI news, model releases, and market analysis
-- [[2026-06-09_AIResearchPapersHub.md|AI Research Papers Hub]] — Organized research papers by topic area
-- [[2026-06-09_AIArchitectureHub.md|AI Architecture Hub]] — ML pipelines, agent frameworks, and system design
+- [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|LLMs & Foundation Models Hub]] — Key papers, models, and industry articles
+- [[concepts/2026-06-09_AgentSystemsHub.md|Agent Systems Hub]] — Agent architectures, frameworks, and multi-agent research
+- [[concepts/2026-06-09_AIIndustryAndNewsHub.md|AI Industry & News Hub]] — Latest AI news, model releases, and market analysis
+- [[concepts/2026-06-09_AIResearchPapersHub.md|AI Research Papers Hub]] — Organized research papers by topic area
+- [[concepts/2026-06-09_AIArchitectureHub.md|AI Architecture Hub]] — ML pipelines, agent frameworks, and system design
 
 ### Foundation Models & LLMs
 - Claude Opus 4.7: Anthropic's New Best Model
