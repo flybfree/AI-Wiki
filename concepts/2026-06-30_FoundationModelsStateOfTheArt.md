@@ -19,6 +19,8 @@ This is a dated snapshot of the frontier foundation-model landscape. The date is
 - [Google: Gemini 3.1 Pro](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-1-pro/)
 - [xAI: Grok 4](https://x.ai/news/grok-4)
 - [Meta: The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+- [Google: Introducing Gemma 4 12B](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+- [Google: Gemma 4 model overview](https://ai.google.dev/gemma/docs/core)
 - [DeepSeek V4 Preview](https://api-docs.deepseek.com/news/news260424)
 - [Qwen3: Think Deeper, Act Faster](https://qwenlm.github.io/blog/qwen3/)
 - [GLM-5.2](https://z.ai/blog/glm-5.2)
@@ -37,6 +39,7 @@ The current frontier is fragmented rather than dominated by a single universal w
 - The strongest proprietary models are still mostly American: OpenAI, Anthropic, Google, and xAI.
 - Chinese labs are now genuinely frontier-competitive, especially in open-weight / open-source-style releases and in cost-performance.
 - Open-weight models have closed the gap enough that the best choice now depends heavily on the task: reasoning, coding, long-context work, multimodal understanding, or self-hosting economics.
+- Google’s Gemma 4 family deserves special mention: the 26B A4B MoE model is a strong open-weight multimodal heavyweight, and the 12B Unified model is a very capable compact multimodal option.
 - Benchmarks disagree by category, so “state of the art” should be read as “best on this task under this evaluation,” not “best at everything.”
 
 ## 1) American proprietary frontier models
@@ -130,6 +133,31 @@ Current impression:
 
 Source:
 - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
+
+### Google — Gemma 4 26B A4B and Gemma 4 12B Unified
+
+Gemma 4 is Google’s open-weight multimodal family, and the 26B A4B and 12B Unified variants are especially relevant for current SOTA comparisons.
+
+Why it matters:
+- Multimodal text, image, and audio support across the family
+- 26B A4B MoE variant is the heavyweight open-weight option
+- 12B Unified is the compact encoder-free multimodal option
+- Strong long-context and reasoning benchmarks for an open family
+
+Current impression:
+- Gemma 4 26B A4B is one of the strongest open-weight multimodal models available
+- Gemma 4 12B Unified gives a strong capability-per-parameter tradeoff
+- Google’s advantage here is not just quality but deployment flexibility across devices and servers
+
+Selected benchmark snapshot from the model cards:
+- Gemma 4 26B A4B: MMLU Pro 82.6%, AIME 2026 no tools 88.3%, LiveCodeBench v6 77.1%, MMMU Pro 73.8%, MRCR v2 8 needle 128k 44.1%
+- Gemma 4 12B Unified: MMLU Pro 77.2%, AIME 2026 no tools 77.5%, LiveCodeBench v6 72.0%, MMMU Pro 69.1%, MRCR v2 8 needle 128k 43.4%
+
+Sources:
+- [Gemma 4 12B blog post](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+- [Gemma 4 model overview](https://ai.google.dev/gemma/docs/core)
+- [Gemma 4 26B A4B README](https://huggingface.co/google/gemma-4-26B-A4B-it/raw/main/README.md)
+- [Gemma 4 12B README](https://huggingface.co/google/gemma-4-12B/raw/main/README.md)
 
 ## 3) Chinese proprietary frontier models
 
