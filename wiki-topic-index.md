@@ -30,6 +30,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 - [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|LLMs & Foundation Models Hub — Main]]
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]]
+- [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]
 
 ### Claude Opus 4.7
 - [[articles/2026-04-23_Claude_Opus_4_7__Anthropic_s_New_Best__Available___summary.md|Claude Opus 4.7: Anthropic's New Best (Available) Model]]

@@ -80,6 +80,7 @@ tags: ['wiki']
 ### LLM Model Evolution
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — tracking model releases, benchmarks, and capabilities
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — dated frontier snapshot across proprietary and open-weight models
+- [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]] — side-by-side model comparison
 
 ### AI Benchmarks
 - [[concepts/ai-benchmarks/2026-06-10_AIBenchmarks.md|AI Benchmarks]] — benchmark results, SOTA models, and evaluation trends

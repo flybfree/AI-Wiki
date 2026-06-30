@@ -33,6 +33,7 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 
 ### Foundation Models & LLMs
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]]
+- [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]
 - Claude Opus 4.7: Anthropic's New Best Model
 - DeepSeek V4 Model Preview
 - 10 Best Open-Source LLM Models (2025 Updated)

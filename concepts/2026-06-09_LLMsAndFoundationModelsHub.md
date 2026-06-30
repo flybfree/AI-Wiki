@@ -34,6 +34,7 @@ This hub organizes content related to large language models, their architectures
 ## Notable Model Articles
 
 - [[2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]]
+- [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]
 - [[2026-04-23_ClaudeOpus4_7_Anthropic_sNewBest_Available_Model_article.md|Claude Opus 4.7]]
 - [[2026-04-23_Claude_Opus_4_7__Anthropic_s_New_Best__Available___summary.md|Claude Opus 4.7 Summary]]
 - [[2026-05-05_BestOpen-SourceLLMMay2026_Llama4vsQwenvsDeepSeek_summary.md|Best Open-Source LLMs May 2026]]
