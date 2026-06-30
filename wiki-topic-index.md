@@ -29,6 +29,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ### LLMs & Foundation Models Hub
 
 - [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|LLMs & Foundation Models Hub — Main]]
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]]
 
 ### Claude Opus 4.7
 - [[articles/2026-04-23_Claude_Opus_4_7__Anthropic_s_New_Best__Available___summary.md|Claude Opus 4.7: Anthropic's New Best (Available) Model]]
