@@ -9,13 +9,14 @@ tags: ["wiki", "comparison", "foundation-models", "open-weight", "coding", "reas
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page compares six recent models that sit in different corners of the current frontier: a large open-source coding agent, a long-context 9B reasoning model, a tiny reasoning model, and two multimodal open-weight generalists.
+This page compares seven recent models that sit in different corners of the current frontier: two Ornith agentic-coding variants, a long-context 9B reasoning model, a tiny reasoning model, and two multimodal open-weight generalists.
 
 Important caveat: these models are not directly apples-to-apples. They optimize for different tasks, sizes, and benchmarks, so the right interpretation is “best for this use case,” not “one universal winner.”
 
 ## Quick take
 
 - Best open-source coding agent: [Ornith-1.0-35B](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B)
+- Best mid-size open-source coding model: [Ornith-1.0-31B](https://huggingface.co/collections/deepreinforce-ai/ornith-10)
 - Best long-context local reasoning model: [Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M)
 - Best ultra-small math/coding model: [VibeThinker-1.5B](https://huggingface.co/WeiboAI/VibeThinker-1.5B)
 - Best balanced open-weight multimodal generalist: [Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)
@@ -26,6 +27,7 @@ Important caveat: these models are not directly apples-to-apples. They optimize 
 
 | Model | Origin | Params / shape | License | Context | Main strength | Main caveat |
 |---|---|---:|---|---:|---|---|
+| Ornith-1.0-31B | DeepReinforce | 31B dense | MIT | 128K in eval setup | Mid-size agentic coding and software-engineering tasks | Less capacity than the 35B MoE variant |
 | Ornith-1.0-35B | DeepReinforce | 35B MoE | MIT | 128K in eval setup | Agentic coding and software-engineering tasks | Heavy model; focused on coding rather than broad multimodal use |
 | Qwythos-9B-Claude-Mythos-5-1M | Empero / Qwen-derived | 9B dense | Apache 2.0 | 1,048,576 tokens | Long-context reasoning and tool use | Derived model; not a general frontier multimodal model |
 | VibeThinker-1.5B | WeiboAI | 1.5B dense | MIT | Not emphasized as its headline feature | Tiny-model math and coding efficiency | Experimental; best on competitive-style math/coding, not broad assistant work |
@@ -35,12 +37,13 @@ Important caveat: these models are not directly apples-to-apples. They optimize 
 
 ## Model notes
 
-### Ornith-1.0-35B
+### Ornith-1.0 family (31B Dense / 35B MoE)
 
-Ornith is the most explicitly code-agent-focused model in this set. The model card says it is a self-improving family for agentic coding, released in 9B-Dense, 31B-Dense, 35B-MoE, and 397B-MoE variants, and MIT licensed.
+Ornith is the most explicitly code-agent-focused model family in this set. The family spans 9B-Dense, 31B-Dense, 35B-MoE, and 397B-MoE variants, and it is MIT licensed.
 
 What stands out:
 - Trained for agentic coding and self-improving scaffolds
+- The 31B dense checkpoint gives a smaller-footprint option within the same family
 - Officially claims state-of-the-art results among open-source models of comparable size on Terminal-Bench 2.1, SWE-Bench, NL2Repo, and OpenClaw
 - The 35B card emphasizes efficient single-GPU deployment
 
@@ -60,6 +63,7 @@ Best fit:
 - Self-improving / scaffolded agent experiments
 
 Source:
+- [Ornith-1.0 collection](https://huggingface.co/collections/deepreinforce-ai/ornith-10)
 - [Ornith-1.0-35B README](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B/raw/main/README.md)
 - [Ornith-1.0 blog post](https://deep-reinforce.com/ornith_1_0.html)
 
