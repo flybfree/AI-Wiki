@@ -1214,6 +1214,26 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[raw/papers/2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-06-30_17-54-02Z_FreeformPreferenceLearningforRoboticManipulation.md]] : Freeform Preference Learning for Robotic Manipulation
+- [[2026-06-30_17-59-32Z_IntrospectiveCoupling_Self_ExplanationTrainingTrac.md]] : Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision
+- [[2026-06-30_17-52-28Z_FLORA_Adeeplearningapproachtopredictforestattribut.md]] : FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data
+- [[2026-06-30_17-54-50Z_WhenLLMsReadTablesCarelessly_MeasuringandReducingD.md]] : When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors
+- [[2026-06-30_17-56-01Z_ReinforcementLearningwithMetacognitiveFeedbackElic.md]] : Reinforcement Learning with Metacognitive Feedback Elicits Faithful Uncertainty Expression in LLMs
+- [[2026-06-30_17-53-48Z_AdaJEPA_AnAdaptiveLatentWorldModel.md]] : AdaJEPA: An Adaptive Latent World Model
+- [[2026-06-30_17-52-22Z_SemRF_ASemanticReferenceFrameforResidual_StreamDyn.md]] : SemRF: A Semantic Reference Frame for Residual-Stream Dynamics in Language Models
+- [[2026-06-30_17-50-24Z_AutomatedBackgroundSwappingforRobustnessagainstSpu.md]] : Automated Background Swapping for Robustness against Spurious Backgrounds
+- [[2026-06-30_17-58-23Z_QVal_CheaplyEvaluatingDenseSupervisionSignalsforLo.md]] : QVal: Cheaply Evaluating Dense Supervision Signals for Long-Horizon LLM Agents
+- [[2026-06-30_17-53-09Z_GenerativeSkillCompositionforLLMAgents.md]] : Generative Skill Composition for LLM Agents
+- [[2026-06-30_13-25-29Z_MoralSafetyinLLMs_ExposingPerformativeCompliancewi.md]] : Moral Safety in LLMs: Exposing Performative Compliance with Puzzled Cues
+- [[2026-06-30_13-31-35Z_ImprovingCertifiedRobustnessviaAdversarialDistilla.md]] : Improving Certified Robustness via Adversarial Distillation
+- [[2026-06-30_13-16-39Z_Calibration_NotCompilation_DetectingandRepairingMi.md]] : Calibration, Not Compilation: Detecting and Repairing Misspecified Probabilistic Programs Written by Language Models
+- [[2026-06-30_13-29-16Z_ThinkinEnglish_AnswerinKorean_EfficientAdaptationo.md]] : Think in English, Answer in Korean: Efficient Adaptation of Multilingual Tool-Using Agents
+- [[2026-06-30_13-29-58Z_ECHO_Prunetoact_tracetolearnwithselectiveturnmemor.md]] : ECHO: Prune to act, trace to learn with selective turn memory in agentic RL
+- [[2026-06-30_13-19-45Z_ATutorialonAutonomousFault_TolerantControlUsingKno.md]] : A Tutorial on Autonomous Fault-Tolerant Control Using Knowledge-Grounded LLM Agents
+- [[2026-06-30_13-23-25Z_Tone_ConditionedCurriculumLearningforLow_ResourceB.md]] : Tone-Conditioned Curriculum Learning for Low-Resource Bantu Speech Recognition
+- [[2026-06-30_13-21-43Z_ALifecycleandApplication_StackSurveyofLargeLanguag.md]] : A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems
+- [[2026-06-30_13-30-24Z_FARS_AFullyAutomatedResearchSystemDeployedatScale.md]] : FARS: A Fully Automated Research System Deployed at Scale
+- [[2026-06-30_13-20-44Z_Intrinsicdecompositionandeditingof3DGaussiansplats.md]] : Intrinsic decomposition and editing of 3D Gaussian splats
 - [[2026-06-29_17-59-20Z_LeVo2_StableandMelodiousSongGenerationviaHierarchi.md]] : LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training
 - [[2026-06-29_17-58-43Z_Self_EvolvingWorldModelsforLLMAgentPlanning.md]] : Self-Evolving World Models for LLM Agent Planning
 - [[2026-06-29_17-56-03Z_Pessimism_sParadox_ConservativeOfflineTrainingAmpl.md]] : Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models
@@ -1538,3 +1558,11 @@ tags: ['wiki']
 - [[raw/articles/2026-06-18_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
 - [[raw/articles/2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
 - [[raw/articles/2026-06-18_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
+- [[2026-06-30_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[2026-06-30_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[2026-06-30_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[2026-06-30_Deeplearningarchitectures.md]] : Deep learning architectures
+- [[2026-06-30_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[2026-06-30_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[2026-06-30_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[2026-06-30_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
