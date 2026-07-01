@@ -1574,3 +1574,4 @@ tags: ['wiki']
 - [[2026-07-01_Deeplearningarchitectures.md]] : Deep learning architectures
 - [[2026-07-01_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
 - [[2026-07-01_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[2026-07-01_GenerativeAI.md]] : Generative AI
