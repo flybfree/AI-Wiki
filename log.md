@@ -788,3 +788,4 @@ tags: ['wiki']
 ## [2026-07-02 00:00] ingest | 2026-07-02_MachineLearningArchitecture_WhatItIs_Components_Ty.md
 ## [2026-07-02 00:00] ingest | 2026-07-02_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md
 ## [2026-07-02 00:00] ingest | 2026-07-02_Deeplearningarchitectures.md
+## [2026-07-02 08:00] ingest | 2026-07-02_GenerativeAIrecentnews_AIBusiness.md
