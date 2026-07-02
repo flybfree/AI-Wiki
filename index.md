@@ -1214,6 +1214,26 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[raw/papers/2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-07-01_17-51-21Z_FurnitureVLA_LearningLong_HorizonBimanualFurniture.md]] : FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model
+- [[2026-07-01_17-50-48Z_ArePerformance_OptimizationBenchmarksReliablyMeasu.md]] : Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?
+- [[2026-07-01_17-57-03Z_AutoMem_AutomatedLearningofMemoryasaCognitiveSkill.md]] : AutoMem: Automated Learning of Memory as a Cognitive Skill
+- [[2026-07-01_17-59-54Z_IsOneLayerEnough_TrainingASingleTransformerLayerCa.md]] : Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training
+- [[2026-07-01_17-46-33Z_DistilltoDetect_ExposingStealthBiasesinLLMsthrough.md]] : Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation
+- [[2026-07-01_17-56-42Z_Theoria_Rewrite_AcceptabilityVerificationoverInfor.md]] : Theoria: Rewrite-Acceptability Verification over Informal Reasoning States
+- [[2026-07-01_17-55-09Z_TheState_PredictionSeparationHypothesis.md]] : The State-Prediction Separation Hypothesis
+- [[2026-07-01_17-57-22Z_Language_CritiqueImitationLearningfromSuboptimalDe.md]] : Language-Critique Imitation Learning from Suboptimal Demonstrations
+- [[2026-07-01_17-59-56Z_MeasuringtheGapBetweenHumanandLLMResearchIdeas.md]] : Measuring the Gap Between Human and LLM Research Ideas
+- [[2026-07-01_17-45-04Z_TiRex_2_GeneralizingTiRextoMultivariateDataandStre.md]] : TiRex-2: Generalizing TiRex to Multivariate Data and Streaming
+- [[2026-07-01_15-40-12Z_Staleness_LearningRateScalingLawsforAsynchronousRL.md]] : Staleness-Learning Rate Scaling Laws for Asynchronous RLHF
+- [[2026-07-01_15-40-42Z_LongVQUBench_BenchmarkingLong_TermVideoQualityUnde.md]] : LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models
+- [[2026-07-01_15-40-25Z_CanAgentsGeneralizetotheOpenWorld_UnveilingtheFrag.md]] : Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use
+- [[2026-07-01_15-38-39Z_WhenContextCompensatesforSparseEventHistory_AlphaE.md]] : When Context Compensates for Sparse Event History: AlphaEarth for Spatio-Temporal Point-Process Forecasting
+- [[2026-07-01_15-38-00Z_BalancingExpressivityandLearnabilityinQuantumKerne.md]] : Balancing Expressivity and Learnability in Quantum Kernel Bandit Optimization
+- [[2026-07-01_15-46-16Z_Group_invariantCoresetsforData_efficientActiveLear.md]] : Group-invariant Coresets for Data-efficient Active Learning
+- [[2026-07-01_15-35-04Z_MessagePassingEnablesEfficientReasoning.md]] : Message Passing Enables Efficient Reasoning
+- [[2026-07-01_15-30-33Z_MemSyco_Bench_BenchmarkingSycophancyinAgentMemory.md]] : MemSyco-Bench: Benchmarking Sycophancy in Agent Memory
+- [[2026-07-01_15-44-15Z_CheapCode_CostlyJudgment_ACaseStudyonGovernableAge.md]] : Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering
+- [[2026-07-01_15-25-21Z_GSRQ_Gain_ShapeResidualQuantizationforSub_1_bitKVC.md]] : GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache
 - [[2026-06-30_17-54-02Z_FreeformPreferenceLearningforRoboticManipulation.md]] : Freeform Preference Learning for Robotic Manipulation
 - [[2026-06-30_17-59-32Z_IntrospectiveCoupling_Self_ExplanationTrainingTrac.md]] : Introspective Coupling: Self-Explanation Training Tracks Behavioral Change Despite Fixed Supervision
 - [[2026-06-30_17-52-28Z_FLORA_Adeeplearningapproachtopredictforestattribut.md]] : FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data
