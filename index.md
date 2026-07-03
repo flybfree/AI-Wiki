@@ -1214,6 +1214,16 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[raw/papers/2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-07-02_17-58-52Z_ReasoningLLMImprovesSpeakerRecognitioninLong_formT.md]] : Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas
+- [[2026-07-02_17-59-26Z_ReContext_RecursiveEvidenceReplayasLLMHarnessforLo.md]] : ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning
+- [[2026-07-02_17-59-43Z_OnlineSafetyMonitoringforLLMs.md]] : Online Safety Monitoring for LLMs
+- [[2026-07-02_17-59-52Z_LACUNA_ATestbedforEvaluatingLocalizationPrecisionf.md]] : LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning
+- [[2026-07-02_17-59-23Z_WhatLLMAgentsSayWhenNoOneIsWatching_SocialStructur.md]] : What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates
+- [[2026-07-02_17-59-56Z_DistributedAttacksinPersistent_StateAIControl.md]] : Distributed Attacks in Persistent-State AI Control
+- [[2026-07-02_17-55-39Z_ControllableSimAgentswithBehaviorLatents.md]] : Controllable Sim Agents with Behavior Latents
+- [[2026-07-02_17-59-50Z_Program_as_Weights_AProgrammingParadigmforFuzzyFun.md]] : Program-as-Weights: A Programming Paradigm for Fuzzy Functions
+- [[2026-07-02_17-58-29Z_DemoPSD_Disagreement_ModulatedPolicySelf_Distillat.md]] : DemoPSD: Disagreement-Modulated Policy Self-Distillation
+- [[2026-07-02_17-57-31Z_BeyondAdam_SOAPandMuonforFaster_Label_EfficientTra.md]] : Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials
 - [[2026-07-01_17-51-21Z_FurnitureVLA_LearningLong_HorizonBimanualFurniture.md]] : FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model
 - [[2026-07-01_17-50-48Z_ArePerformance_OptimizationBenchmarksReliablyMeasu.md]] : Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?
 - [[2026-07-01_17-57-03Z_AutoMem_AutomatedLearningofMemoryasaCognitiveSkill.md]] : AutoMem: Automated Learning of Memory as a Cognitive Skill
