@@ -4,9 +4,6 @@ date: 2026-06-15
 tags: ['wiki']
 ---
 
-## Summary
-
-Placeholder summary — please add a concise summary of this article.
 
 # Summary: 2026-06-15_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md
 

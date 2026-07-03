@@ -4,9 +4,6 @@ date: 2026-06-16
 tags: ['wiki']
 ---
 
-## Summary
-
-Placeholder summary — please add a concise summary of this article.
 
 # Summary: 2026-06-16_GenerativeAI.md
 

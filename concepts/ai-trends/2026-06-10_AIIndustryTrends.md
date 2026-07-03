@@ -7,17 +7,15 @@ tags: [ai-trends, industry]
 
 ## Summary
 
-Placeholder summary — please add a concise summary.
-
+This page tracks the broader AI industry trend layer: funding, regulation, adoption, and the recurring daily news feeds that keep surfacing the same market shifts in slightly different forms. Use it together with the daily rollup page when you want the stable signal rather than the one-off edition.
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-
 ## AI Industry Trends
 
-**Last Updated**: 2026-06-10
+**Last Updated**: 2026-07-03
 
-**Description**: Tracking AI industry shifts, funding, regulation, and adoption patterns.
+**Description**: Tracking AI industry shifts, funding, regulation, adoption patterns, and recurring daily source variants.
 
 ---
 
@@ -49,3 +47,4 @@ Placeholder summary — please add a concise summary.
 
 - [[2026-04-25_AIinApril2026_BiggestBreakthroughs_Models_Industry_article.md]]
 - [[2026-04-29_GenerativeAIrecentnews-AIBusiness_summary.md]]
+- [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]]

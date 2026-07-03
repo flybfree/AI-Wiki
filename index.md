@@ -87,12 +87,14 @@ tags: ['wiki']
 
 ### AI Industry Trends
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
+- [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 
 ### AI Research Papers
-|- [[concepts/ai-research/2026-06-10_AIResearchPapers.md|AI Research Papers]] — key papers, contributions, and implications
+- [[concepts/ai-research/2026-06-10_AIResearchPapers.md|AI Research Papers]] — key papers, contributions, and implications
 
 ### Alignment & Safety
-|- [[concepts/2026-06-11_llm-alignment.md|LLM Alignment]] — comprehensive overview of alignment methods (RLHF, DPO, Constitutional AI), core challenges, mechanistic interpretability, scalable oversight, and recent 2025-2026 developments
+- [[concepts/2026-06-11_llm-alignment.md|LLM Alignment]] — comprehensive overview of alignment methods (RLHF, DPO, Constitutional AI), core challenges, mechanistic interpretability, scalable oversight, and recent 2025-2026 developments
+
 ## Comparisons
 ## Queries
 -  : Diagnosing CFG Interpretation in LLMs
