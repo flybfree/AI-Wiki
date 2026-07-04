@@ -1624,3 +1624,11 @@ tags: ['wiki']
 - [[2026-07-03_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
 - [[2026-07-03_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
 - [[2026-07-03_GenerativeAI.md]] : Generative AI
+- [[2026-07-04_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[2026-07-04_Deeplearningarchitectures.md]] : Deep learning architectures
+- [[2026-07-04_GenerativeAI.md]] : Generative AI
+- [[2026-07-04_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[2026-07-04_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[2026-07-04_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[2026-07-04_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[2026-07-04_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
