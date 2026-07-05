@@ -67,6 +67,11 @@ An instruction tells the model what to do. An example shows the pattern you want
 
 That mix is important because language models are flexible. They can adapt to many tasks, but they need enough direction to know which task you actually want.
 
+**Prompt layering**: In real systems, prompts often have multiple layers:
+- **Persistent instructions**: System-level rules that apply across sessions (e.g., "always cite sources")
+- **Task-specific prompts**: Instructions for the current request (e.g., "summarize this article")
+- **Context augmentation**: Source text, examples, or constraints added to the prompt
+
 Scenario: “Write a project update” is vague. “Write a short project update for executives, mention the milestone, the risk, and the next step, and keep it under 100 words” is much more useful.
 
 Think of it like briefing a contractor. A one-line request may produce something usable but generic. A request with goals, examples, and constraints is more likely to produce something that matches the job.
@@ -164,7 +169,35 @@ That means some improvements come from rewriting the prompt, while others come f
 
 Scenario: a support reply improves when you add the actual policy excerpt, not just a more polite instruction.
 
-## 11) What to remember without the jargon
+## 11) When prompting is enough vs when you need more
+
+Not every task needs an agent or complex system. Here's how to decide:
+
+**Prompting alone works for**:
+- Simple questions with clear answers
+- Creative writing within known domains
+- Summarization of provided text
+- Classification or formatting tasks
+
+**Add retrieval (RAG) when**:
+- The model needs current information beyond its training data
+- You need to ground responses in specific documents
+- Accuracy on factual details is critical
+
+**Add tools when**:
+- The task requires interacting with external systems (search, databases, APIs)
+- You need the system to perform actions, not just generate text
+- Results depend on real-time data or state changes
+
+**Add an agent harness when**:
+- The workflow has multiple steps that depend on each other
+- You need planning, iteration, and recovery from failures
+- State must persist across interactions
+- Safety requires sandboxing, approvals, or audit trails
+
+Scenario: a simple summarization task needs only a prompt. A research assistant that gathers sources, compares them, drafts sections, and revises based on feedback needs an agent harness with tools and memory.
+
+## 12) What to remember without the jargon
 
 Prompting is simply the skill of giving the model clear, useful direction.
 

@@ -19,7 +19,6 @@ Placeholder summary — please add a concise summary.
 # Lesson 8: Recurrent Networks and LSTMs
 
 
-
 **Source**: [Original Article](https://example.com/placeholder)
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]]
@@ -54,11 +53,11 @@ By the end of this lesson, you should be able to:
 
 Not all data behaves like a table or an image. Some data is sequential. The order is part of the meaning.
 
-A sentence is a simple example. The words are the same, but the meaning can change if the order changes. “Dog bites man” is not the same as “man bites dog.” Speech, time series, and user event logs have the same property: later values only make sense in the context of earlier ones.
+A sentence is a simple example. The words are the same, but the meaning can change if the order changes. "Dog bites man" is not the same as "man bites dog." Speech, time series, and user event logs have the same property: later values only make sense in the context of earlier ones.
 
 That is why sequence models matter. They are built to read data step by step instead of all at once.
 
-Scenario: if you hear a word in a sentence, you often need the previous words to know what it means. The word “bank” could mean a financial institution or the side of a river. The sequence around it helps resolve the meaning.
+Scenario: if you hear a word in a sentence, you often need the previous words to know what it means. The word "bank" could mean a financial institution or the side of a river. The sequence around it helps resolve the meaning.
 
 ## 2) Recurrent networks carry context forward
 
@@ -78,7 +77,7 @@ In plain language, the model can start to forget important earlier context when 
 
 This matters in language because a sentence can depend on words that appeared much earlier. It also matters in time series, where long-term trends may matter more than the latest spike.
 
-Scenario: if a paragraph introduces a person at the beginning, then goes on for several more lines, a simple memory mechanism may lose track of who “he” or “she” refers to by the end.
+Scenario: if a paragraph introduces a person at the beginning, then goes on for several more lines, a simple memory mechanism may lose track of who "he" or "she" refers to by the end.
 
 ## 4) LSTMs were designed to manage memory better
 
@@ -116,7 +115,9 @@ They teach the core problem of sequence memory. Once you understand why a recurr
 
 They also remind you that not every input should be treated as a bag of independent pieces. Sometimes the path from start to finish is the whole point.
 
-Scenario: a music model, a speech model, and a time-series forecasting model all need to think about order. Learning recurrence helps you see that shared structure.
+**Sequence memory vs external memory**: RNNs and LSTMs keep context inside the sequence they are currently reading. That is useful, but it is not the same as a system that remembers a long-running task, a user preference, or a file-based project state. This distinction matters later in the course because agent systems often use external memory, checkpoints, or retrieved context to keep working across many steps. A sequence model carries state forward inside the network; an agent harness often carries state forward around the model.
+
+Scenario: a chatbot reading one long sentence may benefit from LSTM-style hidden state, while a coding assistant that returns to a project over several turns may need separate memory for task state, files, and approvals.
 
 ## 8) RNNs and LSTMs in one sentence each
 
@@ -128,21 +129,13 @@ An LSTM is a recurrent network with better memory control, so it can keep useful
 
 That is the practical distinction to hold onto before you learn the mechanics.
 
-## 9) Sequence memory is not the same as project memory
-
-RNNs and LSTMs keep context inside the sequence they are currently reading. That is useful, but it is not the same as a system that remembers a long-running task, a user preference, or a file-based project state.
-
-This distinction matters later in the course because agent systems often use external memory, checkpoints, or retrieved context to keep working across many steps. A sequence model carries state forward inside the network; an agent harness often carries state forward around the model.
-
-Scenario: a chatbot reading one long sentence may benefit from LSTM-style hidden state, while a coding assistant that returns to a project over several turns may need separate memory for task state, files, and approvals.
-
 ## Closing summary
 
 RNNs and LSTMs are the core sequence models in the pre-transformer era of deep learning. They were built for data where order matters and context must travel forward through time.
 
 RNNs introduced the idea of carrying a hidden state through a sequence. LSTMs improved on that idea by giving the model better control over memory. Together, they showed that neural networks could handle language, speech, and time-dependent data in a way earlier models could not.
 
-That makes this lesson an important bridge. It explains the memory problem that attention later solved in a different way.
+That makes this lesson an important bridge. It explains the memory problem that attention later solved in a different way, and it introduces the distinction between sequence memory (inside the model) and external memory (around the model) that matters for modern agentic systems.
 
 ## Key takeaways
 

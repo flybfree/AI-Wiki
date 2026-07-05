@@ -148,7 +148,14 @@ A deployed AI product may need sandboxing, logging, retries, approvals, and obse
 
 State also matters. Sessions, memory, checkpoints, and compaction help the system keep working across multiple steps without losing track of what happened.
 
-Scenario: a customer-support assistant needs logs and approval steps so a mistaken action can be reviewed instead of silently causing damage.
+Recent research on "scaling the harness" shows that the next bottleneck in advancing agentic AI lies not in improving foundation models alone but in scaling the structured execution layer that integrates memory, retrieval, tool use, and governance into a persistent, auditable system. This includes:
+- **Memory substrate**: Where state persists across steps
+- **Context constructor**: Assembling relevant information for each decision
+- **Skill-routing layer**: Deciding which tools or subagents to use
+- **Orchestration loop**: Managing the planning-action-observation cycle
+- **Verification-and-governance layer**: Checking outputs and enforcing policies
+
+Scenario: a customer-support assistant needs logs and approval steps so a mistaken action can be reviewed instead of silently causing damage. It also maintains session state so it can pick up where it left off after interruptions.
 
 ## 11) The real future is systems, not single models
 
@@ -170,7 +177,7 @@ Scaling makes the model workable at larger size.
 
 Monitoring and retraining keep the model useful over time.
 
-Modern AI is moving toward longer-running systems that can do multi-step work more reliably than earlier models.
+Modern AI is moving toward longer-running systems that can do multi-step work more reliably than earlier models. Long-horizon agents maintain coherence across extended interactions, often using structured execution harnesses rather than just larger models.
 
 ## Closing summary
 

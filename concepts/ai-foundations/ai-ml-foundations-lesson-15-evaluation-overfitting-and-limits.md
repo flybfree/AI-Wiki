@@ -154,9 +154,14 @@ Scenario: a recommendation engine may need periodic retraining because user tast
 
 For agentic workflows, evaluation has to measure more than accuracy. You also want task completion, tool success, recovery from errors, refusal behavior, long-horizon consistency, and whether the system stays within policy.
 
+Recent research on scaling agent systems (arXiv:2512.08296) reveals that performance scales differently for multi-agent coordination than for single models. Key findings include:
+- **Coordination matters more than agent count**: Adding more agents can degrade performance if not aligned with task properties
+- **Different scaling laws**: Agent systems have their own scaling principles based on orchestration quality, model capability, and measurable coordination overhead
+- **Long-horizon consistency**: Performance over extended interactions depends on harness design as much as model size
+
 Offline tests tell you how the system behaves in a controlled setup. Online evaluation tells you how it behaves with real users and real traffic. Both matter.
 
-Scenario: a model may answer benchmark questions well but still fail if it picks the wrong tool or loses track of a multi-step task.
+Scenario: a model may answer benchmark questions well but still fail if it picks the wrong tool or loses track of a multi-step task. A long-horizon agent might start strong but drift off-task after 45K tokens without proper context compaction and verification layers.
 
 ## 12) What to remember without the jargon
 

@@ -145,13 +145,28 @@ This is not a rigid rulebook. It is a starting map.
 
 Scenario: if a product team says they need to classify photos, summarize emails, and detect unusual transactions, you should immediately suspect that they need more than one architecture.
 
-## 10) The simplest reliable system wins
+## 10) System pattern matters too
 
-Architecture choice includes the system pattern, not just the model family. A plain model call, a retrieval-assisted workflow, and a multi-step agent are different options with different costs and risks.
+Architecture choice includes the system pattern, not just the model family. Here's a decision ladder for modern AI systems:
+
+**Plain model call**: Use when the task is simple, single-step, and doesn't require external data or actions.
+- Example: "Summarize this document" with the document provided in the prompt
+
+**Prompt + context**: Use when you need to ground responses in specific documents or provide background information.
+- Example: Answer questions about a policy manual by including relevant excerpts
+
+**Retrieval-assisted workflow (RAG)**: Use when the model needs current information beyond its training data or must cite sources.
+- Example: Customer support assistant that retrieves latest policies before answering
+
+**Agent loop with tools**: Use when the task requires multiple steps, planning, and interaction with external systems.
+- Example: Research agent that searches for sources, compares them, drafts sections, and revises based on feedback
+
+**Managed agent with permissions and isolation**: Use when safety requires sandboxing, approvals, audit trails, or human oversight.
+- Example: Coding assistant that can execute code but only in a sandboxed environment with approval steps
 
 The best choice is usually the simplest one that still meets the task, the latency budget, and the safety requirements.
 
-Scenario: a document summarizer may only need a prompt and source text, while a coding assistant may need retrieval, tool use, and approval steps.
+Scenario: a document summarizer may only need a prompt and source text, while a coding assistant may need retrieval, tool use, and approval steps. A long-horizon research agent might require full harness engineering with memory substrate, context construction, skill routing, orchestration, and verification layers.
 
 ## 11) What to remember without the jargon
 
@@ -175,6 +190,7 @@ The big lesson is that architecture should follow the job. When you understand t
 - Transformers are the modern default for many language tasks.
 - Architecture is the design; model is the trained instance.
 - The best architecture depends on the task and the system constraints.
+- System pattern matters: choose from plain call, prompt+context, RAG, agent loop, or managed agent based on complexity and safety needs.
 
 ## Quick self-check
 

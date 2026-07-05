@@ -129,7 +129,9 @@ Attention lets the model look back at the parts of the current input that matter
 
 That distinction becomes important later when you study context windows, compaction, and agent memory. Transformers can use a large context window very effectively, but they still depend on what is actually present in that window.
 
-Scenario: if a long prompt hides the important instruction inside a wall of irrelevant text, attention can help the model weigh the useful parts, but it cannot recover information that was never included.
+**Attention is not durable memory**: Attention helps the model focus on relevant parts of the current sequence, but it does not create long-term persistence by itself. The context window is bounded working memory; once information leaves that window, attention cannot recover it. This is why agent systems often need external memory, checkpoints, or retrieved context to keep working across many steps.
+
+Scenario: if a long prompt hides the important instruction inside a wall of irrelevant text, attention can help the model weigh the useful parts, but it cannot recover information that was never included. A long-horizon agent might use context compaction (summarizing earlier turns) or external memory to preserve important details across extended interactions.
 
 ## Closing summary
 

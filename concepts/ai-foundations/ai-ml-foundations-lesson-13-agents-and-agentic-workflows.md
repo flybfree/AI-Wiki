@@ -158,11 +158,36 @@ This is where permissions, sandboxing, and guardrails live. The model may propos
 
 Scenario: an agent may suggest deleting a file, but the harness can require confirmation or block the action entirely.
 
-## 12) What to remember without the jargon
+## 12) Long-horizon agents vs short-term chatbots
+
+Recent research shows that designing for long interaction spans may matter as much as model size. The Agents-A1 paper (arXiv:2606.30616) demonstrates that a 35B mixture-of-experts agentic model achieves trillion-parameter-level performance by scaling agent horizon rather than raw parameters. These agents work with trajectories of about 45K tokens on average, maintaining coherence across extended workflows.
+
+This is not just longer chat—it's structured execution over time. A long-horizon agent plans, acts, observes, and adapts across many steps while preserving context and goals. Short-term chatbots answer questions; long-horizon agents complete tasks.
+
+Scenario: a research agent doesn't just summarize one paper—it gathers sources, compares them, drafts sections, revises based on feedback, and produces a final report over hours of interaction.
+
+## 13) Harness engineering is the real product surface
+
+The harness is the wrapper around the model that manages prompts, tool calls, retries, state, logging, approvals, and failure handling. In plain language, it is the control layer or orchestrator around the model. In many agent systems, the harness is what makes the difference between a demo and a reliable product.
+
+Recent work on "scaling the harness" (From Model Scaling to System Scaling) identifies six critical layers:
+- **Memory substrate**: Where state persists across steps
+- **Context constructor**: Assembling relevant information for each decision
+- **Skill-routing layer**: Deciding which tools or subagents to use
+- **Orchestration loop**: Managing the planning-action-observation cycle
+- **Verification-and-governance layer**: Checking outputs and enforcing policies
+
+The harness handles context compaction (summarizing long histories), subagent delegation (spawning specialized workers), sandboxing (isolating risky operations), and observability (logging for debugging).
+
+Scenario: an agent may suggest deleting a file, but the harness requires confirmation or blocks the action entirely. It also maintains session state so the agent can pick up where it left off after interruptions.
+
+## 14) What to remember without the jargon
 
 An agent is a model-plus-tools system that can work toward a goal over multiple steps.
 
 Plain prompting asks for an answer. Agentic workflows ask for progress.
+
+Long-horizon agents maintain coherence across extended interactions, often using structured execution harnesses rather than just larger models.
 
 That difference is why agents are important in the current AI transition, and also why they need careful design. The more the system can do, the more important it becomes to decide what it should be allowed to do.
 
@@ -172,6 +197,8 @@ Agents push AI beyond one-shot text generation. They combine a language model wi
 
 But the same capability also increases risk. Once a system can act, mistakes can have consequences outside the chat window. Good agent design therefore depends on guardrails, limited permissions, human approval where needed, and careful workflow design.
 
+Recent research shows that long-horizon agents—those maintaining coherence across extended interactions—may matter as much as model size. The harness engineering around these systems (memory substrate, context construction, skill routing, orchestration, verification) is often the real differentiator between demos and reliable products.
+
 ## Key takeaways
 
 - An AI agent takes actions toward a goal.
@@ -180,6 +207,7 @@ But the same capability also increases risk. Once a system can act, mistakes can
 - Agents are useful for messy, open-ended tasks.
 - More autonomy means more risk, so guardrails matter.
 - Retrieval and long context often make agents more effective.
+- Long-horizon agents maintain coherence across extended interactions; harness engineering is critical.
 
 ## Quick self-check
 

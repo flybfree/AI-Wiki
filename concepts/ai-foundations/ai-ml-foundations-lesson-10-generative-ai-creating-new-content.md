@@ -151,7 +151,9 @@ In practice, generative AI is often only one step in a larger process. A system 
 
 That workflow view matters because the model is not just creating text in isolation. It is usually supporting a larger product or task. Once generation becomes part of a loop, the surrounding system design starts to matter as much as the output itself.
 
-Scenario: a support assistant drafts a reply, checks policy, then sends the draft to a human reviewer instead of sending it automatically.
+**Generative AI as part of a workflow**: Modern systems often use generative models in multi-step processes: draft → revise → check → hand off. This prepares readers for the move from generation to agentic systems where tools and iteration become essential.
+
+Scenario: a support assistant drafts a reply, checks policy, then sends the draft to a human reviewer instead of sending it automatically. A research agent might generate an outline, search for sources, write sections, revise based on feedback, and produce a final report over hours of interaction.
 
 ## Closing summary
 
