@@ -119,9 +119,90 @@ For Fable 5, create a new profile with a prompt like:
 Please make a new Hermes profile called Oracle that uses Fable 5 model from Claude. Let me know when that's set up so I can use it in Telegram.
 ```
 
+## Getting Started: Setup & Configuration
+
+### Installation
+- **Desktop app**: Download for macOS, drag to Applications folder (also available via CLI)
+- **System prerequisites**: Auto-installs required dependencies
+
+### Model Options
+
+#### Local Models (Privacy-focused)
+1. Install Ollama and pull a model (e.g., `ollama pull gemma4:latest`)
+2. Connect via Settings → Custom Endpoint → Ollama URL (`http://localhost:11434/v1`)
+3. **Important**: Hermes requires 64k context window for full tool access
+   - If your model has smaller context (e.g., 32k), create a variant with increased context:
+     ```bash
+     hermes config set model.provider.base_url http://localhost:11434/v1
+     hermes config set model.default_model gemma4-64k
+     ```
+   - Or ask Hermes to create the variant automatically
+
+#### Cloud Models (Power-focused)
+1. Add provider in Settings → Providers (OpenAI, Anthropic, etc.)
+2. Link API keys through the provided setup flow
+3. Switch between local and cloud models via profile selector
+
+### Profiles: Isolated Environments
+Each profile has completely separate configuration, skills, memory, and session history:
+- **Use case**: One profile for local/private work, another for cloud/powerful tasks
+- **Setup**: Ask Hermes to create profiles automatically, or configure manually
+- **Switching**: Click profile in bottom bar to change context instantly
+
+### Skills & Tools
+- **71 built-in skills**: Reusable workflows that ensure consistency and quality
+- **Explore**: Review existing skills (e.g., Obsidian integration) before building new ones
+- **Tool sets**: Enable/disable functions like code execution, computer control, browsing
+- **Keep memory ON**: Enables persistent learning across sessions
+
+### Memory System
+Hermes maintains two persistent files outside session context:
+- `user.md`: Your preferences and personal details
+- `memory.md`: Solutions and patterns learned over time
+
+**Example**: Telling Hermes "I'm technical and prefer straight-to-the-point explanations" automatically updates `user.md`.
+
+### Advanced Configuration
+- **Execution backend**: Run code locally, in Docker containers, via VPS, or SSH across multiple computers
+- **Sandboxing**: Use Docker to protect your system from experimental code
+- **Working directory**: Configure per-profile (e.g., separate folders for local vs cloud)
+- **Memory budget**: Control size of injected memory; outdated info is pruned automatically
+
+### Messaging Gateways
+Connect Hermes to any messaging platform:
+- **Supported**: Telegram, Discord, Slack, Google Chat, WhatsApp, Signal, email, SMS
+- **Setup**: Each gateway has dedicated documentation (e.g., create Telegram bot via BotFather)
+- **Conversations**: All messages stored locally on backend, accessible from any connected device
+
+### Remote Gateways
+Keep one backend with shared memory, access from multiple devices:
+- Run Hermes desktop on main machine as backend
+- Connect laptop/phone as remote gateway
+- Single "brain" that matures across all your devices
+
+## Practical Example: Daily AI Briefing Bot
+
+This workflow demonstrates the self-improving automation loop:
+
+1. **Define goal** in chat: "Create a daily AI briefing delivered to Telegram"
+2. **Agent creates skill** (`AI Daily Intel`) and implementation plan
+3. **Dry run** in chat to test output before scheduling
+4. **Schedule cron job** to run daily at specified time
+5. **Give feedback** on received reports → agent updates memory/skill
+6. **Next report improves** based on your preferences
+
+**Key insight**: The automation becomes more personalized over time through continuous feedback, without manual reconfiguration.
+
+## Important Notes
+
+- **Before automating**: Always test workflows in chat first to verify output quality
+- **Docs integration**: Agent can read Hermes documentation to understand its own capabilities and limitations
+- **Self-evolution**: Every interaction teaches the agent; skills and memories compound over time
+- **Not static**: Unlike tools that remain at day-one capability, Hermes gets smarter with use
+
 ## Conclusion
 
-The July 2026 update transforms Hermes Agent into a more powerful, cost-efficient, and versatile tool. The combination of Mixture of Agents for complex reasoning, `/arn` for automatic skill creation, `/journey` for visibility into learning, cheaper self-improvement, enhanced vibe coding with Git integration, and Fable 5 for precise implementation makes it a comprehensive AI assistant platform.
+The July 2026 update transforms Hermes Agent into a more powerful, cost-efficient, and versatile tool. The combination of Mixture of Agents for complex reasoning, `/learn` for automatic skill creation, `/journey` for visibility into learning, cheaper self-improvement, enhanced vibe coding with Git integration, and Fable 5 for precise implementation makes it a comprehensive AI assistant platform.
 
 ---
 
