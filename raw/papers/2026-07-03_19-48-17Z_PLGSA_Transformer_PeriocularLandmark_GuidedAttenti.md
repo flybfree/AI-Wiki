@@ -1,18 +1,8 @@
 ---
-title: PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition
-published: 2026-07-03T19:48:17Z
+title:"PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition"
+published:"2026-07-03T19:48:17Z"
 authors: Dana A Abdullah
 url: http://arxiv.org/abs/2607.03581v1
 type: paper-summary
 tags: [paper-summary, arxiv]
 ---
-
-# PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition
-
-## Abstract
-The widespread adoption of facial masks, accelerated by COVID-19 and mandated in security-sensitive settings, has exposed limitations of conventional face recognition systems. Existing approaches relying on fixed cosine thresholds, non-adaptive CNNs, and purely data-driven features fail to generalize when facial regions are occluded, creating a gap between lab performance and real-world deployability. This paper proposes PLGSA-Transformer, a cross-modal face matching framework with three contributions. First, Periocular Landmark-Guided Spatial Attention (PLGSA) uses MediaPipe landmarks to compute Gaussian heatmaps over the eye, brow, and forehead regions, fusing them with EfficientNetB3 features via a learnable residual gate to direct attention toward discriminative visible regions. Second, a Hybrid CNN-Transformer Branch reshapes feature maps into tokens processed by a two-layer Multi-Head Self-Attention encoder, enabling cross-regional dependency modelling. Third, the Occlusion-Adaptive Cosine Threshold (OACT) is a jointly trained head that raises the matching threshold in proportion to predicted occlusion severity. The model is evaluated on 858 images from Zenodo MDMFR (60%), Kaggle CelebA-HQ masked collection (25%), and author-collected images (15%), spanning both genders, ages 21-75, with varied mask types, trained via a unified loss combining contrastive verification, identity classification, and occlusion cross-entropy. PLGSA-Transformer achieves 97.22% pair verification accuracy with ROC AUC 1.0000, surpassing VGG-16-based MUFM (Abdullah et al., 2025; 95.0%), HOG classifiers (Adnan et al., 2020; 85.0%), and Feature-based Structural Measure (Shnain et al., 2017; 86.61%). These results confirm that encoding periocular geometry into attention, with Transformer modelling and occlusion-adaptive thresholds, yields a robust, scalable solution for cross-modal masked face recognition.
-
-## Metadata
-- **Published**: 2026-07-03T19:48:17Z
-- **Authors**: Dana A Abdullah
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.03581v1)

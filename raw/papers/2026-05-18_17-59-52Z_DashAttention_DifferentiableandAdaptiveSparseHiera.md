@@ -1,6 +1,6 @@
 ---
 
-title: 'DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention'
+title:"'DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention'"
 published: "2026-05-18T17:59:52Z"
 authors: Yuxiang Huang, Nuno M. T. Gonçalves, Federico Alvetreti, Lei Li, Xu Han, Edoardo M. Ponti, André F. T. Martins, Marcos V. Treviso
 url: http://arxiv.org/abs/2605.18753v1
@@ -8,22 +8,3 @@ type: paper-summary
 tags: [paper-summary, arxiv]
 
 ---
-
-## Summary
-
-Placeholder summary — please add a concise summary of this paper's key findings and contributions.
-
-
-
-# DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention
-
-
-
-**Source**: [Original Paper](http://arxiv.org/abs/2605.18753v1)
-## Abstract
-Current hierarchical attention methods, such as NSA and InfLLMv2, select the top-k relevant key-value (KV) blocks based on coarse attention scores and subsequently apply fine-grained softmax attention on the selected tokens. However, the top-k operation assumes the number of relevant tokens for any query is fixed and it precludes the gradient flow between the sparse and dense stages. In this work, we propose DashAttention (Differentiable and Adaptive Sparse Hierarchical Attention), which leverages the adaptively sparse $α$-entmax transformation to select a variable number of blocks according to the current query in the first stage. This in turn provides a prior for the second-stage softmax attention, keeping the entire hierarchy fully differentiable. Contrary to other hierarchical attention methods, we show that DashAttention is non-dispersive, translating to better long-context modeling ability. Experiments with large language models (LLMs) show that DashAttention achieves comparable accuracy as full attention with 75% sparsity and a better Pareto frontier than NSA and InfLLMv2, especially in high-sparsity regimes. We also provide an efficient, GPU-aware implementation of DashAttention in Triton, which achieves a speedup of up to over FlashAttention-3 at inference time. Overall, DashAttention offers a cost-effective strategy to model long contexts.
-
-## Metadata
-- **Published**: 2026-05-18T17:59:52Z
-- **Authors**: Yuxiang Huang, Nuno M. T. Gonçalves, Federico Alvetreti, Lei Li, Xu Han, Edoardo M. Ponti, André F. T. Martins, Marcos V. Treviso
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2605.18753v1)

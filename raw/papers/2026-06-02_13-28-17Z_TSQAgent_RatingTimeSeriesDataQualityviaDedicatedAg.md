@@ -1,6 +1,6 @@
 ---
 
-title: 'TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning'
+title:"'TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning'"
 published: "2026-06-02T13:28:17Z"
 authors: Shunyu Wu, Dan Li, Haozheng Ye, Weibin Feng, Jian Lou, Bo Zhang, Wenjie Feng, Chenjuan Guo, See-Kiong Ng
 url: http://arxiv.org/abs/2606.03629v1
@@ -8,22 +8,3 @@ type: paper-summary
 tags: [paper-summary, arxiv]
 
 ---
-
-## Summary
-
-Placeholder summary — please add a concise summary of this paper's key findings and contributions.
-
-
-
-# TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning
-
-
-
-**Source**: [Original Paper](http://arxiv.org/abs/2606.03629v1)
-## Abstract
-Assessing the quality of time series (TS) data is fundamental yet inherently challenging due to the multifaceted nature of quality dimensions. Recently, large language models (LLMs) have emerged as a promising paradigm for TS quality assessment via pairwise comparison and per-dimension evaluation. However, existing approaches rely on manually predefined quality dimensions and purely text-based reasoning, leaving it unknown whether LLMs can identify truly relevant quality dimensions or perform grounded and quantitative quality comparisons. To investigate this, we construct TSQBench, a dedicated benchmark for evaluating LLMs on two progressive capabilities: (i) understanding and identifying relevant quality dimensions, and (ii) performing quality comparison under specific dimensions. Our analysis reveals that current LLMs consistently struggle with both dimension identification and evidence-grounded quality comparison. To address these limitations, we propose TSQAgent, a novel agentic reasoning framework for TS quality rating consisting of three collaborative roles: Perceiver for focused dimension selection, Inspector for dimension-wise quantitative analysis, and Adjudicator that aggregates and refines the final judgment. In particular, we introduce an agentic reasoning strategy that instills the ability to identify and prioritize the most relevant quality dimensions, and further propose an agent workflow equipped with external analytical tools to enable precise quantitative comparisons over selected dimensions. Experiments on both the proposed benchmark and eleven real-world datasets demonstrate that our framework not only substantially improves LLMs' capabilities in quality understanding and quantitative comparison but also effectively translates these improvements into better quality-aware data selection, leading to enhanced downstream performance and data efficiency.
-
-## Metadata
-- **Published**: 2026-06-02T13:28:17Z
-- **Authors**: Shunyu Wu, Dan Li, Haozheng Ye, Weibin Feng, Jian Lou, Bo Zhang, Wenjie Feng, Chenjuan Guo, See-Kiong Ng
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2606.03629v1)

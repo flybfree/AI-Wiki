@@ -1,6 +1,6 @@
 ---
 
-title: 'Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs'
+title:"'Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs'"
 published: "2026-06-07T12:33:43Z"
 authors: Pratuat Amatya, Vinay Setty
 url: http://arxiv.org/abs/2606.08605v1
@@ -8,22 +8,3 @@ type: paper-summary
 tags: [paper-summary, arxiv]
 
 ---
-
-## Summary
-
-Placeholder summary — please add a concise summary of this paper's key findings and contributions.
-
-
-
-# Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs
-
-
-
-**Source**: [Original Paper](http://arxiv.org/abs/2606.08605v1)
-## Abstract
-We present a multilingual fact-checking system deployed at Factiverse, designed for high-throughput and low-latency operation across diverse languages. The system follows a modular pipeline with three stages: claim detection, evidence retrieval and re-ranking, and veracity prediction. We fine-tune XLM-RoBERTa-Large for claim detection, mmBERT-base for three-label stance classification (Supports/Refutes/Mixed), and a SetFit-based multilingual re-ranker for claim--evidence matching. We compare these components against strong LLM baselines, including GPT-5.2, Claude Opus~4.6, and Qwen3-8b. Experiments on production data spanning 114 languages for claim detection and 28 languages for veracity prediction show that task-specific fine-tuning provides strong and stable multilingual performance, while the fine-tuned retrieval model remains competitive with modern proprietary embeddings. Same-hardware latency measurements further show large efficiency gains for encoder-based components, supporting their use in production deployments with tight cost and privacy constraints. Overall, compact fine-tuned, self-hosted models remain a practical and effective foundation for multilingual fact-checking at scale. Code and data used for this study are available at https://github.com/factiverse/factcheck-editor.
-
-## Metadata
-- **Published**: 2026-06-07T12:33:43Z
-- **Authors**: Pratuat Amatya, Vinay Setty
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2606.08605v1)

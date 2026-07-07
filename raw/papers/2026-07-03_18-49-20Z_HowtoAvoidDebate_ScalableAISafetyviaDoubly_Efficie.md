@@ -1,18 +1,8 @@
 ---
-title: How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs
-published: 2026-07-03T18:49:20Z
+title:"How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs"
+published:"2026-07-03T18:49:20Z"
 authors: Liyan Chen, Yael Tauman Kalai, Zoe Xi
 url: http://arxiv.org/abs/2607.03561v1
 type: paper-summary
 tags: [paper-summary, arxiv]
 ---
-
-# How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs
-
-## Abstract
-As AI models continue to develop powerful capabilities, it becomes critical that we are able to verify that their output is aligned with our intentions. A recent line of work focuses on verification via debate, a model of interactive proofs where two competing powerful provers, or AI models, debate each other to convince a weak verifier, or a human, of the correctness of their claim. However, debate assumes that the two AI models possess equal abilities and that one of them is truthful, which may not be realistic.   In this work, we show \emph{how to avoid debate}: we initiate the study of \emph{single-prover} interactive proofs for AI safety. Prior results in single-prover interactive proofs do not immediately carry over to the AI safety setting: for example, they do not work when the computation has access to an oracle, such as to human judgment or an external database such as the web. We present doubly-efficient single-prover interactive proofs and arguments for oracle-aided computations (also known as relativizing proofs), in the settings where (1) the computation is robust, in the sense that the output does not change if at most a small fraction of the answers to oracle queries are incorrect, or (2) the oracle is a low-degree polynomial. These results suggest that interactive verification is possible even without debate, under structured or noise-tolerant oracle access.
-
-## Metadata
-- **Published**: 2026-07-03T18:49:20Z
-- **Authors**: Liyan Chen, Yael Tauman Kalai, Zoe Xi
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.03561v1)

@@ -1,6 +1,6 @@
 ---
 
-title: 'OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration'
+title:"'OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration'"
 published: "2026-05-27T17:56:04Z"
 authors: Xinchen Zhang, Bowei Liu, Jiale Liu, Chufan Shi, Yizhen Zhang, Junhong Liu, Youliang Zhang, Zhiheng Li, Yujiu Yang, Ling Yang
 url: http://arxiv.org/abs/2605.28805v1
@@ -8,22 +8,3 @@ type: paper-summary
 tags: [paper-summary, arxiv]
 
 ---
-
-## Summary
-
-Placeholder summary — please add a concise summary of this paper's key findings and contributions.
-
-
-
-# OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration
-
-
-
-**Source**: [Original Paper](http://arxiv.org/abs/2605.28805v1)
-## Abstract
-Visual outcomes are increasingly central to multimodal large language models, making reliable and fine-grained verification essential for scaling generalist foundation models. In this work, we investigate multimodal meta-verification, which leverages verifier-generated rationales rather than decision-only signals, and explore how to effectively incorporate meta-verification feedback into multimodal verifier training. We identify two key findings. First, symbolic verifier outputs (e.g., bounding boxes) outperform textual explanations as meta-verification rationales, enabling efficient rule-based reinforcement learning rewards while avoiding reliance on model-based rewards from auxiliary judge models. Second, decoupling reinforcement learning objectives for binary judgment and meta-verification substantially outperforms joint reward optimization, due to intrinsic differences in output structure and learning dynamics. Based on these insights, we train OmniVerifier-M1, a generalist visual verifier leveraging symbolic meta-verification and decoupled reinforcement learning. OmniVerifier-M1 provides robust verification and fine-grained error localization, and further enables M1-TTS, a verifier-driven agentic generation system achieving dynamic region-level self-correction. This approach paves the way for more reliable, interpretable, and fine-grained multimodal verification, supporting safer and more controllable foundation model deployment.
-
-## Metadata
-- **Published**: 2026-05-27T17:56:04Z
-- **Authors**: Xinchen Zhang, Bowei Liu, Jiale Liu, Chufan Shi, Yizhen Zhang, Junhong Liu, Youliang Zhang, Zhiheng Li, Yujiu Yang, Ling Yang
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2605.28805v1)

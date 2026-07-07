@@ -1,18 +1,8 @@
 ---
-title: Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation
-published: 2026-07-01T17:46:33Z
+title:"Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation"
+published:"2026-07-01T17:46:33Z"
 authors: Shayan Talaei, Abhinav Chinta, Devvrit Khatri, Amin Karbasi, Azalia Mirhoseini, Amin Saberi
 url: http://arxiv.org/abs/2607.01208v1
 type: paper-summary
 tags: [paper-summary, arxiv]
 ---
-
-# Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation
-
-## Abstract
-Language models deployed in high-stakes roles can potentially favor certain entities, brands, or viewpoints, steering user decisions at scale. Such preferential biases can be introduced by any actor in the model's supply chain and are most dangerous when the model reveals its preference only on the relevant topic while behaving identically to its unmodified base on all other inputs. Recent work has shown that these biases can transfer through context distillation on semantically unrelated data, with the signal residing entirely in the soft logit distribution and remaining invisible to text-based inspection. However, the defender faces a fundamental asymmetry: without knowing the bias topic, no detection method can reliably surface a stealth preferential bias, regardless of whether it examines generated text, internal representations, or model weights. Here we introduce Distill to Detect (D2D), a method that surfaces hidden biases by distilling the distributional shift between a suspected model and its base into a cartridge (a KV-cache prefix adapter), concentrating the dominant divergence and amplifying the bias signal into generated text. We show that D2D successfully amplifies the hidden biases of stealth models to the extent that they can be reliably detected across multiple bias types. We also propose a theoretical framework that explains the efficacy of D2D through the lens of Fisher-weighted projection of the logit distribution shift, supported by empirical observations. By turning the capacity bottleneck of prefix-tuning adapters into a detection tool, D2D provides a practical building block for auditing hidden behaviors in deployed language models.
-
-## Metadata
-- **Published**: 2026-07-01T17:46:33Z
-- **Authors**: Shayan Talaei, Abhinav Chinta, Devvrit Khatri, Amin Karbasi, Azalia Mirhoseini, Amin Saberi
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.01208v1)

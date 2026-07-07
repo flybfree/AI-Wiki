@@ -1,6 +1,6 @@
 ---
 
-title: 'Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection'
+title:"'Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection'"
 published: "2026-05-28T17:59:50Z"
 authors: Xiaona Zhou, Muntasir Wahed, Tianjiao Yu, Constantin Brif, Ismini Lourentzou
 url: http://arxiv.org/abs/2605.30344v1
@@ -8,22 +8,3 @@ type: paper-summary
 tags: [paper-summary, arxiv]
 
 ---
-
-## Summary
-
-Placeholder summary — please add a concise summary of this paper's key findings and contributions.
-
-
-
-# Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection
-
-
-
-**Source**: [Original Paper](http://arxiv.org/abs/2605.30344v1)
-## Abstract
-Recent advances in Vision-Language Models (VLMs) have achieved impressive performance across many tasks, yet prior studies report unsatisfactory performance when applying large language or multimodal models to finding abnormal patterns in sequential data. Public anomaly detection benchmarks typically provide interval annotations but not natural-language rationales, making it difficult to fine-tune VLMs to produce grounded, interpretable decisions. To address this gap, we construct VisAnomBench, a curated benchmark built from public time-series datasets and augmented with high-quality anomaly explanations selected from multiple large VLMs using fine-grained, task-specific rewards. Through fine-tuning on this benchmark, we develop VisAnomReasoner, a parameter-efficient VLM for time-series anomaly detection. Experimental results on VisAnomBench show that VisAnomReasoner achieves more accurate anomaly localization and consistently outperforms all baselines, with improvements of at least 21.23 and 23.87 percentage points in precision and F1, respectively. Additional experiments on the TSB-AD-U benchmark demonstrate strong cross-benchmark generalization, with VisAnomReasoner improving precision and F1 by 9.57 and 13.39 percentage points, respectively.
-
-## Metadata
-- **Published**: 2026-05-28T17:59:50Z
-- **Authors**: Xiaona Zhou, Muntasir Wahed, Tianjiao Yu, Constantin Brif, Ismini Lourentzou
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2605.30344v1)

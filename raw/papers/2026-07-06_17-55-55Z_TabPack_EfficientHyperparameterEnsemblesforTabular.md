@@ -1,6 +1,6 @@
 ---
-title: TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning
-published: 2026-07-06T17:55:55Z
+title: "TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning"
+published: "2026-07-06T17:55:55Z"
 authors: Yury Gorishniy, Akim Kotelnikov, Ivan Rubachev, Artem Babenko
 url: http://arxiv.org/abs/2607.05380v1
 type: paper-summary

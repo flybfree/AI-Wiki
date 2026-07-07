@@ -1,6 +1,6 @@
 ---
 
-title: 'SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation'
+title:"'SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation'"
 published: "2026-04-22T17:59:58Z"
 authors: Ruohan Liu, Shukang Yin, Tao Wang, Dong Zhang, Weiji Zhuang, Shuhuai Ren, Ran He, Caifeng Shan, Chaoyou Fu
 url: http://arxiv.org/abs/2604.20842v1
@@ -8,22 +8,3 @@ type: paper-summary
 tags: [paper-summary, arxiv]
 
 ---
-
-## Summary
-
-Placeholder summary — please add a concise summary of this paper's key findings and contributions.
-
-
-
-# SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation
-
-
-
-**Source**: [Original Paper](http://arxiv.org/abs/2604.20842v1)
-## Abstract
-Paralinguistic cues are essential for natural human-computer interaction, yet their evaluation in Large Audio-Language Models (LALMs) remains limited by coarse feature coverage and the inherent subjectivity of assessment. To address these challenges, we introduce SpeechParaling-Bench, a comprehensive benchmark for paralinguistic-aware speech generation. It expands existing coverage from fewer than 50 to over 100 fine-grained features, supported by more than 1,000 English-Chinese parallel speech queries, and is organized into three progressively challenging tasks: fine-grained control, intra-utterance variation, and context-aware adaptation. To enable reliable evaluation, we further develop a pairwise comparison pipeline, in which candidate responses are evaluated against a fixed baseline by an LALM-based judge. By framing evaluation as relative preference rather than absolute scoring, this approach mitigates subjectivity and yields more stable and scalable assessments without costly human annotation. Extensive experiments reveal substantial limitations in current LALMs. Even leading proprietary models struggle with comprehensive static control and dynamic modulation of paralinguistic features, while failure to correctly interpret paralinguistic cues accounts for 43.3% of errors in situational dialogue. These findings underscore the need for more robust paralinguistic modeling toward human-aligned voice assistants.
-
-## Metadata
-- **Published**: 2026-04-22T17:59:58Z
-- **Authors**: Ruohan Liu, Shukang Yin, Tao Wang, Dong Zhang, Weiji Zhuang, Shuhuai Ren, Ran He, Caifeng Shan, Chaoyou Fu
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2604.20842v1)

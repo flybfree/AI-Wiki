@@ -1,18 +1,8 @@
 ---
 title: On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity
-published: 2026-06-24T17:59:02Z
+published:"2026-06-24T17:59:02Z"
 authors: Andrei Liviu Nicolicioiu, Mohammad Pezeshki, Aaron Courville
 url: http://arxiv.org/abs/2606.26091v1
 type: paper-summary
 tags: [paper-summary, arxiv]
 ---
-
-# On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity
-
-## Abstract
-On-policy self-distillation achieves strong pass@1 accuracy by using a single model as both teacher and student, with the teacher conditioned on a correct demonstration to provide dense token-level feedback. We show that this could come at a hidden cost: rollout diversity decreases and pass@k curves flatten (i.e., generating more rollouts fails to improve accuracy). We trace this to compounding biases in the design of self-distillation with sampled demonstrations. The teacher scores each student rollout while conditioned on a sampled correct rollout, channeling its feedback through the model's own biases. We theoretically analyze the optimal self-distillation policy and show that it tilts the base distribution by a pointwise conditional mutual information score between the student's rollout and the correct rollout used as context. Unlike the ideal optimal on-policy reinforcement learning (RL), which preserves probability ratios among equally correct rollouts, self-distillation can amplify existing probability gaps, concentrating mass on already-dominant modes. On a controlled graph path-finding task and science question-answering benchmarks, self-distilled models match or exceed RL on average performance but exhibit substantially lower functional and semantic diversity, failing on out-of-distribution settings that require diverse strategies.
-
-## Metadata
-- **Published**: 2026-06-24T17:59:02Z
-- **Authors**: Andrei Liviu Nicolicioiu, Mohammad Pezeshki, Aaron Courville
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2606.26091v1)

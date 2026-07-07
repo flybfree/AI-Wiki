@@ -1,6 +1,6 @@
 ---
 
-title: 'Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout'
+title:"'Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout'"
 published: "2026-05-06T16:30:48Z"
 authors: Haozhuang Chi, Daosheng Qiu, Hao Su, Haochen Liu, Zirui Li, Haoruo Zhang, Chen Lv
 url: http://arxiv.org/abs/2605.05092v1
@@ -8,22 +8,3 @@ type: paper-summary
 tags: [paper-summary, arxiv]
 
 ---
-
-## Summary
-
-Placeholder summary — please add a concise summary of this paper's key findings and contributions.
-
-
-
-# Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout
-
-
-
-**Source**: [Original Paper](http://arxiv.org/abs/2605.05092v1)
-## Abstract
-Safe L2/L3 driving automation requires anticipating human-in-the-loop reactions during shared-control transitions. While most driving world models forecast the external environment, in-cabin intelligence remains strictly recognition-oriented and lacks multi-step rollout capabilities for driver dynamics. We introduce Driver-WM, a driver-centric latent world model that rolls out in-cabin dynamics causally conditioned on out-cabin traffic context. This formulation unifies physical kinematics forecasting with auxiliary behavioral and emotional semantic recognition. Operating in a compact latent space constructed from frozen vision-language features, Driver-WM adopts a dual-stream architecture to separately encode external traffic and internal driver states. These streams are directionally coupled via a gated causal injection mechanism, which uses a learned vector gate to modulate external contextual perturbations while strictly enforcing temporal causality. Evaluations on a multi-task assistive driving benchmark demonstrate that Driver-WM yields robust long-horizon geometric forecasting for reactive high-motion maneuvers and improves semantic alignment for both driver and traffic states. Finally, the explicit external-to-internal conditioning allows for controlled test-time interventions to systematically analyze mechanism responses.
-
-## Metadata
-- **Published**: 2026-05-06T16:30:48Z
-- **Authors**: Haozhuang Chi, Daosheng Qiu, Hao Su, Haochen Liu, Zirui Li, Haoruo Zhang, Chen Lv
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2605.05092v1)
