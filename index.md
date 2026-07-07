@@ -1740,3 +1740,4 @@ tags: ['wiki']
 - [[entities/article/2026-07-07_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : 
 - [[entities/article/2026-07-07_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Components Ty
 - [[entities/article/2026-07-07_Top7opensourceLLMsfor2026_summary.md]] : 2026 07 07_Top7Opensourcellmsfor2026_Summary
+- [[2026-07-07_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business

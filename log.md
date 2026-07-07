@@ -860,3 +860,4 @@ tags: ['wiki']
 ## [2026-07-07 00:00] ingest | 2026-07-07_GenerativeAInewsandanalysis_TechCrunch.md
 ## [2026-07-07 00:00] ingest | 2026-07-07_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md
 ## [2026-07-07 00:00] ingest | 2026-07-07_Deeplearningarchitectures.md
+## [2026-07-07 13:00] ingest | 2026-07-07_GenerativeAIrecentnews_AIBusiness.md
