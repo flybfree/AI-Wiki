@@ -135,7 +135,19 @@ GitHub-friendly copy: use this version in the repository/browser.
 ## Interesting GitHub AI Repos
 
 ### 2026-07-07
-- [google-research/timesfm](https://github.com/google-research/timesfm) — TimesFM (Time Series Foundation Model), a pretrained time-series foundation model for forecasting
+- [google-research/timesfm](https://github.com/google-research/timesfm) — pretrained time-series foundation model for forecasting
+- [calesthio/OpenMontage](https://github.com/calesthio/OpenMontage) — agentic video production system that turns a prompt into researched, scripted, edited, rendered video
+- [DeusData/codebase-memory-mcp](https://github.com/DeusData/codebase-memory-mcp) — code intelligence MCP server that indexes repos into a persistent knowledge graph for low-token repo Q&A
+- [zapier/zapier-mcp](https://github.com/zapier/zapier-mcp) — official Zapier MCP server/plugin for connecting AI tools to thousands of apps
+- [koala73/worldmonitor](https://github.com/koala73/worldmonitor) — real-time global intelligence dashboard for news, geopolitical monitoring, and infrastructure tracking
+- [penpot/penpot](https://github.com/penpot/penpot) — open-source design platform and self-hosted Figma alternative
+- [NotASithLord/peerd](https://github.com/NotASithLord/peerd) — browser-native AI agent harness that runs inside your browser with no backend or telemetry
+- [altic-dev/FluidVoice](https://github.com/altic-dev/FluidVoice) — local macOS dictation app and WhisperFlow alternative
+- [steipete/birdclaw](https://github.com/steipete/birdclaw) — local storage for tweets and DMs so agents can work with X data
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) — broader personal AI assistant platform behind the Birdclaw/OpenClaw ecosystem
+- [Panniantong/Agent-Reach](https://github.com/Panniantong/Agent-Reach) — one-line agent internet access for Twitter, Reddit, YouTube, GitHub, and more
+- [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) — LLM-powered stock analysis system with dashboards, news, and scheduled reports
+- [OpenCut-app/OpenCut](https://github.com/OpenCut-app/OpenCut) — open-source CapCut alternative for local, controlled video editing
 
 ---
 
