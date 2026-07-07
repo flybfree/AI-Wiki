@@ -10,7 +10,7 @@ tags: ['wiki']
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
 > Last updated: 2026-06-10
-## Self Improving AI Loops
+## ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md|Lesson 2: Inference Layer — Self-Hosted LLMs]] — LM Studio, vLLM, Ollama, TGI, model picks for agentic work
@@ -22,12 +22,12 @@ tags: ['wiki']
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson8_DIYArchitecture.md|Lesson 8: Putting It All Together — DIY Architecture]] — complete stack, working Ralph loop script, production checklist
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9: SmolAgents Deep Dive — Code-First Agents from Hugging Face]] — CodeAgent vs ToolCallingAgent, model backends, tools system, memory management, security, best practices
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson10_DiffusionGemma.md|Lesson 10: DiffusionGemma — Block-Autoregressive Text Generation]] — Google DeepMind's 26B MoE model, discrete diffusion for text, up to 4x faster local inference, multimodal capabilities, benchmark comparison
-## Search Agents
+## ## Search Agents
 - [[concepts/llm-models/2026-06-10_Harness1.md|Harness-1]] — 20B search agent trained with RL inside a stateful retrieval harness (arXiv:2606.02373)
-## AI/ML Foundations
+## ## AI/ML Foundations
 - [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — main entry point and lesson navigator
 - [[concepts/ai-foundations/ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]] — concrete lesson-by-lesson revision checklist for the 16-lesson course
-## Start Here
+## ## Start Here
 
 - [[concepts/ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
@@ -38,11 +38,11 @@ tags: ['wiki']
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Lesson 16: Deployment, Scaling, and What Comes Next]]
-## Beginner / Fast / Deep Dive
+## ## Beginner / Fast / Deep Dive
 - Beginner:  →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]] →  →
 - Fast:  →  →  →  →  →
 - Deep Dive:  →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]] →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]] →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]] → [[concepts/ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]] →  → [[articles/2026-04-28_WhatIsGenerativeAI_HowItWorks_Examples_Benefits_an_article.md|Lesson 10: Generative AI: Creating New Content]] →  →  →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]] → [[concepts/ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]] →
-## Full Sequence
+## ## Full Sequence
 
 
 
@@ -56,12 +56,12 @@ tags: ['wiki']
 
 
 
-## Reading Lists
+## ## Reading Lists
 - Ilya Sutskever Recommended Reading List
 - Ilya Sutskever Reading List Study Order
-## Course Maps
+## ## Course Maps
 - [[concepts/ai-foundations/ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]]
-## Lesson Files
+## ## Lesson Files
 
 
 
@@ -75,8 +75,9 @@ tags: ['wiki']
 
 
 
-## Entities
-## Concepts
+## ## Entities
+
+## ## Concepts
 ### LLM Model Evolution
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — tracking model releases, benchmarks, and capabilities
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — dated frontier snapshot across proprietary and open-weight models
@@ -95,8 +96,9 @@ tags: ['wiki']
 ### Alignment & Safety
 - [[concepts/2026-06-11_llm-alignment.md|LLM Alignment]] — comprehensive overview of alignment methods (RLHF, DPO, Constitutional AI), core challenges, mechanistic interpretability, scalable oversight, and recent 2025-2026 developments
 
-## Comparisons
-## Queries
+## ## Comparisons
+
+## ## Queries
 -  : Diagnosing CFG Interpretation in LLMs
 -  : SpeechParaling-Bench: A Comprehensive Benchmark for Paralinguistic-Aware Speech Generation
 -  : ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control
@@ -107,17 +109,17 @@ tags: ['wiki']
 -  : Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series
 -  : Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL
 -  : Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling
-- [[raw/summaries/SUMMARY_2026-04-29_LLMs___10_Things_That_Matter_in_AI_Right_Now___MIT.md]] : LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Revi…
+-  : LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Revi…
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : Machine learning operations - Azure Architecture Center
-- [[articles/2026-04-28_MachineLearning_AWSArchitectureCenter_article.md]] : Machine Learning | AWS Architecture Center
-- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen …
+-  : Machine Learning | AWS Architecture Center
+-  : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen …
 -  : Generative AI recent news - AI Business
 -  : Generative AI news and analysis | TechCrunch
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Con…
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
+-  : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
 -  : 2026 is Breakthrough Year for Reliable AI World Models and …
 -  : Sai Prashanth Pathi- AI For Credit Risk: Architecting Explainable ...
 -  : Claude Opus 4.7: Anthropic's New Best (Available) Model
@@ -134,11 +136,11 @@ tags: ['wiki']
 -  : Generative AI news and analysis | TechCrunch
 -  : Machine learning operations - Azure Architecture Center
 -  : Generative AI recent news - AI Business
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
-- [[articles/2026-04-28_LatestAINews_Developments_andBreakthroughs_2026_Ne_article.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : Latest AI News, Developments, and Breakthroughs | 2026 | News
 -  : LLM Leaderboard - Comparison of over 100 AI models from OpenAI, …
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
+-  : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
 -  : AI Leaderboard 2026 - Compare Top AI Models & Rankings
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
 -  : Seeing Fast and Slow: Learning the Flow of Time in Videos
@@ -151,51 +153,51 @@ tags: ['wiki']
 -  : A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models
 -  : Low-Rank Adaptation Redux for Large Models
 -  : Evaluation of Automatic Speech Recognition Using Generative Large Language Models
-- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
+-  : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
 -  : LLM Leaderboard 2026 — Compare 202 AI Models Across 1…
-- [[raw/summaries/SUMMARY_2026-04-29_Coming_soon__10_Things_That_Matter_in_AI_Right_Now.md]] : Coming soon: 10 Things That Matter in AI Right Now
-- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Prici…
-- [[articles/2026-04-25_AIinApril2026_BiggestBreakthroughs_Models_Industry_article.md]] : AI in April 2026: Biggest Breakthroughs, Models & Industry S…
-- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[articles/2026-04-28_AINews_LatestHeadlinesandDevelopments_Reuters_article.md]] : AI News | Latest Headlines and Developments | Reuters
-- [[articles/2026-04-28_LatestAINews_Developments_andBreakthroughs_2026_Ne_article.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
 -  : Coming soon: 10 Things That Matter in AI Right Now
-- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
-- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
+-  : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Prici…
+-  : AI in April 2026: Biggest Breakthroughs, Models & Industry S…
+-  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+-  : AI News | Latest Headlines and Developments | Reuters
+-  : Latest AI News, Developments, and Breakthroughs | 2026 | News
+-  : Coming soon: 10 Things That Matter in AI Right Now
+-  : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
+-  : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
 -  : Generative AI recent news | AI Business
-- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
+-  : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
 -  : Generative AI news and analysis | TechCrunch
-- [[articles/2026-04-28_AINews_LatestHeadlinesandDevelopments_Reuters_article.md]] : AI News | Latest Headlines and Developments | Reuters
-- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+-  : AI News | Latest Headlines and Developments | Reuters
+-  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts
-- [[articles/2026-04-29_LLMModelEvolution2024_2026_CompleteReference_244Mo_article.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
+-  : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
 -  : Here's who is spending money on AI subscriptions, and how ... - CBS News
 -  : List of large language models - Wikipedia
 -  : The Architecture of Machine Learning Systems: A Comprehensive …
 -  : Architectures for Machine Learning | Springer Nature Link
-- [[articles/2026-04-27_China_sDeepSeekreleasespreviewoflong_awaitedV4mode_article.md]] : China's DeepSeek releases preview of long-awaited V4 model as AI
+-  : China's DeepSeek releases preview of long-awaited V4 model as AI
 -  : LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Review
 -  : Machine learning operations - Azure Architecture Center
 -  : ARTIFICIAL | English meaning - Cambridge Dictionary
-- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Merriam_Webster_article.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
-- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Dictionary_com_article.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
+-  : ARTIFICIAL Definition & Meaning - Merriam-Webster
+-  : ARTIFICIAL Definition & Meaning | Dictionary.com
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
-- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
-- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
+-  : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial ...
-- [[articles/2026-04-28_AINews_LatestHeadlinesandDevelopments_Reuters_article.md]] : AI News | Latest Headlines and Developments | Reuters
+-  : AI News | Latest Headlines and Developments | Reuters
 -  : Generative AI news and analysis | TechCrunch
 -  : Machine learning operations - Azure Architecture Center
-- [[articles/2026-04-29_LLMModelEvolution2024_2026_CompleteReference_244Mo_article.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
+-  : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
 -  : Generative AI recent news - AI Business
 -  : Best Open-Source LLMs April 2026: Benchmarks, Licensing & Deployme…
-- [[articles/2026-04-27_China_sAIupstartDeepSeekdropsnewmodel_Willitmakewa_article.md]] : China’s AI upstart DeepSeek drops new model. Will it make waves like ...
-- [[articles/2026-04-28_LatestAINews_Developments_andBreakthroughs_2026_Ne_article.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : China’s AI upstart DeepSeek drops new model. Will it make waves like ...
+-  : Latest AI News, Developments, and Breakthroughs | 2026 | News
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : DeepSeek unveils new, low-cost V4 AI models: Here’s what you need to ...
 -  : Qwen 3.6 27B Arrives with GGUF Support and Local Multimodal ...
 -  : Thinking Without Words: Efficient Latent Reasoning with Abstract Chain-of-Thought
@@ -208,19 +210,19 @@ tags: ['wiki']
 -  : How Do AI Agents Spend Your Money? Analyzing and Predicting Token Consumption in Agentic Coding Tasks
 -  : Zero-Shot Morphological Discovery in Low-Resource Bantu Languages via Cross-Lingual Transfer and Unsupervised Clustering
 -  : Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection
-- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
+-  : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 …
 -  : Generative AI news and analysis | TechCrunch
-- [[articles/2026-04-28_LatestAINews_Developments_andBreakthroughs_2026_Ne_article.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
+-  : Latest AI News, Developments, and Breakthroughs | 2026 | News
 -  : 2026 is Breakthrough Year for Reliable AI World Models and …
-- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
+-  : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
 -  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[articles/2026-04-29_LLMModelEvolution2024_2026_CompleteReference_244Mo_article.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
+-  : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
 -  : Generative AI News, Research and Analysis - The Conversation
 -  : Generative AI recent news - AI Business
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[articles/2026-04-28_AINews_LatestHeadlinesandDevelopments_Reuters_article.md]] : AI News | Latest Headlines and Developments | Reuters
+-  : AI News | Latest Headlines and Developments | Reuters
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Con…
-- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
+-  : AI Updates Today (April 2026) – Latest AI Model Releases - llm-st…
 -  : China's DeepSeek releases preview of long-awaited V4 model as AI
 -  : AI is now powering cyberattacks, Microsoft warns - Fox News
 -  : awesome-architecture-mds/scientific-research/somaticseq/Machine ...
@@ -257,11 +259,11 @@ tags: ['wiki']
 -  : Machine learning operations - Azure Architecture Center
 -  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[articles/2026-04-29_LLMModelEvolution2024_2026_CompleteReference_244Mo_article.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Mod…
+-  : LLM Model Evolution 2024–2026 — Complete Reference (244 Mod…
 -  : Generative AI recent news - AI Business
-- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen …
+-  : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen …
 -  : Machine Learning | AWS Architecture Center
-- [[raw/summaries/SUMMARY_2026-04-29_LLM_News_Today__April_2026____AI_Model_Releases.md]] : LLM News Today (April 2026) – AI Model Releases
+-  : LLM News Today (April 2026) – AI Model Releases
 -  : Generative AI news and analysis | TechCrunch
 -  : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Prici…
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Contin…
@@ -546,171 +548,171 @@ tags: ['wiki']
 -  : Generative AI - Wikipedia
 - [[articles/2026-04-26_Qwen3_627BArriveswithGGUFSupportandLocalMultimodal_article.md]] : Qwen 3.6 27B Arrives with GGUF Support and Local Multimodal ...
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[articles/2026-04-28_MACHINEDefinition_Meaning_Dictionary_com_article.md]] : MACHINE Definition & Meaning | Dictionary.com
+-  : MACHINE Definition & Meaning | Dictionary.com
 - [[raw/summaries/SUMMARY_2026-04-29_Full_Article_Text.md]] : Full Article Text
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Machine - Wikipedia
 - [[raw/articles/2026-04-29_WhatistheDifferenceBetween_newobject___and_new___i.md]] : What is the Difference Between `new object()` and `new {}` in C#?
 -  : Machine learning operations - Azure Architecture Center
 - [[articles/2026-04-28_MACHINEDefinition_Meaning_Merriam_Webster_article.md]] : MACHINE Definition & Meaning - Merriam-Webster
 -  : Machine - Wikipedia
-- [[raw/articles/2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive …
+-  : The Architecture of Machine Learning Systems: A Comprehensive …
 - [[raw/articles/2026-06-15_TopMachineLearningArchitecturesExplained_BMCSoftwa.md]] : Top Machine Learning Architectures Explained - BMC Software
 - [[articles/2026-04-26_DeepSeekunveilsnew_low_costV4AImodels_Here_swhatyo_article.md]] : DeepSeek unveils new, low-cost V4 AI models: Here’s what you need to ...
 - [[articles/2026-04-27_AIisnowpoweringcyberattacks_Microsoftwarns_FoxNews_article.md]] : AI is now powering cyberattacks, Microsoft warns - Fox News
 - [[articles/2026-04-27_awesome_architecture_mds_scientific_research_somat_article.md]] : awesome-architecture-mds/scientific-research/somaticseq/Machine ...
-- [[articles/2026-04-29_LLMModelEvolution2024_2026_CompleteReference_244Mo_article.md]] : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
+-  : LLM Model Evolution 2024–2026 — Complete Reference (244 Models)
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[articles/2026-04-28_LatestAINews_Developments_andBreakthroughs_2026_Ne_article.md]] : Latest AI News, Developments, and Breakthroughs | 2026 | News
+-  : Latest AI News, Developments, and Breakthroughs | 2026 | News
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Contin…
 -  : List of large language models - Wikipedia
 - [[raw/articles/2026-06-18_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[articles/2026-04-27_China_sDeepSeekreleasespreviewoflong_awaitedV4mode_article.md]] : China's DeepSeek releases preview of long-awaited V4 model as AI
+-  : China's DeepSeek releases preview of long-awaited V4 model as AI
 - [[articles/2026-04-23_ClaudeOpus4_7_Anthropic_sNewBest_Available_Model_article.md]] : Claude Opus 4.7: Anthropic’s New Best (Available) Model
 - [[articles/2026-04-25_ARTIFICIAL_Englishmeaning_CambridgeDictionary_article.md]] : ARTIFICIAL | English meaning - Cambridge Dictionary
-- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+-  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : Generative AI recent news - AI Business
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : Neural Network Architectures - GeeksforGeeks
-- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Merriam_Webster_article.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
-- [[raw/articles/2026-05-03_Whatisthe_new_keywordinJavaScript_-StackOverflow.md]] : What is the 'new' keyword in JavaScript? - Stack Overflow
+-  : ARTIFICIAL Definition & Meaning - Merriam-Webster
+-  : What is the 'new' keyword in JavaScript? - Stack Overflow
 - [[articles/2026-04-27_InauguralAdobeCreators_ToolkitReport_86PercentofGl_article.md]] : Inaugural Adobe Creators' Toolkit Report: 86 Percent of Global …
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Dictionary_com_article.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
+-  : ARTIFICIAL Definition & Meaning | Dictionary.com
 -  : Merck and Mayo Clinic Announce New Research and Development ...
-- [[articles/2026-04-29_10BestOpen_SourceLLMModels_2025Updated__Llama4_Qwe_article.md]] : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 an…
+-  : 10 Best Open-Source LLM Models (2025 Updated): Llama 4, Qwen 3 an…
 -  : What Is Generative AI? How It Works, Examples, Benefits, and ...
 - [[raw/summaries/SUMMARY_2026-04-29_Machine_Learning_Architecture___Process_And_Types_.md]] : Machine Learning Architecture | Process And Types Of Machine
 -  : What is generative AI? - IBM
-- [[articles/2026-04-26_BestOpen_SourceLLMsApril2026_Benchmarks_Licensing__article.md]] : Best Open-Source LLMs April 2026: Benchmarks, Licensing
-- [[articles/2026-04-25_AIinApril2026_BiggestBreakthroughs_Models_Industry_article.md]] : AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts
-- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Prici…
+-  : Best Open-Source LLMs April 2026: Benchmarks, Licensing
+-  : AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts
+-  : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Prici…
 - [[articles/2026-04-25_ArchitecturesforMachineLearning_SpringerNatureLink_article.md]] : Architectures for Machine Learning | Springer Nature Link
 - [[articles/2026-04-27_LLM_Leaderboard_2026___Compare_220_AI_Models_Acros_summary.md]] : LLM Leaderboard 2026 — Compare 220 AI Models Across 178 …
-- [[raw/summaries/SUMMARY_2026-04-29_LLMs___10_Things_That_Matter_in_AI_Right_Now___MIT.md]] : LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Review
-- [[articles/2026-04-28_MachineLearning_AWSArchitectureCenter_article.md]] : Machine Learning | AWS Architecture Center
+-  : LLMs+: 10 Things That Matter in AI Right Now | MIT Technology Review
+-  : Machine Learning | AWS Architecture Center
 -  : Generative AI recent news - AI Business
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial ...
-- [[articles/2026-04-28_MACHINEDefinition_Meaning_Dictionary_com_article.md]] : MACHINE Definition & Meaning | Dictionary.com
-- [[raw/summaries/SUMMARY_2026-04-29_LLM_News_Today__April_2026____AI_Model_Releases.md]] : LLM News Today (April 2026) – AI Model Releases
-- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm-stats.com
+-  : MACHINE Definition & Meaning | Dictionary.com
+-  : LLM News Today (April 2026) – AI Model Releases
+-  : AI Updates Today (April 2026) – Latest AI Model Releases - llm-stats.com
 -  : Generative AI news and analysis | TechCrunch
-- [[raw/summaries/SUMMARY_2026-04-29_Coming_soon__10_Things_That_Matter_in_AI_Right_Now.md]] : Coming soon: 10 Things That Matter in AI Right Now
+-  : Coming soon: 10 Things That Matter in AI Right Now
 - [[articles/2026-04-25_Here_swhoisspendingmoneyonAIsubscriptions_andhow___article.md]] : Here's who is spending money on AI subscriptions, and how ... - CBS News
-- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : AI Leaderboard 2026 - Compare Top AI Models & Rankings
-- [[articles/2026-04-27_China_sAIupstartDeepSeekdropsnewmodel_Willitmakewa_article.md]] : China’s AI upstart DeepSeek drops new model. Will it make waves like ...
+-  : AI Leaderboard 2026 - Compare Top AI Models & Rankings
+-  : China’s AI upstart DeepSeek drops new model. Will it make waves like ...
 -  : Machine learning operations - Azure Architecture Center
 -  : The 2026 AI Index Report - Stanford HAI
-- [[articles/2026-04-26_BestOpen_SourceLLMsApril2026_Benchmarks_Licensing__article.md]] : Best Open-Source LLMs April 2026: Benchmarks, Licensing
-- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
-- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Dictionary_com_article.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
-- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Merriam_Webster_article.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
+-  : Best Open-Source LLMs April 2026: Benchmarks, Licensing
+-  : LLM Leaderboard: Best AI Models Ranked (April 2026)
+-  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+-  : ARTIFICIAL Definition & Meaning | Dictionary.com
+-  : ARTIFICIAL Definition & Meaning - Merriam-Webster
 -  : Generative AI recent news - AI Business
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : Generative AI News, Research and Analysis - The Conversation
 -  : Machine learning operations - Azure Architecture Center
-- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : AI Leaderboard 2026 - Compare Top AI Models & Rankings
-- [[raw/articles/2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month
+-  : AI Leaderboard 2026 - Compare Top AI Models & Rankings
+-  : New LLM Releases April 2026: Every Major Model Launch This Month
 - [[articles/2026-04-30_SaiPrashanthPathi-AIForCreditRisk_ArchitectingExpl_summary.md]] : Sai Prashanth Pathi- AI For Credit Risk: Architecting Explainable ...
 -  : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive …
+-  : The Architecture of Machine Learning Systems: A Comprehensive …
 -  : Artificial Intelligence News -- ScienceDaily
 - [[raw/articles/2026-04-30_UltraSoCextendson-chipanalyticsarchitectureforthea.md]] : UltraSoC extends on-chip analytics architecture for the age of machine ...
-- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
+-  : LLM Leaderboard: Best AI Models Ranked (April 2026)
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
 -  : The 2026 AI Index Report - Stanford HAI
 -  : Machine Learning Lens - AWS Well-Architected Framework
-- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+-  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : GenAI.works | Generative AI Daily Newsletter | Generative AI Newsletter
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Generative AI News, Research and Analysis - The Conversation
 -  : Generative AI recent news - AI Business
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[raw/articles/2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month
-- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+-  : New LLM Releases April 2026: Every Major Model Launch This Month
+-  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : Generative AI News — AI Trends, Updates & Tracker | AI Weekly
-- [[raw/summaries/SUMMARY_2026-04-29_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md]] : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
+-  : AI Updates Today (April 2026) – Latest AI Model Releases - llm …
 -  : Morgan Stanley warns an AI breakthrough Is coming in 2026 - Fortune
-- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : AI Leaderboard 2026 - Compare Top AI Models & Rankings
+-  : AI Leaderboard 2026 - Compare Top AI Models & Rankings
 -  : Machine learning operations - Azure Architecture Center
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Contin…
 -  : Generative AI news and analysis | TechCrunch
 - [[articles/2026-04-28_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben_summary.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & P…
 -  : Generative AI recent news | AI Business
 -  : Generative AI recent news | AI Business
-- [[raw/articles/2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Machine learning operations - Azure Architecture Center
 -  : Generative AI news and analysis | TechCrunch
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : Generative AI News, Research and Analysis - The Conversation
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
 -  : Machine Learning Lens - AWS Well-Architected Framework
-- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[raw/articles/2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month
+-  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+-  : New LLM Releases April 2026: Every Major Model Launch This Month
 -  : What does the future hold for generative AI? - MIT News
-- [[raw/articles/2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 v…
-- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
-- [[raw/articles/2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide …
+-  : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 v…
+-  : LLM Leaderboard: Best AI Models Ranked (April 2026)
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide …
 -  : Generative AI recent news | AI Business
 -  : Machine learning operations - Azure Architecture Center
-- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Dictionary_com_article.md]] : ARTIFICIAL Definition & Meaning | Dictionary.com
-- [[articles/2026-04-28_ARTIFICIALDefinition_Meaning_Merriam_Webster_article.md]] : ARTIFICIAL Definition & Meaning - Merriam-Webster
-- [[raw/articles/2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 v…
+-  : ARTIFICIAL Definition & Meaning | Dictionary.com
+-  : ARTIFICIAL Definition & Meaning - Merriam-Webster
+-  : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 v…
 -  : Generative AI News, Research and Analysis - The Conversation
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[raw/articles/2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
 - [[raw/articles/2026-05-03_GitHub-wdopen-nk_student-performance-predictor_Mac.md]] : GitHub - wdopen-nk/student-performance-predictor: Machine learning ...
 -  : Generative AI news and analysis | TechCrunch
-- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+-  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : What does the future hold for generative AI? - MIT News
-- [[raw/articles/2026-05-03_Whatisthe_new_keywordinJavaScript_-StackOverflow.md]] : What is the 'new' keyword in JavaScript? - Stack Overflow
+-  : What is the 'new' keyword in JavaScript? - Stack Overflow
 - [[raw/articles/2026-05-03_c_-Whatdoesnew__mean_-StackOverflow.md]] : c# - What does new () mean? - Stack Overflow
 -  : GenAI.works | Generative AI Daily Newsletter | Generative AI Newsletter
 -  : Machine Learning Lens - AWS Well-Architected Framework
-- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : LLM Leaderboard 2026 — Compare 300+ Top AI Models by …
+-  : LLM Leaderboard 2026 — Compare 300+ Top AI Models by …
 -  : Generative AI news and analysis | TechCrunch
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Generative AI recent news | AI Business
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
 -  : Machine learning operations - Azure Architecture Center
-- [[raw/articles/2026-05-05_LLMComparison2026_ClaudevsGPTvsGemini_Keymakr.md]] : LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr
+-  : LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr
 -  : Machine Learning Lens - AWS Well-Architected Framework
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
-- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
+-  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+-  : Best LLM Leaderboard 2026 | AI Model Rankings, Benchmarks & Pricing
 - [[raw/articles/2026-05-04_ContactUs-MicrosoftSupport.md]] : Contact Us - Microsoft Support
 - [[raw/articles/2026-05-04_AllProducts-support_microsoft_com.md]] : All Products - support.microsoft.com
 -  : What does the future hold for generative AI? - MIT News
-- [[raw/summaries/SUMMARY_2026-04-29_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben.md]] : LLM Leaderboard: Best AI Models Ranked (April 2026)
+-  : LLM Leaderboard: Best AI Models Ranked (April 2026)
 -  : Morgan Stanley warns an AI breakthrough Is coming in 2026 - Fortune
 -  : What is generative AI? - IBM
 -  : Generative AI - Wikipedia
-- [[articles/2026-04-28_InsidetheAIIndex_12Takeawaysfromthe2026Report_article.md]] : Inside the AI Index: 12 Takeaways from the 2026 Report
+-  : Inside the AI Index: 12 Takeaways from the 2026 Report
 -  : Generative AI news and analysis | TechCrunch
-- [[articles/2026-04-27_AIArchitectureDesign_AzureArchitectureCenter_Micro_article.md]] : AI Architecture Design - Azure Architecture Center | Microsoft Learn
+-  : AI Architecture Design - Azure Architecture Center | Microsoft Learn
 -  : Generative AI recent news | AI Business
 -  : 10 Things That Matter in AI Right Now - MIT Technology Review
-- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : LLM Leaderboard 2026 — Compare 300+ Top AI Models by …
+-  : LLM Leaderboard 2026 — Compare 300+ Top AI Models by …
 - [[raw/articles/2026-05-05_MLSystemDesign_ACompleteGuide_2026_.md]] : ML System Design: A Complete Guide (2026)
 -  : The 2026 AI Index Report - Stanford HAI
 -  : Generative AI News, Research and Analysis - The Conversation
-- [[articles/2026-04-24_AILeaderboard2026_CompareTopAIModels_Rankings_article.md]] : LLM Leaderboard 2026 — Compare 300+ Top AI Models by Intelligence ...
+-  : LLM Leaderboard 2026 — Compare 300+ Top AI Models by Intelligence ...
 -  : Machine learning operations - Azure Architecture Center
 -  : 2026 is Breakthrough Year for Reliable AI World Models and Continual ...
-- [[raw/articles/2026-05-05_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md]] : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
-- [[raw/articles/2026-05-05_LLMComparison2026_ClaudevsGPTvsGemini_Keymakr.md]] : LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr
+-  : Open-Source LLM Landscape 2026: DeepSeek V4 vs Llama 4 vs Qwen …
+-  : LLM Comparison 2026: Claude vs GPT vs Gemini | Keymakr
 - [[raw/articles/2026-05-05_GENERATIVEDefinition_Meaning-Merriam-Webster.md]] : GENERATIVE Definition & Meaning - Merriam-Webster
 -  : Generative AI - Wikipedia
-- [[raw/articles/2026-05-13_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
+-  : The best large language models (LLMs) in 2026
 -  : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+-  : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 -  : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
+-  : What is ML Architecture
 - [[raw/papers/2026-05-05_17-55-01Z_Large_ScaleHigh_Quality3DGaussianHeadReconstructio.md]] : Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures
 - [[raw/papers/2026-05-05_17-59-18Z_AClosed_FormAdaptive_LandmarkKernelforCertifiedPoi.md]] : A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification
 - [[raw/papers/2026-05-05_17-30-17Z_Enhanced3DBrainTumorSegmentationUsingAssortedPreci.md]] : Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training
@@ -721,13 +723,13 @@ tags: ['wiki']
 - [[raw/papers/2026-05-05_17-57-19Z_Safetyandaccuracyfollowdifferentscalinglawsinclini.md]] : Safety and accuracy follow different scaling laws in clinical large language models
 - [[raw/papers/2026-05-05_17-36-12Z_SymptomAI_TowardsaConversationalAIAgentforEveryday.md]] : SymptomAI: Towards a Conversational AI Agent for Everyday Symptom Assessment
 -  : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
-- [[raw/articles/2026-05-13_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
+-  : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+-  : The best large language models (LLMs) in 2026
 -  : Top 7 open source LLMs for 2026
 -  : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
+-  : What is ML Architecture
 -  : Generative AI recent news | AI Business
-- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+-  : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
 - [[raw/papers/2026-05-06_16-23-11Z_GatedMultimodalLearningforInterpretablePropertyEne.md]] : Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis
 - [[raw/papers/2026-05-06_16-30-48Z_Driver_WM_ADriver_CentricTraffic_ConditionedLatent.md]] : Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout
@@ -738,17 +740,17 @@ tags: ['wiki']
 - [[raw/papers/2026-05-06_16-32-55Z_ABayesianApproachforTask_SpecificNext_Best_ViewSel.md]] : A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry
 - [[raw/papers/2026-05-06_16-20-24Z_OrderMatters_ImprovingDomainAdaptationbyReordering.md]] : Order Matters: Improving Domain Adaptation by Reordering Data
 - [[raw/papers/2026-05-06_16-18-47Z_ThePinocchioDimension_PhenomenalityofExperienceast.md]] : The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences
-- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
+-  : What is ML Architecture
 -  : Generative AI news and analysis | TechCrunch
 -  : Generative AI recent news | AI Business
 -  : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
-- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+-  : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+-  : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Top 7 open source LLMs for 2026
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
 - [[raw/articles/2026-05-07_Supervised_Learning_Web_Sources.md]] : Supervised Learning Web Sources
 - [[raw/articles/2026-05-07_Data_Foundation_Web_Sources.md]] : 2026-05-07_Data_Foundation_Web_Sources.md
-- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+-  : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 - [[raw/papers/2026-05-07_17-59-20Z_EMO_PretrainingMixtureofExpertsforEmergentModulari.md]] : EMO: Pretraining Mixture of Experts for Emergent Modularity
 - [[raw/papers/2026-05-07_17-59-31Z_BAMI_Training_FreeBiasMitigationinGUIGrounding.md]] : BAMI: Training-Free Bias Mitigation in GUI Grounding
 - [[raw/papers/2026-05-07_17-59-44Z_UniPool_AGloballySharedExpertPoolforMixture_of_Exp.md]] : UniPool: A Globally Shared Expert Pool for Mixture-of-Experts
@@ -759,24 +761,24 @@ tags: ['wiki']
 - [[raw/papers/2026-05-07_17-59-58Z_ActCam_Zero_ShotJointCameraand3DMotionControlforVi.md]] : ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation
 - [[raw/papers/2026-05-07_17-56-41Z_WhenNoBenchmarkExists_ValidatingComparativeLLMSafe.md]] : When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels
 -  : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
-- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
+-  : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+-  : What is ML Architecture
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
 -  : Generative AI recent news | AI Business
 -  : Top 7 open source LLMs for 2026
 -  : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+-  : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 -  : Top 7 open source LLMs for 2026 - NetApp Instaclustr
-- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
+-  : What is ML Architecture
 -  : Top 7 open source LLMs for 2026
 -  : Nine Breakthroughs Made Possible by AI
 -  : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+-  : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Generative AI recent news | AI Business
-- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+-  : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+-  : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 - [[raw/papers/2026-05-09_2001.08361-scaling-laws-for-neural-language-models.md]] : "Scaling Laws for Neural Language Models"
 -  : "Attention Is All You Need"
 - [[raw/papers/2026-05-09_2006.11239-denoising-diffusion-probabilistic-models.md]] : "Denoising Diffusion Probabilistic Models" (DDPM)
@@ -791,10 +793,10 @@ tags: ['wiki']
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
 -  : Nine Breakthroughs Made Possible by AI
 -  : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 -  : Generative AI recent news | AI Business
 -  : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+-  : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 - [[raw/papers/2026-05-08_13-14-04Z_Cross_AttentionandEncoder_DecoderTransformers_ALog.md]] : Cross-Attention and Encoder-Decoder Transformers: A Logical Characterization
 - [[raw/papers/2026-05-08_13-14-31Z_HierarchicalTaskNetworkPlanningwithLLM_GeneratedHe.md]] : Hierarchical Task Network Planning with LLM-Generated Heuristics
 - [[raw/papers/2026-05-08_13-12-32Z_GuidanceIsNotaHyperparameter_LearningDynamicContro.md]] : Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models
@@ -816,22 +818,22 @@ tags: ['wiki']
 - [[raw/papers/2026-05-08_17-50-15Z_Flow_OPD_On_PolicyDistillationforFlowMatchingModel.md]] : Flow-OPD: On-Policy Distillation for Flow Matching Models
 - [[raw/papers/2026-05-08_17-59-40Z_LLMsImprovingLLMs_AgenticDiscoveryforTest_TimeScal.md]] : LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling
 - [[raw/papers/2026-05-08_17-56-09Z_GRAPHLCP_Structure_AwareLocalizedConformalPredicti.md]] : GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs
-- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
-- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+-  : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+-  : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 -  : Generative AI news and analysis | TechCrunch
 -  : Generative AI recent news | AI Business
 -  : Nine Breakthroughs Made Possible by AI
 -  : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+-  : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+-  : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Nine Breakthroughs Made Possible by AI
 -  : Generative AI news and analysis | TechCrunch
 -  : Top 7 open source LLMs for 2026
 -  : Generative AI recent news | AI Business
-- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+-  : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 - [[raw/papers/2026-05-11_17-51-46Z_Confidence_GuidedDiffusionAugmentationforEnhancedB.md]] : Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition
 - [[raw/papers/2026-05-11_17-58-45Z_VariationalInferenceforLévyProcess_DrivenSDEsviaNe.md]] : Variational Inference for Lévy Process-Driven SDEs via Neural Tilting
 - [[raw/papers/2026-05-11_17-52-15Z_OptimalandScalableMAPFviaMulti_MarginalOptimalTran.md]] : Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges
@@ -853,7 +855,7 @@ tags: ['wiki']
 - [[raw/papers/2026-05-12_11-31-18Z_TowardsOrderFairness_MitigatingLLMsOrderSensitivit.md]] : Towards Order Fairness: Mitigating LLMs Order Sensitivity through Dual Group Advantage Optimization
 - [[raw/papers/2026-05-12_11-40-49Z_ATransferLearningEvaluationofDeepNeuralNetworksfor.md]] : A Transfer Learning Evaluation of Deep Neural Networks for Image Classification
 - [[raw/papers/2026-05-12_11-31-36Z_StochasticMinimum_CostReach_AvoidReinforcementLear.md]] : Stochastic Minimum-Cost Reach-Avoid Reinforcement Learning
-- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+-  : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 - [[raw/papers/2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md]] : Learning, Fast and Slow: Towards LLMs That Adapt Continually
 - [[raw/papers/2026-05-12_17-58-27Z_Task_AdaptiveEmbeddingRefinementviaTest_timeLLMGui.md]] : Task-Adaptive Embedding Refinement via Test-time LLM Guidance
 - [[raw/papers/2026-05-12_17-57-48Z_BeyondGRPOandOn_PolicyDistillation_AnEmpiricalSpar.md]] : Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training
@@ -866,14 +868,14 @@ tags: ['wiki']
 - [[raw/papers/2026-05-12_17-59-26Z_ElasticAttentionCoresforScalableVisionTransformers.md]] : Elastic Attention Cores for Scalable Vision Transformers
 -  : Generative AI recent news | AI Business
 -  : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
-- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+-  : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+-  : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 -  : Generative AI news and analysis | TechCrunch
 -  : Top 7 open source LLMs for 2026
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[raw/articles/2026-05-13_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
-- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+-  : The best large language models (LLMs) in 2026
+-  : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 - [[raw/papers/2026-05-13_11-20-52Z_BuildingInteractiveReal_TimeAgentswithAsynchronous.md]] : Building Interactive Real-Time Agents with Asynchronous I/O and Speculative Tool Calling
 - [[raw/papers/2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md]] : Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor
 - [[raw/papers/2026-05-13_11-26-32Z_AHornextensionofDL_LitewithNLdatacomplexity.md]] : A Horn extension of DL-Lite with NL data complexity
@@ -896,13 +898,13 @@ tags: ['wiki']
 - [[raw/papers/2026-05-13_17-59-52Z_WARDEN_EndangeredIndigenousLanguageTranscriptionan.md]] : WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data
 -  : Nine Breakthroughs Made Possible by AI
 -  : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-05-06_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md]] : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+-  : This new brain-like chip could slash AI energy use by 70% | ScienceDaily
 -  : Generative AI news and analysis | TechCrunch
 -  : Generative AI recent news | AI Business
 -  : Generative AI
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+-  : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 - [[raw/papers/2026-05-14_13-43-55Z_GenAIforEnergy_EfficientandInterference_AwareCompr.md]] : GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU
 - [[raw/papers/2026-05-14_13-58-36Z_IFPV_AnIntegratedMulti_AgentFrameworkforGenerative.md]] : IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification
 - [[raw/papers/2026-05-14_14-04-46Z_ADeterministicAgenticWorkflowforHSTariffClassifica.md]] : A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions
@@ -926,32 +928,32 @@ tags: ['wiki']
 -  : Generative AI recent news | AI Business
 -  : Generative AI news and analysis | TechCrunch
 -  : Sony AI Announces Breakthrough Research in Real-World Artificial Intelligence and Robotics - Sony AI
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 -  : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-05-23_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md]] : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
+-  : r/artificial on Reddit: What are your top LLM picks in 2026 and why?
 -  : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
-- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
-- [[raw/articles/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+-  : What is ML Architecture
+-  : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+-  : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
 -  : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+-  : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
 -  : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+-  : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 -  : Generative AI recent news | AI Business
 -  : Nine Breakthroughs Made Possible by AI
 -  : Top 7 open source LLMs for 2026
 -  : Generative AI recent news | AI Business
 -  : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+-  : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+-  : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 -  : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-05-22_AgenticAINews_AIBreakthroughs_AIDevelopments_2026_.md]] : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
+-  : Agentic AI News + AI Breakthroughs + AI Developments | 2026 | News
 -  : Generative AI news and analysis | TechCrunch
 -  : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+-  : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+-  : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 -  : Generative AI recent news | AI Business
 -  : Nine Breakthroughs Made Possible by AI
 - [[raw/papers/2026-05-15_17-43-16Z_LayerEquivalenceIsNotaPropertyofLayersAlone_HowYou.md]] : Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find
@@ -1215,7 +1217,7 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_15-51-25Z_AlgorithmforContextualQueueingBanditswithRate_Opti.md]] : Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret
 - [[raw/papers/2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[raw/papers/2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
-## Papers
+## ## Papers
 - [[2026-07-06_17-53-32Z_FittedOccupancy_RatioEvaluationwithoutBellmanCompl.md]] : Fitted Occupancy-Ratio Evaluation without Bellman Completeness
 - [[2026-07-06_17-56-11Z_WhatDoesaDiscreteDiffusionModelLearn.md]] : What Does a Discrete Diffusion Model Learn?
 - [[2026-07-06_17-59-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificationFram.md]] : LLM-as-a-Verifier: A General-Purpose Verification Framework
@@ -1677,3 +1679,64 @@ tags: ['wiki']
 - [[2026-07-07_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
 - [[2026-07-07_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
 - [[2026-07-07_Deeplearningarchitectures.md]] : Deep learning architectures
+
+## Entities
+- [[entities/article/2026-07-01_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : 2026 07 01_Artificialintelligencenews  Sciencedaily_Summary
+- [[entities/article/2026-07-01_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Coding Multimo
+- [[entities/article/2026-07-01_Deeplearningarchitectures_summary.md]] : 2026 07 01_Deeplearningarchitectures_Summary
+- [[entities/article/2026-07-01_GenerativeAI_summary.md]] : 2026 07 01_Generativeai_Summary
+- [[entities/article/2026-07-01_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : 
+- [[entities/article/2026-07-01_GenerativeAIrecentnews_AIBusiness_summary.md]] : 
+- [[entities/article/2026-07-01_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Components Ty
+- [[entities/article/2026-07-01_NineBreakthroughsMadePossiblebyAI_summary.md]] : 2026 07 01_Ninebreakthroughsmadepossiblebyai_Summary
+- [[entities/article/2026-07-01_Top7opensourceLLMsfor2026_summary.md]] : 2026 07 01_Top7Opensourcellmsfor2026_Summary
+- [[entities/article/2026-07-02_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : 2026 07 02_Artificialintelligencenews  Sciencedaily_Summary
+- [[entities/article/2026-07-02_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Coding Multimo
+- [[entities/article/2026-07-02_Deeplearningarchitectures_summary.md]] : 2026 07 02_Deeplearningarchitectures_Summary
+- [[entities/article/2026-07-02_GenerativeAI_summary.md]] : 2026 07 02_Generativeai_Summary
+- [[entities/article/2026-07-02_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : 
+- [[entities/article/2026-07-02_GenerativeAIrecentnews_AIBusiness_summary.md]] : 
+- [[entities/article/2026-07-02_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Components Ty
+- [[entities/article/2026-07-02_NineBreakthroughsMadePossiblebyAI_summary.md]] : 2026 07 02_Ninebreakthroughsmadepossiblebyai_Summary
+- [[entities/article/2026-07-02_Top7opensourceLLMsfor2026_summary.md]] : 2026 07 02_Top7Opensourcellmsfor2026_Summary
+- [[entities/article/2026-07-03_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : 2026 07 03_Artificialintelligencenews  Sciencedaily_Summary
+- [[entities/article/2026-07-03_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Coding Multimo
+- [[entities/article/2026-07-03_Deeplearningarchitectures_summary.md]] : 2026 07 03_Deeplearningarchitectures_Summary
+- [[entities/article/2026-07-03_GenerativeAI_summary.md]] : 2026 07 03_Generativeai_Summary
+- [[entities/article/2026-07-03_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : 
+- [[entities/article/2026-07-03_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Components Ty
+- [[entities/article/2026-07-03_NineBreakthroughsMadePossiblebyAI_summary.md]] : 2026 07 03_Ninebreakthroughsmadepossiblebyai_Summary
+- [[entities/article/2026-07-03_Top7opensourceLLMsfor2026_summary.md]] : 2026 07 03_Top7Opensourcellmsfor2026_Summary
+- [[entities/article/2026-07-04_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : 2026 07 04_Artificialintelligencenews  Sciencedaily_Summary
+- [[entities/article/2026-07-04_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Coding Multimo
+- [[entities/article/2026-07-04_Deeplearningarchitectures_summary.md]] : 2026 07 04_Deeplearningarchitectures_Summary
+- [[entities/article/2026-07-04_GenerativeAI_summary.md]] : 2026 07 04_Generativeai_Summary
+- [[entities/article/2026-07-04_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : 
+- [[entities/article/2026-07-04_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Components Ty
+- [[entities/article/2026-07-04_NineBreakthroughsMadePossiblebyAI_summary.md]] : 2026 07 04_Ninebreakthroughsmadepossiblebyai_Summary
+- [[entities/article/2026-07-04_Top7opensourceLLMsfor2026_summary.md]] : 2026 07 04_Top7Opensourcellmsfor2026_Summary
+- [[entities/article/2026-07-05_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : 2026 07 05_Artificialintelligencenews  Sciencedaily_Summary
+- [[entities/article/2026-07-05_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Coding Multimo
+- [[entities/article/2026-07-05_Deeplearningarchitectures_summary.md]] : 2026 07 05_Deeplearningarchitectures_Summary
+- [[entities/article/2026-07-05_GenerativeAI_summary.md]] : 2026 07 05_Generativeai_Summary
+- [[entities/article/2026-07-05_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : 
+- [[entities/article/2026-07-05_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Components Ty
+- [[entities/article/2026-07-05_NineBreakthroughsMadePossiblebyAI_summary.md]] : 2026 07 05_Ninebreakthroughsmadepossiblebyai_Summary
+- [[entities/article/2026-07-05_Top7opensourceLLMsfor2026_summary.md]] : 2026 07 05_Top7Opensourcellmsfor2026_Summary
+- [[entities/article/2026-07-06_AIBreakthrough-AIBreakthroughAwards_summary.md]] : 2026 07 06_Aibreakthrough Aibreakthroughawards_Summary
+- [[entities/article/2026-07-06_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : 2026 07 06_Artificialintelligencenews  Sciencedaily_Summary
+- [[entities/article/2026-07-06_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Coding Multimo
+- [[entities/article/2026-07-06_Deeplearningarchitectures_summary.md]] : 2026 07 06_Deeplearningarchitectures_Summary
+- [[entities/article/2026-07-06_GenerativeAI_summary.md]] : 2026 07 06_Generativeai_Summary
+- [[entities/article/2026-07-06_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : 
+- [[entities/article/2026-07-06_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Components Ty
+- [[entities/article/2026-07-06_NineBreakthroughsMadePossiblebyAI_summary.md]] : 2026 07 06_Ninebreakthroughsmadepossiblebyai_Summary
+- [[entities/article/2026-07-06_Top7opensourceLLMsfor2026_summary.md]] : 2026 07 06_Top7Opensourcellmsfor2026_Summary
+- [[entities/article/2026-07-07_AIBreakthrough-AIBreakthroughAwards_summary.md]] : 2026 07 07_Aibreakthrough Aibreakthroughawards_Summary
+- [[entities/article/2026-07-07_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : 2026 07 07_Artificialintelligencenews  Sciencedaily_Summary
+- [[entities/article/2026-07-07_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Coding Multimo
+- [[entities/article/2026-07-07_Deeplearningarchitectures_summary.md]] : 2026 07 07_Deeplearningarchitectures_Summary
+- [[entities/article/2026-07-07_GenerativeAI_summary.md]] : 2026 07 07_Generativeai_Summary
+- [[entities/article/2026-07-07_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : 
+- [[entities/article/2026-07-07_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Components Ty
+- [[entities/article/2026-07-07_Top7opensourceLLMsfor2026_summary.md]] : 2026 07 07_Top7Opensourcellmsfor2026_Summary
