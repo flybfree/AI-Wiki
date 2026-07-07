@@ -132,6 +132,13 @@ GitHub-friendly copy: use this version in the repository/browser.
 
 ---
 
+## Interesting GitHub AI Repos
+
+### 2026-07-07
+- [google-research/timesfm](https://github.com/google-research/timesfm) — TimesFM (Time Series Foundation Model), a pretrained time-series foundation model for forecasting
+
+---
+
 ## Tutorials & Guides
 
 - [Tutorial: Getting Started with AI Research](https://github.com/flybfree/AI-Wiki/blob/master/concepts/ai-research/2026-06-10_AIResearchPapers.md)
