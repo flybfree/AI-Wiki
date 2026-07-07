@@ -1216,6 +1216,26 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[raw/papers/2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## Papers
+- [[2026-07-06_17-53-32Z_FittedOccupancy_RatioEvaluationwithoutBellmanCompl.md]] : Fitted Occupancy-Ratio Evaluation without Bellman Completeness
+- [[2026-07-06_17-56-11Z_WhatDoesaDiscreteDiffusionModelLearn.md]] : What Does a Discrete Diffusion Model Learn?
+- [[2026-07-06_17-59-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificationFram.md]] : LLM-as-a-Verifier: A General-Purpose Verification Framework
+- [[2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgentFramewo.md]] : Cortex: A Bidirectionally Aligned Embodied Agent Framework for Long-horizon Manipulation
+- [[2026-07-06_17-55-55Z_TabPack_EfficientHyperparameterEnsemblesforTabular.md]] : TabPack: Efficient Hyperparameter Ensembles for Tabular Deep Learning
+- [[2026-07-06_17-55-12Z_CompactionRL_ReinforcementLearningwithContextCompa.md]] : CompactionRL: Reinforcement Learning with Context Compaction for Long-Horizon Agents
+- [[2026-07-06_17-59-58Z_Weak_to_StrongGeneralizationviaDirectOn_PolicyDist.md]] : Weak-to-Strong Generalization via Direct On-Policy Distillation
+- [[2026-07-06_17-59-59Z_FromFixedtoFreeCameras_Calibration_FreeView_Robust.md]] : From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model
+- [[2026-07-06_17-56-12Z_SearchBeyondWhatCanBeTaught_EvolvingtheKnowledgeBo.md]] : Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation
+- [[2026-07-06_17-59-58Z_InterpretableHuman_Label_FreeDeepLearningforReal_B.md]] : Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification
+- [[2026-07-03_20-11-34Z_GraphClassificationviaNetworkUsableInformation_Fro.md]] : Graph Classification via Network Usable Information: From Representation Evaluation to Structure Selection
+- [[2026-07-03_18-49-20Z_HowtoAvoidDebate_ScalableAISafetyviaDoubly_Efficie.md]] : How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs
+- [[2026-07-03_19-47-07Z_WhenGeometryAligns_DihedralHidden_StateTransformat.md]] : When Geometry Aligns: Dihedral Hidden-State Transformations in UNet, ViT, and DiT Architectures
+- [[2026-07-03_19-17-51Z_EPRAU_Net_AnEfficientPyramidResidualAttentionFrame.md]] : EPRA U-Net: An Efficient Pyramid Residual Attention Framework for Accurate Infarct Segmentation in Diffusion-Weighted MRI
+- [[2026-07-03_19-48-17Z_PLGSA_Transformer_PeriocularLandmark_GuidedAttenti.md]] : PLGSA-Transformer: Periocular Landmark-Guided Attention with Occlusion-Adaptive Cosine Thresholding for Cross-Modal Masked and Unmasked Face Recognition
+- [[2026-07-03_19-29-35Z_DifferentiatetheEvaluator_NottheProgram_AnEfficien.md]] : Differentiate the Evaluator, Not the Program: An Efficient Runtime Representation for Neuro-Symbolic Learning
+- [[2026-07-03_20-02-28Z_ModularFoundationModelsforTime_SeriesPerceptioninD.md]] : Modular Foundation Models for Time-Series Perception in Digital Twins
+- [[2026-07-03_19-26-38Z_TeacherSupervisionoverRepresentationEquivalenceCla.md]] : Teacher Supervision over Representation Equivalence Classes
+- [[2026-07-03_18-47-54Z_LatentClarity_BridgingWorld_ModelKinematicstoSeman.md]] : Latent Clarity: Bridging World-Model Kinematics to Semantic Manifolds for Video Anomaly Anticipation
+- [[2026-07-03_18-27-18Z_WeightCLIP_AligningDatasetsandModelsforWeightSpace.md]] : WeightCLIP: Aligning Datasets and Models for Weight Space Learning
 - [[2026-07-02_17-58-52Z_ReasoningLLMImprovesSpeakerRecognitioninLong_formT.md]] : Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas
 - [[2026-07-02_17-59-26Z_ReContext_RecursiveEvidenceReplayasLLMHarnessforLo.md]] : ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning
 - [[2026-07-02_17-59-43Z_OnlineSafetyMonitoringforLLMs.md]] : Online Safety Monitoring for LLMs
