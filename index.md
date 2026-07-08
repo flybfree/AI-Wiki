@@ -1761,3 +1761,5 @@ tags: ['wiki']
 - [[2026-07-08_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
 - [[2026-07-08_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
 - [[2026-07-08_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[2026-07-08_Research_AI_Is_Changing_What_Employers_Want_From_New_Hires.md]] : Research: AI Is Changing What Employers Want from New Hires
+- [[entities/article/2026-07-08_Research_AI_Is_Changing_What_Employers_Want_From_New_Hires_summary.md]] : Research: AI Is Changing What Employers Want from New Hires
