@@ -1218,6 +1218,16 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[raw/papers/2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## ## Papers
+- [[2026-07-07_17-37-03Z_LifeStyleLevels_NeighborhoodDelineationusingGeospa.md]] : Life Style Levels: Neighborhood Delineation using Geospatial Data
+- [[2026-07-07_17-52-17Z_GraphConvolutionalAttention_ASpectralPerspectiveon.md]] : Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion
+- [[2026-07-07_17-51-10Z_RethinkingIndicAIfromaLensofCulturalHeritagePreser.md]] : Rethinking Indic AI from a Lens of Cultural Heritage Preservation
+- [[2026-07-07_17-29-01Z_DepthWeave_KV_Token_AdaptiveCross_LayerResidualFac.md]] : DepthWeave-KV: Token-Adaptive Cross-Layer Residual Factorization for Long-Context KV Cache Compression
+- [[2026-07-07_17-43-36Z_HierarchicalAcoustic_SemanticModeling_ModalitySepa.md]] : Hierarchical Acoustic-Semantic Modeling: Modality Separation and Semantic Coherence for Full-Duplex SLMs
+- [[2026-07-07_17-39-06Z_GraphBU_MILPInstanceGenerationwithGraph_NativeBloc.md]] : GraphBU: MILP Instance Generation with Graph-Native Block Units
+- [[2026-07-07_17-38-47Z_TheLargeCancerAssistant_LCA__AModel_AgnosticOrches.md]] : The Large Cancer Assistant (LCA): A Model-Agnostic Orchestration Framework for Scalable Clinical Decision Support in Oncology
+- [[2026-07-07_17-59-50Z_ELSA3D_ElasticSemanticAnchoringforUnified3DUnderst.md]] : ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation
+- [[2026-07-07_17-47-26Z_Onthefeasibilityofdependencyparsingofnon_humansequ.md]] : On the feasibility of dependency parsing of non-human sequences without a gold standard. Is evaluation possible in other species?
+- [[2026-07-07_17-32-36Z_RSF_GLLM_BridgingtheSemanticGapinMulti_HopKnowledg.md]] : RSF-GLLM: Bridging the Semantic Gap in Multi-Hop Knowledge Graph QA via Recurrent Soft-Flow and Decoupled LLM Generation
 - [[2026-07-06_17-53-32Z_FittedOccupancy_RatioEvaluationwithoutBellmanCompl.md]] : Fitted Occupancy-Ratio Evaluation without Bellman Completeness
 - [[2026-07-06_17-56-11Z_WhatDoesaDiscreteDiffusionModelLearn.md]] : What Does a Discrete Diffusion Model Learn?
 - [[2026-07-06_17-59-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificationFram.md]] : LLM-as-a-Verifier: A General-Purpose Verification Framework
@@ -1741,3 +1751,4 @@ tags: ['wiki']
 - [[entities/article/2026-07-07_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Components Ty
 - [[entities/article/2026-07-07_Top7opensourceLLMsfor2026_summary.md]] : 2026 07 07_Top7Opensourcellmsfor2026_Summary
 - [[2026-07-07_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[2026-07-07_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
