@@ -1776,3 +1776,13 @@ tags: ['wiki']
 - [[2026-07-08_Research_AI_Is_Changing_What_Employers_Want_From_New_Hires.md]] : Research: AI Is Changing What Employers Want from New Hires
 - [[entities/article/2026-07-08_Research_AI_Is_Changing_What_Employers_Want_From_New_Hires_summary.md]] : Research: AI Is Changing What Employers Want from New Hires
 - [[2026-07-08_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[2026-07-09_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[2026-07-09_GenerativeAI.md]] : Generative AI
+- [[2026-07-09_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[2026-07-09_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[2026-07-09_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[2026-07-09_Deeplearningarchitectures.md]] : Deep learning architectures
+- [[2026-07-09_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[2026-07-09_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[2026-07-09_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[2026-07-09_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
