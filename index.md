@@ -1535,6 +1535,8 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_17-55-18Z_AHA_WAM_AsynchronousHorizon_AdaptiveWorld_ActionMo.md]] : AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing
 - [[raw/papers/2026-06-08_17-59-39Z_AnAgency_TransferringModel_FreePolicyEnhancementTe.md]] : An Agency-Transferring Model-Free Policy Enhancement Technique
 - [[articles/2026-04-28_MachineLearning_AWSArchitectureCenter_article.md]] : Machine Learning Architecture — Hub
+- [[articles/2026-07-09_Repowise_Codebase_Intelligence_for_AI_Agents.md|Repowise: Codebase Intelligence for AI Agents and Humans]] — codebase intelligence layer for AI agents with MCP tools
+- [[entities/article/2026-07-09_Repowise_Codebase_Intelligence_for_AI_Agents_summary.md|Summary: Repowise - Codebase Intelligence for AI Agents and Humans]] — summary of repowise platform
 - [[raw/summaries/SUMMARY_2026-04-29_Machine_Learning_Architecture__What_It_Is__Compone.md]] : Machine Learning Architecture: What It Is, Components & Types (June 8)
 - [[raw/articles/2026-06-10_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
 - [[raw/articles/2026-06-10_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
@@ -1763,3 +1765,4 @@ tags: ['wiki']
 - [[2026-07-08_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
 - [[2026-07-08_Research_AI_Is_Changing_What_Employers_Want_From_New_Hires.md]] : Research: AI Is Changing What Employers Want from New Hires
 - [[entities/article/2026-07-08_Research_AI_Is_Changing_What_Employers_Want_From_New_Hires_summary.md]] : Research: AI Is Changing What Employers Want from New Hires
+- [[2026-07-08_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
