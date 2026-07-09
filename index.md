@@ -1218,6 +1218,16 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[raw/papers/2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## ## Papers
+- [[2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegenerationofHighP.md]] : Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass
+- [[2026-07-08_17-49-49Z_SelectiveTimestepWeightingandAdvantage_BasedReplay.md]] : Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF
+- [[2026-07-08_17-53-56Z_InstitutionalRed_Teaming_DeploymentRules_NotJustMo.md]] : Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety
+- [[2026-07-08_17-42-00Z_ECGLight_Compute_LightFrameworkForPaperECGDigitiza.md]] : ECGLight: Compute-Light Framework For Paper ECG Digitization and Myocardial Infarction Screening
+- [[2026-07-08_17-57-27Z_FromNoisyTracestoRootCauses_StructuralTrajectoryAn.md]] : From Noisy Traces to Root Causes: Structural Trajectory Analysis and Causal Extraction for Agent Optimization
+- [[2026-07-08_17-59-45Z_Co_LMLM_Continuous_QueryLimitedMemoryLanguageModel.md]] : Co-LMLM: Continuous-Query Limited Memory Language Models
+- [[2026-07-08_17-59-09Z_TheKeytoGoingLinear_Analysis_DrivenTransformerLine.md]] : The Key to Going Linear: Analysis-Driven Transformer Linearization
+- [[2026-07-08_17-59-59Z_Accurate_InterdisciplinaryandTransparentStructure_.md]] : Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning
+- [[2026-07-08_17-41-56Z_NeuralOperator_enabledTopology_informedEvolutionar.md]] : Neural Operator-enabled Topology-informed Evolutionary Strategy for PDE-Constrained Optimization
+- [[2026-07-08_17-49-14Z_Agon_CompetitiveCross_ModelRLwithImplicitRivalGrad.md]] : Agon: Competitive Cross-Model RL with Implicit Rival Grading of Reasoning
 - [[2026-07-07_17-37-03Z_LifeStyleLevels_NeighborhoodDelineationusingGeospa.md]] : Life Style Levels: Neighborhood Delineation using Geospatial Data
 - [[2026-07-07_17-52-17Z_GraphConvolutionalAttention_ASpectralPerspectiveon.md]] : Graph Convolutional Attention: A Spectral Perspective on Graph Denoising and Diffusion
 - [[2026-07-07_17-51-10Z_RethinkingIndicAIfromaLensofCulturalHeritagePreser.md]] : Rethinking Indic AI from a Lens of Cultural Heritage Preservation
