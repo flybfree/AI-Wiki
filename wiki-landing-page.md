@@ -33,7 +33,9 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 
 ### Foundation Models & LLMs
 - [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker]] — living model-release tracker
-- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — frontier snapshot
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — open-weight frontier + local-use watchlist
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — frontier snapshot (includes Claude Mythos and Fable 5)
+- [[concepts/hermes-agent-guide.md|Fable 5 Integration Notes]] — practical usage guidance
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — background evolution view
 - [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]
 - Claude Opus 4.7: Anthropic's New Best Model

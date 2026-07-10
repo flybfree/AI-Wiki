@@ -30,7 +30,9 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 - [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|LLMs & Foundation Models Hub — Main]]
 - [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker — Current Model Tracker]]
-- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]]
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — open-weight frontier + local-use watchlist
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — includes Claude Mythos and Fable 5
+- [[concepts/hermes-agent-guide.md|Fable 5 Integration Notes]]
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]]
 - [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]
 

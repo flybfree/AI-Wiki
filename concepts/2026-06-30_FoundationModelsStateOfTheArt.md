@@ -62,21 +62,28 @@ Sources:
 - [Introducing GPT-5.5](https://openai.com/index/introducing-gpt-5-5/)
 - [GPT-5.5 System Card](https://openai.com/index/gpt-5-5-system-card/)
 
-### Anthropic — Claude Opus 4.8 and Claude Sonnet 4.6
+### Anthropic — Claude Mythos, Fable, Claude Opus 4.8, and Claude Sonnet 4.6
 
-Anthropic’s current flagship line is very strong on reasoning, coding, agent planning, and long-form knowledge work.
+Anthropic’s current frontier line spans both gated preview models and public flagship models. The gated models matter for this snapshot because they shape the top end of the leaderboard even when they are not broadly available.
 
 Why it matters:
-- Claude Opus 4.8 is a top-tier reasoning model
+- Claude Mythos is the gated frontier preview for hardest reasoning and security-heavy work
+- Claude Fable 5 is the precision / implementation-oriented model in the Claude family
+- Claude Opus 4.8 is a top-tier public reasoning model
 - Claude Sonnet 4.6 is the workhorse option for coding and agents
 - Anthropic keeps pushing long-context and practical workflows
 
 Current impression:
-- Opus is one of the best models for hard reasoning and careful responses
+- Mythos is the most capable Anthropic model in this snapshot, but access is restricted
+- Fable is the better fit when precise implementation and reliability matter more than raw breadth
+- Opus is one of the best public models for hard reasoning and careful responses
 - Sonnet is one of the best “daily driver” models for production use
 - Anthropic is especially strong when you need reliable stepwise thinking and agentic workflows
 
 Sources:
+- [Claude Mythos coverage in the April 2026 releases roundup](../entities/article/2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md)
+- [Claude Mythos in the AI leaderboard roundup](../articles/2026-04-27_LLM_Leaderboard_2026___Compare_220_AI_Models_Acros_summary.md)
+- [Fable 5 integration notes](hermes-agent-guide.md)
 - [Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 - [Introducing Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)
 - [What’s new in Claude Opus 4.8](https://docs.anthropic.com/en/docs/about-claude/models/whats-new-claude-4-8)
