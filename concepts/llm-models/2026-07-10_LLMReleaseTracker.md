@@ -24,46 +24,69 @@ This page is designed as an **update-first tracker**:
 
 **Last reviewed**: 2026-07-10
 
-### What matters right now
+### Current release verdict
 
-| Model | Why it matters | Source signal |
+This section is the living summary. Keep it short, opinionated, and current. When a new release lands, replace these bullets with the newest interpretation and move the older interpretation into the log below.
+
+| Model | Current role | Signal |
 |---|---|---|
-| **GPT-5.5** | Safest all-rounder for agentic and multimodal work | 1M context, broad tool ecosystem, strong general performance |
-| **Claude Opus 4.7** | Best pick for code review and repository reasoning | 87.6% SWE-Bench Verified, strongest software-engineering signal |
+| **GPT-5.5** | Safest all-around agentic and multimodal default | 1M context, broad tool ecosystem, reliable across task types |
+| **Claude Opus 4.7** | Best for code review and repository reasoning | 87.6% SWE-Bench Verified, strongest engineering signal |
 | **Gemini 3.5 Flash** | Best speed-first frontier option | Roughly 4x faster than Gemini 3.1 Pro, strong multimodal throughput |
-| **DeepSeek V4 Pro** | Best value for coding and agentic tasks | MIT-licensed, very low API pricing, open-weight availability |
+| **DeepSeek V4 Pro** | Best value pick for coding and agentic tasks | MIT-licensed, very low API pricing, open-weight availability |
 | **Qwen 3.7 Max** | Strong open-hosted option for agentic coding | Large context window and competitive benchmark claims |
 | **Llama 4 Scout** | Best long-context self-hosting candidate | 10M context, open weights, privacy-friendly deployment |
 
 ### Current read
 
-- **Frontier models are now specialized by workflow.** GPT-5.5 is the safest broad agentic choice, while Claude Opus 4.7 still leads for repo-level engineering work.
-- **Speed and cost matter more than raw headline benchmark rank.** Gemini 3.5 Flash is the standout when latency and throughput matter.
-- **Open-weight models are no longer just backup options.** DeepSeek V4 Pro and Qwen 3.7 Max are now legitimate first-choice candidates for many coding and agent tasks.
-- **Self-hosting is viable for long-context work.** Llama 4 Scout is the clearest “bring it home” option when privacy or control matters.
+- **Frontier models are specialized by workflow.** GPT-5.5 is the broad default, while Claude Opus 4.7 stays the repo-reasoning leader.
+- **Speed and cost beat raw headline rank for many teams.** Gemini 3.5 Flash is the standout when latency and throughput matter.
+- **Open-weight models are first-choice candidates now.** DeepSeek V4 Pro and Qwen 3.7 Max are real contenders, not backups.
+- **Self-hosting is viable for long-context work.** Llama 4 Scout is the clearest privacy or control pick.
 
 ### Open questions / contradictions
 
-- **Claude Opus 4.7 context size is source-dependent.** One roundup reports 200K context, while the later comparison article describes 1M context. Treat the exact context figure as source-sensitive until the upstream docs converge.
+- **Claude Opus 4.7 context size is source-dependent.** One roundup reports 200K context, while the later comparison article describes 1M context. Treat the exact figure as source-sensitive until upstream docs converge.
 
 ## Chronological Release Log
 
+### Log format
+
+Use one dated block per release wave. If multiple articles land on the same day, append another bullet under the same date instead of creating a new shape.
+
+```md
+### YYYY-MM-DD - {release wave label}
+
+- **Source**: [Publisher](url)
+- **Models**: model A, model B, model C
+- **Why it matters**: one or two lines on the practical impact
+- **Current take**: how the snapshot above should change
+- **Follow-up**: any contradiction, pricing change, or open question
+```
+
 ### 2026-07-10 - Latest comparison snapshot
 
-- [AI/ML API Blog comparison](https://aimlapi.com/blog/top-llm-models-in-2026-the-best-ai-models-for-reasoning-coding-multimodal-tasks) frames the current market around **GPT-5.5**, **Claude Opus 4.7**, **Gemini 3.5 Flash**, **DeepSeek V4 Pro**, and **DeepSeek V4 Flash**.
-- The same comparison positions **Qwen 3.7 Max** and **Llama 4 Scout / Maverick** as the most relevant open-weight alternatives.
-- Best-for split: agentic generalist, repo reasoning, speed-first, coding value, and self-hosting.
+- **Source**: [AI/ML API Blog comparison](https://aimlapi.com/blog/top-llm-models-in-2026-the-best-ai-models-for-reasoning-coding-multimodal-tasks)
+- **Models**: GPT-5.5, Claude Opus 4.7, Gemini 3.5 Flash, DeepSeek V4 Pro, DeepSeek V4 Flash, Qwen 3.7 Max, Llama 4 Scout, Llama 4 Maverick
+- **Why it matters**: it splits the market into safe generalists, repo-reasoners, speed-first models, value coding models, and self-hosting picks.
+- **Current take**: GPT-5.5 stays the safest all-around agentic default; Claude Opus 4.7 stays the best for code review; Gemini 3.5 Flash wins on throughput.
+- **Follow-up**: Open-weight models now belong in the main shortlist, not a separate "interesting" bucket.
 
 ### 2026-06-11 - Spring 2026 release wave
 
-- [Fazm roundup](https://fazm.ai/blog/new-llm-releases-april-2026) captured the major April wave: **GPT-5.5**, **Claude Opus 4.7**, **Gemma 4**, **GLM-5.1**, **Qwen 3.6-Plus**, **Llama 4 Scout**, **Llama 4 Maverick**, and **Arcee Trinity**.
-- That article frames the market as a two-horse race at the top, with GPT-5.5 and Claude Opus 4.7 leading public APIs.
-- It also notes that open models now span everything from consumer GPU deployment to 10M-token long-context work.
+- **Source**: [Fazm roundup](https://fazm.ai/blog/new-llm-releases-april-2026)
+- **Models**: GPT-5.5, Claude Opus 4.7, Gemma 4, GLM-5.1, Qwen 3.6-Plus, Llama 4 Scout, Llama 4 Maverick, Arcee Trinity
+- **Why it matters**: the April wave showed that frontier APIs and open-weight releases were both moving fast.
+- **Current take**: the top of the market is a two-horse race, while open models are good enough for serious self-hosted use.
+- **Follow-up**: preserve this entry as the historical baseline; don't rewrite it when newer models ship.
 
 ### 2026-06-10 - Baseline model-evolution snapshot
 
-- The existing [LLM Model Evolution](2026-06-10_LLMModelEvolution.md) page already anchors the broader evolution story: larger context windows, more MoE systems, and open-weight models that can be self-hosted.
-- Use it as the longer-term concept page, and keep this tracker focused on the latest release changes and the current practical shortlist.
+- **Source**: [LLM Model Evolution](2026-06-10_LLMModelEvolution.md)
+- **Models**: Llama 4 Scout, Gemma 4, Mistral Small 3.1, Phi-4 Mini, DiffusionGemma 26B-A4B-it, Harness-1
+- **Why it matters**: this page started as the broader evolution view for model capabilities, benchmarks, and release dates.
+- **Current take**: keep this older concept page as the background layer; the tracker should carry the newest release wave.
+- **Follow-up**: if the tracker becomes too long, move older dated blocks into an archive page instead of deleting them.
 
 ## Practical shortlist
 
@@ -78,11 +101,25 @@ This page is designed as an **update-first tracker**:
 
 When a new model release lands:
 
-1. Update the **Current Snapshot** first.
-2. Add the outgoing snapshot to the top of **Chronological Release Log**.
-3. Add one bullet under **Practical shortlist** if the new model changes the decision tree.
-4. Link any newly created source article from the release log.
-5. Keep the visible source links at the top so the page stays a real one-stop shop.
+1. Update the **Current release verdict** bullets first.
+2. Prepend a new dated block under **Chronological Release Log**.
+3. Keep older dated blocks below the newest block, unchanged unless a source correction is needed.
+4. Use the fixed log template above so appending a new article is mostly copy, paste, and replace.
+5. If the log gets too long, archive old dated blocks into a sibling page and link to it from here.
+
+## Append-only helper
+
+Copy this block when adding the next release wave:
+
+```md
+### YYYY-MM-DD - {release wave label}
+
+- **Source**: [Publisher](url)
+- **Models**: model A, model B, model C
+- **Why it matters**: 
+- **Current take**: 
+- **Follow-up**: 
+```
 
 ## Source pages to watch
 
@@ -90,3 +127,4 @@ When a new model release lands:
 - [Harness-1](2026-06-10_Harness1.md)
 - [Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price](../../articles/2026-07-10_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md)
 - [New LLM Releases April 2026: Every Major Model Launch This Month](../../articles/2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md)
+- [LLM Release Tracker archive](2026-07-10_LLMReleaseTracker-archive.md)
