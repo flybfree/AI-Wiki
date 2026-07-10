@@ -114,9 +114,10 @@ Use the small generator script when you have a new article file or URL:
 ```bash
 python3 tools/llm_release_block.py path/to/new-article.md --summary path/to/summary.md
 python3 tools/llm_release_block.py https://example.com/new-model-article
+python3 tools/append_latest_llm_release.py
 ```
 
-The script fills in the dated block header, source link, and best-effort model list. It also pulls a short summary snippet when it can, so you only need to edit the bullets that matter.
+The last command does the full loop: it finds the newest model article, generates the dated block, and inserts it at the top of the tracker log. The other two commands are still useful when you want to target a specific article manually.
 
 ## Append-only helper
 
