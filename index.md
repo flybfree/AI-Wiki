@@ -1218,6 +1218,16 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md]] : Frequency-based Constrained Sampling for Interval Patterns
 - [[raw/papers/2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md]] : Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading
 ## ## Papers
+- [[2026-07-09_17-41-49Z_ARDY_AutoregressiveDiffusionwithHybridRepresentati.md]] : ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
+- [[2026-07-09_17-55-52Z_ScoreAccuracyAlongtheForwardDiffusionDoesNotCertif.md]] : Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling
+- [[2026-07-09_17-47-08Z_DimensionalityReductionMeetsNetworkScience_Sensema.md]] : Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph
+- [[2026-07-09_17-55-53Z_IdeasHaveGenomes_BenchmarkingScientificLineageReas.md]] : Ideas Have Genomes: Benchmarking Scientific Lineage Reasoning and Lineage-Grounded Idea Generation
+- [[2026-07-09_17-51-50Z_SLORR_SimpleandEfficientIn_TrainingLow_RankRegular.md]] : SLORR: Simple and Efficient In-Training Low-Rank Regularization
+- [[2026-07-09_17-55-33Z_MulTTiPop_AMultitrackTranscriptionDatasetforPopMus.md]] : MulTTiPop: A Multitrack Transcription Dataset for Pop Music
+- [[2026-07-09_17-46-24Z_AUTOPILOTVQA_BenchmarkingVision_LanguageModelsforI.md]] : AUTOPILOT VQA: Benchmarking Vision-Language Models for Incident-Centric Dashcam Understanding
+- [[2026-07-09_17-58-29Z_OpenCoF_LearningtoReasonThroughVideoGeneration.md]] : OpenCoF: Learning to Reason Through Video Generation
+- [[2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiveAgents.md]] : UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
+- [[2026-07-09_17-49-14Z_UsingAI_basedLearningAssistantsinHigherEducation_A.md]] : Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
 - [[2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegenerationofHighP.md]] : Breaking Database Lock-in: Agentic Regeneration of High Performance Storage Readers for Database Bypass
 - [[2026-07-08_17-49-49Z_SelectiveTimestepWeightingandAdvantage_BasedReplay.md]] : Selective Timestep Weighting and Advantage-Based Replay for Sample-Efficient Diffusion RLHF
 - [[2026-07-08_17-53-56Z_InstitutionalRed_Teaming_DeploymentRules_NotJustMo.md]] : Institutional Red-Teaming: Deployment Rules, Not Just Models, Causally Shape Multi-Agent AI Safety

@@ -1,0 +1,18 @@
+---
+title: Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+published: 2026-07-09T17:49:14Z
+authors: Kristina Schaaff, Quintus Stierstorfer, Valerie Heckel
+url: http://arxiv.org/abs/2607.08748v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Using AI-based Learning Assistants in Higher Education: A Large-Scale Descriptive Analysis
+
+## Abstract
+In this study, we present a large-scale descriptive analysis of the use of an AI-based learning assistant (Syntea) in higher education. Based on objective log data from 77,543 students enrolled in distance studies, we examine usage patterns across gender, age group, study cluster, degree, and study mode. To date, existing research on educational chatbots has largely relied on comparatively small samples and self-reported survey data, while large-scale evidence on actual usage behavior remains limited. Our findings show that Syntea is already embedded in the study routines of many learners, but that usage differs across demographic and structural contexts. By identifying these patterns, our study provides an empirical basis for the further development of AI-based learning support and contributes a large-scale analysis of educational chatbot usage in higher education.
+
+## Metadata
+- **Published**: 2026-07-09T17:49:14Z
+- **Authors**: Kristina Schaaff, Quintus Stierstorfer, Valerie Heckel
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.08748v1)
