@@ -107,6 +107,17 @@ When a new model release lands:
 4. Use the fixed log template above so appending a new article is mostly copy, paste, and replace.
 5. If the log gets too long, archive old dated blocks into a sibling page and link to it from here.
 
+## Automation helper
+
+Use the small generator script when you have a new article file or URL:
+
+```bash
+python3 tools/llm_release_block.py path/to/new-article.md --summary path/to/summary.md
+python3 tools/llm_release_block.py https://example.com/new-model-article
+```
+
+The script fills in the dated block header, source link, and best-effort model list. It also pulls a short summary snippet when it can, so you only need to edit the bullets that matter.
+
 ## Append-only helper
 
 Copy this block when adding the next release wave:
