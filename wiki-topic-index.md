@@ -29,7 +29,9 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ### LLMs & Foundation Models Hub
 
 - [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|LLMs & Foundation Models Hub — Main]]
+- [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker — Current Model Tracker]]
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]]
+- [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]]
 - [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]
 
 ### Claude Opus 4.7
@@ -56,6 +58,12 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 - [[concepts/2026-06-09_AIArchitectureHub.md|AI Architecture Hub — Main]]
 
+### Recent architecture papers
+
+- [[concepts/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integra_summary.md|MCP Server Architecture Patterns for LLM-Integrated Applications]]
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Agent-Native Immune System Architecture: Taxonomy and ...]]
+- [[entities/article/2026-07-10_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|Machine Learning Architecture: What It Is, Components, Types]]
+
 ### Azure Architecture
 - [[articles/2026-04-27_AI_Architecture_Design_-_Azure_Architecture_Center_summary.md|AI Architecture Design - Azure Architecture Center]]
 - [[articles/2026-04-29_Machinelearningoperations-AzureArchitectureCenter_summary.md|Machine Learning Operations - Azure Architecture Center]]
@@ -77,6 +85,15 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ### AI Industry & News Hub
 
 - [[concepts/2026-06-09_AIIndustryAndNewsHub.md|AI Industry & News Hub — Main]]
+- [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]]
+
+### Recent industry signal
+
+- [[entities/article/2026-07-10_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md|AI Updates Today (July 2026): Latest AI Model Releases]]
+- [[entities/article/2026-07-10_Repowise_Codebase_Intelligence_for_AI_Agents_summary.md|Repowise: Codebase Intelligence for AI Agents]]
+- [[entities/article/2026-07-10_GenerativeAIrecentnews_AIBusiness_summary.md|Generative AI Recent News — AI Business]]
+- [[entities/article/2026-07-10_GenerativeAInewsandanalysis_TechCrunch_summary.md|Generative AI News and Analysis — TechCrunch]]
+- [[entities/article/2026-07-10_AIBreakthrough-AIBreakthroughAwards_summary.md|AI Breakthrough Awards]]
 
 ### Monthly AI Updates
 - [[articles/2026-04-25_AI_in_April_2026__Biggest_Breakthroughs__Models____summary.md|AI in April 2026: Biggest Breakthroughs]]
@@ -117,6 +134,13 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 - [[concepts/2026-06-09_AIResearchPapersHub.md|AI Research Papers Hub — Main]]
 
+### Recent paper concepts
+
+- [[concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md|UniClawBench: A Universal Benchmark for Proactive Agents]]
+- [[concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md|Breaking Database Lock in Agentic Regeneration]]
+- [[concepts/papers/2026-07-06_17-55-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md|LLM as a Verifier: A General-Purpose Verification Framework]]
+- [[concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md|Cortex: A Bidirectionally Aligned Embodied Agent Framework]]
+
 ---
 
 ## Concepts & Frameworks
@@ -124,6 +148,13 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ### Agent Systems Hub
 
 - [[concepts/2026-06-09_AgentSystemsHub.md|Agent Systems Hub — Main]]
+
+### Recent agent research
+
+- [[concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md|UniClawBench: A Universal Benchmark for Proactive Agents]]
+- [[concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md|Breaking Database Lock in Agentic Regeneration]]
+- [[concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md|Cortex: A Bidirectionally Aligned Embodied Agent Framework]]
+- [[concepts/papers/2026-07-06_17-55-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md|LLM as a Verifier: A General-Purpose Verification Framework]]
 
 - [[concepts/architecture/2026-05-09_AgentArchitectureEvolution.md|Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)]]
 - [[concepts/frameworks/2026-05-09_AutonomousAgentFrameworks.md|Autonomous Agent Frameworks]]

@@ -32,7 +32,9 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 - [[concepts/2026-06-09_AIArchitectureHub.md|AI Architecture Hub]] — ML pipelines, agent frameworks, and system design
 
 ### Foundation Models & LLMs
-- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]]
+- [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker]] — living model-release tracker
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — frontier snapshot
+- [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — background evolution view
 - [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]
 - Claude Opus 4.7: Anthropic's New Best Model
 - DeepSeek V4 Model Preview
@@ -42,13 +44,22 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 - AI Model Release Timeline 2025-2026
 
 ### AI Architecture & Systems
+- AI Architecture Hub
+- MCP Server Architecture Patterns for LLM-Integrated Applications
+- Agent-Native Immune System Architecture: Taxonomy and ...
+- Machine Learning Architecture: What It Is, Components, Types
 - AI Architecture Design (Azure Architecture Center)
 - Architectures for Machine Learning (Springer Nature)
-- Machine Learning Architecture — Hub
 - Machine Learning Lens: AWS Well-Architected Framework
 - Machine Learning Operations (Azure Architecture Center)
 
 ### AI Industry & Trends
+- AI Industry Trends
+- AI Updates Today (July 2026): Latest AI Model Releases
+- Repowise: Codebase Intelligence for AI Agents
+- Generative AI Recent News — AI Business
+- Generative AI News and Analysis — TechCrunch
+- AI Breakthrough Awards
 - AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts
 - AI Updates Today (April 2026)
 - AI is Now Powering Cyberattacks (Microsoft Warning)
@@ -64,6 +75,11 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 - What is Generative AI? (BMC)
 
 ### Research Papers
+- AI Research Papers Hub
+- UniClawBench: A Universal Benchmark for Proactive Agents
+- Breaking Database Lock in Agentic Regeneration
+- LLM as a Verifier: A General-Purpose Verification Framework
+- Cortex: A Bidirectionally Aligned Embodied Agent Framework
 - MaskGIT: Masked Generative Image Transformer
 - DiffusionLM: Improves Controllable Text Generation
 - Large Concept Models: Language Modeling in Sentence Representation Space

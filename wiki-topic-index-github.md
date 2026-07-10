@@ -29,6 +29,10 @@ GitHub-friendly copy: use this version in the repository/browser.
 ### LLMs & Foundation Models Hub
 
 - [LLMs & Foundation Models Hub — Main](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-06-09_LLMsAndFoundationModelsHub.md)
+- [LLM Release Tracker — Current Model Tracker](https://github.com/flybfree/AI-Wiki/blob/master/concepts/llm-models/2026-07-10_LLMReleaseTracker.md)
+- [Foundation Models State of the Art — 2026-06-30](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-06-30_FoundationModelsStateOfTheArt.md)
+- [LLM Model Evolution](https://github.com/flybfree/AI-Wiki/blob/master/concepts/llm-models/2026-06-10_LLMModelEvolution.md)
+- [Ornith vs Qwythos vs VibeThinker vs Qwen3.6](https://github.com/flybfree/AI-Wiki/blob/master/comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md)
 
 ### Claude Opus 4.7
 - [Claude Opus 4.7: Anthropic's New Best (Available) Model](https://github.com/flybfree/AI-Wiki/blob/master/articles/2026-04-23_Claude_Opus_4_7__Anthropic_s_New_Best__Available___summary.md)
@@ -54,6 +58,12 @@ GitHub-friendly copy: use this version in the repository/browser.
 
 - [AI Architecture Hub — Main](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-06-09_AIArchitectureHub.md)
 
+### Recent architecture papers
+
+- [MCP Server Architecture Patterns for LLM-Integrated Applications](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integra_summary.md)
+- [Agent-Native Immune System Architecture: Taxonomy and ...](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md)
+- [Machine Learning Architecture: What It Is, Components, Types](https://github.com/flybfree/AI-Wiki/blob/master/entities/article/2026-07-10_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md)
+
 ### Azure Architecture
 - [AI Architecture Design - Azure Architecture Center](https://github.com/flybfree/AI-Wiki/blob/master/articles/2026-04-27_AI_Architecture_Design_-_Azure_Architecture_Center_summary.md)
 - [Machine Learning Operations - Azure Architecture Center](https://github.com/flybfree/AI-Wiki/blob/master/articles/2026-04-29_Machinelearningoperations-AzureArchitectureCenter_summary.md)
@@ -75,6 +85,15 @@ GitHub-friendly copy: use this version in the repository/browser.
 ### AI Industry & News Hub
 
 - [AI Industry & News Hub — Main](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-06-09_AIIndustryAndNewsHub.md)
+- [AI Industry Trends](https://github.com/flybfree/AI-Wiki/blob/master/concepts/ai-trends/2026-06-10_AIIndustryTrends.md)
+
+### Recent industry signal
+
+- [AI Updates Today (July 2026): Latest AI Model Releases](https://github.com/flybfree/AI-Wiki/blob/master/entities/article/2026-07-10_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md)
+- [Repowise: Codebase Intelligence for AI Agents](https://github.com/flybfree/AI-Wiki/blob/master/entities/article/2026-07-10_Repowise_Codebase_Intelligence_for_AI_Agents_summary.md)
+- [Generative AI Recent News — AI Business](https://github.com/flybfree/AI-Wiki/blob/master/entities/article/2026-07-10_GenerativeAIrecentnews_AIBusiness_summary.md)
+- [Generative AI News and Analysis — TechCrunch](https://github.com/flybfree/AI-Wiki/blob/master/entities/article/2026-07-10_GenerativeAInewsandanalysis_TechCrunch_summary.md)
+- [AI Breakthrough Awards](https://github.com/flybfree/AI-Wiki/blob/master/entities/article/2026-07-10_AIBreakthrough-AIBreakthroughAwards_summary.md)
 
 ### Monthly AI Updates
 - [AI in April 2026: Biggest Breakthroughs](https://github.com/flybfree/AI-Wiki/blob/master/articles/2026-04-25_AI_in_April_2026__Biggest_Breakthroughs__Models____summary.md)
@@ -115,6 +134,13 @@ GitHub-friendly copy: use this version in the repository/browser.
 
 - [AI Research Papers Hub — Main](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-06-09_AIResearchPapersHub.md)
 
+### Recent paper concepts
+
+- [UniClawBench: A Universal Benchmark for Proactive Agents](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md)
+- [Breaking Database Lock in Agentic Regeneration](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md)
+- [LLM as a Verifier: A General-Purpose Verification Framework](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-07-06_17-55-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md)
+- [Cortex: A Bidirectionally Aligned Embodied Agent Framework](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md)
+
 ---
 
 ## Concepts & Frameworks
@@ -122,6 +148,13 @@ GitHub-friendly copy: use this version in the repository/browser.
 ### Agent Systems Hub
 
 - [Agent Systems Hub — Main](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-06-09_AgentSystemsHub.md)
+
+### Recent agent research
+
+- [UniClawBench: A Universal Benchmark for Proactive Agents](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md)
+- [Breaking Database Lock in Agentic Regeneration](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md)
+- [Cortex: A Bidirectionally Aligned Embodied Agent Framework](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md)
+- [LLM as a Verifier: A General-Purpose Verification Framework](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-07-06_17-55-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md)
 
 - [Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)](https://github.com/flybfree/AI-Wiki/blob/master/concepts/architecture/2026-05-09_AgentArchitectureEvolution.md)
 - [Autonomous Agent Frameworks](https://github.com/flybfree/AI-Wiki/blob/master/concepts/frameworks/2026-05-09_AutonomousAgentFrameworks.md)
