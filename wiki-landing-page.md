@@ -7,8 +7,6 @@ tags: [wiki, landing-page, ai-research, navigation]
 
 # AI Research Wiki
 
-
-
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 This is the central hub for the AI research wiki. Use it to navigate by topic rather than browsing the raw file structure.
 
@@ -32,30 +30,28 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 - [[concepts/2026-06-09_AIArchitectureHub.md|AI Architecture Hub]] — ML pipelines, agent frameworks, and system design
 
 ### Foundation Models & LLMs
+
 - [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker]] — living model-release tracker
 - [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — open-weight frontier + local-use watchlist
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — frontier snapshot (includes Claude Mythos and Fable 5)
 - [[concepts/hermes-agent-guide.md|Fable 5 Integration Notes]] — practical usage guidance
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — background evolution view
 - [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]
-- Claude Opus 4.7: Anthropic's New Best Model
-- DeepSeek V4 Model Preview
-- 10 Best Open-Source LLM Models (2025 Updated)
-- Best Open-Source LLMs April 2026: Benchmarks, Licensing & Deployment
-- LLM Leaderboard 2026: Compare Top AI Models & Rankings
-- AI Model Release Timeline 2025-2026
+- Recent model-release articles: Claude Opus 4.7, DeepSeek V4, 10 Best Open-Source LLM Models, Best Open-Source LLMs April 2026, LLM Leaderboard 2026, AI Model Release Timeline 2025-2026
 
 ### AI Architecture & Systems
+
 - AI Architecture Hub
 - MCP Server Architecture Patterns for LLM-Integrated Applications
 - Agent-Native Immune System Architecture: Taxonomy and ...
 - Machine Learning Architecture: What It Is, Components, Types
 - AI Architecture Design (Azure Architecture Center)
 - Architectures for Machine Learning (Springer Nature)
-- Machine Learning Lens: AWS Well-Architected Framework
+- Machine Learning Lens (AWS Well-Architected Framework)
 - Machine Learning Operations (Azure Architecture Center)
 
 ### AI Industry & Trends
+
 - AI Industry Trends
 - AI Updates Today (July 2026): Latest AI Model Releases
 - Repowise: Codebase Intelligence for AI Agents
@@ -69,6 +65,7 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 - 2026 is Breakthrough Year for Reliable AI World Models
 
 ### AI Definitions & Reference
+
 - ARTIFICIAL Definition & Meaning (Merriam-Webster)
 - ARTIFICIAL Definition & Meaning (Dictionary.com)
 - ARTIFICIAL Definition (Collins English Dictionary)
@@ -77,6 +74,7 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 - What is Generative AI? (BMC)
 
 ### Research Papers
+
 - AI Research Papers Hub
 - UniClawBench: A Universal Benchmark for Proactive Agents
 - Breaking Database Lock in Agentic Regeneration

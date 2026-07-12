@@ -35,20 +35,18 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 - [[concepts/hermes-agent-guide.md|Fable 5 Integration Notes]]
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]]
 - [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]
-
-### Claude Opus 4.7
-- [[articles/2026-04-23_Claude_Opus_4_7__Anthropic_s_New_Best__Available___summary.md|Claude Opus 4.7: Anthropic's New Best (Available) Model]]
-
-### DeepSeek V4
-- [[articles/2026-04-27_China_s_DeepSeek_releases_preview_of_long-awaited__summary.md|DeepSeek V4 Model Preview]]
-- [[articles/2026-04-27_China_s_AI_upstart_DeepSeek_drops_new_model__Will__summary.md|DeepSeek V4: China's AI upstart drops new model]]
+- Recent model-release articles: Claude Opus 4.7, DeepSeek V4, 10 Best Open-Source LLM Models, Best Open-Source LLMs April 2026, LLM Leaderboard 2026, AI Model Release Timeline 2025-2026
 
 ### Open Source LLMs
+
 - [[articles/2026-04-29_10_Best_Open-Source_LLM_Models__2025_Updated___Lla_summary.md|10 Best Open-Source LLM Models (2025 Updated)]]
 - [[articles/2026-04-27_Best_Open-Source_LLMs_April_2026__Benchmarks__Lice_summary.md|Best Open-Source LLMs April 2026]]
 - [[articles/2026-04-28_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben_summary.md|Best LLM Leaderboard 2026]]
+- [[articles/2026-04-29_LLM_News_Today__April_2026____AI_Model_Releases_summary.md|AI Model Release Timeline 2025-2026]]
+- [[articles/2026-04-28_AI_Updates_Today__April_2026____Latest_AI_Model_Re_summary.md|New AI Models 2026: Latest Releases]]
 
 ### AI Model Timelines
+
 - [[articles/2026-04-29_LLM_News_Today__April_2026____AI_Model_Releases_summary.md|AI Model Release Timeline 2025-2026]]
 - [[articles/2026-04-28_AI_Updates_Today__April_2026____Latest_AI_Model_Re_summary.md|New AI Models 2026: Latest Releases]]
 
@@ -65,18 +63,23 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 - [[concepts/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integra_summary.md|MCP Server Architecture Patterns for LLM-Integrated Applications]]
 - [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Agent-Native Immune System Architecture: Taxonomy and ...]]
 - [[entities/article/2026-07-10_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|Machine Learning Architecture: What It Is, Components, Types]]
+- Architecture cluster: Azure Architecture Center, AWS Well-Architected Framework, Springer Nature, and machine-learning systems overview pages
 
 ### Azure Architecture
+
 - [[articles/2026-04-27_AI_Architecture_Design_-_Azure_Architecture_Center_summary.md|AI Architecture Design - Azure Architecture Center]]
 - [[articles/2026-04-29_Machinelearningoperations-AzureArchitectureCenter_summary.md|Machine Learning Operations - Azure Architecture Center]]
 
 ### AWS Well-Architected
+
 - [[articles/2026-04-30_MachineLearningLens-AWSWell-ArchitectedFramework_summary.md|Machine Learning Lens - AWS Well-Architected Framework]]
 
 ### Springer Nature
+
 - [[articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu_summary.md|Architectures for Machine Learning]]
 
 ### Machine Learning Architecture
+
 - [[articles/2026-04-29_Machine_Learning_Architecture__What_It_Is__Compone_summary.md|Machine Learning Architecture: What It Is, Components, Types]]
 - [[articles/2026-04-27_Machine_Learning_Architecture___Process_And_Types__summary.md|Machine Learning Architecture: Process And Types]]
 
@@ -96,15 +99,19 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 - [[entities/article/2026-07-10_GenerativeAIrecentnews_AIBusiness_summary.md|Generative AI Recent News — AI Business]]
 - [[entities/article/2026-07-10_GenerativeAInewsandanalysis_TechCrunch_summary.md|Generative AI News and Analysis — TechCrunch]]
 - [[entities/article/2026-07-10_AIBreakthrough-AIBreakthroughAwards_summary.md|AI Breakthrough Awards]]
+- Industry cluster: Reuters, ScienceDaily, The Conversation, and the recurring AI news roundup pages
 
 ### Monthly AI Updates
+
 - [[articles/2026-04-25_AI_in_April_2026__Biggest_Breakthroughs__Models____summary.md|AI in April 2026: Biggest Breakthroughs]]
 - [[articles/2026-04-28_AI_Updates_Today__April_2026____Latest_AI_Model_Re_summary.md|AI Updates Today (April 2026)]]
 
 ### AI Security
+
 - [[articles/2026-04-27_AI_is_now_powering_cyberattacks__Microsoft_warns_-_summary.md|AI is Now Powering Cyberattacks (Microsoft Warning)]]
 
 ### Industry Analysis
+
 - [[articles/2026-04-29_2026_is_Breakthrough_Year_for_Reliable_AI_World_Mo_summary.md|2026 is Breakthrough Year for Reliable AI]]
 - [[articles/2026-04-28_Inside_the_AI_Index__12_Takeaways_from_the_2026_Re_summary.md|Inside the AI Index: 12 Takeaways]]
 
@@ -113,17 +120,20 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ## AI Definitions & Reference
 
 ### ARTIFICIAL
+
 - [[articles/2026-04-29_ARTIFICIALDefinition_Meaning-Merriam-Webster_summary.md|Merriam-Webster]]
 - [[articles/2026-04-29_ARTIFICIALDefinition_Meaning_Dictionary_com_summary.md|Dictionary.com]]
 - [[articles/2026-04-28_ARTIFICIALdefinitionandmeaning_CollinsEnglishDicti_summary.md|Collins English Dictionary]]
 - [[articles/2026-04-25_ARTIFICIAL___English_meaning_-_Cambridge_Dictionar_summary.md|Cambridge Dictionary]]
 
 ### MACHINE
+
 - [[articles/2026-04-28_MACHINE_Definition___Meaning_-_Merriam-Webster_summary.md|Merriam-Webster]]
 - [[articles/2026-04-28_MACHINE_Definition___Meaning___Dictionary_com_summary.md|Dictionary.com]]
 - [[articles/2026-04-28_Machine_-_Wikipedia_summary.md|Wikipedia]]
 
 ### Generative AI
+
 - [[articles/2026-04-28_What_is_generative_AI__-_IBM_summary.md|IBM]]
 - [[articles/2026-04-28_What_Is_Generative_AI__How_It_Works__Examples__Ben_summary.md|BMC]]
 - [[articles/2026-04-28_Generative_AI_-_Wikipedia_summary.md|Wikipedia]]
@@ -142,6 +152,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 - [[concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md|Breaking Database Lock in Agentic Regeneration]]
 - [[concepts/papers/2026-07-06_17-55-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md|LLM as a Verifier: A General-Purpose Verification Framework]]
 - [[concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md|Cortex: A Bidirectionally Aligned Embodied Agent Framework]]
+- Agent and architecture paper clusters are now grouped above instead of repeated as long raw title dumps
 
 ---
 
@@ -157,7 +168,6 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 - [[concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md|Breaking Database Lock in Agentic Regeneration]]
 - [[concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md|Cortex: A Bidirectionally Aligned Embodied Agent Framework]]
 - [[concepts/papers/2026-07-06_17-55-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md|LLM as a Verifier: A General-Purpose Verification Framework]]
-
 - [[concepts/architecture/2026-05-09_AgentArchitectureEvolution.md|Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)]]
 - [[concepts/frameworks/2026-05-09_AutonomousAgentFrameworks.md|Autonomous Agent Frameworks]]
 - [[concepts/principles/2026-06-08_BuildingEffectiveAgents_Anthropic.md|Building Effective Agents (Anthropic)]]
@@ -170,12 +180,3 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ## Tutorials & Guides
 
 - [[concepts/ai-research/2026-06-10_AIResearchPapers.md|Tutorial: Getting Started with AI Research]]
-
----
-
-## Navigation Tips
-
-1. **Start here**: Use the [[wiki-landing-page.md|Wiki Landing Page]] for an overview
-2. **Browse by topic**: Use this index to find content by subject
-3. **Deep dive**: Click on any link to read the full article
-4. **Recent updates**: Check the [[log.md|log]] for recent additions
