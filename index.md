@@ -204,6 +204,16 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-10_17-39-00Z_SemanticPareto_DQN_AMulti_ObjectiveReinforcementLe.md]] : Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection
+- [[2026-07-10_17-26-19Z_4DR360_StateReasoningforJoint3DDetectionandOccupan.md]] : 4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception
+- [[2026-07-10_17-28-26Z_Lean_QIT_TowardsaFormalInfrastructureforQuantumInf.md]] : Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory
+- [[2026-07-10_17-59-45Z_PHINN_EEG_TopologicalTime_SeriesAnalysisofDream_St.md]] : PHINN-EEG: Topological Time-Series Analysis of Dream-State EEG -- Dynamic Betti Curves for Dream Content Classification and Topology-Conditioned Neural Signal Synthesis
+- [[2026-07-10_17-41-11Z_DeepGaussianProcessesonDirectedAcyclicGraphs.md]] : Deep Gaussian Processes on Directed Acyclic Graphs
+- [[2026-07-10_17-47-38Z_ConceptSMILE_AuditingtheTrustworthinessofConcept_B.md]] : ConceptSMILE: Auditing the Trustworthiness of Concept-Based Explainable AI
+- [[2026-07-10_17-53-37Z_EvolutionofAccuracyandVisual_CognitiveErrorsinaDec.md]] : Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models
+- [[2026-07-10_17-22-49Z_Task_SpecificMultimodalQuestionAnsweringAgentsviaC.md]] : Task-Specific Multimodal Question Answering Agents via Confidence Calibration and Incremental Reasoning for QANTA 2026
+- [[2026-07-10_17-52-29Z_VEXAIoT_AutonomousIoTVulnerabilityEXploitationusin.md]] : VEXAIoT: Autonomous IoT Vulnerability EXploitation using AI Agents
+- [[2026-07-10_17-57-03Z_ScalableVisualPretrainingforLanguageIntelligence.md]] : Scalable Visual Pretraining for Language Intelligence
 - [[2026-07-09_17-41-49Z_ARDY_AutoregressiveDiffusionwithHybridRepresentati.md]] : ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
 - [[2026-07-09_17-55-52Z_ScoreAccuracyAlongtheForwardDiffusionDoesNotCertif.md]] : Score Accuracy Along the Forward Diffusion Does Not Certify Numerical Stability in Diffusion Sampling
 - [[2026-07-09_17-47-08Z_DimensionalityReductionMeetsNetworkScience_Sensema.md]] : Dimensionality Reduction Meets Network Science: Sensemaking on UMAP's kNN Graph
