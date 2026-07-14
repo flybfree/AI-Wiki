@@ -80,6 +80,7 @@ tags: ['wiki']
 ## Concepts
 ### Knowledge Management & Wiki Ops
 - [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — canonical GitHub wiki, local working copy, and Logseq mirror
+- [[concepts/knowledge-management/page-templates.md|Page Templates for the AI Research Wiki]] — copy-paste templates for concept, article, paper, tracker, and hub pages
 
 ### LLM Model Evolution
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — tracking model releases, benchmarks, and capabilities

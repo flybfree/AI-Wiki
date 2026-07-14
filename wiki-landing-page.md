@@ -53,6 +53,7 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 ### Knowledge Management & Wiki Ops
 
 - [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — canonical GitHub wiki, local working copy, and Logseq mirror
+- [[concepts/knowledge-management/page-templates.md|Page Templates for the AI Research Wiki]] — copy-paste templates for concept, article, paper, tracker, and hub pages
 
 ### AI Industry & Trends
 

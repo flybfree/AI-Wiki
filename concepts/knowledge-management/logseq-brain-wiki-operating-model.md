@@ -135,6 +135,7 @@ A strong knowledge page usually has:
 
 ## Related pages
 
+- [[concepts/knowledge-management/page-templates.md|Page Templates for the AI Research Wiki]]
 - [[wiki-landing-page.md|AI Research Wiki — Landing Page]]
 - [[wiki-topic-index.md|AI Research Wiki — Topic Index]]
 - [[index.md|AI Research Wiki Index]]
