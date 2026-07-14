@@ -28,11 +28,20 @@ They are optimized for:
 - Prefer one canonical page per idea
 - Keep navigation pages short and curated
 
----
+## Opinionated defaults
 
-## 1) Concept page template
+Use these defaults unless a page has a strong reason to differ:
 
-Use for durable ideas, frameworks, systems, and recurring themes.
+- **Concept pages** should be learning-first and explanation-heavy
+- **Article and paper summaries** should be retrieval-first and concise
+- **Tracker pages** should surface current state before history
+- **Hub pages** should be navigation-only, not explanatory essays
+- **Summary pages** should always use `Summary:` in both frontmatter title and H1
+- **All pages** should prefer explicit, clickable source links in the rendered body
+
+## 0) Learning-first concept page template
+
+Use this when the goal is understanding, teaching, or building intuition.
 
 ```markdown
 ---
@@ -49,30 +58,72 @@ confidence: high
 
 **Source**: [Original Article](<source-url>)
 
+## In one sentence
+Plain-English definition.
+
 ## What it is
-One short paragraph that defines the concept in plain English.
+Explain the idea carefully but without jargon.
 
 ## Why it matters
-Why this concept is useful, important, or worth tracking.
+Explain the practical importance.
 
-## Key ideas
-- <idea 1>
-- <idea 2>
-- <idea 3>
+## Key terms
+- **Term 1**: definition
+- **Term 2**: definition
 
 ## Example
-A concrete example or scenario.
+Concrete example or scenario.
 
-## Tradeoffs / caveats
-- <tradeoff 1>
-- <tradeoff 2>
+## Common misconceptions
+- <misconception 1>
+- <misconception 2>
 
 ## Related pages
 - [[<related-page-1>]]
 - [[<related-page-2>]]
 ```
 
-## 2) Article summary template
+## 0b) Assistant-optimized retrieval concept template
+
+Use this when the page should answer questions quickly for Hermes.
+
+```markdown
+---
+title: "<Concept Name>"
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+type: concept
+tags: [<topic>, <subtopic>, retrieval]
+sources: ["<source-url>"]
+confidence: high
+---
+
+# <Concept Name>
+
+**Source**: [Original Article](<source-url>)
+
+## Short answer
+One to three sentences that directly answer “what is this?”
+
+## Key facts
+- <fact 1>
+- <fact 2>
+- <fact 3>
+
+## When to use it
+- <use case 1>
+- <use case 2>
+
+## When not to use it
+- <non-use case 1>
+- <non-use case 2>
+
+## Related pages
+- [[<related-page-1>]]
+- [[<related-page-2>]]
+```
+
+## 1) Article summary template
 
 Use for news articles, blog posts, and practical explainers.
 
@@ -111,7 +162,7 @@ Why the article matters to the reader or the research area.
 - [[<topic-hub>]]
 ```
 
-## 3) Paper summary template
+## 2) Paper summary template
 
 Use for academic papers and technical reports.
 
@@ -155,7 +206,7 @@ Why the paper is interesting or important.
 - [[<topic-hub>]]
 ```
 
-## 4) Tracker page template
+## 3) Tracker page template
 
 Use for fast-moving topics where you want the current state plus history.
 
@@ -193,7 +244,7 @@ Short current-state summary.
 - [[<comparison-page>]]
 ```
 
-## 5) Topic hub template
+## 4) Topic hub template
 
 Use for navigation pages that organize a cluster of related pages.
 
@@ -226,6 +277,40 @@ confidence: high
 - [[<related-hub-2>]]
 ```
 
+## 5) Logseq-safe summary template
+
+Use this for any summary page that must not collide with the source title in Logseq.
+
+```markdown
+---
+title: "Summary: <Source Title>"
+created: YYYY-MM-DD
+updated: YYYY-MM-DD
+type: summary
+tags: [summary, <topic>, <source>]
+sources: ["<source-url>"]
+confidence: high
+---
+
+# Summary: <Source Title>
+
+**Source**: [Original Article](<source-url>)
+
+## Summary
+Short overview in plain English.
+
+## Key takeaways
+- <takeaway 1>
+- <takeaway 2>
+
+## Why it matters
+Short explanation of significance.
+
+## Related pages
+- [[<concept-page>]]
+- [[<topic-hub>]]
+```
+
 ## 6) Review checklist
 
 Before saving a page, check:
@@ -241,11 +326,13 @@ Before saving a page, check:
 
 ## Suggested usage
 
-- **Concept pages** for durable understanding
+- **Learning-first concept pages** for teaching and intuition
+- **Assistant-optimized concept pages** for fast question answering
 - **Article summaries** for current web sources
 - **Paper summaries** for research findings
 - **Tracker pages** for living topics
 - **Hub pages** for navigation and discovery
+- **Logseq-safe summaries** for avoiding title collisions
 
 ## Related pages
 
