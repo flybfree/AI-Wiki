@@ -1,9 +1,8 @@
 ---
-title: "2026 06 09 Loopengineering Ai Coding Agents Summary"
+title: "Summary: Loopengineering Ai Coding Agents"
 date: 2026-06-09
-tags: ['wiki']
----
-# Summary: 2026-06-09_LoopEngineering_AI_Coding_Agents.md
+tags: ['wiki']---
+# Summary: Loopengineering Ai Coding Agents
 
 
 **Source**: [Original Article](https://example.com/placeholder)

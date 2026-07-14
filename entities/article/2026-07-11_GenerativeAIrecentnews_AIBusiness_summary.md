@@ -1,4 +1,9 @@
-# Summary: 2026-07-11_GenerativeAIrecentnews_AIBusiness.md
+---
+title: "Summary: Generativeairecentnews Aibusiness"
+date: 2026-07-11
+tags: [summary]---
+
+# Summary: Generativeairecentnews Aibusiness
 Saved: 2026-07-11 00:46
 Source: 2026-07-11_GenerativeAIrecentnews_AIBusiness.md
 Model: none

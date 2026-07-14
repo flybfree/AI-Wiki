@@ -1,4 +1,9 @@
-# Summary: 2026-05-07_Data_Foundation_Web_Sources.md
+---
+title: "Summary: Data Foundation Web Sources"
+date: 2026-05-07
+tags: [summary]---
+
+# Summary: Data Foundation Web Sources
 Saved: 2026-06-22 21:01
 Source: 2026-05-07_Data_Foundation_Web_Sources.md
 Model: nvidia/nemotron-3-nano-4b

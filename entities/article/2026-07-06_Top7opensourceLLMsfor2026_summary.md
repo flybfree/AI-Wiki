@@ -1,4 +1,9 @@
-# Summary: 2026-07-06_Top7opensourceLLMsfor2026.md
+---
+title: "Summary: Top7Opensourcellmsfor2026"
+date: 2026-07-06
+tags: [summary]---
+
+# Summary: Top7Opensourcellmsfor2026
 Saved: 2026-07-06 00:26
 Source: 2026-07-06_Top7opensourceLLMsfor2026.md
 Model: none

@@ -1,12 +1,11 @@
 ---
-title: "Summary: Research: AI Is Changing What Employers Want from New Hires"
+title: "Summary: Research Ai Is Changing What Employers Want From New Hires"
 date: 2026-07-08
 source: https://hbr.org/2026/07/research-ai-is-changing-what-employers-want-from-new-hires
 authors: Jim Doucette, Vishal Gaur
-tags: [hiring, ai, employers, mbas, workforce]
----
+tags: [hiring, ai, employers, mbas, workforce]---
 
-## Summary
+# Summary: ## Summary
 
 Generative AI is transforming what employers expect from knowledge workers—not by replacing expertise but by raising the bar for it. A study of three sectors that recruit the largest proportion of MBA graduates found that three capabilities will increasingly distinguish high-potential talent:
 

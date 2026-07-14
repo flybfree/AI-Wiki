@@ -1,11 +1,10 @@
 ---
-title: "2026 06 14 Thearchitectureofmachinelearningsystems Acomprehen Summary"
+title: "Summary: Thearchitectureofmachinelearningsystems Acomprehen"
 date: 2026-06-14
-tags: ['wiki']
----
+tags: ['wiki']---
 
 
-# Summary: 2026-06-14_TheArchitectureofMachineLearningSystems_AComprehen.md
+# Summary: Thearchitectureofmachinelearningsystems Acomprehen
 
 
 **Source**: [Original Article](https://example.com/placeholder)

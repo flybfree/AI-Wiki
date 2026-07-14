@@ -1,11 +1,10 @@
 ---
-title: "2026 06 15 Top7Opensourcellmsfor2026 Summary"
+title: "Summary: Top7Opensourcellmsfor2026"
 date: 2026-06-15
-tags: ['wiki']
----
+tags: ['wiki']---
 
 
-# Summary: 2026-06-15_Top7opensourceLLMsfor2026.md
+# Summary: Top7Opensourcellmsfor2026
 
 
 **Source**: [Original Article](https://example.com/placeholder)

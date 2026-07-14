@@ -1,9 +1,8 @@
 ---
-title: "2026 06 13 Whatismlarchitecture Summary"
+title: "Summary: Whatismlarchitecture"
 date: 2026-06-13
-tags: ['wiki']
----
-# Summary: 2026-06-13_WhatisMLArchitecture.md
+tags: ['wiki']---
+# Summary: Whatismlarchitecture
 
 
 **Source**: [Original Article](https://example.com/placeholder)

@@ -1,4 +1,9 @@
-# Summary: 2026-07-07_AIBreakthrough-AIBreakthroughAwards.md
+---
+title: "Summary: Aibreakthrough-Aibreakthroughawards"
+date: 2026-07-07
+tags: [summary]---
+
+# Summary: Aibreakthrough-Aibreakthroughawards
 Saved: 2026-07-07 00:01
 Source: 2026-07-07_AIBreakthrough-AIBreakthroughAwards.md
 Model: nvidia/nemotron-3-nano-4b

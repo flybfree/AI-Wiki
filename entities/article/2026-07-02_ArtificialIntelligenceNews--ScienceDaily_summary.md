@@ -1,4 +1,9 @@
-# Summary: 2026-07-02_ArtificialIntelligenceNews--ScienceDaily.md
+---
+title: "Summary: Artificialintelligencenews--Sciencedaily"
+date: 2026-07-02
+tags: [summary]---
+
+# Summary: Artificialintelligencenews--Sciencedaily
 Saved: 2026-07-02 00:00
 Source: 2026-07-02_ArtificialIntelligenceNews--ScienceDaily.md
 Model: nvidia/nemotron-3-nano-4b

@@ -1,9 +1,8 @@
 ---
-title: "2026 06 12 Aiupdatestoday June2026 Latestaimodelreleases Summary"
+title: "Summary: Aiupdatestoday June2026  Latestaimodelreleases"
 date: 2026-06-12
-tags: ['wiki']
----
-# Summary: 2026-06-12_AIUpdatesToday_June2026__LatestAIModelReleases.md
+tags: ['wiki']---
+# Summary: Aiupdatestoday June2026  Latestaimodelreleases
 
 
 **Source**: [Original Article](https://example.com/placeholder)

@@ -1,9 +1,8 @@
 ---
-title: "2026 06 10 Machinelearningarchitecture Whatitis Components Ty Summary"
+title: "Summary: Machinelearningarchitecture Whatitis Components Ty"
 date: 2026-06-10
-tags: ['wiki']
----
-# Summary: 2026-06-10_MachineLearningArchitecture_WhatItIs_Components_Ty.md
+tags: ['wiki']---
+# Summary: Machinelearningarchitecture Whatitis Components Ty
 
 
 **Source**: [Original Article](https://example.com/placeholder)

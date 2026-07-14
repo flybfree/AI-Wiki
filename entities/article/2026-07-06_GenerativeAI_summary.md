@@ -1,4 +1,9 @@
-# Summary: 2026-07-06_GenerativeAI.md
+---
+title: "Summary: Generativeai"
+date: 2026-07-06
+tags: [summary]---
+
+# Summary: Generativeai
 Saved: 2026-07-06 00:13
 Source: 2026-07-06_GenerativeAI.md
 Model: none

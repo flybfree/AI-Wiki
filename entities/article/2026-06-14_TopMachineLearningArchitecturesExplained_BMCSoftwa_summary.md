@@ -1,11 +1,10 @@
 ---
-title: "2026 06 14 Topmachinelearningarchitecturesexplained Bmcsoftwa Summary"
+title: "Summary: Topmachinelearningarchitecturesexplained Bmcsoftwa"
 date: 2026-06-14
-tags: ['wiki']
----
+tags: ['wiki']---
 
 
-# Summary: 2026-06-14_TopMachineLearningArchitecturesExplained_BMCSoftwa.md
+# Summary: Topmachinelearningarchitecturesexplained Bmcsoftwa
 
 
 **Source**: [Original Article](https://example.com/placeholder)

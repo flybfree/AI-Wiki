@@ -1,9 +1,8 @@
 ---
-title: "2026 06 17 Thebestlargelanguagemodels Llms In2026 Summary"
+title: "Summary: Thebestlargelanguagemodels Llms In2026"
 date: 2026-06-17
-tags: ['wiki']
----
-# Summary: 2026-06-17_Thebestlargelanguagemodels_LLMs_in2026.md
+tags: ['wiki']---
+# Summary: Thebestlargelanguagemodels Llms In2026
 
 
 **Source**: [Original Article](https://example.com/placeholder)

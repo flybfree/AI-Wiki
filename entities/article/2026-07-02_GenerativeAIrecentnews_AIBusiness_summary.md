@@ -1,4 +1,9 @@
-# Summary: 2026-07-02_GenerativeAIrecentnews_AIBusiness.md
+---
+title: "Summary: Generativeairecentnews Aibusiness"
+date: 2026-07-02
+tags: [summary]---
+
+# Summary: Generativeairecentnews Aibusiness
 Saved: 2026-07-02 08:00
 Source: 2026-07-02_GenerativeAIrecentnews_AIBusiness.md
 Model: nvidia/nemotron-3-nano-4b

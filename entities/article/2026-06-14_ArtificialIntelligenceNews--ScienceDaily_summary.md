@@ -1,9 +1,8 @@
 ---
-title: "2026 06 14 Artificialintelligencenews Sciencedaily Summary"
+title: "Summary: Artificialintelligencenews--Sciencedaily"
 date: 2026-06-14
-tags: ['wiki']
----
-# Summary: 2026-06-14_ArtificialIntelligenceNews--ScienceDaily.md
+tags: ['wiki']---
+# Summary: Artificialintelligencenews--Sciencedaily
 
 
 **Source**: [Original Article](https://example.com/placeholder)

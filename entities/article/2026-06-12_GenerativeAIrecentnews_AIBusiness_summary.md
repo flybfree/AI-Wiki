@@ -1,9 +1,8 @@
 ---
-title: "2026 06 12 Generativeairecentnews Aibusiness Summary"
+title: "Summary: Generativeairecentnews Aibusiness"
 date: 2026-06-12
-tags: ['wiki']
----
-# Summary: 2026-06-12_GenerativeAIrecentnews_AIBusiness.md
+tags: ['wiki']---
+# Summary: Generativeairecentnews Aibusiness
 
 
 **Source**: [Original Article](https://example.com/placeholder)

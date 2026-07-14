@@ -1,4 +1,9 @@
-# Summary: 2026-07-06_ArtificialIntelligenceNews--ScienceDaily.md
+---
+title: "Summary: Artificialintelligencenews--Sciencedaily"
+date: 2026-07-06
+tags: [summary]---
+
+# Summary: Artificialintelligencenews--Sciencedaily
 Saved: 2026-07-06 00:03
 Source: 2026-07-06_ArtificialIntelligenceNews--ScienceDaily.md
 Model: none

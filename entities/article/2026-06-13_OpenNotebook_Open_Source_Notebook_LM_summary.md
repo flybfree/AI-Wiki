@@ -1,9 +1,8 @@
 ---
-title: "2026 06 13 Opennotebook Open Source Notebook Lm Summary"
+title: "Summary: Opennotebook Open Source Notebook Lm"
 date: 2026-06-13
-tags: ['wiki']
----
-# Summary: 2026-06-13_OpenNotebook_Open_Source_Notebook_LM.md
+tags: ['wiki']---
+# Summary: Opennotebook Open Source Notebook Lm
 
 
 **Source**: [Original Article](https://example.com/placeholder)

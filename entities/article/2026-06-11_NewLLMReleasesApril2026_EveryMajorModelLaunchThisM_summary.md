@@ -1,9 +1,8 @@
 ---
-title: "2026 06 11 Newllmreleasesapril2026 Everymajormodellaunchthism Summary"
+title: "Summary: Newllmreleasesapril2026 Everymajormodellaunchthism"
 date: 2026-06-11
-tags: ['wiki']
----
-# Summary: 2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md
+tags: ['wiki']---
+# Summary: Newllmreleasesapril2026 Everymajormodellaunchthism
 
 
 **Source**: [Original Article](https://example.com/placeholder)

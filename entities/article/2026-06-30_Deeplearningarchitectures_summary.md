@@ -1,4 +1,9 @@
-# Summary: 2026-06-30_Deeplearningarchitectures.md
+---
+title: "Summary: Deeplearningarchitectures"
+date: 2026-06-30
+tags: [summary]---
+
+# Summary: Deeplearningarchitectures
 Saved: 2026-06-30 19:00
 Source: 2026-06-30_Deeplearningarchitectures.md
 Model: nvidia/nemotron-3-nano-4b

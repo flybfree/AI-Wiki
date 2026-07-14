@@ -1,4 +1,9 @@
-# Summary: 2026-06-30_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md
+---
+title: "Summary: Bestllmmodels2026Compared Reasoning Coding Multimo"
+date: 2026-06-30
+tags: [summary]---
+
+# Summary: Bestllmmodels2026Compared Reasoning Coding Multimo
 Saved: 2026-06-30 19:00
 Source: 2026-06-30_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md
 Model: nvidia/nemotron-3-nano-4b

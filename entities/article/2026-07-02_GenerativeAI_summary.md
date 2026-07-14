@@ -1,4 +1,9 @@
-# Summary: 2026-07-02_GenerativeAI.md
+---
+title: "Summary: Generativeai"
+date: 2026-07-02
+tags: [summary]---
+
+# Summary: Generativeai
 Saved: 2026-07-02 00:00
 Source: 2026-07-02_GenerativeAI.md
 Model: nvidia/nemotron-3-nano-4b

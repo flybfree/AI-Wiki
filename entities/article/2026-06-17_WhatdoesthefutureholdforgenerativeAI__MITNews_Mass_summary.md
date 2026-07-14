@@ -1,9 +1,8 @@
 ---
-title: "2026 06 17 Whatdoesthefutureholdforgenerativeai Mitnews Mass Summary"
+title: "Summary: Whatdoesthefutureholdforgenerativeai  Mitnews Mass"
 date: 2026-06-17
-tags: ['wiki']
----
-# Summary: 2026-06-17_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md
+tags: ['wiki']---
+# Summary: Whatdoesthefutureholdforgenerativeai  Mitnews Mass
 
 
 **Source**: [Original Article](https://example.com/placeholder)

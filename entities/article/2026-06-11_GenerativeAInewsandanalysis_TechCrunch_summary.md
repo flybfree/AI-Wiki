@@ -1,9 +1,8 @@
 ---
-title: "2026 06 11 Generativeainewsandanalysis Techcrunch Summary"
+title: "Summary: Generativeainewsandanalysis Techcrunch"
 date: 2026-06-11
-tags: ['wiki']
----
-# Summary: 2026-06-11_GenerativeAInewsandanalysis_TechCrunch.md
+tags: ['wiki']---
+# Summary: Generativeainewsandanalysis Techcrunch
 
 
 **Source**: [Original Article](https://example.com/placeholder)

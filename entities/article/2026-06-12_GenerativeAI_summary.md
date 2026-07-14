@@ -1,9 +1,8 @@
 ---
-title: "2026 06 12 Generativeai Summary"
+title: "Summary: Generativeai"
 date: 2026-06-12
-tags: ['wiki']
----
-# Summary: 2026-06-12_GenerativeAI.md
+tags: ['wiki']---
+# Summary: Generativeai
 
 
 **Source**: [Original Article](https://example.com/placeholder)
