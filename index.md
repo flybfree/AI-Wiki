@@ -852,3 +852,5 @@ tags: ['wiki']
 - [[2026-07-14_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
 - [[2026-07-14_Deeplearningarchitectures.md]] : Deep learning architectures
 - [[2026-07-14_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[2026-07-14_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[2026-07-14_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily

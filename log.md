@@ -982,3 +982,5 @@ tags: ['wiki']
 ## [2026-07-14 00:00] ingest | 2026-07-14_GenerativeAInewsandanalysis_TechCrunch.md
 ## [2026-07-14 00:00] ingest | 2026-07-14_Deeplearningarchitectures.md
 ## [2026-07-14 00:00] ingest | 2026-07-14_AIUpdatesToday_July2026__LatestAIModelReleases.md
+## [2026-07-14 00:43] ingest | 2026-07-14_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md
+## [2026-07-14 00:43] ingest | 2026-07-14_ArtificialIntelligenceNews--ScienceDaily.md
