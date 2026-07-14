@@ -8,7 +8,16 @@ version: 1.0.0
 
 
 
-**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
+**Source**: [GitHub Wiki](https://github.com/flybfree/AI-Wiki/wiki)
+
+## Storage Model
+
+- **Canonical user-facing wiki**: GitHub wiki / local clone at `/home/rich/wiki/ai-research/`
+- **Assistant-facing mirror**: `/home/rich/logseq-brain/pages/ai-research/`
+- **Raw source layer**: `raw/articles/`, `raw/papers/`, `raw/summaries/`
+- **Curated knowledge layer**: `concepts/`, `entities/article/`, `comparisons/`
+- **Navigation layer**: `index.md`, `wiki-topic-index.md`, `wiki-landing-page.md`
+- **Operational layer**: `log.md`, `processed_files.log`, `summarized_files.log`, `analyzed_files.log`
 ## Conventions
 - File names: lowercase, hyphens (e.g., `gpt-4o.md`)
 - Every page starts with YAML frontmatter

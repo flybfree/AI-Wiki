@@ -41,6 +41,8 @@ SECTIONS = ["articles", "comparisons", "concepts", "entities", "papers", "summar
 
 # Top-level wiki files that should be synced to Logseq root
 WIKI_ROOT_PAGES = [
+    "index.md",
+    "SCHEMA.md",
     "ilya-sutskever-reading-list.md",
     "ilya-sutskever-reading-list-study-order.md",
     "wiki-landing-page.md",

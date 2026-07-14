@@ -158,6 +158,10 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ## Concepts & Frameworks
 
+### Knowledge Management & Wiki Ops
+
+- [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — canonical GitHub wiki, local working copy, and Logseq mirror
+
 ### Agent Systems Hub
 
 - [[concepts/2026-06-09_AgentSystemsHub.md|Agent Systems Hub — Main]]

@@ -50,6 +50,10 @@ This is the central hub for the AI research wiki. Use it to navigate by topic ra
 - Machine Learning Lens (AWS Well-Architected Framework)
 - Machine Learning Operations (Azure Architecture Center)
 
+### Knowledge Management & Wiki Ops
+
+- [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — canonical GitHub wiki, local working copy, and Logseq mirror
+
 ### AI Industry & Trends
 
 - AI Industry Trends
