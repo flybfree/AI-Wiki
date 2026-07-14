@@ -1,5 +1,5 @@
 ---
-title: FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model
+title: "Summary: FurnitureVLA: Learning Long-Horizon Bimanual Furniture Assembly with Vision-Language-Action Model"
 url: http://arxiv.org/abs/2607.01212v1
 type: paper-summary
 date: 2026-07-01

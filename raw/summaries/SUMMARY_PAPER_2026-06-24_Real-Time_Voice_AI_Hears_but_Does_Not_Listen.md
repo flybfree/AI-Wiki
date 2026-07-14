@@ -1,5 +1,5 @@
 ---
-title: Real-Time Voice AI Hears but Does Not Listen
+title: "Summary: Real-Time Voice AI Hears but Does Not Listen"
 url: http://arxiv.org/abs/2606.26083v1
 type: paper-summary
 date: 2026-06-24

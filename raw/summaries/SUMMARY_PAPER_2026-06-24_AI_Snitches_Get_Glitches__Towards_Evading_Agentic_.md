@@ -1,5 +1,5 @@
 ---
-title: AI Snitches Get Glitches: Towards Evading Agentic Surveillance
+title: "Summary: AI Snitches Get Glitches: Towards Evading Agentic Surveillance"
 url: http://arxiv.org/abs/2606.25836v1
 type: paper-summary
 date: 2026-06-24

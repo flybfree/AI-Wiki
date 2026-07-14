@@ -1,5 +1,5 @@
 ---
-title: FARS: A Fully Automated Research System Deployed at Scale
+title: "Summary: FARS: A Fully Automated Research System Deployed at Scale"
 url: http://arxiv.org/abs/2606.31651v1
 type: paper-summary
 date: 2026-06-30

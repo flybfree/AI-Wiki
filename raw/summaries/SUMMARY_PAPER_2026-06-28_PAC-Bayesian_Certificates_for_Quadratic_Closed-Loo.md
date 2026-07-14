@@ -1,5 +1,5 @@
 ---
-title: PAC-Bayesian Certificates for Quadratic Closed-Loop Control
+title: "Summary: PAC-Bayesian Certificates for Quadratic Closed-Loop Control"
 url: http://arxiv.org/abs/2606.28281v1
 type: paper-summary
 date: 2026-06-28

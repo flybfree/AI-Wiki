@@ -1,5 +1,5 @@
 ---
-title: When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors
+title: "Summary: When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors"
 url: http://arxiv.org/abs/2606.32029v1
 type: paper-summary
 date: 2026-06-30

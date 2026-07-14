@@ -1,5 +1,5 @@
 ---
-title: LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning
+title: "Summary: LACUNA: A Testbed for Evaluating Localization Precision for LLM Unlearning"
 url: http://arxiv.org/abs/2607.02513v1
 type: paper-summary
 date: 2026-07-02

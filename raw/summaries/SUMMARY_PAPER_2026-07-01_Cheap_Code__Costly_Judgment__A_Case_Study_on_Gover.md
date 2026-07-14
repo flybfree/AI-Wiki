@@ -1,5 +1,5 @@
 ---
-title: Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering
+title: "Summary: Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering"
 url: http://arxiv.org/abs/2607.01087v1
 type: paper-summary
 date: 2026-07-01

@@ -1,5 +1,5 @@
 ---
-title: Think in English, Answer in Korean: Efficient Adaptation of Multilingual Tool-Using Agents
+title: "Summary: Think in English, Answer in Korean: Efficient Adaptation of Multilingual Tool-Using Agents"
 url: http://arxiv.org/abs/2606.31648v1
 type: paper-summary
 date: 2026-06-30

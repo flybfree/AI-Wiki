@@ -1,5 +1,5 @@
 ---
-title: GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache
+title: "Summary: GSRQ: Gain-Shape Residual Quantization for Sub-1-bit KV Cache"
 url: http://arxiv.org/abs/2607.01065v1
 type: paper-summary
 date: 2026-07-01

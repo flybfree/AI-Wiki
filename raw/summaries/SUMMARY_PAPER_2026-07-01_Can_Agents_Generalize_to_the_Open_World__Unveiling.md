@@ -1,5 +1,5 @@
 ---
-title: Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use
+title: "Summary: Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use"
 url: http://arxiv.org/abs/2607.01084v1
 type: paper-summary
 date: 2026-07-01

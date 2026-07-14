@@ -1,5 +1,5 @@
 ---
-title: AI-Assisted Computational Reproducibility on the FABRIC Testbed
+title: "Summary: AI-Assisted Computational Reproducibility on the FABRIC Testbed"
 url: http://arxiv.org/abs/2606.25879v1
 type: paper-summary
 date: 2026-06-24

@@ -1,5 +1,5 @@
 ---
-title: Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation
+title: "Summary: Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation"
 url: http://arxiv.org/abs/2606.28268v1
 type: paper-summary
 date: 2026-06-28

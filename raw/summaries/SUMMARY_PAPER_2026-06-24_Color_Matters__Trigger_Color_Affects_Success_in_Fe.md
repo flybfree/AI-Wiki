@@ -1,5 +1,5 @@
 ---
-title: Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks
+title: "Summary: Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks"
 url: http://arxiv.org/abs/2606.25858v1
 type: paper-summary
 date: 2026-06-24

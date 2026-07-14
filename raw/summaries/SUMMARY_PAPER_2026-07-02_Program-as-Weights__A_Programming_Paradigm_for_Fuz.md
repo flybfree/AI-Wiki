@@ -1,5 +1,5 @@
 ---
-title: Program-as-Weights: A Programming Paradigm for Fuzzy Functions
+title: "Summary: Program-as-Weights: A Programming Paradigm for Fuzzy Functions"
 url: http://arxiv.org/abs/2607.02512v1
 type: paper-summary
 date: 2026-07-02

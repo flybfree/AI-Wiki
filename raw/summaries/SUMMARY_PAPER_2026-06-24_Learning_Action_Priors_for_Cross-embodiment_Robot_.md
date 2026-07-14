@@ -1,5 +1,5 @@
 ---
-title: Learning Action Priors for Cross-embodiment Robot Manipulation
+title: "Summary: Learning Action Priors for Cross-embodiment Robot Manipulation"
 url: http://arxiv.org/abs/2606.26095v1
 type: paper-summary
 date: 2026-06-24

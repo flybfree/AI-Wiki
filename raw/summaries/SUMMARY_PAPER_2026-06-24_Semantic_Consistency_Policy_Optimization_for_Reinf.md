@@ -1,5 +1,5 @@
 ---
-title: Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents
+title: "Summary: Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents"
 url: http://arxiv.org/abs/2606.25852v1
 type: paper-summary
 date: 2026-06-24

@@ -1,5 +1,5 @@
 ---
-title: Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions
+title: "Summary: Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions"
 url: http://arxiv.org/abs/2606.30310v1
 type: paper-summary
 date: 2026-06-29

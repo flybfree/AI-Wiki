@@ -1,5 +1,5 @@
 ---
-title: Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization
+title: "Summary: Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization"
 url: http://arxiv.org/abs/2606.28307v1
 type: paper-summary
 date: 2026-06-28

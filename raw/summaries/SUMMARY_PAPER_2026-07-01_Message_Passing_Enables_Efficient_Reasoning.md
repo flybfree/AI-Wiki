@@ -1,5 +1,5 @@
 ---
-title: Message Passing Enables Efficient Reasoning
+title: "Summary: Message Passing Enables Efficient Reasoning"
 url: http://arxiv.org/abs/2607.01077v1
 type: paper-summary
 date: 2026-07-01

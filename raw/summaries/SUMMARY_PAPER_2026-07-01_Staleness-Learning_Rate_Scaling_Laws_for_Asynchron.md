@@ -1,5 +1,5 @@
 ---
-title: Staleness-Learning Rate Scaling Laws for Asynchronous RLHF
+title: "Summary: Staleness-Learning Rate Scaling Laws for Asynchronous RLHF"
 url: http://arxiv.org/abs/2607.01083v1
 type: paper-summary
 date: 2026-07-01

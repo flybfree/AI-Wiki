@@ -1,5 +1,5 @@
 ---
-title: Online Safety Monitoring for LLMs
+title: "Summary: Online Safety Monitoring for LLMs"
 url: http://arxiv.org/abs/2607.02510v1
 type: paper-summary
 date: 2026-07-02

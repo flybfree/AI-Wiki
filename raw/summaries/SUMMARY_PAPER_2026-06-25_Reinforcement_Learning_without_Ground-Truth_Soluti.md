@@ -1,5 +1,5 @@
 ---
-title: Reinforcement Learning without Ground-Truth Solutions can Improve LLMs
+title: "Summary: Reinforcement Learning without Ground-Truth Solutions can Improve LLMs"
 url: http://arxiv.org/abs/2606.27369v1
 type: paper-summary
 date: 2026-06-25

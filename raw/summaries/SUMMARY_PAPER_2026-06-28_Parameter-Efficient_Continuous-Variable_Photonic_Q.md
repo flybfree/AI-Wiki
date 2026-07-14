@@ -1,5 +1,5 @@
 ---
-title: Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection
+title: "Summary: Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection"
 url: http://arxiv.org/abs/2606.28252v1
 type: paper-summary
 date: 2026-06-28

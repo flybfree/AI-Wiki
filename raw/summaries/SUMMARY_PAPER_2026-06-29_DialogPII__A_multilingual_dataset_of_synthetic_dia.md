@@ -1,5 +1,5 @@
 ---
-title: DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information
+title: "Summary: DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information"
 url: http://arxiv.org/abs/2606.30312v1
 type: paper-summary
 date: 2026-06-29

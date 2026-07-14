@@ -1,5 +1,5 @@
 ---
-title: LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models
+title: "Summary: LongVQUBench: Benchmarking Long-Term Video Quality Understanding of Vision-Language Models"
 url: http://arxiv.org/abs/2607.01086v1
 type: paper-summary
 date: 2026-07-01

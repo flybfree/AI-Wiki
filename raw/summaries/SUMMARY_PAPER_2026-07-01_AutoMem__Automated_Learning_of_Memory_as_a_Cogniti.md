@@ -1,5 +1,5 @@
 ---
-title: AutoMem: Automated Learning of Memory as a Cognitive Skill
+title: "Summary: AutoMem: Automated Learning of Memory as a Cognitive Skill"
 url: http://arxiv.org/abs/2607.01224v1
 type: paper-summary
 date: 2026-07-01

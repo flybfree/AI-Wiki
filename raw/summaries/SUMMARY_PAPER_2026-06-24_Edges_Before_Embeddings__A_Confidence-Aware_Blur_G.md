@@ -1,5 +1,5 @@
 ---
-title: Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines
+title: "Summary: Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines"
 url: http://arxiv.org/abs/2606.25838v1
 type: paper-summary
 date: 2026-06-24

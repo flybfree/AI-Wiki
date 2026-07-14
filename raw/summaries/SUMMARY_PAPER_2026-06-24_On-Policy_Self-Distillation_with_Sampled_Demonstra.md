@@ -1,5 +1,5 @@
 ---
-title: On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity
+title: "Summary: On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity"
 url: http://arxiv.org/abs/2606.26091v1
 type: paper-summary
 date: 2026-06-24

@@ -1,5 +1,5 @@
 ---
-title: Generative Skill Composition for LLM Agents
+title: "Summary: Generative Skill Composition for LLM Agents"
 url: http://arxiv.org/abs/2606.32025v1
 type: paper-summary
 date: 2026-06-30

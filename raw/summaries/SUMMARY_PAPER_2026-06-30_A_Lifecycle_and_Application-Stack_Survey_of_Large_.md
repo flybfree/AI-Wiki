@@ -1,5 +1,5 @@
 ---
-title: A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems
+title: "Summary: A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems"
 url: http://arxiv.org/abs/2606.31639v1
 type: paper-summary
 date: 2026-06-30

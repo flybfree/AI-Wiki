@@ -1,5 +1,5 @@
 ---
-title: Democratic ICAI: Debating Our Way to Steering Principles from Preferences
+title: "Summary: Democratic ICAI: Debating Our Way to Steering Principles from Preferences"
 url: http://arxiv.org/abs/2606.28294v1
 type: paper-summary
 date: 2026-06-28

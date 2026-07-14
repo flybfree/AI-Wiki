@@ -1,5 +1,5 @@
 ---
-title: ManimAgent: Self-Evolving Multimodal Agents for Visual Education
+title: "Summary: ManimAgent: Self-Evolving Multimodal Agents for Visual Education"
 url: http://arxiv.org/abs/2606.30296v1
 type: paper-summary
 date: 2026-06-29

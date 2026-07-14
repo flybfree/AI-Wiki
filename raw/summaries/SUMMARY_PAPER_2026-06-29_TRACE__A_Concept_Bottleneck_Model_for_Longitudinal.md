@@ -1,5 +1,5 @@
 ---
-title: TRACE: A Concept Bottleneck Model for Longitudinal 3D Glioblastoma Response Assessment
+title: "Summary: TRACE: A Concept Bottleneck Model for Longitudinal 3D Glioblastoma Response Assessment"
 url: http://arxiv.org/abs/2606.30313v1
 type: paper-summary
 date: 2026-06-29

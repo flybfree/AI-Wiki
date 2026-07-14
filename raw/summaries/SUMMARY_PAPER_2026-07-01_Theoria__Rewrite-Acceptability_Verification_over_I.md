@@ -1,5 +1,5 @@
 ---
-title: Theoria: Rewrite-Acceptability Verification over Informal Reasoning States
+title: "Summary: Theoria: Rewrite-Acceptability Verification over Informal Reasoning States"
 url: http://arxiv.org/abs/2607.01223v1
 type: paper-summary
 date: 2026-07-01

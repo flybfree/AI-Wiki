@@ -1,5 +1,5 @@
 ---
-title: Agent-Native Immune System: Architecture, Taxonomy, and Engineering
+title: "Summary: Agent-Native Immune System: Architecture, Taxonomy, and Engineering"
 url: http://arxiv.org/abs/2606.28270v1
 type: paper-summary
 date: 2026-06-28

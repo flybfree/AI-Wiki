@@ -1,5 +1,5 @@
 ---
-title: GROW$^2$: Grounding Which and Where for Robot Tool Use
+title: "Summary: GROW$^2$: Grounding Which and Where for Robot Tool Use"
 url: http://arxiv.org/abs/2606.30632v1
 type: paper-summary
 date: 2026-06-30

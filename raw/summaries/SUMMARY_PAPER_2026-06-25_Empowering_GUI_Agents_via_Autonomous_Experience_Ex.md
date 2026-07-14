@@ -1,5 +1,5 @@
 ---
-title: Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning
+title: "Summary: Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning"
 url: http://arxiv.org/abs/2606.27330v1
 type: paper-summary
 date: 2026-06-25

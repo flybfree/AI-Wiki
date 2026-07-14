@@ -1,5 +1,5 @@
 ---
-title: Towards Automating Scientific Review with Google's Paper Assistant Tool
+title: "Summary: Towards Automating Scientific Review with Google's Paper Assistant Tool"
 url: http://arxiv.org/abs/2606.28277v1
 type: paper-summary
 date: 2026-06-28

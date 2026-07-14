@@ -1,5 +1,5 @@
 ---
-title: When are likely answers right? On Sequence Probability and Correctness in LLMs
+title: "Summary: When are likely answers right? On Sequence Probability and Correctness in LLMs"
 url: http://arxiv.org/abs/2606.27359v1
 type: paper-summary
 date: 2026-06-25

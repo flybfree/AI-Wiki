@@ -1,5 +1,5 @@
 ---
-title: Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes
+title: "Summary: Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes"
 url: http://arxiv.org/abs/2606.28308v1
 type: paper-summary
 date: 2026-06-28

@@ -1,5 +1,5 @@
 ---
-title: TiRex-2: Generalizing TiRex to Multivariate Data and Streaming
+title: "Summary: TiRex-2: Generalizing TiRex to Multivariate Data and Streaming"
 url: http://arxiv.org/abs/2607.01204v1
 type: paper-summary
 date: 2026-07-01

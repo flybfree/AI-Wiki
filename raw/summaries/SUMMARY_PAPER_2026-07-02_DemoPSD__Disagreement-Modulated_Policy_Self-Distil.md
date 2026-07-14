@@ -1,5 +1,5 @@
 ---
-title: DemoPSD: Disagreement-Modulated Policy Self-Distillation
+title: "Summary: DemoPSD: Disagreement-Modulated Policy Self-Distillation"
 url: http://arxiv.org/abs/2607.02502v1
 type: paper-summary
 date: 2026-07-02

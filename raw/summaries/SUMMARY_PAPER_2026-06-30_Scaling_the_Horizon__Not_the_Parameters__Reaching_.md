@@ -1,5 +1,5 @@
 ---
-title: Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent
+title: "Summary: Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent"
 url: http://arxiv.org/abs/2606.30616v1
 type: paper-summary
 date: 2026-06-30

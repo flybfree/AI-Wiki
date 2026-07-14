@@ -1,5 +1,5 @@
 ---
-title: LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training
+title: "Summary: LeVo 2: Stable and Melodious Song Generation via Hierarchical Representation Modeling and Progressive Post-Training"
 url: http://arxiv.org/abs/2606.30642v1
 type: paper-summary
 date: 2026-06-30

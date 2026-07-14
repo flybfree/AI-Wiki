@@ -1,5 +1,5 @@
 ---
-title: Controllable Sim Agents with Behavior Latents
+title: "Summary: Controllable Sim Agents with Behavior Latents"
 url: http://arxiv.org/abs/2607.02496v1
 type: paper-summary
 date: 2026-07-02

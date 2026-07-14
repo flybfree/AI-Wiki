@@ -1,5 +1,5 @@
 ---
-title: DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand
+title: "Summary: DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand"
 url: http://arxiv.org/abs/2606.28323v1
 type: paper-summary
 date: 2026-06-28

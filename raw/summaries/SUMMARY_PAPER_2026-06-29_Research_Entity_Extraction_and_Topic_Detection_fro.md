@@ -1,5 +1,5 @@
 ---
-title: Research Entity Extraction and Topic Detection from UKRI Grant Proposals
+title: "Summary: Research Entity Extraction and Topic Detection from UKRI Grant Proposals"
 url: http://arxiv.org/abs/2606.30304v1
 type: paper-summary
 date: 2026-06-29

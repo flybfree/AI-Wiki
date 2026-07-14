@@ -1,5 +1,5 @@
 ---
-title: Surprises in Proper Positive-Only Learning
+title: "Summary: Surprises in Proper Positive-Only Learning"
 url: http://arxiv.org/abs/2606.28309v1
 type: paper-summary
 date: 2026-06-28

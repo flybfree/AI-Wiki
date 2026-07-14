@@ -1,5 +1,5 @@
 ---
-title: Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?
+title: "Summary: Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?"
 url: http://arxiv.org/abs/2607.01211v1
 type: paper-summary
 date: 2026-07-01

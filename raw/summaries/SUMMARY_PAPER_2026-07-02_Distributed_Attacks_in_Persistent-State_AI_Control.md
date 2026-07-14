@@ -1,5 +1,5 @@
 ---
-title: Distributed Attacks in Persistent-State AI Control
+title: "Summary: Distributed Attacks in Persistent-State AI Control"
 url: http://arxiv.org/abs/2607.02514v1
 type: paper-summary
 date: 2026-07-02

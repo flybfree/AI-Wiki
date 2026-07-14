@@ -1,5 +1,5 @@
 ---
-title: Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models
+title: "Summary: Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models"
 url: http://arxiv.org/abs/2606.26079v1
 type: paper-summary
 date: 2026-06-24

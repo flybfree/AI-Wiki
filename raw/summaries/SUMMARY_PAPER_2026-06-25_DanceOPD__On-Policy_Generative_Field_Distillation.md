@@ -1,5 +1,5 @@
 ---
-title: DanceOPD: On-Policy Generative Field Distillation
+title: "Summary: DanceOPD: On-Policy Generative Field Distillation"
 url: http://arxiv.org/abs/2606.27377v1
 type: paper-summary
 date: 2026-06-25

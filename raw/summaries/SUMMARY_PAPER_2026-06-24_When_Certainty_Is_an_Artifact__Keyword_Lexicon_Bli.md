@@ -1,5 +1,5 @@
 ---
-title: When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance
+title: "Summary: When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance"
 url: http://arxiv.org/abs/2606.26062v1
 type: paper-summary
 date: 2026-06-24

@@ -1,5 +1,5 @@
 ---
-title: A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks
+title: "Summary: A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks"
 url: http://arxiv.org/abs/2606.26059v1
 type: paper-summary
 date: 2026-06-24

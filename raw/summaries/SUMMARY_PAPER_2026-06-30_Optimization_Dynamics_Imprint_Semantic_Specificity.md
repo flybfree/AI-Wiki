@@ -1,5 +1,5 @@
 ---
-title: Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms
+title: "Summary: Optimization Dynamics Imprint Semantic Specificity in Contrastive Embedding Norms"
 url: http://arxiv.org/abs/2606.30625v1
 type: paper-summary
 date: 2026-06-30

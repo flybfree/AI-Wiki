@@ -1,5 +1,5 @@
 ---
-title: FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data
+title: "Summary: FLORA: A deep learning approach to predict forest attributes from heterogeneous LiDAR data"
 url: http://arxiv.org/abs/2606.32023v1
 type: paper-summary
 date: 2026-06-30

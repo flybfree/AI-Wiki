@@ -1,5 +1,5 @@
 ---
-title: AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search
+title: "Summary: AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search"
 url: http://arxiv.org/abs/2606.25871v1
 type: paper-summary
 date: 2026-06-24

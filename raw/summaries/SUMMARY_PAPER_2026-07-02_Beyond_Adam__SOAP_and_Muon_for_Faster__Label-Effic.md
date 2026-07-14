@@ -1,5 +1,5 @@
 ---
-title: Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials
+title: "Summary: Beyond Adam: SOAP and Muon for Faster, Label-Efficient Training of Machine Learning Interatomic Potentials"
 url: http://arxiv.org/abs/2607.02499v1
 type: paper-summary
 date: 2026-07-02

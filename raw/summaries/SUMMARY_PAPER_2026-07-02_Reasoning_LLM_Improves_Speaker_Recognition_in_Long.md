@@ -1,5 +1,5 @@
 ---
-title: Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas
+title: "Summary: Reasoning LLM Improves Speaker Recognition in Long-form TV Dramas"
 url: http://arxiv.org/abs/2607.02504v1
 type: paper-summary
 date: 2026-07-02

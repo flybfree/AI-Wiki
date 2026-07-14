@@ -1,5 +1,5 @@
 ---
-title: Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data
+title: "Summary: Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data"
 url: http://arxiv.org/abs/2606.25894v1
 type: paper-summary
 date: 2026-06-24

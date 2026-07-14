@@ -1,5 +1,5 @@
 ---
-title: VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes
+title: "Summary: VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes"
 url: http://arxiv.org/abs/2606.30645v1
 type: paper-summary
 date: 2026-06-30

@@ -1,5 +1,5 @@
 ---
-title: C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders
+title: "Summary: C$^{2}$R: Cross-sample Consistency Regularization Mitigates Feature Splitting and Absorption in Sparse Autoencoders"
 url: http://arxiv.org/abs/2606.30609v1
 type: paper-summary
 date: 2026-06-30

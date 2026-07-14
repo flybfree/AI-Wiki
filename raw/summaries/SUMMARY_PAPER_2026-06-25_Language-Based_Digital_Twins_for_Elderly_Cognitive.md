@@ -1,5 +1,5 @@
 ---
-title: Language-Based Digital Twins for Elderly Cognitive Assistance
+title: "Summary: Language-Based Digital Twins for Elderly Cognitive Assistance"
 url: http://arxiv.org/abs/2606.27334v1
 type: paper-summary
 date: 2026-06-25

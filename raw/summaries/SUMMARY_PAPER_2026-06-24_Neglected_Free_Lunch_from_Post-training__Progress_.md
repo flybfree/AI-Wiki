@@ -1,5 +1,5 @@
 ---
-title: Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents
+title: "Summary: Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents"
 url: http://arxiv.org/abs/2606.26080v1
 type: paper-summary
 date: 2026-06-24

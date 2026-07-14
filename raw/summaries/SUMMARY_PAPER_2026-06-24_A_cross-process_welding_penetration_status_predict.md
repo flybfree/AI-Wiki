@@ -1,5 +1,5 @@
 ---
-title: A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding
+title: "Summary: A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding"
 url: http://arxiv.org/abs/2606.26078v1
 type: paper-summary
 date: 2026-06-24

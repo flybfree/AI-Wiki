@@ -1,5 +1,5 @@
 ---
-title: Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment
+title: "Summary: Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment"
 url: http://arxiv.org/abs/2606.26071v1
 type: paper-summary
 date: 2026-06-24

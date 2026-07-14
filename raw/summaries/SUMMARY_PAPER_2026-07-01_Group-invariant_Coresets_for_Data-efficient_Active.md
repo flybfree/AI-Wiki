@@ -1,5 +1,5 @@
 ---
-title: Group-invariant Coresets for Data-efficient Active Learning
+title: "Summary: Group-invariant Coresets for Data-efficient Active Learning"
 url: http://arxiv.org/abs/2607.01089v1
 type: paper-summary
 date: 2026-07-01

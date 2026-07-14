@@ -1,5 +1,5 @@
 ---
-title: Hallucination in World Models is Predictable and Preventable
+title: "Summary: Hallucination in World Models is Predictable and Preventable"
 url: http://arxiv.org/abs/2606.27326v1
 type: paper-summary
 date: 2026-06-25

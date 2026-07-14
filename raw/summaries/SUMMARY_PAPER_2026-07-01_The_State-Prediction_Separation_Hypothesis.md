@@ -1,5 +1,5 @@
 ---
-title: The State-Prediction Separation Hypothesis
+title: "Summary: The State-Prediction Separation Hypothesis"
 url: http://arxiv.org/abs/2607.01218v1
 type: paper-summary
 date: 2026-07-01

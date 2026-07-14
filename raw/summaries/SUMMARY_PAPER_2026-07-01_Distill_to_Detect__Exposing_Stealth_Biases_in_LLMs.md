@@ -1,5 +1,5 @@
 ---
-title: Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation
+title: "Summary: Distill to Detect: Exposing Stealth Biases in LLMs through Cartridge Distillation"
 url: http://arxiv.org/abs/2607.01208v1
 type: paper-summary
 date: 2026-07-01

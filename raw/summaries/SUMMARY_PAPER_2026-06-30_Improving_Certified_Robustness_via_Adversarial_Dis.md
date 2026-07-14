@@ -1,5 +1,5 @@
 ---
-title: Improving Certified Robustness via Adversarial Distillation
+title: "Summary: Improving Certified Robustness via Adversarial Distillation"
 url: http://arxiv.org/abs/2606.31653v1
 type: paper-summary
 date: 2026-06-30

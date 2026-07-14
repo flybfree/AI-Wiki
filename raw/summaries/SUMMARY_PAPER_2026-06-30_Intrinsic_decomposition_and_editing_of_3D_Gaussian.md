@@ -1,5 +1,5 @@
 ---
-title: Intrinsic decomposition and editing of 3D Gaussian splats
+title: "Summary: Intrinsic decomposition and editing of 3D Gaussian splats"
 url: http://arxiv.org/abs/2606.31637v1
 type: paper-summary
 date: 2026-06-30

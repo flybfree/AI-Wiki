@@ -1,5 +1,5 @@
 ---
-title: MemSyco-Bench: Benchmarking Sycophancy in Agent Memory
+title: "Summary: MemSyco-Bench: Benchmarking Sycophancy in Agent Memory"
 url: http://arxiv.org/abs/2607.01071v1
 type: paper-summary
 date: 2026-07-01

@@ -1,5 +1,5 @@
 ---
-title: Language-Critique Imitation Learning from Suboptimal Demonstrations
+title: "Summary: Language-Critique Imitation Learning from Suboptimal Demonstrations"
 url: http://arxiv.org/abs/2607.01225v1
 type: paper-summary
 date: 2026-07-01

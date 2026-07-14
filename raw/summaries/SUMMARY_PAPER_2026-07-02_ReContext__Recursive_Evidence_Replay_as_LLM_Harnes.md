@@ -1,5 +1,5 @@
 ---
-title: ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning
+title: "Summary: ReContext: Recursive Evidence Replay as LLM Harness for Long-Context Reasoning"
 url: http://arxiv.org/abs/2607.02509v1
 type: paper-summary
 date: 2026-07-02

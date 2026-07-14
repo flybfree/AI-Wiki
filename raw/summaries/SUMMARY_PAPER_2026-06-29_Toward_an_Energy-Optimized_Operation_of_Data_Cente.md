@@ -1,5 +1,5 @@
 ---
-title: Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning
+title: "Summary: Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning"
 url: http://arxiv.org/abs/2606.30316v1
 type: paper-summary
 date: 2026-06-29

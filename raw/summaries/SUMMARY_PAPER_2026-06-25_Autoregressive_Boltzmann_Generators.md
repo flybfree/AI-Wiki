@@ -1,5 +1,5 @@
 ---
-title: Autoregressive Boltzmann Generators
+title: "Summary: Autoregressive Boltzmann Generators"
 url: http://arxiv.org/abs/2606.27361v1
 type: paper-summary
 date: 2026-06-25

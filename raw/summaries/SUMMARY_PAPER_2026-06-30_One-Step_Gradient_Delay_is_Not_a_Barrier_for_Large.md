@@ -1,5 +1,5 @@
 ---
-title: One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining
+title: "Summary: One-Step Gradient Delay is Not a Barrier for Large-Scale Asynchronous Pipeline Parallel LLM Pretraining"
 url: http://arxiv.org/abs/2606.30634v1
 type: paper-summary
 date: 2026-06-30

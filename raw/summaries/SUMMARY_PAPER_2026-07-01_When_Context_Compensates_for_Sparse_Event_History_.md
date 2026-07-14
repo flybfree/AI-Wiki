@@ -1,5 +1,5 @@
 ---
-title: When Context Compensates for Sparse Event History: AlphaEarth for Spatio-Temporal Point-Process Forecasting
+title: "Summary: When Context Compensates for Sparse Event History: AlphaEarth for Spatio-Temporal Point-Process Forecasting"
 url: http://arxiv.org/abs/2607.01082v1
 type: paper-summary
 date: 2026-07-01

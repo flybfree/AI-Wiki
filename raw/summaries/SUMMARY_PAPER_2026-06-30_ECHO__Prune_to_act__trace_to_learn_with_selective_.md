@@ -1,5 +1,5 @@
 ---
-title: ECHO: Prune to act, trace to learn with selective turn memory in agentic RL
+title: "Summary: ECHO: Prune to act, trace to learn with selective turn memory in agentic RL"
 url: http://arxiv.org/abs/2606.31650v1
 type: paper-summary
 date: 2026-06-30

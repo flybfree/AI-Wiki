@@ -1,5 +1,5 @@
 ---
-title: Freeform Preference Learning for Robotic Manipulation
+title: "Summary: Freeform Preference Learning for Robotic Manipulation"
 url: http://arxiv.org/abs/2606.32027v1
 type: paper-summary
 date: 2026-06-30

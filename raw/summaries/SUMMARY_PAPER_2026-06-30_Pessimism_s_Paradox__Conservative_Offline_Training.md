@@ -1,5 +1,5 @@
 ---
-title: Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models
+title: "Summary: Pessimism's Paradox: Conservative Offline Training Amplifies Reward Hacking During Online Adaptation in Reasoning Models"
 url: http://arxiv.org/abs/2606.30627v1
 type: paper-summary
 date: 2026-06-30

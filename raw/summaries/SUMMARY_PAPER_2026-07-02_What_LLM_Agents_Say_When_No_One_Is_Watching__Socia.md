@@ -1,5 +1,5 @@
 ---
-title: What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates
+title: "Summary: What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates"
 url: http://arxiv.org/abs/2607.02507v1
 type: paper-summary
 date: 2026-07-02

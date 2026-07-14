@@ -1,5 +1,5 @@
 ---
-title: Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training
+title: "Summary: Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training"
 url: http://arxiv.org/abs/2607.01232v1
 type: paper-summary
 date: 2026-07-01

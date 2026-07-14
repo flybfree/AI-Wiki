@@ -1,5 +1,5 @@
 ---
-title: Tone-Conditioned Curriculum Learning for Low-Resource Bantu Speech Recognition
+title: "Summary: Tone-Conditioned Curriculum Learning for Low-Resource Bantu Speech Recognition"
 url: http://arxiv.org/abs/2606.31642v1
 type: paper-summary
 date: 2026-06-30

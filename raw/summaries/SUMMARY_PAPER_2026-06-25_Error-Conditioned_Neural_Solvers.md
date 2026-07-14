@@ -1,5 +1,5 @@
 ---
-title: Error-Conditioned Neural Solvers
+title: "Summary: Error-Conditioned Neural Solvers"
 url: http://arxiv.org/abs/2606.27354v1
 type: paper-summary
 date: 2026-06-25

@@ -1,5 +1,5 @@
 ---
-title: Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline
+title: "Summary: Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline"
 url: http://arxiv.org/abs/2606.27347v1
 type: paper-summary
 date: 2026-06-25

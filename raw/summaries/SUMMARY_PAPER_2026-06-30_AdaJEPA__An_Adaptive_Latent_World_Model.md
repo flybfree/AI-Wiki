@@ -1,5 +1,5 @@
 ---
-title: AdaJEPA: An Adaptive Latent World Model
+title: "Summary: AdaJEPA: An Adaptive Latent World Model"
 url: http://arxiv.org/abs/2606.32026v1
 type: paper-summary
 date: 2026-06-30

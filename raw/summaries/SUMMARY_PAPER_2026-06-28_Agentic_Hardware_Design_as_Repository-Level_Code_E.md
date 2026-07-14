@@ -1,5 +1,5 @@
 ---
-title: Agentic Hardware Design as Repository-Level Code Evolution
+title: "Summary: Agentic Hardware Design as Repository-Level Code Evolution"
 url: http://arxiv.org/abs/2606.28279v1
 type: paper-summary
 date: 2026-06-28

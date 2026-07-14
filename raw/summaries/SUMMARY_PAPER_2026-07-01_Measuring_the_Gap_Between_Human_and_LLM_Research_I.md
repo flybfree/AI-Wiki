@@ -1,5 +1,5 @@
 ---
-title: Measuring the Gap Between Human and LLM Research Ideas
+title: "Summary: Measuring the Gap Between Human and LLM Research Ideas"
 url: http://arxiv.org/abs/2607.01233v1
 type: paper-summary
 date: 2026-07-01

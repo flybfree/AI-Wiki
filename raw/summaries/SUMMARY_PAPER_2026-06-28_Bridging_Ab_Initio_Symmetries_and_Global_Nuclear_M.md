@@ -1,5 +1,5 @@
 ---
-title: Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks
+title: "Summary: Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks"
 url: http://arxiv.org/abs/2606.28287v1
 type: paper-summary
 date: 2026-06-28

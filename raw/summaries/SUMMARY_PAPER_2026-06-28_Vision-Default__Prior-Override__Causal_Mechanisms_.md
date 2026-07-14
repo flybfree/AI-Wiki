@@ -1,5 +1,5 @@
 ---
-title: Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models
+title: "Summary: Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models"
 url: http://arxiv.org/abs/2606.28273v1
 type: paper-summary
 date: 2026-06-28

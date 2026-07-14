@@ -1,5 +1,5 @@
 ---
-title: A Tutorial on Autonomous Fault-Tolerant Control Using Knowledge-Grounded LLM Agents
+title: "Summary: A Tutorial on Autonomous Fault-Tolerant Control Using Knowledge-Grounded LLM Agents"
 url: http://arxiv.org/abs/2606.31635v1
 type: paper-summary
 date: 2026-06-30

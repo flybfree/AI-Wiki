@@ -39,11 +39,11 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ### Open Source LLMs
 
-- [[articles/2026-04-29_10_Best_Open-Source_LLM_Models__2025_Updated___Lla_summary.md|10 Best Open-Source LLM Models (2025 Updated)]]
-- [[articles/2026-04-27_Best_Open-Source_LLMs_April_2026__Benchmarks__Lice_summary.md|Best Open-Source LLMs April 2026]]
-- [[articles/2026-04-28_Best_LLM_Leaderboard_2026___AI_Model_Rankings__Ben_summary.md|Best LLM Leaderboard 2026]]
-- [[articles/2026-04-29_LLM_News_Today__April_2026____AI_Model_Releases_summary.md|AI Model Release Timeline 2025-2026]]
-- [[articles/2026-04-28_AI_Updates_Today__April_2026____Latest_AI_Model_Re_summary.md|New AI Models 2026: Latest Releases]]
+- [[entities/article/2026-07-13_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|Machine Learning Architecture: What It Is, Components, Types]] — updated July 13
+- [[entities/article/2026-07-13_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md|AI Updates Today (July 2026): Latest AI Model Releases]]
+- [[entities/article/2026-07-13_GenerativeAInewsandanalysis_TechCrunch_summary.md|Generative AI News and Analysis — TechCrunch]]
+- [[entities/article/2026-07-13_GenerativeAIrecentnews_AIBusiness_summary.md|Generative AI Recent News — AI Business]]
+- [[entities/article/2026-07-13_AIBreakthrough-AIBreakthroughAwards_summary.md|AI Breakthrough Awards]]
 
 ### AI Model Timelines
 
@@ -60,7 +60,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ### Recent architecture papers
 
-- [[concepts/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integra_summary.md|MCP Server Architecture Patterns for LLM-Integrated Applications]]
+- [[entities/article/2026-07-13_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|MCP Server Architecture Patterns for LLM-Integrated Applications]] — updated July 13
 - [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Agent-Native Immune System Architecture: Taxonomy and ...]]
 - [[entities/article/2026-07-10_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|Machine Learning Architecture: What It Is, Components, Types]]
 - Architecture cluster: Azure Architecture Center, AWS Well-Architected Framework, Springer Nature, and machine-learning systems overview pages

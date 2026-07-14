@@ -1,5 +1,5 @@
 ---
-title: Calibration, Not Compilation: Detecting and Repairing Misspecified Probabilistic Programs Written by Language Models
+title: "Summary: Calibration, Not Compilation: Detecting and Repairing Misspecified Probabilistic Programs Written by Language Models"
 url: http://arxiv.org/abs/2606.31630v1
 type: paper-summary
 date: 2026-06-30

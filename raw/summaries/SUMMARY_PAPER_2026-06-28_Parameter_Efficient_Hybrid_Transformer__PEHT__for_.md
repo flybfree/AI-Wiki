@@ -1,5 +1,5 @@
 ---
-title: Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration
+title: "Summary: Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration"
 url: http://arxiv.org/abs/2606.28274v1
 type: paper-summary
 date: 2026-06-28

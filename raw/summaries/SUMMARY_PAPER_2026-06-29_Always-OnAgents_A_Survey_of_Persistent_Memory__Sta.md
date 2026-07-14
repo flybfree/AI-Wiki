@@ -1,5 +1,5 @@
 ---
-title: Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents
+title: "Summary: Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents"
 url: http://arxiv.org/abs/2606.30306v1
 type: paper-summary
 date: 2026-06-29
