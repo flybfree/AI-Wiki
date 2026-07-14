@@ -160,7 +160,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ### Knowledge Management & Wiki Ops
 
-- [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — canonical GitHub wiki, local working copy, and Logseq mirror
+- [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — GitHub wiki, local working copy, Logseq mirror, and PRISM user working copy
 - [[concepts/knowledge-management/page-templates.md|Page Templates for the AI Research Wiki]] — copy-paste templates for concept, article, paper, tracker, and hub pages
 
 ### Agent Systems Hub

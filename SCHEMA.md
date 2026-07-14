@@ -12,8 +12,9 @@ version: 1.0.0
 
 ## Storage Model
 
-- **Canonical user-facing wiki**: GitHub wiki / local clone at `/home/rich/wiki/ai-research/`
-- **Assistant-facing mirror**: `/home/rich/logseq-brain/pages/ai-research/`
+- **Canonical user-facing wiki**: GitHub wiki / local working copy at `/home/rich/wiki/ai-research/`
+- **Assistant-facing graph mirror**: `/home/rich/logseq-brain/pages/ai-research/`
+- **PRISM working copy / backup**: `192.168.3.89/wiki` and `192.168.3.89/logseq-brain`
 - **Raw source layer**: `raw/articles/`, `raw/papers/`, `raw/summaries/`
 - **Curated knowledge layer**: `concepts/`, `entities/article/`, `comparisons/`
 - **Navigation layer**: `index.md`, `wiki-topic-index.md`, `wiki-landing-page.md`

@@ -14,13 +14,13 @@ confidence: high
 
 This page defines how the AI Research wiki and the Logseq brain should work together:
 - the **wiki** is the curated, user-facing reference system
-- the **Logseq brain** is the assistant-facing mirror for fast retrieval and graph use
-- the **GitHub wiki** is the canonical, remote, user-friendly access layer Rich actually uses
-- the local copy under `/home/rich/wiki/ai-research/` is the primary working clone Hermes edits
+- the **Logseq brain** is the assistant-facing graph mirror for fast retrieval and graph use
+- the **GitHub wiki** is the published, user-facing layer Rich actually uses
+- the local working copy under `/home/rich/wiki/ai-research/` is the primary copy Hermes edits
 
 ## Core principle
 
-If the GitHub wiki and the local mirror disagree, the **GitHub wiki wins** for user-facing content.
+If the GitHub wiki and the local wiki disagree, the **GitHub wiki** wins for user-facing content.
 The local Logseq mirror exists so Hermes and Logseq can read and navigate the same material quickly.
 
 ## Storage map
@@ -31,7 +31,7 @@ The local Logseq mirror exists so Hermes and Logseq can read and navigate the sa
 | Local wiki working copy | `/home/rich/wiki/ai-research/` | Source files Hermes edits before pushing |
 | Logseq mirror | `/home/rich/logseq-brain/pages/ai-research/` | Synced copy for Logseq graph use and assistant retrieval |
 | SMB mirror / backup | `192.168.3.62/share` | Shared mirror for accessibility and backup workflows |
-| PRISM mirror / user working copy | `192.168.3.89/wiki` and `192.168.3.89/logseq-brain` | Secondary backup plus the GPU-machine working copy |
+| PRISM mirror / user working copy | `192.168.3.89/wiki` and `192.168.3.89/logseq-brain` | Secondary backup and GPU-machine working copy |
 | Raw articles | `raw/articles/` | Immutable article captures |
 | Raw papers | `raw/papers/` | Immutable paper captures |
 | Raw summaries | `raw/summaries/` | Historical summary outputs and legacy summary files |
@@ -90,7 +90,7 @@ Examples:
 3. Add cross-links from related concept and navigation pages.
 4. Push the local wiki working copy to GitHub.
 5. Sync the wiki into the Logseq mirror.
-6. Sync the local wiki and Logseq mirror into PRISM as the user-accessible backup copy.
+6. Sync the local wiki and Logseq mirror into PRISM as the user-accessible working copy.
 7. Reindex / refresh Logseq if needed.
 8. Run maintenance checks for duplicates, broken links, and missing summaries.
 
