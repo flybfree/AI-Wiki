@@ -7,6 +7,7 @@ source_paper: 2026-06-21_16-27-24Z_Context_AwareDistillationandAblationforText2D
 generated_at: 2026-06-22 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Context-Aware Distillation And Ablation For Text2D
 
 ## Summary
 This paper introduces context‑aware distillation for Text2DSL, replacing prompt‑only generation with a teacher model operating under a structured context that includes BNF grammar, API specifications, and a closed identifier vocabulary. The approach yields a verified PolkitBench corpus of 10,073 natural‑language‑to‑Polkit‑rule pairs with near‑perfect validation scores, while ablation studies reveal that the full context (C7) is essential for high performance.

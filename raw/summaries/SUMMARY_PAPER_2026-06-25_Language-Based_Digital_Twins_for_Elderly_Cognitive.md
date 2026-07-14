@@ -7,6 +7,7 @@ source_paper: 2026-06-25_17-45-53Z_Language_BasedDigitalTwinsforElderlyCognitive
 generated_at: 2026-06-25 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-25 Language-Based Digital Twins For Elderly Cognitive
 
 ## Summary
 This paper introduces a language‑based digital twin framework that uses large language models to replicate the conversational style of elderly users by integrating stylometric cues and contextual metadata. The authors evaluate the model’s fidelity using a multi‑head conditional variational autoencoder that reconstructs inputs while predicting cognitive scores on the I‑CONECT dataset. Results show the twin preserves identity‑specific traits, achieves reconstruction errors comparable to raw data, and predicts MoCA scores with performance matching real subjects, outperforming baseline GPT responses.

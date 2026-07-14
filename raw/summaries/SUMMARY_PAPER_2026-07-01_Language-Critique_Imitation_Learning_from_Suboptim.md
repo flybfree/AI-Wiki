@@ -7,6 +7,7 @@ source_paper: 2026-07-01_17-57-22Z_Language_CritiqueImitationLearningfromSubopti
 generated_at: 2026-07-01 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Language-Critique Imitation Learning From Suboptim
 
 ## Summary
 The paper introduces a language-critique framework that uses natural language labels from suboptimal demonstrations to train imitation learning policies without collapsing feedback into scalar scores. It proposes loss functions LC-BC for behavior cloning and LC-DP for diffusion policies, showing they upper-bound the expert performance gap. Experiments on navigation, manipulation, and gameplay tasks demonstrate consistent superiority over baselines.

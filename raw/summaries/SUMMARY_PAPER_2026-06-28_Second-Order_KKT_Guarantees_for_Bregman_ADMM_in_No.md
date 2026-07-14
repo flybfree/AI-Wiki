@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-52-39Z_Second_OrderKKTGuaranteesforBregmanADMMinNonc
 generated_at: 2026-06-28 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Second-Order Kkt Guarantees For Bregman Admm In No
 
 ## Summary
 The paper analyzes Bregman ADMM for nonconvex linearly constrained problems under two-sided relative smoothness, replacing Lipschitz gradient with a Hessian comparison via a Bregman kernel. It proves that one iteration defines a smooth fixed-point map whose strict-saddle KKT points are unstable, leading to almost sure convergence to a strict saddle from random initialization. The analysis also extends to multi-block star consensus in distributed settings.

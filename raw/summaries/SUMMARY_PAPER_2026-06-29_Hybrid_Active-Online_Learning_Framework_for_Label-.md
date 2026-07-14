@@ -7,6 +7,7 @@ source_paper: 2026-06-29_14-04-08Z_HybridActive_OnlineLearningFrameworkforLabel_
 generated_at: 2026-06-29 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-29 Hybrid Active-Online Learning Framework For Label-
 
 ## Summary
 The paper introduces a hybrid active‑online learning framework that adapts to concept drift in optical network failure detection with minimal labeling effort. The method uses margin‑based selective labeling to achieve near ceiling accuracy and high AUC while querying only 3.4 % of streaming samples, and it incurs negligible latency overhead compared with static inference.

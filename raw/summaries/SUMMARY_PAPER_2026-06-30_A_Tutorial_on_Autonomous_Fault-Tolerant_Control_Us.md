@@ -7,6 +7,7 @@ source_paper: 2026-06-30_13-19-45Z_ATutorialonAutonomousFault_TolerantControlUsi
 generated_at: 2026-06-30 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 A Tutorial On Autonomous Fault-Tolerant Control Us
 
 ## Summary
 This paper introduces a framework that uses large language model agents as constrained supervisory planners for autonomous fault recovery in process plants. The LLM generates recovery actions based on plant knowledge, and an external validator checks each proposal before actuation. Two executable Python environments are provided to implement case studies of a modular mixing unit and a continuous stirred‑tank reactor.

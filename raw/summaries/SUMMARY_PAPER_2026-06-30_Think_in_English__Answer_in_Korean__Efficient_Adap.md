@@ -7,6 +7,7 @@ source_paper: 2026-06-30_13-29-16Z_ThinkinEnglish_AnswerinKorean_EfficientAdapta
 generated_at: 2026-06-30 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Think In English  Answer In Korean  Efficient Adap
 
 ## Summary
 This paper introduces LuckyStar 111B, a hybrid reasoning model built from Cohere’s Command A pretrained on 111 billion parameters, adapted for Korean‑English enterprise agents with limited memory and serving resources. The authors evaluate four scaling strategies—multilingual fine‑tuning, verifiable reinforcement learning rewards, language‑consistency incentives, and 4‑bit quantization—to achieve efficient tool‑using performance while retaining instruction‑following quality.

@@ -7,6 +7,7 @@ source_paper: 2026-06-24_14-25-39Z_AnAnalysisofPosteriorCollapse_Parameterizatio
 generated_at: 2026-06-24 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 An Analysis Of Posterior Collapse  Parameterizatio
 
 ## Summary
 The paper investigates posterior collapse in variational deep Gaussian processes and shows that it is linked to the DSVI algorithm and linear prior mean functions. It proposes an alternative initialization that mimics a linear prior at start, preventing collapse and improving training stability. Experiments confirm that this method yields comparable or better performance than standard DGPs.

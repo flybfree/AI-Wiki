@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-24-21Z_PAC_BayesianCertificatesforQuadraticClosed_Lo
 generated_at: 2026-06-28 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Pac-Bayesian Certificates For Quadratic Closed-Loo
 
 ## Summary
 The paper introduces PAC-Bayesian certificates for quadratic closed‑loop control, addressing the difficulty of applying standard finite‑sample bounds to learning‑based control where trajectory cost is unbounded and non‑Lipschitz. It leverages System Level Synthesis parameterization to expose the closed‑loop map and provides exact Gaussian transform and tractable quadratic upper bounds using sensitivity quantities. The approach yields a deterministic mean response deployment that retains stochastic posterior guarantees.

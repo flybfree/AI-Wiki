@@ -7,6 +7,7 @@ source_paper: 2026-06-30_17-53-09Z_GenerativeSkillCompositionforLLMAgents.md
 generated_at: 2026-06-30 23:33
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Generative Skill Composition For Llm Agents
 
 ## Summary
 The paper introduces SkillComposer, a method for structured skill composition that predicts an executable plan specifying which skills to use, how many, and in what order. It achieves higher pass rates on coding tasks than retrieval‑based baselines and is trained on a human‑curated skill library evaluated both on composition quality metrics and downstream task success.

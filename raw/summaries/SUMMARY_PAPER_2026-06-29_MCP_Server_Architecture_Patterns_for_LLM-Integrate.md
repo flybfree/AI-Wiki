@@ -7,6 +7,7 @@ source_paper: 2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integrate
 generated_at: 2026-06-29 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-29 Mcp Server Architecture Patterns For Llm-Integrate
 
 ## Summary
 The paper introduces a taxonomy of five MCP server architectural patterns observed in fifteen production servers, describing each pattern’s context, problem, solution, and consequences. It also records four anti‑patterns and cross‑cutting concerns such as authentication, versioning, and observability. Quantitative evaluation shows high inter‑rater reliability (Cohen's kappa 0.76) and quantifies tool‑selection accuracy drops beyond a certain threshold.

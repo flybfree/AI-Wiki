@@ -7,6 +7,7 @@ source_paper: 2026-06-23_17-21-03Z_MatchingTaskstoObjectives_Fine_TuningandPromp
 generated_at: 2026-06-24 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Matching Tasks To Objectives  Fine-Tuning And Prom
 
 ## Summary
 This paper investigates how different pre‑training objectives affect the performance of encoder‑decoder language models on generation and question‑answering tasks, especially commonsense retrieval and completion. The authors propose a Match Task to Objective (MTO) framework that automatically selects the most suitable objective for each task and introduces fine‑tuning templates aligned with those objectives. Experiments show that these strategies can boost few‑shot performance by over 120 % compared with conventional methods.

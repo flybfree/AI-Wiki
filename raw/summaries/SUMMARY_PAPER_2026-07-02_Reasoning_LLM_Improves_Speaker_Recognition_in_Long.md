@@ -7,6 +7,7 @@ source_paper: 2026-07-02_17-58-52Z_ReasoningLLMImprovesSpeakerRecognitioninLong_
 generated_at: 2026-07-02 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-02 Reasoning Llm Improves Speaker Recognition In Long
 
 ## Summary
 The paper presents DramaSR-LRM, a reasoning‑based speaker recognition system for long‑form TV dramas that outperforms previous methods on both acoustic and multimodal evidence. It introduces the DramaSR-532K benchmark with 532K annotated lines across many characters and shows the new model achieves higher accuracy especially for short utterances.

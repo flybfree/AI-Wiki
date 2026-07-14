@@ -7,6 +7,7 @@ source_paper: 2026-06-30_17-52-22Z_SemRF_ASemanticReferenceFrameforResidual_Stre
 generated_at: 2026-06-30 23:33
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Semrf  A Semantic Reference Frame For Residual-Str
 
 ## Summary
 SemRF introduces a semantic reference frame that separates measurement from residual dynamics in language models, enabling precise analysis of how model behavior evolves across depth. By fixing anchors and using pseudo‑inverse tying, the method yields stable coordinate frames and quantifies within‑cell motion.

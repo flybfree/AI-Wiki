@@ -7,6 +7,7 @@ source_paper: 2026-06-24_14-27-16Z_A3D_PrintableDatasetforFairTestingandComparis
 generated_at: 2026-06-24 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 A 3D-Printable Dataset For Fair Testing And Compar
 
 ## Summary
 This paper presents a 3D‑printable texture dataset created from mathematically defined patterns to enable fair testing of tactile sensors. The study shows that print quality, especially peak sharpness and stringing, influences tactile variance, with high‑end printers yielding more consistent sensor readings across the textures.

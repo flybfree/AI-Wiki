@@ -7,6 +7,7 @@ source_paper: 2026-06-24_17-53-26Z_SameEvidence_DifferentAnswer_AuditingOrderSen
 generated_at: 2026-06-24 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Same Evidence  Different Answer  Auditing Order Se
 
 ## Summary
 The paper audits order sensitivity in multimodal large language models by testing how shuffling input order affects answers across a set of models. It finds that all models exhibit noticeable answer flips, ranging from 24% to 50%, indicating strong dependence on ordering despite shared evidence.

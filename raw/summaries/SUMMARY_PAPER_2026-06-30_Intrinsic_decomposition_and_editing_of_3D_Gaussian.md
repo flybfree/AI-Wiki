@@ -7,6 +7,7 @@ source_paper: 2026-06-30_13-20-44Z_Intrinsicdecompositionandeditingof3DGaussians
 generated_at: 2026-06-30 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Intrinsic Decomposition And Editing Of 3D Gaussian
 
 ## Summary
 The paper proposes a method to decompose and edit 3D Gaussian splat radiance fields using intrinsic decomposition. It models the decomposition as independent sets of Gaussian primitives, learns them from multi-view images, and allows texture editing without affecting lighting. The workflow enables users to modify planar surface colors directly.

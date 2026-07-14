@@ -7,6 +7,7 @@ source_paper: 2026-06-23_17-52-21Z_FLUX3D_High_Fidelity3DGaussianGenerationwithD
 generated_at: 2026-06-24 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Flux3D  High-Fidelity 3D Gaussian Generation With 
 
 ## Summary
 This paper introduces FLUX3D, a framework that generates high‑fidelity 3D Gaussian Splatting images from 2D inputs while preserving fine visual details. It tackles two bottlenecks: the loss of high‑frequency cues in sparse voxel representations and misalignment between dense image tokens and sparse voxels during diffusion generation. The authors report substantial gains in appearance fidelity over existing state‑of‑the‑art methods.

@@ -3,6 +3,7 @@ title: "Summary: Summary 2026 04 29 What Is The Difference Between New Object An
 date: 2026-06-19
 tags: ['wiki']
 ---
+# Summary: Summary 2026-04-29 What Is The Difference Between  New Object    And 
 
 ## Summary
 

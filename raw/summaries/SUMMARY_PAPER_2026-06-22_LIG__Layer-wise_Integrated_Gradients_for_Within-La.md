@@ -7,6 +7,7 @@ source_paper: 2026-06-19_16-02-22Z_LIG_Layer_wiseIntegratedGradientsforWithin_La
 generated_at: 2026-06-22 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Lig  Layer-Wise Integrated Gradients For Within-La
 
 ## Summary
 The paper introduces LIG, a method for analyzing within‑layer flow in Transformers using set‑to‑set Integrated Gradients across module boundaries, achieving agreement with layer‑whole attribution and revealing token‑to‑token contributions without retraining.

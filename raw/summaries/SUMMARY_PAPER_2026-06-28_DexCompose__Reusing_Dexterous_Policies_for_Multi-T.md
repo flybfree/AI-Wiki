@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-59-57Z_DexCompose_ReusingDexterousPoliciesforMulti_T
 generated_at: 2026-06-28 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Dexcompose  Reusing Dexterous Policies For Multi-T
 
 ## Summary
 The paper introduces DexCompose, a framework for composing pretrained dexterous manipulation policies into multi‑task sequences using a single hand. It achieves a 77.4% average success rate across 16 composite tasks by preserving existing skill states while adding new actions. The method relies on finger‑level action ownership and dual residual modules.

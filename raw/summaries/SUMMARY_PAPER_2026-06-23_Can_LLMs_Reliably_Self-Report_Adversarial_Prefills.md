@@ -7,6 +7,7 @@ source_paper: 2026-06-22_17-56-30Z_CanLLMsReliablySelf_ReportAdversarialPrefills
 generated_at: 2026-06-23 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-23 Can Llms Reliably Self-Report Adversarial Prefills
 
 ## Summary
 The paper investigates whether large language models can reliably detect when their own outputs have been altered by adversarial prefill attacks, and it finds that none do so consistently across a range of model sizes and safety benchmarks. Across ten open-weight LLMs and four safety tests, the average rate at which models claim intent on compromised responses is only 27.3%, indicating a strong lack of self‑reporting ability.

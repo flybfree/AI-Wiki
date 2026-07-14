@@ -7,6 +7,7 @@ source_paper: 2026-06-21_16-29-25Z_StationaryRobustMean_FieldGamesunderModelMism
 generated_at: 2026-06-22 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Stationary Robust Mean-Field Games Under Model Mis
 
 ## Summary
 The paper introduces a stationary mean‑field game framework that directly accounts for distributional model uncertainty in multi‑agent reinforcement learning, showing how worst‑case transition models affect population dynamics. It proves the existence of a robust equilibrium via a contractive Bellman operator and provides an algorithm with convergence guarantees.

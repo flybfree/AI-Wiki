@@ -7,6 +7,7 @@ source_paper: 2026-06-19_15-56-16Z_Rubric_as_Experts_Case_SpecificMQMRubricsforT
 generated_at: 2026-06-22 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Rubric-As-Experts  Case-Specific Mqm Rubrics For T
 
 ## Summary
 This paper proposes a case‑specific dynamic rubric framework for fine‑grained translation quality evaluation (QE) that adapts MQM evaluation spaces to individual translation instances. Experiments on WMT span‑level benchmarks show the framework improves mean cross‑correlation coefficient (MCC) and yields cleaner error localization compared with static rubric settings.

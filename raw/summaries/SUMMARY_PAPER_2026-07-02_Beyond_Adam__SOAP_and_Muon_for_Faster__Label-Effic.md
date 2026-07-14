@@ -7,6 +7,7 @@ source_paper: 2026-07-02_17-57-31Z_BeyondAdam_SOAPandMuonforFaster_Label_Efficie
 generated_at: 2026-07-02 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-02 Beyond Adam  Soap And Muon For Faster  Label-Effic
 
 ## Summary
 The paper introduces a suite of matrix‑structured optimizers—SOAP, Muon, and their hybrid SOAP‑Muon—and conducts a systematic comparison with the widely used Adam optimizer for training MLIP models such as NequIP and Allegro. The results show that these new methods can achieve faster convergence and higher final accuracy than Adam, especially when only partial force supervision is available.

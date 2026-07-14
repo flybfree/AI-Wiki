@@ -7,6 +7,7 @@ source_paper: 2026-07-01_15-38-00Z_BalancingExpressivityandLearnabilityinQuantum
 generated_at: 2026-07-01 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Balancing Expressivity And Learnability In Quantum
 
 ## Summary
 This paper proposes projected quantum kernels and classical approximations to reduce the dimensionality of Gaussian process bandit optimization when using quantum kernels. The authors derive regret bounds that balance approximation error with information gain, showing that simpler models can achieve lower cumulative regret while being more sample‑efficient than full high‑dimensional quantum kernels.

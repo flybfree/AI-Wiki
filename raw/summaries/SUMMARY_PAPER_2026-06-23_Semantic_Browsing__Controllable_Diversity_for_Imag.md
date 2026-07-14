@@ -7,6 +7,7 @@ source_paper: 2026-06-22_17-59-17Z_SemanticBrowsing_ControllableDiversityforImag
 generated_at: 2026-06-23 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-23 Semantic Browsing  Controllable Diversity For Imag
 
 ## Summary
 The paper introduces Semantic Browsing, a method for controlled diversity in image generation that enables users to navigate structured galleries based on meaningful semantic axes. It demonstrates that by enforcing variation at the text level using a Vision Language Model and an agentic workflow, generated samples correspond directly to specific design choices. The approach yields diverse outputs where each variation is interpretable.

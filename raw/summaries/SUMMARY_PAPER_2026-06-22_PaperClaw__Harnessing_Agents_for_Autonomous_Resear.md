@@ -7,6 +7,7 @@ source_paper: 2026-06-21_17-37-01Z_PaperClaw_HarnessingAgentsforAutonomousResear
 generated_at: 2026-06-22 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Paperclaw  Harnessing Agents For Autonomous Resear
 
 ## Summary
 PaperClaw is a multi‑agent system that autonomously generates a research paper from idea to manuscript, using live literature, datasets, and code. It iteratively proposes hypotheses, tests them with measured results, and halts only when evidence supports the final idea, producing a venue‑compliant paper. Human reviewers can intervene at any stage for refinement.

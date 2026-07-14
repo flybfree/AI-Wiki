@@ -7,6 +7,7 @@ source_paper: 2026-06-29_17-55-40Z_OptimizationDynamicsImprintSemanticSpecificit
 generated_at: 2026-06-30 01:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Optimization Dynamics Imprint Semantic Specificity
 
 ## Summary
 The paper investigates why contrastive embedding models ignore magnitude and yet produce norms that reflect semantic specificity, token frequency, and human uncertainty. It provides a theoretical analysis of the optimization dynamics leading to an analytic formula linking embedding length with these properties. The authors demonstrate that this emergent norm can act as a free calibration signal in certain retrieval tasks.

@@ -7,6 +7,7 @@ source_paper: 2026-06-19_16-44-18Z_FAST_AFrameworkforAlignedSamplingandTrainingi
 generated_at: 2026-06-22 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Fast  A Framework For Aligned Sampling And Trainin
 
 ## Summary
 This paper introduces FAST, a framework that improves sampling efficiency in parallel reinforcement learning for autonomous driving by solving the straggler effect. It achieves a wall-clock speedup of at least 1.78 times over single‑clip baselines while maintaining unbiased data statistics. The approach combines dynamic synchronization with virtual continuation and a scaling mask‑padding optimization.

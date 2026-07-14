@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonom
 generated_at: 2026-06-28 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Agent-Native Immune System  Architecture  Taxonomy
 
 ## Summary
 The paper introduces the Agent-Native Immune System (ANIS) as a biologically inspired defense architecture embedded within autonomous agents to protect against runtime attacks. It outlines four contributions: a six-layer Immune Tower, a taxonomy of agent viruses and vaccines, the Harness Triad for continual learning, and a theoretical distinction between alignment and immunity.

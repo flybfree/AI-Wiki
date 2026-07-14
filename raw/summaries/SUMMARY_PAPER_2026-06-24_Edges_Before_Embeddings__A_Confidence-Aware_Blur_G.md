@@ -7,6 +7,7 @@ source_paper: 2026-06-24_13-51-42Z_EdgesBeforeEmbeddings_AConfidence_AwareBlurGa
 generated_at: 2026-06-24 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Edges Before Embeddings  A Confidence-Aware Blur G
 
 ## Summary
 The paper introduces MagikaDocumentFromPixel, a lightweight CPU‑friendly image quality gate that classifies images as sharp, blurred, or uncertain in about 7 ms on a single core. By adding an Edge Prior Module (EPM) to MobileNetV3‑Large and training it at 384×384 resolution, the system achieves F1 = 0.9803 with a 17 MB ONNX artifact, improving over a fixed‑scale baseline by +1.3 points.

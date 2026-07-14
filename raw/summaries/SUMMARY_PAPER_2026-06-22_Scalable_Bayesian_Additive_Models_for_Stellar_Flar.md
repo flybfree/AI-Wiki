@@ -7,6 +7,7 @@ source_paper: 2026-06-21_17-20-26Z_ScalableBayesianAdditiveModelsforStellarFlare
 generated_at: 2026-06-22 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Scalable Bayesian Additive Models For Stellar Flar
 
 ## Summary
 The paper proposes a scalable Bayesian additive model for detecting stellar flares by combining an amortized Gaussian process inference with a hidden Markov model. It introduces a variational autoencoder surrogate that approximates the Celerite kernel, eliminating costly covariance calculations and enabling fast neural‑network forward passes. The authors validate this approach on simulated data and show it integrates smoothly into the additive framework.

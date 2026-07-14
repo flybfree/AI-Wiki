@@ -7,6 +7,7 @@ source_paper: 2026-07-01_17-55-09Z_TheState_PredictionSeparationHypothesis.md
 generated_at: 2026-07-01 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 The State-Prediction Separation Hypothesis
 
 ## Summary
 The paper introduces the state-prediction separation hypothesis and shows that separating forward computation into two streams improves language modeling efficiency. Experiments across model sizes demonstrate lower validation loss and 2-3 percentage point gains on downstream tasks compared with standard Transformers. The authors also rule out confounding factors through gradient analysis.

@@ -7,6 +7,7 @@ source_paper: 2026-06-24_17-59-02Z_On_PolicySelf_DistillationwithSampledDemonstr
 generated_at: 2026-06-24 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 On-Policy Self-Distillation With Sampled Demonstra
 
 ## Summary
 The paper introduces on-policy self-distillation using sampled demonstrations and shows it improves pass@1 accuracy but reduces rollout diversity. It finds that the teacher’s feedback is biased by the chosen correct rollout, flattening performance curves beyond a point. The analysis reveals that optimal self‑distillation can amplify probability gaps between rollouts.

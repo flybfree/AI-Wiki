@@ -7,6 +7,7 @@ source_paper: 2026-06-19_15-50-35Z_DissectingAgenticRAG_AComponentAblationforMul
 generated_at: 2026-06-22 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Dissecting Agentic Rag  A Component Ablation For M
 
 ## Summary
 This paper conducts an ablation study on agentic retrieval‑augmented generation (RAG) using a local 7B model to answer multi‑hop questions. The full pipeline reaches EM 53.2% and F1 61.6%, outperforming a single‑pass dense baseline, while the authors show that adaptive routing and deep retrieval loops provide little extra benefit compared with simpler fixed choices.

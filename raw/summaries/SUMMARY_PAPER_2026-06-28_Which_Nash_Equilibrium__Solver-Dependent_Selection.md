@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-53-30Z_WhichNashEquilibrium_Solver_DependentSelectio
 generated_at: 2026-06-28 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Which Nash Equilibrium  Solver-Dependent Selection
 
 ## Summary
 This paper investigates how different Nash equilibrium solvers converge on the set of optimal strategies in zero‑sum games that have a polytope of equilibria rather than a single point. Using analytically known Nash sets, it shows that solver choice influences which member of this set is selected, not merely the random seed.

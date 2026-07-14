@@ -7,6 +7,7 @@ source_paper: 2026-06-24_14-07-10Z_ColorMatters_TriggerColorAffectsSuccessinFede
 generated_at: 2026-06-24 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Color Matters  Trigger Color Affects Success In Fe
 
 ## Summary
 This paper investigates how the color of a visual trigger influences success rates in federated backdoor attacks using semantic objects like masks and sunglasses. Experiments on a four‑class CelebA hair‑color task show that white triggers boost attack performance for blond targets while black triggers are better for black targets, even when other parameters remain fixed.

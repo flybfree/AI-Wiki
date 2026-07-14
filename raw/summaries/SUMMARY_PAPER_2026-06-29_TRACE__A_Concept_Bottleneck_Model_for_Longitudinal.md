@@ -7,6 +7,7 @@ source_paper: 2026-06-29_13-56-17Z_TRACE_AConceptBottleneckModelforLongitudinal3
 generated_at: 2026-06-29 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-29 Trace  A Concept Bottleneck Model For Longitudinal
 
 ## Summary  
 TRACE introduces a concept‑bottleneck model that aligns with RANO 2.0 to classify glioblastoma responses on longitudinal 3D MRI scans. By processing paired baseline and follow‑up images through a shared encoder, the method predicts clinically meaningful tumor measurements as root concepts and derives downstream RANO concepts deterministically. On the LUMIERE dataset it achieves a macro F1 of 0.4769 for four classes and 0.7085 for progression versus non‑progression, outperforming a concept‑bottleneck baseline while remaining comparable to non‑interpretable deep learning approaches.

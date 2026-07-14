@@ -7,6 +7,7 @@ source_paper: 2026-07-01_17-51-21Z_FurnitureVLA_LearningLong_HorizonBimanualFurn
 generated_at: 2026-07-01 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Furniturevla  Learning Long-Horizon Bimanual Furni
 
 ## Summary
 The paper introduces FurnitureVLA, a vision-language-action model designed to assemble real‑scale furniture using two arms in a single operator setting. It achieves an 80% success rate in simulation and validates on a Kinova Gen3 robot with only a modest 16% drop on the hardest task.

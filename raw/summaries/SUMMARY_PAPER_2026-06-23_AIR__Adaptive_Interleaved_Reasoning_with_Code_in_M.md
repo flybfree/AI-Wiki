@@ -7,6 +7,7 @@ source_paper: 2026-06-22_17-58-54Z_AIR_AdaptiveInterleavedReasoningwithCodeinMLL
 generated_at: 2026-06-23 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-23 Air  Adaptive Interleaved Reasoning With Code In M
 
 ## Summary
 The paper introduces AIR, an adaptive interleaved reasoning framework that augments multimodal large language models with code to solve complex numerical tasks. After reinforcement learning training using a group‑constrained reward function, the model shows a 6.1 percentage point gain in accuracy and a success rate above 95% on tool‑use benchmarks.

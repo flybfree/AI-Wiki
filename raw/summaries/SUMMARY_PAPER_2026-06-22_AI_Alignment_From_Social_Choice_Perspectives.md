@@ -7,6 +7,7 @@ source_paper: 2026-06-19_15-47-01Z_AIAlignmentFromSocialChoicePerspectives.md
 generated_at: 2026-06-22 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Ai Alignment From Social Choice Perspectives
 
 ## Summary
 The paper surveys recent AI alignment research that uses human feedback to shape language models, framing the aggregation of conflicting judgments as a social choice problem. It identifies how standard methods can produce undesirable outcomes and proposes principled approaches grounded in social choice theory.

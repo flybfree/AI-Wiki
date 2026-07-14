@@ -7,6 +7,7 @@ source_paper: 2026-06-24_14-02-13Z_SemanticConsistencyPolicyOptimizationforReinf
 generated_at: 2026-06-24 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Semantic Consistency Policy Optimization For Reinf
 
 ## Summary
 The paper introduces Semantic Consistency Policy Optimization (SCPO), a value‑free reward shaping method that addresses credit inconsistency in group‑based reinforcement learning for LLM agents. By aligning step‑level rewards with successful siblings, SCPO recovers progress lost in failed rollouts and improves performance on long‑horizon tasks.

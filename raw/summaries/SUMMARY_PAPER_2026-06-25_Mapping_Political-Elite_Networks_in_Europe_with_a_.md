@@ -7,6 +7,7 @@ source_paper: 2026-06-25_17-51-59Z_MappingPolitical_EliteNetworksinEuropewithaMu
 generated_at: 2026-06-25 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-25 Mapping Political-Elite Networks In Europe With A 
 
 ## Summary  
 This paper introduces a multilingual joint entity‑relation extraction pipeline that maps political elite ties across European news texts to Wikidata identifiers and domain‑specific relationships. The pipeline combines NER, linking cascades, and an MME model to produce signed temporal knowledge graphs. Evaluation on a 3491‑relation gold standard yields high textual correctness (68.2% strict, 93.7% lenient) and demonstrates success in reconstructing party lifecycles and patronage networks.  

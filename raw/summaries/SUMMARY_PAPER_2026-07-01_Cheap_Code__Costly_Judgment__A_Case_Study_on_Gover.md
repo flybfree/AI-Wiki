@@ -7,6 +7,7 @@ source_paper: 2026-07-01_15-44-15Z_CheapCode_CostlyJudgment_ACaseStudyonGovernab
 generated_at: 2026-07-01 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Cheap Code  Costly Judgment  A Case Study On Gover
 
 ## Summary
 This paper investigates how generative AI reshapes software engineering by producing abundant, low‑cost code, and it examines a 12‑week case where an expert used AI coding agents to build an accessibility remediation system. The study reveals that the real challenge is making this high‑velocity, agentic work inspectable, correctable, and maintainable, leading to a theory of governance conversion.

@@ -7,6 +7,7 @@ source_paper: 2026-06-30_17-53-48Z_AdaJEPA_AnAdaptiveLatentWorldModel.md
 generated_at: 2026-06-30 23:32
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Adajepa  An Adaptive Latent World Model
 
 ## Summary
 The paper introduces AdaJEPA, an adaptive latent world model that updates its predictions during test-time planning using self-supervised signals from observed transitions. By integrating adaptation into a closed-loop MPC framework, AdaJEPA continuously recalibrates the world model without requiring additional demonstrations. Experiments show improved planning success with minimal gradient steps per replanning cycle.

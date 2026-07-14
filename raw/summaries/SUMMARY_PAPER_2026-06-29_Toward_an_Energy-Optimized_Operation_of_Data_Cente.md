@@ -7,6 +7,7 @@ source_paper: 2026-06-29_13-59-33Z_TowardanEnergy_OptimizedOperationofDataCenter
 generated_at: 2026-06-29 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-29 Toward An Energy-Optimized Operation Of Data Cente
 
 ## Summary
 The paper proposes using reinforcement learning to control workload shifting in data centers co‑located with wind farms, aiming to avoid curtailment of free wind energy. It builds a fixed‑day simulation framework and compares PPO and SAC policies against an optimizer that uses full‑day foresight. The results show learned policies can reduce early underuse but still fall short of the offline optimum.

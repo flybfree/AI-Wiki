@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-31-34Z_BridgingAbInitioSymmetriesandGlobalNuclearMas
 generated_at: 2026-06-28 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Bridging Ab Initio Symmetries And Global Nuclear M
 
 ## Summary
 The paper proposes interpretable neural network mass models that encode Wigner SU(4) and Elliott SU(3) symmetries using Casimir operators, achieving significant error reduction compared to the liquid‑drop baseline; WINN reaches a validation RMSE of 0.430 MeV, indicating that symmetry captures physics beyond bulk properties.

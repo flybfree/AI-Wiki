@@ -7,6 +7,7 @@ source_paper: 2026-06-19_16-03-53Z_ComposingVerifiableConceptualModelsviaBuildin
 generated_at: 2026-06-22 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Composing Verifiable Conceptual Models Via Buildin
 
 ## Summary
 The paper proposes a design-time verification framework for agentic AI workflows that treat them as compositions of reusable building blocks and checks compatibility via twelve structural rules. The authors demonstrate the verifier’s ability to detect design flaws even when tasks are split between agents, using 48 flawed workflows and 168 transformed variants.

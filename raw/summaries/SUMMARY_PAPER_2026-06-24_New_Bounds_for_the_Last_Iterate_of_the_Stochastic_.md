@@ -7,6 +7,7 @@ source_paper: 2026-06-23_17-55-18Z_NewBoundsfortheLastIterateoftheStochasticsubG
 generated_at: 2026-06-24 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 New Bounds For The Last Iterate Of The Stochastic 
 
 ## Summary
 This paper investigates the performance of the last iterate produced by the stochastic subgradient method when applied to one‑dimensional convex Lipschitz objectives with a fixed step size η = Θ(1/√n). The authors show that under additive i.i.d. subgradient noise with uniformly bounded variance, the error at the final iteration is O(1/√n), eliminating the additional log n factor seen in generic bounds. Conversely, without assuming i.i.d., the error can degrade to (log n)/√n, indicating that the uniform‑variance assumption alone does not guarantee optimality even in one dimension.

@@ -7,6 +7,7 @@ source_paper: 2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteerab
 generated_at: 2026-06-24 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Insight  Self-Guided Skill Acquisition Via Steerab
 
 ## Summary
 This paper introduces InSight, a framework that enables vision-language-action models to autonomously acquire new manipulation skills by rendering them steerable at the primitive‑action level. The system automatically decomposes demonstrations into labeled primitives and builds a data flywheel that fills gaps in the skill set without human input. Experiments show successful acquisition of tasks such as block flipping, drawer closing, sweeping, twisting, and pouring.

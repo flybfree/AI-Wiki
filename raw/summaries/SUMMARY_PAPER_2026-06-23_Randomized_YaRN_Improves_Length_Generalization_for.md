@@ -7,6 +7,7 @@ source_paper: 2026-06-22_17-59-53Z_RandomizedYaRNImprovesLengthGeneralizationfor
 generated_at: 2026-06-23 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-23 Randomized Yarn Improves Length Generalization For
 
 ## Summary
 This paper introduces Randomized YaRN, a training method that boosts long‑context reasoning by mixing YaRN positional extrapolation with randomized positional encodings and a length curriculum. Experiments on BABILong and MRCR show consistent gains from 16K to 128K context lengths when the model is trained only on <8K data, outperforming standard fine‑tuning especially at far out‑of‑distribution lengths.

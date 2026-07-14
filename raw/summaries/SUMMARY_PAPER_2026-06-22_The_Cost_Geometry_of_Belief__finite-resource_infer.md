@@ -7,6 +7,7 @@ source_paper: 2026-06-19_16-41-28Z_TheCostGeometryofBelief_finite_resourceinfere
 generated_at: 2026-06-22 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 The Cost Geometry Of Belief  Finite-Resource Infer
 
 ## Summary
 The paper introduces a cost geometry for beliefs in finite-resource inference, using optimal transport and Fisher information to define distances between probability densities. It shows that the shape of this geometry is invariant under scaling of cost units and reveals three fundamental properties: a wall where certainty becomes unattainable, an honesty condition aligning costs with Fisher information, and rigidity making hyperbolic geometries universal.

@@ -7,6 +7,7 @@ source_paper: 2026-06-25_17-38-45Z_HallucinationinWorldModelsisPredictableandPre
 generated_at: 2026-06-25 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-25 Hallucination In World Models Is Predictable And P
 
 ## Summary
 This paper investigates why generative world models often produce hallucinations—fluent visual rollouts that diverge from true dynamics—and shows that the problem is rooted in insufficient coverage of state‑action space. By training a 350M‑parameter model on a comprehensive dataset (MMBench2) and developing three prediction signals, the authors demonstrate that hallucination can be detected early and mitigated efficiently. Their method enables data‑efficient fine‑tuning with as few as 50 real trajectories to close coverage gaps.

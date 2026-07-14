@@ -7,6 +7,7 @@ source_paper: 2026-06-22_17-57-08Z_TeachingLLMsStringMatching_Backtracking_andEr
 generated_at: 2026-06-23 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-23 Teaching Llms String Matching  Backtracking  And E
 
 ## Summary
 The paper introduces an algorithmic framework for solving bit manipulation puzzles by letting large language models deduce hidden logical rules from binary strings without relying on arithmetic logic. By reframing the problem as a base-selection task and using string similarity, the model can identify primitive transformations efficiently. The approach achieved over 96% validation accuracy, securing seventh place in a contest.

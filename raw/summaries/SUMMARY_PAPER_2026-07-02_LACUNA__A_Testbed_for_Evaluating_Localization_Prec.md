@@ -7,6 +7,7 @@ source_paper: 2026-07-02_17-59-52Z_LACUNA_ATestbedforEvaluatingLocalizationPreci
 generated_at: 2026-07-02 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-02 Lacuna  A Testbed For Evaluating Localization Prec
 
 ## Summary
 The paper introduces LACUNA, a testbed that evaluates whether unlearning methods truly remove knowledge from model parameters rather than merely masking outputs. Experiments on 1B and 7B OLMo models show strong output‑level performance but poor parameter‑level precision, with many resurfacing attacks succeeding. Simple gradient‑based unlearning can achieve robust erasure when the correct parameters are targeted.

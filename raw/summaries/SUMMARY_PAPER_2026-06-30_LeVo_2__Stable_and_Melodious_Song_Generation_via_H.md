@@ -7,6 +7,7 @@ source_paper: 2026-06-29_17-59-20Z_LeVo2_StableandMelodiousSongGenerationviaHier
 generated_at: 2026-06-30 01:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Levo 2  Stable And Melodious Song Generation Via H
 
 ## Summary  
 LeVo 2 is a hybrid LLM‑diffusion framework designed for full‑length song generation that balances coherence and musicality. It first predicts mixed tokens for semantic planning, then refines vocal and accompaniment tokens in parallel, and finally reconstructs waveforms with a diffusion codec. The model achieves this by generating a semantic plan before refining audio details.

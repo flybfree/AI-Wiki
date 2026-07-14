@@ -7,6 +7,7 @@ source_paper: 2026-06-29_17-55-53Z_DOPD_DualOn_policyDistillation.md
 generated_at: 2026-06-30 01:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Dopd  Dual On-Policy Distillation
 
 ## Summary
 The paper introduces DOPD, a dual on-policy distillation method that mitigates privilege illusion by dynamically routing token-level supervision between teacher and student based on advantage gaps. It achieves higher capacity transfer than vanilla OPD in both LLM and VLM tasks. Experiments show improved performance, stability, robustness, continual learning, and out-of-distribution handling.

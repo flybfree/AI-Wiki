@@ -7,6 +7,7 @@ source_paper: 2026-07-02_17-55-39Z_ControllableSimAgentswithBehaviorLatents.md
 generated_at: 2026-07-02 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-02 Controllable Sim Agents With Behavior Latents
 
 ## Summary
 The paper introduces Controllable Neural Variational Agents (CNeVA), a framework that learns per-agent Gaussian behavior latents from discounted returns, enabling steerable simulation of traffic agents. By conditioning a rectified‑flow trajectory generator on mixed channel‑mask data and using soft eligibility gates, CNeVA achieves realistic realism while providing monotone safety controllability without reward hacking.

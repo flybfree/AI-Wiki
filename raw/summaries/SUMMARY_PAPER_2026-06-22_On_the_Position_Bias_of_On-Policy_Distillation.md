@@ -7,6 +7,7 @@ source_paper: 2026-06-21_17-20-21Z_OnthePositionBiasofOn_PolicyDistillation.md
 generated_at: 2026-06-22 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 On The Position Bias Of On-Policy Distillation
 
 ## Summary
 The paper investigates the bias in on‑policy distillation where token‑level losses are treated equally, causing later tokens to provide poor supervision as rollouts lengthen. By applying constrained optimization, it introduces Importance‑Weighted On‑Policy Distillation (IW‑OPD) that dynamically upweights earlier tokens and downweights later ones based on distribution discrepancy. Experiments show IW‑OPD converges faster, yields higher learning efficiency, and improves final performance by up to 6.9 points compared with standard OPD.

@@ -7,6 +7,7 @@ source_paper: 2026-06-23_17-34-29Z_OpenThoughts_Agent_DataRecipesforAgenticModel
 generated_at: 2026-06-24 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Openthoughts-Agent  Data Recipes For Agentic Model
 
 ## Summary
 This paper introduces OpenThoughts-Agent (OT‑Agent), an open data curation pipeline designed to train broadly capable agentic language models across multiple tasks. The authors report that fine‑tuning Qwen3‑32B on their 100K dataset improves average accuracy to 44.8% over seven benchmarks, beating the best existing open model by nearly four points.

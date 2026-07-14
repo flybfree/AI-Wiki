@@ -7,6 +7,7 @@ source_paper: 2026-06-30_13-16-39Z_Calibration_NotCompilation_DetectingandRepair
 generated_at: 2026-06-30 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Calibration  Not Compilation  Detecting And Repair
 
 ## Summary  
 The paper presents a calibration verifier designed to detect and repair misspecified probabilistic programs that language models generate, demonstrating it surpasses unit tests and other feedback mechanisms by leveraging Bayesian workflow diagnostics such as posterior predictive checks and simulation‑based calibration.  

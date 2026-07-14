@@ -7,6 +7,7 @@ source_paper: 2026-06-24_17-59-56Z_LearningActionPriorsforCross_embodimentRobotM
 generated_at: 2026-06-24 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Learning Action Priors For Cross-Embodiment Robot 
 
 ## Summary
 The paper introduces a two-stage training framework that equips the action module of Vision-Language-Action models with motion priors before cross-embodiment VLA alignment. By learning temporal structure from unconditioned trajectories in Stage 1, the model transfers this prior to downstream tasks, resulting in faster convergence and higher success rates. Experiments across 13 tasks show improved performance especially on data-scarce real-world settings.

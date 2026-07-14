@@ -7,6 +7,7 @@ source_paper: 2026-06-26_16-37-53Z_Parameter_EfficientContinuous_VariablePhotoni
 generated_at: 2026-06-28 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Parameter-Efficient Continuous-Variable Photonic Q
 
 ## Summary
 The paper introduces a parameter‑efficient continuous‑variable photonic quantum neural network (CV‑QNN) for detecting oral cancer from smartphone images, demonstrating that a simplified architecture with 18 trainable parameters outperforms both the standard CV‑QNN layer and a 55‑parameter classical baseline. The model achieves the highest validation AUC across all seeds while delivering 67 % fewer parameters than the classical approach.

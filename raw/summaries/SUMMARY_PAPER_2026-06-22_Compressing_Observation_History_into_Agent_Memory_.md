@@ -7,6 +7,7 @@ source_paper: 2026-06-19_15-58-36Z_CompressingObservationHistoryintoAgentMemory_
 generated_at: 2026-06-22 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Compressing Observation History Into Agent Memory 
 
 ## Summary
 The paper proposes a distillation method that transfers the compression strategy of a full-history transformer into a recurrent variant, enabling linear-time processing while preserving performance on long-horizon streaming vision and robotics tasks. By training a teacher to compress observation history into a fixed-size bottleneck and directly supervising this bottleneck as memory for the student, the approach aligns compression mechanisms between architectures. Experiments show that the recurrent latent robotic memory achieves near full-history transformer accuracy with much lower computational cost.

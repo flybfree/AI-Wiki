@@ -7,6 +7,7 @@ source_paper: 2026-06-19_16-31-44Z_TheUnreasonableEffectivenessofVLMsforZero_sho
 generated_at: 2026-06-22 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 The Unreasonable Effectiveness Of Vlms For Zero-Sh
 
 ## Summary
 This paper introduces ZeProM, a unified zero‑shot framework that jointly performs procedural mistake detection and temporal action segmentation using a single pre‑trained Video‑Language Model. Evaluated on the EgoPER and CaptainCook4D benchmarks, ZeProM reaches or exceeds supervised methods with notable gains in error detection accuracy (EDA) and F1@0.5 scores.

@@ -7,6 +7,7 @@ source_paper: 2026-06-30_17-54-50Z_WhenLLMsReadTablesCarelessly_MeasuringandRedu
 generated_at: 2026-06-30 23:32
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 When Llms Read Tables Carelessly  Measuring And Re
 
 ## Summary
 This paper conducts the first systematic evaluation of data referencing errors (DREs) in large language models when processing tables, showing that such errors appear across a wide range of model sizes from 1.7B to 20B parameters. The authors also demonstrate that adding a critic specifically designed for detecting DREs can boost answer accuracy by up to 12% through filtering and rejection sampling.

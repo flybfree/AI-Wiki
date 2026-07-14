@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-16-04Z_Vision_Default_Prior_Override_CausalMechanism
 generated_at: 2026-06-28 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Vision-Default  Prior-Override  Causal Mechanisms 
 
 ## Summary
 The paper investigates how vision-language models resolve conflicts between visual input and stored world knowledge, identifying a causal mechanism. It finds that visual grounding occurs automatically while prior grounding depends on a small set of attention heads in the second half of the network. Ablating those heads flips predictions from knowledge‑based to visual answers in most cases.

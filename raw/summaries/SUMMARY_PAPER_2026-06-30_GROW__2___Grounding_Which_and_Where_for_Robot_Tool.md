@@ -7,6 +7,7 @@ source_paper: 2026-06-29_17-56-53Z_GROW__2__GroundingWhichandWhereforRobotToolUs
 generated_at: 2026-06-30 01:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Grow  2   Grounding Which And Where For Robot Tool
 
 ## Summary  
 The paper introduces GROW$^2$, a method for grounding robot tool use by selecting an appropriate object as a tool and pinpointing its action region. It combines semantic reasoning from vision‑language models with geometric extraction from RGB‑D data, achieving strong performance on affordance prediction tasks and zero‑shot generalization across open categories.

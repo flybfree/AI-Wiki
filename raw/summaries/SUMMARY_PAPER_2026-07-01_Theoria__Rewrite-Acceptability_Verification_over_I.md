@@ -7,6 +7,7 @@ source_paper: 2026-07-01_17-56-42Z_Theoria_Rewrite_AcceptabilityVerificationover
 generated_at: 2026-07-01 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Theoria  Rewrite-Acceptability Verification Over I
 
 ## Summary
 The paper introduces Theoria, a verification framework that rewrites AI answers into typed state transitions each backed by explicit justification such as citations or computations. It demonstrates high precision on expert problem sets while producing auditable proof traces. Certified solutions achieve comparable performance to holistic LLM judges but with better traceability.

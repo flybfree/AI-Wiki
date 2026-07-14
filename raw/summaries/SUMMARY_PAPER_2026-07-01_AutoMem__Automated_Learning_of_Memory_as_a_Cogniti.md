@@ -7,6 +7,7 @@ source_paper: 2026-07-01_17-57-03Z_AutoMem_AutomatedLearningofMemoryasaCognitive
 generated_at: 2026-07-01 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Automem  Automated Learning Of Memory As A Cogniti
 
 ## Summary
 This paper introduces AutoMem, a framework that treats memory management as a trainable cognitive skill for large language models. By treating file‑system operations as first‑class actions and automatically refining both the memory structure and the model’s proficiency, AutoMem reduces forgetting in long‑horizon tasks. Experiments on three procedurally generated games show that optimizing only memory can boost performance by 2×–4×, making a 32B open‑weight model competitive with state‑of‑the‑art systems.

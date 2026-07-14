@@ -7,6 +7,7 @@ source_paper: 2026-06-24_17-55-38Z_Real_TimeVoiceAIHearsbutDoesNotListen.md
 generated_at: 2026-06-24 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Real-Time Voice Ai Hears But Does Not Listen
 
 ## Summary
 This paper investigates four state‑of‑the‑art realtime voice AI systems and discovers they consistently act on the textual content of speech while ignoring vocal cues such as distress, fear, or sarcasm that are conveyed through tone and delivery. The authors label this mismatch an “emotional intelligence gap” where perception is accurate but action is not.

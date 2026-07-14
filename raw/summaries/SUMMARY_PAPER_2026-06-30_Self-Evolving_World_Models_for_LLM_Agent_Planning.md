@@ -7,6 +7,7 @@ source_paper: 2026-06-29_17-58-43Z_Self_EvolvingWorldModelsforLLMAgentPlanning.m
 generated_at: 2026-06-30 01:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Self-Evolving World Models For Llm Agent Planning
 
 ## Summary
 This paper introduces WorldEvolver, a self‑evolving world model that improves the reliability of long‑horizon LLM agent planning by revising its context at deployment time while keeping the agent and all parameters fixed. Experiments on ALFWorld and ScienceWorld show that WorldEvolver yields higher prediction accuracy than other baselines and leads to better downstream agent success rates.

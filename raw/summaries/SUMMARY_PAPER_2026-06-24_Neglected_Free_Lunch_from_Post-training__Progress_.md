@@ -7,6 +7,7 @@ source_paper: 2026-06-24_17-54-08Z_NeglectedFreeLunchfromPost_training_ProgressA
 generated_at: 2026-06-24 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Neglected Free Lunch From Post-Training  Progress 
 
 ## Summary
 This paper introduces progress advantage, an implicit reward signal derived from reinforcement learning post‑training that scores each step of an LLM agent without requiring human annotation or additional training. The authors demonstrate that the log‑probability ratio between the RL policy and a reference policy exactly matches the optimal advantage function across diverse settings. Experiments on test‑time scaling, uncertainty quantification, and failure attribution show that progress advantage consistently outperforms confidence‑based baselines and trained reward models.

@@ -7,6 +7,7 @@ source_paper: 2026-06-23_17-29-15Z_Realvs_ComplexSpectralBasesforNeuralOperators
 generated_at: 2026-06-24 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Real Vs  Complex Spectral Bases For Neural Operato
 
 ## Summary
 This paper compares Fourier Neural Operators (FNO) and Hartley Neural Operators (HNO), two real‑valued alternatives that learn solution operators of PDEs using spectral bases in the complex versus purely real frequency domain. The authors show that HNO, which uses a real Discrete Hartley Transform, retains twice as many spectral corners because its spectrum is not halved by conjugate symmetry, while FNO carries only half due to symmetry constraints. Experiments across various PDE classes reveal that the optimal basis aligns with the Green’s‑function structure: self‑adjoint elliptic operators favor HNO, whereas time‑dependent operators with phase content favor FNO.

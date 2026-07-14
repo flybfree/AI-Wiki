@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-47-09Z_VGBforMaskedDiffusionModel_EfficientTest_time
 generated_at: 2026-06-28 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Vgb For Masked Diffusion Model  Efficient Test-Tim
 
 ## Summary
 This paper introduces MDM‑VGB, a discrete diffusion sampler that augments masked diffusion model inference with reward‑guided remasking to satisfy structural constraints or maximize downstream rewards. The authors prove quadratic time complexity and robustness to process‑verifier noise, contrasting sharply with exponential scaling of conventional test‑time heuristics.

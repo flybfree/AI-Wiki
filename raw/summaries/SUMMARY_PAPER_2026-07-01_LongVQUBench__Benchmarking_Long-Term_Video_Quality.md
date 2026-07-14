@@ -7,6 +7,7 @@ source_paper: 2026-07-01_15-40-42Z_LongVQUBench_BenchmarkingLong_TermVideoQualit
 generated_at: 2026-07-01 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Longvqubench  Benchmarking Long-Term Video Quality
 
 ## Summary
 The paper introduces LongVQUBench, a benchmark designed to evaluate long-term video quality understanding in vision‑language models (LVLMs). It demonstrates that these models suffer significant performance drops as videos become longer and reasoning tasks become more complex. The study uses three hierarchical evaluation levels—local event quality, cross‑event reasoning, and global quality—to capture temporal continuity and cumulative degradation.

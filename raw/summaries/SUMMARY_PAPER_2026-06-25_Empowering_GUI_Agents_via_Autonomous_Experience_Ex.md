@@ -7,6 +7,7 @@ source_paper: 2026-06-25_17-44-48Z_EmpoweringGUIAgentsviaAutonomousExperienceExp
 generated_at: 2026-06-25 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-25 Empowering Gui Agents Via Autonomous Experience Ex
 
 ## Summary
 The paper introduces a planning experience exploration and utilization (PEEU) method for multimodal web agents to improve task planning by autonomously exploring environments and using hindsight experiences to create aligned high‑level training data. This approach systematically gathers diverse user interactions, filters them into coherent high‑level tasks, and feeds them back into the model's fine‑tuning pipeline. Experiments show that a 7B model reaches 30.6% accuracy, outperforming the larger Qwen2.5-VL-32B on real‑world GUI benchmark tasks.

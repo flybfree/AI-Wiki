@@ -7,6 +7,7 @@ source_paper: 2026-06-21_16-51-29Z_Training_freeTaskClassificationforMulti_TaskM
 generated_at: 2026-06-22 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Training-Free Task Classification For Multi-Task M
 
 ## Summary
 This paper introduces SiM, a method that merges multiple task‑specific experts into a single model without any additional training or the need to know which task an input belongs to. By treating routing as a free‑form classification problem and using pre‑computed low‑rank manifolds for each task, SiM routes test inputs to the most suitable expert while preserving individual performance.

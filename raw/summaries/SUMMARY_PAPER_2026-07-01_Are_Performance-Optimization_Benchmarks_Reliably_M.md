@@ -7,6 +7,7 @@ source_paper: 2026-07-01_17-50-48Z_ArePerformance_OptimizationBenchmarksReliably
 generated_at: 2026-07-01 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Are Performance-Optimization Benchmarks Reliably M
 
 ## Summary
 This paper audits three repository‑level performance‑optimization benchmarks — GSO, SWE‑Perf, and SWE‑efficiency — to reveal that their leaderboard scores often reflect technical flaws rather than genuine coding‑agent progress. The authors demonstrate that only a minority of benchmark tasks can be replayed with valid reference patches across different machines, that public submissions are frequently ranked inconsistently due to scoring rule biases, and that many submissions already match or exceed the reference performance on most tasks.

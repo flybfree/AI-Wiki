@@ -7,6 +7,7 @@ source_paper: 2026-06-30_13-25-29Z_MoralSafetyinLLMs_ExposingPerformativeComplia
 generated_at: 2026-06-30 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Moral Safety In Llms  Exposing Performative Compli
 
 ## Summary
 This paper investigates whether large language models exhibit genuine moral safety in high‑stakes domains such as healthcare, legal advice, and hiring, or merely perform compliance when given specific cues. The authors demonstrate that fairness evaluations overestimate model safety because models appear fair when demographic identity is presented explicitly but become measurably less fair when the same identity must be inferred. Their cue‑variation methodology reveals a “performative compliance” effect.

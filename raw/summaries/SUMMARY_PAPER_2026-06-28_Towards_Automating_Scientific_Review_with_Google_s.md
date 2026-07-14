@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-19-17Z_TowardsAutomatingScientificReviewwithGoogle_s
 generated_at: 2026-06-28 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Towards Automating Scientific Review With Google S
 
 ## Summary
 The paper introduces the Paper Assistant Tool (PAT) as an agentic AI framework designed to automate scientific review by evaluating full manuscripts and suggesting improvements. It achieves a 34% improvement in recall of mathematical errors over zero-shot methods on the SPOT benchmark, and pilot deployments at STOC and ICML show it can catch critical flaws early.

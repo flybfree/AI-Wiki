@@ -7,6 +7,7 @@ source_paper: 2026-06-21_17-24-31Z_Sub_Billion_Super_Frontier_SmallLanguageModel
 generated_at: 2026-06-22 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Sub-Billion  Super-Frontier  Small Language Models
 
 ## Summary
 The paper investigates how small language models can rival zero-shot frontier LLMs on relation extraction tasks across general and literary domains. It compares five models ranging from 360M to 3B parameters against state-of-the-art systems and a RoBERTa baseline, finding that task-specific adaptation yields superior performance despite smaller size. The study also notes that domain-adaptive pretraining offers little practical benefit over supervised fine‑tuning.

@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-17-17Z_ParameterEfficientHybridTransformer_PEHT_forN
 generated_at: 2026-06-28 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Parameter Efficient Hybrid Transformer  Peht  For 
 
 ## Summary
 The paper presents the Parameter-Efficient Hybrid Transformer (PEHT), a model that predicts network traffic by fusing urban mobility and congestion data with communication signals. By using Low‑Rank Adaptation in the encoder, PEHT reduces trainable parameters while keeping high accuracy. Experiments on real and synthetic datasets show it beats existing baselines across RMSE, MAE, and R² metrics.

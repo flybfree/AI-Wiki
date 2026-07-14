@@ -7,6 +7,7 @@ source_paper: 2026-06-22_17-57-15Z_PsyBridge_AHybridIntelligentFrameworkforMulti
 generated_at: 2026-06-23 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-23 Psybridge  A Hybrid Intelligent Framework For Mult
 
 ## Summary
 The paper introduces PsyBridge, a hybrid intelligent framework that integrates PHQ‑9, GAD‑7, cognitive and personality data to generate interpretable mental health risk assessments. Experimental results on 500 synthetic patient profiles show an overall accuracy of 0.84, outperforming standalone screening tools.

@@ -7,6 +7,7 @@ source_paper: 2026-07-01_15-25-21Z_GSRQ_Gain_ShapeResidualQuantizationforSub_1_b
 generated_at: 2026-07-01 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Gsrq  Gain-Shape Residual Quantization For Sub-1-B
 
 ## Summary
 This paper presents Gain‑Shape Residual Quantization (GSRQ), a method that reduces the memory footprint of key‑value caches in large language models to sub‑1‑bit levels. By replacing standard K‑means with a directional‑aware variant called Gain‑Shape K‑means, GSRQ improves quantization accuracy on LLaMA‑3‑8B across various bit rates, achieving a 22.20 percentage point gain at 1‑bit compared to VQLLM.

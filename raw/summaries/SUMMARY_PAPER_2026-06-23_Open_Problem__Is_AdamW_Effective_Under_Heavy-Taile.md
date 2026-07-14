@@ -7,6 +7,7 @@ source_paper: 2026-06-22_17-58-52Z_OpenProblem_IsAdamWEffectiveUnderHeavy_Tailed
 generated_at: 2026-06-23 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-23 Open Problem  Is Adamw Effective Under Heavy-Taile
 
 ## Summary
 The paper addresses the open problem of whether AdamW can converge when stochastic gradient noise is heavy-tailed, a regime typical in large language model pretraining. It establishes a positive weighted‑metric benchmark and introduces a corridor lower‑bound mechanism that shows how AdamW’s denominator memory can conceal large gradients despite the tail risk.

@@ -7,6 +7,7 @@ source_paper: 2026-06-29_13-54-04Z_DialogPII_Amultilingualdatasetofsyntheticdial
 generated_at: 2026-06-29 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-29 Dialogpii  A Multilingual Dataset Of Synthetic Dia
 
 ## Summary
 DialogPII is a multilingual synthetic dataset designed to train and evaluate automatic personal information detection systems in conversational settings. It contains eight interaction scenarios, 19 entity types, and 11 languages, with both written transcripts and speech-derived versions aligned for comprehensive analysis.

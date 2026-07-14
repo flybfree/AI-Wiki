@@ -7,6 +7,7 @@ source_paper: 2026-06-26_16-35-48Z_HPRO_HierarchicalProgressiveRewardOptimizatio
 generated_at: 2026-06-28 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Hpro  Hierarchical Progressive Reward Optimization
 
 ## Summary
 The paper introduces HPRO, a hierarchical progressive reward optimization framework for emotional text-to-speech generation that addresses two key problems in current LLM‑based TTS systems. It achieves higher emotional expressiveness while maintaining linguistic intelligibility through a novel HD‑Emo codec and multi‑level alignment of rewards.

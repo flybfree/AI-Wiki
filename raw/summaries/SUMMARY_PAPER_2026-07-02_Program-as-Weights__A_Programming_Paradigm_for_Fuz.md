@@ -7,6 +7,7 @@ source_paper: 2026-07-02_17-59-50Z_Program_as_Weights_AProgrammingParadigmforFuz
 generated_at: 2026-07-02 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-02 Program-As-Weights  A Programming Paradigm For Fuz
 
 ## Summary
 This paper introduces fuzzy-function programming, a method that translates natural‑language specifications into compact neural artifacts. The authors demonstrate Program‑as‑Weights (PAW), where a 4B compiler trained on the FuzzyBench dataset creates parameter‑efficient adapters for a lightweight interpreter. Their 0.6B Qwen3 interpreter matches the performance of the full 32B model while using one‑fiftieth of its memory and running at 30 tokens per second on a MacBook M3.

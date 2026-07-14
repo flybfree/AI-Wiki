@@ -7,6 +7,7 @@ source_paper: 2026-06-29_17-57-50Z_One_StepGradientDelayisNotaBarrierforLarge_Sc
 generated_at: 2026-06-30 01:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 One-Step Gradient Delay Is Not A Barrier For Large
 
 ## Summary
 The paper investigates the impact of a one-step gradient delay in asynchronous pipeline parallel LLM pretraining and shows that this delay does not inherently degrade performance when certain optimizers are used. It demonstrates that AdamW experiences severe degradation under such delays while Muon remains robust, and introduces an optimizer-agnostic correction to further improve convergence.

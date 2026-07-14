@@ -7,6 +7,7 @@ source_paper: 2026-06-30_13-29-58Z_ECHO_Prunetoact_tracetolearnwithselectiveturn
 generated_at: 2026-06-30 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Echo  Prune To Act  Trace To Learn With Selective 
 
 ## Summary
 The paper introduces ECHO, a selective turn-memory framework for long‑horizon language agents that compresses environment turns into compact records while preserving source indices. It enables policy rollouts within bounded windows and aligns outcome credit with the evidence used to generate successful answers. On BrowseComp‑Plus, ECHO achieves 43.4% accuracy, beating GRPO (28.9%) and SUPO (36.1%), using fewer turns.

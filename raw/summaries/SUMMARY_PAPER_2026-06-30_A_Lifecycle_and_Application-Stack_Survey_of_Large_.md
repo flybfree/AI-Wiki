@@ -7,6 +7,7 @@ source_paper: 2026-06-30_13-21-43Z_ALifecycleandApplication_StackSurveyofLargeLa
 generated_at: 2026-06-30 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 A Lifecycle And Application-Stack Survey Of Large 
 
 ## Summary
 The paper surveys large language model vulnerabilities through an eight‑stage lifecycle lens, linking attacks to specific security objectives and outlining practical defenses. It shows that risks emerge not just from the model weights but from the full stack of data flow, prompting, tool execution, and deployment.

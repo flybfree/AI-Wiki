@@ -7,6 +7,7 @@ source_paper: 2026-06-25_17-56-27Z_Error_ConditionedNeuralSolvers.md
 generated_at: 2026-06-25 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-25 Error-Conditioned Neural Solvers
 
 ## Summary
 The paper introduces error‑conditioned neural solvers (ENS) that treat the PDE residual as a direct input at each iteration, allowing the network to learn an update policy that iteratively corrects its predictions. Unlike hybrid methods that rely on classical optimizers to minimize residuals, ENS avoids their compute cost and instability while achieving higher prediction accuracy across four PDE families, especially in ill‑conditioned regimes such as turbulent Kolmogorov flow.

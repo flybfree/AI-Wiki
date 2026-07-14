@@ -7,6 +7,7 @@ source_paper: 2026-06-29_13-53-29Z_HighlyDataParallelizableEstimationoftheSliced
 generated_at: 2026-06-29 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-29 Highly Data Parallelizable Estimation Of The Slice
 
 ## Summary
 This paper introduces a new class of estimators for the sliced Wasserstein distance that rely on cumulative distribution functions (CDFs) rather than sorting projected samples. The authors demonstrate that these CDF‑based methods scale efficiently through massive dataset parallelism and avoid the need for full‑dataset access or raw sample exchange.

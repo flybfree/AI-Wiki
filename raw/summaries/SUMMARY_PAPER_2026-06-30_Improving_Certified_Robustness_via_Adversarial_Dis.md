@@ -7,6 +7,7 @@ source_paper: 2026-06-30_13-31-35Z_ImprovingCertifiedRobustnessviaAdversarialDis
 generated_at: 2026-06-30 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Improving Certified Robustness Via Adversarial Dis
 
 ## Summary
 The paper proposes AD-CERT, a certified training objective that merges adversarial distillation with an interval bound propagation upper bound to improve the trade‑off between standard accuracy and provable robustness. Experiments show AD-CERT reaches state‑of‑the‑art certified performance on multiple benchmarks while maintaining strong empirical defenses. It also outperforms feature‑space distillation by up to five point four percent in certified accuracy.

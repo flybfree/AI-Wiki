@@ -3,6 +3,7 @@ title: "Summary: Summary 2026 04 29 Qwen 3 6 27B Arrives With Gguf Support And L
 date: 2026-06-19
 tags: ['wiki']
 ---
+# Summary: Summary 2026-04-29 Qwen 3 6 27B Arrives With Gguf Support And Local M
 # Summary 2026 04 29 Qwen 3 6 27B Arrives With Gguf Support And Local M
 
 **Source**: [Original Article](https://example.com/placeholder)

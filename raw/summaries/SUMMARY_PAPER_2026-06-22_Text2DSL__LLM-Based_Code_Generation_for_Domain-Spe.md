@@ -7,6 +7,7 @@ source_paper: 2026-06-21_16-44-20Z_Text2DSL_LLM_BasedCodeGenerationforDomain_Spe
 generated_at: 2026-06-22 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Text2Dsl  Llm-Based Code Generation For Domain-Spe
 
 ## Summary
 This paper introduces Text2DSL, a task of generating code for domain‑specific languages from natural language descriptions, distinct from Text-to-SQL or general coding tasks. Using the PolkitBench dataset and two MoE models, it shows that providing formal specification context dramatically improves syntactic validity, structural validity, and CodeBLEU scores.

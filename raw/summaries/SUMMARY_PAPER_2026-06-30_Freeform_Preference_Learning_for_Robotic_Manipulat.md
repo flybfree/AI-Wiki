@@ -7,6 +7,7 @@ source_paper: 2026-06-30_17-54-02Z_FreeformPreferenceLearningforRoboticManipulat
 generated_at: 2026-06-30 23:32
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Freeform Preference Learning For Robotic Manipulat
 
 ## Summary
 The paper introduces Freeform Preference Learning (FPL) to learn robot manipulation policies from human‑provided natural‑language preference axes rather than binary overall judgments. It demonstrates that FPL improves performance on long‑horizon tasks by 38 percentage points compared with sparse‑reward and binary‑preference baselines.

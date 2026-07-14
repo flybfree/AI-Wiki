@@ -7,6 +7,7 @@ source_paper: 2026-06-25_17-58-02Z_Whenarelikelyanswersright_OnSequenceProbabili
 generated_at: 2026-06-25 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-25 When Are Likely Answers Right  On Sequence Probabi
 
 ## Summary
 This paper investigates how sequence probability, defined as the conditional likelihood of a continuation given a prompt, correlates with answer correctness across various decoding strategies and hyperparameter settings. The authors find that within a fixed dataset higher sequence probability often predicts correct answers, yet this predictive power does not persist when decoding methods or parameters are altered.

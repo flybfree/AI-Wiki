@@ -7,6 +7,7 @@ source_paper: 2026-06-24_14-41-27Z_EnhancingBrainMRIAnomalyDetectionandReasoning
 generated_at: 2026-06-24 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Enhancing Brain Mri Anomaly Detection And Reasonin
 
 ## Summary
 This paper introduces BrReMark, a framework that adds explicit region marking to brain MRI diagnosis by generating hypotheses and verifying them through bounding box annotations. The approach improves detection performance on both in‑distribution and out‑of‑distribution data, raising mAP50 from 0.74% to 37.54% and achieving high clinical F1 scores.

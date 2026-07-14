@@ -7,6 +7,7 @@ source_paper: 2026-06-29_13-47-42Z_Always_OnAgents_ASurveyofPersistentMemory_Sta
 generated_at: 2026-06-29 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-29 Always-Onagents A Survey Of Persistent Memory  Sta
 
 ## Summary
 The paper surveys persistent memory and governance aspects of always‑on agents, focusing on how state accumulates across interactions. It proposes the Always‑On Evaluation Protocol to assess state mutation and recovery obligations beyond answer quality.

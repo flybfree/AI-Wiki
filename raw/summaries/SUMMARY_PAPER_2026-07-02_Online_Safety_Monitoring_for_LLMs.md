@@ -7,6 +7,7 @@ source_paper: 2026-07-02_17-59-43Z_OnlineSafetyMonitoringforLLMs.md
 generated_at: 2026-07-02 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-02 Online Safety Monitoring For Llms
 
 ## Summary
 The paper presents a lightweight real‑time monitor that converts an external model’s safety verification into an alarm decision by applying a calibrated threshold. Experiments on mathematical reasoning and red‑team datasets show this simple design matches the performance of more complex sequential hypothesis testing monitors, demonstrating that basic thresholding can be effective for online safety monitoring.

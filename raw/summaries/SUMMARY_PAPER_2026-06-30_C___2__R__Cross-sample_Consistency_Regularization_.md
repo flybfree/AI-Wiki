@@ -7,6 +7,7 @@ source_paper: 2026-06-29_17-45-31Z_C___2__R_Cross_sampleConsistencyRegularizatio
 generated_at: 2026-06-30 01:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 C   2  R  Cross-Sample Consistency Regularization 
 
 ## Summary
 The paper introduces C$^{2}$R, a cross‑sample consistency regularization technique that addresses feature splitting and absorption in sparse autoencoders used for interpreting language model activations. By penalizing co‑activation of directionally similar latents across the batch, C$^{2}$R enforces a unified representation of each semantic feature, thereby improving latent reliability while maintaining reconstruction fidelity.

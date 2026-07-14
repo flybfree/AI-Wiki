@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-38-47Z_DemocraticICAI_DebatingOurWaytoSteeringPrinci
 generated_at: 2026-06-28 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Democratic Icai  Debating Our Way To Steering Prin
 
 ## Summary
 The paper presents Democratic ICAI, a method that improves on inverse constitutional AI by generating natural-language principles through structured persona debate. It demonstrates that this approach yields more faithful preference structures and better prediction across creative tasks compared to prior methods. The experiments show higher alignment with human annotators' preferences.

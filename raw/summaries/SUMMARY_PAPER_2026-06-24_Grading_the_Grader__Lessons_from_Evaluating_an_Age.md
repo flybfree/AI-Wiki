@@ -7,6 +7,7 @@ source_paper: 2026-06-23_17-18-28Z_GradingtheGrader_LessonsfromEvaluatinganAgent
 generated_at: 2026-06-24 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Grading The Grader  Lessons From Evaluating An Age
 
 ## Summary
 This paper evaluates the reliability of automated graders for agentic data analysis systems that generate code, numerical results, and verbal diagnostics. The study demonstrates that a three‑layer human‑AI grading cascade can achieve 100 % observed precision with only zero false positives, while a lenient LLM grader reaches 97 % recall against human labels.

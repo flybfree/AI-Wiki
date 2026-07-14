@@ -7,6 +7,7 @@ source_paper: 2026-06-29_13-37-56Z_ManimAgent_Self_EvolvingMultimodalAgentsforVi
 generated_at: 2026-06-29 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-29 Manimagent  Self-Evolving Multimodal Agents For Vi
 
 ## Summary
 The paper introduces ManimAgent, a self-evolving multimodal agent that retains reflection experience across tasks via an episodic memory bank without weight updates or human seeds. On code generation from scientific papers to Python animations with the Manim library, it shows improved performance and reduced reflection rounds as memory grows.

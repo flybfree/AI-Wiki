@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-04-42Z_LearningTopology_AwareRepresentationsviaTest_
 generated_at: 2026-06-28 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Learning Topology-Aware Representations Via Test-T
 
 ## Summary
 This paper proposes TopoTTA, a test‑time adaptation framework that leverages persistent homology to enforce geometric coherence in anomaly segmentation. By converting anomaly score maps into multi‑level cubical complexes and extracting topological pseudo‑labels, the method improves segmentation without retraining the backbone model. Experiments on six benchmarks show an average 15 % F1 gain over state‑of‑the‑art unsupervised approaches.

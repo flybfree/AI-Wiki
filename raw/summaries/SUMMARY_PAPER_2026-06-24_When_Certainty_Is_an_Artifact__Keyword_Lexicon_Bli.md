@@ -7,6 +7,7 @@ source_paper: 2026-06-24_17-36-39Z_WhenCertaintyIsanArtifact_KeywordLexiconBlind
 generated_at: 2026-06-24 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 When Certainty Is An Artifact  Keyword Lexicon Bli
 
 ## Summary
 This paper investigates whether a strong statistical correlation between negative affect and emphatic vocabulary in interviews of public intellectuals is an artifact of keyword‑based measurement rather than genuine rhetorical stance. By comparing traditional keyword counting with zero‑shot LLM classification on the same diarized corpus, it shows that keyword scores overestimate certainty while LLM analysis reveals true hedging patterns.

@@ -7,6 +7,7 @@ source_paper: 2026-06-30_13-23-25Z_Tone_ConditionedCurriculumLearningforLow_Reso
 generated_at: 2026-06-30 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Tone-Conditioned Curriculum Learning For Low-Resou
 
 ## Summary
 The paper introduces a tone‑conditioned curriculum learning framework for six Southern Bantu languages, aiming to reduce zero‑shot word error rates (WER) that exceed 100% in current foundation models. By integrating hybrid difficulty scoring and gated adapters driven by tonal statistics, the authors achieve W2V‑BERT performance that outperforms Whisper on Nguni languages while maintaining strong results on Sotho‑Tswana. The best average WER across datasets is 28.41%, with transfer to Xitsonga reaching 23.79%.

@@ -7,6 +7,7 @@ source_paper: 2026-06-25_17-58-21Z_AutoregressiveBoltzmannGenerators.md
 generated_at: 2026-06-25 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-25 Autoregressive Boltzmann Generators
 
 ## Summary
 The paper introduces Autoregressive Boltzmann Generators (ArBG), a new sampling method that replaces flow‑based approaches with an autoregressive model to generate molecular equilibria efficiently. It achieves better performance on peptide systems and provides a transferable 132‑million‑parameter model named Robin that reduces zero‑shot error by over 60 % compared with prior methods.

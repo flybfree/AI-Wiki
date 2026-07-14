@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-21-06Z_AgenticHardwareDesignasRepository_LevelCodeEv
 generated_at: 2026-06-28 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Agentic Hardware Design As Repository-Level Code E
 
 ## Summary
 The paper introduces HORIZON, a framework that treats hardware design as repository‑level code evolution using a Markdown harness compiled into a project pack with domain knowledge, evaluator, predicate, and git policy. The hands‑free agent loop evolves an isolated worktree through repository operations, achieving 100 % completion on multiple benchmark suites while highlighting the limits of current AI in chip design.

@@ -7,6 +7,7 @@ source_paper: 2026-07-01_17-59-56Z_MeasuringtheGapBetweenHumanandLLMResearchIdea
 generated_at: 2026-07-01 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Measuring The Gap Between Human And Llm Research I
 
 ## Summary
 The paper builds a framework to measure how far LLM‑generated research ideas differ from those of human researchers. By reverse‑engineering prior works that inspired real papers and prompting LLMs, the authors quantify divergence using a two‑axis taxonomy. They find that LLM ideas cluster around bridge‑like opportunities while human ideas span broader framing patterns.

@@ -7,6 +7,7 @@ source_paper: 2026-06-22_17-59-20Z_CoorDex_CoordinatingBodyandHandPriorsforConti
 generated_at: 2026-06-23 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-23 Coordex  Coordinating Body And Hand Priors For Con
 
 ## Summary
 The paper introduces CoorDex, a learning pipeline that integrates high-dimensional body and hand control into a coordinated latent residual policy for continuous humanoid loco-manipulation. It demonstrates that a Unitree G1 robot with a 20‑DoF WUJI hand can perform tasks like bottle grasping while walking. The approach outperforms traditional methods in dexterous manipulation during locomotion.

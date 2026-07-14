@@ -7,6 +7,7 @@ source_paper: 2026-06-21_17-31-05Z_AutomatedsigndetectionacrosstheElectronicBaby
 generated_at: 2026-06-22 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Automated Sign Detection Across The Electronic Bab
 
 ## Summary
 The paper presents the largest annotated cuneiform sign dataset and a DETR-based detection pipeline that processes tablet fragments from the Electronic Babylonian Library. The system detects up to 2.9 million signs across 87,668 tablets, improving detection metrics by 28‑37% compared with earlier approaches.

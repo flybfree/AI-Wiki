@@ -7,6 +7,7 @@ source_paper: 2026-06-23_17-28-00Z_IV_CoT_ImplicitVisualChain_of_ThoughtforStruc
 generated_at: 2026-06-24 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Iv-Cot  Implicit Visual Chain-Of-Thought For Struc
 
 ## Summary
 The paper introduces Implicit Visual Chain-of-Thought (IV‑CoT) to solve structure‑aware text‑to-image generation by separating structural planning from appearance rendering. It achieves this in a single forward pass using training‑only sketch supervision that creates latent visual plans. The model outperforms existing methods on GenEval and T2I‑CompBench.

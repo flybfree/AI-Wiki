@@ -7,6 +7,7 @@ source_paper: 2026-06-29_14-02-15Z_BrainJanus_AUnifiedModelforUnderstandingandGe
 generated_at: 2026-06-29 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-29 Brainjanus  A Unified Model For Understanding And 
 
 ## Summary
 The paper introduces BrainJanus, a unified model that integrates brain activity, vision and language into one framework. It achieves bidirectional correspondence across modalities using a Unified Brain Tokenizer and an all‑in‑one autoregressive architecture. The model also reduces computational complexity by sharing parameters across modalities.

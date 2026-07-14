@@ -7,6 +7,7 @@ source_paper: 2026-06-30_17-52-28Z_FLORA_Adeeplearningapproachtopredictforestatt
 generated_at: 2026-06-30 23:33
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Flora  A Deep Learning Approach To Predict Forest 
 
 ## Summary
 The paper introduces FLORA, a deep learning framework that predicts six forest attributes from heterogeneous LiDAR point clouds. Trained on 32,052 French NFI plots, it outperforms season-specific models and achieves an rRMSE of about 12.3% (R² = 0.88) for dominant height.

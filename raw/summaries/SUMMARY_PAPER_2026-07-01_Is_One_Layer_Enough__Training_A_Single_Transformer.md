@@ -7,6 +7,7 @@ source_paper: 2026-07-01_17-59-54Z_IsOneLayerEnough_TrainingASingleTransformerLa
 generated_at: 2026-07-01 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Is One Layer Enough  Training A Single Transformer
 
 ## Summary
 This paper investigates how reinforcement learning (RL) adaptation is distributed across transformer layers, challenging the assumption that all parameters must be updated uniformly. The authors demonstrate that training a single transformer layer can recover most of the gains from full‑parameter RL and sometimes exceed them, revealing a surprising concentration of improvement in only a few middle layers.

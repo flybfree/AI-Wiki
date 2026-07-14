@@ -7,6 +7,7 @@ source_paper: 2026-07-02_17-58-29Z_DemoPSD_Disagreement_ModulatedPolicySelf_Dist
 generated_at: 2026-07-02 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-02 Demopsd  Disagreement-Modulated Policy Self-Distil
 
 ## Summary
 This paper introduces DemoPSD, a framework for on‑policy self‑distillation that addresses leakage and exploration problems in dense token‑level teacher guidance. By using a reverse‑KL barycenter target to blend teacher and student distributions adaptively, DemoPSD mitigates privileged information leakage while preserving the student’s reasoning capacity. Experiments show it outperforms GRPO and SDPO on SciKnowEval across four fields with higher training entropy and better out‑of‑distribution performance.

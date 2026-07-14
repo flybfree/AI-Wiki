@@ -7,6 +7,7 @@ source_paper: 2026-06-23_17-21-09Z_WorldModelsinPieces_StructuralCertificationfo
 generated_at: 2026-06-24 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 World Models In Pieces  Structural Certification F
 
 ## Summary
 The paper tackles the problem that general agents cannot be universally capable because their world models are fragmented across tasks, making standard worst‑case guarantees uninformative. It introduces structural certification—a transition‑local framework—that translates bounded goal‑conditioned performance into entry‑wise error bounds on the agent’s internal world model.

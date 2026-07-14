@@ -7,6 +7,7 @@ source_paper: 2026-06-29_13-45-28Z_ResearchEntityExtractionandTopicDetectionfrom
 generated_at: 2026-06-29 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-29 Research Entity Extraction And Topic Detection Fro
 
 ## Summary
 This paper investigates how large language models can extract and classify research entities from UKRI grant proposals to detect emerging topics for public investment. The study compares GPT‑4o, Mistral, and a custom DSIT‑Taxonomies algorithm across 42 abstracts, finding that Mistral delivers high‑quality entity sets with strong semantic overlap and superior topic classification accuracy.

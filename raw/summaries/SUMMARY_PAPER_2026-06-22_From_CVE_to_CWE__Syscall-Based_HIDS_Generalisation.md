@@ -7,6 +7,7 @@ source_paper: 2026-06-21_16-34-39Z_FromCVEtoCWE_Syscall_BasedHIDSGeneralisation.
 generated_at: 2026-06-22 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 From Cve To Cwe  Syscall-Based Hids Generalisation
 
 ## Summary
 The paper investigates whether a one‑class anomaly detector trained on normal syscall traces from CVEs sharing the same CWE class can detect unseen CVEs within that class. Experiments across six scenarios show mixed results: the combined CWE‑307 detector achieves F1 ≈ 0.698 at a calibrated false‑positive rate of 5 %, while detectors for CWE‑89 and CWE‑434 perform poorly (F1 ≤ 0.21). The study also finds that cross‑CVE transfer depends on the breadth of the source normal profile rather than the CWE label, and that calibrated FPR is essential for honest reporting.

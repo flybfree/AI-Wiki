@@ -7,6 +7,7 @@ source_paper: 2026-06-30_17-58-23Z_QVal_CheaplyEvaluatingDenseSupervisionSignals
 generated_at: 2026-06-30 23:32
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Qval  Cheaply Evaluating Dense Supervision Signals
 
 ## Summary
 The paper introduces QVal a training‑free testbed that directly measures how well dense supervision scores align with the expectations of a strong reference policy. It benchmarks 21 methods across four environments and seven methodological families, finding simple prompting baselines beat many recent approaches. The results show strong clustering by family regardless of model size or observation type.

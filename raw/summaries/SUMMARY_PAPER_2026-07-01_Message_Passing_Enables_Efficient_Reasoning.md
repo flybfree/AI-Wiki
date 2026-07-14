@@ -7,6 +7,7 @@ source_paper: 2026-07-01_15-35-04Z_MessagePassingEnablesEfficientReasoning.md
 generated_at: 2026-07-01 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Message Passing Enables Efficient Reasoning
 
 ## Summary
 This paper introduces Message Passing Language Models which enable efficient reasoning by allowing threads to communicate via lightweight primitives. The framework reduces communication costs and supports early termination of unpromising branches. We also show that appropriately prompted large pre‑trained models follow the MPLM protocol, achieving competitive results on long‑context question answering relative to popular fork‑join approaches.

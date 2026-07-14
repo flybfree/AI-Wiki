@@ -9,6 +9,7 @@ generated_at: "2026-06-11 10:49"
 model: nvidia/nemotron-3-nano-4b
 
 ---
+# Summary: 2026-05-29 13-08-46Z Learningparametricnitrogenfertilizerresponsecurves
 
 
 ## Summary

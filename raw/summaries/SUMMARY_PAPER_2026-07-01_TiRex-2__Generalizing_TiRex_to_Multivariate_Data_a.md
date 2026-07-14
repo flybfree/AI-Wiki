@@ -7,6 +7,7 @@ source_paper: 2026-07-01_17-45-04Z_TiRex_2_GeneralizingTiRextoMultivariateDataan
 generated_at: 2026-07-01 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Tirex-2  Generalizing Tirex To Multivariate Data A
 
 ## Summary
 TiRex‑2 extends the univariate TiRex model to multivariate forecasting by integrating both past and future covariates using a recurrent xLSTM architecture. The paper demonstrates that this design achieves state‑of‑the‑art zero‑shot performance on benchmark datasets while maintaining constant inference cost per patch under streaming conditions.

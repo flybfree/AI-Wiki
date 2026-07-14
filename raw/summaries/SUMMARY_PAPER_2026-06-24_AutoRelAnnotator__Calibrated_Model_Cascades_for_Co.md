@@ -7,6 +7,7 @@ source_paper: 2026-06-24_14-20-30Z_AutoRelAnnotator_CalibratedModelCascadesforCo
 generated_at: 2026-06-24 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 Autorelannotator  Calibrated Model Cascades For Co
 
 ## Summary
 This paper introduces AutoRelAnnotator, a calibrated model cascade that generates high‑quality relevance annotations for sponsored search at scale without human labeling. The approach routes queries through progressively larger fine‑tuned classifiers and adds per‑class isotonic calibration to boost accuracy while keeping compute cost low.

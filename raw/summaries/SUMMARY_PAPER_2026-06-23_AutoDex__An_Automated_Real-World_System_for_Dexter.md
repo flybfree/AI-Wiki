@@ -7,6 +7,7 @@ source_paper: 2026-06-22_17-59-55Z_AutoDex_AnAutomatedReal_WorldSystemforDextero
 generated_at: 2026-06-23 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-23 Autodex  An Automated Real-World System For Dexter
 
 ## Summary
 AutoDex is an automated real‑world system that generates candidate grasps, executes them on a robot, labels each attempt as success or failure, and resets the object to expose new poses. The approach closes the full perception‑execution‑labeling loop without human intervention and produces a reusable database of physically validated grasp trials.

@@ -7,6 +7,7 @@ source_paper: 2026-06-24_17-52-57Z_Across_processweldingpenetrationstatuspredict
 generated_at: 2026-06-24 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-24 A Cross-Process Welding Penetration Status Predict
 
 ## Summary
 The paper proposes an unsupervised domain adaptation framework with gradual source domain expansion to predict weld penetration status across TIG and laser processes. It achieves high accuracy in both same-process and cross-process transfer tasks, outperforming supervised baselines by 35-40%. UMAP visualizations confirm domain-invariant features.

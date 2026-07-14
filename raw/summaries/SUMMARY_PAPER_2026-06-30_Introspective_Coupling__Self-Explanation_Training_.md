@@ -7,6 +7,7 @@ source_paper: 2026-06-30_17-59-32Z_IntrospectiveCoupling_Self_ExplanationTrainin
 generated_at: 2026-06-30 23:32
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Introspective Coupling  Self-Explanation Training 
 
 ## Summary
 The paper investigates when language models generate explanations that faithfully reflect their own behavior rather than merely copying training targets. It finds that fixed counterfactual supervision can produce introspective coupling, where model explanations stay aligned with current behaviors even as they evolve. This coupling persists across tasks and is robust to label noise.

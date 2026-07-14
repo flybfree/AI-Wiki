@@ -7,6 +7,7 @@ source_paper: 2026-07-01_15-46-16Z_Group_invariantCoresetsforData_efficientActiv
 generated_at: 2026-07-01 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Group-Invariant Coresets For Data-Efficient Active
 
 ## Summary
 The paper introduces GRINCO, a group-invariant coreset method that selects samples based on their orbit in the quotient space induced by a transformation group. By operating on orbits rather than raw instances it reduces redundancy and improves label efficiency. Experiments show better coverage and performance especially when symmetry causes substantial overlap.

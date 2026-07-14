@@ -7,6 +7,7 @@ source_paper: 2026-07-01_15-40-12Z_Staleness_LearningRateScalingLawsforAsynchron
 generated_at: 2026-07-01 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Staleness-Learning Rate Scaling Laws For Asynchron
 
 ## Summary
 The paper investigates how stale rollouts affect stability in asynchronous gradient policy optimization within reinforcement learning with human feedback. It shows that the bias introduced by a lag S and learning rate η scales as O(S·η) and derives a scaling law linking collapse time to either cumulative drift T·η or stale‑rollout constraint S·η.

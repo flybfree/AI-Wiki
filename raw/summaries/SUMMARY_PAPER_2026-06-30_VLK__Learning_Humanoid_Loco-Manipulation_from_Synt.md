@@ -7,6 +7,7 @@ source_paper: 2026-06-29_17-59-55Z_VLK_LearningHumanoidLoco_ManipulationfromSynt
 generated_at: 2026-06-30 01:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Vlk  Learning Humanoid Loco-Manipulation From Synt
 
 ## Summary  
 The paper introduces a synthetic data pipeline that generates vision-language-kinematics (VLK) supervision for humanoid loco-manipulation tasks. By reconstructing indoor scenes with 3D Gaussian Splatting and synthesizing navigation and interaction trajectories, the authors create 48,000 paired egocentric observations with corresponding kinematic trajectories. Their model predicts short‑horizon whole‑body motions that are executed on a physical Unitree G1 robot.

@@ -7,6 +7,7 @@ source_paper: 2026-06-26_17-54-13Z_SurprisesinProperPositive_OnlyLearning.md
 generated_at: 2026-06-28 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-28 Surprises In Proper Positive-Only Learning
 
 ## Summary
 The paper revisits the problem of learning binary classification from positive‑only samples and settles a long‑standing open question by providing a complete characterization. It shows that proper learning is possible only when the concept class has finite VC dimension and satisfies uniform exterior separability, while improper learning occurs otherwise. The work also reveals that deterministic, randomized, and ERM learners are separated by these conditions.

@@ -7,6 +7,7 @@ source_paper: 2026-06-22_17-56-25Z_TaperedLanguageModels.md
 generated_at: 2026-06-23 00:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-23 Tapered Language Models
 
 ## Summary
 The paper investigates whether language models benefit from non‑uniform parameter allocation across layers and introduces Tapered Language Models (TLMs) that taper width using a cosine schedule. Experiments show that tapering MLP width improves perplexity without extra compute or parameters compared to uniform models.

@@ -7,6 +7,7 @@ source_paper: 2026-07-02_17-59-26Z_ReContext_RecursiveEvidenceReplayasLLMHarness
 generated_at: 2026-07-02 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-02 Recontext  Recursive Evidence Replay As Llm Harnes
 
 ## Summary
 The paper introduces RECONTEXT, a training‑free inference method that improves long‑context reasoning by using model‑internal relevance signals to build a query‑conditioned evidence pool and replay it before final generation while keeping the full original context intact. Experiments on eight datasets with 128 K tokens show that RECONTEXT consistently boosts evidence utilization across Qwen3‑4B, Qwen3‑8B, and Llama3‑8B, achieving the best average rank for each model.

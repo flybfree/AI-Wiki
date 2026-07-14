@@ -7,6 +7,7 @@ source_paper: 2026-06-25_17-59-36Z_ReinforcementLearningwithoutGround_TruthSolut
 generated_at: 2026-06-25 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-25 Reinforcement Learning Without Ground-Truth Soluti
 
 ## Summary
 This paper introduces RiVER, a reinforcement learning framework that trains large language models on score‑based coding tasks without relying on ground‑truth solutions. By using deterministic execution feedback as continuous rewards and addressing scale dominance and frequency dominance, RiVER improves model performance both in ranking benchmarks and exact‑solution evaluations.

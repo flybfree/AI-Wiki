@@ -7,6 +7,7 @@ source_paper: 2026-06-19_15-55-18Z_PeerMathDial_AMiddleSchoolDialogueDatasetforS
 generated_at: 2026-06-22 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-22 Peermathdial  A Middle School Dialogue Dataset For
 
 ## Summary
 This paper introduces PeerMathDial, a dataset of authentic middle school math dialogues that captures peer‑to‑peer problem solving. The study shows how students coordinate, negotiate strategies, and benefit from teacher interventions within real classroom settings.

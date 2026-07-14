@@ -9,6 +9,7 @@ generated_at: "2026-06-11 10:41"
 model: nvidia/nemotron-3-nano-4b
 
 ---
+# Summary: 2026-05-15 17-43-16Z Layerequivalenceisnotapropertyoflayersalone Howyou
 
 
 ## Summary

@@ -7,6 +7,7 @@ source_paper: 2026-06-29_17-50-54Z_ScalingtheHorizon_NottheParameters_ReachingTr
 generated_at: 2026-06-30 01:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-30 Scaling The Horizon  Not The Parameters  Reaching 
 
 ## Summary
 The paper introduces Agents-A1, a 35B Mixture-of-Experts agentic model that achieves trillion‑parameter performance by extending the agent horizon. It demonstrates that scaling long‑horizon trajectories and heterogeneous abilities can match or surpass larger models on benchmark tasks.

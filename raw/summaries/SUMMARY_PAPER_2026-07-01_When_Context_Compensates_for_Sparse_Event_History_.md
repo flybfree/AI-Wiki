@@ -7,6 +7,7 @@ source_paper: 2026-07-01_15-38-39Z_WhenContextCompensatesforSparseEventHistory_A
 generated_at: 2026-07-01 21:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 When Context Compensates For Sparse Event History 
 
 ## Summary
 The paper investigates how exogenous spatial context can improve forecasting of rare events when local histories are sparse. Using a log‑Gaussian Cox process with AlphaEarth embeddings as linear spatial context, the authors compare event‑only and augmented models across eight EMS regions. They find that the augmented model yields large multiplicative gains under short histories (2–6×) and modest gains later.

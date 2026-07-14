@@ -7,6 +7,7 @@ source_paper: 2026-06-25_17-59-58Z_DanceOPD_On_PolicyGenerativeFieldDistillation
 generated_at: 2026-06-25 22:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-06-25 Danceopd  On-Policy Generative Field Distillation
 
 ## Summary
 This paper introduces DanceOPD, an on‑policy generative field distillation method for flow‑matching image generators that aligns text‑to‑image, local editing, and global editing capabilities. By treating each capability as a velocity field over a shared flow state space, the framework routes samples to one field, queries a low‑noise student state, and trains with a simple velocity MSE loss. The approach improves multi‑capability composition while preserving anchor generation quality.

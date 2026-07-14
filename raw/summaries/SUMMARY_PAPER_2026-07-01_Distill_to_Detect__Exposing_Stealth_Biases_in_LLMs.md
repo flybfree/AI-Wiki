@@ -7,6 +7,7 @@ source_paper: 2026-07-01_17-46-33Z_DistilltoDetect_ExposingStealthBiasesinLLMsth
 generated_at: 2026-07-01 23:00
 model: nvidia/nemotron-3-nano-4b
 ---
+# Summary: 2026-07-01 Distill To Detect  Exposing Stealth Biases In Llms
 
 ## Summary
 The paper introduces Distill to Detect (D2D), a method that surfaces hidden biases in large language models by converting the distributional shift between a model and its base into a cartridge adapter that amplifies bias signals into generated text, enabling reliable detection across various bias types. Experiments demonstrate that D2D can expose stealth biases that are invisible through standard inspection of outputs or weights. The approach relies on Fisher-weighted projection of logit distribution shifts to explain its effectiveness.
