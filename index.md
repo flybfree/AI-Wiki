@@ -204,6 +204,16 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-13_17-49-10Z_Evidence_BackedVideoQuestionAnswering.md]] : Evidence-Backed Video Question Answering
+- [[2026-07-13_17-55-19Z_InsidetheUnfairJudge_AMechanisticInterpretabilityA.md]] : Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias
+- [[2026-07-13_17-56-08Z_AMinimalistRetargeting_GuidedReinforcementLearning.md]] : A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation
+- [[2026-07-13_17-58-50Z_RequentialCoding_PushingtheLimitsofModelCompressio.md]] : Requential Coding: Pushing the Limits of Model Compression with Self-Generated Training Data
+- [[2026-07-13_17-58-37Z_MetacognitioninLLMs_Foundations_Progress_andOpport.md]] : Metacognition in LLMs: Foundations, Progress, and Opportunities
+- [[2026-07-13_17-34-17Z_Input_AwareDynamicBackdoorAttackAgainstQuantumNeur.md]] : Input-Aware Dynamic Backdoor Attack Against Quantum Neural Networks
+- [[2026-07-13_17-56-05Z_ADurabilityandCross_LanguageTransferBenchmarkforaV.md]] : A Durability and Cross-Language Transfer Benchmark for a Validated Teaching-Feedback Classification Protocol
+- [[2026-07-13_17-38-22Z_AdvancedMathBench_ABenchmarkSuiteforAdvancedMathem.md]] : AdvancedMathBench: A Benchmark Suite for Advanced Mathematical Proof Generation and Verification
+- [[2026-07-13_17-27-58Z_LoRA_BasedCascadedMultimodalFusionforActionRecogni.md]] : LoRA-Based Cascaded Multimodal Fusion for Action Recognition in Medical Training Environments
+- [[2026-07-13_17-56-11Z_InvariantLearningDynamicsofTransformersinInductive.md]] : Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks
 - [[2026-07-10_17-39-00Z_SemanticPareto_DQN_AMulti_ObjectiveReinforcementLe.md]] : Semantic Pareto-DQN: A Multi-Objective Reinforcement Learning Framework for Financial Anomaly Detection
 - [[2026-07-10_17-26-19Z_4DR360_StateReasoningforJoint3DDetectionandOccupan.md]] : 4DR360: State Reasoning for Joint 3D Detection and Occupancy Prediction in 4D Radar-Camera Full-Scene Perception
 - [[2026-07-10_17-28-26Z_Lean_QIT_TowardsaFormalInfrastructureforQuantumInf.md]] : Lean-QIT: Towards a Formal Infrastructure for Quantum Information Theory
@@ -833,3 +843,4 @@ tags: ['wiki']
 - [[2026-07-13_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
 - [[2026-07-13_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
 - [[2026-07-13_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[2026-07-13_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
