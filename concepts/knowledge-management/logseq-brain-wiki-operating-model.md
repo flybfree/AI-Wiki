@@ -15,8 +15,8 @@ confidence: high
 This page defines how the AI Research wiki and the Logseq brain should work together:
 - the **wiki** is the curated, user-facing reference system
 - the **Logseq brain** is the assistant-facing mirror for fast retrieval and graph use
-- the **GitHub wiki** is the canonical copy Rich actually uses
-- the local copy under `/home/rich/wiki/ai-research/` is the working clone Hermes edits
+- the **GitHub wiki** is the canonical, remote, user-friendly access layer Rich actually uses
+- the local copy under `/home/rich/wiki/ai-research/` is the primary working clone Hermes edits
 
 ## Core principle
 
@@ -31,6 +31,7 @@ The local Logseq mirror exists so Hermes and Logseq can read and navigate the sa
 | Local wiki working copy | `/home/rich/wiki/ai-research/` | Source files Hermes edits before pushing |
 | Logseq mirror | `/home/rich/logseq-brain/pages/ai-research/` | Synced copy for Logseq graph use and assistant retrieval |
 | SMB mirror / backup | `192.168.3.62/share` | Shared mirror for accessibility and backup workflows |
+| PRISM mirror / user working copy | `192.168.3.89/wiki` and `192.168.3.89/logseq-brain` | Secondary backup plus the GPU-machine working copy |
 | Raw articles | `raw/articles/` | Immutable article captures |
 | Raw papers | `raw/papers/` | Immutable paper captures |
 | Raw summaries | `raw/summaries/` | Historical summary outputs and legacy summary files |
@@ -89,8 +90,9 @@ Examples:
 3. Add cross-links from related concept and navigation pages.
 4. Push the local wiki working copy to GitHub.
 5. Sync the wiki into the Logseq mirror.
-6. Reindex / refresh Logseq if needed.
-7. Run maintenance checks for duplicates, broken links, and missing summaries.
+6. Sync the local wiki and Logseq mirror into PRISM as the user-accessible backup copy.
+7. Reindex / refresh Logseq if needed.
+8. Run maintenance checks for duplicates, broken links, and missing summaries.
 
 ## Design rules for the wiki
 
