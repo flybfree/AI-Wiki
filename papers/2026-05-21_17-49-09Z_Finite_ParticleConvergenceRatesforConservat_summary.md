@@ -1,5 +1,5 @@
 ---
-title: "2026 05 21 17 49 09Z Finite Particleconvergenceratesforconservat Summary"
+title: "Summary: 2026-05-21_17-49-09Z_Finite_ParticleConvergenceRatesforConservativeandN.md"
 date: 2026-05-21
 tags: ['paper', 'research', 'ai']
 ---

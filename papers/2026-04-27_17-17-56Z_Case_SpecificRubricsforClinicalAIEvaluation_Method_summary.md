@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 17 56Z Case Specificrubricsforclinicalaievaluation Method Summary"
+title: "Summary: Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

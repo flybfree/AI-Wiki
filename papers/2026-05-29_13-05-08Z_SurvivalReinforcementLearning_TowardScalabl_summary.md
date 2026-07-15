@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 13 05 08Z Survivalreinforcementlearning Towardscalabl Summary"
+title: "Summary: 2026-05-29_13-05-08Z_SurvivalReinforcementLearning_TowardScalableSelf_S.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

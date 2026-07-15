@@ -1,5 +1,5 @@
 ---
-title: "2026 06 14 13 02 44Z Diffract Diffusionfeaturereconstructionanda Summary"
+title: "Summary: 2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandAttribut.md"
 date: 2026-06-14
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 13 19 02Z Samforrobustmitochondriainstancesegmentatio Summary"
+title: "Summary: 2026-05-29_13-19-02Z_SAMforRobustMitochondriaInstanceSegmentationinFluo.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

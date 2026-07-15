@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 12 28 20Z Dunbaabert Fromsacrificetosemantics Summary"
+title: "Summary: 2026-05-26_12-28-20Z_DunbaaBERT_FromSacrificetoSemantics.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

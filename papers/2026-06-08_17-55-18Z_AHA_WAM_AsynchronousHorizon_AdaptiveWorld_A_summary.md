@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 17 55 18Z Aha Wam Asynchronoushorizon Adaptiveworld A Summary"
+title: "Summary: 2026-06-08_17-55-18Z_AHA_WAM_AsynchronousHorizon_AdaptiveWorld_ActionMo.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 07 17 58 32Z Verifier Backedhardproblemgenerationformath Summary"
+title: "Summary: 2026-05-07_17-58-32Z_Verifier_BackedHardProblemGenerationforMathematica.md"
 date: 2026-05-07
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 30 Ultrasocextendson Chipanalyticsarchitectureforthea Summary"
+title: "Summary: 2026-04-30_UltraSoCextendson-chipanalyticsarchitectureforthea.md"
 date: 2026-04-30
 tags: ['article', 'news', 'ai']
 ---

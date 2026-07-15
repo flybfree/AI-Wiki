@@ -1,5 +1,5 @@
 ---
-title: "2026 06 03 17 49 48Z Gem Nr Geometry Awaremulti Vieweditingforno Summary"
+title: "Summary: 2026-06-03_17-49-48Z_GeM_NR_Geometry_AwareMulti_ViewEditingforNonrigidS.md"
 date: 2026-06-03
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 15 46 10Z Beyondbinaryeditsrobustmultimodalknowledgee Summary"
+title: "Summary: 2026-05-22_15-46-10Z_BeyondBinaryEditsRobustMultimodalKnowledgeEditingw.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

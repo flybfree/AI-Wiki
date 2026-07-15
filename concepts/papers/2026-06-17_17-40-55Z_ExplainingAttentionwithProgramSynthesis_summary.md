@@ -1,5 +1,5 @@
 ---
-title: "2026 06 17 17 40 55Z Explainingattentionwithprogramsynthesis Summary"
+title: "Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md"
 date: 2026-06-17
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 17 52 03Z Atlas Activetheorylearningforautomatedscien Summary"
+title: "Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 14 38 23Z Towardsresponsiblynon Compliantmachines Summary"
+title: "Summary: 2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

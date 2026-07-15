@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 15 18 53Z Contrasttodetect Dynamicgraphcontrastivereg Summary"
+title: "Summary: 2026-05-22_15-18-53Z_ContrasttoDetect_DynamicGraphContrastiveRegulariza.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

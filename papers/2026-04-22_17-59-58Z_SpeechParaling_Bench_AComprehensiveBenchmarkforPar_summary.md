@@ -1,5 +1,5 @@
 ---
-title: "2026 04 22 17 59 58Z Speechparaling Bench Acomprehensivebenchmarkforpar Summary"
+title: "Summary: 2026-04-22_17-59-58Z_SpeechParaling_Bench_AComprehensiveBenchmarkforPar"
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---

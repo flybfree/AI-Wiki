@@ -1,5 +1,5 @@
 ---
-title: "2026 06 05 17 46 32Z Twelvequicktipsfordesigningai Drivenhpcwork Summary"
+title: "Summary: 2026-06-05_17-46-32Z_TwelvequicktipsfordesigningAI_drivenHPCworkflows.md"
 date: 2026-06-05
 tags: ['paper', 'research', 'ai']
 ---

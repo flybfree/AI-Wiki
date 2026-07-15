@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-01_15-46-16Z_Group_invariantCoresetsforData_efficientActiveLear.md"
 # Summary: 2026-07-01_15-46-16Z_Group_invariantCoresetsforData_efficientActiveLear.md
 Saved: 2026-07-01 21:01
 Source: 2026-07-01_15-46-16Z_Group_invariantCoresetsforData_efficientActiveLear.md

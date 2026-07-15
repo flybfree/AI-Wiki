@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-24_17-55-38Z_Real_TimeVoiceAIHearsbutDoesNotListen.md"
 # Summary: 2026-06-24_17-55-38Z_Real_TimeVoiceAIHearsbutDoesNotListen.md
 Saved: 2026-06-24 22:02
 Source: 2026-06-24_17-55-38Z_Real_TimeVoiceAIHearsbutDoesNotListen.md

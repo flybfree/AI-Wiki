@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 17 56 19Z Zero Shotimaginedspeechdecodingviaimagined Summary"
+title: "Summary: 2026-05-08_17-56-19Z_Zero_ShotImaginedSpeechDecodingviaImagined_to_List.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

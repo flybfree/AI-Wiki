@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 17 57 13Z Conformalpathreasoning Trustworthyknowledge Summary"
+title: "Summary: 2026-05-08_17-57-13Z_ConformalPathReasoning_TrustworthyKnowledgeGraphQu.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

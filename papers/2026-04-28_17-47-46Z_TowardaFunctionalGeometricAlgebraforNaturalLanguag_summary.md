@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 47 46Z Towardafunctionalgeometricalgebrafornaturallanguag Summary"
+title: "Summary: Toward a Functional Geometric Algebra for Natural Language Semantics"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

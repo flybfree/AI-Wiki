@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 11 33 49Z Onpredictingthepost Trainingpotentialofpre Summary"
+title: "Summary: 2026-05-12_11-33-49Z_OnPredictingthePost_trainingPotentialofPre_trained.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

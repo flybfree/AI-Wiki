@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-29_17-57-50Z_One_StepGradientDelayisNotaBarrierforLarge_ScaleAs.md"
 # Summary: 2026-06-29_17-57-50Z_One_StepGradientDelayisNotaBarrierforLarge_ScaleAs.md
 Saved: 2026-06-30 01:02
 Source: 2026-06-29_17-57-50Z_One_StepGradientDelayisNotaBarrierforLarge_ScaleAs.md

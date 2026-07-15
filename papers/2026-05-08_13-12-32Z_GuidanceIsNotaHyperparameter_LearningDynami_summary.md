@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 13 12 32Z Guidanceisnotahyperparameter Learningdynami Summary"
+title: "Summary: 2026-05-08_13-12-32Z_GuidanceIsNotaHyperparameter_LearningDynamicContro.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

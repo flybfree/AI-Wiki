@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 17 46 55Z Relaxation Informedtrainingofneuralnetworksurrogat Summary"
+title: "Summary: 2026-04-24_17-46-55Z_Relaxation_InformedTrainingofNeuralNetworkSurrogat.md"
 date: 2026-04-24
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 26 15 07 41Z Modelinginducedpleasurethroughcognitiveappraisalpr Summary"
+title: "Summary: 2026-04-26_15-07-41Z_ModelingInducedPleasurethroughCognitiveAppraisalPr.md"
 date: 2026-04-26
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-30_17-54-50Z_WhenLLMsReadTablesCarelessly_MeasuringandReducingD.md"
 # Summary: 2026-06-30_17-54-50Z_WhenLLMsReadTablesCarelessly_MeasuringandReducingD.md
 Saved: 2026-06-30 23:34
 Source: 2026-06-30_17-54-50Z_WhenLLMsReadTablesCarelessly_MeasuringandReducingD.md

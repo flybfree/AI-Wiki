@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 56 56Z Personalizedworkedexamplegenerationfromstudentcode Summary"
+title: "Summary: Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

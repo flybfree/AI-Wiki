@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 11 23 34Z Constitutionalgovernanceinmetricspaces Summary"
+title: "Summary: 2026-05-13_11-23-34Z_ConstitutionalGovernanceinMetricSpaces.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 17 59 39Z Anagency Transferringmodel Freepolicyenhanc Summary"
+title: "Summary: 2026-06-08_17-59-39Z_AnAgency_TransferringModel_FreePolicyEnhancementTe.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

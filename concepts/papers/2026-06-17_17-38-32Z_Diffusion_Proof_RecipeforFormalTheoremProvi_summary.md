@@ -1,5 +1,5 @@
 ---
-title: "2026 06 17 17 38 32Z Diffusion Proof Recipeforformaltheoremprovi Summary"
+title: "Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md"
 date: 2026-06-17
 tags: ['paper', 'research', 'ai']
 ---

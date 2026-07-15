@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 15 25 42Z Automatingskill Mdgenerationforcomputer Usi Summary"
+title: "Summary: 2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

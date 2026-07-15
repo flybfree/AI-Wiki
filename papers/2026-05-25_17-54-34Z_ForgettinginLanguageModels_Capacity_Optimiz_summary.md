@@ -1,5 +1,5 @@
 ---
-title: "2026 05 25 17 54 34Z Forgettinginlanguagemodels Capacity Optimiz Summary"
+title: "Summary: 2026-05-25_17-54-34Z_ForgettinginLanguageModels_Capacity_Optimization_a.md"
 date: 2026-05-25
 tags: ['paper', 'research', 'ai']
 ---

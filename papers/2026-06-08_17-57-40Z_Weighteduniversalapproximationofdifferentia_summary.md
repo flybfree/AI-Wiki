@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 17 57 40Z Weighteduniversalapproximationofdifferentia Summary"
+title: "Summary: 2026-06-08_17-57-40Z_Weighteduniversalapproximationofdifferentiablemaps.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

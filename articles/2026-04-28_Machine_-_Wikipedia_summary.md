@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 Machine Wikipedia Summary"
+title: "Summary: 2026-04-28_Machine_-_Wikipedia.md"
 date: 2026-04-28
 tags: ['article', 'news', 'ai']
 ---

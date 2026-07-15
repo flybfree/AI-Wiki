@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 17 44 15Z Spectra Syntheticirtestcollectionswithrelev Summary"
+title: "Summary: 2026-05-29_17-44-15Z_SPECTRA_SyntheticIRTestCollectionswithRelevanceOra.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

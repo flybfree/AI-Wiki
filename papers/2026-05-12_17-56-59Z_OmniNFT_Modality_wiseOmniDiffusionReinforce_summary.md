@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 17 56 59Z Omninft Modality Wiseomnidiffusionreinforce Summary"
+title: "Summary: 2026-05-12_17-56-59Z_OmniNFT_Modality_wiseOmniDiffusionReinforcementfor.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

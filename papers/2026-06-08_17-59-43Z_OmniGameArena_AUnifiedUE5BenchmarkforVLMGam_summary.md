@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 17 59 43Z Omnigamearena Aunifiedue5Benchmarkforvlmgam Summary"
+title: "Summary: 2026-06-08_17-59-43Z_OmniGameArena_AUnifiedUE5BenchmarkforVLMGameAgents.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

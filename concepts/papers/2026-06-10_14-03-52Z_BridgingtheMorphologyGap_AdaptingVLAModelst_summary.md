@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 14 03 52Z Bridgingthemorphologygap Adaptingvlamodelst Summary"
+title: "Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

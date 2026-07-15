@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 15 27 06Z Maxproof Scalingmathematicalproofwithgenera Summary"
+title: "Summary: 2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

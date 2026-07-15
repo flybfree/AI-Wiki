@@ -1,5 +1,5 @@
 ---
-title: "2026 05 25 17 53 18Z Goal Drivenbayesianoptimalexperimentaldesig Summary"
+title: "Summary: 2026-05-25_17-53-18Z_Goal_drivenBayesianOptimalExperimentalDesignforRob.md"
 date: 2026-05-25
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 01 17 50 28Z Modelingdepthambiguity Amixture Densityrepr Summary"
+title: "Summary: 2026-06-01_17-50-28Z_ModelingDepthAmbiguity_AMixture_DensityRepresentat.md"
 date: 2026-06-01
 tags: ['paper', 'research', 'ai']
 ---

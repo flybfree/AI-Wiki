@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 13 19 27Z Detectingtrojaneddnnsviaspectralregressiona Summary"
+title: "Summary: 2026-05-20_13-19-27Z_DetectingTrojanedDNNsviaSpectralRegressionAnalysis.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

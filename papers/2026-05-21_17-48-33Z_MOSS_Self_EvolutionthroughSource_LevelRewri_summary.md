@@ -1,5 +1,5 @@
 ---
-title: "2026 05 21 17 48 33Z Moss Self Evolutionthroughsource Levelrewri Summary"
+title: "Summary: 2026-05-21_17-48-33Z_MOSS_Self_EvolutionthroughSource_LevelRewritinginA.md"
 date: 2026-05-21
 tags: ['paper', 'research', 'ai']
 ---

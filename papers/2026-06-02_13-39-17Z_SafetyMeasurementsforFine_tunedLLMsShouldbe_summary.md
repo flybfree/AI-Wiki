@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 13 39 17Z Safetymeasurementsforfine Tunedllmsshouldbe Summary"
+title: "Summary: 2026-06-02_13-39-17Z_SafetyMeasurementsforFine_tunedLLMsShouldbeGrounde.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

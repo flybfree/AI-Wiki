@@ -1,5 +1,5 @@
 ---
-title: "2026 05 02 Whatdoesthefutureholdforgenerativeai Mitnews Summary"
+title: "Summary: 2026-05-02_WhatdoesthefutureholdforgenerativeAI_-MITNews.md"
 date: 2026-05-02
 tags: ['article', 'news', 'ai']
 ---

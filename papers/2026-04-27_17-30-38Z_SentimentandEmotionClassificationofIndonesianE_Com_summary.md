@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 30 38Z Sentimentandemotionclassificationofindonesiane Com Summary"
+title: "Summary: Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-26_17-53-30Z_WhichNashEquilibrium_Solver_DependentSelectiononZe.md"
 # Summary: 2026-06-26_17-53-30Z_WhichNashEquilibrium_Solver_DependentSelectiononZe.md
 Saved: 2026-06-28 22:00
 Source: 2026-06-26_17-53-30Z_WhichNashEquilibrium_Solver_DependentSelectiononZe.md

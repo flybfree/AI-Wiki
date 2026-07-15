@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 17 53 45Z Quantifyingfaithfulconfidenceexpressioninla Summary"
+title: "Summary: 2026-06-02_17-53-45Z_QuantifyingFaithfulConfidenceExpressioninLargeReas.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

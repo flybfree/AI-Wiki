@@ -1,5 +1,5 @@
 ---
-title: "2026 05 19 17 59 08Z Tide Efficientandlosslessmoediffusionllminf Summary"
+title: "Summary: 2026-05-19_17-59-08Z_TIDE_EfficientandLosslessMoEDiffusionLLMInferencew.md"
 date: 2026-05-19
 tags: ['paper', 'research', 'ai']
 ---

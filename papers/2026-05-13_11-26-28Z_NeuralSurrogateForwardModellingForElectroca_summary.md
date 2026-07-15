@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 11 26 28Z Neuralsurrogateforwardmodellingforelectroca Summary"
+title: "Summary: 2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

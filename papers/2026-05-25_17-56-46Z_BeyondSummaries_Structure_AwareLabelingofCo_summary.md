@@ -1,5 +1,5 @@
 ---
-title: "2026 05 25 17 56 46Z Beyondsummaries Structure Awarelabelingofco Summary"
+title: "Summary: 2026-05-25_17-56-46Z_BeyondSummaries_Structure_AwareLabelingofCodeChang.md"
 date: 2026-05-25
 tags: ['paper', 'research', 'ai']
 ---

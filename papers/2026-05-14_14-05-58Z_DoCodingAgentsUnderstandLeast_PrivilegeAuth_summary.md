@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 14 05 58Z Docodingagentsunderstandleast Privilegeauth Summary"
+title: "Summary: 2026-05-14_14-05-58Z_DoCodingAgentsUnderstandLeast_PrivilegeAuthorizati.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

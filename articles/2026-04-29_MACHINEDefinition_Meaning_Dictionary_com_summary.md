@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 Machinedefinition Meaning Dictionary Com Summary"
+title: "Summary: 2026-04-29_MACHINEDefinition_Meaning_Dictionary_com.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

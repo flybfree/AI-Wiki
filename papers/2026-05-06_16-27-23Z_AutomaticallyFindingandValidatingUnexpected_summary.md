@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 16 27 23Z Automaticallyfindingandvalidatingunexpected Summary"
+title: "Summary: 2026-05-06_16-27-23Z_AutomaticallyFindingandValidatingUnexpectedSide_Ef.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

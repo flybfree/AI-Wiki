@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-23_17-34-29Z_OpenThoughts_Agent_DataRecipesforAgenticModels.md"
 # Summary: 2026-06-23_17-34-29Z_OpenThoughts_Agent_DataRecipesforAgenticModels.md
 Saved: 2026-06-24 00:01
 Source: 2026-06-23_17-34-29Z_OpenThoughts_Agent_DataRecipesforAgenticModels.md

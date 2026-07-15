@@ -1,5 +1,5 @@
 ---
-title: "2026 06 04 17 56 27Z Self Augmentingretrievalfordiffusionlanguag Summary"
+title: "Summary: 2026-06-04_17-56-27Z_Self_AugmentingRetrievalforDiffusionLanguageModels.md"
 date: 2026-06-04
 tags: ['paper', 'research', 'ai']
 ---

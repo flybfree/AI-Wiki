@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-19_16-31-44Z_TheUnreasonableEffectivenessofVLMsforZero_shotProc.md"
 # Summary: 2026-06-19_16-31-44Z_TheUnreasonableEffectivenessofVLMsforZero_shotProc.md
 Saved: 2026-06-22 21:01
 Source: 2026-06-19_16-31-44Z_TheUnreasonableEffectivenessofVLMsforZero_shotProc.md

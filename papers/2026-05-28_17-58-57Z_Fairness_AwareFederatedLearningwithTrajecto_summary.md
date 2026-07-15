@@ -1,5 +1,5 @@
 ---
-title: "2026 05 28 17 58 57Z Fairness Awarefederatedlearningwithtrajecto Summary"
+title: "Summary: 2026-05-28_17-58-57Z_Fairness_AwareFederatedLearningwithTrajectoryShapl.md"
 date: 2026-05-28
 tags: ['paper', 'research', 'ai']
 ---

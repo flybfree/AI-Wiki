@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 Machine Learning Architecture What It Is Compone Summary"
+title: "Summary: 2026-04-29_Machine_Learning_Architecture__What_It_Is__Compone.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 Aiarchitecturedesign Azurearchitecturecenter Micro Summary"
+title: "Summary: 2026-04-29_AIArchitectureDesign-AzureArchitectureCenter_Micro.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

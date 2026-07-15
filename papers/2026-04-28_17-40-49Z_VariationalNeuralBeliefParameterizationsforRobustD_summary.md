@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 40 49Z Variationalneuralbeliefparameterizationsforrobustd Summary"
+title: "Summary: Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

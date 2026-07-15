@@ -1,5 +1,5 @@
 ---
-title: "2026 06 14 13 39 56Z Trustedari Towardstrust Nativeagenticroutin Summary"
+title: "Summary: 2026-06-14_13-39-56Z_TrustedARI_TowardsTrust_NativeAgenticRoutingInfras.md"
 date: 2026-06-14
 tags: ['paper', 'research', 'ai']
 ---

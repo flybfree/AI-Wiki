@@ -1,5 +1,5 @@
 ---
-title: "2026 06 04 17 58 01Z Dnq Deepnashq Networkforpartiallyobservable Summary"
+title: "Summary: 2026-06-04_17-58-01Z_DNQ_DeepNashQ_NetworkforPartiallyObservablen_Playe.md"
 date: 2026-06-04
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 17 47 45Z Chronos Temporally Awaremulti Agentcoordina Summary"
+title: "Summary: 2026-05-22_17-47-45Z_CHRONOS_Temporally_AwareMulti_AgentCoordinationfor.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

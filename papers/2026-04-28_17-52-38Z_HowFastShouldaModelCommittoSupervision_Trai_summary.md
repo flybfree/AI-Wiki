@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 52 38Z Howfastshouldamodelcommittosupervision Trai Summary"
+title: "Summary: 2026-04-28_17-52-38Z_HowFastShouldaModelCommittoSupervision_TrainingRea.md"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 Inaugural Adobe Creators Toolkit Report 86 Perce Summary"
+title: "Summary: 2026-04-27_Inaugural_Adobe_Creators__Toolkit_Report__86_Perce.md"
 date: 2026-04-27
 tags: ['article', 'news', 'ai']
 ---

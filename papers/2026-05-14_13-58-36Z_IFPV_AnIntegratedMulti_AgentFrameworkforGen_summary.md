@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 13 58 36Z Ifpv Anintegratedmulti Agentframeworkforgen Summary"
+title: "Summary: 2026-05-14_13-58-36Z_IFPV_AnIntegratedMulti_AgentFrameworkforGenerative.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

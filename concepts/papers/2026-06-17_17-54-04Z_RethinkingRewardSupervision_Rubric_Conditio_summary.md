@@ -1,5 +1,5 @@
 ---
-title: "2026 06 17 17 54 04Z Rethinkingrewardsupervision Rubric Conditio Summary"
+title: "Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md"
 date: 2026-06-17
 tags: ['paper', 'research', 'ai']
 ---

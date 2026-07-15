@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 17 57 19Z Safetyandaccuracyfollowdifferentscalinglaws Summary"
+title: "Summary: 2026-05-05_17-57-19Z_Safetyandaccuracyfollowdifferentscalinglawsinclini.md"
 date: 2026-05-05
 tags: ['paper', 'research', 'ai']
 ---

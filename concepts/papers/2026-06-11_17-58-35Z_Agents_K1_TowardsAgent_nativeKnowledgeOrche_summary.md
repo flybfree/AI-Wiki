@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 17 58 35Z Agents K1 Towardsagent Nativeknowledgeorche Summary"
+title: "Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

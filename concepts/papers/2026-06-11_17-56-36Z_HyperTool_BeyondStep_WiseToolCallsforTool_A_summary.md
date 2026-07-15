@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 17 56 36Z Hypertool Beyondstep Wisetoolcallsfortool A Summary"
+title: "Summary: 2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_Augmente.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

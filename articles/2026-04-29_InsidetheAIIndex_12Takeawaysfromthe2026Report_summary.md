@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 Insidetheaiindex 12Takeawaysfromthe2026Report Summary"
+title: "Summary: 2026-04-29_InsidetheAIIndex_12Takeawaysfromthe2026Report.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

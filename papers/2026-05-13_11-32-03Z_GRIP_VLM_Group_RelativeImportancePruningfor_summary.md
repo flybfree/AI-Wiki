@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 11 32 03Z Grip Vlm Group Relativeimportancepruningfor Summary"
+title: "Summary: 2026-05-13_11-32-03Z_GRIP_VLM_Group_RelativeImportancePruningforEfficie.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

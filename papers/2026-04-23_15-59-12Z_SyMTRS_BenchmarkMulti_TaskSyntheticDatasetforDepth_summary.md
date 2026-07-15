@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 15 59 12Z Symtrs Benchmarkmulti Tasksyntheticdatasetfordepth Summary"
+title: "Summary: 2026-04-23_15-59-12Z_SyMTRS_BenchmarkMulti_TaskSyntheticDatasetforDepth"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

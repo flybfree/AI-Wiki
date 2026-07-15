@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 17 59 35Z Factr2 Learningexternalforcesensingforcommo Summary"
+title: "Summary: 2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

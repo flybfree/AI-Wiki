@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-24_17-36-39Z_WhenCertaintyIsanArtifact_KeywordLexiconBlindnessa.md"
 # Summary: 2026-06-24_17-36-39Z_WhenCertaintyIsanArtifact_KeywordLexiconBlindnessa.md
 Saved: 2026-06-24 22:02
 Source: 2026-06-24_17-36-39Z_WhenCertaintyIsanArtifact_KeywordLexiconBlindnessa.md

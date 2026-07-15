@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 17 24 53Z Physics Groundedmulti Agentarchitecturefortraceabl Summary"
+title: "Summary: Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing"
 date: 2026-05-05
 tags: ['paper', 'research', 'ai']
 ---

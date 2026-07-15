@@ -1,5 +1,5 @@
 ---
-title: "2026 04 25 Coming Soon 10 Things That Matter In Ai Right Now Summary"
+title: "Summary: 2026-04-25_Coming_soon__10_Things_That_Matter_in_AI_Right_Now.md"
 date: 2026-04-25
 tags: ['article', 'news', 'ai']
 ---

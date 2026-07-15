@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 15 49 18Z Frequency Basedconstrainedsamplingforinterv Summary"
+title: "Summary: 2026-06-08_15-49-18Z_Frequency_basedConstrainedSamplingforIntervalPatte.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

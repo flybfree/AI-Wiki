@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 17 59 15Z Self Improvinglanguagemodelswithbidirection Summary"
+title: "Summary: 2026-05-27_17-59-15Z_Self_ImprovingLanguageModelswithBidirectionalEvolu.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 11 26 47Z Cooperativeroboticsreinforcedbycollectivepe Summary"
+title: "Summary: 2026-05-12_11-26-47Z_CooperativeRoboticsReinforcedbyCollectivePerceptio.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

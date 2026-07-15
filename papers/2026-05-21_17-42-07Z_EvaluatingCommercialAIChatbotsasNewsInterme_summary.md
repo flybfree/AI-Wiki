@@ -1,5 +1,5 @@
 ---
-title: "2026 05 21 17 42 07Z Evaluatingcommercialaichatbotsasnewsinterme Summary"
+title: "Summary: 2026-05-21_17-42-07Z_EvaluatingCommercialAIChatbotsasNewsIntermediaries.md"
 date: 2026-05-21
 tags: ['paper', 'research', 'ai']
 ---

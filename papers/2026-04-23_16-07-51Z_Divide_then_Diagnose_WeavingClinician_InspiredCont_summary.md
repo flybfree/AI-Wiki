@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 16 07 51Z Divide Then Diagnose Weavingclinician Inspiredcont Summary"
+title: "Summary: 2026-04-23_16-07-51Z_Divide_then_Diagnose_WeavingClinician_InspiredCont"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

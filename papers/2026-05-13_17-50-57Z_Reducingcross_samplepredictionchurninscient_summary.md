@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 17 50 57Z Reducingcross Samplepredictionchurninscient Summary"
+title: "Summary: 2026-05-13_17-50-57Z_Reducingcross_samplepredictionchurninscientificmac.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

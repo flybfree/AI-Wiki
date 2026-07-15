@@ -1,5 +1,5 @@
 ---
-title: "2026 05 11 17 49 43Z Wildclawbench Abenchmarkforreal World Long Summary"
+title: "Summary: 2026-05-11_17-49-43Z_WildClawBench_ABenchmarkforReal_World_Long_Horizon.md"
 date: 2026-05-11
 tags: ['paper', 'research', 'ai']
 ---

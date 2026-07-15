@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 17 59 55Z Atlas Agenticorlatentvisualreasoning Onewor Summary"
+title: "Summary: 2026-05-14_17-59-55Z_ATLAS_AgenticorLatentVisualReasoning_OneWordisEnou.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

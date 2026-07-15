@@ -1,5 +1,5 @@
 ---
-title: "2026 05 21 17 53 28Z Thematchingprinciple Ageometrictheoryofloss Summary"
+title: "Summary: 2026-05-21_17-53-28Z_TheMatchingPrinciple_AGeometricTheoryofLossFunctio.md"
 date: 2026-05-21
 tags: ['paper', 'research', 'ai']
 ---

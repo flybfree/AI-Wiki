@@ -1,5 +1,5 @@
 ---
-title: "2026 06 01 17 49 10Z Sn Wer Script Normalizedwerformulti Scripti Summary"
+title: "Summary: 2026-06-01_17-49-10Z_SN_WER_Script_NormalizedWERforMulti_ScriptIndicASR.md"
 date: 2026-06-01
 tags: ['paper', 'research', 'ai']
 ---

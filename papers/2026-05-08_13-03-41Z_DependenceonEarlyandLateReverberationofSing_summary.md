@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 13 03 41Z Dependenceonearlyandlatereverberationofsing Summary"
+title: "Summary: 2026-05-08_13-03-41Z_DependenceonEarlyandLateReverberationofSingle_Chan.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

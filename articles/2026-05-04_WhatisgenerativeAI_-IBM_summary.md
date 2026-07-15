@@ -1,5 +1,5 @@
 ---
-title: "2026 05 04 Whatisgenerativeai Ibm Summary"
+title: "Summary: 2026-05-04_WhatisgenerativeAI_-IBM.md"
 date: 2026-05-04
 tags: ['article', 'news', 'ai']
 ---

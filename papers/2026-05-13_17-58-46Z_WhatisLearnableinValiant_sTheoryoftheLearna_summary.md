@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 17 58 46Z Whatislearnableinvaliant Stheoryofthelearna Summary"
+title: "Summary: 2026-05-13_17-58-46Z_WhatisLearnableinValiant_sTheoryoftheLearnable.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

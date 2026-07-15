@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 16 22 55Z Gflowstate Visualizingthetrainingofgenerativeflown Summary"
+title: "Summary: 2026-04-23_16-22-55Z_GFlowState_VisualizingtheTrainingofGenerativeFlowN"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

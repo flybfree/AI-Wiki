@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 17 56 04Z Omniverifier M1 Multimodalmeta Verifierwith Summary"
+title: "Summary: 2026-05-27_17-56-04Z_OmniVerifier_M1_MultimodalMeta_VerifierwithExplici.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

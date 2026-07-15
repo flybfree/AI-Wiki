@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 11 54 40Z Geofaith Aspatio Temporaldualviewoffaithful Summary"
+title: "Summary: 2026-05-26_11-54-40Z_GeoFaith_ASpatio_TemporalDualViewofFaithfulChain_o.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

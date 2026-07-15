@@ -1,5 +1,5 @@
 ---
-title: "Summary: Repowise Codebase Intelligence For Ai Agents"
+title: "Summary: Repowise - Codebase Intelligence for AI Agents and Humans"
 date: 2026-07-09
 source: https://github.com/repowise-dev/repowise
 tags: ['summary', 'ai-agents', 'code-intelligence']---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 2026 Is Breakthrough Year For Reliable Ai World Mo Summary"
+title: "Summary: 2026-04-29_2026_is_Breakthrough_Year_for_Reliable_AI_World_Mo.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

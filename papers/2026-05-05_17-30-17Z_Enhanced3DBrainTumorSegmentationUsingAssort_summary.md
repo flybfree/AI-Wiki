@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 17 30 17Z Enhanced3Dbraintumorsegmentationusingassort Summary"
+title: "Summary: 2026-05-05_17-30-17Z_Enhanced3DBrainTumorSegmentationUsingAssortedPreci.md"
 date: 2026-05-05
 tags: ['paper', 'research', 'ai']
 ---

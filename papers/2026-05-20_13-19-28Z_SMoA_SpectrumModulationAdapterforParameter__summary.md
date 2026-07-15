@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 13 19 28Z Smoa Spectrummodulationadapterforparameter Summary"
+title: "Summary: 2026-05-20_13-19-28Z_SMoA_SpectrumModulationAdapterforParameter_Efficie.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-26_17-52-39Z_Second_OrderKKTGuaranteesforBregmanADMMinNonconvex.md"
 # Summary: 2026-06-26_17-52-39Z_Second_OrderKKTGuaranteesforBregmanADMMinNonconvex.md
 Saved: 2026-06-28 22:00
 Source: 2026-06-26_17-52-39Z_Second_OrderKKTGuaranteesforBregmanADMMinNonconvex.md

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 11 20 57Z Aresparseautoencoderbenchmarksreliable Summary"
+title: "Summary: 2026-05-18_11-20-57Z_AreSparseAutoencoderBenchmarksReliable.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

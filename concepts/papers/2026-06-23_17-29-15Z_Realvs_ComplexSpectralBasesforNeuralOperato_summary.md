@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-23_17-29-15Z_Realvs_ComplexSpectralBasesforNeuralOperators_TheR.md"
 # Summary: 2026-06-23_17-29-15Z_Realvs_ComplexSpectralBasesforNeuralOperators_TheR.md
 Saved: 2026-06-24 00:01
 Source: 2026-06-23_17-29-15Z_Realvs_ComplexSpectralBasesforNeuralOperators_TheR.md

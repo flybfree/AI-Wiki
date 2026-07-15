@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-01_17-59-54Z_IsOneLayerEnough_TrainingASingleTransformerLayerCa.md"
 # Summary: 2026-07-01_17-59-54Z_IsOneLayerEnough_TrainingASingleTransformerLayerCa.md
 Saved: 2026-07-01 23:01
 Source: 2026-07-01_17-59-54Z_IsOneLayerEnough_TrainingASingleTransformerLayerCa.md

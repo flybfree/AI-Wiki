@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 17 52 15Z Tahoe Text To Sqlwithautomatedhintoptimizat Summary"
+title: "Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 04 17 58 05Z Operation Guidedprogressivehuman To Aitextt Summary"
+title: "Summary: 2026-06-04_17-58-05Z_Operation_GuidedProgressiveHuman_to_AITextTransfor.md"
 date: 2026-06-04
 tags: ['paper', 'research', 'ai']
 ---

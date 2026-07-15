@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 17 54 36Z Whenpromptsoverridevision Prompt Inducedhallucinat Summary"
+title: "Summary: 2026-04-23_17-54-36Z_WhenPromptsOverrideVision_Prompt_InducedHallucinat"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

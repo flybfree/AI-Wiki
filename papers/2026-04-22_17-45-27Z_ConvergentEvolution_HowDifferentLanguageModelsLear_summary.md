@@ -1,5 +1,5 @@
 ---
-title: "2026 04 22 17 45 27Z Convergentevolution Howdifferentlanguagemodelslear Summary"
+title: "Summary: 2026-04-22_17-45-27Z_ConvergentEvolution_HowDifferentLanguageModelsLear.md"
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---

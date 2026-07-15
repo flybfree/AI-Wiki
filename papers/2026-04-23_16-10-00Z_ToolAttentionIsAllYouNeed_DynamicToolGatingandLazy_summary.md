@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 16 10 00Z Toolattentionisallyouneed Dynamictoolgatingandlazy Summary"
+title: "Summary: 2026-04-23_16-10-00Z_ToolAttentionIsAllYouNeed_DynamicToolGatingandLazy"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

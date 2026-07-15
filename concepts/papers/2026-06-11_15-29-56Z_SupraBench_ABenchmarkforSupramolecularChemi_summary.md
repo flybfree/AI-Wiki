@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 15 29 56Z Suprabench Abenchmarkforsupramolecularchemi Summary"
+title: "Summary: 2026-06-11_15-29-56Z_SupraBench_ABenchmarkforSupramolecularChemistry.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

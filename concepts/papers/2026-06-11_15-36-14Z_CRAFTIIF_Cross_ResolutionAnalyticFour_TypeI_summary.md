@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 15 36 14Z Craftiif Cross Resolutionanalyticfour Typei Summary"
+title: "Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 17 17 45 32Z Dataintelligenceagents Interpreting Modelin Summary"
+title: "Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md"
 date: 2026-06-17
 tags: ['paper', 'research', 'ai']
 ---

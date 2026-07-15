@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 15 20 10Z Onthevarianceoftemporaldifferencelearningan Summary"
+title: "Summary: 2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

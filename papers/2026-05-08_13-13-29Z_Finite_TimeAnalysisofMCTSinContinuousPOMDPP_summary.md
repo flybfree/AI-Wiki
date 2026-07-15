@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 13 13 29Z Finite Timeanalysisofmctsincontinuouspomdpp Summary"
+title: "Summary: 2026-05-08_13-13-29Z_Finite_TimeAnalysisofMCTSinContinuousPOMDPPlanning.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

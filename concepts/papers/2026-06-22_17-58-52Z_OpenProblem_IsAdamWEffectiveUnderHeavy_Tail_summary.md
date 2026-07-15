@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-22_17-58-52Z_OpenProblem_IsAdamWEffectiveUnderHeavy_TailedNoise.md"
 # Summary: 2026-06-22_17-58-52Z_OpenProblem_IsAdamWEffectiveUnderHeavy_TailedNoise.md
 Saved: 2026-06-23 00:01
 Source: 2026-06-22_17-58-52Z_OpenProblem_IsAdamWEffectiveUnderHeavy_TailedNoise.md

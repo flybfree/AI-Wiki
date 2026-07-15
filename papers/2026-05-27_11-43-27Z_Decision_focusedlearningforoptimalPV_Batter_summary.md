@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 11 43 27Z Decision Focusedlearningforoptimalpv Batter Summary"
+title: "Summary: 2026-05-27_11-43-27Z_Decision_focusedlearningforoptimalPV_Batteryschedu.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 17 58 32Z Structuringandtokenizingdistributeduserinte Summary"
+title: "Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

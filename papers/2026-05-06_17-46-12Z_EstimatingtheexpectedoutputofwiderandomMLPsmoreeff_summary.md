@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 46 12Z Estimatingtheexpectedoutputofwiderandommlpsmoreeff Summary"
+title: "Summary: Estimating the expected output of wide random MLPs more efficiently than sampling"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

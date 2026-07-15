@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 11 27 32Z Insurancepricingoptimizationviaoff Policyev Summary"
+title: "Summary: 2026-05-27_11-27-32Z_InsurancePricingOptimizationviaOff_PolicyEvaluatio.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

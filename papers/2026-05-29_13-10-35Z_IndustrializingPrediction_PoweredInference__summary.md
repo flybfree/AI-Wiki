@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 13 10 35Z Industrializingprediction Poweredinference Summary"
+title: "Summary: 2026-05-29_13-10-35Z_IndustrializingPrediction_PoweredInference_TheGLID.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

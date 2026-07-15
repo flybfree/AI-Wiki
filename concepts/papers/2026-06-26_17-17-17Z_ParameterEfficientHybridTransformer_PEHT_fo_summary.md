@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-26_17-17-17Z_ParameterEfficientHybridTransformer_PEHT_forNetwor.md"
 # Summary: 2026-06-26_17-17-17Z_ParameterEfficientHybridTransformer_PEHT_forNetwor.md
 Saved: 2026-06-28 21:01
 Source: 2026-06-26_17-17-17Z_ParameterEfficientHybridTransformer_PEHT_forNetwor.md

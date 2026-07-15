@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 17 52 28Z Fromscorestogibbscorrectors Acceleratinguni Summary"
+title: "Summary: 2026-05-26_17-52-28Z_FromScorestoGibbsCorrectors_AcceleratingUniform_Ra.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

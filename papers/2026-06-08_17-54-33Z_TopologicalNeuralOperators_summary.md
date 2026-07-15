@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 17 54 33Z Topologicalneuraloperators Summary"
+title: "Summary: 2026-06-08_17-54-33Z_TopologicalNeuralOperators.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

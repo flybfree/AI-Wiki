@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 17 58 20Z Learning Fastandslow Towardsllmsthatadaptco Summary"
+title: "Summary: 2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

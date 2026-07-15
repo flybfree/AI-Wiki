@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 17 55 31Z Predictabilityasafine Grainedmeasureforpriv Summary"
+title: "Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

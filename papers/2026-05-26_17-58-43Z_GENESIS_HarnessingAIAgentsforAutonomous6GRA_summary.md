@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 17 58 43Z Genesis Harnessingaiagentsforautonomous6Gra Summary"
+title: "Summary: 2026-05-26_17-58-43Z_GENESIS_HarnessingAIAgentsforAutonomous6GRANSynthe.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-26_17-24-21Z_PAC_BayesianCertificatesforQuadraticClosed_LoopCon.md"
 # Summary: 2026-06-26_17-24-21Z_PAC_BayesianCertificatesforQuadraticClosed_LoopCon.md
 Saved: 2026-06-28 21:01
 Source: 2026-06-26_17-24-21Z_PAC_BayesianCertificatesforQuadraticClosed_LoopCon.md

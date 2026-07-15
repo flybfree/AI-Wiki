@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 The2026Aiindexreport Stanfordhai Summary"
+title: "Summary: 2026-04-29_The2026AIIndexReport_StanfordHAI.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

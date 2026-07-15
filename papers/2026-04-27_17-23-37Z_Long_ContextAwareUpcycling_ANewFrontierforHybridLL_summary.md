@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 23 37Z Long Contextawareupcycling Anewfrontierforhybridll Summary"
+title: "Summary: Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

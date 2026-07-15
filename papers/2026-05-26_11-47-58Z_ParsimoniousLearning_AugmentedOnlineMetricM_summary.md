@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 11 47 58Z Parsimoniouslearning Augmentedonlinemetricm Summary"
+title: "Summary: 2026-05-26_11-47-58Z_ParsimoniousLearning_AugmentedOnlineMetricMatching.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

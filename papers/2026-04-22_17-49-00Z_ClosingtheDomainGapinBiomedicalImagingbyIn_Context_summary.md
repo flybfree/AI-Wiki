@@ -1,5 +1,5 @@
 ---
-title: "2026 04 22 17 49 00Z Closingthedomaingapinbiomedicalimagingbyin Context Summary"
+title: "Summary: Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples"
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---

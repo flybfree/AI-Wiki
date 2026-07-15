@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 12 58 01Z Reasoning Tracecollapse Evaluatingthelossof Summary"
+title: "Summary: 2026-05-20_12-58-01Z_Reasoning_TraceCollapse_EvaluatingtheLossofExplici.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

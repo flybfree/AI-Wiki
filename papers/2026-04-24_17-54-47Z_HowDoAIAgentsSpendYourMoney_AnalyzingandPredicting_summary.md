@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 17 54 47Z Howdoaiagentsspendyourmoney Analyzingandpredicting Summary"
+title: "Summary: 2026-04-24_17-54-47Z_HowDoAIAgentsSpendYourMoney_AnalyzingandPredicting.md"
 date: 2026-04-24
 tags: ['paper', 'research', 'ai']
 ---

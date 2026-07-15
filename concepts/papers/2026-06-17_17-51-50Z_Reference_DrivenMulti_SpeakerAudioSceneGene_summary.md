@@ -1,5 +1,5 @@
 ---
-title: "2026 06 17 17 51 50Z Reference Drivenmulti Speakeraudioscenegene Summary"
+title: "Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md"
 date: 2026-06-17
 tags: ['paper', 'research', 'ai']
 ---

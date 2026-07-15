@@ -1,5 +1,5 @@
 ---
-title: "2026 06 17 17 58 48Z Learningusersimulatorswithturingrewards Summary"
+title: "Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md"
 date: 2026-06-17
 tags: ['paper', 'research', 'ai']
 ---

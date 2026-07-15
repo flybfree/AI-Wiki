@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 16 31 20Z Proximalprojectionfordoublysparseregularize Summary"
+title: "Summary: 2026-05-06_16-31-20Z_ProximalProjectionforDoublySparseRegularizedModels.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

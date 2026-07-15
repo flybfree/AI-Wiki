@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-19_16-41-28Z_TheCostGeometryofBelief_finite_resourceinferenceun.md"
 # Summary: 2026-06-19_16-41-28Z_TheCostGeometryofBelief_finite_resourceinferenceun.md
 Saved: 2026-06-22 21:01
 Source: 2026-06-19_16-41-28Z_TheCostGeometryofBelief_finite_resourceinferenceun.md

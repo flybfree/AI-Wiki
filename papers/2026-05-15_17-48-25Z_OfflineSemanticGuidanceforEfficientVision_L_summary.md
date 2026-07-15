@@ -1,5 +1,5 @@
 ---
-title: "2026 05 15 17 48 25Z Offlinesemanticguidanceforefficientvision L Summary"
+title: "Summary: 2026-05-15_17-48-25Z_OfflineSemanticGuidanceforEfficientVision_Language.md"
 date: 2026-05-15
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 15 17 52 27Z Deeprubric Evidence Treerubricsupervisionfo Summary"
+title: "Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md"
 date: 2026-06-15
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 02 Open Sourcellmlandscape2026 Deepseekv4Vsllama4Vsqw Summary"
+title: "Summary: 2026-05-02_Open-SourceLLMLandscape2026_DeepSeekV4vsLlama4vsQw.md"
 date: 2026-05-02
 tags: ['article', 'news', 'ai']
 ---

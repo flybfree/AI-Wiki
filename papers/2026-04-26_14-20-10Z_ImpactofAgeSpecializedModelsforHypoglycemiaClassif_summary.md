@@ -1,5 +1,5 @@
 ---
-title: "2026 04 26 14 20 10Z Impactofagespecializedmodelsforhypoglycemiaclassif Summary"
+title: "Summary: 2026-04-26_14-20-10Z_ImpactofAgeSpecializedModelsforHypoglycemiaClassif.md"
 date: 2026-04-26
 tags: ['paper', 'research', 'ai']
 ---

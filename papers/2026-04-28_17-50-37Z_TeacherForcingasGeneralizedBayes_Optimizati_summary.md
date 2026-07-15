@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 50 37Z Teacherforcingasgeneralizedbayes Optimizati Summary"
+title: "Summary: 2026-04-28_17-50-37Z_TeacherForcingasGeneralizedBayes_OptimizationGeome.md"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

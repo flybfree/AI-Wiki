@@ -1,5 +1,5 @@
 ---
-title: "2026 06 05 17 53 52Z Sparsesubspace To Expertsharingfortask Agno Summary"
+title: "Summary: 2026-06-05_17-53-52Z_SparseSubspace_to_ExpertSharingforTask_AgnosticCon.md"
 date: 2026-06-05
 tags: ['paper', 'research', 'ai']
 ---

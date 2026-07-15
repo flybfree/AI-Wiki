@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 Gpipe Easy Scaling With Micro Batch Pipeline Parallel Summary"
+title: "Summary: 2026-05-06_gpipe_easy_scaling_with_micro_batch_pipeline_parallelism.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

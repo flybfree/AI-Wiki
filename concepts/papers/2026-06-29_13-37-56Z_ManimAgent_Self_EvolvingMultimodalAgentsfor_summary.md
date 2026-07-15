@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-29_13-37-56Z_ManimAgent_Self_EvolvingMultimodalAgentsforVisualE.md"
 # Summary: 2026-06-29_13-37-56Z_ManimAgent_Self_EvolvingMultimodalAgentsforVisualE.md
 Saved: 2026-06-29 22:00
 Source: 2026-06-29_13-37-56Z_ManimAgent_Self_EvolvingMultimodalAgentsforVisualE.md

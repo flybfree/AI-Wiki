@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 17 59 40Z Llmsimprovingllms Agenticdiscoveryfortest T Summary"
+title: "Summary: 2026-05-08_17-59-40Z_LLMsImprovingLLMs_AgenticDiscoveryforTest_TimeScal.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

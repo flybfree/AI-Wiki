@@ -1,5 +1,5 @@
 ---
-title: "2026 05 15 17 59 57Z Ivgt Implicitvisualgeometrytransformerforne Summary"
+title: "Summary: 2026-05-15_17-59-57Z_IVGT_ImplicitVisualGeometryTransformerforNeuralSce.md"
 date: 2026-05-15
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 17 56 55Z Languagemodelsneedsleep Learningtoself Modi Summary"
+title: "Summary: 2026-06-02_17-56-55Z_LanguageModelsNeedSleep_LearningtoSelf_ModifyandCo.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

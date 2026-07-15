@@ -1,5 +1,5 @@
 ---
-title: "2026 05 11 17 58 28Z Deco Sparsemixture Of Expertswithdense Comp Summary"
+title: "Summary: 2026-05-11_17-58-28Z_DECO_SparseMixture_of_ExpertswithDense_ComparableP.md"
 date: 2026-05-11
 tags: ['paper', 'research', 'ai']
 ---

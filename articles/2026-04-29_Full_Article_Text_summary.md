@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 Full Article Text Summary"
+title: "Summary: 2026-04-29_Full_Article_Text.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

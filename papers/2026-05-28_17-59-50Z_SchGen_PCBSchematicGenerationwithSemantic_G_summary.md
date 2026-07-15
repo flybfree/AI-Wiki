@@ -1,5 +1,5 @@
 ---
-title: "2026 05 28 17 59 50Z Schgen Pcbschematicgenerationwithsemantic G Summary"
+title: "Summary: 2026-05-28_17-59-50Z_SchGen_PCBSchematicGenerationwithSemantic_Grounded.md"
 date: 2026-05-28
 tags: ['paper', 'research', 'ai']
 ---

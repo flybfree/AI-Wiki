@@ -1,5 +1,5 @@
 ---
-title: "2026 04 25 Llms 10 Things That Matter In Ai Right Now Mit Summary"
+title: "Summary: 2026-04-25_LLMs___10_Things_That_Matter_in_AI_Right_Now___MIT.md"
 date: 2026-04-25
 tags: ['article', 'news', 'ai']
 ---

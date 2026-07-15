@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 58 21Z Dv World Benchmarkingdatavisualizationagent Summary"
+title: "Summary: 2026-04-28_17-58-21Z_DV_World_BenchmarkingDataVisualizationAgentsinReal.md"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

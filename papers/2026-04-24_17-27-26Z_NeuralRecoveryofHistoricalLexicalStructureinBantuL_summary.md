@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 17 27 26Z Neuralrecoveryofhistoricallexicalstructureinbantul Summary"
+title: "Summary: 2026-04-24_17-27-26Z_NeuralRecoveryofHistoricalLexicalStructureinBantuL.md"
 date: 2026-04-24
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 22 17 46 09Z Stream Cqsa Avoidingout Of Memoryinattentioncomput Summary"
+title: "Summary: Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling"
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---

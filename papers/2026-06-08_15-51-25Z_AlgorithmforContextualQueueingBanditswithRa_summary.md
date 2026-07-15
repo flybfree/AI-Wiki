@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 15 51 25Z Algorithmforcontextualqueueingbanditswithra Summary"
+title: "Summary: 2026-06-08_15-51-25Z_AlgorithmforContextualQueueingBanditswithRate_Opti.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

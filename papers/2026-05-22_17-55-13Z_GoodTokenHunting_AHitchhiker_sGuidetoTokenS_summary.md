@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 17 55 13Z Goodtokenhunting Ahitchhiker Sguidetotokens Summary"
+title: "Summary: 2026-05-22_17-55-13Z_GoodTokenHunting_AHitchhiker_sGuidetoTokenSelectio.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

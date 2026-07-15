@@ -1,5 +1,5 @@
 ---
-title: "2026 05 25 17 59 35Z Squeezingcapacityfrommultimodallargelanguag Summary"
+title: "Summary: 2026-05-25_17-59-35Z_SqueezingCapacityfromMultimodalLargeLanguageModels.md"
 date: 2026-05-25
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 01 17 56 35Z Adacodec Apredictivevisualcodeforvideomllms Summary"
+title: "Summary: 2026-06-01_17-56-35Z_AdaCodec_APredictiveVisualCodeforVideoMLLMs.md"
 date: 2026-06-01
 tags: ['paper', 'research', 'ai']
 ---

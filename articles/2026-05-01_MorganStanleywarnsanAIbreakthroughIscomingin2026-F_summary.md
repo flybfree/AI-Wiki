@@ -1,5 +1,5 @@
 ---
-title: "2026 05 01 Morganstanleywarnsanaibreakthroughiscomingin2026 F Summary"
+title: "Summary: 2026-05-01_MorganStanleywarnsanAIbreakthroughIscomingin2026-F.md"
 date: 2026-05-01
 tags: ['article', 'news', 'ai']
 ---

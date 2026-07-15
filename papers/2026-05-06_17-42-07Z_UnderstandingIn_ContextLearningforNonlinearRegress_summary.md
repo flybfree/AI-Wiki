@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 42 07Z Understandingin Contextlearningfornonlinearregress Summary"
+title: "Summary: Understanding In-Context Learning for Nonlinear Regression with Transformers: Attention as Featurizer"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

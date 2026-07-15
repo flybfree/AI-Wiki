@@ -1,5 +1,5 @@
 ---
-title: "2026 06 15 17 54 52Z Theimportanceofphaseinneuralrepresentations Summary"
+title: "Summary: 2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md"
 date: 2026-06-15
 tags: ['paper', 'research', 'ai']
 ---

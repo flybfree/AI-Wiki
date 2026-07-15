@@ -1,5 +1,5 @@
 ---
-title: "2026 06 09 17 48 41Z Piper Aprogrammabledistributedtrainingsyste Summary"
+title: "Summary: 2026-06-09_17-48-41Z_Piper_AProgrammableDistributedTrainingSystem.md"
 date: 2026-06-09
 tags: ['paper', 'research', 'ai']
 ---

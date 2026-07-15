@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 15 27 09Z Llm Drivendesignofphysics Constrainedconsti Summary"
+title: "Summary: 2026-05-22_15-27-09Z_LLM_drivendesignofphysics_constrainedconstitutivem.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

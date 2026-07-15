@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 12 32 17Z Neuro Symbolicverificationofllmoutputsforda Summary"
+title: "Summary: 2026-05-26_12-32-17Z_Neuro_SymbolicVerificationofLLMOutputsforData_Sens.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 11 09 22Z Asimplexwitnesscertificateforconstantcollap Summary"
+title: "Summary: 2026-05-18_11-09-22Z_ASimplexWitnessCertificateforConstantCollapseinVar.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

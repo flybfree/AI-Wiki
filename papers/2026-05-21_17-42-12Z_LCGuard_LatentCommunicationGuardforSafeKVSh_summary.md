@@ -1,5 +1,5 @@
 ---
-title: "2026 05 21 17 42 12Z Lcguard Latentcommunicationguardforsafekvsh Summary"
+title: "Summary: 2026-05-21_17-42-12Z_LCGuard_LatentCommunicationGuardforSafeKVSharingin.md"
 date: 2026-05-21
 tags: ['paper', 'research', 'ai']
 ---

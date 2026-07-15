@@ -1,5 +1,5 @@
 ---
-title: "2026 06 16 17 47 47Z Finite Timequeuepeaklawsinstochasticnetwork Summary"
+title: "Summary: 2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md"
 date: 2026-06-16
 tags: ['paper', 'research', 'ai']
 ---

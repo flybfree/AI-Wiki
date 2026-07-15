@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-03_19-17-51Z_EPRAU_Net_AnEfficientPyramidResidualAttentionFrame.md"
 # Summary: 2026-07-03_19-17-51Z_EPRAU_Net_AnEfficientPyramidResidualAttentionFrame.md
 Saved: 2026-07-06 21:13
 Source: 2026-07-03_19-17-51Z_EPRAU_Net_AnEfficientPyramidResidualAttentionFrame.md

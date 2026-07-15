@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 17 52 18Z Alignatt4Llm Fastalignattfordecoder Onlyllm Summary"
+title: "Summary: 2026-06-02_17-52-18Z_AlignAtt4LLM_FastAlignAttforDecoder_OnlyLLMsatIWSL.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

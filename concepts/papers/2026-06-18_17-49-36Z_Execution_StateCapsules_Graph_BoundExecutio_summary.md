@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 17 49 36Z Execution Statecapsules Graph Boundexecutio Summary"
+title: "Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

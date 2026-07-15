@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 48 16Z Carbon Taxedtransformers Agreencompressionp Summary"
+title: "Summary: 2026-04-28_17-48-16Z_Carbon_TaxedTransformers_AGreenCompressionPipeline.md"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

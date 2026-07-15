@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 17 51 40Z Longtracerl Learninglong Contextreasoningfr Summary"
+title: "Summary: 2026-05-29_17-51-40Z_LongTraceRL_LearningLong_ContextReasoningfromSearc.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

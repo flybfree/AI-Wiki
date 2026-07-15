@@ -1,5 +1,5 @@
 ---
-title: "2026 06 17 17 59 56Z Nativeactiveperceptionasreasoningforomni Mo Summary"
+title: "Summary: 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md"
 date: 2026-06-17
 tags: ['paper', 'research', 'ai']
 ---

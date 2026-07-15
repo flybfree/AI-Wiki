@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 Latest Ai News Developments And Breakthroughs Summary"
+title: "Summary: 2026-04-28_Latest_AI_News__Developments__and_Breakthroughs___.md"
 date: 2026-04-28
 tags: ['article', 'news', 'ai']
 ---

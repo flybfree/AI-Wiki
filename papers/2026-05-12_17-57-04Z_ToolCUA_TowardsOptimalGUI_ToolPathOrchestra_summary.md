@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 17 57 04Z Toolcua Towardsoptimalgui Toolpathorchestra Summary"
+title: "Summary: 2026-05-12_17-57-04Z_ToolCUA_TowardsOptimalGUI_ToolPathOrchestrationfor.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-01_17-51-21Z_FurnitureVLA_LearningLong_HorizonBimanualFurniture.md"
 # Summary: 2026-07-01_17-51-21Z_FurnitureVLA_LearningLong_HorizonBimanualFurniture.md
 Saved: 2026-07-01 23:01
 Source: 2026-07-01_17-51-21Z_FurnitureVLA_LearningLong_HorizonBimanualFurniture.md

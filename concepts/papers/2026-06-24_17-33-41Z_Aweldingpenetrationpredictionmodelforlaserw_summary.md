@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-24_17-33-41Z_Aweldingpenetrationpredictionmodelforlaserweldingp.md"
 # Summary: 2026-06-24_17-33-41Z_Aweldingpenetrationpredictionmodelforlaserweldingp.md
 Saved: 2026-06-24 22:00
 Source: 2026-06-24_17-33-41Z_Aweldingpenetrationpredictionmodelforlaserweldingp.md

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 17 59 12Z Fromrawexperiencetoskillconsumption Asystem Summary"
+title: "Summary: 2026-05-22_17-59-12Z_FromRawExperiencetoSkillConsumption_ASystematicStu.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

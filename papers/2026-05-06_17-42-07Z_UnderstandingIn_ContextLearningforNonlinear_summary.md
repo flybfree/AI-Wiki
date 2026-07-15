@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 42 07Z Understandingin Contextlearningfornonlinear Summary"
+title: "Summary: 2026-05-06_17-42-07Z_UnderstandingIn_ContextLearningforNonlinearRegress.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

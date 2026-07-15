@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 11 20 52Z Buildinginteractivereal Timeagentswithasync Summary"
+title: "Summary: 2026-05-13_11-20-52Z_BuildingInteractiveReal_TimeAgentswithAsynchronous.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

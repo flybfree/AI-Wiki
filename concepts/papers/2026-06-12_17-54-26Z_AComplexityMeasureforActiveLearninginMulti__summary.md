@@ -1,5 +1,5 @@
 ---
-title: "2026 06 12 17 54 26Z Acomplexitymeasureforactivelearninginmulti Summary"
+title: "Summary: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md"
 date: 2026-06-12
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 17 57 36Z Redesignmixture Of Expertsrouterswithmanifo Summary"
+title: "Summary: 2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

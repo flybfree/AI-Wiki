@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 16 27 04Z Modulatingcross Modalconvergencewithsingle Stimulu Summary"
+title: "Summary: 2026-04-23_16-27-04Z_ModulatingCross_ModalConvergencewithSingle_Stimulu"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

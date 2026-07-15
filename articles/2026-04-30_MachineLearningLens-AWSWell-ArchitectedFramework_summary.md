@@ -1,5 +1,5 @@
 ---
-title: "2026 04 30 Machinelearninglens Awswell Architectedframework Summary"
+title: "Summary: 2026-04-30_MachineLearningLens-AWSWell-ArchitectedFramework.md"
 date: 2026-04-30
 tags: ['article', 'news', 'ai']
 ---

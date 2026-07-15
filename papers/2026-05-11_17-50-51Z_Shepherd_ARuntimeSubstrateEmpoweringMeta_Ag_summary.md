@@ -1,5 +1,5 @@
 ---
-title: "2026 05 11 17 50 51Z Shepherd Aruntimesubstrateempoweringmeta Ag Summary"
+title: "Summary: 2026-05-11_17-50-51Z_Shepherd_ARuntimeSubstrateEmpoweringMeta_Agentswit.md"
 date: 2026-05-11
 tags: ['paper', 'research', 'ai']
 ---

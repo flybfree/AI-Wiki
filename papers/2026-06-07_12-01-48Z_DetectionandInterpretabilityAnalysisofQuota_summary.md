@@ -1,5 +1,5 @@
 ---
-title: "2026 06 07 12 01 48Z Detectionandinterpretabilityanalysisofquota Summary"
+title: "Summary: 2026-06-07_12-01-48Z_DetectionandInterpretabilityAnalysisofQuotationErr.md"
 date: 2026-06-07
 tags: ['paper', 'research', 'ai']
 ---

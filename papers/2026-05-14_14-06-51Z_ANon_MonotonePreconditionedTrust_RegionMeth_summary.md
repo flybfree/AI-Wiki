@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 14 06 51Z Anon Monotonepreconditionedtrust Regionmeth Summary"
+title: "Summary: 2026-05-14_14-06-51Z_ANon_MonotonePreconditionedTrust_RegionMethodforNe.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

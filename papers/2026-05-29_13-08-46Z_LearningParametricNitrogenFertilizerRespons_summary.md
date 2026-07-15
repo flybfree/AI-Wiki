@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 13 08 46Z Learningparametricnitrogenfertilizerrespons Summary"
+title: "Summary: 2026-05-29_13-08-46Z_LearningParametricNitrogenFertilizerResponseCurves.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

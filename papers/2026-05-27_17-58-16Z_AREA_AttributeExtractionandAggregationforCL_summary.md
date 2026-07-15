@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 17 58 16Z Area Attributeextractionandaggregationforcl Summary"
+title: "Summary: 2026-05-27_17-58-16Z_AREA_AttributeExtractionandAggregationforCLIP_Base.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

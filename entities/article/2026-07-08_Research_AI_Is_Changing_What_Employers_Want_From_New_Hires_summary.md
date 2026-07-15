@@ -1,5 +1,5 @@
 ---
-title: "Summary: Research Ai Is Changing What Employers Want From New Hires"
+title: "Summary: ## Summary"
 date: 2026-07-08
 source: https://hbr.org/2026/07/research-ai-is-changing-what-employers-want-from-new-hires
 authors: Jim Doucette, Vishal Gaur

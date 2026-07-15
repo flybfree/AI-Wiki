@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 47 42Z Conflict Awareharmonizedrotationalgradientformulti Summary"
+title: "Summary: Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-01_17-45-04Z_TiRex_2_GeneralizingTiRextoMultivariateDataandStre.md"
 # Summary: 2026-07-01_17-45-04Z_TiRex_2_GeneralizingTiRextoMultivariateDataandStre.md
 Saved: 2026-07-01 23:00
 Source: 2026-07-01_17-45-04Z_TiRex_2_GeneralizingTiRextoMultivariateDataandStre.md

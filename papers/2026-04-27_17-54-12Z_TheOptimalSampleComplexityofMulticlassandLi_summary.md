@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 54 12Z Theoptimalsamplecomplexityofmulticlassandli Summary"
+title: "Summary: 2026-04-27_17-54-12Z_TheOptimalSampleComplexityofMulticlassandListLearn.md"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

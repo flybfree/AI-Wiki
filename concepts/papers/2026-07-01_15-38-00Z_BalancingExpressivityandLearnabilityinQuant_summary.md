@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-01_15-38-00Z_BalancingExpressivityandLearnabilityinQuantumKerne.md"
 # Summary: 2026-07-01_15-38-00Z_BalancingExpressivityandLearnabilityinQuantumKerne.md
 Saved: 2026-07-01 21:01
 Source: 2026-07-01_15-38-00Z_BalancingExpressivityandLearnabilityinQuantumKerne.md

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 17 55 59Z Guidingllmpost Trainingdataengineeringwithm Summary"
+title: "Summary: 2026-05-26_17-55-59Z_GuidingLLMPost_trainingDataEngineeringwithModelInt.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

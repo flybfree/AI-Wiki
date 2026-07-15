@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 17 57 00Z Statefulonlinemonitoringcatchesdistributeda Summary"
+title: "Summary: 2026-05-29_17-57-00Z_StatefulOnlineMonitoringCatchesDistributedAgentAtt.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

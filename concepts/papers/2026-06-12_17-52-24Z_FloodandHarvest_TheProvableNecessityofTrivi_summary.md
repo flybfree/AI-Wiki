@@ -1,5 +1,5 @@
 ---
-title: "2026 06 12 17 52 24Z Floodandharvest Theprovablenecessityoftrivi Summary"
+title: "Summary: 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md"
 date: 2026-06-12
 tags: ['paper', 'research', 'ai']
 ---

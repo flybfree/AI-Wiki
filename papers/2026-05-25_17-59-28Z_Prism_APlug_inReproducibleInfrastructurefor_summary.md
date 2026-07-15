@@ -1,5 +1,5 @@
 ---
-title: "2026 05 25 17 59 28Z Prism Aplug Inreproducibleinfrastructurefor Summary"
+title: "Summary: 2026-05-25_17-59-28Z_Prism_APlug_inReproducibleInfrastructureforScalabl.md"
 date: 2026-05-25
 tags: ['paper', 'research', 'ai']
 ---

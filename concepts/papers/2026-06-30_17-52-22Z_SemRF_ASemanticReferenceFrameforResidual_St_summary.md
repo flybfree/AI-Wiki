@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-30_17-52-22Z_SemRF_ASemanticReferenceFrameforResidual_StreamDyn.md"
 # Summary: 2026-06-30_17-52-22Z_SemRF_ASemanticReferenceFrameforResidual_StreamDyn.md
 Saved: 2026-06-30 23:33
 Source: 2026-06-30_17-52-22Z_SemRF_ASemanticReferenceFrameforResidual_StreamDyn.md

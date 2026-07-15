@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 17 59 52Z Neuronpopulationsexhibitdivergentselectivit Summary"
+title: "Summary: 2026-06-02_17-59-52Z_NeuronPopulationsExhibitDivergentSelectivitywithSc.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 26 Sony Ai Announces Breakthrough Research In Real Wo Summary"
+title: "Summary: 2026-04-26_Sony_AI_Announces_Breakthrough_Research_in_Real-Wo.md"
 date: 2026-04-26
 tags: ['article', 'news', 'ai']
 ---

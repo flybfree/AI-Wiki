@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 Claude Opus 4 7 Anthropic S New Best Available Summary"
+title: "Summary: 2026-04-23_Claude_Opus_4_7__Anthropic_s_New_Best__Available__.md"
 date: 2026-04-23
 tags: ['article', 'news', 'ai']
 ---

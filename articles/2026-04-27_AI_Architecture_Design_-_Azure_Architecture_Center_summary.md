@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 Ai Architecture Design Azure Architecture Center Summary"
+title: "Summary: 2026-04-27_AI_Architecture_Design_-_Azure_Architecture_Center.md"
 date: 2026-04-27
 tags: ['article', 'news', 'ai']
 ---

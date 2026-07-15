@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 17 43 52Z Redefiningairedteamingintheagenticera Fromw Summary"
+title: "Summary: 2026-05-05_17-43-52Z_RedefiningAIRedTeamingintheAgenticEra_FromWeekstoH.md"
 date: 2026-05-05
 tags: ['paper', 'research', 'ai']
 ---

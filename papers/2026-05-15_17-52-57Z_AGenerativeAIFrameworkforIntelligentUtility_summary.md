@@ -1,5 +1,5 @@
 ---
-title: "2026 05 15 17 52 57Z Agenerativeaiframeworkforintelligentutility Summary"
+title: "Summary: 2026-05-15_17-52-57Z_AGenerativeAIFrameworkforIntelligentUtilityBilling.md"
 date: 2026-05-15
 tags: ['paper', 'research', 'ai']
 ---

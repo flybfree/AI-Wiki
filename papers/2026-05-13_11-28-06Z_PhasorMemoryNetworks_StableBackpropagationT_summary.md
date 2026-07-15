@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 11 28 06Z Phasormemorynetworks Stablebackpropagationt Summary"
+title: "Summary: 2026-05-13_11-28-06Z_PhasorMemoryNetworks_StableBackpropagationThroughT.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

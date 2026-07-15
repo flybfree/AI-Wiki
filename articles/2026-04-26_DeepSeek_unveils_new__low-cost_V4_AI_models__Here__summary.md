@@ -1,5 +1,5 @@
 ---
-title: "2026 04 26 Deepseek Unveils New Low Cost V4 Ai Models Here Summary"
+title: "Summary: 2026-04-26_DeepSeek_unveils_new__low-cost_V4_AI_models__Here_.md"
 date: 2026-04-26
 tags: ['article', 'news', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 17 57 03Z Atighttheoryoferrorfeedbackalgorithmsindist Summary"
+title: "Summary: 2026-05-29_17-57-03Z_ATightTheoryofErrorFeedbackAlgorithmsinDistributed.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

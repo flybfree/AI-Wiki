@@ -1,5 +1,5 @@
 ---
-title: "2026 06 07 12 11 04Z Quantumglobalvariationallearningforquantume Summary"
+title: "Summary: 2026-06-07_12-11-04Z_QuantumGlobalVariationalLearningforQuantumErrorCor.md"
 date: 2026-06-07
 tags: ['paper', 'research', 'ai']
 ---

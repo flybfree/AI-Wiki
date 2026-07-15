@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 17 53 04Z Qubric Co Designingqueriesandrubricsforrlbe Summary"
+title: "Summary: 2026-06-02_17-53-04Z_QUBRIC_Co_DesigningQueriesandRubricsforRLBeyondVer.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

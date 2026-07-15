@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 16 45 51Z Thinkingwithoutwords Efficientlatentreasoningwitha Summary"
+title: "Summary: 2026-04-24_16-45-51Z_ThinkingWithoutWords_EfficientLatentReasoningwithA.md"
 date: 2026-04-24
 tags: ['paper', 'research', 'ai']
 ---

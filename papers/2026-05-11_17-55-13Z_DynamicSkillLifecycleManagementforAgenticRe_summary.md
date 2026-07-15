@@ -1,5 +1,5 @@
 ---
-title: "2026 05 11 17 55 13Z Dynamicskilllifecyclemanagementforagenticre Summary"
+title: "Summary: 2026-05-11_17-55-13Z_DynamicSkillLifecycleManagementforAgenticReinforce.md"
 date: 2026-05-11
 tags: ['paper', 'research', 'ai']
 ---

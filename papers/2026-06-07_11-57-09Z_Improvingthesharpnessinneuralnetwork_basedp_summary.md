@@ -1,5 +1,5 @@
 ---
-title: "2026 06 07 11 57 09Z Improvingthesharpnessinneuralnetwork Basedp Summary"
+title: "Summary: 2026-06-07_11-57-09Z_Improvingthesharpnessinneuralnetwork_basedparametr.md"
 date: 2026-06-07
 tags: ['paper', 'research', 'ai']
 ---

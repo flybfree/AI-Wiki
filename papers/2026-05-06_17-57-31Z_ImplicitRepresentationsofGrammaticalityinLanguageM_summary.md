@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 57 31Z Implicitrepresentationsofgrammaticalityinlanguagem Summary"
+title: "Summary: Implicit Representations of Grammaticality in Language Models"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

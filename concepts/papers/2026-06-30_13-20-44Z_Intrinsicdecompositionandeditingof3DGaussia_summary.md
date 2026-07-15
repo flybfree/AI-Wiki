@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-30_13-20-44Z_Intrinsicdecompositionandeditingof3DGaussiansplats.md"
 # Summary: 2026-06-30_13-20-44Z_Intrinsicdecompositionandeditingof3DGaussiansplats.md
 Saved: 2026-06-30 21:01
 Source: 2026-06-30_13-20-44Z_Intrinsicdecompositionandeditingof3DGaussiansplats.md

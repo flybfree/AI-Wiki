@@ -1,5 +1,5 @@
 ---
-title: "2026 05 11 17 58 14Z Quantifyingconcentrationphenomenaofmean Fie Summary"
+title: "Summary: 2026-05-11_17-58-14Z_QuantifyingConcentrationPhenomenaofMean_FieldTrans.md"
 date: 2026-05-11
 tags: ['paper', 'research', 'ai']
 ---

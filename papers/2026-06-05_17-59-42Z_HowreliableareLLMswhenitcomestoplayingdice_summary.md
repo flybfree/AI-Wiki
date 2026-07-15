@@ -1,5 +1,5 @@
 ---
-title: "2026 06 05 17 59 42Z Howreliablearellmswhenitcomestoplayingdice Summary"
+title: "Summary: 2026-06-05_17-59-42Z_HowreliableareLLMswhenitcomestoplayingdice.md"
 date: 2026-06-05
 tags: ['paper', 'research', 'ai']
 ---

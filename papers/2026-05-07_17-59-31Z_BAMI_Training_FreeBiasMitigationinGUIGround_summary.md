@@ -1,5 +1,5 @@
 ---
-title: "2026 05 07 17 59 31Z Bami Training Freebiasmitigationinguiground Summary"
+title: "Summary: 2026-05-07_17-59-31Z_BAMI_Training_FreeBiasMitigationinGUIGrounding.md"
 date: 2026-05-07
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 17 58 41Z Isgrepallyouneed Howagentharnessesreshapeag Summary"
+title: "Summary: 2026-05-14_17-58-41Z_IsGrepAllYouNeed_HowAgentHarnessesReshapeAgenticSe.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

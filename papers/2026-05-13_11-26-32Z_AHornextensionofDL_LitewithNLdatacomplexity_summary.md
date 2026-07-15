@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 11 26 32Z Ahornextensionofdl Litewithnldatacomplexity Summary"
+title: "Summary: 2026-05-13_11-26-32Z_AHornextensionofDL_LitewithNLdatacomplexity.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

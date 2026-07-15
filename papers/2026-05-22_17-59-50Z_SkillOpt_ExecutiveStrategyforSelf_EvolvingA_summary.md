@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 17 59 50Z Skillopt Executivestrategyforself Evolvinga Summary"
+title: "Summary: 2026-05-22_17-59-50Z_SkillOpt_ExecutiveStrategyforSelf_EvolvingAgentSki.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

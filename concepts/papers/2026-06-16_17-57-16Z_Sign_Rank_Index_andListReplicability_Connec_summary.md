@@ -1,5 +1,5 @@
 ---
-title: "2026 06 16 17 57 16Z Sign Rank Index Andlistreplicability Connec Summary"
+title: "Summary: 2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md"
 date: 2026-06-16
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 15 54 10Z Transition Baseddigitaltwinmodellingforalzh Summary"
+title: "Summary: 2026-06-08_15-54-10Z_Transition_BasedDigitalTwinModellingforAlzheimer_s.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

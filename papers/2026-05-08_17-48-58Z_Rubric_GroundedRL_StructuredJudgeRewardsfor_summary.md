@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 17 48 58Z Rubric Groundedrl Structuredjudgerewardsfor Summary"
+title: "Summary: 2026-05-08_17-48-58Z_Rubric_GroundedRL_StructuredJudgeRewardsforGeneral.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

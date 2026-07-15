@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 17 58 28Z Etchr Editingtoclarifyandharnessreasoning Summary"
+title: "Summary: 2026-05-22_17-58-28Z_ETCHR_EditingToClarifyandHarnessReasoning.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

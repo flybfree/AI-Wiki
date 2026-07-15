@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 17 56 09Z Graphlcp Structure Awarelocalizedconformalp Summary"
+title: "Summary: 2026-05-08_17-56-09Z_GRAPHLCP_Structure_AwareLocalizedConformalPredicti.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

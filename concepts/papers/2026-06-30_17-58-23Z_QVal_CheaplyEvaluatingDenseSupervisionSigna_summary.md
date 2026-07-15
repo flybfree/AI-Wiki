@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-30_17-58-23Z_QVal_CheaplyEvaluatingDenseSupervisionSignalsforLo.md"
 # Summary: 2026-06-30_17-58-23Z_QVal_CheaplyEvaluatingDenseSupervisionSignalsforLo.md
 Saved: 2026-06-30 23:34
 Source: 2026-06-30_17-58-23Z_QVal_CheaplyEvaluatingDenseSupervisionSignalsforLo.md

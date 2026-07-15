@@ -1,5 +1,5 @@
 ---
-title: "2026 05 19 17 58 37Z Clinseekagent Automatingmultimodalevidences Summary"
+title: "Summary: 2026-05-19_17-58-37Z_ClinSeekAgent_AutomatingMultimodalEvidenceSeekingf.md"
 date: 2026-05-19
 tags: ['paper', 'research', 'ai']
 ---

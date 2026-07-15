@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 17 56 09Z Isfixingschemagraphsnecessary Full Resoluti Summary"
+title: "Summary: 2026-05-20_17-56-09Z_IsFixingSchemaGraphsNecessary_Full_ResolutionGraph.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

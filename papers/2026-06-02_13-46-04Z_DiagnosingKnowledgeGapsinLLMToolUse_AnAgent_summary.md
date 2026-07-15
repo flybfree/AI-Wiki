@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 13 46 04Z Diagnosingknowledgegapsinllmtooluse Anagent Summary"
+title: "Summary: 2026-06-02_13-46-04Z_DiagnosingKnowledgeGapsinLLMToolUse_AnAgenticBench.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 17 57 48Z Beyondgrpoandon Policydistillation Anempiri Summary"
+title: "Summary: 2026-05-12_17-57-48Z_BeyondGRPOandOn_PolicyDistillation_AnEmpiricalSpar.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

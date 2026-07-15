@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 15 18 32Z Ontologymemory Augmentedasrcorrectionforlon Summary"
+title: "Summary: 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 14 13 17 58Z Mean Fieldparalleldecodingfordiscretediffus Summary"
+title: "Summary: 2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md"
 date: 2026-06-14
 tags: ['paper', 'research', 'ai']
 ---

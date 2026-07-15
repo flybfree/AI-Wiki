@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-30_17-59-32Z_IntrospectiveCoupling_Self_ExplanationTrainingTrac.md"
 # Summary: 2026-06-30_17-59-32Z_IntrospectiveCoupling_Self_ExplanationTrainingTrac.md
 Saved: 2026-06-30 23:34
 Source: 2026-06-30_17-59-32Z_IntrospectiveCoupling_Self_ExplanationTrainingTrac.md

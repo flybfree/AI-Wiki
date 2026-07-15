@@ -1,5 +1,5 @@
 ---
-title: "2026 05 03 Github Wdopen Nk Student Performance Predictor Mac Summary"
+title: "Summary: 2026-05-03_GitHub-wdopen-nk_student-performance-predictor_Mac.md"
 date: 2026-05-03
 tags: ['article', 'news', 'ai']
 ---

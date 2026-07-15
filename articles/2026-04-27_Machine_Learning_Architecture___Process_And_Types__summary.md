@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 Machine Learning Architecture Process And Types Summary"
+title: "Summary: 2026-04-27_Machine_Learning_Architecture___Process_And_Types_.md"
 date: 2026-04-27
 tags: ['article', 'news', 'ai']
 ---

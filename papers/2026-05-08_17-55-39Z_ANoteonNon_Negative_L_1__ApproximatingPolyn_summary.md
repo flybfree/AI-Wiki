@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 17 55 39Z Anoteonnon Negative L 1 Approximatingpolyn Summary"
+title: "Summary: 2026-05-08_17-55-39Z_ANoteonNon_Negative_L_1__ApproximatingPolynomials.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

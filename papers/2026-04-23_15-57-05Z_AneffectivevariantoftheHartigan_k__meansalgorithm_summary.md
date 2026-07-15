@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 15 57 05Z Aneffectivevariantofthehartigan K Meansalgorithm Summary"
+title: "Summary: 2026-04-23_15-57-05Z_AneffectivevariantoftheHartigan_k__meansalgorithm"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

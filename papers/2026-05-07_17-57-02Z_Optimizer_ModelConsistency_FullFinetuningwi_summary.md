@@ -1,5 +1,5 @@
 ---
-title: "2026 05 07 17 57 02Z Optimizer Modelconsistency Fullfinetuningwi Summary"
+title: "Summary: 2026-05-07_17-57-02Z_Optimizer_ModelConsistency_FullFinetuningwiththeSa.md"
 date: 2026-05-07
 tags: ['paper', 'research', 'ai']
 ---

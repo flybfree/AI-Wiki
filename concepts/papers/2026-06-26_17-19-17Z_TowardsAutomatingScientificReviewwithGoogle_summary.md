@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-26_17-19-17Z_TowardsAutomatingScientificReviewwithGoogle_sPaper.md"
 # Summary: 2026-06-26_17-19-17Z_TowardsAutomatingScientificReviewwithGoogle_sPaper.md
 Saved: 2026-06-28 21:01
 Source: 2026-06-26_17-19-17Z_TowardsAutomatingScientificReviewwithGoogle_sPaper.md

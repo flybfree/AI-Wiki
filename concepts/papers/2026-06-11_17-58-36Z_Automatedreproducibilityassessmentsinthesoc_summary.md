@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 17 58 36Z Automatedreproducibilityassessmentsinthesoc Summary"
+title: "Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 13 09 51Z Smarteredits Post Editingwitherrorhighlight Summary"
+title: "Summary: 2026-05-20_13-09-51Z_Smarteredits_Post_editingwitherrorhighlightsandtra.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 10 54 55Z Spatioroute Dynamicpromptroutingforzero Sho Summary"
+title: "Summary: 2026-05-18_10-54-55Z_SPATIOROUTE_DynamicPromptRoutingforZero_ShotSpatia.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

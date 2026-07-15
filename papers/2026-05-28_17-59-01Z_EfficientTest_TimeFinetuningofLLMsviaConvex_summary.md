@@ -1,5 +1,5 @@
 ---
-title: "2026 05 28 17 59 01Z Efficienttest Timefinetuningofllmsviaconvex Summary"
+title: "Summary: 2026-05-28_17-59-01Z_EfficientTest_TimeFinetuningofLLMsviaConvexReconst.md"
 date: 2026-05-28
 tags: ['paper', 'research', 'ai']
 ---

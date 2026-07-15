@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 14 07 41Z Detectingsensitivepersonalinformationinjapa Summary"
+title: "Summary: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

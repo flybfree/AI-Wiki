@@ -1,5 +1,5 @@
 ---
-title: "2026 06 16 17 59 03Z Variable Widthtransformers Summary"
+title: "Summary: 2026-06-16_17-59-03Z_Variable_WidthTransformers.md"
 date: 2026-06-16
 tags: ['paper', 'research', 'ai']
 ---

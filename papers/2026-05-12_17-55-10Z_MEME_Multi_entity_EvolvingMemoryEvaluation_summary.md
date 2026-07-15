@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 17 55 10Z Meme Multi Entity Evolvingmemoryevaluation Summary"
+title: "Summary: 2026-05-12_17-55-10Z_MEME_Multi_entity_EvolvingMemoryEvaluation.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

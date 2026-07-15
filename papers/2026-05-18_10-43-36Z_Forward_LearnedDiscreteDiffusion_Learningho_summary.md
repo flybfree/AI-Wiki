@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 10 43 36Z Forward Learneddiscretediffusion Learningho Summary"
+title: "Summary: 2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

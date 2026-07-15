@@ -1,5 +1,5 @@
 ---
-title: "2026 06 05 17 54 32Z Yourunembeddingmatrixissecretlyafeaturelens Summary"
+title: "Summary: 2026-06-05_17-54-32Z_YourUnEmbeddingMatrixisSecretlyaFeatureLensforText.md"
 date: 2026-06-05
 tags: ['paper', 'research', 'ai']
 ---

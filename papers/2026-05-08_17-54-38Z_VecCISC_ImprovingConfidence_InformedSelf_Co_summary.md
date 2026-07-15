@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 17 54 38Z Veccisc Improvingconfidence Informedself Co Summary"
+title: "Summary: 2026-05-08_17-54-38Z_VecCISC_ImprovingConfidence_InformedSelf_Consisten.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

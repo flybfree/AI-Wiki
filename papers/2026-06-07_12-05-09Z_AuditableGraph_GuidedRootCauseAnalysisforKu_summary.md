@@ -1,5 +1,5 @@
 ---
-title: "2026 06 07 12 05 09Z Auditablegraph Guidedrootcauseanalysisforku Summary"
+title: "Summary: 2026-06-07_12-05-09Z_AuditableGraph_GuidedRootCauseAnalysisforKubernete.md"
 date: 2026-06-07
 tags: ['paper', 'research', 'ai']
 ---

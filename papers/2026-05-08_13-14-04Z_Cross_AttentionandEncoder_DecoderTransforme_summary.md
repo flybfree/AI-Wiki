@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 13 14 04Z Cross Attentionandencoder Decodertransforme Summary"
+title: "Summary: 2026-05-08_13-14-04Z_Cross_AttentionandEncoder_DecoderTransformers_ALog.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

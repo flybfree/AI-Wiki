@@ -1,5 +1,5 @@
 ---
-title: "2026 06 09 17 49 24Z Predictingfuturebehaviorsinreasoningmodelse Summary"
+title: "Summary: 2026-06-09_17-49-24Z_PredictingFutureBehaviorsinReasoningModelsEnablesB.md"
 date: 2026-06-09
 tags: ['paper', 'research', 'ai']
 ---

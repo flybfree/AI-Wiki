@@ -1,5 +1,5 @@
 ---
-title: "2026 06 15 17 59 58Z Thevalueaxis Languagemodelsencodewhetherthe Summary"
+title: "Summary: 2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThey_reont.md"
 date: 2026-06-15
 tags: ['paper', 'research', 'ai']
 ---

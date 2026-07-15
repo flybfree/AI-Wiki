@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 17 48 30Z Givingsensorsavoice Multimodaljepaforsemant Summary"
+title: "Summary: 2026-05-29_17-48-30Z_GivingSensorsaVoice_MultimodalJEPAforSemanticTime_.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

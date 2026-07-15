@@ -1,5 +1,5 @@
 ---
-title: "2026 05 15 17 42 49Z Forge Self Evolvingagentmemorywithnoweightu Summary"
+title: "Summary: 2026-05-15_17-42-49Z_FORGE_Self_EvolvingAgentMemoryWithNoWeightUpdatesv.md"
 date: 2026-05-15
 tags: ['paper', 'research', 'ai']
 ---

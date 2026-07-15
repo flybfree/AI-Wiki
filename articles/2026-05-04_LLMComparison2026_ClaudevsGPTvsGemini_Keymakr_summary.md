@@ -1,5 +1,5 @@
 ---
-title: "2026 05 04 Llmcomparison2026 Claudevsgptvsgemini Keymakr Summary"
+title: "Summary: 2026-05-04_LLMComparison2026_ClaudevsGPTvsGemini_Keymakr.md"
 date: 2026-05-04
 tags: ['article', 'news', 'ai']
 ---

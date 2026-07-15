@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-29_17-55-40Z_OptimizationDynamicsImprintSemanticSpecificityinCo.md"
 # Summary: 2026-06-29_17-55-40Z_OptimizationDynamicsImprintSemanticSpecificityinCo.md
 Saved: 2026-06-30 01:01
 Source: 2026-06-29_17-55-40Z_OptimizationDynamicsImprintSemanticSpecificityinCo.md

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 09 17 51 55Z Datajournalistagent Transformingdataintover Summary"
+title: "Summary: 2026-06-09_17-51-55Z_DataJournalistAgent_TransformingDataintoVerifiable.md"
 date: 2026-06-09
 tags: ['paper', 'research', 'ai']
 ---

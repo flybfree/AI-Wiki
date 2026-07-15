@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 11 42 06Z Anenhancedlargeneighborhoodsearchapproachfo Summary"
+title: "Summary: 2026-05-27_11-42-06Z_AnEnhancedLargeNeighborhoodSearchApproachfortheCap.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

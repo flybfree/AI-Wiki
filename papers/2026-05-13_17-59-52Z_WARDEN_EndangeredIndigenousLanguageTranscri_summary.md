@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 17 59 52Z Warden Endangeredindigenouslanguagetranscri Summary"
+title: "Summary: 2026-05-13_17-59-52Z_WARDEN_EndangeredIndigenousLanguageTranscriptionan.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 Machinelearningoperations Azurearchitecturecenter Summary"
+title: "Summary: 2026-04-29_Machinelearningoperations-AzureArchitectureCenter.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

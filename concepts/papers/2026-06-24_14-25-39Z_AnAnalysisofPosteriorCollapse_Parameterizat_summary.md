@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-24_14-25-39Z_AnAnalysisofPosteriorCollapse_ParameterizationandI.md"
 # Summary: 2026-06-24_14-25-39Z_AnAnalysisofPosteriorCollapse_ParameterizationandI.md
 Saved: 2026-06-24 21:01
 Source: 2026-06-24_14-25-39Z_AnAnalysisofPosteriorCollapse_ParameterizationandI.md

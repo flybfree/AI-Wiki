@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 Ai Updates Today April 2026 Latest Ai Model Re Summary"
+title: "Summary: 2026-04-28_AI_Updates_Today__April_2026____Latest_AI_Model_Re.md"
 date: 2026-04-28
 tags: ['article', 'news', 'ai']
 ---

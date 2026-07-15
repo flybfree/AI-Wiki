@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 17 50 17Z Wheneyesbetrayai Socialgazeconsistencyasase Summary"
+title: "Summary: 2026-05-26_17-50-17Z_WhenEyesBetrayAI_SocialGazeConsistencyasaSemanticC.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

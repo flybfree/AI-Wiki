@@ -1,5 +1,5 @@
 ---
-title: "2026 05 28 17 59 57Z Videomla Low Ranklatentkvcacheforminute Sca Summary"
+title: "Summary: 2026-05-28_17-59-57Z_VideoMLA_Low_RankLatentKVCacheforMinute_ScaleAutor.md"
 date: 2026-05-28
 tags: ['paper', 'research', 'ai']
 ---

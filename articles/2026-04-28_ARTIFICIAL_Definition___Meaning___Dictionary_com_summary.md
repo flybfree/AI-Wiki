@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 Artificial Definition Meaning Dictionary Com Summary"
+title: "Summary: 2026-04-28_ARTIFICIAL_Definition___Meaning___Dictionary_com.md"
 date: 2026-04-28
 tags: ['article', 'news', 'ai']
 ---

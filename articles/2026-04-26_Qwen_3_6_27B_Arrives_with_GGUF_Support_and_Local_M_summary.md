@@ -1,5 +1,5 @@
 ---
-title: "2026 04 26 Qwen 3 6 27B Arrives With Gguf Support And Local M Summary"
+title: "Summary: 2026-04-26_Qwen_3_6_27B_Arrives_with_GGUF_Support_and_Local_M.md"
 date: 2026-04-26
 tags: ['article', 'news', 'ai']
 ---

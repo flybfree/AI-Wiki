@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 13 14 28Z Distilltothink Foreseetoact Cognitive Physi Summary"
+title: "Summary: 2026-05-20_13-14-28Z_DistilltoThink_ForeseetoAct_Cognitive_PhysicalRein.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

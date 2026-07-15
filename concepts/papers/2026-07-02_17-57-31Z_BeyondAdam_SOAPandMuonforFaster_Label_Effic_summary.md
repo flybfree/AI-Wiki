@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-02_17-57-31Z_BeyondAdam_SOAPandMuonforFaster_Label_EfficientTra.md"
 # Summary: 2026-07-02_17-57-31Z_BeyondAdam_SOAPandMuonforFaster_Label_EfficientTra.md
 Saved: 2026-07-02 23:01
 Source: 2026-07-02_17-57-31Z_BeyondAdam_SOAPandMuonforFaster_Label_EfficientTra.md

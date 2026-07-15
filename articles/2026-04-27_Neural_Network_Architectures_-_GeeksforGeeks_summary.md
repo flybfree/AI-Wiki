@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 Neural Network Architectures Geeksforgeeks Summary"
+title: "Summary: 2026-04-27_Neural_Network_Architectures_-_GeeksforGeeks.md"
 date: 2026-04-27
 tags: ['article', 'news', 'ai']
 ---

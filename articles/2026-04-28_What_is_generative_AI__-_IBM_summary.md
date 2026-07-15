@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 What Is Generative Ai Ibm Summary"
+title: "Summary: 2026-04-28_What_is_generative_AI__-_IBM.md"
 date: 2026-04-28
 tags: ['article', 'news', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 07 Data Foundation Web Sources Summary"
+title: "Summary: 2026-05-07_Data_Foundation_Web_Sources.md"
 date: 2026-05-07
 tags: ['article', 'news', 'ai']
 ---

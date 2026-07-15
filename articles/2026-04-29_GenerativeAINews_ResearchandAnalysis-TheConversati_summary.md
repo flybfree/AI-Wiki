@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 Generativeainews Researchandanalysis Theconversati Summary"
+title: "Summary: 2026-04-29_GenerativeAINews_ResearchandAnalysis-TheConversati.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

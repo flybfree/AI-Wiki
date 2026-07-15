@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 13 45 20Z In Contextlearningfordata Drivencensoredinv Summary"
+title: "Summary: 2026-05-14_13-45-20Z_In_ContextLearningforData_DrivenCensoredInventoryC.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

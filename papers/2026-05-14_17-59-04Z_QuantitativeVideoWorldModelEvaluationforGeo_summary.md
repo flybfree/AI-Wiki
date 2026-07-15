@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 17 59 04Z Quantitativevideoworldmodelevaluationforgeo Summary"
+title: "Summary: 2026-05-14_17-59-04Z_QuantitativeVideoWorldModelEvaluationforGeometric_.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

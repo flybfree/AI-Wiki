@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 12 05 53Z Onthedetectionofcommutativefactorsinfactorg Summary"
+title: "Summary: 2026-05-26_12-05-53Z_OntheDetectionofCommutativeFactorsinFactorGraphs_N.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

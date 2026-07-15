@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 39 14Z Threemodelsofrlhfannotation Extension Evidence And Summary"
+title: "Summary: Three Models of RLHF Annotation: Extension, Evidence, and Authority"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

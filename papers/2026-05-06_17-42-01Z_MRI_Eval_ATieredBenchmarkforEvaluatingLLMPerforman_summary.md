@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 42 01Z Mri Eval Atieredbenchmarkforevaluatingllmperforman Summary"
+title: "Summary: MRI-Eval: A Tiered Benchmark for Evaluating LLM Performance on MRI Physics and GE Scanner Operations Knowledge"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 30 2026Isbreakthroughyearforreliableaiworldmodelsandc Summary"
+title: "Summary: 2026-04-30_2026isBreakthroughYearforReliableAIWorldModelsandC.md"
 date: 2026-04-30
 tags: ['article', 'news', 'ai']
 ---

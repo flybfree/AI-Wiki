@@ -1,5 +1,5 @@
 ---
-title: "2026 06 07 12 17 25Z Howmuchcapacitydoeseegdenoisingneed Ultra C Summary"
+title: "Summary: 2026-06-07_12-17-25Z_HowMuchCapacityDoesEEGDenoisingNeed_Ultra_CompactN.md"
 date: 2026-06-07
 tags: ['paper', 'research', 'ai']
 ---

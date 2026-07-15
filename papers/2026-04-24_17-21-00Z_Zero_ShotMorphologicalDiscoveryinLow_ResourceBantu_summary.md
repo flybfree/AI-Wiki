@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 17 21 00Z Zero Shotmorphologicaldiscoveryinlow Resourcebantu Summary"
+title: "Summary: 2026-04-24_17-21-00Z_Zero_ShotMorphologicalDiscoveryinLow_ResourceBantu.md"
 date: 2026-04-24
 tags: ['paper', 'research', 'ai']
 ---

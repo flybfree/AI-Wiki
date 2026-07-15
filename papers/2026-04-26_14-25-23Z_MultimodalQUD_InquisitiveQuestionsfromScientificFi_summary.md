@@ -1,5 +1,5 @@
 ---
-title: "2026 04 26 14 25 23Z Multimodalqud Inquisitivequestionsfromscientificfi Summary"
+title: "Summary: 2026-04-26_14-25-23Z_MultimodalQUD_InquisitiveQuestionsfromScientificFi.md"
 date: 2026-04-26
 tags: ['paper', 'research', 'ai']
 ---

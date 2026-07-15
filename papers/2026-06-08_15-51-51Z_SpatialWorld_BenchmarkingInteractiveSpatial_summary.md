@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 15 51 51Z Spatialworld Benchmarkinginteractivespatial Summary"
+title: "Summary: 2026-06-08_15-51-51Z_SpatialWorld_BenchmarkingInteractiveSpatialReasoni.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

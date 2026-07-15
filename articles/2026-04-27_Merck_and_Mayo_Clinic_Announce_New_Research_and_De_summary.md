@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 Merck And Mayo Clinic Announce New Research And De Summary"
+title: "Summary: 2026-04-27_Merck_and_Mayo_Clinic_Announce_New_Research_and_De.md"
 date: 2026-04-27
 tags: ['article', 'news', 'ai']
 ---

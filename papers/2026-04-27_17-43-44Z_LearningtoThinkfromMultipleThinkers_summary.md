@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 43 44Z Learningtothinkfrommultiplethinkers Summary"
+title: "Summary: 2026-04-27_17-43-44Z_LearningtoThinkfromMultipleThinkers.md"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

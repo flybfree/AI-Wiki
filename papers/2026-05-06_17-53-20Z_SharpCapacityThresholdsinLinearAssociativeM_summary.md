@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 53 20Z Sharpcapacitythresholdsinlinearassociativem Summary"
+title: "Summary: 2026-05-06_17-53-20Z_SharpCapacityThresholdsinLinearAssociativeMemory_F.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

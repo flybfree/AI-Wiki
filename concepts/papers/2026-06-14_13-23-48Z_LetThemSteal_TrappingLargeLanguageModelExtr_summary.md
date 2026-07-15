@@ -1,5 +1,5 @@
 ---
-title: "2026 06 14 13 23 48Z Letthemsteal Trappinglargelanguagemodelextr Summary"
+title: "Summary: 2026-06-14_13-23-48Z_LetThemSteal_TrappingLargeLanguageModelExtractionA.md"
 date: 2026-06-14
 tags: ['paper', 'research', 'ai']
 ---

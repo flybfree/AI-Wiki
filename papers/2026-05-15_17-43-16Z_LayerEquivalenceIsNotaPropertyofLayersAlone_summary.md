@@ -1,5 +1,5 @@
 ---
-title: "2026 05 15 17 43 16Z Layerequivalenceisnotapropertyoflayersalone Summary"
+title: "Summary: 2026-05-15_17-43-16Z_LayerEquivalenceIsNotaPropertyofLayersAlone_HowYou.md"
 date: 2026-05-15
 tags: ['paper', 'research', 'ai']
 ---

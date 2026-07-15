@@ -1,5 +1,5 @@
 ---
-title: "2026 06 17 17 54 52Z Thechandra Gaiacatalogofcounterparts Resolv Summary"
+title: "Summary: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md"
 date: 2026-06-17
 tags: ['paper', 'research', 'ai']
 ---

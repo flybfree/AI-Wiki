@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-02_17-55-39Z_ControllableSimAgentswithBehaviorLatents.md"
 # Summary: 2026-07-02_17-55-39Z_ControllableSimAgentswithBehaviorLatents.md
 Saved: 2026-07-02 23:00
 Source: 2026-07-02_17-55-39Z_ControllableSimAgentswithBehaviorLatents.md

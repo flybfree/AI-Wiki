@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-22_17-59-20Z_CoorDex_CoordinatingBodyandHandPriorsforContinuous.md"
 # Summary: 2026-06-22_17-59-20Z_CoorDex_CoordinatingBodyandHandPriorsforContinuous.md
 Saved: 2026-06-23 00:01
 Source: 2026-06-22_17-59-20Z_CoorDex_CoordinatingBodyandHandPriorsforContinuous.md

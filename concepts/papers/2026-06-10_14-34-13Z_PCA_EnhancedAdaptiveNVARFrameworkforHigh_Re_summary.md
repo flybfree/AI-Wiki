@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 14 34 13Z Pca Enhancedadaptivenvarframeworkforhigh Re Summary"
+title: "Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

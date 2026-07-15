@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 13 44 37Z Towardsnon Monotonicentailmentinproposition Summary"
+title: "Summary: 2026-06-02_13-44-37Z_TowardsNon_MonotonicEntailmentinPropositionalDefea.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

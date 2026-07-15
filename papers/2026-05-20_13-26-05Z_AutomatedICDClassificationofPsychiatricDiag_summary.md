@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 13 26 05Z Automatedicdclassificationofpsychiatricdiag Summary"
+title: "Summary: 2026-05-20_13-26-05Z_AutomatedICDClassificationofPsychiatricDiagnoses_F.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

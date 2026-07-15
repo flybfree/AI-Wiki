@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 40 11Z Whenlifegivesyoubc Makeq Functions Extracti Summary"
+title: "Summary: 2026-05-06_17-40-11Z_WhenLifeGivesYouBC_MakeQ_functions_ExtractingQ_val.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

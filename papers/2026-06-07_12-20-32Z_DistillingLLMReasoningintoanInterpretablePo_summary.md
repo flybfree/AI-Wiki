@@ -1,5 +1,5 @@
 ---
-title: "2026 06 07 12 20 32Z Distillingllmreasoningintoaninterpretablepo Summary"
+title: "Summary: 2026-06-07_12-20-32Z_DistillingLLMReasoningintoanInterpretablePolicyTre.md"
 date: 2026-06-07
 tags: ['paper', 'research', 'ai']
 ---

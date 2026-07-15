@@ -1,5 +1,5 @@
 ---
-title: "2026 06 05 17 59 21Z Memdreamer Decouplingperceptionandreasoning Summary"
+title: "Summary: 2026-06-05_17-59-21Z_MemDreamer_DecouplingPerceptionandReasoningforLong.md"
 date: 2026-06-05
 tags: ['paper', 'research', 'ai']
 ---

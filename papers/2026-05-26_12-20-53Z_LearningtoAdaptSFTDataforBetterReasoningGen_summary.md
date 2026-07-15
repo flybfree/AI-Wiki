@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 12 20 53Z Learningtoadaptsftdataforbetterreasoninggen Summary"
+title: "Summary: 2026-05-26_12-20-53Z_LearningtoAdaptSFTDataforBetterReasoningGeneraliza.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

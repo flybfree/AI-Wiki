@@ -1,5 +1,5 @@
 ---
-title: "2026 04 25 Here S Who Is Spending Money On Ai Subscriptions Summary"
+title: "Summary: 2026-04-25_Here_s_who_is_spending_money_on_AI_subscriptions__.md"
 date: 2026-04-25
 tags: ['article', 'news', 'ai']
 ---

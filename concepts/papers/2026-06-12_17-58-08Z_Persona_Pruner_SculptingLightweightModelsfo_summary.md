@@ -1,5 +1,5 @@
 ---
-title: "2026 06 12 17 58 08Z Persona Pruner Sculptinglightweightmodelsfo Summary"
+title: "Summary: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md"
 date: 2026-06-12
 tags: ['paper', 'research', 'ai']
 ---

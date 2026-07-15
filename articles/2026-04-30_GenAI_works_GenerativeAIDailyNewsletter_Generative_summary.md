@@ -1,5 +1,5 @@
 ---
-title: "2026 04 30 Genai Works Generativeaidailynewsletter Generative Summary"
+title: "Summary: 2026-04-30_GenAI_works_GenerativeAIDailyNewsletter_Generative.md"
 date: 2026-04-30
 tags: ['article', 'news', 'ai']
 ---

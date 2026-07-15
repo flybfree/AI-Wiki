@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 17 59 59Z Evoarena Trackingmemoryevolutionforrobustll Summary"
+title: "Summary: 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

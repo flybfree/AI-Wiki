@@ -1,5 +1,5 @@
 ---
-title: "2026 06 04 17 56 31Z Rredcot Segment Levelrewardredistributionfo Summary"
+title: "Summary: 2026-06-04_17-56-31Z_RREDCoT_Segment_LevelRewardRedistributionforReason.md"
 date: 2026-06-04
 tags: ['paper', 'research', 'ai']
 ---

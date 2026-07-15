@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 17 54 10Z Echo Memory Acontrolledstudyofmemoryinactio Summary"
+title: "Summary: 2026-06-08_17-54-10Z_Echo_Memory_AControlledStudyofMemoryinActionWorldM.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

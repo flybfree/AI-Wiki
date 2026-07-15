@@ -1,5 +1,5 @@
 ---
-title: "VibeThinker — Small-Model Verifiable Reasoning from Sina Weibo"
+title: "Summary: 2026-06-20_VibeThinker_SmallModelReasoningWeibo.md"
 date: 2026-06-20
 tags: ['model', 'reasoning', 'small-llm', 'open-source', 'rl', 'sft', 'weibo']
 ---

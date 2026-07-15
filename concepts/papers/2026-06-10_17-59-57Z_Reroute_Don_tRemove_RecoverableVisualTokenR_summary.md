@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 17 59 57Z Reroute Don Tremove Recoverablevisualtokenr Summary"
+title: "Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

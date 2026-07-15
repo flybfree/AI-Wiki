@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 13 10 58Z Practicalcross Bandchannelpredictionforai R Summary"
+title: "Summary: 2026-05-29_13-10-58Z_PracticalCross_BandChannelPredictionforAI_RANviaPh.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

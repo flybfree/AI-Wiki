@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 17 59 34Z Vlmsmaynotgloballyenhancehumanalignmentover Summary"
+title: "Summary: 2026-05-27_17-59-34Z_VLMsMayNotGloballyEnhanceHumanAlignmentoverLLMsDur.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

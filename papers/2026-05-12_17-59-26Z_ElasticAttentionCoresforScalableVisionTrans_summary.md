@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 17 59 26Z Elasticattentioncoresforscalablevisiontrans Summary"
+title: "Summary: 2026-05-12_17-59-26Z_ElasticAttentionCoresforScalableVisionTransformers.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 15 21 53Z Train Retrieve Orboth Afour Armhead To Head Summary"
+title: "Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

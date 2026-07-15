@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 11 37 43Z Multi Stakeholderllmalignment Decomposinges Summary"
+title: "Summary: 2026-05-26_11-37-43Z_Multi_StakeholderLLMAlignment_DecomposingEstimatio.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

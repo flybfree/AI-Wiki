@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 17 57 46Z Mathduels Evaluatingllmsasproblemposersands Summary"
+title: "Summary: 2026-04-23_17-57-46Z_MathDuels_EvaluatingLLMsasProblemPosersandSolvers.md"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

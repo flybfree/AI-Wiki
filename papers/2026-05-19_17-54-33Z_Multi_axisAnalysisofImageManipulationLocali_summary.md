@@ -1,5 +1,5 @@
 ---
-title: "2026 05 19 17 54 33Z Multi Axisanalysisofimagemanipulationlocali Summary"
+title: "Summary: 2026-05-19_17-54-33Z_Multi_axisAnalysisofImageManipulationLocalization.md"
 date: 2026-05-19
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 17 50 10Z Multi Taskbayesianin Contextlearning Summary"
+title: "Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 12 28 08Z Reasoningdepthandenvironmentcomplexity Acon Summary"
+title: "Summary: 2026-05-26_12-28-08Z_ReasoningDepthandEnvironmentComplexity_AControlled.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

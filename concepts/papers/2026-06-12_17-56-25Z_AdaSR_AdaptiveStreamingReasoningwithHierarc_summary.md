@@ -1,5 +1,5 @@
 ---
-title: "2026 06 12 17 56 25Z Adasr Adaptivestreamingreasoningwithhierarc Summary"
+title: "Summary: 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md"
 date: 2026-06-12
 tags: ['paper', 'research', 'ai']
 ---

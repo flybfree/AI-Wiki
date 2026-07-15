@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 17 58 27Z Whenaretwonetworksthesame Tensorsimilarityf Summary"
+title: "Summary: 2026-05-14_17-58-27Z_WhenAreTwoNetworkstheSame_TensorSimilarityforMecha.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

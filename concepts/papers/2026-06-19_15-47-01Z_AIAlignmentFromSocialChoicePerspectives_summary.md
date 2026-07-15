@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-19_15-47-01Z_AIAlignmentFromSocialChoicePerspectives.md"
 # Summary: 2026-06-19_15-47-01Z_AIAlignmentFromSocialChoicePerspectives.md
 Saved: 2026-06-22 21:00
 Source: 2026-06-19_15-47-01Z_AIAlignmentFromSocialChoicePerspectives.md

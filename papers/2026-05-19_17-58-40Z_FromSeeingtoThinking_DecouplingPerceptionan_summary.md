@@ -1,5 +1,5 @@
 ---
-title: "2026 05 19 17 58 40Z Fromseeingtothinking Decouplingperceptionan Summary"
+title: "Summary: 2026-05-19_17-58-40Z_FromSeeingtoThinking_DecouplingPerceptionandReason.md"
 date: 2026-05-19
 tags: ['paper', 'research', 'ai']
 ---

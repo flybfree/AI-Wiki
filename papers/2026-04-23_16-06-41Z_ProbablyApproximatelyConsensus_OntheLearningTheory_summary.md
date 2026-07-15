@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 16 06 41Z Probablyapproximatelyconsensus Onthelearningtheory Summary"
+title: "Summary: 2026-04-23_16-06-41Z_ProbablyApproximatelyConsensus_OntheLearningTheory"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

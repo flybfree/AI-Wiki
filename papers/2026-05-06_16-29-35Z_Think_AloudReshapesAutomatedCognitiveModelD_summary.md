@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 16 29 35Z Think Aloudreshapesautomatedcognitivemodeld Summary"
+title: "Summary: 2026-05-06_16-29-35Z_Think_AloudReshapesAutomatedCognitiveModelDiscover.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

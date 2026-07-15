@@ -1,5 +1,5 @@
 ---
-title: "2026 06 05 17 45 39Z Howaiagentsreshapeknowledgework Autonomy Ef Summary"
+title: "Summary: 2026-06-05_17-45-39Z_HowAIAgentsReshapeKnowledgeWork_Autonomy_Efficienc.md"
 date: 2026-06-05
 tags: ['paper', 'research', 'ai']
 ---

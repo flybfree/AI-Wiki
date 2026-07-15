@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 17 18 56Z Aligningdenseretrieverswithllmutilityviadistillati Summary"
+title: "Summary: 2026-04-24_17-18-56Z_AligningDenseRetrieverswithLLMUtilityviaDistillati.md"
 date: 2026-04-24
 tags: ['paper', 'research', 'ai']
 ---

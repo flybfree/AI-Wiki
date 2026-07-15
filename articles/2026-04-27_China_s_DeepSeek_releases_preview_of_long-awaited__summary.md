@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 China S Deepseek Releases Preview Of Long Awaited Summary"
+title: "Summary: 2026-04-27_China_s_DeepSeek_releases_preview_of_long-awaited_.md"
 date: 2026-04-27
 tags: ['article', 'news', 'ai']
 ---

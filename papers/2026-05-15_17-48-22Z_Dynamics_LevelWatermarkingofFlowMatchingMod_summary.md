@@ -1,5 +1,5 @@
 ---
-title: "2026 05 15 17 48 22Z Dynamics Levelwatermarkingofflowmatchingmod Summary"
+title: "Summary: 2026-05-15_17-48-22Z_Dynamics_LevelWatermarkingofFlowMatchingModelswith.md"
 date: 2026-05-15
 tags: ['paper', 'research', 'ai']
 ---

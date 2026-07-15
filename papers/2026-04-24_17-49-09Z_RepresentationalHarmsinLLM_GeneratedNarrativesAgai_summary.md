@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 17 49 09Z Representationalharmsinllm Generatednarrativesagai Summary"
+title: "Summary: 2026-04-24_17-49-09Z_RepresentationalHarmsinLLM_GeneratedNarrativesAgai.md"
 date: 2026-04-24
 tags: ['paper', 'research', 'ai']
 ---

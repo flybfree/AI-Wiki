@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 15 40 52Z Photoflow Agentic3Dvirtualphotographymissio Summary"
+title: "Summary: 2026-05-22_15-40-52Z_PhotoFlow_Agentic3DVirtualPhotographyMissions.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

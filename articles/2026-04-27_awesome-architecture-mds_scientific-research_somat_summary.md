@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 Awesome Architecture Mds Scientific Research Somat Summary"
+title: "Summary: 2026-04-27_awesome-architecture-mds_scientific-research_somat.md"
 date: 2026-04-27
 tags: ['article', 'news', 'ai']
 ---

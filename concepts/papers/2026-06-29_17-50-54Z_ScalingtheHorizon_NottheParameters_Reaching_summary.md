@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-29_17-50-54Z_ScalingtheHorizon_NottheParameters_ReachingTrillio.md"
 # Summary: 2026-06-29_17-50-54Z_ScalingtheHorizon_NottheParameters_ReachingTrillio.md
 Saved: 2026-06-30 01:01
 Source: 2026-06-29_17-50-54Z_ScalingtheHorizon_NottheParameters_ReachingTrillio.md

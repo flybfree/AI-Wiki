@@ -1,5 +1,5 @@
 ---
-title: "2026 04 22 17 44 56Z Paretoslider Diffusionmodelspost Trainingforcontin Summary"
+title: "Summary: 2026-04-22_17-44-56Z_ParetoSlider_DiffusionModelsPost_TrainingforContin.md"
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---

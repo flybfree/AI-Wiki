@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 17 49 16Z Ascale Adaptiveframeworkforjointspatiotemporalsupe Summary"
+title: "Summary: 2026-04-23_17-49-16Z_AScale_AdaptiveFrameworkforJointSpatiotemporalSupe"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

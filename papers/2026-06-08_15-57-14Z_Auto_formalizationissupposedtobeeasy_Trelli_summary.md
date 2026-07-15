@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 15 57 14Z Auto Formalizationissupposedtobeeasy Trelli Summary"
+title: "Summary: 2026-06-08_15-57-14Z_Auto_formalizationissupposedtobeeasy_Trellisproces.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 17 58 36Z Causallyevaluatingthelearnabilityofformalla Summary"
+title: "Summary: 2026-06-08_17-58-36Z_CausallyEvaluatingtheLearnabilityofFormalLanguageT.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

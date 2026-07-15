@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 16 20 24Z Ordermatters Improvingdomainadaptationbyreo Summary"
+title: "Summary: 2026-05-06_16-20-24Z_OrderMatters_ImprovingDomainAdaptationbyReordering.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

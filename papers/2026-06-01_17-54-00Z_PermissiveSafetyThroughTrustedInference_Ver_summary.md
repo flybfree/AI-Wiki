@@ -1,5 +1,5 @@
 ---
-title: "2026 06 01 17 54 00Z Permissivesafetythroughtrustedinference Ver Summary"
+title: "Summary: 2026-06-01_17-54-00Z_PermissiveSafetyThroughTrustedInference_Verifiable.md"
 date: 2026-06-01
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 46 12Z Estimatingtheexpectedoutputofwiderandommlps Summary"
+title: "Summary: 2026-05-06_17-46-12Z_EstimatingtheexpectedoutputofwiderandomMLPsmoreeff.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

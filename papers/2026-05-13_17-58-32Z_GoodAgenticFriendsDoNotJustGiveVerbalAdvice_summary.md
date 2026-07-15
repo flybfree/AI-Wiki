@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 17 58 32Z Goodagenticfriendsdonotjustgiveverbaladvice Summary"
+title: "Summary: 2026-05-13_17-58-32Z_GoodAgenticFriendsDoNotJustGiveVerbalAdvice_TheyCa.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 03 17 57 51Z Beyondtextfollowing Repairablearbitrationre Summary"
+title: "Summary: 2026-06-03_17-57-51Z_BeyondTextFollowing_RepairableArbitrationReversals.md"
 date: 2026-06-03
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 Generativeai Summary"
+title: "Summary: 2026-05-14_GenerativeAI.md"
 date: 2026-05-14
 tags: ['article', 'news', 'ai']
 ---

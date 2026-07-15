@@ -1,5 +1,5 @@
 ---
-title: "2026 04 25 Artificial English Meaning Cambridge Dictionar Summary"
+title: "Summary: 2026-04-25_ARTIFICIAL___English_meaning_-_Cambridge_Dictionar.md"
 date: 2026-04-25
 tags: ['article', 'news', 'ai']
 ---

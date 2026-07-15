@@ -1,5 +1,5 @@
 ---
-title: "2026 06 14 13 19 45Z Continuouscross Domaintrafficstatepredictio Summary"
+title: "Summary: 2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md"
 date: 2026-06-14
 tags: ['paper', 'research', 'ai']
 ---

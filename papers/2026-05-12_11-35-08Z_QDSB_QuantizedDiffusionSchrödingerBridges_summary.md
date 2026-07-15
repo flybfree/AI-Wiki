@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 11 35 08Z Qdsb Quantizeddiffusionschrödingerbridges Summary"
+title: "Summary: 2026-05-12_11-35-08Z_QDSB_QuantizedDiffusionSchrödingerBridges.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

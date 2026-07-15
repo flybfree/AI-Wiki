@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-23_17-55-18Z_NewBoundsfortheLastIterateoftheStochasticsubGradie.md"
 # Summary: 2026-06-23_17-55-18Z_NewBoundsfortheLastIterateoftheStochasticsubGradie.md
 Saved: 2026-06-24 00:01
 Source: 2026-06-23_17-55-18Z_NewBoundsfortheLastIterateoftheStochasticsubGradie.md

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 26 14 15 43Z Expertevaluationofllm Sopen Endedlegalreasoningont Summary"
+title: "Summary: 2026-04-26_14-15-43Z_ExpertEvaluationofLLM_sOpen_EndedLegalReasoningont.md"
 date: 2026-04-26
 tags: ['paper', 'research', 'ai']
 ---

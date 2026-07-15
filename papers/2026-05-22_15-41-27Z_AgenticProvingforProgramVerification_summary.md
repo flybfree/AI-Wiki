@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 15 41 27Z Agenticprovingforprogramverification Summary"
+title: "Summary: 2026-05-22_15-41-27Z_AgenticProvingforProgramVerification.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

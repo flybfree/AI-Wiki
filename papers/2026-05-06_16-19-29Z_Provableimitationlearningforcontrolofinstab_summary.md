@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 16 19 29Z Provableimitationlearningforcontrolofinstab Summary"
+title: "Summary: 2026-05-06_16-19-29Z_Provableimitationlearningforcontrolofinstabilityin.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

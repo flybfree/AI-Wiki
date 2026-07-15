@@ -1,5 +1,5 @@
 ---
-title: "2026 04 25 Ai In April 2026 Biggest Breakthroughs Models Summary"
+title: "Summary: 2026-04-25_AI_in_April_2026__Biggest_Breakthroughs__Models___.md"
 date: 2026-04-25
 tags: ['article', 'news', 'ai']
 ---

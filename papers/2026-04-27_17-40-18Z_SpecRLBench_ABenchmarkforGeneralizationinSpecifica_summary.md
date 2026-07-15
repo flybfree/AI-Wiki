@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 40 18Z Specrlbench Abenchmarkforgeneralizationinspecifica Summary"
+title: "Summary: SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

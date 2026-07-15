@@ -1,5 +1,5 @@
 ---
-title: "2026 05 25 17 59 36Z Frommodelscalingtosystemscaling Scalingtheh Summary"
+title: "Summary: 2026-05-25_17-59-36Z_FromModelScalingtoSystemScaling_ScalingtheHarnessi.md"
 date: 2026-05-25
 tags: ['paper', 'research', 'ai']
 ---

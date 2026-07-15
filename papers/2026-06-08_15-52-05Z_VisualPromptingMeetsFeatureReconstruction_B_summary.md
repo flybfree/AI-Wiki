@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 15 52 05Z Visualpromptingmeetsfeaturereconstruction B Summary"
+title: "Summary: 2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

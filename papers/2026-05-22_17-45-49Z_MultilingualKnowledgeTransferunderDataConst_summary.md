@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 17 45 49Z Multilingualknowledgetransferunderdataconst Summary"
+title: "Summary: 2026-05-22_17-45-49Z_MultilingualKnowledgeTransferunderDataConstraintsv.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 12 49 49Z Merlean Prover Arecursiveloopingharnessfore Summary"
+title: "Summary: 2026-05-26_12-49-49Z_MerLean_Prover_ARecursiveLoopingHarnessforEnd_to_E.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

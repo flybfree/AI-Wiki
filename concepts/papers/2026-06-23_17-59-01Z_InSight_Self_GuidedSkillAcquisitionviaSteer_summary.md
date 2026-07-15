@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteerableVLA.md"
 # Summary: 2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteerableVLA.md
 Saved: 2026-06-24 00:01
 Source: 2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteerableVLA.md

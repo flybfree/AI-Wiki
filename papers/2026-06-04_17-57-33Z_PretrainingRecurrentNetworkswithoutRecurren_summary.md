@@ -1,5 +1,5 @@
 ---
-title: "2026 06 04 17 57 33Z Pretrainingrecurrentnetworkswithoutrecurren Summary"
+title: "Summary: 2026-06-04_17-57-33Z_PretrainingRecurrentNetworkswithoutRecurrence.md"
 date: 2026-06-04
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 16 17 31Z Onthealgebraofkoopmaneigenfunctionsandonsomeofthei Summary"
+title: "Summary: 2026-04-23_16-17-31Z_OnthealgebraofKoopmaneigenfunctionsandonsomeofthei"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

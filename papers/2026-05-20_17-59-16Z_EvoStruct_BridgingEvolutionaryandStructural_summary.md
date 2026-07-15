@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 17 59 16Z Evostruct Bridgingevolutionaryandstructural Summary"
+title: "Summary: 2026-05-20_17-59-16Z_EvoStruct_BridgingEvolutionaryandStructuralPriorsf.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

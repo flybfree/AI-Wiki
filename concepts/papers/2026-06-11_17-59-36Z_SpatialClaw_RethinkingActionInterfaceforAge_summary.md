@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 17 59 36Z Spatialclaw Rethinkingactioninterfaceforage Summary"
+title: "Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

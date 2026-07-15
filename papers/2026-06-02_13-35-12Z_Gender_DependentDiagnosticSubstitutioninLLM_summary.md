@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 13 35 12Z Gender Dependentdiagnosticsubstitutioninllm Summary"
+title: "Summary: 2026-06-02_13-35-12Z_Gender_DependentDiagnosticSubstitutioninLLMMedical.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

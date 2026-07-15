@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 11 27 40Z Query Conditionedtest Timeself Trainingforl Summary"
+title: "Summary: 2026-05-13_11-27-40Z_Query_ConditionedTest_TimeSelf_TrainingforLargeLan.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

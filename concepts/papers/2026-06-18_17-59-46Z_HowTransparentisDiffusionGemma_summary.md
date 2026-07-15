@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 17 59 46Z Howtransparentisdiffusiongemma Summary"
+title: "Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

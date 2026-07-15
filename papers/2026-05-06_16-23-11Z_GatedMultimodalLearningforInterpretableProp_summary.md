@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 16 23 11Z Gatedmultimodallearningforinterpretableprop Summary"
+title: "Summary: 2026-05-06_16-23-11Z_GatedMultimodalLearningforInterpretablePropertyEne.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

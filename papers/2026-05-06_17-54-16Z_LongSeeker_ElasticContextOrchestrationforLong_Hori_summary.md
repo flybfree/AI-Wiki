@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 54 16Z Longseeker Elasticcontextorchestrationforlong Hori Summary"
+title: "Summary: LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

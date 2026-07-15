@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 13 04 18Z Algorithmicrecourseofin Contextlearningfort Summary"
+title: "Summary: 2026-05-29_13-04-18Z_AlgorithmicRecourseofIn_ContextLearningforTabularD.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

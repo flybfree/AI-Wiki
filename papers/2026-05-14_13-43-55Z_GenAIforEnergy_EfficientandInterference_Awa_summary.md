@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 13 43 55Z Genaiforenergy Efficientandinterference Awa Summary"
+title: "Summary: 2026-05-14_13-43-55Z_GenAIforEnergy_EfficientandInterference_AwareCompr.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

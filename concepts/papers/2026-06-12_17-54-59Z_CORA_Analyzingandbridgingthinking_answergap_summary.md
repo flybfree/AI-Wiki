@@ -1,5 +1,5 @@
 ---
-title: "2026 06 12 17 54 59Z Cora Analyzingandbridgingthinking Answergap Summary"
+title: "Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md"
 date: 2026-06-12
 tags: ['paper', 'research', 'ai']
 ---

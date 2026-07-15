@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 13 16 17Z Simct Recoveringlostsupervisionforcross Tok Summary"
+title: "Summary: 2026-05-08_13-16-17Z_SimCT_RecoveringLostSupervisionforCross_TokenizerO.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

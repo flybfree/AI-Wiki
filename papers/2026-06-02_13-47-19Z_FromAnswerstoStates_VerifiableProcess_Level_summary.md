@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 13 47 19Z Fromanswerstostates Verifiableprocess Level Summary"
+title: "Summary: 2026-06-02_13-47-19Z_FromAnswerstoStates_VerifiableProcess_LevelEvaluat.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

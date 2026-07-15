@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 17 58 23Z Rethinkingthedivergenceregularizationinllmr Summary"
+title: "Summary: 2026-06-08_17-58-23Z_RethinkingtheDivergenceRegularizationinLLMRL.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

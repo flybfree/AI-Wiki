@@ -1,5 +1,5 @@
 ---
-title: "2026 06 14 13 04 03Z Unassignedagentsincompilation Basedmulti Ag Summary"
+title: "Summary: 2026-06-14_13-04-03Z_UnassignedAgentsinCompilation_basedMulti_agentPath.md"
 date: 2026-06-14
 tags: ['paper', 'research', 'ai']
 ---

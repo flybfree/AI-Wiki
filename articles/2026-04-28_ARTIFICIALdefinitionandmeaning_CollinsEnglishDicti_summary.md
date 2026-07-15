@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 Artificialdefinitionandmeaning Collinsenglishdicti Summary"
+title: "Summary: 2026-04-28_ARTIFICIALdefinitionandmeaning_CollinsEnglishDicti.md"
 date: 2026-04-28
 tags: ['article', 'news', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 17 57 04Z Alignmenttampering Howreinforcementlearning Summary"
+title: "Summary: 2026-05-26_17-57-04Z_AlignmentTampering_HowReinforcementLearningfromHum.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

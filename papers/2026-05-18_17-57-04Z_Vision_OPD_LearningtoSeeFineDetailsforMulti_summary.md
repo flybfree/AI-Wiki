@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 17 57 04Z Vision Opd Learningtoseefinedetailsformulti Summary"
+title: "Summary: 2026-05-18_17-57-04Z_Vision_OPD_LearningtoSeeFineDetailsforMultimodalLL.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

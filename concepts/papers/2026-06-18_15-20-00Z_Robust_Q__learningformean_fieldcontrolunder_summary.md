@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 15 20 00Z Robust Q Learningformean Fieldcontrolunder Summary"
+title: "Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

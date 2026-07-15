@@ -1,5 +1,5 @@
 ---
-title: "2026 05 15 17 42 11Z Aunifiedgenerative Aiframeworkforsmartenerg Summary"
+title: "Summary: 2026-05-15_17-42-11Z_AUnifiedGenerative_AIFrameworkforSmartEnergyInfras.md"
 date: 2026-05-15
 tags: ['paper', 'research', 'ai']
 ---

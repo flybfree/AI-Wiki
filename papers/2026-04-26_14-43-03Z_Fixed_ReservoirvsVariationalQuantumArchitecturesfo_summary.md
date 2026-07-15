@@ -1,5 +1,5 @@
 ---
-title: "2026 04 26 14 43 03Z Fixed Reservoirvsvariationalquantumarchitecturesfo Summary"
+title: "Summary: 2026-04-26_14-43-03Z_Fixed_ReservoirvsVariationalQuantumArchitecturesfo.md"
 date: 2026-04-26
 tags: ['paper', 'research', 'ai']
 ---

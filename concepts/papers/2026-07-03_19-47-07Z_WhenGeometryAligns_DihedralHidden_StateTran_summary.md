@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-03_19-47-07Z_WhenGeometryAligns_DihedralHidden_StateTransformat.md"
 # Summary: 2026-07-03_19-47-07Z_WhenGeometryAligns_DihedralHidden_StateTransformat.md
 Saved: 2026-07-06 21:23
 Source: 2026-07-03_19-47-07Z_WhenGeometryAligns_DihedralHidden_StateTransformat.md

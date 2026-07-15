@@ -1,5 +1,5 @@
 ---
-title: "2026 05 11 17 49 28Z Equivariantreinforcementlearningforclifford Summary"
+title: "Summary: 2026-05-11_17-49-28Z_EquivariantReinforcementLearningforCliffordQuantum.md"
 date: 2026-05-11
 tags: ['paper', 'research', 'ai']
 ---

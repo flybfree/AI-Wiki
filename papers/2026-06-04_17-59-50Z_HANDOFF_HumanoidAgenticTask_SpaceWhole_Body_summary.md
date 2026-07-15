@@ -1,5 +1,5 @@
 ---
-title: "2026 06 04 17 59 50Z Handoff Humanoidagentictask Spacewhole Body Summary"
+title: "Summary: 2026-06-04_17-59-50Z_HANDOFF_HumanoidAgenticTask_SpaceWhole_BodyControl.md"
 date: 2026-06-04
 tags: ['paper', 'research', 'ai']
 ---

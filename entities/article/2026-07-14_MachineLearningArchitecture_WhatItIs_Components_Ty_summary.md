@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-14_MachineLearningArchitecture_WhatItIs_Components_Ty.md"
 # Summary: 2026-07-14_MachineLearningArchitecture_WhatItIs_Components_Ty.md
 Saved: 2026-07-14 00:55
 Source: 2026-07-14_MachineLearningArchitecture_WhatItIs_Components_Ty.md

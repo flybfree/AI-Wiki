@@ -1,5 +1,5 @@
 ---
-title: "2026 06 04 17 59 55Z Taillor Protectingprincipalcomponentsinpara Summary"
+title: "Summary: 2026-06-04_17-59-55Z_TailLoR_ProtectingPrincipalComponentsinParameter_E.md"
 date: 2026-06-04
 tags: ['paper', 'research', 'ai']
 ---

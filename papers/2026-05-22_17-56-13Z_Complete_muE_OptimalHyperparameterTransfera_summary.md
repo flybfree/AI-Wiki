@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 17 56 13Z Complete Mue Optimalhyperparametertransfera Summary"
+title: "Summary: 2026-05-22_17-56-13Z_Complete_muE_OptimalHyperparameterTransferandScali.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

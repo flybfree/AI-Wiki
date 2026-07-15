@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 13 20 08Z Demavla Avision Language Actionfoundationmo Summary"
+title: "Summary: 2026-05-29_13-20-08Z_DeMaVLA_AVision_Language_ActionFoundationModelforG.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 50 37Z Teacherforcingasgeneralizedbayes Optimizationgeome Summary"
+title: "Summary: Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

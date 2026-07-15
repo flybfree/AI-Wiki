@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 17 59 52Z Learningtoreasonbyanalogyviaretrieval Augme Summary"
+title: "Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

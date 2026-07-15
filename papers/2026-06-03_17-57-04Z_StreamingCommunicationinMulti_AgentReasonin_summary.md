@@ -1,5 +1,5 @@
 ---
-title: "2026 06 03 17 57 04Z Streamingcommunicationinmulti Agentreasonin Summary"
+title: "Summary: 2026-06-03_17-57-04Z_StreamingCommunicationinMulti_AgentReasoning.md"
 date: 2026-06-03
 tags: ['paper', 'research', 'ai']
 ---

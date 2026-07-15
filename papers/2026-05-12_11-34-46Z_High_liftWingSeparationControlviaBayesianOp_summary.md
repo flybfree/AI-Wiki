@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 11 34 46Z High Liftwingseparationcontrolviabayesianop Summary"
+title: "Summary: 2026-05-12_11-34-46Z_High_liftWingSeparationControlviaBayesianOptimizat.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

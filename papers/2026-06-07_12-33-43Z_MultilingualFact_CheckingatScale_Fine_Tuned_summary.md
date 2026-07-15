@@ -1,5 +1,5 @@
 ---
-title: "2026 06 07 12 33 43Z Multilingualfact Checkingatscale Fine Tuned Summary"
+title: "Summary: 2026-06-07_12-33-43Z_MultilingualFact_CheckingatScale_Fine_TunedCompact.md"
 date: 2026-06-07
 tags: ['paper', 'research', 'ai']
 ---

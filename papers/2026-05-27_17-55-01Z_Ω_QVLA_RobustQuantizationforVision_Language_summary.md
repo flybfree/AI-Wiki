@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 17 55 01Z Ω Qvla Robustquantizationforvision Language Summary"
+title: "Summary: 2026-05-27_17-55-01Z_Ω_QVLA_RobustQuantizationforVision_Language_Action.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 11 17 51 46Z Confidence Guideddiffusionaugmentationforen Summary"
+title: "Summary: 2026-05-11_17-51-46Z_Confidence_GuidedDiffusionAugmentationforEnhancedB.md"
 date: 2026-05-11
 tags: ['paper', 'research', 'ai']
 ---

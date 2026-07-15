@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 13 59 56Z Factorizedhmr Ahybridframeworkforvideohuman Summary"
+title: "Summary: 2026-05-14_13-59-56Z_FactorizedHMR_AHybridFrameworkforVideoHumanMeshRec.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-29_13-53-29Z_HighlyDataParallelizableEstimationoftheSliced_Wass.md"
 # Summary: 2026-06-29_13-53-29Z_HighlyDataParallelizableEstimationoftheSliced_Wass.md
 Saved: 2026-06-29 22:01
 Source: 2026-06-29_13-53-29Z_HighlyDataParallelizableEstimationoftheSliced_Wass.md

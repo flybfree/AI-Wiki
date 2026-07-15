@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 17 28Z Scalablehyperparameter Divergentensembletrainingwi Summary"
+title: "Summary: Scalable Hyperparameter-Divergent Ensemble Training with Automatic Learning Rate Exploration for Large Models"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

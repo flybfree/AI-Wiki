@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 10 39 42Z Piper Content Basedtablesearchviaprofilinga Summary"
+title: "Summary: 2026-05-18_10-39-42Z_PIPER_Content_BasedTableSearchviaprofilingandLLM_G.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

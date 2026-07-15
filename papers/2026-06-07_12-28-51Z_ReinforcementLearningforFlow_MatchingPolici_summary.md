@@ -1,5 +1,5 @@
 ---
-title: "2026 06 07 12 28 51Z Reinforcementlearningforflow Matchingpolici Summary"
+title: "Summary: 2026-06-07_12-28-51Z_ReinforcementLearningforFlow_MatchingPolicieswithD.md"
 date: 2026-06-07
 tags: ['paper', 'research', 'ai']
 ---

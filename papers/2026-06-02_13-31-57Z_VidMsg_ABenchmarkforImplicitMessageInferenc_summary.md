@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 13 31 57Z Vidmsg Abenchmarkforimplicitmessageinferenc Summary"
+title: "Summary: 2026-06-02_13-31-57Z_VidMsg_ABenchmarkforImplicitMessageInferenceinShor.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

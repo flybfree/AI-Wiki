@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 40 49Z Variationalneuralbeliefparameterizationsfor Summary"
+title: "Summary: 2026-04-28_17-40-49Z_VariationalNeuralBeliefParameterizationsforRobustD.md"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

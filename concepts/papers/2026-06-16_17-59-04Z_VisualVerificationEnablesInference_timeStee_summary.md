@@ -1,5 +1,5 @@
 ---
-title: "2026 06 16 17 59 04Z Visualverificationenablesinference Timestee Summary"
+title: "Summary: 2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md"
 date: 2026-06-16
 tags: ['paper', 'research', 'ai']
 ---

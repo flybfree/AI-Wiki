@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 13 39 15Z Black Box Adaptive Efficient Transferable H Summary"
+title: "Summary: 2026-06-02_13-39-15Z_Black_box_Adaptive_Efficient_Transferable_Harmful_.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

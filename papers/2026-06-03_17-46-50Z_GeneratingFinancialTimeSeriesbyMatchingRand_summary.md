@@ -1,5 +1,5 @@
 ---
-title: "2026 06 03 17 46 50Z Generatingfinancialtimeseriesbymatchingrand Summary"
+title: "Summary: 2026-06-03_17-46-50Z_GeneratingFinancialTimeSeriesbyMatchingRandomConvo.md"
 date: 2026-06-03
 tags: ['paper', 'research', 'ai']
 ---

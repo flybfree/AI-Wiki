@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-26_17-38-47Z_DemocraticICAI_DebatingOurWaytoSteeringPrinciplesf.md"
 # Summary: 2026-06-26_17-38-47Z_DemocraticICAI_DebatingOurWaytoSteeringPrinciplesf.md
 Saved: 2026-06-28 22:00
 Source: 2026-06-26_17-38-47Z_DemocraticICAI_DebatingOurWaytoSteeringPrinciplesf.md

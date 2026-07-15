@@ -1,5 +1,5 @@
 ---
-title: "2026 06 12 17 50 23Z Cottonleafvision Anexplainableandrobustdeep Summary"
+title: "Summary: 2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeepLearnin.md"
 date: 2026-06-12
 tags: ['paper', 'research', 'ai']
 ---

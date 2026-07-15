@@ -1,5 +1,5 @@
 ---
-title: "2026 04 26 14 36 31Z Transformerasaneulerdiscretizationofscore Basedvar Summary"
+title: "Summary: 2026-04-26_14-36-31Z_TransformerasanEulerDiscretizationofScore_basedVar.md"
 date: 2026-04-26
 tags: ['paper', 'research', 'ai']
 ---

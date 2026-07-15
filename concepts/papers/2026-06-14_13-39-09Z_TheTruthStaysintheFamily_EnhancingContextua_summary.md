@@ -1,5 +1,5 @@
 ---
-title: "2026 06 14 13 39 09Z Thetruthstaysinthefamily Enhancingcontextua Summary"
+title: "Summary: 2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md"
 date: 2026-06-14
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 19 17 54 15Z Long Termpowergridplanningviaanswersetprogr Summary"
+title: "Summary: 2026-05-19_17-54-15Z_Long_termPowerGridPlanningviaAnswerSetProgramming.md"
 date: 2026-05-19
 tags: ['paper', 'research', 'ai']
 ---

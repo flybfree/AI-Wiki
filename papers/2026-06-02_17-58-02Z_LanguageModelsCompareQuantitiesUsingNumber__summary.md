@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 17 58 02Z Languagemodelscomparequantitiesusingnumber Summary"
+title: "Summary: 2026-06-02_17-58-02Z_LanguageModelsCompareQuantitiesUsingNumber_specifi.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

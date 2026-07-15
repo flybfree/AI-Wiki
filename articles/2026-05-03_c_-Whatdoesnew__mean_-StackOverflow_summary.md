@@ -1,5 +1,5 @@
 ---
-title: "2026 05 03 C Whatdoesnew Mean Stackoverflow Summary"
+title: "Summary: 2026-05-03_c_-Whatdoesnew__mean_-StackOverflow.md"
 date: 2026-05-03
 tags: ['article', 'news', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 17 58 24Z Wikivqabench Aknowledge Groundedvisualquest Summary"
+title: "Summary: 2026-05-20_17-58-24Z_WikiVQABench_AKnowledge_GroundedVisualQuestionAnsw.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

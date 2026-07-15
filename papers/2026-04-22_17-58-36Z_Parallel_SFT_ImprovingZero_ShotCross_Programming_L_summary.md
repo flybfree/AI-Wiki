@@ -1,5 +1,5 @@
 ---
-title: "2026 04 22 17 58 36Z Parallel Sft Improvingzero Shotcross Programming L Summary"
+title: "Summary: 2026-04-22_17-58-36Z_Parallel_SFT_ImprovingZero_ShotCross_Programming_L"
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---

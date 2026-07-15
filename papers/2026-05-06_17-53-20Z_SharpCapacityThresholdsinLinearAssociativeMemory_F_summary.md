@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 53 20Z Sharpcapacitythresholdsinlinearassociativememory F Summary"
+title: "Summary: Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

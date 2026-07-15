@@ -1,5 +1,5 @@
 ---
-title: "2026 06 12 17 58 38Z Clinhallu Abenchmarkfordiagnosingstage Wise Summary"
+title: "Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md"
 date: 2026-06-12
 tags: ['paper', 'research', 'ai']
 ---

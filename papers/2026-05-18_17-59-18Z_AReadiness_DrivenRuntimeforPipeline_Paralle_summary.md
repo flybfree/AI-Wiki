@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 17 59 18Z Areadiness Drivenruntimeforpipeline Paralle Summary"
+title: "Summary: 2026-05-18_17-59-18Z_AReadiness_DrivenRuntimeforPipeline_ParallelTraini.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

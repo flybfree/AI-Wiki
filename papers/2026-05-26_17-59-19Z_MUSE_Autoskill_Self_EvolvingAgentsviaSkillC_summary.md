@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 17 59 19Z Muse Autoskill Self Evolvingagentsviaskillc Summary"
+title: "Summary: 2026-05-26_17-59-19Z_MUSE_Autoskill_Self_EvolvingAgentsviaSkillCreation.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

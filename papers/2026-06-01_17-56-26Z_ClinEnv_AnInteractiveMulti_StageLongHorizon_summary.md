@@ -1,5 +1,5 @@
 ---
-title: "2026 06 01 17 56 26Z Clinenv Aninteractivemulti Stagelonghorizon Summary"
+title: "Summary: 2026-06-01_17-56-26Z_ClinEnv_AnInteractiveMulti_StageLongHorizonEHREnvi.md"
 date: 2026-06-01
 tags: ['paper', 'research', 'ai']
 ---

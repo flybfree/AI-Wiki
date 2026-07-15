@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 11 28 38Z Learningtheerrorpatternsoflanguagemodels Summary"
+title: "Summary: 2026-05-27_11-28-38Z_LearningtheErrorPatternsofLanguageModels.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

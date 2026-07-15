@@ -1,5 +1,5 @@
 ---
-title: "2026 04 25 The Architecture Of Machine Learning Systems A Co Summary"
+title: "Summary: 2026-04-25_The_Architecture_of_Machine_Learning_Systems__A_Co.md"
 date: 2026-04-25
 tags: ['article', 'news', 'ai']
 ---

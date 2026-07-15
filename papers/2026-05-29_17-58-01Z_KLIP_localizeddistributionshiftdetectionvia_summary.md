@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 17 58 01Z Klip Localizeddistributionshiftdetectionvia Summary"
+title: "Summary: 2026-05-29_17-58-01Z_KLIP_localizeddistributionshiftdetectionviaKL_dive.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

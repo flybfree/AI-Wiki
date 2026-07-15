@@ -1,5 +1,5 @@
 ---
-title: "2026 06 03 17 54 04Z Reinforcementlearningfromrichfeedbackwithdi Summary"
+title: "Summary: 2026-06-03_17-54-04Z_ReinforcementLearningfromRichFeedbackwithDistribut.md"
 date: 2026-06-03
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 01 17 59 46Z Mitigatingperceptualjudgmentbiasinmultimoda Summary"
+title: "Summary: 2026-06-01_17-59-46Z_MitigatingPerceptualJudgmentBiasinMultimodalLLM_as.md"
 date: 2026-06-01
 tags: ['paper', 'research', 'ai']
 ---

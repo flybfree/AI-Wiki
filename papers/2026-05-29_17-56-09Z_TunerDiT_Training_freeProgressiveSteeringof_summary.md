@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 17 56 09Z Tunerdit Training Freeprogressivesteeringof Summary"
+title: "Summary: 2026-05-29_17-56-09Z_TunerDiT_Training_freeProgressiveSteeringofDiffusi.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

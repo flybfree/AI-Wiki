@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 Ainews Latestheadlinesanddevelopments Reuters Summary"
+title: "Summary: 2026-04-28_AINews_LatestHeadlinesandDevelopments_Reuters.md"
 date: 2026-04-28
 tags: ['article', 'news', 'ai']
 ---

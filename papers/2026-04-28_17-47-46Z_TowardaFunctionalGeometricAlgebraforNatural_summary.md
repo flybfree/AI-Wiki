@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 47 46Z Towardafunctionalgeometricalgebrafornatural Summary"
+title: "Summary: 2026-04-28_17-47-46Z_TowardaFunctionalGeometricAlgebraforNaturalLanguag.md"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

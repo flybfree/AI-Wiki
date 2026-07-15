@@ -1,5 +1,5 @@
 ---
-title: "2026 06 12 17 48 27Z Hump Kd Ahybriduncertainty Awaremulti Stage Summary"
+title: "Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md"
 date: 2026-06-12
 tags: ['paper', 'research', 'ai']
 ---

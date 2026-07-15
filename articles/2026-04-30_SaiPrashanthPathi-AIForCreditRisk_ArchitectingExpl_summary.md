@@ -1,5 +1,5 @@
 ---
-title: "2026 04 30 Saiprashanthpathi Aiforcreditrisk Architectingexpl Summary"
+title: "Summary: 2026-04-30_SaiPrashanthPathi-AIForCreditRisk_ArchitectingExpl.md"
 date: 2026-04-30
 tags: ['article', 'news', 'ai']
 ---

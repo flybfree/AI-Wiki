@@ -1,5 +1,5 @@
 ---
-title: "2026 06 04 17 59 08Z Regretminimizationwithadaptiveopponentsinre Summary"
+title: "Summary: 2026-06-04_17-59-08Z_RegretMinimizationwithAdaptiveOpponentsinRepeatedG.md"
 date: 2026-06-04
 tags: ['paper', 'research', 'ai']
 ---

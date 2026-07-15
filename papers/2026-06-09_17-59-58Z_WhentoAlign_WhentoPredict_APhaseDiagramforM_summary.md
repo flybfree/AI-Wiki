@@ -1,5 +1,5 @@
 ---
-title: "2026 06 09 17 59 58Z Whentoalign Whentopredict Aphasediagramform Summary"
+title: "Summary: 2026-06-09_17-59-58Z_WhentoAlign_WhentoPredict_APhaseDiagramforMultimod.md"
 date: 2026-06-09
 tags: ['paper', 'research', 'ai']
 ---

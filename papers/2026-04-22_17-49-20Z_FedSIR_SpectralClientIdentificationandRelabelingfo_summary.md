@@ -1,5 +1,5 @@
 ---
-title: "2026 04 22 17 49 20Z Fedsir Spectralclientidentificationandrelabelingfo Summary"
+title: "Summary: FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels"
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---

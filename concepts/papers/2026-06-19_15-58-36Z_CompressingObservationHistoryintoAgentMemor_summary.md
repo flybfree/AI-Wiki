@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-19_15-58-36Z_CompressingObservationHistoryintoAgentMemory_Disti.md"
 # Summary: 2026-06-19_15-58-36Z_CompressingObservationHistoryintoAgentMemory_Disti.md
 Saved: 2026-06-22 21:01
 Source: 2026-06-19_15-58-36Z_CompressingObservationHistoryintoAgentMemory_Disti.md

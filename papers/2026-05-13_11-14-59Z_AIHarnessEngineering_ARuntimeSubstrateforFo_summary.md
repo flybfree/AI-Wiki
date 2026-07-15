@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 11 14 59Z Aiharnessengineering Aruntimesubstrateforfo Summary"
+title: "Summary: 2026-05-13_11-14-59Z_AIHarnessEngineering_ARuntimeSubstrateforFoundatio.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

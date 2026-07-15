@@ -1,5 +1,5 @@
 ---
-title: "2026 05 07 17 56 32Z Aico Mathematician Acceleratingmathematicia Summary"
+title: "Summary: 2026-05-07_17-56-32Z_AICo_Mathematician_AcceleratingMathematicianswithA.md"
 date: 2026-05-07
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 17 47 32Z Howdoinstructionsshapespeech Cross Attentio Summary"
+title: "Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

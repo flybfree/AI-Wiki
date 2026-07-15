@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 13 46 04Z Gpart End To Endisometricfine Tuningviaglob Summary"
+title: "Summary: 2026-05-14_13-46-04Z_GPart_End_to_EndIsometricFine_TuningviaGlobalParam.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

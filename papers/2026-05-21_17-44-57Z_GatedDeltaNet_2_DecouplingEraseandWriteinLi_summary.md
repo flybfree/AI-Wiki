@@ -1,5 +1,5 @@
 ---
-title: "2026 05 21 17 44 57Z Gateddeltanet 2 Decouplingeraseandwriteinli Summary"
+title: "Summary: 2026-05-21_17-44-57Z_GatedDeltaNet_2_DecouplingEraseandWriteinLinearAtt.md"
 date: 2026-05-21
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 17 52 52Z Fromresearchquestiontoscientificworkflow Leveragin Summary"
+title: "Summary: 2026-04-23_17-52-52Z_FromResearchQuestiontoScientificWorkflow_Leveragin"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

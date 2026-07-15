@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 17 47 59Z Whichmodelsareourmodelsbuilton Auditinginvi Summary"
+title: "Summary: 2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

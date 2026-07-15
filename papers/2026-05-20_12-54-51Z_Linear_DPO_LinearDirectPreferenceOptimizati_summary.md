@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 12 54 51Z Linear Dpo Lineardirectpreferenceoptimizati Summary"
+title: "Summary: 2026-05-20_12-54-51Z_Linear_DPO_LinearDirectPreferenceOptimizationforDi.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 17 59 42Z Spendless Fitbetter Budget Efficientscalinglawfitt Summary"
+title: "Summary: 2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md"
 date: 2026-04-24
 tags: ['paper', 'research', 'ai']
 ---

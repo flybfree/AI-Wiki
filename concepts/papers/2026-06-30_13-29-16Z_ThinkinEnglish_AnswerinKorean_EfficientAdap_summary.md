@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-30_13-29-16Z_ThinkinEnglish_AnswerinKorean_EfficientAdaptationo.md"
 # Summary: 2026-06-30_13-29-16Z_ThinkinEnglish_AnswerinKorean_EfficientAdaptationo.md
 Saved: 2026-06-30 21:01
 Source: 2026-06-30_13-29-16Z_ThinkinEnglish_AnswerinKorean_EfficientAdaptationo.md

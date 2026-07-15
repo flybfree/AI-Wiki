@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 59 42Z Tamingoutliertokensindiffusiontransformers 20260507 2309 Summary"
+title: "Summary: 2026-05-06_17-59-42Z_TamingOutlierTokensinDiffusionTransformers.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

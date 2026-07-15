@@ -1,5 +1,5 @@
 ---
-title: "2026 05 26 17 58 24Z Mobilemoe Scalingon Devicemixtureofexperts Summary"
+title: "Summary: 2026-05-26_17-58-24Z_MobileMoE_ScalingOn_DeviceMixtureofExperts.md"
 date: 2026-05-26
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 09 2001 08361 Scaling Laws For Neural Language Models Summary"
+title: "Summary: 2026-05-09_2001.08361-scaling-laws-for-neural-language-models.md"
 date: 2026-05-09
 tags: ['paper', 'research', 'ai']
 ---

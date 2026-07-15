@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 17 56 13Z Whatdoestheaidoctorvalue Auditingpluralismi Summary"
+title: "Summary: 2026-05-18_17-56-13Z_WhatDoestheAIDoctorValue_AuditingPluralismintheCli.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

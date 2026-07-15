@@ -1,5 +1,5 @@
 ---
-title: "2026 05 15 17 58 58Z Designingdatacenterpowerdeliveryhierarchies Summary"
+title: "Summary: 2026-05-15_17-58-58Z_DesigningDatacenterPowerDeliveryHierarchiesfortheA.md"
 date: 2026-05-15
 tags: ['paper', 'research', 'ai']
 ---

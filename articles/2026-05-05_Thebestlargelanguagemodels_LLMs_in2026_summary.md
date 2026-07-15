@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 Thebestlargelanguagemodels Llms In2026 Summary"
+title: "Summary: 2026-05-05_Thebestlargelanguagemodels_LLMs_in2026.md"
 date: 2026-05-05
 tags: ['article', 'news', 'ai']
 ---

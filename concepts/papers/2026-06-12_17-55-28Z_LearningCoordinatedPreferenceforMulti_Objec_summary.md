@@ -1,5 +1,5 @@
 ---
-title: "2026 06 12 17 55 28Z Learningcoordinatedpreferenceformulti Objec Summary"
+title: "Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md"
 date: 2026-06-12
 tags: ['paper', 'research', 'ai']
 ---

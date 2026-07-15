@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 17 52 38Z Howfastshouldamodelcommittosupervision Trainingrea Summary"
+title: "Summary: How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum"
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---

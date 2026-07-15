@@ -1,5 +1,5 @@
 ---
-title: "2026 06 07 12 27 13Z Ina Probe Instruction Awareactiveprobingfor Summary"
+title: "Summary: 2026-06-07_12-27-13Z_InA_Probe_Instruction_AwareActiveProbingforTimeSer.md"
 date: 2026-06-07
 tags: ['paper', 'research', 'ai']
 ---

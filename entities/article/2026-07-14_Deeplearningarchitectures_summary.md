@@ -1,5 +1,5 @@
 ---
-title: "Summary: Deeplearningarchitectures"
+title: "Summary: 2026-07-14_Deeplearningarchitectures.md"
 date: 2026-07-14
 tags: [summary]
 ---

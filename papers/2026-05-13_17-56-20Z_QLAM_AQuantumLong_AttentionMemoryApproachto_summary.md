@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 17 56 20Z Qlam Aquantumlong Attentionmemoryapproachto Summary"
+title: "Summary: 2026-05-13_17-56-20Z_QLAM_AQuantumLong_AttentionMemoryApproachtoLong_Se.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

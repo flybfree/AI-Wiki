@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 Machine Learning Aws Architecture Center Summary"
+title: "Summary: 2026-04-28_Machine_Learning___AWS_Architecture_Center.md"
 date: 2026-04-28
 tags: ['article', 'news', 'ai']
 ---

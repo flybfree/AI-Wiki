@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 17 55 02Z Evaluationcards Aninterpretivelayerforaieva Summary"
+title: "Summary: 2026-06-08_17-55-02Z_EvaluationCards_AnInterpretiveLayerforAIEvaluation.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

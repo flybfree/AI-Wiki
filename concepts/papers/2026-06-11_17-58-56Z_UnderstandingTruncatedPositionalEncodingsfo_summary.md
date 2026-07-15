@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 17 58 56Z Understandingtruncatedpositionalencodingsfo Summary"
+title: "Summary: 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

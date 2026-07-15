@@ -1,5 +1,5 @@
 ---
-title: "2026 05 12 17 59 34Z Longmemeval V2 Evaluatinglong Termagentmemo Summary"
+title: "Summary: 2026-05-12_17-59-34Z_LongMemEval_V2_EvaluatingLong_TermAgentMemoryTowar.md"
 date: 2026-05-12
 tags: ['paper', 'research', 'ai']
 ---

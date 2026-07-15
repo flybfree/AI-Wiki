@@ -1,5 +1,5 @@
 ---
-title: "2026 05 21 17 59 26Z Vectorpolicyoptimization Trainingfordiversi Summary"
+title: "Summary: 2026-05-21_17-59-26Z_VectorPolicyOptimization_TrainingforDiversityImpro.md"
 date: 2026-05-21
 tags: ['paper', 'research', 'ai']
 ---

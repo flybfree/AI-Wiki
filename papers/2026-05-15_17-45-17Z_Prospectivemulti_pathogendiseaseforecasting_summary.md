@@ -1,5 +1,5 @@
 ---
-title: "2026 05 15 17 45 17Z Prospectivemulti Pathogendiseaseforecasting Summary"
+title: "Summary: 2026-05-15_17-45-17Z_Prospectivemulti_pathogendiseaseforecastingusingau.md"
 date: 2026-05-15
 tags: ['paper', 'research', 'ai']
 ---

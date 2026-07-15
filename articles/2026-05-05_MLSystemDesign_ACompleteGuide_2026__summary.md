@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 Mlsystemdesign Acompleteguide 2026 Summary"
+title: "Summary: 2026-05-05_MLSystemDesign_ACompleteGuide_2026_.md"
 date: 2026-05-05
 tags: ['article', 'news', 'ai']
 ---

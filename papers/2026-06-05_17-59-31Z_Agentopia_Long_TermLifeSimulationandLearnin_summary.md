@@ -1,5 +1,5 @@
 ---
-title: "2026 06 05 17 59 31Z Agentopia Long Termlifesimulationandlearnin Summary"
+title: "Summary: 2026-06-05_17-59-31Z_Agentopia_Long_TermLifeSimulationandLearninginAgen.md"
 date: 2026-06-05
 tags: ['paper', 'research', 'ai']
 ---

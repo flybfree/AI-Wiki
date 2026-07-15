@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 17 56 57Z Skill Rm Unifyingheterogeneousevaluationcri Summary"
+title: "Summary: 2026-06-02_17-56-57Z_Skill_RM_UnifyingHeterogeneousEvaluationCriteriavi.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

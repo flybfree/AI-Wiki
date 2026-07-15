@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 11 50 56Z Whendiscoursepressuresconflict Informations Summary"
+title: "Summary: 2026-05-27_11-50-56Z_WhenDiscoursePressuresConflict_InformationStructur.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

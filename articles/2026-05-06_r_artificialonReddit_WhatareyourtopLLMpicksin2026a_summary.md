@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 R Artificialonreddit Whatareyourtopllmpicksin2026A Summary"
+title: "Summary: 2026-05-06_r_artificialonReddit_WhatareyourtopLLMpicksin2026a.md"
 date: 2026-05-06
 tags: ['article', 'news', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 Thisnewbrain Likechipcouldslashaienergyuseby70 Sc Summary"
+title: "Summary: 2026-05-05_Thisnewbrain-likechipcouldslashAIenergyuseby70__Sc.md"
 date: 2026-05-05
 tags: ['article', 'news', 'ai']
 ---

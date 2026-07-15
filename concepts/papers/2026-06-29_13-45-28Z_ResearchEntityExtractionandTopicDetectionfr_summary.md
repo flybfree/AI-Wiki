@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-29_13-45-28Z_ResearchEntityExtractionandTopicDetectionfromUKRIG.md"
 # Summary: 2026-06-29_13-45-28Z_ResearchEntityExtractionandTopicDetectionfromUKRIG.md
 Saved: 2026-06-29 22:00
 Source: 2026-06-29_13-45-28Z_ResearchEntityExtractionandTopicDetectionfromUKRIG.md

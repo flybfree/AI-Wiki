@@ -1,5 +1,5 @@
 ---
-title: "2026 05 07 17 59 58Z Actcam Zero Shotjointcameraand3Dmotioncontr Summary"
+title: "Summary: 2026-05-07_17-59-58Z_ActCam_Zero_ShotJointCameraand3DMotionControlforVi.md"
 date: 2026-05-07
 tags: ['paper', 'research', 'ai']
 ---

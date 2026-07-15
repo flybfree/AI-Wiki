@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 14 38 00Z Nd Rope Ageneralizedropeforn Dimensionalpos Summary"
+title: "Summary: 2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPositionEm.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

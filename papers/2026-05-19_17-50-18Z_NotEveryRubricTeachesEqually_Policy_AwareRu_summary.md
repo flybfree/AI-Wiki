@@ -1,5 +1,5 @@
 ---
-title: "2026 05 19 17 50 18Z Noteveryrubricteachesequally Policy Awareru Summary"
+title: "Summary: 2026-05-19_17-50-18Z_NotEveryRubricTeachesEqually_Policy_AwareRubricRew.md"
 date: 2026-05-19
 tags: ['paper', 'research', 'ai']
 ---

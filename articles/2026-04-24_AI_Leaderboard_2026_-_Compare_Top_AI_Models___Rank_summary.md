@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 Ai Leaderboard 2026 Compare Top Ai Models Rank Summary"
+title: "Summary: 2026-04-24_AI_Leaderboard_2026_-_Compare_Top_AI_Models___Rank.md"
 date: 2026-04-24
 tags: ['article', 'news', 'ai']
 ---

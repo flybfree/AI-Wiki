@@ -1,5 +1,5 @@
 ---
-title: "2026 05 13 17 51 31Z Negationneglect Whenmodelsfailtolearnnegati Summary"
+title: "Summary: 2026-05-13_17-51-31Z_NegationNeglect_Whenmodelsfailtolearnnegationsintr.md"
 date: 2026-05-13
 tags: ['paper', 'research', 'ai']
 ---

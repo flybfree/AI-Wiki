@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 15 32 14Z Catch Meifyourag Adatasetofcontextuallyanno Summary"
+title: "Summary: 2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 11 51 25Z Fedmpt Federatedmulti Labelprompttuningofvi Summary"
+title: "Summary: 2026-05-27_11-51-25Z_FedMPT_FederatedMulti_labelPromptTuningofVision_La.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

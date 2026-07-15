@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 13 02 58Z Towardbettergeometricrepresentationsformole Summary"
+title: "Summary: 2026-05-08_13-02-58Z_TowardBetterGeometricRepresentationsforMoleculeGen.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

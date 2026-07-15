@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 17 36 12Z Symptomai Towardsaconversationalaiagentfore Summary"
+title: "Summary: 2026-05-05_17-36-12Z_SymptomAI_TowardsaConversationalAIAgentforEveryday.md"
 date: 2026-05-05
 tags: ['paper', 'research', 'ai']
 ---

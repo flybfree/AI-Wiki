@@ -1,5 +1,5 @@
 ---
-title: "2026 06 03 17 48 31Z Bbomix Atabularbenchmarkforhyperparameterop Summary"
+title: "Summary: 2026-06-03_17-48-31Z_BBOmix_ATabularBenchmarkforHyperparameterOptimizat.md"
 date: 2026-06-03
 tags: ['paper', 'research', 'ai']
 ---

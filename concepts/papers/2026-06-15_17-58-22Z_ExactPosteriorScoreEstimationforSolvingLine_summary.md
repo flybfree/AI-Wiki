@@ -1,5 +1,5 @@
 ---
-title: "2026 06 15 17 58 22Z Exactposteriorscoreestimationforsolvingline Summary"
+title: "Summary: 2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLinearInver.md"
 date: 2026-06-15
 tags: ['paper', 'research', 'ai']
 ---

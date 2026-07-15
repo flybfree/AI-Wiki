@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 13 13 03Z Windturbinemaintenanceloglabellingframework Summary"
+title: "Summary: 2026-05-29_13-13-03Z_WindTurbineMaintenanceLogLabellingFramework_LLM_Dr.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

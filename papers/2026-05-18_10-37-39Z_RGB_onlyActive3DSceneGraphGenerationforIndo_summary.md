@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 10 37 39Z Rgb Onlyactive3Dscenegraphgenerationforindo Summary"
+title: "Summary: 2026-05-18_10-37-39Z_RGB_onlyActive3DSceneGraphGenerationforIndoorMobil.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

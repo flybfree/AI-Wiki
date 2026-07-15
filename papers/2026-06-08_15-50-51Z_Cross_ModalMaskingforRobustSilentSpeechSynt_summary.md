@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 15 50 51Z Cross Modalmaskingforrobustsilentspeechsynt Summary"
+title: "Summary: 2026-06-08_15-50-51Z_Cross_ModalMaskingforRobustSilentSpeechSynthesisUs.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

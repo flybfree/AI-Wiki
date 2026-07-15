@@ -1,5 +1,5 @@
 ---
-title: "2026 06 15 17 58 03Z Geometricactionmodelforrobotpolicylearning Summary"
+title: "Summary: 2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md"
 date: 2026-06-15
 tags: ['paper', 'research', 'ai']
 ---

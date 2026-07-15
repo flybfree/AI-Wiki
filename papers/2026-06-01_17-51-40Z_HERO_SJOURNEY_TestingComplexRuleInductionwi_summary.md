@@ -1,5 +1,5 @@
 ---
-title: "2026 06 01 17 51 40Z Hero Sjourney Testingcomplexruleinductionwi Summary"
+title: "Summary: 2026-06-01_17-51-40Z_HERO_SJOURNEY_TestingComplexRuleInductionwithTextG.md"
 date: 2026-06-01
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-14_GenerativeAIrecentnews_AIBusiness.md"
 # Summary: 2026-07-14_GenerativeAIrecentnews_AIBusiness.md
 Saved: 2026-07-14 00:49
 Source: 2026-07-14_GenerativeAIrecentnews_AIBusiness.md

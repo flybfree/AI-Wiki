@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 17 42 50Z Rethinkingreasoning Intensiveretrieval Eval Summary"
+title: "Summary: 2026-05-05_17-42-50Z_RethinkingReasoning_IntensiveRetrieval_Evaluatinga.md"
 date: 2026-05-05
 tags: ['paper', 'research', 'ai']
 ---

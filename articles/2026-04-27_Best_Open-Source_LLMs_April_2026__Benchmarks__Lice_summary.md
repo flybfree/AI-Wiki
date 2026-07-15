@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 Best Open Source Llms April 2026 Benchmarks Lice Summary"
+title: "Summary: 2026-04-27_Best_Open-Source_LLMs_April_2026__Benchmarks__Lice.md"
 date: 2026-04-27
 tags: ['article', 'news', 'ai']
 ---

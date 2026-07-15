@@ -1,5 +1,5 @@
 ---
-title: "2026 05 21 17 58 06Z Remembertobecurious Episodiccontextandpersi Summary"
+title: "Summary: 2026-05-21_17-58-06Z_RemembertobeCurious_EpisodicContextandPersistentWo.md"
 date: 2026-05-21
 tags: ['paper', 'research', 'ai']
 ---

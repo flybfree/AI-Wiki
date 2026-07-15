@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 23 37Z Long Contextawareupcycling Anewfrontierforh Summary"
+title: "Summary: 2026-04-27_17-23-37Z_Long_ContextAwareUpcycling_ANewFrontierforHybridLL.md"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

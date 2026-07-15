@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 17 59 05Z Humanoid Gpt Scalingdataandstructureforzero Summary"
+title: "Summary: 2026-06-02_17-59-05Z_Humanoid_GPT_ScalingDataandStructureforZero_ShotMo.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

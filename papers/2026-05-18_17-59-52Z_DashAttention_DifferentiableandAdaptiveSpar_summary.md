@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 17 59 52Z Dashattention Differentiableandadaptivespar Summary"
+title: "Summary: 2026-05-18_17-59-52Z_DashAttention_DifferentiableandAdaptiveSparseHiera.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

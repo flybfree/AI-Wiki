@@ -1,5 +1,5 @@
 ---
-title: "2026 04 22 17 58 17Z Avise Frameworkforevaluatingthesecurityofaisystems Summary"
+title: "Summary: 2026-04-22_17-58-17Z_AVISE_FrameworkforEvaluatingtheSecurityofAISystems"
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---

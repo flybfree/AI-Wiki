@@ -1,5 +1,5 @@
 ---
-title: "2026 06 01 17 52 53Z Fromlayerstosubmodules Rethinkinggranularit Summary"
+title: "Summary: 2026-06-01_17-52-53Z_FromLayerstoSubmodules_RethinkingGranularityinRepl.md"
 date: 2026-06-01
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 09 17 49 09Z Algorithmicandminimaxcomplexitiesinkernelba Summary"
+title: "Summary: 2026-06-09_17-49-09Z_AlgorithmicandMinimaxComplexitiesinKernelBandits.md"
 date: 2026-06-09
 tags: ['paper', 'research', 'ai']
 ---

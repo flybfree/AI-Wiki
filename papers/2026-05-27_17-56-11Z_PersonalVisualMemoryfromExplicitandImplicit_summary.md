@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 17 56 11Z Personalvisualmemoryfromexplicitandimplicit Summary"
+title: "Summary: 2026-05-27_17-56-11Z_PersonalVisualMemoryfromExplicitandImplicitEvidenc.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

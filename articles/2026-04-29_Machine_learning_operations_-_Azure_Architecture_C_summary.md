@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 Machine Learning Operations Azure Architecture C Summary"
+title: "Summary: 2026-04-29_Machine_learning_operations_-_Azure_Architecture_C.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

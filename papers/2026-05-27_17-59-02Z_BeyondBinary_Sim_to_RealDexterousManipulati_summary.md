@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 17 59 02Z Beyondbinary Sim To Realdexterousmanipulati Summary"
+title: "Summary: 2026-05-27_17-59-02Z_BeyondBinary_Sim_to_RealDexterousManipulationwithP.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

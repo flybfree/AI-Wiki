@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 13 28 17Z Tsqagent Ratingtimeseriesdataqualityviadedi Summary"
+title: "Summary: 2026-06-02_13-28-17Z_TSQAgent_RatingTimeSeriesDataQualityviaDedicatedAg.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

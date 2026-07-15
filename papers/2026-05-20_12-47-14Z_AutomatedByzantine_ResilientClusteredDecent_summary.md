@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 12 47 14Z Automatedbyzantine Resilientclustereddecent Summary"
+title: "Summary: 2026-05-20_12-47-14Z_AutomatedByzantine_ResilientClusteredDecentralized.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

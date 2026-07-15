@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 17 59 55Z Entitybench Towardsentity Consistentlong Ra Summary"
+title: "Summary: 2026-05-14_17-59-55Z_EntityBench_TowardsEntity_ConsistentLong_RangeMult.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

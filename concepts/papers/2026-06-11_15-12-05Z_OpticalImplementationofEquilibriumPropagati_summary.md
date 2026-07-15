@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 15 12 05Z Opticalimplementationofequilibriumpropagati Summary"
+title: "Summary: 2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 17 59 28Z Futuresim Replayingworldeventstoevaluateada Summary"
+title: "Summary: 2026-05-14_17-59-28Z_FutureSim_ReplayingWorldEventstoEvaluateAdaptiveAg.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

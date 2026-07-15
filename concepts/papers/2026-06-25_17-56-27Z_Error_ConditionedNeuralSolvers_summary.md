@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-25_17-56-27Z_Error_ConditionedNeuralSolvers.md"
 # Summary: 2026-06-25_17-56-27Z_Error_ConditionedNeuralSolvers.md
 Saved: 2026-06-25 22:01
 Source: 2026-06-25_17-56-27Z_Error_ConditionedNeuralSolvers.md

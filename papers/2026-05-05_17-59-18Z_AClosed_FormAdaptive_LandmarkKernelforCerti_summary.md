@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 17 59 18Z Aclosed Formadaptive Landmarkkernelforcerti Summary"
+title: "Summary: 2026-05-05_17-59-18Z_AClosed_FormAdaptive_LandmarkKernelforCertifiedPoi.md"
 date: 2026-05-05
 tags: ['paper', 'research', 'ai']
 ---

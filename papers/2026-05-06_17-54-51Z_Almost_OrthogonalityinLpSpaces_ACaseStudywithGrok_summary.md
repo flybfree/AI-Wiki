@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 54 51Z Almost Orthogonalityinlpspaces Acasestudywithgrok Summary"
+title: "Summary: Almost-Orthogonality in Lp Spaces: A Case Study with Grok"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

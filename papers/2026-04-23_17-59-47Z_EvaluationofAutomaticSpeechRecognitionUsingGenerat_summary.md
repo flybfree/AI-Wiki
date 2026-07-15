@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 17 59 47Z Evaluationofautomaticspeechrecognitionusinggenerat Summary"
+title: "Summary: 2026-04-23_17-59-47Z_EvaluationofAutomaticSpeechRecognitionUsingGenerat"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

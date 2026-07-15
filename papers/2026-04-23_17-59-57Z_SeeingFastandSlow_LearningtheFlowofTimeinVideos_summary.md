@@ -1,5 +1,5 @@
 ---
-title: "2026 04 23 17 59 57Z Seeingfastandslow Learningtheflowoftimeinvideos Summary"
+title: "Summary: 2026-04-23_17-59-57Z_SeeingFastandSlow_LearningtheFlowofTimeinVideos"
 date: 2026-04-23
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 11 05 10Z Sirem Speech Informedmrireconstructionwithl Summary"
+title: "Summary: 2026-05-18_11-05-10Z_SIREM_Speech_InformedMRIReconstructionwithLearnedS.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

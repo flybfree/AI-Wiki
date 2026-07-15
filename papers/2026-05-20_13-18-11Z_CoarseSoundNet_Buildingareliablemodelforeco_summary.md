@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 13 18 11Z Coarsesoundnet Buildingareliablemodelforeco Summary"
+title: "Summary: 2026-05-20_13-18-11Z_CoarseSoundNet_Buildingareliablemodelforecological.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

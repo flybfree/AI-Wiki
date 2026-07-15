@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 15 58 31Z Meco One Stepmeanflow Basedcorrectorformult Summary"
+title: "Summary: 2026-06-08_15-58-31Z_MeCo_One_StepMeanFlow_basedCorrectorforMulti_Chann.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

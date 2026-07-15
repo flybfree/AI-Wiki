@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 17 59 51Z Peft Arena Understandingparameter Efficient Summary"
+title: "Summary: 2026-05-27_17-59-51Z_PEFT_Arena_UnderstandingParameter_EfficientFinetun.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 27 11 42 52Z Safemed R1 Clinician Auditedsafetyandethics Summary"
+title: "Summary: 2026-05-27_11-42-52Z_SafeMed_R1_Clinician_AuditedSafetyandEthicsAlignme.md"
 date: 2026-05-27
 tags: ['paper', 'research', 'ai']
 ---

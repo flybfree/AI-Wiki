@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 17 55 03Z Pixlrelight Controllablerelightingviaintrin Summary"
+title: "Summary: 2026-05-18_17-55-03Z_PIXLRelight_ControllableRelightingviaIntrinsicCond.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

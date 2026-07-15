@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-02_17-59-50Z_Program_as_Weights_AProgrammingParadigmforFuzzyFun.md"
 # Summary: 2026-07-02_17-59-50Z_Program_as_Weights_AProgrammingParadigmforFuzzyFun.md
 Saved: 2026-07-02 23:01
 Source: 2026-07-02_17-59-50Z_Program_as_Weights_AProgrammingParadigmforFuzzyFun.md

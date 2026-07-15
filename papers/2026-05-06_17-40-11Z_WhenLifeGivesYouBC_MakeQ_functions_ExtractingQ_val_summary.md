@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 17 40 11Z Whenlifegivesyoubc Makeq Functions Extractingq Val Summary"
+title: "Summary: When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

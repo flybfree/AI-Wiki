@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 17 56 17Z Thetokenisagroupelement Onlie Algebraattent Summary"
+title: "Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

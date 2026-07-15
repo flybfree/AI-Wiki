@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 16 30 48Z Driver Wm Adriver Centrictraffic Conditione Summary"
+title: "Summary: 2026-05-06_16-30-48Z_Driver_WM_ADriver_CentricTraffic_ConditionedLatent.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

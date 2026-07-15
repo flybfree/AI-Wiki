@@ -1,5 +1,5 @@
 ---
-title: "2026 05 01 Generativeainews Aitrends Updates Tracker Aiweekly Summary"
+title: "Summary: 2026-05-01_GenerativeAINews_AITrends_Updates_Tracker_AIWeekly.md"
 date: 2026-05-01
 tags: ['article', 'news', 'ai']
 ---

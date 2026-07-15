@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 17 56 35Z Eurekagent Agentenvironmentengineeringisall Summary"
+title: "Summary: 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

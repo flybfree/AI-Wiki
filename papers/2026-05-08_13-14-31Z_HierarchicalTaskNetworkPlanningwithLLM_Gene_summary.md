@@ -1,5 +1,5 @@
 ---
-title: "2026 05 08 13 14 31Z Hierarchicaltasknetworkplanningwithllm Gene Summary"
+title: "Summary: 2026-05-08_13-14-31Z_HierarchicalTaskNetworkPlanningwithLLM_GeneratedHe.md"
 date: 2026-05-08
 tags: ['paper', 'research', 'ai']
 ---

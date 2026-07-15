@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 17 54 27Z Agentjitcompilationforlatency Optimizingweb Summary"
+title: "Summary: 2026-05-20_17-54-27Z_AgentJITCompilationforLatency_OptimizingWebAgentPl.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

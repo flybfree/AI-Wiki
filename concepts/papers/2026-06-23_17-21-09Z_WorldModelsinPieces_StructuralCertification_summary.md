@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-23_17-21-09Z_WorldModelsinPieces_StructuralCertificationforGene.md"
 # Summary: 2026-06-23_17-21-09Z_WorldModelsinPieces_StructuralCertificationforGene.md
 Saved: 2026-06-24 00:01
 Source: 2026-06-23_17-21-09Z_WorldModelsinPieces_StructuralCertificationforGene.md

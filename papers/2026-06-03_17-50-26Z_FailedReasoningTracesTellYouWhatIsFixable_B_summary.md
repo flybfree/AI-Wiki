@@ -1,5 +1,5 @@
 ---
-title: "2026 06 03 17 50 26Z Failedreasoningtracestellyouwhatisfixable B Summary"
+title: "Summary: 2026-06-03_17-50-26Z_FailedReasoningTracesTellYouWhatIsFixable_ButNotby.md"
 date: 2026-06-03
 tags: ['paper', 'research', 'ai']
 ---

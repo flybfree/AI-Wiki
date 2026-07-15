@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 17 59 31Z Optimaldeterministicmulticalibrationandomni Summary"
+title: "Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

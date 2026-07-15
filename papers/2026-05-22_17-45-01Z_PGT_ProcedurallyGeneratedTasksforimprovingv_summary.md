@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 17 45 01Z Pgt Procedurallygeneratedtasksforimprovingv Summary"
+title: "Summary: 2026-05-22_17-45-01Z_PGT_ProcedurallyGeneratedTasksforimprovingvisualgr.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

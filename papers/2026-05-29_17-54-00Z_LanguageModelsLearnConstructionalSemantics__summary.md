@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 17 54 00Z Languagemodelslearnconstructionalsemantics Summary"
+title: "Summary: 2026-05-29_17-54-00Z_LanguageModelsLearnConstructionalSemantics_NotToMe.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

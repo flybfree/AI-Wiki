@@ -1,5 +1,5 @@
 ---
-title: "2026 04 25 List Of Large Language Models Wikipedia Summary"
+title: "Summary: 2026-04-25_List_of_large_language_models_-_Wikipedia.md"
 date: 2026-04-25
 tags: ['article', 'news', 'ai']
 ---

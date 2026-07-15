@@ -1,5 +1,5 @@
 ---
-title: "2026 06 11 17 59 49Z Mana Dexterousmanipulationofarticulatedtool Summary"
+title: "Summary: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md"
 date: 2026-06-11
 tags: ['paper', 'research', 'ai']
 ---

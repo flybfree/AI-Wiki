@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 17 36 17Z Anundecidabilityprooffortheplanexistenceproblem Summary"
+title: "Summary: 2026-04-24_17-36-17Z_AnUndecidabilityProofforthePlanExistenceProblem.md"
 date: 2026-04-24
 tags: ['paper', 'research', 'ai']
 ---

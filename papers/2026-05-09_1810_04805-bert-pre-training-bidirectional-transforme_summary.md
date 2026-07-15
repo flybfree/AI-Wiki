@@ -1,5 +1,5 @@
 ---
-title: "2026 05 09 1810 04805 Bert Pre Training Bidirectional Transforme Summary"
+title: "Summary: 2026-05-09_1810.04805-bert-pre-training-bidirectional-transformers.md"
 date: 2026-05-09
 tags: ['paper', 'research', 'ai']
 ---

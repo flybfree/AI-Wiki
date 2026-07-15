@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 17 56 16Z Ptl Diffusion Manifold Awarediffusionwithpe Summary"
+title: "Summary: 2026-06-08_17-56-16Z_PTL_Diffusion_Manifold_AwareDiffusionwithPeriodicT.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

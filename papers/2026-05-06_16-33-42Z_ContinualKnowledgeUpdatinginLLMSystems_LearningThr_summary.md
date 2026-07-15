@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 16 33 42Z Continualknowledgeupdatinginllmsystems Learningthr Summary"
+title: "Summary: Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

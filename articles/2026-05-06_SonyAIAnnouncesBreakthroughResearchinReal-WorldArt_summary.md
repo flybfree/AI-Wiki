@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 Sonyaiannouncesbreakthroughresearchinreal Worldart Summary"
+title: "Summary: 2026-05-06_SonyAIAnnouncesBreakthroughResearchinReal-WorldArt.md"
 date: 2026-05-06
 tags: ['article', 'news', 'ai']
 ---

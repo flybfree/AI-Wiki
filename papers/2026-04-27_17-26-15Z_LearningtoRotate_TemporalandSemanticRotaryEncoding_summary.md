@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 26 15Z Learningtorotate Temporalandsemanticrotaryencoding Summary"
+title: "Summary: Learning to Rotate: Temporal and Semantic Rotary Encoding for Sequential Modeling"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

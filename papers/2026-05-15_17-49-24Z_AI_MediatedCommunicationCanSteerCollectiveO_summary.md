@@ -1,5 +1,5 @@
 ---
-title: "2026 05 15 17 49 24Z Ai Mediatedcommunicationcansteercollectiveo Summary"
+title: "Summary: 2026-05-15_17-49-24Z_AI_MediatedCommunicationCanSteerCollectiveOpinion.md"
 date: 2026-05-15
 tags: ['paper', 'research', 'ai']
 ---

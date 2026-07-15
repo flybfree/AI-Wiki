@@ -1,5 +1,5 @@
 ---
-title: "2026 05 20 12 57 37Z Advantagecollapseingrouprelativepolicyoptim Summary"
+title: "Summary: 2026-05-20_12-57-37Z_AdvantageCollapseinGroupRelativePolicyOptimization.md"
 date: 2026-05-20
 tags: ['paper', 'research', 'ai']
 ---

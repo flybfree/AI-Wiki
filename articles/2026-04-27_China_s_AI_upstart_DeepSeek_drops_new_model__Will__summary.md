@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 China S Ai Upstart Deepseek Drops New Model Will Summary"
+title: "Summary: 2026-04-27_China_s_AI_upstart_DeepSeek_drops_new_model__Will_.md"
 date: 2026-04-27
 tags: ['article', 'news', 'ai']
 ---

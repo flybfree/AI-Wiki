@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 15 36 13Z Crax Fastsafereinforcementlearningbenchmark Summary"
+title: "Summary: 2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

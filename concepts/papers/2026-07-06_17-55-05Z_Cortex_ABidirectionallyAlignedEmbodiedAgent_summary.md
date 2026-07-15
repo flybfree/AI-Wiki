@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgentFramewo.md"
 # Summary: 2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgentFramewo.md
 Saved: 2026-07-06 23:07
 Source: 2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgentFramewo.md

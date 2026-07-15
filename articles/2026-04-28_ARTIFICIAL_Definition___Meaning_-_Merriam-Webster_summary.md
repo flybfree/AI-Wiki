@@ -1,5 +1,5 @@
 ---
-title: "2026 04 28 Artificial Definition Meaning Merriam Webster Summary"
+title: "Summary: 2026-04-28_ARTIFICIAL_Definition___Meaning_-_Merriam-Webster.md"
 date: 2026-04-28
 tags: ['article', 'news', 'ai']
 ---

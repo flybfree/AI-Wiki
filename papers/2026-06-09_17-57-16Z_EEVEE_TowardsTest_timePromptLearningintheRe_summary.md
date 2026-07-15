@@ -1,5 +1,5 @@
 ---
-title: "2026 06 09 17 57 16Z Eevee Towardstest Timepromptlearninginthere Summary"
+title: "Summary: 2026-06-09_17-57-16Z_EEVEE_TowardsTest_timePromptLearningintheRealWorld.md"
 date: 2026-06-09
 tags: ['paper', 'research', 'ai']
 ---

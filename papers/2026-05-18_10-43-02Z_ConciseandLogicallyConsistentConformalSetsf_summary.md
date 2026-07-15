@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 10 43 02Z Conciseandlogicallyconsistentconformalsetsf Summary"
+title: "Summary: 2026-05-18_10-43-02Z_ConciseandLogicallyConsistentConformalSetsforNeuro.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

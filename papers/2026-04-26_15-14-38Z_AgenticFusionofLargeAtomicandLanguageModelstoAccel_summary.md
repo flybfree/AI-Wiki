@@ -1,5 +1,5 @@
 ---
-title: "2026 04 26 15 14 38Z Agenticfusionoflargeatomicandlanguagemodelstoaccel Summary"
+title: "Summary: Agentic Fusion of Large Atomic and Language Models to Accelerate Materials Discovery"
 date: 2026-04-26
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 06 07 11 44 40Z Convolutionalsparsecodingviathelocallycompe Summary"
+title: "Summary: 2026-06-07_11-44-40Z_ConvolutionalSparseCodingviatheLocallyCompetitiveA.md"
 date: 2026-06-07
 tags: ['paper', 'research', 'ai']
 ---

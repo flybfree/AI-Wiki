@@ -1,5 +1,5 @@
 ---
-title: "2026 06 10 17 58 49Z Direct Whenandwhereshouldyouallocatetest Ti Summary"
+title: "Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md"
 date: 2026-06-10
 tags: ['paper', 'research', 'ai']
 ---

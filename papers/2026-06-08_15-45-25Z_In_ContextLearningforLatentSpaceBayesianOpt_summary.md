@@ -1,5 +1,5 @@
 ---
-title: "2026 06 08 15 45 25Z In Contextlearningforlatentspacebayesianopt Summary"
+title: "Summary: 2026-06-08_15-45-25Z_In_ContextLearningforLatentSpaceBayesianOptimizati.md"
 date: 2026-06-08
 tags: ['paper', 'research', 'ai']
 ---

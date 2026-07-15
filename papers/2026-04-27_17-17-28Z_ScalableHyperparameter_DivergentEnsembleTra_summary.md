@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 17 28Z Scalablehyperparameter Divergentensembletra Summary"
+title: "Summary: 2026-04-27_17-17-28Z_ScalableHyperparameter_DivergentEnsembleTrainingwi.md"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

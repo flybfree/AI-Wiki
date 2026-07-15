@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 Top Machine Learning Architectures Explained Bmc Summary"
+title: "Summary: 2026-04-29_Top_Machine_Learning_Architectures_Explained_-_BMC.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

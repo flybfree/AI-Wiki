@@ -1,5 +1,5 @@
 ---
-title: "2026 05 06 Multi Scale Context Aggregation By Dilated Convolutio Summary"
+title: "Summary: 2026-05-06_multi_scale_context_aggregation_by_dilated_convolutions.md"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---

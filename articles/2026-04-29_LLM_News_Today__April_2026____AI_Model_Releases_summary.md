@@ -1,5 +1,5 @@
 ---
-title: "2026 04 29 Llm News Today April 2026 Ai Model Releases Summary"
+title: "Summary: 2026-04-29_LLM_News_Today__April_2026____AI_Model_Releases.md"
 date: 2026-04-29
 tags: ['article', 'news', 'ai']
 ---

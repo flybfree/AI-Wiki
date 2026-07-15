@@ -1,5 +1,5 @@
 ---
-title: "2026 06 05 17 51 11Z Accelerateddecentralizedstochasticgradientd Summary"
+title: "Summary: 2026-06-05_17-51-11Z_AcceleratedDecentralizedStochasticGradientDescentf.md"
 date: 2026-06-05
 tags: ['paper', 'research', 'ai']
 ---

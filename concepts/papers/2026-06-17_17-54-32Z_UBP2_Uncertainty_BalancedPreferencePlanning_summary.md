@@ -1,5 +1,5 @@
 ---
-title: "2026 06 17 17 54 32Z Ubp2 Uncertainty Balancedpreferenceplanning Summary"
+title: "Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md"
 date: 2026-06-17
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 18 17 59 00Z Surge Approximation Freetrainingfreeparticl Summary"
+title: "Summary: 2026-05-18_17-59-00Z_SURGE_Approximation_freeTrainingFreeParticleFilter.md"
 date: 2026-05-18
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-30_17-53-48Z_AdaJEPA_AnAdaptiveLatentWorldModel.md"
 # Summary: 2026-06-30_17-53-48Z_AdaJEPA_AnAdaptiveLatentWorldModel.md
 Saved: 2026-06-30 23:34
 Source: 2026-06-30_17-53-48Z_AdaJEPA_AnAdaptiveLatentWorldModel.md

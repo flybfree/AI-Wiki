@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-24_13-51-42Z_EdgesBeforeEmbeddings_AConfidence_AwareBlurGatefor.md"
 # Summary: 2026-06-24_13-51-42Z_EdgesBeforeEmbeddings_AConfidence_AwareBlurGatefor.md
 Saved: 2026-06-24 21:00
 Source: 2026-06-24_13-51-42Z_EdgesBeforeEmbeddings_AConfidence_AwareBlurGatefor.md

@@ -1,5 +1,5 @@
 ---
-title: "2026 05 22 17 59 38Z Llmsasnoisychannels Ashannonperspectiveonmo Summary"
+title: "Summary: 2026-05-22_17-59-38Z_LLMsasNoisyChannels_AShannonPerspectiveonModelCapa.md"
 date: 2026-05-22
 tags: ['paper', 'research', 'ai']
 ---

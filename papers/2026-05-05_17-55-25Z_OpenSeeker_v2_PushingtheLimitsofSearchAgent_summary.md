@@ -1,5 +1,5 @@
 ---
-title: "2026 05 05 17 55 25Z Openseeker V2 Pushingthelimitsofsearchagent Summary"
+title: "Summary: 2026-05-05_17-55-25Z_OpenSeeker_v2_PushingtheLimitsofSearchAgentswithIn.md"
 date: 2026-05-05
 tags: ['paper', 'research', 'ai']
 ---

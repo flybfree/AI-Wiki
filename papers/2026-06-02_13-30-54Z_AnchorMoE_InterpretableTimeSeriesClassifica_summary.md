@@ -1,5 +1,5 @@
 ---
-title: "2026 06 02 13 30 54Z Anchormoe Interpretabletimeseriesclassifica Summary"
+title: "Summary: 2026-06-02_13-30-54Z_AnchorMoE_InterpretableTimeSeriesClassificationvia.md"
 date: 2026-06-02
 tags: ['paper', 'research', 'ai']
 ---

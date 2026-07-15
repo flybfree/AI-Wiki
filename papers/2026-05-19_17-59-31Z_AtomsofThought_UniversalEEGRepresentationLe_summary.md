@@ -1,5 +1,5 @@
 ---
-title: "2026 05 19 17 59 31Z Atomsofthought Universaleegrepresentationle Summary"
+title: "Summary: 2026-05-19_17-59-31Z_AtomsofThought_UniversalEEGRepresentationLearningw.md"
 date: 2026-05-19
 tags: ['paper', 'research', 'ai']
 ---

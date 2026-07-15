@@ -1,5 +1,5 @@
 ---
-title: "2026 04 27 17 54 12Z Theoptimalsamplecomplexityofmulticlassandlistlearn Summary"
+title: "Summary: The Optimal Sample Complexity of Multiclass and List Learning"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---

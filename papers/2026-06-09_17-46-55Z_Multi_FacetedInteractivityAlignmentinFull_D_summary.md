@@ -1,5 +1,5 @@
 ---
-title: "2026 06 09 17 46 55Z Multi Facetedinteractivityalignmentinfull D Summary"
+title: "Summary: 2026-06-09_17-46-55Z_Multi_FacetedInteractivityAlignmentinFull_DuplexSp.md"
 date: 2026-06-09
 tags: ['paper', 'research', 'ai']
 ---

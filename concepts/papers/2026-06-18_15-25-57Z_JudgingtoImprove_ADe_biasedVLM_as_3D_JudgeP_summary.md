@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 15 25 57Z Judgingtoimprove Ade Biasedvlm As 3D Judgep Summary"
+title: "Summary: 2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

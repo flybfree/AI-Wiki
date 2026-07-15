@@ -1,5 +1,5 @@
 ---
-title: "2026 04 24 17 48 47Z Agenticworldmodeling Foundations Capabilities Laws Summary"
+title: "Summary: 2026-04-24_17-48-47Z_AgenticWorldModeling_Foundations_Capabilities_Laws.md"
 date: 2026-04-24
 tags: ['paper', 'research', 'ai']
 ---

@@ -1,3 +1,4 @@
+title: "Summary: 2026-07-01_15-35-04Z_MessagePassingEnablesEfficientReasoning.md"
 # Summary: 2026-07-01_15-35-04Z_MessagePassingEnablesEfficientReasoning.md
 Saved: 2026-07-01 21:01
 Source: 2026-07-01_15-35-04Z_MessagePassingEnablesEfficientReasoning.md

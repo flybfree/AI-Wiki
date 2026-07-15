@@ -1,5 +1,5 @@
 ---
-title: "2026 06 18 15 15 57Z Criticalpercolationasasyntheticdatamodelfor Summary"
+title: "Summary: 2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelforInterpr.md"
 date: 2026-06-18
 tags: ['paper', 'research', 'ai']
 ---

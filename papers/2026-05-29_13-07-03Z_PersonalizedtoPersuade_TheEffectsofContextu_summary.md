@@ -1,5 +1,5 @@
 ---
-title: "2026 05 29 13 07 03Z Personalizedtopersuade Theeffectsofcontextu Summary"
+title: "Summary: 2026-05-29_13-07-03Z_PersonalizedtoPersuade_TheEffectsofContextualizati.md"
 date: 2026-05-29
 tags: ['paper', 'research', 'ai']
 ---

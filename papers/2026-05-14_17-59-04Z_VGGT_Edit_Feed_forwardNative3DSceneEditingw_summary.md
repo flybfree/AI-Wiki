@@ -1,5 +1,5 @@
 ---
-title: "2026 05 14 17 59 04Z Vggt Edit Feed Forwardnative3Dsceneeditingw Summary"
+title: "Summary: 2026-05-14_17-59-04Z_VGGT_Edit_Feed_forwardNative3DSceneEditingwithResi.md"
 date: 2026-05-14
 tags: ['paper', 'research', 'ai']
 ---

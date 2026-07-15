@@ -1,3 +1,4 @@
+title: "Summary: 2026-06-29_17-58-43Z_Self_EvolvingWorldModelsforLLMAgentPlanning.md"
 # Summary: 2026-06-29_17-58-43Z_Self_EvolvingWorldModelsforLLMAgentPlanning.md
 Saved: 2026-06-30 01:03
 Source: 2026-06-29_17-58-43Z_Self_EvolvingWorldModelsforLLMAgentPlanning.md
