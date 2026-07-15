@@ -209,6 +209,16 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-14_17-59-02Z_TerraZero_ProceduralDrivingSimulationforZero_Demon.md]] : TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale
+- [[2026-07-14_17-53-22Z_Audio_NativeSpeechRecognitionwithaFrozenDiscrete_D.md]] : Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model
+- [[2026-07-14_17-49-52Z_WatermarkForensicsforGenerativeModels_AnInformatio.md]] : Watermark Forensics for Generative Models: An Information-Theoretic Perspective
+- [[2026-07-14_17-58-57Z_PalmClaw_ANativeOn_DeviceAgentFrameworkforMobilePh.md]] : PalmClaw: A Native On-Device Agent Framework for Mobile Phones
+- [[2026-07-14_17-58-13Z_AShortcuttoStatisticallySteady_StateTurbulencewith.md]] : A Shortcut to Statistically Steady-State Turbulence with Flow Matching
+- [[2026-07-14_17-59-31Z_DoAIAgentsKnowWhenaTaskIsSimple_TowardComplexity_A.md]] : Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution
+- [[2026-07-14_17-51-15Z_DynamicResourceAllocationforEnsembleDeterminizatio.md]] : Dynamic Resource Allocation for Ensemble Determinization MCTS
+- [[2026-07-14_17-29-28Z_WinbySilence_DeletionNon_Monotonicity_AutonomousEx.md]] : Win by Silence: Deletion Non-Monotonicity, Autonomous Exploitation, and Typed-State Gating in LLM Plan Evaluation
+- [[2026-07-14_17-59-22Z_TheSerialityGapinVideoDiffusionModels.md]] : The Seriality Gap in Video Diffusion Models
+- [[2026-07-14_17-50-28Z_TheSpectrumIsNotEnough_WhenContextHelpsTime_Series.md]] : The Spectrum Is Not Enough: When Context Helps Time-Series Forecasting
 - [[2026-07-14_15-30-37Z_EvaluatingLargeLanguageModelsonMisconceptionsinMul.md]] : Evaluating Large Language Models on Misconceptions in Multi-Turn Medical Conversations
 - [[2026-07-14_15-43-41Z_Real_timefalldetectionbasedonvisionforlow_poweredg.md]] : Real-time fall detection based on vision for low-power edge platforms
 - [[2026-07-14_15-51-41Z_Contrastive_CollapsedLossforFlexibleandGeometrical.md]] : Contrastive-Collapsed Loss for Flexible and Geometrically Optimal Embeddings and Faster Convergence
@@ -869,3 +879,13 @@ tags: ['wiki']
 - [[2026-07-14_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
 - [[2026-07-14_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
 - [[2026-07-14_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[2026-07-15_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[2026-07-15_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[2026-07-15_Deeplearningarchitectures.md]] : Deep learning architectures
+- [[2026-07-15_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[2026-07-15_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[2026-07-15_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[2026-07-15_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[2026-07-15_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[2026-07-15_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[2026-07-15_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
