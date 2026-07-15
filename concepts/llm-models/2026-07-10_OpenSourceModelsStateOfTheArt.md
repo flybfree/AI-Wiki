@@ -59,6 +59,7 @@ This subsection is for models that matter because they can actually be run, tune
 
 ## Progress log
 
+- **2026-07-15** — Agents-A1-NVFP4-MTP-GGUF adds a local agentic multimodal MoE derivative to the watchlist, showing how NVFP4/MTP packaging can make a Qwen3.5-35B-A3B-style model practical for local experiments.
 - **2026-07-10** — Qwen 3.6 27B arrives with GGUF support, making a flagship open-weight model viable for local multimodal use.
 - **2026-06-30** — The model comparison page highlights current local frontiers like Ornith, Qwythos, VibeThinker, Qwen3.6, and Gemma 4.
 - **2026-06-30** — Qwythos-9B-Claude-Mythos-5-1M shows how Claude Mythos / Fable traces can be distilled into a compact long-context reasoning model.

@@ -22,6 +22,7 @@ Important caveat: these models are not directly apples-to-apples. They optimize 
 - Best balanced open-weight multimodal generalist: [Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)
 - Best smaller multimodal generalist: [Gemma 4 12B Unified](https://huggingface.co/google/gemma-4-12B)
 - Best larger multimodal MoE generalist: [Gemma 4 26B A4B](https://huggingface.co/google/gemma-4-26B-A4B-it)
+- Best experimental local agentic multimodal derivative: [Agents-A1-NVFP4-MTP-GGUF](https://huggingface.co/s-batman/Agents-A1-NVFP4-MTP-GGUF)
 
 ## Comparison table
 
@@ -203,6 +204,24 @@ Best fit:
 Source:
 - [Gemma 4 12B README](https://huggingface.co/google/gemma-4-12B/raw/main/README.md)
 - [Introducing Gemma 4 12B](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/)
+
+### Agents-A1-NVFP4-MTP-GGUF
+
+Agents-A1-NVFP4-MTP-GGUF is a local GGUF derivative of InternScience/Agents-A1, described as a Qwen3.5-35B-A3B MoE multimodal derivative with MTP heads grafted from unsloth/Qwen3.6-35B-A3B-MTP-GGUF. The packaging uses llama.cpp NVFP4/MXFP4 routing patches, which makes it interesting as a local agentic model experiment rather than a broad generalist.
+
+What stands out:
+- Local GGUF delivery for an agentic multimodal MoE derivative
+- MTP support, which can help speculative decoding workflows
+- Appears aimed at advanced local runtime experimentation rather than conservative deployment
+
+Best fit:
+- Local agentic coding / reasoning experiments
+- Multimodal tool-using workflows
+- Hardware setups that can take advantage of NVFP4/MTP support
+
+Source:
+- [s-batman/Agents-A1-NVFP4-MTP-GGUF](https://huggingface.co/s-batman/Agents-A1-NVFP4-MTP-GGUF)
+- [Model README](https://huggingface.co/s-batman/Agents-A1-NVFP4-MTP-GGUF/blob/main/README.md)
 
 ## Practical ranking by use case
 
