@@ -25,8 +25,18 @@ tags: ['wiki']
 ## Search Agents
 - [[concepts/llm-models/2026-06-10_Harness1.md|Harness-1]] — 20B search agent trained with RL inside a stateful retrieval harness (arXiv:2606.02373)
 ## AI/ML Foundations
-- [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — main entry point and lesson navigator
-- [[concepts/ai-foundations/ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]] — concrete lesson-by-lesson revision checklist for the 16-lesson course
+|- [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — main entry point and lesson navigator
+|- [[concepts/ai-foundations/ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]] — concrete lesson-by-lesson revision checklist for the 16-lesson course
+## AI Agents
+|- [[concepts/ai-agents/ai-agents-landing-page.md|AI Agents Landing Page]] — entry point for the lesson set
+|- [[concepts/ai-agents/ai-agents-syllabus.md|AI Agents Syllabus]] — teaching principles and scope
+|- [[concepts/ai-agents/ai-agents-course-map.md|AI Agents Course Map]] — lesson sequence and prerequisites
+|- [[concepts/ai-agents/ai-agents-lesson-01-what-an-ai-agent-is.md|Lesson 1: What an AI Agent Is]]
+|- [[concepts/ai-agents/ai-agents-lesson-02-tools-actions-and-observation-loops.md|Lesson 2: Tools, Actions, and Observation Loops]]
+|- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|Lesson 3: Planning, Memory, and State]]
+|- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|Lesson 4: Retrieval, Context, and Long-Context Work]]
+|- [[concepts/ai-agents/ai-agents-lesson-05-guardrails-evaluation-and-reliability.md|Lesson 5: Guardrails, Evaluation, and Reliability]]
+|- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|Lesson 6: Single-Agent and Multi-Agent Architectures]]
 ## Start Here
 
 - [[concepts/ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]

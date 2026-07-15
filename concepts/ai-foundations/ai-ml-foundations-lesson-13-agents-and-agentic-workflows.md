@@ -25,6 +25,7 @@ Placeholder summary — please add a concise summary.
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|Lesson 12: Prompting: Guiding Model Behavior]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
+- Deep dive: [[concepts/ai-agents/ai-agents-landing-page.md|AI Agents Lesson Set]]
 - Next: [[ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]]
 
 
