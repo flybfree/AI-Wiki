@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-19_17-51-46Z_HaorFloodAlert_DeseasonalizedMLEnsemblefor72_HourF.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.20167v1)
 Saved: 2026-05-19 22:01
 Source: 2026-05-19_17-51-46Z_HaorFloodAlert_DeseasonalizedMLEnsemblefor72_HourF.md
 Model: None

@@ -1,10 +1,10 @@
 ---
 title: Generative AI
 date: 2026-07-02
-url: https://generativeai.pub/
+url: https://r.jina.ai/http://generativeai.pub/
 type: article-full-text
 tags: [news, ai-research, full-text]
-source_url: https://generativeai.pub/
+source_url: https://r.jina.ai/http://generativeai.pub/
 scraped: 2026-07-02 00:00
 ---
 
@@ -72,4 +72,4 @@ Terms
 Text to speech
 
 ## Metadata
-- **Source**: [Original Article](https://generativeai.pub/)
+- **Source**: [Original Article](https://r.jina.ai/http://generativeai.pub/)

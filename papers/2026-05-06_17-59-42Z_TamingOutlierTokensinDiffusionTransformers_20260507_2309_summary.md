@@ -1,12 +1,12 @@
 ---
-title: "Summary: 2026-05-06_17-59-42Z_TamingOutlierTokensinDiffusionTransformers.md"
+title: "Summary: Taming Outlier Tokens in Diffusion Transformers"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---
-# Summary: 2026-05-06_17-59-42Z_TamingOutlierTokensinDiffusionTransformers.md
+# Summary: Taming Outlier Tokens in Diffusion Transformers
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](https://arxiv.org/abs/2605.05206)
 Saved: 2026-05-07 23:09
 Source: 2026-05-06_17-59-42Z_TamingOutlierTokensinDiffusionTransformers.md
 Model: None

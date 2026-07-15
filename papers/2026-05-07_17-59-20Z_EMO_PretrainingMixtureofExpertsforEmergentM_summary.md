@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-07_17-59-20Z_EMO_PretrainingMixtureofExpertsforEmergentModulari.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.06663v1)
 Saved: 2026-05-07 23:13
 Source: 2026-05-07_17-59-20Z_EMO_PretrainingMixtureofExpertsforEmergentModulari.md
 Model: None

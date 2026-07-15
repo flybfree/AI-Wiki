@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-20_13-14-28Z_DistilltoThink_ForeseetoAct_Cognitive_PhysicalRein.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.21139v1)
 Saved: 2026-05-20 21:02
 Source: 2026-05-20_13-14-28Z_DistilltoThink_ForeseetoAct_Cognitive_PhysicalRein.md
 Model: None

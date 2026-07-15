@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-19_17-58-40Z_FromSeeingtoThinking_DecouplingPerceptionandReason.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.20177v1)
 Saved: 2026-05-19 22:04
 Source: 2026-05-19_17-58-40Z_FromSeeingtoThinking_DecouplingPerceptionandReason.md
 Model: None

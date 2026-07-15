@@ -1,15 +1,13 @@
 ---
-title: "Summary: Machinelearningarchitecture Whatitis Components Ty"
-date: 2026-07-13
-tags: [summary]---
-
-# Summary: Machinelearningarchitecture Whatitis Components Ty
-Saved: 2026-07-13 00:50
-Source: 2026-07-13_MachineLearningArchitecture_WhatItIs_Components_Ty.md
-Model: none
-
+title: "Summary: Machine Learning Architecture: What It Is, Components & Types (2026-07-13)"
+type: "article-summary"
+source_url: "https://lakefs.io/blog/machine-learning-architecture/"
+tags: ["summary"]
 ---
+# Summary: Machine Learning Architecture: What It Is, Components & Types (2026-07-13)
 
-ERROR: all endpoints returned no content
+**Source**: [Original Article](https://lakefs.io/blog/machine-learning-architecture/)
 
-ERROR: all endpoints returned no content
+## Summary
+
+Summary unavailable — please regenerate from the original source.

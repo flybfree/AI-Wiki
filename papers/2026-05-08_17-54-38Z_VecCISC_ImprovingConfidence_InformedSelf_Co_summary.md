@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-08_17-54-38Z_VecCISC_ImprovingConfidence_InformedSelf_Consisten.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.08070v1)
 Saved: 2026-05-10 22:53
 Source: 2026-05-08_17-54-38Z_VecCISC_ImprovingConfidence_InformedSelf_Consisten.md
 Model: None

@@ -3,7 +3,7 @@ title: "Summary: Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Sca
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---
-# Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling
+# Summary: Long-Context Aware Upcycling: A New Frontier for Hybrid LLM Scaling
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.24715v1)

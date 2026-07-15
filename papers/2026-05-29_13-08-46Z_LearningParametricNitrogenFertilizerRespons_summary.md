@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-29_13-08-46Z_LearningParametricNitrogenFertilizerResponseCurves.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.31276v1)
 Saved: 2026-05-31 21:00
 Source: 2026-05-29_13-08-46Z_LearningParametricNitrogenFertilizerResponseCurves.md
 Model: None

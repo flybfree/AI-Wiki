@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-20_17-56-09Z_IsFixingSchemaGraphsNecessary_Full_ResolutionGraph.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.21475v1)
 Saved: 2026-05-20 23:01
 Source: 2026-05-20_17-56-09Z_IsFixingSchemaGraphsNecessary_Full_ResolutionGraph.md
 Model: None

@@ -209,6 +209,16 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-14_15-30-37Z_EvaluatingLargeLanguageModelsonMisconceptionsinMul.md]] : Evaluating Large Language Models on Misconceptions in Multi-Turn Medical Conversations
+- [[2026-07-14_15-43-41Z_Real_timefalldetectionbasedonvisionforlow_poweredg.md]] : Real-time fall detection based on vision for low-power edge platforms
+- [[2026-07-14_15-51-41Z_Contrastive_CollapsedLossforFlexibleandGeometrical.md]] : Contrastive-Collapsed Loss for Flexible and Geometrically Optimal Embeddings and Faster Convergence
+- [[2026-07-14_15-31-33Z_LLMJudgesCanBeTooGenerousWhenThereIsNoReferenceAns.md]] : LLM Judges Can Be Too Generous When There Is No Reference Answer
+- [[2026-07-14_15-33-44Z_MemOps_BenchmarkingLifecycleMemoryOperationsinLong.md]] : MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations
+- [[2026-07-14_15-32-07Z_AMulti_AgentSystemforAutonomous_Fine_Tuning_FreeCl.md]] : A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study
+- [[2026-07-14_15-38-04Z_AcceleratedMixingTimeofRandomizedHamiltonianMonteC.md]] : Accelerated Mixing Time of Randomized Hamiltonian Monte Carlo
+- [[2026-07-14_15-20-16Z_Deep4ge_DNNTrainingTrajectoriesforFaultDetectionan.md]] : Deep4ge: DNN Training Trajectories for Fault Detection and Diagnosis
+- [[2026-07-14_15-33-33Z_UR_VC_UnsupervisedRoboticValueCorrectionforTime_De.md]] : UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies
+- [[2026-07-14_15-32-54Z_Energy_BasedPhysics_InformedFormFindingforClustere.md]] : Energy-Based Physics-Informed Form Finding for Clustered Tensegrity Structures
 - [[2026-07-13_17-49-10Z_Evidence_BackedVideoQuestionAnswering.md]] : Evidence-Backed Video Question Answering
 - [[2026-07-13_17-55-19Z_InsidetheUnfairJudge_AMechanisticInterpretabilityA.md]] : Inside the Unfair Judge: A Mechanistic Interpretability Account of LLM-as-Judge Bias
 - [[2026-07-13_17-56-08Z_AMinimalistRetargeting_GuidedReinforcementLearning.md]] : A Minimalist Retargeting-Guided Reinforcement Learning Recipe for Dexterous Manipulation

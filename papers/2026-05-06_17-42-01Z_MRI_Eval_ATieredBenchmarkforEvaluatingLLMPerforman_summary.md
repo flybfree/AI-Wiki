@@ -3,7 +3,7 @@ title: "Summary: MRI-Eval: A Tiered Benchmark for Evaluating LLM Performance on 
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---
-# MRI-Eval: A Tiered Benchmark for Evaluating LLM Performance on MRI Physics and GE Scanner Operations Knowledge
+# Summary: MRI-Eval: A Tiered Benchmark for Evaluating LLM Performance on MRI Physics and GE Scanner Operations Knowledge
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2605.05175v1)

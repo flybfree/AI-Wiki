@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-29_13-19-02Z_SAMforRobustMitochondriaInstanceSegmentationinFluo.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.31284v1)
 Saved: 2026-05-31 21:01
 Source: 2026-05-29_13-19-02Z_SAMforRobustMitochondriaInstanceSegmentationinFluo.md
 Model: None

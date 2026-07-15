@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-01_17-54-00Z_PermissiveSafetyThroughTrustedInference_Verifiable.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.02562v1)
 Saved: 2026-06-01 23:01
 Source: 2026-06-01_17-54-00Z_PermissiveSafetyThroughTrustedInference_Verifiable.md
 Model: None

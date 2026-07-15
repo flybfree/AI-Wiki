@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-22_17-58-28Z_ETCHR_EditingToClarifyandHarnessReasoning.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.23897v1)
 Saved: 2026-05-25 00:00
 Source: 2026-05-22_17-58-28Z_ETCHR_EditingToClarifyandHarnessReasoning.md
 Model: None

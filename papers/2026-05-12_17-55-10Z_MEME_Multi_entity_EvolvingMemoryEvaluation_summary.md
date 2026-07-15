@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-12_17-55-10Z_MEME_Multi_entity_EvolvingMemoryEvaluation.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.12477v1)
 Saved: 2026-05-12 23:00
 Source: 2026-05-12_17-55-10Z_MEME_Multi_entity_EvolvingMemoryEvaluation.md
 Model: None

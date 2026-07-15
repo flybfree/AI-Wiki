@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-05_17-57-19Z_Safetyandaccuracyfollowdifferentscalinglawsinclini.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.04039v1)
 Saved: 2026-05-07 23:04
 Source: 2026-05-05_17-57-19Z_Safetyandaccuracyfollowdifferentscalinglawsinclini.md
 Model: None

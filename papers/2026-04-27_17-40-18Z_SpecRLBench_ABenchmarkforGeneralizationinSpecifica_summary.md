@@ -3,7 +3,7 @@ title: "Summary: SpecRLBench: A Benchmark for Generalization in Specification-Gu
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---
-# SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning
+# Summary: SpecRLBench: A Benchmark for Generalization in Specification-Guided Reinforcement Learning
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.24729v1)

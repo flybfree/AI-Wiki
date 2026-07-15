@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-04_17-59-55Z_TailLoR_ProtectingPrincipalComponentsinParameter_E.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.06494v1)
 Saved: 2026-06-05 02:02
 Source: 2026-06-04_17-59-55Z_TailLoR_ProtectingPrincipalComponentsinParameter_E.md
 Model: None

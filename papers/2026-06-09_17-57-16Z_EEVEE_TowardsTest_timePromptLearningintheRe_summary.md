@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-09_17-57-16Z_EEVEE_TowardsTest_timePromptLearningintheRealWorld.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.11182v1)
 Saved: 2026-06-09 22:01
 Source: 2026-06-09_17-57-16Z_EEVEE_TowardsTest_timePromptLearningintheRealWorld.md
 Model: None

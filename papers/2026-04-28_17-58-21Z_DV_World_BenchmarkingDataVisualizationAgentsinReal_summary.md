@@ -3,7 +3,7 @@ title: "Summary: DV-World: Benchmarking Data Visualization Agents in Real-World 
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---
-# DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios
+# Summary: DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.25914v1)

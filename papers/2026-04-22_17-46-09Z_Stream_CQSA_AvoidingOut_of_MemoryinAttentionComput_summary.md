@@ -3,7 +3,7 @@ title: "Summary: Stream-CQSA: Avoiding Out-of-Memory in Attention Computation vi
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---
-# Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling
+# Summary: Stream-CQSA: Avoiding Out-of-Memory in Attention Computation via Flexible Workload Scheduling
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.20819v1)

@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-20_13-26-05Z_AutomatedICDClassificationofPsychiatricDiagnoses_F.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.21154v1)
 Saved: 2026-05-20 21:04
 Source: 2026-05-20_13-26-05Z_AutomatedICDClassificationofPsychiatricDiagnoses_F.md
 Model: None

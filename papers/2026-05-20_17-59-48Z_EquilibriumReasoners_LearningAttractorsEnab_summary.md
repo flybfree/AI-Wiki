@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-20_17-59-48Z_EquilibriumReasoners_LearningAttractorsEnablesScal.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.21488v1)
 Saved: 2026-05-20 23:03
 Source: 2026-05-20_17-59-48Z_EquilibriumReasoners_LearningAttractorsEnablesScal.md
 Model: None

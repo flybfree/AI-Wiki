@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-12_17-59-26Z_ElasticAttentionCoresforScalableVisionTransformers.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.12491v1)
 Saved: 2026-05-12 23:03
 Source: 2026-05-12_17-59-26Z_ElasticAttentionCoresforScalableVisionTransformers.md
 Model: None

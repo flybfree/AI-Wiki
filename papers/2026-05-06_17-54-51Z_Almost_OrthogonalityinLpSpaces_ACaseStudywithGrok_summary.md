@@ -3,7 +3,7 @@ title: "Summary: Almost-Orthogonality in Lp Spaces: A Case Study with Grok"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---
-# Almost-Orthogonality in Lp Spaces: A Case Study with Grok
+# Summary: Almost-Orthogonality in Lp Spaces: A Case Study with Grok
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2605.05192v1)

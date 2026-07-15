@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-27_17-56-04Z_OmniVerifier_M1_MultimodalMeta_VerifierwithExplici.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.28805v1)
 Saved: 2026-05-27 23:00
 Source: 2026-05-27_17-56-04Z_OmniVerifier_M1_MultimodalMeta_VerifierwithExplici.md
 Model: None

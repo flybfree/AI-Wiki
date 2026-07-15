@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-19_17-54-15Z_Long_termPowerGridPlanningviaAnswerSetProgramming.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.20172v1)
 Saved: 2026-05-19 22:02
 Source: 2026-05-19_17-54-15Z_Long_termPowerGridPlanningviaAnswerSetProgramming.md
 Model: None

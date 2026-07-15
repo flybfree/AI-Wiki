@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-13_11-20-52Z_BuildingInteractiveReal_TimeAgentswithAsynchronous.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.13360v1)
 Saved: 2026-05-13 21:01
 Source: 2026-05-13_11-20-52Z_BuildingInteractiveReal_TimeAgentswithAsynchronous.md
 Model: None

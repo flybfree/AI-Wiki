@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-04_17-58-01Z_DNQ_DeepNashQ_NetworkforPartiallyObservablen_Playe.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.06480v1)
 Saved: 2026-06-05 02:02
 Source: 2026-06-04_17-58-01Z_DNQ_DeepNashQ_NetworkforPartiallyObservablen_Playe.md
 Model: None

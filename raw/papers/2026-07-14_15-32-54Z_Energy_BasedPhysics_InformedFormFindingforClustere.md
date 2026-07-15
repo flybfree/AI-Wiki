@@ -1,0 +1,18 @@
+---
+title: Energy-Based Physics-Informed Form Finding for Clustered Tensegrity Structures
+published: 2026-07-14T15:32:54Z
+authors: Jing Qin, Muhao Chen
+url: http://arxiv.org/abs/2607.12888v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Energy-Based Physics-Informed Form Finding for Clustered Tensegrity Structures
+
+## Abstract
+Tensegrity form-finding and physical property prediction are fundamental inverse problems in structural mechanics, which aim to determine equilibrium configurations and internal force distributions. These problems are challenging due to strong nonlinearity arising from the coupling between geometry and forces, the need to ensure structural stability, and the enforcement of constraints such as boundary conditions and symmetry. Moreover, traditional methods often lack robustness to noise and outliers. This paper proposes an energy-based learning framework for clustered tensegrity form finding and physical property prediction. The proposed approach incorporates total potential energy minimization and constitutive relations into the training objective, enabling the simultaneous prediction of equilibrium nodal configurations and associated physical quantities, including member forces and force densities. By incorporating energy-based physical losses directly into the learning process, the framework improves physical consistency, robustness, and data efficiency. Numerical experiments on tensegrity structures, including prism and lander systems, show the great potential of the proposed approach and demonstrate its capability for scalable form finding and accurate prediction of structural properties.
+
+## Metadata
+- **Published**: 2026-07-14T15:32:54Z
+- **Authors**: Jing Qin, Muhao Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.12888v1)

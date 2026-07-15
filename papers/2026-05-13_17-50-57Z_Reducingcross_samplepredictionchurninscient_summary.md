@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-13_17-50-57Z_Reducingcross_samplepredictionchurninscientificmac.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.13826v1)
 Saved: 2026-05-13 23:00
 Source: 2026-05-13_17-50-57Z_Reducingcross_samplepredictionchurninscientificmac.md
 Model: None

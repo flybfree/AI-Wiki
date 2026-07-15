@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-04-23_17-59-34Z_Fine_TuningRegimesDefineDistinctContinualLearningP.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2604.21927v1)
 Saved: 2026-04-29 02:49
 Source: 2026-04-23_17-59-34Z_Fine_TuningRegimesDefineDistinctContinualLearningP.md
 Model: qwen3.6:35b

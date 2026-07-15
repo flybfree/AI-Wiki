@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-04_17-56-27Z_Self_AugmentingRetrievalforDiffusionLanguageModels.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.06474v1)
 Saved: 2026-06-05 02:00
 Source: 2026-06-04_17-56-27Z_Self_AugmentingRetrievalforDiffusionLanguageModels.md
 Model: None

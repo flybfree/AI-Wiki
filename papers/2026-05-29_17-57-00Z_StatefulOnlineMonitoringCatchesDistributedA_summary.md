@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-29_17-57-00Z_StatefulOnlineMonitoringCatchesDistributedAgentAtt.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.31593v1)
 Saved: 2026-06-01 00:02
 Source: 2026-05-29_17-57-00Z_StatefulOnlineMonitoringCatchesDistributedAgentAtt.md
 Model: None

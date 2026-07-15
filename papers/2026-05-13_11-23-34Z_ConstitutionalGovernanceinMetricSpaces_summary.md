@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-13_11-23-34Z_ConstitutionalGovernanceinMetricSpaces.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.13362v1)
 Saved: 2026-05-13 21:01
 Source: 2026-05-13_11-23-34Z_ConstitutionalGovernanceinMetricSpaces.md
 Model: None

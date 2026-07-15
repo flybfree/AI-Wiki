@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-07_17-57-02Z_Optimizer_ModelConsistency_FullFinetuningwiththeSa.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.06654v1)
 Saved: 2026-05-07 23:12
 Source: 2026-05-07_17-57-02Z_Optimizer_ModelConsistency_FullFinetuningwiththeSa.md
 Model: None

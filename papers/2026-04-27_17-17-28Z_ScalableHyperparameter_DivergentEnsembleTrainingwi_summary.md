@@ -3,7 +3,7 @@ title: "Summary: Scalable Hyperparameter-Divergent Ensemble Training with Automa
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---
-# Scalable Hyperparameter-Divergent Ensemble Training with Automatic Learning Rate Exploration for Large Models
+# Summary: Scalable Hyperparameter-Divergent Ensemble Training with Automatic Learning Rate Exploration for Large Models
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.24708v1)

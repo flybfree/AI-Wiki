@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-06_16-31-20Z_ProximalProjectionforDoublySparseRegularizedModels.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05093v1)
 Saved: 2026-05-07 23:07
 Source: 2026-05-06_16-31-20Z_ProximalProjectionforDoublySparseRegularizedModels.md
 Model: None

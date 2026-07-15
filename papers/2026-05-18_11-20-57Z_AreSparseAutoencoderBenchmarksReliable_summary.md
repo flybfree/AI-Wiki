@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-18_11-20-57Z_AreSparseAutoencoderBenchmarksReliable.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.18229v1)
 Saved: 2026-05-18 22:05
 Source: 2026-05-18_11-20-57Z_AreSparseAutoencoderBenchmarksReliable.md
 Model: None

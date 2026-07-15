@@ -1,15 +1,14 @@
 ---
-title: "Summary: Artificialintelligencenews--Sciencedaily"
-date: 2026-07-08
-tags: [summary]---
-
-# Summary: Artificialintelligencenews--Sciencedaily
-Saved: 2026-07-08 00:04
-Source: 2026-07-08_ArtificialIntelligenceNews--ScienceDaily.md
-Model: none
-
+title: "Summary: Artificial Intelligence News -- ScienceDaily (2026-07-08)"
+date: "2026-07-08"
+type: "article-summary"
+source_url: "https://www.sciencedaily.com/news/computers_math/artificial_intelligence/"
+tags: ["summary", "news", "ai-research", "full-text"]
 ---
+# Summary: Artificial Intelligence News -- ScienceDaily (2026-07-08)
 
-ERROR: all endpoints returned no content
+**Source**: [Original Article](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
 
-ERROR: all endpoints returned no content
+## Summary
+
+Summary unavailable — please regenerate from the original source.

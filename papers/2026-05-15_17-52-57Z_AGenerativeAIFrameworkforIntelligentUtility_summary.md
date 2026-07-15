@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-15_17-52-57Z_AGenerativeAIFrameworkforIntelligentUtilityBilling.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.16250v1)
 Saved: 2026-05-18 03:03
 Source: 2026-05-15_17-52-57Z_AGenerativeAIFrameworkforIntelligentUtilityBilling.md
 Model: None

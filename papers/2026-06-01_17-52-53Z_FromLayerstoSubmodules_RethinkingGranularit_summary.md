@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-01_17-52-53Z_FromLayerstoSubmodules_RethinkingGranularityinRepl.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.02559v1)
 Saved: 2026-06-01 23:00
 Source: 2026-06-01_17-52-53Z_FromLayerstoSubmodules_RethinkingGranularityinRepl.md
 Model: None

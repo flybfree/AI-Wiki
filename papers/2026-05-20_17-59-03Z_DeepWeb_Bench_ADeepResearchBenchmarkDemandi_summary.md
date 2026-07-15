@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-20_17-59-03Z_DeepWeb_Bench_ADeepResearchBenchmarkDemandingMassi.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.21482v1)
 Saved: 2026-05-20 23:02
 Source: 2026-05-20_17-59-03Z_DeepWeb_Bench_ADeepResearchBenchmarkDemandingMassi.md
 Model: None

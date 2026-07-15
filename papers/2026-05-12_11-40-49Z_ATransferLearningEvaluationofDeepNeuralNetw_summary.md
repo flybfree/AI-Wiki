@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-12_11-40-49Z_ATransferLearningEvaluationofDeepNeuralNetworksfor.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.11989v1)
 Saved: 2026-05-12 21:04
 Source: 2026-05-12_11-40-49Z_ATransferLearningEvaluationofDeepNeuralNetworksfor.md
 Model: None

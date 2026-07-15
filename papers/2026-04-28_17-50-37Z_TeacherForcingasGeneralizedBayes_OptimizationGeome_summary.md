@@ -3,7 +3,7 @@ title: "Summary: Teacher Forcing as Generalized Bayes: Optimization Geometry Mis
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---
-# Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics
+# Summary: Teacher Forcing as Generalized Bayes: Optimization Geometry Mismatch in Switching Surrogates for Chaotic Dynamics
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.25904v1)

@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-05_17-45-39Z_HowAIAgentsReshapeKnowledgeWork_Autonomy_Efficienc.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.07489v1)
 Saved: 2026-06-07 22:00
 Source: 2026-06-05_17-45-39Z_HowAIAgentsReshapeKnowledgeWork_Autonomy_Efficienc.md
 Model: None

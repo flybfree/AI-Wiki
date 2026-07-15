@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-05_17-43-52Z_RedefiningAIRedTeamingintheAgenticEra_FromWeekstoH.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.04019v1)
 Saved: 2026-05-07 23:02
 Source: 2026-05-05_17-43-52Z_RedefiningAIRedTeamingintheAgenticEra_FromWeekstoH.md
 Model: None

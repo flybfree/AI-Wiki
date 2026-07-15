@@ -3,10 +3,10 @@ title: "Summary: The Optimal Sample Complexity of Multiclass and List Learning"
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---
-# The Optimal Sample Complexity of Multiclass and List Learning
+# Summary: The Optimal Sample Complexity of Multiclass and List Learning
 
 
-**Source**: [Original Paper](http://arxiv.org/abs/2604.24749v1)
+**Source**: [Original Paper](http://arxiv.org/abs/2604.21923v1)
 Saved: 2026-05-08 03:29
 Source: 2026-04-27_17-54-12Z_TheOptimalSampleComplexityofMulticlassandListLearn.md
 

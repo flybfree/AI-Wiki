@@ -3,7 +3,7 @@ title: "Summary: Toward a Functional Geometric Algebra for Natural Language Sema
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---
-# Toward a Functional Geometric Algebra for Natural Language Semantics
+# Summary: Toward a Functional Geometric Algebra for Natural Language Semantics
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.25902v1)

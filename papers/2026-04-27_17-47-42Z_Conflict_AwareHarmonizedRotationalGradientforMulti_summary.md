@@ -3,7 +3,7 @@ title: "Summary: Conflict-Aware Harmonized Rotational Gradient for Multiscale Ki
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---
-# Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes
+# Summary: Conflict-Aware Harmonized Rotational Gradient for Multiscale Kinetic Regimes
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.24745v1)

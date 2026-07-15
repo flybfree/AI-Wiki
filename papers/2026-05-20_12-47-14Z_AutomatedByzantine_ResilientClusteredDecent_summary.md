@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-20_12-47-14Z_AutomatedByzantine_ResilientClusteredDecentralized.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.21115v1)
 Saved: 2026-05-20 21:00
 Source: 2026-05-20_12-47-14Z_AutomatedByzantine_ResilientClusteredDecentralized.md
 Model: None

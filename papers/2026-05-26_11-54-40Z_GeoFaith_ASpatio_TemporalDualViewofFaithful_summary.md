@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-26_11-54-40Z_GeoFaith_ASpatio_TemporalDualViewofFaithfulChain_o.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.26893v1)
 Saved: 2026-05-26 20:00
 Source: 2026-05-26_11-54-40Z_GeoFaith_ASpatio_TemporalDualViewofFaithfulChain_o.md
 Model: None

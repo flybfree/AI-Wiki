@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-02_17-59-05Z_Humanoid_GPT_ScalingDataandStructureforZero_ShotMo.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.03985v1)
 Saved: 2026-06-02 23:01
 Source: 2026-06-02_17-59-05Z_Humanoid_GPT_ScalingDataandStructureforZero_ShotMo.md
 Model: None

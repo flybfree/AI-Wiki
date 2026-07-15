@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.09670v1)
 Saved: 2026-06-08 22:00
 Source: 2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md
 Model: None

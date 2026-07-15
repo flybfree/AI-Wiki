@@ -1,19 +1,18 @@
 ---
-title: "Summary: Whatdoesthefutureholdforgenerativeai  Mitnews Mass"
-date: 2026-06-18
-tags: ['wiki']---
-
-
-# Summary: Whatdoesthefutureholdforgenerativeai  Mitnews Mass
-
-
-**Source**: [Original Article](https://example.com/placeholder)
-Saved: 2026-06-18 01:03
-Source: 2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md
-Model: none
-
+title: "Summary: What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology (2026-06-18)"
+date: "2026-06-18"
+type: "article-summary"
+source_url: "https://news.mit.edu/2025/what-does-future-hold-generative-ai-0919"
+tags: ["summary", "news", "ai-research", "full-text"]
 ---
+# Summary: What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology (2026-06-18)
 
-ERROR: all endpoints returned no content
+**Source**: [Original Article](https://news.mit.edu/2025/what-does-future-hold-generative-ai-0919)
 
-ERROR: all endpoints returned no content
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+
+# What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology

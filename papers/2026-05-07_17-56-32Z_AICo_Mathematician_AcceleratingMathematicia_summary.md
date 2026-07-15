@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-07_17-56-32Z_AICo_Mathematician_AcceleratingMathematicianswithA.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.06651v1)
 Saved: 2026-05-07 23:11
 Source: 2026-05-07_17-56-32Z_AICo_Mathematician_AcceleratingMathematicianswithA.md
 Model: None

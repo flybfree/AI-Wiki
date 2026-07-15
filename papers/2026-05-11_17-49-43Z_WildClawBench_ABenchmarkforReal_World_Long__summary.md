@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-11_17-49-43Z_WildClawBench_ABenchmarkforReal_World_Long_Horizon.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.10912v1)
 Saved: 2026-05-12 03:00
 Source: 2026-05-11_17-49-43Z_WildClawBench_ABenchmarkforReal_World_Long_Horizon.md
 Model: None

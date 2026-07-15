@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-25_17-59-49Z_MobileGym_AVerifiableandHighlyParallelSimulationPl.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.26114v1)
 Saved: 2026-05-26 00:01
 Source: 2026-05-25_17-59-49Z_MobileGym_AVerifiableandHighlyParallelSimulationPl.md
 Model: None

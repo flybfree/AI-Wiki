@@ -3,7 +3,7 @@ title: "Summary: TSN-Affinity: Similarity-Driven Parameter Reuse for Continual O
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---
-# TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning
+# Summary: TSN-Affinity: Similarity-Driven Parameter Reuse for Continual Offline Reinforcement Learning
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.25898v1)

@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-26_12-28-08Z_ReasoningDepthandEnvironmentComplexity_AControlled.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.26934v1)
 Saved: 2026-05-26 20:00
 Source: 2026-05-26_12-28-08Z_ReasoningDepthandEnvironmentComplexity_AControlled.md
 Model: None

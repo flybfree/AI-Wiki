@@ -1,15 +1,14 @@
 ---
-title: "Summary: Aiupdatestoday July2026  Latestaimodelreleases"
-date: 2026-07-12
-tags: [summary]---
-
-# Summary: Aiupdatestoday July2026  Latestaimodelreleases
-Saved: 2026-07-12 01:07
-Source: 2026-07-12_AIUpdatesToday_July2026__LatestAIModelReleases.md
-Model: none
-
+title: "Summary: AI Updates Today (July 2026) – Latest AI Model Releases (2026-07-12)"
+date: "2026-07-12"
+type: "article-summary"
+source_url: "https://llm-stats.com/llm-updates"
+tags: ["summary", "news", "ai-research", "full-text"]
 ---
+# Summary: AI Updates Today (July 2026) – Latest AI Model Releases (2026-07-12)
 
-ERROR: all endpoints returned no content
+**Source**: [Original Article](https://llm-stats.com/llm-updates)
 
-ERROR: all endpoints returned no content
+## Summary
+
+Summary unavailable — please regenerate from the original source.

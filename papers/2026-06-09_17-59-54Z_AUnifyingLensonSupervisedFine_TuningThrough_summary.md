@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-09_17-59-54Z_AUnifyingLensonSupervisedFine_TuningThroughTargetD.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.11189v1)
 Saved: 2026-06-09 22:01
 Source: 2026-06-09_17-59-54Z_AUnifyingLensonSupervisedFine_TuningThroughTargetD.md
 Model: None

@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-21_17-59-26Z_VectorPolicyOptimization_TrainingforDiversityImpro.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.22817v1)
 Saved: 2026-05-22 00:13
 Source: 2026-05-21_17-59-26Z_VectorPolicyOptimization_TrainingforDiversityImpro.md
 Model: None

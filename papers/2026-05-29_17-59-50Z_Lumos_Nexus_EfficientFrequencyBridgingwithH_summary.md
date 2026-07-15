@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-29_17-59-50Z_Lumos_Nexus_EfficientFrequencyBridgingwithHomogene.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.31603v1)
 Saved: 2026-06-01 00:03
 Source: 2026-05-29_17-59-50Z_Lumos_Nexus_EfficientFrequencyBridgingwithHomogene.md
 Model: None

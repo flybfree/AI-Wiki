@@ -3,7 +3,7 @@ title: "Summary: Carbon-Taxed Transformers: A Green Compression Pipeline for Ove
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---
-# Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models
+# Summary: Carbon-Taxed Transformers: A Green Compression Pipeline for Overgrown Language Models
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.25903v1)

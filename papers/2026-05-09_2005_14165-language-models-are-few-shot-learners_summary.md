@@ -1,12 +1,12 @@
 ---
-title: "Summary: 2026-05-09_2005.14165-language-models-are-few-shot-learners.md"
+title: "Summary: Language Models Are Few-Shot Learners (GPT-3)"
 date: 2026-05-09
 tags: ['paper', 'research', 'ai']
 ---
-# Summary: 2026-05-09_2005.14165-language-models-are-few-shot-learners.md
+# Summary: Language Models Are Few-Shot Learners (GPT-3)
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](https://arxiv.org/abs/2005.14165)
 Saved: 2026-05-09 23:00
 Source: 2026-05-09_2005.14165-language-models-are-few-shot-learners.md
 Model: None

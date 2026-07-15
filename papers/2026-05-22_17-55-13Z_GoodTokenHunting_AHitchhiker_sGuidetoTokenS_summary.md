@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-22_17-55-13Z_GoodTokenHunting_AHitchhiker_sGuidetoTokenSelectio.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.23892v1)
 Saved: 2026-05-25 00:00
 Source: 2026-05-22_17-55-13Z_GoodTokenHunting_AHitchhiker_sGuidetoTokenSelectio.md
 Model: None

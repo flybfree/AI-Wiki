@@ -3,7 +3,7 @@ title: "Summary: Case-Specific Rubrics for Clinical AI Evaluation: Methodology, 
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---
-# Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters
+# Summary: Case-Specific Rubrics for Clinical AI Evaluation: Methodology, Validation, and LLM-Clinician Agreement Across 823 Encounters
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.24710v1)

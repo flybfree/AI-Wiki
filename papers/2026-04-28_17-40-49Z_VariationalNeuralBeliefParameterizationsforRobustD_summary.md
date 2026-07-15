@@ -3,7 +3,7 @@ title: "Summary: Variational Neural Belief Parameterizations for Robust Dexterou
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---
-# Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty
+# Summary: Variational Neural Belief Parameterizations for Robust Dexterous Grasping under Multimodal Uncertainty
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.25897v1)

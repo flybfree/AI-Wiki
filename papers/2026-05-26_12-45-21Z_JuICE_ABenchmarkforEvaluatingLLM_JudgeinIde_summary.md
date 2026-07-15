@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-26_12-45-21Z_JuICE_ABenchmarkforEvaluatingLLM_JudgeinIdentifyin.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.26955v1)
 Saved: 2026-05-26 20:01
 Source: 2026-05-26_12-45-21Z_JuICE_ABenchmarkforEvaluatingLLM_JudgeinIdentifyin.md
 Model: None

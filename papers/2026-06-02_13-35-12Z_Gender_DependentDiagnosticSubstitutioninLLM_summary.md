@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-02_13-35-12Z_Gender_DependentDiagnosticSubstitutioninLLMMedical.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.03641v1)
 Saved: 2026-06-02 21:00
 Source: 2026-06-02_13-35-12Z_Gender_DependentDiagnosticSubstitutioninLLMMedical.md
 Model: None

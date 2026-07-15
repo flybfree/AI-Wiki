@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-06_16-18-47Z_ThePinocchioDimension_PhenomenalityofExperienceast.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05080v1)
 Saved: 2026-05-07 23:04
 Source: 2026-05-06_16-18-47Z_ThePinocchioDimension_PhenomenalityofExperienceast.md
 Model: None

@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-08_17-57-40Z_Weighteduniversalapproximationofdifferentiablemaps.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.09820v1)
 Saved: 2026-06-09 00:00
 Source: 2026-06-08_17-57-40Z_Weighteduniversalapproximationofdifferentiablemaps.md
 Model: None

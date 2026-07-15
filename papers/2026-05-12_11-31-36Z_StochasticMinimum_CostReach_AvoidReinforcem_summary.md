@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-12_11-31-36Z_StochasticMinimum_CostReach_AvoidReinforcementLear.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.11975v1)
 Saved: 2026-05-12 21:02
 Source: 2026-05-12_11-31-36Z_StochasticMinimum_CostReach_AvoidReinforcementLear.md
 Model: None

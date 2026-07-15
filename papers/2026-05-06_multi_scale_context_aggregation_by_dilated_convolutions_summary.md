@@ -3,7 +3,7 @@ title: "Summary: Multi-Scale Context Aggregation by Dilated Convolutions"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---
-# Multi-Scale Context Aggregation by Dilated Convolutions
+# Summary: Multi-Scale Context Aggregation by Dilated Convolutions
 
 
 **Source**: [Original Paper](https://arxiv.org/abs/1511.07122)

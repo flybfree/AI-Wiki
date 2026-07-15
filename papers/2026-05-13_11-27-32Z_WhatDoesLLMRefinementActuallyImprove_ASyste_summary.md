@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-13_11-27-32Z_WhatDoesLLMRefinementActuallyImprove_ASystematicSt.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.13368v1)
 Saved: 2026-05-13 21:02
 Source: 2026-05-13_11-27-32Z_WhatDoesLLMRefinementActuallyImprove_ASystematicSt.md
 Model: None

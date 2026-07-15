@@ -3,7 +3,7 @@ title: "Summary: Three Models of RLHF Annotation: Extension, Evidence, and Autho
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---
-# Three Models of RLHF Annotation: Extension, Evidence, and Authority
+# Summary: Three Models of RLHF Annotation: Extension, Evidence, and Authority
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.25895v1)

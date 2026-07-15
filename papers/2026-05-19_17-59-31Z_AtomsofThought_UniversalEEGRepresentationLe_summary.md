@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-19_17-59-31Z_AtomsofThought_UniversalEEGRepresentationLearningw.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.20182v1)
 Saved: 2026-05-19 22:05
 Source: 2026-05-19_17-59-31Z_AtomsofThought_UniversalEEGRepresentationLearningw.md
 Model: None

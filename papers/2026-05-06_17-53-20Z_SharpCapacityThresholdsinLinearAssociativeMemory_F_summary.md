@@ -3,7 +3,7 @@ title: "Summary: Sharp Capacity Thresholds in Linear Associative Memory: From Wi
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---
-# Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval
+# Summary: Sharp Capacity Thresholds in Linear Associative Memory: From Winner-Take-All to Listwise Retrieval
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2605.05189v1)

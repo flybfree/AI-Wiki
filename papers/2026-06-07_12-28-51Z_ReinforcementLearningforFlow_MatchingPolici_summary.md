@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-07_12-28-51Z_ReinforcementLearningforFlow_MatchingPolicieswithD.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.08602v1)
 Saved: 2026-06-08 21:02
 Source: 2026-06-07_12-28-51Z_ReinforcementLearningforFlow_MatchingPolicieswithD.md
 Model: None

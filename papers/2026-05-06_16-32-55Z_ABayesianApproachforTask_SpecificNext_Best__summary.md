@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-06_16-32-55Z_ABayesianApproachforTask_SpecificNext_Best_ViewSel.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05095v1)
 Saved: 2026-05-07 23:07
 Source: 2026-05-06_16-32-55Z_ABayesianApproachforTask_SpecificNext_Best_ViewSel.md
 Model: None

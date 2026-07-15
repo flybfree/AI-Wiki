@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.13366v1)
 Saved: 2026-05-13 21:02
 Source: 2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md
 Model: None

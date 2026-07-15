@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-21_17-59-47Z_IntegrableElasticityviaNeuralDemandPotentials.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.22820v1)
 Saved: 2026-05-22 00:15
 Source: 2026-05-21_17-59-47Z_IntegrableElasticityviaNeuralDemandPotentials.md
 Model: None

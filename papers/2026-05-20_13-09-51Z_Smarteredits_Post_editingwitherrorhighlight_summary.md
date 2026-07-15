@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-20_13-09-51Z_Smarteredits_Post_editingwitherrorhighlightsandtra.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.21135v1)
 Saved: 2026-05-20 21:02
 Source: 2026-05-20_13-09-51Z_Smarteredits_Post_editingwitherrorhighlightsandtra.md
 Model: None

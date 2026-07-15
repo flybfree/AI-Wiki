@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-26_17-59-12Z_LocateAnything_FastandHigh_QualityVision_LanguageG.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.27365v1)
 Saved: 2026-05-26 22:01
 Source: 2026-05-26_17-59-12Z_LocateAnything_FastandHigh_QualityVision_LanguageG.md
 Model: None

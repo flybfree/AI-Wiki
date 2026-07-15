@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-29_17-44-15Z_SPECTRA_SyntheticIRTestCollectionswithRelevanceOra.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.31575v1)
 Saved: 2026-06-01 00:00
 Source: 2026-05-29_17-44-15Z_SPECTRA_SyntheticIRTestCollectionswithRelevanceOra.md
 Model: None

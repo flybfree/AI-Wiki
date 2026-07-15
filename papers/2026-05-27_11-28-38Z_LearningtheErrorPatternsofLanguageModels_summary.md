@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-27_11-28-38Z_LearningtheErrorPatternsofLanguageModels.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.28328v1)
 Saved: 2026-05-27 21:00
 Source: 2026-05-27_11-28-38Z_LearningtheErrorPatternsofLanguageModels.md
 Model: None

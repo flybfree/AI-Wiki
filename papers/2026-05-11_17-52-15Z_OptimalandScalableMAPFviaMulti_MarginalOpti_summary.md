@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-11_17-52-15Z_OptimalandScalableMAPFviaMulti_MarginalOptimalTran.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.10917v1)
 Saved: 2026-05-12 03:00
 Source: 2026-05-11_17-52-15Z_OptimalandScalableMAPFviaMulti_MarginalOptimalTran.md
 Model: None

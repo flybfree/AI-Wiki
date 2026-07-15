@@ -3,7 +3,7 @@ title: "Summary: LongSeeker: Elastic Context Orchestration for Long-Horizon Sear
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---
-# LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents
+# Summary: LongSeeker: Elastic Context Orchestration for Long-Horizon Search Agents
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2605.05191v1)

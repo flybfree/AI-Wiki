@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-27_17-55-01Z_Ω_QVLA_RobustQuantizationforVision_Language_Action.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.28803v1)
 Saved: 2026-05-27 23:00
 Source: 2026-05-27_17-55-01Z_Ω_QVLA_RobustQuantizationforVision_Language_Action.md
 Model: None

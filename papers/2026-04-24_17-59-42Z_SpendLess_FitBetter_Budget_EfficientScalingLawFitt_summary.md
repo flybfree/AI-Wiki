@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md
 
 
-**Source**: [Original Paper](https://github.com/PlanarG/active-sl.)
+**Source**: [Original Paper](http://arxiv.org/abs/2604.22753v1)
 Saved: 2026-05-07 22:29
 Source: 2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md
 Model: None
@@ -25,7 +25,7 @@ Scaling laws are used to plan multi-million-dollar training runs, but fitting th
 Scaling laws are used to plan multi-million-dollar training runs, but fitting those laws can itself cost millions.
 
 ## Implications
-Our code is available at https://github.com/PlanarG/active-sl.
+Our code is available at https://github.com/PlanarG/active-sl
 
 ## Original Reference
 - Title: Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection

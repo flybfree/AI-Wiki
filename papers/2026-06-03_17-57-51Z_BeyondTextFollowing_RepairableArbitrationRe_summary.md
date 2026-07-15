@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-03_17-57-51Z_BeyondTextFollowing_RepairableArbitrationReversals.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.05161v1)
 Saved: 2026-06-04 00:01
 Source: 2026-06-03_17-57-51Z_BeyondTextFollowing_RepairableArbitrationReversals.md
 Model: None

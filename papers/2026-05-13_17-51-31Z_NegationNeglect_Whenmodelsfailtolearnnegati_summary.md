@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-13_17-51-31Z_NegationNeglect_Whenmodelsfailtolearnnegationsintr.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.13829v1)
 Saved: 2026-05-13 23:01
 Source: 2026-05-13_17-51-31Z_NegationNeglect_Whenmodelsfailtolearnnegationsintr.md
 Model: None

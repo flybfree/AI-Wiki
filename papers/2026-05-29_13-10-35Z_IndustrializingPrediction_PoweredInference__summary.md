@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-29_13-10-35Z_IndustrializingPrediction_PoweredInference_TheGLID.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.31278v1)
 Saved: 2026-05-31 21:00
 Source: 2026-05-29_13-10-35Z_IndustrializingPrediction_PoweredInference_TheGLID.md
 Model: None

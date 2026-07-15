@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-04_17-59-40Z_TempoVLA_LearningSpeed_ControllableVision_Language.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.06491v1)
 Saved: 2026-06-05 02:02
 Source: 2026-06-04_17-59-40Z_TempoVLA_LearningSpeed_ControllableVision_Language.md
 Model: None

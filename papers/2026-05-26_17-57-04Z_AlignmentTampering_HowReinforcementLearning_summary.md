@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-26_17-57-04Z_AlignmentTampering_HowReinforcementLearningfromHum.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.27355v1)
 Saved: 2026-05-26 22:00
 Source: 2026-05-26_17-57-04Z_AlignmentTampering_HowReinforcementLearningfromHum.md
 Model: None

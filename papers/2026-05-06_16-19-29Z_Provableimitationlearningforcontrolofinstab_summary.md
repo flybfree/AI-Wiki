@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-06_16-19-29Z_Provableimitationlearningforcontrolofinstabilityin.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05081v1)
 Saved: 2026-05-07 23:06
 Source: 2026-05-06_16-19-29Z_Provableimitationlearningforcontrolofinstabilityin.md
 Model: None

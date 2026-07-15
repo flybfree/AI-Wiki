@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-21_17-42-12Z_LCGuard_LatentCommunicationGuardforSafeKVSharingin.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.22786v1)
 Saved: 2026-05-22 00:04
 Source: 2026-05-21_17-42-12Z_LCGuard_LatentCommunicationGuardforSafeKVSharingin.md
 Model: None

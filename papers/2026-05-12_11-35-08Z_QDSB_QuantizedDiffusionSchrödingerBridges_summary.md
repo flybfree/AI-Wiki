@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-12_11-35-08Z_QDSB_QuantizedDiffusionSchrödingerBridges.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.11983v1)
 Saved: 2026-05-12 21:03
 Source: 2026-05-12_11-35-08Z_QDSB_QuantizedDiffusionSchrödingerBridges.md
 Model: None

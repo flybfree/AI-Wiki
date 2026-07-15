@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-14_17-59-28Z_FutureSim_ReplayingWorldEventstoEvaluateAdaptiveAg.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.15188v1)
 Saved: 2026-05-15 00:04
 Source: 2026-05-14_17-59-28Z_FutureSim_ReplayingWorldEventstoEvaluateAdaptiveAg.md
 Model: None

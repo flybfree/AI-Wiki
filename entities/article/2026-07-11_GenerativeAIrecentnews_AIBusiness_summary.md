@@ -1,15 +1,14 @@
 ---
-title: "Summary: Generativeairecentnews Aibusiness"
-date: 2026-07-11
-tags: [summary]---
-
-# Summary: Generativeairecentnews Aibusiness
-Saved: 2026-07-11 00:46
-Source: 2026-07-11_GenerativeAIrecentnews_AIBusiness.md
-Model: none
-
+title: "Summary: Generative AI recent news | AI Business (2026-07-11)"
+date: "2026-07-11"
+type: "article-summary"
+source_url: "https://aibusiness.com/generative-ai"
+tags: ["summary", "news", "ai-research", "full-text"]
 ---
+# Summary: Generative AI recent news | AI Business (2026-07-11)
 
-ERROR: all endpoints returned no content
+**Source**: [Original Article](https://aibusiness.com/generative-ai)
 
-ERROR: all endpoints returned no content
+## Summary
+
+Summary unavailable — please regenerate from the original source.

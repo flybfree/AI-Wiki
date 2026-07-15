@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-04_17-58-05Z_Operation_GuidedProgressiveHuman_to_AITextTransfor.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.06481v1)
 Saved: 2026-06-05 02:02
 Source: 2026-06-04_17-58-05Z_Operation_GuidedProgressiveHuman_to_AITextTransfor.md
 Model: None

@@ -1,11 +1,14 @@
-title: "Summary: 2026-07-14_NineBreakthroughsMadePossiblebyAI.md"
-# Summary: 2026-07-14_NineBreakthroughsMadePossiblebyAI.md
-Saved: 2026-07-14 01:02
-Source: 2026-07-14_NineBreakthroughsMadePossiblebyAI.md
-Model: none
-
 ---
+title: "Summary: Nine Breakthroughs Made Possible by AI (2026-07-14)"
+date: "2026-07-14"
+type: "article-summary"
+source_url: "https://today.ucsd.edu/story/nine-breakthroughs-made-possible-by-ai"
+tags: ["summary", "news", "ai-research", "full-text"]
+---
+# Summary: Nine Breakthroughs Made Possible by AI (2026-07-14)
 
-ERROR: all endpoints returned no content
+**Source**: [Original Article](https://today.ucsd.edu/story/nine-breakthroughs-made-possible-by-ai)
 
-ERROR: all endpoints returned no content
+## Summary
+
+Summary unavailable — please regenerate from the original source.

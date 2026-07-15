@@ -3,7 +3,7 @@ title: "Summary: When Life Gives You BC, Make Q-functions: Extracting Q-values f
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---
-# When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning
+# Summary: When Life Gives You BC, Make Q-functions: Extracting Q-values from Behavior Cloning for On-Robot Reinforcement Learning
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2605.05172v1)

@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-14_14-06-51Z_ANon_MonotonePreconditionedTrust_RegionMethodforNe.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.14860v1)
 Saved: 2026-05-14 21:05
 Source: 2026-05-14_14-06-51Z_ANon_MonotonePreconditionedTrust_RegionMethodforNe.md
 Model: None

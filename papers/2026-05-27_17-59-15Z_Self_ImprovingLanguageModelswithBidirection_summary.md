@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-27_17-59-15Z_Self_ImprovingLanguageModelswithBidirectionalEvolu.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.28814v1)
 Saved: 2026-05-27 23:00
 Source: 2026-05-27_17-59-15Z_Self_ImprovingLanguageModelswithBidirectionalEvolu.md
 Model: None

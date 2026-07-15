@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-11_17-58-28Z_DECO_SparseMixture_of_ExpertswithDense_ComparableP.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.10933v1)
 Saved: 2026-05-12 03:01
 Source: 2026-05-11_17-58-28Z_DECO_SparseMixture_of_ExpertswithDense_ComparableP.md
 Model: None

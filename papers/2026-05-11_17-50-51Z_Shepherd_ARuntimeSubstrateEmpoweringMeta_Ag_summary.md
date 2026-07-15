@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-11_17-50-51Z_Shepherd_ARuntimeSubstrateEmpoweringMeta_Agentswit.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.10913v1)
 Saved: 2026-05-12 03:00
 Source: 2026-05-11_17-50-51Z_Shepherd_ARuntimeSubstrateEmpoweringMeta_Agentswit.md
 Model: None

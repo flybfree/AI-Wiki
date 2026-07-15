@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-08_15-57-14Z_Auto_formalizationissupposedtobeeasy_Trellisproces.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.09674v1)
 Saved: 2026-06-08 22:02
 Source: 2026-06-08_15-57-14Z_Auto_formalizationissupposedtobeeasy_Trellisproces.md
 Model: None

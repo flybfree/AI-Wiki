@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-12_17-56-59Z_OmniNFT_Modality_wiseOmniDiffusionReinforcementfor.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.12480v1)
 Saved: 2026-05-12 23:01
 Source: 2026-05-12_17-56-59Z_OmniNFT_Modality_wiseOmniDiffusionReinforcementfor.md
 Model: None

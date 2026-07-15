@@ -3,7 +3,7 @@ title: "Summary: FedSIR: Spectral Client Identification and Relabeling for Feder
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---
-# FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels
+# Summary: FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.20825v1)

@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-06_16-20-24Z_OrderMatters_ImprovingDomainAdaptationbyReordering.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05084v1)
 Saved: 2026-05-07 23:06
 Source: 2026-05-06_16-20-24Z_OrderMatters_ImprovingDomainAdaptationbyReordering.md
 Model: None

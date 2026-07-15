@@ -1,15 +1,14 @@
 ---
-title: "Summary: Deeplearningarchitectures"
-date: 2026-07-08
-tags: [summary]---
-
-# Summary: Deeplearningarchitectures
-Saved: 2026-07-08 00:13
-Source: 2026-07-08_Deeplearningarchitectures.md
-Model: none
-
+title: "Summary: Deep learning architectures (2026-07-08)"
+date: "2026-07-08"
+type: "article-summary"
+source_url: "https://developer.ibm.com/articles/cc-machine-learning-deep-learning-architectures/"
+tags: ["summary", "news", "ai-research", "full-text"]
 ---
+# Summary: Deep learning architectures (2026-07-08)
 
-ERROR: all endpoints returned no content
+**Source**: [Original Article](https://developer.ibm.com/articles/cc-machine-learning-deep-learning-architectures/)
 
-ERROR: all endpoints returned no content
+## Summary
+
+Summary unavailable — please regenerate from the original source.

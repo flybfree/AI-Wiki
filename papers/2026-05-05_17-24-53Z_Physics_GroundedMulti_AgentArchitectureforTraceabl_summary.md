@@ -3,7 +3,7 @@ title: "Summary: Physics-Grounded Multi-Agent Architecture for Traceable, Risk-A
 date: 2026-05-05
 tags: ['paper', 'research', 'ai']
 ---
-# Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing
+# Summary: Physics-Grounded Multi-Agent Architecture for Traceable, Risk-Aware Human-AI Decision Support in Manufacturing
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2605.04003v1)

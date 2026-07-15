@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-05_17-51-11Z_AcceleratedDecentralizedStochasticGradientDescentf.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.07496v1)
 Saved: 2026-06-07 22:00
 Source: 2026-06-05_17-51-11Z_AcceleratedDecentralizedStochasticGradientDescentf.md
 Model: None

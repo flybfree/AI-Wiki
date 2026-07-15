@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-21_17-49-09Z_Finite_ParticleConvergenceRatesforConservativeandN.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.22795v1)
 Saved: 2026-05-22 00:09
 Source: 2026-05-21_17-49-09Z_Finite_ParticleConvergenceRatesforConservativeandN.md
 Model: None

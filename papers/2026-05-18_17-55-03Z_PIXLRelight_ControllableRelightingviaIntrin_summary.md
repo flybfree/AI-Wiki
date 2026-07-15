@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-18_17-55-03Z_PIXLRelight_ControllableRelightingviaIntrinsicCond.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.18735v1)
 Saved: 2026-05-19 01:01
 Source: 2026-05-18_17-55-03Z_PIXLRelight_ControllableRelightingviaIntrinsicCond.md
 Model: None

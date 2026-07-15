@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-08_17-55-02Z_EvaluationCards_AnInterpretiveLayerforAIEvaluation.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.09809v1)
 Saved: 2026-06-09 00:00
 Source: 2026-06-08_17-55-02Z_EvaluationCards_AnInterpretiveLayerforAIEvaluation.md
 Model: None

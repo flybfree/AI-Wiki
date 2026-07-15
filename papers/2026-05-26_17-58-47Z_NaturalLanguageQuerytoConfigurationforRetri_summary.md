@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-26_17-58-47Z_NaturalLanguageQuerytoConfigurationforRetrievalAge.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.27361v1)
 Saved: 2026-05-26 22:01
 Source: 2026-05-26_17-58-47Z_NaturalLanguageQuerytoConfigurationforRetrievalAge.md
 Model: None

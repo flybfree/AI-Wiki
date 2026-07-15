@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-08_13-03-41Z_DependenceonEarlyandLateReverberationofSingle_Chan.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.07694v1)
 Saved: 2026-05-10 21:00
 Source: 2026-05-08_13-03-41Z_DependenceonEarlyandLateReverberationofSingle_Chan.md
 Model: None

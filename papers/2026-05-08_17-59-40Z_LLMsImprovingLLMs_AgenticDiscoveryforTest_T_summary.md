@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-08_17-59-40Z_LLMsImprovingLLMs_AgenticDiscoveryforTest_TimeScal.md
 
 
-**Source**: [Original Paper](https://github.com/zhengkid/AutoTTS.)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.08083v1)
 Saved: 2026-05-10 22:54
 Source: 2026-05-08_17-59-40Z_LLMsImprovingLLMs_AgenticDiscoveryforTest_TimeScal.md
 Model: None
@@ -26,7 +26,7 @@ The paper introduces AutoTTS, an environment‑driven framework that automatical
 The authors build a discovery environment that evaluates each controller cheaply through synthetic probes rather than invoking the LLM repeatedly. Reasoning trajectories are collected from model inference, and controllers synthesize TTS programs that control branching, probing, pruning, or stopping decisions. Beta parameters guide the search space and provide diagnostic signals to refine the discovered strategies.
 
 ## Results  
-Experiments on mathematical reasoning benchmarks show that AutoTTS‑discovered strategies outperform strong manually designed baselines in overall accuracy–cost tradeoff. The methods generalize across held‑out benchmarks and various model scales. The entire discovery process costs only $39.9 and takes 160 minutes; the code is open‑source at https://github.com/zhengkid/AutoTTS.
+Experiments on mathematical reasoning benchmarks show that AutoTTS‑discovered strategies outperform strong manually designed baselines in overall accuracy–cost tradeoff. The methods generalize across held‑out benchmarks and various model scales. The entire discovery process costs only $39.9 and takes 160 minutes; the code is open‑source at https://github.com/zhengkid/AutoTTS
 
 ## Significance  
 Automating TTS design reduces research effort, eliminates costly LLM calls during evaluation, and democratizes access to better test‑time scaling improvements, enabling scalable model enhancements without prohibitive resource expenditure.

@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-04-27_17-54-12Z_TheOptimalSampleComplexityofMulticlassandListLearn.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2604.21923v1)
 Saved: 2026-04-29 03:19
 Source: 2026-04-27_17-54-12Z_TheOptimalSampleComplexityofMulticlassandListLearn.md
 Model: qwen3.6:35b

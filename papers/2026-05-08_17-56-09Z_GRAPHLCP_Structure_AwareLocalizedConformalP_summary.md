@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-08_17-56-09Z_GRAPHLCP_Structure_AwareLocalizedConformalPredicti.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.08074v1)
 Saved: 2026-05-10 22:54
 Source: 2026-05-08_17-56-09Z_GRAPHLCP_Structure_AwareLocalizedConformalPredicti.md
 Model: None

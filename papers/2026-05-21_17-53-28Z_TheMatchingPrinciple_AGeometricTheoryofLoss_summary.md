@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-21_17-53-28Z_TheMatchingPrinciple_AGeometricTheoryofLossFunctio.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.22800v1)
 Saved: 2026-05-22 00:11
 Source: 2026-05-21_17-53-28Z_TheMatchingPrinciple_AGeometricTheoryofLossFunctio.md
 Model: None

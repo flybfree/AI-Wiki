@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-14_13-45-20Z_In_ContextLearningforData_DrivenCensoredInventoryC.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.14840v1)
 Saved: 2026-05-14 21:01
 Source: 2026-05-14_13-45-20Z_In_ContextLearningforData_DrivenCensoredInventoryC.md
 Model: None

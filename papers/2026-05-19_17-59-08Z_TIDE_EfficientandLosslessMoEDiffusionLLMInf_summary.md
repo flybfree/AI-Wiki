@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-19_17-59-08Z_TIDE_EfficientandLosslessMoEDiffusionLLMInferencew.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.20179v1)
 Saved: 2026-05-19 22:04
 Source: 2026-05-19_17-59-08Z_TIDE_EfficientandLosslessMoEDiffusionLLMInferencew.md
 Model: None

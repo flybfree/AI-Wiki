@@ -3,7 +3,7 @@ title: "Summary: Global Offshore Wind Infrastructure: Deployment and Operational
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---
-# Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series
+# Summary: Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.20822v1)

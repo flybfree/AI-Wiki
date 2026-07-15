@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-25_17-56-46Z_BeyondSummaries_Structure_AwareLabelingofCodeChang.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.26100v1)
 Saved: 2026-05-26 00:00
 Source: 2026-05-25_17-56-46Z_BeyondSummaries_Structure_AwareLabelingofCodeChang.md
 Model: None

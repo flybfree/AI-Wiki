@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-28_17-59-53Z_LLMSurgeon_DiagnosingDataMixtureofLargeLanguageMod.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.30348v1)
 Saved: 2026-05-29 01:00
 Source: 2026-05-28_17-59-53Z_LLMSurgeon_DiagnosingDataMixtureofLargeLanguageMod.md
 Model: None

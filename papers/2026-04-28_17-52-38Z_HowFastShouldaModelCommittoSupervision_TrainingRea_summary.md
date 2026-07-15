@@ -3,7 +3,7 @@ title: "Summary: How Fast Should a Model Commit to Supervision? Training Reasoni
 date: 2026-04-28
 tags: ['paper', 'research', 'ai']
 ---
-# How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum
+# Summary: How Fast Should a Model Commit to Supervision? Training Reasoning Models on the Tsallis Loss Continuum
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.25907v1)

@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-04-27_17-43-44Z_LearningtoThinkfromMultipleThinkers.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2604.24737v1)
 Saved: 2026-04-29 03:18
 Source: 2026-04-27_17-43-44Z_LearningtoThinkfromMultipleThinkers.md
 Model: qwen3.6:35b

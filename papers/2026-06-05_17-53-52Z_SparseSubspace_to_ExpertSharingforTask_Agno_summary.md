@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-05_17-53-52Z_SparseSubspace_to_ExpertSharingforTask_AgnosticCon.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.07500v1)
 Saved: 2026-06-07 22:00
 Source: 2026-06-05_17-53-52Z_SparseSubspace_to_ExpertSharingforTask_AgnosticCon.md
 Model: None

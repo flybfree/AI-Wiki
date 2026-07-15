@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-22_15-40-52Z_PhotoFlow_Agentic3DVirtualPhotographyMissions.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.23771v1)
 Saved: 2026-05-24 21:00
 Source: 2026-05-22_15-40-52Z_PhotoFlow_Agentic3DVirtualPhotographyMissions.md
 Model: None

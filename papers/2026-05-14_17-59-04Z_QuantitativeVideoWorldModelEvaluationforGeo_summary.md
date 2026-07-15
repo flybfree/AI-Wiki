@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-14_17-59-04Z_QuantitativeVideoWorldModelEvaluationforGeometric_.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.15185v1)
 Saved: 2026-05-15 00:03
 Source: 2026-05-14_17-59-04Z_QuantitativeVideoWorldModelEvaluationforGeometric_.md
 Model: None

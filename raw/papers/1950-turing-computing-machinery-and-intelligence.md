@@ -21,7 +21,7 @@ Placeholder summary — please add a concise summary of this paper's key finding
 
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](https://doi.org/10.1093/mind/lix.236.433)
 **Alan Turing, published in Mind (1950)**
 Originally published as "The Imitation Game" in Mind, Vol. 59, No. 236, pp. 433-460.
 Public domain — the arguments are from the original 1950 text.

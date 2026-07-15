@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-20_12-54-51Z_Linear_DPO_LinearDirectPreferenceOptimizationforDi.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.21123v1)
 Saved: 2026-05-20 21:01
 Source: 2026-05-20_12-54-51Z_Linear_DPO_LinearDirectPreferenceOptimizationforDi.md
 Model: None

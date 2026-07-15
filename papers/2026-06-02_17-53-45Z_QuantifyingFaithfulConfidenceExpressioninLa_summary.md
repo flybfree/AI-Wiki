@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-02_17-53-45Z_QuantifyingFaithfulConfidenceExpressioninLargeReas.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.03969v1)
 Saved: 2026-06-02 23:00
 Source: 2026-06-02_17-53-45Z_QuantifyingFaithfulConfidenceExpressioninLargeReas.md
 Model: None

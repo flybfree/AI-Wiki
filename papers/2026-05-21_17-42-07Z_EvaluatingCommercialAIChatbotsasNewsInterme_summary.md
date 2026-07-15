@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-21_17-42-07Z_EvaluatingCommercialAIChatbotsasNewsIntermediaries.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.22785v1)
 Saved: 2026-05-22 00:02
 Source: 2026-05-21_17-42-07Z_EvaluatingCommercialAIChatbotsasNewsIntermediaries.md
 Model: None

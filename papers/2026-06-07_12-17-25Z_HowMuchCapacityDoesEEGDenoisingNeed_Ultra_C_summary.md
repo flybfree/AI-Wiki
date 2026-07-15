@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-07_12-17-25Z_HowMuchCapacityDoesEEGDenoisingNeed_Ultra_CompactN.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.08594v1)
 Saved: 2026-06-08 21:00
 Source: 2026-06-07_12-17-25Z_HowMuchCapacityDoesEEGDenoisingNeed_Ultra_CompactN.md
 Model: None

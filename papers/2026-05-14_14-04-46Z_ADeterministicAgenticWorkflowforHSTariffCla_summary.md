@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-14_14-04-46Z_ADeterministicAgenticWorkflowforHSTariffClassifica.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.14857v1)
 Saved: 2026-05-14 21:04
 Source: 2026-05-14_14-04-46Z_ADeterministicAgenticWorkflowforHSTariffClassifica.md
 Model: None

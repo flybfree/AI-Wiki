@@ -3,7 +3,7 @@ title: "Summary: Personalized Worked Example Generation from Student Code Submis
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---
-# Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components
+# Summary: Personalized Worked Example Generation from Student Code Submissions using Pattern-based Knowledge Components
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.24758v1)

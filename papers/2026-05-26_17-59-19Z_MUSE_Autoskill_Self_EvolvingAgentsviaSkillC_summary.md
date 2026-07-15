@@ -11,7 +11,7 @@ Placeholder summary — please add a concise summary of this paper's key finding
 # Summary: 2026-05-26_17-59-19Z_MUSE_Autoskill_Self_EvolvingAgentsviaSkillCreation.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.27366v1)
 Saved: 2026-05-26 22:01
 Source: 2026-05-26_17-59-19Z_MUSE_Autoskill_Self_EvolvingAgentsviaSkillCreation.md
 Model: None

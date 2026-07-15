@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-02_17-58-02Z_LanguageModelsCompareQuantitiesUsingNumber_specifi.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.03982v1)
 Saved: 2026-06-02 23:00
 Source: 2026-06-02_17-58-02Z_LanguageModelsCompareQuantitiesUsingNumber_specifi.md
 Model: None

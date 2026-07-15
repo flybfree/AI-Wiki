@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-06_16-29-35Z_Think_AloudReshapesAutomatedCognitiveModelDiscover.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.05091v1)
 Saved: 2026-05-07 23:07
 Source: 2026-05-06_16-29-35Z_Think_AloudReshapesAutomatedCognitiveModelDiscover.md
 Model: None

@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-07_17-58-32Z_Verifier_BackedHardProblemGenerationforMathematica.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.06660v1)
 Saved: 2026-05-07 23:13
 Source: 2026-05-07_17-58-32Z_Verifier_BackedHardProblemGenerationforMathematica.md
 Model: None

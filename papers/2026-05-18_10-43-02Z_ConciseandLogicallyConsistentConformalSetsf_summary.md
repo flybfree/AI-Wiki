@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-18_10-43-02Z_ConciseandLogicallyConsistentConformalSetsforNeuro.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.18202v1)
 Saved: 2026-05-18 22:01
 Source: 2026-05-18_10-43-02Z_ConciseandLogicallyConsistentConformalSetsforNeuro.md
 Model: None

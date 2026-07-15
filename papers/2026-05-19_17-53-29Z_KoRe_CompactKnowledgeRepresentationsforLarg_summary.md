@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-19_17-53-29Z_KoRe_CompactKnowledgeRepresentationsforLargeLangua.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.20170v1)
 Saved: 2026-05-19 22:01
 Source: 2026-05-19_17-53-29Z_KoRe_CompactKnowledgeRepresentationsforLargeLangua.md
 Model: None

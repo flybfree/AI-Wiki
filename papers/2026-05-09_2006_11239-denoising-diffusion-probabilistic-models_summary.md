@@ -1,12 +1,12 @@
 ---
-title: "Summary: 2026-05-09_2006.11239-denoising-diffusion-probabilistic-models.md"
+title: "Summary: Denoising Diffusion Probabilistic Models"
 date: 2026-05-09
 tags: ['paper', 'research', 'ai']
 ---
-# Summary: 2026-05-09_2006.11239-denoising-diffusion-probabilistic-models.md
+# Summary: Denoising Diffusion Probabilistic Models
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](https://arxiv.org/abs/2006.11239)
 Saved: 2026-05-09 23:00
 Source: 2026-05-09_2006.11239-denoising-diffusion-probabilistic-models.md
 Model: None

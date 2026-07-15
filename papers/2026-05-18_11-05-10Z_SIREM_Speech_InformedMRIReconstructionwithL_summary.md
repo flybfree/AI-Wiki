@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-18_11-05-10Z_SIREM_Speech_InformedMRIReconstructionwithLearnedS.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.18221v1)
 Saved: 2026-05-18 22:03
 Source: 2026-05-18_11-05-10Z_SIREM_Speech_InformedMRIReconstructionwithLearnedS.md
 Model: None

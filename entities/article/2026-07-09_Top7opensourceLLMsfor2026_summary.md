@@ -1,15 +1,14 @@
 ---
-title: "Summary: Top7Opensourcellmsfor2026"
-date: 2026-07-09
-tags: [summary]---
-
-# Summary: Top7Opensourcellmsfor2026
-Saved: 2026-07-09 00:36
-Source: 2026-07-09_Top7opensourceLLMsfor2026.md
-Model: none
-
+title: "Summary: Top 7 open source LLMs for 2026 (2026-07-09)"
+date: "2026-07-09"
+type: "article-summary"
+source_url: "https://www.instaclustr.com/education/open-source-ai/top-7-open-source-llms-for-2026/"
+tags: ["summary", "news", "ai-research", "full-text"]
 ---
+# Summary: Top 7 open source LLMs for 2026 (2026-07-09)
 
-ERROR: all endpoints returned no content
+**Source**: [Original Article](https://www.instaclustr.com/education/open-source-ai/top-7-open-source-llms-for-2026/)
 
-ERROR: all endpoints returned no content
+## Summary
+
+Summary unavailable — please regenerate from the original source.

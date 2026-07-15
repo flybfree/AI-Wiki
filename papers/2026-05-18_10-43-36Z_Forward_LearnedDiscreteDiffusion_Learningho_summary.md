@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.18204v1)
 Saved: 2026-05-18 22:02
 Source: 2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md
 Model: None

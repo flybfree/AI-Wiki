@@ -3,7 +3,7 @@ title: "Summary: Sentiment and Emotion Classification of Indonesian E-Commerce R
 date: 2026-04-27
 tags: ['paper', 'research', 'ai']
 ---
-# Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking
+# Summary: Sentiment and Emotion Classification of Indonesian E-Commerce Reviews via Multi-Task BiLSTM and AutoML Benchmarking
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.24720v1)

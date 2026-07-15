@@ -1,19 +1,18 @@
 ---
-title: "Summary: Generativeai"
-date: 2026-06-15
-tags: ['wiki']---
-
-
-# Summary: Generativeai
-
-
-**Source**: [Original Article](https://example.com/placeholder)
-Saved: 2026-06-15 02:03
-Source: 2026-06-15_GenerativeAI.md
-Model: none
-
+title: "Summary: Generative AI (2026-06-15)"
+date: "2026-06-15"
+type: "article-summary"
+source_url: "https://r.jina.ai/http://generativeai.pub/"
+tags: ["summary", "news", "ai-research", "full-text"]
 ---
+# Summary: Generative AI (2026-06-15)
 
-ERROR: all endpoints returned no content
+**Source**: [Original Article](https://r.jina.ai/http://generativeai.pub/)
 
-ERROR: all endpoints returned no content
+## Summary
+
+Placeholder summary — please add a concise summary of this article.
+
+
+
+# Generative AI

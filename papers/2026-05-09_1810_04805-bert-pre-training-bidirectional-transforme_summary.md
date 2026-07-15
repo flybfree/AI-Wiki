@@ -1,12 +1,12 @@
 ---
-title: "Summary: 2026-05-09_1810.04805-bert-pre-training-bidirectional-transformers.md"
+title: "Summary: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding"
 date: 2026-05-09
 tags: ['paper', 'research', 'ai']
 ---
-# Summary: 2026-05-09_1810.04805-bert-pre-training-bidirectional-transformers.md
+# Summary: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](https://arxiv.org/abs/1810.04805)
 Saved: 2026-05-09 23:00
 Source: 2026-05-09_1810.04805-bert-pre-training-bidirectional-transformers.md
 Model: None

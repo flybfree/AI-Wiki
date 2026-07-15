@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-13_17-58-52Z_EVA_Bench_ANewEnd_to_endFrameworkforEvaluatingVoic.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.13841v1)
 Saved: 2026-05-13 23:04
 Source: 2026-05-13_17-58-52Z_EVA_Bench_ANewEnd_to_endFrameworkforEvaluatingVoic.md
 Model: None

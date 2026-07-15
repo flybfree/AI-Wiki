@@ -3,7 +3,7 @@ title: "Summary: Implicit Representations of Grammaticality in Language Models"
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---
-# Implicit Representations of Grammaticality in Language Models
+# Summary: Implicit Representations of Grammaticality in Language Models
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2605.05197v1)

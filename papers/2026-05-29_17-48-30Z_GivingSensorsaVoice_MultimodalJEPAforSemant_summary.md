@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-29_17-48-30Z_GivingSensorsaVoice_MultimodalJEPAforSemanticTime_.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.31580v1)
 Saved: 2026-06-01 00:00
 Source: 2026-05-29_17-48-30Z_GivingSensorsaVoice_MultimodalJEPAforSemanticTime_.md
 Model: None

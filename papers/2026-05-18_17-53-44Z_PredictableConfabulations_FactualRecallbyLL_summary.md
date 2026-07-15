@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-18_17-53-44Z_PredictableConfabulations_FactualRecallbyLLMsScale.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.18732v1)
 Saved: 2026-05-19 01:00
 Source: 2026-05-18_17-53-44Z_PredictableConfabulations_FactualRecallbyLLMsScale.md
 Model: None

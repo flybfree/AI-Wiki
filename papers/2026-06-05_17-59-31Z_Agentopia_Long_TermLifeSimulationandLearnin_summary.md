@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-06-05_17-59-31Z_Agentopia_Long_TermLifeSimulationandLearninginAgen.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2606.07513v1)
 Saved: 2026-06-07 22:01
 Source: 2026-06-05_17-59-31Z_Agentopia_Long_TermLifeSimulationandLearninginAgen.md
 Model: None

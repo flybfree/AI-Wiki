@@ -3,7 +3,7 @@ title: "Summary: Continual Knowledge Updating in LLM Systems: Learning Through M
 date: 2026-05-06
 tags: ['paper', 'research', 'ai']
 ---
-# Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics
+# Summary: Continual Knowledge Updating in LLM Systems: Learning Through Multi-Timescale Memory Dynamics
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2605.05097v1)

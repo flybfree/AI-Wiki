@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-08_13-16-17Z_SimCT_RecoveringLostSupervisionforCross_TokenizerO.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.07711v1)
 Saved: 2026-05-10 21:01
 Source: 2026-05-08_13-16-17Z_SimCT_RecoveringLostSupervisionforCross_TokenizerO.md
 Model: None

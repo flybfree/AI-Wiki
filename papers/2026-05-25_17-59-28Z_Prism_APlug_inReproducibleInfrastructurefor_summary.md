@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-25_17-59-28Z_Prism_APlug_inReproducibleInfrastructureforScalabl.md
 
 
-**Source**: [Original Paper](https://github.com/LAMDA-CL/Prism)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.26110v1)
 Saved: 2026-05-26 00:01
 Source: 2026-05-25_17-59-28Z_Prism_APlug_inReproducibleInfrastructureforScalabl.md
 Model: None

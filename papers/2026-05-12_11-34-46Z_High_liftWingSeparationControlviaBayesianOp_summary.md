@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-12_11-34-46Z_High_liftWingSeparationControlviaBayesianOptimizat.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.11981v1)
 Saved: 2026-05-12 21:03
 Source: 2026-05-12_11-34-46Z_High_liftWingSeparationControlviaBayesianOptimizat.md
 Model: None

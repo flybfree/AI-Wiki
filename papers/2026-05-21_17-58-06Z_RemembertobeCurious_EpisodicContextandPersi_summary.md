@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-21_17-58-06Z_RemembertobeCurious_EpisodicContextandPersistentWo.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.22814v1)
 Saved: 2026-05-22 00:12
 Source: 2026-05-21_17-58-06Z_RemembertobeCurious_EpisodicContextandPersistentWo.md
 Model: None

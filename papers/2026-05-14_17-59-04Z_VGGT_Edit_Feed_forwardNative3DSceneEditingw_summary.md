@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-14_17-59-04Z_VGGT_Edit_Feed_forwardNative3DSceneEditingwithResi.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.15186v1)
 Saved: 2026-05-15 00:03
 Source: 2026-05-14_17-59-04Z_VGGT_Edit_Feed_forwardNative3DSceneEditingwithResi.md
 Model: None

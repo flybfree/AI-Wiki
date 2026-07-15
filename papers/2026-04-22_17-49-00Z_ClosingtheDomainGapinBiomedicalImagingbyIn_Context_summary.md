@@ -3,7 +3,7 @@ title: "Summary: Closing the Domain Gap in Biomedical Imaging by In-Context Cont
 date: 2026-04-22
 tags: ['paper', 'research', 'ai']
 ---
-# Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples
+# Summary: Closing the Domain Gap in Biomedical Imaging by In-Context Control Samples
 
 
 **Source**: [Original Paper](http://arxiv.org/abs/2604.20824v1)

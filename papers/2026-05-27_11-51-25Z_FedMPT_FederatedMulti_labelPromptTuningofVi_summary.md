@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-27_11-51-25Z_FedMPT_FederatedMulti_labelPromptTuningofVision_La.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.28347v1)
 Saved: 2026-05-27 21:01
 Source: 2026-05-27_11-51-25Z_FedMPT_FederatedMulti_labelPromptTuningofVision_La.md
 Model: None

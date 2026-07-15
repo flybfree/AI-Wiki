@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-18_17-59-52Z_DashAttention_DifferentiableandAdaptiveSparseHiera.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.18753v1)
 Saved: 2026-05-19 01:05
 Source: 2026-05-18_17-59-52Z_DashAttention_DifferentiableandAdaptiveSparseHiera.md
 Model: None

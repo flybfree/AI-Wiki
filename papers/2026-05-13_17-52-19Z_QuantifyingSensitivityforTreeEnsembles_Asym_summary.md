@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-13_17-52-19Z_QuantifyingSensitivityforTreeEnsembles_Asymbolican.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.13830v1)
 Saved: 2026-05-13 23:01
 Source: 2026-05-13_17-52-19Z_QuantifyingSensitivityforTreeEnsembles_Asymbolican.md
 Model: None

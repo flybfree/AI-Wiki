@@ -6,7 +6,7 @@ tags: ['paper', 'research', 'ai']
 # Summary: 2026-05-13_11-26-32Z_AHornextensionofDL_LitewithNLdatacomplexity.md
 
 
-**Source**: [Original Paper](https://example.com/placeholder)
+**Source**: [Original Paper](http://arxiv.org/abs/2605.13367v1)
 Saved: 2026-05-13 21:02
 Source: 2026-05-13_11-26-32Z_AHornextensionofDL_LitewithNLdatacomplexity.md
 Model: None
