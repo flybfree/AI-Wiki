@@ -16,7 +16,8 @@ This page defines how the AI Research wiki and the Logseq brain should work toge
 - the **wiki** is the curated, user-facing reference system
 - the **Logseq brain** is the assistant-facing graph mirror for fast retrieval and graph use
 - the **GitHub wiki** is the published, user-facing layer Rich actually uses
-- the local working copy under `/home/rich/wiki/ai-research/` is the primary copy Hermes edits
+- the local wiki under `/home/rich/wiki/ai-research/` is the primary source tree Hermes edits
+- the local Logseq brain under `/home/rich/logseq-brain/pages/ai-research/` is the synced graph mirror Hermes and Logseq read
 
 ## Core principle
 
@@ -31,7 +32,8 @@ The local Logseq mirror exists so Hermes and Logseq can read and navigate the sa
 | Local wiki working copy | `/home/rich/wiki/ai-research/` | Source files Hermes edits before pushing |
 | Logseq mirror | `/home/rich/logseq-brain/pages/ai-research/` | Synced copy for Logseq graph use and assistant retrieval |
 | SMB mirror / backup | `192.168.3.62/share` | Shared mirror for accessibility and backup workflows |
-| PRISM mirror / user working copy | `192.168.3.89/wiki` and `192.168.3.89/logseq-brain` | Secondary backup and GPU-machine working copy |
+|| PRISM mirror / user working copy | `192.168.3.89/logseq-brain` | Secondary backup and fast Logseq access copy |
+|| PRISM wiki mirror | _not in active use_ | Disabled to avoid duplicate-page collisions in Logseq |
 | Raw articles | `raw/articles/` | Immutable article captures |
 | Raw papers | `raw/papers/` | Immutable paper captures |
 | Raw summaries | `raw/summaries/` | Historical summary outputs and legacy summary files |
@@ -110,6 +112,7 @@ Examples:
 - Keep titles unique enough to avoid Logseq collisions.
 - Preserve the same content structure as the source wiki where possible.
 - Use the mirror for fast graph navigation and assistant retrieval.
+- See also: [[wiki-usage-cheat-sheet]]
 
 ## What I should optimize for
 

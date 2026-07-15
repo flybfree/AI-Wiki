@@ -1,5 +1,5 @@
 ---
-title: AI Research Wiki — Topic Index
+title: AI Research Wiki — Topic Index (GitHub)
 date: 2026-06-09
 status: draft
 tags: [wiki, index, ai-research, navigation]
