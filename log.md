@@ -12,6 +12,7 @@ tags: ['wiki']
 ## [2026-07-15 00:00] flesh-out | concepts/ai-agents/* lessons expanded with research and examples
 ## [2026-07-15 00:00] expand | concepts/ai-agents/* added exercises, review checklists, and build-this prompts
 ## [2026-07-15 00:00] add-model | concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md, comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md updated with Agents-A1-NVFP4-MTP-GGUF
+## [2026-07-15 00:00] split-model-comparison | created comparisons/2026-07-15_BestModelForEachTask.md and rewrote benchmark-heavy comparison page
 
 ## [2026-06-30 00:00] ingest | concepts/2026-06-30_FoundationModelsStateOfTheArt.md
 ## [2026-06-30 00:00] update-nav | wiki-topic-index.md, wiki-landing-page.md, index.md, LLMsAndFoundationModelsHub.md

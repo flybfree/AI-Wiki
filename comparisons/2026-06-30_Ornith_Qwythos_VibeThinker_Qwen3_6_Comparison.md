@@ -1,17 +1,18 @@
 ---
-title: "Model Comparison — Ornith, Qwythos, VibeThinker, Qwen3.6, Gemma 4"
+title: "Model Comparison — Ornith, Qwythos, VibeThinker, Qwen3.6, Gemma 4, Agents-A1"
 date: 2026-06-30
 status: draft
 tags: ["wiki", "comparison", "foundation-models", "open-weight", "coding", "reasoning", "multimodal", "2026-06-30"]
 ---
 
-# Model Comparison — Ornith, Qwythos, VibeThinker, Qwen3.6, Gemma 4
+# Model Comparison — Ornith, Qwythos, VibeThinker, Qwen3.6, Gemma 4, Agents-A1
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page compares seven recent models that sit in different corners of the current frontier: two Ornith agentic-coding variants, a long-context 9B reasoning model, a tiny reasoning model, and two multimodal open-weight generalists.
+This is the benchmark-heavy version of the local/open-weight comparison.
+It keeps the task-fit summary, then expands into score tables and model-specific notes.
 
-Important caveat: these models are not directly apples-to-apples. They optimize for different tasks, sizes, and benchmarks, so the right interpretation is “best for this use case,” not “one universal winner.”
+Important caveat: these models are not directly apples-to-apples. They optimize for different tasks, sizes, and benchmark suites, so the right interpretation is “best for this use case,” not “one universal winner.”
 
 ## Quick take
 
@@ -22,7 +23,7 @@ Important caveat: these models are not directly apples-to-apples. They optimize 
 - Best balanced open-weight multimodal generalist: [Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B)
 - Best smaller multimodal generalist: [Gemma 4 12B Unified](https://huggingface.co/google/gemma-4-12B)
 - Best larger multimodal MoE generalist: [Gemma 4 26B A4B](https://huggingface.co/google/gemma-4-26B-A4B-it)
-- Best experimental local agentic multimodal derivative: [Agents-A1-NVFP4-MTP-GGUF](https://huggingface.co/s-batman/Agents-A1-NVFP4-MTP-GGUF)
+- Best experimental local agentic search model: [Agents-A1-NVFP4-MTP-GGUF](https://huggingface.co/s-batman/Agents-A1-NVFP4-MTP-GGUF)
 
 ## Comparison table
 
@@ -35,6 +36,7 @@ Important caveat: these models are not directly apples-to-apples. They optimize 
 | Qwen3.6-35B-A3B | Qwen / Alibaba | 35B total, 3B active | Apache 2.0 | 262,144 native, extensible to 1,010,000 | Balanced multimodal + agentic coding | Larger deployment footprint than the smaller models |
 | Gemma 4 26B A4B | Google DeepMind | 26B MoE | Apache 2.0 | 256K | Strong multimodal reasoning and coding | Bigger memory footprint than 12B |
 | Gemma 4 12B Unified | Google DeepMind | 12B dense | Apache 2.0 | 256K | Best compact multimodal generalist in Gemma 4 family | Less raw capacity than the 26B MoE model |
+| Agents-A1-NVFP4-MTP-GGUF | InternScience / s-batman GGUF | Qwen3.5-35B-A3B MoE derivative | GGUF / local artifact | — | Agentic search, instruction following, scientific reasoning | Experimental local packaging, not a broad generalist |
 
 ## Model notes
 
@@ -76,7 +78,7 @@ What stands out:
 - Extremely long context for a 9B model
 - Native function calling / tool-use support
 - Strong lift over the base Qwen3.5-9B on the model card’s controlled harness
-- Useful in domains where uncensored technical discussion matters
+- Useful in domains where long context matters more than raw multimodal breadth
 
 Headline results from the model card:
 - gsm8k flexible: 0.860 vs 0.670 for base
@@ -212,16 +214,55 @@ Agents-A1-NVFP4-MTP-GGUF is a local GGUF derivative of InternScience/Agents-A1, 
 What stands out:
 - Local GGUF delivery for an agentic multimodal MoE derivative
 - MTP support, which can help speculative decoding workflows
-- Appears aimed at advanced local runtime experimentation rather than conservative deployment
+- Strong agent-oriented benchmark signal: Seal-0 56.4, HiPhO 46.4, FrontierScience-Olympiad 79.0, FrontierScience-Research 40.0, IFBench 80.6, IFEval 94.8
+- Also strong on BrowseComp 75.5, XBench-DS-2510 86.0, GAIA 96.0, SciCode 44.3, HLE with tools 47.6, and MolBench-bind 56.8
 
 Best fit:
-- Local agentic coding / reasoning experiments
-- Multimodal tool-using workflows
+- Local agentic search / scientific reasoning experiments
+- Tool-using workflows
 - Hardware setups that can take advantage of NVFP4/MTP support
 
 Source:
 - [s-batman/Agents-A1-NVFP4-MTP-GGUF](https://huggingface.co/s-batman/Agents-A1-NVFP4-MTP-GGUF)
 - [Model README](https://huggingface.co/s-batman/Agents-A1-NVFP4-MTP-GGUF/blob/main/README.md)
+
+## Expanded benchmark tables
+
+### Agentic and coding benchmarks
+
+| Model | Terminal-Bench | SWE-bench Verified | SWE-bench Pro | NL2Repo | Claw-Eval Avg | BrowseComp | GAIA | IFEval |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Ornith-1.0-35B | 64.2 | 75.6 | 50.4 | 34.6 | 69.8 | — | — | — |
+| Qwen3.6-35B-A3B | 51.5 | 73.4 | 49.5 | 29.4 | 68.7 | — | — | — |
+| Agents-A1-NVFP4-MTP-GGUF | — | — | — | — | — | 75.5 | 96.0 | 94.8 |
+
+### Reasoning and math benchmarks
+
+| Model | MMLU Pro | AIME | GPQA Diamond | ARC-Challenge | GSM8K | HiPhO |
+|---|---:|---:|---:|---:|---:|---:|
+| Qwythos-9B-Claude-Mythos-5-1M | — | — | 58.0 | 0.490 | 0.860 / 0.810 | 46.4 |
+| Qwen3.6-35B-A3B | — | 92.7 | — | — | — | — |
+| Gemma 4 26B A4B | 82.6 | 88.3 | 82.3 | — | — | — |
+| Gemma 4 12B Unified | 77.2 | 77.5 | 78.8 | — | — | — |
+| VibeThinker-1.5B | — | 80.3 / 74.4 | — | — | — | 50.4 |
+
+### Multimodal and long-context benchmarks
+
+| Model | Context | MMMU Pro | MATH-Vision | MRCR v2 8-needle 128k | LiveCodeBench v6 |
+|---|---:|---:|---:|---:|---:|
+| Qwythos-9B-Claude-Mythos-5-1M | 1,048,576 | — | — | — | — |
+| Qwen3.6-35B-A3B | 262,144 native / 1,010,000 extensible | — | — | — | 80.4 |
+| Gemma 4 26B A4B | 256K | 73.8 | 82.4 | 44.1 | 77.1 |
+| Gemma 4 12B Unified | 256K | 69.1 | 79.7 | 43.4 | 72.0 |
+| Agents-A1-NVFP4-MTP-GGUF | — | — | — | — | — |
+
+### Agent instruction-following and scientific task suite
+
+| Model | Seal-0 | HiPhO | FrontierScience-Olympiad | FrontierScience-Research | IFBench | IFEval | SciCode | HLE w/ tools | MolBench-bind |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|---:|
+| Agents-A1-NVFP4-MTP-GGUF | 56.4 | 46.4 | 79.0 | 40.0 | 80.6 | 94.8 | 44.3 | 47.6 | 56.8 |
+| Qwythos-9B-Claude-Mythos-5-1M | — | — | — | — | — | — | — | — | — |
+| Qwen3.6-35B-A3B | — | — | — | — | — | — | — | — | — |
 
 ## Practical ranking by use case
 
@@ -254,9 +295,14 @@ Source:
 5. Qwythos-9B
 6. VibeThinker-1.5B
 
+### If you want agentic search / scientific reasoning
+1. Agents-A1-NVFP4-MTP-GGUF
+2. Qwen3.6-35B-A3B
+3. Ornith-1.0-35B
+
 ## Bottom line
 
-These six models occupy different points on the frontier:
+These models occupy different points on the local/open-weight frontier:
 
 - Ornith is the strongest fit for agentic coding.
 - Qwythos is the most interesting long-context reasoning model in a small footprint.
@@ -264,5 +310,6 @@ These six models occupy different points on the frontier:
 - Qwen3.6 is the best all-around open-weight multimodal option here.
 - Gemma 4 26B A4B is the strongest Gemma option for heavyweight multimodal reasoning.
 - Gemma 4 12B Unified is the more compact Gemma option with very strong capability per parameter.
+- Agents-A1 adds a useful local agentic-search and scientific-reasoning option.
 
-If you want, I can turn this into a tighter “best model for each task” wiki page or a more benchmark-heavy version with tables expanded further.
+If you want, I can split this further into a task-first shortlist, a coding-only comparison, and a multimodal-only comparison.

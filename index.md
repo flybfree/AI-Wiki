@@ -113,6 +113,8 @@ tags: ['wiki']
 - [[concepts/2026-06-11_llm-alignment.md|LLM Alignment]] — comprehensive overview of alignment methods (RLHF, DPO, Constitutional AI), core challenges, mechanistic interpretability, scalable oversight, and recent 2025-2026 developments
 
 ## Comparisons
+- [[comparisons/2026-07-15_BestModelForEachTask.md|Best Model for Each Task — Local LLM Shortlist]] — tight task-first recommendation page
+- [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Model Comparison — Ornith, Qwythos, VibeThinker, Qwen3.6, Gemma 4]] — benchmark-heavy deep dive
 
 ## Queries
 
