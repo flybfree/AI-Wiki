@@ -10,6 +10,8 @@ tags: [wiki, index, ai-research, navigation]
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 This page organizes all AI research content by topic. Use it to find what you're looking for.
 
+Quick start: [README.md](README.md)
+
 GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ## Table of Contents
@@ -60,7 +62,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ### Recent architecture papers
 
-- [[entities/article/2026-07-13_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|MCP Server Architecture Patterns for LLM-Integrated Applications]] — updated July 13
+- [[concepts/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integra_summary.md|MCP Server Architecture Patterns for LLM-Integrated Applications]] — updated July 13
 - [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Agent-Native Immune System Architecture: Taxonomy and ...]]
 - [[entities/article/2026-07-10_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|Machine Learning Architecture: What It Is, Components, Types]]
 - Architecture cluster: Azure Architecture Center, AWS Well-Architected Framework, Springer Nature, and machine-learning systems overview pages
@@ -95,7 +97,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ### Recent industry signal
 
 - [[entities/article/2026-07-10_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md|AI Updates Today (July 2026): Latest AI Model Releases]]
-- [[entities/article/2026-07-10_Repowise_Codebase_Intelligence_for_AI_Agents_summary.md|Repowise: Codebase Intelligence for AI Agents]]
+- [[entities/article/2026-07-09_Repowise_Codebase_Intelligence_for_AI_Agents_summary.md|Repowise: Codebase Intelligence for AI Agents]]
 - [[entities/article/2026-07-10_GenerativeAIrecentnews_AIBusiness_summary.md|Generative AI Recent News — AI Business]]
 - [[entities/article/2026-07-10_GenerativeAInewsandanalysis_TechCrunch_summary.md|Generative AI News and Analysis — TechCrunch]]
 - [[entities/article/2026-07-10_AIBreakthrough-AIBreakthroughAwards_summary.md|AI Breakthrough Awards]]
@@ -150,7 +152,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 - [[concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md|UniClawBench: A Universal Benchmark for Proactive Agents]]
 - [[concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md|Breaking Database Lock in Agentic Regeneration]]
-- [[concepts/papers/2026-07-06_17-55-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md|LLM as a Verifier: A General-Purpose Verification Framework]]
+- [[concepts/papers/2026-07-06_17-59-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md|LLM as a Verifier: A General-Purpose Verification Framework]]
 - [[concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md|Cortex: A Bidirectionally Aligned Embodied Agent Framework]]
 - Agent and architecture paper clusters are now grouped above instead of repeated as long raw title dumps
 
@@ -173,7 +175,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 - [[concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md|UniClawBench: A Universal Benchmark for Proactive Agents]]
 - [[concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md|Breaking Database Lock in Agentic Regeneration]]
 - [[concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md|Cortex: A Bidirectionally Aligned Embodied Agent Framework]]
-- [[concepts/papers/2026-07-06_17-55-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md|LLM as a Verifier: A General-Purpose Verification Framework]]
+- [[concepts/papers/2026-07-06_17-59-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md|LLM as a Verifier: A General-Purpose Verification Framework]]
 - [[concepts/architecture/2026-05-09_AgentArchitectureEvolution.md|Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)]]
 - [[concepts/frameworks/2026-05-09_AutonomousAgentFrameworks.md|Autonomous Agent Frameworks]]
 - [[concepts/principles/2026-06-08_BuildingEffectiveAgents_Anthropic.md|Building Effective Agents (Anthropic)]]
