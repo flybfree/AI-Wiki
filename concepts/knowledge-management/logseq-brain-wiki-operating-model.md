@@ -12,6 +12,10 @@ confidence: high
 
 **Source**: [GitHub Wiki](https://github.com/flybfree/AI-Wiki/wiki)
 
+## Quick links
+- [[concepts/knowledge-management/wiki-usage-cheat-sheet.md|Wiki Usage Cheat Sheet]]
+- [[concepts/knowledge-management/page-templates.md|Page Templates for the AI Research Wiki]]
+
 This page defines how the AI Research wiki and the Logseq brain should work together:
 - the **wiki** is the curated, user-facing reference system
 - the **Logseq brain** is the assistant-facing graph mirror for fast retrieval and graph use
