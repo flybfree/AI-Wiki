@@ -233,6 +233,111 @@ else:
 
 This is what a harnessed agent looks like in practice: structured state goes in, a bounded action comes out, an observation comes back, and the harness decides whether the loop continues.
 
+## Harness blueprint
+A practical harness usually has the same shape every time.
+
+```text
+User goal
+  -> build prompt
+  -> model proposes next action
+  -> policy check
+  -> tool execution
+  -> observation appended to state
+  -> stop / continue decision
+```
+
+Think of the harness as a small control pipeline with four responsibilities:
+- **assemble** the current prompt
+- **authorize** the next action
+- **execute** the tool call
+- **record** what happened and decide whether to continue
+
+## API boundaries
+A clean harness keeps the interfaces explicit.
+
+```python
+class Harness:
+    def build_prompt(self, state) -> str:
+        ...
+
+    def parse_action(self, model_output) -> dict:
+        ...
+
+    def allows(self, action, state) -> bool:
+        ...
+
+    def execute(self, action) -> dict:
+        ...
+
+    def update_state(self, state, observation) -> dict:
+        ...
+
+    def should_stop(self, state) -> bool:
+        ...
+```
+
+Each method has a job:
+- `build_prompt` gives the model the right context
+- `parse_action` turns model text into a structured decision
+- `allows` enforces the policy
+- `execute` runs the chosen tool
+- `update_state` stores the new evidence
+- `should_stop` decides whether the loop is done
+
+## More realistic Python skeleton
+```python
+class AgentHarness:
+    def __init__(self, model, tools, policy, store, logger):
+        self.model = model
+        self.tools = tools
+        self.policy = policy
+        self.store = store
+        self.logger = logger
+
+    def run(self, goal: str, context: dict) -> str:
+        state = self.store.load(goal, context)
+
+        while True:
+            if self.should_stop(state):
+                return self.finish(state)
+
+            prompt = self.build_prompt(state)
+            model_output = self.model.complete(prompt)
+            action = self.parse_action(model_output)
+
+            self.logger.info({"event": "model_action", "action": action})
+
+            if action["type"] == "final":
+                state["draft"] = action["content"]
+                state["final_ready"] = True
+                if self.policy.requires_approval(state):
+                    return self.request_approval(state)
+                return self.finish(state)
+
+            if not self.policy.allows(action, state):
+                state["history"].append({"blocked": action})
+                self.store.save(state)
+                continue
+
+            observation = self.execute(action)
+            state["history"].append({"action": action, "observation": observation})
+            state = self.update_state(state, observation)
+            self.store.save(state)
+
+    def execute(self, action: dict) -> dict:
+        tool = self.tools[action["name"]]
+        return tool(**action["args"])
+```
+
+This is still simplified, but it is much closer to an actual implementation.
+It shows where persistence, logging, approval, and stop decisions live.
+
+## Why this structure works
+The harness stays readable because each concern has a place.
+If the loop fails, you can inspect one method instead of hunting through a giant prompt blob.
+If the policy changes, you update the policy layer instead of rewriting the model prompt.
+If the tool output changes, you adjust the execution or parsing layer.
+
 
 ## What each piece does
 ### Model
