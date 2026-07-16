@@ -180,6 +180,60 @@ A trace for the support example might look like:
 
 A trace is useful because it lets you debug the decision path instead of only the final answer.
 
+## Request/response trace
+Here is the same run in a more code-like form.
+
+### 1) Model request
+```json
+{
+  "goal": "Answer the refund question safely",
+  "state": {
+    "ticket_id": "T-8821",
+    "customer_id": "12345",
+    "history": []
+  },
+  "allowed_tools": ["search_policy", "check_account_status", "draft_reply"],
+  "next_step": "choose one action"
+}
+```
+
+### 2) Model response
+```json
+{"type":"tool","name":"search_policy","args":{"query":"refund eligibility last month charge"}}
+```
+
+### 3) Harness execution
+```python
+if policy.allows(action):
+    observation = tools[action["name"]](**action["args"])
+    state["history"].append({"action": action, "observation": observation})
+else:
+    state["history"].append({"blocked": action})
+```
+
+### 4) Observation returned
+```json
+{
+  "title": "Refund Policy",
+  "effective_date": "2026-07-01",
+  "excerpt": "Refunds are available within 30 days of purchase.",
+  "source": "policy://refund-policy"
+}
+```
+
+### 5) Second model response
+```json
+{"type":"tool","name":"check_account_status","args":{"customer_id":"12345"}}
+```
+
+### 6) Final model response
+```json
+{"type":"final","content":"The account appears eligible for a refund. Please confirm and I can submit it."}
+```
+
+This is what a harnessed agent looks like in practice: structured state goes in, a bounded action comes out, an observation comes back, and the harness decides whether the loop continues.
+
+
 ## What each piece does
 ### Model
 The model reads the prompt and proposes the next action or final answer.
