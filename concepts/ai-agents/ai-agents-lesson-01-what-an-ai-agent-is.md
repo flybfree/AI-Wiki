@@ -135,6 +135,19 @@ A chat model with a retrieval step may look like an agent even if it never reall
 That is normal.
 The useful question is not “is it perfectly pure?” but “does this architecture need goal-directed action?”
 
+## More detailed notes
+An agent is not defined by how impressive the output sounds. It is defined by whether the system can keep choosing, acting, and revising its approach over time.
+
+A useful test is this: if you removed the action loop, would the system still do the job? If yes, it may just be a workflow with a chat interface. If no, the system is probably relying on agent behavior.
+
+### Extra examples
+- **Travel planning**: the agent checks dates, compares options, and updates the plan after each constraint changes.
+- **Customer support**: the agent drafts a reply, checks policy, waits for approval, and only then sends.
+- **Research**: the agent searches, compares sources, and changes its hypothesis when one source contradicts another.
+
+### Common misconception
+People often call any tool-using app an agent. That is too loose. A tool call alone does not make a system agentic; the system must also decide what to do with the result.
+
 ## Build this
 Create a simple agent spec on paper:
 - goal

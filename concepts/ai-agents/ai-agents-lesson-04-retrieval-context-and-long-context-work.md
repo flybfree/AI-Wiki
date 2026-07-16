@@ -113,6 +113,18 @@ A coding agent should retrieve repo files, docs, and test output before proposin
 If a support bot answers from a stale screenshot of a policy page, it may sound confident and still be wrong.
 That is exactly why retrieval needs freshness, and why the harness should know when the source is outdated.
 
+## More detailed notes
+Retrieval is about choosing evidence. Long context is about carrying that evidence farther. They are complements, not substitutes.
+
+### Example: policy assistant
+A user asks whether a request is allowed. The system should retrieve the latest policy, not rely on a remembered summary from last month.
+
+### Example: research assistant
+A research workflow might retrieve three papers, compare their claims, and then keep the relevant excerpts in context while synthesizing the answer.
+
+### When retrieval fails
+If the right source cannot be found, the agent should say so and avoid inventing a confident answer. Missing retrieval is often better surfaced as uncertainty than hidden inside a plausible summary.
+
 ## Build this
 Design a retrieval stack for a policy assistant:
 - source of truth

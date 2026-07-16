@@ -106,6 +106,25 @@ Evaluation gets tricky because agent behavior is sometimes nondeterministic.
 Two runs can take different valid paths and still solve the same task.
 That means the harness must judge more than a single final response.
 
+## More detailed notes
+Guardrails are strongest when they are specific to the risk. A harmless read-only lookup should not have the same approval path as a production write or a payment action.
+
+### Example guardrail ladder
+- **Low risk**: read public docs, summarize results, draft text
+- **Medium risk**: edit a private file, prepare a message, stage a change
+- **High risk**: delete data, send messages externally, deploy to production
+
+### Example evaluation checklist
+For each task, verify:
+- Did the agent pick the correct tool?
+- Did it stop when the task was done?
+- Did it avoid repeating failed actions?
+- Was the result safe to use?
+- Could a human review the trace and understand what happened?
+
+### Notes on reliability
+Reliability is not just correctness. A system can get the right answer once and still be unreliable if it routinely takes unsafe paths, ignores approvals, or loops when something goes wrong.
+
 ## Build this
 Write a safety policy for a hypothetical agent:
 - what it may do automatically

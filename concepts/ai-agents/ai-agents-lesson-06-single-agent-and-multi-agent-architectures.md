@@ -104,6 +104,17 @@ Multi-agent systems often fail when:
 - the output becomes hard to debug
 - nobody knows which agent should fix a mistake
 
+## More detailed notes
+Start with the smallest architecture that can do the job. Add routing when tasks clearly split into categories. Add more agents only when the work genuinely benefits from separation.
+
+### Example choices
+- **Email triage**: router or single agent, because messages usually fall into a small set of buckets
+- **Code review**: single agent plus a reviewer tool or checkpoint, because coordination overhead is lower than a full team
+- **Research brief**: multi-agent can help if one agent gathers sources, one checks claims, and one writes the synthesis
+
+### Design rule
+If you cannot explain why each additional agent exists, the system is probably more complex than it needs to be.
+
 ## Build this
 Choose an architecture for each of these:
 - email triage assistant

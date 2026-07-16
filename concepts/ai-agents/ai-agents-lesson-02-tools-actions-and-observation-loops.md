@@ -121,6 +121,25 @@ Tools are worth adding when the system needs:
 - a check on its own work
 - access to data that changes over time
 
+## More detailed notes
+A good tool is small enough that the harness can understand it and the model can predict its shape. If a tool does five different jobs, it becomes hard to debug which part failed.
+
+### Example tool contract
+**Tool:** `search_policy`
+- Input: `query`
+- Output: matching policy title, excerpt, updated date, URL
+- Block if: the request is for a private policy, or the search index is unavailable
+
+### Example observation loop
+1. The agent asks for a refund policy.
+2. The retrieval tool returns the latest policy page.
+3. The agent checks the effective date.
+4. The agent drafts an answer using the exact policy language.
+5. The harness logs the source so the answer can be audited.
+
+### Common mistake
+If a tool returns data and the model immediately treats it as true without checking freshness, access level, or failure status, the loop becomes brittle.
+
 ## Build this
 Design a tiny toolset for a scheduling assistant:
 - find availability

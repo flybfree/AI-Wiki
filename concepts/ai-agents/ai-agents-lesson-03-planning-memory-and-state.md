@@ -117,6 +117,22 @@ A good long-horizon system usually has:
 - memory is too thin and forgets important facts
 - checkpoints are missing, so recovery is impossible
 
+## More detailed notes
+A plan is a guess about how the task should unfold. State is the current reality. Memory is the compacted history worth keeping.
+
+### Example: travel agent
+- Plan: book flight, then hotel, then transfer
+- State: flight found, hotel not yet chosen, transfer still pending
+- Memory: traveler prefers aisle seats and late checkouts
+
+### Example: coding agent
+- Plan: inspect repo, reproduce bug, patch code, run tests
+- State: bug reproduced, one file edited, tests failing in one module
+- Memory: repo uses a specific test command and lint rule
+
+### Notes on memory hygiene
+Good memory should be selective. Save what changes future decisions. Do not save every intermediate thought, failed branch, or temporary guess unless it helps recovery later.
+
 ## Build this
 Sketch a state model for a research agent:
 - goal
