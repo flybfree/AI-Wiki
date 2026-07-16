@@ -24,6 +24,7 @@ That material might come from:
 
 The point is not just to have more text.
 The point is to have the right text.
+Retrieval is a way to reduce uncertainty before the agent commits to an answer or action.
 
 ## Context vs long context
 **Context** is what the model can see right now.
@@ -32,8 +33,9 @@ Those are related, but not the same thing.
 
 A larger context window helps, but it does not automatically give better reasoning.
 The model still needs the right evidence.
+If the relevant fact is not in context, the model is still forced to infer or guess.
 
-## Why retrieval matters
+## Retrieval first, action second
 Agents get better when they search first and act second.
 This matters most for:
 - policy
@@ -46,20 +48,22 @@ This matters most for:
 If the answer depends on something specific, retrieve it.
 Do not guess.
 
+## A practical retrieval pipeline
+A good retrieval step usually has five parts:
+1. choose the source of truth
+2. fetch candidate passages or records
+3. rank or filter the results
+4. place the best evidence into context
+5. cite or use the evidence in the next action
+
+That structure matters because “retrieval” is not just “search and dump.”
+The agent needs the right evidence, in the right shape, at the right time.
+
 ## Structured retrieval
 A structured source, such as a knowledge graph or curated index, often works better than a giant text dump when the task requires relationships rather than raw passages.
 
 That is why agent-native knowledge orchestration is important: it gives the agent a way to navigate facts instead of just reading chunks.
-
-## Concrete examples
-### Example 1: policy assistant
-A policy assistant should retrieve the latest policy document before drafting an answer.
-
-### Example 2: research assistant
-A research agent should fetch the relevant papers, compare them, and only then write the synthesis.
-
-### Example 3: coding assistant
-A coding agent should retrieve repo files, docs, and test output before proposing a fix.
+If the task is about dependencies, owners, dates, or linked entities, structure matters.
 
 ## When long context is enough
 Long context is helpful when:
@@ -74,12 +78,40 @@ Retrieval is better when:
 - the task needs precision
 - the model must justify its answer with specific sources
 
+Long context can keep more evidence available.
+Retrieval decides which evidence deserves to be there in the first place.
+
 ## Common failure modes
 - retrieving too much irrelevant text
 - retrieving the wrong document
 - trusting stale context
 - confusing more context with better evidence
 - skipping retrieval entirely
+
+A common mistake is to stuff the context window and hope the model sorts it out.
+That usually creates noise, not clarity.
+
+## Retrieval is not memory
+Retrieval and memory solve different problems.
+- Retrieval brings in evidence for the current task.
+- Memory preserves useful facts across tasks.
+
+A system can have strong retrieval and weak memory, or the other way around.
+Good agent design usually needs both, but they should not be treated as the same thing.
+
+## Concrete examples
+### Example 1: policy assistant
+A policy assistant should retrieve the latest policy document before drafting an answer.
+
+### Example 2: research assistant
+A research agent should fetch the relevant papers, compare them, and only then write the synthesis.
+
+### Example 3: coding assistant
+A coding agent should retrieve repo files, docs, and test output before proposing a fix.
+
+## Failure story
+If a support bot answers from a stale screenshot of a policy page, it may sound confident and still be wrong.
+That is exactly why retrieval needs freshness, and why the harness should know when the source is outdated.
 
 ## Build this
 Design a retrieval stack for a policy assistant:

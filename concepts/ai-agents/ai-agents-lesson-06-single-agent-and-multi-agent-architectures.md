@@ -19,6 +19,9 @@ Often the best design is one agent with a few strong tools.
 Multi-agent systems are useful, but they add coordination cost.
 If the task is narrow, a single agent is usually easier to build, test, and trust.
 
+The more moving parts you add, the more you need to explain who is responsible for what.
+That is the core tradeoff in this lesson.
+
 ## Core patterns
 ### Single agent
 One loop, one decision-maker, one harness.
@@ -63,6 +66,17 @@ They also mean:
 - more debugging complexity
 
 The architecture should match the problem, not the hype.
+If the task can be solved by one agent, that is usually the better first choice.
+
+## Why routing matters
+Routing is a middle ground between one agent and a full team.
+It lets the system send each task to a path that already has the right tools, rules, or reviewer.
+That is often easier to govern than letting every agent do everything.
+
+## Why trust matters
+Trusted routing is important when the system needs to send sensitive or high-stakes work through controlled paths.
+That is one reason trust-native agent routing research matters.
+The routing decision itself becomes part of the safety story.
 
 ## Concrete examples
 ### Example 1: single agent coding helper
@@ -74,9 +88,21 @@ One route handles billing, one handles technical issues, one handles account cha
 ### Example 3: research team
 One agent gathers sources, one summarizes them, one checks claims, and one composes the final draft.
 
-## Why routing and trust matter
-Trusted routing is important when the system needs to send sensitive or high-stakes work through controlled paths.
-That is one reason trust-native agent routing research matters.
+## When multi-agent helps most
+Multi-agent systems shine when:
+- the task can be split cleanly
+- different subtasks need different tools
+- parallel work saves time
+- a reviewer role is valuable
+- one agent should not hold the whole burden of reasoning
+
+## When multi-agent hurts
+Multi-agent systems often fail when:
+- the boundaries between roles are unclear
+- agents duplicate each other’s work
+- the system spends more time coordinating than solving
+- the output becomes hard to debug
+- nobody knows which agent should fix a mistake
 
 ## Build this
 Choose an architecture for each of these:

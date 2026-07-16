@@ -16,6 +16,10 @@ Show how agents keep track of what they are doing across multiple steps.
 A hard task usually cannot be solved in one shot.
 Planning breaks a goal into manageable steps so the agent can work in sequence instead of guessing all at once.
 
+A plan is not a promise that every step is fixed forever.
+It is a working hypothesis: “This is the order that seems most likely to succeed.”
+The agent should be allowed to revise that order if new information changes the task.
+
 ## Why memory matters
 Memory helps the system avoid starting over every turn.
 It can preserve:
@@ -24,6 +28,10 @@ It can preserve:
 - user preferences
 - useful facts from earlier steps
 
+Memory is only useful if the system knows what should be kept and what should be forgotten.
+Too much memory creates noise.
+Too little memory creates repetition.
+
 ## Why state matters
 State is the working record of the current run.
 It tells the agent:
@@ -31,6 +39,9 @@ It tells the agent:
 - what has already happened
 - what still needs to happen
 - what should be remembered for the next step
+
+State is usually more local and more temporary than memory.
+You can think of state as the live notebook for the current job.
 
 ## Useful distinctions
 - **Plan**: the intended sequence of steps
@@ -42,6 +53,19 @@ It tells the agent:
 Planning says *what should happen next*.
 State says *what has already happened*.
 Memory says *what should not be forgotten*.
+
+That distinction sounds small, but it prevents a lot of design mistakes.
+If a system does not separate them, it tends to lose track of progress.
+
+## Where state lives
+State can live in different places:
+- a structured object in the harness
+- a scratchpad or scratch file
+- the conversation history
+- a task tracker or checkpoint store
+
+The point is not the storage medium.
+The point is that the agent can recover its current position after each step.
 
 ## Why it matters
 Multi-step work fails when the agent:
@@ -73,11 +97,25 @@ Useful memory is selective:
 - task progress that must survive a break
 
 Everything else can stay local to the current run.
+If the system stores too much, it makes the next step harder to reason about.
 
 ## Long-horizon work
 Long-horizon agents are systems that can stay coherent across many steps or even many turns.
 That requires more than a big context window.
 It needs disciplined state handling, summarization, and error recovery.
+
+A good long-horizon system usually has:
+- a way to checkpoint progress
+- a way to compress older steps
+- a way to revisit failed branches
+- a way to keep the goal visible
+
+## Failure modes
+- plan is too rigid and cannot adapt
+- state is too vague and does not show progress
+- memory is too sticky and keeps stale facts
+- memory is too thin and forgets important facts
+- checkpoints are missing, so recovery is impossible
 
 ## Build this
 Sketch a state model for a research agent:

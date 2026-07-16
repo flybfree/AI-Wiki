@@ -26,15 +26,8 @@ Examples:
 A plain model can talk about those things.
 An agent with tools can actually use them.
 
-## The action-observation loop
-Most agentic systems run a loop like this:
-1. choose an action
-2. execute the action through a tool
-3. observe the result
-4. decide what to do next
-
-That loop is what makes the system adaptive.
-The model is not just producing one answer; it is reacting to evidence.
+The important detail is that a tool is not just an API wrapper.
+It is a boundary between what the model can imagine and what the system can verify.
 
 ## Why tools matter
 Without tools, the model is limited to what it can recall or infer.
@@ -47,8 +40,25 @@ With tools, the model can:
 - branch based on results
 
 This is the main practical difference between chat and agentic work.
+When tools are available, the model can stop guessing and start checking.
 
-## Good tool design
+## The action-observation loop
+Most agentic systems run a loop like this:
+1. choose an action
+2. execute the action through a tool
+3. observe the result
+4. decide what to do next
+
+That loop is what makes the system adaptive.
+The model is not just producing one answer; it is reacting to evidence.
+
+A strong loop has a clear question before every step:
+- What do we know?
+- What do we need?
+- Which tool answers that question?
+- What did the tool actually return?
+
+## Tool design is part of agent quality
 Good tools are:
 - narrow
 - explicit
@@ -58,6 +68,12 @@ Good tools are:
 
 A tool should do one thing well.
 If a tool is too broad, the agent becomes harder to debug and harder to trust.
+
+A good tool should also have a shape the agent can reason about:
+- clear input fields
+- predictable output
+- obvious failure modes
+- a response the harness can validate
 
 ## Tool boundaries matter
 The harness decides:
@@ -69,6 +85,8 @@ The harness decides:
 This is important because the model is not the final authority.
 The system wrapper is.
 
+That separation is what keeps tool use from becoming uncontrolled behavior.
+
 ## Concrete examples
 ### Example 1: calendar lookup
 If an agent needs today’s meeting time, it should check a calendar tool instead of guessing.
@@ -79,12 +97,29 @@ A coding agent should read a file, edit it, and then run tests before claiming s
 ### Example 3: policy answer
 A support agent should retrieve the latest policy page before drafting a response.
 
+In each case, the tool does two jobs:
+- it gets the truth closer to the model
+- it gives the harness something measurable to inspect
+
 ## Common failure modes
 - calling the wrong tool
 - using a tool with bad parameters
 - trusting a tool output too quickly
 - looping on the same failed action
 - forgetting to check the result
+
+The most common bug is not “the model is dumb.”
+It is “the loop is missing a good stopping rule or validation step.”
+
+## When to avoid a tool
+Not every task needs one.
+If the model only needs to explain, draft, or transform text, a tool may not be necessary.
+
+Tools are worth adding when the system needs:
+- external truth
+- an external side effect
+- a check on its own work
+- access to data that changes over time
 
 ## Build this
 Design a tiny toolset for a scheduling assistant:
@@ -102,10 +137,6 @@ For each tool, write:
 1. Pick one everyday task. Which part should be a tool?
 2. What goes wrong if a tool is too broad?
 3. Why is observation as important as action?
-
-## What this means in practice
-The best agent systems are usually not the ones with the most tools.
-They are the ones with the right tools, clear permissions, and clean feedback loops.
 
 ## Practical takeaway
 If the model needs to do something in the world, define a tool for it.

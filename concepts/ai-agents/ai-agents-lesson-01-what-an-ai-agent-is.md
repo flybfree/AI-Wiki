@@ -18,7 +18,16 @@ An AI agent is a system that works toward a goal by taking actions, observing re
 A chatbot answers.
 An agent tries to complete a task.
 
-That is the simplest useful distinction.
+That is the simplest useful distinction, but it leaves out the important part: the agent is not just the model. It is the model plus the tools, rules, memory, and control layer around it.
+
+## The simplest mental model
+Think of an agent as three parts working together:
+- **Model**: proposes the next step
+- **Harness**: decides what the model is allowed to do
+- **Environment**: gives the result back after an action
+
+The model can suggest a next move, but the harness decides whether that move is allowed and how it gets executed.
+The environment answers back with evidence, errors, or changes in the world.
 
 ## The core loop
 Most agent systems follow a version of this loop:
@@ -29,7 +38,7 @@ Most agent systems follow a version of this loop:
 5. update the plan
 6. repeat until done or stopped
 
-The model is still the brain, but the agent is the whole system around the brain.
+That loop is what turns a language model from a one-shot responder into a system that can keep working over time.
 
 ## What makes a system feel agentic
 A system feels agentic when it can:
@@ -38,6 +47,9 @@ A system feels agentic when it can:
 - respond to feedback from the environment
 - recover from mistakes and try again
 - carry state across steps
+
+If a system can only produce a reply, it is still just chat.
+If it can inspect the situation, act, and adapt, it is becoming an agent.
 
 ## What an agent is not
 - not every chatbot is an agent
@@ -48,11 +60,23 @@ A system feels agentic when it can:
 A single response from a model does not automatically mean the system is agentic.
 The agent label only fits when the system can actually pursue a goal over time.
 
+## Workflow, chatbot, and agent
+A useful way to compare them:
+
+- **Chatbot**: answers the user in text
+- **Workflow**: follows a prescribed sequence of steps
+- **Agent**: can choose the next step inside a guided loop
+
+A workflow is usually easier to test because its path is fixed.
+An agent is more flexible because it can adapt when the environment changes.
+
 ## Why this matters
 Agents are useful when the task is messy, multi-step, and too dynamic for one perfect prompt.
 They are also riskier than plain chat because they can do something incorrect, not just say something incorrect.
 
 That tradeoff is the whole story of the course.
+The course is really about one question:
+**How do you get useful autonomy without losing control?**
 
 ## Concrete examples
 ### Example 1: support triage
@@ -65,6 +89,7 @@ A research agent searches the web, collects sources, compares them, and drafts a
 A coding agent reads the issue, edits files, runs tests, and fixes failures.
 
 In each case, the system is not just generating text. It is trying to make progress.
+Each step changes what the next step should be.
 
 ## Agent vs workflow
 A workflow is a fixed or lightly guided sequence of steps.
@@ -101,6 +126,14 @@ Agents help less when the task is:
 - deterministic
 - easily scripted
 - high-risk and hard to supervise
+
+## Where the definition breaks down
+Some systems sit in the middle.
+A scripted workflow with one conditional branch may look agentic even though it is mostly deterministic.
+A chat model with a retrieval step may look like an agent even if it never really chooses among actions.
+
+That is normal.
+The useful question is not “is it perfectly pure?” but “does this architecture need goal-directed action?”
 
 ## Build this
 Create a simple agent spec on paper:

@@ -18,6 +18,7 @@ It is intentionally practical: the point is to understand when an agent helps, w
 - Show one concrete workflow per concept
 - Prefer plain-language definitions on first use
 - Add research detail only after the framework is clear
+- Make the explanation detailed enough that each lesson can stand on its own
 
 ## What the series covers
 - What an agent is and what it is not
@@ -37,6 +38,7 @@ It is intentionally practical: the point is to understand when an agent helps, w
 - Each lesson should fit in a focused 30 to 60 minute read
 - The first pass should be readable without code
 - Code examples can be added later as a second layer
+- The lesson text should be detailed enough that a reader can understand the idea without having to infer the missing steps
 
 ## Success criteria
 A reader should be able to:

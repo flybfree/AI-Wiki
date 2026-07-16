@@ -17,8 +17,9 @@ The goal is to start with the simplest definition, then build up the pieces that
 - Start with the agent loop before naming frameworks
 - Use concrete workflow examples instead of abstract theory
 - Add research depth after the framework is stable
+- Give every lesson a fuller explanation, a worked example, failure modes, and a build task
 - Include review questions, exercises, and a small build task in every lesson
-- Keep lessons short enough to be reviewed and revised quickly
+- Keep lessons detailed enough to teach the idea without requiring a second source
 
 ## Lesson map
 1. [[ai-agents-lesson-01-what-an-ai-agent-is.md|Lesson 1: What an AI Agent Is]]
