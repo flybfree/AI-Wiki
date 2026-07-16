@@ -1,11 +1,11 @@
 ---
-title: "AI Agents Lesson 2 - Tools, Actions, and Observation Loops"
+title: "AI Agents Lesson 3 - Tools, Actions, and Observation Loops"
 date: 2026-07-16
 status: draft
 tags: [lesson, agents, tools]
 ---
 
-# Lesson 2: Tools, Actions, and Observation Loops
+# Lesson 3: Tools, Actions, and Observation Loops
 
 **Source**: [OpenAI Agents SDK](https://developers.openai.com/api/docs/guides/agents) · [OpenAI Building agents](https://developers.openai.com/tracks/building-agents) · [LangGraph agents docs](https://docs.langchain.com/oss/python/langchain/agents)
 

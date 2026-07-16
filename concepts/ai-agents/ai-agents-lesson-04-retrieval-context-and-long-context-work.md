@@ -1,11 +1,11 @@
 ---
-title: "AI Agents Lesson 4 - Retrieval, Context, and Long-Context Work"
+title: "AI Agents Lesson 5 - Retrieval, Context, and Long-Context Work"
 date: 2026-07-16
 status: draft
 tags: [lesson, agents, retrieval, context]
 ---
 
-# Lesson 4: Retrieval, Context, and Long-Context Work
+# Lesson 5: Retrieval, Context, and Long-Context Work
 
 **Source**: [Agents-K1: Towards Agent-native Knowledge Orchestration](https://arxiv.org/abs/2606.13669) · [Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053) · [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/)
 

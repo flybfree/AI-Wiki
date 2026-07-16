@@ -1,11 +1,11 @@
 ---
-title: "AI Agents Lesson 5 - Guardrails, Evaluation, and Reliability"
+title: "AI Agents Lesson 6 - Guardrails, Evaluation, and Reliability"
 date: 2026-07-16
 status: draft
 tags: [lesson, agents, safety, evaluation]
 ---
 
-# Lesson 5: Guardrails, Evaluation, and Reliability
+# Lesson 6: Guardrails, Evaluation, and Reliability
 
 **Source**: [Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio](https://arxiv.org/abs/2606.17041) · [A Survey on Evaluation of LLM-based Agents](https://arxiv.org/html/2503.16416v2) · [Evaluation and Benchmarking of LLM Agents: A Survey](https://arxiv.org/html/2507.21504v1) · [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/)
 

@@ -169,6 +169,8 @@ Before building an agent, ask:
 
 If it needs to act, you are in agent territory.
 
+The next lesson shows how the harness turns that idea into a runnable loop.
+
 ## Key takeaways
 - An agent is a goal-seeking system that can take actions.
 - The key difference from chat is action plus observation plus iteration.

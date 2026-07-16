@@ -32,11 +32,12 @@ tags: ['wiki']
 |- [[concepts/ai-agents/ai-agents-syllabus.md|AI Agents Syllabus]] — teaching principles and scope
 |- [[concepts/ai-agents/ai-agents-course-map.md|AI Agents Course Map]] — lesson sequence and prerequisites
 |- [[concepts/ai-agents/ai-agents-lesson-01-what-an-ai-agent-is.md|Lesson 1: What an AI Agent Is]]
-|- [[concepts/ai-agents/ai-agents-lesson-02-tools-actions-and-observation-loops.md|Lesson 2: Tools, Actions, and Observation Loops]]
-|- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|Lesson 3: Planning, Memory, and State]]
-|- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|Lesson 4: Retrieval, Context, and Long-Context Work]]
-|- [[concepts/ai-agents/ai-agents-lesson-05-guardrails-evaluation-and-reliability.md|Lesson 5: Guardrails, Evaluation, and Reliability]]
-|- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|Lesson 6: Single-Agent and Multi-Agent Architectures]]
+|- [[concepts/ai-agents/ai-agents-lesson-02-harness-implementing-an-agent.md|Lesson 2: The Harness: Implementing an Agent]]
+|- [[concepts/ai-agents/ai-agents-lesson-02-tools-actions-and-observation-loops.md|Lesson 3: Tools, Actions, and Observation Loops]]
+|- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|Lesson 4: Planning, Memory, and State]]
+|- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|Lesson 5: Retrieval, Context, and Long-Context Work]]
+|- [[concepts/ai-agents/ai-agents-lesson-05-guardrails-evaluation-and-reliability.md|Lesson 6: Guardrails, Evaluation, and Reliability]]
+|- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|Lesson 7: Single-Agent and Multi-Agent Architectures]]
 ## Start Here
 
 - [[concepts/ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]

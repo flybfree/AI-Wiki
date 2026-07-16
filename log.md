@@ -8,6 +8,7 @@ tags: ['wiki']
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
 ## AI Research Engine Audit Log
+## [2026-07-16 00:00] expand | concepts/ai-agents/* added harness lesson and shifted lesson sequence
 ## [2026-07-15 00:00] create | concepts/ai-agents/*, index.md
 ## [2026-07-15 00:00] flesh-out | concepts/ai-agents/* lessons expanded with research and examples
 ## [2026-07-15 00:00] expand | concepts/ai-agents/* added exercises, review checklists, and build-this prompts

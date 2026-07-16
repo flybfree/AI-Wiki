@@ -1,11 +1,11 @@
 ---
-title: "AI Agents Lesson 3 - Planning, Memory, and State"
+title: "AI Agents Lesson 4 - Planning, Memory, and State"
 date: 2026-07-16
 status: draft
 tags: [lesson, agents, memory, planning]
 ---
 
-# Lesson 3: Planning, Memory, and State
+# Lesson 4: Planning, Memory, and State
 
 **Source**: [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [EurekAgent paper](http://arxiv.org/abs/2606.13662v1) · [LangGraph agents docs](https://docs.langchain.com/oss/python/langchain/agents)
 

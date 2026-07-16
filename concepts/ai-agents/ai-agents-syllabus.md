@@ -22,6 +22,7 @@ It is intentionally practical: the point is to understand when an agent helps, w
 
 ## What the series covers
 - What an agent is and what it is not
+- The harness that implements the loop
 - Tool calling and environment interaction
 - Planning, memory, and state management
 - Retrieval and long-context workflows
@@ -38,11 +39,12 @@ It is intentionally practical: the point is to understand when an agent helps, w
 - Each lesson should fit in a focused 30 to 60 minute read
 - The first pass should be readable without code
 - Code examples can be added later as a second layer
-- The lesson text should be detailed enough that a reader can understand the idea without having to infer the missing steps
+- The lesson text should be detailed enough that a reader can understand the idea without having to infer the missing steps, including the harness layer
 
 ## Success criteria
 A reader should be able to:
 - explain an AI agent in one sentence
+- explain what the harness does and why it matters
 - identify the main parts of an agent loop
 - tell when a workflow needs tools, memory, or retrieval
 - recognize the main reliability risks

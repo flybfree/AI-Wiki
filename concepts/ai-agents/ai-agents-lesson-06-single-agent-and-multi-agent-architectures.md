@@ -1,11 +1,11 @@
 ---
-title: "AI Agents Lesson 6 - Single-Agent and Multi-Agent Architectures"
+title: "AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures"
 date: 2026-07-16
 status: draft
 tags: [lesson, agents, architecture, multi-agent]
 ---
 
-# Lesson 6: Single-Agent and Multi-Agent Architectures
+# Lesson 7: Single-Agent and Multi-Agent Architectures
 
 **Source**: [LangGraph](https://www.langchain.com/langgraph) · [OpenAI Agent Builder](https://developers.openai.com/api/docs/guides/agent-builder) · [TrustedARI: Towards Trust-Native Agentic Routing Infrastructure for Agentic AI](https://arxiv.org/abs/2606.15822)
 

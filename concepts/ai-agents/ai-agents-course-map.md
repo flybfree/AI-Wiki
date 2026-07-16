@@ -11,11 +11,12 @@ tags: [ai, agents, course-map]
 
 ## Sequence
 1. What an AI Agent Is
-2. Tools, Actions, and Observation Loops
-3. Planning, Memory, and State
-4. Retrieval, Context, and Long-Context Work
-5. Guardrails, Evaluation, and Reliability
-6. Single-Agent and Multi-Agent Architectures
+2. The Harness: Implementing an Agent
+3. Tools, Actions, and Observation Loops
+4. Planning, Memory, and State
+5. Retrieval, Context, and Long-Context Work
+6. Guardrails, Evaluation, and Reliability
+7. Single-Agent and Multi-Agent Architectures
 
 ## Suggested prerequisite arc
 - Basic LLM prompting
@@ -24,12 +25,13 @@ tags: [ai, agents, course-map]
 
 ## Where the content should land
 - Lesson 1 defines the system
-- Lesson 2 defines the action loop
-- Lesson 3 defines state across steps
-- Lesson 4 defines how outside knowledge enters the loop
-- Lesson 5 defines how to keep the system safe and measurable
-- Lesson 6 defines which architecture to pick
+- Lesson 2 defines the implementation loop
+- Lesson 3 defines the action loop
+- Lesson 4 defines state across steps
+- Lesson 5 defines how outside knowledge enters the loop
+- Lesson 6 defines how to keep the system safe and measurable
+- Lesson 7 defines which architecture to pick
 
 ## Capstone question
 After reading the series, the reader should be able to answer:
-> Should this system be a prompt, a workflow, a single agent, or a multi-agent architecture?
+> Should this system be a prompt, a workflow, a harnessed agent, a single agent, or a multi-agent architecture?
