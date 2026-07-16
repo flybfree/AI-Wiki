@@ -221,6 +221,21 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-15_17-58-00Z_Leveragingunlabelleddataforgeneralizableneuralpopu.md]] : Leveraging unlabelled data for generalizable neural population decoding
+- [[2026-07-15_17-56-11Z_LinearIndependentComponentAnalysisviaOptimalTransp.md]] : Linear Independent Component Analysis via Optimal Transport
+- [[2026-07-15_17-38-02Z_ScreeningofBiosecurityFeaturesinMetagenomicDatawit.md]] : Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes
+- [[2026-07-15_17-21-43Z_Hindcast_ReplayingPredictionMarketstoEvaluateLLMFo.md]] : Hindcast: Replaying Prediction Markets to Evaluate LLM Forecasters
+- [[2026-07-15_17-42-41Z_MetaPerch_Learningfrommetadataforbioacousticsfound.md]] : MetaPerch: Learning from metadata for bioacoustics foundation models
+- [[2026-07-15_17-05-06Z_EarlyAdoptionofAgenticCodingToolsbyGitHubProjects.md]] : Early Adoption of Agentic Coding Tools by GitHub Projects
+- [[2026-07-15_16-36-54Z_RethinkingPenetrationTestingforAI_EnabledSystems_F.md]] : Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation
+- [[2026-07-15_16-37-57Z_LighthouseRL_Sample_EfficientCircuitOptimizationvi.md]] : Lighthouse RL: Sample-Efficient Circuit Optimization via Strategic Reset Points
+- [[2026-07-15_17-16-43Z_DeepInteraction_AnEfficientHuman_AIInteractionMeth.md]] : Deep Interaction: An Efficient Human-AI Interaction Method for Large Reasoning Models
+- [[2026-07-15_16-55-42Z_ImprovingWindandSolarPowerPredictionwithEfficientW.md]] : Improving Wind and Solar Power Prediction with Efficient Wrapper-based Feature Selection: An Empirical Study
+- [[2026-07-15_16-50-43Z_TransformingRank_HowArchitectureNavigatestheSpectr.md]] : Transforming Rank: How Architecture Navigates the Spectral Pathologies of Depth
+- [[2026-07-15_17-12-37Z_Multi_ExpertRoutingforMulti_DomainLow_ResourceOCR_.md]] : Multi-Expert Routing for Multi-Domain Low-Resource OCR: A Manchu Case Study
+- [[2026-07-15_17-15-16Z_Earthquaker_AI_ARetrieval_AugmentedGenerationFrame.md]] : Earthquaker-AI: A Retrieval-Augmented Generation Framework with Rubric-Based Assessment for Primary School Earthquake Education
+- [[2026-07-15_17-14-03Z_AI_acceleratedEnd_to_EndFrameworkforRapidProfessio.md]] : AI-accelerated End-to-End Framework for Rapid Professional Upskilling
+- [[2026-07-15_17-10-24Z_CananOldDogBeTaughtNewTricks_TakingLLMsBeyondSente.md]] : Can an Old Dog Be Taught New Tricks? Taking LLMs Beyond Sentence Level Translation
 - [[2026-07-14_17-59-02Z_TerraZero_ProceduralDrivingSimulationforZero_Demon.md]] : TerraZero: Procedural Driving Simulation for Zero-Demonstration Self-Play at Scale
 - [[2026-07-14_17-53-22Z_Audio_NativeSpeechRecognitionwithaFrozenDiscrete_D.md]] : Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model
 - [[2026-07-14_17-49-52Z_WatermarkForensicsforGenerativeModels_AnInformatio.md]] : Watermark Forensics for Generative Models: An Information-Theoretic Perspective
