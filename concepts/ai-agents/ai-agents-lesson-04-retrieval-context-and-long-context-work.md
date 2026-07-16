@@ -1,6 +1,6 @@
 ---
 title: "AI Agents Lesson 4 - Retrieval, Context, and Long-Context Work"
-date: 2026-07-15
+date: 2026-07-16
 status: draft
 tags: [lesson, agents, retrieval, context]
 ---

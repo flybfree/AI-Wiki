@@ -1,6 +1,6 @@
 ---
 title: "AI Agents Lesson 1 - What an AI Agent Is"
-date: 2026-07-15
+date: 2026-07-16
 status: draft
 tags: [lesson, agents, foundations]
 ---

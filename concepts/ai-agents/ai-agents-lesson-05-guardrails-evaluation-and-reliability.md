@@ -1,6 +1,6 @@
 ---
 title: "AI Agents Lesson 5 - Guardrails, Evaluation, and Reliability"
-date: 2026-07-15
+date: 2026-07-16
 status: draft
 tags: [lesson, agents, safety, evaluation]
 ---

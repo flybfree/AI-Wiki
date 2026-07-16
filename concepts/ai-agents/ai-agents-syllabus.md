@@ -1,6 +1,6 @@
 ---
 title: "AI Agents Syllabus"
-date: 2026-07-15
+date: 2026-07-16
 status: draft
 tags: [ai, agents, syllabus, course]
 ---

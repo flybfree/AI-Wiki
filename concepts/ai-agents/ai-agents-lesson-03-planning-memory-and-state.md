@@ -1,6 +1,6 @@
 ---
 title: "AI Agents Lesson 3 - Planning, Memory, and State"
-date: 2026-07-15
+date: 2026-07-16
 status: draft
 tags: [lesson, agents, memory, planning]
 ---
