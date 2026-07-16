@@ -52,6 +52,80 @@ A simple agent harness usually does four things repeatedly:
 That is enough to create a basic agent.
 Everything else is refinement.
 
+## End-to-end example
+Here is a full walk-through of one harnessed run for a support assistant.
+
+### Scenario
+A customer asks: “Can I get a refund for last month’s charge?”
+
+The harness needs to:
+- inspect the ticket
+- look up the refund policy
+- check the account status
+- draft a reply
+- stop for approval before sending
+
+### Step-by-step run
+#### 1. Load state
+The harness starts with:
+- the customer message
+- the customer ID
+- the current ticket ID
+- an empty action history
+- a `needs_approval` flag set to `False`
+
+#### 2. Ask the model for the next action
+The prompt includes the goal, current state, and allowed tools.
+The model returns something like:
+```json
+{"type":"tool","name":"search_policy","args":{"query":"refund eligibility last month charge"}}
+```
+
+#### 3. Policy check
+The harness checks whether `search_policy` is allowed.
+It is read-only, so the action is approved.
+
+#### 4. Run the tool
+The tool returns:
+- policy title
+- excerpt
+- effective date
+- link to the source
+
+#### 5. Add the observation to state
+The harness appends the result to history and rebuilds the prompt.
+Now the model can see the actual policy text instead of guessing.
+
+#### 6. Ask for the next action
+The model now returns:
+```json
+{"type":"tool","name":"check_account_status","args":{"customer_id":"12345"}}
+```
+
+#### 7. Run the second tool
+The harness checks permissions, runs the lookup, and gets back:
+- customer is within the refund window
+- payment method is valid
+- no prior refund has been issued
+
+#### 8. Draft the response
+The model returns a draft reply:
+```json
+{"type":"final","content":"The account appears eligible for a refund. Please confirm and I can submit it."}
+```
+
+#### 9. Approval gate
+Because the next real action would be an external customer message, the harness pauses.
+A human reviews the draft and either approves or edits it.
+
+#### 10. Finish
+Once approved, the harness sends the message and records the trace.
+The trace now shows exactly what the agent saw, did, and decided.
+
+### Why this example matters
+This is the difference between “a model that can talk about support” and “an agent that can actually work a support case.”
+The harness turns the model’s suggestions into a controlled operational flow.
+
 ## Minimal Python sketch
 ```python
 class Harness:
@@ -90,6 +164,21 @@ That code is not production ready, but it shows the shape.
 The harness owns the loop.
 The tools do the work.
 The model makes the next-step suggestion.
+
+
+## Sample trace
+A trace for the support example might look like:
+
+1. Goal: answer the refund question safely
+2. Tool call: `search_policy`
+3. Observation: refund policy found, effective this month
+4. Tool call: `check_account_status`
+5. Observation: customer eligible
+6. Final draft: approval requested before sending
+7. Human review: approved
+8. Completion: message sent and logged
+
+A trace is useful because it lets you debug the decision path instead of only the final answer.
 
 ## What each piece does
 ### Model
