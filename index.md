@@ -222,6 +222,26 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-16_17-59-02Z_MeanFlowNFT_BringingForward_ProcessRLtoAverage_Vel.md]] : MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators
+- [[2026-07-16_17-51-23Z_SearchOS_V1_TowardsRobustOpen_DomainInformation_Se.md]] : SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration
+- [[2026-07-16_17-59-06Z_RoboTTT_ContextScalingforRobotPolicies.md]] : RoboTTT: Context Scaling for Robot Policies
+- [[2026-07-16_17-58-18Z_OnlineNeuralSpaceTimeMemoryforDynamicNovelViewSynt.md]] : Online Neural Space Time Memory for Dynamic Novel View Synthesis
+- [[2026-07-16_17-52-26Z_DecodingMarketEmotionfromBlockchainActivity_AData_.md]] : Decoding Market Emotion from Blockchain Activity: A Data-Driven Sentiment Classifier
+- [[2026-07-16_17-56-05Z_PretrainingDataCanBePoisonedthroughComputationalPr.md]] : Pretraining Data Can Be Poisoned through Computational Propaganda
+- [[2026-07-16_17-59-31Z_Partition_Prompt_Aggregate_StatisticalSelf_Consist.md]] : Partition, Prompt, Aggregate: Statistical Self-Consistency in Language Models
+- [[2026-07-16_17-58-36Z_SciDiagramEdit_LearningtoEditScientificDiagramsfro.md]] : SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions
+- [[2026-07-16_17-55-15Z_SceneBind_BindingWhatandWhereAcrossVision_Audioand.md]] : SceneBind: Binding What and Where Across Vision, Audio and Language
+- [[2026-07-16_17-54-47Z_BeyondSuccessRate_Cost_AwareEvaluationofOffensivea.md]] : Beyond Success Rate: Cost-Aware Evaluation of Offensive and Defensive Security Agents
+- [[2026-07-16_16-34-48Z_RTSSmoother_GuidedLearningofPhysics_BasedNeuralDif.md]] : RTS Smoother-Guided Learning of Physics-Based Neural Differential Models
+- [[2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation.md]] : Can We Trust Item Response Theory for AI Evaluation?
+- [[2026-07-16_17-04-15Z_BadWAM_WhenWorld_ActionModelsDreamRightbutActWrong.md]] : BadWAM: When World-Action Models Dream Right but Act Wrong
+- [[2026-07-16_16-59-54Z_Self_EvolvingHuman_CenteredFrameworkforExplainable.md]] : Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation
+- [[2026-07-16_16-57-34Z_Mask_AwarePolicyGradientsforDiffusionLanguageModel.md]] : Mask-Aware Policy Gradients for Diffusion Language Models
+- [[2026-07-16_16-52-54Z_SubjectiveRiskDecomposition_ANewViewforUncertainty.md]] : Subjective Risk Decomposition: A New View for Uncertainty Quantification
+- [[2026-07-16_17-02-25Z_MM_IssueLoc_AControlledBenchmarkforEvaluatingVisua.md]] : MM-IssueLoc: A Controlled Benchmark for Evaluating Visual Evidence in Multimodal Repository-Level Issue Localization
+- [[2026-07-16_16-48-39Z_Plover_SteeringGUIAgentsthroughPlan_CentricInterac.md]] : Plover: Steering GUI Agents through Plan-Centric Interaction
+- [[2026-07-16_17-08-28Z_ExpandingtheLexiconofGe_ezBasedAfricanLanguages_AC.md]] : Expanding the Lexicon of Ge'ez Based African Languages: A Comparative Study of Amharic and Tigrinya
+- [[2026-07-16_17-07-42Z_DelocalizationofbiasinunadjustedHamiltonianMonteCa.md]] : Delocalization of bias in unadjusted Hamiltonian Monte Carlo and underdamped Langevin
 - [[2026-07-15_17-58-00Z_Leveragingunlabelleddataforgeneralizableneuralpopu.md]] : Leveraging unlabelled data for generalizable neural population decoding
 - [[2026-07-15_17-56-11Z_LinearIndependentComponentAnalysisviaOptimalTransp.md]] : Linear Independent Component Analysis via Optimal Transport
 - [[2026-07-15_17-38-02Z_ScreeningofBiosecurityFeaturesinMetagenomicDatawit.md]] : Screening of Biosecurity Features in Metagenomic Data with Evo 2 Probes
@@ -928,3 +948,4 @@ tags: ['wiki']
 - [[2026-07-16_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
 - [[2026-07-16_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
 - [[2026-07-16_TheBestLargeLanguageModels_LLMs_in2026.md]] : The Best Large Language Models (LLMs) in 2026
+- [[2026-07-16_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
