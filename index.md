@@ -949,3 +949,12 @@ tags: ['wiki']
 - [[2026-07-16_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
 - [[2026-07-16_TheBestLargeLanguageModels_LLMs_in2026.md]] : The Best Large Language Models (LLMs) in 2026
 - [[2026-07-16_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
+- [[2026-07-17_Deeplearningarchitectures.md]] : Deep learning architectures
+- [[2026-07-17_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
+- [[2026-07-17_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[2026-07-17_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[2026-07-17_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
+- [[2026-07-17_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[2026-07-17_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[2026-07-17_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
+- [[2026-07-17_TheBestLargeLanguageModels_LLMs_in2026.md]] : The Best Large Language Models (LLMs) in 2026
