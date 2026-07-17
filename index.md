@@ -958,3 +958,4 @@ tags: ['wiki']
 - [[2026-07-17_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
 - [[2026-07-17_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
 - [[2026-07-17_TheBestLargeLanguageModels_LLMs_in2026.md]] : The Best Large Language Models (LLMs) in 2026
+- [[2026-07-17_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
