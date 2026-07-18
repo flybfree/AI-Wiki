@@ -1080,3 +1080,5 @@ tags: ['wiki']
 ## [2026-07-17 00:00] ingest | 2026-07-17_GenerativeAInewsandanalysis_TechCrunch.md
 ## [2026-07-17 01:00] ingest | 2026-07-17_TheBestLargeLanguageModels_LLMs_in2026.md
 ## [2026-07-17 07:00] ingest | 2026-07-17_ArtificialIntelligenceNews--ScienceDaily.md
+## [2026-07-17 19:00] ingest | 2026-07-17_Top7opensourceLLMsfor2026.md
+## [2026-07-17 20:00] ingest | 2026-07-17_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md

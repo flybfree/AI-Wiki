@@ -959,3 +959,5 @@ tags: ['wiki']
 - [[2026-07-17_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
 - [[2026-07-17_TheBestLargeLanguageModels_LLMs_in2026.md]] : The Best Large Language Models (LLMs) in 2026
 - [[2026-07-17_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
+- [[2026-07-17_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
+- [[2026-07-17_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
