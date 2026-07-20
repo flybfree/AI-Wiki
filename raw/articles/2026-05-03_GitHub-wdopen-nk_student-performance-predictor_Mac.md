@@ -12,7 +12,7 @@ scraped: "2026-05-03 04:32"
 
 ## Summary
 
-Placeholder summary — please add a concise summary.
+A C# and ML.NET student-performance predictor project that combines a binary classification model with an ASP.NET Core API and prediction history storage.
 
 
 

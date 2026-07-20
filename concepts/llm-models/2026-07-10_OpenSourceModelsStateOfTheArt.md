@@ -72,3 +72,7 @@ This subsection is for models that matter because they can actually be run, tune
 - [LLM Release Tracker](2026-07-10_LLMReleaseTracker.md)
 - [LLM Model Evolution](2026-06-10_LLMModelEvolution.md)
 - [Inference Layer: Quantized Models, GGUF, and Local Use](../self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md)
+
+## Related navigation
+
+- [[AI Research Wiki — Topic Index]]

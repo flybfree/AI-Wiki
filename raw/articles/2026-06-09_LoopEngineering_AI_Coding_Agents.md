@@ -8,7 +8,7 @@ tags: [agents, loop-engineering, ai-coding, agentic-workflows, re-act]
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Loop engineering describes a goal-driven control loop for AI coding agents: act, observe, decide, and repeat until the task is actually complete.
 
 
 # Loop Engineering: The New Meta for AI Coding Agents

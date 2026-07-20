@@ -9,20 +9,18 @@ source_url: https://medium.com/@rijuldahiya/the-architecture-of-machine-learning
 scraped: "2026-06-11 00:00"
 
 ---
+# The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+A short technical explainer on the foundations of machine learning system architecture. The piece focuses on representation learning, non-linear function approximation, and the infrastructure needed to support them.
 
+## Key points
 
-
-# The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-
-**Source**: [Original Article](https://medium.com/@rijuldahiya/the-architecture-of-machine-learning-systems-a-comprehensive-guide-part-1-7d5d9c3ac380)
-
-## Full Article
-
-<strong>It starts with the mathematical foundations of representation learning and non-linear function approximation</strong>. It is enabled by DL frameworks that abstract complex differentiation and computation graphs.
+- Centers on the mathematical foundations of ML systems
+- Connects deep learning frameworks to computation graphs and differentiation
+- Functions as an introductory architecture note rather than a deep implementation guide
 
 ## Metadata
-- **Source URL**: https://medium.com/@rijuldahiya/the-architecture-of-machine-learning-systems-a-comprehensive-guide-part-1-7d5d9c3ac380
+
+- **Source**: [Original Article](https://medium.com/@rijuldahiya/the-architecture-of-machine-learning-systems-a-comprehensive-guide-part-1-7d5d9c3ac380)

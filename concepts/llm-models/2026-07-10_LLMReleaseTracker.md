@@ -140,3 +140,7 @@ Copy this block when adding the next release wave:
 - [Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price](../../articles/2026-07-10_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md)
 - [New LLM Releases April 2026: Every Major Model Launch This Month](../../articles/2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md)
 - [LLM Release Tracker archive](2026-07-10_LLMReleaseTracker-archive.md)
+
+## Related navigation
+
+- [[AI Research Wiki — Topic Index]]

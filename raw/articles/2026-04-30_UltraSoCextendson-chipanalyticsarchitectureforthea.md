@@ -12,7 +12,7 @@ scraped: "2026-04-30 08:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+UltraSoC extends on-chip analytics architecture for the age of machine learning, artificial intelligence and parallel computing Addresses complex multicore systems for automotive, storage, at-scale computing February 15, 2019 -- UltraSoC to…
 
 
 

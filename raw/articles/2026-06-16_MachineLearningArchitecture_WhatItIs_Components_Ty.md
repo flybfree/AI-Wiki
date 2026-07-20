@@ -9,18 +9,19 @@ source_url: https://lakefs.io/blog/machine-learning-architecture/
 scraped: "2026-06-16 00:00"
 
 ---
+# Machine Learning Architecture: What It Is, Components & Types
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Explains machine learning architecture as the blueprint for data ingestion, storage, versioning, evaluation, deployment, and retraining. The recurring theme is that good ML systems are built around scalable data pipelines, reproducibility, and continuous monitoring.
 
+## Key points
 
-
-# Machine Learning Architecture: What It Is, Components & Types
-
-## Full Article
-
-ML architecture structures the full lifecycle: Machine learning architecture <strong>defines how data is processed, models are trained and evaluated, and predictions are generated, acting as a blueprint tailored to specific use cases and system requirements</strong>.
+- Architecture defines how data flows through training, evaluation, and inference
+- Ingestion quality, storage, and version control strongly affect model reliability
+- Monitoring and retraining keep models aligned with production reality
+- Scalable storage and reproducibility are core design constraints
 
 ## Metadata
+
 - **Source**: [Original Article](https://lakefs.io/blog/machine-learning-architecture/)

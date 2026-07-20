@@ -362,3 +362,7 @@ For a living wiki, this page should be updated on a new date when the leaderboar
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]]
 - [[concepts/2026-06-09_AIIndustryAndNewsHub.md|AI Industry & News Hub]]
 - [[concepts/2026-06-09_AIResearchPapersHub.md|AI Research Papers Hub]]
+
+## Related navigation
+
+- [[AI Research Wiki — Topic Index]]

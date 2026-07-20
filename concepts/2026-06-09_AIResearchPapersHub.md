@@ -5,8 +5,6 @@ tags: ['concept', 'ai', 'ml']
 ---
 # AI Research Papers Hub
 
-
-
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 ## Overview
 
@@ -137,7 +135,6 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-05-12_11-40-49Z_ATransferLearningEvaluationofDeepNeuralNetworksfor.md|Transfer Learning Evaluation]]
 - [[2026-05-12_17-55-10Z_MEME_Multi_entity_EvolvingMemoryEvaluation.md|MEME]]
 
-
 - [[2026-05-12_17-57-48Z_BeyondGRPOandOn_PolicyDistillation_AnEmpiricalSpar.md|Beyond GRPO]]
 - [[2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md|Learning Fast and Slow]]
 - [[2026-05-12_17-58-27Z_Task_AdaptiveEmbeddingRefinementviaTest_timeLLMGui.md|Task-Adaptive Embedding]]
@@ -145,6 +142,7 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-05-12_17-59-34Z_LongMemEval_V2_EvaluatingLong_TermAgentMemoryTowar.md|LongMemEval v2]]
 - [[2026-05-12_17-59-34Z_Pion_ASpectrum_PreservingOptimizerviaOrthogonalEqu.md|Pion]]
 - [[2026-05-12_17-59-47Z_AlphaGRPO_UnlockingSelf_ReflectiveMultimodalGenera.md|AlphaGRPO]]
+
 - [[2026-05-13_11-20-52Z_BuildingInteractiveReal_TimeAgentswithAsynchronous.md|Building Interactive Real-Time Agents]]
 - [[Constitutional Governance in Metric Spaces|Constitutional Governance]]
 - [[2026-05-13_11-26-28Z_NeuralSurrogateForwardModellingForElectrocardiolog.md|Neural Surrogate Forward Modelling]]
@@ -194,7 +192,6 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[Generative AI|Generative AI for Utility Billing]]
 - [[2026-05-15_17-58-58Z_DesigningDatacenterPowerDeliveryHierarchiesfortheA.md|Datacenter Power Delivery]]
 - [[2026-05-15_17-59-57Z_IVGT_ImplicitVisualGeometryTransformerforNeuralSce.md|IVGT]]
-
 
 - [[2026-05-18_10-43-02Z_ConciseandLogicallyConsistentConformalSetsforNeuro.md|Conformal Sets]]
 - [[2026-05-18_10-43-36Z_Forward_LearnedDiscreteDiffusion_Learninghowtonois.md|Forward-Learned Discrete Diffusion]]
@@ -278,7 +275,6 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-05-25_17-53-18Z_Goal_drivenBayesianOptimalExperimentalDesignforRob.md|Goal-Driven Bayesian Optimal]]
 
 - [[Language Models Need Sleep|Language Models Need Sleep]]
-
 
 - [[2026-05-25_17-59-28Z_Prism_APlug_inReproducibleInfrastructureforScalabl.md|Prism]]
 - [[2026-05-25_17-59-35Z_SqueezingCapacityfromMultimodalLargeLanguageModels.md|Squeezing Capacity]]
@@ -431,6 +427,10 @@ This hub organizes the raw research papers collected from arXiv and other source
 - [[2026-06-08_15-51-51Z_SpatialWorld_BenchmarkingInteractiveSpatialReasoni.md|Spatial World]]
 - [[2026-06-08_15-52-05Z_VisualPromptingMeetsFeatureReconstruction_BasedAno.md|Visual Prompting]]
 - [[2026-06-08_15-54-10Z_Transition_BasedDigitalTwinModellingforAlzheimer_s.md|Transition-Based Digital Twin]]
+
+## Related navigation
+
+- [[AI Research Wiki — Topic Index]]
 
 - [[2026-06-08_15-57-14Z_Auto_formalizationissupposedtobeeasy_Trellisproces.md|Auto-Formalization]]
 - [[2026-06-08_15-58-31Z_MeCo_One_StepMeanFlow_basedCorrectorforMulti_Chann.md|MeCo]]

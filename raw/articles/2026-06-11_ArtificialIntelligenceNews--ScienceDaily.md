@@ -12,7 +12,7 @@ scraped: "2026-06-11 10:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Artificial Intelligence News June 9, 2026 Top Headlines Forget Electrons, This Breakthrough Uses Light-matter Particles to Power AI May 18, 2026 Â Researchers at Penn have created a hybrid light-matter particle that could dramatically spee…
 
 
 

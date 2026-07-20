@@ -12,7 +12,7 @@ scraped: "2026-06-10 20:58"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 Rijul Dahiya 5 min read Dec 7, 2025 Listen Share Press enter or click to view image in full size Photo by Ryan Unsplash The rapid ascent of Artificial Intelligence…
 
 
 

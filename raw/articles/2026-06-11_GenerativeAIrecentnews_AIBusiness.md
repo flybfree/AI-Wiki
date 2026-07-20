@@ -9,20 +9,12 @@ source_url: https://aibusiness.com/generative-ai
 scraped: "2026-06-11 00:00"
 
 ---
+# Generative AI recent news | AI Business
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
-
-
-
-# Generative AI recent news | AI Business
-
-**Source**: [Original Article](https://aibusiness.com/generative-ai)
-
-## Full Article
-
-<strong>Bosch, Researchers Develop AI for Humanoid Dexterity</strong><strong>Bosch, Researchers Develop AI for Humanoid Dexterity</strong>
+<strong>Bosch, Researchers Develop AI for Humanoid Dexterity</strong>
 
 ## Metadata
-- **Source URL**: https://aibusiness.com/generative-ai
+
+- **Source**: [Original Article](https://aibusiness.com/generative-ai)

@@ -12,7 +12,7 @@ scraped: "2026-06-12 00:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Artificial Intelligence News June 11, 2026 Top Headlines A Classic Brain Test Exposed AI's Biggest Weakness June 10, 2026 Â Researchers gave top AI models a classic attention test used in psychology and found a major flaw. While the models…
 
 
 

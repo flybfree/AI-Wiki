@@ -12,7 +12,7 @@ scraped: "2026-05-03 16:36"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Explains how JavaScript's `new` keyword constructs objects and what happens under the hood.
 
 
 

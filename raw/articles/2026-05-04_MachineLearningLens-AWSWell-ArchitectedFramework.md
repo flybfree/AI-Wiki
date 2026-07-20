@@ -12,7 +12,7 @@ scraped: "2026-05-04 03:57"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+View a markdown version of this page Machine Learning Lens - AWS Well-Architected Framework - Machine Learning Lens Documentation AWS Well-Architected AWS Well-Architected Framework Introduction Distinction from the Generative AI Lens Lens…
 
 
 

@@ -12,7 +12,7 @@ scraped: "2026-06-17 19:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Large language models (LLMs) are the main kind of text-handling AIs. ChatGPT, Google's AI answers, and Apple Intelligence are just a tiny handful of the apps that rely on them.
 
 
 

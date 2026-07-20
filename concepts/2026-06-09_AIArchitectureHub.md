@@ -5,8 +5,6 @@ tags: ['concept', 'ai', 'ml']
 ---
 # AI Architecture Hub
 
-
-
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 ## Overview
 
@@ -32,3 +30,7 @@ This hub organizes content related to AI system architecture — from ML pipelin
 - [[2026-05-12_17-58-20Z_Learning_FastandSlow_TowardsLLMsThatAdaptContinual.md]]
 - [[2026-05-09_1512.03385-deep-residual-learning-resnet.md]]
 - [[2026-04-23_17-59-54Z_TemporalTaskificationinStreamingContinualLearning_.md]]
+
+## Related navigation
+
+- [[AI Research Wiki — Topic Index]]

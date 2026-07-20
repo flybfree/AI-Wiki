@@ -12,7 +12,7 @@ scraped: "2026-06-15 00:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Artificial Intelligence News June 14, 2026 Top Headlines Brain-inspired Chip Runs Near Absolute Zero and Could Transform Quantum Computing June 12, 2026 Â Scientists at the University of Hong Kong have created a remarkable new type of brai…
 
 
 

@@ -12,7 +12,7 @@ scraped: "2026-05-06 00:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Science News from research organizations This new brain-like chip could slash AI energy use by 70% A tiny brain-inspired chip breakthrough could slash AI energy use while making machines smarter and more adaptable. Date: April 23, 2026 Sour…
 
 
 

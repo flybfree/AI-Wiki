@@ -7,7 +7,7 @@ tags: [sources, supervised-learning, classification, regression, metrics]
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+--- title: Supervised Learning Web Sources status: note date: 2026-05-07 tags: [sources, supervised-learning, classification, regression, metrics] ---
 
 
 # Supervised Learning Web Sources

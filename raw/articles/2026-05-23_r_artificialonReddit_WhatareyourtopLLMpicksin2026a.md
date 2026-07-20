@@ -12,7 +12,7 @@ scraped: "2026-05-23 00:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+It integrates real-time web data into your models, making it ideal for tasks requiring fresh information and citation-based answers. ...
 
 
 

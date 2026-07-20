@@ -12,7 +12,7 @@ scraped: "2026-05-04 07:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+At the inaugural MIT Generative AI Impact Consortium Symposium, researchers and business leaders discussed potential advancements centered on this powerful technology. Adam Zewe MIT News Publication Date September 19, 2025 Press Inquiries P…
 
 
 

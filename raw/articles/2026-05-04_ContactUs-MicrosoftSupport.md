@@ -12,7 +12,7 @@ scraped: "2026-05-04 06:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Skip to main content Keep in touch and stay productive with Teams and Microsoft 365, even when you're working remotely. Learn more Show expanded list of products Hide expanded list of products Microsoft 365 Access Excel OneDrive OneNote Out…
 
 
 

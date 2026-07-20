@@ -6,7 +6,7 @@ tags: ['article', 'news', 'ai']
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+--- title: "2026 05 07 Data Foundation Web Sources" date: 2026-05-07 tags: ['article', 'news', 'ai'] ---
 
 # Web sources for Lesson 3: Data as the Foundation of Learning
 

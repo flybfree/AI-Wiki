@@ -12,7 +12,7 @@ scraped: "2026-05-03 16:36"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Explains what `new()` means in C# object initialization and how it differs from older construction patterns.
 
 
 

@@ -9,9 +9,7 @@ tags: [llm-models, evolution]
 
 Placeholder summary — please add a concise summary.
 
-
 **Source**: [Original Article](https://arxiv.org/abs/2606.02373)
-
 
 ## LLM Model Evolution
 
@@ -96,3 +94,7 @@ Placeholder summary — please add a concise summary.
 - [[2026-04-25_TheArchitectureofMachineLearningSystems_AComprehen_article.md]]
 - [[2026-05-05_Top7opensourceLLMsfor2026_summary.md]]
 - [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker]] — current one-stop shop and chronological model-release log
+
+## Related navigation
+
+- [[AI Research Wiki — Topic Index]]

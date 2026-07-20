@@ -12,7 +12,7 @@ scraped: "2026-04-29 11:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+Explains the difference between C# object construction forms, especially `new object()` and newer shorthand initialization patterns.
 
 
 

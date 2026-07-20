@@ -12,7 +12,7 @@ scraped: "2026-04-30 19:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+This website uses cookies Read our Privacy policy and Terms of use for more information Accept Customize Decline Cut Through the Noise. Stay sharp with AI insights that matter.
 
 
 

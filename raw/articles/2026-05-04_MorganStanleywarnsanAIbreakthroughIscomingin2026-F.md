@@ -12,7 +12,7 @@ scraped: "2026-05-04 17:00"
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+A massive AI breakthrough is coming in the first half of 2026—and Morgan Stanley says most of the world isn’t ready for it. Recommended Video In a sweeping new report, the investment bank warns that a transformative leap in artificial intel…
 
 
 
