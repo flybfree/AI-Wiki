@@ -222,6 +222,16 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-17_17-49-05Z_WhenDoesMuonHelpAgenticReinforcementLearning.md]] : When Does Muon Help Agentic Reinforcement Learning?
+- [[2026-07-17_17-56-05Z_Physics_enhancedreinforcementlearningforreal_timeo.md]] : Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems
+- [[2026-07-17_17-23-22Z_LearningStandardModelstructurefromLHCdatawithRiema.md]] : Learning Standard Model structure from LHC data with Riemannian flow matching
+- [[2026-07-17_17-56-51Z_Cluster_AwareMatchingviaLaplacianOptimalTransport.md]] : Cluster-Aware Matching via Laplacian Optimal Transport
+- [[2026-07-17_17-57-49Z_ABlueprintforEquilibrium_BasedDifferentiableContin.md]] : A Blueprint for Equilibrium-Based Differentiable Continuous-Variable Thermodynamic Computing
+- [[2026-07-17_17-46-23Z_AnExamforActiveObservers.md]] : An Exam for Active Observers
+- [[2026-07-17_17-58-29Z_PagedWeight_EfficientMoELLMServingwithDynamicQuali.md]] : PagedWeight: Efficient MoE LLM Serving with Dynamic Quality-Aware Weight Quantization
+- [[2026-07-17_17-55-19Z_EvaluatingOpen_WeightLLMsforGeneratingStructuredTh.md]] : Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities
+- [[2026-07-17_17-35-23Z_PRISA_ProactiveInfrastructureLiDARFrameworkforInte.md]] : PRISA: Proactive Infrastructure LiDAR Framework for Intersection Safety Assessment
+- [[2026-07-17_17-48-22Z_Behaviour_ConditionedNeuralProcessesforAdaptiveRes.md]] : Behaviour-Conditioned Neural Processes for Adaptive Residential Short-Term Load Forecasting
 - [[2026-07-16_17-59-02Z_MeanFlowNFT_BringingForward_ProcessRLtoAverage_Vel.md]] : MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators
 - [[2026-07-16_17-51-23Z_SearchOS_V1_TowardsRobustOpen_DomainInformation_Se.md]] : SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration
 - [[2026-07-16_17-59-06Z_RoboTTT_ContextScalingforRobotPolicies.md]] : RoboTTT: Context Scaling for Robot Policies
