@@ -222,6 +222,16 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-20_17-58-13Z_SimpleDomainGeneralizationforStrongPixel_LevelImag.md]] : Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs
+- [[2026-07-20_17-52-33Z_GigaPath_FlashandGigaTIME_Flash_EfficientPathology.md]] : GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis
+- [[2026-07-20_17-57-20Z_VectorSearchAsNearestNeighborMatching_RAG_basedPol.md]] : Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference
+- [[2026-07-20_17-47-44Z_SWE_PrunerPro_TheCoderLLMAlreadyKnowsWhattoPrune.md]] : SWE-Pruner Pro: The Coder LLM Already Knows What to Prune
+- [[2026-07-20_17-58-05Z_LogicalJudgmentsUnderPressure_DiagnosingSyllogisti.md]] : Logical Judgments Under Pressure: Diagnosing Syllogistic Stability with Learned Soft Prefixes
+- [[2026-07-20_17-59-37Z_AutomatedDiscoveryHasNoUniversallySuperiorHarness.md]] : Automated Discovery Has No Universally Superior Harness
+- [[2026-07-20_17-59-41Z_PatchPolicy_EfficientEmbodiedControlviaDenseVisual.md]] : Patch Policy: Efficient Embodied Control via Dense Visual Representations
+- [[2026-07-20_17-58-31Z_It_sNotWhatYouSay_It_sHowYouSayIt_EvaluatingLLMRes.md]] : It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief
+- [[2026-07-20_17-59-51Z_TheManySensesofVisualSimilarity_AText_PromptedImag.md]] : The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric
+- [[2026-07-20_17-57-45Z_CausalDiscoveryonIrregularTimeSeries.md]] : Causal Discovery on Irregular Time Series
 - [[2026-07-17_17-49-05Z_WhenDoesMuonHelpAgenticReinforcementLearning.md]] : When Does Muon Help Agentic Reinforcement Learning?
 - [[2026-07-17_17-56-05Z_Physics_enhancedreinforcementlearningforreal_timeo.md]] : Physics-enhanced reinforcement learning for real-time optimal control of dynamical systems
 - [[2026-07-17_17-23-22Z_LearningStandardModelstructurefromLHCdatawithRiema.md]] : Learning Standard Model structure from LHC data with Riemannian flow matching
