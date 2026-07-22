@@ -222,6 +222,26 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-21_17-51-36Z_ISO_AnRLVR_NativeOptimizationStack.md]] : ISO: An RLVR-Native Optimization Stack
+- [[2026-07-21_17-49-19Z_AssociativeEmotionalLearninginConvolutionalNeuralN.md]] : Associative Emotional Learning in Convolutional Neural Networks
+- [[2026-07-21_17-55-10Z_AgentsintheWild_WhereResearchMeetsDeployment.md]] : Agents in the Wild: Where Research Meets Deployment
+- [[2026-07-21_17-51-38Z_ROMS_IMLE_AMinimalistApproachtoCompetitiveSingle_S.md]] : ROMS-IMLE: A Minimalist Approach to Competitive Single-Step Generative Modelling
+- [[2026-07-21_17-59-21Z_CopyLess_GroundMore_OvercomingRepetitiveCopyinginL.md]] : Copy Less, Ground More: Overcoming Repetitive Copying in Long-Context Reasoning via Evidence-Aware Reinforcement Learning
+- [[2026-07-21_17-59-12Z_AppearancePointers__MultimodalRegionControlofDiffu.md]] : Appearance Pointers -- Multimodal Region Control of Diffusion Transformers
+- [[2026-07-21_17-53-44Z_Fundamentallimitsofdistributedmulticlassclassifica.md]] : Fundamental limits of distributed multiclass classification from simple binary decisions
+- [[2026-07-21_17-53-36Z_Provablediffusion_basedposteriorsamplingforlineari.md]] : Provable diffusion-based posterior sampling for linear inverse problems via DDIM
+- [[2026-07-21_17-56-49Z_CodeRescue_Budget_CalibratedRecoveryRoutingforCodi.md]] : CodeRescue: Budget-Calibrated Recovery Routing for Coding Agents
+- [[2026-07-21_17-54-34Z_1_LipschitzNeuralNetworksonHadamardManifolds.md]] : 1-Lipschitz Neural Networks on Hadamard Manifolds
+- [[2026-07-21_15-52-50Z_AdaFlash_AdaptiveSpeculativeDecodingviaOn_PolicyDi.md]] : AdaFlash: Adaptive Speculative Decoding via On-Policy Distilled Diffusion Drafters
+- [[2026-07-21_16-04-35Z_In_ContextTimeSeriesClassificationwithRandomConvol.md]] : In-Context Time Series Classification with Random Convolutional Features
+- [[2026-07-21_16-03-05Z_SelectionShapestheBoundary_APreregisteredReplicati.md]] : Selection Shapes the Boundary: A Preregistered Replication of Monotonicity and Label Agreement in Unselected NLI Populations
+- [[2026-07-21_15-49-02Z_BeyondScorePrediction_LLM_BasedEssayScoringandFeed.md]] : Beyond Score Prediction: LLM-Based Essay Scoring and Feedback Generation via Reinforcement Learning with Rubric Rewards
+- [[2026-07-21_15-42-35Z_ComputingontheFly_NavigatingaVisionfortheFutureofD.md]] : Computing on the Fly: Navigating a Vision for the Future of Drone Computing
+- [[2026-07-21_16-12-30Z_Thermodynamics_InformedInputReparameterizationforN.md]] : Thermodynamics-Informed Input Reparameterization for Neural Prediction of Real-Fluid Thermodynamic Properties in Supercritical Combustion
+- [[2026-07-21_16-07-07Z_DBMol_DesignofHigh_Affinity_Target_SpecificSmallMo.md]] : DBMol: Design of High-Affinity, Target-Specific Small Molecules through Structure Prediction Models
+- [[2026-07-21_16-05-49Z_MeetingToM_EvaluatingMultimodalLLMsonTheory_of_Min.md]] : MeetingToM: Evaluating Multimodal LLMs on Theory-of-Mind Reasoning in Multi-Party Meetings
+- [[2026-07-21_16-03-34Z_S3_StableSubgoalSelectionbyConstrainingUncertainty.md]] : S3: Stable Subgoal Selection by Constraining Uncertainty of Coarse Dynamics in Hierarchical Reinforcement Learning
+- [[2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsinReinfor.md]] : The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation
 - [[2026-07-20_17-58-13Z_SimpleDomainGeneralizationforStrongPixel_LevelImag.md]] : Simple Domain Generalization for Strong Pixel-Level Image Tampering Detection in Modern VLMs
 - [[2026-07-20_17-52-33Z_GigaPath_FlashandGigaTIME_Flash_EfficientPathology.md]] : GigaPath-Flash and GigaTIME-Flash: Efficient Pathology Foundation Models for Whole-Slide and Tumor Microenvironment Analysis
 - [[2026-07-20_17-57-20Z_VectorSearchAsNearestNeighborMatching_RAG_basedPol.md]] : Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference
