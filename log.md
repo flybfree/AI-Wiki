@@ -1158,3 +1158,5 @@ tags: ['wiki']
 ## [2026-07-23 00:02] skip-duplicate | 2026-07-22_Aftershockingquarter_IBMinsiststhatAIisn_tkillingt.md
 ## [2026-07-23 00:02] ingest | 2026-07-23_BuildingAIinfrastructurewiththeEffinghamCountycomm.md
 ## [2026-07-23 00:02] ingest | 2026-07-23_Invitinghardquestions.md
+## [2026-07-23 01:42] ingest | 2026-07-23_ServiceNowbets_40milliononIndianbankingsoftwarespe.md
+## [2026-07-23 04:01] ingest | 2026-07-23_EscapeIntelliJ_ScalaandKotlinLSPsonEmacsEglot.md

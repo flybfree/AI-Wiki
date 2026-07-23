@@ -1034,3 +1034,5 @@ tags: ['wiki']
 - [[2026-07-22_TerenceTao_sChatGPTconversationabouttheJacobianCon.md]] : Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample
 - [[2026-07-23_BuildingAIinfrastructurewiththeEffinghamCountycomm.md]] : Building AI infrastructure with the Effingham County community
 - [[2026-07-23_Invitinghardquestions.md]] : Inviting hard questions
+- [[2026-07-23_ServiceNowbets_40milliononIndianbankingsoftwarespe.md]] : ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push
+- [[2026-07-23_EscapeIntelliJ_ScalaandKotlinLSPsonEmacsEglot.md]] : Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot
