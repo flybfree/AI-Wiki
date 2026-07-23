@@ -1010,3 +1010,6 @@ tags: ['wiki']
 - [[2026-07-18_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
 - [[2026-07-18_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
 - [[2026-07-18_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[2026-07-22_Invitinghardquestions.md]] : Inviting hard questions
+- [[2026-07-22_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[2026-07-22_BuildingAIinfrastructurewiththeEffinghamCountycomm.md]] : Building AI infrastructure with the Effingham County community
