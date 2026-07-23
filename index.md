@@ -225,6 +225,16 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-22_17-05-42Z_Statevector_ReferencedGeometrySurvivalofaFour_Qubi.md]] : Statevector-Referenced Geometry Survival of a Four-Qubit ZZ Quantum Kernel on IBM Quantum Hardware: A Fixed-Subset Diagnostic Across Three Execution Configurations
+- [[2026-07-22_17-38-39Z_SoftReason_AFullyDifferentiableNeuro_Soft_Symbolic.md]] : SoftReason: A Fully Differentiable Neuro-Soft-Symbolic Deductive Reasoning Architecture over High-Dimensional Perceptual Data
+- [[2026-07-22_17-35-43Z_TowardsMiniatureHumanoidTele_Loco_ManipulationUsin.md]] : Towards Miniature Humanoid Tele-Loco-Manipulation Using Virtual Reality and Reinforcement Learning
+- [[2026-07-22_17-04-29Z_OnlineVarianceReductionforDomainAdaptationonStream.md]] : Online Variance Reduction for Domain Adaptation on Streaming Data
+- [[2026-07-22_17-10-23Z_TraintheModel_NottheReader_DecodabilitySupervision.md]] : Train the Model, Not the Reader: Decodability Supervision for Verifiable Activation Explanations
+- [[2026-07-22_17-08-29Z_PG_KINN_APhysics_InformedPetrov_GalerkinKolmogorov.md]] : PG-KINN: A Physics-Informed Petrov-Galerkin Kolmogorov-Arnold Network for Solving Forward and Inverse PDEs
+- [[2026-07-22_17-49-37Z_LKValues_AligningLargeLanguageModelswithSriLankanS.md]] : LKValues: Aligning Large Language Models with Sri Lankan Societal Values
+- [[2026-07-22_17-11-52Z_FMRP_LEAN_AHIPAA_CompliantAI_AugmentedLIMSArchitec.md]] : FMRP-LEAN: A HIPAA-Compliant AI-Augmented LIMS Architecture for End-to-End Clinical Assay Workflow Optimization
+- [[2026-07-22_17-13-25Z_PersianPixel_Alarge_scalesyntheticOCRdatasetforPer.md]] : Persian Pixel: A large-scale synthetic OCR dataset for Persian language
+- [[2026-07-22_17-50-53Z_LipschitzianSLLNsforrandomfunctions.md]] : Lipschitzian SLLNs for random functions
 - [[2026-07-21_17-51-36Z_ISO_AnRLVR_NativeOptimizationStack.md]] : ISO: An RLVR-Native Optimization Stack
 - [[2026-07-21_17-49-19Z_AssociativeEmotionalLearninginConvolutionalNeuralN.md]] : Associative Emotional Learning in Convolutional Neural Networks
 - [[2026-07-21_17-55-10Z_AgentsintheWild_WhereResearchMeetsDeployment.md]] : Agents in the Wild: Where Research Meets Deployment
@@ -1016,3 +1026,11 @@ tags: ['wiki']
 - [[2026-07-22_Invitinghardquestions.md]] : Inviting hard questions
 - [[2026-07-22_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
 - [[2026-07-22_BuildingAIinfrastructurewiththeEffinghamCountycomm.md]] : Building AI infrastructure with the Effingham County community
+- [[2026-07-23_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[2026-07-23_TheAIcomputegap_Enterprisesarebuyinginfrastructure.md]] : The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs
+- [[2026-07-22_Here__8217_swhatSamsung__8217_ssmartglassesactuall.md]] : Here&#8217;s what Samsung&#8217;s smart glasses actually look like
+- [[2026-07-23_git_s_end-of-optionsFlag.md]] : git's –end-of-options Flag
+- [[2026-07-23_Aftershockingquarter_IBMinsiststhatAIisn_tkillingt.md]] : After shocking quarter, IBM insists that AI isn’t killing the mainframe
+- [[2026-07-22_TerenceTao_sChatGPTconversationabouttheJacobianCon.md]] : Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample
+- [[2026-07-23_BuildingAIinfrastructurewiththeEffinghamCountycomm.md]] : Building AI infrastructure with the Effingham County community
+- [[2026-07-23_Invitinghardquestions.md]] : Inviting hard questions

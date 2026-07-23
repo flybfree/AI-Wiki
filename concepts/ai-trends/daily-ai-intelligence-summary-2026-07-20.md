@@ -17,6 +17,7 @@ July 20 was a paper-heavy day. The dominant signals were about control surfaces:
 
 ### 1. Context, prompting, and evaluation are still the main battleground
 Several papers looked at how much model behavior depends on framing, prefixes, or prompt structure rather than just raw capability.
+The practical point is that “how you ask” is still part of the model’s behavior surface. These papers show that pruning, prompt style, and harness design can materially change what the model does, which means evaluation and prompting are not afterthoughts.
 
 - **SWE-Pruner Pro** prunes tool output directly inside the coder model, reducing context bloat without a separate classifier.
 - **It’s Not What You Say, It’s How You Say It** shows that expressions of belief can steer LLMs differently depending on form, evidentiality, stance, and tone.
@@ -33,6 +34,7 @@ The pattern is straightforward: prompting and harness design are not just UX det
 
 ### 2. Efficient multimodal systems got a lot of attention
 Another cluster focused on getting more out of vision and embodied systems without paying the full compute cost of giant backbones.
+The throughline is selective compute: preserve the representation power that matters, but strip away the redundant machinery. That shows up in pathology, embodied control, tampering robustness, and perceptual metrics that depend on the task at hand.
 
 - **GigaPath-Flash / GigaTIME-Flash** shrink pathology foundation models dramatically while retaining most performance.
 - **Patch Policy** feeds dense ViT patch tokens into embodied control without a full VLM stack.
@@ -49,6 +51,7 @@ These are all versions of the same move: keep the useful representation power, d
 
 ### 3. Retrieval and causal structure are converging
 A smaller but coherent cluster treated retrieval and nearest-neighbor search as more than just RAG plumbing.
+The interesting move here is to treat retrieval as part of the modeling problem itself. Once the data are irregular or the policy space is large, the search layer needs to understand causality and temporal structure instead of just returning the nearest text chunk.
 
 - **Vector Search as Nearest Neighbor Matching** frames RAG as action selection for causal policy learning.
 - **Causal Discovery on Irregular Time Series** extends PCMCI+ to windowed, non-uniform data.
