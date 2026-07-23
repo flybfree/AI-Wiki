@@ -113,8 +113,7 @@ The day’s collection says something fairly clear: the frontier is less about o
 
 That is especially visible in diffusion work, where the field is trying to prove that fast, stable, and mathematically grounded generation is possible without giving up quality.
 
-## Watch Next
-
+## What These Stories Point To
 - Which diffusion ideas survive outside lab settings?
 - Do RLVR and reasoning-cost papers turn into practical inference or training knobs?
 - Which agent patterns actually make it into production systems?

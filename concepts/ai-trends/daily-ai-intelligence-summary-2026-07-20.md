@@ -73,8 +73,7 @@ Both papers are about structure: if the data are irregular or the policy space i
 
 The day’s collection is less about one new breakthrough and more about a consistent direction: models are being shaped into systems with explicit control surfaces. That means better pruning, better evaluation, better routing, and better use of multimodal features. In practice, that is how the field gets from impressive demos to useful tools.
 
-## Watch Next
-
+## What These Stories Point To
 - Do model-internal pruning methods replace separate pruning/classifier stages?
 - Do soft-prefix and belief-framing effects stay strong across more model families?
 - Which efficient multimodal architecture patterns generalize best?

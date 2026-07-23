@@ -121,8 +121,7 @@ The biggest signal is economic: AI is getting expensive to run, and buyers are f
 
 The second signal is strategic: AI companies are trying to preempt trust backlash by making accountability visible and procedural.
 
-## Watch Next
-
+## What These Stories Point To
 - Do enterprises move to specialized AI clouds, or mostly reshuffle among hyperscalers?
 - Does compute cost visibility become a product category?
 - Which AI hardware form factor breaks out first: glasses, earbuds, pins, or something else?
