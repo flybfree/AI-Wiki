@@ -87,6 +87,9 @@ The rest of the paper set shows the same pattern in different domains: AI is bei
 - [Miniature humanoid tele-loco-manipulation](../../raw/summaries/SUMMARY_PAPER_2026-07-23_Towards_Miniature_Humanoid_Tele-Loco-Manipulation_.md)
 - [SymptomAI](../../entities/article/2026-07-23_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md)
 
+## YouTube Channel Monitor
+The latest monitor run found no new uploads, so there was no fresh YouTube content to fold into today’s briefing.
+
 ## What Changed Today
 
 - AI infrastructure became more explicitly utility-like: power, water, community commitments, and procurement friction all matter.
