@@ -1037,3 +1037,9 @@ tags: ['wiki']
 - [[2026-07-23_Invitinghardquestions.md]] : Inviting hard questions
 - [[2026-07-23_ServiceNowbets_40milliononIndianbankingsoftwarespe.md]] : ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push
 - [[2026-07-23_EscapeIntelliJ_ScalaandKotlinLSPsonEmacsEglot.md]] : Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot
+- [[2026-07-23_ExpertssayexploitingAnthropic_sFableisn_thowKimiK3.md]] : Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good
+- [[2026-07-23_Codemodeyieldsa99_2_costreductioninoursystems.md]] : Code mode yields a 99.2% cost reduction in our systems
+- [[2026-07-23_Theright-wingboomersprotestingdatacentershavealoti.md]] : The right-wing boomers protesting data centers have a lot in common with the left
+- [[2026-07-23_UnderstandingtheAIEconomy.md]] : Understanding the AI Economy
+- [[2026-07-23_Apple_sOpenAIlawsuitisaboutwhogetstodefinethepost-.md]] : Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era
+- [[2026-07-23_OpenAIandAnthropicuniteagainstopen-weightAIrisksto.md]] : OpenAI and Anthropic unite against open-weight AI risks to their bottom line
