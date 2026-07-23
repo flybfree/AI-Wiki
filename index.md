@@ -106,7 +106,8 @@ tags: ['wiki']
 ### AI Industry Trends
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
-- [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-22.md|Summary: 2026-07-22 Daily AI Intelligence Summary]] — infrastructure, safety, and wearables
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-20.md|Summary: 2026-07-20 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on prompting, multimodal efficiency, and retrieval
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-21.md|Summary: 2026-07-21 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on diffusion, agents, and evaluation
 
