@@ -1043,3 +1043,6 @@ tags: ['wiki']
 - [[2026-07-23_UnderstandingtheAIEconomy.md]] : Understanding the AI Economy
 - [[2026-07-23_Apple_sOpenAIlawsuitisaboutwhogetstodefinethepost-.md]] : Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era
 - [[2026-07-23_OpenAIandAnthropicuniteagainstopen-weightAIrisksto.md]] : OpenAI and Anthropic unite against open-weight AI risks to their bottom line
+- [[2026-07-23_LawmakerspreparebillrequiringAI_killswitch_.md]] : Lawmakers prepare bill requiring AI ‘kill switch’
+- [[2026-07-23_AIchipstartupEtcheddefiesskeptics_hits_10_3Bvaluat.md]] : AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors
+- [[2026-07-23_Astronomersmayhavefoundthefirstexomoon.md]] : Astronomers may have found the first exomoon

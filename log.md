@@ -1168,3 +1168,6 @@ tags: ['wiki']
 ## [2026-07-23 07:44] ingest | 2026-07-23_UnderstandingtheAIEconomy.md
 ## [2026-07-23 09:03] ingest | 2026-07-23_Apple_sOpenAIlawsuitisaboutwhogetstodefinethepost-.md
 ## [2026-07-23 09:03] ingest | 2026-07-23_OpenAIandAnthropicuniteagainstopen-weightAIrisksto.md
+## [2026-07-23 10:03] ingest | 2026-07-23_LawmakerspreparebillrequiringAI_killswitch_.md
+## [2026-07-23 10:03] ingest | 2026-07-23_AIchipstartupEtcheddefiesskeptics_hits_10_3Bvaluat.md
+## [2026-07-23 10:03] ingest | 2026-07-23_Astronomersmayhavefoundthefirstexomoon.md
