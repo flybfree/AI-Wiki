@@ -1046,3 +1046,15 @@ tags: ['wiki']
 - [[2026-07-23_LawmakerspreparebillrequiringAI_killswitch_.md]] : Lawmakers prepare bill requiring AI ‘kill switch’
 - [[2026-07-23_AIchipstartupEtcheddefiesskeptics_hits_10_3Bvaluat.md]] : AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors
 - [[2026-07-23_Astronomersmayhavefoundthefirstexomoon.md]] : Astronomers may have found the first exomoon
+- [[2026-07-23_OpenAImakesChatGPTHealthavailabletoallU_S_users.md]] : OpenAI makes ChatGPT Health available to all U.S. users
+- [[2026-07-23_OpenAIismakingbigclaimsasitrollsoutChatGPTHealthto.md]] : OpenAI is making big claims as it rolls out ChatGPT Health to everyone
+- [[2026-07-23_RunwaylaunchesAImodelrouterasgenerativemediagetscr.md]] : Runway launches AI model router as generative media gets crowded
+- [[2026-07-23_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-07-23_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
+- [[2026-07-23_AegisAI_foundedbyformerGooglesecurityexecs_lands_3.md]] : AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing
+- [[2026-07-23_Patreonislayingoff20percentofworkers.md]] : Patreon is laying off 20 percent of workers
+- [[2026-07-23_AnthropicupdatesClaudevoicemodewithmorecapablemode.md]] : Anthropic updates Claude voice mode with more capable models
+- [[2026-07-23_Claude_svoicemodeisnowavailableforOpusandSonnet.md]] : Claude’s voice mode is now available for Opus and Sonnet
+- [[2026-07-23_AMDtakesonNvidiawithitsHeliosAIrackscalesystem.md]] : AMD takes on Nvidia with its Helios AI rack scale system
+- [[2026-07-23_AlexaPlusisgettinganAIupdatetohandlemorecomplicate.md]] : Alexa Plus is getting an AI update to handle more complicated instructions
+- [[2026-07-23_AMDtakesonNvidiawithitsHeliosAIrack-scalesystem.md]] : AMD takes on Nvidia with its Helios AI rack-scale system
