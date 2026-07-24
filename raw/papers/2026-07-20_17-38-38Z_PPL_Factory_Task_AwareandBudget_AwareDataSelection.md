@@ -1,0 +1,18 @@
+---
+title: PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning
+published: 2026-07-20T17:38:38Z
+authors: Hang Zhang, Warren J. Gross
+url: http://arxiv.org/abs/2607.18199v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# PPL-Factory: Task-Aware and Budget-Aware Data Selection from Language Modeling to Reasoning
+
+## Abstract
+Not all training samples contribute equally to large language model fine-tuning. Selecting informative training samples can reduce the computational cost while preserving downstream performance. Many existing data selection methods rely on indirect heuristics, such as data quality, diversity or reasoning trace length. However, the effectiveness of these fixed criteria is task-dependent and difficult to generalize across diverse downstream tasks. Perplexity-based data selection provides a simple and model-aware solution to estimate the sample difficulty, but existing approaches typically score the entire training sequence and ignore the difference in learning objectives of language modeling and reasoning tasks. In this paper, we propose PPL-Factory, a simple and interpretable data selection framework that combines task-aware perplexity-based scores and data budget-aware selection criteria. Experiments on GSM8K demonstrate that PPL-Factory outperforms other state-of-the-art data selection methods using only $1\%$ of the training set. With $10\%$ of the data, PPL-Factory exceeds full-data fine-tuning accuracy by 0.9 on GSM8K and 4.8 on MATH. Overall, our results demonstrate that task-aware and budget-aware perplexity-based selection provides an effective and applicable approach for efficient fine-tuning.
+
+## Metadata
+- **Published**: 2026-07-20T17:38:38Z
+- **Authors**: Hang Zhang, Warren J. Gross
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.18199v1)

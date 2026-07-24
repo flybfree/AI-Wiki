@@ -1,0 +1,18 @@
+---
+title: Where Animacy Lives in Large Language Models: Tracing the Circuits of the Animacy Concept
+published: 2026-07-23T07:19:44Z
+authors: Samuele Punzo, Giovanni Cinà, Sandro Pezzelle
+url: http://arxiv.org/abs/2607.20995v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Where Animacy Lives in Large Language Models: Tracing the Circuits of the Animacy Concept
+
+## Abstract
+Distinguishing animate from inanimate concepts in written language requires more than shallow text processing, as it involves recognizing complex selectional constraints and contextual cues, such as verb-argument interactions. Yet, current large language models (LLMs) appear to be capable of doing it. We investigate whether this animacy-sensitive behavior of LLMs can be traced to a localized set of causally relevant components and connections. To do so, we construct a controlled dataset of minimal pairs and perform circuit discovery on four open-weight models. Through in-depth experiments and ablations, we show that a causal mechanism responsible for handling animacy in these models does exist, thus discovering an animacy circuit. At the same time, this circuit appears to be less localized compared to other known ones and generalizes only partially across models and animacy tasks, confirming the distributed, context-dependent, and somewhat graded nature of the animacy concept.
+
+## Metadata
+- **Published**: 2026-07-23T07:19:44Z
+- **Authors**: Samuele Punzo, Giovanni Cinà, Sandro Pezzelle
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20995v1)

@@ -1,0 +1,18 @@
+---
+title: A New Well-Supported Semantics for Description Logic Programs
+published: 2026-07-23T11:20:31Z
+authors: Spencer Killen, Jia-Huai You
+url: http://arxiv.org/abs/2607.21203v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# A New Well-Supported Semantics for Description Logic Programs
+
+## Abstract
+Description logic programs are a powerful formalism for combining rules with ontologies. The well-supported semantics for description logic programs ensures that no answer sets rely on cyclic dependencies. Most popular semantics for logic programming have this property of well-supportedness. We recognize two limitations of the current well-supported semantics for DL programs: its increased computational complexity for the consistency problem and its lack of a reduct transformation characterization.  In this work, we present a new semantics which evaluates ontological atoms more strictly than the current semantics. This keeps the complexity of its consistency problem NP-complete, rather than increasing it to the second level of the polynomial hierarchy. Additionally, we identify a syntactic class of description logic programs for which our new semantics is equivalent to the current semantics. We characterize our semantics using a fixpoint operator and a reduct-based transformation. Our new semantics is a strict subset of the current well-supported semantics, so it maintains the prior notion  of well-supportedness while inducing its own stricter notion. We prefer our new notion of well-supportedness due to its similarities with logic programming.
+
+## Metadata
+- **Published**: 2026-07-23T11:20:31Z
+- **Authors**: Spencer Killen, Jia-Huai You
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.21203v1)

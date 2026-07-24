@@ -1,0 +1,18 @@
+---
+title: PIER: Physics-Informed Environmental Retrieval for Time-Series Modeling
+published: 2026-07-22T14:49:10Z
+authors: Shiyuan Luo, Runlong Yu, Chonghao Qiu, Yue Qin, Rahul Ghosh, Robert Ladwig, Paul C. Hanson, Yiqun Xie, Xiaowei Jia
+url: http://arxiv.org/abs/2607.20230v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# PIER: Physics-Informed Environmental Retrieval for Time-Series Modeling
+
+## Abstract
+Accurate modeling of environmental systems is fundamental to scientific understanding and decision-making, yet remains challenging because observations are limited and physical dynamics vary across systems. Retrieval-augmented approaches offer a natural path to transfer knowledge across systems, but standard embedding-based retrieval does not guarantee consistency of underlying physical processes, since scenarios with similar embeddings may arise from different underlying mechanisms. We propose Physics-Informed Environmental Retrieval (PIER), a model-agnostic framework that augments embedding-based retrieval with a physics-aware stream that scores candidates by flux-response consistency with the target, using local verifiers trained on physics-derived flux features. A weight adjustment mechanism then learns per-scenario weights that adaptively balance the two retrieval streams based on diagnostic features summarizing physics-stream reliability. Experiments on 356 lakes across the Midwestern United States spanning 41 years show that PIER consistently outperforms baselines for water temperature and dissolved oxygen prediction, and serves as a general augmentation strategy across diverse backbones.
+
+## Metadata
+- **Published**: 2026-07-22T14:49:10Z
+- **Authors**: Shiyuan Luo, Runlong Yu, Chonghao Qiu, Yue Qin, Rahul Ghosh, Robert Ladwig, Paul C. Hanson, Yiqun Xie, Xiaowei Jia
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20230v1)

@@ -1,0 +1,18 @@
+---
+title: Toward Auditable Fraud Detection: Combining Graph Features, Model Explanations, and Agentic Case Investigation
+published: 2026-07-21T16:37:41Z
+authors: Rahil Sharma
+url: http://arxiv.org/abs/2607.19266v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Toward Auditable Fraud Detection: Combining Graph Features, Model Explanations, and Agentic Case Investigation
+
+## Abstract
+Fraud detection systems must scale with rising transaction volume while remaining explainable and reviewable. We study a layered pipeline on the PaySim dataset that combines a gradient-boosted classifier, graph-derived structural features, an autoencoder-based anomaly signal, TreeSHAP explanations, and a bounded LLM investigation agent applied to cases the classifier scores uncertainly. Before any model comparison, we identify and remove a simulator-specific balance shortcut that would otherwise inflate baseline performance. After this correction, neither the graph features nor the anomaly signal improves Average Precision on the full test set. Both, however, rank fraud better within the subset of cases receiving intermediate baseline scores. In a controlled experiment with injected multi-account fraud rings, engineered structural features recover all injected test transactions, while the tabular baseline misses roughly a quarter of them. The investigation agent underperforms direct thresholding of the classifier it relies on, reaching 65.0% accuracy against 71.7% on a balanced 60-case sample, despite having access to model explanations, graph context, and retrieved reference cases. Of the eight decisions the agent changed, six replaced correct classifier outputs with errors, and it produced a coherent written rationale in each case. An exploratory disagreement-based escalation rule flagged two of these agent errors for human review without flagging any correct decision. We conclude that each component of a layered fraud system contributes only under specific conditions, and that a plausible rationale from an investigation agent is not evidence of a better decision.
+
+## Metadata
+- **Published**: 2026-07-21T16:37:41Z
+- **Authors**: Rahil Sharma
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.19266v1)

@@ -1,0 +1,18 @@
+---
+title: Fourier Geometric Wind Power Forecasting with Numerical Weather Prediction
+published: 2026-07-19T06:28:21Z
+authors: Shiyuan Piao, Fan Zehui, Yang Liu, Hong Cheng, Juepeng Zheng, Jie Zhou, Fugee Tsung
+url: http://arxiv.org/abs/2607.17095v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Fourier Geometric Wind Power Forecasting with Numerical Weather Prediction
+
+## Abstract
+Accurate short-term wind power forecasting is essential for grid stability and operational planning, yet remains challenging due to the complex interactions between atmospheric conditions and turbine dynamics. However, existing methods fail to effectively incorporate weather forecasting with wind turbine data (i.e., SCADA), leading to suboptimal solutions. To address this, we introduce a multimodal framework that integrates historical point-based SCADA data with grid-based Numerical Weather Prediction (NWP) forecasts, which is challenging due to heterogeneous input and the complex physical wind-turbine interactions. Our approach first explicitly decomposes inputs into scalar and vector features to better capture both site-specific and geometric dependencies and then incorporates a geometric encoder to extract rotation-invariant features from wind vectors. We further leverages a Fourier Neural Operator (FNO) architecture, which performs global convolutions in the frequency domain to efficiently model long-range spatiotemporal relationships. Extensive experiments on three real-world wind farms, with weather forecasting data, demonstrate that our model consistently outperforms state-of-the-art baselines, highlighting the effectiveness of its physically-informed design. The core implementation of our method is publicly available at: https://github.com/shawn-sypiao/GWPF.
+
+## Metadata
+- **Published**: 2026-07-19T06:28:21Z
+- **Authors**: Shiyuan Piao, Fan Zehui, Yang Liu, Hong Cheng, Juepeng Zheng, Jie Zhou, Fugee Tsung
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.17095v1)

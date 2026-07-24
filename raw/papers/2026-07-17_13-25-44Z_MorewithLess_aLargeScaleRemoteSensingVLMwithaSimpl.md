@@ -1,0 +1,18 @@
+---
+title: More with Less: a Large Scale Remote Sensing VLM with a Simple Recipe
+published: 2026-07-17T13:25:44Z
+authors: Stefan Maria Ailuro, Mario Markov, Mohammad Mahdi, Luc Van Gool, Danda Pani Paudel
+url: http://arxiv.org/abs/2607.15942v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# More with Less: a Large Scale Remote Sensing VLM with a Simple Recipe
+
+## Abstract
+Remote sensing vision-language models are increasingly expected to support open-ended reasoning over Earth Observation data and a variety of tasks. Most recent progress in this area has been driven by remote-sensing-specific architectural designs, often introducing new encoders, alignment modules, or task-specific fusion mechanisms. In this work, we challenge the necessity of such architectural specialization. We show that a generally capable vision-language model can achieve competitive or state-of-the-art performance at challenging remote sensing benchmarks, provided that it is trained at sufficient scale across diverse data and tasks. Our model uses a single language policy that can either answer directly in text or invoke a localization tool for segmentation and grounding. To train this heterogeneous behaviour, we employ a multi-task reinforcement learning framework with adaptive task rewards covering multiple-choice VQA, free-form VQA, captioning, detection, and segmentation across a large variety of input types. Our approach achieves competitive results across a broad set of benchmarks, including high-resolution, multi-temporal, multi-modal and multi-view tasks. Further, as training data scales, our experiments show consistent improvements across most tasks both in and out of distribution, which correlate with per-task data diversity. These findings suggest that, for remote sensing VLMs, data scale is more important than architectural novelty.
+
+## Metadata
+- **Published**: 2026-07-17T13:25:44Z
+- **Authors**: Stefan Maria Ailuro, Mario Markov, Mohammad Mahdi, Luc Van Gool, Danda Pani Paudel
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.15942v1)

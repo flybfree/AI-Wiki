@@ -1,0 +1,18 @@
+---
+title: Synthetic minority data is redundant or invalid: a data-dependent validity theory and a de-biased test
+published: 2026-07-22T23:19:28Z
+authors: Ahmad B. Hassanat, Ahmad S. Tarawneh, Ghada A. Altarawneh
+url: http://arxiv.org/abs/2607.20787v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Synthetic minority data is redundant or invalid: a data-dependent validity theory and a de-biased test
+
+## Abstract
+For two decades, the standard remedy for class-imbalanced learning has been to fabricate synthetic minority examples, and the standard evidence of their validity has been a check that cannot fail: synthetic points are scored against the very data that generated them. We de-bias the check. Validity becomes a population quantity -- the probability that a synthetic point truly belongs to the minority class -- with a consistent estimator that scores synthetic points against withheld real data. Where held-out ground truth is available, the classical test underestimates true invalidity in 96-99% of method-by-imbalance-ratio cells, while the de-biased estimator tracks it closely. We prove validity is a property of the data, not the method: class overlap sets an invalidity floor no faithful generator escapes, making oversampling redundant where classes separate and invalid where they overlap. Across 91 methods, three classifiers, and datasets spanning medicine and finance -- including a generator engineered to pass the classical check -- none clears both bars: gains over the best trivial baseline are noise-thin (median below 0.01 F1, a decision threshold's reach), and most damage calibration. We release the audit as a pip-installable test and flip the burden of proof: synthetic minority data must now demonstrate, on the data at hand, both validity and information gain.
+
+## Metadata
+- **Published**: 2026-07-22T23:19:28Z
+- **Authors**: Ahmad B. Hassanat, Ahmad S. Tarawneh, Ghada A. Altarawneh
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20787v1)

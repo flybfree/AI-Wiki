@@ -1,0 +1,18 @@
+---
+title: Measuring and Improving Complex-Atomic Answer Consistency in Endoscopic VQA
+published: 2026-07-20T11:25:54Z
+authors: Yuhao Liu, Cheng Zhao, Guanghui Yue
+url: http://arxiv.org/abs/2607.17834v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Measuring and Improving Complex-Atomic Answer Consistency in Endoscopic VQA
+
+## Abstract
+Endoscopic visual question answering (VQA) increasingly asks complex questions that combine several endoscopic answer components rather than isolated factual queries. Such complex answers may be scored as correct even when the same model fails on associated atomic questions. We introduce EndoCA, a paired complex-atomic answer consistency benchmark for evaluating whether complex answers remain consistent with same-image atomic answers. EndoCA contains two suites: EndoCA-Core evaluates compact question-complexity patterns commonly seen in practical endoscopic VQA, and EndoCA-Diagnostic supports controlled analysis across increasing question complexity. We evaluate 11 VLMs spanning open, medical, endoscopy-adapted, and closed-source models on EndoCA. Some VLMs achieve high complex-answer accuracy, yet their atomic-answer accuracy and complex-atomic answer consistency remain substantially lower. To reduce this complex-atomic inconsistency, we introduce Atomic-Support Reconciliation (ASR), a training-free mechanism that uses model-generated atomic answers as contextual premises for answer revision and consistency-guided selective answering. On four selected publicly available models, ASR-Revise improves paired complex-atomic correctness with modest changes in complex-answer accuracy, while ASR-Selective improves accuracy on answered cases by allowing the model to abstain from less reliable cases. Together, EndoCA and ASR provide a consistency-aware benchmark and a training-free mechanism for answer reconciliation and selective answering in endoscopic VQA.
+
+## Metadata
+- **Published**: 2026-07-20T11:25:54Z
+- **Authors**: Yuhao Liu, Cheng Zhao, Guanghui Yue
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.17834v1)

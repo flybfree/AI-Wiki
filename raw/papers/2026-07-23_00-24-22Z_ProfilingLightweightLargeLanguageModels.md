@@ -1,0 +1,18 @@
+---
+title: Profiling Lightweight Large Language Models
+published: 2026-07-23T00:24:22Z
+authors: Tomohiro Harada, Enrique Alba, Gabriel Luque
+url: http://arxiv.org/abs/2607.20806v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Profiling Lightweight Large Language Models
+
+## Abstract
+Lightweight large language models (LLMs) are increasingly being deployed locally on personal computers and are expected to play a growing role in resource-constrained edge and mobile environments. In such settings, energy consumption, execution time, and memory usage directly affect practical usability, yet existing evaluations of LLM efficiency largely rely on proxy descriptors such as parameter count or FLOPs, often decoupled from task precision. This paper introduces a PTME-based experimental framework for the precision-aware profiling of lightweight LLM inference, jointly measuring Precision, execution Time, peak Memory usage, and Energy consumption through direct hardware-level measurements. The methodology is applied to a representative set of lightweight LLMs executed locally under edge-class resource envelopes on a controlled desktop platform, using benchmarks spanning code generation, mathematical reasoning, and multi-task understanding. We find that static proxy descriptors approximate inference cost well but fail to predict precision. Tightening the resource envelope increases cost without affecting precision, amplifying execution time more strongly than energy and penalizing larger models the most. Moreover, no single model dominates across all PTME dimensions, and a Pareto analysis reveals non-dominated configurations that would be hidden by accuracy-only or efficiency-only assessments, providing practical guidance for selecting models under different resource envelopes. These results show that selecting lightweight LLMs by size, FLOPs, latency, or accuracy alone can select the wrong deployment candidate; PTME profiling exposes configurations that preserve useful accuracy at lower physical cost.
+
+## Metadata
+- **Published**: 2026-07-23T00:24:22Z
+- **Authors**: Tomohiro Harada, Enrique Alba, Gabriel Luque
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20806v1)

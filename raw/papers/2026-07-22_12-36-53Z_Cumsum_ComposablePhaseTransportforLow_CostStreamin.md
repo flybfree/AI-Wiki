@@ -1,0 +1,18 @@
+---
+title: Cumsum-Composable Phase Transport for Low-Cost Streaming Keyword Spotting
+published: 2026-07-22T12:36:53Z
+authors: Mahesh Godavarti
+url: http://arxiv.org/abs/2607.20086v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Cumsum-Composable Phase Transport for Low-Cost Streaming Keyword Spotting
+
+## Abstract
+State-space sequence models are attractive for streaming speech because they maintain compact recurrent state, but scan-style training kernels can have unfavorable constants for short audio tasks. We study cumsum-composable phase transport, a streaming-native temporal layer for keyword spotting. Each layer projects acoustic frames to complex channels, transports them by learned unitary rotations, accumulates a finite window using prefix differences, and applies a gated residual update. The same prefix representation gives exact batched training with ordinary cumulative sums and exact online inference with one prefix update per frame. Unitary transport is the key constraint: inverse rotations have norm one, keeping prefix terms well conditioned while memory is supplied by windows or block readouts.   On Google Speech Commands v2 with 12 labels, mel+cumsum models retain competitive accuracy with compact baselines. The strongest single-seed run reaches 97.3\% test accuracy; a 51.6K-parameter tied model also reaches 97.3\%, and a 24.8K tied model reaches 96.8\% versus 97.1\% for a 25.6K MelCNNMaxPool baseline. In a matched cumsum-versus-scan benchmark, cumsum+window gives comparable accuracy, 94.82\% versus 94.33\%, while training 1.07x faster and reducing single-example latency from 7.09 ms to 5.01 ms on a Tesla T4. These results support cumsum phase transport as a simple low-cost temporal primitive for streaming keyword spotting.
+
+## Metadata
+- **Published**: 2026-07-22T12:36:53Z
+- **Authors**: Mahesh Godavarti
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20086v1)

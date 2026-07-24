@@ -1,0 +1,18 @@
+---
+title: The Maskability Index: Predicting Task-Objective Alignment in Pretrained Language Models
+published: 2026-07-22T15:19:23Z
+authors: Ahmad Pouramini, Mahsa Afsharzadeh
+url: http://arxiv.org/abs/2607.20265v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# The Maskability Index: Predicting Task-Objective Alignment in Pretrained Language Models
+
+## Abstract
+Large-scale pretrained language models such as T5 and BERT have demonstrated strong capabilities for generating structured knowledge. However, their performance depends on how closely the prompting strategy matches the objectives used during pretraining. We introduce the Maskability Index (MI), a quantitative metric that estimates whether a knowledge relation is better suited to masked-style prompting or prefix-style prompting in few-shot generation. MI is computed from differences in DepthRank scores between masked and unmasked templates, providing a principled measure of objective-template alignment. We evaluate MI on a diverse set of relations from the ATOMIC2020 knowledge base completion benchmark and show that it is positively correlated with downstream generation performance. These results indicate that MI can help select appropriate prompting templates and adaptation strategies for extracting relational knowledge from pretrained language models, especially in low-resource settings.
+
+## Metadata
+- **Published**: 2026-07-22T15:19:23Z
+- **Authors**: Ahmad Pouramini, Mahsa Afsharzadeh
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20265v1)

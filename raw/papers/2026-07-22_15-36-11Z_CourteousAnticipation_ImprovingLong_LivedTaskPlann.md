@@ -1,0 +1,18 @@
+---
+title: Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments
+published: 2026-07-22T15:36:11Z
+authors: Md Ridwan Hossain Talukder, Roshan Dhakal, Elizabeth Phillips, Gregory J. Stein
+url: http://arxiv.org/abs/2607.20289v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Courteous Anticipation: Improving Long-Lived Task Planning in Persistent Shared Environments
+
+## Abstract
+We consider a task planning scenario in which robots sharing a persistent environment are assigned tasks one at a time from a held-out sequence. Standard task planners, lacking foresight of future tasks and inconsiderate of others' constraints, solve each task in isolation, leaving terminal states that increase future cost for all, side effects that compound over lengthy task sequences. To reduce cost over the sequence, a robot must anticipate how its actions now may impact performance on future tasks for all robots sharing the environment. Therefore, we present courteous anticipatory planning, wherein a model-based planner proposes candidate plans and selects the one that jointly minimizes immediate cost and aggregated expected future cost across all robots, estimated via independent per-robot learned estimators. This factored formulation avoids combinatorial joint rollouts and supports modular deployment: adding a robot requires only training its own estimator. We evaluate in two persistent PDDL domains, a home environment with robots that have similar capabilities but different responsibilities, and a restaurant environment where robots' distinct capabilities create states that other robots lack the capability to resolve. During lengthy task sequences, our planner reduces total cost by 10.43% versus myopic and 4.03% versus selfish anticipatory planning in a two-robot home environment and by 17.41% and 13.24%, respectively, in a three-robot restaurant.
+
+## Metadata
+- **Published**: 2026-07-22T15:36:11Z
+- **Authors**: Md Ridwan Hossain Talukder, Roshan Dhakal, Elizabeth Phillips, Gregory J. Stein
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20289v1)

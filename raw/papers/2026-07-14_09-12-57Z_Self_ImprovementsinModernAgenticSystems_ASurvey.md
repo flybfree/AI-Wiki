@@ -1,0 +1,18 @@
+---
+title: Self-Improvements in Modern Agentic Systems: A Survey
+published: 2026-07-14T09:12:57Z
+authors: Zhe Ren, Yimeng Chen, Dandan Guo, Guowei Rong, Tonghui Li, R. B. Xiong, Qingfeng Lan, Wenyi Wang, Li Nanbo, Yibo Yang, Mingchen Zhuge, Jürgen Schmidhuber
+url: http://arxiv.org/abs/2607.13104v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Self-Improvements in Modern Agentic Systems: A Survey
+
+## Abstract
+Self-improving autonomous agents are moving from research prototypes to deployed systems. The primary goal is controllable evolution, or adaptation, from experience with minimal or even no human input. This survey frames modern self-improving agents as adaptive systems that convert experience into accumulated capability gains. We offer a system-level framework that represents a modern agent as a configuration coupling a foundation model with an operational scaffold of prompts, memory, tools, and control logic. Within this framework, self-improvement is formalized as a self-induced update operator that obtains and commits updates to model parameters or scaffold components. We organize prior work by update target and by the signals that drive change, then review applications and discuss evaluation, before closing with open problems and future directions. For convenience, we track technical updates on https://github.com/selfimproving-agent/awesome-Self-Improving-Agents.
+
+## Metadata
+- **Published**: 2026-07-14T09:12:57Z
+- **Authors**: Zhe Ren, Yimeng Chen, Dandan Guo, Guowei Rong, Tonghui Li, R. B. Xiong, Qingfeng Lan, Wenyi Wang, Li Nanbo, Yibo Yang, Mingchen Zhuge, Jürgen Schmidhuber
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.13104v1)

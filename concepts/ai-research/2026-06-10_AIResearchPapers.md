@@ -23,6 +23,12 @@ Placeholder summary — please add a concise summary.
 
 ## Key Papers
 
+### Qwen-AgentWorld
+- **Title**: "Qwen-AgentWorld: Language World Models for General Agents"
+- **arXiv**: [2606.24597](https://arxiv.org/abs/2606.24597)
+- **Key Contribution**: First language world models for agentic environment simulation across 7 domains
+- **Implications**: Useful as a reusable simulator and warm-up for downstream agentic RL
+
 ### Llama 4 Scout Architecture
 - **Title**: "Llama 4 Scout: A 256B Sparse MoE Model"
 - **Authors**: Meta AI

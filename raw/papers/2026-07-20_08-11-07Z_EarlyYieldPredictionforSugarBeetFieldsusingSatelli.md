@@ -1,0 +1,18 @@
+---
+title: Early Yield Prediction for Sugar Beet Fields using Satellite Data -- Learnings from Specialized Vision Transformers
+published: 2026-07-20T08:11:07Z
+authors: Philipp Vaeth, Bhumika Laxman Sadbhave, Denise Dejon, Gunther Schorcht, Magda Gregorova
+url: http://arxiv.org/abs/2607.17661v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Early Yield Prediction for Sugar Beet Fields using Satellite Data -- Learnings from Specialized Vision Transformers
+
+## Abstract
+Remote sensing has become an increasingly valuable tool for agricultural monitoring, particularly through the use of publicly available satellite imagery. However, effectively integrating domain knowledge into machine learning methods remains challenging. This study presents a real-world example of early sugar beet harvest yield forecasting from purely optical Sentinel-2 imagery, demonstrating how a tight integration of domain knowledge and machine learning can lead to synergistic gains. We empirically find that using very small vision transformer patch sizes and all available Sentinel-2 spectral bands improves our model despite being uncommon design choices in the domain. As a practical contribution, we were able to identify a large fraction of low-yield fields in a different year early on in the growth cycle through a modified training setup and a ranking-based detection of underperforming fields.
+
+## Metadata
+- **Published**: 2026-07-20T08:11:07Z
+- **Authors**: Philipp Vaeth, Bhumika Laxman Sadbhave, Denise Dejon, Gunther Schorcht, Magda Gregorova
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.17661v1)

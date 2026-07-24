@@ -1,0 +1,18 @@
+---
+title: Chemical Chain-of-Thought Functions as a Hallucination-Prone Molecular Scratchpad
+published: 2026-07-23T05:30:45Z
+authors: Jiatong Li, Yuxuan Ren, Weida Wang, Xiaoyong Wei, Yatao Bian
+url: http://arxiv.org/abs/2607.20935v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Chemical Chain-of-Thought Functions as a Hallucination-Prone Molecular Scratchpad
+
+## Abstract
+Chemical reasoning language models are expected to derive molecular answers through faithful chain-of-thought (CoT). However, across four reasoning model families and twelve chemistry tasks, hallucination is widespread and largely decoupled from answer correctness: correct answers often coexist with fabricated structural claims absent from the relevant molecules. Yet this does not make the reasoning trace computationally irrelevant. Attribution analyses suggest a shared scratchpad function expressed in model-specific forms: Chem-R and ether-0 rely on fragmented SMILES drafts, whereas ChemDFM-R emphasizes scaffold, positional, and naming cues. Notably, perturbing Chem-R's SMILES sketches degrades generation, showing that structural drafts can be causally load-bearing even when verbal structural claims are largely inert. Together, these results show that chemical CoT is neither a faithful explanation nor merely a post-hoc rationalization, but a hallucination-prone molecular scratchpad. This finding cautions against treating CoT as direct evidence of faithful reasoning and motivates process-level supervision beyond answer-only evaluation.
+
+## Metadata
+- **Published**: 2026-07-23T05:30:45Z
+- **Authors**: Jiatong Li, Yuxuan Ren, Weida Wang, Xiaoyong Wei, Yatao Bian
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20935v1)

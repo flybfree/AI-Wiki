@@ -1,0 +1,18 @@
+---
+title: When a Name Is Not a Name: A Benchmark Dataset and Distilled Reasoning for Culturally Entangled Bangla Homographs in Low-Resource LLMs
+published: 2026-07-20T11:17:19Z
+authors: Md. Asaduzzaman Shuvo
+url: http://arxiv.org/abs/2607.17828v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# When a Name Is Not a Name: A Benchmark Dataset and Distilled Reasoning for Culturally Entangled Bangla Homographs in Low-Resource LLMs
+
+## Abstract
+Many Bangla words are at once personal names and culturally loaded common nouns, "Maya" is both a girl's name and a word for affectionate compassion. Choosing the right reading demands cultural knowledge that is scarce in the pretraining data of modern language models. We introduce Culturally Entangled Homograph (CEH) disambiguation and build a Bangla benchmark of 1,516 expert-verified sentences (3,032 labelled occurrences) in which one word appears twice with two distinct readings, each labelled with a culturally grounded category and an explanation of the reasoning behind it. Across open- and closed-source models, we find a systematic dominant-meaning bias: models default to the common-noun sense and overlook the name. A Bangla-specific model fails under every prompting regime we test, showing that language-specific pretraining alone does not confer cultural grounding. We further show that contrastive chain-of-thought prompting can sharply reduce this bias without training, and that distilling cultural explanations teaches small (1-3B) models to reason toward the correct reading rather than memorise labels, cutting dominant-meaning bias from as high as 100% to under 5% and turning the failed Bangla-specific model into our strongest system. Dataset and code are available at https://github.com/ashuvo25/BanglaCEH.
+
+## Metadata
+- **Published**: 2026-07-20T11:17:19Z
+- **Authors**: Md. Asaduzzaman Shuvo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.17828v1)

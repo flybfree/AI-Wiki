@@ -1,0 +1,18 @@
+---
+title: Test-Time Training for Modality Order Consistency in Vision-Language Models
+published: 2026-07-22T16:37:02Z
+authors: Aditi Gupta, Yossi Gandelsman
+url: http://arxiv.org/abs/2607.20351v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Test-Time Training for Modality Order Consistency in Vision-Language Models
+
+## Abstract
+We find that vision-language models are sensitive to a specific semantically irrelevant change: the order in which the image and question are presented. Across three models and three benchmarks, image first prompting consistently outperforms question-first prompting, revealing a repeatable modality order failure. We use this gap to design an order-consistent test-time training method. Our method substantially closes the modality-order gap across all evaluated settings. Surprisingly, it also yields consistent improvements in the stronger image-first branch over the baseline, hence bootstrapping both orderings toward mutual consistency. Activation patching localizes the ordering failure to a narrow mid-network region where representations diverge sharply between prompt orders. We find that the test-time training method repairs this misalignment across layers. Together, our results identify modality-order sensitivity as a circuit-level failure in VLMs and demonstrate that simple, asymmetric test-time adaptation can effectively mitigate it and even improve performance over the baseline.
+
+## Metadata
+- **Published**: 2026-07-22T16:37:02Z
+- **Authors**: Aditi Gupta, Yossi Gandelsman
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20351v1)

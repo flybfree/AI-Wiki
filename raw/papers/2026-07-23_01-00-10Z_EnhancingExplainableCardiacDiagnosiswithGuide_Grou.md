@@ -1,0 +1,18 @@
+---
+title: Enhancing Explainable Cardiac Diagnosis with Guide-Grounded Multimodal LLMs
+published: 2026-07-23T01:00:10Z
+authors: Hai-Nam Duy Vuong, Duy-Anh Bui, Trong-Nghia Nguyen, Kim-Ngan Thi Nguyen, Trang Mai Xuan, Tien-Cuong Nguyen, Van-Dem Pham, Thien Van Luong
+url: http://arxiv.org/abs/2607.20814v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Enhancing Explainable Cardiac Diagnosis with Guide-Grounded Multimodal LLMs
+
+## Abstract
+The electrocardiogram (ECG) is a cornerstone of cardiac as- sessment, yet clinical deployment of deep learning models remains con- strained by limited interpretability and the hallucination risk of large language models (LLMs). Existing CNN+Grad-CAM+multimodal LLM frameworks can generate ECG reports, but their explanations are often only weakly grounded in established diagnostic criteria, reducing trust- worthiness and reproducibility. We propose a guide-grounded multimodal framework that explicitly anchors report generation in curated clinical knowledge. A convolutional neural network (CNN) and Grad-CAM first produce class probabilities and class-specific heatmaps from 12-lead ECG images. In parallel, authoritative ECG textbooks and guideline materials are distilled offline into a structured ECG Interpretation Guide, which is injected as a fixed knowledge block for every sample. Conditioned on the ECG image, Grad-CAM overlay, CNN-derived fact pack, and the in- jected guide, a multimodal LLM generates structured diagnostic reports with guideline-consistent terminology and criteria usage. Experiments on the full PTB-XL test set demonstrate that guide grounding improves se- mantic quality and perceived consistency of generated reports while pre- serving competitive classification performance. In particular, our method increases the average BERTScore of generated impressions from 0.818 to 0.953 relative to a strong CNN+Grad-CAM+MLLM baseline, indicat- ing closer alignment with reference reports. These findings suggest that injecting a distilled interpretation guide into the multimodal prompting pipeline offers a practical pathway to reduce hallucinations and enhance the clinical plausibility of LLM-based ECG explanations, bringing ex- plainable cardiac diagnosis closer to real-world deployment.
+
+## Metadata
+- **Published**: 2026-07-23T01:00:10Z
+- **Authors**: Hai-Nam Duy Vuong, Duy-Anh Bui, Trong-Nghia Nguyen, Kim-Ngan Thi Nguyen, Trang Mai Xuan, Tien-Cuong Nguyen, Van-Dem Pham, Thien Van Luong
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20814v1)

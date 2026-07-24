@@ -1,0 +1,18 @@
+---
+title: Value-Aware Prediction for Robust Multi-Agent Coordination Under Communication Loss
+published: 2026-07-20T13:13:22Z
+authors: Kemal Devrim Kafadar, Eren Özaltun, Mahmud Efnan Şanlı, Feyza Orak, Emirhan Gazi, Kubilay Kağan Kömürcü, Nazım Kemal Üre
+url: http://arxiv.org/abs/2607.17914v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Value-Aware Prediction for Robust Multi-Agent Coordination Under Communication Loss
+
+## Abstract
+Robust multi-agent coordination relies heavily on inter-agent communication, which is frequently disrupted by physical and environmental constraints in real-world deployments. To maintain operation during these intermittent communication failures, agents can employ internal prediction models to estimate missing shared state information. However, predictors trained with standard reconstruction objectives treat all transitions equally. In a Reinforcement Learning context, this forces the model to waste capacity learning stochastic exploration noise and the outdated dynamics of suboptimal policies. In this paper, we propose a value-aware extension of Multi-Agent Observation Sharing under Communication Dropout (MARO) to patch communication gaps; we refer to this method as Value-Aware MARO. By dynamically weighting the predictor's loss function using advantage estimates derived from the underlying actor-critic architecture, our objective explicitly couples the predictor's learning process to the policy's evolution. This formulation focuses the model's capacity on the intentional, high-return dynamics actively reinforced by the agents. We evaluate our framework on several tasks within the Multi-Agent Particle Environment under varying communication reliability levels. Experimental results demonstrate that our approach maintains performance under declining communication reliability, particularly below 40%. While our method performs comparably in tasks where the baseline already maintains high coordination, our value-aware weighting effectively prevents the performance collapse observed in the standard predictor during high-attrition scenarios. In these environments, our method achieves an average improvement in mean returns of more than 20% and reduces performance variance by a mean of 64.7% compared to the standard unweighted baseline.
+
+## Metadata
+- **Published**: 2026-07-20T13:13:22Z
+- **Authors**: Kemal Devrim Kafadar, Eren Özaltun, Mahmud Efnan Şanlı, Feyza Orak, Emirhan Gazi, Kubilay Kağan Kömürcü, Nazım Kemal Üre
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.17914v1)

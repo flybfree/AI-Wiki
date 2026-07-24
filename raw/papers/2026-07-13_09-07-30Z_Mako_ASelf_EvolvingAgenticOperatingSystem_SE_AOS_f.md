@@ -1,0 +1,18 @@
+---
+title: Mako: A Self-Evolving Agentic Operating System (SE-AOS) for Autonomous Web Exploitation
+published: 2026-07-13T09:07:30Z
+authors: Praneeth Narisetty, Shiva Nagendra Babu Kore
+url: http://arxiv.org/abs/2607.11288v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Mako: A Self-Evolving Agentic Operating System (SE-AOS) for Autonomous Web Exploitation
+
+## Abstract
+We introduce the Self-Evolving Agentic Operating System (SE-AOS): a new class of AI agent that treats exploit capability as a mutable, versioned kernel it extends at runtime, observing its own failures, synthesising new capabilities, proving them against a live target, and hot-loading them back into itself. Mako is the first SE-AOS instance for security research and the autonomous web exploitation engine developed within LaunchSafe. LaunchSafe builds autonomous security agents for continuous offensive testing and agent-driven security research; Mako is the core engine behind that platform. On the public XBOW validation-benchmarks, 104 containerised, CTF-style web applications spanning 26 vulnerability classes across three difficulty tiers, Mako achieves full-suite coverage: it drives every one of the 104 targets to emit a cryptographically fresh, per-build flag, under a verification regime that makes fabricated or memorised results impossible. Our central result is a law of autonomous exploitation: once a capability exists and is discoverable, difficulty collapses; capability, not reasoning, is what is scarce, together with an architecture and formalism that turn that law into a self-improving system. Mako further runs a gated self-evolution loop that proposes, sandboxes, and commits improvements to its own agents and rules when fitness does not regress. We deliberately withhold the operational results, payloads, exploit chains, and tool source, because a system that reduces full-spectrum web exploitation to a repeatable, machine-speed pipeline is dual-use research of concern. We publish the science; we withhold the weapon.
+
+## Metadata
+- **Published**: 2026-07-13T09:07:30Z
+- **Authors**: Praneeth Narisetty, Shiva Nagendra Babu Kore
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.11288v1)

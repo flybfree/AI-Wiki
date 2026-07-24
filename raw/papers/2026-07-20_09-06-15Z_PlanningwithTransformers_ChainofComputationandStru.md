@@ -1,0 +1,18 @@
+---
+title: Planning with Transformers: Chain of Computation and Structured Context Windows
+published: 2026-07-20T09:06:15Z
+authors: Ehsan Futuhi, Nathan R. Sturtevant
+url: http://arxiv.org/abs/2607.17710v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Planning with Transformers: Chain of Computation and Structured Context Windows
+
+## Abstract
+Large Language Models (LLMs) have had a remarkable impact across many areas of machine learning. However, recent studies have shown that they struggle to reliably solve planning problems. At the same time, theoretical results have shown that transformers, the core architecture underlying modern LLMs, are Turing-complete. In this work, we investigate this apparent gap between the theoretical computational power of LLMs and their empirical planning performance. We propose Chain of Computation (COC), a computational architecture that places a transformer-based LM inside an iterative loop, leveraging its strength as a pattern-matching system. The COC uses a Structured Context Window (SCW) which provides a constant-sized context window with support for choosing which window is used at each planning step. Within this architecture, the LM is able to learn a planning policy, predicts the world model, and performs the arithmetic operations required during planning. We show that, when given an append-only SCW (resembling a Turing Machine tape), even relatively small LMs trained from scratch can learn planning policies and generalize from a small number of training instances within each planning domain, achieving success rates above 99.89\% on BlocksWorld and the Pancake puzzle. Our analysis of failure cases in Tower of Hanoi (TOH) reveals that they arise from arithmetic operations or from encountering previously unseen tokens. We show that COC can solve TOH problem instances with up to 20 disks, requiring over 1 million actions, while requiring substantially less training data by either (1) planning with symbolical support for arithmetic or by (2) using a deterministic pushdown automaton (PDA) formulation for the SCW.
+
+## Metadata
+- **Published**: 2026-07-20T09:06:15Z
+- **Authors**: Ehsan Futuhi, Nathan R. Sturtevant
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.17710v1)

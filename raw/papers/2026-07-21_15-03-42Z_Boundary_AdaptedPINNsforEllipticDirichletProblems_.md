@@ -1,0 +1,18 @@
+---
+title: Boundary-Adapted PINNs for Elliptic Dirichlet Problems: $H^2(Ω)$ A Priori Error Bounds with Application to Mean Escape Time Computation
+published: 2026-07-21T15:03:42Z
+authors: Nathanael Tepakbong, Jun Fan, Xiang Zhou, Ding-Xuan Zhou
+url: http://arxiv.org/abs/2607.19167v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Boundary-Adapted PINNs for Elliptic Dirichlet Problems: $H^2(Ω)$ A Priori Error Bounds with Application to Mean Escape Time Computation
+
+## Abstract
+Motivated by the numerical computation of the Mean Escape Time (MET) $τ:Ω\to\mathbb{R}$ of a stochastic process from a bounded domain $Ω\subseteq\mathbb{R}^d$, we study elliptic Dirichlet boundary value problems (BVPs) using boundary-enforced Physics-Informed Neural Networks (PINNs), in which the Dirichlet condition is imposed exactly by multiplying the network output with a predefined distance-to-boundary approximation $ρ$. Combining approximation-theoretic and statistical-learning arguments for Rectified Quadratic Unit (ReQU) and hyperbolic tangent (tanh) networks, we derive a priori error bounds that make explicit the dependence on $ρ$. In particular, we show that exact boundary enforcement alone is not enough for $H^2(Ω)$ error bounds, and that a sufficient and essentially necessary condition is for $ρ$ to be a smooth distance approximation $\textit{normalized to first order}$, of the kind constructed in arXiv:2104.08426 [math.NA]. We thereby identify this subclass of $\textit{boundary-adapted}$ PINNs as the appropriate neural network ansatz for solving Dirichlet BVPs. Numerical experiments support the theory, showing that appropriate choices of $ρ$ improve accuracy and convergence, while poorly chosen distance functions can substantially degrade the solution. Our proof also yields new VC-dimension bounds for hypothesis spaces of higher-order derivatives of ReQU and tanh networks, together with new approximation bounds for shallow ReQU networks in higher-order Sobolev norms, all of which are of important independent interest.
+
+## Metadata
+- **Published**: 2026-07-21T15:03:42Z
+- **Authors**: Nathanael Tepakbong, Jun Fan, Xiang Zhou, Ding-Xuan Zhou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.19167v1)

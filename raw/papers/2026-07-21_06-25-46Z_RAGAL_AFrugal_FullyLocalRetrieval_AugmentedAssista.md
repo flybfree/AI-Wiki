@@ -1,0 +1,18 @@
+---
+title: RAGAL: A Frugal, Fully Local Retrieval-Augmented Assistant for Technical Support at a Government Agency
+published: 2026-07-21T06:25:46Z
+authors: Dan Musetoiu
+url: http://arxiv.org/abs/2607.18756v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# RAGAL: A Frugal, Fully Local Retrieval-Augmented Assistant for Technical Support at a Government Agency
+
+## Abstract
+Public institutions hold large volumes of sensitive documents and support tickets that cannot leave the premises, ruling out cloud-hosted language models entirely. We report on RAGAL, a retrieval-augmented assistant for the technical-support team of AFIR, the Romanian Agency for Financing Rural Investments, built and operated under three hard constraints: zero data egress (no external API calls, even for synthetic data), a read-only mandate (the assistant drafts, humans execute), and a single 8 GB consumer laptop as the only development and training machine. Over a Romanian-language corpus of ~25,000 chunks -- 15,073 resolved support tickets and internal normative documents -- we show that the highest-leverage investments were retrieval engineering and retriever fine-tuning rather than a larger generator: hybrid dense-sparse retrieval with intent routing raised our internal evaluation from 62% to 81%, and fine-tuning the bge-m3 embedder on real ticket data improved recall@10 from 0.663 to 0.850 (MRR 0.489 to 0.684) after 72 minutes of training. We document a general pitfall: single-domain fine-tuning silently degraded retrieval on the untouched document domain below the stock baseline, detected only after building a per-domain evaluation set and repaired with locally generated queries (GenQ). We report two counter-intuitive findings -- PII masking improved generation quality, and a structural "anchor distillation" scheme made SQL hallucination impossible by construction -- along with a reproducible recipe for full embedder fine-tuning in 8 GB of VRAM. Finally, since zero egress also rules out a cloud judge, we describe a substitute: a 744B-parameter model run on CPU, too slow to serve interactively but affordable in overnight batch, used as a second opinion whose limits we quantify. We release the sanitized pipeline scripts for institutions facing similar data-locality constraints.
+
+## Metadata
+- **Published**: 2026-07-21T06:25:46Z
+- **Authors**: Dan Musetoiu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.18756v1)

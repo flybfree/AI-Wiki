@@ -1,0 +1,18 @@
+---
+title: Thinkink: 2D Spatial Ink-native Interaction with LLMs
+published: 2026-07-23T16:09:40Z
+authors: Mohammad Hasan Payandeh, Daniel Vogel, Jian Zhao
+url: http://arxiv.org/abs/2607.21468v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Thinkink: 2D Spatial Ink-native Interaction with LLMs
+
+## Abstract
+People often use handwritten notes and sketches to externalize ideas for ideation. To integrate large language models (LLMs) into this practice, we propose Thinkink. Prompts can be handwritten text or drawn sketches with LLM-generated responses visualized as ink-like text and sketches spatially integrated into a shared canvas. A semantic tree streamlines ink interpretation, and a lightweight UI provides explicit control using a state machine. The tool was designed using a three-stage process. A formative study (N=12) examined current practices with conventional and digital inking methods. The results informed a technical probe for a diagnostic study (N=6) identifying usability and human-LLM interaction challenges. This motivated the design of Thinkink, with a final study (N=10) examining how people incorporate it into their ideation practices. We contribute design implications and a tool for ink-native LLM interaction where the user and LLM write and draw in a shared 2D canvas.
+
+## Metadata
+- **Published**: 2026-07-23T16:09:40Z
+- **Authors**: Mohammad Hasan Payandeh, Daniel Vogel, Jian Zhao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.21468v1)

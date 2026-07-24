@@ -1,0 +1,18 @@
+---
+title: Breaking the $T^{3/4}$ Barrier for Regret Minimization With Bi-Dimensional CDFs
+published: 2026-07-22T15:15:28Z
+authors: Matteo Castiglioni, Anna Lunghi, Alberto Marchesi
+url: http://arxiv.org/abs/2607.20258v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Breaking the $T^{3/4}$ Barrier for Regret Minimization With Bi-Dimensional CDFs
+
+## Abstract
+We study regret minimization for learning CDF-related objectives of the form \[ g(x)\cdot\mathbb{P}_{X\sim\mathcal{D}}(X\le x), \] over $[0,1]^2$, where $g$ is a known Lipschitz function and $\mathcal{D}$ is an unknown distribution. At each round $t$, the learner selects a point $x_t$ and observes the binary feedback $\mathbb{I}(X_t\le x_t)$, where $X_t\sim\mathcal{D}$. We design an algorithm achieving regret $\widetilde{\mathcal{O}}(T^{7/10})$, improving over the previous best-known bound of $\widetilde{\mathcal{O}}(T^{3/4})$ and showing that the curse of dimensionality can be at least partially lifted for this class of objectives, though a gap remains with the $Ω(T^{2/3})$ lower bound. As an application, our techniques yield the same $\widetilde{\mathcal{O}}(T^{7/10})$ regret bound for profit maximization in repeated bilateral trade with fixed prices.
+
+## Metadata
+- **Published**: 2026-07-22T15:15:28Z
+- **Authors**: Matteo Castiglioni, Anna Lunghi, Alberto Marchesi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20258v1)

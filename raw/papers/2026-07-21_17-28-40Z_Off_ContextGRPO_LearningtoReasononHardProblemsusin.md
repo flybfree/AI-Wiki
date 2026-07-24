@@ -1,0 +1,18 @@
+---
+title: Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information
+published: 2026-07-21T17:28:40Z
+authors: Priyank Agrawal, Ankur Samanta, Shervin Ghasemlou, Jalaj Bhandari, Kavosh Asadi, Daniel Jiang, Aditya Modi
+url: http://arxiv.org/abs/2607.19313v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Off-Context GRPO: Learning to Reason on Hard Problems using Privileged Information
+
+## Abstract
+Reinforcement learning with verifiable rewards (RLVR) improves reasoning in large language models. Yet, typical RLVR approaches fail on difficult problems: when a model cannot generate any correct solutions, it receives \textit{zero} learning signal. Providing privileged guidance during training, such as solution prefixes, can help overcome this learning cliff by steering the model towards {correct solutions with non-zero reward}. {We call these rollouts \textit{off-context}: they are generated from a training prompt that contains privileged guidance, while the target objective is defined by the original prompt without that guidance.} {We introduce} Off-Context GRPO (OC-GRPO), a minimally modified variant of GRPO that uses guided rollouts but applies an importance-corrected objective to steer the update back toward the original unguided objective, avoiding the mismatch that destabilizes uncorrected guided training. Empirically, our algorithm achieves a 3.9\% absolute improvement (13.8\% relative gain) over vanilla GRPO on average across standard mathematical reasoning benchmarks with negligible additional cost.
+
+## Metadata
+- **Published**: 2026-07-21T17:28:40Z
+- **Authors**: Priyank Agrawal, Ankur Samanta, Shervin Ghasemlou, Jalaj Bhandari, Kavosh Asadi, Daniel Jiang, Aditya Modi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.19313v1)

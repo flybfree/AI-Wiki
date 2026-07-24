@@ -1,0 +1,18 @@
+---
+title: Perception, Verdict, and Evolution: Hindsight-Driven Self-Refining Forensics Agent for AI-Generated Image Detection
+published: 2026-06-25T02:59:33Z
+authors: Yangjun Wu, Keyu Yan, Yu Liu, Jingren Zhou, Fei Huang, Rong Zhang, Zhou Zhao, Fei Wu
+url: http://arxiv.org/abs/2606.26552v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Perception, Verdict, and Evolution: Hindsight-Driven Self-Refining Forensics Agent for AI-Generated Image Detection
+
+## Abstract
+The rapid advancement of generative models presents a significant challenge to existing deepfake detection methods, particularly given the widespread dissemination of highly realistic AI-generated images. Although Multimodal Large Language Models (MLLMs) show strong potential for this task, existing approaches suffer from two key limitations: insufficient sensitivity to fine-grained forensic artifacts and reliance on static synthetic supervision from frontier models, leading to limited flexibility and high-cost. To address these issues, we propose ForeAgent, an agentic forensics framework for AI-generated image detection with iterative self-evolution. First, ForeAgent adopts a Perception-Verdict architecture that aggregates multi-view cues spanning semantic, spatial, and frequency-domain features, and leverages an MLLM as a verdict module to fuse these signals for a logical-grounded verdict. Second, to enable continual self-improvement, we introduce a Hindsight-Driven Self-Refining strategy following a Sampling-Reflection-Evolution paradigm. The agent performs inference rollouts on training instances. Guided by ground-truth labels as hindsight, it reflects on failure cases and low-quality reasoning trajectories to regenerate higher-quality reasoning traces. These synthesized samples are then strictly filtered through a dual-expert quality gating module. ForeAgent continuously evolves via fine-tuning on self-curated high-quality samples. Extensive experiments demonstrate that ForeAgent achieves state-of-the-art performance on the Chameleon benchmark, reaching 82.18% accuracy (+16.41% over AIDE), and achieves 93.3% mean accuracy on AIGCDetect-Benchmark across 16 generators. In addition, external evaluation shows that ForeAgent produces more consistent and causally grounded reasoning compared to GPT-5 and GPT-5-mini.
+
+## Metadata
+- **Published**: 2026-06-25T02:59:33Z
+- **Authors**: Yangjun Wu, Keyu Yan, Yu Liu, Jingren Zhou, Fei Huang, Rong Zhang, Zhou Zhao, Fei Wu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2606.26552v1)

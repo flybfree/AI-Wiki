@@ -1,0 +1,18 @@
+---
+title: Empowering On-Device Model Adaptation with an Edge AI Inference Accelerator
+published: 2026-07-20T16:02:58Z
+authors: Mateusz Piechocki, Alessandro Capotondi, Marek Kraft
+url: http://arxiv.org/abs/2607.18101v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Empowering On-Device Model Adaptation with an Edge AI Inference Accelerator
+
+## Abstract
+On-device model adaptation is essential to enable lifelong personalization on resource-constrained hardware, but compute, power, and memory limitations of such devices make end-to-end backpropagation impractical for modern deep neural networks. This work proposes a heterogeneous adaptation pipeline that repurposes a commercial edge AI inference accelerator, Hailo-8L, for frozen-backbone feature extraction during on-device training. The computational graph is partitioned so that the pre-trained backbone is quantized to INT8 and run on the accelerator, while only a lightweight FP32 classification head is fine-tuned on the host CPU, enabling frequent, energy-efficient in-field updates with most weights remaining fixed. Across multiple architectures and datasets, this pipeline achieves up to 15.4x faster wall-clock training time compared to a Raspberry Pi 5 CPU baseline, offers competitive throughput in favorable settings, and consistently reduces energy per sample. Post-training quantization restoration is shown to be crucial for preserving the quality of accelerator-generated features and mitigating accuracy loss in quantization-sensitive architectures. Overall, the results demonstrate a practical approach to efficient on-device adaptation using inference-oriented edge accelerators. The implementation is available at https://github.com/MatPiech/accelerator-training.
+
+## Metadata
+- **Published**: 2026-07-20T16:02:58Z
+- **Authors**: Mateusz Piechocki, Alessandro Capotondi, Marek Kraft
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.18101v1)

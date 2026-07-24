@@ -1,0 +1,18 @@
+---
+title: Formal Disco: Scalable Open-Ended Generation of Formally Verified Programs
+published: 2026-07-06T03:31:14Z
+authors: Gabriel Poesia, Simon Henniger, Tzu-Han Hsu, Yilun Du, Nada Amin
+url: http://arxiv.org/abs/2607.04631v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Formal Disco: Scalable Open-Ended Generation of Formally Verified Programs
+
+## Abstract
+The cost of producing code is rapidly diminishing with increasingly capable AI agents, while quality assurance of generated programs has not kept pace. Formal verification provides the strongest possible guarantees, but the ability of AI models to work with verification-aware languages is hindered by the scarcity of human-written examples of programs in those languages. To tackle this prevalent data scarcity issue, we propose Formal Disco: a distributed system for coordination of LLM-based workers that can be easily applied to open-ended synthetic data generation at scale. We use Formal Disco to share tasks and programs between three classes of workers: "initiators", which read random READMEs from open-source repositories and documentation snippets to sketch a related verified program, "fixers" which take compiler and verifier feedback and attempt to resolve issues, and "extenders" that take working programs and propose patches to expand them. Formal Disco records all agent-generated traces and uses them both for initial distillation from a stronger model as well as self-improvement. We also propose a principle of maximum entropy for synthetic program generation, and use entropy maximization via iterative supervised fine-tuning to learn to generate increasingly diverse programs over time. We release large datasets of synthetic verified programs in three languages - Dafny, Verus, and Frama-C -, and fine-tune open models for verification-relevant tasks, often matching or exceeding the performance of Claude Opus 4.5. Overall, our work offers a path to create synthetic data at scale for formal reasoning domains and overcome the long-standing data barrier.
+
+## Metadata
+- **Published**: 2026-07-06T03:31:14Z
+- **Authors**: Gabriel Poesia, Simon Henniger, Tzu-Han Hsu, Yilun Du, Nada Amin
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.04631v1)

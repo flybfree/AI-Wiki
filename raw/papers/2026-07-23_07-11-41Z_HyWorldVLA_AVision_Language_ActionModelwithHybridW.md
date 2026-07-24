@@ -1,0 +1,18 @@
+---
+title: HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving
+published: 2026-07-23T07:11:41Z
+authors: Quanfu Yu, Xian Wu, Hao Xu, Liulong Ma
+url: http://arxiv.org/abs/2607.20988v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# HyWorldVLA: A Vision-Language-Action Model with Hybrid World Modeling for Autonomous Driving
+
+## Abstract
+Vision-Language-Action (VLA) models augmented with world modeling represent a promising paradigm for end-to-end autonomous driving. While pixel-level future prediction enables fine-grained spatiotemporal reasoning, it compromises robustness in noisy driving scenarios. Conversely, latent-based world models alleviate this sensitivity but often incur limited interpretability and representational degradation due to absent pixel-level grounding. To reconcile this trade-off, we propose HyWorldVLA, a hybrid world-VLA framework that unifies pixel-level supervision and latent representation learning. In the pre-training stage, HyWorldVLA predicts video latents encoded by a pre-trained video VAE, while simultaneously reconstructing video frames to provide precise pixel-level grounding. During the subsequent co-fine-tuning phase, the model exclusively predicts latent features, which are fed into an action expert to generate trajectories. Extensive experiments on NAVSIM v1 and v2 benchmarks demonstrate that HyWorldVLA significantly outperforms both pixel-based and latent-based world model baselines. Notably, we present the first comprehensive qualitative and quantitative analysis of world model noise robustness in autonomous driving, establishing a new benchmark for evaluating future architectures.
+
+## Metadata
+- **Published**: 2026-07-23T07:11:41Z
+- **Authors**: Quanfu Yu, Xian Wu, Hao Xu, Liulong Ma
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.20988v1)
