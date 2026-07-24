@@ -1986,3 +1986,9 @@ tags: ['wiki']
 - [[2026-07-24_OpenAI_snewvoicemodemakesittotheChatGPTdesktopapp.md]] : OpenAI’s new voice mode makes it to the ChatGPT desktop app
 - [[2026-07-24_Thetech-broificationofAmericansciencehasofficially.md]] : The tech-broification of American science has officially begun
 - [[2026-07-24_AsUSweighsresponsetoChineseAI_industryurgesagainst.md]] : As US weighs response to Chinese AI, industry urges against broad open-weight restrictions
+- [[2026-07-24_AnthropicreleasesOpus5with_close_toFable5_scapabil.md]] : Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities
+- [[2026-07-24_AnthropiclaunchesOpus5.md]] : Anthropic launches Opus 5
+- [[2026-07-24_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-07-24_Youcan_tignoreGoogleZeroanymore.md]] : You can’t ignore Google Zero anymore
+- [[2026-07-24_WhyCognitionboughtPoke_AIpersonalityisbecomingacom.md]] : Why Cognition bought Poke: AI personality is becoming a competitive advantage
+- [[2026-07-24_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
