@@ -107,9 +107,10 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-23.md|Summary: 2026-07-23 Daily AI Intelligence Summary]] — compute, product surfaces, safety, and AI economics
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-22.md|Summary: 2026-07-22 Daily AI Intelligence Summary]] — infrastructure, safety, and wearables
-- [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-20.md|Summary: 2026-07-20 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on prompting, multimodal efficiency, and retrieval
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-21.md|Summary: 2026-07-21 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on diffusion, agents, and evaluation
+- [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-20.md|Summary: 2026-07-20 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on prompting, multimodal efficiency, and retrieval
 
 ### AI Research Papers
 - [[concepts/ai-research/2026-06-10_AIResearchPapers.md|AI Research Papers]] — key papers, contributions, and implications
@@ -1973,3 +1974,10 @@ tags: ['wiki']
 - [[2026-07-23_Couplepay__800kforagene-editingtherapyfortheirdaug.md]] : Couple pay >$800k for a gene-editing therapy for their daughter. She died.
 - [[2026-07-23_98_css.md]] : 98.css
 - [[2026-07-23_HowAIguardrailsareimpedingtheworkofoffensivecybers.md]] : How AI guardrails are impeding the work of offensive cybersecurity researchers
+- [[2026-07-24_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
+- [[2026-07-24_AlexaPlusisgettinganAIupdatetohandlemorecomplicate.md]] : Alexa Plus is getting an AI update to handle more complicated instructions
+- [[2026-07-24_Invitinghardquestions.md]] : Inviting hard questions
+- [[2026-07-24_HowAIguardrailsareimpedingtheworkofoffensivecybers.md]] : How AI guardrails are impeding the work of offensive cybersecurity researchers
+- [[2026-07-24_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[2026-07-24_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-07-24_Flux3.md]] : Flux 3

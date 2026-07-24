@@ -44,5 +44,7 @@ Use this page as the stable landing zone for daily variants:
 
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]]
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]]
+- [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-23.md|Summary: 2026-07-23 Daily AI Intelligence Summary]]
+- [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-22.md|Summary: 2026-07-22 Daily AI Intelligence Summary]]
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-20.md|Summary: 2026-07-20 Daily AI Intelligence Summary]]
 - [[index.md|Wiki Index]]
