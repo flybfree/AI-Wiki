@@ -1981,3 +1981,8 @@ tags: ['wiki']
 - [[2026-07-24_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
 - [[2026-07-24_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-07-24_Flux3.md]] : Flux 3
+- [[2026-07-24_Flux3XMimic_TheNextGenerationofVideo-ActionModels.md]] : Flux 3 X Mimic: The Next Generation of Video-Action Models
+- [[2026-07-24_MysecuritycamerashippedaGitHubadmintokeninitslogin.md]] : My security camera shipped a GitHub admin token in its login page
+- [[2026-07-24_OpenAI_snewvoicemodemakesittotheChatGPTdesktopapp.md]] : OpenAI’s new voice mode makes it to the ChatGPT desktop app
+- [[2026-07-24_Thetech-broificationofAmericansciencehasofficially.md]] : The tech-broification of American science has officially begun
+- [[2026-07-24_AsUSweighsresponsetoChineseAI_industryurgesagainst.md]] : As US weighs response to Chinese AI, industry urges against broad open-weight restrictions

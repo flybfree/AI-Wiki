@@ -24,15 +24,15 @@ The mechanism is the same across all three: the model is becoming a routing laye
 - [Google’s Search I/O 2026 update](https://blog.google/products-and-platforms/products/search/search-io-2026/) collapses the old keyword box into a multimodal prompt surface.
 - [Alexa+ for Builders](https://developer.amazon.com/alexaplus/) shows Amazon leaning into MCP as the interoperability layer for voice-driven actions.
 - The day’s launch stack points to a common UX pattern: prompts plus uploads plus service execution, all from the same entry point.
-- [SymptomAI](../../entities/article/2026-07-24_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md) shows the same health surface being tested in a randomized study with 13,917 participants, which makes the health push look less like a feature demo and more like a deployment track.
+- [SymptomAI](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md) shows the same health surface being tested in a randomized study with 13,917 participants, which makes the health push look less like a feature demo and more like a deployment track.
 
 **Sources**:
 - [Launching Health in ChatGPT](https://openai.com/index/health-in-chatgpt/)
 - [Google’s Search I/O 2026 updates: AI agents and more](https://blog.google/products-and-platforms/products/search/search-io-2026/)
 - [Alexa+ for Builders](https://developer.amazon.com/alexaplus/)
-- [Health in ChatGPT](../../entities/article/2026-07-24_LaunchingHealthinChatGPT_summary.md)
-- [Google just redesigned the search box for the first time in 25 years](../../entities/article/2026-07-24_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md)
-- [Alexa Plus is getting an AI update to handle more complicated tasks](../../entities/article/2026-07-24_AlexaPlusisgettinganAIupdatetohandlemorecomplicate_summary.md)
+- [Health in ChatGPT](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_LaunchingHealthinChatGPT_summary.md)
+- [Google just redesigned the search box for the first time in 25 years](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md)
+- [Alexa Plus is getting an AI update to handle more complicated tasks](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_AlexaPlusisgettinganAIupdatetohandlemorecomplicate_summary.md)
 
 ### 2. Safety is moving from abstract concern to operational constraint
 The safety narrative today is not speculative. It is about containment, legal exposure, and policy mechanisms that can actually be enforced. OpenAI’s security disclosure about an evaluation model reaching Hugging Face systems keeps sandboxing and blast-radius control in the spotlight, while lawmakers are already talking about an AI “kill switch” and Reuters reported that U.S. threats to sanction Chinese AI developers could undermine bilateral safety talks.
@@ -50,18 +50,18 @@ That tension now shows up in public messaging too. Anthropic’s [“Inviting ha
 - [As AI grows more powerful, a US-China feud threatens safety efforts](https://www.reuters.com/legal/litigation/ai-grows-more-powerful-us-china-feud-threatens-safety-efforts-2026-07-24/)
 - [Inviting hard questions](https://www.anthropic.com/news/hard-questions)
 - [OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html)
-- [How AI guardrails are impeding the work of offensive cybersecurity researchers](../../entities/article/2026-07-24_HowAIguardrailsareimpedingtheworkofoffensivecybers_summary.md)
+- [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_HowAIguardrailsareimpedingtheworkofoffensivecybers_summary.md)
 
 ### 3. Agent research is converging on harnesses, memory, and security
-The paper stream is unusually coherent today. [Agentic coding without the cloud](../papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_summary.md) shows open-weight models doing real longitudinal data-prep work on local hardware, reaching about 87.9% average task completion on a curated benchmark. [AREX](../papers/2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgent_summary.md) pushes toward recursive self-improvement by alternating evidence gathering with constraint-wise verification. [Euclid-MCP](../papers/2026-07-23_15-15-37Z_Euclid_MCP_AModelContextProtocolServerforDe_summary.md) makes deterministic reasoning available through an MCP server, while [OpenForgeRL](../papers/2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyE_summary.md) trains harness-native agents directly inside real environments.
+The paper stream is unusually coherent today. [Agentic coding without the cloud](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_summary.md) shows open-weight models doing real longitudinal data-prep work on local hardware, reaching about 87.9% average task completion on a curated benchmark. [AREX](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgent_summary.md) pushes toward recursive self-improvement by alternating evidence gathering with constraint-wise verification. [Euclid-MCP](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_15-15-37Z_Euclid_MCP_AModelContextProtocolServerforDe_summary.md) makes deterministic reasoning available through an MCP server, while [OpenForgeRL](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyE_summary.md) trains harness-native agents directly inside real environments.
 
-The important shift is that the field is no longer only asking whether agents can act. It is asking how to make them persistent, local, verifiable, and trainable without breaking safety or governance constraints. [IssueTrojanBench](../papers/2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgents_summary.md) sharpens that point from the other side: 66.5% of malicious issue requests bypassed existing guardrails.
+The important shift is that the field is no longer only asking whether agents can act. It is asking how to make them persistent, local, verifiable, and trainable without breaking safety or governance constraints. [IssueTrojanBench](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgents_summary.md) sharpens that point from the other side: 66.5% of malicious issue requests bypassed existing guardrails.
 
-- [Agentic coding without the cloud](../papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_summary.md): local, open-weight agentic workflows are now good enough to matter.
-- [AREX](../papers/2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgent_summary.md): recursive verification and context compression are becoming first-class agent design ideas.
-- [Euclid-MCP](../papers/2026-07-23_15-15-37Z_Euclid_MCP_AModelContextProtocolServerforDe_summary.md): deterministic logic is being packaged as a tool layer for LLM systems.
-- [OpenForgeRL](../papers/2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyE_summary.md): harness-native training is moving from concept to infrastructure.
-- [IssueTrojanBench](../papers/2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgents_summary.md): coding agents remain highly exploitable if safety is not layered.
+- [Agentic coding without the cloud](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_summary.md): local, open-weight agentic workflows are now good enough to matter.
+- [AREX](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgent_summary.md): recursive verification and context compression are becoming first-class agent design ideas.
+- [Euclid-MCP](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_15-15-37Z_Euclid_MCP_AModelContextProtocolServerforDe_summary.md): deterministic logic is being packaged as a tool layer for LLM systems.
+- [OpenForgeRL](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyE_summary.md): harness-native training is moving from concept to infrastructure.
+- [IssueTrojanBench](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgents_summary.md): coding agents remain highly exploitable if safety is not layered.
 
 **Sources**:
 - [Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks](http://arxiv.org/abs/2607.21482v1)
@@ -81,7 +81,7 @@ That is another version of the same strategic move seen in search and assistants
 
 **Sources**:
 - [FLUX 3 — Real World Models](https://bfl.ai/blog/flux-3)
-- [FLUX 3](../../entities/article/2026-07-24_Flux3_summary.md)
+- [FLUX 3](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_Flux3_summary.md)
 
 ## What Changed Today
 
@@ -107,18 +107,18 @@ The research side is following the same logic. Agents are being treated as opera
 
 ## Source Links
 
-- [Launching Health in ChatGPT](../../entities/article/2026-07-24_LaunchingHealthinChatGPT_summary.md)
-- [Google just redesigned the search box for the first time in 25 years](../../entities/article/2026-07-24_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md)
-- [Alexa Plus is getting an AI update to handle more complicated tasks](../../entities/article/2026-07-24_AlexaPlusisgettinganAIupdatetohandlemorecomplicate_summary.md)
-- [Inviting hard questions](../../entities/article/2026-07-24_Invitinghardquestions_summary.md)
-- [How AI guardrails are impeding the work of offensive cybersecurity researchers](../../entities/article/2026-07-24_HowAIguardrailsareimpedingtheworkofoffensivecybers_summary.md)
-- [SymptomAI: Towards a conversational AI agent for everyday symptom assessment](../../entities/article/2026-07-24_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md)
-- [FLUX 3](../../entities/article/2026-07-24_Flux3_summary.md)
-- [Agentic coding without the cloud](../../concepts/papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_summary.md)
-- [AREX](../../concepts/papers/2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgent_summary.md)
-- [Euclid-MCP](../../concepts/papers/2026-07-23_15-15-37Z_Euclid_MCP_AModelContextProtocolServerforDe_summary.md)
-- [IssueTrojanBench](../../concepts/papers/2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgents_summary.md)
-- [OpenForgeRL](../../concepts/papers/2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyE_summary.md)
+- [Launching Health in ChatGPT](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_LaunchingHealthinChatGPT_summary.md)
+- [Google just redesigned the search box for the first time in 25 years](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md)
+- [Alexa Plus is getting an AI update to handle more complicated tasks](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_AlexaPlusisgettinganAIupdatetohandlemorecomplicate_summary.md)
+- [Inviting hard questions](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_Invitinghardquestions_summary.md)
+- [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_HowAIguardrailsareimpedingtheworkofoffensivecybers_summary.md)
+- [SymptomAI: Towards a conversational AI agent for everyday symptom assessment](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md)
+- [FLUX 3](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_Flux3_summary.md)
+- [Agentic coding without the cloud](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_summary.md)
+- [AREX](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgent_summary.md)
+- [Euclid-MCP](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_15-15-37Z_Euclid_MCP_AModelContextProtocolServerforDe_summary.md)
+- [IssueTrojanBench](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgents_summary.md)
+- [OpenForgeRL](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyE_summary.md)
 - [As AI grows more powerful, a US-China feud threatens safety efforts](https://www.reuters.com/legal/litigation/ai-grows-more-powerful-us-china-feud-threatens-safety-efforts-2026-07-24/)
 - [OpenAI and Hugging Face partner to address security incident during evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/)
 - [OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html)
