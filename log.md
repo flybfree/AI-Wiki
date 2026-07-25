@@ -2129,3 +2129,5 @@ tags: ['wiki']
 ## [2026-07-25 00:03] ingest | 2026-07-25_IntroducingClaudeOpus5.md
 ## [2026-07-25 02:29] ingest | 2026-07-25_ARC-AGILeaderboard.md
 ## [2026-07-25 03:02] ingest | 2026-07-25_AndroidMaySoonRestrictOn-DeviceADB.md
+## [2026-07-25 08:06] ingest | 2026-07-25_OnefallenpowerlineexposedagrowingAIdatacenterprobl.md
+## [2026-07-25 11:03] ingest | 2026-07-25_Librariansarehostingviral_AvoidingAI_workshopsforp.md

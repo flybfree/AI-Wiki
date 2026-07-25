@@ -2003,3 +2003,5 @@ tags: ['wiki']
 - [[2026-07-25_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-07-25_ARC-AGILeaderboard.md]] : ARC-AGI Leaderboard
 - [[2026-07-25_AndroidMaySoonRestrictOn-DeviceADB.md]] : Android May Soon Restrict On-Device ADB
+- [[2026-07-25_OnefallenpowerlineexposedagrowingAIdatacenterprobl.md]] : One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
+- [[2026-07-25_Librariansarehostingviral_AvoidingAI_workshopsforp.md]] : Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech
