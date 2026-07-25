@@ -2118,3 +2118,6 @@ tags: ['wiki']
 ## [2026-07-24 13:04] ingest | 2026-07-24_Youcan_tignoreGoogleZeroanymore.md
 ## [2026-07-24 14:03] ingest | 2026-07-24_WhyCognitionboughtPoke_AIpersonalityisbecomingacom.md
 ## [2026-07-24 14:21] ingest | 2026-07-24_MidjourneyboughttheastrologyappCo-Star.md
+## [2026-07-24 18:03] ingest | 2026-07-24_Prentis_newAIlabco-foundedbyReidHoffman_MarcPincus.md
+## [2026-07-24 19:09] ingest | 2026-07-24_Prentis_newAIlabco-foundedbyReidHoffman_MarkPincus.md
+## [2026-07-24 20:08] ingest | 2026-07-24_ItriedoutOpenAI_snewAIkeypad_whichwillbefunforsome.md

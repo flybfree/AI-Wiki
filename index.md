@@ -1992,3 +1992,6 @@ tags: ['wiki']
 - [[2026-07-24_Youcan_tignoreGoogleZeroanymore.md]] : You can’t ignore Google Zero anymore
 - [[2026-07-24_WhyCognitionboughtPoke_AIpersonalityisbecomingacom.md]] : Why Cognition bought Poke: AI personality is becoming a competitive advantage
 - [[2026-07-24_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
+- [[2026-07-24_Prentis_newAIlabco-foundedbyReidHoffman_MarcPincus.md]] : Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M
+- [[2026-07-24_Prentis_newAIlabco-foundedbyReidHoffman_MarkPincus.md]] : Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
+- [[2026-07-24_ItriedoutOpenAI_snewAIkeypad_whichwillbefunforsome.md]] : I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
