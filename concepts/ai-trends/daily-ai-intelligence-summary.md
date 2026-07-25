@@ -83,6 +83,15 @@ That is another version of the same strategic move seen in search and assistants
 - [FLUX 3 — Real World Models](https://bfl.ai/blog/flux-3)
 - [FLUX 3](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_Flux3_summary.md)
 
+## YouTube Channel Monitor
+
+I found one new upload in the monitored channels: [Wes Roth — "Opus 5 and Genspark SecondBrain JUST went live..."](https://www.youtube.com/watch?v=rPFnjDTlYuY). The video has no subtitles available, so this summary is grounded in the title, metadata, and description only. Based on the chapter markers in the description, the video focuses on Opus 5, the ARC-AGI 3 benchmark, a sponsored Genspark SecondBrain segment, and a demo called "Descent." The takeaway is that Wes is framing Opus 5 as part of the current frontier-model race while also highlighting memory-first productization through Genspark’s SecondBrain angle.
+
+- URL: https://www.youtube.com/watch?v=rPFnjDTlYuY
+- Published: 2026-07-24
+- Transcript: unavailable; no subtitles were present
+- Summary: Metadata and chapter markers point to a video about Opus 5, ARC-AGI 3, Genspark SecondBrain, and a demo segment named "Descent." The framing is benchmark-plus-product: model capability, memory tooling, and a sponsor-backed device launch all in one upload.
+
 ## What Changed Today
 
 - Yesterday’s infrastructure / compute story cooled; today’s fresh signal is mostly about interfaces and governance.
@@ -126,3 +135,4 @@ The research side is following the same logic. Agents are being treated as opera
 - [FLUX 3 — Real World Models](https://bfl.ai/blog/flux-3)
 - [Google’s Search I/O 2026 updates: AI agents and more](https://blog.google/products-and-platforms/products/search/search-io-2026/)
 - [Alexa+ for Builders](https://developer.amazon.com/alexaplus/)
+- [Wes Roth — Opus 5 and Genspark SecondBrain JUST went live...](https://www.youtube.com/watch?v=rPFnjDTlYuY)
