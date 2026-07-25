@@ -2005,3 +2005,7 @@ tags: ['wiki']
 - [[2026-07-25_AndroidMaySoonRestrictOn-DeviceADB.md]] : Android May Soon Restrict On-Device ADB
 - [[2026-07-25_OnefallenpowerlineexposedagrowingAIdatacenterprobl.md]] : One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
 - [[2026-07-25_Librariansarehostingviral_AvoidingAI_workshopsforp.md]] : Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech
+- [[2026-07-25_Windturbineisbeingusedtoproducezero-carbon_greenam.md]] : Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer
+- [[2026-07-25_StolenButtons.md]] : Stolen Buttons
+- [[2026-07-25_ShowHN_Bribes_fyi_Knowbeforeyougo_Newfeatureadded.md]] : Show HN: Bribes.fyi – Know before you go. New feature added
+- [[2026-07-25_A77-year-oldRepublicanmanisstagingasoloprotestagai.md]] : A 77-year-old Republican man is staging a solo protest against Flock cameras

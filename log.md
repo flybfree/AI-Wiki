@@ -2131,3 +2131,7 @@ tags: ['wiki']
 ## [2026-07-25 03:02] ingest | 2026-07-25_AndroidMaySoonRestrictOn-DeviceADB.md
 ## [2026-07-25 08:06] ingest | 2026-07-25_OnefallenpowerlineexposedagrowingAIdatacenterprobl.md
 ## [2026-07-25 11:03] ingest | 2026-07-25_Librariansarehostingviral_AvoidingAI_workshopsforp.md
+## [2026-07-25 12:01] ingest | 2026-07-25_Windturbineisbeingusedtoproducezero-carbon_greenam.md
+## [2026-07-25 13:01] ingest | 2026-07-25_StolenButtons.md
+## [2026-07-25 14:38] ingest | 2026-07-25_ShowHN_Bribes_fyi_Knowbeforeyougo_Newfeatureadded.md
+## [2026-07-25 17:18] ingest | 2026-07-25_A77-year-oldRepublicanmanisstagingasoloprotestagai.md
