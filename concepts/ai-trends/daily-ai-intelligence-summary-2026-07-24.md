@@ -34,12 +34,23 @@ The mechanism is the same across all three: the model is becoming a routing laye
 - [Google just redesigned the search box for the first time in 25 years](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md)
 - [Alexa Plus is getting an AI update to handle more complicated tasks](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_AlexaPlusisgettinganAIupdatetohandlemorecomplicate_summary.md)
 
-### 2. Safety is moving from abstract concern to operational constraint
+### 2. Model releases are now judged on price-performance, reliability, and ecosystem pull
+[Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) is the clearest pure model story of the day. Anthropic positions it as a thoughtful, proactive model that comes close to Claude Fable 5 at half the price, and the surrounding coverage reinforces that this is not just a benchmark announcement — it is a commercial model release aimed at everyday work.
+
+- Anthropic’s launch post says Opus 5 is close to Fable 5 intelligence at half the price.
+- The [system card](https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude+Opus+5+System+Card.pdf) and [ARC-AGI 3 results](https://arcprize.org/results/anthropic-claude-opus-5) show the release is being judged against real capability and safety thresholds, not just marketing copy.
+- [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks) framed Opus 5 as a more cost-efficient default for everyday office work.
+- [The Verge](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release) emphasized Anthropic’s enterprise push, especially knowledge work and long-horizon tasks.
+- [CNET](https://www.cnet.com/tech/services-and-software/anthropic-releases-claude-opus-5-to-be-your-new-everyday-assistant/) highlighted Fast Mode and the speed/cost tradeoff.
+- The release reinforces a broader market shift: efficiency, consistency, and distribution matter as much as peak intelligence.
+
+### 3. Safety is moving from abstract concern to operational constraint
 The safety narrative today is not speculative. It is about containment, legal exposure, and policy mechanisms that can actually be enforced. OpenAI’s security disclosure about an evaluation model reaching Hugging Face systems keeps sandboxing and blast-radius control in the spotlight, while lawmakers are already talking about an AI “kill switch” and Reuters reported that U.S. threats to sanction Chinese AI developers could undermine bilateral safety talks.
 
 That tension now shows up in public messaging too. Anthropic’s [“Inviting hard questions”](https://www.anthropic.com/news/hard-questions) frames governance as a visible workflow, not just a principles page, and the [ChatGPT health rollout landed alongside a lawsuit alleging dangerous medical advice](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html). The direction is clear: frontier AI is being judged less on model demos and more on whether it can be contained, audited, and legally defended.
 
 - [OpenAI and Hugging Face partner to address security incident during evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) keeps containment and third-party blast radius front and center.
+- [Security incident disclosure — July 2026](https://huggingface.co/blog/security-incident-july-2026) is the counterpart disclosure from Hugging Face.
 - [As AI grows more powerful, a US-China feud threatens safety efforts](https://www.reuters.com/legal/litigation/ai-grows-more-powerful-us-china-feud-threatens-safety-efforts-2026-07-24/) says export-control pressure could weaken safety coordination.
 - [Inviting hard questions](https://www.anthropic.com/news/hard-questions) turns public concern into a tracked accountability program.
 - [OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html) shows the health use case is already drawing legal scrutiny.
@@ -51,24 +62,6 @@ That tension now shows up in public messaging too. Anthropic’s [“Inviting ha
 - [Inviting hard questions](https://www.anthropic.com/news/hard-questions)
 - [OpenAI Sued Over ChatGPT’s ‘Dangerous’ Health Advice](https://www.nytimes.com/2026/07/22/well/openai-chatgpt-health-lawsuit.html)
 - [How AI guardrails are impeding the work of offensive cybersecurity researchers](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_HowAIguardrailsareimpedingtheworkofoffensivecybers_summary.md)
-
-### 3. Agent research is converging on harnesses, memory, and security
-The paper stream is unusually coherent today. [Agentic coding without the cloud](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_summary.md) shows open-weight models doing real longitudinal data-prep work on local hardware, reaching about 87.9% average task completion on a curated benchmark. [AREX](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgent_summary.md) pushes toward recursive self-improvement by alternating evidence gathering with constraint-wise verification. [Euclid-MCP](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_15-15-37Z_Euclid_MCP_AModelContextProtocolServerforDe_summary.md) makes deterministic reasoning available through an MCP server, while [OpenForgeRL](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyE_summary.md) trains harness-native agents directly inside real environments.
-
-The important shift is that the field is no longer only asking whether agents can act. It is asking how to make them persistent, local, verifiable, and trainable without breaking safety or governance constraints. [IssueTrojanBench](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgents_summary.md) sharpens that point from the other side: 66.5% of malicious issue requests bypassed existing guardrails.
-
-- [Agentic coding without the cloud](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_summary.md): local, open-weight agentic workflows are now good enough to matter.
-- [AREX](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgent_summary.md): recursive verification and context compression are becoming first-class agent design ideas.
-- [Euclid-MCP](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_15-15-37Z_Euclid_MCP_AModelContextProtocolServerforDe_summary.md): deterministic logic is being packaged as a tool layer for LLM systems.
-- [OpenForgeRL](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyE_summary.md): harness-native training is moving from concept to infrastructure.
-- [IssueTrojanBench](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgents_summary.md): coding agents remain highly exploitable if safety is not layered.
-
-**Sources**:
-- [Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks](http://arxiv.org/abs/2607.21482v1)
-- [AREX: Towards a Recursively Self-Improving Agent for Deep Research](http://arxiv.org/abs/2607.21461v1)
-- [Euclid-MCP: A Model Context Protocol Server for Deterministic Logical Reasoning via Prolog](http://arxiv.org/abs/2607.21412v1)
-- [IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests](http://arxiv.org/abs/2607.20759v1)
-- [OpenForgeRL: Train Harness-native Agents in Any Environment](http://arxiv.org/abs/2607.21557v1)
 
 ### 4. Multimodal world models are getting more grounded
 [FLUX 3](https://bfl.ai/blog/flux-3) is the clearest research/product signal on the media side today. Black Forest Labs is pushing a unified architecture that jointly learns from images, video, and audio, with early access already available. The important part is not just output quality; it is that the model is trying to represent a world state shared across modalities rather than treating image, video, and audio as disconnected tasks.

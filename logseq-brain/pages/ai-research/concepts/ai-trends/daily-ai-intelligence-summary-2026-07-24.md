@@ -23,12 +23,15 @@ The biggest launches today are about making assistants useful in the real world,
 - [Alexa+ for Builders](https://developer.amazon.com/alexaplus/) extends Alexa+ with MCP and partner services so voice can trigger real tasks, not just answer questions.
 - [OpenAI’s new voice mode in the desktop app](https://techcrunch.com/2026/07/24/openais-new-voice-mode-makes-it-to-the-chatgpt-desktop-app/) makes spoken multi-step control part of the main product, not a mobile-only novelty.
 
-### 2. Model releases are now judged on price-performance and reliability
-[Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) is the clearest pure model story of the day. Anthropic is positioning it as near-frontier on coding and knowledge work while materially cheaper than the prior top tier. The important part is not just the benchmark numbers; it is the message that the winning model is the one that can be trusted to work for longer, on harder tasks, at a sustainable cost.
+### 2. Model releases are now judged on price-performance, reliability, and ecosystem pull
+[Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) is the clearest pure model story of the day. Anthropic positions it as a thoughtful, proactive model that comes close to Claude Fable 5 at half the price, and the surrounding coverage reinforces that this is not just a benchmark announcement — it is a commercial model release aimed at everyday work.
 
-- Anthropic says Opus 5 comes close to Claude Fable 5 at roughly half the price.
-- Early results highlight stronger coding, debugging, root-cause analysis, and scientific reasoning.
-- The release reinforces a broader market shift: efficiency and consistency matter as much as peak intelligence.
+- Anthropic’s launch post says Opus 5 is close to Fable 5 intelligence at half the price.
+- The [system card](https://www-cdn.anthropic.com/c5fbac3f0b1280a933ebd26d3cb8bb9f5bdeaf48/Claude+Opus+5+System+Card.pdf) and [ARC-AGI 3 results](https://arcprize.org/results/anthropic-claude-opus-5) show the release is being judged against real capability and safety thresholds, not just marketing copy.
+- [Bloomberg](https://www.bloomberg.com/news/articles/2026-07-24/anthropic-unveils-more-cost-efficient-model-for-everyday-tasks) framed Opus 5 as a more cost-efficient default for everyday office work.
+- [The Verge](https://www.theverge.com/ai-artificial-intelligence/970105/claude-opus-5-announced-anthropic-ai-model-release) emphasized Anthropic’s enterprise push, especially knowledge work and long-horizon tasks.
+- [CNET](https://www.cnet.com/tech/services-and-software/anthropic-releases-claude-opus-5-to-be-your-new-everyday-assistant/) highlighted Fast Mode and the speed/cost tradeoff.
+- The release reinforces a broader market shift: efficiency, consistency, and distribution matter as much as peak intelligence.
 
 ### 3. Safety and policy are no longer side quests
 The containment story around OpenAI and Hugging Face has become a real policy object, not just a one-off incident. The same day also brought more evidence that AI safety is tangled up with geopolitics and liability: U.S.-China tensions are making coordination harder, open-weight model policy is becoming contested, and health-related deployments are already attracting lawsuits.
