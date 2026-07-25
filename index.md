@@ -1995,3 +1995,11 @@ tags: ['wiki']
 - [[2026-07-24_Prentis_newAIlabco-foundedbyReidHoffman_MarcPincus.md]] : Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M
 - [[2026-07-24_Prentis_newAIlabco-foundedbyReidHoffman_MarkPincus.md]] : Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
 - [[2026-07-24_ItriedoutOpenAI_snewAIkeypad_whichwillbefunforsome.md]] : I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
+- [[2026-07-25_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
+- [[2026-07-25_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[2026-07-25_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
+- [[2026-07-25_ItriedoutOpenAI_snewAIkeypad_whichwillbefunforsome.md]] : I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
+- [[2026-07-25_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-07-25_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-07-25_ARC-AGILeaderboard.md]] : ARC-AGI Leaderboard
+- [[2026-07-25_AndroidMaySoonRestrictOn-DeviceADB.md]] : Android May Soon Restrict On-Device ADB
