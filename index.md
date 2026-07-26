@@ -2025,3 +2025,4 @@ tags: ['wiki']
 - [[2026-07-26_AnESP32basedplaneradarformydesk.md]] : An ESP32 based plane radar for my desk
 - [[2026-07-26_Ashellcolondoesnothing_Useitanyway.md]] : A shell colon does nothing. Use it anyway
 - [[2026-07-26_Ruffv0_16_0_Significantnewupdates_413defaultrulesu.md]] : Ruff v0.16.0 – Significant new updates – 413 default rules up from 59
+- [[2026-07-26_ParkbyRobotatLondonGatwickAirport.md]] : Park by Robot at London Gatwick Airport
