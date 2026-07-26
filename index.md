@@ -2015,3 +2015,13 @@ tags: ['wiki']
 - [[2026-07-25_Monday_comisthelatesttechcompanytoblameAIforlayoff.md]] : Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
 - [[2026-07-25_SystemsandDelays.md]] : Systems and Delays
 - [[2026-07-25_JetZero.md]] : JetZero
+- [[2026-07-26_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
+- [[2026-07-26_Monday_comisthelatesttechcompanytoblameAIforlayoff.md]] : Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
+- [[2026-07-26_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[2026-07-26_ShowHN_ImappedeveryUSgolfcourse_16k_courses_free_n.md]] : Show HN: I mapped every US golf course – 16k+ courses, free, no signup
+- [[2026-07-26_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-07-26_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-07-26_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
+- [[2026-07-26_AnESP32basedplaneradarformydesk.md]] : An ESP32 based plane radar for my desk
+- [[2026-07-26_Ashellcolondoesnothing_Useitanyway.md]] : A shell colon does nothing. Use it anyway
+- [[2026-07-26_Ruffv0_16_0_Significantnewupdates_413defaultrulesu.md]] : Ruff v0.16.0 – Significant new updates – 413 default rules up from 59
