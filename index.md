@@ -2026,3 +2026,8 @@ tags: ['wiki']
 - [[2026-07-26_Ashellcolondoesnothing_Useitanyway.md]] : A shell colon does nothing. Use it anyway
 - [[2026-07-26_Ruffv0_16_0_Significantnewupdates_413defaultrulesu.md]] : Ruff v0.16.0 – Significant new updates – 413 default rules up from 59
 - [[2026-07-26_ParkbyRobotatLondonGatwickAirport.md]] : Park by Robot at London Gatwick Airport
+- [[2026-07-26_HuggingFaceCEOcallsfor_radicaltransparency_after_u.md]] : Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack
+- [[2026-07-26_LondonGatwickhaslaunchedaroboticairportparkingserv.md]] : London Gatwick has launched a robotic airport parking service
+- [[2026-07-26_Decker.md]] : Decker
+- [[2026-07-26_MakingsenseofthepanicoverChineseAI.md]] : Making sense of the panic over Chinese AI
+- [[2026-07-26_Decker_aplatformthatbuildsonthelegacyofHypercardan.md]] : Decker, a platform that builds on the legacy of Hypercard and classic macOS
