@@ -2009,3 +2009,9 @@ tags: ['wiki']
 - [[2026-07-25_StolenButtons.md]] : Stolen Buttons
 - [[2026-07-25_ShowHN_Bribes_fyi_Knowbeforeyougo_Newfeatureadded.md]] : Show HN: Bribes.fyi – Know before you go. New feature added
 - [[2026-07-25_A77-year-oldRepublicanmanisstagingasoloprotestagai.md]] : A 77-year-old Republican man is staging a solo protest against Flock cameras
+- [[2026-07-25_GMBacksSodiumIonBatteriesforU_S_GridStorage.md]] : GM Backs Sodium Ion Batteries for U.S. Grid Storage
+- [[2026-07-25_DidTheyGhostYou_.md]] : Did They Ghost You?
+- [[2026-07-25_DeepSeekpausefundraiseaftercommentsoncomputegaptoU.md]] : DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]
+- [[2026-07-25_Monday_comisthelatesttechcompanytoblameAIforlayoff.md]] : Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
+- [[2026-07-25_SystemsandDelays.md]] : Systems and Delays
+- [[2026-07-25_JetZero.md]] : JetZero
