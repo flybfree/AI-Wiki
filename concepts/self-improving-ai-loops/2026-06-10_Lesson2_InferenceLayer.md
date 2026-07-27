@@ -20,6 +20,8 @@ Placeholder summary — please add a concise summary.
 
 The inference layer is where your models live and serve requests. For self-hosted self-improving loops, you need a local model server that provides an OpenAI-compatible API — this lets you run agents against local models in dev and swap to cloud models in prod without changing agent code.
 
+**Why this matters for the LangChain loop articles:** if the harness and loop stack are the control plane, the inference layer is the swap-able engine underneath it. Stable APIs let the same harness run local dev loops, verification loops, and production runs without rewriting orchestration.
+
 ## Model Server Options
 
 ### LM Studio — Preferred Dev Tool

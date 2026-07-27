@@ -25,6 +25,15 @@ A paradigm shift in AI engineering where agents improve over time through automa
 3. **Feedback loop engineering** — Building tools so agents verify their own work. Separates working code from getting lucky.
 4. **Harness engineering** — The frame around everything: what the agent can call, what it can touch, when it stops. (Birgitta Böckeler's "Agent = Model + Harness")
 
+## LangChain anchor articles
+
+Use these as the clean external references for this lesson set:
+
+- [The Anatomy of an Agent Harness](https://www.langchain.com/blog/the-anatomy-of-an-agent-harness) — the best plain-language definition of harness scope: prompts, tools, skills, filesystem state, sandboxes, orchestration, memory, compaction, hooks, and verification.
+- [The Art of Loop Engineering](https://www.langchain.com/blog/the-art-of-loop-engineering) — the clearest breakdown of stacked loops: agent loop, verification loop, event-driven loop, and hill-climbing loop.
+
+These are especially useful when the lesson needs a tighter model-vs-harness distinction or a more explicit stack of loops.
+
 ### Three Failure Modes of Prompt-First Approaches
 
 - **Context rot** — Long conversations become a junk drawer. Failed attempts pile up until the sliding window drops the original spec. Model slides into a "dumb zone" where it hallucinates and forgets goals.

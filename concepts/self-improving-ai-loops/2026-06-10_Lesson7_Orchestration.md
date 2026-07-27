@@ -20,6 +20,10 @@ Placeholder summary — please add a concise summary.
 
 You can build the best feedback loops in the world, but if you can't see what's happening or manage the agents, you'll fail. Orchestration and UI layers make self-improving systems **usable** — visible, manageable, and debuggable.
 
+**LangChain references:**
+- [The Anatomy of an Agent Harness](https://www.langchain.com/blog/the-anatomy-of-an-agent-harness) — shows orchestration as part of the harness, alongside memory, compaction, hooks, and subagent spawning.
+- [The Art of Loop Engineering](https://www.langchain.com/blog/the-art-of-loop-engineering) — gives the clean stack for visible loops: agent, verification, event-driven, and hill-climbing.
+
 ## Dify: Visual Workflow Builder
 
 **Definition:** An open-source platform for building and operating AI applications with visual workflow orchestration, built-in RAG pipelines, agent execution, and API publishing.

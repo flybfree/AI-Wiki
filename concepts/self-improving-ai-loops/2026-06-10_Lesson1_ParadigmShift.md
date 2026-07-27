@@ -57,6 +57,10 @@ The harness splits into two halves:
 
 **Key insight:** Feedback loop engineering is the sensor half of harness engineering, done on purpose.
 
+**LangChain references:**
+- [The Anatomy of an Agent Harness](https://www.langchain.com/blog/the-anatomy-of-an-agent-harness) — the clearest definition of harness scope: prompts, tools, skills, filesystem state, sandboxes, orchestration, memory, compaction, hooks, and verification.
+- [The Art of Loop Engineering](https://www.langchain.com/blog/the-art-of-loop-engineering) — a clean stack for loop design: agent loop, verification loop, event-driven loop, hill-climbing loop.
+
 ## Three Failure Modes of Prompt-First Approaches
 
 ### 1. Context Rot
