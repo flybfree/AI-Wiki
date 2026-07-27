@@ -33,6 +33,9 @@ version: 1.0.0
 - **Meta**: `trend`, `breakthrough`, `controversy`, `paper-summary`
 
 ## Page Thresholds
-- Create a page if an entity/concept is central to a new source.
+- Create a page only when the source has a material AI/ML connection.
+- Acceptable signals include: model releases, research papers, benchmarks, AI products/features, AI infrastructure, safety/governance, policy, or an AI company/lab/person as the primary subject.
+- Do not create pages for generic tech, business, aviation, finance, or lifestyle stories unless AI is the main subject or causal factor in the article.
+- Do not add "AI-adjacent" framing after the fact just to justify inclusion.
 - Update existing pages with new findings.
 - Do not create pages for passing mentions.

@@ -2213,34 +2213,23 @@ tags: ['wiki']
 - [[2026-07-25_Librariansarehostingviral_AvoidingAI_workshopsforp.md]] : Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech
 - [[2026-07-25_Windturbineisbeingusedtoproducezero-carbon_greenam.md]] : Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer
 - [[2026-07-25_StolenButtons.md]] : Stolen Buttons
-- [[2026-07-25_ShowHN_Bribes_fyi_Knowbeforeyougo_Newfeatureadded.md]] : Show HN: Bribes.fyi – Know before you go. New feature added
 - [[2026-07-25_A77-year-oldRepublicanmanisstagingasoloprotestagai.md]] : A 77-year-old Republican man is staging a solo protest against Flock cameras
-- [[2026-07-25_GMBacksSodiumIonBatteriesforU_S_GridStorage.md]] : GM Backs Sodium Ion Batteries for U.S. Grid Storage
 - [[2026-07-25_DidTheyGhostYou_.md]] : Did They Ghost You?
 - [[2026-07-25_DeepSeekpausefundraiseaftercommentsoncomputegaptoU.md]] : DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]
 - [[2026-07-25_Monday_comisthelatesttechcompanytoblameAIforlayoff.md]] : Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
 - [[2026-07-25_SystemsandDelays.md]] : Systems and Delays
-- [[2026-07-25_JetZero.md]] : JetZero
 - [[2026-07-26_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
 - [[2026-07-26_Monday_comisthelatesttechcompanytoblameAIforlayoff.md]] : Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
 - [[2026-07-26_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
-- [[2026-07-26_ShowHN_ImappedeveryUSgolfcourse_16k_courses_free_n.md]] : Show HN: I mapped every US golf course – 16k+ courses, free, no signup
 - [[2026-07-26_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-07-26_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-07-26_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
-- [[2026-07-26_AnESP32basedplaneradarformydesk.md]] : An ESP32 based plane radar for my desk
-- [[2026-07-26_Ashellcolondoesnothing_Useitanyway.md]] : A shell colon does nothing. Use it anyway
-- [[2026-07-26_Ruffv0_16_0_Significantnewupdates_413defaultrulesu.md]] : Ruff v0.16.0 – Significant new updates – 413 default rules up from 59
 - [[2026-07-26_ParkbyRobotatLondonGatwickAirport.md]] : Park by Robot at London Gatwick Airport
 - [[2026-07-26_HuggingFaceCEOcallsfor_radicaltransparency_after_u.md]] : Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack
 - [[2026-07-26_LondonGatwickhaslaunchedaroboticairportparkingserv.md]] : London Gatwick has launched a robotic airport parking service
-- [[2026-07-26_Decker.md]] : Decker
 - [[2026-07-26_MakingsenseofthepanicoverChineseAI.md]] : Making sense of the panic over Chinese AI
-- [[2026-07-26_Decker_aplatformthatbuildsonthelegacyofHypercardan.md]] : Decker, a platform that builds on the legacy of Hypercard and classic macOS
 - [[2026-07-26_ShowHN_Distillandservesmallmodelswithfrontierquali.md]] : Show HN: Distill and serve small models with frontier quality for half the cost
 - [[2026-07-26_ArebrainwavesthenextunlockforphysicalAI_.md]] : Are brain waves the next unlock for physical AI?
-- [[2026-07-26_PGSimCity-HowPostgreSQLWorks.md]] : PGSimCity - How PostgreSQL Works
-- [[2026-07-27_PGSimCity-HowPostgreSQLWorks.md]] : PGSimCity - How PostgreSQL Works
 - [[2026-07-27_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-07-27_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-07-27_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
@@ -2254,3 +2243,7 @@ tags: ['wiki']
 - [[2026-07-27_Enigmaraises_70Mtomakecontrollingarobotaseasyasadj.md]] : Enigma raises $70M to make controlling a robot as easy as adjusting the volume
 - [[2026-07-27_CanChinaKeepItsAIOpen_.md]] : Can China Keep Its AI Open?
 - [[2026-07-27_Inkling_OurOpen-WeightsModel.md]] : Inkling: Our Open-Weights Model
+- [[2026-07-27_MAI-Cyber1.md]] : MAI-Cyber 1
+- [[2026-07-27_OpenAI_sHuggingFacebreachhasreignitedthedebateover.md]] : OpenAI’s Hugging Face breach has reignited the debate over alignment and control
+- [[2026-07-27_PSA_YourClaudesharedchatsandArtifactsmayhaveendedu.md]] : PSA: Your Claude shared chats and Artifacts may have ended up on Google
+- [[2026-07-27_SatyaNadellasayscompaniesthattrustoneAIforeverythi.md]] : Satya Nadella says companies that trust one AI for everything may not survive
