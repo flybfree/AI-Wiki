@@ -40,9 +40,7 @@ Ruff’s aggressive rule expansion, Gatwick’s robotic parking, and Decker’s 
 - [Ruff v0.16.0](https://astral.sh/blog/ruff-v0.16.0): The linter became much more opinionated by default, which matters as AI-generated code volume rises.
 - [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/): A practical example of automation finding a real wedge case in transport.
 - [Decker](https://beyondloom.com/decker/): A deliberately low-telemetry, text-based creative system that favors simplicity over model-heavy abstraction.
-- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/): A small, local hardware project that shows the usefulness of narrow, tangible systems.
-- [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/): A niche but useful data product that stands out for clarity and utility.
-- [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon): A small design lesson about preserving clarity and intent.
+- [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/): AI is changing headcount decisions, not just product strategy.
 
 ## Referenced Sources
 - [Health in ChatGPT](https://openai.com/index/health-in-chatgpt/): OpenAI rolled out a real U.S. health workflow surface for eligible users.
@@ -57,9 +55,6 @@ Ruff’s aggressive rule expansion, Gatwick’s robotic parking, and Decker’s 
 - [Ruff v0.16.0](https://astral.sh/blog/ruff-v0.16.0): Opinionated linting as a support layer for AI-generated code.
 - [Park by Robot at London Gatwick Airport](https://aerospaceglobalnews.com/news/gatwick-airport-robotic-parking-stanley-robotics/): A practical robotics wedge case.
 - [Decker](https://beyondloom.com/decker/): A simple, privacy-first, design-led creative system.
-- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/): A small, concrete maker project.
-- [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/): A niche but useful data product.
-- [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon): A tiny but good software-design reminder.
 
 ## Takeaways
 - AI is moving from novelty to system design.
@@ -69,6 +64,6 @@ Ruff’s aggressive rule expansion, Gatwick’s robotic parking, and Decker’s 
 - The best teams will handle UX, routing, safety, tooling, and governance without making the system fragile.
 
 ## Production Notes
-- Expanded sources: Health in ChatGPT; Google Search I/O 2026 update; SymptomAI; Claude Opus 5; Midjourney / Co-Star; Monday.com layoffs; Hugging Face / OpenAI incident; Chinese AI policy coverage; Ruff v0.16.0; Gatwick robotic parking; Decker; ESP32 plane radar; US golf course map; shell colon note.
+- Expanded sources: Health in ChatGPT; Google Search I/O 2026 update; SymptomAI; Claude Opus 5; Midjourney / Co-Star; Monday.com layoffs; Hugging Face / OpenAI incident; Chinese AI policy coverage; Ruff v0.16.0; Gatwick robotic parking; Decker.
 - Merged themes: search + health + context routing; Opus 5 launch + commercial framing; safety + disclosure + policy; tooling + physical automation + design-first products.
 - Assumptions: kept the notes source-linked and compact rather than duplicating the full script; treated the smaller links as supporting signals.

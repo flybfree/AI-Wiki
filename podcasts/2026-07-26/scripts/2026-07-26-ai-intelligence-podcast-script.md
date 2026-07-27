@@ -66,13 +66,7 @@ One of the quieter themes today is that AI’s support layer is getting more opi
 
 And [Decker](https://beyondloom.com/decker/) is a useful counterpoint. It is a deliberately low-telemetry, text-based creative system that favors simplicity over model-heavy abstraction. That matters because not every good product wants to become another AI wrapper. Some products win by being small, legible, and calm.
 
-There are also a few smaller signals worth keeping an eye on.
-
-[The ESP32 plane radar project](https://blog.ktz.me/esp32-plane-radar/) is a good example of maker-grade utility: local hardware, clear purpose, no hype.
-
-[Show HN: I mapped every US golf course](https://golfcoursebrowser.com/) is a reminder that useful data products can still be delightfully niche.
-
-And [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon) is a great little design lesson in itself: sometimes the best tool is the one that preserves clarity instead of trying to be clever.
+[Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) is a reminder that AI is changing headcount decisions, not just product strategy.
 
 ## Big-Picture Synthesis
 If you zoom out, the pattern is pretty clean.
@@ -112,9 +106,6 @@ That is the direction worth watching.
   - Ruff v0.16.0
   - Gatwick robotic parking
   - Decker
-  - ESP32 plane radar project
-  - US golf course map
-  - A shell colon does nothing. Use it anyway
 - Merged themes:
   - search + health + context routing into one control-surface theme
   - Opus 5 launch + market framing into one model-release theme
