@@ -5,20 +5,6 @@ Model: nvidia/nemotron-3-nano-4b
 
 ---
 
-**Summary**  
-Anthropic has introduced Opus 5, a newer iteration of its flagship model that aims to be both more capable and less restrictive than the previous Fable 5 version. The release follows a two‑month gap from Opus 4.8 and co‑occurs with other “‑5” models such as Mythos 5, Fable 5 and Sonnet 5, while the lightweight Haiku remains unchanged.
-
-**Key Takeaways**  
-- Opus 5 outperforms Fable 5 on a number of benchmark tests, demonstrating stronger reasoning and self‑correction abilities.  
-- It is free from Anthropic’s 30‑day data retention policy that applied to Fable and Mythos, addressing privacy concerns raised by users.  
-- Safety classifiers trigger approximately 85 % fewer times for Opus 5 than for Fable 5, and the new “Automatic Fallbacks” beta feature can automatically route unsafe prompts to a less powerful model instead of returning an error.
-
-**Context**  
-The AI industry is witnessing rapid iteration among large language models, with companies like Anthropic, OpenAI, Google DeepMind and Meta releasing successive versions each month. These releases reflect a broader trend toward balancing performance gains with tighter safety guardrails, as regulators and users demand both capability and responsible deployment.
-
-**Implications**  
-For developers and enterprises, Opus 5 offers a cost‑effective alternative that delivers higher accuracy without the heavy restrictions of Fable 5, potentially expanding adoption in applications where data privacy is paramount. However, the reduced safety triggers mean fewer automated blocks, which could increase the risk of misuse if safeguards are not carefully managed; conversely, the Automatic Fallbacks feature mitigates this by providing graceful degradation, preserving user experience while maintaining responsible AI use.
-
 ## Summary  
 
 Anthropic, the AI startup founded by former OpenAI researchers, has announced the release of **Opus 5**, its latest large‑language model designed to compete directly with industry leaders such as GPT‑4, Claude 3, and Gemini. The model is built on Anthropic’s proprietary “Claude” architecture, which emphasizes safety, interpretability, and multimodal capabilities. Opus 5 was unveiled at a virtual press conference earlier this month, where the team highlighted several new technical advances:  

@@ -5,20 +5,6 @@ Model: nvidia/nemotron-3-nano-4b
 
 ---
 
-**Summary**  
-Bribes.fyi is a crowdsourced platform that maps bribery risks across Indian government departments and cities, allowing users to report incidents and compare experiences. The site recently introduced the “Before You Go” feature, which provides travelers with pre‑trip advisories about expected or prohibited payments at specific offices.  
-
-**Key Takeaways**  
-- Crowdsourced data on bribery in Indian bureaucracy is continuously updated by community members.  
-- The new “Before You Go” tool helps visitors anticipate potential payment demands, reducing surprise and encouraging compliance with legal norms.  
-- Bribes.fyi operates without ads or paywalls, funded solely through reader support, reflecting an open‑source ethos.  
-
-**Context**  
-The platform exemplifies the broader trend of leveraging public data aggregation to enhance transparency in state services. While not an AI‑driven system per se, it relies on machine‑curated listings and simple recommendation logic (“Before You Go”) that could be considered a lightweight application of algorithmic filtering for user convenience. This approach aligns with initiatives that use open data to empower citizens and challenge opaque governance practices.  
-
-**Implications**  
-For the field of public‑sector technology, Bribes.fyi demonstrates how crowdsourced intelligence can complement official channels, fostering accountability without heavy computational resources. Its success may inspire similar platforms in other countries, prompting regulators to consider data‑sharing policies and user‑generated risk maps as part of digital governance strategies. Moreover, the model underscores the importance of ethical AI use—here minimal, transparent, and focused on informing rather than influencing behavior.
-
 ## Summary  
 
 Bribes.fyi is a community‑driven platform that aggregates and verifies “bribe” stories from the world of open‑source development, security research, and corporate espionage. The site’s mission is to give developers and journalists early warnings about potential conflicts of interest, insider leaks, or malicious activity before they become public knowledge.  

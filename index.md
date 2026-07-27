@@ -228,6 +228,21 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-22_22-58-18Z_DefiningAI_NativeSystems_AutonomyasRevisionAuthori.md]] : Defining AI-Native Systems: Autonomy as Revision Authority
+- [[2026-07-23_13-18-57Z_EncodingInvisibleCausationforBridgeDiagnosticAgent.md]] : Encoding Invisible Causation for Bridge Diagnostic Agents: Triple-Guided Retrieval-Augmented Fine-Tuning with QLoRA
+- [[2026-07-23_13-47-02Z_CARNetCycle_ConditionedCoreAggregationandRedistrib.md]] : CARNet Cycle-Conditioned Core Aggregation and Redistribution for Multivariate Time Series Forecasting
+- [[2026-07-23_11-15-35Z_DoemulatedquantumcircuitschangewhatCNNslookat_Perf.md]] : Do emulated quantum circuits change what CNNs look at? Performance and explainability comparison in medical image classification
+- [[2026-07-23_11-02-24Z_EnhancingSLMsforSustainableCodeOptimizationinRadio.md]] : Enhancing SLMs for Sustainable Code Optimization in Radio-Astronomy
+- [[2026-07-23_07-04-51Z_OrderedActionTokensforVisuomotorPolicyLearning.md]] : Ordered Action Tokens for Visuomotor Policy Learning
+- [[2026-07-22_20-39-48Z_Cross_ModelLLMCodeReview_ShouldyouuseClaudetorevie.md]] : Cross-Model LLM Code Review: Should you use Claude to review Codex or vice versa?
+- [[2026-07-23_14-39-46Z_PersistentComputationalState_ASession_CentricRunti.md]] : Persistent Computational State: A Session-Centric Runtime for Generative World Models
+- [[2026-07-23_09-19-16Z_PixelsforPrograms_ACross_ProviderCaseStudyofInput_.md]] : Pixels for Programs? A Cross-Provider Case Study of Input-Token Accounting for Source Code as Text and Images
+- [[2026-07-23_18-00-01Z_AnIntroductiontoBayesianandFrequentistSimulation_B.md]] : An Introduction to Bayesian and Frequentist Simulation-Based Inference with Machine Learning
+- [[2026-07-23_15-05-04Z_Explainablequantum_compressedmachinelearningforcom.md]] : Explainable quantum-compressed machine learning for complex fluid flows
+- [[2026-07-23_18-28-13Z_RED_PIM_ReducingDataMovementforTransformersusingPr.md]] : RED-PIM: Reducing Data Movement for Transformers using Processing-in-Memory
+- [[2026-07-22_18-30-41Z_ComputerVisionBasedNeurologyBrainActivityRejection.md]] : Computer Vision Based Neurology Brain Activity Rejection Architecture and Implementation
+- [[2026-07-23_09-43-46Z_Self_PoisoninginAdaptiveOut_of_DistributionDetecti.md]] : Self-Poisoning in Adaptive Out-of-Distribution Detection: A Sharp-Threshold Theory and Certified Label-Free Calibration
+- [[2026-07-23_08-50-12Z_NeuralFeatureGovernance_ExtendingAtomPrevalence.md]] : Neural Feature Governance: Extending Atom Prevalence
 - [[2026-07-22_18-06-15Z_Molt_AScalablePyTorch_NativeTrainingFrameworkforAg.md]] : Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning
 - [[2026-07-24_11-57-26Z_TRaM_VSR_Importance_AwareTokenRoutingandMergingfor.md]] : TRaM-VSR: Importance-Aware Token Routing and Merging for One-Step Diffusion Video Super-Resolution
 - [[2026-07-24_07-21-27Z_CEL_ComprehensiveCounterfactualExplanationsLibrary.md]] : CEL: Comprehensive Counterfactual Explanations Library and Benchmark
@@ -2225,3 +2240,11 @@ tags: ['wiki']
 - [[2026-07-26_ShowHN_Distillandservesmallmodelswithfrontierquali.md]] : Show HN: Distill and serve small models with frontier quality for half the cost
 - [[2026-07-26_ArebrainwavesthenextunlockforphysicalAI_.md]] : Are brain waves the next unlock for physical AI?
 - [[2026-07-26_PGSimCity-HowPostgreSQLWorks.md]] : PGSimCity - How PostgreSQL Works
+- [[2026-07-27_PGSimCity-HowPostgreSQLWorks.md]] : PGSimCity - How PostgreSQL Works
+- [[2026-07-27_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-07-27_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-07-27_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
+- [[2026-07-27_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[2026-07-27_ArebrainwavesthenextunlockforphysicalAI_.md]] : Are brain waves the next unlock for physical AI?
+- [[2026-07-27_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
+- [[2026-07-27_Kimi-K3ReleasesonHuggingFace7_27.md]] : Kimi-K3 Releases on HuggingFace 7/27

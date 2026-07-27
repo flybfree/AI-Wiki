@@ -5,20 +5,6 @@ Model: nvidia/nemotron-3-nano-4b
 
 ---
 
-**Summary**  
-The article argues that AI guardrails, especially those imposed by Anthropic and OpenAI, are hindering offensive cybersecurity research by preventing researchers from probing for vulnerabilities; the export controls on Anthropic’s Mythos model illustrate how gatekeeping restricts legitimate security work. It also notes that while these safeguards aim to prevent misuse, they create a paradox where tools meant for defense become obstacles for attackers.  
-
-**Key Takeaways**  
-- AI guardrails can block legitimate vulnerability research and prompt refusal when researchers ask models to exploit bugs.  
-- Export control actions on Anthropic’s Mythos model reflect broader industry attempts to limit AI use in cyber attacks.  
-- The dual nature of security tools (offensive vs defensive) makes it difficult to separate their functions without compromising safety.  
-
-**Context**  
-In recent months, U.S. export controls have been placed on advanced AI models such as Anthropic’s Mythos and Fable, reflecting concerns over potential misuse for cyber warfare. Simultaneously, both OpenAI and Anthropic offer “Trusted Access” programs that grant vetted researchers limited access to less restricted models, illustrating an industry effort to balance security with innovation.  
-
-**Implications**  
-The tension between preventing malicious AI deployment and enabling proactive security research could slow the discovery of critical vulnerabilities, leaving systems exposed longer than necessary. If guardrails remain too restrictive, they may also discourage legitimate collaboration among defenders, hindering collective progress in cybersecurity.
-
 ## Summary  
 
 The rapid adoption of artificial‑intelligence (AI) tools—both generative models that assist with code generation and detection systems that flag malicious activity—has reshaped the landscape of offensive cybersecurity research. While AI promises unprecedented speed, scalability, and insight into adversary behavior, it also introduces a set of “guardrails” built into commercial platforms, cloud services, and internal policies to prevent misuse. These guardrails are designed to protect corporate assets, comply with legal frameworks (e.g., GDPR, CISA guidelines), and reduce liability for organizations that inadvertently expose themselves to cyber‑risk.  
