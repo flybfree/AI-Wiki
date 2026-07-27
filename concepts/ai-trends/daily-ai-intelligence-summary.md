@@ -9,6 +9,8 @@ tags: [ai-trends, daily-summary, ai-news, intelligence, wiki]
 
 **Source**: [AI Research Wiki](https://github.com/flybfree/AI-Wiki/wiki)
 
+**Status**: Live 2026-07-27 working draft; this page will be updated again as later-day items land before the final 7/27 briefing is frozen.
+
 ## Executive Summary
 
 Today’s intake is centered on AI becoming the primary surface for search, health, and model work, while the research queue keeps moving toward reliability and system design. [Health in ChatGPT](https://openai.com/index/health-in-chatgpt/) turns ChatGPT into a place where users can connect personal health context, Google’s [Search I/O 2026 update](https://blog.google/products-and-platforms/products/search/search-io-2026/) turns the search box into a multimodal AI entry point, and [SymptomAI](https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/) pushes health evaluation toward real patient language and real-world evidence.
