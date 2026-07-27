@@ -31,6 +31,7 @@ Use these as the clean external references for this lesson set:
 
 - [The Anatomy of an Agent Harness](https://www.langchain.com/blog/the-anatomy-of-an-agent-harness) — the best plain-language definition of harness scope: prompts, tools, skills, filesystem state, sandboxes, orchestration, memory, compaction, hooks, and verification.
 - [The Art of Loop Engineering](https://www.langchain.com/blog/the-art-of-loop-engineering) — the clearest breakdown of stacked loops: agent loop, verification loop, event-driven loop, and hill-climbing loop.
+- [[2026-07-26_LangChain_Harness_and_Loop_Engineering_References]] — compact source note tying the two articles into one lesson-friendly reference.
 
 These are especially useful when the lesson needs a tighter model-vs-harness distinction or a more explicit stack of loops.
 
