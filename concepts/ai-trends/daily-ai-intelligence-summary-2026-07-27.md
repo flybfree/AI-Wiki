@@ -22,7 +22,7 @@ On the model front, [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5
 | Theme | What happened | Why it matters |
 |---|---|---|
 | Control surfaces | Health, search, and symptom triage are becoming AI-native entry points | AI value is moving to where context already lives |
-| Frontier competition | Claude Opus 5 and Kimi K3 widen the closed/open split | Model selection is becoming an architecture decision |
+| Frontier competition | Claude Opus 5, Kimi K3, and Thinking Machines’ Inkling widen the closed/open split | Model selection is becoming an architecture decision |
 | Reliability / governance | New work on code review, autonomy, poisoning, and sparse interpretability | Safety is getting more operational and measurable |
 | Product strategy | Midjourney’s Co-Star acquisition shows AI moving into consumer surfaces | AI companies are optimizing for ownership of workflows and user context |
 
@@ -40,7 +40,7 @@ That same pattern shows up in health research. [SymptomAI](https://research.goog
 
 [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) is the clearest closed-model update in the day’s intake. Anthropic is positioning it as cheaper and stronger than Opus 4.8 for coding and professional work, which keeps the race focused on long-running usefulness rather than just raw benchmark points. A useful adjacent paper is [Cross-Model LLM Code Review](http://arxiv.org/abs/2607.21656v1), which found that Claude reviewing Codex drafts improved pass rate from 71.6% to 89.7%.
 
-On the open side, Moonshot’s [Kimi K3 quickstart](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart) says the full weights are due by July 27, and the local summary describes it as an open 3T-class model aimed at frontier coding and reasoning. That matters because open weights at that scale keep pressure on the closed-model premium and accelerate the ecosystem around self-hosting, agent tooling, and long-context code work.
+On the open side, Moonshot’s [Kimi K3 quickstart](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart) says the full weights are due by July 27, and Thinking Machines’ [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) has entered the same mix as a fresh open-weights entrant. The local summary describes Kimi K3 as an open 3T-class model aimed at frontier coding and reasoning, so between Kimi and Inkling the open-weights pressure is now coming from more than one direction. That matters because open weights at that scale keep pressure on the closed-model premium and accelerate the ecosystem around self-hosting, agent tooling, and long-context code work.
 
 - [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) is now the benchmark for useful long-running work in Anthropic’s framing.
 - [Cross-Model LLM Code Review](http://arxiv.org/abs/2607.21656v1) suggests cross-model review can outperform self-review.
