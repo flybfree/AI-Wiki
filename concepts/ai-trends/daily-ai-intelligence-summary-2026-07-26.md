@@ -105,6 +105,3 @@ The other big change is that evidence standards are rising. Health, agentic syst
 - [Ruff v0.16.0 – Significant new updates – 413 default rules up from 59](https://astral.sh/blog/ruff-v0.16.0)
 - [Making sense of the panic over Chinese AI](https://techcrunch.com/2026/07/26/making-sense-of-the-panic-over-chinese-ai/)
 - [Decker](https://beyondloom.com/decker/)
-- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-- [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
-- [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)

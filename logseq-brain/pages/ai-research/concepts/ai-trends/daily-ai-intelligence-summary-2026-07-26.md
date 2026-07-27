@@ -57,7 +57,7 @@ The labor side is moving too. [Monday.com’s latest layoffs](https://techcrunch
 
 ### 5) Smaller ecosystem signals are still maker-heavy, not model-heavy
 
-The rest of today’s intake was mostly community and builder content rather than major AI news. The [ESP32 plane radar](https://blog.ktz.me/esp32-plane-radar/) is a neat embedded-project example of local, sensor-driven UI work; [GolfCourseBrowser](https://golfcoursebrowser.com/) is a clean geospatial browse app; and [the shell colon piece](https://refp.se/articles/your-shell-and-the-magic-colon) is a useful scripting note, but not a meaningful AI market signal.
+The rest of today’s intake was mostly AI-adjacent support work rather than major model news. The long tail reinforced tooling, security, policy, and product design around AI rather than adding non-AI hobby signals.
 
 That split is worth noting: the headline AI stories are now mostly about products, workflows, and institutions, while the long tail remains full of practical tooling and hobbyist systems.
 
@@ -90,6 +90,3 @@ The other big change is that evidence standards are rising. Health and agentic s
 - [SymptomAI: Towards a conversational AI agent for everyday symptom assessment](https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/)
 - [Midjourney bought the astrology app Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition)
 - [Monday.com is the latest tech company to blame AI for layoffs — here are 20 others](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/)
-- [An ESP32 based plane radar for my desk](https://blog.ktz.me/esp32-plane-radar/)
-- [Show HN: I mapped every US golf course – 16k+ courses, free, no signup](https://golfcoursebrowser.com/)
-- [A shell colon does nothing. Use it anyway](https://refp.se/articles/your-shell-and-the-magic-colon)
