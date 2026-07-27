@@ -22,7 +22,7 @@ On the model front, [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5
 | Theme | What happened | Why it matters |
 |---|---|---|
 | Control surfaces | Health, search, and symptom triage are becoming AI-native entry points | AI value is moving to where context already lives |
-| Frontier competition | Claude Opus 5, Kimi K3, and Thinking Machines’ Inkling widen the closed/open split | Model selection is becoming an architecture decision |
+| Frontier competition | Claude Opus 5, Kimi K3, Thinking Machines’ Inkling, and SSI’s Nvidia deal widen the closed/open split | Model selection is becoming an architecture decision |
 | Reliability / governance | New work on code review, autonomy, poisoning, and sparse interpretability | Safety is getting more operational and measurable |
 | Product strategy | Midjourney’s Co-Star acquisition shows AI moving into consumer surfaces | AI companies are optimizing for ownership of workflows and user context |
 
