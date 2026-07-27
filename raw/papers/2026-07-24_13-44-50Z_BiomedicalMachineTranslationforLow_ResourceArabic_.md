@@ -1,0 +1,18 @@
+---
+title: Biomedical Machine Translation for Low-Resource Arabic-Script Languages via Cross-Lingual Transfer and LoRA Adapter Merging
+published: 2026-07-24T13:44:50Z
+authors: Abdullah Alabdullah, Arash Eslamighayour, Sarp Harbalioglu, Lifeng Han
+url: http://arxiv.org/abs/2607.22300v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Biomedical Machine Translation for Low-Resource Arabic-Script Languages via Cross-Lingual Transfer and LoRA Adapter Merging
+
+## Abstract
+We present a systematic study of healthcare-domain cross-lingual transfer to address the scarcity of biomedical NMT resources for Arabic-script languages. We use Arabic and Persian as higher-resource pivots to improve translation for \textbf{four severely low-resource} targets: Dari (Afghan Persian, a standardised variety of Persian), Pashto, Sorani Kurdish (Central Kurdish, a major standardized variety of Kurdish), and Urdu (closely related to Hindi). Using LoRA fine-tuning on small decoder-only LLMs, we train \textit{domain-specific pivot adapters} and evaluate \textbf{three transfer strategies}: few-shot in-context learning, minimal supervised adaptation, and, to the best of our knowledge, for the first time in this setting, zero-data LoRA adapter merging. Supervised adaptation with just 500 sentences achieves near pivot-language quality for Dari (CHrF++ 41.01) and meaningful gains for Urdu (28.88), while adapter merging reaches within 3.5 CHrF++ of supervised adaptation for Dari at zero additional cost. Pashto and Sorani Kurdish remain insufficient for high-stakes clinical deployment exposing the limits of cross-lingual transfer when structural distance from the pivots is too great. LoRA adapter merging works surprisingly well for closely related languages, even without target-language biomedical data.
+
+## Metadata
+- **Published**: 2026-07-24T13:44:50Z
+- **Authors**: Abdullah Alabdullah, Arash Eslamighayour, Sarp Harbalioglu, Lifeng Han
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.22300v1)

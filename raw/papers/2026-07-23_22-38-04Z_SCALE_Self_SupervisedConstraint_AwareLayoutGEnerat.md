@@ -1,0 +1,18 @@
+---
+title: SCALE: Self-Supervised Constraint-Aware Layout GEneration for Local P&R DRV Fixing at Advanced Nodes
+published: 2026-07-23T22:38:04Z
+authors: Chia-Tung Ho, Haoyu Yang, Guanglei Zhou, Yoshi Nishi, Yaguang Li, Walker Turner, Cunxi Yu, Yiran Chen, Brucek Khailany
+url: http://arxiv.org/abs/2607.21850v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SCALE: Self-Supervised Constraint-Aware Layout GEneration for Local P&R DRV Fixing at Advanced Nodes
+
+## Abstract
+As semiconductor manufacturing advances toward sub-2nm nodes, local place-and-route (P&R) design-rule violation (DRV) fixing is increasingly limited by complex rule interactions, dense multi-layer routing geometries, and foundry-specific constraints. While Large Language Models (LLMs) have recently demonstrated strong capabilities in EDA scripting and documentation, their application to visual layout understanding remains largely unexplored: diagnosing DRC violations from layout imagery demands precise geometric reasoning and foundry-specific rule knowledge absent from general-purpose VLM training. We propose SCALE, a framework with a self-supervised layout-generation stage for local DRV fixing at advanced nodes. Multi-layer layout geometry is serialized into structured text, and a fine-tuned language model learns to reconstruct randomly masked polygons from surrounding BEOL context alone without violation labels. At inference, natural-language rule constraints and high-temperature sampling steer generation toward diverse, violation-prone layout variants validated by an industrial signoff DRC checker, producing DRC-annotated layout--violation pairs used to fine-tune a domain-adapted DRC-VLM. This VLM provides rule-aware geometric guidance for local DRV repair, boosting state-of-the-art agents' solve rates by +12--25% (up to 97%) on 100 real sub-2nm cases spanning enclosure, spacing, width, and color-spacing violations.
+
+## Metadata
+- **Published**: 2026-07-23T22:38:04Z
+- **Authors**: Chia-Tung Ho, Haoyu Yang, Guanglei Zhou, Yoshi Nishi, Yaguang Li, Walker Turner, Cunxi Yu, Yiran Chen, Brucek Khailany
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.21850v1)

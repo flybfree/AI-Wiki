@@ -1,0 +1,18 @@
+---
+title: DCS: A Unified Conditional Sensitivity Framework for Cross-Modal Copyright Infringement Detection
+published: 2026-07-24T07:00:44Z
+authors: Xiafeng Man
+url: http://arxiv.org/abs/2607.22035v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# DCS: A Unified Conditional Sensitivity Framework for Cross-Modal Copyright Infringement Detection
+
+## Abstract
+Currently, most foundation models can reproduce or strongly depend on copyrighted training content, but output similarity alone is insufficient for infringement detection, because similar outputs may also arise from public-domain concepts, common stylistic conventions, or ordinary statistical generalization.   In this paper, we develops a unified post-hoc detection framework that treats copyright infringement evidence as a counterfactual conditional distribution shift: a protected target is suspicious when the model's behavior under aligned conditions would change measurably if that target were included in, or removed from, the training process.   We formalize this view through conditional differential privacy and introduce Dual-Branch Conditional Sensitivity (DCS), an operational statistic that measures the observable gap between two locally perturbed model states. Specifically, the proposed DCS framework creates a learning branch and an unlearning branch around the deployed model, connects their displacement to the unavailable counterfactual retraining effect through influence-function analysis, and bounds the observable sensitivity by the counterfactual privacy-budget surrogate, local curvature, training-set scale, and perturbation step size. To distinguish target-specific memorization from generic fine-tuning instability, we further define a calibrated detection statistic that subtracts the sensitivity measured under orthogonal conditions.   The DCS framework is instantiated for ridge-regularized linear regression, conditional diffusion models, autoregressive language models, and multimodal models. These instantiations show how the same principle can be evaluated through prediction gaps, image-embedding divergence, token-distribution or entropy shifts, and cross-modal representation changes.
+
+## Metadata
+- **Published**: 2026-07-24T07:00:44Z
+- **Authors**: Xiafeng Man
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.22035v1)

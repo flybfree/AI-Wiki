@@ -1,0 +1,18 @@
+---
+title: Integrated Order Dispatching and Routing for Last-Mile Pickup via Deep Reinforcement Learning
+published: 2026-07-24T14:37:02Z
+authors: Yida Xu, Zhaofang Mao, Yuheng Miao, Jiaxin Zhang, Yiting Sun
+url: http://arxiv.org/abs/2607.22356v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Integrated Order Dispatching and Routing for Last-Mile Pickup via Deep Reinforcement Learning
+
+## Abstract
+In recent years, the growing complexity of last-mile pickup operations has increased the need for fast and accurate decision-making on logistics platforms. This challenge is fundamentally driven by two key and tightly coupled decision-making processes: order dispatching and routing. Solving them separately overlooks their interdependence, while fully end-to-end learning can be unstable and costly on large, variable-scale instances due to sparse rewards. To solve this problem, we propose an integrated optimization framework which couples a learned routing oracle with real-time dispatching heuristics. For the routing subproblem, we develop a Dynamic-Residual Graph Attention Network encoder with a Look-Ahead Courier-Personalized decoder. For the dispatching subproblem, we develop a routing-oracle-guided dispatching heuristic with local search, where the oracle provides near-optimal solutions to select candidate couriers while retaining real-time scalability. Extensive experiments on real-world datasets from Cainiao Logistics are used to test the performance of our approach, including an offline evaluation and an online rolling-horizon simulation. The experimental results show that our approach outperforms other benchmarks regarding solution quality and solving time, indicating it can effectively support logistics companies in solving real-time and large-scale last-mile pickup problems.
+
+## Metadata
+- **Published**: 2026-07-24T14:37:02Z
+- **Authors**: Yida Xu, Zhaofang Mao, Yuheng Miao, Jiaxin Zhang, Yiting Sun
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.22356v1)

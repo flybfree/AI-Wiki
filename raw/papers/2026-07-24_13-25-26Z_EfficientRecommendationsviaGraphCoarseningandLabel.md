@@ -1,0 +1,18 @@
+---
+title: Efficient Recommendations via Graph Coarsening and Label Propagation
+published: 2026-07-24T13:25:26Z
+authors: Alessandro Sbandi, Federico Siciliano, Fabrizio Silvestri
+url: http://arxiv.org/abs/2607.22287v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Efficient Recommendations via Graph Coarsening and Label Propagation
+
+## Abstract
+Graph-based recommendations are widely adopted in real-world industrial applications. However, graphs in these systems often reach a massive scale, posing notable scalability and efficiency challenges. This requires techniques that can effectively balance predictive quality with computational cost. One promising approach is graph coarsening, an adaptive graph reduction technique that offers a way to systematically construct smaller, yet structurally representative, versions of the original large-scale graphs.   In this work, we propose a flexible two-stage diffusion framework that combines graph coarsening with multi-step label propagation in the telecommunications domain. Domain-specific heuristics are applied to first aggregate nodes into meaningful communities, reducing graph size while preserving essential business-relevant relationships. An initial diffusion process done by a Label Propagation Algorithm (LPA) or a Graph Neural Network (GNN) propagates labels across the coarsened graph to produce coarse-grained predictions. Finally, a second LPA within subgraphs generates the final recommendations for individual users.   On a real-world telecommunications dataset, when using LPA in both stages, our method achieves up to +24% NDCG@5 over the full-graph LPA baseline. Incorporating a lightweight GNN in the first stage further boosts NDCG@5 by more than 50%, but requires substantial training and inference time. Through extensive experiments and a detailed ablation, we quantify these trade-offs and demonstrate that our coarsening-driven approach delivers an optimal balance between scalability, latency, and recommendation quality.
+
+## Metadata
+- **Published**: 2026-07-24T13:25:26Z
+- **Authors**: Alessandro Sbandi, Federico Siciliano, Fabrizio Silvestri
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.22287v1)
