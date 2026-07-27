@@ -55,11 +55,11 @@ The labor side is moving too. [Monday.com’s latest layoffs](https://techcrunch
 - [Monday.com](https://techcrunch.com/2026/07/25/the-running-list-major-tech-layoffs-in-2026-where-employers-cited-ai/) said about 20% of staff will be cut as part of an AI-driven growth strategy.
 - The recurring pattern is that AI is being used to justify both product expansion and headcount resets.
 
-### 5) Smaller ecosystem signals are still maker-heavy, not model-heavy
+### 5) Smaller ecosystem signals are still AI-adjacent support work, not model news
 
 The rest of today’s intake was mostly AI-adjacent support work rather than major model news. The long tail reinforced tooling, security, policy, and product design around AI rather than adding non-AI hobby signals.
 
-That split is worth noting: the headline AI stories are now mostly about products, workflows, and institutions, while the long tail remains full of practical tooling and hobbyist systems.
+That split is worth noting: the headline AI stories are now mostly about products, workflows, and institutions, while the long tail remains full of practical tooling and adjacent infrastructure.
 
 ## What Changed Today
 
