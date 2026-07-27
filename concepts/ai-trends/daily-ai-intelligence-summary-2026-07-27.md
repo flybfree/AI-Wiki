@@ -65,6 +65,17 @@ That theme lines up with the broader product picture: the companies that control
 - [Midjourney bought Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition) is a move into consumer-app distribution.
 - Product moat is moving from model quality to workflow ownership.
 
+### 5) Thinking Machines surfaced a fresh cluster of model and tooling updates
+
+Thinking Machines is now a useful direct watch source, not just a name in other companies’ coverage. The newest items I surfaced today point in three directions: [The Future Worth Building Is Human](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/) frames AI as something that should extend human will and judgment; [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) signals an open-weights push with controllable thinking effort; and [Learning to Replicate Expert Judgment in Financial Tasks](https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/) shows the company using Tinker in a multi-task training recipe for applied work.
+
+The broader signal is that Thinking Machines is shipping both a philosophical stance and a tooling stack: human participation as a technical problem, open-weight model work, and a platform that can support real training loops. That is worth watching separately from the usual Big Tech release cycle.
+
+- [The Future Worth Building Is Human](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/) centers human judgment in the AI product mission.
+- [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) adds an open-weights model to the watch list.
+- [Learning to Replicate Expert Judgment in Financial Tasks](https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/) shows Tinker being used in a concrete training recipe.
+- [Thinking Machines Lab and NVIDIA Announce Long-Term Gigawatt-Scale Strategic Partnership](https://thinkingmachines.ai/news/nvidia-partnership/) remains the broader infrastructure/watch item for the company.
+
 ## What Changed Today
 
 - Health and search are now real AI surfaces, not conceptual ones.

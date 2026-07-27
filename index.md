@@ -2248,3 +2248,9 @@ tags: ['wiki']
 - [[2026-07-27_ArebrainwavesthenextunlockforphysicalAI_.md]] : Are brain waves the next unlock for physical AI?
 - [[2026-07-27_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
 - [[2026-07-27_Kimi-K3ReleasesonHuggingFace7_27.md]] : Kimi-K3 Releases on HuggingFace 7/27
+- [[2026-07-27_HowAIisexpandingwhatpeopledoatwork.md]] : How AI is expanding what people do at work
+- [[2026-07-27_Nvidia_MicrosoftlaunchopenAIsecurityalliance_witho.md]] : Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic
+- [[2026-07-27_HowistheBunRewriteinRustgoing_.md]] : How is the Bun Rewrite in Rust going?
+- [[2026-07-27_Enigmaraises_70Mtomakecontrollingarobotaseasyasadj.md]] : Enigma raises $70M to make controlling a robot as easy as adjusting the volume
+- [[2026-07-27_CanChinaKeepItsAIOpen_.md]] : Can China Keep Its AI Open?
+- [[2026-07-27_Inkling_OurOpen-WeightsModel.md]] : Inkling: Our Open-Weights Model
