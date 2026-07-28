@@ -27,6 +27,8 @@ The practical question is no longer just “what is the strongest open model?”
 | [Qwen3.6-35B-A3B](https://huggingface.co/Qwen/Qwen3.6-35B-A3B) | Balanced multimodal + agentic coding model with a strong open-weight footprint | Heavier deployment than compact local specialists |
 | [Gemma 4 26B A4B](https://huggingface.co/google/gemma-4-26B-A4B-it) | Strong open-weight multimodal generalist | Bigger memory footprint than smaller variants |
 | [Gemma 4 12B Unified](https://huggingface.co/google/gemma-4-12B) | Best compact multimodal generalist in the Gemma 4 family | Less raw capacity than the 26B MoE model |
+| [Kimi K3](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart) | Frontier open-weight model with huge context and agentic coding focus | More of a frontier pressure test than a lightweight local model |
+| [Inkling](https://thinkingmachines.ai/news/introducing-inkling/) | Broad open-weights generalist with multimodal reasoning and fine-tuning story | Large and customization-oriented rather than compact |
 | [Ornith-1.0-35B](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B) | Purpose-built for agentic coding and repository-level automation | Focused more on coding than broad multimodal use |
 | [Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M) | Compact long-context reasoning model built from Claude Mythos / Fable traces | Derived model, not a broad frontier multimodal system |
 | [VibeThinker-1.5B](https://huggingface.co/WeiboAI/VibeThinker-1.5B) | Tiny-model math and coding specialist | Experimental and not a general assistant |
@@ -60,6 +62,7 @@ This subsection is for models that matter because they can actually be run, tune
 ## Progress log
 
 - **2026-07-15** — Agents-A1-NVFP4-MTP-GGUF adds a local agentic multimodal MoE derivative to the watchlist, showing how NVFP4/MTP packaging can make a Qwen3.5-35B-A3B-style model practical for local experiments.
+- **2026-07-27** — Kimi K3 and Inkling join the open-weight frontier list, expanding the page to cover both big open frontier releases and the models likely to pressure closed-model defaults.
 - **2026-07-10** — Qwen 3.6 27B arrives with GGUF support, making a flagship open-weight model viable for local multimodal use.
 - **2026-06-30** — The model comparison page highlights current local frontiers like Ornith, Qwythos, VibeThinker, Qwen3.6, and Gemma 4.
 - **2026-06-30** — Qwythos-9B-Claude-Mythos-5-1M shows how Claude Mythos / Fable traces can be distilled into a compact long-context reasoning model.
@@ -69,6 +72,8 @@ This subsection is for models that matter because they can actually be run, tune
 
 - [Model Comparison — Ornith, Qwythos, VibeThinker, Qwen3.6, Gemma 4](../comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md)
 - [Qwen 3.6 27B Arrives with GGUF Support and Local Multimodal](../entities/article/2026-04-26_Qwen_3_6_27B_Arrives_with_GGUF_Support_and_Local_M_summary.md)
+- [Summary: Inkling: Our Open-Weights Model](../entities/article/2026-07-27_Inkling_OurOpen-WeightsModel_summary.md)
+- [Summary: Kimi-K3 Releases on HuggingFace 7/27](../entities/article/2026-07-27_Kimi-K3ReleasesonHuggingFace7_27_summary.md)
 - [LLM Release Tracker](2026-07-10_LLMReleaseTracker.md)
 - [LLM Model Evolution](2026-06-10_LLMModelEvolution.md)
 - [Inference Layer: Quantized Models, GGUF, and Local Use](../self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md)

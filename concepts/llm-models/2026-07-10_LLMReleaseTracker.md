@@ -36,12 +36,15 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 | **DeepSeek V4 Pro** | Best value pick for coding and agentic tasks | MIT-licensed, very low API pricing, open-weight availability |
 | **Qwen 3.7 Max** | Strong open-hosted option for agentic coding | Large context window and competitive benchmark claims |
 | **Llama 4 Scout** | Best long-context self-hosting candidate | 10M context, open weights, privacy-friendly deployment |
+| **Kimi K3** | Frontier open-weight pressure test | 1M context, agentic coding focus, huge open-weight scale |
+| **Inkling** | Broad open-weights generalist | Multimodal, customizable, and positioned as a practical foundation model |
 
 ### Current read
 
 - **Frontier models are specialized by workflow.** GPT-5.5 is the broad default, while Claude Opus 4.7 stays the repo-reasoning leader.
 - **Speed and cost beat raw headline rank for many teams.** Gemini 3.5 Flash is the standout when latency and throughput matter.
 - **Open-weight models are first-choice candidates now.** DeepSeek V4 Pro and Qwen 3.7 Max are real contenders, not backups.
+- **Open-weight pressure is now split too.** Kimi K3 pushes frontier scale while Inkling pushes broad open-weights customization.
 - **Self-hosting is viable for long-context work.** Llama 4 Scout is the clearest privacy or control pick.
 
 ### Open questions / contradictions
