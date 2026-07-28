@@ -1,0 +1,18 @@
+---
+title: Bit-Accurate FPGA Evaluation of Learned Feature Gating in a Fixed-Point Fourier-Feature Automatic Modulation Classifier
+published: 2026-07-27T15:36:06Z
+authors: Gawthaman Senthilvelan, Luthira Abeykoon
+url: http://arxiv.org/abs/2607.24568v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Bit-Accurate FPGA Evaluation of Learned Feature Gating in a Fixed-Point Fourier-Feature Automatic Modulation Classifier
+
+## Abstract
+Learned feature reweighting can improve automatic modulation classification (AMC) in software, but the same operation introduces additional arithmetic and latency when implemented on an FPGA. This work measures that trade-off in a compact fixed-point classifier using 24 sparse DFT-energy features, 8 phase/statistical features, and a 32-to-128-to-11 multilayer perceptron. A second architecture inserts a learned 32-element, 8-bit, input-dependent gate before the classifier. Gated and ungated models are trained using post-training quantization (PTQ) and quantization-aware training (QAT) with two matched training seeds. The resulting eight checkpoints are compiled independently for an Intel Cyclone V FPGA and evaluated over 352,000 physical-board classifications. Ungated models achieve higher test accuracy in all four matched gate comparisons, with mean gated-minus-ungated differences of -0.784 percentage points under PTQ and -0.616 percentage points under QAT. The effect of QAT changes direction between the two training seeds. In hardware, the gate adds an average of 1,318 adaptive logic modules (ALMs), 1,557 registers, 4 DSP blocks, and 3,140 processing cycles. All 352,000 board predictions agree exactly with an independent integer reference, and 3,760 captured intermediate values from one training seed also match. For this feature representation and implementation, learned gating increases FPGA cost without improving classification accuracy.
+
+## Metadata
+- **Published**: 2026-07-27T15:36:06Z
+- **Authors**: Gawthaman Senthilvelan, Luthira Abeykoon
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.24568v1)

@@ -1,0 +1,18 @@
+---
+title: Variational Quantum Conditional Boltzmann Machines for Time-Series Forecasting: Architectures, Symmetric Hyperparameter Evaluation, and a Nonlinear Benchmark
+published: 2026-07-27T07:08:34Z
+authors: Gerhard Hellstern, Danyal Maheshwari, Martin Zaefferer, Martin Braun, Tanja Döhler
+url: http://arxiv.org/abs/2607.24065v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Variational Quantum Conditional Boltzmann Machines for Time-Series Forecasting: Architectures, Symmetric Hyperparameter Evaluation, and a Nonlinear Benchmark
+
+## Abstract
+In this study, we developed and evaluated four conditional energy-based forecasting architectures: a classical Gaussian-Bernoulli CRBM, a hybrid quantum-classical QCRBM, a full-register QQRBM, and a lag-feature QFeatureQRBM with complete derivations of their conditional distributions, Contrastive-Divergence gradients, and hybrid training, bridging the energy-based formulation and the implementation-level quantum computation. Unlike prior comparisons, our evaluation enforces symmetric hyperparameter optimisation: classical and quantum-specific hyperparameters receive an equally thorough grid search across thirteen structured experiments. We test on two data classes, a Gaussian-process dataset (GP) generated with real financial data and the input-driven NARMA-10 nonlinear benchmark. Across both regimes we find no systematic evidence of a quantum advantage at the available sample size: no quantum architecture improves on the best classical baseline. The fully quantum QQRBM and QFeatureQRBM are significantly worse, whereas the hybrid QCRBM is statistically indistinguishable from the strongest classical CRBM on both datasets. A power analysis bounds this null result: at n = 12 only medium-to-large effects are detectable, so small advantages cannot be excluded. An iso-parameter (matched-budget) comparison reaches the same conclusion: the classical CRBM is lowest at three of the four budgets and no CRBM-vs-QCRBM difference is significant at any budget.
+
+## Metadata
+- **Published**: 2026-07-27T07:08:34Z
+- **Authors**: Gerhard Hellstern, Danyal Maheshwari, Martin Zaefferer, Martin Braun, Tanja Döhler
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.24065v1)

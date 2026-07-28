@@ -1,0 +1,18 @@
+---
+title: Does Graph Compression Preserve Signal Propagation?
+published: 2026-07-25T19:24:50Z
+authors: Kawshik Banerjee, Khaled Mohammed Saifuddin
+url: http://arxiv.org/abs/2607.23338v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Does Graph Compression Preserve Signal Propagation?
+
+## Abstract
+Graph compression reduces the computational cost of graph learning, but its effect on signal propagation remains largely underexplored. Existing work evaluates compression through downstream task performance or structural preservation, neither of which directly captures how propagation dynamics change after compression. We study two fundamental compression paradigms, coarsening and sparsification, and ask whether they preserve the propagation behavior of the original graph. Across five datasets, varying compression rates, and propagation depths, we measure signal behavior through three complementary metrics. Our results reveal a consistent tension between the two compression families. Sparsification retains higher signal diversity and mitigates oversmoothing, but its propagation trajectory progressively diverges from that of the original graph. Coarsening more faithfully preserves propagation behavior, but at the cost of stronger smoothing and rank collapse. These findings demonstrate that two propagation-centric objectives, preserving signal diversity and preserving propagation fidelity, are distinct and empirically at odds under graph compression, highlighting the need for evaluation protocols that jointly consider both dimensions. The code and results are available at: https://github.com/KawshikBanerjee/Compression-Propagation-Duality
+
+## Metadata
+- **Published**: 2026-07-25T19:24:50Z
+- **Authors**: Kawshik Banerjee, Khaled Mohammed Saifuddin
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.23338v1)

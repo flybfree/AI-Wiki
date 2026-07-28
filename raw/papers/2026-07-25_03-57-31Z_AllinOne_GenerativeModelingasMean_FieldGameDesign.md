@@ -1,0 +1,18 @@
+---
+title: All in One: Generative Modeling as Mean-Field Game Design
+published: 2026-07-25T03:57:31Z
+authors: Kun Zhao, Xu Chen
+url: http://arxiv.org/abs/2607.23026v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# All in One: Generative Modeling as Mean-Field Game Design
+
+## Abstract
+Mean-field games (MFGs) offer a unifying lens on continuous-time generative modeling: a cost tuple recovering twelve prominent models---Continuous Normalizing Flows, OT-Flow, Score-based Models, Schrödinger Bridges, and more---as special cases of one variational problem. Yet two dimensions of this space remain entirely unexplored: the interaction term $\mathcal{I}$ is set to zero in many existing models, and the rich family of MFG solvers has never been applied to generative modeling. We address both gaps with MFGLab an open-source PyTorch library whose primary API is the cost tuple: all twelve models are specified by four composable cost functions, and the training loop, log-Jacobian, and reverse-ODE sampler are shared automatically. We additionally propose DI-Flow, a novel cost design that uses a differentiable entropy functional to encourage mode coverage, and provide learning-based MFG solvers that substantially outperform neural training on stochastic-dynamics rows. Experiments on two 2-D benchmarks confirm that the unified API is lossless relative to hand-coded implementations.
+
+## Metadata
+- **Published**: 2026-07-25T03:57:31Z
+- **Authors**: Kun Zhao, Xu Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.23026v1)

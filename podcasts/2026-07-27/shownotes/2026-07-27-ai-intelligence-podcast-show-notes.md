@@ -13,7 +13,7 @@ The episode opened with the shift from generic chat toward AI systems that sit o
 - [SymptomAI: Towards a conversational AI agent for everyday symptom assessment](https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/): A large randomized study showing conversational symptom assessment in a real-world health setting.
 
 ### 2) Frontier-model competition is now about usefulness, openness, and compute access
-The frontier story split three ways today: Anthropic’s Claude Opus 5 is being judged as a commercial release, Moonshot’s Kimi K3 is pushing open-weight frontier scale, and Thinking Machines’ Inkling adds another open-weights signal. The Ilya Sutskever / Safe Superintelligence and Nvidia story is the reminder that compute access and partnerships are still central to frontier research.
+The frontier story split three ways today: Anthropic’s Claude Opus 5 is being judged as a commercial release, Moonshot’s Kimi K3 is pushing open-weight frontier scale, and Thinking Machines’ Inkling adds another open-weights example. The Ilya Sutskever / Safe Superintelligence and Nvidia story is the reminder that compute access and partnerships are still central to frontier research.
 
 **Referenced sources**
 - [Introducing Claude Opus 5](https://www.anthropic.com/news/claude-opus-5): Anthropic positions Opus 5 as a practical default for coding and knowledge work, with a stronger cost/performance story than the prior generation.
@@ -31,8 +31,8 @@ The paper coverage today was less about hype and more about engineering. Cross-m
 - [Self-Poisoning in Adaptive Out-of-Distribution Detection](http://arxiv.org/abs/2607.21673v1): Shows how adaptive detectors can poison themselves when memory banks keep learning from the wrong data.
 - [Persistent Computational State](http://arxiv.org/abs/2607.21686v1): A session-centric runtime direction for generative systems that need persistent state.
 
-### 4) Thinking Machines is becoming a standalone signal cluster
-Thinking Machines now reads like a full stack of signals, not just a company name. The company is pairing a human-centered philosophy with open-weights model work and applied training recipes, which makes it worth watching on its own.
+### 4) Thinking Machines is becoming a standalone theme worth tracking
+Thinking Machines now reads like a full stack of evidence, not just a company name. The company is pairing a human-centered philosophy with open-weights model work and applied training recipes, which makes it worth watching on its own.
 
 **Referenced sources**
 - [The Future Worth Building Is Human](https://thinkingmachines.ai/blog/the-future-worth-building-is-human/): Frames AI as something that should extend human will and judgment.
@@ -41,7 +41,7 @@ Thinking Machines now reads like a full stack of signals, not just a company nam
 - [Thinking Machines Lab and NVIDIA Announce Long-Term Gigawatt-Scale Strategic Partnership](https://thinkingmachines.ai/news/nvidia-partnership/): The company’s infrastructure and partnership watch item.
 
 ### 5) Product strategy is moving toward consumer ecosystems and task ownership
-Midjourney’s Co-Star acquisition is the clearest product-strategy signal in the set. It is a move from pure model output toward owning the app, the interface, and the repeated user relationship.
+Midjourney’s Co-Star acquisition is the clearest product-strategy move in the set. It is a move from pure model output toward owning the app, the interface, and the repeated user relationship.
 
 **Referenced sources**
 - [Midjourney bought the astrology app Co-Star](https://www.theverge.com/ai-artificial-intelligence/970894/midjourney-co-star-acquisition): Midjourney is expanding into consumer apps and design-led distribution instead of staying only in image generation.
@@ -73,6 +73,6 @@ Midjourney’s Co-Star acquisition is the clearest product-strategy signal in th
 
 ## Production Notes
 - This set is based on the live 2026-07-27 briefing snapshot, which is still a working draft.
-- The script expanded the highest-signal links rather than reading every source in order.
+- The script expanded the highest-priority links rather than reading every source in order.
 - The show notes keep original source URLs visible and pair them with short distilled summaries.
 - Saved path: `podcasts/2026-07-27/shownotes/2026-07-27-ai-intelligence-podcast-show-notes.md`

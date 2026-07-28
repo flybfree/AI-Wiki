@@ -1,0 +1,18 @@
+---
+title: LA-RL: Label-Aware Self-Reflection for Reinforcement Learning in Information Extraction
+published: 2026-07-26T02:35:47Z
+authors: Xiao You, Tianwei Yan, Zixu Shan, Longyu Du, Shan Zhao
+url: http://arxiv.org/abs/2607.23420v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# LA-RL: Label-Aware Self-Reflection for Reinforcement Learning in Information Extraction
+
+## Abstract
+Large language models show strong promise for information extraction (IE), but existing reflection-based correction methods are often misaligned with structured extraction outputs. Free-form self-reflection can flag an error, yet it rarely identifies whether the failure is a missing span, wrong label, boundary mismatch, invalid relation type, or reversed argument order. We introduce LA-RL (Label-Aware Reflective Reinforcement Learning), an outcome-supervised framework that guides IE self-correction with task-grounded diagnostic labels. A single backbone first predicts an extraction, diagnoses task-specific error labels, and then revises its output conditioned on the diagnosis. Training starts from diagnostic data labeled by an annotation model for cold-start supervised fine-tuning and proceeds through two GRPO stages that reward final extraction quality, format validity, and first-pass correctness, without a process reward model. Experiments on named entity recognition, relation extraction, and event extraction show consistent same-backbone gains over SFT, including 6.83 average F1 on SciER relation extraction, about 20 F1 on out-of-distribution relation extraction, and 14.80 trigger F1 plus 17.50 argument F1 on DuEE1.0. Ablations show that reflection structure is task-sensitive: stronger constraints benefit relation extraction, whereas named entity recognition needs less restrictive correction under domain shift.
+
+## Metadata
+- **Published**: 2026-07-26T02:35:47Z
+- **Authors**: Xiao You, Tianwei Yan, Zixu Shan, Longyu Du, Shan Zhao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.23420v1)

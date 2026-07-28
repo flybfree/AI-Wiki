@@ -1,0 +1,18 @@
+---
+title: Simulating Tenant Responses to Energy Policy Interventions with Transaction-Cost-Aware LLM Age
+published: 2026-07-27T12:18:59Z
+authors: Weijie Xia, Stefanie Horian, Hanyue Huang, Queena K. Qian, Jie Yang, Pedro P. Vergara Barrios
+url: http://arxiv.org/abs/2607.24341v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Simulating Tenant Responses to Energy Policy Interventions with Transaction-Cost-Aware LLM Age
+
+## Abstract
+Recent studies use Large language models (LLMs) to simulate human opinions and decisions by prompting models with demographic, attitudinal, or persona-based descriptions. Yet such simulations rarely model the practical, cognitive, or social frictions that shape how people respond to policy interventions. Perceived transaction cost (PTC) provides a useful lens for modeling the practical frictions that shape policy responses, such as information burden, administrative effort, coordination demands, and perceived uncertainty. We use this lens to develop a friction-aware persona modeling approach for LLM-based simulation. In the context of energy-efficient renovation (EER), tenants are represented not only by who they are demographically, but by how they perceive the costs, benefits, barriers, and uncertainties associated with proposed renovation plans. Using survey data collected from 1,068 citizens in the Netherlands, comprising approximately 40,548 survey question and answer pairs, we compare prompt-only and fine-tuned settings across GPT-3.5-turbo, Ministral-8B-Instruct, and Llama-3.1-8B-Instruct, and evaluate supervised fine-tuning (SFT) and Group Relative Policy Optimization (GRPO) for local open-weight models. Results show that incorporating PTC-based personas and reasoning consistently improves model performance across both prompt-only and fine-tuned settings, suggesting that PTC-based persona design provides a useful bridge between institutional policy theory and interpretable LLM-based policy simulation. Code is available at https://github.com/xiaweijie1996/socialagent.
+
+## Metadata
+- **Published**: 2026-07-27T12:18:59Z
+- **Authors**: Weijie Xia, Stefanie Horian, Hanyue Huang, Queena K. Qian, Jie Yang, Pedro P. Vergara Barrios
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.24341v1)
