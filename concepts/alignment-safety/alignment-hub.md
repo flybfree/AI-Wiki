@@ -14,8 +14,8 @@ Alignment, preference optimization, reward modeling, honesty, interpretability, 
 
 ## Related Concepts
 
-- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
-- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [AI Safety Hub](../ai-safety/ai-safety-hub.md)
+- [Evaluation Benchmarks Hub](../evaluation-benchmarks/evaluation-benchmarks-hub.md)
 
 ## Representative Summaries
 

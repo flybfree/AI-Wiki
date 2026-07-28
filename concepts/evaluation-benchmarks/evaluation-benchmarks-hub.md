@@ -14,8 +14,8 @@ Benchmarks, rubrics, measurement design, red-teaming, and the limits of evaluati
 
 ## Related Concepts
 
-- [[concepts/ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|AI Ml Foundations Lesson 15 Evaluation Overfitting And Limits]]
-- [[concepts/ai-agents/ai-agents-lesson-05-guardrails-evaluation-and-reliability.md|AI Agents Lesson 05 Guardrails Evaluation And Reliability]]
+- [AI Ml Foundations Lesson 15 Evaluation Overfitting And Limits](../ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md)
+- [AI Agents Lesson 05 Guardrails Evaluation And Reliability](../ai-agents/ai-agents-lesson-05-guardrails-evaluation-and-reliability.md)
 
 ## Representative Summaries
 
@@ -23,4 +23,4 @@ Benchmarks, rubrics, measurement design, red-teaming, and the limits of evaluati
 - [[papers/2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation_summary.md|2026 07 16 16 44 40Z Canwetrustitemresponsetheoryforaievaluation]]
 - [[papers/2026-07-24_14-55-19Z_DoAgentBenchmarksMeasureCapability_Protocol_summary.md|2026 07 24 14 55 19Z Doagentbenchmarksmeasurecapability Protocol]]
 - [[papers/2026-07-24_17-56-38Z_ExplainableReinforcementLearningforassistin_summary.md|2026 07 24 17 56 38Z Explainablereinforcementlearningforassistin]]
-- [[entities/article/2026-07-27_IntroducingClaudeOpus5_summary.md|2026 07 27 Introducingclaudeopus5]]
+- [2026 07 27 Introducingclaudeopus5](../../entities/article/2026-07-27_IntroducingClaudeOpus5_summary.md)

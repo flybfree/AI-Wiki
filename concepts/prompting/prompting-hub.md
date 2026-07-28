@@ -14,8 +14,8 @@ Prompt structure, instruction hierarchy, format control, and context design for 
 
 ## Related Concepts
 
-- [[concepts/ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|AI Ml Foundations Lesson 12 Prompting Guiding Model Behavior]]
-- [[concepts/ai-agents/ai-agents-lesson-02-tools-actions-and-observation-loops.md|AI Agents Lesson 02 Tools Actions And Observation Loops]]
+- [AI Ml Foundations Lesson 12 Prompting Guiding Model Behavior](../ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md)
+- [AI Agents Lesson 02 Tools Actions And Observation Loops](../ai-agents/ai-agents-lesson-02-tools-actions-and-observation-loops.md)
 
 ## Representative Summaries
 
