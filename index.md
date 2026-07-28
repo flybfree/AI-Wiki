@@ -2773,3 +2773,11 @@ tags: ['wiki']
 
 - [[concepts/knowledge-management/ai-research-concept-map.md|AI Research Concept Map]]
 - [[2026-07-27_InternationalFellowsexploreAI_science_andpolicyinP.md]] : International Fellows explore AI , science , and policy in Pittsburgh - DVIDS
+- [[2026-07-28_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-07-28_InternationalFellowsexploreAI_science_andpolicyinP.md]] : International Fellows explore AI , science , and policy in Pittsburgh - DVIDS
+- [[2026-07-28_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-07-28_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[2026-07-28_CursormakesitsbiggestIndiapushyetaheadofSpaceXacqu.md]] : Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing
+- [[2026-07-28_Inkling_OurOpen-WeightsModel.md]] : Inkling: Our Open-Weights Model
+- [[2026-07-28_7_1EarthquakeinJapan.md]] : 7.1 Earthquake in Japan
+- [[2026-07-28_HuggingFaceisbeingusedtoeasilyundresswomenandchild.md]] : Hugging Face is being used to easily undress women and children
