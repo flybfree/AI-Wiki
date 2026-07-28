@@ -2781,3 +2781,10 @@ tags: ['wiki']
 - [[2026-07-28_Inkling_OurOpen-WeightsModel.md]] : Inkling: Our Open-Weights Model
 - [[2026-07-28_7_1EarthquakeinJapan.md]] : 7.1 Earthquake in Japan
 - [[2026-07-28_HuggingFaceisbeingusedtoeasilyundresswomenandchild.md]] : Hugging Face is being used to easily undress women and children
+- [[2026-07-28_ScientificcomputingintheageofagenticAI.md]] : Scientific computing in the age of agentic AI
+- [[2026-07-28_YouCouldHaveComeUpwithKimiDeltaAttention.md]] : You Could Have Come Up with Kimi Delta Attention
+- [[2026-07-28_AIleaderssignstatementaskingthegovernmenttodosomet.md]] : AI leaders sign statement asking the government to do something about automated AI
+- [[2026-07-28_DeflockCasaGrande.md]] : Deflock Casa Grande
+- [[2026-07-28_StudyandLearn_AIbuiltforlearninginMicrosoft365Copi.md]] : Study and Learn: AI built for learning in Microsoft 365 Copilot | Microsoft Education Blog
+- [[2026-07-28_OpenAIjustopen-sourcedCodexSecurity.md]] : OpenAI just open-sourced Codex Security
+- [[2026-07-28_Bot-detectionstartupSpurnabs_200MfromInsight.md]] : Bot-detection startup Spur nabs $200M from Insight
