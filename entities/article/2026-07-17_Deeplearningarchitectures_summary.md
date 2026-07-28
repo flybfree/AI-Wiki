@@ -18,3 +18,10 @@ Deep learning has become the backbone of modern artificial intelligence, powerin
 
 ## Implications  
 Understanding these architectures enables engineers to select the right model architecture for a given task, improving accuracy and efficiency. For industries adopting AI—healthcare, finance, manufacturing—the ability to rapidly prototype and deploy models can translate into competitive advantage and faster time‑to‑market.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

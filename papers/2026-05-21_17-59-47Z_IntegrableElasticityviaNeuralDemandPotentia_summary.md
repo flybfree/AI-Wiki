@@ -31,13 +31,8 @@ Experimental results indicate that ICDN achieves better out-of-sample generaliza
 This research matters because it bridges the gap between flexible machine learning models and rigid economic theory. By ensuring integrability, the ICDN provides retailers with more trustworthy tools for demand forecasting and price optimization. The ability to derive exact elasticities reduces the risk of implementing pricing strategies that could lead to unintended revenue losses or market distortions. This work sets a precedent for incorporating theoretical constraints into neural networks for economic applications.
 
 ## Related Concepts
-- Integrable elasticity
-- Neural demand potentials
-- Multiproduct retail demand
-- Cross-price effects
-- Log-log benchmark
-- Dominick's beer dataset
-- Context-dependent demand
-- Economic consistency in machine learning
 
-[[Integrable Elasticity via Neural Demand Potentials]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

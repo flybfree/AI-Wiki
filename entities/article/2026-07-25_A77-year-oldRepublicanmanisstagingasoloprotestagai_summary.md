@@ -18,3 +18,10 @@ Flock cameras, a private‑sector system launched in St. Petersburg in 2022, emp
 
 ## Implications  
 The St. Petersburg episode illustrates how AI‑enabled surveillance tools can become focal points in civil‑rights activism, prompting legislators to consider constitutional limits on mass data collection. As the system scales, its impact may extend beyond local policing, influencing national standards for privacy, data security, and the ethical deployment of facial‑recognition and license‑plate recognition technologies across the United States.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

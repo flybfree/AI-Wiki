@@ -31,12 +31,8 @@ The experimental results demonstrate a severe deficiency in current memory syste
 This research is significant because it exposes a fundamental limitation in the current generation of LLM-based agents: while they can store and retrieve simple facts, they lack the robustness to manage complex, interdependent information over time. The findings suggest that scaling up model size or optimizing prompts is not enough to solve memory dependency issues. This has profound implications for the development of autonomous agents in real-world applications where persistent, accurate, and cost-effective memory management is crucial for long-term reliability and operational feasibility.
 
 ## Related Concepts
-- Long-term Memory in LLMs
-- Multi-agent Systems
-- Dependency Reasoning
-- State Management in AI Agents
-- Benchmarking AI Capabilities
-- Prompt Engineering
-- Cost-Efficiency in AI Deployment
 
-[[MEME: Multi-entity & Evolving Memory Evaluation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

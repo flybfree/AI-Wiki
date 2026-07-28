@@ -31,10 +31,9 @@ For any \(\varepsilon>0\) there exists a polynomial \(p(x)\) of degree \(k = O(\
 ## Significance  
 The existence of non‑negative \(L_{1}\)-approximating polynomials is crucial for smoothed learning from positive‑only examples, where data are only observed as “positive” or “zero”. By guaranteeing that the approximant never takes negative values, the method avoids spurious negative predictions while preserving the same theoretical efficiency as existing Gaussian \(L_{1}\) approximation tools. This bridges a gap between pure approximation theory and practical learning algorithms, offering a theoretically sound alternative to sandwich polynomials for certain applications.  
 
-## Related Concepts  
-- **\(L_{1}\)-approximating polynomials**: Polynomials that minimize the \(L_{1}\) distance to an indicator function.  
-- **Gaussian surface area (GSA)**: A measure of how “compact” a set is under the standard Gaussian, used to bound approximation complexity.  
-- **Sandwich polynomials**: Approximations constrained between two other functions; they serve as a benchmark for L1 approximation.  
-- **Pointwise guarantee**: The additional condition that the approximating polynomial stays within \([0,\infty)\).
+## Related Concepts
 
-[[A Note on Non-Negative $L_1$-Approximating Polynomials]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

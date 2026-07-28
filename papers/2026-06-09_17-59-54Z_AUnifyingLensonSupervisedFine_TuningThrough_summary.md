@@ -31,10 +31,9 @@ Target‑SFT consistently achieves higher validation scores than baseline SFT in
 ## Significance  
 This work uncovers a fundamental design principle for SFT: training should be guided by the shape of a target distribution rather than blindly following token‑wise loss. By exposing SFT as a distribution‑design problem, the authors open a broader search space for future objectives and enable systematic exploration of alternative supervision strategies.
 
-## Related Concepts  
-- Supervised fine‑tuning (SFT)  
-- Target distribution Q  
-- Token‑level supervision  
-- Loss maximization vs. target alignment  
-- Knowledge prior alignment  
-- Distribution design in machine learning
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

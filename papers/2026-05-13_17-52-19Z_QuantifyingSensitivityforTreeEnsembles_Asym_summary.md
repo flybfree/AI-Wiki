@@ -31,12 +31,8 @@ The authors evaluate their technique, implemented in the tool XCount, against st
 This work is significant because it provides a scalable and mathematically rigorous method for assessing the robustness of DTEs, which are foundational models in many AI systems. By offering quantitative sensitivity measures rather than just binary yes/no verification, it enables developers to identify and mitigate specific vulnerabilities in safety-critical domains such as healthcare, finance, and autonomous systems. The ability to certify these properties with confidence bounds adds a layer of trust and accountability to AI deployments.
 
 ## Related Concepts
-- Decision Tree Ensembles (DTE)
-- Sensitivity Analysis
-- Algebraic Decision Diagrams (ADD)
-- Model Counting
-- Compositional Verification
-- Robustness Certification
-- Input Space Discretization
 
-[[Quantifying Sensitivity for Tree Ensembles: A symbolic and compositional approach]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

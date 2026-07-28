@@ -31,7 +31,9 @@ Theoretical analysis demonstrates that expansion‑only methods are confined to 
 ## Significance  
 This work matters because it tackles two fundamental limitations of current self‑improving language model search: reliance on sparse verification signals and restricted exploration due to autoregressive expansion. By integrating backward decomposition, BES reduces sample waste and enables more thorough search, paving the way for more efficient, scalable, and effective self‑improvement pipelines.
 
-## Related Concepts  
-Key concepts include evolutionary search, entropy shell, bidirectional search, task decomposition, post‑training fine‑tuning, open problem solving, and model rollout.
+## Related Concepts
 
-[[Self-Improving Language Models with Bidirectional Evolutionary Search]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -116,3 +116,10 @@ The verification step adds ~12 percentage points, demonstrating that **externa
 ### Takeaway  
 
 Our experiments demonstrate that **likelihood alone is a poor proxy for correctness**. The probability distribution of token generation does not capture attention alignment with factual content nor model uncertainty. By combining likelihood with an attention‑alignment metric and, when feasible, external verification, we can reliably identify high‑confidence, correct outputs—providing a concrete pathway toward more trustworthy LLM applications.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

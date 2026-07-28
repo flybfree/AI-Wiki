@@ -35,3 +35,10 @@ These findings highlight promising implications for affective content recommenda
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_15-07-41Z_ModelingInducedPleasurethroughCognitiveAppraisalPr.md
 
 [[Modeling Induced Pleasure through Cognitive Appraisal Prediction via Multimodal Fusion]]
+
+## Related Concepts
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

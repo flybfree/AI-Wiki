@@ -18,3 +18,10 @@ The broader AI context reflects an ecosystem where generative models are being i
 
 ## Implications  
 For the field and industry, these developments mean that generative AI will accelerate product innovation but also intensify competition for user attention and data rights. Regulatory scrutiny may increase as companies disclose AI‑generated ads (Google’s new policy) and manipulate public information (Meta’s AI Mode). Startups benefit from capital influx like Runway’s fund, yet creators face challenges around intellectual property and the need for ethical safeguards in AI‑driven media production.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

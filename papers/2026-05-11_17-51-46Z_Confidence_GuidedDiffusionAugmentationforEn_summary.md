@@ -31,13 +31,9 @@ Experiments on the AIBangla compound character benchmark show consistent gains a
 ## Significance  
 This work demonstrates that quality‑aware diffusion augmentation can markedly improve low‑resource handwritten character recognition in complex scripts like Bangla. By generating realistic synthetic data and filtering for class consistency, the method alleviates data scarcity without manual annotation, offering a scalable solution for similar script challenges worldwide.
 
-## Related Concepts  
-- Class‑conditional diffusion modeling  
-- Classifier guidance / quality gating  
-- Squeeze‑and‑Excitation residual blocks  
-- U‑Net backbone with attention modules  
-- Confidence‑based filtering of synthetic samples  
-- Low‑resource handwritten character recognition  
-- Bangla compound character dataset (AIBangla)
+## Related Concepts
 
-[[Confidence-Guided Diffusion Augmentation for Enhanced Bangla Compound Character Recognition]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

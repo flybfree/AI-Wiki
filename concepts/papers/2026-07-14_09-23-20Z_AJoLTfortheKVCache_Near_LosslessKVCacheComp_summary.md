@@ -88,3 +88,10 @@ Figure 4 shows side‑by‑side token sequences reconstructed from compressed 
 ---
 
 **Conclusion** – JoLT demonstrates that a principled joint allocation of Tucker block quantization and JL‑Residual encoding can compress LLM KV caches by up to 78 % while keeping reconstruction error below 2 bpp. The method is lightweight, scalable across model sizes, and delivers tangible gains in both memory efficiency and inference speed—key metrics for deploying LLMs at scale.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

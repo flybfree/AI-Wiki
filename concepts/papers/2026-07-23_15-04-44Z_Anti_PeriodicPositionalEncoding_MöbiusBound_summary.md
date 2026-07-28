@@ -23,8 +23,8 @@ Hybrid perplexity remained stable at 29.66 vs. 29.72, but retrieval hit rates ju
 This work shows that a single‑line change to positional encoding can dramatically stabilize retrieval without hurting training loss, offering a practical solution for models where seed variability is costly. It also clarifies the role of long‑range geometry in encoder design, informing future research on robust in‑context learning.
 
 ## Related Concepts
-- Positional encoding (RoPE)
-- Anti‑periodic frequency ladder with holonomy -1
-- Möbius boundary conditions and dipole coupling
-- In‑context retrieval performance
-- Hybrid model architectures
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

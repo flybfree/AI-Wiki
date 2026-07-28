@@ -31,12 +31,8 @@ Extensive experiments conducted on various relational prediction tasks demonstra
 This work is significant because it fundamentally shifts the paradigm of graph construction in relational deep learning from a static, rule-based process to a dynamic, data-driven one. By proving that fixed schema graphs are not strictly necessary for preserving semantics, it opens up new avenues for optimizing graph neural networks on structured data. This approach allows for greater adaptability to diverse and complex relational datasets, potentially improving performance in real-world applications where database schemas may be noisy or suboptimal for direct graph modeling.
 
 ## Related Concepts
-- Relational Deep Learning (RDL)
-- Graph Neural Networks (GNNs)
-- Schema Graphs
-- Full-Resolution Graph Structure Learning
-- Message Passing Mechanisms
-- Functional Dependency Constraints
-- Table Role Modeling
 
-[[Is Fixing Schema Graphs Necessary? Full-Resolution Graph Structure Learning for Relational Deep Learning]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

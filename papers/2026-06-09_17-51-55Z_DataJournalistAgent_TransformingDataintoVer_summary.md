@@ -31,9 +31,9 @@ Human‑rated stories scored higher in editorial angle (mean +0.42), creative 
 ## Significance  
 By providing a verifiable, evidence‑based pipeline, Data2Story reduces bias and strengthens trust in automated reporting. It offers journalists a collaborative tool that can handle data discovery, verification, and visual storytelling, accelerating news production while preserving accountability.
 
-## Related Concepts  
-- Multi‑agent systems  
-- Claims‑evidence grounding  
-- Multimodal generation  
-- Verifiable journalism  
-- Human‑agent evaluation
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

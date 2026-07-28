@@ -31,9 +31,9 @@ On a synthetic dataset of 10‑element sets with random ordering, the proposed m
 ## Significance  
 This work underscores a longstanding intuition in machine learning: many real applications—such as scheduling, DNA motif discovery, or chemical reaction pathways—depend on the relative positions of elements. By providing a principled S2S method for sets, the authors offer a flexible template that can be extended to other permutation‑sensitive domains and serves as a benchmark against invariant approaches.
 
-## Related Concepts  
-- Sequence‑to‑sequence learning  
-- Attention mechanisms (self‑attention)  
-- Permutation invariance vs. sensitivity in set representations  
-- Encoder‑decoder architectures for sequential data  
-- Positional embeddings to encode order information
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,13 +31,8 @@ The operational ensemble achieved an accuracy of 89.6 percent in LOOCV testing, 
 This research is crucial for enhancing food security in Bangladesh, as flash floods frequently destroy the annual boro rice harvest with little to no warning. By providing a reliable 72-hour prediction window and accounting for the specific hydrological realities of haor wetlands, HaorFloodAlert offers a practical tool for disaster management. The inclusion of a damage estimator allows policymakers and farmers to make informed decisions about crop protection and resource allocation, potentially saving millions of dollars in agricultural losses and reducing human suffering in vulnerable communities.
 
 ## Related Concepts
-- Machine Learning Ensembles
-- Sentinel-1 SAR Data
-- Deseasonalization Techniques
-- Flash Flood Prediction
-- Haor Wetlands Hydrology
-- Early Warning Systems
-- Boro Rice Agriculture
-- Cross-Border Water Management
 
-[[HaorFloodAlert: Deseasonalized ML Ensemble for 72-Hour Flood Prediction in Bangladesh Haor Wetlands]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

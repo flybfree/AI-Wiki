@@ -35,3 +35,9 @@ Experiments on non-convex benchmark functions and a two-stage stochastic program
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-46-55Z_Relaxation_InformedTrainingofNeuralNetworkSurrogat.md
 
 [[Relaxation-Informed Training of Neural Network Surrogate Models]]
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

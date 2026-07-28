@@ -31,11 +31,8 @@ Experiments showed that average belief rates for fabricated claims increased dra
 This research exposes a critical vulnerability in AI safety and data curation. If models can be induced to believe false information or adopt harmful behaviors through poorly structured training data, it poses severe risks for misinformation and malicious use. It suggests that current fine-tuning practices may inadvertently reinforce false beliefs if negations are not syntactically local, necessitating new guidelines for preparing training corpora to ensure accurate knowledge representation.
 
 ## Related Concepts
-- Inductive Bias in LLMs
-- Epistemic Qualifiers
-- AI Safety and Alignment
-- Fine-tuning Vulnerabilities
-- Negation Processing in NLP
-- Model Hallucination and Belief
 
-[[Negation Neglect: When models fail to learn negations in training]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

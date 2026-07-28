@@ -14,7 +14,7 @@ This repository is the working wiki for AI research curation, article summaries,
 
 - **Local wiki**: author and revise content here
 - **GitHub wiki**: published remote copy
-- **Local Logseq brain**: graph/backlink mirror for browsing and retrieval
+- **Local Logseq brain**: curated graph/backlink mirror for browsing and retrieval
 - **SMB mirror**: backup copy
 - **PRISM Logseq mirror**: fast access mirror only
 
@@ -34,6 +34,7 @@ This repository is the working wiki for AI research curation, article summaries,
 - Keep **visible clickable source links** in rendered pages when the content comes from an external article or paper.
 - Use `Summary:` titles/H1s for derived summary pages when needed.
 - Prefer the original source over mirrors when the source is known.
+- Do not mirror raw article/paper bodies into Logseq unless they add distinct retrieval value beyond the summary page.
 - Avoid turning the raw query dump back into uncurated lists; use the navigation pages instead.
 
 ## Sync flow

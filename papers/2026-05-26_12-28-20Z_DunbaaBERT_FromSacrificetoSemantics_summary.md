@@ -31,11 +31,9 @@ Across intrinsic and downstream benchmarks, DunbaaBERT variants consistently ran
 ## Significance  
 These findings demonstrate that carefully curated Urdu‑specific encoder models can remain highly competitive despite relatively modest model and training scales. The results provide a practical framework for building efficient, high‑performing language models for under‑represented languages like Urdu.
 
-## Related Concepts  
-- RoBERTa‑base: A pre‑training architecture adapted for Urdu.  
-- Byte‑BPE vocabularies: Tokenization method enabling variable token counts.  
-- Intrinsic vs downstream evaluation: Separate intrinsic tasks and real‑world NLP applications.  
-- Multilingual baselines: Models trained on diverse languages (e.g., mBART, XLM‑R).  
-- Efficiency trade‑offs: Balance between model size, training cost, and inference speed.
+## Related Concepts
 
-[[DunbaaBERT: From Sacrifice to Semantics]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

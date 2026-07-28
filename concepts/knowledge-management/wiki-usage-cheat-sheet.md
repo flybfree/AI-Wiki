@@ -1,7 +1,7 @@
 ---
 title: "Wiki Usage Cheat Sheet"
 created: 2026-07-15
-updated: 2026-07-15
+updated: 2026-07-27
 type: concept
 tags: [wiki, logseq, knowledge-management, navigation]
 sources: ["https://github.com/flybfree/AI-Wiki/wiki"]
@@ -31,7 +31,7 @@ confidence: high
 |---|---|
 | Local wiki `~/wiki/ai-research/` | Edit working copy for wiki content |
 | GitHub wiki | Published user-facing version |
-| Local logseq-brain `~/logseq-brain/pages/ai-research/` | Graph mirror for Logseq and assistant retrieval |
+| Local logseq-brain `~/logseq-brain/pages/ai-research/` | Curated graph mirror for Logseq and assistant retrieval |
 | SMB backup | Safety copy / recovery mirror |
 | PRISM `~/logseq-brain` | Fast-access Logseq mirror |
 
@@ -42,7 +42,8 @@ confidence: high
 - **Need the published version?** → GitHub wiki
 - **Need backup?** → SMB
 - **Need PRISM fast access?** → PRISM logseq-brain only
+- **Need provenance?** → raw wiki pages, not duplicated Logseq copies
 
 ## One-line rule
 
-**Author in the local wiki, publish to GitHub, mirror to logseq-brain for graph use, back up via SMB, and use PRISM only as a fast Logseq mirror.**
+**Author in the local wiki, publish to GitHub, mirror curated pages to logseq-brain for graph use, back up via SMB, and use PRISM only as a fast Logseq mirror.**

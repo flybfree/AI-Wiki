@@ -31,11 +31,9 @@ Across multiple medical knowledge‑base benchmarks, SafeMed‑R1 reaches a macr
 ## Significance  
 These results demonstrate that clinician‑audited supervision provenance, combined with domain‑specific safety and ethics alignment, can generate robust governance evidence without relying on inference‑time retrieval or external citation grounding. By producing an auditable reasoning trail and measurable risk reduction, SafeMed‑R1 offers a practical pathway to trustworthy medical AI deployment.
 
-## Related Concepts  
-- Clinical Trust Signals (CTS) – traceable provenance linking reasoning steps to clinician scores.  
-- Clinician rubric scores & edit histories – quantitative measures of expert judgment.  
-- Adversarial safety testing & red‑team stress testing – systematic probing for harmful outputs.  
-- Macro‑averaged accuracy – aggregate performance metric across benchmarks.  
-- PGY1/PGY2 residents – medical training levels used in the paired study.
+## Related Concepts
 
-[[SafeMed-R1: Clinician-Audited Safety and Ethics Alignment for Medical Large Language Models]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

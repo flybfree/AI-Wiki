@@ -32,3 +32,10 @@ Adaptive context shaping may be a key ingredient for more reliable search agents
 - Published: 2026-05-06T17:54:16Z
 - URL: http://arxiv.org/abs/2605.05191v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-05-06_17-54-16Z_LongSeeker_ElasticContextOrchestrationforLong_Hori.md
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

@@ -31,13 +31,8 @@ Extensive experiments and analyses demonstrate that ATLAS achieves superior perf
 This research matters because it offers a new paradigm for visual reasoning that bridges the gap between efficiency and capability. By showing that one word is enough for both agentic and latent reasoning, it simplifies the architectural complexity of multimodal models. The work inspires future research by demonstrating that discrete tokens can effectively unify disparate reasoning strategies, potentially leading to more scalable and interpretable AI systems for visual tasks.
 
 ## Related Concepts
-- Visual Reasoning
-- Agentic AI
-- Latent Visual Representation
-- Functional Tokens
-- Reinforcement Learning from Human Feedback (RLHF)
-- Group Relative Policy Optimization (GRPO)
-- Multimodal Large Language Models
-- Next-Token Prediction
 
-[[ATLAS: Agentic or Latent Visual Reasoning? One Word is Enough for Both]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

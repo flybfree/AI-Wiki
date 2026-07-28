@@ -31,14 +31,8 @@ Experimental evaluations on large language models reveal that DashAttention achi
 This research is significant because it resolves a fundamental tension in efficient attention mechanisms: the trade-off between computational efficiency and the ability to model long contexts effectively. By making the sparse selection process differentiable and adaptive, DashAttention allows for more precise information retrieval without the computational overhead of dense attention. This advancement enables the training and inference of larger models with longer context windows at a lower cost, which is crucial for the practical deployment of next-generation large language models in real-world applications requiring extensive context understanding.
 
 ## Related Concepts
-- Hierarchical Attention
-- Sparse Attention Mechanisms
-- $\alpha$-entmax Transformation
-- Differentiable Sparse Selection
-- Key-Value (KV) Cache Optimization
-- Long-Context Modeling
-- FlashAttention
-- Triton Kernel Implementation
-- Pareto Frontier in Efficiency-Accuracy Trade-offs
 
-[[DashAttention: Differentiable and Adaptive Sparse Hierarchical Attention]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

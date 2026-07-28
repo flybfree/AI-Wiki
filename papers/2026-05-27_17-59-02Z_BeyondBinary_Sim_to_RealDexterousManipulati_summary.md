@@ -31,12 +31,9 @@ Across both tasks, policies conditioned on CoP reach zero‑shot sim‑to‑real
 ## Significance  
 By replacing coarse binary tactile features with a physics‑grounded representation, the work opens a path to richer, data‑efficient sim‑to‑real dexterous manipulation without extensive real‑world training. The approach reduces reliance on costly sensor calibration and enables policies that understand underlying physical dynamics, which is crucial for safe, reliable human‑like interaction.
 
-## Related Concepts  
-- Sim‑to‑Real Transfer  
-- Reinforcement Learning for Manipulation  
-- Physics‑Grounded Representations  
-- Center‑of‑Pressure (CoP)  
-- Taxel Orientation Calibration  
-- Differentiable Dynamics
+## Related Concepts
 
-[[Beyond Binary: Sim-to-Real Dexterous Manipulation with Physics-Grounded Contact Representation]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

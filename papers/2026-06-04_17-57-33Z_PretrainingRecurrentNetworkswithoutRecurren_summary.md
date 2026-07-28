@@ -31,12 +31,9 @@ Experiments compare SMT‑pretrained RNNs with BPTT‑pretrained counterparts on
 ## Significance  
 By removing recurrence, SMT unlocks parallel pretraining for nonlinear RNNs, allowing scalable learning of long‑range temporal abstractions. This could pave the way for larger models and longer sequences that benefit from efficient gradient flow, potentially reshaping how we design and scale sequence models.
 
-## Related Concepts  
-- Recurrent Neural Networks (RNN)  
-- Backpropagation Through Time (BPTT)  
-- Transformer encoder  
-- Supervised memory training  
-- Memory state transition labels  
-- Gradient path length
+## Related Concepts
 
-[[Pretraining Recurrent Networks without Recurrence]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

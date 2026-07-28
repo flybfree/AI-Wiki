@@ -31,11 +31,9 @@ Experimental results demonstrate that GPIC enables state‑of‑the‑art perfor
 ## Significance  
 GPIC addresses longstanding challenges in visual generative modeling: scalability, accessibility, and commercial viability. By providing a gigapixel‑scale, permissively licensed corpus, it lowers entry barriers for researchers and industry developers seeking to train robust image generators without legal complications. This opens the door to more reliable, large‑scale applications such as content creation, synthetic data generation, and multimodal AI systems.  
 
-## Related Concepts  
-- Image captioning via vision‑language models  
-- Permissionless dataset licensing (e.g., CC0)  
-- Deduplication in massive image corpora  
-- Pixel‑space flow matching for generative modeling  
-- Benchmarking protocols for visual generation tasks
+## Related Concepts
 
-[[GPIC: A Giant Permissive Image Corpus for Visual Generation]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

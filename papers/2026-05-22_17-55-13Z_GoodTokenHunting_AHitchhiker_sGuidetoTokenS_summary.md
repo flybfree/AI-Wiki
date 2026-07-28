@@ -31,7 +31,9 @@ Experiments on standard multi‑view datasets show that the proposed method acce
 ## Significance  
 By decoupling the selection of key tokens from the model’s attention computation, this work provides a scalable solution for deploying visual geometry transformers on resource‑constrained hardware. The strategy can be integrated into existing pipelines without architectural redesign, making high‑quality 3D reconstruction feasible in real‑time or edge scenarios.
 
-## Related Concepts  
-visual geometry transformers, global attention, token sparsification, diversity‑based selection, entropy‑guided selection
+## Related Concepts
 
-[[Good Token Hunting: A Hitchhiker's Guide to Token Selection for Visual Geometry Transformers]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

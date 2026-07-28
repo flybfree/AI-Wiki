@@ -31,11 +31,9 @@ Experiments on Overcooked‑AI show that Co‑pi‑tree’s policy tree yields a
 ## Significance  
 By turning LLM reasoning into an interpretable policy tree, Co‑pi‑tree addresses two critical challenges in human‑AI collaboration: safety (transparent decision pathways) and efficiency (fewer costly queries). The gains in reward, query reduction, and latency make the approach scalable for real‑world deployment where both performance and cost matter.
 
-## Related Concepts  
-- Multi‑agent reinforcement learning (MARL)  
-- Black‑box policies vs. interpretable policies  
-- Large language model (LLM) querying at decision steps  
-- Policy distillation techniques  
-- Closed‑loop learning with human feedback
+## Related Concepts
 
-[[Distilling LLM Reasoning into an Interpretable Policy Tree for Human-AI Collaboration]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

@@ -60,3 +60,10 @@ Autonomous fault‑tolerant control is a critical challenge for real‑world rob
 - Ablation studies show that removing the KG (i.e., using an ungrounded LLM) drops robustness to 52 % and increases recovery time by ~3×, confirming the essential role of grounding.  
 
 Overall, our knowledge‑grounded LLM agents achieve a **94 % fault‑survival rate** while maintaining performance within 1 % of the best RL baseline, demonstrating that grounding large language models in verified domain knowledge can unlock reliable autonomous fault tolerance for real‑world control applications.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

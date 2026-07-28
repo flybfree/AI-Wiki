@@ -31,7 +31,9 @@ Experiments on MovieLens, Yelp, and a synthetic sequential dataset demonstrate t
 ## Significance  
 By providing a principled, dataset‑aware comparison tool that mitigates the pitfalls of conventional benchmark aggregation, this work enables practitioners to select and evaluate recommender algorithms more reliably across diverse real‑world datasets. The approach also offers theoretical insights into how sparsity and sequential structure influence ranking stability, advancing both empirical practice and algorithmic design.
 
-## Related Concepts  
-Bradley‑Terry model, NDCG, sparsity, sequential structure, covariate models, BT trees, ranking consistency, incomplete data robustness.
+## Related Concepts
 
-[[Bradley-Terry Rankings for Recommender Systems Across Dataset Taxonomies]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

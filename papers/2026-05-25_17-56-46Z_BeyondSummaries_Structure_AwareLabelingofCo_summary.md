@@ -31,7 +31,9 @@ The best configuration yields 84 % recall and 81 % precision, with high accu
 ## Significance  
 This work shows that LLM‑driven labeling can automate code review workflows, support multilingual projects, and supply structured data for downstream automation. By delivering fine‑grained, relational labels, it reduces the burden on human reviewers and enables more efficient prioritization of patches across diverse codebases.
 
-## Related Concepts  
-code diff hunk, taxonomy labeling, few‑shot prompting, static analysis, semantic attributes, rename propagation, type changes, relational metadata.
+## Related Concepts
 
-[[Beyond Summaries: Structure-Aware Labeling of Code Changes with Large Language Models]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

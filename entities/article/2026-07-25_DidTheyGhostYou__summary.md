@@ -18,3 +18,10 @@ In the broader AI and machine‑learning industry, recruitment practices often r
 
 ## Implications  
 For the field of AI research and development, this initiative underscores the importance of ethical design: systems that automate or support hiring must be paired with clear feedback loops so candidates understand outcomes. By documenting ghosting incidents, the platform may serve as a benchmark for evaluating how well AI‑assisted recruitment respects candidate experience, potentially influencing future standards and prompting companies to adopt more communicative, bias‑aware practices.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

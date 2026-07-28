@@ -66,3 +66,10 @@ Figure 1 shows side‑by‑side reconstructions: the OSD output preserves fine
 
 ### Conclusion  
 Optimal Self‑Distillation for rectified flow via linear probing provides a theoretically grounded, computationally efficient method for self‑supervised reconstruction. By leveraging linearity and duality, OSD achieves state‑of‑the‑art performance while requiring no external supervision—making it attractive for large‑scale, low‑resource settings such as edge AI or on‑device image processing.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

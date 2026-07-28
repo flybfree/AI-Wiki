@@ -31,13 +31,9 @@ Experiments on long‑horizon continual learning, knowledge incorporation, and f
 ## Significance  
 This work bridges human cognitive sleep mechanisms with AI model training, offering a pathway toward truly continual and adaptive language agents that can learn continuously without frequent retraining or external supervision. By mimicking memory consolidation and dream cycles, the approach promises more robust, long‑lived models in real‑world applications.
 
-## Related Concepts  
-- Memory consolidation  
-- Knowledge distillation  
-- Reinforcement learning (RL)  
-- In‑context learning  
-- Continual learning  
-- Self‑modifying agents  
-- Dream cycles
+## Related Concepts
 
-[[Language Models Need Sleep]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

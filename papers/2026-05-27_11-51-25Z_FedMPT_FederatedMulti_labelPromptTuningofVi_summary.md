@@ -31,16 +31,9 @@ Experiments on several benchmark MLR datasets demonstrate that FedMPT achieves c
 ## Significance  
 Federated learning enables collaborative model improvement without sharing raw data, yet multi‑label tasks are especially prone to overfitting due to label noise. FedMPT addresses this by providing a principled causal adjustment that decouples labeling from representation, thereby enhancing generalization and preserving client privacy. The integration of LLM analysis, optimal transport, and gating offers a scalable pipeline for future federated vision‑language applications.
 
-## Related Concepts  
-- Multi‑label recognition (MLR)  
-- Vision‑language models (VLMs)  
-- Federated learning  
-- Front‑door adjustment  
-- Causal modeling  
-- Optimal transport  
-- Prompt tuning  
-- Large language model (LLM) pipeline  
-- Region‑level semantics  
-- Gating mechanism
+## Related Concepts
 
-[[FedMPT: Federated Multi-label Prompt Tuning of Vision-Language Models]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

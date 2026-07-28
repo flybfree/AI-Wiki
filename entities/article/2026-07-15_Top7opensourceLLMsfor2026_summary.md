@@ -18,3 +18,10 @@ The AI landscape is shifting toward open source as enterprises prioritize data p
 
 ## Implications  
 The rise of open source LLMs will reshape competition by lowering entry barriers and fostering a culture of shared progress. It also compels closed‑source providers to improve their offerings or risk obsolescence, ultimately influencing the direction of responsible AI research and deployment across industries.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

@@ -18,3 +18,10 @@ Midjourney, known for generating AI cat pictures and full‑body ultrasound scan
 
 ## Implications  
 The deal could produce new AI‑driven astrology tools that integrate generative models with individual user profiles, potentially reshaping consumer expectations for personalized experiences. It may also attract further investment as investors view cross‑functional AI applications—such as wellness and lifestyle services—as promising growth areas within the generative AI ecosystem.
+
+## Related Concepts
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

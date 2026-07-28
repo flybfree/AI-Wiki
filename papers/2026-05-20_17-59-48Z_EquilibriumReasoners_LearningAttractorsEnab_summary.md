@@ -31,11 +31,8 @@ The experimental results highlight a tight coupling between test-time scaling ga
 This work is significant because it provides a mechanistic explanation for the success of iterative reasoning models, moving beyond black-box performance metrics to understand the underlying dynamical systems. It challenges the necessity of external verifiers or massive pre-training datasets for complex reasoning tasks, suggesting that the geometry of the latent space is sufficient for high-performance inference. By enabling adaptive test-time compute, EqR offers a more efficient and scalable path for deploying reasoning models in resource-constrained environments, potentially reshaping how future AI systems approach logical and mathematical problem-solving.
 
 ## Related Concepts
-- Iterative Latent Models
-- Attractor Dynamics
-- Test-Time Compute Scaling
-- Fixed Point Convergence
-- Adaptive Computation
-- Sudoku-Extreme Benchmark
 
-[[Equilibrium Reasoners: Learning Attractors Enables Scalable Reasoning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

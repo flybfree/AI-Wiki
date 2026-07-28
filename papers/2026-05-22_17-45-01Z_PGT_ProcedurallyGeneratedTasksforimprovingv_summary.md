@@ -31,11 +31,9 @@ Across relational, quantitative, and 3D/depth tasks, PGT yields significant impr
 ## Significance  
 PGT addresses a critical bottleneck in MLLM performance by providing cheap, scalable supervision that directly targets visual grounding. By exposing models to structured spatial tasks, it uncovers latent weaknesses and enables targeted improvements without retraining from scratch, offering both a diagnostic tool and a path to better perception.
 
-## Related Concepts  
-- Visual grounding  
-- Multimodal Large Language Models (MLLMs)  
-- Procedural task generation  
-- Dense supervision  
-- Instruction tuning
+## Related Concepts
 
-[[PGT: Procedurally Generated Tasks for improving visual grounding in MLLMs]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

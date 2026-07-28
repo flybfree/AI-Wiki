@@ -18,3 +18,10 @@ The push toward open‑source LLMs reflects a broader industry shift where speed
 
 ## Implications  
 If open‑source LLMs continue to gain traction, they will democratize access to advanced language capabilities, accelerate research breakthroughs, and reshape market dynamics by lowering barriers to entry. This could spur a new wave of AI applications that are both more affordable and ethically transparent, influencing everything from customer support bots to enterprise data pipelines.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

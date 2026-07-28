@@ -31,12 +31,8 @@ Extensive experiments demonstrate that CoPhy achieves state-of-the-art results o
 This research matters because it overcomes the fundamental constraints of imitation learning by introducing a robust reinforcement learning infrastructure for autonomous driving. By decoupling cognitive reasoning from physical simulation, CoPhy offers a scalable and efficient path toward smarter, safer, and more interpretable autonomous systems. The ability to incorporate human language commands directly into the driving policy represents a significant step toward more intuitive and user-centric autonomous vehicles.
 
 ## Related Concepts
-- Cognitive-Physical Reinforcement Learning
-- Bird's Eye View (BEV) World Models
-- Vision-Language Models (VLM)
-- Group Relative Policy Optimization (GRPO)
-- Behavioral Cloning Ceiling
-- Dual-Reward Mechanism
-- Autonomous Driving Semantics
 
-[[Distill to Think, Foresee to Act: Cognitive-Physical Reinforcement Learning for Autonomous Driving]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

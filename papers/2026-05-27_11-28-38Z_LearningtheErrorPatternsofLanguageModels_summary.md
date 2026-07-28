@@ -31,7 +31,9 @@ Experiments show that prefix filters derived from Palla increase compile rates f
 ## Significance  
 Understanding error patterns as learnable symbolic constraints transforms LLM debugging from ad‑hoc inspection to systematic design. Prefix filters provide a scalable way to enforce domain validity without costly fine‑tuning, opening the door to automated constraint‑aware generation pipelines and more reliable AI assistants.
 
-## Related Concepts  
-Prefix filters, constrained sampling, symbolic functions, reinforcement learning for constraints, error analysis in LLMs.
+## Related Concepts
 
-[[Learning the Error Patterns of Language Models]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

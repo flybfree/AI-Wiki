@@ -31,13 +31,8 @@ Experimental results indicate that the proposed system achieves a significant da
 This research is significant because it provides a practical, scalable solution for GNSS security in environments where power and bandwidth are limited. By moving interference classification from the cloud to the edge, it reduces latency and operational costs while enhancing privacy and reliability. The use of GenAI for both compression and classification sets a new standard for efficient signal processing in critical navigation systems, fostering greater trust in AI-driven security solutions through improved interpretability.
 
 ## Related Concepts
-- Generative Artificial Intelligence (GenAI)
-- Variational Autoencoders (VAEs)
-- Compressed Sensing
-- GNSS Jamming and Spoofing Detection
-- Google Edge TPU
-- 8-bit Quantization
-- Latent Feature Disentanglement
-- Edge Computing for Signal Processing
 
-[[GenAI for Energy-Efficient and Interference-Aware Compressed Sensing of GNSS Signals on a Google Edge TPU]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

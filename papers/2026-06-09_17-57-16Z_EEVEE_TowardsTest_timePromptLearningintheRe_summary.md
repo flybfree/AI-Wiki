@@ -31,9 +31,9 @@ Experiments across multiple datasets show EEVEE’s average multi‑benchmark sc
 ## Significance  
 This work bridges the gap between theoretical test‑time prompt learning and practical deployment in real‑world agents that encounter diverse task streams, offering a scalable solution for continual improvement without retraining from scratch.
 
-## Related Concepts  
-- Test-time prompt learning  
-- Multi-dataset adaptation  
-- Task clustering / routing  
-- Co-evolution training  
-- Self-improving agents
+## Related Concepts
+
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

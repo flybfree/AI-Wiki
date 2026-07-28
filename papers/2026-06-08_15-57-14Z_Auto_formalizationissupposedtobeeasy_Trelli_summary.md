@@ -30,10 +30,9 @@ Trellis successfully formalized a recent Ramsey theory result in Lean using only
 ## Significance  
 This work matters because it redefines autoformalization as a process rather than a one-off generation task, aligning with the mathematician’s ideal of rigor. By making formalization more reliable and interpretable, Trellis could reduce errors and improve trust in automated proof systems. It also opens the door to scalable, generalist AI-assisted theorem proving without sacrificing mathematical correctness.
 
-## Related Concepts  
-- Autoformalization: The process of converting informal proofs into formal logical statements.  
-- Large Language Models (LLMs): AI models that generate human-like text and can be adapted for reasoning tasks.  
-- Process Semantics: A framework interpreting meaning in terms of procedural steps rather than static representations.  
-- Lean: A formal verification system used to express mathematical theorems rigorously.
+## Related Concepts
 
-[[(Auto)formalization is supposed to be easy: Trellis process semantics for spelling out rigorous proofs]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

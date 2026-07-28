@@ -102,3 +102,10 @@ When Kyrgyz sentences contain English loanwords (e.g., “online”), GPT‑4 ma
 
 **Overall Assessment**  
 KyrgyzLLM‑Bench demonstrates that state‑of‑the‑art LLMs can achieve strong performance on Kyrgyz language tasks when provided with a well‑curated benchmark and appropriate fine‑tuning. However, the model’s reliance on Standard Kyrgyz tokenization creates noticeable weaknesses for dialects and code‑switching scenarios. Our results underscore the importance of dialect‑aware preprocessing and multilingual fine‑tuning as key levers for advancing LLM capabilities in low‑resource languages.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

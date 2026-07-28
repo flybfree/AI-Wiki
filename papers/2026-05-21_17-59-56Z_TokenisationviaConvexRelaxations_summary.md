@@ -31,7 +31,9 @@ Experimental evaluations on standard corpora demonstrate that ConvexTok reduces 
 ## Significance  
 By replacing heuristic tokenisation with a provably near‑optimal convex optimisation approach, ConvexTok offers a principled way to balance efficiency and quality. The algorithm’s ability to certify how close a tokeniser is to optimal provides confidence for practitioners seeking both performance improvements and resource savings in large‑scale NLP systems.
 
-## Related Concepts  
-tokenisation, BPE (Byte‑Pair Encoding), Unigram, linear programming, convex relaxation, bits‑per‑byte, lower bound, intrinsic metrics, language models.
+## Related Concepts
 
-[[Tokenisation via Convex Relaxations]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

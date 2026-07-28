@@ -18,3 +18,10 @@ The change reflects a broader industry trend toward conversational, multimodal A
 
 ## Implications  
 For the search field, this redesign redefines user expectations: queries will be longer, more contextual, and tied to visual or file data, reshaping SEO strategies and content creation. It also raises questions about privacy (handling uploaded files) and data usage, while potentially boosting engagement through richer AI interactions that could drive higher conversion rates for Google’s ecosystem.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

@@ -31,11 +31,9 @@ Empirical results show a monotonic increase in accuracy as both parameter count 
 ## Significance  
 GPT‑3 introduced the concept of a *foundation model*—a single, broadly trained system that can be adapted to many downstream tasks via prompting. This unified paradigm underlies all subsequent large language models (e.g., ChatGPT, Claude, GPT‑4, Gemini) and reshaped research agendas toward scaling rather than task‑specific fine‑tuning.
 
-## Related Concepts  
-- Few‑shot learning: performing a task with only a few examples.  
-- Prompt engineering: crafting prompts to guide model behavior.  
-- Decoder‑only transformer architecture: the backbone of GPT‑3 and its successors.  
-- Foundation models: large, general‑purpose models trained on diverse data.  
-- Scaling laws: empirical relationships between model size, data, compute and performance.
+## Related Concepts
 
-[[Language Models Are Few-Shot Learners" (GPT-3)]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,13 +31,8 @@ Experimental evaluations on the Replica dataset demonstrate that the proposed RG
 This research is significant because it removes the hardware barriers associated with 3D scene graph generation, making the technology accessible to a wider range of robotic platforms and fixed infrastructure setups. By proving that RGB-only inputs can match depth-based performance and that semantic-driven exploration is superior to geometric methods, the work advances the field of autonomous robotics by enabling more cost-effective, scalable, and context-aware environmental understanding.
 
 ## Related Concepts
-- Active 3D Scene Graph Generation
-- RGB-only Perception
-- Semantic-driven Exploration
-- Hardware-agnostic Robotics
-- Multi-viewpoint Integration
-- Indoor Mobile Robots
-- Replica Dataset
-- ReplicaCAD Dataset
 
-[[RGB-only Active 3D Scene Graph Generation for Indoor Mobile Robots]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

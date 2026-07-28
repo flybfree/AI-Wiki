@@ -31,11 +31,9 @@ Experiments on several benchmark language models show that the projected subspac
 ## Significance  
 By confining uncertainty modeling to a low‑dimensional projected space, the method bridges the gap between model efficiency and reliable confidence estimates, offering a practical path toward scalable, trustworthy AI systems that can operate in resource‑constrained environments. The insight that weight covariances are themselves low‑rank provides a new perspective for designing efficient Bayesian regularizers across various deep‑learning architectures.  
 
-## Related Concepts  
-- Low‑Rank Adaptation (LoRA)  
-- Bayesian inference and variational approximations  
-- Projection onto parameter subspaces  
-- Weight covariance modeling  
-- Calibration of probabilistic outputs
+## Related Concepts
 
-[[Bayesian Fine-tuning in Projected Subspaces]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

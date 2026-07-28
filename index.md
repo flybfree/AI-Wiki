@@ -2247,3 +2247,7 @@ tags: ['wiki']
 - [[2026-07-27_OpenAI_sHuggingFacebreachhasreignitedthedebateover.md]] : OpenAI’s Hugging Face breach has reignited the debate over alignment and control
 - [[2026-07-27_PSA_YourClaudesharedchatsandArtifactsmayhaveendedu.md]] : PSA: Your Claude shared chats and Artifacts may have ended up on Google
 - [[2026-07-27_SatyaNadellasayscompaniesthattrustoneAIforeverythi.md]] : Satya Nadella says companies that trust one AI for everything may not survive
+
+## Concept Maps
+
+- [[concepts/knowledge-management/ai-research-concept-map.md|AI Research Concept Map]]

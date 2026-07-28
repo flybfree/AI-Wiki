@@ -31,7 +31,9 @@ Across benchmark suites such as LRS, VCR, and custom tasks, MemDreamer outperfor
 ## Significance  
 By separating perception from reasoning, MemDreamer mitigates the token explosion problem that plagues standard vision‑language models when handling hours‑long videos. The hierarchical graph memory provides a compact semantic representation, while the agentic retrieval loop mirrors human exploratory behavior, enabling more accurate and efficient long‑video understanding. This work establishes a new paradigm where multimodal comprehension scales with agentic capability rather than raw token count.
 
-## Related Concepts  
-Hierarchical Graph Memory, Agentic Retrieval, Observation‑Reason‑Action loop, Vision‑Language Models, Long Video Understanding, Perception‑Reasoning Decoupling, Spatiotemporal Causal Relations.
+## Related Concepts
 
-[[MemDreamer: Decoupling Perception and Reasoning for Long Video Understanding via Hierarchical Graph Memory and Agentic Retrieval Mechanism]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

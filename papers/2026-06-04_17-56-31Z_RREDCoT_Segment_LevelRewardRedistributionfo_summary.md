@@ -30,13 +30,9 @@ Experimental results show that RREDCoT significantly outperforms baseline method
 ## Significance  
 RREDCoT represents a significant advancement in reinforcement learning for reasoning models by introducing an efficient, scalable, and self-contained reward redistribution mechanism. By eliminating the need for Monte Carlo sampling and external computation, it enables faster training cycles and better generalization. This work opens new possibilities for fine-tuning large language models with RL, especially in long-context applications where traditional methods are impractical.
 
-## Related Concepts  
-- Chain-of-Thought (CoT) reasoning  
-- Reinforcement Learning (RL) fine-tuning  
-- Group Relative Policy Optimization (GRPO)  
-- Monte Carlo sampling  
-- Credit assignment  
-- Reward redistribution  
-- Segment-level attribution
+## Related Concepts
 
-[[RREDCoT: Segment-Level Reward Redistribution for Reasoning Models]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

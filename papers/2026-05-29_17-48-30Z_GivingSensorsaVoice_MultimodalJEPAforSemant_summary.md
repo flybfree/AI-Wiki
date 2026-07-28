@@ -31,12 +31,9 @@ Experiments show that linear probes achieve state‑of‑the‑art accuracy in a
 ## Significance  
 This work bridges language, vision, and time‑series representation learning by offering a unified multimodal framework for heterogeneous sensor data. By making textual descriptions part of the model architecture, CHARM delivers interpretable embeddings that are robust to noise and generalize across domains—critical advances for real‑world applications such as IoT monitoring, predictive maintenance, and anomaly detection.
 
-## Related Concepts  
-- Transformer encoder  
-- Joint Embedding Predictive Architecture (JEPA)  
-- Channel‑aware representation  
-- Semantic embeddings  
-- Equivariant attention  
-- Linear probe evaluation
+## Related Concepts
 
-[[Giving Sensors a Voice: Multimodal JEPA for Semantic Time-Series Embeddings]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

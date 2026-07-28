@@ -9,3 +9,8 @@ Model: None
 ERROR: all endpoints returned no content
 
 ERROR: all endpoints returned no content
+
+## Related Concepts
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/vision-ai/vision-ai-hub.md|Vision AI Hub]]

@@ -31,12 +31,8 @@ The experimental results indicate that SMoA consistently improves average perfor
 This research is significant because it provides a practical solution to the scalability issues in fine-tuning large language models. By decoupling performance gains from parameter count through spectral modulation, SMoA enables more efficient deployment of PEFT methods in resource-constrained environments. It advances the theoretical understanding of how low-rank updates interact with pre-trained weights and offers a viable alternative to increasing rank for improving model accuracy.
 
 ## Related Concepts
-- Parameter-Efficient Fine-Tuning (PEFT)
-- Low-Rank Adaptation (LoRA)
-- Singular Value Decomposition (SVD)
-- Hadamard Product
-- Spectral Analysis
-- Large Language Models (LLMs)
-- Computational Efficiency
 
-[[SMoA: Spectrum Modulation Adapter for Parameter-Efficient Fine-Tuning]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

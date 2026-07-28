@@ -32,3 +32,10 @@ Training and fine-tuning choices should account for objective geometry, not just
 - Published: 2026-04-28T17:50:37Z
 - URL: http://arxiv.org/abs/2604.25904v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-28_17-50-37Z_TeacherForcingasGeneralizedBayes_OptimizationGeome.md
+
+## Related Concepts
+
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,7 +31,9 @@ Orthogonal PEFT consistently achieves higher downstream performance while retain
 ## Significance  
 By introducing PEFT‑Arena, this study shifts the evaluation paradigm of PEFT beyond accuracy alone, providing a more holistic view of model adaptation. The findings guide practitioners in selecting fine‑tuning strategies that balance task learning with general capability preservation, informing future research on parameter budgets and training dynamics.
 
-## Related Concepts  
-Parameter-efficient fine-tuning (PEFT), stability‑plasticity dilemma, Pareto frontier, spectral analysis, singular‑value structure, activation space representation distortion, forgetting, isometric transformation, path‑wise rewinding.
+## Related Concepts
 
-[[PEFT-Arena: Understanding Parameter-Efficient Finetuning from a Stability-Plasticity Perspective]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

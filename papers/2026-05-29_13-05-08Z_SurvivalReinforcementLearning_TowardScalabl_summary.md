@@ -31,11 +31,9 @@ Across a suite of robotic manipulation tasks (e.g., stacking blocks) SRL achieve
 ## Significance  
 By decoupling survival objectives from classification tasks, SRL opens a pathway to scalable self‑supervised RL that can handle deep networks without the uniformity penalties of contrastive losses. The results suggest that classification‑based learning may be a more flexible and effective primitive for training agents on long‑horizon, goal‑conditioned problems.
 
-## Related Concepts  
-- Self-supervised Contrastive Reinforcement Learning (CRL)  
-- Survival value learning  
-- Classification‑based reinforcement learning  
-- Long‑horizon planning  
-- Uniform‑tolerance dilemma in contrastive losses
+## Related Concepts
 
-[[Survival Reinforcement Learning: Toward Scalable Self-Supervised RL]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

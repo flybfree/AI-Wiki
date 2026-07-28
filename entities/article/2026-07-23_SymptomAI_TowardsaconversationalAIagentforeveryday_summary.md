@@ -18,3 +18,10 @@ Current AI research often relies on synthetic or highly detailed patient cases, 
 
 ## Implications  
 If conversational AI can reliably mimic clinical interviews and align with both human diagnoses and physiological signals, it could democratize early health screening, reduce barriers to care, and enable proactive interventions—potentially reshaping the landscape of preventive medicine.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

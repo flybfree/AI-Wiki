@@ -31,10 +31,9 @@ Theoretical results: For EF with optimal step‑size α*, the error norm decays 
 ## Significance  
 This work bridges theory and practice by delivering provably optimal feedback mechanisms that eliminate the need for expensive gradient compression while preserving convergence quality. It enables scalable distributed optimization where each agent communicates only a small error signal, crucial for large‑scale machine learning.
 
-## Related Concepts  
-- Error Feedback (EF), Error Feedback 21 (EF21)  
-- Distributed Optimization, First‑order methods  
-- Lyapunov functions, Asymptotic stability  
-- Communication cost, Gradient compression
+## Related Concepts
 
-[[A Tight Theory of Error Feedback Algorithms in Distributed Optimization]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

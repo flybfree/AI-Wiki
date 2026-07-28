@@ -31,13 +31,8 @@ The experimental results revealed that standard supervised fine-tuning rapidly s
 This research is significant because it exposes a hidden vulnerability in the fine-tuning of reasoning models. It challenges the assumption that high final-answer accuracy equates to robust reasoning capabilities, warning practitioners that standard evaluation metrics may fail to detect the loss of explicit logical steps. By establishing the need for structural reasoning reliability metrics, the paper provides a critical guideline for the development and evaluation of future reasoning models, ensuring that adaptation processes do not inadvertently strip away the very mechanisms that make these models reliable for complex tasks.
 
 ## Related Concepts
-- Reasoning-Trace Collapse
-- Supervised Fine-Tuning (SFT)
-- Structural Evaluation Framework
-- Loss Masking
-- Explicit Reasoning
-- Reasoning Reliability Metrics
-- Instruction-Response Data
-- Open-Weight Models
 
-[[Reasoning-Trace Collapse: Evaluating the Loss of Explicit Reasoning During Fine-Tuning]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

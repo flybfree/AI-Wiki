@@ -35,3 +35,10 @@ Our dataset is restricted to Eastern and Southern Bantu, so we interpret these r
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-27-26Z_NeuralRecoveryofHistoricalLexicalStructureinBantuL.md
 
 [[Neural Recovery of Historical Lexical Structure in Bantu Languages from Modern Data]]
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

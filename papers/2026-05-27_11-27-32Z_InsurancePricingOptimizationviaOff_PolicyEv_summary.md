@@ -31,14 +31,9 @@ In the synthetic travel insurance environment, the kernelized estimator achieves
 ## Significance  
 This work bridges insurance actuary theory with modern machine learning, offering a principled way to incorporate price sensitivity into pricing decisions without compromising fairness or solvency. By providing variance‑reduced off‑policy estimates and scalable optimization pipelines, the study enables practitioners to deploy data‑driven pricing that adapts to heterogeneous consumer behavior.  
 
-## Related Concepts  
-- Off-policy evaluation (OPE)  
-- Inverse propensity score estimation  
-- Kernel smoothing  
-- Lasso regression  
-- Stochastic control  
-- Neural network policy optimization  
-- Actuarial fairness  
-- Price sensitivity modeling
+## Related Concepts
 
-[[Insurance Pricing Optimization via Off-Policy Evaluation]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

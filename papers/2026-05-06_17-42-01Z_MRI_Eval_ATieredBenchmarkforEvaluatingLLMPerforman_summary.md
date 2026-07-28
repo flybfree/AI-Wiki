@@ -32,3 +32,10 @@ MRI-Eval is most useful as a relative comparison tool rather than a direct measu
 - Published: 2026-05-06T17:42:01Z
 - URL: http://arxiv.org/abs/2605.05175v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-05-06_17-42-01Z_MRI_Eval_ATieredBenchmarkforEvaluatingLLMPerforman.md
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

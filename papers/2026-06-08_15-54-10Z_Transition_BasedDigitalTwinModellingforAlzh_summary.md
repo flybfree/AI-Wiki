@@ -31,7 +31,9 @@ Experimental evaluation on the ADNI dataset demonstrates that the transition‑b
 ## Significance  
 By aligning temporal modelling strategies with the inherent sparsity of clinical visits, this work provides a practical, interpretable digital twin for personalised Alzheimer’s forecasting. It offers clinicians actionable insights into disease trajectories and supports early intervention planning without requiring dense data collection. The approach also establishes a template for applying transition‑based thinking to other neurodegenerative conditions where longitudinal data are inherently uneven.
 
-## Related Concepts  
-digital twin, transition‑based modelling, longitudinal data, uncertainty quantification, multimodal integration, Alzheimer’s disease progression, ADNI dataset, patient‑specific trajectory analysis, sequence vs. local modelling.
+## Related Concepts
 
-[[Transition-Based Digital Twin Modelling for Alzheimer's Disease under Sparse Longitudinal Data]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

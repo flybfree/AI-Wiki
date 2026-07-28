@@ -18,3 +18,10 @@ The broader AI landscape is characterized by a wave of generative models moving 
 
 ## Implications  
 These developments matter because they reshape business models: free AI features can attract massive user bases while creating data‑privacy challenges; new revenue streams emerge through premium AI services like Runway’s fund and paid podcast generation; and regulatory scrutiny intensifies as public data is leveraged without explicit consent. For the field, the rapid diffusion of generative AI demands robust governance frameworks to balance innovation with ethical use, ensuring that emerging technologies do not exacerbate existing societal risks such as misinformation or unauthorized data exploitation.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

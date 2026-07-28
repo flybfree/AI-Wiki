@@ -30,10 +30,9 @@ ActCam was evaluated on multiple benchmarks featuring diverse character motions 
 ## Significance  
 This work matters because it addresses a long-standing challenge in video generation: controlling both character and camera dynamics simultaneously without retraining complex models. By introducing zero-shot joint control through staged conditioning, ActCam opens the door to more expressive and realistic video creation for artistic and educational purposes. It reduces dependency on large-scale training data and enables real-time adaptation of camera motion, which is crucial for interactive applications like virtual production or augmented reality.
 
-## Related Concepts  
-- Diffusion models: Neural networks that generate images or videos by iteratively denoising random noise.  
-- Conditional generation: A technique where the output depends on input conditions such as pose or depth.  
-- Zero-shot learning: Achieving task performance without prior training data for that specific task.  
-- Two-phase conditioning: A strategy used to balance constraints during model inference to improve quality and stability.
+## Related Concepts
 
-[[ActCam: Zero-Shot Joint Camera and 3D Motion Control for Video Generation]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

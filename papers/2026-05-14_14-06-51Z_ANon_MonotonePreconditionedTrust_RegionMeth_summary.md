@@ -31,12 +31,8 @@ Experimental evaluations demonstrate that the proposed NAPTS method significantl
 This research is significant because it provides a practical solution to the scalability challenges faced in modern deep learning. By enabling more efficient parallel training without sacrificing model accuracy, NAPTS allows for faster experimentation and deployment of large-scale neural networks. The introduction of non-monotone acceptance in the context of trust-region methods for neural networks opens new avenues for optimizing complex, high-dimensional loss landscapes where traditional monotone methods may struggle.
 
 ## Related Concepts
-- Domain Decomposition
-- Trust-Region Methods
-- Additive Schwarz Preconditioner
-- Non-Monotone Optimization
-- Parallel Computing
-- Neural Network Training
-- Additively Preconditioned Trust-Region Strategy (APTS)
 
-[[A Non-Monotone Preconditioned Trust-Region Method for Neural Network Training]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

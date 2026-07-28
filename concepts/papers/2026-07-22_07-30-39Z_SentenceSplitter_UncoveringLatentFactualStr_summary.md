@@ -23,4 +23,8 @@ Experiments on both structured and naturally occurring texts show that Sentence 
 This work matters because it provides a scalable, structure‑aware approach to generating self‑supervised training data for knowledge‑centric NLP tasks. By uncovering hidden head‑tail boundaries, Sentence Splitter bridges symbolic reasoning and language generation, offering a pathway toward more interpretable and effective AI systems that understand factual content.
 
 ## Related Concepts
-latent factual structure, T5 encoder‑decoder, discrete segmentation, head‑tail pairs, self‑supervised training data, bootstrapping, knowledge graph completion, commonsense question answering.
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

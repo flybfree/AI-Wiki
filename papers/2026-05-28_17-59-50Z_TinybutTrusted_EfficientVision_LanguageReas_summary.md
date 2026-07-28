@@ -31,11 +31,9 @@ Experimental evaluation on VisAnomBench shows VisAnomReasoner surpasses all base
 ## Significance  
 This work bridges the interpretability gap in multimodal anomaly detection, enabling models to produce human‑readable justifications that are essential for trustworthy deployment in safety‑critical domains. By demonstrating that a small, parameter‑efficient VLM can outperform larger baselines when guided by curated explanations, it offers a scalable path toward efficient and explainable time‑series monitoring.  
 
-## Related Concepts  
-- Vision‑Language Models (VLMs)  
-- Time‑series anomaly detection  
-- Parameter‑efficient fine‑tuning (PEFT)  
-- Knowledge distillation  
-- Benchmarking with natural‑language rationales
+## Related Concepts
 
-[[Tiny but Trusted: Efficient Vision-Language Reasoning for Time-Series Anomaly Detection]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

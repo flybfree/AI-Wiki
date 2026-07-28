@@ -31,7 +31,8 @@ Theoretical results provide high‑probability guarantees: in discrete POMDPs, t
 ## Significance  
 This work bridges the gap between empirical success and rigorous theory, delivering provable finite‑time performance for MCTS in both discrete and continuous POMDP domains. It also extends these guarantees to continuous MDPs, offering a unified framework that can be applied beyond POMDPs.
 
-## Related Concepts  
-MCTS, POMDP, UCB, polynomial concentration, Voronoi cells, finite‑time analysis, exploration bonus, partitioning loss, branching factor, empirical value estimation.
+## Related Concepts
 
-[[Finite-Time Analysis of MCTS in Continuous POMDP Planning]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

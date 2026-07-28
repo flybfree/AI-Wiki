@@ -20,3 +20,10 @@ The rapid rollout of GPT‑5.5, Claude Opus 4.7, Gemini 3.5 Flash, DeepSeek 
 
 ## Implications  
 This shift democratizes advanced AI for startups and privacy‑sensitive deployments, while the focus on reasoning benchmarks like SWE‑Bench and GPQA Diamond pushes research toward practical task completion rather than academic multiple‑choice tests.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

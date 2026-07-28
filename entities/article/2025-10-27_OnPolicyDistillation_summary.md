@@ -27,3 +27,10 @@ The post is basically saying that the student should learn from rollouts that ar
 ## Implications
 This is a useful pattern for post-training pipelines that want a compact model to preserve high-quality behavior without relying purely on offline imitation or expensive RL loops.
 It also lines up with the broader trend toward agentic, continually updated systems.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

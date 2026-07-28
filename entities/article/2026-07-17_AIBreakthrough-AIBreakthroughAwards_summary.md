@@ -18,3 +18,10 @@ Within the broader AI landscape, breakthroughs are often measured by novelty or 
 
 ## Implications  
 The implications of this award system are significant for both research and commercialization. By rewarding practicality, it encourages companies to invest in robust infrastructure and user‑centric design rather than chasing fleeting performance metrics. Additionally, the awards may influence venture capital allocation, prompting funders to prioritize projects with clear real‑world applicability, thereby accelerating the diffusion of effective AI solutions across sectors.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

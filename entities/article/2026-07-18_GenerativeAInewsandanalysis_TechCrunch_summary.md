@@ -18,3 +18,10 @@ The broader AI landscape is witnessing a shift from isolated research prototypes
 
 ## Implications  
 For the field, this trend signals a redefinition of value: AI‑driven personalization can boost engagement but also raises risks of data exploitation and misinformation. For industry players, rapid integration demands robust governance frameworks to maintain trust, whereas startups must navigate both funding opportunities and evolving regulatory standards to succeed in a crowded market.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

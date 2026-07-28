@@ -31,7 +31,9 @@ Experiments show that fine‑tuned compact models achieve comparable or higher a
 ## Significance  
 This work demonstrates that self‑hosted fine‑tuned compact models can serve as a practical foundation for large‑scale multilingual fact‑checking, offering strong performance while respecting privacy and budget constraints. It supports the trend toward efficient, deployable AI systems rather than relying solely on cloud LLMs.
 
-## Related Concepts  
-Multilingual NLP, fine‑tuning, SetFit, encoder‑based models (XLM‑RoBERTa, mmBERT), large language models (GPT‑5.2, Claude Opus, Qwen3), latency optimization, production deployment, fact‑checking pipelines, modular AI systems.
+## Related Concepts
 
-[[Multilingual Fact-Checking at Scale: Fine-Tuned Compact Models vs LLMs]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/vision-ai/vision-ai-hub.md|Vision AI Hub]]

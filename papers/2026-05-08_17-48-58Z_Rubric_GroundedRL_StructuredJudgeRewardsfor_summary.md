@@ -31,15 +31,9 @@ The GRPO‑trained policy reaches 71.7 % normalized reward on a held‑out rub
 ## Significance  
 Rubric‑grounded RL offers a principled way to design reinforcement learning objectives that are interpretable, verifiable, and capable of rewarding incremental progress. By decomposing complex tasks into measurable criteria, it mitigates the pitfalls of single‑score optimization and encourages policies that can generalize across diverse domains without relying on exhaustive task exemplars.
 
-## Related Concepts  
-- Reinforcement Learning (RL)  
-- Rubric‑Grounded RL (Rubric‑Grounded RL)  
-- LLM judge / frozen evaluator  
-- Partial‑credit optimization  
-- Group Relative Policy Optimization (GRPO)  
-- Multi‑criterion reward vector  
-- Grounding of policy evaluation  
-- OSTI corpus  
-- Generalizable reasoning
+## Related Concepts
 
-[[Rubric-Grounded RL: Structured Judge Rewards for Generalizable Reasoning]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

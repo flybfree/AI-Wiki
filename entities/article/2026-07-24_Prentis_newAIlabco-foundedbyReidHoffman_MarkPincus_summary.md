@@ -18,3 +18,10 @@ The AI agents for computer use market is highly competitive, with Anthropic, Ope
 
 ## Implications  
 If Prentis’s claims hold, automating routine office tasks could reduce reliance on human labor and lower operational costs across industries, accelerating the move from code‑centric automation to AI‑driven control. However, the market’s crowded nature and unverified benchmark results raise concerns about scalability, cost efficiency, and the long‑term viability of such specialized models.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

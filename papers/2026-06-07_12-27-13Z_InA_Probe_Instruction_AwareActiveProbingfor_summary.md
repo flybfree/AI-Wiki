@@ -31,15 +31,9 @@ On seven real‑world time series benchmarks, InA‑Probe outperforms both deep 
 ## Significance  
 This work demonstrates that active, instruction‑driven probing can unlock the reasoning capabilities of LLMs for complex temporal data, offering a more flexible and accurate alternative to static alignment techniques. By integrating fine‑grained instructions with adaptive queries, InA‑Probe sets a new standard for LLM‑based time series forecasting.  
 
-## Related Concepts  
-- Large Language Models (LLMs)  
-- Time Series Forecasting  
-- Active Probing  
-- Instruction‑Aware Self‑Attention  
-- Temporal Cross‑Attention  
-- Multi‑level Instruction Injection  
-- Adaptive Query Generation  
-- One‑for‑all Generalization  
-- Zero‑shot Transfer
+## Related Concepts
 
-[[InA-Probe: Instruction-Aware Active Probing for Time Series Forecasting with LLMs]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

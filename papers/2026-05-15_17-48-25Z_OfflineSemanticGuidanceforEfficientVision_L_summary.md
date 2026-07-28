@@ -31,12 +31,8 @@ Evaluated on three LIBERO benchmark suites, VLA-AD produces a 158M-parameter stu
 This work is significant because it resolves the tension between the high performance of billion-parameter VLA models and the strict latency requirements of real-time robotic control. By proving that offline semantic guidance can effectively compress these models without sacrificing accuracy, VLA-AD makes advanced robotic manipulation more deployable on resource-constrained hardware. It establishes a new standard for efficient policy distillation that prioritizes semantic understanding over mere action imitation.
 
 ## Related Concepts
-- Vision-Language-Action (VLA) Policies
-- Policy Distillation
-- Offline Semantic Guidance
-- Model Compression
-- Real-time Robotic Control
-- LIBERO Benchmarks
-- Vision-Language Models (VLM)
 
-[[Offline Semantic Guidance for Efficient Vision-Language-Action Policy Distillation]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

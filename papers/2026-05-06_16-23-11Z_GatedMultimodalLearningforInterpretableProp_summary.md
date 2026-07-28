@@ -31,13 +31,9 @@ Prediction MAEs: SAP = 4.03 (R² = 0.757), EI = 4.76 (R² = 0.74
 ## Significance  
 This framework provides scalable, property‑level evidence for city‑wide retrofit screening, enabling authorities to prioritise interventions that deliver the greatest decarbonisation impact while respecting budget constraints. By delivering interpretable modality importance and clear spatial attribution, it bridges the gap between regulatory compliance (EPC scores) and actionable sustainability planning.
 
-## Related Concepts  
-- Gated multimodal learning  
-- Sample‑wise gating / modality weighting  
-- Auxiliary band classification head  
-- SHAP interpretability for model explanations  
-- Energy Performance Certificate (EPC) scoring  
-- Retrofit scenario analysis  
-- GIS spatial features (footprint geometry, height, area, orientation)
+## Related Concepts
 
-[[Gated Multimodal Learning for Interpretable Property Energy Performance Prediction and Retrofit Scenario Analysis]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

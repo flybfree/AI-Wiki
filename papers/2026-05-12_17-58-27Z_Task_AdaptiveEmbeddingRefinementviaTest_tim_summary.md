@@ -31,12 +31,8 @@ Extensive experiments were conducted using state-of-the-art text embedding model
 This work is significant because it expands the practical applicability of embedding models in settings where deploying costly LLM pipelines at corpus scale is not viable. By enabling static embedding models to adapt dynamically, the authors provide a compelling alternative for real-world applications requiring high precision in zero-shot scenarios. The release of experimental code further promotes reproducibility and encourages further research into adaptive embedding techniques.
 
 ## Related Concepts
-- Test-time adaptation
-- Query refinement
-- Zero-shot search
-- Embedding models
-- Large Language Models (LLMs)
-- Intent detection
-- Binary separation in embedding space
 
-[[Task-Adaptive Embedding Refinement via Test-time LLM Guidance]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

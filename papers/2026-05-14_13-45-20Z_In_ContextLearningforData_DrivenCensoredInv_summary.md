@@ -31,14 +31,8 @@ Theoretical results show that ICGPS achieves sublinear Bayesian regret for the r
 This work is significant because it resolves the tension between the theoretical guarantees of Bayesian optimization and the practical flexibility of deep generative models in operations research. By proving that offline predictive quality transfers to online performance, it provides a reliable framework for data-driven inventory management in real-world scenarios where demand distributions are unknown or non-stationary. This advances the field of decision-making under uncertainty by offering a scalable, robust solution for censored feedback loops.
 
 ## Related Concepts
-- In-Context Learning
-- Censored Inventory Control
-- Repeated Newsvendor Problem
-- Thompson Sampling
-- Bayesian Regret
-- Generative Posterior Sampling
-- Bandit Convex Optimization
-- Normalizing Flows
-- Decision-Dependent Censoring
 
-[[In-Context Learning for Data-Driven Censored Inventory Control]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]

@@ -17,3 +17,10 @@ The release of Claude Opus 5 occurs amid rapid advancements in multimodal AI m
 
 ## Implications  
 For developers and enterprises, Opus 5 lowers the barrier to accessing high‑quality AI for coding assistance, scientific analysis, and visual content creation. Its strong performance at reduced token costs encourages wider adoption of Claude’s Max tier, potentially reshaping market dynamics in the large language model space.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

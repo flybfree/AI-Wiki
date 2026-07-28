@@ -31,13 +31,9 @@ In a Sim‑to‑Real study, GRPO trained on Qwen3‑VL‑4B‑Instruct achieved 
 ## Significance  
 MobileGym bridges the gap between high‑fidelity mobile GUI research and practical deployment by offering reproducible, parallelizable simulations with built‑in verification. This reduces reliance on opaque proprietary backends, lowers compute costs, and provides a common metric (AnswerSheet) for comparing simulation and real‑device performance.
 
-## Related Concepts  
-- Verifiable outcome signals  
-- Deterministic state‑based judging  
-- Structured JSON environment representation  
-- Scalable online reinforcement learning  
-- Parallel forked environments  
-- MobileGym‑Bench task templates  
-- AnswerSheet protocol for consistent evaluation
+## Related Concepts
 
-[[MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

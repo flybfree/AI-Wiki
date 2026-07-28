@@ -31,11 +31,9 @@ The Shannon Scaling Law yields $R^2 = 0.847$ when predicting the unseen 12 B P
 ## Significance  
 This work bridges information theory with LLM scaling, offering a testable model for capacity limits that explains why larger models do not always improve performance. It enables more realistic resource planning and highlights the importance of maintaining adequate SNR during training.
 
-## Related Concepts  
-- Shannon‑Hartley theorem (capacity = B log₂(1+SNR))  
-- Signal‑to‑noise ratio (SNR) in communication systems  
-- Information capacity as a bound on learnable parameters  
-- Catastrophic overtraining and quantization degradation  
-- Classical power‑law scaling laws for LLMs
+## Related Concepts
 
-[[LLMs as Noisy Channels: A Shannon Perspective on Model Capacity and Scaling Laws]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -36,11 +36,8 @@ Experiments on the SkillsBench benchmark demonstrate that lifecycle‑managed sk
 **## Significance**  
 Treating skills as long‑lived, testable entities addresses a fundamental limitation of current LLM agents: skill brittleness and redundancy. By providing a systematic way to create, remember, manage, evaluate, and refine skills, MUSE‑Autoskill lays the groundwork for more robust, self‑evolving AI systems that can handle complex, multi‑step tasks with greater reliability.
 
-**## Related Concepts**  
-- Skill creation / skill definition  
-- Memory (skill‑level memory)  
-- Skill management (registry and selection)  
-- Evaluation (unit tests, runtime feedback)  
-- Continuous refinement (learning from performance data)
+**## Related Concepts
 
-[[MUSE-Autoskill: Self-Evolving Agents via Skill Creation, Memory, Management, and Evaluation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

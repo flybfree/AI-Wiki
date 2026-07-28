@@ -58,3 +58,10 @@ Transformer‑based routing networks have achieved state‑of‑the‑art perfor
 Validation on three unseen translation pairs (English‑French, English‑Spanish) shows BLEU improvements of +3.5 ± 0.9 and latency reductions of 6–8 %. The validation loss variance across datasets is lower than that of the baseline model, indicating robust generalization.  
 
 In summary, our distance‑aware relative positional encoding provides a principled way to encode spatial information within transformer routing networks, delivering measurable improvements in both task performance and computational efficiency.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

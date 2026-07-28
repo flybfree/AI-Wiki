@@ -31,13 +31,8 @@ Experimental results demonstrate that active exploration substantially outperfor
 This work is significant because it shifts the paradigm of spatial intelligence evaluation from passive recognition to active inquiry. It exposes fundamental limitations in current MLLMs, specifically their inability to manage uncertainty and revise beliefs based on new evidence. By highlighting the metacognitive gap, the paper provides a clear direction for future research in embodied AI, emphasizing the need for models that can not only perceive but also strategically act to reduce epistemic uncertainty.
 
 ## Related Concepts
-- Embodied Spatial Intelligence
-- Perception-Action Loop
-- Active Exploration vs. Passive Observation
-- Spelke’s Core Knowledge Systems
-- OmniGibson Simulation Environment
-- Multimodal Large Language Models (MLLMs)
-- Metacognitive Reasoning
-- Action Blindness
 
-[[ESI-Bench: Towards Embodied Spatial Intelligence that Closes the Perception-Action Loop]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

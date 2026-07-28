@@ -31,12 +31,9 @@ Across eleven benchmark datasets, AdaCodec outperforms the Qwen3‑VL‑8B per�
 ## Significance  
 AdaCodec demonstrates that video MLLMs can achieve high visual quality with far fewer tokens, enabling more efficient inference for long videos. By eliminating unnecessary full‑frame encoding, the method reduces computational load and latency, making large‑scale video generation more practical and scalable.
 
-## Related Concepts  
-- Multimodal Large Language Models (video MLLMs)  
-- Visual tokens representing image content or changes  
-- Predictive coding for inter‑frame information  
-- P‑tokens encoding motion and residuals  
-- Reference frames as full visual inputs  
-- Conditional predictive cost estimation
+## Related Concepts
 
-[[AdaCodec: A Predictive Visual Code for Video MLLMs]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

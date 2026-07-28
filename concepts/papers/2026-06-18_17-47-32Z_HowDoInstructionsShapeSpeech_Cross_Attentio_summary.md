@@ -100,3 +100,10 @@ The results confirm that CAA successfully bridges the gap between textual style 
 ---
 
 **In summary**, Cross‑Attention Attribution introduces a principled, end‑to‑end method for style‑captioned TTS that yields higher human perception scores, stronger automatic metrics, and clear attribution maps.  By treating style as an active conditioning signal rather than a post‑hoc filter, CAA sets a new benchmark for controllable speech generation.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

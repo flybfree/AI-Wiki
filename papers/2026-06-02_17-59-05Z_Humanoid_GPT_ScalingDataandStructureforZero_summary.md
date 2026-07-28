@@ -31,7 +31,9 @@ Experiments demonstrate state‑of‑the‑art tracking accuracy and generalizat
 ## Significance  
 This approach bridges massive pre‑training with real‑time control, offering a scalable solution for robotics that does not require task‑specific training pipelines. It enables rapid deployment across diverse humanoid robots by leveraging a universal motion language.
 
-## Related Concepts  
-GPT architecture, causal attention, zero‑shot learning, whole‑body motion tracking, transformer scalability, retargeted datasets, agility‑generalization trade‑off.
+## Related Concepts
 
-[[Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

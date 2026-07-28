@@ -31,13 +31,9 @@ Experiments compare DynaFLIP against baseline vision encoders trained without mo
 ## Significance  
 By embedding motion information into the perception layer, DynaFLIP demonstrates that robot generalization is not limited to static visual knowledge but improves when representations encode how the world changes under action. This insight can be applied beyond manipulation to any domain where dynamic context matters, offering a template for future multimodal robotics research.
 
-## Related Concepts  
-- Multimodal pre‑training  
-- Simplex volume minimization in hyperspherical space  
-- Cosine regularizer  
-- Contrastive learning  
-- Visual Language Alignment (VLA)  
-- Robot manipulation perception  
-- 3D flow fields
+## Related Concepts
 
-[[DynaFLIP: Rethinking Robotics Perception via Tri-Modal-Dynamics Guided Representation]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

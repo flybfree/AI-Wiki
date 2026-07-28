@@ -31,11 +31,9 @@ Across a suite of leading LRMs, datasets, and prompts, the study finds that fait
 ## Significance  
 Faithful confidence is a distinct reliability target that directly impacts trustworthiness, especially as LRMs are deployed in high‑stakes applications such as medical diagnosis or legal advice. By establishing FC as a measurable performance metric and highlighting its challenges, the paper guides future research toward more robust uncertainty communication.
 
-## Related Concepts  
-- Faithful calibration (FC) – alignment between intrinsic confidence and expressed confidence.  
-- Chain‑of‑thought reasoning – extended trace generation for complex tasks.  
-- Conditional sampling – controlling token generation based on prior context.  
-- Intrinsic confidence – model’s internal estimate of uncertainty.  
-- Response consistency – whether repeated runs produce similar outputs given the same input.
+## Related Concepts
 
-[[Quantifying Faithful Confidence Expression in Large Reasoning Models]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]

@@ -31,13 +31,8 @@ SIREM was evaluated on the USC speech rtMRI benchmark, a standard dataset for th
 This research is significant because it establishes an initial benchmark for multimodal speech-informed rtMRI reconstruction, a field previously limited by the inherent constraints of MRI physics. By demonstrating that synchronized speech can serve as an effective prior, the work opens new avenues for non-invasive visualization of dynamic vocal-tract motion. This has substantial implications for both speech science, by enabling more detailed studies of articulation, and clinical assessment, by providing faster, high-quality imaging tools for diagnosing speech disorders.
 
 ## Related Concepts
-- Real-time magnetic resonance imaging (rtMRI)
-- Cross-modal priors
-- Undersampled k-space reconstruction
-- Vocal-tract modeling
-- Multimodal fusion
-- Spiral sampling
-- Compressed sensing
-- Articulator dynamics
 
-[[SIREM: Speech-Informed MRI Reconstruction with Learned Sampling]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

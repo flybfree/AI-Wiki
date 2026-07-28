@@ -32,3 +32,10 @@ The method may help APNNs avoid failure modes caused by conflicting gradients ac
 - Published: 2026-04-27T17:47:42Z
 - URL: http://arxiv.org/abs/2604.24745v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-27_17-47-42Z_Conflict_AwareHarmonizedRotationalGradientforMulti.md
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

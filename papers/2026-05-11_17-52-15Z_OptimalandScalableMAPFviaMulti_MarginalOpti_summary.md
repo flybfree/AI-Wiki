@@ -31,13 +31,9 @@ Theoretical analysis demonstrates that the linear program yields exact min‑cos
 ## Significance  
 By unifying path planning with optimal transport theory, the work opens new algorithmic pathways for large‑scale anonymous routing problems. The total unimodularity result ensures provable optimality and integrality, while Schrödinger bridges enable scalable, iterative computation—critical for real‑time deployment in robotics and logistics.
 
-## Related Concepts  
-- Multi‑marginal optimal transport (MMOT)  
-- Markovian structure on graphs  
-- Linear programming with total unimodularity  
-- Schrödinger bridge (probabilistic shadow transport)  
-- Entropic regularization  
-- Sinkhorn algorithm  
-- Anonymous routing / MAPF
+## Related Concepts
 
-[[Optimal and Scalable MAPF via Multi-Marginal Optimal Transport and Schrödinger Bridges]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

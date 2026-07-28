@@ -31,12 +31,9 @@ On the static track Code2LoRA‑Static achieves 63.8% cross‑repo exact match a
 ## Significance  
 Code2LoRA demonstrates that hypernetworks can efficiently inject repository context into language models, reducing the need for costly per‑repository fine‑tuning and mitigating brittleness in software evolution. By supporting both static snapshots and continuous updates, it offers a scalable solution for maintaining codebase‑aware AI tools.
 
-## Related Concepts  
-- LoRA (Low‑Rank Adaptation)  
-- Hypernetworks  
-- Retrieval‑Augmented Generation (RAG)  
-- Dependency analysis  
-- Repository‑level context injection  
-- Software evolution and continuous integration
+## Related Concepts
 
-[[Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

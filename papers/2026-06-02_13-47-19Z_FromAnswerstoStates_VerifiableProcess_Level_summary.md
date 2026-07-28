@@ -31,11 +31,9 @@ Experiments on frontier LLMs show that while final‑answer accuracy remains hig
 ## Significance  
 ChemCoTBench‑V2 provides a scalable, low‑cost mechanism to audit chemical reasoning beyond the final output, uncovering hidden logical errors that could lead to unsafe or inaccurate predictions. By exposing the precise point of violation, it facilitates systematic debugging and guides more robust training strategies for chemistry assistants.
 
-## Related Concepts  
-- Large language models (LLMs)  
-- Chemical reasoning & trace generation  
-- Rule‑based verification  
-- Oracle verification  
-- Benchmarking of intermediate states
+## Related Concepts
 
-[[From Answers to States: Verifiable Process-Level Evaluation of Chemical Reasoning in Large Language Models]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

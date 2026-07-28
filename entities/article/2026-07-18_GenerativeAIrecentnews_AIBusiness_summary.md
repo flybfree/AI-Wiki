@@ -18,3 +18,10 @@ The broader AI landscape is witnessing a rapid evolution from cloud‑based gene
 
 ## Implications  
 The convergence of humanoid robotics and embodied generative AI could redefine labor markets by automating routine physical tasks while also raising ethical questions about autonomy and safety. For the industry, it means a need for standardized interfaces, robust testing frameworks, and regulatory clarity to ensure that these advanced machines operate responsibly alongside human workers.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

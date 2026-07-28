@@ -31,7 +31,9 @@ On synthetic one‑dimensional problems with varying epistemic uncertainty, the 
 ## Significance  
 This work bridges the gap between black‑box machine learning and interpretable symbolic models, offering precise, site‑specific agronomic insights that can guide fertilizer application decisions while reducing environmental impact. By enabling discovery of functional relationships from limited data, neuro SR supports precision agriculture’s goal of maximizing yield with minimal resource use.  
 
-## Related Concepts  
-Neuro Symbolic Regression, Multi-Set Symbolic Skeleton Prediction, Transformer architectures, Genetic algorithms, Epistemic uncertainty, Parametric response curves, Management zones (MZ), Precision agriculture.
+## Related Concepts
 
-[[Learning Parametric Nitrogen Fertilizer Response Curves Using Neuro Symbolic Regression]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

@@ -31,13 +31,9 @@ Across all benchmarks, models achieve low accuracy, often near chance levels (e.
 ## Significance  
 This work highlights a critical gap in VLM design: numerical outputs must be anchored to genuine spatial perception; otherwise models remain unreliable for embodied tasks requiring precise coordinates or magnitudes. By exposing the superficial nature of current approaches, SPACENUM motivates more robust training and architectural changes that embed true spatial reasoning.
 
-## Related Concepts  
-- Vision‑Language Models (VLMs)  
-- Spatial reasoning  
-- Dynamic vs static layouts  
-- Bidirectional mapping (Num2Space / Space2Num)  
-- Coordinate representation  
-- Model tuning  
-- Reasoning traces
+## Related Concepts
 
-[[SPACENUM: Revisiting Spatial Numerical Understanding in VLMs]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

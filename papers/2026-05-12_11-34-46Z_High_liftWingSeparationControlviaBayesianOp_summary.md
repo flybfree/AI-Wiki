@@ -31,13 +31,8 @@ The Bayesian Optimization framework proved highly effective, identifying specifi
 This study highlights the current limitations of applying closed-loop Deep Reinforcement Learning to high-fidelity, high-Reynolds number aerodynamic problems. It underscores the necessity for carefully designed reward functions and advanced computational acceleration strategies to make DRL viable for complex flow control tasks. The success of the open-loop BO approach provides a practical benchmark for efficient control parameter identification, while the DRL findings offer critical insights for future algorithm development in aerospace engineering.
 
 ## Related Concepts
-- Active Flow Control (AFC)
-- Bayesian Optimization (BO)
-- Deep Reinforcement Learning (DRL)
-- Large-Eddy Simulation (LES)
-- High-Lift Wing Configurations
-- Stall Mitigation
-- Synthetic Jets
-- Aerodynamic Efficiency
 
-[[High-lift Wing Separation Control via Bayesian Optimization and Deep Reinforcement Learning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

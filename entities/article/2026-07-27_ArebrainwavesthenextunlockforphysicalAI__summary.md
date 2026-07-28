@@ -18,3 +18,10 @@ Physical AI faces the “data bottleneck” where generative models can produce 
 
 **## Implications**  
 If the pilot succeeds, integrating neural activity into training could enable robots to adapt faster to unexpected errors or new tasks, reducing reliance on massive video corpora. This shift may lower costs and accelerate deployment of advanced robotics in logistics, manufacturing and other physical domains, positioning brain‑wave sensing as a potential unlock for scalable, high‑performance AI systems.
+
+## Related Concepts
+
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

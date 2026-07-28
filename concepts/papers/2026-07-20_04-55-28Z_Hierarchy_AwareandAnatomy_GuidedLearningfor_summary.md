@@ -104,3 +104,10 @@ Increasing the number of refinement layers (from 2 to 4) marginally improved F1 
 ## Conclusion  
 
 Our **Hierarchy‑Aware and Anatomy‑Guided Learning** framework demonstrates that integrating anatomical priors with a multi‑scale video encoder can substantially boost lung ultrasound video classification accuracy while maintaining robustness to acquisition variations. The end‑to‑end training paradigm eliminates the need for post‑hoc fine‑tuning, making HAAL a practical solution for clinical deployment and future research on other modality‑specific video tasks.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

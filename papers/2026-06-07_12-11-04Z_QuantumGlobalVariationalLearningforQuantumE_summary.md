@@ -31,11 +31,9 @@ Experimental simulations demonstrate that training time drops from O(N) to O(log
 ## Significance  
 This work tackles a critical bottleneck: the exponential growth of circuit depth in variational quantum error correction, which hampers scalability on near‑term devices. By introducing global parameter sharing, the authors enable practical deployment and lay the groundwork for fault‑tolerant quantum processors.
 
-## Related Concepts  
-- Quantum error correction (QEC)  
-- Variational quantum circuits  
-- Global parameter sharing  
-- Unitary matrix reduction  
-- Noise robustness
+## Related Concepts
 
-[[Quantum Global Variational Learning for Quantum Error Correction]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,14 +31,9 @@ The main theoretical results are the convergence rates for both conservative and
 ## Significance  
 By providing rigorous finite‑particle convergence rates for conservative and non‑conservative drifting models, the paper bridges theoretical analysis with practical generative modeling, enabling designers to choose drift strategies that balance speed and stability. The derived bounds guide algorithmic implementation and highlight trade‑offs between bandwidth regularity and optimization parameter \(\beta\).
 
-## Related Concepts  
-- Conservative vs. non‑conservative drift fields  
-- Kernel density estimator (KDE) gradient velocity  
-- Finite‑particle convergence rates  
-- Stein drift, Fisher discrepancy, joint entropy identity  
-- Reciprocal‑KDE self‑interaction term  
-- Quadrature regularity conditions  
-- Laplace kernel displacement drifting  
-- One‑step generation guarantee via explicit \(\eta\)
+## Related Concepts
 
-[[Finite-Particle Convergence Rates for Conservative and Non-Conservative Drifting Models]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -34,3 +34,10 @@ The release of Claude Opus 4.7 signifies a pivotal moment for the software devel
 - [[2026-06-08_BuildingEffectiveAgents_Anthropic.md]
 - [[2026-05-09_131500Z_ReAct_SynergizingReasoningAndActingInLanguageModels.md]
 - [[2026-06-09_MachineLearningArchitectureHub.md]
+
+## Related Concepts
+
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]

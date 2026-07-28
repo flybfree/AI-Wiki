@@ -32,3 +32,10 @@ The work strengthens the theoretical picture of how transformers learn from prom
 - Published: 2026-05-06T17:42:07Z
 - URL: http://arxiv.org/abs/2605.05176v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-05-06_17-42-07Z_UnderstandingIn_ContextLearningforNonlinearRegress.md
+
+## Related Concepts
+
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

@@ -18,3 +18,10 @@ The broader AI landscape is moving toward open‑source protocols that let model
 
 ## Implications  
 This shift democratizes integration, reducing development time and cost for both manufacturers and brands, which can accelerate adoption of smart‑home capabilities. For users, it means a more intuitive experience where Alexa Plus anticipates needs rather than requiring step‑by‑step voice commands. The precedent may encourage competitors to adopt similar standards, reshaping the competitive dynamics in the voice‑assistant market.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

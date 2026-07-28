@@ -31,11 +31,9 @@ Experimental results were evaluated on three benchmark datasets: MNIST, CIFAR‑
 ## Significance  
 This work bridges the gap between gradient‑based efficiency and population‑based robustness, offering a scalable alternative for large‑scale multi‑column problems. By exploiting parallelism and adaptive swarm dynamics, MC‑APSO reduces both training complexity and memory usage while preserving high predictive performance. The method is applicable to any domain where spatial partitioning yields meaningful subsets, such as medical imaging with columnar data or sensor networks.  
 
-## Related Concepts  
-- Radial Basis Function Neural Network (RBFN)  
-- Error Correction (ErrCor) training  
-- Particle Swarm Optimization (PSO)  
-- Adaptive PSO (APSO)  
-- Multi‑Column RBFN (MCRN)
+## Related Concepts
 
-[[Multi-Column RBF Neural Network Using Adaptive and Non-Adaptive Particle Swarm Optimization]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

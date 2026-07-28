@@ -31,10 +31,9 @@ SimCT achieves higher perplexity reduction and better task performance than base
 ## Significance  
 This work resolves a fundamental limitation of OPD in real‑world settings where tokenizers differ, enabling more effective knowledge transfer without sacrificing on‑policy learning dynamics. It provides a scalable method to recover supervision that was silently lost due to tokenizer heterogeneity, potentially improving many downstream applications that rely on cross‑tokenizer distillation.
 
-## Related Concepts  
-- On‑policy distillation (OPD)  
-- Tokenization heterogeneity  
-- Supervision space enlargement  
-- Multi‑token continuations
+## Related Concepts
 
-[[SimCT: Recovering Lost Supervision for Cross-Tokenizer On-Policy Distillation]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

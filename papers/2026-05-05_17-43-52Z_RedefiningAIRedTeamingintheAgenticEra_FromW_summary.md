@@ -30,13 +30,9 @@ The Llama Scout case study showed that the agent achieved an 85% success rate in
 ## Significance  
 This work matters because it transforms AI red teaming from a reactive, labor-intensive process into a proactive, scalable capability essential for deploying trustworthy agentic systems. By enabling rapid, automated probing of vulnerabilities in both traditional and generative AI models, the paper supports safer deployment in high-stakes environments where failure is not an option.
 
-## Related Concepts  
-- Adversarial Machine Learning  
-- Red Teaming  
-- Agentic AI  
-- Jailbreak Detection  
-- Dreadnode SDK  
-- Multi-agent Systems  
-- Generative AI Security
+## Related Concepts
 
-[[Redefining AI Red Teaming in the Agentic Era: From Weeks to Hours]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

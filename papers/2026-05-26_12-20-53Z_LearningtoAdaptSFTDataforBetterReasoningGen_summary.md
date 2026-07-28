@@ -31,12 +31,9 @@ Across multiple LLMs and datasets (including MMLU, ARC), DART‑fine‑tuned mod
 ## Significance  
 By decoupling the adaptation step from manual data curation, DART offers a scalable way to improve model performance without requiring large labeled datasets, addressing distribution mismatch and enhancing generalization—a key challenge in LLM fine‑tuning.
 
-## Related Concepts  
-- Supervised Fine‑Tuning (SFT)  
-- Reinforcement Learning for Data Augmentation  
-- Distribution Alignment  
-- Reasoning Benchmarks  
-- Prompt Engineering  
-- Model‑Specific Adaptation
+## Related Concepts
 
-[[Learning to Adapt SFT Data for Better Reasoning Generalization]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

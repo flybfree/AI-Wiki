@@ -30,14 +30,9 @@ OpenSeeker-v2 achieved 46.0% accuracy on BrowseComp (English), 58.1% on BrowseCo
 ## Significance  
 This paper significantly reduces the barrier to entry for frontier search agent research by proving that academic teams can achieve competitive results without industrial-grade resources. It challenges the prevailing belief that deep search capabilities require massive pre-training and RL, encouraging a shift toward efficient, data-driven fine-tuning approaches. By open-sourcing the model weights and methodology, the authors promote transparency and reproducibility in AI research.  
 
-## Related Concepts  
-- Large Language Model (LLM) agents  
-- Supervised Fine-Tuning (SFT)  
-- Reinforcement Learning (RL)  
-- ReAct paradigm  
-- Knowledge graph scaling  
-- Tool set expansion  
-- High-difficulty trajectories  
-- SOTA performance benchmarking
+## Related Concepts
 
-[[OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

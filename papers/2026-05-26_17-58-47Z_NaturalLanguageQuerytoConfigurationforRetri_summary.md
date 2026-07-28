@@ -31,10 +31,9 @@ On three benchmark suites, BRANE consistently lies on or above the accuracy‑ve
 ## Significance  
 This work demonstrates that per‑query optimization of the full retrieval pipeline is feasible and beneficial, allowing dynamic adaptation to individual queries without costly retraining. It opens a path toward more efficient, user‑centric AI assistants where cost and quality are jointly optimized at inference time.
 
-## Related Concepts  
-- Retrieval pipelines (LLM + retriever + synthesis)  
-- Cost‑quality Pareto frontier  
-- LLM routing / query classification  
-- Per‑config prediction models
+## Related Concepts
 
-[[Natural Language Query to Configuration for Retrieval Agents]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,11 +31,9 @@ Theoretical results prove sublinear RP‑Regret under the identified conditions,
 ## Significance  
 This work bridges online learning and game theory by introducing a regret notion native to repeated games with adaptive opponents, enabling stronger comparators and more realistic opponent constraints. By providing provable sublinear bounds and practical algorithms, the study opens new avenues for designing cooperative multiplayer systems where agents must anticipate and respond to dynamic adversaries.
 
-## Related Concepts  
-- External Regret (standard online learning metric)  
-- Repeated Policy Regret (RP‑Regret)  
-- Subgame Perfect Equilibrium  
-- Non‑convex Optimization  
-- Convex Linearization Surrogate
+## Related Concepts
 
-[[Regret Minimization with Adaptive Opponents in Repeated Games]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

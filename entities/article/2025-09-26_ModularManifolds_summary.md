@@ -27,3 +27,10 @@ Manifold constraints are one way to make the geometry of training more explicit 
 ## Implications
 This is useful if you care about training stability, predictable optimization, and possible robustness guarantees.
 It also fits Thinking Machines' broader theme of making model behavior more legible and engineerable.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

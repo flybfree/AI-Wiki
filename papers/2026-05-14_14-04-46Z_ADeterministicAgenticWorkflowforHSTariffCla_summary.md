@@ -31,13 +31,8 @@ Evaluated on the HSCodeComp dataset, the workflow achieved 75.0% top-1 and 91.5%
 This work is significant because it shifts the paradigm of AI-assisted tariff classification from probabilistic, opaque black-box models to deterministic, interpretable systems. By proving that structured, rule-based reasoning outperforms end-to-end prompting, it offers a reliable framework for high-stakes legal and trade applications where accountability and auditability are paramount. Additionally, the critique of existing benchmarks provides a valuable service to the research community by exposing potential flaws in current evaluation datasets.
 
 ## Related Concepts
-- Harmonized System (HS) Tariff Classification
-- Deterministic Agentic Workflows
-- Multi-Dimensional Rule Reasoning
-- General Interpretive Rules (GIR)
-- Interpretable AI
-- HSCodeComp Benchmark
-- Knowledge Engineering
-- Large Language Model Limitations
 
-[[A Deterministic Agentic Workflow for HS Tariff Classification: Multi-Dimensional Rule Reasoning with Interpretable Decisions]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -18,3 +18,10 @@ Moonshot AI has been positioning itself as a leader in open frontier models, com
 
 ## Implications  
 The release of Kimi‑K3 could accelerate the development of agentic AI systems that can autonomously browse, call tools, and plan multi‑step workflows, reshaping how developers integrate large models into production pipelines. Its open nature may lower barriers to entry for startups and researchers, fostering innovation in code generation, knowledge work, and long‑term reasoning tasks.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

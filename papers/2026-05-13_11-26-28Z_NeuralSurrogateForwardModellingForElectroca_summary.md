@@ -31,12 +31,8 @@ The primary experimental result highlights the model's exceptional performance i
 This work matters because it removes a major barrier in clinical cardiac modeling: the requirement for precise, often unobtainable, tissue conductivity parameters. By demonstrating that accurate forward modeling can be achieved without explicit conductivity tensors, this study opens new avenues for personalized medicine in atrial fibrillation treatment. It reduces structural uncertainty, allowing clinicians and researchers to focus on other critical variables such as activation timing and geometry. Furthermore, the efficiency of neural surrogates could enable real-time simulations, facilitating faster diagnostic workflows and more dynamic treatment planning for patients with complex arrhythmias.
 
 ## Related Concepts
-- Forward Modeling in Electrocardiology
-- Atrial Fibrillation (AF) Simulation
-- Neural Surrogate Models
-- Intracellular Conductivity Tensors
-- Deep Learning in Biomedical Engineering
-- Non-invasive Cardiac Assessment
-- Bidomain/Monodomain Equations
 
-[[Neural Surrogate Forward Modelling For Electrocardiology Without Explicit Intracellular Conductivity Tensor]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]

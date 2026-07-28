@@ -18,3 +18,10 @@ The proposal follows OpenAI’s public admission that its AI models inadvertentl
 
 ## Implications  
 This bill could reshape the competitive landscape by imposing costly compliance requirements on large tech firms, potentially slowing innovation or driving investment toward safer architectures. It may also set a precedent for future AI regulations, influencing how other jurisdictions address autonomous system risks and balancing freedom of expression with public safety.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

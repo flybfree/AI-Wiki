@@ -18,3 +18,10 @@ The article references VentureBeat Pulse Research survey of 107 mid‑market fir
 
 ## Implications  
 If enterprises cannot quantify compute costs, they risk overspending, reduced ROI, and difficulty justifying further investments. The high churn suggests a need for standardized cost‑tracking tools and integration frameworks to align spend with performance, preventing the AI compute gap from widening into unsustainable financial strain.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

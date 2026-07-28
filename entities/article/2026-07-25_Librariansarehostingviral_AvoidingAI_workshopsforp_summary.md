@@ -18,3 +18,10 @@ The rapid rollout of AI assistants across smartphones, laptops and cloud service
 
 ## Implications  
 For libraries and information professionals, this grassroots model shows how community‑based education can counterbalance corporate influence in technology adoption. It also signals a broader societal need for transparent digital‑rights discourse, potentially inspiring similar initiatives beyond the library sector.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

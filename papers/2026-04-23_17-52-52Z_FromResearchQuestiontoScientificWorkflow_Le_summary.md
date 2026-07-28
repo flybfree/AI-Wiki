@@ -28,3 +28,10 @@ The proposed system operates in three layers:
 3. **Deterministic Layer:** Validated generators take the structured intent and produce reproducible workflow Directed Acyclic Graphs (DAGs), ensuring that identical intents always yield identical workflows regardless of LLM variability. The system was evaluated on a 1000 Genomes population genetics workflow running
 
 [[From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation]]
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

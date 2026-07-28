@@ -31,13 +31,8 @@ The primary experimental results were obtained using the CoDEx dataset, a standa
 This research is significant because it bridges a critical gap between textual semantic models and structural graph models in the context of knowledge graph completion. By demonstrating that preserving graph topology within a Seq2Seq framework leads to superior performance, it challenges the prevailing notion that textual embeddings alone are sufficient for robust link prediction. This work provides a new direction for future research in knowledge graph reasoning, suggesting that hybrid models that respect both linguistic and topological structures are essential for advancing the field.
 
 ## Related Concepts
-- Knowledge Graph Link Prediction
-- Sequence-to-Sequence (Seq2Seq) Models
-- T5-small Encoder-Decoder
-- Relational Graph Attention Network (RGAT)
-- Multi-hop Relational Patterns
-- Graph Neural Networks (GNNs)
-- CoDEx Dataset
-- Subgraph Topology
 
-[[Leveraging Graph Structure in Seq2Seq Models for Knowledge Graph Link Prediction]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

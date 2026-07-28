@@ -31,12 +31,9 @@ First finding: per‑query dissatisfaction is 55% lower on Computer than Search,
 ## Significance  
 These results demonstrate that autonomy is a lever for accelerating knowledge work, improving output quality, and reducing resource consumption. By enabling agents to handle decomposition and execution without human orchestration, AI can lower operational costs and unlock previously unattainable task combinations. The findings have implications for designing next‑generation assistants that prioritize end‑to‑end agency over conversational support.  
 
-## Related Concepts  
-- Autonomous AI agents  
-- Task decomposition  
-- Query scheduling  
-- Dissatisfaction metrics  
-- Cross‑occupational knowledge work  
-- Composite task design
+## Related Concepts
 
-[[How AI Agents Reshape Knowledge Work: Autonomy, Efficiency, and Scope]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

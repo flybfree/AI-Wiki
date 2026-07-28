@@ -31,7 +31,9 @@ Experiments on six datasets covering motion deblurring, deraining, and HDR enhan
 ## Significance  
 By merging sparse attention with linear‑time state‑space dynamics, EmambaIR offers a scalable solution for high‑resolution event reconstruction that is feasible on edge devices. This bridges the gap between accuracy and computational constraints, enabling real‑time applications in autonomous systems and AR/VR.
 
-## Related Concepts  
-Event‑based vision, convolutional neural networks (CNN), Vision Transformers (ViT), state space models (SSMs), sparse attention, gated units, top‑k selection, cross‑modal fusion.
+## Related Concepts
 
-[[EmambaIR: Efficient Visual State Space Model for Event-guided Image Reconstruction]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

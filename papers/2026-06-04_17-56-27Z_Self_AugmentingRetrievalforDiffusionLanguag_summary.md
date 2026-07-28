@@ -31,7 +31,9 @@ Across five multi‑hop question‑answer datasets, SARDI outperformed existing 
 ## Significance  
 By repurposing discarded tokens as retrieval cues, SARDI bridges the gap between diffusion generation efficiency and knowledge grounding without costly fine‑tuning. This enables scalable, high‑throughput language generation suitable for real‑world applications where latency is critical.
 
-## Related Concepts  
-Diffusion language models, Retrieval‑Augmented Generation (RAG), low‑confidence token utilization, dynamic retrieval, multi‑hop question answering.
+## Related Concepts
 
-[[Self-Augmenting Retrieval for Diffusion Language Models]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

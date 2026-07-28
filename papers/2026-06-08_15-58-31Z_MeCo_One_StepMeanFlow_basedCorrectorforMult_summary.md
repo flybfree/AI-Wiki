@@ -31,7 +31,9 @@ Experiments show MeCo outperforms existing SOTA methods on both in‑domain and 
 ## Significance  
 This research demonstrates that generative correction can be integrated seamlessly into discriminative separation pipelines, offering a practical path toward high‑fidelity speech processing. By focusing on human‑centric metrics alongside technical performance, MeCo sets a new standard for real‑world audio applications where listening quality is paramount.  
 
-## Related Concepts  
-MeanFlow, Data‑Space Optimization (DSO), endpoint SI‑SDR loss, discriminative multi‑channel separation, generative corrector, conditional velocity field.
+## Related Concepts
 
-[[MeCo: One-Step MeanFlow-based Corrector for Multi-Channel Speech Separation]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

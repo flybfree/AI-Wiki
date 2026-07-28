@@ -18,3 +18,10 @@ This innovation reflects broader trends in AI-driven automation within logistics
 
 ## Implications  
 The successful implementation of robotic parking demonstrates how AI can solve complex infrastructure constraints through automation, paving the way for scalable solutions in other transport hubs. It underscores the potential of robotics to support sustainable growth in aviation and logistics, reducing environmental impact by minimizing energy use and human labor. This project also signals a shift toward customer-centric, tech-enabled services that prioritize convenience and efficiency.
+
+## Related Concepts
+
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

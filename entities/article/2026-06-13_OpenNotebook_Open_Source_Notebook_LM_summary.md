@@ -20,3 +20,10 @@ Placeholder summary — please add a concise summary of this article.
 
 **Source**: [Original Article](https://github.com/lfnovo/open-notebook)
 **Source**: [Original Repo](https://github.com/lfnovo/open-notebook)
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]

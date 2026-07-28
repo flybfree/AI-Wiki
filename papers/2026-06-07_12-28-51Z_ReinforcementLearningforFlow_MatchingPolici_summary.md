@@ -30,13 +30,9 @@ RLDT demonstrates significantly higher average rewards compared to competitive b
 ## Significance  
 RLDT bridges the gap between reinforcement learning and density-based generative modeling by providing a principled, stable way to align policy distributions with high-reward regions without sacrificing model capacity or introducing bias. By combining SVGD with flow-matching architectures, it enables efficient online fine-tuning in real-world continuous-control settings where traditional RL methods struggle due to instability or slow convergence.
 
-## Related Concepts  
-- Reinforcement Learning (RL)  
-- Flow Matching  
-- Density Transport  
-- Stein Variational Gradient Descent (SVGD)  
-- Maximum Entropy Objective  
-- Expected-Target Approximation  
-- BPTT (Backpropagation Through Time)
+## Related Concepts
 
-[[Reinforcement Learning for Flow-Matching Policies with Density Transport]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

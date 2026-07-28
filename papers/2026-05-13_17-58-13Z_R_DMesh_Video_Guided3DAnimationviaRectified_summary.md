@@ -31,15 +31,8 @@ Extensive experiments demonstrate that R-DMesh successfully solves the alignment
 This research is significant because it removes a major practical barrier to deploying video-guided 3D animation in content creation workflows. By automating the alignment of arbitrary mesh poses with video references, R-DMesh makes the technology more accessible and robust for real-world applications. The introduction of the Video-RDMesh dataset also advances the field by providing a standardized benchmark for pose misalignment, encouraging further research in dynamic mesh generation and 4D content synthesis.
 
 ## Related Concepts
-- Video-Guided 3D Animation
-- Rectified Dynamic Mesh (R-DMesh)
-- Pose Misalignment
-- Variational Autoencoder (VAE)
-- Triflow Attention
-- Rectified Flow-based Diffusion Transformer
-- 4D Mesh Generation
-- Pose Retargeting
-- Geometric Distortion
-- Spatio-Temporal Priors
 
-[[R-DMesh: Video-Guided 3D Animation via Rectified Dynamic Mesh Flow]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

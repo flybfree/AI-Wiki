@@ -31,13 +31,9 @@ Theoretical analysis shows that MG‑ADSGD achieves a communication cost proport
 ## Significance  
 By delivering a communication‑efficient, accelerated stochastic algorithm, MG‑ADSGD addresses a longstanding bottleneck in large‑scale distributed learning: the trade‑off between speed and bandwidth. The result enables practical deployment of strong‑convex optimization on networks with limited connectivity, where deterministic methods are infeasible due to their high communication requirements.  
 
-## Related Concepts  
-- Decentralized stochastic optimization  
-- Strongly convex optimization  
-- Communication complexity bounds  
-- Nesterov‑type primal‑dual extrapolation  
-- Multi‑round fast gossip averaging  
-- Consensus accuracy improvement  
-- Gradient variance reduction
+## Related Concepts
 
-[[Accelerated Decentralized Stochastic Gradient Descent for Strongly Convex Optimization]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]

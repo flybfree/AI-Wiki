@@ -31,7 +31,9 @@ Experiments show that detection performance is highly sensitive to edit operatio
 ## Significance  
 OpAI‑Bench bridges a critical gap in AI‑text detection by focusing on the evolution of authorship signals during collaborative writing. This enables researchers to design more robust detectors that account for revision dynamics rather than static output composition. The benchmark also serves as a practical tool for developers seeking to improve provenance tracking and fairness in automated grading systems.
 
-## Related Concepts  
-human-AI co‑editing, AI text detection, authorship provenance, multi‑granularity benchmarking, operation‑guided transformation, mixed‑authorship detection, revision history, fine‑grained token/span analysis.
+## Related Concepts
 
-[[Operation-Guided Progressive Human-to-AI Text Transformation Benchmark for Multi-Granularity AI-Text Detection]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

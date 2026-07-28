@@ -31,13 +31,9 @@ On the TianXi‑Action‑7B model, BAMI raises ScreenSpot‑Pro accuracy from 51
 ## Significance  
 Training‑free bias mitigation is crucial for deploying GUI agents in real‑world applications where retraining is costly or impractical. By systematically correcting precision and ambiguity biases without altering the model’s weights, BAMI enables higher accuracy and more reliable interaction with complex user interfaces, thereby enhancing usability and reducing error rates.  
 
-## Related Concepts  
-- GUI grounding  
-- Masked Prediction Distribution attribution  
-- Coarse‑to‑fine focus manipulation  
-- Candidate selection for ambiguous elements  
-- Precision bias in high‑resolution images  
-- Ambiguity bias from intricate UI components  
-- Training‑free adaptation and mitigation
+## Related Concepts
 
-[[BAMI: Training-Free Bias Mitigation in GUI Grounding]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

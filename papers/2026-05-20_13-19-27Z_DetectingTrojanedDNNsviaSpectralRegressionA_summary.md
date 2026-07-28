@@ -31,13 +31,8 @@ Empirical evaluations conducted across four distinct datasets and eight differen
 This research matters because it provides a practical and robust solution for securing the evolving lifecycle of DNNs. As fine-tuning becomes standard practice for incorporating new data, the risk of supply chain attacks via poisoned updates increases. MIST offers a detection method that does not require knowledge of the specific attack vector or trigger, making it a versatile tool for maintaining trust in continuously updated AI systems.
 
 ## Related Concepts
-- Deep Neural Networks (DNNs)
-- Model Fine-tuning
-- Trojan Attacks
-- Backdoor Detection
-- Spectral Regression Analysis
-- Pre-activation Spectra
-- Adversarial Machine Learning
-- Model Integrity Verification
 
-[[Detecting Trojaned DNNs via Spectral Regression Analysis]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

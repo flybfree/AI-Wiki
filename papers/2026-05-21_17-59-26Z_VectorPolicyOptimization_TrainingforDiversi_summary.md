@@ -31,12 +31,9 @@ Experimental results show that VPO consistently outperforms GRPO on tasks where 
 ## Significance  
 This work demonstrates that post‑training objectives should prioritize diversity when deploying LLMs for scalable search, moving beyond scalar reward maximization. By aligning training with the heterogeneous reward landscape of inference‑time algorithms, VPO paves the way for more robust, adaptable language models that can be directly integrated into next‑generation evolutionary and multi‑objective optimization pipelines.
 
-## Related Concepts  
-- Vector‑valued rewards (multiple scalar components per task)  
-- Gradient Reparameterization Policy Optimization (GRPO)  
-- Reinforcement Learning for language generation  
-- Diversity optimization in policy networks  
-- AlphaEvolve and other inference‑scaling search frameworks  
-- Pass@k and best@k evaluation metrics
+## Related Concepts
 
-[[Vector Policy Optimization: Training for Diversity Improves Test-Time Search]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

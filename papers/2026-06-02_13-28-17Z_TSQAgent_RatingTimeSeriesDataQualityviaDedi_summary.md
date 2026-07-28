@@ -31,11 +31,9 @@ Experiments on TSQBench show that the baseline LLM improves from 42% to 78% accu
 ## Significance  
 This work bridges the gap between LLM reasoning and concrete time‑series evaluation, offering a scalable method that can be integrated into automated pipelines to select high‑quality data without manual annotation. By grounding judgments in quantitative tools, it reduces reliance on subjective human labeling.
 
-## Related Concepts  
-- Time series quality assessment  
-- Large language model reasoning  
-- Agentic reasoning frameworks  
-- Benchmarking for multimodal tasks  
-- Quantitative comparison of time series metrics
+## Related Concepts
 
-[[TSQAgent: Rating Time Series Data Quality via Dedicated Agentic Reasoning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

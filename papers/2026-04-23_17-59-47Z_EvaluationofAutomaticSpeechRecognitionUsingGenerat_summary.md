@@ -36,3 +36,10 @@ Generative LLMs may support more interpretable, semantics-aware ASR metrics.
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-59-47Z_EvaluationofAutomaticSpeechRecognitionUsingGenerat.md
 
 [[Evaluation of Automatic Speech Recognition Using Generative Large Language Models]]
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

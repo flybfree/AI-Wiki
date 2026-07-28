@@ -35,3 +35,10 @@ Extensive experiments on standard benchmarks demonstrate that ESIA achieves stat
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-13-58Z_ESIA_AnEnergy_BasedSpatiotemporalInteraction_Aware.md
 
 [[ESIA: An Energy-Based Spatiotemporal Interaction-Aware Framework for Pedestrian Intention Prediction]]
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

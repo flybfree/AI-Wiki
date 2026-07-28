@@ -31,11 +31,8 @@ The benchmark was used to evaluate fifteen different VLMs, ranging in size from 
 This research is significant because it challenges the prevailing trend in VQA benchmarks that prioritize perception-based tasks. By introducing a benchmark that requires external knowledge, it provides a more realistic and challenging evaluation metric for VLMs. The availability of the dataset and code encourages further research into improving the knowledge-grounding capabilities of AI models, ultimately leading to more robust and intelligent systems capable of handling complex, real-world queries.
 
 ## Related Concepts
-- Visual Question Answering (VQA)
-- Knowledge-Grounded Reasoning
-- Vision-Language Models (VLMs)
-- Wikipedia and Wikidata Integration
-- Human-in-the-Loop Annotation
-- External Knowledge Retrieval
 
-[[WikiVQABench: A Knowledge-Grounded Visual Question Answering Benchmark from Wikipedia and Wikidata]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

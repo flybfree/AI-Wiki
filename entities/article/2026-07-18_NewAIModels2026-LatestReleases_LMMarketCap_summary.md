@@ -18,3 +18,10 @@ The AI landscape is characterized by intense competition among major tech firms,
 
 ## Implications  
 These developments matter because they set new performance benchmarks that influence adoption rates across enterprises and developers. High scores can accelerate integration into production pipelines, while multimodal releases open doors for richer user experiences. Moreover, the competitive pressure may drive further investment in training data, compute resources, and safety mechanisms, shaping the trajectory of AI research and commercialization over the next few years.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

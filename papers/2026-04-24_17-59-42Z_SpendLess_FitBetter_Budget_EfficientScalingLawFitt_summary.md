@@ -35,3 +35,10 @@ Our code is available at https://github.com/PlanarG/active-sl
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-59-42Z_SpendLess_FitBetter_Budget_EfficientScalingLawFitt.md
 
 [[Spend Less, Fit Better: Budget-Efficient Scaling Law Fitting via Active Experiment Selection]]
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

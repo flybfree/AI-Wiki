@@ -31,5 +31,9 @@ Cold‑start results show a spread of scores ranging from 42 % to 78 % acros
 ## Significance  
 OmniGameArena provides the first comprehensive benchmark for VLM game agents, standardizing evaluation across heterogeneous model types and playstyles. By exposing both static cold‑start scores and dynamic improvement curves, it reveals how agentic reflection can accelerate skill acquisition and informs training strategies that prioritize generalization over single‑shot performance.
 
-## Related Concepts  
-VLM game agents, Unreal Engine 5, Improvement Dynamics Curve (IDC), cold‑start evaluation, heterogeneous agent classes, skill refinement, reflection harness, longitudinal score evolution.
+## Related Concepts
+
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

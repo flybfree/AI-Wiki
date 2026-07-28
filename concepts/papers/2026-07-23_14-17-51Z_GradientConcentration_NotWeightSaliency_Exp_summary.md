@@ -23,8 +23,8 @@ Model: None
 [These findings challenge the prevailing belief that saliency‑driven weight selection is essential for effective unlearning. By showing that gradient concentration and representation geometry dominate, the work supports the need for objectives that act directly on latent representations rather than on complex parameter masks.]
 
 ## Related Concepts
-- Gradient concentration  
-- Weight saliency  
-- Representation‑level forgetting  
-- Class unlearning  
-- Latent space manipulation
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

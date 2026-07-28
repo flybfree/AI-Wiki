@@ -18,3 +18,10 @@ These glasses join a wave of AI‑enabled augmented reality eyewear from Meta, R
 
 ## Implications  
 The launch signals that mainstream AI glasses can achieve respectable battery life without sacrificing aesthetics, potentially accelerating adoption in professional and consumer markets. However, the persistent visibility of cameras and microphones may limit acceptance if privacy regulations tighten, prompting manufacturers to consider more discreet sensor placement or on‑device processing to mitigate ethical backlash.
+
+## Related Concepts
+
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

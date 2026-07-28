@@ -31,11 +31,9 @@ Experiments across four heterogeneous datasets (e.g., CIFAR‑10, MNIST, ImageNe
 ## Significance  
 This work bridges a long‑standing gap between differential privacy and federated learning security: while HDP provides per‑client privacy budgets, it does not protect against structural leakage. IntraShuffler offers a practical middleware solution that can be integrated into existing HDP‑FL pipelines, enhancing overall system robustness without sacrificing utility.
 
-## Related Concepts  
-- Heterogeneous Differential Privacy (HDP)  
-- Federated Learning (FL) aggregation rules  
-- Gradient denoising and surrogate modeling attacks  
-- Shuffle‑Model defenses  
-- Parameter shuffling / bucketed privacy mechanisms
+## Related Concepts
 
-[[IntraShuffler: A Privacy Preserving Framework for Heterogeneous DP Federated Learning]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

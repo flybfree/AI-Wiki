@@ -31,12 +31,8 @@ Experimental results indicate that Velocityformer consistently improves the corr
 This research is significant because it provides a robust, data-efficient tool for extracting precise kinematic information from large-scale structure surveys. By improving the accuracy of velocity reconstruction, it directly enhances the quality of kSZ effect measurements, which are essential for understanding the distribution of baryonic matter and testing cosmological models. The ability to generalize zero-shot and train on minimal data makes this approach practical for future large-scale surveys where computational resources and simulation costs are limiting factors.
 
 ## Related Concepts
-- Kinematic Sunyaev-Zel'dovich (kSZ) effect
-- Cosmological velocity reconstruction
-- Equivariant graph transformers
-- Broken symmetry in observational data
-- Large-scale structure of the universe
-- Signal-to-noise ratio optimization
-- Inductive bias in machine learning
 
-[[Velocityformer: Broken-Symmetry-Matched Equivariant Graph Transformers for Cosmological Velocity Reconstruction]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

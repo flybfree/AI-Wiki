@@ -31,12 +31,8 @@ The experimental results demonstrated that authorization is not a simple calibra
 This work is significant because it highlights a fundamental bottleneck in deploying secure coding agents: direct policy generation is inherently flawed due to the dual requirement of discovering all necessary accesses while rejecting all unnecessary ones. By identifying that reasoning alone cannot solve this and proposing a decomposition strategy, the paper provides a practical pathway for enhancing the security and reliability of autonomous coding agents in real-world, sensitive environments.
 
 ## Related Concepts
-- Least-Privilege Authorization
-- Permission-Boundary Inference
-- AuthBench Benchmark
-- Sufficiency-Tightness Decomposition
-- Coding Agent Security
-- Inference-Time Reasoning
-- Policy Generation
 
-[[Do Coding Agents Understand Least-Privilege Authorization?]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -31,13 +31,8 @@ Experimental results indicate that all tested LLM families exhibited strongly ne
 This work is significant because it demonstrates that complex agent behaviors can be evolved through prompt-injected memory rather than expensive gradient updates. It offers a scalable, compute-efficient alternative to traditional fine-tuning methods, particularly for hierarchical agents in high-stakes domains like cybersecurity. By showing that weaker models benefit disproportionately, FORGE suggests a pathway to democratize high-performance agent capabilities across diverse model architectures.
 
 ## Related Concepts
-- Large Language Model Agents
-- Reinforcement Learning from Human/AI Feedback (RLHF) alternatives
-- Prompt Engineering
-- Reflexion Framework
-- Population-Based Training
-- Partially Observable Markov Decision Processes (POMDP)
-- Cybersecurity Simulation (CybORG)
-- In-Context Learning
 
-[[FORGE: Self-Evolving Agent Memory With No Weight Updates via Population Broadcast]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -18,3 +18,10 @@ The broader AI landscape is moving toward open standards such as the Model Conte
 
 ## Implications  
 For the AI field, this update signals that voice assistants will become more capable of handling real‑world, context‑rich tasks, potentially reducing reliance on manual interfaces. It also raises concerns about data privacy and security as more third parties expose their services to Alexa Plus, prompting regulators and manufacturers to consider how to protect user information while fostering innovation.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

@@ -18,3 +18,10 @@ The broader AI landscape is moving toward tighter safety controls as large langu
 
 ## Implications  
 If offensive researchers cannot freely probe systems using AI tools, critical vulnerabilities may remain undiscovered longer than intended, allowing attackers to exploit them first. This slows overall system hardening, undermines trust in AI‑assisted security solutions, and could exacerbate an arms race where defensive measures become counterproductive. The field must therefore find mechanisms that preserve safety while enabling responsible use of AI for security testing.
+
+## Related Concepts
+
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

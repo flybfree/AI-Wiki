@@ -18,3 +18,10 @@ U.S. tech layoffs have reached roughly 140,000 jobs since the start of 2026, dri
 
 ## Implications  
 This trend signals that AI is reshaping employment patterns, prompting organizations to reconsider workforce planning beyond pure cost reduction. For companies, it underscores the need to align headcount changes with strategic goals rather than purely cost‑driven decisions.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

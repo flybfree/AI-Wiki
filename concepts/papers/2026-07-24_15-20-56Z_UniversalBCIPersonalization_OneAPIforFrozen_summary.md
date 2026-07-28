@@ -24,3 +24,10 @@ This work decouples personalization from architecture, enabling OEMs to swap tru
 
 ## Related Concepts  
 Frozen encoders, Bayesian heads, BrainState, affine mid‑tier, PEFT, LDA on embeddings, trunk‑agnostic API, personalization wall time, confidence intervals, foundation models (REVE).
+
+## Related Concepts
+
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

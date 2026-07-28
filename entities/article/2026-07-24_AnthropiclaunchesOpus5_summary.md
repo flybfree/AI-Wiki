@@ -68,3 +68,10 @@ This may lead to a bifurcated market: one side using Anthropic’s “plug‑and
 ---
 
 **Bottom line:** Opus 5 marks a pivotal moment for Anthropic—demonstrating that safety, multimodality, and high performance can coexist. The launch not only reshapes the competitive dynamics of large‑language‑model providers but also signals broader shifts toward responsible AI deployment, new business models for developers, and heightened regulatory attention on how these technologies are used across industries.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

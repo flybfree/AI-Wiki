@@ -31,12 +31,9 @@ On ITBench OpenTelemetry-demo snapshots, the audited system raises the root‑ca
 ## Significance  
 This work moves root‑cause analysis from heuristic to auditable reasoning, reducing reliance on scenario‑specific shortcuts that can mislead incident responders. By enforcing evidence‑based conclusions through graph typing and deterministic execution, the system improves diagnostic reliability in large‑scale Kubernetes environments where failures are complex and noisy.  
 
-## Related Concepts  
-- Graph Traversal Agent (the proposed RCA system)  
-- Typed event graph (formal representation of incidents)  
-- LangGraph (state‑machine traversal framework for LLMs)  
-- Auditable reasoning (verifiable, reproducible conclusions)  
-- Evidence‑based root cause analysis (RCA)  
-- F1 score (evaluation metric for entity classification)
+## Related Concepts
 
-[[Auditable Graph-Guided Root Cause Analysis for Kubernetes Incidents]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

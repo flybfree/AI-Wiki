@@ -31,12 +31,8 @@ Experimental evaluations were conducted on MNIST and CIFAR-10 datasets using var
 This work is significant because it offers a new paradigm for intellectual property protection in generative AI. By embedding watermarks in the dynamics rather than static parameters, it addresses vulnerabilities associated with weight-based watermarking, which can be removed through fine-tuning or pruning. This method provides a robust, distribution-preserving way to authenticate generative models, which is critical for copyright enforcement and trust in AI-generated content.
 
 ## Related Concepts
-- Flow Matching Models
-- Continuous Dynamics
-- Random Coding Theory
-- Watermarking Generative Models
-- Velocity Field Perturbation
-- Black-Box Querying
-- Intellectual Property Protection in AI
 
-[[Dynamics-Level Watermarking of Flow Matching Models with Random Codes]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

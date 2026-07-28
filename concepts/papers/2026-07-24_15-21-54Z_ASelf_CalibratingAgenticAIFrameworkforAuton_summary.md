@@ -30,3 +30,10 @@ This work provides a reliable method for deploying autonomous AI at the edge, re
 - Leaping algorithm  
 - Edge computing  
 - Zero‑knowledge workloads
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]

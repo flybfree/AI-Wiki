@@ -31,13 +31,8 @@ Extensive evaluations on the SQA3D benchmark demonstrated that SpatioRoute achie
 This research is significant because it provides a cost-effective and efficient method for enhancing spatial reasoning in VLMs without the computational overhead of fine-tuning or the hardware requirements of 3D sensors. It challenges the prevailing assumption that Chain-of-Thought prompting is universally beneficial, offering a nuanced understanding of when and how to apply reasoning techniques in spatial contexts. This work paves the way for more robust and adaptable egocentric AI systems that can better understand and interact with 3D environments in real-world scenarios.
 
 ## Related Concepts
-- Zero-Shot Spatial Reasoning
-- Vision-Language Models (VLMs)
-- Egocentric Video Understanding
-- Dynamic Prompt Routing
-- SQA3D Benchmark
-- Chain-of-Thought (CoT) Prompting
-- Spatial Question Answering (VQA)
-- Prompt Engineering
 
-[[SPATIOROUTE: Dynamic Prompt Routing for Zero-Shot Spatial Reasoning]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

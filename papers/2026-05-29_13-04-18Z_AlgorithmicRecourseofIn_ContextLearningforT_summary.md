@@ -31,12 +31,9 @@ Theoretical experiments confirm that the derived bounds hold across diverse ICL 
 ## Significance  
 By providing a mathematically sound and computationally efficient recourse mechanism for ICL on tabular data, this work bridges the gap between high‑stakes decision making and algorithmic accountability. It enables regulators and stakeholders to intervene in model outputs without retraining, reducing reliance on costly human audits while preserving fairness and interpretability.
 
-## Related Concepts  
-- In‑Context Learning (ICL)  
-- Tabular Data Prediction  
-- Algorithmic Recourse / Post‑Hoc Explanations  
-- Black‑Box Models  
-- Zeroth‑Order Optimization  
-- Subspace Approximation
+## Related Concepts
 
-[[Algorithmic Recourse of In-Context Learning for Tabular Data]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

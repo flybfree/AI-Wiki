@@ -18,3 +18,10 @@ The AI industry is increasingly shifting toward community‑driven solutions as 
 
 ## Implications  
 For the field of artificial intelligence, this openness fosters a more inclusive ecosystem, encourages rigorous research, and mitigates financial risks associated with proprietary services. In industry, it can accelerate deployment timelines, improve compliance with regulations, and drive competitive advantage through bespoke model solutions.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

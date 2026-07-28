@@ -31,7 +31,9 @@ Across all experiments, model‑generated skills increased success rates on aver
 ## Significance  
 Understanding the full skill lifecycle is crucial for scalable AI development, where handcrafted skills are costly. This work reveals that extracting only high‑quality features and designing consumable skills can mitigate adverse effects, offering a practical path to more robust, adaptable agents.
 
-## Related Concepts  
-Skill extraction, domain adaptation, negative transfer, meta‑skill design, utility‑grounded evaluation.
+## Related Concepts
 
-[[From Raw Experience to Skill Consumption: A Systematic Study of Model-Generated Agent Skills]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]

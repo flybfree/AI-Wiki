@@ -31,7 +31,9 @@ Experiments on mathematical reasoning benchmarks show that AutoTTS‑discovered 
 ## Significance  
 Automating TTS design reduces research effort, eliminates costly LLM calls during evaluation, and democratizes access to better test‑time scaling improvements, enabling scalable model enhancements without prohibitive resource expenditure.
 
-## Related Concepts  
-Test‑Time Scaling (TTS), controller synthesis, environment‑driven discovery, beta parameterization, reasoning trajectories, probe signals, width‑depth TTS.
+## Related Concepts
 
-[[LLMs Improving LLMs: Agentic Discovery for Test-Time Scaling]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]

@@ -30,11 +30,9 @@ Theoretical analysis confirms that the error floor in stabilization is proportio
 ## Significance  
 This work bridges theoretical control theory and machine learning under real-world constraints, offering a principled framework for deploying AI in fusion energy systems where data is incomplete. By proving stability through provable bounds rather than simulation alone, it enables trustworthy deployment of learned controllers in safety-critical environments. The entropy-based loss function provides a measurable criterion for assessing the feasibility of imitation learning, making it applicable beyond plasma physics to other partially observed control problems.
 
-## Related Concepts  
-- Vlasov–Poisson equations: kinetic description of plasma dynamics  
-- Imitation learning: behavior cloning from expert trajectories  
-- Partial observability: limitations in real-time feedback systems  
-- Entropy-based complexity measures: information-theoretic quantification of uncertainty  
-- Lyapunov stability: mathematical criterion for system stabilization
+## Related Concepts
 
-[[Provable imitation learning for control of instability in partially-observed Vlasov--Poisson equations]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

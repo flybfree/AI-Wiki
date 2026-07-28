@@ -18,3 +18,10 @@ The broader AI landscape is shifting from purely functional outputs to human‑c
 
 ## Implications  
 For AI developers and investors, this acquisition signals a new competitive advantage: investing in user‑experience design can unlock higher engagement and monetization potential. It also suggests that future AI products may be evaluated not just on model accuracy but on how seamlessly they integrate personality and workflow, reshaping product roadmaps and market expectations across the industry.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

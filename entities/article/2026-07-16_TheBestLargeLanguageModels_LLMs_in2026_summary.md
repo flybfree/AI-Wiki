@@ -18,3 +18,10 @@ Large language models have moved from lab experiments to everyday applications s
 
 ## Implications  
 For businesses and developers, the implications are clear: reliance on a single model can be risky as alternatives appear daily. Organizations should adopt flexible architectures that support multiple LLMs, leverage open‑source options for cost control, and regularly evaluate performance using tools like Zapier’s AutomationBench leaderboard to ensure optimal workflow automation.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

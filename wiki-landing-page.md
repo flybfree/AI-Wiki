@@ -112,3 +112,7 @@ Quick start: [README.md](README.md)
 - [Ilya Sutskever Reading List](ilya-sutskever-reading-list.md)
 - [Course Syllabus](concepts/ai-foundations/ai-ml-foundations-syllabus.md)
 - [Course Map](concepts/ai-foundations/ai-ml-foundations-course-map.md)
+
+## Concept Maps
+
+- [[concepts/knowledge-management/ai-research-concept-map.md|AI Research Concept Map]]

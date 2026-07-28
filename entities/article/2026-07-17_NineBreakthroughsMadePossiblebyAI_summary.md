@@ -18,3 +18,10 @@ These projects illustrate how AI is being integrated across multiple scientific 
 
 ## Implications  
 The implications extend beyond individual studies; they signal a broader shift toward AI‑augmented scientific discovery that can shorten drug development timelines, improve early disease detection, and enable non‑invasive biomedical monitoring. As AI tools become more reliable and scalable, they will likely be adopted by other institutions worldwide, accelerating progress in treating complex diseases like Alzheimer’s and tuberculosis while transforming how we understand human physiology.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

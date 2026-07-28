@@ -18,3 +18,10 @@ Within the broader AI landscape, recognition mechanisms such as awards play a cr
 
 ## Implications  
 The emergence of the AI Breakthrough Awards signals that competitive recognition is becoming a strategic priority for firms seeking to attract talent, funding, and partnerships. For the field, such awards can raise standards by encouraging rigorous research, promote collaboration across sectors, and ultimately accelerate the responsible deployment of intelligent systems worldwide.
+
+## Related Concepts
+
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

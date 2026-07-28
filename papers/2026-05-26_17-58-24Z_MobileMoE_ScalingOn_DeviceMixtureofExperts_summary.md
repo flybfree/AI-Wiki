@@ -31,12 +31,8 @@ Experimental results show that MobileMoE matches or exceeds the performance of l
 This work is significant because it proves that MoE architectures are viable and superior for sub-billion parameter models on resource-constrained devices. It challenges the assumption that dense models are the only practical option for mobile LLMs, offering a path toward more powerful, efficient, and scalable on-device AI applications without requiring cloud dependency.
 
 ## Related Concepts
-- Mixture-of-Experts (MoE)
-- On-Device AI
-- Sub-billion Parameter Models
-- Quantization-Aware Training
-- Mobile LLM Inference
-- Scaling Laws
-- Parameter Efficiency
 
-[[MobileMoE: Scaling On-Device Mixture of Experts]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

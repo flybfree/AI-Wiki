@@ -32,3 +32,10 @@ The approach suggests a way to accelerate superconductors research while maintai
 - Published: 2026-04-26T15:14:38Z
 - URL: http://arxiv.org/abs/2604.23758v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_15-14-38Z_AgenticFusionofLargeAtomicandLanguageModelstoAccel.md
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

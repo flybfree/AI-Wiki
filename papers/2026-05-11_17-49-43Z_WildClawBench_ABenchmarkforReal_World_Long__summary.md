@@ -31,14 +31,9 @@ Across 19 frontier models evaluated on WildClawBench, Claude Opus 4.7 achiev
 ## Significance  
 WildClawBench demonstrates that long‑horizon, native‑runtime agent evaluation is still an open problem for state‑of‑the‑art models. By providing a set of realistic, multimodal tasks with a transparent grading scheme and fully containerized tooling, the benchmark enables fair comparison across different harnesses and offers a community resource to advance research in long‑term agency.
 
-## Related Concepts  
-- Agent benchmarking  
-- Multimodal task design  
-- CLI harnesses (OpenClaw, Claude Code, Codex, Hermes Agent)  
-- Hybrid grading (rule‑based + LLM/VLM)  
-- Environment‑state auditing of side effects  
-- Long‑horizon tasks  
-- Real tools vs. mock services  
-- Reproducible evaluation pipelines
+## Related Concepts
 
-[[WildClawBench: A Benchmark for Real-World, Long-Horizon Agent Evaluation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

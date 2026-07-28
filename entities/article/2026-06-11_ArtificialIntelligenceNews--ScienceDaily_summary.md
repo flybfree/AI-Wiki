@@ -18,3 +18,9 @@ Placeholder summary — please add a concise summary of this article.
 # Artificial Intelligence News -- ScienceDaily
 
 **Source**: [Original Article](https://www.sciencedaily.com/news/computers_math/artificial_intelligence/)
+
+## Related Concepts
+
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]

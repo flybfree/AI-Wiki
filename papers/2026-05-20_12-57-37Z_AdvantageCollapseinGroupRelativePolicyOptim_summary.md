@@ -31,13 +31,8 @@ Experimental results demonstrate that ACR is a strong predictor of training stag
 This research is significant because it addresses a fundamental limitation in the optimization of large language models using RLVR frameworks. By diagnosing advantage collapse and providing a computationally efficient solution (AVSPO), the authors enable more stable and effective training of reasoning models. This allows researchers and practitioners to achieve higher accuracy with existing computational resources, accelerating the development of robust LLMs for complex logical and mathematical tasks.
 
 ## Related Concepts
-- Group Relative Policy Optimization (GRPO)
-- Reinforcement Learning from Verifiable Rewards (RLVR)
-- Advantage Collapse
-- Advantage Collapse Rate (ACR)
-- Adaptive Virtual Sample Policy Optimization (AVSPO)
-- Vanishing Gradients
-- Large Language Models (LLMs)
-- Mathematical Reasoning
 
-[[Advantage Collapse in Group Relative Policy Optimization: Diagnosis and Mitigation]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

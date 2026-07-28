@@ -28,3 +28,10 @@ The *AI Breakthrough Awards* ceremony, held on 12 September 2025 at the Gran
 4. **Societal Trust** – By embedding transparency and fairness checks into the core of AI pipelines, organizations can mitigate public backlash and regulatory penalties, fostering a more inclusive technological ecosystem.
 
 Overall, the *AI Breakthrough Awards* underscore that the next wave of AI innovation is not just about smarter algorithms—it’s also about aligning those advances with ethical imperatives and tangible societal benefits.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

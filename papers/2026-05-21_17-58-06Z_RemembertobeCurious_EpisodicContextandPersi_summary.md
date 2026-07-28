@@ -31,12 +31,9 @@ Compared to RL‑based active mapping baselines (e.g., MAPF), the proposed syste
 ## Significance  
 This work resolves a longstanding limitation of curiosity learning in photorealistic 3D: the inability to sustain exploration due to transient world models and lack of episodic memory. By integrating persistent reconstruction with sequence‑based episodic policies, the authors provide a scalable architecture that can be deployed directly from RGB inputs, opening avenues for real‑world robotics and transferable AI agents.
 
-## Related Concepts  
-- Intrinsic reward / curiosity signal  
-- Persistent world model (online 3D reconstruction)  
-- Episodic memory in reinforcement learning  
-- Sequence modeling over visual observations  
-- Active mapping baselines  
-- Zero‑shot generalization to new environments
+## Related Concepts
 
-[[Remember to be Curious: Episodic Context and Persistent Worlds for 3D Exploration]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

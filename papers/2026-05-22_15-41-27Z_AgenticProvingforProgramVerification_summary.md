@@ -34,7 +34,9 @@ The authors employed an agentic proving framework where Claude Code is tasked wi
 ## Significance  
 These results reveal a growing mismatch between the difficulty of existing program verification benchmarks and the capabilities of modern agentic provers, highlighting that isomorphism‑based scoring may be insufficient for assessing generated specifications. The study underscores the need for more rigorous, bug‑resilient evaluation methods and suggests that compiler‑in‑the‑loop agentic paradigms are presently the most effective approach for foundational program verification.
 
-## Related Concepts  
-Agentic systems, theorem proving, program verification, CLEVER benchmark, isomorphism‑based scoring, end‑to‑end pipeline, self‑diagnostic feedback, compiler‑in‑the‑loop, generative AI.
+## Related Concepts
 
-[[Agentic Proving for Program Verification]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

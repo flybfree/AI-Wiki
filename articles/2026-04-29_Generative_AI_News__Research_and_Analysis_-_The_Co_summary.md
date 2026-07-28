@@ -34,3 +34,10 @@ The closure of Sora has profound implications for the future of digital media pr
 - [[2026-05-09_AgentArchitectureEvolution.md]
 - [[2026-06-08_BuildingEffectiveAgents_Anthropic.md]
 - [[2026-06-09_MachineLearningArchitectureHub.md]
+
+## Related Concepts
+
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/vision-ai/vision-ai-hub.md|Vision AI Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

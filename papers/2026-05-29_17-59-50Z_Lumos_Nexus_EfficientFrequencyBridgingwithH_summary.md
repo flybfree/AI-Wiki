@@ -31,12 +31,8 @@ Extensive experiments indicate that Lumos-Nexus achieves substantial gains in vi
 This work is significant because it resolves a fundamental tension in unified video generation: the difficulty of integrating high-quality visual synthesis with complex reasoning without incurring excessive computational costs. By proving that a lightweight generator can effectively learn semantic control and that UPFB can recover high fidelity at inference, Lumos-Nexus offers a scalable path forward for developing intelligent video creation tools that are both affordable to train and high-quality in output.
 
 ## Related Concepts
-- Unified Video Generation Models
-- Reasoning-Driven Video Synthesis
-- Latent Space Alignment
-- Frequency Bridging
-- Coarse-to-Fine Refinement
-- Computational Efficiency in Generative AI
-- VR-Bench Benchmark
 
-[[Lumos-Nexus: Efficient Frequency Bridging with Homogeneous Latent Space for Video Unified Models]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

@@ -31,12 +31,8 @@ The experiments demonstrated that segment-level refinement following an initial 
 These findings are significant because they clarify the actual mechanisms and limitations of current LLM refinement approaches in literary translation. By demonstrating that refinement improves style and fluency more than adequacy, the study warns against over-relying on refinement for factual correctness. It provides practitioners with a clear, evidence-based recipe for optimizing translation pipelines, emphasizing the importance of granularity and prompt simplicity. This helps set realistic expectations for the utility of self-refinement in high-stakes literary contexts.
 
 ## Related Concepts
-- Iterative Self-Refinement
-- Document-Level Literary Translation
-- Inference-Time Strategies
-- Granularity in Translation
-- Prompt Engineering for Refinement
-- Human Evaluation of Machine Translation
-- LLM Distribution Bias
 
-[[What Does LLM Refinement Actually Improve? A Systematic Study on Document-Level Literary Translation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

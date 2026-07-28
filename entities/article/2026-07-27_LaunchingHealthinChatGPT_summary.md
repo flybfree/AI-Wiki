@@ -18,3 +18,10 @@ The rollout reflects a broader trend in AI where conversational agents are being
 
 ## Implications  
 For the AI industry, this launch underscores how health data can enhance user experience while demanding rigorous safeguards to maintain trust. For healthcare providers and patients, it opens a pathway to more proactive, personalized care coordination, potentially reducing redundant testing and improving self‑management. However, successful adoption will hinge on continued privacy protections and clear communication about what the AI can and cannot do with sensitive information.
+
+## Related Concepts
+
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]

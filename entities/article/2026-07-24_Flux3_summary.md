@@ -18,3 +18,10 @@ The development reflects the industry shift toward multimodal foundation models 
 
 ## Implications  
 This work matters because it demonstrates a practical route to AI systems that can perceive, predict and act on real‑world events, opening possibilities for autonomous agents, immersive media and safe physical interaction, thereby accelerating the convergence of generative AI with embodied robotics and smart environments.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

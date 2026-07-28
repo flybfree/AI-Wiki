@@ -18,3 +18,10 @@ Google’s ATLAS is a large‑scale, de‑identified analysis of human‑AI inte
 
 ## Implications  
 Understanding these patterns helps policymakers, employers, and researchers design interventions that maximize productivity while mitigating displacement risks, ensuring AI benefits are shared equitably across the global economy.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

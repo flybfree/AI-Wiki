@@ -31,12 +31,8 @@ Extensive experiments conducted across diverse multimodal benchmarks demonstrate
 This research is significant because it addresses a fundamental bottleneck in the deployment of large-scale Vision-Language Models. By shifting from continuous approximations to discrete reinforcement learning, GRIP-VLM provides a more theoretically sound and practically effective method for token pruning. This advancement enables more efficient inference, making VLMs more accessible for resource-constrained environments and paving the way for scalable multimodal AI applications.
 
 ## Related Concepts
-- Vision-Language Models (VLMs)
-- Token Pruning
-- Reinforcement Learning
-- Group Relative Policy Optimization (GRPO)
-- Markov Decision Process (MDP)
-- Discrete Optimization
-- Computational Efficiency
 
-[[GRIP-VLM: Group-Relative Importance Pruning for Efficient Vision-Language Models]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

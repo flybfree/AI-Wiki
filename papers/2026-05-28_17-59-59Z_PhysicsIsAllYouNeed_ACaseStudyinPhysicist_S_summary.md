@@ -31,12 +31,9 @@ Ten solutions resolved autonomously by iterating against oracle tests; two requi
 ## Significance  
 The findings demonstrate that current AI models lack architectural creativity and explanatory correctness; trustworthiness hinges on carefully designed supervision rather than model scaling alone. This highlights a gap in scientific AI development where agents must propose alternative structures and distinguish predictive adequacy from physical truth, capabilities not demonstrated here.
 
-## Related Concepts  
-- Differentiable perturbation theory (CLAX‑PT)  
-- JAX framework for physics computing  
-- Oracle testing for code correctness  
-- Supervised AI coding agent supervision design  
-- Unphysical numerical patches in scientific software  
-- CLASS‑PT branch choice and BAO damping concepts
+## Related Concepts
 
-[[Physics Is All You Need? A Case Study in Physicist-Supervised AI Development of Scientific Software]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/vision-ai/vision-ai-hub.md|Vision AI Hub]]

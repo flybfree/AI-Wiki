@@ -18,3 +18,10 @@ Artificial intelligence is rapidly reshaping work, education, health, and cultur
 
 ## Implications  
 For the field, this initiative signals that responsible AI development must be coupled with genuine dialogue and measurable follow‑through. It could set a precedent for other companies to prioritize transparency, reduce speculation about risk, and embed public benefit into product roadmaps, ultimately influencing policy and consumer confidence.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]

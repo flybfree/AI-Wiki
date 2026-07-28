@@ -31,14 +31,8 @@ Experimental results indicate that Fast-Slow Training is up to 3 times more samp
 This research is significant because it challenges the binary choice between in-context learning and parameter updating, proposing a synergistic approach that leverages the strengths of both. By mimicking human cognitive processes, it offers a pathway to create more robust, adaptable, and efficient LLMs that can learn continuously without losing their foundational capabilities. This has profound implications for deploying LLMs in real-world environments where tasks evolve rapidly and data is scarce.
 
 ## Related Concepts
-- Large Language Models (LLMs)
-- In-Context Learning
-- Reinforcement Learning (RL)
-- Catastrophic Forgetting
-- Plasticity and Stability
-- Continual Learning
-- System 1 vs. System 2 Thinking
-- KL Divergence
-- Fast-Slow Learning Framework
 
-[[Learning, Fast and Slow: Towards LLMs That Adapt Continually]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

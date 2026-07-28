@@ -18,3 +18,10 @@ The rollout follows a broader trend in AI health assistants where conversational
 
 ## Implications  
 This integration could democratize access to contextual health advice, empowering patients to manage chronic conditions more proactively. However, it also raises concerns about data security and the potential for overreliance on AI in critical medical decisions, prompting regulators and developers to balance innovation with safeguards.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

@@ -18,3 +18,10 @@ The United States is experiencing a surge in hyperscale data center construction
 
 ## Implications  
 For the AI industry, this backlash could accelerate regulatory scrutiny, influence corporate sustainability strategies, and shape public demand for “human‑centric” AI solutions. Policymakers may need to balance innovation with community concerns, potentially leading to stricter environmental standards or supply‑chain diversification mandates that affect both large tech firms and smaller data‑center operators.
+
+## Related Concepts
+
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

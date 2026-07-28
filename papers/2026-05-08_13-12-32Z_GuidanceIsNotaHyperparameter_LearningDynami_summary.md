@@ -31,7 +31,9 @@ Experiments on three controlled NLP generation tasks (e.g., text summarization, 
 ## Significance  
 By decoupling guidance from hyperparameter tuning, the work opens a path toward more expressive, task‑aware generative models where control adapts automatically to content complexity. This insight could extend beyond NLP to image or 3D diffusion generation, where static guidance often limits creative freedom and usability.
 
-## Related Concepts  
-Classifier‑Free Guidance (CFG), diffusion models, reinforcement learning (Proximal Policy Optimization – PPO), hyperparameter tuning, sequential decision making, generative AI, NLP task control.
+## Related Concepts
 
-[[Guidance Is Not a Hyperparameter: Learning Dynamic Control in Diffusion Language Models]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

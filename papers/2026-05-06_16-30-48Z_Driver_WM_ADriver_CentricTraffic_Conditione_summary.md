@@ -31,11 +31,9 @@ On the benchmark, Driver‑WM outperforms baseline models in both geometric traj
 ## Significance  
 Driver‑WM advances autonomous driving by providing a unified framework for predicting both external and internal dynamics, which is critical for safe human‑in‑the‑loop systems. Its causal conditioning enables systematic testing of intervention strategies, accelerating the development of trustworthy L2/L3 interfaces that respect driver autonomy.
 
-## Related Concepts  
-- Latent world models  
-- Causal injection mechanisms  
-- Vision‑language embeddings  
-- Dual‑stream architectures  
-- In‑cabin dynamics rollout
+## Related Concepts
 
-[[Driver-WM: A Driver-Centric Traffic-Conditioned Latent World Model for In-Cabin Dynamics Rollout]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

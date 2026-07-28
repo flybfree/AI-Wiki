@@ -18,3 +18,9 @@ Placeholder summary — please add a concise summary of this article.
 # Generative AI
 
 **Source**: [Original Article](https://r.jina.ai/http://generativeai.pub/)
+
+## Related Concepts
+
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

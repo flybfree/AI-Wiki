@@ -33,13 +33,8 @@ The experimental evaluation conducted in the Asymmetric Combat Tactic Simulator 
 This research is significant because it bridges the gap between generative AI capabilities and the rigorous demands of military operational planning. By integrating dynamic adversarial verification directly into the planning loop, IFPV ensures that generated plans are not only creative but also practically viable and resilient against enemy countermeasures. This approach enhances decision-making reliability in high-stakes environments, potentially saving lives and resources by preventing the execution of flawed tactical strategies.
 
 ## Related Concepts
-- Multi-Agent Systems
-- Generative Operational Planning
-- Adversarial Simulation
-- Large Language Models (LLMs) in Defense
-- Tactical Action Sequences
-- Asymmetric Combat
-- Plan Verification and Validation
-- Commander Intent Decomposition
 
-[[IFPV: An Integrated Multi-Agent Framework for Generative Operational Planning and High-Fidelity Plan Verification]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

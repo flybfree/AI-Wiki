@@ -31,13 +31,8 @@ Extensive experiments were conducted across seven mathematical reasoning benchma
 This research is significant because it provides a practical and effective solution for enhancing LLM performance at inference time without the need for external data, which is often a limiting factor in real-world deployments. By enabling models to self-correct and adapt to specific query structures, QueST addresses the issue of model misconceptions and rigid parameter settings. This advancement brings us closer to more robust, adaptive, and reliable AI systems capable of handling complex, dynamic reasoning tasks in real-time.
 
 ## Related Concepts
-- Test-Time Scaling
-- Test-Time Optimization
-- Parameter-Efficient Fine-Tuning (PEFT)
-- Self-Supervised Learning
-- Large Language Models (LLMs)
-- Mathematical Reasoning
-- Scientific Reasoning
-- Inference-Time Adaptation
 
-[[Query-Conditioned Test-Time Self-Training for Large Language Models]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

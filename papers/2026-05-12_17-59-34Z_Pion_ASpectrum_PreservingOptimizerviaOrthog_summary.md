@@ -31,11 +31,8 @@ Empirical experiments demonstrate that Pion provides a stable and effective opti
 This work matters because it challenges the long-standing assumption that additive updates are necessary for effective gradient-based optimization in deep learning. By proving that orthogonal transformations can effectively navigate the loss landscape while preserving spectral properties, Pion opens new avenues for designing stable, scalable, and theoretically grounded optimizers for massive models. It offers a new perspective on the role of weight magnitude versus weight geometry in training dynamics.
 
 ## Related Concepts
-- Orthogonal Equivalence Transformation
-- Singular Value Decomposition (SVD)
-- Spectral Norm Preservation
-- Large Language Model (LLM) Optimization
-- Gradient-Based Optimization
-- Weight Matrix Geometry
 
-[[Pion: A Spectrum-Preserving Optimizer via Orthogonal Equivalence Transformation]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

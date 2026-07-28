@@ -32,3 +32,10 @@ Case-specific rubrics may enable larger-scale, iterative clinical AI evaluation 
 - Published: 2026-04-27T17:17:56Z
 - URL: http://arxiv.org/abs/2604.24710v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-27_17-17-56Z_Case_SpecificRubricsforClinicalAIEvaluation_Method.md
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

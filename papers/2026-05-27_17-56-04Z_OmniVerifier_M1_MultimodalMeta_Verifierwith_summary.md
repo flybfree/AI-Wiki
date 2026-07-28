@@ -31,7 +31,9 @@ OmniVerifier‑M1 achieves higher F1 scores (e.g., 89 % vs 78 % baseline) an
 ## Significance  
 By replacing model‑based auxiliary judges with symbolic meta‑verification and separating learning objectives, the method offers a scalable, interpretable verification pipeline that enhances safety in foundation models without sacrificing performance.
 
-## Related Concepts  
-multimodal meta‑verification, symbolic rationales, reinforcement learning, binary judgment, fine‑grained error localization, agentic generation, self‑correction, foundation model deployment.
+## Related Concepts
 
-[[OmniVerifier-M1: Multimodal Meta-Verifier with Explicit Structured Recalibration]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

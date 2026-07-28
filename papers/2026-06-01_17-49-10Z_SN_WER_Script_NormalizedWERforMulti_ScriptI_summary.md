@@ -31,12 +31,9 @@ Experiments were conducted on two datasets: FLEURS (curated Indic data) and Comm
 ## Significance  
 SN‑WER provides a script‑insensitive evaluation metric that complements WER and CER, enabling fair comparison across multilingual ASR systems. By exposing artificial inflation caused by romanization, it guides model improvement efforts toward genuine acoustic challenges rather than superficial script handling, thereby improving downstream tasks such as search relevance or LLM grounding.  
 
-## Related Concepts  
-- Word Error Rate (WER)  
-- Character Error Rate (CER)  
-- Romanization/transliteration  
-- Canonical script representation  
-- Script‑insensitive evaluation  
-- Token collision rate
+## Related Concepts
 
-[[SN-WER: Script-Normalized WER for Multi-Script Indic ASR Evaluation]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

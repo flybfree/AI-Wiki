@@ -31,11 +31,9 @@ Experiments show that attribute induction yields modest gains (≈12 % improve
 ## Significance  
 HERO’S JOURNEY quantifies a longstanding difficulty: LLMs can learn simple declarative rules but falter when those rules must be executed dynamically. By exposing this split between rule inference and procedural execution, the benchmark guides future research toward more robust procedural reasoning mechanisms in language models.
 
-## Related Concepts  
-- Rule induction  
-- Procedural vs. attribute learning  
-- Large language model (LLM) performance on multi‑step tasks  
-- Execution bottlenecks  
-- Surface semantics vs. underlying logic
+## Related Concepts
 
-[[HERO'S JOURNEY: Testing Complex Rule Induction with Text Games]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

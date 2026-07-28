@@ -31,12 +31,8 @@ Extensive experiments conducted on various standard benchmarks demonstrate the e
 This research is significant because it resolves a fundamental trade-off in discrete generative modeling: the conflict between model expressiveness and sampling speed. By making the forward process learnable, FLDD enables discrete diffusion models to compete with continuous diffusion models and autoregressive models in terms of efficiency. This advancement is crucial for deploying generative AI in resource-constrained environments or applications requiring real-time generation, such as interactive media or rapid prototyping. It opens new avenues for optimizing the entire diffusion trajectory rather than just the reverse process.
 
 ## Related Concepts
-- Discrete Diffusion Models
-- Generative AI
-- Few-Step Generation
-- Non-Markovian Processes
-- Variational Inference
-- End-to-End Training
-- Forward-Reverse Process Alignment
 
-[[Forward-Learned Discrete Diffusion: Learning how to noise to denoise faster]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]

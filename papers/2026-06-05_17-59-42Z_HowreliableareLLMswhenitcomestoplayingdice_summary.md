@@ -31,12 +31,9 @@ The baseline accuracy for standard problems averaged 0.96 (i.e., 96 % correct)
 ## Significance  
 These findings reveal a critical gap between LLMs’ apparent competence in advanced mathematics and their genuine probabilistic reasoning abilities, especially for simple stochastic events like dice rolls. The results caution against overestimating model reliability when subtle or deceptive prompts are used, underscoring the need for more robust evaluation of reasoning under adversarial conditions.
 
-## Related Concepts  
-- Large language models (LLMs)  
-- Chain‑of‑thought prompting  
-- Heuristic reasoning  
-- Probabilistic inference  
-- Token bias / formulation sensitivity  
-- Embedding manipulation in prompts
+## Related Concepts
 
-[[How reliable are LLMs when it comes to playing dice?]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

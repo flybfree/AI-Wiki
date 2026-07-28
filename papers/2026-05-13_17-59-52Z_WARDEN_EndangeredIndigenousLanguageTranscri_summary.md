@@ -31,12 +31,8 @@ Empirical evaluations demonstrate that WARDEN significantly outperforms both lar
 This research is crucial for the preservation and revitalization of endangered languages like Wardaman. By proving that high-quality transcription and translation are possible with minimal data through clever architectural design and linguistic priors, WARDEN offers a scalable template for processing other low-resource languages. It shifts the paradigm from requiring massive datasets to leveraging linguistic knowledge and modular AI systems, thereby democratizing access to language technology for indigenous communities.
 
 ## Related Concepts
-- Low-resource Natural Language Processing (NLP)
-- Endangered Language Preservation
-- Phonetic Transcription
-- Cross-lingual Transfer Learning
-- Large Language Models (LLMs) for Translation
-- Two-stage Machine Translation Pipelines
-- Indigenous Language Technology
 
-[[WARDEN: Endangered Indigenous Language Transcription and Translation with 6 Hours of Training Data]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

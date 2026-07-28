@@ -73,3 +73,10 @@ Lightweight Federated Learning (FL) offers the promise of collaborative model tr
 ### Conclusion  
 
 Information‑Theoretically Secure Aggregation (ITSA) demonstrates that lightweight federated learning can be both **privacy‑preserving** and **adversarially resilient**, even under realistic client dropouts. By integrating adaptive secret sharing with robustness‑aware sampling, ITSA delivers state‑of‑the‑art accuracy while maintaining minimal computational overhead—making it a practical candidate for edge‑deployment FL systems where data integrity is paramount.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

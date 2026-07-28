@@ -31,3 +31,10 @@ By enforcing a proactive least‑privilege model, the work reduces the attack su
 - Role‑based ceilings  
 - Task‑context classification  
 - Policy‑derived prohibitions
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

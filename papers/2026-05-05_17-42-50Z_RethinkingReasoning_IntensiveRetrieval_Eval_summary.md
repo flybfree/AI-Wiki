@@ -32,11 +32,8 @@ Experiments across lexical, general‑purpose, and reasoning‑intensive retriev
 This work advances reasoning‑intensive retrieval beyond static similarity matching, providing a benchmark that aligns with agentic search workflows. The synthetic training data encourages portfolio construction of complementary evidence, which is crucial for multi‑step synthesis tasks in autonomous agents.
 
 ## Related Concepts
-- Reasoning‑intensive retrieval  
-- Agentic search systems  
-- Evidence portfolio construction  
-- Multi‑aspect gold annotation  
-- LoRA fine‑tuning  
-- BRIGHT benchmark
 
-[[Rethinking Reasoning-Intensive Retrieval: Evaluating and Advancing Retrievers in Agentic Search Systems]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

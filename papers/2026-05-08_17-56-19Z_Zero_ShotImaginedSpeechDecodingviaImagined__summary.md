@@ -31,13 +31,9 @@ Rank‑based analysis of the held‑out subjects showed that imagined words were
 ## Significance  
 This work provides a proof‑of‑concept for zero‑shot imagined speech decoding using only listening MEG data, eliminating the need for extensive imagined datasets and subject‑specific calibration. The scalable pipeline could enable real‑time brain‑computer interfaces where imagined commands are translated into motor output without invasive recordings.
 
-## Related Concepts  
-- Imagined speech decoding  
-- MEG (magnetoencephalography)  
-- Brain‑computer interface (BCI)  
-- Temporal alignment of neural data  
-- Linear and neural regression models  
-- Contrastive learning for embeddings  
-- Rank‑based evaluation of decoding performance
+## Related Concepts
 
-[[Zero-Shot Imagined Speech Decoding via Imagined-to-Listened MEG Mapping]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

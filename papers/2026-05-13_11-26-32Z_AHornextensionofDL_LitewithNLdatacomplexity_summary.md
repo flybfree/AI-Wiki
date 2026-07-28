@@ -31,13 +31,8 @@ The primary theoretical result is the proof that ELbotpreceq supports reasoning 
 This work is significant because it breaks the rigid AC0 vs. PTime dichotomy that has historically limited OMQA solutions. By providing a logic that is both expressive enough for complex graph patterns and computationally efficient enough for large-scale data, it opens the door for OMQA to be integrated directly into modern graph database systems. This alignment with standard graph query languages makes OMQA more practical for real-world applications involving complex networked data, such as social networks or biological pathways.
 
 ## Related Concepts
-- Ontology-Mediated Query Answering (OMQA)
-- DL-Lite Description Logic
-- Data Complexity (NL vs. PTime)
-- Horn Description Logics
-- Stratification Mechanisms
-- Nested Two-Way Regular Path Queries
-- GQL and SQL/PGQ Standards
-- ELI Description Logic
 
-[[A Horn extension of DL-Lite with NL data complexity]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

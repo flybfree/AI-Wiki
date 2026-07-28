@@ -31,12 +31,8 @@ The experimental results indicate that an RL-improved 8B teacher, distilled thro
 This work matters because it provides a practical, empirically validated guideline for optimizing post-training pipelines when labeled data is limited. It shifts the paradigm from viewing sparse RL and dense distillation as competing methods to viewing them as complementary phases in a reward-density continuum. This insight allows practitioners to achieve higher performance with smaller models by strategically leveraging larger models for exploration and dense knowledge transfer, thereby reducing the computational and data costs associated with direct on-policy training on small deployments.
 
 ## Related Concepts
-- Group Relative Policy Optimization (GRPO)
-- On-Policy Distillation (OPD)
-- Reward Density (Sparse vs. Dense)
-- Forward-KL Warmup
-- Teacher-Student Knowledge Transfer
-- Post-Training Alignment
-- Verifiable Math Benchmarks (MATH, AIME)
 
-[[Beyond GRPO and On-Policy Distillation: An Empirical Sparse-to-Dense Reward Principle for Language-Model Post-Training]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

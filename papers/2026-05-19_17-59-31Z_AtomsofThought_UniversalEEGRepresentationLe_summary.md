@@ -31,14 +31,8 @@ Experimental results indicate that the proposed microstate-based representation 
 This research is significant because it establishes a universal standard for EEG representation, addressing a major bottleneck in the field of brain-computer interfaces and neuroinformatics. By providing a scalable and interpretable framework, it facilitates easier comparison of results across different studies and datasets. Furthermore, the enhanced interpretability opens new avenues for clinical research, allowing clinicians and researchers to link specific neural patterns directly to cognitive states or pathological conditions. This work paves the way for more accurate, efficient, and accessible neurotechnology applications in the future.
 
 ## Related Concepts
-- Electroencephalogram (EEG)
-- Brain-Computer Interfaces (BCIs)
-- EEG Microstates
-- Universal Representation Learning
-- Discrete Tokenization
-- Sleep Staging
-- Emotion Recognition
-- Motor Imagery Classification
-- Neuroinformatics
 
-[[Atoms of Thought: Universal EEG Representation Learning with Microstates]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

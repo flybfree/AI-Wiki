@@ -18,3 +18,10 @@ These developments illustrate the growing integration of quantum algorithms with
 
 ## Implications  
 For researchers, this convergence promises faster discovery cycles and more robust models; for industry, it signals a shift toward autonomous hardware that lowers latency and cost; for society, speech‑based AI can detect early signs of cognitive decline, offering earlier intervention opportunities.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

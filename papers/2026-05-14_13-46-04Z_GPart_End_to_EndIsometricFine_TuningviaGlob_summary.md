@@ -31,11 +31,8 @@ Experimental evaluations show that GPart matches or exceeds the performance of e
 GPart represents a paradigm shift in parameter-efficient fine-tuning by challenging the dominance of low-rank approximations. It proves that isometry is crucial for effective optimization in PEFT and offers a theoretically sound, computationally lightweight alternative. This simplification reduces the complexity of fine-tuning pipelines, making them more accessible and scalable for deploying large models in resource-constrained environments.
 
 ## Related Concepts
-- Parameter-Efficient Fine-Tuning (PEFT)
-- Low-Rank Adaptation (LoRA)
-- Isometric Mapping
-- Random Projections
-- Optimization Landscape Geometry
-- Large Language Model Adaptation
 
-[[GPart: End-to-End Isometric Fine-Tuning via Global Parameter Partitioning]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

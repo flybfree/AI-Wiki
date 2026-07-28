@@ -31,13 +31,8 @@ On text-only EHR tasks, ClinSeekAgent improved the overall F1 score of Claude Op
 This research is significant because it moves clinical AI from static, data-dependent models to dynamic, autonomous agents capable of handling real-world clinical workflows where evidence is scattered and heterogeneous. By demonstrating that active evidence seeking significantly boosts accuracy and that these complex behaviors can be distilled into smaller models, the work paves the way for more accessible, efficient, and robust clinical decision support systems that do not rely on expensive, large-scale proprietary models.
 
 ## Related Concepts
-- Agentic Clinical Reasoning
-- Multimodal Evidence Seeking
-- Large Language Models (LLMs) in Healthcare
-- Electronic Health Records (EHR) Analysis
-- Knowledge Distillation
-- Dynamic Hypothesis Refinement
-- Medical Imaging Integration
-- ClinSeek-Bench
 
-[[ClinSeekAgent: Automating Multimodal Evidence Seeking for Agentic Clinical Reasoning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -31,7 +31,9 @@ Experimental evaluations on both real‑world datasets (e.g., clinical monitorin
 ## Significance  
 AnchorMoE bridges a critical gap in high‑stakes time series analysis by delivering interpretable predictions without sacrificing accuracy. By guaranteeing that each expert specializes in distinct patterns and by filtering out unreliable segments, the model supports safe deployment where transparent reasoning is mandatory, such as medical diagnosis or industrial fault detection.
 
-## Related Concepts  
-Mixture‑of‑Experts (MoE), additive decomposition, geometric orthogonality constraint, reliability gate, uncertainty‑aware weighting, multi‑view encoding, interpretable AI, time series classification.
+## Related Concepts
 
-[[AnchorMoE: Interpretable Time Series Classification via Anchor-Routed MoE]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

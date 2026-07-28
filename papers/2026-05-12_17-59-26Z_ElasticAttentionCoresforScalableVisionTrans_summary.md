@@ -31,13 +31,8 @@ VECA was evaluated across various classification and dense vision tasks. The exp
 This work is significant because it decouples the performance of Vision Transformers from the quadratic scaling law that has historically limited their efficiency. By proving that rich visual semantics can be captured through indirect communication via core tokens, the paper opens new avenues for designing scalable, efficient, and flexible vision models. This approach enables the deployment of powerful vision AI in real-time and high-resolution applications that were previously computationally prohibitive.
 
 ## Related Concepts
-- Vision Transformers (ViTs)
-- Self-Attention Mechanism
-- Core-Periphery Network Structure
-- Linear Complexity Attention
-- Elastic Inference
-- High-Resolution Vision Processing
-- Sparse Attention
-- Computational Efficiency in Deep Learning
 
-[[Elastic Attention Cores for Scalable Vision Transformers]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

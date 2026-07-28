@@ -31,13 +31,9 @@ Across ~1.9K tasks involving four base models and five domains, retrieval consis
 ## Significance  
 This work provides a systematic framework for diagnosing why LLMs fail to use APIs, moving beyond binary pass/fail metrics to granular diagnostic insights. It clarifies the complementary roles of retrieval and fine‑tuning in API acquisition, informing future system design that balances volatile content delivery with procedural integration.
 
-## Related Concepts  
-- Large language models (LLMs)  
-- Tool use / function calling  
-- Retrieval‑augmented generation  
-- Parameter adaptation / fine‑tuning  
-- Knowledge bundles (signatures, paths, contracts)  
-- Dynamic benchmarking  
-- Diagnostic categories for model failure
+## Related Concepts
 
-[[Diagnosing Knowledge Gaps in LLM Tool Use: An Agentic Benchmark for Novel API Acquisition]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]

@@ -31,13 +31,9 @@ Across all experiments on LLMScan, LLMSurgeon recovers the true domain mixture w
 ## Significance  
 LLMSurgeon offers a practical, post‑hoc audit tool for foundation models, addressing the critical need for transparency in pretraining data composition. By enabling researchers and practitioners to verify or detect hidden data mixtures without proprietary training data, it supports responsible AI development, regulatory compliance, and trustworthy model deployment.
 
-## Related Concepts  
-- **Data mixture**: The combination of multiple domains in an LLM’s pretraining corpus.  
-- **Inverse problem**: Recovering latent parameters from observed outputs.  
-- **Soft confusion matrix**: A probabilistic representation of classifier errors across domains.  
-- **Label‑shift assumption**: That domain labels are misaligned with true class distributions, aiding reconstruction.  
-- **Calibration**: The alignment between predicted probabilities and actual likelihoods.  
-- **Domain confusion**: Systematic misclassification due to mixed data sources.  
-- **LLMScan**: A verification suite for evaluating mixture‑recovery methods.
+## Related Concepts
 
-[[LLMSurgeon: Diagnosing Data Mixture of Large Language Models]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

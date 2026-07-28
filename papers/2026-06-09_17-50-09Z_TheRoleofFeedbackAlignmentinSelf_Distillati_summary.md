@@ -31,9 +31,9 @@ Average@12 scores show step‑aligned critique > reference solution > binary rew
 ## Significance  
 These findings highlight that feedback must be structurally aligned to the model’s reasoning for effective self‑distillation, offering a design principle for improving continual learning and memory retention in LLMs without external supervision. The results suggest practical guidelines for designing feedback mechanisms that preserve existing knowledge while correcting errors.
 
-## Related Concepts  
-- Self‑distillation  
-- Feedback alignment  
-- GRPO (Gradient Reinf​forcement Policy Optimization)  
-- Step‑aligned critique  
-- Structured alignment
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

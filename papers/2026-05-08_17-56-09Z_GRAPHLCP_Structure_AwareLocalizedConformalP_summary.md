@@ -31,11 +31,9 @@ Experiments on multiple regression (e.g., housing price) and classification (e.g
 ## Significance  
 GRAPHLCP bridges the gap between CP’s finite‑sample robustness and the unique challenges of graph data, enabling reliable uncertainty estimates for GNN predictions. By explicitly modeling topology, it reduces indeterminacy and improves calibration, which is crucial for safety‑critical applications such as network analysis and medical imaging.  
 
-## Related Concepts  
-- Conformal Prediction: distribution‑free uncertainty quantification.  
-- Graph Neural Networks (GNNs): learn node embeddings from graph structure.  
-- Personalized PageRank: eigenvector centrality adapted to a personalized graph.  
-- Localized Confidence Intervals: region‑based prediction sets.  
-- Marginal Coverage: theoretical guarantee that at least one prediction is correct.
+## Related Concepts
 
-[[GRAPHLCP: Structure-Aware Localized Conformal Prediction on Graphs]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

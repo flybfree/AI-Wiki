@@ -60,3 +60,10 @@ EvolvingWorld advances the field by modeling literary worlds as dynamic ecosyste
 
 **Discussion & Future Work**  
 The results demonstrate that co‑evolving agents and worlds can substantially enhance narrative richness without sacrificing coherence. However, the framework’s scalability remains a challenge; future work will explore distributed schema registries and multiplayer co‑evolution scenarios where multiple human agents jointly shape a shared literary universe.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

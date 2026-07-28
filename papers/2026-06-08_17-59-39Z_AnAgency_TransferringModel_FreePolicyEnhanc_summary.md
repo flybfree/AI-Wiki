@@ -31,5 +31,9 @@ Experimental evaluations on continuous‑control benchmarks demonstrate that the
 ## Significance  
 This work offers a practical pathway to accelerate RL training by exploiting existing suboptimal policies, thereby cutting down compute and engineering effort. It also establishes a principled bridge between theory (lower bounds) and practice (high‑performing agents), highlighting how agency transfer can be a robust strategy for scalable reinforcement learning.
 
-## Related Concepts  
-functional baseline, agency transferring, model‑free RL, goal reaching probability, lower bound derivation, arbitration mechanism, standalone policy.
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

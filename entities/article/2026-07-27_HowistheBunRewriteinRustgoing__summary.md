@@ -18,3 +18,10 @@ The piece reflects a broader AI hype cycle where companies tout rapid code gener
 
 ## Implications  
 If such rewrites become routine, they may mask unsustainable costs and unrealistic timelines, eroding trust in AI’s productivity claims and destabilizing the collaborative foundations of open‑source software development.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

@@ -31,12 +31,8 @@ Extensive evaluations were conducted on various datasets, with a primary focus o
 This research matters because it fundamentally shifts the paradigm of dimensionality reduction from discrete approximations to continuous function representations. By addressing the limitations of discrete methods, NOFE provides a more accurate and robust tool for analyzing complex, continuous data such as climate models, fluid dynamics, and other physical processes. The ability to generalize across varying sample densities and disjoint patches makes NOFE particularly valuable for real-world applications where data collection is irregular or incomplete, offering a new standard for preserving both local and global structural integrity in high-dimensional data analysis.
 
 ## Related Concepts
-- Dimensionality Reduction
-- Neural Operators
-- Sheaf Neural Networks
-- Graph Kernel Operators
-- Continuous Domain Learning
-- Climate Reanalysis (ERA5)
-- Local and Global Structure Preservation
 
-[[NOFE -- Neural Operator Function Embedding]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

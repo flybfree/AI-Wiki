@@ -31,12 +31,8 @@ Experimental evaluations demonstrate that FactorizedHMR remains competitive with
 This research is significant because it challenges the monolithic approach to HMR by acknowledging and exploiting the heterogeneous nature of 3D ambiguity in human poses. By factorizing the recovery process, it offers a more robust solution for real-world applications where occlusion and poor depth cues are common. The proposed synthetic data pipeline also contributes to the broader field by providing a scalable method for generating diverse, supervised training data, potentially benefiting other 3D vision tasks.
 
 ## Related Concepts
-- Human Mesh Recovery (HMR)
-- Probabilistic Flow-Matching
-- Deterministic Regression
-- Classifier-Free Guidance
-- Synthetic Data Generation
-- Occlusion Handling
-- World-Space vs. Camera-Space Metrics
 
-[[FactorizedHMR: A Hybrid Framework for Video Human Mesh Recovery]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]

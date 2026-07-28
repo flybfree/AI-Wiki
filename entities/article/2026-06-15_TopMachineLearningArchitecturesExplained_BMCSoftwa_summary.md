@@ -16,3 +16,10 @@ Placeholder summary — please add a concise summary of this article.
 
 
 # Top Machine Learning Architectures Explained – BMC Software | Blogs
+
+## Related Concepts
+
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

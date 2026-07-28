@@ -31,7 +31,9 @@ Across four benchmark datasets, CHRONOS achieves a recall of 0.937 at ten querie
 ## Significance  
 CHRONOS provides a practical operating point where high recall, low latency, and strong differential‑privacy guarantees coexist, enabling large‑scale data marketplaces to coordinate agents without sacrificing utility or privacy. The explicit three‑layer design offers clear theoretical bounds and scalable implementation for evolving temporal data environments.
 
-## Related Concepts  
-Temporal decay, neural ODE, Shapley valuation, changepoint detection, differential privacy (ε/δ), EXP3‑IX, moments accounting, Gaussian mechanism, post‑processing retrieval.
+## Related Concepts
 
-[[CHRONOS: Temporally-Aware Multi-Agent Coordination for Evolving Data Marketplaces]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

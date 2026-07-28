@@ -18,3 +18,10 @@ The rapid iteration of large language models reflects an industry shift toward m
 
 ## Implications  
 For developers and product managers, the new capabilities signal opportunities to integrate more sophisticated reasoning and code‑generation features directly into applications, potentially reducing reliance on separate tools. For investors, the consistent benchmark gains suggest sustained market demand for high‑performing models, reinforcing confidence in AI as a core revenue driver across tech sectors.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

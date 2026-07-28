@@ -31,7 +31,9 @@ Theoretical analysis confirms that dense retrieval struggles with compositional 
 ## Significance  
 SeedER matters because it offers an efficient, scalable retrieval mechanism for knowledge graphs where exact answers are costly to compute. By balancing cost and quality through submodular optimization, the method enables large‑scale reasoning systems to retrieve relevant nodes quickly, reducing downstream processing load. Its compositional design also makes it adaptable to future KG extensions without redesigning the entire retrieval pipeline.
 
-## Related Concepts  
-Knowledge Graphs, Retrieval, Dense Embeddings, Entity‑based Retrieval, Reinforcement Learning, Submodular Optimization, Compositional Queries, Ego‑Graph Expansion.
+## Related Concepts
 
-[[SeedER: Seed-and-Expand Retrieval from Knowledge Graphs]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,13 +31,9 @@ The theoretical analysis proves that O(log n) predictions suffice for a consta
 ## Significance  
 By decoupling explicit predictions from high‑cost metric evaluations, the approach enables scalable deployment in resource‑constrained environments such as mobile devices or IoT networks where generating predictions is expensive. The theoretical lower bound clarifies the fundamental tradeoff between approximation quality and prediction count, providing a benchmark for future work on learning‑augmented online algorithms.  
 
-## Related Concepts  
-- Learning‑augmented algorithms  
-- Follow‑the‑Prediction framework  
-- Online optimization  
-- Virtual predictions  
-- Lower bounds in approximation theory  
-- Approximation guarantees  
-- Metrical task systems
+## Related Concepts
 
-[[Parsimonious Learning-Augmented Online Metric Matching]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

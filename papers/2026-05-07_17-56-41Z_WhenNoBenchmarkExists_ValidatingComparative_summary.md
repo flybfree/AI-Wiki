@@ -31,7 +31,9 @@ The chain produces AUROC values ranging from 0.89 to 1.00, indicating high discr
 ## Significance  
 This work provides a principled method for generating safety evidence when no benchmark exists, allowing stakeholders to compare LLMs on real‑world data without relying on labeled datasets. It clarifies that scores are context‑dependent and must be reported together with deltas, critical rates, uncertainty, and the specific auditor/judge used, preventing misleading rankings.
 
-## Related Concepts  
-benchmarkless comparative safety scoring; instrumental validity; AUROC; variance decomposition (η²); scenario pack; rubric; local‑first instrument SimpleAudit; procurement case study.
+## Related Concepts
 
-[[When No Benchmark Exists: Validating Comparative LLM Safety Scoring Without Ground-Truth Labels]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

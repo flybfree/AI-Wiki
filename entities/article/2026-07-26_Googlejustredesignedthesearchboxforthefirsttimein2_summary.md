@@ -18,3 +18,10 @@ This redesign follows a broader trend in which major tech companies are embeddin
 
 ## Implications  
 The change could redefine how users discover information, turning the search box into a collaborative assistant rather than a static lookup tool. It may accelerate adoption of multimodal AI across industries and set new standards for user experience in search technology.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

@@ -31,9 +31,9 @@ Theoretical analysis predicts that alignment succeeds when nuisance is weakly co
 ## Significance  
 This framework resolves a longstanding ambiguity in multimodal learning, allowing domain experts—especially in biomedical or astrophysical settings with heterogeneous instruments—to quickly identify whether aligning features or predicting shared information is appropriate. By preventing unnecessary training and avoiding harmful cross‑modal interactions, it improves efficiency and reliability of multimodal models.  
 
-## Related Concepts  
-- Cross‑modal alignment (CA)  
-- Cross‑modal prediction (CP)  
-- Whitening in representation learning  
-- Phase diagrams for optimization problems  
-- Spiked signal model with structured noise
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

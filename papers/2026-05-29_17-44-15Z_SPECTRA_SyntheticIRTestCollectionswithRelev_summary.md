@@ -31,7 +31,9 @@ Generation remains linear across 12 K–14 K documents per second; the empir
 ## Significance  
 Synthetic corpora enable early detection of indexing bottlenecks, routing inefficiencies, and relevance oracle inaccuracies at low cost, supporting rapid iteration in IR research and production systems. By providing controllable, large‑scale test data, SPECTRA complements Cranfield‑style and TREC‑style evaluation while highlighting areas where human judgment is still essential.
 
-## Related Concepts  
-Retrieval test collections, Cranfield‑style evaluation, TREC‑style evaluation, synthetic data generation, relevance oracles, distractor diagnostics, Zipf’s law, BM25 nDCG.
+## Related Concepts
 
-[[SPECTRA: Synthetic IR Test Collections with Relevance Oracles and Controlled Distractor Diagnostics]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

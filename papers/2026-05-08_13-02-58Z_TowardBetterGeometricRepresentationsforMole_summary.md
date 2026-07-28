@@ -31,11 +31,9 @@ On the GEOM‑DRUG benchmark, LENSEs attains 97.28 % validity and 98.51 % mo
 ## Significance  
 By treating representation alignment as a pretraining objective, LENSEs opens the door to richer geometric models for molecular generation. The smoother representations facilitate better sampling, reduce over‑fitting, and improve downstream tasks such as property prediction, making this approach valuable for both research and practical applications in drug discovery.  
 
-## Related Concepts  
-- Geometric representation‑conditioned molecule generation  
-- Molecular encoders (e.g., UniMol)  
-- Perceptual loss functions  
-- Node‑level alignment (REPA)  
-- Lipschitz constant reduction for smoother embeddings
+## Related Concepts
 
-[[Toward Better Geometric Representations for Molecule Generative Models]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

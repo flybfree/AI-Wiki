@@ -18,3 +18,10 @@ The generative‑media ecosystem has exploded, creating a fragmented market wher
 
 ## Implications  
 By centralizing model selection, the Media Router lowers development time and reduces risk of suboptimal outputs, encouraging broader adoption of generative media in enterprise applications. It also sets a precedent for “model routing” beyond language models, potentially reshaping market dynamics as companies compete not only on model quality but on infrastructure efficiency and compliance preferences.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -31,11 +31,9 @@ Experimental runs on Loihi 2 completed inference 30 % faster than the GPU ba
 ## Significance  
 This research is significant because it provides the first concrete benchmark for convolutional sparse inference on Loihi 2, bridging theory and hardware. By delineating the operating regimes where convolutional LCA excels, the study guides future algorithmic design and hardware optimization efforts in neuromorphic computing.
 
-## Related Concepts  
-- Sparse coding: representing data with a minimal set of basis functions.  
-- Locally Competitive Algorithm (LCA): a recurrent, leaky‑integrating model with thresholding and lateral inhibition.  
-- Loihi 2: Intel’s neuromorphic processor capable of low‑power, event‑driven computation.  
-- Convolutional feature maps: spatially distributed filters that share weights across receptive fields.  
-- Local inhibitory kernels: derived from pairwise filter interactions to emulate biological inhibition.
+## Related Concepts
 
-[[Convolutional Sparse Coding via the Locally Competitive Algorithm on Loihi 2]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -36,3 +36,10 @@ Common-ground discovery can be framed as a learnable problem with practical quer
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_16-06-41Z_ProbablyApproximatelyConsensus_OntheLearningTheory.md
 
 [[Probably Approximately Consensus: On the Learning Theory of Finding Common Ground]]
+
+## Related Concepts
+
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]

@@ -31,13 +31,8 @@ Empirical evaluations conducted across various model families and multi-agent be
 This work is significant because it provides a practical solution to a previously under-addressed security flaw in efficient LLM multi-agent architectures. As latent communication via KV caches becomes more prevalent for scalability, ensuring that this efficiency does not come at the cost of data privacy is essential. LCGuard establishes a new standard for safe inter-agent communication, enabling the deployment of multi-agent systems in sensitive domains where data leakage could have severe consequences.
 
 ## Related Concepts
-- Large Language Models (LLMs)
-- Multi-Agent Systems
-- Key-Value (KV) Cache Sharing
-- Latent Communication
-- Adversarial Training
-- Information Leakage
-- Representation Learning
-- Data Privacy in AI
 
-[[LCGuard: Latent Communication Guard for Safe KV Sharing in Multi-Agent Systems]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

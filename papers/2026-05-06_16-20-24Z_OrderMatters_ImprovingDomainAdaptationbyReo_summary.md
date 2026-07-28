@@ -31,12 +31,9 @@ Simulations comparing ORDERED with standard stochastic estimators (e.g., Monte�
 ## Significance  
 By addressing a fundamental limitation of stochastic domain adaptation—high variance in discrepancy estimation—the paper enhances model reliability and practical deployment. The technique is agnostic to the specific loss function, making it broadly applicable across unsupervised adaptation tasks, and its lightweight implementation allows integration into existing pipelines without major computational overhead.
 
-## Related Concepts  
-- Unsupervised domain adaptation (UDA)  
-- Stochastic variance reduction  
-- Data reordering / permutation optimisation  
-- Correlation alignment loss  
-- Maximum mean discrepancy (MMD)  
-- Stochastic estimation error analysis
+## Related Concepts
 
-[[Order Matters: Improving Domain Adaptation by Reordering Data]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

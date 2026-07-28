@@ -18,3 +18,10 @@ The article reflects broader trends in AI infrastructure where hyperscale data c
 
 ## Implications  
 This model demonstrates that AI infrastructure can be designed to avoid burdening residents, reduce ecological impact, and embed tangible economic benefits. It may inspire other hyperscalers to adopt similar sustainability and community‑investment frameworks, influencing future regulatory expectations and industry standards for responsible AI deployment.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

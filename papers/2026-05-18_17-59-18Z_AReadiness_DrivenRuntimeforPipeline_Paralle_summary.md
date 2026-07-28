@@ -31,13 +31,8 @@ Experimental evaluations reveal that RRFP consistently improves upon fixed-order
 This research is significant because it tackles a fundamental bottleneck in scaling large-model training: the inefficiency caused by rigid pipeline schedules in the face of unpredictable runtime variability. By demonstrating that dynamic, readiness-based scheduling can substantially reduce idle time and improve hardware utilization, RRFP offers a practical path to faster and more efficient training for next-generation large language and multimodal models. This approach reduces the dependency on precise profiling and static optimization, making pipeline parallelism more robust and accessible for diverse and dynamic workloads.
 
 ## Related Concepts
-- Pipeline Parallelism
-- Runtime Variability
-- Dynamic Scheduling
-- Asynchronous Communication
-- Tensor Parallelism
-- Large Language Model Training
-- Resource Utilization
-- Stage Misalignment
 
-[[A Readiness-Driven Runtime for Pipeline-Parallel Training under Runtime Variability]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

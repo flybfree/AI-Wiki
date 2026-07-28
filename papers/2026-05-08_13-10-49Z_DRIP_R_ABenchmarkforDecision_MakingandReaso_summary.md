@@ -31,7 +31,9 @@ Across 30 policy‑ambiguous scenarios, the average agreement between top models
 ## Significance  
 DRIP‑R provides a concrete, domain‑specific benchmark that forces researchers and practitioners to confront the limits of LLM decision‑making when policies are not fully explicit. By exposing systematic disagreements, it motivates algorithmic improvements such as better policy parsing, uncertainty handling, or hybrid reasoning pipelines.
 
-## Related Concepts  
-policy ambiguity, LLM decision‑making, multimodal conversational agents, tool‑calling in dialogue, multi‑judge evaluation, benchmarking for AI systems.
+## Related Concepts
 
-[[DRIP-R: A Benchmark for Decision-Making and Reasoning Under Real-World Policy Ambiguity in the Retail Domain]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

@@ -26,3 +26,10 @@ While the article itself focuses on JavaScript syntax and mechanics, understandi
 
 ## Implications
 For the AI industry, a deep understanding of JavaScript’s object model allows engineers to build more efficient and scalable web-based AI applications. Misunderstanding the `new` keyword can lead to memory leaks or incorrect prototype chains, which can degrade the performance of real-time AI models running in the browser. Furthermore, as AI tools increasingly integrate into web development workflows, clarity on foundational programming concepts ensures that developers can effectively debug and optimize code that interacts with AI models, leading to more robust and responsive user experiences.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

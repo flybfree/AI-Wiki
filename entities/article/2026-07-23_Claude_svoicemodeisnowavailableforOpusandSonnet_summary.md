@@ -18,3 +18,10 @@ Previously, Anthropic’s voice mode was limited to Haiku, a lightweight model o
 
 ## Implications  
 The move could democratize access to sophisticated AI assistance, reducing friction between users and high‑level problem solving across enterprise platforms. It also raises important questions about data privacy, the handling of sensitive information through voice input, and the potential for misuse if deep models are deployed without robust safeguards.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

@@ -31,11 +31,9 @@ Experiments on the newly defined benchmark reveal that VisualMem achieves a 27�
 ## Significance  
 This research underscores a critical insight: effective long‑term memory for personalized AI agents must account for the rich, often non‑verbal information embedded in images. By preserving image semantics and linking them to user identity through structured visual memory, VisualMem enables agents to answer questions that rely on personal visual context—such as “What did I see at the beach last summer?”—which text alone cannot provide. The findings suggest a future where multimodal memory is standard practice rather than an optional add‑on.  
 
-## Related Concepts  
-- Explicit evidence (directly stated facts)  
-- Implicit evidence (latent user facts inferred from visual or multimodal cues)  
-- Multimodal cues and perception  
-- Hybrid architectures that combine text and image processing  
-- Personalized long‑term memory in AI agents
+## Related Concepts
 
-[[Personal Visual Memory from Explicit and Implicit Evidence]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/vision-ai/vision-ai-hub.md|Vision AI Hub]]

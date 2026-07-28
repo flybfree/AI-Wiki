@@ -31,12 +31,9 @@ In a synthetic setting where known behavioral changes (e.g., altered reasoning s
 ## Significance  
 Providing a statistically grounded, interpretable tool for post‑hoc auditing of intervention‑induced changes is crucial for ensuring model safety, fairness, and reliability. By automatically generating human‑readable hypotheses and summarizing patterns, the pipeline enables stakeholders to understand and mitigate unintended consequences without extensive manual inspection.
 
-## Related Concepts  
-- Contrastive evaluation  
-- Side‑effect detection in LLMs  
-- Intervention auditing  
-- Natural‑language hypothesis generation  
-- Statistical validation of model differences  
-- Prompt bank alignment
+## Related Concepts
 
-[[Automatically Finding and Validating Unexpected Side-Effects of Interventions on Language Models]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

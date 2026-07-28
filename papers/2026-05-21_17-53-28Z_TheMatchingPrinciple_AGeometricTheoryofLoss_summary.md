@@ -31,15 +31,8 @@ Theoretical results include proofs of closed-form optimality and the necessity o
 This work matters because it shifts the perspective on robustness from a collection of ad-hoc tricks to a unified statistical estimation problem. By naming the deployment nuisance covariance and providing a closed-form falsifiable theory, it offers a principled guide for designing future robustness algorithms. This unification allows researchers to transfer insights across different robustness domains, potentially leading to more efficient and theoretically grounded methods for handling distribution shifts and adversarial attacks.
 
 ## Related Concepts
-- Nuisance-Robust Representation Learning
-- Deployment Nuisance Covariance
-- Encoder Jacobian Regularization
-- Domain Adaptation
-- Adversarial Training
-- Invariant Risk Minimization (IRM)
-- CORAL (Correlation Alignment)
-- Trajectory Deviation Index (TDI)
-- Geometric Deep Learning
-- Cube-Root Water-Filling
 
-[[The Matching Principle: A Geometric Theory of Loss Functions for Nuisance-Robust Representation Learning]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

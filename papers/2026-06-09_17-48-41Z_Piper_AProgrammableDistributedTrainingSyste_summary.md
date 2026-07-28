@@ -31,10 +31,9 @@ Experimental evaluations on standard benchmarks show that Piper achieves compara
 ## Significance  
 Piper matters because it removes the bottleneck of expert‑driven parallelism design, allowing rapid experimentation with novel strategies. By abstracting runtime details behind a declarative IR, it lowers development cost and accelerates adoption of cutting‑edge optimizations in foundation model training.  
 
-## Related Concepts  
-- Distributed training  
-- Parallelism (data, pipeline, expert)  
-- ZeRO memory optimization  
-- DualPipe communication scheduling  
-- Intermediate representation (IR) for distributed computation  
-- Graph‑based execution planning
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

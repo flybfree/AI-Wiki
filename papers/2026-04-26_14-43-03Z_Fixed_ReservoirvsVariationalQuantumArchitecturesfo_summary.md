@@ -35,3 +35,10 @@ Our findings suggest the fixed-reservoir architecture is a primary driver of QRC
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-43-03Z_Fixed_ReservoirvsVariationalQuantumArchitecturesfo.md
 
 [[Fixed-Reservoir vs Variational Quantum Architectures for Chaotic Dynamics: Benchmarking QRC and QPINN on the Lorenz System]]
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

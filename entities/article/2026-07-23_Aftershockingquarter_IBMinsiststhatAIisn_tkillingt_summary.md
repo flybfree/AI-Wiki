@@ -18,3 +18,10 @@ The article situates IBM’s struggle within the broader AI boom that has reshap
 
 ## Implications  
 For the AI field, IBM’s stance underscores that core infrastructure technologies can persist despite disruptive trends if they remain essential for data integrity and long‑term reliability. It also signals to investors and competitors that the mainframe market is not doomed, challenging narratives of inevitable obsolescence in an era dominated by rapid AI innovation.
+
+## Related Concepts
+
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

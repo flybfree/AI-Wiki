@@ -31,12 +31,9 @@ Experiments compare several contemporary video‑language and multimodal retriev
 ## Significance  
 VidMsg matters because it bridges the gap between visual perception and pragmatic meaning in short videos, a capability essential for scalable applications such as video search, recommendation, and content moderation. By exposing the limitations of existing systems, VidMsg guides future research toward models that can integrate multimodal cues, perform contextual inference, and discriminate among subtle message variations.
 
-## Related Concepts  
-- Implicit message inference in videos  
-- Multimodal retrieval with language models  
-- Pragmatic reasoning across modalities  
-- Video‑language integration  
-- Fine‑grained target messaging  
-- Benchmarking for holistic video understanding
+## Related Concepts
 
-[[VidMsg: A Benchmark for Implicit Message Inference in Short Videos]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

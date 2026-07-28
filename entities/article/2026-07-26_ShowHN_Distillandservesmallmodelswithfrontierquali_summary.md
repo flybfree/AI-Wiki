@@ -18,3 +18,10 @@ The AI industry is grappling with the high computational cost of large language 
 
 ## Implications  
 This technology democratizes access to high‑performance AI, allowing startups and resource‑constrained organizations to deploy cutting‑edge models at a fraction of the cost. It also encourages a culture of continuous optimization, where every interaction with an agent becomes a learning opportunity that improves the underlying model over time.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

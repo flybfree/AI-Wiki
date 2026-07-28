@@ -31,11 +31,9 @@ Extensive experiments on several multimodal datasets show that ASAM (the propose
 ## Significance  
 Robust multimodal knowledge editing is crucial for practical deployment of MLLMs because it enables large‑scale updates that do not compromise existing capabilities. By integrating adversarial robustness with low‑rank subspace alignment, the paper offers a scalable solution that can be applied to diverse visual‑linguistic domains, potentially reducing the need for extensive retraining and improving model adaptability.
 
-## Related Concepts  
-- Multimodal large language models (MLLMs)  
-- Intrinsic knowledge editing  
-- Adversarial robustness / Latent Adversarial Robustification (LAR)  
-- Low‑rank subspace learning / Rank‑Constrained Subspace Learning (RCSL)  
-- Semantic equivalence units / Knowledge units
+## Related Concepts
 
-[[Beyond Binary Edits Robust Multimodal Knowledge Editing with Adversarial Subspace Alignment]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

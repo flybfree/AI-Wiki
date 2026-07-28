@@ -66,3 +66,10 @@ PinEqualizer is a research‑driven framework that maps the complete content fun
 **Conclusion**
 
 PinEqualizer demonstrates that a systematic, data‑driven approach can simultaneously improve user experience and promote equity on Pinterest. By exposing hidden bias points in the full funnel and providing a replicable debiasing toolkit, the system offers a scalable pathway for other social platforms to align algorithmic outcomes with their diversity goals. The measurable uplift in engagement, creator earnings, and diversity validates that fairness and performance are not mutually exclusive—they can be engineered together.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

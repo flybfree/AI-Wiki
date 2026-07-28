@@ -31,14 +31,8 @@ Theoretical analysis reveals that the proposed framework ensures that sincere vo
 This research is significant because it resolves the long-standing challenge of combining computational efficiency with robust democratic principles in social choice theory. By providing a polynomial-time solution that handles complex metric spaces, it enables scalable and fair governance for large-scale digital communities. The integration of AI mediation and constitutional amendment mechanisms offers a practical blueprint for self-governing organizations, bridging the gap between theoretical aggregation models and real-world implementation.
 
 ## Related Concepts
-- Computational Social Choice
-- Algorithmic Decision Theory
-- Metric Space Aggregation
-- Supermajority Thresholds
-- Constitutional Amendment Mechanisms
-- Coalition Deliberation
-- AI Mediation in Governance
-- Generalized Median
-- Strategic Voting and Sincerity
 
-[[Constitutional Governance in Metric Spaces]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

@@ -31,7 +31,9 @@ Ablation studies show that ANCHOR alone reduces forgetting by 8 % compared wit
 ## Significance  
 AREA provides a principled, end‑to‑end solution for incremental adaptation in CLIP‑based systems, enabling frequent class additions without sacrificing prior performance—a critical capability for applications such as medical imaging, autonomous driving, and recommendation engines where new classes are introduced regularly. By separating extraction from aggregation and grounding both stages on geometric and variational principles, the framework offers a scalable path toward truly continual multimodal learning.
 
-## Related Concepts  
-CLIP‑based Class‑Incremental Learning, attribute extraction, attribute aggregation, catastrophic forgetting, hyperspherical embeddings, geodesic analysis, principal component analysis (PCA) on manifolds, variational information bottleneck (VIBO), optimal transport, task manifolds, incremental learning, multimodal representation learning.
+## Related Concepts
 
-[[AREA: Attribute Extraction and Aggregation for CLIP-Based Class-Incremental Learning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

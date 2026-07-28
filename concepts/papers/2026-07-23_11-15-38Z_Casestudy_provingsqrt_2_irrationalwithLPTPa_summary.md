@@ -23,4 +23,8 @@ The final proof consists of 12 natural‑deduction clauses that LPTP accepted as
 This study highlights a practical pathway for augmenting formal verification with generative AI, reducing manual proof effort and enabling scalable automation in logic programming. This approach could be extended to other mathematical theorems requiring formal proof generation.
 
 ## Related Concepts
-Logic Programming (LP), LPTP theorem prover, Natural Deduction, Large Language Models (LLMs), Irrationality of sqrt(2), Coprimality argument, Formal Verification
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

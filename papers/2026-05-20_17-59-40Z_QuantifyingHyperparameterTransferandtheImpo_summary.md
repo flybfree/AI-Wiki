@@ -31,14 +31,8 @@ The experimental results demonstrate that $\mu$P offers significantly higher-qua
 This work is significant because it provides a clear, mechanistic explanation for the success of $\mu$P in large-scale model training, which is essential for efficient resource allocation in training large language models. By identifying the embedding layer's learning rate as the key differentiator, the paper offers actionable insights for practitioners aiming to optimize hyperparameter transfer. It also clarifies the nuanced role of weight decay, helping researchers avoid pitfalls in scaling law applications. Ultimately, this research advances the understanding of how optimization dynamics scale, facilitating more reliable and efficient training of next-generation AI models.
 
 ## Related Concepts
-- Hyperparameter Transfer
-- Maximal Update ($\mu$P)
-- Standard Parameterization (SP)
-- Learning Rate Scaling
-- Embedding Layer Optimization
-- Scaling Laws
-- AdamW Optimizer
-- Weight Decay
-- Extrapolation Robustness
 
-[[Quantifying Hyperparameter Transfer and the Importance of Embedding Layer Learning Rate]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]

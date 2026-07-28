@@ -31,12 +31,8 @@ Experimental results indicate that AgentRunbook-C achieves the highest performan
 This research matters because it provides a rigorous testbed for developing long-term memory systems that are crucial for agents in specialized web environments. By focusing on the acquisition of experience rather than just immediate task completion, LME-V2 enables researchers to build agents that can truly understand and navigate complex, customized digital landscapes. This advancement is vital for creating autonomous agents that can operate effectively over long durations without requiring constant human supervision or retraining.
 
 ## Related Concepts
-- Long-term memory in AI agents
-- Retrieval-Augmented Generation (RAG)
-- Web agent autonomy
-- Environment-specific knowledge internalization
-- Context gathering and evidence retrieval
-- AgentRunbook architectures
-- Benchmarking AI memory systems
 
-[[LongMemEval-V2: Evaluating Long-Term Agent Memory Toward Experienced Colleagues]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

@@ -28,3 +28,10 @@ These findings matter because they provide concrete evidence that AI coding agen
 - Software development lifecycle stages (concept → integration → release)  
 - Merge rates and defect detection metrics  
 - AIDev dataset, a longitudinal collection of open‑source PRs
+
+## Related Concepts
+
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]

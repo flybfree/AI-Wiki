@@ -31,12 +31,9 @@ Experiments on multiple multimodal continual benchmarks show ProtoAda outperform
 ## Significance  
 ProtoAda provides a principled way to align task semantics with output format, preventing interference that degrades continual instruction tuning. By integrating prototype guidance and geometric consolidation, it enables scalable adaptation without sacrificing existing knowledge, which is crucial for real‑world deployment of multimodal models.
 
-## Related Concepts  
-- Mixture of Experts (MoE)  
-- LoRA (Low‑Rank Adaptation)  
-- Continual Learning  
-- Task Prototypes  
-- Geometric Consistency  
-- Adapter Expansion
+## Related Concepts
 
-[[ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

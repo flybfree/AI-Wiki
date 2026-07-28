@@ -119,3 +119,10 @@ We deployed ECRAM on a fleet of 10 Raspberry Pi devices monitoring temperature
 ### Conclusion  
 
 ECRAM demonstrates that embedding‑based continual learning can be both theoretically sound and practically viable on edge devices.  By storing only compact embeddings and selecting them via a similarity metric, ECRAM achieves state‑of‑the‑art accuracy while dramatically reducing memory footprint and latency.  These findings suggest that ECRAM is a promising candidate for future edge continual‑learning systems where bandwidth, compute, and storage are constrained.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

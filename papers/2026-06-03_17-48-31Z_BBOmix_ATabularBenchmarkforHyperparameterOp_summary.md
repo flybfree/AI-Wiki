@@ -31,12 +31,9 @@ The results reveal that reconstruction loss often misleads optimization, as many
 ## Significance  
 BBOmix democratizes access to large‑scale unsupervised HPO research, enabling reproducible experiments and fair comparisons across studies. It highlights the need for optimization strategies that consider downstream utility rather than reconstruction alone, guiding future work toward more effective representation learning pipelines in genomics and other high‑dimensional fields.
 
-## Related Concepts  
-- Autoencoders (variational, denoising, deep Boltzmann machines, graph neural autoencoders)  
-- Hyperparameter optimization (single‑fidelity, multi‑fidelity, transfer learning)  
-- Unsupervised representation learning in omics data  
-- Multi‑omics integration and modality handling  
-- Reconstruction loss versus downstream task performance correlation  
-- Benchmarking frameworks for deep learning research
+## Related Concepts
 
-[[BBOmix: A Tabular Benchmark for Hyperparameter Optimization of Unsupervised Biological Representation Learning]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

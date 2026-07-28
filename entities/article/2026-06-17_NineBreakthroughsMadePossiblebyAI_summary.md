@@ -16,3 +16,8 @@ Placeholder summary — please add a concise summary of this article.
 
 
 # Nine Breakthroughs Made Possible by AI
+
+## Related Concepts
+
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,12 +31,8 @@ Extensive qualitative and quantitative experiments were conducted on state-of-th
 This work is significant because it provides a unified theoretical framework for aligning diverse generative models, moving beyond the narrow focus on denoising diffusion models. By identifying and correcting the objective mismatch in standard DPO for continuous tasks, it offers a more robust and generalizable approach to preference optimization. This advancement facilitates better alignment of AI-generated content with human preferences, which is crucial for the practical deployment of high-quality text-to-image systems.
 
 ## Related Concepts
-- Direct Preference Optimization (DPO)
-- Diffusion Models
-- Flow-Matching
-- Reverse-time Stochastic Differential Equations (SDE)
-- Exponential Moving Average (EMA)
-- Text-to-Image Generation
-- Preference Alignment
 
-[[Linear-DPO: Linear Direct Preference Optimization for Diffusion and Flow-Matching Generative Models]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

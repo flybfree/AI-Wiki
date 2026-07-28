@@ -18,3 +18,10 @@ Voice AI assistants are expanding beyond chatbots to control software tools and 
 
 ## Implications  
 This capability could accelerate developer workflows by allowing natural language orchestration of code generation and debugging tasks. It also raises privacy concerns around voice data handling and potential misuse in automated systems, as well as new expectations for responsiveness and reliability.
+
+## Related Concepts
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

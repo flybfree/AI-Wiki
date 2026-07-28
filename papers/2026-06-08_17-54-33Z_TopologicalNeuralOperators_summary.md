@@ -31,8 +31,9 @@ Across several PDE benchmarks—including irregular‑geometry flow problems—T
 ## Significance  
 TNOs provide a mathematically grounded alternative to point‑wise operator learning, ensuring that learned models obey physical conservation laws and respect the topology of the domain. By decoupling information flow from transformation, they enable more interpretable and reliable physics‑informed AI. The hierarchical extension addresses scalability challenges inherent in long‑range interactions, making topological modeling practical for large‑scale simulations.
 
-## Related Concepts  
-- Neural Operators (NOs) – function‑based operator learning on point/edge data.  
-- Discrete Exterior Calculus – algebraic framework for operations on simplicial complexes.  
-- Cell Complexes – hierarchical subdivisions of a domain representing geometric support.  
-- Gradient, Curl, Divergence operators – topological differential operators used to model physical fluxes.
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

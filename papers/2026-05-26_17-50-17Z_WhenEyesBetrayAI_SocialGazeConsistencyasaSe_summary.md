@@ -31,7 +31,9 @@ On the COCOAI Interaction subset, balanced accuracy rose from 67.8 % to 71.5�
 ## Significance  
 By introducing Social Gaze Consistency as a high‑level semantic cue, the paper advances detection methods that are less vulnerable to low‑level artifacts and generator‑specific fingerprints. This approach is scalable across diverse AI‑image generators (e.g., diffusion models) and can be integrated into existing vision‑language pipelines without retraining from scratch.
 
-## Related Concepts  
-Social Gaze Consistency, high‑level semantic cues, AI image generation artifacts, vision‑language models, block‑compositional caption supervision, CLIP prior preservation, diffusion family spectral weakness in periocular structure, paired‑edit shortcut blocking, hard‑to‑easy difficulty transfer.
+## Related Concepts
 
-[[When Eyes Betray AI: Social Gaze Consistency as a Semantic Cue for AI-Generated Image Detection]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

@@ -31,13 +31,8 @@ Experimental evaluations demonstrate that RefDecoder achieves consistent improve
 This work is significant because it challenges the prevailing assumption that decoders in latent diffusion models do not require strong conditioning. By proving that conditional decoding significantly enhances visual fidelity and consistency, RefDecoder provides a simple yet powerful upgrade path for existing video generation pipelines. Its ability to generalize to tasks like style transfer and video editing refinement highlights its versatility, making it a valuable tool for improving the reliability and quality of AI-generated visual content.
 
 ## Related Concepts
-- Latent Diffusion Models
-- Video Generation
-- Variational Autoencoders (VAE)
-- Reference Attention
-- Image-to-Video (I2V) Generation
-- Visual Consistency
-- PSNR (Peak Signal-to-Noise Ratio)
-- Decoder Conditioning
 
-[[RefDecoder: Enhancing Visual Generation with Conditional Video Decoding]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

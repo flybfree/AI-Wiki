@@ -32,3 +32,10 @@ The results sharpen the geometry of Lp interactions and may inform future functi
 - Published: 2026-05-06T17:54:51Z
 - URL: http://arxiv.org/abs/2605.05192v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-05-06_17-54-51Z_Almost_OrthogonalityinLpSpaces_ACaseStudywithGrok.md
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

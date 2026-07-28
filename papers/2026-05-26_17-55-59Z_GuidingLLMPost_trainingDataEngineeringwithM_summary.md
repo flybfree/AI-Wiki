@@ -31,7 +31,9 @@ Experiments across multiple model scales show consistent gains; SAERL reaches ta
 ## Significance  
 This work demonstrates that intrinsic model internals can provide a principled, low‑cost source of signals for post‑training data engineering, enabling more efficient RL training without retraining the model or relying on external heuristics. It opens a path toward self‑optimizing data pipelines that adapt to the hidden dynamics of large language models.  
 
-## Related Concepts  
-Sparse Autoencoder, mechanistic interpretability, reinforcement learning post‑training, curriculum learning, diversity control, quality filtering, latent representation extraction.
+## Related Concepts
 
-[[Guiding LLM Post-training Data Engineering with Model Internals from Sparse Autoencoders]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

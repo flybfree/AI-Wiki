@@ -31,7 +31,9 @@ On six‑qubit Clifford circuits (the regime with complete optimal references), 
 ## Significance  
 This work bridges reinforcement learning with quantum circuit synthesis, offering a scalable method that can generate near‑optimal Clifford circuits without handcrafted heuristics. By eliminating the need for circuit splicing or reparameterization across qubit counts, it reduces engineering overhead and enables rapid prototyping of large‑scale quantum devices.
 
-## Related Concepts  
-Clifford group, symplectic matrix representation, reinforcement learning, random walks, equivariance, qubit relabeling invariance, two‑qubit gate synthesis.
+## Related Concepts
 
-[[Equivariant Reinforcement Learning for Clifford Quantum Circuit Synthesis]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

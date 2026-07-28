@@ -18,3 +18,10 @@ The open‑source LLM market is expanding as companies seek alternatives to clos
 
 ## Implications  
 This trend will accelerate AI democratization, allowing smaller firms to compete without licensing barriers while fostering responsible development through auditable code; however, it also raises challenges around quality control and potential fragmentation of the ecosystem. Overall, open source LLMs are poised to reshape industry standards by prioritizing openness over proprietary advantage.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

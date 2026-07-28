@@ -31,11 +31,9 @@ Experiments reveal that agents develop intricate social structures—forming all
 ## Significance  
 This research demonstrates that sustained social interaction can be a powerful driver of AI improvement, moving beyond short‑lived interactions toward genuine learning trajectories. By integrating life reward into LLM training, the work opens avenues for more human‑like agents capable of nuanced, long‑term engagement—potentially reshaping fields such as education, therapy, and collaborative robotics.
 
-## Related Concepts  
-- Multi‑agent societies  
-- Long‑term simulation  
-- Life reward (well‑being metric)  
-- Rejection sampling for LLM training  
-- Anthropomorphic intelligence in AI
+## Related Concepts
 
-[[Agentopia: Long-Term Life Simulation and Learning in Agent Societies]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

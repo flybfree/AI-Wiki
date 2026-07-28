@@ -18,3 +18,10 @@ The article is part of VentureBeat’s Pulse Research series, which surveys 107 
 
 ## Implications  
 The compute gap signals that current AI deployments may be financially unsustainable, prompting costly vendor turnover without clear ROI. If enterprises cannot quantify true cost per inference or anticipate the shift to memory‑centric models, they risk over‑spending on under‑utilized hardware while missing strategic opportunities in emerging compute paradigms. This underscores a need for standardized cost‑tracking tools and early adoption of next‑generation inference architectures to align spending with measurable value.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

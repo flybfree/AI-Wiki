@@ -25,3 +25,10 @@ The rapid adoption of generative AI in the workplace has been dramatic: one exec
 ### Implication
 
 For new hires and MBA graduates, the message is clear: technical skills alone aren't enough. The competitive edge now lies in **AI fluency**, cross-functional synthesis, and workflow redesign—capabilities that turn AI from a tool into a strategic partner.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

@@ -31,12 +31,9 @@ Under the cold‑start regime, the world model’s predicted signals closely mat
 ## Significance  
 This work provides an early deployed validation of a methodology for affective music recommendation when online experimentation is ethically untenable, especially for clinical users who cannot reliably skip songs or report distress. By delivering offline optimisation that improves affective predictions while maintaining diversity, AMRS offers a practical solution that aligns with ethical guidelines and real‑world constraints.
 
-## Related Concepts  
-- Rollout‑based world model  
-- Causal transformer  
-- Direct Preference Optimization (DPO)  
-- Multi‑objective utility function  
-- Behaviour cloning  
-- Cold‑start protocol
+## Related Concepts
 
-[[Affective Music Recommendation: A Rollout-Based World Model for Offline Preference Optimization]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

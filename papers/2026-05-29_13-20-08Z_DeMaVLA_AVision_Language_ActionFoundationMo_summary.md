@@ -31,7 +31,9 @@ DeMaVLA attains competitive performance on the RoboTwin benchmark for deformable
 ## Significance  
 These findings highlight the value of scalable real‑world data acquisition, efficient action generation through transformer pruning, and corrective learning for building general‑purpose VLA policies. DeMaVLA demonstrates that a unified foundation model can reliably perform deformable manipulation in everyday household settings, paving the way for more adaptable and reliable domestic robots.
 
-## Related Concepts  
-Vision‑Language‑Action (VLA) foundation models, deformable object manipulation, flow matching for continuous action generation, transformer layer pruning, human‑in‑the‑loop data aggregation (DAgger), corrective trajectories, mixed dataset training.
+## Related Concepts
 
-[[DeMaVLA: A Vision-Language-Action Foundation Model for Generalizable Deformable Manipulation]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

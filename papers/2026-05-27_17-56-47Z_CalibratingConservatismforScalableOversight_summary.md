@@ -31,10 +31,9 @@ On SWE‑bench, CCO reduced ethical violations while maintaining performance, wi
 ## Significance  
 This work advances scalable oversight by providing a principled, assumption‑free method that can be calibrated in real time. It enables weaker overseers to exert meaningful control over stronger agents, which is crucial for deploying complex AI systems where human expertise may be limited. The finite‑time guarantees and empirical alignment with user targets make CCO a practical tool for responsible AI deployment.
 
-## Related Concepts  
-- Attainable Utility Preservation  
-- Conformal Decision Theory  
-- Collective conservatism  
-- Scalable oversight
+## Related Concepts
 
-[[Calibrating Conservatism for Scalable Oversight]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

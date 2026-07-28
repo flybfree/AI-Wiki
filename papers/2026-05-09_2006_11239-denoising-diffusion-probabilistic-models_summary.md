@@ -31,15 +31,9 @@ Experiments demonstrate that DDPM produces images with PSNR and SSIM scores comp
 ## Significance  
 By replacing adversarial training with a denoising objective, DDPM eliminates many GAN pitfalls such as mode collapse and training instability, enabling reliable, high‑quality image synthesis at scale. This democratizes generative AI, allowing anyone to generate images from text prompts without requiring extensive expertise.
 
-## Related Concepts  
-- diffusion process  
-- reverse diffusion  
-- latent variable model  
-- Gaussian noise  
-- Markov chain  
-- conditional generation  
-- transformers as denoisers  
-- mode collapse  
-- PSNR / SSIM metrics
+## Related Concepts
 
-[[Denoising Diffusion Probabilistic Models" (DDPM)]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

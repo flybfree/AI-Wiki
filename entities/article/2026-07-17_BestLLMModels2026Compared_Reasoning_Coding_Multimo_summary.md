@@ -18,3 +18,10 @@ In 2026, AI labs have accelerated releases, delivering models with one‑million
 
 ## Implications  
 This landscape forces organizations to evaluate workloads against specific capabilities rather than chasing benchmark headlines, driving more efficient deployment strategies and encouraging competition that lowers entry barriers for AI services.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

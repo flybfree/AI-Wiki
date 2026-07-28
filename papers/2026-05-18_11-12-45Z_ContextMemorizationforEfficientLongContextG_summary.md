@@ -31,12 +31,8 @@ Experimental evaluations were conducted using the LLaMA-3.1-8B model on the Many
 This research is significant because it provides a practical, low-cost solution for long-context LLM applications, which are increasingly vital for complex reasoning and document analysis tasks. By eliminating the need for expensive gradient-based training and reducing the computational burden of long sequences, this method makes long-context inference more accessible and scalable. It bridges the gap between the high accuracy of full-context attention and the efficiency of retrieval methods, offering a viable path forward for deploying LLMs in resource-constrained or latency-sensitive environments.
 
 ## Related Concepts
-- Long Context Generation
-- Attention Mechanism
-- In-Context Learning (ICL)
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models (LLMs)
-- Memory-Augmented Neural Networks
-- Computational Efficiency in NLP
 
-[[Context Memorization for Efficient Long Context Generation]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

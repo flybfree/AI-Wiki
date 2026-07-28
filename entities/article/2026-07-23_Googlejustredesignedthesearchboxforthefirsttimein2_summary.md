@@ -18,3 +18,10 @@ This redesign reflects broader trends in generative AI where search engines evol
 
 ## Implications  
 The shift could redefine how users expect to obtain answers, encouraging more complex queries and deeper engagement with AI‑generated content; it may accelerate adoption of multimodal search across platforms, influencing SEO strategies, data privacy concerns around file uploads, and the competitive landscape for AI‑powered search tools.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

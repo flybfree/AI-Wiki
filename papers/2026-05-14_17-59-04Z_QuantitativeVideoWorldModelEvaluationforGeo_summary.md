@@ -31,14 +31,8 @@ Experimental evaluations across various state-of-the-art video generators reveal
 This work is significant because it shifts the evaluation of video generation models from subjective aesthetic quality to objective physical plausibility. By providing a quantitative tool to audit geometric consistency, PDI-Bench enables researchers to identify and rectify fundamental flaws in how models understand 3D space and motion. This is crucial for advancing the reliability of generative video models as true world models, ensuring they can be trusted in applications requiring accurate physical simulation and understanding.
 
 ## Related Concepts
-- Generative Video Models
-- World Models
-- Geometric Consistency
-- Perspective Distortion Index (PDI)
-- Monocular Reconstruction
-- 3D Motion Consistency
-- Structural Rigidity
-- Projective Geometry
-- Video Evaluation Benchmarks
 
-[[Quantitative Video World Model Evaluation for Geometric-Consistency]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

@@ -31,9 +31,9 @@ Experiments on multiple reasoning benchmarks show that FPCG reduces output quali
 ## Significance  
 By moving beyond detection‑based steering toward predictive control, this work opens a path for more reliable and nuanced manipulation of large reasoning models without sacrificing performance. It provides a scalable framework that can be applied to any task requiring controlled generation, potentially improving alignment, safety, and utility in AI systems.
 
-## Related Concepts  
-- Large Reasoning Models (LRMs)  
-- Test‑time steering / activation steering  
-- Activation probes  
-- Behavioral prediction vs. detection features  
-- Text‑level sampling with probe evaluation
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

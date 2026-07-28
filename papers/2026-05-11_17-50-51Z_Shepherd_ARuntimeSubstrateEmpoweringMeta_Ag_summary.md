@@ -31,7 +31,9 @@ Live supervisor intervention raised pair coding pass rates from 28.8 % to 54.7
 ## Significance  
 Shepherd bridges formal verification and high‑performance runtime, offering a reproducible infrastructure that can be reused for any meta‑agent project. Its Git‑style trace ensures full auditability, while the Lean formalization reduces implementation risk. The observed performance improvements validate that lightweight tracing does not hinder agent capabilities, encouraging broader adoption in AI research.
 
-## Related Concepts  
-functional programming, meta‑agents, execution trace, Git‑like logging, Lean formalization, runtime substrate, forked replay, prompt cache reuse, counterfactual exploration, Tree‑RL.
+## Related Concepts
 
-[[Shepherd: A Runtime Substrate Empowering Meta-Agents with a Formalized Execution Trace]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

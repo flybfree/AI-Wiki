@@ -31,12 +31,8 @@ Experimental evaluations indicate that FLECA achieves convergence rates comparab
 This research is significant because it provides a secure, trustless alternative to centralized FL for critical infrastructure like EV battery management. By leveraging blockchain and advanced Byzantine fault tolerance, it ensures data privacy and system integrity without relying on a trusted third party. This advancement is crucial for the scalability and reliability of intelligent transportation systems, where security breaches could have severe physical and economic consequences.
 
 ## Related Concepts
-- Federated Learning (FL)
-- Byzantine Fault Tolerance (BFT)
-- Blockchain Technology
-- Electric Vehicle (EV) Battery Intelligence
-- Decentralized Learning
-- Byzantine-Resilient Aggregation
-- Incentive Mechanisms in Distributed Systems
 
-[[Automated Byzantine-Resilient Clustered Decentralized Federated Learning for Battery Intelligence in Connected EVs]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

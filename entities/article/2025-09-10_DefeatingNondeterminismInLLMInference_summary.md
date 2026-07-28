@@ -27,3 +27,10 @@ Thinking Machines treats that as a tractable engineering problem instead of an u
 ## Implications
 If these techniques hold up broadly, they improve reproducibility for model serving and make inference systems easier to reason about.
 That is especially relevant for evaluation pipelines, agent harnesses, and any product that needs stable behavior across repeated calls.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

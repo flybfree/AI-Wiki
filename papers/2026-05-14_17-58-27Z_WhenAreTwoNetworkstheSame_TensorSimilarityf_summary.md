@@ -31,13 +31,8 @@ The primary result is the successful definition and implementation of tensor sim
 This work is significant because it provides a rigorous, algebraic solution to the problem of verifying mechanistic identity in neural networks. By reducing the measurement of similarity to a solved algebraic problem, it offers a more robust and theoretically sound method for mechanistic interpretability. This advancement allows researchers to verify faithfulness with greater confidence, facilitating a deeper understanding of how neural networks implement computations. It also opens new avenues for analyzing model behavior during critical training phases, such as grokking, where empirical metrics may fall short.
 
 ## Related Concepts
-- Mechanistic Interpretability
-- Tensor Similarity
-- Weight-Space Symmetries
-- Functional Equivalence
-- Grokking
-- Backdoor Insertion
-- Basis-Dependent Parameters
-- Recursive Algorithms
 
-[[When Are Two Networks the Same? Tensor Similarity for Mechanistic Interpretability]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

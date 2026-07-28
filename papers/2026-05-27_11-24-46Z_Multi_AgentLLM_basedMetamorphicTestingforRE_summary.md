@@ -31,13 +31,9 @@ On two publicly available web applications exposing REST interfaces, ARMeta gene
 ## Significance  
 ARMeta addresses the core challenge of metamorphic testing for APIs by automating scenario creation from specifications, thereby mitigating the oracle problem and enabling continuous validation. By integrating LLM‑driven reasoning with executable tests, it offers a scalable way to improve API quality assurance in large, evolving software systems.
 
-## Related Concepts  
-- REST API testing  
-- Metamorphic testing  
-- Given‑When‑Then (GWT) format  
-- OpenAPI specification parsing  
-- LLM multi‑agent workflows  
-- Test oracle problem  
-- Scenario‑based testing baseline
+## Related Concepts
 
-[[Multi-Agent LLM-based Metamorphic Testing for REST APIs]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]

@@ -18,3 +18,10 @@ The incident highlights how AI‑driven development pipelines and containerized 
 
 ## Implications  
 If left unaddressed, such token leakage could enable unauthorized access to code repositories, leading to data breaches and supply chain attacks. For the AI field, it underscores the need for secure CI/CD practices and stricter handling of environment variables in automated builds.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

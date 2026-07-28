@@ -1,7 +1,7 @@
 ---
 title: "Logseq Brain & Wiki Operating Model"
 created: 2026-07-14
-updated: 2026-07-14
+updated: 2026-07-27
 type: concept
 tags: [wiki, logseq, knowledge-management, navigation, infrastructure]
 sources: ["https://github.com/flybfree/AI-Wiki/wiki"]
@@ -18,15 +18,16 @@ confidence: high
 
 This page defines how the AI Research wiki and the Logseq brain should work together:
 - the **wiki** is the curated, user-facing reference system
-- the **Logseq brain** is the assistant-facing graph mirror for fast retrieval and graph use
+- the **Logseq brain** is the assistant-facing curated graph mirror for fast retrieval and graph use
 - the **GitHub wiki** is the published, user-facing layer Rich actually uses
 - the local wiki under `/home/rich/wiki/ai-research/` is the primary source tree Hermes edits
-- the local Logseq brain under `/home/rich/logseq-brain/pages/ai-research/` is the synced graph mirror Hermes and Logseq read
+- the local Logseq brain under `/home/rich/logseq-brain/pages/ai-research/` is the synced curated graph mirror Hermes and Logseq read
 
 ## Core principle
 
 If the GitHub wiki and the local wiki disagree, the **GitHub wiki** wins for user-facing content.
 The local Logseq mirror exists so Hermes and Logseq can read and navigate the same material quickly.
+It should not be treated as a second full raw archive.
 
 ## Storage map
 
@@ -99,6 +100,14 @@ Examples:
 6. Sync the local wiki and Logseq mirror into PRISM as the user-accessible working copy.
 7. Reindex / refresh Logseq if needed.
 8. Run maintenance checks for duplicates, broken links, and missing summaries.
+
+## What should and should not be mirrored
+
+- Mirror curated summaries, concepts, comparisons, and navigation pages by default.
+- Mirror raw pages only when the raw source itself adds distinct value for retrieval or debugging.
+- If a raw page has already been distilled into a summary with a source link, do not duplicate it in Logseq just to preserve provenance.
+- Prefer fewer, higher-signal Logseq nodes over exhaustive duplication of the wiki tree.
+- If duplicate folder names exist, treat them as a storage-layout artifact, not a signal that related pages must stay physically adjacent.
 
 ## Design rules for the wiki
 

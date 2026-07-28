@@ -31,13 +31,9 @@ Experiments on the Qwen‑Math‑7B model across multiple math benchmarks show P
 ## Significance  
 POPO offers an efficient, scalable method for RL with verifiable rewards by eliminating the need for costly negative sampling and combinatorial rollout generation. This improves reasoning capabilities in large language models while reducing computational overhead and memory usage. The implicit‑gradient insight provides a principled way to handle sparse reward signals without sacrificing learning stability.  
 
-## Related Concepts  
-- Verifiable Reward RL (RLVR)  
-- Positive‑only optimization  
-- Implicit negative gradients  
-- Siamese policy networks  
-- Bounded importance sampling  
-- Group Relative Policy Optimization (GRPO)  
-- KL divergence and similarity penalties
+## Related Concepts
 
-[[Beyond Negative Rollouts: Positive-Only Policy Optimization with Implicit Negative Gradients]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

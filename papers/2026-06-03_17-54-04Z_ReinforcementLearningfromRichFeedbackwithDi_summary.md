@@ -31,11 +31,9 @@ Theoretical analysis shows regret bounds for the forward cross‑entropy objecti
 ## Significance  
 By enabling the use of rich, non‑binary feedback and guaranteeing monotonic improvement, DistIL addresses a longstanding limitation of RL from verifiable rewards. The method opens pathways to more robust agents that can learn from detailed traces and corrections rather than just final correctness.
 
-## Related Concepts  
-- DAgger (distributional imitation learning)  
-- Forward cross‑entropy loss  
-- Monotonic policy improvement  
-- Regret bounds in reinforcement learning  
-- Pass@N evaluation metric
+## Related Concepts
 
-[[Reinforcement Learning from Rich Feedback with Distributional DAgger]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

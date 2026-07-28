@@ -31,11 +31,8 @@ The theoretical results include a formalized classification of six runtime patte
 This work matters because it shifts the focus from merely improving model accuracy to engineering robust architectures that can handle the inherent unpredictability of LLMs. By treating the SDB as a first-class object, it provides engineers with a structured way to design, select, and debug agent systems, which is crucial for moving LLM agents from experimental prototypes to reliable production environments.
 
 ## Related Concepts
-- Stochastic-Deterministic Boundary (SDB)
-- Runtime Architecture Patterns
-- Replay Divergence
-- Distributed Systems Concepts
-- Agent Coordination and State Management
-- Production LLM Agents
 
-[[A Methodology for Selecting and Composing Runtime Architecture Patterns for Production LLM Agents]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

@@ -11,9 +11,8 @@ version: 1.0.0
 **Source**: [GitHub Wiki](https://github.com/flybfree/AI-Wiki/wiki)
 
 ## Storage Model
-
 - **Canonical user-facing wiki**: GitHub wiki / local wiki working copy at `/home/rich/wiki/ai-research/`
-- **Assistant-facing graph mirror**: `/home/rich/logseq-brain/pages/ai-research/`
+- **Assistant-facing graph mirror**: `/home/rich/logseq-brain/pages/ai-research/` (curated mirror; not a full raw-source dump)
 - **PRISM fast-access mirror**: `192.168.3.89/logseq-brain`
 - **PRISM wiki mirror**: disabled in the active setup to avoid Logseq collisions
 - **Raw source layer**: `raw/articles/`, `raw/papers/`, `raw/summaries/`
@@ -39,3 +38,9 @@ version: 1.0.0
 - Do not add "AI-adjacent" framing after the fact just to justify inclusion.
 - Update existing pages with new findings.
 - Do not create pages for passing mentions.
+
+## Mirror policy
+- Mirror the curated layer into Logseq by default.
+- Keep raw source captures in the wiki for provenance and auditability.
+- Do not mirror raw article/paper bodies into Logseq unless they provide distinct value beyond the summary page.
+- Prefer one Logseq node per curated article summary, with a visible link back to the original source.

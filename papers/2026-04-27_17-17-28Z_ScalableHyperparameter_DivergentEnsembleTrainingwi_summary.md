@@ -32,3 +32,9 @@ If effective in practice, HDET could improve optimization and generalization wit
 - Published: 2026-04-27T17:17:28Z
 - URL: http://arxiv.org/abs/2604.24708v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-27_17-17-28Z_ScalableHyperparameter_DivergentEnsembleTrainingwi.md
+
+## Related Concepts
+
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

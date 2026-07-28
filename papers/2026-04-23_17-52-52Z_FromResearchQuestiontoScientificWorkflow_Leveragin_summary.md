@@ -36,3 +36,10 @@ A layered agent architecture can make scientific workflow creation more reproduc
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-52-52Z_FromResearchQuestiontoScientificWorkflow_Leveragin.md
 
 [[From Research Question to Scientific Workflow: Leveraging Agentic AI for Science Automation]]
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

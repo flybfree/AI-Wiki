@@ -18,3 +18,10 @@ Current AI research emphasizes multimodal foundation models that produce audioâ€
 
 ## Implications  
 This integration could streamline realâ€‘world applications such as autonomous assembly lines where vision and control are tightly coupled. It also signals a shift toward multimodal models that respect underlying physical laws, potentially reshaping future AI research directions.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]

@@ -31,5 +31,9 @@ Raw context consistently yields the highest open‑domain return scores, indicat
 ## Significance  
 Echo‑Memory provides a compact protocol for studying memory in action world models beyond isolated replay metrics, clarifying trade‑offs between capacity and compression. It highlights that structural choices (e.g., block‑wise recurrence) are crucial for effective long‑term recall, offering researchers a systematic way to isolate and compare memory mechanisms.
 
-## Related Concepts  
-Action‑conditioned world models, video diffusion backbones, memory mechanisms (capacity, compression), read‑out paths, state‑space recurrence, replay fidelity vs. return quality, multi‑branch evaluation protocol.
+## Related Concepts
+
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

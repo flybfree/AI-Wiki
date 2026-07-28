@@ -88,3 +88,10 @@ We set an operational bound \(\text{DAG}_{\max}=1.2\) for acceptable performance
 ---
 
 **Takeaway:** The empirical results confirm that World‑Action Models can “dream right” while “acting wrong,” a phenomenon quantified by the Dream‑Action Gap.  Our decomposition highlights that model fidelity, stochasticity, and reward alignment each play a role, with objective misalignment often being the most damaging factor.  By monitoring DAG in real time, developers can intervene (e.g., re‑calibrating models or adjusting objectives) to close the gap and improve actual performance.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

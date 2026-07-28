@@ -31,7 +31,9 @@ Across all experiments, 64.1 % of conflict samples exhibit the sign flip descr
 ## Significance  
 These findings reveal a systematic loss of audio evidence during multimodal arbitration in ALMs, offering a practical decoding correction that restores faithfulness within a 5 pp budget. The work bridges theory and deployment by providing a training‑free rule that can be integrated into existing pipelines, thereby improving downstream multimodal performance.
 
-## Related Concepts  
-Audio‑language models, arbitration, counterfactual analysis, activation patching, logit interpolation, faithfulness budget, nAUC (normalized area under the curve), vision‑text arbitration.
+## Related Concepts
 
-[[Beyond Text Following: Repairable Arbitration Reversals in Audio-Language Models]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

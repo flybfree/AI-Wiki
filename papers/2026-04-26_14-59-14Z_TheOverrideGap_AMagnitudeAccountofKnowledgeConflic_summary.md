@@ -35,3 +35,10 @@ We release KID-Bench, a 489-question benchmark that separates novel recall, cros
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-59-14Z_TheOverrideGap_AMagnitudeAccountofKnowledgeConflic.md
 
 [[The Override Gap: A Magnitude Account of Knowledge Conflict Failure in Hypernetwork-Based Instant LLM Adaptation]]
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

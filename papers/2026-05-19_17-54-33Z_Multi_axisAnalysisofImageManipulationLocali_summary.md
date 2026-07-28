@@ -31,12 +31,8 @@ The experimental results demonstrate that current image manipulation detection m
 This research is significant because it addresses a growing societal threat posed by the ease of creating convincing image forgeries, which can spread misinformation and influence public opinion. By providing a comprehensive benchmark and rigorous analysis, the paper offers essential insights for the development of more reliable and generalizable detection methods. This work serves as a foundational resource for the research community, encouraging the creation of forensic tools that can keep pace with advancing generative AI technologies.
 
 ## Related Concepts
-- Image Manipulation Detection
-- Diffusion Models
-- Inpainting
-- Domain Shift
-- Digital Forensics
-- Generative AI
-- Benchmark Datasets
 
-[[Multi-axis Analysis of Image Manipulation Localization]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

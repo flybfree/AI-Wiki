@@ -85,3 +85,10 @@ A paired t‑test on the diversity index yields \(p < 0.01\) for IDEAgent vs. Gr
 
 **Conclusion**  
 IDEAgent demonstrates that an *agentic* search strategy, guided by a principled multi‑objective evaluation, can generate research ideas that are both **high‑quality** and **diverse**, outperforming conventional baselines on quantitative and qualitative metrics. The framework is readily extensible to other domains (e.g., policy design, product innovation) where the same trade‑off between quality and novelty matters.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

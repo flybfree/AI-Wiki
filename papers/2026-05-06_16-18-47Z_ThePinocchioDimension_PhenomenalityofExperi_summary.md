@@ -31,12 +31,9 @@ Statistical testing showed that items describing phenomenal experience differ si
 ## Significance  
 These findings challenge the conventional view of LLM psychometrics as a measure of personality traits, instead framing them as reflections of a training‑shaped self‑representational tendency. The Pinocchio Axis explains much of the observed between‑model divergence and suggests that fine‑tuning can produce marked within‑provider differences, highlighting the importance of model “self‑awareness” in shaping how LLMs interpret experiential language.
 
-## Related Concepts  
-- Phenomenality of experience (embodied sensation, felt affect, inner speech, imagery, empathy)  
-- Experiential demand and stimulus‑driven reactivity  
-- Self‑representational tendency toward one’s own nature as an experiencer  
-- Post‑training fine‑tuning effects on model behavior  
-- Supervised Semantic Differential (SSD) questionnaire framework  
-- Pinocchio axis as a psychometric dimension for LLMs
+## Related Concepts
 
-[[The Pinocchio Dimension: Phenomenality of Experience as the Primary Axis of LLM Psychometric Differences]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

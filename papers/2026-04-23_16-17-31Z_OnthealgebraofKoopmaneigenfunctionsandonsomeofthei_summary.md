@@ -36,3 +36,10 @@ Algebraic closure of eigenfunctions can help learn more consistent global dynami
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_16-17-31Z_OnthealgebraofKoopmaneigenfunctionsandonsomeofthei.md
 
 [[On the algebra of Koopman eigenfunctions and on some of their infinities]]
+
+## Related Concepts
+
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

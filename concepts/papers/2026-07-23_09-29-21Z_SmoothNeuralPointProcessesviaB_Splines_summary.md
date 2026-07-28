@@ -85,3 +85,10 @@ Training a BSNPP on a 64 × 64 grid with a depth‑2 network takes ~0.8 s 
 3. **Spatio‑Temporal Modeling** – The learned B‑spline intensity can be combined with a temporal convolutional network to generate realistic point‑process trajectories for simulation.
 
 Overall, our results demonstrate that B‑splines provide an ideal bridge between the flexibility of neural networks and the smoothness guarantees required in many scientific and engineering domains.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

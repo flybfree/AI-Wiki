@@ -16,3 +16,9 @@ Placeholder summary — please add a concise summary of this article.
 
 
 # Top 7 open source LLMs for 2026
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,12 +31,9 @@ On three benchmark sets (e.g., PubChem, Protein‑Ligand, and custom reaction da
 ## Significance  
 This work bridges a longstanding gap between Bayesian optimization and foundation‑model surrogates by providing a principled, low‑overhead adaptation mechanism. It shows that specialized latent‑space objectives can be incorporated without overfitting, encouraging the broader community to leverage in‑context learning for sample‑efficient design across heterogeneous problem spaces.  
 
-## Related Concepts  
-- Bayesian optimization (BO)  
-- Latent‑space Bayesian optimization (LSBO)  
-- Tabular foundation models (TabPFN, TabICL)  
-- In‑context learning  
-- Regularized loss functions  
-- Variational autoencoders (VAE) for molecular data
+## Related Concepts
 
-[[In-Context Learning for Latent Space Bayesian Optimization]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

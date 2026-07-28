@@ -31,13 +31,8 @@ The experimental results indicate that grep generally yields higher accuracy tha
 This research is significant because it challenges the prevailing trend of blindly adopting vector retrieval for all agentic tasks. It provides practical guidance for developers by showing that the choice of retrieval strategy must be tightly coupled with the agent architecture and tool interface. Understanding these interactions helps in designing more efficient and accurate agentic systems, particularly in environments where computational efficiency or specific text-matching precision is required.
 
 ## Related Concepts
-- Retrieval-Augmented Generation (RAG)
-- Agentic Search
-- Large Language Model (LLM) Agents
-- Keyword Search (Grep) vs. Semantic Search (Vector)
-- Tool-Calling Paradigms
-- Contextual Noise and Distractor Resistance
-- LongMemEval Benchmark
-- Chronos Agent Harness
 
-[[Is Grep All You Need? How Agent Harnesses Reshape Agentic Search]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

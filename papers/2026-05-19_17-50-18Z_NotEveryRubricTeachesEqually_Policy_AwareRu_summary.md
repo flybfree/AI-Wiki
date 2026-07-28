@@ -31,11 +31,8 @@ Experimental results indicate that POW3R wins 24 out of 30 base-policy/metric co
 This work is significant because it challenges the assumption that static human weights are optimal for training dynamics. It establishes a clear distinction between what matters in the final answer and what can effectively teach the current policy. By decoupling these two aspects, POW3R offers a more efficient and effective path for post-training large language models, particularly in complex tasks requiring multiple qualitative criteria.
 
 ## Related Concepts
-- Reinforcement Learning with Verifiable Rewards (RLVR)
-- Policy-Aware Rewards
-- Rubric-Based Grading
-- Generalized Reward Policy Optimization (GRPO)
-- Dynamic Reward Weighting
-- Strict Completion Metrics
 
-[[Not Every Rubric Teaches Equally: Policy-Aware Rubric Rewards for RLVR]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

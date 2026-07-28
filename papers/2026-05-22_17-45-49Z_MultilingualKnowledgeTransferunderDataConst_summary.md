@@ -31,11 +31,9 @@ Across eight languages and five model sizes (from small to large), LINK improves
 ## Significance  
 LINK addresses a bottleneck in multilingual AI: transferring knowledge from abundant languages to scarce ones without costly parallel data or extra models. By operating at the token level, it offers a scalable, low‑resource solution that can be applied broadly across languages and model architectures, accelerating research and deployment of high‑performing multilingual systems.
 
-## Related Concepts  
-- Cross‑lingual transfer learning  
-- Low‑resource language modeling  
-- Bilingual vocabularies  
-- Data‑level interventions in pretraining  
-- Knowledge distillation via token substitution
+## Related Concepts
 
-[[Multilingual Knowledge Transfer under Data Constraints via Lexical Interventions]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

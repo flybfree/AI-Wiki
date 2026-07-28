@@ -12,3 +12,9 @@ tags: ["summary", "news", "ai-research", "full-text"]
 ## Summary
 
 Summary unavailable — please regenerate from the original source.
+
+## Related Concepts
+
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]

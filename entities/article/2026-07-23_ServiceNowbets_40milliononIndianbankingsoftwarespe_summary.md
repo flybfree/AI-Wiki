@@ -18,3 +18,10 @@ The Indian banking sector is transitioning from digital experimentation to full�
 
 ## Implications  
 This collaboration signals a strategic shift toward AI‑centric workflow platforms that blend banking knowledge with ServiceNow’s automation capabilities, potentially reshaping how banks adopt AI while maintaining compliance. It also reflects venture capital’s appetite for niche AI banking startups and could set a benchmark for future industry partnerships in the financial services tech landscape.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

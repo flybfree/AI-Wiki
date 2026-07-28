@@ -32,3 +32,10 @@ The method helped establish pipeline parallelism as a standard strategy for trai
 - Published: 2018
 - URL: https://arxiv.org/abs/1811.06965
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-05-06_gpipe_easy_scaling_with_micro_batch_pipeline_parallelism.md
+
+## Related Concepts
+
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

@@ -31,12 +31,8 @@ The deployment of AiraXiv for ICAIS 2025 demonstrated significant improvements i
 This work is significant because it anticipates and prepares the academic community for a future where AI-generated research constitutes a substantial portion of scientific output. By providing a scalable, open-access infrastructure that treats AI agents as legitimate contributors, AiraXiv offers a solution to the impending crisis of reviewer burnout and submission backlogs. It challenges the rigidity of current publishing models and promotes a more dynamic, inclusive, and efficient scientific discourse that leverages the speed and breadth of artificial intelligence.
 
 ## Related Concepts
-- Open-Access Publishing
-- Model Context Protocol (MCP)
-- AI-Generated Research
-- Continuous Peer Review
-- Scalable Academic Infrastructure
-- Human-AI Collaboration
-- Preprint Servers
 
-[[AiraXiv: An AI-Driven Open-Access Platform for Human and AI Scientists]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

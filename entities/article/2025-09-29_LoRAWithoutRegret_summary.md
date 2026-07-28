@@ -27,3 +27,8 @@ LoRA is attractive because it lets teams adapt models efficiently without throwi
 ## Implications
 If LoRA performs close to full fine-tuning in more settings, it reduces the cost and operational complexity of custom model adaptation.
 That matters for deployment-bound teams that want to personalize or specialize models without rebuilding them from scratch.
+
+## Related Concepts
+
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

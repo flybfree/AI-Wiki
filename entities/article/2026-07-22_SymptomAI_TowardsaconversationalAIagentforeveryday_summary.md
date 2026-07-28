@@ -18,3 +18,10 @@ Current language models excel at differential diagnosis on synthetic medical cas
 
 ## Implications  
 The findings suggest that conversational AI agents like SymptomAI could become a scalable first‑line tool for symptom assessment, reducing barriers to care and enabling early detection of infectious diseases through combined linguistic and physiological signals.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

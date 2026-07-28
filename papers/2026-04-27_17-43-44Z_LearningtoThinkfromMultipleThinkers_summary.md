@@ -25,3 +25,10 @@ This paper investigates the theoretical limits and practical methods of learning
 The study combines theoretical cryptography (to establish hardness bounds) with computational learning theory (to design efficient algorithms). The core approach involves analyzing the information content provided by multiple, systematically different step-by-step solution traces (CoT data) alongside general end-result supervision. They develop an active
 
 [[Learning to Think from Multiple Thinkers]]
+
+## Related Concepts
+
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

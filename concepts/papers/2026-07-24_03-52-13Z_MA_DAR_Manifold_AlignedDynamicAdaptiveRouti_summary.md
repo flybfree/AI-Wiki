@@ -113,3 +113,10 @@ These patterns illustrate how MA‑DAR continuously re‑aligns its routing deci
 ---
 
 **In summary**, MA‑DAR demonstrates that a manifold‑aware, dynamically adaptive routing strategy can significantly improve both accuracy and efficiency in continual temporal KG reasoning. The framework’s lightweight online adaptation ensures scalability to long‑running knowledge graphs, while the theoretical guarantees provide confidence for production deployment.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

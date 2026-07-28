@@ -31,13 +31,9 @@ Experimental results show that GLIDE consistently achieves precision within 2 
 ## Significance  
 This work matters because it democratizes high‑quality evaluation for generative AI and agentic systems, lowering costs and bias while preserving reliability. By standardizing PPI methods, GLIDE enables reproducible research, faster iteration, and more trustworthy deployment decisions in GenAI ecosystems.  
 
-## Related Concepts  
-- Prediction‑Powered Inference (PPI)  
-- Stratified sampling  
-- Active learning  
-- Calibrated confidence intervals  
-- Monte Carlo validation  
-- LLM‑as‑judge proxy  
-- Decentralized evaluation
+## Related Concepts
 
-[[Industrializing Prediction-Powered Inference: The GLIDE Library for Reliable GenAI and Agentic Systems Evaluation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

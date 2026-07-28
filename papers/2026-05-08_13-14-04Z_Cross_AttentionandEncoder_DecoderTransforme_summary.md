@@ -31,14 +31,9 @@ Theoretical analysis proved that any valid encoder‑decoder transformer can be 
 ## Significance  
 This work provides a unified theoretical lens for understanding cross‑attention transformers beyond their specific implementations, enabling automated verification and reasoning about model behavior changes. By linking attention to logical modalities and automata, it opens pathways for more reliable AI systems that can be audited for correctness across diverse architectural designs.
 
-## Related Concepts  
-- Encoder‑decoder transformer architecture  
-- Cross‑attention mechanism  
-- Temporal logic (propositional + counting global modality)  
-- Past modality in attention constraints  
-- Distributed automata theory  
-- Soft‑attention and floating‑point token processing  
-- Masking in sequence models  
-- Autoregressive generation
+## Related Concepts
 
-[[Cross-Attention and Encoder-Decoder Transformers: A Logical Characterization]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

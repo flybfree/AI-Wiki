@@ -31,12 +31,8 @@ Experimental results indicate that QDSB matches the sample quality of existing s
 This work is significant because it makes simulation-free Schrödinger bridges more accessible for large-scale generative modeling tasks. By reducing the computational barrier, it enables the use of SB models in settings where resources are limited or datasets are too large for traditional OT solvers, thereby expanding the applicability of optimal transport-based generative models.
 
 ## Related Concepts
-- Schrödinger Bridges
-- Entropic Optimal Transport
-- Generative Modeling
-- Quantization
-- Anchor Points
-- Cell-wise Sampling
-- Simulation-free Models
 
-[[2026-05-12_11-35-08Z_QDSB_QuantizedDiffusionSchrödingerBridges.md]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

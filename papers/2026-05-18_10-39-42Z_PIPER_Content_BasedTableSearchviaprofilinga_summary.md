@@ -31,13 +31,8 @@ Experimental evaluations demonstrate that PIPER achieves state-of-the-art perfor
 This research is significant because it addresses a fundamental bottleneck in data science: the difficulty of finding relevant data amidst vast repositories of poorly documented tables. By proving that LLM-based content modeling can enhance dataset search, PIPER offers a scalable solution for improving data discoverability in data lakes and open data portals. This advancement facilitates more efficient data reuse, accelerates analytical workflows, and supports the broader goal of making tabular data more accessible and actionable for researchers and analysts.
 
 ## Related Concepts
-- Content-Based Table Search
-- Large Language Models (LLMs)
-- Dense Retrieval
-- Table Question Answering (TableQA)
-- Data Lake Search
-- Semantic Embeddings
-- Dataset Discovery
-- Metadata-Poor Environments
 
-[[PIPER: Content-Based Table Search via profiling and LLM-Generated Pseudoqueries]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

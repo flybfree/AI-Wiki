@@ -18,3 +18,10 @@ The AI industry has moved from incremental updates to frequent, high‑impact re
 
 ## Implications  
 Rapid model turnover can erode long‑term brand advantage if performance gains are marginal, prompting firms to focus on unique features rather than raw scaling. For stakeholders, this means monitoring score trends and release calendars becomes critical for strategic decisions around partnerships, licensing, and capital allocation in the AI ecosystem.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

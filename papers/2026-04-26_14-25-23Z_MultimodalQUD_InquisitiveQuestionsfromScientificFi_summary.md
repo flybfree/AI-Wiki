@@ -35,3 +35,10 @@ We show that fine-tuning a VLM on MQUD shifts the model from generating generic 
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-25-23Z_MultimodalQUD_InquisitiveQuestionsfromScientificFi.md
 
 [[Multimodal QUD: Inquisitive Questions from Scientific Figures]]
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

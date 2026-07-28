@@ -50,3 +50,10 @@ Satya Nadella, CEO of Microsoft, has warned that enterprises which rely on a s
 - **Regulatory Pressure:** Governments may view fragmented AI ecosystems as higher compliance risk, prompting stricter oversight of multi‑vendor deployments.  
 
 In sum, Nadella’s caution is less about abandoning AI altogether and more about embracing a pragmatic, diversified approach that balances innovation with resilience. Companies that treat AI as an ecosystem—where each component can be swapped, upgraded, or replaced without disrupting the whole—are far more likely to survive the rapid evolution of technology and maintain their competitive edge.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

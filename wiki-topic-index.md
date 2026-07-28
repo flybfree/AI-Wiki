@@ -188,3 +188,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ## Tutorials & Guides
 
 - [[concepts/ai-research/2026-06-10_AIResearchPapers.md|Tutorial: Getting Started with AI Research]]
+
+## Concept Maps
+
+- [[concepts/knowledge-management/ai-research-concept-map.md|AI Research Concept Map]]

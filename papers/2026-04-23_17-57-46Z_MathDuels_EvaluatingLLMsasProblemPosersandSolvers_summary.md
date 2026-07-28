@@ -36,3 +36,10 @@ Evaluations that include problem posing can reveal new distinctions between mode
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-57-46Z_MathDuels_EvaluatingLLMsasProblemPosersandSolvers.md
 
 [[MathDuels: Evaluating LLMs as Problem Posers and Solvers]]
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

@@ -31,5 +31,9 @@ Human experts scored an average of 89 % correct versus 74 % for the LLM; var
 ## Significance  
 By exposing the gaps between benchmarked average performance and real‑world reliability, this research underscores that LLMs cannot be assumed to replace human experts in critical tasks. It calls for new evaluation frameworks that capture variance and error magnitude, thereby improving trustworthiness assessments.  
 
-## Related Concepts  
-Large Language Models (LLMs), benchmarking, variance, error magnitude, high‑stakes decision making, code generation, expert performance, reliability assessment.
+## Related Concepts
+
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

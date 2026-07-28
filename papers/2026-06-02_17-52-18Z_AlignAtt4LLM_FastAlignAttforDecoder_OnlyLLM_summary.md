@@ -31,11 +31,9 @@ On the IWSLT 2026 development set, AlignAtt4LLM outperforms baseline systems f
 ## Significance  
 This work demonstrates that alignment mechanisms originally designed for encoder‑decoder models can be repurposed for decoder‑only LLMs, opening a path to efficient, low‑latency simultaneous translation without sacrificing quality. The reusable policy reduces reliance on large encoder components and lowers computational cost, which is crucial for real‑time applications.
 
-## Related Concepts  
-- Decoder‑only language models (e.g., GPT, Llama)  
-- Simultaneous speech translation (SST)  
-- AlignAtt alignment mechanisms  
-- Query/key capture in attention heads  
-- Prompt engineering with source spans
+## Related Concepts
 
-[[AlignAtt4LLM: Fast AlignAtt for Decoder-Only LLMs at IWSLT 2026 Simultaneous Speech Translation Task]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

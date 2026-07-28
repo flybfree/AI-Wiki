@@ -31,13 +31,9 @@ Experiments show that DECO activates just 20 % of its expert pool and attains 
 ## Significance  
 DECO demonstrates that sparse MoE models can be deployed efficiently on end‑side devices without sacrificing performance or storage efficiency. By reducing parameter count and memory access, it enables large‑scale language services in resource‑constrained environments such as mobile phones and edge servers.
 
-## Related Concepts  
-- Mixture-of-Experts (MoE)  
-- Sparse routing  
-- ReLU‑based routing  
-- Learnable expert scaling  
-- NormSiLU activation function  
-- Dense vs. sparse inference  
-- Acceleration kernels
+## Related Concepts
 
-[[DECO: Sparse Mixture-of-Experts with Dense-Comparable Performance on End-Side Devices]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

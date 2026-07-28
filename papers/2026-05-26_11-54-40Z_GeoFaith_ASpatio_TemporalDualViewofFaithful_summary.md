@@ -31,13 +31,9 @@ Experiments show that GeoFaith’s detector achieves higher detection accuracy t
 ## Significance  
 By providing a scalable, reliable method to assess and improve faithfulness in LLMs, GeoFaith addresses a critical gap in LLM evaluation that currently relies on costly post‑hoc rationalizations. The framework enables safer deployment of reasoning systems by ensuring that the internal chain of thought remains trustworthy, which is essential for high‑stakes applications such as medical diagnosis or legal analysis.  
 
-## Related Concepts  
-- Chain‑of‑Thought (CoT) reasoning  
-- Faithfulness detection  
-- Spatio‑temporal modeling  
-- Entropy dynamics  
-- Reinforcement learning for chain optimization  
-- Latent geometry  
-- Bootstrapping annotation pipelines
+## Related Concepts
 
-[[GeoFaith: A Spatio-Temporal Dual View of Faithful Chain-of-Thought]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

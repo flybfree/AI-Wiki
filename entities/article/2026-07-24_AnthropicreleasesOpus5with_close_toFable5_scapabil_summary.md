@@ -18,3 +18,10 @@ The article occurs amid heightened AI regulation under the Trump administration,
 
 ## Implications  
 The launch of Opus 5 intensifies competition between Anthropic and OpenAI, prompting both firms to balance performance with cost and compliance. The emphasis on cybersecurity reflects ongoing industry pressure to prevent misuse, while the price parity suggests a shift toward more affordable enterprise AI solutions that could accelerate adoption despite regulatory uncertainty.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

@@ -31,12 +31,9 @@ Theoretical analysis proves that the gradients of the surrogate do not depend on
 ## Significance  
 By aligning experimental design with real‑world objectives, GoBOED reduces computational cost while preserving decision quality, which is crucial in high‑stakes applications such as disease outbreak control or drug dosing. The framework’s robustness to model uncertainty means it remains effective even when the true parameter distribution deviates from assumptions, offering a more reliable tool for practitioners who cannot afford exhaustive information gathering.
 
-## Related Concepts  
-- Bayesian optimal experimental design (BOED)  
-- Information gain maximization in GOA  
-- Goal‑driven optimization  
-- Amortized variational posterior surrogate  
-- Differentiable convex decision layer  
-- Model uncertainty handling
+## Related Concepts
 
-[[Goal-driven Bayesian Optimal Experimental Design for Robust Decision-Making Under Model Uncertainty]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

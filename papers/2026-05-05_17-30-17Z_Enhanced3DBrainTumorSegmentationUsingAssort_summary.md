@@ -31,11 +31,9 @@ Experimental evaluation on a 3D brain tumor dataset shows that the proposed mode
 ## Significance  
 Accurate 3D segmentation is essential for early diagnosis of brain tumors, as it enables clinicians to assess treatment eligibility and plan interventions promptly. By delivering higher Dice scores than prior approaches, this research directly supports earlier detection, potentially improving patient outcomes and survival rates in oncology care.  
 
-## Related Concepts  
-- 3D brain tumor segmentation  
-- SegResNet architecture  
-- Automatic multi‑precision training (mixed precision)  
-- Dice loss function  
-- Dice metric for evaluation
+## Related Concepts
 
-[[Enhanced 3D Brain Tumor Segmentation Using Assorted Precision Training]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

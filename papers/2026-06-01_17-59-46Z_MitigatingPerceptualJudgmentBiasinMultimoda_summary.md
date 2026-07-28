@@ -31,12 +31,9 @@ Across three benchmark suites (e.g., MMLU‑Vision, VQA‑Judgment, and ImageQA)
 ## Significance  
 This work provides a scalable pathway for training multimodal judges that respect perceptual reality, mitigating the common bias toward textual plausibility and enabling more trustworthy automated evaluations.  
 
-## Related Concepts  
-- Perceptual Judgment Bias  
-- Multimodal LLM‑as‑a‑Judge  
-- Perceptually Perturbed Dataset  
-- Reward Modeling (GRPO)  
-- Batch Ranking  
-- Counterfactual Generation
+## Related Concepts
 
-[[Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

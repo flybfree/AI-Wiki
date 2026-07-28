@@ -31,11 +31,9 @@ The translation is shown to be faithful: every rational or lexicographic entailm
 ## Significance  
 This work bridges KLM‑style non‑monotonic reasoning with modal standpoint logic, offering a richer inference framework that respects viewpoints while remaining computationally tractable. By preserving the same algorithmic efficiency as propositional entailment checking, it provides a practical tool for applications where defeasible, perspective‑aware conclusions are needed without sacrificing performance.
 
-## Related Concepts  
-- Propositional defeasible standpoint logic (PDSL)  
-- Situated conditionals  
-- Non‑monotonic rational entailment  
-- KLM‑style reasoning  
-- Lexicographic closure
+## Related Concepts
 
-[[Towards Non-Monotonic Entailment in Propositional Defeasible Standpoint Logic]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

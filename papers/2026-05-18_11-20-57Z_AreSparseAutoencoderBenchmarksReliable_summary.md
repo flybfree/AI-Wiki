@@ -31,12 +31,8 @@ The experimental results indicate that TPP and SCR metrics fail multiple reliabi
 These findings are significant because they challenge the foundational assumptions of the SAE interpretability field. If the primary tools for comparing SAE quality are unreliable, progress in developing better architectures may be stalled or misdirected. The paper urges the community to develop more rigorous, noise-resistant, and discriminative benchmarks to ensure that future advancements in model interpretability are built on solid empirical ground.
 
 ## Related Concepts
-- Sparse Autoencoders (SAEs)
-- Model Interpretability
-- SAEBench
-- Targeted Probe Perturbation (TPP)
-- Spurious Correlation Removal (SCR)
-- k-sparse probing
-- Metric Stability and Discriminability
 
-[[Are Sparse Autoencoder Benchmarks Reliable?]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

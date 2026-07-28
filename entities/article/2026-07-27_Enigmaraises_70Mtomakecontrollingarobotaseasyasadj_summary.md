@@ -18,3 +18,10 @@ The broader AI landscape is racing toward foundation models that can generalize 
 
 ## Implications  
 If Enigma’s experiment proves successful, it could democratize robotics research and encourage more user‑driven design, potentially accelerating the transition from teleoperation to seamless integration. Should the technology deliver on its promise of effortless control, it may reshape how developers think about robot control, emphasizing experience over precision metrics.
+
+## Related Concepts
+
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

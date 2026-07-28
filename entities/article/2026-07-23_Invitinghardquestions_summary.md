@@ -18,3 +18,10 @@ Anthropic operates as a public benefit corporation with a long‑term trust over
 
 ## Implications  
 The initiative signals that responsible AI development requires ongoing dialogue with the public and clear accountability mechanisms; it also highlights how corporate research programs can shape policy, foster nonprofit partnerships, and ultimately influence the trajectory of AI’s societal benefits.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

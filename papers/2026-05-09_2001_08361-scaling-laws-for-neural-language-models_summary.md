@@ -34,10 +34,9 @@ The authors performed systematic experiments that varied each factor across many
 ## Significance  
 The scaling laws give a rational justification for massive compute budgets and guide the field toward data‑centric strategies, directly influencing later work such as Chinchilla that flips the size‑to‑data ratio. They turn “magic” into predictable engineering.
 
-## Related Concepts  
-- Power law (Kepler’s law analogy)  
-- Diminishing returns  
-- Compute budget allocation  
-- Chinchilla model
+## Related Concepts
 
-[[Scaling Laws for Neural Language Models]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

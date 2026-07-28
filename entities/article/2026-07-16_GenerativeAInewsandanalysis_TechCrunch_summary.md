@@ -18,3 +18,10 @@ The article reflects a broader trend where generative AI is being commercialized
 
 ## Implications  
 For the industry, these developments suggest that generative AI will become a core differentiator in product offerings, prompting firms to invest heavily in both technology and compliance. The regulatory push may accelerate standards for responsible AI use, while the commercialization of AI could reshape market dynamics, especially in media production where AI can cut costs and generate new content pipelines.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

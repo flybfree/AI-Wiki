@@ -32,3 +32,9 @@ If scalable in practice, this technique could improve efficiency in uncertainty 
 - Published: 2026-05-06T17:46:12Z
 - URL: http://arxiv.org/abs/2605.05179v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-05-06_17-46-12Z_EstimatingtheexpectedoutputofwiderandomMLPsmoreeff.md
+
+## Related Concepts
+
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

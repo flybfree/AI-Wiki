@@ -31,13 +31,8 @@ The experimental results demonstrate that multi-resource stranding significantly
 This research is vital for datacenter designers and cloud providers as grid power capacity becomes an increasingly scarce resource in the AI era. By highlighting the economic and performance penalties of stranding power, the paper provides a new metric for evaluating infrastructure efficiency. It offers actionable insights for designing power delivery hierarchies that remain efficient across multiple hardware generations, ensuring that massive investments in power infrastructure are fully utilized. This shift in perspective is crucial for maintaining cost-effectiveness and performance scalability in the rapidly evolving landscape of AI computing.
 
 ## Related Concepts
-- Datacenter Power Delivery Hierarchies
-- AI Accelerator Power Density
-- Multi-resource Stranding
-- Deployable Capacity vs. Installed Megawatts
-- Power Oversubscription
-- Rack- and Pod-scale AI Systems
-- Microsoft Azure Operational Data
-- Long-term Infrastructure Planning
 
-[[Designing Datacenter Power Delivery Hierarchies for the AI Era]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

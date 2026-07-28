@@ -85,3 +85,10 @@ Future work will address these issues by introducing a shared ontology and an un
 ---
 
 *In summary, this study demonstrates that LLMs can serve as powerful engines for converting clinical‑trial protocols into formal ensemble logic, offering high translation fidelity, robust validation, and rapid execution. The approach lays the groundwork for scalable, error‑reduced protocol management in AI‑enabled clinical research.*
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

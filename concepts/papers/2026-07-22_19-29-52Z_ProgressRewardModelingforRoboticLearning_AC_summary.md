@@ -23,4 +23,8 @@ The survey reveals that only 12 % of methods explicitly report both input‑ou
 This work matters because it bridges the gap between hype and practical utility: without a common language, researchers cannot reliably claim that their progress reward models are better or more robust. By providing a structured taxonomy, the survey guides future experiments toward transparent, comparable, and scientifically valid progress supervision.
 
 ## Related Concepts
-progress reward modeling, terminal success signal, incremental improvement detection, task‑specific vs. global progress tracking, reinforcement learning, benchmark evaluation, sample efficiency, reward shaping, meta‑learning, progress estimation.
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

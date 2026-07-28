@@ -31,14 +31,9 @@ The main experimental results show a +5.5 point gain on ArenaHard relative to th
 ## Significance  
 By addressing the bottleneck between query structure and rubric quality, QUBRIC makes rubric‑based reinforcement learning a practical complement to RLVR (Reinforcement Learning with Verifiable Rewards). The framework demonstrates that improving both components jointly can unlock higher performance on complex, non‑verifiable tasks, offering a scalable path toward more robust and interpretable RL agents.
 
-## Related Concepts  
-- Rubric‑based reinforcement learning  
-- Verifiable rewards (RLVR)  
-- Open‑ended queries vs. scenario‑based questions  
-- Teacher‑derived key points  
-- Contrastive rubric generation  
-- Learnability filtering  
-- Gradient Proximal Policy Optimization (GRPO)  
-- ArenaHard benchmark
+## Related Concepts
 
-[[QUBRIC: Co-Designing Queries and Rubrics for RL Beyond Verifiable Rewards]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

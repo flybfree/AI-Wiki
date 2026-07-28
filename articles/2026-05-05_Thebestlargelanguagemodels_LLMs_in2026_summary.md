@@ -39,3 +39,10 @@ For practitioners, the guide reinforces the need to evaluate models by workflow 
 - [[2026-05-09_AutonomousAgentFrameworks.md]
 - [[2026-05-09_AgentArchitectureEvolution.md]
 - [[2026-06-02_HLL_Benchmark.md]
+
+## Related Concepts
+
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]

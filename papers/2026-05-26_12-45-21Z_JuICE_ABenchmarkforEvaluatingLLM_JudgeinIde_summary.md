@@ -31,11 +31,9 @@ Empirical results show a modest F1 of 0.52 for detecting annotated error spans, 
 ## Significance  
 JuICE reveals that existing benchmarks and LLM‑based judges cannot reliably assess cultural appropriateness, which is crucial for global deployment of language models. The study pushes the field to consider deeper, situated cultural meanings rather than treating culture as a flat set of facts.
 
-## Related Concepts  
-- Large Language Models (LLMs)  
-- Cultural evaluation and thick vs thin errors  
-- Multilingual benchmarking  
-- LLM‑as‑a‑Judge framework  
-- Span‑level annotation for error detection
+## Related Concepts
 
-[[JuICE: A Benchmark for Evaluating LLM-Judge in Identifying Cultural Errors]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

@@ -31,11 +31,9 @@ The experimental results show that the AI co‑mathematician can generate correc
 ## Significance  
 This work matters because it bridges the gap between AI automation and open‑ended creativity, offering a scalable tool that can augment mathematicians’ intuition rather than replace it. By handling uncertainty and maintaining a coherent workspace, the co‑mathematician enables rapid iteration across multiple research dimensions, potentially accelerating breakthroughs in pure mathematics.  
 
-## Related Concepts  
-- Agentic AI  
-- Stateful workbench  
-- FrontierMath benchmark  
-- Theorem proving  
-- Collaborative workflow modeling
+## Related Concepts
 
-[[AI Co-Mathematician: Accelerating Mathematicians with Agentic AI]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

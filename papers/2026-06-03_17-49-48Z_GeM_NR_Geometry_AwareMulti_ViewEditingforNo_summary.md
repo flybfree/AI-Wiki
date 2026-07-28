@@ -31,11 +31,9 @@ Experimental results show that GeM‑NR achieves higher PSNR and SSIM scores tha
 ## Significance  
 GeM‑NR advances the state of the art by providing a general, training‑free solution for nonrigid multi‑view editing, paving the way toward real‑time customizable 3D content generation without per‑task model fine‑tuning. This capability is crucial for applications such as virtual scene reconstruction and user‑driven 3D asset creation.
 
-## Related Concepts  
-- Multi‑view consistency  
-- Depth map alignment / point‑cloud correspondence  
-- Conditioning‑based editing pipelines  
-- Nonrigid scene modification  
-- Backbone editors (e.g., FLUX, Qwen)
+## Related Concepts
 
-[[GeM-NR: Geometry-Aware Multi-View Editing for Nonrigid Scene Changes]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

@@ -35,3 +35,9 @@ The (un)decidability of this problem was previously unknown.
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-36-17Z_AnUndecidabilityProofforthePlanExistenceProblem.md
 
 [[An Undecidability Proof for the Plan Existence Problem]]
+
+## Related Concepts
+
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]

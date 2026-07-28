@@ -30,14 +30,9 @@ Experiments showed that Muon leads to higher forgetting during SFT compared to A
 ## Significance  
 This research provides a principled explanation for why optimizer consistency matters in LLM training, offering a simple yet effective strategy to improve fine-tuning outcomes without retraining from scratch. It highlights that optimization is not just a technical detail but an active participant in model behavior and knowledge retention.
 
-## Related Concepts  
-- Optimizer regularization  
-- Learning forgetting  
-- Supervised finetuning (SFT)  
-- LoRA (Low-Rank Adaptation)  
-- Muon optimizer  
-- AdamW optimizer  
-- Model landscape  
-- Knowledge retention
+## Related Concepts
 
-[[Optimizer-Model Consistency: Full Finetuning with the Same Optimizer as Pretraining Forgets Less]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

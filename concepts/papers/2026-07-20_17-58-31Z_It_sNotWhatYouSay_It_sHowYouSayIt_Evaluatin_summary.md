@@ -23,11 +23,8 @@ The experimental results revealed significant variations in response behavior de
 This work is significant because it moves beyond simple factual accuracy metrics to examine the subtle mechanisms of how LLMs integrate human language cues. It highlights that "how" something is said matters as much as "what" is said, which has profound implications for prompt engineering, user interaction design, and the development of more robust AI systems. Understanding these patterns helps developers create prompts that effectively guide model behavior and informs future research on mitigating unwanted biases or over-reliance on contextual framing in critical applications.
 
 ## Related Concepts
-- Large Language Models (LLMs)
-- Expressions of Belief (EoBs)
-- Contextual Integration vs. Prior Knowledge
-- Linguistic Framing
-- Epistemic Stance and Evidentiality
-- Prompt Engineering
-- Model Scaling Laws
-- Instruction Tuning
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

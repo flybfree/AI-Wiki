@@ -32,3 +32,10 @@ DV-World should help steer agent development toward enterprise-style visualizati
 - Published: 2026-04-28T17:58:21Z
 - URL: http://arxiv.org/abs/2604.25914v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-28_17-58-21Z_DV_World_BenchmarkingDataVisualizationAgentsinReal.md
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -69,3 +69,10 @@ Long‑range dependencies are a fundamental challenge for transformer‑based ag
 **Scalability.** RT maintains constant per‑token cost regardless of sequence length up to 10 k tokens (≈ 30 ms on a single A100). In contrast, full attention scales quadratically, causing latency > 500 ms at the same length.
 
 These results validate that compressing observation history into a recurrent transformer state is both theoretically sound and practically beneficial for long‑running agents.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

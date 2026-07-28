@@ -18,3 +18,10 @@ The launch follows a broader trend in conversational AI where models are being f
 
 ## Implications  
 This development signals a shift toward AI‑augmented patient education, potentially reducing information overload and empowering users to engage more proactively with their care teams. For the healthcare industry, it opens avenues for seamless data utilization without compromising confidentiality, though challenges around regulatory compliance and model accuracy will remain critical.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]

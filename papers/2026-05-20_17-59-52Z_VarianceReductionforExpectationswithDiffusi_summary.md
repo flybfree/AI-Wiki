@@ -31,13 +31,8 @@ In experiments involving text-to-3D distillation and data attribution, CARV deli
 This work is significant because it provides a practical and theoretically grounded method for optimizing the training of downstream models that rely on frozen diffusion teachers. By reducing the computational cost of gradient estimation, CARV enables more efficient training pipelines for resource-intensive tasks like 3D generation. Furthermore, it offers critical insights into the limits of variance reduction, helping researchers identify when further variance reduction efforts will yield diminishing returns in terms of final model quality.
 
 ## Related Concepts
-- Diffusion Models
-- Monte Carlo Estimation
-- Variance Reduction Techniques
-- Importance Sampling
-- Stratified Sampling
-- Text-to-3D Generation
-- Model Distillation
-- Compute-Aware Optimization
 
-[[Variance Reduction for Expectations with Diffusion Teachers]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

@@ -31,16 +31,9 @@ On Dyck grammars with Qwen3‑8B, the total‑variation gap between μ^{proj} an
 ## Significance  
 By supplying the missing future‑validity statistic, the paper enables speculative decoding to respect grammatical constraints, improving user experience and model utility. The results provide concrete performance gains—sub‑1 % overhead with 97 % TV reduction—demonstrating that theoretical impossibility can be overcome for enumerable grammars.
 
-## Related Concepts  
-- Grammar‑conditional distribution μ★  
-- Locally projected distribution μ^{proj}  
-- Doob transform of a base model with h=Φ  
-- Future‑validity function Φ_t(y)  
-- Speculative decoding (local mask, Leviathan rejection, rollback)  
-- Total variation distance between distributions  
-- Dyck grammars and finite JSON languages  
-- Oracle decoder FVO‑Spec  
-- OneStep correction estimator  
-- Exact dynamic programming for Φ estimation
+## Related Concepts
 
-[[Future Validity is the Missing Statistic: From Impossibility to $Φ$-Estimation for Grammar-Faithful Speculative Decoding]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,12 +31,8 @@ Extensive experiments on multiple fine-grained visual understanding benchmarks d
 This research is significant because it resolves a fundamental limitation in MLLMs: the inability to leverage local details when viewing global contexts. By proving that a model can learn to focus on fine details through self-distillation, it offers a scalable, efficient, and tool-free method for enhancing visual reasoning. This eliminates the need for expensive external infrastructure or complex agentic workflows, making high-precision visual understanding more accessible and practical for real-world applications.
 
 ## Related Concepts
-- Multimodal Large Language Models (MLLMs)
-- Fine-grained Visual Understanding
-- On-Policy Self-Distillation
-- Regional-to-Global Perception Gap
-- Token-Level Divergence Minimization
-- Evidence-Centered Cropping
-- Agentic Visual Reasoning
 
-[[Vision-OPD: Learning to See Fine Details for Multimodal LLMs via On-Policy Self-Distillation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

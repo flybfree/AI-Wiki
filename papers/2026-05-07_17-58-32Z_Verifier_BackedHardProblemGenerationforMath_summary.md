@@ -31,11 +31,9 @@ Experiments on indefinite integral generation show VHG achieving an average accu
 ## Significance  
 VHG addresses a critical bottleneck in LLM training: generating high‑quality, challenging problems at scale. By automating validation and difficulty assessment, it reduces reliance on scarce expert labor and mitigates reward hacking, paving the way for autonomous scientific research pipelines that continuously improve model capabilities.
 
-## Related Concepts  
-- Large Language Models (LLMs)  
-- Self‑play reinforcement learning  
-- Reward shaping and inverse difficulty scaling  
-- Symbolic verification vs. probabilistic LLM verification  
-- Hard problem generation in AI research
+## Related Concepts
 
-[[Verifier-Backed Hard Problem Generation for Mathematical Reasoning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

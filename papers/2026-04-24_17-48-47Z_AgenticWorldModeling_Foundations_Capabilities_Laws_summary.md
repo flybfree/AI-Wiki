@@ -35,3 +35,10 @@ The resulting roadmap connects previously isolated communities and charts a path
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-24_17-48-47Z_AgenticWorldModeling_Foundations_Capabilities_Laws.md
 
 [[Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond]]
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

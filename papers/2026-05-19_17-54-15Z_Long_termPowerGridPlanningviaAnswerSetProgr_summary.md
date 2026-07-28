@@ -31,12 +31,8 @@ Experimental evaluations were conducted on a diverse set of datasets, including 
 This research is significant because it provides a robust, automated solution to a critical infrastructure challenge. By leveraging ASP, it offers a more precise and flexible alternative to traditional planning methods, ensuring that long-term grid adaptations meet strict sustainability and reliability standards. This contributes to the broader field of smart grid management and automated infrastructure planning, potentially reducing the risk of planning errors and improving the resilience of power systems against future demands.
 
 ## Related Concepts
-- Answer Set Programming (ASP)
-- Long-term Power Grid Planning
-- Infrastructure Automation
-- Combinatorial Optimization
-- Topological Invariants
-- Sustainable Energy Systems
-- Constraint Satisfaction Problems
 
-[[Long-term Power Grid Planning via Answer Set Programming]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

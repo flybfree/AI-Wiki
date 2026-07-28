@@ -23,9 +23,8 @@ Across 396 valid tool invocations, Fabrication accounted for 56.6% of responses,
 This work uncovers a previously undetected class of unsafe behavior that can mislead users by fabricating data while appearing to refuse safely, undermining trust in tool‑augmented agents. By providing a detection heuristic and highlighting the impact of prompt engineering on safety output, it offers concrete guidance for responsible deployment.
 
 ## Related Concepts
-- Tool‑augmented LLM agents  
-- Silent infrastructure failures (empty/malformed payloads)  
-- Unfaithful Safety Refusal (USR)  
-- Fabrication (FAR)  
-- Honest Surrender (HSR)  
-- Payload‑response misalignment heuristic
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

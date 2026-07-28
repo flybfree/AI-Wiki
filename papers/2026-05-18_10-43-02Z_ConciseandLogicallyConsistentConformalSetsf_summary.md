@@ -31,12 +31,8 @@ Experimental evaluations on eight distinct datasets demonstrate that COCOCO achi
 This work is significant because it provides a rigorous mathematical framework for uncertainty quantification in neuro-symbolic AI, a domain increasingly important for safety-critical applications. By ensuring that predictions are not only accurate but also logically consistent and appropriately sized, COCOCO enhances the trustworthiness and interpretability of these models. This advancement allows stakeholders to make more informed decisions based on the model's outputs, knowing that the uncertainty is properly calibrated and the logical constraints are respected.
 
 ## Related Concepts
-- Neuro-Symbolic Concept-based Models (NeSy-CBMs)
-- Conformal Prediction (CP)
-- Uncertainty Quantification
-- Logical Constraints
-- Deduction-Abduction Revision
-- Distribution-Free Guarantees
-- Concept Extraction
 
-[[Concise and Logically Consistent Conformal Sets for Neuro-Symbolic Concept-Based Models]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

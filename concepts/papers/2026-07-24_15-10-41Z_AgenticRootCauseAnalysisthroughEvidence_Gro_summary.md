@@ -28,3 +28,10 @@ This work bridges the gap between black‑box automation and transparent AI, ena
 - Large language model with tool use  
 - Zero-shot learning  
 - Evidence‑grounded reasoning
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]

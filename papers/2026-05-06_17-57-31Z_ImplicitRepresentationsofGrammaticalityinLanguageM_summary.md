@@ -32,3 +32,10 @@ The results suggest that grammatical knowledge is at least partially represented
 - Published: 2026-05-06T17:57:31Z
 - URL: http://arxiv.org/abs/2605.05197v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-05-06_17-57-31Z_ImplicitRepresentationsofGrammaticalityinLanguageM.md
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

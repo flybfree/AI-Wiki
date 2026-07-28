@@ -31,13 +31,8 @@ Experimental evaluations were conducted on three established benchmarks to asses
 This research matters because it tackles the critical scalability and reliability issues of LLMs. By decoupling knowledge storage from model parameters, KoRe offers a path toward more maintainable, transparent, and updatable AI systems. It reduces the computational burden of constant retraining and mitigates hallucinations by grounding responses in explicit, verifiable data structures. This approach could facilitate the integration of real-time, dynamic knowledge into LLMs, making them more suitable for applications requiring high accuracy and frequent knowledge updates.
 
 ## Related Concepts
-- Large Language Models (LLMs)
-- Knowledge Graphs (KGs)
-- Discrete Tokenization
-- Hallucination Mitigation
-- Parameter-Efficient Fine-Tuning
-- Knowledge Injection
-- 1-hop Sub-graphs
-- Computational Efficiency
 
-[[KoRe: Compact Knowledge Representations for Large Language Models]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

@@ -31,12 +31,9 @@ Across all conditions, users reported moderate levels of reliance on the AI assi
 ## Significance  
 These results highlight that conversational design can modestly shape user perception of an AI’s credibility, yet the impact is limited compared to deeper cognitive factors like AI literacy. Understanding this boundary helps developers balance personalization for ethical persuasion while recognizing that user expertise may dominate decision‑making processes in real‑world applications.
 
-## Related Concepts  
-- Contextualization (personalized content adaptation)  
-- Conversational warmth (affective tone and empathy cues)  
-- Trust in AI systems (perceived reliability and safety)  
-- Reliance on AI agents (behavioral dependence)  
-- Persuasive communication (influencing attitudes or choices)  
-- AI literacy (user’s knowledge of AI capabilities and limitations)
+## Related Concepts
 
-[[Personalized to Persuade: The Effects of Contextualization and Warmth on Trust and Reliance in Conversational AI]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

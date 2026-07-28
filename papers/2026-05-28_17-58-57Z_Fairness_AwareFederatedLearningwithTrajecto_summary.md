@@ -31,7 +31,9 @@ On benchmark datasets such as CIFAR‑10 and medical imaging, FedTSV reduces tra
 ## Significance  
 By linking fairness directly to the model’s learning trajectory rather than static metrics, this work offers a principled approach to equitable federated training that simultaneously addresses privacy and bias concerns. It can be applied to any federated setting with heterogeneous contributions, paving the way for more inclusive AI systems.
 
-## Related Concepts  
-Federated Learning, Shapley Value, Shapley Approximation, Adaptive Aggregation, Fairness Metrics, Validation‑Based Utility, Trajectory Analysis, Adversarial Participation.
+## Related Concepts
 
-[[Fairness-Aware Federated Learning with Trajectory Shapley Value]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

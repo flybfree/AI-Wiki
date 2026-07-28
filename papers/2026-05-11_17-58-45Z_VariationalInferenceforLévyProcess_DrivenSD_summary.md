@@ -31,7 +31,9 @@ Empirical experiments on both synthetic Lévy‑driven SDEs and real‑world dat
 ## Significance  
 This work bridges the gap between neural variational inference and rigorous Lévy process theory, offering a reliable tool for Bayesian analysis of heavy‑tailed phenomena that are critical across many domains. By preserving discontinuities and providing scalable optimization, it enables practitioners to obtain accurate posterior predictions without resorting to prohibitively expensive Monte Carlo simulations.
 
-## Related Concepts  
-Lévy processes, stochastic differential equations, variational inference, exponential tilting, neural networks, Monte Carlo estimators, Gaussian approximation, heavy‑tailed phenomena.
+## Related Concepts
 
-[[2026-05-11_17-58-45Z_VariationalInferenceforLévyProcess_DrivenSDEsviaNe.md]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -32,3 +32,10 @@ KC-steered generation may make educational content more targeted and less costly
 - Published: 2026-04-27T17:56:56Z
 - URL: http://arxiv.org/abs/2604.24758v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-27_17-56-56Z_PersonalizedWorkedExampleGenerationfromStudentCode.md
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]

@@ -31,14 +31,9 @@ The results are not experimental but rather a set of validated design principles
 ## Significance  
 This work matters because it equips researchers with a practical toolkit for navigating the transition from linear HPC pipelines to AI‑centric, probabilistic computation. By addressing data gravity and heterogeneous resource management directly, the paper helps avoid costly re‑runs and wasted compute time, thereby accelerating scientific discovery in fields such as computational biology.
 
-## Related Concepts  
-- AI‑driven high‑performance computing (HPC) workflows  
-- Data gravity and large‑scale data movement  
-- Heterogeneous resource management across clusters  
-- Containerisation for environment portability  
-- Job arrays and distributed task scheduling  
-- Explicit feedback loop mechanics in iterative pipelines  
-- I/O optimisation for small files  
-- Reproducibility and scalability of AI experiments
+## Related Concepts
 
-[[Twelve quick tips for designing AI-driven HPC workflows]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

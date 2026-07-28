@@ -31,7 +31,9 @@ In a four‑task study covering 7,978 evaluations at a cost of USD 5.89, CoEva
 ## Significance  
 CoEval solves a longstanding problem in AI research: evaluating models on bespoke tasks without contaminating benchmark scores or incurring costly human labeling. By providing an automated, contamination‑free leaderboard, it enables teams to track performance across releases and encourages more frequent, reliable comparisons. This is especially valuable for applications where public benchmarks are outdated or irrelevant.
 
-## Related Concepts  
-label‑free evaluation, synthetic benchmark generation, cross‑family judging, ensemble ranking, contamination mitigation, attribute‑controlled tasks
+## Related Concepts
 
-[[CoEval: Ranking Language Models for Custom Tasks Without Labeled Data or Trustworthy Benchmarks]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

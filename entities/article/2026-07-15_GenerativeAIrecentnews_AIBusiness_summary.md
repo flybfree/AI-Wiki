@@ -18,3 +18,10 @@ The broader AI landscape is moving beyond virtual agents toward systems that can
 
 ## Implications  
 This focus could accelerate deployment of robots in logistics, healthcare, and education, reducing labor costs and improving safety. However, it raises ethical concerns about job displacement and the need for robust regulatory frameworks. The industry must balance innovation speed with responsible development to ensure societal benefit.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]

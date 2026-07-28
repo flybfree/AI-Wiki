@@ -18,3 +18,10 @@ This episode occurs amid growing scrutiny of large language models’ ability to
 
 ## Implications  
 For the AI industry, the case signals that user‑generated content shared via AI interfaces is not automatically protected from public indexing or misuse. It calls for stronger technical controls—such as preventing accidental sitemap exposure and enforcing stricter post‑sharing verification—to preserve user trust. Regulators may also need to consider how publicly accessible AI data impacts privacy compliance, especially when sensitive information like health records is inadvertently exposed.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -35,3 +35,10 @@ Our dataset and relevant resources will be available online.
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-26_14-15-43Z_ExpertEvaluationofLLM_sOpen_EndedLegalReasoningont.md
 
 [[Expert Evaluation of LLM's Open-Ended Legal Reasoning on the Japanese Bar Exam Writing Task]]
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

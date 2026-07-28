@@ -79,3 +79,10 @@ Together, these breakthroughs illustrate how AI is no longer a niche tool but an
 ### Future Outlook
 
 The nine breakthroughs outlined above are merely the tip of a broader iceberg. As AI models grow more capable, they will increasingly mediate decisions in sectors previously thought beyond technological reach—such as quantum‑level drug design and interplanetary logistics. The ultimate implication is that humanity’s trajectory will be co‑written by both human intention and machine capability; the challenge lies in shaping that collaboration toward equitable, responsible, and forward‑looking outcomes.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

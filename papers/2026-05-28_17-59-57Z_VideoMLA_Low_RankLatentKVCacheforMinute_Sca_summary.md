@@ -32,10 +32,8 @@ Experimental evaluation on VBench shows that VideoMLA matches short‑horizon st
 By dramatically lowering streaming memory usage without sacrificing generation quality, VideoMLA makes long‑rollout video diffusion feasible on modest hardware, opening doors to real‑time minute‑scale applications such as interactive video synthesis and large‑scale editing tools. The approach also provides a theoretical insight that the bottleneck of high effective rank is not inherent to pretrained attention but imposed by the KV cache layout itself, guiding future work toward more efficient latent representations in vision‑language models.  
 
 ## Related Concepts
-- Key‑Value (KV) Cache  
-- Low‑Rank Approximation  
-- 3D Rotational Positional Encoding (RoPE)  
-- Autoregressive Video Diffusion  
-- Spectral Rank Assumption
 
-[[VideoMLA: Low-Rank Latent KV Cache for Minute-Scale Autoregressive Video Diffusion]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

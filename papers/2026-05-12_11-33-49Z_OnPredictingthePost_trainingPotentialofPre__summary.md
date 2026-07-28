@@ -31,13 +31,8 @@ Extensive experiments conducted on various base models demonstrate that RuDE ach
 This research matters because it provides a compute-efficient mechanism for foundation model development, addressing the growing need for cost-effective model selection in the era of large-scale AI. By enabling accurate prediction of post-training potential without the need for extensive and expensive post-training trials, RuDE allows researchers and developers to allocate resources more wisely. It challenges the reliance on traditional benchmarks that may mislead selection processes and offers a robust, theoretically grounded alternative for evaluating the true utility of pre-trained models.
 
 ## Related Concepts
-- Large Language Models (LLMs)
-- Post-training Potential
-- Rubric-based Discriminative Evaluation (RuDE)
-- 4C Taxonomy
-- Response Discrimination
-- Reinforcement Learning (RL)
-- Model Selection
-- Foundation Models
 
-[[On Predicting the Post-training Potential of Pre-trained LLMs]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

@@ -31,13 +31,9 @@ Experimental results show that models built with think‑aloud constraints achie
 ## Significance  
 This study demonstrates that augmenting automated discovery with process‑level language traces yields not only improved fit but also a reconfiguration of the inferred cognitive model, unlocking insights inaccessible to behavior‑only approaches. By bridging behavioral outcomes with explicit mental reasoning, the work opens pathways for more mechanistic explanations in AI‑driven cognitive modeling.
 
-## Related Concepts  
-- Cognitive model discovery  
-- Large language models (LLMs)  
-- Think‑aloud traces as data constraints  
-- Risky decision‑making tasks  
-- Explicit comparator vs. integrated utility structural classes  
-- Behavioral trajectory analysis  
-- Under‑determined models and additional constraints
+## Related Concepts
 
-[[Think-Aloud Reshapes Automated Cognitive Model Discovery Beyond Behavior]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

@@ -31,13 +31,8 @@ The experimental results indicate a clear separation in the capabilities of fron
 This research is significant because it shifts the focus from static knowledge retrieval to dynamic adaptation, a critical requirement for real-world AI deployment. By demonstrating that current agents fail to outperform simple baselines in long-horizon tasks, FutureSim underscores the urgent need for advancements in memory, search, and uncertainty reasoning. The benchmark provides a concrete path for measuring progress in open-ended adaptation, guiding future research toward more robust and temporally aware AI systems.
 
 ## Related Concepts
-- Adaptive AI Agents
-- Long-horizon Forecasting
-- Dynamic Environments
-- Test-time Adaptation
-- Uncertainty Reasoning
-- Chronological Information Integration
-- Brier Skill Score
-- Open-ended Evaluation
 
-[[FutureSim: Replaying World Events to Evaluate Adaptive Agents]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

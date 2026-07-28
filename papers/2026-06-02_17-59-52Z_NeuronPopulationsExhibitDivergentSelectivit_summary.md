@@ -31,11 +31,9 @@ Empirical analysis shows that the number of Rosetta Neurons follows \(N \propto 
 ## Significance  
 These findings reveal a hidden scaling law at the neuron level, suggesting that larger models do not simply add more neurons but reorganize existing ones into increasingly specialized subpopulations. This insight could guide more efficient pretraining strategies by focusing computational resources on preserving or enhancing the utility of already‑effective Rosetta Neurons rather than proliferating less effective ones.
 
-## Related Concepts  
-- Scaling laws in neural networks  
-- Sublinear power‑law growth  
-- Neuron polarization  
-- Feature utility vs. capacity trade‑off  
-- Domain specialization in pretraining
+## Related Concepts
 
-[[Neuron Populations Exhibit Divergent Selectivity with Scale]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

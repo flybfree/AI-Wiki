@@ -31,12 +31,9 @@ Across ten LLMs (five base, five instruction‑tuned) and four replacement basel
 ## Significance  
 By relaxing granularity constraints, SubFit enables more efficient compression that preserves model behavior while reducing size and latency—critical for deploying LLMs on resource‑constrained devices. Its submodule‑level approach opens a path to compressing heterogeneous parts of the architecture without sacrificing performance.
 
-## Related Concepts  
-- Replacement‑based compression  
-- Sparsity levels (12.5 %–37.5 %)  
-- Perplexity‑accuracy trade‑off  
-- KV‑cache savings  
-- Post‑training calibration data  
-- Residual bypass fitting
+## Related Concepts
 
-[[From Layers to Submodules: Rethinking Granularity in Replacement-Based LLM Compression]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

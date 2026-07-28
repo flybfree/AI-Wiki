@@ -31,11 +31,9 @@ Synthetic experiments with varying graph densities and node counts show that the
 ## Significance  
 Exploiting the underlying graph structure reduces both computational overhead of projection and the memory burden of coefficient duplication, making doubly sparse regularization scalable for high‑dimensional problems. The method provides a principled way to balance sparsity and smoothness, offering practical benefits in large‑scale regression tasks where traditional methods become prohibitive.
 
-## Related Concepts  
-- Gaussian graphical model (GGM)  
-- Doubly sparse regularization  
-- Proximal operator  
-- L1/L2 trade‑off penalty  
-- Predictor duplication methods
+## Related Concepts
 
-[[Proximal Projection for Doubly Sparse Regularized Models]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -18,3 +18,10 @@ The article situates Patreon’s decision within a larger AI‑driven shift acro
 
 ## Implications  
 For AI researchers and industry observers, this case illustrates how companies may prioritize cost efficiency over workforce preservation while still leveraging AI to maintain competitive advantage. It underscores the need for transparent communication about AI’s role in labor decisions and raises questions about long‑term sustainability when firms rely heavily on technology to offset human capital loss.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]

@@ -31,12 +31,9 @@ Across five benchmark datasets (SWaT, SMD, PSM, MSL, SMAP), ContrastAD attains t
 ## Significance  
 ContrastAD addresses a critical gap in unsupervised MTS anomaly detection by aligning learning objectives with real‑world dynamic structures rather than assuming static relational invariance. By integrating temporal, attribute, and structural perspectives while filtering spectral noise, the method delivers robust performance without requiring labeled anomalies, paving the way for practical deployment in streaming industrial systems where data drift is inevitable.
 
-## Related Concepts  
-- Dynamic Graph Contrastive Learner  
-- Multi‑Perspective Embedder  
-- Frequency‑Aware Attention Mixer  
-- Power‑law‑inspired sparse graph snapshots  
-- Batch‑level DTW distances  
-- Structural evolution as a learning signal
+## Related Concepts
 
-[[Contrast to Detect: Dynamic Graph Contrastive Regularization for Unsupervised Anomaly Detection in Multivariate Time Series]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

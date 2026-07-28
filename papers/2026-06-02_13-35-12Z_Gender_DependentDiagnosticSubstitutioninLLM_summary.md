@@ -31,13 +31,9 @@ All three models exhibited a statistically significant reduction in ER referral 
 ## Significance  
 These findings reveal that clinical LLMs can replicate documented human biases by privileging epidemiological priors over urgency assessment, thereby suppressing appropriate emergency referrals for young women. This challenges the assumption that AI triage systems are neutral and underscores a need to decouple diagnostic probabilities from care‑level decisions. The study also provides empirical evidence that age moderates bias, suggesting that fairness interventions must consider demographic interaction effects.
 
-## Related Concepts  
-- Gender bias in medical diagnosis  
-- Diagnostic substitution (replacing one condition with another based on stereotypes)  
-- Epidemiological priors influencing AI reasoning  
-- LLM triage and clinical decision support  
-- Emergency referral rates as a fairness metric  
-- Age‑dependent risk stratification  
-- AI fairness and equity in healthcare
+## Related Concepts
 
-[[Gender-Dependent Diagnostic Substitution in LLM Medical Triage: Same Symptoms, Unequal Urgency]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/vision-ai/vision-ai-hub.md|Vision AI Hub]]

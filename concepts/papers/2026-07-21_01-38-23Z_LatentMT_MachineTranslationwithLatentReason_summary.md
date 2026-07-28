@@ -93,3 +93,10 @@ These results confirm that both the **latent reasoning module** and the **contra
 ### Conclusion  
 
 LatentMT demonstrates that integrating a learnable reasoning component into machine translation can yield measurable gains in BLEU scores while preserving the scalability of modern neural models. The framework’s modular design allows for easy adaptation to new languages, domains, or reasoning depths, positioning it as a promising direction for next‑generation translation systems.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]

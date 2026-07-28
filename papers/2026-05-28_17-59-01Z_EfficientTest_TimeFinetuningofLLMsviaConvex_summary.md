@@ -31,7 +31,9 @@ Experiments on several benchmark datasets show that HullFT achieves a 30 % red
 ## Significance  
 HullFT addresses the core limitation of TTFT—its per‑query computational expense—by leveraging geometric properties of training data to create a compact, reusable representation. This approach enables truly scalable test‑time adaptation without sacrificing quality, which is crucial for applications requiring rapid personalization such as chatbots and interactive assistants.
 
-## Related Concepts  
-Test‑Time Finetuning (TTFT), convex hull approximation, Frank‑Wolfe algorithm, projection‑free optimization, geometric integerization, integer multiset, gradient reuse, sparsity, support set.
+## Related Concepts
 
-[[Efficient Test-Time Finetuning of LLMs via Convex Reconstruction and Gradient Caching]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

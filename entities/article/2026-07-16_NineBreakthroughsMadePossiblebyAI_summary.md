@@ -18,3 +18,10 @@ In the broader context of AI applications in healthcare, these UC San Diego pr
 
 ## Implications  
 The implications are profound for both the scientific community and public health. By enabling earlier detection of Alzheimer’s triggers, faster TB therapy identification, and non‑invasive heart monitoring, AI reduces diagnostic latency, lowers treatment costs, and opens new avenues for personalized medicine. These breakthroughs signal a future where AI is not merely an assistant but a co‑creator in biomedical research.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]

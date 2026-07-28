@@ -96,3 +96,10 @@ MIRAGE generates contrast maps in real time on a standard GPU (NVIDIA RTX 3080
 ---
 
 **Conclusion:** The multi‑scale lesion‑informed representation combined with auxiliary guidance yields a robust, high‑quality MRI contrast‑enhancement system that is both perceptually superior and computationally efficient. Future work will explore extending MIRAGE to other modalities (e.g., functional MRI) and to real‑time clinical pipelines where segmentation masks are unavailable.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

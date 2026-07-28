@@ -31,7 +31,9 @@ Experiments demonstrate that IHO achieves higher attack success rates than exist
 ## Significance  
 IHO provides a standardized evaluation baseline for LLM jailbreak robustness, improving the reliability of defense assessments and enabling fair comparison across methods. This addresses a critical gap in adversarial testing that has hampered practical deployment decisions.
 
-## Related Concepts  
-Adversarial robustness, black‑box attack, adaptive attacks, transfer learning, masked diffusion models, preference optimization, Circuit Breaker, auxiliary detector, jailbreak evaluation.
+## Related Concepts
 
-[[Black-box, Adaptive, Efficient, Transferable, Harmful, Applicable... Attacks Are All You Need to Break LLMs]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

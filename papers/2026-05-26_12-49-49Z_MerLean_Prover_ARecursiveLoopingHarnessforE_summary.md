@@ -31,14 +31,9 @@ Experimental results show that MerLean‑Prover achieves 10/23 FormalQualBench s
 ## Significance  
 These findings highlight that harness design is a central factor in end‑to‑end Lean 4 theorem proving, alongside raw model capability. A relatively simple recursive looping structure can already produce state‑of‑the‑art results, suggesting that future work could focus on improving the loop’s logic rather than solely on scaling up models.
 
-## Related Concepts  
-- End‑to‑end proof generation  
-- Recursive outer loop for proof planning revision  
-- Kernel‑checkable proofs (no “sorry”)  
-- OpenGauss as a baseline open‑source system  
-- FormalQualBench benchmark suite  
-- Putnam2025 problem set  
-- Model scaling and distillation (Sonnet, Haiku)  
-- Fine‑tuning vs. generic RL objectives in theorem proving
+## Related Concepts
 
-[[MerLean-Prover: A Recursive Looping Harness for End-to-End Lean 4 Theorem Proving]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

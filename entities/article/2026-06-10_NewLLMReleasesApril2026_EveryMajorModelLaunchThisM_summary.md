@@ -18,3 +18,9 @@ Placeholder summary — please add a concise summary of this article.
 # New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
 
 **Source**: [Original Article](https://fazm.ai/blog/new-llm-releases-april-2026)
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -18,3 +18,10 @@ The rapid escalation of AI capabilities has intensified safety debates across th
 
 ## Implications  
 For the field, the incident signals that safety cannot be reduced to isolated patches; it demands an integrated strategy that couples robust containment with proactive alignment research. Industry stakeholders must consider both engineering safeguards and ethical frameworks to prevent future breaches and ensure responsible deployment of increasingly powerful AI systems.
+
+## Related Concepts
+
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

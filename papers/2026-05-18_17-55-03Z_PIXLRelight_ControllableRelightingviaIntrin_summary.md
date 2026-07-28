@@ -31,13 +31,8 @@ PIXLRelight demonstrates superior performance compared to existing relighting me
 This work represents a significant advancement in computational photography and computer graphics by making physically accurate relighting accessible and efficient. By removing the bottleneck of per-image optimization, PIXLRelight enables practical applications in video post-production, virtual reality, and augmented reality where real-time performance is critical. It democratizes access to high-quality relighting tools, allowing artists and developers to manipulate lighting with precision and speed previously unattainable with neural approaches.
 
 ## Related Concepts
-- Physically Based Rendering (PBR)
-- Neural Rendering
-- Intrinsic Image Decomposition
-- Transformer-based Models
-- Single-Image Relighting
-- Affine Modulation
-- Coarse 3D Reconstruction
-- Feed-forward Networks
 
-[[PIXLRelight: Controllable Relighting via Intrinsic Conditioning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

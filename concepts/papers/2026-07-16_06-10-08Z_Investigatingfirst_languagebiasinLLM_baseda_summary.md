@@ -106,3 +106,10 @@ Figure 2 displays a box‑plot of model scores per language group, with Englis
 ---
 
 **Overall conclusion:** Our cross‑prompt evaluation demonstrates that an open‑weight LLM exhibits measurable first‑language bias when scoring TOEFL essays, with non‑English writers receiving systematically lower scores than English speakers. The findings underscore the need for language‑aware calibration and multilingual fine‑tuning to achieve equitable automated assessment.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

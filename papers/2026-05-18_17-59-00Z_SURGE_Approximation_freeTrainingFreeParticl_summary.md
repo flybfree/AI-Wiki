@@ -31,13 +31,8 @@ Empirical evaluations show that SURGE outperforms existing inference-time guidan
 This work is significant because it provides a practical, efficient, and theoretically sound alternative to gradient-based inference-time guidance. By removing the need for score and Hessian evaluations, SURGE reduces computational overhead and implementation complexity, making advanced guidance techniques more accessible. The theoretical equivalence established between path-wise and particle-wise SMC offers new insights into the mathematical foundations of diffusion model guidance, potentially influencing future research in this area.
 
 ## Related Concepts
-- Diffusion Models
-- Inference-Time Guidance
-- Sequential Monte Carlo (SMC)
-- Girsanov Theorem
-- Importance Sampling
-- Particle Filtering
-- Path-wise Reweighting
-- Gradient-Free Optimization
 
-[[SURGE: Approximation-free Training Free Particle Filter for Diffusion Surrogate]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]

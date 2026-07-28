@@ -18,3 +18,10 @@ The update occurs amid a competitive race between OpenAI’s ChatGPT Voice mode 
 
 ## Implications  
 For the field, Anthropic’s move signals a trend toward modular voice models that can be swapped for speed or capability, potentially lowering barriers for developers to integrate advanced capabilities into consumer apps. However, the restriction on free users and the need for manual language selection may limit adoption in global markets, underscoring ongoing challenges of equitable AI access despite incremental improvements.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

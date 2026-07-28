@@ -31,13 +31,8 @@ The experimental results revealed significant variations in performance across t
 This work is significant because it provides practitioners with actionable insights into the trade-offs inherent in transfer learning for image classification. By quantifying the costs and benefits of various pre-trained models, the paper helps developers make informed decisions that balance performance with computational efficiency. This is particularly crucial in industries where deployment constraints, such as memory limits or latency requirements, are as important as accuracy. The findings contribute to the broader field of machine learning by standardizing the evaluation of transfer learning techniques, encouraging more efficient and sustainable AI development practices.
 
 ## Related Concepts
-- Transfer Learning
-- Deep Neural Networks (DNNs)
-- Image Classification
-- Pre-trained Models
-- ImageNet Dataset
-- Model Efficiency
-- Accuracy Density
-- Computational Resource Optimization
 
-[[A Transfer Learning Evaluation of Deep Neural Networks for Image Classification]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

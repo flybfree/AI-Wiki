@@ -124,3 +124,10 @@ The CPSDG model consistently outperforms the baseline, especially at the critica
 ---
 
 **Conclusion** – By leveraging the mathematical richness of percolation theory, we have created a synthetic data model that is both **interpretable** (its parameters are explicit) and **effective** for probing complex system behavior. The CPSDG framework can be integrated into any pipeline where interpretability of critical dynamics matters, offering a principled alternative to opaque noise‑based synthetic generation.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

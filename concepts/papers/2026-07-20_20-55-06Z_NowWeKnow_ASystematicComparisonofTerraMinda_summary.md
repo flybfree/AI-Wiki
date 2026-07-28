@@ -70,3 +70,10 @@ A bar chart (Fig. 2) illustrates the distribution of BLEU scores across task d
 ---
 
 *In sum, this systematic comparison equips researchers and practitioners with a balanced view of the strengths and weaknesses of TerraMind and THOR. The findings guide future design choices where conversational AI must prioritize either deep semantic understanding or rapid, resource‑constrained response.*
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

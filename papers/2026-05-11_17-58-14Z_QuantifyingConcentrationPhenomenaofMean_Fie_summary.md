@@ -31,16 +31,9 @@ Theoretically, the Wasserstein distance scales as \(\sqrt{\log(\beta+1)/\beta}\,
 ## Significance  
 This work provides a rigorous quantitative measure of token concentration in transformers under low‑temperature regimes, bridging deep theoretical analysis with practical inference behavior. By identifying when and how fast tokens converge, it informs training strategies that aim to stabilize attention at near‑zero temperature and helps diagnose pathological dynamics such as value‑matrix dominance.
 
-## Related Concepts  
-- Mean‑field approximation of self‑attention dynamics  
-- Continuity equation governing token evolution  
-- Wasserstein distance for quantifying distribution concentration  
-- Projection map induced by K, Q, V matrices  
-- Interacting particle systems and their convergence analysis  
-- Lyapunov estimates and stability in Wasserstein space  
-- Laplace principle for coupling discrete and continuous models  
-- Push‑forward of initial token distributions  
-- Metastability of the limiting distribution  
-- Value matrix spectrum influencing terminal phase
+## Related Concepts
 
-[[Quantifying Concentration Phenomena of Mean-Field Transformers in the Low-Temperature Regime]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

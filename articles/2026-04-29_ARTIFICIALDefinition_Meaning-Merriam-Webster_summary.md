@@ -34,3 +34,10 @@ Understanding the precise definition of "artificial" is crucial for the AI indus
 - [[2026-05-09_AgentArchitectureEvolution.md]
 - [[2026-06-09_MachineLearningArchitectureHub.md]
 - [[2026-05-09_AutonomousAgentFrameworks.md]
+
+## Related Concepts
+
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/vision-ai/vision-ai-hub.md|Vision AI Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

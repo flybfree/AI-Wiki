@@ -18,3 +18,10 @@ The article situates Helios within a broader industry shift: as agentic AI—sys
 
 ## Implications  
 The launch of Helios could intensify the race for AI infrastructure, prompting cloud providers and hyperscalers to diversify their hardware portfolios beyond Nvidia. It may accelerate adoption of alternative GPU architectures, reshape pricing dynamics in data‑center markets, and set a precedent for future chipmakers to target the $1 trillion AI accelerator market by 2030.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

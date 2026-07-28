@@ -31,13 +31,8 @@ Experimental results indicate that cross-shot entity consistency in existing met
 This work is significant because it establishes a standardized, rigorous framework for evaluating multi-shot video generation, moving beyond simple single-shot metrics. By highlighting the severe degradation of consistency over long ranges, it identifies a major bottleneck in current generative models. The introduction of EntityBench and EntityMem provides the community with necessary tools and baselines to advance the creation of coherent, long-form visual narratives, which is crucial for applications in film, animation, and interactive storytelling.
 
 ## Related Concepts
-- Multi-shot Video Generation
-- Entity Consistency
-- Long-Range Dependency
-- Visual Memory Banks
-- Benchmarking Generative Models
-- Narrative Coherence
-- Prompt Following
-- Fidelity Metrics
 
-[[EntityBench: Towards Entity-Consistent Long-Range Multi-Shot Video Generation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

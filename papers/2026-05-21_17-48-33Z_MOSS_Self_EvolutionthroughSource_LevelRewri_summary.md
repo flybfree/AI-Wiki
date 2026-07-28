@@ -31,12 +31,8 @@ The primary experimental result demonstrates that MOSS significantly improves ag
 This research is significant because it shifts the paradigm of agent maintenance from static, human-driven updates to dynamic, autonomous self-improvement. By enabling agents to fix structural failures directly in their code, MOSS reduces the reliance on human engineers for routine maintenance and allows systems to adapt continuously to new challenges. This approach promises more resilient, self-sustaining AI systems that can operate effectively in complex, changing environments.
 
 ## Related Concepts
-- Autonomous Agentic Systems
-- Self-Evolution in AI
-- Source-Level Code Rewriting
-- Automated Software Maintenance
-- Production Failure Analysis
-- Containerization and Deployment Safety
-- Large Language Model Agents
 
-[[MOSS: Self-Evolution through Source-Level Rewriting in Autonomous Agent Systems]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

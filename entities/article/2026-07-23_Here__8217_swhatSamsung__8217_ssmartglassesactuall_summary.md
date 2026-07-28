@@ -18,3 +18,10 @@ The release aligns with a broader industry push toward affordable, consumer‑gr
 
 ## Implications  
 If privacy issues persist as highlighted in the article, regulators may need to enforce stricter data‑handling standards for consumer AR devices. Moreover, Samsung’s partnership with established eyewear retailers could accelerate mainstream adoption, potentially reshaping how AI‑enhanced visual tools are perceived from a design and ethical standpoint.
+
+## Related Concepts
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

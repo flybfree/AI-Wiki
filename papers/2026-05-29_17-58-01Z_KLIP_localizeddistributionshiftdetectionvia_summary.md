@@ -31,7 +31,9 @@ Ablation studies confirm robustness: performance remains comparable across diffe
 ## Significance  
 By enabling reliable OOD detection in inverse problems without external calibration, KLIP improves diagnostic accuracy, reduces false positives/negatives for subtle pathology, and provides a unified framework applicable beyond medical imaging to any scenario where diffusion priors are available. This lowers the barrier to deploying robust OOD detectors in real‑world applications.  
 
-## Related Concepts  
-Kullback‑Leibler divergence, diffusion priors, variational inference, out‑of‑distribution detection, inverse problems, computational imaging.
+## Related Concepts
 
-[[KLIP: localized distribution shift detection via KL-divergence with diffusion priors in Inverse Problems]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

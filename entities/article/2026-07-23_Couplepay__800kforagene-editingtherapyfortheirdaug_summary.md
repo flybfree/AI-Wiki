@@ -18,3 +18,10 @@ The incident occurs within a broader landscape where advanced biotechnologies—
 
 ## Implications  
 For the field, this case signals a need for stricter disclosure standards and more rigorous cost‑benefit analyses before allocating large sums to experimental therapies. It also reflects how high‑tech investments can intersect with medical ethics, prompting regulators to balance innovation with patient safety and transparency in AI‑enabled biotech research.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

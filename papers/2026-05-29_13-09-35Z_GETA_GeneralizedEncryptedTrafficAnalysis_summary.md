@@ -31,15 +31,9 @@ Across nine public datasets—including application identification, VPN traffic 
 ## Significance  
 GETA provides a practical foundation for reliable traffic analysis in modern encrypted networks where payload inspection is impractical or prohibited. By operating solely on metadata and adapting swiftly to new protocols, it addresses the core limitations of deep packet inspection while preserving privacy and security.
 
-## Related Concepts  
-- Encrypted Traffic Analysis (ETA)  
-- Deep Packet Inspection (DPI)  
-- Meta‑learning  
-- Embedding refinement  
-- Self‑attention mechanisms  
-- Protocol‑agnostic analysis  
-- Multivariate time series modeling  
-- Few‑shot learning  
-- Traffic metadata extraction
+## Related Concepts
 
-[[GETA: Generalized Encrypted Traffic Analysis]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

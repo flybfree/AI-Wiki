@@ -18,3 +18,10 @@ The change reflects the broader trend in AI where search engines move from keywo
 
 ## Implications  
 For the field and industry, this redesign signals a shift toward more interactive, context‑aware search tools that can process complex, multi‑modal inputs. It may accelerate adoption of conversational AI across platforms, encourage developers to design interfaces around open data streams, and set a new benchmark for user engagement in search technology.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

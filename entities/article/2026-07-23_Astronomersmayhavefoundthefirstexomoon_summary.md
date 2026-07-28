@@ -18,3 +18,10 @@ The detection of an exomoon is a milestone for planetary astronomy, but it also 
 
 ## Implications  
 Confirming this object would reshape definitions in exoplanetary science and validate AI‑driven discovery pipelines, encouraging further investment in both observational infrastructure and machine‑learning models. It also underscores the need for interdisciplinary frameworks to label non‑solar systems, potentially influencing future mission design aimed at confirming or refuting exomoon candidates.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

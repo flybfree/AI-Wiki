@@ -31,11 +31,9 @@ Across five benchmark datasets—Mathematics (MATH), Chemistry (CHEM), Biology (
 ## Significance  
 By eliminating redundant confidence evaluations, VecCISC makes large‑scale self‑consistency feasible for real‑time applications such as chatbots and tutoring systems. The approach also offers a principled way to filter out hallucinated or degenerate reasoning, improving downstream reliability without sacrificing performance. This work demonstrates that efficiency gains in LLM pipelines can be achieved through simple similarity‑based clustering rather than more complex model architectures.  
 
-## Related Concepts  
-- Self‑Consistency: sampling multiple candidate answers and selecting the majority.  
-- Confidence‑Informed Self‑Consistency (CISC): weighting votes by critic scores.  
-- Reasoning trace clustering: grouping semantically similar traces to reduce redundancy.  
-- Candidate answer selection: choosing representative traces for evaluation.  
-- Weighted majority voting: aggregating confidence scores into a final decision.
+## Related Concepts
 
-[[VecCISC: Improving Confidence-Informed Self-Consistency with Reasoning Trace Clustering and Candidate Answer Selection]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

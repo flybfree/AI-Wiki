@@ -18,3 +18,10 @@ The piece situates this episode within ongoing debates about U.S. leadership in 
 
 ## Implications  
 If the United States continues to impose strict limits on Chinese AI development, it risks stifling innovation, creating an uneven playing field that benefits only a handful of companies while potentially slowing progress for all. The article suggests that a balanced approach—addressing genuine concerns without fueling panic—is essential for sustainable competition and technological advancement.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

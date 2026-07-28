@@ -31,7 +31,9 @@ On reward benchmark datasets including Best‑of‑N selection and RL training, 
 ## Significance  
 By unifying heterogeneous evaluation signals into a single skill framework, Skill‑RM simplifies model development pipelines and improves reliability of reward signals. It also offers a principled way to handle complex rubrics that are difficult to encode as simple rules, paving the way for more robust RL fine‑tuning.
 
-## Related Concepts  
-Reward models (RMs), reinforcement learning (RL) fine‑tuning, heterogeneous evaluation criteria, rule‑based verifiers, ground‑truth references, procedural checklists, rubric scoring, agentic tasks, skill decomposition, dynamic evidence aggregation.
+## Related Concepts
 
-[[Skill-RM: Unifying Heterogeneous Evaluation Criteria via Agent Skill]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

@@ -18,3 +18,10 @@ The broader context is the rapid rise of AI‑powered cyber threats, especially 
 
 ## Implications  
 This shift signals a move toward agentic, context‑aware defense in cybersecurity, challenging legacy vendors and reshaping the market; it underscores that AI must be used defensively to keep pace with offensive capabilities. As traditional email security tools may become obsolete, organizations will need to adopt AI‑driven, continuously learning solutions that can adapt to new attack vectors.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]

@@ -18,3 +18,10 @@ Artificial intelligence is reshaping life sciences at an accelerating pace, acti
 
 ## Implications  
 These breakthroughs have profound implications for the medical field: they could shorten the time from disease identification to effective therapy, reduce mortality rates for conditions like Alzheimer’s and TB, and open new avenues for non‑invasive cardiac diagnostics. For the industry, AI‑driven research promises more efficient pipelines, lower costs, and a shift toward predictive rather than reactive healthcare, reinforcing AI as a cornerstone of future scientific advancement.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

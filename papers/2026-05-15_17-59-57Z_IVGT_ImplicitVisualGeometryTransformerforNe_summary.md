@@ -31,12 +31,8 @@ IVGT demonstrates strong generalization across various unseen scenes and dataset
 This work is significant because it shifts the paradigm from discrete, redundant geometric representations to continuous, implicit ones, offering a more robust and efficient way to understand 3D structures from 2D images. By eliminating the need for posed inputs, IVGT lowers the barrier for applying 3D reconstruction to real-world scenarios where camera metadata is often unavailable. The ability to generate coherent surfaces and accurate depth maps simultaneously makes it a valuable asset for robotics, augmented reality, and autonomous navigation systems.
 
 ## Related Concepts
-- Neural Scene Representation
-- Signed Distance Fields (SDF)
-- Multi-View Stereo (MVS)
-- Transformer Architectures
-- Unposed Image Reconstruction
-- Novel View Synthesis
-- Implicit Neural Networks
 
-[[IVGT: Implicit Visual Geometry Transformer for Neural Scene Representation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

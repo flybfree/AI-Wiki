@@ -31,8 +31,9 @@ Theoretical results demonstrate that for any differentiable map \(f\) on a weigh
 ## Significance  
 This work provides a rigorous theoretical basis for applying deep neural networks to problems involving high‑dimensional data that cannot be compactified, such as functional data analysis and optimal control on manifolds. By guaranteeing approximation of both function values and their derivatives, it opens pathways for training models that respect the geometric structure of infinite‑dimensional spaces, potentially improving stability and interpretability in scientific computing.
 
-## Related Concepts  
-- Functional input neural networks (FNN)  
-- Nachbin theorem and its extensions to infinite dimensions  
-- Weighted approximation theory on Banach spaces  
-- Path‑space functionals and their derivatives
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,5 +31,9 @@ Theoretical analysis shows that the safeguarded master achieves regret O(√{n l
 ## Significance  
 This work clarifies that algorithmic information and class‑wide minimax answer different questions, offering a clean mathematical setting for kernel bandits where this distinction becomes visible. It may guide future research on balancing computational tractability with robust performance guarantees.
 
-## Related Concepts  
-Gaussian process upper confidence bound (GP‑UCB), decision‑estimation coefficient (DEC), MAIR framework, RKHS bandits, positive‑semidefinite algorithmic priors, minimax certificates, regret analysis, overparameterized models.
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

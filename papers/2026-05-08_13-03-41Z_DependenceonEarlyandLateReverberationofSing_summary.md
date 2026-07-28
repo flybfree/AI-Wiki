@@ -31,12 +31,9 @@ The full RIR yields the lowest MAE of 0.14 m when time calibration is presen
 ## Significance  
 This work clarifies that single‑channel distance estimation can achieve high accuracy only when the propagation delay is known; otherwise early reflections become the primary cue. The findings have practical implications for designing compact audio devices and for understanding how acoustic environments influence perception.
 
-## Related Concepts  
-- Room impulse response (RIR)  
-- Early vs. late reverberation  
-- Sound propagation delay  
-- Calibration of acoustic measurements  
-- Mean absolute error (MAE)  
-- Decay‑time (DRR), C₅₀, T₆₀ metrics
+## Related Concepts
 
-[[Dependence on Early and Late Reverberation of Single-Channel Speaker Distance Estimation]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

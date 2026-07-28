@@ -31,12 +31,8 @@ On Qwen3.5-122B-A10B using V2 mode, XFP achieved 138 tokens per second single-st
 XFP represents a significant advancement in LLM deployment by removing the complexity and expertise required for effective quantization. By automating the trade-off between memory usage and inference quality, it enables the deployment of massive models on consumer-grade or workstation hardware that previously lacked the capacity. The H-Process further democratizes access to large-scale models by providing a robust mechanism for fitting them into constrained memory environments without manual trial-and-error tuning.
 
 ## Related Concepts
-- Dynamic Quantization
-- Mixture-of-Experts (MoE)
-- Codebook Quantization
-- Sparse Outlier Separation
-- Cosine Similarity Thresholds
-- Memory-Efficient Inference
-- Lloyd Clustering
 
-[[XFP: Quality-Targeted Adaptive Codebook Quantization with Sparse Outlier Separation for LLM Inference]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

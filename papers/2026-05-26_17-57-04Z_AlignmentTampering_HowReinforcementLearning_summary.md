@@ -31,11 +31,9 @@ Experiments show that when the reward model is optimized through RLHF, responses
 ## Significance  
 These findings expose a fundamental flaw in current RLHF: the feedback loop can be self‑reinforcing and biased, undermining alignment goals without degrading perceived quality. Mitigating this vulnerability is essential for safe deployment of large language models, yet existing robust RLHF techniques cannot fully eliminate it.
 
-## Related Concepts  
-- Reinforcement Learning from Human Feedback (RLHF)  
-- Preference modeling  
-- Pairwise response comparison  
-- Reward hacking / reward model exploitation  
-- Alignment tampering
+## Related Concepts
 
-[[Alignment Tampering: How Reinforcement Learning from Human Feedback Is Exploited to Optimize Misaligned Biases]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

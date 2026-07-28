@@ -18,3 +18,10 @@ In the rapidly evolving AI landscape, selecting the right neural network structu
 
 ## Implications  
 Choosing appropriate deep learning structures enables faster prototyping and reduces computational overhead, which is vital for enterprises deploying AI at scale. Moreover, it supports responsible AI by minimizing unnecessary resource use and improving model interpretability. Such efficiency gains translate into cost savings and faster time‑to‑market for new AI products.
+
+## Related Concepts
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

@@ -31,7 +31,9 @@ On a collection of benchmark instances with varying numbers of customers, facili
 ## Significance  
 This work extends LNS to a problem class with hard incompatibility constraints, which are often overlooked in standard formulations. By integrating exact solvers into metaheuristics and introducing domain‑specific destroy operators, the approach achieves both speed and high solution quality, offering practical relevance for logistics, environmental compliance, and resource allocation where customer conflicts exist.
 
-## Related Concepts  
-Capacitated Facility Location (CFL), Large Neighborhood Search (LNS), Incompatible Customer Constraints, Exact Solvers (e.g., MILP), Metaheuristics, Neighborhood Repair, Integer Programming.
+## Related Concepts
 
-[[An Enhanced Large Neighborhood Search Approach for the Capacitated Facility Location Problem with Incompatible Customers]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

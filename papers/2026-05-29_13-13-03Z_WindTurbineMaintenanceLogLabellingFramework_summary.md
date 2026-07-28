@@ -31,13 +31,9 @@ The experimental run processed 16 316 logs, resulting in the automatic correct
 ## Significance  
 Transforming qualitative maintenance observations into quantifiable reliability intelligence reduces reliance on subjective FMEA, lowers analysis costs, and accelerates root‑cause identification across large turbine fleets. The framework’s scalability makes it suitable for industry‑wide deployment, supporting service‑life extension and levelised cost of energy reductions in the renewable sector.
 
-## Related Concepts  
-- Large language model (LLM)  
-- Reliability intelligence extraction  
-- Maintenance log classification  
-- Failure mode and effects analysis (FMEA)  
-- Empirical taxonomy generation  
-- Hierarchical system codes  
-- Predictive maintenance
+## Related Concepts
 
-[[Wind Turbine Maintenance Log Labelling Framework: LLM-Driven Data Correction and Enrichment via Semantic Extraction of Reliability Intelligence]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

@@ -31,11 +31,9 @@ Experimental evaluation on HAIMEDA, a real‑world medical device damage assessm
 ## Significance  
 This work addresses a critical gap in AI safety: while LLMs are increasingly deployed where errors have legal or financial consequences, existing verification methods either lack expressiveness (purely symbolic) or inherit the model’s hallucination tendencies (purely neural). By providing complementary guarantees, the neuro‑symbolic framework offers a principled safeguard that can be integrated into production pipelines without compromising throughput.
 
-## Related Concepts  
-- Symbolic AI / theorem proving  
-- Neural semantic similarity  
-- Actor‑based parallelism  
-- Hallucination detection in LLMs  
-- Data‑sensitive domain compliance
+## Related Concepts
 
-[[Neuro-Symbolic Verification of LLM Outputs for Data-Sensitive Domains (extended preprint)]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

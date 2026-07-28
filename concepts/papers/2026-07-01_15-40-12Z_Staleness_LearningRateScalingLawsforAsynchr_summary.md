@@ -100,3 +100,10 @@ Figure 3 plots reward vs. safety score for each method. ALR‑RLHF consistentl
 ### Conclusion (recap)
 
 Our work introduces a **scaling law** that directly links model staleness to learning‑rate magnitude, and an **adaptive algorithm** that implements this relationship in asynchronous RLHF. Empirically, the method yields higher rewards, better safety scores, and faster convergence than any fixed‑learning‑rate baseline. The derived law provides a principled guide for future work on continual‑learning RLHF pipelines, where dynamic learning rates can be tuned to preserve both performance and stability.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

@@ -31,12 +31,8 @@ Experimental results indicate that the inclusion of an explicit silence class du
 This research matters because it provides a reliable, generalizable solution for a key bottleneck in soundscape ecology: the automated quantification of complex, noisy audio environments. By enabling distinct quantification of biophony, geophony, and anthropophony, CoarseSoundNet facilitates deeper understanding of how animal sounds interact with natural and human-made noises. This capability is essential for monitoring biodiversity and assessing the impact of human activity on ecosystems, offering a scalable alternative to labor-intensive manual annotation.
 
 ## Related Concepts
-- Soundscape Ecology
-- Passive Acoustic Monitoring (PAM)
-- Deep Learning for Audio Classification
-- Biophony, Geophony, Anthropophony
-- Ecoacoustics
-- Machine Learning Generalization
-- Acoustic Indices
 
-[[CoarseSoundNet: Building a reliable model for ecological soundscape analysis]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

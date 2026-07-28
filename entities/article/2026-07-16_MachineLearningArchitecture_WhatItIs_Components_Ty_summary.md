@@ -18,3 +18,10 @@ In the broader AI ecosystem, architecture acts as a unifying layer that connects
 
 ## Implications  
 The implications of a well‑designed architecture are significant: it reduces development time by standardizing workflows, lowers operational costs through efficient resource usage, improves model accuracy via appropriate evaluation protocols, and ensures compliance with regulatory standards. Moreover, architecture decisions affect model interpretability and explainability, which are increasingly important for trustworthy AI in regulated sectors. Consequently, organizations that invest in robust ML architecture gain competitive advantage.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

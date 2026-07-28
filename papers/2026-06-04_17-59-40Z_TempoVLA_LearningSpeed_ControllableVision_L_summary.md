@@ -31,7 +31,9 @@ Simulations and real‑world manipulation tasks demonstrate that TempoVLA can sm
 ## Significance  
 Enabling robots to adapt their execution speed dynamically improves safety and efficiency in manipulation tasks, especially when low‑risk transit phases demand rapid action while high‑risk contact stages require precise, slow motion. This work moves beyond static policies toward truly controllable multimodal agents.
 
-## Related Concepts  
-Vision‑Language‑Action models, Variable‑Speed Trajectory Augmentation (VSTA), multimodal conditioning, action magnitude as a speed proxy, large multimodal language models, dynamic speed control in robotics.
+## Related Concepts
 
-[[TempoVLA: Learning Speed-Controllable Vision-Language-Action Policies]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,7 +31,9 @@ Experiments on three reasoning LLMs ranging from 4 B to 30 B parameters acro
 ## Significance  
 This work advances long‑context reasoning by providing a scalable data‑generation pipeline and a verifiable reward that directly supervises intermediate steps. It shows that fine‑grained process supervision can boost model performance without sacrificing sample efficiency, offering a practical route toward models that reliably locate and integrate key information in lengthy passages.
 
-## Related Concepts  
-Long‑context reasoning, reinforcement learning with verifiable rewards (RLVR), knowledge graph random walks, tiered distractors, rubric reward, multi‑hop questions, evidence grounding.
+## Related Concepts
 
-[[LongTraceRL: Learning Long-Context Reasoning from Search Agent Trajectories with Rubric Rewards]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

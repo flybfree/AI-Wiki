@@ -9,3 +9,7 @@ Model: None
 ERROR: all endpoints returned no content
 
 ERROR: all endpoints returned no content
+
+## Related Concepts
+
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

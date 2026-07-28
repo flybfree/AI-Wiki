@@ -40,3 +40,10 @@ The initiative has already impacted millions of users—especially those in regu
 - **Future Innovation Paths**: Expect deeper integration of AI‑driven risk scoring (e.g., real‑time anomaly detection powered by Gemini) and tighter coupling with Google Workspace’s collaboration features, turning security into a seamless user experience.
 
 In short, Google Zero is no longer a futuristic promise—it is an operational reality that reshapes how organizations protect data, enforce compliance, and interact with cloud services. Ignoring it now would mean missing out on both security gains and competitive advantages in an increasingly hostile digital landscape.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

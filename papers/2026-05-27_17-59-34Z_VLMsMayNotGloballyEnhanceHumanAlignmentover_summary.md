@@ -31,15 +31,9 @@ Experimental results show no statistically significant improvement in alignment 
 ## Significance  
 These findings clarify that vision‑language learning does not automatically produce more human‑like language representations; instead, it may only influence alignment in contexts where visual semantics are salient. The paper provides a rigorous benchmark for future research on multimodal model alignment, encouraging the development of evaluation protocols that can disentangle the contributions of different training modalities.  
 
-## Related Concepts  
-- Large Language Models (LLMs)  
-- Vision‑Language Models (VLMs)  
-- Multimodal pretraining  
-- Human alignment  
-- Natural reading task  
-- Whole‑cortex fMRI responses  
-- Eye‑tracking saccades  
-- Cross‑modal fusion  
-- Text representation quality
+## Related Concepts
 
-[[VLMs May Not Globally Enhance Human Alignment over LLMs During Natural Reading]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

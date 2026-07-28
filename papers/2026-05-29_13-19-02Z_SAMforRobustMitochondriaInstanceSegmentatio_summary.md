@@ -31,13 +31,9 @@ Qualitative analysis shows clearer and more accurate delineations of mitochondri
 ## Significance  
 This research resolves a critical bottleneck in AI‑driven microscopy: the absence of annotated organelle data. By leveraging high‑fidelity simulation, it enables reliable instance segmentation without exhaustive manual annotation, accelerating discovery of cellular phenotypes and metabolic states. The method also demonstrates that synthetic data can be a viable substitute for scarce real‑world datasets.
 
-## Related Concepts  
-- Segment Anything Model (SAM)  
-- Fluorescence microscopy  
-- Instance segmentation  
-- Synthetic data generation  
-- Domain shift mitigation  
-- Mitochondria morphology analysis  
-- AI fine‑tuning
+## Related Concepts
 
-[[SAM for Robust Mitochondria Instance Segmentation in Fluorescence Microscopy]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

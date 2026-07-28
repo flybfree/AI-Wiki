@@ -18,3 +18,10 @@ The AI industry is moving toward open‑source foundation models that can be fin
 
 ## Implications  
 By releasing Inkling, Tinker not only expands the ecosystem of open‑weight models but also demonstrates how self‑directed fine‑tuning can generate novel capabilities (e.g., a lipogram assistant). This could democratize access to multimodal reasoning, encourage rapid prototyping for niche applications, and set a precedent for future model families that balance scale, efficiency, and user‑centric customization.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

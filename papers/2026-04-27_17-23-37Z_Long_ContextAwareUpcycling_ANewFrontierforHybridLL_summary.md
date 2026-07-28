@@ -32,3 +32,10 @@ HyLo points to a practical path for long-context scaling with lower memory use.
 - Published: 2026-04-27T17:23:37Z
 - URL: http://arxiv.org/abs/2604.24715v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-27_17-23-37Z_Long_ContextAwareUpcycling_ANewFrontierforHybridLL.md
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

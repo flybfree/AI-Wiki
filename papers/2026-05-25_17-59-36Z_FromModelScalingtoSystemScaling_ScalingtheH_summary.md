@@ -31,7 +31,9 @@ The comparative study shows that CheetahClaws achieves higher trajectory quality
 ## Significance  
 By shifting focus from one‑shot task success to holistic system evaluation, this work provides a framework for measuring real agentic behavior over time. It underscores that safe, reliable agents will require disciplined engineering of their execution layers as much as stronger models, guiding future research and deployment practices.
 
-## Related Concepts  
-- Foundation model; Agentic AI; Memory substrate; Context constructor; Skill‑routing layer; Orchestration loop; Verification‑and‑governance layer; Harness; Benchmarking; Safety; Evolution.
+## Related Concepts
 
-[[From Model Scaling to System Scaling: Scaling the Harness in Agentic AI]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

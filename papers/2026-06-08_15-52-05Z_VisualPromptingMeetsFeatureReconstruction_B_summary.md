@@ -31,11 +31,9 @@ On the AeBAD dataset, the MMR‑based dual‑teacher model with visual prompting
 ## Significance  
 These results prove that integrating visual prompting, dual‑teacher adaptation, and synthetic augmentation can dramatically improve real‑world anomaly detection where assumptions are violated. The approach is transferable to other domains requiring robust object recognition under varying conditions, potentially lowering false positives and enabling deployment in industrial or medical imaging settings.
 
-## Related Concepts  
-- Visual Prompting (foreground‑background masking)  
-- Dual‑Teacher Supervision (teacher unfreezing during student training)  
-- Feature Reconstruction‑Based Anomaly Detection  
-- Diffusion Models for Synthetic Data Generation  
-- Masked Multiscale Reconstruction (MMR) backbone
+## Related Concepts
 
-[[Visual Prompting Meets Feature Reconstruction-Based Anomaly Detection with Dual-Teacher Supervision]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

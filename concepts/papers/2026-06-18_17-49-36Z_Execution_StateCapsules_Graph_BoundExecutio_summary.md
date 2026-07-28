@@ -78,3 +78,10 @@ All experiments were conducted under identical model versions (e.g., MobileNet�
 ---
 
 **Conclusion:** Execution‑State Capsules provide a practical path toward low‑latency, small‑batch AI serving on physical‑AI hardware by decoupling checkpoint storage from full model reloads. The resulting latency and energy benefits make ESCs suitable for real‑time applications such as augmented reality, voice assistants, and autonomous navigation—all while keeping memory footprints within the constraints of edge devices.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

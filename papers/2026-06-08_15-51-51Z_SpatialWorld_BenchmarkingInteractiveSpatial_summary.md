@@ -31,7 +31,9 @@ Across 760 tasks, GPT‑5 succeeded on average 17.4% of the time, while Qwen‑3
 ## Significance  
 SpatialWorld exposes critical limitations in current multimodal agents’ spatial reasoning, offering a rigorous testbed for future research on active perception, planning, and generalization across domains.
 
-## Related Concepts  
-multimodal large language models (MLLMs), interactive spatial reasoning, partial observability, active exploration, long‑horizon planning, benchmark evaluation, simulation backends, text‑based action interface.
+## Related Concepts
 
-[[SpatialWorld: Benchmarking Interactive Spatial Reasoning of Multimodal Agents in Real-World Tasks]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

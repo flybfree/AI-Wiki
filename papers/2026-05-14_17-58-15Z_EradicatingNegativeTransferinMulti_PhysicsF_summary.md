@@ -31,15 +31,8 @@ Experimental results from the 20,000-step distributed pretraining run demonstrat
 This work is significant because it provides a practical architectural mechanism for mitigating multi-physics interference, a major hurdle in creating universal neural operators. By proving that sparse expert routing can eradicate negative transfer, the study enables the scaling of SciML toward more robust and accurate foundation models capable of handling diverse and conflicting physical laws simultaneously. This approach enhances the reliability of simulations for complex real-world applications involving coupled physical phenomena.
 
 ## Related Concepts
-- Scientific Machine Learning (SciML)
-- Negative Transfer
-- Sparse Mixture-of-Experts (MoE)
-- Neural Operators
-- Multi-Physics Transport
-- Helmholtz Decomposition
-- Divergence-Free Velocity Fields
-- Physics-Informed Autoencoders
-- Gradient Conflict Mitigation
-- Foundation Models
 
-[[Eradicating Negative Transfer in Multi-Physics Foundation Models via Sparse Mixture-of-Experts Routing]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

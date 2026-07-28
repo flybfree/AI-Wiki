@@ -31,11 +31,9 @@ In the 5G SA testbed, the Dual‑Brain pipeline reduced end‑to‑end provision
 ## Significance  
 By decoupling high‑level intent generation from low‑level model training, the Dual‑Brain approach aligns with O‑RAN’s modular philosophy while delivering real‑time AI services. It lowers operational overhead for network operators, encourages rapid experimentation, and opens a path toward fully automated, self‑optimizing RAN deployments.
 
-## Related Concepts  
-- Open Radio Access Network (O‑RAN) xApps/rApps  
-- Large Language Model orchestration  
-- NeuralSmith API for on‑demand model training  
-- Containerized 5G SA testbed  
-- Kubernetes controller for O‑RAN services
+## Related Concepts
 
-[[Advanced AI Service Provisioning in O-RAN through LLM Engine Integration]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

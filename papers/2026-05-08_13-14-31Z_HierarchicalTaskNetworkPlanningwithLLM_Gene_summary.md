@@ -31,12 +31,9 @@ Across the six benchmark problems, LLM‑generated heuristics achieved coverage 
 ## Significance  
 This work shows that large language models can act as intelligent heuristic generators for HTN planning, bridging traditional algorithmic design with modern AI. By automating the creation of search strategies, the approach offers a scalable solution that does not rely on handcrafted domain knowledge, potentially accelerating research and application development in automated planning.
 
-## Related Concepts  
-- Hierarchical Task Network (HTN) planning  
-- Search heuristics  
-- Large language models (LLMs)  
-- Task decomposition  
-- Search effort reduction  
-- Benchmark domains for HTN (total‑order)
+## Related Concepts
 
-[[Hierarchical Task Network Planning with LLM-Generated Heuristics]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

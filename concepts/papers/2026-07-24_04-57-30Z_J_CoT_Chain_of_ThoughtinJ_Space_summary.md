@@ -58,3 +58,10 @@ The quantitative gains stem from two mechanisms:
 A qualitative analysis (Fig. 4) shows that J‑CoT generates thought sequences with explicit “link” statements such as *“If vehicle A’s departure time exceeds 08:00, then traffic congestion on route R2 will increase by >15 %”*—a clear indication of the model’s ability to encode joint dependencies.  
 
 Overall, J‑CoT demonstrates that extending chain‑of‑thought reasoning to *joint* spaces yields substantial performance improvements across a range of problem types, while remaining computationally lightweight due to its PEFT design.  The method is thus positioned as a versatile tool for any task where reasoning must respect multiple interacting variables or modalities.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

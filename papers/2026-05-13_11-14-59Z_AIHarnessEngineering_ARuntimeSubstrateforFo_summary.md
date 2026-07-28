@@ -31,13 +31,8 @@ The application of the framework to a controlled validation task reveals that th
 This work is significant because it shifts the paradigm of autonomous software engineering from a model-centric view to a system-centric view. It highlights that improving foundation models alone is insufficient for achieving reliable automation; robust runtime substrates are equally critical. By providing a formalized structure for harness engineering, the paper offers a clear roadmap for developing the next generation of software agents. This reframing is crucial for researchers and practitioners aiming to build trustworthy, maintainable, and verifiable autonomous coding systems, emphasizing the need for rigorous evaluation protocols and structured runtime support.
 
 ## Related Concepts
-- Foundation Models
-- Autonomous Software Engineering
-- AI Harness Engineering
-- Runtime Substrate
-- Agent-Environment Interaction
-- Trace-Based Evaluation
-- Verification and Validation
-- Software Reliability
 
-[[AI Harness Engineering: A Runtime Substrate for Foundation-Model Software Agents]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

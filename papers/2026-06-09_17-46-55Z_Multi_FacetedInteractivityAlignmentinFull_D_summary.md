@@ -31,5 +31,9 @@ Experimental evaluation shows that both offline (pre‑recorded audio) and real�
 ## Significance  
 This work moves full‑duplex dialogue from a purely supervised token‑likelihood objective to an interaction‑aware optimization pipeline, directly addressing longstanding usability issues that limit natural conversation. By providing a modular, axis‑specific RL alignment strategy and preserving semantic fidelity through LLM feedback, the method offers a scalable path toward more human‑like spoken interactions.
 
-## Related Concepts  
-full‑duplex speech models; reinforcement learning alignment; token‑level likelihood training; turn‑taking; backchanneling; pause handling; user interruption; short audio segment extraction; LLM reward function; interaction‑level optimization.
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

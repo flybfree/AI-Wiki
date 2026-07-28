@@ -31,12 +31,9 @@ Across several benchmark datasets and pre‑trained VLMs (e.g., CLIP, BLIP), the
 ## Significance  
 Addressing false negatives is crucial because they cause the model to misclassify safe inputs as OOD, eroding trust in downstream applications such as anomaly detection and safety monitoring. By providing a principled way to mine true negatives from unlabeled data, the authors unlock the full potential of pre‑trained VLMs for reliable OOD detection, thereby enhancing model robustness without requiring costly label annotation.
 
-## Related Concepts  
-- Out‑of‑distribution (OOD) detection  
-- Pre‑trained vision‑language models (VLMs)  
-- Negative mining / negative sampling  
-- Monte‑Carlo sampling  
-- Sampling bias correction  
-- Inference reliability and model trustworthiness
+## Related Concepts
 
-[[Debiased Negative Mining Improves Out-of-distribution Detection with Pre-trained Vision-Language Models]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

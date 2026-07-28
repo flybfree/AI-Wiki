@@ -31,12 +31,8 @@ Experimental results indicate that the "protocol gap" between replacement and in
 This work is significant because it challenges the foundational assumptions of transformer compression techniques, particularly pruning and merging. By showing that layer equivalence is not a static property but a function of the evaluation method, it warns researchers against relying on a single metric for redundancy assessment. The findings suggest that compression strategies must be protocol-aware, as different tests can lead to vastly different model architectures and performance outcomes. This necessitates a more rigorous diagnostic approach before deploying compression algorithms.
 
 ## Related Concepts
-- Transformer Compression
-- Layer Pruning
-- Model Merging
-- Swap-KL Divergence
-- Layer Interchangeability
-- Replacement Testing
-- Redundancy Analysis
 
-[[Layer Equivalence Is Not a Property of Layers Alone: How You Test Redundancy Changes What You Find]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

@@ -95,3 +95,10 @@ The RSI provides a transparent metric that can be embedded into clinical assessm
 - Explore longitudinal applications in clinical populations (e.g., addiction) where contrastive belief revisions may reflect maladaptive risk‑taking patterns.
 
 *End of manuscript.*
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

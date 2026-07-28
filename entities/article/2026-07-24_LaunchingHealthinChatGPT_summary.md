@@ -18,3 +18,10 @@ The launch builds on OpenAI’s broader push to embed real‑world data into con
 
 ## Implications  
 For the AI field, this integration demonstrates how large language models can be responsibly augmented with verified personal data to enhance utility without compromising privacy. For healthcare providers and insurers, it signals a shift toward patient‑centric tools that could streamline care coordination, improve adherence, and reduce administrative burden—potentially reshaping reimbursement models and encouraging more proactive health management.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]

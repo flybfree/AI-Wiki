@@ -31,7 +31,9 @@ On the Meve benchmark—an eight‑metric suite evaluating FID, PSNR, event cons
 ## Significance  
 TunerDiT provides a practical pathway for generating multi‑event videos without costly retraining, reducing computational expense while maintaining high visual fidelity. This is especially valuable for applications such as surveillance monitoring, cinematic storytelling, or interactive content where multiple actions unfold over time and must be faithfully represented by the conditioning text.
 
-## Related Concepts  
-Diffusion Transformers (DiT), progressive steering, event segmentation, prompt fusion, training‑free fine‑tuning, video consistency, event separation, multi‑event generation, text‑to‑video alignment.
+## Related Concepts
 
-[[TunerDiT: Training-free Progressive Steering of Diffusion Transformer for Multi-Event Video Generation]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

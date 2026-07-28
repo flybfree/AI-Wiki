@@ -31,7 +31,9 @@ Experiments on five LLaMA‑architecture model sizes trained for 30 B tokens f
 ## Significance  
 UniPool proves that expert parameters need not grow linearly with model depth; a sublinear scaling yields comparable or superior results while using fewer parameters. This insight opens avenues for more efficient large‑language models and suggests that the global budget concept can be combined with finer‑grained expert decompositions to further optimize capacity usage.
 
-## Related Concepts  
-Mixture-of-Experts, global architectural budget, per‑layer router replacement, auxiliary loss for utilization balancing, NormRouter (sparse routing), depth‑scaling hyperparameter, sublinear parameter growth.
+## Related Concepts
 
-[[UniPool: A Globally Shared Expert Pool for Mixture-of-Experts]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

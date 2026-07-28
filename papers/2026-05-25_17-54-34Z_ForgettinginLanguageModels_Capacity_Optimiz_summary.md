@@ -31,11 +31,9 @@ Experiments show that forgetting drops to negligible levels when using self‑ge
 ## Significance  
 By replacing impractical stored exemplars with data that can be generated on‑the‑fly, the work offers a scalable solution to forgetting that aligns with modern training pipelines. It also clarifies the role of model capacity in knowledge retention and provides a practical way to achieve fast, high‑speed fine‑tuning without sacrificing prior knowledge.  
 
-## Related Concepts  
-- Forgetting: degradation on prior tasks after task switching.  
-- Replay: replaying stored exemplars for continual learning.  
-- Capacity: amount of information a model can store; saturation limits further learning.  
-- Low vs high learning rates: tradeoff between speed and forgetting.  
-- Self‑generated samples: data sampled from the model’s own training distribution.
+## Related Concepts
 
-[[Forgetting in Language Models: Capacity, Optimization, and Self-Generated Replay]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

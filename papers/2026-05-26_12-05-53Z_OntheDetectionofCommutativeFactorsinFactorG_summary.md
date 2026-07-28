@@ -31,7 +31,9 @@ The main theoretical result is the proven necessary condition for commutative fa
 ## Significance  
 Accurate detection of commutative factors is essential for lifted inference, which scales with domain size and enables tractable sampling methods. By fixing the logical gap between necessary and sufficient conditions, this work prevents erroneous algorithmic decisions that could degrade performance or mislead probabilistic analyses. The tighter bounds also make the algorithms more reliable in large‑scale applications where computational limits are critical.  
 
-## Related Concepts  
-Factor graphs, commutative factors, indistinguishability of variables, lifted probabilistic inference, necessary vs. sufficient conditions, factor graph algorithms, domain size scaling, worst‑case analysis.
+## Related Concepts
 
-[[On the Detection of Commutative Factors in Factor Graphs: Necessary and Sufficient Conditions]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

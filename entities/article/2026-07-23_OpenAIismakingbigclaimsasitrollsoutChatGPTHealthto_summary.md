@@ -18,3 +18,10 @@ The rollout follows the launch of GPT‑5.6 Sol, marketed as OpenAI’s “stron
 
 ## Implications  
 The integration of AI into everyday healthcare raises questions about the reliability of algorithmic reasoning compared to human clinicians, the ethical boundaries of providing medical guidance, and the potential for increased liability when AI errors cause harm. For the broader AI field, this case underscores the need for rigorous validation, transparent performance metrics, and robust legal frameworks before deploying health‑related models at scale.
+
+## Related Concepts
+
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

@@ -31,5 +31,9 @@ Experiments across multiple model scales (7B–175B), architectures (decoder‑o
 ## Significance  
 DRPO addresses a critical bottleneck in LLM RL: the mismatch between policy updates and model knowledge that causes unstable training. By providing continuous, bias‑corrected gradients beyond hard thresholds, it enables smoother convergence, reduces reliance on hyper‑parameter tuning of clipping ratios, and supports larger‑scale deployment where computational resources are limited.
 
-## Related Concepts  
-RL, LLMs, trust‑region control, PPO, GRPO, ratio clipping, divergence mask, DPPO, quadratic regularizer, advantage weighting.
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

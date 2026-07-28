@@ -31,11 +31,9 @@ Experimental evaluations on synthetic point clouds show up to 10× faster genera
 ## Significance  
 This work bridges discrete diffusion with continuous‑time theory, offering a scalable alternative to costly training or slow mixing methods. By reducing sampling cost dramatically, GADD enables practical use in real‑world applications where latency matters, such as interactive generation and large‑scale data augmentation.  
 
-## Related Concepts  
-- Gibbs posterior likelihood  
-- Uniform‑rate discrete diffusion models  
-- Predictor‑corrector samplers  
-- Error propagation analysis  
-- Girsanov change‑of‑measure technique
+## Related Concepts
 
-[[From Scores to Gibbs Correctors: Accelerating Uniform-Rate Discrete Diffusion Models]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

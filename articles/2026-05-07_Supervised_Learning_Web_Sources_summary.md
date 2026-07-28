@@ -39,3 +39,10 @@ This source set is useful for building a rigorous lesson on model evaluation, es
 - [[2026-05-09_AgentArchitectureEvolution.md]
 - [[2026-05-09_AutonomousAgentFrameworks.md]
 - [[2026-06-09_MachineLearningArchitectureHub.md]
+
+## Related Concepts
+
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

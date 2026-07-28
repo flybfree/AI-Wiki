@@ -31,12 +31,9 @@ Across ImageNet classification benchmarks and extensive text‑to‑image genera
 ## Significance  
 Controlling outlier tokens is crucial for building stronger DiTs because unchecked high‑norm representations can dominate attention mechanisms and degrade generation fidelity. By providing a systematic register‑based control mechanism, the paper offers a scalable solution that can be applied to any diffusion transformer pipeline without retraining large portions of the model. This work advances the understanding of token corruption in generative models and sets a precedent for regularization techniques based on norm monitoring.  
 
-## Related Concepts  
-- Diffusion Transformers (DiTs)  
-- Representation Autoencoder‑based DiT pipelines  
-- Outlier tokens / high‑norm tokens  
-- Attention dominance by extreme values  
-- Local patch semantics and corruption  
-- Register‑based interventions  
-- Test‑time registration  
-- Diffusion registers
+## Related Concepts
+
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,12 +31,8 @@ Evaluation of nine frontier models yielded three primary findings. First, retrie
 This work is significant because it establishes a more rigorous standard for evaluating deep research agents, moving beyond simple fact retrieval to assess complex synthesis and validation skills. It exposes the limitations of current frontier models in handling long-horizon tasks and provides a transparent framework for auditing AI reasoning. The findings guide future research toward improving derivation and calibration rather than just retrieval, and the public release of data and code facilitates reproducible research in this critical area.
 
 ## Related Concepts
-- Deep Research Agents
-- Large Language Model Evaluation
-- Cross-Source Evidence Reconciliation
-- Long-Horizon Reasoning
-- Model Calibration
-- Hallucination in AI
-- Benchmark Design for AI
 
-[[DeepWeb-Bench: A Deep Research Benchmark Demanding Massive Cross-Source Evidence and Long-Horizon Derivation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

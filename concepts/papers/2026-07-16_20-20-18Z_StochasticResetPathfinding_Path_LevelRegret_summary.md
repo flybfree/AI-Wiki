@@ -128,3 +128,10 @@ The regret drops monotonically as reset probabilities increase, confirming that 
 ### Conclusion  
 
 Our analysis shows that cascading bandits with stochastic resets on graphs admit a tight \(\mathcal{O}(\log n)\) path‑level regret bound.  The Stochastic Reset Pathfinding algorithm achieves this bound while offering a principled trade‑off between exploitation and exploration, and it is both computationally efficient and empirically superior across a wide range of scenarios—from synthetic toy networks to large‑scale transportation graphs.  Future work will explore extensions to heterogeneous reward structures (e.g., multi‑armed bandits per node) and to dynamic reset probabilities that evolve over time.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

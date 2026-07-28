@@ -31,13 +31,8 @@ Experimental evaluations using three Qwen3-4B agents demonstrate the efficacy of
 This research matters because it challenges the dominant paradigm of natural-language interaction in multi-agent LLM systems. By demonstrating that weight-space communication can be more efficient and effective than text-based messaging, TFlow offers a scalable solution for reducing the high computational costs and latency associated with current collaborative AI architectures. This opens new avenues for designing lightweight, high-performance multi-agent systems that can operate in real-time environments with limited resources.
 
 ## Related Concepts
-- Multi-agent LLM systems
-- Weight-space communication
-- Low-rank Adaptation (LoRA)
-- KV-cache optimization
-- Transient weight perturbations
-- Inference latency reduction
-- Parameter-efficient fine-tuning
-- Hidden state mapping
 
-[[Good Agentic Friends Do Not Just Give Verbal Advice: They Can Update Your Weights]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -31,13 +31,9 @@ Across the benchmark suite, StreamMA outperforms both baselines with an average 
 ## Significance  
 This work introduces a novel paradigm for multi‑agent reasoning that decouples latency reduction from quality degradation, offering a scalable solution to pipeline bottlenecks. By proving an orthogonal scaling dimension (step count) alongside traditional agent‑count scaling, StreamMA enables designers to optimize both speed and reliability in complex collaborative tasks.
 
-## Related Concepts  
-- Multi‑agent reasoning  
-- Generate‑then‑transfer paradigm  
-- Streaming communication vs. serial/single protocols  
-- Pipelining of reasoning steps  
-- Effectiveness ordering of early versus late steps  
-- Joint analysis of communication topologies  
-- Step‑level scaling law
+## Related Concepts
 
-[[Streaming Communication in Multi-Agent Reasoning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

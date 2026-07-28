@@ -31,7 +31,9 @@ Across six benchmarks, seven target models (including GPT‑5.5), and three exec
 ## Significance  
 SkillOpt demonstrates that skills can be treated as external state objects subject to disciplined optimization, mirroring weight‑space training. By providing zero inference‑time cost at deployment and enabling cross‑model transferability, it opens a path toward truly self‑evolving agents whose capabilities improve reliably over time.
 
-## Related Concepts  
-skill optimization, external state of frozen agent, textual learning‑rate budget, rejected‑edit buffer, epoch‑wise slow/meta update, rollout scoring, edit acceptance criteria, self‑evolving skills, text‑space optimizer, benchmark evaluation cells.
+## Related Concepts
 
-[[SkillOpt: Executive Strategy for Self-Evolving Agent Skills]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

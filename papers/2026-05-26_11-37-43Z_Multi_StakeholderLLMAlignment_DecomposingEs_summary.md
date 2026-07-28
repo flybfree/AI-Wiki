@@ -31,7 +31,9 @@ Empirical experiments across diverse stakeholder sets show a marked reduction in
 ## Significance  
 By isolating estimation from aggregation, DecompR improves the fairness and reliability of LLM alignment outputs, enabling more robust decision‑making when stakeholders have divergent preferences.
 
-## Related Concepts  
-Multi‑stakeholder alignment, utility estimation, utility aggregation, implicit weighting, counterfactual calibration, decomposition of tasks, LLM judges.
+## Related Concepts
 
-[[Multi-Stakeholder LLM Alignment: Decomposing Estimation from Aggregation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

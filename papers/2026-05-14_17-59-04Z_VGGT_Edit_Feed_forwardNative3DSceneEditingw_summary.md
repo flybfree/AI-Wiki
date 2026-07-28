@@ -31,13 +31,8 @@ Experimental evaluations demonstrate that VGGT-Edit substantially outperforms ex
 This research is significant because it bridges the gap between high-speed 3D reconstruction and interactive 3D editing. By enabling native 3D manipulation without the artifacts associated with 2D-lifting methods, VGGT-Edit opens new possibilities for real-time virtual environment customization, gaming, and augmented reality applications. The introduction of the DeltaScene Dataset also provides a valuable resource for the community to advance the field of 3D content generation.
 
 ## Related Concepts
-- Feed-forward 3D reconstruction
-- Native 3D scene editing
-- Residual field prediction
-- Depth-synchronized text injection
-- Multi-view consistency
-- DeltaScene Dataset
-- 3D geometric displacement
-- Text-conditioned generation
 
-[[VGGT-Edit: Feed-forward Native 3D Scene Editing with Residual Field Prediction]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

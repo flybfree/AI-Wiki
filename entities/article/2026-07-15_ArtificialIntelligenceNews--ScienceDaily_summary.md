@@ -26,3 +26,10 @@ ScienceDaily’s latest roundup of artificial‑intelligence (AI) news highlight
 4. **Ethical & Legal Landscape** – Mandatory labeling under the EU AI Act may set a precedent for other jurisdictions, influencing how companies market generative tools and how users assess authenticity in digital media. This could also spur new legal frameworks around “deep‑fake” detection and liability for AI‑generated misinformation.  
 
 Overall, the convergence of cutting‑edge AI research with tangible societal applications underscores both the promise and the responsibility that accompany rapid technological advancement. Stakeholders—researchers, policymakers, industry leaders, and the public—must navigate these developments thoughtfully to maximize benefits while mitigating risks.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

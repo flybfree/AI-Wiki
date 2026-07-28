@@ -31,7 +31,9 @@ On the LIBERO benchmark, Omega‑QVLA compresses Pi 0.5 and GR00T N1.5 to W4
 ## Significance  
 This work provides a practical pathway to on‑device deployment of massive VLA agents by achieving high performance with uniform quantization and a dramatic cut in hardware memory usage. It overcomes the longstanding instability of uniformly quantizing diffusion heads and opens the door for efficient AI robots that can run locally without cloud support.
 
-## Related Concepts  
-Vision‑Language‑Action (VLA) models, post‑training quantization, composite rotation (SVD‑Hadamard), per‑step scaling, W4A4 precision, diffusion‑based action heads, mixed‑precision, static memory footprint.
+## Related Concepts
 
-[[2026-05-27_17-55-01Z_Ω_QVLA_RobustQuantizationforVision_Language_Action.md]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

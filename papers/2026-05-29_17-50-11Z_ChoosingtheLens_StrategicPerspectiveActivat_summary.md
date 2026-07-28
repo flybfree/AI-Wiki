@@ -31,7 +31,9 @@ Theoretical analysis yields baseline complexity bounds for ACTIVATION‑MANIPULA
 ## Significance  
 This work bridges formal argumentation theory with strategic manipulation, offering tools for agents to influence discourse outcomes across different contexts. By distinguishing between full and partial relevance activations, it highlights the importance of context in evaluating arguments, informing applications in AI dialogue systems and multi‑agent environments.
 
-## Related Concepts  
-Context‑dependent argumentation frameworks (CDAFs), Dung’s theory of argumentation, defeat functions, relevance sets, priority assignments, injective priorities, VAF (Vienna Argument Framework) audience mirroring, ACTIVATION‑MANIPULATION decision problem, complexity bounds.
+## Related Concepts
 
-[[Choosing the Lens: Strategic Perspective Activation in Context-Dependent Argumentation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

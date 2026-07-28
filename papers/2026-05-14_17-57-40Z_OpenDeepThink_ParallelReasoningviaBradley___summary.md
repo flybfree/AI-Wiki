@@ -31,12 +31,8 @@ The primary experimental result highlights a dramatic improvement in performance
 This work is significant because it provides a scalable and effective method for improving LLM reasoning without requiring model retraining or expensive verifiers. By leveraging pairwise comparisons, it offers a more robust alternative to existing selection mechanisms, potentially unlocking greater performance from current models through efficient test-time compute scaling.
 
 ## Related Concepts
-- Test-time compute scaling
-- Bradley-Terry model
-- Pairwise comparison
-- Population-based training
-- LLM judging and evaluation
-- Codeforces Elo
-- Reasoning trace mutation
 
-[[OpenDeepThink: Parallel Reasoning via Bradley--Terry Aggregation]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

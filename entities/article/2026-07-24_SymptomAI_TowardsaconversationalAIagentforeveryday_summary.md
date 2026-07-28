@@ -18,3 +18,10 @@ Current language models excel on curated medical case studies but often fail to 
 
 ## Implications  
 If validated further, SymptomAI could democratize preliminary health consultations, reducing the burden on clinicians and enabling earlier detection of conditions that may be missed without wearable data integration. However, its deployment must remain strictly as an assistive tool—not a replacement for professional diagnosis—to uphold ethical standards and patient safety.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -18,3 +18,10 @@ The AI industry is experiencing rapid expansion as startups, giants, and niche p
 
 ## Implications  
 The surge in releases and the prominence of top‑scoring models signal that performance will remain a primary differentiator for AI services. Companies must continuously monitor benchmark results to stay competitive, while users may find it challenging to discern which releases truly deliver meaningful gains over existing offerings. Consequently, the field’s trajectory is likely to be defined by speed of innovation rather than just raw capability.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

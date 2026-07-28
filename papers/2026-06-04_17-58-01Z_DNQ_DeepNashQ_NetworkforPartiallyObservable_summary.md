@@ -31,13 +31,9 @@ Experiments compare the pairwise and exact variants across critic loss, policy e
 ## Significance  
 By balancing strategic fidelity with computational tractability, DNQ offers a viable solution for training cooperative or competitive multiplayer systems where full N‑player equilibrium computation is prohibitive. The framework demonstrates that sophisticated game theory can be integrated into reinforcement learning pipelines without sacrificing scalability, opening avenues for applications such as dynamic auctions and resource allocation under uncertainty.  
 
-## Related Concepts  
-- Nash equilibrium (game theory)  
-- Q‑network (deep reinforcement learning)  
-- Partially observable Markov decision processes (POMDP)  
-- Solver‑in‑the‑loop architecture  
-- KL divergence regularization for policy alignment  
-- Multiplayer game theory  
-- Scalable equilibrium computation
+## Related Concepts
 
-[[DNQ: Deep Nash Q-Network for Partially Observable n-Player Games]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

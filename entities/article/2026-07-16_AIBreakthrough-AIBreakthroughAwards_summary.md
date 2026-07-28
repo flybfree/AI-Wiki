@@ -18,3 +18,10 @@ AI has become a fundamental technology revolution over the past decade, reshapin
 
 ## Implications  
 The emphasis on measurable impact signals a market shift toward accountability in AI deployment, encouraging companies to prioritize user‑centric design and robust validation. By rewarding scalable, real‑world solutions, the awards can influence funding decisions, talent allocation, and regulatory focus, ultimately accelerating the adoption of AI that aligns with societal needs and ethical standards.
+
+## Related Concepts
+
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

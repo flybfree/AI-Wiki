@@ -18,3 +18,10 @@ The article is set against a broader industry debate over AI safety and access. 
 
 ## Implications  
 For the AI field, this alliance signals a move toward collaborative standards that could standardize detection and mitigation techniques across both proprietary and open ecosystems. It may pressure U.S. labs to reconsider their closed‑model approach, potentially accelerating the integration of defensive tools into mainstream AI development.
+
+## Related Concepts
+
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]

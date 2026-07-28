@@ -31,13 +31,9 @@ SLIM outperforms all baselines by an average of 7.1 % points on ALFWorld and S
 ## Significance  
 This work moves beyond static or fully internalized skill assumptions, enabling more efficient use of limited parametric capacity in complex environments. By allowing skills to be retained, retired, or expanded dynamically, SLIM offers a general paradigm for agentic RL that can adapt to varying task demands and improve overall capability coverage.
 
-## Related Concepts  
-- Agentic reinforcement learning  
-- External skills (modular units)  
-- Marginal contribution estimation  
-- Leave‑one‑skill‑out validation  
-- Dynamic optimization variable  
-- Skill retention, retirement, expansion  
-- Policy integration with external modules
+## Related Concepts
 
-[[Dynamic Skill Lifecycle Management for Agentic Reinforcement Learning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,13 +31,8 @@ Experiments conducted at the Future Mobility Park in Rotterdam demonstrated that
 This work is significant because it moves beyond passive digital warnings to active physical intervention, offering a solution for intersections where technology adoption is incomplete. It highlights the potential of humanoid robots as active safety agents in smart city infrastructure, providing a tangible layer of protection that complements existing V2X ecosystems. This approach could reduce accident rates in mixed-traffic environments and inform future designs for autonomous and connected vehicle safety protocols.
 
 ## Related Concepts
-- Non-line-of-sight (NLOS) intersections
-- Collective Perception (CP)
-- Vehicle-to-Everything (V2X) communication
-- Cooperative Robotics
-- Humanoid Robots in Traffic Management
-- Zone of Danger (ZoD) prediction
-- Real-time hazard detection
-- Smart City Infrastructure
 
-[[Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

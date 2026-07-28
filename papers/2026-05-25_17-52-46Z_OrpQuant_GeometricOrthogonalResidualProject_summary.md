@@ -31,7 +31,9 @@ Under the 3‑bit (W3/A16) constraint, ORP achieves a perplexity of 6.10 on LLaM
 ## Significance  
 ORP bridges the gap between ultra‑low bit quantization and practical edge deployment, offering a hardware‑efficient alternative to MAC‑heavy methods. By preserving high‑dimensional feature manifolds and eliminating gradient‑based calibration, it enables fast, low‑power inference on constrained devices without sacrificing model quality.
 
-## Related Concepts  
-Power‑of‑Two (PoT) quantization, Low Angular Resolution Regime, orthogonal basis projection, residual lattice synthesis, multiplier‑free hardware implementation, analytical solver for quantization, AWQ baseline, LLaMA‑2‑7B perplexity, 3‑bit W3/A16 constraint.
+## Related Concepts
 
-[[OrpQuant: Geometric Orthogonal Residual Projection for Multiplier-Free Power-of-Two Transformer Quantization]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

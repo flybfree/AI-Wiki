@@ -31,13 +31,8 @@ While specific numerical metrics are not detailed in the provided abstract, the 
 This research is significant because it addresses a critical gap in the current utility infrastructure: the lack of clear, actionable carbon information for consumers. By making carbon footprints defensible and readable, the framework empowers customers to make more sustainable choices. Furthermore, it provides utilities with the tools to manage grid stress and emissions more effectively, contributing to broader sustainability goals. The unified approach reduces the complexity of implementing separate systems for billing and analytics, potentially lowering costs and improving operational efficiency for utility providers.
 
 ## Related Concepts
-- Generative AI in Utility Sector
-- Carbon Footprint Analytics
-- Transformer-based Forecasting
-- Constrained Decoding Policies
-- Sustainable Resource Optimization
-- Grid Stress Management
-- Natural Language Generation for Billing
-- Calibrated Quantile Bands
 
-[[Generative AI]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

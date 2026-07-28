@@ -36,3 +36,10 @@ A shared architecture plus light retuning can cover many super-resolution scales
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-49-16Z_AScale_AdaptiveFrameworkforJointSpatiotemporalSupe.md
 
 [[A Scale-Adaptive Framework for Joint Spatiotemporal Super-Resolution with Diffusion Models]]
+
+## Related Concepts
+
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

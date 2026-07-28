@@ -15,3 +15,8 @@ Model: qwen3.6:35b
 
 ## Summary
 This paper addresses the long-standing open problem of determining the optimal sample complexity for multiclass classification and list learning, building upon established results for binary classification. The authors utilize the DS dimension as the appropriate complexity parameter for these settings. By incorporating recent algebraic characterizations of multiclass hypothesis classes, they establish a crucial structural link: proving that the maximum hypergraph density of
+
+## Related Concepts
+
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]

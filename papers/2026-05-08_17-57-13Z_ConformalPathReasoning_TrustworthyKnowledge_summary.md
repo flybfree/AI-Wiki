@@ -31,7 +31,9 @@ Experiments on standard KGQA benchmarks (e.g., Knowledge Graph Natural Questions
 ## Significance  
 By delivering statistically valid answer sets with tighter coverage and smaller sizes, CPR advances trustworthy KGQA systems suitable for safety‑critical applications where overconfidence is undesirable. The path‑level calibration approach bridges the gap between conformal methods’ theoretical guarantees and practical performance, offering a scalable solution for large knowledge graphs.
 
-## Related Concepts  
-Conformal Prediction, Knowledge Graph Question Answering, Path Retrieval, Exchangeability, Residual Conformal Value Network (RCVNet), PUCT‑guided Exploration, Empirical Coverage Rate, AUC.
+## Related Concepts
 
-[[Conformal Path Reasoning: Trustworthy Knowledge Graph Question Answering via Path-Level Calibration]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

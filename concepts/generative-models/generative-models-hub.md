@@ -1,0 +1,26 @@
+---
+title: "Generative Models Hub"
+type: concept
+tags: [generative-models, diffusion, synthetic-media]
+---
+
+# Generative Models Hub
+
+**Source**: [AI Research Wiki](https://github.com/flybfree/AI-Wiki/wiki)
+
+## Summary
+
+Generative modeling, diffusion, image generation, text generation, and synthetic content systems.
+
+## Related Concepts
+
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-10-generative-ai-creating-new-content.md|AI Ml Foundations Lesson 10 Generative AI Creating New Content]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|AI Ml Foundations Lesson 09 Attention And Transformers]]
+
+## Representative Summaries
+
+- [[entities/article/2026-07-24_Flux3_summary.md|2026 07 24 Flux3]]
+- [[entities/article/2026-07-24_Flux3XMimic_TheNextGenerationofVideo-ActionModels_summary.md|2026 07 24 Flux3xmimic Thenextgenerationofvideo Actionmodels]]
+- [[papers/2026-07-11_17-55-20Z_Confidence_GuidedDiffusionAugmentationforEn_summary.md|2026 07 11 17 55 20Z Confidence Guideddiffusionaugmentationforen]]
+- [[papers/2026-07-24_14-31-54Z_IQ_JEPA_AJoint_EmbeddingPredictiveArchitect_summary.md|2026 07 24 14 31 54Z IQ JEPA Ajoint Embeddingpredictivearchitect]]
+- [[papers/2026-07-24_15-48-38Z_UnboxingDiffusionModelsfortheArts_Interacti_summary.md|2026 07 24 15 48 38Z Unboxingdiffusionmodelsforthearts Interacti]]

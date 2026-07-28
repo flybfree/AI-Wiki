@@ -36,3 +36,10 @@ A better SFT initialization can make later RL more transferable across programmi
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-22_17-58-36Z_Parallel_SFT_ImprovingZero_ShotCross_Programming_L.md
 
 [[Parallel-SFT: Improving Zero-Shot Cross-Programming-Language Transfer for Code RL]]
+
+## Related Concepts
+
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

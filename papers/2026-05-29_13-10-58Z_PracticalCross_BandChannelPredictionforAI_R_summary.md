@@ -31,14 +31,9 @@ Experimental evaluation on a set of cross‑band scenarios shows that GUIDE’s 
 ## Significance  
 This work bridges the gap between model generalization and low‑latency inference in AI‑RAN, enabling network controllers to make accurate cross‑band predictions without sacrificing speed. By embedding physics into neural layers, GUIDE offers a pathway toward truly adaptive, energy‑efficient radio networks that can operate autonomously across varying conditions.
 
-## Related Concepts  
-- Cross‑band channel prediction  
-- AI‑native RAN (Reconfigurable Intelligent Radio Network)  
-- Beamforming gain  
-- Deep unfolding  
-- Physics‑guided neural networks  
-- Differentiable layers  
-- Model‑based baselines (FIRE, R2F2)  
-- Wireless communications modeling
+## Related Concepts
 
-[[Practical Cross-Band Channel Prediction for AI-RAN via Physics-Guided Deep Unfolding]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

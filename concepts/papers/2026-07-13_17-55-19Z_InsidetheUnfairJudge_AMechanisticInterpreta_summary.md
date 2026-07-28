@@ -9,3 +9,7 @@ Model: None
 ERROR: all endpoints returned no content
 
 ERROR: all endpoints returned no content
+
+## Related Concepts
+
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

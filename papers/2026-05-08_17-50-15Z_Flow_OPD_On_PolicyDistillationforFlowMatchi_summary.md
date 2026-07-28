@@ -31,7 +31,9 @@ Experimental evaluation on the Stable Diffusion 3.5 Medium baseline shows that F
 ## Significance  
 This work establishes Flow‑OPD as a scalable alignment paradigm for building generalist text‑to‑image models, overcoming RL‑driven aesthetic degradation. By integrating on‑policy distillation with manifold anchoring, it enables robust performance across diverse tasks while maintaining high visual quality and preference fidelity.  
 
-## Related Concepts  
-Flow Matching, On‑Policy Distillation (OPD), GRPO fine‑tuning, Manifold Anchor Regularization (MAR), Cold‑Start scheme, task‑routing labeling, dense trajectory supervision, teacher‑surpassing effect.
+## Related Concepts
 
-[[Flow-OPD: On-Policy Distillation for Flow Matching Models]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

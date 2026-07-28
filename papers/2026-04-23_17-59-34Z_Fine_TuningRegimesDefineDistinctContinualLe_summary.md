@@ -20,3 +20,9 @@ This paper challenges the assumption that comparative evaluations in Continual L
 1. **Regime-Dependence Formalization:** They formalize adaptation regimes as projected optimization over fixed trainable subspaces, establishing that the depth of the trainable parameters dictates the effective update signal in CL.
 
 [[Fine-Tuning Regimes Define Distinct Continual Learning Problems]]
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

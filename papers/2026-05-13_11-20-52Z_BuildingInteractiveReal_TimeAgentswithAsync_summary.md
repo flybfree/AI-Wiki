@@ -31,13 +31,8 @@ Experimental evaluations demonstrate significant performance improvements across
 This work is pivotal for the practical deployment of agentic AI in consumer-facing applications like personal assistants and customer service bots. By solving the latency issue inherent in complex tool-use workflows, it bridges the gap between sophisticated reasoning capabilities and the immediate responsiveness users expect. The ability to run these optimized agents on small edge models also democratizes access to real-time AI, reducing reliance on heavy cloud infrastructure and enhancing privacy.
 
 ## Related Concepts
-- Asynchronous I/O
-- Speculative Tool Calling
-- Real-time AI Agents
-- Low-latency Interaction
-- Edge-scale Models
-- Streaming Inputs
-- Synthetic Data Generation
-- Multi-turn Tool Calling
 
-[[Building Interactive Real-Time Agents with Asynchronous I/O and Speculative Tool Calling]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

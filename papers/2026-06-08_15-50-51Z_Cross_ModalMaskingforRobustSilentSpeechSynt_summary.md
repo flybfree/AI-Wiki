@@ -31,11 +31,9 @@ Experiments on a multispeaker silent speech dataset report that the masked multi
 ## Significance  
 Integrating sEMG with lipreading via cross‑modal masking provides a practical pathway to more reliable silent speech synthesis for laryngeal‑impaired individuals, reducing reliance on any single sensor and enabling continuous communication even under imperfect conditions. The findings also highlight the value of masked training over simple data augmentation for real‑world robustness.
 
-## Related Concepts  
-- Silent Speech Synthesis (SSI)  
-- Surface Electromyography (sEMG)  
-- Lipreading / Video‑based Articulatory Analysis  
-- Multimodal Neural Networks  
-- Masking Strategies in Deep Learning
+## Related Concepts
 
-[[Cross-Modal Masking for Robust Silent Speech Synthesis Using sEMG and Lipreading]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

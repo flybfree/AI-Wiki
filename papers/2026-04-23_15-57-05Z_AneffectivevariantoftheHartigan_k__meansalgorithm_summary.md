@@ -36,3 +36,9 @@ Small implementation changes can still matter in practical clustering performanc
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_15-57-05Z_AneffectivevariantoftheHartigan_k__meansalgorithm.md
 
 [[An effective variant of the Hartigan $k$-means algorithm]]
+
+## Related Concepts
+
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

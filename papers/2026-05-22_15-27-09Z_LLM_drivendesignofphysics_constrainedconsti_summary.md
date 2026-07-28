@@ -31,11 +31,9 @@ When only the Creator is used, 91 % of generated models satisfy all constraint
 ## Significance  
 By decoupling generation from validation, the two‑agent framework transforms LLM‑driven constitutive modeling into a trustworthy process that eliminates manual expert checks and reduces development time dramatically. This approach scales automatically as LLMs improve, opening a path toward fully automated, physics‑aware material model discovery without sacrificing accuracy or generalizability.
 
-## Related Concepts  
-- Large language models (LLMs) for scientific code generation  
-- Constitutive artificial neural networks (CANNs)  
-- Multi‑agent reinforcement learning architectures  
-- Physical constraint checking in machine‑learned models  
-- Transfer learning and generalization to unseen loading paths
+## Related Concepts
 
-[[LLM-driven design of physics-constrained constitutive models: two agents are better than one]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

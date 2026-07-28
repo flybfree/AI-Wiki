@@ -31,7 +31,9 @@ Theoretical analysis proves that PDR attains optimal convergence rates while kee
 ## Significance  
 Robust federated learning remains limited by computational overhead as models grow; PDR directly tackles this bottleneck, enabling deployment of large‑scale, high‑dimensional models on resource‑constrained servers while preserving robustness and convergence guarantees. This work opens a path toward practical, scalable FL systems that can handle real‑world data privacy constraints.
 
-## Related Concepts  
-Federated Learning, Byzantine attacks, Robust aggregators, Subspace Embedding Theorem, Sparse random projection, Convergence rates (1/√T, 1/T), Projected Dimensionality Reduction.
+## Related Concepts
 
-[[Dimensionality Reduction for Robust Federated Learning: A Theoretical Analysis and Convergence Guarantee]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

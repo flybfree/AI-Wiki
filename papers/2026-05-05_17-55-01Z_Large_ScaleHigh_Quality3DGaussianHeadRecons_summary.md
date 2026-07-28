@@ -31,12 +31,9 @@ On the 10 000‑subject benchmark, HeadsUp achieves reconstruction error score
 ## Significance  
 By enabling high‑fidelity 3D head generation from massive multi‑view datasets, HeadsUp reduces the computational burden of 3D identity creation and opens new avenues for expressive animation. The decoupled UV representation also facilitates downstream applications such as novel identity synthesis and expression blendshape blending, which are valuable in virtual production and AR/VR.
 
-## Related Concepts  
-- Encoder‑decoder neural networks  
-- Gaussian mixture modeling for 3D shape reconstruction  
-- UV parameterization of Gaussians  
-- Multi‑view learning  
-- Latent space representation  
-- Test‑time optimization (or lack thereof)
+## Related Concepts
 
-[[Large-Scale High-Quality 3D Gaussian Head Reconstruction from Multi-View Captures]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

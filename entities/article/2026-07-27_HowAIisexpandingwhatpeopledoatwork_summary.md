@@ -18,3 +18,10 @@ This study leverages a unique window into real‑time ChatGPT usage to map how A
 
 ## Implications  
 For employers and policymakers, task crossover signals a need for flexible role definitions, proactive skill‑sharing programs, and training initiatives that anticipate changes before formal job titles are revised.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

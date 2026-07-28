@@ -22,3 +22,10 @@ This paper introduces MathDuels, a novel self-play benchmark designed to evaluat
 3. **
 
 [[MathDuels: Evaluating LLMs as Problem Posers and Solvers]]
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

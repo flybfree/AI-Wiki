@@ -29,3 +29,10 @@ If benchmark reports do not reflect true agent performance, they cannot serve as
 - Mislead gap (score inflation)  
 - Agentic AI evaluation  
 - Post‑hoc audit techniques
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

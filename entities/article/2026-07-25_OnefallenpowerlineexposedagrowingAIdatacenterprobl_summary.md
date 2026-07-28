@@ -18,3 +18,10 @@ Northern Virginia hosts the world’s densest concentration of AI data centers, 
 
 ## Implications  
 If unchecked, this pattern could lead to more frequent voltage excursions, higher operational costs, and potential blackouts that disrupt both AI services and broader infrastructure. Grid operators must therefore invest in smarter load‑management protocols or redesign data‑center power architectures to absorb fluctuations gracefully, ensuring reliability for the expanding AI ecosystem.
+
+## Related Concepts
+
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

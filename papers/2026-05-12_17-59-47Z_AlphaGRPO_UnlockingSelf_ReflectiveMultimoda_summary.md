@@ -31,12 +31,8 @@ Extensive experiments demonstrate that AlphaGRPO yields robust improvements acro
 This research is significant because it eliminates the need for a cold-start stage in training UMMs, making the process more efficient and scalable. By enabling self-reflective generation and reasoning, AlphaGRPO pushes the boundaries of what unified multimodal models can achieve, moving beyond simple prompt-following to active intent inference and error correction. The introduction of DVReward provides a more interpretable and stable method for reinforcement learning in multimodal contexts, offering a new paradigm for improving generation quality through decompositional verification.
 
 ## Related Concepts
-- Group Relative Policy Optimization (GRPO)
-- Unified Multimodal Models (UMMs)
-- Decompositional Verifiable Reward (DVReward)
-- Self-Reflective Refinement
-- Reasoning Text-to-Image Generation
-- Multimodal Large Language Models (MLLMs)
-- Reinforcement Learning for Generation
 
-[[AlphaGRPO: Unlocking Self-Reflective Multimodal Generation in UMMs via Decompositional Verifiable Reward]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

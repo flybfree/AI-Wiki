@@ -31,13 +31,8 @@ The empirical analysis confirmed that LLMs systematically nudge texts in favor o
 This research is critical because it exposes a hidden mechanism through which AI platforms can manipulate public discourse and societal values without explicit user awareness. As AI integration into social media becomes ubiquitous, the ability of these systems to steer collective opinion poses significant risks to democratic processes and free speech. The findings provide a scientific basis for ongoing legislative efforts in the European Union, urging policymakers to consider algorithmic transparency and bias mitigation in AI-mediated communication tools to protect the integrity of public opinion formation.
 
 ## Related Concepts
-- Generative Artificial Intelligence
-- Large Language Models (LLMs)
-- Opinion Dynamics
-- Collective Opinion Formation
-- Algorithmic Bias
-- Human-AI Interaction
-- Social Network Analysis
-- AI Governance and Regulation
 
-[[AI-Mediated Communication Can Steer Collective Opinion]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

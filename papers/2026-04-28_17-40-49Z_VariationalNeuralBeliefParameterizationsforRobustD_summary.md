@@ -32,3 +32,10 @@ Differentiable belief modeling may improve risk-sensitive robotic grasp planning
 - Published: 2026-04-28T17:40:49Z
 - URL: http://arxiv.org/abs/2604.25897v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-28_17-40-49Z_VariationalNeuralBeliefParameterizationsforRobustD.md
+
+## Related Concepts
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

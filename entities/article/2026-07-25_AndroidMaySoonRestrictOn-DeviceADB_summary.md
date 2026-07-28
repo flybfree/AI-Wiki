@@ -24,3 +24,10 @@ Google’s latest firmware‑update cycle hints at a new security‑focused poli
 - **For enterprise IT departments:** Managed‑device fleets will continue to benefit from remote debugging for troubleshooting, as long as their policies allow users to enable USB debugging and accept the new prompt. The added step is negligible compared to the security gains.  
 
 Overall, Android’s potential restriction on on‑device ADB marks a modest but meaningful evolution toward tighter control over low‑level debugging interfaces—balancing developer convenience with heightened security without sacrificing essential functionality.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

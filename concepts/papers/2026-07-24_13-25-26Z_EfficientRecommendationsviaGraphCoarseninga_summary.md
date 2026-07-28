@@ -81,3 +81,10 @@ The coarsening step alone reduces the runtime by ~13 %, while label propagatio
 ---
 
 *In summary, our Graph Coarsening and Label Propagation framework delivers state‑of‑the‑art recommendation quality at a dramatically lower computational cost, making large‑scale collaborative filtering feasible for real‑time applications.*
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

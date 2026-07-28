@@ -21,3 +21,10 @@ This paper challenges the assumption that temporal partitioning in Streaming Con
 2. **Demonstration of Instability:** Empirical evidence showing that the choice of temporal split for streaming data can drastically change the reported performance
 
 [[Temporal Taskification in Streaming Continual Learning: A Source of Evaluation Instability]]
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

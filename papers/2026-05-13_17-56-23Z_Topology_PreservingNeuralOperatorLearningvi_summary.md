@@ -31,13 +31,8 @@ The proposed method demonstrates superior accuracy and efficiency when applied t
 This research is significant because it bridges the gap between abstract differential geometry and practical machine learning for physical systems. By providing a rigorous mathematical justification for separating topology from dynamics, it offers a new paradigm for designing physics-informed neural operators. This work enables more reliable and efficient simulations of complex physical phenomena on arbitrary geometries, which is crucial for applications in computational physics, engineering, and scientific computing.
 
 ## Related Concepts
-- Hodge Decomposition
-- Neural Operator Learning
-- Spectral Interference
-- Discrete Differential Forms
-- Hodge Spectral Duality
-- Topological Degrees of Freedom
-- Hybrid Eulerian-Lagrangian Methods
-- Physics-Informed Machine Learning
 
-[[Topology-Preserving Neural Operator Learning via Hodge Decomposition]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

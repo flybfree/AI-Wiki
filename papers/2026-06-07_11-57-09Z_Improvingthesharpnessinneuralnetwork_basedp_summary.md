@@ -31,12 +31,9 @@ The experimental results demonstrate that the penalised network yields narrower 
 ## Significance  
 Sharper intervals are crucial for operational decision‑making because they lower the cost of uncertainty and improve communication with downstream users, especially in short‑lead forecasts where tighter bounds are more informative. By preserving forecast skill, the proposed regularisation ensures that the benefits of sharpness do not come at the expense of reliability, making it a valuable tool for improving ensemble forecasting services.
 
-## Related Concepts  
-- Parametric post‑processing  
-- Neural network ensembles  
-- CRPS (continuous ranked probability score) as a scoring rule  
-- Penalty regularisation in loss functions  
-- Sharpness vs. dispersion in probabilistic forecasts  
-- Ensemble forecast width and central prediction interval
+## Related Concepts
 
-[[Improving the sharpness in neural network-based parametric post-processing of ensemble forecasts]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

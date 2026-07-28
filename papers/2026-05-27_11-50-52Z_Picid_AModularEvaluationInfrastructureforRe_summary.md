@@ -31,11 +31,9 @@ The authors evaluated thirteen state‑of‑the‑art PHM models on twelve datas
 ## Significance  
 Standardized evaluation is a bottleneck in PHM research because ad‑hoc choices obscure true performance differences. Picid removes this ambiguity, allowing researchers to focus on model innovation rather than protocol quirks. By providing a reusable foundation, it accelerates benchmarking, facilitates open‑source sharing of results, and supports rigorous scientific comparison across domains.
 
-## Related Concepts  
-- Prognostics and Health Management (PHM)  
-- Data contracts and deterministic splits  
-- Modular architecture for cross‑domain reuse  
-- Fault detection vs. diagnostics vs. prognostics  
-- Reproducibility in machine learning experiments
+## Related Concepts
 
-[[Picid: A Modular Evaluation Infrastructure for Reproducible PHM Across Tasks and Domains]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

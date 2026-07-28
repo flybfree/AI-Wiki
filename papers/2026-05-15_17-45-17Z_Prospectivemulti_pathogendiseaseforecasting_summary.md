@@ -31,13 +31,8 @@ In the prospective evaluation, the system successfully navigated data-scarce "co
 This framework represents a paradigm shift in public health infrastructure by overcoming the modeling labor bottleneck. It enables the rapid deployment of expert-level disease forecasting at unprecedented scales and granularities. By automating the translation of epidemiological theory into code, this system allows for real-time adaptation to emerging pathogens and changing data landscapes, significantly enhancing the responsiveness and scalability of global health monitoring.
 
 ## Related Concepts
-- Autonomous AI Agents
-- Large Language Models (LLMs)
-- Tree Search Algorithms
-- Infectious Disease Forecasting
-- Ensemble Modeling
-- Reward Hacking
-- Cold Start Problems
-- Automated Scientific Discovery
 
-[[Prospective multi-pathogen disease forecasting using autonomous LLM-guided tree search]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

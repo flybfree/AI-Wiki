@@ -18,3 +18,10 @@ The AI industry is rapidly moving toward more efficient large language models th
 
 ## Implications  
 This advancement lowers barriers to high‑quality AI assistance for developers and researchers, encouraging broader adoption of generative AI in software engineering pipelines and scientific discovery workflows.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -24,3 +24,10 @@ This study provides a practical, low‑cost method for identifying dysphagia‑a
 
 ## Related Concepts  
 Dysphagia, head and neck cancer survivorship, patient‑reported outcomes (PRO), videofluoroscopic imaging, CTCAE‑DIGEST, PRO‑clinical integration, stacking models, logistic regression, AUC, symptom patterns, clinical risk factors.
+
+## Related Concepts
+
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

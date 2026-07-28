@@ -31,12 +31,9 @@ Experiments across three distinct tasks show that the proposed framework require
 ## Significance  
 By aligning uncertainty quantification with task relevance, the framework enables efficient active learning for 3D reconstruction, saving computational resources while enhancing downstream outcomes—critical for real‑time or resource‑constrained applications such as robotics and virtual reality. The work advances the state of the art in Bayesian active selection and demonstrates a principled way to prioritize data acquisition.
 
-## Related Concepts  
-- Bayesian decision theory  
-- Implicit surface prior  
-- Stochastic surface reconstruction  
-- Active learning (next‑best‑view)  
-- Uncertainty quantification  
-- Task‑specific optimization
+## Related Concepts
 
-[[A Bayesian Approach for Task-Specific Next-Best-View Selection with Uncertain Geometry]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,12 +31,9 @@ Experiments on multiple benchmarks demonstrate that LocateAnything achieves a 2�
 ## Significance  
 The work matters because it tackles the fundamental bottleneck of sequential token generation in vision‑language grounding, which limits real‑time applications such as robotics and autonomous driving. By introducing PBD and providing an extensive dataset, LocateAnything enables efficient, high‑quality unified detection and grounding tasks that can be deployed at scale.
 
-## Related Concepts  
-- Vision‑language models (VLMs)  
-- Visual grounding and detection  
-- Box geometry and coordinate generation  
-- Token‑by‑token decoding vs. parallel decoding  
-- Inference bottleneck in sequential generation  
-- Large‑scale dataset curation for training robustness
+## Related Concepts
 
-[[LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

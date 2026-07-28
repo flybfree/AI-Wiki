@@ -23,12 +23,8 @@ In 2D Kob‑Andersen glassy systems ATLAS matches parallel tempering MC outputs 
 ATLAS establishes a foundation model for efficient sampling, steering, and design of amorphous materials, addressing longstanding bottlenecks in MD/MC at low temperature. Its ability to generalize across composition, size, and temperature with minimal data and universal potentials opens new pathways for discovering high‑performance glasses without costly experimental screening.
 
 ## Related Concepts
-- Boltzmann distribution  
-- Amorphous materials  
-- Graph neural networks (equivariant)  
-- Diffusion processes  
-- Parallel tempering Markov chain Monte Carlo  
-- Inverse design  
-- Order parameters  
-- Bulk modulus  
-- Composition‑amortized pretraining
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

@@ -18,3 +18,8 @@ Placeholder summary — please add a concise summary of this article.
 # Nine Breakthroughs Made Possible by AI
 
 **Source**: [Original Article](https://today.ucsd.edu/story/nine-breakthroughs-made-possible-by-ai)
+
+## Related Concepts
+
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

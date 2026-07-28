@@ -31,13 +31,9 @@ The experiments confirmed that errors cluster around the boundary between two va
 ## Significance  
 Understanding this heuristic reliance is crucial because it reveals how LMs handle real‑world reasoning tasks involving measurement units. If models truly convert values before comparing, errors would be random; instead, systematic bias suggests that the underlying representation treats numerals and units as separate, independently processed components. This insight can guide future work on improving metric reasoning in LLMs and informs the design of evaluation benchmarks for unit‑aware comparisons.  
 
-## Related Concepts  
-- Quantity comparison  
-- Unit scaling  
-- Numerical‑difference cue  
-- Unit‑scale‑difference cue  
-- Heuristic‑based reasoning  
-- Causal intervention  
-- Linear surrogate modeling
+## Related Concepts
 
-[[Language Models Compare Quantities Using Number-specific and Unit-specific Heuristics]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

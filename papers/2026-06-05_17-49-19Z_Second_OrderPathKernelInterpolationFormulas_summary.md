@@ -31,7 +31,9 @@ The theoretical analysis yields an explicit formula for the terminal prediction 
 ## Significance  
 By refining the interpretation of neural network predictions, the work bridges learning theory and practical training dynamics, offering predictive tools that account for both curvature and stochasticity, which could improve convergence analysis and model calibration.
 
-## Related Concepts  
-Path kernel interpolation, deterministic gradient descent, stochastic gradient descent, momentum SGD, curvature weighting, sampling covariance, concentration inequalities, second‑order Taylor expansion.
+## Related Concepts
 
-[[Second-Order Path Kernel Interpolation Formulas in Machine Learning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

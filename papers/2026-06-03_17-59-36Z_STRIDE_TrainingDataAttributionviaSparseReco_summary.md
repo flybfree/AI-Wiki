@@ -31,7 +31,9 @@ Experiments on LLM pre‑training show attribution accuracy comparable to causal
 ## Significance  
 By enabling fast, scalable TDA for LLMs, STRIDE facilitates responsible AI practices such as data curation and bias mitigation without prohibitive computational cost. It also advances theoretical understanding of activation space dynamics.  
 
-## Related Concepts  
-Training Data Attribution (TDA), Causal Interventions, Sparse Recovery, Compressive Sensing, Activation Space Modeling, Steering Operators, Large Language Models (LLMs).
+## Related Concepts
 
-[[STRIDE: Training Data Attribution via Sparse Recovery from Subset Perturbations]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

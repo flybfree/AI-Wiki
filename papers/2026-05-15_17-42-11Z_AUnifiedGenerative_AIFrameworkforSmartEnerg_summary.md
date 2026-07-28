@@ -31,15 +31,8 @@ The experimental results demonstrated a significant reduction in computational t
 This research is significant because it provides a scalable, unified solution for the pressing challenges facing modern energy utilities. By integrating disparate functions into a single framework, it reduces operational silos and enhances decision-making capabilities. The adoption of quantum-inspired optimization offers a glimpse into the future of computational efficiency in critical infrastructure management. Furthermore, the emphasis on carbon analytics aligns with global sustainability goals, making this framework a vital tool for utilities striving to meet regulatory requirements and environmental targets.
 
 ## Related Concepts
-- Generative Artificial Intelligence
-- Smart Energy Infrastructure
-- Quantum-Inspired Optimization
-- Intelligent Gas Distribution
-- Utility Billing Automation
-- Carbon Analytics
-- Smart Metering
-- Combinatorial Optimization
-- IoT in Energy Grids
-- Predictive Maintenance
 
-[[Generative AI]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

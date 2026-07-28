@@ -33,11 +33,9 @@ The authors constructed a two‑stage pipeline: first, they generated optimal ba
 ## Significance  
 The work demonstrates that optimizing forecast models for downstream economic outcomes—rather than minimizing prediction error in isolation—can deliver real‑world savings in PV‑battery systems. It challenges the prevailing assumption that lower RMSE always translates into better performance, highlighting the importance of aligning machine‑learning predictions with operational goals.
 
-## Related Concepts  
-- LSTM (Long Short‑Term Memory) neural network for time‑series forecasting  
-- Optimal control / scheduling algorithms for battery management systems  
-- Decision‑focused learning (training on downstream decisions rather than generic targets)  
-- Root mean squared error (RMSE) as a metric of forecast accuracy  
-- Warm‑starting (re‑initialising models with recent data to improve performance)
+## Related Concepts
 
-[[Decision-focused learning for optimal PV-Battery scheduling]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

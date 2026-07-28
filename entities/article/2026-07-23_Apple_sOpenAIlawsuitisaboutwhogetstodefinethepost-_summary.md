@@ -18,3 +18,10 @@ The lawsuit occurs amid rapid advances in generative AI and hardware integration
 
 ## Implications  
 If Apple prevails, it could deter smaller AI firms from accessing proprietary hardware knowledge, stifling collaborative development and widening market dominance. Conversely, a dismissal might embolden competitors to openly share or reverse‑engineer trade secrets, accelerating the diffusion of AI features across devices. The outcome will likely influence how future “post‑smartphone” ecosystems are governed, shaping both competition and consumer expectations for seamless AI integration.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

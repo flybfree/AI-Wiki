@@ -31,12 +31,9 @@ Experiments on standard benchmarks (e.g., Cityscapes, KITTI) show that MDA impro
 ## Significance  
 Flying‑point artifacts degrade downstream perception and segmentation tasks, making reliable depth estimation critical for autonomous systems. MDA provides a principled solution that improves perceptual realism with minimal computational cost, opening new possibilities for transparent object analysis and sky modeling in vision pipelines.
 
-## Related Concepts  
-- Mixture density representation  
-- Multiple hypothesis prediction  
-- Flying‑point artifacts  
-- Depth ambiguity at boundaries  
-- Skyline component  
-- Transparent object depth estimation
+## Related Concepts
 
-[[Modeling Depth Ambiguity: A Mixture-Density Representation for Flying-Point-Free Depth Estimation]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,11 +31,9 @@ The theoretical analysis yields an upper bound of \(\widetilde{\mathcal{O}}(T^{-
 ## Significance  
 Improving the queue‑length regret rate from \(\widetilde{\mathcal{O}}(T^{-1/4})\) to \(\widetilde{\mathcal{O}}(T^{-1/2})\) matters because it reduces the expected difference between a learned scheduler and an optimal one, leading to faster convergence in real‑world job scheduling where latency penalties are incurred by long queues. The matching lower bound confirms that no algorithm can achieve better than this rate up to logarithmic factors, establishing CQB‑η‑2 as provably near‑optimal.
 
-## Related Concepts  
-- Contextual queueing bandits: learning to schedule jobs under context‑dependent service rates.  
-- Queue length regret: expected difference between learner’s and oracle’s queue lengths at horizon \(T\).  
-- UCB (Upper Confidence Bound) rule: a classic exploration–exploitation algorithm for contextual bandits.  
-- Random exploration cutoff: strategy of using pure randomness only up to a predetermined round.  
-- Minimax analysis: establishing both upper and lower bounds on regret rates.
+## Related Concepts
 
-[[Algorithm for Contextual Queueing Bandits with Rate-Optimal Queue Length Regret]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

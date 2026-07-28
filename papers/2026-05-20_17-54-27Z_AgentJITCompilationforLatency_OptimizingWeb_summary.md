@@ -31,12 +31,8 @@ Experimental evaluations across five distinct web applications demonstrated subs
 This research matters because it resolves the trade-off between speed and reliability in AI-driven web automation. By enabling parallel execution and reducing reliance on sequential LLM calls, Agent JIT Compilation makes real-time, complex task automation feasible for practical applications. It sets a new standard for latency-optimizing agent architectures, paving the way for more responsive and robust AI assistants in dynamic web environments.
 
 ## Related Concepts
-- Computer-Use Agents (CUA)
-- Just-In-Time (JIT) Compilation
-- Latency Optimization
-- Parallel Execution Scheduling
-- Monte Carlo Estimation
-- Tool Use Validation
-- Invariant-Enforcing Protocols
 
-[[Agent JIT Compilation for Latency-Optimizing Web Agent Planning and Scheduling]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

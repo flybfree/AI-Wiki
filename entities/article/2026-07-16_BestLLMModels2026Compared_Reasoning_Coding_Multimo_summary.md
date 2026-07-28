@@ -18,3 +18,10 @@ In early 2026 a rapid wave of releases—GPT‑5.5 from OpenAI, Claude Opus 
 
 ## Implications  
 The convergence of performance and price signals that frontier reasoning is becoming accessible to startups and smaller teams, accelerating adoption in agentic pipelines, privacy‑sensitive deployments, and multimodal applications where cost efficiency is critical. As models continue to evolve, organizations must prioritize use‑case alignment over headline rankings to maximize value and competitive advantage.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

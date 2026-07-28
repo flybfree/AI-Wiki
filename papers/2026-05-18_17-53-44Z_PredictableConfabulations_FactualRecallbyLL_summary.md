@@ -31,13 +31,8 @@ The experimental results indicate that factual recall quality is highly predicta
 This work is significant because it moves beyond aggregate performance metrics to provide a granular understanding of how LLMs learn and retain factual information. By establishing a scaling law for factual recall, the study offers practical insights for model developers regarding the trade-offs between model size and training data composition. It suggests that simply increasing model size is insufficient for improving recall on rare topics without adequate representation in the training data. This understanding can guide future efforts in data curation and model architecture design to maximize factual accuracy.
 
 ## Related Concepts
-- Scaling Laws
-- Factual Recall
-- Large Language Models (LLMs)
-- Signal-to-Noise Ratio
-- Training Data Composition
-- Topic Frequency
-- Model Capacity
-- Sigmoid Function
 
-[[Predictable Confabulations: Factual Recall by LLMs Scales with Model Size and Topic Frequency]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

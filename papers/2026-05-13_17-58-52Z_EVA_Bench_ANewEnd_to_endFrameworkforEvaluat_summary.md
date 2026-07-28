@@ -31,14 +31,8 @@ The experimental results highlight substantial deficiencies in current voice age
 This work is significant because it establishes the first comprehensive, open-source benchmark for voice agents that addresses both simulation realism and holistic quality measurement. By providing standardized metrics and a rigorous evaluation suite, EVA-Bench allows developers to identify specific weaknesses in their systems, particularly regarding reliability and environmental robustness. The findings serve as a critical baseline for the industry, pushing the development of voice agents beyond simple task completion toward more natural, reliable, and user-friendly interactions in complex enterprise settings.
 
 ## Related Concepts
-- Voice Agents
-- Benchmarking
-- Natural Language Processing (NLP)
-- Speech Synthesis and Recognition
-- Multi-turn Dialogue Systems
-- Robustness Evaluation
-- Enterprise AI Applications
-- Metric Design (EVA-A, EVA-X)
-- Automated Simulation Validation
 
-[[EVA-Bench: A New End-to-end Framework for Evaluating Voice Agents]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

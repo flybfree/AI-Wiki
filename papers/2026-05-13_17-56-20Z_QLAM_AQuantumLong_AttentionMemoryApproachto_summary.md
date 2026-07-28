@@ -31,12 +31,8 @@ The experimental evaluation focuses on sequential variants of standard image cla
 This work is significant as it represents one of the first practical applications of quantum superposition to enhance state-based sequence modeling in machine learning. It bridges the gap between theoretical quantum computing advantages and practical deep learning architectures, offering a scalable alternative to Transformers for long-context tasks. By demonstrating improved performance on standard benchmarks, QLAM suggests that hybrid quantum-classical models could become a viable path forward for handling increasingly long and complex data sequences in future AI systems.
 
 ## Related Concepts
-- Quantum Long-Attention Memory (QLAM)
-- State-Space Models (SSMs)
-- Quantum Superposition
-- Hybrid Quantum-Classical Computing
-- Long-Sequence Token Modeling
-- Transformer Architecture Limitations
-- Recurrent Neural Networks (RNNs)
 
-[[QLAM: A Quantum Long-Attention Memory Approach to Long-Sequence Token Modeling]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

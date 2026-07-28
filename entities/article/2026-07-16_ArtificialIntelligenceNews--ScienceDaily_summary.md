@@ -18,3 +18,10 @@ These developments reflect a broader trend where AI is being leveraged not only 
 
 ## Implications  
 For researchers, these findings suggest that AI can unlock previously intractable problems, reducing time and cost in discovery cycles. Industry-wise, ultra‑efficient computing could lower energy consumption for AI workloads, while autonomous spacecraft chips may enable longer missions with minimal ground support, reshaping aerospace economics. Such efficiencies could also democratize access to high‑performance computing for smaller research groups.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

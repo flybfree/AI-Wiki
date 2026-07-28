@@ -18,3 +18,10 @@ Within the AI industry, architecture choices directly affect model performance, 
 
 ## Implications  
 For practitioners, a clear understanding of ML architecture enables better decision‑making, reduces development time, and mitigates risks associated with misaligned models or inefficient pipelines. Moreover, architectural transparency supports regulatory compliance and ethical AI practices by clarifying model behavior and decision pathways.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

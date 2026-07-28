@@ -31,12 +31,9 @@ Experiments show that applying EmbedFilter improves zero‑shot accuracy by up t
 ## Significance  
 This work reveals a hidden bias in LLM embeddings—a systematic over‑representation of high‑frequency tokens—that can degrade zero‑shot performance. By providing a lightweight, trainable filter, EmbedFilter offers a principled way to improve text representations without retraining the entire model, opening avenues for more efficient and effective embedding systems.
 
-## Related Concepts  
-- Unembedding matrix  
-- Latent space of token embeddings  
-- High‑frequency token suppression  
-- Linear projection filter (EmbedFilter)  
-- Dimensionality reduction in text representations  
-- Zero‑shot learning evaluation
+## Related Concepts
 
-[[Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

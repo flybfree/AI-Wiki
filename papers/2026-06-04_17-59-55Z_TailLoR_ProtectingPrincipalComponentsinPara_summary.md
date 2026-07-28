@@ -31,11 +31,9 @@ Experiments on standard continual learning benchmarks (CIFAR‑10/100 and CIFAR�
 ## Significance  
 TailLoR demonstrates that protecting principal components through spectral regularization can significantly improve continual learning stability without sacrificing efficiency. By isolating updates to the long‑tail singular values, it enables long‑term model evolution with minimal compute cost—a crucial advantage for real‑world applications where frequent task switching is required.
 
-## Related Concepts  
-- Spectral decomposition of a matrix (UΣVᵀ)  
-- Principal components and singular directions  
-- Low‑rank updates in parameter‑efficient fine‑tuning (PEFT)  
-- Soft spectral penalties for regularization  
-- Continual learning and interference mitigation
+## Related Concepts
 
-[[TailLoR: Protecting Principal Components in Parameter-Efficient Continual Learning]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

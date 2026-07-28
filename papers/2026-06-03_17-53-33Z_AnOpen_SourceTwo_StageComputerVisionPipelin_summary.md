@@ -31,7 +31,9 @@ On 3,805 annotated overtaking events from a bicycle‑lane corridor in Ann Arbor
 ## Significance  
 This work delivers a reliable, open‑source tool for cyclist safety research by accurately identifying injury‑risk vehicle types in naturalistic video without producing false negatives that could mask dangerous situations. The confidence‑based abstention improves robustness to unseen scenes and the released code encourages broader adoption across roadside video archives and safety studies.  
 
-## Related Concepts  
-Vision Transformers, RT‑DETR, fine‑grained classification, confidence‑based abstention, domain shift, object detection, video surveillance, cyclist injury risk assessment.
+## Related Concepts
 
-[[An Open-Source Two-Stage Computer Vision Pipeline for Fine-Grained Vehicle Classification using Vision Transformers]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

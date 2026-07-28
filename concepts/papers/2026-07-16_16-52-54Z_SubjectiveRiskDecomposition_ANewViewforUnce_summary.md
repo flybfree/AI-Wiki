@@ -61,3 +61,10 @@ In the supply‑chain study, the subjective component accounts for nearly half o
 
 **Conclusion**  
 Subjective Risk Decomposition provides a principled way to quantify and communicate uncertainty by separating it into objectively measurable and subjectively informed parts. The proposed SRE and DA algorithm deliver both quantitative improvements over traditional risk metrics and qualitative benefits through enhanced transparency. Future work will explore extensions to multi‑agent settings, where each stakeholder’s subjective belief can be aggregated while preserving the decomposition structure.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

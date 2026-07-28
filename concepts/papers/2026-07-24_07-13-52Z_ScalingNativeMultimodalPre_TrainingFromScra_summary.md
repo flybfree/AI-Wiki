@@ -50,3 +50,10 @@ Notably, our approach achieves these results with a 30% reduction in training co
 
 ## Conclusion  
 We have shown that scaling native multimodal pre-training from scratch is both feasible and effective, enabling models to learn rich cross-modal representations without relying on costly alignment or auxiliary tasks. Our framework sets a new standard for efficient, high-performance multimodal foundation models, paving the way for future applications in robotics, assistive technology, and large-scale knowledge integration.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]

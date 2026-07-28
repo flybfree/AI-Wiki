@@ -31,12 +31,8 @@ The primary theoretical result is the equivalence between learnability in Valian
 This work is significant because it corrects a historical misconception by clarifying the true scope of Valiant’s original contribution to learning theory. It reveals that membership queries can expand the set of learnable classes, a phenomenon rarely observed in learning theory. The introduction of adaptive query-compression schemes offers a new tool for analyzing learning models and may have independent applications in understanding the power of interactive learning.
 
 ## Related Concepts
-- Valiant’s Theory of the Learnable
-- PAC Learning
-- Membership Queries
-- Sample Compression Schemes
-- Adaptive Query-Compression
-- Halfspaces
-- Learnability Characterization
 
-[[What is Learnable in Valiant's Theory of the Learnable?]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

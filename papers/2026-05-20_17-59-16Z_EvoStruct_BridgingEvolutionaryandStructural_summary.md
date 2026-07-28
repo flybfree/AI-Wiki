@@ -31,13 +31,8 @@ Experimental evaluations on the CHIMERA-Bench dataset revealed that EvoStruct si
 This research is pivotal for computational biology and therapeutic antibody development. By resolving the vocabulary collapse issue, EvoStruct enables the design of more diverse and functionally effective antibodies, which is essential for creating novel therapeutics. The successful integration of evolutionary and structural priors sets a new standard for protein design, suggesting that hybrid models leveraging both data types are superior to single-modality approaches.
 
 ## Related Concepts
-- Antibody CDR Design
-- Equivariant Graph Neural Networks (GNN)
-- Protein Language Models (PLM)
-- Vocabulary Collapse
-- E(3)-Equivariance
-- Cross-Attention Adapter
-- R-Drop Regularization
-- CHIMERA-Bench
 
-[[EvoStruct: Bridging Evolutionary and Structural Priors for Antibody CDR Design via Protein Language Model Adaptation]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

@@ -31,12 +31,9 @@ Experimental results reveal that VLMs generate IS‑relevant sentences but do so
 ## Significance  
 The findings underscore that evaluating VLMs should consider not only factual correctness but also how content is structured for discourse comprehension. Ignoring IS can lead to misleading assessments of model capabilities, especially in applications where dialogue coherence matters. This work suggests that future research must incorporate discourse‑aware metrics alongside standard accuracy measures.
 
-## Related Concepts  
-- Information Structure (IS)  
-- Topic and Focus  
-- Mode Collapse  
-- Discourse Processing  
-- Vision‑Language Models (VLMs)  
-- Syntactic Position Mapping
+## Related Concepts
 
-[[When Discourse Pressures Conflict: Information Structure in Vision-Language Model Outputs]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

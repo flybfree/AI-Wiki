@@ -18,3 +18,10 @@ The broader AI landscape is seeing increased investment in multimodal models tha
 
 ## Implications  
 For the field, this convergence could democratize access to advanced humanoid technology, spurring new applications in education, healthcare, and service industries, while also prompting calls for inclusive design practices. Ethical oversight will be critical as embodied AI systems begin to influence decision‑making in high‑stakes environments.
+
+## Related Concepts
+
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]

@@ -18,3 +18,10 @@ In the rapidly evolving AI landscape, organizations increasingly rely on machine
 
 ## Implications  
 The importance of a well‑designed architecture matters for both research and industry: it accelerates experimentation, reduces time spent on debugging and deployment, safeguards model integrity and security, and enables continuous improvement. By embedding these principles, teams can build ML solutions that are efficient, resilient, and aligned with evolving business conditions.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

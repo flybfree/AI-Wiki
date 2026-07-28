@@ -31,13 +31,8 @@ The model was trained with 1.3 billion parameters on 100 billion tokens from the
 This research matters because it resolves a fundamental bottleneck in linear attention models: the inability to precisely edit compressed memory states. By decoupling erase and write operations, Gated DeltaNet-2 offers a more scalable and accurate alternative to traditional attention mechanisms for long-context tasks. This advancement is crucial for developing efficient large language models that require constant memory decoding and linear time sequence mixing, making it highly relevant for applications involving extensive document processing and real-time inference.
 
 ## Related Concepts
-- Linear Attention
-- Recurrent State Space Models
-- Gated DeltaNet
-- Kimi Delta Attention (KDA)
-- Fast-Weight Updates
-- Chunkwise WY Algorithm
-- Needle-in-a-Haystack Benchmark
-- FineWeb-Edu Dataset
 
-[[Gated DeltaNet-2: Decoupling Erase and Write in Linear Attention]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

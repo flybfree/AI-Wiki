@@ -18,3 +18,10 @@ The deployment reflects a wider AI trend of applying autonomous robotics to logi
 
 ## Implications  
 This pilot demonstrates how AI can simultaneously improve passenger satisfaction and solve critical capacity constraints at congested airports. As more facilities adopt such solutions, the industry may shift toward robotics‑enabled parking as a standard offering, reshaping expectations for efficiency and user experience.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]

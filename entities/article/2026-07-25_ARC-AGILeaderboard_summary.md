@@ -18,3 +18,10 @@ The ARC‑AGI challenge is part of the broader AI research effort to benchmark g
 
 ## Implications  
 This leaderboard underscores that AGI progress must balance performance with computational efficiency, influencing model design, deployment strategies, and investment priorities in AI research and commercialization.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

@@ -16,3 +16,9 @@ Placeholder summary — please add a concise summary of this article.
 
 
 # Machine Learning Architecture: What It Is, Components & Types
+
+## Related Concepts
+
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

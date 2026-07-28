@@ -31,7 +31,9 @@ Across seven LLM candidates, the strongest model reaches only 0.31 decision F1. 
 ## Significance  
 ClinEnv makes the invisible trade‑off between outcome quality and process efficiency measurable, offering researchers a tool to assess LLMs beyond static accuracy metrics. It highlights the need for benchmarks that evaluate how clinicians gather information in real‑world settings, informing the design of more realistic interactive medical environments and guiding improvements in AI‑assisted care.
 
-## Related Concepts  
-Longitudinal Inpatient Simulation, Interactive EHR environment, decision stages, ontology‑grounded matching, F1 score, information‑acquisition gap, multi‑stage decision‑making, agent‑based simulation, longitudinal inpatient scenario.
+## Related Concepts
 
-[[ClinEnv: An Interactive Multi-Stage Long Horizon EHR Environment for Agents]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

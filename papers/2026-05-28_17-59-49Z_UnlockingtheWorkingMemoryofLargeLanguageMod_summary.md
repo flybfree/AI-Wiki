@@ -31,11 +31,9 @@ Across language models of varying architectures (e.g., GPT‑3, PaLM) and sizes,
 ## Significance  
 This work demonstrates that large language models can harness internal memory structures akin to human working memory, offering a path toward more efficient and scalable reasoning without sacrificing performance. It opens avenues for integrating explicit computational steps into AI systems while preserving the benefits of latent computation.
 
-## Related Concepts  
-- Working memory  
-- Latent reasoning  
-- Autoregressive generation  
-- Memory blocks (fixed token sequences)  
-- Two‑stage curriculum learning
+## Related Concepts
 
-[[Unlocking the Working Memory of Large Language Models for Latent Reasoning]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

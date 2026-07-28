@@ -28,3 +28,10 @@ This work matters because it bridges the gap between large-scale multimodal mode
 - Singular value decomposition for feature extraction  
 - Model distillation  
 - Cross-modal information fusion
+
+## Related Concepts
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

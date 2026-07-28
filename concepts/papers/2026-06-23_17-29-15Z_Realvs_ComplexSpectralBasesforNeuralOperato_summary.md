@@ -124,3 +124,10 @@ Our work establishes **Green’s‑function alignment as a cornerstone of spectr
 * More physically interpretable output functions.
 
 Future work will explore the extension of these principles to multi‑scale operator architectures and to adaptive alignment that adjusts with data distribution shifts.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

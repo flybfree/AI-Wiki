@@ -31,9 +31,9 @@ AHA‑WAM reaches 92.80 % average success on RoboTwin and 78.3 % success acr
 ## Significance  
 By uncoupling world prediction and action execution, AHA‑WAM unlocks the full potential of video for embodied control, enabling more interpretable long‑horizon reasoning without sacrificing real‑time responsiveness. This approach reduces redundancy in modeling and improves sample efficiency, offering a scalable template for future multimodal robotics systems.
 
-## Related Concepts  
-- World‑action models  
-- Diffusion Transformers (DiT)  
-- Asynchronous processing  
-- Horizon‑adaptive training  
-- Observation‑guided context routing
+## Related Concepts
+
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

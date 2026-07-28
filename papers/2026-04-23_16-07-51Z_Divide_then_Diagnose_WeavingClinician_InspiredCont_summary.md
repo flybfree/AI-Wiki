@@ -36,3 +36,10 @@ Clinician-inspired context building can make long-video medical summarization mo
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_16-07-51Z_Divide_then_Diagnose_WeavingClinician_InspiredCont.md
 
 [[Divide-then-Diagnose: Weaving Clinician-Inspired Contexts for Ultra-Long Capsule Endoscopy Videos]]
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

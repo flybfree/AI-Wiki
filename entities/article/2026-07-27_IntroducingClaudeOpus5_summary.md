@@ -18,3 +18,10 @@ The broader AI landscape is increasingly focused on delivering high performance 
 
 ## Implications  
 This matters for the field because it lowers the barrier for developers, researchers, and enterprises to access near‑frontier AI capabilities without prohibitive expense. The model’s strong performance in coding, problem‑solving, and visual generation can accelerate innovation across industries, from software engineering to biomedical research, while encouraging broader adoption of Claude as a mainstream assistant platform.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]

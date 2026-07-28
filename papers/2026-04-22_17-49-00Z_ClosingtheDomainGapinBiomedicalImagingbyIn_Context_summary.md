@@ -28,3 +28,10 @@ This paper addresses batch effects in biomedical imaging, where technical variat
 - Published: 2026-04-22T17:49:00Z
 - URL: http://arxiv.org/abs/2604.20824v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-22_17-49-00Z_ClosingtheDomainGapinBiomedicalImagingbyIn_Context.md
+
+## Related Concepts
+
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

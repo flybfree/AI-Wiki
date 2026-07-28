@@ -85,3 +85,10 @@ Across all benchmarks, PTL‑Diffusion consistently outperforms both standard di
 
 **Conclusion**  
 PTL‑Diffusion demonstrates that incorporating periodic terminal laws into diffusion training can dramatically improve both data fidelity and manifold adherence. By treating these constraints as differentiable regularizers rather than hard penalties, we achieve a seamless integration between generative modeling and geometric understanding. Future work will explore extensions to non‑Euclidean manifolds (e.g., hyperbolic spaces) and hybrid loss functions that combine temporal and spatial periodicity.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

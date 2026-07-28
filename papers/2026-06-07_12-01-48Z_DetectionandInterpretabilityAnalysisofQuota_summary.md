@@ -31,7 +31,9 @@ Fine‑tuned models consistently outperformed unmodified LLMs, reaching a detect
 ## Significance  
 Automated detection reduces manual labor in scholarly review, enhances academic integrity by flagging misattributed statements, and supports fair evaluation systems. The interpretability layer (TokenSHAP) adds trustworthiness, allowing researchers to audit why a model flags an error, which is crucial for high‑stakes citation audits.
 
-## Related Concepts  
-Quotation error, large language models, fine‑tuning, full‑text integration, source abstract, citation metadata, interpretability, TokenSHAP, automated detection.
+## Related Concepts
 
-[[Detection and Interpretability Analysis of Quotation Errors by Large Language Models]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -18,3 +18,10 @@ In the broader AI landscape, the shortage of high‑quality physical interaction
 
 ## Implications  
 If validated, this method could democratize high‑quality training data, allowing smaller firms to compete with large players who otherwise must build massive proprietary datasets. It also signals a shift from purely algorithmic solutions toward multimodal sensing that captures both visual and neurophysiological states, potentially accelerating the development of embodied AI.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

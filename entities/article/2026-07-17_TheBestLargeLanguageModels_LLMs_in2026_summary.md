@@ -18,3 +18,10 @@ Since the ChatGPT breakthrough, LLMs have moved from research labs to everyday t
 
 ## Implications  
 For developers and enterprises, the rapid evolution demands continuous evaluation; Zapier’s AutomationBench leaderboard exemplifies this need. Balancing openness with commercial viability will shape which models become industry standards, influencing everything from customer support bots to autonomous AI agents.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

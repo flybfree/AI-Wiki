@@ -18,3 +18,10 @@ China’s leading AI firms routinely publish open‑weight and occasionally open
 
 ## Implications  
 The balance between openness and security will shape what developers worldwide can build on Chinese models and which advanced capabilities remain accessible to hostile states. If China successfully implements selective openness, it could limit the spread of frontier AI while preserving a competitive edge; failure may lead to broader diffusion of powerful tools, undermining both national security and global AI governance.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

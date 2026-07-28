@@ -18,3 +18,10 @@ The move reflects a broader trend in which generative‑AI firms are expanding b
 
 ## Implications  
 For the field of AI, this acquisition underscores how generative models can be repurposed for non‑creative tasks, opening new revenue streams and use cases beyond image generation. It also raises questions about ethical boundaries: using AI to interpret personal data (e.g., compatibility scores) blurs lines between entertainment and predictive analytics. Moreover, the integration of Co‑Star’s human‑AI hybrid approach may set a precedent for collaborative design processes where AI augments rather than replaces human expertise in niche markets.
+
+## Related Concepts
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

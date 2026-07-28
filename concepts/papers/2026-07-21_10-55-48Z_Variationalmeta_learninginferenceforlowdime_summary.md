@@ -63,3 +63,10 @@ Neural system identification (NSI) is a classic problem in control and engineeri
 The superior performance stems from the combination of (i) a flexible variational prior that can encode diverse low‑dimensional dynamics, (ii) meta‑learning that eliminates the need for extensive offline training per system, and (iii) an online adaptation loop that efficiently incorporates sparse measurements. These ingredients make VML well suited for resource‑constrained platforms such as embedded controllers or mobile robotics, where both data acquisition time and computational budget are limited.
 
 Overall, our results demonstrate that variational meta‑learning inference can achieve state‑of‑the‑art accuracy in low‑dimensional neural system identification while drastically reducing the required sample complexity. This work opens a path toward truly adaptive, on‑line model learning for real‑world engineering applications.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

@@ -36,3 +36,10 @@ This evolution suggests that AGI is plausible within the next 5–10 years, pote
 - [[2026-06-09_MachineLearningArchitectureHub.md]
 ### Papers
 - [[2026-05-09_2001.08361-scaling-laws-for-neural-language-models.md]
+
+## Related Concepts
+
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]

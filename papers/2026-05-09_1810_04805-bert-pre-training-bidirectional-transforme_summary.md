@@ -31,11 +31,9 @@ BERT outperforms previous models (e.g., LSTM‑based systems) on SQuAD question 
 ## Significance  
 It establishes the “pre‑train once, fine‑tune for anything” paradigm that underpins modern large language models such as GPT‑3, Claude, and Gemini. By validating the encoder’s superiority over decoder‑only architectures for understanding tasks, BERT clarifies the conceptual shift from recurrence to attention and provides a foundational framework for subsequent research.
 
-## Related Concepts  
-- Transformer architecture  
-- Masked Language Modeling (MLM)  
-- Bidirectional context  
-- Pre‑training vs. fine‑tuning  
-- Encoder‑decoder split
+## Related Concepts
 
-[[BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

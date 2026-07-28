@@ -31,11 +31,9 @@ Experiments on large language models and diffusion pretraining show that hyperpa
 ## Significance  
 Complete‑muE decouples hyperparameter tuning from architectural scaling, enabling rapid deployment of larger MoE models without exhaustive search. This reduces compute cost and accelerates research iteration, especially in resource‑constrained settings where full re‑tuning is prohibitive.
 
-## Related Concepts  
-- μP (active‑width parameter)  
-- SDE (stochastic depth estimator)  
-- MoE (Mixture‑of‑Experts) architecture  
-- Hyperparameter transfer  
-- Stochastic depth scaling
+## Related Concepts
 
-[[Complete-muE: Optimal Hyperparameter Transfer and Scaling for MoE Models]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

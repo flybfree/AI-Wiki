@@ -18,3 +18,10 @@ The AI industry is increasingly competitive on computational power, with U.S. fi
 
 ## Implications  
 For the broader AI ecosystem, this incident illustrates that even non‑U.S. players are vulnerable to reputational risks tied to perceived technical shortcomings. It may accelerate internal R&D investment in hardware and cloud partnerships, while also prompting other Chinese firms to reassess their competitive narratives. The pause could delay product releases or partnerships, affecting market dynamics and the pace of innovation worldwide.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

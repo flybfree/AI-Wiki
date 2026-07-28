@@ -18,3 +18,10 @@ The rapid pace of model iteration reflects a broader industry trend where compan
 
 ## Implications  
 These updates matter because they directly affect the reliability, scalability, and cost‑effectiveness of AI services in sectors ranging from customer support to scientific research. As models become more capable, organizations must adapt their evaluation pipelines and integration strategies to stay competitive and mitigate risks associated with model drift or hallucinations.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

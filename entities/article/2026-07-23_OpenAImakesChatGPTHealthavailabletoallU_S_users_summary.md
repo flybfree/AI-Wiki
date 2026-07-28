@@ -18,3 +18,10 @@ The broader AI landscape is seeing a wave of health‑focused features from comp
 
 ## Implications  
 This rollout could normalize the use of AI in wellness tools, potentially increasing user engagement with health‑related queries. At the same time, it raises ethical concerns about misinformation, liability, and the responsibility to ensure that users verify any health information before acting on it.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

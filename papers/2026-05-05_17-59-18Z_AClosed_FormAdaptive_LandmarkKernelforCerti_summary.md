@@ -31,11 +31,9 @@ Empirically PALACE matches Persformer (91.3 ± 1.0 % on Orbit5k) while out
 ## Significance  
 By delivering certified, non‑asymptotic guarantees and maintaining performance under heavy domain shift, PALACE advances robust, explainable classification for point clouds and graphs without reliance on expensive gradient‑based optimization.  
 
-## Related Concepts  
-- Landmark cover theory  
-- RKHS (Reproducing Kernel Hilbert Space)  
-- Mahalanobis margin  
-- Cover‑theoretic distortion bounds  
-- Farthest‑point sampling
+## Related Concepts
 
-[[A Closed-Form Adaptive-Landmark Kernel for Certified Point-Cloud and Graph Classification]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

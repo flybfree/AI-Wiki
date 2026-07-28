@@ -31,13 +31,8 @@ Experiments across multiple VLMs demonstrated that staged training consistently 
 This work is significant because it shifts the paradigm of VLM post-training from a sole focus on reasoning length to the foundational importance of visual perception. It provides a practical, effective framework for improving VLMs by addressing the root cause of their limitations. The findings suggest that future research should prioritize high-quality perceptual data and RL-based optimization for vision tasks. This decoupling strategy offers a new curriculum dimension that can be combined with existing methods to achieve state-of-the-art performance in open-weight models, ultimately leading to more efficient and accurate vision-language systems.
 
 ## Related Concepts
-- Vision-Language Models (VLMs)
-- Post-Training Optimization
-- Visual Perception vs. Reasoning
-- Chain-of-Thought Reasoning
-- Reinforcement Learning (RL)
-- Supervised Fine-Tuning (SFT)
-- Curriculum Learning
-- Decoupled Training Stages
 
-[[From Seeing to Thinking: Decoupling Perception and Reasoning Improves Post-Training of Vision-Language Models]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

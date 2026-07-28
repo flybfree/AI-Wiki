@@ -32,3 +32,9 @@ Similarity-guided parameter reuse may be a viable alternative to replay-based CO
 - Published: 2026-04-28T17:41:04Z
 - URL: http://arxiv.org/abs/2604.25898v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-28_17-41-04Z_TSN_Affinity_Similarity_DrivenParameterReuseforCon.md
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

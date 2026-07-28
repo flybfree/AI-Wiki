@@ -53,3 +53,10 @@ The ablation studies confirm that the removal of any single neuron reduces backd
 
 **Discussion**  
 The results illustrate that backdoor vulnerabilities are often localized to a small subset of neurons, making them amenable to targeted removal rather than wholesale defense. CNIP thus offers a principled, efficient way to harden LLMs against covert manipulation while preserving their generative capabilities. Future work will explore dynamic pruning during continual learning and the integration of CNIP with adversarial training for synergistic robustness gains.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

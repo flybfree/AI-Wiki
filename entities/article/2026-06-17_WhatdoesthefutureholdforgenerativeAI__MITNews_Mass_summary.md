@@ -16,3 +16,9 @@ Placeholder summary — please add a concise summary of this article.
 
 
 # What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
+
+## Related Concepts
+
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

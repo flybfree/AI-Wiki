@@ -31,11 +31,9 @@ Theoretical analysis shows the algorithm achieves O(n d + n²) I/O operations fo
 ## Significance  
 This work bridges theoretical I/O optimality and practical model training efficiency, offering a blueprint for future attention kernels that respect memory hierarchy constraints. By proving lower bounds, it guides researchers toward truly optimal designs rather than incremental improvements.  
 
-## Related Concepts  
-- Attention matrix computation  
-- I/O complexity analysis  
-- Approximate softmax / low‑rank approximation  
-- FlashAttention algorithm  
-- Memory hierarchy (fast vs slow memory)
+## Related Concepts
 
-[[Approaching I/O-optimality for Approximate Attention]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

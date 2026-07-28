@@ -31,12 +31,9 @@ Experimental evaluation across five diverse tasks shows that ETCHR consistently 
 ## Significance  
 By separating reasoning from generation, ETCHR enables multimodal assistants to produce accurate visual edits even for complex, multi‑step questions, without degrading edit quality as reasoning depth grows. This decoupling opens a scalable pathway for integrating high‑quality image manipulation into large language systems, potentially enhancing user experience and expanding the capabilities of “think with images” applications.
 
-## Related Concepts  
-- Think‑with‑images paradigm  
-- Vision‑language models (VLMs)  
-- Image editing diffusion models  
-- Reinforcement learning with VLM rewards  
-- Decoupled prompting / plug‑in architecture  
-- Pass@1 metric for image‑question answering
+## Related Concepts
 
-[[ETCHR: Editing To Clarify and Harness Reasoning]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

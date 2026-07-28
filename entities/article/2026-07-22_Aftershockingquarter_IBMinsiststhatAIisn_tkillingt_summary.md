@@ -18,3 +18,10 @@ The article situates IBM’s performance within a wider AI‑driven cost surge a
 
 ## Implications  
 If enterprises continue to prioritize short‑term efficiency over long‑term infrastructure investment, IBM’s cash‑generating mainframe model could face sustained erosion, challenging its relevance in an era of rapid AI adoption. For AI developers and investors, the story underscores that cost pressures may outweigh enthusiasm for legacy technology, prompting a reevaluation of how to sustain profitability across both new and old tech stacks.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

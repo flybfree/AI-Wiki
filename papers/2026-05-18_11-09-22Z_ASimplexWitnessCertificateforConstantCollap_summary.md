@@ -31,12 +31,8 @@ The primary result is theoretical rather than empirical, establishing a rigorous
 This work is significant because it shifts the paradigm of handling VAE collapse from heuristic monitoring to rigorous certification. By making constant collapse pre-designable and monitorable, it provides practitioners with a concrete tool to ensure model integrity. This theoretical guarantee enhances the reliability of VAEs in applications where representation quality is critical, such as generative modeling and downstream supervised tasks.
 
 ## Related Concepts
-- Variational Autoencoders (VAEs)
-- Constant Collapse
-- Latent Space Representation
-- Teacher-Student Alignment
-- Simplex Witness
-- Log-Odds Embedding
-- Information Theory
 
-[[A Simplex Witness Certificate for Constant Collapse in Variational Autoencoders]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

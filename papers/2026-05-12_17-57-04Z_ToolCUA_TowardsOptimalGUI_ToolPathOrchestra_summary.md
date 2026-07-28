@@ -31,12 +31,8 @@ Experimental evaluations conducted on the OSWorld-MCP benchmark demonstrate that
 This research is significant because it provides a scalable and cost-effective solution for training digital agents that can seamlessly integrate GUI interactions with backend tool calls. By demonstrating that hybrid action space training is a promising paradigm for real-world applications, the work paves the way for more robust and efficient autonomous agents capable of handling complex, multi-step digital tasks. The open-sourcing of the framework further encourages community adoption and further research in agentic AI.
 
 ## Related Concepts
-- Computer Use Agents (CUAs)
-- GUI-Tool Path Orchestration
-- Reinforcement Fine-Tuning (RFT)
-- Online Agentic RL
-- Interleaved Trajectories
-- OSWorld-MCP Benchmark
-- Tool-Efficient Path Reward
 
-[[ToolCUA: Towards Optimal GUI-Tool Path Orchestration for Computer Use Agents]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

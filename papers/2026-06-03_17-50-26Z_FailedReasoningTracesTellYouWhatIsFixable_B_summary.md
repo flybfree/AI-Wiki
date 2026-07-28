@@ -31,7 +31,9 @@ The three trajectory features recover an accuracy gain of 84.3 ± 4.3 % ov
 ## Significance  
 Providing a diagnostic framework that turns discarded failed traces into actionable information enables more efficient test‑time interventions without costly re‑training or weight inspection. This approach supports scalable deployment of post‑training models by allowing targeted rescue actions based on the inherent structure of failures.
 
-## Related Concepts  
-post‑training language models, reasoning tasks, rollout traces, test‑time scaling, recoverability structure, trajectory features, routing rules, cross‑family probes, training‑free intervention.
+## Related Concepts
 
-[[Failed Reasoning Traces Tell You What Is Fixable (But Not by Reading Them)]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -31,14 +31,8 @@ The experimental results clearly indicate that transformer-based embeddings cons
 This research is significant because it demonstrates that automating psychiatric diagnostic coding is feasible and accurate when leveraging advanced LLMs. By reducing the administrative burden associated with manual coding, this approach can streamline clinical workflows and improve data quality in mental health records. The findings suggest that adapting LLMs to specific clinical domains is essential for overcoming the unique linguistic challenges of psychiatric care, ultimately supporting more efficient and scalable global mental health initiatives.
 
 ## Related Concepts
-- Automated ICD Classification
-- Psychiatric Diagnosis Coding
-- Large Language Models (LLMs)
-- Natural Language Processing (NLP)
-- Transformer-based Embeddings
-- e5_large Model
-- Long-tail Label Distributions
-- Clinical Nomenclature Adaptation
-- Spanish Medical Text Analysis
 
-[[Automated ICD Classification of Psychiatric Diagnoses: From Classical NLP to Large Language Models]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

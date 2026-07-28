@@ -18,3 +18,10 @@ The article situates the dispute within the rapidly evolving U.S. AI landscape w
 
 ## Implications  
 If U.S. officials substantiate claims of Chinese distillation, it may trigger tighter oversight that limits who can release or use certain models, effectively curbing open‑weight ecosystems. This could slow scientific discovery, increase development costs for rivals, and reduce the diversity of tools available to enterprises seeking alternative AI solutions. The outcome will shape how quickly the United States can evaluate new models, manage risks, and ensure its most powerful AI tools reach cyber‑defenders while preserving a competitive market.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

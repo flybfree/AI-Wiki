@@ -31,12 +31,9 @@ Experiments showed a 78 % reduction in average R&D cycle time compared with tr
 ## Significance  
 GENESIS addresses a critical bottleneck in 6G deployment by automating synthesis, testing, and learning, thereby accelerating innovation cycles and reducing costly field failures. Its autonomous loop ensures that every generated component is continuously validated against real‑world conditions, improving reliability and interoperability across the network stack.
 
-## Related Concepts  
-- AI agents  
-- Large Language Models (LLMs)  
-- Radio Access Network (RAN) synthesis  
-- 6G standards and research  
-- Knowledge graphs / persistent knowledge bases  
-- Over‑the‑air testing
+## Related Concepts
 
-[[GENESIS: Harnessing AI Agents for Autonomous 6G RAN Synthesis, Research, and Testing]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

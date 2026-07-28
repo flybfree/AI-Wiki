@@ -31,13 +31,9 @@ The contrastive pass improves correlation scores from 0.633 to 0.828 and separat
 ## Significance  
 By embedding human metadata into causal discovery pipelines, the paper shifts the paradigm from treating embeddings as mere similarity metrics to enforcing factual correctness. This reduces downstream errors in health‑related decision support and enables low‑latency inference for real‑time personal analytics. The hardware insights also guide model deployment choices, showing that specialized accelerators can dramatically improve serving efficiency.
 
-## Related Concepts  
-- Embedding geometry  
-- Contrastive learning  
-- Biomedical knowledge graphs  
-- Causal discovery  
-- Foundation models (LBM)  
-- OpenVINO runtime  
-- AMX silicon acceleration
+## Related Concepts
 
-[[Correlation Is Not Enough: Embedding Human Metadata for Individual Causal Discovery]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

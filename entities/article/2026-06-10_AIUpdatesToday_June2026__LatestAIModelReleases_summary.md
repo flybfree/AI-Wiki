@@ -18,3 +18,9 @@ Placeholder summary — please add a concise summary of this article.
 # AI Updates Today (June 2026) – Latest AI Model Releases
 
 **Source**: [Original Article](https://llm-stats.com/llm-updates)
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

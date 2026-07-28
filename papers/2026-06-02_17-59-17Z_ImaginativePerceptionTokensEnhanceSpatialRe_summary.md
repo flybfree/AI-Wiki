@@ -31,10 +31,9 @@ Experimental results show a clear improvement: MVC accuracy improves by 3.4 % 
 ## Significance  
 This work bridges the gap between visual perception and language understanding by providing an interpretable supervisory signal that externalizes imagined perceptions. It demonstrates that multimodal models can be trained to reason about unseen spatial structures without costly image generation, opening pathways for more robust, generalization‑friendly AI systems in robotics, navigation, and human‑computer interaction.
 
-## Related Concepts  
-- Imaginative Perception Tokens (IPT) – intermediate tokens representing imagined visual states.  
-- Vision‑Language Models (VLMs), specifically BAGEL as the backbone.  
-- Spatial reasoning tasks such as Perspective Taking, Path Tracing, and Multiview Counting.  
-- Chain‑of‑thought prompting – a language‑only strategy that can interfere with spatial computation.
+## Related Concepts
 
-[[Imaginative Perception Tokens Enhance Spatial Reasoning in Multimodal Language Models]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

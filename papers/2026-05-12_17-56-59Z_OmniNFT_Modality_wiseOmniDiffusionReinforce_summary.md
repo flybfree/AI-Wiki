@@ -31,13 +31,8 @@ Extensive experiments conducted on the JavisBench and VBench benchmarks using th
 This work is significant because it provides the first systematic breakdown of why RL fails in complex multi-modal generation tasks and offers a practical, effective solution. By enabling stronger per-modality fidelity and precise synchronization, OmniNFT brings joint audio-video generation closer to real-world applicability, where high-quality, synchronized multi-modal content is essential for immersive media, virtual reality, and advanced interactive systems.
 
 ## Related Concepts
-- Joint Audio-Video Generation
-- Reinforcement Learning (RL) for Diffusion Models
-- Multi-Modal Optimization
-- Gradient Surgery
-- Cross-Modal Alignment
-- Modality-Wise Advantage Routing
-- LTX-2 Backbone
-- JavisBench and VBench Benchmarks
 
-[[OmniNFT: Modality-wise Omni Diffusion Reinforcement for Joint Audio-Video Generation]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

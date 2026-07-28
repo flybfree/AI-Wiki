@@ -18,3 +18,10 @@ The AI hardware market is dominated by large firms such as Nvidia that specializ
 
 ## Implications  
 Etched’s success could accelerate adoption of heterogeneous AI chips, encouraging competitors to develop more flexible hardware that supports diverse model families without sacrificing performance. It may also pressure incumbents to innovate beyond pure GPU solutions, fostering a multi‑vendor ecosystem where low‑power inference becomes mainstream rather than niche. This shift could reshape data‑center energy consumption and lower the total cost of AI deployment.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

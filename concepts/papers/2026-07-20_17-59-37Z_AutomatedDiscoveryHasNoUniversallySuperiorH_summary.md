@@ -63,3 +63,10 @@ The results reinforce the thesis that no single AD harness dominates all dimensi
 3. **Future Research** – Ongoing work will explore AI‑assisted discovery to further reduce manual configuration overhead.
 
 In sum, the empirical evidence demonstrates that automated discovery tools are context‑dependent; therefore, **automated discovery has no universally superior harness**.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

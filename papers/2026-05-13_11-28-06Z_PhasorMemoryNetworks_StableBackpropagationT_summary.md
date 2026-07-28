@@ -31,13 +31,8 @@ PMNet achieved near 100% exact retrieval in a synthetic Copy-Paste task, success
 This work provides a theoretically grounded foundation for scalable sequence modeling by proving that explicit memory can be made stable and efficient through structural design rather than computational brute force. It resolves a decade-old stalemate in the field, offering a viable alternative to implicit memory mechanisms like those in Transformers or Mamba. The success of PMNet suggests that future architectures can leverage explicit, scalable memory with greater stability and lower computational overhead.
 
 ## Related Concepts
-- Backpropagation Through Time (BPTT)
-- Neural Turing Machines
-- Unitary Phasor Dynamics
-- Hierarchical Memory Trees
-- Gradient Stability
-- Explicit Memory Architectures
-- Long-Context Robustness
-- Mamba Models
 
-[[Phasor Memory Networks: Stable Backpropagation Through Time for Scalable Explicit Memory]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

@@ -32,3 +32,10 @@ The pipeline suggests a practical route to greener, deployment-ready SE models.
 - Published: 2026-04-28T17:48:16Z
 - URL: http://arxiv.org/abs/2604.25903v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-28_17-48-16Z_Carbon_TaxedTransformers_AGreenCompressionPipeline.md
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

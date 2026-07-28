@@ -31,11 +31,9 @@ SchGen achieved an average wire connectivity accuracy of 96.2 % and a function
 ## Significance  
 This work demonstrates that representation design is pivotal for enabling generative AI in complex hardware tasks, opening a path toward automated PCB design from plain language specifications and reducing reliance on expert engineers.  
 
-## Related Concepts  
-- Large Language Models (LLMs)  
-- Code‑centric representations  
-- Semantic grounding  
-- Human‑agent collaborative data collection  
-- PCB schematic editing primitives
+## Related Concepts
 
-[[SchGen: PCB Schematic Generation with Semantic-Grounded Code Representations]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

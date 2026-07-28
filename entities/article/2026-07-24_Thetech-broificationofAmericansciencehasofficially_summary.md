@@ -18,3 +18,10 @@ The article situates these announcements within a broader trend of politicizing 
 
 ## Implications  
 If this trend continues, American science may lose its long‑standing emphasis on rigorous, interdisciplinary inquiry in favor of narrow AI applications that promise quick wins. The resulting misallocation could diminish the nation’s competitive edge in fundamental research, reduce the pool of qualified scientists, and ultimately hinder innovation across energy, medicine, and national security domains.
+
+## Related Concepts
+
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

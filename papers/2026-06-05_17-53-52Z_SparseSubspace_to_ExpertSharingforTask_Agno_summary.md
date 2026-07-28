@@ -31,7 +31,9 @@ SETA outperforms state‑of‑the‑art continual learning baselines in tasks su
 ## Significance  
 By enabling task‑agnostic continual learning without catastrophic forgetting, SETA opens the door to long‑term model evolution with minimal manual intervention, crucial for deploying LLMs in dynamic environments where new capabilities must be added over time.
 
-## Related Concepts  
-Plasticity‑stability dilemma, continual learning, sparse expert networks, elastic anchoring, routing‑aware regularization, gating network, task‑agnostic continual learning, backward transfer, LLaMA‑2, Qwen3.
+## Related Concepts
 
-[[Sparse Subspace-to-Expert Sharing for Task-Agnostic Continual Learning]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

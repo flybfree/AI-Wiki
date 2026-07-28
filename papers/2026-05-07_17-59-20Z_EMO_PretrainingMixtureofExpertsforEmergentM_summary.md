@@ -31,12 +31,9 @@ The full 14 B model matches standard MoE benchmarks on downstream tasks. When 
 ## Significance  
 EMO opens a practical route for deploying massive sparse models without sacrificing performance or requiring costly hardware. By allowing only a fraction of experts to be active, it reduces memory footprint dramatically while preserving capability, which is crucial as models grow beyond current compute limits. The emergent modularity also suggests that future architectures can be assembled from domain‑specific expert pools, fostering composable AI systems.
 
-## Related Concepts  
-- Mixture‑of‑Experts (MoE) architecture  
-- Emergent modularity in neural networks  
-- Expert pooling and gating mechanisms  
-- Domain‑specific specialization vs. syntactic specialization  
-- Large‑scale pretraining on trillion‑token corpora  
-- Memory‑efficient inference strategies
+## Related Concepts
 
-[[EMO: Pretraining Mixture of Experts for Emergent Modularity]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

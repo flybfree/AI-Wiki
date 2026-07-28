@@ -23,8 +23,8 @@ Clustering produced 12 distinct groups; intra‑group variance was low (average 
 Automated assessment reduces instructor workload while maintaining fidelity to learning objectives, supporting evidence‑based feedback loops. The findings provide a replicable framework that can be extended to larger cohorts or other educational contexts, fostering the adoption of data‑driven evaluation in TTXs and beyond.
 
 ## Related Concepts
-- Tabletop exercises (TTX)  
-- Team problem‑solving assessment  
-- Clustering algorithms for educational data  
-- Large language model rubric evaluation  
-- Open‑source learning platform integration
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

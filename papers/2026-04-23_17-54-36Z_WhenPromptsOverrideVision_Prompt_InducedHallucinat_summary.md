@@ -36,3 +36,10 @@ Instruction-driven hallucinations can be reduced with targeted preference optimi
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-54-36Z_WhenPromptsOverrideVision_Prompt_InducedHallucinat.md
 
 [[When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs]]
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

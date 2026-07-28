@@ -30,3 +30,10 @@ This article is useful because it puts a clean name on the thing many agent syst
 The post lines up with a broader trend in agent research: better agents will come from better harnesses, not just bigger models. That includes stronger state management, safer execution environments, more reliable verification, and orchestration patterns that can survive multi-step work.
 
 For the wiki, this is a strong canonical reference for the harness concept and belongs near the agent, memory, orchestration, and long-horizon execution material.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

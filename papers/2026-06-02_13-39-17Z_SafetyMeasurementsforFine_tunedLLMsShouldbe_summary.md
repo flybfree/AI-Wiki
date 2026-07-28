@@ -31,11 +31,9 @@ Experimental runs show that fine‑tuned models frequently produce nonsensical o
 ## Significance  
 Grounding safety measurements in capability provides a consistent yardstick for assessing trade‑offs between performance enhancements and risk mitigation. This framework prevents arbitrary experimental design choices from skewing results and allows researchers to compare mitigation strategies on an apples‑to‑apples basis, fostering trustworthy AI development practices.
 
-## Related Concepts  
-- Fine‑tuning of foundation LLMs  
-- Capability grounding in evaluation  
-- Safety prompts and safety benchmarks  
-- Automated safety judgment systems  
-- Incoherent generation as a symptom of capability erosion
+## Related Concepts
 
-[[Safety Measurements for Fine-tuned LLMs Should be Grounded in Capability]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

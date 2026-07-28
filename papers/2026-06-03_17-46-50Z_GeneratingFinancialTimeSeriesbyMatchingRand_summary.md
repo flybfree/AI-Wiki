@@ -31,11 +31,9 @@ Experiments are conducted on several small‑sample financial datasets (e.g., FX
 ## Significance  
 SOCK provides a scalable, differentiable alternative to path signatures for training generative models with limited data, reducing memorization risk and enabling robust performance on downstream tasks. By matching random convolutional features, it bridges the gap between representation learning and unsupervised evaluation, offering a versatile tool for finance‑focused time‑series generation and analysis.  
 
-## Related Concepts  
-- Random convolutional feature maps (Rocket, Hydra)  
-- Path signatures and their truncation limits  
-- Adversarial training with generator matching loss  
-- Diffusion models for time‑series synthesis  
-- Unsupervised hypothesis testing and classification in finance
+## Related Concepts
 
-[[Generating Financial Time Series by Matching Random Convolutional Features]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

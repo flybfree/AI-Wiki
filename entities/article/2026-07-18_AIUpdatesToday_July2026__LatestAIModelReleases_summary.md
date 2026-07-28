@@ -68,3 +68,10 @@ These releases collectively pushed the state of the art in three dimensions: **p
 ---
 
 **Bottom line:** July 2026 delivered a wave of AI breakthroughs that blend massive scale with real‑time adaptability and embedded safety. The implications are profound—economic, ethical, and societal—setting the stage for an era where AI is no longer a singular monolith but a spectrum of specialized tools tailored to both cloud‑centric enterprises and edge‑bound devices.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

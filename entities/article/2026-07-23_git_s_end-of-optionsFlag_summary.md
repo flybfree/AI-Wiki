@@ -18,3 +18,10 @@ While the article focuses on Git’s command‑line interface, its relevance ext
 
 ## Implications  
 The introduction of `--end-of-options` demonstrates the importance of explicit, well‑defined delimiters in command‑line parsers to avoid CWE‑88 attacks. For the field, it signals that even legacy tools can be hardened with minimal changes, and that security considerations must be baked into every user‑facing interface, including those used by AI research workflows.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]

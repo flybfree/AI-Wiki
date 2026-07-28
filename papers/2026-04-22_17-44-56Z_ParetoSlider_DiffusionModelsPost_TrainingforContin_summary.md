@@ -33,3 +33,10 @@ A single preference-conditioned diffusion model can support multiple quality tra
 - Published: 2026-04-22T17:44:56Z
 
 [[ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control]]
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

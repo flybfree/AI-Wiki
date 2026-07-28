@@ -30,3 +30,10 @@ This is a clean companion piece to the agent-harness article. If the harness def
 For agent builders, the practical takeaway is that “agent quality” is not a single prompt problem. It is a system design problem involving verification, event handling, trace analysis, and human review points.
 
 For the wiki, this belongs near the harness, orchestration, and agent-evaluation material as a canonical loop-stacking reference.
+
+## Related Concepts
+
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

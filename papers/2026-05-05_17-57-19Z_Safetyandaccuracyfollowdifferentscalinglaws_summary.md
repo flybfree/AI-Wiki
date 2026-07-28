@@ -31,7 +31,9 @@ Clean evidence raised mean accuracy from 73.5 % to 94.1 % and cut high‑ris
 ## Significance  
 This work challenges the assumption that scaling models automatically improves both safety and performance in clinical settings, highlighting that safety is a deployment property shaped by evidence handling, retrieval design, and collective failure behavior. It provides actionable guidance for clinicians and engineers to prioritize evidence quality over sheer model size when deploying LLMs.
 
-## Related Concepts  
-Scaling laws, safety‑accuracy trade‑off, Retrieval Augmented Generation (RAG), agentic RAG, context length scaling, worst‑case analysis, clinical risk mitigation.
+## Related Concepts
 
-[[Safety and accuracy follow different scaling laws in clinical large language models]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/audio-speech/audio-speech-hub.md|Audio Speech Hub]]

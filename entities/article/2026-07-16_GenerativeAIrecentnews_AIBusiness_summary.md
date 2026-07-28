@@ -18,3 +18,10 @@ The broader AI industry is moving toward multimodal and embodied intelligence, w
 
 ## Implications  
 This convergence could accelerate adoption of robotics in manufacturing, logistics, and service sectors, challenging traditional software‑centric AI deployments. It also raises ethical concerns around autonomy and human‑robot interaction. The shift may also influence regulatory frameworks, as governments will need to address safety standards for embodied AI. Investors are increasingly funding Chinese robotics startups, reflecting confidence in this emerging market.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

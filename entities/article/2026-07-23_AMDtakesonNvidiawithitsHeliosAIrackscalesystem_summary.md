@@ -18,3 +18,10 @@ The article situates AMD’s Helios within a broader industry shift driven by th
 
 ## Implications  
 The emergence of Helios signals a potential realignment of power in the AI hardware ecosystem, challenging Nvidia’s market leadership and prompting other vendors to accelerate their own high‑performance offerings. For developers and enterprises, it means more choices for scaling GPU farms, but also heightened competition that could drive down costs or improve performance. Ultimately, AMD’s push reflects the industry’s anticipation that GPUs will dominate AI compute through 2030, shaping investment patterns and innovation trajectories across the sector.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

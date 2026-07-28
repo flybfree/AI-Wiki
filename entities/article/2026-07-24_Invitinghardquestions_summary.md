@@ -18,3 +18,10 @@ The article situates Anthropic within the broader AI safety and alignment debate
 
 ## Implications  
 For the field, this initiative sets a precedent for proactive, transparent communication between AI developers and the public, potentially influencing regulatory expectations and industry standards. It also underscores that responsible AI deployment requires ongoing dialogue with diverse stakeholders to align technology with societal benefit.
+
+## Related Concepts
+
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]

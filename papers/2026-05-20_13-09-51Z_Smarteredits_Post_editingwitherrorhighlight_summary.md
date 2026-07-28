@@ -32,12 +32,8 @@ The experimental results revealed that neither the APE error highlights nor the 
 This study is significant because it challenges the assumption that more advanced AI features automatically lead to better performance in human-in-the-loop systems. It underscores the importance of user experience and trust in the adoption of post-editing tools, suggesting that usability and perceived helpfulness are just as critical as objective metrics. For developers of translation technology, the findings imply that focusing on intuitive, LLM-driven explanations and supportive suggestions may yield better adoption rates than focusing solely on speed or accuracy improvements.
 
 ## Related Concepts
-- Automatic Post-Editing (APE)
-- Quality Estimation (QE)
-- Large Language Models (LLMs)
-- Human-in-the-Loop Translation
-- Post-Editing Productivity
-- User Experience in NLP
-- Machine Translation Quality
 
-[[Smarter edits? Post-editing with error highlights and translation suggestions]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

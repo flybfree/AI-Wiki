@@ -19,3 +19,9 @@ Placeholder summary — please add a concise summary of this article.
 
 **Source**: [Original Article](https://scikit-learn.org/stable/common_pitfalls.html)
 This note collects web sources that support the lesson’s discussion of leakage, split strategy, imbalance-aware evaluation, feature consistency, and versioning.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

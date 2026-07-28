@@ -18,3 +18,10 @@ The letter emerges amid heightened U.S. scrutiny over Chinese AI firms like Moon
 
 ## Implications  
 If the U.S. adopts sweeping bans on open‑weight AI, it risks curtailing both innovation and the ability of security researchers to test defenses. A balanced approach that protects genuine intellectual‑property theft while preserving open techniques will be crucial for maintaining a vibrant AI ecosystem and robust cybersecurity posture.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

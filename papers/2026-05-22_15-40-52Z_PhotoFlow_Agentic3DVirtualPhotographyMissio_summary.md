@@ -31,11 +31,9 @@ On held‑out missions, PhotoFlow outperforms one‑shot prediction, single‑ch
 ## Significance  
 PhotoFlow bridges the gap between vision‑language models and complex 3D spatial reasoning by demonstrating an executable virtual photography task. It proves that LLM‑driven agents can balance abstract aesthetic preferences with precise scene understanding, opening a pathway for interactive 3D content creation where users specify photographic intent without manual camera setup.
 
-## Related Concepts  
-- Director‑Reviewer‑Reflector agent pipeline  
-- VPhotoBench benchmark (Blender scenes + language missions)  
-- Vision‑language models for spatial reasoning  
-- Aesthetic judgment in computer vision  
-- Closed‑loop reinforcement learning with memory management
+## Related Concepts
 
-[[PhotoFlow: Agentic 3D Virtual Photography Missions]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]]

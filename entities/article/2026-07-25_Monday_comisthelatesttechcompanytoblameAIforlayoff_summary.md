@@ -18,3 +18,10 @@ Since early 2026, U.S. tech giants have poured hundreds of billions into AI da
 
 ## Implications  
 This pattern reflects market skepticism about AI as a reliable workforce‑reduction tool and highlights the need for balanced hiring strategies that preserve talent while pursuing innovation, ultimately shaping how companies allocate resources between growth and employment.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

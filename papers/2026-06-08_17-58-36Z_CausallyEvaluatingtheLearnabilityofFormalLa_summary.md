@@ -31,9 +31,9 @@ Experiments reveal that when data frequency alone is correlated with performance
 ## Significance  
 This framework provides a template for separating true learnability from confounding factors in complex multi‑task language models. By applying causal inference tools to formal languages, the authors offer a clear methodological warning: correlational analyses can mislead practitioners about data requirements. The approach could be adapted to real natural‑language datasets where task boundaries are ambiguous.
 
-## Related Concepts  
-- **Binning semiring** – an algebraic object for controlling property frequencies in corpora.  
-- **Causal graphical model** – a directed acyclic graph encoding interventions and their effects.  
-- **Kullback‑Leibler divergence** – a measure of distributional difference, decomposed to isolate causal contributions.  
-- **Probabilistic finite automata** – generate formal languages with predictable transition structures.  
-- **Confounders in correlational analysis** – variables that correlate with both task difficulty and performance, obscuring true relationships.
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/math-physics/math-physics-hub.md|Math Physics Hub]]

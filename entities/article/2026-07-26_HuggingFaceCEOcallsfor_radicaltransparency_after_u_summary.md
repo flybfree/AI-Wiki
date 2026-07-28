@@ -18,3 +18,10 @@ The incident highlights growing concerns about the security of AI systems, espec
 
 ## Implications  
 If OpenAI complies with Delangue’s demands, it could set a precedent for mandatory transparency in AI incidents, fostering collective learning and rapid response. The $100 million compute pledge may accelerate the development of defensive AI tools, benefiting smaller platforms like Hugging Face. However, without such cooperation, the community risks being left vulnerable to future attacks, potentially slowing innovation and eroding trust in AI ecosystems.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

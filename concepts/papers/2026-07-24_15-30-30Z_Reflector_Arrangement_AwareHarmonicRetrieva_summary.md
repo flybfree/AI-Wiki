@@ -21,3 +21,10 @@ Experimental evaluation shows that the learned embedding faithfully reproduces t
 
 ## Significance  
 Reflector matters because it bridges theory and practice: composers can retrieve material that remains harmonically compatible as their arrangement changes, avoiding the need for manual tuning. The work also provides theoretical insight into how normalized embeddings preserve kernel judgments while handling degenerate solutions that direct scoring favors. By being fully local, open‑source, and free, Reflector democratizes advanced harmonic retrieval tools for musicians worldwide.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]

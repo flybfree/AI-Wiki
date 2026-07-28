@@ -31,7 +31,9 @@ Theoretical analysis proves that CFips samples interval patterns proportionally 
 ## Significance  
 By embedding syntactic constraints directly into sampling, CFips overcomes a major limitation of pattern mining where constraint satisfaction is checked after generation, leading to wasted effort. This enables practical exploration of large interval spaces without exhaustive enumeration, supporting applications in data analysis, anomaly detection, and knowledge discovery.
 
-## Related Concepts  
-interval patterns, syntactic constraints, constrained pattern mining, frequency‑based sampling, exact sampling guarantees, elementary predicates, multi‑step algorithm, proportional sampling.
+## Related Concepts
 
-[[Frequency-based Constrained Sampling for Interval Patterns]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]]
+- [[concepts/vision-ai/vision-ai-hub.md|Vision AI Hub]]

@@ -76,3 +76,10 @@ The rapid expansion of large language models (LLMs) that can process both text a
 ## Conclusion  
 
 Our benchmark demonstrates that multimodal LLMs can achieve respectable scientific visualization literacy when equipped with domain‑specific fine‑tuning and strong visual encoders. Nevertheless, systematic gaps—particularly in handling nuanced chemical concepts and generating context‑rich images—remain. VisBench provides a reproducible foundation for future research aimed at closing these gaps through better grounding, richer training data, and explicit evaluation of scientific accuracy.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

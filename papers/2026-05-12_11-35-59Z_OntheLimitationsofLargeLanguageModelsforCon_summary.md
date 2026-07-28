@@ -31,12 +31,8 @@ The experimental results indicate a clear divergence in performance based on sce
 This research is significant because it challenges the prevailing optimism surrounding the automation of software engineering tasks using generative AI. It serves as a crucial warning to practitioners and researchers that LLMs are not yet mature enough for reliable, autonomous use in complex database design. The findings suggest that relying on LLMs for conceptual modeling without rigorous human oversight can lead to flawed database structures that are difficult and costly to rectify later in the development lifecycle.
 
 ## Related Concepts
-- Large Language Models (LLMs)
-- Conceptual Database Modeling
-- Entity-Relationship (ER) Diagrams
-- Prompt Engineering
-- Chain of Thought (CoT)
-- Natural Language Processing (NLP)
-- Software Engineering Automation
 
-[[On the Limitations of Large Language Models for Conceptual Database Modeling]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

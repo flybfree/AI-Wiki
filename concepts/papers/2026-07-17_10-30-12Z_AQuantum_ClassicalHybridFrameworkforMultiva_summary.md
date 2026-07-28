@@ -89,3 +89,10 @@ These findings reinforce the recommendation of using the trade‑off analyzer to
 3. **Model Generalization** – The current pipeline assumes a linear relationship between state space reduction and forecast improvement, which may not hold for highly non‑linear dynamics (e.g., chaotic climate systems). Extending the framework to incorporate quantum neural networks could mitigate this limitation.  
 
 Overall, the hybrid approach provides a pragmatic pathway to harness quantum advantage while respecting classical computational constraints, delivering measurable forecasting gains with manageable complexity and fidelity trade‑offs.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]

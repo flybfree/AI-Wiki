@@ -31,11 +31,9 @@ Results show that models trained on human‑scale corpora fail at all meaning ev
 ## Significance  
 These findings demonstrate that constructional understanding is not limited to the largest models, challenging assumptions about model size versus linguistic competence. The observed link between Paired‑Focus semantics and broader knowledge suggests a shared learning pathway for rare constructions, offering insights into how open‑source LLMs acquire nuanced language meaning.  
 
-## Related Concepts  
-- Constructional semantics  
-- Paired‑focus constructions (e.g., “let alone”, “much less”)  
-- Scalar adjective semantics  
-- World knowledge integration  
-- Training dynamics in LLMs
+## Related Concepts
 
-[[Language Models Learn Constructional Semantics, Not To Mention Syntax: Investigating LM Understanding of Paired-Focus Constructions]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

@@ -18,3 +18,9 @@ Placeholder summary — please add a concise summary of this article.
 # The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
 
 **Source**: [Original Article](https://medium.com/@rijuldahiya/the-architecture-of-machine-learning-systems-a-comprehensive-guide-part-1-7d5d9c3ac380)
+
+## Related Concepts
+
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

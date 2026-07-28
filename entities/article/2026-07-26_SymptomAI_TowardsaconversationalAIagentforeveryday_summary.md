@@ -18,3 +18,10 @@ Current large language models excel at differential diagnosis when evaluated on 
 
 ## Implications  
 The findings suggest that conversational AI can be integrated into primary care workflows to triage symptoms and flag potential conditions, potentially reducing unnecessary visits while supporting early detection. For the industry, this work validates the commercial promise of symptom‑focused chatbots and encourages further investment in real‑world validation studies that combine clinical outcomes with physiological data.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

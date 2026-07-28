@@ -18,3 +18,10 @@ The shift reflects broader trends in AI‑assisted development where developers 
 
 ## Implications  
 This approach democratizes high‑performance LSP support across open‑source ecosystems, reducing reliance on proprietary IDEs and encouraging a more modular, hackable developer experience that aligns with AI‑enhanced productivity goals.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

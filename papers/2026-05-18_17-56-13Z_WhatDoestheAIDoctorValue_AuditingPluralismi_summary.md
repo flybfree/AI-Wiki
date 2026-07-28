@@ -31,13 +31,8 @@ The experimental results indicate that the ecosystem of frontier models spans th
 This work is significant because it highlights a fundamental mismatch between the pluralistic nature of human clinical ethics and the deterministic nature of current AI systems. If a single LLM is deployed without regard for its specific value priorities, it risks replacing the rich, diverse ethical landscape of clinical practice with a "deployment monoculture." This could lead to systematic biases, particularly against patient autonomy, affecting millions of patients. The study calls for explicit efforts to balance ethical perspectives in AI deployment to preserve the pluralism essential to good clinical practice.
 
 ## Related Concepts
-- Clinical Ethics
-- Value Pluralism
-- Large Language Models (LLMs)
-- Patient Autonomy
-- Ethical Bias in AI
-- Deterministic Decision Making
-- Overton Pluralism
-- AI Auditing Frameworks
 
-[[What Does the AI Doctor Value? Auditing Pluralism in the Clinical Ethics of Language Models]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/health-ai/health-ai-hub.md|Health AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]

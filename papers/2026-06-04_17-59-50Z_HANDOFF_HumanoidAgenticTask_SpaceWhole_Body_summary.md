@@ -31,15 +31,9 @@ Experimental results show that HANDOFF achieves velocity tracking performance co
 ## Significance  
 HANDOFF bridges the gap between high‑level task planning and low‑level whole‑body control by offering an intuitive, modular interface that can be reused across diverse manipulation skills. By distilling complementary experts rather than learning from dense kinematic data, it reduces computational cost and improves robustness. This work paves the way for more human‑like command spaces in humanoid robotics, enabling seamless integration with vision‑language models and real‑world deployment.  
 
-## Related Concepts  
-- Whole‑body control  
-- Complementarity of expert controllers  
-- Knowledge distillation (KL)  
-- Mixture‑of‑experts architecture  
-- Context‑conditioned gating  
-- VLM‑driven agentic planning  
-- Task semantics to control mapping  
-- Humanoid robotics  
-- Safety‑filtered data handling
+## Related Concepts
 
-[[HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers]]
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/training-optimization/training-optimization-hub.md|Training Optimization Hub]]

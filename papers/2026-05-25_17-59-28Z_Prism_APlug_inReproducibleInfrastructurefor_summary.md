@@ -31,11 +31,8 @@ While the abstract emphasizes the architectural design, the primary result is th
 This work matters because it addresses a fundamental barrier in the advancement of MLLMs: the lack of standardized, reproducible tools for continual learning. By providing a plug-in infrastructure, Prism lowers the barrier to entry for researchers, allowing them to focus on algorithmic innovation rather than engineering overhead. This standardization is crucial for fair comparison and rapid iteration, ultimately accelerating the deployment of versatile MLLMs that can continuously adapt to emerging real-world tasks.
 
 ## Related Concepts
-- Multimodal Large Language Models (MLLMs)
-- Continual Instruction Tuning (MCIT)
-- Plugin Architecture
-- Reproducible Research Infrastructure
-- Scalable Training Pipelines
-- Code Reuse and Fair Comparison
 
-[[Prism: A Plug-in Reproducible Infrastructure for Scalable Multimodal Continual Instruction Tuning]]
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

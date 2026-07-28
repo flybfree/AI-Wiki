@@ -18,3 +18,10 @@ The broader AI landscape is shifting from pure language models to “computer‑
 
 ## Implications  
 If Prentis’s claims hold, it could accelerate the deployment of low‑cost AI agents across enterprise workflows, reshaping how companies evaluate AI spend around performance‑based fees rather than fixed subscriptions. However, the high valuation and unproven benchmark results raise questions about scalability and market saturation, potentially influencing investor confidence in the sector’s long‑term viability.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

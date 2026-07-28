@@ -18,3 +18,10 @@ Anthropic’s November blog introduced “code execution with MCP,” allowing a
 
 ## Implications  
 This experiment shows that systematic batching of API calls can dramatically lower inference expenses, encouraging other AI platforms to adopt similar automation layers. By standardizing on a single‑call summary, organizations can reduce operational costs while maintaining functionality, setting a new benchmark for cost‑effective LLM deployment.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

@@ -18,3 +18,10 @@ Current large language models excel at differential diagnosis on synthetic or hi
 
 ## Implications  
 This study proves that conversational AI can be a viable tool for early symptom triage, potentially expanding preventive care reach while providing clinicians with data‑driven insights from both patient narratives and wearable biosignals. The findings suggest a shift toward integrating AI agents into primary care workflows to reduce barriers and improve diagnostic timeliness.
+
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

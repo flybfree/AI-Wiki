@@ -31,12 +31,8 @@ The experimental results revealed that while two classifiers trained on independ
 This work highlights a critical blind spot in scientific machine learning benchmarking: the lack of reporting on prediction stability across different training data draws. By demonstrating that parameter-side and data-side methods are indistinguishable on standard accuracy metrics but vastly different on churn, the authors argue for the inclusion of cross-sample prediction churn as a standard metric in scientific-ML reports. This ensures that model robustness and reliability are properly evaluated, particularly in high-stakes scientific applications where consistent predictions are as important as accuracy.
 
 ## Related Concepts
-- Cross-sample prediction churn
-- Scientific machine learning
-- Bootstrapping and bagging
-- Sym-KL consistency loss
-- Model stability and robustness
-- Deep ensembles and MC dropout
-- Stochastic weight averaging
 
-[[Reducing cross-sample prediction churn in scientific machine learning]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]]

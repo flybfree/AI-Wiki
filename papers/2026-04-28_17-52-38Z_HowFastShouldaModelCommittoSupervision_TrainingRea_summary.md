@@ -32,3 +32,10 @@ Choosing the right q may improve early learning dynamics and training stability.
 - Published: 2026-04-28T17:52:38Z
 - URL: http://arxiv.org/abs/2604.25907v1
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-28_17-52-38Z_HowFastShouldaModelCommittoSupervision_TrainingRea.md
+
+## Related Concepts
+
+- [[concepts/multimodal-ai/multimodal-ai-hub.md|Multimodal AI Hub]]
+- [[concepts/reasoning/reasoning-hub.md|Reasoning Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

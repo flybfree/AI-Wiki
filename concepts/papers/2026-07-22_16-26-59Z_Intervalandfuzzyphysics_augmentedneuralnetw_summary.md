@@ -95,3 +95,10 @@ Both iPANN and fPANN require only a single forward pass, with negligible overhea
 **Conclusion**
 
 The iPANN and fPANN architectures provide a unified, mathematically rigorous approach for uncertainty quantification and propagation within constitutive modeling. By embedding interval arithmetic and fuzzy logic directly into neural networks, they deliver both high predictive accuracy and transparent confidence intervals, enabling engineers to make informed decisions under parameter uncertainty without resorting to costly post‑hoc sensitivity analyses. Future work will explore online learning of iPANN/fPANN models as experimental data streams become available in real time.
+
+## Related Concepts
+
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
+- [[concepts/ai-infrastructure/ai-infrastructure-hub.md|AI Infrastructure Hub]]

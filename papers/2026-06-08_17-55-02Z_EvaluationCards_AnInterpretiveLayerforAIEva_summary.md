@@ -31,5 +31,9 @@ The deployment revealed that only about 27 % of the evaluated models provide c
 ## Significance  
 By offering an interpretable, scalable infrastructure that bridges data, documentation, and stakeholder perspectives, EvalCards enables researchers, practitioners, and the public to trust AI evaluation claims, facilitating fair competition and responsible model deployment. The work moves beyond isolated proposals toward an operational solution that can be integrated into existing evaluation pipelines, ultimately improving reproducibility, transparency, and comparability across the AI community.  
 
-## Related Concepts  
-AI evaluation, benchmark papers, model cards, reproducibility, provenance, stakeholder interpretation, reporting layer, interpretive signals, monitoring tool, cross‑source comparison.
+## Related Concepts
+
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+- [[concepts/prompting/prompting-hub.md|Prompting Hub]]
+- [[concepts/software-development/software-development-hub.md|Software Development Hub]]
