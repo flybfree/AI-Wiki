@@ -97,7 +97,7 @@ tags: ['wiki']
 ### LLM Model Evolution
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — tracking model releases, benchmarks, and capabilities
 - [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker]] — current one-stop shop for frontier model releases with chronological history
-- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — dated frontier snapshot across proprietary and open-weight models
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — updated frontier snapshot across proprietary and open-weight models
 - [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]] — side-by-side model comparison
 
 ### AI Benchmarks
@@ -228,6 +228,44 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-25_18-38-59Z_ESF_Bench_BenchmarkingChallengingSlot_FillingScena.md]] : ESF-Bench: Benchmarking Challenging Slot-Filling Scenarios for Real-World Enterprise Applications
+- [[2026-07-26_08-50-28Z_LanguageShapesInstructionHierarchyComplianceinMult.md]] : Language Shapes Instruction Hierarchy Compliance in Multilingual LLMs
+- [[2026-07-26_16-25-45Z_Zing_SocialMindforLLMs.md]] : Zing: Social Mind for LLMs
+- [[2026-07-26_02-49-56Z_TLA_______Bench_AnExecution_GroundedBenchmarkandDa.md]] : TLA$^{+}$-Bench: An Execution-Grounded Benchmark and Dataset for Natural-Language to TLA+ Specification Generation
+- [[2026-07-26_03-51-39Z_Omni_Prune_Query_AwareUnifiedTokenPruningforEffici.md]] : Omni-Prune: Query-Aware Unified Token Pruning for Efficient Omnimodal Large Language Models
+- [[2026-07-25_16-45-00Z_TopoFE_topology_awareLLM_guidedAutomatedFeatureEng.md]] : TopoFE: topology-aware LLM-guided Automated Feature Engineering
+- [[2026-07-26_07-29-36Z_DoDiagramsHelpLargeLanguageModelsReason_Evidencefr.md]] : Do Diagrams Help Large Language Models Reason? Evidence from Syllogistic Reasoning
+- [[2026-07-25_23-41-47Z_Inference_TimeConsensusforMitigatingHiddenBehavior.md]] : Inference-Time Consensus for Mitigating Hidden Behaviors from LLM Fine-Tuning
+- [[2026-07-26_06-29-48Z_LearningSamplingParametersforDiffusionModels.md]] : Learning Sampling Parameters for Diffusion Models
+- [[2026-07-26_10-54-44Z_HiTMS_AHigh_ThroughputMulti_StreamLinguisticStegan.md]] : HiTMS: A High-Throughput Multi-Stream Linguistic Steganography Framework
+- [[2026-07-26_03-46-03Z_DoLLMDebatesRepeatArgumentsDifferentlyAcrossLangua.md]] : Do LLM Debates Repeat Arguments Differently Across Languages?
+- [[2026-07-26_13-01-48Z_ExtendingDesbordantewithProbabilisticFunctionalDep.md]] : Extending Desbordante with Probabilistic Functional Dependency Discovery Support
+- [[2026-07-25_22-40-02Z_ConfidentlyWrong_ExceptionChainCollapseinFrontierL.md]] : Confidently Wrong: Exception Chain Collapse in Frontier LLM Rule Evaluation
+- [[2026-07-25_19-05-29Z_AlloBench_MeasuringOnlineToolAllocationCapabilityi.md]] : AlloBench: Measuring Online Tool Allocation Capability in LLM Agents
+- [[2026-07-25_19-40-58Z_BERT_basedModelsvs_LargeLanguageModelsforLow_Resou.md]] : BERT-based Models vs. Large Language Models for Low-Resource Named Entity Recognition: A Comparative Study on Marathi
+- [[2026-07-26_07-29-47Z_NovelClaimorDéjàVu_Rethinking_Contamination_Free__.md]] : Novel Claim or Déjà Vu? Rethinking "Contamination-Free'' Dynamic Evaluation for Multimodal Automated Fact-Checking
+- [[2026-07-26_08-27-19Z_GuidingLanguageModelstoBeMoreEmpathetic_Culturally.md]] : Guiding Language Models to Be More Empathetic: Culturally Sensitive Mental Health Advice Generation Through Human-LLM Collaboration
+- [[2026-07-25_16-58-10Z_RareLens_TowardsEnd_to_EndRareDiseaseCareviaAligni.md]] : RareLens: Towards End-to-End Rare Disease Care via Aligning Divergent Large Language Model Reasoning
+- [[2026-07-25_21-12-51Z_OntheImpossibilityofUnbiasedandLength_InvariantPol.md]] : On the Impossibility of Unbiased and Length-Invariant Policy Optimization with Outcome Rewards
+- [[2026-07-26_11-16-59Z_HybridAdvantageEstimationwithUnifiedCriticforVLMAg.md]] : Hybrid Advantage Estimation with Unified Critic for VLM Agentic Reinforcement Learning
+- [[2026-07-26_13-30-04Z_EmoTrace_AnEmotionTrajectory_CenteredFrameworkforP.md]] : EmoTrace: An Emotion Trajectory-Centered Framework for Psychological Support Dialogue Generation
+- [[2026-07-26_07-38-11Z_AuditingAlignmentControllabilityinLLMsviaPolitical.md]] : Auditing Alignment Controllability in LLMs via Political Axes
+- [[2026-07-25_18-28-44Z_IKS_Instruct_A24_000_ExampleMultilingualDatasetfor.md]] : IKS-Instruct: A 24,000-Example Multilingual Dataset for Teaching Language Models Indian Knowledge Systems
+- [[2026-07-26_14-23-33Z_FocusIsAllYouNeed_AdaptiveGoal_awareAttentionOrche.md]] : Focus Is All You Need: Adaptive Goal-aware Attention Orchestration for Multi-Agent Graph Systems
+- [[2026-07-26_03-39-29Z_ReasoningorMemorization_CanLLMsUnderstandandGenera.md]] : Reasoning or Memorization: Can LLMs Understand and Generate Chinese Xiehouyu Riddles?
+- [[2026-07-26_13-28-51Z_CALMRec_CausallyAlignedLanguageMemoryforLong_Horiz.md]] : CALMRec: Causally Aligned Language Memory for Long-Horizon Recommendation
+- [[2026-07-25_16-19-02Z_StatisticallySupportedLLMIngredientandRecipeDataCo.md]] : Statistically Supported LLM Ingredient and Recipe Data Collection in Computational Nutrition
+- [[2026-07-26_06-35-31Z_ToErase_orNottoErase_RobustTraining_FreeConceptEra.md]] : To Erase, or Not to Erase: Robust Training-Free Concept Erasure with Preservation aware Adaptive Ranked Subspace Expansion
+- [[2026-07-26_15-16-44Z_TheIllusionofSecureLLMCode_ClosingtheSecurityGapvi.md]] : The Illusion of Secure LLM Code: Closing the Security Gap via Iterative Reprompting
+- [[2026-07-26_15-38-28Z_E_Bench_BenchmarkingMulti_StepTool_UseAgentsinReal.md]] : E-Bench: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios
+- [[2026-07-26_16-03-33Z_Outcome_ConfoundedLocalSupervisioninOn_PolicyDisti.md]] : Outcome-Confounded Local Supervision in On-Policy Distillation
+- [[2026-07-26_12-15-09Z_WhereIstheCostofThird_PartyAPIRoutersinAgenticSoft.md]] : Where Is the Cost of Third-Party API Routers in Agentic Software Development?
+- [[2026-07-26_14-22-15Z_SpecAHD_LocalizetoSpecializeforAutomatedHeuristicD.md]] : SpecAHD: Localize to Specialize for Automated Heuristic Design in Large-Scale Routing Problems
+- [[2026-07-26_06-54-28Z_DoLLMsKnowTheirVulnerableScenarios.md]] : Do LLMs Know Their Vulnerable Scenarios?
+- [[2026-07-26_07-13-33Z_ChoosingaTextEmbeddingModel_APracticalBenchmarking.md]] : Choosing a Text Embedding Model: A Practical Benchmarking and Decision Framework
+- [[2026-07-26_08-02-20Z_Mission_LevelRuntimeAssuranceforLLM_AssistedISRSwa.md]] : Mission-Level Runtime Assurance for LLM-Assisted ISR Swarms over a Verification-Aware Fabric
+- [[2026-07-26_14-47-47Z_Offline_OnlineCurriculumRLforMultimodalReasoning.md]] : Offline-Online Curriculum RL for Multimodal Reasoning
+- [[2026-07-26_02-35-47Z_LA_RL_Label_AwareSelf_ReflectionforReinforcementLe.md]] : LA-RL: Label-Aware Self-Reflection for Reinforcement Learning in Information Extraction
 - [[2026-07-22_22-58-18Z_DefiningAI_NativeSystems_AutonomyasRevisionAuthori.md]] : Defining AI-Native Systems: Autonomy as Revision Authority
 - [[2026-07-23_13-18-57Z_EncodingInvisibleCausationforBridgeDiagnosticAgent.md]] : Encoding Invisible Causation for Bridge Diagnostic Agents: Triple-Guided Retrieval-Augmented Fine-Tuning with QLoRA
 - [[2026-07-23_13-47-02Z_CARNetCycle_ConditionedCoreAggregationandRedistrib.md]] : CARNet Cycle-Conditioned Core Aggregation and Redistribution for Multivariate Time Series Forecasting
