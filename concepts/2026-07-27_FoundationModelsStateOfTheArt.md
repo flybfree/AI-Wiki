@@ -33,7 +33,7 @@ This is the updated frontier foundation-model snapshot. It supersedes the 2026-0
 The frontier is still fragmented rather than dominated by one universal winner:
 
 - **OpenAI’s GPT-5.6 family** is the biggest new proprietary release since the 2026-06-30 snapshot.
-- **Claude Opus 5** is the clearest new Anthropic flagship and is now the model to watch for long-horizon coding and knowledge work.
+- **Claude Opus 5** and **Claude Sonnet 5** are the clearest new Anthropic public releases; Opus is the flagship, Sonnet is the agentic everyday tier.
 - The model race is increasingly **tiered**: one flagship, one balanced model, and one low-cost / high-throughput model.
 - Open-weight leaders still matter because the best choice depends on the job: reasoning, coding, multimodal work, self-hosting, or cost control.
 
@@ -82,6 +82,26 @@ Current impression:
 
 Source:
 - [Introducing Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
+
+### Anthropic — Claude Sonnet 5
+
+Claude Sonnet 5 is Anthropic’s other major new public model in this window.
+
+- Anthropic positions Sonnet 5 as its most agentic Sonnet-tier model.
+- It is framed as strong enough to approach Opus-class quality on many coding and agent tasks.
+- It is the everyday workhorse sibling to Opus 5.
+
+Why it matters:
+- It fills the balanced middle tier in Anthropic’s lineup
+- It is likely to be the practical default for a lot of coding and agentic work
+- It helps make Anthropic’s lineup read as a real family, not a single flagship
+
+Current impression:
+- **Sonnet 5** is the model to watch for default production use
+- **Opus 5** stays the top-end careful reasoning / long-horizon option
+
+Source:
+- [Introducing Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5)
 
 ### Google — Gemini 3.1 Pro
 
@@ -275,7 +295,7 @@ If you want the best model for a specific job, I would treat the frontier like t
 
 - Best general closed-model reasoning: **GPT-5.6 Sol** or **Claude Opus 5**
 - Best closed-model multimodal work: **Gemini 3.1 Pro**
-- Best coding-heavy closed model: **GPT-5.6 Sol** or **Claude Opus 5**
+- Best coding-heavy closed model: **GPT-5.6 Sol**, **Claude Sonnet 5**, or **Claude Opus 5**
 - Best low-cost closed model routing: **GPT-5.6 Luna**
 - Best open-weight generalist: **Qwen3**, **DeepSeek V4**, or **GLM-5.2** depending on the task
 - Best open-weight coding / agent work: **GLM-5.2** or **DeepSeek V4 Pro Max**
