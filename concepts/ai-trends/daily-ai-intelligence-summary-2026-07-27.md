@@ -26,6 +26,27 @@ On the model front, [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5
 | Reliability / governance | New work on code review, autonomy, poisoning, and sparse interpretability | Safety is getting more operational and measurable |
 | Product strategy | Midjourney’s Co-Star acquisition shows AI moving into consumer surfaces | AI companies are optimizing for ownership of workflows and user context |
 
+## Model Tracks
+
+### Frontier Proprietary
+
+- [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) is the closed-model anchor for the day.
+
+### Frontier Open-Weight
+
+- [Kimi K3](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart) and [Inkling](https://thinkingmachines.ai/news/introducing-inkling/) are the open-weight pressure test at frontier scale.
+
+### Local-Use Open Source
+
+- [Open-Source Models State of the Art — 2026-07-10](../../concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md) is the local/open-source reference page.
+
+### Summary / Article Links
+
+- [Foundation Models State of the Art — 2026-07-27](../2026-07-27_FoundationModelsStateOfTheArt.md)
+- [Claude Opus 5 summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-27_IntroducingClaudeOpus5_summary.md)
+- [Kimi K3 summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-27_Kimi-K3ReleasesonHuggingFace7_27_summary.md)
+- [Inkling summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-27_Inkling_OurOpen-WeightsModel_summary.md)
+
 ### 1) Search and health are becoming the main AI control surfaces
 
 The strongest product signal today is that AI is moving into the first place users look, not staying in a separate chat tab. [Health in ChatGPT](https://openai.com/index/health-in-chatgpt/) now lets eligible U.S. users connect Apple Health and medical records, while Google’s [Search redesign](https://blog.google/products-and-platforms/products/search/search-io-2026/) turns the search box into a multimodal prompt surface that accepts text, images, PDFs, videos, and open Chrome tabs.
