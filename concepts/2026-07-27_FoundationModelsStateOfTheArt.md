@@ -171,21 +171,22 @@ Sources:
 - [ERNIE 5.0](https://ernie.baidu.com/blog/posts/ernie5.0/)
 - [ERNIE 5.1 release](https://ernie.baidu.com/blog/posts/ernie-5.1-0508-release/)
 
-### Moonshot AI — Kimi K2.6 / K2.7 Code
+### Moonshot AI — Kimi K3 / K2.7 Code
 
-Kimi’s platform emphasizes long context, tool calling, code generation, and visual reasoning.
+Kimi’s current flagship is Kimi K3, with K2.7 Code still relevant for coding-heavy workflows.
 
 Why it matters:
-- Very large model family
-- 256K context on the API platform
-- Strong coding and agent-style workflows
+- Kimi K3 is Moonshot’s flagship long-horizon model
+- 1M-token context window on the platform docs
+- Strong coding, tool calling, visual understanding, and end-to-end knowledge work
 
 Current impression:
-- Important Chinese proprietary contender for coding and long-context tasks
-- Especially relevant for document-heavy or tool-heavy workloads
+- One of the most important Chinese proprietary frontier models right now
+- Especially relevant for document-heavy, code-heavy, or tool-heavy workloads
 
 Sources:
-- [Kimi K2.6 quickstart](https://platform.kimi.ai/docs/guide/kimi-k2-6-quickstart)
+- [Kimi K3 quickstart](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart)
+- [Kimi model list](https://platform.kimi.ai/docs/models)
 - [Kimi API Platform](https://platform.kimi.ai/)
 
 ### Tencent Hunyuan
