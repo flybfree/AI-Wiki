@@ -13,7 +13,7 @@ tags: [ai-trends, daily-summary, ai-news, intelligence, wiki]
 
 Today’s intake is centered on AI becoming the primary surface for search, health, and model work, while the research queue keeps moving toward reliability and system design. [Health in ChatGPT](https://openai.com/index/health-in-chatgpt/) turns ChatGPT into a place where users can connect personal health context, Google’s [Search I/O 2026 update](https://blog.google/products-and-platforms/products/search/search-io-2026/) turns the search box into a multimodal AI entry point, and [SymptomAI](https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment/) pushes health evaluation toward real patient language and real-world evidence.
 
-On the model front, [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) and Moonshot’s [Kimi K3 release](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart) show the current split between polished closed models and open heavyweight releases, while Thinking Machines’ [Inkling](https://thinkingmachines.ai/news/introducing-inkling/) adds a fresh open-weights signal to the mix. The day’s research papers add an important second layer: model choice is no longer just about benchmark score, but about cross-model workflows, revision authority, detector robustness, and stateful runtime design.
+On the model front, [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5), Moonshot’s [Kimi K3 release](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart), and Thinking Machines’ [Inkling](https://thinkingmachines.ai/news/introducing-inkling/) make the frontier picture read less like a single race and more like a three-way split: polished closed models, open heavyweight scale, and open-weights customization. The updated foundation-model snapshot now tracks that split directly. The day’s research papers add an important second layer: model choice is no longer just about benchmark score, but about cross-model workflows, revision authority, detector robustness, and stateful runtime design.
 
 **Most important signal:** AI is moving from a model you query to a control layer that owns context, routes work, and shapes the product surface.
 
@@ -110,6 +110,8 @@ That means the competitive axis is moving from raw benchmark leadership to a mix
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
 - [Learning to Replicate Expert Judgment in Financial Tasks](https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/)
 - [Thinking Machines Lab and NVIDIA Announce Long-Term Gigawatt-Scale Strategic Partnership](https://thinkingmachines.ai/news/nvidia-partnership/)
+- [Foundation Models State of the Art — 2026-07-27](../2026-07-27_FoundationModelsStateOfTheArt.md)
+- [Open-Source Models State of the Art — 2026-07-10](../../concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md)
 
 ### Research sources
 - [Cross-Model LLM Code Review: Should you use Claude to review Codex or vice versa?](http://arxiv.org/abs/2607.21656v1)
