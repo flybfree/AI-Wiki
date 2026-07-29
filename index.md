@@ -3103,3 +3103,10 @@ tags: ['wiki']
 - [[2026-07-28_CodexSecurity.md]] : Codex Security
 - [[2026-07-28_CyeraagreestoacquireOasisSecurityfor_1Btosafeguard.md]] : Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents
 - [[2026-07-28_AIleaderssignastatementaskingthegovernmenttodosome.md]] : AI leaders sign a statement asking the government to do something about automated AI
+- [[2026-07-29_CodexSecurity.md]] : Codex Security
+- [[2026-07-29_Inkling_OurOpen-WeightsModel.md]] : Inkling: Our Open-Weights Model
+- [[2026-07-29_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-07-29_AIleaderssignastatementaskingthegovernmenttodosome.md]] : AI leaders sign a statement asking the government to do something about automated AI
+- [[2026-07-29_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-07-29_ScientificcomputingintheageofagenticAI.md]] : Scientific computing in the age of agentic AI
+- [[2026-07-29_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
