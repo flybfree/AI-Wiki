@@ -3110,3 +3110,9 @@ tags: ['wiki']
 - [[2026-07-29_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-07-29_ScientificcomputingintheageofagenticAI.md]] : Scientific computing in the age of agentic AI
 - [[2026-07-29_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[2026-07-29_We_rerunningoutofreasonstoignoreAIsafety.md]] : We’re running out of reasons to ignore AI safety
+- [[2026-07-29_ArtistsarelawyeringupagainstAIslop_andsomeareevenw.md]] : Artists are lawyering up against AI slop, and some are even winning
+- [[2026-07-29_AsAIcontentfloodstheinternet_Pangramraises_9Mtodet.md]] : As AI content floods the internet, Pangram raises $9M to detect it
+- [[2026-07-29_KOReader.md]] : KOReader
+- [[2026-07-29_ShowHN_Open-sourceenginerunningGemma426Bin2GBRAMon.md]] : Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
+- [[2026-07-29_Hint_anewAIstartupco-foundedbyMarthaStewart_offers.md]] : Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners
