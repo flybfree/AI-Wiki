@@ -1,0 +1,18 @@
+---
+title: Raven: High-Recall Sequence Modeling with Sparse Memory Routing
+published: 2026-07-28T07:04:32Z
+authors: Arshia Afzal, Aviv Bick, Eric P. Xing, Volkan Cevher, Albert Gu
+url: http://arxiv.org/abs/2607.25357v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Raven: High-Recall Sequence Modeling with Sparse Memory Routing
+
+## Abstract
+Long-context recall in linear-time sequence models highlights a tradeoff in how they write to memory. State-based linear models, such as state-space models (SSMs) and linear Transformers, write densely, updating the entire state for each newly arrived token, which leads to interference and makes specific past tokens hard to recover. Sliding-window attention (SWA) exhibits the opposite behavior: it writes sparsely by storing explicit token representations, but only within a fixed window, so recall drops once the relevant token is evicted. Interpolating between these models, we introduce Raven, a linear-time sequence model that maintains a fixed set of memory slots and, at each step, decays and updates only a selected subset via learned, input-dependent routing. This lets Raven mitigate SWA's position-based overwriting and hard eviction while reducing interference from dense state updates in SSMs, thereby preserving long-range content much more effectively. Across recall-intensive benchmarks, Raven is competitive with or outperforms prior linear-time baselines, achieving strong long-context recall where both SWA and SSMs sharply degrade. It remains effective when extrapolating to context lengths as large as 16x its training length, with similar gains in hybrid architectures.
+
+## Metadata
+- **Published**: 2026-07-28T07:04:32Z
+- **Authors**: Arshia Afzal, Aviv Bick, Eric P. Xing, Volkan Cevher, Albert Gu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.25357v1)

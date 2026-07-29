@@ -1,0 +1,18 @@
+---
+title: Prototype Adaptation for Zero-Shot sEMG Movement Classification
+published: 2026-07-28T15:06:24Z
+authors: Rui Liu, Benjamin Paassen
+url: http://arxiv.org/abs/2607.25826v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Prototype Adaptation for Zero-Shot sEMG Movement Classification
+
+## Abstract
+Surface electromyography (sEMG) enables the control of prostheses, allowing upper-limb amputees to re-gain some hand function. Most current research focuses on recognizing basic movements for prosthesis control. However, in most daily activities, such as opening a door, combined movements are essential. However, collecting training data for all possible combined movements is time-consuming and requires re-training of the model for any new combination. We propose two novel recognition approaches, Compositional Prototype Interpolation (CPI) and Synthetic Adaptation for Prototypes (SAP), that enable zero-shot learning of combined, novel and unseen movements in Prototype Networks after training only with basic movements. Our methods rest on a linear interpolation assumption in the embedding space, which we study by inspecting the geometry of combined motions in signal and embedding space. In experiments on the NearLab and NinaPro DB3 data sets as well as our newly recorded BasCom dataset, our proposed SAP outperforms prior zero-shot learning methods with accuracy improvements on combined movements of more than 20%. This advantage is maintained in online inference experiments in a user study.
+
+## Metadata
+- **Published**: 2026-07-28T15:06:24Z
+- **Authors**: Rui Liu, Benjamin Paassen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.25826v1)

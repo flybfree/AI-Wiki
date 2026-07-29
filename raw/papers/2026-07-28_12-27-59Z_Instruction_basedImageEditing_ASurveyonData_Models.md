@@ -1,0 +1,18 @@
+---
+title: Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications
+published: 2026-07-28T12:27:59Z
+authors: Xianghao Zang, Zijian Jiang, Jiarong Cheng, Qianrui Teng, Ying He, Yuxuan Mu, Chao Ban, Huayu Zhang, Lanxiang Zhou, Zerun Feng, Chi Zhang
+url: http://arxiv.org/abs/2607.25642v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Instruction-based Image Editing: A Survey on Data, Models, Evaluation, and Applications
+
+## Abstract
+Instruction-based Image Editing (IIE) aims to transform a given image into a new one based on textual instructions. Advances in Large Language Models (LLMs) and Vision-Language Models (VLMs) have accelerated progress toward practical ``one-sentence image editing" systems. This survey presents a systematic taxonomy and comprehensive review of IIE research, structured around five core dimensions: (1) task definition and hierarchical categorization of editing operations, (2) methodologies for training data construction, (3) architectural evolution from GAN-based to diffusion and autoregressive paradigms, (4) standardized evaluation metrics and benchmark development, and (5) introduction of commercial solutions. Our analysis shows critical technological milestones across model generations. We further propose a Comprehensive, in-Depth, and Diagnostic benchmark for IIE task (CDD-IIE Bench), which can rigorously assess the multiple aspects of model performance. Through empirical comparisons of open-source solutions, we highlight their respective capabilities and limitations. Finally, we discuss future research directions to advance the field.
+
+## Metadata
+- **Published**: 2026-07-28T12:27:59Z
+- **Authors**: Xianghao Zang, Zijian Jiang, Jiarong Cheng, Qianrui Teng, Ying He, Yuxuan Mu, Chao Ban, Huayu Zhang, Lanxiang Zhou, Zerun Feng, Chi Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.25642v1)

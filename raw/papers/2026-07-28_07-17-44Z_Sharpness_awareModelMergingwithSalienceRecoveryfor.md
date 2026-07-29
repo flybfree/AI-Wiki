@@ -1,0 +1,18 @@
+---
+title: Sharpness-aware Model Merging with Salience Recovery for LLM-based Cross-Domain Sequential Recommendation
+published: 2026-07-28T07:17:44Z
+authors: Huwei Ji, Jiajie Su, Yuyuan Li, Xiaohua Feng, Chaochao Chen
+url: http://arxiv.org/abs/2607.25366v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Sharpness-aware Model Merging with Salience Recovery for LLM-based Cross-Domain Sequential Recommendation
+
+## Abstract
+LLM-based Cross-Domain Sequential Recommendation (CDSR) leverages LLMs to enhance target performance via deep semantic reasoning, alleviating the dependency on overlapping users. Among LLM-based paradigms, model merging is particularly promising for multi-domain scenarios due to its superior scalability and flexibility in integrating diverse knowledge sources. However, our empirical investigations reveal two critical bottlenecks: (1) cross-domain knowledge conflict; and (2) performance saturation in multi-domain fusion. Our analysis attributes these phenomena to parameter-level misalignment and statistical homogenization during the merging process. To address these bottlenecks, we propose SharpRec, Sharpness-aware Model Merging with Salience Recovery for LLM-based CDSR, a framework designed to lift the performance upper bound of merged models. SharpRec incorporates two synergistic modules: Sharpness-aware Geometric Alignment to establish a stable geometric foundation for interference-free fusion; and Preference Salience Activation to effectively recover the distinctive features essential for bolstering target domain performance. Extensive experiments in both dual-domain and multi-domain scenarios demonstrate that SharpRec consistently outperforms state-of-the-art baselines.
+
+## Metadata
+- **Published**: 2026-07-28T07:17:44Z
+- **Authors**: Huwei Ji, Jiajie Su, Yuyuan Li, Xiaohua Feng, Chaochao Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.25366v1)

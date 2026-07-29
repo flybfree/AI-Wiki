@@ -1,0 +1,18 @@
+---
+title: Beyond "What to Retrieve": Uncertainty in Retrieval-Augmented Code Generation
+published: 2026-07-27T10:15:36Z
+authors: Chandan Kumar Sah, Xiaoli Lian, Li Zhang
+url: http://arxiv.org/abs/2607.24884v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond "What to Retrieve": Uncertainty in Retrieval-Augmented Code Generation
+
+## Abstract
+Repository-level code generation relies on heterogeneous evidence whose relevance, compatibility, and completeness are inherently uncertain. Similar-code examples, repository context, and project-specific APIs may provide complementary information, but can also introduce noisy, redundant, or conflicting signals. Existing retrieval-augmented approaches primarily optimize retrieval relevance without explicitly modeling how uncertainty in retrieved evidence affects downstream generation. We introduce OpenCoder, an uncertainty-aware framework that estimates source-specific uncertainty, uses it to filter and rank heterogeneous evidence, and guides generation, verification, and repair. A factorial analysis over API knowledge, repository context, and similar-code evidence reveals no universal additive source ranking; instead, significant cross-source interactions depend on the accompanying evidence and LLM backend. On an expanded 32-task RepoExec-inline evaluation, OpenCoder improves GPT selected-output correctness over Baseline RAG from 56.25\% to 78.13\%. However, it matches a verification-and-repair control, and the corresponding Gemini improvement is not statistically supported, indicating backend-dependent benefits. Target-aware API refinement also substantially improves API-set retrieval. These findings support treating uncertainty as an actionable control signal for repository-level retrieval, verification, and repair.
+
+## Metadata
+- **Published**: 2026-07-27T10:15:36Z
+- **Authors**: Chandan Kumar Sah, Xiaoli Lian, Li Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.24884v1)

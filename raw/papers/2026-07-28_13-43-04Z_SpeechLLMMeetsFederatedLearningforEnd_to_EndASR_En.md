@@ -1,0 +1,18 @@
+---
+title: SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies
+published: 2026-07-28T13:43:04Z
+authors: Mohamed Nabih Ali, Daniele Falavigna, Alessio Brutti
+url: http://arxiv.org/abs/2607.25716v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SpeechLLM Meets Federated Learning for End-to-End ASR: English and Italian Case Studies
+
+## Abstract
+Federated learning (FL) enables privacy-preserving training of automatic speech recognition (ASR) systems across distributed data sources, yet its application to large-scale speech language models (SpeechLLMs) remains unexplored. This paper presents the first systematic study of federated training for SpeechLLM-based end-to-end ASR systems. We design a communication-efficient federated optimization strategy tailored to the unique challenges of SpeechLLM architectures, addressing high-dimensional parameter spaces, gradient communication overhead, and computational constraints in distributed settings. Through extensive empirical evaluation on monolingual ASR tasks in English and Italian, we demonstrate the effectiveness and stability of our federated approach compared to centralized training baselines across diverse acoustic conditions and speaking styles. Additionally, we conduct a comprehensive ablation study analyzing the impact of different speech encoder architectures on monolingual English ASR performance within the federated framework, providing insights into optimal model configurations for decentralized training. Our results achieve competitive word error rates while reducing communication costs, establishing practical foundations for federated SpeechLLM deployment in real-world multilingual scenarios.
+
+## Metadata
+- **Published**: 2026-07-28T13:43:04Z
+- **Authors**: Mohamed Nabih Ali, Daniele Falavigna, Alessio Brutti
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.25716v1)

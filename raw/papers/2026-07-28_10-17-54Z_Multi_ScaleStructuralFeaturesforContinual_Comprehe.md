@@ -1,0 +1,18 @@
+---
+title: Multi-Scale Structural Features for Continual, Comprehensible Visual Recognition in a Developmental Learning Framework
+published: 2026-07-28T10:17:54Z
+authors: Zeki Doruk Erden
+url: http://arxiv.org/abs/2607.25531v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Multi-Scale Structural Features for Continual, Comprehensible Visual Recognition in a Developmental Learning Framework
+
+## Abstract
+Contemporary machine learning struggles to learn continually, reuse prior knowledge, and expose a comprehensible internal structure. A recently proposed developmental, gradient-free learning framework addresses these limitations by learning a discrete, topological model of its inputs through local variation and selection, yielding an inherent continual-learning guarantee: new observations refine existing structure without overwriting past knowledge, and without replay buffers or predefined task boundaries. Its extension to visual inputs demonstrated this principle on shape recognition, but relied on a feature representation of limited expressivity that capped recognition accuracy. We introduce a new visual feature representation that encodes shape structure across multiple scales, capturing edge and contour features together with their spatial relations, and integrate it with the network-refinement learning process; we further improve the learning dynamics and the read-out used to predict from the learned model. The study targets two-dimensional shape, with class-incremental MNIST as a controlled, interpretable benchmark in which continual-learning behavior can be measured directly. Our approach substantially increases accuracy over the prior representation, matching or exceeding replay- and regularisation-based baselines at comparable storage while storing no past data, and preserves the framework's defining behavior: earlier-learned classes are retained as new ones are introduced, with no destructive adaptation, and the learned representations remain human-interpretable. What separates the methods is retention: the baselines surrender most of a just-trained class within its own cycle and relearn it afterwards, which ours does not. The significance lies in the manner of learning. The system integrates information one sample at a time while provably preserving its responses to...
+
+## Metadata
+- **Published**: 2026-07-28T10:17:54Z
+- **Authors**: Zeki Doruk Erden
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.25531v1)

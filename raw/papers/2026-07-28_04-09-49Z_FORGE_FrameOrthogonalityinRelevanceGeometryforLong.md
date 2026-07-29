@@ -1,0 +1,18 @@
+---
+title: FORGE: Frame Orthogonality in Relevance Geometry for Long-Form Video Understanding
+published: 2026-07-28T04:09:49Z
+authors: Ghazal Kaviani, Ghassan AlRegib
+url: http://arxiv.org/abs/2607.25266v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# FORGE: Frame Orthogonality in Relevance Geometry for Long-Form Video Understanding
+
+## Abstract
+Multimodal large language models (MLLMs) have enabled long-form video understanding at a scale that was not previously possible. However, the density of relevant content decreases sharply as video sequence length increases, and exposing the model to more irrelevant content measurably reduces its accuracy. In this paper, we address the problem of maximizing query-relevant information in a frame subset selected at inference time, without training. FORGE (Frame Orthogonality in Relevance Geometry) is a model-agnostic method that induces a query-conditioned geometry on a pretrained multimodal embedding space, unifying relevance and diversity into a single objective. In this space, frames that cover independent query-relevant directions are far apart, and selecting the subset of maximum information captures diverse query-relevant content within the budget. Experiments on Video-MME and LongVideoBench at budgets of 16, 32, and 64 frames show that FORGE improves the unified keyframe selection score by 11.0-15.3 points over the strongest training-free baseline and up to doubles keyframe recall (0.415 vs. 0.204 at K=64 on Video-MME). The gains extend to question answering, where accuracy improves in every evaluated setting across eight open-source MLLMs spanning 4B to 32B parameters, by up to 8.7 points over uniform sampling and 5.2 points over the strongest baseline. Our findings suggest that aligning the embedding space with the query's high-dimensional structure is a promising direction for inference-time video understanding.
+
+## Metadata
+- **Published**: 2026-07-28T04:09:49Z
+- **Authors**: Ghazal Kaviani, Ghassan AlRegib
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.25266v1)

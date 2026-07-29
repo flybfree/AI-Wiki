@@ -1,0 +1,18 @@
+---
+title: SpectONet: A Physics-Guided Spectral Deep Operator Network for Euler-Bernoulli Beam Dynamics
+published: 2026-07-28T14:42:04Z
+authors: Shivani Saini, Ramesh Kumar Vats, Arup Kumar Sahoo
+url: http://arxiv.org/abs/2607.25790v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SpectONet: A Physics-Guided Spectral Deep Operator Network for Euler-Bernoulli Beam Dynamics
+
+## Abstract
+This paper proposes a novel physics-guided spectral deep operator network, termed SpectONet, for solving Euler-Bernoulli beam (EBB) vibration problems. The proposed framework integrates the operator-learning capability of DeepONet with physics-informed constraints and Chebyshev-Gauss-Lobatto (CGL) sensor placement. Unlike conventional DeepONet frameworks, which commonly employ uniformly distributed sensors, SpectONet uses nonuniform spectral sensor locations with a higher concentration of points near the domain boundaries. This sampling strategy improves the finite-dimensional representation of boundary-sensitive structural responses while requiring only a limited number of branch-network inputs. The governing beam equation, together with the associated initial and boundary conditions, incorporated into the training objective to promote physically consistent and generalizable predictions. Numerical experiments on three synthetic EBB vibration problems and a real-world bridge vibration dataset demonstrate the effectiveness of the proposed framework. Comparisons with strong baselines such as, Vanilla DeepONet, PI-DeepONet, PINN, and CNN-UNet show that SpectONet consistently achieves lower prediction errors across all considered evaluation metrics. In particular, SpectONet achieves at least \(64\%\) improvement over the considered baseline models across the three synthetic problems and at least \(37\%\) for the real-world problems. These results demonstrate that SpectONet provides an accurate, computationally efficient, and physically consistent operator-learning framework for structural vibration analysis.
+
+## Metadata
+- **Published**: 2026-07-28T14:42:04Z
+- **Authors**: Shivani Saini, Ramesh Kumar Vats, Arup Kumar Sahoo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.25790v1)
