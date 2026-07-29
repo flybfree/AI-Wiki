@@ -228,6 +228,7 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-28_17-46-19Z_CollaborativeSystemFailurePrognosticsviaFederatedL.md]] : Collaborative System Failure Prognostics via Federated Longitudinal-Survival Modeling
 - [[2026-07-24_22-45-33Z_REPREC_RepresentationDrivenParameter_EfficientReco.md]] : REPREC: Representation Driven Parameter-Efficient Recommendation System
 - [[2026-07-24_06-02-41Z_MedJudgeRAG_Option_WiseEvidenceJudgmentwithDynamic.md]] : MedJudgeRAG: Option-Wise Evidence Judgment with Dynamic Knowledge Graphs for Medical MCQA
 - [[2026-07-28_08-20-40Z_SalientKnowledgePathways_SparseCross_ModalRoutingf.md]] : Salient Knowledge Pathways: Sparse Cross-Modal Routing for Efficient Knowledge-Intensive Multimodal Question Answering
@@ -3116,3 +3117,13 @@ tags: ['wiki']
 - [[2026-07-29_KOReader.md]] : KOReader
 - [[2026-07-29_ShowHN_Open-sourceenginerunningGemma426Bin2GBRAMon.md]] : Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
 - [[2026-07-29_Hint_anewAIstartupco-foundedbyMarthaStewart_offers.md]] : Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners
+- [[2026-07-29_AcceleratingscientificdiscoverywithChatGPTforAcade.md]] : Accelerating scientific discovery with ChatGPT for Academic Researchers
+- [[2026-07-29_AtlassiantightenstrackingofstaffAIuseasothertechno.md]] : Atlassian tightens tracking of staff AI use as other technology firms encourage 'tokenmaxxing'
+- [[2026-07-29_ClaudeOpus5becamedownrightruthlesswhentaskedwithru.md]] : Claude Opus 5 became downright ruthless when tasked with running a vending machine
+- [[2026-07-29_OpenAIpresidentsaysit__8217_s__8216_buildingafamil.md]] : OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots
+- [[2026-07-29_TheHuggingFaceAIbreak-in_astoldthroughanincreasing.md]] : The Hugging Face AI break-in, as told through an increasingly committed bear metaphor
+- [[2026-07-29_KimiK3-256k.md]] : Kimi K3-256k
+- [[2026-07-29_ThecoolestusefortheVisionPro.md]] : The coolest use for the Vision Pro
+- [[2026-07-29_MarkZuckerbergisplanningabigpushintopersonalAIagen.md]] : Mark Zuckerberg is planning a big push into personal AI agents
+- [[2026-07-29_MicrosoftconfirmsCopilot_superapp_comingthisyear.md]] : Microsoft confirms Copilot ‘super app’ coming this year
+- [[2026-07-29_HowenablingtwosettingstripledourscoresontheARC-AGI.md]] : How enabling two settings tripled our scores on the ARC-AGI-3 benchmark
