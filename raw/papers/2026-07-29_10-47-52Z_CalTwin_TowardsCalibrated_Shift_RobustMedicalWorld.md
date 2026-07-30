@@ -1,0 +1,18 @@
+---
+title: CalTwin: Towards Calibrated, Shift-Robust Medical World Models via Fisher-Information Regularisation
+published: 2026-07-29T10:47:52Z
+authors: Behraj Khan, Shabir Ahmad, Syed Ahmad Chan Bukhari, Tahir Qasim Syed
+url: http://arxiv.org/abs/2607.26752v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# CalTwin: Towards Calibrated, Shift-Robust Medical World Models via Fisher-Information Regularisation
+
+## Abstract
+Medical world models aim to learn a latent state of patient or organ physiology and a transition function that forecasts how that state evolves under interventions, supporting downstream tasks from imaging-based diagnosis to digital-twin treatment planning. Two failure modes threaten the reliability of such models in clinical deployment: (i)~\emph{covariate shift}, because training data are fragmented across hospitals, scanners, and time, so the feature distribution seen by the latent-dynamics predictor differs across fragments and from the distribution at deployment; and (ii)~\emph{confidence misalignment}, because multi-step forecasts are often overconfident exactly where clinical risk is highest. We argue that both problems admit a unified treatment via a single lightweight regularisation objective, \textbf{CalTwin}, which combines a Fisher-Information-based shift penalty adapted from our prior work on fragmented covariate-shift remediation~\cite{khan2025mitigating,khan2025causal} with a Confidence Misalignment Penalty adapted from our prior work on calibrated vision-language classification~\cite{khan2025confidence}, applied here to a GRU-based medical world model's latent transition predictor. We derive the combined objective, establish which proof steps transfer from the classification setting without modification and which require adaptation, and evaluate it on the PhysioNet 2019 Sepsis Challenge, treating the two hospital systems as sequential training fragments and the unseen system as an out-of-distribution test. CalTwin reduces OOD next-step latent-state MSE by 9.1\% relative to the no-penalty baseline (FIM penalty alone accounts for 7.0\%); the ECE reduction from the Confidence Misalignment Penalty is real but small (0.7\% for CalTwin, 1.3\% for CMP alone).
+
+## Metadata
+- **Published**: 2026-07-29T10:47:52Z
+- **Authors**: Behraj Khan, Shabir Ahmad, Syed Ahmad Chan Bukhari, Tahir Qasim Syed
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.26752v1)

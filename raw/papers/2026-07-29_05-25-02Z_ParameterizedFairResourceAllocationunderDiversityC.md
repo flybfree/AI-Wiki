@@ -1,0 +1,18 @@
+---
+title: Parameterized Fair Resource Allocation under Diversity Constraints
+published: 2026-07-29T05:25:02Z
+authors: Keke Huang, Yik Yu Ng, Laks V. S. Lakshmanan, Xiaokui Xiao
+url: http://arxiv.org/abs/2607.26485v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Parameterized Fair Resource Allocation under Diversity Constraints
+
+## Abstract
+Resource allocation across multiple agent groups arises in many applications including e-commerce recommendation systems, housing assignment, and course allocation, and is commonly formulated as an optimization problem with diversity constraints to ensure group fairness. Existing approaches typically enforce these constraints as hard conditions, which overly restrict the feasible solution space and often lead to suboptimal allocations.   In this paper, we propose PRA, a parameterized framework for fair resource allocation under diversity constraints. Inspired by the use of risk-aversion parameters in economic models, PRA introduces a set of controllable inequality-aversion parameters to softly regulate group-level diversity, thereby enabling flexible trade-offs between fairness and allocation efficiency. With appropriately calibrated parameters, PRA yields fairness-optimal assignments that comply with the specified diversity constraints. To accommodate additional application-specific constraints, we further extend the framework to an adaptive variant, APRA. We establish that the optimality of both PRA and APRA holds regardless of the chosen fairness metric and the nature of the additional constraints, underscoring the generality and robustness of our approach. Extensive experiments on three real-world applications demonstrate that our proposed framework consistently outperforms existing baselines in both effectiveness and robustness.
+
+## Metadata
+- **Published**: 2026-07-29T05:25:02Z
+- **Authors**: Keke Huang, Yik Yu Ng, Laks V. S. Lakshmanan, Xiaokui Xiao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.26485v1)

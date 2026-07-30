@@ -1,0 +1,18 @@
+---
+title: One Run Is Not an Idea: The Implementation Lottery in Automated Research
+published: 2026-07-29T08:06:43Z
+authors: Jingjie Ning, Shanshan Zhong, Xiaochuan Li, Ji Zeng, Chenyan Xiong
+url: http://arxiv.org/abs/2607.26587v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# One Run Is Not an Idea: The Implementation Lottery in Automated Research
+
+## Abstract
+Automated research systems use experimental scores both to deliver artifacts and to decide which ideas to retain, transfer, and pursue. Yet one run scores one implementation of an idea. Crediting that realization-level score as evidence about the parent mechanism creates the \emph{implementation lottery}, in which an idea-level conclusion depends on which plausible implementation was sampled. The mismatch is structural whenever one run updates beliefs about a mechanism. We estimate its magnitude. The \emph{Idea Reliability Audit} measures \emph{idea reliability} by validating and freezing candidate cards, sampling fresh-session implementations, using outcome-blind fidelity labels, and rerunning saved artifacts. It reports idea ICC and leave-one-implementation-out (LOO) winner reversal. Prior work generally repeats the task; we repeat the idea. Across 312 assignments on 13 tabular tasks and two coding-agent setups, implementation variance was more than five and ten times same-artifact rerun variance, respectively, and the winner from one implementation draw differed from the winner under the other-two mean in 25.6\% and 43.6\% of decisions. Reversal survives card-level filtering under two outcome-blind review rules. An exploratory diagnostic on three materials-regression workflows with a deterministic evaluator also finds implementation variation dominating the decomposition. These findings distinguish idea reliability from best-of-$N$ artifact utility. Before a score guides idea-level branching, transfer, or research memory, evidence should cover multiple implementations.
+
+## Metadata
+- **Published**: 2026-07-29T08:06:43Z
+- **Authors**: Jingjie Ning, Shanshan Zhong, Xiaochuan Li, Ji Zeng, Chenyan Xiong
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.26587v1)

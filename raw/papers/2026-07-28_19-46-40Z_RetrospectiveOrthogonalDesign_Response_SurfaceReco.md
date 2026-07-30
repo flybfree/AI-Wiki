@@ -1,0 +1,18 @@
+---
+title: Retrospective Orthogonal Design: Response-Surface Reconstruction from Observational Data
+published: 2026-07-28T19:46:40Z
+authors: Lawrence Fulton, Christopher Fulton, Arvind Sharma, Aleksandar Tomic
+url: http://arxiv.org/abs/2607.26219v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Retrospective Orthogonal Design: Response-Surface Reconstruction from Observational Data
+
+## Abstract
+Regression estimates from observational data can depend on specification under multicollinearity, while sequential sums of squares (SS) depend on term order. We introduce Retrospective Orthogonal Design (ROD), which reconstructs conditional mean surfaces on a probability-balanced lattice. ROD preserves observed cell means, completes unsupported cells, applies weighted tensor-product contrasts, and evaluates the reconstructed surface through piecewise-affine interpolation over Freudenthal polyhedra. Resolution and completion are selected jointly by validation among rank-admissible candidates, followed by refitting and evaluation on an untouched test set. For an admissible lattice, $\mathbf{X}^{\top}\mathbf{W}\mathbf{X}=c\mathbf{I}$, yielding specification-invariant contrast effects and unique, order-independent SS within the retained contrast space. Response-free projection calibration maps the fixed reconstruction onto a declared scientific basis and corrects finite-resolution recovery loss. Across 6,480 simulation conditions spanning nine data-generating processes, ROD matched or exceeded polynomial regression in five processes and performed strongest on threshold, sign-interaction, and localized surfaces. For the quadratic-interaction process, mean out-of-sample $R^2$ differed by only $0.0001$, while calibrated coefficient bias remained small across prespecified targets. A Rao-based information adjustment provides dependence-aware sample-size guidance for ROD planning. In a weighted Mincer application, ROD produced the highest out-of-sample $R^2$ point estimate, with substantial interval overlap with polynomial regression, and provided exhaustive SS allocations invariant to term-entry order.
+
+## Metadata
+- **Published**: 2026-07-28T19:46:40Z
+- **Authors**: Lawrence Fulton, Christopher Fulton, Arvind Sharma, Aleksandar Tomic
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.26219v1)
