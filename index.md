@@ -3420,3 +3420,9 @@ tags: ['wiki']
 - [[2026-07-30_MicrosoftisopenlycompetingwithOpenAI_Anthropicmore.md]] : Microsoft is openly competing with OpenAI, Anthropic more than ever
 - [[2026-07-30_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-07-30_MicrosoftconfirmsCopilot_superapp_comingthisyear.md]] : Microsoft confirms Copilot ‘super app’ coming this year
+- [[2026-07-30_GpiozeroFlow.md]] : Gpiozero Flow
+- [[2026-07-30__VPNsarelawfultechnicaltools__saysEUCourtinlandmar.md]] : 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling
+- [[2026-07-30_IntheHuggingFacebreach_OpenAI_shackerwasnoisyandfa.md]] : In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable
+- [[2026-07-30_MetasaysAIismakingiteasiertobuildnewapps_andmorear.md]] : Meta says AI is making it easier to build new apps — and more are coming
+- [[2026-07-30_OktabuysAIsecuritystartupPermiso_sourcesaysforabou.md]] : Okta buys AI security startup Permiso; source says for about $200M
+- [[2026-07-30_Friendre-launchesitsAIpendantwithaspeakerthattalks.md]] : Friend re-launches its AI pendant with a speaker that talks to you, for twice the price
