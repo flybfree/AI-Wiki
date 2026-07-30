@@ -3426,3 +3426,11 @@ tags: ['wiki']
 - [[2026-07-30_MetasaysAIismakingiteasiertobuildnewapps_andmorear.md]] : Meta says AI is making it easier to build new apps — and more are coming
 - [[2026-07-30_OktabuysAIsecuritystartupPermiso_sourcesaysforabou.md]] : Okta buys AI security startup Permiso; source says for about $200M
 - [[2026-07-30_Friendre-launchesitsAIpendantwithaspeakerthattalks.md]] : Friend re-launches its AI pendant with a speaker that talks to you, for twice the price
+- [[2026-07-30_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-07-30_Advancingtheprice-performancefrontierwithGPT-5_6.md]] : Advancing the price-performance frontier with GPT-5.6
+- [[2026-07-30_GooglesaysitfixedmoreChromebugsinJunethanoverthepa.md]] : Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI
+- [[2026-07-30_Friend_thelonelyAIwearable_returnswithanewvoiceand.md]] : Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag
+- [[2026-07-30_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[2026-07-30_ThelossofSituationalAwareness.md]] : The loss of Situational Awareness
+- [[2026-07-30_TimCookhintsatiCloudPlustierforAIpowerusers.md]] : Tim Cook hints at iCloud Plus tier for AI power users
+- [[2026-07-30_InvestorsloveAI_aslongasyou_reacloudhost.md]] : Investors love AI, as long as you’re a cloud host
