@@ -3412,3 +3412,11 @@ tags: ['wiki']
 - [[2026-07-29_HowenablingtwosettingstripledourscoresontheARC-AGI.md]] : How enabling two settings tripled our scores on the ARC-AGI-3 benchmark
 - [[2026-07-29_MicrosoftisopenlycompetingwithOpenAI_Anthropicmore.md]] : Microsoft is openly competing with OpenAI, Anthropic more than ever
 - [[2026-07-29_AI_stopstartupsarebarelypublishingtheirresearch.md]] : AI's top startups are barely publishing their research
+- [[2026-07-30_AI_stopstartupsarebarelypublishingtheirresearch.md]] : AI's top startups are barely publishing their research
+- [[2026-07-30_Inkling_OurOpen-WeightsModel.md]] : Inkling: Our Open-Weights Model
+- [[2026-07-30_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-07-30_HowenablingtwosettingstripledourscoresontheARC-AGI.md]] : How enabling two settings tripled our scores on the ARC-AGI-3 benchmark
+- [[2026-07-30_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[2026-07-30_MicrosoftisopenlycompetingwithOpenAI_Anthropicmore.md]] : Microsoft is openly competing with OpenAI, Anthropic more than ever
+- [[2026-07-30_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-07-30_MicrosoftconfirmsCopilot_superapp_comingthisyear.md]] : Microsoft confirms Copilot ‘super app’ coming this year
