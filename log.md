@@ -3982,3 +3982,4 @@ tags: ['wiki']
 ## [2026-07-31 00:04] ingest | 2026-07-31_IntroducingInkling-Small.md
 ## [2026-07-31 00:04] ingest | 2026-07-31_ScienceOneFramework_Averifiableautonomousresearchf.md
 ## [2026-07-31 00:04] ingest | 2026-07-31_TheAItradenowrunsonborrowedmoney_andthelendersarer.md
+## [2026-07-31 03:03] ingest | 2026-07-31_AdvancingresponsibleAIacrossEurope.md

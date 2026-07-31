@@ -3855,3 +3855,4 @@ tags: ['wiki']
 - [[2026-07-31_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-07-31_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
 - [[2026-07-31_TheAItradenowrunsonborrowedmoney_andthelendersarer.md]] : The AI trade now runs on borrowed money, and the lenders are repricing it
+- [[2026-07-31_AdvancingresponsibleAIacrossEurope.md]] : Advancing responsible AI across Europe
