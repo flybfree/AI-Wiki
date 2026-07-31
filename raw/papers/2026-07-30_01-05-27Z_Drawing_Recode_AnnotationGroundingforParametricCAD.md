@@ -1,0 +1,18 @@
+---
+title: Drawing-Recode: Annotation Grounding for Parametric CAD Code Generation from Raster 2D CAD Drawings
+published: 2026-07-30T01:05:27Z
+authors: Mingi Kim, Yongjun Kim, Hyungki Kim
+url: http://arxiv.org/abs/2607.27558v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Drawing-Recode: Annotation Grounding for Parametric CAD Code Generation from Raster 2D CAD Drawings
+
+## Abstract
+Recovering Parametric CAD sequences from raster-format 2D Computer-Aided Design (CAD) drawings accumulated prior to digital transformation is important for part reproduction and manufacturing process automation. However, existing studies either process only vector drawings or are limited to specific domains, and fail to explicitly connect dimensional annotations to geometric information, limiting their use of dimensional information for 3D Parametric CAD sequences recovery. We propose Drawing-Recode, a framework that generates Parametric CAD sequences as CAD code from raster 2D CAD drawings. Drawing-Recode extracts geometric features via an image encoder and recognizes annotations through a separate text recognition module, then explicitly grounds annotations to geometric information using cross-attention and our proposed Annotation Grounding Loss (AGL). The resulting features are fed into a Large Language Model (LLM) to generate CAD code in the Structured Parametric CAD Code (SPCC) format. Experiments show that Drawing-Recode outperforms existing baselines and remains robust on scanned drawings resembling industrial conditions. We expect Drawing-Recode contributes to digitizing raster 2D CAD drawings in industrial settings and to part reproduction and manufacturing automation.
+
+## Metadata
+- **Published**: 2026-07-30T01:05:27Z
+- **Authors**: Mingi Kim, Yongjun Kim, Hyungki Kim
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.27558v1)

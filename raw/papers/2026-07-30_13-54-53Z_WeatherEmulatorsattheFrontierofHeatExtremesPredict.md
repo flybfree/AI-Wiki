@@ -1,0 +1,18 @@
+---
+title: Weather Emulators at the Frontier of Heat Extremes Predictability
+published: 2026-07-30T13:54:53Z
+authors: Cas Decancq, Thomas Mortier, Jessica Keune, Diego G. Miralles
+url: http://arxiv.org/abs/2607.28220v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Weather Emulators at the Frontier of Heat Extremes Predictability
+
+## Abstract
+Atmospheric predictability declines rapidly beyond the next ten days, such that forecasts at longer lead times primarily convey large-scale trends rather than specific states. Yet in a warming world, improving early warnings of extreme heat is an increasingly critical challenge. Here we evaluate six state-of-the-art deep learning weather emulators - Pangu-Weather, FuXi, ArchesWeather, AIFS, GraphCast and Aurora - alongside leading dynamical systems and statistical baselines in forecasting global near-surface temperature and extreme heat at lead times of 10-15 days. We find that several emulators rival or even surpass physics-based forecasts in deterministic temperature skill, but do so at the cost of reduced spectral fidelity, in a process widely known as blurring. While all models show some degree of predictive skill for extreme heat, most emulators under-represent peak intensities, and IFS recall is greater than that of any of the emulators. These results highlight both the emerging potential of AI to enhance extended range temperature prediction, and the remaining challenges in delivering reliable, actionable early warnings in a changing climate.
+
+## Metadata
+- **Published**: 2026-07-30T13:54:53Z
+- **Authors**: Cas Decancq, Thomas Mortier, Jessica Keune, Diego G. Miralles
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.28220v1)

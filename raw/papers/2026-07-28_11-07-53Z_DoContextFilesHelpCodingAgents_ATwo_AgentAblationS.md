@@ -1,0 +1,18 @@
+---
+title: Do Context Files Help Coding Agents? A Two-Agent Ablation Study on Real Repositories
+published: 2026-07-28T11:07:53Z
+authors: Prakhar Khatri
+url: http://arxiv.org/abs/2607.27250v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Do Context Files Help Coding Agents? A Two-Agent Ablation Study on Real Repositories
+
+## Abstract
+Persistent context files (AGENTS.md, CLAUDE.md) are standard practice for guiding AI coding agents, yet evidence for their effectiveness is contradictory. We present a controlled ablation of context-injection strategy across two frontier agents (Claude Code and Codex), 17 real tasks from 3 repositories (15 shared + 2 Codex-only), and 288 evaluated runs with gold-test evaluation. Context strategy does not measurably move correctness on either agent (bounded to <=10-15pp via equivalence testing). A failure-mode triage reveals why: agents fail on implementation skill---feature design, pattern selection, exact wiring---not missing repository knowledge that a context file could supply; a manipulation probe confirms the real AGENTS.md never converts a near-miss to a pass on either agent. We further show that borderline task difficulty is agent-specific (Spearman rho=0.75), offering a candidate explanation for prior contradictions: single-agent studies draw tasks from different agents' informative bands. We release all code, data, and analysis.
+
+## Metadata
+- **Published**: 2026-07-28T11:07:53Z
+- **Authors**: Prakhar Khatri
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.27250v1)

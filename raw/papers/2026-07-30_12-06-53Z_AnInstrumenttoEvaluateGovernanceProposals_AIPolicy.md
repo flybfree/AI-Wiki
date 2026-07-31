@@ -1,0 +1,18 @@
+---
+title: An Instrument to Evaluate Governance Proposals: AI Policy Analysis at Scale
+published: 2026-07-30T12:06:53Z
+authors: Paulo Carvao, Claudio Mayrink Verdun, Isabel Adler, Jeffrey Zhou
+url: http://arxiv.org/abs/2607.28094v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# An Instrument to Evaluate Governance Proposals: AI Policy Analysis at Scale
+
+## Abstract
+This paper introduces a policy analysis framework for systematic, transparent assessment of AI governance proposals in an evolving and contested regulatory landscape. AI policy debates often collapse into binary positions that obscure underlying tradeoffs and normative assumptions. The framework structures policy analysis around multiple policy attributes, allowing users to surface priorities and tensions without prescribing outcomes. We use a mixed-methods approach that integrates qualitative insights from subject matter experts with computational text analysis to inform the design of policy attribute rubrics. This quantifies the relative emphasis of different policy objectives and presents them through comparative visualizations that support interpretability and cross-policy comparison. The paper also examines the use of commercial LLMs for rubric-based policy analysis, benchmarking their outputs against a domain-trained rubric-calibrated model with explicitly defined analytical assumptions. Rather than assessing policy effectiveness or desirability, the framework focuses on relevance and alignment across attributes. By making analytical assumptions explicit, including attribute selection, rubric construction, and weighting schemes, the framework enables users to evaluate whether its embedded priorities align with the users' own normative commitments. The approach is jurisdiction-agnostic and intended to support policymakers, analysts, and researchers navigating complex AI governance environments.   Contributions: (1) multidimensional policy assessment through empirically grounded rubrics that surface tradeoffs rather than resolving them; (2) a transparent hybrid methodology combining feedback from subject-matter experts with computational validation; and (3) use of domain-trained rubric-calibrated models as a benchmark for comparing different general-purpose large language models.
+
+## Metadata
+- **Published**: 2026-07-30T12:06:53Z
+- **Authors**: Paulo Carvao, Claudio Mayrink Verdun, Isabel Adler, Jeffrey Zhou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.28094v1)

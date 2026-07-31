@@ -1,0 +1,18 @@
+---
+title: Search Strategies for Optimal Classification and Regression Trees
+published: 2026-07-30T13:08:21Z
+authors: Jacobus G. M. van der Linden, Mim van den Bos, Emir Demirović
+url: http://arxiv.org/abs/2607.28170v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Search Strategies for Optimal Classification and Regression Trees
+
+## Abstract
+Optimal decision trees (ODTs) are compact, interpretable machine learning models that globally optimize a given objective, but their scalability remains challenging. While recent work has proposed a variety of search strategies to improve scalability, the precise contribution of each strategy remains unclear. To address this gap, we introduce a general algorithmic framework for ODTs that instantiates previously used search strategies and enables the definition of new ones. This provides a common lens through which to understand and compare different strategies, which we use to empirically investigate the effect of 18 search strategies. Compared to the state of the art, the best strategy in our evaluation achieves significantly better anytime performance for classification, and improves runtime by more than an order of magnitude for regression.
+
+## Metadata
+- **Published**: 2026-07-30T13:08:21Z
+- **Authors**: Jacobus G. M. van der Linden, Mim van den Bos, Emir Demirović
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.28170v1)

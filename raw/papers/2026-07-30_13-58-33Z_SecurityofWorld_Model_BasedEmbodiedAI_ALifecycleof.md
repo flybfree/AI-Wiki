@@ -1,0 +1,18 @@
+---
+title: Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation
+published: 2026-07-30T13:58:33Z
+authors: Fazhong Liu, Zhuoyan Chen, Haozhen Tan, Yan Meng, Guoxing Chen, Haojin Zhu
+url: http://arxiv.org/abs/2607.28226v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Security of World-Model-Based Embodied AI: A Lifecycle of Threats, Defenses, and Evaluation
+
+## Abstract
+World models give embodied AI a predictive core: they compress observations into states, simulate action-conditioned futures, and enable planning beyond reactive control. This predictive layer, however, opens a new security boundary-compromise can propagate from data, sensors, prompts, or feedback into physical action. Rather than treating world models as an isolated component, this survey traces threats across their entire lifecycle-from data construction and representation learning, through state grounding and imagination, to trajectory evaluation, execution, and long-term adaptation via memory and tools. We show that familiar attack families: poisoning, backdoors, adversarial examples, sensor spoofing, prompt injection, trajectory manipulation, and supply-chain attacks take on distinct meanings when they corrupt world states, learned dynamics, affordance estimates, or safety costs. We also highlight a duality: world models can serve as runtime safety shields, yet when compromised or over-trusted they generate predictive safety illusions. The survey offers a lifecycle taxonomy, maps existing attacks to world-model security properties, outlines evaluation protocols for safety failures, and structures defenses across provenance, robust grounding, uncertainty-aware prediction, trajectory gating, feedback auditing, and deployment assurance.
+
+## Metadata
+- **Published**: 2026-07-30T13:58:33Z
+- **Authors**: Fazhong Liu, Zhuoyan Chen, Haozhen Tan, Yan Meng, Guoxing Chen, Haojin Zhu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.28226v1)

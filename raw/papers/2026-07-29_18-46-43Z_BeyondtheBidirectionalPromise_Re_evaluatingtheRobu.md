@@ -1,0 +1,18 @@
+---
+title: Beyond the Bidirectional Promise: Re-evaluating the Robustness of Diffusion Language Models
+published: 2026-07-29T18:46:43Z
+authors: Saurabh Yadav, Badri Narayana Patro, Vijay Srinivas Agneeswaran
+url: http://arxiv.org/abs/2607.27386v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond the Bidirectional Promise: Re-evaluating the Robustness of Diffusion Language Models
+
+## Abstract
+Diffusion Language Models (DLMs) offer a compelling alternative to autoregressive (AR) generation by enabling bidirectional context and iterative refinement. However, their reliability under natural input noise and adversarial attacks remains under-explored. To address this, we systematically evaluate DLM robustness and calibration against AR baselines, using two parameter-matched pairs (LLaDA-8B vs. LLaMA-3-8B and Dream-7B vs. Qwen2.5-7B) across 32 natural perturbation conditions, adversarial gradient probes, and mechanistic hidden-state analyses. This paired design effectively isolates architecture-intrinsic properties from weight-dependent behaviors. We find a nuanced robustness profile: while highly stochastic DLM loss landscapes naturally resist gradient-based adversarial suffixes, they provide no guaranteed defense against natural noise, proving that everyday robustness is weight-dependent rather than inherently architectural. Furthermore, DLMs exhibit systematic overconfidence, presenting a practical deployment hazard. Most crucially, mechanistic probing reveals that all models perfectly encode input corruption, isolating behavioral fragility entirely to a decoder routing failure. Consistent with this diagnosis, we show that surface-level prompt patching fails to improve over noisy baselines. Ultimately, DLM robustness cannot be patched on; it must be fundamentally integrated into the iterative decoding loop.
+
+## Metadata
+- **Published**: 2026-07-29T18:46:43Z
+- **Authors**: Saurabh Yadav, Badri Narayana Patro, Vijay Srinivas Agneeswaran
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.27386v1)
