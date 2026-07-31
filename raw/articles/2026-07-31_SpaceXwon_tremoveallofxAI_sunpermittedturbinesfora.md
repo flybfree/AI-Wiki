@@ -1,0 +1,94 @@
+---
+title: SpaceX won’t remove all of xAI’s unpermitted turbines for another year
+date: 2026-07-31
+url: https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/
+type: article-full-text
+tags: [news, ai-research, full-text]
+source_url: https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/
+source_feed: TechCrunch AI
+ai_relevance: include
+ai_topic: model-release
+ai_reason: meets AI relevance threshold
+scraped: 2026-07-31 11:02
+---
+
+# SpaceX won’t remove all of xAI’s unpermitted turbines for another year
+
+## Full Article
+
+SpaceX
+said
+on Thursday that it will remove the unpermitted turbines powering its xAI data centers near Memphis as it transitions to a permanent, 1.2 gigawatt natural gas power plant.
+The turbines won’t be completely removed until July 2027, though. SpaceX said that it’s currently operating 69 gas turbines to power the Colossus data centers, of which many have been operating for months. The NAACP and Southern Environmental Law Center have
+sued xAI
+over the use of unpermitted turbines. SpaceX
+acquired xAI
+in February.
+In its IPO filing, SpaceX said it plans to buy
+$2.8 billion worth of gas turbines
+for its data centers over the next three years.
+SpaceX
+claims
+that it is allowed to operate the existing turbines without permits because they remain on the trailers they were shipped on. But federal regulations say that the turbines xAI has been using, regardless of what they sit on, require permits because of their size and how they’re being used.
+The turbines are currently located south of Memphis in Mississippi, just over the border with Tennessee. The region is among the most polluted in the U.S., and xAI has been operating gas turbines that have the potential to emit more than 2,000 tons of smog-forming NO
+x
+per year.
+Last month, the Department of Justice
+sided with SpaceX
+in the NAACP’s lawsuit, saying the unpermitted turbines were a matter of “national, economic, and energy security.”
+The new power plant that SpaceX is building will consist of 41 gas turbines ranging in size from 16.48 megawatts to 50 megawatts, according to
+permit documents
+issued by the state of Mississippi. They appear to be different from those currently in use, though TechCrunch could not verify the specific models of the 69 existing turbines.
+Earlier this year, Elon Musk bought APR Energy, a company that specializes in temporary natural gas power. Based on an
+archive of the company’s site
+before it was taken down, the turbines in the company’s fleet also appear to be different from those cited in permits for the new, permanent power plant.
+Given that APR Energy’s turbines aren’t likely to be part of the new Colossus power plant, the new turbine fleet is likely intended for another, unannounced project.
+Topics
+AI
+,
+air pollution
+,
+Climate
+,
+data centers
+,
+SpaceX
+,
+xAI
+When you purchase through links in our articles,
+we may earn a small commission
+. This doesn’t affect our editorial independence.
+[Tim De Chant]
+Tim De Chant
+Senior Reporter, Climate
+Tim De Chant is a senior climate reporter at TechCrunch. He has written for a wide range of publications, including Wired magazine, the Chicago Tribune, Ars Technica, The Wire China, and NOVA Next, where he was founding editor.
+De Chant is also a lecturer in MIT’s Graduate Program in Science Writing, and he was awarded a Knight Science Journalism Fellowship at MIT in 2018, during which time he studied climate technologies and explored new business models for journalism. He received his PhD in environmental science, policy, and management from the University of California, Berkeley, and his BA degree in environmental studies, English, and biology from St. Olaf College.
+You can contact or verify outreach from Tim by emailing
+tim.dechant@techcrunch.com
+.
+View Bio
+[Event Logo]
+October 13 – 15
+San Francisco
+Scale faster. Grow your portfolio. Gain practical expertise. No matter your goal, Disrupt can empower you.
+Save up to $330 toda
+y!
+REGISTER NOW
+Most Popular
+Claude Opus 5 became downright ruthless when tasked with running a vending machine
+Julie Bort
+DoorDash is building its own drone delivery business
+Kirsten Korosec
+Sam Altman is ready to decelerate
+Tim Fernholz
+PSA: Your Claude shared chats and Artifacts may have ended up on Google
+Lorenzo Franceschi-Bicchierai
+Kalshi demands Netflix take down trailer for ‘Prediction Games’ documentary
+Anthony Ha
+Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech
+Amanda Silberling
+SpaceX launches new V3 Starlink satellites but suffers another booster failure
+Sean O'Kane
+
+## Metadata
+- **Source**: [Original Article](https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/)

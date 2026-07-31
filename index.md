@@ -3856,3 +3856,12 @@ tags: ['wiki']
 - [[2026-07-31_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
 - [[2026-07-31_TheAItradenowrunsonborrowedmoney_andthelendersarer.md]] : The AI trade now runs on borrowed money, and the lenders are repricing it
 - [[2026-07-31_AdvancingresponsibleAIacrossEurope.md]] : Advancing responsible AI across Europe
+- [[2026-07-31_TheEndofanEra.md]] : The End of an Era
+- [[2026-07-31_DeepSeekV4Flash0731Intelligence_PerformanceandPric.md]] : DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
+- [[2026-07-31_AnthropicsaysClaudeaccidentallyhackedrealcompanies.md]] : Anthropic says Claude accidentally hacked real companies too
+- [[2026-07-31_Smallest_airaises_13Mtobuildultra-fastvoiceAIthats.md]] : Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human
+- [[2026-07-31_It_stimetopanicaboutAIsafety.md]] : It’s time to panic about AI safety
+- [[2026-07-31_SpaceXwon_tremoveallofxAI_sunpermittedturbinesfora.md]] : SpaceX won’t remove all of xAI’s unpermitted turbines for another year
+- [[2026-07-31_Elevators.md]] : Elevators
+- [[2026-07-31_SnapchatnolongerrewardsfullyAI-generatedSpotlightc.md]] : Snapchat no longer rewards fully AI-generated Spotlight content
+- [[2026-07-31_DisruptingaCriminalScamOperation.md]] : Disrupting a Criminal Scam Operation
