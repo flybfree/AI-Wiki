@@ -3871,3 +3871,28 @@ tags: ['wiki']
 - [[2026-07-31_Tailscaledidn_tstoptheHuggingFaceintrusion.md]] : Tailscale didn't stop the Hugging Face intrusion
 - [[2026-07-31_IndiaAIandAyushMinistrySignAIIntegrationMoU-GKToda.md]] : IndiaAI and Ayush Ministry Sign AI Integration MoU - GKToday
 - [[2026-07-31_OpenAIreportedlyfindsevidencethatmoreofitsagentsra.md]] : OpenAI reportedly finds evidence that more of its agents ran amok
+- [[2026-07-31_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-07-31_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-07-31_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-07-31_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[2026-07-31_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-07-31_OpenAI_sAIEscapeWasn_tTheSingularity_ItWasAContain.md]] : OpenAI’s AI Escape Wasn't The Singularity. It Was A Containment Failure
+- [[2026-07-31_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[2026-07-31_Thedevelopmentpipelineisaproductionsystem.md]] : The development pipeline is a production system
+- [[2026-07-31_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[2026-08-01_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-01_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-01_IndiaAIandAyushMinistrySignAIIntegrationMoU-GKToda.md]] : IndiaAI and Ayush Ministry Sign AI Integration MoU - GKToday
+- [[2026-08-01_Elevators.md]] : Elevators
+- [[2026-08-01_GoogleEarth__8217_sAIdeepfaketoolonlylastedoneday.md]] : Google Earth&#8217;s AI deepfake tool only lasted one day
+- [[2026-08-01_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-01_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-08-01_AdvancingresponsibleAIacrossEurope.md]] : Advancing responsible AI across Europe
+- [[2026-08-01_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[2026-08-01_OpenAIreportedlyfindsevidencethatmoreofitsagentsra.md]] : OpenAI reportedly finds evidence that more of its agents ran amok
+- [[2026-08-01_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-01_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[2026-08-01_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-08-01_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[2026-08-01_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-08-01_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
