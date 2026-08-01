@@ -3897,3 +3897,8 @@ tags: ['wiki']
 - [[2026-08-01_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
 - [[2026-08-01_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
 - [[2026-08-01_Tenadvancesinmathematicsandtheoreticalcomputerscie.md]] : Ten advances in mathematics and theoretical computer science
+- [[2026-08-01_RipGrepmuslbinariesoccasionallysegfaultduringvery-.md]] : RipGrep musl binaries occasionally segfault during very-large searches
+- [[2026-08-01_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[2026-08-01_ASurveillanceTreatyinDisguise_CanadaSignsUNCybercr.md]] : A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention
+- [[2026-08-01_TheArtof64-bitAssembly.md]] : The Art of 64-bit Assembly
+- [[2026-08-01_CursorremovedcostinformationfromtheusagepageandCSV.md]] : Cursor removed cost information from the usage page and CSV export
