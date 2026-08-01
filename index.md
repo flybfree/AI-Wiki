@@ -3896,3 +3896,4 @@ tags: ['wiki']
 - [[2026-08-01_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
 - [[2026-08-01_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
 - [[2026-08-01_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[2026-08-01_Tenadvancesinmathematicsandtheoreticalcomputerscie.md]] : Ten advances in mathematics and theoretical computer science
