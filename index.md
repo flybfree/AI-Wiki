@@ -3902,3 +3902,8 @@ tags: ['wiki']
 - [[2026-08-01_ASurveillanceTreatyinDisguise_CanadaSignsUNCybercr.md]] : A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention
 - [[2026-08-01_TheArtof64-bitAssembly.md]] : The Art of 64-bit Assembly
 - [[2026-08-01_CursorremovedcostinformationfromtheusagepageandCSV.md]] : Cursor removed cost information from the usage page and CSV export
+- [[2026-08-01_I_RSS_AdirectoryofpeoplewholoveRSS.md]] : I ♥ RSS – A directory of people who love RSS
+- [[2026-08-01_PostmortemforKernelSoundnessBug_14576.md]] : Postmortem for Kernel Soundness Bug #14576
+- [[2026-08-01_GoogleNewsisjustForrestGump_sshrimpboatnow.md]] : Google News is just Forrest Gump's shrimp boat now
+- [[2026-08-01_TheSiliconValleyFounderMeatGrinder.md]] : The Silicon Valley Founder Meat Grinder
+- [[2026-08-01_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth.md]] : Ministry of Ayush signs MoU with IndiaAI to harness AI for the future of traditional medicine
