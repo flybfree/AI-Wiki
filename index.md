@@ -3924,3 +3924,5 @@ tags: ['wiki']
 - [[2026-08-02_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-02_RunningKimiK3onMI355XatBetterPerformanceperDollarT.md]] : Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
 - [[2026-08-02_ShowHN_Syncular_offline-firstSQLsyncwithTypeScript.md]] : Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
+- [[2026-08-02_IstheIndustrialRevolutionagoodprecedentforexplosiv.md]] : Is the Industrial Revolution a good precedent for explosive growth today?
+- [[2026-08-02_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware

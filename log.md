@@ -4051,3 +4051,5 @@ tags: ['wiki']
 ## [2026-08-02 00:06] ingest | 2026-08-02_IntroducingClaudeOpus5.md
 ## [2026-08-02 01:01] ingest | 2026-08-02_RunningKimiK3onMI355XatBetterPerformanceperDollarT.md
 ## [2026-08-02 06:01] ingest | 2026-08-02_ShowHN_Syncular_offline-firstSQLsyncwithTypeScript.md
+## [2026-08-02 07:02] ingest | 2026-08-02_IstheIndustrialRevolutionagoodprecedentforexplosiv.md
+## [2026-08-02 10:36] ingest | 2026-08-02_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md
