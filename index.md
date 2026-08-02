@@ -3907,3 +3907,18 @@ tags: ['wiki']
 - [[2026-08-01_GoogleNewsisjustForrestGump_sshrimpboatnow.md]] : Google News is just Forrest Gump's shrimp boat now
 - [[2026-08-01_TheSiliconValleyFounderMeatGrinder.md]] : The Silicon Valley Founder Meat Grinder
 - [[2026-08-01_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth.md]] : Ministry of Ayush signs MoU with IndiaAI to harness AI for the future of traditional medicine
+- [[2026-08-01_AIfinancialadviceissurprisinglygoodifyouasktherigh.md]] : AI financial advice is surprisingly good if you ask the right questions
+- [[2026-08-01_Go1_27InteractiveTour.md]] : Go 1.27 Interactive Tour
+- [[2026-08-02_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-02_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[2026-08-02_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[2026-08-02_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth.md]] : Ministry of Ayush signs MoU with IndiaAI to harness AI for the future of traditional medicine
+- [[2026-08-02_Go1_27InteractiveTour.md]] : Go 1.27 Interactive Tour
+- [[2026-08-02_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[2026-08-02_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-02_Tenadvancesinmathematicsandtheoreticalcomputerscie.md]] : Ten advances in mathematics and theoretical computer science
+- [[2026-08-02_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-08-02_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-08-02_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-08-02_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
