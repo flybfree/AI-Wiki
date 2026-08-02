@@ -4053,3 +4053,7 @@ tags: ['wiki']
 ## [2026-08-02 06:01] ingest | 2026-08-02_ShowHN_Syncular_offline-firstSQLsyncwithTypeScript.md
 ## [2026-08-02 07:02] ingest | 2026-08-02_IstheIndustrialRevolutionagoodprecedentforexplosiv.md
 ## [2026-08-02 10:36] ingest | 2026-08-02_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md
+## [2026-08-02 14:01] ingest | 2026-08-02_ShowHN_Kakehashi_ExperimentaluserspacetorunmacOSbi.md
+## [2026-08-02 15:02] ingest | 2026-08-02_Fender_sCEOseemstothinkyourbandmatesarejustanalogA.md
+## [2026-08-02 16:01] ingest | 2026-08-02_SamAltmanandAI_sdeceldebate.md
+## [2026-08-02 18:01] ingest | 2026-08-02_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md

@@ -3926,3 +3926,7 @@ tags: ['wiki']
 - [[2026-08-02_ShowHN_Syncular_offline-firstSQLsyncwithTypeScript.md]] : Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
 - [[2026-08-02_IstheIndustrialRevolutionagoodprecedentforexplosiv.md]] : Is the Industrial Revolution a good precedent for explosive growth today?
 - [[2026-08-02_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[2026-08-02_ShowHN_Kakehashi_ExperimentaluserspacetorunmacOSbi.md]] : Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
+- [[2026-08-02_Fender_sCEOseemstothinkyourbandmatesarejustanalogA.md]] : Fender’s CEO seems to think your bandmates are just analog AI
+- [[2026-08-02_SamAltmanandAI_sdeceldebate.md]] : Sam Altman and AI’s decel debate
+- [[2026-08-02_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
