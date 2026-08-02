@@ -3922,3 +3922,5 @@ tags: ['wiki']
 - [[2026-08-02_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
 - [[2026-08-02_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-02_RunningKimiK3onMI355XatBetterPerformanceperDollarT.md]] : Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
+- [[2026-08-02_ShowHN_Syncular_offline-firstSQLsyncwithTypeScript.md]] : Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores

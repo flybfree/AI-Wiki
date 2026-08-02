@@ -4049,3 +4049,5 @@ tags: ['wiki']
 ## [2026-08-02 00:06] ingest | 2026-08-02_IntroducingInkling-Small.md
 ## [2026-08-02 00:06] ingest | 2026-08-02_OpenAINews_OpenAI.md
 ## [2026-08-02 00:06] ingest | 2026-08-02_IntroducingClaudeOpus5.md
+## [2026-08-02 01:01] ingest | 2026-08-02_RunningKimiK3onMI355XatBetterPerformanceperDollarT.md
+## [2026-08-02 06:01] ingest | 2026-08-02_ShowHN_Syncular_offline-firstSQLsyncwithTypeScript.md
