@@ -4302,3 +4302,7 @@ tags: ['wiki']
 ## [2026-08-03 02:01] ingest | 2026-08-03_Don_tbeameatproxy.md
 ## [2026-08-03 06:01] ingest | 2026-08-03_AMarcBenioff-backedstartupthinksAIcansolvetheAIdep.md
 ## [2026-08-03 06:01] ingest | 2026-08-03_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md
+## [2026-08-03 07:02] ingest | 2026-08-03_China__8217_sAlibabatakesanotherswipeatAmerica_sAI.md
+## [2026-08-03 07:02] ingest | 2026-08-03_CriticalCVEissuedforhallucinatedSQLitevulnerabilit.md
+## [2026-08-03 08:01] ingest | 2026-08-03_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md
+## [2026-08-03 12:00] ingest | 2026-08-03_Congress_sfavoriteAItool_ChatGPT.md

@@ -4175,3 +4175,7 @@ tags: ['wiki']
 - [[2026-08-03_Don_tbeameatproxy.md]] : Don't be a meat proxy
 - [[2026-08-03_AMarcBenioff-backedstartupthinksAIcansolvetheAIdep.md]] : A Marc Benioff-backed startup thinks AI can solve the AI deployment problem
 - [[2026-08-03_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
+- [[2026-08-03_China__8217_sAlibabatakesanotherswipeatAmerica_sAI.md]] : China&#8217;s Alibaba takes another swipe at America’s AI supremacy
+- [[2026-08-03_CriticalCVEissuedforhallucinatedSQLitevulnerabilit.md]] : Critical CVE issued for hallucinated SQLite vulnerability
+- [[2026-08-03_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[2026-08-03_Congress_sfavoriteAItool_ChatGPT.md]] : Congress’s favorite AI tool? ChatGPT
