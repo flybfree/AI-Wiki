@@ -1,0 +1,18 @@
+---
+title: PiDDM: Physics-Informed Differentiable Degradation Modeling for Lithium-Ion Battery State-of-Health Prediction
+published: 2026-07-31T07:19:26Z
+authors: Zeping Chen, Ruda Jian, Sachin Sigdel, Guoping Xiong, Jian-Xun Wang, Tengfei Luo
+url: http://arxiv.org/abs/2607.29095v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# PiDDM: Physics-Informed Differentiable Degradation Modeling for Lithium-Ion Battery State-of-Health Prediction
+
+## Abstract
+Accurate prediction of lithium-ion battery state of health (SOH) is essential for reliable energy storage operation. However, purely data-driven models may generalize poorly across cycling protocols and produce physically implausible behavior during long-term extrapolation. We developed a physics-informed differentiable degradation modeling framework (PiDDM) for battery SOH prediction. PiDDM incorporates empirical Arrhenius degradation kinetics associated with solid electrolyte interphase growth and loss of lithium inventory into the training objective, encouraging physically consistent capacity fade under diverse operating conditions. The framework was evaluated using a public dataset of 55 batteries cycled under six operating protocols. PiDDM achieved the lowest average prediction error among the evaluated models and substantially reduced mean squared error relative to a multilayer perceptron and a baseline physics-informed neural network. For extrapolation, the models were trained on the first 90% of each battery's cycle life and evaluated on the unseen final 10%. PiDDM captured accelerated end-of-life degradation while avoiding the nonphysical capacity regeneration produced by the baseline models. These results show that incorporating degradation physics into neural network training improves predictive accuracy and physical consistency, providing a promising approach for practical battery health monitoring.
+
+## Metadata
+- **Published**: 2026-07-31T07:19:26Z
+- **Authors**: Zeping Chen, Ruda Jian, Sachin Sigdel, Guoping Xiong, Jian-Xun Wang, Tengfei Luo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.29095v1)

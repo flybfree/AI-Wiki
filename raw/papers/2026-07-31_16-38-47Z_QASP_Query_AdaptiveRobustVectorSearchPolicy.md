@@ -1,0 +1,18 @@
+---
+title: QASP: Query-Adaptive Robust Vector Search Policy
+published: 2026-07-31T16:38:47Z
+authors: Hakan Ferhatosmanoglu, Kushal Kumar, Tal Wagner, Andy Warfield
+url: http://arxiv.org/abs/2607.29606v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# QASP: Query-Adaptive Robust Vector Search Policy
+
+## Abstract
+A fundamental challenge of vector search is achieving consistently high recall while minimizing computational costs. Fixed search parameters cause significant performance variance across queries, and conventional evaluation on average recall masks these per-query disparities. We introduce QASP (Query-Adaptive robust vector Search Policy), which predicts the complete recall progression curve per query via a single upfront supervised regression, from which a search policy is derived for any recall target; this avoids iterative model invocations during search or separate predictors per target. By predicting normalized recall values with scale-invariant features and pre-search inference, QASP generalizes across recall targets, index configurations, and datasets. Its fine-grained progress predictions further enable a lightweight reactive complement that adjusts search depth based on predicted-versus-observed deviations without additional inference. We prove that QASP requires a finite training sample independent of dataset size and dimensionality, that its loss exceeds the irreducible lower bound of any fixed policy by a vanishing margin, and that its data access savings over fixed probing grow exponentially in intrinsic dimensionality. Experimentally, QASP achieves significantly lower recall variance and deviation from target, higher query satisfaction rate, and scales to large data and hierarchical indices without retraining, achieving 99% recall with 80% less data access.
+
+## Metadata
+- **Published**: 2026-07-31T16:38:47Z
+- **Authors**: Hakan Ferhatosmanoglu, Kushal Kumar, Tal Wagner, Andy Warfield
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.29606v1)

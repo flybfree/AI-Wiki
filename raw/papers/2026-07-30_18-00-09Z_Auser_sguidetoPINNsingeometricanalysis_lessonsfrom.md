@@ -1,0 +1,18 @@
+---
+title: A user's guide to PINNs in geometric analysis: lessons from the asymptotic Plateau problem
+published: 2026-07-30T18:00:09Z
+authors: Tancredi Schettini Gherardini
+url: http://arxiv.org/abs/2607.28733v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# A user's guide to PINNs in geometric analysis: lessons from the asymptotic Plateau problem
+
+## Abstract
+This proceedings contribution elaborates on the findings of arXiv:2605.26234v2: a joint work with Marco Usula, where we introduced a machine learning framework based on physics-informed neural networks (PINNs), aimed at constructing near-minimal discs in hyperbolic space asymptotic to a prescribed knot at infinity. We used this method to provide numerical evidence for a conjecture of Joel Fine relating minimal surfaces in $H^{4}$ to the coefficients of the HOMFLY polynomial. This is a methodological companion to that paper, based on a presentation given at the 2026 edition of the workshop "DANGER: Data, Numbers, and Geometry". Rather than reviewing the results, which are presented extensively in the preprint above, we discuss the two aspects of the framework which, in our experience, determined whether the method worked at all. First, the geometry of the problem must be encoded in the architecture of the model, so that the boundary condition and asymptotics at infinity hold exactly for every value of the learnable parameters - leaving us with a single-component loss function; second, the evaluation of the PDE residual must be engineered with care to ensure that complete trainings can be performed in a reasonable time. On the latter point, we describe two implementation techniques which are not spelled out in detail in the original paper: replacing nested reverse-mode automatic differentiation with the forward propagation of second-order jets, and compiling the computational graph of the residual once instead of rebuilding it at every optimisation step. Together, on identical hardware, these two changes reduce the cost of a training step by a factor of roughly forty to fifty. We hope these methodological discussions can be useful for researchers in differential geometry and geometric analysis who wish to deploy PINNs on problems of their own.
+
+## Metadata
+- **Published**: 2026-07-30T18:00:09Z
+- **Authors**: Tancredi Schettini Gherardini
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.28733v1)

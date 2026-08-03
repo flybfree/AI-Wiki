@@ -228,6 +228,227 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-31_06-58-02Z_FasterbutDifferent_DiagnosingandControllingContent.md]] : Faster but Different: Diagnosing and Controlling Content Drift in Accelerated Multimodal Diffusion Language Models
+- [[2026-07-30_20-16-03Z_RollingWithResistance_Preference_OptimizedLLMCouns.md]] : Rolling With Resistance: Preference-Optimized LLM Counselors Can Trade Goal Persistence for Relational Attunement in Motivational Interviewing
+- [[2026-07-30_18-00-09Z_Auser_sguidetoPINNsingeometricanalysis_lessonsfrom.md]] : A user's guide to PINNs in geometric analysis: lessons from the asymptotic Plateau problem
+- [[2026-07-31_09-30-33Z_KnowingWhentoQuit_DiagnosingandTrainingLLMstoAbort.md]] : Knowing When to Quit: Diagnosing and Training LLMs to Abort Futile Reasoning
+- [[2026-07-31_07-06-22Z_CanZero_ShotLLMsPredictChildMalnutrition_AFairness.md]] : Can Zero-Shot LLMs Predict Child Malnutrition? A Fairness and Temporal Robustness Study
+- [[2026-07-31_05-49-27Z_FromInlineNotestoCollectedCommentaries_TowardConte.md]] : From Inline Notes to Collected Commentaries: Toward Context-Preserving Organization of Exegetical Knowledge in Classical Chinese Texts
+- [[2026-07-31_17-18-57Z_Evolvinglanguagecompositionalityinafrequency_struc.md]] : Evolving language compositionality in a frequency-structured meaning space
+- [[2026-07-30_10-37-01Z_FlowMatchingwithMissingData.md]] : Flow Matching with Missing Data
+- [[2026-07-31_05-11-04Z_TransMem_TransformingHiddenStatesintoMemoryforLarg.md]] : TransMem: Transforming Hidden States into Memory for Large Language Models
+- [[2026-07-30_18-17-31Z_DragonCrawl_AGenerative_Intent_BasedFrameworkforSc.md]] : DragonCrawl: A Generative, Intent-Based Framework for Scalable Mobile End-to-End Testing
+- [[2026-07-31_13-57-21Z_KnowIt_ActonIt_InvestigatingMemoryUtilizationinLLM.md]] : Know It, Act on It: Investigating Memory Utilization in LLM Personalization
+- [[2026-07-31_16-09-23Z_SycophancyUnderminesEpistemicVigilanceinCooperativ.md]] : Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks
+- [[2026-07-31_13-22-11Z_BridgingtheQuestion_AnswerGapinRetrieval_Augmented.md]] : Bridging the Question-Answer Gap in Retrieval-Augmented Generation: Hypothetical Prompt Embeddings
+- [[2026-07-31_08-47-50Z_AuthorshipVerificationofTranscribedGerman_Language.md]] : Authorship Verification of Transcribed German-Language Videos
+- [[2026-07-29_10-25-23Z_ViSAGE_ConstructingSelf_CorrectingMemoriesforLong_.md]] : ViSAGE: Constructing Self-Correcting Memories for Long-Form Video Understanding
+- [[2026-07-31_00-05-36Z_Token_LevelDiagnosisofSycophancyinLLMswithAttribut.md]] : Token-Level Diagnosis of Sycophancy in LLMs with Attribution-Guided Steering
+- [[2026-07-31_06-32-15Z_Tokenizer_AgnosticEngramModule.md]] : Tokenizer-Agnostic Engram Module
+- [[2026-07-31_16-16-45Z_ResKV_ReconstructingOmittedAttentionContributionsf.md]] : ResKV: Reconstructing Omitted Attention Contributions for Fixed-Budget KV Cache Compression
+- [[2026-07-31_17-56-30Z_TokTier_ExactStatefulTokenizationforAgenticLLMServ.md]] : TokTier: Exact Stateful Tokenization for Agentic LLM Serving
+- [[2026-07-31_10-44-10Z_LanguageModelsAgreeWithEachOther_NotWithReaders.md]] : Language Models Agree With Each Other, Not With Readers
+- [[2026-07-31_09-07-07Z_DetectingExperientialIntertextualityAcrossMigratio.md]] : Detecting Experiential Intertextuality Across Migration Routes: Beyond Surface Similarity in French Narratives
+- [[2026-07-30_08-47-11Z_SciToolAgent_Evo_AnOntology_AwareSelf_EvolvingAgen.md]] : SciToolAgent-Evo: An Ontology-Aware Self-Evolving Agent for Open-World Scientific Tool Acquisition
+- [[2026-07-31_03-07-31Z_Mixture_of_Translators_TranslatingKVCachesAcrossHe.md]] : Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models
+- [[2026-07-31_09-05-58Z_LearningLatentReasoningTracesforScalarRewardModels.md]] : Learning Latent Reasoning Traces for Scalar Reward Models End-to-End
+- [[2026-07-31_17-54-46Z_SigncompressionforMuon_SignMuon_MuonSign_andtheLim.md]] : Sign compression for Muon: SignMuon, MuonSign, and the Limits of Error Feedback
+- [[2026-07-31_06-10-12Z_LearningLookaheadLemmasforNeuralNetworkVerificatio.md]] : Learning Lookahead Lemmas for Neural Network Verification
+- [[2026-07-30_18-20-42Z_TAGTorch_APyTorchLibraryforGeometry_Topology_andSy.md]] : TAGTorch: A PyTorch Library for Geometry, Topology, and Symmetry-Aware Machine Learning
+- [[2026-07-31_06-10-54Z_WhoWinsWhere_ConformalModelComparisonforLocalSuper.md]] : Who Wins Where? Conformal Model Comparison for Local Superiority
+- [[2026-07-31_10-29-54Z_UniPolymer_AUnifiedFrameworkforPropertyPrediction_.md]] : UniPolymer: A Unified Framework for Property Prediction, Structure Recommendation, and Evaluation in Polyimide Design
+- [[2026-07-31_13-18-47Z_ALIVE_WarningsBeforeExclusioninBudgetedMulti_Sourc.md]] : ALIVE: Warnings Before Exclusion in Budgeted Multi-Source Learning
+- [[2026-07-31_16-57-49Z_TheTheoreticalFoundationofSocraticTests_Dynamic_Mu.md]] : The Theoretical Foundation of Socratic Tests: Dynamic, Multimodal, Conversational Examinations
+- [[2026-07-31_15-03-09Z_Transcript_ManagedTransformers_MonotoneMulti_Agent.md]] : Transcript-Managed Transformers: Monotone Multi-Agent Collapse and Universality with Two Pop-Enabled Transcripts
+- [[2026-07-31_11-12-31Z_SampleEfficientHierarchicalReinforcementLearningvi.md]] : Sample Efficient Hierarchical Reinforcement Learning via Best Policy Identification
+- [[2026-07-31_09-02-33Z_SERUM_StateExtractionandRefinementforUserModeling.md]] : SERUM: State Extraction and Refinement for User Modeling
+- [[2026-07-31_15-42-00Z_AMTFV_AgenticMathematicalTool_FlowVerificationforL.md]] : AMTFV: Agentic Mathematical Tool-Flow Verification for LLM Self-Correction
+- [[2026-07-31_16-50-51Z_AHuman_CenteredValidationoftheExplainability_Perfo.md]] : A Human-Centered Validation of the Explainability-Performance Coefficient
+- [[2026-07-31_15-48-01Z_PyramidalWidthCanIncreaseUnderVertexInsertion.md]] : Pyramidal Width Can Increase Under Vertex Insertion
+- [[2026-07-31_01-38-37Z_LatentLie_PoissonNeuralNetworks_LLPNNs__Discoverin.md]] : Latent Lie-Poisson Neural Networks (LLPNNs): Discovering the motion of Lie-Poisson systems through observable data and latent dynamics
+- [[2026-07-31_11-51-04Z_MAGA_Multi_PlatformSelf_FusionofGUIAgentsviaStruct.md]] : MAGA: Multi-Platform Self-Fusion of GUI Agents via Structured Action Distillation
+- [[2026-07-31_12-37-48Z_VersatileOn_deviceAdaptationattheEdgebyUnifyingFew.md]] : Versatile On-device Adaptation at the Edge by Unifying Few-shot, Zero-shot, Continual, and In-context Learning
+- [[2026-07-31_13-12-58Z_DenseTemporalContrastSynthesisviaConditionedLatent.md]] : Dense Temporal Contrast Synthesis via Conditioned Latent Transport
+- [[2026-07-30_22-32-14Z_ValidationEvidenceinLLMRepairAgents_HowMuchofWhatP.md]] : Validation Evidence in LLM Repair Agents: How Much of What Passes Actually Tests the Bug?
+- [[2026-07-30_22-42-41Z_LearningtoPredictPerformance_inducedEmotionDiffere.md]] : Learning to Predict Performance-induced Emotion Differences in Classical Piano Music
+- [[2026-07-31_01-58-19Z_Shapley_Value_BasedFeatureAttributionforDataMaskin.md]] : Shapley-Value-Based Feature Attribution for Data Masking
+- [[2026-07-30_21-38-37Z_Ananalysisofmachinelearningapproachesforenhancingd.md]] : An analysis of machine learning approaches for enhancing decision-making in complex discrete choice tasks
+- [[2026-07-31_06-56-22Z_AGeneralized_BayesPerspectiveonCounterfactualExpla.md]] : A Generalized-Bayes Perspective on Counterfactual Explanations: Posterior-Based Decision-Making and Evaluation
+- [[2026-07-31_04-12-21Z_PersistentConvolution_ATopologicalFrameworkforAIAl.md]] : Persistent Convolution: A Topological Framework for AI Alignment Testing and Semantic Space Characterization
+- [[2026-07-31_16-38-47Z_QASP_Query_AdaptiveRobustVectorSearchPolicy.md]] : QASP: Query-Adaptive Robust Vector Search Policy
+- [[2026-07-31_16-52-47Z_WhenDoesOn_PolicyInteractionHelp_RepresentationalT.md]] : When Does On-Policy Interaction Help? Representational Tradeoffs in Value-Based Imitation Learning
+- [[2026-07-31_13-42-51Z_AgenticRepair_Multi_FacetedProgramContextEngineeri.md]] : AgenticRepair: Multi-Faceted Program Context Engineering for Agentic Vulnerability Repair
+- [[2026-07-31_16-09-44Z_TraceViT_GroundedTraceSupervisionforVisualAbstract.md]] : TraceViT: Grounded Trace Supervision for Visual Abstract Reasoning
+- [[2026-07-30_16-13-36Z_BeyondaSingleJudge_TheEvidence_Grounded_Social_Wei.md]] : Beyond a Single Judge: The Evidence-Grounded, Social-Weighted Persona Panel for Generative UI Evaluation
+- [[2026-07-31_07-44-11Z_Multi_GranularityPositionEmbeddingofGraphsviaGranu.md]] : Multi-Granularity Position Embedding of Graphs via Granular-Ball for Link Prediction
+- [[2026-07-31_03-27-57Z_AdjudicatedCaptioning_Multi_AgentAlignmentScoringa.md]] : Adjudicated Captioning: Multi-Agent Alignment Scoring and Consensus-Distilled Beam Arbitration for Strict Zero-Shot Image Captioning
+- [[2026-07-31_12-25-20Z_AnalysingUserReviewstoIdentifyUserConcernsAroundPe.md]] : Analysing User Reviews to Identify User Concerns Around Permissions in AI Apps
+- [[2026-07-31_13-17-05Z_OnlineCache_LearningDynamicCachingPolicieswithErro.md]] : OnlineCache: Learning Dynamic Caching Policies with Error Correction for Efficient Diffusion Inference
+- [[2026-07-31_05-10-23Z_Auto_JEPA_ALatentWorldModelofContinuousIntentforEn.md]] : Auto-JEPA: A Latent World Model of Continuous Intent for End-to-End Autonomous Driving
+- [[2026-07-31_09-53-51Z_MOSAIC_MaskedOutsourcingofSecureAIComputations.md]] : MOSAIC: Masked Outsourcing of Secure AI Computations
+- [[2026-07-31_13-41-51Z_ExploreBeyondtheBoundaryUsingEntropicInformation.md]] : Explore Beyond the Boundary Using Entropic Information
+- [[2026-07-30_20-18-39Z_BestFriends_NotForever_EvaluatingLong_HorizonPerso.md]] : Best Friends, Not Forever: Evaluating Long-Horizon Persona Collapse and Behavioral Drift in AI Companions
+- [[2026-07-31_00-15-32Z_ReflectionorRe_Generation_WhyLLMRevisionFailsWhere.md]] : Reflection or Re-Generation? Why LLM Revision Fails Where Human Revision Succeeds
+- [[2026-07-31_14-27-28Z_Parameter_FreeHeavy_TailedBandits.md]] : Parameter-Free Heavy-Tailed Bandits
+- [[2026-07-31_15-13-32Z_Ordered_to_disorderedtransferlearningwithgraphneur.md]] : Ordered-to-disordered transfer learning with graph neural networks for formation-energy and HOMO-LUMO gap prediction in high-entropy perovskite oxides
+- [[2026-07-30_07-36-02Z_CodeIstheBody_Agent_OwnedSoftwareBodiesforRecursiv.md]] : Code Is the Body: Agent-Owned Software Bodies for Recursive Evolution and Descent
+- [[2026-07-31_14-22-33Z_AnalyticalandBootstrapConfidenceIntervalsofDoubleM.md]] : Analytical and Bootstrap Confidence Intervals of Double Machine Learning: Simulation studies and an application to rural-urban difference in obesity prevalence
+- [[2026-07-31_00-02-30Z_AdaptivityviaaParallelArchitectureforStochasticGra.md]] : Adaptivity via a Parallel Architecture for Stochastic Gradient Methods Adaptivity via a Parallel Architecture for Stochastic Gradient Methods Adaptivity via a Parallel Architecture for Stochastic Gradient Methods
+- [[2026-07-31_07-27-52Z_StraightDP_Geometry_AwareDifferentialPrivacyforRec.md]] : StraightDP: Geometry-Aware Differential Privacy for Rectified-Flow Transformers
+- [[2026-07-30_22-52-34Z_FragilityofValueunderImperfectAlignment.md]] : Fragility of Value under Imperfect Alignment
+- [[2026-07-31_00-03-07Z_StructuredNeuralChaos_AnAdaptiveSurrogateModelingF.md]] : Structured Neural Chaos: An Adaptive Surrogate Modeling Framework for Functional Uncertainty Quantification and Global Sensitivity Analysis
+- [[2026-07-31_03-12-09Z_BeyondFeatureandStructureAlignment_LearningTransfe.md]] : Beyond Feature and Structure Alignment: Learning Transferable Propagation Knowledge for Graph Foundation Models
+- [[2026-07-31_13-04-39Z_ExploringBlockAnomalyDetectionInHDFSLogDataAnalysi.md]] : Exploring Block Anomaly Detection In HDFS Log Data Analysis
+- [[2026-07-31_08-20-23Z_HaveISeenYou_EmbeddingBehaviorSignalsSyntheticFace.md]] : Have I Seen You? Embedding Behavior Signals Synthetic Face Dataset Membership
+- [[2026-07-31_06-25-41Z_Evidence_GroundedConstraintCheckinginConstructionD.md]] : Evidence-Grounded Constraint Checking in Construction Documents
+- [[2026-07-31_06-30-45Z_OntheGeneralizationofSteeringVectorsforChain_of_Th.md]] : On the Generalization of Steering Vectors for Chain-of-Thought Faithfulness
+- [[2026-07-31_01-57-07Z_FairDiffuseVQVAE_Sampling_TimeFairnessinTabularDif.md]] : FairDiffuseVQVAE: Sampling-Time Fairness in Tabular Diffusion via Conditional Refinement of Vector-Quantized Latents
+- [[2026-07-31_07-40-59Z_DoubleHelix_StructuredCross_ModalFusionforAudio_Vi.md]] : DoubleHelix: Structured Cross-Modal Fusion for Audio-Visual Speech Recognition with LLMs
+- [[2026-07-31_12-14-04Z_DualDiT_AConditionalDual_OutputDiffusionTransforme.md]] : DualDiT: A Conditional Dual-Output Diffusion Transformer for Joint OCT Image and Segmentation Mask Generation
+- [[2026-07-31_17-55-02Z_DifferentiallyPrivateNonparametricModalLearningwit.md]] : Differentially Private Nonparametric Modal Learning with Applications to Regression and Clustering
+- [[2026-07-31_12-08-25Z_Thepersuasivepoweroflargelanguagemodelsdoesnotdepe.md]] : The persuasive power of large language models does not depend on their perceived national origin
+- [[2026-07-30_23-16-20Z_Human_LLMCollaborativeInductiveCodingforConceptual.md]] : Human-LLM Collaborative Inductive Coding for Conceptualizing K-12 Educator AI Use
+- [[2026-07-31_15-07-18Z_TheGrokkedIllusion_TrueEquilibriumMitigatesCatastr.md]] : The Grokked Illusion: True Equilibrium Mitigates Catastrophic Forgetting
+- [[2026-07-31_02-47-43Z_Don_tContrasttheImpossible_Region_ConstrainedBatch.md]] : Don't Contrast the Impossible: Region-Constrained Batching for Contrastive User Modeling on a Local Community Platform
+- [[2026-07-31_00-03-31Z_DesignConcept_ScaffoldingGeopoliticalReflectionAmo.md]] : Design Concept: Scaffolding Geopolitical Reflection Among Tech Workers
+- [[2026-07-31_10-15-38Z_RecHarness_ABandit_RoutedAgenticHarnessforSelf_Evo.md]] : RecHarness: A Bandit-Routed Agentic Harness for Self-Evolving Recommender Systems
+- [[2026-07-31_15-46-02Z_COntExt_TowardsContext_AwareOntologyExtensionfromO.md]] : COntExt: Towards Context-Aware Ontology Extension from Operational Metrics
+- [[2026-07-31_17-49-32Z_Freeze_ThenSelect_StructuredFieldAdaptersandStabil.md]] : Freeze, Then Select: Structured Field Adapters and Stability-Validated Weak Selection for PDE Discovery from Sparse Observations
+- [[2026-07-31_14-10-57Z_QR_StructuredThermalTriggersforTargetedSemanticAtt.md]] : QR-Structured Thermal Triggers for Targeted Semantic Attacks on Infrared Vision-Language Models
+- [[2026-07-30_11-04-45Z_WitCert_SoundRuntimeRiskObservabilityandGatingforK.md]] : WitCert: Sound Runtime Risk Observability and Gating for KV-Cache Quantization
+- [[2026-07-31_03-00-57Z_ExtrapolatingtheemergenceofHamiltonianchaoswithran.md]] : Extrapolating the emergence of Hamiltonian chaos with random-feature Hamiltonian neural networks
+- [[2026-07-30_21-21-52Z_Hypergradient_basedBilevelReinforcementLearningwit.md]] : Hypergradient-based Bilevel Reinforcement Learning with Improved Sample Complexity
+- [[2026-07-31_15-29-22Z_ANeurosymbolicApproachforExplainableEarlyDiagnosis.md]] : A Neurosymbolic Approach for Explainable Early Diagnosis of Alzheimer's Disease
+- [[2026-07-31_07-18-19Z_metasignal_APythonPackageforComprehensiveMetacogni.md]] : metasignal: A Python Package for Comprehensive Metacognitive Analysis and Decision-Making
+- [[2026-07-31_12-59-06Z_TheGreedyAdvantageinFinite_HorizonBandits.md]] : The Greedy Advantage in Finite-Horizon Bandits
+- [[2026-07-31_14-07-43Z_End_to_EndFairnessOptimizationwithFairDecision_Foc.md]] : End-to-End Fairness Optimization with Fair Decision-Focused Learning
+- [[2026-07-31_09-01-25Z_MoRAE_Flow_FriendlySelf_SupervisedLatentsforText_t.md]] : MoRAE: Flow-Friendly Self-Supervised Latents for Text-to-Motion Generation
+- [[2026-07-30_10-13-21Z_PredictingSteelFatigueLifefromMicrographsUsingPhys.md]] : Predicting Steel Fatigue Life from Micrographs Using Physics-Informed Deep Learning
+- [[2026-07-31_14-58-23Z_DreamQAS_LearningaDecision_UsefulWorldModelforVQE_.md]] : DreamQAS: Learning a Decision-Useful World Model for VQE-Efficient Quantum Architecture Search
+- [[2026-07-31_10-16-55Z_TAVI_TEC_AnAI_BasedToolforProceduralPlanningofTran.md]] : TAVI-TEC: An AI-Based Tool for Procedural Planning of Transcatheter Aortic Valve Implantation
+- [[2026-07-31_13-55-09Z_ModelEquivBench_CertifyingMulti_RelationalEvaluati.md]] : ModelEquivBench: Certifying Multi-Relational Evaluation of LLM-Generated Optimization Models
+- [[2026-07-31_06-57-17Z_DASH_OPD_Discrepancy_AwareSwitchingwithHysteresisf.md]] : DASH-OPD: Discrepancy-Aware Switching with Hysteresis for On-Policy Distillation
+- [[2026-07-31_08-47-57Z_ActFovea_RuntimeSafeguardingforVLAPoliciesviaSpati.md]] : ActFovea: Runtime Safeguarding for VLA Policies via Spatiotemporal Visual-Action Consistency
+- [[2026-07-30_18-35-39Z_TheMorphologicalCoreofDungan_ATwo_DialectFinite_St.md]] : The Morphological Core of Dungan: A Two-Dialect Finite-State Model and a Multi-Genre Evaluation
+- [[2026-07-31_08-58-54Z_MBDiff_Multi_viewBehavior_awareDiffusionModelforPr.md]] : MBDiff: Multi-view Behavior-aware Diffusion Model for Probabilistic Utility Data Imputation
+- [[2026-07-31_14-43-52Z_MolGVR_AChemistry_GroundedFrameworkforText_to_Mole.md]] : MolGVR: A Chemistry-Grounded Framework for Text-to-Molecule Generation
+- [[2026-07-31_15-27-26Z_TerraNova_AFoundationModelfortheAnthropocene.md]] : TerraNova: A Foundation Model for the Anthropocene
+- [[2026-07-31_05-29-25Z_DFSC_Error_ControlledDifferentiableMittag_LefflerP.md]] : DFSC: Error-Controlled Differentiable Mittag-Leffler Propagation for Fractional Scientific Machine Learning
+- [[2026-07-31_15-52-07Z_MOT_SR_Multi_ObjectiveTool_AugmentedScientificEqua.md]] : MOT-SR: Multi-Objective Tool-Augmented Scientific Equation Discovery with Large Language Models
+- [[2026-07-31_10-38-11Z_OsteoCAD_AHuman_in_the_LoopCloud_EdgeFrameworkforB.md]] : OsteoCAD: A Human-in-the-Loop Cloud-Edge Framework for Bone Tumor Segmentation
+- [[2026-07-31_10-55-01Z_RTLCurator_Label_EfficientDataCurationforRTLGenera.md]] : RTLCurator: Label-Efficient Data Curation for RTL Generation
+- [[2026-07-31_12-51-24Z_StableAutoregressiveSpeechGenerationwithLow_Frame_.md]] : Stable Autoregressive Speech Generation with Low-Frame-Rate High-Dimensional Continuous Tokens
+- [[2026-07-31_00-32-46Z_GatedQ_learning_AddOff_PolicyBiastoTaste.md]] : Gated Q-learning: Add Off-Policy Bias to Taste
+- [[2026-07-31_16-18-30Z_TOOD_Task_AwareOut_of_DistributionScoreCalibration.md]] : TOOD: Task-Aware Out-of-Distribution Score Calibration for Continual Learners
+- [[2026-07-31_02-05-45Z_OvercomingtheWeakest_LinkEffectinLLM_DrivenProgram.md]] : Overcoming the Weakest-Link Effect in LLM-Driven Program Optimization via Heterogeneous Edit Recombination
+- [[2026-07-31_10-18-54Z_Simple_regretratesandminimaxoptimalityoffixed_prio.md]] : Simple-regret rates and minimax optimality of fixed-prior expected improvement in Matérn and squared-exponential RKHSs
+- [[2026-07-31_08-38-13Z_ImplicitMachineLearningForceFieldsAccelerateMolecu.md]] : Implicit Machine Learning Force Fields Accelerate Molecular Dynamics Simulations
+- [[2026-07-31_17-37-34Z_DevelopmentofFDD_ON_anOntologyforVAVHVACSystemFaul.md]] : Development of FDD-ON: an Ontology for VAV HVAC System Fault Detection and Diagnostics
+- [[2026-07-31_03-20-14Z_PARALLEL_APrefrontal_AlignedReinforcementinspiredA.md]] : PARALLEL: A Prefrontal-Aligned Reinforcement inspired Approach for Language-Model Learning under Explicit Limits
+- [[2026-07-31_02-43-07Z_VisualDistributionAnchoringforEfficientPromptTunin.md]] : Visual Distribution Anchoring for Efficient Prompt Tuning
+- [[2026-07-31_14-36-59Z_LightweightNeuralNetworksforAffordanceSegmentation.md]] : Lightweight Neural Networks for Affordance Segmentation: Enhancement of the Decoder Module
+- [[2026-07-31_03-54-38Z_PaletteID_Prototype_ComposedSemanticIdentifiersfor.md]] : PaletteID: Prototype-Composed Semantic Identifiers for Multimodal CTR Prediction
+- [[2026-07-31_15-02-53Z_AdaptiveFastOPD_Progress_AwareRolloutHorizonExpans.md]] : Adaptive FastOPD: Progress-Aware Rollout Horizon Expansion for Efficient On-Policy Distillation
+- [[2026-07-31_17-55-58Z_ExtractBench_ABenchmarkforSchema_GuidedEnterpriseD.md]] : ExtractBench: A Benchmark for Schema-Guided Enterprise Document Extraction
+- [[2026-07-31_07-19-26Z_PiDDM_Physics_InformedDifferentiableDegradationMod.md]] : PiDDM: Physics-Informed Differentiable Degradation Modeling for Lithium-Ion Battery State-of-Health Prediction
+- [[2026-07-31_14-49-18Z_Evidence_TypeCompetition_WhenCanInterventionalData.md]] : Evidence-Type Competition: When Can Interventional Data Teach Language Models Causal Direction?
+- [[2026-07-31_10-11-09Z_FBFM_ATraining_FreeAsynchronousFeedbackMechanismfo.md]] : FBFM: A Training-Free Asynchronous Feedback Mechanism for Flow-Matching in World-Action Models Execution
+- [[2026-07-31_05-46-07Z_ImprovingscDiffusionwithSparsity_BiasedClassifier_.md]] : Improving scDiffusion with Sparsity-Biased Classifier-Free Guidance
+- [[2026-07-31_15-17-25Z_FromCodeReviewtoCodeCritique_Intent_Drift_andSpotl.md]] : From Code Review to Code Critique: Intent, Drift, and Spotlight for AI-Generated Diffs at Scale
+- [[2026-07-31_17-40-27Z_GQ_FSL_GreenQuantizedFederatedSplitLearning.md]] : GQ-FSL: Green Quantized Federated Split Learning
+- [[2026-07-30_23-16-41Z_AgreementIsNotQuality_BlindExpertVerificationofHum.md]] : Agreement Is Not Quality: Blind Expert Verification of Human and LLM Qualitative Coding When Human Consensus Is Not Ground Truth
+- [[2026-07-31_01-29-16Z_FairFund_Bench_EvaluatingDistributiveBiasinLLMReso.md]] : FairFund-Bench: Evaluating Distributive Bias in LLM Resource Allocation
+- [[2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_ActionRein.md]] : WCM: A World Critic Model for Vision-Language-Action Reinforcement Learning
+- [[2026-07-31_09-28-16Z_SAF_OPD_StableAdvantageFusionforOn_PolicyDistillat.md]] : SAF-OPD: Stable Advantage Fusion for On-Policy Distillation
+- [[2026-07-30_19-27-36Z_EarlyDx_AnAdmission_AnchoredBenchmarkforOpen_Ended.md]] : EarlyDx: An Admission-Anchored Benchmark for Open-Ended Generation of Evidence-Supported ED-Encounter Diagnoses
+- [[2026-07-30_15-59-51Z_DemystifyingEntropy_basedSelectionforChain_of_Thou.md]] : Demystifying Entropy-based Selection for Chain-of-Thought Compression in Large Reasoning Models
+- [[2026-07-31_10-59-39Z_TranslationwithThought_Difficulty_AdaptiveReasonin.md]] : Translation with Thought: Difficulty-Adaptive Reasoning via Reinforcement Learning for Multi-Domain Machine Translation
+- [[2026-07-31_13-15-11Z_Studyingquantizationtrade_offsforefficientinferenc.md]] : Studying quantization trade-offs for efficient inference deployment in machine translation
+- [[2026-07-31_03-33-35Z_SILVANetworksasStructuredImplicitLayersandVectorAt.md]] : SILVA Networks as Structured Implicit Layers and Vector Attractors via Dynamic Interaction Fields
+- [[2026-07-31_08-50-25Z_CLIFT_TurningGeminiRoboticsOn_DeviceintoHumanoidSp.md]] : CLIFT: Turning Gemini Robotics On-Device into Humanoid Specialists via Non-Invasive Closed-Loop Iterative Fine-Tuning
+- [[2026-07-31_14-24-26Z_TFGformer_MultivariateTimeSeriesForecastingviaTime.md]] : TFGformer: Multivariate Time Series Forecasting via Time-Frequency Graph Learning and Covariate Fusion
+- [[2026-07-31_06-32-02Z_BenchmarkingFrontierLargeLanguageModelsAgainstOffi.md]] : Benchmarking Frontier Large Language Models Against Official Crash Database Coding Using Police Crash Narratives
+- [[2026-07-31_16-58-00Z_AgentHPOBench_ABenchmarkForEvaluatingLLMAgentsasSe.md]] : AgentHPOBench: A Benchmark For Evaluating LLM Agents as Sequential Hyperparameter Optimizers
+- [[2026-07-31_11-11-15Z_AssessingtheGeneralizationofGraphNeuralNetworksfor.md]] : Assessing the Generalization of Graph Neural Networks for Fault Location Across Increasing Distributed Energy Resource Penetration Levels
+- [[2026-07-31_14-07-12Z_BeyondRetrieval_AnalyticMemoryforMultimodalAgents.md]] : Beyond Retrieval: Analytic Memory for Multimodal Agents
+- [[2026-07-31_09-02-47Z_Few_shotDeepLearningforPhase_AmplitudeAberrationCo.md]] : Few-shot Deep Learning for Phase-Amplitude Aberration Correction in Transcranial Focused Ultrasound
+- [[2026-07-30_19-55-14Z_ModelorHarness_AnInteraction_CentricTaxonomyforLoc.md]] : Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures
+- [[2026-07-31_02-53-07Z_RAID_TowardsRobustAI_GeneratedImageDetectionwithBi.md]] : RAID: Towards Robust AI-Generated Image Detection with Bit-Reversed Images
+- [[2026-07-31_08-23-43Z_TranspilerAutotuningwithPredictiveModelsforQuantum.md]] : Transpiler Autotuning with Predictive Models for Quantum Circuit Optimization
+- [[2026-07-31_09-15-56Z_Hy_MultiTurn_ASix_DimensionalBenchmarkforDeepMulti.md]] : Hy-MultiTurn: A Six-Dimensional Benchmark for Deep Multi-Turn Dialogue Understanding
+- [[2026-07-30_21-20-21Z_DeltaServe_Host_AgnosticCo_ServingofInferenceandFi.md]] : DeltaServe: Host-Agnostic Co-Serving of Inference and Fine-Tuning for LLMs
+- [[2026-07-30_23-07-51Z_ToAddIsMachine_ToDeleteIsHuman_MeasuringandMitigat.md]] : To Add Is Machine, To Delete Is Human: Measuring and Mitigating Deletion Avoidance in LLM Code Editing
+- [[2026-07-30_18-00-31Z_MirrorLearning.md]] : Mirror Learning
+- [[2026-07-31_12-52-10Z_Cross_ResolutionSemanticLearningforGraphDomainAdap.md]] : Cross-Resolution Semantic Learning for Graph Domain Adaptation
+- [[2026-07-31_07-16-50Z_WhatIsMissinginSurgicalRiskStratificationandOutcom.md]] : What Is Missing in Surgical Risk Stratification and Outcome Prediction: A Scoping Review of End-to-End Machine Learning Approaches
+- [[2026-07-31_03-45-29Z_Point2Radio_AFoundationModelforCross_SceneRadioFie.md]] : Point2Radio: A Foundation Model for Cross-Scene Radio Fields from Material-Aware Point Clouds
+- [[2026-07-31_04-44-24Z_GoldenRetriever_Non_InteractiveHomomorphicEncrypte.md]] : GoldenRetriever: Non-Interactive Homomorphic Encrypted Retrieval for Privacy-Preserving RAG
+- [[2026-07-31_08-46-27Z_MemoryProvenanceLaunderinginLLMAgents_ANon_Amplifi.md]] : Memory Provenance Laundering in LLM Agents: A Non-Amplification Firewall for Persistent Memory
+- [[2026-07-31_06-45-56Z_FederatedFoundationModelsFine_TuningwithHeterogene.md]] : Federated Foundation Models Fine-Tuning with Heterogeneous Compressed Clients
+- [[2026-07-31_01-53-41Z_NeSyFS_ANeuro_symbolicFast_SlowThinkingFrameworkfo.md]] : NeSyFS: A Neuro-symbolic Fast-Slow Thinking Framework for LLM Agent under Partial Observability
+- [[2026-07-31_13-09-00Z_SimulationCodeGenerationforFluidSystemsusingLargeL.md]] : Simulation Code Generation for Fluid Systems using Large Language Models: Benchmarking Models and Prompting Strategies
+- [[2026-07-30_22-48-26Z_RareSense_Rarity_AwareSimilaritySearchforAnomalyRe.md]] : RareSense: Rarity-Aware Similarity Search for Anomaly Retrieval in Transactional Data
+- [[2026-07-31_10-14-28Z_SmallIsEnough_Per_UserStyleRewritingofAI_EditedTex.md]] : Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters
+- [[2026-07-30_21-41-40Z_FastRatesforSwap_AgnosticLearningofProperLosses.md]] : Fast Rates for Swap-Agnostic Learning of Proper Losses
+- [[2026-07-30_21-07-27Z_BenchmarksAreNotValidation_ASystem_LevelViewofFina.md]] : Benchmarks Are Not Validation: A System-Level View of Financial LLM Applications
+- [[2026-07-31_15-50-29Z_LEMUR_LearningtoAlignwithMulti_ObjectiveReinforcem.md]] : LEMUR: Learning to Align with Multi-Objective Reinforcement Learning from Preference Feedback
+- [[2026-07-30_19-04-34Z_Self_SupervisedSkillOptimization.md]] : Self-Supervised Skill Optimization
+- [[2026-07-31_13-01-43Z_PTP_Previous_TokenPredictionbasedLLMInversionforNe.md]] : PTP: Previous-Token Prediction based LLM Inversion for Near-Exact Prompt Reconstruction
+- [[2026-07-31_09-58-58Z_LinearProposalOperatorsandStochasticSearchGeometry.md]] : Linear Proposal Operators and Stochastic Search Geometry in SOMA and Differential Evolution
+- [[2026-07-31_07-13-59Z_HarnessingtheWisdomofLLMCrowdsthroughComplementari.md]] : Harnessing the Wisdom of LLM Crowds through Complementarity-Driven Iterative Collaboration
+- [[2026-07-31_10-19-41Z_Don_tMixRewards_MixPolicies_PolicyDecompositionand.md]] : Don't Mix Rewards, Mix Policies: Policy Decomposition and Optimization for Multi-Reward RL
+- [[2026-07-31_02-19-25Z_Retrieval_DrivenTraining_FreeAI_GeneratedVideoAttr.md]] : Retrieval-Driven Training-Free AI-Generated Video Attribution
+- [[2026-07-30_23-28-11Z_TORUS_ATestofRendering_UnderstandingSelf_Coherence.md]] : TORUS: A Test of Rendering-Understanding Self-Coherence for Unified Audio Models
+- [[2026-07-31_16-56-27Z_CENDRe_ConceptExtractionwithNaturalDomainRepresent.md]] : CENDRe: Concept Extraction with Natural Domain Representations
+- [[2026-07-31_02-20-24Z_MerchantBench_BenchmarkingLLMAgentsforLong_TermCoh.md]] : MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations
+- [[2026-07-30_23-26-52Z_IdentifyingInformativeEnvironmentsforCognitionPara.md]] : Identifying Informative Environments for Cognition Parameter Inference via Bayesian Experimental Design
+- [[2026-07-31_02-26-04Z_EfficientLLMAdversarialTrainingviaLow_RankDefensea.md]] : Efficient LLM Adversarial Training via Low-Rank Defense and Circuit-Guided Surrogates
+- [[2026-07-30_21-56-03Z_AUnifiedBenchmarkofDeepLearningModelsforMulti_task.md]] : A Unified Benchmark of Deep Learning Models for Multi-task 3D Brain Tumor Segmentation from Magnetic Resonance Imaging
+- [[2026-07-31_08-05-46Z_HERO_History_EnrichedRolloutTrainingforLong_Horizo.md]] : HERO: History-Enriched Rollout Training for Long-Horizon Autoregressive Neural Operators
+- [[2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequationsfr.md]] : Dynamics-aware identification of governing equations from sparse and noisy data
+- [[2026-07-31_16-33-18Z_ThePartsAreGreaterThantheSum_AutomatedTaskSequenci.md]] : The Parts Are Greater Than the Sum: Automated Task Sequencing for Efficient Training of Multi-Policy LLMs
+- [[2026-07-31_02-44-51Z_ArobustassociationbetweenLLMuseandscientificproduc.md]] : A robust association between LLM use and scientific productivity: Assessing stopping-time selection
+- [[2026-07-31_12-42-17Z_Cross_LingualTransferforMachineTranslationinTurkic.md]] : Cross-Lingual Transfer for Machine Translation in Turkic Languages
+- [[2026-07-31_09-32-01Z_GALA_GenerativeAlignedLearningforAdaptiveMultimoda.md]] : GALA: Generative Aligned Learning for Adaptive Multimodal Representation in the Taobao Shangou Recommender System
+- [[2026-07-31_16-03-38Z_DungeonBench_ABenchmarkforRules_RichTacticalReason.md]] : DungeonBench: A Benchmark for Rules-Rich Tactical Reasoning in Dungeons & Dragons Combat
+- [[2026-07-30_20-41-53Z_WhenUnlearningFails_ReliableDataDeletionunderPost_.md]] : When Unlearning Fails: Reliable Data Deletion under Post-Training in Agent Networks
+- [[2026-07-31_15-35-57Z_ARB_AMatchedAuthorship_RewritingBenchmarkDatasetfo.md]] : ARB: A Matched Authorship-Rewriting Benchmark Dataset for AI-Text Detector Evaluation
+- [[2026-07-31_02-16-55Z_MiningVerdictBoundariesforNeuralNetworkVerificatio.md]] : Mining Verdict Boundaries for Neural Network Verification
+- [[2026-07-31_16-19-24Z_ConvergenceandRegretofthePolicyGradientforMulti_Ar.md]] : Convergence and Regret of the Policy Gradient for Multi-Armed Bandits in Diffusion Environment
+- [[2026-07-30_20-28-02Z_DistillingKnowledgefromLargeLanguageModelsintoLigh.md]] : Distilling Knowledge from Large Language Models into Lightweight Reinforcement Learning Agents for Autonomous Cyber Operations
+- [[2026-07-31_04-00-15Z_MMShopBench_AReal_LogBenchmarkforMultimodal_Multi_.md]] : MMShopBench: A Real-Log Benchmark for Multimodal, Multi-Turn Shopping Agents
+- [[2026-07-31_06-36-25Z_SemanticsofSubterfuge_BenchmarkingLegalDeceptionDe.md]] : Semantics of Subterfuge: Benchmarking Legal Deception Detection Against General-domain State-of-the-Art
+- [[2026-07-31_14-28-23Z_MoPET_Parameter_EfficientMixture_of_ExpertsforUnif.md]] : MoPET: Parameter-Efficient Mixture-of-Experts for Unified Medical Image Classification
+- [[2026-07-30_22-49-54Z_LayoutBench_PerformanceBenchmarkingofCloudStorageL.md]] : LayoutBench: Performance Benchmarking of Cloud Storage Layouts for Multimedia Data
+- [[2026-07-31_10-21-56Z_CalibratedRubric_Task_AdaptiveRubricBanksforOpen_E.md]] : CalibratedRubric: Task-Adaptive Rubric Banks for Open-Ended LLM Evaluation
+- [[2026-07-31_07-52-47Z_SciFigPlag_Bench_ABenchmarkforProvenance_AwareScie.md]] : SciFigPlag-Bench: A Benchmark for Provenance-Aware Scientific Figure Plagiarism Detection
+- [[2026-07-31_07-56-25Z_M3_DuplexBench_AMulti_Turn_Multilingual_Multidomai.md]] : M3-DuplexBench: A Multi-Turn, Multilingual, Multidomain Benchmark for Full-Duplex Spoken Dialogue Models
+- [[2026-07-31_08-05-15Z_InferQ_ADatabase_OrientedBenchmarkforQuantumCircui.md]] : InferQ: A Database-Oriented Benchmark for Quantum Circuits Simulation
+- [[2026-07-31_07-59-18Z_PluRel_to_RDB_PFN_Schema_GuidedSyntheticRelational.md]] : PluRel-to-RDB-PFN: Schema-Guided Synthetic Relational Pretraining
+- [[2026-07-29_18-08-26Z_TELLER_Dual_PathIterativePreferenceOptimizationfor.md]] : TELLER: Dual-Path Iterative Preference Optimization for Table Entity Linking
+- [[2026-07-31_03-34-39Z_ScalingScientificDiscoveryEnvironmentsforTurn_Leve.md]] : Scaling Scientific Discovery Environments for Turn-Level Agentic RL
+- [[2026-07-30_22-08-02Z_ConditioningTree_BasedDiffusionsandFlowsforProbabi.md]] : Conditioning Tree-Based Diffusions and Flows for Probabilistic Tabular Regression
+- [[2026-07-31_13-01-06Z_Zero_Mem_Zero_TokenMemoryOperationsforLLMAgents.md]] : Zero-Mem: Zero-Token Memory Operations for LLM Agents
+- [[2026-07-30_22-01-36Z_TextCloak_ThwartingUnauthorizedLLMExploitationviaR.md]] : TextCloak: Thwarting Unauthorized LLM Exploitation via RL-Driven Unlearnable Text
+- [[2026-07-31_09-11-56Z_CAGE_CertifiedAuthorizationunderTyped_ReturnUncert.md]] : CAGE: Certified Authorization under Typed-Return Uncertainty for Tool-Using Agents
+- [[2026-07-31_09-43-54Z_MirrorCraft_PairedEvaluationunderHiddenRuleChanges.md]] : MirrorCraft: Paired Evaluation under Hidden Rule Changes in Minecraft
+- [[2026-07-30_18-28-50Z_FeatureInteractionModelingforPhysics_InformedNeura.md]] : Feature Interaction Modeling for Physics-Informed Neural Networks and Neural Operators
+- [[2026-07-31_07-50-00Z_CurriculumMatters_Data_EfficientRelationalPFNPretr.md]] : Curriculum Matters: Data-Efficient Relational PFN Pretraining with Synthetic Data
+- [[2026-07-31_10-21-36Z_DataTurnstile_AScalableOpenFrameworkforFunction_Ca.md]] : Data Turnstile: A Scalable Open Framework for Function-Calling Data Generation
+- [[2026-07-31_01-00-25Z_LearningOptimalDynamicMatchingviaGraphNeuralNetwor.md]] : Learning Optimal Dynamic Matching via Graph Neural Networks
+- [[2026-07-30_19-51-55Z_BenchmarksAreNotMonolithic_Sample_LevelAuditingand.md]] : Benchmarks Are Not Monolithic: Sample-Level Auditing and Orchestration for LLM Evaluation
+- [[2026-07-31_02-36-55Z_BLADE_Boundary_ExpandedandLayer_AdaptiveDynamicExi.md]] : BLADE: Boundary-Expanded and Layer-Adaptive Dynamic Exit for Efficient LLM Reasoning
+- [[2026-07-31_14-32-52Z_Self_PlayMeetsSkillEvolution_Self_EvolvingSearchAg.md]] : Self-Play Meets Skill Evolution: Self-Evolving Search Agents that Pose, Solve, and Remember
+- [[2026-07-31_06-18-48Z_AutonomousRepairforMulti_AgentSystemsviaMonte_Carl.md]] : Autonomous Repair for Multi-Agent Systems via Monte-Carlo Tree Search
+- [[2026-07-31_13-24-34Z_BeyondComponentTesting_ValidatingAgenticAISystems.md]] : Beyond Component Testing: Validating Agentic AI Systems
+- [[2026-07-31_10-25-04Z_ToolSpecificationsMatter_UncoveringandMitigatingSa.md]] : Tool Specifications Matter: Uncovering and Mitigating Safety Risks in AI Agents
+- [[2026-07-31_15-13-02Z_LeveragingTransferLearningwithClass_SpecificDecode.md]] : Leveraging Transfer Learning with Class-Specific Decoders for Laparoscopic Segmentation
+- [[2026-07-31_09-55-38Z_FrugalBayesianOptimization_ScalableSurrogatesforDa.md]] : Frugal Bayesian Optimization: Scalable Surrogates for Data- and Resource-Limited Discovery
+- [[2026-07-31_01-33-53Z_DiffAttack_EvasionAttacksAgainstFaceRecognitionvia.md]] : DiffAttack: Evasion Attacks Against Face Recognition via Latent Diffusion Models
+- [[2026-07-31_10-15-23Z_WhenModelPriorsConflictwithVisualEvidence_Mitigati.md]] : When Model Priors Conflict with Visual Evidence: Mitigating Commonsense-Driven Hallucinations by Selective Prior Calibration
+- [[2026-07-30_22-43-33Z_Open_SourceLLM_DrivenFormalVerification_AMulti_Age.md]] : Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair
+- [[2026-07-31_12-30-12Z_SeekBrain_AnAutonomousMulti_AgentSystemforAccelera.md]] : SeekBrain: An Autonomous Multi-Agent System for Accelerating Neuroscience Discovery
+- [[2026-07-31_16-33-39Z_FriendBench_BenchmarkingDyadicFamiliarityInference.md]] : FriendBench: Benchmarking Dyadic Familiarity Inference in Humans and Multimodal Large Language Models
 - [[2026-07-29_15-01-09Z_EvoCause_LLM_GuidedEvolutionofCausalGraphsforRootC.md]] : EvoCause: LLM-Guided Evolution of Causal Graphs for Root Cause Analysis
 - [[2026-07-30_16-00-39Z_QQWorld_Quantile_QuantileMatchingforWorldModelRegu.md]] : QQWorld: Quantile-Quantile Matching for World Model Regularization
 - [[2026-07-29_16-03-07Z_MatCreatioNN_Machinelearning_guidedcomputationaldi.md]] : MatCreatioNN: Machine learning-guided computational discovery of photocatalysts for environmental applications
@@ -3930,3 +4151,23 @@ tags: ['wiki']
 - [[2026-08-02_Fender_sCEOseemstothinkyourbandmatesarejustanalogA.md]] : Fender’s CEO seems to think your bandmates are just analog AI
 - [[2026-08-02_SamAltmanandAI_sdeceldebate.md]] : Sam Altman and AI’s decel debate
 - [[2026-08-02_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[2026-08-02_AIposterwinsOhioStateFaircontest.md]] : AI poster wins Ohio State Fair contest
+- [[2026-08-02_ShowHN_Shitty_fastterminal_Memory-unsafeandfastert.md]] : Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
+- [[2026-08-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-08-02_CP_M-386_CP_Mfor386protectedmode_derivedfromCP_M_6.md]] : CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
+- [[2026-08-02_Appleengineersayshewasfiredafterrefusingtosendcust.md]] : Apple engineer says he was fired after refusing to send cust. device IDs to AT&T
+- [[2026-08-02_Qwen3_8-Max_ANewBarforCodingandCowork.md]] : Qwen3.8-Max: A New Bar for Coding and Cowork
+- [[2026-08-03_Tenadvancesinmathematicsandtheoreticalcomputerscie.md]] : Ten advances in mathematics and theoretical computer science
+- [[2026-08-03_Fender_sCEOseemstothinkyourbandmatesarejustanalogA.md]] : Fender’s CEO seems to think your bandmates are just analog AI
+- [[2026-08-03_Qwen3_8-Max_ANewBarforCodingandCowork.md]] : Qwen3.8-Max: A New Bar for Coding and Cowork
+- [[2026-08-03_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-03_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-08-03_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[2026-08-03_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[2026-08-03_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-08-03_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[2026-08-03_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-08-03_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-03_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-03_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-03_SamAltmanandAI_sdeceldebate.md]] : Sam Altman and AI’s decel debate

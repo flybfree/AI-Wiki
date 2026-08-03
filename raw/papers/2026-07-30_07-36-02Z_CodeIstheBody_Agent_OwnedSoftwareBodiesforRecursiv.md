@@ -1,0 +1,18 @@
+---
+title: Code Is the Body: Agent-Owned Software Bodies for Recursive Evolution and Descent
+published: 2026-07-30T07:36:02Z
+authors: Roy Zhao, Zhenyu Zhao
+url: http://arxiv.org/abs/2607.28691v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Code Is the Body: Agent-Owned Software Bodies for Recursive Evolution and Descent
+
+## Abstract
+Personalized AI agents are often configurable without giving users control over the artifacts that determine their future behavior. We present OurArk, an architecture for persistent personal agents centered on an agent-owned software body: an identity-bearing, inspectable, and versioned artifact under human custody. The body contains behavior-defining code, prompts, tools, skills, policies, tests, and evolution mechanisms. Memories and credentials remain private instance state, while model inference is treated as a replaceable external service. OurArk defines governed self-evolution and recursive descent over the same body. Self-evolution produces isolated candidate changes that are validated, reviewed, and merged under human control, enabling human-agent co-development of the agent's software body. Descent creates an independently versioned descendant with a distinct identity, mission, history, and fresh private-state boundary; compatible descendants can themselves source further descent. After divergence, direct-parent changes and peer skills can be inspected for selective local adaptation. We implement the architecture in the open-source Genesis creation engine and Enoch reference agent. A four-agent, three-descent linear lineage and executable regression tests demonstrate recursive creation, inherited validation contracts, isolated body changes, human-controlled review, and failed-update recovery. OurArk provides a concrete substrate for personal agents that people can possess, govern, specialize, and evolve over time.
+
+## Metadata
+- **Published**: 2026-07-30T07:36:02Z
+- **Authors**: Roy Zhao, Zhenyu Zhao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.28691v1)

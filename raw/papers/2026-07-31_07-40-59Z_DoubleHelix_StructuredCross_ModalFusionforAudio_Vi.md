@@ -1,0 +1,18 @@
+---
+title: DoubleHelix: Structured Cross-Modal Fusion for Audio-Visual Speech Recognition with LLMs
+published: 2026-07-31T07:40:59Z
+authors: Ziwei Cheng, Zhenhua Tan, Zhuomin Zhu
+url: http://arxiv.org/abs/2607.29112v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# DoubleHelix: Structured Cross-Modal Fusion for Audio-Visual Speech Recognition with LLMs
+
+## Abstract
+Audio-visual speech recognition (AVSR) relies on effective fusion of audio and visual modalities, yet existing approaches treat cross-modal interaction as a single-step operation without structured iterative refinement. We present DoubleHelix, a multimodal fusion framework that reformulates fusion as an iterative cross-modal interaction process with adaptive degradation-aware enhancement. The framework comprises three components including ReverseParallelHelix for multi-turn structured interaction with learned alignment constraints, QualitySensor for learning degradation-aware gating signals, and HelixReplication for consistency-guided conditional feature enhancement. Experiments on LRS3 demonstrate that DoubleHelix achieves 0.68% WER on clean audio, outperforming previous best results by 5.6% relative improvement under matched backbone settings. Comprehensive ablation studies validate each component contribution, including targeted analysis of design choices such as asymmetric pathway weighting. The framework shows improved robustness under evaluated babble-noise conditions, achieving 11.6% WER at SNR -5dB.
+
+## Metadata
+- **Published**: 2026-07-31T07:40:59Z
+- **Authors**: Ziwei Cheng, Zhenhua Tan, Zhuomin Zhu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2607.29112v1)
