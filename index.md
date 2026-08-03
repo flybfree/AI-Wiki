@@ -4179,3 +4179,8 @@ tags: ['wiki']
 - [[2026-08-03_CriticalCVEissuedforhallucinatedSQLitevulnerabilit.md]] : Critical CVE issued for hallucinated SQLite vulnerability
 - [[2026-08-03_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
 - [[2026-08-03_Congress_sfavoriteAItool_ChatGPT.md]] : Congress’s favorite AI tool? ChatGPT
+- [[2026-08-03_ApplefinallyfixedSiri_Sowhydoesitfeelanticlimactic.md]] : Apple finally fixed Siri. So why does it feel anticlimactic?
+- [[2026-08-03_AWSishelpingvibe-codingstartupSuperblocks_andtheim.md]] : AWS is helping vibe-coding startup Superblocks, and the implications are big
+- [[2026-08-03_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-08-03_HowwebuiltarealtimesystemforresponsivevoiceAIinsix.md]] : How we built a realtime system for responsive voice AI in six months
+- [[2026-08-03_ThroneScienceraises_10MforAItoiletsensor_MobiHealt.md]] : Throne Science raises $10M for AI toilet sensor | MobiHealthNews
