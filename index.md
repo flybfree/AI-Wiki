@@ -4171,3 +4171,7 @@ tags: ['wiki']
 - [[2026-08-03_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-03_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-08-03_SamAltmanandAI_sdeceldebate.md]] : Sam Altman and AI’s decel debate
+- [[2026-08-03_News.md]] : News
+- [[2026-08-03_Don_tbeameatproxy.md]] : Don't be a meat proxy
+- [[2026-08-03_AMarcBenioff-backedstartupthinksAIcansolvetheAIdep.md]] : A Marc Benioff-backed startup thinks AI can solve the AI deployment problem
+- [[2026-08-03_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
