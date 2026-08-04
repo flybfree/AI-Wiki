@@ -4924,3 +4924,9 @@ tags: ['wiki']
 - [[2026-08-04_Applesaysmoreex-employeesmayhavetakenconfidentiald.md]] : Apple says more ex-employees may have taken confidential data to OpenAI
 - [[2026-08-04_Qwen-Image-2_0.md]] : Qwen-Image-2.0
 - [[2026-08-04_SpotifyexpandsAIremixandcoversprojectwithMerlinpar.md]] : Spotify expands AI remix and covers project with Merlin partnership
+- [[2026-08-04_NewwaystolearnandteachwithChatGPTWorkandCodex.md]] : New ways to learn and teach with ChatGPT Work and Codex
+- [[2026-08-04_HowanOpenAIinfluencertripbackfired.md]] : How an OpenAI influencer trip backfired
+- [[2026-08-04_AllofWinonaPoliceDepartment_sFlockcamerascutdownan.md]] : All of Winona Police Department's Flock cameras cut down and stolen
+- [[2026-08-04_Third-partycyberevaluationsinvolvingOpenAImodels.md]] : Third-party cyber evaluations involving OpenAI models
+- [[2026-08-04_Mistral_sShieldstral_3Bopen-weightsmodelformultimo.md]] : Mistral's Shieldstral: 3B open-weights model for multimodal moderation
+- [[2026-08-04_SpaceXhasbought_329MworthofTeslaMegapackssofarthis.md]] : SpaceX has bought $329M worth of Tesla Megapacks so far this year
