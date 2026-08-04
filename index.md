@@ -4918,3 +4918,9 @@ tags: ['wiki']
 - [[2026-08-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[2026-08-04_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
 - [[2026-08-04_CanRedditfendoffanewwaveofAISEOspam_.md]] : Can Reddit fend off a new wave of AI SEO spam?
+- [[2026-08-04_OpenAIdragsApple_slawsuitintothecourtofpublicopini.md]] : OpenAI drags Apple’s lawsuit into the court of public opinion
+- [[2026-08-04_Isthefutureofdatacentersportable_Runwarebuildsapod.md]] : Is the future of data centers portable? Runware builds a pod to find out
+- [[2026-08-04_DeepSeekV4FlashonaSingleAMDMI300X.md]] : DeepSeek V4 Flash on a Single AMD MI300X
+- [[2026-08-04_Applesaysmoreex-employeesmayhavetakenconfidentiald.md]] : Apple says more ex-employees may have taken confidential data to OpenAI
+- [[2026-08-04_Qwen-Image-2_0.md]] : Qwen-Image-2.0
+- [[2026-08-04_SpotifyexpandsAIremixandcoversprojectwithMerlinpar.md]] : Spotify expands AI remix and covers project with Merlin partnership
