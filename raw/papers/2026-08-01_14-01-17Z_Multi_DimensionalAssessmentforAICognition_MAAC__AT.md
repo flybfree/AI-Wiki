@@ -1,0 +1,18 @@
+---
+title: Multi-Dimensional Assessment for AI Cognition (MAAC): A Theoretical Framework for Process-Oriented Cognitive Evaluation of Text-Based AI Systems
+published: 2026-08-01T14:01:17Z
+authors: Abdalla Doleh, Ratna Babu Chinnam
+url: http://arxiv.org/abs/2608.00680v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Multi-Dimensional Assessment for AI Cognition (MAAC): A Theoretical Framework for Process-Oriented Cognitive Evaluation of Text-Based AI Systems
+
+## Abstract
+Evaluating artificial intelligence systems has historically relied on outcome-based benchmarks that measure task accuracy, robustness, or fairness. While indispensable, these benchmarks provide limited diagnostic insight into the underlying cognitive processes that generate performance-leaving critical questions unanswered about how AI systems reason, integrate memory, manage complexity, or avoid generating false information. This paper introduces the Multi-Dimensional Assessment for AI Cognition (MAAC), a theoretically grounded framework for shifting evaluation from what text-based AI systems produce to how they think. MAAC defines nine cognitively motivated dimensions: Cognitive Load, Tool Execution, Content Quality, Memory Integration, Complexity Handling, Hallucination Control, Knowledge Transfer, Processing Efficiency, and Process-Outcome Alignment. Each dimension is grounded in established cognitive science theory-drawing on Marr's tri-level hypothesis, Baddeley's working memory model, Sweller's cognitive load theory, and unified theories of cognition. Five theoretical analyses provide initial support for the framework's coherence and empirical testability: dimension-to-theory mapping; a coverage matrix assessing breadth and non-redundancy; a formal gap analysis relative to current evaluation practice; a worked diagnostic illustration; and a set of a priori interdependency predictions for future empirical testing. MAAC provides a theoretical and operational framework for principled process-level cognitive assessment of text-based AI systems, complementing existing outcome-based benchmarks with cognitively grounded, multi-dimensional evaluation.
+
+## Metadata
+- **Published**: 2026-08-01T14:01:17Z
+- **Authors**: Abdalla Doleh, Ratna Babu Chinnam
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.00680v1)

@@ -1,0 +1,18 @@
+---
+title: Caliber: Cross-Architecture Extraction-Cost Control for Score-Returning APIs
+published: 2026-08-02T05:58:00Z
+authors: Chi Wang, Hanwen Wang, Yu Xia, Zihan Wang, Guangdong Bai
+url: http://arxiv.org/abs/2608.01023v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Caliber: Cross-Architecture Extraction-Cost Control for Score-Returning APIs
+
+## Abstract
+We present Caliber, an output-perturbation defense against model extraction that formulates noise selection as a calibration problem: how much the defense degrades the supervision signal used to train a surrogate, and the provable per-input query cost of recovering the clean logits. To defend against an attacker that uses returned scores for knowledge distillation, Caliber adds independent and identically distributed Gaussian noise to the internal logits. We establish two properties of the resulting perturbed predictions. Monotone agreement degradation: When the clean logits have a unique maximizer, agreement with the clean prediction decreases strictly with the noise scale, so every target in $(1/K,1)$ corresponds to a unique positive scale; task accuracy is bounded by computable lower and upper envelopes. Per-input recovery cost: We derive a closed-form minimax lower bound on the repeated queries needed to recover the clean logits for a fixed input. Caliber normalizes noise variance by the squared median top-two logit margin and fits the resulting noise-utility relationship with a logistic curve, either per model or shared within a task. Across more than thirty model-dataset combinations, per-model calibration achieves mean absolute relative errors of 0.6-1.4%. End-to-end experiments show that surrogate performance generally tracks the configured degradation, while fixed-input averaging follows the expected variance reduction.
+
+## Metadata
+- **Published**: 2026-08-02T05:58:00Z
+- **Authors**: Chi Wang, Hanwen Wang, Yu Xia, Zihan Wang, Guangdong Bai
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.01023v1)

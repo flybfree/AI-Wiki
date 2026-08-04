@@ -1,0 +1,18 @@
+---
+title: ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step
+published: 2026-08-03T15:07:46Z
+authors: Vernon Toh, Navonil Majumder, Zhengyuan Liu, Nancy F. Chen, Soujanya Poria
+url: http://arxiv.org/abs/2608.02358v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step
+
+## Abstract
+To operate robustly in open-world environments, autonomous agents should be able to infer the behavior of unfamiliar systems through interaction alone, even in the absence of documentation. However, existing tool-use benchmarks expose semantic tool schemas in static environments, allowing agents to rely on prior knowledge rather than autonomous discovery. To address this limitation, we introduce ScrambleToolBench, an interactive terminal benchmark designed to isolate behavioral reasoning. By removing semantic cues and enforcing a continuous task curriculum, the benchmark requires agents to uncover hidden tool behaviors entirely through trial-and-error interaction. The benchmark further introduces dynamic challenges, including mapping drift, stochastic action failures, and temporal execution windows, to evaluate whether agents can revise and adapt their hypotheses as the environment changes. Our evaluation of state-of-the-art language models reveals that successful initial discovery does not translate into robust adaptation. When faced with structural changes such as mapping drift, agents fail to use deductive strategies such as cycle tracing, and instead exhibit belief inertia or fall back to exhaustive search. Increasing test-time reasoning only amplifies this expensive brute-force search rather than enabling deductive recovery. While equipping agents with persistent memory reduces compounding errors, they remain unable to efficiently infer structural changes, highlighting a gap in current agent reasoning.
+
+## Metadata
+- **Published**: 2026-08-03T15:07:46Z
+- **Authors**: Vernon Toh, Navonil Majumder, Zhengyuan Liu, Nancy F. Chen, Soujanya Poria
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.02358v1)

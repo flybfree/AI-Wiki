@@ -228,6 +228,723 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-07-30_20-51-51Z_AgenticCodingintheWild_CharacterizingGitHubCopilot.md]] : Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale
+- [[2026-07-31_18-05-36Z_Cross_BenchmarkGeneralizationinLong_HorizonAgents.md]] : Cross-Benchmark Generalization in Long-Horizon Agents
+- [[2026-07-30_19-29-22Z_LLMBDC_LanguageModelforBiologicalDomainsOrientedCl.md]] : LLMBDC: Language Model for Biological Domains Oriented Clustering of Gene Ontology
+- [[2026-07-31_18-09-46Z_SCALP_Semi_SupervisedStatisticalShapeModelingfromI.md]] : SCALP: Semi-Supervised Statistical Shape Modeling from Imperfect 3D Photogrammetry via Landmark-Anchored Spectral Warp
+- [[2026-07-30_17-12-18Z_LogographicCharacterVisualPretrainingviaSemantic_b.md]] : Logographic Character Visual Pretraining via Semantic-based Contrastive Learning
+- [[2026-08-02_11-00-41Z_Learning_BasedStochasticOptimalControlwithInfinite.md]] : Learning-Based Stochastic Optimal Control with Infinite-Horizon Probabilistic Constraints
+- [[2026-08-02_13-06-12Z_UsingNon_LipschitzSignum_basedFunctionsforDistribu.md]] : Using Non-Lipschitz Signum-based Functions for Distributed Optimization and Machine Learning: Trade-off Between Con-vergence Rate and Optimality Gap
+- [[2026-08-02_12-42-20Z_ReBRAC_v2_TheReturnoftheKing.md]] : ReBRAC-v2: The Return of the King
+- [[2026-08-03_00-00-40Z_Finite_ProbeTotal_VariationCertificatesforFinite_B.md]] : Finite-Probe Total-Variation Certificates for Finite-Basis Drifting Models
+- [[2026-08-02_17-33-30Z_TabDPT_Turbo_EfficientIn_ContextLearningforTabular.md]] : TabDPT-Turbo: Efficient In-Context Learning for Tabular Prediction
+- [[2026-08-01_13-49-46Z_Round_TripConsistency_BidirectionalDiffusionModels.md]] : Round-Trip Consistency: Bidirectional Diffusion Models Can Predict Their Own Rollout Errors
+- [[2026-08-03_12-01-18Z_Cross_DomainHybridOPDforGeneralizableSearchAgents.md]] : Cross-Domain Hybrid OPD for Generalizable Search Agents
+- [[2026-08-03_01-34-13Z_LieStoNet_LearningLieSymmetriesfromSpatiotemporalD.md]] : LieStoNet: Learning Lie Symmetries from Spatiotemporal Data for Stochastic Dynamical Systems
+- [[2026-08-02_18-10-01Z_ScoringRules_StatisticalandStrategicAlignmentforTe.md]] : Scoring Rules! Statistical and Strategic Alignment for Text Evaluation Metrics
+- [[2026-08-03_17-51-58Z_CoWAM_CoordinationContractsforSelectivePolicyInter.md]] : CoWAM: Coordination Contracts for Selective Policy Intervention with WAMs
+- [[2026-08-03_07-03-51Z_ReFP_AD_RectifiedFlowPreconditioningforEnergy_Base.md]] : ReFP-AD: Rectified Flow Preconditioning for Energy-Based Anomaly Detection
+- [[2026-08-02_18-14-40Z_TrainingSmallLLMsasSpatialMulti_AgentPolicies.md]] : Training Small LLMs as Spatial Multi-Agent Policies
+- [[2026-08-02_08-38-44Z_WhenCollaborationBecomesaTrigger_CollectiveEvidenc.md]] : When Collaboration Becomes a Trigger: Collective Evidence-Threshold Backdoors in Multi-Agent Systems
+- [[2026-08-03_16-12-29Z_FoundationsofReinforcementLearningandControl_Conne.md]] : Foundations of Reinforcement Learning and Control:Connections and New Perspectives
+- [[2026-08-03_03-22-37Z_AI_assistedScriptManagementforRequirementsElicitat.md]] : AI-assisted Script Management for Requirements Elicitation Interviews
+- [[2026-08-03_12-00-49Z_FromInformationtoDelegation_MappingHuman_AIFinanci.md]] : From Information to Delegation: Mapping Human-AI Financial Decision Making
+- [[2026-08-03_11-43-31Z_A2_BlockArchitectureforReal_TimeEEGGaitDecoding_AP.md]] : A 2-Block Architecture for Real-Time EEG Gait Decoding: A Pilot Study
+- [[2026-08-03_03-38-37Z_EvaluatingForecastingTechniquesforHardwareErrorson.md]] : Evaluating Forecasting Techniques for Hardware Errors on a Large-scale HPC System
+- [[2026-08-03_16-31-06Z_SyntaxMeetsSemantics_UnderstandingScientificFormul.md]] : Syntax Meets Semantics: Understanding Scientific Formulae
+- [[2026-08-03_17-39-45Z_RomanizedArabicAcrossDialects_Views_UsagePatterns_.md]] : Romanized Arabic Across Dialects: Views, Usage Patterns, and Linguistic Variation
+- [[2026-08-03_11-37-56Z_IsotonicBradley_TerryModelforPairedComparisonData.md]] : Isotonic Bradley-Terry Model for Paired Comparison Data
+- [[2026-08-01_18-45-10Z_Parisasa15_MinuteCity_AnExplainableAIPerspective.md]] : Paris as a 15-Minute City: An Explainable AI Perspective
+- [[2026-08-03_08-46-48Z_DiagnosingSearchBehaviorandFailureModesinLong_Hori.md]] : Diagnosing Search Behavior and Failure Modes in Long-Horizon Search Agents
+- [[2026-08-02_16-22-27Z_EviSD_Evidence_ConditionedSelf_DistillationforSear.md]] : EviSD: Evidence-Conditioned Self-Distillation for Search-Augmented Agents
+- [[2026-08-02_13-58-42Z_RestoreKV_RecoveringFull_CacheBehaviorUnderAggress.md]] : RestoreKV: Recovering Full-Cache Behavior Under Aggressive Query-Agnostic KV Cache Eviction
+- [[2026-08-03_14-35-38Z_AnEvidence_GroundedRetrieval_AugmentedTransformerF.md]] : An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification
+- [[2026-08-03_10-47-56Z_SecretsEverywhere_AuditingMemorizationinMobilityPr.md]] : Secrets Everywhere: Auditing Memorization in Mobility Prediction Models
+- [[2026-08-03_09-36-40Z_MusicRestorationviaLatentOperatorOptimizationandDi.md]] : Music Restoration via Latent Operator Optimization and Diffusion Model Priors
+- [[2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] : Cluster-Aware Over-the-Air Federated Learning with Energy-Harvesting Devices: From Global Training to Model Personalization
+- [[2026-08-02_08-44-25Z_BreakingDiversityCollapseinSpikingPseudo_Ensembles.md]] : Breaking Diversity Collapse in Spiking Pseudo-Ensembles for Efficient OOD Detection in Remote Sensing
+- [[2026-08-02_13-12-16Z_PerspectivesonTsallisStatisticsforArtificialIntell.md]] : Perspectives on Tsallis Statistics for Artificial Intelligence
+- [[2026-08-03_16-30-30Z_Aggregate_then_CalibrateforHuman_centeredAssessmen.md]] : Aggregate-then-Calibrate for Human-centered Assessment with Theoretical Guarantees
+- [[2026-08-02_03-05-54Z_Interpretablemachinelearningforpredictingsplitting.md]] : Interpretable machine learning for predicting splitting strength of asphalt concrete: insights from SHAP analysis
+- [[2026-08-02_06-53-49Z_UsingLower_BoundRepresentationsforTrajectorySimila.md]] : Using Lower-Bound Representations for Trajectory Similarity Learning
+- [[2026-07-31_22-00-35Z_TowardsGeneralLanguage_ConditionedLatentSafetyFilt.md]] : Towards General Language-Conditioned Latent Safety Filters
+- [[2026-08-03_17-28-12Z_InteractionIsNotNecessaryforOrder_Optimal1_BitMean.md]] : Interaction Is Not Necessary for Order-Optimal 1-Bit Mean Estimation
+- [[2026-08-03_11-44-09Z_PretrainingonCallGraphs_WhenBinaryAnalysisTasksPro.md]] : Pretraining on Call Graphs: When Binary Analysis Tasks Profit From Context
+- [[2026-08-03_08-57-43Z_TransNRank_TowardsAccurateNeoantigenRankingwithTra.md]] : TransNRank: Towards Accurate Neoantigen Ranking with Transformer
+- [[2026-08-03_06-41-38Z_LeveragingAIforfine_grainedfoodsafetyriskforecasti.md]] : Leveraging AI for fine-grained food safety risk forecasting in sparse data conditions
+- [[2026-08-01_21-11-01Z_PhenoStitch_Training_FreePanopticCropMappingfromSa.md]] : PhenoStitch: Training-Free Panoptic Crop Mapping from Satellite Image Time Series
+- [[2026-08-03_16-20-11Z_IntentionInferenceUnderExecutionNoise_SeparatingAl.md]] : Intention Inference Under Execution Noise: Separating Aleatoric and Epistemic Uncertainty in Social Dilemmas
+- [[2026-08-03_09-40-10Z_DetectingNonpropernessofLikelihoodEquations.md]] : Detecting Nonproperness of Likelihood Equations
+- [[2026-08-03_02-57-20Z_NottheDimension_theNorm_WhatMattersinGradient_Free.md]] : Not the Dimension, the Norm: What Matters in Gradient-Free Weight Perturbation of Language Models
+- [[2026-08-02_21-20-16Z_StochasticSequentialSearchinVery_High_DimensionalF.md]] : Stochastic Sequential Search in Very-High-Dimensional Feature Selection
+- [[2026-08-02_19-27-49Z_HowBenchmarksandEvaluationProtocolsShapeConclusion.md]] : How Benchmarks and Evaluation Protocols Shape Conclusions in Provenance-Based Intrusion Detection
+- [[2026-08-01_17-57-36Z_AnUncertainty_DrivenHybridDeepLearningApproachforB.md]] : An Uncertainty-Driven Hybrid Deep Learning Approach for Broad-Coverage RF Modulation Recognition
+- [[2026-08-01_05-10-02Z_StructuredProxyFeaturesforMultimodalNSCLCSurvivalP.md]] : Structured Proxy Features for Multimodal NSCLC Survival Prediction from Pretreatment CT
+- [[2026-08-02_17-20-01Z_LanguageEqualityhasaPrice_ASystematicInvestigation.md]] : Language Equality has a Price: A Systematic Investigation of Multi-turn LLM Performance for EU-24+
+- [[2026-08-02_19-38-56Z_LoudorSilent_AReusableFrameworkforPer_ModalityFail.md]] : Loud or Silent? A Reusable Framework for Per-Modality Failure Analysis in Multimodal Clinical AI
+- [[2026-08-02_12-09-37Z_SAFE_Merge_Data_FreeContinualModelMergingwithGener.md]] : SAFE-Merge: Data-Free Continual Model Merging with General Knowledge Preservation
+- [[2026-08-01_07-53-51Z_RecursiveGaussianProcessesandtheBayesianBrain.md]] : Recursive Gaussian Processes and the Bayesian Brain
+- [[2026-08-01_13-21-46Z_CausalInferencewithUnstructuredTreatments.md]] : Causal Inference with Unstructured Treatments
+- [[2026-08-01_01-59-12Z_TheGate_NottheCache_GateProvenanceBoundstheClosed_.md]] : The Gate, Not the Cache: Gate Provenance Bounds the Closed-Loop Reliability of Training-Free VLA Token Skipping
+- [[2026-08-02_10-21-58Z_PolicyOptimalityMeasurementforMulti_VehicleDecisio.md]] : Policy Optimality Measurement for Multi-Vehicle Decision-Making: From Extrinsic Indicators to Intrinsic Quality
+- [[2026-08-03_08-59-22Z_ProWorld_Progress_AwareHyperbolicWorldModelsforLon.md]] : ProWorld: Progress-Aware Hyperbolic World Models for Long-Horizon Visual Goal Reaching
+- [[2026-08-03_10-33-34Z_ConvexNeuralEnergyElements_MonolithicFinite_Elemen.md]] : Convex Neural Energy Elements: Monolithic Finite-Element Assembly of Geometry-Parameterized Neural Operators with Stability and Error Guarantees
+- [[2026-08-02_18-29-34Z_StatisticalMechanicsofLearningonProductWasserstein.md]] : Statistical Mechanics of Learning on Product Wasserstein Manifolds
+- [[2026-08-03_02-22-02Z_Post_TrainingonOfficeWorkImprovesSoftwareEngineeri.md]] : Post-Training on Office Work Improves Software Engineering: A Behavioral Account of Cross-Domain Transfer
+- [[2026-08-03_17-50-54Z_PseudorandomStreamswithinDiffusionModelsActasLearn.md]] : Pseudorandom Streams within Diffusion Models Act as Learnable Inputs That Affect Generation Quality
+- [[2026-08-03_03-25-34Z_StreamTalk_StreamingCo_SpeechGestureGenerationwith.md]] : StreamTalk: Streaming Co-Speech Gesture Generation with Key-Pose Anchoring
+- [[2026-08-03_13-58-35Z_AssessingtheImpactsofImperfectDatasetsonClientSele.md]] : Assessing the Impacts of Imperfect Datasets on Client Selections in Federated Learning
+- [[2026-07-31_22-10-47Z_Neuraloperatorlearningforcollision_awaretrajectory.md]] : Neural operator learning for collision-aware trajectory planning of spacecraft swarms
+- [[2026-08-02_02-47-44Z_RethinkingPPG_basedSleepStaging_Datasets_Metrics_a.md]] : Rethinking PPG-based Sleep Staging: Datasets, Metrics, and Benchmarks
+- [[2026-08-02_13-47-32Z_EvaluatingVLMsonMultimodalAristotelianPersuasionTa.md]] : Evaluating VLMs on Multimodal Aristotelian Persuasion Tasks
+- [[2026-08-03_07-32-10Z_PartMat_Material_Aware3DPartDecompositionwithaSing.md]] : PartMat: Material-Aware 3D Part Decomposition with a Single Global Latent
+- [[2026-08-03_16-47-14Z_PrivateGenerativeBootstrapviaBlocking.md]] : Private Generative Bootstrap via Blocking
+- [[2026-08-01_18-03-37Z_SoniSpeech_ALarge_ScaleOpen_VocabularyTri_ModalDat.md]] : SoniSpeech: A Large-Scale Open-Vocabulary Tri-Modal Dataset for Wearable Silent Speech Interfaces
+- [[2026-08-02_01-49-59Z_SubtypeRobustnessIsNotJustAccuracy_CalibrationUnde.md]] : Subtype Robustness Is Not Just Accuracy: Calibration Under Unseen Subtype Shift
+- [[2026-08-03_07-49-27Z_tFUSOperator_OperatorLearningforTranscranialFocuse.md]] : tFUSOperator: Operator Learning for Transcranial Focused Ultrasound Digital Twins
+- [[2026-08-03_12-50-16Z_EmpoweringCreditRiskDetectioninWeixinPaywithBillio.md]] : Empowering Credit Risk Detection in Weixin Pay with Billion-Scale Deep Graph Learning
+- [[2026-08-03_04-14-59Z_ProgressiveAgentSkillGenerationviaReinforcementLea.md]] : Progressive Agent Skill Generation via Reinforcement Learning
+- [[2026-08-03_08-06-39Z_BeyondMagnitudeandShape_ADirection_AwareLossforTim.md]] : Beyond Magnitude and Shape: A Direction-Aware Loss for Time Series Forecasting
+- [[2026-08-02_11-30-09Z_DifferentiableLiftingforTopologicalNeuralNetworks.md]] : Differentiable Lifting for Topological Neural Networks
+- [[2026-08-01_15-33-15Z_GeneratedImagesAreEasiertoForget_AMachineUnlearnin.md]] : Generated Images Are Easier to Forget: A Machine Unlearning Perspective for Synthetic Image Detection
+- [[2026-07-31_20-23-21Z_GeometricSelf_SupervisedPre_trainingforNeuralCombi.md]] : Geometric Self-Supervised Pre-training for Neural Combinatorial Optimization
+- [[2026-08-02_15-42-14Z_CanLanguageModelsIdentifyShadowTradingTargets_AnNL.md]] : Can Language Models Identify Shadow Trading Targets? An NLP Evaluation of SEC Enforcement Theory
+- [[2026-08-02_15-12-58Z_AlphaG_OPD_Reliability_GatedSiblingCounterfactuals.md]] : AlphaG-OPD: Reliability-Gated Sibling Counterfactuals for On-Policy Distillation in Symbolic Alpha Factor Discovery
+- [[2026-08-01_13-42-31Z_Band_CountDenseModalEstimationwithFixed_FrequencyD.md]] : Band-Count Dense Modal Estimation with Fixed-Frequency Differentiable Resonator Refinement
+- [[2026-08-03_03-56-33Z_AllocationBeforeRanking_DecoupledTokenCompressionf.md]] : Allocation Before Ranking: Decoupled Token Compression for OmniLLMs
+- [[2026-08-03_11-15-22Z_STEAM_ASpatio_TEmporalAlignmentMixture_of_ExpertsM.md]] : STEAM:ASpatio-TEmporal Alignment Mixture-of-Experts Model with Hierarchical Pre-training for EEG Decoding
+- [[2026-07-31_22-15-31Z_TrustandItsBetrayalunderThreeRepresentationalStrat.md]] : Trust and Its Betrayal under Three Representational Strategies
+- [[2026-08-01_10-12-58Z_CoSynFlow_ConformalSymplecticNeuralFlowsforCross_S.md]] : CoSynFlow: Conformal Symplectic Neural Flows for Cross-System Prediction of Dissipative Hamiltonian Dynamics
+- [[2026-08-03_17-57-01Z_TheCondition_NumberBarrierinSparseLeastSquares.md]] : The Condition-Number Barrier in Sparse Least Squares
+- [[2026-08-03_08-14-25Z_ProbabilisticDeepLearningforDroughtForecasting_Rol.md]] : Probabilistic Deep Learning for Drought Forecasting: Role of Internal Climate Variability
+- [[2026-08-02_12-21-00Z_HybridQuantumNeuralNetworks_Theory_Implementations.md]] : Hybrid Quantum Neural Networks: Theory, Implementations, and Applications
+- [[2026-08-03_14-52-46Z_DiffusionPolicywithBehavioralAdvantageCorrectionfo.md]] : Diffusion Policy with Behavioral Advantage Correction for Offline Reinforcement Learning
+- [[2026-08-01_16-07-25Z_MitigatingBackdoorsviaDecoyShortcutsandKnowledgeDe.md]] : Mitigating Backdoors via Decoy Shortcuts and Knowledge Decoupling
+- [[2026-08-03_04-48-54Z_Entity_AwareSequenceTransductionforPlayer_CentricB.md]] : Entity-Aware Sequence Transduction for Player-Centric Ball Action Spotting
+- [[2026-08-02_16-20-19Z_DoNeuralNetworksReallyBeattheCurseofDimensionality.md]] : Do Neural Networks Really Beat the Curse of Dimensionality? A Bit-Complexity View
+- [[2026-08-03_06-11-17Z_RL_Lock_ReinforcementLearningforGeneratingInterloc.md]] : RL-Lock: Reinforcement Learning for Generating Interlocking Assemblies
+- [[2026-08-03_04-12-02Z_UnderstandingSparseAttentionSelectivityinLong_Cont.md]] : Understanding Sparse Attention Selectivity in Long-Context Foundation Models via Counterfactual Evaluation
+- [[2026-08-03_14-11-38Z_AMulti_ObjectiveAutoML_basedEfficientIntrusionDete.md]] : A Multi-Objective AutoML-based Efficient Intrusion Detection System for EV Charging Networks
+- [[2026-08-02_18-17-35Z_WhenReplanningBecomestheBottleneck_BudgetedReplann.md]] : When Replanning Becomes the Bottleneck: Budgeted Replanning for Embodied Agents
+- [[2026-08-03_06-56-26Z_InvestigatingSocialBiasinNarrativeImageGeneration.md]] : Investigating Social Bias in Narrative Image Generation
+- [[2026-08-02_21-31-49Z_RapidEmbodimentAdaptationforQuadrupedalLocomotion.md]] : Rapid Embodiment Adaptation for Quadrupedal Locomotion
+- [[2026-07-31_19-41-55Z_Similarity_AwareMachineUnlearning.md]] : Similarity-Aware Machine Unlearning
+- [[2026-08-02_16-39-33Z_ImpreciseBeliefFusionImprovesMulti_agentSocialLear.md]] : Imprecise Belief Fusion Improves Multi-agent Social Learning
+- [[2026-08-03_04-04-56Z_SharpRootAnti_ConcentrationviaProjectiveIncidencea.md]] : Sharp Root Anti-Concentration via Projective Incidence and Ordered Root Laws
+- [[2026-08-03_04-42-28Z_ARM_Detector_AgnosticChangepointAttributionwithFin.md]] : ARM: Detector-Agnostic Changepoint Attribution with Finite-Sample Error Control
+- [[2026-07-31_21-16-20Z_WM_Cov_TestAdequacyforInteractiveWorld_Model_Style.md]] : WM-Cov: Test Adequacy for Interactive World-Model-Style Autonomous Driving Simulation
+- [[2026-08-02_23-58-37Z_DominantArmIdentificationwithMixingandRecyclingObs.md]] : Dominant Arm Identification with Mixing and Recycling Observed Samples
+- [[2026-08-02_17-11-09Z_KoVRE_TraininganEfficientEmbeddingModelforKoreanVi.md]] : KoVRE: Training an Efficient Embedding Model for Korean Visual Document Retrieval
+- [[2026-08-03_12-37-55Z_RamanPFN_learningfromRamanspectralstructurewithata.md]] : RamanPFN: learning from Raman spectral structure with a tabular foundation model
+- [[2026-08-03_07-44-57Z_TunnelingtheLossLandscape_BypassingMemorizationwit.md]] : Tunneling the Loss Landscape: Bypassing Memorization with Monte Carlo Parameter Swapping
+- [[2026-08-03_05-45-19Z_CENTILE_ATelemetryFoundationModelEvaluatedbytheDec.md]] : CENTILE: A Telemetry Foundation Model Evaluated by the Decisions It Drives
+- [[2026-08-02_16-04-57Z_402Pilot_Anx402DecisionLayerforAutonomousAgentMicr.md]] : 402Pilot: An x402 Decision Layer for Autonomous Agent Micropayments
+- [[2026-08-03_07-00-05Z_RadarDetectionintheCBRSBand_Techniques_Challenges_.md]] : Radar Detection in the CBRS Band: Techniques, Challenges, and Future Directions
+- [[2026-08-02_12-23-45Z_Reputation_drivenCooperationinLattice_basedDecentr.md]] : Reputation-driven Cooperation in Lattice-based Decentralized Federated Learning through Evolutionary Game Theory
+- [[2026-08-01_13-20-04Z_Simulation_BasedPlate_ReverbParameterEstimationfro.md]] : Simulation-Based Plate-Reverb Parameter Estimation from a Single Impulse Response
+- [[2026-08-02_00-27-01Z_LearningNottoOptimize_Physics_InformedAction_Space.md]] : Learning Not to Optimize: Physics-Informed Action-Space Reshaping for Intent-Based Network Control
+- [[2026-08-03_17-17-00Z_AnalyticPlanningunderUncertaintywithMomentClosure.md]] : Analytic Planning under Uncertainty with Moment Closure
+- [[2026-08-01_00-57-52Z_TensorProbabilisticModelCheckingofFinite_HorizonMa.md]] : Tensor Probabilistic Model Checking of Finite-Horizon Markov Chains (Extended Version)
+- [[2026-07-31_21-11-48Z_StabilizedBest_of__K_TrainingforNeuralCombinatoria.md]] : Stabilized Best-of-$K$ Training for Neural Combinatorial Optimization
+- [[2026-08-03_11-48-32Z_AnAI_BasedDecision_SupportPipelineforDay_AheadPhot.md]] : An AI-Based Decision-Support Pipeline for Day-Ahead Photovoltaic Forecasting
+- [[2026-07-31_21-42-50Z_OrEdge_EfficientMulti_ModalAnomalyDetectioninDistr.md]] : OrEdge: Efficient Multi-Modal Anomaly Detection in Distributed Software Systems via Orthogonal-Domain Learning
+- [[2026-08-02_05-23-26Z_FusedBayesianFlowNetworksforDual_TargetMolecularDe.md]] : Fused Bayesian Flow Networks for Dual-Target Molecular Design
+- [[2026-08-02_18-42-16Z_BeyondRoutingSaturation_ALong_HorizonClass_Increme.md]] : Beyond Routing Saturation: A Long-Horizon Class-Incremental Perspective on Expert Routing in Multimodal Continual Instruction Tuning
+- [[2026-08-02_06-55-43Z_OntheLimitsofMachine_LearnedRankingforModernMicroa.md]] : On the Limits of Machine-Learned Ranking for Modern Microarchitectural Policies
+- [[2026-08-03_00-48-05Z_DocNavRAG_Document_StructuredGraphRAGwithStatefulE.md]] : DocNavRAG: Document-Structured Graph RAG with Stateful Evidence Construction for Complex Document Question Answering
+- [[2026-08-02_12-06-46Z_Co_evolutionofsocialrewardandpunishmentunderinstit.md]] : Co-evolution of social reward and punishment under institutional interventions
+- [[2026-08-03_15-49-50Z_DeepLearning_BasedEstimationofGroundReactionForces.md]] : Deep Learning-Based Estimation of Ground Reaction Forces in Parkinsonian Gait Using an Optimized Set of IMU Data
+- [[2026-08-02_16-08-52Z_AgenticStage_OneStellaratorOptimization_Autonomous.md]] : Agentic Stage-One Stellarator Optimization: Autonomous Multi-Objective Search for Finite-Beta Equilibria
+- [[2026-08-01_12-38-55Z_RelativeParameterImportanceinTask_AgnosticReplay_F.md]] : Relative Parameter Importance in Task-Agnostic Replay-Free Continual Learning
+- [[2026-08-02_14-22-31Z_ACE_GraphRAG_AgenticContextEngineeringforHierarchi.md]] : ACE-GraphRAG: Agentic Context Engineering for Hierarchical GraphRAG
+- [[2026-08-02_08-46-38Z_FactorizedAdaBoost_MHAchievestheSameConvergenceRat.md]] : Factorized AdaBoost.MH Achieves the Same Convergence Rate as AdaBoost.MH
+- [[2026-08-03_17-04-43Z_CMuon_AcceleratingandStabilizingDiffusionTransform.md]] : CMuon: Accelerating and Stabilizing Diffusion Transformer Training via Chunked Momentum Orthogonalization
+- [[2026-08-03_03-54-17Z_Few_ShotConceptPromptLearningforSegmentationFounda.md]] : Few-Shot Concept Prompt Learning for Segmentation Foundation Models via Visual Grounding
+- [[2026-08-03_09-09-34Z_SemanticNetworksasClues_ATheoreticalFoundationandP.md]] : Semantic Networks as Clues: A Theoretical Foundation and Process Optimization for Semantic Network Construction
+- [[2026-08-03_17-28-17Z_ASimpleApproximationtotheDistributionoftheRidgeReg.md]] : A Simple Approximation to the Distribution of the Ridge Regression Estimator
+- [[2026-07-31_17-56-30Z_TokTier_ExactStatefulCPU_GPUTokenizationforAgentic.md]] : TokTier: Exact Stateful CPU+GPU Tokenization for Agentic LLM Serving
+- [[2026-08-03_15-43-14Z_NetworkInformationEnhancesUnreliableNewsDomainDete.md]] : Network Information Enhances Unreliable News Domain Detection
+- [[2026-08-02_14-47-39Z_TrainingnGPT.md]] : Training nGPT
+- [[2026-08-03_15-01-00Z_Self_SupervisedRepresentationsforBinaryProgramClus.md]] : Self-Supervised Representations for Binary Program Clustering: From Empirical Study to Retrieval-Augmented Learning
+- [[2026-08-02_00-51-44Z_UpliftBench_RevealingOutcome_RegimeandObjectiveMis.md]] : UpliftBench: Revealing Outcome-Regime and Objective Mismatch in Uplift Evaluation
+- [[2026-08-03_14-21-07Z_ExtendedFieldofViewAnalysisforVideoGAN_basedTrajec.md]] : Extended Field of View Analysis for VideoGAN-based Trajectory Generation
+- [[2026-07-31_23-28-11Z_EnsembleofUnsupervisedDeepLearningforClusteringImb.md]] : Ensemble of Unsupervised Deep Learning for Clustering Imbalanced Tabular Data
+- [[2026-08-02_16-13-21Z_SpatiotemporalProximalCausalInferenceunderHiddenCo.md]] : Spatiotemporal Proximal Causal Inference under Hidden Confounding and Interference
+- [[2026-08-03_02-44-02Z_ThermalizingStochasticPrograms.md]] : Thermalizing Stochastic Programs
+- [[2026-08-02_14-45-18Z_LatentSoftmaxforData_EfficientPhoneme_BasedMultili.md]] : Latent Softmax for Data-Efficient Phoneme-Based Multilingual ASR Across Tonal and Non-Tonal Languages
+- [[2026-08-03_06-20-23Z_ConstructingParallelMultidimensionalChromaticLexic.md]] : Constructing Parallel Multidimensional Chromatic Lexicons for Corpus-Assisted Analysis of Russian and English Texts
+- [[2026-08-03_02-06-29Z_HindSearch_Trajectory_LevelHindsightCritiqueforSea.md]] : HindSearch: Trajectory-Level Hindsight Critique for Search-Augmented Reinforcement Learning
+- [[2026-08-03_15-23-42Z_ChessonIce_CurlingTacticalDecision_MakingviaBackwa.md]] : Chess on Ice: Curling Tactical Decision-Making via Backward Induction and Deep Reinforcement Learning
+- [[2026-08-02_18-26-04Z_PolymerGPT_Multi_propertyOptimizationwithaDecoder_.md]] : PolymerGPT: Multi-property Optimization with a Decoder-Based GPT Model for Generative Polymer Design
+- [[2026-08-01_07-32-39Z_TheBayesianReflex_APredictiveCodingEngineforArtifi.md]] : The Bayesian Reflex: A Predictive Coding Engine for Artificial Intelligence
+- [[2026-08-01_02-46-52Z_ModelingUnknownNonlocalPDESystemsviaFlowMapLearnin.md]] : Modeling Unknown Nonlocal PDE Systems via Flow Map Learning
+- [[2026-08-03_05-38-47Z_WhenExtremeDarknessMeetsMotionBlur_MeanFlowforUnif.md]] : When Extreme Darkness Meets Motion Blur: MeanFlow for Unified RAW Restoration
+- [[2026-08-03_06-48-32Z_Multi_SourceDynamicGraphLearningforCompound_FloodF.md]] : Multi-Source Dynamic Graph Learning for Compound-Flood Forecasting in Managed Coastal Systems
+- [[2026-08-01_11-56-50Z_Fromfield_scaletolarge_scalespectrallibraries_Tabu.md]] : From field-scale to large-scale spectral libraries: Tabular foundation models in soil spectroscopy
+- [[2026-08-03_15-52-22Z_Human_CenteredReflectionsonCareRobots_AComparative.md]] : Human-Centered Reflections on Care Robots: A Comparative Study of Caregiver Perspectives
+- [[2026-08-03_16-23-49Z_AdvancingRelevanceMeasurementwithVision_LanguageMo.md]] : Advancing Relevance Measurement with Vision-Language Models for Web-Scale Search
+- [[2026-08-03_02-09-39Z_Latent_RegimeBiasAuditingforVolatilityForecasting.md]] : Latent-Regime Bias Auditing for Volatility Forecasting
+- [[2026-08-02_15-39-26Z_Sheaf_theoreticSignalProcessingonGraphs_SpectralTh.md]] : Sheaf-theoretic Signal Processing on Graphs: Spectral Theory, Filtering, and Sampling
+- [[2026-08-02_14-03-57Z_AdaHAT_AdaptiveHardAttentiontotheTaskinTask_Increm.md]] : AdaHAT: Adaptive Hard Attention to the Task in Task-Incremental Learning
+- [[2026-08-03_17-35-31Z_WhoShouldBeGenerated_JustifyingDemographicTargetsi.md]] : Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation
+- [[2026-08-02_12-48-24Z_Climate_DynaDeepHedgingforXVAs_Model_BasedReinforc.md]] : Climate-Dyna Deep Hedging for XVAs: Model-Based Reinforcement Learning, Residual Climate HVA, and Hedge-Instrument Discovery
+- [[2026-08-01_21-10-24Z_ExplainableHybridFeatureSelectionforIntrusionDetec.md]] : Explainable Hybrid Feature Selection for Intrusion Detection in Internet of Medical Things Environments
+- [[2026-08-03_12-52-39Z_CARNet_Channel_AdaptiveReceiverNetworkforRobustNex.md]] : CARNet: Channel-Adaptive Receiver Network for Robust NextG Communications
+- [[2026-08-02_10-05-50Z_MA_HEAD_Net_AdaptiveRule_GuidedMulti_AgentDRLforAo.md]] : MA-HEAD-Net: Adaptive Rule-Guided Multi-Agent DRL for AoI Minimization in UAV-Assisted Emergency Networks
+- [[2026-08-03_11-50-06Z_OneQKChannel_ManySources_GuardingLow_PrecisionAtte.md]] : One QK Channel, Many Sources: Guarding Low-Precision Attention Collapse
+- [[2026-08-01_03-02-15Z_LOCUS_DT_LocalizationviaObservation_ConditionedUnc.md]] : LOCUS-DT: Localization via Observation-Conditioned Uncertainty Scoring with Digital Twins
+- [[2026-08-02_13-38-41Z_CT_PrepAgent_BoundedPolicyandControlledExecutionfo.md]] : CT-PrepAgent: Bounded Policy and Controlled Execution for Adaptive CT Data Preparation
+- [[2026-08-03_17-51-40Z_SmoothReparameterizationsofFunctionsonSimplicialPr.md]] : Smooth Reparameterizations of Functions on Simplicial Product Spaces: Applications to Probabilistic Tensor Decomposition and Functional Data Registration
+- [[2026-08-03_17-07-41Z_BeyondModernAsymptoticsforLog_LikelihoodRatiosinLo.md]] : Beyond Modern Asymptotics for Log-Likelihood Ratios in Logistic Regression
+- [[2026-08-03_00-18-53Z_GeneralizedQuadraticGradient_ANewDirectioninOptimi.md]] : Generalized Quadratic Gradient: A New Direction in Optimization via the Fusion of Positive-Definite Curvature Matrices and Gradients into A Unified Framework
+- [[2026-08-03_14-52-08Z_Context_AwareMixtureofDomainExpertsforBodilyExpres.md]] : Context-Aware Mixture of Domain Experts for Bodily Expression of Emotion in the Wild
+- [[2026-08-02_17-08-21Z_WhyFormalMonitorsFail_AttackDistributionEntropyasa.md]] : Why Formal Monitors Fail: Attack Distribution Entropy as a Coverage Bound for LTL-Based LLM Agent Safety
+- [[2026-08-03_17-24-27Z_UncertaintyIsNotEnough_Value_of_InformationRouting.md]] : Uncertainty Is Not Enough: Value-of-Information Routing for Mixtures of LoRA Experts
+- [[2026-08-03_14-27-58Z_TrajectoriesThatSegmentThemselves_Agent_DeclaredBo.md]] : Trajectories That Segment Themselves: Agent-Declared Boundaries as a Training Unit
+- [[2026-08-01_02-55-14Z_DSETA_ADual_StageContinualLearningFrameworkforTrav.md]] : DSETA: A Dual-Stage Continual Learning Framework for Travel Time Prediction in Dynamic Traffic Environments
+- [[2026-08-03_15-21-45Z_Gecko_FastPrivateInferenceviaSecurePublicEncoderOf.md]] : Gecko: Fast Private Inference via Secure Public Encoder Offloading
+- [[2026-08-02_11-36-08Z_HybridLagrangian_EulerianModelforLagrangianFluidSi.md]] : Hybrid Lagrangian-Eulerian Model for Lagrangian Fluid Simulation
+- [[2026-08-03_08-36-10Z_UnderstandingandCorrectingLow_FrequencyBiasinEEGFo.md]] : Understanding and Correcting Low-Frequency Bias in EEG Foundation Model
+- [[2026-08-03_09-27-33Z_FAST_GS_FrequencyAwareSpace_timeGaussianSplattingf.md]] : FAST-GS: Frequency Aware Space-time Gaussian Splatting for Photorealistic Dynamic Novel View Synthesis
+- [[2026-08-03_07-52-55Z_WorldDynCache_Risk_ControlledLatentDynamicsApproxi.md]] : WorldDynCache: Risk-Controlled Latent Dynamics Approximation for Diffusion World Model
+- [[2026-08-03_12-56-19Z_RandomizedAlgorithmsforLearningPartitionswithNearO.md]] : Randomized Algorithms for Learning Partitions with Near Optimal Query Complexity in Constant Rounds
+- [[2026-08-01_11-12-39Z_Uncertainty_guidedactivelearningforsurrogatepredic.md]] : Uncertainty-guided active learning for surrogate prediction of stream-finishing wear fields
+- [[2026-08-02_12-37-38Z_Fruit_HSNet_AMachineLearningApproachforHyperspectr.md]] : Fruit-HSNet: A Machine Learning Approach for Hyperspectral Image-Based Fruit Ripeness Prediction
+- [[2026-08-02_15-07-21Z_UDT_ReconcilingU_NetsandDiffusionTransformerswithD.md]] : UDT: Reconciling U-Nets and Diffusion Transformers with Data-Adaptive Token Reduction
+- [[2026-08-01_11-38-17Z_BeyondLanes_TrafficFlowDynamicsinDisorderedConditi.md]] : Beyond Lanes: Traffic Flow Dynamics in Disordered Conditions Based on High-Resolution Trajectory Data
+- [[2026-08-02_06-27-55Z_TheFourthQuadrant_AStylizedViewofBenignMisfitting.md]] : The Fourth Quadrant: A Stylized View of Benign Misfitting
+- [[2026-08-02_10-57-53Z_UniHEAR_UnifiedHeterogeneous_SourceAttentiveRetrie.md]] : UniHEAR: Unified Heterogeneous-Source Attentive Retrieval for Knowledge-Based Visual Question Answering
+- [[2026-08-02_08-11-10Z_CharacterizingBiasinPost_BanditInferenceunderIndex.md]] : Characterizing Bias in Post-Bandit Inference under Index Algorithms
+- [[2026-08-03_11-08-58Z_Geometry_GuidedLayerwiseFFNWidthAllocationinTransf.md]] : Geometry-Guided Layerwise FFN Width Allocation in Transformers
+- [[2026-08-02_16-33-27Z_AskingQuestionstheRightWay_AMulti_AgentConversatio.md]] : Asking Questions the Right Way: A Multi-Agent Conversational System for Prompt Formulation in Complex Task Resolution
+- [[2026-08-03_15-47-49Z_Fromfragmenteddatatoactionabledesign_Physics_calib.md]] : From fragmented data to actionable design: Physics-calibrated learning for plastic upcycling
+- [[2026-08-03_02-58-49Z_QWRF_Net_AQuantum_WaveletFrameworkwithRectifiedFlo.md]] : QWRF-Net: A Quantum-Wavelet Framework with Rectified Flow for Short-Term Precipitation Nowcasting
+- [[2026-08-03_17-26-54Z_OptimalUnambiguousDNFsandAlon_Saks_Seymour.md]] : Optimal Unambiguous DNFs and Alon-Saks-Seymour
+- [[2026-07-31_18-52-27Z_APhysics_Chemistry_InformedNeuralNetwork_PCINN_for.md]] : A Physics-Chemistry-Informed Neural Network (PCINN) for Real-Time Spatial-ALD Coverage Prediction and Reliable Kinetics Inversion
+- [[2026-08-01_07-28-39Z_HP_JEPA_HierarchicalPartitioningforMulti_Resolutio.md]] : HP-JEPA: Hierarchical Partitioning for Multi-Resolution Graph Joint-Embedding Predictive Learning
+- [[2026-08-01_20-16-53Z_HyperODE_Zero_ShotSurrogateforSimulationandInferen.md]] : HyperODE: Zero-Shot Surrogate for Simulation and Inference of Dynamical Systems
+- [[2026-08-03_08-15-40Z_NoOneWinsinNuclearWar_ASocialSimulationofMilitaryD.md]] : No One Wins in Nuclear War: A Social Simulation of Military Decision-making
+- [[2026-08-03_06-00-44Z_DAPD_Dual_AnchoredPolicyDistillation.md]] : DAPD: Dual-Anchored Policy Distillation
+- [[2026-08-03_16-38-47Z_Action_groundedtissueaffordanceenablesanticipatory.md]] : Action-grounded tissue affordance enables anticipatory auto-framing that lowers surgeon cognitive workload during laparoscopic surgery
+- [[2026-08-02_20-28-14Z_InterpretableMEGDecodingofPerceivedSpeech_Cortical.md]] : Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval
+- [[2026-08-02_19-23-54Z_DynamicManip_EnablingDynamicManipulationfromaSingl.md]] : DynamicManip: Enabling Dynamic Manipulation from a Single Static Demonstration
+- [[2026-08-02_17-49-07Z_NoSingleNeuronofFailure_DistributedSafetyAlignment.md]] : No Single Neuron of Failure: Distributed Safety Alignment Against White-Box Attacks
+- [[2026-08-02_20-19-56Z_SweetLittleLies_StrategicDeceptioninAIEmotionalSup.md]] : Sweet Little Lies: Strategic Deception in AI Emotional Support Chatbots
+- [[2026-08-03_04-14-27Z_GenerativeBrownianBridgeDiffusionInMotionSpaceForE.md]] : Generative Brownian Bridge Diffusion In Motion Space For Enhanced Myocardial Strain Analysis
+- [[2026-08-02_19-50-15Z_ComputingwithAgenticOracles.md]] : Computing with Agentic Oracles
+- [[2026-08-03_12-42-55Z_LosslessTensorCompressionasProgramSynthesis.md]] : Lossless Tensor Compression as Program Synthesis
+- [[2026-08-02_10-12-42Z_WhenDoSurrogateUpdatesImproveDecisions_ALocalTheor.md]] : When Do Surrogate Updates Improve Decisions? A Local Theory of Trajectory-Wise Transfer
+- [[2026-08-02_18-26-33Z_ANewTheoryofValueforPost_AGIEconomics.md]] : A New Theory of Value for Post-AGI Economics
+- [[2026-07-31_18-06-58Z_Evidence_UnitFairnessandtheLimitsofQuery_AdaptiveS.md]] : Evidence-Unit Fairness and the Limits of Query-Adaptive Sparse-Dense Fusion in Financial Document Retrieval
+- [[2026-08-02_18-08-56Z_QR_Erase_EfficientSubspace_BasedMachineUnlearningw.md]] : QR-Erase: Efficient Subspace-Based Machine Unlearning with Layer Localization
+- [[2026-08-02_15-45-54Z_ContextCompactionTheory.md]] : Context Compaction Theory
+- [[2026-08-01_20-28-08Z_Partially_ObservableTransmissionControlforUAV_Enab.md]] : Partially-Observable Transmission Control for UAV-Enabled Federated Learning in IoT Networks
+- [[2026-08-01_19-30-15Z_NonlinearLaplaciansImproveSigned_DirectedGraphLear.md]] : Nonlinear Laplacians Improve Signed-Directed Graph Learning
+- [[2026-08-03_06-08-30Z_DisagreetoAccelerate_ClosingtheLooponDiffusionFeat.md]] : Disagree to Accelerate: Closing the Loop on Diffusion Feature Forecasts
+- [[2026-08-03_12-09-50Z_IACM_RL_Intent_AwareContextManagementandReinforcem.md]] : IACM-RL: Intent-Aware Context Management and Reinforcement Learning for Complex Tool Invocation under Dynamic Intent Fluctuations
+- [[2026-08-03_08-50-07Z_Finite_TimeAnalysisofDiscountedExponential_Utility.md]] : Finite-Time Analysis of Discounted Exponential-Utility Reinforcement Learning
+- [[2026-08-02_08-18-56Z_Logit_OriginCenteringforSingletonTest_TimeAdaptati.md]] : Logit-Origin Centering for Singleton Test-Time Adaptation
+- [[2026-08-03_14-09-34Z_Self_CertificationofRepresentationAdequacy_Sequent.md]] : Self-Certification of Representation Adequacy: Sequential Certification at Minimum Task Loss
+- [[2026-08-03_16-55-50Z_Long_termMeasurements_TowardsaLongitudinalUndersta.md]] : Long-term Measurements: Towards a Longitudinal Understanding of Human-AI Interactions
+- [[2026-08-02_17-34-19Z_DemystifyingWhenandWhyVLAsFailinContact_RichTasksa.md]] : Demystifying When and Why VLAs Fail in Contact-Rich Tasks and How to Fix Them
+- [[2026-08-03_15-18-05Z_ASpectralFilteringApproachtoRegretAnalysisofDistri.md]] : A Spectral Filtering Approach to Regret Analysis of Distributed Online Control for Linear Dynamical Systems
+- [[2026-08-02_18-37-44Z_Sameviolence_differentanswer_howAIrespondstocoerci.md]] : Same violence, different answer: how AI responds to coercive control against women across languages
+- [[2026-08-03_10-47-05Z_TextNCA_NeuralCellularAutomataforLanguageModelingv.md]] : TextNCA: Neural Cellular Automata for Language Modeling via Hierarchical Local Attention
+- [[2026-08-02_14-53-41Z_ActiveRegressionforSingle_IndexModelswithUnknownLi.md]] : Active Regression for Single-Index Models with Unknown Link Functions
+- [[2026-08-03_09-25-42Z_LookAheadBeforeYouDistill_FutureTrajectoryValidati.md]] : Look Ahead Before You Distill: Future Trajectory Validation of Teacher Guidance for Agentic On-Policy Distillation
+- [[2026-08-02_14-21-58Z_Howfineachangecanmomentssee_Ascalelawfordetectingd.md]] : How fine a change can moments see? A scale law for detecting distribution shift, with a kernel calibration rule
+- [[2026-07-31_23-27-39Z_ORCA_ORgan_CentroidAggregationforTraining_Free3DCT.md]] : ORCA: ORgan-Centroid Aggregation for Training-Free 3D CT Visual Token Compression
+- [[2026-08-03_15-11-44Z_GLAIM_LearningGlobalandLocalAdaptiveInter_Variable.md]] : GLAIM: Learning Global and Local Adaptive Inter-Variable Dependency for Multivariate Time Series Imputation
+- [[2026-08-03_12-23-44Z_CardiovascularDigitalTwinsfromPhysicsBasedtoDataDr.md]] : Cardiovascular Digital Twins from Physics Based to Data Driven Approaches
+- [[2026-08-02_17-06-02Z_OntheIdentifiabilityofMaskedPrediction_ModeBlindne.md]] : On the Identifiability of Masked Prediction: Mode Blindness and Mask Schedules
+- [[2026-08-03_11-15-31Z_Feed_ForwardSteeringinTransformerResidualDynamics.md]] : Feed-Forward Steering in Transformer Residual Dynamics
+- [[2026-08-03_10-30-56Z_Upper_ExpectileMulti_StepQ_LearningforOff_PolicyRe.md]] : Upper-Expectile Multi-Step Q-Learning for Off-Policy Reinforcement Learning
+- [[2026-08-02_20-07-28Z_VGER_Voxel_GuidedGlobalEventRankingforEventCloudAt.md]] : VGER: Voxel-Guided Global Event Ranking for Event Cloud Attribution
+- [[2026-08-02_16-57-05Z_CraftAlign_Feature_GroundedEvaluationandRevisionGu.md]] : CraftAlign: Feature-Grounded Evaluation and Revision Guidance for AI Stories
+- [[2026-08-02_02-24-57Z_xMICD_ExplainableRepresentationofMultipleICDCodes.md]] : xMICD: Explainable Representation of Multiple ICD Codes
+- [[2026-08-03_07-58-06Z_Physics_InformedNeuralNetworksforComplexEigenfrequ.md]] : Physics-Informed Neural Networks for Complex Eigenfrequency Identification and Mode Structure Reconstruction of the Ground-State ITG Branch
+- [[2026-08-02_16-59-29Z_WhenMayaModelReplacetheExperiment_Audits_Licenses_.md]] : When May a Model Replace the Experiment? Audits, Licenses, and the Price of Trust in Surrogate-Driven Design
+- [[2026-08-02_21-36-59Z_DeepAgenticSearchforRepository_LevelCodeQuestionAn.md]] : Deep Agentic Search for Repository-Level Code Question Answering: An Empirical Study
+- [[2026-08-03_17-54-11Z_UEmbed_UnifiedSparseandDenseMultimodalEmbeddings.md]] : UEmbed: Unified Sparse and Dense Multimodal Embeddings
+- [[2026-08-03_11-07-37Z_Cross_FittedResidualUtilityforPrimary_PreservingCo.md]] : Cross-Fitted Residual Utility for Primary-Preserving Cognitive Decision Correction in Automatic Modulation Classification
+- [[2026-07-31_20-42-00Z_HybridAttentionEstimationPipelineforAdaptiveHRIUsi.md]] : Hybrid Attention Estimation Pipeline for Adaptive HRI Using an Expressive Robotic Head
+- [[2026-08-02_13-03-48Z_AmortizingtheCalibrationTriple_AProjection_Consist.md]] : Amortizing the Calibration Triple: A Projection-Consistent Neural Operator for Local-Stochastic Volatility
+- [[2026-08-01_15-02-13Z_AugmentedInverseHybridWeighting_RobustInferenceund.md]] : Augmented Inverse Hybrid Weighting: Robust Inference under Deterministic and Random Distribution Shifts
+- [[2026-08-01_20-11-21Z_AdaptiveQuantumPhysics_InformedNeuralNetworksforDi.md]] : Adaptive Quantum Physics-Informed Neural Networks for Differential Equations with Applications to Fluid Dynamics
+- [[2026-08-02_15-10-44Z_RankingImageFusiontheWayHumansDo_ALearnedPairwiseP.md]] : Ranking Image Fusion the Way Humans Do: A Learned Pairwise Preference Metric for Infrared-Visible Fusion Assessment
+- [[2026-08-02_08-48-07Z_Inter_ResidueGeometryAttentionforAntibody_Specific.md]] : Inter-Residue Geometry Attention for Antibody-Specific Epitope Prediction
+- [[2026-08-03_15-20-36Z_Token_NativeStorage_ReadandWriteinyourAgent_sLangu.md]] : Token-Native Storage: Read and Write in your Agent's Language
+- [[2026-08-01_15-41-55Z_Experience_CalibratedContrastiveDecodingforMitigat.md]] : Experience-Calibrated Contrastive Decoding for Mitigating Hallucinations in LM-Based Text-to-Speech
+- [[2026-08-02_12-18-00Z_HumansAreMoreDiverse_FrontierLLMsShowExtremePolici.md]] : Humans Are More Diverse: Frontier LLMs Show Extreme Policies in Idealised AI Development Races
+- [[2026-08-02_11-58-17Z_TalkingtoDigitalTwins_SelectiveDisclosureandBelief.md]] : Talking to Digital Twins: Selective Disclosure and Belief Measurement in Financial Social Media
+- [[2026-08-03_13-39-25Z_PosterMELD_Multi_AgentPaper_to_PosterGenerationfor.md]] : PosterMELD: Multi-Agent Paper-to-Poster Generation for Controllable Design Diversity with Editable Print-Ready Outputs
+- [[2026-08-01_03-39-57Z_Mask_BasedPriorsAreMorePersistentthanQuery_KeyInit.md]] : Mask-Based Priors Are More Persistent than Query-Key Initializations
+- [[2026-08-02_20-49-59Z_BiKAN_RestoringCollapsedBasisofBinaryKolmogorov__A.md]] : BiKAN: Restoring Collapsed Basis of Binary Kolmogorov--Arnold Networks
+- [[2026-08-01_03-01-09Z_GeneOntology_GuidedHierarchicalSpatialGeneExpressi.md]] : Gene Ontology-Guided Hierarchical Spatial Gene Expression Prediction from Histopathology Images
+- [[2026-08-02_04-39-27Z_Model_AgnosticFDRControlviaGroupGaussianMirrorandP.md]] : Model-Agnostic FDR Control via Group Gaussian Mirror and Permutation SHAP
+- [[2026-08-03_10-42-49Z_DéjàCue_LocalizingStatesinObjectHistoriesviaVocabu.md]] : Déjà Cue: Localizing States in Object Histories via Vocabulary-Relative Coordinates
+- [[2026-08-03_15-11-21Z_Faster_WAM_DoWorldActionModelsNeedDeepActionModule.md]] : Faster-WAM: Do World Action Models Need Deep Action Modules?
+- [[2026-08-03_07-28-24Z_ReassessingtheFeasibilityofPPG_BasedNon_InvasiveBl.md]] : Reassessing the Feasibility of PPG-Based Non-Invasive Blood Glucose Level Estimation
+- [[2026-08-01_00-18-59Z_ArtificialIntelligencefortheCharacterizationofPart.md]] : Artificial Intelligence for the Characterization of Particles and Fibers by Optical Microscopy
+- [[2026-08-02_08-50-52Z_FL_OA_AByzantine_RobustFederatedLearningFrameworkw.md]] : FL-OA: A Byzantine-Robust Federated Learning Framework with Outsourced Auditing for Intelligent Devices
+- [[2026-08-02_03-01-03Z_Data_DrivenPinball_LossSelectionforVerticallyDistr.md]] : Data-Driven Pinball-Loss Selection for Vertically Distributed Elastic-Net SVMs
+- [[2026-08-01_12-24-54Z_RHEA_Reliability_HarmonizedReconstructionandAssign.md]] : RHEA: Reliability-Harmonized Reconstruction and Assignment for Robust Multimodal-Attributed Graph Clustering
+- [[2026-08-03_04-45-52Z_BeckmannTransportModels_FromAutonomousFlowstoOne_S.md]] : Beckmann Transport Models: From Autonomous Flows to One-Step Maps
+- [[2026-08-03_16-10-29Z_WassersteinmixingtimeoftheunadjustedLangevinalgori.md]] : Wasserstein mixing time of the unadjusted Langevin algorithm
+- [[2026-08-01_21-45-29Z_ASequence_to_SequenceConvLSTMApproachforLeafAreaIn.md]] : A Sequence-to-Sequence ConvLSTM Approach for Leaf Area Index Forecasting over the South-Central United States
+- [[2026-08-01_15-31-14Z_StagedMulti_AgentTraining_SMAT_forHipExoskeletons_.md]] : Staged Multi-Agent Training (SMAT) for Hip Exoskeletons: Metabolic and Biomechanical Validation of a Simulation-Trained Co-Adaptive Controller
+- [[2026-08-02_15-41-31Z_DenseLanguageGenerationMadeSimple_Deterministic_Ra.md]] : Dense Language Generation Made Simple: Deterministic, Randomized, and Multi-Order Algorithms
+- [[2026-08-03_16-53-29Z_ComputationalandStatisticalGuaranteesofthe_textit_.md]] : Computational and Statistical Guarantees of the \textit{c}-Rectified flow
+- [[2026-08-02_14-47-16Z_RiemannianAttentionMechanismsforTransformers_ATheo.md]] : Riemannian Attention Mechanisms for Transformers: A Theoretical Framework and Architecture Design
+- [[2026-08-03_11-59-51Z_DeGS_AScalable3DGSArchitectureviaDecoupledWorkload.md]] : DeGS: A Scalable 3DGS Architecture via Decoupled Workload Parsing and Reorganization
+- [[2026-08-03_07-28-00Z_PredictiveMaintenance_DeepLearning_BasedRemainingU.md]] : Predictive Maintenance: Deep Learning-Based Remaining Useful Life Prediction for Combat Aircraft Engines
+- [[2026-08-03_14-01-44Z_Homebot_APersonalAIAgentforConversationalHomeAssis.md]] : Homebot: A Personal AI Agent for Conversational Home Assistance and Automation
+- [[2026-08-03_12-31-12Z_UniqueSplat_View_conditioned3DGaussianSplattingfor.md]] : UniqueSplat: View-conditioned 3D Gaussian Splatting for Generalizable 3D Reconstruction
+- [[2026-08-03_02-46-17Z_OnlineAlgorithmsviaMinimaxandPosteriorMatching.md]] : Online Algorithms via Minimax and Posterior Matching
+- [[2026-08-02_11-53-32Z_WhenWordsDivide_DiachronicIdeologicalPolarizationi.md]] : When Words Divide: Diachronic Ideological Polarization in Political Discourse on Social Media
+- [[2026-08-02_16-25-08Z_High_StakesDecisionswithLanguageModels_Insightsfro.md]] : High-Stakes Decisions with Language Models: Insights from Emergency Triage
+- [[2026-08-03_03-47-30Z_Non_KKTAccumulationinEntropicMirrorDescent.md]] : Non-KKT Accumulation in Entropic Mirror Descent
+- [[2026-08-03_17-59-50Z_AURORA_LM_AutoencodingUnifiedRepresentationforCont.md]] : AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling
+- [[2026-08-02_11-57-49Z_DynActiveGS_ActiveGaussianSplattingforDynamicScene.md]] : DynActiveGS: Active Gaussian Splatting for Dynamic Scene Reconstruction
+- [[2026-08-03_14-10-05Z_TS_MAMP_ARemanufacturedAgriculturalRobotPoweredbyS.md]] : TS-MAMP: A Remanufactured Agricultural Robot Powered by Second-Life EV Components and NMS-Free On-Device Weed Detection
+- [[2026-08-03_01-00-37Z_EnhancingVisualPerceptioninFoggyConditionsviaMulti.md]] : Enhancing Visual Perception in Foggy Conditions via Multiclass Fog Density Modeling
+- [[2026-08-03_13-13-15Z_DisentangledContrastiveLearningforZero_ShotMultili.md]] : Disentangled Contrastive Learning for Zero-Shot Multilingual Dense Retrieval
+- [[2026-08-02_14-24-13Z_RethinkingVideoTokenCompressionwithaGlobalCodebook.md]] : Rethinking Video Token Compression with a Global Codebook: Learning Once, Compressing Everywhere
+- [[2026-08-02_20-12-32Z_PlasticityofGrowingandElasticNeuralNetworksinOnlin.md]] : Plasticity of Growing and Elastic Neural Networks in Online Continual Learning
+- [[2026-08-02_11-28-27Z_PlainMedScale_ACorpusofMulti_LevelSimplifiedMedica.md]] : PlainMedScale: A Corpus of Multi-Level Simplified Medical Texts in German and English
+- [[2026-08-01_17-14-26Z_GenericVisionandCross_AttentionforReactionYieldPre.md]] : Generic Vision and Cross-Attention for Reaction Yield Prediction
+- [[2026-08-03_14-03-27Z_Open_SetVisualTextForensicsviaSparse_ConstraintRec.md]] : Open-Set Visual Text Forensics via Sparse-Constraint Rectified Flow
+- [[2026-08-02_15-03-09Z_CrossLex_ASource_GroundedBenchmarkforCross_Jurisdi.md]] : CrossLex: A Source-Grounded Benchmark for Cross-Jurisdictional Legal Reasoning in Large Language Models
+- [[2026-08-03_00-42-55Z_Meganeura_PortableGPUTrainingandInferencethroughVu.md]] : Meganeura: Portable GPU Training and Inference through Vulkan and Metal
+- [[2026-08-03_10-23-42Z_EduZone_AFrameworkforEvaluatingLLMSafetyforK_12Stu.md]] : EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
+- [[2026-08-02_14-15-50Z_AuditingSemanticGainsinSequentialRecommendation_AL.md]] : Auditing Semantic Gains in Sequential Recommendation: A Lightweight Recovery Test
+- [[2026-08-03_16-18-22Z_xPress_ParallelRefinementforDiffusionDraftersinSpe.md]] : xPress: Parallel Refinement for Diffusion Drafters in Speculative Decoding
+- [[2026-08-03_16-03-16Z_AgenticIncidentResponsethroughDigitalTwin_Enhanced.md]] : Agentic Incident Response through Digital Twin-Enhanced Multiscale Planning
+- [[2026-08-01_07-21-23Z_FromDigitaltoPhysicalReservoirComputing_Co_Optimiz.md]] : From Digital to Physical Reservoir Computing: Co-Optimizing Soft Robotic Reservoirs via Dynamics Matching
+- [[2026-08-03_12-31-49Z_DouyinMultimodalEmbeddingModelTechnicalReport.md]] : Douyin Multimodal Embedding Model Technical Report
+- [[2026-07-31_20-14-03Z_Interpretability_GuidedSoftPruningofAttentionHeads.md]] : Interpretability-Guided Soft Pruning of Attention Heads in Vision Transformers
+- [[2026-08-02_19-34-41Z_ConformalizedLargeLanguageModelsunderConfiguration.md]] : Conformalized Large Language Models under Configuration Shift
+- [[2026-08-03_06-46-47Z_FRAMES_GuardedandDual_ObjectiveSkillEvolutionforAg.md]] : FRAMES: Guarded and Dual-Objective Skill Evolution for Agents in Policy-Governed Enterprise Workflows
+- [[2026-08-03_00-34-45Z_DiscriminativeAxis_NotDataVolume_WhataContrastiveC.md]] : Discriminative Axis, Not Data Volume: What a Contrastive Corpus Teaches an Audio Embedding
+- [[2026-08-03_06-21-05Z_CanUrbanBlightBeAccessedwithVision_languageModels_.md]] : Can Urban Blight Be Accessed with Vision-language Models: A Case Study in Detroit
+- [[2026-08-02_11-53-12Z_TheGraphLanguage_HowKnowledgeGraphsSpeaktoLargeLan.md]] : The Graph Language: How Knowledge Graphs Speak to Large Language Models
+- [[2026-08-03_17-41-20Z_BenchmarkingSheafNeuralNetworksforInductiveTasks.md]] : Benchmarking Sheaf Neural Networks for Inductive Tasks
+- [[2026-08-03_14-30-44Z_BRiG_AFA_BellmanRisk_to_GoLearningforNon_MyopicAct.md]] : BRiG-AFA: Bellman Risk-to-Go Learning for Non-Myopic Active Feature Acquisition
+- [[2026-08-02_20-02-44Z_RetrievalAugmentedBiomedicalQuestionAnsweringwithW.md]] : Retrieval Augmented Biomedical Question Answering with Weak Question Recovery and Neural Reranking for BioASQ Task 14b
+- [[2026-08-02_14-59-12Z_FedChronos_FederatedFine_TuningofTime_SeriesFounda.md]] : FedChronos: Federated Fine-Tuning of Time-Series Foundation Models for Privacy-Preserving Commodity Price Forecasting
+- [[2026-08-03_02-59-59Z_Human_LLMAlignmentinLanguageAttitudesTowardNon_Nat.md]] : Human-LLM Alignment in Language Attitudes Toward Non-Native Japanese
+- [[2026-08-03_16-40-16Z_CTRAG_AnIn_ContextRetrieval_basedFrameworkforAutom.md]] : CTRAG: An In-Context Retrieval-based Framework for Automated Compliance Checking using LLMs
+- [[2026-08-03_09-57-50Z_AOS_AdaptiveOptimizerSwitchingviaTraining_StateSig.md]] : AOS: Adaptive Optimizer Switching via Training-State Signals for Faster Convergence and Better Generalization
+- [[2026-08-03_08-32-50Z_Energy_EfficientLLMServingviaDisaggregatedAttentio.md]] : Energy-Efficient LLM Serving via Disaggregated Attention--FFN and Flexible Frequency Scaling
+- [[2026-08-03_17-45-58Z_AtumAI_APrincipledFrameworkforAgenticGenerationofD.md]] : AtumAI: A Principled Framework for Agentic Generation of Datacenter Control-Plane Policies
+- [[2026-08-03_13-07-59Z_PACApproximationandDIRECTOptimizationforParametric.md]] : PAC Approximation and DIRECT Optimization for Parametric Markov Models
+- [[2026-08-02_15-41-57Z_BiCAA_BidirectionalCreditAssignmentforSearch_Augme.md]] : BiCAA: Bidirectional Credit Assignment for Search-Augmented Agent
+- [[2026-08-03_15-08-06Z_FastandAccurateQuotationAttributioninLiteraryTexts.md]] : Fast and Accurate Quotation Attribution in Literary Texts
+- [[2026-08-03_10-56-46Z_SCOPE_EntanglementFrontierEscapeforSource_FreeClas.md]] : SCOPE: Entanglement Frontier Escape for Source-Free Class Unlearning
+- [[2026-08-03_07-46-28Z_RewritingorReweighting_AGeometricAccountinLanguage.md]] : Rewriting or Reweighting? A Geometric Account in Language Models
+- [[2026-08-03_13-49-11Z_Domain_SpecificEvaluationofText_to_SpeechSystems_A.md]] : Domain-Specific Evaluation of Text-to-Speech Systems: A Multi-Metric Benchmarking Study
+- [[2026-08-03_16-20-17Z_AgenticCommerceWorld_AnAuditableandVerifiableEnvir.md]] : Agentic Commerce World: An Auditable and Verifiable Environment for Vibe Commerce
+- [[2026-08-02_22-18-34Z_MineGrad_GradientInversionAttacksonLoRAFine_Tuning.md]] : MineGrad: Gradient Inversion Attacks on LoRA Fine-Tuning
+- [[2026-08-03_01-43-50Z_Statisticalcomparisonsoftime_seriesfeaturesetsoncl.md]] : Statistical comparisons of time-series feature sets on classification tasks
+- [[2026-08-02_23-47-18Z_V_Mem_Modality_RoutedRetrievalforLong_TermMultimod.md]] : V-Mem: Modality-Routed Retrieval for Long-Term Multimodal Agentic Memory
+- [[2026-08-03_10-52-32Z_TBSG_Net_TemporalBipartiteSceneGraphNetworkforFine.md]] : TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval
+- [[2026-08-03_06-18-12Z_SPECTRA_Band_RoutedEmbeddingandStage_WiseLoRAforCr.md]] : SPECTRA: Band-Routed Embedding and Stage-Wise LoRA for Cross-Sensor Fine-Tuning of Geospatial Foundation Models
+- [[2026-08-03_07-47-59Z_PCSD_PersistentConsistencyforSelf_DistillationinAg.md]] : PCSD: Persistent Consistency for Self-Distillation in Agentic Reinforcement Learning
+- [[2026-08-03_01-00-01Z_CharacterizingTreatment_ContextMedicationEvidenceA.md]] : Characterizing Treatment-Context Medication Evidence Across Clinic Notes and Structured EHR Medication History
+- [[2026-08-03_06-11-38Z_HeterogeneousMulti_AgentReinforcementLearningforRa.md]] : Heterogeneous Multi-Agent Reinforcement Learning for Radio Resource Management under Coupled Finite-Horizon Constraints
+- [[2026-08-03_17-01-19Z_DyFrDet_TowardsAccurateSmallObjectDetectionviaDyna.md]] : DyFrDet: Towards Accurate Small Object Detection via Dynamic Frequency Suppression with Label Disambiguation
+- [[2026-08-03_04-39-01Z_ProtoAct_TurningWet_LabProtocolsintoEmbodiedRoboti.md]] : ProtoAct: Turning Wet-Lab Protocols into Embodied Robotic Actions
+- [[2026-08-03_06-24-36Z_DeferredExposureofFutureTrajectoriesforVerifiableR.md]] : Deferred Exposure of Future Trajectories for Verifiable Reasoning in Autonomous Driving VLMs
+- [[2026-08-03_14-10-54Z_Z_PEFT_Zero_shotBackdoorDetectioninParameter_Effic.md]] : Z-PEFT: Zero-shot Backdoor Detection in Parameter-Efficient Fine-Tuning via Canonical Spectral Signatures
+- [[2026-08-03_08-24-35Z_LAB_Tab_LLM_AugmentedBayesianNetworkAdaptationforF.md]] : LAB-Tab: LLM-Augmented Bayesian Network Adaptation for Few-Shot Tabular Generation
+- [[2026-08-03_14-57-21Z_HardConstraints_SmoothGradients_LearningFeasibleIn.md]] : Hard Constraints, Smooth Gradients: Learning Feasible Inventory Policies via Differentiable Projection
+- [[2026-08-01_12-40-52Z_LearningtheParetoFrontierofPredictiveModelsunderDi.md]] : Learning the Pareto Frontier of Predictive Models under Distribution Shift
+- [[2026-08-02_15-57-40Z_AsleepattheWheel_JEPA_sLimitationsinEvaluatingNove.md]] : Asleep at the Wheel: JEPA's Limitations in Evaluating Novel Driving Data
+- [[2026-08-03_09-10-22Z_AContractualistArgumentationFrameworkforMoralDecis.md]] : A Contractualist Argumentation Framework for Moral Decision-Making
+- [[2026-08-02_12-41-47Z_ShiJianBench_FromDialoguetoDecisionforLong_Horizon.md]] : ShiJianBench: From Dialogue to Decision for Long-Horizon Evaluation of Investment Advisors
+- [[2026-08-03_12-43-00Z_FromSimpleQAtoDeepResearch_AVerifiableBenchmarkCon.md]] : From Simple QA to Deep Research: A Verifiable Benchmark Constructed through Iterative Task Evolution
+- [[2026-08-02_12-47-39Z_It_stheDecodingFormat_NotthePerturbation_AuditingC.md]] : It's the Decoding Format, Not the Perturbation: Auditing Consistency-Based Selection for Vision-Language Test-Time Scaling
+- [[2026-08-02_16-42-47Z_CRAFTS_CollaborativeRole_AdaptiveFine_TuningofLLMA.md]] : CRAFTS: Collaborative Role-Adaptive Fine-Tuning of LLM Agents for Chemical Process Simulation
+- [[2026-08-02_10-41-39Z_EulerLoRA_Rank_DrivenJumpDynamicsforCalibratedPara.md]] : EulerLoRA: Rank-Driven Jump Dynamics for Calibrated Parameter-Efficient Fine-Tuning
+- [[2026-07-31_20-58-00Z_RF_HOI_RecognizeHuman_ObjectInteractionwithRadioFr.md]] : RF-HOI: Recognize Human-Object Interaction with Radio Frequency Signals
+- [[2026-08-03_08-14-26Z_AnalyzingSpeechConditionEffectsinDysarthricASR_ALa.md]] : Analyzing Speech Condition Effects in Dysarthric ASR: A Layer-wise Probing Study
+- [[2026-08-03_12-28-52Z_BeyondSolution_CentricSearch_AdaptiveInquiryandKno.md]] : Beyond Solution-Centric Search: Adaptive Inquiry and Knowledge Revision for Autonomous ML Engineering
+- [[2026-08-03_14-58-06Z_CanAIAgentsSimulateA_BTestOutcomes_AValidationFram.md]] : Can AI Agents Simulate A/B Test Outcomes? A Validation Framework for Agentic Experimentation
+- [[2026-08-03_09-08-22Z_AutomaticAnnotationofAncientGreekVowelLength.md]] : Automatic Annotation of Ancient Greek Vowel Length
+- [[2026-08-02_13-48-40Z_DeltaFlow_Noise_AdaptiveBidirectionalGatedDeltaNet.md]] : DeltaFlow: Noise-Adaptive Bidirectional Gated Delta Networks for Embedded Language Flows
+- [[2026-08-03_16-30-26Z_InfiniteTraceObjectiveswithFiniteTraceTechniques_T.md]] : Infinite Trace Objectives with Finite Trace Techniques: Translating LTL to LTLf+
+- [[2026-08-03_10-12-15Z_MANGO_Grasp_MahalanobisFieldsoverGeometry_Oriented.md]] : MANGO-Grasp: Mahalanobis Fields over Geometry-Oriented 3D Gaussians for Cross-Embodiment Dexterous Grasping
+- [[2026-08-03_15-07-11Z_SkillTrace_TraversingaQuery_SkillGraphforComposabl.md]] : SkillTrace: Traversing a Query-Skill Graph for Composable LLM Agents
+- [[2026-08-03_04-06-06Z_LearningWhattoRemember_Test_TimeTrainingviaContext.md]] : Learning What to Remember: Test-Time Training via Context Distillation
+- [[2026-08-03_14-31-21Z_ThePush_ForwardTransformforContinuousandRobustComp.md]] : The Push-Forward Transform for Continuous and Robust Comparison of Dynamic Shapes
+- [[2026-08-03_10-27-25Z_Learning_BasedCollaborativeMECforLLMInferencewithS.md]] : Learning-Based Collaborative MEC for LLM Inference with Soft-Deadline Awareness via Transformer-Enhanced PPO
+- [[2026-08-03_10-46-53Z_AdaptiveReconstructionofBosonicQuantumStates.md]] : Adaptive Reconstruction of Bosonic Quantum States
+- [[2026-08-03_07-03-51Z_CanYouTrusttheConfidence_ConfBenchforVision_Langua.md]] : Can You Trust the Confidence? ConfBench for Vision-Language Models on Document Extraction
+- [[2026-08-03_12-05-28Z_Uncertainty_AwareCrossmodalFusionforClassification.md]] : Uncertainty-Aware Crossmodal Fusion for Classification of Animal Behavior
+- [[2026-08-02_11-07-53Z_MorphologyAwareReversibleSemanticTokenizationandHi.md]] : Morphology Aware Reversible Semantic Tokenization and Hierarchical Word Composition for Tamil Language Models
+- [[2026-08-03_05-19-05Z_ConstructingExecutableAnalyticalKnowledgeRepresent.md]] : Constructing Executable Analytical Knowledge Representations for Meta-Analysis Synthesis Using an Agentic Harness
+- [[2026-08-02_20-09-45Z_Slot2Text_Object_CentricVisualTokenizationforEffic.md]] : Slot2Text: Object-Centric Visual Tokenization for Efficient and Spatially Traceable Surgical MLLMs
+- [[2026-08-03_10-06-23Z_EvolvingintheAgentJungleviaHistory_InformedOpponen.md]] : Evolving in the Agent Jungle via History-Informed Opponent Awareness
+- [[2026-08-03_07-29-05Z_DAVET_Denoising_AwareVisualEvidenceTrajectoryAlloc.md]] : DAVET: Denoising-Aware Visual Evidence Trajectory Allocation for Diffusion Vision-Language Models
+- [[2026-08-03_06-59-06Z_REFLEX_RethinkingMoEInferenceasRefinement_AwareCom.md]] : REFLEX: Rethinking MoE Inference as Refinement-Aware Compute Allocation in Diffusion Language Models
+- [[2026-08-03_10-30-27Z_DART_DecodedAttentionoverRecurrentStatesforEfficie.md]] : DART: Decoded Attention over Recurrent States for Efficient Long-Context Sequence Modeling
+- [[2026-08-03_09-58-20Z_TALSC_Timeliness_AwareLarge_SmallVLMCollaborationf.md]] : TALSC: Timeliness-Aware Large-Small VLM Collaboration for Infrastructure-Assisted Autonomous Driving
+- [[2026-08-02_15-48-04Z_LongChartVQA_AComprehensiveBenchmarkforMLLMswithCo.md]] : LongChart VQA: A Comprehensive Benchmark for MLLMs with Complex Multi-Chart Reasoning
+- [[2026-08-03_11-27-29Z_CAVE_Competence_AwareVisualBoundaryEvidenceAlignme.md]] : CAVE: Competence-Aware Visual Boundary Evidence Alignment for Video Temporal Grounding
+- [[2026-08-03_03-54-22Z_FAUatImageCLEF2026TaskonMultimodalReasoningRobustC.md]] : FAU at ImageCLEF 2026 Task on Multimodal Reasoning Robust Candidate Scoring and Concise Multilingual Visual Answering
+- [[2026-08-03_12-10-51Z_DoStaticEmbeddingsAddValuetoHybridDutchRetrieval.md]] : Do Static Embeddings Add Value to Hybrid Dutch Retrieval?
+- [[2026-08-03_11-58-21Z_Fetch_then_Explore_DecouplingSelectionfromExtracti.md]] : Fetch-then-Explore: Decoupling Selection from Extraction over a Persistent Workspace for Search Agents
+- [[2026-08-03_05-57-02Z_LLM_GuidedRetrievalforPredictionofMolecularPerturb.md]] : LLM-Guided Retrieval for Prediction of Molecular Perturbation Responses
+- [[2026-08-03_16-37-49Z_GroundingAgenticVLMswithDedicatedSegmentationforFi.md]] : Grounding Agentic VLMs with Dedicated Segmentation for Fine-Grained Vehicle Damage Assessment
+- [[2026-08-02_20-07-56Z_Two_StageBengaliSentimentClassification_DomainAdap.md]] : Two-Stage Bengali Sentiment Classification: Domain Adaptation Through Continual Learning and Parameter-Efficient Fine-Tuning
+- [[2026-08-03_12-26-39Z_TheRoleofDisfluenciesinSpeechTranslation.md]] : The Role of Disfluencies in Speech Translation
+- [[2026-08-01_07-08-33Z_Ekova_APersonality_SupportAgentforSelf_DiscoveryDi.md]] : Ekova: A Personality-Support Agent for Self-Discovery Dialogue
+- [[2026-08-03_09-16-06Z_CultureVidBench_BenchmarkingCulturalUnderstandingi.md]] : CultureVidBench: Benchmarking Cultural Understanding in Text-to-Video Generation
+- [[2026-08-03_17-59-09Z_BridgingArtificialIntelligenceandPowerSystemsEduca.md]] : Bridging Artificial Intelligence and Power Systems Education Using a Hands-On Executable Framework
+- [[2026-08-03_08-04-46Z_EchoChange_ADiffusionLanguageModelwithDualPassRema.md]] : EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning
+- [[2026-08-03_11-07-20Z_AComparativeAnalysisofMLPandKolmogorov_ArnoldNetwo.md]] : A Comparative Analysis of MLP and Kolmogorov-Arnold Networks (KAN) for Faster-than-Nyquist (FTN) Signaling Detection
+- [[2026-08-02_17-43-28Z_WhenRetrievalHelpsandDistracts_EvaluatingEvidence_.md]] : When Retrieval Helps and Distracts: Evaluating Evidence-Generating LLMs for Biomedical Claim Verification
+- [[2026-08-03_10-09-06Z_HALT_Verification_AwareStoppingforRetrieval_Augmen.md]] : HALT: Verification-Aware Stopping for Retrieval-Augmented Search Agents
+- [[2026-08-03_17-15-55Z_Magnet_DetectingCross_SessionAIMisuseThroughCapabi.md]] : Magnet: Detecting Cross-Session AI Misuse Through Capability Accumulation
+- [[2026-08-03_07-26-45Z_Divergentlargelanguagemodelpredictionsfromconverge.md]] : Divergent large language model predictions from convergent representations in ambiguous word pairs
+- [[2026-08-02_18-21-15Z_MRAFnd_MultimodalRetrieval_AugmentedFrameworkforZe.md]] : MRAFnd: Multimodal Retrieval-Augmented Framework for Zero-Shot Fake News Detection
+- [[2026-08-03_05-09-49Z_Floor_Ceiling_andtheFusionGap_HowMuchofCrowdReadin.md]] : Floor, Ceiling, and the Fusion Gap: How Much of Crowd Reading Attention Can Machines Predict?
+- [[2026-08-02_14-16-14Z_DistillWhattheStudentCanSee_Fisher_ProjectedOn_Pol.md]] : Distill What the Student Can See: Fisher-Projected On-Policy Distillation for Vision-Language Models
+- [[2026-08-03_13-17-49Z_MEGRAG_Multi_GranularEvidenceGraphsforAnswer_Aware.md]] : MEGRAG: Multi-Granular Evidence Graphs for Answer-Aware Multi-Hop RAG
+- [[2026-08-02_15-27-00Z_RH_RAG_TrustworthyLong_FormGenerationforPrivacy_Co.md]] : RH-RAG: Trustworthy Long-Form Generation for Privacy-Constrained Settings
+- [[2026-08-03_01-57-35Z_LatentThoughtCredit_Multi_AnswerCreditAssignmentfo.md]] : Latent Thought Credit: Multi-Answer Credit Assignment for Latent Reasoning
+- [[2026-08-03_09-39-11Z_TELLER_Non_intrusiveCross_LayerRoot_CauseAnalysisf.md]] : TELLER: Non-intrusive Cross-Layer Root-Cause Analysis for LLM Inference
+- [[2026-08-03_13-51-12Z_TrustworthyAIinDigitalHealth_AComprehensiveReviewo.md]] : Trustworthy AI in Digital Health: A Comprehensive Review of Robustness and Explainability
+- [[2026-08-03_14-00-16Z_HarMoE_Multi_SourceChestRadiographPretrainingwithD.md]] : HarMoE: Multi-Source Chest Radiograph Pretraining with Dataset-Disentangled Experts
+- [[2026-08-03_13-41-07Z_CRIP_ChannelLevelRepresentationInjectionforPersona.md]] : CRIP: Channel Level Representation Injection for Personalized One-Shot Federated Learning
+- [[2026-08-02_23-10-04Z_Celty_SpMspVGPUKernelandSIMTCo_DesignforEfficientD.md]] : Celty: SpMspV GPU Kernel and SIMT Co-Design for Efficient Dual-Sparse LLM Inference
+- [[2026-08-02_11-52-46Z_DoesMachine_know_interpersonalpragmatics_Evidencef.md]] : Does Machine "know" interpersonal pragmatics? Evidence from MARBERT's learning of emoji pragmatics in Arabic digital discourse
+- [[2026-07-31_08-57-53Z_EEG_JEPA_StructuredLatentPredictionforEEGFoundatio.md]] : EEG-JEPA: Structured Latent Prediction for EEG Foundation Models
+- [[2026-08-02_19-47-03Z_WhereReasoningDiverges_LocalizedMulti_AgentDebate.md]] : Where Reasoning Diverges: Localized Multi-Agent Debate
+- [[2026-08-02_15-41-12Z_CognitiveDemandSteeringforAdaptiveMeta_Reasoningin.md]] : Cognitive Demand Steering for Adaptive Meta-Reasoning in Large Language Models
+- [[2026-08-03_17-08-02Z_OptimizingMinimaxRegretinUncertainMDPswithSmallSet.md]] : Optimizing Minimax Regret in Uncertain MDPs with Small Sets of Policies
+- [[2026-08-01_04-46-55Z_BeyondStaticAnchors_BoundedPrototypeConditioningfo.md]] : Beyond Static Anchors: Bounded Prototype Conditioning for Language-Free Medical Anomaly Detection
+- [[2026-08-03_06-10-33Z_TowardPlasticity_PreservingKLRegularizationforCapa.md]] : Toward Plasticity-Preserving KL Regularization for Capability Retention in LLM Reinforcement Learning
+- [[2026-08-03_11-21-30Z_AcceleratingEvolutionaryStrategyviaRao_Blackwelliz.md]] : Accelerating Evolutionary Strategy via Rao-Blackwellizing Realization of Uncertain Input
+- [[2026-08-03_09-35-11Z_ChaosProbe_ANeurochaoticLensonFrozenTransformerInp.md]] : ChaosProbe: A Neurochaotic Lens on Frozen Transformer Input-Embedding Spaces
+- [[2026-08-03_00-31-34Z_DoestheCompetitiveComponentofAdversarialSelf_PlayI.md]] : Does the Competitive Component of Adversarial Self-Play Improve Legal Reasoning? A Controlled Negative Result
+- [[2026-08-03_09-50-51Z_SPARE_StructuralParameter_FreeAffinityRegularizati.md]] : SPARE: Structural Parameter-Free Affinity Regularization for Flow Matching
+- [[2026-08-02_09-16-21Z_FightingFirewithFire_OntheFeasibilityofProtectingE.md]] : Fighting Fire with Fire: On the Feasibility of Protecting Exercises Against AI Cheating
+- [[2026-08-02_18-02-03Z_ReusingRolloutsunderPolicyLag_Prefix_NormalizedPol.md]] : Reusing Rollouts under Policy Lag: Prefix-Normalized Policy Optimization for LLM Reinforcement Learning
+- [[2026-07-31_19-18-37Z_HierarchicalBM25_LexicalSearchatBillion_DocumentSc.md]] : Hierarchical BM25: Lexical Search at Billion-Document Scale
+- [[2026-08-03_05-28-37Z_BeyondOn_PolicyExploration_IntegratingExternalPoli.md]] : Beyond On-Policy Exploration: Integrating External Policy Rollouts for Reinforcement Learning in Diffusion Language Models
+- [[2026-07-31_11-45-37Z_SharedOrganizationalMemoryforEnterpriseCodingAgent.md]] : Shared Organizational Memory for Enterprise Coding Agents: System Design and Deployment Snapshot
+- [[2026-08-03_08-26-40Z_CARE_ACascadedFrameworkforEfficientandReliableTime.md]] : CARE: A Cascaded Framework for Efficient and Reliable Time Series Anomaly Detection
+- [[2026-08-01_12-29-38Z_TowardsEffectiveFederatedMultimodalGraphLearningvi.md]] : Towards Effective Federated Multimodal Graph Learning via Navigating Multifaceted Heterogeneity
+- [[2026-08-01_03-35-10Z_BoostingGeneralizableDepthEstimationinEndoscopybyM.md]] : Boosting Generalizable Depth Estimation in Endoscopy by Mixture of Lightweight Experts and Intrinsic Image Alignment
+- [[2026-08-02_15-00-58Z_ArabicDialectSafety_ADialect_AwareBenchmarkforArab.md]] : ArabicDialectSafety: A Dialect-Aware Benchmark for Arabic Content Safety Classification
+- [[2026-08-02_14-49-24Z_StopWhenMemorySuffices_Evidence_ConditionedProgres.md]] : Stop When Memory Suffices: Evidence-Conditioned Progressive Execution for LLM Agents
+- [[2026-08-02_11-58-08Z_InterpretableMachineLearningforTrafficCongestionPr.md]] : Interpretable Machine Learning for Traffic Congestion Prediction: Unveiling the Impact of Different COVID-19 Periods
+- [[2026-08-03_09-02-45Z_RecomputeorReuse_DiagnosingandMitigatingTextualSho.md]] : Recompute or Reuse? Diagnosing and Mitigating Textual Shortcuts in VLM Self-Reflection
+- [[2026-08-03_17-03-19Z_SWE_Touch_BenchmarkingCodingAgentsWhenUsersTouchth.md]] : SWE-Touch: Benchmarking Coding Agents When Users Touch the Code
+- [[2026-08-03_15-04-26Z_GlobalOptimizationandInference_TimeRegionGraftingf.md]] : Global Optimization and Inference-Time Region Grafting for Agentic Workflows
+- [[2026-08-03_05-31-24Z_LaCache_RobustSemanticCachingforLLMServing.md]] : LaCache: Robust Semantic Caching for LLM Serving
+- [[2026-08-03_08-36-18Z_SpatioLM_TowardsGeneralPhysicalSpatialIntelligence.md]] : SpatioLM: Towards General Physical Spatial Intelligence in Vision-Language Models
+- [[2026-08-03_13-35-33Z_FastDiscoveryofInclusionDependencieswithDesbordant.md]] : Fast Discovery of Inclusion Dependencies with Desbordante
+- [[2026-08-03_15-35-28Z_GROVE_GrowingandReasoningoverTemporallyStratifiedM.md]] : GROVE: Growing and Reasoning over Temporally Stratified Memory from Streaming Video Experience
+- [[2026-08-03_17-12-05Z_LiveMem_MaintainingMemoryStateContinuityinLong_Run.md]] : LiveMem: Maintaining Memory State Continuity in Long-Running LLM Inference
+- [[2026-08-03_07-13-00Z_CockpitHAT_Dependency_Graph_DrivenHierarchicalAttr.md]] : CockpitHAT: Dependency-Graph-Driven Hierarchical Attribution for Embodied Multi-Agent Cockpits
+- [[2026-08-03_06-09-57Z_MemSIF_FromStructuredInteractionstoDual_TrackFactM.md]] : MemSIF: From Structured Interactions to Dual-Track Fact Memory for LLM Agents
+- [[2026-08-02_11-00-04Z_PATH_Bench_Path_DependentEvaluationofLifelongAgent.md]] : PATH-Bench: Path-Dependent Evaluation of Lifelong Agents
+- [[2026-08-03_05-16-02Z_BeyondSingle_UseTokens_DurableAuthorizationStatefo.md]] : Beyond Single-Use Tokens: Durable Authorization State for Replay-Resistant LLM Agent Actions
+- [[2026-08-03_01-44-01Z_TheLabelDefinestheTimescale_Trait_StateLimitsofTem.md]] : The Label Defines the Timescale: Trait-State Limits of Temporal-Aggregate Learning
+- [[2026-08-02_16-10-02Z_Prompt_InducedWasteinLargeReasoningModels_APreregi.md]] : Prompt-Induced Waste in Large Reasoning Models: A Preregistered Two-Harness Benchmark of Coding Agents
+- [[2026-08-03_09-56-34Z_Long_HorizonAutonomousArchitectureResearchwithaLan.md]] : Long-Horizon Autonomous Architecture Research with a Language-Model Agent: A Behavioural Case Study
+- [[2026-08-03_07-04-27Z_IlluminatingVisualIdentityinUniversalMultimodalEmb.md]] : Illuminating Visual Identity in Universal Multimodal Embeddings
+- [[2026-08-03_15-03-35Z_KC_Agent_ADual_ProcessCognitiveArchitectureforEffi.md]] : KC-Agent: A Dual-Process Cognitive Architecture for Efficient ML Model Improvement
+- [[2026-08-03_11-11-13Z_Open_DiffLoco_Open_SourceDifferentiableLearningfor.md]] : Open-DiffLoco: Open-Source Differentiable Learning for Deployable Blind Quadruped Locomotion
+- [[2026-08-03_09-42-34Z_ET_Prune_Evidence_AwareDynamicBudgetingforVisualTo.md]] : ET-Prune: Evidence-Aware Dynamic Budgeting for Visual Token Pruning in Text-Rich MLLMs
+- [[2026-08-03_05-56-40Z_X_KGRank_AKnowledgeGraphRAGFrameworkforExplainable.md]] : X-KGRank: A Knowledge Graph RAG Framework for Explainable Recommendations via Pattern Mining and LLM Re-Ranking
+- [[2026-08-03_08-57-00Z_TRAM_EnhancingMultimodalReasoningwithTrajectory_De.md]] : TRAM: Enhancing Multimodal Reasoning with Trajectory-Derived Auxiliary Memory
+- [[2026-08-03_15-07-46Z_ScrambleToolBench_AgentsSearchExhaustivelyEvenWhen.md]] : ScrambleToolBench: Agents Search Exhaustively Even When Their Own Map Points to the Next Step
+- [[2026-08-03_03-03-53Z_DoesAccuracyEqualEvidence_ReasoningFaithfulnessund.md]] : Does Accuracy Equal Evidence? Reasoning Faithfulness under KV Cache Compression
+- [[2026-08-03_07-36-48Z_DeepVoyager_VL_IncentivizingVision_in_the_LoopSear.md]] : DeepVoyager-VL: Incentivizing Vision-in-the-Loop Search for Long-Horizon Multimodal Agents
+- [[2026-08-03_07-58-35Z_WeightsorSkills_ASurveyofRobot_LearningTechniques_.md]] : Weights or Skills? A Survey of Robot-Learning Techniques: from Action-Predicting Weights to Robots that Write their Own Skills
+- [[2026-08-03_12-52-04Z_FromProfilingtoSynthesis_BenchmarkingImplicitBehav.md]] : From Profiling to Synthesis: Benchmarking Implicit Behavioral Alignment in Personalized LLM Agents
+- [[2026-08-03_15-50-33Z_MonitrLLM_ACommunity_CenteredEvaluationInfrastruct.md]] : MonitrLLM: A Community-Centered Evaluation Infrastructure for Large Language Models
+- [[2026-08-03_17-17-29Z_MedPRESS_AMulti_turnBenchmarkforPatient_Pressure_I.md]] : MedPRESS: A Multi-turn Benchmark for Patient-Pressure-Induced Medical Sycophancy in LLMs
+- [[2026-08-02_19-29-48Z_Long_HorizonEmbodiedDecision_MakingviaMultimodalMe.md]] : Long-Horizon Embodied Decision-Making via Multimodal Memory Compression
+- [[2026-08-03_07-21-32Z_RADAR_Rubric_AwareDependencyandRedundancyAnalysisf.md]] : RADAR: Rubric-Aware Dependency and Redundancy Analysis for LLM-as-Judge Evaluation
+- [[2026-08-03_03-27-46Z_CRAFT_CompressionviaRecursiveAdaptiveFusionofVideo.md]] : CRAFT: Compression via Recursive Adaptive Fusion of Video Tokens for Vision-Language Models
+- [[2026-08-03_07-29-11Z_SearchMaster_GroundedandRegulatedSelf_PlayforSearc.md]] : SearchMaster: Grounded and Regulated Self-Play for Search Agents
+- [[2026-08-03_14-59-54Z_MambawithHierarchicalMemory_SolvingRepresentationB.md]] : Mamba with Hierarchical Memory: Solving Representation Bottleneck in Long Sequence Modeling
+- [[2026-08-03_12-34-31Z_PhyCheck_Fine_GrainedEvidence_GroundedDatasetforPh.md]] : PhyCheck: Fine-Grained Evidence-Grounded Dataset for Physical Law Understanding in Video-LLMs
+- [[2026-08-03_03-00-43Z_RING_Retrieval_InternalizedGenerationforContinualL.md]] : RING: Retrieval-Internalized Generation for Continual Large-Scale Knowledge Injection
+- [[2026-08-03_16-21-56Z_RightAnswer_WrongMethod_ShortcutHackingMisleadsthe.md]] : Right Answer, Wrong Method: Shortcut Hacking Misleads the Evaluation of LLM Reasoning on Frontier Science Benchmarks
+- [[2026-08-03_08-21-07Z_ReasonCast_TowardsExplainableTimeSeriesForecasting.md]] : ReasonCast: Towards Explainable Time Series Forecasting with Reasoning
+- [[2026-08-03_15-49-14Z_Antares_FoundationModelsforAgenticVulnerabilityLoc.md]] : Antares: Foundation Models for Agentic Vulnerability Localization
+- [[2026-08-03_05-24-03Z_CodingAgentsasTest_SuiteAuditors_FindingWhatOffici.md]] : Coding Agents as Test-Suite Auditors: Finding What Official Suites Miss While Approaching What They Catch
+- [[2026-08-03_12-27-32Z_Self_ImprovingLargeLanguageModelsviaProgressiveExp.md]] : Self-Improving Large Language Models via Progressive Experience Evolution
+- [[2026-08-03_05-14-59Z_PGMem_TightlyCoupledPersona_MemoryGraphforLifelong.md]] : PGMem: Tightly Coupled Persona-Memory Graph for Lifelong Personalized Agents
+- [[2026-08-03_06-04-51Z_CoEvo_Mem_Co_EvolvingRetrievalPolicyandMemoryBankf.md]] : CoEvo-Mem: Co-Evolving Retrieval Policy and Memory Bank for LLM Agents
+- [[2026-08-03_07-54-56Z_FOCUS_FP4OptimizationviaCoupled_RelaxationandDual_.md]] : FOCUS: FP4 Optimization via Coupled-Relaxation and Dual-Granularity Scaling
+- [[2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World_Grounde.md]] : CompanionBench: A Theory-Anchored, Real-World-Grounded Benchmark for AI Emotional Companionship
+- [[2026-08-02_19-31-59Z_PALMs_UsingMultiConstruct_GroundedRationalesforMod.md]] : PALMs: Using Multi Construct-Grounded Rationales for Modeling Population Preferences in LLMs
+- [[2026-08-03_08-11-33Z_Wnuan_StagedPost_TrainingforQuestionAnsweringoverP.md]] : Wnuan: Staged Post-Training for Question Answering over Proprietary Enterprise Knowledge
+- [[2026-08-03_15-34-45Z_CooperativeCoevolutionforResource_ConstrainedAgent.md]] : Cooperative Coevolution for Resource-Constrained Agentic LLM Post-Training
+- [[2026-08-03_00-25-52Z_RethinkingPersonalizedRewardModelingforLLMsunderPr.md]] : Rethinking Personalized Reward Modeling for LLMs under Preference Heterogeneity via Group-Debiased Federated Learning
+- [[2026-08-03_03-06-58Z_GraphIR_Architecture_LevelSearchStatesforLLM_Guide.md]] : GraphIR: Architecture-Level Search States for LLM-Guided Neural Architecture Evolution
+- [[2026-08-03_14-22-23Z_SharedPrefixes_BetterCredit_AdaptiveRoutingforMult.md]] : Shared Prefixes, Better Credit: Adaptive Routing for Multi-Agent Reasoning
+- [[2026-08-03_03-51-21Z_LongCatSparseAttention_TamingtheLightningviaStream.md]] : LongCat Sparse Attention: Taming the Lightning via Streaming-aware Hierarchical Cross-Layer Indexing
+- [[2026-08-03_10-23-48Z_HPFA_Hypergraph_BasedPairedFailureAttributionforLL.md]] : HPFA: Hypergraph-Based Paired Failure Attribution for LLM Reasoning
+- [[2026-08-03_01-21-44Z_Measuringin_contextalgorithmicreasoninginlanguagem.md]] : Measuring in-context algorithmic reasoning in language models against an exact Bayes-optimal standard
+- [[2026-08-03_16-34-46Z_Real_TimeDetectionandRepairofLLMAgentFailures.md]] : Real-Time Detection and Repair of LLM Agent Failures
+- [[2026-08-03_07-10-38Z_CoNav_UAV_CooperativeDual_AltitudeAerialNavigation.md]] : CoNav-UAV: Cooperative Dual-Altitude Aerial Navigation via Stackelberg Learning
+- [[2026-08-02_16-20-55Z_HopRefusalBench_DiagnosingRefusalFailuresinSearch_.md]] : HopRefusalBench: Diagnosing Refusal Failures in Search-Augmented Agents for Multi-Hop Reasoning
+- [[2026-08-03_02-43-25Z_LinearMulti_TimescaleRetentionasaMemory_EfficientV.md]] : Linear Multi-Timescale Retention as a Memory-Efficient Vision-Language Bridge
+- [[2026-08-03_04-01-36Z_TCPO_Turn_LevelCreditPolicyOptimization.md]] : TCPO: Turn-Level Credit Policy Optimization
+- [[2026-08-03_03-31-45Z_GISAgentBench_APractitioner_SourcedBenchmarkforEva.md]] : GISAgentBench: A Practitioner-Sourced Benchmark for Evaluating LLM Agents on GIS Tasks
+- [[2026-08-02_22-37-34Z_Gram_Space_Structure_PreservingCodebookCompression.md]] : Gram-Space: Structure-Preserving Codebook Compression for Memory-Efficient Neuro-Symbolic AI
+- [[2026-08-03_03-43-14Z_Bole_EfficientTreeSpeculationforHybrid_AttentionLa.md]] : Bole: Efficient Tree Speculation for Hybrid-Attention Language Models
+- [[2026-08-03_17-05-31Z_AbductionWithoutaBody_RepresentationalGroundingand.md]] : Abduction Without a Body? Representational Grounding and the Abduction Loop for Scientific Hypothesis Generation
+- [[2026-08-02_16-08-44Z_DeVIT_Low_PowerVisionTransformerAccelerationUsingD.md]] : DeVIT: Low-Power Vision Transformer Acceleration Using Delta Computation
+- [[2026-08-03_10-23-55Z_Scikit_fingerprints_Pythonlibraryforscikit_learnco.md]] : Scikit-fingerprints: Python library for scikit-learn compatible molecular fingerprints and chemoinformatics
+- [[2026-08-03_04-15-40Z_WhenMemoryBecomesAuthority_BenchmarkingAuthorityCo.md]] : When Memory Becomes Authority: Benchmarking Authority Collapse at the Memory Consolidation Boundary
+- [[2026-08-03_12-34-04Z_BeyondtheMean_Multi_MomentPolicyOptimizationforLLM.md]] : Beyond the Mean: Multi-Moment Policy Optimization for LLM Reasoning
+- [[2026-08-03_14-12-18Z_Harness_R1_LearningtoEditExecutableRuntimeHarnesse.md]] : Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories
+- [[2026-08-03_17-37-38Z_ATaxonomyofCognitiveCapabilityGapsinGenerativeandA.md]] : A Taxonomy of Cognitive Capability Gaps in Generative and Agentic AI
+- [[2026-08-03_16-53-15Z_CulturalAwarenessisRepresentedbutNotDecoded_Tracin.md]] : Cultural Awareness is Represented but Not Decoded: Tracing Mythological Knowledge across 18 Open-Source LLMs
+- [[2026-08-03_01-41-04Z_SemanticAlignmentofAIModels_ConceptCollapse_Checkp.md]] : Semantic Alignment of AI Models: Concept Collapse, Checkpoint Dynamics, and Cross-Lingual Transfer
+- [[2026-08-03_15-04-20Z_Qwen_CUA_NativeComputerUsefor_almost_Everything.md]] : Qwen-CUA: Native Computer Use for (almost) Everything
+- [[2026-08-03_17-58-27Z_onepot_Bench0_towardslab_awareinsilicochemistryben.md]] : onepot-Bench 0: towards lab-aware in silico chemistry benchmarks
+- [[2026-08-03_17-07-50Z_RoMeRL_BalancingFeedbackCoverageandtheMemory_Rewar.md]] : RoMeRL: Balancing Feedback Coverage and the Memory-Reward Trap in Self-Evolving Agent Memory via Reduced-Order Utility States
+- [[2026-08-03_04-18-31Z_GABench_AComprehensiveBenchmarkforEvaluatingLLMAge.md]] : GABench: A Comprehensive Benchmark for Evaluating LLM Agents on Graph Analysis Tasks
+- [[2026-08-02_08-22-43Z_AttendtoYourOwnThoughts_BreakingtheBarrierforPost_.md]] : Attend to Your Own Thoughts: Breaking the Barrier for Post-Training Quantization of Reasoning LLMs through the Lens of 1.58-Bit Quantization
+- [[2026-08-03_09-42-42Z_AdaThinkV_AdaptiveThinkingforToken_EfficientVideoR.md]] : AdaThinkV: Adaptive Thinking for Token-Efficient Video Reasoning
+- [[2026-08-03_12-15-33Z_HAFI_VLM_AFrequencyPerspectiveforDiagnosingandEnha.md]] : HAFI-VLM: A Frequency Perspective for Diagnosing and Enhancing Visual Perception in Vision-Language Models
+- [[2026-08-03_03-43-57Z_SyncPlan_Long_HorizonLLMCoordinationwithExplicitSy.md]] : SyncPlan: Long-Horizon LLM Coordination with Explicit Synchronization and Adaptive Correction
+- [[2026-08-03_00-28-49Z_SecuringAgenticAI_FromPer_ActionCheckstoTrajectory.md]] : Securing Agentic AI: From Per-Action Checks to Trajectory Assurance
+- [[2026-08-02_12-11-51Z_3DZip_Spatial_AwareFeatureDiversity_GuidedTokenCom.md]] : 3DZip: Spatial-Aware Feature Diversity-Guided Token Compression for 3D Question Answering
+- [[2026-08-03_05-42-40Z_TIDES_ALongitudinalBilingualDatasetforModelingMult.md]] : TIDES: A Longitudinal Bilingual Dataset for Modeling Multi-Party Social Dynamics
+- [[2026-08-03_15-53-49Z_Training_FreeversusTraining_BasedIntentClassificat.md]] : Training-Free versus Training-Based Intent Classification in LLMs: Accuracy, Robustness, and Failure Modes
+- [[2026-08-03_07-03-24Z_PICopilot_AnLLM_basedAgenticFrameworkforAssistingP.md]] : PICopilot: An LLM-based Agentic Framework for Assisting Photonic Integrated Circuit Design via Script Generation
+- [[2026-08-03_14-24-12Z_MechGeo_AutoformalizingandProvingEuclideanGeometry.md]] : MechGeo: Autoformalizing and Proving Euclidean Geometry in Lean 4
+- [[2026-08-02_22-19-01Z_QuestionBegetsQuestion_Self_EvolvingCurriculumforR.md]] : Question Begets Question: Self-Evolving Curriculum for Reinforcement Fine-Tuning on Competition Mathematics
+- [[2026-08-03_02-07-51Z_PICTURE_EnhancingTheory_of_MindinLargeLanguageMode.md]] : PICTURE: Enhancing Theory-of-Mind in Large Language Models by Revealing, Not Hiding, Characters' Lack of Knowledge
+- [[2026-08-03_12-35-51Z_AuditingDataProvenanceinLLMFine_tuningviaIntrinsic.md]] : Auditing Data Provenance in LLM Fine-tuning via Intrinsic Distributional Fingerprints
+- [[2026-08-03_03-17-26Z_SalamiAttack_StealthyCollusiveMemoryPoisoningagain.md]] : Salami Attack: Stealthy Collusive Memory Poisoning against OpenClaw
+- [[2026-08-03_15-39-57Z_CanFoundationModelsHearWhatMadeThatSound_ATieredBe.md]] : Can Foundation Models Hear What Made That Sound? A Tiered Benchmark of Audio-Language Models and Traditional Classifiers for Closed-Set Sound Source Identification
+- [[2026-08-03_07-57-34Z_ExploringandBridgingKnowledgeHolesinUnlearnedMulti.md]] : Exploring and Bridging Knowledge Holes in Unlearned Multimodal Large Language Models
+- [[2026-08-03_09-00-49Z_EffectiveandEfficientContextRetrievalviaPartialDep.md]] : Effective and Efficient Context Retrieval via Partial Dependency Graph for Repository-Level Code Generation
+- [[2026-08-03_09-26-30Z_AgenticSelf_HealingforDataandAIPipelines_AnAfforda.md]] : Agentic Self-Healing for Data and AI Pipelines: An Affordable Vendor-Agnostic Architecture using Open-Source Software
+- [[2026-08-03_08-24-54Z_Hear_Invoke_andUnderstand_ASkill_CallingMultimodal.md]] : Hear, Invoke, and Understand: A Skill-Calling Multimodal Agent for Large Audio Language Models
+- [[2026-08-03_14-46-21Z_FastGFDs_EfficientValidationofGraphFunctionalDepen.md]] : FastGFDs: Efficient Validation of Graph Functional Dependencies with Desbordante
+- [[2026-08-03_13-47-48Z_ConstrainedCo_DesignforPhotonicBayesianNeuralNetwo.md]] : Constrained Co-Design for Photonic Bayesian Neural Networks
+- [[2026-08-03_11-48-39Z_HowMuchDoesaReasoningSummaryReveal_AnObservability.md]] : How Much Does a Reasoning Summary Reveal? An Observability Ladder for Large Language Models
+- [[2026-08-03_15-52-51Z_WhyLargeLanguageModelsFailatTabularPrediction.md]] : Why Large Language Models Fail at Tabular Prediction
+- [[2026-08-03_04-01-02Z_StyleWins_SubstanceLoses_ADiagnosisofLLM_as_Judgei.md]] : Style Wins, Substance Loses: A Diagnosis of LLM-as-Judge in Idea Generation
+- [[2026-08-02_09-11-38Z_SG_Layout_StructuredSceneGraph_GuidedLayoutGenerat.md]] : SG-Layout: Structured Scene Graph-Guided Layout Generation with LLMs
+- [[2026-08-02_15-43-37Z_G_ReAct_Graph_GuidedDeepSearchviaStructure_StateCo.md]] : G-ReAct: Graph-Guided Deep Search via Structure-State Co-Evolution
+- [[2026-08-03_02-49-08Z_WhenMemoryUpdatesbutBehaviorDoesNot_RepairingImpli.md]] : When Memory Updates but Behavior Does Not: Repairing Implicit Stale Dependencies in Personalized Agent Responses
+- [[2026-08-03_01-47-25Z_IsMorePrivilegedInformationBetter_FromSolutionTrac.md]] : Is More Privileged Information Better? From Solution Traces to Problem-Solving Structure in Self-Distilled Reasoning
+- [[2026-08-03_05-36-49Z_MNC_Scope_BoundSemanticDeclassificationforPrivateL.md]] : MNC: Scope-Bound Semantic Declassification for Private LLM-Agent Communication
+- [[2026-08-03_08-39-16Z_CoEvoKG_Co_EvolvingKnowledgeGraphswithSelf_Evolvin.md]] : CoEvoKG: Co-Evolving Knowledge Graphs with Self-Evolving Search Agents
+- [[2026-08-03_07-12-52Z_LEAP_LeanEnvironment_FeedbackviaAdaptivePruningfor.md]] : LEAP: Lean Environment-Feedback via Adaptive Pruning for Code RL in GPU Kernel Generation
+- [[2026-08-03_17-43-36Z_StructuredMemoryforEdgeLanguageModels_PersistentCo.md]] : Structured Memory for Edge Language Models: Persistent Context and Corpus Retrieval via O(1) SSM State Injection
+- [[2026-08-03_15-15-55Z_PredAct_Bench_BenchmarkingTool_AugmentedDialogueun.md]] : PredAct-Bench: Benchmarking Tool-Augmented Dialogue under Controlled Tool Noise
+- [[2026-08-03_17-55-24Z_GradCuit_Credit_AssignedGradientFlowEnablesRobusta.md]] : GradCuit: Credit-Assigned Gradient Flow Enables Robust and Interpretable Test-Time Latent Reasoning
+- [[2026-08-03_10-09-19Z_BeforeReasoningFails_Pre_EvidenceProceduralFailure.md]] : Before Reasoning Fails: Pre-Evidence Procedural Failures in Agentic RAG
+- [[2026-08-03_12-15-26Z_FromChainstoTrees_Parent_ConditionedDraftingforSem.md]] : From Chains to Trees: Parent-Conditioned Drafting for Semi-Autoregressive Speculative Decoding
+- [[2026-08-03_12-10-52Z_MemArbiter_Decision_TimeMemoryArbitrationforLong_H.md]] : MemArbiter: Decision-Time Memory Arbitration for Long-Horizon LLM Agents
+- [[2026-08-03_11-47-52Z_Instruction_ConditionedExplorationwithAsymmetricRe.md]] : Instruction-Conditioned Exploration with Asymmetric Reinforcement Learning and Self-Distillation
+- [[2026-08-03_00-04-14Z_EmergenceInvariance_FromSymbolizedThoughttoInterfa.md]] : Emergence Invariance: From Symbolized Thought to Interface Refinement
+- [[2026-08-03_09-20-05Z_DivisiveNormalizationShapesLow_RankSlowManifoldsfo.md]] : Divisive Normalization Shapes Low-Rank Slow Manifolds for Continuous Working Memory
+- [[2026-08-03_12-18-58Z_CoRe_GNN_MultilevelMessagepassingonCoarsenedgraphs.md]] : CoRe-GNN: Multilevel Message passing on Coarsened graphs
+- [[2026-08-02_13-39-01Z_LearningWhattoRememberandWhattoInternalizeinLLMSel.md]] : Learning What to Remember and What to Internalize in LLM Self-Evolution via Adaptive Memory-Parameter Coordination
+- [[2026-08-03_16-22-51Z_ParEvalLayer_WhenPartialLLM_AgentEvaluationsSuppor.md]] : ParEvalLayer: When Partial LLM-Agent Evaluations Support a Decision
+- [[2026-08-03_06-34-31Z_EntailLLM_VerifyingLLM_GeneratedVulnerabilityDisco.md]] : EntailLLM: Verifying LLM-Generated Vulnerability Discovery Paths with Domain Knowledge via Logic Programming
+- [[2026-08-03_14-18-00Z_SKT_Skill_UseTrainingatScaleviaVerifiedSyntheticDa.md]] : SKT: Skill-Use Training at Scale via Verified Synthetic Data Generation
+- [[2026-08-03_13-05-38Z_StartClassifying_CategoricalCriticsforLLMReinforce.md]] : Start Classifying: Categorical Critics for LLM Reinforcement Learning
+- [[2026-08-03_08-51-50Z_HarnessCompass_GuidingAutomaticHarnessEvolutiontow.md]] : HarnessCompass: Guiding Automatic Harness Evolution toward Generalizable and Effective Agent Harnesses
+- [[2026-08-03_05-10-21Z_RethinkingGenerativeAILiteracy_AnIntegrative_Devel.md]] : Rethinking Generative AI Literacy: An Integrative, Developmental, and Dialectical Framework for K-12 Teacher Education
+- [[2026-08-03_08-15-18Z_CRISP_CriticalStepPerceptionforTrainingEfficientDe.md]] : CRISP: Critical Step Perception for Training Efficient Deep Search Agents
+- [[2026-08-02_02-37-49Z_Temperature_driveninversionandnonlineardynamicsinC.md]] : Temperature-driven inversion and nonlinear dynamics in ChatGPT-like AIs
+- [[2026-08-02_05-42-58Z_KING_Embodiment_AwareKinematicGraphNeuralNetworkfo.md]] : KING: Embodiment-Aware Kinematic Graph Neural Network for Unified Motion Representation of Legged and Wheeled Robots
+- [[2026-07-31_15-44-43Z_LeakIt_AProbabilisticApproachtoTraining_DataExtrac.md]] : Leak It: A Probabilistic Approach to Training-Data Extraction from Black-Box Language Models
+- [[2026-08-01_13-59-49Z_HetGPS_ScalableGraphMulti_AgentReinforcementLearni.md]] : HetGPS: Scalable Graph Multi-Agent Reinforcement Learning with Physics-Anchored Adaptive Safety for EV Charging
+- [[2026-08-01_10-23-04Z_RelaxWithin_BalanceAcross_Geometry_GuidedLoadBalan.md]] : Relax Within, Balance Across: Geometry-Guided Load Balancing for Vision-Language Mixture-of-Experts
+- [[2026-08-01_08-43-26Z_UnleashingthePowerofText_Text_GuidedFlowMatchingfo.md]] : Unleashing the Power of Text: Text-Guided Flow Matching for Image Fusion under Complex Degradations
+- [[2026-08-01_08-40-04Z_SSTG_Nav_Metric_GroundedSpatial_SemanticTopologica.md]] : SSTG-Nav: Metric-Grounded Spatial-Semantic Topological Graphs for Reusable Object Navigation
+- [[2026-08-02_04-35-45Z_BeyondGeneReconstruction_LearningCellRepresentatio.md]] : Beyond Gene Reconstruction: Learning Cell Representations through Complementary Transcriptomic Views
+- [[2026-08-02_05-59-24Z_Stress_ReliefAnnealing_Polynomial_TimeSimulation_F.md]] : Stress-Relief Annealing: Polynomial-Time Simulation-Free Layout Optimization for Automated Warehouses
+- [[2026-08-01_12-27-13Z_AHeuristicPerspectiveonDebiasingLanguageModels.md]] : A Heuristic Perspective on Debiasing Language Models
+- [[2026-08-01_19-15-17Z_AnticipatoryDigitalTwinsforOnlineHead_and_NeckAdap.md]] : Anticipatory Digital Twins for Online Head-and-Neck Adaptive Proton Therapy via Foundation-Model Registration
+- [[2026-08-01_22-36-35Z_Neuro_EvolvedHeuristicsforVariableGappedCommonSubs.md]] : Neuro-Evolved Heuristics for Variable Gapped Common Subsequence Identification
+- [[2026-08-01_07-41-43Z_ThemethodologyofConstructingtheLarge_ScaleDatasetf.md]] : The methodology of Constructing the Large-Scale Dataset for Detecting Presuicidal and Anti-Suicidal Signals in Social Media Texts in Russian
+- [[2026-08-01_16-28-38Z_BehavioralGrammar_DetectingAdaptiveMalwareviaTinyL.md]] : Behavioral Grammar: Detecting Adaptive Malware via Tiny Language Model Priors and Second-Order Temporal Analysis
+- [[2026-08-01_16-22-35Z_EduPluginBench_ExecutableAssuranceforAI_GeneratedE.md]] : EduPluginBench: Executable Assurance for AI-Generated Educational Plugins
+- [[2026-08-01_15-21-59Z_ObservatorioLazaro_Aself_populatingdatabaseofangli.md]] : Observatorio Lazaro: A self-populating database of anglicism usage in the Spanish press
+- [[2026-08-01_22-12-02Z_AssumingYouKnew_FixinganEpistemicSemanticsforFlowP.md]] : Assuming You Knew: Fixing an Epistemic Semantics for Flow Policies Using Agentic AI
+- [[2026-08-02_07-32-46Z_FactorJEPA_FactorizingMonolithicFuturesintoLayout_.md]] : FactorJEPA: Factorizing Monolithic Futures into Layout-Agent-Interaction Channels for Crowded and Chaotic Global South Urban Worlds
+- [[2026-08-01_11-16-20Z_AnInformationTheoreticTreatmentofYager_sProbabilit.md]] : An Information Theoretic Treatment of Yager's Probability Distribution Negation
+- [[2026-08-01_15-35-56Z_AI_BasedThesisAssessment_AnEmpiricalStudyofHumanEv.md]] : AI-Based Thesis Assessment: An Empirical Study of Human Evaluation Priorities and Their Impact on Automated Assessment
+- [[2026-08-02_05-58-00Z_Caliber_Cross_ArchitectureExtraction_CostControlfo.md]] : Caliber: Cross-Architecture Extraction-Cost Control for Score-Returning APIs
+- [[2026-08-01_18-51-50Z_TheScalingParadoxinHuman_AICollaboration.md]] : The Scaling Paradox in Human-AI Collaboration
+- [[2026-07-31_23-02-58Z_BayesianandMotivatedReasoninginAIAgents.md]] : Bayesian and Motivated Reasoning in AI Agents
+- [[2026-08-01_10-38-23Z_Writing_System_LevelTokenizerAdaptationforByte_Lev.md]] : Writing-System-Level Tokenizer Adaptation for Byte-Level BPE
+- [[2026-08-01_13-51-55Z_OpenART_ScalingAgentRedTeamingviaOpen_EndedEnviron.md]] : OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution
+- [[2026-07-31_20-42-53Z_Sixteenmodels_fewerthantwovoices_measuringensemble.md]] : Sixteen models, fewer than two voices: measuring ensemble dispersion where no answer is uniquely correct
+- [[2026-08-01_21-23-32Z_SimilarityWeightedAggregationwithGlobalDifferentia.md]] : Similarity Weighted Aggregation with Global Differential Privacy for Federated Brain Lesion Segmentation
+- [[2026-08-01_14-54-45Z_EvolutionaryCurriculumLearningImprovesBiologicalSe.md]] : Evolutionary Curriculum Learning Improves Biological Sequence Modeling
+- [[2026-07-31_21-31-07Z_AbstentionasanActionCanKillBoththeRewardGradientan.md]] : Abstention as an Action Can Kill Both the Reward Gradient and the KL Anchor: Collapse Law and Repair for Error-Penalized Reinforcement Learning
+- [[2026-08-01_11-07-24Z_WhyDoestheFutureBranch_IdentifiableClosureTestsfor.md]] : Why Does the Future Branch? Identifiable Closure Tests for Stochastic Physical World Models
+- [[2026-08-02_04-33-21Z_UnsupervisedMultidomainApproachestoNamedEntityReco.md]] : Unsupervised Multidomain Approaches to Named Entity Recognition with Small Datasets
+- [[2026-08-01_08-58-15Z_RobustWatermarksMeetBackdooredModels_EvadingDiffus.md]] : Robust Watermarks Meet Backdoored Models: Evading Diffusion Semantic Watermarks via Stealthy Backdoor
+- [[2026-08-01_12-30-55Z_Learning_BasedMotionPlanningforDynamicEnvironments.md]] : Learning-Based Motion Planning for Dynamic Environments: From Foundational Algorithms to Emerging Paradigms
+- [[2026-08-01_07-35-06Z_TaPR_Test_AwarePolicyRefinementforFeedback_Conditi.md]] : TaPR: Test-Aware Policy Refinement for Feedback-Conditioned Code Generation
+- [[2026-08-02_02-55-32Z_GraRe_GraspCandidateRe_RankingforFrozen6_DoFGraspD.md]] : GraRe: Grasp Candidate Re-Ranking for Frozen 6-DoF Grasp Detectors
+- [[2026-08-02_08-19-39Z_Role_DecoupledAttentionResiduals_SeparatingMatchin.md]] : Role-Decoupled Attention Residuals: Separating Matching and Content Retrieval Across Depth
+- [[2026-07-31_22-57-16Z_RMSWeb_Reflection_Failure_ModeMining_andSalvage_DS.md]] : RMSWeb: Reflection, Failure-Mode Mining, and Salvage-DS for Web Agent Reinforcement Learning
+- [[2026-08-01_14-55-48Z_SupportingCybersecurityRiskManagementforMedicalDev.md]] : Supporting Cybersecurity Risk Management for Medical Devices via the SECUMAN Ontology and Shapes
+- [[2026-08-01_09-54-54Z_ThroughtheLENS_LocalGeometricDecompositionofVision.md]] : Through the LENS: Local Geometric Decomposition of Vision-Language Model Representations
+- [[2026-08-01_16-59-49Z_RAGOCR_OpticalCompressionofRetrieval_AugmentedText.md]] : RAGOCR: Optical Compression of Retrieval-Augmented Text via Visual Representation
+- [[2026-08-01_10-45-03Z_Element_AwareGroupLearningforE_CommerceImageGenera.md]] : Element-Aware Group Learning for E-Commerce Image Generation
+- [[2026-08-01_15-20-16Z_ExploitingIntrinsicDualityforMulti_HopQuestionGene.md]] : Exploiting Intrinsic Duality for Multi-Hop Question Generation
+- [[2026-07-31_19-05-43Z_Verifier_InducedSupportReshapinginOn_PolicyOptimiz.md]] : Verifier-Induced Support Reshaping in On-Policy Optimization
+- [[2026-08-01_08-34-22Z_Rethinkingandformalisingthestateacrosslanguages_au.md]] : Rethinking and formalising the state across languages: a unified computational learning theory account
+- [[2026-08-01_16-37-58Z_CN101_ADigitalThermodynamicComputerforGenerativeAI.md]] : CN101 - A Digital Thermodynamic Computer for Generative AI
+- [[2026-08-01_08-22-49Z_BayesSeg_ABayesianOptimizationFrameworkforStateSeg.md]] : BayesSeg: A Bayesian Optimization Framework for State Segmentation of Electricity Consumption Time Series
+- [[2026-08-02_06-06-28Z_VLAGuard_AFrameworkforEvaluatingandMitigatingPhysi.md]] : VLAGuard: A Framework for Evaluating and Mitigating Physical Attention Hijacking in Vision-Language-Action Robots within Wireless Sensor Networks
+- [[2026-08-02_03-32-08Z_AnAIApproachtoVerifiedProductionCryptographicLibra.md]] : An AI Approach to Verified Production Cryptographic Libraries
+- [[2026-07-31_20-46-10Z_ComparingandModelingArgumentationinGermanPolitical.md]] : Comparing and Modeling Argumentation in German Political Communication across Arenas
+- [[2026-08-01_16-24-11Z_Multi_tenantKubernetesUseCasesforAI_SecureComputin.md]] : Multi-tenant Kubernetes Use Cases for AI, Secure Computing and Data Services, and More
+- [[2026-08-01_10-38-10Z_LoanwordorSwitch_TheAnnotationBoundary_NottheModel.md]] : Loanword or Switch? The Annotation Boundary, Not the Model, Drives Kazakh-Russian Code-Switching Identification
+- [[2026-08-01_10-29-31Z_UOT_IR_StructuredRoutingofHigh_PolyphonySymbolicMu.md]] : UOT-IR: Structured Routing of High-Polyphony Symbolic Music into Fixed-Budget Representations
+- [[2026-08-02_04-03-59Z_One_SidedQuantileCouplingforFlowMatching.md]] : One-Sided Quantile Coupling for Flow Matching
+- [[2026-08-01_08-02-35Z_TheLearningObjectiveGovernsPerceptualNarrowing_ACr.md]] : The Learning Objective Governs Perceptual Narrowing: A Cross-Lingual, Layer-Wise, Ten-Seed Study of Self-Supervised Speech Encoders
+- [[2026-08-01_19-34-44Z_PrunedBPE_Post_trainingVisibilityPruningandTokenRe.md]] : Pruned BPE: Post-training Visibility Pruning and Token Reallocation for Byte Pair Encoding
+- [[2026-08-01_09-17-30Z_DexMani_Human_DerivedManipulabilityGuidanceforDext.md]] : DexMani: Human-Derived Manipulability Guidance for Dexterous Rotation
+- [[2026-08-02_07-00-49Z_DecoyImagesAmplifyCaption_MediatedDefensesAgainstE.md]] : Decoy Images Amplify Caption-Mediated Defenses Against Encoded Jailbreaks
+- [[2026-08-01_10-03-14Z_CrushingtheEvidence_ADual_PenaltyEvasionFrameworkf.md]] : Crushing the Evidence: A Dual-Penalty Evasion Framework for Fooling White-Box Explainable AI Auditors
+- [[2026-08-01_06-51-38Z_CrossProjection_GeometricGroundingBeyondViewpointC.md]] : CrossProjection: Geometric Grounding Beyond Viewpoint Change in Architectural Drawings
+- [[2026-07-31_20-06-38Z_Cross_TaskDissociationinFrontierVision_LanguageMod.md]] : Cross-Task Dissociation in Frontier Vision-Language Model Theory of Mind
+- [[2026-08-01_11-59-01Z_Slides2MindMap_ReconstructingCognitivelyEfficientK.md]] : Slides2MindMap: Reconstructing Cognitively Efficient Knowledge Hierarchies from Lecture Slides
+- [[2026-08-01_16-42-51Z_LessIsMore_TuningConfigurableSystemswithImperfectF.md]] : Less Is More: Tuning Configurable Systems with Imperfect Fidelity
+- [[2026-08-01_13-12-59Z_UnderstandingOnlineFailurePredictioninLinuxThrough.md]] : Understanding Online Failure Prediction in Linux Through Complementary Multi-View Explainability
+- [[2026-08-01_10-52-56Z_VerificationWithoutSufficiency_Per_ChunkFilteringF.md]] : Verification Without Sufficiency: Per-Chunk Filtering Fails on Multi-Hop RAG, and Decomposition Repairs It
+- [[2026-08-02_04-43-04Z_Entity_FaithfulRepairofSyntheticSupervisionforZero.md]] : Entity-Faithful Repair of Synthetic Supervision for Zero-Shot Image Captioning
+- [[2026-08-01_08-02-42Z_RadYOLO_ComputationallyEfficient3DObjectDetectiona.md]] : RadYOLO: Computationally Efficient 3D Object Detection and Segmentation in CT and MRI
+- [[2026-08-01_15-24-06Z_Coverage_DrivenAdaptiveKeyframeSelectionforVideoUn.md]] : Coverage-Driven Adaptive Keyframe Selection for Video Understanding
+- [[2026-08-01_07-24-12Z_SERL_SQL_SelectiveHindsightDistillationforText_to_.md]] : SERL-SQL: Selective Hindsight Distillation for Text-to-SQL Reinforcement Agentic Learning
+- [[2026-08-02_03-53-30Z_MindtheGap_Zero_QueryJailbreaksviaFilter_Generator.md]] : Mind the Gap: Zero-Query Jailbreaks via Filter-Generator Discrepancy in Text-to-Image Systems
+- [[2026-08-01_10-11-20Z_FairnessAuditing_LowerBoundsonCompanyManipulation.md]] : Fairness Auditing: Lower Bounds on Company Manipulation
+- [[2026-08-02_03-20-50Z_TheEpistemicPoliticsofAIAnthropomorphism.md]] : The Epistemic Politics of AI Anthropomorphism
+- [[2026-07-31_19-40-15Z_MoreDebate_SameEvidence_StructuralLimitsofHomogene.md]] : More Debate, Same Evidence: Structural Limits of Homogeneous Multi-Agent Groundedness
+- [[2026-08-01_09-33-29Z_AiFlow_Token_NativeReactiveOrchestrationwithBounde.md]] : AiFlow: Token-Native Reactive Orchestration with Bounded Backpressure for Streaming LLM Applications
+- [[2026-08-01_00-36-44Z_ArtificialIntelligenceandModeling_Simulation_AnOve.md]] : Artificial Intelligence and Modeling & Simulation: An Overview
+- [[2026-08-01_09-05-28Z_AContext_AwareCulturalHeritageGuidePoweredbyLLMs.md]] : A Context-Aware Cultural Heritage Guide Powered by LLMs
+- [[2026-08-01_14-01-17Z_Multi_DimensionalAssessmentforAICognition_MAAC__AT.md]] : Multi-Dimensional Assessment for AI Cognition (MAAC): A Theoretical Framework for Process-Oriented Cognitive Evaluation of Text-Based AI Systems
+- [[2026-07-31_18-56-30Z_PersonalizingLargeLanguageModelAgentswithSmallPoli.md]] : Personalizing Large Language Model Agents with Small Policy Models
+- [[2026-08-01_13-47-44Z_FromChasingGhoststoMissedAttacks_PerspectivesandPe.md]] : From Chasing Ghosts to Missed Attacks: Perspectives and Perceptions of SOC Practitioners on LLM Integration, Risks, and Readiness
+- [[2026-08-01_16-20-24Z_AnEmbeddedRISC_VEvaluationofKolmogorov__ArnoldNetw.md]] : An Embedded RISC-V Evaluation of Kolmogorov--Arnold Networks in Hard-Constrained Recurrent Physics-Informed Models
+- [[2026-08-01_15-19-10Z_TracingtheCascade_ATopology_AwareEvaluationFramewo.md]] : Tracing the Cascade: A Topology-Aware Evaluation Framework for Scientific Agent Hallucinations
+- [[2026-08-01_03-40-22Z_UnleashingthePotentialofLargeLanguageModels_ABluep.md]] : Unleashing the Potential of Large Language Models: A Blueprint for Real-Time, Enterprise-Ready Deployments
+- [[2026-07-31_11-47-54Z_LLM_OSDA_AnOptimal_StoppingDynamicAuctionforNative.md]] : LLM-OSDA: An Optimal-Stopping Dynamic Auction for Native Advertising in Multi-Turn LLM Conversations
+- [[2026-08-01_13-21-55Z_Select_And_Extract_ALightweightPluginforRetrieval_.md]] : Select-And-Extract: A Lightweight Plugin for Retrieval-Augmented Generation
+- [[2026-08-02_05-23-44Z_TowardFine_GrainedForgetting_AttributeUnlearningfo.md]] : Toward Fine-Grained Forgetting:Attribute Unlearning for Multimodal Large Language Models
+- [[2026-08-02_02-30-32Z_Neuro_SymbolicParticipationGovernanceforVerifiable.md]] : Neuro-Symbolic Participation Governance for Verifiable AI Agents in Open Digital Twin Ecosystems
+- [[2026-07-31_18-05-25Z_AConstitution_GridInstrumentforData_EfficientRLAli.md]] : A Constitution-Grid Instrument for Data-Efficient RL Alignment (C-Guard)
+- [[2026-08-01_03-13-35Z_Wheredidtheambiguitygo_Examininghowmultimodalmodel.md]] : Where did the ambiguity go? Examining how multimodal models interpret polysemous words
+- [[2026-08-01_11-48-25Z_EscapingConfidenceTrap_EvolutionaryDecodingforMath.md]] : Escaping Confidence Trap: Evolutionary Decoding for Mathematical Reasoning in Diffusion LLMs
+- [[2026-08-01_05-27-20Z_CeQe_GroundingLexicalRetrievalinSemanticEvidence.md]] : CeQe: Grounding Lexical Retrieval in Semantic Evidence
+- [[2026-08-01_04-32-18Z_DistillingReasoningTracesintoAdvisoryPromptsforSof.md]] : Distilling Reasoning Traces into Advisory Prompts for Software Engineering Tasks
+- [[2026-07-31_20-24-58Z_Areproducibleandextensibleframeworkforbenchmarking.md]] : A reproducible and extensible framework for benchmarking competing risks survival models
+- [[2026-08-02_05-09-28Z_FromAITechnicalDebttoAgenticTechnicalDebt_ASystema.md]] : From AI Technical Debt to Agentic Technical Debt: A Systematic Mapping of Root Causes and Manifestations in Agentic AI Systems
+- [[2026-08-02_06-43-25Z_Opt_GearTechnicalReport.md]] : Opt.Gear Technical Report
+- [[2026-08-01_04-17-14Z_DeepResearchPretrainingviaPredictiveNavigation.md]] : Deep Research Pretraining via Predictive Navigation
+- [[2026-07-31_17-50-08Z_AgentStream_HowWellDoSelf_EvolvingLLMAgentsPerform.md]] : AgentStream: How Well Do Self-Evolving LLM Agents Perform Under Streaming Tasks?
+- [[2026-08-01_15-40-13Z_CascadeLUT_Information_OrderedStreamingInferencefo.md]] : CascadeLUT: Information-Ordered Streaming Inference for Bandwidth-Constrained FPGAs
+- [[2026-08-02_05-22-30Z_HierarchicalSolomonoffInduction_AnUnboundedMachine.md]] : Hierarchical Solomonoff Induction: An Unbounded Machine Learning Model
+- [[2026-08-01_23-07-08Z_CADIR_ACross_BackendEditableIntermediateRepresenta.md]] : CADIR: A Cross-Backend Editable Intermediate Representation for Agentic CAD Generation
+- [[2026-08-02_00-55-47Z_TevatronMeetsMegatron_Expert_ParallelLLMRerankerTr.md]] : Tevatron Meets Megatron: Expert-Parallel LLM Reranker Training on an Academic Budget
+- [[2026-08-01_07-13-48Z_F_WANDA_Fisher_ReweightedPost_TrainingPruningforSu.md]] : F-WANDA: Fisher-Reweighted Post-Training Pruning for Sustainable Deployment of Large Language Models
+- [[2026-07-31_16-14-24Z_RadPRISM_Schema_stratifiedradiology_reportsupervis.md]] : RadPRISM: Schema-stratified radiology-report supervision for concept-disentangled image representations and visual grounding
+- [[2026-08-02_06-45-16Z_WAM_Diff2_HierarchicalAR_to_DiffusionDistillationf.md]] : WAM-Diff2: Hierarchical AR-to-Diffusion Distillation for Highly Efficient Autonomous Driving VLA
+- [[2026-08-02_02-06-23Z_ModelingSocialDynamicswithanLLM_EnabledAgentBasedN.md]] : Modeling Social Dynamics with an LLM-Enabled Agent Based Network-Dynamic (LAND) Model
+- [[2026-08-01_04-18-49Z_AdaMTP_AnAdaptiveTrainingParadigmforMulti_TokenPre.md]] : AdaMTP: An Adaptive Training Paradigm for Multi-Token Prediction
+- [[2026-08-02_05-00-44Z_JudgingIsNotEnumerating_SilentOmissionsinLLM_Autho.md]] : Judging Is Not Enumerating: Silent Omissions in LLM-Authored Acceptable Sets
+- [[2026-08-01_14-44-25Z_AttnLink_TurningAttentionintoSchemaLinksforText_to.md]] : AttnLink: Turning Attention into Schema Links for Text-to-SQL
+- [[2026-07-31_18-39-28Z_AveragingBias_HumanFaithfulnessAnnotationsarenotLo.md]] : Averaging Bias: Human Faithfulness Annotations are not Locally Faithful
+- [[2026-07-31_18-43-07Z_BridgingtheEnglish_ArabicMedicalKnowledgeGap_Targe.md]] : Bridging the English-Arabic Medical Knowledge Gap: Targeted Low-Rank Adaptation via Causal Layer Selection
+- [[2026-08-02_00-30-13Z_FinHardBench_CanLLMsGenerateLatency_AwareHardwaref.md]] : FinHardBench: Can LLMs Generate Latency-Aware Hardware for Financial Computing?
+- [[2026-08-02_05-19-25Z_WhoBelongsintheEvalSet_ACapability_Taxonomy_Driven.md]] : Who Belongs in the Eval Set? A Capability-Taxonomy-Driven Pipeline for Curating Regression Eval Sets in Agent-Extensibility Platforms
+- [[2026-08-01_17-29-14Z_DistillWhereYouFail_RecoveringLearningSignalsofNeg.md]] : Distill Where You Fail: Recovering Learning Signals of Negative RL-Groups from Adaptive Teacher Guidance
+- [[2026-08-01_10-11-59Z_Latency_TolerantCloud_EdgeCollaborativeVision_Lang.md]] : Latency-Tolerant Cloud-Edge Collaborative Vision-Language-Action Models via Emergent Representational Specialization
+- [[2026-07-31_19-03-44Z_AFewNeuronsRevealWhenLLMsMisuseTools_SparseDetecti.md]] : A Few Neurons Reveal When LLMs Misuse Tools: Sparse Detection and Selective Steering for Reliable Tool Use
+- [[2026-07-31_21-44-03Z_SeDeM_SelectiveDecompressionofHidden_StateMemories.md]] : SeDeM: Selective Decompression of Hidden-State Memories for Long-Context Question Answering
+- [[2026-08-02_02-17-10Z_Gaokerena_ASmallPersianMedicalLanguageModelFamily.md]] : Gaokerena: A Small Persian Medical Language Model Family
+- [[2026-08-01_08-46-53Z_DE_NER_Zero_shotNamedEntityRecognitionviaDialogueE.md]] : DE-NER : Zero-shot Named Entity Recognition via Dialogue Elicitation of Large Language Models
+- [[2026-08-02_04-41-20Z_SCHEDBench_ABenchmarkforEvaluatingLLMConstraintFai.md]] : SCHEDBench: A Benchmark for Evaluating LLM Constraint Faithfulness in Natural-Language Combinatorial Scheduling
+- [[2026-08-02_07-32-49Z_Don_tOfferWhatCan_tBeDone_DeterministicExecutabili.md]] : Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale
+- [[2026-08-02_00-08-44Z_PracticalOnlineKVCacheCompactionforLLMAgents_AnEmp.md]] : Practical Online KV Cache Compaction for LLM Agents: An Empirical Study
+- [[2026-08-02_03-36-03Z_TrajWiki_Source_GroundedMemoryTrajectoriesforLong_.md]] : TrajWiki: Source-Grounded Memory Trajectories for Long-Horizon Dialogue Agents
+- [[2026-08-02_06-31-25Z_CallScreenBench_BenchmarkingOn_DeviceModelsasPhone.md]] : CallScreenBench: Benchmarking On-Device Models as Phone Secretaries
+- [[2026-08-01_16-31-00Z_WhenPromptsControlRobots_PromptInjectionAttacksinM.md]] : When Prompts Control Robots: Prompt Injection Attacks in Multi-Agent Robotic Systems
+- [[2026-08-02_04-15-12Z_AuditingDiscoveryClaims_ATwo_SidedCriterionforAgen.md]] : Auditing Discovery Claims: A Two-Sided Criterion for Agentic Science, with the Negative Side Decidable
+- [[2026-07-31_16-46-19Z_ExposedbyDesign_ADynamicSecurityAssessmentofIntern.md]] : Exposed by Design: A Dynamic Security Assessment of Internet-Facing MCP Servers at Scale
+- [[2026-08-01_03-43-31Z_TrAC_Trace_ConditionedAnswerConsistencyforEfficien.md]] : TrAC: Trace-Conditioned Answer Consistency for Efficient Uncertainty Quantification in LLMs
+- [[2026-08-01_20-32-46Z_REIMU_EfficientHeterogeneousHierarchicalReasoningf.md]] : REIMU: Efficient Heterogeneous Hierarchical Reasoning for SSL-Based Speech Deepfake Detection
+- [[2026-08-02_06-56-56Z_WhatCouldtheAgentSeeat19_05_GeneratingTemporalEnte.md]] : What Could the Agent See at 19:05? Generating Temporal Enterprise Scenarios from Real Research and Replaying Them to Evaluate Agents
+- [[2026-08-01_20-42-41Z_SparseKAN_CompressingKolmogorov__ArnoldNetworksAcr.md]] : SparseKAN: Compressing Kolmogorov--Arnold Networks Across Basis Functions, Neurons, and Bits
+- [[2026-08-01_03-43-55Z_DiagnoseBeforeYouCompress_Prediction_IndependentBo.md]] : Diagnose Before You Compress: Prediction-Independent Bottleneck Witness Refinement for LLM Serving Traces
+- [[2026-08-02_03-48-41Z_PROGRESS_Coverage_guidedRLtoTrainSearch_augmentedL.md]] : PROGRESS: Coverage-guided RL to Train Search-augmented LLM Agent
+- [[2026-07-31_13-38-16Z_AFortranGeneral_PurposeTranspiler_ProofofConcept.md]] : A Fortran General-Purpose Transpiler: Proof of Concept
+- [[2026-08-01_08-41-29Z_S__4_R_SelectiveSampling_Subspaces_andSparseRecons.md]] : S$^4$R: Selective Sampling, Subspaces, and Sparse Reconstruction for Compressed Long-Context KV Caching
+- [[2026-07-31_18-00-50Z_Inference_TimePolicyAlignmentforFairReinforcementL.md]] : Inference-Time Policy Alignment for Fair Reinforcement Learning
+- [[2026-08-01_08-24-30Z_AuditableReleaseControlforPedagogicalLeakageinLLMT.md]] : Auditable Release Control for Pedagogical Leakage in LLM Tutors
+- [[2026-08-02_05-33-41Z_Cloud_ScPO_Hidden_StateGeometryforSemi_SupervisedP.md]] : Cloud-ScPO: Hidden-State Geometry for Semi-Supervised Preference Optimization in LLM Reasoning
+- [[2026-07-31_18-26-17Z_TRACE_TS_Attribution_GroundedandTraceableSensor_La.md]] : TRACE-TS: Attribution-Grounded and Traceable Sensor-Language Reasoning for Human Activity Understanding
+- [[2026-08-01_12-53-34Z_DASH_DecoupledAdaptiveSurrogate_AcquisitionHarness.md]] : DASH: Decoupled Adaptive Surrogate - Acquisition Harness for Automated Bayesian Optimization
+- [[2026-07-31_23-58-25Z_CurveShift_IsAgentProgressScalar_SeparatingLevelfr.md]] : CurveShift: Is Agent Progress Scalar? Separating Level from Shape
+- [[2026-08-01_16-32-03Z_MeandMyBot_WhatUsersTalkAboutinAICompanionCommunit.md]] : Me and My Bot: What Users Talk About in AI Companion Communities on Reddit
+- [[2026-07-31_16-11-46Z_DiffusionGemmaTechnicalReport.md]] : DiffusionGemma Technical Report
+- [[2026-08-01_20-42-52Z_KilobyteModels_NeuralNetworksasaSeedandaQuantizedL.md]] : Kilobyte Models: Neural Networks as a Seed and a Quantized Latent
+- [[2026-07-31_15-35-06Z_SymbolicAttackChainGenerationfromAtomicRedTeamTech.md]] : Symbolic Attack Chain Generation from Atomic Red Team Techniques: An Empirical Study of Predicate Representation Granularity
+- [[2026-08-02_04-10-11Z_PassingCoarseMarginalChecksCanBeCheap_PersonaMixtu.md]] : Passing Coarse Marginal Checks Can Be Cheap: Persona Mixtures and Imprecise Treatment-Response Estimates in an LLM Persona Panel
+- [[2026-08-02_01-32-22Z_RefactorAssist_AgenticRefinementforReliableCodeRef.md]] : RefactorAssist: Agentic Refinement for Reliable Code Refactoring
+- [[2026-07-31_21-35-46Z_CrystalMem_ElasticMemoryforSelf_EvolvingLLMAgentsv.md]] : CrystalMem: Elastic Memory for Self-Evolving LLM Agents via Knowledge Crystallization
+- [[2026-08-01_19-17-03Z_AdvPlan_Bench_AdversarialEvaluationofStructuredPla.md]] : AdvPlan-Bench: Adversarial Evaluation of Structured Plan-Generation Agents
+- [[2026-08-02_05-49-25Z_WhyLLMsGiveIn_ConversationalFactorsandReasoningBeh.md]] : Why LLMs Give In: Conversational Factors and Reasoning Behind Medical Sycophancy
+- [[2026-08-01_08-56-26Z_AgenticGraphTokenReasoning.md]] : Agentic Graph Token Reasoning
+- [[2026-08-01_08-43-34Z_CURE_LocalUncertaintyRepairforBlock_ParallelSpecul.md]] : CURE: Local Uncertainty Repair for Block-Parallel Speculative Decoding
+- [[2026-08-01_15-35-58Z_AdversarialAttacksinMulti_AgentLLMPipelines_Unveil.md]] : Adversarial Attacks in Multi-Agent LLM Pipelines: Unveiling Structural Vulnerabilities in Agentic AI Architectures
+- [[2026-08-01_21-38-15Z_GeoArbiter_Verifiability_GuidedGroundingforRemote_.md]] : GeoArbiter: Verifiability-Guided Grounding for Remote-Sensing Multimodal LLMs
+- [[2026-08-01_08-44-32Z_NativeMultilingualChain_of_ThoughtReasoninginLow_R.md]] : Native Multilingual Chain-of-Thought Reasoning in Low-Resource Southeast Asian Languages
+- [[2026-08-02_03-20-54Z_PMMC_ProspectiveMultimodalMemoryCompilationforLong.md]] : PMMC: Prospective Multimodal Memory Compilation for Long-Term LVLM Agents
+- [[2026-07-31_20-18-25Z_LoopsBench_FromHarnessEngineeringtoLoopEngineering.md]] : LoopsBench: From Harness Engineering to Loop Engineering in Benchmarking Coding Agent
+- [[2026-08-02_07-08-20Z_DeBERTa_Sentinel_TowardTransparentandTrustworthyDe.md]] : DeBERTa-Sentinel: Toward Transparent and Trustworthy Detection of AI-Generated Text
+- [[2026-08-01_16-54-41Z_FinDeepIndicator_BenchmarkingDeepResearchAgentsinE.md]] : FinDeepIndicator: Benchmarking Deep Research Agents in End-to-End Financial Indicator Construction
+- [[2026-08-01_14-14-12Z_WhenDoesLLMOrchestrationPayOff_AControlledEvaluati.md]] : When Does LLM Orchestration Pay Off? A Controlled Evaluation of Accuracy, Cost, and Task Difficulty
+- [[2026-08-02_05-57-46Z_CanHumansDreamofElectricSheep_Human_WrittenSamples.md]] : Can Humans Dream of Electric Sheep? Human-Written Samples for Fine-Grained Vision-and-Language Hallucination Benchmarking
+- [[2026-08-01_01-49-25Z_PretrainonSmallSyntheticData_ScaleLargeforFree_Sym.md]] : Pretrain on Small Synthetic Data, Scale Large for Free: Symmetry-Aware Foundation Model for Logic Rule Induction
+- [[2026-08-01_12-53-24Z_TreeProbe_ATibetanMedicineBenchmarkforCulturalBias.md]] : TreeProbe : A Tibetan Medicine Benchmark for Cultural Bias in LLMs
+- [[2026-08-01_17-50-12Z_MeasurementWithoutValidity_TheCompoundingReliabili.md]] : Measurement Without Validity: The Compounding Reliability Problem in Agentic AI Evaluation
+- [[2026-08-01_18-48-51Z_Largelanguagemodelsimprovephysicianaccuracybutlead.md]] : Large language models improve physician accuracy but lead to false reliance
+- [[2026-08-02_07-43-44Z_ControlUnderCompression_ReliabilityFrontiersforToo.md]] : Control Under Compression: Reliability Frontiers for Tool-Using Agents
+- [[2026-08-01_19-11-10Z_IsotropyCliffs_TheGeometricSignatureofDecision_Mak.md]] : Isotropy Cliffs: The Geometric Signature of Decision-Making in Large Language Models
+- [[2026-08-01_18-59-08Z_ExemplarsinDisguise_PureExemplarModelsMimicAbstrac.md]] : Exemplars in Disguise: Pure Exemplar Models Mimic Abstraction-First Learning
+- [[2026-07-31_22-26-45Z_LearningtoCoordinateSymbolicTools_LLMAgentsforVeri.md]] : Learning to Coordinate Symbolic Tools: LLM Agents for Verified Sum-of-Squares Certificates
+- [[2026-08-01_10-19-02Z_TrimMoEAcommunicationawareandadaptivedepthframewor.md]] : TrimMoE A communication aware and adaptive depth framework for distributed edge inference
+- [[2026-08-01_10-30-01Z_HetRouteHeterogeneousandCost_awareCollaborativeRou.md]] : HetRoute Heterogeneous and Cost-aware Collaborative Routing Framework for Distributed Edge MoE Inference
+- [[2026-07-31_22-01-18Z_AgenticBayesianOptimizationthroughSurrogate_Augmen.md]] : Agentic Bayesian Optimization through Surrogate-Augmented Autoresearch
+- [[2026-08-02_03-55-08Z_Search_GRT_GuidedRetrievalTrainingofSearchAgentsto.md]] : Search-GRT: Guided Retrieval Training of Search Agents to Optimize for Complex Question Answering
+- [[2026-08-01_19-27-41Z_DeepLearningCNNandRecurrenceAnalysisforAlphaGammaE.md]] : Deep Learning CNN and Recurrence Analysis for Alpha Gamma EEG Biomarkers in Fragile X Syndrome
+- [[2026-08-01_15-05-45Z_ATriple_RobustnessAnalysisofRetrieval_AugmentedGen.md]] : A Triple-Robustness Analysis of Retrieval-Augmented Generation for Multi-Hop Requirements Traceability
+- [[2026-08-01_10-42-41Z_AFalseAverage_Chain_of_ThoughtMonitorsCollapseWher.md]] : A False Average: Chain-of-Thought Monitors Collapse Where They Are the Only Defense
+- [[2026-08-02_05-27-21Z_MedUPS_TowardsDiagnosticAssistanceinUncommonMedica.md]] : MedUPS: Towards Diagnostic Assistance in Uncommon Medical Cases with Large Language Models
+- [[2026-08-02_07-43-09Z_CredittheRightBox_MarginalContributionAssignmentfo.md]] : Credit the Right Box: Marginal Contribution Assignment for Structured Visual Perception
+- [[2026-08-01_22-06-52Z_AOSpec_ActionandObservationCo_SpeculationforLow_La.md]] : AOSpec: Action and Observation Co-Speculation for Low-Latency Agent Serving
+- [[2026-08-01_18-17-47Z_AgentSLABench_EvaluatingandBenchmarkingAgenticSyst.md]] : AgentSLABench: Evaluating and Benchmarking Agentic Systems Under Resource Constraints
+- [[2026-07-31_18-24-49Z_AutoCause_APythonframeworkthatautomatesexpertdecis.md]] : AutoCause: A Python framework that automates expert decisions in environmental time-series causal discovery
+- [[2026-08-01_14-59-38Z_DGA__2_D_DirectedGraph_GuidedAutomatedAlgorithmDes.md]] : DGA$_2$D: Directed Graph-Guided Automated Algorithm Design with Large Language Models
+- [[2026-08-01_18-41-11Z_OoO_Spec_Out_of_OrderSemanticSpeculationforFastToo.md]] : OoO-Spec: Out-of-Order Semantic Speculation for Fast Tool Calling
+- [[2026-08-01_03-36-09Z_SymboUQ_SymbolicUncertaintyQuantificationforSpatia.md]] : SymboUQ: Symbolic Uncertainty Quantification for Spatial Reasoning in LLMs
+- [[2026-08-01_02-22-38Z_VerifiableChecksforBusinessRuleConsistency.md]] : Verifiable Checks for Business Rule Consistency
 - [[2026-07-31_06-58-02Z_FasterbutDifferent_DiagnosingandControllingContent.md]] : Faster but Different: Diagnosing and Controlling Content Drift in Accelerated Multimodal Diffusion Language Models
 - [[2026-07-30_20-16-03Z_RollingWithResistance_Preference_OptimizedLLMCouns.md]] : Rolling With Resistance: Preference-Optimized LLM Counselors Can Trade Goal Persistence for Relational Attunement in Motivational Interviewing
 - [[2026-07-30_18-00-09Z_Auser_sguidetoPINNsingeometricanalysis_lessonsfrom.md]] : A user's guide to PINNs in geometric analysis: lessons from the asymptotic Plateau problem
@@ -4184,3 +4901,18 @@ tags: ['wiki']
 - [[2026-08-03_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[2026-08-03_HowwebuiltarealtimesystemforresponsivevoiceAIinsix.md]] : How we built a realtime system for responsive voice AI in six months
 - [[2026-08-03_ThroneScienceraises_10MforAItoiletsensor_MobiHealt.md]] : Throne Science raises $10M for AI toilet sensor | MobiHealthNews
+- [[2026-08-03_Afterkillerquarter_PalantirCEOAlexKarpcallsAIindus.md]] : After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
+- [[2026-08-04_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-08-04_Afterkillerquarter_PalantirCEOAlexKarpcallsAIindus.md]] : After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
+- [[2026-08-04_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[2026-08-04_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-04_ThroneScienceraises_10MforAItoiletsensor_MobiHealt.md]] : Throne Science raises $10M for AI toilet sensor | MobiHealthNews
+- [[2026-08-04_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-08-04_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-08-04_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[2026-08-04_HowwebuiltarealtimesystemforresponsivevoiceAIinsix.md]] : How we built a realtime system for responsive voice AI in six months
+- [[2026-08-04_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-04_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[2026-08-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-04_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change

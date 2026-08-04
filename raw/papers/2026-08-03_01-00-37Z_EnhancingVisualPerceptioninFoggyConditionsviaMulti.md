@@ -1,0 +1,18 @@
+---
+title: Enhancing Visual Perception in Foggy Conditions via Multiclass Fog Density Modeling
+published: 2026-08-03T01:00:37Z
+authors: Mohamad Mofeed Chaar, Galia Weidl
+url: http://arxiv.org/abs/2608.01572v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Enhancing Visual Perception in Foggy Conditions via Multiclass Fog Density Modeling
+
+## Abstract
+Autonomous driving (AD) systems have advanced rapidly over the past decade; however, robust perception under adverse weather conditions remains a major challenge, particularly in dense fog. In this work, we investigate fog-aware perception using synthetically generated fog data derived from the Waymo dataset. To support fog simulation, depth images are generated using an iterative learning approach. We consider five fog-density levels: clear, light fog, moderate fog, heavy fog, and very heavy fog. Instead of training a single unified model across all conditions, we train separate perception models for each fog-density level. Experimental results show that density-specific training improves performance in severe fog conditions. In particular, for the very heavy fog class, recall improves from 0.076 to 0.232, corresponding to an absolute gain of 15.6 percentage points. These findings suggest that deploying multiple specialized models, rather than a single general-purpose model, can improve perception robustness for autonomous vehicles under challenging visibility conditions. Future work will extend this strategy to additional sensing modalities, including LiDAR and radar, and evaluate generalization across diverse weather scenarios.
+
+## Metadata
+- **Published**: 2026-08-03T01:00:37Z
+- **Authors**: Mohamad Mofeed Chaar, Galia Weidl
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.01572v1)

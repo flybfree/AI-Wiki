@@ -1,0 +1,18 @@
+---
+title: TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval
+published: 2026-08-03T10:52:32Z
+authors: Ji Huang, Yongsheng Dai, Tianyu Ren, Barry Devereux, Hui Wang
+url: http://arxiv.org/abs/2608.02056v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# TBSG-Net: Temporal Bipartite Scene Graph Network for Fine-Grained Video Moment Retrieval
+
+## Abstract
+Recent advances in proposal-free Video Moment Retrieval (VMR) have highlighted the effectiveness of Static Scene Graphs (SSGs). By modeling objects and their relations at the frame level, SSGs enrich retrieval-oriented video representations. However, integrating SSGs into VMR remains constrained by two inherent limitations: (1) Lack of Temporal Dynamics. SSGs fail to model how objects and their relationships evolve over time, leading to the loss of essential temporal dependencies in video representation; and (2) Lack of Explicit Temporal Span Encoding. SSGs do not explicitly encode the duration of relationships, making precise localization challenging. To address these limitations, we propose Temporal Bipartite Scene Graph Network (TBSG-Net)---to the best of our knowledge, the first Dynamic Scene Graph (DSG) based proposal-free VMR model. Specifically, TBSG-Net leverages DSGs to extract event-centric graph representations of the input video, enabling the modeling of object interactions over time and thus addressing limitation (1). These DSGs are then processed by a novel Dynamic Scene Graph Embedding (DSG-E) module to capture both Temporal Span and spatio-temporal information. First, DSG-E utilizes a TBSG Constructor to transform DSGs into TBSGs, explicitly encoding objects, relationships, and time spans to tackle limitation (2). Second, the resultant TBSGs are passed into a hybrid TBSG Encoder that integrates a Transformer variant for global event modeling and a Graph Convolutional Network for detailed relational reasoning, ultimately producing a more comprehensive spatio-temporal representation. Our experiments demonstrate substantial improvements of TBSG-Net over all baselines.
+
+## Metadata
+- **Published**: 2026-08-03T10:52:32Z
+- **Authors**: Ji Huang, Yongsheng Dai, Tianyu Ren, Barry Devereux, Hui Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.02056v1)

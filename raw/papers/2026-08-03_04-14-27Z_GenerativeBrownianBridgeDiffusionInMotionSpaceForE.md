@@ -1,0 +1,18 @@
+---
+title: Generative Brownian Bridge Diffusion In Motion Space For Enhanced Myocardial Strain Analysis
+published: 2026-08-03T04:14:27Z
+authors: Rishov Paul, Frederick H. Epstein, Miaomiao Zhang
+url: http://arxiv.org/abs/2608.01677v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Generative Brownian Bridge Diffusion In Motion Space For Enhanced Myocardial Strain Analysis
+
+## Abstract
+Myocardial strain analysis of cardiac magnetic resonance (CMR) images provides an important tool for evaluating cardiac function. However, current techniques require either human-adjusted post-processing with suboptimal regional accuracy, or specialized and costly imaging acquisitions. In this paper, we propose to leverage the power of generative models to synthesize high-quality motion-derived strain values from routinely acquired CMR sequences. Specifically, we develop a novel Brownian bridge diffusion model in motion space to learn the probabilistic mapping between standard CMR motion estimated from widely adopted registration methods and highly accurate motion provided by advanced strain imaging techniques. To promote the fidelity of anatomical structure in the generation process, our model is conditioned on the corresponding CMR images. We validate our method on large-scale multi-center CMR datasets including subjects of paired standard cine CMR and advanced strain imaging acquisitions. Experimental results demonstrate that our framework significantly improves the accuracy of motion prediction and strain analysis from standard CMRs compared to existing learning-based approaches. Our research represents a new paradigm for potentially developing cost-effective, clinically deployable AI tools for cardiac function assessment with enhanced strain accuracy in busy clinical workflows. Our code is publicly available at anonymous.4open.science/r/Brownian-Bridge-strain-analysis-1140.
+
+## Metadata
+- **Published**: 2026-08-03T04:14:27Z
+- **Authors**: Rishov Paul, Frederick H. Epstein, Miaomiao Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.01677v1)

@@ -1,0 +1,18 @@
+---
+title: Entity-Aware Sequence Transduction for Player-Centric Ball Action Spotting
+published: 2026-08-03T04:48:54Z
+authors: Ruifeng Wang, Di Yang, Jiangtao Wang
+url: http://arxiv.org/abs/2608.01696v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Entity-Aware Sequence Transduction for Player-Centric Ball Action Spotting
+
+## Abstract
+Player-centric ball action spotting requires temporally precise event detection together with actor attribution in crowded, partially observed multi-agent sports videos. Existing Denoising Sequence Transduction (DST) baselines treat the player-role dimension as part of a flattened frame-level representation, which weakens the inductive bias for modeling player-specific temporal evolution and inter-player interactions. To address this limitation, we propose Multi-Entity Denoising Sequence Transduction (ME-DST). ME-DST keeps the role-slot dimension throughout encoding. It uses temporal attention to model the history of each role slot, and spatial attention to exchange information across role slots at each frame. This factorized design gives the model a direct structure for separating within-player evolution from inter-player context. We also add learnable role embeddings, tracking-derived tactical features, and fused visual predictions from X3D-L and Swin3D-S. Experiments on the FOOTPASS dataset show that ME-DST reaches a Micro F1 of 0.778. This improves the strongest official TAAD+DST baseline by 10.3 percentage points. Controlled ablations show that preserving the entity axis and encoding role identity are central to this gain. These results suggest that explicit entity modeling is an effective inductive bias for player-centric sports event understanding.
+
+## Metadata
+- **Published**: 2026-08-03T04:48:54Z
+- **Authors**: Ruifeng Wang, Di Yang, Jiangtao Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.01696v1)

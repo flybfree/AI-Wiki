@@ -1,0 +1,18 @@
+---
+title: Domain-Specific Evaluation of Text-to-Speech Systems: A Multi-Metric Benchmarking Study
+published: 2026-08-03T13:49:11Z
+authors: Ali Jafar, Amal Sarmad, Shifa Yousaf, Maryam Bashir
+url: http://arxiv.org/abs/2608.02235v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Domain-Specific Evaluation of Text-to-Speech Systems: A Multi-Metric Benchmarking Study
+
+## Abstract
+Recent advances in neural text-to-speech (TTS) systems have substantially improved speech naturalness and intelligibility across many languages. However, comprehensive evaluation methodologies that jointly assess perceptual quality, speaker similarity, and acoustic fidelity across diverse speech domains remain limited, particularly for low-resource and underrepresented languages. This paper presents a reproducible, multi-metric benchmarking framework for systematic evaluation of modern TTS systems through domain-specific analysis. The proposed framework integrates complementary subjective and objective evaluation protocols and is demonstrated through a comprehensive case study on a representative low-resource language spanning four speech domains: Formal, Conversational, Literary/Storytelling, and Emotional. Four state-of-the-art TTS systems -- Indic-Parler-TTS, MMS-TTS, Microsoft Edge TTS, and Google Gemini TTS -- are evaluated using MUSHRA listening tests, ABX discrimination tests, speaker similarity scoring with Resemblyzer, and acoustic analyses based on mel-cepstral distortion (MCD) and F0 RMSE over 960 audio pairs. Results reveal substantial variation in TTS performance across speech domains, with emotional speech consistently presenting the greatest synthesis challenge (mean MCD 12.03 dB; mean F0 RMSE 889 cents), while conversational speech achieves the highest overall acoustic fidelity. Beyond the empirical findings, this work provides a reproducible evaluation framework, publicly releasing evaluation scripts, result tables, and executable Colab notebooks to support standardized benchmarking and future research on TTS evaluation for low-resource languages.
+
+## Metadata
+- **Published**: 2026-08-03T13:49:11Z
+- **Authors**: Ali Jafar, Amal Sarmad, Shifa Yousaf, Maryam Bashir
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.02235v1)

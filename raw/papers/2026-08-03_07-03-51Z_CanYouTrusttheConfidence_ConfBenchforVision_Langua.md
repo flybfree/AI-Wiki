@@ -1,0 +1,18 @@
+---
+title: Can You Trust the Confidence? ConfBench for Vision-Language Models on Document Extraction
+published: 2026-08-03T07:03:51Z
+authors: Priyashree Roy, Sujitha Martin, Mohammad Rostami, Spencer Romo, Renhao Xue, Bob Strahan, Diego A. Socolinsky, Boyi Xie, Md Mofijul Islam
+url: http://arxiv.org/abs/2608.01792v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Can You Trust the Confidence? ConfBench for Vision-Language Models on Document Extraction
+
+## Abstract
+Intelligent document processing (IDP) with vision-language models (VLMs) hinges on confidence scores trustworthy enough to route extractions between automation and human review. Existing document benchmarks are dominated by clean, high-quality samples, leaving low accuracy regions too sparse for calibration assessment. We introduce ConfBench, the first calibration-specific benchmark for key information extraction (KIE), built by applying 20 controlled degradation pipelines to a diverse document set, yielding 1,346 variants and 70K+ entity-level evaluations spanning the full accuracy spectrum. We evaluate four proprietary and three open-weight VLMs under verbalized and log-probability confidence estimation methods across three input modalities, and find: (i) OCR+Image modality results in more accurate confidence estimates; (ii) model capability is the dominant factor: within the Claude family confidence quality scales monotonically with capability, while across families parameter count is a poor predictor; (iii) calibration quality varies widely across models, from near-perfect to severely overconfident, and per-model post-hoc correction rescales these absolute confidence values for threshold-based routing without altering ranking-based operational metrics; and (iv) log-probability with first-token aggregation consistently outperforms mean-token and margin aggregations. We also introduce ECARB, a review-budget metric translating discriminative gains into operational savings. We release ConfBench publicly to enable systematic study of confidence estimators and calibration methods for trustworthy IDP application deployment.
+
+## Metadata
+- **Published**: 2026-08-03T07:03:51Z
+- **Authors**: Priyashree Roy, Sujitha Martin, Mohammad Rostami, Spencer Romo, Renhao Xue, Bob Strahan, Diego A. Socolinsky, Boyi Xie, Md Mofijul Islam
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.01792v1)

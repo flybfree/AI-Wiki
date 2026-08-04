@@ -1,0 +1,18 @@
+---
+title: Through the LENS: Local Geometric Decomposition of Vision-Language Model Representations
+published: 2026-08-01T09:54:54Z
+authors: Shalom Kachko, Raz Lapid, Margarita Vald, Almog Dubin, Moshe Sipper
+url: http://arxiv.org/abs/2608.00561v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Through the LENS: Local Geometric Decomposition of Vision-Language Model Representations
+
+## Abstract
+Vision-language models (VLMs) process image patches and text tokens in a shared residual stream, but the local geometry through which the two modalities interact remains poorly understood. Most interpretability methods identify global linear directions, which may miss representations that are globally high-dimensional but locally low-dimensional. We introduce LENS (Local Explanation of Neighborhood Subspaces), a method that decomposes VLM activations into local low-rank Gaussian neighborhoods using a Mixture of Factor Analyzers. Applied to LLaVA-1.5-7B and Qwen3-VL-8B, LENS reveals distinct depth-dependent fusion trajectories consistent with each model's fusion mechanism: LLaVA progressively mixes modalities at later layers, whereas Qwen3-VL mixes them early, partially re-segregates them, and recombines them near the output. An automated multimodal labeling pipeline assigns concise semantic descriptions to these neighborhoods. Interpolating activations toward neighborhood centroids causally redirects generation within and across modalities and outperforms difference-in-means and VL-SAE in most evaluated conditions; in one LLaVA vision-to-vision setting, MFA achieves 5.7 times the VL-SAE score. Human evaluation finds MFA steering competitive with prompting and substantially stronger than the other intervention baselines. Finally, the MFA coefficient space improves Qwen3-VL image-to-rendered-text retrieval at the deepest evaluated layer from 14.9% to 48.6% R@1. Ablations show that the reported fusion trajectories are stable across component counts, local ranks, and modality-purity thresholds. These results support local geometric neighborhoods as useful interpretable and causal units for analyzing cross-modal representations in the evaluated VLMs.
+
+## Metadata
+- **Published**: 2026-08-01T09:54:54Z
+- **Authors**: Shalom Kachko, Raz Lapid, Margarita Vald, Almog Dubin, Moshe Sipper
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.00561v1)

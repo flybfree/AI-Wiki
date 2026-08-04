@@ -1,0 +1,18 @@
+---
+title: A Constitution-Grid Instrument for Data-Efficient RL Alignment (C-Guard)
+published: 2026-07-31T18:05:25Z
+authors: Lily Zhang
+url: http://arxiv.org/abs/2608.00180v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# A Constitution-Grid Instrument for Data-Efficient RL Alignment (C-Guard)
+
+## Abstract
+Conflicting objectives are general in RL alignment, and training on them data-efficiently is hard. Training a safety guard with RL means optimizing two objectives that conflict: catch real harm, and do not refuse benign prompts. Our finding is that over-refusal improves 22.4% to 12.8%, while under-refusal on adversarial attacks silently worsens 0.27 to 0.33. We present C-Guard, a constitution-grid instrument that generates the RL training data, and C-LIM, a per-cell learnability score that decides each cell's move: prune, densify, amend, expand. C-LIM flags the dead-weight data region before any training budget is spent: 187 untargeted rows had bought zero gain, and our method lifts the same region's learning impact 0.733 to 0.80. Code and the constitution are open-sourced.
+
+## Metadata
+- **Published**: 2026-07-31T18:05:25Z
+- **Authors**: Lily Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.00180v1)

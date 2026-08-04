@@ -1,0 +1,18 @@
+---
+title: Temperature-driven inversion and nonlinear dynamics in ChatGPT-like AIs
+published: 2026-08-02T02:37:49Z
+authors: Neil F. Johnson, Frank Yingjie Huo, Bella Xinrui Li
+url: http://arxiv.org/abs/2608.00939v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Temperature-driven inversion and nonlinear dynamics in ChatGPT-like AIs
+
+## Abstract
+Increasing the temperature of an ordinary many-state system increases access to a wider range of states and hence increases its entropy. We find the opposite in ChatGPT-like AIs, even though raising the decoder temperature likewise increases access to a wider range of states (next-token choices). Across 12,000 continuations from 11 AIs, autoregressive feedback drives the long-time output population through an entropy maximum and into population inversion. The transition features frozen states, cycles, intermittency and noise-induced ordering. We present evidence of a hidden coordinate that acts as the state variable of an effective nonlinear map. Its trajectory average strongly predicts output repetition in separate test trajectories. ChatGPT-like AIs therefore behave not as `stochastic parrots', but as a new class of controllable nonlinear physical systems whose internal dynamics can be measured and perturbed.
+
+## Metadata
+- **Published**: 2026-08-02T02:37:49Z
+- **Authors**: Neil F. Johnson, Frank Yingjie Huo, Bella Xinrui Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.00939v1)

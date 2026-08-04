@@ -1,0 +1,18 @@
+---
+title: EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning
+published: 2026-08-03T08:04:46Z
+authors: Dongwei Sun, Bowen Yao, Yujie Zhang, Pei Liu, Jing Yao, Xiangyong Cao
+url: http://arxiv.org/abs/2608.01856v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# EchoChange: A Diffusion Language Model with Dual Pass Remasking for Factual Remote Sensing Disaster Change Captioning
+
+## Abstract
+Bi-temporal remote-sensing disaster change captioning often needs to identify sparse and spatially localized changes across large pre- and post-event scenes and then translate them into coherent, factual descriptions. However, existing change captioning methods always follow an autoregressive decoding paradigm to generate the change description and thus an early misinterpretation of the changed object, event, or spatial relation becomes an irreversible premise for subsequent text, amplifying visual ambiguity into cascading factual errors. To address this limitation, we propose EchoChange, a multimodal discrete diffusion language model that formulates change captioning as iterative masked-token denoising rather than left-to-right generation. By repeatedly revising the entire caption while conditioning on the image pair, EchoChange can reconsider uncertain content and correct imperfect intermediate predictions. We further introduce draft-aware dual-pass training, a progressive masking curriculum, and confidence-guided remasking to align training with iterative inference. Extensive experiments on the RSCC benchmark show that EchoChange substantially outperforms both general-purpose and remote-sensing-specific baselines across lexical and semantic metrics. The EchoChange Project is at https://github.com/sundongwei/EchoChange_Project
+
+## Metadata
+- **Published**: 2026-08-03T08:04:46Z
+- **Authors**: Dongwei Sun, Bowen Yao, Yujie Zhang, Pei Liu, Jing Yao, Xiangyong Cao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.01856v1)

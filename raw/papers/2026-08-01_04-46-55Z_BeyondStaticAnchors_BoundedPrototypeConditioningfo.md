@@ -1,0 +1,18 @@
+---
+title: Beyond Static Anchors: Bounded Prototype Conditioning for Language-Free Medical Anomaly Detection
+published: 2026-08-01T04:46:55Z
+authors: Yibo Wan, Jinyu Cai,  Seekiong-Ng
+url: http://arxiv.org/abs/2608.00442v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Static Anchors: Bounded Prototype Conditioning for Language-Free Medical Anomaly Detection
+
+## Abstract
+Medical anomaly detection identifies abnormal images and localizes lesions under scarce supervision while generalizing across organs and modalities. Existing CLIP-based methods reduce annotation requirements through vision--language alignment, but their normal and abnormal references, whether text prompts or learned visual tokens, remain fixed across test images. Such static references may not transfer reliably to unseen targets in a cross-domain medical imaging scenario. To address this, we propose ReCAP, a language-free framework that replaces static anchors with input-conditioned visual prototypes. ReCAP re-centers separated normal and abnormal prototypes for each image through a bounded gated modulation, enabling query-adaptive anomaly scoring while constraining context-induced prototype drift. For the few-shot setting, we introduce a non-parametric normal-reference memory to preserve instance-level target-domain variation and complement the conditional prototype branch. Across six medical benchmarks, ReCAP achieves the best image-level AUROC on all zero-shot and 23 of 24 few-shot settings, and the best zero-shot pixel-level AUROC on all three segmentation datasets. Particularly, it reduces inference latency by over 70% compared to the fastest baseline, without text prompts or test-time gradient updates.
+
+## Metadata
+- **Published**: 2026-08-01T04:46:55Z
+- **Authors**: Yibo Wan, Jinyu Cai,  Seekiong-Ng
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.00442v1)

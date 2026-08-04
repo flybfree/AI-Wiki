@@ -1,0 +1,18 @@
+---
+title: Recompute or Reuse? Diagnosing and Mitigating Textual Shortcuts in VLM Self-Reflection
+published: 2026-08-03T09:02:45Z
+authors: Wenxiao Fan, Jingling Fu, Fang Li, Luohang Liu, Yu He, Lichen Ma, Zhiyang Yu, Weishan Bi, Junshi Huang, Yan Li, Gu Simiu, Kan Li
+url: http://arxiv.org/abs/2608.01930v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Recompute or Reuse? Diagnosing and Mitigating Textual Shortcuts in VLM Self-Reflection
+
+## Abstract
+Vision-language models (VLMs) are expected to revise their reasoning when visual evidence changes. Failures to do so are often attributed to insufficient visual attention or contextual inertia, leaving unclear what models reuse instead of recomputing from the current image. We show that evidence-bearing reasoning in a prior chain of thought (CoT) can form a textual shortcut that competes behaviorally with visual recomputation. Across 16 VLMs, a matched counterfactual analysis identifies evidence-bearing content as the most robust carrier of prior-CoT influence. Removing this evidence-bearing content shifts answer preference more than removing length-matched non-evidence context or the final-answer span, with prior control weakening progressively as more stale evidence is removed. Reordering this evidence also weakens prior control, showing that its organization modulates shortcut strength. Beyond the immediate answer, the shortcut can retain residual influence after answer correction: weakening current-image support shifts preference back toward the prior answer, while repeated prior answers and reused premises arise mainly when the shortcut remains active. To limit this influence, we introduce Fresh-State Attention Firewall (FSAF), a training-free intervention that isolates fresh computation from the prior CoT. Across five VLMs, FSAF raises visual update rate from 35.28% to 53.61% and reduces prior-answer rate from 39.22% to 3.67%. Reliable VLM self-reflection therefore requires more than looking again: fresh visual recomputation must be protected from stale textual reuse.
+
+## Metadata
+- **Published**: 2026-08-03T09:02:45Z
+- **Authors**: Wenxiao Fan, Jingling Fu, Fang Li, Luohang Liu, Yu He, Lichen Ma, Zhiyang Yu, Weishan Bi, Junshi Huang, Yan Li, Gu Simiu, Kan Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.01930v1)

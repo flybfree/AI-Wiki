@@ -1,0 +1,18 @@
+---
+title: Sixteen models, fewer than two voices: measuring ensemble dispersion where no answer is uniquely correct
+published: 2026-07-31T20:42:53Z
+authors: Mario Vega-Barbas, Lidia Mora-Valenciano, Iván Pau, Fernando Seoane, Farhad Abtahi
+url: http://arxiv.org/abs/2608.00285v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Sixteen models, fewer than two voices: measuring ensemble dispersion where no answer is uniquely correct
+
+## Abstract
+Sixteen language models drawn from ten families produced, on average, the semantic diversity of 1.69 distinct formulations of a psychotherapeutic case, against a single-model baseline of 1.43 from one model's own runs. Ensembles place more than one reading before a decision-maker on the premise that several models supply several perspectives. Dispersion over their outputs is measured both as diversity and as uncertainty, and both traditions validate it against a correctness criterion that this task does not admit. Measuring diversity is a solved problem: the Vendi Score, the exponential of the von Neumann entropy of a similarity matrix, is an effective number of distinct elements. What a single aggregate does not say is where the diversity comes from. We define a per-model dissent contribution, the complement of a model's mean similarity to the other members of its ensemble: a magnitude from the same matrix, not a decomposition of the spectral index, whose maximum identifies the most divergent voice. Crossing model and case, we test as a preregistered hypothesis whether model identity accounts for a non-zero share of the variance in dissent, and characterise the structure that test detects. The panel formulated fifteen stratified vignettes, yielding 7,082 formulations for analysis. Model identity was a detectable structuring factor of the dissent that remained, but the usual categories recovered it only partly: scale differences pointed in opposite directions across pairs, family grouped models on only five two-member lines, and the most divergent voice changed with panel composition, so that the surfaced outlier describes the ensemble rather than the model. Dissent did not track the interpretive openness for which the case bank was stratified; it was organised by clinical content instead, leaving the dispersion an ensemble produces a property to measure rather than assume.
+
+## Metadata
+- **Published**: 2026-07-31T20:42:53Z
+- **Authors**: Mario Vega-Barbas, Lidia Mora-Valenciano, Iván Pau, Fernando Seoane, Farhad Abtahi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.00285v1)

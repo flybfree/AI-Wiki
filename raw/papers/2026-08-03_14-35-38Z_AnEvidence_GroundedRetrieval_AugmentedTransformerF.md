@@ -1,0 +1,18 @@
+---
+title: An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification
+published: 2026-08-03T14:35:38Z
+authors: Isah M. Bukar, Bala Mairiga Abduljalil, Bashir Saleh Maina, Abdulbasit Hassan
+url: http://arxiv.org/abs/2608.02310v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# An Evidence-Grounded Retrieval-Augmented Transformer Framework for Health Misinformation Verification
+
+## Abstract
+The rapid spread of false and misleading health information through digital platforms has become a major public health challenge, particularly during infectious disease outbreaks where delayed verification can influence public behaviour and hinder effective disease control. Although recent advances in automated health misinformation detection have shown encouraging results, most existing approaches rely heavily on global biomedical resources and often fail to capture the local context needed to verify claims in developing countries. This study presents a retrieval-augmented transformer framework designed to verify health-related claims using trusted evidence from the World Health Organization and the Nigeria Centre for Disease Control and Prevention. The framework combines semantic evidence retrieval with transformer-based classification to determine whether a claim is true, false, or misleading. To evaluate the proposed approach, a manually annotated dataset of 67 verified health claims covering coronavirus disease, Lassa fever, cholera, measles, and monkeypox was compiled from Nigerian fact-checking sources.   Three transformer models and a retrieval-augmented configuration were evaluated. The Bidirectional Encoder Representations from Transformers model achieved the best performance, with an accuracy of 71% and a weighted F1-score of 0.66. Although retrieval augmentation did not improve classification performance because the current evidence repository was limited in size and coverage, the findings highlight the importance of comprehensive and authoritative knowledge sources for reliable health misinformation verification. The proposed framework provides a practical foundation for developing context-aware and evidence-driven health misinformation verification systems for Nigeria and other resource-constrained settings.
+
+## Metadata
+- **Published**: 2026-08-03T14:35:38Z
+- **Authors**: Isah M. Bukar, Bala Mairiga Abduljalil, Bashir Saleh Maina, Abdulbasit Hassan
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.02310v1)
