@@ -4916,3 +4916,5 @@ tags: ['wiki']
 - [[2026-08-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-04_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-08-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-08-04_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[2026-08-04_CanRedditfendoffanewwaveofAISEOspam_.md]] : Can Reddit fend off a new wave of AI SEO spam?

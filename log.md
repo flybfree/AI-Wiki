@@ -5043,3 +5043,5 @@ tags: ['wiki']
 ## [2026-08-04 00:02] ingest | 2026-08-04_ASafePathtoOpenWeights.md
 ## [2026-08-04 00:02] ingest | 2026-08-04_Googlejustredesignedthesearchboxforthefirsttimein2.md
 ## [2026-08-04 00:02] ingest | 2026-08-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md
+## [2026-08-04 02:02] ingest | 2026-08-04_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md
+## [2026-08-04 05:02] ingest | 2026-08-04_CanRedditfendoffanewwaveofAISEOspam_.md
