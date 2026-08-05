@@ -5509,3 +5509,6 @@ tags: ['wiki']
 ## [2026-08-05 11:02] ingest | 2026-08-05_RogueAIagentscreatedfakeonlineidentitiesinanotherh.md
 ## [2026-08-05 12:02] ingest | 2026-08-05_SureseemslikeFenixFlexinusedAImusicgeneratorTreblo.md
 ## [2026-08-05 12:02] ingest | 2026-08-05_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md
+## [2026-08-05 13:11] ingest | 2026-08-05_DiscoveryLoop.md
+## [2026-08-05 15:02] ingest | 2026-08-05_JeffDeanandothertopAIresearchersareleavingGoogleto.md
+## [2026-08-05 16:09] ingest | 2026-08-05_ZedDeltaDB.md

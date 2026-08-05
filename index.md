@@ -5380,3 +5380,4 @@ tags: ['wiki']
 - [[2026-08-05_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
 - [[2026-08-05_DiscoveryLoop.md]] : Discovery Loop
 - [[2026-08-05_JeffDeanandothertopAIresearchersareleavingGoogleto.md]] : Jeff Dean and other top AI researchers are leaving Google to launch their own startup
+- [[2026-08-05_ZedDeltaDB.md]] : Zed DeltaDB
