@@ -1,0 +1,18 @@
+---
+title: Sensitivity, Causality, and Repair Dissociate: A Layer-Wise Analysis of Perturbation Robustness and Its Scaling
+published: 2026-08-04T15:48:55Z
+authors: Nathan Labiosa, David Buff, Ena Nayak, Erica Donno
+url: http://arxiv.org/abs/2608.03842v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Sensitivity, Causality, and Repair Dissociate: A Layer-Wise Analysis of Perturbation Robustness and Its Scaling
+
+## Abstract
+When a language model fails on surface-perturbed input (typos, OCR noise, homophones), "which layer is responsible" has three natural operationalizations: where representations diverge most (sensitivity), where restoring clean activations recovers the prediction (causality), and where a small adapter can repair the damage (compensatory capacity) - and we show these three layer maps dissociate. Across a five-model panel we identify two propagation regimes - spike-and-suppress (Phi-3.5, Gemma-2-9B) and late-accumulation (Llama-3, Mistral, Qwen2.5-7B) - and on the two models meeting an 80% identity-patch gate, sensitivity and causality are anti-correlated (rho = -0.72 to -0.88). Within-family scaling on Qwen2.5 (1.5B to 14B) shows the late-accumulation signature strengthening monotonically with scale, corroborated on a second family. We propose cascade disruption as the mechanism behind the dissociation: adapters placed at causally implicated early layers break intact downstream computation, making diagnostic-flagged sites the worst adapter placements. A fixed-harness layer sweep across four models (3.8-8B) confirms the core prediction on chain-of-thought GSM8K - the flagged sites are the most damaging adapter windows on every adjudicable model - and is sign-consistent but strongly attenuated on a multiple-choice control, consistent with damage that compounds with generation length. The sweep yields practical guidance: a training-free LRD pre-screen and a default-deepest placement rule, though absolute gains over no-adapter baselines remain small. Finally, apparent gains from a representation-stability loss reverse under an adequate generation budget - truncated chain-of-thought had been scored as empty - a methodological warning for any intervention evaluated on chain-of-thought tasks.
+
+## Metadata
+- **Published**: 2026-08-04T15:48:55Z
+- **Authors**: Nathan Labiosa, David Buff, Ena Nayak, Erica Donno
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.03842v1)

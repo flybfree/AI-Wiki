@@ -1,0 +1,18 @@
+---
+title: Can LLM design high-quality experiments? A Comprehensive and Systematic Benchmark on Autonomous Experimental Design
+published: 2026-08-04T11:43:22Z
+authors: Zejun Liu, Jian Wu, Ru Peng, Yuliang Ji, Dongyuan Li, Renhe Jiang, Yue Zhang
+url: http://arxiv.org/abs/2608.03501v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Can LLM design high-quality experiments? A Comprehensive and Systematic Benchmark on Autonomous Experimental Design
+
+## Abstract
+AI for Research (AI4Research) leverages AI to automate and improve scientific workflows. While experimental design is a critical stage of the research process, prior work has focused primarily on code implementation and execution, overlooking the importance of this stage, and no benchmark exists to evaluate AI's ability to conduct systematic experiment design. To bridge this gap, we propose SCOPE, a Scientific COmprehensive Planning Evaluation Benchmark constructed from 300 high-quality latest papers across 19 research domains from top-tier venues (e.g., ICML, NeurIPS, and ICLR),evaluating LLMs on two dimensions: High-Level planning completeness (main, ablation, and analysis experiments) and Low-Level configuration accuracy and rationality (datasets, baselines, and metrics). Benchmarking reveals three findings: (1) most LLMs cannot directly design high-quality experiments; (2) all LLMs exhibit a performance bottleneck in low-level configuration; and (3) search mode does not improve design quality. Furthermore, to address these challenges, we propose OptED, a novel agentic workflow to optimize LLM-based experimental design, that enhances LLM-based experimental planning through stage isolation, tool augmentation, and rule-based constraints, effectively alleviating the configuration bottleneck.
+
+## Metadata
+- **Published**: 2026-08-04T11:43:22Z
+- **Authors**: Zejun Liu, Jian Wu, Ru Peng, Yuliang Ji, Dongyuan Li, Renhe Jiang, Yue Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.03501v1)

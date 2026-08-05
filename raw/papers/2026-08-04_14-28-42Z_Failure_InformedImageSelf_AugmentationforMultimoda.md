@@ -1,0 +1,18 @@
+---
+title: Failure-Informed Image Self-Augmentation for Multimodal Large Language Model Self-Improvement
+published: 2026-08-04T14:28:42Z
+authors: Chunyang Jiang, Pingping Zhang, Yuzhi Zhao, Wenao Ma, Zhijian Hou, Mengyang Wu, Yiyang Cai, Senkang Hu, Sitong Cheng, Chi-Min Chan, Wei Xue, Yike Guo
+url: http://arxiv.org/abs/2608.03733v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Failure-Informed Image Self-Augmentation for Multimodal Large Language Model Self-Improvement
+
+## Abstract
+Multimodal large language models (MLLMs) have achieved remarkable performance across vision-language tasks, but their progress depends heavily on large-scale, high-quality multimodal data that are costly to annotate. Self-augmentation offers a promising alternative by enabling models to expand their own training data without external supervision. However, existing MLLM self-augmentation methods are largely text-centric, while image augmentation remains underexplored and typically relies on generic or handcrafted transformations that are weakly aligned with the model's actual incapability. We propose Failure-informed Image Self-Augmentation (\textbf{FISA}), a framework for MLLM self-improvement that constructs augmented images from the model's own failure cases. Our method generates visually challenging yet answer-preserving image complications, verifies their utility through self-examination, and applies dual fidelity filtering to avoid semantic distortion. Experiments on visual question answering benchmarks show that the proposed method consistently improves performance across both in-distribution and out-of-distribution settings. Further experiments validate the compatibility of FISA with existing textual self-augmentation approaches, the superior data efficiency of the synthesized samples over generic image augmentation baselines, and the practical effectiveness of the proposed filtering strategy.
+
+## Metadata
+- **Published**: 2026-08-04T14:28:42Z
+- **Authors**: Chunyang Jiang, Pingping Zhang, Yuzhi Zhao, Wenao Ma, Zhijian Hou, Mengyang Wu, Yiyang Cai, Senkang Hu, Sitong Cheng, Chi-Min Chan, Wei Xue, Yike Guo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.03733v1)

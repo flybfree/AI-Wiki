@@ -1,0 +1,18 @@
+---
+title: Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents
+published: 2026-08-04T08:35:51Z
+authors: Siqi Fan, Minghao Li, Xiaoqian Ma, Wenhui Tan, Xiusheng Huang, Juntong Wu, Liujie Zhang, Shuo Shang, Weihang Chen
+url: http://arxiv.org/abs/2608.03327v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents
+
+## Abstract
+Hybrid computer-use agents can act through screenshots or call text tools. We find that having a tool available does not settle which way the effect goes. Under one identical GUI-MCP harness on the OSWorld-MCP benchmark (309 tasks), the same MCP tools improve a reasoning model by +4.0pp and degrade a non-reasoning model by -5.9pp (5 runs each, both beyond 2 SE). What separates the two is tool-decision behavior. The non-reasoning policy ignores, misnames, or falsely terminates around tools. The reasoning model avoids these failures, yet still calls a tool on only 55/309 tasks, 23.9% of the tool-reachable ones. We call this shortfall the adoption gap. Both levels of the problem share one cause: the model already has a cheaper route and is never trained to take it. Multi-turn RL probes that cause. At the action level, a dense tool bonus raises spreadsheet adoption 0.03 -> 0.33 and carries into greedy decoding, but held-out accuracy does not follow. Behavior is steerable; competence is not. The bottleneck lies in tool-call semantics. At the context level, a successful tool call often makes the next screenshot redundant. Dropping it and halving image history cuts input tokens by about a third, at a small accuracy cost. Retraining under the same observation rule removes that cost. The compressed agent then reaches 37.8% against 33.0% for the uncompressed operating point, at 53% of the input cost, and closes the rich-lean gap on a pre-registered degraded subset to zero. Tools help when the model chooses and integrates them, and current hybrid agents leave many such choices unused.
+
+## Metadata
+- **Published**: 2026-08-04T08:35:51Z
+- **Authors**: Siqi Fan, Minghao Li, Xiaoqian Ma, Wenhui Tan, Xiusheng Huang, Juntong Wu, Liujie Zhang, Shuo Shang, Weihang Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.03327v1)

@@ -1,0 +1,18 @@
+---
+title: PLAN: Parallel Liquid-Inspired Approximation Network for Efficient Representation Learning in Flexible Job Shop Scheduling
+published: 2026-08-04T02:43:27Z
+authors: Dhivya Dharshini Kannan, Wei Zhang, Jieyi Bi, Yingpeng Du, Tianjun Wei, Jie Zhang, Zuming Liu, Anupam Trivedi
+url: http://arxiv.org/abs/2608.03041v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# PLAN: Parallel Liquid-Inspired Approximation Network for Efficient Representation Learning in Flexible Job Shop Scheduling
+
+## Abstract
+Deep reinforcement learning (DRL) approaches for flexible job shop scheduling (FJSP) heavily rely on attention-centric architectures to achieve state-of-the-art performance. However, these models suffer from excessive parameter counts and prohibitive inference latency as problem scales expand. While liquid neural networks (LNNs) offer a parameter-efficient alternative for modeling adaptive state evolution, their inherently sequential dynamics bottleneck computational efficiency. To resolve this trade-off, we propose PLAN (Parallel Liquid-inspired Approximation Network), a lightweight representation learning framework that reformulates continuous liquid-state dynamics into a discretized and parallelizable formulation. PLAN structurally decouples state evolution from context aggregation, where liquid-inspired updates handle the primary evolving state representation, and a lightweight context aggregation module provides complementary global context. Furthermore, PLAN acts as a versatile, plug-and-play backbone that generalizes to complex FJSP variants, pairing with a compact stochastic module for stochastic FJSP and replacing heavy heterogeneous graph transformers in multi-faceted dynamic FJSP. Extensive evaluations across deterministic, stochastic, and multi-faceted dynamic FJSP benchmarks show that PLAN reduces the average makespan by 1.2%, 1.4%, and 2.3%, respectively, compared with the corresponding state-of-the-art baselines, with the improvement reaching 10.2% in one benchmark setting. PLAN also reduces average inference latency by 13.2%, 31.7%, and 26.9%, respectively, with a maximum reduction of 69.2% on the largest instances, while using only 22$-$47% of the baseline parameters.
+
+## Metadata
+- **Published**: 2026-08-04T02:43:27Z
+- **Authors**: Dhivya Dharshini Kannan, Wei Zhang, Jieyi Bi, Yingpeng Du, Tianjun Wei, Jie Zhang, Zuming Liu, Anupam Trivedi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.03041v1)

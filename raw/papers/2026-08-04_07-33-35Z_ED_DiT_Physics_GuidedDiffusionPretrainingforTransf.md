@@ -1,0 +1,18 @@
+---
+title: ED-DiT: Physics-Guided Diffusion Pretraining for Transferable Molecular Representations from Electron Density
+published: 2026-08-04T07:33:35Z
+authors: Liang Shuang, Haocheng Wang, Jiayi Song, Shuquan Ye, Ben Fei
+url: http://arxiv.org/abs/2608.03260v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ED-DiT: Physics-Guided Diffusion Pretraining for Transferable Molecular Representations from Electron Density
+
+## Abstract
+Pretraining has shown strong potential for learning transferable representations, yet it remains underexplored for electron-density-based molecular learning. Electron density provides a continuous three-dimensional description of molecular electronic structure, capturing both local spatial patterns and global physical quantities. This raises a key question: can electron-density fields be used for self-supervised pretraining to learn a shared representation that transfers across diverse electronic-structure-related tasks? We propose ED-DiT, a physics-guided Diffusion Transformer for self-supervised pretraining on electron-density point clouds. ED-DiT learns reusable representations by reconstructing corrupted and partially masked log-density fields across diffusion noise levels. An electron-number consistency constraint is further introduced to preserve the total electronic mass. The pretrained encoder can be adapted to property prediction, open-/closed-shell classification, molecule-electron-density retrieval, and molecule-conditioned electron-density prediction. Experiments on six EDBench tasks show that ED-DiT consistently outperforms the same architecture trained from scratch, especially under limited supervision. For molecule-conditioned electron-density prediction, it reduces RMSE from 2.2474 to 1.3753 and surpasses the available baseline. With only 10% labels, it improves orbital energy prediction RMSE from 0.0293 to 0.0138. These results demonstrate the effectiveness of physics-guided electron-density pretraining for learning transferable molecular representations.
+
+## Metadata
+- **Published**: 2026-08-04T07:33:35Z
+- **Authors**: Liang Shuang, Haocheng Wang, Jiayi Song, Shuquan Ye, Ben Fei
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.03260v1)

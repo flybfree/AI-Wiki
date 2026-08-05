@@ -5359,3 +5359,22 @@ tags: ['wiki']
 - [[2026-08-04_Mistral_sShieldstral_3Bopen-weightsmodelformultimo.md]] : Mistral's Shieldstral: 3B open-weights model for multimodal moderation
 - [[2026-08-04_SpaceXhasbought_329MworthofTeslaMegapackssofarthis.md]] : SpaceX has bought $329M worth of Tesla Megapacks so far this year
 - [[2026-08-04_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
+- [[2026-08-05_AMD__8217_sdatacenterbusinessisboomingwhilegamingt.md]] : AMD&#8217;s data center business is booming while gaming takes a backseat
+- [[2026-08-05_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-08-05_Third-partycyberevaluationsinvolvingOpenAImodels.md]] : Third-party cyber evaluations involving OpenAI models
+- [[2026-08-05_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-08-05_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[2026-08-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-08-05_SpaceXhasbought_329MworthofTeslaMegapackssofarthis.md]] : SpaceX has bought $329M worth of Tesla Megapacks so far this year
+- [[2026-08-05_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[2026-08-05_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-05_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[2026-08-05_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-05_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-05_StatelessMCPhasrecapturedmyinterest.md]] : Stateless MCP has recaptured my interest
+- [[2026-08-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-08-05_OpenAIModelsEscapedContainmentandHackedHuggingFace.md]] : OpenAI Models Escaped Containment and Hacked Hugging Face | WIRED
+- [[2026-08-05_AImakesweatherpredictionbetter_CanWindBornemakeitl.md]] : AI makes weather prediction better. Can WindBorne make it lucrative?
+- [[2026-08-05_HelsinkiHackerNewsMeetup.md]] : Helsinki Hacker News Meetup
+- [[2026-08-05_Trump_sAItestingplanislimitedandvague.md]] : Trump’s AI testing plan is limited and vague

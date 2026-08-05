@@ -1,0 +1,18 @@
+---
+title: Geo-Embed: Towards Unified Multimodal Embeddings for Urban Understanding
+published: 2026-08-04T15:36:17Z
+authors: Jiapeng Li, Yong Li, Junjie Zhou, Fan Zhang, Yu Liu
+url: http://arxiv.org/abs/2608.03826v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Geo-Embed: Towards Unified Multimodal Embeddings for Urban Understanding
+
+## Abstract
+Geospatial and urban applications increasingly require models to compare heterogeneous evidence across street-view imagery, remote-sensing observations, text descriptions, region proposals, and temporal change cues. However, existing multimodal embedding models and benchmarks are still largely designed and evaluated around general-purpose image-text matching, leaving unclear whether unified embedding space can support heterogeneous geospatial tasks involving spatial relationships, fine-grained semantics, and temporal changes. To address this gap, we make three key contributions. First, we introduce GeoMEB, a large-scale multimodal embedding benchmark that standardizes 45 urban evaluation tasks across retrieval, visual question answering, change detection, classification, and visual grounding, together with training collections comprising 1.32M examples and 286K evaluation queries. Second, we present Geo-Embed, a unified embedding model that adapts a shared vision-language backbone to instruction-conditioned query-target matching over heterogeneous geospatial inputs, including single images, multiple images, text, regions, and masks. On GeoMEB, Geo-Embed achieves the strongest overall performance among representative multimodal embedders, with a 15.3% relative improvement over the strongest baseline. These results motivate future geospatial embedders that organize training and evaluation around explicit query-target relations, including semantic, cross-view, region-level, and temporal correspondence.
+
+## Metadata
+- **Published**: 2026-08-04T15:36:17Z
+- **Authors**: Jiapeng Li, Yong Li, Junjie Zhou, Fan Zhang, Yu Liu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.03826v1)

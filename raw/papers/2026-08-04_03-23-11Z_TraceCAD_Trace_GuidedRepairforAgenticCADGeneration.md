@@ -1,0 +1,18 @@
+---
+title: TraceCAD: Trace-Guided Repair for Agentic CAD Generation
+published: 2026-08-04T03:23:11Z
+authors: Fengxiao Fan, Jingzhe Ni, Fan Sang, Xiaolong Yin, Yu Liu, Ruofeng Tong, Min Tang, Peng Du
+url: http://arxiv.org/abs/2608.03062v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# TraceCAD: Trace-Guided Repair for Agentic CAD Generation
+
+## Abstract
+LLM-based CAD agents produce executable parametric programs, but their correction loops may lose evidence about satisfied requirements, faulty operations, and prior repairs. We introduce TraceCAD, a recovery layer that links requested features, modeling steps, failure evidence, and candidate outcomes as persistent state. TraceCAD diagnoses likely faulty operations, searches bounded edits in their dependency regions, validates candidates through execution and preservation checks, and retains successful and failed repair outcomes in reusable skill memory. On DeepCAD-derived benchmarks with 200-model ablations and a 1K-model comparison, TraceCAD achieves competitive geometric quality in terms of IoU, Chamfer distance, and Hausdorff distance. Removing persistent state nearly halves recovery score; removing localized search more than doubles geometric regression and doubles code-agent invocations. Initializing the skill store on disjoint training models further reduces retries, token cost, and latency. These results demonstrate that persistent, localized, and reusable recovery improves final CAD quality and repair reliability.
+
+## Metadata
+- **Published**: 2026-08-04T03:23:11Z
+- **Authors**: Fengxiao Fan, Jingzhe Ni, Fan Sang, Xiaolong Yin, Yu Liu, Ruofeng Tong, Min Tang, Peng Du
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.03062v1)

@@ -1,0 +1,18 @@
+---
+title: Learning and Clustering on Temporal Graphs: Principles, Primitives, and Pooling
+published: 2026-08-04T14:01:08Z
+authors: Nelson Aloysio Reis de Almeida Passos, Emanuele Carlini, Salvatore Trani
+url: http://arxiv.org/abs/2608.03696v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Learning and Clustering on Temporal Graphs: Principles, Primitives, and Pooling
+
+## Abstract
+This work focuses on the problem of learning on temporal graphs, with particular emphasis on the task of clustering: obtaining coarse-grained representations by aggregating information from nodes, edges, and temporal dynamics - a task related to pooling in machine learning on graphs, or community detection in network science. Although graph neural networks reach state-of-the-art performance across many downstream graph tasks, their advantage over established descriptive and inferential clustering algorithms is far less settled, especially under demands of efficiency and recovery accuracy. We frame this tension through three linked perspectives: principles, connecting graph learning and community detection through shared spectral foundations and detectability thresholds in stochastic block model regimes; primitives, making spectral clustering and multislice modularity optimization tractable through GPU-accelerated temporal backends; and pooling, viewing principled community detection as a theory-grounded coarse-graining operator for temporal graphs. Our results indicate that algorithmic methods remain the appropriate tool where attributes are absent or weak - scalability rather than accuracy being the binding obstacle - while neural models are most compelling when structural, temporal, and attribute signals align. By making temporal clustering scalable, GPU-accelerated primitives suggest a route toward theory-grounded pooling, while raising a central question: when does community-based coarse-graining preserve the dynamics needed for downstream learning tasks?
+
+## Metadata
+- **Published**: 2026-08-04T14:01:08Z
+- **Authors**: Nelson Aloysio Reis de Almeida Passos, Emanuele Carlini, Salvatore Trani
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.03696v1)
