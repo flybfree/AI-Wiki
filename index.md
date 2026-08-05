@@ -215,7 +215,7 @@ tags: ['wiki']
 - China’s AI upstart DeepSeek drops new model. Will it make waves like ... (5)
 - DeepSeek unveils new, low-cost V4 AI models: Here’s what you need to ... (3)
 
-### Machine Learning Architecture (13 hits)
+### Machine Learning Architecture (12 hits)
 - What is ML Architecture (6)
 - Machine Learning Lens - AWS Well-Architected Framework (4)
 - Architectures for Machine Learning | Springer Nature Link (3)
