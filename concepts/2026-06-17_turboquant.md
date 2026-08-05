@@ -68,9 +68,9 @@ The practical implication: a 7B model that previously could only handle 8K token
 
 ## Related Concepts
 
-- [[Quantization]] — the broader category of reducing model precision
-- [[KV Cache]] — the key-value cache that TurboQuant compresses
-- [[Local LLM Inference]] — the primary use case for TurboQuant
-- [[Walsh-Hadamard Transform]] — the mathematical basis for the rotation step
-- [[Polar Codes]] — the error-correcting code family used for the quantization codebook
-- [[Google AI Research]] — the lab that developed TurboQuant
+- [[2026-06-17_turboquant.md]] — the broader category of reducing model precision
+- [[2026-06-17_turboquant.md]] — the key-value cache that TurboQuant compresses
+- [[2026-06-17_turboquant.md]] — the primary use case for TurboQuant
+- [[2026-06-17_turboquant.md]] — the mathematical basis for the rotation step
+- [[2026-06-17_turboquant.md]] — the error-correcting code family used for the quantization codebook
+- [[ai-research/2026-06-10_AIResearchPapers.md]] — the lab that developed TurboQuant

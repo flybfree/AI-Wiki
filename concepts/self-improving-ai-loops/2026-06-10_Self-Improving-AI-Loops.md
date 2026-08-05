@@ -220,11 +220,11 @@ done
 
 ## Related Concepts
 
-- [[Feedback Loop Engineering]]
-- [[Harness Engineering]]
-- [[Context Engineering]]
-- [[Ralph Loops]]
-- [[Self-Learning AI Agents]]
-- [[Open-Source LLM Stack]]
-- [[Mozilla cq]]
-- [[Agent Washing]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-07-26_LangChain_Harness_and_Loop_Engineering_References.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]

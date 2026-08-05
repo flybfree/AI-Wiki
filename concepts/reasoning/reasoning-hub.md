@@ -20,7 +20,7 @@ Reasoning behavior, chain-of-thought, latent structure, inference-time search, a
 ## Representative Summaries
 
 - [2026 07 22 Terencetao Schatgptconversationaboutthejacobiancon](../../entities/article/2026-07-22_TerenceTao_sChatGPTconversationabouttheJacobianCon_summary.md)
-- [[papers/2026-07-24_04-57-30Z_J_CoT_Chain_of_ThoughtinJ_Space_summary.md|2026 07 24 04 57 30Z J CoT Chain Of Thoughtinj Space]]
-- [[papers/2026-07-24_07-00-44Z_DCS_AUnifiedConditionalSensitivityFramework_summary.md|2026 07 24 07 00 44Z DCS Aunifiedconditionalsensitivityframework]]
-- [[papers/2026-07-24_17-39-14Z_QuantumSpectralModel_DataReuploadingwithInp_summary.md|2026 07 24 17 39 14Z Quantumspectralmodel Datareuploadingwithinp]]
-- [[papers/2026-07-23_18-02-03Z_ADefenseoftheQuadraticModel_summary.md|2026 07 23 18 02 03Z Adefenseofthequadraticmodel]]
+- [[../papers/2026-07-24_04-57-30Z_J_CoT_Chain_of_ThoughtinJ_Space_summary.md|2026 07 24 04 57 30Z J CoT Chain Of Thoughtinj Space]]
+- [[../papers/2026-07-24_07-00-44Z_DCS_AUnifiedConditionalSensitivityFramework_summary.md|2026 07 24 07 00 44Z DCS Aunifiedconditionalsensitivityframework]]
+- [[../papers/2026-07-24_17-39-14Z_QuantumSpectralModel_DataReuploadingwithInp_summary.md|2026 07 24 17 39 14Z Quantumspectralmodel Datareuploadingwithinp]]
+- [[../papers/2026-07-23_18-02-03Z_ADefenseoftheQuadraticModel_summary.md|2026 07 23 18 02 03Z Adefenseofthequadraticmodel]]

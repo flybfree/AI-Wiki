@@ -179,10 +179,10 @@ The frontier is now:
 
 ## Related Concepts
 
-- [[Mechanistic Interpretability]]
-- [[Scalable Oversight]]
-- [[Constitutional AI]]
-- [[Direct Preference Optimization]]
-- [[Reinforcement Learning from Human Feedback]]
-- [[AI Safety]]
-- [[Value Alignment]]
+- [[papers/2026-07-22_23-00-02Z_TowardMechanisticInterpretabilityofanAIFoun_summary.md]]
+- [[../papers/2026-05-27_17-56-47Z_CalibratingConservatismforScalableOversight_summary.md]]
+- [[ai-safety/ai-safety-hub.md]]
+- [[../papers/2026-05-20_12-54-51Z_Linear_DPO_LinearDirectPreferenceOptimizati_summary.md]]
+- [[../raw/papers/2026-07-28_02-09-26Z_Meta_LearnedRewardShapingforReinforcementLearningf.md]]
+- [[ai-safety/ai-safety-hub.md]]
+- [[alignment-safety/alignment-hub.md]]

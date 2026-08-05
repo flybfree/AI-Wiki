@@ -228,7 +228,7 @@ workflow.add_conditional_edges(
 Build the judge node as a first-class component, not an afterthought. DeepEval for LLM-as-judge metrics. Arize Phoenix for drift detection. Promptfoo for CI evals. MLflow for experiment tracking. Track output distributions, not just error rates. The judge node is what turns a fragile agent into a self-correcting one.
 
 ## Related Concepts
-- [[Self-Improving AI Loops]]
-- [[Feedback Loop Engineering]]
-- [[LangGraph]]
-- [[Drift Detection]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-07-26_LangChain_Harness_and_Loop_Engineering_References.md]]
+- [[2026-06-10_Lesson8_DIYArchitecture.md]]

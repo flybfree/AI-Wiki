@@ -188,6 +188,6 @@ export AGENT_MODEL=anthropic/claude-sonnet-4-20250514
 The abstraction layer is where you buy freedom. Your agents talk to LiteLLM. LiteLLM talks to whatever model you configure. Swap models in config, not in code. Pin versions. Test before deploying. Self-host to control your upgrade schedule.
 
 ## Related Concepts
-- [[Self-Improving AI Loops]]
-- [[Model Version Brittleness]]
-- [[Inference Layer]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Lesson8_DIYArchitecture.md]]
+- [[2026-06-10_Lesson2_InferenceLayer.md]]

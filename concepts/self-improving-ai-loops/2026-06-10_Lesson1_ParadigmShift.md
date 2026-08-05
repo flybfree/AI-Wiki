@@ -139,7 +139,7 @@ What turns one session's hard-won lesson into something every future session sta
 The prompts and coding agent harnesses will change as models evolve. The value of a tight feedback loop won't. If the AI bubble pops next month, you're left with easy-to-test codebases. If it doesn't, your agents get a little less forgetful with every session.
 
 ## Related Concepts
-- [[Feedback Loop Engineering]]
-- [[Harness Engineering]]
-- [[Ralph Loops]]
-- [[Mozilla cq]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-07-26_LangChain_Harness_and_Loop_Engineering_References.md]]

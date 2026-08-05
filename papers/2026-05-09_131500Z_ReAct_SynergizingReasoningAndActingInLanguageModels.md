@@ -72,8 +72,8 @@ The Re_act framework is arguably the **architectural foundation** of the modern 
 4. **Interpretability as a side benefit**: The interleaved trajectories reveal *how* the model thinks, not just *what* it decides
 
 ## Related Concepts
-- [[concepts/prompting.md|Prompting]]
-- [[concepts/chain-of-thought.md|Chain of Thought]]
-- [[ai-research/concepts/papers/2026-05-09_131500Z_ReAct_SynergizingReasoningAndActingInLanguageModels.md|ReAct]]
+- [[../concepts/prompting/prompting-hub.md|Prompting]]
+- [[../concepts/reasoning/reasoning-hub.md|Chain of Thought]]
+- [[2026-05-09_131500Z_ReAct_SynergizingReasoningAndActingInLanguageModels.md|ReAct]]
 - Agentic Workflows (CourseDesigner Lesson 13)
 - Tool Use / Function Calling

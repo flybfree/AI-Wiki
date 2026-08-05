@@ -270,6 +270,6 @@ result = layer.call("extract email from this text", tools=[email_parser])
 Start with Ollama for dev. Move to vLLM when you need production throughput. Pick your model based on your hardware, not benchmarks — a 24B model with good feedback loops beats a 256B model with no verification.
 
 ## Related Concepts
-- [[Self-Improving AI Loops]]
-- [[Harness Engineering]]
-- [[Model Version Brittleness]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Lesson8_DIYArchitecture.md]]

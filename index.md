@@ -5381,3 +5381,4 @@ tags: ['wiki']
 - [[2026-08-05_DiscoveryLoop.md]] : Discovery Loop
 - [[2026-08-05_JeffDeanandothertopAIresearchersareleavingGoogleto.md]] : Jeff Dean and other top AI researchers are leaving Google to launch their own startup
 - [[2026-08-05_ZedDeltaDB.md]] : Zed DeltaDB
+- [[2026-08-05_MetalaunchesMuseCode_anAIagentforlargecodebases.md]] : Meta launches Muse Code, an AI agent for large code bases

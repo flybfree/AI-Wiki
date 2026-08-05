@@ -235,6 +235,6 @@ done
 Start with a Ralph loop (bash `while true`). When you need explicit state management, move to LangGraph. When you need code execution, use SmolAgents. When you're building full-stack apps, use OpenDevin. When you're coding locally, use Aider. The framework is less important than the feedback loop it enables.
 
 ## Related Concepts
-- [[Self-Improving AI Loops]]
-- [[Ralph Loops]]
-- [[Feedback Loop Engineering]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]

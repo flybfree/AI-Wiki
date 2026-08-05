@@ -19,8 +19,8 @@ Benchmarks, rubrics, measurement design, red-teaming, and the limits of evaluati
 
 ## Representative Summaries
 
-- [[papers/2026-07-23_18-34-12Z_WhatAIRed_TeamEvaluationsCanandCannotProve_summary.md|2026 07 23 18 34 12Z Whataired Teamevaluationscanandcannotprove]]
-- [[papers/2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation_summary.md|2026 07 16 16 44 40Z Canwetrustitemresponsetheoryforaievaluation]]
-- [[papers/2026-07-24_14-55-19Z_DoAgentBenchmarksMeasureCapability_Protocol_summary.md|2026 07 24 14 55 19Z Doagentbenchmarksmeasurecapability Protocol]]
-- [[papers/2026-07-24_17-56-38Z_ExplainableReinforcementLearningforassistin_summary.md|2026 07 24 17 56 38Z Explainablereinforcementlearningforassistin]]
+- [[../papers/2026-07-23_18-34-12Z_WhatAIRed_TeamEvaluationsCanandCannotProve_summary.md|2026 07 23 18 34 12Z Whataired Teamevaluationscanandcannotprove]]
+- [[../papers/2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation_summary.md|2026 07 16 16 44 40Z Canwetrustitemresponsetheoryforaievaluation]]
+- [[../papers/2026-07-24_14-55-19Z_DoAgentBenchmarksMeasureCapability_Protocol_summary.md|2026 07 24 14 55 19Z Doagentbenchmarksmeasurecapability Protocol]]
+- [[../papers/2026-07-24_17-56-38Z_ExplainableReinforcementLearningforassistin_summary.md|2026 07 24 17 56 38Z Explainablereinforcementlearningforassistin]]
 - [2026 07 27 Introducingclaudeopus5](../../entities/article/2026-07-27_IntroducingClaudeOpus5_summary.md)

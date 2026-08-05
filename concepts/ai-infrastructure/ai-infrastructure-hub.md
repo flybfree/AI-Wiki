@@ -20,7 +20,7 @@ Compute, datacenters, serving stacks, memory systems, and the hardware/software 
 ## Representative Summaries
 
 - [2026 07 27 Nvidia Microsoftlaunchopenaisecurityalliance Witho](../../entities/article/2026-07-27_Nvidia_MicrosoftlaunchopenAIsecurityalliance_witho_summary.md)
-- [[entities/article/2026-07-27_OnefallenpowerlineexposedagrowingAIdatacenterprobl_summary.md|2026 07 27 Onefallenpowerlineexposedagrowingaidatacenterprobl]]
+- [[../papers/2026-07-23_08-50-12Z_NeuralFeatureGovernance_ExtendingAtomPreval_summary.md|2026 07 27 Onefallenpowerlineexposedagrowingaidatacenterprobl]]
 - [2026 07 27 Howisthebunrewriteinrustgoing](../../entities/article/2026-07-27_HowistheBunRewriteinRustgoing__summary.md)
-- [[papers/2026-07-23_10-16-43Z_Hardware_SoftwareCo_DesignforFloat16On_Devi_summary.md|2026 07 23 10 16 43Z Hardware Softwareco Designforfloat16on Devi]]
-- [[papers/2026-07-24_15-15-10Z_HiKV_HierarchicalImportance_AwareKVCachewit_summary.md|2026 07 24 15 15 10Z Hikv Hierarchicalimportance Awarekvcachewit]]
+- [[../papers/2026-07-23_10-06-11Z_Hardware_SoftwareCo_DesignforFloat16On_Devi_summary.md|2026 07 23 10 16 43Z Hardware Softwareco Designforfloat16on Devi]]
+- [[../papers/2026-07-24_15-15-10Z_HiKV_HierarchicalImportance_AwareKVCachewit_summary.md|2026 07 24 15 15 10Z Hikv Hierarchicalimportance Awarekvcachewit]]

@@ -183,7 +183,7 @@ conn.execute("""
 The outer loop is where self-improvement actually happens. Without it, every session starts from scratch. Mozilla cq gives you a standard for shared knowledge. Start with SQLite for structured data, add a vector DB when you need semantic search. Solve the cold start with staged deployment.
 
 ## Related Concepts
-- [[Self-Improving AI Loops]]
-- [[Mozilla cq]]
-- [[Ralph Loops]]
-- [[Inner/Outer Loop]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-07-26_LangChain_Harness_and_Loop_Engineering_References.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Lesson1_ParadigmShift.md]]

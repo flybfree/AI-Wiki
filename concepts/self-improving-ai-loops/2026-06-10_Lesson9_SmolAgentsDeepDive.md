@@ -514,8 +514,8 @@ smolagent
 SmolAgents is the minimalist code-first agent library. It's ~1,000 lines of code, supports any LLM via LiteLLM, has built-in sandboxed execution, and lets you share tools/agents to the Hub. Use CodeAgent when you need expressive, dynamic logic. Use ToolCallingAgent when you need reliability and structured output. The model matters less than the feedback loop — SmolAgents gives you the simplest path to build that loop.
 
 ## Related Concepts
-- [[Self-Improving AI Loops]]
-- [[Harness Engineering]]
-- [[Feedback Loop Engineering]]
-- [[Agent Frameworks]]
-- [[Model Version Brittleness]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Lesson4_AgentFrameworks.md]]
+- [[2026-06-10_Lesson8_DIYArchitecture.md]]

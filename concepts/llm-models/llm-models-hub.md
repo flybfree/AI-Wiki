@@ -16,7 +16,7 @@ Frontier and open-weight language models, model releases, product launches, and 
 
 - [AI Ml Foundations Lesson 11 Large Language Models The Modern AI Interface](../ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md)
 - [AI Ml Foundations Lesson 10 Generative AI Creating New Content](../ai-foundations/ai-ml-foundations-lesson-10-generative-ai-creating-new-content.md)
-- [[concepts/llm-alignment.md|LLM Alignment]]
+- [[../alignment-safety/alignment-hub.md|LLM Alignment]]
 
 ## Representative Summaries
 

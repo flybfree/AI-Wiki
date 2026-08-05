@@ -175,7 +175,7 @@ Regardless of the tool you use, your orchestration layer needs to show:
 Pick the orchestration tool based on your team's expertise. Visual tools (Dify, Flowise) for teams without orchestration expertise. Code-based (LangGraph) for developers who want full control. Always make feedback loops visible — if you can't see the loop, you can't debug it.
 
 ## Related Concepts
-- [[Self-Improving AI Loops]]
-- [[Feedback Loop Engineering]]
-- [[LangGraph]]
-- [[Dify]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-07-26_LangChain_Harness_and_Loop_Engineering_References.md]]
+- [[2026-07-26_LangChain_Harness_and_Loop_Engineering_References.md]]

@@ -125,14 +125,14 @@ RLM addresses this by changing the architecture rather than just scaling paramet
 
 ## Related Concepts
 
-- [[Self-Improving AI Loops]] - recursive self-improvement in AI systems
-- [[Large Language Models]] - the base architecture that RLM extends
-- [[Recursive Neural Networks]] - earlier recursive architectures for structured data
-- [[Thermodynamic Intelligence]] - the theoretical framework connecting recursion to intelligence
-- [[Multi-Agent Systems]] - RLM often uses coordinated specialized agents
-- [[Quantization]] - LoopQ addresses quantization challenges in recursive transformers
-- [[RAG (Retrieval-Augmented Generation)]] - RLM extends RAG with recursive refinement loops
-- [[Agent Frameworks]] - RLM uses multi-agent coordination patterns
-- [[Formal Verification]] - Quarry demonstrates recursive decomposition for proof automation
-- [[Medical AI]] - MedRLM applies RLM to clinical decision support
-- [[Video Anomaly Detection]] - LATERN uses recursive evidence aggregation for temporal reasoning
+- [[self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md]] - recursive self-improvement in AI systems
+- [[llm-models/llm-models-hub.md]] - the base architecture that RLM extends
+- [[recursive-language-models.md]] - earlier recursive architectures for structured data
+- [[../logseq-brain/pages/ai-research/concepts/ai-trends/daily-ai-intelligence-summary-2026-08-04.md]] - the theoretical framework connecting recursion to intelligence
+- [[2026-06-09_AgentSystemsHub.md]] - RLM often uses coordinated specialized agents
+- [[2026-06-17_turboquant.md]] - LoopQ addresses quantization challenges in recursive transformers
+- [[search-retrieval/search-retrieval-hub.md]] - RLM extends RAG with recursive refinement loops
+- [[self-improving-ai-loops/2026-06-10_Lesson4_AgentFrameworks.md]] - RLM uses multi-agent coordination patterns
+- [[papers/2026-07-30_22-43-33Z_Open_SourceLLM_DrivenFormalVerification_AMu_summary.md]] - Quarry demonstrates recursive decomposition for proof automation
+- [[health-ai/health-ai-hub.md]] - MedRLM applies RLM to clinical decision support
+- [[papers/2026-07-20_16-36-00Z_O_VAD_IndustrialVideoAnomalyDetectionthroug_summary.md]] - LATERN uses recursive evidence aggregation for temporal reasoning

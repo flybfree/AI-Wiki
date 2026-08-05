@@ -289,8 +289,8 @@ Ralph loops are safe when repo-contained with toolchain as judge. Dangerous with
 The stack is: Ollama → LiteLLM → SmolAgents/LangGraph → DeepEval → Mozilla cq → Dify/LangGraph. Start with a Ralph loop (bash `while true`), add layers as you scale. The harness matters more than the model. Build the judge node first. Track drift, not just errors. Self-host to control your upgrade schedule.
 
 ## Related Concepts
-- [[Self-Improving AI Loops]]
-- [[Feedback Loop Engineering]]
-- [[Harness Engineering]]
-- [[Drift Detection]]
-- [[Model Version Brittleness]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Self-Improving-AI-Loops.md]]
+- [[2026-06-10_Lesson8_DIYArchitecture.md]]
+- [[2026-06-10_Lesson8_DIYArchitecture.md]]
