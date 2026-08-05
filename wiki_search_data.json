@@ -1368,15 +1368,7 @@
     "source": "Wiki Entry",
     "content": "---\n\ntitle: China's DeepSeek releases preview of long-awaited V4 model as AI\ndate: 2026-04-27\nurl: https://www.cnbc.com/2026/04/24/deepseek-v4-llm-preview-open-source-ai-competition-china.html?msockid=2e6aa028c1756b8d1ac3b760c05e6a7a\ntype: news-snippet\ntags: [news, ai-trends]\n---\n\n## Article Entity\n\nArticle ingested from raw source: 2026-04-27_China_sDeepSeekreleasespreviewoflong_awaitedV4mode.md\n\n**Title**: China's DeepSeek releases preview of long-awaited V4 model as AI\n**Source**: Unknown\n**Date**: 2026-04-27\n---\n\n"
   },
-  {
-    "file": "2026-04-27_InauguralAdobeCreators_ToolkitReport_86PercentofGl_article.md",
-    "path": "/entities/article/2026-04-27_InauguralAdobeCreators_ToolkitReport_86PercentofGl_article.md",
-    "type": "article",
-    "title": "Inaugural Adobe Creators' Toolkit Report: 86 Percent of Global \u2026",
-    "date": "2026-04-27",
-    "source": "Wiki Entry",
-    "content": "---\n\ntitle: Inaugural Adobe Creators' Toolkit Report: 86 Percent of Global \u2026\ndate: 2026-04-27\nurl: https://news.adobe.com/news/2025/10/adobe-max-2025-creators-survey\ntype: news-snippet\ntags: [news, ai-trends]\n---\n\n## Article Entity\n\nArticle ingested from raw source: 2026-04-27_InauguralAdobeCreators_ToolkitReport_86PercentofGl.md\n\n**Title**: Inaugural Adobe Creators' Toolkit Report: 86 Percent of Global \u2026\n**Source**: Unknown\n**Date**: 2026-04-27\n---\n\n"
-  },
+
   {
     "file": "2026-04-27_LLMLeaderboard2026_Compare220AIModelsAcross178_article.md",
     "path": "/entities/article/2026-04-27_LLMLeaderboard2026_Compare220AIModelsAcross178_article.md",
