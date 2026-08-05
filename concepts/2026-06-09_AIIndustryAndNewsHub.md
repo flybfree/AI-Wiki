@@ -63,5 +63,5 @@ This hub organizes AI industry news, model releases, market analysis, and breakt
 
 ## Research & Breakthroughs
 
-- [[2026-04-27_Merck_and_Mayo_Clinic_Announce_New_Research_and_De_summary.md|Merck & Mayo AI Research]]
+
 - [[2026-05-15_SonyAIAnnouncesBreakthroughResearchinReal-WorldArt_summary.md|Sony AI Breakthrough]]
