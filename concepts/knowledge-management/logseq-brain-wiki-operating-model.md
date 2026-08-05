@@ -151,9 +151,10 @@ A strong knowledge page usually has:
 - related pages
 - a stable place in the navigation graph
 
-## Related pages
-
+## Semantic links
 - [[concepts/knowledge-management/page-templates.md|Page Templates for the AI Research Wiki]]
+
+## Related pages
 - [[wiki-landing-page.md|AI Research Wiki — Landing Page]]
 - [[wiki-topic-index.md|AI Research Wiki — Topic Index]]
 - [[index.md|AI Research Wiki Index]]

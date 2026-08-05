@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 [The paper addresses a vulnerability in LLM‑based multi‑agent systems where backdoor behavior is triggered only when peer evidence accumulates to a hidden threshold, rather than by individual messages.] [It introduces the collective evidence‑threshold backdoor paradigm and a defense mechanism called Boundary‑Conditioned Backdoor Injection (BCBI).] [BCBI creates counterfactual boundary pairs to isolate benign from adversarial behavior while learning latent progression aligned with evidence.] [The authors also propose LAtent Transition Test‑time Evaluation (LATTE) as a clean‑only test that quarantines anomalous updates before propagation.]
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-08-04_09-31-44Z_LLM_DerivedPriorsforThompsonSamplinginCold__summary.md|Summary: 2026-08-04_09-31-44Z_LLM_DerivedPriorsforThompsonSamplinginCold_StartCo.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 - [The collective evidence‑threshold backdoor paradigm enables activation of malicious behavior only when aggregated peer signals cross a hidden threshold.]  
 - [BCBI constructs counterfactual boundary pairs to separate benign from adversarial behavior and learns latent progression aligned with evidence.]  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper argues that evaluation scores from language models are perishable knowledge claims and should not be aggregated blindly, leading to trust inflation. It proposes treating scores as epistemic statements with formality, scope, and validity windows, and suggests adding metadata to convey this status. The authors demonstrate via the HELM leaderboard that mean aggregation inflates rankings while weakest‑link yields a more reliable ordering. They also introduce a framework for explicit score metadata. By framing scores as claims with measurable uncertainty, the work encourages systematic handling of their temporal decay.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Evaluation scores exhibit trust inflation when averaged across heterogeneous signals.  
 - Finding 2: Scores should be annotated with formality tier, scope declaration, and expiration date to reflect their epistemic reliability.  

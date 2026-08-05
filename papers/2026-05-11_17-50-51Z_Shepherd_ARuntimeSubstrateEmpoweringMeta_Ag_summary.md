@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Shepherd introduces a functional‑programming substrate that treats meta‑agents as composable functions operating on target agents, formalized in Lean for precise execution tracing. The system records every agent‑environment interaction as a typed event in a Git‑style trace, enabling arbitrary state forking and replay with extreme speed. By forking the process five times faster than Docker and reusing prompt caches over 95 % of the time, Shepherd provides an efficient runtime platform for meta‑agent research.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 4 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] A Lean‑based formal model that treats meta‑agents as pure functions, guaranteeing reproducibility and traceability.  
 - [Finding 2] Execution tracing via a Git‑like log that records all agent‑environment events, enabling precise forked replay without state loss.  

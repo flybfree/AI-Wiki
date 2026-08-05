@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether small vision‑language models can reliably signal when they are uncertain under realistic photographic degradations such as compression, camera shake, and poor lighting. It finds that the confidence the model expresses in natural language is essentially useless for error detection, whereas its internal token‑level probability provides a strong, consistent uncertainty measure. The study compares two open‑weight VLMs—Qwen2‑VL‑2B‑Instruct and SmolVLM‑Instruct—across six degradations at three severity levels using 3,800 predictions. This work demonstrates that small models possess usable self‑knowledge but cannot translate it into a reliable verbal confidence statement.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Verbalized confidence in both Qwen2‑VL and SmolVLM remains near constant (mean ≈ 0.87–0.90) across all conditions, yielding AUROC values around chance level (0.39–0.75), indicating it does not improve error detection.  
 - [Finding 2] The model’s own mean token probability separates correct from incorrect answers with high AUROC scores (0.92–0.99 for Qwen2‑VL and 0.54–0.92 for SmolVLM), showing it can reliably signal uncertainty.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 DeMaVLA is a vision‑language‑action foundation model designed to enable generalizable deformable manipulation, such as folding clothing items that vary in category, geometry, material and scene context. By moving beyond category‑specific policies and mitigating task interference, the authors propose a unified VLM backbone equipped with an action expert generated via flow matching. The system is first pre‑trained on roughly five thousand hours of dual‑arm demonstrations to acquire robust manipulation priors, then fine‑tuned on mixed folding data collected through a human‑in‑the‑loop Data Aggregation (DAgger) pipeline that incorporates both successful trajectories and corrective robot failures.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTranspo_summary.md|Summary: 2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsfo_summary.md|Summary: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] DeMaVLA provides a single VLA foundation model capable of handling diverse deformable objects without separate policies for each category.  
 - [Finding 2] The action expert is built by pruning every other transformer layer, preserving alignment with the VLM backbone while dramatically reducing training and inference cost.  

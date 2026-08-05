@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the safety gap in automated remediation by treating safe repair decisions as a risk‑constrained intervention problem, introducing a three‑dimensional risk decomposition and a context‑adaptive human‑in‑the‑loop gate. It reformulates the task as a constrained Markov decision process that maximizes repair success while keeping the false remediation rate bounded. The framework learns from historical incident logs to enforce explicit safety guarantees without sacrificing operational efficiency.
 
+## Semantic links
+- [[concepts/papers/2026-07-24_15-03-14Z_IDEAgent_AgenticQuality_DiversitySearchforR_summary.md|Summary: 2026-07-24_15-03-14Z_IDEAgent_AgenticQuality_DiversitySearchforResearch.md]] — 3 title terms overlap; 1 backlink; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-25_14-45-26Z_Context_AwareConceptDistillationforTrustwor_summary.md|Summary: 2026-07-25_14-45-26Z_Context_AwareConceptDistillationforTrustworthyFloo.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - [Finding 1] Reformulation of safe remediation as a risk‑constrained intervention decision problem cast as a Constrained Markov Decision Process (CMDP) that maximizes repair success subject to a bounded false remediation rate.  
 - [Finding 2] Introduction of a three‑dimensional risk decomposition—blast radius, reversibility, and epistemic uncertainty—to provide interpretable per‑action safety metrics for operators.  

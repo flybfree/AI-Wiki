@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes Reasoning in Memory (RiM), a method that replaces autoregressive generation of intermediate tokens with fixed memory blocks to enable latent reasoning within large language models. It aims to decouple internal computation from external token output, mimicking human working memory. By using fixed special‑token sequences as memory slots, RiM allows single‑pass processing and compute‑efficient reasoning. Experiments show RiM matches or exceeds prior latent reasoning methods across diverse model families.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTool_summary.md|Summary: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Fixed memory blocks can replace autoregressive reasoning steps while preserving computational efficiency.  
 - Finding 2: A two‑stage curriculum—first predicting explicit steps, then discarding supervision to refine answers—optimizes the use of these blocks.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles a mismatch between the synthetic optimization tasks used to train latent‑space Bayesian optimization (LSBO) surrogates and the regression objectives of modern tabular foundation models such as TabPFN and TabICL. By augmenting these pretrained models with a regularized, in‑context learning objective that is defined on the latent space of a molecular VAE, the authors enable the model to adapt to LSBO while retaining its broad performance across diverse regression problems. The proposed approach demonstrates that specialized adaptation does not degrade generalisation and can be achieved through simple continued pretraining.  
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarc_summary.md|Summary: 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_Head_summary.md|Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A regularized in‑context learning objective that anchors a tabular foundation model to the original checkpoint while allowing it to learn from LSBO tasks.  
 - [Finding 2] Demonstration that this adaptation improves performance on held‑out molecular optimization benchmarks without sacrificing prior regression ability.  

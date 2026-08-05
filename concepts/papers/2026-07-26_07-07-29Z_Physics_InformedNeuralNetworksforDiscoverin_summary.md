@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Physics‑Informed Neural Networks (PINNs) as a tool for discovering periodic orbits in the gravitational three‑body problem from sparse, noisy observations that do not include initial conditions. By training PINNs on this limited data, the authors recover orbit families that were never present in the training set and demonstrate that the identified solutions are verifiable rather than merely plausible. This work bridges data‑driven learning with rigorous dynamical analysis for chaotic systems.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] PINNs trained on sparse noisy observations without initial conditions can converge to periodic orbits, including families absent from the training data.  
 - [Finding 2] Changing the source of training data significantly alters the distribution of recovered families (p < 0.001, Cramér’s V = 0.339), indicating that the data itself determines which orbit families emerge.  

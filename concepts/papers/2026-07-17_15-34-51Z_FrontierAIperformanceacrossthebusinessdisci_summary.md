@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper seeks to measure how large language models (LLMs) perform on the analytical knowledge work that white‑collar professionals execute daily, a domain that current benchmarks largely ignore. Its contribution is the creation of **BusinessCaseBench**, a benchmark that pairs hundreds of business‑case questions across eighteen disciplines with expert‑written grading rubrics derived from instructor solutions. By grounding performance evaluation in real pedagogical material, the authors demonstrate that frontier AI models already achieve high scores and show rapid improvement over a two‑year period. This work bridges the gap between generic LLM benchmarks and the nuanced, judgment‑heavy tasks central to business education and early‑career roles.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Frontier AI models score highly against instructor rubrics on BusinessCaseBench, indicating that current models can produce defensible, structured analyses.  
 - **Finding 2:** Within a single model family, performance improves substantially over two years, suggesting accelerating progress in analytical reasoning capabilities.  

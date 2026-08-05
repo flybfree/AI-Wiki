@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes an audio‑native speech recognition system that leverages a frozen discrete‑diffusion language model to generate full transcripts in parallel, contrasting sharply with the token‑by‑token autoregressive decoders that dominate current research. It trains DiffusionGemma, a 26 B mixture‑of‑experts model, using uniform random‑token diffusion and a lightweight Whisper encoder as an acoustic source. A frozen MoE backbone is adapted via low‑rank adapters and a connectionist temporal classification loss to incorporate the new audio modality. The approach achieves a 6.6 % word error rate on LibriSpeech clean test data across English, Hindi, and Mandarin with only eight parallel denoising steps.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces an audio‑native interface for diffusion language models that refines the entire transcript in parallel rather than sequentially emitting tokens.  
 - [Finding 2] Shows that a frozen MoE backbone can be effectively adapted to new modalities using low‑rank adapters and a temporal classification loss, overcoming gradient deadlock.  

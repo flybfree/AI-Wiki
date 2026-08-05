@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The HANDOFF paper addresses the challenge of designing a humanoid whole‑body controller that can be driven directly from high‑level task semantics without requiring dense kinematic or spatial references. By introducing a compact, explicit command interface and distilling three complementary expert controllers into a single mixture‑of‑experts student, HANDOFF creates an intuitive, modular, and expressive control system suitable for real‑world deployment. The approach achieves state‑of‑the‑art performance on the Unitree G1 while preserving robustness across diverse manipulation tasks.  
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDist_summary.md|Summary: 2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] HANDOFF provides a compact, explicit interface that translates natural‑language task descriptions into whole‑body commands without dense kinematic data.  
 - [Finding 2] The controller is distilled via multi‑teacher KL distillation under a context‑conditioned gating scheme, yielding a mixture‑of‑experts student that blends motion tracking, locomotion, and fall‑recovery expertise.  

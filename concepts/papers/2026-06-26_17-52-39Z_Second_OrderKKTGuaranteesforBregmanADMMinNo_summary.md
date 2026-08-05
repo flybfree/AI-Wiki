@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The authors investigate the convergence properties of Bregman ADMM for nonconvex, linearly constrained optimization problems that lack a global Lipschitz‑gradient bound. By replacing the usual smoothness assumption with two‑sided relative smoothness w.r.t. a Bregman kernel, they enable analysis on polynomial objectives such as those arising from matrix and tensor models. Their key insight is that one iteration of Bregman ADMM defines a primal–dual fixed‑point map whose strict saddle KKT points are unstable, guaranteeing almost‑sure convergence to a strict saddle point under random initialization. This result extends the usual first‑order guarantees to a second‑order stationarity property for the limiting KKT solutions.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A rigorous proof that Bregman ADMM’s primal–dual map has strictly unstable fixed points on an invariant open state‑space domain, leading to almost‑sure convergence to strict saddle KKT points.  
 - [Finding 2] Extension of the analysis to a multi‑block star consensus formulation for distributed optimization, using determinant reduction and Bregman‑specific symmetrization to cancel null spaces.  

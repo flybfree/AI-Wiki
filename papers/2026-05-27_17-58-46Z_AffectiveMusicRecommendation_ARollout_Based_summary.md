@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces Affective Music Recommendation (AMRS), a rollout‑based world model that enables offline optimisation of music suggestions without requiring ethically sensitive online experiments. By training a causal transformer on logged listening data, the system jointly predicts engagement, binary ratings, and self‑reported valence and arousal, allowing it to serve both clinical users with neurocognitive conditions and consumer‑wellness platforms. The contribution is an end‑to‑end offline pipeline that uses Direct Preference Optimization (DPO) against a multi‑objective utility function to improve affective predictions while preserving recommendation diversity. This work validates the methodology as a safe, deployable approach for affective music recommendation when online experimentation is prohibited.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] A rollout‑based world model built on a causal transformer can predict engagement, binary rating, valence, and arousal from historical listening logs with usable fidelity.  
 - [Finding 2] Fine‑tuning the behavior‑cloned policy with DPO improves predicted valence and arousal scores while maintaining a comparable diversity profile to the cloned baseline.  

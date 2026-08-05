@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper challenges the conventional assumption that achieving perfect generalization accuracy equates to a model's robustness against future interference. The authors investigate the phenomenon known as the "grokked illusion," demonstrating that models trained with standard optimizers like AdamW are surprisingly fragile when subjected to catastrophic forgetting, despite appearing to have mastered their tasks. By comparing these standard models against high-entropy solutions sampled via Wang-Landau Molecular Dynamics, the study reveals a significant disparity in stability during subsequent learning phases. The core contribution lies in identifying that higher parameter space volume, quantified by Boltzmann entropy, serves as a critical buffer against the loss of previously acquired knowledge.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions
 - **The Grokked Illusion**: The authors identify and name a new phenomenon where models achieve perfect generalization on initial tasks but suffer severe performance degradation when learning new information, revealing that apparent mastery does not guarantee robustness.
 - **High-Entropy Advantage in Robustness**: The study provides empirical evidence that high-entropy solutions maintain significantly higher test accuracy (approximately 95%) compared to standard AdamW-trained models (dropping below 75%) when forced to learn new data with random labels, proving that entropy correlates with stability.

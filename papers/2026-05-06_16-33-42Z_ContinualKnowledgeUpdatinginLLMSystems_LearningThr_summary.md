@@ -15,6 +15,11 @@ Source: 2026-05-06_16-33-42Z_ContinualKnowledgeUpdatinginLLMSystems_LearningThr.
 ## Summary
 This paper argues that external memory for LLM systems should be treated as a learning substrate rather than a static store. The authors present Memini, an associative-memory architecture organized as a directed graph whose edges contain coupled fast and slow variables inspired by the Benna-Fusi model of synaptic consolidation. The coupling is meant to support immediate use of new associations, gradual strengthening through repetition, and selective forgetting.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - External memory can adapt over time instead of being manually managed.
 - Multi-timescale dynamics unify episodic recall, consolidation, and forgetting.

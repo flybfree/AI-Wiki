@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Polymer property prediction and inverse generative design are two critical challenges in machine‑learning‑assisted polymer development, yet existing approaches typically address only a single property at a time. This paper introduces **PolymerGPT**, a decoder‑based GPT model that can simultaneously condition on up to 37 common polymer properties through learned prefixes, and also supports a scaffold condition for specifying a desired structural template. The framework enables direct optimization of multiple macroscopic material behaviors in a single generative pass. Experimental results show that the generated structures accurately reproduce all target property values while maintaining high validity, uniqueness, and novelty.
 
+## Semantic links
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 6 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Introduces a decoder‑based GPT architecture that conditions on multiple polymer properties simultaneously.  
 - Implements learned conditioning prefixes that allow up to 37 commonly used polymer properties to be encoded within the model’s input.  

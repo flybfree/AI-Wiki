@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Talaria tackles the challenge of serverless multi‑model LLM serving where a single user session repeatedly invokes different models across short tool gaps, carrying a long reusable KV prefix that must remain contiguous for high performance. The paper proposes a session‑aware router that jointly decides model placement and admission, optimizing for model residency, KV locality, instance pressure, and soft reservations to minimize the session completion time (SCT). By treating session continuity as the primary scheduling metric, Talaria avoids the latency penalties caused by independent request scheduling.
 
+## Semantic links
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-08-03_13-17-49Z_MEGRAG_Multi_GranularEvidenceGraphsforAnswe_20260804_0052_summary.md|Summary: 2026-08-03_13-17-49Z_MEGRAG_Multi_GranularEvidenceGraphsforAnswer_Aware.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.05
+
 ## Key Contributions  
 - [Finding 1] The introduction of a joint placement‑and‑admission decision framework that treats session continuity as the central optimization goal.  
 - [Finding 2] Implementation of session‑prefill (SP), which admits budget‑eligible continuations before the active model slot closes, preventing unnecessary round delays.  

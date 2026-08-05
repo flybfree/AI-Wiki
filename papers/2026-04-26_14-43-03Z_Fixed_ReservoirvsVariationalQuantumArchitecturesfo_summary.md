@@ -16,6 +16,11 @@ Model: None
 ## Summary
 Deploying quantum machine learning on NISQ devices requires architectures where training overhead does not negate computational advantages. We systematically compare two quantum approaches for chaotic time-series prediction on the Lorenz system: a variational Quantum Physics-Informed Neural Network (QPINN) and a Quantum Reservoir Computing (QRC) framework utilizing a fixed transverse-field Ising Hamiltonian. Under matched resources ($4$--$5$ qubits, $2$--$3$ layers), QRC achieves an $81\%$ lower mean-squared error (test MSE $3.2 \pm 0.6$ vs.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsI_summary.md|Summary: 2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsInvarian.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning_summary.md|Summary: 2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+
 ## Key Takeaways
 - Deploying quantum machine learning on NISQ devices requires architectures where training overhead does not negate computational advantages.
 - We systematically compare two quantum approaches for chaotic time-series prediction on the Lorenz system: a variational Quantum Physics-Informed Neural Network (QPINN) and a Quantum Reservoir Computing (QRC) framework utilizing a fixed transverse-field Ising Hamiltonian.

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical need for quantitative verification in Decision Tree Ensembles (DTEs), which are widely deployed in safety-critical AI applications. The authors introduce a novel framework to quantify sensitivity, defined as the susceptibility of a model to misclassification when a small subset of input features is perturbed. By discretizing the input space and enumerating sensitive regions, the work moves beyond binary verification to provide a measurable degree of robustness. The proposed method leverages algebraic decision diagrams to decompose the problem into manageable subproblems, enabling scalable and certified analysis of ensemble sensitivity.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe_summary.md|Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions
 - The authors define a precise quantitative notion of sensitivity for DTEs that accounts for discretized input spaces and provides certified error and confidence bounds.
 - They develop a symbolic and compositional algorithmic technique that encodes sensitivity analysis as an Algebraic Decision Diagram (ADD), allowing for efficient decomposition of complex ensemble problems.

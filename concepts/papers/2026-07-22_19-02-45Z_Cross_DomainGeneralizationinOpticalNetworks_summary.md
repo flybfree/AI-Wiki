@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper tackles the problem of cross-domain generalization in optical networks where models trained on one topology or configuration perform poorly on unseen ones. The authors propose a joint contrastive and classification learning framework that simultaneously learns representations and optimizes task performance, thereby shaping a latent space robust to domain variations. Experiments show that this approach yields rapid adaptation with limited fine‑tuning, outperforming baseline methods in lightpath quality estimation tasks.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The joint contrastive‑classification paradigm enables representation learning and supervised classification to co‑optimize the same latent space.  
 - [Finding 2] The method captures task‑relevant relationships that remain invariant across heterogeneous network topologies, improving generalization.  

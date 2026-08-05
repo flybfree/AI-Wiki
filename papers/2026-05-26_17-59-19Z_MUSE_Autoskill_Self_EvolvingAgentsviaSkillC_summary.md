@@ -41,3 +41,8 @@ Treating skills as long‑lived, testable entities addresses a fundamental limit
 - [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]
 - [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]]
 - [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]
+
+## Semantic links
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNe_summary.md|Summary: 2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLine_summary.md|Summary: 2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLinearInver.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap

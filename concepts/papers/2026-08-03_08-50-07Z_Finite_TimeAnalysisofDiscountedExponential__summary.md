@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of achieving finite‑time convergence for model‑free reinforcement learning under discounted exponential utility. By introducing a Bellman‑compatible surrogate and two fixed‑point algorithms, it moves beyond asymptotic guarantees to obtain explicit \(\tilde{O}(1/\sqrt{n})\) rates in asynchronous Markovian sampling. The authors also resolve mismatches between algorithmic stepsizes and operator geometry using boundedness, monotonicity, homogeneity, pseudo‑contraction, a Moreau‑envelope Lyapunov function, and Polyak–Ruppert averaging. These results constitute the first finite‑time convergence proofs for discounted exponential‑utility RL.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Finite‑time \(\tilde{O}(1/\sqrt{n})\) convergence rates are established for both fixed‑point algorithms under asynchronous Markovian sampling with parameter‑free stepsizes.  
 - [Finding 2] The one‑timescale method’s update equation is aligned via a pseudo‑contraction property of the power‑law operator, enabling local convergence guarantees without explicit stepsize tuning.  

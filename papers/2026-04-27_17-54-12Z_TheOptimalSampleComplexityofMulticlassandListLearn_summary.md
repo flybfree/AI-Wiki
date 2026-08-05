@@ -15,6 +15,11 @@ Source: 2026-04-27_17-54-12Z_TheOptimalSampleComplexityofMulticlassandListLearn.
 ## Summary
 Resolves the optimal sample-complexity dependence for multiclass and list learning by proving that the maximum hypergraph density of any multiclass hypothesis class is bounded by its DS dimension. This closes a longstanding conjecture and removes the prior gap between upper and lower bounds.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti__summary.md|Summary: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] — 1 title term overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 1 title term overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 1 title term overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Takeaways
 - Extends the classical sample-complexity story beyond binary VC theory.
 - Uses a new algebraic characterization built on DS dimension.

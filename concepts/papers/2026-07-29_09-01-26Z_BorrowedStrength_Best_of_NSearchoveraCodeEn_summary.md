@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper demonstrates that self‑check defenses like SAGE can be breached by combining two seemingly harmless attacks—code‑completion encoding and best‑of‑N search—each individually low impact but together achieving high evasion rates. By composing these attacks, the authors achieve 67 %/22 %/15 % success across three open targets and persist on a 70B model. They also explain why certain attacks survive based on defense type and propose a diagnostic for deterministic greedy decoding.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The composition of code‑completion encoding with best‑of‑N search yields high evasion rates (67 %/22 %/15 %) across three open targets, surpassing individual attack limits.  
 - [Finding 2] Self‑check defenses borrow strength from the target model, converting requests into refusals at varying rates (32 %-97 %), which inflates defended coverage despite similar undefended reach.  

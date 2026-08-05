@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Multimodal clinical AI systems often suffer when a modality is unavailable at deployment time, yet current evaluation tools cannot pinpoint which modality caused the error or whether its absence triggers a “loud” failure (large accuracy drop) versus a “silent” one (minimal impact). This paper introduces **PRIMED‑AI**, a reusable, model‑agnostic framework that analyses per‑example and per‑modality failures using only deployment‑observable signals. The framework produces three outputs: a taxonomy of example‑level failures, a matrix linking error attribution to modalities, and a loud‑vs‑silent dropout profile. By validating the framework on planted ground‑truth structures across multiple seeds, it demonstrates reliable recovery of modality dominance and complementarity, which is then applied to real cardiac data where echo loss dramatically worsens performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **PRIMED‑AI**: A lightweight, unit‑tested harness that generates a per‑example failure taxonomy, a per‑modality complementarity matrix, and a loud‑vs‑silent dropout profile from any mask‑aware probe.  
 - **Validation on planted structures**: The framework recovers the known modality dominance and complementary subset across seeds, proving it distinguishes genuine clinical failures from noise rather than merely improving reported accuracy.  

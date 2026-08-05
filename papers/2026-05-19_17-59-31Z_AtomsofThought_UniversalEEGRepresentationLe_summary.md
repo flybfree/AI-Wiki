@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces a novel paradigm for electroencephalogram (EEG) representation learning by shifting the focus from traditional continuous time- or frequency-domain signals to discrete "microstates." The authors propose a universal microstate tokenizer that converts continuous EEG data into sequences of discrete brain activity patterns through clustering on a large-scale medical dataset. This approach treats microstates as the fundamental "atoms of thought," providing a standardized and interpretable language for brain activity. The study demonstrates that this universal representation significantly outperforms conventional feature extraction methods across multiple downstream neuroinformatics tasks, including sleep staging, emotion recognition, and motor imagery classification.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 16 summary/topic terms overlap
+
 ## Key Contributions
 - The development of a universal microstate tokenizer derived from extensive medical EEG data, enabling the conversion of continuous neural signals into discrete, interpretable sequences.
 - Empirical evidence demonstrating that microstate-based representations consistently surpass traditional time-domain and frequency-domain features in accuracy and robustness across diverse BCI tasks.

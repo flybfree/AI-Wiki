@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a two‑block Brain‑Computer Interface (BCI) architecture for real‑time EEG gait decoding that addresses the limitations of motion artifacts, low signal‑to‑noise ratio, and binary gait formulations. It introduces a trainable session‑specific Feature Extraction Block with real‑time artifact suppression and multi‑domain feature extraction, coupled with a Decoder Block built on a novel Polynomial Time‑Varying Layer (PolyTVL)+LSTM for four‑state gait classification. An ablation study confirms that the PolyTVL+LSTM decoder outperforms all variants, achieving the highest validation MCC. Closed‑loop deployment of this architecture yields consistent success rates in a pilot study with sub‑100 ms prediction latency.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 6 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The 2‑block architecture improves real‑time EEG gait decoding by integrating artifact suppression and multi‑domain feature extraction.  
 - [Finding 2] PolyTVL+LSTM decoder achieves a validation MCC of 0.435, outperforming all alternative architectures (gap = 0.187).  

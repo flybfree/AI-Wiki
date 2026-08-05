@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces LEX‑EC, a reusable audit framework for zero‑shot personality classification by large language models in black‑box settings. It combines prevalence and agreement diagnostics with controlled lexical ablation to separate genuine trait signals from marginal‑distribution effects. Experiments show that text genre and length strongly influence the detectability of Extraversion associations, with free‑form essays offering the broadest but still weak signal and single Facebook statuses yielding little stable evidence even when balanced. LEX‑EC also evaluates model explanations across multiple criteria such as prevalence, chance‑corrected agreement, persistence under lexical restriction, and prompt sensitivity.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 1 backlink; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - LEX‑EC provides a reusable audit framework that integrates prevalence, agreement, and controlled lexical restriction to assess trait‑association reliability in black‑box personality classification.  
 - Experiments reveal that text genre and length strongly influence the detectability of Extraversion signals, with free‑form essays offering the broadest but still weak evidence and single Facebook statuses yielding little stable association even when balanced.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates whether one can find polynomials that are both non‑negative and \(L_{1}\)-approximate the indicator of a set under the standard Gaussian distribution. It shows that for any finite Gaussian surface area (GSA) bound \(\Gamma\) there exist degree‑\(k = \tilde{O}(\Gamma^{2}/\varepsilon^{2})\) polynomials that stay in \([0,\infty)\) and satisfy an \(L_{1}\) error at most \(\varepsilon\). This result improves the existing literature by adding a non‑negativity constraint while preserving the same asymptotic degree bound as the best known Gaussian \(L_{1}\)-approximation results.  
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetwork_summary.md|Summary: 2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDist_summary.md|Summary: 2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - **Non‑negative existence**: Every set with GSA ≤ Γ admits a polynomial of degree \(\tilde{O}(\Gamma^{2}/\varepsilon^{2})\) that is everywhere ≥ 0 and approximates its indicator in \(L_{1}\) norm.  
 - **Degree optimality**: The required degree matches, up to constant factors, the current best bound for Gaussian \(L_{1}\)-approximation without any non‑negativity requirement.  

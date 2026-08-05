@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the Quantization‑Induced Robustness Gap observed when post‑training quantization (PTQ) of large vision models on edge devices degrades robustness under out‑of‑distribution conditions while preserving in‑distribution accuracy. It proposes Recti‑Q, a lightweight feature‑space rectification framework that mitigates this degradation with minimal overhead.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-16-04Z_Vision_Default_Prior_Override_CausalMechani_summary.md|Summary: 2026-06-26_17-16-04Z_Vision_Default_Prior_Override_CausalMechanismsofPe.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-07-28_13-43-04Z_SpeechLLMMeetsFederatedLearningforEnd_to_En_summary.md|Summary: 2026-07-28_13-43-04Z_SpeechLLMMeetsFederatedLearningforEnd_to_EndASR_En.md]] — 3 title terms overlap; 15 summary/topic terms overlap; semantic match 0.14
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: PTQ causes substantial robustness loss under deployment‑relevant distribution shifts (e.g., sensor noise, severe weather) despite negligible ID accuracy loss.  
 - Finding 2: Recti‑Q recovers significant robustness by applying feature‑space rectification using only source data, matching or exceeding FP32 performance on ImageNet‑C and PACS benchmarks.  

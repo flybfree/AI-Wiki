@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates why injecting full‑document context into every streaming segment of simultaneous speech translation is often unnecessary and proposes an Evidence‑Grounded Terminology Adaptation (EGTA) framework that extracts only the most relevant terms for each streaming state. By building a document terminology memory and selecting compact candidate words conditioned on the current audio‑text stream, EGTA adapts both ASR and decoder decision spaces without requiring full‑model fine‑tuning. The authors demonstrate that this targeted adaptation yields measurable gains in translation quality across technical‑talk datasets.  
 
+## Semantic links
+- [[concepts/audio-speech/audio-speech-hub.md|Audio and Speech Hub]] — 3 title terms overlap; 73 backlinks; 3 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_09-42-34Z_ET_Prune_Evidence_AwareDynamicBudgetingforV_summary.md|Summary: 2026-08-03_09-42-34Z_ET_Prune_Evidence_AwareDynamicBudgetingforVisualTo.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.13
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Diagnostic experiments reveal that the benefit of extra context comes primarily from paper‑specific terminology recovery rather than a uniform semantic enhancement.  
 - **Finding 2:** EGTA constructs a document terminology memory, selects compact candidate terms based on the current streaming state, and adapts both ASR (speech‑side) and decoder decision spaces using only those selected terms.  

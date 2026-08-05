@@ -15,6 +15,11 @@ Source: 2026-05-06_17-40-11Z_WhenLifeGivesYouBC_MakeQ_functions_ExtractingQ_val.
 ## Summary
 The paper proposes Q2RL, an offline-to-online learning method that starts from a behavior cloning (BC) policy and then extracts a usable Q-function from it with a small amount of interaction. The method combines Q-Estimation, which recovers Q-values from BC, with Q-Gating, which chooses between BC and RL actions based on their estimated values. This aims to preserve good imitation behavior while enabling online improvement without the usual instability from distribution mismatch.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_Usi_summary.md|Summary: 2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] — 1 title term overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommo_summary.md|Summary: 2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] — 1 title term overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 1 title term overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Takeaways
 - BC can serve as a stronger starting point if its implicit value structure is recovered.
 - Q-Gating helps avoid overwriting useful BC behavior during online RL.

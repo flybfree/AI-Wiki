@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The paper tackles the gap between runtime safeguards and design‑time verification for agentic AI workflows that orchestrate multiple LLM‑based agents. By treating these workflows as compositions of reusable building blocks, it proposes a framework that checks their coherence through twelve structural rules before execution. The authors demonstrate that this design‑time approach can reliably detect violations even when flawed designs are hidden by transformations such as task splitting between agents. This work moves the verification effort from post‑deployment to the planning phase, enabling safer and more composable agentic systems.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 4 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A set of twelve structural rules that define compatibility among building blocks for agentic workflows.  
 - [Finding 2] A software prototype implementing these rules as a design‑time verifier capable of detecting violations across diverse graph structures.  

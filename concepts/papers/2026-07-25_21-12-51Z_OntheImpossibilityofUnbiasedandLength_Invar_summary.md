@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates the fundamental trade‑off between gradient unbiasedness and length invariance in Group Relative Policy Optimization (GRPO) when outcome rewards are used. It proves that no weighting scheme can satisfy both properties simultaneously, showing that GRPO is biased toward longer trajectories while Dr. GRPO is unbiased but length‑biased. The authors characterize the complete spectrum of possible weightings using a parametric family \(f_\alpha(L)=L^{\alpha-1}\) and demonstrate that the two algorithms occupy opposite ends of this trade‑off.
 
+## Semantic links
+- [[concepts/papers/2026-08-04_04-41-20Z_Don_tPeekattheAnswer_Outcome_MaskedGroupRel_summary.md|Summary: 2026-08-04_04-41-20Z_Don_tPeekattheAnswer_Outcome_MaskedGroupRelativePo.md]] — 3 title terms overlap; 15 summary/topic terms overlap; semantic match 0.18
+- [[concepts/papers/2026-07-23_22-49-51Z_SearchingtheSpaceofFeed_ForwardNeural_Netwo_summary.md|Summary: 2026-07-23_22-49-51Z_SearchingtheSpaceofFeed_ForwardNeural_NetworkWeigh.md]] — 3 title terms overlap; 1 backlink; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_17-28-40Z_Off_ContextGRPO_LearningtoReasononHardProbl_summary.md|Summary: 2026-07-21_17-28-40Z_Off_ContextGRPO_LearningtoReasononHardProblemsusin.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - [Finding 1] An impossibility theorem stating that under outcome rewards, no length‑based weighting can achieve both unbiased gradient estimates (P1) and length invariance (P2).  
 - [Finding 2] A quantitative analysis showing Dr. GRPO’s bias amplifies the influence of longer trajectories by a factor proportional to their length ratio relative to shorter ones.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a new approach to handling dual‑use knowledge in large language models (LLMs) that avoids the trade‑offs of either erasing the information or merely refusing it at inference time. By conditioning the model on a special “inoculation” token, hazardous content can be retained while its expression is gated by the presence or absence of that token. This conditional strategy yields higher safety with minimal loss in overall performance compared to unlearning or refusal‑only baselines. The contribution demonstrates that safety alignment should be viewed as a binding problem rather than a forgetting one.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Token Inoculation reduces hazardous‑domain accuracy from ~79 % to ~18 % while preserving benign‑domain performance at ~93 %.  
 - [Finding 2] The method achieves the best safety‑utility trade‑off across model sizes from 1B to 14B parameters.  

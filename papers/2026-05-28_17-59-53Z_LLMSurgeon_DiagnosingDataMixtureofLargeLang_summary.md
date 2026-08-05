@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of identifying how a large language model’s (LLM) pretraining data are mixed across domains when only its generated text is available. By treating this as an inverse problem under a label‑shift assumption, LLMSurgeon estimates a calibrated soft confusion matrix and recovers the latent mixture prior that governs the model’s behavior. The authors also introduce LLMScan, a verification‑centric evaluation suite built from open‑source LLMs with known training mixtures. Together, these contributions enable post‑hoc auditing of an LLM’s “digital DNA” without access to its original training data.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_Head_summary.md|Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Formalization of **Data Mixture Surgery (DMS)** as a constrained inverse problem under the label‑shift assumption, providing a principled way to view data mixture reconstruction.  
 - [Finding 2] Proposal of **LLMSurgeon**, a framework that estimates a soft confusion matrix and solves the inverse problem to recover the latent domain mixture prior from generated text alone.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes **Agents‑K1**, an end‑to‑end pipeline that converts raw scientific papers into agent‑native knowledge graphs to enable richer, multi‑hop reasoning. It introduces a multimodal parser with five modules, a 4B information‑extraction backbone trained via GRPO under a rule‑based reward, and a unified **graphanything** CLI that merges web search, graph retrieval, and cross‑document traversal. The system processes 2.46 million papers across six subjects, releasing a one‑million‑paper subset of the resulting Scholar‑KG.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 backlinks
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A multimodal parser with five modules that captures entities, evidence, citations, and typed inter‑entity relations.  
 - [Finding 2] A 4B information‑extraction backbone trained via GRPO under a rule‑based reward for accurate knowledge extraction.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper introduces **Agentopia**, a comprehensive framework that simulates the lives of 100 autonomous agents for ten simulated years, allowing them to pursue personal goals and develop social relationships. The authors also propose a novel training paradigm in which large language models (LLMs) are updated via rejection sampling using a “life reward” that mirrors human well‑being. Empirical results show that the LLMs learn to improve agent outcomes, leading to richer emergent social behaviors and a measurable boost in downstream role‑playing benchmarks (+15.6%). The work bridges long‑term simulation with LLM learning, offering a pathway toward anthropomorphic intelligence in AI agents.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Agents exhibit richly emergent social behaviors over the ten‑year simulation horizon, demonstrating complex cooperation and conflict patterns not seen in short‑term experiments.  
 - **Finding 2:** Training LLMs with the life reward significantly enhances their underlying language capabilities, enabling them to better predict and influence agent actions.  

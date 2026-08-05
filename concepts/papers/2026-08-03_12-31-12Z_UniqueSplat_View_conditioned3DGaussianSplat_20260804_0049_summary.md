@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 UniqueSplat introduces a view‑conditioned feed‑forward model for 3D Gaussian Splatting that reconstructs radiance fields tailored to arbitrary query views. Unlike previous approaches such as pixelSplat and MVSplat which produce fixed Gaussians across all views, UniqueSplat incorporates the target view into its network parameters. The core innovation is a two‑branch hyperNetwork that learns both shared scene embeddings and view‑specific adaptations. This enables dynamic Gaussian placement per query while preserving cross‑view consistency.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] View‑conditioned Gaussians are learned via a dual‑branch hyperNetwork.  
 - [Finding 2] The model maintains view‑agnostic embeddings for generalization across datasets.  

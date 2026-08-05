@@ -8,6 +8,11 @@ Model: None
 ## Summary
 The paper introduces MoPET, a novel parameter-efficient fine-tuning framework designed to unify medical image classification across diverse clinical domains without suffering from negative transfer. By leveraging a mixture-of-experts architecture with a learned sparse router, the method directs inputs through specific low-rank adapters within a frozen foundation model, thereby sharing capacity while minimizing gradient interference between conflicting visual domains. The authors demonstrate that this approach not only consolidates multiple heterogeneous datasets into a single generalist network but also significantly improves accuracy compared to isolated parameter-efficient adapters. This work addresses the critical challenge of clinical heterogeneity by providing a scalable solution for multi-task medical imaging analysis.
 
+## Semantic links
+- [[concepts/papers/2026-07-22_12-20-58Z_Foundation_model_guidedradiogenomicdiscover_summary.md|Summary: 2026-07-22_12-20-58Z_Foundation_model_guidedradiogenomicdiscoverylinkin.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.09
+- [[concepts/papers/2026-07-26_05-58-23Z_SparseGaussian_Mixture_ModelQ_FunctionsviaH_summary.md|Summary: 2026-07-26_05-58-23Z_SparseGaussian_Mixture_ModelQ_FunctionsviaHadamard.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-08-02_10-41-39Z_EulerLoRA_Rank_DrivenJumpDynamicsforCalibra_summary.md|Summary: 2026-08-02_10-41-39Z_EulerLoRA_Rank_DrivenJumpDynamicsforCalibratedPara.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.16
+
 ## Key Contributions
 - **Validation of PEFT Superiority**: The study establishes that parameter-efficient fine-tuning (PEFT) inherently outperforms full end-to-end network updates in avoiding overfitting, improving average accuracy on the MedMNIST benchmark from 86.50% to 88.97%.
 - **Unified Generalist Performance**: MoPET successfully consolidates four heterogeneous datasets into a single network, achieving an average accuracy of 93.46%, which surpasses the best-performing isolated PEFT adapters at 92.83%.

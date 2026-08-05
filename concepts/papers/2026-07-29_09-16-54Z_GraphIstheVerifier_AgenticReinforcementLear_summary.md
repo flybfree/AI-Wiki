@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the limitation of current machine learning detectors that treat each function in isolation, leading to missed interprocedural vulnerabilities. It proposes VulAgentRL, an agentic reinforcement learning framework that learns to gather evidence across functions using a Code Property Graph. The framework ensures rewards are only given when verdicts are supported by external evidence, and it initializes the policy with teacher‑distilled investigations. Experiments show VulAgentRL outperforms state‑of‑the‑art baselines on strict pair‑wise correctness while reducing tool calls.  
 
+## Semantic links
+- [[concepts/papers/2026-07-19_08-13-54Z_Scope3Trace_Evidence_BasedIdentificationand_summary.md|Summary: 2026-07-19_08-13-54Z_Scope3Trace_Evidence_BasedIdentificationandExtract.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-07-11_05-32-54Z_GAE_Graph_AugmentedEvolutionforScientificDi_summary.md|Summary: 2026-07-11_05-32-54Z_GAE_Graph_AugmentedEvolutionforScientificDiscovery.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-07-24_14-31-54Z_IQ_JEPA_AJoint_EmbeddingPredictiveArchitect_summary.md|Summary: 2026-07-24_14-31-54Z_IQ_JEPA_AJoint_EmbeddingPredictiveArchitecturewith.md]] — 3 title terms overlap; 1 backlink; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The introduction of an agentic RL framework that learns to collect interprocedural evidence and verify it via a Code Property Graph.  
 - [Finding 2] A reward design that credits only verdicts supported by external evidence, preventing shortcut learning.  

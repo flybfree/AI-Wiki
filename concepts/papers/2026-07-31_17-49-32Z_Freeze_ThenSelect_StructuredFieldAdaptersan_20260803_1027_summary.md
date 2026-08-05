@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research addresses the critical challenge of discovering partial differential equations (PDEs) from sparse, noisy observations by decoupling the complex tasks of field reconstruction and term selection. The authors identify that traditional coupled neural optimization often fails to reliably recover the exact support of differential terms due to unstable optimization paths. To overcome this, they propose a novel "freeze-then-select" framework that utilizes a structured field adapter for continuous representation followed by Stability-Validated Weak Selection (SVWS) for robust equation identification. This approach achieves state-of-the-art performance in recovering exact supports across challenging dynamical regimes, including the Kuramoto-Sivashinsky equation, demonstrating superior stability and accuracy compared to existing classical and neural baselines.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions
 - The authors rigorously analyze optimization paths in coupled neural PDE discovery, categorizing them into three distinct behaviors: persistent exact support, transient appearance, or complete failure to emerge, thereby highlighting the instability of end-to-end training.
 - They introduce a novel methodological framework that separates field reconstruction from equation selection, utilizing a structured field adapter with cubic splines and a Stability-Validated Weak Selection (SVWS) mechanism that identifies recurrent terms across independent weak-form systems.

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a transition‑based digital twin framework that predicts Alzheimer’s disease (AD) progression and diagnostic categories from sparse, irregular longitudinal data while providing uncertainty estimates for patient‑specific “what‑if” scenarios. By modelling adjacent visits as local transitions rather than full sequences, the approach leverages multimodal ADNI data to deliver more accurate forecasts with fewer computational resources. The framework combines clinical transition modelling, temporal dependency capture, and uncertainty quantification to enable personalised disease trajectory analysis. This work bridges the gap between static classification and dynamic, patient‑centric digital twin models for neurodegenerative disorders.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearningan_summary.md|Summary: 2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Transition‑based local modelling of adjacent visits outperforms traditional sequence‑based branch models in predictive accuracy on ADNI data.  
 - [Finding 2] The framework quantifies predictive uncertainty and supports patient‑specific trajectory analysis, enabling scenario‑driven clinical decision making.  

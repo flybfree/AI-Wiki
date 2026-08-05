@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes Byte‑Prefix Marginalization (BPM) for cross‑tokenizer on‑policy distillation, aiming to consolidate open‑weight language models from different families into a compact student while preserving token‑level probability mass. BPM re‑expresses teacher next‑token distributions over the student vocabulary using a shared byte space, ensuring that each teacher token’s mass is assigned to the longest matching student prefix and unmatched mass goes to an explicit residual bucket. This yields a vocabulary‑complete, byte‑aligned target that recovers the marginal at >99 % of positions or provides a lower bound otherwise. The method improves six math/programming benchmarks by 3.7–6.6 points over strong baselines.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: BPM creates a mass‑preserving, chain‑factorized lower bound for teacher distributions that span multiple tokens.  
 - Finding 2: It assigns teacher token probabilities to the longest student prefix in a shared byte representation, aggregating mass per student token and handling unmatched mass explicitly.  

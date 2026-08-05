@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces SciForma, a framework for generating scientific methodology diagrams that is structurally faithful across component placement, arrow directionality, and textual annotations. It addresses the limitation of existing models which cannot guarantee correctness on all axes simultaneously. By decomposing diagram quality into three structural dimensions and using a multi‑dimensional preference optimization, SciForma achieves higher fidelity than open‑source baselines and even GPT‑Image‑1.5.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_12-15-33Z_HAFI_VLM_AFrequencyPerspectiveforDiagnosing_20260804_0049_summary.md|Summary: 2026-08-03_12-15-33Z_HAFI_VLM_AFrequencyPerspectiveforDiagnosingandEnha.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.08
+
 ## Key Contributions  
 - [Finding 1] Decomposition of diagram quality into Component, Arrow, Text axes with a structural inventory.  
 - [Finding 2] Development of Multi‑Dimensional Conjunctive Preference Optimization (M‑DPO) that enforces simultaneous correctness across all axes and routes gradients to the most deficient dimension.  

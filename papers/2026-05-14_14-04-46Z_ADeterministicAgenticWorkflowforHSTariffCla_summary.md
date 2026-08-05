@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research paper introduces a novel deterministic agentic workflow designed to address the complex and high-stakes task of Harmonized System (HS) tariff classification. Unlike traditional approaches that rely on end-to-end prompting of large language models, which often fail to satisfy competing priority rules simultaneously, this method employs a fixed control flow with confined language model calls to ensure interpretability and accuracy. The system integrates offline knowledge engineering of Chinese HS tariffs with an online six-stage pipeline that decomposes decision-making into structured, verifiable steps. By prioritizing multi-dimensional rule reasoning over mere knowledge retrieval, the authors demonstrate that their approach significantly outperforms standard prompting techniques and achieves competitive results against frontier models.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_A_summary.md|Summary: 2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_Augmente.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions
 - The development of a deterministic agentic workflow that replaces self-planning agents with a fixed control flow, ensuring that each classification decision is decomposed into stage-wise structured outputs with verbatim citations of relevant section or chapter notes.
 - The identification of a critical limitation in existing large language model applications for tariff classification: the inability to resolve multi-dimensional rule reasoning (such as material, form, function, and essential character) simultaneously, leading to errors when one axis is prioritized over others.

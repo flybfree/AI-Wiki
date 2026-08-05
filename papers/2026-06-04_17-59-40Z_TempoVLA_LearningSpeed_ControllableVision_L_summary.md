@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 TempoVLA introduces a Vision‑Language‑Action model that can control the execution speed of a robot by conditioning on an explicit speed parameter, moving beyond the fixed‑speed policies typical in existing VLAs. The authors discover that the magnitude of each predicted action already governs how fast the robot moves, providing a direct route to controllable motion. They propose Variable‑Speed Trajectory Augmentation (VSTA) to re‑time demonstrations without altering semantics and embed this speed into the model’s conditioning mechanism. Experiments show that TempoVLA can accelerate during low‑risk phases and decelerate for high‑risk ones, while VSTA also improves default performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Action magnitude directly governs robot motion speed.  
 - [Finding 2] Variable‑Speed Trajectory Augmentation (VSTA) can re‑time demonstrations to any target speed with negligible motion error.  

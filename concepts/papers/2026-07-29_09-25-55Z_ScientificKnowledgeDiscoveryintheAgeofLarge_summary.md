@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper surveys 34 peer‑reviewed papers that apply generative large language models (LLMs) to scientific literature retrieval and eligibility screening, aiming to map the state of LLM applications in this domain. It provides a systematic classification based on model type, access, prompting strategies, ground‑truth sources, and evaluation metrics. By analyzing these studies, the authors highlight both progress and open challenges in leveraging LLMs for knowledge discovery.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]] — 2 title terms overlap; 484 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - Identifies 34 peer‑reviewed papers applying generative LLMs to literature retrieval and eligibility screening.  
 - Classifies these studies by model type, access, prompting techniques, ground‑truth sources, and evaluation metrics.  

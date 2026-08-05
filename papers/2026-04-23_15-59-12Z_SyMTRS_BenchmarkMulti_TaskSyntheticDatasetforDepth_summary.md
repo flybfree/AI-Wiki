@@ -16,6 +16,11 @@ Model: None
 ## Summary
 SyMTRS is a large synthetic aerial-imagery benchmark for depth estimation, domain adaptation, and super-resolution. It provides high-resolution RGB scenes, pixel-perfect depth maps, night-time counterparts, and aligned low-resolution variants to support joint multi-task research.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionM_summary.md|Summary: 2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDiffere_summary.md|Summary: 2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDifferentially.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Takeaways
 - Addresses the lack of high-quality ground truth for several remote-sensing tasks.
 - Combines geometric, radiometric, and multi-scale supervision in one dataset.

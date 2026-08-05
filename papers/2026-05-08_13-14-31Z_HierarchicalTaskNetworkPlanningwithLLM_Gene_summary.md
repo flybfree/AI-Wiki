@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates whether large language models can generate search heuristics for hierarchical task network (HTN) planning, a variant of classical planning that relies on a method library to decompose tasks. By extending the heuristic methodology from Corrêa et al. (2025) to hierarchical domains, the authors evaluate nine LLMs on six standard total‑order HTN benchmarks and compare their performance with domain‑independent baselines such as TDG and LMCount, as well as the PANDA planner. The study demonstrates that LLM‑generated heuristics can achieve coverage comparable to the best classical planners while dramatically cutting search effort.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] LLM‑generated heuristics reach near‑optimal coverage of the best available HTN planner across all benchmark domains.  
 - [Finding 2] Search effort is reduced by roughly 83 % for about 83 % of shared problems when using these heuristics compared with baseline planners.  

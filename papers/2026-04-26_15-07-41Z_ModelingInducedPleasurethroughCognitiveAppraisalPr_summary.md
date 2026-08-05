@@ -16,6 +16,11 @@ Model: None
 ## Summary
 Multimodal affective computing analyzes user-generated social media content to predict emotional states. However, a critical gap remains in understanding how visual content shapes cognitive interpretations and elicits specific affective experiences such as pleasure. This study introduces a novel computational model to infer video-induced pleasure via cognitive appraisal variables.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNe_summary.md|Summary: 2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticle_summary.md|Summary: 2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticlesfromNa.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetan_summary.md|Summary: 2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] — 2 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Takeaways
 - Multimodal affective computing analyzes user-generated social media content to predict emotional states.
 - However, a critical gap remains in understanding how visual content shapes cognitive interpretations and elicits specific affective experiences such as pleasure.

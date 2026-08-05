@@ -15,6 +15,11 @@ Source: 2026-04-27_17-47-42Z_Conflict_AwareHarmonizedRotationalGradientforMulti.
 ## Summary
 Proposes HRGrad, a harmonized rotational gradient method for multiscale time-dependent kinetic problems with varying small parameters. The method encodes hidden parameter structure, segments task losses, and uses a gradient-alignment metric to reduce conflicts while maintaining convergence across asymptotic-preserving neural network settings.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Addresses gradient conflict in multi-task learning across asymptotic regimes.
 - Uses a new alignment metric to keep the update direction compatible with each task loss.

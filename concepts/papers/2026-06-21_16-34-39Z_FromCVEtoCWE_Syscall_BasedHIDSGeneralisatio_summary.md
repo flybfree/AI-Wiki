@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 This paper investigates whether a host intrusion detection system (HIDS) that relies on syscall traces can be trained to detect anomalies across different Common Vulnerabilities and Exposures (CVE) instances that belong to the same Common Weakness Enumeration (CWE) class. The authors empirically test this hypothesis by training one‑class anomaly detectors on normal syscall behaviour derived from six LID‑DS‑2021 scenarios grouped into three CWE families, then evaluating their ability to generalise to unseen CVEs within those families. Their work demonstrates that while some weakness families support robust cross‑CVE detection, others fail dramatically, highlighting the limits and conditions of CWE‑level generalisation in HIDS.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_12-12-39Z_AHuman_in_the_LoopCorpusforLLM_BasedSimplif_summary.md|Summary: 2026-07-28_12-12-39Z_AHuman_in_the_LoopCorpusforLLM_BasedSimplification.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-07-22_06-50-53Z_Hypothesis_and_RefinementLearningofOrganicS_summary.md|Summary: 2026-07-22_06-50-53Z_Hypothesis_and_RefinementLearningofOrganicStructur.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CWE‑level generalisation in HIDS is empirically attainable for some but not all weakness families with current syscall features.  
 - [Finding 2] Cross‑CVE transfer is strongly direction‑dependent and dominated by the breadth of the source normal profile rather than by the CWE label itself.  

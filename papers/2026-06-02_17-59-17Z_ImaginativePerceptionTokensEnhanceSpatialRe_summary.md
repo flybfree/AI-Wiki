@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Vision‑language models (VLMs) have demonstrated strong performance on many multimodal tasks but continue to falter when spatial reasoning requires the model to imagine what would be seen from an unseen viewpoint or to infer hidden structures that are not directly observable. The authors propose Imaginative Perception Tokens (IPT), a novel supervisory signal that externalizes these imagined perceptions as intermediate tokens, thereby providing a principled way for VLMs to reason about unobserved spatial configurations. By applying IPT supervision across three tasks—Perspective Taking, Path Tracing, and Multiview Counting—they show that the model can improve its spatial reasoning without generating images at inference time. The approach also yields additional gains when combined with label‑only supervision, while textual chain‑of‑thought prompting often harms performance on these tasks.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] IPT consistently improves spatial reasoning across three multimodal tasks and outperforms pure text‑chain‑of‑thought training.  
 - [Finding 2] The accuracy of Multiview Counting rises by about 3.4 % after IPT supervision, reaching competitive levels with strong closed‑source models on Path Tracing.  

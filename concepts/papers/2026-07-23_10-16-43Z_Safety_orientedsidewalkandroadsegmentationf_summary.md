@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **SENSATION‑DS**, a safety‑oriented semantic segmentation framework and dataset designed to help smartphone‑based assistive navigation distinguish walkable sidewalks from adjacent unsafe zones for blind and visually impaired pedestrians (BVIPs). By evaluating five segmentation models with staged target‑domain adaptation, synthetic mask‑conditioned images, and SAM2 pseudo‑labels, the authors obtain quantitative trade‑offs between offline accuracy (mIoU), real‑time performance on Android, and a proxy false‑safe measure called Road‑as‑Sidewalk Error Rate. The results show that while UPerNet‑MobileNetV3 achieves the highest offline mIoU, DeepLabV3Plus‑MobileNetV3 minimizes the error rate and offers the best runtime, highlighting the need for a balanced selection criteria.
 
+## Semantic links
+- [[concepts/papers/2026-07-19_12-55-43Z_Rate_Distortion_PerceptionTheory_Redefining_summary.md|Summary: 2026-07-19_12-55-43Z_Rate_Distortion_PerceptionTheory_RedefiningtheFund.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety and Security Hub]] — 2 title terms overlap; 141 backlinks; 3 summary/topic terms overlap
+
 ## Key Contributions  
 - **SENSATION‑DS dataset** – 2,752 image‑mask pairs organized into nine navigation‑relevant classes, harmonized with external urban/sidewalk data.  
 - **Comprehensive evaluation framework** – five segmentation architectures tested using target‑domain adaptation, synthetic masks, and SAM2 pseudo‑labels; metrics include mIoU, road‑and‑sidewalk error rates, Android FPS, and a false‑safe proxy (Road‑as‑Sidewalk Error Rate).  

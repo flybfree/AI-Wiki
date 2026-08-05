@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem that identical language‑model answers can arise from different internal hidden states because future computations are not yet fixed, preventing the reuse of causal interfaces. To address this, it introduces **forked futures**, a framework where future operations are sampled only after a prefix state has formed, allowing empirical discovery of reusable causal interfaces without predefined latent labels. By comparing response distributions induced by those operations, the authors compute an empirical causal quotient over hidden states and evaluate four interface types (Shared, Local, Mixture, Distributed) under prequential causal description length constraints. The Shared interface emerges as the most efficient with minimal distortion.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - **Forked futures framework**: A systematic way to discover reusable causal interfaces by comparing response distributions of future operations after a prefix state is established.  
 - **Empirical ranking and validation**: Four interface types are ranked using prequential description length, future‑signature fidelity, and capacity constraints; Shared shows the lowest held‑out description length across two model evaluations.  

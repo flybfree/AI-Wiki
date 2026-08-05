@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes context‑dependent argumentation frameworks (CDAFs) that extend Dung’s theory to capture strategic activation of arguments under varying external regimes. It introduces a defeat function per context, derived from relevance sets and priority assignments, enabling agents to manipulate acceptance outcomes. The work defines the decision problem ACTIVATION‑MANIPULATION and establishes baseline complexity bounds.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors introduce CDAFs, a formal extension of Dung’s framework that incorporates per‑context defeat functions based on relevance sets and priority assignments.  
 - [Finding 2] They define the decision problem ACTIVATION‑MANIPULATION, which asks whether an agent can manipulate argument acceptance under full‑relevance injective priorities versus partial activations.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Mixture‑of‑Experts (MoE) models are increasingly deployed on geographically dispersed edge servers, but their inference suffers from high latency and excessive cross‑server traffic because the top‑k activated experts can be spread across many nodes. HetRoute addresses this by introducing a unified cost model that simultaneously accounts for transmission bandwidth, GPU‑CPU offloading delay, queueing backlog, and quantization quality loss. The framework integrates offline routing‑cost coupling to place experts and replicas optimally with an online collaborative routing algorithm that minimizes the bottleneck layer cost, providing both theoretical guarantees and practical performance improvements.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsin_summary.md|Summary: 2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsinReinfor.md]] — 3 title terms overlap; 1 backlink; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] HetRoute defines a heterogeneous‑cost model comprising four components—cross‑server transmission, GPU‑CPU offloading, queueing computation, and quantization quality penalty—to guide both offline placement and online routing decisions.  
 - [Finding 2] The authors propose an exact enumeration (or beam‑search) online algorithm that treats the set of activated experts as a single unit, guaranteeing optimal bottleneck cost for small candidate domains while preserving theoretical feasibility bounds on server participation.  

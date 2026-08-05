@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 ClinEnv is an interactive, multi‑stage electronic health record (EHR) environment that simulates real inpatient admissions and evaluates large language models (LLMs) as attending physicians under a paradigm called Longitudinal Inpatient Simulation. At each decision stage the model must actively query four specialized agents before committing to medications, procedures, or diagnoses, thereby capturing both what is decided and how information is gathered. The benchmark scores decisions deterministically using ontology‑grounded matching and measures the quality of information acquisition, exposing an “information‑acquisition gap” that static outcome‑only benchmarks ignore. By making this gap directly measurable, ClinEnv bridges the disconnect between clinical outcomes and the process by which they are achieved.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti__summary.md|Summary: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] ClinEnv introduces a longitudinal inpatient simulation framework that models sequential, irreversible decisions under uncertainty, providing an interactive EHR setting for agent evaluation.  
 - [Finding 2] The benchmark scores both decision correctness (via deterministic ontology‑grounded matching) and the efficiency of information gathering, thereby quantifying the hidden cost of poor query strategies.  

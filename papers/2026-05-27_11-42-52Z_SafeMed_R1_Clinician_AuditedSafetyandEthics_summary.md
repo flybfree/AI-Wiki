@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces SafeMed‑R1, a medical large language model that integrates clinician‑audited safety and ethics alignment to enable responsible clinical deployment. By linking each reasoning step to traceable Clinical Trust Signals (CTS) scores and edit histories, the authors create an auditable provenance pipeline that can be inspected by clinicians. The resulting model demonstrates high accuracy on standard clinical benchmarks while markedly reducing unsafe outputs through adversarial testing and red‑team stress testing.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolv_summary.md|Summary: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] SafeMed‑R1 employs a Clinician‑Audited Traceable Reasoning (CTS) pipeline that records clinician rubric scores and edit histories for every inference, providing full provenance.  
 - [Finding 2] The model is trained with safety and ethics supervision plus red‑team stress testing, achieving the lowest aggregated risk among comparable systems.  

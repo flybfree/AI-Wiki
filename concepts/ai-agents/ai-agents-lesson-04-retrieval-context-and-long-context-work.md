@@ -9,6 +9,11 @@ tags: [lesson, agents, retrieval, context]
 
 **Source**: [Agents-K1: Towards Agent-native Knowledge Orchestration](https://arxiv.org/abs/2606.13669) · [Context-Aware RL for Agentic and Multimodal LLMs](https://arxiv.org/abs/2606.17053) · [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/)
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|AI Agents Lesson 4 - Planning, Memory, and State]] — 3 title terms overlap, shared tags: agents, lesson, 4 topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+
 ## Lesson goal
 Understand how outside knowledge enters an agent workflow and why retrieval often beats guessing.
 

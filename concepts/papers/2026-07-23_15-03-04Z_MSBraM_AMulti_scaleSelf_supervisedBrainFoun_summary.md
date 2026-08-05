@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Self‑supervised foundation models for EEG have demonstrated promise but often fail to capture the multi‑scale temporal structure that underlies neural activity. MSBraM addresses this gap by learning hierarchical representations through a two‑stage pretraining pipeline that explicitly integrates local patterns with long‑range dependencies. The model is trained on a large corpus of 2,400 hours of EEG data and evaluated across ten downstream tasks using twelve public datasets. Our results show that MSBraM outperforms existing state‑of‑the‑art methods, highlighting the importance of multi‑scale modeling for effective EEG foundation learning.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A novel two‑stage pretraining framework that first discretizes raw EEG into semantic codes at multiple temporal resolutions and then predicts masked codes using a curriculum strategy.  
 - [Finding 2] Demonstrated superior generalization across ten tasks on twelve public datasets, outperforming prior self‑supervised foundation models.  

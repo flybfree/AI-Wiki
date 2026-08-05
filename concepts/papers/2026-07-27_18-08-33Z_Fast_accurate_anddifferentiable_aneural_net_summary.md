@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces a neural‑network surrogate for the NRSur7dq4 waveform model of precessing binary black hole mergers, aiming to deliver fast, accurate, and differentiable inference. It trains separate multilayer perceptrons (MLPs) for each constituent quantity so that the combined network reproduces the reference waveform with high fidelity across a wide parameter space. The surrogate is validated on 10 000 waveforms spanning q∈[1,4] and χ_{A,B}≤0.8, achieving median sky‑averaged frequency‑domain errors of 8×10⁻⁵ to 1.7×10⁻⁴ with 95th percentiles below 10⁻³. On an NVIDIA L40S GPU the end‑to‑end evaluation of a single waveform is about 1 ms, roughly ten times faster than the reference C implementation and sustaining ~140× higher batch throughput at size 64.
 
+## Semantic links
+- [[concepts/papers/2026-08-03_09-27-33Z_FAST_GS_FrequencyAwareSpace_timeGaussianSpl_20260804_0036_summary.md|Summary: 2026-08-03_09-27-33Z_FAST_GS_FrequencyAwareSpace_timeGaussianSplattingf.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-08-03_09-27-33Z_FAST_GS_FrequencyAwareSpace_timeGaussianSpl_summary.md|Summary: 2026-08-03_09-27-33Z_FAST_GS_FrequencyAwareSpace_timeGaussianSplattingf.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 - [Finding 1] A fully differentiable neural‑network surrogate that reproduces NRSur7dq4 waveforms to median sky‑averaged frequency‑domain errors of 8 × 10⁻⁵–1.7 × 10⁻⁴, with 95th percentiles below 10⁻³.  
 - [Finding 2] The surrogate is up to ten times faster than the LALSimulation C implementation and sustains about one hundred forty times higher throughput at batch size 64 on an NVIDIA L40S GPU.  

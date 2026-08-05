@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of designing datacenter power delivery hierarchies capable of supporting the rapidly escalating power densities required by next-generation AI accelerators. As projected rack power densities approach 1MW per deployment by 2027, traditional design paradigms risk stranding significant power capacity, leading to inefficient use of scarce grid resources and inflated capital expenditures. The authors introduce a comprehensive simulation framework that evaluates power delivery designs over long lifetimes, accounting for evolving hardware generations, workload mixes, and operational realities. Their work shifts the planning objective from static installed megawatts to dynamic deployable capacity, providing a robust methodology for future-proofing AI infrastructure.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffus_summary.md|Summary: 2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThe_summary.md|Summary: 2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThey_reont.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapa_summary.md|Summary: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The development of a novel simulation framework that integrates projection models for GPU, compute, and storage deployments with real-world operational data from Microsoft Azure to evaluate power delivery designs under realistic conditions.
 - The identification of "multi-resource stranding" as a primary economic and performance bottleneck, demonstrating that static power provisioning fails to account for the joint dependencies of electrical topology, placement policies, and workload evolution.

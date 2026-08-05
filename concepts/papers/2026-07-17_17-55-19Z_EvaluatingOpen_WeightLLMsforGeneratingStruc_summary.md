@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how open‑weight Large Language Models (LLMs) can automatically convert plain‑text descriptions of autonomous‑vehicle (CAV) vulnerabilities into Structured Threat Information Expression (STIX), a standardized format used by security analysts. By mapping CVE entries to STIX domain objects, relationship objects, CWE identifiers, and MITRE ATT&CK techniques, the authors demonstrate that LLMs can generate high‑quality structured threat intelligence, thereby accelerating vulnerability mitigation in connected vehicle ecosystems.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - Single‑model configurations achieve F1 scores of 0.94 for SDO generation, 0.63 for SRO generation, and 0.99 for CWE mapping, while complete MITRE ATT&CK mapping remains challenging.  
 - Multi‑agent setups using Gemma‑4‑31B and Codestral‑22B reach F1 scores of 0.91 for SDOs and 0.43 for SROs, showing that larger models improve structured output but still struggle with relationships.  

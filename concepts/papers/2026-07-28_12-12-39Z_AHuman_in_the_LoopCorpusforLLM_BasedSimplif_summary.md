@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a human‑in‑the‑loop framework for simplifying scientific abstracts using large language models, aiming to create more accessible versions for non‑specialist readers while preserving scientific accuracy. It introduces a two‑phase workflow in which STEM readers evaluate GPT‑4o‑mini generated summaries and then computer‑science experts edit them into expert reference simplifications. The authors release both the human judgments and the resulting corpus as a benchmark resource. This work bridges LLM simplification with domain expertise to improve cross‑disciplinary communication.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Human readers consistently prefer GPT‑generated summaries for comprehensibility and simplicity over original scientific abstracts.  
 - Finding 2: Expert editors prioritize preserving domain‑specific terminology and the integrity of scientific claims when refining simplifications.  

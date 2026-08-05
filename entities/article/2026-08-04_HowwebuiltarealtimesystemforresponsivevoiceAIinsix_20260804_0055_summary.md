@@ -34,3 +34,8 @@ In the past six months we engineered a real‑time responsive voice AI platform 
 **Implications**
 
 The successful delivery of this realtime voice AI system signals a paradigm shift for conversational applications. First, it demonstrates that sub‑300 ms end‑to‑end response times are not only feasible but can be sustained at scale with the right combination of edge inference and cloud orchestration. Second, the modular pipeline we built provides a blueprint for other teams to replicate similar performance gains without overhauling their entire stack. Third, the emphasis on continuous monitoring and rapid iteration sets a new standard for product‑driven AI development: feedback loops must be as tight as the latency they aim to achieve. Finally, this work underscores that realtime voice AI is no longer a niche experiment—it is an operational capability that can be embedded into everyday user experiences, paving the way for smarter assistants, immersive AR/VR interactions, and truly responsive digital ecosystems.
+
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — 1 title term overlap, 2 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson3_AbstractionLayer.md|Lesson 3 — Abstraction Layer: Model Swapping & Normalization]] — 1 title term overlap, 2 topic terms overlap, same area: home

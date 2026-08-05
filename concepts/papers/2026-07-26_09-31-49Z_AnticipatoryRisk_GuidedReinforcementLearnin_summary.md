@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of safe quadrotor navigation in cluttered and dynamic environments by shifting focus from purely reactive perception to anticipatory risk‑guided control. By constructing a future collision‑risk map derived from the Closest Point of Approach (CPA) and feeding it into an asymmetric actor‑critic network, the authors enable the robot to self‑predict spatial‑temporal hazards that are invisible to conventional visual policies. The method also introduces a lightweight spatio‑temporal encoder that extracts motion cues directly from depth sequences, eliminating reliance on explicit object tracking or optical flow. These advances collectively improve safety margins and flight efficiency while enabling robust zero‑shot Sim‑to‑Real transfer.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Anticipatory risk‑guided reinforcement learning framework using a CPA‑based future collision risk map.  
 - [Finding 2] Asymmetric actor‑critic architecture that self‑predicts structured risk to guide the visual policy during deployment.  

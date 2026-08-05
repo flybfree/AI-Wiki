@@ -35,6 +35,11 @@ Related Concepts
 
 MDTransformer proposes a **hardware‑software co‑design** that fuses mode‑division photonic processing with a deep transformer model. The core idea is to let the inverse‑designed coherent crossbar topology of the accelerator directly realize the connectivity pattern required by the transformer’s depthwise separable layers, thereby eliminating the need for costly iterative tuning or additional hardware components. A software stack built on an FPGA‑based pipeline implements the transformer inference engine, while the photonic module handles high‑speed data routing and low‑loss switching. The result is a fully integrated accelerator that delivers **3.2× higher throughput** than conventional FPGA‑only implementations while preserving > 95 % classification accuracy on standard vision benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 
 1. **Co‑design methodology** – A systematic approach in which the photonic crossbar topology is derived from the transformer’s layer‑wise connectivity via inverse design, guaranteeing that every required interconnection can be realized with a single set of feedback‑controlled couplers.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper argues that agentic AI systems—autonomous, LLM‑driven agents that plan, use tools, maintain memory, and collaborate—are currently in the experimentation phase of a third wave of platform software. To enable portable, composable platforms, it proposes extending classical OS and cloud OS primitives into stochastic, natural‑language mediated execution, specifying precise semantics, and consolidating them as core abstractions, mirroring the historic arcs of POSIX for classical operating systems and Kubernetes for cloud orchestration.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The historical arc of platform software suggests a repeatable cycle from experimentation to abstraction consolidation.  
 - [Finding 2] No consensus exists among agentic frameworks on core abstractions or guarantees needed for portability.  

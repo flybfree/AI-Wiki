@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles multivariate time series classification (MTSC) by introducing AnchorMoE, an interpretable‑by‑construction framework that leverages a Mixture‑of‑Experts (MoE) architecture to decompose predictions into exact additive contributions from distinct temporal segments. By routing multi‑view patches to specialized experts and enforcing geometric orthogonality among them, the model ensures each expert specializes in unique predictive patterns, which together form a transparent decision. An uncertainty‑aware reliability gate further calibrates segment contributions, suppressing background noise while preserving signal relevance. This approach delivers high classification performance without resorting to post‑hoc interpretability techniques.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 15 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] AnchorMoE proposes an interpretable MoE framework that decomposes the final prediction into a sum of expert outputs corresponding to specific time‑series segments, providing ante‑hoc transparency.  
 - [Finding 2] The authors introduce a geometric orthogonality constraint that penalizes representational redundancy, forcing distinct experts to specialize in heterogeneous predictive patterns and improving robustness under sparse signals.  

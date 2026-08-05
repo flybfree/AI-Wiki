@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper demonstrates that frozen 6‑DoF grasp detectors often rank high‑quality grasps low because their confidence scores are misaligned with actual grasp quality. To remedy this, the authors introduce GraRe, a dedicated re‑ranking module that estimates grasp quality from candidate attributes, local geometry, and object context without modifying the detector itself. By fusing these three feature types with a Transformer and combining the predicted quality with detector confidence, they obtain a more accurate ordering of grasp candidates.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Detector confidence is frequently poor at reflecting true grasp quality in frozen 6‑DoF detectors.  
 - Finding 2: A separate re‑ranking task can improve candidate ordering without altering the detector or its input representations.  

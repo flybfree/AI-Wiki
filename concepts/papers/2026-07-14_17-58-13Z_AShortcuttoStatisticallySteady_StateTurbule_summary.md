@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the computational bottleneck of obtaining statistically steady‑state turbulence in gyrokinetic flows, where transient dynamics must be resolved before saturation. By exploiting an ergodicity assumption that ensemble averages equal time averages, it proposes GyroFlow—a latent generative model that directly estimates the saturated state distribution without simulating the full transient phase. This approach bypasses explicit time evolution and offers a shortcut to steady‑state statistics. The method is evaluated against autoregressive surrogates and shows superior performance with a measurable speedup.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] GyroFlow directly models steady‑state statistics of gyrokinetic turbulence in 5D phase space, avoiding the need to resolve transient dynamics.  
 - [Finding 2] The authors introduce FGyD, a distributional metric computed in the latent space that correlates with downstream flux accuracy and solver convergence.  

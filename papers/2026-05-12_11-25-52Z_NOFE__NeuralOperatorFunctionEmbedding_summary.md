@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper introduces Neural Operator Function Embedding (NOFE), a novel framework designed to address the limitations of traditional dimensionality reduction techniques by treating data as continuous functions rather than discrete point clouds. By leveraging Graph Kernel Operators, NOFE learns function-to-function mappings that allow for mesh-free evaluation at arbitrary query locations, thereby preserving the inherent continuous domain structure of real-world processes. The authors theoretically establish NOFE as an approximation of sheaf-to-sheaf mappings, effectively generalizing Sheaf Neural Networks to continuous domains. This approach enables the model to generate smooth, consistent embeddings that generalize across varying sample densities and disjoint domain patches, offering a robust alternative to discrete methods like PCA, t-SNE, and UMAP.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolv_summary.md|Summary: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - NOFE introduces a domain-aware framework for continuous dimensionality reduction that bridges the gap between discrete point cloud methods and the continuous nature of many physical processes.
 - The method achieves superior local structure preservation, significantly outperforming baselines in metrics such as local Stress and Patch Stitching Error, particularly in complex datasets like ERA5 climate reanalysis.

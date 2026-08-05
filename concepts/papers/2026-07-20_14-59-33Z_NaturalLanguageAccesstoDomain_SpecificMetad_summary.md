@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes Natural Language Knowledge Graph Query (NLKGQ), a reusable framework that lets Large Language Models answer ad‑hoc questions about domain‑specific archives by converting natural language into SPARQL queries without fine‑tuning. It achieves 100 % accuracy on expert‑crafted tests, showing LLMs can generate correct structured queries zero‑shot when the domain is encoded in an OWL ontology.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The framework enables zero‑shot generation of accurate SPARQL queries from natural language using only a well‑designed OWL ontology and no retrieval or multi‑agent pipelines.  
 - [Finding 2] Readable entity names and semantic annotations in the OWL are the primary drivers of query accuracy, outweighing model choice or prompt engineering.  

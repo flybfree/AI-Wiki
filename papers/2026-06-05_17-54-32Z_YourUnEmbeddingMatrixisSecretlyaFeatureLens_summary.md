@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper observes that LLMs’ unembedding matrices project frequent but uninformative tokens into embedding space, causing suboptimal zero‑shot performance on text‑embedding benchmarks. It proposes EmbedFilter, a linear transformation that removes the subspace of high‑frequency token representations to improve semantic quality. By doing so, EmbedFilter enhances downstream task performance while simultaneously reducing dimensionality and storage requirements. The authors demonstrate this improvement across multiple LLM backbones.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetan_summary.md|Summary: 2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Text embeddings align with frequent but uninformative tokens due to the unembedding matrix.  
 - [Finding 2] Introducing EmbedFilter, a linear filter that suppresses high‑frequency token influence.  

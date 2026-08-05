@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a new framework called Reflective Retrieval Memory (RRM) that tackles the limitation of long‑horizon multimodal reasoning by improving how memory is retrieved rather than only what is stored. RRM augments an existing entity‑centric multimodal memory graph with a reflective experience memory that captures reusable search strategies across tasks, allowing agents to diagnose and adapt retrieval failures. The framework converts these experiences into query‑level guidance while keeping answer generation conditioned solely on newly fetched factual evidence from the current video. This approach reduces redundancy and noise through a lifecycle management mechanism.
 
+## Semantic links
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search and Retrieval Hub]] — 3 title terms overlap; 332 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_03-43-57Z_SyncPlan_Long_HorizonLLMCoordinationwithExp_summary.md|Summary: 2026-08-03_03-43-57Z_SyncPlan_Long_HorizonLLMCoordinationwithExplicitSy.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.10
+- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|AI Agents Lesson 5 - Retrieval, Context, and Long-Context Work]] — 4 title terms overlap; 2 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces Reflective Retrieval Memory (RRM), a reflective memory framework that augments an entity‑centric multimodal graph with experience memory to store reusable search strategies across tasks.  
 - [Finding 2] Provides a conversion process that translates retrieved experiences into query‑level guidance, while answer generation remains conditioned only on newly retrieved factual evidence from the current video.  

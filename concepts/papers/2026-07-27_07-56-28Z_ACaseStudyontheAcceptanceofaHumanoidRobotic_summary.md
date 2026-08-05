@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how a humanoid robotic head behaves when deployed in three distinct public environments, focusing on user acceptance and interaction quality. The authors report that the robot generates multimodal, multilingual responses enriched with simulated emotions to facilitate natural dialogue. By measuring perceived usefulness and ease of use through the TAM2 questionnaire, they identify which locations foster higher engagement and where latency issues hinder conversation flow. Their findings suggest that while overall acceptance is high, certain settings—particularly office‑type spaces—require additional design adjustments.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** User acceptance of the robotic head is strongly influenced by the physical setting; public spaces such as tourist information desks and city libraries support higher interaction rates than institutional environments like the building authority’s office.  
 - **Finding 2:** Multilingual, emotion‑aware responses are highly valued, yet every fifth user perceives a slow response time that disrupts dialog flow, indicating a latency bottleneck in the multimodal generation pipeline.  

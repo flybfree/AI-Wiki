@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a multi‑dimensional benchmark for table‑level embeddings, extending the existing TEmBed testbed beyond its single retrieval focus. By evaluating embeddings across several complementary downstream tasks—table retrieval, data‑lake discovery, and table classification—the authors demonstrate that performance cannot be judged by any one task alone. Their empirical study shows that no single embedding model excels uniformly, highlighting a need for systematic analysis of how different approaches behave in varied settings.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] No single TEmBed‑compatible embedding model dominates across all benchmark tasks.  
 - [Finding 2] Table‑level embedding quality is not solely determined by retrieval performance; other downstream capabilities also matter.  

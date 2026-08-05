@@ -16,6 +16,11 @@ Model: None
 ## Summary
 We present a method for discovering morphological features in low-resource Bantu languages by combining cross-lingual transfer learning with unsupervised clustering. Applied to Giriama (nyf), a language with only 91 labeled paradigms, our pipeline discovers noun class assignments for 2,455 words and identifies two previously undocumented morphological patterns: an a- prefix variant for Class 2 (vowel coalescence - the merger of two adjacent vowels - of wa-, 95.1% consistency) and a contracted k'- prefix (98.5% consistency). External validation on 444 known Giriama verb paradigms confirms 78.2% lemmatization accuracy, while a v3 corpus expansion to 19,624 words (9,014 unique lemmas) achieves 97.3% segmentation and 86.7% lemmatization rates across all major word classes.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Takeaways
 - We present a method for discovering morphological features in low-resource Bantu languages by combining cross-lingual transfer learning with unsupervised clustering.
 - Applied to Giriama (nyf), a language with only 91 labeled paradigms, our pipeline discovers noun class assignments for 2,455 words and identifies two previously undocumented morphological patterns: an a- prefix variant for Class 2 (vowel coalescence - the merger of two adjacent vowels - of wa-, 95.1% consistency) and a contracted k'- prefix (98.5% consistency).

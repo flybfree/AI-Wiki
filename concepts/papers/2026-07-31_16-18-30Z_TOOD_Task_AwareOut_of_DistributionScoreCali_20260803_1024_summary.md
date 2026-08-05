@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper investigates the critical yet under-explored challenge of Out-of-Distribution (OOD) detection within the context of Continual Learning (CL). The authors identify a phenomenon termed "OOD forgetting" (OODF), where the ability to distinguish novel inputs degrades as a model learns new tasks. Through rigorous analysis, they demonstrate that this degradation is primarily driven by score miscalibration rather than a fundamental loss of discriminative features. To address this, the authors propose TOOD, a training-free post-hoc calibration method that leverages replay-buffer statistics to correct energy-based and feature-based detectors.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions
 - The discovery of "OOD forgetting," a distinct performance degradation in OOD detection capabilities during continual learning, which is shown to be only weakly anti-correlated with standard classification accuracy on previous tasks.
 - The identification of two specific mechanisms causing this degradation: the "Confidence Gap" for energy-based detectors (a drop in logit scale) and "Manifold Crowding" for feature-based detectors (overlap of feature manifolds).

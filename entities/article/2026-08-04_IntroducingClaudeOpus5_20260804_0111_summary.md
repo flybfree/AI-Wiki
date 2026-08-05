@@ -23,6 +23,11 @@ For enterprises, Opus 5 lowers barriers to accessing near‑state‑of‑the�
 
 Claude Opus 5 marks the latest evolution of Anthropic’s Claude series, delivering a suite of enhancements that push the boundaries of reasoning, multilingual fluency, and multimodal understanding. Built on the same transformer architecture as its predecessors but with a dramatically larger parameter count (≈ 120 billion) and refined training data, Opus 5 can generate coherent, context‑aware text across 30+ languages, answer complex scientific queries, and interpret images, audio, and video inputs. Its performance on benchmark suites such as MMLU, GSM8K, and HumanEval shows gains of 12–18 % over Claude 4, while its latency remains under 50 ms for typical chat‑completion tasks. The model is released under a permissive research license, encouraging developers to integrate it into enterprise applications, education platforms, and creative tools.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 2 title terms overlap, 4 topic terms overlap, same area: home
+- [[concepts/audio-speech/audio-speech-hub.md|Audio and Speech Hub]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+
 ## Key Takeaways  
 
 | Aspect | What Opus 5 Does Better | Why It Matters |

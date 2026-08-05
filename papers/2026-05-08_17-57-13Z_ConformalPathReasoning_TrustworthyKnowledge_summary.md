@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Knowledge Graph Question Answering (KGQA) seeks to provide reliable and interpretable answers by retrieving relevant paths in a graph, yet current conformal methods suffer from calibration failures that produce overly large prediction sets and violate coverage guarantees. This paper introduces Conformal Path Reasoning (CPR), which couples query‑level conformal calibration with path‑level scores using a novel Residual Conformal Value Network to achieve statistically valid answer sets while keeping them compact.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmark_summary.md|Summary: 2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Introduces Conformal Path Reasoning (CPR), a trustworthy KGQA framework that performs conformal calibration at the path level while preserving exchangeability.  
 - Develops the Residual Conformal Value Network (RCVNet) to learn discriminative nonconformity scores via PUCT‑guided exploration, improving score separability.  

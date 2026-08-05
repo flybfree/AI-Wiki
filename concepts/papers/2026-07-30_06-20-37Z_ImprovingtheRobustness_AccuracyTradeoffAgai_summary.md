@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the classic robustness‑accuracy tradeoff in deep neural networks faced by adversarial attacks. It extends Information Bottleneck Distillation (IBD) by adding a second teacher that is trained only on clean data, while retaining a robust teacher trained with adversarial examples. The two teachers’ feature representations are aligned through a cross‑layer attention matrix that the student network learns from. This dual‑teacher distillation aims to boost classification accuracy on genuine inputs without sacrificing robustness.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_17-37-37Z_VisualContrastiveSelf_Distillation_summary.md|Summary: 2026-07-23_17-37-37Z_VisualContrastiveSelf_Distillation.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-08-02_12-09-37Z_SAFE_Merge_Data_FreeContinualModelMergingwi_summary.md|Summary: 2026-08-02_12-09-37Z_SAFE_Merge_Data_FreeContinualModelMergingwithGener.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-08-02_12-09-37Z_SAFE_Merge_Data_FreeContinualModelMergingwi_20260804_0008_summary.md|Summary: 2026-08-02_12-09-37Z_SAFE_Merge_Data_FreeContinualModelMergingwithGener.md]] — 4 title terms overlap; 6 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 - [Finding 1] Dual‑teacher distillation with a clean teacher and a robust teacher, connected via a cross‑layer attention module, improves clean‑sample accuracy relative to the original IBD method.  
 - [Finding 2] The proposed framework maintains comparable robustness to adversarial attacks as measured on standard benchmark datasets.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces **AgentMap**, a large‑language model (LLM)–driven multi‑agent framework that jointly discovers both semantic equivalences and subsumption mappings in ontology matching, moving beyond the binary choice of equivalence‑only or subsumption‑only tasks. By integrating semantic retrieval, hierarchical search, and collaborative reasoning among agents, AgentMap can simultaneously locate an exact equivalent concept when it exists, or the finest‑grained subsumer otherwise. The authors also create a benchmark dataset by extending four existing OM corpora to support this hybrid objective. Experimental evaluation demonstrates that AgentMap outperforms both pure equivalence and pure subsumption baselines while delivering strong performance in its hybrid setting.
 
+## Semantic links
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search and Retrieval Hub]] — 3 title terms overlap; 332 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_10-11-10Z_OntoBook_Ontology_GroundedSyntheticTextbook_summary.md|Summary: 2026-07-21_10-11-10Z_OntoBook_Ontology_GroundedSyntheticTextbooksforMed.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - [Finding 1] The formal definition of **Hybrid Ontology Matching (HOM)**, a unified task that seeks both equivalences and subsumptions within a single matching pipeline.  
 - [Finding 2] An LLM‑based multi‑agent architecture called **AgentMap** that decomposes the HOM problem into interdependent semantic decisions to explore hierarchically.  

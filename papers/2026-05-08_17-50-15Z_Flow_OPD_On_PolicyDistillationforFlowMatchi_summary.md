@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses two critical bottlenecks that plague Flow Matching (FM) text‑to‑image models when they are used for multi‑task alignment: the sparsity of scalar rewards and the interference between heterogeneous objectives, which together produce a “seesaw effect” where competing metrics drive reward hacking. To overcome these issues, it introduces Flow‑OPD, a unified on‑policy distillation framework that combines teacher specialization via gradient‑proximal optimization with a flow‑based cold‑start initialization and manifold anchoring to produce a single student model.  
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 4 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - A unified on‑policy distillation pipeline specifically designed for Flow Matching models.  
 - A two‑stage alignment strategy: first, each expert is fine‑tuned independently using single‑reward GRPO to reach its performance ceiling; second, the students are built by integrating these experts through a flow‑based cold‑start and dense trajectory supervision.  

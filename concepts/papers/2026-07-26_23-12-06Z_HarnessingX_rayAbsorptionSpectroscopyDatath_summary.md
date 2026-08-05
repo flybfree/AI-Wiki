@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper aims to convert X‑ray absorption spectroscopy (XAS) data embedded in battery literature into structured AI‑ready datasets. It does this by mining both images and text, digitizing spectral curves, and linking each spectrum to accompanying metadata on the measured edge and material. The resulting open dataset contains 13 740 spectra across 66 absorbing elements and diverse battery chemistries, with expert validation confirming accurate extraction of spectral and metadata information. The digitized spectra retain their original shape and intensity, preserving analytical fidelity.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Development of a scalable multimodal pipeline that automatically detects XAS figures in full‑text articles, extracts spectral curves using regression models, and annotates edge and material metadata with high precision.  
 - Construction of an open dataset of 13 740 high‑quality XAS spectra covering 66 absorbing elements and diverse battery chemistries, validated by expert review.  

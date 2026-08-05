@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces FICE (Fully Inductive Cardinality Estimation), a graph neural network that estimates the cardinality of Basic Graph Pattern SPARQL queries without retraining, even on unseen knowledge graphs. It generalizes to entirely new graphs and relations, eliminating the transductive limitation of prior learned estimators. The estimator uses an encoder GNN to produce entity‑relation embeddings from a factor‑graph view and a decoder GNN that composes these embeddings along the query join topology. Experiments show FICE reduces median q‑error dramatically compared with state‑of‑the‑art baselines.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A fully inductive learned cardinality estimator that works on unseen graphs without retraining.  
 - [Finding 2] A joint encoder‑decoder GNN architecture where embeddings are specialized for local neighborhood functions.  

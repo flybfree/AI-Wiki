@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper revisits the theoretical basis of detecting commutative factors in factor graphs, which are crucial for lifted probabilistic inference. It shows that the current state‑of‑the‑art algorithm depends on a theorem that is mistakenly treated as sufficient but is actually only necessary, potentially yielding false results. The authors correct this flaw by proving a modified version of the theorem and presenting two algorithms: one that retains efficiency while guaranteeing correctness, and another with tighter worst‑case bounds.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_Head_summary.md|Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] The state‑of‑the‑art algorithm’s central theorem is only a necessary condition, not sufficient, which may cause incorrect detection of commutative factors.  
 - [Finding 2] A slightly modified version of the theorem is proved that correctly serves as a necessary condition for identifying commutative factors.  

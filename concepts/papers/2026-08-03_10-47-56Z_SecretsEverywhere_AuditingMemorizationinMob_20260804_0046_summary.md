@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper presents the first systematic audit of memorization in mobility prediction models, which forecast a user’s next location based on historical trajectories. The authors argue that such models can inadvertently expose sensitive spatial and temporal patterns, creating privacy risks at multiple granularities. By introducing a framework to measure memorization across individual locations, anchor pairs, and subtrajectory segments, the work quantifies how likely a model is to recall training data during inference. Their findings reveal pervasive memorization that correlates with user regularity and poses significant extraction risks.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptation_summary.md|Summary: 2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptationforEvol.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.10
+- [[concepts/papers/2026-07-30_03-43-18Z_First_orderConstrainedTrilevelOptimizationO_summary.md|Summary: 2026-07-30_03-43-18Z_First_orderConstrainedTrilevelOptimizationOverDist.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - [Finding 1] A systematic audit demonstrates that mobility prediction models exhibit high memorization rates across diverse datasets, indicating that privacy leaks are common rather than rare.  
 - [Finding 2] The lack of a true randomness space in training sequences leads to predictable reconstruction of user trajectories, amplifying memorization risk.  

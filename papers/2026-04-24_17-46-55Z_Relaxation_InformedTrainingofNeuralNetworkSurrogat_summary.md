@@ -16,6 +16,11 @@ Model: None
 ## Summary
 ReLU neural networks trained as surrogate models can be embedded exactly in mixed-integer linear programs (MILPs), enabling global optimization over the learned function. The tractability of the resulting MILP depends on structural properties of the network, i.e., the number of binary variables in associated formulations and the tightness of the continuous LP relaxation. These properties are determined during training, yet standard training objectives (prediction loss with classical weight regularization) offer no mechanism to directly control them.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Takeaways
 - ReLU neural networks trained as surrogate models can be embedded exactly in mixed-integer linear programs (MILPs), enabling global optimization over the learned function.
 - The tractability of the resulting MILP depends on structural properties of the network, i.e., the number of binary variables in associated formulations and the tightness of the continuous LP relaxation.

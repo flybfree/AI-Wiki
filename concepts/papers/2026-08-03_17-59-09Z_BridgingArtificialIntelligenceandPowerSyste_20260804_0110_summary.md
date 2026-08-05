@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper addresses the growing need for a practical, engineering‑grounded bridge between artificial intelligence and power systems education. It proposes an open, executable module library that maps core AI concepts onto representative power‑system tasks, thereby lowering entry barriers for newcomers who rely on large language models rather than building their own tools. The framework is delivered as Jupyter notebooks accessible locally or via Google Colab through an IEEE online course and a PES webinar series. By providing reusable, hands‑on material, the work directly responds to survey findings that 92 % of researchers encounter barriers before running AI models and 94 % desire a power‑specific hands‑on course.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardw_summary.md|Summary: 2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardwareTroj.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.06
+
 ## Key Contributions  
 - **Engineering‑Grounded AI (EGAI) framework** – establishes a systematic approach where AI workflows follow established engineering and power‑system domain rules rather than remaining task‑agnostic.  
 - **Progressive difficulty ladder of executable modules** – creates three progressive, open Jupyter notebooks: DNN templates for load‑curve fitting; a CNN surrogate for a 5‑bus power flow; and advanced AI tools (DRL for battery control, PINNs for the swing equation).  

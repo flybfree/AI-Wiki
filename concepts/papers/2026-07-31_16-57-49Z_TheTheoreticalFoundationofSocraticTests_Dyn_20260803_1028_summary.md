@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper introduces the theoretical framework for the "Socratic Test," a novel, automated assessment model designed to overcome the limitations of traditional static and oral examinations. The authors argue that current grading systems often penalize ambition through deficit-based models or introduce severe bias via performative anxiety in face-to-face settings. To address these issues, the proposed system utilizes computer-mediated conversational interactions to dynamically map a student's cognitive boundaries in real-time. By integrating Dynamic Assessment principles with advanced taxonomic frameworks, the Socratic Test aims to provide a more accurate, reliable, and equitable measurement of student mastery.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 14 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The formalization of a non-compensatory, additive grading architecture that prioritizes demonstrated mastery over the subtraction of points for errors, thereby reducing the negative impact of anxiety on performance.
 - The development of a method for quantifying the Zone of Proximal Development (ZPD) through graduated scaffolding within an automated conversational interface, allowing for precise measurement of cognitive potential rather than just static knowledge.

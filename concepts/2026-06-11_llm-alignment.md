@@ -28,6 +28,11 @@ Placeholder summary — please add a concise summary.
 **Source**: [Original Article](https://arxiv.org/abs/2203.02155)
 **Alignment** is the problem of making AI systems behave in ways that match human intentions and values — not just what they're literally told to do, but what we *mean* for them to do. The core challenge: human values are complex, context-dependent, and often contradictory.
 
+## Semantic links
+- [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — 1 title term overlap; 4 backlinks; 6 summary/topic terms overlap
+- [[concepts/alignment-safety/alignment-hub.md|Alignment Hub]] — 1 title term overlap; shared tags: alignment; 79 backlinks
+- [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — 10 backlinks; 5 summary/topic terms overlap; semantic match 0.18
+
 ## Foundational Methods
 
 ### RLHF — Reinforcement Learning from Human Feedback

@@ -10,6 +10,11 @@ tags: ['concept', 'ai', 'ml']
 
 This hub organizes the raw research papers collected from arXiv and other sources, grouped by topic area.
 
+## Semantic links
+- [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|2026 06 09 Llmsandfoundationmodelshub]] — 1 title term overlap; shared tags: ai, concept, ml; 3 backlinks
+- [[concepts/2026-06-09_AIIndustryAndNewsHub.md|2026 06 09 Aiindustryandnewshub]] — 1 title term overlap; shared tags: ai, concept, ml; 3 backlinks
+- [[concepts/2026-06-09_AIArchitectureHub.md|2026 06 09 Aiarchitecturehub]] — 1 title term overlap; shared tags: ai, concept, ml; 2 backlinks
+
 ## Core AI Papers
 
 ### Transformers & Attention

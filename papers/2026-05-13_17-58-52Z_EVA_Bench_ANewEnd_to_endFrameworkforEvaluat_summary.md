@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper introduces EVA-Bench, a novel end-to-end evaluation framework designed to address the critical lack of standardized metrics for assessing voice agents in enterprise environments. By jointly tackling the challenges of generating realistic simulated conversations and measuring comprehensive quality across voice-specific failure modes, the authors provide a robust tool for benchmarking AI systems. The framework utilizes bot-to-bot audio conversations with automatic validation to ensure data integrity before scoring, thereby reducing human bias and error. Ultimately, EVA-Bench enables direct cross-architecture comparisons using two composite metrics, EVA-A for accuracy and EVA-X for user experience, revealing significant gaps in current voice agent capabilities.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolv_summary.md|Summary: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - The development of EVA-Bench, an end-to-end framework that orchestrates dynamic, multi-turn bot-to-bot audio dialogues with automatic simulation validation to detect and regenerate errors before scoring.
 - The introduction of two distinct composite metrics: EVA-A (Accuracy), which evaluates task completion, faithfulness, and audio fidelity, and EVA-X (Experience), which measures conversation progression, conciseness, and turn-taking timing.

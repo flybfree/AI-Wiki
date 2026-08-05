@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Vilya‑2, a diffusion transformer that models peptide‑protein interfaces using an all‑atom representation, enabling accurate structural prediction across chemically diverse peptides and macrocycles. It achieves sub‑2 Å backbone RMSD for 59.1 % of predicted interfaces, outperforming conventional co‑folding baselines even when the bound receptor is provided as a template. Vilya‑2 also excels in small‑molecule docking and generalizes to novel protein‑small‑molecule complexes and large macrocyclic molecules. The model serves as a foundation for de novo peptide design pipelines.
 
+## Semantic links
+- [[concepts/papers/2026-07-24_14-31-54Z_IQ_JEPA_AJoint_EmbeddingPredictiveArchitect_summary.md|Summary: 2026-07-24_14-31-54Z_IQ_JEPA_AJoint_EmbeddingPredictiveArchitecturewith.md]] — 3 title terms overlap; 1 backlink; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-20_16-43-54Z_DoLanguageModelsDreamofBindingMolecules_Ben_summary.md|Summary: 2026-07-20_16-43-54Z_DoLanguageModelsDreamofBindingMolecules_Benchmarki.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - [Finding 1] Vilya‑2 achieves sub‑2 Å backbone RMSD on 59.1 % of peptide interfaces, surpassing typical co‑folding models.  
 - [Finding 2] It generalizes to novel protein‑small‑molecule complexes and large macrocycles not seen in training data.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper seeks to develop phonetic forced alignment models for low‑resource language varieties, focusing on Chengdu Mandarin which has limited annotated data. It proposes two complementary approaches: a text‑dependent GMM‑HMM model (Chengdu‑MFA) and a text‑independent audio encoder fine‑tuned on pseudo labels (Chengdu‑FC). Both models are trained using a 17‑hour corpus and a custom G2P dictionary, enabling bootstrapping without labor‑intensive manual annotation. Experimental results show that these methods significantly outperform Standard Mandarin baselines.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Chengdu‑MFA reduces the average phone boundary differences by 31.8% compared with a Standard Mandarin baseline.  
 - [Finding 2] Chengdu‑FC achieves a 61.2% reduction in phonetic errors, outperforming the text‑dependent model.  

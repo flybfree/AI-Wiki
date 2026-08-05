@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces an Event‑Structured Physics‑Informed Neural Network (ES‑PINN) to solve the problem of estimating the critical clearing time (CCT), a key metric for transient stability in power systems. By aligning its representation with the pre‑fault, fault‑on, and post‑clearing swing dynamics and enforcing exact state chaining across event interfaces, ES‑PINN creates a smooth trajectory‑induced stability margin that serves as a differentiable approximation of the CCT boundary. This formulation enables accurate extraction of the boundary, local sensitivity analysis, and optional direct CCT prediction through a distilled readout. The authors also provide a rigorous error estimate that ties residuals to trajectories and CCT while eliminating interface defect terms.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] ES‑PINN aligns its representation with pre‑fault, fault‑on, and post‑clearing swing dynamics and enforces exact state chaining across event interfaces.  
 - [Finding 2] A smooth trajectory‑induced stability margin defines a differentiable approximation of the CCT boundary, facilitating extraction, sensitivity analysis, and direct prediction.  

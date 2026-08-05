@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Reddit is becoming a hotbed for AI‑driven SEO spam, where coordinated bot accounts generate synthetic posts that masquerade as genuine user reviews to boost brand mentions and influence AI chatbots. Moderators have already begun flagging and filtering such deceptive content, but the scale of the problem remains a growing challenge for both platforms and marketers.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Coordinated bot accounts are using AI‑generated language to produce seemingly authentic Reddit posts that promote specific products, like Honeydew Labs’ hypochlorous acid spray.  
 - Moderators can detect and act against these spammy threads, yet the sheer volume of synthetic content makes detection difficult and resource‑intensive.  

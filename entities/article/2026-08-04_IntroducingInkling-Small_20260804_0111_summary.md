@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Inkling‑Small is an open‑weights Mixture‑of‑Experts transformer that delivers performance comparable to its larger sibling Inkling while using only one‑quarter of the total parameters (276 B vs 975 B) and far less active compute (12 B vs 41 B). The model supports audio‑ and image‑reasoning, a 1 M‑token context window, and variable thinking effort to balance cost and capability, positioning it as an efficient alternative for agentic tool use, text reasoning, and instruction following.  
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/prompting/prompting-hub.md|Prompting and Instruction Design Hub]] — 2 title terms overlap, 5 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 2 title terms overlap, 4 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Inkling‑Small achieves near‑state‑of‑the‑art results on benchmarks such as Terminal‑Bench 2.1, HLE (text‑only), and IFBench despite its modest 276 B total parameter count.  
 - Its variable thinking effort allows users to tailor the model’s computational intensity, making it adaptable for low‑cost or high‑performance use cases.  

@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 This paper tackles the challenge of speaker attribution in long‑form TV dramas by introducing a large multimodal benchmark and a reasoning‑based recognition system. The authors create DramaSR‑532K, a 532 k‑line dataset spanning over 900 characters, and propose DramaSR‑LRM that leverages a large reasoning model to autonomously fuse auditory, linguistic, and visual cues for high‑fidelity speaker identification. Experimental evaluation shows the new approach markedly outperforms existing baselines, especially on short utterances where acoustic biometrics are unreliable. The work thus advances both data collection practices and AI methods for video‑based dialogue understanding.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors introduce **DramaSR‑532K**, a large‑scale benchmark of 532 k annotated dialogue lines across more than 900 unique characters, requiring the integration of auditory, linguistic, and visual cues.  
 - [Finding 2] They propose **DramaSR‑LRM**, a robust approach built on a large reasoning model (LRM) that autonomously aggregates contextual evidence via multimodal tool‑use to achieve high‑fidelity attribution.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces SpecBox, a speculative sandbox scheduling framework for LLM agent serving that resolves the tension between resource utilization and interactive tail latency. By preallocating sandboxes based on intent‑driven prewarming—using keyword matching and streaming semantic embeddings—the system can overlap sandbox bootstrapping with model inference. Two additional optimizations—a semantic result cache to avoid redundant invocations and a zero‑copy shared‑memory transport plane—further reduce overhead. The approach cuts P99 end‑to‑end latency by up to 2.9× and memory consumption by 45.9% compared with an on‑demand baseline.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 1 backlink; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_15-03-35Z_KC_Agent_ADual_ProcessCognitiveArchitecture_20260804_0042_summary.md|Summary: 2026-08-03_15-03-35Z_KC_Agent_ADual_ProcessCognitiveArchitectureforEffi.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.07
+
 ## Key Contributions  
 - Speculative preallocation via intent‑driven sandbox prewarming that matches keywords to pending tool demands during token generation.  
 - Context‑aware stochastic prefetching across sequential agent steps, built on a sandbox dependency graph to forecast future switches.  

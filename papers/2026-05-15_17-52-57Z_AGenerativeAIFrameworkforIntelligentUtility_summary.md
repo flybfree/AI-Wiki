@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces a novel, end-to-end generative AI framework designed to revolutionize utility billing by integrating intelligent carbon analytics with sustainable resource optimization. The primary goal is to address the growing demand for transparency in energy consumption by providing customers with defensible, per-kWh carbon footprints alongside their financial bills. By unifying four distinct production-grade capabilities under a single architectural roof, the authors aim to bridge the gap between raw utility data and actionable, environmentally conscious customer insights. The framework leverages advanced machine learning techniques to ensure that billing statements are not only financially accurate but also ecologically informative and predictive.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelfor_summary.md|Summary: 2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelforInterpr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Unde_summary.md|Summary: 2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe_summary.md|Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions
 - The development of a constrained decoding policy for a generative AI agent that drafts natural-language billing statements, ensuring that complex carbon data is translated into readable, customer-friendly narratives without hallucination or data integrity loss.
 - The implementation of a transformer-based forecasting model that provides day-ahead consumption estimates accompanied by calibrated quantile bands, allowing utilities to anticipate grid stress and manage emissions constraints more effectively.

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper addresses the challenge of training deep neural networks (DNNs) for Automatic Target Recognition (ATR) in Synthetic Aperture Sonar (SAS) data, where labeled examples are scarce due to high collection costs and time constraints. The authors systematically compare various data augmentation methods—both conventional image-based techniques and physics-informed approaches—to evaluate their effectiveness in improving target recognition accuracy when used with modern DNN architectures, including transformers. Their work highlights that while augmentation can enhance performance, its benefits are not uniform across different strategies or network types.  
 
+## Semantic links
+- [[concepts/papers/2026-07-28_06-13-18Z_Physics_GroundedFluidVideoGenerationwithaSi_summary.md|Summary: 2026-07-28_06-13-18Z_Physics_GroundedFluidVideoGenerationwithaSimulatio.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.06
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-22_14-49-10Z_PIER_Physics_InformedEnvironmentalRetrieval_summary.md|Summary: 2026-07-22_14-49-10Z_PIER_Physics_InformedEnvironmentalRetrievalforTime.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.13
+
 ## Key Contributions  
 - [Finding 1] The authors demonstrate that physics-based augmentations, which preserve the physical realism of SAS data (e.g., frequency domain shifts and spatial distortions), generally outperform conventional image augmentations in improving DNN performance for ATR tasks.  
 - [Finding 2] When combined with transformer architectures, certain augmentation methods—particularly those that maintain spectral integrity—lead to more robust and accurate target classification than others, suggesting a synergy between advanced models and well-chosen synthetic data generation.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper revisits the long‑standing belief that multi‑branch and cross‑backbone fusion can boost vehicle re‑identification (Re‑ID) performance in the era of foundation models. By training a single DINOv3‑pretrained ConvNeXt model with retrieval‑level re‑ranking, the authors achieve state‑of‑the‑art results that match or exceed benchmark multi‑branch pipelines without adding architectural complexity. Empirical analysis shows that concatenating multiple branches built on a shared backbone yields negligible gains in mAP while dramatically increasing embedding size and reducing effective rank. Moreover, cross‑backbone fusion using an asymmetric frozen‑anchor strategy provides only modest improvements (≈0.11 mAP) compared with the strong single‑branch baseline. The study therefore argues that refining a single powerful foundation model is more effective than proliferating branches or heterogeneous backbones.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 6 title terms overlap; 13 backlinks; 6 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A DINOv3‑pretrained ConvNeXt with retrieval re‑ranking reaches 88.19 mAP on VeRi‑Wild Small and 77.47 mAP on VeRi‑Wild Large, matching the best protocol‑verified multi‑branch baseline.  
 - [Finding 2] Adding multiple branches built on a shared backbone improves embedding dimension fourfold but only raises mAP by less than one point; effective rank remains close to the original feature dimension.  

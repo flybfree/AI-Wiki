@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses a critical gap in text‑to‑SQL research by introducing a benchmarking framework that incorporates realistic role‑based access control (RBAC) constraints, which are often ignored in existing benchmarks. By augmenting standard datasets with plausible user roles and access policies, the authors enable evaluation of how large language models behave when their query generation must respect RBAC rules. The study demonstrates that many high‑scoring LLMs degrade sharply under access restrictions due to frequent violations or outright rejection of permissible queries. This work thus bridges the gap between unrestricted benchmark performance and practical deployment scenarios where security policies are enforced.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A novel RBAC‑aware text‑to‑SQL benchmark that synthesizes user roles from database schemas using a structured reasoning process, validated by human domain experts.  
 - [Finding 2] A set of evaluation metrics that separate SQL utility (answer correctness) from access‑control compliance, allowing fine‑grained analysis of failure modes.  

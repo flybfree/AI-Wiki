@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper introduces SIREM, a novel framework designed to address the fundamental trade-offs between spatial resolution, temporal resolution, and acquisition speed in real-time magnetic resonance imaging (rtMRI) of speech production. By leveraging synchronized speech audio as a cross-modal prior, SIREM predicts vocal-tract configurations that are inherently correlated with the produced acoustics, thereby mitigating the degradation caused by undersampled k-space measurements. The framework operates by fusing an audio-driven component, which articulates structural predictions, with an MRI-driven component that reconstructs complementary data from measured k-space. This approach establishes a new paradigm for fast, high-throughput rtMRI reconstruction that maintains anatomical plausibility without relying on slow iterative methods.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The proposal of SIREM, a unified multimodal formulation that integrates audio-driven prediction, MRI reconstruction, and adaptive sampling into a single coherent framework.
 - The introduction of a learnable soft weighting profile over spiral arms, which allows for differentiable analysis of how k-space arm usage interacts with speech-informed fusion mechanisms.

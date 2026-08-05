@@ -20,6 +20,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://example.com/placeholder)
+
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 2 title terms overlap; shared tags: foundations, lesson; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap; shared tags: foundations, lesson; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 2 title terms overlap; shared tags: foundations, lesson; 5 backlinks
+
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-09-attention-and-transformers.md|Lesson 9: Attention and Transformers]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

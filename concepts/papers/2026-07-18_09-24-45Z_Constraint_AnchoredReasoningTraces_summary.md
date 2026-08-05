@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates the problem of error snowballing in autoregressive multimodal large language models (MLLMs) during chain‑of‑thought reasoning, where a single faulty inference can corrupt all subsequent steps. It proposes Constraint‑Anchored Reasoning Traces (CART), a neuro‑symbolic framework that injects lightweight, machine‑checkable symbolic constraints into the model’s generation process to halt and backtrack on contradictions. By training MLLMs to interleave natural language reasoning with these anchors, CART aims to break the cascade of errors without sacrificing flexibility or requiring full program synthesis. The approach is evaluated on several benchmarks and demonstrates a significant reduction in error propagation.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 3 title terms overlap; 51 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptation_summary.md|Summary: 2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptationforEvol.md]] — 4 title terms overlap; 5 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A single incorrect inference leads to downstream failure in 65 % of chain‑of‑thought traces, quantified as the “snowball rate.”  
 - [Finding 2] Existing mitigations—multiple chains, post‑hoc verification, or full program synthesis—lack symbolic grounding, detect errors too late, or reduce natural language reasoning flexibility.  

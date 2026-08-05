@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of producing reliable day‑ahead forecasts for photovoltaic (PV) systems at sites that have only short, imperfect data records. By integrating a physics‑aware AI pipeline that corrects timestamp conventions and builds leakage‑safe solar‑geometry features, the authors demonstrate that stacking complementary predictors can markedly improve forecast skill over simple persistence or clear‑sky baselines. The study is conducted at a United Kingdom charging‑station site where PV forecasts directly influence charging availability and storage scheduling. Their work shows that the value of such pipelines depends on model class, evaluation protocol, and deployment context.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A deployment‑oriented environmental‑AI pipeline that corrects timestamp conventions and constructs leakage‑safe solar‑geometry and clearness‑index features from limited site data.  
 - [Finding 2] Use of validation‑learned stacking to combine complementary meteorological and PV‑output predictors, mitigating the overfitting risk of single‑model approaches.  

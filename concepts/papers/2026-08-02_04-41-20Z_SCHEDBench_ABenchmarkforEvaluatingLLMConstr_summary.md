@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces SCHEDBench, a benchmark designed to evaluate how large language models (LLMs) preserve constraint‑feasibility and optimality when natural‑language formulations of combinatorial scheduling problems are varied. It creates 1,132 instances from job‑shop, resource‑constrained project scheduling, nurse rostering, and curriculum timetabling domains, templating each instance into multiple surface forms while maintaining a verified reference solution. The study tests thirteen frontier LLMs to determine whether generated schedules remain feasible under semantically equivalent renderings, focusing on constraint reordering as the most sensitive axis. This work contributes both the benchmark itself and empirical evidence of non‑invariance in LLM behavior.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] SCHEDBench provides a comprehensive natural‑language benchmark for scheduling constraint faithfulness across surface‑form variations.  
 - [Finding 2] Empirical results show that LLMs are not invariant to semantically equivalent NL renderings, with feasibility degradation and hard‑constraint violations increasing under certain reorderings.  

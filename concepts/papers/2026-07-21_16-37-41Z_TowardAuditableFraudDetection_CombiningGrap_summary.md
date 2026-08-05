@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a multi‑layered fraud detection pipeline that integrates graph‑derived structural features, an autoencoder anomaly signal, TreeSHAP model explanations, and a bounded large language model (LLM) investigation agent to produce auditable decisions. By applying this stack to the PaySim dataset and correcting for a simulator‑specific balance shortcut, the authors find that while individual components do not boost overall average precision on the full test set, they help rank fraudulent cases among uncertain predictions and recover many injected multi‑account fraud rings that a tabular baseline misses. A bounded LLM agent, despite having access to explanations and graph context, underperforms simple thresholding (65 % vs 71.7 %) and even replaces correct classifier outputs with errors in several decisions.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-20_13-08-41Z_AutoEncoder_CompressedParallelSplitLearning_summary.md|Summary: 2026-07-20_13-08-41Z_AutoEncoder_CompressedParallelSplitLearningforPre_.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-07-23_07-11-41Z_HyWorldVLA_AVision_Language_ActionModelwith_summary.md|Summary: 2026-07-23_07-11-41Z_HyWorldVLA_AVision_Language_ActionModelwithHybridW.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.05
+
 ## Key Contributions  
 - [Finding 1] After correcting for a simulator shortcut, neither the graph features nor the anomaly signal improves average precision on the full test set, but they rank fraudulent cases better within the subset of uncertain predictions.  
 - [Finding 2] Engineered structural features recover all injected multi‑account fraud rings in a controlled experiment, whereas the tabular baseline misses roughly a quarter of them.  

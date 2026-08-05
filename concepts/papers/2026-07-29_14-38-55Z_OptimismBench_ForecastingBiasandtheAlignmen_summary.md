@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Large language models (LLMs) are used to produce probability judgments that influence real‑world decisions, yet their outputs often exhibit hidden directional bias—systematic over‑ or under‑estimation of outcomes—that standard calibration metrics cannot reveal. OptimismBench tackles this problem by detecting signed bias without relying on ground‑truth probabilities, using paired “success/failure” framing to expose asymmetry between model responses. The study evaluates 17 models across eight providers and ten languages, revealing that optimism is a pervasive alignment artifact, especially in higher‑tier models. By releasing a large benchmark dataset, the work enables systematic auditing of bias for downstream pipelines.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World__20260804_0045_summary.md|Summary: 2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World_Grounde.md]] — 4 title terms overlap; 4 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World__summary.md|Summary: 2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World_Grounde.md]] — 4 title terms overlap; 4 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] OptimismBench introduces an inverted‑pair framework that yields a signed bias score from paired P(success) and P(failure) outputs, allowing detection of directional tilt without external labels.  
 - [Finding 2] Empirical analysis shows fourteen out of sixteen evaluated models are systematically optimistic, with only Anthropic’s frontier tier showing pessimism; the bias is consistent across prompt style, temperature, perspective, and self‑debiasing prompts.  

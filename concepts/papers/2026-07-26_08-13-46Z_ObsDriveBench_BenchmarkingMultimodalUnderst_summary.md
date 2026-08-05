@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces ObsDriveBench, a real‑world multimodal benchmark for autonomous driving under adverse weather conditions such as fog, rain, snow, and low illumination. It aims to evaluate how vision‑language models handle degraded environmental observability across synchronized camera, LiDAR, and radar inputs. The study focuses on three capability dimensions: observability awareness, spatial reliability, and risk‑aware decision‑making. By providing a fine‑grained diagnostic framework, the benchmark reveals consistent performance degradation in existing models.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 5 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors demonstrate that multi‑modal observations become cross‑modally inconsistent under adverse weather, highlighting a previously overlooked challenge.  
 - [Finding 2] ObsDriveBench introduces an observability meta‑annotation system that enables fine‑grained diagnosis of model behavior across three capability dimensions.  

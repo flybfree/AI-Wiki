@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how pseudorandom streams embedded in diffusion models can be learned and influence both training dynamics and generation quality, revealing that the stochasticity is not merely a mathematical abstraction but a concrete structured input. The authors demonstrate that replacing real images with online random tensors—while preserving the diffusion architecture and objective—produces markedly different loss values and degraded outputs on standard benchmarks such as MNIST and CIFAR‑10. Their experiments show strong rank correlations between orbit predictability and degradation, even after controlling for marginal statistics and ruling out numerical artifacts. The findings suggest that pseudorandomness is model‑dependent and can be exploited to control generation quality.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/training-optimization/training-optimization-hub.md|Training and Optimization Hub]] — 2 title terms overlap; 505 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-15_19-11-54Z_TracingLLMBehaviortotheTrainingDatawithEmpi_summary.md|Summary: 2026-07-15_19-11-54Z_TracingLLMBehaviortotheTrainingDatawithEmpiricalNe.md]] — 3 title terms overlap; 17 summary/topic terms overlap; semantic match 0.10
+
 ## Key Contributions  
 - **Finding 1:** Pseudorandom streams within diffusion models act as learnable inputs because the deterministic orbits they generate affect loss gradients and optimization trajectories.  
 - **Finding 2:** A lightweight multilayer perceptron predicts the next value of an orbit from its recent history, providing a quantitative measure of sequence predictability.  

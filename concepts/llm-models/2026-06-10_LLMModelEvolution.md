@@ -11,6 +11,11 @@ Placeholder summary — please add a concise summary.
 
 **Source**: [Original Article](https://arxiv.org/abs/2606.02373)
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_LLMReleaseTracker-archive.md|LLM Release Tracker Archive]] — 1 title term overlap, shared tags: evolution, llmmodels, 2 topic terms overlap
+- [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker]] — 1 title term overlap, shared tags: evolution, llmmodels, 2 topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|AI/ML Foundations Lesson 12 - Prompting: Guiding Model Behavior]] — 1 title term overlap, 7 topic terms overlap, same area: home
+
 ## LLM Model Evolution
 
 **Last Updated**: 2026-06-10

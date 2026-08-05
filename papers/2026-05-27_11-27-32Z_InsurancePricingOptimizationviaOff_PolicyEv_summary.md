@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of optimizing insurance pricing to balance actuarial fairness with price sensitivity, treating it as a decision‑making problem in stochastic control. It introduces a kernelized inverse propensity score estimator that reduces variance compared to standard methods and uses these estimates for policy optimization. Two computational approaches are proposed: an interpretable Lasso formulation sharing data and a neural network parameterization for flexible policies. Experiments on a synthetic travel insurance environment validate the theoretical results, showing neural networks outperform prior techniques.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - The kernelized inverse propensity score estimator provides variance reduction by exploiting local structure in the action space.  
 - A two‑pronged optimization framework—an interpretable Lasso model and a flexible neural network policy—offers practical alternatives for computing optimal pricing rules.  

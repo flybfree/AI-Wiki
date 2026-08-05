@@ -27,6 +27,7 @@ They are optimized for:
 - Include concrete examples for key concepts
 - Prefer one canonical page per idea
 - Keep navigation pages short and curated
+- Use `## Semantic links` for concept pages only; keep hubs and other structural pages in `## Related pages`
 
 ## Opinionated defaults
 
@@ -78,9 +79,13 @@ Concrete example or scenario.
 - <misconception 1>
 - <misconception 2>
 
+## Semantic links
+- [[<concept-page-1>]]
+- [[<concept-page-2>]]
+
 ## Related pages
-- [[<related-page-1>]]
-- [[<related-page-2>]]
+- [[<hub-page>]]
+- [[<comparison-page>]]
 ```
 
 ## 0b) Assistant-optimized retrieval concept template
@@ -118,9 +123,13 @@ One to three sentences that directly answer “what is this?”
 - <non-use case 1>
 - <non-use case 2>
 
+## Semantic links
+- [[<concept-page-1>]]
+- [[<concept-page-2>]]
+
 ## Related pages
-- [[<related-page-1>]]
-- [[<related-page-2>]]
+- [[<hub-page>]]
+- [[<comparison-page>]]
 ```
 
 ## 1) Article summary template
@@ -157,9 +166,13 @@ Short overview of the article in 2–4 sentences.
 ## Why this matters
 Why the article matters to the reader or the research area.
 
-## Related pages
+## Semantic links
 - [[<concept-page>]]
+- [[<concept-page-2>]]
+
+## Related pages
 - [[<topic-hub>]]
+- [[<comparison-page>]]
 ```
 
 ## 2) Paper summary template
@@ -200,8 +213,11 @@ The main result, benchmark, or finding.
 ## Why it matters
 Why the paper is interesting or important.
 
-## Related pages
+## Semantic links
 - [[<concept-page>]]
+- [[<concept-page-2>]]
+
+## Related pages
 - [[<comparison-page>]]
 - [[<topic-hub>]]
 ```
@@ -238,6 +254,10 @@ Short current-state summary.
 
 ### YYYY-MM-DD
 - <dated update>
+
+## Semantic links
+- [[<concept-page>]]
+- [[<concept-page-2>]]
 
 ## Related pages
 - [[<hub-page>]]
@@ -306,9 +326,13 @@ Short overview in plain English.
 ## Why it matters
 Short explanation of significance.
 
-## Related pages
+## Semantic links
 - [[<concept-page>]]
+- [[<concept-page-2>]]
+
+## Related pages
 - [[<topic-hub>]]
+- [[<comparison-page>]]
 ```
 
 ## 6) Review checklist
@@ -320,7 +344,8 @@ Before saving a page, check:
 - [ ] Visible source link exists in the body
 - [ ] First-use acronyms are defined
 - [ ] At least one concrete example is included
-- [ ] Page is linked from an index or hub if it matters
+- [ ] Semantic links list only concept pages
+- [ ] Related pages hold hubs, comparisons, and other structural links
 - [ ] Page type is correct
 - [ ] Updated date is current
 
@@ -328,8 +353,8 @@ Before saving a page, check:
 
 - **Learning-first concept pages** for teaching and intuition
 - **Assistant-optimized concept pages** for fast question answering
-- **Article summaries** for current web sources
-- **Paper summaries** for research findings
+- **Article summaries** for current web sources, with semantic links first and structural links second
+- **Paper summaries** for research findings, with semantic links first and structural links second
 - **Tracker pages** for living topics
 - **Hub pages** for navigation and discovery
 - **Logseq-safe summaries** for avoiding title collisions

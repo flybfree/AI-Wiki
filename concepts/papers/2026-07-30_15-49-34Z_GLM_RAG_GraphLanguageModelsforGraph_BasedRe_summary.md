@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces GLM‑RAG, a graph language model (GLM) based retriever designed for retrieval‑augmented generation over knowledge graphs. It aims to compare three retrieval paradigms—GLM, graph neural network (GNN), and vector‑search—across single‑ and multi‑hop RAG tasks while emphasizing out‑of‑domain transferability. The authors show that GLM can achieve state‑of‑the‑art performance on two multi‑hop benchmarks and generalize well to unseen domains, whereas GNN excels in graph coverage and vector‑search dominates single‑hop queries. This work bridges the gap between language modeling and graph reasoning for scalable RAG systems.
 
+## Semantic links
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search and Retrieval Hub]] — 3 title terms overlap; 332 backlinks; 3 summary/topic terms overlap
+- [[concepts/papers/2026-07-20_19-58-32Z_Search_on_Graph_R1_TrainingLargeLanguageMod_summary.md|Summary: 2026-07-20_19-58-32Z_Search_on_Graph_R1_TrainingLargeLanguageModelstoSe.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.12
+- [[concepts/papers/2026-07-28_12-31-34Z_KQFuzz_Knowledge_GuidedFuzzingforQuantumLib_summary.md|Summary: 2026-07-28_12-31-34Z_KQFuzz_Knowledge_GuidedFuzzingforQuantumLibrariesv.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.08
+
 ## Key Contributions  
 - Finetuned GLM retrievers generalize better out‑of‑domain, achieving SOTA on two multi‑hop benchmarks.  
 - GNN‑based retrievers obtain higher graph coverage with an efficient training setup compared to GLM and vector search.  

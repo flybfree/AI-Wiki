@@ -21,6 +21,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://example.com/placeholder)
+
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 3 title terms overlap; shared tags: cnn, foundations, lesson; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|AI/ML Foundations Lesson 08 - Recurrent Networks and LSTMs]] — 3 title terms overlap; shared tags: foundations, lesson; 6 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 3 title terms overlap; shared tags: foundations, lesson; 5 backlinks
+
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

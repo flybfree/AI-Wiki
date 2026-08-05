@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Multivariate time series imputation is essential for downstream analysis but suffers from challenges when inter‑variable dependencies are incomplete or non‑stationary across samples. Existing methods either learn stable global dependencies that ignore sample‑specific variations or adaptive local dependencies that become unreliable under sparse observations, leading to erroneous information propagation. To overcome these trade‑offs, the authors introduce GLAIM—a framework that jointly learns a robust global backbone and a sample‑conditioned local refiner. This complementary design aims to provide accurate imputation while remaining resilient to missingness patterns.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_08-48-07Z_Inter_ResidueGeometryAttentionforAntibody_S_summary.md|Summary: 2026-08-02_08-48-07Z_Inter_ResidueGeometryAttentionforAntibody_Specific.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-07-21_17-53-44Z_Fundamentallimitsofdistributedmulticlasscla_summary.md|Summary: 2026-07-21_17-53-44Z_Fundamentallimitsofdistributedmulticlassclassifica.md]] — 3 title terms overlap; 1 backlink; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-22_20-01-44Z_CEDAR_CausalEdgeDiscoveryforAutoregressiveP_summary.md|Summary: 2026-07-22_20-01-44Z_CEDAR_CausalEdgeDiscoveryforAutoregressiveProcesse.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - [Finding 1] The authors propose GLAIM, a Global‑Local Adaptive Inter‑Variable Dependency Modeling framework that integrates a stable global dependency constructor with a sample‑conditioned local refiner.  
 - [Finding 2] They design the Stable Global Dependency Constructor to derive robust inter‑variable dependencies from complementary temporal representations, forming an unchanging backbone less affected by missingness or noise.  

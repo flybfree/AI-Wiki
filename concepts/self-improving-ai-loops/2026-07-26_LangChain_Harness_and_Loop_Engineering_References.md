@@ -16,6 +16,11 @@ Together, they cover the two halves of the lesson set’s core mental model:
 - the **harness** around the model
 - the **stack of loops** that make an agent reliable over time
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-lesson-02-harness-implementing-an-agent.md|AI Agents Lesson 2 - The Harness - Implementing an Agent]] — 3 title terms overlap, shared tags: harness, 3 topic terms overlap
+- [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson5_KnowledgeMemory.md|Lesson 5 — Knowledge & Memory: The Outer Loop]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+
 ## Why these matter
 
 ### The Anatomy of an Agent Harness

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Multi‑agent reasoning systems traditionally suffer from high end‑to‑end latency because each step must wait for the entire pipeline to finish. The authors introduce **StreamMA**, a streaming communication protocol that immediately forwards intermediate results to downstream agents, thereby pipelining adjacent modules and cutting latency. Their analysis shows that this pipelined approach not only speeds up computation but also improves reasoning quality by leveraging early, reliable steps while discarding later, error‑prone ones. A closed‑form joint evaluation of stream, serial, and single communication protocols is provided, along with a step‑level scaling law that reveals an orthogonal efficiency dimension.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] StreamMA reduces end‑to‑end latency by streaming each reasoning step as soon as it is generated.  
 - [Finding 2] The pipelined protocol yields higher effectiveness because reliable early steps are used instead of propagating potentially faulty late steps.  

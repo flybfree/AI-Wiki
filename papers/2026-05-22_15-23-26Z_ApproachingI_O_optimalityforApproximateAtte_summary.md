@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper revisits the I/O complexity of attention computation in large language models, aiming to reduce the quadratic data transfers inherent in standard implementations. It introduces an algorithm inspired by approximate attention that achieves almost‑linear I/O cost with respect to sequence length n, closing the gap between theoretical lower bounds and practical performance. The authors also prove matching lower bounds for various parameter regimes, demonstrating optimality of their approach.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti__summary.md|Summary: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemo_summary.md|Summary: 2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] An I/O‑efficient algorithm that computes the attention matrix A = softmax(QKᵀ/√d)V with cost O(n d + n²) in most regimes, reducing quadratic transfers to almost‑linear ones.  
 - [Finding 2] Theoretical lower bounds matching the algorithm’s complexity for each parameter regime (n, d, M), showing that no I/O‑optimal method can do better asymptotically.  

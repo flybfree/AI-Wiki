@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Cross‑lingual knowledge transfer is essential for multilingual models that must support languages with limited training data. The paper proposes LINK, a data‑level intervention that swaps English words with their low‑resource language equivalents during pretraining without requiring extra models or parallel corpora. This simple lexical substitution enables the model to acquire high‑resource knowledge while preserving computational efficiency. The approach yields up to a twofold speedup in training time compared with conventional methods.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTool_summary.md|Summary: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - **Lexical Interventions**: Randomly replace English words with their word‑level translations using bilingual vocabularies, enabling knowledge transfer at the token level.  
 - **Zero‑Cost Implementation**: The method requires only a bilingual dictionary, which can be sourced for virtually any language at negligible expense.  

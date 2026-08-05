@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Claude Opus 5 is Anthropic’s latest large‑language model that delivers state‑of‑the‑art performance on coding, knowledge‑work and scientific benchmarks at a fraction of the cost of its predecessor, while also generating stronger visualizations. It serves as the default Claude Max model and the strongest Claude Pro option, outperforming Fable 5 in many efficiency‑focused tasks.
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap, 4 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap, 4 topic terms overlap, same area: home
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 4 title terms overlap, 4 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Opus 5 matches or exceeds Fable 5’s scores on high‑effort coding benchmarks at half the cost per task.  
 - It achieves a 3× higher score than the next best model on ARC‑AGI 3, a novel problem‑solving test.  

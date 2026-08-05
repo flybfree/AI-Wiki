@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes machine‑learning models to automatically characterize charge stability maps (CSMs) of isolated double quantum dots, enabling rapid tuneup for quantum computing. It introduces two lightweight convolutional neural networks that identify sensor artifacts and locate charge‑transition lines with high accuracy. The models are trained on experimental CSM images from SiMOS devices at ~1 K and validated via cross‑device generalization. This work offers a practical, automated pathway to scalable characterization of quantum‑dot arrays.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A lightweight CNN classifier (CSMClassifier) achieves 94% macro‑averaged accuracy in distinguishing three quality classes across 2,407 held‑out CSM images.  
 - [Finding 2] A line‑localization network (ChargeLineNet) correctly counts charge transitions with 95.3% exact line‑count accuracy on 1,131 images.  

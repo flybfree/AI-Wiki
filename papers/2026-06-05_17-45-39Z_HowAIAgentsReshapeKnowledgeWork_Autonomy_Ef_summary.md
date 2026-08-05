@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates how autonomous AI agents transform knowledge work by comparing two products, Search and Computer, using production data from Perplexity. It finds that agents dramatically increase autonomy, efficiency, and the scope of tasks performed. These findings reveal shifts in query patterns, quality improvements, and cost reductions. Overall, AI agents reshape workflows by automating decomposition, lowering time/cost, and enabling higher‑order, cross‑functional work.  
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_Usi_summary.md|Summary: 2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Autonomous agents execute tasks end to end, delegating task decomposition and execution, leading to 26 minutes of autonomous work per session versus 33 seconds for Search; dissatisfaction rates drop 55%.  
 - [Finding 2] Autonomy reduces completion time from 269 to 36 minutes on matched tasks, cutting estimated time by 87% and cost by 94% compared with human‑only Search.  

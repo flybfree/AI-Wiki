@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper introduces DeepWeb-Bench, a novel benchmark designed to rigorously evaluate the deep research capabilities of frontier language models. Unlike existing benchmarks that may be saturated by current models, this new dataset demands massive cross-source evidence collection and long-horizon multi-step derivation, creating a significantly harder evaluation landscape. The authors structure the difficulty into four distinct capability families: Retrieval, Derivation, Reasoning, and Calibration, ensuring a granular assessment of model performance. By providing detailed source-provenance records and cross-source checks, the benchmark allows for transparent auditing of model outputs against underlying evidence, addressing the opacity often found in deep research evaluations.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsI_summary.md|Summary: 2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsInvarian.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning_summary.md|Summary: 2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions
 - **Identification of Derivation and Calibration Bottlenecks:** The study reveals that retrieval is not the primary failure point for current models; instead, over 70% of errors stem from failures in derivation and calibration, highlighting a critical gap in how models synthesize and validate complex information.
 - **Qualitative Divergence in Model Errors:** Strong and weak models exhibit fundamentally different error profiles, with advanced models struggling with incomplete derivation while weaker models are prone to hallucinated precision, suggesting that scaling alone does not solve deep research challenges.

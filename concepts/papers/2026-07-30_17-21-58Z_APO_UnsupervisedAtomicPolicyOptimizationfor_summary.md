@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes Atomic Policy Optimization (APO), an unsupervised framework for predicting 3D atomic structures without requiring ground‑truth reference coordinates, which is a major bottleneck in data‑scarce regimes such as novel crystal phases or de novo protein design. APO replaces the alignment step of supervised flow‑matching models with a self‑correcting policy that leverages two physical rewards: one derived from eigen‑decomposition of sample similarities and another enforcing thermodynamic stability. By optimizing these intrinsic rewards, the model learns to generate physically plausible configurations and straightens its probability paths, leading to more efficient inference. The approach demonstrates state‑of‑the‑art performance on crystal and antibody structure prediction benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 14 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] APO achieves unsupervised alignment by applying group‑relative policy optimization, eliminating the need for costly experimental labels.  
 - [Finding 2] It introduces a dual‑reward mechanism—an eigen‑decomposition based reward that reinforces dominant latent structural modes and a thermodynamic stability reward that enforces physical plausibility.  

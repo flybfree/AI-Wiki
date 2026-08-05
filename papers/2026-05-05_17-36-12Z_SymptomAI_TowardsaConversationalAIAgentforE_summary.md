@@ -39,6 +39,11 @@ Conversational AI agents, differential diagnosis, wearable metrics, self‑repor
 
 SymptomAI is a conversational‑based AI agent that enables users to describe everyday health symptoms through natural language and receive evidence‑based guidance on possible causes, severity, and next steps. The system integrates a domain‑specific knowledge base (a symptom ontology enriched with clinical references) with a fine‑tuned natural‑language‑understanding (NLU) model and a recommendation engine that generates concise, actionable responses. By automating the triage process, SymptomAI reduces reliance on manual lookup tables and aims to improve accessibility of basic health information for non‑specialist users.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionM_summary.md|Summary: 2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDiffere_summary.md|Summary: 2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDifferentially.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 
 1. **Hybrid Dialogue Architecture** – A modular system consisting of (i) a dialogue manager that orchestrates turn‑by‑turn interaction, (ii) a symptom ontology that encodes medical concepts and relationships, and (iii) an evidence‑based recommendation module that selects appropriate responses from the knowledge base. This architecture separates the conversational flow from the domain logic, facilitating maintainability and extensibility.  

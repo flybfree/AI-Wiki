@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces DNQ, a Deep Nash Q‑Network designed to train bidding agents in multi‑turn simultaneous games with partial observability and multiple decision makers. It proposes a solver‑in‑the‑loop framework that alternates trajectory collection, payoff estimation, equilibrium computation, and policy imitation while using a shared critic to predict payoffs or equilibrium strategies. The authors focus on a scalable pairwise formulation that reduces computational cost compared with an exact N‑player formulation, amortizing learning across agents. Experiments demonstrate that the pairwise method scales better than the exact one in terms of training time and resource usage.  
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_Head_summary.md|Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A scalable pairwise equilibrium computation dramatically lowers solver cost relative to the exact N‑player approach.  
 - [Finding 2] The shared critic learns payoff matrices or an N‑dimensional tensor once, allowing all agents to benefit from this knowledge and reducing training overhead.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces WARDEN, a novel early language model system specifically designed to address the critical challenge of transcribing and translating Wardaman, an endangered Australian indigenous language, into English. The primary obstacle in this domain is the severe scarcity of high-quality training data, with the authors relying on only six hours of annotated audio, which renders traditional large-scale, unified end-to-end models ineffective. To overcome this low-resource constraint, WARDEN employs a decoupled two-stage architecture that first converts audio into phonemic transcription and subsequently translates that text into English. The system achieves superior performance compared to larger proprietary and open-source models by leveraging cross-lingual initialization and expert-curated dictionaries, establishing a new baseline for endangered language processing.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 3 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_summary.md|Summary: 2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolv_summary.md|Summary: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions
 - The development of WARDEN, a specialized two-stage pipeline that successfully processes Wardaman audio using merely six hours of training data, demonstrating that modular approaches can outperform unified models in extreme low-resource scenarios.
 - The introduction of a novel initialization technique for the transcription model by leveraging phonetic similarities with Sundanese, a related language, which significantly accelerates the fine-tuning process and improves convergence.

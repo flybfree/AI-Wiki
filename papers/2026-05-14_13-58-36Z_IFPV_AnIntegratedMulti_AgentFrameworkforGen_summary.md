@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenges of operational plan generation and verification in complex, rapidly changing battlefield environments, where traditional methods often suffer from infeasible outputs and insufficient validation. To overcome these limitations, the authors propose IFPV, an Integrated Multi-Agent Framework that tightly couples generative planning with high-fidelity adversarial verification. The framework utilizes a Multi-Perspective Hierarchical Agents (MPHA) module to decompose commander intent into executable tactical sequences and an Adversarial Cognitive Simulation Engine (ACSE) to rigorously test these plans against dynamic counteractions. Experimental results demonstrate that IFPV significantly outperforms both single-step Large Language Model baselines and traditional rule-based validators in terms of mission success rates, operational cost efficiency, and vulnerability detection.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesoc_summary.md|Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifo_summary.md|Summary: 2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - The development of the Multi-Perspective Hierarchical Agents (MPHA) module, which collaboratively employs Pathfinder, Analyst, and Planner agents to translate high-level commander intent into detailed, executable multi-platform tactical action sequences.
 - The introduction of the Adversarial Cognitive Simulation Engine (ACSE), a novel verification component featuring an opponent with a customized world model capable of predicting future mission-critical platform evolutions and executing dynamic counteractions to expose latent plan vulnerabilities.

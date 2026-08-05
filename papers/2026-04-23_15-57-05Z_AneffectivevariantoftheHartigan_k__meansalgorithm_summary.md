@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper proposes a small modification to Hartigan’s k-means algorithm that yields additional clustering gains. Compared with the standard Hartigan method, the variant is reported to improve performance by another 2%–5%, with larger gains at higher dimension or larger k.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagati_summary.md|Summary: 2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithG_summary.md|Summary: 2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Takeaways
 - Builds on Hartigan’s algorithm rather than Lloyd’s method.
 - Reports modest but consistent gains over standard Hartigan k-means.

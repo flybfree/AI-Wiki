@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper asks whether AI agents can accurately simulate the outcomes of A/B tests before deploying changes to live traffic, thereby reducing wasteful experimentation. It introduces a formal framework called a Simulated Randomized Controlled Trial (S‑RCT) that isolates two sources of error: agent approximation error and subsampling error. The authors demonstrate that an off‑the‑shelf foundation model can produce directional signals but often overestimates effect sizes, highlighting the need for targeted improvements. Their work provides a scalable, agent‑agnostic method to evaluate candidate treatments virtually.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The S‑RCT framework decomposes prediction error into approximation and subsampling components, enabling precise targeting of improvement efforts.  
 - [Finding 2] A baseline foundation‑model simulation captures the sign of the effect (sign overlap ≈ 0.70) but systematically overestimates magnitude.  

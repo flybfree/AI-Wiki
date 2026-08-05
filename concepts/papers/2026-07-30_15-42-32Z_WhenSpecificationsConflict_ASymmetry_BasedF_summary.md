@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of measuring how large language models (LLMs) resolve conflicts between competing specifications that may be inconsistent or contradictory. It introduces a symmetry‑based experimental framework that constructs explicit conflict scenarios and compares model preferences across different representation types. The framework enables controlled observation of model choices, reducing confounding factors through symmetric design. This approach provides a unified method for analyzing LLM behavior under specification conflicts.  
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - The authors propose a symmetry‑based framework that systematically constructs conflicting specifications and measures model preferences without bias from random noise.  
 - Experimental results reveal a consistent ordering of preference: Formal ≈ Naturalized Formal > Pure Natural Language > Input–Output Examples, indicating systematic rather than stochastic behavior.  

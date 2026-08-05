@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes an open‑set visual text forensics detector that localizes tampering by estimating the local restoration cost required to align a query image with authentic visual‑text statistics rather than learning forgery‑specific decision boundaries. It introduces Sparse‑Constraint Rectified Flow (SC‑RF), a detector‑oriented adaptation of flow matching, and uses self‑supervised artifact injection to mitigate data scarcity while preserving high‑frequency forensic traces via a pixel‑space forensic DiT. The method achieves state‑of‑the‑art performance on three benchmarks, surpassing the runner‑up by 3.2 % in F1 score and 4.8 % in IoU, and demonstrates strong zero‑shot capability on unseen editing patterns.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptation_summary.md|Summary: 2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptationforEvol.md]] — 4 title terms overlap; 5 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - Sparse‑Constraint Rectified Flow (SC‑RF) is introduced as a detector‑oriented flow matching framework for sparse anomaly localization.  
 - Self‑supervised Artifact Injection is employed to alleviate data scarcity and improve generalization.  

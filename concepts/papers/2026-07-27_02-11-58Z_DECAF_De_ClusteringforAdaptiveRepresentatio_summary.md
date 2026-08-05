@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Machine unlearning is essential for preserving privacy and enabling continual deployment of models by removing the influence of specific training data on demand. Existing unlearning methods are vulnerable to a simple clustering attack that can recover class structure without supervision, undermining reliability in real‑world settings. To address this limitation, we introduce DECAF (DE‑Clustering for Adaptive Forgetting), a post‑hoc technique that operates solely on the forget set and deliberately breaks the residual feature‑space clusters associated with those examples. Our approach improves both robustness and efficiency compared to prior baselines.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_15-12-58Z_AlphaG_OPD_Reliability_GatedSiblingCounterf_20260804_0015_summary.md|Summary: 2026-08-02_15-12-58Z_AlphaG_OPD_Reliability_GatedSiblingCounterfactuals.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-07-29_18-23-58Z_Compression_BasedBehavioralSimilarityforOpe_summary.md|Summary: 2026-07-29_18-23-58Z_Compression_BasedBehavioralSimilarityforOpen_World.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.06
+
 ## Key Contributions  
 - [Finding 1] Many unlearning methods are susceptible to clustering attacks that recover class structure unsupervised, limiting their suitability for continual deployment where removal requests must be handled reliably on demand.  
 - [Finding 2] DECAF is a post‑hoc method that operates only on the forget set and disrupts cluster structures using input noise, confidence suppression, and entropy‑based output diversification to break residual feature‑space structure.  

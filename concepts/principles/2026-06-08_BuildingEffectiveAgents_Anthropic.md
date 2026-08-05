@@ -16,6 +16,10 @@ sources:
 
 Anthropic's engineering team shares lessons from working with dozens of teams building LLM agents. The core thesis: **simple, composable patterns beat complex frameworks**. The most successful implementations use basic building blocks rather than specialized libraries.
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-lesson-02-harness-implementing-an-agent.md|AI Agents Lesson 2 - The Harness - Implementing an Agent]] — 2 title terms overlap, shared tags: agents, harness, 2 topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|AI Agents Lesson 4 - Planning, Memory, and State]] — 1 title term overlap, shared tags: agents, 3 topic terms overlap
 ## Key Principles
 
 1. **Start simple** -- optimize single LLM calls with retrieval and in-context examples before adding multi-step agentic systems

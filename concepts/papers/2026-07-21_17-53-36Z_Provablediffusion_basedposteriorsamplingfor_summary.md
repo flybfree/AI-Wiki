@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **\pddim**, a provably consistent diffusion‑based posterior sampler for linear inverse problems that builds on the DDIM algorithm while preserving its efficiency. By applying lightweight, coordinate‑wise modifications to standard DDIM updates and explicitly incorporating the measurement model, \pddim separates sampling along each singular direction of the operator, using either the learned diffusion prior or a calibrated measurement predictor depending on the signal‑to‑noise ratio (SNR). The method is theoretically shown to converge to the Bayesian posterior conditioned on the measurements. This work bridges the gap between empirical success and rigorous guarantees in diffusion samplers for noisy inverse problems.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifo_summary.md|Summary: 2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsin_summary.md|Summary: 2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsinReinfor.md]] — 3 title terms overlap; 1 backlink; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A simple, efficient \pddim algorithm that solves linear inverse problems with diffusion priors using a DDIM‑type sampler.  
 - [Finding 2] Provable posterior consistency achieved by performing separate sampling along singular directions of the measurement operator and switching to a measurement‑based predictor when SNR is high.  

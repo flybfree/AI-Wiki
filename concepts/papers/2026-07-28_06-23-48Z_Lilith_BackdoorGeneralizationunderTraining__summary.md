@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses a critical blind spot in backdoor research: whether a malicious behavior implanted during training can persist when the trigger used at inference time belongs to a different family that was never seen during training. To explore this, the authors introduce **Lilith**, a black‑box framework that creates a compact vulnerability using a single training anchor and then builds an inference‑only trigger family that preserves the induced representation geometry. Their analysis shows that such generalization is possible under mild conditions, offering a new lens on backdoor robustness beyond exact‑trigger studies.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Lilith can induce a persistent backdoor with only one training anchor and then generalize it to an entire inference‑time trigger family without exposing the victim’s data.  
 - [Finding 2] The generalization mechanism is captured by two theoretical metrics—anchor clearance (how much the original vulnerability persists) and family reach (the size of the trigger set that can be activated).  

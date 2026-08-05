@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 PlatformBid introduces a unified benchmark that evaluates auto‑bidding algorithms from the perspective of an integrated advertising platform rather than solely from the advertiser’s conversion‑maximizing view. The work defines three realistic competition scenarios—homogeneous, heterogeneous, and promotional—and systematically tests classical control methods, reinforcement‑learning approaches, generative techniques, plus a novel flow‑matching method called BidFlow. By measuring improvements in target cost on Kuaishou, the authors demonstrate that platform‑centric objectives can yield tangible gains while preserving offline‑online consistency.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: PlatformBid is the first comprehensive benchmark that captures SSP, DSP, and Ad Exchange dynamics within a single unified ad ecosystem.  
 - Finding 2: The benchmark introduces three distinct competition settings—homogeneous, heterogeneous, and promotional—to reflect real‑world platform strategies.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a federated de‑confounding framework for spatio‑temporal forecasting that treats each client as a distinct causal environment rather than merely a source of heterogeneous data. By exploiting the complementary observations across clients, the authors aim to learn a global prototype codebook that captures shared environmental regimes while preserving client‑specific adaptations. This approach moves beyond personalized optimization toward a principled exploitation of environmental diversity. The framework is theoretically grounded with a bound on de‑confounding error that scales linearly with averaged confounding strength.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 18 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A federated de‑confounding paradigm that models clients as separate causal environments and leverages their heterogeneity to improve generalization under environmental shifts.  
 - [Finding 2] Derivation of a theoretical bound on the de‑confounding error that is linearly controlled by the average confounding strength across clients, providing guarantees for communication‑efficient training.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles three coupled failures in static temporal data marketplaces: stale hybrid index shortcuts degrade recall as edges evolve, stationary Shapley pricing misattributes value after distribution shifts, and uncoordinated agents over‑consume a shared differential‑privacy budget. To address these issues, CHRONOS introduces a unified three‑layer architecture that treats each problem explicitly while separating public and private components. Layer one applies neural‑ODE temporal decay to shortcut edges, delivering per‑query recall loss bounds of Big‑O(Pq λ δt) with a monotone envelope tightening the bound by 1.8–3.2× observed loss. Layer two conditions Shapley valuation on detected changepoints and provides finite‑sample error guarantees under noise. Layer three employs EXP3‑IX to achieve regret of O(√T log T) while enforcing ε and δ differential privacy via moments accounting.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentr_summary.md|Summary: 2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Neural‑ODE temporal decay for shortcut edges yields a per‑query recall loss bound of Big‑O(Pq λ δt) with a monotone envelope that reduces looseness to 1.8–3.2× the observed loss.  
 - [Finding 2] Shapley valuation is conditioned on detected changepoints, providing finite‑sample error guarantees despite noisy data distributions.  

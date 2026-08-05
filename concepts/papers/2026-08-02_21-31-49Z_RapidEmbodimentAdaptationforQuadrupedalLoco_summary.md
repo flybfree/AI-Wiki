@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes an online embodiment adaptation framework that enables a quadrupedal robot to quickly infer hardware changes and adjust its locomotion policy accordingly. By training a generalist policy under random embodiment conditions and coupling it with a lightweight adaptation module, the system can detect joint‑range constraints or trunk‑mass variations within half a second of interaction. The approach closes the loop between sensed physical states and control commands, allowing the robot to maintain stable gait even when its hardware degrades. This work bridges the gap between learning‑based policies that are brittle to hardware shifts and conventional adaptation methods that require offline retraining.
 
+## Semantic links
+- [[concepts/papers/2026-08-03_15-53-49Z_Training_FreeversusTraining_BasedIntentClas_summary.md|Summary: 2026-08-03_15-53-49Z_Training_FreeversusTraining_BasedIntentClassificat.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-08-03_15-53-49Z_Training_FreeversusTraining_BasedIntentClas_20260804_0044_summary.md|Summary: 2026-08-03_15-53-49Z_Training_FreeversusTraining_BasedIntentClassificat.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.07
+
 ## Key Contributions  
 - **Finding 1:** An online embodiment identification module can estimate joint‑range degradation or body‑mass changes in under half a second using only short interaction histories.  
 - **Finding 2:** The framework enables closed‑loop control where the policy is conditioned on inferred hardware parameters rather than raw sensor data, improving robustness.  

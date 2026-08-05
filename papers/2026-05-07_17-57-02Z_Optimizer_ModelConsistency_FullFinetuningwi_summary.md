@@ -16,6 +16,11 @@ Model: None
 ## Summary  
 This paper investigates the phenomenon of optimizer-model consistency, which refers to the observation that using the same optimizer throughout both pretraining and supervised finetuning (SFT) leads to improved learning-forgetting tradeoffs compared to switching optimizers or using parameter-efficient methods like LoRA. The authors demonstrate that this consistency reduces model forgetting while maintaining or enhancing task performance, suggesting a deeper connection between optimization dynamics and knowledge retention in large language models. Their work bridges practical training strategies with theoretical insights into how optimizer behavior shapes model landscapes and learning trajectories.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinP_summary.md|Summary: 2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 16 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] Optimizers exert regularization effects on activations during pretraining, creating distinct model landscapes that influence subsequent fine-tuning stability.  
 - [Finding 2] The weight update patterns induced by a consistent optimizer can minimize forgetting of pretrained knowledge in SFT, as the optimization trajectory aligns with the existing model structure.  

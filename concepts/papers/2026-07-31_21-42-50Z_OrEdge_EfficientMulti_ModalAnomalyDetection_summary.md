@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes Orthogonal-Edge (OrEdge), a lightweight framework for real-time multi‑modal anomaly detection in distributed software systems, using orthogonal‑domain temporal representations to replace costly attention or graph models. It jointly processes logs, metrics, and traces to detect abnormal behavior while minimizing computational load and model size.
 
+## Semantic links
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 6 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] OrEdge reduces the reconstruction model size to at most 9.6K parameters, compared with 20K–143K in existing methods.  
 - [Finding 2] It achieves sub‑second inference on Raspberry Pi edge devices, reducing latency by over an order of magnitude.  

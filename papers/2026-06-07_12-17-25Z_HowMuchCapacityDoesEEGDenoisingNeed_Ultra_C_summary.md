@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates how much capacity EEG denoising networks actually need, showing that reconstruction metrics saturate long before large models are used and do not predict downstream utility. It systematically varies model size while fixing architecture, loss, data split, and training recipe to isolate capacity effects. Using a minimal depthwise‑separable U‑Net across a wide range of parameters, they demonstrate saturation at 3–6.5 K parameters. Downstream motor‑imagery classification shows a metric‑utility gap: reconstruction‑optimized denoising degrades performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarc_summary.md|Summary: 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Reconstruction metrics saturate by 3–6.5 K parameters; per log10‑parameter gain ≤0.015.  
 - Finding 2: Ultra‑compact models (33–46 KB, 1.27–2.61 M FLOPs/segment) achieve comparable utility to large baselines.  

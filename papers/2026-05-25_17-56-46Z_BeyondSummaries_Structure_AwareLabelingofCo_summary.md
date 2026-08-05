@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a taxonomy‑aware labeling system for code changes that leverages large language models to move beyond simple summarization toward capturing structural attributes of patches. It introduces a two‑stage pipeline: the first stage assigns coarse labels to each diff hunk, while the second refines those labels with relational metadata such as rename propagation and type changes. The approach is built on few‑shot prompting, making it language‑agnostic and customizable without the engineering overhead of traditional static‑analysis tools.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_Usi_summary.md|Summary: 2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The study demonstrates that LLMs can achieve high recall (up to 84 %) and precision (81 %) on manually curated code patches.  
 - [Finding 2] The two‑stage pipeline captures structural relationships such as rename propagation and type changes, providing richer metadata than single‑hunk labeling.  

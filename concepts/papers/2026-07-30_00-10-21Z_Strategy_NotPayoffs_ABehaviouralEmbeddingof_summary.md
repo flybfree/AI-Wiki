@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper aims to understand how fine‑tuning large language models (LLMs) on different normal‑form games changes their strategic reasoning abilities and to develop an embedding that captures the behavioural demands of those games. It proposes a lightweight two‑feature embedding based on Nash equilibrium entropy and response sensitivity, showing it outperforms existing structural embeddings in predicting performance transfer. The contribution is both theoretical—linking decision‑making structure to capability—and practical—a generalizable metric for game‑based training.  
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Their behavioural embedding reliably predicts performance changes across held‑out games while existing embeddings fail.  
 - [Finding 2] The embedding captures the entropy of the Nash equilibrium and the sensitivity of optimal responses, which are behavioural rather than payoff‑driven.  

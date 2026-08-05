@@ -15,6 +15,11 @@ Source: 2026-05-06_17-42-01Z_MRI_Eval_ATieredBenchmarkforEvaluatingLLMPerforman.
 ## Summary
 This paper introduces MRI-Eval, a tiered benchmark for assessing LLMs on MRI physics and GE scanner operations knowledge. Unlike prior multiple-choice benchmarks that are already near-saturated by top models, MRI-Eval adds stem-only and primed diagnostic conditions to probe free-text recall and resistance to misleading prompts. The benchmark spans 1,365 scored items across nine categories and three difficulty tiers.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 1 title term overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Takeaways
 - Multiple-choice accuracy can overstate real operational competence.
 - Vendor-specific scanner knowledge is a major weakness even for frontier models.

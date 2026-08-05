@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses anonymous multi‑agent path finding (MAPF) by reformulating it as a multi‑marginal optimal transport (MMOT) problem with a Markovian structure. It proves that the exponential‑size MMOT collapses to a polynomial‑time linear program under certain conditions, yielding integral, non‑overlapping transports. To handle large instances efficiently, the authors introduce Schrödinger bridges—a probabilistic framework that reduces the MMOT to an entropic regularized problem solvable via iterative Sinkhorn algorithms. This hybrid approach delivers near‑optimal solutions at a dramatically lower computational cost.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The MAPF problem is cast as a special class of multi‑marginal optimal transport that admits a linear‑programming formulation, eliminating exponential complexity.  
 - [Finding 2] Under anonymous and Markovian assumptions the LP is totally unimodular, guaranteeing integral, non‑overlapping space‑time transports.  

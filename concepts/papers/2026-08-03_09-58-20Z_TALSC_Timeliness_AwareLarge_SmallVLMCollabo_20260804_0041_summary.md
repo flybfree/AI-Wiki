@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of integrating large vision‑language models (LVLMs) with small on‑board VLMs in autonomous driving, focusing on timeliness. It proposes a Timeliness‑Aware Large‑Small VLM Collaboration (TALSC) framework that models Age of Information and schedules tasks accordingly. The contribution is a general timeliness metric and an online scheduling algorithm using Lyapunov drift‑plus‑estimated‑penalty for guaranteed performance. This work is motivated by the need for safety‑critical real‑time decisions.  
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - Derivation of a general timeliness metric linking Age of Information, token length, and task performance.  
 - Design of a Lyapunov drift‑plus‑estimated‑penalty scheduling algorithm that guarantees timeliness despite unknown output tokens.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses a critical limitation in ontology-mediated query answering (OMQA) by challenging the long-standing dichotomy between first-order rewritability and polynomial-time data complexity. The authors identify that while DL-Lite offers efficient query rewriting, it restricts expressive power to first-order logic, which is insufficient for modern graph-structured data queries that are typically NL-complete. To bridge this gap, the researchers introduce a novel Horn extension of DL-Lite called ELbotpreceq, which strictly extends the core DL-Lite framework while maintaining manageable computational complexity. By introducing a stratification mechanism for the ELI description logic, the work enables reasoning over reachability axioms and restricted conjunctions within the complexity class NL, thereby aligning OMQA capabilities with the requirements of contemporary graph query standards like GQL and SQL/PGQ.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLon_summary.md|Summary: 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of ELbotpreceq, a new description logic that strictly extends DL-Lite and supports both reachability axioms and restricted conjunctions while ensuring NL data complexity.
 - The development of a novel stratification mechanism for ELI that effectively controls the interaction between logical conjunction and recursive definitions, preventing the complexity explosion typically associated with such features.

@@ -15,6 +15,11 @@ Source: 2026-04-22_17-49-00Z_ClosingtheDomainGapinBiomedicalImagingbyIn_Context.
 ## Summary
 This paper addresses batch effects in biomedical imaging, where technical variation across experimental batches degrades reproducibility and causes deep learning models to fail on new batches. The authors propose CS-ARM-BN, a meta-learning adaptation method that uses negative control samples as in-context reference data for stabilization. On MoA classification with the JUMP-CP dataset, the method is reported to close the domain gap better than standard ResNets and foundation models, especially under strong shifts such as cross-lab data.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 3 title terms overlap; shared tags: ai; 5 backlinks
+
 ## Key Takeaways
 - Batch effects are presented as the main obstacle to robust biomedical imaging models.
 - Negative control samples are used as stable context for adaptation.

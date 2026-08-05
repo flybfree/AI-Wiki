@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The paper addresses the limitation of static MQM rubrics in fine‑grained translation quality evaluation for LLMs, where error complexity varies per case. It proposes a case‑specific dynamic rubric framework that adapts MQM evaluation spaces to each translation instance while staying within the predefined taxonomy. This approach reduces false positives and improves error localization accuracy. Experiments show consistent gains in MCC across model scales.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.14
+- [[concepts/papers/2026-07-21_11-18-16Z_DisentanglingCurriculumLearninginNLP_Toward_summary.md|Summary: 2026-07-21_11-18-16Z_DisentanglingCurriculumLearninginNLP_TowardsaUnify.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - Finding 1: Static MQM rubrics produce suboptimal coverage and high false positives due to mismatched granularity.  
 - Finding 2: Larger MQM subtype spaces improve error coverage but increase noise, highlighting trade‑offs between specificity and precision.  

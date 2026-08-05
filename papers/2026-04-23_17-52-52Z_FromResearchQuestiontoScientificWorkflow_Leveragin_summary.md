@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper proposes an agentic architecture that turns research questions into reproducible scientific workflows. It separates semantic intent extraction, deterministic workflow generation, and domain knowledge encoded as “Skills” documents, reducing the need for manual translation by scientists.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_summary.md|Summary: 2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Uses an LLM only for intent extraction, not for final workflow construction.
 - Domain experts provide markdown Skills with mappings and constraints.

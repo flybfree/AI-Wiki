@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper addresses a critical inefficiency in Large Language Model (LLM) serving systems, specifically within agentic workflows where prompt caching is prevalent but tokenization remains a bottleneck. The authors identify that despite high KV-cache hit rates, the necessity to re-tokenize full request texts on every agent call incurs significant latency, particularly when agents append small amounts of text to long transcripts. To solve this, they introduce TokTier, a stateful tokenization service designed to provide exact consistency with reference tokenizers while enabling efficient incremental updates for session continuations. By decoupling the tokenization process from the standard front-end logic and utilizing GPU acceleration alongside stable-boundary checks, TokTier significantly reduces the time-to-first-token (TTFT) and increases throughput for agentic applications.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_17-56-30Z_TokTier_ExactStatefulCPU_GPUTokenizationfor_summary.md|Summary: 2026-07-31_17-56-30Z_TokTier_ExactStatefulCPU_GPUTokenizationforAgentic.md]] — 4 title terms overlap; 1 backlink; 21 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 3 title terms overlap; 11 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions
 - **Exact Stateful Tokenization Contract**: The authors propose a novel service architecture that guarantees emitted token IDs are identical to full reference tokenization, solving the boundary shift problem inherent in incremental tokenization of long sequences.
 - **Hybrid Incremental Repair Mechanism**: A unique method for handling session continuations that re-tokenizes a small window around appended text and splices results only after verifying stable boundaries, falling back to full processing only when necessary.

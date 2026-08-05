@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether the rich sequence representations learned by Evo 2 can be used to detect biosecurity‑relevant signals without fine‑tuning the model, focusing on antimicrobial resistance (AMR) and bacterial virulence. By training lightweight linear and attention probes on frozen layer‑26 activations across metagenomic test sets, they show that these embeddings capture strong AMR discrimination while also revealing weaker virulence cues. The approach works even with simulated short reads, enabling rapid first‑pass screening before costly assembly. This work bridges AI model capabilities to practical biosurveillance pipelines.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Linear probes on Evo 2 layer‑26 activations achieve a region‑level ROC‑AUC of 0.888 for AMR detection, rising to 0.977 with a single‑head attention probe.  
 - [Finding 2] The probes resolve finer‑grained AMR drug‑class subcategories and separate them from unrelated functional genes, indicating signal beyond generic gene status.  

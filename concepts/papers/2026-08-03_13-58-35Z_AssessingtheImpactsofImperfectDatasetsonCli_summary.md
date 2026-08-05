@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how imperfections in client datasets—such as non‑independent and identically distributed (non‑IID) data, noisy labels, and unfair selection criteria—affect federated learning performance. It aims to quantify these impacts on model accuracy and convergence time while also examining the trade‑off between mitigating low‑quality clients and preserving overall learning quality. The authors propose a privacy‑preserving scoring mechanism that evaluates each client’s contribution without exposing raw data, thereby enabling fairer client selection. This work bridges theoretical analysis with practical experiments to guide robust FL system design.  
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 11 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Non‑IID or noisy datasets cause measurable drops in model accuracy and increase convergence latency compared to clean, balanced clients.  
 - Finding 2: Unbiased client selection can improve training efficiency but may introduce selection bias that harms generalization if high‑quality data are excluded.  

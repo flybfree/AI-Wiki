@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates how single‑channel speaker distance estimation models depend on the early and late reverberation components of a room impulse response (RIR). By decomposing simulated RIRs into four variants—full, direct‑only, no‑late, and no‑early—the authors quantify which acoustic cues are exploited and how performance varies across calibration conditions. Their contribution is a systematic analysis that links early reflection energy to estimation accuracy and demonstrates the decisive role of time calibration in achieving centimeter‑level error.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapa_summary.md|Summary: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNe_summary.md|Summary: 2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Without time calibration, mean absolute error (MAE) rises to 1.29 m and the model extracts reverberation‑based cues, with early reflections being the most informative component.  
 - [Finding 2] Estimation accuracy improves when early energy is strong but degrades in highly reverberant environments where later reverberation dominates.  

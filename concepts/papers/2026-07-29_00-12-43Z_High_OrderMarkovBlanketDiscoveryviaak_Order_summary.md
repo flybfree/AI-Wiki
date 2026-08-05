@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of learning graphical Markov blankets when the faithfulness assumption—linking conditional independencies to graph structure—is violated by higher‑order dependencies such as XOR or parity relations. It proposes a “k‑order” relaxation that captures these parity‑type relationships among k + 2 variables, enabling blind discovery without explicit feature knowledge. A novel algorithm called kOMB (k‑order Markov Blanket) is built to implement this relaxed notion of faithfulness. Experiments demonstrate that kOMB can recover the true MB both from genuine and spurious dependencies.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduce a k‑order faithfulness assumption that relaxes the original faithfulness condition to allow parity relations among any k + 2 variables.  
 - [Finding 2] Develop the algorithmic framework kOMB, which computes blind MB using this relaxed independence structure.  

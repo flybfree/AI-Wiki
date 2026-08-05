@@ -16,6 +16,11 @@ Model: None
 ## Summary
 FedSIR is a multi-stage federated learning framework for handling noisy labels by using the spectral structure of client feature representations. It identifies clean versus noisy clients via spectral consistency, uses clean clients as references to help relabel corrupted samples on noisy clients, and adds a noise-aware training pipeline with logit-adjusted loss, knowledge distillation, and distance-aware aggregation. The paper reports consistent gains over prior methods on standard FL benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 2 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 1 title term overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Takeaways
 - Uses spectral consistency of class-wise feature subspaces to distinguish clean and noisy clients with low communication overhead.
 - Relabels noisy samples using dominant class directions and residual subspaces from clean-client spectral references.

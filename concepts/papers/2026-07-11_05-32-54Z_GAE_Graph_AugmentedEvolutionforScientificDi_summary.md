@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors propose GAE (Graph‑Augmented Evolution), a reinforcement‑optimized evolutionary framework that tackles three longstanding bottlenecks in LLM‑guided scientific discovery: blind parent selection, sparse whole‑program evaluation rewards, and static mutation operators. By replacing random sampling with a directed policy guided by graph embeddings, GAE enables the search to choose optimal parents and mutation directions based on accumulated reward history. The framework also incorporates an online group‑normalized reinforcement‑learning‑based policy optimization (GRPO) loop that continuously refines the LLM’s mutation operator at test time using real‑time rewards. This integrated architecture allows symbolic regression of complex nonlinear oscillator systems to produce closed‑form physical equations with performance comparable to or exceeding static LLM baselines and state‑of‑the‑art out‑of‑distribution results.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** A relational graph neural network (GNN) parses programs into typed computation graphs, yielding structure‑aware embeddings that capture program semantics.  
 - **Finding 2:** An RL‑optimized meta‑controller replaces blind evolutionary sampling with a directed policy that selects parents and mutation directions based on historical reward signals.  

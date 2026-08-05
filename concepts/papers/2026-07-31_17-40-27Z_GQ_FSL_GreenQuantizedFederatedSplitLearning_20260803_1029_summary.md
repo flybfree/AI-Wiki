@@ -8,6 +8,11 @@ Model: None
 ## Summary
 The paper addresses the critical challenge of deploying deep neural networks on resource-constrained wireless edge devices by introducing GQ-FSL, a novel Green Quantized Federated Split Learning framework. This approach combines split learning with stochastic quantization to significantly reduce the energy consumption associated with both local computation and wireless data transmission. By allowing asymmetric precision levels for client-side and server-side submodels, GQ-FSL effectively decouples device energy constraints from global model convergence quality. The authors demonstrate that this method achieves superior energy efficiency compared to existing quantized federated learning and full-precision split learning baselines while maintaining strict accuracy targets.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 14 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions
 - **Asymmetric Precision Framework**: The introduction of a mechanism supporting different precision levels for client and server submodels, which allows the system to optimize energy usage on devices without sacrificing global convergence performance.
 - **Theoretical Energy and Convergence Analysis**: The development of parameterized energy models for the split architecture and the derivation of a theoretical convergence bound under statistically heterogeneous data conditions, providing a rigorous mathematical foundation for the proposed method.

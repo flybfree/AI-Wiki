@@ -15,6 +15,11 @@ Source: 2026-05-06_17-57-31Z_ImplicitRepresentationsofGrammaticalityinLanguageM.
 ## Summary
 This paper asks whether language models encode grammaticality in a way that is distinct from simple string probability. The authors train a linear probe on grammatical sentences and synthetic ungrammatical perturbations, then evaluate it on human-curated grammaticality benchmarks and cross-lingual tests. The probe generalizes well to grammaticality judgments and often outperforms LM probability-based scoring, while performing worse on semantic plausibility tasks where both sentences are grammatical.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_Head_summary.md|Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Takeaways
 - Hidden states can support a grammaticality signal beyond next-token likelihood.
 - Linear probes can outperform raw LM probabilities on grammaticality judgments.

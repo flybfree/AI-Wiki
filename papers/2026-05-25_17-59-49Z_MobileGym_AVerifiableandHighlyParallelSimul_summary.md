@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 MobileGym is a browser‑hosted, lightweight simulation platform that enables everyday mobile applications to run fully controllable GUI agent experiments while preserving interactivity fidelity without replicating proprietary backends. Its core contributions are (1) deterministic outcome verification via structured JSON state and a single programmatic judging mechanism, (2) scalable online reinforcement learning through low‑cost parallel rollouts hosted on a single server, and (3) a comprehensive benchmark suite that couples simulation with real‑device execution to quantify transferability. Together these advances make mobile GUI agent research reproducible, verifiable, and computationally efficient.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 4 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTool_summary.md|Summary: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] MobileGym provides deterministic outcome signals by representing the full environment state as structured JSON, enabling precise, programmatic judging that eliminates free‑text matching failures.  
 - [Finding 2] The platform supports hundreds of parallel instances with ~400 MB memory each and a ~3 s cold start, allowing scalable online RL via low‑cost forked environments.  

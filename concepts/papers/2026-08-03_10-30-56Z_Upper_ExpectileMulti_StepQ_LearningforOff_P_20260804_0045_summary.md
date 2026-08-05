@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Off‑policy reinforcement learning suffers from a pessimistic bias that grows with the planning horizon because multi‑step returns couple each decision to suboptimal logged actions. We introduce Expectile $n$‑step Q‑learning (ENQ), which replaces the symmetric $n$‑step temporal‑difference loss with an asymmetric expectile loss parameterized by a single hyperparameter $\tau$. The proposed operator is proven to be a $\gamma^{n}$‑contraction, guaranteeing that bias vanishes at the optimal action‑value function for covered‑in‑support pairs under deterministic dynamics. In stochastic settings we obtain horizon‑independent two‑sided bounds on the bias. Our method therefore offers a theoretically sound alternative to standard $n$‑step Q‑learning while preserving the speed of multi‑step returns.
 
+## Semantic links
+- [[concepts/papers/2026-07-20_14-10-56Z_SAGE_Subgoal_ConditionedActionGenerationfor_summary.md|Summary: 2026-07-20_14-10-56Z_SAGE_Subgoal_ConditionedActionGenerationforLatentW.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-07-20_16-27-56Z_IsaacSim_to_Real_ReinforcementLearningbased_summary.md|Summary: 2026-07-20_16-27-56Z_IsaacSim_to_Real_ReinforcementLearningbasedLocomot.md]] — 3 title terms overlap; 1 backlink; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_13-17-49Z_MEGRAG_Multi_GranularEvidenceGraphsforAnswe_summary.md|Summary: 2026-08-03_13-17-49Z_MEGRAG_Multi_GranularEvidenceGraphsforAnswer_Aware.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.07
+
 ## Key Contributions  
 - [Finding 1] The Expectile $n$‑step Q‑learning (ENQ) operator provides a $\gamma^{n}$‑contraction, reducing bias with horizon.  
 - [Finding 2] Under deterministic dynamics, the bias vanishes at the optimal action‑value function for covered‑in‑support pairs; the fixed point satisfies the separation‑$n$ instance and its multiples of the lower‑bound inequality used by Long‑Horizon Q‑learning (LQL).  

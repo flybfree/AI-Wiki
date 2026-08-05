@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how prompt‑design decisions—specifically the format of instructions, the number of simultaneous rules a system can carry, and the amount of context supplied to a large language model (LLM)—affect instruction adherence and hallucination. It conducts controlled experiments across five state‑of‑the‑art models using a deterministic synthetic corpus (“Book of Veyra”) to quantify these effects in a reproducible way. The study shows that as the rule count grows, correct responses collapse to zero regardless of format or placement, while recall degrades sharply near model context limits and refusal rates spike. These findings highlight that prompt engineering is essential for reliable LLM behavior at scale.
 
+## Semantic links
+- [[concepts/prompting/prompting-hub.md|Prompting and Instruction Design Hub]] — 3 title terms overlap; 134 backlinks; 7 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 5 title terms overlap; 3 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Instruction‑following decays to zero by N = 80 rules across all formats (markdown, plain text, prose, tabular) and placement strategies.  
 - [Finding 2] Recall remains near ceiling up to ~64–128 k tokens, then plummets; one model’s accuracy spread reaches 48 points at 128 k tokens, while fabrication never occurs (0/5,760 probes) and sycophancy stays ≤ 8.3 %.  

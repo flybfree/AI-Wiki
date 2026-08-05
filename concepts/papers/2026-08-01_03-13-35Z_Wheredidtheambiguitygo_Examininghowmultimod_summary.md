@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how large multimodal foundation models handle polysemous (multiple‑meaning) words when the meaning is not fixed by surrounding context, a problem that remains largely unexplored beyond text. By comparing 17 text‑to‑image and 15 text‑generation models across a set of common polysemous terms such as “bank” or “palm,” the authors quantify the diversity of meanings each model produces in both modalities. Their analysis reveals a pronounced multimodal gap: generated images exhibit far lower semantic variability than sentences, while human intuition predicts even higher diversity. Moreover, when models are asked to predict how often they would generate each sense, their predictions diverge from actual output distributions, indicating a misalignment between internal reasoning and observable behavior.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 11 backlinks; 14 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A consistent multimodal gap exists across all model families: normalized entropy of image outputs is ~0.10 versus ~0.25 for sentence outputs, both below the human‑imagined entropy of ~0.47.  
 - [Finding 2] Text‑to‑image models generate far fewer distinct senses than their textual counterparts, suggesting a loss of polysemy in visual representation.  

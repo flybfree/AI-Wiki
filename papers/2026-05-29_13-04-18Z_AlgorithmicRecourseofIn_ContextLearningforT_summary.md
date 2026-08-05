@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper tackles the challenge of providing post‑hoc recourse for decisions made by large language models that perform tabular prediction via in‑context learning (ICL). While ICL enables zero‑shot tabular tasks, its black‑box nature hampers accountability and fairness. The authors first prove that recourse is mathematically well‑defined and bounded under ICL, then show that as the context size grows the recourse converges to classical solutions. To operationalize this insight they introduce Adaptive Subspace Recourse for In‑Context Learning (ASR‑ICL), a zeroth‑order framework that generates sparse, actionable explanations with minimal additional queries.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal__summary.md|Summary: 2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A rigorous theoretical analysis demonstrates that recourse under ICL remains well‑defined and bounded, establishing a foundation for trustworthy post‑hoc explanations.  
 - [Finding 2] The study proves that increasing the context size drives recourse toward classical tabular solutions, offering a convergence guarantee that justifies larger contexts in practice.  

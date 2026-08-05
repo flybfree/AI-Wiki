@@ -16,6 +16,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://github.com/ggml-org/llama.cpp/pull/24423)
+
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9 — SmolAgents Deep Dive: Code-First Agents from Hugging Face]] — 1 title term overlap, 6 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson8_DIYArchitecture.md|Lesson 8 — Putting It All Together: DIY Architecture]] — 1 title term overlap, 6 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson7_Orchestration.md|Lesson 7 — Orchestration & UI: Making It Usable]] — 1 title term overlap, 6 topic terms overlap, same area: home
+
 ## Concept: Why Diffusion for Text?
 
 Traditional LLMs act like typewriters — generating one token at a time, left to right. This is efficient in cloud servers that batch thousands of requests, but wasteful locally: a single user's GPU sits idle waiting for each "keystroke."

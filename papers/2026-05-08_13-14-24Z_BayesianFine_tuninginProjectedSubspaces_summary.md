@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the need for uncertainty‑aware fine‑tuning of large language models while preserving the efficiency gains of low‑rank adaptation (LoRA). It proposes a Bayesian fine‑tuning scheme that operates on projected weight subspaces, enabling accurate calibration without exploding the number of trainable parameters. The authors demonstrate that uncertainty can be captured in a very low‑dimensional representation and that the resulting weight covariances are themselves low‑rank. This approach yields models that remain computationally cheap yet provide reliable confidence estimates.  
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTrivi_summary.md|Summary: 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPe_summary.md|Summary: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Effective uncertainty quantification is possible when the full weight space is projected onto a low‑dimensional manifold, allowing Bayesian inference with few additional parameters.  
 - Finding 2: The covariance structure of the projected weights exhibits intrinsic low rank, which simplifies the posterior and reduces training instability.  

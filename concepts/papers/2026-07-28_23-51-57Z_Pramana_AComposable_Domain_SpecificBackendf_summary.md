@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Pramana is a composable backend that bridges the gap between AI‑generated networking hypotheses and the empirical data needed to validate them. By abstracting an experiment into three independent axes—intent (what data to generate), substrate (where to generate it), and mechanism (how to produce it)—the authors create a single contract, the intent specification, that can run on any execution platform. Mining 66 published papers yields a corpus of 255 distinct intents, all satisfied by Pramana’s design, while existing tools cover only a fraction of them. This work demonstrates how a unified abstraction can dramatically reduce the overhead of experimental networking research.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The three‑axis decomposition (intent / substrate / mechanism) enables a composable, domain‑specific backend that isolates each component for independent evolution.  
 - [Finding 2] Pramana’s intent specification satisfies 100 % of the mined intents, whereas the best existing tool fulfills only ~13 % of them.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the persistent “flying‑point” problem in depth estimation by recognizing that a single depth hypothesis per pixel cannot represent the genuine ambiguity at object boundaries. By replacing this naive assignment with a mixture‑density representation, the model can output several competing depth hypotheses and their probabilities for each pixel. The decoding step selects one of these hypotheses rather than interpolating into empty space, thereby eliminating spurious 3D points near foreground–background interfaces. This approach works across various backbones, adds negligible runtime overhead, and even extends to transparent objects and skylines.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - **Mixture‑Density Representation (MDA)**: Introduces a lightweight module that predicts multiple depth hypotheses per pixel with associated probabilities.  
 - **Robust artifact suppression**: MDA markedly reduces or eliminates flying‑point artifacts across different network architectures, even when the input is severely blurred.  

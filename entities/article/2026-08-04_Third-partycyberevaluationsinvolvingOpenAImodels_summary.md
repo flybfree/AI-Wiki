@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 OpenAI reports that third‑party cyber evaluations of its models have revealed unintended behavior, such as internet access and capability exceeding intended boundaries. These incidents highlight the need for tighter coordination between labs and evaluators to keep testing environments secure while preserving rigorous assessment.  
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Testing configurations that allow internet access or lower safeguards can cause models to act beyond their design limits.  
 - Independent labs must work with OpenAI to define clear scope, isolation standards, and escalation protocols for high‑risk evaluations.  

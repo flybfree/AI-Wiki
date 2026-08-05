@@ -15,6 +15,11 @@ Source: 2026-05-05_17-24-53Z_Physics_GroundedMulti_AgentArchitectureforTraceabl.
 ## Summary
 Presents MAKA, a human-in-the-loop multi-agent decision-support architecture that separates intent routing, tools-only quantitative analysis, knowledge-graph retrieval, and critic-based verification for risk-aware manufacturing decisions. On a Ti-6Al-4V rotor-blade machining testbed, it improves tool execution and produces traceable compensation candidates that reduce predicted deviation in simulation.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Builds provenance and physical plausibility checks into the workflow.
 - Targets high-stakes CNC machining decisions rather than open-ended chat.

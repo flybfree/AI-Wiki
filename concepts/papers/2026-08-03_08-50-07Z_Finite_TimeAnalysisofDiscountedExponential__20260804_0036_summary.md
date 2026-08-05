@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of achieving fast convergence for model‑free reinforcement learning under discounted exponential utility, a risk‑sensitive objective that is inherently nonlinear. While recent work introduced Bellman‑compatible surrogates and fixed‑point algorithms with only asymptotic guarantees, this study establishes finite‑time rates of \(\tilde{O}(1/\sqrt{n})\) for two such algorithms when sampling is asynchronous in a Markovian environment. The authors also resolve the mismatch between update dynamics and contraction geometry by exploiting operator properties to obtain pseudo‑contractions, using Moreau envelopes and Polyak–Ruppert averaging with parameter‑free stepsizes. These results constitute the first finite‑time convergence proofs for model‑free discounted exponential‑utility RL.
 
+## Semantic links
+- [[concepts/papers/2026-07-30_07-47-07Z_Learning_AugmentedandRandomizedAlgorithmsfo_summary.md|Summary: 2026-07-30_07-47-07Z_Learning_AugmentedandRandomizedAlgorithmsforLineAg.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-07-31_01-57-07Z_FairDiffuseVQVAE_Sampling_TimeFairnessinTab_20260803_0122_summary.md|Summary: 2026-07-31_01-57-07Z_FairDiffuseVQVAE_Sampling_TimeFairnessinTabularDif.md]] — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-07-31_01-57-07Z_FairDiffuseVQVAE_Sampling_TimeFairnessinTab_summary.md|Summary: 2026-07-31_01-57-07Z_FairDiffuseVQVAE_Sampling_TimeFairnessinTabularDif.md]] — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - [Finding 1] The authors prove \(\tilde{O}(1/\sqrt{n})\) convergence rates for both the one‑timescale and two‑timescale algorithms under asynchronous Markovian sampling.  
 - [Finding 2] They derive these rates using parameter‑free stepsizes, eliminating dependence on hyperparameters that could otherwise limit performance.  

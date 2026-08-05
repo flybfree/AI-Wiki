@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how acoustic biomarkers for Alzheimer’s disease differ across languages and genders, focusing on whether diagnostic AI aligns with human perceptual cues. It trains models to predict clinical AD status and listener perception in Mandarin and Greek among male and female speakers, using SHAP interpretability and statistical validation. The study reveals that alignment is significant only in certain subgroups, exposing a population‑specific failure mode of explainable AI. This work calls for demographic auditing of XAI explanations.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Pathological‑perceptual alignment is statistically significant for Mandarin speakers and female participants but absent for Greek males.  
 - Finding 2: Global SHAP explanations mask these subgroup divergences, leading to false confidence in model fairness.  

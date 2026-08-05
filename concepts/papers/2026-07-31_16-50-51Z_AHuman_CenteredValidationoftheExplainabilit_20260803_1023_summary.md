@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper addresses the critical challenge of objectively evaluating Explainable Artificial Intelligence (XAI) in high-risk domains by introducing a novel, model-agnostic metric known as the EPC score. The authors propose this metric as an extension of the existing Explainability-Performance Coefficient to explicitly quantify explanation quality by balancing the trade-off between feature selection sparsity and preserved model performance. Through extensive empirical validation across tabular, text, and image data modalities, the study demonstrates that the EPC score effectively uncovers operational dependencies among network activations, data dimensionality, and explainer performance. Crucially, the work validates the EPC score against independent human-based explanations, proving a strong alignment between higher EPC scores and human lexical sentiment judgments as well as spatial visual annotations.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions
 - The development of a robust, model-agnostic metric called the EPC score that quantifies explanation quality by explicitly balancing feature selection sparsity with preserved model performance, addressing the lack of objective evaluation standards in XAI.
 - Empirical evidence demonstrating that the EPC score effectively uncovers operational dependencies among network activations, data dimensionality, and explainer performance across diverse data modalities including tabular, text, and image data.

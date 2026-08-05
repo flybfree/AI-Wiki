@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes RIPPLE (Rectified Inter‑channel Phase with Prior‑based Learning), which treats phase generation as a learned process rather than a post‑hoc recovery step, thereby preserving the inter‑channel structure that defines spatial audio and seismic signals. By initializing each channel’s phase from the source signal and then refining it with a rectified flow guided by an explicit inter‑channel loss, RIPPLE generates phase that retains physical relationships across channels. This approach is evaluated on first‑order ambisonics environment transfer and seismic cross‑station translation, where it outperforms conventional Griffin–Lim pipelines in coherence metrics.
 
+## Semantic links
+- [[concepts/papers/2026-07-27_15-35-52Z_DSCH_Loss_ADynamicSemanticChannelObjectivef_summary.md|Summary: 2026-07-27_15-35-52Z_DSCH_Loss_ADynamicSemanticChannelObjectiveforDeepS.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.10
+- [[concepts/papers/2026-07-23_04-46-48Z_Source_Prior_DrivenSelectiveAdaptationforEf_summary.md|Summary: 2026-07-23_04-46-48Z_Source_Prior_DrivenSelectiveAdaptationforEfficient.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Introduces **RIPPLE**, a method that reinterprets Griffin–Lim as a phase prior rather than a final estimator.  
 - Demonstrates that generating phase instead of recovering it improves inter‑channel coherence and downstream analysis scores.  

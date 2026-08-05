@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Opt.Gear is a family of dense foundation models (1 M, 270 M, and 1 B parameters) that can handle up to 64 K tokens while being optimized for on‑device deployment. The authors introduce a hybrid architecture that merges a convolutional key‑value gated mixer with local‑global attention to curb the exponential growth of KV‑cache memory. This design enables up to X4.9 faster prefill and decoding speeds on NPUs compared with comparable models. Moreover, Opt.Gear is trained on only 0.5 T tokens from a 2 T candidate corpus, making it the most data‑efficient foundation model released so far.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The hybrid convolutional key‑value gated mixer combined with local‑global attention reduces KV‑cache memory that typically scales exponentially with long contexts.  
 - [Finding 2] Dense models up to 1 B parameters achieve X4.9 faster prefill and decoding speeds on Qualcomm NPUs relative to similar‑scale baselines.  

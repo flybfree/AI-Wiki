@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 GeM‑NR is a training‑free framework that enables multi‑view consistent image editing, allowing edits that drastically alter both geometry and appearance of a scene. The method aligns the edited and unedited views by first estimating a depth map that maximizes 3D point‑cloud correspondence, then projecting this geometry onto a query viewpoint conditioned on the original unedited image, and finally refining the output with a backbone editor such as FLUX or Qwen. This pipeline is designed to be fast, scalable from two to many viewpoints, and capable of handling nonrigid scene changes that existing methods struggle with.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - **Training‑free multi‑view editing**: GeM‑NR works across multiple views without fine‑tuning a model for each task.  
 - **Depth‑map alignment strategy**: The authors propose a depth map estimation scheme that maximizes 3D point‑cloud correspondence between the edited and unedited scenes, providing a geometric bridge for consistency.  

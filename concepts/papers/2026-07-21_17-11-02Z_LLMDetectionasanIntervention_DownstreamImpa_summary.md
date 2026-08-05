@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how LLM detection tools act as an intervention that can unintentionally reshape both the amount of LLM usage and the quality of downstream outputs. By modeling users’ strategic choices—how much they rely on LLMs and how they post‑process content to evade detection—the authors show that imperfect detectors often lead people to increase their LLM consumption rather than reduce it. Moreover, even when a detector lowers a detectable attribute such as word frequency, the resulting output quality can decline because users adopt suboptimal strategies. The study empirically reproduces a “rise‑then‑fall” pattern in detected word frequencies on arXiv abstracts, illustrating that detection can create counterintuitive downstream effects.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - Imperfect LLM detectors cause users to increase their LLM usage contrary to the intended deterrent effect.  
 - Introducing a detector can lower output quality even when it reduces the detectable attribute, due to altered user incentives.  

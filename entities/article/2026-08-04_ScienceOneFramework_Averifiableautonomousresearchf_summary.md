@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 The Science One Framework introduces a Chain‑of‑Evidence (CoE) system that forces every claim in an AI‑generated research artifact to be backed by traceable, verifiable evidence, thereby eliminating hallucinations such as phantom citations and code‑text mismatches. The accompanying CoE Audit automatically measures the integrity of these artifacts, allowing researchers to compare the text they produce with the underlying code and experimental logs. This approach demonstrates that autonomous AI can generate state‑of‑the‑art scientific papers while remaining fully verifiable.
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - [Critical point 1] The CoE framework guarantees that each claim—whether a reference, number, method description, or conclusion—has an explicit evidence chain, preventing broken links.  
 - [Critical point 2] In experiments, the Science One Framework achieved zero phantom references and fully reproducible scores, whereas baseline systems hallucinated up to 21 % of their citations and often misaligned code with described methods.  

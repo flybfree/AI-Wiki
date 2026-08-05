@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Generalist manipulation policies built from large pretrained backbones suffer from latency because their perception‑to‑action pipeline cannot react to sensory input that arrives mid‑execution, limiting closed‑loop control. The authors introduce **πR²**, a framework that makes these flow policies reactive and real‑time while preserving expressive multi‑modal capabilities. πR² achieves this by decoupling conditioning into a fast proprioceptive channel and a slower vision‑language channel, and by treating in‑flight actions as inpainting conditions within a latency‑adaptive flow schedule. The method can be fine‑tuned from existing pretrained policies with minimal architectural changes.
 
+## Semantic links
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_17-13-49Z_Real_timeoptimalcontrolwithshallowrecurrent_summary.md|Summary: 2026-07-21_17-13-49Z_Real_timeoptimalcontrolwithshallowrecurrentdecoder.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.12
+
 ## Key Contributions  
 - [Finding 1] Splits conditioning into a fast proprioception stream (updated every tick) and a slower vision‑language stream, enabling reactions to fresh proprioceptive data within each action chunk while tolerating stale visual features.  
 - [Finding 2] Implements a latency‑adaptive flow schedule that treats in‑flight actions as inpainting conditioning, emitting one denoising step per call so the policy can adapt to varying hardware latencies.  

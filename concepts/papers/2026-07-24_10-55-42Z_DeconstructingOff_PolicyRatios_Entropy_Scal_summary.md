@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates why asynchronous reinforcement learning (RL) often suffers from policy collapse caused by stale, off‑policy data and proposes an entropy‑scaled trust region to mitigate this problem. It discovers that the natural scale of importance ratios varies with token entropy, leading to amplified noise at low entropy while legitimate exploration is suppressed at high entropy. To address both issues simultaneously, the authors introduce the Entropy‑Scaled Trust Region (ESTR), a correction method that rescales each token’s off‑policy deviation by its local entropy without requiring extra forward passes or explicit version switching. The approach preserves essential in‑flight exploratory updates while filtering out destabilizing noise.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The magnitude of importance ratios is systematically tied to token entropy, causing two distinct phenomena: amplified sampling noise at low entropy and suppressed exploration at high entropy.  
 - [Finding 2] Existing asynchronous methods treat all off‑policy deviations with a uniform threshold, inadvertently discarding the legitimate exploratory deviations that arise from in‑flight weight updates.  

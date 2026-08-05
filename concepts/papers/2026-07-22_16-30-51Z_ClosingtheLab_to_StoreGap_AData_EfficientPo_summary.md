@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper aims to close the lab‑to‑store gap for Vision‑Language‑Action (VLA) humanoid robots by developing a data‑efficient post‑training and experience‑driven learning framework called DEED, enabling reliable operation in real‑world retail tasks with minimal additional training. It leverages a foundation model (GR00T N1.6) and a control‑frequency aligned pipeline to reduce VLA dependence. The approach integrates experience refinement via a text‑based advantage prefix and a vision‑language value function. A latent‑space analysis tool is also introduced for diagnosing distribution shifts.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-22_12-20-58Z_Foundation_model_guidedradiogenomicdiscover_summary.md|Summary: 2026-07-22_12-20-58Z_Foundation_model_guidedradiogenomicdiscoverylinkin.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.03
+
 ## Key Contributions  
 - Finding 1: DEED demonstrates that post‑training alignment with task‑relevant visual cues can dramatically improve real‑world performance compared to naive fine‑tuning.  
 - Finding 2: Experience‑driven refinement using a text‑based advantage prefix and value function allows continual learning from a single GPU, reducing data needs.  

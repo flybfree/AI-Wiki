@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Arm2Air addresses the challenge of placing UAV relays in cluttered urban environments by transferring obstacle‑avoidance skeletons learned from robot arms to a UAV relay‑formation problem. The authors propose a cross‑embodiment transfer pipeline that converts pretrained arm motions into ordered skeletons, trains a transformer on these skeletons, and then fine‑tunes the model with low‑rank adaptation using only three target maps. This approach yields a data‑efficient initialization for UAV relay placement while preserving structural priors from the source domain. The method reduces planning runtime dramatically compared to conventional planners and improves connectivity metrics under high obstruction.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Arm2Air transfers ordered skeleton priors from robot arms to UAV relay formation, enabling cross‑embodiment learning with minimal target data.  
 - [Finding 2] The low‑rank adaptation reduces the number of trainable parameters from 1.38 million (full fine‑tuning) to 0.134 million while achieving a 53.6 % lower root mean square error in relay positions.  

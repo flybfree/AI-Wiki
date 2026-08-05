@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of online novel view synthesis from multi‑view streaming videos, where a persistent memory must reconstruct temporarily occluded regions while operating under strict real‑time constraints. Existing Test‑Time Training (TTT) frameworks require gradient‑based updates at every frame, which is computationally prohibitive and can cause instability over long contexts. The authors propose decoupling the frequency of memory updates from their application: they perform heavyweight updates only periodically, applying a cross‑view attention mechanism on each frame to handle deformations between the stored memory state and the current video content. This design enables real‑time performance while preserving long‑horizon context.
 
+## Semantic links
+- [[concepts/papers/2026-07-30_07-03-18Z_Gradient_freeTask_ConditionedRetrievalforOn_summary.md|Summary: 2026-07-30_07-03-18Z_Gradient_freeTask_ConditionedRetrievalforOn_Device.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-07-30_03-30-18Z_Real_TimeHardPeakAge_of_InformationSafetywi_summary.md|Summary: 2026-07-30_03-30-18Z_Real_TimeHardPeakAge_of_InformationSafetywithNo_Re.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 - [Finding 1] Decoupling memory update frequency from per‑frame application reduces computational load, allowing real‑time novel view synthesis.  
 - [Finding 2] An auxiliary Memory Loss forces the network to internalize the scene persistently, preventing forgetting of distant temporal information.  

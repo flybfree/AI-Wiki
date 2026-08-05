@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper evaluates Claude Code as an agentic prover within the CLEVER benchmark, a Lean 4 suite for verifiable code generation. It demonstrates that Claude can produce valid specifications for 98.8 % of problems and achieve high‑quality end‑to‑end verification (98.1 % success) when combined with compiler‑in‑the‑loop feedback. The study also shows that Claude’s self‑diagnostic feedback uncovers the root causes of failures, indicating a strong alignment between generated code and its intended semantics. This work contributes empirical evidence that agentic paradigms can currently surpass traditional verification methods on this benchmark.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Claude generates arguably valid specifications for 98.8 % of CLEVER problems, with 81.3 % also scoring correctly via isomorphism‑based evaluation.  
 - Finding 2: The end‑to‑end pipeline (generation → verification) succeeds on 98.1 % of entries that have self‑consistent premises.  

@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Mistral’s Shieldstral is a 3‑billion‑parameter open‑weights multimodal safety classifier that treats content moderation as a policy‑adaptive question‑answering task. By accepting plain‑language policies at inference time, it evaluates both text and images with a single “yes/no” output, delivering calibrated safety scores without retraining or a fixed taxonomy.
 
+## Semantic links
+- [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-safety/ai-safety-hub.md|AI Safety and Security Hub]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Shieldstral outperforms open guard models up to 7× its size on text safety, refusal detection, policy adaptability, and multimodal benchmarks.  
 - It provides a unified interface for text, image, and prompt‑response pairs while allowing policies to be supplied as free‑form natural‑language queries at runtime.  

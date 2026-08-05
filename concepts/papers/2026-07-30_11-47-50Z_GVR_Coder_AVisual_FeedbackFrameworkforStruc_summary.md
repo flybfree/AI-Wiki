@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes GVR‑Coder, a visual‑feedback framework for generating structured SVG diagrams from lengthy professional texts in document authoring and meeting review contexts. It tackles three core challenges—data scarcity, missing layout priors, and poor aesthetic feedback—by introducing a new dataset and a curriculum‑driven model that uses reinforcement learning to optimize both logical structure and visual aesthetics. The approach employs a generate‑verify‑repair loop to iteratively improve output quality. This work advances Text‑to‑SVG generation for complex logical diagrams.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduction of DocMeetSVG‑100K, a large‑scale SVG dataset covering document authoring and meeting review scenarios.  
 - [Finding 2] GVR‑Coder framework that uses curriculum‑driven rejection sampling fine‑tuning with explicit layout constraint knowledge.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper argues that long‑term human‑AI interactions may cause lasting cognitive, developmental, or socio‑affective changes not evident in short‑term evaluations, prompting NLP to adopt longitudinal measurement approaches. It proposes integrating social‑science metrics with computational methods to model behavioral shifts over time and guide safer AI design.
 
+## Semantic links
+- [[concepts/prompting/prompting-hub.md|Prompting and Instruction Design Hub]] — 3 title terms overlap; 134 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_10-49-50Z_FromIsolatedTaskstoStructuredCapabilities_A_summary.md|Summary: 2026-07-24_10-49-50Z_FromIsolatedTaskstoStructuredCapabilities_AMultila.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - The authors introduce a framework for longitudinal assessment of human‑AI interactions using established social‑science measurement tools.  
 - They demonstrate how these tools can be combined with NLP evaluation pipelines to detect emerging behavioral risks early in online settings.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research paper critically evaluates the current capabilities and inherent limitations of Large Language Models (LLMs) when applied to the specific domain of conceptual database modeling. The primary goal is to determine whether LLMs can reliably automate the generation of Entity-Relationship (ER) diagrams directly from natural language requirements without extensive human intervention. By systematically testing three different LLMs against varying levels of requirement complexity, the study seeks to identify the threshold at which automated modeling fails to maintain structural and semantic consistency. The authors aim to provide empirical evidence regarding the maturity of LLMs in handling the nuanced constraints and logical structures required for robust database design.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvi_summary.md|Summary: 2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLL_summary.md|Summary: 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - The study demonstrates that while LLMs perform adequately in simple scenarios, their reliability degrades significantly as the complexity of natural language requirements increases, leading to higher rates of logical inconsistencies and missing constraints.
 - It reveals that prompt engineering techniques, such as Chain of Thought and Chain of Thought with Verifiers, offer only marginal improvements in accuracy but do not fundamentally solve the issue of semantic adherence in complex modeling tasks.

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes *round‑trip consistency* as a self‑supervised error signal that allows a single conditional latent diffusion model to predict its own rollout errors without any external supervision or ground truth. By training the same model to step forward and backward in time, the authors exploit the fact that rolling forward i steps and then backward i steps must return the system to its start; any discrepancy between those two states is a proxy for unobservable rollout error. This bidirectionality turns reversibility into a practical trust metric that can be evaluated at deployment.
 
+## Semantic links
+- [[concepts/papers/2026-07-13_21-13-46Z_Self_ImprovingAICodingAgentsThroughAccumula_summary.md|Summary: 2026-07-13_21-13-46Z_Self_ImprovingAICodingAgentsThroughAccumulatedBeha.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-07-23_09-43-46Z_Self_PoisoninginAdaptiveOut_of_Distribution_summary.md|Summary: 2026-07-23_09-43-46Z_Self_PoisoninginAdaptiveOut_of_DistributionDetecti.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-07-25_10-00-33Z_Self_BoostingVision_LanguageModelswithNoisy_summary.md|Summary: 2026-07-25_10-00-33Z_Self_BoostingVision_LanguageModelswithNoisyStudent.md]] — 3 title terms overlap; 16 summary/topic terms overlap; semantic match 0.18
+
 ## Key Contributions  
 - **Finding 1:** The round‑trip discrepancy \(\mathcal{C}_i\) serves as a measurement‑free, self‑supervised proxy for rollout error across all six decoded physical fields.  
 - **Finding 2:** A simple calibration fit on training rollouts predicts the magnitude of \(\mathcal{C}_i\) within \(1.14\times\) at 68 % coverage and within \(1.29\times\) at 95 % coverage, outperforming depth‑only predictors by threefold error reduction.  

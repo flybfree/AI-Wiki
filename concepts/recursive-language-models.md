@@ -21,6 +21,11 @@ Recursive Language Models (RLM) represent an architectural paradigm where langua
 
 **Source**: [arXiv Search: recursive language model](https://arxiv.org/search/?searchtype=all&query=recursive+language+model) (988 results as of June 2026)
 
+## Semantic links
+- [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 2 title terms overlap; 160 backlinks; 2 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap; shared tags: quantization; 3 backlinks
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 2 title terms overlap; 1 backlink; 6 summary/topic terms overlap
+
 ## Core Concept
 
 The RLM paradigm inverts the standard LLM assumption. Traditional transformers process input through fixed layers in a single pass. RLMs instead treat the model's own architecture as part of the addressable context:

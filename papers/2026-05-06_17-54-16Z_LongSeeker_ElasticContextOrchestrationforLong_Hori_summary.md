@@ -15,6 +15,11 @@ Source: 2026-05-06_17-54-16Z_LongSeeker_ElasticContextOrchestrationforLong_Hori.
 ## Summary
 The paper addresses the problem of managing growing working context in long-horizon search agents. It introduces Context-ReAct, a framework for elastic context orchestration that combines reasoning, tool use, and context management through five operations: Skip, Compress, Rollback, Snippet, and Delete. LongSeeker instantiates this paradigm with a Qwen3-30B-A3B model fine-tuned on synthesized trajectories and shows strong benchmark gains.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|AI Agents Lesson 5 - Retrieval, Context, and Long-Context Work]] — 4 title terms overlap; 2 backlinks; 4 summary/topic terms overlap
+
 ## Key Takeaways
 - Context management is treated as a first-class part of agent reasoning.
 - Compress is claimed to be expressively complete, with other operators improving efficiency and fidelity.

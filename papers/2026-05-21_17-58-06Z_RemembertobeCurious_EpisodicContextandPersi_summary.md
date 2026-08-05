@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the problem that curiosity‑driven reinforcement learning often fails in complex, photorealistic 3D environments because agents cannot maintain a stable model of the world and lack episodic context to explore beyond local loops. By introducing a persistent online 3D reconstruction as a world model and an agent policy parameterized as a sequence model over RGB observations, the authors create a system that can continuously update its knowledge while remembering past trajectories, thereby encouraging exploration toward novel regions. Their end‑to‑end design enables zero‑shot transfer to new worlds such as Gibson and AI‑generated scenes, outperforming conventional active‑mapping baselines.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenera_summary.md|Summary: 2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A persistent world model built from an online 3D reconstruction provides a stable intrinsic reward signal that does not reset when the agent revisits states.  
 - [Finding 2] The agent maintains an episodic trajectory history, allowing it to remember previously visited regions and navigate toward unexplored areas.  

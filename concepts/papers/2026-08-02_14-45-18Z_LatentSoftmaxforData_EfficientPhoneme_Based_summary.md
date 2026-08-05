@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of training a phoneme‑based multilingual automatic speech recognition system that jointly processes tonal and non‑tonal languages, where supervision differs between tone‑marked vowels (provided only as subclasses) and base vowels (treated as major classes). It introduces Latent Softmax, a CTC‑compatible output layer that distinguishes tone‑marked vowel subclasses from the broader base‑vowel class while keeping consonants and the blank token as singleton labels. This design enables richer cross‑lingual sharing without collapsing tonal distinctions or discarding information. The proposed method reduces downstream errors across multiple datasets.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Latent Softmax introduces a hierarchical output that models tone‑marked vowels as subclasses of base vowels, preserving tonal information.  
 - It treats missing tone supervision as latent and marginalizes it out when only the major class is observed, avoiding forced labeling.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how the availability of external tools reshapes human competence and reliance, treating the user‑tool‑task triad as a single dynamical system. The authors demonstrate that competence (what users retain) and reliance (what they outsource) co‑evolve in a bistable fashion: above a critical tool threshold competence collapses into a low‑dependence state, while below it remains stable. Their analysis shows that the collapse is irreversible unless a far lower availability level is reached, meaning historical practice—not current tool access—determines the lasting state of users. The work also reveals that when tools are opaque or too large, agency can transfer irreversibly to the instrument itself.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - **Bistable competence‑reliance dynamics**: Users exhibit either a competent, low‑dependence state or a highly dependent, high‑dependence state depending on tool availability.  
 - **Threshold dependence on competence and transparency**: The collapse threshold is jointly set by the user’s pre‑existing competence and the fraction of the tool that can be internally reconstructed (its transparency).  

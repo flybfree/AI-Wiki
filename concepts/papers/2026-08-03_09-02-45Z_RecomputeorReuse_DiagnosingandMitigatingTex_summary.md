@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Vision‑language models (VLMs) are expected to recompute their reasoning whenever the visual input changes, but many models instead rely on stale textual cues from earlier chains of thought (CoT). This paper investigates whether such “textual shortcuts” can replace true visual recomputation and proposes a training‑free intervention that forces fresh computation. By systematically removing or reordering evidence‑bearing text in prior CoTs, the authors demonstrate that models can be biased toward outdated answers even when the image is updated. The work shows that protecting new visual information from stale reuse improves VLM self‑reflection performance.
 
+## Semantic links
+- [[concepts/papers/2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_Act_20260803_1027_summary.md|Summary: 2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_ActionRein.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_Act_20260803_1026_summary.md|Summary: 2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_ActionRein.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_Act_20260803_1023_summary.md|Summary: 2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_ActionRein.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.07
+
 ## Key Contributions  
 - [Finding 1] Evidence‑bearing content in a prior chain of thought functions as a robust textual shortcut that competes with visual recomputation across 16 VLMs, influencing answer preference more than length‑matched non‑evidence context.  
 - [Finding 2] Removing this evidence‑bearing content shifts model behavior more strongly than removing other types of text, indicating its critical role as the carrier of prior influence.  

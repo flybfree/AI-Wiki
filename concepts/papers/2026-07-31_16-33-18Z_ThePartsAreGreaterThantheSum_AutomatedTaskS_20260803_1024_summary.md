@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of catastrophic forgetting and negative interference that occurs when adapting Large Language Models (LLMs) to heterogeneous tasks using Parameter-Efficient Fine-Tuning (PEFT). The authors argue that conventional single-policy approaches, which rely on a shared optimization space via Low-Rank Adapters (LoRA), are fundamentally limited in their ability to handle diverse task requirements simultaneously. To overcome this, they propose an automated multi-policy PEFT architecture that organizes optimization-compatible adaptation paths through intelligent task grouping and sequencing. This framework allows heterogeneous tasks to be optimized in decoupled spaces while preserving positive transfer among compatible tasks, ultimately demonstrating that strategic organization of optimization paths is superior to merely increasing parameter capacity.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The authors identify that shared optimization spaces in standard PEFT methods cause significant interference when adapting to heterogeneous task sequences, leading to poor transfer learning and catastrophic forgetting.
 - They introduce an automatic multi-policy PEFT framework that dynamically organizes independent Quantized Low-Rank Adapters (QLoRA) based on task compatibility, effectively decoupling the optimization processes for distinct tasks.

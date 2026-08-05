@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research paper investigates the efficacy of active flow control (AFC) strategies for mitigating flow separation on a complex 30P30N high-lift wing configuration. The study specifically compares two distinct optimization frameworks: open-loop Bayesian Optimization (BO) and closed-loop Deep Reinforcement Learning (DRL), utilizing wall-resolved large-eddy simulations (LES) at a high Reynolds number of 450,000. The primary objective is to enhance aerodynamic efficiency by controlling synthetic jets distributed across the slat, main, and flap elements at a critical angle of attack of 23 degrees. The authors aim to determine which computational approach offers superior performance in delaying stall and improving lift-to-drag ratios under realistic, high-fidelity flow conditions.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The successful application of open-loop Bayesian Optimization to identify optimal steady jet velocities, resulting in a significant 10.9% increase in aerodynamic efficiency driven primarily by a 9.7% reduction in drag without compromising lift generation.
 - A critical analysis of closed-loop Deep Reinforcement Learning in high-Reynolds number flow control, revealing that while the agent utilizes instantaneous sensor data, it suffers from negligible efficiency gains due to reward function constraints that limit effective exploration of the control space.

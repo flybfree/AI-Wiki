@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 AutoRelAnnotator proposes a calibrated model cascade to generate high‑quality relevance annotations at scale for sponsored search without human labeling. The approach balances domain‑specific accuracy (via fine‑tuning) with computational cost (via cascading routing). Per‑class isotonic calibration adds a modest but reliable gain on top of the cascade. This work delivers three concrete contributions: (a) a decomposition showing fine‑tuning yields ~20 accuracy points while cascading halves compute, (b) introduction of per‑class isotonic calibration with +0.6 NDCG over the best baseline, and (c) validation across six offline use cases processing 150 M+ annotations.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Fine‑tuning contributes ~20 accuracy points while cascading halves compute cost.  
 - Per‑class isotonic calibration adds a small but statistically significant gain (+0.6 points over the strongest calibration baseline).  

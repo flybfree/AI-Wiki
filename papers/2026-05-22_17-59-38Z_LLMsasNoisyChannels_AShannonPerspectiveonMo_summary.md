@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper argues that existing scaling laws for Large Language Models (LLMs) are overly simplistic because they predict only monotonic improvements with more compute or data, ignoring phenomena such as catastrophic overtraining and quantization‑induced degradation. By treating LLM training as an information‑transmission problem over a noisy channel, the authors introduce the Shannon Scaling Law—a unified theoretical framework that links model parameters to bandwidth and tokens to signal power. This perspective predicts a fundamental capacity limit: when the signal‑to‑noise ratio (SNR) is insufficient, performance flattens or drops, producing an “U‑shaped” curve rather than a smooth rise. The authors validate this theory with extensive experiments on Pythia and OLMo2 models under various perturbations.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_Wise_summary.md|Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] Existing monotonic scaling laws cannot explain non‑monotonic performance dips such as catastrophic overtraining or quantization loss, highlighting a gap in current theoretical understanding.  
 - [Finding 2] The Shannon Scaling Law provides a principled model that maps LLM parameters to channel bandwidth and tokens to signal power, explicitly capturing the interaction between learning signal and intrinsic noise.  

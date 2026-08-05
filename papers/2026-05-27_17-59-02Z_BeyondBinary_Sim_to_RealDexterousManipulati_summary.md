@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the sim‑to‑real transfer challenge for dexterous manipulation where tactile information is scarce and often reduced to coarse binary features, limiting performance on contact‑rich tasks. To preserve the richness of real‑world touch, the authors introduce Center‑of‑Pressure (CoP), a physics‑grounded representation that retains dense contact data while remaining robust across simulation and reality. CoP enables zero‑shot sim‑to‑real transfer for blind, multi‑fingered manipulation tasks such as peg‑in‑hole insertion and ball balancing, outperforming both binary‑contact and raw‑taxel baselines. The approach demonstrates that tactile policies can encode task‑relevant physical properties like object mass as emergent policy states.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinP_summary.md|Summary: 2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTool_summary.md|Summary: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CoP is an effective tactile representation grounded in physical principles that preserves dense contact information while maintaining robustness for sim‑to‑real transfer.  
 - [Finding 2] A sensor calibration scheme based on differentiable dynamics estimates taxel orientations without requiring ground‑truth force measurements, enabling the construction of CoP from simulated kinematics.  

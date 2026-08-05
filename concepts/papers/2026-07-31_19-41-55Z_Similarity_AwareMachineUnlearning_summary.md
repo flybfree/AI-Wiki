@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Machine unlearning aims to remove the influence of a specific set of training examples from an already‑trained model without retraining it from scratch, which is computationally expensive and can degrade performance on related data. Existing localization‑based methods improve efficiency by selecting influential parameters but ignore how those selections affect retained examples that are semantically similar to the forgotten ones, leading to collateral damage. The authors propose a retain‑aware localization framework that jointly considers parameter importance for both the forget‑set and the retained set. They also introduce a “retain‑similar” evaluation set built from cosine similarity in model embeddings to quantify this damage. Experiments on CIFAR‑10 with ResNet‑18 show that the new method consistently reduces collateral damage while improving standard unlearning metrics across eleven settings.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A retain‑aware localization technique that evaluates parameter importance relative to both forgotten and retained data, preventing unintended degradation of similar retained examples.  
 - [Finding 2] The creation of a retain‑similar evaluation set using cosine similarity in the model embedding space, providing an objective measure of collateral damage.  

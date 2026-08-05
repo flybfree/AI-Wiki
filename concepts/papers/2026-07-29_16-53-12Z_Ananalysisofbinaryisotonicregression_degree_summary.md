@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper tackles the theoretical limits of binary isotonic regression by establishing a sharp finite‑sample bound on its degrees of freedom and extending this insight to calibration performance. The authors first characterize, via analytic number theory, the binary sequences that produce the maximum number of distinct fitted values, thereby defining the worst‑case growth rate of the model’s degrees of freedom. Building on this result, they derive a non‑trivial distribution‑free bound for the Expected Calibration Error (ECE) of isotonic regression, which holds for any i.i.d. Bernoulli predictor without additional distributional assumptions. The work thus bridges combinatorial extremal analysis with probabilistic calibration theory.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Identify binary sequences that maximize the number of distinct fitted values in binary isotonic regression, providing a sharp finite‑sample characterization of the model’s degrees of freedom.  
 - [Finding 2] Develop a leading term bound \(\frac{3}{(4\pi^2)^{1/3}} n^{2/3}\) for the worst‑case degrees of freedom using analytic number theory, improving on prior results.  

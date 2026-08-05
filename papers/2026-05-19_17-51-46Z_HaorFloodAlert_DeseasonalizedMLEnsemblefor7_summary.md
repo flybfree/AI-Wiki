@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces HaorFloodAlert, a novel machine learning ensemble designed to address the critical gap in flash flood prediction for the flat, backwater-dominated haor wetlands of Bangladesh. Unlike traditional models that rely on seasonal temperature correlations, the authors developed a deseasonalized approach to prevent data leakage and ensure robust generalization across different climatic conditions. The system specifically targets the Sunamganj Haor region, providing a 72-hour lead time for flood probability forecasting by integrating upstream hydrological data from the Barak River with local satellite observations. By combining Random Forest and XGBoost algorithms with Sentinel-1 SAR data, the model aims to protect the vital boro rice harvest from sudden, devastating inundation events.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions
 - The development of a deseasonalized machine learning ensemble that eliminates the artificial accuracy inflation caused by seasonal temperature correlations, ensuring that flood predictions are based on genuine hydrological dynamics rather than climatic coincidences.
 - The creation of a proxy upstream water level indicator using Sentinel-1 SAR data from Silchar, Assam, which provides approximately 36 hours of critical lead time for the downstream Sunamganj Haor region, effectively bridging the gap in early warning systems for transboundary water bodies.

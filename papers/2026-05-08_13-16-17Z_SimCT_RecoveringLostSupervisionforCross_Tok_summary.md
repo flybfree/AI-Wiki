@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 On‑policy distillation (OPD) is a widely used technique for transferring teacher behavior to a smaller student model, but it assumes that the two models can compare predictions token by token. When teachers and students use different tokenizers, this assumption breaks down because exact shared‑token matching silently discards a large portion of the teacher’s signal at positions where vocabularies disagree. SimCT (Simple Cross‑Tokenizer OPD) addresses this loss by enlarging the supervision space: it adds short multi‑token continuations that both tokenizers can realize, while keeping the original OPD loss unchanged. The authors show that these multi‑token units constitute the finest jointly tokenizable supervision interface and that coarser alternatives erase useful teacher‑student distinctions needed for on‑policy learning.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentr_summary.md|Summary: 2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] Exact shared‑token matching discards a large fraction of the teacher signal at positions where vocabularies differ.  
 - [Finding 2] SimCT enlarges the supervision space with short continuations that both tokenizers can realize, preserving the OPD loss form.  

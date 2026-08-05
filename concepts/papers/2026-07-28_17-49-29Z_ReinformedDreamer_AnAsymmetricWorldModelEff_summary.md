@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how asymmetric reinforcement learning can improve model‑based agents by providing additional guidance beyond rewards, leading to better observation and privileged state representations. It identifies a limitation in the Informed Dreamer algorithm’s privileged information representations and proposes Reinformed Dreamer, which uses latent guidance for more efficient training. Experiments demonstrate that Reinformed Dreamer outperforms previous asymmetric approaches and yields consistent improvements over Dreamer. The contribution is a novel representation learning objective that enhances model‑based RL under both partial and full observability.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Informed Dreamer suffers from suboptimal privileged information representations, limiting performance.  
 - [Finding 2] Latent guidance can improve observation representations without explicit supervision.  

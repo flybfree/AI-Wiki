@@ -16,6 +16,11 @@ Model: None
 ## Summary
 HalluScope is a benchmark for studying hallucinations in large vision-language models, focusing on how textual priors and instructions override visual grounding. The paper also introduces HalluVL-DPO, a preference-optimization method that encourages grounded responses while preserving broader model performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesoc_summary.md|Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifo_summary.md|Summary: 2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Takeaways
 - Finds that many hallucinations are driven by textual instructions and background knowledge.
 - Provides a curated preference dataset for grounding-focused fine-tuning.

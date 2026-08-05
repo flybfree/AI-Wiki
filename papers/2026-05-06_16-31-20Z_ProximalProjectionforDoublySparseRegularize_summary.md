@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of regularizing regression models that are doubly sparse when predictors follow a Gaussian graphical model (GGM). By decomposing the coefficient vector into latent variables that correspond to each node’s contribution, it applies a user‑defined L1/L2 penalty directly on these latent variables rather than on the coefficients themselves. A novel proximal projection is introduced that computes the intersection of selected groups of nodes, thereby avoiding costly predictor duplication and conserving computational resources. The approach yields stable performance across diverse graph structures and real‑world datasets.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemo_summary.md|Summary: 2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - **Decomposition into latent variables:** Coefficients are expressed as a sum of node‑specific latent contributions, enabling regularization on the latent space.  
 - **Intersection‑based projection operator:** A proximal step is defined for the intersection of selected groups, providing an efficient alternative to predictor duplication.  

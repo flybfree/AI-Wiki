@@ -17,6 +17,10 @@ On the model front, [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5
 
 **Most important signal:** AI is moving from a model you query to a control layer that owns context, routes work, and shapes the product surface.
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
 ## Key Themes / Patterns
 
 | Theme | What happened | Why it matters |

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes Skill‑RM, a unified framework that treats reward modeling as a reusable Reward‑Evaluation Skill to integrate heterogeneous evaluation criteria such as rule‑based verifiers, ground‑truth references, procedural checklists, and complex rubrics. It aims to provide a consistent interface for orchestrating diverse evidence dynamically based on each input’s requirements. By reformulating reward computation as an agentic task, the framework ensures consistency and transparency across tasks. The authors demonstrate that Skill‑RM outperforms traditional judge baselines.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelfor_summary.md|Summary: 2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelforInterpr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeP_summary.md|Summary: 2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Skill‑RM reframes reward evaluation as a structured agentic skill, enabling a unified interface for heterogeneous criteria.  
 - [Finding 2] The framework dynamically selects and aggregates evidence tailored to specific input requirements, moving beyond static evaluation.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Large language models and vision transformers are increasingly deployed on memory‑constrained edge devices, where dense multiply‑accumulate (MAC) arrays dominate latency. Power‑of‑Two (PoT) quantization alleviates this bottleneck by replacing MACs with bit‑shifts, but its exponential lattice suffers a “Low Angular Resolution Regime” that degrades high‑dimensional feature manifolds at sub‑4‑bit thresholds. To overcome this geometric limitation, the authors introduce Orthogonal Residual Projection (ORP), an algorithm‑hardware co‑design that projects quantization onto a higher‑resolution residual lattice using only shift‑and‑add operations. The method also provides an analytical solver that eliminates costly gradient‑based calibration, cutting full‑model tuning for LLaMA‑2‑7B to about 15 minutes. Extensive experiments show ORP matches or exceeds conventional MAC‑intensive baselines such as AWQ while operating under strict 3‑bit (W3/A16) constraints.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenR_summary.md|Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The Low Angular Resolution Regime is identified as the primary geometric flaw limiting sub‑4‑bit PoT quantization.  
 - [Finding 2] ORP solves this by constructing a dual‑basis orthogonal residual lattice that preserves high‑dimensional feature manifolds without asymmetric scaling.  

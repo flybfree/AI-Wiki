@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research paper provides a comprehensive evaluation of transfer learning techniques specifically tailored for image classification tasks, addressing the critical challenge of selecting optimal pre-trained models for diverse target domains. The authors investigate the efficacy of eleven distinct deep neural network architectures, originally pre-trained on the ImageNet dataset, by adapting their output layers and general parameters to fit five different target domain datasets. By conducting experiments across single training episodes and ten repeated episodes, the study rigorously measures performance metrics including accuracy, accuracy density, training time, and model size. The primary goal is to establish a clear framework for determining which pre-trained models offer the best balance of performance efficiency and resource utilization for specific image classification requirements.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTool_summary.md|Summary: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions
 - The study systematically compares the transfer learning capabilities of eleven widely used deep neural network architectures, providing a detailed comparative analysis that is often missing in isolated case studies.
 - It introduces a multi-metric evaluation framework that goes beyond simple accuracy, incorporating accuracy density, training time, and model size to offer a holistic view of model efficiency and practicality.

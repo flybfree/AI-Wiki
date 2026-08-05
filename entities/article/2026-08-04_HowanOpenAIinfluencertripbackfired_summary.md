@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 The article describes how OpenAI’s “Summer Club” influencer trip generated backlash due to perceived environmental and social concerns. Influencers posted low‑engagement videos while critics highlighted data‑center impacts and gendered marketing, turning the event into a scandal that questions corporate responsibility in AI.  
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - [The trip’s minimal social media traction contrasted with typical brand‑influencer hype, indicating poor execution.]  
 - [Commenters linked the outing to broader anxieties about AI’s environmental footprint and job displacement.]  

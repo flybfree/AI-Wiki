@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how prompt scope and demonstration selection impact the performance of local instruction-tuned large language models (LLMs) in machine translation, particularly for multilingual tasks involving multiple target languages. The authors evaluate English-to-Romance and English-to-Germanic translations across nine EU languages using zero-shot and k=5 few-shot prompting strategies with different types of demonstrations: random, lexical-similarity, and embedding-based retrieval. They compare these local LLMs against dedicated MT baselines like OPUS-MT and NLLB-200 to understand the trade-offs between prompt design and model capability. The study reveals that while larger models benefit from structured prompts and embedding retrieval, smaller models struggle with multi-target outputs and exhibit structural failures under family-scope prompting.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 14 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Dedicated MT systems outperform local LLMs overall, especially for Germanic languages like English-to-Germanic.  
 - [Finding 2] Few-shot prompting improves performance for larger models (mistral:latest, qwen2.5:14b) but degrades smaller ones (llama3.2:3b), suggesting that prompt strategies are not universally beneficial.  

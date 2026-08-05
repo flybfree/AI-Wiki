@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a gated multimodal learning framework that predicts Standard Assessment Procedure (SAP) and Environmental Impact (EI) scores for residential properties while delivering interpretable insights into the drivers of those predictions. By fusing EPC tabular variables, assessor‑written free text, and GIS‑derived spatial features such as footprint geometry, height, area, and orientation, the model learns property‑specific modality weights through sample‑wise gating and stabilises training with an auxiliary band classification head. The approach achieves MAEs of 4.03 (SAP) and 4.76 (EI), R² values of 0.757 and 0.748, respectively, in a Westminster, London case study, and it also generates actionable guidance for retrofit scenario analysis.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - **Superior multimodal performance:** Full‑fusion outperforms unimodal and bimodal baselines both for score prediction (MAE = 4.39) and band‑level classification.  
 - **Interpretable gating weights:** Gating reveals strong reliance on assessor text, with SHAP analysis highlighting fuel type, built form, construction age as primary drivers; text occlusion prioritises roof and wall fields, while spatial attribution is dominated by height and footprint area, showing shape sensitivity.  

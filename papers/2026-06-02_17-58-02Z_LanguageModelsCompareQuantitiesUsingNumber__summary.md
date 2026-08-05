@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates how large language models (LMs) compare quantities that include measurement units, such as “110 cm” versus “1.2 m”. It demonstrates that LMs often make systematic errors when the two expressions are close in value, and that these errors can be predicted by simple linear models that use only the numerical‑difference and unit‑scale‑difference cues. The authors also show that causal manipulations of the underlying subspaces associated with those cues alter the model’s output, suggesting that LMs rely on a collection of heuristics rather than performing exact unit conversions.  
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinP_summary.md|Summary: 2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearningan_summary.md|Summary: 2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Accuracy degrades near the comparison boundary where small changes in value determine the correct answer.  
 - [Finding 2] Linear surrogate models predict LM preferences from numerical‑difference and unit‑scale‑difference cues, revealing systematic error patterns.  

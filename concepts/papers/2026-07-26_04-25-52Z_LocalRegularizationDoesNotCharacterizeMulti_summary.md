@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether local regularization—a hypothesis scoring method that selects the minimum‑score test point consistent with the sample—can characterize multiclass PAC learnability. It argues that this principle does not hold for a specific countable class of realizable learning problems. The authors construct an instance family where cyclic triangles cause constant population error despite arbitrarily large training samples, showing that local regularizers fail to capture the true complexity. Their contribution is a negative answer to the characterization question and a new example of a class with low sample complexity but no local regularizer.  
 
+## Semantic links
+- [[concepts/papers/2026-08-03_12-10-52Z_MemArbiter_Decision_TimeMemoryArbitrationfo_summary.md|Summary: 2026-08-03_12-10-52Z_MemArbiter_Decision_TimeMemoryArbitrationforLong_H.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.10
+- [[concepts/papers/2026-07-25_05-27-52Z_TheEntropicBoundforTransformers_WhyStaticRa_summary.md|Summary: 2026-07-25_05-27-52Z_TheEntropicBoundforTransformers_WhyStaticRankFails.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-06-26_17-24-21Z_PAC_BayesianCertificatesforQuadraticClosed__summary.md|Summary: 2026-06-26_17-24-21Z_PAC_BayesianCertificatesforQuadraticClosed_LoopCon.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.08
+
 ## Key Contributions  
 - Finding 1: The paper demonstrates that there exists a realizable multiclass learning problem where the sample complexity is O(1/ε log 1/δ), matching typical bounds, yet no local regularizer can learn it.  
 - Finding 2: The instance family consists of tournaments derived from complete graphs with cyclic triangles; training removes competitors while test scores rank edges, leading to constant error regardless of sample size.  

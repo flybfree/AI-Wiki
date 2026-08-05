@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper argues that current benchmarks for computer‑use agents (CUAs) generate unreliable scores because the evaluation pipelines are brittle, often relying on scripted oracles and ignoring visual evidence. By auditing 150 public failure‑scored trajectories from five benchmark suites—web browsing, enterprise workflows, and desktop control—the authors reveal systematic errors that inflate false failures and underestimate genuine ones. Their work introduces a reliability framework that separates task construction, trajectory observation, scoring, and reporting, and proposes stage‑specific design rules to improve evaluation.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - 15.3 % of FAIL verdicts are wrong: 10.7 % are evaluator false negatives and 4.7 % stem from broken tasks.  
 - A three‑tier diagnostic taxonomy shows that verification/feedback and planning failures dominate execution/grounding errors, while execution/grounding errors are less frequent.  

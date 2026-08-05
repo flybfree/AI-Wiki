@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper establishes a tight theoretical bound for the generalization error of AdaBoost, showing that it is Θ(d ln(nγ²/d)/(nγ²) + ln(1/δ)/n), where γ is the advantage of each weak learner, d is the VC‑dimension of the hypothesis class, n the sample size, and δ the confidence parameter. This result combines a known fact— that AdaBoost’s voting classifier achieves zero empirical γ/2‑margin loss — with a newly derived margin‑based generalization bound for such classifiers. The contribution of this work is to provide an upper bound; the matching lower bound follows from earlier research. Consequently, the authors deliver a precise Θ‑expression that captures both the asymptotic and statistical components of AdaBoost’s performance.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A tight Θ‑generalization bound for AdaBoost that explicitly incorporates the VC‑dimension d, the advantage γ, sample size n, and confidence δ.  
 - [Finding 2] An upper‑bound proof that leverages the zero empirical γ/2‑margin loss of AdaBoost’s voting classifier together with a novel margin‑based generalization bound for voting classifiers.  

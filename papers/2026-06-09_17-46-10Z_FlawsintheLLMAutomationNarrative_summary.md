@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper challenges the narrative that large language models (LLMs) perform at the level of human experts, arguing that current benchmarking lacks measurement of variance and error magnitude. It introduces a novel code‑writing task to compare frontier LLM outputs with submissions from human experts. Findings show humans outperform LLMs on average metrics and exhibit lower variability. This work highlights the need for more rigorous evaluation in high‑stakes contexts.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearningan_summary.md|Summary: 2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - Human experts consistently achieve higher scores than LLMs across multiple performance metrics.  
 - The variance of responses is significantly larger for LLMs, indicating unstable performance.  

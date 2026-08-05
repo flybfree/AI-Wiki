@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces a novel, fully visual framework for the active and incremental generation of 3D scene graphs using only RGB camera inputs, thereby eliminating the dependency on specialized depth sensors like LiDAR or RGB-D cameras. By unifying perception and planning around a shared structured representation that encodes object semantics, 3D geometry, and relational context, the proposed method enables indoor mobile robots to effectively exploit semantic information during exploration. The framework is designed to be hardware-agnostic, allowing it to seamlessly integrate data from both onboard robot cameras and fixed external infrastructure cameras within a unified representation. This approach addresses critical limitations in current 3D scene graph generation pipelines, which are often restricted to specialized hardware and passive observation strategies.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions
 - The development of a hardware-agnostic, RGB-only pipeline for active 3D scene graph generation that achieves performance parity with methods relying on ground-truth depth data, demonstrating that high-fidelity semantic and spatial understanding is possible without dedicated depth sensors.
 - The implementation of a semantic-driven viewpoint selection mechanism for active exploration that significantly outperforms traditional geometric frontier-based baselines, detecting more than twice as many objects within the same exploration budget by leveraging the partially built scene graph to guide future observations.

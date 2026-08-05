@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Generative Distributionally Robust Optimization (GDRO), a principled framework that permits any sampleable conditional generator as the nominal model while restricting worst‑case laws to a chosen generator family. It leverages the sampler‑Sinkhorn pairing to compare induced distributions using only samples, eliminating the need for likelihoods or scores. The resulting population problem admits a finite‑sample approximation and differentiable primal‑dual implementation at each active decision context.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces GDRO framework that accepts any sampleable conditional generator as nominal model while bounding worst‑case laws within a selected generator family.  
 - [Finding 2] Develops the sampler‑Sinkhorn pairing to compare induced distributions using only samples, enabling likelihood‑free evaluation of population risk.  

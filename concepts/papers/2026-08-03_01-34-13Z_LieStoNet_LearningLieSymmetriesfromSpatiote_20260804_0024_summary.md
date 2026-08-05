@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces LieStoNet, a template‑free neural framework that discovers continuous Lie‑point symmetries of stochastic differential equations directly from spatiotemporal trajectories. By learning drift and diffusion surrogates from increments and enforcing the SDE determining equations, LieStoNet recovers projectable generators that satisfy the full Lie algebra, enabling efficient and interpretable symmetry discovery for noisy dynamics.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] LieStoNet learns neural surrogates for drift and diffusion directly from increments without prespecified symmetry groups or canonical coordinates.  
 - [Finding 2] The learned generator is constrained by Lie‑algebra axioms (bilinearity, antisymmetry, Jacobi) to ensure closure under Lie brackets and a non‑redundant independent basis.  

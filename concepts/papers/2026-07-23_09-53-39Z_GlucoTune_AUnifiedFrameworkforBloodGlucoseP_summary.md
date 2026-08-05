@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 GlucoTune tackles the reproducibility and comparability challenges in blood‑glucose time‑series analysis by introducing a single, extensible framework that standardizes preprocessing, model training, evaluation, and benchmarking without sharing raw preprocessed data. The authors propose configurable YAML pipelines to handle sensitive medical data locally, a unified interface for integrating public datasets and state‑of‑the‑art forecasting methods, and an automated leaderboard that reports results across configurations and models. By providing reproducible workflows from the original dataset to final predictions, GlucoTune enables fair cross‑study comparisons in diabetes research. The framework is demonstrated through extensive experiments and a user study, confirming its practical utility for researchers.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 5 title terms overlap; 13 backlinks; 6 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 5 title terms overlap; 3 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - **Standardized preprocessing via portable YAML pipelines** – A configurable set of data‑handling steps that can be applied locally to raw glucose traces, ensuring consistent treatment without exposing preprocessed medical data.  
 - **Unified modeling and evaluation interface** – One codebase that supports importing public datasets through wrappers, training diverse forecasting models, and automatically computing performance metrics for each configuration.  

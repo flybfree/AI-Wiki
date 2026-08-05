@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper argues that evaluating the safety of fine‑tuned large language models must be anchored to a specific capability goal rather than relying on arbitrary empirical choices. By integrating capability assessment with safety measurement, the authors aim to produce reliable, comparable results across different fine‑tuning scenarios. Their multi‑dimensional study reveals three critical issues: (1) fine‑tuned models generate incoherent outputs when confronted with safety prompts; (2) automated safety judgments become unreliable for such incoherent content; and (3) conclusions about fine‑tuning’s impact vary widely depending on the chosen safety benchmark or evaluator. The work therefore proposes a principled framework that ties safety testing directly to underlying capability, enabling more meaningful scientific conclusions.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesoc_summary.md|Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Fine‑tuned models can produce incoherent generations in response to safety prompts.  
 - [Finding 2] Automated safety judgments are unreliable for such incoherent outputs.  

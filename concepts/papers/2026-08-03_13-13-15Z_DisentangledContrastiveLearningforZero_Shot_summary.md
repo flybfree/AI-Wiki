@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles multilingual dense retrieval by enabling zero‑shot transfer from English supervision to low‑resource languages. It argues that existing models entangle semantic and linguistic features, which harms retrieval performance in the target language. The authors introduce Disentangled Contrastive Learning (DCL), a framework that separates representations into a semantic subspace and a linguistic subspace. By jointly optimizing hierarchical semantic alignment at both sentence and token levels with language‑debiased contrastive objectives, DCL reduces interference and improves zero‑shot retrieval across languages.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The proposed Disentangled Contrastive Learning (DCL) method explicitly disentangles multilingual representations into a semantic subspace and a linguistic subspace.  
 - [Finding 2] DCL designs hierarchical semantic alignment objectives at sentence and token levels combined with language‑debiased contrastive learning to suppress language‑specific noise.  

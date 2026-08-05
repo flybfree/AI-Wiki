@@ -8,6 +8,11 @@ Model: None
 ## Summary
 TerraNova addresses a critical gap in Earth-system science by introducing a foundation model that unifies the continuous physical geometry of the planet with the discrete administrative boundaries of human societies. The authors argue that previous models failed to adequately couple these two domains due to geometric mismatches, often relying on lossy averaging that obscured local societal impacts. To resolve this, TerraNova is trained on 1,024 distinct records, split evenly between gridded Earth-system fields and national indicators, preserving their native geometries throughout the learning process. This approach enables the model to generate predictive distributions for complex socio-physical interactions without sacrificing spatial or temporal resolution.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions
 - **Unified Geometric Representation**: The paper introduces a novel architecture that simultaneously processes continuous physical fields and discrete national data, eliminating the need for lossy border averaging that has historically hindered coupled system modeling.
 - **Hypernetwork Decoder Architecture**: A unique mechanism is proposed where a hypernetwork generates per-query decoders, allowing the model to adapt rapidly to unseen variables and tasks while maintaining a frozen backbone for efficient inference.

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 Large language models (LLMs) have shown strong performance on legal benchmarks, including multiple-choice components of bar exams. However, their capacity for generating open-ended legal reasoning in realistic scenarios remains insufficiently explored. Notably, to our best knowledge, there are no prior studies or datasets addressing this issue in the Japanese context.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 2 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Takeaways
 - Large language models (LLMs) have shown strong performance on legal benchmarks, including multiple-choice components of bar exams.
 - However, their capacity for generating open-ended legal reasoning in realistic scenarios remains insufficiently explored.

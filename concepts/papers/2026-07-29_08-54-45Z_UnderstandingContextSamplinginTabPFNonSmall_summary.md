@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 TabPFN performs classification via in‑context learning, where a small set of labeled rows (the context) is used to predict unseen labels without gradient updates. On tiny tabular datasets the practitioner must decide both the context size and which rows constitute that context, raising concerns about prediction stability, accuracy, and selection cost. This paper investigates how these choices affect three metrics across 15 OpenML tables: variability of predictions, AUC performance, and computational expense of sampling strategies. The main contribution is a systematic analysis showing that larger contexts improve both accuracy and stability while revealing that diversity—not exact distribution matching—drives performance gains.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Larger context sizes (k=16 → k≥20) markedly reduce prediction variability, lowering the AUC coefficient of variation from ~6 % to 4 %, indicating more consistent performance.  
 - [Finding 2] Accuracy is strongly linked to diversity and feature‑space coverage; matching training means alone can drop AUC by up to 0.5 points because it reduces context diversity.  

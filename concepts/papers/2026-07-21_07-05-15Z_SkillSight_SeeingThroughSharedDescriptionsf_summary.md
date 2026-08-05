@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper identifies that skill descriptions share common descriptive patterns, which cause dense retrievers to over‑estimate relevance and create an energy gap between queries and skill documents, leading to inaccurate skill selection. SkillSight proposes a training‑free calibration framework that separates this shared background from task‑relevant signals in both semantic and lexical spaces.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Shared descriptive background systematically inflates dense relevance scores and creates an energy gap between queries and skill documents.  
 - [Finding 2] Semantic Background Calibration estimates a background subspace using IDF‑identified generic tokens to reduce similarity caused by generic tokens.  

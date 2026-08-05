@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research addresses the critical clinical limitations of Dynamic Contrast-Enhanced Magnetic Resonance Imaging (DCE-MRI), specifically the risks associated with gadolinium-based contrast agents (GBCAs) and the logistical burdens of prolonged scan protocols. The authors propose a novel conditioned latent transport framework capable of synthesizing patient-specific contrast enhancement from pre-contrast anatomy in a single forward pass, thereby eliminating the need for iterative sampling. By anchoring latent trajectories to structural priors and applying continuous time conditioning, the model generates temporally consistent and spatially realistic synthetic DCE-MRI sequences. The study demonstrates that this approach not only outperforms existing state-of-the-art generative models in multiple quality metrics but also significantly enhances downstream diagnostic tasks such as tumor segmentation.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions
 - **Novel Framework Architecture**: The introduction of a conditioned latent transport method that predicts contrast evolution via a single forward pass, leveraging continuous time conditioning to ensure temporal continuity and spatial realism without the computational overhead of iterative sampling.
 - **Superior Downstream Performance**: Empirical evidence showing that synthetic contrast images improve tumor segmentation accuracy by a 22.4% relative increase in Dice coefficient compared to baseline pre-contrast images, while reducing boundary segmentation error by over 39%.

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces DS@GT, a language‑routed retrieval‑augmented pipeline designed to tackle multilingual financial question answering on the FinMMEval benchmark. It combines BGE‑M3 embeddings with FAISS indexing and Retrieval‑Augmented Direct Scoring (RADS) that scores answer options directly via next‑token log‑probabilities rather than generating free‑form text. The system selects a model per language—Qwen3 for Arabic, Chinese, Hindi; Qwen2.5‑14B for English; Llama‑3.1‑8B for Greek—based on empirical ablations that reveal large language‑asymmetric performance gaps. Low‑resource languages benefit from fused retrieval indices using weighted Reciprocal Rank Fusion.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The Retrieval‑Augmented Direct Scoring (RADS) framework outperforms conventional RAG by directly evaluating answer options through next‑token log‑probabilities, yielding higher accuracy without free‑text generation.  
 - [Finding 2] Fusing per‑language and cross‑lingual retrieval indices with weighted Reciprocal Rank Fusion improves recall for low‑resource languages such as Greek, Hindi, and Arabic.  

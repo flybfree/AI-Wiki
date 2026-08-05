@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of generating realistic financial time‑series when only a single historical path is available, which makes overfitting and memorization especially dangerous under adversarial training. To avoid this, the authors replace traditional path‑signature feature maps with a fully differentiable random convolutional feature map called SOCK (SOft Competing Kernels). Their key claim is that generators trained to match these random features produce superior time‑series samples compared with existing signature‑based and diffusion baselines, while also delivering strong performance on unsupervised tasks such as two‑sample hypothesis testing and classification.  
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDist_summary.md|Summary: 2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - [Introducing SOCK: a fully differentiable random convolutional feature map that can be used to supervise generative models]  
 - [Demonstrating that generators trained by matching SOCK features outperform signature‑based and diffusion baselines on small‑sample financial datasets]  

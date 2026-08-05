@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Test‑time finetuning (TTFT) aims to adapt a large language model to each individual prompt by retrieving related training sequences, fine‑tuning the model on them, and then evaluating the query. The main bottleneck is that both retrieval and fine‑tuning must be performed per query, which makes TTFT slow for real‑time use. Existing approaches either sacrifice speed with diverse retrieval or quality with aggressive fine‑tuning. HullFT introduces a geometric framework that simultaneously solves these bottlenecks by representing the query as a sparse convex combination of few training examples and then converting those fractional weights into an exact integer multiset for efficient finetuning.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemo_summary.md|Summary: 2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_Mo_summary.md|Summary: 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The support set generated via projection‑free Frank‑Wolfe optimization is both highly relevant to the query and inherently diverse, reducing the need for costly diversity‑aware sampling.  
 - [Finding 2] A geometric integerization procedure transforms the fractional convex weights into an exact multiset of training examples, enabling repeated use of the same data without recomputation.  

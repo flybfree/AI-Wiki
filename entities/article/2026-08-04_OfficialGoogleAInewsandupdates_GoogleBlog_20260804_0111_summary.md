@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Google’s latest AI update highlights a transition toward an “agentic Gemini era,” where the Gemini app is enriched with new integrations and capabilities, while the Gemini API expands its managed‑agents functionality. The blog also showcases Google Research’s work on understanding the AI economy, applying breakthroughs to crisis resilience, and deploying three new satellites for wildfire monitoring. Together, these announcements illustrate a broader push by Google to embed AI into everyday tools and critical infrastructure.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 3 title terms overlap, 4 topic terms overlap, same area: home
+- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|AI Agents Lesson 5 - Retrieval, Context, and Long-Context Work]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|AI Agents Lesson 4 - Planning, Memory, and State]] — 2 title terms overlap, 4 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Gemini App now includes **Gemini Spark integrated with Chrome** and **new natural‑language capabilities in Gemini for macOS**, making the assistant more context‑aware across devices.  
 - The **Gemini API Managed Agents 3.6 Flash** release adds hooks and additional features, simplifying developers’ ability to build autonomous AI agents.  

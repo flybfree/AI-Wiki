@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of achieving real-time, low-latency interactions for agentic AI systems, particularly in voice-controlled applications where human perception requires response times under one second. The authors identify that traditional agentic workflows, which involve complex reasoning and multi-turn tool calling, introduce prohibitive delays that break the illusion of seamless interaction. To solve this, they introduce a novel framework combining Asynchronous I/O and Speculative Tool Calling, designed to decouple core processing from external waiting periods and manage uncertainty in information availability. Their approach enables both cloud-based and edge-scale models to maintain high responsiveness without significant degradation in task accuracy or reasoning quality.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 3 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_summary.md|Summary: 2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The proposal of Asynchronous I/O, a mechanism that decouples the agent’s reasoning thread from external I/O waits, allowing for parallel processing and overlapping computation with user or environment delays.
 - The introduction of Speculative Tool Calling, a strategy that allows agents to execute preliminary tool calls while remaining open to receiving additional user input, effectively managing incomplete information scenarios.

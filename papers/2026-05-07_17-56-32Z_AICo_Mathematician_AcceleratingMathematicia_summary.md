@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes an AI co‑mathematician—a stateful workspace where mathematicians can collaboratively generate ideas, locate literature, run computations, prove theorems, and build theories. It aims to accelerate open‑ended mathematical discovery by handling uncertainty, refining intent, and producing native artifacts such as proofs or conjectures. Early experiments show the system can solve challenging problems and achieve top scores on FrontierMath Tier 4 benchmarks.  
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 4 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLon_summary.md|Summary: 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - The AI co‑mathematician is designed as an asynchronous, stateful workbench that mirrors human collaborative workflows while managing uncertainty and tracking failed hypotheses.  
 - It demonstrates a highly interactive paradigm for AI‑assisted mathematical discovery, enabling users to iterate across ideation, literature search, computation, theorem proving, and theory building in one seamless environment.  

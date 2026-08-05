@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper introduces LongMemEval-V2 (LME-V2), a novel benchmark designed to evaluate the long-term memory capabilities of AI agents operating within specialized, customized web environments. Unlike previous benchmarks that focus on user history or short-term task success, LME-V2 specifically assesses whether agents can internalize environment-specific experience to function as knowledgeable colleagues. The benchmark comprises 451 manually curated questions across five core memory domains, supported by extensive history trajectories totaling up to 115 million tokens. This framework addresses the critical gap in measuring how effectively memory systems help agents recall interface affordances, state dynamics, and recurring failure modes over long periods.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLL_summary.md|Summary: 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAll_summary.md|Summary: 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of LongMemEval-V2, a comprehensive benchmark featuring 451 questions and massive historical data to test long-term agent memory in complex web environments.
 - The development of two distinct memory architectures, AgentRunbook-R and AgentRunbook-C, which demonstrate that coding-agent-based evidence gathering significantly outperforms traditional RAG methods in accuracy.

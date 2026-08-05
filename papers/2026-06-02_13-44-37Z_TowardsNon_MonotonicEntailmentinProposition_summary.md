@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of extending propositional defeasible standpoint logic (PDSL) to support non‑monotonic rational entailment, which is a limitation of earlier work that focused only on satisfiability and monotone reasoning. By introducing situated standpoints and conditionals, the authors create a fragment of PDSL where inference can be expressed as defeasible conditionals relative to a specific viewpoint. They then develop a systematic translation from conventional ranking‑based entailment relations (rational and lexicographic closures) into this new fragment, preserving the expressive power while enabling efficient checking.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentr_summary.md|Summary: 2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The syntax of PDSL is re‑characterised using situated conditionals that encode defeasible statements within a specific standpoint.  
 - [Finding 2] A general method is presented to transport any ranking‑based entailment from the propositional case into the PDSL fragment, with explicit translations for rational and lexicographic closures.  

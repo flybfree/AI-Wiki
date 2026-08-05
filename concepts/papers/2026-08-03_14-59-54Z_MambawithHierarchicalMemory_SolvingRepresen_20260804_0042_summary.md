@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the representation bottleneck in recurrent linear attention models like Mamba by proposing Hierarchical Memory Mamba (HMM), which integrates a lightweight working memory to capture long‑term semantic information while preserving the fast, linear‑time processing of RLA. By extracting slow paragraph‑level semantics from the backbone’s hidden states and compressing them into persistent long‑term memory, HMM overcomes the fixed‑capacity limitation of RLAs without sacrificing efficiency. The hierarchical processing enables cross‑task generalization through parametric learning—a capability absent in other long‑context enhanced Mamba variants. Experiments on Passkey Retrieval and LongBench‑E show substantial gains in retrieval success and reasoning accuracy.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Introduces Hierarchical Memory Mamba (HMM), a hybrid architecture that combines fast recurrent linear attention with a hierarchical memory system.  
 - Demonstrates that HMM improves retrieval success by 34.3–37.1% and reasoning accuracy by 1.6–14.2% over strong Mamba‑based models while adding only ~2% extra parameters.  

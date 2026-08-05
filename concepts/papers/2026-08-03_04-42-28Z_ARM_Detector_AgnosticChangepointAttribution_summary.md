@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the limitation of changepoint detection that only identifies when a change occurs but not which variables changed. ARM provides a detector‑agnostic attribution framework that certifies each coordinate’s label (location or scale) with finite‑sample error control. It yields valid per‑coordinate certificates, exact family‑wise error bounds via permutation, and false discovery rate guarantees even under high‑dimensional dependence. Simulations show ARM maintains nominal error while naive methods blow up.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The introduction of ARM, a wrapper that accepts any changepoint detector and outputs per‑coordinate attribution with location or scale labels.  
 - [Finding 2] Three finite‑sample guarantees: per‑coordinate validity under any detector; exact family‑wise error control via Westfall–Young joint permutation with Holm fallback; false discovery rate control via Benjamini–Yekutieli and e‑BH.  

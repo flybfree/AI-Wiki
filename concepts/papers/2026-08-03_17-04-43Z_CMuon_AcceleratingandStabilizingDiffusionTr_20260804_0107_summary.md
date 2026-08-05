@@ -81,3 +81,8 @@ Training curves show smoother loss trajectories with CMuon: the loss plateaus ea
 **Conclusion**
 
 CMuon demonstrates that orthogonalizing momentum across model chunks is a viable strategy for accelerating diffusion transformer training while improving stability. The method’s theoretical analysis guarantees bounded performance loss, and empirical results confirm substantial speedups with negligible accuracy trade‑offs. Future work will explore extending CMuon to non‑diffusion models and investigating adaptive chunking strategies for heterogeneous architectures.
+
+## Semantic links
+- [[concepts/papers/2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequa_20260803_0021_summary.md|Summary: 2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequationsfr.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequa_summary.md|Summary: 2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequationsfr.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequa_20260803_0302_summary.md|Summary: 2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequationsfr.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap

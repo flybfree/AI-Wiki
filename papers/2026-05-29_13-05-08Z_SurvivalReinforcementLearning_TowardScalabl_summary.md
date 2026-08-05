@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The authors address a key limitation of current self‑supervised Contrastive Reinforcement Learning (CRL), which can scale to deep networks but fails on long‑horizon goal‑conditioned tasks because contrastive losses enforce uniform value predictions. They propose Survival Reinforcement Learning (SRL), a classification‑based framework that maximizes the agent’s dwell time at target goals, thereby avoiding the “bang‑bang” control behavior typical of survival objectives. SRL bypasses CRL’s structural constraints and is evaluated on robotic manipulation and locomotion benchmarks where it matches or exceeds state‑of‑the‑art CRL performance while delivering up to eightfold gains in stable long‑horizon tasks. This work demonstrates that classification‑oriented RL can serve as a scalable primitive for deep reinforcement learning.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsfo_summary.md|Summary: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTranspo_summary.md|Summary: 2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] SRL replaces the value‑maximization objective of survival learning with a dwell‑time maximization problem, turning it into an online classification task.  
 - [Finding 2] The method eliminates the uniformity‑tolerance dilemma inherent to contrastive losses, allowing networks to learn heterogeneous goal representations without enforcing identical predictions.  

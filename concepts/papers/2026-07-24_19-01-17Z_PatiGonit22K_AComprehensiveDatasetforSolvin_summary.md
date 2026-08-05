@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors introduce PatiGonit22K, a large‑scale annotated Bengali Mathematical Word Problem (MWP) dataset that expands the original PatiGonit collection to 22,441 problems. This work aims to provide a comprehensive benchmark for evaluating natural language understanding and quantitative reasoning in low‑resource languages such as Bengali. By increasing both the size and complexity of the problem set, the authors create a resource that balances simple equations with multi‑operation tasks, enabling more robust model training and evaluation. The dataset is fully linguistically consistent, culturally adapted, and mathematically verified to ensure high quality for downstream research.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [The dataset comprises 22,441 Bengali MWPs, significantly larger than the original PatiGonit.]  
 - [It includes both simple and multi‑operation equations, providing balanced difficulty levels.]  

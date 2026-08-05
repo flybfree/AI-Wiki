@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper addresses the behavioural question of how much decision‑making authority is transferred from humans to AI in everyday financial interactions. By introducing a measurement framework that distinguishes between information retrieval (intent) and delegated execution, it provides a baseline for tracking the shift toward increasingly agentic AI. The authors apply this framework to a large‑scale dataset of ChatGPT and Gemini conversations involving 6,304 users across the United States and India. Their findings reveal that while consumers heavily rely on AI for information and judgment‑shaping, actual delegation of financial actions is still uncommon.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Consumers overwhelmingly use AI to retrieve information and shape financial judgement, but rarely delegate execution of financial decisions.  
 - [Finding 2] A behavioural measurement framework that combines intent (information‑seeking) with delegated decision authority quantifies the distribution of authority between human and AI agents.  

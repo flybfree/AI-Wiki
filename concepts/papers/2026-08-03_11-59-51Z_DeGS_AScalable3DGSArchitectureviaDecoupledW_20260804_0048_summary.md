@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the scalability bottleneck of existing 3D Gaussian Splatting (3DGS) accelerators, which suffer from poor performance gains when additional processing elements (PEs) are added due to a tightly coupled “checking‑while‑blending” dataflow that creates spatial and temporal redundancies. To alleviate this issue, the authors introduce DeGS—a scalable architecture that decouples the α‑checking, transmittance checking, and α‑blending stages into separate workload parsing, reorganization, and blending phases. This restructuring transforms fragmented, length‑variable tasks into compact, conflict‑free streams, enabling higher PE utilization during parallel blending. The approach is implemented on 28 nm technology and delivers substantial speedup and energy efficiency across a wide range of scenes and resolutions.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Identify the root cause of poor scalability as the tightly coupled checking‑while‑blending dataflow, which generates spatial redundancy from irregular Gaussian coverage and temporal redundancy under asynchronous pixel‑wise termination.  
 - [Finding 2] Propose a decoupled workload parsing architecture (DeGS) that separates α‑checking, transmittance checking, and blending into consecutive stages, reorganizing fragmented workloads into dense, conflict‑free streams before the blending phase.  

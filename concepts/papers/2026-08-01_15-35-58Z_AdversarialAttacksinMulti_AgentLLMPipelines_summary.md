@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates structural vulnerabilities in multi‑agent LLM pipelines where adversarial attacks propagate across agents due to the absence of boundary verification, creating implicit trust assumptions that are not adversarially robust. It identifies four distinct attack families—content injection, agent impersonation, plan deviation, and memory poisoning—and demonstrates that these failures arise from pipeline architecture rather than model capability alone.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Multi‑agent pipelines inherit implicit trust assumptions that generate distinct attack surfaces (content injection, agent impersonation, plan deviation, memory poisoning).  
 - Finding 2: Attack success correlates with pipeline structure, not model capability, indicating the vulnerability is fundamentally architectural.  

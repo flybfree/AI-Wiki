@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper argues that failed reasoning traces contain diagnostic information about which test‑time interventions can fix a model’s failure, beyond merely resampling the output. It proposes three problem‑level trajectory features derived from the structure of available interventions to recover this recoverability signal without reading the text. These features cluster failures into stable regimes and enable a training‑free routing rule that lifts rescue performance by +12.2 % on the deployment‑relevant “Steerable‑Hard” subset where retries are insufficient.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti__summary.md|Summary: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - Identify that failed traces encode recoverability structure independent of their textual content.  
 - Propose three problem‑level trajectory features that capture this structure from the distribution of failed rollouts.  

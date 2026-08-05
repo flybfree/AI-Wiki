@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of updating multimodal large language models (MLLMs) while preserving existing capabilities, a problem that intrinsic editing often fails to solve because edits are limited to specific samples and do not generalize across semantically equivalent visual‑linguistic variations. To achieve robust knowledge updates, the authors introduce two novel mechanisms: first, they formalize robustness by grouping inputs into “knowledge units” that capture semantic equivalence, and second, they generate adversarial yet coherent latent variants using Latent Adversarial Robustification (LAR). By aligning these representations with Rank‑Constrained Subspace Learning (RCSL), the method ensures low‑rank consistency at the edit layer. The combined approach enables generalization across diverse multimodal inputs without degrading performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearningan_summary.md|Summary: 2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A formal definition of robustness and generality through knowledge units that group semantically equivalent multimodal inputs, allowing edits to propagate uniformly within each unit.  
 - [Finding 2] Latent Adversarial Robustification (LAR), which creates adversarial yet semantically coherent variants in the joint latent space to expose fragile semantic regions.  

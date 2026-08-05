@@ -9,6 +9,11 @@ tags: [lesson, agents, foundations]
 
 **Source**: [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) · [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [LangGraph: Agent orchestration framework](https://www.langchain.com/langgraph)
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-02-harness-implementing-an-agent.md|AI Agents Lesson 2 - The Harness - Implementing an Agent]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 2 title terms overlap, shared tags: agents, foundations, lesson, 2 topic terms overlap
+
 ## Lesson goal
 Build a plain-language definition of an AI agent and learn how it differs from a chat model or a fixed workflow.
 

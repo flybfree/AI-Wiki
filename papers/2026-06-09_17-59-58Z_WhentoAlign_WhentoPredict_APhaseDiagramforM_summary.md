@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a unified linear framework that systematically determines when cross‑modal alignment (CA) versus cross‑modal prediction (CP) is beneficial, revealing complementary failure modes in multimodal representation learning. By analyzing separation ratios under a spiked signal model with structured nuisance correlation, the authors derive a phase diagram partitioning problems into four regimes: both objectives succeed, CA only, CP only, and neither succeeds. This enables practitioners to diagnose their specific multimodal task before committing to training.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffus_summary.md|Summary: 2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: The derivation of separation ratios for alignment whitening and one‑sided prediction whitening that expose complementary failure modes.  
 - Finding 2: A phase diagram with four regimes (Both, CA only, CP only, Neither) that systematically classifies multimodal problems based on source‑modality quality and cross‑modal nuisance correlation.  

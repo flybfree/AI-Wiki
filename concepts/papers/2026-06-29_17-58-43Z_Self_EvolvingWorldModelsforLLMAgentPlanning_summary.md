@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The paper proposes **WorldEvolver**, a self‑evolving world model that improves the reliability of long‑horizon LLM agent planning by revising its deployment‑time context while keeping the agent and all model parameters frozen. It integrates three modules—episodic memory, semantic memory, and selective foresight—to generate more trustworthy predictions of action consequences. By filtering low‑confidence forecasts and updating persistent heuristics from prediction‑observation mismatches, WorldEvolver enhances both predictive fidelity and downstream planning performance. The authors demonstrate that this test‑time revision outperforms existing world‑model baselines on standard benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-20_12-38-50Z_AClassifierThatTeachesItself_Self_Improving_summary.md|Summary: 2026-07-20_12-38-50Z_AClassifierThatTeachesItself_Self_Improving_Frozen.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.09
+- [[concepts/papers/2026-07-08_18-03-41Z_DeepSearch_World_Self_DistillationforDeepSe_summary.md|Summary: 2026-07-08_18-03-41Z_DeepSearch_World_Self_DistillationforDeepSearchAge.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.08
+
 ## Key Contributions  
 - [Finding 1] **Self‑evolving world model**: WorldEvolver revises its deployment‑time context without altering the agent or freezing any parameters, enabling continual improvement of its foresight.  
 - [Finding 2] **Triple‑module integration**: The framework combines episodic memory (retrieval‑based simulation), semantic memory (persistent heuristic extraction from mismatches), and selective foresight (low‑confidence prediction filtering) to produce robust predictions.  

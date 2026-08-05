@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper tackles the challenge of generating conversational music recommendations that are both high‑quality and evidence‑grounded. The authors present a third‑place solution for the ACM RecSys 2026 Blind‑B industry track, which separates retrieval from response generation to keep catalog cues intact while allowing fluid intent evolution. By structuring the generation pipeline with explicit evidence assignment, their system reaches second place on an explanation‑quality leaderboard, demonstrating near‑best‑in‑class reliability.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Isolating retrieval and response pipelines preserves both catalog cues and fluid intent, preventing loss of exact entity information as the dialogue progresses.  
 - [Finding 2] Structuring generation via an evidence‑grounded propose‑assign‑select (PAS) framework is essential for achieving high explanation reliability.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Large reasoning models (LRMs) often generate outputs that diverge from intended goals when steered via test‑time interventions on hidden representations. Prior steering methods rely on detecting patterns already present in the generated text, which can degrade quality and miss future behavior. The authors propose a new approach—Future Probe Controlled Generation—that predicts how likely each intermediate reasoning step will lead to a specific behavioral outcome using activation probes. By sampling multiple candidate sentences and selecting the one most likely to produce desired behavior according to these probes, they achieve steering with minimal output degradation. This work demonstrates that distinguishing detection from prediction features yields a more effective and reliable control mechanism for LRMs.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTrivi_summary.md|Summary: 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPe_summary.md|Summary: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The internal representations used by activation‑steering techniques are poor predictors of future behavior; they capture only present‑time signals rather than latent behavioral tendencies.  
 - [Finding 2] Activation probes trained to classify the probability of a future behavior from intermediate reasoning steps achieve 64%–91% accuracy, revealing a distinct set of predictive features.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles unsupervised anomaly detection in multivariate time series (MTS) where dynamic inter‑variable dependencies and spectral noise obscure the true signal, while existing reconstruction‑based detectors fail to distinguish anomalies from normal patterns. To overcome these challenges, the authors introduce **ContrastAD**, a framework that treats structural evolution as a learning signal rather than suppressing it. The core innovation is a **Dynamic Graph Contrastive Learner** that builds power‑law‑inspired sparse graph snapshots from batch‑level DTW distances and contrasts the most divergent pair against a stable anchor, thereby regularizing the latent space without enforcing rigid invariance. This approach integrates temporal, attribute, and structural perspectives through a Multi‑Perspective Embedder and a Frequency‑Aware Attention Mixer that filters noise before attention.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_Head_summary.md|Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-59-03Z_Variable_WidthTransformers_summary.md|Summary: 2026-06-16_17-59-03Z_Variable_WidthTransformers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 2 title terms overlap; shared tags: ai, paper, research; 16 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A **Dynamic Graph Contrastive Learner** that leverages power‑law sparse snapshots derived from DTW distances to regularize the latent space while preserving dynamic structure.  
 - [Finding 2] A **Multi‑Perspective Embedder** combined with a **Frequency‑Aware Attention Mixer** that performs spectral top‑K filtering before attention, preventing noise leakage into query‑key similarities.  

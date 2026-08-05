@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper presents a comprehensive, structured review of uncertainty quantification (UQ) methods for deep learning, with a focus on ensemble-based and approximate Bayesian approaches. The authors aim to provide a unified framework that separates the generation of predictive distributions from the measurement of their uncertainty, offering deeper insights into efficient approximations and single-pass techniques compared to existing surveys. By organizing UQ methods into five families—Bayesian neural networks, Monte Carlo Dropout, deep ensembles, efficient ensemble approximations, and last-layer approaches—the paper enables a clear comparison across diverse strategies. The work also situates related concepts such as evidential networks, conformal prediction, and out-of-distribution detection within the broader context of trustworthy AI.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors introduce a novel organizational framework that decouples uncertainty generation from measurement, enabling clearer analysis of how different methods produce predictive distributions and summarize their uncertainty.  
 - [Finding 2] They advance the field by emphasizing efficient ensemble approximations and single-pass UQ techniques, which reduce computational cost without sacrificing reliability—especially important for real-time applications in safety-critical domains.  

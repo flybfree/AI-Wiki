@@ -68,3 +68,8 @@ Skill‑use tasks (e.g., procedural robotics, medical procedure simulation, or c
 **Conclusion**
 
 SKT demonstrates that high‑quality skill‑use training can be performed at scale without sacrificing accuracy or robustness. By coupling a fast, conditional generative model with a rigorous verification pipeline, we achieve both data abundance and quality assurance—a critical enabler for deploying state‑of‑the‑art skill‑use systems in resource‑constrained environments such as robotics, autonomous surgery, and large‑scale game AI.
+
+## Semantic links
+- [[concepts/papers/2026-07-31_13-09-00Z_SimulationCodeGenerationforFluidSystemsusin_20260803_1010_summary.md|Summary: 2026-07-31_13-09-00Z_SimulationCodeGenerationforFluidSystemsusingLargeL.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_13-09-00Z_SimulationCodeGenerationforFluidSystemsusin_20260803_0922_summary.md|Summary: 2026-07-31_13-09-00Z_SimulationCodeGenerationforFluidSystemsusingLargeL.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_13-09-00Z_SimulationCodeGenerationforFluidSystemsusin_20260803_0411_summary.md|Summary: 2026-07-31_13-09-00Z_SimulationCodeGenerationforFluidSystemsusingLargeL.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap

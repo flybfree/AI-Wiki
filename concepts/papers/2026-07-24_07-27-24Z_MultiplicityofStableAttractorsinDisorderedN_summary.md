@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates the number of stable fixed‑points (attractors) in a class of neural ordinary differential equations that are driven by random coupling matrices, using large‑deviation statistics to obtain reliable estimates of this multiplicity. It shows that for moderate disorder the dynamics remain qualitatively equivalent to the symmetric gradient case, while larger disorder can generate limit cycles and chaos. The authors develop a perturbative method that quantifies attractor counts across disorder amplitudes, offering a tool applicable beyond the specific model.
 
+## Semantic links
+- [[concepts/papers/2026-07-31_16-19-24Z_ConvergenceandRegretofthePolicyGradientforM_20260803_1022_summary.md|Summary: 2026-07-31_16-19-24Z_ConvergenceandRegretofthePolicyGradientforMulti_Ar.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.12
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_16-19-24Z_ConvergenceandRegretofthePolicyGradientforM_20260803_1024_summary.md|Summary: 2026-07-31_16-19-24Z_ConvergenceandRegretofthePolicyGradientforMulti_Ar.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.10
+
 ## Key Contributions  
 - Finding 1: Large‑deviation statistics provide accurate estimates of stable fixed‑point multiplicity in disordered neural ODEs.  
 - Finding 2: For not‑too-large coupling strengths the symmetric gradient dynamics and asymmetric limit‑cycle/chaotic regimes are indistinguishable qualitatively.  

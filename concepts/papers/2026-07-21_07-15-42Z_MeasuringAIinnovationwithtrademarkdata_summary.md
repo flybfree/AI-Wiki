@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This research note demonstrates how trademark data can be leveraged to map the development and diffusion of artificial‑intelligence (AI) innovation, complementing traditional patent records. By exploiting a globally available source that spans all economic sectors, AI trademarks reveal both the breadth and the specific ways firms exploit AI technologies in their product and service portfolios. The authors provide an empirical case study of Italian companies to illustrate how trademark filings capture dimensions that patents often miss, such as branding strategies and market positioning. Their work thus offers a new analytical lens for scholars, managers, and policymakers seeking a more complete picture of AI innovation ecosystems.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_09-38-42Z_At_the_RooflineSparseTensorContractionsonVe_summary.md|Summary: 2026-07-28_09-38-42Z_At_the_RooflineSparseTensorContractionsonVectorPro.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-22_14-57-42Z_PhaseAware_InterpretableHuman_in_the_LoopRe_summary.md|Summary: 2026-07-22_14-57-42Z_PhaseAware_InterpretableHuman_in_the_LoopRehabilit.md]] — 4 title terms overlap; 6 summary/topic terms overlap; semantic match 0.02
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 8 summary/topic terms overlap; semantic match 0.07
+
 ## Key Contributions  
 - **Complementarity with patents:** AI trademarks capture dimensions—branding, service delivery, and market diffusion—that are not fully reflected in patent filings.  
 - **Global, sector‑wide coverage:** The data source provides timely, worldwide records that include firms across every industry, enabling cross‑sector analysis of AI innovation.  

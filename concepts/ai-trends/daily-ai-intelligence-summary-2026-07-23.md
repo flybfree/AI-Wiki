@@ -13,6 +13,10 @@ tags: [ai-trends, daily-summary, ai-news, intelligence, wiki]
 
 Today’s signal is that AI is becoming a full-stack control problem: compute, routing, UX, trust, and policy are all moving at once. On the infrastructure side, spend keeps outrunning visibility, with rack-scale chips, custom silicon, and data-center politics becoming first-order business issues. On the product side, the big platforms are pushing AI into voice, health, search, and smart-home routing. On the safety side, guardrails are turning into policy, tooling, and explicit dual-use boundaries. And on the usage side, the data says AI adoption is broad but still mostly assistive rather than fully automated.
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
 ## Key Themes
 
 ### 1. Compute and chips are still the hard constraint

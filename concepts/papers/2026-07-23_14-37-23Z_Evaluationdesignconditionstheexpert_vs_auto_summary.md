@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how evaluation design influences the apparent gap between expert‑assigned MeSH terms and automatic MeSH features in classification tasks, using a controlled comparison of bag‑of‑words logistic regression versus BiomedBERT on the Cohen drug‑class benchmark across three topics. It demonstrates that the size of the expert‑vs‑auto gap varies with cross‑validation scheme and corpus allocation, challenging assumptions about feature source importance. The study also reveals token truncation constraints as a possible contributor to transformer performance differences. Overall, it argues that evaluation methodology can substantially reshape conclusions drawn from benchmark results.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: The expert‑vs‑auto MeSH gap on the Statins topic is +0.096 WSS@95% under full‑corpus 5‑fold design but shrinks to near zero in 10‑fold CV or when matched to smaller topics.  
 - Finding 2: BiomedBERT’s performance matches bag‑of‑words results under the 10‑fold cross‑validation design, suggesting that evaluation scheme can mask underlying feature differences.  

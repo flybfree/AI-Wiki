@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Apple is now seeking a preliminary injunction in its trade‑secret lawsuit against OpenAI, arguing that the company has taken confidential Apple technology to develop an AI device or other products. The filing also alleges that more than the two former employees named in the original complaint—Chang Liu and Tang Yew Tan—may have been involved, with additional ex‑employees meeting with OpenAI to discuss proprietary information.
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Apple claims that several former staff members met with OpenAI before interviews and shared unannounced product details.  
 - The company’s motion for a preliminary injunction is based on the suspicion of broader involvement beyond Liu, Tan, Yu‑Ting Peng, and other named individuals.  

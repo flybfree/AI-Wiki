@@ -8,6 +8,11 @@ Model: None
 ## Summary
 Symbolic Regression (SR) is a critical scientific modeling technique that seeks to derive analytical equations from observational data, yet traditional methods often struggle with efficiency and the discovery of complex structures. This paper introduces MOT-SR, a novel framework that leverages Large Language Models (LLMs) augmented by external analytical tools to address the limitations of current single-objective approaches. By integrating structural priors extracted from data analysis tools, MOT-SR guides the equation generation process more effectively than previous methods. The system operates in a closed-loop manner, continuously refining strategies and equations through multi-objective optimization.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions
 - **Multi-Objective Optimization Framework**: The authors propose a unified framework that jointly optimizes for accuracy, structural complexity, and generalization, maintaining a dynamic Pareto front to prevent premature convergence to local optima.
 - **Tool-Augmented LLM Architecture**: MOT-SR introduces two collaborative LLM modules—a Meta Strategy Generator and an Equation Generator—that work together to select analytical tools and synthesize structural optimization strategies based on Pareto-optimal solutions.

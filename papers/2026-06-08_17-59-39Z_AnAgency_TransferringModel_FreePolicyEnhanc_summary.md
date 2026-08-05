@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces an “agency‑transferring” technique that augments a pre‑existing suboptimal policy with a trainable reinforcement‑learning (RL) agent to obtain a more efficient and higher‑performing controller. By initially relying on the baseline policy and gradually shifting control over time, the method reduces training cost while still delivering a final policy that outperforms the original baseline. The approach is grounded in a formal definition of a functional baseline—one that reaches a goal and stays there with high probability—and it provides both theoretical guarantees and empirical evidence for its effectiveness.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenera_summary.md|Summary: 2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A pre‑trained, functional baseline can be leveraged to bootstrap RL training, dramatically lowering the computational burden compared with training from scratch.  
 - [Finding 2] The authors derive a formal lower bound on the goal‑reaching probability of the final standalone policy, showing that the agency‑transferring process preserves high performance even after the baseline is fully abandoned.  

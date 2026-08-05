@@ -21,6 +21,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://example.com/placeholder)
+
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|AI/ML Foundations Lesson 07 - Convolutional Networks for Vision]] — 3 title terms overlap; shared tags: cnn, foundations, lesson; 6 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|AI/ML Foundations Lesson 08 - Recurrent Networks and LSTMs]] — 2 title terms overlap; shared tags: foundations, lesson, rnn; 6 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|AI/ML Foundations Lesson 09 - Attention and Transformers]] — 2 title terms overlap; shared tags: foundations, lesson, transformer; 6 backlinks
+
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|Lesson 13: Agents and Agentic Workflows]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

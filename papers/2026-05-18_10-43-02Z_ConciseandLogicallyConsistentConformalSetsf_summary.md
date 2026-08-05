@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical issue of overconfidence in Neuro-Symbolic Concept-based Models (NeSy-CBMs), which integrate neural networks with symbolic reasoning to enhance reliability in high-stakes applications. The authors argue that while these models extract high-level concepts and infer labels via logical constraints, their predictions often lack calibrated uncertainty, making it difficult for stakeholders to trust their decisions. To resolve this, the study introduces COCOCO, a novel post-hoc framework that applies Conformal Prediction to jointly conformalize both concepts and labels. By reconciling these predictions through a single deduction-abduction revision step, COCOCO ensures rigorous, distribution-free coverage guarantees while maintaining logical consistency and conciseness, thereby providing a robust solution for uncertainty quantification in neuro-symbolic systems.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinP_summary.md|Summary: 2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvi_summary.md|Summary: 2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The authors formally define three essential desiderata for conformal methods in NeSy-CBMs: consistency, coverage, and conciseness, demonstrating that existing approaches fail to satisfy at least one of these criteria.
 - They introduce COCOCO, a new framework that jointly conformalizes concepts and labels, utilizing a deduction-abduction revision step to ensure logical consistency while adhering to user-specified size budgets.

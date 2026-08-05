@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes Positive‑Only Policy Optimization (POPO), a reinforcement‑learning framework that learns exclusively from verified positive rollouts while avoiding explicit negative samples. It introduces implicit negative gradients through redistribution of positive probability mass and stabilizes policy evolution with a siamese network equipped with momentum adaptation and a bounded similarity penalty. POPO achieves performance comparable to or exceeding Group Relative Policy Optimization (GRPO) on standard math benchmarks, reaching 36.67 % in AIME 2025 for the Qwen‑Math‑7B model versus GRPO’s 30.00 %. The approach eliminates costly negative rollout sampling and reduces combinatorial explosion.  
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTranspo_summary.md|Summary: 2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - Implicit negative gradients emerge naturally through positive rollout redistribution.  
 - A siamese policy network with momentum adaptation stabilizes policy evolution.  

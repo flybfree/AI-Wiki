@@ -16,6 +16,11 @@ Model: None
 ## Summary
 GFlowState is a visual analytics system for understanding the training dynamics of Generative Flow Networks. It lets users inspect sampling trajectories, compare sample spaces with reference data, and monitor policy evolution through coordinated visual views.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Takeaways
 - Adds interpretability beyond standard metric tracking for GFlowNets.
 - Includes rankings, state projections, trajectory graphs, and transition heatmaps.

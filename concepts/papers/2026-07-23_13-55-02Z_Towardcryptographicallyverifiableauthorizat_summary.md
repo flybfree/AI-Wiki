@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a cryptographically verifiable authorization framework for autonomous AI agents, formalizing the relationship between an agent principal, a concrete request, an execution context, and policy satisfaction as a single relation \(R_{CVA}\). It introduces a preliminary formal model, enumerates candidate security properties such as authorization soundness and replay resistance, and delivers a proof‑of‑concept implementation using Groth16 zk‑SNARKs that demonstrates selective disclosure of private attributes. The work also highlights an open design problem: the structural separation among identity binding, request binding, and runtime execution binding. By providing both a theoretical abstraction and an executable prototype, the authors advance the field toward trustworthy autonomous agents.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_15-46-02Z_COntExt_TowardsContext_AwareOntologyExtensi_20260803_1024_summary.md|Summary: 2026-07-31_15-46-02Z_COntExt_TowardsContext_AwareOntologyExtensionfromO.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-07-31_15-46-02Z_COntExt_TowardsContext_AwareOntologyExtensi_20260803_1025_summary.md|Summary: 2026-07-31_15-46-02Z_COntExt_TowardsContext_AwareOntologyExtensionfromO.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.07
+
 ## Key Contributions
 - [Finding 1] A formal definition of Cryptographically Verifiable Agent Authorization (CVA) that binds principal, request, context, and policy while preserving confidentiality of private attributes.  
 - [Finding 2] A set of candidate security properties—authorization soundness, principal binding, request binding, policy binding, and replay resistance—that the CVA model aims to satisfy.  

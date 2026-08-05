@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Uplift modeling aims to estimate the conditional average treatment effect for personalized interventions, but existing benchmarks often compare different metrics rather than models. The paper introduces UpliftBench, a systematic evaluation protocol that isolates the outer test and uses multi‑objective criteria across seven dataset families. It demonstrates that the apparent ranking disputes stem from objective mismatch: F1 is ineffective on continuous outcomes while AUUC aligns better with true effect accuracy; conversely, rank‑only metrics fail to capture sign‑threshold policy risk in a within‑sample case study. The findings are bounded by dataset and objective constraints, not universal truths. UpliftBench also provides versioned loaders, fixed protocols, artifacts, and a living leaderboard for reproducibility.
 
+## Semantic links
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]] — 3 title terms overlap; 506 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_02-47-44Z_RethinkingPPG_basedSleepStaging_Datasets_Me_summary.md|Summary: 2026-08-02_02-47-44Z_RethinkingPPG_basedSleepStaging_Datasets_Metrics_a.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] F1 on the standard continuous benchmark (IHDP) shows negligible rank correlation with effect accuracy across all realizations, indicating it is not a reliable proxy.  
 - [Finding 2] AUUC consistently outperforms Qini in aligning with true effect magnitude and even surpasses shipped cumulative‑gain AUUC; threshold calibration reduces Qini’s regret by 81 %.  

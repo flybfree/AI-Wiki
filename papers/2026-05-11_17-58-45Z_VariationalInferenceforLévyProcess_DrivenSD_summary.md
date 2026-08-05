@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper seeks to develop a Bayesian inference framework for stochastic differential equations (SDEs) driven by Lévy processes, which are essential for modeling heavy‑tailed phenomena such as extreme events in finance, climate science, and safety‑critical AI. Existing methods either rely on Monte Carlo simulation—rigorous but computationally prohibitive—or use neural variational inference that assumes Gaussianity, a poor fit to the jump structure of Lévy processes. The authors introduce an exponential tilting approach that reweights the Lévy measure with neural networks, preserving discontinuities while remaining tractable. Their method yields closed‑form normalizing constants and scalable estimators that outperform conventional Gaussian‑based variational techniques.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentr_summary.md|Summary: 2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictio_summary.md|Summary: 2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Neural exponential tilting preserves the jump structure of Lévy processes by reweighting their measure with a flexible neural network, enabling gradient‑based optimization without losing heavy‑tailed properties.  
 - [Finding 2] A quadratic neural parametrization provides closed‑form normalization constants and a conditional Gaussian representation for stable sub‑processes, facilitating efficient simulation and inference.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 AlphaRoute proposes a large‑language model (LLM) based framework for solving VLSI global routing, an NP‑hard problem that balances congestion, wirelength and via transitions. By reformulating the rip‑up and reroute (R&R) process into a dynamic optimization system, AlphaRoute isolates per‑net congestion with SHAP‑based overflow decomposition and uses 3D Dijkstra maze routing together with an adaptive PathFinder policy to extract subgraphs. Crucially, LLMs act as semantic optimizers that continuously adjust penalty parameters within a deterministic knowledge graph, enabling real‑time adaptation beyond static heuristics.
 
+## Semantic links
+- [[concepts/papers/2026-08-01_13-21-55Z_Select_And_Extract_ALightweightPluginforRet_summary.md|Summary: 2026-08-01_13-21-55Z_Select_And_Extract_ALightweightPluginforRetrieval_.md]] — 5 title terms overlap; 8 summary/topic terms overlap; semantic match 0.06
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-30_14-21-55Z_LLM_GuidedEvolutionarySearchforConstraintMo_summary.md|Summary: 2026-07-30_14-21-55Z_LLM_GuidedEvolutionarySearchforConstraintModelRefo.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 - [Finding 1] Introduces AlphaRoute, a multi‑objective adaptive search framework that reformulates R&R into a dynamic optimization problem.  
 - [Finding 2] Integrates SHAP‑based overflow decomposition with 3D Dijkstra maze routing and an adaptive PathFinder policy for subgraph extraction.  

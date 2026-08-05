@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates why large language models systematically overuse the classical rhetorical figure epanorthosis—the self‑correction of a specimen phrase such as “This is not a course. It is a journey of transformation.”—and proposes an Epanorthosis Index to quantify its prevalence relative to human usage across different genres. It argues that this bias originates from training data dominated by promotional prose and reinforcement‑learning‑from‑human‑feedback (RLHF) preferences for emphatic, confident phrasing rather than the left‑to‑right generation process itself. The authors develop a lightweight mitigation framework using low‑rank adaptation (LoRA) adapters, showing that simple instruction prompts can cut the figure by half to three‑quarters or remove it entirely with a scaling coefficient that restores human rates. Their work aims to calibrate model output to human expectations per genre rather than eliminating the figure altogether.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Models systematically overuse epanorthosis, especially in formal oratory and Italian text, where density is roughly twice the human baseline.  
 - [Finding 2] The Epanorthosis Index reveals mis‑calibration across genres: overshoot in argumentative writing, undershoot in informal question‑and‑answer exchanges, while matching humans in journalistic and encyclopedic prose.  

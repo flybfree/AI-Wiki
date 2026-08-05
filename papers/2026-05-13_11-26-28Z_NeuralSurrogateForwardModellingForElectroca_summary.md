@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research paper addresses a critical bottleneck in non-invasive cardiac electrophysiology, specifically regarding the modeling of atrial fibrillation (AF), by proposing a novel deep learning framework for forward modeling. The authors introduce a neural surrogate model that directly maps left atrial intracellular electrical potentials to far-field electrocardiograms (ECGs), effectively bypassing the need for explicit intracellular conductivity tensors. This approach is significant because conventional physics-based models rely on these tensors, which are unmeasurable in clinical settings and introduce substantial structural uncertainties. By leveraging a data-driven approach, the study demonstrates that accurate ECG prediction is possible without explicit knowledge of the underlying tissue conductivity properties, offering a promising pathway for improving the assessment and understanding of complex arrhythmias.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions
 - The development of a deep learning architecture that learns a direct, end-to-end mapping from intracellular potentials to surface ECGs, eliminating the dependency on explicit intracellular conductivity tensors during inference.
 - Demonstration of high predictive accuracy (R² = 0.949 ± 0.037) despite being trained on a relatively small dataset of only 74 subjects, indicating strong generalization capabilities and robustness.

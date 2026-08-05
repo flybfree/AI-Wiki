@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper investigates whether vision‑language models (VLMs) outperform large language models (LLMs) in producing human‑like text representations during natural reading, a task that isolates the influence of multimodal training from any visual input. By comparing tightly matched LLM and VLM pairs under a strictly text‑only evaluation regime, the authors aim to determine whether vision‑language pretraining yields a uniform advantage or only selective benefits for specific sentence types. Their contribution is a controlled in‑silico framework that links multimodal learning history to measurable human alignment signals such as fMRI activity and eye‑tracking saccades.  
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - **Finding 1:** VLM advantage is not global; multimodal pretraining does not uniformly enhance human alignment across all sentences during natural reading.  
 - **Finding 2:** The VLM’s benefit emerges selectively for sentences that contain strong visual semantic content, suggesting a domain‑specific effect of the visual learning history.  

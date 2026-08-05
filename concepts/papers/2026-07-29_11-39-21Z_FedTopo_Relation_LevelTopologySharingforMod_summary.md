@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Federated learning (FL) struggles to transfer knowledge across clients when each client runs a different model architecture, because the resulting feature representations are not aligned in an absolute space. Existing FL methods share only parameters, distilled predictions or prototypes, all of which must be expressed in a common coordinate system that can mislead local training. FedTopo addresses this by encoding global knowledge as a **relation‑level topology**—the pattern of how classes relate to one another within each client’s own representation space—rather than trying to align raw feature vectors. This approach lets clients upload lightweight class statistics, and the server aggregates them in a reliability‑aware way before broadcasting a global topology that guides local training.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] **Relation‑level topology sharing**: FedTopo replaces parameter or prototype sharing with a compact representation of class relationships learned locally.  
 - [Finding 2] **Reliability‑aware aggregation**: The server down‑weights weak or noisy relations, producing a more trustworthy global topology.  

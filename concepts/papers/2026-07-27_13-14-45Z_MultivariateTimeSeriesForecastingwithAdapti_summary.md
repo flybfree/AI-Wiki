@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces MTSF-ANO, a hybrid quantum neural network model designed to improve the performance of multivariate time series forecasting (MTSF) by incorporating adaptive non-local observables (ANO). The authors address a key limitation in existing quantum approaches: fixed local measurements that constrain expressivity and predictive power. By integrating variational quantum circuits with an adaptive mechanism for selecting non-local observables, MTSF-ANO enhances the model’s ability to capture complex temporal dependencies across multiple variables. The proposed framework demonstrates superior performance compared to both classical baselines and fixed-local observable variants on diverse experimental datasets.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_18-29-45Z_SharedSFTLessonsAcrossAlignment_ModelOrgani_summary.md|Summary: 2026-07-28_18-29-45Z_SharedSFTLessonsAcrossAlignment_ModelOrganisms_and.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictio_summary.md|Summary: 2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.10
+
 ## Key Contributions  
 - [Finding 1] MTSF-ANO achieves top or second-place rankings in mean squared error (MSE) across 20 different settings using four ETT (Efficient Tensor Train) datasets, outperforming the strongest classical baseline by up to 20% on ETTh1.  
 - [Finding 2] The adaptive non-local observables (ANO) significantly improve forecast accuracy relative to fixed local observable models, which either match or are surpassed in performance across all experimental conditions.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper challenges the common practice of summarizing large‑language model progress with a single scalar metric, arguing that such summaries obscure how gains are distributed across task difficulty. By analyzing time‑horizon data from METR and a clean competitive‑programming benchmark (LiveCodeBench), the authors demonstrate that most observed improvements on hard problems stem from ceiling effects rather than a genuine change in model capability. They also uncover a modest, persistent advantage of newer models on the hardest coding tasks, which persists even after accounting for overall ability growth. This work shows that scalar progress reports can mislead and that task‑specific effects require careful isolation.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A Rasch model with rising latent ability fully explains the apparent shift in gains toward harder tasks on METR time‑horizon data, indicating ceiling effects are the primary driver.  
 - [Finding 2] After controlling for overall ability, models released after September 2024 still outperform their predicted easy/medium performance on the hardest LiveCodeBench problems by roughly +0.40 logits.  

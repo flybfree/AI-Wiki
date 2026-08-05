@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how algorithmic methods can illuminate two intertwined domains: sequential decision‑making under uncertainty and the social epistemic phenomena that shape collective choices. By applying rigorous theoretical analysis to the improving multi‑armed bandit problem, it establishes tight upper and lower bounds on near‑optimal strategies while also showing that a modest number of data samples suffice for learning robust algorithms from similar instances. In the second part, the authors formalize two social epistemological problems—pessimism traps and the influence of grit—and propose algorithmic interventions to counteract them. The work thus bridges computational algorithms with philosophical questions about how individuals and groups make decisions in complex environments.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_01-07-40Z_MitigatingMatthewEffect_Multi_HypergraphBoo_summary.md|Summary: 2026-07-21_01-07-40Z_MitigatingMatthewEffect_Multi_HypergraphBoostedMul.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-07-22_02-35-40Z_Multi_MaskDiffusionLanguageModelsforFew_Ste_summary.md|Summary: 2026-07-22_02-35-40Z_Multi_MaskDiffusionLanguageModelsforFew_StepGenera.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.03
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Tight upper‑ and lower‑bounds for near‑optimal policies in the improving multi‑armed bandit problem, demonstrating that standard algorithms can be asymptotically optimal.  
 - [Finding 2] A data‑driven guarantee that a polynomial number of samples is enough to learn good algorithms from a class of candidate strategies.  

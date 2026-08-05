@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 CraftAlign is a framework that aligns AI‑generated stories with the craft of human storytelling by both assessing writing patterns and providing revision guidance. It predicts 304 explicit narrative features, scores their configuration against human or AI writing styles, and then applies structured perturbations to move the story toward the desired pattern. The inferred changes are converted into natural‑language instructions for a separate editor to rewrite the full text. Experiments demonstrate that CraftAlign reliably distinguishes human from AI patterns and yields superior revision results compared with existing baselines.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A feature estimator predicts 304 explicit writing features spanning style and narrative, enabling fine‑grained analysis of AI story generation.  
 - [Finding 2] A class‑conditional energy model scores the resulting feature configuration against human and AI writing patterns while conditioning on the original prompt, providing a quantitative alignment metric.  

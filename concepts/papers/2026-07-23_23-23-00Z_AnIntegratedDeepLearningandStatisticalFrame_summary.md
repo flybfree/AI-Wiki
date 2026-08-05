@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors aim to uncover gene‑environment associations that drive the complex leaf vascular architecture by treating each leaf as a high‑dimensional whole‑network phenotype rather than relying on low‑dimensional summary traits. Their contribution is an integrated framework that combines deep learning edge detection with Transformers, diffusion‑generated edge maps, and semiparametric sparse canonical correlation analysis to jointly model spatial patterns and select biologically relevant variables. By applying this pipeline to a real *Populus* dataset they identify three significant gene‑geography interactions, demonstrating both methodological novelty and biological relevance.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - The framework represents the complete leaf vascular architecture as a whole‑network image phenotype, preserving most of the structural information present in raw RGB images.  
 - It fine‑tunes an Edge Detection with Transformers (EDTER) model to jointly learn local and global contextual features, enabling accurate extraction of whole‑network vein patterns from RGB photographs.  

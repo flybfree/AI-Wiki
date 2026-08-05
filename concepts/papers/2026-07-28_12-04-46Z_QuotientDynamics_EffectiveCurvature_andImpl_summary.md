@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how the quotient structure of positive quadratic networks governs training dynamics, curvature, recovery, and interpolation bias for low‑rank PSD matrices. By exploiting the fact that the Euclidean factor gradient is horizontal on the rank‑r manifold, it shows that factor gradient flow projects exactly to a Riemannian gradient flow on the quotient space. The authors also derive an effective Hessian at interpolators via the empirical Gram form restricted to the tangent space and resolve nonuniqueness through weighted entropy in the invariant joint spectral algebra.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_22-37-34Z_Gram_Space_Structure_PreservingCodebookComp_summary.md|Summary: 2026-08-02_22-37-34Z_Gram_Space_Structure_PreservingCodebookCompression.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-07-21_17-17-35Z_RiemannianDeepLearning_Modules_Networks_and_summary.md|Summary: 2026-07-21_17-17-35Z_RiemannianDeepLearning_Modules_Networks_andGeometr.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - **Exact congruence recursion**: Finite‑step gradient descent predictor satisfies a precise recurrence that mirrors the continuous‑time flow on the PSD manifold.  
 - **Population curvature bounds**: Under Gaussian rank‑one measurements, uniform deviation bounds are proved for the empirical normal operator, yielding explicit curvature estimates.  

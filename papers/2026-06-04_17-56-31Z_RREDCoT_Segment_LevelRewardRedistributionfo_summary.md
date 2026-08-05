@@ -16,6 +16,11 @@ Model: None
 ## Summary  
 The paper introduces RREDCoT (Reward REDistribution for Chain of Thought), a novel approach to solving the delayed reward problem in reinforcement learning fine-tuning of reasoning language models such as those generating Chain-of-Thought (CoT) traces. By redistributing rewards at the segment level within CoT traces, RREDCoT enables more efficient and accurate credit assignment during training without requiring Monte Carlo sampling or additional model generation. This method improves reward signal precision and reduces variance compared to traditional RL techniques like GRPO. The contribution lies in developing a self-contained framework that leverages the model’s own reasoning process to estimate optimal reward redistribution.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 2 title terms overlap; shared tags: ai, paper, research; 19 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] RREDCoT enables segment-level reward redistribution within CoT traces, allowing for precise credit assignment without Monte Carlo sampling or external computation.  
 - [Finding 2] The method reduces variance in reinforcement learning by providing a more stable and accurate estimate of intermediate state values compared to standard RL algorithms like GRPO.  

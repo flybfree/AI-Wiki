@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how neural networks that can grow (adding new units) or both grow and shrink (elastic networks) behave in online continual learning, focusing on preserving plasticity against catastrophic forgetting. It proposes adaptive growing and elastic network architectures where new hidden units are randomly initialized and existing connections adapt, while dead units are pruned. Experiments show these structures maintain high accuracy and plasticity despite increasing dead unit proportion.  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Adaptive growing networks retain high prediction accuracy even as the fraction of dead (non‑active) hidden units rises, demonstrating that incremental addition of random units can sustain plasticity.  
 - Elastic networks achieve excellent accuracy while keeping a near‑constant compact size by pruning estimated dead units at each task start, thus balancing growth and shrinkage.  

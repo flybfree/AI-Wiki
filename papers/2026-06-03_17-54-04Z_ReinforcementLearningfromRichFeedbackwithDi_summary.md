@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes DistIL, a distributional variant of DAgger that leverages rich feedback such as execution traces and expert corrections. It replaces the binary reward with a forward cross‑entropy loss that propagates future disagreements back to earlier decisions. This yields monotonic policy improvement with regret guarantees unlike prior self‑distillation methods. Experiments across scientific reasoning, coding, and math problems show improved Pass@N.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The forward cross‑entropy objective enables a blackbox expert distribution to guide learning without requiring explicit reward modeling.  
 - [Finding 2] The loss guarantees monotonic policy improvement, preventing increases in probability of worse actions even when the expert is better.  

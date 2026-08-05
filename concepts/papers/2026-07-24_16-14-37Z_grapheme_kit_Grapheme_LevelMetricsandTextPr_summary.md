@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the limitation of existing NLP metrics that operate on Unicode code points, which can misrepresent writing systems where a single grapheme is encoded as multiple code points. It introduces **grapheme‑kit**, an open‑source Python library extending those metrics to grapheme clusters. The library also provides specialized grapheme processing utilities for Tamil and Sinhala scripts. An OCR case study demonstrates that grapheme‑level evaluation yields more faithful results than code‑point based approaches.  
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Grapheme‑kit implements a set of metrics (lexical distance, similarity) that operate on grapheme clusters rather than Unicode code points.  
 - The library includes accurate grapheme cluster identification and composition/decomposition utilities tailored for Tamil and Sinhala scripts.  

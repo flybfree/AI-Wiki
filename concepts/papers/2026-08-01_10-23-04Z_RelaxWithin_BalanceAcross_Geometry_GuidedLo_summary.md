@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of uneven token distribution in vision‑language mixture‑of‑experts (MoE) batches, where image and text tokens appear in varying quantities due to different resolutions, counts, tiling strategies, and prompt lengths. By introducing a geometry‑aware load‑balancing scheme called ReBA (“Relax Within, Balance Across”), the authors show that standard token‑level auxiliary loss cannot fully mitigate large imbalances across modalities, leading to severe router inefficiencies on high‑resolution images. Their solution preserves task accuracy while dramatically reducing both average and worst‑case load across a broad range of physical preprocessing settings.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The standard Switch auxiliary loss (Std‑Aux) only balances the mixed token count, allowing large image‑text load errors to cancel each other out.  
 - [Finding 2] The image‑text load gap is resolution‑dependent; a router trained on one resolution can exhibit up to five‑fold higher imbalance when applied to another.  

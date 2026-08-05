@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper introduces DashAttention, a novel differentiable and adaptive sparse hierarchical attention mechanism designed to address the limitations of existing methods like NSA and InfLLMv2. Unlike traditional approaches that rely on fixed top-k selections which hinder gradient flow and assume a constant number of relevant tokens, DashAttention utilizes an adaptively sparse $\alpha$-entmax transformation to dynamically select a variable number of key-value blocks based on the specific query. This approach ensures the entire hierarchy remains fully differentiable and non-dispersive, significantly enhancing long-context modeling capabilities. The authors demonstrate that DashAttention achieves accuracy comparable to full attention while maintaining high sparsity levels, offering a superior trade-off between computational efficiency and performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-59-03Z_Variable_WidthTransformers_summary.md|Summary: 2026-06-16_17-59-03Z_Variable_WidthTransformers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_summary.md|Summary: 2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - **Differentiable Adaptive Selection**: The primary contribution is the introduction of an adaptive sparse $\alpha$-entmax transformation that allows the model to select a variable number of relevant key-value blocks per query, overcoming the rigidity of fixed top-k operations and enabling seamless gradient flow between sparse and dense stages.
 - **Non-Dispersive Property**: The authors theoretically and empirically establish that DashAttention is non-dispersive, a critical property that prevents the dilution of attention mass and leads to superior long-context modeling abilities compared to other hierarchical attention methods.

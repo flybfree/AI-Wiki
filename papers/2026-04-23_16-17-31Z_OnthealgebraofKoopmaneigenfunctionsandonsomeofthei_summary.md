@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper studies algebraic structure in Koopman eigenfunctions for reversible continuous-time dynamical systems. By generating polynomial combinations from a small set of principal eigenfunctions and addressing singularities, it aims to enlarge computable eigenspaces and support more global representations from local data.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpu_summary.md|Summary: 2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Takeaways
 - Uses the multiplicative group property of nowhere-vanishing eigenfunctions.
 - Constructs larger eigenspaces from a smaller principal set.

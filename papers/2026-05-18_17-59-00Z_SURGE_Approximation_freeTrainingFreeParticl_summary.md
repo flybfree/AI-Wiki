@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces SURGE, a novel inference-time guidance algorithm designed to enhance the sample quality of diffusion-based generative models without requiring gradient computations or extensive computational overhead. The authors address the limitations of existing techniques that rely on repeated score or gradient evaluations, which often introduce bias and significant computational costs. By leveraging a derivative-free approach based on Girsanov change of measure, SURGE performs path-wise importance reweighting and periodic resampling of simulated trajectories. This method allows for unbiased terminal laws while maintaining simplicity and efficiency, offering a robust alternative to traditional gradient-based inference-time guidance methods.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-39-00Z_SACE_ConceptErasureattheSemanticSingularity_summary.md|Summary: 2026-06-14_13-39-00Z_SACE_ConceptErasureattheSemanticSingularityinVisua.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - **Derivative-Free Guidance**: SURGE eliminates the need for score, Hessian, or PDE evaluations by using a simple multiplicative weight attached to each simulated trajectory, making it fully gradient-free.
 - **Theoretical Equivalence**: The authors establish a rigorous mathematical equivalence between path-wise and particle-wise Sequential Monte Carlo (SMC), proving that Girsanov path weights recover previous particle-level weights via backward conditional expectation.

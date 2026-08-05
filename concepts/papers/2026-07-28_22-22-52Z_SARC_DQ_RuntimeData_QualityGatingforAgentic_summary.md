@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces SARC‑DQ, a runtime data‑quality gating mechanism that isolates “silent evidence defects” in agentic AI systems where metadata‑borne anomalies—such as stale prices or superseded records—lead to costly actions without triggering any quality flags. By treating evidence integrity as an independent system axis rather than a model capability issue, the authors demonstrate that downstream remediation can fully recover losses only when it is placed after the inference step and covers the relevant predicates. Their work reveals that even highly capable models across a wide price spectrum exhibit a flat defect‑conversion rate of roughly 60 % with no measurable skepticism (AUC ≤ 0.5). The contribution lies in providing a deterministic analysis pipeline that links these observations to an analytical form derived from the task’s decision geometry.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Runtime data‑quality gating can detect silent evidence defects that cause agents to act on stale or superseded metadata, resulting in actions with no quality flags and minimal doubt markers.  
 - [Finding 2] Model capability does not translate into reduced defect conversion rates; the 60 % conversion rate persists across four model tiers spanning a 15× price difference, yielding an AUC ≤ 0.5 on detection signals.  

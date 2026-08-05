@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates whether the Plan Mode—a feature that lets users outline an algorithm before execution—delivers measurable benefits in spreadsheet programming, where iterative work and less emphasis on technical correctness are common. The authors prototype a spreadsheet‑agent with a plan mode and compare it to a non‑planning baseline through a within‑subjects user study of 24 participants. Despite achieving comparable task outcomes, the plan‑enabled tool was perceived as more supportive of creativity and collaboration, while also reducing the need for extensive refinement. The findings suggest that structured planning can still be valuable even in informal programming environments like spreadsheets, but its design must align with users’ iterative mindset.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: A within‑subjects user study (N = 24) shows that Plan Mode does not degrade task performance compared to a non‑planning baseline.  
 - Finding 2: Users report higher perceived creativity support and better human‑machine collaboration when using the plan mode, even though they perform fewer refinement steps.  

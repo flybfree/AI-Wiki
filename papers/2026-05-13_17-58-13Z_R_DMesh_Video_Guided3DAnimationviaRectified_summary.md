@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper addresses the critical challenge of pose misalignment in video-guided 3D animation, where static meshes rarely match the initial pose of reference videos. To solve this, the authors introduce R-DMesh, a unified framework that generates high-fidelity 4D meshes by explicitly rectifying input poses to align with video contexts. The method utilizes a novel Variational Autoencoder (VAE) to disentangle the input into a base mesh, relative motion, and a rectification offset, ensuring geometric consistency. By leveraging a Triflow Attention mechanism and Rectified Flow-based Diffusion Transformers, R-DMesh enables robust animation transfer and holistic 4D generation.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmark_summary.md|Summary: 2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions
 - **Resolution of Pose Misalignment**: The authors identify and solve the frequent issue where user-provided static meshes do not align with the starting frame of a reference video, preventing severe geometric distortion during animation.
 - **Novel Disentangled Representation**: They introduce a VAE architecture that explicitly separates the input into a conditional base mesh, relative motion trajectories, and a crucial rectification jump offset, allowing for automatic pose correction before animation begins.

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors propose a unified multidimensional explainability metric that evaluates XAI techniques such as LIME and SHAP across diverse datasets, models, and end‑users. The framework quantifies three core attributes—fidelity, simplicity, and stability—to produce an overall trustworthiness score for AI systems. By building an offline knowledge base of these scores, the work enables context‑aware comparison and prediction for unseen configurations. This effort advances XAI by providing a systematic, reproducible tool for assessing model transparency.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - The authors introduce a multidimensional explainability metric that simultaneously captures fidelity, simplicity, and stability.  
 - They develop an offline knowledge base that stores explainability scores for registered models across multiple datasets, facilitating context‑dependent evaluation.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper demonstrates that current speculative decoding techniques—local vocabulary masking, Leviathan rejection, and rollback—produce samples from a locally projected distribution rather than the intended grammar‑conditional distribution. It introduces the future‑validity function Φ_t(y) as a missing correction statistic that would align the decoder’s output with the true grammar‑conditional law. By providing exact or approximate Φ, the authors show how to transform speculative decoding into a faithful sampling process. The work bridges an earlier impossibility result for grammar‑constrained generation with practical estimators for tractable grammars.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal__summary.md|Summary: 2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Any speculative decoder that uses local mask access, Leviathan rejection, and rollback samples from the locally projected distribution μ^{proj} instead of the target grammar‑conditional distribution μ★.  
 - [Finding 2] The future‑validity function Φ_t(y)=Pr_p[valid completion | y] is identified as the missing statistic; the desired output distribution is a Doob transform of the base model with h=Φ.  

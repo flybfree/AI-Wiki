@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper argues that “zero hallucination” should be viewed not as an intrinsic property of a language model but as a system‑level guarantee enforced by multiple, composable defenses. It introduces HALO (Hallucination‑Aware Layered Oversight), a six‑layer architecture that treats hallucination as a containable failure mode rather than an eliminable one. The authors demonstrate that even high‑scale models and well‑curated retrieval pipelines can still fabricate citations or generate unsupported text, so the goal is to build a trustworthy enterprise AI pipeline that continuously verifies every output against its source material. By combining evidence‑based confidence checks with calibrated abstention, HALO ensures traceable, deterministic execution while providing alerts for drift and regression.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_13-58-44Z_TowardsTrustworthyandCost_EfficientDataInte_summary.md|Summary: 2026-07-24_13-58-44Z_TowardsTrustworthyandCost_EfficientDataIntegration.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_07-00-44Z_DCS_AUnifiedConditionalSensitivityFramework_summary.md|Summary: 2026-07-24_07-00-44Z_DCS_AUnifiedConditionalSensitivityFrameworkforCros.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [HALO’s six‑layer defense stack—grounded generation over approved content, constrained deterministic execution, multi‑signal verification, calibrated abstention, total traceability, and continuous oversight] replaces a single “hallucination‑free” model with an assurance architecture.  
 - [Evidence‑based confidence that verifies extracted text against the source document rather than trusting the model’s self‑reported certainty] provides a more reliable grounding signal than standard LLM judges.  

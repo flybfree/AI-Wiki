@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the severe degradation that occurs when diffusion transformers (DiTs) are quantized to W4A4, caused by outliers in activation vectors that 4‑bit formats cannot represent. It proposes **KroQuant**, a post‑training quantization method that applies a learned Kronecker‑structured invertible transform locally to 32‑element blocks of activations, thereby reducing parameter overhead and inference cost while preserving or improving image quality. The contribution is both algorithmic (a compact block‑local quantizer) and practical (combined with LoRaQ weight calibration for residual error absorption).  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A learned Kronecker‑structured invertible transform applied to each 32‑element activation block reduces the number of stored parameters compared with full \(d \times d\) transforms, achieving a parameter budget that is roughly half of per‑channel scaling.  
 - [Finding 2] The block‑local GEMMs run as small tensor‑core operations on an MI350 GPU, delivering up to 14 % speedup relative to the SmoothQuant kernel and keeping inference cost low.  

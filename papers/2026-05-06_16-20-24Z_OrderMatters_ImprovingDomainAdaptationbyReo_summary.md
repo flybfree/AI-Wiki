@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Unsupervised domain adaptation (UDA) suffers from high variance in the stochastic estimates of domain discrepancy, which can undermine its theoretical advantages. This paper introduces **ORDERED**, a technique that reduces this variance by deliberately reordering training data to minimise estimation error. By analysing two common discrepancy losses—correlation alignment and maximum mean discrepancy—the authors show that the order of sampling influences the variance of the loss estimate, and they propose an optimisation algorithm that exploits this relationship. The resulting method yields more reliable domain‑shift metrics and translates into higher target‑domain classification accuracy on benchmark image datasets.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPe_summary.md|Summary: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTrivi_summary.md|Summary: 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] The stochastic error in estimating domain discrepancy can be reduced by optimising the order of data sampling, not just by increasing batch size or using different estimators.  
 - [Finding 2] For both correlation alignment loss and maximum mean discrepancy loss, a closed‑form expression links the variance of the estimator to the permutation of training samples.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes SCOPE, a framework that creates synthetic conditional objectives to guide policy evolution in black‑box combinatorial optimization problems with limited evaluation budgets. By learning objectives from the search history, SCOPE directs diverse candidate generation while preserving structured diversity across discrete solution spaces. The outer loop adaptively selects these objectives based on their effectiveness at exposing promising regions, and an inner loop returns a portfolio of top policies to mitigate reliance on any single surrogate preference. This approach reframes objective design as a mechanism for guiding exploration rather than directly optimizing the inaccessible function.
 
+## Semantic links
+- [[concepts/papers/2026-07-27_08-41-18Z_Agent_UCT_UpperConfidenceBoundsAppliedtoTre_summary.md|Summary: 2026-07-27_08-41-18Z_Agent_UCT_UpperConfidenceBoundsAppliedtoTreesforAg.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.14
+- [[concepts/papers/2026-07-24_13-55-21Z_Evolution_AwareMSAReasoningforSubsamplingvi_summary.md|Summary: 2026-07-24_13-55-21Z_Evolution_AwareMSAReasoningforSubsamplingviaFactor.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.13
+- [[concepts/papers/2026-07-30_07-03-18Z_Gradient_freeTask_ConditionedRetrievalforOn_summary.md|Summary: 2026-07-30_07-03-18Z_Gradient_freeTask_ConditionedRetrievalforOn_Device.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.13
+
 ## Key Contributions  
 - [Synthetic Conditional Objectives] SCOPE learns a set of synthetic objectives that are conditioned on accumulated search history, each exposing a distinct preference over candidate solutions.  
 - [Adaptive Objective Selection] The outer loop dynamically updates and selects which synthetic objective to use based on how well the induced policies discover promising regions.  

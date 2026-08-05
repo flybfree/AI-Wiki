@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper introduces TokTier, a novel stateful tokenization service designed to address the significant latency bottlenecks in agentic Large Language Model (LLM) serving systems. The authors identify that current front-end architectures inefficiently re-tokenize full request texts on every call, causing substantial delays despite high KV-cache hit rates. To resolve this, TokTier guarantees exact equivalence with standard reference tokenization while utilizing incremental repair mechanisms for session continuations and GPU-accelerated processing for new sessions. By decoupling the tokenization process from the stateless front end, the system achieves dramatic reductions in time-to-first-token and significantly increases throughput under heavy load conditions.
 
+## Semantic links
+- [[concepts/papers/2026-07-31_17-56-30Z_TokTier_ExactStatefulCPU_GPUTokenizationfor_summary.md|Summary: 2026-07-31_17-56-30Z_TokTier_ExactStatefulCPU_GPUTokenizationforAgentic.md]] — 4 title terms overlap; 22 summary/topic terms overlap; semantic match 0.44
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-27_23-03-30Z_ScalableRAG_High_QualityRAGatZeroIngestionC_summary.md|Summary: 2026-07-27_23-03-30Z_ScalableRAG_High_QualityRAGatZeroIngestionCost.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
+
 ## Key Contributions
 - The development of a stateful tokenization service that ensures emitted token IDs are always identical to full reference tokenization, eliminating divergence risks associated with approximate caching methods.
 - A hybrid approach for session continuation that re-tokenizes only a small window around appended text and splices results after a stable-boundary check, achieving incremental repair speeds up to 437x faster than Hugging Face tokenization.

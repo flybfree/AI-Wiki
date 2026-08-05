@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical issue of "constant collapse" in Variational Autoencoders, a failure mode where the encoder's latent mean becomes independent of the input data, effectively rendering the model useless for representation learning. The authors propose a novel theoretical framework that transforms this pathological behavior from an unmonitorable training error into a pre-designable and certifiable property. By introducing a fixed simplex witness head attached to the latent mean, they establish an exact baseline for the teacher-student alignment loss. This approach allows researchers to mathematically guarantee that the latent representation retains input dependence, thereby preventing the collapse before it occurs or verifying its absence after training.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffus_summary.md|Summary: 2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLine_summary.md|Summary: 2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLinearInver.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpu_summary.md|Summary: 2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions
 - The authors derive an exact constant-predictor baseline for the alignment loss, which is equal to the teacher information, providing a rigorous mathematical threshold for detecting constant collapse.
 - They demonstrate that any full-support teacher posterior can be represented by embedding its centered log-odds into the latent space, offering an explicit latent energy cost that explains the conditions under which alignment loss can be minimized.

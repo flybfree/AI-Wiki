@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper investigates the theoretical and practical limits of applying extreme sign compression to the Muon optimizer, a matrix-aware optimization algorithm. The authors introduce SignMuon and its variants to explore whether one-bit communication can maintain convergence guarantees while significantly reducing bandwidth requirements. Through rigorous mathematical analysis, they demonstrate that naive applications of sign compression within the Muon framework can lead to divergence, even on simple linear functions. However, their work also reveals a critical disconnect between theoretical convergence proofs and empirical performance in large-scale machine learning tasks.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions
 - **Theoretical Divergence of Sign-Muon Variants**: The authors prove that placing the sign function before or around the Linear Minimization Oracle (LMO) in Muon can cause the optimizer to ascend rather than descend, even on linear objectives. This establishes a fundamental limit where no placement of the sign operator around the oracle guarantees descent in general cases.
 - **Inefficacy of Standard Error Feedback**: The study demonstrates that applying error feedback to the output of SignMuon fails to rescue convergence for any smoothness constant, step size, or momentum parameter. This highlights a severe limitation of standard bias-correction techniques when applied to highly compressed matrix-aware updates.

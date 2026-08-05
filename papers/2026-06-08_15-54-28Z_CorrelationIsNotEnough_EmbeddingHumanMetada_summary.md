@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper demonstrates that off‑the‑shelf biomedical language encoders such as PubMedBERT generate spurious correlations between unrelated concepts because their embeddings treat proximity as evidence of causality. To remedy this, the authors introduce a contrastive learning pass and a generator called BODHI that injects human‑derived metadata into the model’s training data, thereby correcting false causal edges. The approach improves correlation scores, widens domain separation, and enables real‑time inference on specialized hardware. This work shows that embedding geometry is not merely a tunable knob but a correctness metric for individual‑level causal discovery.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1**: Off‑the‑shelf biomedical encoders produce high false‑positive correlation scores (0.76–0.92) on cross‑domain pairs where the true answer should be near zero, indicating that embedding similarity is misinterpreted as causality.  
 - **Finding 2**: A contrastive pass over 72,034 pairs raises PubMedBERT BIOSSES correlation from 0.633 to 0.828 and improves within‑vs‑across‑domain separation from a factor of 1.05× to 1.63×.  

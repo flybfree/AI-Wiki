@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the instability that limits training at 4‑bit floating point (FP4) precision by showing that existing microscaling techniques produce biased gradients when tensors are transposed. Its contribution is a low‑precision framework based on 2D block quantization that enforces transposition‑invariant scaling, uses truncation‑free scaling and stochastic rounding to bound error, and pairs this with MXFP8 for attention projections. The approach enables stable end‑to‑end FP4 training of large dense LLMs and MoE models while matching BF16 performance.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-53-34Z_ToolGuardian_DeclarativeSecurityforAIAgent__summary.md|Summary: 2026-07-23_21-53-34Z_ToolGuardian_DeclarativeSecurityforAIAgent_ToolInt.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_10-33-34Z_ConvexNeuralEnergyElements_MonolithicFinite_20260804_0045_summary.md|Summary: 2026-08-03_10-33-34Z_ConvexNeuralEnergyElements_MonolithicFinite_Elemen.md]] — 3 title terms overlap; 15 summary/topic terms overlap; semantic match 0.10
+
 ## Key Contributions  
 - [Finding 1] Identify scale inconsistency caused by tensor transposition in 1D block quantization leading to biased gradient updates.  
 - [Finding 2] Introduce 2D block FP4 quantization that enforces consistent scaling forward and backward regardless of transposition, using truncation‑free scaling and stochastic rounding.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates the round‑complexity of learning a hidden partition ℙ of an n‑element universe using PAIR queries, which reveal whether two elements belong to the same part. While deterministic algorithms achieve optimal query complexity O(n|ℙ|) with Θ(log n/ log log n) rounds, they are highly sequential. The authors show that randomization dramatically improves the picture: when the number of parts k is known, a 3‑round randomized algorithm uses only O(nk log n) queries and attains near‑optimal query bounds, whereas two rounds cannot do better than Ω(n^{4/3}k^{2/3}) queries. In the more general setting where k is unknown, they present a 4‑round randomized algorithm with O(n|ℙ| log² n) queries and prove that three rounds cannot achieve near‑optimal query complexity.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A simple 3‑round randomized algorithm learns the partition in O(nk log n) PAIR queries, beating deterministic lower bounds.  
 - [Finding 2] Two rounds require Ω(n^{4/3}k^{2/3}) queries, matching the best known deterministic query complexity.  

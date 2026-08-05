@@ -21,6 +21,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://example.com/placeholder)
+
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 3 title terms overlap; shared tags: foundations, lesson, machinelearning; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|AI/ML Foundations Lesson 02 - How an ML System Works]] — 2 title terms overlap; shared tags: foundations, lesson, machinelearning; 4 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|AI/ML Foundations Lesson 04 - Supervised Learning: Learning from Labels]] — 3 title terms overlap; shared tags: foundations, lesson; 5 backlinks
+
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

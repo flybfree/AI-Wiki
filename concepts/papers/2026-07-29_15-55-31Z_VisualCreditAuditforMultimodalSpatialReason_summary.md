@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Visual Credit Audit (VCA), a method for dissecting the performance of multimodal large language models on closed yes/no spatial benchmarks. VCA distinguishes two estimands: whether an image provides additional support beyond text‑only and blank controls, and whether the model’s decision is consistent with the visual evidence. By separating these components, VCA reveals that many correct answers are “uncredited,” meaning they lack visual justification. The authors also show that relation‑specific responses can be dramatically altered when images are reversed or absent, highlighting hidden biases in benchmark success.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 11 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] VCA separates two estimands—image‑supported correctness and text‑only correctness—using a training‑label‑free audit that does not require answer flipping.  
 - [Finding 2] Applying labels yields dependence‑credited correctness (D‑CC); same‑split image permutations reduce D‑CC by 21.25–47.80 points with 95 % confidence intervals above zero, indicating strong visual influence.  

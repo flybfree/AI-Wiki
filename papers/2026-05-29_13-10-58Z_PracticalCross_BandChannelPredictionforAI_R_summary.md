@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the practical challenge of cross‑band channel prediction for AI‑native RAN (Reconfigurable Intelligent Radio Network) by seeking a method that simultaneously generalizes across diverse wireless environments and supports real‑time inference. Existing deep‑learning approaches excel at one but not the other, creating a gap that this work aims to close. The authors propose GUIDE—a physics‑guided deep unfolding framework—that embeds fundamental channel physics into differentiable layers without requiring retraining in unseen settings. By leveraging these constraints, GUIDE delivers substantial beamforming gains while maintaining practical inference speed.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffus_summary.md|Summary: 2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] GUIDE integrates wireless channel physics directly into a differentiable neural network architecture through deep unfolding.  
 - [Finding 2] Compared to the deep‑learning baseline FIRE, GUIDE achieves a 2.75× improvement in beamforming gain with only a modest increase in inference latency.  

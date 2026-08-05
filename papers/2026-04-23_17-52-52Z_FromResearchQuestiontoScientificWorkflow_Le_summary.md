@@ -16,6 +16,11 @@ Model: qwen3.6:35b
 ## Summary
 This paper addresses the critical gap in scientific workflow systems: the manual, expert-driven translation of natural language research questions into executable computational workflows. The authors propose an agentic AI architecture designed to automate this semantic process, enabling seamless conversion from a high-level query to a structured, reproducible workflow DAG. By decomposing the problem into intent extraction, deterministic generation, and domain knowledge encoding, the system significantly improves automation accuracy and efficiency for complex scientific tasks.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_summary.md|Summary: 2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions
 1. **Agentic Workflow Architecture:** Proposes a novel three-layer agentic architecture that separates non-deterministic natural language interpretation from deterministic workflow execution.
 2. **Domain Knowledge Integration via 'Skills':** Introduces "Skills"—markdown documents containing vocabulary mappings, parameter constraints, and optimization strategies—to ground the LLM's output and ensure reproducibility.

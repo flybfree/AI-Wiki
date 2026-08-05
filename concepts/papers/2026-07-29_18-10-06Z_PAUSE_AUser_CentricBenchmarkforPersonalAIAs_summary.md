@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces PAUSE, a user‑centric benchmark for personal AI assistants operating within unified service environments that must reason over persistent user state and respect configuration and permission constraints. It tackles the fragmentation of existing benchmarks by requiring agents to coordinate actions across heterogeneous resources while maintaining consistency throughout multi‑turn interactions. PAUSE provides explicit user simulation and a multi‑regime evaluation framework that uses both semantic/trajectory metrics for open‑ended tasks and deterministic verification for constraint‑intensive ones. The results show even top proprietary models fall short of the 70 % completion target on stateful scenarios.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-28_10-12-06Z_Argus_Unified_TowardsACompactandEconomicalU_summary.md|Summary: 2026-07-28_10-12-06Z_Argus_Unified_TowardsACompactandEconomicalUnifiedM.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
+
 ## Key Contributions  
 - PAUSE captures real‑world challenges of stateful, service‑integrated assistants by demanding coordination across heterogeneous user‑owned resources.  
 - It adopts a multi‑regime evaluation framework that distinguishes open‑ended tasks (assessed with semantic and trajectory‑level metrics) from constraint‑intensive tasks (verified deterministically).  

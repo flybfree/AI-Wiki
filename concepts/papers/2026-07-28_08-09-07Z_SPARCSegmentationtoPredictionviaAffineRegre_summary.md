@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of transaction propensity prediction in B2B e‑commerce, where minority class samples cannot be meaningfully interpolated by SMOTE because organizational procurement cycles are multi‑modal and heterogeneous. To overcome this limitation, the authors replace SMOTE augmentation with Diverse Counterfactual Explanations (DiCE) to generate synthetic minority instances that preserve distributional fidelity. They also adapt the PyPARC piecewise affine classification framework to produce calibrated propensity probabilities and segment customers into interpretable risk tiers. The combined approach yields a production‑ready model that outperforms SMOTE baselines across multiple decision thresholds.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 14 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Replace conventional SMOTE with DiCE‑generated minority class samples that exhibit superior distributional fidelity, validated through proximity analysis and UMAP clustering.  
 - [Finding 2] Adapt PyPARC into a piecewise affine regression model capable of generating calibrated propensity probabilities for each customer segment.  

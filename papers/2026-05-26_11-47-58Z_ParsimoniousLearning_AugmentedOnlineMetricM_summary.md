@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a parsimonious learning‑augmented online metric matching algorithm that extends the Follow‑the‑Prediction framework by generating virtual predictions when no real prediction is available, thereby preserving high‑quality intermediate matchings while minimizing the number of explicit predictions used. It establishes theoretical lower bounds on the performance achievable under this constraint and provides empirical evidence that the approach reduces computational cost without sacrificing approximation quality.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffus_summary.md|Summary: 2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThe_summary.md|Summary: 2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThey_reont.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A tight lower bound showing that Ω(log n) predictions are necessary to achieve a constant‑factor approximation for online metric matching problems.  
 - [Finding 2] An algorithmic construction of virtual predictions via an online metric matching process that maintains good intermediate matchings throughout execution.  

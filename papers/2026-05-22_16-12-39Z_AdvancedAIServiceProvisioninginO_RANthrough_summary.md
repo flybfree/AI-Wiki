@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a Dual‑Brain architecture that merges the reasoning and code‑generation strengths of Large Language Models (LLMs) with an automated ML engine, NeuralSmith, to accelerate AI service provisioning in O‑RAN. By treating operator intents as natural language prompts, the LLM orchestrator creates data‑collection policies and deployment scripts, while NeuralSmith automatically trains lightweight classifiers on demand via a REST API. This integrated workflow reduces the manual, time‑consuming process of building xApps and rApps from weeks to minutes in a containerized 5G SA testbed. The contribution is both architectural (dual‑brain design) and practical (proven provisioning pipeline).
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] An LLM‑driven orchestrator can translate high‑level operator intents into concrete data‑collection policies and deployment code, enabling rapid, human‑friendly AI service creation.  
 - [Finding 2] NeuralSmith provides a plug‑in API that automatically gathers labeled RAN telemetry, trains compact classifiers, and returns model artifacts without manual retraining steps.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary
 The paper addresses the critical challenge of deploying deep neural networks on resource-constrained wireless edge devices by proposing GQ-FSL, a novel Green Quantized Federated Split Learning framework. This approach mitigates the severe energy bottlenecks inherent in traditional federated learning by offloading computational workloads to an edge server while simultaneously reducing communication overhead through stochastic quantization. By decoupling device energy constraints from global convergence degradation via asymmetric precision levels for client and server submodels, GQ-FSL offers a balanced solution for efficient distributed training. The authors demonstrate that this framework significantly enhances energy efficiency without compromising model accuracy compared to existing quantized federated learning and full-precision split learning methods.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions
 - **Asymmetric Precision Framework**: The introduction of a flexible architecture that supports different precision levels for client-side and server-side submodels, effectively decoupling local device energy consumption from the global convergence rate of the model.
 - **Theoretical Energy and Convergence Analysis**: The development of comprehensive parameterized energy models for the split learning architecture and the derivation of a rigorous theoretical convergence bound under conditions of statistically heterogeneous data (non-IID).

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical need for robust, automated tools in soundscape ecology by introducing CoarseSoundNet, a deep learning model designed to classify ecological sounds into biophony, geophony, and anthropophony under realistic, noisy conditions. Unlike previous approaches that often rely on clean datasets or task-specific architectures, CoarseSoundNet is built to generalize effectively across passive acoustic monitoring (PAM) recordings, which are typically fraught with environmental noise and variable quality. The authors provide a comprehensive framework for model development, systematically investigating the impact of architectural choices, data composition, and evaluation strategies on classification reliability. Ultimately, the study demonstrates that CoarseSoundNet serves not only as a standalone classifier but also as an effective preprocessing tool that enhances the accuracy of downstream ecoacoustic analyses by filtering out irrelevant noise before detailed investigation.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-59-03Z_Variable_WidthTransformers_summary.md|Summary: 2026-06-16_17-59-03Z_Variable_WidthTransformers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions
 - The development of CoarseSoundNet, a novel deep learning architecture specifically optimized for coarse soundscape classification that distinguishes between biophony, geophony, and anthropophony in noisy, real-world PAM environments.
 - A systematic investigation revealing that model performance significantly improves when trained with additional PAM data similar to the target domain and by explicitly including a silence class during the training phase.

@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper investigates how well modern time‑series forecasting techniques can predict hardware errors on the Theta supercomputer, a large‑scale HPC system that generates millions of error logs each year. By applying both classical statistical models and deep‑learning architectures such as LSTM and Transformer to seven years of production data, the authors aim to uncover when these methods are effective and where they fall short. Their contribution is an empirical analysis that maps forecasting performance onto the temporal structure of error series rather than a ready‑to‑deploy prediction framework.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions
 - Finding 1: Forecasting effectiveness varies strongly with the temporal pattern of hardware errors; regularly occurring, structurally stable errors can be modeled accurately using LSTM and Transformer models when enriched with temporal features.  
 - Finding 2: Sparse and burst‑dominated error sequences remain challenging to predict, even by deep‑learning approaches that excel on regular patterns.  

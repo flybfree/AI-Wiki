@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether large language models can achieve “language equality” across the 24 official EU languages plus six others by playing multi‑turn, goal‑directed dialogue games in self‑play. Unlike static or preference‑based benchmarks, the evaluation is reference‑free and programmatically scored, allowing a uniform protocol that can be extended to new languages with only localized prompts and word lists. The authors compare nine open‑weight models with commercial systems, revealing stark performance gaps that persist even when public web data is scarce. Their contribution is a systematic, reproducible study of how linguistic resources, model origin, and cost affect equal representation in multilingual dialogue.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] No open‑weight LLM can reach the EU‑24 benchmark; commercial models outperform all open‑weight alternatives in every official language.  
 - [Finding 2] The best Chinese scores are achieved by a US commercial system, demonstrating that home‑region advantage does not guarantee superiority.  

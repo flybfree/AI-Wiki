@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Continual learning suffers from interference when new data are added to a pre‑trained model because updates often disturb the most important principal components. TailLoR addresses this by freezing the singular bases U and V of the pre‑trained weight matrix while only adjusting the singular value matrix Σ through a low‑rank update. A soft spectral penalty is applied to discourage changes that align with dominant singular directions, thereby protecting these high‑impact components. The method enables fine‑grained adaptation to be routed into the less‑stable long‑tail coordinates of Σ, preserving prior knowledge while allowing model evolution. This approach achieves parameter‑efficient continual learning with minimal computational overhead.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] TailLoR introduces a low‑rank update that is constrained to the singular value matrix Σ, using the pre‑trained singular bases U and V as a fixed reference frame.  
 - [Finding 2] A soft spectral penalty is employed to suppress updates that are aligned with dominant singular directions, reducing interference from high‑impact principal components.  

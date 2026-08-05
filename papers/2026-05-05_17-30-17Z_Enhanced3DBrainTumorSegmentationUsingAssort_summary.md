@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper aims to improve the accuracy of 3D brain tumor segmentation by integrating a state‑of‑the‑art SegResNet architecture with an automatic multi‑precision training regime, thereby enhancing early detection capabilities. The authors report that their approach yields higher Dice scores for both tumor core (0.84) and whole tumor (0.90), while also providing a refined enhanced tumor score of 0.79 compared to baseline methods. This work contributes to more reliable medical imaging analysis, which is critical for timely therapeutic decisions.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The integration of SegResNet with automatic multi‑precision training significantly improves segmentation Dice scores, reaching 0.84 for the tumor core and 0.90 for the whole tumor.  
 - [Finding 2] A refined “enhanced tumor” region is identified with a Dice score of 0.79, demonstrating improved delineation beyond standard segmentation outputs.  

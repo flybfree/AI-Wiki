@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces VESTIGE, a parameter‑free masking strategy that aligns the probability of token masking with an empirically measured per‑position corruption profile instead of using a uniform mask rate as in standard masked‑language models (MLM). By doing so, VESTIGE mitigates the bias that occurs when degradation processes concentrate at predictable sites, allowing reconstruction to be performed more accurately on ancient DNA. The authors validate this approach on mammoth coding sequences where cytosine deamination creates a C→T/G→A gradient quantified by mapDamage2.  
 
+## Semantic links
+- [[concepts/papers/2026-08-04_13-02-47Z_Language_SpecializedMulti_TeacherOn_PolicyD_summary.md|Summary: 2026-08-04_13-02-47Z_Language_SpecializedMulti_TeacherOn_PolicyDistilla.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-07-26_07-29-47Z_NovelClaimorDéjàVu_Rethinking_Contamination_summary.md|Summary: 2026-07-26_07-29-47Z_NovelClaimorDéjàVu_Rethinking_Contamination_Free__.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.02
+
 ## Key Contributions  
 - [Finding 1] VESTIGE is a drop‑in replacement for the standard MLM collator that redistributes masks according to a position‑specific corruption profile, eliminating the need for additional parameters.  
 - [Finding 2] VESTIGE consistently outperforms standard MLM on six terminal‑zone widths and 626 paired windows, improving reconstruction accuracy by 4.18–10.35 percentage points (all p < 10⁻⁸).  

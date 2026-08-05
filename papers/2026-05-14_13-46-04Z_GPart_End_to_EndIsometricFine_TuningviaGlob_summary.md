@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces GPart (Global Partition fine-tuning), a novel parameter-efficient fine-tuning (PEFT) method designed to overcome the fundamental geometric limitations inherent in Low-Rank Adaptation (LoRA). While LoRA has become the standard for adapting large language models, its bilinear structure distorts the optimization landscape by failing to preserve distances between the trainable parameters and the resulting weight updates. GPart addresses this by eliminating the low-rank bottleneck entirely, utilizing a single isometric partition matrix to map a low-dimensional trainable vector directly into the full weight space of the model. This approach ensures end-to-end isometry, meaning the geometry of the optimization process remains undistorted, which theoretically facilitates more stable and effective convergence.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeStee_summary.md|Summary: 2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connec_summary.md|Summary: 2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions
 - **Resolution of Isometry in PEFT**: The authors identify that existing methods like Uni-LoRA fail to maintain distance preservation due to the bilinear nature of LoRA. GPart provides the first highly efficient solution that strictly maintains end-to-end isometry by bypassing low-rank matrix multiplication.
 - **Minimalist Parameter Efficiency**: GPart achieves extreme parameter efficiency with a storage cost of only $d+1$ values, where $d$ is the dimension of the trainable vector. This is significantly lower than traditional PEFT methods, requiring only a random projection and a seed rather than complex matrix decompositions.

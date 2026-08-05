@@ -16,6 +16,11 @@ Ornith 1.0 is a family of open-source agentic coding models developed by DeepRei
 
 Unlike standard coding models that just generate code, Ornith 1.0 jointly optimizes both the scaffold and the resulting solution, discovering better search trajectories and generating higher-quality outputs through reinforcement learning.
 
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — 2 title terms overlap; shared tags: opensource; 10 backlinks
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]] — 1 title term overlap; 433 backlinks; 3 summary/topic terms overlap
+
 ## Core Innovation: Self-Scaffolding
 
 The key breakthrough is treating **workflow construction as the main training target**:

@@ -8,6 +8,11 @@ Model: None
 ## Summary
 The paper introduces SESA (Self-Evolving Skill-Augmented Agent), a novel framework that integrates self-play with dynamic skill evolution to enhance the reasoning capabilities of large language models. Unlike traditional self-play methods where failures only influence gradient updates, SESA explicitly distills informative failures into reusable procedural skills stored in an external memory bank. This creates a bidirectional co-evolutionary loop where the challenger agent generates increasingly difficult problems based on solver performance, while the solver retrieves and applies evolving skills to improve its success rate. The system demonstrates that this continuous feedback mechanism significantly outperforms existing baselines across multiple open-domain and multi-hop question-answering benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions
 - **Co-Evolutionary Framework**: SESA establishes a novel bidirectional loop where task generation (challenger) and skill acquisition (solver) mutually influence each other, allowing the training distribution to adapt dynamically rather than remaining static.
 - **Persistent Procedural Memory**: The authors demonstrate that distilling failures into an external skill bank provides persistent state information that guides future practice, enabling the model to learn from past mistakes in a structured, reusable manner beyond immediate gradient updates.

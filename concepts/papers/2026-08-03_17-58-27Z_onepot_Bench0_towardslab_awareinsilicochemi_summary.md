@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **onepot‑Bench 0**, a proprietary benchmark suite designed to evaluate language models on synthetic chemistry tasks that are relevant to wet‑lab execution, thereby addressing the gap between existing benchmarks and real‑world laboratory needs. By integrating three complementary evaluations—ChemAbacus, SynthRefusal, and SynthBench—the authors create a comprehensive probe of basic competency, reliability, and deeper domain knowledge. This work moves beyond public data‑centric assessments toward lab‑aware in silico chemistry metrics.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_18-52-27Z_APhysics_Chemistry_InformedNeuralNetwork_PC_summary.md|Summary: 2026-07-31_18-52-27Z_APhysics_Chemistry_InformedNeuralNetwork_PCINN_for.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World__summary.md|Summary: 2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World_Grounde.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.06
+
 ## Key Contributions  
 - **Three complementary evaluations**: ChemAbacus (tool‑free cheminformatics literacy), SynthRefusal (safety and refusal behavior across benign, controlled, and designer‑drug targets), and SynthBench (reaction‑outcome prediction using private experimental data).  
 - **Proprietary benchmark suite**: The suite is generated in the authors’ laboratory, providing synthetic datasets that cannot be found in public corpora.  

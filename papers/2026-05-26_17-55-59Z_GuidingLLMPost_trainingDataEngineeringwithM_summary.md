@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces SAERL, a data engineering framework that leverages model internals extracted via Sparse Autoencoders to guide reinforcement learning post‑training for LLMs. It identifies three intrinsic properties—diversity, difficulty, and quality—and maps each to a concrete engineering operation. By integrating these internal signals, the authors achieve higher RL performance with fewer steps compared to standard methods.  
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvi_summary.md|Summary: 2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLL_summary.md|Summary: 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] SAERL models diversity, difficulty, and quality using Sparse Autoencoder (SAE) internals extracted from the LLM’s latent representations.  
 - [Finding 2] Each property drives a specific data‑engineering action: SAE‑space clustering for batch diversity control, reconstruction error as a difficulty proxy, and a quality probe based on reconstruction fidelity.  

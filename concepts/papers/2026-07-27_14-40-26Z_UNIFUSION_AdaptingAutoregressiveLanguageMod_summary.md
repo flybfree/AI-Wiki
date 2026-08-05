@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **UNIFUSION**, a method that adapts pretrained autoregressive language models directly to uniform‑noise discrete diffusion by unifying reverse‑rate objectives across related diffusion frameworks. It establishes a shared \(x_0\) interface that enables seamless switching between mask and uniform kernels without retraining. The unified objective improves the trade‑off between generative perplexity (GenPPL) and unigram entropy as sampling steps increase from 16 to 256. Experiments on GPT2 checkpoints of 124 M and 355 M parameters show that UNIFUSION consistently outperforms prior diffusion models on both metrics.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Derives a single generalized Kullback‑Leibler loss that connects SEDD, MDLM/GIDD, M2S, and Neural CTMC.  
 - **Finding 2:** Provides conversions from clean‑token predictions to concrete‑score, posterior‑mean, exit‑rate/jump parameterizations under a unified \(x_0\) interface.  

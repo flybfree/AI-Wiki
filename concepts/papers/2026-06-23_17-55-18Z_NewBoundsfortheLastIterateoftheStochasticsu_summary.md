@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The paper investigates the convergence of the last iterate of the stochastic subgradient method for one‑dimensional convex Lipschitz objectives when a fixed stepsize η is chosen as Θ(1/√n). It proves that, under additive i.i.d. noise with uniformly bounded variance, the optimization error of the final point is Θ(1/√n), thereby eliminating the extra (log n) factor present in generic bounds. Conversely, when the i.i.d. assumption is dropped, the error can deteriorate to O((log n)/√n). This work resolves an open problem raised by Koren and Segal (2020) by showing that bounded variance alone does not guarantee optimal convergence.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - The last iterate of SsGM attains a theoretical error bound of O(1/√n) when the subgradient noise is i.i.d. with bounded variance.  
 - Without the i.i.d. assumption, the same stepsize yields an error that can be as large as O((log n)/√n), indicating suboptimal performance.  

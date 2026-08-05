@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces a deep‑learning framework that estimates bilateral vertical ground reaction forces (vGRFs) in Parkinsonian gait using an optimized set of wearable inertial measurement units (IMUs). The authors train a hybrid CNN‑BiLSTM model on synchronized data from 13 IMUs collected from 61 PD patients and 65 healthy controls, achieving high intra‑subject accuracy. By demonstrating that a minimal two‑IMU configuration remains robust while four IMUs provide the best performance, the approach offers a practical, scalable solution for remote monitoring and clinical assessment.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - A hybrid CNN‑BiLSTM model can accurately estimate bilateral vertical GRFs in Parkinsonian gait.  
 - The optimal sensor configuration varies between PD and healthy controls, with four IMUs providing the best accuracy; a minimal two‑IMU setup still yields robust results.  

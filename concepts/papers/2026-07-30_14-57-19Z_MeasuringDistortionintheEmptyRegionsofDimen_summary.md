@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper presents the Gap Index (GI), a new quality metric for 2‑D dimensionality reduction scatterplots that measures distortion in empty regions rather than only point relationships. By decomposing the projected space into empty triangles and comparing each to its high‑dimensional counterpart, the method quantifies spatial deformation and aggregates it into a single scalar or visual overlay. The GI is designed to be fast to compute and highly interpretable, offering an alternative to conventional metrics that ignore empty areas. Experimental results show that GI captures small structural deformations with high visual impact, improving confidence in layout interpretation.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - Introduces the Gap Index (GI) as a quality metric for 2D projections that explicitly measures spatial distortion in empty regions of scatterplots.  
 - Demonstrates that GI is sensitive to small structural deformations that have significant visual impact, outperforming metrics that focus solely on point‑to‑point relationships.  

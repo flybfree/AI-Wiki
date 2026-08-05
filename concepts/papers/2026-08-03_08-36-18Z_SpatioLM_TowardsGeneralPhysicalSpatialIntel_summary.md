@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Vision‑Language Models (VLMs) excel at commonsense reasoning but fall short when confronted with visual spatial tasks, where most solutions add heavyweight 3D priors that compromise the model’s general‑purpose capabilities. To address this trade‑off, SpatioLM introduces a lightweight, plug‑and‑play spatio‑vision language module that extracts and leverages the spatial knowledge already present in VLMs using pseudo depth and camera information as supervision, thereby achieving strong performance without degrading other abilities.  
 
+## Semantic links
+- [[concepts/papers/2026-07-28_11-20-00Z_PILA_Plug_and_PlayInsertionforLLM_nativeAdv_summary.md|Summary: 2026-07-28_11-20-00Z_PILA_Plug_and_PlayInsertionforLLM_nativeAdvertisin.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.12
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 10 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A parameter‑efficient spatio‑vision language module that enriches VLMs with physical spatial reasoning.  
 - [Finding 2] Use of pseudo depth and camera information as supervision to guide the model in learning physically coherent representations.  

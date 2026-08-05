@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses a fundamental challenge in mechanistic interpretability: determining when two neural network components implement the same underlying computation. The authors argue that existing similarity measures are flawed because they either rely on empirical behavior, which fails to capture out-of-distribution mechanisms, or on basis-dependent parameters, which ignore weight-space symmetries. To resolve this, the authors introduce "tensor similarity," a novel weight-based metric designed specifically for tensor-based models that is invariant to these symmetries. This metric provides a rigorous algebraic framework for verifying functional equivalence, offering a more robust alternative to empirical approximation methods.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of tensor similarity, a new metric that is invariant to weight-space symmetries, allowing for the accurate comparison of network structures regardless of basis transformations.
 - The development of an efficient recursive algorithm that captures global functional equivalence and accounts for complex cross-layer mechanisms within tensor-based models.

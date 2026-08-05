@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper formalizes Razborov’s flag‑algebra method for proving asymptotic extremal graph inequalities as a machine‑checked proof in Lean. It introduces a compiler that converts semidefinite‑programming certificates into algebraic proofs, independently verifying all intermediate facts over the rational numbers. The work extends beyond verification to produce concrete Turán‑type upper bounds and matching constructions, while also exploring two competing ways of imposing graph constraints within the flag algebra.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A complete machine‑checked formalization of the flag‑algebra framework for finite simple graphs, covering partially labeled graphs, density expressions, quotient algebras, positive homomorphisms, and downward operators.  
 - [Finding 2] A certificate‑to‑proof compiler that treats external SDP output as candidate data, computes required densities over ℚ, checks exact positive semidefiniteness, and performs algebraic normalization to generate Lean proofs.  

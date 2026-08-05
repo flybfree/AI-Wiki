@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Qwen-Image-2.0 is a new 7B‑parameter image foundation model that sets record scores on AI Arena for both text‑to‑image generation and image editing, supports native 2K resolution output, and handles up to 1 000‑token prompts. Despite its smaller size it outperforms FLUX.1 (12B) on DPG‑Bench with a score of 88.32 versus 83.84.
 
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson10_DiffusionGemma.md|Lesson 10 — DiffusionGemma: Block-Autoregressive Text Generation]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Qwen-Image-2.0 achieves #1 ranking in AI Arena with DPG‑Bench scores of 88.32 vs FLUX.1’s 83.84.  
 - It supports 1,000‑token prompts and native 2K output resolution, enabling professional infographic generation.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the computational inefficiency inherent in using pretrained diffusion models as frozen teachers for downstream tasks such as text-to-3D generation and single-step distillation. The authors identify that the primary bottleneck in these pipelines is the high variance of Monte Carlo estimators used to approximate expectations over noise levels and Gaussian samples, which necessitates expensive upstream computations like rendering and encoding for every gradient update. To mitigate this, they introduce CARV, a compute-aware variance-accounting framework that leverages hierarchical Monte Carlo estimation to amortize costly upstream work over cheaper diffusion-noise resamples. The proposed method combines timestep importance sampling with a stratified inverse-CDF construction to significantly reduce estimator variance without altering the underlying objective function.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_summary.md|Summary: 2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolv_summary.md|Summary: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of CARV, a novel framework that explicitly accounts for compute costs to motivate a hierarchical Monte Carlo estimator, allowing for the amortization of expensive upstream computations.
 - The demonstration that CARV provides a 2-3x effective compute multiplier in text-to-3D distillation and attribution tasks, with the majority of gains coming from amortized reuse and approximately 25% from importance sampling and stratification techniques.

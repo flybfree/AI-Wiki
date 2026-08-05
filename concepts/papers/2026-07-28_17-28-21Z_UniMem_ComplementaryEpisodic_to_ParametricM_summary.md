@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the stability‑plasticity dilemma in LLM agents when handling boundary‑agnostic, evolving task streams: retrieval‑based memory can ingest new evidence quickly but is inefficient for recurring patterns, while parametric memory offers stability at the cost of fixed boundaries and parameter budgets. To resolve this conflict, the authors introduce UniMem, a self‑routing framework that mimics human brain mechanisms by balancing an episodic buffer with a growing parametric store. The system uses learnable routing tokens as memory controllers to adaptively decide which tasks are stored episodically versus which patterns should be consolidated parametrically. This decoupling of task identification from execution enables on‑demand expansion without explicit labels or uncontrolled growth.
 
+## Semantic links
+- [[concepts/papers/2026-07-25_09-41-21Z_SMART_LLM_AugmentedHybridRetrievalforDynami_summary.md|Summary: 2026-07-25_09-41-21Z_SMART_LLM_AugmentedHybridRetrievalforDynamicProduc.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.05
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search and Retrieval Hub]] — 2 title terms overlap; 332 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] UniMem introduces a complementary episodic‑to‑parametric memory architecture that dynamically routes tasks based on their novelty and recurrence, eliminating the need for fixed task boundaries.  
 - [Finding 2] The learnable routing tokens act as autonomous memory controllers, allowing the system to expand parametric memory only when patterns are reliably observed, thereby controlling parameter growth.  

@@ -15,6 +15,11 @@ Source: 2026-04-27_17-17-56Z_Case_SpecificRubricsforClinicalAIEvaluation_Method.
 ## Summary
 Presents clinician-authored, case-specific rubrics for evaluating clinical AI across 823 encounters, and studies whether LLM-generated rubrics can approximate clinician agreement. The results show strong discrimination, stable scoring, and clinician-LLM agreement that is comparable to clinician-clinician agreement at much lower cost.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti__summary.md|Summary: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]] — 2 title terms overlap; 506 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 1 title term overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Takeaways
 - Uses 1,646 rubrics authored by 20 clinicians across multiple clinical domains.
 - Validates rubrics by checking that preferred outputs score higher than rejected ones.

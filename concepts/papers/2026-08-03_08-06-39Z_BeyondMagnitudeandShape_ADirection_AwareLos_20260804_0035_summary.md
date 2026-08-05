@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Most existing time‑series loss functions optimise only the magnitude or shape of predictions, ignoring whether a series will move up or down. This omission causes MSE‑based forecasters to perform poorly on small directional changes that are crucial for risk and financial applications. The authors therefore introduce CosDir, a lightweight direction‑aware loss that aligns prediction‑target difference vectors via cosine similarity, and an adaptive extension called CosDir‑UW that learns the optimal weight between direction and magnitude per dataset without hyper‑parameter tuning.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** MSE‑trained forecasters systematically degrade on small directional moves because their loss is scale‑sensitive.  
 - **Finding 2:** CosDir, a cosine‑similarity based loss that is invariant to magnitude and injects a gradient for direction changes, can be added as a plug‑in term to any backbone.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper extends the universal approximation theorem for functional input neural networks (FNN) to differentiable maps on infinite‑dimensional manifolds, proving that both the function and its derivatives can be approximated uniformly. By establishing a weighted Nachbin theorem, the authors obtain a universal approximation theorem (UAT) that works beyond compact sets and includes approximations of horizontal and vertical derivatives. The results also show that linear functions of the manifold’s signature can approximate path‑space functionals together with their directional derivatives. This work bridges functional analysis, differential geometry, and neural network theory to provide a theoretical foundation for deep learning on high‑dimensional data manifolds.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A weighted Nachbin theorem is proved that guarantees uniform approximation of differentiable maps and all their first‑order derivatives on infinite‑dimensional manifolds.  
 - [Finding 2] The universal approximation theorem (UAT) is extended to include both the function value and its horizontal/vertical derivatives, enabling non‑anticipative functional approximations.  

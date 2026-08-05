@@ -50,6 +50,11 @@ The remainder of the paper is organized as follows. Section II reviews related
 
 ---
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 
 1. **Cascading Bandit Model with Stochastic Resets** – We extend the classic bandit framework to a graph‑based setting where each transition may be aborted by a node‑specific reset probability \(\pi_v\).  The model is expressed as an MDP \((\mathcal{V},\mathcal{A},\rho,\gamma)\) with state set \(\mathcal{V}\) (graph nodes) and action set \(\mathcal{A}=\{ \text{move to neighbor }u\}\).  

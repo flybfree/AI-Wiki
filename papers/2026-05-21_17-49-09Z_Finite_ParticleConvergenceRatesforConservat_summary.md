@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces a conservative drifting method for one‑step generative modeling that replaces displacement‑based velocities with a KDE‑gradient velocity, thereby eliminating the non‑conservativity problem of general drift fields. It establishes continuous‑time finite‑particle convergence bounds on \(\mathbb{R}^d\) by linking joint entropy to empirical Stein drift, smoothed Fisher discrepancy, and squared center velocity. The analysis also treats the original non‑conservative Laplace‑kernel drifting method, revealing a sharp residual term that limits its rate of convergence.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextua_summary.md|Summary: 2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A conservative KDE‑gradient velocity is derived as the difference between kernel‑smoothed data scores and model scores, providing a gradient field with explicit finite‑particle correction.  
 - [Finding 2] The authors prove that under moderate bandwidth assumptions the root residual‑velocity rate is \(N^{-1/(d+4)}\) (with an extra \(h\)-uniform quadrature condition) or the optimized bound \(N^{-(2-β)/(2(d+4-β))}\) for \(0\le\beta<2\).  

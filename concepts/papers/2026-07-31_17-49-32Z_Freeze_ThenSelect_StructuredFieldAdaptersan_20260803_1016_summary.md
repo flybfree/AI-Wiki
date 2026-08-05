@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of discovering partial differential equations (PDEs) from sparse and noisy observational data, a task traditionally hindered by the instability of coupled neural optimization processes. The authors identify that standard methods often fail because the correct support for differential terms either persists transiently or fails to emerge entirely during training. To resolve this, they propose a novel "freeze-then-select" framework that decouples continuous field reconstruction from symbolic equation selection. This approach utilizes structured field adapters and Stability-Validated Weak Selection (SVWS) to achieve robust PDE discovery without relying on fixed libraries or stable gradient paths throughout the entire training duration.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions
 - **Decoupling Optimization from Selection**: The authors demonstrate that traditional coupled neural PDE discovery suffers from unstable optimization paths where the exact support of the true equation may never stabilize. By separating field reconstruction from term selection, they eliminate the dependency on persistent gradient signals for correct variable identification.
 - **Structured Field Adapter with Cubic Splines**: They introduce a novel adapter mechanism that factorizes the observed field into learned spatial features and temporal coefficients modeled by cubic splines. This allows for accurate interpolation of sparse data without requiring an initial PDE residual, enabling robust field estimation from incomplete observations.

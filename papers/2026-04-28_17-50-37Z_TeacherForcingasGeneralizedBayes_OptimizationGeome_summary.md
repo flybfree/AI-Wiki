@@ -15,6 +15,11 @@ Source: 2026-04-28_17-50-37Z_TeacherForcingasGeneralizedBayes_OptimizationGeome.
 ## Summary
 Analyzes identity teacher forcing as a generalized Bayes update whose optimization geometry can differ from the free-running marginal likelihood in switching recurrent models for chaotic dynamics. In Lorenz-63 experiments, evidence fine-tuning improves held-out evidence but can reduce quantities of interest relative to teacher-forcing-pretrained models.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 1 title term overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+
 ## Key Takeaways
 - Compares the curvature of teacher-forcing and marginal-likelihood objectives.
 - Shows how missing-information effects change the geometry of switching models.

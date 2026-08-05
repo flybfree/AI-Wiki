@@ -23,6 +23,11 @@ Placeholder summary — please add a concise summary.
 
 **Source**: [TurboQuant - Wikipedia](https://en.wikipedia.org/wiki/TurboQuant)
 
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — 10 backlinks; 5 summary/topic terms overlap; semantic match 0.20
+- [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — 4 backlinks; 5 summary/topic terms overlap; semantic match 0.34
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|AI/ML Foundations Lesson 07 - Convolutional Networks for Vision]] — 6 backlinks; 5 summary/topic terms overlap; semantic match 0.23
+
 ## How It Works
 
 Most vector quantization methods compress by rounding values down. TurboQuant asks a harder question: can you shrink vectors without breaking their geometry?

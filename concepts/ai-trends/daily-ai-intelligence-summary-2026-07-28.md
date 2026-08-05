@@ -19,6 +19,10 @@ On the model side, the frontier race is still splitting into three lanes: polish
 
 **Most important pattern:** AI is becoming a control layer that owns context, routes work, and shapes the product surface — not just a model you query.
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
 ## Key Themes / Patterns
 
 | Theme | What happened | Why it matters |

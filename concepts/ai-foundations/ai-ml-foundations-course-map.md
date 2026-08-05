@@ -26,6 +26,11 @@ Design principles:
 - Build from broad ideas to specific model families
 - Use the Ilya Sutskever reading list as the backbone, then layer in wiki sources for context and systems thinking
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 1 title term overlap; shared tags: foundations, machinelearning; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 1 title term overlap; shared tags: foundations, machinelearning; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|AI/ML Foundations Lesson 02 - How an ML System Works]] — 1 title term overlap; shared tags: foundations, machinelearning; 4 backlinks
+
 ## Legend
 - CHAPTER = should become a core lesson in the final course
 - BACKGROUND = supporting context, recap, or optional enrichment

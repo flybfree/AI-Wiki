@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Vision‑Language‑Action (VLA) models integrate perception, reasoning, and control into a single policy but contain multi‑billion‑parameter backbones and diffusion‑based action heads that are too large for on‑device deployment. Prior quantization approaches either compress only the language backbone or resort to mixed‑precision schemes, assuming uniform quantization of the action head is unstable. Omega‑QVLA challenges this assumption by offering a training‑free post‑training quantization framework that compresses both the LLM backbone and the entire diffusion action head to a uniform W4A4 precision. This eliminates the need for mixed‑precision allocation while preserving high task success rates.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Training‑free post‑training quantization that simultaneously reduces the language backbone and the full diffusion action head to uniform W4A4 precision.  
 - A composite SVD‑Hadamard rotation equalizes per‑channel weight energy, enabling stable uniform quantization without mixed‑precision tricks.  

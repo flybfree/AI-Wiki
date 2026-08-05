@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces Equilibrium Reasoners (EqR), a novel framework that leverages the concept of task-conditioned attractors to enable scalable and generalizable reasoning in neural networks. The authors hypothesize that effective iterative reasoning emerges from latent dynamical systems where stable fixed points correspond to valid solutions, allowing the model to converge on answers without relying on external verifiers or task-specific priors. By formalizing this mechanism, EqR facilitates test-time scaling along two distinct axes: depth, through increased iteration counts, and breadth, by aggregating stochastic trajectories from multiple initializations. This approach fundamentally shifts the understanding of how iterative models generalize beyond memorized patterns, offering a robust mechanistic lens for analyzing scalable reasoning capabilities.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-23-48Z_LetThemSteal_TrappingLargeLanguageModelExtr_summary.md|Summary: 2026-06-14_13-23-48Z_LetThemSteal_TrappingLargeLanguageModelExtractionA.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions
 - Theoretical formalization of reasoning as convergence toward learned attractors in latent dynamical systems, providing a clear explanation for generalization in iterative models.
 - Development of the Equilibrium Reasoner (EqR) architecture, which enables adaptive allocation of test-time compute based on task difficulty without requiring external validation tools.

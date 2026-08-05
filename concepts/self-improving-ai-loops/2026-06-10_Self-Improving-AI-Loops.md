@@ -16,6 +16,11 @@ Placeholder summary — please add a concise summary.
 **Source**: [Original Article](http://localhost:11434)
 A paradigm shift in AI engineering where agents improve over time through automated feedback loops rather than static prompting. The core insight: **the harness matters more than the model**.
 
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1 — The Paradigm Shift: From Prompting to Loops]] — 1 title term overlap, shared tags: feedbackloops, harnessengineering, 6 topic terms overlap
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md|Lesson 2 — Inference Layer: Self-Hosted LLMs]] — 1 title term overlap, shared tags: selfhosted, 6 topic terms overlap
+- [[concepts/ornith-1-0.md|Ornith 1.0: Self-Scaffolding Agentic Coding Models]] — 1 title term overlap, shared tags: opensource, 2 topic terms overlap
+
 ## Core Concepts
 
 ### The Hierarchy of Leverage

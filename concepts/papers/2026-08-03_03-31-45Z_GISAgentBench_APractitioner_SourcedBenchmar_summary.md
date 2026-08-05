@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 GISAgentBench is a practitioner‑sourced benchmark that provides a realistic, multi‑step GIS workflow challenge for large language model agents. It supplies 349 tasks drawn from real public data across six geographic areas and includes exact ground‑truth output files, eliminating reliance on surrogate signals such as code similarity or LLM judgments. The benchmark demonstrates that even the best LLM agents struggle to complete realistic GIS tasks under strict tolerance‑aware evaluation. This work bridges a long‑standing gap between automated geospatial analysis and reliable performance measurement.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_Act_20260803_1023_summary.md|Summary: 2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_ActionRein.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-07-21_08-10-45Z_FromTrajectoriestoInstructions_Language_Con_summary.md|Summary: 2026-07-21_08-10-45Z_FromTrajectoriestoInstructions_Language_Conditione.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+
 ## Key Contributions  
 - [Finding 1] GISAgentBench supplies ground‑truth outputs with executable reference trajectories, enabling deterministic, tolerance‑aware output matching.  
 - [Finding 2] The benchmark aggregates 349 multi‑step tasks from real public datasets across six geographic areas, far exceeding the size and depth of existing textbook or tutorial‑based datasets.  

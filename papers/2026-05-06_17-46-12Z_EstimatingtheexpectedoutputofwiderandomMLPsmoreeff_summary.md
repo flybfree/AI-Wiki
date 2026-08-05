@@ -15,6 +15,11 @@ Source: 2026-05-06_17-46-12Z_EstimatingtheexpectedoutputofwiderandomMLPsmoreeff.
 ## Summary
 This paper proposes an alternative to Monte Carlo sampling for estimating the expected output of wide random MLPs at initialization. Instead of forwarding samples through the network, the method builds approximate representations of layerwise activation distributions using cumulants and Hermite expansions. The authors show that, for sufficiently wide networks, this approach can reach a target mean-squared error with substantially fewer FLOPs than direct sampling.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearningan_summary.md|Summary: 2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelfor_summary.md|Summary: 2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelforInterpr.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 1 title term overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Takeaways
 - Expectation estimation need not rely on brute-force sampling.
 - Distributional approximations can be cheaper and more accurate in wide regimes.

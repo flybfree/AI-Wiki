@@ -19,6 +19,11 @@ tags: [agent-architecture, evolution, prompting-patterns, reasoning-patterns, to
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 This entry maps the full evolution of agent reasoning architectures, from early single-pass approaches through modern multi-step, tool-using, self-reflecting workflows.
 
+## Semantic links
+- [[concepts/frameworks/2026-05-09_AutonomousAgentFrameworks.md|2026 05 09 Autonomousagentframeworks]] — 1 title term overlap, shared tags: ai, concept, ml, 6 topic terms overlap
+- [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|2026 06 09 Llmsandfoundationmodelshub]] — 1 title term overlap, shared tags: ai, concept, ml, 1 topic term overlap
+- [[concepts/2026-06-09_AIResearchPapersHub.md|2026 06 09 Airesearchpapershub]] — 1 title term overlap, shared tags: ai, concept, ml, 1 topic term overlap
+
 ## Architecture Timeline
 
 ### 1. Single-Pass Reasoning (2022)

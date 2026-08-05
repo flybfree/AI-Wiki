@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how peer and institutional incentives jointly shape the evolution of cooperation, social welfare, and enforcement efficiency in a four‑strategy Prisoners’ Dilemma setting. By allowing decentralized peer rewards/punishments to act simultaneously with centralised institutional rewards/punishments, the authors analyse replicator dynamics in infinite well‑mixed populations and spatial effects on square lattices through agent‑based simulations. The study evaluates various intervention schemes by their equilibrium outcomes, evolutionary trajectories, cooperation levels, and aggregate social welfare net of costs. Their key insight is that institutions can simultaneously boost cooperation and welfare without sacrificing the benefits of peer punishment.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_16-42-46Z_BeyondNegative_RidgeEndpoints_Mixed_SignSpe_summary.md|Summary: 2026-07-24_16-42-46Z_BeyondNegative_RidgeEndpoints_Mixed_SignSpectralRe.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 6 summary/topic terms overlap; semantic match 0.01
+
 ## Key Contributions  
 - [Finding 1] Peer punishment most strongly promotes cooperation among the four strategies (C, D, SP, SR).  
 - [Finding 2] Institutionally rewarding peer‑incentive strategies substantially improves both cooperation and social welfare, whereas subsidising unconditional cooperators has little impact.  

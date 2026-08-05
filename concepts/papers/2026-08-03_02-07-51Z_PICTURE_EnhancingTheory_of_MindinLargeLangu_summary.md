@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper PICTURE tackles the challenge of improving Theory‑of‑Mind (ToM) reasoning in large language models by moving away from the traditional “event hiding” paradigm, which removes unknown events to produce a strict output format. Instead, it proposes that LLMs can learn to inhibit responses to events they do not know when those gaps are explicitly stated during reasoning. The authors introduce PICTURE, a prompting method that embeds a character’s lack of knowledge into free‑form Chain‑of‑Thought (CoT) outputs, thereby allowing the model to generate accurate ToM answers without sacrificing natural language fluency. Their experiments demonstrate that this approach yields a consistent performance boost over existing methods.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_15-52-51Z_WhyLargeLanguageModelsFailatTabularPredicti_20260804_0105_summary.md|Summary: 2026-08-03_15-52-51Z_WhyLargeLanguageModelsFailatTabularPrediction.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 1 backlink; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** LLMs can inhibit responses to events unknown to characters when those gaps are made explicit during reasoning, contrary to expectations that hidden knowledge is necessary for ToM.  
 - **Finding 2:** Explicitly stating a character’s ignorance in free‑form CoT prompts enables the model to generate accurate false‑belief answers without resorting to event hiding.  

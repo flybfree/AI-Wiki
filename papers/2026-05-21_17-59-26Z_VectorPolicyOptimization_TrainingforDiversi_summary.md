@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the gap between standard LLM post‑training optimization and the diversity required by inference‑scaling search algorithms such as AlphaEvolve, which rely on a variety of task‑specific reward functions. By recognizing that rewards are often vector‑valued—e.g., per‑test‑case correctness or multi‑persona utilities—the authors introduce Vector Policy Optimization (VPO), an RL method that trains the language model to generate diverse solution sets rather than a single low‑entropy output. VPO is presented as a drop‑in replacement for GRPO’s advantage estimator, enabling the model to specialize individual solutions to different trade‑offs in the reward vector space. The core contribution is that diversity‑focused training directly improves test‑time search performance and unlocks problems previously unsolvable by conventional RL baselines.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsfo_summary.md|Summary: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti__summary.md|Summary: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] VPO explicitly optimizes for diversity, producing a set of solutions that collectively cover different regions of vector‑valued reward space.  
 - [Finding 2] Across four benchmark tasks, VPO matches or exceeds the strongest scalar‑RL baselines on test‑time metrics (pass@k and best@k), with the advantage widening as search budget increases.  

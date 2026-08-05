@@ -36,6 +36,11 @@ Thought → Action → Observation → Thought → Action → ... → Answer
 
 where "Thought" is the reasoning trace and "Action" is the tool/environment interaction, with "Observation" being the external feedback.
 
+## Semantic links
+- [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 2 title terms overlap; 160 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 1 title term overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 
 1. **Re_act protocol**: An interleaved reasoning+action generation strategy (not just reasoning chains, not just direct action, a hybrid)

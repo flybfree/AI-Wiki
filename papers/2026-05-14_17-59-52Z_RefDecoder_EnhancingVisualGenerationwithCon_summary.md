@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses a critical architectural asymmetry in latent diffusion models for video generation, where the denoising networks are heavily conditioned on input prompts, but the decoders remain unconditional. The authors argue that this lack of conditioning in the decoder leads to significant loss of structural integrity and detail when reconstructing videos from latent representations. To resolve this, they introduce RefDecoder, a novel reference-conditioned video Variational Autoencoder (VAE) decoder that injects high-fidelity information from a reference image directly into the decoding process. By utilizing reference attention mechanisms, RefDecoder ensures that the generated video frames maintain strict consistency with the input image, thereby enhancing the overall quality and fidelity of visual generation tasks.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_summary.md|Summary: 2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - **Architectural Asymmetry Identification**: The authors identify and formally argue that the disconnect between conditioned denoising networks and unconditional decoders is a primary cause of detail loss and inconsistency in current video generation models.
 - **RefDecoder Framework**: They propose a lightweight yet effective mechanism that maps reference frames into high-dimensional tokens and injects them into decoder up-sampling stages via reference attention, allowing for direct integration into existing systems without additional fine-tuning.

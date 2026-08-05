@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research investigates the mechanisms underlying the evolution of language compositionality by utilizing the iterated learning model, a computational framework that simulates how linguistic structures emerge through repeated transmission across generations of learners. The primary goal is to determine how varying the frequency distribution of meanings influences the stability and structure of the resulting language system. By manipulating whether frequency biases are applied to holistic meaning vectors or their constituent parts, the study reveals critical constraints on how frequency shapes emergent grammatical rules. The findings demonstrate that while high-frequency items can bypass compositional pressures when treated as whole units, distributing frequency over smaller elements disrupts the transmission chain entirely, highlighting the necessity of holistic acquisition for stable language evolution.
 
+## Semantic links
+- [[concepts/papers/2026-07-17_15-45-57Z_Distribution_FirstPopulationSimulation_Coll_summary.md|Summary: 2026-07-17_15-45-57Z_Distribution_FirstPopulationSimulation_Collapse_Ca.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-06-24_17-52-57Z_Across_processweldingpenetrationstatuspredi_summary.md|Summary: 2026-06-24_17-52-57Z_Across_processweldingpenetrationstatuspredictional.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions
 - High-frequency meanings can escape the pressure to conform to compositional grammar if they are learned holistically, mirroring phenomena observed in natural languages where common words often exhibit irregular forms.
 - When frequency structure is imposed on individual parts rather than whole meaning vectors, the language fails to transmit across generations, despite the reliable learning of those frequent elements.

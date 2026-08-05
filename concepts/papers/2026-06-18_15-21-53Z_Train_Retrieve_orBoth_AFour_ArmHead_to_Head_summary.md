@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The authors investigate whether a purely fine‑tuned model can provide correct statutory citations under the Ontario Residential Tenancies Act or if retrieval assistance is required. They evaluate four variants of Qwen2.5‑7B‑Instruct—zero‑shot, LoRA SFT‑only, RAG‑only, and an SFT + RAG hybrid—on a small human‑verified evaluation set measuring exact‑match citation (section + subsection). The study shows that retrieval is indispensable for accurate citations, while the hybrid approach eliminates hallucinations and achieves the best performance without costly large models or massive datasets.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 backlinks
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 2 backlinks
+- [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - Retrieval is essential for correct statutory citation; pure fine‑tuning alone cannot produce valid citations.  
 - A lightweight SFT + RAG hybrid reaches 0.481 exact‑match with zero hallucinated citations, outperforming both pure retrieval and larger RAG pipelines.  

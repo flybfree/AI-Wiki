@@ -7,6 +7,11 @@ Source: [arXiv 2606.24597](https://arxiv.org/abs/2606.24597) · [PDF](https://ar
 ## Summary  
 Qwen-AgentWorld introduces a language-based world model for general agents: instead of only predicting the next token, the model predicts environment dynamics from observations and actions. The paper presents Qwen-AgentWorld-35B-A3B and Qwen-AgentWorld-397B-A17B, trained on more than 10M environment interaction trajectories across 7 domains with a three-stage pipeline: CPT to inject general world-modeling capability, SFT to activate next-state prediction reasoning, and RL to sharpen simulation fidelity. The paper also introduces AgentWorldBench, a benchmark built from real interactions of 5 frontier models on 9 established benchmarks, and shows that the models outperform existing frontier systems on agentic simulation and downstream tasks.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|AI Agents Lesson 4 - Planning, Memory, and State]] — 3 title terms overlap; 2 backlinks; 5 summary/topic terms overlap
+- [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 2 title terms overlap; 160 backlinks; 2 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Qwen-AgentWorld is a first-of-its-kind language world model aimed at simulating agentic environments across multiple domains, not just producing text.  
 - [Finding 2] The training recipe combines CPT, SFT, and RL over 10M trajectories to improve simulation fidelity and reasoning about next states.  

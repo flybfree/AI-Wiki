@@ -11,6 +11,11 @@ This page tracks the broader AI industry trend layer: funding, regulation, adopt
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
+## Semantic links
+- [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — 2 title terms overlap, shared tags: aitrends, 10 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|AI Agents Lesson 4 - Planning, Memory, and State]] — 1 title term overlap, 4 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-07-26_LangChain_Harness_and_Loop_Engineering_References.md|LangChain Harness and Loop Engineering References]] — 1 title term overlap, 2 topic terms overlap, same area: home
+
 ## AI Industry Trends
 
 **Last Updated**: 2026-07-03

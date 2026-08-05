@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 We introduce **HeadsUp**, a scalable feed‑forward framework that reconstructs high‑quality 3D Gaussian heads from large multi‑camera captures. The method compresses each view into a compact latent representation and decodes it into UV‑parameterized Gaussians anchored to a neutral head template, thereby separating the number of Gaussians from image resolution. This design allows training on thousands of high‑resolution views without sacrificing quality. HeadsUp attains state‑of‑the‑art reconstruction performance while generalizing to novel identities without test‑time optimization.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe_summary.md|Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] An efficient encoder‑decoder architecture that maps multi‑view inputs into a compact UV latent space, decoupling the number of 3D Gaussians from input resolution.  
 - [Finding 2] Training on an internal dataset containing over 10 000 subjects—an order of magnitude larger than existing human head datasets.  

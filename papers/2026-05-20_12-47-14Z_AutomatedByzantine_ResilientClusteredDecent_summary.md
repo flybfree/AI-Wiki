@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper addresses the critical security and trust limitations inherent in centralized Federated Learning (FL) frameworks used for managing electric vehicle (EV) battery data within intelligent transportation systems. To overcome these vulnerabilities, the authors propose ABC-DFL, an innovative framework that replaces the central server with an open-permissioned blockchain infrastructure. This system integrates a dynamic Quorum Byzantine Fault Tolerance protocol and an oracle-based aggregation layer to ensure automation, security, and trust among connected EVs. The core contribution lies in FLECA, a robust hierarchical aggregation protocol that effectively mitigates Byzantine attacks while maintaining high model accuracy and fairness through an incentive-driven mechanism.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnno_summary.md|Summary: 2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFi_summary.md|Summary: 2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFine_Tuni.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of ABC-DFL, a decentralized framework that eliminates single points of failure by utilizing blockchain technology for secure, automated model aggregation in EV networks.
 - The development of FLECA, a novel aggregation protocol that employs adaptive thresholds and oracle nodes to filter malicious updates and isolate trustworthy EV groups from Byzantine adversaries.

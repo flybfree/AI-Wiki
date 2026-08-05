@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Large language models excel at broad reasoning but often lack specialized knowledge, while domain‑specific models suffer from reduced logic and robustness. To bridge this gap the authors propose Divergence Decoding, a training‑free framework that fuses these capabilities at inference time. The method monitors distributional disagreement using Jensen–Shannon divergence and routes control to the generalist when needed. This adaptive fusion preserves specialist expertise while injecting reasoning power from the generalist model.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Training‑free capability fusion is achieved by continuously measuring Jensen‑Shannon divergence between the two models at each token.  
 - Finding 2: The framework implements an adaptive routing mechanism that instantly switches to the generalist when significant divergence signals a reasoning risk, thereby injecting generic reasoning without compromising domain knowledge.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates why scaling a contrastive corpus does not always improve audio embeddings and instead sometimes harms performance. It demonstrates that the key factor is the structural design of the contrastive objective: an attribute is encoded only when in‑batch negatives cannot be separated without it. By adding a lexical‑speech round to a frozen‑base multimodal embedding model, the authors achieve a 76‑point boost in zero‑shot keyword spotting while observing a 14‑point decline in speech‑emotion recognition. Fine‑tuning on a small prosody‑controlled corpus (7,442 clips) recovers emotion classification at a negligible five‑point cost, and a large mined corpus of 29,428 captioned clips yields only a minuscule –0.0007 change in emotion scores. The authors conclude that corpus structure, not sheer volume or caption vocabulary, dictates what the contrastive embedding learns.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Contrastive representations need not benefit from more data; performance can deteriorate when the objective is applied to large, unstructured corpora.  
 - [Finding 2] Adding a lexical‑speech round to a frozen multimodal model improves zero‑shot keyword spotting by 76 points but reduces speech‑emotion recognition by 14 points, showing trade‑offs between modalities.  

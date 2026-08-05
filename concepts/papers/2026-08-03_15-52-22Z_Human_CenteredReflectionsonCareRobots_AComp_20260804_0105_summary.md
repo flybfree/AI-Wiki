@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates caregivers’ perceptions of four categories of care robots—delivering supplies, helping patients into bed, monitoring vital signs, and assisting with mobility—to understand how these technologies are received in healthcare settings. By combining quantitative scales derived from the Unified Theory of Acceptance and Use of Technology (UTAUT) and the Cognitive‑Affective‑Normative model with qualitative analysis through an ethical framework, the authors aim to produce a context‑sensitive view of responsible design and implementation. The study draws on 298 caregivers from the United States, Mexico, and Chile, enabling cross‑national comparison while maintaining a human‑centered focus.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Caregivers generally evaluate care robots positively when they perform logistical or physically demanding tasks such as delivering supplies or assisting with mobility.  
 - [Finding 2] Ethical concerns about dependability, the need for human oversight, and potential job displacement are repeatedly raised across all four robot types.  

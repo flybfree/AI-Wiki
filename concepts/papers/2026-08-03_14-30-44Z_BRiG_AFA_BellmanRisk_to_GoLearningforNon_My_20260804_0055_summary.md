@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes BRiG‑AFA, a supervised active feature acquisition framework that learns candidate‑conditioned risk‑to‑go functions via Bellman regression to guide non‑myopic selections. By fitting these functions backward from the terminal classification risk, the method allows greedy inference that minimizes only observed risks while respecting remaining budget and masks. Experiments on Fashion‑MNIST demonstrate consistent accuracy gains across budgets, outperforming one‑step baselines by up to 10 percentage points at four acquisitions. The work establishes a reproducible mechanism‑level benchmark for Bellman risk regression in active learning.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Learning candidate‑conditioned risk‑to‑go functions with Bellman targets enables non‑myopic feature selection.]  
 - [Greedy inference using only observed values, mask, candidate identity, and budget yields the optimal next acquisition.]  

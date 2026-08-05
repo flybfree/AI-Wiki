@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of designing executable heuristics for large‑scale routing problems using LLM‑based automated heuristic design (AHD), which typically evaluates programs on whole instances or fixed solver components. To improve efficiency, SpecAHD proposes a within‑instance specialization mechanism that locally reconstructs repair regions instead of solving the entire problem at once. The authors introduce a coupled bilevel framework where an upper‑level search decides which bounded repair tasks to expose and a lower‑level search evolves complementary heuristics for those tasks. This approach reduces the computational burden while preserving solution quality.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - SpecAHD introduces a coupled bilevel framework that jointly learns repair region exposure (upper level) and heuristic repertoire selection (lower level).  
 - The lower‑level objective is monotone submodular, enabling greedy repertoire construction with a provable \((1 - 1/e)\) approximation guarantee.  

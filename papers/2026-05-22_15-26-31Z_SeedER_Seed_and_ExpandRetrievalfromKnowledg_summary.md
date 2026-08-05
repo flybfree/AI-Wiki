@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes SeedER (Seed‑and‑Expand Retrieval) as a novel approach to retrieving relevant nodes from knowledge graphs while mitigating the rapid growth of ego‑graph expansion and the compositional challenges faced by dense embedding methods. By first generating a compact seed set through lightweight dense and entity‑based retrieval, SeedER then iteratively expands this set using a learned graph‑aware policy trained with reinforcement learning. This two‑stage strategy enables efficient discovery of query‑relevant nodes without sacrificing recall. The authors claim that SeedER can serve as an effective first‑stage retriever for knowledge‑intensive reasoning systems.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The paper establishes theoretical limitations of dense retrieval on compositional graph queries, showing how such methods cannot capture multi‑hop relational reasoning efficiently.  
 - [Finding 2] SeedER demonstrates advantages from both compositional generalization and graph‑constrained submodular optimization perspectives, yielding higher recall with far fewer candidate nodes than graph‑augmented baselines.  

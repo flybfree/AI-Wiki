@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper aims to overcome the difficulty of predicting cellular responses to unseen chemical perturbations by introducing a PFN‑style amortized model that leverages a hierarchical synthetic structural prior. By inferring a latent system graph, sparse atomic intervention targets, and intervention strengths, PerturbPFN propagates effects through an SCM decoder without requiring test‑time gradient updates, enabling structured in‑context learning for drug perturbation modelling.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - The model infers a latent system graph, sparse atomic intervention targets, and intervention strengths from synthetic episodes.  
 - It achieves competitive perturbation prediction with low inference cost while providing interpretable intermediate estimates of targets, strengths, and system structure.  

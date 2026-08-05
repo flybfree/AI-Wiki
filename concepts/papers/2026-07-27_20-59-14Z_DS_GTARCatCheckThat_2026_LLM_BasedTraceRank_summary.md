@@ -24,3 +24,8 @@ This work advances automated claim verification by integrating trace ranking wit
 
 **## Related Concepts**  
 LLM trace ranking, LoRA fine‑tuning, Best‑of‑N selection, TF‑IDF reward modeling, numeric and temporal overlap features, sub‑claim decomposition, multilingual vs. language‑specific models, Arabic claim verification, ARC benchmark.
+
+## Semantic links
+- [[concepts/papers/2026-07-30_22-32-14Z_ValidationEvidenceinLLMRepairAgents_HowMuch_summary.md|Summary: 2026-07-30_22-32-14Z_ValidationEvidenceinLLMRepairAgents_HowMuchofWhatP.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.26
+- [[concepts/papers/2026-07-31_03-20-14Z_PARALLEL_APrefrontal_AlignedReinforcementin_summary.md|Summary: 2026-07-31_03-20-14Z_PARALLEL_APrefrontal_AlignedReinforcementinspiredA.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.26
+- [[concepts/papers/2026-07-31_03-20-14Z_PARALLEL_APrefrontal_AlignedReinforcementin_20260803_0235_summary.md|Summary: 2026-07-31_03-20-14Z_PARALLEL_APrefrontal_AlignedReinforcementinspiredA.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.26

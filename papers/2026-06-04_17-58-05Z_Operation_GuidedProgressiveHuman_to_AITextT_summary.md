@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces OpAI‑Bench, an operation‑guided benchmark that tracks how AI‑assisted writing evolves across multiple granularities (document, sentence, token, span) as a human draft is progressively edited by an AI assistant. By generating nine revised versions of each sample under five predefined AI edit operations and four domains, the authors preserve complete authorship provenance at every level. Their goal is to expose how detectability of AI‑generated text changes during revision rather than only at the final output. The study demonstrates that mixed‑authorship intermediate documents can be harder to flag than fully human or heavily AI‑edited endpoints.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagati_summary.md|Summary: 2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithG_summary.md|Summary: 2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] AI‑text detectability depends not only on the proportion of AI‑edited content but also on the specific edit operation, domain, and cumulative revision history.  
 - [Finding 2] Mixed‑authorship intermediate versions often exhibit lower detection scores than both fully human and heavily AI‑edited endpoints, revealing non‑monotonic patterns missed by existing benchmarks.  

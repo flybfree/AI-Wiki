@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper addresses a critical gap in the theory of heavy-tailed bandits by resolving an open problem regarding parameter-free adaptation to unknown tail characteristics. The authors demonstrate that it is theoretically possible to design algorithms that do not require prior knowledge of the moment bound $u$ or the tail exponent $\varepsilon$, which are typically necessary for optimal performance in environments with extreme outcomes. By establishing sharp lower bounds and proposing a novel scheduled-exploration algorithm, the study characterizes the precise statistical cost incurred when these heavy-tail parameters are unknown. The work provides a complete resolution to the adaptation problem without imposing additional restrictive distributional assumptions.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions
 - **Sharp Trade-off Characterization**: The authors prove that any algorithm unaware of the moment bound $u$ must accept a fundamental trade-off between its distribution-dependent and distribution-free regret guarantees, establishing a new theoretical frontier for adaptation.
 - **Parameter-Free Algorithm Design**: They introduce a scheduled-exploration algorithm that requires no knowledge of $u$ and achieves performance matching the derived adaptation frontier up to logarithmic factors, effectively closing the gap between theory and practical applicability.

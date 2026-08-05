@@ -11,6 +11,11 @@ tags: ["wiki", "foundation-models", "state-of-the-art", "leaderboard", "comparis
 
 This is the updated frontier foundation-model snapshot. It supersedes the 2026-06-30 baseline with the biggest additions since then: **Claude Opus 5** and OpenAI’s **GPT-5.6** family (**Sol**, **Terra**, **Luna**).
 
+## Semantic links
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 6 title terms overlap; shared tags: comparison, foundationmodels, leaderboard; 6 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; shared tags: foundationmodels, stateoftheart, wiki; 3 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap; 5 backlinks; 2 summary/topic terms overlap
+
 ## Research sources
 
 - [OpenAI: GPT-5.6](https://openai.com/index/gpt-5-6/)

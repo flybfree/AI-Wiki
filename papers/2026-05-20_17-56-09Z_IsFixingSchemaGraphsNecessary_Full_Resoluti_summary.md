@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper challenges the prevailing assumption in Relational Deep Learning (RDL) that graph structures derived from relational database schemas must remain fixed to preserve semantic integrity. The authors argue that while full-resolution graph construction is standard, it prevents the model from adapting to the specific nuances of downstream prediction tasks. To address this limitation, they introduce FROG, a novel framework that treats graph structure learning as an optimizable table role modeling problem. By allowing tables to dynamically contribute as either nodes or edges during message passing, FROG enables the joint optimization of graph topology and neural representations.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextua_summary.md|Summary: 2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of FROG, the first framework to enable full-resolution, learnable graph structures for relational databases, moving beyond static schema-based graphs.
 - The development of role-driven message passing mechanisms that allow tables to flexibly act as nodes or edges, capturing complex relational semantics more effectively than fixed structures.

@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The authors introduce HORIZON, a self‑evolving agent framework that treats hardware design as repository‑level code evolution. By converting a Markdown harness into a project pack that bundles domain knowledge, an evaluator, acceptance predicates, and a git/runtime policy, the system runs a hands‑free loop that evolves an isolated git worktree using only repository operations for state management, tracing, and replay. The approach achieves 100 % completion across multiple hardware‑design benchmarks, demonstrating the feasibility of fully autonomous design iteration. However, the authors clarify that this is not a claim of solving chip design but rather a controlled experiment on proxy problems.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 121 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A Markdown harness is compiled into a project pack containing domain knowledge, an executable evaluator, acceptance predicates, and a git/runtime policy to serve as a repository‑level codebase for hardware design.  
 - [Finding 2] The framework implements a hands‑free agent loop that evolves an isolated git worktree using only repository operations (commit, fetch, branch, etc.) for state management, tracing, and replay.  

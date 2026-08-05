@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces a novel framework for watermarking generative models by embedding authentication signals directly into the continuous dynamics of flow matching models, rather than altering model weights or final outputs. The authors propose a method where a key-dependent perturbation is applied to the velocity field during the training phase, effectively creating a hidden channel for message embedding. This approach leverages random coding theory over a continuous domain to ensure that the perturbation does not distort the underlying data distribution while allowing for reliable message recovery through black-box queries at detection time. The study demonstrates that this technique achieves high-fidelity generation and robust watermarking capabilities across standard image datasets.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLine_summary.md|Summary: 2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLinearInver.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpu_summary.md|Summary: 2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenera_summary.md|Summary: 2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The authors develop the first dynamics-level watermarking scheme for flow matching models, utilizing the velocity field as the embedding medium instead of discrete weights or pixel-space outputs.
 - They formulate the watermarking process as a random coding problem over a continuous channel, proving that specific perturbations can be designed to remain invisible to the generated distribution's statistical properties.

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes **Projected Dimensionality Reduction (PDR)**, a universal acceleration framework for vector‑level distance‑based robust aggregators in federated learning, to alleviate the computational bottleneck caused by high‑dimensional gradient aggregation. By compressing gradients into a low‑dimensional subspace via sparse random projection, PDR reduces server complexity to an optimal \( \mathcal{O}(Mp) \), matching the theoretical lower bound required merely to read the gradients. The authors establish convergence guarantees of \( \mathcal{O}(1/\sqrt{T}) \) for non‑convex functions and \( \mathcal{O}(1/T) \) for strongly convex functions, with only a bounded inflation factor \((1+\epsilon)/(1-\epsilon)\) on the Byzantine error floor. Experimental results confirm that PDR yields orders‑of‑magnitude speedups while preserving competitive convergence performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti__summary.md|Summary: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** PDR achieves optimal server complexity \( \mathcal{O}(Mp) \), matching the theoretical lower bound for gradient reading.  
 - **Finding 2:** The framework provides convergence rates of \( \mathcal{O}(1/\sqrt{T}) \) (non‑convex) and \( \mathcal{O}(1/T) \) (strongly convex) under standard FL assumptions, derived via the Subspace Embedding Theorem.  

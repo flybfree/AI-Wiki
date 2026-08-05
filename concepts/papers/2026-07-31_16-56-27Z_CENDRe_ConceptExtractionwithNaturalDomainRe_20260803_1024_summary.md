@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper introduces CENDRe, a novel concept extraction framework designed to enhance the interpretability of Convolutional Neural Networks (CNNs) in time-series classification tasks, particularly within critical industrial domains like fault diagnosis. The authors address significant limitations in existing methods, such as their inability to capture frequency-domain features, reliance on predefined concept counts, and misaligned spatial localizations. By leveraging silhouette-guided clustering and gradient-based localization through differentiable invertible mappings, CENDRe automatically discovers relevant temporal and spectral patterns without manual hyperparameter tuning. The study demonstrates that this approach not only matches state-of-the-art methods in representation correctness but significantly outperforms them in importance correctness, providing actionable insights for model validation.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptation_summary.md|Summary: 2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptationforEvol.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.06
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_17-27-43Z_InterpretableEEGbiomarkerswithbag_of_waves__summary.md|Summary: 2026-07-24_17-27-43Z_InterpretableEEGbiomarkerswithbag_of_waves_Spatial.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.12
+
 ## Key Contributions
 - **Automatic Concept Discovery**: CENDRe eliminates the need for predefining the number of concepts by employing a two-stage clustering process guided by silhouette scores, allowing the model to determine the optimal number of latent representations autonomously.
 - **Dual-Domain Localization**: The method uniquely produces concept localizations in both the time and frequency domains by propagating gradients through differentiable invertible mappings (such as the Fourier transform), revealing spectral patterns that traditional time-domain methods overlook.

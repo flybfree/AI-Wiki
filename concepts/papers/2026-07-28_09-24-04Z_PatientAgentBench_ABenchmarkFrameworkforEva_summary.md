@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces PatientAgentBench, a benchmark framework to evaluate patient‑facing health AI agents that can reason and act on behalf of patients using healthcare tools. It addresses the gap between static medical QA benchmarks and dynamic agentic interactions with simulated patients, providing a reproducible, clinician‑validated evaluation standard. The authors benchmark ten foundation models across four families over 1,200 patient‑agent scenarios, measuring performance across six dimensions via an LLM jury.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Founding PatientAgentBench as a comprehensive benchmark for patient‑agentic health AI.  
 - Demonstrating that clinical gaps persist even in top‑performing agents, especially in sustained tool use and emergency handling.  

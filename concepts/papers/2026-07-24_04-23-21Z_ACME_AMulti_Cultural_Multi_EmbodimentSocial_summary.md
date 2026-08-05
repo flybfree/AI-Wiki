@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The ACME dataset aims to fill a critical gap in social‑navigation research by providing a large, diverse, and multi‑embodied collection of human‑robot interaction data that reflects cultural and geographic variation. By integrating 7 robot bodies across eight sites in five countries, the authors generate both onboard robot logs and overhead pedestrian tracking streams, enabling the study of goal‑driven navigation in complex social scenarios with explicit robotic speech. The dataset is presented as a multimodal resource—including 3D/2D features, odometry, interaction metadata, and human‑annotated trajectory labels—making it readily usable for training navigation policies or predicting pedestrian behavior. This work demonstrates that existing datasets often lack the breadth needed to capture real‑world diversity, and ACME offers a more challenging and representative benchmark.
 
+## Semantic links
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI and Robotics Hub]] — 2 title terms overlap; 40 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_11-19-21Z_Athena_BrainTechnicalReport_AnEfficientRobo_summary.md|Summary: 2026-07-21_11-19-21Z_Athena_BrainTechnicalReport_AnEfficientRobotBrainf.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.12
+
 ## Key Contributions  
 - [Finding 1] ACME is the first cross‑cultural, multi‑embodiment dataset that records both robot and pedestrian data simultaneously across five countries.  
 - [Finding 2] The dataset includes explicit robot speech to capture human‑robot interaction cues, enriching the social navigation context beyond pure motion tracking.  

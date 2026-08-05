@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper addresses the critical challenge of detecting sophisticated image manipulations facilitated by advanced generative AI and diffusion models, which are increasingly capable of producing highly convincing forgeries. To tackle the lack of comprehensive evaluation frameworks, the authors introduce AUDITS (Analysis Under Domain-shifts, quality, Type, and Size), a large-scale benchmark comprising over 530,000 images curated from both user-generated content and news sources. This dataset is specifically designed to enable multi-axis analysis, allowing researchers to evaluate detection methods across diverse manipulation types, sizes, and quality levels. By conducting extensive experiments under various domain shift conditions, the study aims to provide new insights into the robustness and generalizability of existing image manipulation detection algorithms, ultimately driving the development of more reliable forensic tools.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of AUDITS, a novel and comprehensive benchmark dataset containing over 530K images that spans multiple axes of analysis, including domain shifts, image quality, manipulation type, and manipulation size.
 - A systematic evaluation of existing image manipulation detection methods, revealing significant vulnerabilities and performance drops when models are tested against diffusion-based inpaintings and diverse domain shifts.

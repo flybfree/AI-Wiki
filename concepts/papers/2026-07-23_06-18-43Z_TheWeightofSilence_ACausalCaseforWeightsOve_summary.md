@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether latent reasoning functions as an active scratchpad that language models consult during inference and how reinforcement learning (RL) affects this behavior in a chess‑playing model. By training the model through a staged curriculum of silent reasoning followed by RL, it finds that legality rises from 48 % to 61 % while checkmate confabulation disappears, and that exact‑zero corruption of latent thought vectors causes a severe performance drop (1 % pre‑RL vs. 9 % post‑RL). Causal interventions show that adding or mutating matched noise leaves results unchanged, whereas ablation only yields mild degradation, indicating that RL primarily enhances robustness to disruption rather than reliance on the content of thoughts. These findings challenge the prevailing assumption that latent thoughts are actively consulted at inference time.
 
+## Semantic links
+- [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 3 title terms overlap; 51 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Reinforcement learning boosts legality to 61 % and eliminates checkmate confabulation, demonstrating a clear RL gain in chess.  
 - [Finding 2] Exact‑zero corruption of latent thought vectors collapses performance dramatically (1 % pre‑RL vs. 9 % post‑RL), revealing a robustness gap that persists across the full experimental battery.  

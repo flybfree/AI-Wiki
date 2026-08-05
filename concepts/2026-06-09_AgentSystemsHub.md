@@ -12,6 +12,11 @@ tags: ['concept', 'ai', 'ml']
 
 This hub organizes content related to AI agent architectures, frameworks, and multi-agent systems.
 
+## Semantic links
+- [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|2026 06 09 Llmsandfoundationmodelshub]] — 1 title term overlap; shared tags: ai, concept, ml; 3 backlinks
+- [[concepts/2026-06-09_AIArchitectureHub.md|2026 06 09 Aiarchitecturehub]] — 1 title term overlap; shared tags: ai, concept, ml; 2 backlinks
+- [[concepts/2026-06-09_AIIndustryAndNewsHub.md|2026 06 09 Aiindustryandnewshub]] — 1 title term overlap; shared tags: ai, concept, ml; 3 backlinks
+
 ## Key Concepts
 
 - [[2026-06-08_BuildingEffectiveAgents_Anthropic.md|Building Effective Agents]]

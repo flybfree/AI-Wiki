@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper revisits adversarial robustness for graph‑based traffic forecasting, arguing that prior evaluations rely on unrealistic threat models and untargeted objectives. It proposes a practical adversary that can only manipulate a few road sensors, causing localized link errors while leaving the broader network largely unaffected. The authors reframe robustness as a detection problem, introducing a learned physics‑informed detector whose output is injected into the forecaster as an extra feature.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Prior defenses are ineffective against application‑specific attacks because they were trained on norm‑bounded perturbations rather than targeted link manipulations.  
 - [Finding 2] A learned physics‑informed detector, fed to the forecaster, mitigates localized link errors while preserving network‑wide performance.  

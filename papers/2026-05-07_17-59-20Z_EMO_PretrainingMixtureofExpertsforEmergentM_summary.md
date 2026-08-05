@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes EMO, a Mixture‑of‑Experts (MoE) architecture that learns to activate only a subset of experts per input without any human‑defined priors, aiming for true modularity in large language models. By encouraging tokens from the same document to rely on similar experts, EMO automatically groups experts around semantic domains such as math or code, enabling selective expert use at inference time. The model pretrained on 1 trillion tokens attains full MoE performance while allowing a drastic reduction of active experts with minimal loss. This work demonstrates that modular, memory‑efficient deployment is possible for massive sparse models.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemo_summary.md|Summary: 2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - **Selective Expert Use:** Retaining only 25 % (≈12.5 %) of the total experts causes just a 1–3 % absolute performance drop, whereas standard MoEs degrade severely under the same constraint.  
 - **Semantic‑Level Specialization:** The expert subsets specialize at high‑level domains (e.g., math, code) rather than low‑level syntactic patterns observed in conventional MoEs.  

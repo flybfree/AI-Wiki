@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors address the challenge of aligning language‑model outputs to individual users’ toxicity sensitivities without retraining the model, arguing that current approaches treat toxicity reduction as a one‑size‑fits‑all global problem. They introduce three inference‑time intervention strategies—pre‑decoding rewriting, in‑decoding steering, and post‑decoding re‑ranking—to personalize sensitivity targets derived from the PRISM dataset. Comparative evaluation shows that all methods cut alignment error by 28–47 % relative to baseline models, yet they expose a trade‑off between toxicity mitigation, user‑specific precision, and overall linguistic quality. The study demonstrates that toxicity alignment is an inherently multi‑objective optimization problem.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A training‑free framework that personalizes toxicity sensitivity across three distinct inference stages, achieving up to a 47 % reduction in alignment error compared with unmodified models.  
 - [Finding 2] Empirical evidence of a trade‑off: higher toxicity‑sensitivity alignment often correlates with measurable degradation in fluency and factual consistency.  

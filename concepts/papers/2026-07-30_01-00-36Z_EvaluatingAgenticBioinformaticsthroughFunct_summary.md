@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper addresses a critical gap in the evaluation of large‑language model agents used for bioinformatics by arguing that scientific credibility cannot be judged solely on fluent outputs or benchmark scores. The authors propose a new **Function–Evidence–Validation (FEV)** framework that treats the entire workflow trajectory—how actions are performed, what evidence supports each step, and how those steps are validated in context—as the primary unit of assessment. By mapping 109 agentic systems against 28 benchmark resources across multiple domains, they reveal a systematic imbalance between rapid planning/execution and slower, more rigorous validation processes. The study calls for a shift from final‑answer correctness to workflow correctness as the yardstick for trustworthy bioinformatics agents.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-30_14-52-36Z_OneHuman__N_Agents_Audit_BudgetAllocationfo_summary.md|Summary: 2026-07-30_14-52-36Z_OneHuman__N_Agents_Audit_BudgetAllocationforLLMAge.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.08
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** A unified FEV framework that separates *function* (demonstrated workflow operations), *evidence* (traceable support for actions and claims), and *validation* (use‑case‑specific scientific assessment).  
 - **Finding 2:** Empirical mapping of 109 agentic or agent‑adjacent systems to 28 benchmark/evaluation resources, spanning 128 unique publications in genomics, single‑cell/spatial omics, protein science, drug discovery, computational pathology, and general bioinformatics automation.  

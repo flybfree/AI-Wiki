@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the lack of systematic evaluation of Sheaf Neural Networks (SNNs) under inductive learning protocols, which have been studied only in transductive settings. By constructing a comprehensive design space that combines three diffusion mechanisms, restriction‑map parameterizations, stalk dimensions and six standard GNN components, the authors train SNNs on 1 890 experiments across fourteen inductive datasets without forming the heavy sheaf Laplacian, enabling cross‑graph batching. The benchmark reveals that restriction maps dominate the design space, general maps outperform them, larger stalks increase capacity but not long‑range reach, and architectural choices explain more variance than any sheaf‑specific setting. Crucially, SNNs can transfer to inductive tasks but typically fall short of the strongest baselines, with dataset‑dependent gaps that suggest a single sheaf configuration can generalize across datasets.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Restriction maps are the dominant design choice and general maps are preferable for inductive performance.  
 - [Finding 2] Larger stalks add capacity but do not improve long‑range reach, indicating limited benefit beyond a certain size.  

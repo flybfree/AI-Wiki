@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the limitation of molecular property prediction that relies on a single representative conformation, arguing that cyclic peptides exist as conformational ensembles in solution. To overcome this, the authors introduce EnsembleEGNN, a graph‑based foundation model that first encodes each conformer with shared Equivariant Graph Neural Network (EGNN) layers and then merges these representations using a Set Attention Block. The model is pretrained on the CREMP cyclic peptide ensemble dataset via a multi‑task self‑supervised objective combining masked token recovery, noisy‑coordinate reconstruction, and pairwise distance reconstruction. Experimental results show that EnsembleEGNN yields superior performance over sequence‑only BERT baselines when applied to cyclic‑peptide property prediction.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] EnsembleEGNN outperforms the standard sequence‑only BERT baseline on cyclic peptide property prediction, achieving a higher R² and Pearson correlation.  
 - [Finding 2] Training the model from scratch fails completely (R² = 0.005), but pretraining on CREMP yields strong results: R² = 0.477, Pearson r = 0.699.  

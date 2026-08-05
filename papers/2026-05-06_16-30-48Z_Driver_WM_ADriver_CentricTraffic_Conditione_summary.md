@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper presents **Driver‑WM**, a driver‑centric latent world model that predicts both external traffic conditions and the internal dynamics of a passenger’s behavior during shared‑control driving scenarios. By conditioning in‑cabin rollout on out‑cabin traffic, Driver‑WM enables multi‑step forecasting of driver reactions, which is essential for safe L2/L3 automation. The authors propose a compact latent space built from frozen vision‑language features and a dual‑stream architecture that separately encodes external and internal states while preserving strict temporal causality. This formulation allows controlled test‑time interventions to analyze how drivers respond to specific traffic perturbations.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Driver‑WM introduces a **latent world model** that simultaneously forecasts external traffic and the driver’s kinematic and affective state, bridging the gap between environmental prediction and human dynamics.  
 - [Finding 2] The model employs a **dual‑stream architecture with gated causal injection**, ensuring that external perturbations are conditionally injected into internal states without violating causality.  

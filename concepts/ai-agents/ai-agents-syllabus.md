@@ -12,6 +12,11 @@ tags: [ai, agents, syllabus, course]
 This syllabus defines the teaching shape for the AI Agents lesson set.
 It is intentionally practical: the point is to understand when an agent helps, what can go wrong, and how the surrounding harness makes the system reliable.
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-landing-page.md|AI Agents Landing Page]] — 1 title term overlap, shared tags: agents, ai, course, 1 topic term overlap
+- [[concepts/ai-agents/ai-agents-course-map.md|AI Agents Course Map]] — 1 title term overlap, shared tags: agents, ai, 1 topic term overlap
+- [[concepts/ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]] — 1 title term overlap, shared tags: syllabus, 1 topic term overlap
+
 ## Teaching principles
 - Start from the user task, not the model internals
 - Separate the model from the harness around it

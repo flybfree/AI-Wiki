@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper aims to improve relevance measurement for large‑scale web search by replacing costly human annotation with a vision‑language model (VLM) that can generate judgments at speed. By integrating this VLM‑based pipeline into Pinterest’s A/B experiments, the authors demonstrate that automated labels remain highly aligned with expert annotations while dramatically cutting evaluation time and cost. The approach also enables richer query sampling and more precise statistical inference in online experiments. Overall, the work advances relevance scoring from a manual bottleneck to an efficient, scalable system.
 
+## Semantic links
+- [[concepts/papers/2026-07-20_18-13-49Z_EnablingMultilingualPrivacyPolicyAudits_Lar_summary.md|Summary: 2026-07-20_18-13-49Z_EnablingMultilingualPrivacyPolicyAudits_Large_Scal.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 - VLM‑based automated relevance evaluation reduces annotation expense and turnaround time for web‑scale search systems.  
 - Rigorous validation shows that VLM judgments correlate strongly with human annotations (Spearman’s ρ ≈ 0.92), providing reliable metrics for A/B testing.  

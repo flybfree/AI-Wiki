@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes **Slides2MindMap**, an automatic system that reconstructs cognitively efficient knowledge hierarchies from lecture slides, aiming to improve information assimilation in intelligent education. To address the challenge of balancing global scaffold construction with local factual fidelity across large, heterogeneous slide decks, the authors introduce a new benchmark (S2M‑Bench) and an agentic framework called **AutoMindMap** that integrates these two aspects.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_18-09-17Z_LayerRAG_Bench_ACross_LayerReliabilityBench_summary.md|Summary: 2026-07-29_18-09-17Z_LayerRAG_Bench_ACross_LayerReliabilityBenchmarkfor.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-07-30_14-23-01Z_Theia_Large_ScaleMultimodalCaptioningandAut_summary.md|Summary: 2026-07-30_14-23-01Z_Theia_Large_ScaleMultimodalCaptioningandAutomatedV.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Introduces **S2M‑Bench**, a dataset of 12,774 slide pages with expert‑annotated mind maps spanning 24 university courses.  
 - Proposes **AutoMindMap**, an agentic framework inspired by the Structure Building Framework, comprising three stages: Skeleton Laying for global scaffold anchoring, Iterative Knowledge Integration using context‑aware summarization, and Dual‑Stage Refinement with a local‑global decoupling mechanism.  

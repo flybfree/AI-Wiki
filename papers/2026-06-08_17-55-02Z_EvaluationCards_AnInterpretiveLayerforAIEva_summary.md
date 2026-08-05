@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 AI evaluation results are generated across many sources but reported in an inconsistent and opaque manner, making it difficult for readers to compare outcomes or trace claims to evidence. This paper introduces **EvalCards**, a unified reporting layer that composes benchmark metadata, evaluation run data, and model metadata into a single interpretable record. The authors derive a reporting schema from a review of 52 papers and stakeholder interviews, implement four interpretive signals (reproducibility, documentation completeness, provenance/risk, score comparability), and deploy a monitoring tool that evaluates thousands of models and results to expose systematic gaps in current practice.  
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinP_summary.md|Summary: 2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A comprehensive analysis reveals three persistent gaps in AI evaluation reporting: narrow coverage of the evaluation lifecycle, static representations that ignore stakeholder perspectives, and lack of extraction infrastructure for large‑scale adoption.  
 - [Finding 2] The authors design a structured schema that integrates benchmark metadata, run data, and model metadata into a single record, enabling cross‑source comparability.  

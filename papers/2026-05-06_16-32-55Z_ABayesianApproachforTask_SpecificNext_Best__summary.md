@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a Bayesian framework for task‑specific active next‑best‑view selection in 3D reconstruction from point clouds, integrating a prior over implicit surfaces and a posterior derived via stochastic surface reconstruction to guide camera choice. It emphasizes reducing uncertainty only where it matters for the downstream objective, rather than applying uniform reduction across space. The approach demonstrates that fewer scans can achieve higher task performance compared with conventional baselines.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - A Bayesian decision‑theoretic framework that models view selection as optimizing a task‑specific loss over an implicit surface prior.  
 - Integration of stochastic surface reconstruction to compute posterior distributions, enabling uncertainty‑aware camera choice.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Code language models require repository‑level knowledge to resolve imports and APIs, yet current solutions either rely on long retrieved inputs (e.g., RAG) or per‑repository fine‑tuning with LoRA, both of which are costly at scale. Code2LoRA addresses this by generating repository‑specific adapters via a hypernetwork that injects this context with zero inference‑time token overhead. The framework supports two scenarios: a static adapter for stable codebases and an evolving adapter that tracks changes through a GRU hidden state. Experiments on RepoPeftBench demonstrate competitive performance across both training and test tracks.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Code2LoRA introduces hypernetwork‑generated adapters that embed repository knowledge without adding inference overhead.  
 - Finding 2: The method provides two usage modes—static (single snapshot) and evolution (continuous updates)—to handle both stable and evolving codebases.  

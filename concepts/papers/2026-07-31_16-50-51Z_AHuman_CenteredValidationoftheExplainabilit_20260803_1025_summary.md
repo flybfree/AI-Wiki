@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper addresses the critical challenge of objectively evaluating Explainable Artificial Intelligence (XAI) in high-risk domains where model trustworthiness is paramount. The authors propose a novel, model-agnostic metric known as the Explainability-Performance Coefficient (EPC), which serves as an extension to quantify explanation quality by explicitly balancing feature selection sparsity against preserved model performance. Through extensive empirical validation across diverse data modalities, including tabular, text, and image datasets, the study demonstrates that the EPC score effectively uncovers operational dependencies among network activations, data dimensionality, and explainer performance. Crucially, the work validates this metric against independent human-based explanations, proving a strong alignment between higher EPC scores and human lexical sentiment judgments as well as spatial visual annotations, thereby bridging the gap between algorithmic metrics and human-centered understanding.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_12-12-39Z_AHuman_in_the_LoopCorpusforLLM_BasedSimplif_summary.md|Summary: 2026-07-28_12-12-39Z_AHuman_in_the_LoopCorpusforLLM_BasedSimplification.md]] — 4 title terms overlap; 4 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of an extended, model-agnostic Explainability-Performance Coefficient (EPC) that quantifies explanation quality by balancing feature sparsity with performance preservation.
 - Empirical evidence demonstrating that the EPC score effectively reveals operational dependencies among network activations, data dimensionality, and explainer performance across multiple modalities.

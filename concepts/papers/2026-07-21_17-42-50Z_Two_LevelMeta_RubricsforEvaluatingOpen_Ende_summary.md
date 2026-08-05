@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of evaluating factual completeness in long‑form open‑ended generation, a dimension that current methods largely ignore. Existing pipelines focus on precision—detecting incorrect claims—but they do not measure whether an answer contains all relevant information. The authors introduce a two‑level meta‑rubric framework that first encodes the organization and importance of required content, then converts this into a flat set of binary, machine‑gradable rubrics for reliable LLM scoring. They instantiate this framework as **Gamut**, a benchmark that tests factual completeness across modalities.  
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A two‑level meta‑rubric representation separates high‑level content organization from low‑level binary checks, enabling systematic evaluation of open‑ended generation.  
 - [Finding 2] Gamut is a modality‑agnostic benchmark comprising 1,813 questions grounded in wearable imagery across ten diverse domains, each paired with evidence‑backed rubrics verified by expert annotators.  

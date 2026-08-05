@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Dynamic user intent fluctuations cause long‑horizon tool invocations to fail, leading to infinite API loops or stale context errors despite existing robustness techniques that assume static instructions. This paper introduces IACM‑RL, a framework that explicitly models shifting goals and isolates overwritten parameters under fluctuating contexts. By fusing a synthetic DynamicIntent pipeline with diagnostic metrics, it enables a belief‑state based self‑generated context manager to adaptively manage complex tool calls. The proposed hierarchical reinforcement learning policy is optimized using an intent‑driven reward plus three auxiliary losses, yielding robust performance across diverse scenarios.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptation_summary.md|Summary: 2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptationforEvol.md]] — 3 title terms overlap; 5 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [DynamicIntent pipeline synthesizes trajectories across 13 fine‑grained fluctuation scenarios and pairs them with a five‑dimensional diagnostic metric suite.]  
 - [A belief‑state based self‑generated context manager tracks shifting goals and isolates overwritten parameters using structural stale flags.]  

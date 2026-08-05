@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **Generalized Quadratic Gradient (GQG)** as a unified framework that extends the quadratic‑gradient principle to any positive‑definite curvature matrix satisfying the stationary condition of a local quadratic model, rather than being confined to constant Hessian or BFGS‑based surrogates. By abstracting the shared structure of existing Newton‑type methods such as Simplified Quadratic Gradient (SQG) and Quasi‑Quadratic Gradient (QQG), GQG provides a broader foundation for curvature‑aware optimization algorithms.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **Unified Construction Principle** – GQG shows that all quadratic‑gradient constructions share a common requirement: the use of a positive‑definite curvature matrix that fulfills the stationary condition, enabling a single theoretical framework.  
 - **Generalized Curvature Surrogates** – The authors prove that any PD Hessian surrogate (not limited to constant or diagonal matrices) can be employed as the curvature source for gradient updates.  

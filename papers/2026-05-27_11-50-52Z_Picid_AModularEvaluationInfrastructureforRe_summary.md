@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces Picid, a modular evaluation infrastructure designed to standardize and make reproducible Prognostics and Health Management (PHM) experiments across diverse tasks, datasets, and application domains. By formalizing the PHM pipeline as an explicit protocol, Picid enforces deterministic dataset construction, leakage‑safe splits, and consistent metric usage while remaining flexible for new models or settings. The framework unifies fault detection, diagnostics, and prognostics under a single interface, enabling fair cross‑task comparisons. Empirical testing on thirteen models across twelve real‑world datasets demonstrates the utility of Picid in achieving reproducible results.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolv_summary.md|Summary: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Picid provides a modular, protocol‑driven evaluation framework that standardizes PHM pipelines without sacrificing flexibility.]  
 - [The infrastructure enforces deterministic, leakage‑safe dataset construction and consistent metric usage across tasks.]  

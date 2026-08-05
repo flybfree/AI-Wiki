@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes **einx**, a universal notation for tensor operations that is built on the principle of vectorization, aiming to simplify and unify tensor programming across different frameworks. It introduces declarative, pointful expressions analogous to loop syntax that both decompose higher‑order operations into lower‑order ones and lift those lower‑order steps up. By reducing the large APIs of existing libraries to a small set of elementary vectorized primitives, einx eliminates shape errors and improves readability. The authors embed this notation in Python so it can be used directly within NumPy, TensorFlow, JAX, etc.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - **einx provides a universal, consistent notation for all tensor operations**, independent of the specific library being used.  
 - **Declarative pointful expressions enable decomposition of complex ops into elementary vectorized steps**, making higher‑order maths transparent and composable.  

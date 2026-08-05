@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how the level of Explainable AI (XAI) support influences developers’ trust in AI‑generated code review feedback. By comparing three LLM‑based review systems that provide detailed explanations, only feedback, or no explanation, the authors aim to uncover whether richer XAI improves both trust and agreement with recommendations. The study contributes empirical evidence on how XAI can be tuned to balance perceived reliability with willingness to accept AI suggestions.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - Full explanations (Condition A) yield the highest perceived trust scores (M = 3.99/5) but not the highest agreement, indicating that more detail may prompt developers to question recommendations.  
 - Moderate explanations (Condition B) achieve the highest agreement rate (89.22%), suggesting a sweet‑spot where enough rationale encourages acceptance without excessive doubt.  

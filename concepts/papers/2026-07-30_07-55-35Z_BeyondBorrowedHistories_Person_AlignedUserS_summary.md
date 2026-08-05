@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper critiques existing role‑playing evaluation benchmarks that rely on fixed dialogue histories and detached rubrics, which limit the ability to assess genuine role‑playing capability and ignore individual user preferences. It introduces PALATE, a person‑aligned simulation framework equipped with 300 character profiles and per‑user simulators, enabling personalized assessment of large language model RPAs across multi‑turn interactions.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]] — 3 title terms overlap; 161 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Existing benchmarks cannot evaluate role‑playing ability in real multi‑turn settings because an RPA’s output is shaped by the preceding dialogue history.  
 - [Finding 2] User experience varies substantially across individuals, so conventional fixed rubrics misalign with actual satisfaction levels.  

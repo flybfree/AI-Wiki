@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces EEVEE, a multi‑dataset test‑time prompt learning framework that enables self‑improving language model agents to adapt to real‑world task streams containing heterogeneous inputs from multiple datasets and domains. It addresses the limitation of existing methods that are single‑dataset oriented by introducing a router that clusters tasks and assigns appropriate prompts, using an interleaved co‑evolution strategy. EEVEE improves robustness under mixed data while preserving efficient single‑benchmark learning. The framework outperforms state‑of‑the‑art test‑time prompt learners on several benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] EEVEE introduces a task‑aware router that partitions incoming inputs into clusters and selects suitable prompts, mitigating cross‑dataset interference.  
 - [Finding 2] The co‑evolution of router and prompt parameters via interleaved training phases resolves mutual dependency and stabilizes learning.  

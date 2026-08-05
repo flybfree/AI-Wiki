@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Rashomon Alignment (RA) introduces a geometric framework for evaluating functional similarity between two machine‑learning models, extending existing distributional measures that rely on real‑world data samples. The authors propose both a distributional alignment metric and a geometric Rashomon Alignment that estimates similarity across the entire input space by uniformly sampling from the instance space. By comparing these perspectives, RA reveals divergences where model alignment does not translate to predictive accuracy, highlighting complementary insights for model selection and algorithmic interpretability.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World__summary.md|Summary: 2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World_Grounde.md]] — 4 title terms overlap; 4 backlinks; 14 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: A new geometrical perspective on functional model similarity that is independent of any specific data distribution.  
 - Finding 2: The geometric Rashomon Alignment measure computed via uniform sampling from the instance space to capture alignment across all possible inputs.  

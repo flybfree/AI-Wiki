@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces **VidMsg**, a benchmark designed to evaluate how well AI systems infer the implicit message behind short, internet‑native video clips. By treating messages as the primary signal and using a language model to generate indirect search scenarios, VidMsg creates a dataset of 400 YouTube clips across nine domains with 52 fine‑grained target messages. The authors also add a diagnostic multiple‑choice QA task that forces models to select the intended message from semantically similar alternatives. Their contribution is not only the benchmark itself but also a baseline method, VidVec‑Msg, that demonstrates how message‑oriented retrieval can be improved while leaving room for further research.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelfor_summary.md|Summary: 2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelforInterpr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe_summary.md|Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenR_summary.md|Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Creating a comprehensive VidMsg dataset of 400 YouTube clips with 52 fine‑grained target messages across nine practical topics.]  
 - [Designing a message‑first pipeline that uses an LLM to translate target messages into retrieval scenarios and then human‑annotates the most suitable video candidates.]  

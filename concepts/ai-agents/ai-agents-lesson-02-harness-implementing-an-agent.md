@@ -9,6 +9,11 @@ tags: [lesson, agents, harness, implementation]
 
 **Source**: [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) · [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [LangGraph: Agent orchestration framework](https://www.langchain.com/langgraph)
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-01-what-an-ai-agent-is.md|AI Agents Lesson 1 - What an AI Agent Is]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|AI Agents Lesson 4 - Planning, Memory, and State]] — 2 title terms overlap, shared tags: agents, lesson, 4 topic terms overlap
+
 ## Lesson goal
 See how a harness turns a model into a working agent by managing the loop, tools, permissions, state, and stop conditions.
 

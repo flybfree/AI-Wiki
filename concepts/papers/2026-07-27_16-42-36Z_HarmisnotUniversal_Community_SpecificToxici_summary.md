@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper argues that current, one‑size‑fits‑all toxicity detectors for text‑to‑image generation are harmful to marginalized communities and propose a community‑specific approach (CTD). It shows that these universal models mislabel roughly 35 % of images that are safe for dwarfism or blind/low‑vision users as harmful, with zero‑shot F1 scores below random guessing. The authors demonstrate that prompt‑based adaptation (ICL, VQA) and lightweight fine‑tuning improve detection but still fall short of the high performance achieved by general‑purpose detectors.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Universal toxicity detectors mislabel about one‑third of images that are safe for disability communities.  
 - Finding 2: Zero‑shot evaluation yields F1 scores of 0.32 and 0.37, essentially random guessing.  

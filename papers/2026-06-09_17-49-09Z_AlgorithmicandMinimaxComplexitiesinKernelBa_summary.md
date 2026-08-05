@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper unifies algorithmic and minimax complexity analysis in kernel bandits, showing that GP‑UCB and MAMS belong to the same MAIR framework. It introduces a safeguarded master combining both approaches and demonstrates via a construction that algorithmic information can be more informative than class‑wide minimax certificates. The unified view clarifies when each metric yields smaller regret.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextua_summary.md|Summary: 2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - Finding 1: GP‑UCB is analyzed as an algorithmic complexity problem using realized trajectory complexity and computational tractability.  
 - Finding 2: MAMS is recast within the MAIR framework with a robust class‑wide MAIR/DEC envelope, providing a minimax certificate for the whole RKHS class.  

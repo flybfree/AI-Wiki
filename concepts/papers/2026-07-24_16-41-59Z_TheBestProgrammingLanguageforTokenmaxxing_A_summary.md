@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how token consumption varies across programming languages when using coding agents, showing that some languages are far more expensive than others. It evaluates five recent models on problems in Python, Java, Rust, and OCaml while controlling for problem difficulty. The study reveals systematic language‑specific inefficiencies due to agent behavior patterns. This work provides a metric for token efficiency across languages.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Token consumption differs significantly by programming language even after controlling for problem difficulty.  
 - [Finding 2] Agents generate noncompiling code in unfamiliar languages and repeatedly revise already passing solutions, indicating inefficiencies.  

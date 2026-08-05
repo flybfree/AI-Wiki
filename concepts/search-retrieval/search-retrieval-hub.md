@@ -12,6 +12,11 @@ tags: [search, retrieval, memory]
 
 Retrieval systems, search agents, memory systems, ranking, indexing, and context retrieval.
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|AI Agents Lesson 5 - Retrieval, Context, and Long-Context Work]] — 4 title terms overlap; shared tags: retrieval; 2 backlinks
+- [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 2 title terms overlap; 160 backlinks; 3 summary/topic terms overlap
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]] — 2 title terms overlap; 506 backlinks; 3 summary/topic terms overlap
+
 ## Related Concepts
 
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-04-how-an-ml-system-works.md|AI Ml Foundations Lesson 04 How An Ml System Works]]

@@ -35,6 +35,11 @@ We evaluate CMVE on three real‑world clusters (a mixed‑purpose production se
 
 ---
 
+## Semantic links
+- [[concepts/papers/2026-07-31_07-13-59Z_HarnessingtheWisdomofLLMCrowdsthroughComple_20260803_0052_summary.md|Summary: 2026-07-31_07-13-59Z_HarnessingtheWisdomofLLMCrowdsthroughComplementari.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_07-13-59Z_HarnessingtheWisdomofLLMCrowdsthroughComple_summary.md|Summary: 2026-07-31_07-13-59Z_HarnessingtheWisdomofLLMCrowdsthroughComplementari.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_07-13-59Z_HarnessingtheWisdomofLLMCrowdsthroughComple_20260803_0447_summary.md|Summary: 2026-07-31_07-13-59Z_HarnessingtheWisdomofLLMCrowdsthroughComplementari.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+
 ## Key Contributions
 
 1. **Complementary Multi‑View Data Fusion** – A novel fusion strategy that treats each log view as a distinct “explainable component” and learns their synergistic effect through a meta‑learner rather than simple concatenation or averaging.  

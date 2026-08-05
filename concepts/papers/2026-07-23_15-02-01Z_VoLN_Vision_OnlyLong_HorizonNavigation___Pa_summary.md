@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Vision‑Only Long‑Horizon Navigation (VoLN), a paradigm that replaces route‑level instructions with locally observable in‑scene cues, thereby enabling agents to navigate long horizons without GPS or external guidance. It proposes VoLN‑UAV, a 7 210‑episode benchmark that tests long‑range flight, large viewpoint changes, and context‑dependent beacon selection. The authors also present MLLM (Multimodal Language Model) as an initial baseline that aligns self‑supervised visual features with a structured semantic space to predict short‑horizon waypoints from observation history.  
 
+## Semantic links
+- [[concepts/papers/2026-07-30_14-23-01Z_Theia_Large_ScaleMultimodalCaptioningandAut_summary.md|Summary: 2026-07-30_14-23-01Z_Theia_Large_ScaleMultimodalCaptioningandAutomatedV.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.08
+- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|AI Agents Lesson 5 - Retrieval, Context, and Long-Context Work]] — 4 title terms overlap; 2 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_19-29-48Z_Long_HorizonEmbodiedDecision_MakingviaMulti_summary.md|Summary: 2026-08-02_19-29-48Z_Long_HorizonEmbodiedDecision_MakingviaMultimodalMe.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.14
+
 ## Key Contributions  
 - [Finding 1] VoLN shifts all route‑relevant information—orientation, distance, and layout—to cues the agent can detect and interpret on its own, decoupling navigation from externally supplied instructions.  
 - [Finding 2] The authors create VoLN‑UAV, a comprehensive benchmark with long‑horizon goals, continuous 3D motion, large viewpoint shifts, and dynamic beacon selection to evaluate vision‑only performance.  

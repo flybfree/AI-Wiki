@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the computationally intensive task of automatically discovering inclusion dependencies—relationships between table attributes that may form primary‑key to foreign‑key links—in large data warehouses. By presenting two algorithms, Spider (a classic exact method) and Faida (the state‑of‑the‑art approximate method), together with a suite of implementation optimizations, the authors achieve substantial speedups over existing tools such as Metanome. Their contribution lies not only in algorithmic improvements but also in delivering practical, high‑performance C++ code within an open‑source profiler called Desbordante.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.03
+
 ## Key Contributions  
 - **Efficient parallelization of Spider** that cuts both runtime and memory usage by up to fivefold compared with the baseline.  
 - **Four optimizations applied to Faida**: data buffering, SIMD‑enabled execution, careful hash‑table selection, and parallelism, yielding an eightfold reduction in run time.  

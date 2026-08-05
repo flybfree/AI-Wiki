@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper addresses the critical vulnerability of Infrared Vision-Language Models (IR-VLMs) to structured thermal perturbations, a domain that has previously lacked sufficient robustness analysis. The authors introduce QR-Structured Thermal Triggers (QR-STT), a novel, training-free, and black-box framework designed to execute targeted semantic attacks by manipulating thermal patterns. By optimizing the internal modules of a QR code pattern with specific thermal states, the method successfully steers the model’s cross-modal alignment toward attacker-selected concepts without altering the visual appearance significantly. The study demonstrates that these perturbations are not only effective for classification tasks but also transfer seamlessly to complex downstream applications like image captioning and visual question answering, highlighting a significant security gap in current infrared perception systems.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_23-51-57Z_Pramana_AComposable_Domain_SpecificBackendf_summary.md|Summary: 2026-07-28_23-51-57Z_Pramana_AComposable_Domain_SpecificBackendforEmpir.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_15-35-57Z_ARB_AMatchedAuthorship_RewritingBenchmarkDa_20260803_1021_summary.md|Summary: 2026-07-31_15-35-57Z_ARB_AMatchedAuthorship_RewritingBenchmarkDatasetfo.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.12
+
 ## Key Contributions
 - **Novel Attack Framework**: The authors propose QR-STT, the first training-free framework that utilizes structured thermal triggers to perform targeted semantic attacks on IR-VLMs, preserving the functional integrity of QR codes while embedding malicious thermal signals.
 - **Cross-Task Transferability**: The research empirically demonstrates that perturbations optimized for simple image classification tasks successfully induce target-consistent semantic drift in more complex tasks, including open-vocabulary classification, image captioning, and visual question answering.

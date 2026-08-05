@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper argues that the guidance scale in classifier‑free guidance (CFG) should be treated as a dynamic control variable rather than a static hyperparameter, because its optimal value varies across tasks and diffusion stages. By reframing CFG scale selection as a sequential decision‑making problem, the authors propose learning adaptive guidance trajectories with reinforcement learning. Their contribution is a PPO‑based policy that selects discrete guidance actions at each generation step to maximize task‑level rewards. Experiments show these learned policies produce higher‑quality outputs while preserving controllability compared with fixed‑scale strategies.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 4 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] Guidance scale selection can be modeled as a dynamic control problem, enabling the use of reinforcement learning for adaptive guidance.  
 - [Finding 2] A PPO policy learns discrete guidance actions per diffusion step, producing interpretable trajectories that adapt to task and process state.  

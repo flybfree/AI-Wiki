@@ -15,6 +15,11 @@ Source: 2026-04-28_17-40-49Z_VariationalNeuralBeliefParameterizationsforRobustD.
 ## Summary
 Formulates robust dexterous grasping as variational inference over latent contact parameters and object pose, using a differentiable Gaussian-mixture belief and a CVaR surrogate for tail robustness. In simulation and on hardware, the method improves robustness and planning efficiency relative to particle-filter and Gaussian baselines.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTool_summary.md|Summary: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] — 1 title term overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Takeaways
 - Uses smooth belief parameterizations to support pathwise gradients.
 - Optimizes tail risk rather than only expected grasp quality.

@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The paper tackles the NVIDIA Nemotron Model Reasoning Challenge by teaching large language models how to solve combinatorially exploding bit‑manipulation puzzles, which require discovering hidden logical rules from binary strings. It proposes an approach that replaces arithmetic logic with string similarity, backtracking search, and error recovery to infer bases and truth tables efficiently. The method achieves high accuracy (>96%) on validation sets, securing 7th place overall in the contest. This work advances LLM reasoning in combinatorial deduction tasks.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Bases and Truth Table Formulation – reframes logic‑gate deduction as a base‑selection task using minimal bit flips to isolate primitive transformations.  
 - [Finding 2] Backtracking DFS and Error Recovery – formalizes testing candidate bases, detecting logical collisions, and backtracking on failure for robust error handling.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper presents a comparative study between two data-driven reduced-order modeling techniques—parametric physics-informed neural networks (PINNs) and tensorial reduced-order models (TROMs)—applied to the one-dimensional shallow-water dam-break problem, a classic benchmark in fluid dynamics. The authors develop both models to learn direct solution maps from space, time, and dam-break parameters without requiring numerical integration or calibration, enabling rapid prediction of system behavior. A key innovation is the use of shock-aware collocation in PINNs to enhance robustness when handling discontinuities inherent in dam-break flows.
 
+## Semantic links
+- [[concepts/math-physics/math-physics-hub.md|Math and Physics AI Hub]] — 2 title terms overlap; 55 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_09-38-42Z_At_the_RooflineSparseTensorContractionsonVe_summary.md|Summary: 2026-07-28_09-38-42Z_At_the_RooflineSparseTensorContractionsonVectorPro.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-08-02_00-27-01Z_LearningNottoOptimize_Physics_InformedActio_summary.md|Summary: 2026-08-02_00-27-01Z_LearningNottoOptimize_Physics_InformedAction_Space.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.03
+
 ## Key Contributions  
 - [Finding 1] The authors successfully develop a parametric PINN that learns a direct solution map for the dam-break problem, achieving high accuracy and enabling out-of-sample predictions.  
 - [Finding 2] They introduce shock-aware collocation as a critical enhancement to PINNs, significantly improving their performance in capturing sharp transients like shocks.  

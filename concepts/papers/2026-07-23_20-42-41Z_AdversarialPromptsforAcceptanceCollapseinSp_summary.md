@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces ADSD, an adversarial prompt‑suffix attack that exploits speculative decoding’s acceptance rule to cause verifier collapse while preserving task quality. It demonstrates that draft‑target alignment can be systematically manipulated, leading to a 62.3 % increase in mean sample time on GSM8K without any degradation of accuracy.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] ADSD is the first prompt‑suffix attack that collapses verifier acceptance by shifting draft probability mass toward tokens the target model is unlikely to accept.  
 - [Finding 2] The attack leverages Soft‑Collapse, a verifier‑aligned surrogate derived from the asymmetric speculative acceptance rule, together with a target‑preservation objective that discourages obvious task corruption.  

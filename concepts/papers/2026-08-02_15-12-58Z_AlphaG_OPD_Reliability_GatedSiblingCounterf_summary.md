@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the limitation of symbolic alpha factor discovery, which scores completed expressions but does not label the structural decisions that produced them. It proposes AlphaG‑OPD, a structural on‑policy distillation method that converts terminal factor evaluations into local action guidance for generating reliable sibling counterfactuals. The framework separates three decision components: (I) where to teach by exposing grammar‑valid siblings at partial AST states; (II) what is reliable enough to teach via KL‑bounded admission of sibling comparisons; and (III) how strongly and for how long to teach through bounded replay and forward‑gradient balancing without extra evaluations. This approach enables the on‑policy process to learn from the most trustworthy sibling actions while preserving the original factor pool and grammar rules.
 
+## Semantic links
+- [[concepts/papers/2026-07-30_09-47-58Z_FromScoringtoActing_Outcome_VerifiedCompara_summary.md|Summary: 2026-07-30_09-47-58Z_FromScoringtoActing_Outcome_VerifiedComparativeSel.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.14
+- [[concepts/papers/2026-07-06_17-59-58Z_InterpretableHuman_Label_FreeDeepLearningfo_summary.md|Summary: 2026-07-06_17-59-58Z_InterpretableHuman_Label_FreeDeepLearningforReal_B.md]] — 4 title terms overlap; 4 summary/topic terms overlap; semantic match 0.10
+- [[concepts/papers/2026-08-03_17-45-58Z_AtumAI_APrincipledFrameworkforAgenticGenera_20260804_0109_summary.md|Summary: 2026-08-03_17-45-58Z_AtumAI_APrincipledFrameworkforAgenticGenerationofD.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - [Finding 1] AlphaG‑OPD introduces a reliability‑gated sibling counterfactual mechanism that turns terminal factor scores into actionable teacher signals for on‑policy distillation.  
 - [Finding 2] The method evaluates three siblings under four shared suffixes, admitting a target only when winner agreement exceeds a threshold and an empirical lower confidence bound is positive.  

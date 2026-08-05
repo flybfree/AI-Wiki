@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether training‑time regularization of KV‑cache geometry can improve quantization performance for language models. It proposes a method to directly regularize the K and V matrices during continued training, showing that this reshapes cache geometry and yields measurable benefits under low‑bit regimes. Experiments on an 110 M model trained on 10 B tokens reveal specific conditions where the intervention helps.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardw_summary.md|Summary: 2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardwareTroj.md]] — 4 title terms overlap; 4 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] At λ=0.01, LeJEPA's anti‑collapse objective reduces hidden‑state pairwise‑cosine anisotropy by 38 % across three paired seeds while perplexity increases only <0.35 %, indicating subtle representation changes without large loss.  
 - [Finding 2] Direct regularization of KV terms during continued training reduces mean cache anisotropy by 94 % across four checkpoints, whereas applying the same to hidden states or using frozen‑trunk retrofits does not reproduce this effect.  

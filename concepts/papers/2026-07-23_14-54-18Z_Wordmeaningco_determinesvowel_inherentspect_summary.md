@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates vowel‑inherent spectral change (VISC) in spontaneous conversational Mandarin to determine whether the meaning of a word influences its fine‑grained articulatory details. By modeling F1 and F2 trajectories as functions of contextualized word embeddings, the authors demonstrate that these trajectories contain components that are uniquely tied to lexical semantics. This work provides empirical support for the claim that word meaning co‑determines vowel articulation, thereby challenging traditional modular accounts of speech production.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] VISC exhibits word‑specific dynamics that cannot be explained by acoustic variables such as duration or speaker identity alone; these dynamics are linked to lexical meaning.  
 - [Finding 2] The F1 and F2 trajectories of Mandarin words can be predicted from their contextualized embeddings with an accuracy far above a random permutation baseline, indicating a meaningful relationship between semantics and spectral shape.  

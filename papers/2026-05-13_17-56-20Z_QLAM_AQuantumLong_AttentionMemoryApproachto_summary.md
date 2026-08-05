@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces Quantum Long-Attention Memory (QLAM), a novel hybrid quantum-classical mechanism designed to address the scalability limitations of traditional sequence modeling architectures. By leveraging the superposition property of quantum systems, QLAM enhances state-based modeling, offering a quantum extension to standard state-space models (SSMs). The primary goal is to capture complex global dependencies in long sequences without the quadratic computational overhead associated with Transformer attention mechanisms. The authors demonstrate that QLAM effectively preserves the linear-time efficiency of recurrent updates while significantly enriching the memory representation through quantum dynamics.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemo_summary.md|Summary: 2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions
 - The proposal of QLAM, a new hybrid architecture that represents hidden states as quantum states, allowing for non-classical, globally updated memory mechanisms conditioned on input data.
 - Theoretical and empirical demonstration that QLAM implicitly captures global dependencies through quantum state evolution and query-dependent measurements, avoiding the explicit pairwise computations of attention.

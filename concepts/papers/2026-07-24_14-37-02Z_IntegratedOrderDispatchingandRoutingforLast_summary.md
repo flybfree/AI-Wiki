@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the integration of order dispatching and routing for last‑mile pickup using deep reinforcement learning, aiming to overcome instability from solving them separately or end‑to‑end learning with sparse rewards. It proposes a coupled framework where a learned routing oracle guides real‑time dispatching heuristics, enabling scalable decision‑making in large logistics networks. The routing subproblem is tackled with a Dynamic‑Residual Graph Attention Network encoder and a Look‑Ahead Courier‑Personalized decoder, while the dispatching subproblem employs local search guided by the oracle to maintain responsiveness. Extensive experiments on Cainiao Logistics data demonstrate superior solution quality and faster solving times compared to benchmarks, supporting real‑time large‑scale logistics.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The integration of order dispatching and routing into a single end‑to‑end optimization framework that jointly learns both components.  
 - [Finding 2] Development of a Dynamic‑Residual Graph Attention Network encoder with Look‑Ahead Courier‑Personalized decoder for accurate, personalized routing solutions.  

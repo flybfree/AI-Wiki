@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Open Ant, a physical robot platform that bridges the gap between reinforcement‑learning simulations and real‑world experiments. It enables algorithms such as SARSA(λ) and Soft Actor‑Critic (SAC) to learn competent walking policies from scratch within roughly one hour using only raw sensor data. The authors also demonstrate that policies trained in simulation can transfer to reality with minimal performance loss, and they highlight the platform’s rapid onboarding and easy hardware maintenance for diverse users. Open Ant is released as open‑source hardware and software to accelerate empirical RL research.
 
+## Semantic links
+- [[concepts/papers/2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World__summary.md|Summary: 2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World_Grounde.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World__20260804_0045_summary.md|Summary: 2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World_Grounde.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-08-03_16-12-29Z_FoundationsofReinforcementLearningandContro_summary.md|Summary: 2026-08-03_16-12-29Z_FoundationsofReinforcementLearningandControl_Conne.md]] — 3 title terms overlap; 15 summary/topic terms overlap; semantic match 0.16
+
 ## Key Contributions  
 - Finding 1: Competent walking policies can be learned from scratch on the physical robot in about one hour using SARSA(λ).  
 - Finding 2: Policies learned in simulation transfer successfully to the physical robot, showing cross‑domain generalization.  

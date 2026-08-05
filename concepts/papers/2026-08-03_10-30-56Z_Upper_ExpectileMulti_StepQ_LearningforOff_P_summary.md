@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Expectile $n$-step Q‑learning (ENQ), an off‑policy reinforcement‑learning algorithm that mitigates the pessimistic bias of traditional multi‑step returns by replacing symmetric temporal‑difference loss with an asymmetric expectile loss. By adding a single hyperparameter $τ$, ENQ provides tighter error bounds and vanishes its bias under deterministic dynamics, while retaining horizon‑independent noise guarantees in stochastic settings. The authors demonstrate that ENQ is competitive with Long‑Horizon Q‑learning (LQL) on 27 manipulation and navigation tasks, achieves higher training‑step throughput, and scales better when using a ten‑critic ensemble.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1: ENQ defines an expectile $n$‑step TD operator that is a $γ^{n}$‑contraction, guaranteeing convergence to the optimal value function on in‑support pairs.]  
 - [Finding 2: Under deterministic dynamics the bias of ENQ disappears at $τ=1$, matching LQL’s separation‑$n$ bound; under stochastic dynamics it admits horizon‑independent two‑sided noise constants.]  

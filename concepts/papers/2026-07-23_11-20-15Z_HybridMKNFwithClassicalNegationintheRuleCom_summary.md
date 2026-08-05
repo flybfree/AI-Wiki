@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses a limitation of hybrid MKNF knowledge bases under well‑founded semantics by introducing classical negation support in the rule component, enabling explicit negative knowledge representation for safety‑critical reasoning. It defines syntax and semantics of an extended language that combines description logics with logic programming while preserving well‑foundedness. The authors present a general procedure to compute the well‑founded model of this hybrid system. This extension allows precise negative assertions beyond mere absence of rules.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Formal definition of the syntax and semantics for hybrid MKNF with classical negation in the rule component.  
 - A general algorithmic procedure that computes the well‑founded model of such a knowledge base, handling both positive and negated rules uniformly.  

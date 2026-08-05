@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a Hybrid Lagrangian‑Eulerian neural simulator to overcome the spatial bottleneck and rapid temporal drift inherent in pure Lagrangian fluid simulation. It augments Lagrangian dynamics with an Eulerian representation, using adaptive downsampling to eliminate kinematic redundancy while preserving micro‑scale details, and it introduces a cross‑attention mechanism that queries fixed‑grid features as a global anchor to correct trajectory deviations at every timestep. The hierarchical, cross‑attended design substantially suppresses error accumulation and establishes a new state‑of‑the‑art for accuracy and rollout stability.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Adaptive downsampling removes kinematic redundancy, preserving micro‑scale details while aggregating compressed features onto Eulerian nodes.  
 - Cross‑attention mechanism corrects trajectory drift by querying fixed grid features at each timestep, using the global grid as a stable spatial anchor.  

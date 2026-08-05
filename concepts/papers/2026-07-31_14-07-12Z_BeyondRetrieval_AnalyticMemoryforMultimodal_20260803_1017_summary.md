@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper introduces a novel paradigm for long-term memory in multimodal agents, moving beyond traditional retrieval-based systems to incorporate **analytic memory**. The authors argue that current systems primarily focus on retrieving relevant historical records but fail to support complex computations over accumulated observations, such as filtering, aggregation, and temporal comparison. To address this limitation, they propose **AdaMM**, a framework that jointly supports both retrieval and analytic memory capabilities. By extracting provenance-linked attribute-value observations from diverse inputs like dialogue and images, AdaMM organizes these into queryable structures that enable sophisticated analytical operations, significantly enhancing the agent's ability to reason over long-term interactions.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions
 - **Definition of Analytic Memory**: The authors formally define "analytic memory" as a complementary abstraction to retrieval memory, enabling agents to perform computational operations (filtering, aggregation, ranking) on recurring multimodal observations rather than just retrieving static records.
 - **Schema-Free Extraction Framework**: AdaMM introduces a method for automatically discovering recurring field structures and materializing them into analytical access points without relying on rigid, application-defined schemas, allowing for flexible handling of heterogeneous data sources.

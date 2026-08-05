@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proves that deep generative models equipped with piecewise‑affine (PWA) decoders and a Gaussian mixture model (GMM) prior can be identified without any supervision. It does so by introducing three algebraic symmetry‑breaking principles—domain contrast, mechanism contrast, and interaction contrast—that replace the usual continuity assumptions of ICA. The authors establish a hierarchy of identifiability ranging from law identifiability to pointwise identifiability, demonstrating that the ambiguity inherent in ICA can be eliminated under specific conditions on component covariances.
 
+## Semantic links
+- [[concepts/papers/2026-07-25_13-21-56Z_Domain_Prior_RegularizedGraphModelingforAno_summary.md|Summary: 2026-07-25_13-21-56Z_Domain_Prior_RegularizedGraphModelingforAnomalyDet.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-26_05-58-23Z_SparseGaussian_Mixture_ModelQ_FunctionsviaH_summary.md|Summary: 2026-07-26_05-58-23Z_SparseGaussian_Mixture_ModelQ_FunctionsviaHadamard.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.10
+
 ## Key Contributions  
 - [Finding 1] A complete hierarchy of identifiability levels: law identifiability (LID) up to a global affine map, map identifiability (MID) up to the same map, posterior identifiability, and pointwise identifiability.  
 - [Finding 2] Algebraic symmetry breaking as the engine for nonlinear identifiability; continuity is replaced by algebraic conditions that guarantee unique mapping between observations and latent components.  

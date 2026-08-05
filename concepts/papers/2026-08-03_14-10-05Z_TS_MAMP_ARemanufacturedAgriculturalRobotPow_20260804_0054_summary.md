@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces TS‑MAMP, a remanufactured agricultural robot that repurposes retired low‑speed electric‑vehicle (LSEV) powertrains and chassis to deliver affordable on‑device weed detection for smallholder farms. By integrating second‑life battery modules and a lightweight YOLOv10n detector running on a Jetson Nano, the authors demonstrate that circular‑economy principles can reduce BOM costs by ~60 % while maintaining high classification performance. The robot’s modular design enables rapid 5‑minute module changeovers and supports adjustable track widths for diverse field conditions. Overall, TS‑MAMP offers a cost‑effective pathway to AI‑enabled weeding that commercial automation cannot reach.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Reusing screened 48 V BLDC hub motors and lead‑acid battery modules cuts the powertrain‑and‑chassis bill of materials to under USD 450, a reduction of roughly 60 % compared with new components.  
 - Finding 2: An NMS‑free YOLOv10n model achieves 80.87 % mean average precision (mAP)@0.5 on the Wanxi Crop‑Weed dataset, confirming that lightweight inference can meet real‑world detection needs without non‑maximum suppression.  

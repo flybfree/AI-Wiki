@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 CoWAM proposes a selective intervention layer for World Action Models (WAMs) that augments bimanual robot policies with coordination‑focused policy upgrades. The framework treats synchronization, role compatibility, and collision avoidance as formal “coordination contracts” that evaluate alternative actions against typed admissibility checks and event‑conditioned verification. By preserving the nominal action unless a clearly low‑risk improvement satisfies all active obligations, CoWAM introduces an abstention fallback to avoid harmful moves. The proposed method has been evaluated across eight simulated bimanual tasks.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CoWAM defines coordination contracts that combine typed admissibility checks with event‑conditioned verification and calibrated intervention gates to select alternative actions that satisfy all active obligations.  
 - [Finding 2] The framework retains the nominal action unless an alternative fulfills every obligation and offers a clear, low‑risk improvement; otherwise it defaults to abstention.  

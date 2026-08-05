@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Graph self‑supervised learning seeks to extract transferable representations from massive unlabeled graphs, and Joint‑Embedding Predictive Architectures (JEPAs) achieve this by predicting masked targets directly in latent space without constructing explicit negative pairs. Existing graph JEPAs are limited because they rely on a single fixed partition, which biases the learned features toward one structural scale and prevents the model from exploiting complementary patterns at different resolutions. Our contribution is HP‑JEPA, a hierarchical partitioning framework that creates an ordered bank of coarse‑to‑fine partitions for each graph. By processing each resolution with its own online encoder, exponential‑moving‑average target encoder, and latent predictor, HP‑JEPA integrates multi‑resolution representations to improve downstream performance.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces hierarchical partitioning that generates multiple resolution‑specific graph embeddings.  
 - [Finding 2] Uses an online encoder with an exponential‑moving‑average target encoder and a latent predictor for each partition, enabling context‑target prediction at every scale.  

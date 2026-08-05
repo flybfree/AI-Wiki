@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the issue that directly fine‑tuning large language models on external SFT data can degrade reasoning generalization when the source distribution differs from the model’s own. It proposes Data Adaptation for Reasoning Tuning (DART), a framework that uses reinforcement learning to transform the fixed SFT dataset into a model‑adapted representation. DART optimizes demonstration transformations to align with the target model’s training preferences, enabling better exploitation of supervision. Experiments show improved generalization and higher efficiency compared to standard or direct RL fine‑tuning.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_Head_summary.md|Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentr_summary.md|Summary: 2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+
 ## Key Contributions  
 - DART introduces a reinforcement‑learning mapper that converts SFT data into an adapted dataset tailored to the target model.  
 - The approach improves reasoning generalization by aligning source data distribution with the model’s learning dynamics.  

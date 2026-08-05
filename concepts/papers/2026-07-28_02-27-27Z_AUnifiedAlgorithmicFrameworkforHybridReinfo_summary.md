@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses a hybrid reinforcement learning problem in tabular MDPs where an agent combines online interactions with a target environment and offline data from a source environment whose transition dynamics have shifted over time. Naïve integration of such outdated data leads to poor performance due to bias, so the authors propose a unified algorithmic framework that mitigates this bias using fine‑grained information. The framework introduces two algorithms—MIN‑UCB‑VI for regret minimization and MAX‑LCB‑VI for best policy identification—that jointly exploit both online and shifted offline data. Theoretical guarantees are provided, including upper bounds on regret and sub‑optimality gap, matched by lower bounds to prove optimality.  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 14 summary/topic terms overlap
+
 ## Key Contributions  
 - Fine‑grained bias information is incorporated into MIN‑UCB‑VI and MAX‑LCB‑VI algorithms to effectively use offline data under general transition shifts.  
 Theoretical analysis establishes both instance‑dependent and independent upper bounds on regret and sub‑optimality gap, with matching lower bounds demonstrating optimality.  

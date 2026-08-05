@@ -16,6 +16,11 @@ Model: None
 ## Summary
 Multimodal Large Language Models (MLLMs) frequently exhibit a significant performance gap when tasked with fine-grained visual understanding, often failing to identify small but critical details within complex scenes. The authors identify a "regional-to-global perception gap," observing that models perform significantly better when provided with cropped, evidence-centered images compared to full-resolution inputs. To address this, the paper introduces Vision-OPD, a novel self-distillation framework that transfers the model's own superior regional perception to its global viewing policy. This approach allows the model to internalize the benefits of visual zooming without relying on external teachers, ground-truth labels, or complex inference-time tools.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - **Identification of the Regional-to-Global Perception Gap**: The study empirically demonstrates that MLLM failures in fine-grained tasks are primarily due to an inability to focus on relevant evidence in full images, rather than a lack of local recognition capability. The same model answers accurately when conditioned on crops but fails on full images, highlighting a focus deficit.
 - **Development of Vision-OPD Framework**: The authors propose a unique on-policy self-distillation method that uses the model itself as both teacher and student. By comparing token-level distributions between a crop-conditioned teacher and a full-image student, the framework teaches the model to attend to fine details autonomously.

@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The paper investigates the apparent paradox that contrastive embedding models, which are trained with scale‑invariant losses and typically ignore magnitude by using cosine similarity, still generate embedding norms that correlate with semantic properties such as concept specificity, token frequency, and human uncertainty. By analyzing the optimization dynamics of these models, the authors derive an analytic formula showing that the length of embeddings naturally encodes this information as a side effect of training. This insight reveals that the discarded norm can serve as a “free” calibration signal for specific retrieval tasks.
 
+## Semantic links
+- [[concepts/training-optimization/training-optimization-hub.md|Training and Optimization Hub]] — 3 title terms overlap; 505 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-27_15-02-40Z_LLMasForecastingPlanner_Training_FreeTextCo_summary.md|Summary: 2026-07-27_15-02-40Z_LLMasForecastingPlanner_Training_FreeTextCondition.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation_summary.md|Summary: 2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation.md]] — 3 title terms overlap; 1 backlink; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - Derivation of an analytic relationship between embedding length and semantic specificity through optimization dynamics.  
 - Demonstration that these norms act as “free” calibration tools in certain models and retrieval scenarios.  

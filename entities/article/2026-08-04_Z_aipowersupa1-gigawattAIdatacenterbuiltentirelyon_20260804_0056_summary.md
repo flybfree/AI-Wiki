@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Z.ai, the Chinese AI developer formerly known as Zhipu, has completed a 1‑gigawatt data center that is powered entirely by domestically manufactured chips—most likely Huawei’s Ascend accelerators—and now runs multiple clusters of over 10 000 chips each. The facility will train its GLM model family and represents one of the largest AI compute sites ever built in China, despite delivering less training performance per watt than comparable Nvidia‑based facilities.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/training-optimization/training-optimization-hub.md|Training and Optimization Hub]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - [Z.ai’s data center uses only Chinese‑made silicon (Huawei Ascend), with zero Nvidia hardware involved.  
 - [China’s domestic AI chip supply chain is strained: SMIC’s 7nm‑class N+2 node runs above 93 % utilization and HBM shortages limit further accelerator production.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes DECO, a sparse Mixture‑of‑Experts (MoE) architecture that delivers dense‑Transformer performance while using only 20 % of the experts and keeping total parameters constant. By introducing learnable expert‑wise scaling, ReLU‑based routing, and a new NormSiLU activation, DECO balances routed and shared contributions to achieve high accuracy with minimal storage overhead. The design also includes an optimized acceleration kernel that yields a three‑fold speedup on real hardware compared with dense inference. This work bridges the gap between theoretical MoE scalability and practical end‑side deployment constraints.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: DECO matches dense Transformer performance under identical total parameter budgets, proving that sparsity does not sacrifice accuracy.  
 - Finding 2: The learnable expert‑wise scaling combined with ReLU routing stabilizes activation ratios and enables a higher intrinsic sparsity level than standard gated MoE methods.  

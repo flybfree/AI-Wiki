@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 GUI grounding is essential for enabling agents to perform actions such as clicking or dragging, yet existing models often fail in complex benchmarks like ScreenSpot‑Pro due to two distinct sources of error: high image resolution that introduces precision bias and intricate interface elements that cause ambiguity bias. To solve this problem without retraining the model, the authors introduce BAMI (Bias‑Aware Manipulation Inference), which leverages a Masked Prediction Distribution attribution method together with two targeted manipulations—coarse‑to‑fine focus and candidate selection—to correct these biases in a training‑free setting.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Identified high image resolution as the primary source of precision bias that degrades grounding accuracy.  
 - Recognized intricate interface elements as the main contributor to ambiguity bias, leading to mis‑predictions.  

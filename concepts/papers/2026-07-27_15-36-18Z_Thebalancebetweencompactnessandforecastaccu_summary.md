@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how the choice of spatial encoder influences the latent‑space dynamics of reduced‑order models (ROMs) used for real‑time active flow control in controlled wake flows. It compares Proper Orthogonal Decomposition (POD) with nonlinear Convolutional Autoencoders (CAEs) and variational autoencoders, applying Long Short‑Term Memory (LSTM) networks as temporal predictors to reconstruct velocity snapshots. The study focuses on two 2‑D actuator configurations—a simplified truck wake and the fluidic pinball—to quantify the trade‑off between compression efficiency and forecast accuracy. By showing that higher compression can come at the cost of rapid long‑horizon degradation, the work provides a clear design guideline for actuation‑aware ROMs.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CAEs achieve higher spatial compression ratios than POD but generate broadband, irregular latent trajectories with pronounced spectral content.  
 - [Finding 2] Long‑term forecast accuracy deteriorates sharply for CAE‑based ROMs (error growth >70 % after ~10 steps), whereas POD retains low error (<15 %) over the same horizon.  

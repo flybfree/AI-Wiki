@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Hierarchical BM25 to perform exact lexical search over a billion documents while keeping the resident footprint and query latency bounded. By replacing a flat index that would require 400 GB of DRAM with a coarse top‑down index, the authors achieve sub‑second response times and far higher throughput than conventional multi‑threaded implementations. The approach trades exact ranking for fixed resource usage, delivering a practical solution for interactive search at massive scale.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Hierarchical BM25 reduces the index size from ~400 GB to ~4.4 GB, enabling full resident operation on standard hardware.  
 - [Finding 2] The coarse index selects up to a few thousand document groups per query using term‑frequency totals and co‑occurrence signals, preserving exact top‑k scores.  

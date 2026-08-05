@@ -32,6 +32,11 @@ The architecture is deliberately modular: each module (evidence ingestion, CoE s
 
 ---
 
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson5_KnowledgeMemory.md|Lesson 5 — Knowledge & Memory: The Outer Loop]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson4_AgentFrameworks.md|Lesson 4 — Agent Frameworks: The Loop Engine]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+
 ## Key Takeaways  
 
 - **Chain‑of‑Evidence (CoE)** guarantees that every inference is traceable, eliminating hidden assumptions and bias.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces Velocityformer, a novel equivariant graph transformer architecture specifically designed to address the challenges of cosmological velocity reconstruction from spectroscopic galaxy surveys. The primary goal is to enhance the precision of kinematic Sunyaev-Zel'dovich (kSZ) effect measurements, which are critical for probing the large-scale distribution of baryonic matter and improving cosmological inference. By aligning the model's inductive biases with the broken symmetries inherent in observational data, Velocityformer significantly outperforms existing linear theory baselines and standard machine learning approaches. The proposed method demonstrates exceptional data efficiency and robust generalization capabilities, offering a substantial improvement in the correlation coefficient between reconstructed and true velocities.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithG_summary.md|Summary: 2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagati_summary.md|Summary: 2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions
 - The development of Velocityformer, an equivariant graph transformer that explicitly accounts for the broken rotational symmetry caused by the preferred line-of-sight direction in observational cosmology, ensuring the model's inductive bias matches the physical reality of the data.
 - Demonstration of superior performance across all model sizes and training volumes, achieving a 35% improvement in the correlation coefficient ($r$) over the standard linear theory baseline and a 30% gain over physical baselines on high-fidelity simulations.

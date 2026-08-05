@@ -19,6 +19,11 @@ tags: [agent-frameworks, orchestration, tool-use, multi-agent, autonomous-agents
 **Source**: [Original Article](https://github.com/Significant-Gravitas/Auto-GPT)
 This entry documents the major autonomous agent frameworks and architectures available for building LLM-powered agents.
 
+## Semantic links
+- [[concepts/architecture/2026-05-09_AgentArchitectureEvolution.md|2026 05 09 Agentarchitectureevolution]] — 1 title term overlap; shared tags: ai, concept, ml; 2 backlinks
+- [[concepts/papers/2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNe_summary.md|Summary: 2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] — 2 title terms overlap; shared tags: ai; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 2 title terms overlap; shared tags: ai; 6 summary/topic terms overlap
+
 ## Major Frameworks
 
 ### 1. AutoGPT (2023)

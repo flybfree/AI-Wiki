@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper proposes an LLM‑guided evolutionary search to automatically reformulate declarative constraint models in a way that maximizes solver speed without sacrificing correctness. By iteratively generating candidate reformulations from natural‑language prompts, the authors employ a retention strategy (Profile‑Diverse Retention) that selects diverse historical attempts and then validates the best model on held‑out data before deployment. The work demonstrates that such automated reformulation can yield sizable speedups over baseline models while mitigating the performance sensitivity typical of constraint programming solvers.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Iterative LLM‑driven reformulation produces substantial held‑out solver speedups on eight CSPLib problems.  
 - [Finding 2] Retaining a diverse set of past attempts (via Profile‑Diverse Retention) outperforms strategies that retain only recent or fastest attempts.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of stochastic minimum-cost reach-avoid reinforcement learning, a domain where agents must navigate complex environments while simultaneously satisfying probabilistic safety constraints and minimizing cumulative costs. The authors identify a significant gap in existing safe reinforcement learning methodologies, which often fail to jointly enforce probabilistic reach-avoid specifications with cost optimization in stochastic settings. To bridge this gap, the study introduces a novel framework centered on reach-avoid probability certificates (RAPCs) that rigorously identify states from which such constraints remain satisfiable. By leveraging these certificates, the authors develop a contraction-based Bellman formulation that serves as a principled surrogate for integrating safety considerations directly into the learning process, ultimately enabling robust cost optimization under strict probabilistic constraints.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifo_summary.md|Summary: 2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesoc_summary.md|Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of reach-avoid probability certificates (RAPCs), a novel theoretical construct that precisely identifies the set of states from which stochastic reach-avoid constraints can be satisfied with a specified probability threshold.
 - The development of a contraction-based Bellman formulation that acts as a principled surrogate objective, effectively integrating reach-avoid considerations into standard reinforcement learning algorithms without compromising cost optimization capabilities.

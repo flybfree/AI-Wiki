@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces EEGForceFusion, a hybrid decoding framework that jointly learns continuous and tokenised representations to decode grasp forces from electroencephalography in a subject‑independent manner. By combining convolutional‑recurrent processing for the continuous signal with quantisation‑based tokenisation and transformer‑driven temporal modelling, the authors create a unified fusion architecture capable of capturing both fine‑grained neural dynamics and long‑range dependencies. The approach is evaluated on the WAY‑EEG‑GAL dataset under strict leave‑one‑subject‑out conditions, demonstrating strong performance in offline and simulated real‑time settings. This work advances the state of the art by providing a practical, low‑latency solution for assistive robotics and neuro‑rehabilitation.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - **Hybrid tokenised‑continuous representation learning**: The authors propose a unified model that simultaneously learns continuous neural signals and discrete tokens derived from quantisation.  
 - **Integrated conv‑recurrent + transformer architecture**: A convolutional recurrent network handles the continuous component, while a transformer processes token sequences to capture long‑range temporal patterns; both are fused in a regression layer.  

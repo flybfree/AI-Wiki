@@ -16,6 +16,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](http://localhost:6006)
+
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|AI/ML Foundations Lesson 15 - Evaluation, Overfitting, and Limits]] — 2 title terms overlap, shared tags: evaluation, 7 topic terms overlap
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson5_KnowledgeMemory.md|Lesson 5 — Knowledge & Memory: The Outer Loop]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson4_AgentFrameworks.md|Lesson 4 — Agent Frameworks: The Loop Engine]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+
 ## Core Idea
 
 **"Does it compile?" ≠ "Does it work?"** Verification is the gap between syntax and semantics. Your judge node needs to check that the agent's output actually works in a running system and fails gracefully — not just that it passes basic checks.

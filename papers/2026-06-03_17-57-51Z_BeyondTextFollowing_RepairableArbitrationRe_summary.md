@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Audio‑language models (ALMs) frequently ignore clear audio evidence when it conflicts with textual input, raising the question of whether the audio signal is merely unavailable or is encoded but lost during arbitration. The authors investigate this by using same‑audio counterfactuals that keep the audio fixed while removing only the conflicting text, and they propose a training‑free decoding rule—Gated Audio Counterfactual Logit Correction (GACL)—to recover the suppressed audio influence within a strict faithfulness budget.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] In five ALMs across four conflict tasks, 64.1 % of samples show a sign flip: the same‑audio branch prefers the audio‑supported answer while the joint branch still favors the text‑supported one.  
 - [Finding 2] Activation patching isolates the reversal to answer‑position computation and correlates it closely with output candidate‑score differences (Spearman ρ = 0.93).  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how the coordination layer that merges predictions from a fast‑path and a slow‑path inference pipeline can be exploited by shaped workload attacks, causing “denial of deadline” where benign users’ slow‑path predictions are delayed beyond their latency deadlines. This forces the merger to discard those predictions, resulting in accuracy collapse without requiring access to model weights or victim data. The authors demonstrate this attack on a two‑tier edge‑cloud multi‑object tracking system used for autonomous driving. Their experiments show that burst‑shaped requests can push p99 latency from 92 ms to about 2 seconds, eliminating the cloud inference benefit.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Shaped workload attacks (e.g., Yo‑Yo bursts) can cause slow‑path predictions to miss their latency deadlines without any access to model weights or victim data.  
 - [Finding 2] The merger discards delayed slow‑path predictions, leading to a measurable loss of tracking quality expressed in HOTA points.  

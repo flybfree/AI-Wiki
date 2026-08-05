@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper introduces InA‑Probe, an instruction‑aware active probing framework for time series forecasting using large language models (LLMs). It moves beyond passive alignment by creating adaptive, sample‑specific probes that are guided by both global task objectives and fine‑grained temporal priors. The method combines multi‑level instruction injection with a dual‑stage attention mechanism to extract salient patterns in dynamic data. Experiments on seven benchmarks demonstrate superior generalization and up to 37 % error reduction over state‑of‑the‑art baselines.  
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmark_summary.md|Summary: 2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetan_summary.md|Summary: 2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] InA‑Probe introduces an instruction‑aware active probing paradigm that generates sample‑specific probes using multi‑level instruction injection.  
 - [Finding 2] The dual‑stage attention mechanism (Instruction‑Aware Self‑Attention + Temporal Cross‑Attention) enables precise extraction of temporal patterns and task intents.  

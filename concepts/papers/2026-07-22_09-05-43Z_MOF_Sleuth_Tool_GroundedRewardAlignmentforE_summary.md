@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes MOF‑Sleuth, a reinforcement‑guided CIF auditing agent that links chemical evidence to LLM explanations for fine‑grained error detection in metal‑organic frameworks. It introduces a deterministic Forensic Lab and a Sleuth reasoning engine, and uses reward‑based RL to align tool measurements with evidence‑grounded diagnoses. The approach improves both detection accuracy and the quality of explainable attributions across benchmarks.  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-30_15-35-43Z_HyperClaim_Fine_GrainedCross_ModalHypergrap_summary.md|Summary: 2026-07-30_15-35-43Z_HyperClaim_Fine_GrainedCross_ModalHypergraphReason.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.11
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson4_AgentFrameworks.md|Lesson 4 — Agent Frameworks: The Loop Engine]] — 4 title terms overlap; 1 backlink; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] MOF‑Sleuth achieves state‑of‑the‑art performance on four MOF CIF audit benchmarks, surpassing existing LLM and machine‑learning methods.  
 - [Finding 2] The Chemically Grounded Diagnosis (Chem‑GD) metric reliably measures whether a correct diagnosis is supported by factual CIF evidence.  

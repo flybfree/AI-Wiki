@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces Phasor Memory Networks (PMNet), a novel architecture designed to resolve the long-standing issue of catastrophic gradient instability in explicit memory models during Backpropagation Through Time (BPTT). By constraining recurrent state updates to unitary phasor dynamics on a complex unit circle, PMNet preserves gradient norms and prevents divergence without relying on specialized initialization techniques. The authors demonstrate that this structural alignment allows for stable, scalable memory access, effectively overcoming the practical intractability that has hindered architectures like the Neural Turing Machine for over a decade.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenera_summary.md|Summary: 2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The proposal of Unitary Phasor Dynamics, a mechanism that ensures gradient stability by treating memory updates as phase rotations, thereby eliminating the need for complex initialization strategies.
 - The development of a Hierarchical Learnable Anchor system within an 85-slot memory tree, enabling precise long-range retrieval that exceeds the receptive field of local sliding window attention.

@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper introduces ALIVE (Action-Layered Intervention via Evidence), a novel auditable control layer designed to address the challenges of budgeted multi-source learning within finite-population auditing constraints. The primary goal is to balance the persistence of source exclusions against the need for dynamic routing revisions, ensuring that decisions are authorized by robust statistical evidence rather than arbitrary thresholds. By implementing a randomized without-replacement prefix and heuristic warnings, ALIVE provides a mechanism to manage capacity-feasible activation while maintaining strict majoritarian disagreement predicates. The study demonstrates that this approach effectively maps the boundary between restraint, power, cost, and utility in resource-constrained learning environments.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions
 - **Auditable Control Layer**: The authors propose ALIVE, a system that allows for randomized prefix evidence caching and heuristic warnings, enabling non-latching floor-bounded routing that can only latch exclusions under specific capacity-feasible conditions.
 - **Theoretical Bounds**: The work establishes an anytime familywise bound of δ for any predictable controller preserving the interface, specifically regarding actions against sources that fail strict-majority-disagreement predicates under ideal uniform audit permutations.

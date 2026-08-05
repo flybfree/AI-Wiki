@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **teLLMe**, an exploratory causal analysis system for urban driving data derived from dashcam annotations, enabling users to ask natural‑language questions about how treatments (e.g., rain) affect outcomes such as traffic density while accounting for subpopulations and uncertainty. It combines causal structure learning, the PC algorithm, bootstrap stability checks, linear regression, DoWhy effect estimation, and a schema‑aware LLM that maps queries into structured causal models, producing Causal Cards that summarize effect estimates, adjustment sets, DAG support, and assumptions.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - **teLLMe provides a unified pipeline from raw dashcam video events to interpretable causal answers for urban traffic.**  
 - The system explicitly surfaces plausible relationships (e.g., weather, peak hours) while quantifying uncertainty through bootstrap stability checks.  

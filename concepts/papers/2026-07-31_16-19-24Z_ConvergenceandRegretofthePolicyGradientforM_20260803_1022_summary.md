@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper investigates the convergence properties and regret bounds of policy gradient algorithms applied to multi-armed bandit problems within a continuous-time diffusion environment. By leveraging stochastic differential equations (SDEs) under the continuous-time reinforcement learning framework, the authors analyze the behavior of the policy gradient update rule using logit parameterization for stochastic policies. The study establishes that the algorithm converges almost surely to the optimal arm when utilizing an arbitrary constant learning rate, addressing a critical gap in understanding long-term stability in such dynamic systems. Furthermore, the work provides rigorous non-asymptotic regret upper bounds, demonstrating logarithmic growth relative to time under specific learning rate constraints.
 
+## Semantic links
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 6 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The authors prove that the policy gradient update for multi-armed bandits in a diffusion environment converges almost surely to the optimal arm, regardless of the specific constant learning rate chosen, which is a significant theoretical advancement over previous discrete-time analyses.
 - They derive a non-asymptotic regret upper bound of order $O(\log T)$ for constant learning rates below a time-invariant threshold, thereby quantifying the efficiency of the algorithm in minimizing cumulative loss over time.

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates how incorporating think‑aloud language traces can improve the discovery of automated cognitive models beyond what is possible using behavioral data alone. By treating these verbal reflections as additional constraints, the authors demonstrate that model fitting improves and that the structural form of the recovered models changes systematically. The work shows that process‑level linguistic information not only yields better predictive performance but also reshapes the underlying cognitive architecture that large language models infer. This dual benefit—enhanced fit and novel mechanistic insight—highlights a gap in current automated discovery pipelines.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAll_summary.md|Summary: 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommo_summary.md|Summary: 2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Adding think‑aloud traces as constraints significantly improves predictive performance on held‑out risky decision‑making data compared with models built only from behavioral trajectories.  
 - [Finding 2] For the majority of participants (69.4 %), the cognitive models recovered include a shift from an “Explicit comparator” structure to an “Integrated utility” structure, indicating a systematic re‑orientation of model architecture.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 UEmbed proposes a decoder‑only multimodal embedding model that simultaneously generates both sparse lexical weights and dense vector representations in a single causal forward pass, thereby unifying the two paradigms of retrieval and representation learning. The approach extends Learned Sparse Retrieval (LSR) to multimodal inputs without requiring auxiliary cross‑modal modules. By appending N learnable special tokens that partition the vocabulary into disjoint subsets, each token predicts sparse weights over its assigned subset, producing a full sparse vector while dense embeddings are derived from standard token embeddings. The model is released at 2 B, 4 B and 9 B parameter scales.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] UEmbed unifies dense and sparse embeddings within one decoder‑only architecture, eliminating the need for separate retrieval or embedding components.  
 - [Finding 2] The model extends LSR to multimodal settings by predicting sparse weights directly from causal hidden states of special tokens, avoiding auxiliary cross‑modal modules.  

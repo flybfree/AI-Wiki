@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether large language models can competently answer everyday trivia questions across multiple languages, a domain that differs from the academic‑focused benchmarks traditionally used to test LLMs. By creating TriviaRoomQA, a multilingual benchmark of 288 culturally grounded topics with parallel multiple‑choice questions in six European languages (plus French‑only items), the authors aim to expose hidden knowledge gaps in everyday culture. Their experiments reveal that while models excel on dense factual domains such as history and mathematics, they falter on popular‑culture topics like celebrities and movies. This work demonstrates a significant gap between academic‑type knowledge and the broader, multilingual everyday knowledge that LLMs must navigate.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Models are strong on knowledge‑intensive subjects (history, geography, mathematics) but substantially weaker on everyday popular‑culture topics such as celebrities, music, movies, and news.  
 - Finding 2: Model performance varies across languages even when the underlying questions are identical, indicating that factual access is not fully language‑independent.  

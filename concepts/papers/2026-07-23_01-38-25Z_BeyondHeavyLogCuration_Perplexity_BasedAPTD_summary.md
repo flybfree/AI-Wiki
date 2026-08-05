@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Advanced Persistent Threats (APTs) generate a tiny signal of malicious activity amid massive volumes of log data, making detection both challenging and costly. The authors introduce CAPTAIN—a perplexity‑based detector that scores long, minimally processed log entries without heavy curation or domain‑specific preprocessing. By encoding recent log history with an encoder model and injecting context tokens via a Q‑Former bridge, the system captures temporal dependencies through perplexity. Smoothing filters further stabilize the time‑series score, enabling robust APT detection across diverse benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-07-22_08-44-25Z_Long_TermSequentialDecisionMakingunderRisk_summary.md|Summary: 2026-07-22_08-44-25Z_Long_TermSequentialDecisionMakingunderRisk.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.08
+- [[concepts/data-curation/data-curation-hub.md|Data Curation Hub]] — 2 title terms overlap; 39 backlinks; 3 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CAPTAIN achieves state‑of‑the‑art performance on multiple APT‑oriented log datasets while requiring only a single pre‑trained language model and minimal preprocessing.  
 - [Finding 2] The encoder‑decoder architecture with a Q‑Former bridge injects recent context into the decoder input, allowing perplexity to reflect temporal relationships rather than isolated events.  

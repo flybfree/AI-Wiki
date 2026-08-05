@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper MUL‑T proposes a lightweight transformer architecture that decodes the spatial cellular architecture of multiplexed tissue images by treating each cell as a discrete token and predicting its context without task‑specific supervision. By learning contextualised [CLS] embeddings, the model captures higher‑order interactions among cells while remaining computationally efficient compared with full‑scale vision transformers. The authors evaluate MUL‑T on four clinically relevant downstream tasks—tumour pattern classification, patient‑level grading, PD‑L1 positivity prediction, and cross‑dataset treatment response forecasting—to demonstrate its robustness across heterogeneous marker panels. Overall, the framework achieves performance comparable to a foundation ViT with far fewer parameters and lower training cost.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] MUL‑T reframes tissue architecture as a masked contextual prediction task over discrete cell tokens, eliminating the need for handcrafted feature engineering.  
 - [Finding 2] The model learns task‑agnostic [CLS] embeddings that encode higher‑order cellular interactions, enabling generalisation across diverse marker panels and cohorts.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes BRiG‑AFA, a supervised active feature acquisition method that learns a candidate‑conditioned risk‑to‑go function for each remaining budget using Bellman targets, thereby avoiding the myopic bias of greedy rules. By fitting these functions backward from terminal classification risk and then greedily selecting the next measurement to minimize the learned risk, BRiG‑AFA achieves non‑myopic performance without requiring complex reinforcement‑learning or generative models. The authors demonstrate that this approach consistently improves test accuracy over one‑step baselines across a range of budgets on benchmark datasets.  
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A deployable, supervised risk‑to‑go learner that conditions on the candidate feature and remaining budget, eliminating the need for complex RL or density estimation.  
 - [Finding 2] The use of Bellman targets to fit candidate‑conditioned risk functions, enabling a greedy selection that minimizes observed terminal risk.  

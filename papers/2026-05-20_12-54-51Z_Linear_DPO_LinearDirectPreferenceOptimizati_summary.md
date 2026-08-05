@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of aligning generative models with human preferences, specifically highlighting the limitations of applying standard Direct Preference Optimization (DPO) techniques to text-to-image generation. The authors argue that existing methods are largely confined to denoising diffusion models and suffer from a fundamental objective mismatch when adapting discrete NLP-based DPO to continuous regression-based generative tasks. To resolve this, the study derives a generalized DPO objective within a unified reverse-time Stochastic Differential Equation (SDE) framework that encompasses both diffusion and flow-matching models. Consequently, the authors propose Linear-DPO, a novel alignment method that replaces the standard sigmoid-based utility function with a sustained linear utility and incorporates an Exponential Moving Average (EMA) updated reference model to improve stability and performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions
 - Theoretical Derivation: The authors successfully derive a generalized DPO objective that unifies both diffusion and flow-matching models through a reverse-time SDE framework, bridging a gap in current alignment literature.
 - Gradient Analysis: Through a rigorous gradient perspective analysis, the paper demonstrates that the standard DPO objective is suboptimal for text-to-image generation due to the aggressive nature of the sigmoid-based utility function, which causes instability in continuous domains.

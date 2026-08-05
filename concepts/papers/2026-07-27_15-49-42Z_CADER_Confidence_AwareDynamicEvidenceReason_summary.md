@@ -31,3 +31,8 @@ CADER matters because it introduces a principled, confidence‑driven strategy t
 - Relevance‑Guided Resampling  
 - Chain‑of‑thought supervision  
 - VideoQA benchmarks
+
+## Semantic links
+- [[concepts/papers/2026-08-02_13-58-42Z_RestoreKV_RecoveringFull_CacheBehaviorUnder_summary.md|Summary: 2026-08-02_13-58-42Z_RestoreKV_RecoveringFull_CacheBehaviorUnderAggress.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.23
+- [[concepts/papers/2026-07-30_18-20-42Z_TAGTorch_APyTorchLibraryforGeometry_Topolog_summary.md|Summary: 2026-07-30_18-20-42Z_TAGTorch_APyTorchLibraryforGeometry_Topology_andSy.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.21
+- [[concepts/papers/2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_Act_20260803_0538_summary.md|Summary: 2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_ActionRein.md]] — 2 title terms overlap; 4 backlinks; 6 summary/topic terms overlap

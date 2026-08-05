@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 OpenAI’s latest news roundup highlights several breakthroughs that illustrate the rapid evolution of large‑language models and their expanding applications. The company introduced GPT Live, a continuous voice‑interaction system; pushed the price‑performance frontier with GPT 5.6; achieved a three‑fold boost in ARC‑AGI‑3 benchmark scores by employing two settings; launched “Health in ChatGPT” for medical assistance; and rolled out tools that accelerate scientific discovery and computational work. Together, these updates signal OpenAI’s focus on multimodal, efficient AI agents that blend high intelligence with practical utility across health, research, and everyday productivity.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap, 5 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - **Continuous voice interaction** – GPT Live enables seamless, real‑time dialogue without manual input.  
 - **Price‑performance frontier** – GPT 5.6 delivers superior performance at lower cost, expanding accessibility.  

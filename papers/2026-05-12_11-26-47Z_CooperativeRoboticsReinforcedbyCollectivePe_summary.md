@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research paper addresses the persistent safety challenge of collisions at non-line-of-sight (NLOS) intersections, where limited visibility often leads to dangerous merging scenarios. The authors propose a novel cooperative robotics framework that integrates a humanoid robot as an active traffic moderator to physically intervene when digital warnings are insufficient. By combining collective perception from infrastructure cameras with Vehicle-to-Everything (V2X) data, the system creates a robust, real-time awareness of approaching traffic that extends beyond the range of individual connected vehicles. The primary contribution is the deployment and validation of this hybrid system, which uses the robot to issue physical stop gestures and block paths, thereby preventing accidents in real-world conditions where V2X penetration is low or drivers ignore in-vehicle alerts.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetwork_summary.md|Summary: 2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDist_summary.md|Summary: 2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions
 - The introduction of a complementary concept to standard V2X systems by deploying a cooperative humanoid robot capable of physically stopping vehicles, addressing the gap where digital warnings fail due to low equipment penetration or driver inattention.
 - The development of a dual-pathway perception architecture that fuses data from dual-camera infrastructure units and onboard V2X units, enabling the robot to act as both a sensor node and a relay for decentralized environmental notification messages.

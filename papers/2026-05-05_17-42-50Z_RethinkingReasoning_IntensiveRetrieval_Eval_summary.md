@@ -17,6 +17,11 @@ Model: None
 ## Summary
 The paper addresses the need for reasoning‑intensive retrieval in agentic search systems, focusing on evidence that supports downstream reasoning beyond simple topical similarity. It introduces BRIGHT‑Pro, an expert‑annotated benchmark that expands each query with multi‑aspect gold evidence and evaluates retrievers under both static and iterative protocols. The authors also create RTriever‑Synth, a synthetic corpus designed to generate complementary positives and positive‑conditioned hard negatives for training.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions
 - [Finding 1] The authors develop BRIGHT‑Pro, an expert‑annotated benchmark that expands each query with multi‑aspect gold evidence and evaluates retrievers under both static and agentic search protocols.  
 - [Finding 2] They construct RTriever‑Synth, a synthetic corpus that generates complementary positives and positive‑conditioned hard negatives to promote evidence portfolio construction.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 ScrambleToolBench is an interactive benchmark designed to test whether autonomous agents can discover and adapt to hidden tool behaviors in open-world environments without relying on static semantic cues or documentation. The paper demonstrates that despite initial success in finding tools through trial-and-error, agents fail to maintain robust reasoning when faced with dynamic environmental changes such as mapping drift. This reveals a critical gap: current models exhibit belief inertia rather than deductive recovery, resorting instead to costly exhaustive searches even when their own map points to the next step. The study underscores that persistent memory alone is insufficient for efficient adaptation in changing environments.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] ScrambleToolBench isolates behavioral reasoning by removing semantic cues and enforcing a continuous task curriculum, enabling agents to uncover hidden tool behaviors solely through interaction.  
 - [Finding 2] The benchmark introduces dynamic challenges—mapping drift, stochastic action failures, and temporal execution windows—to evaluate adaptive hypothesis revision rather than static performance.  

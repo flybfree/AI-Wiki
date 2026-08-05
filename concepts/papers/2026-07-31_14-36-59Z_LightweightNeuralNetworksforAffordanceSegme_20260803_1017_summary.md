@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper addresses the critical challenge of deploying deep neural networks for visual affordance segmentation on resource-constrained wearable robots. The authors identify a fundamental conflict between the need for high-level abstraction capabilities, which typically demand large model sizes, and the limited computing resources available on wearable devices that prevent real-time inference with such heavy models. To resolve this trade-off, the study presents a comprehensive analysis of the segmentation head's role in balancing generalization performance against computational cost. The primary contribution is the proposal of enhanced lightweight decoder modules that achieve superior performance compared to modern baselines while strictly adhering to low computing requirements.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+
 ## Key Contributions
 - **Optimized Decoder Architecture**: The authors introduce a novel enhancement to the decoder module of neural networks specifically designed for affordance segmentation, demonstrating that architectural refinements in the decoding phase can significantly reduce model size without sacrificing accuracy.
 - **Performance-Cost Trade-off Analysis**: The paper provides a detailed empirical analysis quantifying the relationship between computational complexity and generalization performance, offering insights into how specific design choices in lightweight models affect their ability to generalize across diverse real-world scenarios.

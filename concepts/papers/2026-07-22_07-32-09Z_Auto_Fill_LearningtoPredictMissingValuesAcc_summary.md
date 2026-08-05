@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Predicting missing cell values in tabular data is a core task for data cleaning, yet existing reasoning models such as o3‑pro, Gemini 3 Pro and DeepSeek R1 are costly to run at scale and often overconfident, producing hallucinated predictions. The Auto‑Fill paper argues that achieving high‑precision missing‑value prediction requires three distinct capabilities: world knowledge, text‑based reasoning, and code‑based reasoning. It proposes a system that trains three specialist small language models (SLMs) for each capability and combines them with a calibrated ensemble that can either select the most confident specialist or abstain when uncertain. This approach aims to deliver state‑of‑the‑art accuracy while using less than 1 % of the compute cost of frontier reasoning models.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] High‑precision missing‑value prediction in tables depends on a combination of three capabilities: world knowledge, text‑based reasoning, and code‑based reasoning.  
 - [Finding 2] A calibrated ensemble mechanism that dynamically selects the most confident specialist or abstains reduces hallucinations and improves overall accuracy.  

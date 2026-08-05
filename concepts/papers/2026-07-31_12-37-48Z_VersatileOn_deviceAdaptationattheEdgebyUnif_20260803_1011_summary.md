@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper addresses the critical limitation of current edge devices, which typically rely on fixed inference algorithms and lack the ability to personalize predictions in real-time without cloud dependency. The authors introduce Embedder-Centric Learning (ECL), a novel framework that unifies four distinct online learning paradigms: few-shot learning (FSL), continual learning (CL), zero-shot learning (ZSL), and in-context learning (ICL). By demonstrating silicon deployment on resource-constrained hardware, the work proves that versatile adaptation is possible at the micro-to-milliwatt power budget level. This approach eliminates the latency, energy overhead, and privacy risks associated with cloud-based retraining, enabling smart devices to adapt autonomously to user-specific contexts.
 
+## Semantic links
+- [[concepts/papers/2026-08-04_13-53-48Z_PhyAI_Real_TimePhysicalAIattheEdge_Scalable_summary.md|Summary: 2026-08-04_13-53-48Z_PhyAI_Real_TimePhysicalAIattheEdge_ScalableRollout.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
+- [[concepts/papers/2026-08-03_07-36-48Z_DeepVoyager_VL_IncentivizingVision_in_the_L_summary.md|Summary: 2026-08-03_07-36-48Z_DeepVoyager_VL_IncentivizingVision_in_the_LoopSear.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-31_17-40-27Z_GQ_FSL_GreenQuantizedFederatedSplitLearning_20260803_1029_summary.md|Summary: 2026-07-31_17-40-27Z_GQ_FSL_GreenQuantizedFederatedSplitLearning.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.15
+
 ## Key Contributions
 - The proposal of Embedder-Centric Learning (ECL), a unified framework that simultaneously supports FSL for customization, CL for knowledge accumulation, ZSL for semantic leveraging, and ICL for non-classification adaptation within a single architecture.
 - The first hardware baseline for Continual Learning in keyword spotting, achieving 71.8% accuracy on the NeuroBench keyword FSCIL benchmark, alongside state-of-the-art performance in few-shot character recognition on Omniglot.

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes Data2Story, a multi‑agent framework that orchestrates specialized roles to produce verifiable multimodal stories from raw data, bridging the gap between individual agent capabilities and end‑to‑end journalism. It introduces claims‑evidence grounding via an Inspector and multimodal generative article creation, aiming for transparent, auditable reporting.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 4 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - Claims are evidence‑grounded: an Inspector links every number, angle, and asset back to data, code, or an external reference.  
 - Articles are multimodally generative: the system reasons about reader preferences and deploys interactive maps, audio, etc., beyond static text and charts.  

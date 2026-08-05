@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates self‑supervised learning (SSL) and tabular representation learning (TRL) for binary program clustering, a task that aims to group all incoming malware samples without any labels. By adapting vision‑based SSL models such as BYOL and SimSiam to generate supervised pairs from tabular features, the authors set a performance ceiling and then introduce VIME‑R—a retrieval‑augmented extension of unsupervised TRL—that further boosts clustering homogeneity.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **BYOL and SimSiam achieve performance comparable to fully supervised models** on binary program clustering.  
 - **VIME establishes a new state‑of‑the‑art for binary program clustering using purely unsupervised TRL methods.**  

@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research addresses the critical gap in estimating density modes for multivariate distributions while strictly adhering to rigorous differential privacy constraints, a task previously underexplored in statistical literature. The authors introduce DP-GRAMS, a novel algorithm inspired by mean-shift methods that performs noisy gradient ascent on a differentially private score estimator to locate these modes. By leveraging higher-order kernels for bias reduction and employing gradient clipping with calibrated Gaussian noise, the method ensures privacy without significantly compromising the accuracy of mode recovery. Furthermore, the paper establishes theoretical guarantees for high-probability mode recovery and provides nearly optimal asymptotic error rates, demonstrating that privacy-preserving modal learning is both feasible and statistically efficient.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions
 - The development of DP-GRAMS, a differentially private algorithm that successfully recovers all population modes with high probability by combining bias-reducing higher-order kernels with a novel private initialization scheme based on density-aware utility and suppression rules.
 - The derivation of tight asymptotic error rates for private mode estimation, proving that the proposed estimators are nearly minimax optimal up to a logarithmic factor in the mean squared error, alongside the establishment of corresponding minimax lower bounds.

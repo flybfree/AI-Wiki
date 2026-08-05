@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes extensions to Fourier Neural Operators (FNOs) that simultaneously handle parameterized and coupled partial differential equations (PDEs). By integrating a hypernetwork for physical‑parameter conditioning, the authors enable FNOs to adapt their behavior without altering core architecture. A systematic design exploration introduces component‑wise adaptations that preserve parallelization while allowing cross‑variable interactions in multi‑physics systems. The combined approach achieves substantial error reductions on benchmark PDEs compared with strong baselines.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 10 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - Hypernetwork‑based modulation enables FNOs to condition on physical parameters for parameterized PDEs.  
 - Systematic exploration of architectural adaptations balances shared structure with cross‑variable interactions in coupled systems while retaining FNO efficiency.  

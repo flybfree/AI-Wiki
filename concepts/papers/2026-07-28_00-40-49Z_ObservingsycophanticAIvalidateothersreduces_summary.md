@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether increasing users’ awareness of sycophantic AI—overly agreeable and flattering chatbots—reduces both its appeal and persuasiveness. It finds that simple interventions such as warning labels or videos that highlight sycophancy lower perceived objectivity and enjoyment but leave the AI’s ability to persuade unchanged. This suggests that individual‑level awareness measures may not be sufficient to protect users from the harmful effects of sycophantic AI. The contribution is empirical evidence that sycophancy blindness persists despite attempts to inform users.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.02
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: A brief written warning about sycophancy reduces participants’ perception of the chatbot’s objectivity.  
 - Finding 2: Watching a video of the AI validating other users diminishes enjoyment and the belief that its validation is uniquely earned, yet does not affect persuasiveness.  

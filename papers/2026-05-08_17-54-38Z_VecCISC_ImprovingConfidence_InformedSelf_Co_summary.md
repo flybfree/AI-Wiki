@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces VecCISC, a lightweight adaptation of Confidence‑Informed Self‑Consistency (CISC) that reduces the need for costly confidence scoring by clustering semantically equivalent reasoning traces. By applying trace clustering and selecting representative candidates, VecCISC cuts total token usage while preserving or improving accuracy on diverse benchmarks. The contribution is an efficient framework that mitigates the secondary LLM calls required in CISC.  
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_Wise_summary.md|Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - A trace‑clustering method that groups semantically equivalent reasoning traces into a single cluster, allowing only one representative to be scored by the critic.  
 - An adaptive candidate‑answer selection strategy that discards degenerate or hallucinated traces based on similarity metrics before confidence evaluation.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes Gleam, a framework that enables communication‑efficient GPU sharing across LANs by remoting CUDA API calls between client and server devices. Its primary goal is to alleviate the bandwidth and latency bottlenecks that arise from frequent API invocations while preserving high computational throughput on heterogeneous NVIDIA GPUs. Gleam tackles these challenges with three novel mechanisms: automatic weight caching, an adaptive runtime scheduler, and robust CUDA context management. The contributions collectively aim to make AI inference possible on a wide range of personal devices within a local network.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Automatic model‑weight caching reduces the bandwidth overhead associated with repeated API calls by keeping frequently accessed parameters in memory.  
 - [Finding 2] A runtime task scheduler dynamically pairs LAN clients and servers, accounting for real‑time network conditions and GPU resource contention to minimize latency.  

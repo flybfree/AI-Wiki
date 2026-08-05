@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a multi‑agent language model (LLM) pipeline that automatically generates constitutive material models while guaranteeing adherence to fundamental physics. A Creator agent drafts a candidate model, and an Inspector agent audits it against nine physical constraints, returning the output for refinement whenever a violation is detected. This two‑stage approach yields physically valid, high‑accuracy models that generalize well beyond the training data, addressing a longstanding bottleneck in material modeling where expert knowledge is required.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - **Two‑agent system**: Introduces a Creator and Inspector architecture that systematically checks generated constitutive models against nine physics constraints.  
 - **Performance boost across LLMs**: The Inspector raises constraint‑satisfaction rates from 91 % to 100 % for Claude Opus 4.7 and from 37 % to 56 % for Kimi K2.5, while preserving model accuracy.  

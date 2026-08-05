@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a closed‑book question‑answering (QA) system that embeds entire training documents directly into the weights of a 4‑bit Gemma‑4‑e4b model using low‑rank adaptation (LoRA), eliminating reliance on external retrieval or context windows. By systematically varying LoRA rank, learning rate, and architecture while keeping data quality constant, the authors discover that once adapter capacity is sufficient, improvements in training‑data quality drive most gains. The study also reveals a hard gate below which no amount of data intervention improves performance.  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Data quality becomes the dominant lever for closed‑book accuracy after LoRA capacity reaches a threshold; increasing rank or learning rate yields diminishing returns.  
 - Finding 2: A single curation pass—shortening gold answers to canonical 1–6 word spans and discarding trivia—raises closed‑book accuracy from 57.7 % to 85.7 % on a 15‑document corpus, outperforming all architectural tweaks.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces CHiPS, a lightweight character‑level authorship attribution system for Romanian texts that combines two complementary fingerprints: a character‑histogram classifier and a positional‑signal classifier based on Fourier descriptors of impulse trains. The method avoids tokenization, n‑gram features beyond length 1, and any pretrained language models, focusing instead on transparent statistical patterns in raw characters and punctuation at fixed positions. Experiments are conducted under strict closed‑set leakage control using the ROST split, where true authorship is limited to a subset of candidates. The approach demonstrates high accuracy (0.9310) while respecting these constraints.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CHiPS achieves near‑perfect classification performance on Romanian source‑text groups without using n‑gram features or external language models, showing that simple character marginal statistics can be sufficient when leakage is tightly controlled.  
 - [Finding 2] The FFT12‑LR component extracts spectral signatures from binary impulse trains representing characters and punctuation at specific positions, providing a complementary positional fingerprint that improves robustness to small variations in writing style.  

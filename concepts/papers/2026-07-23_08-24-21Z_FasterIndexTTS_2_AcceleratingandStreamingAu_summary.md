@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the latency bottleneck of state‑of‑the‑art autoregressive text‑to‑speech (TTS) systems such as IndexTTS‑2, which generate speech token by token and therefore cannot meet real‑time requirements. By applying GPU‑accelerated inference techniques to every component of the model—including a GPT decoder, a flow‑matching diffusion transformer, and a vocoder—the authors achieve substantial speedups while preserving synthesis quality. The work also introduces streaming support for interactive applications and batched processing across all stages to maximize hardware utilization.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Accelerated all neural network components of IndexTTS‑2 using NVIDIA TensorRT and TensorRT‑LLM, enabling GPU deployment with minimal quality loss.  
 - [Finding 2] Introduced streaming synthesis that reduces end‑to‑end latency to near real‑time for interactive use cases.  

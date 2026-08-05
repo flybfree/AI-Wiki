@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes Lie‑Algebra Attention, a novel attention mechanism where each token is a bare matrix Lie group element rather than a feature vector, enabling a closed‑form score based solely on the algebra norm of the relative pose. This construction claims to be the first that places tokens directly as elements of a matrix Lie group, allowing affine full‑frame groups that are normally excluded by irrep or surjective‑exp methods. The contribution is both theoretical—providing an invariant pairwise kernel without learned representations—and experimental—demonstrating superior performance over existing approaches.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 backlinks
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 2 backlinks
+- [[concepts/papers/2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifo_summary.md|Summary: 2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - Finding 1: Tokens are represented as matrix Lie group elements \(g_i\) with no external payload or representation, making the attention score a pure algebraic quantity.  
 - Finding 2: The pairwise invariant is \(w_{ij}= \log(g_i^{-1}g_j)\) and the attention score is \(s_{ij}= -\|\log(g_i^{-1} g_j)\|_{\lambda}^{2}/\tau\), which is invariant under the diagonal group action and automatically satisfies the cocycle condition.  

@@ -16,6 +16,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](http://localhost:11434)
+
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md|Lesson 2 — Inference Layer: Self-Hosted LLMs]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-12-prompting-guiding-model-behavior.md|AI/ML Foundations Lesson 12 - Prompting: Guiding Model Behavior]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — 1 title term overlap, 6 topic terms overlap, same area: home
+
 ## Core Idea
 
 **LiteLLM** runs as a proxy server that normalizes 100+ LLM providers (including local models) to a single OpenAI-compatible API. This is the critical layer that lets you swap models without rewriting agent code.

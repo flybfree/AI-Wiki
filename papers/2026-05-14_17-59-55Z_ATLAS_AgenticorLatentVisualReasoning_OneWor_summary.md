@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper introduces ATLAS, a novel framework that unifies agentic and latent visual reasoning by utilizing discrete functional tokens as a dual-purpose mechanism for both operations and visual states. By treating these tokens as standard vocabulary items generated via next-token prediction, the method avoids the computational overhead of generating intermediate images while maintaining the flexibility of agentic tools. The authors address the challenge of sparse functional token usage during reinforcement learning by proposing Latent-Anchored GRPO, which stabilizes training through auxiliary objectives. This approach achieves superior performance on complex benchmarks while preserving the interpretability inherent in agentic systems.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions
 - The proposal of a unified framework where a single discrete "functional token" simultaneously acts as an agentic operation command and a latent visual reasoning unit, eliminating the need for separate architectural components or external tool calls.
 - The development of Latent-Anchored GRPO (LA-GRPO), a specialized reinforcement learning algorithm that mitigates the sparsity of functional tokens by anchoring them with a statically weighted auxiliary objective, thereby providing stronger and more stable gradient updates during training.

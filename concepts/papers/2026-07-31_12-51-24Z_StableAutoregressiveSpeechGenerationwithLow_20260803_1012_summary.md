@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper addresses the fundamental tension in autoregressive (AR) speech generation between maintaining high representational fidelity and ensuring long-horizon stability. The authors propose a novel framework that decouples these competing objectives by introducing Locodec, a locally encoded codec designed to create high-dimensional, low-frame-rate continuous tokens with improved geometric properties for predictability. To handle the generation process, they introduce MP-ELD, a single-token AR flow-matching framework that utilizes multi-path information routing and residual classifier-free guidance to effectively mitigate error accumulation during streaming synthesis. Experimental results demonstrate that this combined approach achieves robust high-fidelity reconstruction and superior long-form stability without relying on external pre-trained models or complex post-training stages.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions
 - **Locodec Architecture**: The introduction of a locally encoded codec that shapes the representation space to enhance both the interpolatability of lower-dimensional manifolds and the identifiability of high-dimensional coordinates, thereby improving token predictability.
 - **MP-ELD Framework**: A new single-token AR flow-matching method that employs multi-path information routing and residual classifier-free guidance to resist distribution drift and error accumulation inherent in long-horizon generation.

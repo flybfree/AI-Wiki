@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper explores how imprecision in belief fusion can enhance multi‑agent social learning, a process where agents update their beliefs by combining information from peers. The authors model beliefs as propositional formulas and introduce a fusion operator that is deliberately imperfect, allowing the fused belief to become more uncertain when the inputs differ. By analyzing both difference‑equation dynamics and agent‑based simulations under diverse initial biases, they show that moderate imprecision can boost learning accuracy for populations biased toward wrong conclusions. The work thus argues that controlled uncertainty may be beneficial rather than detrimental in collective reasoning.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 10 summary/topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 4 title terms overlap; 2 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.05
+
 ## Key Contributions  
 - [Finding 1] A formal fusion operator parameterised by a precision level is introduced, enabling systematic study of how varying degrees of imprecision affect fused beliefs.  
 - [Finding 2] Theoretical analysis of the fixed points of the difference‑equation model reveals that a certain amount of imprecision stabilises incorrect belief states and improves convergence to correct outcomes.  

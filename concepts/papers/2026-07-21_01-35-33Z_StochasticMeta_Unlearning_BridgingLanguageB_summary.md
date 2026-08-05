@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates why moving from single‑modality to vision‑language model (VLM) unlearning is problematic and proposes Stochastic Meta‑Unlearning (SMU), a bilevel framework that uses VLM‑level feedback to guide updates of the language backbone. By training an inner loop on text data and an outer loop that recomposes the updated backbone with a frozen visual component, SMU makes the unlearning process aware of the final multimodal behavior while keeping the update local to the language model. The method achieves superior forget‑retain trade‑offs compared with strong baselines and transfers to new forgetting targets and meta‑test unlearning methods.
 
+## Semantic links
+- [[concepts/papers/2026-07-30_05-19-33Z_LabEvolver_Training_FreeExperienceEvolution_summary.md|Summary: 2026-07-30_05-19-33Z_LabEvolver_Training_FreeExperienceEvolutionforSafe.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.16
+- [[concepts/papers/2026-08-03_12-15-33Z_HAFI_VLM_AFrequencyPerspectiveforDiagnosing_20260804_0049_summary.md|Summary: 2026-08-03_12-15-33Z_HAFI_VLM_AFrequencyPerspectiveforDiagnosingandEnha.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-08-03_12-15-33Z_HAFI_VLM_AFrequencyPerspectiveforDiagnosing_summary.md|Summary: 2026-08-03_12-15-33Z_HAFI_VLM_AFrequencyPerspectiveforDiagnosingandEnha.md]] — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.12
+
 ## Key Contributions  
 - [Finding 1] VLM‑level feedback is necessary for reliable unlearning, as text‑only updates can still be recovered when visual information is present.  
 - [Finding 2] SMU introduces a bilevel (inner‑outer) training scheme that learns an initialization tailored to the multimodal output of the VLM.  

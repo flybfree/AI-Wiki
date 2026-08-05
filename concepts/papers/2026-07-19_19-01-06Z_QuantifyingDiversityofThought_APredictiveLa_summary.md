@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces a formal law that quantifies how diverse thought among Large Language Model (LLM) ensembles improves performance, separating the “rescue” mass from the “damage” mass. It derives an exact decomposition of ensemble lift into these two components and proposes a compact heuristic based on accuracy‑adjusted correctness correlation (φ_adj), accuracy gap, and collective accuracy to predict uplift. The authors validate this law empirically across 767 520 inferences from ten open‑weight models on three graduate‑level science benchmarks and a novel cybersecurity task involving multi‑turn tool use. Their work provides the first experimentally verified metric that reliably predicts ensemble performance before pooling.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - **Exact decomposition of lift**: The paper derives an exact formula separating the portion of ensemble improvement (rescue mass) from any degradation caused by conflicting reasoning (damage mass).  
 - **Predictive heuristic φ_adj**: It introduces accuracy‑adjusted correctness correlation, a metric that outperforms raw φ in predictive power and can be combined with accuracy gap to form a stable pre‑pooling predictor.  

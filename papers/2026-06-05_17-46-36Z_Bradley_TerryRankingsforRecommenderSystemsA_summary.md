@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a data‑driven ranking methodology that uses Bradley‑Terry (BT) models to compare recommendation algorithms fairly across different dataset taxonomies, thereby addressing the sensitivity of performance to sparsity, sequential structure, and scale. It introduces BT trees and covariate extensions that allow ranking without training any model on unseen datasets, while also providing a consistency metric and robustness guarantees for incomplete data.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedby_summary.md|Summary: 2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedbyAgentic.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifo_summary.md|Summary: 2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_A_summary.md|Summary: 2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_Augmente.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A Bradley‑Terry based ranking framework whose output depends on key dataset statistics such as sparsity and interaction frequency.  
 - [Finding 2] A novel consistency metric that quantifies how stable the BT ranking is across multiple benchmarks, showing lower variance than traditional NDCG averages.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of clustering imbalanced tabular data using unsupervised deep learning, which is immune to class‑label bias. It proposes an ensemble framework that combines two strategies—aggregating cluster assignments across embedding dimensions and applying majority voting among competing algorithms—to improve detection of ground‑truth classes without supervision. Experiments on 16 binary datasets with varying and artificially induced imbalance show that the ensemble consistently yields higher accuracy, mutual information, and adjusted Rand index scores than any single method. The work demonstrates that deep clustering can serve as a strong alternative to supervised classification when labels are unavailable or biased.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 14 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] An ensemble of deep‑clustering assignments and majority voting improves ACC, NMI, and ARI scores on imbalanced tabular data.  
 - [Finding 2] Different deep clustering methods exhibit distinct strengths under varying imbalance levels; some perform better when the minority class is severely under‑represented.  

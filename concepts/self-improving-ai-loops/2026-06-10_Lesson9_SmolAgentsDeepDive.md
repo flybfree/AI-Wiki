@@ -16,6 +16,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](http://localhost:11434)
+
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1 — The Paradigm Shift: From Prompting to Loops]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|AI/ML Foundations Lesson 04 - Supervised Learning: Learning from Labels]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+
 ## Core Idea
 
 **SmolAgents** is a Hugging Face library (~1,000 lines of code) that lets agents write their own actions as **Python code** instead of JSON tool calls. This is the key differentiator: code is a better language for expressing computer actions than JSON because it has composability, object management, generality, and representation in LLM training data.

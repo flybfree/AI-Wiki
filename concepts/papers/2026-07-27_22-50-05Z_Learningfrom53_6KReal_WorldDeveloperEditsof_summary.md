@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces DECODE, a dataset of 53.6 K real‑world in‑IDE code edits made by developers on AI‑generated Python, TypeScript and JavaScript snippets. The authors show that such fine‑grained editing behavior is richer than what can be captured from Git commits alone. By analyzing the data they reveal patterns in when and why editors intervene, and they use DECODE to benchmark how well large language models can predict those edits. Their work argues for a developer‑centric approach to training AI programming assistants.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Most edits occur within the first 15 minutes after accepting an AI completion, with AI completions being removed in about 31 % of edit trajectories.  
 - [Finding 2] Fine‑tuning open‑source 3B models on DECODE yields code‑edit prediction performance that significantly outpaces frontier LLMs.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles infrared‑visible image fusion under realistic degradation conditions, where only a limited amount of modality‑specific information is available from the corrupted inputs. Existing approaches inject fixed global text representations into visual features, which cannot adapt to spatially varying degradations or local structures. To overcome this limitation, we propose TGFusion, a text‑guided latent‑space flow matching framework that unifies degradation suppression with cross‑modal fusion using structured prompts. Our contribution is a Prompt‑conditioned Multi‑stream Joint Flow Transformer that treats text as an independent semantic stream and enables token‑level bidirectional interaction among visual, infrared, and textual streams.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Provide a unified framework for degradation suppression and cross‑modal fusion guided by structured text prompts.  
 - [Finding 2] Introduce a Prompt‑conditioned Multi‑stream Joint Flow Transformer that represents text as an independent semantic stream with token‑level bidirectional attention.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a three‑stage pipeline that mines human‑annotated skill libraries from interaction trajectories of computer‑using agents, aiming to make the latent skill structure visible and usable for downstream policy improvement. It demonstrates that trajectory mining can expose inspectable skills with high purity against known labels, yet current offline representations limit transferability across domains. The contribution is both methodological (a reproducible segmentation‑clustering framework) and empirical (evidence of limited cross‑domain benefit).  
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing_summary.md|Summary: 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] Human‑annotated skill clusters can be identified from raw GUI trajectories with purity ≥ 0.95 on five of eight InteraSkill Workflows, indicating that the data contains a clear latent structure.  
 - [Finding 2] The orderless segment representation and offline reward model used for training do not translate into measurable gains in downstream skill‑step accuracy or domain metrics.  

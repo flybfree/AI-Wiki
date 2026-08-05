@@ -70,6 +70,11 @@ Molecular optimization—designing small‑molecule compounds that satisfy a tar
 
 *End of document.*
 
+## Semantic links
+- [[concepts/papers/2026-08-04_02-29-46Z_PACE_AdaptiveBudgetAllocationforTime_Effici_summary.md|Summary: 2026-08-04_02-29-46Z_PACE_AdaptiveBudgetAllocationforTime_EfficientEmbo.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.20
+- [[concepts/papers/2026-07-31_08-05-46Z_HERO_History_EnrichedRolloutTrainingforLong_20260803_0602_summary.md|Summary: 2026-07-31_08-05-46Z_HERO_History_EnrichedRolloutTrainingforLong_Horizo.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.20
+- [[concepts/papers/2026-07-31_08-05-46Z_HERO_History_EnrichedRolloutTrainingforLong_20260803_0446_summary.md|Summary: 2026-07-31_08-05-46Z_HERO_History_EnrichedRolloutTrainingforLong_Horizo.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.20
+
 ## Related Concepts
 
 - [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]

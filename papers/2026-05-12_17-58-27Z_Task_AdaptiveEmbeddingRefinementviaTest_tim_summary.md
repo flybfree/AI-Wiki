@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces a novel paradigm for enhancing the utility of text embedding models by leveraging Large Language Models (LLMs) to refine user queries at test time. The primary goal is to extend the effectiveness of standard embedding models to challenging zero-shot search and classification tasks where static representations often fail to capture nuanced intent. By utilizing feedback from a generative LLM on a small subset of documents, the system dynamically adapts the embedding representation of the query in real-time. This approach allows the embedding space to better reflect task-specific constraints without requiring expensive retraining or corpus-scale LLM inference.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions
 - The authors propose a task-adaptive embedding refinement framework that uses LLM guidance to dynamically adjust query embeddings based on immediate contextual feedback from a small document set.
 - Empirical results demonstrate consistent performance gains across state-of-the-art embedding models, with relative improvements reaching up to +25% in complex benchmarks such as literature search and intent detection.

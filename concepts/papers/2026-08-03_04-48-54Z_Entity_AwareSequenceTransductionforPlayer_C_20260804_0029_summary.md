@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of player‑centric ball action spotting in crowded, partially observed sports videos by proposing Multi‑Entity Denoising Sequence Transduction (ME‑DST). Unlike prior DST baselines that flatten the player‑role dimension into a single frame representation, ME‑DST retains the role‑slot axis throughout encoding to preserve inductive bias for modeling individual player evolution and inter‑player interactions. The method integrates temporal attention for within‑player history, spatial attention for cross‑role information exchange, and learnable role embeddings plus tactical features derived from tracking. Fusion of visual predictions from X3D‑L and Swin3D‑S yields a unified encoder that outputs temporally precise event detections with actor attribution.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - **Entity‑aware encoding:** ME‑DST maintains the role‑slot dimension, allowing the model to distinguish within‑player temporal dynamics from inter‑player context.  
 - **Attention‑based factorization:** Temporal attention models each player’s history while spatial attention exchanges information across roles at every frame, creating a clear separation of intra‑ and inter‑entity influences.  

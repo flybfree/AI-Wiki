@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 ServerlessT2I is a novel system that re‑imagines text‑to‑image (T2I) workflows as a collection of independently managed model functions within a serverless environment, allowing each function to be scaled and scheduled on its own. By harvesting idle GPU memory left over from compute‑bound inference, the authors create a data plane that dramatically reduces model loading and communication overhead. The approach also introduces a fairness‑aware scheduler for multi‑tenant clusters, addressing longstanding problems of opaque scaling and resource contention in existing serverless T2I deployments.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Decomposes a T2I workflow into loosely coupled model functions that can be managed and scheduled independently.  
 - [Finding 2] Exploits slack GPU memory to build a data plane that cuts down loading and communication costs.  

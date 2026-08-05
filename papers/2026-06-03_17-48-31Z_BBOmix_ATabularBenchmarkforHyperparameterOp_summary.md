@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces **BBOmix**, an open‑source tabular benchmark that systematically evaluates hyperparameter optimization (HPO) for unsupervised biological representation learning using autoencoders. It gathers 105 000 evaluations across four AE architectures and seven multi‑omics modalities from the TCGA and SCHC datasets, thereby providing a comprehensive resource for researchers in this field. The benchmark quantifies how well reconstruction loss correlates with downstream task performance, exposing the limitations of relying solely on reconstruction as an optimization proxy. By evaluating single‑fidelity, multi‑fidelity, and transfer‑learning HPO methods, BBOmix establishes a rigorous baseline for future work.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - First, BBOmix is the first open‑source tabular benchmark dedicated to unsupervised representation learning on real‑world biological data.  
 - Second, it includes 105 000 hyperparameter evaluations across four autoencoder architectures and seven multi‑omics modalities from TCGA and SCHC.  

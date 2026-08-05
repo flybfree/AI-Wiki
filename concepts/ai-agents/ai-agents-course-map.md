@@ -9,6 +9,11 @@ tags: [ai, agents, course-map]
 
 **Source**: [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) · [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [LangGraph: Agent orchestration framework](https://www.langchain.com/langgraph)
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]] — 2 title terms overlap, shared tags: coursemap, 2 topic terms overlap
+- [[concepts/ai-agents/ai-agents-syllabus.md|AI Agents Syllabus]] — 1 title term overlap, shared tags: agents, ai, 2 topic terms overlap
+- [[concepts/ai-agents/ai-agents-landing-page.md|AI Agents Landing Page]] — 1 title term overlap, shared tags: agents, ai, 2 topic terms overlap
+
 ## Sequence
 1. What an AI Agent Is
 2. The Harness: Implementing an Agent

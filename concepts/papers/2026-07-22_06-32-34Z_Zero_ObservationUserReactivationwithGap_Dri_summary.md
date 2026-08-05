@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of recommending items to users who have not interacted with the platform for an extended period—Zero‑Observation Reactivation. By analyzing three Amazon product datasets under a Chronologically Aligned Gap‑Synthesize Protocol, the authors demonstrate that standard sequential recommendation models suffer a monotonic decline in Hit@10 as the gap lengthens, reaching its lowest point beyond one year. Their contribution is a lightweight output‑layer plugin called DeltaGate that routes each representation dimension between a frozen personalized history and a zero‑initialized global prior, conditioned jointly on the gap duration Δt. The solution preserves the backbone’s frozen embeddings while adding only 2–4 % trainable parameters (≈66 K), yielding a 40× reduction in retraining cost compared with full end‑to‑end training.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Zero‑Observation Reactivation is defined and empirically shown to cause Hit@10 to degrade across increasing gap buckets, reaching its minimum beyond one year.  
 - [Finding 2] DeltaGate, a frozen‑backbone plugin that conditionally gates each dimension between personalized history and a zero‑initialized global prior, improves performance without retraining the backbone.  

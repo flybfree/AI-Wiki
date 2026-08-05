@@ -29,6 +29,11 @@ bitemporal data model, Neo4j property graph, HNSW vector indexes, cosine similar
 
 Conversational AI agents must retain and retrieve a rich history of user inputs, system responses, and intermediate reasoning steps. Traditional relational or key‑value stores struggle to model the **bitemporal** nature of this data—where each event exists both in logical time (the order in which it is generated) and physical time (the timestamp at which it was stored). In this work we introduce a **Graph‑Native Bitemporal Memory Store (G‑BMS)** that treats the memory as a dynamic graph where nodes encode state transitions, edges encode provenance relationships, and timestamps are explicitly encoded on both logical and physical axes. G‑BMS supports fast insertions, deletions, and temporal queries while guaranteeing consistency across the two time dimensions. Our design enables conversational agents to answer questions about past interactions with minimal latency, even as the memory grows to millions of events.
 
+## Semantic links
+- [[concepts/papers/2026-08-03_12-10-52Z_MemArbiter_Decision_TimeMemoryArbitrationfo_summary.md|Summary: 2026-08-03_12-10-52Z_MemArbiter_Decision_TimeMemoryArbitrationforLong_H.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.14
+- [[concepts/papers/2026-07-28_22-03-52Z_TraceCoder_ExplainableandAuditableCodeGener_summary.md|Summary: 2026-07-28_22-03-52Z_TraceCoder_ExplainableandAuditableCodeGenerationwi.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.13
+- [[concepts/papers/2026-08-03_12-10-52Z_MemArbiter_Decision_TimeMemoryArbitrationfo_20260804_0049_summary.md|Summary: 2026-08-03_12-10-52Z_MemArbiter_Decision_TimeMemoryArbitrationforLong_H.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.12
+
 ## Key Contributions  
 
 1. **Graph‑Native Bitemporal Representation** – We formalize a graph model where each node stores a logical timestamp (the order in which the event occurred) and a physical timestamp (the moment it was persisted). Edges represent “was‑derived‑from” or “caused‑by” relationships, preserving provenance.  

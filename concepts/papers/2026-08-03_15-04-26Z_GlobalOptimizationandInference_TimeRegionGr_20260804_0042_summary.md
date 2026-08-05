@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces GRAFT, a method for agentic workflow optimization that allows inference‑time adaptation without re‑optimizing the entire workflow. It replaces only selected regions using label‑free execution‑quality signals while preserving the globally optimized structure of the workflow. This enables instance‑wise improvement across diverse tasks such as mathematical reasoning and code generation. By keeping the global optimizer intact, GRAFT avoids the computational cost of full re‑optimization.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_02-09-26Z_Meta_LearnedRewardShapingforReinforcementLe_summary.md|Summary: 2026-07-28_02-09-26Z_Meta_LearnedRewardShapingforReinforcementLearningf.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-07-02_17-59-26Z_ReContext_RecursiveEvidenceReplayasLLMHarne_summary.md|Summary: 2026-07-02_17-59-26Z_ReContext_RecursiveEvidenceReplayasLLMHarnessforLo.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.10
+- [[concepts/papers/2026-07-24_17-34-26Z_DysphagiaRiskStratificationinHeadandNeckCan_summary.md|Summary: 2026-07-24_17-34-26Z_DysphagiaRiskStratificationinHeadandNeckCancerviaT.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] GRAFT enables inference‑time adaptation by locally replacing regions based on label‑free quality signals.  
 - [Finding 2] It preserves a globally optimized workflow while only swapping subregions that improve local performance.  

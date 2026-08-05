@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Isaac Sim‑to‑Real, an RL‑based locomotion framework that leverages Nvidia’s Isaac Sim and its companion toolkit, Isaac Lab, to train quadruped controllers in a high‑fidelity simulation environment. It demonstrates zero‑shot transfer to the physical Unitree Go1 robot, achieving whole‑body control with performance comparable to conventional integrated controllers while excelling at disturbance recovery. The contribution is a robust pipeline that eliminates the need for offline fine‑tuning on hardware.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_10-33-56Z_Zero_ShotFace_to_SpeechSynthesisviaLatentSp_summary.md|Summary: 2026-07-29_10-33-56Z_Zero_ShotFace_to_SpeechSynthesisviaLatentSpaceAdap.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-07-30_06-16-56Z_ASparseGlimpseoftheWhole_Train_FreeSelf_Spe_summary.md|Summary: 2026-07-30_06-16-56Z_ASparseGlimpseoftheWhole_Train_FreeSelf_Speculativ.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.05
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI and Robotics Hub]] — 1 title term overlap; 40 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A zero‑shot sim‑to‑real policy that works without any additional training or adaptation after deployment on the physical robot.  
 - [Finding 2] Whole‑body control achieving linear velocities up to 2.0 m/s and angular velocities up to 1.8 rad/s, surpassing many benchmark controllers.  

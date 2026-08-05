@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of generating continuous speech from silent signals by integrating surface electromyography (sEMG) and video‑based lipreading, two complementary non‑invasive modalities. By training a multimodal model that employs **cross‑modal masking**—temporarily suppressing one modality during inference—the authors achieve robust synthesis even when either sensor is degraded or absent. Their approach yields up to 14 absolute percentage points lower word error rates than the best unimodal baseline and generalizes better than data‑augmentation tricks under real‑world conditions. The work demonstrates that simultaneous use of sEMG and lipreading can significantly improve assistive silent speech synthesis for laryngeal‑impaired users.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Cross‑modal masking during training reduces the word error rate (WER) by up to 14 absolute percentage points compared with the strongest unimodal baseline.  
 - **Finding 2:** The masked multimodal model remains robust under low‑bitrate lipreading and degraded sEMG signals, outperforming degradation‑specific augmentations when one modality is temporarily unavailable.  

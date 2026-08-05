@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Class‑Incremental Learning (CIL) enables multimodal models such as CLIP to acquire new classes without retraining from scratch, yet the process suffers from catastrophic forgetting because attribute extraction and aggregation are both biased toward the newly added class. The authors propose AREA—a framework that jointly stabilizes these two stages—by anchoring class‑level visual and textual attributes on a hyperspherical embedding space and by learning lightweight task‑specific experts for robust aggregation. Routing over task manifolds with optimal transport further refines predictions at inference time, yielding consistent improvements across benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connec_summary.md|Summary: 2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] ANCHOR stabilizes attribute extraction through principal geodesic analysis on the hyperspherical embedding manifold, preventing drift toward new classes.  
 - [Finding 2] LEARNER agents learn lightweight experts that perform scoring and residual refinement for aggregation, regularized by a variational information bottleneck objective to preserve prior knowledge.  

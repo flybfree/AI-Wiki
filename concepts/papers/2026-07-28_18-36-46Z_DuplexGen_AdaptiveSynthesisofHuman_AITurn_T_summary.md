@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the limitation of current dialogue models that apply uniform turn‑taking norms regardless of scenario, and introduces DuplexGen which adapts turn‑taking to human preferences via calibration against slot‑level annotations. It demonstrates that human‑calibrated generation yields more natural, scenario‑specific turn‑taking than prompting or generic training on human‑human corpora. This work shows that explicit preference calibration—not just data scale or prompt design—enables adaptive full‑duplex dialogue.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Human‑preference calibration of LLM‑generated dialogues improves alignment with real‑world turn‑taking norms.  
 - DuplexGen generates scenario‑adaptive turn‑taking by calibrating predictions against slot‑level annotations rather than relying on generic human‑human corpora.  

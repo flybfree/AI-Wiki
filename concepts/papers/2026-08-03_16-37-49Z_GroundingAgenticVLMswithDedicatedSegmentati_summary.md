@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the problem of unreliable spatial grounding in vision‑language models (VLMs) when assessing fine‑grained vehicle damage, such as scratches and hairline cracks that occupy only a few pixels. By integrating VQA reasoning with a dedicated segmentation module, the authors demonstrate that a hybrid “TinyDamage” pipeline can generate accurate, spatially consistent reports while dramatically reducing hallucinations. Their work introduces a novel loss function for tiny‑object detection, a per‑category detection metric (DET_l), and an agentic workflow built on LangGraph to ground each VLM step in segmentation output.  
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions
 - [Finding 1] The authors show that state‑of‑the‑art VLMs like Qwen‑VL produce high semantic accuracy but are systematically ungrounded, hallucinating damage in reflective regions and missing elongated scratches.  
 - [Finding 2] A supervised contrastive loss markedly improves damage/background separability for tiny objects, whereas focal loss collapses detection to zero due to extreme class imbalance.  

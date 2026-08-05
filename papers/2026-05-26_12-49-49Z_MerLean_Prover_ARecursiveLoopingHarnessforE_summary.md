@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The authors present MerLean‑Prover, an end‑to‑end Lean 4 theorem prover that automatically generates kernel‑checkable proofs instead of relying on “sorry” placeholders. It is built from three agents—Planning, Check, and Lean—wrapped in a recursive outer loop whose unit of revision is the proof plan itself. Crucially, the system requires no fine‑tuning, custom reinforcement‑learning objectives, or problem‑specific scaffolding. The harness demonstrates that simple design choices can yield strong performance across both benchmark suites.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] MerLean‑Prover solves 10 out of 23 FormalQualBench problems, outperforming the best open‑source baseline (OpenGauss: 8/23).  
 - [Finding 2] It closes all 12 Putnam2025 problems with a substantially lower total wall‑clock time than the next‑best system that also solves the full set.  

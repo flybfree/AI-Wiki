@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors propose a new training algorithm for Energy‑Based Models (EBMs) called Parallel Trajectory Tempering (PTT), which keeps the model in equilibrium throughout the learning process by exploiting the continuity of optimization trajectories. By combining PTT with reservoir sampling and adaptive optimizers, they achieve a computational cost comparable to Persistent Contrastive Divergence while delivering direct estimates of thermalization times and accurate log‑likelihoods at virtually no extra expense. The method enables stable training on highly multimodal and data‑scarce scientific datasets that are otherwise challenging for standard MCMC approaches. Overall, PTT makes equilibrium maximum‑likelihood training of EBMs both practical and computationally efficient.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 15 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Parallel Trajectory Tempering maintains equilibrium sampling throughout learning, leading to faster convergence and better mixing than traditional MCMC methods.  
 - [Finding 2] The algorithm’s computational cost is comparable to Persistent Contrastive Divergence, making it a practical replacement for standard training procedures.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of reliable evaluation of agentic systems by providing unbiased estimates with valid uncertainty, which is difficult due to high annotation costs or biased LLM proxies. It introduces GLIDE, an open‑source Python library that unifies multiple prediction‑powered inference (PPI) estimators and samplers under a scipy‑style API for mean estimation. The library includes a validation suite, decision tree, and case study demonstrating annotation savings while preserving precision. This work industrializes PPI to make robust GenAI evaluation reproducible.  
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommo_summary.md|Summary: 2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAll_summary.md|Summary: 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - GLIDE unifies multiple state‑of‑the‑art prediction‑powered inference estimators (PPI++, Stratified PPI, Predict‑Then‑Debias, Active Statistical Inference) with stratified and active samplers via a single scipy‑style API.  
 - It provides a fully reproducible Monte Carlo validation suite and an empirically derived decision tree for method selection that guides users to the most appropriate estimator under given constraints.  

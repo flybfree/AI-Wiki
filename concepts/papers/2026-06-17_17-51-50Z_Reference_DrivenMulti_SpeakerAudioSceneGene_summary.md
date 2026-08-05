@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes ScenA, a reference‑driven multi‑speaker audio scene generation system that conditions a foundation model on free‑form natural language prompts and multiple voice references to produce realistic conversational audio without per‑turn supervision. It overcomes the Reference Shortcut problem where models mistakenly bind speakers based solely on noisy acoustic similarity to references. By using a high‑noise‑biased timestep distribution, it forces the model to rely on textual cues for speaker assignment.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 backlinks
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The Reference Shortcut: a model can incorrectly bind speakers based solely on noisy acoustic similarity to references.  
 - [Finding 2] A high‑noise‑biased timestep distribution that compels the model to use the free‑form scene description for speaker assignment.  

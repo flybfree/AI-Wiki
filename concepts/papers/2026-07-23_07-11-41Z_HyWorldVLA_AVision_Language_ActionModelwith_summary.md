@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors introduce HyWorldVLA, a vision‑language‑action model that integrates both pixel‑level and latent world modeling to achieve robust autonomous driving. By pre‑training on video VAE latents while simultaneously reconstructing frames, the framework bridges the interpretability gap of pure latent models with the robustness loss of pixel‑only approaches. The co‑fine‑tuning stage restricts predictions to latent features that drive an action expert, yielding end‑to‑end trajectory generation. HyWorldVLA is evaluated on NAVSIM v1 and v2, establishing a new benchmark for world‑model noise resilience in driving tasks.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - **Hybrid World Modeling**: Combines pixel‑level reconstruction with latent VAE encoding to retain both fine‑grained spatiotemporal reasoning and robustness.  
 - **Noise Robustness Benchmark**: Provides the first comprehensive quantitative and qualitative analysis of how world‑model noise affects autonomous driving, creating a new evaluation standard.  

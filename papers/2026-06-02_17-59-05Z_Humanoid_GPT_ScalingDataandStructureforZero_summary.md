@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Humanoid‑GPT is a GPT‑style transformer pre‑trained on a billion‑frame motion corpus to enable zero‑shot whole‑body tracking and control without task‑specific fine‑tuning. The model unifies major mocap datasets into a single large‑scale, retargeted corpus that scales both data volume and model capacity. By leveraging causal attention, it can generate trajectories for unseen motions and tasks while preserving high performance on dynamic behaviors. This work establishes a new performance frontier in motion tracking by eliminating the agility‑generalization trade‑off.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagati_summary.md|Summary: 2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithG_summary.md|Summary: 2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Humanoid‑GPT achieves zero‑shot generalization to unseen motions and control tasks.  
 - [Finding 2] Scaling data and model capacity yields unprecedented performance on highly dynamic behaviors.  

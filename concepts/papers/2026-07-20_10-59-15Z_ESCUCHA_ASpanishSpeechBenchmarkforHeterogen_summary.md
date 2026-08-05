@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces ESCUCHA, a Spanish speech understanding benchmark designed to evaluate large audio language models under heterogeneous acoustic conditions and reasoning abilities. It provides 1,000 human‑curated questions with multi‑modal inputs from real‑world recordings spanning various durations and accents. The benchmark aims to expose performance gaps between humans and state‑of‑the‑art models.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 11 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [The ESCUCHA dataset comprises 1,000 human‑curated speech‑question pairs sourced directly “from the wild,” totaling 162.9 hours of audio.]  
 - [It spans nine perceptual categories and ten reasoning tasks, capturing linguistic diversity through multiple Spanish accents and non‑normative speech.]  

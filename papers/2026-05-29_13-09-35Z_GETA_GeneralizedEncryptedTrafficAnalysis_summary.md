@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The rapid proliferation of encryption, tunnelling, and privacy‑preserving protocols has rendered traditional traffic analysis ineffective because packet payloads are hidden from deep packet inspection (DPI). This paper introduces GETA, a protocol‑agnostic framework that analyses network flows using only metadata as multivariate time series, thereby bypassing reliance on payload or header semantics. GETA leverages meta‑learning, embedding refinement, and self‑attention to adapt quickly to unseen domains with minimal labelled data. Experiments across nine public datasets demonstrate that GETA consistently outperforms state‑of‑the‑art baselines in application identification, VPN classification, IoT fingerprinting, and attack detection.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAll_summary.md|Summary: 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommo_summary.md|Summary: 2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] GETA is a protocol‑agnostic framework that models network flows as multivariate time series using exclusively traffic metadata.  
 - [Finding 2] The method combines meta‑learning, embedding refinement, and self‑attention to enable few‑shot adaptation with little or no labelled data.  

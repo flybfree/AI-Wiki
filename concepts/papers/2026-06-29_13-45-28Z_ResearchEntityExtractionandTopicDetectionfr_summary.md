@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The paper investigates how large language models can be used to automatically extract research entities and detect topics from UKRI grant proposals, a task that could help identify emerging scientific fields for public investment. It evaluates three approaches—GPT‑4o, the open‑source model Mistral, and a custom algorithm called DSIT‑Taxonomies—to see which yields the most reliable entity sets and topic classifications. The study demonstrates that Mistral, when combined with the OpenAlex Topics taxonomy, produces high‑quality, semantically coherent results that surpass both GPT‑4o’s fragmented output and the bespoke DSIT‑Taxonomies pipeline.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - **High‑performing entity extraction**: Mistral generates comparable, high‑quality research entities with significant semantic overlap to those produced by GPT‑4o.  
 - **Superior topic classification**: The Mistral‑plus‑OpenAlex pipeline achieves a 90.5 % accuracy in classifying topics, outperforming the full DSIT‑Taxonomies approach (71.4 %).  

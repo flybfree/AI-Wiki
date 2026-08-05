@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces AutoTTS, an environment‑driven framework that automatically discovers test‑time scaling (TTS) strategies instead of relying on handcrafted heuristics. By formulating TTS as a controller synthesis problem over pre‑collected reasoning trajectories and probe signals, the authors enable cheap evaluation without repeated LLM calls, thereby improving the accuracy–cost tradeoff for large language models.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 2 title terms overlap; shared tags: ai, paper, research; 17 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] AutoTTS provides an automated environment that discovers TTS heuristics from scratch.  
 - [Finding 2] The width‑depth TTS problem is cast as controller synthesis where controllers decide when to branch, continue, probe, prune, or stop using trajectory and probe data.  

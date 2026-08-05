@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of optimizing retrieval‑pipeline configurations for each natural‑language query by balancing answer quality against inference cost, proposing a system called BRANE that selects the best configuration at runtime without retraining. By converting queries into workload‑specific characteristics with an LLM and training lightweight per‑configuration predictors, BRANE enables a tunable cost‑quality tradeoff that outperforms static workload‑level tuning across multiple benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetwork_summary.md|Summary: 2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The problem is formulated as selecting from a predefined pipeline catalog the configuration that minimizes cost or maximizes accuracy given a natural‑language query.  
 - [Finding 2] BRANE, an LLM‑driven workflow characteristic extractor and per‑configuration predictor, selects the optimal configuration at inference time without retraining.  

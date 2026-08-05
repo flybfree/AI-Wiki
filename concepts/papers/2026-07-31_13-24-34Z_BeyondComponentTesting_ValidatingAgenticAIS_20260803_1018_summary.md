@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of validating Agentic AI systems, which operate through complex, multi-step trajectories involving planning, tool use, and adaptation, rather than simple input-output mappings. The authors argue that traditional component testing is insufficient for ensuring trustworthiness in these dynamic environments and propose a comprehensive framework to characterize the validation problem. By synthesizing 257 papers from diverse fields such as software assurance, cyber-physical systems, and regulatory guidance, the study identifies significant gaps in current evaluation methodologies. The central thesis posits that trustworthy deployment requires validating trajectories within their specific contexts rather than assessing isolated system components.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions
 - **Five-Dimension Taxonomy**: The authors introduce a novel taxonomy covering behavioral, safety, temporal, regulatory, and multi-agent concerns, providing a structured lens to analyze the complex validation requirements of agentic systems.
 - **Identification of Coverage Gaps**: The analysis reveals that while behavioral evaluation is relatively mature, critical areas such as temporal validity, runtime evidence maintenance, regulatory legibility, and open-ended multi-agent assurance remain significantly under-developed.

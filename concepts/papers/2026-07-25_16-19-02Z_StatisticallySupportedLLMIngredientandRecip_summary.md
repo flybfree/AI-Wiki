@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a quality‑controlled LLM pipeline to collect ingredient data for computational nutrition, addressing the problem of incomplete and inconsistent databases that are built only for human reference. It combines statistical estimation, domain‑specific invariant checks, and a web‑fetch fallback to produce reliable nutrient records while quantifying uncertainty rather than discarding it. A Heap’s Law analysis shows that unique‑ingredient growth is sub‑linear and front‑loaded as recipes scale up. The framework treats repeated LLM queries as samples from an answer distribution and uses robust point estimators with normalized confidence scores.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Statistical estimation of ingredient attributes using multiple LLM invocations treated as samples from a model‑induced answer distribution, yielding normalized confidence scores across numerical, Boolean, multiple‑choice, open categorical, and optional integer types.  
 - An invariant guard layer that enforces nutritional and logical self‑consistency within each ingredient record; minor numeric inconsistencies are reconciled with a linear program minimizing worst‑case percentage deviation while preserving semantic zeros, and major violations trigger web‑evidence repair before human review.  

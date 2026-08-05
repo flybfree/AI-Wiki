@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **denoising growth complexity (DGC)** as a geometric quantity that quantifies how the denoising mean‑squared error evolves along the Gaussian heat flow, thereby linking diffusion sampling performance to data geometry. By proving that each Euler step’s KL error is locally bounded by the corresponding DGC increment and the stepsize, the authors obtain explicit, data‑certified guarantees for both single‑block and refined K‑block schedules. The work also reveals a martingale structure in DGC that enables fully certified algorithms and sharp rate comparisons between log‑heat‑time and single‑block regimes.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1** – A new definition of DGC: the log‑time weighted integral of the derivative of the denoising MSE along the Gaussian heat flow, providing a geometric measure that captures data structure.  
 - **Finding 2** – For an Euler scheme applied to stochastic innovations, each step’s KL error is bounded by the product of its DGC increment and the relative stepsize, yielding a simple local guarantee.  

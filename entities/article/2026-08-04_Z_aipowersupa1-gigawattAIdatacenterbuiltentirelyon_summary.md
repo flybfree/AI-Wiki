@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Chinese AI developer Z.ai (formerly Zhipu) has completed a 1‑gigawatt data center that is powered exclusively by domestically manufactured chips, and the site now runs multiple clusters each containing over 10 000 chips with no Nvidia silicon involved. The facility will train its GLM model family and represents one of the largest AI‑focused power draws ever assembled in a single Chinese lab.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Z.ai operates a 1‑gigawatt data center built entirely on Chinese‑made accelerators (likely Huawei Ascend) and maintains several clusters each holding more than 10 000 chips, all without Nvidia hardware.  
 - Although the site consumes gigawatts of electricity—enough to power roughly 750 000 homes—the Chinese accelerators deliver less performance per watt compared with Nvidia’s Blackwell GPUs, meaning the same power draw yields lower training compute.  

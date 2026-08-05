@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces TrajWiki, a trajectory‑based memory framework that replaces static or overwritable memory stores with immutable episodic snapshots linked by source‑grounded claim operations (ADD, REVISE, DEPRECATE). By constructing persistent “Memory Wiki” pages that index salient entities and events, TrajWiki enables long‑horizon dialogue agents to retrieve evidence from the exact source messages that generated each memory state. The framework is evaluated on LoCoMo and MedMT benchmarks, showing measurable gains in coherence and diagnostic transparency across both open‑source and closed‑source LLM backbones.
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1**: TrajWiki represents memory as a source‑grounded evolution trajectory rather than isolated records.  
 - **Finding 2**: The Memory Wiki layer aggregates dialogue history into structured, interlinked wiki pages that capture entities, events, quantities, and conflicts.  

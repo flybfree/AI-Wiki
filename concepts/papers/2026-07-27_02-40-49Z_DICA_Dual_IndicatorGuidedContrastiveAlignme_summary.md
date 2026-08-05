@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **DICA (Dual‑Indicator Guided Contrastive Alignment)** to improve the reliability of multimodal large language models by preventing hallucinations that arise from attention drift and underutilization of visual evidence. DICA monitors two information‑theoretic indicators—Visual Attention Entropy (VAE) and Output Image Correlation (OIC)—during inference; abnormal VAE or OIC values flag specific failure modes, prompting a targeted contrastive alignment step to restore proper visual grounding. The approach is designed to be data‑driven rather than heuristic, allowing the model to self‑correct when its attention patterns deviate from expected coarse‑to‑fine progression.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-20_18-13-49Z_EnablingMultilingualPrivacyPolicyAudits_Lar_summary.md|Summary: 2026-07-20_18-13-49Z_EnablingMultilingualPrivacyPolicyAudits_Large_Scal.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 - **Dual‑Indicator Framework**: DICA defines VAE and OIC as complementary metrics that jointly capture visual attention concentration and output‑image alignment.  
 - **Conditional Contrastive Alignment**: The method automatically triggers contrastive training when either indicator exceeds a predefined threshold, generating synthetic negative samples that force the model to re‑align its attention to relevant regions.  

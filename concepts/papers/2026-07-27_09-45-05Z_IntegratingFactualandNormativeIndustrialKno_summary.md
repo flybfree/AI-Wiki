@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of recommending machining process plans by integrating heterogeneous industrial knowledge—both factual material‑operation relations and normative constraints such as precision limits, sequencing rules, and compatibility requirements. It introduces PCA‑GAT, a constraint‑aware graph attention framework that treats plan recommendation as a Bayesian personalized ranking problem on an enriched knowledge graph. The approach learns type‑specific importance weights for each constraint and uses an adaptive gate to balance their influence locally. This unified model provides a standardized evaluation protocol (Recall@K, NDCG@K) and demonstrates strong cold‑start performance compared with existing similarity‑based baselines.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] PCA‑GAT creates a knowledge‑graph enhanced collaborative filtering problem that unifies factual relations and decision constraints into a single ranking objective.  
 - [Finding 2] The enriched graph and constraint‑aware attention markedly improve cold‑start robustness, with Recall@1 of 0.9087 on the aerospace dataset while only about half the degradation of the strongest baseline under severe sparsity.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes Bidirectional Evolutionary Search (BES), a novel framework for self‑improving language models that addresses the shortcomings of conventional post‑training search methods. By coupling forward evolutionary candidate generation with backward task decomposition, BES creates diverse candidates that escape the narrow entropy shell typical of autoregressive expansion and supplies dense feedback to guide exploration. Experiments show that BES consistently improves performance where mainstream approaches stagnate, especially on challenging open‑problem solving benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforC_summary.md|Summary: 2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforComparat.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The forward evolutionary operators generate candidates that escape the narrow entropy shell of autoregressive search.  
 - [Finding 2] Backward task decomposition provides exponentially fewer required samples by recursively breaking down goals into checkable subgoals.  

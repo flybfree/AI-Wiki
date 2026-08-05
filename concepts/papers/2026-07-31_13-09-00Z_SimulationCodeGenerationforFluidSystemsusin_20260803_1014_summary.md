@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper investigates the potential of Large Language Models (LLMs) to automate the generation of simulation code for complex fluid systems, a critical task in engineering design. The authors specifically examine the translation of neutral graph representations into executable code compatible with two major simulation environments: the Python-based WNTR library and the Modelica Standard Library. By systematically benchmarking ten state-of-the-art LLMs against six distinct prompting strategies, the study aims to identify optimal configurations for syntactic correctness and functional fidelity. The ultimate goal is to provide actionable guidance for integrating LLM-driven code synthesis into existing model-based design pipelines, highlighting both the current capabilities and the significant gaps in simulation accuracy.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The authors establish a comprehensive benchmarking framework that evaluates ten different LLMs across six varied prompting strategies, specifically tailored for fluid system code generation.
 - They demonstrate that while modern LLMs can achieve high levels of syntactic correctness in generated code, there remains a substantial and critical gap in the functional fidelity of the resulting simulations.

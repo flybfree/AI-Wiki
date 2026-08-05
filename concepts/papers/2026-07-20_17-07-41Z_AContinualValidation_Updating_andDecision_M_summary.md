@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a continual validation, updating, and decision‑making framework that enables self‑adaptive digital twins to maintain high fidelity despite concept drift in additive manufacturing processes. By integrating a Fisher score‑based multivariate drift detector, low‑rank adaptation (LoRA) for parameter‑efficient fine‑tuning, and an online Mann–Whitney U test for statistical validation, the system can detect distributional shifts early, update fewer than 1 % of model parameters, and certify that predictive accuracy and uncertainty quantification improve before deployment. The framework is demonstrated on a stochastic linear system and a directed energy deposition additive manufacturing workflow, showing rapid detection and restoration of trustworthy surrogate models. This work establishes a statistically rigorous, computationally tractable pathway for sustaining the reliability of neural‑network‑based digital twins throughout their operational life.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [A unified framework that couples drift detection (Fisher score), model adaptation (LoRA), and statistical validation (Mann–Whitney U) to enable continual self‑adaptation of digital twins.]  
 - [Targeted fine‑tuning of less than 1 % of neural‑network parameters, preserving computational efficiency while restoring predictive performance under drift.]  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether LLM‑based idea judges evaluate scientific substance or are swayed by superficial style, proposing a new benchmark called SciStyleBench to diagnose and mitigate stylistic bias in idea evaluation. It introduces a three‑component framework that combines controlled stylistic perturbations across multiple contexts with quantitative metrics and an extraction module. Experiments show that direct LLMs remain highly sensitive to writing style while the extraction approach reduces bias and improves substance detection. The contribution is a systematic method for identifying, quantifying, and mitigating stylistic bias in scientific idea evaluation.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Direct LLM judges exhibit a high Style Bias Index (SBI) indicating strong sensitivity to writing style.  
 - [Finding 2] SciStyleExtractor significantly lowers SBI while boosting Substance Recognition Rate (SRR) and Adversarial Win Rate (AWR), demonstrating improved discrimination of scientific substance.  

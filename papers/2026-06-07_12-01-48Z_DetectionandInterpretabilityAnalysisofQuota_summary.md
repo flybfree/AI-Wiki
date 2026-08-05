@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of quotation error—where a cited statement does not match its original source—and proposes an automated detection system built on large language models (LLMs). By fine‑tuning LLMs and integrating full‑text information, especially the source abstract, the authors achieve higher accuracy than previous approaches, while TokenSHAP provides interpretable explanations of each prediction. This work bridges a gap between high‑performance AI detection and transparent, auditable reasoning.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-23-48Z_LetThemSteal_TrappingLargeLanguageModelExtr_summary.md|Summary: 2026-06-14_13-23-48Z_LetThemSteal_TrappingLargeLanguageModelExtractionA.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - Fine‑tuning an LLM markedly improves quotation‑error detection compared with earlier baselines.  
 - Among three full‑text integration methods (full text, abstract only, citation metadata), the source‑abstract scheme yields the best performance.  

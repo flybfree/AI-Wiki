@@ -61,3 +61,8 @@ A paired‑sample t‑test confirms that the differences between coarse and fine
 
 **Conclusion of Results Section**  
 The empirical study unequivocally shows that predicate representation granularity is a critical design parameter in symbolic attack chain generation. Fine-grained predicates enable richer, more successful chains but at the expense of computational complexity. The results establish SACG as a reliable benchmark for evaluating ART techniques and guide practitioners toward selecting an appropriate granularity level based on system constraints and performance goals.
+
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 2 title terms overlap; 160 backlinks; 3 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 1 backlink; 11 summary/topic terms overlap

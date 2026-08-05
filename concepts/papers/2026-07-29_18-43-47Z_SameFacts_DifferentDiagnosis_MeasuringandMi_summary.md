@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper identifies a hidden source of diagnostic error in clinical language models: Narrative Anchoring, where identical clinical facts expressed in different sociolinguistic registers produce divergent outputs despite the absence of any demographic markers. By constructing a fact‑preserving dataset of 1,000 USMLE vignettes rewritten under three distinct personas, the authors demonstrate that this register‑only bias is statistically significant across seven language models. Their key contribution is a structural mitigation called NarrativeShield, which extracts and verifies facts before reasoning, reducing the anchoring gap to near zero while preserving diagnostic stability at a modest accuracy cost.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Narrative Anchoring is defined as a bias where identical clinical facts generate different diagnoses solely due to sociolinguistic register, not demographic information.  
 - [Finding 2] A rigorously audited dataset of 1,000 vignettes with three persona rewrites and independent fact‑preservation verification is introduced.  

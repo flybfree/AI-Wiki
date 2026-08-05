@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The authors present **HERO’S JOURNEY**, a benchmark that evaluates how large language models can infer hidden rules from demonstrations in goal‑directed episodic text games, and they show that rule induction is possible but fragile across diverse tasks. Their work reveals that while some LLMs exhibit rudimentary rule learning on attribute‑type problems, procedural induction remains largely untapped, indicating a persistent gap in the field. The study also demonstrates that execution bottlenecks limit model performance more than surface semantics do. Overall, HERO’S JOURNEY provides concrete evidence of both progress and remaining challenges in complex rule induction.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsfo_summary.md|Summary: 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Rule induction is demonstrable in attribute‑type tasks but yields inconsistent results across different structural rule forms.  
 - **Finding 2:** Procedural tasks show little to no improvement, suggesting procedural rule inference remains an open problem for LLMs.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a roadmap for creating self‑evolving clinical systems that move from task‑specific assistance to fully autonomous decision making in medical imaging and workflow settings. It argues that trustworthy autonomy depends not only on model scaling but also on scalable frameworks, robust environments, and continuous learning loops. The authors organize the problem along three axes—framework scaling, capability scaling, and environment scaling—and identify clinical environment integration as the most actionable frontier. By emphasizing self‑improving agents rather than mere parameter upgrades, the work aims to enable medical agents that can perceive, reason, plan, remember, and act in PACS, EHR, and FHIR ecosystems.  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - The authors introduce a unified scaling spine (framework, capability, environment) to guide the development of autonomous medical agents.  
 - They formalize clinical self‑evolution as a research frontier that leverages interactive training environments rather than pure model parameter scaling.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper aims to address the gap between manual labor‑intensive information extraction (IE) in Architecture, Engineering, and Construction (AEC) drawings and the limited progress of automated layout detection. By treating Layout Detection as a “middleware” that organizes both graphical elements and textual hierarchies, the authors highlight its importance for downstream IE tasks. They construct an AEC‑specific dataset and benchmark five deep‑learning architectures to evaluate their suitability for this domain. The study demonstrates that models fine‑tuned on general document datasets suffer from domain interference, while architecture‑focused approaches achieve superior performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - RF‑DETR reaches state‑of‑the‑art results with an $mAP_{50}$ of 0.949 for layout detection in AEC drawings.  
 - The Vision‑Language Model Qwen3‑VL attains a leading F1‑score of 0.911, outperforming other baselines on the same task.  

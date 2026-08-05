@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates how calibration of individual experts within mixture‑of‑experts (MoE) models behaves under distribution shift and whether this leads to calibrated overall predictions. It shows that expert‑level calibration is sufficient for hard‑routed MoE models but insufficient for soft‑routed ones, motivating an adversarial reweighting approach. The authors propose a method that penalizes calibration errors of the aggregated output across shifts, improving both accuracy and calibration tradeoffs. Their work bridges uncertainty quantification with robust ensemble learning under non‑i.i.d. data.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 backlinks
+- [[concepts/papers/2026-06-14_13-39-00Z_SACE_ConceptErasureattheSemanticSingularity_summary.md|Summary: 2026-06-14_13-39-00Z_SACE_ConceptErasureattheSemanticSingularityinVisua.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Expert calibration guarantees calibrated predictions for hard‑routed MoE models under a broad class of distribution shifts.  
 - [Finding 2] Soft‑routed MoE models remain poorly calibrated even when individual experts are well‑calibrated, highlighting a routing‑induced failure mode.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates why looping‑based repairs in coding agents can degrade reliability despite producing correct patches, and it proposes a formal, state‑bound approach to guarantee that revisions are both admissible and verifiable. By separating the stages of admission, preservation, certification, competence, and liveness, the authors derive an evidence‑bound typed loop contract that mechanically enforces these guarantees. The work demonstrates empirically that stale traces cause substantial correctness loss in real repair trajectories, while a well‑specified implementation preserves verified checkpoints without implying improved agentic competence.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Repeating a correct patch does not guarantee reliability; the overall correctness of an agent after multiple revisions drops sharply when stale traces are used.  
 - [Finding 2] A formal, typed loop contract can be derived from evidence‑bound verification to separate admission (accepting patches) from preservation (maintaining verified states).  

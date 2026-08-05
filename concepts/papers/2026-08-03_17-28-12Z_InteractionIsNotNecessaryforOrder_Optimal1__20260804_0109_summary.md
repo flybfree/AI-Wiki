@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles one‑bit mean estimation under bounded moments, showing that the two‑stage interactive protocol can be replaced by a fully non‑adaptive randomized scheme without sacrificing optimality. By fixing all queries in advance, the authors achieve sample complexity that matches the optimal adaptive rate up to constant factors. This result provides a negative answer to the COLT 2026 open problem concerning whether interaction is necessary for order‑optimal one‑bit mean estimation with general queries.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_13-06-12Z_UsingNon_LipschitzSignum_basedFunctionsforD_summary.md|Summary: 2026-08-02_13-06-12Z_UsingNon_LipschitzSignum_basedFunctionsforDistribu.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.13
+- [[concepts/papers/2026-08-02_13-06-12Z_UsingNon_LipschitzSignum_basedFunctionsforD_20260804_0010_summary.md|Summary: 2026-08-02_13-06-12Z_UsingNon_LipschitzSignum_basedFunctionsforDistribu.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.10
+- [[concepts/papers/2026-07-27_04-31-12Z_AdaptiveDataAdmissionandRetentionforStreami_summary.md|Summary: 2026-07-27_04-31-12Z_AdaptiveDataAdmissionandRetentionforStreamingFeder.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.10
+
 ## Key Contributions  
 - [Finding 1] A randomized fully non‑adaptive protocol that fixes all queries before observing data attains the optimal adaptive sample complexity.  
 - [Finding 2] The protocol’s sample complexity scales as \(\log\frac{λ}{σ} + \begin{cases}(σ/ε)^2\log(1/δ), & k>2,\\(σ/ε)^2\log(σ/ε)\log(1/δ), & k=2,\\(σ/ε)^{k/(k-1)}\log(1/δ), & 1<k<2,\end{cases}\) up to constants depending only on \(k\).  

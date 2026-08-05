@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how large language models (LLMs) are reshaping Capture the Flag (CTF) competitions and raises concerns about fairness, ranking validity, and whether participation still yields genuine learning. By mapping the current human‑machine capability boundary across cryptography, web exploitation, and binary exploitation, the authors identify that easy and intermediate challenges are now reliably automated while narrower sub‑categories remain challenging. The study also uncovers a deeper source of community disagreement: an undeclared question about what a competition is for. To address this, the authors propose a four‑component safeguard framework—tiered divisions, LLM‑resistant challenge design, investigative telemetry, and a draft code of conduct—coupled with a decision tool that ties these measures to a competition’s declared purpose.  
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] LLMs can now solve easy and intermediate challenges in cryptography, web exploitation, and binary exploitation with minimal human input, while more specialized sub‑categories continue to resist automation.  
 - [Finding 2] The community’s debate about AI permission is downstream of an underlying question concerning the fundamental purpose of a competition, which influences fairness judgments.  

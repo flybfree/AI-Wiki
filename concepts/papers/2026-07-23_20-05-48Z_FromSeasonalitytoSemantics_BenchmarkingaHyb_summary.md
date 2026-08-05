@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper aims to develop a hybrid probabilistic forecasting system that predicts roadblocks in Bolivia by combining time series decomposition with natural language processing analysis of news data. It seeks to capture semantic signals of escalating social tension before incidents occur, improving logistical decision‑making. The study evaluates multiple configurations and compares them against statistical baselines across seven horizons using an expanding walk‑forward validation over 1,762 days. This work validates that semantic news signals enable detection of social tension peaks not captured by historical inertia, offering a technical tool for risk management in critical transport corridors.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - The integration of vector semantic embeddings and zero‑shot classification into a probabilistic forecasting framework yields superior predictive performance over traditional time series models.  
 - A hybrid configuration (Prophet + NLP, C6) achieves an AUC‑ROC of 0.677 at H+1 and reduces the Brier Score by 10.9% compared to the baseline temporal model, with statistically significant error reduction across all horizons (p < 0.02).  

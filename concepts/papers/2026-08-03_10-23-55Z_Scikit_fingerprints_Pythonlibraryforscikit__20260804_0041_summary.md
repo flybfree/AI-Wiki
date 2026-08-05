@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **scikit‑fingerprints**, a Python library that makes RDKit‑based molecular fingerprints fully compatible with the scikit‑learn machine‑learning ecosystem. By providing a single, unified interface for fingerprint generation, similarity and distance calculations, applicability domain estimation, data‑splitting strategies, and more, the authors aim to streamline chemoinformatics workflows from raw SMILES strings to deployable models. The library emphasizes composability, extensibility via RDKit, and computational efficiency, allowing users to prototype molecular machine‑learning experiments quickly and reproducibly. Ultimately, scikit‑fingerprints bridges the gap between cheminformatics tools and mainstream Python data‑science tooling.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [The library delivers a comprehensive set of molecular fingerprints that are natively compatible with scikit‑learn’s API, enabling seamless integration into existing ML pipelines.]  
 - [It offers a unified interface for filters, similarity measures, distance functions, and applicability domain estimation, reducing the need for multiple disparate modules.]  

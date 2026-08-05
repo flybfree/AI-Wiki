@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Multiclass classification remains challenging because of high inter‑class similarity, class imbalance, and heterogeneous data distributions. To overcome the limitations of single models—rule‑based learners like XGBoost that miss smooth functional patterns and neural networks that overfit—the authors introduce LFS‑FRAME, a leakage‑free stacked ensemble that fuses Kolmogorov‑Arnold Networks (KAN) for functional learning with XGBoost for rule‑based decision making. The framework guarantees no performance leakage by using a strict out‑of‑fold stacking strategy that isolates training and validation data completely. By leveraging heterogeneous base learners, the meta‑classifier exploits both global functional trends and sharp decision boundaries, delivering robust multiclass predictions.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 14 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The method employs a strict out‑of‑fold stacking approach to construct unbiased meta‑features, eliminating any performance leakage between training and validation sets.  
 - [Finding 2] It integrates KAN for smooth functional representation of data with XGBoost’s rule‑based learners to capture both global patterns and sharp decision boundaries simultaneously.  

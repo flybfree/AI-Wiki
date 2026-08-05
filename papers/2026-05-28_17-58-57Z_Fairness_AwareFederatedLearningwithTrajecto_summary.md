@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Federated learning enables collaborative model training across many clients while preserving privacy, yet conventional aggregation uses static weights that ignore unequal or time‑varying client contributions, leading to bias and instability. This paper introduces Trajectory Shapley Value (TSV) as a fairness metric that measures each client’s impact on the global model trajectory using validation‑based utilities. FedTSV converts these per‑round evaluations into dynamic client weights, allowing the server to respond in real time to heterogeneous or adversarial participation. The method thus provides a principled foundation for fairness‑aware federated optimization.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-56-57Z_EvolveNav_ProactivePreflectionandSelf_Evolv_summary.md|Summary: 2026-06-16_17-56-57Z_EvolveNav_ProactivePreflectionandSelf_EvolvingMemo.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Unde_summary.md|Summary: 2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeP_summary.md|Summary: 2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - TSV quantifies a client's contribution to the optimization trajectory via a temporally consistent utility derived from validation scores.  
 - FedTSV transforms these utilities into dynamic aggregation weights that adapt to heterogeneous or adversarial client participation each round.  

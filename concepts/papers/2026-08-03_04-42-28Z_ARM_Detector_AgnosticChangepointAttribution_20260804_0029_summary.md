@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces ARM (Attribution by Rank Maxima), a detector‑agnostic method that, given any changepoint location estimated by an arbitrary detector, returns the set of coordinates certified to have changed and assigns each a type label. It does so without requiring predefined coordinate groups or exact split locations, thereby addressing the incompleteness of existing block‑level procedures. ARM’s core innovation is using a max‑over‑splits rank statistic that dominates the estimator’s rank at the estimated changepoint, guaranteeing that the resulting certificate is invariant to both the detection method and its accuracy. The approach also provides rigorous finite‑sample error control across coordinates.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - Finite‑sample family‑wise error control via a Westfall–Young joint permutation test with a fully distribution‑free Holm fallback.  
 - Detector‑agnostic attribution: the max‑over‑splits rank statistic yields a certificate that is valid regardless of how accurately the changepoint estimate is obtained.  

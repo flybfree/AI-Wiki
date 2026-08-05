@@ -16,6 +16,11 @@ Model: None
 ## Summary
 Stream-CQSA addresses the quadratic memory burden of exact self-attention by introducing CQS Divide, a decomposition based on cyclic quorum sets theory. The method splits attention into independent subsequence computations whose results can be recomposed exactly, then schedules those subproblems with a memory-adaptive framework called Stream-CQSA. This allows exact attention to run within arbitrary memory budgets, including on a single GPU via streaming, without approximation error.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemo_summary.md|Summary: 2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 1 title term overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarc_summary.md|Summary: 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] — 1 title term overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Takeaways
 - Exact self-attention can fail from OOM even when near-linear-memory methods are otherwise available.
 - CQS Divide decomposes attention into schedulable independent subproblems.

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces ATLAS (Active Theory Learning for Automated Science), an active‑learning framework that automatically discovers interpretable mechanistic models of human behavior by iteratively generating hypotheses and designing experiments to distinguish them. By treating each hypothesis as a sparse neural network ensemble, ATLAS can explore a wide variety of candidate theories while minimizing the number of required observations. The approach is applied to the problem of recovering reinforcement‑learning agents from their behavior in bandit tasks, where it outperforms random experimentation by orders of magnitude. This work demonstrates that automated, theory‑driven scientific inquiry can accelerate insight generation across cognitive science and related fields.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 backlinks
+- [[concepts/papers/2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsI_summary.md|Summary: 2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsInvarian.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning_summary.md|Summary: 2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] ATLAS provides a systematic active‑learning framework for the discovery of mechanistic behavioral models in cognitive science.  
 - [Finding 2] The method employs an ensemble of sparse, disentangled recurrent neural networks (Disentangled RNNs) to represent diverse mechanistic hypotheses.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses memory traps in communication‑limited robot navigation where similar episodic memories may be unsafe due to changed environment or resource constraints. It proposes MemoGuard, an adaptive runtime that validates memory reuse against topology, battery margin, and outcome contracts before execution. By doing so it balances safety and efficiency better than simple similarity‑based fallback or always invoking reasoning. The approach is lightweight and runs on Jetson devices such as the AGX Xavier.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Memory trap detection via validation of episodic memories against topology, resource limits, and prior outcomes.]  
 - [An adaptive runtime that only invokes fallback when validation fails, preserving most memory reuse.]  

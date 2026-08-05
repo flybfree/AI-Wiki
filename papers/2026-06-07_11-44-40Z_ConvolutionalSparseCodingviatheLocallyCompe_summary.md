@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper introduces a Loihi 2 implementation of convolutional sparse coding using the Locally Competitive Algorithm (LCA), aiming to demonstrate that structured, spatially‑aware inference can be executed on neuromorphic hardware. By extending a one‑layer recurrent LCA formulation to include local inhibitory kernels derived from pairwise filter interactions, the authors provide the first benchmark comparing convolutional LCA against a conventional GPU baseline. The work clarifies under which operating regimes (e.g., input size, sparsity level) convolutional sparse inference becomes attractive on Loihi 2, positioning it as a useful reference point for future structured‑sparse workloads.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A complete implementation of convolutional LCA on the Loihi 2 neuromorphic chip is presented.  
 - [Finding 2] The study shows that convolutional sparse inference can achieve comparable or superior latency and energy efficiency to GPU‑based methods within a narrow operating regime.  

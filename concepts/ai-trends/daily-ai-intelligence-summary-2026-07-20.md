@@ -13,6 +13,10 @@ tags: [ai-trends, daily-summary, ai-news, intelligence, wiki]
 
 July 20 was a paper-heavy day. The dominant signals were about control surfaces: pruning irrelevant context, evaluating how language and prefixes steer models, and designing metrics or harnesses that actually measure the thing we care about. A second cluster focused on efficient multimodal systems, embodied control, and pathology/vision models that do more with less compute. The rest of the day leaned into causal inference, time-series structure, and retrieval as a policy mechanism. Overall, the field is still converging on the same practical question: how do we make models cheaper, more robust, and easier to control without losing quality?
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 3 title terms overlap, shared tags: wiki, 3 topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 3 title terms overlap, shared tags: wiki, 3 topic terms overlap
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 3 title terms overlap, shared tags: wiki, 3 topic terms overlap
 ## Key Themes
 
 ### 1. Context, prompting, and evaluation are still the main battleground

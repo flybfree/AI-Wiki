@@ -8,6 +8,11 @@ Model: None
 ## Summary
 The paper introduces SESA (Self-Evolving Skill-Augmented Agent), a novel framework that integrates persistent procedural memory into self-play training for large language models. By establishing a bidirectional loop between problem generation and skill acquisition, SESA allows agents to pose difficult questions, solve them using retrieved skills, and distill failures into reusable knowledge stored in an external bank. This mechanism ensures that the curriculum of generated problems co-evolves with the agent's growing expertise, addressing the lack of persistent state in traditional self-play methods. The approach demonstrates significant improvements in accuracy across multiple open-domain and multi-hop question-answering benchmarks compared to existing baselines.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 5 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+
 ## Key Contributions
 - **Co-Evolutionary Framework**: SESA establishes a dynamic feedback loop where the challenger agent generates problems based on current solver performance, while the solver retrieves skills from an evolving memory bank, ensuring that task difficulty and skill acquisition are mutually reinforcing.
 - **Dual-Benefit Memory Architecture**: The framework uniquely allows procedural memories to influence both the external retrieval bank for inference-time augmentation and the internal model parameters through on-policy training, enabling effective memory-free deployment alongside optional external assistance.

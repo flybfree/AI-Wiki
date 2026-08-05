@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 The article announces Google’s latest AI developments centered on Gemini, highlighting new app features, research breakthroughs for crisis resilience, and expanded developer tools. It emphasizes the shift toward agentic AI and how these innovations can improve everyday productivity and societal challenges.  
 
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1 — The Paradigm Shift: From Prompting to Loops]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Gemini App now includes Gemini Spark integrated with Chrome, enhancing real‑time search assistance.  
 - Google Research introduces three satellites that help monitor wildfires, linking AI to environmental crisis resilience.  

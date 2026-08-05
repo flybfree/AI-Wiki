@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates when machine‑learning surrogates can safely replace costly experiments in design optimization across chemistry and materials science. It shows that surrogate predictions alone cannot certify quality because they may produce misleading rankings, yet a rigorous audit framework can substitute evaluations at a quantified cost. The authors derive theoretical bounds on the “selection tax” and prove when audits are optimal. Their work provides a decision rule for when models may act as oracles without compromising safety.  
 
+## Semantic links
+- [[concepts/training-optimization/training-optimization-hub.md|Training and Optimization Hub]] — 2 title terms overlap; 505 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.02
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Surrogate predictions cannot be trusted to certify quality; any certification must rest on true experiments, leading to a selection‑tax bound.  
 - Finding 2: Trust can be purchased via optimal query‑complexity audits that preserve rank over accuracy and reduce oracle cost by up to 25%.  

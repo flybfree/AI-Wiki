@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper’s goal is to provide the first translation from Linear Temporal Logic (LTL) to LTLf+, a finite‑trace logic that retains LTL’s full expressive power while preserving the efficiency of finite automata techniques. By constructing a translation pipeline, the authors demonstrate that LTL can be expressed using LTLf+ without sacrificing any logical capability. The resulting automaton is built on finite words and can be determinized efficiently, echoing the advantages of LTLf. Importantly, the overall cost of this pipeline remains doubly exponential, which is asymptotically unchanged from traditional LTL‑to‑automata conversion.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors present a complete translation from LTL to LTLf+, establishing that every LTL formula can be represented in the finite‑trace logic.  
 - [Finding 2] They normalize an LTL formula into the reactivity fragment of the Manna–Pnueli hierarchy and provide linear component‑wise translations for each part of that fragment, yielding a systematic construction method.  

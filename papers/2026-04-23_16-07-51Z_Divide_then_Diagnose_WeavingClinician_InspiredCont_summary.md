@@ -16,6 +16,11 @@ Model: None
 ## Summary
 Divide-then-Diagnose introduces diagnosis-driven capsule endoscopy video summarization, where models extract evidence frames and produce diagnoses from ultra-long videos. The paper also presents VideoCAP and the DiCE framework, which screens candidates, weaves them into diagnostic contexts, and aggregates evidence across frames.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Takeaways
 - Extends capsule endoscopy research from frame-level analysis to video-level diagnosis.
 - VideoCAP provides 240 real clinical videos with diagnosis-driven annotations.

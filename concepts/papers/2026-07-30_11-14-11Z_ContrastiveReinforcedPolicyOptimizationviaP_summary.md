@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes Contrastive Reinforced Policy Optimization (CRPO), a novel framework that reformulates on‑policy self‑distillation as a contrastive learning problem to mitigate exposure bias in multi‑turn agentic settings. By exploiting predictive entropy, CRPO distinguishes reflective exploration from biased exposure, thereby preserving fine‑grained optimization signals. The approach aims to improve training stability and generalization for long‑horizon reasoning tasks where conventional OPSD methods suffer route convergence. Experimental results show that CRPO consistently outperforms existing RL and self‑distillation baselines across a suite of challenging benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_09-10-11Z_NippingtheButterflyEffectintheBud_Self_Outp_summary.md|Summary: 2026-07-23_09-10-11Z_NippingtheButterflyEffectintheBud_Self_OutputFine_.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-08-01_16-24-11Z_Multi_tenantKubernetesUseCasesforAI_SecureC_summary.md|Summary: 2026-08-01_16-24-11Z_Multi_tenantKubernetesUseCasesforAI_SecureComputin.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-07-31_07-44-11Z_Multi_GranularityPositionEmbeddingofGraphsv_20260803_0524_summary.md|Summary: 2026-07-31_07-44-11Z_Multi_GranularityPositionEmbeddingofGraphsviaGranu.md]] — 4 title terms overlap; 4 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - [Finding 1] Introduces Contrastive Reinforced Policy Optimization (CRPO), a contrastive reformulation of OPSD that uses predictive entropy to separate positive and negative positions.  
 - [Finding 2] Demonstrates that CRPO mitigates exposure bias, preventing reasoning route collapse in multi‑turn agentic environments.  

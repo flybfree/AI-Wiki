@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a transformer‑based framework for generating fine, regular, and star triangulations (FRSTs) of 4‑dimensional reflexive polytopes—a task that is notoriously difficult due to high dimensionality and combinatorial explosion. By encoding the geometric constraints into an appropriate input representation, the authors demonstrate that transformers can learn to produce representative FRSTs across a range of polytope sizes. Moreover, the generated triangulations are fed back into the model for retraining, enabling self‑improvement. This work thus bridges deep learning with algebraic geometry and offers a novel computational tool for both theoretical exploration and practical classification.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Transformers equipped with a custom encoding scheme can generate FRSTs of various polytope dimensions and sizes.  
 - [Finding 2] The model exhibits self‑improvement through retraining on its own output, leading to higher‑quality triangulations.  

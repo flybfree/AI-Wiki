@@ -15,6 +15,11 @@ Source: 2026-04-28_17-47-46Z_TowardaFunctionalGeometricAlgebraforNaturalLanguag.
 ## Summary
 Argues that geometric algebra, extended as Functional Geometric Algebra, offers a typed and compositional foundation for natural-language semantics beyond standard vector-space methods. The paper develops the formal basis, gives a worked example, and frames GA as a multivector algebra that can represent concepts and higher-order interactions in one structure.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 1 title term overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemo_summary.md|Summary: 2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] — 1 title term overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 1 title term overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Takeaways
 - Positions GA as a richer semantic representation than vectors, matrices, or tensors alone.
 - Aims to support inference, transformation, and interpretability.

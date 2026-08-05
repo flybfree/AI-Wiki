@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the limitation of binary bot detectors that cannot distinguish AI‑driven browser automation sessions from human traffic, a class that is neither fully human nor fully bot. By introducing a three‑class framework—human, bot, and AI agent—the authors demonstrate that adding an explicit “agent” label resolves misclassifications caused by the original binary assumption. Their experiments show that minimal feature sets can achieve perfect per‑class recall for agents while maintaining high precision across all evasion levels.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A three‑class detection framework eliminates the binary‑vs‑agent confusion, yielding per‑class agent F1 = 1.000 in every run of 30 experiments (3 model families × 10 seeds).  
 - [Finding 2] Adding an explicit “agent” class resolves all misclassifications; conversely, a binary classifier misroutes agents at rates of 39.1% (MLP) and 34.5% (SAINT transformer).  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces Graph Traversal Agent, an auditable root‑cause analysis system for Kubernetes incidents that combines LLM reasoning with deterministic graph operations to ensure evidence‑based conclusions. By mapping operational constraints into a typed incident graph and using LangGraph as a traversal state machine, the approach limits speculation and validates every proposed cause. The system is evaluated on a benchmark suite of 23 common scenarios, achieving a significant lift in root‑cause‑entity F1 score. A prompt‑level ablation shows that part of the improvement stems from scenario‑specific hints, indicating the value of generic, auditable reasoning.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 4 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - The authors introduce Graph Traversal Agent, an auditable RCA framework that integrates LLM inference with deterministic graph traversal and tool execution to produce verifiable root causes.  
 - They formalize operational constraints—read‑only evidence collection, propagation‑aware diagnosis, bounded execution, and independent validation—as a typed incident graph, enabling systematic search and verification.  

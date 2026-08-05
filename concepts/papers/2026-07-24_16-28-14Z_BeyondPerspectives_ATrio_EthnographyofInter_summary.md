@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces a trio‑ethnography that follows two computing educators with contrasting teaching philosophies and one undergraduate computer science student as they engage in three dialogue sessions about the use of generative AI in programming education. The study aims to move beyond surface‑level classroom observations toward a deeper, reflective understanding of how students’ AI‑supported learning unfolds. By juxtaposing educators’ assumptions with the student’s lived narratives, the authors reveal hidden learning processes that were previously invisible to teachers. Their contribution is a methodological framework and empirical evidence showing that such trio‑ethnography can reshape instructional practice in an era dominated by generative AI.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_15-03-14Z_IDEAgent_AgenticQuality_DiversitySearchforR_summary.md|Summary: 2026-07-24_15-03-14Z_IDEAgent_AgenticQuality_DiversitySearchforResearch.md]] — 3 title terms overlap; 1 backlink; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_17-39-14Z_QuantumSpectralModel_DataReuploadingwithInp_summary.md|Summary: 2026-07-24_17-39-14Z_QuantumSpectralModel_DataReuploadingwithInput_Cond.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The narrative accounts of the student expose learning pathways—such as self‑directed debugging, iterative experimentation, and tacit knowledge transfer—that are not captured by observable classroom behaviors.  
 - [Finding 2] Educators’ assumptions about AI use, assessment transparency, and pedagogical relevance are systematically challenged, prompting a re‑evaluation of their instructional strategies.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the problem that standard Word Error Rate (WER) overestimates errors when reference transcripts and ASR hypotheses contain identical words expressed in different scripts, a common occurrence in multilingual settings where models may output romanized text. To correct this bias, they introduce Script‑Normalized WER (SN‑WER), a training‑free evaluation metric that transliterates both strings into a language‑specific canonical script before applying conventional WER computation. SN‑WER reduces inflated model gaps by up to 12% on the curated FLEURS dataset and provides a reliable signal of genuine recognition errors, making it suitable for downstream multilingual pipelines such as search indexing or LLM prompting.  
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-34-10Z_OnDefiningErasureHarmsforNLP_summary.md|Summary: 2026-06-14_13-34-10Z_OnDefiningErasureHarmsforNLP.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] SN‑WER reduces inflated WER by up to 12% on the FLEURS dataset compared with baseline WER.  
 - [Finding 2] The metric shows a 67% attenuation of artificial romanization‑induced WER inflation, indicating it isolates real errors from script mismatches.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces Pion, a novel optimization algorithm designed specifically for the training of large language models (LLMs) that fundamentally differs from traditional additive optimizers like Adam or Muon. By leveraging orthogonal equivalence transformations, Pion updates weight matrices through left and right orthogonal operations, ensuring that the singular values of these matrices remain invariant throughout the entire training process. This unique approach allows the optimizer to modulate the geometric structure of the weights without altering their spectral norm, thereby preserving the intrinsic scale of the parameters. The authors provide a comprehensive theoretical analysis of the update rule, its design choices, and convergence properties, demonstrating that this spectrum-preserving mechanism offers a stable and competitive alternative to existing standard optimizers in both pretraining and fine-tuning scenarios.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing_summary.md|Summary: 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The proposal of Pion, a new optimizer that utilizes orthogonal equivalence transformations to maintain the singular value spectrum of weight matrices during training, contrasting sharply with additive methods that change spectral norms.
 - A rigorous theoretical framework that derives the Pion update rule, systematically analyzes its design choices, and establishes convergence behavior and key mathematical properties such as stability and geometry modulation.

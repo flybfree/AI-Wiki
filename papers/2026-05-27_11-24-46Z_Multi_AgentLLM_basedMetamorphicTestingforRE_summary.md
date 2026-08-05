@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 REST API validation is essential yet difficult because the test‑oracle problem makes it hard to know whether an API call returns a correct response. The authors propose ARMeta, a tool that leverages a multi‑agent language model (LLM) to generate metamorphic test scenarios from OpenAPI specifications and turn them into executable tests in Given‑When‑Then format. By automating the discovery of relationships between outputs, ARMeta complements traditional scenario‑based testing and uncovers previously unseen behaviours. The approach is evaluated on two public web applications, showing that it explores a broader set of validations than baseline methods.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - **Automated Metamorphic Scenario Generation:** An LLM‑driven multi‑agent workflow creates metamorphic test cases from OpenAPI documents without explicit oracle knowledge.  
 - **Execution Pipeline Integration:** The generated scenarios are automatically translated into runnable tests and executed against the system under test, closing the loop between specification and verification.  

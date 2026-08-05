@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper investigates the phenomenon of outlier tokens in Diffusion Transformers (DiTs) that appear both in the encoder and denoiser components of Representation Autoencoder‑based DiT pipelines. The authors show that these high‑norm tokens dominate attention while carrying little local information, leading to noticeable artifacts in generated images. Simple masking of extreme values proves ineffective, indicating a deeper issue with corrupted patch semantics rather than isolated outliers. To remedy this, they propose Dual‑Stage Registers (DSR), a register‑based intervention that can be trained when registers exist or fall back to recursive test‑time registration.  
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|AI/ML Foundations Lesson 09 - Attention and Transformers]] — 3 title terms overlap; 6 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenR_summary.md|Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Outlier tokens in Diffusion Transformers produce high‑norm representations that attract disproportionate attention yet convey limited local information, affecting both encoder and denoiser stages of RAE‑DiT pipelines.  
 - [Finding 2] Masking high‑norm tokens does not improve generation quality; the problem stems from corrupted semantics of local patches rather than merely extreme values.  

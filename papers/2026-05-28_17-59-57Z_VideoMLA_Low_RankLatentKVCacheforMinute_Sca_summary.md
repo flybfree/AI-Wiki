@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The authors of VideoMLA address the bottleneck of per‑head key‑value (KV) caches in long‑rollout causal video diffusion models. By introducing a shared low‑rank content latent and a decoupled 3D‑RoPE positional key, they replace the per‑token KV storage with a much smaller representation while preserving generation quality. Their work demonstrates that the effective rank of pretrained video attention is not limited by spectral assumptions but by the bottleneck imposed by the MLA design itself. The approach yields a 92.7 % reduction in streaming memory and a 1.23× throughput gain on a single B200 GPU, enabling minute‑scale autoregressive video diffusion.  
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe_summary.md|Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Unde_summary.md|Summary: 2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenR_summary.md|Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions
 - Finding 1: Replacing per‑head KV with a shared low‑rank latent reduces per‑token key‑value memory by 92.7 % at every cached layer.  
 - Finding 2: The effective rank of pretrained video attention remains near the full budget, so MLA’s compression does not degrade reconstruction quality despite high‑energy spectra.  

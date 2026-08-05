@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how multimodal large language models (MLLMs) generate textual claims about visualizations and whether those claims are directly supported by the supplied chart or merely model‑supplied interpretations. By systematically varying access to images, providing accessible chart context, and using withheld‑context framing, the authors explore the reliability of MLLM‑generated descriptions across 102 visualizations from four sources and three models. The study’s contribution is an empirical audit that quantifies numeric agreement between model labels (DIRECT, DERIVED, SPECULATIVE) and the actual data, revealing how prompt design influences claim credibility.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 1 backlink; 15 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Accessible chart context steers Gemini and GPT toward DIRECT claims and improves numeric agreement for some models.  
 - **Finding 2:** Adding the full image to the context does not consistently boost numeric benefit; benefits are uneven across models.  

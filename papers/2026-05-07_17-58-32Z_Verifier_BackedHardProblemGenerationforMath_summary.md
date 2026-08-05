@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes VHG (Verifier‑Backed Hard Problem Generation) as a framework that automatically creates challenging, valid mathematical problems for LLM training without relying on costly human experts. By embedding an independent verifier into the setter‑solver duality of self‑play, VHG ties the reward to both problem validity and difficulty, thereby preventing reward hacking. The authors demonstrate that this approach yields significantly higher performance than existing baselines across indefinite integral tasks and broader reasoning problems.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A verifier‑enhanced hard problem generation scheme that jointly optimizes validity (checked by a verifier) and difficulty (assessed by the solver).  
 - [Finding 2] Two complementary verifiers: a Hard symbolic verifier for exact validation and a Soft LLM‑based verifier for probabilistic confidence.  

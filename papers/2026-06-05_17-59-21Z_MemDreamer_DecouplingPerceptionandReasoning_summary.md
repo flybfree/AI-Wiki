@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 MemDreamer tackles the challenge of understanding hours‑long videos by separating perception from reasoning, allowing each stage to operate independently. The authors propose a hierarchical graph memory that stores spatiotemporal and causal relations in a top‑down three‑tier structure, while an agentic retrieval mechanism enables the reasoning model to explore this graph through an Observation‑Reason‑Action loop. By plugging this framework into existing vision‑language models, MemDreamer can process long video sequences without exploding token counts or diluting attention. Experiments demonstrate that it reaches state‑of‑the‑art performance across four mainstream benchmarks, closing the gap with human experts to only 3.7 points.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_Mo_summary.md|Summary: 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLon_summary.md|Summary: 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces a Hierarchical Graph Memory—a top‑down three‑tier architecture that captures spatiotemporal and causal relations in a foundational graph.  
 - [Finding 2] Implements an agentic retrieval loop (Observation‑Reason‑Action) where the reasoning model navigates the hierarchy, searches nodes, and traverses logical edges to retrieve relevant information.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Machine unlearning aims to erase personal data from large language models, but most existing benchmarks assume a uniform distribution of identities and do not reflect real‑world demographic imbalances. This paper introduces FAIRGET, the first Visual Question Answering benchmark that evaluates unlearning under unbalanced, realistic forget requests, and FAUN, an algorithm that unlearns identities while preserving fairness. The study demonstrates that standard unlearning can produce biased behavior when certain groups are over‑ or under‑represented in removal data. By addressing these imbalances, the authors achieve superior unlearning quality together with fairer model outputs.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World__summary.md|Summary: 2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World_Grounde.md]] — 4 title terms overlap; 4 backlinks; 14 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] FAIRGET provides a benchmark for visual question answering that includes diverse, realistically imbalanced forget requests across demographic groups, enabling systematic evaluation of fairness‑aware unlearning.  
 - [Finding 2] FAUN introduces a bias‑aware activation steering mechanism that selectively removes identity information while compensating for uneven request frequencies to maintain model fairness.  

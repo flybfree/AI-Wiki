@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the difficulty of recognizing handwritten Bangla compound characters, which suffer from complex structures and limited high‑quality data. It introduces a confidence‑guided diffusion augmentation framework that synthesizes realistic compound character images using class‑conditional diffusion modeling and classifier guidance. The authors enhance generation quality with Squeeze‑and‑Excitation residual blocks inside the U‑Net backbone and employ a confidence‑based filtering mechanism to keep only highly class‑consistent samples. After generating and filtering these synthetic images, they fuse them with original data to retrain multiple classification models.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** A class‑conditional diffusion model that generates high‑quality Bangla compound characters from low‑resolution inputs, enabling synthesis of missing or degraded training examples.  
 - **Finding 2:** Integration of Squeeze‑and‑Excitation enhanced residual blocks into the U‑Net backbone to improve feature extraction and reduce mode collapse during diffusion sampling.  

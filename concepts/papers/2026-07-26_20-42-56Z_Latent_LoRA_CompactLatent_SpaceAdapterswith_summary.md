@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes **Latent‑LoRA**, a method for continual learning that learns new tasks without catastrophic forgetting by leveraging the latent space of frozen LLM embeddings. Instead of training separate adapters or gating modules, it uses a Gaussian mixture model fitted on pooled token embeddings to select task‑specific adapters at inference time. Each adapter is constrained to the principal subspace of the pretrained weight matrix via SVD, enabling compact parameterization and orthogonal regularization that suppresses inter‑task interference. The approach eliminates trainable routing components, making it replay‑free and requiring only a few hundred parameters per new task.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A Gaussian mixture model fitted on frozen LLM token embeddings provides a gradient‑free, task‑agnostic routing mechanism that selects the correct adapter at test time.  
 - [Finding 2] Constraining each task’s LoRA parameters to the principal subspace of the pretrained weight matrix yields a compact latent‑space parameterization with orthogonal regularization.  

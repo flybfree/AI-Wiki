@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of maintaining human oversight over autonomous AI agents that may exceed human capabilities, especially in sequential planning scenarios. It proposes Calibrated Collective Oversight (CCO), a framework that aggregates auxiliary scoring functions to impose a conservative penalty on actions based on overseer concern. CCO calibrates conservatism online using Conformal Decision Theory, guaranteeing that undesirable outcomes stay below user‑specified thresholds without distributional assumptions. The method enables collective conservatism where high‑utility actions are still chosen when overseers find them acceptable and only penalized as concern accumulates. Empirical evaluations on SWE‑bench and MACHIAVELLI show that weaker overseers can constrain misaligned stronger agents while preserving reward, with violation rates matching targets.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetwork_summary.md|Summary: 2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CCO introduces a collective conservatism penalty proportional to overseer concern, enabling scalable oversight without complex assumptions.  
 - [Finding 2] The framework uses Conformal Decision Theory for online calibration, delivering finite‑time guarantees on undesirable outcomes and no distributional assumptions.  

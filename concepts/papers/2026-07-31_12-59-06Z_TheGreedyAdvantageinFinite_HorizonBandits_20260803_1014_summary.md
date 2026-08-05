@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper addresses the critical gap between theoretical multi-armed bandit algorithms and their practical application in finite-horizon settings, where experimentation must conclude within a strictly imposed timeframe. The authors argue that while asymptotic regret guarantees are well-established, they often fail to capture the transient dynamics essential for short-term decision-making processes common in organizational contexts. To bridge this divide, the study introduces a novel class of regularized greedy algorithms specifically designed for multi-armed Bernoulli bandits operating under finite horizons. By deriving the first finite-horizon regret envelopes for these policies, the work provides a rigorous theoretical framework that explains how exploration costs and convergence rates interact, offering principled calibration rules that significantly enhance practical performance over classical methods.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 6 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 14 summary/topic terms overlap
+
 ## Key Contributions
 - Theoretical Derivation: The authors establish the first finite-horizon regret envelopes for regularized greedy bandits, mathematically decomposing regret into transient exploration costs and an exponentially decaying suboptimal convergence term dependent on regularization strength.
 - Calibration Framework: They develop principled calibration rules for regularization parameters, allowing practitioners to systematically tune algorithms for specific horizon lengths, which also yields sharper regret guarantees for the classical greedy policy as a limiting case.

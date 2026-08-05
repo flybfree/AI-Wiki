@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of rating time‑series (TS) data quality by moving beyond static, dimension‑specific LLMs to a dynamic agentic framework. It introduces TSQAgent, which coordinates three roles—Perceiver, Inspector, and Adjudicator—to automatically identify relevant quality dimensions and perform grounded quantitative comparisons. Experiments on a custom benchmark and eleven real datasets show that this approach markedly improves LLM performance in both understanding and comparison tasks, translating into better downstream data selection. The work thus advances the state of the art by providing an agentic reasoning pipeline for reliable TS quality assessment.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAll_summary.md|Summary: 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Current LLMs consistently fail to identify truly relevant quality dimensions and cannot perform evidence‑grounded quantitative comparisons on time‑series data.  
 - [Finding 2] The authors construct TSQBench, a progressive benchmark that tests dimension identification and dimension‑wise comparison capabilities.  

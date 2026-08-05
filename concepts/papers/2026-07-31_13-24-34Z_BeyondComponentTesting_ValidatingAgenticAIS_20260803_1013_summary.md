@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of validating Agentic AI systems, arguing that traditional component testing and one-shot input-output evaluations are insufficient for assessing complex, multi-step decision-making processes. By synthesizing insights from 257 diverse papers across agent evaluation, software assurance, and regulatory domains, the authors propose a comprehensive five-dimension taxonomy to characterize the validation landscape. The study highlights significant gaps in temporal validity and runtime evidence maintenance while demonstrating that behavioral evaluation remains the most mature area of research. Ultimately, the work advocates for a lifecycle-oriented approach focused on validating trajectories within their specific operational contexts rather than isolated system components.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 2 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_19-26-50Z_Multi_AgentDebateStrategies_Survey_Taxonomy_summary.md|Summary: 2026-07-28_19-26-50Z_Multi_AgentDebateStrategies_Survey_Taxonomy_andCha.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-07-22_00-05-34Z_AnatomyofaSoundNeuralReasoner_One_ShotAmort_summary.md|Summary: 2026-07-22_00-05-34Z_AnatomyofaSoundNeuralReasoner_One_ShotAmortization.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.06
+
 ## Key Contributions
 - **A Novel Five-Dimension Taxonomy**: The authors introduce a structured framework categorizing validation concerns into behavioral, safety, temporal, regulatory, and multi-agent dimensions, providing a unified language for analyzing agentic system assurance.
 - **Identification of Critical Validation Gaps**: Through extensive literature analysis, the paper exposes that while behavioral evaluation is relatively mature, areas such as temporal validity, runtime evidence maintenance, and open-ended multi-agent system assurance remain severely under-developed and lack standardized methodologies.

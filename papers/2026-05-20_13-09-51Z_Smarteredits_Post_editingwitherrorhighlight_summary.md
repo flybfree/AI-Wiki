@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research paper investigates the practical utility of integrating Large Language Model (LLM)-derived error highlights and automatic post-editing (APE) correction suggestions into the workflow of professional translators. The primary goal is to determine whether these advanced, AI-driven features can enhance the efficiency and quality of post-editing machine-translated text compared to traditional methods. The authors specifically compare a condition using APE-generated suggestions against standard post-editing and post-editing with Quality Estimation (QE)-derived highlights. The study aims to fill a critical gap in the literature by providing empirical evidence on the effectiveness of newer, LLM-based assistance tools in real-world translation scenarios.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLon_summary.md|Summary: 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The study provides the first comparative empirical evidence regarding the impact of LLM-derived error highlights and correction suggestions versus traditional QE-derived highlights on professional translator performance.
 - It demonstrates that while neither APE highlights nor correction suggestions significantly improved raw productivity or translation quality metrics compared to regular post-editing, they offered distinct advantages in user experience.

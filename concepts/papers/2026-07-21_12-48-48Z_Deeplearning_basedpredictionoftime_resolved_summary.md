@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors address the need for a fast, accurate surrogate to predict the full time‑resolved adhesive force response of viscoelastic Hertzian contacts, which is essential for real‑time soft‑robotics and manipulation tasks. By training a stateful sequence‑to‑sequence deep learning model that can ingest a prescribed displacement history, they generate predictions across four orders of magnitude in loading rates and dwell times while preserving physical time information. The approach replaces costly numerical simulations with a lightweight inference pipeline capable of delivering full force trajectories within milliseconds. This work bridges the gap between analytical theory and practical control loops by providing a rapid surrogate for repeated evaluations.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A scalar‑conditioned, stateful LSTM architecture achieves the lowest mean‑squared error (≈5 × 10⁻⁴) among tested models.  
 - [Finding 2] The model’s median pull‑off‑force error is ≈2.2 % and hysteresis error ≈1.1 %, demonstrating high fidelity across heterogeneous Tabor parameters (0.2–3.2).  

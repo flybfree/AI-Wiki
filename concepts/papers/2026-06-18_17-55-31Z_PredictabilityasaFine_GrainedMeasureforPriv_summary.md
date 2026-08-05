@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes **predictability** as a fine‑grained privacy metric that quantifies how much an attacker’s knowledge—beyond any compromised portion of the data and prior information—allows them to infer sensitive attributes about unknown individuals after observing algorithmic outputs. It argues that predictability is distinct from differential privacy (DP), which can be large while predictability remains small, and vice‑versa. The authors show that in the extreme worst‑case where all but one individual’s data are compromised and binary queries are considered highly sensitive, predictability coincides with mutual‑information DP. Their contribution is a theoretical framework for analyzing this fine‑grained leakage using the generalized method of moments (GMM) under stationary, ergodic mixing processes.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_Wise_summary.md|Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Predictability measures privacy leakage as the incremental gain in an attacker’s ability to predict unknown individuals’ information after seeing algorithmic outputs, beyond what is already inferable from compromised data.  
 - [Finding 2] In the worst‑case regime (all but one individual compromised, binary queries sensitive), predictability implies mutual‑information DP, establishing a theoretical equivalence under those conditions.  

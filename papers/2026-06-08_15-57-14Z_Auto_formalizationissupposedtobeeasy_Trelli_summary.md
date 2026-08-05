@@ -16,6 +16,11 @@ Model: None
 ## Summary  
 This paper introduces Trellis, an autoformalization system designed to produce rigorous Lean proofs by leveraging Large Language Models (LLMs) within a deterministically constrained workflow that enforces incremental progress. The authors argue that true rigor in mathematics is not about producing the shortest possible proof but about being able to elaborate any part of it further, and Trellis operationalizes this idea through process semantics. By connecting natural language proofs to Lean formalizations via an iterative refinement loop, Trellis aims to make autoformalization more reliable and accessible without requiring task-specific training. The system demonstrates success on a recent Ramsey theory breakthrough, showing that generalist agents can produce correct formalizations when guided by a rigor-focused process.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFi_summary.md|Summary: 2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFine_Tuni.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnno_summary.md|Summary: 2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Trellis introduces a new workflow for autoformalization that emphasizes incremental refinement of proofs rather than generating complete proofs in one step.  
 - [Finding 2] The system uses process semantics to enforce meaning-of-rigor, ensuring that each step of the proof can be elaborated logically and consistently within Lean.  

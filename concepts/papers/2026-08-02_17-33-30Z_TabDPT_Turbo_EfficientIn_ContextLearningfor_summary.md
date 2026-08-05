@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 TabDPT‑Turbo addresses the need for efficient in‑context learning (ICL) in tabular prediction by delivering performance comparable to prior foundation models while being orders of magnitude faster. It eliminates reliance on cell architectures or external retrieval mechanisms, instead using a row‑based attention mechanism and long‑context pre‑training on a larger corpus of real data. The model also benefits from SSL training that enhances representation learning with minimal fine‑tuning effort.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|AI Agents Lesson 5 - Retrieval, Context, and Long-Context Work]] — 4 title terms overlap; 2 backlinks; 4 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Introduces a row‑based attention mechanism that enables efficient processing of long sequences without sacrificing performance.  
 - Finding 2: Achieves long‑context pre‑training on a newly sourced, larger corpus of real‑world data to reduce reliance on external retrieval and improve generalization.  

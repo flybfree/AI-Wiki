@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors address the problem of fragmented experimental literature in thermochemical plastic upcycling by developing a Physics‑Calibrated, Missingness‑Gated, Load‑Balanced Mixture‑of‑Experts (PC‑MG‑MoE) framework that learns directly from partially observed data without resorting to target imputation. Their method reconstructs physically consistent product distributions, accommodates cross‑laboratory heterogeneity, and delivers interpretable design guidance rather than a black‑box prediction. The framework is validated on source‑grouped experiments and compared with wet‑lab measurements, showing superior performance in error metrics and actionable insights for experimental planning.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] PC‑MG‑MoE converts structured missingness into an informative learning signal, enabling direct training from incomplete experiment records without target imputation.  
 - [Finding 2] Under stringent source‑grouped validation the model achieves the lowest aggregate absolute error among all evaluated approaches, outperforming baselines that rely on imputed targets or simpler MoEs.  

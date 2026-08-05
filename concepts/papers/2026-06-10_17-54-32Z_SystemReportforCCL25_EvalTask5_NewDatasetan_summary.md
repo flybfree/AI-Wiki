@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the limited availability of high‑quality, domain‑specific data for precise translation and affective‑semantic understanding of classical Chinese poetry. It introduces a new dataset—CCPoetry‑49K—comprising 49,404 instruction‑response pairs that explicitly optimize this task. The authors also develop PoetryQwen, a LoRA‑fine‑tuned version of Qwen2.5‑14B that outperforms the baseline on the CCL25‑Eval Task 5 benchmark. These contributions demonstrate that targeted dataset creation and low‑rank adaptation can significantly boost performance in classical poetry appreciation.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 backlinks
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Construction of CCPoetry‑49K, a 49,404‑pair instruction‑response dataset optimized for term interpretation, semantic interpretation, and emotional inference.]  
 - [Fine‑tuning Qwen2.5‑14B with LoRA to produce PoetryQwen, which raises the CCL25‑Eval Task 5 score from 0.690 (baseline) to 0.757, a 9.7% improvement.]  

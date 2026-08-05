@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses a long‑standing limitation in nonlinear adaptive filtering: most algorithms only correct for output noise while ignoring the pervasive influence of input noise. By extending the bias‑compensated kernel least mean square (BCKLMS) framework, the authors introduce the random Fourier bias‑compensated filter under general adaptive function (RFFBCGA), which simultaneously mitigates input errors and preserves a fixed network structure. The proposed RFFBCGA algorithm leverages random Fourier features to better characterize the input signal and employs a flexible GA function to enhance robustness against non‑Gaussian output noise, thereby improving time‑series prediction performance.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The RFFBCGA algorithm integrates bias compensation with random Fourier feature representation, allowing the filter to retain a fixed network size while still capturing complex input dynamics.  
 - [Finding 2] By embedding the BC term within a general adaptive function (GA), the method achieves superior robustness against non‑Gaussian output noise compared with traditional LMS‑based approaches.  

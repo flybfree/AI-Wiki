@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces TFlow (Thought Flow), a novel weight-space communication framework designed to enhance the efficiency of multi-agent Large Language Model (LLM) systems. By replacing traditional natural-language message passing with transient, receiver-specific weight perturbations, TFlow allows sender agents to directly influence the receiver's internal computations without expanding the context window. This approach significantly reduces the computational overhead associated with token serialization, prefilling, and KV-cache management inherent in text-based collaboration. The framework demonstrates that low-rank LoRA perturbations can serve as an effective, executable medium for inter-agent communication, offering substantial gains in both accuracy and inference speed.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - **Weight-Space Communication Paradigm**: The authors propose a new interface where sender agents process inputs and a learned parameter generator maps their hidden states into low-rank LoRA perturbations. These perturbations are applied directly to the receiver's modules during generation, enabling instance-level adaptation without permanently altering the model architecture or weights.
 - **Significant Efficiency Gains**: TFlow achieves a reduction in total processed tokens by up to 83.27% compared to text-based multi-agent baselines. Additionally, it reduces wall-clock inference time by up to 4.6 times, addressing the critical bottlenecks of latency and memory usage in collaborative LLM systems.

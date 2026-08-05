@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces a cross‑domain hybrid On‑Policy Distillation (OPD) framework for the Yuanbao search agent, designed to achieve specialized search performance without sacrificing general intelligence. By integrating agentic reinforcement learning with expert distillation from complementary domains, the framework jointly optimizes both specialization and generalization, thereby mitigating the alignment tax that typically limits universal assistants.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-27_08-41-18Z_Agent_UCT_UpperConfidenceBoundsAppliedtoTre_summary.md|Summary: 2026-07-27_08-41-18Z_Agent_UCT_UpperConfidenceBoundsAppliedtoTreesforAg.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.07
+
 ## Key Contributions  
 - [Finding 1] The framework mitigates the alignment tax by jointly optimizing specialization and general capabilities.  
 - [Finding 2] It leverages cross‑domain expert OPD to distill complementary general‑purpose expertise into a search‑specialized student.  

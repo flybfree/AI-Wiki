@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Hierarchical Graph Retrieval‑Augmented Generation (GraphRAG) organizes knowledge across multiple granularities but relies on a static context construction that often cannot match the specific needs of a given query, creating a representation‑inference gap. This paper proposes ACE‑GraphRAG, an inference‑time policy layer that dynamically refines the initial context to better suit the current task and query. The contribution consists of three key findings: (1) the existence of this gap, (2) a policy‑driven approach for gap‑aware evidence retrieval from both depth‑oriented factual and breadth‑oriented semantic branches, and (3) two implementation modes—Full‑ACE and Adaptive‑ACE—that adapt context construction to tasks or graph topologies. By treating context building as a query‑dependent inference process rather than a fixed procedure, ACE‑GraphRAG aims to close the gap between hierarchical representations and task‑specific generation.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_12-27-25Z_OmniPhys_Knowledge_Graph_DrivenBenchmarking_summary.md|Summary: 2026-07-28_12-27-25Z_OmniPhys_Knowledge_Graph_DrivenBenchmarkingandColl.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search and Retrieval Hub]] — 2 title terms overlap; 332 backlinks; 3 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The representation‑inference gap exists when hierarchical GraphRAG’s multi‑resolution contexts are not aligned with individual query requirements.  
 - [Finding 2] ACE‑GraphRAG introduces an inference‑time policy layer that performs gap‑aware refinement and consolidates supplementary evidence from parallel retrieval branches while preserving provenance and abstraction levels.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper tackles the scalability problem inherent in Markov Decision Processes (MDPs) by introducing a novel notion of causality on factored state spaces and a property‑driven causal abstraction technique. By grouping states that share identical reasons for satisfying or violating a given abstractive property, the authors produce compact representations that retain much of the original MDP’s dynamics. The approach is evaluated both theoretically across model families such as MDPs, interval MDPs, and stochastic games, and empirically on standard benchmark tasks. The results show that these abstractions can be small enough to compute near‑optimal policies while generalizing to related large‑scale models.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A formal definition of causality over factored state variables, enabling the identification of causal dependencies between predicates and states.  
 - [Finding 2] A property‑driven abstraction scheme that clusters states based on their shared reasons for fulfilling a specified abstraction property, producing minimal state sets.  

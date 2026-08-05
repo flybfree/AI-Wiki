@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Graph Foundation Models (GFMs) aim to learn reusable knowledge that can be applied across diverse graph domains, thereby reducing the need for domain‑specific architectures. The paper identifies heterogeneous node features as a major barrier because their dimensionality and semantics differ widely between datasets. To overcome this, the authors propose SliGFM, which orders feature dimensions by topological smoothness and encodes them with a shared sliding‑window transformer to produce a common space of fixed‑dimensional tokens. A generative reconstruction objective is also introduced to preserve original information while enabling cross‑domain transferability.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors formulate four desiderata for cross‑domain graph feature unification: formal uniformity, cross‑domain transferability, information preservation, and backbone compatibility.  
 - [Finding 2] SliGFM orders feature dimensions by topological smoothness and uses a shared sliding‑window feature encoder to transform heterogeneous features into an ordered fixed‑dimensional space of tokens.  

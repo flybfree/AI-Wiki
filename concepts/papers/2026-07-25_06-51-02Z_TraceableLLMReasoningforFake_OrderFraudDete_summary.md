@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of detecting fake‑order fraud at scale by introducing a traceable reasoning framework that leverages large language models (LLMs). DeepScrub converts heterogeneous risk signals into textual descriptions, continuously pre‑trains LLMs on domain‑specific corpora, and uses an expert‑feedback loop to iteratively refine reasoning paths. The system achieves state‑of‑the‑art performance on a real‑world fraud dataset while dramatically reducing manual review workloads.  
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A semantic unification module that transforms diverse risk signals into coherent textual prompts, enabling LLMs to process heterogeneous data uniformly.  
 - [Finding 2] Continued pre‑training on risk‑control corpora combined with task rewards that jointly optimize prediction accuracy and reasoning quality, creating a self‑improving model loop.  

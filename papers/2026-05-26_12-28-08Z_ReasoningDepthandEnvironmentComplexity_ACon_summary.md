@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a controlled study of reinforcement learning with verifiable rewards (RLVR) to understand how two independent dimensions—reasoning depth and environment complexity—shape model performance on logical reasoning tasks. By treating difficulty as a combination of these factors rather than a single metric, the authors aim to reveal systematic trade‑offs and design principles for allocating data across tasks. Their contribution is a synthetic knowledge‑graph environment that varies instances along depth, complexity, and task family, enabling precise measurement of how each factor influences model learning. The study demonstrates that joint coverage of both dimensions yields better outcomes than single‑axis strategies and uncovers non‑uniform responses across reasoning abilities.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsfo_summary.md|Summary: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTranspo_summary.md|Summary: 2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Joint depth‑complexity coverage outperforms single‑axis recipes for data allocation, indicating that optimizing both dimensions simultaneously improves model performance.  
 - [Finding 2] Reasoning families respond non‑uniformly: abductive reasoning degrades outside the RL‑covered region, while task correlations cluster into deductive‑abductive and inductive‑analogy pairs.  

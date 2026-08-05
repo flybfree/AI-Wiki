@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **RoboBRIDGE**, a modular framework that bridges pretrained Vision‑Language‑Action (VLA) models to robust real‑world robotic agents. It does so by composing five coordinated modules—Monitor, Perceptor, Planner, Controller, and Robot Interface—into an orchestration layer that handles failure detection, replanning, perception updates, and domain‑invariant skill adaptation. The framework is designed to turn a single pretrained VLA into a reliable agent capable of operating across diverse tasks, robots, and environments without extensive retraining. By systematically addressing the limitations of standalone VLA deployments, RoboBRIDGE provides a general solution for scalable robotic agency.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_Act_20260803_1025_summary.md|Summary: 2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_ActionRein.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.13
+- [[concepts/papers/2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_Act_20260803_1023_summary.md|Summary: 2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_ActionRein.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.13
+
 ## Key Contributions  
 - **Finding 1:** Introduces a modular orchestration framework (Monitor‑Perceptor‑Planner‑Controller‑Robot Interface) that composes pretrained VLAs into robust agents.  
 - **Finding 2:** Implements rapid failure detection with hierarchical recovery to prevent cascading errors and maintain execution continuity.  

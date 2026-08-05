@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Conformal prediction (CP) offers a distribution‑free method for quantifying uncertainty, yet applying it to graph neural networks (GNNs) is hampered by combinatorial issues that produce unreliable embeddings and inefficient prediction sets. This paper introduces **GRAPHLCP**, a structure‑aware localized CP framework that explicitly incorporates the topology of graphs into both localization and weighting. The approach yields finite‑sample marginal coverage guarantees while delivering efficient conditional test coverage across various conditioning scenarios.  
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextua_summary.md|Summary: 2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces feature‑aware densification to mitigate locality bias in sparse graphs.  
 - [Finding 2] Implements a personalized PageRank‑based kernel computation that models structural proximity and captures long‑range dependencies.  

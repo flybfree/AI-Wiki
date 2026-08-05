@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 DocOps introduces a verifiable benchmark for autonomous agents tasked with complex document operations, aiming to assess their reliability in manipulating digital documents across real‑world workflows. The framework decomposes these tasks into atomic dimensions using a hierarchical taxonomy, enabling systematic evaluation of both closed‑ and open‑source models within various agentic harnesses. By exposing persistent failure modes, DocOps clarifies the capability boundaries of current AI agents in maintaining global document consistency.  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 4 title terms overlap; 11 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 5 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The hierarchical taxonomy of docops decomposes real‑world document operations into atomic dimensions that scale from simple extraction to multi‑step editing, providing a granular benchmark for autonomous agents.  
 - [Finding 2] Experimental evaluation across multiple models reveals that even frontier configurations suffer from long‑term state tracking collapse when handling tasks requiring sustained context over extended interactions.  

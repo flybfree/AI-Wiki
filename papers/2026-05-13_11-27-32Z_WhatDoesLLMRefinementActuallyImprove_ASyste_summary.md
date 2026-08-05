@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper investigates the efficacy and mechanisms of iterative self-refinement in document-level literary translation, a domain where context is critical yet refinement strategies remain poorly understood. The authors conduct a systematic study across nine large language models and seven language pairs to determine which pipelines yield the most significant quality improvements. They analyze various granularity combinations and refinement strategies to identify robust recipes for enhancing translation output. The study ultimately reveals that while refinement improves fluency and style, it often fails to correct factual errors and may bias outputs toward the refiner's own distribution rather than fixing specific mistakes.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetan_summary.md|Summary: 2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions
 - **Optimal Granularity Strategy**: The study identifies a robust recipe where document-level machine translation followed by segment-level refinement yields strong and stable improvements, whereas pure document-level refinement often results in fewer edits and less reliable gains.
 - **Prompting Efficacy**: A simple, general refinement prompt consistently outperforms complex error-specific prompting and evaluate-then-refine schemes, suggesting that simpler instructions are more effective for guiding LLM behavior during refinement.

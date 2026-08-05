@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research paper introduces a novel autonomous framework that leverages Large Language Models (LLMs) guided by tree search algorithms to automate the creation and optimization of infectious disease forecasting models. The primary goal is to eliminate the labor-intensive bottleneck of manual model curation, which currently restricts the scalability and granularity of public health predictions. By enabling the system to iteratively generate, evaluate, and refine executable software, the authors demonstrate a shift from bespoke human-led development to scalable, machine-driven epidemiological modeling. The study validates this approach through a fully prospective, real-time evaluation during the 2025-2026 US respiratory season, showcasing its ability to handle complex, multi-pathogen scenarios without human intervention.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesoc_summary.md|Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions
 - The development of an autonomous system that uses LLM-guided tree search to discover methodologically diverse forecasting models for influenza, COVID-19, and RSV, effectively automating the entire modeling pipeline from theory to code.
 - Empirical evidence that ensembles of machine-generated models consistently match or outperform the gold-standard, human-curated ensembles provided by the CDC Hub in out-of-sample prospective forecasting tasks.

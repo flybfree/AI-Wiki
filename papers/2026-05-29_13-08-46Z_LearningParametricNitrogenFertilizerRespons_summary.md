@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper aims to develop a neuro symbolic regression (SR) framework that can learn parametric nitrogen fertilizer response curves without predefining functional forms, enabling site‑specific modeling across management zones. It integrates a transformer‑based Multi‑Set Symbolic Skeleton Prediction strategy to discover shared structural patterns from diverse input subsets and enforce consistency. The method then fits these skeletons to observed data using a genetic algorithm. This approach is evaluated on synthetic one‑dimensional problems and applied to real winter wheat data, showing improved fit and functional diversity compared with traditional models.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A neuro symbolic regression framework that discovers parametric N‑response curves without assuming predefined forms.  
 - [Finding 2] The use of a transformer‑based Multi‑Set Symbolic Skeleton Prediction to uncover shared functional skeletons across multiple management zones.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces **Social Gaze Consistency**, a high‑level semantic cue that measures the mutual coherence of gaze direction, head‑eye alignment, and pupil placement between interacting individuals in an image. By exploiting this cue, the authors demonstrate a previously underutilized detection axis that is orthogonal to low‑level pixel or frequency artifacts, thereby improving AI‑generated image detection across vision‑language models.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe_summary.md|Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - **Finding 1:** Social Gaze Consistency provides a high‑level semantic cue for detecting AI‑generated images.  
 - **Finding 2:** A controlled diagnostic dataset with region‑specific gaze perturbations shows the cue’s effectiveness without relying on augmentation or memorization of generator fingerprints.  

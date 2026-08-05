@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper addresses the critical challenge of maintaining visual consistency for specific entities—such as characters, objects, and locations—across long-range, multi-shot video narratives. The authors introduce EntityBench, a comprehensive benchmark comprising 140 episodes and 2,491 shots derived from real narrative media, designed to rigorously test entity consistency over extended sequences. To facilitate this evaluation, they propose a three-pillar assessment suite that disentangles intra-shot quality from cross-shot consistency, employing a fidelity gate to ensure only accurate entity appearances are scored. Furthermore, the study presents EntityMem, a novel memory-augmented generation system that significantly improves character fidelity by storing verified visual references in a persistent memory bank prior to generation.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 4 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - **EntityBench Benchmark**: The introduction of a large-scale, structured benchmark with explicit per-shot entity schedules, featuring easy/medium/hard tiers and tracking up to 13 cross-shot characters and 22 cross-shot objects across sequences of up to 50 shots.
 - **Three-Pillar Evaluation Suite**: A novel evaluation framework that separates intra-shot quality, prompt-following alignment, and cross-shot consistency, utilizing a fidelity gate to prevent false positives in consistency metrics.

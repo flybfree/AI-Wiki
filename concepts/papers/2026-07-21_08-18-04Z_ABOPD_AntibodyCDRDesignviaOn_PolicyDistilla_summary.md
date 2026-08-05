@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Antibodies are therapeutic agents whose complementarity‑determining regions (CDRs) mediate antigen binding, and CDR‑H3 loops are especially prone to structural drift during standard denoising training. The authors propose ABOPD, an antibody design framework that employs on‑policy distillation to supervise the model’s own denoising trajectory with privileged native geometry. This fine‑grained supervision prevents cumulative backbone deviations in CDR‑H3 generation, leading to a substantial improvement in structural fidelity. The method reduces RMSD from 2.37 Å to 1.95 Å—a 0.42 Å gain—outperforming supervised fine‑tuning and offline distillation controls.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [On‑policy distillation using privileged native geometry provides fine‑grained structural supervision for antibody CDR loops.]  
 - [ABOPD reduces RMSD by 0.42 Å, achieving a final RMSD of 1.95 Å compared to the baseline of 2.37 Å.]  

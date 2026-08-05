@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces Neurai‑VN, a reproducible benchmark for evaluating machine learning models that classify mental health conditions using multimodal data from smartphones and wearables. The benchmark standardizes preprocessing, feature extraction, and evaluation across four binary classification tasks to enable fair comparison of baseline algorithms. By applying subject‑wise cross‑validation on a high‑resolution dataset collected from 100 Vietnamese adults over two weeks, the authors demonstrate that well‑trained models can achieve consistent performance. The results provide clear, reproducible baselines for future research in digital phenotyping.
 
+## Semantic links
+- [[concepts/papers/2026-07-30_08-05-26Z_SignLanguageQuestionAnswering_ANewTask_Benc_summary.md|Summary: 2026-07-30_08-05-26Z_SignLanguageQuestionAnswering_ANewTask_Benchmark_a.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.07
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - Founding a standardized multimodal digital phenotyping benchmark (Neurai‑VN) with unified preprocessing and feature pipelines.  
 - Defining four clinically relevant binary classification tasks evaluated via subject‑wise cross‑validation to isolate task‑specific performance.  

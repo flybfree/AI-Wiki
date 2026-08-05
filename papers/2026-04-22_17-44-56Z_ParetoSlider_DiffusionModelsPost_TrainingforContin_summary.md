@@ -14,6 +14,11 @@ Model: None
 ## Summary
 ParetoSlider is a multi-objective RL post-training framework for diffusion models that aims to approximate an entire Pareto front rather than a single fixed reward trade-off. It conditions training on continuously varying preference weights, allowing inference-time control over competing objectives without retraining or maintaining multiple checkpoints.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_Mo_summary.md|Summary: 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Replaces early scalarization with continuously varying preference conditioning.
 - Targets continuous control over conflicting rewards at inference time.

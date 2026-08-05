@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes DRIP‑R, a benchmark that deliberately creates retail return scenarios where store policies are intentionally ambiguous, forcing LLM agents to make decisions without a single correct answer. By pairing these policy‑ambiguous cases with realistic customer personas and a full‑duplex conversational simulation equipped with tool‑calling capabilities, the authors demonstrate that state‑of‑the‑art language models cannot reliably resolve such ambiguities. The study fills a critical gap in existing benchmarks that assume well‑specified policies, thereby highlighting a systematic challenge for LLM decision‑making in real‑world domains.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTool_summary.md|Summary: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] DRIP‑R introduces a curated benchmark of policy‑ambiguous return scenarios to evaluate how LLMs handle real‑world retail ambiguity.  
 - [Finding 2] Front‑running experiments reveal that multiple frontier models produce fundamentally different decisions on identical ambiguous policies, confirming that ambiguity is a genuine problem for LLM reasoning.  

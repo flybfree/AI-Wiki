@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how Large Language Models (LLMs) can be used to classify user prompts into predefined intent categories such as mathematics, coding, or general text processing. The authors compare two lightweight training‑free approaches that rely on statistics of internal representations with traditional training‑based classifiers like MLP models and linear probes. Their study shows that while both methods perform well on easy benchmarks, training‑based systems outperform training‑free ones on harder tasks, yet the latter are more robust to mixed‑intent or adversarial inputs. The work provides a systematic empirical analysis of accuracy, robustness, and failure modes in intent classification for LLMs.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Both training‑free and training‑based methods saturate easy benchmarks (mathematics vs. coding vs. natural language).  
 - [Finding 2] Training‑based classifiers have an advantage on harder classification tasks (e.g., Java vs. Python).  

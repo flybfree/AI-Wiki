@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Zero‑shot summarization with Large Language Models (LLMs) is widely used but its outputs can be unstable and untrustworthy because of inherent stochasticity. This paper introduces a two‑level diagnostic protocol to quantify the stability of LLM‑generated summaries, thereby providing an empirical measure of trustworthiness that is especially relevant for academic contexts where concise yet accurate abstracts are required.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 14 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The three evaluated LLMs exhibit statistically significant differences in generation‑level variability across multiple summary evaluation metrics.  
 - [Finding 2] A per‑document stability coefficient, derived from repeated summaries and aligned scores, reveals that some models produce more consistent outputs than others.  

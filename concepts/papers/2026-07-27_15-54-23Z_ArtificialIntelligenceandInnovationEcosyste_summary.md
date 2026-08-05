@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how artificial intelligence (AI) reshapes the Innovative Ecosystem (IE), proposing a new framework called Artificial Intelligence IE (AIIE) that captures AI’s unique spatial contributions to economic integration, collaboration, and shared progress. By treating IE as an evolutionary system spanning physical, social, and cognitive domains, the authors map AI’s role across distinct developmental phases of AIIE and evaluate its feasibility, effectiveness, and rationality through enterprise case studies. The study also identifies four critical future challenges that could limit AIIE’s evolution, thereby opening new research avenues. Overall, the work advances the conceptual understanding of AI within IE and offers a roadmap for sustainable innovation.
 
+## Semantic links
+- [[concepts/papers/2026-08-01_10-38-23Z_Writing_System_LevelTokenizerAdaptationforB_summary.md|Summary: 2026-08-01_10-38-23Z_Writing_System_LevelTokenizerAdaptationforByte_Lev.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-04_12-07-23Z_Dr_AGENTONOMICS_ADidacticExperimentofAGENTO_summary.md|Summary: 2026-08-04_12-07-23Z_Dr_AGENTONOMICS_ADidacticExperimentofAGENTONOMICS.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.10
+
 ## Key Contributions  
 - [Finding 1] The authors introduce the concept of Artificial Intelligence IE (AIIE), a spatial‑oriented framework that delineates how AI enhances physical, social, and thinking dimensions of an Innovative Ecosystem.  
 - [Finding 2] An evolutionary analysis shows that AI’s contributions to AIIE evolve from early digitization support to advanced cognitive augmentation as the ecosystem matures.  

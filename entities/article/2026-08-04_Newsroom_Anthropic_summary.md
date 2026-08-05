@@ -37,3 +37,8 @@ Anthropic’s latest “Newsroom” initiative has been unveiled as a suite of t
 - **Competitive Landscape:** Anthropic’s move intensifies competition with other large language models (e.g., OpenAI, Google Gemini) that are already offering similar content‑generation tools, prompting a wave of feature parity and bundling deals.  
 - **Ethical Debates:** The balance between automation efficiency and human editorial control will spark ongoing discussions about authorship attribution, plagiarism detection, and the role of AI in shaping public discourse.  
 - **Economic Impact on Media:** Smaller outlets that cannot afford dedicated AI engineers may be forced to adopt Anthropic’s low‑cost tier or risk obsolescence, potentially widening the gap between large conglomerates and independent publishers.
+
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — 1 title term overlap, 2 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson3_AbstractionLayer.md|Lesson 3 — Abstraction Layer: Model Swapping & Normalization]] — 1 title term overlap, 2 topic terms overlap, same area: home

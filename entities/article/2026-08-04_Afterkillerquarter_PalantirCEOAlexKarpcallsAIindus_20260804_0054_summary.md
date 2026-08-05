@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Palantir’s CEO Alex Karp, after reporting a record‑breaking quarter of $1.9 billion in revenue and $1.1 billion profit, warned that many AI frontier labs operate with “Marxist” overtones because they seek to capture the means of production for their partners, effectively colonizing enterprises. He contrasts this with Palantir’s model‑agnostic approach, which lets customers retain control over data and prompts, suggesting a moral conflict between profit‑driven AI labs and responsible enterprise use.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Karp frames AI frontier labs as “Marxist” because they aim to monopolize the production of AI services for their own benefit.  
 - Palantir’s explosive quarterly results demonstrate that market demand for AI solutions remains strong, even amid these ethical concerns.  

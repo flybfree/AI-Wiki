@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Verbalized Particle Posterior (VPP), a framework that treats verbalized machine learning as a Bayesian inference problem by maintaining a population of natural‑language hypotheses and updating them with Metropolis‑Hastings or Sequential Monte Carlo. This approach allows model structure and parameters to coexist in the same language space, providing uncertainty quantification and eliminating the single‑run failures characteristic of Verbalized Machine Learning (VML).  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] VPP models verbalized learning as a particle filter problem, updating hypotheses with Metropolis‑Hastings or SMC.  
 - [Finding 2] The posterior spans both model structure and parameters, enabling full Bayesian model averaging over natural‑language explanations.  

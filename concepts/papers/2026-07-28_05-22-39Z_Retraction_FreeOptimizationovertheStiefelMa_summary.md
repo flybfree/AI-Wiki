@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a retraction‑free optimization algorithm for the Stiefel manifold that directly solves LoRA fine‑tuning without costly orthonormalization or penalty tuning. It establishes global convergence guarantees under both constant and diminishing step sizes by exploiting the strongly‑convex‑like property of the quadratic penalty and the proximal smoothness of the manifold. The authors reformulate low‑rank adaptation (LoRA) as a manifold problem called Manifold‑LoRA, employing geometry‑accelerated adaptation to accelerate training. Numerical experiments on benchmark datasets show efficiency gains and strong downstream performance.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces a retraction‑free landing technique that projects gradient updates onto the Stiefel manifold directly, eliminating the need for expensive orthonormalization steps.  
 - [Finding 2] Provides global convergence proofs with iteration complexities that are among the best known for constant and diminishing step sizes, leveraging quadratic penalty functions.  

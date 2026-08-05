@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research addresses the critical bottleneck of negative transfer in the development of universal Scientific Machine Learning (SciML) foundation models, where co-training disparate physical regimes leads to gradient conflicts and optimization instability. The authors propose Shodh-MoE, a novel sparse-activated latent transformer architecture designed to handle multi-physics transport problems by decoupling incompatible physical demands through specialized expert subnetworks. By integrating a physics-informed autoencoder with a Helmholtz-style velocity parameterization, the model ensures strict adherence to physical laws, specifically guaranteeing exact mass conservation and divergence-free velocity fields. The study demonstrates that dynamic, semantic-based routing allows the model to autonomously bifurcate tasks, effectively eradicating interference between complex domains such as open-channel fluid dynamics and porous media flows.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforC_summary.md|Summary: 2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforComparat.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of Shodh-MoE, a sparse mixture-of-experts architecture that utilizes a Top-1 soft-semantic router to dynamically assign latent patches to specialized experts, thereby resolving gradient conflicts inherent in dense neural operators.
 - The implementation of a physics-informed autoencoder with intra-tokenizer Helmholtz-style velocity parameterization, which restricts decoded states to divergence-free manifolds and achieves near-zero velocity divergence (~2.8 x 10^-10) on 128^3 grids.

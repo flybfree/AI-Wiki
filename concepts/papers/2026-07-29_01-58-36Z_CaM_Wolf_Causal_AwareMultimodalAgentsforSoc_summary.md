@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **CaM‑Wolf**, the first social‑deduction game (SDG) agent that processes video inputs from other players and presents itself through an animated avatar, thereby embracing multimodal perception and generation. By training a causal‑aware Reasoner with reinforcement learning to link observable behaviors to hidden roles, CaM‑Wolf can generate logical chains that explain its actions in real time. The authors demonstrate that this integrated approach yields higher agent performance and richer human‑AI interaction than prior text‑only LLMs.  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] **Multimodal integration**: CaM‑Wolf combines video perception, causal reasoning, and avatar generation into a single SDG agent, addressing the limitation of text‑based models that ignore visual cues.  
 - [Finding 2] **Causal‑aware Reasoner via RL**: The authors develop a reinforcement‑learning trained reasoner capable of constructing logical chains between observable actions and inferred roles, enabling causal inference in social dynamics.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper seeks to apply the Segment Anything Model (SAM) for mitochondria instance segmentation in fluorescence microscopy despite a pronounced domain shift caused by diffraction‑limited resolution, low contrast, and overlapping organelle networks. To overcome the scarcity of high‑quality manually annotated FM images, the authors propose fine‑tuning SAM exclusively on a large synthetic dataset that emulates realistic optical properties. Their approach demonstrates that simulation‑assisted training can yield robust performance in this challenging domain. The work establishes a scalable pathway for AI‑driven organelle analysis when real data are limited.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinP_summary.md|Summary: 2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetan_summary.md|Summary: 2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - Fine‑tuned SAM using synthetic FM data achieves robust performance on mitochondria instance segmentation.  
 - Synthetic dataset alleviates the severe lack of high‑quality, manually annotated mitochondria instances.  

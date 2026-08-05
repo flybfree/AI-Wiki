@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper argues that the common practice of treating compression, MoE routing, and quantization as independent optimizations is insufficient for multimodal edge intelligence, where preserving visual token quality, efficiently routing expert attention, and applying low‑bit inference all interact to shape model performance. By mapping these interactions—such as how visual token compression reshapes feature distributions that in turn affect MoE routing decisions—the authors identify key design trade‑offs and propose a diagnostic called Temporal Routing Consistency for video‑based MoE models. The contribution is a structured review that highlights the need for co‑design of compression, routing, quantization, and hardware constraints to achieve efficient multimodal inference on edge devices.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-07-30_13-58-33Z_SecurityofWorld_Model_BasedEmbodiedAI_ALife_summary.md|Summary: 2026-07-30_13-58-33Z_SecurityofWorld_Model_BasedEmbodiedAI_ALifecycleof.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.03
+- [[concepts/prompting/prompting-hub.md|Prompting and Instruction Design Hub]] — 2 title terms overlap; 134 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Visual token compression alters downstream feature distributions, which in turn influences MoE routing decisions, demonstrating that compression cannot be optimized in isolation.  
 - **Finding 2:** Routing behavior affects expert utilization and quantization sensitivity; quantized router logits modify the assignment of queries to experts, showing a feedback loop between quantization and routing.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes X‑KGRank, a knowledge graph retrieval augmented framework that unifies structural collaborative filtering with LLM‑based explanations to deliver explainable recommendations grounded in user history and item semantics. It addresses the limitations of pure collaborative filtering (no reasoning) and LLMs (hallucinations) by mining patterns from a heterogeneous knowledge graph and applying LLM re‑ranking. The framework produces both ranked items and justifiable explanations, improving relevance while providing transparent rationales. Evaluation on MovieLens‑1M with a 99‑sample protocol demonstrates strong gains over popularity baselines.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Construction of a large‑scale heterogeneous knowledge graph (9,762 nodes, 999,264 edges) from MovieLens‑1M using the RATED, HAS_GENRE, and CO_RATED relations.  
 - Finding 2: LightGCN ranker with content‑aware SBERT initialization and a rating‑weighted BPR objective that learns item embeddings while leveraging graph structure.  

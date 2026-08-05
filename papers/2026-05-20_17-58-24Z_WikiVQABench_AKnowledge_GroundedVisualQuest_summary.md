@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper introduces WikiVQABench, a novel benchmark designed to address the limitations of existing Visual Question Answering (VQA) datasets that primarily rely on visual perception rather than external knowledge. By systematically integrating Wikipedia images with their corresponding article captions and structured data from Wikidata, the authors create a rigorous testbed for evaluating knowledge-grounded reasoning in vision-language models. The dataset is human-curated to ensure factual accuracy and visual-text consistency, specifically targeting questions that cannot be answered through visual evidence alone. This work aims to shift the focus of VQA evaluation from simple object recognition to complex, knowledge-intensive reasoning tasks that reflect real-world scenarios.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPe_summary.md|Summary: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTrivi_summary.md|Summary: 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 2 title terms overlap; shared tags: ai, paper, research; 15 summary/topic terms overlap
+
 ## Key Contributions
 - The creation of WikiVQABench, a large-scale, human-curated benchmark that combines visual data with structured external knowledge from Wikipedia and Wikidata.
 - A novel pipeline that leverages Large Language Models (LLMs) for candidate generation, followed by extensive human annotation to ensure high-quality, factually correct multiple-choice question-answer sets.

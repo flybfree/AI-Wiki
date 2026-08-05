@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Persian Pixel, a large‑scale synthetic OCR dataset for the Persian language to address data scarcity and script complexity. It generates 343 000 high‑fidelity image‑text pairs from a seven‑million‑word corpus using SynthOCR‑Gen and realistic degradation models. The dataset enables training of modern OCR models such as TrOCR and Donut, offering an open, scalable alternative to manual annotation for Persian OCR.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - Generates 343 000 high‑quality synthetic image‑text pairs covering sentence, paragraph, and full‑page layouts.  
 - Models all typographic features of the Perso‑Arabic script (cursive connectivity, glyph variants, diacritics) across Naskh and Nastaliq typefaces.  

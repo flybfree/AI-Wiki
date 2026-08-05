@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses a gap in AI personalization by demonstrating that long‑term memory must incorporate both explicit and implicit visual evidence, which current text‑centric benchmarks ignore. It proposes VisualMem, a hybrid visual–text architecture that preserves image semantics rather than collapsing them into generic captions, thereby enabling the retrieval of user‑specific facts derived from images. The work introduces a new benchmark that evaluates memory systems on this dual‑evidence challenge and shows that personal visual memory is a distinct component essential for effective personalized agents.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Personal visual memory is a separate, valuable module within long‑term memory for AI agents, not reducible to text alone.  
 - [Finding 2] The authors create a benchmark that measures both explicit (directly stated) and implicit (latent) evidence from images.  

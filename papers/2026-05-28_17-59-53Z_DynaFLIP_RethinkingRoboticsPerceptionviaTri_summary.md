@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Robot manipulation relies on perception that captures the action‑relevant aspects of a scene, yet current robot learning pipelines treat motion understanding as a downstream task after static visual encoders are used. DynaFLIP rethinks this by integrating dynamics into the perception stage through a multimodal pre‑training framework. The authors propose to train an image encoder jointly with image‑language‑3D flow triplets, encouraging the three modalities to occupy a compact simplex in a shared hyperspherical space. This approach yields representations that emphasize control‑relevant regions and enable downstream policies such as VLAs to generalize better.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_Mo_summary.md|Summary: 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommo_summary.md|Summary: 2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Dynamics‑aware multimodal pre‑training pushes motion understanding upstream into perception, creating reusable visual backbones for robot manipulation.  
 - [Finding 2] Construction of image‑language‑3D flow triplets and a combined simplex‑volume minimization with cosine regularizer and contrastive objective shapes the image encoder to encode temporal dynamics.  

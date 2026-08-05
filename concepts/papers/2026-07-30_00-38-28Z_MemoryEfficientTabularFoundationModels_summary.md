@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the practical deployment challenges of memory‑efficient tabular foundation models, showing that aggressive compression can reduce memory usage by up to 7.6× while preserving performance. It demonstrates that these compressions cut deployment requirements by nearly 87%, offering a pathway for real‑world use. The authors provide insights into how model size and memory impact inference latency in tabular tasks.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 6 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Memory usage can be reduced up to 7.6× through compression techniques without significant loss in accuracy.  
 - [Finding 2] Compression methods achieve near‑87% reduction in deployment resource consumption while maintaining comparable model performance.  

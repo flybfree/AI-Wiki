@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **SkillTrace**, a novel framework that enables large language model agents to compose complex tasks by traversing a multi‑level query‑skill graph. Rather than treating skill retrieval as an isolated lookup, SkillTrace builds a semantic hierarchy of the user’s request, aligns it with candidates in a skill library via similarity scores, and then respects the intrinsic dependencies among those candidates to produce an executable composition. This approach yields state‑of‑the‑art performance on benchmark suites while remaining robust across different language model backbones.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] SkillTrace organizes the user query into a semantic hierarchy that captures the logical structure of the task, enabling more precise alignment with relevant skills.  
 - [Finding 2] The framework matches skill queries and candidates using a similarity metric, ensuring that only highly relevant skills are considered for composition.  

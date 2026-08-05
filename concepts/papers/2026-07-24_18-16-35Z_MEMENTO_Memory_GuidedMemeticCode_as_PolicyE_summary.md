@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes MEMENTO, a memory‑guided memetic framework that evolves executable code‑as‑policy for long‑horizon embodied tasks. By treating policies as programs that can be inspected and revised after rollout evaluation, MEMENTO combines an evolution loop with a sequential local‑improvement phase guided by structured feedback metrics generated from LLMs. This approach enables selection among independently created variants while also allowing the best‑performing policy to drive further refinements. The framework is evaluated on two long‑horizon manipulation domains: Robosuite’s Tower‑of‑Hanoi and AI2‑THOR household interaction.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - **Memory‑guided single‑elite memetic framework** for code‑as‑policy evolution, integrating rollout fitness with structured feedback metrics.  
 - **Sequential local improvement phase**: the evolved evaluator conditions generation via hill‑climbing, macro‑mutation, and crossover, allowing the best policy to steer subsequent proposals.  

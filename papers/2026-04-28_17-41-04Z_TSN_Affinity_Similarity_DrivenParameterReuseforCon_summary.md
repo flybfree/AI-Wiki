@@ -15,6 +15,11 @@ Source: 2026-04-28_17-41-04Z_TSN_Affinity_Similarity_DrivenParameterReuseforCon.
 ## Summary
 Introduces TSN-Affinity, a continual offline reinforcement learning method that uses TinySubNetworks and Decision Transformer with similarity- and action-compatibility-based routing for task-specific parameter reuse. On Atari and Panda manipulation benchmarks, it preserves prior tasks and improves multi-task performance, offering a replay-free alternative.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 1 title term overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommo_summary.md|Summary: 2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Combines architectural reuse with RL-aware task routing.
 - Targets continual offline RL where replay is costly or mismatched.

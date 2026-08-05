@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 The article introduces Science One Framework, a verifiable autonomous research framework that builds chain‑of‑evidence (CoE) to eliminate hallucinations in AI‑generated scientific papers. It demonstrates zero phantom references and full reproducibility while achieving state‑of‑the‑art performance on benchmarks such as MLE‑Bench and Parameter‑Golf.  
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap, 4 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap, 4 topic terms overlap, same area: home
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 4 title terms overlap, 4 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - CoE defines two properties for trustworthy artifacts: completeness of evidence chains and correctness of each chain.  
 - The Science One Framework integrates CoE with an automated audit (CoE Audit) to measure integrity, yielding zero hallucinated references.  

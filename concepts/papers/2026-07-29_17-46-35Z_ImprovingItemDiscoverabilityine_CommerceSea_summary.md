@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper aims to improve item discoverability in e‑commerce search by generating implicit user intents that expand recall while preserving relevance. It proposes a scalable discovery‑augmented search system that leverages intent‑conditioned retrieval. The approach uses a two‑stage hybrid architecture combining closed‑weight large language models and a fine‑tuned small language model to handle head and tail queries efficiently. Evaluation is performed using both human preference metrics and end‑to‑end purchase analysis.  
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-04-35Z_In_ContextTimeSeriesClassificationwithRando_summary.md|Summary: 2026-07-21_16-04-35Z_In_ContextTimeSeriesClassificationwithRandomConvol.md]] — 3 title terms overlap; 1 backlink; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 1 backlink; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_15-03-35Z_KC_Agent_ADual_ProcessCognitiveArchitecture_20260804_0042_summary.md|Summary: 2026-08-03_15-03-35Z_KC_Agent_ADual_ProcessCognitiveArchitectureforEffi.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - Closed‑weight LLMs significantly boost discoverability for head queries, extending coverage from about 60% to roughly 80% of query traffic.  
 - A finetuned small language model trained via LoRA adapters and teacher‑student distillation reduces inference cost by around 30% while maintaining high quality.  

@@ -15,6 +15,11 @@ Source: 2026-05-06_gpipe_easy_scaling_with_micro_batch_pipeline_parallelism.md
 ## Summary
 GPipe presents pipeline parallelism as a practical way to scale very large neural networks using micro-batches. The core idea is to split a model across devices and overlap computation through staged execution, making it easier to train networks that would otherwise exceed a single device's capacity. The paper is a foundational reference for later large-model training systems.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_Head_summary.md|Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Takeaways
 - Micro-batch pipeline parallelism enables model scaling across devices.
 - The approach reduces memory pressure by partitioning the network.

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a physics‑chemistry‑informed neural network (PCINN) that predicts spatial atomic layer deposition (SALD) surface coverage in real time while preserving the accuracy of full computational fluid dynamics (CFD). By integrating a lightweight neural surrogate for operating‑condition effects with a hard‑coded, trainable chemistry module, the model delivers CFD‑level predictions in ~7 ms—about 5×10⁴ times faster than a standard CFD solve. The architecture is designed to be interpretable and invertible, enabling reliable kinetics inversion from experimental data.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The PCINN achieves a test R²_log = 0.998 (leave‑one‑out R²_raw = 0.974) with only 30 training cases spanning four orders of magnitude in coverage, delivering real‑time predictions (~7 ms).  
 - [Finding 2] The model separates the learning component that captures operating‑condition effects from a fixed chemistry layer, preserving interpretability and allowing exact inversion of surface kinetics.  

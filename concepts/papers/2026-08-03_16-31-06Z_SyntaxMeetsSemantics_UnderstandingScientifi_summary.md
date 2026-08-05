@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how the syntactic structure and semantic meaning of scientific formulae interact in scholarly communication, aiming to uncover whether these two modalities share a coherent representation. By treating formulas as both structured syntax (graph‑based) and textual semantics (text‑based), the authors seek to reveal any hidden correspondence between them. Their contribution is an empirical study that shows a strong latent correlation yet weak observable alignment, and they demonstrate that explicit contrastive learning can recover this correspondence.  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The native representation spaces of formula syntax and semantics exhibit extremely weak observable correspondence despite a strong latent correlation.  
 - [Finding 2] Standard representation‑learning and alignment techniques cannot fully resolve the mismatch between these modalities.  

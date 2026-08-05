@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper V‑Mem tackles the problem of long‑term multimodal agentic memory where queries and evidence can be text or image, yet most retrieval systems fail because they assume a single similarity space. It identifies two gaps: a modality gap that makes cross‑modal matches harder, and a similarity‑relevance gap where the nearest embedding is not the answer. V‑Mem resolves these by routing retrieval according to the query’s modality and the evidence’s modality, both inferred from the query alone. The system also closes the relevance gap with an LLM‑generated anchor that better aligns with the target content.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Two fundamental gaps—modality gap (query and evidence belong to different modalities) and similarity‑relevance gap (closest embedding is not the answer).  
 - [Finding 2] V‑Mem organizes conversation into rounds and returns only target‑modality content from the same round, avoiding cross‑modal comparisons.  

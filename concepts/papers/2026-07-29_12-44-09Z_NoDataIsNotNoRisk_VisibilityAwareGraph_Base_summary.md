@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem that missing incident data may not mean a firm is low‑risk, proposing a graph‑based approach to infer business conduct risk from inter‑firm relationships. It treats firms with recorded incidents as labeled positives while others remain unlabeled, then builds a visibility‑aware GCNII model. The goal is to improve prediction for firms that have little prior visibility by leveraging corporate ownership networks.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Graph‑based inference can outperform non‑graph methods in predicting future conduct incidents.  
 - [Finding 2] Visibility‑aware GCNII reduces positive contamination and improves ranking of unlabeled firms.  

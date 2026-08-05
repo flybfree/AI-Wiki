@@ -27,6 +27,11 @@ Course design principles:
 - Tie ideas back to the wiki’s existing AI/ML sources
 - Use the Ilya Sutskever reading list as the backbone for sequence models, attention, and generative systems
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]] — 1 title term overlap; shared tags: artificialintelligence, coursemap, foundations; 2 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — 1 title term overlap; shared tags: foundations, machinelearning; 17 backlinks
+- [[concepts/ai-agents/ai-agents-syllabus.md|AI Agents Syllabus]] — 1 title term overlap; shared tags: syllabus; 1 backlink
+
 ## Start Here
 - [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
 - [[ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]

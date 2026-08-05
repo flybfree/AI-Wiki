@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **FiT (Find before Fine‑Tune)**, a diagnostic framework that evaluates small language models on three cybersecurity‑specific capabilities—vocabulary recognition, parametric knowledge, and contextualization of retrieved information—before applying fine‑tuning. By comparing two fine‑tuning regimes on five open‑weight 7‑billion‑parameter models, the authors demonstrate that fine‑tuning does not uniformly benefit these models; instead it can degrade vocabulary and parametric knowledge while leaving retrieval‑grounded contextualization relatively intact. The study shows that pre‑fine‑tuning FiT scores reliably predict the direction of post‑tuning change, offering a lightweight screening tool to avoid unnecessary adaptation.
 
+## Semantic links
+- [[concepts/papers/2026-08-04_01-41-40Z_V_FIND_RevealingtheIntrinsicForgeryKnowledg_summary.md|Summary: 2026-08-04_01-41-40Z_V_FIND_RevealingtheIntrinsicForgeryKnowledgeEncode.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation_summary.md|Summary: 2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation.md]] — 3 title terms overlap; 1 backlink; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Fine‑tuning consistently degrades vocabulary recognition and parametric knowledge in small LLMs.  
 - [Finding 2] Two fine‑tuning regimes (knowledge‑focused vs. instruction‑focused) produce distinct trade‑offs; the latter causes a rank inversion via induced abstention while contextualization remains stable.  

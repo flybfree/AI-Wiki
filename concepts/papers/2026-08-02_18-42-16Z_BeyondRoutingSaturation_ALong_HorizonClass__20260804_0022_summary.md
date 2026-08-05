@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Multimodal Continual Instruction Tuning (MCIT) enables large language models to acquire new tasks sequentially while preserving prior knowledge, but the task‑identification problem that underlies expert routing is rarely examined beyond short sequences. This paper demonstrates that routing becomes saturated on standard MCIT benchmarks because textual fingerprints and brief 4–10‑task sequences mask long‑horizon cues. To expose this issue, the authors introduce a 34‑task benchmark called FLEX and formulate progressive LoRA routing as soft task‑as‑class Multimodal Class‑Incremental Learning (MCIL), which provides a principled interface for transferring class‑incremental methods to expert routing.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Routing is nearly saturated on widely used MCIT benchmarks, indicating that existing task‑identification mechanisms cannot reliably select the correct LoRA expert over long horizons.  
 - [Finding 2] Textual fingerprints and short task sequences obscure long‑horizon routing cues, making it difficult for current routing strategies to maintain high accuracy as tasks accumulate.  

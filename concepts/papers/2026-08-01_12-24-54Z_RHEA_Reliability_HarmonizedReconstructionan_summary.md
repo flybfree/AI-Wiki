@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of clustering nodes in multimodal‑attributed graphs (MAGs) where attributes such as text and images are often noisy or missing, which biases standard methods that assume equal modality reliability. It introduces RHEA—a reliability‑harmonized reconstruction framework—that estimates node‑specific modality reliability from graph neighborhoods and incorporates this signal throughout the clustering pipeline. By reconstructing unreliable modalities, adaptively weighting fusion, and using topology‑aware optimal transport with reliability‑aware assignments, the method improves robustness. Experiments demonstrate consistent gains over strong baselines, especially when attribute quality deteriorates.
 
+## Semantic links
+- [[concepts/papers/2026-07-11_05-32-54Z_GAE_Graph_AugmentedEvolutionforScientificDi_summary.md|Summary: 2026-07-11_05-32-54Z_GAE_Graph_AugmentedEvolutionforScientificDiscovery.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-08-02_23-47-18Z_V_Mem_Modality_RoutedRetrievalforLong_TermM_summary.md|Summary: 2026-08-02_23-47-18Z_V_Mem_Modality_RoutedRetrievalforLong_TermMultimod.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.12
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: RHEA introduces a node‑specific modality reliability estimation mechanism based on neighborhood consensus.  
 - Finding 2: The framework reconstructs missing or corrupted modalities using graph‑based propagation and integrates confidence into the clustering objective.  

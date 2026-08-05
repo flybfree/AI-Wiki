@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 EchoBridge tackles the challenge of aligning ECG signals with echocardiography‑derived cardiac findings while preserving long‑tail performance for rare conditions. By introducing a complementary shared‑private projection framework (CSPP) and an adaptive prototype boundary calibration scheme (APBC), the method reduces modality‑specific noise, aligns normalized projections bidirectionally, and optimizes class boundaries on a spherical hypersphere. The proposed pipeline yields measurable gains across multiple probing budgets and both in‑domain and target‑domain transfer settings.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_15-49-02Z_BeyondScorePrediction_LLM_BasedEssayScoring_summary.md|Summary: 2026-07-21_15-49-02Z_BeyondScorePrediction_LLM_BasedEssayScoringandFeed.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-27_07-48-02Z_BeyondFusion_Self_AlignedLatentDiffusionfor_summary.md|Summary: 2026-07-27_07-48-02Z_BeyondFusion_Self_AlignedLatentDiffusionforCalibra.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.10
+- [[concepts/papers/2026-07-26_23-04-49Z_Long_TailedMedicalImageClassification_summary.md|Summary: 2026-07-26_23-04-49Z_Long_TailedMedicalImageClassification.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - [Finding 1] EchoBridge improves classifier‑free AUROC, AUPRC, and F1 scores by 7.88, 5.61, and 4.54 points respectively over the strongest baselines.  
 - [Finding 2] The method attains the highest point estimates across all in‑domain probing budgets, target‑domain cross‑center frozen linear probing, and source‑only cross‑center transfer scenarios.  

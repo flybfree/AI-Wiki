@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the growing bottleneck of Key‑Value (KV) cache memory in Long‑Context Large Language Models by proposing a low‑rank compression technique that treats the key and value caches differently. It introduces dynamic attention‑head grouping using Centered Kernel Alignment to allocate rank budgets adaptively, while applying an offline‑calibrated decomposition for the value cache similar to ReCalKV. Experiments on three instruction‑tuned LLMs demonstrate significant memory savings without sacrificing performance, especially in Multi‑Head Attention models where the strategy is most beneficial. The work therefore advances efficient inference for long‑context scenarios.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-30_02-42-51Z_BackfromtheFuture_Key_ValueCacheManagementb_summary.md|Summary: 2026-07-30_02-42-51Z_BackfromtheFuture_Key_ValueCacheManagementbyCounte.md]] — 3 title terms overlap; 19 summary/topic terms overlap; semantic match 0.19
+
 ## Key Contributions  
 - [Finding 1] Dynamic attention‑head grouping based on Centered Kernel Alignment (CKA) similarity enables adaptive rank allocation under a strict parameter budget.  
 - [Finding 2] Separate low‑rank compression strategies are applied to the key and value caches, exploiting their distinct roles in MHA.  

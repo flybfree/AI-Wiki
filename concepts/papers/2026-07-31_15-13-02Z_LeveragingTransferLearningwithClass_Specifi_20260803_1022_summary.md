@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper investigates the efficacy of leveraging transfer learning within the context of laparoscopic multi-organ segmentation, specifically addressing the challenges posed by class imbalance and domain shifts between different surgical procedures. The authors propose a novel approach that extends decoder-focused architectures to explore how surgical conceptual knowledge can be shared across distinct domains, namely rectal and cholecystectomy surgeries. By utilizing partially common anatomical representations, the study aims to determine if pre-training on one surgical domain can enhance segmentation performance in another. The primary contribution lies in demonstrating that an organ-specific decoder model, when fully fine-tuned after cross-domain pre-training, significantly outperforms models trained from scratch in both accuracy and convergence speed.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions
 - The authors successfully extend decoder-focused architectures to investigate knowledge sharing across different surgical domains, providing empirical evidence on how surgical conceptual knowledge transfers under partially common anatomical representations.
 - They introduce a comprehensive analysis of feature adaptation for both encoders and decoders at various training stages, offering new insights into the mechanisms of knowledge retention and adaptation in deep learning models for medical imaging.

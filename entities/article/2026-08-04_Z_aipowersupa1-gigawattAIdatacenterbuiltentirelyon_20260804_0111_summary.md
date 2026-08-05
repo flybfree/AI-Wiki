@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Z.ai has completed a 1‑gigawatt data centre that is powered solely by Chinese‑made Huawei Ascend accelerators, training its GLM model family without any Nvidia silicon. The facility runs multiple clusters each housing more than ten thousand chips, underscoring the scale of China’s domestic AI infrastructure despite performance‑per‑watt limitations.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - [The 1 GW site uses exclusively Huawei Ascend accelerators, eliminating reliance on Nvidia hardware.]  
 - [Z.ai operates several clusters with over ten thousand chips each, demonstrating large‑scale deployment of domestic silicon.]  

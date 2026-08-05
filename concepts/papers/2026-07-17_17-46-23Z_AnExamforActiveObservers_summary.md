@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether contemporary multimodal large language models (MLLMs) can perform active observation—the continual, hypothesis‑driven re‑perception of visual information that is essential for many perception‑oriented tasks. By constructing a benchmark called ActiveVision, the authors demonstrate empirically that state‑of‑the‑art MLLMs such as GPT‑5.5 and Claude Fable 5 fail dramatically on this task, while three human participants achieve near‑perfect performance. The results reveal a persistent perception‑reasoning gap that cannot be closed merely by writing or executing vision code.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 5 title terms overlap; 13 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] MLLMs exhibit poor active observation: GPT‑5.5 solves only 10.6 % of ActiveVision items and scores zero on eleven tasks, while Claude Fable 5 solves just 3.5 %.  
 - [Finding 2] The performance gap remains even when models generate their own vision code, indicating that the lack of active perception is not merely a coding‑execution issue but a fundamental failure to re‑perceive visual hypotheses.  

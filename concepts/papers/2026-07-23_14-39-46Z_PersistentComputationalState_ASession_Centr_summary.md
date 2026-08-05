@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper challenges the assumption that generative world models can be treated like language‑model servers, where every request recomputes its state from scratch. It argues that a small amount of non‑recomputable information — called Persistent Computational State (PCS) — must survive across requests to reproduce continuations identically. By defining PCS and building a session‑centric runtime around it, the authors demonstrate that checkpointing and restoring this state incurs negligible cost while preserving exact byte‑level continuity. The work thus provides a principled view of what truly persists in world‑model simulations and how to serve them efficiently.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The attribution of video‑world‑model failures to model architecture is incomplete; for many architectures the failure stems from missing persistent state rather than architectural flaws.  
 - [Finding 2] Persistent Computational State exists as a minimal non‑recomputable kernel that includes observation, random‑number generator (RNG) state, and either a memory bank or windowed KV context, which must be restored after each excursion to reproduce the continuation byte‑identically.  

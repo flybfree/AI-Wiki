@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a unified framework for Riemannian deep learning that separates reusable neural modules from manifold‑specific architectures and the underlying geometric structures. It extends classic Euclidean components such as batch normalization and multinomial logistic regression to broad classes of Lie groups, gyrogroups, SPD manifolds, and even general Riemannian spaces. The authors introduce adaptive, learnable Log‑Euclidean geometries together with fast, stable Cholesky‑based metrics that dramatically reduce computational cost while preserving geometric fidelity. This framework is validated across vision, signal processing, graph learning, and genomics, showing that deep networks can exploit the intrinsic geometry of non‑Euclidean data manifolds.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Generalized batch normalization to Lie groups and gyrogroups, enabling gradient flow on curved parameter spaces.  
 - [Finding 2] Extended multinomial logistic regression from Euclidean space to SPD manifolds and then to arbitrary Riemannian manifolds, preserving maximum‑likelihood properties.  

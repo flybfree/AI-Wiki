@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 OpenAI’s August 2026 news roundup highlights a rapid acceleration in multimodal AI capabilities, efficiency gains, and real‑world integration across domains such as voice interaction, scientific research, healthcare, and workplace productivity. The company showcases GPT Live for continuous voice dialogue, pushes the price‑performance frontier with GPT 5.6, triples ARC‑AGI‑3 benchmark scores by leveraging two settings, and launches “Health in ChatGPT” to support medical queries. These updates illustrate a trend toward more capable, cost‑effective models that can be embedded into everyday tools.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - [Continuous voice interaction with GPT Live enables seamless, real‑time dialogue without manual input, expanding the scope of conversational AI.]  
 - [GPT 5.6 delivers a higher price‑performance frontier, making advanced language models more accessible and affordable for developers.]  

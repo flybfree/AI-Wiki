@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper proposes a framework for training tiny language‑model agents to act as spatial multi‑agent policies in cooperative games, treating the LLM as a policy that selects from a library of symbolic options rather than learning raw actions. By integrating an options/semi‑MDD structure and automatically synthesizing feasibility guards from cheap rollouts, the authors enable frozen LLMs on modest backbones to achieve competent play across three spatial tasks. The approach decouples reward signals from cooperative behavior, showing that high rewards can arise from solitary task completion while true collaboration remains absent. This work advances the field by demonstrating that small LLMs can serve as reliable policy agents when guided by structured symbolic options and automated guard generation.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors introduce a systematic way to generate symbolically defined, state‑feasible options for spatial games using a frontier coding model, eliminating manual design of action policies.  
 - [Finding 2] They develop PA‑MAGRPO, a per‑agent LoRA‑based multi‑agent reinforcement learning variant that fine‑tunes frozen LLMs to select appropriate options and achieve measurable performance gains.  

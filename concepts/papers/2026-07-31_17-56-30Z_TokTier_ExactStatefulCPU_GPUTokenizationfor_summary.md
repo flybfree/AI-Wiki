@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 TokTier tackles the inefficiency of tokenization in LLM serving stacks that cache prompt KV state yet re‑tokenize the full request on every call, inflating latency despite a high prompt‑cache hit rate. It introduces a stateful CPU + GPU tokenization service whose emitted IDs match reference tokenization exactly, preserving continuity across session continuations. The solution reduces tokenization from 10 % to 64 % of total time‑to‑first‑token and lifts throughput dramatically under realistic workloads.
 
+## Semantic links
+- [[concepts/papers/2026-07-31_17-56-30Z_TokTier_ExactStatefulTokenizationforAgentic_20260803_1027_summary.md|Summary: 2026-07-31_17-56-30Z_TokTier_ExactStatefulTokenizationforAgenticLLMServ.md]] — 4 title terms overlap; 22 summary/topic terms overlap; semantic match 0.43
+- [[concepts/papers/2026-07-31_17-56-30Z_TokTier_ExactStatefulTokenizationforAgentic_20260803_1029_summary.md|Summary: 2026-07-31_17-56-30Z_TokTier_ExactStatefulTokenizationforAgenticLLMServ.md]] — 4 title terms overlap; 21 summary/topic terms overlap; semantic match 0.38
+- [[concepts/papers/2026-07-31_17-56-30Z_TokTier_ExactStatefulTokenizationforAgentic_summary.md|Summary: 2026-07-31_17-56-30Z_TokTier_ExactStatefulTokenizationforAgenticLLMServ.md]] — 4 title terms overlap; 21 summary/topic terms overlap; semantic match 0.38
+
 ## Key Contributions  
 - [Finding 1] Tokenization overhead drops from a median 10 % contribution to 64 % of the time‑to‑first token, with GPU full tokenization encoding 1 M characters in 0.87 ms (491× faster than HF).  
 - [Finding 2] Incremental repair repairs up to 3 million characters in 0.5–1.1 ms, a 491× speed‑up versus HF tokenization and 2.1× faster than the Gigatoken baseline.  

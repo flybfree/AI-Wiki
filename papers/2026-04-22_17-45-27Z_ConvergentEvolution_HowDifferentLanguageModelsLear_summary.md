@@ -15,6 +15,11 @@ Model: None
 ## Summary
 This paper studies how different model families learn number representations from natural text. It finds that Transformers, Linear RNNs, LSTMs, and classical word embeddings often develop Fourier-domain periodic features with dominant periods at 2, 5, and 10. However, only some of these features are geometrically separable enough to support linear classification by number modulo T. The authors argue that Fourier sparsity alone is not sufficient for such separability and show that training details strongly influence whether it emerges.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Diverse architectures can learn similar periodic number features.
 - Fourier-domain spikes at periods 2, 5, and 10 are common but not enough for mod-T classification.

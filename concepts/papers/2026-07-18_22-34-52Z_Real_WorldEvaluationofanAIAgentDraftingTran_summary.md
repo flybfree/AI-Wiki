@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces a human‑in‑the‑loop artificial intelligence agent designed to automatically assemble evidence and draft one‑sentence Translational Science Benefits Model (TSBM) impact summaries for Clinical and Translational Science Award scholars, thereby reducing the time required for manual documentation. The tool was tested in the real‑world workflow of a CTSA hub that serves ten career‑development scholars, producing 507 evidence findings that were then reviewed by two independent staff members. Both reviewers agreed on accept or edit actions for 81.7 % of the drafts, indicating high usability while preserving scholarly rigor. By delegating drafting to AI and focusing staff on review, the system makes cohort‑scale impact reporting feasible.
 
+## Semantic links
+- [[concepts/software-development/software-development-hub.md|AI for Software Development Hub]] — 3 title terms overlap; 363 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.06
+
 ## Key Contributions  
 - [Finding 1] The AI agent achieves an 81.7 % unanimous usable rate (accept or edit) across all 507 findings generated for ten scholars.  
 - [Finding 2] Review staff spent a median of 14 minutes per scholar, which corresponds to roughly half the time saved compared with the original 15‑hour manual assembly estimate.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors investigate how far a deliberately simple behavioral‑cloning policy can advance in the visually rich first‑person shooter Quake before introducing reinforcement learning or explicit memory mechanisms. Their contribution is a compact policy, Cortex, that employs only 10.98 million trainable parameters within a six‑layer transformer and leverages a frozen DINOv3 encoder to process visual data. The model is trained on a large but static dataset of Quake recordings, achieving notable performance without any reinforcement learning or memory components. This work demonstrates that limited‑parameter models can still reach meaningful milestones in complex gameplay.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Cortex achieves a compact policy size (≈10 M parameters) while still reaching key environmental points and occasional kills in Quake E1M1, showing that small models can handle rich visual input.  
 - [Finding 2] The use of frozen DINOv3 embeddings reduces training time to ~3.3 minutes per epoch on a single RTX 5080, highlighting the efficiency gains from pre‑computed visual features.  

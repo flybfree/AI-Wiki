@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the synthesis of Clifford quantum circuits for devices that support all‑to‑all qubit connectivity, treating the problem as a reinforcement learning (RL) task where an agent learns to apply elementary gates to reduce a symplectic matrix representation to the identity. By formulating the circuit synthesis as a random‑walk curriculum from the identity, the authors enable a simple and scalable learning process. A novel equivariant neural network is introduced that respects qubit relabelings of the matrix without requiring circuit splicing or reparameterization for different qubit counts. The approach demonstrates that optimal Clifford circuits can be discovered in milliseconds to seconds per instance across six‑qubit instances and scales to thirty‑qubit targets, outperforming existing synthesizers.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 3 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** An equivariant reinforcement learning framework that learns a universal policy for Clifford circuit synthesis without dependence on the number of qubits.  
 - **Finding 2:** A curriculum based on random walks from the identity that enables rapid convergence and guarantees a single learned policy across varying qubit counts.  

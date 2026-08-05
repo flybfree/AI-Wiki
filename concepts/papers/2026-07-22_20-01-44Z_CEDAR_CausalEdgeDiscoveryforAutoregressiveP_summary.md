@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 CEDAR (Causal Edge Discovery for Autoregressive Processes) introduces a constraint‑based framework that identifies the true lagged causal edges among sparse cross‑variable time series. By leveraging AR(1)-residualized distance correlation and conditional independence tests, CEDAR discovers only the most plausible one‑to‑one lags while discarding indirect or higher‑order connections. The method is designed to be computationally efficient in regimes where few candidate lags survive screening, preserving edge‑level interpretability without sacrificing accuracy.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CEDAR discovers lagged causal edges using AR(1)-residualized U‑centered distance correlation as a constraint.  
 - [Finding 2] It limits the output to at most one edge per ordered variable pair and employs MCI pruning to remove indirect dependencies.  

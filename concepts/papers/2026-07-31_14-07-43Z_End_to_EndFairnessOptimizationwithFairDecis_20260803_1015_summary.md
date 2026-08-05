@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of ensuring fairness in real-world systems where predictive models directly inform resource allocation decisions. The authors introduce End-to-End Fairness Optimization (E2EFO), a unifying framework that integrates fairness constraints across both the prediction and decision stages of the pipeline. By focusing on group-based fairness, the framework ensures that predictions limit accuracy disparities while decisions distribute resources equitably using alpha-fairness measures. To implement this, they propose Fair Decision-Focused Learning (FDFL), a novel training paradigm that jointly optimizes prediction accuracy, prediction fairness, and decision regret through multi-task learning techniques.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of E2EFO as a comprehensive framework that bridges the gap between predictive modeling and equitable decision-making by treating them as a single optimization problem rather than sequential steps.
 - The development of FDFL, a training paradigm that explicitly accounts for "decision regret," which is defined as the loss in decision fairness resulting from imperfect predictions, thereby aligning model objectives with downstream ethical outcomes.

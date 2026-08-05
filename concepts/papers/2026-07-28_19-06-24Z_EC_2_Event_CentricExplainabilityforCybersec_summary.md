@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the need for actionable, event‑centric explanations in cybersecurity alerting, arguing that feature‑level explanations are insufficient for operational investigations. It introduces **(EC)2**, a detector‑agnostic framework that uses a multi‑agent Large Language Model (LLM) to conduct structured, hypothesis‑driven investigations and generate verifiable evidence for each alert. The approach is designed specifically for small‑to‑medium enterprise networks where analysts require contextual understanding of the entities involved. By delivering explanations grounded in concrete data, **(EC)2** not only improves post‑detection analysis but also boosts event classification accuracy.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] An event‑centric explainability framework that is independent of the underlying anomaly detector.  
 - [Finding 2] A multi‑agent LLM architecture that performs hypothesis‑driven investigations to produce structured, evidence‑based explanations.  

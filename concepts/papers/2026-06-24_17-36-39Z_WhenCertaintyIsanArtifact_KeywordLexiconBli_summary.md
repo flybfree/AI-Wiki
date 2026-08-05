@@ -9,6 +9,11 @@ Model: None
 ## Summary  
 This paper challenges the assumption that computational social science findings about rhetorical stance are grounded in genuine psychological or discursive patterns, rather than artifacts of flawed measurement tools. By analyzing interviews from four public intellectuals (2016–2026), the authors reveal a statistically significant correlation between negative affect and high-certainty language when measured via keyword lexicons—suggesting a robust pattern that may not reflect actual epistemic states but rather linguistic artifacts. The study demonstrates that replacing keyword-based scoring with zero-shot semantic classification using large language models (LLMs) drastically reduces this apparent link, indicating the original correlation is likely due to measurement error. This work argues that treating keyword counts as proxies for certainty is a category error, exposing how computational methods can misrepresent discourse.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A strong negative-affect/emphatic-certainty lexical co-occurrence pattern emerges in keyword-based analysis ($r = 0.72$–$0.93$, $p < 0.01$) across four speakers, suggesting a systematic linguistic artifact rather than genuine psychological stance.  
 - [Finding 2] When using LLM-based zero-shot semantic classification on the full diarized corpus (32,625 sentences), the correlation collapses: Dalio’s $r = 0.851$ drops to $r = 0.206$, with two speakers showing negative $r(\text{neg}, \text{emphatic})$ and one null, indicating that keyword counting inverts semantic meaning.  

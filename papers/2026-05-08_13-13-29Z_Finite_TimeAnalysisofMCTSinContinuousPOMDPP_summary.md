@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper delivers a finite‑time analysis for Monte Carlo Tree Search (MCTS) applied to Partially Observable Markov Decision Processes (POMDPs), establishing probabilistic concentration bounds that hold both in discrete and continuous observation spaces. By extending the UCB heuristic with a polynomial exploration bonus, the authors obtain polynomial concentration guarantees for empirical value estimation at the root node, while introducing an abstract Voronoi‑based partitioning scheme that yields finite‑time loss bounds in the continuous case. The core contribution is Voro‑POMCPOW, a variant of POMCPOW that maintains a finite branching factor and preserves the original observation generator under mild conditions.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetwork_summary.md|Summary: 2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 2 title terms overlap; shared tags: ai, paper, research; 17 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearningan_summary.md|Summary: 2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - Finite‑time concentration bounds for empirical value estimation in both discrete and continuous POMDP settings.  
 - Extension of UCB to include a polynomial exploration bonus, yielding polynomial concentration for the discrete case.  

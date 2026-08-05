@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical bottleneck of high latency and error rates in Computer-Use Agents (CUAs) that traditionally rely on sequential fetch-screenshot-execute loops. The authors propose Agent Just-In-Time (JIT) Compilation, a novel framework that transforms natural language task descriptions directly into executable code, allowing for flexible integration of LLM calls, tool interactions, and parallel execution. By decoupling planning from execution and introducing sophisticated scheduling mechanisms, the system significantly reduces the overhead associated with iterative model inference. The approach fundamentally shifts the paradigm from reactive, step-by-step processing to proactive, code-based optimization, aiming to deliver faster and more reliable automation for complex web tasks.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of JIT-Planner, a component that generates multiple executable code plans, validates them against strict tool specifications, and selects the most efficient candidate based on cost metrics.
 - The development of JIT-Scheduler, which utilizes Monte Carlo cost estimation derived from learned latency distributions to explore and implement optimal parallelization strategies for tool execution.

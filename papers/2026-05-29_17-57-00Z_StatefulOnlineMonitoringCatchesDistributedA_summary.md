@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses a critical vulnerability in current AI safety infrastructure: the inability of standard monitors to detect distributed cyberattacks orchestrated by multiple agent accounts. The authors demonstrate that attackers can evade detection by splitting harmful tasks across numerous users, rendering individual transcripts appear benign to stateless monitors. To counter this, they introduce a novel online stateful monitoring system that aggregates weak suspiciousness signals across many transcripts using real-time clustering. This approach allows the system to escalate rare, high-confidence cases to a language model for final verification, effectively catching distributed attacks that traditional methods miss.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDist_summary.md|Summary: 2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPos_summary.md|Summary: 2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPositionEm.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions
 - **First Distributed Agent Attack Demonstration**: The authors construct and execute the first known multi-agent scaffold capable of completing complex cybersecurity tasks while hiding the harmful objective across subagents with limited contexts, successfully evading standard safety monitors.
 - **Stateful Online Monitor Development**: They develop a new monitoring architecture that uses real-time clustering to collect and aggregate weak signals across many agent transcripts, escalating only to a language model when necessary to flag misuse across user accounts.

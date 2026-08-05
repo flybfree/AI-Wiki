@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates the performance of one‑bit coefficients in a normalized discrete polynomial Fourier extension for first‑order sigma‑delta quantization, aiming to obtain rigorous error bounds and optimal approximation rates across various parameter regimes. By analyzing the variation of complex weights derived from the state update \(Δv_k\) and exploiting endpoint compatibility, the authors derive both upper and lower order decay rates that are sharp over admissible input classes. The study also extends these results to higher‑order finite‑record identities, explicit boundary corrections, and multidimensional parameter families, providing a comprehensive theoretical framework for noise‑shaped error analysis.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] An \(O(N^{-1})\) approximation rate is established for the parabolic phase \(\phi_{x,t}(\xi)=x\xi+t\xi^2\) with variation estimates that are sharp over compact parameter sets, demonstrating optimality of the bound.  
 - [Finding 2] Higher‑order finite‑record identities retain all endpoint traces, allowing an \(r\)th‑order noise‑shaped error to yield \(O(N^{-r})\) decay for sufficiently smooth weights and \(O(N^{-(r-1+\alpha)})\) decay for \(C^{r-1,\alpha}\) weights.  

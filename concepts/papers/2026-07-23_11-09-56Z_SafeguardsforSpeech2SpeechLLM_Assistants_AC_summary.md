@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates the feasibility of deploying speech‑to‑speech (S2S) conversational assistants with built‑in guardrails in automotive settings, where real‑time interaction is critical. The authors evaluate two common implementation strategies—transcript‑based checks and tool‑based actions—and show that both suffer from prohibitive latency and technical instability, making them unsuitable for industrial deployment. Their contribution lies in identifying these limitations as open challenges for S2S guardrails in the automotive domain.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Transcript‑based guardrails introduce a delay of up to 0 seconds (when checks are cheap) but can reach 1.4 seconds, which is unacceptable for interactive driving conversations.  
 - [Finding 2] Tool‑based guardrails suffer from non‑deterministic tool call behavior, causing unpredictable response times and breaking the deterministic flow required by safety‑critical systems.  

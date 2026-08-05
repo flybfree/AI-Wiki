@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 SkillOpt proposes a systematic approach to treat agent‑skill capabilities as external state that can be optimized with the same rigor applied to neural weight spaces. By converting rollout scores into bounded edit operations (add, delete, replace) on a single skill document and only accepting edits that strictly improve a held‑out validation metric, SkillOpt creates a controllable text‑space optimizer for self‑evolving agents. The method eliminates inference‑time model calls at deployment while delivering measurable gains across multiple benchmarks and execution harnesses. This work is the first to achieve such stable, zero‑cost skill training on large language models.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] SkillOpt introduces a textual learning‑rate budget, rejected‑edit buffer, and epoch‑wise slow/meta updates that stabilize skill evolution without runtime model calls.  
 - [Finding 2] The optimizer treats the skill document as an external state, converting rollout scores into bounded add/delete/replace edits accepted only when they improve validation performance.  

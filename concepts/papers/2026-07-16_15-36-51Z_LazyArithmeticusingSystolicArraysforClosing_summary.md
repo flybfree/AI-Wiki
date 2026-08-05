@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper aims to close the verification gap between high‑precision mathematics and resource‑constrained embedded platforms by introducing a sound, real‑time adaptive‑precision quantization scheme that processes bits from most significant to least significant (MSB‑first). This approach is paired with a novel hardware design based on systolic arrays capable of performing MSB‑first arithmetic. Together they enable dynamic precision adjustments while guaranteeing resilience against bit‑flip attacks on critical decision boundaries. The work represents a work‑in‑progress, with software implementations already complete and hardware prototypes in development.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_08-30-00Z_Real_TimeSemanticSegmentationwithOptimizedR_summary.md|Summary: 2026-07-21_08-30-00Z_Real_TimeSemanticSegmentationwithOptimizedRetinaNe.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-07-23_22-49-51Z_SearchingtheSpaceofFeed_ForwardNeural_Netwo_summary.md|Summary: 2026-07-23_22-49-51Z_SearchingtheSpaceofFeed_ForwardNeural_NetworkWeigh.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Adaptive precision quantization that passes the most significant bits first, dynamically adjusts online precision, and performs sensitivity analysis to bound decision‑boundary crossing risk.  
 - [Finding 2] A systolic array hardware architecture that executes MSB‑first arithmetic, providing low‑latency, high‑precision computation on edge devices.  

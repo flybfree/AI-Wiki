@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a multilingual fact‑checking system that must operate across many languages while delivering high throughput and low latency, and it compares fine‑tuned compact encoder models against large language model (LLM) baselines. Its contribution is to demonstrate that task‑specific fine‑tuning of XLM‑RoBERTa‑Large, mmBERT‑base, and a SetFit re‑ranker can match or exceed the performance of state‑of‑the‑art LLMs such as GPT‑5.2, Claude Opus, and Qwen3‑8b in multilingual settings. The study also shows that these compact models provide significant latency and cost savings on the same hardware, making them suitable for production deployment with privacy constraints.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - Fine‑tuning XLM‑RoBERTa‑Large for claim detection yields robust multilingual classification across 114 languages.  
 - A SetFit‑based multilingual re‑ranker maintains competitive evidence matching performance with modern proprietary embeddings.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the false‑negative problem that limits the performance of out‑of‑distribution (OOD) detection in pre‑trained vision‑language models (VLMs). By mining true negative labels from unlabeled wild corpora, the authors propose a debiased negative mining framework that corrects sampling bias and converts the process into Monte‑Carlo sampling using ID labels. Their work demonstrates that this correction yields state‑of‑the‑art OOD detection scores across multiple experimental setups. The contribution is both theoretical—providing a formal view of bias correction—and practical—offering an easy‑to‑implement pipeline for robust VLM‑based OOD scoring.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_Mo_summary.md|Summary: 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsfo_summary.md|Summary: 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-29-56Z_SupraBench_ABenchmarkforSupramolecularChemi_summary.md|Summary: 2026-06-11_15-29-56Z_SupraBench_ABenchmarkforSupramolecularChemistry.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Debiased negative mining corrects the inherent sampling bias in negative label selection, enabling more reliable OOD scores.  
 - [Finding 2] The authors develop a theoretical framework that transforms debiased mining into Monte‑Carlo sampling based on ID labels and the unlabeled wild corpus.  

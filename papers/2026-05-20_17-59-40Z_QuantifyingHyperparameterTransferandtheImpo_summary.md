@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research paper addresses the critical challenge of scaling optimization hyperparameters for large language models by developing a rigorous framework to quantify hyperparameter transfer. The authors investigate why Maximal Update ($\mu$P) parameterization consistently outperforms standard parameterization (SP) in terms of learning rate transferability, a phenomenon previously inadequately explained by existing theoretical models. Through a comprehensive series of ablation studies, the study identifies that the primary advantage of $\mu$P stems from its ability to maximize the learning rate of the embedding layer, thereby eliminating training instabilities inherent in SP. Furthermore, the paper provides nuanced insights into the role of weight decay, revealing its dual impact on scaling law quality and extrapolation robustness.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPe_summary.md|Summary: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions
 - **Quantification Framework**: The authors introduce a novel three-metric framework to evaluate hyperparameter transfer, assessing the quality of scaling law fits, robustness to extrapolation errors, and asymptotic loss penalties associated with different parameterizations.
 - **Embedding Layer Mechanism**: The study reveals that the overwhelming benefit of $\mu$P over standard parameterization when using AdamW is primarily due to maximizing the embedding layer's learning rate, which acts as a bottleneck in standard setups.

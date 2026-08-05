@@ -13,6 +13,10 @@ tags: [ai-trends, daily-summary, ai-news, intelligence, wiki]
 
 July 21 was a paper-heavy day, not a news-heavy one. A sweep for major AI labs and incident terms did not surface any breaking story that displaced the paper-heavy picture. The strongest cluster was around diffusion, sampling, and generation efficiency, with a second cluster around reasoning cost, RLVR-style optimization, and recovery routing for agents. The rest of the day leaned toward benchmarks, deployment, and applied ML in science / engineering domains. The overall signal: the field is still pushing hard on making models faster, more controllable, and more reliable in real systems.
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 3 title terms overlap, shared tags: wiki, 3 topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 3 title terms overlap, shared tags: wiki, 3 topic terms overlap
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 3 title terms overlap, shared tags: wiki, 3 topic terms overlap
 ## Key Themes
 
 ### 1. Diffusion and generation efficiency are still central

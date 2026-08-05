@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of selecting an optimal policy from a limited set when the underlying Markov decision process is uncertain, focusing on minimizing minimax regret. It proposes *k‑adaptable policy synthesis*, which jointly decides both which MDPs share a policy and what that policy should be. The authors prove that this joint optimization problem is NP‑hard and develop an exact nested branch‑and‑bound algorithm called KAPS. Experiments show that adding just one extra policy can dramatically reduce regret, while the single‑policy baseline remains competitive and often optimal.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The problem of optimizing a set of k policies under minimax regret in uncertain MDPs is shown to be NP‑hard.  
 - [Finding 2] KAPS introduces an exact nested branch‑and‑bound algorithm with problem‑specific bounds and heuristics that jointly selects shared policies and their values.  

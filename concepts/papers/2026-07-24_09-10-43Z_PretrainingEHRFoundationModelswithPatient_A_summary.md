@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper addresses a critical limitation in the pretraining of autoregressive foundation models for electronic health records (EHRs), where standard sequence construction methods often introduce bias by unevenly weighting patient contributions and mixing data across patients. The authors propose Patient Sampling, a novel approach that enables fine-grained control over how training signals are distributed during model pretraining. By decoupling the selection of training windows from the global stream structure, Patient Sampling allows for more equitable and clinically meaningful representation of individual patient trajectories. This work identifies sequence construction as an underexplored yet crucial design choice in EHR foundation models.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 16 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The standard concatenation-based approach (referred to as Global Stream) can introduce bias by over-representing patients with longer records and underrepresenting those with shorter or sparse data, leading to skewed optimization.  
 - [Finding 2] Patient Sampling enables dynamic weighting of patient trajectories during pretraining, allowing for balanced sampling across different patient lengths and clinical contexts.  

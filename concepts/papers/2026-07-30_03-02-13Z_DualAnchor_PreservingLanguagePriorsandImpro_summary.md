@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses language‑prior degradation and lexical fidelity gaps in gloss‑free sign language translation using LLM‑based methods. DualAnchor introduces two complementary anchors to preserve linguistic fluency while maintaining visual alignment. It achieves strong performance on benchmark datasets by jointly regularizing the decoder with token‑level prior anchoring and optimal transport alignment. The framework demonstrates that each anchor tackles a distinct problem, leading to overall improvement.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - DualAnchor integrates Token‑Level Prior Anchoring (TPA) and Optimal Transport Alignment (OTA) into a single training pipeline.  
 - TPA preserves the LLM’s language prior by regularizing next‑token generation toward its frozen autoregressive distribution.  

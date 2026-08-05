@@ -16,6 +16,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](http://localhost:8080/knowledge?query=)
+
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson4_AgentFrameworks.md|Lesson 4 — Agent Frameworks: The Loop Engine]] — 3 title terms overlap, 8 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson6_Evaluation.md|Lesson 6 — Evaluation & Verification: The Judge Node]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1 — The Paradigm Shift: From Prompting to Loops]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+
 ## Core Idea
 
 The **outer loop** turns one session's hard-won lesson into something every future session starts with. It separates solving from learning: agents store discoveries as structured Knowledge Units and query the store before retrying a failure, so they stop rediscovering the same dead ends.

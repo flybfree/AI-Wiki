@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates the trade‑offs between training‑free and training‑based intent classification within Large Language Models (LLMs). The authors introduce two lightweight, training‑free strategies that rely solely on statistical properties of internal representations, and compare them against conventional machine‑learning classifiers such as MLP models and linear probes. By systematically evaluating these methods across mathematics, coding, natural language, and domain‑specific tasks, the study uncovers how each approach performs in terms of accuracy, robustness, and failure modes. The work contributes a nuanced understanding of when training‑free methods excel versus when supervised training yields measurable benefits.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - Both training‑free and training‑based classifiers saturate easy benchmarks (mathematics vs. coding vs. natural language).  
 - Training‑based models demonstrate an advantage on harder classification tasks, such as distinguishing Java from Python code.  

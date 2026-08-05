@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces GARI, a generator‑aligned representation interface that enables generic sequence backbones to support diagnostic soft equivariance across modalities without redesigning group‑specific operators. It formalizes a probe‑specific residual that measures how well learned representations align with declared transformations. The framework distinguishes representation consistency from task robustness and exact equivariance. A frozen‑checkpoint diagnostic (DEE) is provided to verify the prescribed generator relation under known actions.
 
+## Semantic links
+- [[concepts/papers/2026-07-22_17-38-39Z_SoftReason_AFullyDifferentiableNeuro_Soft_S_summary.md|Summary: 2026-07-22_17-38-39Z_SoftReason_AFullyDifferentiableNeuro_Soft_Symbolic.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-07-21_17-59-21Z_CopyLess_GroundMore_OvercomingRepetitiveCop_summary.md|Summary: 2026-07-21_17-59-21Z_CopyLess_GroundMore_OvercomingRepetitiveCopyinginL.md]] — 3 title terms overlap; 1 backlink; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_15-07-21Z_UDT_ReconcilingU_NetsandDiffusionTransforme_20260804_0015_summary.md|Summary: 2026-08-02_15-07-21Z_UDT_ReconcilingU_NetsandDiffusionTransformerswithD.md]] — 3 title terms overlap; 8 summary/topic terms overlap; semantic match 0.07
+
 ## Key Contributions  
 - [Finding 1] The framework exposes transformation generators to a generic backbone through aligned canonical and generator‑induced views, making generator structure accessible and learnable.  
 - [Finding 2] It formalizes a probe‑specific soft‑equivariance residual that distinguishes representation consistency from task robustness and exact equivariance.  

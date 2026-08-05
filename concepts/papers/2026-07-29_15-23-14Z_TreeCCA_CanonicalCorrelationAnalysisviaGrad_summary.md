@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces **TreeCCA**, a method that trains gradient‑boosted tree ensembles (XGBoost, LightGBM) end‑to‑end as canonical correlation analysis encoders by minimizing the Eckart‑Young loss. It leverages the plug‑and‑play nature of standard GBT libraries while delivering nonlinear accuracy and native interpretability through gain importances that reveal which features drive cross‑view correlations. The approach matches or exceeds Deep CCA on synthetic benchmarks, recovers true support in zero‑linear‑covariance cases, and achieves comparable classification performance at five times lower computational cost on the UCI HAR sensor‑fusion dataset.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] TreeCCA is the first end‑to‑end canonical correlation analysis that uses gradient‑boosted trees as encoders, providing closed‑form per‑sample gradients via the Eckart‑Young loss.  
 - [Finding 2] The method yields gain importances directly from tree splits, offering interpretable feature importance without additional modeling cost.  

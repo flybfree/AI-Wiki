@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper explores how recommendation‑system explanations can be leveraged as behavioral nudges to promote sustainable consumer choices, using generative AI to create theory‑grounded sustainability information. The authors test whether plain disclosure of environmental impact versus framing that information or invoking a descriptive social norm influences participants’ actual selections and their evaluations of the recommendations. Their experiments reveal that while simple disclosure improves perceived relevance, it does not translate into more sustainable behavior; however, socially framed explanations markedly boost both choice and perception. By demonstrating scalable LLM‑generated explanations, the work points toward practical AI‑driven interventions for social good.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Simply disclosing sustainability information in recommendation explanations does not change users’ actual choices.  
 - [Finding 2] Framing sustainability information or invoking a descriptive social norm significantly increases sustainable selections and eases decision‑making.  

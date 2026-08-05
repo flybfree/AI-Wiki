@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of rendering time‑varying implicit neural volume representations (INRs) interactively, where each query requires costly neural inference. It proposes a query‑efficient stochastic volume rendering framework based on delta tracking to replace dense sampling with cheap approximations. The system reduces per‑frame cost while preserving high fidelity and enables real‑time temporal exploration. By leveraging GPU parallelism and ray budgeting, it achieves 30–40 FPS at 1024×1024 resolution.
 
+## Semantic links
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-08-04_13-14-06Z_UnequalVerdicts_InvestigatingGenderBiasinLL_summary.md|Summary: 2026-08-04_13-14-06Z_UnequalVerdicts_InvestigatingGenderBiasinLLM_Based.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A delta‑tracking based stochastic volume rendering pipeline that decouples traversal from neural evaluation, enabling efficient per‑pixel cost.  
 - [Finding 2] Ray budgeting and query pruning strategies that limit the number of INR queries per frame, dramatically reducing GPU load.  

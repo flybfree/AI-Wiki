@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper seeks to enhance the empathetic performance of large language models (LLMs) in generating culturally sensitive mental‑health advice for low‑resource languages. By combining expert‑authored few‑shot examples with a structured reflective chain‑of‑thought prompting strategy, it introduces RP‑RCAF and an integrated evaluation system called G‑REFS that consistently outperforms conventional prompting across three state‑of‑the‑art LLMs. The contributions demonstrate that human‑LLM collaboration can produce responses that are more empathetic, culturally appropriate, linguistically clear, and ethically sound than standard model outputs.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 12 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 5 title terms overlap; 13 backlinks; 5 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A curated dataset of 625 authentic mental health cases drawn from Facebook posts, a Bangladeshi TV program, and student questionnaires.  
 - [Finding 2] The Role‑Playing Reflective Chain‑of‑Thought Advisory Framework (RP‑RCAF), which merges expert few‑shot examples with self‑reflection to guide the LLM toward compassionate counseling.  

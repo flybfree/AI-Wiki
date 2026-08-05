@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces the Directional Influence Function (DIF), a new estimator that quantifies how individual training samples affect model parameters under constrained learning scenarios. Unlike classical influence functions, which ignore feasibility constraints and can produce infeasible estimates, DIF explicitly incorporates both the objective and constraint qualifications into its analysis. The authors demonstrate that DIF correctly recovers leave‑one‑out retraining outcomes for constrained linear regression while outperforming standard penalty‑based IF methods. This work provides a reliable tool for data attribution in fairness‑constrained CNNs and other constrained models.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A theoretically grounded Directional Influence Function that respects both the objective and constraint qualifications of constrained learning problems.  
 - [Finding 2] Empirical validation showing DIF recovers leave‑one‑out retraining results, whereas classical IF and penalty‑based IF exhibit substantial bias.  

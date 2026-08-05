@@ -15,6 +15,11 @@ Source: 2026-05-06_17-42-07Z_UnderstandingIn_ContextLearningforNonlinearRegress.
 ## Summary
 The paper studies in-context learning for nonlinear regression and argues that transformer attention can be understood as a featurizer. By explicitly constructing transformer networks that realize nonlinear basis functions such as polynomial or spline features, the authors build a framework for analyzing end-to-end in-context nonlinear regression. They also derive finite-sample generalization bounds that depend on context length and training set size.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|AI/ML Foundations Lesson 09 - Attention and Transformers]] — 3 title terms overlap; 6 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 2 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+
 ## Key Takeaways
 - Attention can be used to construct nonlinear features, not just mix tokens.
 - The theory extends ICL analysis beyond linear regression settings.

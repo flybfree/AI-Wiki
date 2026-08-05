@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a symmetry‑aware foundation model for logical rule induction that can be pretrained on tiny synthetic datasets yet scale to large schemas without retraining. It introduces a canonical export mechanism that decodes discrete rules from latent scores while preserving all logical symmetries such as atom naming, example order, polarity flips, and label swaps. By enforcing exact symmetry by construction, the model becomes reusable and interpretable across schema variations. The approach demonstrates stable performance on both synthetic stress tests and real‑world data, showing rule fidelity remains high even when schemas grow.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A canonical export that decodes discrete logical rules from latent scores without retraining.  
 - [Finding 2] Architecture, inference, and training modifications restore symmetry beyond example order.  

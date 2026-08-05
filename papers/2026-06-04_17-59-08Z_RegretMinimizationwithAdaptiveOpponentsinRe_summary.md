@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper addresses regret minimization in repeated games where opponents can adapt their strategies based on the full history of play, a setting that standard external‑regret metrics cannot capture. To reflect players’ counterfactual reasoning, the authors introduce **Repeated Policy Regret (RP‑Regret)**, a game‑theoretic loss that compares realized utility with the best‑in‑hindsight achievable given all possible responses to history. The work identifies necessary conditions for RP‑Regret to be sublinear in time and proposes three algorithms—an oracle‑based method, a convex linearized surrogate, and a direct algorithm for slowly changing opponents—to minimize this non‑convex regret. Experiments demonstrate that minimizing RP‑Regret yields cooperative equilibria with higher utilities than conventional approaches.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsfo_summary.md|Summary: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTranspo_summary.md|Summary: 2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors establish necessary conditions under which RP‑Regret can be bounded sublinearly in the number of rounds, both in terms of the variation of comparator strategies and the memory requirements of the comparator and opponent policies.  
 - [Finding 2] They propose three concrete algorithms: (i) an optimization‑oracle algorithm assuming prior online non‑convex learning results; (ii) a convex linearized surrogate that approximates RP‑Regret iteratively; and (iii) a direct algorithm tailored for opponents whose strategies evolve slowly.  

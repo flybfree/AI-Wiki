@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the well‑known trade‑off between forecast skill and sharpness in neural network‑based parametric post‑processing of ensemble forecasts, proposing a loss‑function extension that penalises excessive uncertainty. By applying this technique to 2 m temperature ensembles from the EUPPBench benchmark, the authors show that interval widths can be reduced by roughly 8–12 % while keeping skill metrics intact. The contribution is a practical regularisation strategy that improves sharpness without sacrificing probabilistic forecasting quality. This work therefore offers a clear path toward more usable short‑lead forecasts.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextua_summary.md|Summary: 2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introducing a penalty term in the loss function reduces the width of the nominal central prediction interval relative to the baseline network output.  
 - [Finding 2] The proposed method preserves or even improves forecast skill, as measured by CRPS and RMSE, despite the tighter intervals.  

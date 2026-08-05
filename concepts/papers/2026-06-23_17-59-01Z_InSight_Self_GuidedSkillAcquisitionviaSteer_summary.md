@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 Vision‑language‑action (VLA) models can learn manipulation skills from demonstrations, yet they are limited to the set of primitives already represented in their training data. The authors introduce **InSight**, a framework that makes VLA policies steerable at the primitive‑action level—such as “move gripper to the bowl,” “lift upward,” or “pour the bottle”—enabling autonomous skill acquisition without any human demonstrations of the target tasks. By combining an automated segmentation pipeline with a data‑flywheel loop, InSight can decompose new goals into missing primitives, generate low‑level control actions, label successful attempts, and integrate them back into the VLA training set, thereby expanding the model’s repertoire on its own.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Primitive steerability provides a practical foundation for continual skill acquisition in VLA policies.  
 - **Finding 2:** An automated segmentation pipeline can partition demonstrations into labeled primitives using VLM plan decomposition and end‑effector poses, making the primitives steerable.  

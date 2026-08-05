@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The rapid expansion of context window lengths in Large Language Models (LLMs) has made long‑context inference attractive but also dramatically increases memory consumption due to the Key‑Value (KV) cache. S$^4$R addresses this trade‑off by constructing low‑rank subspaces from a selectively sampled subset of tokens, then performing attention over a sparsely reconstructed KV representation that is initialized using prompt‑aware methods. By combining selective sampling with sparse reconstruction, the method achieves high compression rates while preserving near‑full accuracy, offering a solution that balances offline calibration data needs against online compute costs.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Selective token sampling enables the construction of low‑rank subspaces without requiring full‑prompt calibration.  
 - [Finding 2] Prompt‑aware initialization trades off external calibration data dependence for a modest prefilling cost, providing a reusable key/value basis.  

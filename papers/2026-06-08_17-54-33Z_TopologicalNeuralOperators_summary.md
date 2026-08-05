@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Topological Neural Operators (TNOs) propose a principled framework for learning operators that operate on cell complexes rather than merely point‑wise data, thereby preserving the geometric support of physical quantities. By leveraging Discrete Exterior Calculus, TNOs model cross‑dimensional interactions through gradient, curl, and divergence operators, allowing information to flow along fixed topological rules while the transformation itself is learned. The authors further introduce Hierarchical TNOs (HTNOs) that incorporate coarse complexes to propagate long‑range, topology‑dependent signals. This unified approach subsumes existing neural operator models as a special case, offering a consistent perspective across discretizations.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A principled framework for operator learning on cell complexes using Discrete Exterior Calculus that respects geometric support and topological structure.  
 - [Finding 2] Hierarchical TNOs (HTNOs) that embed coarse complexes to enable long‑range, topology‑dependent information propagation.  

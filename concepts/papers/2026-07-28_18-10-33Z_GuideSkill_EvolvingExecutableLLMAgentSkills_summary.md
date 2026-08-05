@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **GuideSkill**, an external reasoning layer that transforms clinical practice guideline text into executable functions capable of returning ordinal diagnostic‑support scores for each condition. It provides two variants: **GuideSkill‑Zero** which loads these functions directly from the guidelines, and **GuideSkill‑Evo** which dynamically evolves skill coverage by training on case‑diagnosis pairs to add missing diagnoses. At inference, an LLM proposes a differential diagnosis, grounds the required features in matched skills, and fuses the executed skill scores with the model’s ranking. This approach overcomes the limitation of traditional Retrieval‑Augmented Generation (RAG) that merely retrieves or absorbs guideline text.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - **Executable Skills Framework** – GuideSkill converts guideline content into functions that output ordinal diagnostic‑support scores, enabling systematic rule execution rather than passive retrieval.  
 - **Dynamic Skill Evolution** – GuideSkill‑Evo uses case‑diagnosis pairs to refine and expand the skill set, achieving 99.5 % gold‑label coverage compared with 56.5 % for baseline methods.  

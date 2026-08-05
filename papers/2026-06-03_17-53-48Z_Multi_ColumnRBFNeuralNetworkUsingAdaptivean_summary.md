@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the scalability limitations of gradient‑based and population‑based RBFN training methods on large multi‑column datasets by proposing two new hybrid approaches: Multi‑Column RBFN with Particle Swarm Optimization (MC‑PSO) and Multi‑Column RBFN with Adaptive PSO (MC‑APSO). These methods decompose the network into parallel, column‑specific RBF sub‑networks that are trained independently using evolutionary swarm algorithms. By training only a subset of columns for each test instance, the approaches achieve higher accuracy while maintaining fast inference and training times compared to conventional ErrCor, PSO, APSO, and MCRN. The contribution is both methodological (parallel column‑wise RBFN design) and empirical (superior performance on benchmark tasks).  
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces a multi‑column architecture where each spatial subset of the data is handled by an independent RBF sub‑network, enabling parallel training.  
 - [Finding 2] Combines this decomposition with Particle Swarm Optimization (PSO) to develop MC‑PSO, and further enhances it with Adaptive PSO (APSO) for faster convergence.  

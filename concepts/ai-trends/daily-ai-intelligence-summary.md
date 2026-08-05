@@ -23,6 +23,10 @@ On the product side, Google continued turning Search into a multimodal intake su
 
 Finally, inference economics keep fragmenting. [DeepSeek V4 Flash on a single AMD MI300X](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-04_DeepSeekV4FlashonaSingleAMDMI300X_summary.md), [Runware’s portable inference pod](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-04_Isthefutureofdatacentersportable_Runwarebuildsapod_summary.md), and [Z.ai’s 1GW domestic-chip data center](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-04_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon_summary.md) are three very different answers to the same question: how do you serve more model demand without blowing up cost, latency, or supply chains?
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
 ## Key Themes / Patterns
 
 ### 1) Frontier safety incidents are becoming operational, not theoretical

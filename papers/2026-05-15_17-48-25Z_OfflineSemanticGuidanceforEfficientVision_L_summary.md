@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper addresses the critical bottleneck of deploying large-scale Vision-Language-Action (VLA) policies in real-time robotic control by introducing VLA-AD, a novel distillation framework that leverages offline semantic guidance. By utilizing a Vision-Language Model as a supervisor, the authors transfer knowledge from massive teacher models to lightweight student policies without requiring the teacher during inference. This approach significantly reduces computational overhead while maintaining high performance across complex manipulation tasks. The proposed method demonstrates that semantic cues, such as task phases and directional descriptions, enhance both the efficiency and robustness of the distilled policies.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarc_summary.md|Summary: 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentr_summary.md|Summary: 2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - VLA-AD introduces a novel distillation paradigm that augments standard action imitation with high-level semantic signals, including task phase anchors and multi-frame operating directions, which are derived from a Vision-Language Model.
 - The framework achieves a substantial $44\times$ reduction in model size (from 7B to 158M parameters) while preserving performance, with only a negligible $0.27\%$ average relative gap compared to the teacher model on LIBERO benchmarks.

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates how contextualization—tailoring AI responses to a user’s background, interests, or prior interactions—and conversational warmth jointly influence users’ trust, reliance on an AI assistant, and its persuasive power when the assistant argues against expert recommendations. By conducting a controlled experiment, the authors demonstrate that while contextualization alone weakens persuasion, adding warmth restores it through a crossover interaction, revealing a nuanced design‑behavior relationship. The study also uncovers that trust predicts both persuasion and reliance but is not mediated by either manipulation, whereas AI literacy decouples trust from behavior. These findings advance the understanding of when conversational interface choices matter for influencing user decision‑making.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsI_summary.md|Summary: 2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsInvarian.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning_summary.md|Summary: 2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - Contextualization reduces the persuasive impact of an AI assistant’s argument unless combined with warmth, creating a conditional crossover effect.  
 - Trust remains a strong predictor of both persuasion and reliance across all experimental conditions, independent of contextualization or warmth manipulations.  

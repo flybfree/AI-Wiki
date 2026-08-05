@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Runware has unveiled the Sonic Inference Pod, a single‑unit modular data center designed for AI inference that can be deployed quickly and powered by a closed‑loop cooling system. The pod’s flexibility lets it scale on demand, run alongside hyperscaler facilities, and avoid water consumption—a stark contrast to traditional massive data centers.
 
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-07-26_LangChain_Harness_and_Loop_Engineering_References.md|LangChain Harness and Loop Engineering References]] — 2 title terms overlap, 4 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson5_KnowledgeMemory.md|Lesson 5 — Knowledge & Memory: The Outer Loop]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson4_AgentFrameworks.md|Lesson 4 — Agent Frameworks: The Loop Engine]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Modular pods enable rapid capacity addition without expanding fixed infrastructure.  
 - Closed‑loop cooling eliminates water usage and cuts construction time from months to days.  

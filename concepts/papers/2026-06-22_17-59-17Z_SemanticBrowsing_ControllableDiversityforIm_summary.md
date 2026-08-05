@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 [The paper proposes Semantic Browsing, a method for controllable diversity in text‑to‑image generation that enables users to explore structured image galleries by navigating meaningful semantic axes. It shifts diversity control from stochastic model variation to explicit textual decision‑making using rich scene representations. By leveraging the VLM’s understanding of captions, it enforces interpretable variations aligned with user intent. The approach creates a systematic traversal of diverse yet coherent images.]  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introducing Semantic Browsing as a paradigm for structured diversity in image generation.  
 - [Finding 2] Decoupling semantic decision‑making from pixel generation by exploiting the VLM’s caption training, allowing full scene context manipulation.  

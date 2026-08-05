@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how open‑source large language models (LLMs) represent cultural mythological knowledge and where that representation fails to be decoded. By probing 18 open‑source LLMs across eight architecture families, the authors show that while these models can reliably name dominant‑tradition figures such as Zeus or Thor, they recover equivalents from less‑represented traditions—Finnish, Slavic, Egyptian, or Chinese mythologies—far less consistently. The core finding is that the failure occurs at the readout layer, not in the internal representation of cultural knowledge.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The residual stream cleanly distinguishes cultural sources above a name‑string baseline, indicating that the model does encode distinct cultural information.  
 - [Finding 2] The decoder collapses culturally specific tokens onto dominant‑tradition ones; the failure is at readout rather than representation, and this collapse is language‑conditioned.  

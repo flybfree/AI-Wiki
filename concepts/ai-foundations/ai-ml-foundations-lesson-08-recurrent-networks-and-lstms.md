@@ -20,6 +20,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://example.com/placeholder)
+
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|AI/ML Foundations Lesson 09 - Attention and Transformers]] — 3 title terms overlap; shared tags: foundations, lesson, sequencemodeling; 6 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|AI/ML Foundations Lesson 07 - Convolutional Networks for Vision]] — 3 title terms overlap; shared tags: foundations, lesson; 6 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 3 title terms overlap; shared tags: foundations, lesson; 5 backlinks
+
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

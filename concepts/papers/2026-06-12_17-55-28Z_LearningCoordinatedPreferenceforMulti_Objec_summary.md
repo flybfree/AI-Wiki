@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles cooperative multi‑objective multi‑agent reinforcement learning where agents pursue several potentially conflicting objectives while each agent has distinct observations, roles, and contributions. It introduces Preference Coordinated Multi‑agent Policy Optimization (PCMA), a method that learns agent‑specific preferences to enable complementary trade‑offs among the team. Theoretically, PCMA is framed as a team‑optimal game and demonstrates that diversity in preferences can generate a first‑order improvement of the collective objective. Empirical experiments on MOMA environments and a traffic‑control scenario confirm both higher performance and better coordination than existing baselines.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 3 title terms overlap; shared tags: ai, paper, research; 2 backlinks
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 2 backlinks
+
 ## Key Contributions  
 - [Finding 1] PCMA learns coordinated agent‑specific preferences that align multi‑objective goals across agents, fostering complementary trade‑offs.  
 - [Finding 2] The authors provide a theoretical proof that diversity of preferences yields a first‑order improvement in the team objective under suitable conditions.  

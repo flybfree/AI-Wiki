@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether convolutional neural networks (CNNs) used for ECG image classification rely on clinically meaningful waveform features or on superficial shortcut cues such as report layout, metadata, contrast, blur, or artificial markers. By generating six controlled feature sets that remove or alter the raw ECG signal, the authors assess how model performance and attribution patterns change across these representations. The study quantifies shortcut retention through prediction consistency scores and confidence divergence, while also evaluating Integrated Gradients and occlusion sensitivity to reveal where the network focuses its learning. This work contributes a systematic methodology for detecting non‑clinical biases in deep‑learning ECG classifiers.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Shortcut retention is high across all feature sets, indicating that classification accuracy does not depend on waveform morphology but on visual artifacts such as contrast enhancement or blur.  
 - **Finding 2:** Integrated Gradients and occlusion tests consistently attribute predictions to the artificial class‑specific markers (e.g., red arrows for MI) rather than to ECG regions, confirming a Clever Hans effect.  

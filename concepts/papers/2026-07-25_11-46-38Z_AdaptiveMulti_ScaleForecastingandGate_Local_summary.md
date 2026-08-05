@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces ABF‑T‑GLCP, a model‑agnostic framework that jointly learns an adaptive predictive state representation for point forecasts and reuses it to construct calibrated prediction intervals via Gate‑Localized Conformal Prediction (GLCP). By integrating horizon‑specific temporal experts through a learned gate and applying sparse predictive transfer across related series, the method adapts its predictions as the underlying multivariate time series evolves. The uncertainty module selects locally relevant calibration residuals by coupling the gate state with temporal recency, thereby aligning forecast confidence with the current regime of each series while preserving conformal prediction’s model‑agnostic nature.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **Adaptive multi‑scale forecasting**: A learned gate activates a set of horizon‑specific experts and sparse predictive transfer across related series refines point forecasts, enabling accurate predictions for evolving multivariate nonstationary data.  
 - **Gate‑Localized Conformal Prediction (GLCP)**: The uncertainty module uses the gate state together with recency information to pick calibration residuals that are locally meaningful, producing prediction intervals that adapt to the current predictive regime.  

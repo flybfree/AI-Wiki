@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 StreamTalk addresses a critical challenge in real-time co-speech gesture generation by introducing a closed-loop framework that prevents motion drift over long sequences, which is a persistent issue with existing open-loop methods. The core innovation lies in using key poses as forward constraints to anchor each generated clip, enabling continuous refinement and maintaining trajectory coherence. By integrating periodic generate-retrieve-refine cycles, StreamTalk ensures that each new gesture clip builds upon the previous one without accumulating errors. This approach significantly improves long-horizon performance while operating at real-time speeds of 76 FPS on BEAT2.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The primary limitation in streaming co-speech gesture generation is not poor short-clip quality but rather the accumulation of small errors due to lack of forward constraints, leading to trajectory drift over time.  
 - [Finding 2] A periodic generate-retrieve-refine cycle with key-pose anchoring provides a forward constraint that limits drift and enables continuous refinement of motion across clip boundaries.  

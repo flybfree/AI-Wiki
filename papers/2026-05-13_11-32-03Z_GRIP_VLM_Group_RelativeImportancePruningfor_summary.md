@@ -16,6 +16,11 @@ Model: None
 ## Summary
 Vision-Language Models (VLMs) face significant computational bottlenecks due to the processing of massive visual token sequences, necessitating efficient pruning strategies to reduce overhead. Traditional training-aware pruning methods often rely on continuous-gradient relaxations, which fail to adequately address the inherently discrete and non-convex nature of token selection, frequently leading to sub-optimal local minima. To resolve this limitation, the authors introduce GRIP-VLM, a novel framework that formulates token pruning as a Markov Decision Process (MDP) solved via Reinforcement Learning. By utilizing Group Relative Policy Optimization (GRPO) anchored by supervised warm-up, GRIP-VLM directly explores the discrete selection space, offering a robust solution for dynamic token importance evaluation.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsI_summary.md|Summary: 2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsInvarian.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+
 ## Key Contributions
 - **Discrete Optimization via RL**: The paper introduces a novel approach that treats visual token pruning as a discrete combinatorial problem rather than a continuous optimization task, effectively avoiding the local minima traps associated with gradient-based approximations.
 - **GRPO Framework with Warm-up**: The authors propose a Group Relative Policy Optimization paradigm that is initialized through supervised warm-up, allowing the agent to learn effective pruning policies that adapt to arbitrary compression ratios without requiring retraining of the base model.

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Low‑thrust trajectory optimization for deep‑space missions is hampered by three practical bottlenecks: deriving transversality conditions case‑by‑case, rewriting code for each dynamics model, and the sensitivity of shooting equations to initial guesses. The authors introduce HELIOS (Heuristic Engine for Low‑thrust Interplanetary Optimization System), an autonomous agent that leverages a large language model to perform PMP symbolic derivation, SymPy verification, C++ shooting‑code generation, and numerical solution from a natural‑language description of the problem. This work unifies constraint handling, supports multiple non‑standard dynamics, and provides a rule set for common derivation pitfalls, enabling fully automated trajectory design without human intervention.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A constraint‑adaptive derivation framework that converts arbitrary constraints into \(\psi(x,p)=0\) form and automatically generates stationarity conditions for free parameters such as gravity‑assist turning angles.  
 - [Finding 2] A dynamics‑adaptive four‑module code generator that produces C++ shooting code for diverse propulsion models (solar sail, J₂ perturbation) without altering a single template.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates the phenomenon of grokking—where a neural network memorizes training data before abruptly generalizing—and provides empirical support for a statistical‑physics analogy known as computational glass relaxation. By introducing a three‑component framework that quantifies parameter mobility (PM) alongside two glassy metrics, replica correlation (RC) and fractal dimension (FD), the authors demonstrate that standard optimization exhibits signatures of kinetic arrest: collapsed PM, strong history dependence, and channel‑like motions. Their contribution is a plug‑in called State‑Aware Monte Carlo Parameter Swapping (SAM‑Swap) that injects random parameter exchanges to accelerate generalization, mirroring diffusion processes in glass dynamics.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Standard optimization of deep networks shows clear glassy dynamics: parameter mobility collapses, training loss reduction is rapid and irreversible, and the model becomes trapped in a memorization state with strong history dependence.  
 - [Finding 2] State‑Aware Monte Carlo Parameter Swapping (SAM‑Swap) mitigates this arrest by performing random Monte Carlo swaps of parameters during each iteration, thereby restoring mobility and enabling diffusion‑like exploration of the loss landscape.  

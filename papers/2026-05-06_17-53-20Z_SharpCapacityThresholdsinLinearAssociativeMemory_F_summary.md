@@ -15,6 +15,11 @@ Source: 2026-05-06_17-53-20Z_SharpCapacityThresholdsinLinearAssociativeMemory_F.
 ## Summary
 This paper analyzes the storage capacity of linear associative memory under different retrieval criteria. For top-1 winner-take-all retrieval, the authors show that capacity depends on an extreme-value logarithmic factor and follows the scale d^2 ≍ n log n, with the correlation-matrix memory construction achieving this threshold. For listwise retrieval, they introduce the Tail-Average Margin (TAM) criterion and show that capacity improves to the quadratic scale d^2 ≍ n.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 1 title term overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti__summary.md|Summary: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Retrieval criteria materially change the effective memory capacity.
 - Winner-take-all decoding pays an unavoidable logarithmic extreme-value cost.

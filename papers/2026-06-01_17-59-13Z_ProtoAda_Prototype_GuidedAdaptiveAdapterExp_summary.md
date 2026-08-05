@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of multimodal continual instruction tuning where tasks with different response structures cause interference that degrades performance. Existing routing methods rely on image‑text similarity, which can misassign tasks and corrupt answer formats. ProtoAda introduces prototype‑guided adaptive adapter expansion and geometric consolidation to align task semantics with output structure, thereby preserving the intended format during fine‑tuning.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmark_summary.md|Summary: 2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Prototype‑guided adaptive adapter expansion enables format‑aware task assignment that preserves response structures across tasks.  
 - Finding 2: Geometry‑aware consolidation reuses existing parameters by projecting updates onto a shared parameter manifold, reducing gradient interference between heterogeneous tasks.  

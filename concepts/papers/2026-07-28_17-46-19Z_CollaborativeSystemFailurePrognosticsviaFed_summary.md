@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a federated longitudinal‑survival modeling framework that enables collaborative system failure prognostics without sharing raw sensor data or individual failure records across organizations. By leveraging client‑separable hazard estimation, the approach jointly learns time‑dependent representations from multivariate sensor histories while preserving privacy and proprietary constraints. The framework is evaluated on real turbofan engine degradation datasets under simulated decentralized settings to demonstrate its efficacy.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_19-55-19Z_MosaicJoin_CompactSemanticSketchesforValue__summary.md|Summary: 2026-07-23_19-55-19Z_MosaicJoin_CompactSemanticSketchesforValue_LevelJo.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_17-49-19Z_AssociativeEmotionalLearninginConvolutional_summary.md|Summary: 2026-07-21_17-49-19Z_AssociativeEmotionalLearninginConvolutionalNeuralN.md]] — 3 title terms overlap; 1 backlink; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A federated longitudinal‑survival modeling paradigm that allows multiple clients to train a prognostic model collaboratively without exchanging raw measurements or failure logs.  
 - [Finding 2] Integration of sensor representation learning with a client‑separable discrete‑time hazard objective, yielding interval‑specific failure hazards and reliability curves.  

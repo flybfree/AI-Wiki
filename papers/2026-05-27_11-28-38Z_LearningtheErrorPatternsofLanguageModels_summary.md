@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates how large language models systematically produce errors when generating content that must satisfy validity constraints such as code compilation. It shows that these failures follow a small set of repeatable patterns that can be captured symbolically using per‑domain and LLM symbolic functions called prefix filters. The authors propose Palla, an algorithm to learn these filters efficiently in practice, enabling both quantitative error analysis and constrained sampling. Experiments demonstrate that applying Palla to Qwen2.5-1.5B for TypeScript generation improves compile rates by over 60%, matching performance of larger unconstrained models.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_Wise_summary.md|Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Error patterns in LLM outputs are limited and can be represented with a small number of symbolic constraints.  
 - [Finding 2] The prefix filter framework enables efficient learning of these constraints per domain and model.  

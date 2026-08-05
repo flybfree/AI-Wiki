@@ -77,6 +77,11 @@ Multi-step work fails when the agent:
 
 The harness often matters more than the model here because it manages checkpoints, summaries, and context.
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 5 title terms overlap, shared tags: agents, lesson, 5 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|AI Agents Lesson 5 - Retrieval, Context, and Long-Context Work]] — 4 title terms overlap, shared tags: agents, lesson, 4 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-02-harness-implementing-an-agent.md|AI Agents Lesson 2 - The Harness - Implementing an Agent]] — 4 title terms overlap, shared tags: agents, lesson, 4 topic terms overlap
+
 ## Concrete example
 A research agent may:
 1. gather sources

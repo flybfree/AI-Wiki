@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper investigates how vision‑language models (VLMs) encode the information structure (IS) of their responses when answering visually grounded questions. By exploiting Hungarian—a language that makes Topic and Focus correspond to distinct syntactic positions—researchers test whether VLMs can distinguish discourse‑old Topics from discourse‑new Foci, a key component of human discourse processing. The study shows that while VLMs generate IS‑relevant constructions, they over‑regularise this sensitivity and collapse into narrow response templates. This work bridges the gap between content accuracy and discourse‑appropriate packaging in multimodal generation.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-39-56Z_TrustedARI_TowardsTrust_NativeAgenticRoutin_summary.md|Summary: 2026-06-14_13-39-56Z_TrustedARI_TowardsTrust_NativeAgenticRoutingInfras.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsfo_summary.md|Summary: 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_Mo_summary.md|Summary: 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] VLMs produce information‑structure relevant constructions but exhibit an over‑regularised sensitivity to Topic/Focus positions, limiting their ability to reflect nuanced human strategies.  
 - [Finding 2] Human participants employ variable IS strategies that depend on discourse status (old vs. new), grammatical role (preference for subject Topics) and definiteness (preference for indefinite Foci).  

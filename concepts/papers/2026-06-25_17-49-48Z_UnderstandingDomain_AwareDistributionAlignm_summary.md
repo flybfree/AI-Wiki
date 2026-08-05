@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The paper investigates how the state‑of‑the‑art low‑resource, domain‑aware entity matching system BEACON behaves when algorithmic choices and data availability vary across real‑world constraints. By systematically varying supervision levels, budgeted feature budgets, and alignment strategies, the authors uncover nuanced trade‑offs that affect matching accuracy. Their work provides a deeper understanding of distribution alignment’s role in budgeted entity matching, offering practical guidance for practitioners with limited resources.  
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] BEACON’s performance degrades noticeably when the domain‑specific feature budget is reduced below a critical threshold, indicating that domain knowledge must be preserved within tight constraints.  
 - [Finding 2] The alignment strategy between source and target distributions has a stronger impact on recall than precision, suggesting that preserving entity identity outweighs exactness under low supervision.  

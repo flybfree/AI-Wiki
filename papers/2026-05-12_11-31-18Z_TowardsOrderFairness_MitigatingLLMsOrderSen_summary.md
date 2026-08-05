@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical issue of order bias in Large Language Models (LLMs), where the performance and output stability are unfairly influenced by the sequence of input elements. The authors identify that existing solutions, such as statistical optimization or supervised fine-tuning, either increase inference overhead or lead to consistent hallucinations, thereby failing to resolve the inherent sensitivity of the models. To overcome these limitations, the researchers propose Dual Group Advantage Optimization (DGAO), a novel reinforcement learning framework designed to simultaneously enhance model accuracy and order stability. By balancing intra-group relative accuracy advantages with inter-group relative stability advantages, DGAO rewards policies that generate correct and order-invariant outputs while penalizing those that are sensitive to input permutation.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal__summary.md|Summary: 2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of DGAO, the first reinforcement learning-based method specifically designed to mitigate LLM order sensitivity without compromising accuracy or increasing inference costs.
 - The development of two new evaluation metrics, Consistency Rate and Overconfidence Rate, which expose the "pseudo-stability" of previous methods and provide a more comprehensive framework for assessing order fairness.

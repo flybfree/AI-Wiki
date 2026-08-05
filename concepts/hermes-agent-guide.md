@@ -14,6 +14,11 @@ source: https://www.youtube.com/watch?v=_LYXbI6JY5M
 
 Hermes Agent is a personal AI assistant that runs across CLI, TUI, messaging gateways, and desktop app. It learns across sessions via memory and skills, delegates to subagents, runs scheduled jobs, and drives real terminals and browsers. The July 2026 update introduced seven major features that significantly enhance its capabilities.
 
+## Semantic links
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search and Retrieval Hub]] — 1 title term overlap; 332 backlinks; 2 summary/topic terms overlap
+- [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI and Robotics Hub]] — 1 title term overlap; 40 backlinks; 2 summary/topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|AI Agents Lesson 4 - Planning, Memory, and State]] — 2 title terms overlap; 2 backlinks; 3 summary/topic terms overlap
+
 ## Key Features
 
 ### 1. Mixture of Agents (MA)

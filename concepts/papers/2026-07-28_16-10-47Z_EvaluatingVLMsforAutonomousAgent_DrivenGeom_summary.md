@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper evaluates Vision‑Language Models (VLMs) for detecting geometry clipping anomalies in an agent‑driven video game quality‑assurance pipeline, using a custom exploration agent to collect visual observations while an automatic annotation system supplies frame‑level labels. It benchmarks six recent VLMs—Gemini, GPT, Qwen, Gemma, Llama, and Ministral—in a zero‑shot setting across four distinct prompt variants. The study finds that while VLMs can capture visual cues associated with clipping, they generate substantial false positives on visually ambiguous frames such as near‑contact geometry and partial occlusions. Gemini‑3.1‑Flash achieves the best overall accuracy and is the most robust to prompt variation, whereas open‑source models exhibit large precision–recall swings depending on prompt design.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 5 title terms overlap; 29 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 5 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: All evaluated VLMs produce substantial false positives on visually ambiguous geometry clipping frames such as near‑contact and partial occlusions.  
 - Finding 2: Gemini‑3.1‑Flash achieves the highest accuracy across all prompt variants, outperforming other models including open‑source ones.  

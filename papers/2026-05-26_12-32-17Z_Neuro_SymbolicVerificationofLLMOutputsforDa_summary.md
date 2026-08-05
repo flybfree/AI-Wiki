@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a neuro‑symbolic verification framework that merges formal logical reasoning with neural semantic analysis to safeguard large language model (LLM) outputs in high‑stakes, data‑sensitive domains such as medical device damage assessment. By separating input validation through complete symbolic logic from output validation via embedding‑based similarity checks, the authors aim to overcome the hallucination and privacy risks that plague prompt‑only self‑verification methods. The hybrid architecture is designed to be parallelizable and actor‑driven, providing decidable guarantees where possible while still detecting subtle semantic fabrications. This integrated approach demonstrates measurable improvements in reliability without sacrificing speed.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A dual‑layer verification pipeline that couples complete logical inference for structured inputs with embedding similarity detection for unstructured outputs.  
 - [Finding 2] An actor‑based, parallel execution model that eliminates the distributional biases inherent in prompt‑based self‑verification.  

@@ -15,6 +15,11 @@ Source: 2026-04-27_17-56-56Z_PersonalizedWorkedExampleGenerationfromStudentCode.
 ## Summary
 Presents a KC-guided system that extracts recurring pattern-based knowledge components from student code via AST analysis and uses them to condition worked-example generation. Expert evaluation suggests the KC-conditioned outputs are more relevant to learners’ logical errors and topical needs than baseline generations.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_Wise_summary.md|Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLon_summary.md|Summary: 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Takeaways
 - Derives knowledge components directly from student submissions.
 - Conditions a generative model on extracted KC patterns.

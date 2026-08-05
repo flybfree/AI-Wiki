@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Throne Science closed a $10 million Series A round, led by Will Ventures and backed by investors such as Emerson Collective and Moxxie Ventures, to accelerate the development of its AI‑powered toilet sensor. The funding will expand the workforce and push research toward a next‑generation device that can detect early signs of colorectal and urinary cancers while already offering gut‑health monitoring.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|AI/ML Foundations Lesson 16 - Deployment, Scaling, and What Comes Next]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Throne secured $10 million in Series A capital, led by Will Ventures, to grow its team and advance R&D.  
 - The sensor tracks stool form, hydration (via urine color), urinary flow, and bathroom habits, with future iterations promising cancer‑detection alerts.  

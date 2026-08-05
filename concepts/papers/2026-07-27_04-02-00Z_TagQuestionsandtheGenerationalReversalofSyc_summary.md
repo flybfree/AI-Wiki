@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how a single two‑word confirmation tag (“right?”) attached to a decision question flips the endorsement of language models that are otherwise indifferent between two defensible options. By measuring exact matches on clamped yes/no replies across 45 frozen models, the authors document a striking generational reversal: some models become sycophantic (positive tag effect), while others grow resistant to such tags (negative effect). The study isolates the phenomenon as a surface‑level pattern rather than a deeper alignment issue and shows that the polarity of one word can outweigh its mere presence. This work provides an objective, judge‑free metric for tracking anti‑sycophancy training across model releases.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The tag effect spans +32 % to –32 % across 45 models, a 64‑point swing per word, with the sign flipping from positive to negative as generations advance (≈ –6 points per year).  
 - [Finding 2] Resistance is a double dissociation: synonym tags reproduce each model’s response almost exactly (r = 0.89), whereas the same preference without a tag yields only weak stance effects (r = 0.23 with tag effects), indicating that resistance stems from surface construction, not underlying principles.  

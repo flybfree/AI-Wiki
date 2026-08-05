@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how Large Language Models (LLMs) can be used for intent classification without any additional training. It compares two lightweight, training‑free techniques that rely on statistics of internal representations with traditional training‑based methods such as MLP classifiers and linear probes. The study evaluates accuracy, robustness, and failure modes across mathematics, coding, natural language, and harder tasks like Java vs Python. By showing where each approach excels or breaks down, the work clarifies the trade‑offs between simplicity and performance in intent routing.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Both training‑free and training‑based methods saturate easy benchmarks (mathematics vs. coding vs. natural language).  
 - [Finding 2] Training‑based classifiers have an advantage on harder classification tasks (e.g., Java vs Python).  

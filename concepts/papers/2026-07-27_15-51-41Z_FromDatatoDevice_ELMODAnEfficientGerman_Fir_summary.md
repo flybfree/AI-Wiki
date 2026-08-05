@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors introduce ELMOD, a compact German‑language model with 2.7 billion parameters that is specifically engineered for efficient inference on low‑power mobile devices. By training the model with only 55 k H100 GPU hours and using exclusively public data, they achieve performance comparable to larger (≈7 B) models while drastically reducing compute requirements. Their work demonstrates that a well‑curated German dataset, combined with targeted preprocessing and quality filtering, can produce an on‑device language model that rivals the capabilities of much bigger English‑centric systems. The contribution is both architectural—optimizing for mobile constraints—and data‑driven—tailoring processing to German morphology and orthography.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 16 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - ELMOD is a 2.7 B parameter language model designed for efficient inference on resource‑constrained hardware, outperforming larger models in its size class (<3 B).  
 - The authors created German‑specific data preprocessing that handles morphological variation, compounding, and orthographic conventions, and added a quality‑filtering/rephrasing pipeline that boosted instructional quality and reduced training compute.  

@@ -22,6 +22,11 @@ ERROR: all endpoints returned no content
 
 ERROR: all endpoints returned no content
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning_summary.md|Summary: 2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-59-03Z_Variable_WidthTransformers_summary.md|Summary: 2026-06-16_17-59-03Z_Variable_WidthTransformers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-04-03Z_UnassignedAgentsinCompilation_basedMulti_ag_summary.md|Summary: 2026-06-14_13-04-03Z_UnassignedAgentsinCompilation_basedMulti_agentPath.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Related Concepts
 
 - [[concepts/search-retrieval/search-retrieval-hub.md|Search Retrieval Hub]]

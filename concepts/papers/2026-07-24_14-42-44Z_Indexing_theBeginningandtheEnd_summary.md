@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates the feasibility of solving a simple indexing primitive—where an input consists of *n* bits and an integer index *i*—by modern deep‑learning architectures such as RNNs, masked transformers, linear‑attention models, and state‑space models. By measuring “causal complexity,” the authors prove that certain low‑parameter or masked architectures cannot achieve constant‑layer indexing when the index is placed at the end of the sequence, while other configurations (e.g., small softmax transformers) can solve it in a single layer. The analysis extends to both ends of the index and demonstrates unconditional impossibility even with infinite‑precision arithmetic.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Low causal complexity architectures cannot solve indexing in any constant number of layers when the index appears at the end, affecting low‑parameter RNNs, SSMs, and masked linear‑attention transformers.  
 - [Finding 2] Small softmax transformers can resolve indexing in one layer; non‑masked linear‑attention models require two layers, highlighting a gap between masked and unmasked variants.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The Push‑Forward Transform (PF‑T) is a novel mathematical framework that enables continuous, robust comparison of dynamic shapes by mapping them onto a common reference domain. By applying the transform to Signed Distance Functions (SDFs), the authors obtain an invariant representation that captures both boundary and interior geometry while remaining sensitive to intrinsic variations such as topology and symmetry. The approach works for two‑dimensional, three‑dimensional, and time‑varying geometries and can be jointly combined with additional scalar fields like intensity or molecular signals.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] PF‑T provides a continuous representation that preserves the intrinsic geometric information of shapes, eliminating dependence on parameterizations such as translation, rotation, reflection, re‑parametrization, or uniform scaling.  
 - [Finding 2] The transform yields an interpretable morphometric metric that quantifies shape similarity and automatically reveals features like skeletal topology and rotational symmetries.  

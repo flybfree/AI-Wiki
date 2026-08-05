@@ -32,6 +32,11 @@ The work demonstrates that simple yet powerful modifications to attention mechan
 
 Transformer‑based routing networks have achieved state‑of‑the‑art performance on a variety of sequence and graph‑structured tasks, yet they often struggle to exploit the spatial information that is inherent in many real‑world problems. In this work we propose **Distance‑Aware Relative Positional Encoding (DRPE)**, a novel positional encoding scheme that explicitly encodes the Euclidean or Manhattan distance between token positions. By integrating DRPE into the attention routing mechanism of standard Transformer architectures, we enable the network to guide its routing decisions based on how close two tokens are in the sequence (or graph). The resulting model consistently outperforms baseline approaches while maintaining computational efficiency.  
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 
 1. **Distance‑Aware Relative Positional Encoding (DRPE)** – A new encoding that maps each token pair \((i,j)\) to a vector whose magnitude reflects \(|i-j|\) and whose direction encodes the sign of \(j-i\). This preserves locality while allowing the model to attend to distant tokens when necessary.  

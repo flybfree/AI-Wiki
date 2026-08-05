@@ -21,6 +21,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://example.com/placeholder)
+
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 2 title terms overlap; shared tags: foundations, lesson, llm; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 2 title terms overlap; shared tags: foundations, lesson, llm; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|AI/ML Foundations Lesson 16 - Deployment, Scaling, and What Comes Next]] — 2 title terms overlap; shared tags: foundations, lesson, llm; 5 backlinks
+
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|Lesson 11: Large Language Models: The Modern AI Interface]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

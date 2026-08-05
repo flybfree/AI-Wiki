@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Audio‑Zero tackles the limitation of large audio language models (LALMs) that excel at coarse acoustic understanding but falter on fine‑grained reasoning such as event ordering, repetitions and duration. To bridge this gap without relying on costly external labels, the authors propose a label‑free self‑evolution framework that builds an auditory self‑play game from unlabeled audio contrast pairs. In each episode one player hears a reference clip while another hears a subtle variant; the model must generate descriptive clues and identify the odd listener by exploiting inconsistencies among those clues. The construction yields verifiable rewards, enabling the model to improve its fine‑grained perception iteratively.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Audio‑Zero is the first label‑free self‑evolution framework for LALMs that targets fine‑grained audio reasoning.  
 - [Finding 2] The auditory self‑play game supplies verifiable rewards without any annotated answers, relying solely on unlabeled contrast pairs.  

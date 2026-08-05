@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper addresses a critical challenge in multimodal chain-of-thought (CoT) reasoning: the suppression of subtle cross-modal differences when small models generate step-by-step rationales using both visual and textual cues. The authors introduce Visual Saliency Steering Distillation (VSSD), a novel approach that leverages attention maps from large multimodal language models to steer image perturbations, thereby enhancing the salience of task-relevant features during model distillation. By extracting dominant steering vectors via singular value decomposition, VSSD enables more effective inter-layer knowledge transfer between source and target models. This method significantly improves reasoning performance on complex multimodal tasks where visual and textual information must be integrated precisely.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_04-57-30Z_J_CoT_Chain_of_ThoughtinJ_Space_summary.md|Summary: 2026-07-24_04-57-30Z_J_CoT_Chain_of_ThoughtinJ_Space.md]] — 4 title terms overlap; 1 backlink; 5 summary/topic terms overlap
+- [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 2 title terms overlap; 160 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors identify that standard modality fusion in small multimodal CoT models fails to preserve fine-grained cross-modal distinctions, especially when images or texts are identical across different contexts.  
 - [Finding 2] They propose Visual Saliency Steering Distillation (VSSD), a method that uses attention maps from large language models to generate task-sensitive image perturbations and extract steering vectors via singular value decomposition for inter-layer distillation.  

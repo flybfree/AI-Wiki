@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper proposes using vision‑language models (VLMs) to automate relevance evaluation for web‑scale search systems such as Pinterest, replacing costly human annotation with scalable AI judgments. The authors deploy a VLM‑based pipeline that generates relevance labels for A/B experiments and validates them against ground truth annotations. By integrating these automated labels into experimental design, the study reduces Minimum Detectable Effects (MDEs) and improves metric reliability at large scale.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 - [Finding 1] The VLM can generate reliable relevance judgments that closely align with human annotations across diverse queries.  
 - [Finding 2] Integrating these labels enables more efficient A/B experiments by expanding query sets and optimizing sampling.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of runtime variability in pipeline-parallel training for large-scale models, where static execution schedules often lead to inefficient resource utilization due to stage misalignment and idle bubbles. The authors propose Runtime-Readiness-First Pipeline (RRFP), a novel runtime system that fundamentally shifts the paradigm from rigid, pre-committed execution orders to a flexible, readiness-driven approach. By treating schedules merely as non-binding hints for ranking currently ready work, RRFP dynamically adapts to fluctuating computation and communication latencies. The system integrates message-driven asynchronous communication, lightweight tensor-parallel coordination, and ready-set arbitration to ensure low-overhead dispatch and collective consistency.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal__summary.md|Summary: 2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions
 - The introduction of RRFP, a readiness-driven runtime that decouples logical pipeline stages from strict temporal ordering, allowing stages to execute available work immediately upon readiness rather than waiting for a specific slot in a static schedule.
 - The development of a robust arbitration mechanism that combines asynchronous communication with lightweight tensor-parallel coordination, effectively resolving conflicts and maintaining data consistency without incurring significant synchronization overhead.

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical issue of vocabulary collapse in equivariant graph neural networks (GNNs) used for antibody complementarity-determining region (CDR) design, where models disproportionately predict a limited set of amino acids like tyrosine and glycine while neglecting functionally vital residues. The authors identify that this failure stems from GNN encoders attempting to learn amino acid distributions from scratch using limited structural data, thereby ignoring the rich substitution patterns preserved in evolutionary databases. To resolve this, they propose EvoStruct, a novel framework that integrates a frozen protein language model (PLM) with 3D structural context from an E(3)-equivariant GNN through a cross-attention adapter. This approach effectively bridges evolutionary and structural priors, enabling more accurate and diverse antibody design.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connec_summary.md|Summary: 2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsfo_summary.md|Summary: 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions
 - **Diagnosis of Vocabulary Collapse**: The study rigorously identifies and explains the root cause of vocabulary collapse in current state-of-the-art GNN methods, attributing it to the discarding of evolutionary substitution patterns due to reliance on limited structural data.
 - **Novel EvoStruct Architecture**: The authors introduce EvoStruct, a unique adapter mechanism that connects a frozen PLM with an E(3)-equivariant GNN, specifically tailored to mitigate CDR-specific design failures through progressive PLM unfreezing and R-Drop consistency regularization.

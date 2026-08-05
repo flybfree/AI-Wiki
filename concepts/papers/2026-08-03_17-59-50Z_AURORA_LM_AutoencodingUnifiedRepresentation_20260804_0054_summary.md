@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes **AURORA‑LM**, a continuous‑latent diffusion language model that deliberately separates the construction of a high‑capacity, decodable text representation from the modeling of its distribution. By learning the latent distribution directly rather than compressing it, AURORA‑L​M preserves full‑width latents while still enabling efficient generation.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** AURORA‑LM decouples the creation of a decodable text latent from its continuous diffusion, allowing the model to retain the full width of the representation without reducing decoder capacity.  
 - **Finding 2:** The authors calibrate the noise‑level distribution to match the latent width and introduce *self‑trajectory consistency* so that training noise aligns with iterative denoising at inference time.  

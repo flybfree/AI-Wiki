@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes evaluating large vision‑language models (LVLMs) using visual illusions to assess both perceptual and reasoning capabilities jointly, addressing a gap in existing benchmarks that focus only on one modality or domain. It introduces **IllusionReasoning**, a benchmark of real‑world illusion images with annotated question‑answer pairs. Experiments show that LVLMs’ reasoning abilities are limited when faced with perceptual misinterpretations, generating incorrect answers to questions about the true nature of the scene. The study provides new insights into the capabilities and limitations of current LVLMs.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 11 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World__summary.md|Summary: 2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World_Grounde.md]] — 4 title terms overlap; 4 backlinks; 15 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] LVLMs often generate incorrect answers to questions about real‑world properties of illusion images, indicating a disconnect between visual perception and logical reasoning.  
 - [Finding 2] Performance varies widely across models; some perform better than others but still fall short of human‑level accuracy.  

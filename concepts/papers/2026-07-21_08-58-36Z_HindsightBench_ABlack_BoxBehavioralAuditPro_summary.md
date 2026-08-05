@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **HindsightBench**, a black‑box audit protocol that lets researchers evaluate parametric hindsight leakage in time‑indexed LLM decision tasks without needing backtests, log probabilities, or corpus access. It does so by manipulating dates across four arms and probing memory recall while measuring six per‑model metrics to detect behavioral leakage. The authors apply the method to 15 models on a vintage‑correct macro panel, revealing three distinct patterns of hindsight behavior. This work provides a cheap, operational audit that can be reproduced with one command.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Date‑trigger reflex correlates with training generation rather than model scale; it appears only in the latest 2026‑generation models and switches on within a single vendor lineage.  
 - [Finding 2] Effective knowledge cutoffs span about 22 months across vendors, often preceding official release dates by up to eight months, undermining calendar‑window placebo designs.  

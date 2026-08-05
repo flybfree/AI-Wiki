@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces a novel "Fast-Slow" learning framework for Large Language Models (LLMs) that bridges the gap between in-context learning and parameter updating. The authors propose treating optimized context as "fast" weights and model parameters as "slow" weights, allowing the model to adapt rapidly to specific tasks without permanently altering its core reasoning capabilities. This approach draws inspiration from human cognitive systems, specifically the distinction between System 1 (fast, intuitive) and System 2 (slow, deliberative) thinking. By decoupling rapid task-specific adaptation from long-term knowledge retention, the framework aims to overcome the limitations of catastrophic forgetting and plasticity loss inherent in traditional reinforcement learning methods.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemo_summary.md|Summary: 2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of Fast-Slow Training (FST), a dual-timescale learning paradigm that utilizes optimized context as fast weights and model parameters as slow weights to achieve superior sample efficiency and performance asymptotes in reasoning tasks.
 - Empirical evidence demonstrating that FST reduces catastrophic forgetting by up to 70% in terms of KL divergence compared to parameter-only reinforcement learning, thereby preserving the model's plasticity for subsequent tasks.

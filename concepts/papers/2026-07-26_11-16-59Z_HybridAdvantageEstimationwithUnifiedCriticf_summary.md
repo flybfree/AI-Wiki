@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of enabling Vision‑Language Models (VLMs) to act as agents in multi‑turn interactive environments by improving their ability to reason and decide across turns. It introduces a theoretical hybrid advantage that simultaneously serves token‑wise and turn‑wise optimization objectives, proving that a single unified critic can estimate values for both levels when the discount factor and learning target are chosen appropriately. The authors then build HyGAE, an actor‑critic framework that jointly optimizes these two objectives using this hybrid advantage. Their work demonstrates that such a combined approach yields higher performance than previous token‑only or turn‑only methods.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 5 title terms overlap; 29 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A rigorous theoretical formulation for both token‑wise and turn‑wise credit assignment, establishing the exact analytic form of the hybrid advantage and return.  
 - [Finding 2] Proof that a unified critic can estimate values for both optimization levels by selecting an appropriate discount factor and learning target.  

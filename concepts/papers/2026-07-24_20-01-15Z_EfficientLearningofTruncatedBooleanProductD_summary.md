@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of learning the natural parameters \(z\) of discrete truncated Boolean product distributions from samples drawn only from a subset \(S\subseteq\{0,1\}^n\). Existing algorithms either require strong local‑connectivity (fatness) assumptions or impose hard anti‑concentration constraints that force the truncation mass to be constant in \(n\), leading to exponential sample complexities. The authors propose a geometric analysis of \(S\) under the model measure and replace fatness with a more flexible notion of influence, enabling efficient inference without sampling arbitrary parameterizations. Their work also establishes a matching minimax rate for \(\ell_\infty\)-recovery and proves an intrinsic lower bound that reflects the width of the model and the minimum distance between elements in \(S\).  
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The sample complexity improves to \(O(\log n / \varepsilon^2)\) for \(\ell_\infty\) recovery under fatness, matching the untruncated minimax rate.  
 - [Finding 2] Fatness is generalized via influence, providing sufficient conditions that allow efficient inference without strong connectivity assumptions.  

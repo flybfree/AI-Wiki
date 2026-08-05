@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **FastGFDs**, a sequential algorithm that validates graph functional dependencies (GFDs) on consumer‑class hardware, replacing the original parallel scheme that was limited in speed and memory usage. By leveraging Core‑First Decomposition and Compact Path Index, FastGFFs processes the entire graph in one pass, achieving up to three times faster execution and five times lower memory consumption compared with the prior parallel approach. The authors also release an open‑source implementation via Desbordante, making GFD validation accessible to a broader audience.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - **FastGFDs algorithm** employing Core‑First Decomposition and Compact Path Index for sequential subgraph matching.  
 - **Experimental results** showing an average 2.6× speedup (≈3× improvement) over the parallel scheme on real‑world graphs, with a fivefold reduction in memory usage.  

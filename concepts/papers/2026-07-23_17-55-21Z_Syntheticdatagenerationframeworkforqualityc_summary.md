@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a synthetic data generation framework to automate surface‑defect detection in rotogravure printing, addressing the severe shortage of real industrial defect images that hampers training of state‑of‑the‑art object detectors such as YOLO or Vision Transformers. By automatically creating high‑fidelity images of common defects—creases, streaks, misregistration, and others—the framework supplies annotated bounding boxes for model training without costly manual collection. The authors demonstrate that a synthetic dataset of 7 533 images can be used to train RFDETR, an object‑detection architecture, achieving a Mean Average Precision (mAP) of 80.9 % on actual production samples. This solution offers a zero‑cost, rapid‑deployment pathway for quality‑control automation in gravure printing lines.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-23_17-52-21Z_FLUX3D_High_Fidelity3DGaussianGenerationwit_summary.md|Summary: 2026-06-23_17-52-21Z_FLUX3D_High_Fidelity3DGaussianGenerationwithDiffus.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 - **Synthetic defect generation pipeline**: A fully automated system that synthesizes realistic rotogravure defect images and their precise bounding‑box annotations.  
 - **Evaluation on real industrial data**: The framework’s synthetic dataset is validated by training RFDETR on actual production samples, yielding a high mAP score (80.9 %).  

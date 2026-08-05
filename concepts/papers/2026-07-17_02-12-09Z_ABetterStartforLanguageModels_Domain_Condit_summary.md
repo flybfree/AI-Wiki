@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates the “cold‑start” weakness of autoregressive language models, where early tokens suffer from a generic pretraining prior and produce high perplexity. It proposes a domain‑conditional position offset—a single learned vector added to the embedding activation at the first sequence positions while keeping all model weights frozen—as a lightweight fix for this problem. The offset is trained on only a few hundred documents per domain, requires no additional sequence state, and incurs negligible latency overhead. Experiments across Mamba, GPT‑NeoX, Llama models of 410 M to 8 B parameters show up to a 27 % reduction in in‑domain perplexity, with the benefit concentrated on the very first token.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-25_13-21-56Z_Domain_Prior_RegularizedGraphModelingforAno_summary.md|Summary: 2026-07-25_13-21-56Z_Domain_Prior_RegularizedGraphModelingforAnomalyDet.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+
 ## Key Contributions  
 - [Finding 1] A domain‑conditional position offset mitigates the cold‑start penalty by injecting a learned vector into early embeddings without altering model weights.  
 - [Finding 2] The offset reduces held‑out in‑domain perplexity by up to 27 % across eight models, and this improvement persists at 70 B parameters with only one position needed for the bulk of the gain.  

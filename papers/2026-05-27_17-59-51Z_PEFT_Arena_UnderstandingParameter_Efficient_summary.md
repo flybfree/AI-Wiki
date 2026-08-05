@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper argues that parameter‑efficient fine‑tuning (PEFT) should be evaluated not only on downstream accuracy but also on the retention of pretrained capabilities, framing this as a stability‑plasticity trade‑off. To address this gap, the authors introduce PEFT‑Arena, a benchmark that jointly measures task performance and general‑capability preservation across fine‑tuning methods. Their analysis reveals distinct stability‑plasticity profiles, with orthogonal fine‑tuning attaining the most favorable Pareto frontier under comparable parameter budgets. The work also proposes geometric insights—spectral analysis of weight updates and activation‑space retention metrics—to explain why some PEFT strategies degrade general knowledge.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing_summary.md|Summary: 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Unde_summary.md|Summary: 2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Distinct stability‑plasticity profiles emerge across different PEFT methods, and orthogonal fine‑tuning yields the most favorable Pareto frontier when parameter budgets are equal.  
 - [Finding 2] Spectral analysis of weight updates shows how PEFT parameterizations interact with the pretrained singular‑value structure, influencing stability.  

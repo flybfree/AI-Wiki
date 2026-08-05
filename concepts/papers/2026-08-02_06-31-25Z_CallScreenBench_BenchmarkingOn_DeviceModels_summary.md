@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 CallScreenBench introduces a novel evaluation framework for on‑device language models that act as phone secretaries, measuring them not by task completion but by how the owner would endorse their proxy’s handling of an unknown call. The benchmark scores agents across five quality dimensions and reports guardedness profiles without credentials or tool use. It demonstrates that model capability correlates with performance except for triage, which is largely driven by scripted degenerate agents. No pass/fail thresholds are declared.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 5 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CallScreenBench defines a novel evaluation framework for on‑device phone secretary models focusing on user endorsement rather than task completion.  
 - [Finding 2] The benchmark reveals that triage performance is dominated by scripted degenerate agents, masking true model differences when those floors are corrected.  

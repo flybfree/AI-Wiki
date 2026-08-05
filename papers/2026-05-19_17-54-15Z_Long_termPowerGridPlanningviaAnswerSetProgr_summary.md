@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the complex challenge of long-term power grid planning, a critical process that must balance sustainability targets, evolving demand patterns, and urbanization trends over multi-decade horizons. The authors propose a novel approach that utilizes Answer Set Programming (ASP) to automate and optimize this planning process, arguing that ASP offers superior expressive power for encoding the intricate topological and combinatorial invariants required by power networks compared to traditional planning languages. By formulating the planning problem as a logical constraint satisfaction task, the study demonstrates how ASP can elegantly handle the rigorous safety and quality constraints inherent in infrastructure development. The research culminates in a comprehensive evaluation that validates the effectiveness and scalability of this computational framework.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforC_summary.md|Summary: 2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforComparat.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of the first automated framework for long-term power grid planning based on Answer Set Programming, bridging the gap between logical reasoning and infrastructure engineering.
 - A sophisticated encoding of complex topological and combinatorial invariants that are typically cumbersome to express in standard planning languages, allowing for precise modeling of grid stability and connectivity.

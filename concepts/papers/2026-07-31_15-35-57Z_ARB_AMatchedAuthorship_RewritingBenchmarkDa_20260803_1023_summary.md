@@ -8,6 +8,11 @@ Model: None
 ## Summary
 The paper introduces the Authorship-Rewriting Benchmark (ARB), a novel dataset designed to evaluate the robustness of AI-text detectors against sophisticated rewriting attacks that preserve human authorship styles. The authors address a critical gap in current evaluation methodologies by demonstrating that standard benchmarks, which compare raw human text against direct Large Language Model (LLM) generation, fail to predict detector performance when human content is modified by an LLM. By creating matched variants of texts across four distinct generation and rewriting scenarios, the study reveals a significant discrepancy in how detectors handle different types of textual modification. The core contribution lies in providing a rigorous testing ground that exposes the vulnerability of existing detection tools to "human-to-LLM" rewriting processes, which are increasingly common in real-world applications where users seek to evade detection while maintaining their original voice.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions
 - **Identification of a Critical Vulnerability**: The study demonstrates that state-of-the-art detectors suffer massive performance drops (60-78 percentage points) when human-authored text is rewritten by an LLM, despite performing well on direct LLM-generated content.
 - **Creation of the ARB Dataset**: The authors introduce a new benchmark comprising 1,800 source texts and four matched variants per source (Human, Free-LLM, H2L, and LLM2L) generated using four open-weight models, enabling precise comparative analysis.

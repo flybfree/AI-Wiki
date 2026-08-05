@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces Gibbs‑Accelerated Discrete Diffusion (GADD), a new corrector for uniform‑rate discrete diffusion models that reduces sampling complexity to polylogarithmic in the inverse error tolerance. By constructing Gibbs posterior likelihoods directly from the concrete score function, GADD achieves an overall O(polylog(ε⁻¹)) sampling cost, which is the first such rate for diffusion‑based samplers. The method requires no extra training beyond standard score estimation and works across synthetic data, zero‑shot text generation, and music generation. Theoretical analysis also provides a novel framework for predictor‑corrector methods in discrete settings.  
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] GADD achieves O(polylog(ε⁻¹)) sampling complexity for uniform‑rate discrete diffusion models.  
 - [Finding 2] The method constructs Gibbs posterior likelihoods directly from the score function without additional training.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates Spectral Synthetic Control, a matching approach that uses the leading temporal singular vectors of donor units to define coordinates for the treated unit, and proposes a hybrid estimator that balances retained versus discarded spectral directions. It proves theoretical properties linking full‑rank synthetic control to raw‑path SC, underdetermination when donors exceed dimensions, and bias from spectral imbalance via best‑linear‑predictor decomposition. The authors evaluate this framework across eleven data‑generating regimes with Monte Carlo experiments, showing performance trade‑offs between truncation and raw‑path matching.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Spectral SC reduces to raw‑path SC at full rank; the hybrid estimator nests both extremes.  
 - [Finding 2] When the number of donors \(N_0 > K+1\), exact balance on \(K\) retained dimensions is underdetermined, yielding an affine solution set of dimension \(N_0-K-1\).  

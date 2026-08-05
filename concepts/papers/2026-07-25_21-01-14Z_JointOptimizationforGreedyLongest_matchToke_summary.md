@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces Joint Optimization for Greedy Longest-Match Tokenization (JOLT), a novel approach to optimizing subword vocabulary selection specifically for the greedy longest-match decoding rule used in WordPiece tokenization. The core contribution is formulating vocabulary learning as an integer program that jointly optimizes both vocabulary-selection and segmentation-choice variables, ensuring that the trained vocabulary produces tokenizations consistent with the deployment-time greedy algorithm. By solving a linear programming relaxation and selectively refining unresolved pretokens, JOLT achieves near-optimal compression while maintaining computational efficiency. The method demonstrates significant improvements over standard Byte Pair Encoding (BPE), which relies on greedy heuristics without alignment to inference rules.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_15-03-14Z_IDEAgent_AgenticQuality_DiversitySearchforR_summary.md|Summary: 2026-07-24_15-03-14Z_IDEAgent_AgenticQuality_DiversitySearchforResearch.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-27_04-49-14Z_ExploringBudgetedImageClassificationwithCon_summary.md|Summary: 2026-07-27_04-49-14Z_ExploringBudgetedImageClassificationwithContent_Se.md]] — 3 title terms overlap; 8 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - [Finding 1] Joint Optimization for Greedy Longest-Match Tokenization (JOLT) is introduced as a framework that optimizes vocabulary selection and segmentation choices simultaneously, ensuring training-time tokenizations align with the greedy longest-match decoding used at inference time.  
 - [Finding 2] A linear programming relaxation of the integer program is developed, which is nearly integral—rounded solutions deviate from the lower bound by only 0.008 to 0.176%, demonstrating high optimality and stability in practice.  

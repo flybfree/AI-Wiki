@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces FORGE, a novel protocol designed to enable Large Language Model (LLM) agents to improve their decision-making capabilities through self-generated memory without requiring any gradient-based weight updates. The authors propose a staged, population-based approach that leverages a dedicated reflection agent to convert failed interaction trajectories into reusable natural-language artifacts, such as textual heuristics or few-shot examples. By evaluating this method on the stochastic CybORG CAGE-2 network defense environment, the study demonstrates that FORGE significantly outperforms both zero-shot baselines and standard Reflexion methods across multiple LLM families. The research highlights the critical role of population broadcast in propagating successful strategies and suggests that the method effectively mitigates capability gaps in weaker models.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTool_summary.md|Summary: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions
 - FORGE achieves substantial performance improvements, increasing average evaluation returns by 1.7 to 7.7 times over zero-shot baselines and by 29 to 72 percent over isolated Reflexion baselines, while reducing major failure rates to approximately 1%.
 - The study identifies population broadcast as the primary driver of performance gains, confirming that the mechanism for sharing knowledge between agents is more critical than the graduation criterion, which mainly serves to conserve computational resources.

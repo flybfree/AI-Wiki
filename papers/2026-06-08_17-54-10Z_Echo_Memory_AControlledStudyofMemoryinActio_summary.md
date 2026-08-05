@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Echo‑Memory is a controlled study that isolates memory mechanisms in action‑conditioned world models, which generate multi‑segment videos from a first frame, text prompt, and camera‑action sequence. By fixing the video diffusion backbone and only varying how history is stored and read, the authors enable a fair comparison across four memory designs: raw context, compression‑based memories with different read‑out paths, spatial summaries, and block‑wise state‑space recurrence. The study evaluates these designs through a three‑branch protocol that measures replay fidelity, in‑domain loop revisit, and open‑domain return probes.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 4 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Raw context is a strong capacity baseline and improves open‑domain return far more than it improves replay metrics.  
 - Aggressive compression (spatial summaries, hybrid‑compression memories) loses the salient evidence needed for successful returns.  

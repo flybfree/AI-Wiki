@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper aims to diagnose knowledge gaps in large language models’ tool use by creating a dynamic benchmark that discovers novel APIs, extracts decomposed knowledge bundles, generates executable coding tasks, and categorizes failures into six diagnostic types. It compares two ways of acquiring API knowledge—retrieval of external code versus parametric fine‑tuning—across multiple base models and domains to show how these mechanisms complement each other. The study reveals that usage examples are the strongest standalone signal for successful tool use, while signatures alone are insufficient without additional context.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeStee_summary.md|Summary: 2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - Discovery of NovelAPIBench: a fully automated dynamic benchmark that generates executable coding tasks from any base model and target library, decomposing knowledge into reusable bundles.  
 - Empirical finding that usage examples outperform signature‑only signals; the strongest standalone signal is example code, while the best two‑component settings pair signatures with either retrieval or examples depending on domain/backbone.  

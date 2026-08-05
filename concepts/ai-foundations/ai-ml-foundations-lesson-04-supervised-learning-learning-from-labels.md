@@ -21,6 +21,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://www.ibm.com/think/topics/supervised-learning)
+
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 3 title terms overlap; shared tags: foundations, lesson; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 3 title terms overlap; shared tags: foundations, lesson; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|AI/ML Foundations Lesson 05 - Unsupervised Learning: Finding Hidden Structure]] — 3 title terms overlap; shared tags: foundations, lesson; 5 backlinks
+
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]]
 - Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]

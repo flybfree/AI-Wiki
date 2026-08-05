@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates why kernel‑based alignment of CLIP toward a vision‑centric teacher such as DINOv2 (KUEA) becomes ineffective when applied to noisy web‑scale data like CC12M, and it introduces KALE—a loss‑equilibration controller that adaptively rescales the alignment weight to maintain a target ratio. By tracking both the clean and alignment losses, KALE dynamically adjusts the weight toward a desired balance, eliminating the need for per‑dataset hyper‑parameter tuning. The method stabilizes training with a decaying schedule and a moderate floor on the learning rate, preventing divergence while preserving signal. Experiments show that zero‑shot retrieval improves by +2.00 over CLIP, surpassing KUEA’s +1.29 gain.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_07-39-03Z_Weight_normCriticality_AMechanismforLossSpi_summary.md|Summary: 2026-07-23_07-39-03Z_Weight_normCriticality_AMechanismforLossSpikesIndu.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.10
+
 ## Key Contributions  
 - [Finding 1] A fixed alignment weight contributes only ~0.2 % of the clean term on CC12M, rendering its gradient essentially inert.  
 - [Finding 2] KALE introduces a loss‑equilibration controller that adaptively rescales the alignment weight toward a target ratio without dataset‑specific tuning.  

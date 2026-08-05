@@ -15,6 +15,11 @@ Source: 2026-05-06_multi_scale_context_aggregation_by_dilated_convolutions.md
 ## Summary
 This paper explains how dilated convolutions can aggregate multi-scale context without reducing spatial resolution. By spacing convolutional filters apart, the model expands its receptive field while keeping the feature map dense. The result is a simple and effective architectural trick for dense prediction tasks.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 2 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 2 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Takeaways
 - Dilated convolutions enlarge receptive fields without downsampling.
 - Multi-scale context can be captured while preserving resolution.

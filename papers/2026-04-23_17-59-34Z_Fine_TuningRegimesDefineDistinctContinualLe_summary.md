@@ -16,6 +16,11 @@ Model: qwen3.6:35b
 ## Summary
 This paper challenges the assumption that comparative evaluations in Continual Learning (CL) are invariant to the adaptation process. The authors argue that the fine-tuning regime, defined by the trainable parameter subspace, is a crucial variable that must be explicitly accounted for. They formalize CL adaptation as projected optimization over fixed subspaces, demonstrating that altering the trainable depth fundamentally changes the effective update signal governing both knowledge preservation and current task fitting. Their findings show that method performance rankings are highly dependent on this regime, necessitating new evaluation protocols.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-59-03Z_Variable_WidthTransformers_summary.md|Summary: 2026-06-16_17-59-03Z_Variable_WidthTransformers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPe_summary.md|Summary: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions
 1. **Regime-Dependence Formalization:** They formalize adaptation regimes as projected optimization over fixed trainable subspaces, establishing that the depth of the trainable parameters dictates the effective update signal in CL.
 

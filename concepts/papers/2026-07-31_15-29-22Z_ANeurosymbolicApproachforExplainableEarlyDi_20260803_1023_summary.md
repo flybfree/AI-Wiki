@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This research paper addresses the critical challenge of scaling early Alzheimer's disease (AD) diagnosis by introducing an automated, neurosymbolic pipeline that eliminates the need for labor-intensive manual transcription and expert analysis. The authors propose a novel system that leverages pretrained foundation models to process raw audio recordings from verbal fluency tests, extracting clinically relevant linguistic variables directly from speech data. These extracted features are then utilized to construct a Bayesian Network (BN) that reasons about potential AD progression markers and infers their qualitative relationships without human intervention. By combining the pattern recognition capabilities of deep learning with the logical reasoning of symbolic AI, the system successfully recovers established clinical knowledge while simultaneously identifying novel, previously unknown relationships between specific linguistic markers associated with cognitive decline.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The development of an end-to-end automated pipeline that extracts qualitative AD progression indicators directly from raw audio, significantly reducing the manual effort required for early diagnosis.
 - The successful integration of pretrained foundation models with Bayesian Networks to create a neurosymbolic framework capable of both feature extraction and probabilistic reasoning about disease markers.

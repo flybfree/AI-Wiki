@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes an open‑source two‑stage computer vision pipeline that first localizes vehicles using a pre‑trained RT‑DETR detector and then classifies their body types with a fine‑tuned Vision Transformer (ViT‑Base/16) for six injury‑relevant categories. A confidence‑based abstention mechanism outputs “unknown” when the softmax score falls below 0.60, preventing silent misclassifications that could hide genuine uncertainty. The pipeline is evaluated on naturalistic overtaking video from Ann Arbor and shown to maintain high accuracy even under domain shift.  
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 2 title terms overlap; shared tags: ai, paper, research; 16 summary/topic terms overlap
+
 ## Key Contributions  
 - Introduces a two‑stage CV pipeline combining RT‑DETR detection with ViT classification for fine‑grained vehicle body‑type identification.  
 - Implements confidence‑based abstention, yielding “unknown” labels instead of silent misclassifications to improve reliability when model uncertainty is high.  

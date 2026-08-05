@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces EduPluginBench, an executable benchmark that evaluates AI‑generated educational plugins for compliance with a suite of security and governance constraints such as least privilege, telemetry consent, provenance, privileged‑write authority, lifecycle constraints, and bounded failure. The authors propose a staged admission protocol (P0–P4) that progressively checks functional correctness while enforcing these constraints, thereby providing a concrete measure of “executable assurance.” Their contribution is both the benchmark itself—validated across 1,440 activation‑checked mutants from 30 specifications—and the empirical findings that demonstrate how this framework improves defect recall and clarifies the limits of controlled contract consistency.  
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] P0–P4 increased release‑blocking‑defect recall by 74.7 percentage points (specification‑clustered 95 % CI 73.4–75.8) over the baseline P0–P2, showing a substantial boost in defect detection when full compliance is enforced.  
 - [Finding 2] In a frozen transfer study of 600 unmodified generations from two current coding models, 300 were parsed but none passed P0 or achieved any level of P0‑P4 conformance (95 % upper bound 0.64%); downstream assurance estimands remained undefined.  

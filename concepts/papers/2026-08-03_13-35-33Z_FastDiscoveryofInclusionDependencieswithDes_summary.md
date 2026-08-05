@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the problem of automatically discovering inclusion dependencies—relationships between table attributes that may indicate Primary Key‑Foreign Key references—by presenting two algorithms, Spider and Faida. It contributes an efficient parallel implementation of Spider that reduces both runtime and memory usage, and a highly optimized version of Faida that leverages four specific optimizations to achieve substantial speed gains. The authors evaluate these implementations within the open‑source C++ profiler Desbordante and compare them against the Java‑based Metanome tool. Their work demonstrates that algorithmic improvements can be realized with practical engineering techniques, offering a faster and more scalable solution for inclusion‑dependency discovery.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_11-14-33Z_FishingOutFreeRiders_Shapley_BasedRewardAtt_summary.md|Summary: 2026-07-21_11-14-33Z_FishingOutFreeRiders_Shapley_BasedRewardAttributio.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.10
+
 ## Key Contributions  
 - **Efficient parallelization of Spider**: The authors introduce a parallel execution strategy that speeds up the classic Spider algorithm while cutting memory consumption.  
 - **Four optimizations for Faida**: They apply data buffering, SIMD‑enabled execution, careful hash‑table selection, and parallelization to the state‑of‑the‑art Faida algorithm.  

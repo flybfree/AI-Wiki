@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates which physical parameters a latent world model can actually encode in its predictive representation, rather than merely reflecting the raw sensory input. By applying controlled interventions to POKEWORLD—a visually identical environment where objects hide mass, drag, and contact stiffness—the authors develop a certificate‑gated protocol that certifies recoverability of each parameter from observations before testing whether it is retained in the latent state. The study reveals two organizing mechanisms: (i) input constraints that limit what can be learned, and (ii) prediction targets that determine which parameters are prioritized for retention. This work establishes a principled identifiability map for multimodal predictive representations.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A certificate‑gated protocol demonstrates that some physical quantities—such as stiffness and drag—are recoverable from raw observations, providing an objective basis for identifying what can be internalized.  
 - [Finding 2] The latent world model’s knowledge is split into two mechanisms: inputs limit the set of learnable parameters, while prediction targets decide which of those are retained in the representation.  

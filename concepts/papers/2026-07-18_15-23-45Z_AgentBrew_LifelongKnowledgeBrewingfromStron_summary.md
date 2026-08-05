@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 AgentBrew is a method for transferring knowledge from strong teacher LLMs to weaker student agents without updating the model weights or requiring test‑time access to the teacher. It solves two challenges: sparse binary feedback from environments and the need for notes that are executable by a much less capable student. The solution consists of two components: a failure‑triggered teacher loop that records validated observations, and a student‑aware synthesis step that tailors guidance to the weak executor’s granularity.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Knowledge can be distilled into an external memory without weight updates or ground‑truth labels.  
 - Finding 2: The failure‑triggered teacher loop converts sparse binary feedback into actionable environment‑validated notes.  

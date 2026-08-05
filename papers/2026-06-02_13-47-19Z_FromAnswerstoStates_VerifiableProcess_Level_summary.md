@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The authors address a long‑standing problem in chemistry‑focused large language models (LLMs): most benchmarks only assess the correctness of the final output while ignoring whether the model’s internal reasoning respects chemical logic. To remedy this, they propose ChemCoTBench‑V2, a rule‑verifiable diagnostic benchmark that evaluates low‑cost, auditable traces of structured chemical reasoning across multiple tasks. By requiring models to expose intermediate steps in expert‑designed templates and checking those steps with deterministic chemistry rules (or oracle‑verified state constraints for open‑ended optimization), the work provides a fine‑grained view of both answer correctness and reasoning consistency.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - **Benchmarked 5,620 evaluation samples** spanning molecular understanding, editing, optimization, and reaction prediction across 18 reporting tasks.  
 - **Introduced deterministic chemistry rules and oracle verification**, enabling trace validation without costly LLM judges or human annotation.  

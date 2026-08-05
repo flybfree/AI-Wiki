@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces K‑SCAN, a hybrid clustering algorithm designed to reconcile the scalability of partitional methods (e.g., K‑Means) with the robustness of density‑based techniques (e.g., DBSCAN). By first extracting a compact set of weighted micro‑clusters through stochastic Mini‑Batch K‑Means and then applying a density‑based structural analysis, K‑SCAN achieves linear computational complexity while preserving non‑linear cluster detection. Empirical tests on datasets up to one million samples demonstrate both speed and accuracy gains over existing approaches such as hierarchical BIRCH. The method is especially valuable for big‑data scenarios where traditional O(N²) algorithms are infeasible.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - **Linear complexity**: K‑SCAN reduces the time complexity from quadratic O(N²) to linear O(N), enabling processing of millions of samples without prohibitive cost.  
 - **Superior speed‑up**: The algorithm outperforms hierarchical BIRCH by more than threefold, eliminating the need for costly tree‑based structures while maintaining high clustering quality.  

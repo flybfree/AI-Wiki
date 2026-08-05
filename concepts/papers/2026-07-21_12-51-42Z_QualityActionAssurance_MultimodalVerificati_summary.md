@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes Quality Action Assurance (QAA), a multimodal framework that verifies examiner claims in Virtual Reality pediatric OSCEs by comparing the actions claimed to the true sequence of events recorded from video, VR logs, and actor data. By integrating a constrained temporal action‑alignment model with a large language model, QAA can both localize actions and attribute their source while checking the validity of examiner statements. The framework moves beyond traditional inter‑rater statistics by providing an explainable audit trail that pinpoints where errors originate. This approach aims to increase factual correctness in OSCE scoring from a low baseline to a substantially higher level.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_19-49-42Z_Model_DrivenRequirementsConfigurationwithTh_summary.md|Summary: 2026-07-28_19-49-42Z_Model_DrivenRequirementsConfigurationwithThree_Val.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-28_09-38-42Z_At_the_RooflineSparseTensorContractionsonVe_summary.md|Summary: 2026-07-28_09-38-42Z_At_the_RooflineSparseTensorContractionsonVectorPro.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-22_14-57-42Z_PhaseAware_InterpretableHuman_in_the_LoopRe_summary.md|Summary: 2026-07-22_14-57-42Z_PhaseAware_InterpretableHuman_in_the_LoopRehabilit.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 - [Finding 1] QAA achieves 99.2 ± 0.7 % Actor F1 and 93.4 ± 1.9 % W@16 for temporal alignment, demonstrating near‑perfect synchronization between recorded actions and examiner claims.  
 - [Finding 2] The system detects examiner errors with a precision of 70.0 % and recall of 76.7 %, highlighting the extent to which false positives and negatives occur.  

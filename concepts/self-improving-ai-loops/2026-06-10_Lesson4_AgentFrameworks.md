@@ -16,6 +16,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](http://localhost:4000/v1)
+
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson5_KnowledgeMemory.md|Lesson 5 — Knowledge & Memory: The Outer Loop]] — 3 title terms overlap, 8 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson6_Evaluation.md|Lesson 6 — Evaluation & Verification: The Judge Node]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1 — The Paradigm Shift: From Prompting to Loops]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+
 ## Core Idea
 
 Agent frameworks are the engines that run your loops. They handle the ReAct cycle (Reasoning → Acting → Observing), manage tool calls, and orchestrate the feedback loop. Each framework has a different philosophy — pick based on your use case.

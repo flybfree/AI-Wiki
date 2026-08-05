@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The plan existence problem asks, given a goal in the form of a formula in modal logic, an initial epistemic state (a pointed Kripke model), and a set of epistemic actions, whether there exists a sequence of actions that can be applied to reach the goal. We prove that even in the case where the preconditions of the epistemic actions have modal depth at most 1, and there are no postconditions, the plan existence problem is undecidable. The (un)decidability of this problem was previously unknown.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttent_summary.md|Summary: 2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Takeaways
 - The plan existence problem asks, given a goal in the form of a formula in modal logic, an initial epistemic state (a pointed Kripke model), and a set of epistemic actions, whether there exists a sequence of actions that can be applied to reach the goal.
 - We prove that even in the case where the preconditions of the epistemic actions have modal depth at most 1, and there are no postconditions, the plan existence problem is undecidable.

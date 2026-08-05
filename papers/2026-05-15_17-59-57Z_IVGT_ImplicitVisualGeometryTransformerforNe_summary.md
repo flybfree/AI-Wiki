@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper addresses the persistent challenge of reconstructing coherent three-dimensional geometry and appearance from multi-view images without known camera poses, a task critical for robust computer vision applications. The authors propose IVGT, an Implicit Visual Geometry Transformer that moves beyond traditional explicit pointmap regression by modeling continuous and coherent geometry within a canonical coordinate system. This approach allows for the retrieval of local features at arbitrary 3D positions to predict signed distance fields and colors, facilitating the extraction of smooth surface meshes. By leveraging multi-dataset joint optimization with 2D supervision and 3D geometric regularization, IVGT demonstrates superior generalization capabilities across diverse scenes and tasks.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeP_summary.md|Summary: 2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenR_summary.md|Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of IVGT, a novel transformer-based architecture that implicitly models continuous neural scene representations, effectively overcoming the redundancy and geometric discontinuity issues inherent in explicit pointmap regression methods.
 - The development of a unified framework that supports continuous spatial queries, enabling the direct extraction of coherent surface geometry and the simultaneous prediction of signed distance values and colors using lightweight decoders.

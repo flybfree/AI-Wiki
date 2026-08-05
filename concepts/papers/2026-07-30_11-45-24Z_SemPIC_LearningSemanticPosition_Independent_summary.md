@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the inefficiency of KV caches in long‑context retrieval when documents are reused under varying instruction histories or document orders. It argues that standard prefix caching cannot exploit this reuse, and that naïve position‑independent caching (PIC) still suffers from misaligned KV states because they lack future context. The authors propose SemPIC, a method that learns a per‑layer writer to produce native KVs while preserving the unchanged decoder as a reader, thereby enabling accurate cache construction offline. Their solution also introduces gradient checkpointing for memory efficiency without losing gradients.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A learned boundary‑conditioned baseline sharply reduces attention deviation near reusable‑block boundaries but still leaves interior and task‑level residuals.  
 - [Finding 2] SemPIC trains a LoRA‑enabled Writer to compile native per‑layer document KVs through behavioral distillation while retaining the pretrained decoder as an unchanged Reader, adapting only offline cache construction.  

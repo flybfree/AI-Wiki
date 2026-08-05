@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces AlignAtt4LLM, a decoder‑only simultaneous speech translation system that translates English to German, Italian and Chinese using Qwen3‑ASR and Gemma‑4 E4B‑it under an AlignAtt policy. It is the first application of AlignAtt to a decoder‑only LLM, eliminating encoder‑decoder cross‑attention while preserving translation quality. The approach relies on four design choices: (1) an explicit source span in the prompt, (2) offline selection of translation‑specific alignment heads, (3) selective replay of the draft‑to‑source attention block, and (4) runtime capture of query/key vectors to keep outputs bit‑identical. The method achieves low‑latency performance around 2 seconds and high‑latency up to 4 seconds on IWSLT 2026 development data for European targets.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal__summary.md|Summary: 2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] AlignAtt can be adapted to decoder‑only LLMs by using only query/key capture, removing the need for encoder‑decoder cross‑attention.  
 - [Finding 2] Selective replay of the draft‑to‑source attention block restores translation‑specific alignment while keeping latency low.  

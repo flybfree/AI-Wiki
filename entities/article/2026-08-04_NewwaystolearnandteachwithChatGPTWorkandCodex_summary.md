@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 OpenAI is rolling out three education‑focused plugins for ChatGPT Work and Codex that enable students, K‑12 teachers, and college faculty to leverage AI within their existing course materials and tools without building complex prompts. The plugins are built on the principle that AI should augment learning, keeping educators and learners in control of pedagogy, assessment, and workflow.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - [The new plugins connect directly to institutional resources such as documents, calendars, and approved apps, turning raw data into actionable classroom activities.]  
 - [Each plugin is tailored to a specific audience—students, K‑12 teachers, or college educators—ensuring relevance without compromising privacy or compliance.]  

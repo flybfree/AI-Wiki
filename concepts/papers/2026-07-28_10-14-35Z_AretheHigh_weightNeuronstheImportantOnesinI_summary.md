@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether high‑weight neurons are the most important in image classification neural networks, challenging the assumption that weight magnitude directly correlates with functional importance. It proposes a neuron‑importance assessment framework built on three experiments: overlap analysis between high‑weight and accuracy‑impacting neurons, perturbation tests of top high‑weight neurons versus random perturbations, and ablation‑retraining studies measuring post‑removal accuracy loss on CIFAR‑10 and Mini‑ImageNet. The work demonstrates that importance is not a simple monotonic function of weight.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The top 10 % high‑weight neurons overlap with truly important ones by only about 25 %, indicating limited correspondence between weight magnitude and impact.  
 - [Finding 2] Perturbing these high‑weight neurons can degrade accuracy by 45–80 % under certain operations, while random perturbations cause only 3–7 % loss, revealing selective vulnerability.  

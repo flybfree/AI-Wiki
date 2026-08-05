@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Zhinv is an end‑to‑end framework that reconstructs a fine‑grid wind field at hub height directly from locally sparse, irregular observations such as those recorded by wind‑power turbines. By weaving these limited data points into a continuous representation, Zhinv eliminates the need for costly numerical methods like Kriging or complex NWP assimilation pipelines. The method is designed to provide real‑time, high‑resolution wind information that can be used immediately for power regulation and resource assessment. Its core advantage lies in delivering accurate reconstructions while preserving computational efficiency.
 
+## Semantic links
+- [[concepts/papers/2026-07-22_19-17-11Z_End_to_EndLearningofSafeOptimalFeedbackCont_summary.md|Summary: 2026-07-22_19-17-11Z_End_to_EndLearningofSafeOptimalFeedbackControlinHi.md]] — 4 title terms overlap; 6 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-07-28_08-39-11Z_WeightandHeightEstimationfromaSingleHumanIm_summary.md|Summary: 2026-07-28_08-39-11Z_WeightandHeightEstimationfromaSingleHumanImageCapt.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-07-28_10-05-11Z_I2VShield_AnEfficientProactiveDefenseFramew_summary.md|Summary: 2026-07-28_10-05-11Z_I2VShield_AnEfficientProactiveDefenseFrameworkagai.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.08
+
 ## Key Contributions  
 - [Finding 1] Zhinv reconstructs a fine‑grid wind field at hub height from only sparse, locally distributed observations without requiring dense sensor networks.  
 - [Finding 2] Experimental results show that Zhinv reduces reconstruction error by roughly 66 % compared with the traditional Kriging approach, delivering both higher accuracy and lower computational cost.  

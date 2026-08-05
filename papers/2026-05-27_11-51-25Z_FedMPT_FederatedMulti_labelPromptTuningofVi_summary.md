@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of applying federated learning to multi‑label recognition (MLR) tasks in vision‑language models (VLMs), where decentralized adaptation can cause overfitting to spurious label correlations and generate irrelevant categories. By introducing a causal model that leverages front‑door adjustment, FedMPT decouples the MLR modeling process through intermediate variables that amplify true label co‑occurrences. The authors propose an LLM‑driven pipeline that discovers latent conditions governing those dependencies, followed by optimal transport between condition‑enriched prompts and image patches to reveal region‑level semantics. Finally, a gating mechanism combines predictions from multiple conditions for synergistic multi‑label outputs. This work is the first method explicitly designed for federated MLR in VLMs.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarc_summary.md|Summary: 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Decoupling MLR modeling via intermediate variables prevents overfitting to spurious label correlations in federated settings.  
 - [Finding 2] An LLM‑driven pipeline identifies the underlying conditions that govern label dependencies across clients.  

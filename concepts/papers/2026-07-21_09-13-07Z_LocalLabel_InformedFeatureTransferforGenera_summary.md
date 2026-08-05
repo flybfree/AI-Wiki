@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Local Label‑Informed Feature Transfer (LLIFT), a framework that generates semi‑synthetic brain magnetic resonance images with realistic lesions placed in user‑controlled regions without requiring pixel‑level lesion annotations. It compares two generative methods—LLIFT‑GAN, which learns pathological features from binary class labels alone, and LLIFT‑DM, a diffusion‑based inpainting pipeline conditioned on bounding‑box masks via ControlNet—to evaluate their ability to produce ground‑truth data for Explainable Artificial Intelligence (XAI) analysis. The study uses the Human Connectome Project dataset as its source and demonstrates that both approaches achieve Fréchet Inception Distance scores comparable to those between healthy and pathological reference images, confirming high realism of the generated lesions.  
 
+## Semantic links
+- [[concepts/papers/2026-07-30_09-20-07Z_Class_AwareReinforcementLearningforCounterf_summary.md|Summary: 2026-07-30_09-20-07Z_Class_AwareReinforcementLearningforCounterfactualE.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-30_14-43-55Z_Semi_SupervisedLearningforMolecularGraphsvi_summary.md|Summary: 2026-07-30_14-43-55Z_Semi_SupervisedLearningforMolecularGraphsviaEnsemb.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - [Finding 1] LLIFT provides a label‑independent method for generating anatomically plausible medical images, eliminating reliance on noisy expert annotations or artificial perturbations.  
 - [Finding 2] The dual paradigm (GAN and diffusion) shows that lesion generation can be driven either by class labels alone or by spatial masks, offering flexibility in XAI evaluation pipelines.  

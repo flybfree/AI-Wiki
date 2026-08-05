@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of producing panoptic crop maps from satellite time‑series without requiring task‑specific training. PhenoStitch achieves this by leveraging a frozen Segment Anything model for label‑free parcel delineation and an analytic double‑harmonic phenological signature derived from optical NDVI and Sentinel‑1 backscatter data. The pipeline merges neighboring regions with a Potts graph energy, classifies parcels using only a small set of labeled prototypes (k = 20), and finally closes the topology to generate a complete map. This training‑free approach dramatically reduces annotation needs while maintaining high accuracy on multi‑seasonal datasets.
 
+## Semantic links
+- [[concepts/papers/2026-07-30_02-20-01Z_Prox_Training_FreeFFNActivationSparsityviaA_summary.md|Summary: 2026-07-30_02-20-01Z_Prox_Training_FreeFFNActivationSparsityviaApproxim.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-07-31_10-55-01Z_RTLCurator_Label_EfficientDataCurationforRT_20260803_0945_summary.md|Summary: 2026-07-31_10-55-01Z_RTLCurator_Label_EfficientDataCurationforRTLGenera.md]] — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-07-31_10-55-01Z_RTLCurator_Label_EfficientDataCurationforRT_20260803_0829_summary.md|Summary: 2026-07-31_10-55-01Z_RTLCurator_Label_EfficientDataCurationforRTLGenera.md]] — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - [Finding 1] PhenoStitch provides a fully unsupervised panoptic crop mapping pipeline that uses only frozen pre‑trained models and analytic signal processing, eliminating the need for gradient‑based training.  
 - [Finding 2] The method merges adjacent class‑agnostic regions into parcels via a Potts graph energy minimization, preserving parcel boundaries while improving classification consistency.  

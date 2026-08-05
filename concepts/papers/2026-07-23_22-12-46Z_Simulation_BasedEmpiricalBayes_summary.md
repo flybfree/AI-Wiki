@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of performing simultaneous inference across many latent variables when the likelihood function is not analytically tractable, a common situation in scientific modeling. To bridge this gap, the authors introduce simulation‑based empirical Bayes (SBEB), which links nonparametric Empirical Bayes to simulation‑based inference (SBI) by leveraging observed data, simulator samples, and an amortized inference network. SBEB iteratively refines a fitted EB prior toward the underlying population prior without requiring an explicit density estimation. Experiments across multiple scientific simulators and real‑world datasets show that SBEB yields higher accuracy than SBI when priors are held fixed.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The development of simulation‑based empirical Bayes (SBEB) that enables simultaneous inference for latent variables when the likelihood is only available via a simulator.  
 - [Finding 2] An amortized inference network that jointly fits simulated data and the EB prior without requiring an explicit density estimation.  

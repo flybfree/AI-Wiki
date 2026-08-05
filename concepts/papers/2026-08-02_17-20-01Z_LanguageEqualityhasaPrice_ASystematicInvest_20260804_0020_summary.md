@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper systematically investigates how large language models (LLMs) perform as language agents in goal‑directed, multi‑turn dialogue games across 30 languages—24 official EU languages plus six others. The authors evaluate nine open‑weight and commercial LLMs using a reference‑free, programmatic scoring system that can be localized for new languages. Their key finding is that no open‑weight model meets the performance threshold in any of the EU languages, while commercial systems consistently outperform them. Moreover, linguistic parity is achievable with commercial models even when public web text is extremely limited.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 5 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] No open‑weight LLM reaches acceptable performance in any of the EU‑24 official languages; commercial systems outrank all open‑weight models.  
 - [Finding 2] Linguistic parity is attainable with commercial LLMs even when public web text is scarce, though not solely from crawls.  

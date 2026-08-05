@@ -16,6 +16,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](http://localhost:4000/v1)
+
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 2 title terms overlap, shared tags: architecture, 7 topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|AI/ML Foundations Lesson 02 - How an ML System Works]] — 1 title term overlap, shared tags: architecture, 7 topic terms overlap
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9 — SmolAgents Deep Dive: Code-First Agents from Hugging Face]] — 1 title term overlap, 6 topic terms overlap, same area: home
+
 ## Core Idea
 
 This lesson ties all 7 previous lessons into a complete, working self-hosted stack. You'll see how each layer connects, a working Ralph loop script, integration patterns, and the production readiness checklist.

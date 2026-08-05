@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper proposes a trajectory‑regularized stochastic optimal control (TRSOC) framework that incorporates the Kullback–Leibler (KL) divergence between the actual and reference trajectory distributions to improve alignment without sacrificing performance. By applying Girsanov’s theorem, the KL term is shown to be equivalent to a quadratic drift mismatch penalty, which preserves the dynamic programming structure of the original problem. The authors derive the corresponding Hamilton–Jacobi–Bellman (HJB) equation and obtain an explicit optimal policy for the linear‑quadratic case with an augmented control cost. Experiments demonstrate that the regularization parameter governs a trade‑off between achieving high performance and preserving the reference trajectory, even when the reference dynamics are learned offline.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptation_summary.md|Summary: 2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptationforEvol.md]] — 4 title terms overlap; 5 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The TRSOC formulation introduces KL divergence as a regularizer for stochastic optimal control, providing a principled way to penalize deviations from a desired trajectory.  
 - [Finding 2] Girsanov’s theorem reduces the trajectory KL term to a quadratic drift mismatch penalty, preserving the DP structure and enabling an HJB‑based solution.  

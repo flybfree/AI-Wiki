@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates why generative models of temporal graphs degrade when trained on one network stretch and deployed on a later, unseen stretch—what the authors call “distribution drift.” It shows that this degradation is not merely empirical but can be derived analytically from the masked flow‑matching loss, which splits into an irreducible entropy term plus a divergence whose derivative along the training trajectory is positive for structures rare during training yet common at deployment. Empirically the trade‑off follows a power law with exponent –0.605 and high R² (0.9977), while drift lifts the sampler’s error floor by up to 34× without changing how many steps reach it. The authors prove that any correction based on past observations cannot eliminate this drift because it leaves at least the conditional variance of the tracked statistic, making observation‑based fixing fundamentally impossible.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 14 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The degradation is analytically derivable: the loss decomposes into entropy plus a divergence whose derivative along the training path is positive precisely for rare‑training / common‑deployment structures.  
 - [Finding 2] Empirically, drift raises the error floor by a factor ranging from 2.2× to 34.3× over a wide range of sampling budgets, with the trade‑off following a power law (exponent –0.605, R² = 0.9977).  

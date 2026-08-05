@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces Procedurally Generated Tasks (PGT), a data‑driven framework to improve visual grounding in multimodal large language models (MLLMs). By overlaying unambiguous geometric primitives on images, PGT provides dense supervision that separates perception from semantic priors. Experiments show substantial gains across relational, quantitative and 3D benchmarks. The method also serves as a diagnostic tool for identifying the source of perception failures.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_Wise_summary.md|Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: PGT yields up to +20 % improvement on What'sUp benchmark when instruction‑tuned MLLMs are augmented with PGT data.  
 - Finding 2: Fine‑tuning state‑of‑the‑art MLLMs on PGT data boosts performance by up to +5.5 % on What'sUp and +8.3 % on CV‑Bench‑2D.  

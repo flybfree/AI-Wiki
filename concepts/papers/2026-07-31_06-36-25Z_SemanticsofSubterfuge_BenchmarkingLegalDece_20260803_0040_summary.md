@@ -8,3 +8,8 @@ Model: None
 ERROR: all endpoints returned no content
 
 ERROR: all endpoints returned no content
+
+## Semantic links
+- [[concepts/papers/2026-07-31_12-08-25Z_Thepersuasivepoweroflargelanguagemodelsdoes_20260803_0956_summary.md|Summary: 2026-07-31_12-08-25Z_Thepersuasivepoweroflargelanguagemodelsdoesnotdepe.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.38
+- [[concepts/papers/2026-07-31_12-08-25Z_Thepersuasivepoweroflargelanguagemodelsdoes_summary.md|Summary: 2026-07-31_12-08-25Z_Thepersuasivepoweroflargelanguagemodelsdoesnotdepe.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.38
+- [[concepts/papers/2026-07-31_12-08-25Z_Thepersuasivepoweroflargelanguagemodelsdoes_20260803_0900_summary.md|Summary: 2026-07-31_12-08-25Z_Thepersuasivepoweroflargelanguagemodelsdoesnotdepe.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.38

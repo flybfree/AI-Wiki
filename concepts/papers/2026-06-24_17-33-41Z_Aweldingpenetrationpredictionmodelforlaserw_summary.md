@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The paper proposes SimPhysNet, a self‑supervised learning framework that predicts laser welding penetration using only a few labelled images, thereby addressing the data scarcity problem in industrial classification. By embedding physical constraints into a contrastive loss and leveraging image augmentation, the model learns robust features from unlabelled data before applying a few‑shot prototypical classifier to the limited labels. The approach yields a classification accuracy of 96.06 % with just 200 labelled images—about five percent of the full dataset—matching conventional supervised methods that use all labels. This work demonstrates an efficient, high‑accuracy pathway for automating laser welding processes.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|AI/ML Foundations Lesson 04 - Supervised Learning: Learning from Labels]] — 4 title terms overlap; 4 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - **Self‑supervised physics‑informed feature extraction**: SimPhysNet uses a PINN to embed physically meaningful properties (molten pool shape, keyhole dynamics) into contrastive representations from large unlabelled image sets.  
 - **Few‑shot classification via prototypical networks**: The model transfers knowledge to the scarce labelled set by constructing class prototypes, enabling robust prediction with only 200 images.  

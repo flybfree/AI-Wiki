@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper presents a novel logical characterization of encoder‑decoder transformers, the backbone of large language models and many cross‑attention applications. By extending propositional logic with two modalities—a counting global modality that quantifies information across the entire encoder input and a past modality that restricts attention to earlier decoder positions—authors capture how these transformers reason over floating‑point numbers and soft‑attention mechanisms. The characterization is also expressed via a distributed automaton, demonstrating that the same logical rules hold regardless of architectural tweaks such as masking. Finally, the authors discuss the model in an autoregressive setting, showing its relevance to generation tasks.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A formal temporal‑logic description of encoder‑decoder transformers using a counting global modality over encoder inputs and a past modality over decoder inputs.  
 - [Finding 2] An equivalent distributed‑automaton characterization that reproduces the same logical behavior as the transformer’s attention mechanism.  

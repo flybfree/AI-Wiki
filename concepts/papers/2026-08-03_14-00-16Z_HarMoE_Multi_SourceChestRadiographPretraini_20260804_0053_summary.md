@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses a limitation in current chest‑X‑ray vision‑language models that rely solely on image‑report alignment using MIMIC‑CXR, which can entangle clinical semantics with dataset identity. HarMoE introduces a dataset‑aware mixture‑of‑experts (MoE) framework that harmonizes multiple multi‑label classification sources into a shared medical vocabulary while preserving source‑specific variations in residual decoder layers. By training on clean, structured annotations across heterogeneous datasets, the model reduces false negatives and improves zero‑shot performance. The authors demonstrate that this approach yields consistent gains over strong baselines on large benchmarks.
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] HarMoE proposes a dataset‑aware MoE architecture that separates shared medical knowledge from source‑specific noise.  
 - [Finding 2] The framework employs masked multi‑dataset supervision to create a unified disease vocabulary, enabling complementary annotations without introducing false negatives.  

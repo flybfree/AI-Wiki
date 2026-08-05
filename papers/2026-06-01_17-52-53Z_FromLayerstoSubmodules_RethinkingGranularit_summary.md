@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper critiques the prevailing replacement‑based compression paradigm for Large Language Models, which restricts granularity to whole layers and contiguous submodule selections. It argues that pretrained transformers exhibit redundancy across non‑contiguous attention and feed‑forward submodules, suggesting a more flexible approach. The authors propose SubFit, a method that compresses LLMs at the submodule level by fitting lightweight residual bypasses for each submodule independently. Experiments on ten models across five sparsity levels demonstrate that SubFit outperforms existing baselines in perplexity‑accuracy trade‑offs while delivering measurable inference speedups and KV‑cache savings.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_Head_summary.md|Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenR_summary.md|Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] Redundancy in pretrained transformers is not confined to contiguous depth ranges or evenly distributed between attention and feed‑forward outputs.  
 - [Finding 2] Full‑layer granularity and contiguous selection are overly restrictive constraints for replacement‑based compression.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses optimization under performative prediction, where deploying a model influences the future data distribution that will be observed later in training. This setting is common in reinforcement learning and online learning scenarios. Existing gradient‑based approaches typically assume specific priors about these distributions or about the loss function, which severely limits their practical applicability. Our contribution is to propose an adaptive gradient method that offers convergence guarantees under only mild assumptions. Additionally, we introduce a sample‑efficient variant that reduces the number of data points needed.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/training-optimization/training-optimization-hub.md|Training and Optimization Hub]] — 3 title terms overlap; 245 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors derive finite‑difference estimators for the induced distribution shift, enabling explicit tracking of performance penalties and providing a principled way to incorporate model deployment effects into the optimization objective.  
 - [Finding 2] They formulate a broad class of loss functions and data distributions under which their gradient updates converge to optimal solutions, showing that adaptivity can be decoupled from strong distributional assumptions.  

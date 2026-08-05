@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper “Computing on the Fly: Navigating a Vision for the Future of Drone Computing” outlines a decade‑long vision in which drones will operate at a scale comparable to national infrastructure, delivering goods, medical supplies, and critical information across vast regions. The authors argue that realizing this future hinges on closing a “capability gap,” where hardware capabilities outpace the software systems required for safe, coordinated operation. To bridge this gap, they identify twelve technical challenges that must be tackled in concert to enable autonomous, large‑scale drone fleets.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - The report identifies a fundamental “capability gap” between current drone hardware and the sophisticated AI/software ecosystems needed for safe, scalable operations.  
 - It enumerates twelve concrete technical challenges—including scaling to millions of drones, AI autonomy, edge‑cloud coordination, data infrastructure, critical‑infrastructure protection, trust and security, standards/certification, human‑AI partnership, fleet reliability, and workforce development—that must be addressed.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 SpeechParaling-Bench is a benchmark for paralinguistic-aware speech generation with broader feature coverage and more than 1,000 English-Chinese speech queries. It evaluates fine-grained control, intra-utterance variation, and context-aware adaptation using pairwise comparison instead of absolute scoring.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffus_summary.md|Summary: 2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThe_summary.md|Summary: 2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThey_reont.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+
 ## Key Takeaways
 - Expands paralinguistic coverage to more than 100 fine-grained features.
 - Uses an LALM-based pairwise judging pipeline to reduce subjective evaluation.

@@ -16,6 +16,11 @@ Model: None
 ## Summary  
 This paper addresses a critical gap in AI security by redefining red teaming practices for the agentic era, where AI systems operate autonomously across complex domains such as healthcare and defense. The authors introduce an automated AI red teaming agent that enables rapid, natural language-driven probing of adversarial vulnerabilities without requiring manual workflow construction. By leveraging a vast library of 45+ attacks, 450+ transforms, and 130+ scorers within the Dreadnode SDK, operators can shift focus from implementation to strategic red teaming tasks. The system compresses traditional weeks-long workflows into hours, significantly accelerating security evaluation.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_summary.md|Summary: 2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The agentic interface allows operators to describe goals in natural language via a TUI, with the system autonomously selecting and composing attacks, transforms, and scorers to execute multi-agent, multilingual, and multimodal probes.  
 - [Finding 2] A unified framework integrates adversarial testing for traditional ML models and jailbreak probing for generative AI systems, eliminating the need for separate, siloed libraries or workflows.  

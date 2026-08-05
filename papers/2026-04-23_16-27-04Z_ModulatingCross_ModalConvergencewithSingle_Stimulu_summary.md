@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper introduces a single-stimulus method for measuring intra-modal representational convergence and studies how this relates to cross-modal alignment. It finds that stimuli with low disagreement among vision models produce substantially higher vision-language alignment than stimuli with high disagreement.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeStee_summary.md|Summary: 2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Generalized Procrustes is used to quantify convergence at the stimulus level.
 - Low intra-modal dispersion correlates with stronger cross-modal convergence.

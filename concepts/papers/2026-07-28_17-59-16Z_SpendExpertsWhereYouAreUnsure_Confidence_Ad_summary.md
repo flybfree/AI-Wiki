@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Mixture‑of‑Experts (MoE) LoRA models route every token to a fixed number of experts, which leads to inefficient spending: easy tokens are over‑served while hard ones receive little attention. The authors propose **CARE** – Confidence‑Adaptive Routing of Experts – that treats the router’s output distribution as an intrinsic per‑token uncertainty signal and activates only those experts whose cumulative mass reaches a calibrated threshold. This “nucleus” activation reduces over‑spending on confident tokens, improves service for uncertain ones, and can be tuned to match any compute budget without extra parameters.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The router’s output distribution encodes per‑token confidence; high mass = high confidence, flat mass = ambiguity.  
 - [Finding 2] CARE activates experts in a nucleus fashion: experts are added in decreasing router weight until their cumulative mass meets a threshold set by a budget thermostat, with a small extension when admitted experts disagree.  

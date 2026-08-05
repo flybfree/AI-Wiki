@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper revisits the two most common steps in Improved Kernel PLS (IKPLS) algorithms—computing the X‑rotation matrix R and the Y‑loading vector Q—and proposes hardware‑friendly alternatives that keep the algorithm’s mathematical output unchanged. By replacing term‑by‑term accumulation with a direct evaluation strategy for R and by deriving each component of Q from quantities already computed in the same iteration, the authors achieve substantial computational gains without sacrificing accuracy. The improvements are provably equivalent to the original IKPLS results and have been benchmarked on both CPU (NumPy) and GPU (JAX).  
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Term‑by‑term accumulation of the X‑rotation matrix R is replaced by a direct evaluation that uses the same number of multiplications but parallelizes better on modern hardware.  
 - [Finding 2] Equivalences are identified that allow each Y‑loading vector component to be obtained from earlier computed quantities, reducing the cost per loading from Θ(KM) to Θ(M) when M = 1 or 2 ≤ M < K.  

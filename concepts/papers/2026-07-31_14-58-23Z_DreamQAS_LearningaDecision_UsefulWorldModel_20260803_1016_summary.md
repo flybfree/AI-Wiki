@@ -8,6 +8,11 @@ Model: None
 ## Summary
 DreamQAS addresses the computational inefficiency inherent in Reinforcement Learning-based Quantum Architecture Search (RL-QAS) by introducing a novel model-based framework that decouples deterministic circuit dynamics from expensive energy evaluations. Rather than attempting to predict exact quantum energies, which is computationally prohibitive, the authors propose learning a "decision-useful" world model that predicts an oracle-free score relative to an empirical energy frontier using a recurrent randomized-prior ensemble. This approach allows for multi-step imagined policy learning over explicitly legal circuits while maintaining reliability through ranking-based activation and uncertainty-aware pessimism. The framework significantly reduces the number of real Variational Quantum Eigensolver (VQE) calls required to find optimal architectures, establishing a new paradigm where value lies in feedback utility rather than precise physical simulation.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions
 - DreamQAS achieves state-of-the-art performance in quantum architecture search by minimizing mean frozen-policy energy error on four out of five molecular tasks, demonstrating superior accuracy compared to existing RL methods under a fixed episode budget.
 - The method drastically reduces computational costs, requiring 1.6x to 2.0x fewer real VQE calls on most tasks and up to 10.6x fewer calls for the BeH2-8q molecule, proving that high-quality architectures can be found with significantly less hardware resource expenditure.

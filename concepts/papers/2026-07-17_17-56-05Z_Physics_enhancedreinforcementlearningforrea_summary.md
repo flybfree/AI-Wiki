@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Reinforcement learning (RL) offers a powerful feedback‑control paradigm for nonlinear and complex dynamical systems, yet its sample inefficiency and the curse of dimensionality limit real‑time deployment in high‑dimensional settings. The authors introduce Physics‑Enhanced Reinforcement Learning (PEARL), an actor‑adjoint framework that fuses RL with traditional optimal control to exploit the differentiability of system dynamics. By leveraging automatic differentiation for short‑horizon policy gradients and neural‑network approximations of adjoint sensitivities, PEARL dramatically reduces required environment interactions while preserving long‑term stability. The method is demonstrated on two challenging parametric navigation problems in unsteady flows, showing that it outperforms state‑of‑the‑art RL algorithms, achieves sample efficiency, generalizes across scenarios, and scales to high‑dimensional state and action spaces without low‑dimensional representations or multi‑agent strategies.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] PEARL effectively exploits differentiable environments to outperform existing RL algorithms in the two benchmark parametric navigation tasks.  
 - [Finding 2] The physics‑guided policy learning yields significant sample efficiency, requiring far fewer environment interactions than conventional RL approaches.  

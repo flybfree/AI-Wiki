@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the significant challenge of zero-shot spatial question answering over egocentric video, a task that demands complex reasoning about three-dimensional object positions and scene affordances without the benefit of task-specific fine-tuning or 3D sensor data. The authors introduce SpatioRoute, a novel dynamic prompt generation framework that intelligently routes incoming questions to semantically tailored prompt templates, thereby enhancing the performance of Vision-Language Models (VLMs) in understanding spatial contexts. By operating without additional training or external 3D inputs, SpatioRoute demonstrates that strategic prompt engineering can significantly outperform static baseline methods. The study further reveals critical insights regarding the limitations of Chain-of-Thought prompting in this specific domain, establishing a new state-of-the-art for video-only spatial VQA.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 17 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions
 - **Dynamic Prompt Routing Framework**: The introduction of SpatioRoute, a dual-mode system comprising a rule-based router (SpatioRoute-R) and an LLM-driven router (SpatioRoute-L), which dynamically selects specialized prompt templates based on question typology and context without any model fine-tuning.
 - **State-of-the-Art Performance**: Empirical validation on the SQA3D benchmark showing consistent accuracy gains of up to 5% over fixed prompt baselines across various VLM families, achieving the best known results for zero-shot video-only spatial VQA without 3D point-cloud inputs.

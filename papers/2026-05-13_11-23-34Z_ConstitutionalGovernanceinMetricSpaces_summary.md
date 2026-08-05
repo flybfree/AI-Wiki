@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical gap in computational social choice by proposing "constitutional governance in metric spaces," a novel framework that unifies aggregation, deliberation, amendment, and consensus into a single, polynomial-time process. Unlike prior work that treats these stages in isolation or relies on NP-hard algorithms, the authors introduce a system where members submit both votes and personal proposals within defined metric spaces. The framework utilizes a constitution that specifies aggregation rules and supermajority thresholds, allowing for the dynamic amendment of the governance rules themselves through a rigorous scoring mechanism. By integrating these elements, the authors provide a comprehensive, computationally efficient solution for egalitarian self-governance in digital communities and organizations.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapa_summary.md|Summary: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions
 - The authors propose the first end-to-end, polynomial-time process for egalitarian self-governance that seamlessly integrates aggregation, deliberation, amendment, and consensus, overcoming the computational intractability of prior metric-space aggregators.
 - They establish theoretical guarantees for the framework, including a proof that no misreport weakly dominates sincere voting, thereby ensuring robustness against strategic manipulation, and analyze the compromise gap between ideal peaks and unconstrained optima.

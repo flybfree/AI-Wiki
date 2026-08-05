@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 Google is retiring its 25‑year‑old static search box in favor of a dynamic, AI‑powered interface that accepts text, images, PDFs, videos and Chrome tabs. The new design merges AI Overviews with AI Mode into one seamless experience while coaching users to formulate detailed queries.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/search-retrieval/search-retrieval-hub.md|Search and Retrieval Hub]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/prompting/prompting-hub.md|Prompting and Instruction Design Hub]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - [The redesigned search box functions as an open‑ended conversation starter rather than a simple keyword input.]  
 - [It supports multimodal inputs such as files, images, videos and Chrome tabs directly from the main interface.]  

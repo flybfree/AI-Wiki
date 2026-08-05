@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper presents twelve practical tips aimed at designing AI‑driven high‑performance computing (HPC) workflows that can accommodate the iterative, probabilistic nature of modern foundation models. The authors argue that traditional deterministic pipelines are insufficient for AI‑centric scientific computation and propose a set of system‑level strategies to mitigate challenges such as data gravity, heterogeneous resource use, and complex orchestration. By focusing on containerisation, job‑array deployment, explicit feedback loops, and I/O optimisation, the guide offers a concrete roadmap for transitioning from rigid execution models to adaptive, scalable environments. The contribution is both conceptual—highlighting architectural principles—and actionable—providing a checklist for researchers.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetan_summary.md|Summary: 2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] AI‑driven HPC workflows are fundamentally iterative and data‑driven, necessitating flexible orchestration rather than fixed pipelines.  
 - [Finding 2] System‑level bottlenecks (container portability, job arrays, feedback loops, small‑file I/O) must be explicitly addressed to achieve scalability.  

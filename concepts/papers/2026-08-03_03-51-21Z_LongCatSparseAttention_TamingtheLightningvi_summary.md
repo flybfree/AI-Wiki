@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 LongCat Sparse Attention (LSA) tackles the performance bottlenecks of DeepSeek’s Lightning Indexer by proposing a hardware‑algorithm co‑design that makes long‑context sparse attention feasible at scale. The framework integrates three orthogonal strategies—streaming‑aware indexing, cross‑layer indexing, and hierarchical scoring—to reduce costly \(O(L^2)\) scoring while preserving accuracy. Experiments on models ranging from 69B‑A3B to 560B‑A27B show that LSA matches full attention in quality and enables native training with context lengths up to one million tokens. The work also releases LongCat‑Flash‑Lite‑Sparse, an open‑source variant of the 69B‑A3B model for further research.
 
+## Semantic links
+- [[concepts/papers/2026-07-27_15-36-21Z_TheVisualBottleneck_Sparse_FrameAdaptationo_summary.md|Summary: 2026-07-27_15-36-21Z_TheVisualBottleneck_Sparse_FrameAdaptationofMLLMsf.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-21_17-59-21Z_CopyLess_GroundMore_OvercomingRepetitiveCop_summary.md|Summary: 2026-07-21_17-59-21Z_CopyLess_GroundMore_OvercomingRepetitiveCopyinginL.md]] — 3 title terms overlap; 1 backlink; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_08-35-21Z_TowardanOrganizationalScienceofMulti_AgentL_summary.md|Summary: 2026-07-28_08-35-21Z_TowardanOrganizationalScienceofMulti_AgentLLMSyste.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - **Streaming‑aware indexing** converts scattered key‑value pairs into contiguous HBM layouts, enabling coalesced memory accesses and eliminating hardware‑inefficient patterns.  
 - **Cross‑layer indexing** reuses a single layer’s index results across consecutive layers via cross‑layer distillation, amortizing the expensive indexing cost.  

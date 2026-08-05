@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Skill‑based prompting is a practical way to boost LLM agents, yet current methods often treat skills as opaque experience summaries that do not match the student’s failure modes or the teacher’s implicit guidance. The authors propose SKILL‑KD, a contrastive skill distillation framework that explicitly models skills as textual patches distilled from discrepancies between a failing student and its successful teacher trajectory. Their method iteratively refines these patches by re‑running the student until it succeeds while avoiding drift through trace‑linked edit histories. Across benchmarks, this approach consistently outperforms fixed‑model adaptation baselines for frozen student agents.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - SKILL‑KD treats skill distillation as a contrastive learning problem between teacher and student trajectories.  
 - It generates actionable textual skill patches from the discrepancy and evaluates them by re‑running the student agent.  

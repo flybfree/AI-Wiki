@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces SciSchema.org, a multidisciplinary collection of 16 expert‑annotated schemas that capture structured scientific process descriptions across biology, biotechnology, materials & chemistry, imaging & measurement, physics, and psychology, enabling comparison and automation. It addresses the fragmentation of process details in scientific articles by providing reusable fields for inputs, outputs, materials, instruments, parameters, steps, measurements, and provenance information.
 
+## Semantic links
+- [[concepts/papers/2026-07-31_18-52-27Z_APhysics_Chemistry_InformedNeuralNetwork_PC_summary.md|Summary: 2026-07-31_18-52-27Z_APhysics_Chemistry_InformedNeuralNetwork_PCINN_for.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-17_17-56-05Z_Physics_enhancedreinforcementlearningforrea_summary.md|Summary: 2026-07-17_17-56-05Z_Physics_enhancedreinforcementlearningforreal_timeo.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.04
+- [[concepts/math-physics/math-physics-hub.md|Math and Physics AI Hub]] — 2 title terms overlap; 55 backlinks; 3 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The collection comprises 16 expert‑annotated schemas covering five major scientific domains—Biology & Biotechnology, Materials & Chemistry, Imaging & Measurement, Physics, and Psychology—each defining a standardized set of fields for describing experimental or computational processes.  
 - [Finding 2] Schemas are generated via a human‑in‑the‑loop workflow that combines large language model candidate structures with expert feedback, ensuring high‑quality, domain‑specific definitions.  

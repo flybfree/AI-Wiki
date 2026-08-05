@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 SpatialWorld is a benchmark that evaluates the interactive spatial reasoning of multimodal agents in complex real‑world tasks. It moves beyond static VQA or simulator‑specific tests by requiring agents to act under vision‑only partial observability and to express decisions via a unified text‑based action interface. The study integrates eight heterogeneous simulation backends, creating 760 human‑annotated tasks across domains such as household routines, travel, and social collaboration. Evaluation of 15 advanced agents shows that even top models achieve only modest success rates.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] SpatialWorld provides a unified, simulator‑agnostic benchmark that tests active spatial reasoning in heterogeneous real‑world domains.  
 - [Finding 2] The benchmark reveals a persistent gap between task success and execution efficiency, highlighting challenges of long‑horizon planning and active exploration.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates whether item response theory (IRT) can be reliably used to evaluate AI benchmarks that differ from human testing regimes. The authors simulate benchmark data across six LLM datasets and compare four estimation tools under three IRT models, assessing computational feasibility, scalability, and inference reliability.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_19-46-40Z_RetrospectiveOrthogonalDesign_Response_Surf_summary.md|Summary: 2026-07-28_19-46-40Z_RetrospectiveOrthogonalDesign_Response_SurfaceReco.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-27_08-24-40Z_AnEmpiricalStudyofFeatureSelectionGranulari_summary.md|Summary: 2026-07-27_08-24-40Z_AnEmpiricalStudyofFeatureSelectionGranularity.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.18
+- [[concepts/papers/2026-07-28_03-56-23Z_Laplace_PSN_IRT_UncertaintyQuantificationfo_summary.md|Summary: 2026-07-28_03-56-23Z_Laplace_PSN_IRT_UncertaintyQuantificationforNeural.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.16
+
 ## Key Contributions  
 - [Finding 1] Classical IRT estimators (e.g., marginal maximum likelihood) become computationally infeasible when applied to large benchmark settings with many items.  
 - [Finding 2] Scalable estimators such as variational inference or neural pseudo‑Siamese methods can generate unreliable item‑level and ranking predictions when the model set is small or its capability distribution is non‑normal, skewed, clustered, or multimodal.  

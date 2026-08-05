@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of long‑tailed medical image classification, where a small number of samples represent rare disease labels and standard deep learning models overfit to frequent conditions. By introducing data augmentation strategies and evaluating multiple architectures, the authors aim to reduce diagnostic bias toward common diseases and improve performance on under‑represented conditions. Their work demonstrates that targeted techniques can yield balanced accuracy across both frequent and rare classes. The contribution is a practical framework for handling long‑tailed medical image datasets.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.06
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Long‑tailed medical image classification suffers from strong bias toward common diseases due to the scarcity of rare‑disease samples.  
 - [Finding 2] Data augmentation combined with model selection can substantially mitigate error rates for rare conditions.  

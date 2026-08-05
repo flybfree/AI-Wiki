@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a reservoir computing approach that recycles computational processes of dynamic programming across multiple combinatorial optimization problems, using recorded DP results as features for linear regression to assist other computations. This automatic discovery reduces computation time and improves approximation accuracy by sharing intermediate states between tasks like traveling salesman and subset sum. The approach demonstrates that previously computed DP states can serve as predictive features, enabling other DP algorithms to converge faster and with higher fidelity.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Automatic identification of cross‑task relationships via reservoir computing.  
 - Demonstration that multiplexing DP processes yields higher approximation accuracy than generic feature sets.  

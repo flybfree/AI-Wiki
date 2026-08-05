@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Large language models (LLMs) excel at surface‑level language tasks but often fail when natural‑language statements contain hidden semantic relations that must be resolved before logical inference can proceed. The authors argue that these implicit meanings are not merely background noise; their incomplete or unstructured representation is a primary cause of reasoning errors, even when the subsequent deduction appears valid. To address this gap, they introduce HexLogicAgent, a framework that first organizes the semantic meaning into a complete structure and then steers the model through structured verification guided by a logical hexagon theory. This approach aims to make LLM logical reasoning more reliable across diverse models.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Incomplete semantic representations are a major source of logical reasoning failures in LLMs, not deductive inference itself.  
 - Finding 2: Explicitly modeling the complete structure of semantic opposition slows down performance degradation as logical complexity increases.  

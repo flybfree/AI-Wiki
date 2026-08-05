@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Brain‑computer interfaces (BCIs) require models that can generalize across tasks while remaining accurate for specific decoding paradigms, yet existing foundation approaches often sacrifice one of these goals or incur high adaptation costs. The authors propose STEAM, a hierarchical transfer framework that integrates a shared soft mixture‑of‑experts (SSMoE) module to align spatial and temporal branches in an EEG decoder. By allowing complementary representations to exchange information through compact soft slots, STEAM achieves strong cross‑paradigm performance without retraining from scratch. The model is evaluated across seven datasets and fourteen settings, where it consistently ranks highest while keeping inference cost low.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces a dual‑branch spatio‑temporal encoder with a shared soft mixture‑of‑experts (SSMoE) module that aligns spatial and temporal representations via compact soft slots.  
 - [Finding 2] Demonstrates the best average rank among compared methods on seven EEG decoding datasets and fourteen evaluation configurations, while maintaining competitive FLOPs.  

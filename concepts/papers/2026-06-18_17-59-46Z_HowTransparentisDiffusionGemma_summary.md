@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates the transparency of DiffusionGemma, a diffusion‑based language model that operates largely in a continuous latent space, and compares it to its autoregressive counterpart Gemma4. It asks whether the larger fraction of computation hidden inside denoising steps makes DiffusionGemma’s reasoning less transparent. By separating transparency into variable (understanding intermediate snapshots) and algorithmic components, the authors show that while DiffusionGemma has a 28.6‑fold higher serial depth than Gemma4, this can be mitigated through an interpretable token bottleneck that preserves downstream performance. The study also reveals that algorithmic transparency is harder for diffusion models because every denoising step can alter all tokens, enabling complex distributed algorithms. Finally, the authors demonstrate that DiffusionGemma remains monitorable to the same extent as Gemma4.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 backlinks
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 2 backlinks
+
 ## Key Contributions  
 - Mapping information flow through an interpretable token bottleneck reduces the opaque serial depth from 28.6× to just 1.1× relative to Gemma4.  
 - DiffusionGemma’s algorithmic transparency is challenged by per‑step token changes that allow the model to implement distributed algorithms, which we expose via interpretability case studies revealing phenomena such as non‑chronological reasoning and token smearing.  

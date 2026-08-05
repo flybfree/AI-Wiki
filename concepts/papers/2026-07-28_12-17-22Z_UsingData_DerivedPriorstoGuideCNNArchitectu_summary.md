@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether spectral properties of near‑infrared chemometric data can serve as empirical priors to guide the design of convolutional neural network (CNN) architectures, aiming to reduce reliance on generic architectural rules. It proposes using data‑derived descriptors to inform CNN scaffold selection and hyperparameter optimization. The study tests these priors across 25 NIR regression tasks and evaluates their performance relative to standard Bayesian hyperparameter optimization. By deriving interpretable heuristics from optimal configurations, the authors demonstrate that spectral characteristics can steer plausible model structures before fine‑tuning.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Spectral descriptors such as entropy, intrinsic rank, and wavelet energy‑support fraction provide actionable priors for CNN kernel size, learning rate, and receptive field selection.  
 - The minimal single‑convolution CNN scaffold, guided by these priors, achieves competitive test‑RMSE ratios (0.953 median) compared with Bayesian HPO across tasks.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper models consensus finding as learning an interval in a one-dimensional opinion space derived from higher-dimensional data. It proposes an ERM algorithm with PAC guarantees and shows that selective querying can reduce the number of questions needed to identify broadly agreeable regions.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNe_summary.md|Summary: 2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticle_summary.md|Summary: 2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticlesfromNa.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Takeaways
 - Consensus is defined as an interval that maximizes expected agreement over issues with different salience.
 - Provides an efficient ERM approach with learning-theoretic guarantees.

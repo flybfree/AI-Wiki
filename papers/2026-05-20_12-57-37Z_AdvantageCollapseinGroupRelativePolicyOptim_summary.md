@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper investigates a critical failure mode in Group Relative Policy Optimization (GRPO), a widely used algorithm within the Reinforcement Learning from Verifiable Rewards (RLVR) framework for enhancing the reasoning capabilities of large language models. The authors identify "advantage collapse," a phenomenon where homogeneous reward signals within a sampling group lead to vanishing gradients and training stagnation. To address this, they introduce the Advantage Collapse Rate (ACR) as a novel diagnostic metric that quantifies the proportion of training batches suffering from ineffective gradients. Furthermore, the study proposes Adaptive Virtual Sample Policy Optimization (AVSPO), a lightweight extension of GRPO that injects virtual reward samples to mitigate collapse without requiring additional model rollouts.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 18 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 2 title terms overlap; shared tags: ai, paper, research; 16 summary/topic terms overlap
+- [[concepts/training-optimization/training-optimization-hub.md|Training and Optimization Hub]] — 3 title terms overlap; 505 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions
 - The authors identify and formally define "advantage collapse" as a primary bottleneck in GRPO, demonstrating that homogeneous rewards within a group result in near-zero advantages and vanishing gradients, which severely hinders learning.
 - They introduce the Advantage Collapse Rate (ACR), the first diagnostic metric capable of quantifying the proportion of training batches with ineffective gradients, showing that ACR strongly predicts both training stagnation and final model performance across various model scales.

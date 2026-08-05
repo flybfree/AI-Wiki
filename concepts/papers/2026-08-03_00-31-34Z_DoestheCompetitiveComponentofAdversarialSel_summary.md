@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether adding a competitive adversarial self‑play component improves legal reasoning beyond non‑competitive training, using a verification‑based “survival” reward that checks both the student’s cited authorities and the adversary’s counter‑authorities. It designs a controlled experiment comparing the same legal‑reasoning model trained with and without an adversary that attacks arguments via citation challenges. Across four independent tests and a pilot run, the competitive component yields no statistically reliable benefit. The authors report this negative result as a reproducibility milestone.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: No significant improvement in argument quality when using adversarial self‑play versus non‑competitive training.  
 - Finding 2: An early apparent advantage was a small‑sample artifact that disappears with larger data and proper statistical testing.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a trainable quantum kernel called McQuack that tackles three long‑standing problems in kernel methods: quadratic scaling, non‑trainable kernels, and the lack of an intrinsic multiclass formulation. By replacing the full training‑set Gram matrix with a trainable sample‑to‑class‑centroid fidelity matrix, McQuack achieves linear dependence on the number of samples. The authors demonstrate that both simulated and hardware‑based (IBM 124‑qubit) evaluations outperform existing quantum baselines and match the performance of an RBF kernel without any training overhead.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A trainable quantum kernel that scales linearly with training data by using a fidelity matrix between samples and class centroids rather than a full Gram matrix.  
 - [Finding 2] Hardware inference on IBM devices yields results comparable to an RBF kernel, showing practical relevance of the algorithm without training.  

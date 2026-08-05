@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors propose Kohn‑Sham Spectral Embedding (KSSE), a physics‑inspired energy model that replaces dense convolutional neural networks with a sparse‑graph spectral embedding evaluated at the Nishimori temperature of a Random‑Bond Ising Model. By mapping pre‑trained image features onto quasi‑cyclic low‑density parity‑check graphs and using a regularized Laplacian as a Kohn‑Sham Hamiltonian, they solve channel spectral problems efficiently with FFTs on circulant blocks. The method combines star‑domain surgery to preserve graph information, fractal analysis for mode selection, and Rayleigh refinement to obtain a compact model. Experimental results show KSSE reaches 88.93 % Top‑1 accuracy on ImageNet‑1000 while using only ~21 M parameters, outperforming Swin‑L and matching ViT‑H/14 under comparable inductive setups.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 4 title terms overlap; 9 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - **KSSE model**: Introduces a sparse‑graph spectral embedding at the Nishimori temperature that replaces dense CNNs for image classification.  
 - **Optimization via star‑domain surgery and fractal analysis**: Constructs edge shifts around codewords, bounds residual frustration to \(ρ(B_γ)≤1+δ\), and uses D₂ spectrum to certify a transition from rough to star‑domain regimes enabling Rayleigh refinement with five modes.  

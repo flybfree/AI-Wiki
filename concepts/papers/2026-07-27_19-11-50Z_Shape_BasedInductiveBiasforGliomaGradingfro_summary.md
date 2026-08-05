@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a shape‑based inductive bias to improve glioma grading from tumor contours by focusing on geometric structure rather than pixel intensities. By aligning closed tumor outlines with a functional shape‑alignment framework, the authors separate global deformation from residual Fourier components and encode them as frequency‑ordered tokens for an MLP classifier. This approach reduces model complexity while preserving diagnostic information. The method achieves higher performance in cross‑validation compared to standard convolutional networks.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A compact multilayer perceptron (MLP) trained on frequency‑ordered shape tokens outperforms ResNet‑18 and ViT‑Tiny on BraTS 2020 tumor contours, reaching a mean balanced accuracy of 71.5%.  
 - [Finding 2] The model uses far fewer parameters (2.9k–117.3k) than pixel baselines, representing at least 46× reduction in dimensionality.  

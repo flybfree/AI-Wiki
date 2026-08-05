@@ -16,6 +16,11 @@ Model: None
 ## Summary  
 This paper introduces OpenSeeker-v2, a search agent trained using only supervised fine-tuning (SFT) with a minimal dataset of 10.6k data points, demonstrating that informative and high-difficulty trajectories can significantly enhance the performance of frontier Large Language Model agents without requiring costly pre-training or reinforcement learning pipelines. The authors achieve state-of-the-art results across four benchmarks using a simple SFT approach, challenging the assumption that advanced search capabilities necessitate resource-intensive training procedures. Their work opens the door for academic teams to develop competitive search agents independently, reducing reliance on industrial-scale infrastructure.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarc_summary.md|Summary: 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] OpenSeeker-v2 achieves state-of-the-art performance (46.0%, 58.1%, 34.6%, and 78.0%) across four benchmarks—BrowseComp, BrowseComp-ZH, Humanity’s Last Exam, and xbench—outperforming the industry-standard Tongyi DeepResearch pipeline that uses CPT+SFT+RL.  
 - [Finding 2] The authors demonstrate that scaling knowledge graph size, expanding tool set diversity, and applying strict low-step filtering can create high-quality training trajectories with minimal data, enabling effective SFT without heavy pre-training.  

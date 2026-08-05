@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses a fundamental limitation in continuous generative recommendation: the “Euclidean void,” where straight‑line trajectories through embedding space avoid regions of meaningful item semantics because catalogs are discrete and sparsely populated. To remedy this, the authors introduce MIRAGE—a Manifold‑Informed Rectification framework that aligns interpolated path states with local anchors derived from an item co‑occurrence graph. By preserving the original probability path while using the graph only during training to reshape the embedding geometry, MIRAGE enables accurate one‑step inference and robust handling of unseen or rarely observed items. The proposed method consistently outperforms state‑of‑the‑art baselines across four real‑world datasets, demonstrating both higher accuracy on sparse targets and improved overall recommendation quality.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_14-26-59Z_MIRAGE_Multi_scaleLesion_InformedRepresenta_summary.md|Summary: 2026-07-21_14-26-59Z_MIRAGE_Multi_scaleLesion_InformedRepresentationwit.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
+- [[concepts/papers/2026-07-23_09-00-31Z_CounterfactualExplainabilityFrameworkWithCy_summary.md|Summary: 2026-07-23_09-00-31Z_CounterfactualExplainabilityFrameworkWithCycleGANA.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - [Finding 1] MIRAGE formalizes the Euclidean void problem as a geometric mismatch between straight probability paths and the underlying semantic manifold of item embeddings.  
 - [Finding 2] The framework rectifies this mismatch by projecting interpolated path states onto local anchors defined from an item co‑occurrence graph, thereby grounding trajectories in valid item support.  

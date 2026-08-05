@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces a “Sleep” paradigm that lets language models undergo continual learning and memory consolidation, inspired by human sleep cycles. It consists of two stages: Knowledge Seeding, an upward distillation that transfers short‑term fragile memories into stable long‑term parameters, and Dreaming, a self‑improvement phase where the model generates synthetic data via reinforcement learning to rehearse new knowledge. The authors propose a Generalized Distillation process that combines on‑policy distillation with RL‑based imitation learning for Knowledge Seeding. Experiments show that models trained with this sleep cycle achieve better long‑horizon continual learning and fewer‑shot generalization than baseline LLMs.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The “Sleep” paradigm enables continual learning by distilling short‑term memories into stable long‑term parameters, reducing forgetting over time.  
 - [Finding 2] Knowledge Seeding uses upward knowledge distillation combined with on‑policy distillation and RL‑based imitation learning to preserve and expand model capacity while maintaining knowledge fidelity.  

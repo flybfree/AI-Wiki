@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of integrating kernel‑based random features into Transformers, where feature selection is a bottleneck for performance. It introduces a particle‑based method that learns the optimal feature distribution by aligning kernels to targets while regularizing particles with a Riesz/Coulomb repulsive potential. The resulting Hamiltonian yields diverse, task‑adaptive random features and admits a mean‑field description via a McKean–Vlasov equation. Finally, the authors demonstrate this approach in linearized Transformer attention, learning positive random‑feature maps in an initial alignment phase before fine‑tuning the network with cross‑entropy.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A particle dynamics framework learns feature distributions by optimizing kernel‑target alignment and enforcing a Coulomb repulsive regularizer.  
 - [Finding 2] The Hamiltonian representation produces task‑adaptive random features that can be described by a McKean–Vlasov mean‑field equation, enabling diverse sampling.  

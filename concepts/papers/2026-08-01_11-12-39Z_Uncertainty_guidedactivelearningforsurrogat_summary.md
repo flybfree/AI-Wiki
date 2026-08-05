@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes an uncertainty‑guided active learning framework that predicts the three wear‑rate fields governing stream‑finishing erosion directly from geometry, enabling a surrogate model of the Finnie model. By using deep ensemble disagreement estimates to locate the most uncertain orientations, it selects only a fraction of the costly discrete element method (DEM) simulations. This reduces computational burden while preserving high predictive accuracy across all feasible orientations. The approach delivers calibrated uncertainty that accurately reflects prediction error and wear‑field fidelity.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_12-12-39Z_AHuman_in_the_LoopCorpusforLLM_BasedSimplif_summary.md|Summary: 2026-07-28_12-12-39Z_AHuman_in_the_LoopCorpusforLLM_BasedSimplification.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-08-04_07-46-28Z_EfficientVideoDatasetDistillationviaCluster_20260804_2235_summary.md|Summary: 2026-08-04_07-46-28Z_EfficientVideoDatasetDistillationviaCluster_Guided.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.10
+- [[concepts/papers/2026-08-01_07-32-39Z_TheBayesianReflex_APredictiveCodingEnginefo_summary.md|Summary: 2026-08-01_07-32-39Z_TheBayesianReflex_APredictiveCodingEngineforArtifi.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.08
+
 ## Key Contributions  
 - The authors develop an uncertainty‑guided active learning strategy that selects only 13 % of the 696 feasible orientations for DEM, dramatically reducing computational cost.  
 - They achieve high predictive performance with Spearman rank correlations of 0.93 for normal impact velocity, 0.89 for tangential impact velocity, and 0.93 for particle impact flux.  

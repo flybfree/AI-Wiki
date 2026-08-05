@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper empirically evaluates the out‑of‑distribution (OOD) performance of nine Tabular Foundation Models (TFMs), which have recently shown competitive predictive abilities on tabular data. The study focuses on how these models behave when faced with real‑world distribution shifts, a scenario that is often overlooked in prior work. By benchmarking TFMs across diverse pre‑training strategies and architectures against three TableShift datasets—HELOC, Voting, and Childhood Lead—the authors demonstrate systematic degradation under all shift types. The findings also reveal a scalability gap: high‑performing TFMs require substantial memory and compute resources that exceed typical deployment budgets.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World__summary.md|Summary: 2026-08-03_10-44-04Z_CompanionBench_ATheory_Anchored_Real_World_Grounde.md]] — 4 title terms overlap; 4 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] All evaluated TFMs exhibit measurable performance drops when subjected to label, socioeconomic, or geographic distribution shifts, with gaps ranging from 0.003 to 0.060 in AUC.  
 - [Finding 2] The degradation pattern mirrors that observed in classical ensemble tree‑based models, suggesting that OOD robustness is a shared challenge across tabular learners.  

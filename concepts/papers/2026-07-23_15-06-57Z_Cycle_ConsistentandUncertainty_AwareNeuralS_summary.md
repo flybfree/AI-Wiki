@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a cycle‑consistent and uncertainty‑aware neural surrogate for predicting tokamak edge plasma fields, replacing the slow SOLPS‑ITER simulations that are required for parameter scans and real‑time control. By integrating a conditional U‑Net forward model with an optimization‑based inverse method that enforces consistency without ground‑truth labels, the approach enables fast recovery of input parameters and quantifies prediction uncertainty. The surrogate achieves sub‑percent accuracy across five key control variables while operating in milliseconds.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-20_16-27-56Z_IsaacSim_to_Real_ReinforcementLearningbased_summary.md|Summary: 2026-07-20_16-27-56Z_IsaacSim_to_Real_ReinforcementLearningbasedLocomot.md]] — 3 title terms overlap; 1 backlink; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-01_11-12-39Z_Uncertainty_guidedactivelearningforsurrogat_summary.md|Summary: 2026-08-01_11-12-39Z_Uncertainty_guidedactivelearningforsurrogatepredic.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - Introduces a cycle‑consistent neural surrogate that recovers all five control parameters from edge plasma fields without external supervision.  
 - Provides calibrated Monte‑Carlo uncertainty estimates for electron temperature and density profiles, guiding where additional simulations are needed.  

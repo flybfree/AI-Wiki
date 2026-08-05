@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper identifies a severe problem in transformer‑based recommendation models: the embedding and attention mechanisms collapse because the singular values of token embeddings are dominated by a few principal components, especially under long‑tail data. This spectral dominance creates a vicious cycle that degrades performance as model depth increases. To counter this issue, the authors introduce SpecFormer, a novel Spectral‑Aware Transformer that mitigates embedding and attention collapse through three learned modules. The contributions also include a theoretical analysis showing how the collapse propagates forward and backward in the network.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Theoretical demonstration of embedding and attention collapse caused by spectral dominance in recommendation data.  
 - Finding 2: A Learnable Spectral Softening module that dynamically smooths the singular value distribution of input embeddings.  

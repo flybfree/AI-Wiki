@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Bottleneck‑Preserving Witnessing (BPW), a framework that builds compact, diagnostic replay suites for LLM serving without relying on workload representativeness or predicted bottlenecks. It solves the problem of trace reduction methods missing rare bottleneck components and cannot compensate for missing evidence in other stages. BPW uses three sequential stages—candidate nomination, sequence construction, and truth verification—to guarantee that every bottleneck component is witnessed directly from the system.  
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A prediction‑independent verification mechanism that derives bottleneck labels solely from direct target‑system measurements rather than relying on predictions.  
 - [Finding 2] Construction of a compact workload set via reusable hyperedges that systematically covers scheduler, prefill, decode, and KV‑cache bottlenecks.  

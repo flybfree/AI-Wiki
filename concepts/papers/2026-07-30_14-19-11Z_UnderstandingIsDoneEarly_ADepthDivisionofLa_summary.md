@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how transformer layers can be repurposed to create an efficient, bounded‑context memory system that does not require storing the entire conversation history. By performing “understanding” in the lower and middle layers while reserving the upper layers for prediction, the authors introduce CoMem—a depth‑based division of labor that caches only a fixed number of residual states and recomputes the query‑conditioned upper layers on a compact pack. This approach decouples model‑side read compute from stored‑context length, enabling long‑context reasoning without exploding memory usage. Experiments on Qwen3‑8B demonstrate substantial gains in dialogue performance while dramatically reducing GPU memory consumption.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CoMem achieves a 97.05 RULER score and 38.27 LoCoMo score, far exceeding the baseline full‑context KV‑Direct (34.59), showing that depth‑based retrieval outperforms token‑wise memory.  
 - [Finding 2] The model‑side read compute is independent of stored‑context length; a fixed retrieval budget yields constant per‑query cost regardless of conversation history size.  

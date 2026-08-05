@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces a physics‑informed neural operator (PINO) that warm‑starts a background‑decomposed, preconditioned pseudo‑spectral frequency‑domain finite‑order Fourier domain solver for EUV mask scattering. It achieves this by factorizing the Fourier neural operator into a two‑dimensional lateral (xy) branch and a one‑dimensional axial (z) branch while training it self‑consistently with background decomposition. The method retains full vector coupling between the mask and multilayer response without invoking a finite‑order Born approximation, thereby reducing the computational domain size and cost. This enables scalable 3‑D EUV simulation.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] PINO factorizes the Fourier neural operator into a two‑dimensional lateral (xy) branch and a one‑dimensional axial (z) branch, preserving full vector coupling between mask and multilayer response.  
 - [Finding 2] The model is trained on ~16 000 randomly sampled mask designs from LithoBench without precomputed EM solutions, yielding a mean absolute error of ≈7×10⁻³ for scattered intensity predictions.  

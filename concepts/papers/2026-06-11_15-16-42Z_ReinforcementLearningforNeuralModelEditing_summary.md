@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper proposes to treat neural model editing as a reinforcement‑learning (RL) problem, allowing agents to modify pretrained models using reward feedback rather than handcrafted algorithms. The authors introduce two environments—MaskWorld and ShiftWorld—where agents either scale weights multiplicatively or apply additive updates, guided by a combined reward that balances utility preservation with task‑specific editing goals. Experiments on bias mitigation in text classification and machine unlearning in image classification demonstrate that the learned policies can achieve near‑zero forget set accuracy while retaining over 90 % of the retain set performance. The work shows that RL can automate model editing, reducing design effort and enabling rapid adaptation to new objectives.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_Usi_summary.md|Summary: 2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - **RL formulation for neural model editing:** The paper casts model editing as an RL task, where agents receive reward signals that combine a utility‑preservation objective with the specific editing goal.  
 - **Two novel environments (MaskWorld & ShiftWorld):** MaskWorld enables multiplicative weight scaling; ShiftWorld allows additive weight updates, each paired with tailored reward functions to explore different editing strategies.  

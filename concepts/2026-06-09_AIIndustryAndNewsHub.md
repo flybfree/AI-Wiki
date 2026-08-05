@@ -12,6 +12,11 @@ tags: ['concept', 'ai', 'ml']
 
 This hub organizes AI industry news, model releases, market analysis, and breakthrough announcements.
 
+## Semantic links
+- [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|2026 06 09 Llmsandfoundationmodelshub]] — 1 title term overlap; shared tags: ai, concept, ml; 3 backlinks
+- [[concepts/2026-06-09_AgentSystemsHub.md|2026 06 09 Agentsystemshub]] — 1 title term overlap; shared tags: ai, concept, ml; 2 backlinks
+- [[concepts/2026-06-09_AIResearchPapersHub.md|2026 06 09 Airesearchpapershub]] — 1 title term overlap; shared tags: ai, concept, ml; 3 backlinks
+
 ## Latest AI News
 
 - [[2026-06-08_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md|AI Updates Today — June 2026]]

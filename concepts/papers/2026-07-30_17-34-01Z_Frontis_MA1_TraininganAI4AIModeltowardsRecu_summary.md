@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Frontis‑MA1, a massive meta‑evolution agent designed to achieve recursive self‑improvement in machine learning engineering (AI4AI). By training this model on an open full‑stack system called OpenMLE, the authors demonstrate that AI systems can improve their own construction process and surpass state‑of‑the‑art large language models such as GPT‑5.5 + Codex, approaching even larger models like Kimi K3.  
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 6 title terms overlap; 12 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors develop OpenMLE, a comprehensive testbed for recursive self‑improvement (RSI) that includes verifiable task environments (OpenMLE‑Gym), operator learning (OpenMLE‑RL), and long‑horizon search (OpenMLE‑Evo).  
 - [Finding 2] Frontis‑MA1 (35 B parameters) is post‑trained as a meta‑evolution agent using execution‑grounded SFT and RL on deduplicated benchmark data, composed into the long‑horizon search loop.  

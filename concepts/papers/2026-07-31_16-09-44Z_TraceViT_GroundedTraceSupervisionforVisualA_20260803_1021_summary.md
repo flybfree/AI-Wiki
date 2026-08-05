@@ -8,6 +8,11 @@ Model: None
 ## Summary
 The paper addresses a critical limitation in current looped visual reasoners, which typically refine predictions over multiple iterations but only constrain the final output, leaving intermediate steps unconstrained and potentially noisy. To resolve this, the authors propose TraceViT, a novel framework that employs semantically monotonic transformation chains to guide the model’s reasoning process step-by-step through grounded supervision. By decomposing programmatic task implementations into intermediate grid states and aligning them with the loop via soft trace alignment, TraceViT ensures that each iteration contributes meaningfully to the solution. This approach significantly enhances performance on abstract reasoning benchmarks by enforcing logical consistency throughout the entire inference trajectory rather than just at the conclusion.
 
+## Semantic links
+- [[concepts/papers/2026-07-24_13-58-44Z_TowardsTrustworthyandCost_EfficientDataInte_summary.md|Summary: 2026-07-24_13-58-44Z_TowardsTrustworthyandCost_EfficientDataIntegration.md]] — 3 title terms overlap; 1 backlink; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_09-24-23Z_Output_AwareRotationforINT2KV_CacheQuantiza_summary.md|Summary: 2026-08-03_09-24-23Z_Output_AwareRotationforINT2KV_CacheQuantization.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.10
+
 ## Key Contributions
 - **Grounded Trace Supervision**: The introduction of a training paradigm where intermediate refinement steps are explicitly supervised using semantically monotonic transformation chains derived from verified programmatic solutions, ensuring that each step logically progresses toward the final answer.
 - **Soft Trace Alignment Mechanism**: A novel alignment technique that enforces the ordering of intermediate states without rigidly fixing their timing, allowing the model to flexibly allocate iterations based on task complexity while maintaining logical coherence.

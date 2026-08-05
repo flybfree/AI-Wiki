@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper addresses the fundamental limitations of Large Language Models (LLMs) in handling world knowledge, specifically highlighting the opacity, difficulty in debugging, and proneness to hallucinations inherent in parameter-embedded knowledge. To resolve these issues, the authors introduce KoRe, a novel methodology that encodes 1-hop sub-graphs from Knowledge Graphs into compact discrete knowledge tokens for injection into the LLM backbone. This approach aims to leverage the human-readable and editable nature of Knowledge Graphs without the extensive computational costs associated with traditional retraining or fine-tuning techniques. The study demonstrates that this method allows for efficient grounding of modern LLMs, offering a viable alternative to current integration strategies.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 15 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of KoRe, a framework that translates Knowledge Graph structures into discrete tokens, enabling direct injection into LLMs without architectural changes.
 - Empirical evidence showing that compact discrete representations can significantly reduce token usage by up to 10x while maintaining competitive performance on standard benchmarks.

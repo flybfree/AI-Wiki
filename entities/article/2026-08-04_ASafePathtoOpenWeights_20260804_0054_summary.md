@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 The article argues that releasing powerful open‑weight AI models can be a public good, but it also acknowledges the real misuse risks and irreversible nature of model distribution. It proposes a “safe path” to openness that hinges on rigorous safety testing for the model itself and on building ecosystem readiness through staged releases, defender support, and collaboration with safety researchers.
 
+## Semantic links
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap, 4 topic terms overlap, same area: home
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - Open‑weight models democratize AI development but also enable malicious actors to exploit them, raising cybersecurity concerns.  
 - A safe release requires both robust safety testing of the model (e.g., identifying harmful capabilities) and a prepared ecosystem that can absorb the technology responsibly.  

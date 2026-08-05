@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper MetaSkill‑Evolve introduces a two‑timescale meta‑skill evolution framework that enables recursive self‑improvement of language model agents by allowing both task skills and the skill‑improvement pipeline to evolve. It replaces static, hand‑crafted skills with a dynamic set of five meta‑parameters (ψ,σ,α,π,ε) that govern Analyzer, Retriever, Allocator, Proposer, and Evolver agents within a single frozen backbone. The framework iterates fast task skill updates while the slower meta‑skill evolves under its own pipeline, achieving higher performance on open‑ended agentic benchmarks. This work demonstrates that recursive skill evolution can improve held‑out accuracy beyond raw model capabilities.  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces a two‑timescale meta‑skill evolution where task skills evolve quickly and the meta‑skill evolves slowly via the same pipeline.  
 - [Finding 2] All five components of the meta‑skill (Analyzer, Retriever, Allocator, Proposer, Evolver) are parameterized by a single frozen backbone, enabling efficient reuse without additional models or objectives.  

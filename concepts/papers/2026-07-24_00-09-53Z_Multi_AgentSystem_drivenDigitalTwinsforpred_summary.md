@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper reviews how Multi‑Agent Systems can be integrated with digital twins to enable predictive maintenance in resource‑constrained industrial settings, aiming to create an integrated embedded‑distributed hierarchical architecture for Industry 5.0. It synthesizes over 547 high‑impact papers to identify existing hybrid architectures, pinpoint technological bottlenecks, and formulate three open research questions. The contribution is a taxonomy of these solutions and a set of challenges that remain unsolved.  
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 4 title terms overlap; 2 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-22_06-50-53Z_Hypothesis_and_RefinementLearningofOrganicS_summary.md|Summary: 2026-07-22_06-50-53Z_Hypothesis_and_RefinementLearningofOrganicStructur.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+
 ## Key Contributions  
 - A comprehensive taxonomy of hybrid Multi‑Agent System–Digital Twin architectures for predictive maintenance.  
 - Identification of three persistent technological bottlenecks: AI deployment on microcontrollers, lightweight distributed coordination, and hierarchical orchestration with explainable AI.  

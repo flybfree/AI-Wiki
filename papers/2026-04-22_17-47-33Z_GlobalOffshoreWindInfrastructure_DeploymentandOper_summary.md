@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper presents a global Sentinel-1 SAR time-series corpus for monitoring offshore wind infrastructure deployment and operations from 2016Q1 to 2025Q1. The authors compile 15,606 time series and 14,840,637 analysis-ready backscatter events, along with rule-based semantic labels and an expert-annotated benchmark set. The dataset is intended to support global-scale analysis and benchmarking of time-series methods for offshore wind monitoring.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_Usi_summary.md|Summary: 2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapa_summary.md|Summary: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 1 title term overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Takeaways
 - Provides a global, temporally dense SAR dataset for offshore wind infrastructure.
 - Includes analysis-ready 1D backscatter profiles, baseline labels, and an expert benchmark.

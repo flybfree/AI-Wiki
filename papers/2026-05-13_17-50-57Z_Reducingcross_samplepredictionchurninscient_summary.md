@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper introduces the concept of "cross-sample prediction churn" to quantify the instability of scientific machine learning models when trained on different subsets of the same underlying data distribution. The authors demonstrate that while standard models may achieve high aggregate accuracy, they frequently disagree on individual predictions for up to 21.8% of test samples when trained on independent bootstraps. To address this instability, the study evaluates both existing parameter-side techniques and novel data-side methods, revealing that traditional ensembling fails to mitigate churn. The research proposes and validates two effective data-side solutions: K-bootstrap bagging and a novel "twin-bootstrap" method, which significantly reduce prediction variance without compromising overall predictive performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Unde_summary.md|Summary: 2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 17 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe_summary.md|Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 - The paper defines and empirically quantifies "cross-sample prediction churn," establishing that standard deep learning models exhibit high instability in individual predictions despite stable aggregate accuracy metrics across nine chemistry benchmarks.
 - It demonstrates that conventional parameter-side regularization techniques, such as deep ensembles, MC dropout, and stochastic weight averaging, are ineffective at reducing this specific type of prediction instability.

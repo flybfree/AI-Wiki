@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the limitation of current on‑policy self‑distillation (OPSD) methods, which rely solely on action scores that do not guarantee environmental success. It proposes Outcome‑Verified Comparative Self‑Distillation (OVCSD), an approach that validates teacher preferences through actual outcomes and learns by comparing student trajectories with those of a skill‑conditioned teacher. By organizing failed rollouts into a prefix tree and retaining only outcome‑verified continuations, OVCSD enables localized comparative learning at the first divergence point, thereby transferring successful post‑divergence behavior to the student agent. The method demonstrates substantial gains over existing baselines while incurring minimal privileged interaction.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Outcome‑verified teacher supervision replaces arbitrary action scoring with validation against real environment outcomes, ensuring that only beneficial skills are retained.  
 - [Finding 2] Comparative learning is performed at the first state‑aligned divergence between student and teacher rollouts, allowing efficient transfer of successful suffixes without full trajectory replay.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 This paper introduces PALACE, a closed‑form adaptive‑landmark kernel that delivers certified point‑cloud and graph classification with provable guarantees. The method adapts landmark placement and bandwidth to the data while guaranteeing structural distortion bounds without gradient training. It combines a cover‑theoretic core with Mahalanobis margins to produce per‑prediction certificates.  
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal__summary.md|Summary: 2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Structural lower distortion bound λ(τ;ν) on Dₙ under cross‑diagram non‑interference, achieving a (D/L)² budget reduction over uniform grids when diagrams concentrate.  
 - [Finding 2] Equal weights wₖ = K⁻¹/₂ maximize λ and farthest‑point‑sampling positions approximate the optimal k‑center covering radius using only training labels.  

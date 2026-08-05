@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces GGC, a selective query‑correction framework that makes LLM‑generated SPARQL queries for text‑to‑SPARQL tasks more reliable and efficient. By integrating a Generator, a Gate, and a Corrector, GGC only rewrites high‑risk queries while leaving correct ones untouched. Experiments on the MCQA benchmark show query‑level accuracy rising from 90.23 % to 98.33 % with a 45 % reduction in inference overhead compared with correcting every generated query. The work demonstrates that selective correction balances correctness with computational cost.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardw_summary.md|Summary: 2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardwareTroj.md]] — 4 title terms overlap; 4 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - GGC framework combines generator, gate, and corrector to apply corrections only when needed.  
 - Experimental results: query‑level accuracy improves from 90.23 % to 98.33 %, inference overhead drops by 45 %.  

@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research addresses the critical challenge of automating the coding of psychiatric diagnoses by mapping free-text clinical descriptions to the International Classification of Diseases (ICD) standard. The authors evaluate a spectrum of Natural Language Processing (NLP) techniques, ranging from traditional frequency-based models to advanced Large Language Models (LLMs), using a specialized dataset of over 145,000 Spanish psychiatric records. The primary goal is to determine which text representation paradigms most effectively handle the semantic complexity and ambiguity inherent in mental health documentation. The study demonstrates that transformer-based embeddings significantly outperform classical methods, with the e5_large model achieving superior performance through end-to-end fine-tuning.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagati_summary.md|Summary: 2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithG_summary.md|Summary: 2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions
 - The study provides a comprehensive comparative analysis of classical NLP techniques versus state-of-the-art LLMs specifically tailored for the domain of psychiatric diagnostic coding, highlighting the limitations of traditional methods in capturing nuanced medical terminology.
 - It identifies the e5_large model as the most effective approach for this specific task, achieving a high $F1_{micro}$ score of 0.866, thereby establishing a new benchmark for automated ICD classification in Spanish psychiatric contexts.

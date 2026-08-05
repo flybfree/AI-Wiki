@@ -16,6 +16,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
+
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — 1 title term overlap, shared tags: feedbackloops, harnessengineering, 6 topic terms overlap
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9 — SmolAgents Deep Dive: Code-First Agents from Hugging Face]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson6_Evaluation.md|Lesson 6 — Evaluation & Verification: The Judge Node]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+
 ## Core Idea
 
 AI engineering is undergoing a fundamental shift: the leverage point is moving from **how you ask the model** (prompting) to **what happens after the model responds** (loops). Models are converging in capability — the harness around the model is becoming the differentiator.

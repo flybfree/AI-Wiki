@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research challenges the prevailing assumption that the primary bottleneck in Vision-Language Models (VLMs) is their reasoning capability, instead identifying a critical deficiency in visual perception as the root cause of performance limitations. The authors propose a novel post-training framework that decouples the training process into three distinct stages: visual perception, visual reasoning, and textual reasoning, utilizing specialized datasets for each phase. By systematically isolating these capabilities, the study demonstrates that solidifying visual perception through staged training serves as a fundamental scaffold that significantly enhances subsequent reasoning tasks. The work establishes that superior perceptual grounding reduces the need for excessive, inefficient reasoning traces, offering a more efficient and effective path for improving VLM performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+
 ## Key Contributions
 - The paper identifies that visual perception, rather than reasoning logic, is the primary limiting factor for VLM performance on visual tasks, contradicting the focus on long chain-of-thought reasoning.
 - It introduces a decoupled, three-stage training methodology that separates visual perception, visual reasoning, and textual reasoning, proving that staged training outperforms merged training approaches.

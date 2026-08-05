@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how reinforcement learning (RL) improves the merging of multiple large language model (LLM) checkpoints, a process that often suffers from task conflicts and performance degradation. By comparing RL‑trained models with those fine‑tuned via supervised methods, the authors demonstrate that RL markedly reduces these conflicts while preserving or even enhancing downstream task performance. The study identifies three underlying mechanisms—on‑policy gradient magnitude control, progressive reduction of conflict updates guided by an “enough is as good as a feast” objective, and joint optimization of positive/negative examples—that explain why RL is especially effective for model merging.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] On‑policy training data in RL produce smaller‑magnitude gradient updates, which limits the risk of overwriting knowledge from other tasks that are already encoded in the merged model.  
 - [Finding 2] The RL optimization objective “enough is as good as a feast” progressively diminishes both the magnitude and the number of conflict parameter adjustments as training converges, thereby preventing unnecessary interference between tasks.  

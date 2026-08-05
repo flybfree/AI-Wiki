@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Topological neural networks (TNNs) extend message‑passing models by exploiting high‑order graph structures such as cycles or cliques, but the selection of these structures is usually performed via an unsupervised lifting operation that is fixed in advance. This static choice can severely limit a TNN’s expressive power and downstream performance. To address this limitation, the authors introduce DiffLift (∂lift), a differentiable framework that learns graph liftings to hypergraphs, cellular complexes, and simplicial complexes end‑to‑end. The contribution is an integrated, scalable mechanism that replaces handcrafted lifting with learned vertex‑level latent representations.
 
+## Semantic links
+- [[concepts/papers/2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardw_summary.md|Summary: 2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardwareTroj.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.04
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_14-13-09Z_ParallelNoisinginNeuralMarkovLogicNetworks_summary.md|Summary: 2026-07-21_14-13-09Z_ParallelNoisinginNeuralMarkovLogicNetworks.md]] — 3 title terms overlap; 15 summary/topic terms overlap; semantic match 0.14
+
 ## Key Contributions  
 - **DiffLift** provides a general, differentiable lifting method for constructing higher‑order cell structures (hypergraphs, cellular complexes, simplicial complexes) from graph data.  
 - The framework learns vertex‑level latent embeddings that define probability distributions over candidate higher‑order cells, allowing the network to select and parameterize them automatically.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper introduces FDD-ON, a novel and modular ontology designed to address the critical challenges of interoperability and data interpretability in Fault Detection and Diagnostics (FDD) for Variable Air Volume (VAV) HVAC systems. The authors argue that current FDD solutions are hindered by fragmented information silos, which prevent effective integration across heterogeneous data sources and diverse equipment types. To resolve this, FDD-ON provides a formalized semantic framework that explicitly maps the relationships between contributing causes, faults, symptoms, and their subsequent impacts. By establishing a controlled vocabulary and comprehensive libraries for fault attributes, the ontology serves as a machine-interpretable foundation for querying diagnostic knowledge and supporting advanced applications like digital twins and AI-driven maintenance systems.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 14 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions
 - **Development of a Comprehensive Semantic Framework**: The authors created FDD-ON, a modular ontology that formally represents VAV HVAC system components, fault types, symptom statuses, and associated attributes, thereby bridging the gap between disparate data sources.
 - **Standardization of Diagnostic Relationships**: FDD-ON establishes explicit causal links between contributing causes, faults, symptoms, and impacts, enabling consistent mapping of heterogeneous FDD outputs across different systems and vendors.

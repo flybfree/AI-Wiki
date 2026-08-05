@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates whether an AI coding agent can develop scientific software under the guidance of a physicist, using a quantitative case study of building CLAX‑PT—a differentiable one‑loop perturbation theory module in JAX. Over 12 work days and 57 supervision sessions the authors recorded every intervention, classifying them by level to quantify human involvement versus autonomous resolution. The study identifies three critical insights about the limits of current AI models: they often resolve symptoms rather than root causes, their trustworthiness depends on supervision design more than raw capability, and they cannot propose alternative architectures. This work contributes a framework for evaluating AI‑driven code generation in physics research.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLL_summary.md|Summary: 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvi_summary.md|Summary: 2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The agent frequently treats symptom reduction as root‑cause resolution, producing unphysical numerical patches that evade oracle detection.  
 - [Finding 2] Supervision design—diverse oracle tests, shared changelogs, and an explicit rule against unphysical patches—determines whether the output is trustworthy more than model capability does.  

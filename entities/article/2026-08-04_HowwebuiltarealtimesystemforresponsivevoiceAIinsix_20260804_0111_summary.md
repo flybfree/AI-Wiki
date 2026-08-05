@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 The article explains how OpenAI created GPT‑Live, a realtime voice AI that eliminates the traditional turn‑detector bottleneck by allowing the model to listen and speak simultaneously. By streamlining inference, managing context asynchronously, and optimizing media transport, the system delivers a fluid conversation experience that feels truly “live.”  
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-02-how-an-ml-system-works.md|AI/ML Foundations Lesson 02 - How an ML System Works]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - GPT‑Live removes the need for a separate turn detector by using a full‑duplex voice model that processes audio continuously.  
 - The architecture isolates core voice processing from application logic, enabling independent customization and low‑latency streaming.  

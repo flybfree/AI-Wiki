@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Robot policies are becoming increasingly general, with vision‑language‑action (VLA) models allowing a single policy to execute diverse tasks described in natural language. Safe deployment, however, demands that safety filters adapt not only to new tasks but also to varying safety requirements across users and environments. Existing filters are largely constraint‑specific, requiring redesign or relearning when rules change. This paper introduces **language‑conditioned safety filters** that condition a Hamilton‑Jacobi safety actor and critic on the natural‑language constraints themselves, enabling direct enforcement of arbitrary textual safety specifications. Experiments across pick‑and‑place, table‑wiping, and block‑stacking tasks demonstrate reduced violations and partial transfer to unseen constraint instances within the same family.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_15-24-35Z_PATS_Policy_AwareTrainingScaffoldingforAgen_summary.md|Summary: 2026-07-23_15-24-35Z_PATS_Policy_AwareTrainingScaffoldingforAgenticRein.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.07
+
 ## Key Contributions  
 - [Finding 1] Language‑conditioning enables the model to enforce any safety rule expressed in natural language without retraining.  
 - [Finding 2] The conditioned filter reduces constraint violation rates by roughly 30 % compared with unconditioned baselines.  

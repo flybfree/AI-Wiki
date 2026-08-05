@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces CFips, a sampling framework for interval patterns that respects user‑defined syntactic constraints. It integrates these constraints directly into the sampling process rather than applying them after pattern generation. The approach guarantees exact proportional frequency sampling within the constrained space. Experimental results demonstrate that CFips can complete mining tasks that would otherwise be infeasible under time limits.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal__summary.md|Summary: 2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] CFips provides a multi‑step sampling algorithm that decomposes syntactic constraints into elementary predicates on interval bounds.  
 - [Finding 2] The method guarantees that sampled patterns are drawn proportionally to their frequency within the constrained pattern space, preserving exactness.  

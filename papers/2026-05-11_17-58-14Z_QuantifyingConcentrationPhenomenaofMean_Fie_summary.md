@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates how tokens evolve inside deep encoder‑only transformers when the temperature parameter β is low, i.e., in the zero‑temperature limit. By approximating the token dynamics with a mean‑field continuity equation, the authors treat each token as an interacting particle and prove that its distribution rapidly concentrates onto the push‑forward of the initial distribution under the projection induced by the key, query and value matrices. The concentration is quantified via a Wasserstein distance whose scaling is \(\sqrt{\log(\beta+1)/\beta}\,e^{Ct}+\exp(-ct)\). This theoretical result predicts that for times of order \(\log\beta\) the token distribution has already reached its limiting form.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffus_summary.md|Summary: 2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFi_summary.md|Summary: 2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFine_Tuni.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnno_summary.md|Summary: 2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: The token distribution concentrates onto the push‑forward of the initial distribution under the projection map defined by the key, query and value matrices.  
 - Finding 2: The concentration is metastable; the authors establish Lyapunov‑type estimates for the zero‑temperature equation and prove stability in Wasserstein space using a quantitative Laplace principle that couples the mean‑field dynamics with the original discrete model.  

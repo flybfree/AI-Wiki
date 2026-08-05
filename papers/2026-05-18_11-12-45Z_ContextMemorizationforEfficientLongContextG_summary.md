@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical scalability and efficiency challenges inherent in processing long conditioning prefixes for large language models (LLMs) during inference. The authors identify two primary structural limitations of current prefix-augmented inference methods: the diminishing influence of the prefix as generation progresses and the linear scaling of attention computation relative to prefix length. To overcome these issues, the researchers propose "attention-state memory," a novel, training-free mechanism that externalizes the prefix into a lightweight, lookup-based memory structure. This approach precomputes and stores the attention states between prefix and query tokens, allowing the model to retrieve necessary context without recalculating attention over the entire long prefix, thereby significantly reducing computational overhead while maintaining or improving performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictio_summary.md|Summary: 2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentr_summary.md|Summary: 2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of attention-state memory, a training-free method that externalizes long context into a lookup-based memory, effectively decoupling context retention from the model's active attention mechanism.
 - Demonstration of superior efficiency and accuracy on the ManyICLBench dataset with LLaMA-3.1-8B, showing improved accuracy over standard in-context learning within 1K-8K memory budgets and a 1.36x reduction in attention latency at 8K context length.

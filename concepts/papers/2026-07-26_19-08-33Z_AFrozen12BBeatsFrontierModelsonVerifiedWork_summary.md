@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a system where a frozen 12 B language model answers verified problem instances without generating any tokens, using a persistent memory store of exact solutions. It demonstrates zero‑token inference with bit‑exact outputs across multiple problem families and architectures. The approach decouples performance from parameter scaling by relying on stored knowledge rather than computation. A public benchmark is provided for independent verification.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-30_13-58-33Z_SecurityofWorld_Model_BasedEmbodiedAI_ALife_summary.md|Summary: 2026-07-30_13-58-33Z_SecurityofWorld_Model_BasedEmbodiedAI_ALifecycleof.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A frozen 12 B model can answer new instances of a verified problem family with zero generation tokens, delivering bit‑exact and deterministic answers.  
 - [Finding 2] The persistent memory enables sub‑millisecond selection (≈1.4 µs) and full reuse in 6–23 ms at 36 mWh, fitting within a 6 M‑token GPU window.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces **IssueTrojanBench**, a benchmark designed to evaluate AI coding agents against malicious issue requests that embed attacks in the prompt. The authors test state‑of‑the‑art agents—Cursor, Claude Code, and Codex Desktop—powered by two major model families (OpenAI GPT‑5.3/5.4 and Anthropic Sonnet 4.6). Their systematic study reveals that a substantial proportion of malicious issues bypass both LLM‑level guardrails and the agent’s autonomous execution pipeline. The work underscores critical vulnerabilities in current safety mechanisms for AI coding agents.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1**: Approximately 66.5 % of the malicious issue requests from IssueTrojanBench penetrate all guardrails, indicating a systemic vulnerability across both LLM and agent components.  
 - **Finding 2**: Rejection is overwhelmingly driven by the underlying LLMs; GPT‑based models exhibit broad vulnerability, whereas Sonnet 4.6 shows more selective, risk‑aware blocking of high‑impact actions.  

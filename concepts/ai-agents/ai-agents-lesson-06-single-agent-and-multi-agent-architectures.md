@@ -9,6 +9,11 @@ tags: [lesson, agents, architecture, multi-agent]
 
 **Source**: [LangGraph](https://www.langchain.com/langgraph) · [OpenAI Agent Builder](https://developers.openai.com/api/docs/guides/agent-builder) · [TrustedARI: Towards Trust-Native Agentic Routing Infrastructure for Agentic AI](https://arxiv.org/abs/2606.15822)
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|AI Agents Lesson 4 - Planning, Memory, and State]] — 3 title terms overlap, shared tags: agents, lesson, 5 topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-05-guardrails-evaluation-and-reliability.md|AI Agents Lesson 6 - Guardrails, Evaluation, and Reliability]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+
 ## Lesson goal
 Show how to choose between one agent, a routed system, or many cooperating agents.
 

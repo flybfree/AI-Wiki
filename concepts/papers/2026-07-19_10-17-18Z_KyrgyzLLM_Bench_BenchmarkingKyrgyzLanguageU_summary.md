@@ -39,6 +39,11 @@ The primary goal of this paper is to provide a transparent, reproducible benchma
 
 ---
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_18-09-17Z_LayerRAG_Bench_ACross_LayerReliabilityBench_summary.md|Summary: 2026-07-29_18-09-17Z_LayerRAG_Bench_ACross_LayerReliabilityBenchmarkfor.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.04
+
 ## Key Contributions  
 
 1. **KyrgyzLLM‑Bench** – A comprehensive, multitask benchmark for Kyrgyz language understanding that covers identification, NER, QA, and summarization. The dataset is publicly released (link: `https://github.com/kyrgyz-llm-bench/krz-bench`).  

@@ -16,6 +16,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://github.com/ggerganov/llama.cpp.git)
+
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson3_AbstractionLayer.md|Lesson 3 — Abstraction Layer: Model Swapping & Normalization]] — 2 title terms overlap, 7 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — 1 title term overlap, shared tags: selfhosted, 6 topic terms overlap
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9 — SmolAgents Deep Dive: Code-First Agents from Hugging Face]] — 1 title term overlap, 6 topic terms overlap, same area: home
+
 ## Core Idea
 
 The inference layer is where your models live and serve requests. For self-hosted self-improving loops, you need a local model server that provides an OpenAI-compatible API — this lets you run agents against local models in dev and swap to cloud models in prod without changing agent code.

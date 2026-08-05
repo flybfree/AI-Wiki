@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper addresses the challenge of classifying pathological scars from clinical photographs when expert‑labeled data is scarce and acquisition varies across hospitals. Instead of relying on end‑to‑end image models or sending images to a vision‑language model, they propose ScaFE, which converts LLM knowledge into deterministic feature programs that run locally. These programs generate visual attributes, are executed in a restricted environment, and only produce aggregated validation statistics and SHAP summaries for auditability. A lightweight Random Forest then classifies on the structured representation.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: ScaFE achieves 81.0% site‑macro balanced accuracy on a leave‑one‑site‑out evaluation, surpassing BiomedCLIP by 10 percentage points.  
 - Finding 2: With only 10% of development data, ScaFE retains 72.0% balanced accuracy and maintains an 11.8‑point lead, demonstrating strong data efficiency.  

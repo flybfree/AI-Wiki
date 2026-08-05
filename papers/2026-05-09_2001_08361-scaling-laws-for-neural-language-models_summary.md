@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper discovers that neural language‑model performance follows a smooth power law across three key dimensions—model size, the number of training tokens, and total compute used—and that for models as large as GPT‑3 the bottleneck is data rather than additional parameters or FLOPs. This work provides the first empirical roadmap for scaling language‑model capability.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesoc_summary.md|Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] — 1 title term overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Model‑size law – loss decreases proportionally to a negative power of model size (doubling parameters reduces loss).  
 - **Finding 2:** Data is the real bottleneck – increasing token exposure yields larger performance gains than further enlarging the model when compute is fixed.  

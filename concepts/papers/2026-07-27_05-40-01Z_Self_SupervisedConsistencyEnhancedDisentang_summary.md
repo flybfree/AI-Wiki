@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses neural drift in brain‑machine interfaces, which degrades long‑term performance and limits the viability of invasive BMIs. It proposes Self‑Supervised Consistency Enhanced Disentangled Learning (SSCDL), a framework that learns robust representations by enforcing teacher‑student consistency constraints while simultaneously disentangling motor signals into velocity, direction, and speed. The approach leverages three complementary CNDs under Complementary‑Disentangled Generalization to capture invariant neural preferences across different decoding tasks. Experimental results demonstrate state‑of‑the‑art decoding performance with high cross‑day stability.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - Introduces the SSDL framework that combines consistency‑constrained learning with a CDG mechanism for disentangled representation learning.  
 - Designs the Consistency enhanced Neural Decoder (CND) using teacher‑student consistency constraints and simulated neural signal perturbations to make representations drift‑invariant.  

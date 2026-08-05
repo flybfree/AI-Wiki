@@ -46,6 +46,11 @@ Priority order:
 9. Lesson 10 — light-to-moderate update
 10. Lessons 1–7 — light bridge updates only
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 1 title term overlap; shared tags: foundations; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]] — 1 title term overlap; shared tags: foundations; 2 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|AI/ML Foundations Lesson 07 - Convolutional Networks for Vision]] — 1 title term overlap; shared tags: foundations; 6 backlinks
+
 ## Lesson-by-lesson plan
 
 ### Lesson 1 — AI, Machine Learning, and Deep Learning

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Rubric‑based LLM‑as‑judge pipelines often treat evaluation criteria as independent signals, yet in practice the scores on different criteria can be behaviorally coupled: improving one criterion may systematically affect another, leading to distorted aggregate scores. The authors propose RADAR (Rubric‑Aware Dependency and Redundancy Analysis), a lightweight pre‑flight diagnostic that estimates this coupling before large‑scale evaluation. By generating targeted synthetic probes and scoring them on all criteria, RADAR produces a directional coupling matrix that reveals which criteria co‑score and how strongly they are linked. This framework enables practitioners to audit redundancy, hierarchy, and aggregation sensitivity early in the model‑release process.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Human inter‑criterion correlation structures can be recovered with only a few probes per criterion (Pearson r > 0.84).  
 - **Finding 2:** RADAR generates concrete audit signals that identify redundant or hierarchical criteria and flag potential aggregation bias.  

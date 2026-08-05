@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical efficiency bottleneck inherent in discrete diffusion models, specifically their reliance on lengthy sampling procedures due to the mismatch between fixed forward noising processes and factorized reverse distributions. The authors propose Forward-Learned Discrete Diffusion (FLDD), a novel framework that replaces the traditional fixed Markovian forward chain with a learnable, non-Markovian noising process. By allowing both the marginal and posterior distributions of the forward process to be optimized end-to-end, FLDD significantly reduces the divergence between the target data distribution and the model's generative path. Consequently, this approach enables high-quality sample generation in a drastically reduced number of steps, offering a substantial improvement in computational efficiency without sacrificing output fidelity.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesoc_summary.md|Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedby_summary.md|Summary: 2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedbyAgentic.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of Forward-Learned Discrete Diffusion (FLDD), a new paradigm that treats the forward noising process as a learnable component rather than a fixed hyperparameter, allowing for dynamic adaptation to the data structure.
 - The development of a non-Markovian formulation for discrete diffusion that maintains a factorized reverse process while aligning it with a flexible forward process, thereby bridging the gap between the target and model distributions.

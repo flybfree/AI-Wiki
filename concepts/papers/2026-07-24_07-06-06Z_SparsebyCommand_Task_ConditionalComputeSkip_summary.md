@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Multi‑task inference models share a single backbone but perform identical computation for every active task, wasting energy and cycles on irrelevant operations. We propose a hardware‑software co‑design that exploits the task command to skip unnecessary compute at the tile level, achieving a task‑dependent reduction in FLOPs without altering model architecture or pipeline.  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 4 title terms overlap; 9 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 6 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Task‑conditional tile masking reduces FLOPs by 66–76% while preserving driving quality and latency.  
 - Co‑designed instruction set and accelerator support zero‑overhead sparse execution via per‑tile bitmask fields.  

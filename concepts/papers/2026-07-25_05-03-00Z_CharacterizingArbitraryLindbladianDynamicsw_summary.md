@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a novel protocol for reconstructing an arbitrary sparse Lindbladian generator—including every Hamiltonian and jump‑operator coefficient—using only product Pauli state preparation, single uninterrupted forward evolutions, and product Pauli measurements. By exploiting a sparsity budget \(M_0\) and a strength bound \(\Gamma\), the authors achieve precision \(\varepsilon\) with \(\widetilde{O}(\Gamma^2 M_0^2/\varepsilon^4)\) experiments and \(\widetilde{O}(\Gamma M_0^2/\varepsilon^2)\) total evolution time, while identifying all supports from data without any locality assumptions. The protocol is provably robust to calibrated errors in state preparation and measurement. This work bridges the gap between theoretical Lindblad modeling and practical quantum‑device benchmarking.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A finite‑sample reconstruction scheme that learns every coefficient of a sparse Markovian generator from product Pauli measurements alone, without ancillas or mid‑circuit control.  
 - [Finding 2] Theoretical guarantees on the number of experiments and total evolution time required to achieve arbitrary precision \(\varepsilon\), scaling as \(\widetilde{O}(\Gamma^2 M_0^2/\varepsilon^4)\).  

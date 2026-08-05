@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of evaluating the geometric consistency of generative video models, which are increasingly viewed as implicit world models but lack robust quantitative assessment tools. The authors introduce PDI-Bench, a novel framework that utilizes perspective distortion indices to audit the physical plausibility of generated video clips by analyzing 3D structural and motion coherence. By leveraging advanced segmentation, point tracking, and monocular reconstruction techniques, the method computes projective-geometry residuals to identify specific failure modes such as scale-depth misalignment and structural rigidity violations. The study demonstrates that PDI-Bench reveals consistent geometric failures in state-of-the-art video generators that are entirely missed by conventional perceptual metrics, thereby providing a necessary diagnostic signal for the development of physically grounded video generation systems.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeStee_summary.md|Summary: 2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of PDI-Bench, a comprehensive quantitative framework designed to evaluate geometric coherence in generated videos through the calculation of perspective distortion indices.
 - The creation of PDI-Dataset, a diverse collection of video scenarios specifically engineered to stress-test geometric constraints, including scale-depth alignment, 3D motion consistency, and structural rigidity.

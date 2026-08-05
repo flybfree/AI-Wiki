@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Static factuality leaderboards ignore the computational cost of generating answers, which can mislead practitioners into selecting a model that is both highly accurate and prohibitively expensive. The paper introduces MAS‑HQ (Multi‑Agent System Hallucination Quest), a resource‑aware protocol that normalizes factuality scores by the amount of compute required, thereby making trade‑offs visible. By comparing models against each other rather than scoring them in isolation, MAS‑HQ reveals when a higher raw score is outweighed by excessive token usage or latency. The study shows that competition elicits modest but consistent improvements in resource efficiency across summarization and open‑domain QA tasks.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-01_16-24-11Z_Multi_tenantKubernetesUseCasesforAI_SecureC_summary.md|Summary: 2026-08-01_16-24-11Z_Multi_tenantKubernetesUseCasesforAI_SecureComputin.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.03
+
 ## Key Contributions  
 - [Finding 1] Static leaderboards cannot differentiate between high‑factuality models that are also very costly, leading to ranking reversals when cost is accounted for.  
 - [Finding 2] MAS‑HQ introduces a normalized factuality metric (the Q‑Score) that subtracts the cost of generating answers under competitive matching, providing a fair comparison.  

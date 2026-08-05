@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The authors introduce **Diffusion‑Proof**, the first framework that trains and deploys diffusion‑based large language models (dLLMs) for formal theorem proving, addressing the long‑range coherence and error‑compounding problems inherent in autoregressive (AR) LLMs. Their contribution consists of two novel dL​M components—a whole‑proof generator (**dLLM‑Prover‑7B**) and a local correction module (**dLLM‑Corrector‑7B**)—that together achieve measurable gains over the best AR baseline on standard proof‑checking benchmarks. The framework also demonstrates practical utility by solving an IMO problem that even state‑of‑the‑art deep‑learning provers cannot handle, highlighting the unique strengths of diffusion generation in mathematical reasoning.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 backlinks
+- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A complete training and inference pipeline for dLLMs enables whole‑proof writing with coherent long‑range tactic usage.  
 - [Finding 2] A novel local correction model leverages bi‑directional in‑filling of diffusion blocks to fix errors introduced during generation.  

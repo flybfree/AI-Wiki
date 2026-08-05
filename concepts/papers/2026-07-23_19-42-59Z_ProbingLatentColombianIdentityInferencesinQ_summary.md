@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates whether the Qwen2.5‑7B‑Instruct language model stores latent representations of Colombian identity, socioeconomic status, or related stereotypes when processing prompts written in Spanish or English. By employing Natural Language Autoencoders (NLAs) to translate residual‑stream activations from layer 20 across four positional quartiles, the authors reveal how these hidden cues may influence downstream output before any explicit labeling is present. The study provides a pilot, non‑statistically powered investigation that bridges activation‑level interpretability with bias evaluation for under‑represented Spanish varieties.  
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Qwen2.5‑7B‑Instruct exhibits higher similarity in residual activations when Colombian cues are present, suggesting the model encodes a latent Colombian identity signal even without explicit mention.  
 - **Finding 2:** Implicit Colombian cues (e.g., cultural references) still trigger comparable activation patterns to explicit cues, indicating that the representation is not solely dependent on overt lexical markers.  

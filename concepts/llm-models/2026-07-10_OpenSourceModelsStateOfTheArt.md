@@ -11,6 +11,11 @@ tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "l
 
 This page tracks the current open-weight frontier and the models most relevant for local deployment.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Snapshot
 
 Open-source model progress now splits into two tracks:

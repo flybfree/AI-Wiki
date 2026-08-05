@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses forgetting in language models when fine‑tuning on a new task, showing that self‑generated samples can replace stored exemplars. It demonstrates that forgetting is mitigated by using the model’s own training distribution as replay data. The authors also identify capacity constraints and learning‑rate trade‑offs. Their method enables fast, high‑learning‑rate finetuning without forgetting.  
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsfo_summary.md|Summary: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Self‑generated samples from a language model serve as effective replay data that nearly eliminate task‑to‑task forgetting.  
 - Finding 2: Forgetting persists when the model is near saturation; capacity limits prevent absorption of new information without overwriting prior knowledge.  

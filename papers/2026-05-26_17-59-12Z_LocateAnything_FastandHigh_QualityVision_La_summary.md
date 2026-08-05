@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Vision‑language models (VLMs) typically solve visual grounding and detection by generating a sequence of 1D tokens that represent the coordinates of each bounding box, which forces a strictly sequential decoding process. This token‑by‑token generation creates an inference bottleneck because the geometric constraints of boxes are not jointly modeled. The authors introduce LocateAnything, a unified generative framework that replaces this serial approach with Parallel Box Decoding (PBD), treating whole boxes and points as atomic units decoded simultaneously. By preserving intra‑box geometry and enabling full parallelism, PBD improves both decoding speed and localization quality. A large‑scale dataset called LocateAnything‑Data, containing over 138 million samples, is also provided to further boost performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionM_summary.md|Summary: 2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDiffere_summary.md|Summary: 2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDifferentially.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenR_summary.md|Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] — 2 title terms overlap; shared tags: ai, paper, research; 15 summary/topic terms overlap
+
 ## Key Contributions  
 - **Parallel Box Decoding (PBD)**: A novel decoding strategy that generates the full set of box coordinates in a single step rather than sequentially tokenizing each coordinate.  
 - **LocateAnything framework**: A unified generative model for visual grounding and detection that leverages PBD to maintain geometric coherence across boxes.  

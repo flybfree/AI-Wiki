@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 KLIP proposes a method for detecting out‑of‑distribution (OOD) information in inverse problems by measuring the Kullback‑Leibler divergence between a diffusion prior and the posterior distribution of data. The metric can flag both whole‑image OOD instances and localized OOD patches without requiring calibration data or explicit knowledge of the shifted distribution. Experiments demonstrate that KLIP reliably identifies subtle shifts such as tumor presence on liver CT scans, while also generalising across different diffusion models, datasets, and inverse problems.  
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] The method provides an OOD detection metric that does not need calibration data or knowledge of the target distribution.  
 - [Finding 2] It can detect both global OOD images and localized OOD patches within a single image.  

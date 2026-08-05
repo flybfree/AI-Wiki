@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of comparing language‑model safety scores when no ground‑truth benchmark exists for a given language, sector, or regulatory regime. It formalizes this situation as *benchmarkless comparative safety scoring* and introduces an instrumental‑validity chain that replaces label agreement with statistical evidence derived from controlled safe versus abliterated contrasts. The authors validate the framework on a Norwegian safety pack and demonstrate its utility in real procurement decisions.
 
+## Semantic links
+- [[concepts/papers/2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNe_summary.md|Summary: 2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticle_summary.md|Summary: 2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticlesfromNa.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapa_summary.md|Summary: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - Formalization of benchmarkless comparative safety scoring, specifying a contract that ties scores to a fixed scenario pack, rubric, auditor, judge, sampling configuration, and rerun budget.  
 - An instrumental‑validity chain (AUROC 0.89–1.00, target variance dominates with η²≈0.52, stability across ten reruns) implemented in SimpleAudit to generate scores without ground‑truth labels.  

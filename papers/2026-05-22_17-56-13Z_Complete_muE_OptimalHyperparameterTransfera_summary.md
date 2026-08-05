@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces **Complete‑muE**, a framework that enables optimal hyperparameter transfer across dense FFN and any Mixture‑of‑Experts (MoE) transformer blocks, overcoming the limitations of existing tools such as μP (which requires fixed architecture) and SDE (which assumes a fixed token count per expert). Complete‑muE uses two bridges—Bridge I for dense‑to‑Dense MoE mapping with a normalized router scale, and Bridge II for Dense‑to‑Sparse MoE mapping that cancels the first‑order SDE correction while preserving a bounded residual shift. The resulting transfer rule, termed **Complete muE**, accommodates changes in activated experts, total capacity, granularity, shared/group‑balanced hybrids, as well as network width/depth, batch size, and duration. This allows tuning once on a dense reference model and applying it to all MoE configurations.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmark_summary.md|Summary: 2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDist_summary.md|Summary: 2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A unified two‑bridge system (Bridge I and Bridge II) that simultaneously handles dense‑to‑MoE and Dense‑to‑sparse MoE transitions.  
 - [Finding 2] The Complete‑muE transfer rule provides stable hyperparameter optima across diverse MoE architectures, including varying numbers of experts, shared/expert groups, and total capacity changes.  

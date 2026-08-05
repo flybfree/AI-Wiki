@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces a decision‑focused learning framework that couples an LSTM photovoltaic energy forecaster with the downstream optimal operation of a residential PV‑battery system. By training the forecaster on the actual scheduling decisions produced by the optimizer rather than on generic prediction targets, the method aligns forecasting accuracy with cost‑saving objectives. Experiments over 14 months across twenty homes show that this alignment yields tangible financial benefits despite a higher root mean squared error (RMSE) compared to a decoupled forecast model.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - **Decision‑focused framework**: An LSTM forecaster is jointly trained on PV data and the optimal battery scheduling output, ensuring the prediction error is measured against downstream cost goals.  
 - **Cost reduction**: The approach achieved an average 3.6 % decrease in electricity costs across twenty residential buildings over a 14‑month period, with statistical significance at the 0.001 level (p < 0.001).  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Athena‑Brain‑8B, an 8 billion‑parameter language model designed to act as a compact on‑device “brain” that retains strong general intelligence while enabling high‑level embodied interaction. It achieves this by integrating the model through a multi‑stage post‑training pipeline of General Supervised Fine‑Tuning, General Reinforcement Learning, Embodied Expert training, and Model Merge, which produces concise responses suitable for efficient robot cognition. Experiments show Athena matches Qwen3‑8B on general language and reasoning benchmarks yet outperforms several larger frontier models in zero‑shot embodied tasks.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Athena‑Brain‑8B integrates strong general LLM capabilities with embodied interaction within a single compact model.  
 - [Finding 2] The multi‑stage post‑training pipeline enables the model to acquire both high‑level reasoning and domain‑specific embodied skills efficiently.  

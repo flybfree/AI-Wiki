@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper introduces the Integrable Context-Dependent Demand Network (ICDN), a novel neural architecture designed to model multiproduct retail demand with a strict focus on economic consistency. By learning log-demand as a smooth, context-conditioned function of log-prices, the model ensures that derived elasticities are mathematically exact and economically plausible. This approach addresses the common issue in neural demand modeling where estimated price sensitivities often violate fundamental economic laws due to lack of structural constraints. The authors demonstrate that ICDN significantly outperforms traditional directed log-log benchmarks in terms of out-of-sample generalization and stability, particularly for complex cross-price effects that are typically weakly identified in standard datasets.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetwork_summary.md|Summary: 2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions
 - The development of the Integrable Context-Dependent Demand Network (ICDN), which integrates neural network flexibility with the mathematical constraints of integrability to ensure consistent elasticity estimation.
 - Empirical evidence showing superior out-of-sample generalization capabilities of ICDN compared to standard log-log regression models on the Dominick's beer dataset.

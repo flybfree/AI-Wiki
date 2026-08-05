@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a large‑language model (LLM)–driven framework that automatically corrects and enriches unstructured wind‑turbine maintenance logs, turning free‑text failure descriptions into structured reliability data. By applying the model to 16 316 logs from 280 turbines over nine years, it standardises hierarchical system codes and extracts empirical taxonomies of actions and failure modes, achieving a 70 % correction rate. This work bridges the gap between qualitative field observations and quantitative reliability engineering, offering a scalable blueprint for root‑cause analysis in renewable energy.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsI_summary.md|Summary: 2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsInvarian.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - **Automated log structuring**: The LLM pipeline corrects misclassifications (e.g., pitch system faults) and restores missing system codes across the dataset.  
 - **Empirical taxonomy generation**: System‑based batch processing creates domain‑specific dictionaries of failure modes, observable symptoms, dominant mechanisms, and candidate causes.  

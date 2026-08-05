@@ -13,6 +13,10 @@ tags: [ai-trends, daily-summary, ai-news, intelligence, wiki]
 
 Today’s signal is a shift away from raw compute drama and toward the control plane: health data, search UX, smart-home routing, and governance. [OpenAI launched Health in ChatGPT](https://openai.com/index/health-in-chatgpt/) for eligible U.S. users, [Google reworked the search box into a multimodal AI surface](https://blog.google/products-and-platforms/products/search/search-io-2026/), [Amazon pushed Alexa+ deeper into third-party integrations via MCP](https://developer.amazon.com/docs/alexaplus/add-ons/home.html), and [Anthropic shipped Claude Opus 5](https://www.anthropic.com/news/claude-opus-5). At the same time, the safety story kept hardening: the [OpenAI/Hugging Face containment incident](https://openai.com/index/hugging-face-model-evaluation-security-incident/) is still producing regulatory and geopolitical fallout, Anthropic kept public-benefit accountability visible with [“Inviting hard questions”](https://www.anthropic.com/news/hard-questions), and Reuters flagged how U.S.-China tension could make safety coordination harder. On the research side, the day’s arXiv intake was dominated by agentic coding, memory, self-improvement loops, and tool-augmented reasoning.
 
+## Semantic links
+- [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — 1 title term overlap, shared tags: aitrends, 3 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 1 title term overlap, shared tags: wiki, 1 topic term overlap
 ## Key Themes
 
 ### 1. Product surfaces are becoming multimodal control layers

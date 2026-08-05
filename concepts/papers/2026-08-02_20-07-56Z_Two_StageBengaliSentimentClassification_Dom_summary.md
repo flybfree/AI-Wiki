@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **SentiBanglaBERT**, a two‑stage Bengali sentiment classification system that merges domain‑adaptive continual pretraining with parameter‑efficient fine‑tuning via Low‑Rank Adaptation (LoRA). Its goal is to adapt the model to news‑style data while keeping computational costs low and preserving interpretability. The framework leverages SHAP to provide linguistic insights into how Bengali morphological cues—such as negation suffixes and aspectual markers—influence sentiment predictions. Experiments show that SentiBanglaBERT achieves stable performance comparable to strong baselines, highlighting the synergy between continual learning and efficiency.
 
+## Semantic links
+- [[concepts/papers/2026-07-26_20-42-56Z_Latent_LoRA_CompactLatent_SpaceAdapterswith_summary.md|Summary: 2026-07-26_20-42-56Z_Latent_LoRA_CompactLatent_SpaceAdapterswithGradien.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.09
+- [[concepts/papers/2026-07-25_13-21-56Z_Domain_Prior_RegularizedGraphModelingforAno_summary.md|Summary: 2026-07-25_13-21-56Z_Domain_Prior_RegularizedGraphModelingforAnomalyDet.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-07-31_21-16-20Z_WM_Cov_TestAdequacyforInteractiveWorld_Mode_summary.md|Summary: 2026-07-31_21-16-20Z_WM_Cov_TestAdequacyforInteractiveWorld_Model_Style.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.05
+
 ## Key Contributions  
 - [Finding 1] A two‑stage continual‑learning pipeline that adapts a BERT architecture to Bengali news data without retraining from scratch.  
 - [Finding 2] Implementation of LoRA for parameter‑efficient fine‑tuning, dramatically reducing the number of trainable weights while retaining accuracy.  

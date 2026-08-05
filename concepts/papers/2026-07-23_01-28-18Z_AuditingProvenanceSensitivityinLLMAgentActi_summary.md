@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how large language models (LLMs) select actions when their context contains a mixture of user requests, tool outputs, retrieved records, memory, and untrusted text. It proposes a target‑specific authorization audit that isolates each tool and argument to a particular source authority, allowing researchers to measure the impact of provenance on decision making. By systematically weakening valid evidence while keeping the task, proposition, position, and policy constant, the authors demonstrate that LLM agents still respond to textual cues about source authority yet remain susceptible to untrusted information in a small but statistically significant fraction of cases.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors introduce a target‑specific authorization audit framework that labels context factors separately for each tool and argument, enabling fine‑grained analysis of provenance influence.  
 - [Finding 2] They show that when valid evidence is weakened, authorized competition between trusted and untrusted sources appears in 5.4 % of competing cases versus only 1.7 % of supporting cases, indicating a measurable bias toward untrusted input.  

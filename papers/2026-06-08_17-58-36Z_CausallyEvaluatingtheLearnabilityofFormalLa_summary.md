@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a causal evaluation framework for formal language tasks that uses probabilistic finite automata to generate controlled corpora and measures learnability through algebraic and statistical tools. By introducing the binning semiring and a causal graphical model, it derives decomposed Kullback‑Leibler divergence metrics that isolate the effect of data frequency on task performance. The authors demonstrate that standard correlational analyses are prone to confounding, leading to incorrect conclusions about how much data is needed for learning. This work establishes a rigorous testbed for assessing learnability in natural language settings.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesoc_summary.md|Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedby_summary.md|Summary: 2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedbyAgentic.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Introduces the **binning semiring**, an algebraic structure that lets researchers control the exact frequency of specific properties within sampled corpora.  
 - Formulates the experimental pipeline as a **causal graphical model** and derives **decomposed Kullback‑Leibler divergence metrics** to quantify sub‑task learnability under interventions.  

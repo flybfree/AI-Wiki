@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper aims to characterize the types of internal documentation inconsistencies that a general‑domain large language model (LLM) can detect in real‑world discharge summaries and to identify recurring failure modes that hinder reliable scaling. By applying a two‑stage LLM pipeline—open‑ended candidate identification followed by context‑grounded verification—the authors demonstrate that the system surfaces thousands of flagged inconsistencies across multiple clinical domains, establishing a methodological foundation for large‑scale EHR analysis.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 5 title terms overlap; 29 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 11 backlinks; 14 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - The study quantifies how many admissions contain documentation inconsistencies (69.7% of 3,000 sampled cases).  
 - It identifies recurring failure modes such as temporal reasoning and outpatient‑prescribing conventions that the model cannot resolve without explicit context.  

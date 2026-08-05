@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces CHARM, a multimodal Joint Embedding Predictive Architecture (JEPA) that fuses channel‑level textual descriptions into a transformer encoder to generate semantic embeddings for heterogeneous multivariate time series. By training the model with a loss that predicts latent states and encouraging temporally stable representations, CHARM learns interpretable, robust representations that can be evaluated with only linear probes. The approach demonstrates strong performance across anomaly detection, classification, and short‑ and long‑term forecasting tasks. Its contribution lies in providing a unified framework where text acts as channel identifiers for cross‑dataset generalization.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
+
 ## Key Contributions  
 - CHARM provides channel‑aware representation learning that incorporates textual descriptions into transformer encoders.  
 - The Joint Embedding Predictive Architecture (JEPA) loss creates temporally stable embeddings that are robust to sensor noise and encourage informative latent states.  

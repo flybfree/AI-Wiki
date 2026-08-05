@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces SchGen, a large language model that creates editable PCB schematics from natural‑language prompts. It tackles the challenge of representing schematic editing primitives in an LLM‑friendly format and building a large dataset. By grounding code representations to pin names and relative placement, the authors transform geometry‑heavy design into semantic matching. Experiments demonstrate superior wire connectivity and functional correctness compared with prior methods.  
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnno_summary.md|Summary: 2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - The authors propose a semantically grounded code representation that encodes PCB editing primitives using relative placement and pin‑name based wiring, converting the problem to a semantics‑driven matching task. (Finding 1)  
 - They construct a large‑scale dataset of schematics paired with user prompts via a human‑agent pipeline that converts open‑source designs into this representation. (Finding 2)  

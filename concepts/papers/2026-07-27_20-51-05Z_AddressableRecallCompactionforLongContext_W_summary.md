@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the problem that long‑horizon LLM agents may exceed their fixed context window, causing loss of critical reasoning traces. To preserve task‑critical information without discarding it, the authors introduce ARC (Addressable Recall Compaction), a framework that stores tool observations in an append‑only log and replaces older entries with compact, addressable citations. The agent can later retrieve any stored observation by its identifier rather than relying on similarity‑based search or re‑executing tools. Experiments show that ARC markedly improves exact‑answer accuracy and reduces serving overhead compared to existing context‑management baselines.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] ARC separates archival storage from active‑context presentation, enabling explicit recall of any observation via a unique identifier.  
 - [Finding 2] The framework replaces older observations with compact citations that reference the original log entry, preserving all relevant details without duplication.  

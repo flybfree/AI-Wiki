@@ -19,6 +19,11 @@ tags: [CAPTCHA, agent-evaluation, multimodal-agents, human-substitution, GUI-age
 
 This paper introduces **Humanity's Last Line of Verification (HLL)**, a controlled benchmark that uses interactive CAPTCHA verification to evaluate whether multimodal agents can truly substitute for humans in workflows that services deliberately protect against automation.
 
+## Semantic links
+- [[concepts/2026-06-02_HLL_Benchmark.md|HLL Benchmark]] — 2 title terms overlap; shared tags: agentevaluation, benchmark, captcha; 2 backlinks
+- [[concepts/software-development/software-development-hub.md|AI for Software Development Hub]] — 1 title term overlap; 363 backlinks; 3 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 2 title terms overlap; 5 backlinks; 2 summary/topic terms overlap
+
 ## Key Points
 
 - **CAPTCHA as a human-verification boundary**: CAPTCHAs are not merely visual puzzles — they represent a deliberate barrier placed before account creation, content access, form submission, and other protected actions.

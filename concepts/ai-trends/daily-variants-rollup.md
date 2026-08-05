@@ -13,6 +13,11 @@ tags: [ai-trends, daily-variants, wiki-maintenance]
 
 Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the family-level view: one row per source, the latest raw page, the latest summary page, and a short maintenance note. When a new day lands, update the row instead of creating a new concept page.
 
+## Semantic links
+- [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — shared tags: aitrends, 10 topic terms overlap, same area: home
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/training-optimization/training-optimization-hub.md|Training and Optimization Hub]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Maintenance Rules
 
 - Keep the day-specific raw pages and summaries as the archive.

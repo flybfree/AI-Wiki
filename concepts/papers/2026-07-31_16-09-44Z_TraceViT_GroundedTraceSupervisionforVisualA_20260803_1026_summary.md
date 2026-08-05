@@ -8,6 +8,11 @@ Model: None
 ## Summary
 The Abstraction and Reasoning Corpus (ARC) presents a significant challenge for artificial intelligence by requiring models to infer unseen transformations from minimal input-output examples and apply them to new contexts. While looped visual reasoners have shown promise by refining predictions over multiple iterations, conventional training methods often fail to guide the intermediate steps of this process, focusing solely on the final output. To address this limitation, the authors introduce TraceViT, a novel looped visual reasoner that employs semantically monotonic transformation chains as supervision signals during training. This approach ensures that each iterative refinement follows a logical, step-by-step progression toward the solution, grounded by task references and object workspaces derived from few-shot demonstrations.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of TraceViT, a new looped visual reasoning architecture that utilizes semantically monotonic transformation chains to supervise intermediate prediction steps rather than just final outputs.
 - A novel method for generating these supervision traces by rewriting and verifying programmatic task implementations, thereby decomposing complex solutions into verifiable intermediate grid states.

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper presents the MMLU Localisation Project, a collaboration between the European Directorate‑General for Translation (DGT) and the European Master’s in Translation (EMT) network that expands the Multi‑Task Multilingual Understanding (MMLU) benchmark into 11 European languages. By localising the dataset, the authors create an inclusive evaluation resource that reflects regional linguistic diversity while also providing master’s students with authentic, project‑based training in translation, revision, and multilingual coordination. The work simultaneously addresses methodological, administrative, and workflow challenges inherent to large‑scale cross‑lingual projects. Its contribution is both a concrete dataset for LLM benchmarking and an educational framework that integrates professional skills into research.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A fully localised MMLU corpus in 11 European languages, enabling fair multilingual evaluation across the continent.  
 - [Finding 2] An integrated training pipeline that combines translation, revision, project management, and coordination tasks for EMT students.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a cuffless blood pressure (BP) estimation method that extracts diagnostic information from a single PPG beat rather than relying on multi‑second windows, thereby enabling real‑time monitoring without inflating a cuff. It introduces a lightweight hybrid learning framework in which a one‑dimensional convolutional neural network creates a 64‑dimensional embedding of each ear‑clip reflectance PPG beat and fuses it with 30 physiology‑grounded features before applying LightGBM regression for BP prediction. The approach demonstrates that beat‑wise processing can maintain low mean absolute errors (MAE) while reducing computational load, making it suitable for wearable deployment under practical resource constraints.
 
+## Semantic links
+- [[concepts/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforRe_summary.md|Summary: 2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] — 4 title terms overlap; 6 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - Single‑beat BP estimation using synchronized ear‑PPG and chest ECG with a 6‑axis inertial measurement unit.  
 - A hybrid learning architecture that fuses a CNN‑derived embedding of individual PPG beats with 30 feature vectors (including PTT statistics and heart‑rate variability) via LightGBM regression.  

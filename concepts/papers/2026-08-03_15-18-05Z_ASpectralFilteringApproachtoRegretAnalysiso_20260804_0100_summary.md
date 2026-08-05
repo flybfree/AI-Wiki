@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the distributed online control problem for a network of linear time‑invariant (LTI) systems that suffer from adversarial disturbances and incur time‑varying convex costs. Each agent can only observe its local state, receives sequential cost information, and communicates with neighbors to generate a control sequence that competes with the best centralized linear policy in hindsight. The authors extend the recent Online Spectral Control framework to this distributed setting by employing spectral controllers derived from Hankel matrices. They formulate the problem as a regret minimization task and prove a sublinear bound of \(O(\frac{\sqrt{T}\,\text{poly}(\log T)}{\gamma^3})\).  
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardw_summary.md|Summary: 2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardwareTroj.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.03
+
 ## Key Contributions  
 - [Finding 1] The extension of Online Spectral Control to a distributed architecture, where each agent constructs a local spectral controller using the leading eigenvectors of a Hankel matrix built from past disturbances.  
 - [Finding 2] A theoretical regret analysis that yields a sublinear bound \(O(\frac{\sqrt{T}\,\text{poly}(\log T)}{\gamma^3})\), capturing dependence on horizon, logarithmic factor, stability margin, and network size/connectivity.  

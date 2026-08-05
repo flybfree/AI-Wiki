@@ -16,6 +16,11 @@ Model: None
 ## Summary
 FactorizedHMR addresses the fundamental ambiguity inherent in Human Mesh Recovery (HMR), particularly in scenarios involving occlusion or weak depth cues where multiple 3D body configurations can explain the same visual evidence. The authors propose a novel two-stage hybrid framework that leverages the observation that ambiguity is not uniform across the human body; specifically, the torso and root structure are often well-constrained, while distal articulations like arms and legs are highly uncertain. To resolve this, the framework first employs a deterministic regression module to establish a stable torso-root anchor, followed by a probabilistic flow-matching module that completes the remaining non-torso articulations. This approach effectively decouples the recovery process, allowing for more reliable handling of ambiguous regions while maintaining structural integrity.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_Mo_summary.md|Summary: 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsfo_summary.md|Summary: 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of a factorized recovery strategy that separates the deterministic estimation of stable torso-root anchors from the probabilistic completion of ambiguous distal articulations, addressing the non-uniform nature of 3D ambiguity.
 - The development of a composite target representation combined with geometry-aware supervision and feature-aware classifier-free guidance, which ensures that the stable anchor is preserved while improving the recovery of ambiguous limbs.

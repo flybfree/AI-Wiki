@@ -8,6 +8,11 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 SpaceX has spent $329 million on Tesla Megapack batteries this year—$295 million in the second quarter alone—and earlier purchases by its AI subsidiary xAI for data‑center power. The article also notes that SpaceX bought $131 million worth of Cybertrucks, underscoring Elon Musk’s cross‑company ecosystem.  
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+
 ## Key Takeaways  
 - SpaceX’s Megapack spend illustrates a deep integration between SpaceX, Tesla, and xAI, turning energy storage into a strategic asset for both aerospace and AI operations.  
 - The batteries are critical for smoothing the intermittent power demand of AI data centers that rely heavily on natural‑gas turbines, providing instant backup and peak‑shaving capability.  

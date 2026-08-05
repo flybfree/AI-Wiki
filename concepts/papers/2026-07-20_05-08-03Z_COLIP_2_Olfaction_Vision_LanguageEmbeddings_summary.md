@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The COLIP-2 paper introduces a multimodal embedding model that integrates olfaction, vision, and language into a shared representation space, enabling robots to probabilistically localize odors to objects in scenes. It addresses the scarcity of paired image‑scent datasets for robotics by training molecular structures, gas sensor readings, odor descriptors, and images jointly. The authors propose an architecture optimized for edge deployment, allowing real‑time inference on robotic hardware.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Integration of olfactory data (molecular structure, gas sensor readings) into a unified embedding space with vision and language.  
 - Demonstration that such integration can support probabilistic localization of odors to scene objects without external datasets.  

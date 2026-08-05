@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces MeCo, a one‑step generative corrector that improves multi‑channel speech separation by aligning discriminative estimates with the clean signal manifold using a MeanFlow model. It combines a data‑space optimization loss to prioritize human listening quality with an endpoint SI‑SDR loss for terminal fidelity. The approach achieves state‑of‑the‑art performance across in‑domain and out‑of‑domain tasks while requiring only a single forward pass, reducing computational overhead. This work bridges the gap between metric‑based separation and perceptually relevant quality.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] MeCo learns a conditional average velocity field that maps discriminative outputs directly onto clean speech using MeanFlow.  
 - [Finding 2] Data‑Space Optimization (DSO) integrates an xᵣ‑loss to penalize errors on longer displacement intervals, enhancing human listening quality.  

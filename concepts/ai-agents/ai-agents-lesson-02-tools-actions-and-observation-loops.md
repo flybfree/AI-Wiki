@@ -9,6 +9,11 @@ tags: [lesson, agents, tools]
 
 **Source**: [OpenAI Agents SDK](https://developers.openai.com/api/docs/guides/agents) · [OpenAI Building agents](https://developers.openai.com/tracks/building-agents) · [LangGraph agents docs](https://docs.langchain.com/oss/python/langchain/agents)
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-05-guardrails-evaluation-and-reliability.md|AI Agents Lesson 6 - Guardrails, Evaluation, and Reliability]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+
 ## Lesson goal
 Understand why tools turn a language model into something that can do work.
 

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 TREK (Travel Reasoning and Evaluation Kit) is a benchmark designed to test the ability of large language model agents to synthesize single, executable travel itineraries that satisfy multiple hard constraints simultaneously—such as flight availability, hotel booking, spatial‑temporal feasibility, budget limits, and implicit traveler preferences. By providing 800 multi‑constraint tasks with provably infeasible cases and a deterministic rule‑based evaluator, TREK establishes a reproducible, auditable standard that moves beyond soft LLM rubrics to certify truly feasible plans. The work demonstrates that even the most advanced models struggle to meet these joint constraints, especially when addressing unstated traveler needs.
 
+## Semantic links
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]] — 2 title terms overlap; 506 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_15-55-29Z_Test_TimeScalingviaErrorLocalization_summary.md|Summary: 2026-07-23_15-55-29Z_Test_TimeScalingviaErrorLocalization.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.05
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] TREK introduces a fully deterministic, rule‑based evaluation system and a gold‑standard dataset of 800 tasks (533 feasible, 267 infeasible) that can certify whether an itinerary is executable.  
 - [Finding 2] Empirical testing shows that the best‑performing model (GPT‑5.6) generates a fully feasible plan on only 46.2 % of solvable tasks, with a median of 6.6 % and a floor of 0 %.  

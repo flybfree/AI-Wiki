@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 ShadowDancer introduces a novel approach for teaching any‑action, frame‑level control of interactive video world models by learning unified dynamics representations from a video together with its shadow. It addresses the representational problem where existing interfaces either encode actions loosely or require exact, hard‑to‑acquire signals. By constructing shadow pairs and learning cross‑shadow prediction, the method enables precise action control across diverse dynamics without fine‑tuning. The approach makes demonstration videos reusable assets for new scenes.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequa_20260803_0021_summary.md|Summary: 2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequationsfr.md]] — 4 title terms overlap; 4 summary/topic terms overlap; semantic match 0.12
+- [[concepts/papers/2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequa_summary.md|Summary: 2026-07-31_05-21-43Z_Dynamics_awareidentificationofgoverningequationsfr.md]] — 4 title terms overlap; 4 summary/topic terms overlap; semantic match 0.12
+
 ## Key Contributions  
 - Shadow pairs: video pairs that replay the same dynamics under independently resampled appearance, built at scale in a library so that a dynamics family becomes controllable exactly when such pairs can be constructed for it.  
 - Cross‑shadow prediction: learns actions by predicting one shadow from the other, discarding arbitrary pairing resampling and preserving only the action, yielding a unified dynamics representation that drives a block‑causal world model.  

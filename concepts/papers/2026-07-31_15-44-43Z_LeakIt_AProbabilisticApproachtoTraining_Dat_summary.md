@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a probabilistic framework for detecting training‑data leakage in black‑box language models by treating the model’s output distribution \(p(.|x)\) as an estimate of the data used during training and casting leakage signals into functionals of that distribution. It extends the conventional blind‑baseline critique to the sampling regime, showing that surface‑level classifiers already achieve high AUC but fail to capture per‑document disclosure. The authors introduce “LeakIt,” a tool that isolates exact identifier reproductions from individual documents rather than relying on aggregate ROC‑AUC scores. Their work demonstrates that leakage risk grows with model capacity and is unevenly distributed across code versus prose, making aggregate metrics misleading.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Blind bag‑of‑words classifiers on WikiMIA reach an AUC of 0.97 (TPR = 0.90 at 5% FPR), indicating that surface text alone can already expose training data, so sampling does not add detectable information.  
 - **Finding 2:** Per‑document extraction is invisible to aggregate ROC‑AUC; on Pythia‑6.9B, 83 of 500 documents containing identifiers are reproduced verbatim, with a mismatched‑prefix control confirming that each leak originates from a single document.  

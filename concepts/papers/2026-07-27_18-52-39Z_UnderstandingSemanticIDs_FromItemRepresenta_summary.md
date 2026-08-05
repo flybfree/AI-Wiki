@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Semantic IDs (SIDs) are a core mechanism in modern generative recommender systems that encode items as token sequences and use them to narrow the candidate set during recommendation. This paper investigates how SID construction alters item representations and why those changes hurt downstream generation, then proposes an inference‑time fix called Item‑Supported Decoding (ISD). The study shows that while SIDs still organize items broadly, they lose fine local structure and exact token alignment, leading to poor recall in both neighborhood recovery and final recommendation.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_15-29-39Z_Semantic_AwareTaskClusteringforConstructive_summary.md|Summary: 2026-07-23_15-29-39Z_Semantic_AwareTaskClusteringforConstructiveandCoop.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-07-28_12-12-39Z_AHuman_in_the_LoopCorpusforLLM_BasedSimplif_summary.md|Summary: 2026-07-28_12-12-39Z_AHuman_in_the_LoopCorpusforLLM_BasedSimplification.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-28_04-26-26Z_FunnelAL_Retrieve_then_RankActiveLearningfo_summary.md|Summary: 2026-07-28_04-26-26Z_FunnelAL_Retrieve_then_RankActiveLearningforSingle.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.13
+
 ## Key Contributions  
 - Finding 1: Across three Amazon domains and eight SID constructions, the SID neighborhoods recover only **32.2 %** of the encoder’s ten nearest neighbors on average, indicating a substantial loss of fine‑grained item structure.  
 - Finding 2: Alternative item descriptions retrieve the corresponding original item first in **99.57 %** of controlled cases but change **38.4 %** of exact SIDs, revealing that SID tokens are not fully determined by semantic meaning alone.  

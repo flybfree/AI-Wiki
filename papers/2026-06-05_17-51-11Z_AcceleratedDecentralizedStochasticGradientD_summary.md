@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of achieving both accelerated convergence and low communication cost in decentralized stochastic gradient descent (DSGD) for strongly convex optimization problems. By integrating Nesterov‑type primal‑dual extrapolation with multi‑round fast gossip averaging, the authors propose Multi‑Gossip Accelerated DSGD (MG‑ADSGD), which simultaneously reduces variance and improves consensus accuracy across communication rounds. Their analysis demonstrates that MG‑ADSGD attains a communication complexity of \(\widetilde{\mathcal O}\!\left( \frac{σ^2}{μnε}\log\frac{1}ε + \sqrt{\fracκ{1-β}}\log\frac{1}ε \right)\), which is the best known up to logarithmic factors independent of the target accuracy ε.  
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] MG‑ADSGD combines Nesterov extrapolation with multi‑round gossip averaging, achieving both accelerated \(\sqrtκ\) and \(1/\sqrt{1-β}\) dependences in a stochastic setting.  
 - [Finding 2] The algorithm’s communication complexity is bounded by \(\widetilde{\mathcal O}\!\left( \frac{σ^2}{μnε}\log\frac{1}ε + \sqrt{\fracκ{1-β}}\log\frac{1}ε \right)\), which improves upon existing deterministic and stochastic methods.  

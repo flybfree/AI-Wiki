@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper addresses a critical vulnerability in Heterogeneous Differential Privacy (HDP) Federated Learning, where server‑side aggregation based on declared privacy budgets ($\varepsilon_i$) inadvertently preserves structural information that can be exploited by an honest‑but‑curious server. By demonstrating that gradient denoising and surrogate modeling enable a privacy inference attack—linking updates from the same client across rounds—the authors propose **IntraShuffler**, a middleware defense that shuffles clients into privacy‑compatible buckets while preserving $\varepsilon$-aware aggregation. IntraShuffler disrupts persistent gradient patterns, thereby reducing both recoverability and inference accuracy without harming model utility.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearningan_summary.md|Summary: 2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A server can perform a Privacy Inference Attack on HDP‑FL by exploiting gradient structure, measurable via surrogate inference accuracy and linkage success.  
 - [Finding 2] Existing Shuffle‑Model defenses are incompatible with $\varepsilon$-aware aggregation in HDP‑FL, creating a gap that the authors fill.  

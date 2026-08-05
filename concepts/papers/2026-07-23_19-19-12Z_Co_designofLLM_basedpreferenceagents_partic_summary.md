@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how co‑designing large language model (LLM) preference agents with the people they are meant to represent can create an “overtrust” effect, where participants feel that their agents accurately reflect them while systematic misalignment remains hidden. By examining a small qualitative study of 12 household‑energy users who built personal preference agents through surveys and interviews, the authors show that participant trust is high but independent validation reveals homogeneous, abstract agent outputs that diverge from human diversity. The contribution is to frame alignment as an enacted process rather than a static state and to warn that participatory design may mask structural problems at scale.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.03
+
 ## Key Contributions  
 - **Finding 1:** Participant‑driven co‑design fosters high trust but does not guarantee accurate representation of individual preferences.  
 - **Finding 2:** Independent validation uncovers homogeneous, decisive, and abstract agent responses that differ markedly from the heterogeneous human sample.  

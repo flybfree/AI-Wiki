@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes DP‑IVON‑Gradsq, a differentially private variant of the Improved Variational Online Newton (IVON) optimizer that integrates Bayesian deep learning with formal differential privacy. By constructing a curvature estimate from a noise‑corrected squared‑gradient estimator, the method mitigates the adverse interaction between posterior‑sampling stochasticity and privacy‑induced noise while retaining the computational efficiency of an Adam‑like algorithm. The authors evaluate DP‑IVON‑Gradsq on CIFAR‑10 against standard private optimizers (DP‑SGD and DP‑Adam) across a spectrum of privacy budgets, demonstrating competitive utility under weak‑to‑moderate privacy constraints but noticeable degradation when privacy is strong. This work bridges two challenging research fronts—privacy guarantees for neural‑network training and uncertainty‑aware Bayesian inference—to deliver a practical, high‑performance optimizer.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduces DP‑IVON‑Gradsq, a private version of IVON that uses a noise‑corrected squared‑gradient estimator to estimate curvature from the privatized gradient.  
 - [Finding 2] Shows that the privacy‑noise and posterior‑sampling noise can be decoupled, preserving the optimizer’s efficiency without sacrificing utility.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of converting raster‑format 2D CAD drawings—commonly scanned and unstructured—into precise parametric CAD code that can be used for part reproduction and manufacturing automation. To achieve this, Drawing‑Recode explicitly links dimensional annotations to their corresponding geometric features by grounding them through a cross‑attention mechanism and an Annotation Grounding Loss (AGL). The resulting aligned data are then fed into a large language model to generate Structured Parametric CAD Code (SPCC) output.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptation_summary.md|Summary: 2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptationforEvol.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-07-31_18-52-27Z_APhysics_Chemistry_InformedNeuralNetwork_PC_summary.md|Summary: 2026-07-31_18-52-27Z_APhysics_Chemistry_InformedNeuralNetwork_PCINN_for.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.02
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - **Drawing‑Recode framework**: A unified pipeline that extracts geometry from raster images, recognizes dimensional annotations via OCR, and grounds each annotation token to its geometric counterpart using cross‑attention.  
 - **Annotation Grounding Loss (AGL)**: A novel loss function that penalizes mis‑alignments between annotated text and the extracted geometry, forcing the model to produce accurate groundings.  

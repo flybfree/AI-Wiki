@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether general‑purpose language models can generate 3D molecules while respecting a suite of complex spatial constraints typical in structure‑based drug design. It introduces the **3D‑Fit** benchmark—a token‑efficient framework that encodes protein pockets, anchor fragments, pharmacophore points, and mandatory interactions into a single input representation for LLM evaluation. The study compares these LLMs against state‑of‑the‑art diffusion models to reveal how well they navigate multi‑conditioned 3D environments. Overall, the work demonstrates both the promise and the current limitations of LLMs in spatial molecular generation.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 5 title terms overlap; 1 backlink; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_11-47-54Z_LLM_OSDA_AnOptimal_StoppingDynamicAuctionfo_summary.md|Summary: 2026-07-31_11-47-54Z_LLM_OSDA_AnOptimal_StoppingDynamicAuctionforNative.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.07
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] LLM performance on 3D ligand generation is lower than that of state‑of‑the‑art diffusion models.  
 - [Finding 2] LLMs can simultaneously satisfy multiple spatial constraints, including anchor fragments and pharmacophore points.  

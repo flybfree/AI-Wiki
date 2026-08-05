@@ -57,3 +57,8 @@ Metis — Memory Foundation Model — is a novel large‑scale language mode
 ---
 
 *These sections complete the “Summary”, “Key Contributions”, and “Results” parts of the Metis: Memory Foundation Model paper.*
+
+## Semantic links
+- [[concepts/papers/2026-08-04_09-31-44Z_LLM_DerivedPriorsforThompsonSamplinginCold__20260804_2240_summary.md|Summary: 2026-08-04_09-31-44Z_LLM_DerivedPriorsforThompsonSamplinginCold_StartCo.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_07-46-44Z_DoTime_ASyntheticBenchmarkGeneratorforInter_summary.md|Summary: 2026-07-29_07-46-44Z_DoTime_ASyntheticBenchmarkGeneratorforIntervention.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.26
+- [[concepts/papers/2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_Act_20260803_0538_summary.md|Summary: 2026-07-31_16-48-45Z_WCM_AWorldCriticModelforVision_Language_ActionRein.md]] — 2 title terms overlap; 4 backlinks; 6 summary/topic terms overlap

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a hybrid LLM‑Enabled Agent Based Network‑Dynamic (LAND) model called GhostField to simulate social dynamics in the AuraSight scenario, where many cyber agents interact over a fictional songwriting contest. It aims to capture collective influence and narrative dominance through four analytical layers: ego‑network topology, semantic network evolution, coordination dynamics, and influence dynamics. The study demonstrates that emergent social dynamics arise from recursive interaction between network structure and discourse exchange rather than individual agent behavior.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: The LAND model successfully integrates large‑scale LLM‑generated agents with network dynamics to produce realistic social simulations.  
 - Finding 2: Coordinated behaviors emerge as a collective outcome of narrative exchanges, not pre‑programmed by agents.  

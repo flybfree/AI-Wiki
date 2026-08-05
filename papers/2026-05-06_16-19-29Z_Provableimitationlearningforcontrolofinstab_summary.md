@@ -16,6 +16,11 @@ Model: None
 ## Summary  
 This paper addresses the challenge of stabilizing Vlasov–Poisson plasma dynamics using only partially observed macroscopic diagnostics, a common limitation in nuclear fusion experiments where full phase-space state information is unavailable. The authors develop provable imitation learning methods that distill an expert policy—based on complete phase-space observations—into controllers that operate solely on sparse, real-time measurements. Their approach ensures stability by bounding the error floor through the minimal behavior cloning loss achievable under observation constraints. By quantifying this loss via a complexity-aware entropy measure tied to the initial distribution’s structure, they establish theoretical guarantees for learning robust stabilizing feedback policies.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] The authors prove that imitation learning can stabilize Vlasov–Poisson systems when the learned policy incurs a behavior cloning loss bounded by an entropy-dependent term derived from the complexity of the initial state distribution.  
 - [Finding 2] They introduce a novel entropy-based measure that quantifies how much information is lost due to partial observations, directly linking this loss to the stability margin of the control system.  

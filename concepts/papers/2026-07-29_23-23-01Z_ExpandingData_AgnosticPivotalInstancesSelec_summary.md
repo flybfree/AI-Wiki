@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a hierarchical, interpretable‑by‑design model that selects pivotal instances to construct predictive models by comparing new cases with a few representative examples, echoing human decision‑making processes. By leveraging similarity between pivots and input data, the approach functions both as a pivot‑selection technique and as a standalone classifier. The method is extended to handle pairs of pivots used in proximity and oblique trees and incorporates ensemble learning for greater versatility. Crucially, it is data modality‑agnostic, using pre‑trained networks to transform heterogeneous inputs into a common space.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A hierarchical pivot‑selection framework that builds interpretable predictive models with a minimal number of pivots by measuring similarity between pivots and incoming instances.  
 - [Finding 2] Extension to pairs of pivots, enabling proximity and oblique trees, which capture more complex decision boundaries while preserving interpretability.  

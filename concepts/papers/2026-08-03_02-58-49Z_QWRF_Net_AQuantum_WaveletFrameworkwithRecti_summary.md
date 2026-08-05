@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses short-term precipitation nowcasting for severe weather warnings, proposing QWRF-Net as a quantum‑wavelet framework that improves the representation of multi‑scale radar data and generates stable future sequences. It combines wavelet‑based scale disentanglement with differentiated quantum‑inspired modulation and rectified‑flow decoding to preserve intense precipitation cores across lead times.  
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors demonstrate that explicit wavelet decomposition enables better capture of the spatial‑temporal structure of convective rainfall, especially at high precipitation thresholds.  
 - [Finding 2] Differentiated quantum‑inspired modulation in the latent sub‑band space provides a non‑linear transformation that enhances conditional representation without overfitting to short lead times.  

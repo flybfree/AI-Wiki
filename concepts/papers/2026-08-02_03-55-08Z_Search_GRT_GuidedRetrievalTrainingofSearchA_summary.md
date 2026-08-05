@@ -8,6 +8,11 @@ Model: None
 ## Summary
 [This paper addresses the challenge of improving large language model search agents for complex, multi‑hop question answering by introducing Guided Retrieval Training (GRT). GRT mitigates sparse rewards in reinforcement learning by restricting retrieval to a curated set of ground‑truth documents. The goal is to enhance subquery generation and answer synthesis accuracy while reducing training steps. The proposed method thus tackles both accuracy and efficiency bottlenecks in LLM search.]
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions
 - [Finding 1] Guided Retrieval Training (GRT) provides a strong, non‑sparse learning signal by limiting the search agent’s retrieval space to a curated set of relevant documents during RL training.  
 - [Finding 2] GRT consistently outperforms existing methods such as Search‑R1 across diverse QA tasks, especially in multi‑hop questions.  

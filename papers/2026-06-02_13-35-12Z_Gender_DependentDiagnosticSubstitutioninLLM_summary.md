@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates whether large language models (LLMs) produce gender‑dependent diagnostic substitution in medical triage, showing that identical neurological symptoms generate different urgency recommendations when only the patient’s stated gender and age vary. By comparing three state‑of‑the‑art LLMs—Gemini 3.5 Flash, Claude Sonnet 4.6, and GPT‑5.4‑mini—the authors demonstrate that young women are far less likely to be referred for emergency care than their age‑matched male counterparts despite comparable severity scores (7–9/10). The gender gap disappears at older ages, suggesting a demographic‑specific bias in the models’ diagnostic priors.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionM_summary.md|Summary: 2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDiffere_summary.md|Summary: 2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDifferentially.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Young women receive significantly lower emergency‑room referral rates than men across all three LLMs (e.g., Gemini: 0% vs. 23.3%; Claude: 6.7% vs. 96.7%; GPT: 6.7% vs. 66.7%, all p < 0.001).  
 - [Finding 2] The disparity stems from diagnostic substitution: the models anchor on a gender‑linked diagnosis, assigning idiopathic intracranial hypertension (IIH) to young women while labeling men with generic increased intracranial pressure and space‑occupying lesions.  

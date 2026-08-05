@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The authors propose **ScratchSim**, a procedural synthetic‑data pipeline that automatically generates large, COCO‑formatted datasets of scratched surfaces using BlenderProc. By randomising material appearance, camera angles and domain settings, the system can produce thousands of annotated patches for two different objects (a glossy Ferrari toy and another) without requiring manual labeling. The pipeline is evaluated against four training regimes—synthetic‑only, real‑only, mixed, and fine‑tuning from synthetic weights—and compared across three lightweight edge detectors (YOLOX, YOLO26, LW‑DETR). Results show that fine‑tuned models achieve the best performance, while mixed training offers a viable compromise when real data are scarce.  
 
+## Semantic links
+- [[concepts/papers/2026-07-30_14-23-01Z_Theia_Large_ScaleMultimodalCaptioningandAut_summary.md|Summary: 2026-07-30_14-23-01Z_Theia_Large_ScaleMultimodalCaptioningandAutomatedV.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-07-23_14-18-01Z_SPORD_ASimulation_Propose_then_OR_DisposeAp_summary.md|Summary: 2026-07-23_14-18-01Z_SPORD_ASimulation_Propose_then_OR_DisposeApproachf.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A fully procedural BlenderProc pipeline that creates high‑quality, COCO‑annotated scratch patches with configurable material and camera parameters.  
 - [Finding 2] Empirical evidence that fine‑tuning synthetic weights consistently outperforms training on real data alone, especially under limited real‑data conditions.  

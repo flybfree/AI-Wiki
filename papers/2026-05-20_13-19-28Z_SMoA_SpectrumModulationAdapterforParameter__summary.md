@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the inherent trade-off in Parameter-Efficient Fine-Tuning (PEFT) methods, specifically Low-Rank Adaptation (LoRA), where increasing the rank improves performance but drastically increases computational costs, while decreasing the rank limits representational capacity. To resolve this dilemma, the authors propose SMoA, a novel Spectrum Modulation Adapter that enhances the accessible family of spectrum-aware updates without proportionally increasing the parameter budget. By partitioning weight matrices into aligned spectral blocks and applying in-block Hadamard-modulated low-rank branches, SMoA achieves broader coverage of pretrained spectral directions. The study demonstrates through both theoretical analysis and extensive empirical evaluation that SMoA outperforms standard LoRA and other competitive baselines in lower-budget settings.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Contributions
 - **Spectral Block Partitioning Strategy**: The authors introduce a novel mechanism that partitions the weight matrix into multiple aligned spectral blocks, allowing for more granular and effective modulation of the model's spectral properties compared to global low-rank updates.
 - **Hadamard-Modulated Low-Rank Branches**: SMoA employs specific in-block Hadamard-modulated low-rank branches for each diagonal block, which significantly expands the diversity of trainable parameters and improves the model's ability to capture complex data patterns.

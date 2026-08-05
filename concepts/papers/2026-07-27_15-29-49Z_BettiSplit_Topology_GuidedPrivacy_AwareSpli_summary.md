@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses a critical vulnerability in split learning: improper placement of model partitions can expose intermediate representations to feature inversion and gradient leakage, compromising privacy. By leveraging the persistent Betti complexity of smashed activations across layers, the authors develop a topology‑guided framework that automatically identifies privacy‑sensitive regions without requiring explicit attacks. Their method, called BettiSafe, selects split points where the topological complexity is low, thereby mitigating inversion risk while preserving classification performance. The work demonstrates that topological descriptors can serve as reliable proxies for privacy leakage in real‑world collaborative training.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Topology‑guided split selection based on persistent Betti complexity pinpoints layers where feature inversion fidelity rises sharply, revealing non‑uniform privacy risk across architectures.  
 - [Finding 2] The BettiSafe algorithm improves resistance to feature inversion by a factor of 2–5 compared with depth‑based heuristics while maintaining classification accuracy.  

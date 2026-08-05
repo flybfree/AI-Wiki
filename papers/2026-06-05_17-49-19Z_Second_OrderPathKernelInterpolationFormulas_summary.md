@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper extends Pedro Domingos' first‑order path‑kernel interpolation formula for neural network predictions by introducing second‑order terms that capture curvature and stochastic noise. It derives a curvature‑weighted interpolation term for deterministic gradient descent, adds a sampling‑induced component for stochastic gradient descent (SGD) linking prediction curvature with mini‑batch gradient covariance, and extends the representation to momentum‑based SGD with memory‑related weight adjustments. The authors also provide a concentration bound on the terminal prediction error around this second‑order approximation.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A second‑order path kernel interpolation formula that includes a curvature‑weighted term for deterministic gradient descent.  
 - [Finding 2] An additional sampling component in stochastic gradient descent, coupling prediction curvature with mini‑batch gradient noise covariance.  

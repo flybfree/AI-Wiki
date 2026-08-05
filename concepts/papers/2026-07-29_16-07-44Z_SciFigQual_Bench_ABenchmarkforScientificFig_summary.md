@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Scientific figures are essential for conveying experimental results, system designs, and comparative arguments in scholarly papers, yet existing image‑quality assessment (IQA) methods were built for natural photographs or AI‑generated images and cannot be applied directly to scientific manuscripts. To bridge this gap, the authors introduce **SciFigQual‑Bench**, a full‑text contextual benchmark that evaluates scientific figures across five dimensions—clarity, layout, caption fit, context relevance, and misleading risk. The dataset comprises 6,308 images from top computer‑science conferences (2020–2025), each independently scored by domain experts and aggregated into gold‑standard annotations. A staged cross‑modal evaluation framework called **SFQ‑Agent**, equipped with GPT‑5.6‑Sol, fuses visual and textual evidence to produce auditable scores.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] SciFigQual‑Bench is the first benchmark that links scientific figures to their full manuscript context, including captions, cited sentences, and surrounding text.  
 - [Finding 2] The dataset introduces a multi‑dimensional scoring scheme (clarity, layout, caption fit, context relevance, misleading risk) with expert‑derived gold standards.  

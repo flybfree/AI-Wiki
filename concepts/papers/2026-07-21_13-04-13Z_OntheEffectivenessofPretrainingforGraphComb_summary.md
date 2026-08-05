@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a self‑supervised pretraining framework for graph combinatorial optimization, targeting routing problems such as the Traveling Salesman Problem (TSP). By leveraging graph contrastive learning together with geometric augmentations—rotations and axial reflections—the authors aim to teach neural solvers invariant structural representations and global relative distance distributions. The hybrid rotation‑reflection strategy is shown to be a strong inductive bias that enables effective scaling of neural solvers to high‑dimensional instances. This work demonstrates that pretraining, unlike conventional supervised approaches, can significantly improve solution quality without requiring labeled tour data.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A novel self‑supervised pretraining paradigm for graph combinatorial optimization that uses geometric augmentations (rotation and axial reflection) to enforce structural invariance.  
 - [Finding 2] Empirical evidence that the hybrid rotation‑reflection augmentation yields a 6.57 % reduction in tour length for TSP1000, outperforming both non‑pretrained baselines and single‑augmentation variants.  

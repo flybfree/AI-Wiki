@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical limitations of current end-to-end autonomous driving models, specifically the behavioral cloning ceiling inherent in imitation learning and the lack of robust infrastructure for reinforcement learning. The authors propose CoPhy, a novel Cognitive-Physical reinforcement learning framework that integrates a cognitive foundation for understanding traffic semantics with a foresighted physical environment for anticipating action consequences. By distilling Vision-Language Model (VLM) knowledge into a Bird's Eye View (BEV) encoder and employing an auto-regressive BEV world model, the system achieves high-level reasoning without the computational overhead of real-time VLM inference. The framework optimizes driving policies using Group Relative Policy Optimization (GRPO) with a dual-reward mechanism, balancing hard safety constraints with semantic intent compliance, thereby enabling safer and more flexible autonomous driving.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of a "distill to think" mechanism that transfers VLM knowledge into a lightweight BEV encoder, retaining cognitive capabilities at zero inference cost while providing a pluggable interface for human language commands.
 - The development of a "foresee to act" auto-regressive BEV world model that explicitly predicts future semantic maps conditioned on candidate actions, creating an interpretable physical sandbox for deriving safety metrics.

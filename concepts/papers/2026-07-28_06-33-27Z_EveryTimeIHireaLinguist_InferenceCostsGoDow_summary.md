@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether linguistic rules can replace costly LM‑based token scoring to compress prompts and lower inference costs. It proposes an evolutionary search for rule combinations that act as deterministic prompt compressors, eliminating the need for forward passes at deployment time. The authors evaluate these “linguistic compressors” on several downstream tasks and compare them with state‑of‑the‑art compression methods. Their work demonstrates that well‑designed linguistic rules can achieve comparable performance while dramatically reducing computational overhead.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptation_summary.md|Summary: 2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptationforEvol.md]] — 4 title terms overlap; 5 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Linguistic rule sets, discovered via evolutionary search, can serve as effective prompt compressors without any LM forward pass at inference time.  
 - Finding 2: Compression quality follows a light‑to‑moderate range; aggressive compression leads to performance degradation and distinct behavior between Direct and Reconstruction paths.  

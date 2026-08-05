@@ -9,6 +9,16 @@ tags: [reading-list, ilya-sutskever, deep-learning, study-order]
 
 Placeholder summary — please add a concise summary.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|Attention and Transformers]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-16-deployment-scaling-and-what-comes-next.md|Deployment, Scaling, and What Comes Next]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI, Machine Learning, and Deep Learning]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Recurrent Networks and LSTMs]]
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Convolutional Networks for Vision]]
+
+## Related pages
+- [[ilya-sutskever-reading-list.md|Ilya Sutskever Recommended Reading List]]
+
 
 # Ilya Sutskever Reading List Study Order
 

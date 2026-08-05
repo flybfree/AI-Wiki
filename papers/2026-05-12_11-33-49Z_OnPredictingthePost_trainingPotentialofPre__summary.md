@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The authors address the critical challenge of efficiently selecting pre-trained Large Language Models (LLMs) for downstream applications by introducing a novel framework to predict post-training potential. Traditional evaluation metrics, such as standard benchmarks like MMLU, often fail to accurately reflect a base model's plasticity and capacity for improvement in complex, open-ended scenarios. To overcome this limitation, the paper proposes RuDE (Rubric-based Discriminative Evaluation), a unified framework that leverages response discrimination rather than direct generation to assess model quality. This approach allows for the forecasting of a base model's future performance before any post-training interventions occur, offering a more reliable and compute-efficient mechanism for foundation model development.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTool_summary.md|Summary: 2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLon_summary.md|Summary: 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The introduction of RuDE, a novel evaluation framework that bypasses the inherent generation gaps of base models by utilizing discriminative capabilities to assess model quality.
 - The development of a systematic 4C Taxonomy that guides the construction of controlled contrastive pairs across diverse domains through fine-grained rubric violations.

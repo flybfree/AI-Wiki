@@ -12,6 +12,10 @@ Placeholder summary — please add a concise summary.
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson6_Evaluation.md|Lesson 6 — Evaluation & Verification: The Judge Node]] — shared tags: evaluation, 5 topic terms overlap, same area: home
+- [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]] — 1 title term overlap, shared tags: evaluation, 1 topic term overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|AI/ML Foundations Lesson 15 - Evaluation, Overfitting, and Limits]] — shared tags: evaluation, 5 topic terms overlap, same area: home
 
 ## AI Benchmarks
 

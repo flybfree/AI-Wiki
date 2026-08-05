@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The authors aim to overcome the brittleness of existing anomaly‑detection systems that rely on idealized object placement and illumination. By integrating visual prompting, dual‑teacher supervision, and diffusion‑generated synthetic data, they propose a pipeline that isolates objects, adapts teacher parameters, and enriches the training set with realistic variations. Their method leverages Masked Multiscale Reconstruction (MMR) as a backbone to reconstruct masked features under domain shifts, achieving state‑of‑the‑art performance on the AeBAD benchmark. The work demonstrates that these three innovations together can boost detection and segmentation scores by 3.5 percentage points over prior methods.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagati_summary.md|Summary: 2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions  
 - [Finding 1] A visual prompting pipeline that isolates objects using foreground‑background masking to reduce viewpoint and background variability.  
 - [Finding 2] Dual‑teacher supervision where the teacher is unfrozen during student training, enabling domain adaptability while preserving knowledge transfer.  

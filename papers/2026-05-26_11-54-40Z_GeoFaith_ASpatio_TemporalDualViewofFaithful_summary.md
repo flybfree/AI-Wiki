@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper introduces **GeoFaith**, a spatio‑temporal framework that detects and enforces faithful chain‑of‑thought (CoT) reasoning in large language models, addressing the problem of outcome‑based supervision which often produces post‑hoc rationalizations. It builds on latent geometric structure and entropy dynamics to diagnose reasoning chains, expands step‑level annotations from 1 k to 20 k samples across four domains, trains an 8B‑parameter faithfulness detector that outperforms GPT‑5 on standard benchmarks, and designs a joint reinforcement‑learning (RL) framework that optimizes outcome correctness, process faithfulness, and trajectory consistency.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 15 summary/topic terms overlap
+
 ## Key Contributions  
 - Scalable bootstrapping pipeline expanding step‑level annotations from 1 k to 20 k samples across four domains.  
 - An 8B‑parameter faithfulness detector that surpasses GPT‑5 on standard benchmarks.  

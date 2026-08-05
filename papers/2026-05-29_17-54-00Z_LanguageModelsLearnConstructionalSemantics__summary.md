@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper investigates whether open‑source language models understand rare English Paired‑Focus constructions such as “let alone” and “much less”. It tests their constructional semantics—not just syntax—using a custom dataset that combines scalar adjective meanings with world‑knowledge questions. The study examines how different model sizes and training dynamics affect performance on these constructions. The authors find that modest models can grasp both form and meaning, linking semantic understanding to broader world knowledge.  
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDist_summary.md|Summary: 2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPos_summary.md|Summary: 2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPositionEm.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunder_summary.md|Summary: 2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Several modestly sized open‑source LLMs demonstrate robust constructional semantics for Paired‑Focus constructions, outperforming human‑scale pretraining data models.  
 - Finding 2: Paired‑Focus syntactic knowledge emerges earlier than semantic understanding during training dynamics.  

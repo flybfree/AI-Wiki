@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of achieving optimal performance in stochastic linear bandits where the noise variance changes over time and the action set is fixed for the entire horizon. By redefining statistical complexity with respect to the harmonic mean of variances rather than the total sum, the authors propose a variance‑aware exploration strategy that exploits actions yielding maximal information gain. Their algorithm—VAEE (Variance‑Aware Exploration with Elimination)—breaks the traditional \(\sqrt{\Lambda}\) barrier and attains near‑harmonic‑mean dependence on the number of rounds. For finite action sets, they also introduce a G‑optimal design‑based variant that yields sharper regret bounds.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors establish a simple‑regret bound for VAEE that depends on the harmonic mean of variances, demonstrating a rate close to optimal and breaking the \(\sqrt{\Lambda}\) barrier.  
 - [Finding 2] They present a variance‑aware G‑optimal design exploration method for finite action sets, achieving regret bounds with sharper dependence on the dimensionality \(d\).  

@@ -15,6 +15,11 @@ Source: 2026-04-28_17-58-21Z_DV_World_BenchmarkingDataVisualizationAgentsinReal.
 ## Summary
 Introduces DV-World, a 260-task benchmark for data-visualization agents across spreadsheet manipulation, reference-artifact adaptation, and proactive intent alignment. Using table-value alignment and MLLM-as-a-Judge evaluation, it finds that state-of-the-art models achieve under 50% overall performance.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 2 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+
 ## Key Takeaways
 - Covers the real-world lifecycle of data visualization rather than sandboxed creation only.
 - Splits evaluation across DV-Sheet, DV-Evolution, and DV-Interact.

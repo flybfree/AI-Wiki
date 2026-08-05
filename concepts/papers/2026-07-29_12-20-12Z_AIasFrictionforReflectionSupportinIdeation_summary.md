@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper argues that current design research treats generative AI as a smoothing agent that eliminates friction in creative iteration, yet this framing overlooks the essential role of reflection‑in‑action during ideation. Reflection‑in‑action is the process by which designers accept, reject, and rework ideas while simultaneously developing rationales that enable them to think with those ideas and communicate them to others. The authors propose reframing AI not as a friction remover but as a friction agent that supports reflective processes rather than merely producing smoother output. This shift opens up new roles for AI in design ideation, emphasizing support over substitution.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.02
+- [[concepts/papers/2026-07-23_18-34-12Z_WhatAIRed_TeamEvaluationsCanandCannotProve_summary.md|Summary: 2026-07-23_18-34-12Z_WhatAIRed_TeamEvaluationsCanandCannotProve.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Generative AI tools are commonly perceived to remove friction, yet they actually introduce cognitive friction that hinders reflection.  
 - [Finding 2] Reflection‑in‑action is a critical component of ideation, enabling designers to develop and communicate rationales around ideas.  

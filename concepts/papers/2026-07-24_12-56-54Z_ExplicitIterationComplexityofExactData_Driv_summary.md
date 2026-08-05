@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles data‑driven inverse optimization (DDIOP) for integer linear programs by providing a fully explicit bound on the number of oracle iterations required to achieve exact consistency when using projected subgradient descent applied to the suboptimality loss. It derives a geometric constant γ(l_sub) and shows that this constant can be bounded below in terms of problem‑size parameters such as sample count, feature dimension, feature ranges, and the structure of the constraint coefficient matrix, up to polynomial factors involving the diameter of the weight set, the step‑size parameter, and the Lipschitz constant of the loss. This work bridges theoretical analysis with practical algorithmic design for inverse optimization.
 
+## Semantic links
+- [[concepts/papers/2026-08-03_17-26-54Z_OptimalUnambiguousDNFsandAlon_Saks_Seymour_summary.md|Summary: 2026-08-03_17-26-54Z_OptimalUnambiguousDNFsandAlon_Saks_Seymour.md]] — 3 title terms overlap; 15 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
+- [[concepts/training-optimization/training-optimization-hub.md|Training and Optimization Hub]] — 2 title terms overlap; 505 backlinks; 3 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors establish an explicit iteration complexity bound for exact data‑driven inverse optimization of ILPs.  
 - [Finding 2] They provide a lower bound on the geometric constant γ(l_sub) as a function of problem‑size parameters.  

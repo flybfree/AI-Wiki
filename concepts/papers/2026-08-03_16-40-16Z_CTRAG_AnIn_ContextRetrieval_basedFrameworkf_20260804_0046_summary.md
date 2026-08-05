@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 CTRAG proposes an in‑context retrieval‑augmented generation (RAG) pipeline that automatically checks regulatory compliance by extracting control questions from statutes and matching them to unstructured company documents. The framework is especially useful when compliance depends indirectly on third‑party services, because it cross‑references vendor documentation with internal policies. By employing adaptive chunking, dynamic retrieval configurations, and in‑context learning, CTRAG improves the precision and relevance of its assessments without requiring fine‑tuning. Empirical testing shows that the final configuration achieves an F1‑score of 78 % and a recall of 85 %, confirming strong performance on real‑world cases.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - CTRAG introduces an RAG pipeline specifically designed for automated compliance checking, moving beyond traditional rule‑based or fine‑tuned models.  
 - The adaptive chunking strategy and dynamic retrieval configurations enable the model to retrieve only the most relevant document fragments, thereby enhancing relevance and reducing noise.  

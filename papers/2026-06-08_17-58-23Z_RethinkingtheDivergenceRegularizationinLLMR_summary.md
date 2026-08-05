@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Large language models benefit from reinforcement learning (RL) to refine their behavior, but training‑inference mismatch often makes the learned policy out of sync with the model’s current knowledge, requiring trust‑region control for stable optimization. Traditional methods such as PPO and GRPO rely on a ratio‑clipping mask that can be misleading when token probabilities shift dramatically in long‑tailed vocabularies. Recent work DPPO replaces this ratio with a divergence‑based mask defined by the absolute probability change of sampled tokens, yet it still employs a hard mask that discards gradients beyond the boundary. This paper introduces Divergence Regularized Policy Optimization (DRPO), which substitutes the hard mask with a smooth advantage‑weighted quadratic regularizer to produce continuous gradient weights and corrective signals outside the trust region.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines_summary.md|Summary: 2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/training-optimization/training-optimization-hub.md|Training and Optimization Hub]] — 3 title terms overlap; 505 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeep_summary.md|Summary: 2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeepLearnin.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The ratio‑clipping mechanism used in PPO/GRPO is an inadequate proxy for distributional shift in long‑tail vocabularies.  
 - [Finding 2] DPPO’s divergence mask still uses a hard mask that discards gradients once a token exceeds the trust‑region boundary, limiting corrective feedback.  

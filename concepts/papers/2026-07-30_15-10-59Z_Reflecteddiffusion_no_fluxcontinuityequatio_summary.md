@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates the existence of a regular Lagrangian flow that stays inside a bounded domain and generates the marginal density of reflected diffusions, while solving a no‑flux continuity equation for the associated flux pair. It provides sufficient interior and boundary regularity conditions—including BV control on a collar, a one‑sided bound on the divergence, vanishing normal trace, and interior BV regularity—that guarantee such a flow exists; these assumptions cannot be relaxed jointly without introducing a boundary current mechanism. The authors also construct an explicit smooth density/flux pair that carries a boundary current but fails to admit a regular Lagrangian flow because its compressibility bound is violated arbitrarily close to the initial time, thereby illustrating when ODE‑based samplers may fail.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The authors give sufficient conditions in terms of interior bounded‑variation regularity, BV control on a boundary collar, a one‑sided bound on an absolutely continuous divergence, and vanishing normal trace that ensure a density/flux pair solving the no‑flux continuity equation admits a regular Lagrangian flow confined to the domain.  
 - [Finding 2] They construct an explicit smooth density/flux pair carrying a boundary current; its characteristics are unique, confined, transport marginals, yet it lacks a regular Lagrangian flow because the compressibility bound fails near the initial time.  

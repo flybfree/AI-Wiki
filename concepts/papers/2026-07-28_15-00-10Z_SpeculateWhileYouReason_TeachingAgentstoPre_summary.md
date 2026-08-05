@@ -79,3 +79,8 @@ The results confirm that the *joint* learning is essential for achieving the hig
 
 **Conclusion**  
 Speculate While You Reason demonstrates that teaching agents to predict their next tool call can be achieved efficiently through a joint RL loop with an auxiliary speculator. This approach not only improves task success rates but also yields substantial reductions in the number of tool calls required, making autonomous reasoning agents faster and more resource‑efficient. Future work will explore multi‑agent collaboration where multiple speculators specialize across different domains, further scaling speculative reasoning to complex, long‑horizon tasks.
+
+## Semantic links
+- [[concepts/papers/2026-07-31_12-52-10Z_Cross_ResolutionSemanticLearningforGraphDom_20260803_0944_summary.md|Summary: 2026-07-31_12-52-10Z_Cross_ResolutionSemanticLearningforGraphDomainAdap.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.34
+- [[concepts/papers/2026-07-31_12-52-10Z_Cross_ResolutionSemanticLearningforGraphDom_20260803_0353_summary.md|Summary: 2026-07-31_12-52-10Z_Cross_ResolutionSemanticLearningforGraphDomainAdap.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.34
+- [[concepts/papers/2026-07-31_12-52-10Z_Cross_ResolutionSemanticLearningforGraphDom_20260803_0851_summary.md|Summary: 2026-07-31_12-52-10Z_Cross_ResolutionSemanticLearningforGraphDomainAdap.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.34

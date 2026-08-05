@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates why instruction‑tuned language models cannot generate diverse responses from the distributions they are trained to model, showing that these models collapse to a single answer on repeated prompts. It introduces the KNOWS/DOES split, explaining that models can describe distributions (KNOWS) but cannot sample from them (DOES). The authors propose Prompt‑Perturbed Argyle as a mitigation technique that reduces error by 21 % compared to persona aggregation without adding cost. This work demonstrates a fundamental gap between what LLMs can articulate and what they can actually produce.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_12-27-59Z_Instruction_basedImageEditing_ASurveyonData_summary.md|Summary: 2026-07-28_12-27-59Z_Instruction_basedImageEditing_ASurveyonData_Models.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_11-47-52Z_Instruction_ConditionedExplorationwithAsymm_summary.md|Summary: 2026-08-03_11-47-52Z_Instruction_ConditionedExplorationwithAsymmetricRe.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.13
+
 ## Key Contributions  
 - [Finding 1] Instruction‑tuned models collapse to a single output on more than half of items in a public‑opinion benchmark, with identical answers across repeated queries.  
 - [Finding 2] The collapse is sharp: the model’s internal probabilities concentrate on one option and is amplified by instruction tuning, which degrades the sampling primitive visible in logits.  

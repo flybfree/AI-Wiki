@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Large language model agents must adapt to a constantly shifting set of tool interfaces and user requirements after deployment. Existing self‑evolution methods either rely on external, editable memories (harness‑based) or modify internal parameters (parameter‑based), each creating a trade‑off between flexibility and performance. This paper proposes COVE—a unified framework that coordinates both learning channels through task‑aware routing, stage‑aware scheduling, and knowledge optimization. By matching tasks to the most suitable memory or parameter update, COVE aims to eliminate the binary choice and achieve robust, efficient self‑evolution in dynamic environments.
 
+## Semantic links
+- [[concepts/papers/2026-07-27_05-40-01Z_Self_SupervisedConsistencyEnhancedDisentang_summary.md|Summary: 2026-07-27_05-40-01Z_Self_SupervisedConsistencyEnhancedDisentangledLear.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-08-02_22-19-01Z_QuestionBegetsQuestion_Self_EvolvingCurricu_summary.md|Summary: 2026-08-02_22-19-01Z_QuestionBegetsQuestion_Self_EvolvingCurriculumforR.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.06
+- [[concepts/papers/2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteer_summary.md|Summary: 2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteerableVLA.md]] — 4 title terms overlap; 6 summary/topic terms overlap; semantic match 0.06
+
 ## Key Contributions  
 - [Finding 1] The authors identify a fundamental trade‑off between harness‑based flexibility and parameter‑based depth that limits current self‑evolution strategies.  
 - [Finding 2] They introduce COVE’s adaptive memory‑parameter coordination mechanism, which routes learning tasks to the appropriate channel based on task type and stage of evolution.  

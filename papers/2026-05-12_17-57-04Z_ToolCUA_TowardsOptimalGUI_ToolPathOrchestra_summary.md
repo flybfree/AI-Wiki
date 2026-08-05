@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper addresses the critical challenge of decision-making in Computer Use Agents (CUAs) that operate within a hybrid action space comprising both atomic GUI interactions and high-level tool calls. The authors identify that current agents often struggle with uncertainty regarding when to switch between these modalities, leading to inefficient and suboptimal execution paths due to a lack of high-quality training data and supervision. To resolve this, they introduce ToolCUA, an end-to-end agent framework that employs a novel staged training paradigm to learn optimal GUI-Tool path orchestration. This approach synthesizes diverse training trajectories without manual engineering and utilizes advanced reinforcement learning techniques to guide the agent toward more efficient and accurate task completion.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions
 - The development of an Interleaved GUI-Tool Trajectory Scaling Pipeline that effectively repurposes abundant static GUI trajectories and synthesizes a grounded tool library, thereby generating diverse and grounded GUI-Tool trajectories without the need for costly real tool-trajectory collection or manual engineering.
 - The implementation of a hybrid training strategy that combines Tool-Bootstrapped GUI Reinforcement Fine-Tuning (RFT) with Online Agentic RL, utilizing a specific Tool-Efficient Path Reward to encourage appropriate tool usage and shorter execution paths in a high-fidelity environment.

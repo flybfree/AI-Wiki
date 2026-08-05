@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **Ground Truth First**, a longitudinal evaluation framework that inverts the conventional LLM‑memory benchmark pipeline. Instead of generating conversations first and extracting answer keys later, it creates a synthetic fact‑based corpus where facts are emitted with validity intervals, volatility classes, and source channels before any text is written. The authors then render chat and email from these manifest events, verify each planted fact, and mechanically generate questions whose gold answers are script‑valid by construction. This approach yields a fully reproducible dataset of 380 questions across 15 types that tests memory architectures over multiple weeks.
 
+## Semantic links
+- [[concepts/papers/2026-07-28_18-29-45Z_SharedSFTLessonsAcrossAlignment_ModelOrgani_summary.md|Summary: 2026-07-28_18-29-45Z_SharedSFTLessonsAcrossAlignment_ModelOrganisms_and.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.03
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 1 backlink; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The inverted pipeline eliminates label‑error and contamination problems, producing ground‑truth answers that are simultaneously valid and answerable.  
 - [Finding 2] Memory‑architecture rankings flip with history length: the budgeted curated‑map memory leads at three weeks but loses recall to 72 % at nine weeks, while a provenance‑typed graph rises to 90 %. The inversion is statistically significant (p = 0.031) across all six users under full cross‑family re‑judging.  

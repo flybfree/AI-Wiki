@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper conducts a forensic reproducibility audit of a radiology vision‑language model benchmark, tracing the journey from an intended protocol to the released artifacts without invoking the model or generating new data. It reveals systematic deviations—such as missing polarity inversion, truncated reports, and lost dataset metadata—that compromise the integrity of reported performance metrics and clinical claims. By reconstructing a cohort of 369 case‑finding blocks and comparing archived outputs with original specifications, the authors expose gaps that invalidate many statistical tests and ranking statements.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - The audit identifies 27 McNemar comparisons with unadjusted p < 0.05, showing that many significance claims are misleading when not corrected.  
 - Reconstruction of a cohort of 369 case‑finding blocks changes Cochran’s Q from 154.73 to 182.29, demonstrating that reported statistical tests lose validity due to truncated or altered artifacts.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 TopoFormer proposes a lightweight, scalable framework for graph representation learning that fuses topological structure with attention mechanisms. By converting graphs into ordered sequences of topological tokens via the Topo‑Scan module, the method enables parallelizable processing through standard Transformers while preserving multi‑scale structural information. The approach offers theoretical stability guarantees and achieves state‑of‑the‑art results on both graph classification and molecular property prediction tasks.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - **Topo‑Scan**: A novel tokenization pipeline that slices graphs using node or edge filtrations to produce short, ordered topological tokens representing local motifs and global organization.  
 - **Parallelizable Transformer Integration**: The generated token sequences are fed into a standard Transformer architecture, allowing efficient GPU/TPU computation without costly persistent homology computations.  

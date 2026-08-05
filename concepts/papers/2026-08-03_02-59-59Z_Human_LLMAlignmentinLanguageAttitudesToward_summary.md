@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how large language models (LLMs) align with human judgments of Japanese language attitudes toward non‑native speakers by comparing evaluations of parallel L1‑ and L2‑written Japanese emails across three dimensions: fluency, status, and solidarity. It shows that both humans and LLMs rate L2 texts lower than L1 texts, but the magnitude of these biases differs systematically. This work extends the language attitudes framework to provide a yardstick for auditing LLM performance beyond English.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-28_12-27-59Z_Instruction_basedImageEditing_ASurveyonData_summary.md|Summary: 2026-07-28_12-27-59Z_Instruction_basedImageEditing_ASurveyonData_Models.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
+- [[concepts/papers/2026-07-20_18-33-59Z_BuildingaEuropeanMultilingualEvaluationData_summary.md|Summary: 2026-07-20_18-33-59Z_BuildingaEuropeanMultilingualEvaluationDataset_The.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.03
+
 ## Key Contributions  
 - Finding 1: LLMs reproduce the direction of human bias in rating L2 Japanese emails lower across all three dimensions (fluency, status, solidarity).  
 - Finding 2: The fluency gap is roughly twice as large as the status or solidarity gaps, and LLMs understate the solidarity gap more than humans.  

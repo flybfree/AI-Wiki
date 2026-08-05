@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper tackles the challenge of predicting traffic congestion in Alameda County, California, during three distinct phases of the COVID‑19 pandemic—pre‑lockdown, lockdown, and post‑lockdown—to understand how pandemic dynamics alter travel behavior. By integrating weather, seasonal patterns, and COVID‑19 variables into a suite of machine‑learning models, the authors aim to produce both accurate forecasts and transparent explanations for those forecasts. The study demonstrates that bidirectional long short‑term memory (BiLSTM) networks consistently outperform other approaches across all periods, while interpretability tools reveal how pandemic‑related factors influence congestion outcomes.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** BiLSTM achieves the lowest Normalized Root Mean Square Error (NRMSE) among SVR, multiple linear regression, RNN, and LSTM models during pre‑lockdown, lockdown, and post‑lockdown periods.  
 - **Finding 2:** Integrated Gradients and SHAP analysis show that new COVID‑19 cases exert a predominantly negative effect on congestion in the lockdown and early post‑lockdown phases, whereas higher hospitalization rates reduce travel demand more strongly than fuel prices.  

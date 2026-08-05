@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces LeakyLMs, a novel attack that extracts sensitive information from production language models using only per‑token generation timing data. The attacks reveal deployment‑level optimizations such as speculative decoding and the draft context window, as well as key architectural parameters like the number of transformer layers, hidden dimension size, and attention heads. By modeling how latency scales with model configuration and hardware, LeakyLMs performs a search over the architecture space that often yields near‑correct guesses within the top ten possibilities. The work demonstrates that even remote API interactions can leak proprietary details without exposing model weights or code.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.12
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_10-14-28Z_SmallIsEnough_Per_UserStyleRewritingofAI_Ed_20260803_0817_summary.md|Summary: 2026-07-31_10-14-28Z_SmallIsEnough_Per_UserStyleRewritingofAI_EditedTex.md]] — 4 title terms overlap; 4 summary/topic terms overlap; semantic match 0.08
+
 ## Key Contributions  
 - [Finding 1] LeakyLMs proves that inference optimizations such as speculative decoding and draft context lengths are detectable solely from token‑generation latency, providing a covert way to infer deployment strategies.  
 - [Finding 2] The attack recovers core architectural properties of the model, including layer count, hidden dimension, and attention heads, with high accuracy using a timing‑based search algorithm.  

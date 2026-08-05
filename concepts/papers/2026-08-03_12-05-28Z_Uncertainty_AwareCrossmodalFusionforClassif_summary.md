@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the challenge of reliably classifying animal vocalizations in noisy, uncontrolled field recordings by fusing two complementary acoustic representations while accounting for their inherent uncertainties. By estimating Gaussian uncertainty for each stream and using this information to weight the fusion, the authors create a model that can prioritize more confident signals without requiring explicit reliability labels. Their approach improves classification performance on benchmark datasets compared with simple concatenation methods, demonstrating that uncertainty‑aware fusion is the primary source of gain rather than temporal aggregation strategies.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - **Finding 1:** Introducing Uncertainty‑Aware Fusion (UAF), a dual‑stream framework that jointly estimates Gaussian uncertainties for raw waveforms and log‑Mel spectrograms and fuses them with uncertainty weighting.  
 - **Finding 2:** Achieving state‑of‑the‑art classification results on two independent benchmarks: 59.4 % accuracy / 39.7 % macro F1 on the SoundWel pig vocalization set and 73.1 % accuracy / 71.5 % macro F1 on the DogBark dataset, outperforming static concatenation fusion by 15.7 % and 20.4 % respectively in macro F1.  

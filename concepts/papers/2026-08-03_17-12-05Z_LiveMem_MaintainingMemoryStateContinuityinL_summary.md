@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Long‑running language models quickly exhaust their fixed‑size context windows, causing loss of earlier information that is essential for coherent dialogue. The authors introduce **LiveMem**, an intrinsic memory mechanism that preserves a persistent state across context turnover while the main attention path remains limited to a bounded KV window. By treating this hidden memory as load‑bearing and integrating it into post‑training serving, LiveMem enables continual inference without discarding prior knowledge. Their work demonstrates that useful evidence can survive beyond the active window, establishing **state continuity** as a complementary abstraction for long‑running LLM applications.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] LiveMem provides an intrinsic memory state whose lifetime is independent of the current context, allowing computation to continue across context changes.  
 - [Finding 2] Experiments on LongMemEval show that LiveMem can answer questions using only information retained in its memory state, even when supporting evidence has been removed from the active window.  

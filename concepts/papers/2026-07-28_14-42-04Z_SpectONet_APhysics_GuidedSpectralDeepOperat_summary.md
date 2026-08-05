@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces SpectONet, a physics‑guided spectral deep operator network designed to predict the vibration responses of Euler‑Bernoulli beams. By replacing uniform sensor grids with a Chebyshev‑Gauss‑Lobatto (CGL) placement that concentrates points near the domain boundaries, SpectONet captures boundary‑sensitive structural behavior while using only a few branch‑network inputs. The framework embeds the governing beam equation and its initial/boundary conditions directly into the training objective to enforce physically consistent predictions. Extensive experiments on synthetic problems and a real bridge dataset show that SpectONet consistently outperforms strong baselines such as Vanilla DeepONet, PI‑DeepONet, PINN, and CNN‑UNet.
 
+## Semantic links
+- [[concepts/papers/2026-07-25_17-05-04Z_PathRIR_Physics_GuidedAcousticPathSelection_summary.md|Summary: 2026-07-25_17-05-04Z_PathRIR_Physics_GuidedAcousticPathSelectionandLate.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.09
+- [[concepts/papers/2026-07-28_06-31-21Z_Physics_InformedNeuralOperatorforWarm_Start_summary.md|Summary: 2026-07-28_06-31-21Z_Physics_InformedNeuralOperatorforWarm_StartingBack.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.11
+- [[concepts/papers/2026-08-03_23-59-02Z_APhysics_InformedHybridNeuralOperatorforTra_summary.md|Summary: 2026-08-03_23-59-02Z_APhysics_InformedHybridNeuralOperatorforTransientM.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - [Finding 1] Nonuniform CGL sensor placement improves the finite‑dimensional representation of boundary‑sensitive responses.  
 - [Finding 2] The physics‑informed loss integrates the Euler‑Bernoulli governing equation and its conditions into training, promoting physically consistent outputs.  

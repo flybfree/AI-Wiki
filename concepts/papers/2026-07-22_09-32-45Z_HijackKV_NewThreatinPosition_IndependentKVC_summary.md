@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces HijackKV, a novel attack that exploits position‑independent KV cache reuse in large language models to silently hijack model behavior without altering the visible input text. By leveraging benign‑looking token chunks that trigger cache hits, an attacker can embed malicious context into the cached key‑value pairs and later retrieve those contaminated entries during inference. The authors demonstrate that this vulnerability persists across multi‑turn interactions, transfers between models in black‑box settings, and remains effective even under low hit rates or frequent recomputation. Their contribution is both a theoretical analysis of the security flaw and a practical attack framework (HIJACKKV) that achieves high success rates.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Position‑independent KV cache reuse can inadvertently store attacker‑controlled prefixes in benign text chunks, creating a hidden attack vector.  
 - [Finding 2] The HIJACKKV framework systematically optimizes an attacker‑controlled prefix to encode malicious intent while leaving the visible token sequence unchanged.  

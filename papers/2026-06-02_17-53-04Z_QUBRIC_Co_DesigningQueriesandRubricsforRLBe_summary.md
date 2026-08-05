@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Rubric‑based reinforcement learning aims to extend reinforcement learning beyond verifiable rewards, but existing methods treat the query distribution as fixed and cannot improve rubric quality when queries are open‑ended. The authors identify a structural bottleneck: vague or overly narrow queries produce rubrics that either lack evaluability or contain fabricated references, causing training to stall. Their contribution is QUBRIC, a framework that jointly designs queries and rubrics so that teacher‑derived key points guide the transformation of open‑ended questions into concrete, testable scenarios. This co‑design enables contrastive rubric generation and learnability filtering within GRPO, yielding measurable performance gains on challenging benchmarks.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 4 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - The authors pinpoint a structural bottleneck: rubric quality is constrained by query structure, with open‑ended queries leading to vague or fabricated rubrics that halt learning.  
 - They introduce QUBRIC, a co‑design framework that uses teacher‑derived key points to rewrite open‑ended queries into scenario‑based, evaluable questions and then applies contrastive rubric generation and learnability filtering to retain only informative query‑rubric pairs for GRPO training.  

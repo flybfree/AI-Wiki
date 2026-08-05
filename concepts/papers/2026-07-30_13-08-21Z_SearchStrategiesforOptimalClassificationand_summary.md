@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a unified algorithmic framework for optimal decision trees that standardizes existing and new search strategies, enabling systematic comparison across tasks. By evaluating 18 search strategies on classification and regression benchmarks, it identifies one strategy that yields significantly better anytime performance in classification and an order‑of‑magnitude speedup in regression.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - The authors introduce a general framework that instantiates prior search strategies and defines new ones.  
 - They empirically compare 18 search strategies across datasets, revealing the best‑performing strategy for both tasks.  

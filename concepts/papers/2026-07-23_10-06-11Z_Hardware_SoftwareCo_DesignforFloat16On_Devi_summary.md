@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper presents a hardware‑software co‑design approach that enables full float16 on‑device training of deep neural networks on a resource‑constrained RISC‑V single‑core processor. By exploiting the Zfh (scalar) and Zvfh (vector) extensions, the authors achieve roughly a 50 % reduction in memory footprint compared with float32 while keeping model performance loss below two percent. Their solution also introduces layer‑freezing capabilities within an existing training framework to support transfer learning scenarios on edge devices.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/training-optimization/training-optimization-hub.md|Training and Optimization Hub]] — 2 title terms overlap; 505 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-31_10-38-11Z_OsteoCAD_AHuman_in_the_LoopCloud_EdgeFramew_20260803_0933_summary.md|Summary: 2026-07-31_10-38-11Z_OsteoCAD_AHuman_in_the_LoopCloud_EdgeFrameworkforB.md]] — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.05
+
 ## Key Contributions  
 - [Finding 1] The introduction of scalar Zfh and vector Zvfh extensions for RISC‑V single‑core processing, providing native float16 arithmetic without external hardware.  
 - [Finding 2] A complete on‑device training pipeline that reduces memory usage by ~50 % with minimal performance degradation (latency increase <2 %).  

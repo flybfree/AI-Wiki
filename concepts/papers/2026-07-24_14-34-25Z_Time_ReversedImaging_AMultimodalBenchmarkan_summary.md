@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces time‑reversed imaging, a new paradigm that infers past human‑environment interactions from residual physical imprints in thermal, ultraviolet and visible spectra rather than interpolating video frames. It presents TRACE‑HEI, the first multimodal benchmark dataset of synchronized tri‑modal traces up to three minutes after contact, enabling reconstruction of actions such as sitting or spills. The authors propose a vision‑language guided diffusion model constrained by structured textual descriptions of detected traces. This work establishes a computational and experimental foundation for time‑reversed imaging, bridging physics, vision and generative reasoning.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The creation of TRACE‑HEI, the first multimodal dataset capturing synchronized thermal, UV and visible video sequences of human actions.  
 - [Finding 2] A multimodal inference framework that extracts structured textual descriptions from residual traces to guide a diffusion model.  

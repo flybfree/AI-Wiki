@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces **OCT‑Bench**, a comprehensive benchmark designed to evaluate the full cognitive process of multimodal large language models (MLLMs) when interpreting optical coherence tomography (OCT) images, moving beyond coarse‑grained disease classification or isolated visual question answering. By constructing a hierarchical capability taxonomy that spans perception, cognition, and reasoning across 20 fine‑grained tasks, OCT‑Bench provides a clinically grounded assessment of how MLLMs can move from raw image input to therapeutic decision‑making and prognostic management.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - **OCT‑Bench benchmark**: The authors create a dataset comprising 10,766 multiple‑choice questions derived from 4,137 high‑quality OCT images across seven public repositories.  
 - **Capability taxonomy**: A three‑dimensional framework (Perception, Cognition, Reasoning) with 20 fine‑grained tasks is established to capture imaging attributes, retinal anatomy, lesion characteristics, spatial relationships, disease assessment, therapeutic decisions, and prognostic insights.  

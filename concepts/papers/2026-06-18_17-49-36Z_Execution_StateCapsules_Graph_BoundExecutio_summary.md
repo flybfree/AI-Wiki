@@ -45,6 +45,11 @@ Execution‑State Capsules (ESCs) is a novel technique that captures only the *e
 
 ---
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedby_summary.md|Summary: 2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedbyAgentic.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesoc_summary.md|Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 
 - **Execution‑State Capsule (ESC) Framework** – A principled method for encoding the mutable state of a graph execution (e.g., tensor buffers, activation maps, control flow pointers) into a self‑contained capsule that can be serialized and deserialized in O(1) per subgraph.  

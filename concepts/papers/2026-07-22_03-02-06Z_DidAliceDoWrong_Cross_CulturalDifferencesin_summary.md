@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper investigates how students from Canadian and South Korean universities perceive the ethicality and rule‑compliance of using generative AI (GenAI) in coding assignments, despite both institutions adopting identical policies. By employing a scenario‑based survey administered in Fall 2024, the authors compare cross‑cultural judgments of academic integrity and institutional policy. The study contributes to the literature by showing that cultural factors—not merely policy wording—drive these divergent perceptions. Its findings suggest that AI‑use guidelines must be culturally responsive to support responsible GenAI integration worldwide.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Canadian students are consistently more likely than Korean students to view GenAI use as unethical and against institutional policies, even though the policies are functionally identical.  
 - [Finding 2] The proportion of AI‑generated code incorporated into assignments is the strongest predictor of ethical judgments across both cultural groups.  

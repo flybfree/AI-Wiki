@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical bottleneck in scaling test-time compute for Large Language Models (LLMs) by shifting from depth-based to breadth-based reasoning strategies. The authors identify that while sampling multiple parallel candidates is straightforward, selecting the optimal solution without a ground-truth verifier is notoriously difficult due to the noise and bias inherent in pointwise LLM judging. To resolve this, they introduce OpenDeepThink, a novel population-based framework that utilizes pairwise Bradley-Terry aggregation to rank and select high-quality reasoning traces. This approach significantly enhances the problem-solving capabilities of existing models, particularly in objective domains, by leveraging comparative judgments rather than absolute scores.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenera_summary.md|Summary: 2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - **Novel Selection Mechanism**: The introduction of a pairwise Bradley-Terry comparison method that aggregates votes from random candidate pairs to create a robust global ranking, effectively mitigating the biases of pointwise LLM judging.
 - **Significant Performance Gains**: Empirical evidence demonstrating that OpenDeepThink raises the effective Codeforces Elo of Gemini 3.1 Pro by +405 points over eight sequential rounds, showcasing substantial improvements in complex reasoning tasks.

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether language models acquire the ability to handle unlike coordination—joining words or phrases from different semantic categories—through direct exposure in their training data or via more general compositional skills. Using a controlled training method called Filtered‑Corpus Training (FiCT), the authors train GPT‑2 on corpora that have all instances of unlike coordination removed, then test whether these models can still generate and evaluate such constructions. The results show that exposure to unlike coordination is not required; filtered‑trained models perform as well as unfiltered ones in both perplexity and grammaticality judgments. Moreover, internal representations suggest the model processes unlike coordination similarly to how it handles alike coordination or even deletes one of the conjuncts, indicating a learnable mechanism rather than explicit rule‑based handling.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 13 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Direct exposure to unlike coordination is unnecessary for language models to perform well on this task.  
 - [Finding 2] Filtered‑Corpus Training (FiCT) enables GPT‑2 to generalize to unlike coordination with performance comparable to models trained on unfiltered data.  

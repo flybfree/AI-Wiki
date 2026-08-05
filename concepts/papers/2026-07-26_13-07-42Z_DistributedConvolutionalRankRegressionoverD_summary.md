@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a decentralized convolutional rank regression (CRR) framework that solves consensus‑constrained optimization using a kernel‑smoothed rank loss, relying only on local node data and information shared by neighboring nodes. This approach preserves privacy while achieving high communication efficiency in heterogeneous networks. The authors also establish finite‑sample error bounds for the estimator and derive exact support recovery guarantees for the sparse decentralized CRR LASSO estimator.
 
+## Semantic links
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - Finite‑sample error bounds for decentralized CRR estimators in heterogeneous network settings.  
 - Exact support recovery guarantees for the sparse decentralized CRR LASSO estimator.  

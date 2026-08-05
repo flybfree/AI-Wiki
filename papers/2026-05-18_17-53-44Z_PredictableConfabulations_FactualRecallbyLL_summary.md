@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This research paper addresses a significant gap in the current understanding of Large Language Model (LLM) capabilities by establishing a quantitative scaling law for factual recall. While previous studies have focused on aggregate performance metrics, this work specifically isolates the relationship between a model's ability to accurately retrieve facts and two critical variables: the total number of parameters in the model and the frequency of specific topics within the training dataset. The authors demonstrate that factual recall quality does not scale linearly but follows a sigmoid curve when plotted against the log-linear combination of model size and topic representation. This finding provides a predictive framework for understanding how LLMs acquire and retain factual knowledge, suggesting that recall is governed by a signal-to-noise ratio mechanism where signal strength is driven by concept frequency and noise is determined by model capacity.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandA_summary.md|Summary: 2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandAttribut.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_Head_summary.md|Summary: 2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsfo_summary.md|Summary: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The authors identify and quantify a new scaling law for factual recall, demonstrating that recall quality follows a sigmoid function dependent on both model parameter count and topic frequency in training data.
 - They reveal that the combination of model size and topic representation explains a substantial portion of variance in recall performance, accounting for 60% of variance across diverse model families and up to 94% within individual families.

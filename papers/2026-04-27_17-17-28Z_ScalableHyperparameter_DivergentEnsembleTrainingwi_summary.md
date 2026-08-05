@@ -15,6 +15,11 @@ Source: 2026-04-27_17-17-28Z_ScalableHyperparameter_DivergentEnsembleTrainingwi.
 ## Summary
 Proposes Hyperparameter-Divergent Ensemble Training, which repurposes data-parallel replicas to explore learning-rate configurations during training with alternating fan-out and converge phases. A companion auto-LR controller updates the shared schedule from relative replica losses, and the framework extends to other scalar hyperparameters without changing the model or optimizer.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 1 title term overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Uses replica diversity for simultaneous hyperparameter exploration.
 - Adds a gradient-free controller that adapts the base learning-rate schedule.

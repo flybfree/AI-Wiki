@@ -10,6 +10,11 @@ Model: None
 ## Summary  
 The paper proposes a language‑based digital twin framework that uses large language models (LLMs) to model the conversational style of elderly users by integrating stylometric cues and contextual metadata. The goal is to create a personalized, non‑invasive companion for continuous cognitive health monitoring, especially in detecting early stages of Mild Cognitive Impairment (MCI). To ensure fidelity, the authors introduce a multi‑head conditional variational autoencoder (cVAE) that jointly reconstructs conversation content and predicts MoCA scores. Experiments on the I‑CONECT dataset demonstrate that the digital twin reproduces identity‑specific linguistic patterns with error rates comparable to real data while surpassing generic GPT outputs.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The framework preserves individual personality and speech characteristics, producing responses indistinguishable from authentic elderly conversation.  
 - [Finding 2] Reconstruction quality measured by the cVAE is on par with raw I‑CONECT data, indicating high fidelity to original inputs.  

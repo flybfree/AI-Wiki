@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper asks whether large‑scale audio foundation models encode evolutionary information that is not present in their training labels. By applying four state‑of‑the‑art embeddings to species vocalizations from two independent radiations (cetaceans and birds), the authors show that these models recover strong phylogenetic distances without any domain‑specific pretraining, suggesting that the benefit of such pretraining is limited.
 
+## Semantic links
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 6 title terms overlap; 3 backlinks; 6 summary/topic terms overlap
+- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 3 backlinks; 5 summary/topic terms overlap
+- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 6 title terms overlap; 6 summary/topic terms overlap; semantic match 0.14
+
 ## Key Contributions  
 - **Finding 1:** General‑purpose audio foundation models (CLAP, BEATs‑bio, AST) recover high phylogenetic signal for 32 cetacean species and 20 bird species, with correlation coefficients r≈0.82 (p<0.001).  
 - **Finding 2:** The signal persists after reducing embeddings to 105 dimensions and after controlling for dominant frequency, indicating it is not an artifact of dimensionality or merely pitch‑based.  

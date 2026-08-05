@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of extracting product attributes from sparse, weakly expressed text using generative information‑extraction (IE) models, which are especially valuable in domains such as the digital product passport where labeled data is scarce. By integrating a pre‑trained language model (PLM) block into a two‑step validation pipeline, the authors propose a method that leverages LLMs’ strong correction ability to improve extraction quality. Their experiments show measurable gains for low‑salience entities and even parity between mid‑size and larger models, while smaller open‑source LLMs see only modest benefits. The work demonstrates how this two‑step validation can be deployed locally, supporting privacy‑preserving DPP applications.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-30_17-05-20Z_ScaFE_Data_EfficientScarClassificationwithL_summary.md|Summary: 2026-07-30_17-05-20Z_ScaFE_Data_EfficientScarClassificationwithLLM_Gene.md]] — 3 title terms overlap; 16 summary/topic terms overlap; semantic match 0.12
+- [[concepts/papers/2026-07-23_21-41-10Z_TLRNet_EstimatingIndividualTreatmentEffectb_summary.md|Summary: 2026-07-23_21-41-10Z_TLRNet_EstimatingIndividualTreatmentEffectbasedonL.md]] — 3 title terms overlap; 15 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - [Finding 1] A two‑step validation framework that embeds a PLM block into the generative IE pipeline markedly improves extraction of weakly expressed, low‑salience entities.  
 - [Finding 2] Mid‑size language models can achieve performance levels comparable to larger models after applying the two‑step validation, highlighting the method’s scalability.  

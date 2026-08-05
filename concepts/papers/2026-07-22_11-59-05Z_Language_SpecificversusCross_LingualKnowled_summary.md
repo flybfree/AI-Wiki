@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates how to identify implicit aspects in Arabic text using knowledge graphs, comparing language‑specific native KG versus cross‑lingual English KG within a hybrid pipeline. It evaluates two adaptation strategies for an LLM extractor: zero‑shot prompting and task‑specific fine‑tuning of an 8B‑parameter model. The study uses three Arabic benchmarks to measure performance differences. The goal is to determine which knowledge graph and adaptation approach yields better implicit aspect identification.  
 
+## Semantic links
+- [[concepts/papers/2026-08-04_07-03-05Z_Structure_AwareRobustFine_Tuning_DefendingV_20260804_2233_summary.md|Summary: 2026-08-04_07-03-05Z_Structure_AwareRobustFine_Tuning_DefendingVision_L.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
+- [[concepts/papers/2026-06-21_16-44-20Z_Text2DSL_LLM_BasedCodeGenerationforDomain_S_summary.md|Summary: 2026-06-21_16-44-20Z_Text2DSL_LLM_BasedCodeGenerationforDomain_Specific.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.09
+- [[concepts/papers/2026-08-04_07-03-05Z_Structure_AwareRobustFine_Tuning_DefendingV_summary.md|Summary: 2026-08-04_07-03-05Z_Structure_AwareRobustFine_Tuning_DefendingVision_L.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.06
+
 ## Key Contributions  
 - [Finding 1] Native Arabic KG outperforms the cross‑lingual English KG by +0.199 micro‑F1 on M‑ABSA and +0.251 on SemEval‑2016, improving both precision and recall.  
 - [Finding 2] Task‑specific fine‑tuning of an 8B‑parameter LLM raises explicit‑extraction micro‑F1 from ≤ 0.13 (zero‑shot) to 0.66–0.76 on M‑ABSA and SemEval‑2016, while HAAD improves to 0.45.  

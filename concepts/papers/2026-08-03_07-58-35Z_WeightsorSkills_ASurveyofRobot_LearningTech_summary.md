@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper surveys robot‑learning techniques that differ on the axis of “weights” versus “skills,” contrasting models that store competence in frozen parameters with agents that generate and improve executable code. Its primary contribution is a taxonomy that classifies self‑improving skill methods by their degree of closed‑loop learning, from zero‑shot synthesis to fully adaptive loops, while also mapping the broader “skill” landscape used in unsupervised RL and large‑language‑model libraries. The authors provide operational definitions for each self‑improvement mechanism and highlight a sparsely populated region where execution feedback, skill memory, and evolutionary search converge. This focused analysis reveals open challenges such as adaptation, portability, safety verification, and standardisation in the emerging skill economy.
 
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — 3 title terms overlap; 10 backlinks; 4 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 12 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: A comprehensive taxonomy that orders code‑as‑policy methods by their self‑improvement capability, distinguishing zero‑shot synthesis, closed‑loop repair, persistent memory, and an open‑ended loop.  
 - Finding 2: Identification of the five distinct senses in which “skill” is used across robotics literature, emphasizing that only the code sense improves without gradient updates.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper addresses the limitation of single‑cell perturbation atlases that rarely capture every intervention across all cellular contexts, leading to incomplete or misleading cross‑context analyses. By ignoring measured responses in recipient contexts, researchers discard valuable experimental evidence; by blindly copying them, they risk propagating erroneous signals. The authors propose **PerturbMap**, a method that predicts missing recipient‑context perturbation effects while preserving query‑specific information from source measurements. Their approach leverages low‑rank representations of the data and ridge‑expert fitting on paired perturbations to generate calibrated transfer proposals.
 
+## Semantic links
+- [[concepts/papers/2026-08-03_09-42-34Z_ET_Prune_Evidence_AwareDynamicBudgetingforV_20260804_0040_summary.md|Summary: 2026-08-03_09-42-34Z_ET_Prune_Evidence_AwareDynamicBudgetingforVisualTo.md]] — 3 title terms overlap; 8 summary/topic terms overlap; semantic match 0.08
+- [[concepts/papers/2026-07-28_21-20-52Z_FloDR_Aninvertibledimensionalityreductionme_summary.md|Summary: 2026-07-28_21-20-52Z_FloDR_Aninvertibledimensionalityreductionmethodbas.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.07
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; 1 backlink; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - PerturbMap provides a principled, context‑aware prediction of missing single‑cell perturbation responses that improves full‑effect mean squared error (MSE) by 4.1 % over a recipient‑local low‑rank baseline.  
 - The method consistently outperforms several standard transfer strategies—FedAvg, zero‑response handling, raw copy, calibrated copy, and identity‑shuffled affine transformations—in the Perturb‑CITE‑seq melanoma cohort.  

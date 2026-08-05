@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper argues that hypergraph‑based retrieval‑augmented generation (RAG) systems can outperform conventional binary‑graph approaches by modeling n‑ary atomic facts among entities, yet current implementations restrict themselves to unimodal, text‑only pipelines and ignore the visual strengths of modern multimodal large language models. To bridge this gap, the authors introduce VizRAG, the first RAG framework that integrates hypergraph structures as visual cues into the retrieval‑augmented generation workflow. By allowing the model to perceive both textual and graphical representations of complex fact networks, VizRAG aims to unlock richer information access while preserving the benefits of graph‑structured knowledge. This work demonstrates a concrete path toward truly multimodal knowledge grounding.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 5 title terms overlap; 54 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Hypergraph‑based RAG systems achieve higher factual coverage than binary‑graph baselines because they can encode multiple entities per fact, reducing redundancy and improving recall.  
 - [Finding 2] Embedding hypergraphs as visual representations into the retrieval pipeline yields a measurable boost in both retrieval relevance and generation quality compared with text‑only methods.  

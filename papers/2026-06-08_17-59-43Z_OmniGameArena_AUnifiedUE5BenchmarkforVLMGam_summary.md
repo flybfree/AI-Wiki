@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Vision‑language model (VLM) agents are being deployed in interactive games, yet existing benchmarks report only a single cold‑start score per (agent, game) pair, ignore multiplayer dynamics, and treat all agent classes as equivalent. OmniGameArena addresses these gaps by creating a real‑time benchmark of twelve Unreal Engine 5 games that span Solo, PvP, and Coop playstyles with a common action interface. The authors also introduce the Improvement Dynamics Curve (IDC), an agentic‑reflection harness that lets a tool‑using LLM iteratively refine a bounded skill prompt across multiple rounds, thereby exposing how scores evolve and how learned skills generalize to new tasks.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A unified UE5 benchmark that evaluates twelve distinct games under a single action interface, enabling fair comparison of commercial VLMs, open‑weight VLMs, and specialized game policies.  
 - [Finding 2] The Improvement Dynamics Curve (IDC), an autonomous reflection loop where a tool‑using LLM refines a bounded skill prompt over several rounds to measure skill acquisition dynamics.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles multi‑stakeholder LLM alignment, where a single output must satisfy users with conflicting preferences. It demonstrates that aggregating utility estimates introduces “weighting noise” that can cause large score shifts, especially as the number of stakeholders grows. The authors introduce **DecompR**, a method that separates utility estimation from aggregation to eliminate this instability.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Aggregation‑specific weighting noise creates large score shifts in multi‑stakeholder tasks.  
 - [Finding 2] This weight‑induced volatility increases with the number of stakeholders involved.  

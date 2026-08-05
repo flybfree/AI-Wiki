@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper challenges the prevailing assumption that the unreliability of autonomous software-engineering agents stems primarily from limitations in foundation model capabilities. Instead, the authors argue that software engineering competence is an emergent property of a broader system comprising the model, its runtime environment, and a mediating substrate known as the "harness." By formalizing this substrate, the work shifts the focus from raw model output to the structural integrity of the agent's interaction with its development environment. The authors propose a comprehensive framework that defines eleven critical responsibilities for this harness and introduces a tiered system to progressively enhance agent support. Ultimately, the research reframes the central challenge of autonomous coding from generating patches to producing verifiable, attributed, and maintainable changes through a robust system architecture.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLL_summary.md|Summary: 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvi_summary.md|Summary: 2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions
 - The authors identify and formalize eleven distinct component responsibilities that constitute the AI Harness, including task specification, context selection, project memory, and entropy auditing, which are essential for reliable agent operation.
 - They introduce a four-level ladder (H0-H3) that categorizes the degree of runtime support exposed to the agent, demonstrating how increased harness sophistication leads to more auditable and verifiable outcomes.

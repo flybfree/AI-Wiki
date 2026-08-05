@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper proposes a systematic method for identifying language areas independent of expert‑defined macroareas, using geographical clustering to produce arbitrary‑size groupings that align with existing typological regions and local Sprachbunds. It aims to address autocorrelation in linguistic typology by separating universal from local properties. By moving beyond continental macroareas, the study offers a scalable approach for any region.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_17-34-26Z_DysphagiaRiskStratificationinHeadandNeckCan_summary.md|Summary: 2026-07-24_17-34-26Z_DysphagiaRiskStratificationinHeadandNeckCancerviaT.md]] — 3 title terms overlap; 1 backlink; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_15-04-26Z_GlobalOptimizationandInference_TimeRegionGr_20260804_0042_summary.md|Summary: 2026-08-03_15-04-26Z_GlobalOptimizationandInference_TimeRegionGraftingf.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.09
+
 ## Key Contributions  
 - The authors develop a simple geographical clustering method that generates worldwide macroareas of variable size.  
 - Their clusters largely align with established typological macroareas and capture known Sprachbund phenomena.  

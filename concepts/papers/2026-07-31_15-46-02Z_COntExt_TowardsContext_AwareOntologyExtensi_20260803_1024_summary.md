@@ -8,6 +8,11 @@ Model: None
 ## Summary
 The paper introduces COntExt, a novel framework designed to automate the extension of formal ontologies by leveraging structured operational metrics as a rich source of contextual information. Recognizing that metric definitions often contain implicit domain knowledge regarding concepts, properties, and relationships that are not currently captured in existing ontologies, the authors propose a method to bridge this gap without manual intervention. The primary goal is to reduce the labor-intensive nature of ontology engineering by treating operational metric catalogues as a practical and underexploited resource for maintaining up-to-date semantic models. By integrating these metrics, COntExt aims to provide accurate suggestions for how new or existing elements should be integrated into an ontology, thereby enhancing the scalability and relevance of knowledge graphs in dynamic environments.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions
 - The development of COntExt, a framework that utilizes the context of structured operational metrics to suggest ontology extensions, specifically addressing parent class prediction, relation type prediction, and data property assignment.
 - Empirical evidence demonstrating that metric-derived context significantly improves the accuracy of suggestions for relation type prediction and data property assignment compared to traditional ontology-context baselines.

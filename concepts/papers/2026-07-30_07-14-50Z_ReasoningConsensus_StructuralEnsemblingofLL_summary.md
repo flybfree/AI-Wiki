@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Large Language Models (LLMs) generate chain‑of‑thought reasoning that is hidden within unstructured prose, making it difficult for users to assess which steps are reliable or how the conclusion relates to discarded alternatives. This paper introduces **Reasoning Consensus**, a framework that treats the *structure* of reasoning rather than just the final answer as the unit of aggregation. By extracting Directed Acyclic Graphs (DAGs) from multiple LLM chains and merging them with weights proportional to independent attestations, the method produces an inspectable “Consensus Reasoning” graph that surfaces the most supported steps across models. The approach not only improves accuracy on high‑stakes benchmarks but also provides a transparent view of which reasoning paths are preferred over the majority‑vote answer.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-24_21-32-48Z_NotAllLLMReasoningisVisibleintheChain_of_Th_summary.md|Summary: 2026-07-24_21-32-48Z_NotAllLLMReasoningisVisibleintheChain_of_Thought.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.14
+
 ## Key Contributions  
 - [Finding 1] A novel **weighted DAG aggregator** that combines the reasoning structures of several LLMs, assigning each node weight based on how many independent traces confirm it.  
 - [Finding 2] Demonstrated a **maximum accuracy gain of 3.1 %** over a matched‑budget majority‑vote baseline on narrative multi‑hop reasoning (MuSR‑MM), with gains across six diverse datasets.  

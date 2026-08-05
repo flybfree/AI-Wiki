@@ -15,6 +15,11 @@ Source: 2026-04-28_17-39-14Z_ThreeModelsofRLHFAnnotation_Extension_Evidence_and.
 ## Summary
 Argues that RLHF annotations play three distinct normative roles: extension, evidence, and authority. The paper analyzes how those roles affect solicitation, validation, and aggregation, and recommends separating annotation dimensions instead of forcing a single unified pipeline.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 2 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines_summary.md|Summary: 2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Makes the normative role of annotator judgments explicit.
 - Surveys RLHF and related methods through the three-model lens.

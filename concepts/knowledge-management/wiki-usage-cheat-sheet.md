@@ -12,11 +12,16 @@ confidence: high
 
 **Source**: [GitHub Wiki](https://github.com/flybfree/AI-Wiki/wiki)
 
+## Semantic links
+- [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — 1 title term overlap; shared tags: knowledgemanagement, logseq, navigation; 4 backlinks
+- [[concepts/knowledge-management/page-templates.md|Page Templates for the AI Research Wiki]] — 1 title term overlap; shared tags: knowledgemanagement, logseq, navigation; 4 backlinks
+- [[concepts/knowledge-management/ai-research-concept-map.md|AI Research Concept Map]] — shared tags: navigation; 3 backlinks; 1 summary/topic term overlap
+
 ## What goes where
 
 | Page type | Folder | Use for | Rules |
 |---|---|---|---|
-| Concepts | `concepts/` | Durable explanations of ideas | Write for reuse, not one-off source notes |
+| Concepts | `concepts/` | Durable explanations of ideas | Write for reuse, not one-off source notes | Semantic links should point here first |
 | Article summaries | `entities/article/` | Source-specific article takeaways | Include a visible **Source** link in the body |
 | Paper notes | `papers/` | Academic paper analysis | Include a visible **Original Paper** link |
 | Summary pages | `summaries/` or `_summary.md` | Generated or derived summaries | Prefix visible titles with `Summary:` when needed |
@@ -46,4 +51,4 @@ confidence: high
 
 ## One-line rule
 
-**Author in the local wiki, publish to GitHub, mirror curated pages to logseq-brain for graph use, back up via SMB, and use PRISM only as a fast Logseq mirror.**
+**Author in the local wiki, publish to GitHub, mirror curated pages to logseq-brain for graph use, back up via SMB, and use PRISM only as a fast Logseq mirror. Semantic links should identify concepts first; structural links should follow.**

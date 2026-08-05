@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper introduces RSIBench‑Data, a controlled benchmark that evaluates whether large language model agents can perform data‑centric research to improve themselves recursively. The benchmark isolates the research loop—diagnosing capability gaps and refining training‑data strategies—from serving, evaluation, and system implementation by fixing the post‑training stack, budgets, and sandbox environments. Agents repeatedly propose and test new data‑collection or curation approaches for a target model, using automated services (Tinker) and official evaluations (Harbor/E2B). The study shows that while agents can improve upon their first valid attempt in roughly 58 % of cases, many later revisions degrade performance, revealing an inconsistent ability to translate feedback into steady gains.  
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - RSIBench‑Data provides a reproducible benchmark for data‑centric post‑training research with fixed resources and evaluation pipelines.  
 - Agents improve in 58.33 % of settings but often end with lower scores after the best attempt, indicating inconsistent feedback utilization.  

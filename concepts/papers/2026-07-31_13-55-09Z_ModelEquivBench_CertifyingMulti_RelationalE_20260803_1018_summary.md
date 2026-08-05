@@ -8,6 +8,11 @@ Model: None
 ## Summary
 This paper introduces ModelEquivBench, a novel evaluation framework designed to address the limitations of current binary or coarse-grained metrics used to assess Large Language Models (LLMs) in generating optimization models. The authors argue that existing methods fail to capture the nuanced semantic differences between generated formulations and ground truth by reducing complex relationships to simple equivalence verdicts. To resolve this, they propose a certifying system that provides a detailed, multi-relational semantic profile for each model pair, ranging from structural alignment to optimal value equality. This approach allows for independent verification of specific relations rather than relying on opaque execution success rates.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions
 - The development of ModelEquivBench, a comprehensive evaluation system that decomposes model equivalence into seven distinct, independently checkable semantic relations (E0–E6), providing granular insight into where LLM-generated models succeed or fail.
 - The implementation of a rigorous certification mechanism that utilizes replayable traces, exact-rational certificates, and explicit witnesses to validate positive conclusions while clearly identifying unsupported structures or resource limits as UNKNOWN or ABSENT, thereby eliminating guesswork in evaluation.

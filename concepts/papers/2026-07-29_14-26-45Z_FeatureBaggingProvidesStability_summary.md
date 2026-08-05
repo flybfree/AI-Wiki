@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates feature bagging as a technique that can enhance the stability of ensemble learners by aggregating models trained on randomly subsampled subsets of features, possibly in a data‑dependent way. By introducing the concept of feature instability (FI), which quantifies how sensitive a model is to the removal of an individual feature, the authors aim to provide formal guarantees that bagging improves this stability relative to non‑bagged training. Their analysis spans both parametric linear models and a model‑free setting inspired by random forests, showing that bagging yields larger gains under aggressive subsampling and can approach infinite‑bagging stability with only a modest number of rounds.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Feature instability (FI) is defined as the analogue of instance instability (II), measuring sensitivity to dropping a single feature; smaller FI values correspond to stronger stability.  
 - [Finding 2] Formal analysis demonstrates that feature bagging improves the relevant stability metric in both parametric linear and model‑free settings, with improvements scaling up under more aggressive subsampling.  

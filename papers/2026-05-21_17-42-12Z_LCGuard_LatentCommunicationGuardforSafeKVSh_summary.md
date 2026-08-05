@@ -16,6 +16,11 @@ Model: None
 ## Summary
 The paper addresses the critical security vulnerability inherent in Large Language Model (LLM) multi-agent systems that utilize Key-Value (KV) cache sharing for efficient latent communication. While KV sharing enhances computational efficiency and preserves rich contextual information, it inadvertently creates an opaque channel through which sensitive, agent-specific data can leak across system boundaries without explicit textual disclosure. To mitigate this risk, the authors introduce LCGuard, a novel framework that treats shared KV caches as latent working memory and applies representation-level transformations to sanitize the data before transmission. By employing an adversarial training approach where an adversary attempts to reconstruct sensitive inputs from the cache, LCGuard learns to preserve task-relevant semantics while minimizing reconstructable information, thereby ensuring safe inter-agent communication.
 
+## Semantic links
+- [[concepts/papers/2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDiffere_summary.md|Summary: 2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDifferentially.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionM_summary.md|Summary: 2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions
 - The formalization of representation-level sensitive information leakage as a reconstruction problem, establishing a clear operational definition for unsafe KV cache artifacts in multi-agent contexts.
 - The development of LCGuard, an adversarial training framework that dynamically learns transformations to decouple sensitive agent-specific data from task-relevant semantic content within shared KV caches.

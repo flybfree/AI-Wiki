@@ -16,6 +16,11 @@ Model: qwen3.6:35b
 ## Summary
 This paper investigates the theoretical limits and practical methods of learning complex tasks using Chain-of-Thought (CoT) supervision provided by multiple, potentially diverse thinkers. The authors focus on scenarios where CoT data is crucial for learning—tasks that are difficult to learn solely from final end-results. They establish a cryptographic result showing that in passive settings, learning can be computationally hard even with CoT traces from only a few different sources. Conversely, they introduce an efficient active learning algorithm that achieves high accuracy using minimal CoT data per thinker and moderate amounts of general end-result supervision.
 
+## Semantic links
+- [[concepts/papers/2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandA_summary.md|Summary: 2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandAttribut.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions
 1. **Security Bound on Multiple Thinkers:** They establish that under cryptographic assumptions, learning can be computationally hard (in passive settings) even when provided with Chain-of-Thought traces from two or a few different thinkers.
 2. **Efficient Active Learning Algorithm:** They propose a generic and computationally efficient active learning algorithm for CoT supervision. This method achieves high accuracy ($\varepsilon$) while requiring minimal data scaling that is independent of the target accuracy $\varepsilon$.

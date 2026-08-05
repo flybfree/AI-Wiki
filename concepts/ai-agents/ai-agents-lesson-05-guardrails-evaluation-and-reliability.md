@@ -9,6 +9,11 @@ tags: [lesson, agents, safety, evaluation]
 
 **Source**: [Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio](https://arxiv.org/abs/2606.17041) · [A Survey on Evaluation of LLM-based Agents](https://arxiv.org/html/2503.16416v2) · [Evaluation and Benchmarking of LLM Agents: A Survey](https://arxiv.org/html/2507.21504v1) · [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/)
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|AI/ML Foundations Lesson 15 - Evaluation, Overfitting, and Limits]] — 3 title terms overlap, shared tags: evaluation, lesson, 3 topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-13-agents-and-agentic-workflows.md|AI/ML Foundations Lesson 13 - Agents and Agentic Workflows]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
+
 ## Lesson goal
 Learn how to keep an agent useful without letting it run wild.
 

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes a new framework called Collaboration Policy Tree (Co‑pi‑tree) that converts the opaque reasoning of large language models into an interpretable policy tree for human‑AI collaboration. By distilling LLM inference into a closed‑loop policy consisting of a partner‑behavior prediction branch and an agent‑action selection branch, Co‑pi‑tree reduces reliance on costly per‑step LLM queries while preserving the model’s reasoning quality. The approach is evaluated in the Overcooked‑AI benchmark, where it achieves a 35.4 % boost in average reward over a baseline, cuts LLM queries by 77.7 %, and halves test‑time latency to 2.9 %. This work demonstrates that interpretable policy trees can be both efficient and effective for collaborative AI systems.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetan_summary.md|Summary: 2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Co‑pi‑tree learns an executable policy tree from LLM reasoning, separating partner behavior prediction from agent action selection.  
 - [Finding 2] The method improves average reward by 35.4 % compared with the baseline in Overcooked‑AI.  

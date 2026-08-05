@@ -71,6 +71,11 @@ A bar chart (Fig. 2) illustrates the distribution of BLEU scores across task d
 
 *In sum, this systematic comparison equips researchers and practitioners with a balanced view of the strengths and weaknesses of TerraMind and THOR. The findings guide future design choices where conversational AI must prioritize either deep semantic understanding or rapid, resource‑constrained response.*
 
+## Semantic links
+- [[concepts/papers/2026-07-22_08-29-06Z_DefenseAgainstLLMBackdoorsusingCriticalNeur_summary.md|Summary: 2026-07-22_08-29-06Z_DefenseAgainstLLMBackdoorsusingCriticalNeuronIsola.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.33
+- [[concepts/papers/2026-07-31_12-59-06Z_TheGreedyAdvantageinFinite_HorizonBandits_20260803_0857_summary.md|Summary: 2026-07-31_12-59-06Z_TheGreedyAdvantageinFinite_HorizonBandits.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.29
+- [[concepts/papers/2026-07-31_12-59-06Z_TheGreedyAdvantageinFinite_HorizonBandits_20260803_0950_summary.md|Summary: 2026-07-31_12-59-06Z_TheGreedyAdvantageinFinite_HorizonBandits.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.29
+
 ## Related Concepts
 
 - [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation Benchmarks Hub]]

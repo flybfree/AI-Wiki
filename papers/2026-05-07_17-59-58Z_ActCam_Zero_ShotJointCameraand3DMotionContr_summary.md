@@ -16,6 +16,11 @@ Model: None
 ## Summary  
 ActCam is a zero-shot method for video generation that jointly controls both character motion and camera trajectory in artistic applications, enabling precise cinematographic control without training. The core innovation lies in its two-phase conditioning strategy, which first enforces geometric consistency using pose and sparse depth across frames, then refines high-frequency details with pose-only guidance to avoid over-constraining the diffusion process. This approach allows seamless transfer of character motion from a source video into a new scene while adapting camera motion dynamically. The method is designed to work with any pretrained image-to-video diffusion model conditioned on scene depth and character pose, making it highly flexible for diverse use cases.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffus_summary.md|Summary: 2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+- [[concepts/papers/2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThe_summary.md|Summary: 2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThey_reont.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] ActCam enables zero-shot joint control of both character motion and camera trajectory in video generation by leveraging a two-phase conditioning schedule that maintains geometric consistency across frames.  
 - [Finding 2] The method improves camera adherence and motion fidelity compared to pose-only or other pose-and-camera control techniques, particularly under large viewpoint changes where previous methods fail.  

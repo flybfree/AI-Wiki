@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Urdu remains an underexplored language in the field of large language models due to scarce resources and fragmented evaluation settings. To bridge this gap, the authors introduce DunbaaBERT, a family of Urdu RoBERTa‑base models trained from scratch with Byte‑BPE vocabularies ranging from 32 k to 96 k tokens on a deduplicated 17 GB corpus. The model is evaluated across both intrinsic linguistic acceptability tasks and downstream applications such as news classification, offensive language detection, and sentiment analysis. Our experiments reveal that larger vocabularies do not uniformly boost performance, while the 32 k variant delivers the best efficiency‑effectiveness balance.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemo_summary.md|Summary: 2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - DunbaaBERT achieves competitive performance against strong multilingual baselines on a suite of Urdu NLP benchmarks.  
 - Larger Byte‑BPE vocabularies do not consistently improve downstream effectiveness; the 32 k variant often outperforms larger ones in efficiency.  

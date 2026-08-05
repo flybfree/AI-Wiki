@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of estimating hourly traffic volumes in road networks when sensor coverage is sparse, which limits conventional propagation‑based methods. It introduces a link‑level deep learning framework that leverages widely available territorial data—including probe speed profiles, road and topological descriptors, and weather observations—to generate forecasts without relying on dense measurements. The core innovation is a capacity‑aware formulation that treats traffic volume as the product of a link‑specific structural capacity and an hourly utilization ratio, thereby embedding traffic theory directly into the learning process. This approach is evaluated under both intra‑network (unseen links within the training network) and inter‑network (unseen city) generalization scenarios.
 
+## Semantic links
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] A supervised local mapping that predicts hourly traffic volumes from sparse sensor measurements using only territorial descriptors, probe speed profiles, road topology, and weather data.  
 - [Finding 2] A capacity‑aware formulation that models volume as the product of a structural capacity (derived from link geometry) and an hour‑specific utilization ratio, enforcing traffic‑theoretic constraints throughout training.  

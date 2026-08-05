@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper tackles the challenge of inducing exploration in post‑trained large language models (LLMs) during reinforcement learning, where the high‑dimensional action space is limited by prompt constraints. It introduces Instruction‑Conditioned Exploration (ICE), which injects a variety of instruction prompts at training time to broaden behavioural coverage, and pairs it with an Asymmetric‑RL/SD objective that self‑distills learned experiences into an unconditioned test‑time policy. The combined method improves quantitative performance on mathematical reasoning tasks for Qwen3-1.7B by 5 % relative to the DAPO baseline and retains this gain up to an 8K response length, demonstrating a robust trade‑off between exploration and task accuracy.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 14 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - ICE injects multiple instruction prompts during training to systematically explore diverse behaviours.  
 - Asymmetric‑RL/SD objective transfers learned experiences from conditioned to unconditioned test‑time policy via self‑distillation.  

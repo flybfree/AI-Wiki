@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper tackles the problem of minimizing queue‑length regret in contextual queueing bandits, where the goal is to schedule heterogeneous jobs under unknown service rates. Existing algorithms achieve a \(\widetilde{\mathcal{O}}(T^{-1/4})\) regret bound, but the authors show that this can be improved to \(\widetilde{\mathcal{O}}(T^{-1/2})\). They introduce CQB‑η‑2, a three‑phase algorithm that combines pure random exploration, η‑random exploration with UCB, and pure UCB after a carefully chosen cutoff round. The work also establishes a matching minimax lower bound of order \(Ω(T^{-1/2})\), thereby characterizing the optimal dependence on horizon \(T\) up to logarithmic factors.
 
+## Semantic links
+- [[concepts/papers/2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarc_summary.md|Summary: 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+- [[concepts/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing_summary.md|Summary: 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Achieves an upper‑bound queue length regret of \(\widetilde{\mathcal{O}}(T^{-1/2})\) for contextual queueing bandits.  
 - [Finding 2] Proposes CQB‑η‑2, a three‑phase algorithm that uses pure random exploration up to a cutoff, η‑random exploration with UCB thereafter, and then pure UCB.  

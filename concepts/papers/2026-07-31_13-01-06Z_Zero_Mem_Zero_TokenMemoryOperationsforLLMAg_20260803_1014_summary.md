@@ -8,6 +8,11 @@ Model: None
 ## Summary
 The paper introduces Zero-Mem, a novel framework designed to eliminate the recurring token and latency costs associated with traditional memory operations in Large Language Model (LLM) agents. By decoupling memory management from generative processes, Zero-Mem ensures that no LLM calls or token consumption occur during the retrieval phase, reserving computational resources exclusively for the final question-answering step. The system achieves this by organizing raw interaction traces into two complementary structures: an entity-context graph for cross-interaction connectivity and a temporal hierarchy for preserving conversational locality. This approach allows agents to maintain consistent behavior over long interactions without the overhead of generating intermediate memory records, thereby offering a more efficient and faithful alternative to existing memory-augmented LLM architectures.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 12 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions
 - The proposal of "zero-token memory operations," a paradigm where memory access is entirely deterministic and non-generative, effectively removing LLM inference costs from the memory retrieval pipeline.
 - The development of a dual-view indexing system that combines an entity-context graph with a temporal hierarchy, enabling precise retrieval of both relational connections and contextual locality without loss of original evidence.

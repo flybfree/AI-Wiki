@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 TerraZero is a novel procedural driving simulator that enables large‑scale reinforcement‑learning training without any human demonstrations or fallback planners. By generating an unbounded set of road scenarios from real‑world map geometry and randomizing traffic rules, agents, rewards, and dynamics each episode, the system creates a diverse “long tail” of situations that logged data rarely cover. The authors claim to be the first fully learned driving policy that simultaneously excels on safety‑critical benchmarks (e.g., InterPlan long‑tail) and realism tests (Waymo Open Sim Agents). This work demonstrates that autonomous driving can be trained at scale using only self‑play, opening a path toward zero‑shot generalization across cities and datasets.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - **Ultra‑fast simulation**: TerraZero runs at 1.3 million agent steps per second on a single server‑grade GPU via a zero‑copy CPU/GPU pipeline, far outpacing existing object‑level simulators.  
 - **Procedural diversity without human data**: The simulator treats logged maps as geometry sources and injects randomized rule‑based road users, signal controllers, agent dynamics, rewards, and sizes per episode, producing an infinite variety of scenarios that cover safety‑critical long‑tail cases.  

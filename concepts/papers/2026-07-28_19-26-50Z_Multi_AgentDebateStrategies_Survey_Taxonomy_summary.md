@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 This paper conducts a systematic literature review of 141 primary studies on Multi‑Agent Debate (MAD) to address the fragmented state of research in improving LLM‑based agentic systems through structured argument exchange. The authors introduce a three‑dimensional taxonomy that formalizes debate participants, interaction mechanisms, and agreement protocols, providing notation for MAD configurations and highlighting the prevalence of static, fully connected topologies with verbatim exchange and voting resolution. By exposing this narrow design pattern and its implications for cross‑study comparison, the work aims to serve as a descriptive map, benchmarking framework, and potential schema for machine‑readable MAD specifications.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
+- [[concepts/papers/2026-07-20_12-38-50Z_AClassifierThatTeachesItself_Self_Improving_summary.md|Summary: 2026-07-20_12-38-50Z_AClassifierThatTeachesItself_Self_Improving_Frozen.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.02
+
 ## Key Contributions  
 - [Finding 1] The taxonomy isolates three core dimensions—participants, interaction mechanisms, agreement protocols—to systematically characterize MAD studies.  
 - [Finding 2] Empirical analysis shows that static fully connected topologies with verbatim exchange and short‑term memory voting dominate the literature, rendering cross‑study comparisons unreliable when these choices are implicit.  

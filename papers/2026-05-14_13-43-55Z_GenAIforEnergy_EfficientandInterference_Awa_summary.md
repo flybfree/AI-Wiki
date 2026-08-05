@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical challenge of real-time Global Navigation Satellite System (GNSS) interference detection in power-constrained environments by introducing a novel hardware-centric approach. The authors propose a system that utilizes Generative Artificial Intelligence (GenAI), specifically Variational Autoencoders (VAEs), to simultaneously compress and classify jamming and spoofing signals directly at the receiver hardware. By deploying these models on Google Edge Tensor Processing Units (TPUs) with 8-bit quantization, the method significantly reduces the energy consumption and data transmission costs associated with traditional cloud-based post-processing methods. The study demonstrates that this architecture can achieve high compression ratios while maintaining classification accuracy that closely matches that of original, uncompressed signals.
 
+## Semantic links
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Contributions
 - The development of a novel pipeline that integrates data compression and interference classification in real-time using VAEs on Google Edge TPUs, enabling efficient deployment in power-limited GNSS receivers.
 - The successful adaptation of large-scale autoencoder architectures for edge hardware through 8-bit quantization, achieving a compression ratio exceeding 42x without significant loss in classification performance.

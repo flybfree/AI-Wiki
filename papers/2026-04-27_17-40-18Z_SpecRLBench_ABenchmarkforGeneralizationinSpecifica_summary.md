@@ -15,6 +15,11 @@ Source: 2026-04-27_17-40-18Z_SpecRLBench_ABenchmarkforGeneralizationinSpecifica.
 ## Summary
 Introduces SpecRLBench, a benchmark for evaluating how specification-guided reinforcement learning methods generalize to unseen linear-temporal-logic specifications and diverse environments. It spans navigation and manipulation across static and dynamic settings, and the experiments show that current methods degrade as specification and environment complexity increase.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLL_summary.md|Summary: 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing_summary.md|Summary: 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+
 ## Key Takeaways
 - Targets generalization rather than only in-distribution task success.
 - Includes multiple difficulty levels, domains, and observation modalities.

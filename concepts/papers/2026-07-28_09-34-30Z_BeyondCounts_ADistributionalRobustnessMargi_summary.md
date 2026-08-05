@@ -37,6 +37,11 @@ Pathology foundation models (e.g., pathology‑GPT, PathNet) have achieved impre
 
 ---
 
+## Semantic links
+- [[concepts/papers/2026-07-27_23-03-30Z_ScalableRAG_High_QualityRAGatZeroIngestionC_summary.md|Summary: 2026-07-27_23-03-30Z_ScalableRAG_High_QualityRAGatZeroIngestionCost.md]] — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.04
+- [[concepts/papers/2026-08-03_19-01-30Z_AUnified2DFrameworkforDeepLesionDetection_S_summary.md|Summary: 2026-08-03_19-01-30Z_AUnified2DFrameworkforDeepLesionDetection_Segmenta.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.13
+- [[concepts/papers/2026-07-31_16-18-30Z_TOOD_Task_AwareOut_of_DistributionScoreCali_20260803_1022_summary.md|Summary: 2026-07-31_16-18-30Z_TOOD_Task_AwareOut_of_DistributionScoreCalibration.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.12
+
 ## Key Contributions  
 
 | # | Contribution |

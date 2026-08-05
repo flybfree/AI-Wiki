@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 HealthClaw is a self‑evolving agent architecture designed to manage personal health longitudinally, treating each encounter in isolation as most current systems do. The system separates immutable safety rules and medical knowledge from private longitudinal memory that stores profile facts, reusable procedures, and episodic traces. After every episode an induction process decides whether the profile should be updated, a procedure revised, or the trace retained. This modular design enables continual personalization while preserving safety and privacy.
 
+## Semantic links
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 121 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - The separation of shared safety rules from private longitudinal memory yields a 45.7 % answer‑accuracy rate on longitudinal support probes compared with only 0.2 % using current‑query prompting.  
 - HealthClaw generates higher‑quality, privacy‑aware answers and produces fewer unsafe disclosures than both baselines in 100 privacy‑focused probes.  

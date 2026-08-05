@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Denoising Diffusion Probabilistic Models (DDPM) propose a generative framework that learns to reverse a gradual Gaussian‑noise addition process, allowing high‑quality image synthesis by iteratively denoising random noise rather than producing an image in one shot. This approach delivers greater stability, higher fidelity, and richer diversity compared with earlier GAN‑based methods.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionM_summary.md|Summary: 2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/generative-models/generative-models-hub.md|Generative Models Hub]] — 2 title terms overlap; 120 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - DDPM defines a probabilistic generative framework where the forward process adds Gaussian noise step‑by‑step and the reverse process learns to remove it.  
 - The model generates high‑fidelity images by iteratively denoising noisy representations over 100–1000 steps, achieving state‑of‑the‑art image quality.  

@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 The paper proposes OmniVerifier‑M1, a multimodal meta‑verifier that uses symbolic rationales such as bounding boxes instead of textual explanations to improve verification efficiency. It decouples the binary judgment and meta‑verification reinforcement learning objectives to achieve better performance. The system enables fine‑grained error localization and supports an agentic generation pipeline called M1‑TTS with dynamic region‑level self‑correction. This work advances reliable, interpretable multimodal verification for foundation models.
 
+## Semantic links
+- [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeStee_summary.md|Summary: 2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: Symbolic verifier outputs such as bounding boxes outperform textual explanations in meta‑verification, enabling efficient rule‑based reinforcement learning without model‑based auxiliary judges.  
 - Finding 2: Decoupling the binary judgment and meta‑verification reinforcement learning objectives yields superior results compared to joint reward optimization due to structural differences.  

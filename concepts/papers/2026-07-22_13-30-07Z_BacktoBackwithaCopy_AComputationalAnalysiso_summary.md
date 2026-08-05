@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether newer generative models are producing better pastiches of contemporary artworks and explores the consistency of multidimensional stylistic evaluation across different large language models (LLMs). It quantifies the similarity between AI‑generated pastiches and twelve original artworks using five complementary computer‑vision models that capture texture, color, semantics, composition, and perceptual features. The quantitative analysis shows improved semantic alignment and diversity for a newer model, albeit with modest degradation on shallow visual cues such as color and texture. These results are validated by feedback from the artists themselves.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 12 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The newer image‑generation model produces pastiches that exhibit greater semantic alignment and higher stylistic diversity compared to the previous model used in earlier work.  
 - [Finding 2] Artistic style is inherently multidimensional; its evaluation depends on high‑dimensional embedding spaces rather than any particular spatial architecture of the models.  

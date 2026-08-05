@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Full‑duplex speech models can listen and speak simultaneously, but their current training only maximizes token‑level likelihood, which leaves interaction problems such as excessive silence, poor turn‑taking, absent backchanneling, and inability to handle user interruptions. This paper proposes a post‑training reinforcement‑learning (RL) alignment method that tackles all four canonical axes of interactivity and adds an LLM‑based reward for response quality. By optimizing each axis with short audio segments from human conversations, the authors achieve a systematic improvement in conversational flow without degrading semantic content.
 
+## Semantic links
+- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 4 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+- [[concepts/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis_summary.md|Summary: 2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: A comprehensive post‑training RL framework that simultaneously optimizes pause handling, turn‑taking, backchanneling, and user interruption.  
 - Finding 2: Extraction of axis‑specific short audio segments from human conversation corpora to define tailored reward functions for each interactivity dimension.  

@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates procedural failures in agentic RAG where agents retrieve candidate snippets but do not inspect them before finalizing answers, describing this as a pre‑evidence discipline failure. It also identifies a second mode—post‑gold‑read failure—where the agent reads evidence yet still produces incorrect outputs. The authors propose a minimal runtime invariant called Read‑Gate that forces an agent to read retrieved evidence after search and before generating the final answer. Experiments on multiple QA datasets demonstrate that enforcing this reading step improves performance substantially.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-03_10-09-19Z_BeforeReasoningCanFail_Pre_EvidenceProcedur_summary.md|Summary: 2026-08-03_10-09-19Z_BeforeReasoningCanFail_Pre_EvidenceProceduralFailu.md]] — 4 title terms overlap; 30 summary/topic terms overlap; semantic match 0.46
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions  
 - Finding 1: The two failure types are largely non‑redundant, with both‑trigger rates in [11.2 %, 13.1 %] across regex and spaCy entity extractors.  
 - Finding 2: Forced reading via Read‑Gate boosts LLM‑Acc by 14.9–19.9 points on trajectories that would otherwise skip reading and by 3.2–9.4 points in full minimal‑reasoning cells.  

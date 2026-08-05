@@ -12,6 +12,11 @@ tags: [ai, agents, landing-page, course]
 This page is the entry point for a concept-first lesson series on AI agents.
 The goal is to start with the simplest definition, then build up the pieces that make agents useful in practice: harnesses, tools, planning, memory, retrieval, guardrails, and orchestration.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]] — 2 title terms overlap, shared tags: ai, course, landingpage, 2 topic terms overlap
+- [[concepts/ai-agents/ai-agents-syllabus.md|AI Agents Syllabus]] — 1 title term overlap, shared tags: agents, ai, course, 1 topic term overlap
+- [[concepts/ai-agents/ai-agents-course-map.md|AI Agents Course Map]] — 1 title term overlap, shared tags: agents, ai, 1 topic term overlap
+
 ## Course design
 - Keep the series concept-first and math-light
 - Start with the agent loop before naming frameworks

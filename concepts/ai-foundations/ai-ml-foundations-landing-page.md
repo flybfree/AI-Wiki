@@ -20,6 +20,11 @@ Use this page as the main entry point for the 16-lesson AI/ML Foundations course
 
 Each lesson page links to the previous and next lesson, so the course can be read as one integrated document.
 
+## Semantic links
+- [[concepts/ai-agents/ai-agents-landing-page.md|AI Agents Landing Page]] — 2 title terms overlap; shared tags: ai, course, landingpage; 2 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 1 title term overlap; shared tags: ai, foundations, machinelearning; 5 backlinks
+- [[concepts/ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]] — 1 title term overlap; shared tags: foundations, machinelearning; 2 backlinks
+
 ## Quick links
 - [[ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
 - [[ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]]

@@ -96,6 +96,11 @@ The RSI provides a transparent metric that can be embedded into clinical assessm
 
 *End of manuscript.*
 
+## Semantic links
+- [[concepts/papers/2026-07-31_03-12-09Z_BeyondFeatureandStructureAlignment_Learning_20260803_0206_summary.md|Summary: 2026-07-31_03-12-09Z_BeyondFeatureandStructureAlignment_LearningTransfe.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.28
+- [[concepts/papers/2026-07-31_03-12-09Z_BeyondFeatureandStructureAlignment_Learning_20260803_0229_summary.md|Summary: 2026-07-31_03-12-09Z_BeyondFeatureandStructureAlignment_LearningTransfe.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.28
+- [[concepts/papers/2026-07-31_03-12-09Z_BeyondFeatureandStructureAlignment_Learning_summary.md|Summary: 2026-07-31_03-12-09Z_BeyondFeatureandStructureAlignment_LearningTransfe.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.28
+
 ## Related Concepts
 
 - [[concepts/ai-agents/agentic-workflows-hub.md|Agentic Workflows Hub]]

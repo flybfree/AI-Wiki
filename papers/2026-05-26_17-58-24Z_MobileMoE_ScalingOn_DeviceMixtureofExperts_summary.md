@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper addresses the critical gap in applying Mixture-of-Experts (MoE) architectures to sub-billion parameter models for on-device deployment, where computational and memory constraints are stringent. The authors introduce MobileMoE, a novel family of on-device language models that achieve a new Pareto frontier by balancing active parameters (0.3-0.9B) with total model size (1.3-5.3B). By formulating a specific on-device MoE scaling law, the research identifies an optimal architectural sweet spot characterized by moderate sparsity and fine-grained shared experts. This approach allows MobileMoE to match or exceed the performance of leading dense models while significantly reducing inference costs and parameter counts.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPe_summary.md|Summary: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTrivi_summary.md|Summary: 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDist_summary.md|Summary: 2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
+
 ## Key Contributions
 - **On-Device MoE Scaling Law**: The authors derive and validate a new scaling law specifically tailored for mobile constraints, identifying that moderate sparsity combined with fine-grained and shared experts offers the best balance of memory efficiency and computational speed.
 - **Efficient Training Recipe**: A comprehensive four-stage training methodology is introduced, encompassing pre-training, mid-training, instruction fine-tuning, and quantization-aware training, all utilizing open-source datasets to ensure reproducibility and accessibility.

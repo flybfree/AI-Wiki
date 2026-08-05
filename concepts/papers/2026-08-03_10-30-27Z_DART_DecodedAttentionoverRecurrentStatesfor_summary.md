@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether a shared memory representation can simultaneously support the compact recurrent compression of state‑space models and the token‑level attention retrieval used in Transformers. By viewing the Mamba‑2 state as an associative key–value cache, the authors show that only values are currently decoded while keys remain undecoded. Their solution, DART (Decoded Attention over Recurrent States), decodes both keys and values from chunked scan memories and performs state‑memory attention to retrieve information efficiently. This approach reduces the length‑dependent inference cache dramatically compared with a matched attention baseline.
 
+## Semantic links
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-09-attention-and-transformers.md|AI/ML Foundations Lesson 09 - Attention and Transformers]] — 3 title terms overlap; 6 backlinks; 4 summary/topic terms overlap
+- [[concepts/papers/2026-07-22_22-36-27Z_Memory_ComputationTradeoffsinSemiAmortizedP_summary.md|Summary: 2026-07-22_22-36-27Z_Memory_ComputationTradeoffsinSemiAmortizedParametr.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.09
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+
 ## Key Contributions  
 - The authors discovered that Mamba‑2 stores token‑conditioned values in a compact recurrent state but does not decode token‑conditioned keys.  
 - DART retains chunk‑state contributions from the Mamba‑2 chunked scan, decodes both keys and values from these memories, and performs state‑memory attention over the resulting KV pairs.  

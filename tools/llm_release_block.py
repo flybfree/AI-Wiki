@@ -14,11 +14,20 @@ from __future__ import annotations
 import argparse
 import re
 import sys
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 from pathlib import Path
 from typing import Iterable
 from urllib.error import URLError
 from urllib.request import Request, urlopen
+
+from wiki_graph import (
+    RelatedPage,
+    parse_tags,
+    partition_related_pages,
+    render_related_pages_markdown,
+    render_semantic_links_markdown,
+    suggest_related_pages,
+)
 
 ROOT = Path(__file__).resolve().parents[1]
 TEMPLATE_PATH = ROOT / "templates" / "llm_release_block.md"
@@ -48,8 +57,11 @@ class ArticleData:
     title: str
     source_url: str
     date: str
+    tags: tuple[str, ...] = ()
     summary_text: str = ""
     article_text: str = ""
+    semantic_links: list[RelatedPage] = field(default_factory=list)
+    related_pages: list[RelatedPage] = field(default_factory=list)
 
 
 def read_text_source(source: str) -> str:
@@ -208,6 +220,8 @@ def render_template(data: ArticleData) -> str:
     why = squeeze_sentences(summary, 1) if summary else "TBD"
     current_take = squeeze_sentences(summary, 2) if summary else "TBD"
     follow_up = DEFAULT_FOLLOW_UP
+    semantic_links = render_semantic_links_markdown(data.semantic_links)
+    related_pages = render_related_pages_markdown(data.related_pages)
     rendered = (
         template
         .replace("{{DATE}}", data.date)
@@ -217,17 +231,24 @@ def render_template(data: ArticleData) -> str:
         .replace("{{MODELS}}", infer_models(" ".join(filter(None, [data.title, data.summary_text, data.article_text]))))
         .replace("{{WHY}}", why)
         .replace("{{CURRENT_TAKE}}", current_take)
+        .replace("{{SEMANTIC_LINKS}}", semantic_links)
+        .replace("{{RELATED_PAGES}}", related_pages)
         .replace("{{FOLLOW_UP}}", follow_up)
     )
     return rendered
 
 
-def build_article_data(source: str, summary_source: str | None = None) -> ArticleData:
+def build_article_data(
+    source: str,
+    summary_source: str | None = None,
+    wiki_root: Path = ROOT,
+) -> ArticleData:
     article_text = read_text_source(source)
     article_meta = parse_frontmatter(article_text)
     title = choose_title(article_meta, source, article_text)
     source_url = choose_source_url(source, article_meta)
     date = choose_date(article_meta)
+    tags = parse_tags(article_meta.get("tags"))
 
     summary_text = ""
     if summary_source:
@@ -238,7 +259,28 @@ def build_article_data(source: str, summary_source: str | None = None) -> Articl
     if not summary_text:
         summary_text = extract_summary_text(article_text)
 
-    return ArticleData(title=title, source_url=source_url, date=date, summary_text=summary_text, article_text=article_text)
+    related_pages = suggest_related_pages(
+        title=title,
+        summary_text=summary_text,
+        source_url=source_url,
+        tags=tags,
+        page_type="article-summary",
+        limit=5,
+        root=wiki_root,
+    )
+
+    semantic_links, related_pages = partition_related_pages(related_pages)
+
+    return ArticleData(
+        title=title,
+        source_url=source_url,
+        date=date,
+        tags=tags,
+        summary_text=summary_text,
+        article_text=article_text,
+        semantic_links=semantic_links,
+        related_pages=related_pages,
+    )
 
 
 def main(argv: Iterable[str] | None = None) -> int:

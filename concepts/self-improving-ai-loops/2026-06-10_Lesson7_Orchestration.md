@@ -16,6 +16,12 @@ Placeholder summary — please add a concise summary.
 
 
 **Source**: [Original Article](https://github.com/langgenius/dify.git)
+
+## Semantic links
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md|Lesson 9 — SmolAgents Deep Dive: Code-First Agents from Hugging Face]] — 1 title term overlap, 6 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson8_DIYArchitecture.md|Lesson 8 — Putting It All Together: DIY Architecture]] — 1 title term overlap, 6 topic terms overlap, same area: home
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson6_Evaluation.md|Lesson 6 — Evaluation & Verification: The Judge Node]] — 1 title term overlap, 6 topic terms overlap, same area: home
+
 ## Core Idea
 
 You can build the best feedback loops in the world, but if you can't see what's happening or manage the agents, you'll fail. Orchestration and UI layers make self-improving systems **usable** — visible, manageable, and debuggable.

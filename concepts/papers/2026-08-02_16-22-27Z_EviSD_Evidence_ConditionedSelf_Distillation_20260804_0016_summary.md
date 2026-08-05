@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Outcome‑based reinforcement learning enables search‑augmented language agents to learn from verifiable final answers, but its trajectory‑level credit cannot distinguish the contributions of individual actions in a multi‑turn search process. We propose EviSD, an evidence‑conditioned self‑distillation framework that treats instance‑level supporting evidence as privileged information for search actions and golden answers as complementary privilege for answer actions. The framework converts the detached teacher–student gap into a bounded correction to the outcome‑derived GRPO advantage, applying it only to generated action spans. This localizes privileged guidance while preserving the update direction determined by the outcome reward without an auxiliary distillation objective or any change at inference time. Across seven question‑answering benchmarks and three model scales, EviSD achieves the highest macro‑average Exact Match, outperforming previous methods by 1.3–2.3 points.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_10-47-27Z_H__2_SD_HybridHindsightSelf_Distillation_summary.md|Summary: 2026-07-21_10-47-27Z_H__2_SD_HybridHindsightSelf_Distillation.md]] — 4 title terms overlap; 16 summary/topic terms overlap; semantic match 0.19
+- [[concepts/papers/2026-07-27_02-59-27Z_EviBack_Search_AgentReinforcementLearningvi_summary.md|Summary: 2026-07-27_02-59-27Z_EviBack_Search_AgentReinforcementLearningviaEviden.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.13
+- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 4 title terms overlap; 6 summary/topic terms overlap; semantic match 0.11
+
 ## Key Contributions  
 - Evidence‑conditioned self‑distillation that uses supporting evidence as privileged information for search actions.  
 - A bounded correction of the teacher–student gap to the outcome‑derived GRPO advantage applied exclusively to generated action spans.  

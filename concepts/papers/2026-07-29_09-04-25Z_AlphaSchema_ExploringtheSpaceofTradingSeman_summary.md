@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 AlphaSchema introduces a structured exploration framework for LLM‑driven alpha mining, explicitly defining a search space of trading semantics composed of Event, Context, Qualities, Direction, and Output. By decoupling the generation of executable factors from the selection process, the method enables systematic navigation of this semantic space using a surrogate reward model that balances global exploration, exploitation, and local mutation. The framework thus provides a principled way to control and optimize LLM‑based factor discovery.
 
+## Semantic links
+- [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] AlphaSchema constructs an explicit structured search space (schema plan) for factor generation.  
 - [Finding 2] The framework decouples LLM translation of schema plans from implementation, allowing systematic exploration via a surrogate reward model.  

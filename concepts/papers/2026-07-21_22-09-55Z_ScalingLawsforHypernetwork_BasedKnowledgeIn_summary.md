@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper investigates whether hypernetworks can be employed for train‑time knowledge injection into large language models and, if so, how their performance scales with architecture parameters. By training a hypernetwork on a massive fact database to produce a fixed LoRA adapter that is merged into the target model, the authors aim to establish rigorous scaling laws that predict loss, reasoning accuracy, and out‑of‑distribution (OOD) generalization across depth, width, and target size.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 11 summary/topic terms overlap
+- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
+- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Hypernetwork‑based injection exhibits broadly predictive power‑law scaling along all architecture axes.  
 - [Finding 2] Hypernetworks achieve reliable OOD generalization at increasing scales, with steeper scaling exponents than LoRA finetuning or full fine‑tuning.  

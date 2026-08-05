@@ -8,6 +8,11 @@ Model: None
 ## Summary
 Automated vulnerability repair seeks to minimize the manual effort required by security engineers to patch critical security flaws identified in triage reports. While recent agentic AI models have demonstrated success in general program repair, they often fail to capture the rich, specialized context necessary for secure code modification. This paper introduces AgenticRepair, a novel framework that addresses this limitation by engineering three distinct facets of program context: code structure, runtime execution, and commit history. By orchestrating specialized Large Language Model (LLM) subagents to gather and embed this information, AgenticRepair significantly outperforms existing baselines in patching real-world vulnerabilities.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 5 summary/topic terms overlap
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+
 ## Key Contributions
 - The identification of three critical gaps in current agentic vulnerability repair approaches: the lack of code-structure context for cross-file data flows, insufficient runtime-execution context for crash semantics, and missing commit-history context for understanding fragile code patterns.
 - The development of AgenticRepair, a multi-agent framework that engineers these specific contexts and integrates them into the memory of a dedicated repair subagent to synthesize precise, context-conditioned patches.

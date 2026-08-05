@@ -17,6 +17,11 @@ Model: None
 ## Summary  
 Tokenisation is a crucial preprocessing step in modern NLP pipelines, yet current state‑of‑the‑art methods such as BPE and Unigram rely on greedy heuristics that ignore the global impact of vocabulary choices. The authors propose **ConvexTok**, a tokeniser construction algorithm derived from a linear program solved with convex optimisation tools, which yields tokenisers that are provably closer to optimal than any greedy baseline. By relaxing the problem into a convex formulation they obtain a new algorithm that improves intrinsic tokenisation metrics and the bits‑per‑byte (BpB) of downstream language models while also providing a quantitative lower bound on how far the solution deviates from optimality.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsfo_summary.md|Summary: 2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
+- [[concepts/papers/2026-06-11_15-29-56Z_SupraBench_ABenchmarkforSupramolecularChemi_summary.md|Summary: 2026-06-11_15-29-56Z_SupraBench_ABenchmarkforSupramolecularChemistry.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Introduce **ConvexTok**, an algorithm based on convex relaxation of a linear program for tokeniser construction.  
 - [Finding 2] Show that ConvexTok consistently yields higher intrinsic tokenisation scores and lower bits‑per‑byte (BpB) than greedy baselines such as BPE and Unigram.  

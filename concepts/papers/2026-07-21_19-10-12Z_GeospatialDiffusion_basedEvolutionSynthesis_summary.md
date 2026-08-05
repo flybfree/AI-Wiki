@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 The paper introduces Geospatial Diffusion-based Evolution Synthesis (GeoDES), an image‑to‑video diffusion model designed to generate high‑fidelity, physically consistent storm structures. It aims to bridge the gap between limited regional models and computationally expensive global models by focusing on fine‑grained cyclonic dynamics. GeoDES synthesizes evolving weather events suitable for stress‑testing forecast systems and expanding meteorological datasets. The approach achieves significant improvements over existing methods in error metrics.  
 
+## Semantic links
+- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] The GeoDES model is a custom image‑to‑video diffusion model that generates physically consistent, high‑fidelity storm structures.  
 - [Finding 2] It achieves 52 % lower Peak Vorticity Error and 8 % higher Anomaly Correlation Coefficient than the next strongest methods on the North Atlantic test set.  

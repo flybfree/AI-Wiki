@@ -8,6 +8,11 @@ Model: None
 ## Summary  
 Test‑time tuning (TTT) of diffusion models for video editing has become a popular way to adapt pre‑trained generators without fine‑tuning, but it suffers from a fundamental mismatch: the model’s generative prior is collapsed when only a single optimization step is performed at test time. This collapse manifests as either loss of text conditioning or entanglement of unrelated regions in the output video. The authors introduce ElasticTTT—a novel framework that explicitly preserves the original prior while enabling one‑shot editing. By combining three regularization strategies, ElasticTTT rescues generative elasticity and achieves state‑of‑the‑art performance on benchmark datasets.
 
+## Semantic links
+- [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
+- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 6 summary/topic terms overlap
+- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 5 summary/topic terms overlap
+
 ## Key Contributions  
 - [Finding 1] Prior Collapse is identified as a problem where TTT discards text conditions and spatial latents, causing degenerate generations that either revert to the source video or fuse unrelated regions.  
 - [Finding 2] ElasticTTT proposes a three‑component framework: Target Distribution Regularization to avoid sharp memorization minima, Contrastive CFG to steer inference away from source biases, and Asynchronous Noise Schedule to keep unedited parts stable during generation.  

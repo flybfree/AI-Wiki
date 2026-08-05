@@ -16,6 +16,11 @@ Model: None
 ## Summary
 This paper investigates the profound influence of generative artificial intelligence on collective opinion formation when it acts as an intermediary in human-to-human communication. The authors demonstrate that large language models (LLMs) introduce directional biases when editing user-generated content, which can significantly alter the trajectory of public discourse. By combining empirical audits of real-world AI features with theoretical modeling of opinion dynamics, the study reveals how these algorithmic nudges are amplified through social networks. Ultimately, the research highlights the urgent need for regulatory oversight to prevent AI-mediated platforms from covertly steering societal consensus.
 
+## Semantic links
+- [[concepts/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPe_summary.md|Summary: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
+- [[concepts/papers/2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTrivi_summary.md|Summary: 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
+- [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
+
 ## Key Contributions
 - **Empirical Evidence of Directional Bias**: The authors provide robust empirical data showing that LLMs from various popular families introduce consistent directional biases when instructed to polish or edit texts on contested social and political topics, such as gun control and atheism.
 - **Theoretical Model of Amplified Influence**: They develop a novel mathematical model of opinion dynamics that places an AI agent between users on a social network, analytically proving that individual biases introduced by the AI can be amplified through network interactions to shift collective opinion.
