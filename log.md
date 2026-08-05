@@ -5505,3 +5505,7 @@ tags: ['wiki']
 ## [2026-08-05 06:02] ingest | 2026-08-05_AImakesweatherpredictionbetter_CanWindBornemakeitl.md
 ## [2026-08-05 06:02] ingest | 2026-08-05_HelsinkiHackerNewsMeetup.md
 ## [2026-08-05 06:02] ingest | 2026-08-05_Trump_sAItestingplanislimitedandvague.md
+## [2026-08-05 07:08] ingest | 2026-08-05_GoogleAssistantwilldisappearfromyourphonenextmonth.md
+## [2026-08-05 11:02] ingest | 2026-08-05_RogueAIagentscreatedfakeonlineidentitiesinanotherh.md
+## [2026-08-05 12:02] ingest | 2026-08-05_SureseemslikeFenixFlexinusedAImusicgeneratorTreblo.md
+## [2026-08-05 12:02] ingest | 2026-08-05_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md

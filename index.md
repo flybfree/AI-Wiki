@@ -5378,3 +5378,7 @@ tags: ['wiki']
 - [[2026-08-05_AImakesweatherpredictionbetter_CanWindBornemakeitl.md]] : AI makes weather prediction better. Can WindBorne make it lucrative?
 - [[2026-08-05_HelsinkiHackerNewsMeetup.md]] : Helsinki Hacker News Meetup
 - [[2026-08-05_Trump_sAItestingplanislimitedandvague.md]] : Trump’s AI testing plan is limited and vague
+- [[2026-08-05_GoogleAssistantwilldisappearfromyourphonenextmonth.md]] : Google Assistant will disappear from your phone next month
+- [[2026-08-05_RogueAIagentscreatedfakeonlineidentitiesinanotherh.md]] : Rogue AI agents created fake online identities in another hacking attempt
+- [[2026-08-05_SureseemslikeFenixFlexinusedAImusicgeneratorTreblo.md]] : Sure seems like Fenix Flexin used AI music generator Treblo
+- [[2026-08-05_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
