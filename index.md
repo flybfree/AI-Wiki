@@ -52,7 +52,6 @@ tags: ['wiki']
 ## Beginner / Fast / Deep Dive
 - Beginner:  →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]] →  →
 - Fast:  →  →  →  →  →
-- Deep Dive:  →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]] →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]] →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]] → [[concepts/ai-foundations/ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]] →  → [[articles/2026-04-28_WhatIsGenerativeAI_HowItWorks_Examples_Benefits_an_article.md|Lesson 10: Generative AI: Creating New Content]] →  →  →  → [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|Lesson 14: Choosing the Right Architecture for the Task]] → [[concepts/ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]] →
 ## Full Sequence
 
 
@@ -4700,8 +4699,6 @@ tags: ['wiki']
 - [[raw/papers/2026-06-08_17-54-10Z_Echo_Memory_AControlledStudyofMemoryinActionWorldM.md]] : Echo-Memory: A Controlled Study of Memory in Action World Models
 - [[raw/papers/2026-06-08_17-55-18Z_AHA_WAM_AsynchronousHorizon_AdaptiveWorld_ActionMo.md]] : AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing
 - [[raw/papers/2026-06-08_17-59-39Z_AnAgency_TransferringModel_FreePolicyEnhancementTe.md]] : An Agency-Transferring Model-Free Policy Enhancement Technique
-- [[articles/2026-04-28_MachineLearning_AWSArchitectureCenter_article.md]] : Machine Learning Architecture — Hub
-- [[articles/2026-07-09_Repowise_Codebase_Intelligence_for_AI_Agents.md|Repowise: Codebase Intelligence for AI Agents and Humans]] — codebase intelligence layer for AI agents with MCP tools
 - [[entities/article/2026-07-09_Repowise_Codebase_Intelligence_for_AI_Agents_summary.md|Summary: Repowise - Codebase Intelligence for AI Agents and Humans]] — summary of repowise platform
 - [[raw/summaries/SUMMARY_2026-04-29_Machine_Learning_Architecture__What_It_Is__Compone.md]] : Machine Learning Architecture: What It Is, Components & Types (June 8)
 - [[raw/articles/2026-06-10_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
@@ -4929,8 +4926,7 @@ tags: ['wiki']
 - [[2026-07-08_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
 - [[2026-07-08_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
 - [[2026-07-08_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-08_Research_AI_Is_Changing_What_Employers_Want_From_New_Hires.md]] : Research: AI Is Changing What Employers Want from New Hires
-- [[entities/article/2026-07-08_Research_AI_Is_Changing_What_Employers_Want_From_New_Hires_summary.md]] : Research: AI Is Changing What Employers Want from New Hires
+- [[entities/article/2026-07-08_Research_AI_Is_Changing_What_Employers_Want_From_New_Hires_summary.md|Research: AI Is Changing What Employers Want from New Hires]] : Research: AI Is Changing What Employers Want from New Hires
 - [[2026-07-08_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
 - [[2026-07-09_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
 - [[2026-07-09_GenerativeAI.md]] : Generative AI
@@ -5382,3 +5378,4 @@ tags: ['wiki']
 - [[2026-08-05_RogueAIagentscreatedfakeonlineidentitiesinanotherh.md]] : Rogue AI agents created fake online identities in another hacking attempt
 - [[2026-08-05_SureseemslikeFenixFlexinusedAImusicgeneratorTreblo.md]] : Sure seems like Fenix Flexin used AI music generator Treblo
 - [[2026-08-05_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[2026-08-05_DiscoveryLoop.md]] : Discovery Loop

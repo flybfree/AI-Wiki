@@ -87,7 +87,6 @@ Current impression:
 
 Sources:
 - [Claude Mythos coverage in the April 2026 releases roundup](../entities/article/2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md)
-- [Claude Mythos in the AI leaderboard roundup](../articles/2026-04-27_LLM_Leaderboard_2026___Compare_220_AI_Models_Acros_summary.md)
 - [Fable 5 integration notes](hermes-agent-guide.md)
 - [Introducing Claude Opus 4.8](https://www.anthropic.com/news/claude-opus-4-8)
 - [Introducing Claude Sonnet 4.6](https://www.anthropic.com/news/claude-sonnet-4-6)

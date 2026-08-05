@@ -21,7 +21,8 @@ This repository is the working wiki for AI research curation, article summaries,
 ## Page types
 
 - `concepts/` — durable explanations, hubs, and framework notes
-- `entities/article/` — source-specific article takeaways with visible source links
+- `entities/article/` — current source-specific article takeaways with visible source links
+- `articles/` — legacy article-summary/archive pages; keep only when no `entities/article/` equivalent exists
 - `papers/` — paper notes and analyses
 - `summaries/` or `*_summary.md` — derived summary pages
 - `comparisons/` — side-by-side comparisons

@@ -47,10 +47,6 @@ Quick start: [README.md](README.md)
 - [[concepts/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integra_summary.md|MCP Server Architecture Patterns for LLM-Integrated Applications]]
 - [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Agent-Native Immune System Architecture: Taxonomy and ...]]
 - [[entities/article/2026-07-13_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|Machine Learning Architecture: What It Is, Components, Types]]
-- [[articles/2026-04-27_AI_Architecture_Design_-_Azure_Architecture_Center_summary.md|AI Architecture Design - Azure Architecture Center]]
-- [[articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu_summary.md|Architectures for Machine Learning]]
-- [[articles/2026-04-30_MachineLearningLens-AWSWell-ArchitectedFramework_summary.md|Machine Learning Lens - AWS Well-Architected Framework]]
-- [[articles/2026-04-29_Machinelearningoperations-AzureArchitectureCenter_summary.md|Machine Learning Operations - Azure Architecture Center]]
 
 ### Knowledge Management & Wiki Ops
 

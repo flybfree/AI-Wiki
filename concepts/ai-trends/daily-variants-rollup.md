@@ -33,8 +33,8 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 | TechCrunch | [[raw/articles/2026-07-03_GenerativeAInewsandanalysis_TechCrunch.md|2026-07-03 raw]] | [[entities/article/2026-07-03_GenerativeAInewsandanalysis_TechCrunch_summary.md|2026-07-03 summary]] | Generative AI news/tag page |
 | AI Business | [[raw/articles/2026-07-02_GenerativeAIrecentnews_AIBusiness.md|2026-07-02 raw]] | [[entities/article/2026-07-02_GenerativeAIrecentnews_AIBusiness_summary.md|2026-07-02 summary]] | Recent generative AI news |
 | MIT News | [[raw/articles/2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md|2026-06-18 raw]] | [[entities/article/2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass_summary.md|2026-06-18 summary]] | Future of generative AI |
-| GenAI.works | [[raw/articles/2026-04-30_GenAI_works_GenerativeAIDailyNewsletter_Generative.md|2026-04-30 raw]] | [[articles/2026-04-30_GenAI_works_GenerativeAIDailyNewsletter_Generative_summary.md|2026-04-30 summary]] | Daily newsletter |
-| AI Weekly | [[raw/articles/2026-05-01_GenerativeAINews_AITrends_Updates_Tracker_AIWeekly.md|2026-05-01 raw]] | [[articles/2026-05-01_GenerativeAINews_AITrends_Updates_Tracker_AIWeekly_summary.md|2026-05-01 summary]] | Tracker / roundup |
+| GenAI.works | [[raw/articles/2026-04-30_GenAI_works_GenerativeAIDailyNewsletter_Generative.md|2026-04-30 raw]] | archived | Daily newsletter |
+| AI Weekly | [[raw/articles/2026-05-01_GenerativeAINews_AITrends_Updates_Tracker_AIWeekly.md|2026-05-01 raw]] | archived | Tracker / roundup |
 
 ## Consolidation Pattern
 

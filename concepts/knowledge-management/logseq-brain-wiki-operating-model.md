@@ -39,11 +39,12 @@ It should not be treated as a second full raw archive.
 | SMB mirror / backup | `192.168.3.62/share` | Shared mirror for accessibility and backup workflows |
 || PRISM mirror / user working copy | `192.168.3.89/logseq-brain` | Secondary backup and fast Logseq access copy |
 || PRISM wiki mirror | _not in active use_ | Disabled to avoid duplicate-page collisions in Logseq |
-| Raw articles | `raw/articles/` | Immutable article captures |
-| Raw papers | `raw/papers/` | Immutable paper captures |
-| Raw summaries | `raw/summaries/` | Historical summary outputs and legacy summary files |
-| Curated article entities | `entities/article/` | Clean summary pages for article-style sources |
-| Curated concepts | `concepts/` | Durable concept pages and topic explainers |
+|| Raw articles | `raw/articles/` | Immutable article captures |
+|| Raw papers | `raw/papers/` | Immutable paper captures |
+|| Raw summaries | `raw/summaries/` | Historical summary outputs and legacy summary files |
+|| Legacy article summaries | `articles/` | Older derived article pages kept only for archive compatibility |
+|| Curated article entities | `entities/article/` | Clean summary pages for article-style sources |
+|| Curated concepts | `concepts/` | Durable concept pages and topic explainers |
 | Comparisons | `comparisons/` | Side-by-side analyses and tradeoff pages |
 | Navigation pages | `index.md`, `wiki-topic-index.md`, `wiki-landing-page.md` | Curated entry points and browse maps |
 | Activity log | `log.md` | Append-only record of ingest, update, and maintenance actions |
