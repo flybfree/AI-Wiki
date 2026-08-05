@@ -1329,7 +1329,7 @@ tags: ['wiki']
 - [[2026-08-01_12-53-34Z_DASH_DecoupledAdaptiveSurrogate_AcquisitionHarness.md]] : DASH: Decoupled Adaptive Surrogate - Acquisition Harness for Automated Bayesian Optimization
 - [[2026-07-31_23-58-25Z_CurveShift_IsAgentProgressScalar_SeparatingLevelfr.md]] : CurveShift: Is Agent Progress Scalar? Separating Level from Shape
 - [[2026-08-01_16-32-03Z_MeandMyBot_WhatUsersTalkAboutinAICompanionCommunit.md]] : Me and My Bot: What Users Talk About in AI Companion Communities on Reddit
-- [[2026-07-31_16-11-46Z_DiffusionGemmaTechnicalReport.md]] : DiffusionGemma Technical Report
+- [[papers/2026-07-31_16-11-46Z_DiffusionGemmaTechnicalReport_summary.md]] : DiffusionGemma Technical Report
 - [[2026-08-01_20-42-52Z_KilobyteModels_NeuralNetworksasaSeedandaQuantizedL.md]] : Kilobyte Models: Neural Networks as a Seed and a Quantized Latent
 - [[2026-07-31_15-35-06Z_SymbolicAttackChainGenerationfromAtomicRedTeamTech.md]] : Symbolic Attack Chain Generation from Atomic Red Team Techniques: An Empirical Study of Predicate Representation Granularity
 - [[2026-08-02_04-10-11Z_PassingCoarseMarginalChecksCanBeCheap_PersonaMixtu.md]] : Passing Coarse Marginal Checks Can Be Cheap: Persona Mixtures and Imprecise Treatment-Response Estimates in an LLM Persona Panel
@@ -5379,3 +5379,4 @@ tags: ['wiki']
 - [[2026-08-05_SureseemslikeFenixFlexinusedAImusicgeneratorTreblo.md]] : Sure seems like Fenix Flexin used AI music generator Treblo
 - [[2026-08-05_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
 - [[2026-08-05_DiscoveryLoop.md]] : Discovery Loop
+- [[2026-08-05_JeffDeanandothertopAIresearchersareleavingGoogleto.md]] : Jeff Dean and other top AI researchers are leaving Google to launch their own startup
