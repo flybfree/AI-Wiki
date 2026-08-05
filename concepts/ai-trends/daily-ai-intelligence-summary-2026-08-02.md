@@ -110,5 +110,5 @@ That is the real common thread across today’s corpus: better models matter, bu
 - [arXiv Scout Coverage — 2026-08-02_01-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-08-02_01-01.md)
 - [arXiv Scout Coverage — 2026-08-02_02-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-08-02_02-13.md)
 - [MANTA: Multi-Agent Network Topology Adaptation for Self-Evolving Multi-Agent Systems](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-30_17-01-27Z_MANTA_Multi_AgentNetworkTopologyAdaptationf_summary.md)
-- [ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-30_07-07-39Z_ChronoMem_VersionControlandSemanticRollbackforLarg_summary.md)
+- [ChronoMem: Version Control and Semantic Rollback for Large Language Model Agent Memory](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-30_07-07-39Z_ChronoMem_VersionControlandSemanticRollback_summary.md)
 - [Albilich: Steerable Proof-State Orchestration for LLM-Based Mathematical Research with CAS Integration](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-30_05-41-44Z_Albilich_SteerableProof_StateOrchestrationf_summary.md)
