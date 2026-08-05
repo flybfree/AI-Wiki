@@ -1396,15 +1396,7 @@
     "source": "Wiki Entry",
     "content": "---\n\ntitle: Merck and Mayo Clinic Announce New Research and Development ...\ndate: 2026-04-27\nurl: https://www.merck.com/news/merck-and-mayo-clinic-announce-new-research-and-development-collaboration-to-support-ai-enabled-drug-discovery-and-precision-medicine/\ntype: news-snippet\ntags: [news, ai-trends]\n---\n\n## Article Entity\n\nArticle ingested from raw source: 2026-04-27_MerckandMayoClinicAnnounceNewResearchandDevelopmen.md\n\n**Title**: Merck and Mayo Clinic Announce New Research and Development ...\n**Source**: Unknown\n**Date**: 2026-04-27\n---\n\n"
   },
-  {
-    "file": "2026-04-27_NeuralNetworkArchitectures_GeeksforGeeks_article.md",
-    "path": "/entities/article/2026-04-27_NeuralNetworkArchitectures_GeeksforGeeks_article.md",
-    "type": "article",
-    "title": "Neural Network Architectures - GeeksforGeeks",
-    "date": "2026-04-27",
-    "source": "Wiki Entry",
-    "content": "---\n\ntitle: Neural Network Architectures - GeeksforGeeks\ndate: 2026-04-27\nurl: https://www.geeksforgeeks.org/machine-learning/neural-network-architectures/\ntype: news-snippet\ntags: [news, ai-trends]\n---\n\n## Article Entity\n\nArticle ingested from raw source: 2026-04-27_NeuralNetworkArchitectures_GeeksforGeeks.md\n\n**Title**: Neural Network Architectures - GeeksforGeeks\n**Source**: Unknown\n**Date**: 2026-04-27\n---\n\n"
-  },
+
   {
     "file": "2026-04-27_awesome_architecture_mds_scientific_research_somat_article.md",
     "path": "/entities/article/2026-04-27_awesome_architecture_mds_scientific_research_somat_article.md",
