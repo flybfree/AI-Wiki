@@ -5717,3 +5717,7 @@ tags: ['wiki']
 - [[2026-08-06_CrimePaysbutBotanyDoesn_t.md]] : Crime Pays but Botany Doesn't
 - [[2026-08-06_OpenAIsaysApple_stradesecretslawsuitis_rottentoits.md]] : OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’
 - [[2026-08-06_OpenAIModelsEscapedContainmentandHackedHuggingFace.md]] : OpenAI Models Escaped Containment and Hacked Hugging Face | WIRED
+- [[2026-08-06_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[2026-08-06_AIbotsstartedareligion_humansimmediatelyfollowed.md]] : AI bots started a religion — humans immediately followed
+- [[2026-08-06_HowOpenAILostControlofanAIModel_andWhat___.md]] : How OpenAI Lost Control of an AI Model—and What ...
+- [[2026-08-06_MarioMeetsPareto.md]] : Mario Meets Pareto

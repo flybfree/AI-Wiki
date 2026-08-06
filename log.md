@@ -5848,3 +5848,7 @@ tags: ['wiki']
 ## [2026-08-06 02:02] ingest | 2026-08-06_CrimePaysbutBotanyDoesn_t.md
 ## [2026-08-06 05:03] ingest | 2026-08-06_OpenAIsaysApple_stradesecretslawsuitis_rottentoits.md
 ## [2026-08-06 05:03] ingest | 2026-08-06_OpenAIModelsEscapedContainmentandHackedHuggingFace.md
+## [2026-08-06 06:21] ingest | 2026-08-06_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md
+## [2026-08-06 08:04] ingest | 2026-08-06_AIbotsstartedareligion_humansimmediatelyfollowed.md
+## [2026-08-06 08:04] ingest | 2026-08-06_HowOpenAILostControlofanAIModel_andWhat___.md
+## [2026-08-06 08:04] ingest | 2026-08-06_MarioMeetsPareto.md
