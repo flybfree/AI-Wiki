@@ -11,7 +11,7 @@ tags: ["summary", "news", "ai-research", "full-text"]
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+This roundup tracks major LLM launches from April 2026 and summarizes the key model families.
 
 
 

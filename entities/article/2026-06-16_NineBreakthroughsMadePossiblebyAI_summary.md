@@ -11,7 +11,7 @@ tags: ["summary", "news", "ai-research", "full-text"]
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+This piece highlights nine areas where AI is already enabling new scientific and practical breakthroughs.
 
 
 

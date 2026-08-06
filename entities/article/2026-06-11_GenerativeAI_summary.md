@@ -11,7 +11,7 @@ tags: ["summary", "news", "ai-research", "full-text"]
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+This page is a generative-AI news roundup, collecting recent coverage and release notes from the source feed.
 
 
 

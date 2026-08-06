@@ -11,7 +11,7 @@ tags: ["summary", "news", "ai-research", "full-text"]
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+This roundup tracks TechCrunch’s generative-AI coverage, highlighting product launches, model releases, and industry moves.
 
 
 

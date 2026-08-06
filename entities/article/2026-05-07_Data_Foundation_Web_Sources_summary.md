@@ -11,7 +11,7 @@ tags: ["summary", "article", "news", "ai"]
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+This note collects sources for Lesson 3 on data as the foundation of learning, with emphasis on leakage, split strategy, imbalance-aware evaluation, feature consistency, and versioning.
 
 # Web sources for Lesson 3: Data as the Foundation of Learning
 

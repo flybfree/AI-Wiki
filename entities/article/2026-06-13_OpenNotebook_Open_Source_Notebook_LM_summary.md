@@ -11,7 +11,7 @@ tags: ["summary", "notebook-lm", "open-source", "self-hosted", "podcast-generati
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+This page covers Open Notebook, an open-source alternative to NotebookLM.
 
 
 # Open Notebook — Open Source Notebook LM Alternative

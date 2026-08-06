@@ -11,7 +11,7 @@ tags: ["summary", "news", "ai-research", "full-text"]
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+This roundup collects AI Business’s generative-AI coverage, focusing on recent product and model announcements.
 
 
 

@@ -11,7 +11,7 @@ tags: ["summary", "news", "ai-research", "full-text"]
 
 ## Summary
 
-Placeholder summary — please add a concise summary of this article.
+This guide surveys common machine-learning architectures and the tradeoffs that matter in practical system design.
 
 
 

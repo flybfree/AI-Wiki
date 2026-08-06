@@ -1,0 +1,18 @@
+---
+title: ODRA: Synthesizing Cognitive Behavioral Therapy Sessions with Structured Chain-Of-Thought and Dynamic Patient Resistance
+published: 2026-08-05T06:56:58Z
+authors: Javier Rodriguez-Juan, Hiba Arnaout, Jose Garcia-Rodriguez, David Tomás, Iryna Gurevych
+url: http://arxiv.org/abs/2608.04524v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ODRA: Synthesizing Cognitive Behavioral Therapy Sessions with Structured Chain-Of-Thought and Dynamic Patient Resistance
+
+## Abstract
+Synthetic generation of Cognitive Behavioral Therapy (CBT) sessions is challenged by two competing demands: adhering to strict therapeutic structure while modeling the resistant, unpredictable behavior of real patients. Existing script-based methods fail to capture dynamic therapeutic interactions, while multi-agent approaches struggle to adhere to CBT's sequential structure; both suffer from sycophancy, producing overly compliant patients that misrepresent real clinical settings. In this work we introduce ODRA, a novel framework for synthesizing therapy dialogues through a Chain-of-Thought (CoT) strategy grounded in foundational CBT guidelines (Beck, 2020). ODRA further incorporates a resistance orchestrator to solve patient sycophancy, which employs steering techniques to elicit behaviors aligned with their resistance level. Automated and expert evaluations show that ODRA significantly outperforms existing methods across therapeutic skills, CBT alignment, and patient behavioral fidelity, with licensed psychologists preferring ODRA sessions across 12 of 13 clinical metrics. Furthermore, models fine-tuned on our dataset demonstrate superior therapeutic performance against both cooperative and resistant patients, validating that explicit resistance modeling in synthetic training data directly translates to downstream clinical robustness.
+
+## Metadata
+- **Published**: 2026-08-05T06:56:58Z
+- **Authors**: Javier Rodriguez-Juan, Hiba Arnaout, Jose Garcia-Rodriguez, David Tomás, Iryna Gurevych
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.04524v1)
