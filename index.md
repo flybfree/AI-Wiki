@@ -227,6 +227,57 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-08-04_21-11-04Z_TransferableDual_StreamRepresentationsforMesoscale.md]] : Transferable Dual-Stream Representations for Mesoscale-Preserving Sea Surface Temperature Downscaling
+- [[2026-08-04_10-20-41Z_WhenModalitiesFailtoTango_ConformalBackdoorDetecti.md]] : When Modalities Fail to Tango: Conformal Backdoor Detection in Multimodal Contrastive Learning
+- [[2026-08-04_18-58-51Z_SublogarithmicSwapRegretinMultiplayerGeneral_SumGa.md]] : Sublogarithmic Swap Regret in Multiplayer General-Sum Games via Hybrid Regularization
+- [[2026-08-05_00-26-22Z_AdaptiveFinite_BudgetTrainingforCVaRRisk_AwareQ_Le.md]] : Adaptive Finite-Budget Training for CVaR Risk-Aware Q-Learning
+- [[2026-08-04_21-52-04Z_Attention_basedrepresentationsformulti_taskcomputa.md]] : Attention-based representations for multi-task computation
+- [[2026-08-05_00-40-28Z_ArborEnum_DecisionTreeRashomonSetsoverContinuousFe.md]] : ArborEnum: Decision Tree Rashomon Sets over Continuous Features
+- [[2026-08-04_20-05-21Z_FromNon_ConvexSelf_ConcordantRegularizationtoScala.md]] : From Non-Convex Self-Concordant Regularization to Scalable Quasi-Newton Training of PINNs
+- [[2026-08-04_19-31-43Z_UnderstandingFaultToleranceofAdversariallyRobustPr.md]] : Understanding Fault Tolerance of Adversarially Robust Pruned Models
+- [[2026-08-04_19-32-18Z_TS2TabPFN_TimeSeriesClassificationandExtrinsicRegr.md]] : TS2TabPFN: Time Series Classification and Extrinsic Regression through Feature Extraction and a Tabular Foundation Model
+- [[2026-08-04_01-44-06Z_AnExplainableLLMAgentLayerforOpen_WorldAnomalyDete.md]] : An Explainable LLM Agent Layer for Open-World Anomaly Detection in Oil Wells
+- [[2026-08-04_09-23-01Z_FM4WiFi_FlowMatchingforMulti_APCoordinationinDense.md]] : FM4WiFi: Flow Matching for Multi-AP Coordination in Dense Deployments of Beyond Wi-Fi 8 Networks
+- [[2026-08-05_01-14-58Z_Real_timeprobabilistictsunamiforecastingviagenerat.md]] : Real-time probabilistic tsunami forecasting via generative AI
+- [[2026-08-04_19-55-12Z_SiMDex_MiningSimilarEgocentricVideosforCross_Embod.md]] : SiMDex: Mining Similar Egocentric Videos for Cross-Embodiment Dexterous Manipulation
+- [[2026-08-05_02-12-54Z_Manipulation_ProofObliviousAuditsagainstDeceptiveM.md]] : Manipulation-Proof Oblivious Audits against Deceptive Model Providers
+- [[2026-08-04_11-14-40Z_Unifyingquantummeasurementconstructionsviaarelativ.md]] : Unifying quantum measurement constructions via a relative-entropy minimum change principle
+- [[2026-08-04_20-26-12Z_Attention_OnlyWhite_BoxTransformerviaLeJEPA_BasedS.md]] : Attention-Only White-Box Transformer via LeJEPA-Based Self-Supervised Pretraining
+- [[2026-08-04_09-17-42Z_StatisticallearningtheoryandOccam_srazor_Regulariz.md]] : Statistical learning theory and Occam's razor: Regularization
+- [[2026-08-04_22-15-35Z_DynamicalLieAlgebrasCannotDescribeShallowQAOA_Crag.md]] : Dynamical Lie Algebras Cannot Describe Shallow QAOA: Cragged Terrains, Barren Plateaus, and Empirical Hardness Models
+- [[2026-08-04_21-21-09Z_MultimodalAlignmentThroughJointKernelEntropicGromo.md]] : Multimodal Alignment Through Joint Kernel Entropic Gromov--Wasserstein Optimal Transport
+- [[2026-08-04_19-11-33Z_MINT_TensorDecompositiononStackedRecurrenceMatrice.md]] : MINT: Tensor Decomposition on Stacked Recurrence Matrices for Time Series Data Mining
+- [[2026-08-04_10-04-16Z_CAMP_ACycle_AwareMulti_ScalePatchMixerforTimeSerie.md]] : CAMP: A Cycle-Aware Multi-Scale Patch Mixer for Time Series Forecasting
+- [[2026-08-04_23-38-54Z_SampleComplexityofMulticalibrationforMultilevelPro.md]] : Sample Complexity of Multicalibration for Multilevel Properties
+- [[2026-08-05_05-08-28Z_TwinIR_CoordinatedInvisibleDual_PointAttacksonOnli.md]] : TwinIR: Coordinated Invisible Dual-Point Attacks on Online HD Map Construction
+- [[2026-08-04_18-07-26Z_Out_Of_The_LoopMulti_FidelityBayesianOptimization.md]] : Out-Of-The-Loop Multi-Fidelity Bayesian Optimization
+- [[2026-08-05_02-39-03Z_ImageClassificationUsingCNN_QNNHybridModelwithOpti.md]] : Image Classification Using CNN-QNN Hybrid Model with Optimized Correlated Features
+- [[2026-08-05_09-24-39Z_AgreementBeforeDiversity_Verification_FirstComplem.md]] : Agreement Before Diversity: Verification-First Complementarity for Heterogeneous Language-Model Coordination
+- [[2026-08-05_06-47-46Z_CARGO_VL_CounterfactualArbitrationwithRisk_Constra.md]] : CARGO-VL: Counterfactual Arbitration with Risk-Constrained Group Optimization for Vision-Language Models
+- [[2026-08-05_17-43-51Z_CoPlan_ATrustworthyCo_IntelligenceInterfaceforCare.md]] : CoPlan: A Trustworthy Co-Intelligence Interface for Care Planning through Role-Based Contestable Argument Graphs
+- [[2026-08-04_08-04-16Z_BeyondtheQBERThreshold_ATemporalQBERBasedMachineLe.md]] : Beyond the QBER Threshold: A Temporal QBER Based Machine Learning Framework for Multi Attack Detection in BB84 QKD
+- [[2026-08-04_18-18-29Z_InterpretableFuzzyInferenceforUAVTargetTrackingUsi.md]] : Interpretable Fuzzy Inference for UAV Target Tracking Using Bounding-Box Geometry
+- [[2026-08-04_12-17-00Z_LaPrune_ControllableDifferentiableSparsityatMillio.md]] : LaPrune: Controllable Differentiable Sparsity at Million Scale
+- [[2026-08-04_10-55-51Z_ModalityAgreement_andConflict_AwarePrototypeHyperg.md]] : Modality Agreement- and Conflict-Aware Prototype Hypergraph Learning for Multimodal Intent Understanding
+- [[2026-08-04_15-04-15Z_AnInlineControlArchitectureforLanguageModelsinInte.md]] : An Inline Control Architecture for Language Models in Intelligent Transportation Systems
+- [[2026-08-05_14-50-51Z_AChainIsOnlyasStrongasItsWeakestLink_AScopingRevie.md]] : A Chain Is Only as Strong as Its Weakest Link: A Scoping Review of System Integration Audits in AI
+- [[2026-08-03_20-06-13Z_ReconstructingPersistentWorldsfromNarrativesforNar.md]] : Reconstructing Persistent Worlds from Narratives for Narrative-Grounded Interactive Experiences
+- [[2026-08-05_15-12-01Z_AGeneralSufficientConditionforRewritingHorn_ALCHIA.md]] : A General Sufficient Condition for Rewriting Horn-ALCHI Atomic Queries into GQL
+- [[2026-08-05_09-28-18Z_Maskeddiffusionenablescoherentbeattracking.md]] : Masked diffusion enables coherent beat tracking
+- [[2026-08-05_01-08-27Z_EfficientOnlineLexicographicGeneralizedLow_RankMat.md]] : Efficient Online Lexicographic Generalized Low-Rank Matrix Bandits
+- [[2026-08-04_11-23-19Z_RAG_Stack_Co_OptimizingRAGServingPerformanceandQua.md]] : RAG-Stack: Co-Optimizing RAG Serving Performance and Quality
+- [[2026-08-04_13-08-07Z_SJEPA_LearningElegantLatentDynamicswithHybridSymbo.md]] : SJEPA: Learning Elegant Latent Dynamics with Hybrid Symbolic-Neural Predictors
+- [[2026-08-03_18-01-05Z_Search_Inspect_Fetch_ExploitingStructure_AwareBool.md]] : Search, Inspect, Fetch: Exploiting Structure-Aware Boolean Retrieval for Deep-Research Agents
+- [[2026-08-05_06-39-57Z_AFD_Ledger_DeploymentProvisioningforAttention__FFN.md]] : AFD-Ledger: Deployment Provisioning for Attention--FFN Disaggregation
+- [[2026-08-05_10-12-19Z_CSGen_AMulti_DomainCurvilinearStructureGenerationM.md]] : CSGen: A Multi-Domain Curvilinear Structure Generation Model via Hierarchical Multimodal Diffusion
+- [[2026-08-05_02-59-10Z_ApproximateMulti_ObjectiveSearchUnderRulebooks.md]] : Approximate Multi-Objective Search Under Rulebooks
+- [[2026-08-05_08-51-41Z_JointUAVFlightandOpportunisticRoutingunderReinforc.md]] : Joint UAV Flight and Opportunistic Routing under Reinforcement Learning for Delay-Tolerant Networks
+- [[2026-08-04_19-04-03Z_TRNet_Topography_GuidedFrequencyRectificationandSt.md]] : TRNet: Topography-Guided Frequency Rectification and Structure-Aware Decoding for Multimodal Paddy Rice Segmentation
+- [[2026-08-05_10-10-21Z_DisMix_Order_AwareMixupforMedicalImagingviaDisenta.md]] : DisMix: Order-Aware Mixup for Medical Imaging via Disentangling Ordinal and Non-Ordinal Features
+- [[2026-08-04_23-04-48Z_Compass_ContinuouslyAligningSocialMediaFeedsviaIn_.md]] : Compass: Continuously Aligning Social Media Feeds via In-Situ Reflections
+- [[2026-08-04_15-59-33Z_FBID_AdaptivePersonalizedFederatedLearningforRobus.md]] : FBID: Adaptive Personalized Federated Learning for Robust Out-of-Distribution Attack Detection in IoT Networks
+- [[2026-08-05_04-53-46Z_Whendoestrainingondownscaledimagesyieldthesamegrad.md]] : When does training on downscaled images yield the same gradients?
+- [[2026-08-04_18-50-14Z_InvFlowFD_Reference_FreeandBackground_Set_FreePerc.md]] : InvFlowFD: Reference-Free and Background-Set-Free Perceptual Music Quality Metric with Flow Matching Inversion
 - [[2026-08-05_17-56-26Z_TheLossDoesNotSeetheBasis_butAdamDoes.md]] : The Loss Does Not See the Basis, but Adam Does
 - [[2026-08-05_16-12-30Z_StochasticEmulationusingGeneralizedStratifiedSampl.md]] : Stochastic Emulation using Generalized Stratified Sampling for Performance-Based Risk Optimization of Structures
 - [[2026-08-05_14-09-55Z_EvaluatingtheDiagnosticRobustnessofVision_Language.md]] : Evaluating the Diagnostic Robustness of Vision-Language Models Under Visual and Textual Perturbations
@@ -5649,3 +5700,17 @@ tags: ['wiki']
 - [[2026-08-05_MetalaunchesMuseCode_anAIagentforlargecodebases.md]] : Meta launches Muse Code, an AI agent for large code bases
 - [[2026-08-05_ElonMusk__8217_sattemptatanAIWikipediahasn__8217_t.md]] : Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months
 - [[2026-08-05_LLMswon_tbreaksymmetriccrypto.md]] : LLMs won't break symmetric crypto
+- [[2026-08-06_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[2026-08-06_MetalaunchesMuseCode_anAIagentforlargecodebases.md]] : Meta launches Muse Code, an AI agent for large code bases
+- [[2026-08-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-06_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-08-06_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-08-06_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[2026-08-06_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-08-06_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-06_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[2026-08-06_Third-partycyberevaluationsinvolvingOpenAImodels.md]] : Third-party cyber evaluations involving OpenAI models
+- [[2026-08-06_ElonMusk__8217_sattemptatanAIWikipediahasn__8217_t.md]] : Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months
+- [[2026-08-06_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-06_WhenAIgoesrogue-HarvardGazette.md]] : When AI goes rogue - Harvard Gazette

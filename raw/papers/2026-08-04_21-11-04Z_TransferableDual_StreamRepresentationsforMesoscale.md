@@ -1,0 +1,18 @@
+---
+title: Transferable Dual-Stream Representations for Mesoscale-Preserving Sea Surface Temperature Downscaling
+published: 2026-08-04T21:11:04Z
+authors: Parth Doshi, Priyanka Aravindan, Vaishnav Vaidheeswaran, Md Mahbub Alam, Gabriel Spadon
+url: http://arxiv.org/abs/2608.04230v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Transferable Dual-Stream Representations for Mesoscale-Preserving Sea Surface Temperature Downscaling
+
+## Abstract
+Deep learning models for scientific spatio-temporal downscaling often minimize reconstruction error while failing to preserve physically meaningful multi-scale structure. For sea surface temperature prediction, this can yield outputs that are numerically plausible yet overly smooth, missing mesoscale variability critical to regional ocean dynamics. Existing methods often focus on pixel-wise objectives or single-context conditioning, which limits their ability to preserve spectral fidelity and generalize across regions. To address this, we propose EddyFlow, a representation learning framework for kilometer-scale sea surface temperature downscaling that balances predictive accuracy, scale-dependent structure, and regional generalization. EddyFlow is trained on the Gulf of St.~Lawrence and evaluated in zero-shot and few-shot settings on the Bay of Fundy and the Gulf of Mexico. EddyFlow demonstrates that physics-informed representation learning reduces zero-shot RMSE by 21%, achieves up to 85.6% skill relative to persistence on unseen domains, and maintains near-ideal spectral fidelity with a PSD ratio of $\approx 1.00$.
+
+## Metadata
+- **Published**: 2026-08-04T21:11:04Z
+- **Authors**: Parth Doshi, Priyanka Aravindan, Vaishnav Vaidheeswaran, Md Mahbub Alam, Gabriel Spadon
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.04230v1)
