@@ -11,7 +11,14 @@ tags: ["summary", "news", "ai-research", "full-text"]
 
 ## Summary
 
-This article explains machine-learning system architecture, covering the main components and how they fit together.
+This article explains machine-learning system architecture as the blueprint for how data moves through ingestion, storage, training, evaluation, deployment, and retraining. It stresses that architecture is not just the model itself: the surrounding pipeline determines whether an ML system is scalable, reproducible, and maintainable in production.
+
+## Key Takeaways
+- Data ingestion is a core design point, and poor cleansing, transformation, or splitting will degrade downstream model quality.
+- Storage needs to be scalable, secure, and versioned so teams can reproduce experiments and recover from bad runs.
+- The architecture should support both offline evaluation and production monitoring to catch drift and performance decay.
+- Retraining loops matter because real-world data and business requirements change over time.
+- Batch, real-time, CDC, and streaming ingestion patterns fit different operational needs, so the pipeline shape should match the use case.
 
 
 

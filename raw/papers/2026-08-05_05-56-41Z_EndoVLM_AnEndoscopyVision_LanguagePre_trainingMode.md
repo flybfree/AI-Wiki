@@ -1,0 +1,18 @@
+---
+title: EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment
+published: 2026-08-05T05:56:41Z
+authors: Zhenyu Yi, Jianwei Xu, Yue Hu, Zhongwei Qiu, Sijing Li, Liang Huang, Bin Lv, Ling Zhang, Yingda Xia
+url: http://arxiv.org/abs/2608.04472v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment
+
+## Abstract
+The development of foundation models (FMs) is crucial for advancing endoscopic image analysis. However, existing endoscopy FMs mainly rely on self-supervised learning from uni-modal images or videos, overlooking the rich semantic knowledge contained in clinical reports. Furthermore, effectively leveraging these records is hindered by a fundamental modality gap: structured anatomical descriptions are not naturally mapped to specific frames within the high-redundancy, uncurated visual streams. In this paper, we present EndoVLM, a novel vision-language FM pre-trained on over 348K endoscopic examinations, each pairing a clinical report with its corresponding image collection. An Anatomy-Guided Sparse Pooling mechanism utilizes textual descriptions as queries to drive sparse attention, efficiently aggregating semantically salient frames into anatomy-specific visual representations across redundant image-sets. Next, a Progressive Semantic-Aware Alignment strategy models clinical taxonomy (anatomy and pathological status) via structured soft targets, bridging the gap from global patient-level matching to fine-grained localized alignment. Finally, a Semantic-Concentrated Masked Autoencoder is applied exclusively to these semantic-rich frames, integrating low-level visual precision with robust high-level semantic representation. Extensive experiments across various downstream tasks demonstrate that EndoVLM outperforms existing foundation models and remains competitive with task-specific methods. Remarkably, EndoVLM also exhibits robust zero-shot generalization capabilities, highlighting its potential for broader clinical application.
+
+## Metadata
+- **Published**: 2026-08-05T05:56:41Z
+- **Authors**: Zhenyu Yi, Jianwei Xu, Yue Hu, Zhongwei Qiu, Sijing Li, Liang Huang, Bin Lv, Ling Zhang, Yingda Xia
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.04472v1)

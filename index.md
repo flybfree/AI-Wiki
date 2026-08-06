@@ -227,6 +227,127 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[2026-08-05_17-56-26Z_TheLossDoesNotSeetheBasis_butAdamDoes.md]] : The Loss Does Not See the Basis, but Adam Does
+- [[2026-08-05_16-12-30Z_StochasticEmulationusingGeneralizedStratifiedSampl.md]] : Stochastic Emulation using Generalized Stratified Sampling for Performance-Based Risk Optimization of Structures
+- [[2026-08-05_14-09-55Z_EvaluatingtheDiagnosticRobustnessofVision_Language.md]] : Evaluating the Diagnostic Robustness of Vision-Language Models Under Visual and Textual Perturbations
+- [[2026-08-05_07-58-09Z_STRIVE_ProbingReasoningLimitsinGradedPlausibilityG.md]] : STRIVE: Probing Reasoning Limits in Graded Plausibility Generation and Evaluation
+- [[2026-08-05_04-22-27Z_MERaLiON_GR_SpeechGenderRecognitionModelforEnglish.md]] : MERaLiON-GR: Speech Gender Recognition Model for English and SEA Languages
+- [[2026-08-05_07-58-53Z_RelevantbutIncomplete_ReferentialDanglingasaParadi.md]] : Relevant but Incomplete: Referential Dangling as a Paradigm-Level Failure Mode in Hard Prompt Compression
+- [[2026-08-05_04-04-07Z_GenerativeOptimizationforIncentivizedAdvertisingwi.md]] : Generative Optimization for Incentivized Advertising with Global Level Constraints
+- [[2026-08-05_07-05-47Z_DiscretizationandStatisticalConsistencyofFunctiona.md]] : Discretization and Statistical Consistency of Functional Flow Matching
+- [[2026-08-05_01-05-13Z_DataRx_Missingness_AwareSamplingforSaferLargeLangu.md]] : DataRx: Missingness-Aware Sampling for Safer Large Language Model Task-Specific Fine-Tuning
+- [[2026-08-04_23-25-40Z_ElicitingIntrinsicHallucinationsinLLMsviaSemantica.md]] : Eliciting Intrinsic Hallucinations in LLMs via Semantically Equivalent Adversarial Attacks
+- [[2026-08-05_15-10-44Z_Ageometry_baseddeepequilibriummodelforimagerestora.md]] : A geometry-based deep equilibrium model for image restoration under multiplicative Gamma noise
+- [[2026-08-05_16-11-08Z_DelusionEval_MeasuringDelusion_LinkedBehaviorsinAI.md]] : DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots
+- [[2026-08-05_05-14-39Z_Multi_ObjectiveRankingforLive_Streaming_BalancingF.md]] : Multi-Objective Ranking for Live-Streaming: Balancing Fresh and Delayed Signals with Segment-Aware Targeting
+- [[2026-08-05_11-07-17Z_TraceableLLM_GeneratedHazardScenariosforOperationa.md]] : Traceable LLM-Generated Hazard Scenarios for Operational Safety Analysis of Aviation Systems Using ASRS Reports
+- [[2026-08-05_02-39-49Z_Non_asymptoticimplicitbiasoflogisticregressionatea.md]] : Non-asymptotic implicit bias of logistic regression at early-stage gradient descent dynamics
+- [[2026-08-05_08-49-48Z_BreakingtheCurseofMultilingualityinMany_to_ManySpe.md]] : Breaking the Curse ofMultilinguality inMany-to-Many Speech-to-Text Translation via a Resource-AwareMixture of Speech Encoders
+- [[2026-08-05_03-51-12Z_SocialPressureBreaksMajorityVotinginLLMSafetyPanel.md]] : Social Pressure Breaks Majority Voting in LLM Safety Panels
+- [[2026-08-05_01-47-07Z_LookingintheMirror_IntrospectingSide_EffectMisalig.md]] : Looking in the Mirror: Introspecting Side-Effect Misalignments Induced by Fine-Tuning
+- [[2026-08-05_17-51-25Z_SSTQ_Privacy_PreservingVectorQuantizationviaSubsam.md]] : SSTQ:Privacy-Preserving Vector Quantization via Subsampled Stochastic TurboQuant
+- [[2026-08-05_17-11-04Z_ProvableLimitsandCertifiedDeferralforVerbalizedUnc.md]] : Provable Limits and Certified Deferral for Verbalized Uncertainty in Small Language Models
+- [[2026-08-05_17-41-31Z_ABSeeker_TrainingLong_HorizonSearchAgentsviaAnswer.md]] : ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment
+- [[2026-08-05_05-28-22Z_Eigenius_ATypedKnowledge_GraphDBMSwithEpistemicStr.md]] : Eigenius: A Typed Knowledge-Graph DBMS with Epistemic Stratification and Institution-Mediated Reasoning
+- [[2026-08-05_14-55-23Z_DoesOut_of_SightEqualOut_of_MindinCoTMonitorabilit.md]] : Does Out-of-Sight Equal Out-of-Mind in CoT Monitorability?
+- [[2026-08-04_22-29-08Z_Geometry_InformedParameter_EfficientFine_TuningofP.md]] : Geometry-Informed Parameter-Efficient Fine-Tuning of Pre-trained Molecular GNNs for Blood-Brain Barrier Permeability Prediction
+- [[2026-08-05_04-29-30Z_ExeCRE_Execution_ConsistencyGuidedReliabilityEstim.md]] : ExeCRE: Execution-Consistency Guided Reliability Estimation for Self-Correcting Code Generation
+- [[2026-08-05_13-34-00Z_RobustControlunderStationaryAmbiguity.md]] : Robust Control under Stationary Ambiguity
+- [[2026-08-05_14-56-14Z_SVI_DAG_AStructuredVariationalInferenceApproachtoB.md]] : SVI-DAG: A Structured Variational Inference Approach to Bayesian Causal Discovery
+- [[2026-08-05_13-12-03Z_MGSB_ManifoldGatedSignatureBranchPressure_DomainBa.md]] : MGSB: Manifold Gated Signature Branch Pressure-Domain Baseline Architecture for Two-Phase Pipeline Flows Under Distributional Shift
+- [[2026-08-05_14-08-08Z_VariationalBoundsforPerceptronLearningfromStructur.md]] : Variational Bounds for Perceptron Learning from Structured Data
+- [[2026-08-05_17-26-47Z_MALT_LightweightCurvature_AwareMuonviaDiagonalPrec.md]] : MALT: Lightweight Curvature-Aware Muon via Diagonal Preconditioning
+- [[2026-08-05_16-21-18Z_RevealedRationality_Label_FreeEvaluationandRegular.md]] : Revealed Rationality: Label-Free Evaluation and Regularization from Representation Theorems
+- [[2026-08-05_07-47-34Z_RepresentingVisualEvidenceforItemDifficultyPredict.md]] : Representing Visual Evidence for Item Difficulty Prediction: Visual Textualization and Image-Native Modeling
+- [[2026-08-05_17-58-15Z_OctoLong_Mid_TrainingOnCross_RepositoryCodeContext.md]] : OctoLong: Mid-Training On Cross-Repository Code Contexts Enhances Long-Context Modeling
+- [[2026-08-05_08-53-16Z_WhenAbsenceIsEvidence_EvaluatingCompleteness_Sensi.md]] : When Absence Is Evidence: Evaluating Completeness-Sensitive Negative Reasoning in Large Language Models
+- [[2026-08-05_07-32-05Z_LearningCompressionRulesforNetworkTraffic.md]] : Learning Compression Rules for Network Traffic
+- [[2026-08-05_01-28-43Z_COMPAS_Difficulty_AwareJointSearchforOptimizingCod.md]] : COMPAS: Difficulty-Aware Joint Search for Optimizing Code Generation
+- [[2026-08-05_16-09-25Z_TowardsPhysicsofMultimodalPretraining_KnowledgeFlo.md]] : Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes
+- [[2026-08-05_17-45-18Z_StableDensityRidges_ConsistencyandConvergenceofSub.md]] : Stable Density Ridges: Consistency and Convergence of Subspace Constrained Mean Shift
+- [[2026-08-05_17-42-29Z_MultimodalSpatiotemporalAtmosphericDataAssimilatio.md]] : Multimodal Spatiotemporal Atmospheric Data Assimilation with Latent Flow-matching
+- [[2026-08-05_17-50-08Z_ChainedRecursiveLanguageModelsforMulti_IterationRe.md]] : Chained Recursive Language Models for Multi-Iteration Reasoning
+- [[2026-08-05_17-53-33Z_PredictingBrainMorphometrywithMT_GNN_MeshEvolution.md]] : Predicting Brain Morphometry with MT-GNN: Mesh Evolution in Continuous Time with Graph-Based Metric Tensor Embeddings
+- [[2026-08-05_17-56-40Z_TeachingNemotronGreek_MiningaCorpus_AdaptingRetrie.md]] : Teaching Nemotron Greek: Mining a Corpus, Adapting Retrieval, and Grounding Generation for Modern Greek across Specialist Domains
+- [[2026-08-05_17-58-58Z_Argus_AGeneral_PurposeAgenticRuntimeforLong_Horizo.md]] : Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning
+- [[2026-08-05_17-20-16Z_MultiPathFormer_TowardsaFoundationModelforMultipat.md]] : MultiPathFormer: Towards a Foundation Model for Multipath Wireless Propagation
+- [[2026-08-05_17-33-47Z_SameFormulas_DifferentSemantics_DoLanguageModelsFo.md]] : Same Formulas, Different Semantics: Do Language Models Follow Modal Logic Specifications?
+- [[2026-08-05_17-59-44Z_ReasoningCore_DesigningBroadProceduralDataforCompl.md]] : Reasoning Core: Designing Broad Procedural Data for Completion-Supervised Reasoning Training
+- [[2026-08-05_13-40-48Z_DoLanguageModelsKnowTheirSlang_QueerSlangUnderstan.md]] : Do Language Models Know Their Slang? Queer Slang Understanding in User-Generated Content
+- [[2026-08-05_13-57-16Z_TheNeuralEcho_ASignalProcessingPerspectiveforUnder.md]] : The Neural Echo: A Signal Processing Perspective for Understanding Neural Networks
+- [[2026-08-05_16-28-57Z_CanonicalJointEnergy_BasedModelonCIFAR_10_failurem.md]] : Canonical Joint Energy-Based Model on CIFAR-10: failure modes and practical indistinguishability of Predictor-Corrector and SGLD samplers
+- [[2026-08-05_17-42-33Z_BnBERT_iPET_SparseFew_ShotLanguageModelingforBenga.md]] : BnBERT-iPET: Sparse Few-Shot Language Modeling for Bengali via Lottery Ticket Pruning
+- [[2026-08-05_13-13-37Z_AModularPart_of_SpeechTaggerforScottishGaelicusing.md]] : A Modular Part-of-Speech Tagger for Scottish Gaelic using spaCy
+- [[2026-08-05_17-22-02Z_OptimizingWhatPoliciesLearnFrom_Recoverability_awa.md]] : Optimizing What Policies Learn From: Recoverability-aware Rollout Intervention Learning
+- [[2026-08-05_17-46-28Z_RobustandEfficientMotionReasoningforPrivacy_AwareC.md]] : Robust and Efficient Motion Reasoning for Privacy-Aware Classroom Incident Recognition
+- [[2026-08-05_16-21-46Z_Linkpredictiononmulti_relationalgraphsfromaninflue.md]] : Link prediction on multi-relational graphs from an influence propagation perspective
+- [[2026-08-05_13-28-08Z_Intrinsic_HybridLatentDiffusionModelsforGenerative.md]] : Intrinsic-Hybrid Latent Diffusion Models for Generative Modeling on Unknown Manifolds
+- [[2026-08-05_14-24-34Z_EvaluationPitfallsandSparsityLimitationsinLLM_base.md]] : Evaluation Pitfalls and Sparsity Limitations in LLM-based Confidence Estimates for Classification
+- [[2026-08-05_17-25-27Z_ItemResponseTheoryforAISafety.md]] : Item Response Theory for AI Safety
+- [[2026-08-05_17-44-36Z_Representationalseparationbetweenunitaryandchannel.md]] : Representational separation between unitary and channel quantum generative models via shared classical randomness at shallow depth
+- [[2026-08-05_04-56-53Z_ACounterexampletoFourierAlignmentinSingle_NeuronMo.md]] : A Counterexample to Fourier Alignment in Single-Neuron Modular Addition
+- [[2026-08-05_07-43-41Z_RelationalResponseFields_AGeneralTheoryofBlack_Box.md]] : Relational Response Fields: A General Theory of Black-Box LLM Response Consistency and Recovery
+- [[2026-08-05_17-48-45Z_DASyR_LLM_Domain_AwareSymbolicRegressionwithLLMsfo.md]] : DASyR-LLM: Domain-Aware Symbolic Regression with LLMs for Kinetic Model Discovery
+- [[2026-08-05_16-09-12Z_ORACLE_AMulti_ObjectiveReinforcementLearning_Based.md]] : ORACLE: A Multi-Objective Reinforcement Learning-Based Analog Circuit Design Optimizer with Large Language Models-Guided Exploration
+- [[2026-08-05_17-57-16Z_TowardSkill_NativeLLMs_SkillEntropyforBenchmarking.md]] : Toward Skill-Native LLMs: Skill Entropy for Benchmarking and Training Long-Horizon Reasoning
+- [[2026-08-04_19-40-30Z_Test_thenRoute_HowLanguageModelsExecuteIn_ContextC.md]] : Test, then Route: How Language Models Execute In-Context Conditional Rules Across Models and Languages
+- [[2026-08-05_07-37-23Z_AModelMergingApproachforContinualMLLMUnlearning.md]] : A Model Merging Approach for Continual MLLM Unlearning
+- [[2026-08-05_01-55-33Z_TheCalibrationFloor_FormatRepairCanMasqueradeasSel.md]] : The Calibration Floor: Format Repair Can Masquerade as Self-Correction at Small-to-Mid Scale
+- [[2026-08-04_23-24-39Z_TheRAILPrinciplesforNeurosymbolicAI_Reasoning_Assu.md]] : The RAIL Principles for Neurosymbolic AI: Reasoning, Assurances, Interfacing and Learning
+- [[2026-08-05_17-03-13Z_MarsCast_TransferLearningofAIWeatherFoundationMode.md]] : MarsCast: Transfer Learning of AI Weather Foundation Models to Planetary Atmospheres
+- [[2026-08-05_09-58-59Z_AILiteracyforLegalTranslation_DevelopingDigitalRes.md]] : AI Literacy for Legal Translation: Developing Digital Resilience
+- [[2026-08-05_17-24-55Z_LearningWhentoStop_Prefix_OptimalDynamicDiffusionP.md]] : Learning When to Stop: Prefix-Optimal Dynamic Diffusion Policies for Continuous Control
+- [[2026-08-05_03-32-08Z_NotEveryDivergenceShouldBeSuppressed_Counterfactua.md]] : Not Every Divergence Should Be Suppressed: Counterfactual Recoverability in On-Policy Distillation
+- [[2026-08-05_12-26-23Z_Trace_Verify_andCorrect_ATraining_FreeFrameworkfor.md]] : Trace, Verify, and Correct: A Training-Free Framework for Spatial Reasoning in Multimodal LLMs
+- [[2026-08-05_17-08-31Z_RepairFormer_AutomatedRepairofStructuredInputsUsin.md]] : RepairFormer: Automated Repair of Structured Inputs Using Transformers
+- [[2026-08-05_17-32-43Z_HierarchicalGraphMemoryforLLMAgentswithPath_levelL.md]] : Hierarchical Graph Memory for LLM Agents with Path-level Localization and Rewrite
+- [[2026-08-05_16-33-46Z_LanguageModelsGeneralizetoHuman_likeWordOrderPrefe.md]] : Language Models Generalize to Human-like Word Order Preferences
+- [[2026-08-04_23-01-30Z_LLM_basedVulnerabilityDiscoveryinBusinessProcessDo.md]] : LLM-based Vulnerability Discovery in Business Process Documentation
+- [[2026-08-05_10-53-13Z_TheSampleComplexityofDistributionallyRobustPACLear.md]] : The Sample Complexity of Distributionally Robust PAC Learning under Cressie--Read Divergences
+- [[2026-08-05_17-53-06Z_OPD_V_VisualOn_PolicySelf_DistillationwithModality.md]] : OPD-V: Visual On-Policy Self-Distillation with Modality Balance
+- [[2026-08-04_19-37-29Z_AComparativeStudyofFeatureSelectionMethodsforEHRDi.md]] : A Comparative Study of Feature Selection Methods for EHR Diagnosis Codes in Opioid Use Disorder Prediction
+- [[2026-08-05_13-51-43Z_NonparametricGoodness_of_fitTestingunderCovariateS.md]] : Nonparametric Goodness-of-fit Testing under Covariate Shift
+- [[2026-08-05_10-44-26Z_KathleenWrites_AutoregressiveGenerationandDataScal.md]] : Kathleen Writes: Autoregressive Generation and Data Scaling Without Attention
+- [[2026-08-05_05-56-41Z_EndoVLM_AnEndoscopyVision_LanguagePre_trainingMode.md]] : EndoVLM: An Endoscopy Vision-Language Pre-training Model via Anatomy-Guided Sparsity and Progressive Alignment
+- [[2026-08-05_06-41-28Z_GeoReward_MitigatingContextualVariableOverestimati.md]] : GeoReward: Mitigating Contextual Variable Overestimation in Vision-Language Models for Cross-Market Preference Prediction
+- [[2026-08-05_16-55-59Z_GradientImmunity_Null_SpaceResistancetoMaliciousFi.md]] : Gradient Immunity: Null-Space Resistance to Malicious Fine-Tuning
+- [[2026-08-05_09-14-22Z_OnMUONoptimization_Fromnon_convergencetoanerrorana.md]] : On MUON optimization: From non-convergence to an error analysis with Polar Express and the Newton-Schulz polynomial from implementations
+- [[2026-08-05_14-32-14Z_StrengtheningTarget_LanguageFeatures_SAE_BasedStee.md]] : Strengthening Target-Language Features: SAE-Based Steering for Multilingual Inference
+- [[2026-08-05_00-06-56Z_SearchingforSound_MeaningCollisions_Graph_BasedAff.md]] : Searching for Sound-Meaning Collisions: Graph-Based Affordance Retrieval and Multi-Evaluator Ranking for Pun Translation at CLEF 2026 JOKER Task 2
+- [[2026-08-05_10-59-53Z_SuppressionSticks_LocalityIsFragile_AClosed_LoopTa.md]] : Suppression Sticks, Locality Is Fragile: A Closed-Loop Target-and-Control Audit of Task-Vector Negation in VLA Policies
+- [[2026-08-05_13-59-35Z_PreverbalUninflectedandUnderivedRootsinMapudungun_.md]] : Preverbal Uninflected and Underived Roots in Mapudungun. Wuno and Its Implications
+- [[2026-08-05_10-10-13Z_ActiveLearningGuidedDesignSpaceRefinementforScalab.md]] : Active Learning Guided Design Space Refinement for Scalable Multi-Objective Bayesian Optimization in Materials Discovery
+- [[2026-08-05_17-09-13Z_HardwareDesignandSecurityintheEraofChipletsandLLMs.md]] : Hardware Design and Security in the Era of Chiplets and LLMs
+- [[2026-08-05_16-59-49Z_TheEffectofPerceivedRaceandGenderonPoliceLanguageU.md]] : The Effect of Perceived Race and Gender on Police Language Use: Experimental Evidence from VR Simulations
+- [[2026-08-05_14-55-14Z_OptimalTraining_TimeScalinginGradualAdaptation.md]] : Optimal Training-Time Scaling in Gradual Adaptation
+- [[2026-08-05_04-22-05Z_ThePriceofIsolation_EstimatingtheEcosystemCostofSy.md]] : The Price of Isolation: Estimating the Ecosystem Cost of Symmetric Two-Sided A/B Testing
+- [[2026-08-05_16-23-31Z_Short_termloadforecastingunderEU_AIActRequirements.md]] : Short-term load forecasting under EU-AI Act Requirements in Safety-Critical Environments: Results from a 41-day live challenge on the aggregated German transmission-grid load
+- [[2026-08-05_01-21-02Z_Cost_AwareMulti_ObjectiveBandits_TheoryandApplicat.md]] : Cost-Aware Multi-Objective Bandits: Theory and Application to Budgeted LLM Configuration Evaluation
+- [[2026-08-05_10-28-21Z_DifferentiatingThroughDualPrices_End_to_EndPolicyL.md]] : Differentiating Through Dual Prices: End-to-End Policy Learning Under Capacity Constraints
+- [[2026-08-05_10-25-56Z_AutomaticStatisticalTestforRationallyExpressibleAl.md]] : Automatic Statistical Test for Rationally Expressible Algorithms by Selective Inference, with Applications to Feature Selection
+- [[2026-08-05_06-02-51Z_DeepInvert_Semi_SupervisedEmbeddingInversionAgains.md]] : DeepInvert: Semi-Supervised Embedding Inversion Against Obfuscated Language Models
+- [[2026-08-04_19-51-52Z_Patients_like_me_AVariationalLM__GNNFrameworkforEx.md]] : Patients-like-me: A Variational LM--GNN Framework for Explainable Clinical Prediction
+- [[2026-08-05_12-18-28Z_SimileUnderstandinginText_to_ImageModels_AnEvaluat.md]] : Simile Understanding in Text-to-Image Models: An Evaluation Framework
+- [[2026-08-05_17-25-17Z_Capability_GatedPlanning_Cost_to_GoalDiscoveryandt.md]] : Capability-Gated Planning: Cost-to-Goal Discovery and the Limits of Myopic Experiment Selection
+- [[2026-08-04_18-00-01Z_SpecDrop_Parameter_FreeCategory_ConditionedRouting.md]] : SpecDrop: Parameter-Free Category-Conditioned Routing for Modular Specialization
+- [[2026-08-05_12-51-02Z_Reachabilityin3_VAS.md]] : Reachability in 3-VAS
+- [[2026-08-04_19-29-04Z_VisualizingGraph_to_AnswerMechanismRecoveryinMater.md]] : Visualizing Graph-to-Answer Mechanism Recovery in Materials-Science Hypothesis Generation
+- [[2026-08-05_02-45-14Z_NeuroPB_ScalingNeuralDecodingwithPretrainedBehavio.md]] : NeuroPB: Scaling Neural Decoding with Pretrained Behavioral Representations
+- [[2026-08-05_17-19-12Z_Germanpartiesshiftedtowardsintuition_basedrhetoric.md]] : German parties shifted towards intuition-based rhetoric after the far right's parliamentary breakthrough
+- [[2026-08-05_04-17-03Z_Deltoris_EnablingReal_timeVLAInferenceinEmbodiedAI.md]] : Deltoris: Enabling Real-time VLA Inference in Embodied AI via Bit-level Sparsity and Speculative Inference
+- [[2026-08-05_08-07-15Z_CausalEvidenceExtractionandTriangulationinCrisisRe.md]] : Causal Evidence Extraction and Triangulation in Crisis Reports using Large Language Models: A ReliefWeb-based Study
+- [[2026-08-05_05-58-06Z_LocalViolationCertificationforLinearPredict_Then_O.md]] : Local Violation Certification for Linear Predict-Then-Optimize Pipelines
+- [[2026-08-05_02-54-34Z_WhenProxyPredictionBecomesEquationReconstruction_D.md]] : When Proxy Prediction Becomes Equation Reconstruction: Diagnostics and Residual Learning for Factor-Derived Proxy Supervision
+- [[2026-08-05_15-32-27Z_SpecRoll_Fast_SlowVerifier_FeedbackAdaptationforSp.md]] : SpecRoll: Fast-Slow Verifier-Feedback Adaptation for Speculative Reinforcement Learning Rollouts
+- [[2026-08-04_22-56-39Z_TheFairnessCollapsePhenomenon_BiasAmplificationinL.md]] : The Fairness Collapse Phenomenon: Bias Amplification in Language Models Trained on Synthetic Data
+- [[2026-08-05_17-50-31Z_SpokenFunctionCalling_ANewPerspectiveonSpokenLangu.md]] : Spoken Function Calling: A New Perspective on Spoken Language Understanding for Large Audio Language Models
+- [[2026-08-04_16-10-59Z_SpendBitsWhereQueriesLook_KVCacheVectorQuantizatio.md]] : Spend Bits Where Queries Look: KV Cache Vector Quantization with Attention-Preserving Transforms
+- [[2026-08-05_01-17-12Z_RightReset_ChunkingbyPrefixRemoval.md]] : Right Reset: Chunking by Prefix Removal
+- [[2026-08-05_15-51-36Z_ProtoreasoninginTinyTransformers.md]] : Protoreasoning in Tiny Transformers
+- [[2026-08-05_17-44-52Z_RewardStructureShapestheInteractionBetweenEpisodic.md]] : Reward Structure Shapes the Interaction Between Episodic Exploration and Neural Memory in Reinforcement Learning
+- [[2026-08-05_17-12-39Z_VQ_VAD_Vector_quantizedMotionRepresentationLearnin.md]] : VQ-VAD: Vector-quantized Motion Representation Learning for Human-centric Video Anomaly Detection
+- [[2026-08-05_11-01-47Z_PersonalizedFederatedSparseAdaptationofTime_Series.md]] : Personalized Federated Sparse Adaptation of Time-Series Foundation Models
+- [[2026-08-05_02-45-24Z_EdgeLM_EdgeDemonstrationsforLanguageModels_TableUn.md]] : EdgeLM: Edge Demonstrations for Language Models' Table Understanding
 - [[2026-08-04_23-44-35Z_SafeCommit_CertifyingWhenMemory_GroundedAgentsMayS.md]] : SafeCommit: Certifying When Memory-Grounded Agents May Safely Act
 - [[2026-08-05_06-48-15Z_GUARD_GroundingUncertaintyandAblation_BasedRiskDet.md]] : GUARD: Grounding Uncertainty and Ablation-Based Risk Detection for Diffusion-Based VLAs
 - [[2026-08-05_11-59-20Z_Chain_of_ThoughtMonitoringCanBeUnreliableinImplici.md]] : Chain-of-Thought Monitoring Can Be Unreliable in Implicit-Influence Settings
@@ -5527,3 +5648,4 @@ tags: ['wiki']
 - [[2026-08-05_ZedDeltaDB.md]] : Zed DeltaDB
 - [[2026-08-05_MetalaunchesMuseCode_anAIagentforlargecodebases.md]] : Meta launches Muse Code, an AI agent for large code bases
 - [[2026-08-05_ElonMusk__8217_sattemptatanAIWikipediahasn__8217_t.md]] : Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months
+- [[2026-08-05_LLMswon_tbreaksymmetriccrypto.md]] : LLMs won't break symmetric crypto

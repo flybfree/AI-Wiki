@@ -10,7 +10,13 @@ tags: ["summary"]
 
 ## Summary
 
-Summary unavailable — please regenerate from the original source.
+This page explains machine-learning architecture as the blueprint for the full system, not just the model: data ingestion, storage, training, evaluation, deployment, monitoring, and retraining all have to work together. The practical message is that scalable ML depends on the surrounding pipeline as much as on the algorithm.
+
+## Key Takeaways
+- Data quality and splitting are core architecture choices, not afterthoughts.
+- Versioned storage and reproducibility matter when teams need to compare experiments.
+- Monitoring and retraining are required if the model is going to stay useful in production.
+- Different ingestion modes—batch, streaming, CDC, and real-time—fit different operational needs.
 
 ## Related Concepts
 

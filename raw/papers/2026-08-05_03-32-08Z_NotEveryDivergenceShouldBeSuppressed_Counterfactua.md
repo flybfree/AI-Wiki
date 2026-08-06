@@ -1,0 +1,18 @@
+---
+title: Not Every Divergence Should Be Suppressed: Counterfactual Recoverability in On-Policy Distillation
+published: 2026-08-05T03:32:08Z
+authors: De Jiang, Zhengyang Zhang, Kehong Yuan, Shaohua Ma
+url: http://arxiv.org/abs/2608.04408v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Not Every Divergence Should Be Suppressed: Counterfactual Recoverability in On-Policy Distillation
+
+## Abstract
+On-policy distillation (OPD) supervises student-visited trajectories, yet divergence-based rules cannot determine whether an erroneous prefix remains correctable. We formulate this decision as counterfactual recoverability and replay each error state through budget-matched teacher-continuation and rollback branches. Based on their relative success, states are categorized as recoverable, irreversible-but-avoidable, or ambiguous, and these labels guide whether training retains, rolls back, or conventionally supervises the corresponding trajectory. On AIME branch diagnostics, the mean continuation-minus-rollback effect is 0.185 for recoverable states and -1.000 for irreversible-but-avoidable states, demonstrating opposite intervention preferences. A branch-derived recoverability proxy achieves an AUC of 1.000, substantially outperforming divergence alone at 0.392. Across frozen evaluations, recoverability-aware control achieves the strongest recorded performance, reaching 0.578 success on held-out AIME2025 compared with 0.517 for the best baseline. It also improves AIME2024-2025 average@32 from 0.2656 to 0.3125 and GPQA-Diamond average@32 from 0.2702 to 0.3070. Component ablations further show that retaining teacher-correctable prefixes provides the largest individual contribution. These findings establish recoverability as an outcome-grounded decision variable for selective supervision in OPD.
+
+## Metadata
+- **Published**: 2026-08-05T03:32:08Z
+- **Authors**: De Jiang, Zhengyang Zhang, Kehong Yuan, Shaohua Ma
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.04408v1)

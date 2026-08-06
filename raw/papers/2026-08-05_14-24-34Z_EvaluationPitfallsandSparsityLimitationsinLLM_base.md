@@ -1,0 +1,18 @@
+---
+title: Evaluation Pitfalls and Sparsity Limitations in LLM-based Confidence Estimates for Classification
+published: 2026-08-05T14:24:34Z
+authors: Elena Merdjanovska, Omar Zaidan, Andreas Rücklé
+url: http://arxiv.org/abs/2608.04899v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Evaluation Pitfalls and Sparsity Limitations in LLM-based Confidence Estimates for Classification
+
+## Abstract
+Confidence estimation is essential when LLMs are used for classification, indicating when predictions can be trusted. However, common approaches such as verbalization produce extremely sparse outputs. For instance, Qwen3-32B verbalizes only eight unique confidence values on SST-2, with over half being exactly 95%, a pattern we observe consistently across four datasets and two LLMs. Besides limiting practical utility, we show that this sparsity critically affects evaluation: the choice of interpolation in area under the accuracy-rejection curve (AUARC) dramatically alters rankings, with consistency sampling dropping from best to worst under stepwise versus linear interpolation. We advocate for standardizing stepwise interpolation for a fairer comparison. Under such a fair evaluation, we find that weighting verbalized digits by token probabilities, a method we term verbalization logprobs, addresses sparsity and achieves the best AUARC (+2.3 points over vanilla verbalization) without incurring additional inference cost.
+
+## Metadata
+- **Published**: 2026-08-05T14:24:34Z
+- **Authors**: Elena Merdjanovska, Omar Zaidan, Andreas Rücklé
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.04899v1)
