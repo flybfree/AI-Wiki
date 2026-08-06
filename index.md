@@ -107,6 +107,8 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-23.md|Summary: 2026-07-23 Daily AI Intelligence Summary]] — compute, product surfaces, safety, and AI economics
+- [[concepts/knowledge-management/hostinger-daily-ai-blog-template.md|Hostinger Daily AI Intelligence Blog Template]] — Hostinger-ready public blog template with inline sources and reference block
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-22.md|Summary: 2026-07-22 Daily AI Intelligence Summary]] — infrastructure, safety, and wearables
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-21.md|Summary: 2026-07-21 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on diffusion, agents, and evaluation
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-20.md|Summary: 2026-07-20 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on prompting, multimodal efficiency, and retrieval
@@ -5721,3 +5723,8 @@ tags: ['wiki']
 - [[2026-08-06_AIbotsstartedareligion_humansimmediatelyfollowed.md]] : AI bots started a religion — humans immediately followed
 - [[2026-08-06_HowOpenAILostControlofanAIModel_andWhat___.md]] : How OpenAI Lost Control of an AI Model—and What ...
 - [[2026-08-06_MarioMeetsPareto.md]] : Mario Meets Pareto
+- [[2026-08-06_ThemessypoliticsbehindGoogle_sbigAIshakeup.md]] : The messy politics behind Google’s big AI shakeup
+- [[2026-08-06_WhatGoogle_sAItalentexoduscouldmeanforfuturedrugdi.md]] : What Google's AI talent exodus could mean for future drug discovery - Drug Target Review
+- [[2026-08-06_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
+- [[2026-08-06_WorkingwiththeAmericanPsychologicalAssociationonyo.md]] : Working with the American Psychological Association on youth mental health and AI
+- [[2026-08-06_Naïveraises_28_5Mtoautomatethegruntworkofsettingup.md]] : Naïve raises $28.5M to automate the grunt work of setting up and running a company

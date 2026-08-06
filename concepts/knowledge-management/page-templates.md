@@ -359,6 +359,69 @@ Before saving a page, check:
 - **Hub pages** for navigation and discovery
 - **Logseq-safe summaries** for avoiding title collisions
 
+## 7) Hostinger daily AI blog template
+
+Use this when turning the daily AI intelligence briefing into a public Hostinger blog post.
+
+```markdown
+---
+title: "Hostinger Daily AI Intelligence Blog Template"
+created: 2026-08-06
+updated: 2026-08-06
+type: template
+tags: [hostinger, blog, daily-briefing, ai-intelligence, template, website]
+sources: ["https://github.com/flybfree/AI-Wiki/wiki"]
+confidence: high
+---
+
+# Hostinger Daily AI Intelligence Blog Template
+
+**Source**: [AI Research Wiki](https://github.com/flybfree/AI-Wiki/wiki)
+
+## Recommended post fields
+
+- **Title**: `Daily AI Intelligence Briefing — YYYY-MM-DD`
+- **Slug**: `daily-ai-intelligence-YYYY-MM-DD`
+- **Category**: `AI Intelligence`
+- **Excerpt**: 1-2 sentence summary for the blog index
+- **Featured image**: optional
+- **SEO title**: short and readable
+- **Meta description**: 150-160 characters
+
+## Body
+
+### Intro
+Lead with the day’s main signal in one sentence.
+
+### What stood out today
+Use 3-5 short sections. Each section should:
+- name the theme
+- explain it in plain English
+- include inline source links
+- add a 2-3 bullet “why it matters” list
+
+### Why it matters
+Explain the broader trend in plain English.
+
+### Watch next
+- <thing to watch 1>
+- <thing to watch 2>
+- <thing to watch 3>
+
+### Sources / references
+- [Source 1](<url>)
+- [Source 2](<url>)
+- [Source 3](<url>)
+
+### CTA
+Short closing line inviting the reader to come back tomorrow.
+```
+
+## Companion pages
+
+- [[concepts/knowledge-management/hostinger-daily-ai-blog-template.md|Hostinger Daily AI Intelligence Blog Template]]
+- [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]]
+
 ## Related pages
 
 - [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]]

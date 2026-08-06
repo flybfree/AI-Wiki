@@ -8,6 +8,8 @@ tags: ['wiki']
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
 ## AI Research Engine Audit Log
+## [2026-08-06 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md drafted for Hostinger blog publishing
+## [2026-08-06 00:00] template | concepts/knowledge-management/hostinger-daily-ai-blog-template.md created for Hostinger blog publishing
 ## [2026-07-24 00:05] summarize | concepts/ai-trends/daily-ai-intelligence-summary.md refreshed from 33-item daily AI intake
 ## [2026-07-24 00:05] archive | concepts/ai-trends/daily-ai-intelligence-summary-2026-07-23.md created from rolling summary
 ## [2026-07-23 23:14] summarize | concepts/ai-trends/daily-ai-intelligence-summary.md refreshed from 16-item daily AI intake
@@ -5852,3 +5854,8 @@ tags: ['wiki']
 ## [2026-08-06 08:04] ingest | 2026-08-06_AIbotsstartedareligion_humansimmediatelyfollowed.md
 ## [2026-08-06 08:04] ingest | 2026-08-06_HowOpenAILostControlofanAIModel_andWhat___.md
 ## [2026-08-06 08:04] ingest | 2026-08-06_MarioMeetsPareto.md
+## [2026-08-06 09:04] ingest | 2026-08-06_ThemessypoliticsbehindGoogle_sbigAIshakeup.md
+## [2026-08-06 11:04] ingest | 2026-08-06_WhatGoogle_sAItalentexoduscouldmeanforfuturedrugdi.md
+## [2026-08-06 11:04] ingest | 2026-08-06_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md
+## [2026-08-06 11:04] ingest | 2026-08-06_WorkingwiththeAmericanPsychologicalAssociationonyo.md
+## [2026-08-06 12:02] ingest | 2026-08-06_Naïveraises_28_5Mtoautomatethegruntworkofsettingup.md
