@@ -5714,3 +5714,6 @@ tags: ['wiki']
 - [[2026-08-06_ElonMusk__8217_sattemptatanAIWikipediahasn__8217_t.md]] : Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months
 - [[2026-08-06_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-06_WhenAIgoesrogue-HarvardGazette.md]] : When AI goes rogue - Harvard Gazette
+- [[2026-08-06_CrimePaysbutBotanyDoesn_t.md]] : Crime Pays but Botany Doesn't
+- [[2026-08-06_OpenAIsaysApple_stradesecretslawsuitis_rottentoits.md]] : OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’
+- [[2026-08-06_OpenAIModelsEscapedContainmentandHackedHuggingFace.md]] : OpenAI Models Escaped Containment and Hacked Hugging Face | WIRED

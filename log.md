@@ -5845,3 +5845,6 @@ tags: ['wiki']
 ## [2026-08-06 00:04] ingest | 2026-08-06_ElonMusk__8217_sattemptatanAIWikipediahasn__8217_t.md
 ## [2026-08-06 00:04] ingest | 2026-08-06_IntroducingInkling-Small.md
 ## [2026-08-06 00:10] ingest | 2026-08-06_WhenAIgoesrogue-HarvardGazette.md
+## [2026-08-06 02:02] ingest | 2026-08-06_CrimePaysbutBotanyDoesn_t.md
+## [2026-08-06 05:03] ingest | 2026-08-06_OpenAIsaysApple_stradesecretslawsuitis_rottentoits.md
+## [2026-08-06 05:03] ingest | 2026-08-06_OpenAIModelsEscapedContainmentandHackedHuggingFace.md
