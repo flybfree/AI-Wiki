@@ -5728,3 +5728,11 @@ tags: ['wiki']
 - [[2026-08-06_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
 - [[2026-08-06_WorkingwiththeAmericanPsychologicalAssociationonyo.md]] : Working with the American Psychological Association on youth mental health and AI
 - [[2026-08-06_Naïveraises_28_5Mtoautomatethegruntworkofsettingup.md]] : Naïve raises $28.5M to automate the grunt work of setting up and running a company
+- [[2026-08-06_OpenAIisgivingChatGPTfreeusersunlimitedtextchats.md]] : OpenAI is giving ChatGPT free users unlimited text chats
+- [[2026-08-06_ImprovingGPT-5_6SolinChatGPT_andexpandingaccessfor.md]] : Improving GPT-5.6 Sol in ChatGPT—and expanding access for free users
+- [[2026-08-06_ImprovingGPT_5_6SolinChatGPT_andexpandingaccesstoG.md]] : Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
+- [[2026-08-06_ChatGPTbringsunlimitedtextchatstofreeusers.md]] : ChatGPT brings unlimited text chats to free users
+- [[2026-08-06_Qwen3_8Maxnowrankedasthebestoverallmodelbyagentici.md]] : Qwen3.8 Max now ranked as the best overall model by agentic index
+- [[2026-08-06_GoogleShakesupAILeadership_HassabisSwapsCEORolefor.md]] : Google Shakes up AI Leadership. Hassabis Swaps CEO Role for Research .
+- [[2026-08-06_JonyIve__8217_sfirstOpenAIgadgetisreportedlyahocke.md]] : Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker
+- [[2026-08-06_AMDacquiresTaalastoboostinferenceperformancebyetch.md]] : AMD acquires Taalas to boost inference performance by etching models in silicon
