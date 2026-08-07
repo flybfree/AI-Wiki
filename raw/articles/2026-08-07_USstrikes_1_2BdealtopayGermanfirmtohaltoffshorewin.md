@@ -1,0 +1,53 @@
+---
+title: US strikes $1.2B deal to pay German firm to halt offshore wind projects
+date: 2026-08-07
+url: https://www.bbc.com/news/articles/c1e1vg0gjl5o
+type: article-full-text
+tags: [news, ai-research, full-text]
+source_url: https://www.bbc.com/news/articles/c1e1vg0gjl5o
+source_feed: Hacker News
+ai_relevance: include
+ai_topic: safety-governance
+ai_reason: meets AI relevance threshold
+scraped: 2026-08-07 06:02
+---
+
+# US strikes $1.2B deal to pay German firm to halt offshore wind projects
+
+## Full Article
+
+US strikes $1.2bn deal to pay German firm to halt offshore wind projects
+1 hour ago
+Share
+Save
+Add as preferred on Google
+Rorey Bosotti
+[Getty Images Five wind turbines mounted on yellow metal structures embedded into the sea bed at the Block Island Wind Farm off the coast of Block Island, RI.]
+Getty Images
+German energy company RWE has said it will abandon its offshore wind projects in the US after reaching a $1.2bn (£892m) payout deal with President Donald Trump's Department of the Interior (DoI).
+RWE said that it will now reinvest the sum into conventional gas projects, including $900m (£669m) in a liquefied natural gas (LNG) export terminal project in Louisiana.
+"After careful consideration, it was determined there is no path forward to permit these projects in the US for the foreseeable future," the company said in a statement.
+RWE said it has agreed to relinquish its leases off the California and Louisiana coasts as well as in the New York Bight.
+Six possible effects of Trump's climate policy change
+Trump announces $700m coal investment using wartime powers
+Overall, the German firm plans to invest approximately €17bn (£14.5bn; $19.6bn) in the US over the next six years "to grow its generation capacity".
+Interior Secretary Doug Burgum said in a statement posted on X that Americans deserve an energy system built on common sense and not one dependent on "costly subsidies".
+"We welcome RWE's agreement and voluntary investment in projects that strengthen our nation's energy security," he added.
+The deal is the latest the Trump administration has reached this year as Trump, a vocal supporter of the fossil fuel industry, continues his push to halt offshore wind projects.
+Trump has sought to boost government support for fossil fuels after campaigning for the presidency under
+the slogan "drill, baby, drill".
+Days after his return to office, he said "we're not going to do the wind thing" and called them "big, ugly windmills" that were dangerous to wildlife.
+In March 2026, the DoI reached a deal with TotalEnergies putting an end to the French company's offshore wind projects in the US.
+Instead, the firm agreed to reroute investment to build a LNG plant in Texas and to develop "upstream conventional oil" in the Gulf of Mexico.
+The administration signed a similar $129bn (£96bn) agreement with Charlotte-based Duke Energy last month in exchange for the termination of the company's offshore wind lease in the Carolina Long Bay area.
+How Trump's loathing for wind turbines started with a Scottish court battle
+US pauses offshore wind projects over security concerns
+Trump revokes landmark ruling that greenhouse gases endanger public health
+Environment
+Wind power
+Energy industry
+Donald Trump
+United States
+
+## Metadata
+- **Source**: [Original Article](https://www.bbc.com/news/articles/c1e1vg0gjl5o)

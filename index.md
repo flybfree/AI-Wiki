@@ -6066,3 +6066,6 @@ tags: ['wiki']
 - [[2026-08-07_JonyIve__8217_sfirstOpenAIgadgetisreportedlyahocke.md]] : Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker
 - [[2026-08-07_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
 - [[2026-08-07_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-08-07_HowHSPGRUPPEbuildsAIcapabilitiesfortaxadvisory.md]] : How HSP GRUPPE builds AI capabilities for tax advisory
+- [[2026-08-07_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[2026-08-07_USstrikes_1_2BdealtopayGermanfirmtohaltoffshorewin.md]] : US strikes $1.2B deal to pay German firm to halt offshore wind projects
