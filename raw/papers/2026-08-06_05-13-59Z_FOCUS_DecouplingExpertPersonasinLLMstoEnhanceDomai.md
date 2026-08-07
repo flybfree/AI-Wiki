@@ -1,0 +1,18 @@
+---
+title: FOCUS: Decoupling Expert Personas in LLMs to Enhance Domain Expert Capabilities
+published: 2026-08-06T05:13:59Z
+authors: Guanyu Wang, Zidi Zhang, Xu Chu
+url: http://arxiv.org/abs/2608.05611v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# FOCUS: Decoupling Expert Personas in LLMs to Enhance Domain Expert Capabilities
+
+## Abstract
+Large Language Models (LLMs) can exhibit diverse personas, and activating expert personas has been shown to improve domain expertise and task accuracy. However, existing persona control methods often suffer from cross-domain coupling, which may lead to overly aggressive behavior in high-caution domains such as healthcare, or excessive conservatism in risk-sensitive domains such as financial trading. To address this issue, we propose FOCUS (\textbf{\underline{F}}ine-tuning with \textbf{\underline{O}}rthogonal \textbf{\underline{C}}ontrol for \textbf{\underline{U}}ncoupled persona\textbf{\underline{S}}). FOCUS first automatically extracts expert persona vectors from LLMs, then applies orthogonal decomposition to decouple domain-specific expert personas, and finally introduces an expert gating module to adaptively control persona activation according to task contexts. With a two-stage training strategy and a gated selection regularizer, the model learns to activate appropriate personas for both single-domain and cross-domain tasks. Experiments on financial, legal, medical, and cross-domain benchmarks show that FOCUS improves task accuracy and outperforms existing persona control methods. Our code is available at \href{https://anonymous.4open.science/r/openpersona-48F4}{this url}.
+
+## Metadata
+- **Published**: 2026-08-06T05:13:59Z
+- **Authors**: Guanyu Wang, Zidi Zhang, Xu Chu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.05611v1)

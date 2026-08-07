@@ -1,0 +1,18 @@
+---
+title: From Sports to Safety: Benchmarking Proactive Risk Inference in MLLMs
+published: 2026-08-06T03:25:39Z
+authors: Jiawei Qiu, Yichen Xu, Jianzhe Ma, Mingyang Yu, Wenbin Zhu, Yang Han, Pinzheng Lv, Wenxuan Wang
+url: http://arxiv.org/abs/2608.05560v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# From Sports to Safety: Benchmarking Proactive Risk Inference in MLLMs
+
+## Abstract
+Timely anticipation of physical hazards is essential for real-world safety, yet existing MLLM evaluations focus on harmful content or general risks, leaving proactive physical hazard prediction underexplored. Sports provide a well-suited testbed: accident causes span diverse injury dimensions and pre-accident spatiotemporal cues draw on reasoning capabilities shared with broader safety domains such as autonomous driving and fall detection. We introduce SPRINT (Sports Proactive Risk INference Testbed), a benchmark of 2,888 real-world sports videos (2,440 accident, 448 safe controls) spanning 14 sports and 3 environmental settings. Accident videos feature fine-grained annotations of early hazard cues, accident timing, and hierarchical causes; safe videos are manually verified as accident-free and serve to diagnose prompt-induced false alarms. Evaluating state-of-the-art MLLMs under diverse prompts and temporal windows reveals a sharp gap between hazard sensitivity and understanding: the best model exceeds 95% in signaling hazards yet falls below 50% in identifying their causes. Diagnostic experiments further show that explicit danger queries trigger severe false alarms even on hazard-free videos. These findings indicate that current MLLMs exhibit only superficial proactive safety, lacking stable, cause-grounded early warning, and underscore the need for reliable proactive safety in dynamic physical environments. Data and code will be open-sourced upon acceptance.
+
+## Metadata
+- **Published**: 2026-08-06T03:25:39Z
+- **Authors**: Jiawei Qiu, Yichen Xu, Jianzhe Ma, Mingyang Yu, Wenbin Zhu, Yang Han, Pinzheng Lv, Wenxuan Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.05560v1)

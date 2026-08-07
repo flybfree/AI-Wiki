@@ -54,10 +54,14 @@ This matters because interface ownership is now strategic. Whoever controls the 
 
 [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) points to where open-weight competition is heading: smaller active capacity, long context, multimodal reasoning, and explicit efficiency trade-offs. [A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/) makes the policy argument concrete. Powerful models should be released only after serious pre-release testing, staged rollout, and ecosystem readiness. The message is not “always open” or “always closed.” It is “prove the release is safe, then widen access.”
 
+The latest community read is even more practical. [Open Questions On Open Weights](https://www.astralcodexten.com/p/open-questions-on-open-weights) and [Ethan Mollick on X](https://x.com/emollick/status/2077869674839118140) both push the same takeaway: open weights are a useful middle ground, but they need local benchmarking because performance frontiers are jagged and task-specific.
+
 That is a meaningful shift. Open models are no longer just a counterculture move. They are being treated like infrastructure that needs rollout discipline, telemetry, and a defensive plan.
 
 - [Introducing Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) covers the open-weights MoE, 1M context, and efficiency-first trade-offs.
 - [A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/) argues for staged release and safety-first openness.
+- [Open Questions On Open Weights](https://www.astralcodexten.com/p/open-questions-on-open-weights) adds the latest policy framing.
+- [Ethan Mollick on X](https://x.com/emollick/status/2077869674839118140) reinforces the benchmark-in-your-own-workflow takeaway.
 
 ### 5) Verifiable research is replacing prose as the trust boundary
 

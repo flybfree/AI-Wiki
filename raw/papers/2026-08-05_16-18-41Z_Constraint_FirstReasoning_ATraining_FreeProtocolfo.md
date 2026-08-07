@@ -1,0 +1,18 @@
+---
+title: Constraint-First Reasoning: A Training-Free Protocol for Exploiting Answer-Space Constraints in Mathematical Problem Solving
+published: 2026-08-05T16:18:41Z
+authors: Hongbo Ma, Bangji Yang, Yunqian Selina Cheng, Jiajun Fan, Hanwen Zhang, Ge Liu
+url: http://arxiv.org/abs/2608.05254v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Constraint-First Reasoning: A Training-Free Protocol for Exploiting Answer-Space Constraints in Mathematical Problem Solving
+
+## Abstract
+Large language models can derive a plausible mathematical object yet still violate explicit requirements--for example, by omitting a modular reduction, returning a non-integer, or using the wrong encoded answer form. We introduce Constraint-First Reasoning (CFR), a training-free two-stage prompting protocol: Stage 1 extracts and summarizes constraints entailed by the problem, and Stage 2 solves while checking intermediate and final results against that summary. Routed-CFR activates the two-stage protocol only when a text-only regex router detects restrictive cues; otherwise it uses direct chain-of-thought (CoT). Across AIME, CMIMC, BRUMO, and AIMO_AMC, the method improves direct CoT on multiple backbones. We further report convention-controlled routing experiments, matched prompting baselines, problem-level paired tests, decoding robustness, constraint-quality audits, total-token accounting, and an OlympiadBench evaluation. These analyses position CFR as a targeted test-time intervention whose benefit depends on recoverable constraints and reliable Stage 1 extraction, rather than as a general-purpose replacement for mathematical reasoning.
+
+## Metadata
+- **Published**: 2026-08-05T16:18:41Z
+- **Authors**: Hongbo Ma, Bangji Yang, Yunqian Selina Cheng, Jiajun Fan, Hanwen Zhang, Ge Liu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.05254v1)

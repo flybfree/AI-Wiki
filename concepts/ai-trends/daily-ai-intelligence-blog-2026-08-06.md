@@ -20,7 +20,7 @@ confidence: high
 
 # Daily AI Intelligence Briefing — 2026-08-06
 
-**Excerpt**: Today’s AI story was not just about stronger models. It was about containment, release discipline, better developer tools, and the growing need to prove where outputs come from.
+**Excerpt**: Today’s AI story was not just about stronger models. It was about containment, release discipline, open weights as a practical middle ground, better developer tools, and the growing need to prove where outputs come from.
 
 **Source**: [AI Research Wiki](https://github.com/flybfree/AI-Wiki/wiki)
 
@@ -64,6 +64,8 @@ Why it matters:
 Open-weight models are no longer just an ideological debate.
 
 Today’s discussion around [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) and [A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/) was more mature: the real question is how to release powerful systems safely, in stages, with testing and ecosystem readiness.
+
+The newer takeaway is even more practical. [Open Questions On Open Weights](https://www.astralcodexten.com/p/open-questions-on-open-weights) and [Ethan Mollick on X](https://x.com/emollick/status/2077869674839118140) both point to open weights as a useful middle ground, but only if you benchmark them in your own workflow before trusting them.
 
 Why it matters:
 - openness now comes with release discipline
@@ -109,6 +111,8 @@ That is the real control plane now.
 - [Google search redesign article](https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think)
 - [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/)
 - [A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/)
+- [Open Questions On Open Weights](https://www.astralcodexten.com/p/open-questions-on-open-weights)
+- [Ethan Mollick on X](https://x.com/emollick/status/2077869674839118140)
 - [Science One Framework](https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence/)
 - [Meta Muse Code](https://www.meta.com/blog/ai-and-misc/muse-code-ai-agent-large-codebases/)
 

@@ -44,9 +44,13 @@ The important shift is that the failure mode is no longer just “bad output.”
 
 Anthropic’s [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) pushed the closed frontier on coding and knowledge work while keeping the release tightly bounded. On the open side, [A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/) argues that release must be staged: model safety first, ecosystem readiness second, wider access only when evidence supports it. [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) makes that concrete with a 276B-total / 12B-active MoE, a 1M-token context window, and open weights.
 
+The most useful practical update is that open weights are increasingly treated as a middle ground, not a binary. [Open Questions On Open Weights](https://www.astralcodexten.com/p/open-questions-on-open-weights) and [Ethan Mollick on X](https://x.com/emollick/status/2077869674839118140) both point to the same operational advice: benchmark the model in your own workflow, because performance frontiers are jagged and task-specific.
+
 The China signal is similar but hardware-aware. [Qwen-Image-2.0](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-04_Qwen-Image-2_0_summary.md) shows a smaller multimodal model still hitting top-tier image-editing and generation scores, while [DeepSeek V4 Flash on a single AMD MI300X](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-04_DeepSeekV4FlashonaSingleAMDMI300X_summary.md) shows that model serving is increasingly a kernel-and-memory problem, not just a model-size problem.
 
 - [A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/) reframes openness as release engineering.
+- [Open Questions On Open Weights](https://www.astralcodexten.com/p/open-questions-on-open-weights) adds the middle-ground framing.
+- [Ethan Mollick on X](https://x.com/emollick/status/2077869674839118140) reinforces the local-benchmarking advice.
 - [Introducing Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) gives the concrete open-weight system.
 - [Qwen-Image-2.0](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-04_Qwen-Image-2_0_summary.md) shows efficient multimodal competition.
 - [DeepSeek V4 Flash on a Single AMD MI300X](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-04_DeepSeekV4FlashonaSingleAMDMI300X_summary.md) shows the serving side of the same race.
