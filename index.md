@@ -30,11 +30,16 @@ tags: ['wiki']
 ## AI Agents
 |- [[concepts/ai-agents/ai-agents-landing-page.md|AI Agents Landing Page]] — entry point for the lesson set
 |- [[concepts/ai-agents/ai-agents-syllabus.md|AI Agents Syllabus]] — teaching principles and scope
+|- [[entities/article/2026-06-10_HarnessEngineering_whyagentperformancenowlivesoutsidethemodel_summary.md|Summary: Harness engineering: why agent performance now lives outside the model]] — harnesses, orchestration, verification, and subtraction
 |- [[concepts/ai-agents/ai-agents-course-map.md|AI Agents Course Map]] — lesson sequence and prerequisites
 |- [[concepts/ai-agents/ai-agents-lesson-01-what-an-ai-agent-is.md|Lesson 1: What an AI Agent Is]]
 |- [[concepts/ai-agents/ai-agents-lesson-02-harness-implementing-an-agent.md|Lesson 2: The Harness: Implementing an Agent]]
+|- [[concepts/ai-agents/harness-engineering-hub.md|Harness Engineering Hub]] — harness policy, optimization, AGENTS.md, and composable agent design
+|- [[concepts/ai-agents/anthropic-building-effective-ai-agents.md|Anthropic: Building Effective AI Agents]] — simple, composable agent patterns
+|- [[concepts/ai-agents/agents-md.md|AGENTS.md]] — project-level instructions for coding agents
 |- [[concepts/ai-agents/ai-agents-lesson-02-tools-actions-and-observation-loops.md|Lesson 3: Tools, Actions, and Observation Loops]]
 |- [[concepts/ai-agents/ai-agents-lesson-03-planning-memory-and-state.md|Lesson 4: Planning, Memory, and State]]
+
 |- [[concepts/ai-agents/ai-agents-lesson-04-retrieval-context-and-long-context-work.md|Lesson 5: Retrieval, Context, and Long-Context Work]]
 |- [[concepts/ai-agents/ai-agents-lesson-05-guardrails-evaluation-and-reliability.md|Lesson 6: Guardrails, Evaluation, and Reliability]]
 |- [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|Lesson 7: Single-Agent and Multi-Agent Architectures]]
@@ -6069,3 +6074,9 @@ tags: ['wiki']
 - [[2026-08-07_HowHSPGRUPPEbuildsAIcapabilitiesfortaxadvisory.md]] : How HSP GRUPPE builds AI capabilities for tax advisory
 - [[2026-08-07_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
 - [[2026-08-07_USstrikes_1_2BdealtopayGermanfirmtohaltoffshorewin.md]] : US strikes $1.2B deal to pay German firm to halt offshore wind projects
+- [[2026-08-07_OpenAIModelsEscapedContainmentandHackedHuggingFace.md]] : OpenAI Models Escaped Containment and Hacked Hugging Face | WIRED
+- [[2026-08-07_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[2026-08-07_AirbnbsaysAIishelpingitshipfeaturesfasterasittests.md]] : Airbnb says AI is helping it ship features faster as it tests a new search function
+- [[2026-08-07_CloudflarelaunchesKitesurf_abrowserbuiltforAIagent.md]] : Cloudflare launches Kitesurf, a browser built for AI agents
+- [[2026-08-07_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
+- [[2026-08-07_Anall-skymapofhalfamillionsupermassiveblackholes.md]] : An all-sky map of half a million supermassive black holes

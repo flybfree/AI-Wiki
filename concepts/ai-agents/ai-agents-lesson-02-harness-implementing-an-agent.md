@@ -7,7 +7,7 @@ tags: [lesson, agents, harness, implementation]
 
 # Lesson 2: The Harness
 
-**Source**: [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) · [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [LangGraph: Agent orchestration framework](https://www.langchain.com/langgraph)
+**Source**: [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) · [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [LangGraph: Agent orchestration framework](https://www.langchain.com/langgraph) · [Harness engineering: why agent performance now lives outside the model](https://engineerprompt.ai/writing/harness-engineering/)
 
 ## Semantic links
 - [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 3 title terms overlap, shared tags: agents, lesson, 3 topic terms overlap
@@ -46,6 +46,24 @@ The harness is what makes the system:
 - easier to stop when it goes wrong
 
 If Lesson 1 answers “what is an agent?”, this lesson answers “what code actually makes it one?”
+
+## Research note: harness engineering
+The article [Harness engineering: why agent performance now lives outside the model](https://engineerprompt.ai/writing/harness-engineering/) adds a stronger version of the same idea: agent quality is often decided by the harness more than the weights.
+
+The follow-on sources make that point even sharper:
+- [Meta-Harness](https://arxiv.org/abs/2603.28052) treats the harness as an optimization target and searches over harness code using traces and prior candidates.
+- [Natural-Language Agent Harnesses](https://arxiv.org/abs/2603.25723) shows that harness policy can be written as an editable natural-language object instead of buried controller code.
+- [[concepts/ai-agents/anthropic-building-effective-ai-agents.md|Anthropic: Building Effective AI Agents]] argues that the best agent systems are usually simple and composable.
+- [[concepts/ai-agents/agents-md.md|AGENTS.md]] gives coding agents a predictable place for build steps, tests, and conventions.
+
+Three takeaways are worth keeping in the lesson:
+- Treat the harness as the real control surface - prompts, tools, memory, verification, orchestration, and stop conditions all live here.
+- Measure harness changes directly - Tsinghua’s Natural-Language Agent Harness showed that changing the harness alone moved a benchmark by 16.8 points with the same model.
+- Favor subtraction over accumulation - the article’s strongest pattern is that extra structure often hurts, and the best harness is the one that removes assumptions that no longer help.
+
+That makes the implementation lesson even more concrete: the harness is not just a wrapper around the model, it is the system that turns model output into reliable action.
+
+See also: [[concepts/ai-agents/harness-engineering-hub.md|Harness Engineering Hub]].
 
 ## The minimal loop
 A simple agent harness usually does four things repeatedly:
