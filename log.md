@@ -6206,3 +6206,7 @@ tags: ['wiki']
 ## [2026-08-07 12:02] ingest | 2026-08-07_CloudflarelaunchesKitesurf_abrowserbuiltforAIagent.md
 ## [2026-08-07 12:02] ingest | 2026-08-07_Respondingtothenextfrontierofcriticalcybercapabili.md
 ## [2026-08-07 12:02] ingest | 2026-08-07_Anall-skymapofhalfamillionsupermassiveblackholes.md
+## [2026-08-07 13:01] ingest | 2026-08-07_OraclebansAI-generatedcodefromOpenJDK.md
+## [2026-08-07 15:03] ingest | 2026-08-07_DeepSeekV4Flash0731.md
+## [2026-08-07 17:13] ingest | 2026-08-07_AfterRipplingblewmillionsonAIinmonths_itbuiltanemp.md
+## [2026-08-07 18:06] ingest | 2026-08-07_OpenAIsaysitslowedAstramodeldevelopmentoversecurit.md

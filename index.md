@@ -6080,3 +6080,7 @@ tags: ['wiki']
 - [[2026-08-07_CloudflarelaunchesKitesurf_abrowserbuiltforAIagent.md]] : Cloudflare launches Kitesurf, a browser built for AI agents
 - [[2026-08-07_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
 - [[2026-08-07_Anall-skymapofhalfamillionsupermassiveblackholes.md]] : An all-sky map of half a million supermassive black holes
+- [[2026-08-07_OraclebansAI-generatedcodefromOpenJDK.md]] : Oracle bans AI-generated code from OpenJDK
+- [[2026-08-07_DeepSeekV4Flash0731.md]] : DeepSeek V4 Flash 0731
+- [[2026-08-07_AfterRipplingblewmillionsonAIinmonths_itbuiltanemp.md]] : After Rippling blew millions on AI in months, it built an employee ROI tool
+- [[2026-08-07_OpenAIsaysitslowedAstramodeldevelopmentoversecurit.md]] : OpenAI says it slowed Astra model development over security concerns
