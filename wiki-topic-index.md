@@ -149,6 +149,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ### Recent agent research
 
+- [[entities/article/2026-08-05_PrimeAgent_AselfimprovingRLMagent_summary.md|Summary: Prime Agent: A self-improving RLM agent]] — self-improving RLM harness, persistent sessions, and A2A messaging
 - [[concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md|UniClawBench: A Universal Benchmark for Proactive Agents]]
 - [[concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md|Breaking Database Lock in Agentic Regeneration]]
 - [[concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md|Cortex: A Bidirectionally Aligned Embodied Agent Framework]]

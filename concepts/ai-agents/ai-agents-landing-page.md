@@ -7,7 +7,7 @@ tags: [ai, agents, landing-page, course]
 
 # AI Agents
 
-**Source**: [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) · [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [LangGraph agents docs](https://docs.langchain.com/oss/python/langchain/agents) · [Harness engineering: why agent performance now lives outside the model](https://engineerprompt.ai/writing/harness-engineering/)
+**Source**: [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) · [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [LangGraph agents docs](https://docs.langchain.com/oss/python/langchain/agents) · [Harness engineering: why agent performance now lives outside the model](https://engineerprompt.ai/writing/harness-engineering/) · [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent)
 
 This page is the entry point for a concept-first lesson series on AI agents.
 The goal is to start with the simplest definition, then build up the pieces that make agents useful in practice: harnesses, tools, planning, memory, retrieval, guardrails, and orchestration.

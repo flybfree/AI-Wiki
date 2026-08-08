@@ -55,6 +55,7 @@ The follow-on sources make that point even sharper:
 - [Natural-Language Agent Harnesses](https://arxiv.org/abs/2603.25723) shows that harness policy can be written as an editable natural-language object instead of buried controller code.
 - [[concepts/ai-agents/anthropic-building-effective-ai-agents.md|Anthropic: Building Effective AI Agents]] argues that the best agent systems are usually simple and composable.
 - [[concepts/ai-agents/agents-md.md|AGENTS.md]] gives coding agents a predictable place for build steps, tests, and conventions.
+- [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent) is a concrete example of a harness that treats context, sub-agents, and runtime state as programmable objects.
 
 Three takeaways are worth keeping in the lesson:
 - Treat the harness as the real control surface - prompts, tools, memory, verification, orchestration, and stop conditions all live here.
@@ -62,6 +63,8 @@ Three takeaways are worth keeping in the lesson:
 - Favor subtraction over accumulation - the article’s strongest pattern is that extra structure often hurts, and the best harness is the one that removes assumptions that no longer help.
 
 That makes the implementation lesson even more concrete: the harness is not just a wrapper around the model, it is the system that turns model output into reliable action.
+
+Prime Agent is a good named example of this pattern: it uses a persistent REPL, a continual harness, and first-class sub-agents to make the control layer itself programmable.
 
 See also: [[concepts/ai-agents/harness-engineering-hub.md|Harness Engineering Hub]].
 

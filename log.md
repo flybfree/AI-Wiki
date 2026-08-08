@@ -6221,3 +6221,5 @@ tags: ['wiki']
 ## [2026-08-08 07:01] ingest | 2026-08-08_NowwehaveatimelineoftheOpenAIaccidentalattackagain.md
 ## [2026-08-08 09:01] ingest | 2026-08-08_DeepMind_sWeatherNextmodelachievesbreakthroughfore.md
 ## [2026-08-08 10:02] ingest | 2026-08-08_Adomaincannowsayitisforsale_inDNS.md
+## [2026-08-08 14:02] ingest | 2026-08-08_DenmarkRequiresOralDefensesforStudents_WrittenWork.md
+## [2026-08-08 15:02] ingest | 2026-08-08_OpenAIacquirespresentationstartupNextSlide.md

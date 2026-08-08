@@ -28,4 +28,5 @@ Harness engineering is the idea that the control layer around the model can matt
 ## Representative Summaries
 - [[concepts/papers/2026-03-30_MetaHarness_EndToEndOptimizationofModelHarnesses_summary.md|Summary: Meta-Harness: End-to-End Optimization of Model Harnesses]]
 - [[concepts/papers/2026-03-26_NaturalLanguageAgentHarnesses_summary.md|Summary: Natural-Language Agent Harnesses]]
+- [[entities/article/2026-08-05_PrimeAgent_AselfimprovingRLMagent_summary.md|Summary: Prime Agent: A self-improving RLM agent]]
 - [[concepts/ai-agents/ai-agents-lesson-02-harness-implementing-an-agent.md|AI Agents Lesson 2: The Harness: Implementing an Agent]]

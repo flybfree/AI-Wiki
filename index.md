@@ -31,6 +31,7 @@ tags: ['wiki']
 |- [[concepts/ai-agents/ai-agents-landing-page.md|AI Agents Landing Page]] — entry point for the lesson set
 |- [[concepts/ai-agents/ai-agents-syllabus.md|AI Agents Syllabus]] — teaching principles and scope
 |- [[entities/article/2026-06-10_HarnessEngineering_whyagentperformancenowlivesoutsidethemodel_summary.md|Summary: Harness engineering: why agent performance now lives outside the model]] — harnesses, orchestration, verification, and subtraction
+|- [[entities/article/2026-08-05_PrimeAgent_AselfimprovingRLMagent_summary.md|Summary: Prime Agent: A self-improving RLM agent]] — RLM, continual harness, persistent sessions, and A2A messaging
 |- [[concepts/ai-agents/ai-agents-course-map.md|AI Agents Course Map]] — lesson sequence and prerequisites
 |- [[concepts/ai-agents/ai-agents-lesson-01-what-an-ai-agent-is.md|Lesson 1: What an AI Agent Is]]
 |- [[concepts/ai-agents/ai-agents-lesson-02-harness-implementing-an-agent.md|Lesson 2: The Harness: Implementing an Agent]]
@@ -6095,3 +6096,5 @@ tags: ['wiki']
 - [[2026-08-08_NowwehaveatimelineoftheOpenAIaccidentalattackagain.md]] : Now we have a timeline of the OpenAI accidental attack against Hugging Face
 - [[2026-08-08_DeepMind_sWeatherNextmodelachievesbreakthroughfore.md]] : DeepMind's WeatherNext model achieves breakthrough forecasting cyclones
 - [[2026-08-08_Adomaincannowsayitisforsale_inDNS.md]] : A domain can now say it is for sale, in DNS
+- [[2026-08-08_DenmarkRequiresOralDefensesforStudents_WrittenWork.md]] : Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
+- [[2026-08-08_OpenAIacquirespresentationstartupNextSlide.md]] : OpenAI acquires presentation startup NextSlide
