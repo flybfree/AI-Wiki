@@ -6092,3 +6092,6 @@ tags: ['wiki']
 - [[2026-08-08_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
 - [[2026-08-08_NASAtokeepits48-year-oldVoyager2proberunningforyet.md]] : NASA to keep its 48-year-old Voyager 2 probe running for yet another year
 - [[2026-08-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-08_NowwehaveatimelineoftheOpenAIaccidentalattackagain.md]] : Now we have a timeline of the OpenAI accidental attack against Hugging Face
+- [[2026-08-08_DeepMind_sWeatherNextmodelachievesbreakthroughfore.md]] : DeepMind's WeatherNext model achieves breakthrough forecasting cyclones
+- [[2026-08-08_Adomaincannowsayitisforsale_inDNS.md]] : A domain can now say it is for sale, in DNS

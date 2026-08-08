@@ -6218,3 +6218,6 @@ tags: ['wiki']
 ## [2026-08-08 00:02] ingest | 2026-08-08_ScienceOneFramework_Averifiableautonomousresearchf.md
 ## [2026-08-08 00:02] ingest | 2026-08-08_NASAtokeepits48-year-oldVoyager2proberunningforyet.md
 ## [2026-08-08 00:02] ingest | 2026-08-08_ASafePathtoOpenWeights.md
+## [2026-08-08 07:01] ingest | 2026-08-08_NowwehaveatimelineoftheOpenAIaccidentalattackagain.md
+## [2026-08-08 09:01] ingest | 2026-08-08_DeepMind_sWeatherNextmodelachievesbreakthroughfore.md
+## [2026-08-08 10:02] ingest | 2026-08-08_Adomaincannowsayitisforsale_inDNS.md
