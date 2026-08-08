@@ -6084,3 +6084,11 @@ tags: ['wiki']
 - [[2026-08-07_DeepSeekV4Flash0731.md]] : DeepSeek V4 Flash 0731
 - [[2026-08-07_AfterRipplingblewmillionsonAIinmonths_itbuiltanemp.md]] : After Rippling blew millions on AI in months, it built an employee ROI tool
 - [[2026-08-07_OpenAIsaysitslowedAstramodeldevelopmentoversecurit.md]] : OpenAI says it slowed Astra model development over security concerns
+- [[2026-08-08_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-08_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-08_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-08_OpenAIsaysitslowedAstramodeldevelopmentoversecurit.md]] : OpenAI says it slowed Astra model development over security concerns
+- [[2026-08-08_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
+- [[2026-08-08_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[2026-08-08_NASAtokeepits48-year-oldVoyager2proberunningforyet.md]] : NASA to keep its 48-year-old Voyager 2 probe running for yet another year
+- [[2026-08-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
