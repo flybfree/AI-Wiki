@@ -6098,3 +6098,9 @@ tags: ['wiki']
 - [[2026-08-08_Adomaincannowsayitisforsale_inDNS.md]] : A domain can now say it is for sale, in DNS
 - [[2026-08-08_DenmarkRequiresOralDefensesforStudents_WrittenWork.md]] : Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
 - [[2026-08-08_OpenAIacquirespresentationstartupNextSlide.md]] : OpenAI acquires presentation startup NextSlide
+- [[2026-08-09_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[2026-08-09_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
+- [[2026-08-09_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-09_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-09_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
