@@ -6107,3 +6107,5 @@ tags: ['wiki']
 - [[2026-08-09__TheoriginalURLforthispredictionwillnolongerbeavai.md]] : "The original URL for this prediction will no longer be available in 11 years." (2011)
 - [[2026-08-09_TheoriginalURLforthispredictionwillnolongerbeavail.md]] : The original URL for this prediction will no longer be available in 11 years (2011)
 - [[2026-08-09_ThereAreMagicHexagonsofEveryOrder.md]] : There Are Magic Hexagons of Every Order
+- [[2026-08-09_AIdetectorsarecreatinganeweraofdistrust.md]] : AI detectors are creating a new era of distrust
+- [[2026-08-09_MeaCulpa_DarkHours.md]] : Mea Culpa – Dark Hours

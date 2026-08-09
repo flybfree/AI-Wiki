@@ -6232,3 +6232,5 @@ tags: ['wiki']
 ## [2026-08-09 00:58] ingest | 2026-08-09__TheoriginalURLforthispredictionwillnolongerbeavai.md
 ## [2026-08-09 02:02] ingest | 2026-08-09_TheoriginalURLforthispredictionwillnolongerbeavail.md
 ## [2026-08-09 06:13] ingest | 2026-08-09_ThereAreMagicHexagonsofEveryOrder.md
+## [2026-08-09 07:01] ingest | 2026-08-09_AIdetectorsarecreatinganeweraofdistrust.md
+## [2026-08-09 09:01] ingest | 2026-08-09_MeaCulpa_DarkHours.md
