@@ -6104,3 +6104,6 @@ tags: ['wiki']
 - [[2026-08-09_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-09_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-09__TheoriginalURLforthispredictionwillnolongerbeavai.md]] : "The original URL for this prediction will no longer be available in 11 years." (2011)
+- [[2026-08-09_TheoriginalURLforthispredictionwillnolongerbeavail.md]] : The original URL for this prediction will no longer be available in 11 years (2011)
+- [[2026-08-09_ThereAreMagicHexagonsofEveryOrder.md]] : There Are Magic Hexagons of Every Order
