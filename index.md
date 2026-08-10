@@ -6409,3 +6409,5 @@ tags: ['wiki']
 - [[2026-08-10_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
 - [[2026-08-10_AIdetectorsarecreatinganeweraofdistrust.md]] : AI detectors are creating a new era of distrust
 - [[2026-08-10_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-10_MetaMuseGlimmer_openweights30Blocalcodingmodel.md]] : Meta Muse Glimmer – open weights 30B local coding model
+- [[2026-08-10_Ford_snewAIassistantcancheckyourfuellevelsandtirep.md]] : Ford’s new AI assistant can check your fuel levels and tire pressure

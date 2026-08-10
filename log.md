@@ -6534,3 +6534,5 @@ tags: ['wiki']
 ## [2026-08-10 00:01] ingest | 2026-08-10_Respondingtothenextfrontierofcriticalcybercapabili.md
 ## [2026-08-10 00:01] ingest | 2026-08-10_AIdetectorsarecreatinganeweraofdistrust.md
 ## [2026-08-10 00:01] ingest | 2026-08-10_IntroducingClaudeOpus5.md
+## [2026-08-10 06:01] ingest | 2026-08-10_MetaMuseGlimmer_openweights30Blocalcodingmodel.md
+## [2026-08-10 06:01] ingest | 2026-08-10_Ford_snewAIassistantcancheckyourfuellevelsandtirep.md
