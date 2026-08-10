@@ -1,0 +1,18 @@
+---
+title: ReGraph: Learning to Generate Recipe Graphs from Food Images
+published: 2026-08-07T07:51:08Z
+authors: Guoshan Liu, Bin Zhu, Pengkun Jiao, Jingjing Chen, Chong-Wah Ngo, Yu-Gang Jiang
+url: http://arxiv.org/abs/2608.06917v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ReGraph: Learning to Generate Recipe Graphs from Food Images
+
+## Abstract
+Recent Large Multimodal Models (LMMs) have achieved impressive performance in recipe generation from food images.However, cooking is a structured transformation process in which ingredients undergo state changes through ordered actions,while free-form recipe language leaves the corresponding entities, intermediate states, and dependencies largely implicit and entangled.A graph representation makes this procedural knowledge explicit and compositional, providing a structured basis for assessing whether model outputs encode process-level knowledge rather than merely presenting plausible textual descriptions. To address this limitation, we present ReGraph, a large-scale recipe graph dataset that represents ingredients, cooking actions, and tools as entities, uses entity attributes to describe ingredient state changes, and employs typed relations to encode manipulation targets, destinations, and procedural ordering. ReGraph further incorporates explicit Recipe Reasoning Chain-of-Thought (RR-CoT) traces, providing auxiliary supervision for procedural decomposition and structured graph generation. Building on ReGraph, we propose Recipe Graph Learning (RGL), a two-stage framework that enables LMMs to generate a plausible fine-grained cooking workflow from a food image in the form of a structured recipe graph. Under a deterministic, schema-aware matching protocol, our experiments reveal a substantial gap between text-generation quality and recoverable procedural structure: recipes produced by existing approaches achieve competitive text-generation scores yet yield limited reference-aligned entity and relation structure under the ReGraph schema. In contrast, across two representative LMM backbones, RGL consistently improves the generation of cooking entities and procedural relations, while our analysis further shows that fine-grained ingredient-state capture remains the most challenging dimension.
+
+## Metadata
+- **Published**: 2026-08-07T07:51:08Z
+- **Authors**: Guoshan Liu, Bin Zhu, Pengkun Jiao, Jingjing Chen, Chong-Wah Ngo, Yu-Gang Jiang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.06917v1)

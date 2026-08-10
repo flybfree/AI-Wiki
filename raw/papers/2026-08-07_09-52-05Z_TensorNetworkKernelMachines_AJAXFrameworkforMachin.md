@@ -1,0 +1,18 @@
+---
+title: Tensor Network Kernel Machines: A JAX Framework for Machine Learning and Nonlinear System Identification
+published: 2026-08-07T09:52:05Z
+authors: Albert Saiapin, Kim Batselier
+url: http://arxiv.org/abs/2608.07043v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Tensor Network Kernel Machines: A JAX Framework for Machine Learning and Nonlinear System Identification
+
+## Abstract
+Developing nonlinear models that are both expressive and computationally efficient remains a challenge in machine learning and nonlinear system identification. Tensor network kernel machines (TNKM) address this challenge by combining nonlinear feature representations with compact low-rank tensor-network parameterizations. However, practical and extensible software frameworks for developing TNKM models remain limited. In this work, we introduce "tnkm", an open-source Python library for constructing and training TNKM models using JAX. The library provides a unified interface for combining different feature maps, tensor-network architectures, and optimization strategies, including alternating least squares and gradient-based methods. We demonstrate the capabilities of "tnkm" on nonlinear benchmark problems, showing that the implemented models achieve competitive prediction accuracy while retaining compact parameterizations and efficient training. The proposed framework facilitates reproducible development and application of tensor-network-based learning methods.
+
+## Metadata
+- **Published**: 2026-08-07T09:52:05Z
+- **Authors**: Albert Saiapin, Kim Batselier
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.07043v1)

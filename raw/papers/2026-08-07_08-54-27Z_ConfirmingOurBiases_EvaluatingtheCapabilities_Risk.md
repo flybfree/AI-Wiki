@@ -1,0 +1,18 @@
+---
+title: Confirming Our Biases? Evaluating the Capabilities, Risks, and Societal Impact of Large Language Models
+published: 2026-08-07T08:54:27Z
+authors: Mudar Adas, Polina Tsvilodub, Michael Franke, Martin V. Butz
+url: http://arxiv.org/abs/2608.06977v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Confirming Our Biases? Evaluating the Capabilities, Risks, and Societal Impact of Large Language Models
+
+## Abstract
+It is well established that large language models (LLMs) are sensitive to prompt framing, reflecting patterns in their training data or prior prompts. In this study, we investigate the extent to which LLMs reinforce users biases expressed in the prompts and examine the boundary between implicit framing effects and explicit prompt manipulation. Specifically, we evaluate how susceptible LLMs are to direct and suggestive prompts that encourage models to support or challenge particular positions.   We evaluate six LLMs using 160 distinct prompts spanning ten topics across opinion-based and factual domains. The prompts systematically vary in prompting strategy, support versus challenge instructions, prompt polarity, users' expressed beliefs, and topic domain, spanning both opinion-based and factual questions. Our results show that LLMs systematically adapt their responses to align with prompt framing, even in factual contexts. This suggests that prompt framing can outweigh factual consistency in model responses. Overall, our findings delineate the extent and boundaries of LLM manipulability. Furthermore, the results imply that LLMs can reinforce subtle user biases and are susceptible to explicit prompt manipulation even in domains where responses should remain factually stable.
+
+## Metadata
+- **Published**: 2026-08-07T08:54:27Z
+- **Authors**: Mudar Adas, Polina Tsvilodub, Michael Franke, Martin V. Butz
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.06977v1)

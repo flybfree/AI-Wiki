@@ -1,0 +1,18 @@
+---
+title: Geo-Spatial Concept Probing of Large Language Models: Abstraction, Compositionality, and Grounding
+published: 2026-08-07T15:46:38Z
+authors: Karim Radouane, Jose G Moreno, Lynda Tamine
+url: http://arxiv.org/abs/2608.07353v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Geo-Spatial Concept Probing of Large Language Models: Abstraction, Compositionality, and Grounding
+
+## Abstract
+Understanding concepts is fundamental to generalization. Despite their impressive performance on a wide range of tasks, Large Language Models (LLMs) still struggle with genuine concept understanding. Prior work has evaluated conceptual understanding in LLMs using natural-language benchmarks or narrowly scoped synthetic tasks, but these settings often conflate multiple skills or lack precise control over the underlying concepts and their properties. To support controlled probing of concepts in LLMs, we design tests on their core properties: abstraction, compositionality, and groundness. We set up a concept-centric benchmark, targeting spatial concepts such as direction, distance, topology, and their compositions, and use question answering tasks serving as a proxy. We conduct extensive experiments across multiple LLM architectures and training regimes to analyze how model scale and design impact conceptual understanding. The results reveal clear limitations in current LLMs and provide insights into the factors shaping their ability to acquire and compose structured concepts. Our findings shed light on how concept-based LLMs can be redesigned for improved information access and knowledge management. The code will be available at https://github.com/rd20karim/concept-probing.
+
+## Metadata
+- **Published**: 2026-08-07T15:46:38Z
+- **Authors**: Karim Radouane, Jose G Moreno, Lynda Tamine
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.07353v1)

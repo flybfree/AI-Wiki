@@ -1,0 +1,18 @@
+---
+title: LifelongCrossNav: Persistent 3D Semantic Memory for Cross-Floor Multi-Object Navigation
+published: 2026-08-07T10:31:20Z
+authors: Zehui Li, Zihao Sun, Jiawei Xu, Zheqi He, Xiaoqiang Zhang, Jing-Shu Zheng, Lu Liu, Dahui Gao, Xiuwan Chen
+url: http://arxiv.org/abs/2608.07079v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# LifelongCrossNav: Persistent 3D Semantic Memory for Cross-Floor Multi-Object Navigation
+
+## Abstract
+Object-goal navigation has made substantial progress in semantic perception and exploration, yet persistent memory for multi-object navigation and cross-floor navigation are still commonly addressed separately. We present LifelongCrossNav, a framework for sequential multi-object ObjectNav in unknown multi-floor indoor environments. Within each episode, the agent receives an ordered sequence of object-goal queries while continuously maintaining a shared sparse 3D semantic voxel memory. This memory incrementally accumulates geometric structure, traversability states, and vision-language features, allowing subsequent object-goal queries to retrieve previously acquired scene information without rebuilding the map. To support persistent search across floors, LifelongCrossNav combines support-aware 3D traversability mapping, stair-specific perception, and direction-aware stair traversal. A unified navigation policy coordinates same-floor frontier exploration, live and historical point-of-interest retrieval, stair navigation, and target-object search and approach. We further introduce HM3D-MFMON, a benchmark for sequential Multi-Floor Multi-Object Navigation built on HM3D scenes, including a dedicated subset in which completing the full sequence of object-goal subtasks requires at least one floor transition. Experimental results show that LifelongCrossNav consistently outperforms a representative planar persistent semantic-map baseline on HM3D-MFMON, demonstrating that persistent 3D semantic memory and cross-floor traversability modeling effectively support sequential multi-object navigation in multi-floor environments. Project page: https://flageval-baai.github.io/LifelongCrossNavPage.
+
+## Metadata
+- **Published**: 2026-08-07T10:31:20Z
+- **Authors**: Zehui Li, Zihao Sun, Jiawei Xu, Zheqi He, Xiaoqiang Zhang, Jing-Shu Zheng, Lu Liu, Dahui Gao, Xiuwan Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.07079v1)

@@ -1,0 +1,18 @@
+---
+title: FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings
+published: 2026-08-07T16:45:39Z
+authors: Sasan Mansouri, Daniel Saad, Mark Wahrenburg, Manu Weissel, Fabian Woebbeking
+url: http://arxiv.org/abs/2608.07400v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# FinRank: An Evidence-Grounded Benchmark for Financial Question Answering and Retrieval over SEC Filings
+
+## Abstract
+Financial question answering is typically evaluated by answer correctness, yet in SEC filings a plausible and even numerically correct answer can be grounded in the wrong evidence. Similar facts and disclosures recur across sections of a filing, across reporting periods of the same firm, and across comparable firms. FinRank targets this provenance-sensitive retrieval problem by requiring systems to identify evidence for the intended entity, reporting period, and disclosure context. The benchmark contains 1185 manually authored question-answer records over the 10-K and 10-Q filings of 22 companies. Each record includes a reference answer, gold supporting passages, and hand-curated hard negatives drawn from confusable passages within filings, across reporting periods, and across comparable firms. FinRank evaluates passage retrieval, reranking, and hard-negative discrimination as separately measured tasks. Baseline results demonstrate the difficulty of this setting: among the evaluated systems, even a 7B instruction-tuned embedder reaches only 44.8% Recall@10 on the pooled evidence corpus; sub-billion-parameter encoders gain at most 3.5 points over BM25, a finance-adapted embedder trails BM25 by 9.7 points, and pairwise accuracy falls by 13.0-20.5 percentage points when random negatives are replaced with the curated hard negatives. FinRank provides an evidence-first benchmark for developing financial question answering systems that are not only accurate but also grounded in the correct disclosure.
+
+## Metadata
+- **Published**: 2026-08-07T16:45:39Z
+- **Authors**: Sasan Mansouri, Daniel Saad, Mark Wahrenburg, Manu Weissel, Fabian Woebbeking
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.07400v1)

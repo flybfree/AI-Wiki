@@ -1,0 +1,18 @@
+---
+title: CellWorld: From Gene-Level Reconstruction to Latent Cell Prediction in Spatial Transcriptomics Foundation Models
+published: 2026-08-07T00:10:24Z
+authors: Haiping Liu, Qian Zhao, Lijing Lin, Jingyuan Sun, Hongpeng Zhou
+url: http://arxiv.org/abs/2608.06659v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# CellWorld: From Gene-Level Reconstruction to Latent Cell Prediction in Spatial Transcriptomics Foundation Models
+
+## Abstract
+This paper shows that latent-space predictive pretraining can provide a scalable route to foundation models for spatial transcriptomics. Existing spatial transcriptomics foundation models primarily reconstruct masked gene identities or expression values, potentially encouraging the reproduction of assay-specific technical variation and limiting representation transferability. To avoid directly reconstructing such variation, we shift the prediction target from observed gene measurements to latent cell representations and introduce CellWorld, which predicts the latent representations of masked cells from visible spatial context and a limited partial-expression hint. We pretrain four CellWorld variants, spanning 5.74M to 94.56M trainable parameters, on a corpus of 46 million human cells. Our controlled scaling experiments show that performance improves with model capacity, particularly on spatial tasks, while spatial transfer depends more on sufficient optimization and broad biological source diversity than on cell count alone. Across four held-out datasets, even CellWorld-Small, with 5.74M trainable parameters, outperforms every baseline on all 11 linear-probe benchmarks and all seven fine-tuned spatial benchmarks. Most notably, a frozen CellWorld-Large pretrained on only 5\% of the corpus with broad biological source coverage outperforms every fully fine-tuned baseline across all seven spatial benchmarks. Code is available at https://github.com/UoM-HealthAI/CellWorld.
+
+## Metadata
+- **Published**: 2026-08-07T00:10:24Z
+- **Authors**: Haiping Liu, Qian Zhao, Lijing Lin, Jingyuan Sun, Hongpeng Zhou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.06659v1)

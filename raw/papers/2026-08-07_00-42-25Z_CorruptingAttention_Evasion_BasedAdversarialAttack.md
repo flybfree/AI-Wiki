@@ -1,0 +1,18 @@
+---
+title: Corrupting Attention: Evasion-Based Adversarial Attacks on Encoder Attention in Detection Transformers
+published: 2026-08-07T00:42:25Z
+authors: Ridma Jayasundara, Shaheer Mohamed, Tharindu Fernando, Harshala Gammulle, Basura Fernando, Sanka Rasnayake, A V Subramanyam, Sridha Sridharan, Clinton Fookes
+url: http://arxiv.org/abs/2608.06674v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Corrupting Attention: Evasion-Based Adversarial Attacks on Encoder Attention in Detection Transformers
+
+## Abstract
+Adversarial vulnerabilities remain a major concern for the safe deployment of neural networks, particularly in object detection, a core task embedded in many safety-critical systems. Detection transformers have emerged as leading object detectors, yet their adversarial robustness remains comparatively underexplored. Most existing attacks target the detection output rather than the attention mechanism that makes these models distinctive. In this paper, we introduce the first attack that directly optimizes an encoder-attention objective under an imperceptible, bounded $\ell_\infty$ perturbation. Rather than introducing an attacker-owned sink token through a visible patch, it drives the model's own attention toward a corrupted target. We argue that encoder attention concentrates the model's spatial reasoning, so corrupting it propagates through the detection pipeline more disruptively than perturbing the detection output alone. Our attack reduces DETR-R50 mAP on COCO from 42.1 to 0.97, a $\sim 4\times$ reduction in resulting mAP over the strongest existing attack under an identical perturbation budget and iteration count. We further show that this vulnerability is not specific to a particular corruption objective: across four qualitatively distinct targets, dispersion, re-ranking, permutation, and peak-suppression, detection consistently drops below 3 mAP, suggesting that the weakness arises from disrupting the attention structure itself rather than from any single target. Finally, we demonstrate that the attack generalizes across attention formulations, reducing DINO-Swin-L from 56.8 to 1.44 mAP against 7.3 for the strongest prior attack, establishing state-of-the-art on both dense and deformable attention.
+
+## Metadata
+- **Published**: 2026-08-07T00:42:25Z
+- **Authors**: Ridma Jayasundara, Shaheer Mohamed, Tharindu Fernando, Harshala Gammulle, Basura Fernando, Sanka Rasnayake, A V Subramanyam, Sridha Sridharan, Clinton Fookes
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.06674v1)

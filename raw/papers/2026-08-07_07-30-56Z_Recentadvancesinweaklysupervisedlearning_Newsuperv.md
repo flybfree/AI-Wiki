@@ -1,0 +1,18 @@
+---
+title: Recent advances in weakly supervised learning: New supervision paradigms, assumption relaxations, and practical solutions
+published: 2026-08-07T07:30:56Z
+authors: Wei Wang, Gang Niu, Masashi Sugiyama
+url: http://arxiv.org/abs/2608.06896v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Recent advances in weakly supervised learning: New supervision paradigms, assumption relaxations, and practical solutions
+
+## Abstract
+Deep learning has achieved great success in recent years thanks to the availability of high-quality, well-annotated training data. However, this requirement is often not met in real-world applications. Weakly supervised learning aims to train an accurate model with incomplete, inexact, or inaccurate supervision. In this chapter, we will discuss recent advances in this field, including new supervision paradigms, relaxed assumptions, and practical solutions. First, we introduce a new weakly supervised binary classification problem called confidence-difference classification and propose consistent approaches to solve it. Next, we investigate complementary-label learning, a weakly supervised multi-class classification problem. Our proposed approaches are based on more relaxed assumptions about the data generation process than existing consistent approaches. Lastly, we present an evaluation framework for partial-label learning, another popular multi-class weakly supervised learning problem, in order to promote fair and realistic evaluation of algorithms in this field.
+
+## Metadata
+- **Published**: 2026-08-07T07:30:56Z
+- **Authors**: Wei Wang, Gang Niu, Masashi Sugiyama
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.06896v1)
