@@ -9,7 +9,7 @@ Model: nvidia/nemotron-3-nano-4b
 OpenAI has released iMessage and email exchanges to counter Apple’s lawsuit, branding it “careless, aggressive, and oddly personal,” and framing its response as an effort to sway public opinion rather than a formal legal argument. The blog post positions the dispute as a battle of narratives that could shape how the case is perceived beyond the courtroom.
 
 ## Semantic links
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, 2 topic terms overlap, same area: home
 

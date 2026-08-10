@@ -13,7 +13,7 @@ This is a dated snapshot of the frontier foundation-model landscape. The date is
 
 ## Semantic links
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 6 title terms overlap; shared tags: comparison, foundationmodels, leaderboard; 3 backlinks
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; shared tags: foundationmodels, stateoftheart, wiki; 3 backlinks
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; shared tags: foundationmodels, stateoftheart, wiki; 3 backlinks
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap; 5 backlinks; 2 summary/topic terms overlap
 
 ## Research sources

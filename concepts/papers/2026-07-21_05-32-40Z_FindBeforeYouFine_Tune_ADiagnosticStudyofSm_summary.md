@@ -10,7 +10,7 @@ The paper introduces **FiT (Find before Fine‑Tune)**, a diagnostic framework t
 
 ## Semantic links
 - [[concepts/papers/2026-08-04_01-41-40Z_V_FIND_RevealingtheIntrinsicForgeryKnowledg_summary.md|Summary: 2026-08-04_01-41-40Z_V_FIND_RevealingtheIntrinsicForgeryKnowledgeEncode.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
 - [[concepts/papers/2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation_summary.md|Summary: 2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation.md]] — 3 title terms overlap; 1 backlink; 12 summary/topic terms overlap
 
 ## Key Contributions  

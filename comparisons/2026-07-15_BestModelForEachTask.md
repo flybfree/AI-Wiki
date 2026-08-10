@@ -7,7 +7,7 @@ tags: ["wiki", "comparison", "local-models", "task-fit", "2026-07-15"]
 
 # Best Model for Each Task — Local LLM Shortlist
 
-**Source**: [Ornith / Qwythos / VibeThinker / Qwen3.6 / Gemma 4 comparison](2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md) · [Open-Source Models State of the Art — 2026-07-10](../concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md)
+**Source**: [Ornith / Qwythos / VibeThinker / Qwen3.6 / Gemma 4 comparison](2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md) · [Open-Source Models State of the Art — 2026-07-10](../concepts/llm-models/OpenSourceModelsStateOfTheArt.md)
 
 This is the tight version: one task, one best local pick, with a short reason.
 These are local/open-weight recommendations, not a universal ranking.

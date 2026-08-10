@@ -22,7 +22,7 @@ VibeThinker is a series of compact, open-source language models developed by **S
 Both are built on **Qwen2.5-Coder** as the base model. The project is fully open: weights on Hugging Face, training code on GitHub.
 
 ## Semantic links
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 1 backlink; 5 summary/topic terms overlap
 - [[concepts/papers/2026-08-04_13-02-47Z_Language_SpecializedMulti_TeacherOn_PolicyD_summary.md|Summary: 2026-08-04_13-02-47Z_Language_SpecializedMulti_TeacherOn_PolicyDistilla.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.04
 

@@ -11,7 +11,7 @@ Mistral’s Shieldstral is a 3‑billion‑parameter open‑weights multimodal s
 ## Semantic links
 - [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 2 title terms overlap, 3 topic terms overlap, same area: home
 - [[concepts/ai-safety/ai-safety-hub.md|AI Safety and Security Hub]] — 2 title terms overlap, 3 topic terms overlap, same area: home
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
 
 ## Key Takeaways  
 - Shieldstral outperforms open guard models up to 7× its size on text safety, refusal detection, policy adaptability, and multimodal benchmarks.  

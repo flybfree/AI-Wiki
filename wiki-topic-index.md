@@ -32,7 +32,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 - [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|LLMs & Foundation Models Hub — Main]]
 - [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker — Current Model Tracker]]
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — open-weight frontier + local-use watchlist
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — open-weight frontier + local-use watchlist
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — includes Claude Opus 5 and GPT-5.6 Sol/Terra/Luna
 - [[concepts/hermes-agent-guide.md|Fable 5 Integration Notes]]
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]]

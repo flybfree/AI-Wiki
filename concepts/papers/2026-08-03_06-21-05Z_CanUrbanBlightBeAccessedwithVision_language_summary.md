@@ -9,7 +9,7 @@ Model: None
 The paper proposes a scalable framework that leverages open‑source large vision‑language (VLM) models to estimate residential blight in Detroit by analyzing multiple street‑view images. By using structured prompts the models generate binary assessments and probabilistic estimates of roof integrity, wall damage, and broken openings, thereby automating a traditionally labor‑intensive survey process. The study evaluates these visual evaluations against professional human annotations and compares several inference strategies, including an XGBoost ensemble and a weighted scoring system. The results demonstrate that combining multiple views, selecting the right VLM strengths, and using an ensemble learner can markedly improve blight detection accuracy while keeping costs low.
 
 ## Semantic links
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
 

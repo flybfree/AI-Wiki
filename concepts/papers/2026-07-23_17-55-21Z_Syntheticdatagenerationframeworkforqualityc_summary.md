@@ -10,7 +10,7 @@ The paper proposes a synthetic data generation framework to automate surface‑d
 
 ## Semantic links
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
 - [[concepts/papers/2026-06-23_17-52-21Z_FLUX3D_High_Fidelity3DGaussianGenerationwit_summary.md|Summary: 2026-06-23_17-52-21Z_FLUX3D_High_Fidelity3DGaussianGenerationwithDiffus.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.04
 
 ## Key Contributions  

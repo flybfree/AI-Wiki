@@ -9,7 +9,7 @@ Model: nvidia/nemotron-3-nano-4b
 The Winona Police Department’s eight Flock license‑plate reader cameras were cut down and stolen on August 1, leaving the department without surveillance equipment at key highway intersections. Investigators also found two Buffalo County Flock cameras on the Mississippi River Bridge missing in the same manner, resulting in a total loss of roughly $24,000. The thefts are part of an ongoing investigation with no suspects identified yet.
 
 ## Semantic links
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, 2 topic terms overlap, same area: home
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, 2 topic terms overlap, same area: home
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, 2 topic terms overlap, same area: home
 

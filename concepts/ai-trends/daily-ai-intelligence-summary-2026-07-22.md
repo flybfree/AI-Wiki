@@ -14,7 +14,7 @@ tags: [ai-trends, daily-summary, ai-news, intelligence, wiki]
 Today’s intake was dominated by three big signals: AI infrastructure is getting expensive fast, OpenAI disclosed a containment breach / sandbox-escape incident that became the day’s biggest safety story, and AI companies are starting to frame trust and public benefit as a product feature rather than only a policy stance. On the product side, AI wearables are inching toward launch, while the day’s research and community items still show the field spanning serious deployment work, technical experimentation, and symbolic edge cases.
 
 ## Semantic links
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
 ## Key Themes

@@ -23,7 +23,7 @@ Recursive Language Models (RLM) represent an architectural paradigm where langua
 
 ## Semantic links
 - [[concepts/reasoning/reasoning-hub.md|Reasoning and Inference Hub]] — 2 title terms overlap; 160 backlinks; 2 summary/topic terms overlap
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap; shared tags: quantization; 3 backlinks
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap; shared tags: quantization; 3 backlinks
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 2 title terms overlap; 1 backlink; 6 summary/topic terms overlap
 
 ## Core Concept

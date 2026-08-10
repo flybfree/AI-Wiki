@@ -9,7 +9,7 @@ Model: None
 The rapid proliferation of open‑weight foundation models has made safety threats more insidious, shifting from opaque black‑box jailbreaks to precise neuron‑level white‑box attacks that target the model’s safety neurons. This paper introduces **Distributed Safety Alignment (DSA)**, a method that spreads safety capabilities across many computational neurons rather than relying on a single vulnerable unit. By locally perturbing inputs in down‑projection layers and coupling deterministic masking with stochastic dropout, DSA forces the network to redundantly encode refusal behavior, thereby eliminating any “single point of failure.” The approach preserves the model’s overall language and multimodal utility while dramatically strengthening robustness against targeted neuron attacks.
 
 ## Semantic links
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 12 backlinks; 4 summary/topic terms overlap
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 13 backlinks; 4 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 

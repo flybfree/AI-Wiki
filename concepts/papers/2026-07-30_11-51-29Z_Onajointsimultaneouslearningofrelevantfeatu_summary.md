@@ -10,7 +10,7 @@ The paper proposes Entropy‑Optimal Manifold Regression (EOMR), an extension of
 
 ## Semantic links
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 4 title terms overlap; 3 backlinks; 4 summary/topic terms overlap
 - [[concepts/papers/2026-08-01_08-41-29Z_S__4_R_SelectiveSampling_Subspaces_andSpars_summary.md|Summary: 2026-08-01_08-41-29Z_S__4_R_SelectiveSampling_Subspaces_andSparseRecons.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.07
 
 ## Key Contributions  

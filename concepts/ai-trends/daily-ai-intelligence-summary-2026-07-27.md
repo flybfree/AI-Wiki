@@ -18,7 +18,7 @@ On the model front, [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5
 **Most important signal:** AI is moving from a model you query to a control layer that owns context, routes work, and shapes the product surface.
 
 ## Semantic links
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 2 title terms overlap, shared tags: wiki, 2 topic terms overlap
 ## Key Themes / Patterns
@@ -42,7 +42,7 @@ On the model front, [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5
 
 ### Local-Use Open Source
 
-- [Open-Source Models State of the Art — 2026-07-10](../../concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md) is the local/open-source reference page.
+- [Open-Source Models State of the Art — 2026-07-10](../../concepts/llm-models/OpenSourceModelsStateOfTheArt.md) is the local/open-source reference page.
 
 ### Summary / Article Links
 
@@ -136,7 +136,7 @@ That means the competitive axis is moving from raw benchmark leadership to a mix
 - [Learning to Replicate Expert Judgment in Financial Tasks](https://thinkingmachines.ai/news/learning-to-replicate-expert-judgment-in-financial-tasks/)
 - [Thinking Machines Lab and NVIDIA Announce Long-Term Gigawatt-Scale Strategic Partnership](https://thinkingmachines.ai/news/nvidia-partnership/)
 - [Foundation Models State of the Art — 2026-07-27](../2026-07-27_FoundationModelsStateOfTheArt.md)
-- [Open-Source Models State of the Art — 2026-07-10](../../concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md)
+- [Open-Source Models State of the Art — 2026-07-10](../../concepts/llm-models/OpenSourceModelsStateOfTheArt.md)
 
 ### Research sources
 - [Cross-Model LLM Code Review: Should you use Claude to review Codex or vice versa?](http://arxiv.org/abs/2607.21656v1)

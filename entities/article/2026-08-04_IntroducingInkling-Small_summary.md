@@ -9,7 +9,7 @@ Model: nvidia/nemotron-3-nano-4b
 The article introduces **Inkling‑Small**, an open‑weights MoE transformer that delivers performance comparable to the much larger Inkling model while using only a quarter of its parameters (276 B total versus 975 B). By leveraging 12 B active experts, Inkling‑Small achieves high reasoning and instruction‑following abilities on benchmarks such as Terminal‑Bench 2.1, HLE, and IFBench while keeping compute costs low and supporting a 1 M‑token context window.  
 
 ## Semantic links
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 3 title terms overlap, 3 topic terms overlap, same area: home
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 3 title terms overlap, 3 topic terms overlap, same area: home
 - [[concepts/prompting/prompting-hub.md|Prompting and Instruction Design Hub]] — 2 title terms overlap, 4 topic terms overlap, same area: home
 - [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]] — 2 title terms overlap, 3 topic terms overlap, same area: home
 

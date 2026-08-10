@@ -16,7 +16,7 @@ Today’s signal is a shift away from raw compute drama and toward the control p
 ## Semantic links
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — 1 title term overlap, shared tags: aitrends, 3 topic terms overlap
 - [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 2 title terms overlap, 2 topic terms overlap, same area: home
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 1 title term overlap, shared tags: wiki, 1 topic term overlap
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 1 title term overlap, shared tags: wiki, 1 topic term overlap
 ## Key Themes
 
 ### 1. Product surfaces are becoming multimodal control layers

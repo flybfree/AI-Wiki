@@ -9,7 +9,7 @@ Model: None
 HoF‑Bench is a benchmark designed to evaluate the ability of LLM‑based vulnerability scanners to rediscover real AI‑discovered CVEs without relying on frontier models. The authors construct a dataset of 95 publicly reported vulnerabilities across eight open‑source repositories, then test ten detector backbones (five open‑weight and five proprietary) under a strict protocol that only rewards findings matching the exact code path, root cause, attack condition, and impact. The study shows that no frontier model can perform detection on the benchmark, yet several smaller models recover up to 65 of the 95 CVEs, highlighting the limits of current AI‑driven scanning tools.
 
 ## Semantic links
-- [[concepts/llm-models/2026-07-10_OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 
