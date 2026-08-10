@@ -6411,3 +6411,8 @@ tags: ['wiki']
 - [[2026-08-10_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-10_MetaMuseGlimmer_openweights30Blocalcodingmodel.md]] : Meta Muse Glimmer – open weights 30B local coding model
 - [[2026-08-10_Ford_snewAIassistantcancheckyourfuellevelsandtirep.md]] : Ford’s new AI assistant can check your fuel levels and tire pressure
+- [[2026-08-10_BoseCEOLilaSnyderonthefightforhigh-qualityaudio.md]] : Bose CEO Lila Snyder on the fight for high-quality audio
+- [[2026-08-10_CFPs_DataSharingtoSupportAIDevelopmentintheEnergyS.md]] : CFPs: Data Sharing to Support AI Development in the Energy Sector - fundsforNGOs
+- [[2026-08-10_MarsBarfrom1991found_andit_s20gbiggerthantoday_s.md]] : Mars Bar from 1991 found – and it's 20g bigger than today's
+- [[2026-08-10_Meta_snewGlimmerAImodeloffersahintatZuckerberg_spe.md]] : Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision
+- [[2026-08-10_MetaMuseGlimmer_Openweights30Blocalcodingmodel.md]] : Meta Muse Glimmer – Open weights 30B local coding model
