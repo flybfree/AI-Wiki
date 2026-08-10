@@ -10,18 +10,18 @@ tags: [ai, agents, course-map]
 **Source**: [OpenAI: A practical guide to building agents](https://openai.com/business/guides-and-resources/a-practical-guide-to-building-ai-agents/) · [Anthropic: Building effective agents](https://www.anthropic.com/engineering/building-effective-agents) · [LangGraph: Agent orchestration framework](https://www.langchain.com/langgraph)
 
 ## Semantic links
-- [[concepts/ai-foundations/ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]] — 2 title terms overlap, shared tags: coursemap, 2 topic terms overlap
-- [[concepts/ai-agents/ai-agents-syllabus.md|AI Agents Syllabus]] — 1 title term overlap, shared tags: agents, ai, 2 topic terms overlap
-- [[concepts/ai-agents/ai-agents-landing-page.md|AI Agents Landing Page]] — 1 title term overlap, shared tags: agents, ai, 2 topic terms overlap
+- [AI/ML Foundations Course Map](../ai-foundations/ai-ml-foundations-course-map.md) — 2 title terms overlap, shared tags: coursemap, 2 topic terms overlap
+- [AI Agents Syllabus](ai-agents-syllabus.md) — 1 title term overlap, shared tags: agents, ai, 2 topic terms overlap
+- [AI Agents Landing Page](ai-agents-landing-page.md) — 1 title term overlap, shared tags: agents, ai, 2 topic terms overlap
 
 ## Sequence
-1. What an AI Agent Is
-2. The Harness: Implementing an Agent
-3. Tools, Actions, and Observation Loops
-4. Planning, Memory, and State
-5. Retrieval, Context, and Long-Context Work
-6. Guardrails, Evaluation, and Reliability
-7. Single-Agent and Multi-Agent Architectures
+1. [What an AI Agent Is](ai-agents-lesson-01-what-an-ai-agent-is.md)
+2. [The Harness: Implementing an Agent](ai-agents-lesson-02-harness-implementing-an-agent.md)
+3. [Tools, Actions, and Observation Loops](ai-agents-lesson-02-tools-actions-and-observation-loops.md)
+4. [Planning, Memory, and State](ai-agents-lesson-03-planning-memory-and-state.md)
+5. [Retrieval, Context, and Long-Context Work](ai-agents-lesson-04-retrieval-context-and-long-context-work.md)
+6. [Guardrails, Evaluation, and Reliability](ai-agents-lesson-05-guardrails-evaluation-and-reliability.md)
+7. [Single-Agent and Multi-Agent Architectures](ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md)
 
 ## Suggested prerequisite arc
 - Basic LLM prompting

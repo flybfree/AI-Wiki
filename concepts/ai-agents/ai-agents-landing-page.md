@@ -28,13 +28,13 @@ The goal is to start with the simplest definition, then build up the pieces that
 - Keep lessons detailed enough to teach the idea without requiring a second source
 
 ## Lesson map
-1. [[ai-agents-lesson-01-what-an-ai-agent-is.md|Lesson 1: What an AI Agent Is]]
-2. [[ai-agents-lesson-02-harness-implementing-an-agent.md|Lesson 2: The Harness: Implementing an Agent]]
-3. [[ai-agents-lesson-02-tools-actions-and-observation-loops.md|Lesson 3: Tools, Actions, and Observation Loops]]
-4. [[ai-agents-lesson-03-planning-memory-and-state.md|Lesson 4: Planning, Memory, and State]]
-5. [[ai-agents-lesson-04-retrieval-context-and-long-context-work.md|Lesson 5: Retrieval, Context, and Long-Context Work]]
-6. [[ai-agents-lesson-05-guardrails-evaluation-and-reliability.md|Lesson 6: Guardrails, Evaluation, and Reliability]]
-7. [[ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|Lesson 7: Single-Agent and Multi-Agent Architectures]]
+1. [Lesson 1: What an AI Agent Is](ai-agents-lesson-01-what-an-ai-agent-is.md)
+2. [Lesson 2: The Harness: Implementing an Agent](ai-agents-lesson-02-harness-implementing-an-agent.md)
+3. [Lesson 3: Tools, Actions, and Observation Loops](ai-agents-lesson-02-tools-actions-and-observation-loops.md)
+4. [Lesson 4: Planning, Memory, and State](ai-agents-lesson-03-planning-memory-and-state.md)
+5. [Lesson 5: Retrieval, Context, and Long-Context Work](ai-agents-lesson-04-retrieval-context-and-long-context-work.md)
+6. [Lesson 6: Guardrails, Evaluation, and Reliability](ai-agents-lesson-05-guardrails-evaluation-and-reliability.md)
+7. [Lesson 7: Single-Agent and Multi-Agent Architectures](ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md)
 
 ## How to read the series
 - Read lessons in order the first time
