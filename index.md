@@ -114,6 +114,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-23.md|Summary: 2026-07-23 Daily AI Intelligence Summary]] — compute, product surfaces, safety, and AI economics
 - [[concepts/knowledge-management/hostinger-daily-ai-blog-template.md|Hostinger Daily AI Intelligence Blog Template]] — Hostinger-ready public blog template with inline sources and reference block
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-10.md|Daily AI Intelligence Briefing — 2026-08-10]] — frontier models, local open weights, cyber capability, verifiable research, and agentic interfaces
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-22.md|Summary: 2026-07-22 Daily AI Intelligence Summary]] — infrastructure, safety, and wearables
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-21.md|Summary: 2026-07-21 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on diffusion, agents, and evaluation
@@ -6416,3 +6417,6 @@ tags: ['wiki']
 - [[2026-08-10_MarsBarfrom1991found_andit_s20gbiggerthantoday_s.md]] : Mars Bar from 1991 found – and it's 20g bigger than today's
 - [[2026-08-10_Meta_snewGlimmerAImodeloffersahintatZuckerberg_spe.md]] : Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision
 - [[2026-08-10_MetaMuseGlimmer_Openweights30Blocalcodingmodel.md]] : Meta Muse Glimmer – Open weights 30B local coding model
+- [[2026-08-10_MuseGlimmer_30B-parametermodeloptimizedforalways-o.md]] : Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows
+- [[2026-08-10_LearningmoreaboutClaude_smathematicalcapabilities.md]] : Learning more about Claude's mathematical capabilities
+- [[2026-08-10_MarkZuckerberg_sAImanifestoisexactlywhypeopledon_t.md]] : Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI
