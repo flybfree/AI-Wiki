@@ -3378,7 +3378,6 @@ tags: ['wiki']
 - [[2026-07-28_12-53-30Z_DecoEvo_Score_DecoupledCo_EvolutionofSolverandRubr.md]] : DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space
 - [[2026-07-27_21-35-22Z_EvaluatingCommunicativeBeliefUpdatesinLargeLanguag.md]] : Evaluating Communicative Belief Updates in Large Language Models via Implicature Recognition and Cancellation
 - [[2026-07-28_16-40-18Z_Polistemics_EvaluatingLLMsasInformationMediatorsin.md]] : Polistemics: Evaluating LLMs as Information Mediators in Politics & Elections
-- [[2026-07-28_07-46-12Z_Learned_ReliedUpon_orNecessary_SeparatingCheckpoin.md]] : Learned, Relied Upon, or Necessary? Separating Checkpoint Dependence from Task-Level Value in Sheaf GNNs
 - [[2026-07-27_15-02-40Z_LLMasForecastingPlanner_Training_FreeTextCondition.md]] : LLM as Forecasting Planner: Training-Free Text Conditioning for Time-Series Foundation Models
 - [[2026-07-28_14-00-38Z_ImageQualityDependentDegradationforAISystems.md]] : Image Quality Dependent Degradation for AI Systems
 - [[2026-07-27_10-55-20Z_EliminatingPropagationDelay_Attention_BasedSpatial.md]] : Eliminating Propagation Delay: Attention-Based Spatial-Temporal Fusion Graph Convolution Network for Traffic Flow Prediction
@@ -3700,7 +3699,6 @@ tags: ['wiki']
 - [[2026-07-25_13-26-48Z_Variance_PreservingOrthogonalSelection_VPOS__Greed.md]] : Variance-Preserving Orthogonal Selection (VPOS): Greedy Feature Selection via Orthogonal Deflation in PCA Loading Space
 - [[2026-07-26_06-11-11Z_Mwando_LeveragingAItoPreserveandTeachshiKomori.md]] : Mwando: Leveraging AI to Preserve and Teach shiKomori
 - [[2026-07-23_23-23-00Z_AnIntegratedDeepLearningandStatisticalFrameworkfor.md]] : An Integrated Deep Learning and Statistical Framework for Whole-Network Gene--Environment Association with Leaf Vascular Architecture
-- [[2026-07-25_05-07-03Z_Stress_testinglargelanguagemodelagentsinaroboticch.md]] : Stress-testing large language model agents in a robotic chemistry laboratory
 - [[2026-07-26_23-12-06Z_HarnessingX_rayAbsorptionSpectroscopyDatathroughMu.md]] : Harnessing X-ray Absorption Spectroscopy Data through Multimodal Mining of Battery Literature
 - [[2026-07-25_11-46-38Z_AdaptiveMulti_ScaleForecastingandGate_LocalizedCon.md]] : Adaptive Multi-Scale Forecasting and Gate-Localized Conformal Prediction for Multivariate Nonstationary Time Series
 - [[2026-07-26_17-42-18Z_AComparisonofDataAugmentationMethodsforTrainingDee.md]] : A Comparison of Data Augmentation Methods for Training Deep Neural Networks on Synthetic Aperture Sonar
@@ -3843,7 +3841,6 @@ tags: ['wiki']
 - [[2026-07-27_17-08-27Z_EvictionasEstimation_AFixed_LagSmoothingViewofTest.md]] : Eviction as Estimation: A Fixed-Lag Smoothing View of Test-Time Memory, and When Measuring Beats Accumulating
 - [[2026-07-27_13-31-24Z_FailuresRevealWhatMetricsMiss_AnEvidence_DrivenAge.md]] : Failures Reveal What Metrics Miss: An Evidence-Driven Agent for Recursive Refinement of ECG Classifiers
 - [[2026-07-27_05-30-19Z_DisentanglingSemanticAttentionfromStructuralBiasin.md]] : Disentangling Semantic Attention from Structural Bias in the Attention Manifold
-- [[2026-07-27_13-55-35Z_EvaluatingRAGforFrenchimmigrationlaw_abenchmarkand.md]] : Evaluating RAG for French immigration law: a benchmark and baseline study
 - [[2026-07-25_16-15-50Z_WhatCLIPKnowsbutCannotSay_RecoveringNegationfromFr.md]] : What CLIP Knows but Cannot Say: Recovering Negation from Frozen Intermediate Features
 - [[2026-07-26_07-35-10Z_Chamaileon_Cross_ContextBinderDesignwithContextual.md]] : Chamaileon: Cross-Context Binder Design with Contextualized Modeling and Mixed Sampling
 - [[2026-07-27_07-37-43Z_MemChain_LearningInterpretableMemoryTracesforMemor.md]] : MemChain: Learning Interpretable Memory Traces for Memory-Augmented LLM Agents
@@ -5111,7 +5108,6 @@ tags: ['wiki']
 - [[2026-07-20_13-06-54Z_Chemicalfiltersforultra_high_throughputmaterialssc.md]] : Chemical filters for ultra-high-throughput materials screening and generation
 - [[2026-07-20_20-16-02Z_TrustedCredentials_UntrustedBehavior_BenchmarkingL.md]] : Trusted Credentials, Untrusted Behavior: Benchmarking LLM-Agent Security in High-Performance Computing
 - [[2026-07-22_05-39-00Z_AnIsotropy_PreservingSpectralCapforMuon_TheoryandT.md]] : An Isotropy-Preserving Spectral Cap for Muon: Theory and Three Case Studies
-- [[2026-07-18_15-03-20Z_FromOverloadtoInsights_HowAIAgentsCanSupportScient.md]] : From Overload to Insights: How AI Agents Can Support Scientists in Analyzing Complex Data
 - [[2026-07-21_13-46-52Z_SciCodePile_A128GBCorpusandExecutableBenchmarkforC.md]] : SciCodePile: A 128GB Corpus and Executable Benchmark for Challenging Scientific Code Generation
 - [[2026-07-15_18-56-46Z_Real_TimeDetectionofChargeJumpsinSuperconductingQu.md]] : Real-Time Detection of Charge Jumps in Superconducting Qubits with a Convolutional Neural Network
 - [[2026-07-22_19-45-59Z_SpatiallyGroundedConceptBottleneckModelsforTrustwo.md]] : Spatially Grounded Concept Bottleneck Models for Trustworthy Breast Ultrasound Diagnosis

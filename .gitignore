@@ -1,1 +1,3 @@
 .hermes/
+.curation/
+__pycache__/

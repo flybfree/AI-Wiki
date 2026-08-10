@@ -45,6 +45,17 @@ This repository is the working wiki for AI research curation, article summaries,
 3. Sync to the SMB mirror for backup.
 4. Keep the PRISM graph pointed at `file://PRISM/logseq-brain` only.
 
+## Curation dashboard
+
+The local review dashboard lets Rich review paper summaries and record `Keep`, `Reject`, or `Skip` decisions. Decisions are stored locally in `.curation/review.sqlite3` and are intentionally not committed to the wiki.
+
+```bash
+./run_curation_dashboard.sh
+# open http://127.0.0.1:8765
+```
+
+After at least five reviewed decisions, the arXiv intake uses the learned profile to defer low-fit candidates before saving them. The threshold can be adjusted with `CURATION_MIN_SCORE` (default `0.42`). Rejecting a paper permanently deletes its curated wiki summary and Logseq mirror after confirmation; raw source captures are retained for provenance.
+
 ## Useful links
 
 - [AI Research Wiki — Topic Index](wiki-topic-index.md)
