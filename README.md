@@ -54,7 +54,7 @@ The local review dashboard lets Rich review paper summaries and record `Keep`, `
 # open http://127.0.0.1:8765
 ```
 
-After at least five reviewed decisions, the learned profile ranks the pending review queue so the most relevant candidates appear first. New paper summaries are staged under `pending/papers`; they are not added to the canonical wiki or Logseq until you keep them. The threshold can be adjusted with `CURATION_MIN_SCORE` (default `0.42`). Rejecting a paper permanently deletes its staged or curated summary and Logseq mirror after confirmation; raw source captures are retained for provenance.
+After at least five reviewed decisions, the learned profile ranks the pending review queue so the most relevant candidates appear first. New paper summaries are staged under `pending/papers`; they are not added to the canonical wiki or Logseq until you keep them. Rejecting a paper permanently deletes its staged or curated summary and Logseq mirror after confirmation; raw source captures are retained for provenance.
 
 ## Useful links
 
