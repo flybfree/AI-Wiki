@@ -1,0 +1,18 @@
+---
+title: GRACE: LLM-Grounded Semantic Metric Spaces for Scalable Mixed-Data Clustering
+published: 2026-08-08T03:14:50Z
+authors: Zihua Yang, Zhencheng Xie, Junyang Chen, Liang Xie, Yiqun Zhang, Mengke Li, Yang Lu
+url: http://arxiv.org/abs/2608.07881v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# GRACE: LLM-Grounded Semantic Metric Spaces for Scalable Mixed-Data Clustering
+
+## Abstract
+Clustering mixed tabular data requires a unified metric space to bridge the inherent heterogeneity between continuous numerical measurements and discrete categorical symbols. Traditionally, algorithms rely entirely on dataset-internal statistics to estimate categorical relationships, which confines the learned metric to empirical co-occurrences and ignores conceptually obvious yet statistically unobserved affinities. Although LLMs offer external world knowledge, applying their text-centric reasoning to highly abstract tabular concepts presents significant challenges. Bridging this modality gap to construct a semantically complete metric typically requires embedding LLMs into iterative metric learning loops to dynamically optimize cross-modality representations. This incurs intractable computational overhead, forcing a compromise between semantic enrichment and scalability. Therefore, we propose GRACE, an LLM-grounded framework for scalable mixed-data clustering. GRACE shifts semantic acquisition to the attribute-value level via a multi-perspective LLM querying strategy, mapping heterogeneous values into knowledge-informed descriptions. Crucially, this one-shot grounding extracts general-purpose semantic representations that embed heterogeneous attributes into a unified space, decoupling expensive LLM invocation from iterative optimization. Furthermore, GRACE cross-validates these external semantics against dataset-internal statistical evidence to ensure alignment with the dataset-specific cluster structure. Ultimately, GRACE matches the scalability of conventional statistics-driven baselines while achieving superior clustering accuracy and conceptual interpretability over 11 competing methods. The source code is available at https://github.com/develop-yang/GRACE-GRACE-A
+
+## Metadata
+- **Published**: 2026-08-08T03:14:50Z
+- **Authors**: Zihua Yang, Zhencheng Xie, Junyang Chen, Liang Xie, Yiqun Zhang, Mengke Li, Yang Lu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.07881v1)

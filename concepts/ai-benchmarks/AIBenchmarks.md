@@ -16,6 +16,58 @@ The strongest recurring lesson is that benchmark results are conditional. Rankin
 - [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]] — 1 title term overlap, shared tags: evaluation, 1 topic term overlap
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|AI/ML Foundations Lesson 15 - Evaluation, Overfitting, and Limits]] — shared tags: evaluation, 5 topic terms overlap, same area: home
 
+## Core LLM benchmark families
+
+These are the main benchmark families commonly used to describe general-purpose large language model (LLM) capability. They measure different constructs; no single score is a complete measure of model quality.
+
+### Knowledge and broad academic reasoning
+
+- **MMLU (Massive Multitask Language Understanding)** — multiple-choice questions across 57 subjects, including science, humanities, law, medicine, and professional knowledge. It is useful as a broad knowledge-and-reasoning signal, but many questions are static and increasingly exposed to memorization and contamination concerns.
+- **MMLU-Pro** — a harder, more reasoning-focused successor to MMLU with more difficult questions and stricter answer choices. It is generally more discriminating among strong models, but it remains a benchmark of selected multiple-choice knowledge rather than open-ended competence.
+- **AGIEval** — exam-style tasks drawn from sources such as law, mathematics, and standardized tests. It tests academic and professional question answering, but performance can depend on language, cultural context, and familiarity with exam conventions.
+- **BIG-bench / BIG-bench Hard (BBH)** — a broad collection of tasks designed to probe language understanding, reasoning, symbolic manipulation, and instruction following. BBH selects particularly challenging tasks, but the suite is heterogeneous and should be reported task by task when possible.
+
+### Mathematics and difficult reasoning
+
+- **GSM8K** — grade-school mathematics word problems. The usual metric is exact-match accuracy on the final answer. It is a useful basic multi-step arithmetic test, but it is too narrow to represent advanced mathematical reasoning.
+- **MATH / MATH-500** — competition-style mathematics at a substantially higher difficulty level than GSM8K. Results are sensitive to answer normalization, chain-of-thought policy, and whether tools are allowed.
+- **AIME-style evaluations** — difficult contest mathematics with short numerical answers. These are useful stress tests for advanced reasoning, but small test sets make variance large and scores should not be overinterpreted.
+- **GPQA (Graduate-Level Google-Proof Q&A)** — expert-written questions in areas such as biology, physics, and chemistry that are intended to resist simple web lookup. **GPQA-Diamond** is the hardest subset. It measures difficult domain reasoning, but its expert knowledge requirements make it less representative of everyday use.
+
+### Coding and software engineering
+
+- **HumanEval** — short Python function-generation problems scored primarily with **pass@1**, the probability that the first generated solution passes the tests. It measures isolated code completion and is vulnerable to contamination and test-suite overfitting.
+- **MBPP (Mostly Basic Python Problems)** — beginner-to-intermediate Python programming tasks with executable tests. It complements HumanEval with broader basic programming coverage, but still does not measure repository-level engineering.
+- **SWE-bench** — real GitHub issues requiring an agent to inspect a repository, modify code, and pass project tests. It is closer to practical software engineering than function-generation tests, but results depend heavily on the agent harness, test availability, time budget, and patch-validation protocol.
+- **LiveCodeBench** — continually refreshed coding problems intended to reduce contamination. It is useful for measuring current coding and competitive-programming performance, though its task distribution differs from production software work.
+
+### Commonsense, language understanding, and truthfulness
+
+- **HellaSwag** — choose the most plausible continuation of a scenario. It tests commonsense completion, but high scores can reflect dataset familiarity rather than robust world understanding.
+- **ARC (AI2 Reasoning Challenge)** — grade-school science questions, commonly reported as **ARC-Easy** and the harder **ARC-Challenge**. It is a compact reasoning and knowledge test, not a general intelligence measure.
+- **PIQA (Physical Interaction: Question Answering)** — commonsense reasoning about everyday physical situations. It helps test practical knowledge that academic multiple-choice suites may miss.
+- **TruthfulQA** — questions designed to expose common misconceptions, imitation of falsehoods, and misleading answers. It measures truthfulness under a specific adversarial design, and results depend on the scoring rubric and judge.
+
+### Instruction following and reliability
+
+- **IFEval (Instruction Following Evaluation)** — checks whether a model obeys verifiable constraints such as formatting, word counts, required phrases, or structural rules. It is valuable for instruction adherence, but automatic checks cover only a limited slice of real user instructions.
+- **FollowBench and related constraint-following suites** — evaluate multiple simultaneous constraints and more complex instruction combinations. These are useful complements to IFEval when the deployment depends on reliable formatting or policy compliance.
+- **LiveBench** — a periodically refreshed collection of challenging tasks spanning reasoning, coding, mathematics, and language. Its freshness helps reduce contamination, but scores are harder to compare across time because the task mix changes.
+
+### Multimodal and specialist capability
+
+- **MMMU / MMMU-Pro** — university-level multimodal questions requiring images, diagrams, charts, or other visual evidence alongside language reasoning. They test visual-language integration rather than text-only reasoning.
+- **MathVista** — visual mathematical reasoning over charts, diagrams, and images. It is useful for document and visual analysis, but it does not cover general multimodal interaction.
+- **Domain-specific suites** — examples include medical, legal, multilingual, safety, retrieval-augmented generation (RAG), and tool-use benchmarks. These are often more useful than general leaderboards when the intended deployment has a clear domain and failure cost.
+
+### How to read benchmark scores
+
+- **Accuracy or exact match** reports the fraction of answers judged correct.
+- **Pass@k** estimates the chance that at least one of *k* generated solutions passes, so it is not directly comparable with pass@1.
+- **Human or LLM-judge scores** depend on the rubric, judge model, prompt, and calibration procedure.
+- **Agent benchmarks** should report task success together with trajectory quality, tool correctness, cost, latency, retries, and side effects.
+- Always record the model version, prompting method, tool access, sampling settings, number of attempts, evaluation split, and contamination controls.
+
 ## What the wiki currently covers
 
 ### 1. Protocol and leaderboard validity

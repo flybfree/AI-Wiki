@@ -1,0 +1,18 @@
+---
+title: Open-World Semantic Segmentation with Sensitivity Modeling
+published: 2026-08-08T19:37:02Z
+authors: Anastasios Romanos Varvarigos, Nikos Giakoumoglou, Tania Stathaki
+url: http://arxiv.org/abs/2608.08308v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Open-World Semantic Segmentation with Sensitivity Modeling
+
+## Abstract
+Modern vision systems must operate in "open-world" settings, where models must recognize known categories and detect unseen or anomalous content. Conventional semantic segmentation models operate under a "closed-world" assumption, often producing overconfident misclassifications on novel content. We address open-world semantic segmentation, the joint task of segmenting known classes while detecting and grouping novel or anomalous content without additional supervision, by extending a dual-decoder baseline with a third, complementary decoder within a unified encoder-decoder design. The first decoder performs closed-set segmentation using Gaussian prototypes for known categories. The second uses contrastive feature learning to isolate unknown regions in embedding space. The third, our key contribution, is a sensitivity decoder that captures fine-grained texture irregularities and activation instabilities indicative of semantic uncertainty, which neither semantic prototypes nor contrastive norms can reliably detect. The three decoders provide genuinely complementary signals: class-level OOD distance in logit space, global feature energy in embedding space, and local activation instability across encoder scales. Experiments on Cityscapes and BDD-Anomaly show that our method improves anomaly segmentation and novel-class discovery while maintaining competitive closed-set accuracy, with gains of +2.4% AUROC and a 2.5 pp. reduction in FPR@95TPR on BDD-Anomaly over the baseline.
+
+## Metadata
+- **Published**: 2026-08-08T19:37:02Z
+- **Authors**: Anastasios Romanos Varvarigos, Nikos Giakoumoglou, Tania Stathaki
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08308v1)

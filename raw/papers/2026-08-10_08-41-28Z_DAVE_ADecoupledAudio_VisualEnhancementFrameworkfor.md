@@ -1,0 +1,18 @@
+---
+title: DAVE: A Decoupled Audio-Visual Enhancement Framework for Real-World Speech Separation
+published: 2026-08-10T08:41:28Z
+authors: Wei Zhou, Wanyi Ning, Yinshang Guo, Qianxiao Fang, Haitao Qian, Yingpeng Li
+url: http://arxiv.org/abs/2608.09288v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# DAVE: A Decoupled Audio-Visual Enhancement Framework for Real-World Speech Separation
+
+## Abstract
+Audio-visual speech enhancement under real-world conditions remains challenging due to unreliable visual inputs and the lack of large-scale training data with realistic acoustic conditions. Existing approaches usually fuse visual features directly into the separation network, making them vulnerable to degraded visual signals. In this paper, we present DAVE, a decoupled audio-visual enhancement framework for real-world speech separation. Firstly, to address the data scarcity issue, we construct DAVE-Corpus, a large-scale training corpus with 219,411 mixtures generated from public meeting corpora through combinatorial acoustic augmentation. Then, we introduce a progressive multi-objective optimization strategy to jointly improve speech separation, intelligibility, speaker identity preservation, and perceptual quality. We further develop a certified selective enhancement chain that applies scene routing, GAN-based denoising, and loudness normalization only within the no-reference partition, guaranteeing non-degradation of reference-based metrics. Experimental results on the Real-World Audio-Visual Speech Enhancement Challenge demonstrate the robustness of DAVE under both real-world mixed scenarios and visual degradation conditions.
+
+## Metadata
+- **Published**: 2026-08-10T08:41:28Z
+- **Authors**: Wei Zhou, Wanyi Ning, Yinshang Guo, Qianxiao Fang, Haitao Qian, Yingpeng Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.09288v1)

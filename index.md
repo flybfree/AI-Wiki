@@ -2073,3 +2073,14 @@ tags: ['wiki']
 - [[2026-08-11_Spotifywilllabel_AIPersona_profilesandexcludetheir.md]] : Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations
 - [[2026-08-11_Englandsettobeoneofthefirstcountriestoeliminatehep.md]] : England set to be one of the first countries to eliminate hepatitis C
 - [[2026-08-11__Zoomsday_hackuncoveredusingfewerthan20AIprompts.md]] : ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts
+- [[2026-08-11_AdvancingAMIEtowardsexpert-levelaudio-visualclinic.md]] : Advancing AMIE towards expert-level audio-visual clinical consultations
+- [[2026-08-11_AnunreleasedAnthropicmodelmadeprogressononeofmath_.md]] : An unreleased Anthropic model made progress on one of math’s biggest unsolved problems
+- [[2026-08-11_MadebyGoogle2026_allthePixelnewsandannouncements.md]] : Made by Google 2026: all the Pixel news and announcements
+- [[2026-08-11_TestingadsinChatGPT.md]] : Testing ads in ChatGPT
+- [[2026-08-11_BradLightcap_OpenAI_slongtimeCOO_isleavingto_start.md]] : Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’
+- [[2026-08-11_AppleSiliconandmacOSVMs_11_16_FasterLLMInferencewi.md]] : Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp
+- [[2026-08-11_OpenAIlaunchesChatGPTdesktopappforLinux.md]] : OpenAI launches ChatGPT desktop app for Linux
+- [[2026-08-11_NvidiaNemotron3_5lightningandNeMoSwitchyard.md]] : Nvidia Nemotron 3.5 lightning and NeMo Switchyard
+- [[2026-08-11_ChatGPTandGeminibothjustpassed1billionusers.md]] : ChatGPT and Gemini both just passed 1 billion users
+- [[2026-08-11_NvidiaNemotron3_5LightningandNeMoSwitchyard.md]] : Nvidia Nemotron 3.5 Lightning and NeMo Switchyard
+- [[2026-08-11_Accelclosesoversubscribed_550MIndiafundwithinweeks.md]] : Accel closes oversubscribed $550M India fund within weeks, 19 months after its last

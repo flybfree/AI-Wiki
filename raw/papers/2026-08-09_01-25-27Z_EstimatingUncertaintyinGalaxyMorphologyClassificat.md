@@ -1,0 +1,18 @@
+---
+title: Estimating Uncertainty in Galaxy Morphology Classification
+published: 2026-08-09T01:25:27Z
+authors: Kai Cheng, Ruoqi Wang, Qiong Luo
+url: http://arxiv.org/abs/2608.08398v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Estimating Uncertainty in Galaxy Morphology Classification
+
+## Abstract
+Astronomers classify galaxy morphology to investigate cosmic evolution. While deep foundation models are increasingly utilized in Galaxy Morphology Classification (GMC), little work has been done on evaluating the uncertainty of GMC results. Uncertainty evaluation is important because astronomical data are inherently noisy due to instrumental and environmental limitations. Also, the continuous evolution of galaxies creates intrinsic morphological ambiguity. However, current foundation models operate as deterministic point estimators, failing to quantify the uncertainty. To overcome this limitation, we propose UEGMC, a post-hoc framework of Uncertainty Estimation for Galaxy Morphology Classification. It categorizes uncertainty in GMC into distinct types by model parameters, astronomical data, reference standards, or intrinsic physical ambiguities, thereby facilitating better classification. Our framework can directly predict uncertainties from representations extracted from the frozen backbones of foundation models, without computationally expensive sampling, therefore enabling fine-grained uncertainty evaluations. Our experimental results demonstrate that UEGMC provides competitive uncertainty quantification performance compared with previous methods.
+
+## Metadata
+- **Published**: 2026-08-09T01:25:27Z
+- **Authors**: Kai Cheng, Ruoqi Wang, Qiong Luo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08398v1)

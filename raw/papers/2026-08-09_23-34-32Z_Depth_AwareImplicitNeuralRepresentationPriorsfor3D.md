@@ -1,0 +1,18 @@
+---
+title: Depth-Aware Implicit Neural Representation Priors for 3D Gravity Inversion
+published: 2026-08-09T23:34:32Z
+authors: León Suarez-Rodriguez, Paul Goyes-Peñafiel, Javier Torres-Quintero, Henry Arguello
+url: http://arxiv.org/abs/2608.08959v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Depth-Aware Implicit Neural Representation Priors for 3D Gravity Inversion
+
+## Abstract
+Gravimetry images subsurface density contrasts associated with geological structures, geothermal systems, and intrusive bodies. Recovering a three-dimensional density model from gravity observations is highly ill-posed because of its non-uniqueness, limited data coverage, and the attenuation of the gravity field with depth. Classical inversion methods rely on explicit regularization and parameter tuning, whereas supervised deep-learning approaches require representative gravity--density pairs that are rarely available. This paper proposes an unsupervised depth-aware implicit neural representation for 3D gravity inversion. The density volume is represented by multiple coordinate-based neural networks assigned to overlapping depth slabs and optimized directly from the observed gravity measurements through the sensitivity matrix. Slab-specific Fourier features, physics-based depth gains, and scheduled regularization provide structural priors without requiring labeled density models. Experiments on four synthetic scenarios show that the proposed method provides better overall performance in terms of RMSE, PSNR, and SSIM than the evaluated conventional and neural baselines. It also recovers more compact and spatially coherent density bodies, improves the separation of nearby anomalies, preserves internal structures, and reconstructs their vertical extent better. These results indicate that the proposed depth-aware formulation helps to mitigate the depth ambiguity inherent in gravity inversion. In the field experiment, where no ground-truth density model was available, the method produced compact, separated, and vertically coherent anomalies consistent with the observed gravity pattern.
+
+## Metadata
+- **Published**: 2026-08-09T23:34:32Z
+- **Authors**: León Suarez-Rodriguez, Paul Goyes-Peñafiel, Javier Torres-Quintero, Henry Arguello
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08959v1)

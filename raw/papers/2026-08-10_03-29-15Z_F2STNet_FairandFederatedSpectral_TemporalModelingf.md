@@ -1,0 +1,18 @@
+---
+title: F2STNet: Fair and Federated Spectral-Temporal Modeling for Graph Forecasting
+published: 2026-08-10T03:29:15Z
+authors: Jiayi Zhang, Jinfeng Xu, Hewei Wang, Siyuan Cen, Haidong Huang, Yiyao Zhan, Zheyu Chen, Jinjiang You, Ai Jian, Edith C. H. Ngai
+url: http://arxiv.org/abs/2608.09082v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# F2STNet: Fair and Federated Spectral-Temporal Modeling for Graph Forecasting
+
+## Abstract
+Spatiotemporal prediction on graph-structured data is central to traffic forecasting and environmental monitoring, yet decentralized and heterogeneous data complicate both sequence modeling and collaborative training. We propose F$^2$STNet, a federated forecasting framework that combines truncated graph-Fourier features, a lightweight diagonal state-space temporal encoder, graph convolution, and Fairness-aware Federated Aggregation (FFA). The spectral branch exposes graph-frequency structure, while the state-space layer models long temporal dependencies with linear complexity in the sequence length. FFA adjusts the FedAvg prior using client validation losses and an increasing fairness schedule. Experiments on PeMS04, HZMetro, and KnowAir show favorable forecasting accuracy relative to the evaluated baselines; federated experiments on PeMS04 additionally improve worst-client and client-dispersion metrics.
+
+## Metadata
+- **Published**: 2026-08-10T03:29:15Z
+- **Authors**: Jiayi Zhang, Jinfeng Xu, Hewei Wang, Siyuan Cen, Haidong Huang, Yiyao Zhan, Zheyu Chen, Jinjiang You, Ai Jian, Edith C. H. Ngai
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.09082v1)
