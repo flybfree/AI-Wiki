@@ -70,6 +70,11 @@ The strongest recurring lesson is that benchmark results are conditional. Rankin
 - Closed benchmarks improve test integrity but reduce reproducibility; open benchmarks improve reproducibility but can be overfit.
 - Agent benchmarks must evaluate trajectories and side effects, not only the final answer.
 
+## Revision history
+
+- **2026-06-10** — Initial AI Benchmarks concept page created.
+- **2026-08-11** — Reworked from a placeholder into a corpus-grounded benchmark map covering protocol validity, safety, coding agents, user-centered evaluation, domain benchmarks, and benchmark design principles.
+
 ## Source trail
 
 The entries above are drawn from the existing paper and article summaries in this wiki. The central index page is [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]].

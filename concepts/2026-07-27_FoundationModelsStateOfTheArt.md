@@ -324,4 +324,4 @@ For a living wiki, this page should be updated again when the next major family 
 - [LLM Model Evolution](llm-models/2026-06-10_LLMModelEvolution.md)
 - [LLM Release Tracker](llm-models/2026-07-10_LLMReleaseTracker.md)
 - [AI Industry Trends](ai-trends/2026-06-10_AIIndustryTrends.md)
-- [AI Benchmarks](ai-benchmarks/2026-06-10_AIBenchmarks.md)
+- [AI Benchmarks](ai-benchmarks/AIBenchmarks.md)
