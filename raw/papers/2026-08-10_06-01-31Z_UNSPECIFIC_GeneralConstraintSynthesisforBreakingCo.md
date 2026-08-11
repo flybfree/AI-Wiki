@@ -1,0 +1,18 @@
+---
+title: UNSPECIFIC: General Constraint Synthesis for Breaking Copy-and-Paste Shortcut in LLM Instruction Following
+published: 2026-08-10T06:01:31Z
+authors: Jeet Sharma, Balpreet Kaur, Jeremiah Hong, Hamed Zamani, Haw-Shiuan Chang
+url: http://arxiv.org/abs/2608.09154v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# UNSPECIFIC: General Constraint Synthesis for Breaking Copy-and-Paste Shortcut in LLM Instruction Following
+
+## Abstract
+Large language models (LLMs) are increasingly expected to follow long lists of constraints in complex instructions, and synthesizing instructions from a reference document (i.e., back-translation) is a widely used method to measure/enhance LLMs' ability to follow complex instructions. However, this method introduces a critical loophole: the constraint synthesis model copies text from the reference as a very specific constraint and the evaluated LLM trivially satisfies the constraint by copying its text in the response. To address these issues, we propose UNSPECIFIC, a novel framework that synthesizes constraints common to two similar reference articles to reduce copy-pasting, selectively hardens only trivially satisfied constraints to balance difficulty and naturalness, and evaluates satisfaction on both the generated article and its summary to penalize superficial instruction following. Consequently, we built the UNSPECIFIC benchmark on news, story, and blog domains to analyze the copy-pasting behavior of LLMs. Our results show that our synthesized constraints are not only more challenging (e.g., the satisfaction rate of GPT-5 Mini drops from 90% to 78%) and natural (LLM win-rate gap improves by 30%) from a human perspective but also mitigate the copy-pasting. We also find that a large portion of constraints are satisfied superficially (i.e., not satisfied in the core narrative of the article). The code and datasets are released at https://github.com/JeetDSharma/UNSPECIFIC.
+
+## Metadata
+- **Published**: 2026-08-10T06:01:31Z
+- **Authors**: Jeet Sharma, Balpreet Kaur, Jeremiah Hong, Hamed Zamani, Haw-Shiuan Chang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.09154v1)

@@ -9,8 +9,6 @@ Model: None
 The paper proposes Seg2Grasp, a modular pipeline for robust suction grasping in bin‑picking tasks that relies on RGB‑D input. By separating the workflow into segmentation, grasping, and classification modules, Seg2Grasp mitigates the brittleness of end‑to‑end learning when encountering unfamiliar or complex objects. The segmentation stage uses a Transformer to produce class‑agnostic masks, the grasping stage selects suction points from surface normals and mask proposals, and the classification stage employs fine‑tuned Mask‑CLIP for precise object identification. Real‑world experiments show that Seg2Grasp achieves higher success rates and greater adaptability than prior approaches in cluttered industrial settings.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  

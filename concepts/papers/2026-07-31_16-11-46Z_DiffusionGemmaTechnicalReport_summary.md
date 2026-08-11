@@ -10,7 +10,6 @@ The paper introduces DiffusionGemma, an open‑weight language model that levera
 
 ## Semantic links
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson10_DiffusionGemma.md|Lesson 10 — DiffusionGemma: Block-Autoregressive Text Generation]] — 4 title terms overlap; 2 backlinks; 5 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
 
 ## Key Contributions  

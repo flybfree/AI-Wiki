@@ -1,0 +1,18 @@
+---
+title: Deployable Per-Instance Multi-Layer Activation Steering for Large Language Models
+published: 2026-08-09T17:23:00Z
+authors: Muhammad Faishal Adly Nelwan, Alfan Farizki Wicaksono
+url: http://arxiv.org/abs/2608.08829v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Deployable Per-Instance Multi-Layer Activation Steering for Large Language Models
+
+## Abstract
+Activation steering edits the behaviour of a frozen language model by adding a learned vector to its residual stream, and current practice fixes the injection layers globally per task. We argue that the best layers are an instance-level decision, and we make per-instance, multi-layer selection both well understood and deployable. On two open-weight 8B models and six binary persona traits, a per-instance oracle over layer subsets shows that the best layers vary from one input to the next: on most trait-model pairs, no fixed global layer set recovers the per-instance benefit. A greedy rule that ranks layers by single-layer marginal effect recovers nearly all of the oracle's benefit, but both must score candidate layers against the gold answer, so neither can run at deployment; the rule instead becomes the target a prompt-only predictor is trained to reproduce. Our deployable recipe needs no label at inference: a per-instance layer ranker read off the prompt embedding, a classifier that infers the steering direction, and an adaptive gate that scores short steered passes against that inferred direction and steers no more layers than necessary. The recipe recovers most of the oracle's lift (the bulk on the stronger model, a clear majority on the harder one), never drives any trait-model pair below its unsteered alignment baseline on average, and largely avoids the fluency collapse that strong global selection incurs at higher layer counts. A mechanistic account, "direction over magnitude", explains the behavioural flip under a mis-directed global set, the output collapse from steering too many layers, and the ceiling of unsteerable inputs.
+
+## Metadata
+- **Published**: 2026-08-09T17:23:00Z
+- **Authors**: Muhammad Faishal Adly Nelwan, Alfan Farizki Wicaksono
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08829v1)

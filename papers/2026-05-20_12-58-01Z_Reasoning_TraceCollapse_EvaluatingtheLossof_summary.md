@@ -19,7 +19,6 @@ This paper investigates a critical phenomenon termed "reasoning-trace collapse,"
 ## Semantic links
 - [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapa_summary.md|Summary: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
-- [[concepts/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_Wise_summary.md|Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 
 ## Key Contributions
 - The identification and formal definition of "reasoning-trace collapse," a specific failure mode where fine-tuning on trace-less data suppresses explicit reasoning structures without immediately impacting final answer accuracy.

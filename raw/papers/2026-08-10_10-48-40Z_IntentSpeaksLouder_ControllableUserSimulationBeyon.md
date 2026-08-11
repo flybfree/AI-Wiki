@@ -1,0 +1,18 @@
+---
+title: Intent Speaks Louder: Controllable User Simulation Beyond Response Imitation
+published: 2026-08-10T10:48:40Z
+authors: Bo Wang, Ruixing Zhang, Yunqi Liu, Yang Zhang, Liangzhe Han, Tongyu Zhu, Leilei Sun
+url: http://arxiv.org/abs/2608.09420v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Intent Speaks Louder: Controllable User Simulation Beyond Response Imitation
+
+## Abstract
+User simulators are widely used as scalable environments for training and evaluating interactive assistants. Generating the next user turn is inherently one-to-many: the same profile and dialogue context may support multiple plausible continuations with different local interaction intents. A fluent response may therefore advance the dialogue through an inappropriate intent, such as acceptance rather than repair. Our key insight is that controllable user simulation should separate which local interaction intent the next user turn should realize from how that intent is expressed in language. We introduce UserIDA (User Intent-Directive Alignment), which exposes interaction intent as an explicit per-turn directive. UserIDA defines a six-way intent interface, learns directive-conditioned generation through supervised fine-tuning, and uses intent-calibrated policy optimization during group-based reinforcement learning. The reward preserves composite response quality while ensuring that intent-violating candidates rank below compliant alternatives in mixed groups. On LMSYS-USP, UserIDA achieves 86.6\% intent accuracy, outperforming the strongest dedicated user-simulator baseline by 24.3 percentage points while improving semantic and stylistic similarity. In within-context interventions, it realizes at least four of the six target intents in 91.7\% of evaluated dialogue states, compared with 22.9\% for the strongest external baseline. These results establish per-turn intent control as a complementary dimension to response fidelity in user simulation.
+
+## Metadata
+- **Published**: 2026-08-10T10:48:40Z
+- **Authors**: Bo Wang, Ruixing Zhang, Yunqi Liu, Yang Zhang, Liangzhe Han, Tongyu Zhu, Leilei Sun
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.09420v1)

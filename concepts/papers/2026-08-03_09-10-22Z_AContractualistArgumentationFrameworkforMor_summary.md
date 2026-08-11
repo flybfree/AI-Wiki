@@ -9,9 +9,7 @@ Model: None
 The paper proposes a formal contractualist argumentation framework for moral decision‑making, building on Scanlon’s theory that an action is permissible only if no one could reasonably reject the principles it supports. It extends ASPIC+ with value‑based filtering to model how each agent’s values determine which reasons are morally relevant in the first place. The framework represents reasons formally, compares them via argumentation semantics, and evaluates outcomes through a contractualist lens. This work bridges moral philosophy with structured argumentation in shared environments.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Formal integration of Scanlon’s contractualism into an argumentation framework.  

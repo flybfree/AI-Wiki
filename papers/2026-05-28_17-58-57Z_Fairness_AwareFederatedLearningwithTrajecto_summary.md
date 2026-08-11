@@ -19,8 +19,6 @@ Federated learning enables collaborative model training across many clients whil
 
 ## Semantic links
 - [[concepts/papers/2026-06-16_17-56-57Z_EvolveNav_ProactivePreflectionandSelf_Evolv_summary.md|Summary: 2026-06-16_17-56-57Z_EvolveNav_ProactivePreflectionandSelf_EvolvingMemo.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Unde_summary.md|Summary: 2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeP_summary.md|Summary: 2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
 
 ## Key Contributions  
 - TSV quantifies a client's contribution to the optimization trajectory via a temporally consistent utility derived from validation scores.  

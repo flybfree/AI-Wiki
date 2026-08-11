@@ -9,7 +9,6 @@ Model: None
 The paper tackles two persistent problems in probabilistic K‑line forecasting: quantile crossing and K‑line crossing. It introduces a parameter‑free reconciliation method called KQSP that corrects forecasts without retraining or changing the underlying model architecture. The goal is to eliminate both types of inconsistencies while preserving predictive accuracy. This work demonstrates that consistency can be enforced independently of forecast generation.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-31_14-28-23Z_MoPET_Parameter_EfficientMixture_of_Experts_20260803_1019_summary.md|Summary: 2026-07-31_14-28-23Z_MoPET_Parameter_EfficientMixture_of_ExpertsforUnif.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
 - [[concepts/papers/2026-07-31_14-28-23Z_MoPET_Parameter_EfficientMixture_of_Experts_20260803_1021_summary.md|Summary: 2026-07-31_14-28-23Z_MoPET_Parameter_EfficientMixture_of_ExpertsforUnif.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
 

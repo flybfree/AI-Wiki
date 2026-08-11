@@ -9,8 +9,6 @@ Model: None
 The paper introduces PRIMS, a physics‑aware multimodal Transformer designed to identify fluids from Coriolis and pressure sensor data while preserving reliability across varying flow, pressure, and temperature conditions. By embedding physical relationships directly into the model architecture, PRIMS bridges analytical fluid mechanics with deep learning, yielding interpretable and data‑efficient representations. The authors demonstrate that this physics‑guided design dramatically reduces parameter count compared to state‑of‑the‑art Transformers while improving classification performance. Overall, PRIMS offers a robust, out‑of‑distribution resilient solution for on‑device fluid identification in microfluidic systems.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
 
 ## Key Contributions  

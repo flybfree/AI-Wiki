@@ -18,7 +18,6 @@ This paper studies how different model families learn number representations fro
 ## Semantic links
 - [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 
 ## Key Takeaways
 - Diverse architectures can learn similar periodic number features.

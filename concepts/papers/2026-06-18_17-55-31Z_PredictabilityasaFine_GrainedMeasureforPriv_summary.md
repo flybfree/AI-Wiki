@@ -20,7 +20,6 @@ The paper proposes **predictability** as a fine‑grained privacy metric that qu
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
-- [[concepts/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_Wise_summary.md|Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Predictability measures privacy leakage as the incremental gain in an attacker’s ability to predict unknown individuals’ information after seeing algorithmic outputs, beyond what is already inferable from compromised data.  

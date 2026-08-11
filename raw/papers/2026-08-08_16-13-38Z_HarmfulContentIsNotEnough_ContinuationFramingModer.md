@@ -1,0 +1,18 @@
+---
+title: Harmful Content Is Not Enough: Continuation Framing Moderates In-Context Emergent Misalignment
+published: 2026-08-08T16:13:38Z
+authors: Peiyang Liu, Xi Wang, Ziqiang Cui, Di Liang, Wei Ye
+url: http://arxiv.org/abs/2608.08212v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Harmful Content Is Not Enough: Continuation Framing Moderates In-Context Emergent Misalignment
+
+## Abstract
+In-context learning (ICL) can induce emergent misalignment (EM), where narrow misaligned examples alter answers to unrelated questions. Existing prompts, however, conflate harmful-text exposure with an invitation to continue assistant behavior. We hold harmful answers fixed while varying their delivery as demonstrations, evidence, assistant history, or tool output. Across ten independently sampled contexts, demonstration framing raises broad EM by $30$--$32$ percentage points on a susceptible Gemini model; the gap survives domain exclusion, semantic clustering, unseen questions, and four prompt templates. Format and length-matched controls show that harmful content is necessary but insufficient. A role times continuation factorial further reveals model-dependent provenance effects: Gemini follows both assistant and tool histories, whereas Grok largely resists tool-framed continuation. Several other frontier and open-weight models show no gap. Blinded human audits confirm every main contrast and show that the model judge underestimates active-condition failures. Thus continuation framing is a strong, model-dependent moderator of ICL-EM, not a universal consequence of harmful context.
+
+## Metadata
+- **Published**: 2026-08-08T16:13:38Z
+- **Authors**: Peiyang Liu, Xi Wang, Ziqiang Cui, Di Liang, Wei Ye
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08212v1)

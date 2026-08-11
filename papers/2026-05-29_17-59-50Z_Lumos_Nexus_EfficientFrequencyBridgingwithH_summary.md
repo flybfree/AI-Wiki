@@ -18,7 +18,6 @@ The paper introduces Lumos-Nexus, a novel framework designed to address the comp
 
 ## Semantic links
 - [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
 - [[concepts/papers/2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_Mo_summary.md|Summary: 2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 
 ## Key Contributions

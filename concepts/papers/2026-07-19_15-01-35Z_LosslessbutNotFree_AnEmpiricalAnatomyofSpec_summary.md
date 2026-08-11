@@ -11,7 +11,6 @@ The paper investigates speculative decoding—a technique that lets a small draf
 ## Semantic links
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 4 title terms overlap; 1 backlink; 12 summary/topic terms overlap
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
 
 ## Key Contributions  
 - **Finding 1:** A configuration with K = 6 yields up to a 1.61× wall‑clock speedup, while acceptance (the fraction of tokens kept) drops from 69.7% at K = 1 to 37.8% at the optimum.  

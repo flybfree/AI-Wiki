@@ -18,8 +18,6 @@ Model: None
 The paper reinterprets supervised fine‑tuning (SFT) as a design problem of constructing target distributions rather than merely maximizing token likelihoods. By viewing SFT through the lens of “target distribution Q,” it isolates two explicit choices: how strongly to trust an observed token and how to distribute the remaining probability mass over alternatives. This unified perspective reveals that many existing SFT variants are implicit instantiations of a single underlying design principle, which the authors formalize in the Q‑target framework. The contribution is a new training objective—Target‑SFT—that directly optimizes this target distribution, leading to consistent gains across multiple reasoning tasks.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_Wise_summary.md|Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe_summary.md|Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Contributions  

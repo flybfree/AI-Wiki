@@ -10,7 +10,6 @@ The TalentCLEF Challenge at CLEF 2026 introduces a public benchmark for Natura
 
 ## Semantic links
 - [[concepts/papers/2026-07-23_14-54-28Z_Real_timeReconstructionofHumanVisualPercept_summary.md|Summary: 2026-07-23_14-54-28Z_Real_timeReconstructionofHumanVisualPerceptionfrom.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.04
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-27_07-56-28Z_ACaseStudyontheAcceptanceofaHumanoidRobotic_summary.md|Summary: 2026-07-27_07-56-28Z_ACaseStudyontheAcceptanceofaHumanoidRoboticHeadEmp.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.10
 
 ## Key Contributions  

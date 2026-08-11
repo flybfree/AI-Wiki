@@ -18,7 +18,6 @@ Introduces ElementsClaw, an agentic framework that combines large atomic models 
 ## Semantic links
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAll_summary.md|Summary: 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolv_summary.md|Summary: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] — 1 title term overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Takeaways
 - Pairs LAM tool use with LLM reasoning for human-interactive discovery.

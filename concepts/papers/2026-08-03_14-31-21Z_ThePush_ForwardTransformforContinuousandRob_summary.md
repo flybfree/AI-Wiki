@@ -9,7 +9,6 @@ Model: None
 The paper proposes a Push‑Forward Transform (PF‑T) that maps dynamic shapes into a common reference domain using signed distance functions, enabling invariant and robust comparison while preserving intrinsic geometry. This continuous representation captures both boundary and interior features, allowing quantitative assessment of shape similarity across static, 2D/3D, and temporal data. The approach provides an interpretable morphometric metric that reveals topological details such as skeletons and symmetries. It extends to joint analysis with scalar fields like intensity or molecular signals in both 2D/3D and time‑varying geometries.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 7 summary/topic terms overlap
 

@@ -9,7 +9,6 @@ Model: None
 The paper proposes a guide‑grounded multimodal framework that integrates deep‑learning ECG analysis with an authoritative clinical interpretation guide to generate explainable cardiac diagnosis reports. By anchoring the language model’s output in curated textbook knowledge, the system reduces hallucinations and improves alignment with standard diagnostic criteria. The approach combines CNN classification, Grad‑CAM visualizations, a fact pack derived from the guide, and a multimodal LLM to produce structured, guideline‑consistent impressions. Experiments on PTB‑XL show measurable gains in semantic quality and perceived consistency without sacrificing classification performance.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
 

@@ -9,7 +9,6 @@ Model: None
 SCPP is a unified Python library that provides a scikit‑learn‑compatible interface for soft clustering, integrating 40 algorithms across fuzzy, probabilistic, graph‑based, matrix factorization and deep learning methods. It standardizes training, prediction, membership representation, evaluation and benchmarking to enable reproducible research. The framework includes extensive documentation, examples, automated testing and seamless integration with the scientific Python ecosystem.  
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 5 summary/topic terms overlap
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|AI/ML Foundations Lesson 01 - AI, Machine Learning, and Deep Learning]] — 3 title terms overlap; 20 backlinks; 4 summary/topic terms overlap
 

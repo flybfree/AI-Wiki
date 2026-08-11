@@ -9,7 +9,6 @@ Model: None
 Multimodal continual learning (MMCL) seeks to accumulate knowledge across tasks while preventing forgetting, yet existing methods focus only on cross‑modal alignment and ignore the stability of each modality’s contribution over time. The authors introduce Modality Contribution Drift (MCD), a new metric that captures how the relative importance of modalities shifts when subsets are intervened upon. To address this overlooked issue they propose Continual Modality Contribution Drift Regularization (CMCDR), which includes both replay‑based and replay‑free strategies to preserve the contribution structure of previously learned tasks. Their work demonstrates that current MMCL approaches cannot reliably mitigate MCD, highlighting a hidden source of knowledge loss.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
 

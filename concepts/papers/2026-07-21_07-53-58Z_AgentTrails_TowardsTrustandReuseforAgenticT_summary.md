@@ -9,7 +9,6 @@ Model: None
 AgentTrails addresses the challenge of making LLM‑driven agents’ computational histories transparent and reusable. By converting raw trajectory logs into structured provenance graphs, the system reveals hidden dataflow dependencies that chronological logs conceal. The authors introduce a prototype that not only visualizes these graphs but also enables cross‑execution comparison through a joined quotient graph. This approach supports pattern extraction, downstream analysis, and skill abstraction, thereby improving debugging, reuse, and trust in agentic workflows.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-30_15-35-34Z_LEDGERMIND_Provenance_ConstrainedMultimodal_summary.md|Summary: 2026-07-30_15-35-34Z_LEDGERMIND_Provenance_ConstrainedMultimodalAgentic.md]] — 3 title terms overlap; 9 summary/topic terms overlap; semantic match 0.10
 - [[concepts/papers/2026-07-21_12-28-58Z_FilmWorld_AgenticNovel_to_FilmGenerationthr_summary.md|Summary: 2026-07-21_12-28-58Z_FilmWorld_AgenticNovel_to_FilmGenerationthroughDyn.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.09
 

@@ -9,9 +9,7 @@ Model: None
 The paper proposes MR‑ConceptGCN, a fully unsupervised method for sequential learner modeling using multi‑relational graph convolutional networks. It integrates personal knowledge graphs, relation‑aware GCNs, and pre‑trained SBERT embeddings to capture both semantic meaning and interaction sequence information. The model constructs a sequential learner representation that balances short‑term and long‑term interactions. Experiments on an online user study show improved recommender system metrics.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - Introduces MR‑ConceptGCN, merging multi‑relational GCNs with SBERT for concept‑based representations.  

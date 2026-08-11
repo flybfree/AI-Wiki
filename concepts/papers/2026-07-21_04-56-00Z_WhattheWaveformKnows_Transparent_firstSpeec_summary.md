@@ -9,9 +9,7 @@ Model: None
 Caption Studio is a transparency‑first speech and audio intelligence platform that converts spoken audio and video into structured, searchable content through automated transcription, speaker diarization, speech analytics, signal‑level analysis, and subtitle generation. The system is built on a FastAPI backend with a real‑time dashboard and adopts a three‑layer architecture that combines Whisper‑based automatic speech recognition, pyannote speaker diarization, and an audio intelligence layer extracting waveform features. Its principal contribution is the explicit labeling of every reported metric as measured, derived, or unavailable, which improves traceability, interpretability, and reliability. Benchmarking methodology, explainability framework, and enterprise deployment considerations are also presented.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - Transparency‑first framework where each metric is labeled measured/derived/unavailable.  

@@ -9,8 +9,6 @@ Model: None
 [The paper introduces Agent Retrieval Bench, a file‑level benchmark to evaluate how coding agents retrieve repository files needed for their tasks. It defines four positive‑retrieval tasks and evaluates retrieval methods against frozen base‑commit repositories using relevance defined by downstream task needs rather than direct semantic similarity. The benchmark includes 427 samples from 25 repositories with diverse data, and explores both gold‑standard and natural no‑gold cases.]  
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  

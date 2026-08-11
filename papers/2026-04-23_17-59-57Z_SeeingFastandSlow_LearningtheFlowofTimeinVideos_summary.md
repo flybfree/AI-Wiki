@@ -18,7 +18,6 @@ The paper treats time as a learnable visual concept and develops models for reas
 
 ## Semantic links
 - [[concepts/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenR_summary.md|Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeP_summary.md|Summary: 2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 - [[concepts/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe_summary.md|Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Takeaways

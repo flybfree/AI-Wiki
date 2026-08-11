@@ -10,7 +10,6 @@ The paper introduces **\pddim**, a provably consistent diffusion‑based posteri
 
 ## Semantic links
 - [[concepts/papers/2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifo_summary.md|Summary: 2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.11
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsin_summary.md|Summary: 2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsinReinfor.md]] — 3 title terms overlap; 1 backlink; 10 summary/topic terms overlap
 
 ## Key Contributions  

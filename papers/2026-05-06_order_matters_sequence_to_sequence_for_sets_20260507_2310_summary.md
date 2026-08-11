@@ -18,7 +18,6 @@ Model: None
 The paper “Order Matters: Sequence to sequence for sets” investigates the challenge of modeling sets as sequences where the order of elements is significant. The authors propose a permutation‑sensitive sequence‑to‑sequence (S2S) architecture that learns representations which respect the original ordering, contrasting with earlier permutation‑invariant approaches. By treating each element’s features as a token in a sequence and using attention to link them according to their positions, the model can generate outputs that preserve the intended order. Their work demonstrates that order information is not merely auxiliary but essential for accurate set manipulation tasks.
 
 ## Semantic links
-- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 1 title term overlap; shared tags: ai, paper, research; 1 backlink
 - [[concepts/papers/2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommo_summary.md|Summary: 2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] — 1 title term overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 

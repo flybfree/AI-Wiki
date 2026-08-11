@@ -18,7 +18,6 @@ Model: None
 This paper investigates how large language models (LLMs) perform on discrete probability tasks, specifically dice‑rolling exercises designed to test both straightforward and counterintuitive reasoning. The authors benchmark eight state‑of‑the‑art LLMs with and without chain‑of‑thought prompting, revealing that while the models excel at standard problems, their probabilistic intuition falters dramatically on more subtle cases. Moreover, they demonstrate that small changes in phrasing or hidden cues can cause large drops in accuracy, indicating a reliance on surface patterns rather than genuine probability understanding. The study concludes that current LLMs are not yet reliable probabilistic reasoners.
 
 ## Semantic links
-- [[concepts/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing_summary.md|Summary: 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_Usi_summary.md|Summary: 2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 

@@ -20,7 +20,6 @@ The paper addresses a variant of the capacitated facility location problem where
 ## Semantic links
 - [[concepts/papers/2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenera_summary.md|Summary: 2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] A set of three specialized destroy operators designed to efficiently eliminate infeasible neighborhoods respecting incompatibility constraints.  

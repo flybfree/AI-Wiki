@@ -9,7 +9,6 @@ Model: None
 Relative Value Learning (RV) proposes a new reinforcement‑learning framework that learns value differences directly instead of absolute state values, arguing that only relative information is needed for optimal control. The authors introduce an antisymmetric pairwise Bellman operator that computes Δ(sᵢ,sⱼ)=V(sᵢ)-V(sⱼ), prove its γ‑contraction property, and derive well‑posed targets for one‑step, n‑step and λ‑return. By reconstructing generalized advantage estimation from these differences they obtain an unbiased policy‑gradient estimator called R‑GAE. Empirically, RV integrated with PPO outperforms standard PPO on 49 Atari ALE games, demonstrating that relative value estimation can serve as a competitive alternative to absolute critics.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
 

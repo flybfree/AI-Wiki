@@ -10,7 +10,6 @@ The paper introduces **Ground Truth First**, a longitudinal evaluation framework
 
 ## Semantic links
 - [[concepts/papers/2026-07-28_18-29-45Z_SharedSFTLessonsAcrossAlignment_ModelOrgani_summary.md|Summary: 2026-07-28_18-29-45Z_SharedSFTLessonsAcrossAlignment_ModelOrganisms_and.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.03
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 1 backlink; 8 summary/topic terms overlap
 
 ## Key Contributions  

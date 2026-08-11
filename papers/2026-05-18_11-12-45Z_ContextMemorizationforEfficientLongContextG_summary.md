@@ -19,7 +19,6 @@ This paper addresses the critical scalability and efficiency challenges inherent
 ## Semantic links
 - [[concepts/papers/2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictio_summary.md|Summary: 2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentr_summary.md|Summary: 2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
 
 ## Key Contributions
 - The introduction of attention-state memory, a training-free method that externalizes long context into a lookup-based memory, effectively decoupling context retention from the model's active attention mechanism.

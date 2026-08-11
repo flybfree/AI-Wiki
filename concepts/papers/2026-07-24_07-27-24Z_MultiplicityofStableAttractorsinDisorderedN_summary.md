@@ -10,7 +10,6 @@ The paper investigates the number of stable fixed‑points (attractors) in a cla
 
 ## Semantic links
 - [[concepts/papers/2026-07-31_16-19-24Z_ConvergenceandRegretofthePolicyGradientforM_20260803_1022_summary.md|Summary: 2026-07-31_16-19-24Z_ConvergenceandRegretofthePolicyGradientforMulti_Ar.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.12
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-31_16-19-24Z_ConvergenceandRegretofthePolicyGradientforM_20260803_1024_summary.md|Summary: 2026-07-31_16-19-24Z_ConvergenceandRegretofthePolicyGradientforMulti_Ar.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.10
 
 ## Key Contributions  

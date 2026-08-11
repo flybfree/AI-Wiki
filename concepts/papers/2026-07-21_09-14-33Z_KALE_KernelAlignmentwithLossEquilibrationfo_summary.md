@@ -10,7 +10,6 @@ The paper investigates why kernel‑based alignment of CLIP toward a vision‑ce
 
 ## Semantic links
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.03
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_07-39-03Z_Weight_normCriticality_AMechanismforLossSpi_summary.md|Summary: 2026-07-23_07-39-03Z_Weight_normCriticality_AMechanismforLossSpikesIndu.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.10
 
 ## Key Contributions  

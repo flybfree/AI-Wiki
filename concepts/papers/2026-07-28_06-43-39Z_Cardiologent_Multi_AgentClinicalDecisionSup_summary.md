@@ -9,8 +9,6 @@ Model: None
 The paper introduces **Cardiologent**, a multi‑agent clinical decision support system that moves beyond single‑record arrhythmia detection to produce patient‑level assessments of urgency and management. It integrates ECG leads and photoplethysmogram (PPG) signals into a unified rhythm profile, then reasons against evidence‑based cardiology guidelines using an audit‑trail critic agent. Each conclusion is traceable to a specific guideline, enabling clinicians to evaluate rather than blindly act on AI output. The system is evaluated across diagnostic accuracy, clinical significance, and urgency scoring.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
 
 ## Key Contributions  

@@ -10,7 +10,6 @@ The paper argues that AI legitimacy — the belief subjects have a rightful auth
 
 ## Semantic links
 - [[concepts/papers/2026-07-23_04-49-38Z_Three_ProngedSpectralControlforFederatedPar_summary.md|Summary: 2026-07-23_04-49-38Z_Three_ProngedSpectralControlforFederatedParameterE.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.08
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_17-51-38Z_ROMS_IMLE_AMinimalistApproachtoCompetitiveS_summary.md|Summary: 2026-07-21_17-51-38Z_ROMS_IMLE_AMinimalistApproachtoCompetitiveSingle_S.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
 
 ## Key Contributions  

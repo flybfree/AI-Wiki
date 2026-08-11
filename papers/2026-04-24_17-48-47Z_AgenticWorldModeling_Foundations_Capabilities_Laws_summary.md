@@ -17,7 +17,6 @@ Model: None
 As AI systems move from generating text to accomplishing goals through sustained interaction, the ability to model environment dynamics becomes a central bottleneck. Agents that manipulate objects, navigate software, coordinate with others, or design experiments require predictive environment models, yet the term world model carries different meanings across research communities. We introduce a "levels x laws" taxonomy organized along two axes.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
 

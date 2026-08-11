@@ -18,7 +18,6 @@ Introduces a Tsallis q-loss continuum that interpolates between RL from verifiab
 ## Semantic links
 - [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 1 title term overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 1 title term overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 1 title term overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
 
 ## Key Takeaways
 - Frames supervision as a continuum between exploitation and density estimation.

@@ -9,7 +9,6 @@ Model: None
 The paper tackles the challenge of residential short‑term load forecasting by embedding inferred household behavioural patterns directly into a Neural Process (NP) model, rather than treating them only as external grouping signals. It proposes a behaviour‑conditioned Attentive NP framework that uses both discrete and continuous latent variables to condition the decoder on context‑derived class distributions. The approach leverages weak supervision from clustering during training while relying solely on context at test time, enabling single‑model forecasts across heterogeneous households, contexts, and horizons. Experiments show measurable improvements in MAE and CRPS compared with label‑agnostic ANP baselines.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
 

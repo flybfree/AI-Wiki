@@ -9,7 +9,6 @@ Model: None
 The paper introduces spurious routing in tabular in‑context learners where a composite feature mixes the true health signal \(C\) with a systematic artefact \(S\) from hospital equipment, causing the model to route predictions through the artefact regardless of context size and leading to silent failures across hospitals. It proves that this routing is unavoidable for ridge ICL and derives a closed‑form characterisation \(\mathrm{CSR} \propto \rho_S/\rho_C\), empirically observed in TabPFN at \(r=0.979\). The authors also propose two lightweight mitigations—environment‑stratified context construction and S‑swap augmentation—that reduce spurious routing by up to 98.8 % for TabPFN without requiring causal labels.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 12 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
 

@@ -19,7 +19,6 @@ This paper addresses the computational inefficiency inherent in using pretrained
 ## Semantic links
 - [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 - [[concepts/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_summary.md|Summary: 2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
-- [[concepts/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolv_summary.md|Summary: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
 
 ## Key Contributions
 - The introduction of CARV, a novel framework that explicitly accounts for compute costs to motivate a hierarchical Monte Carlo estimator, allowing for the amortization of expensive upstream computations.

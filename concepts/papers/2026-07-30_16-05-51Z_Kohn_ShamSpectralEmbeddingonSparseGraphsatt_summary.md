@@ -10,7 +10,6 @@ The authors propose Kohn‑Sham Spectral Embedding (KSSE), a physics‑inspired 
 
 ## Semantic links
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI/ML Foundations Lesson 06 - Neural Networks: The Core Building Blocks]] — 4 title terms overlap; 9 backlinks; 5 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  

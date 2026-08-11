@@ -9,7 +9,6 @@ Model: None
 This paper investigates how quickly reward models can be evaluated in reinforcement‑learning‑from‑human‑feedback (RLHF) pipelines, which is a frequent bottleneck for step latency. The authors develop a native C++ inference engine built on ONNX Runtime and compare its performance to PyTorch eager mode, torch.compile, and FastAPI on both CPU and GPU hardware. Their work shows that the C++/ONNX solution can be trusted with error margins far below 1 % and consistently outperforms all baselines in speed.  
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 

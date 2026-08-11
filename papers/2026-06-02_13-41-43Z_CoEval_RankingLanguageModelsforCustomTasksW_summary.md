@@ -18,7 +18,6 @@ Model: None
 The paper introduces CoEval, a framework that enables ranking language models on custom tasks without any labeled data or reliance on public benchmarks that may be contaminated. It creates synthetic benchmark items from task descriptions using teacher models and ranks candidate models with an ensemble of judge models, guaranteeing that the evaluation is label‑free and free from memorization. The system recovers ground‑truth rankings at 0.86 accuracy while being cheap enough to run repeatedly as new model releases appear. This provides a reproducible, contamination‑free leaderboard for any domain.
 
 ## Semantic links
-- [[concepts/papers/2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeP_summary.md|Summary: 2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvi_summary.md|Summary: 2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScien_summary.md|Summary: 2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
 

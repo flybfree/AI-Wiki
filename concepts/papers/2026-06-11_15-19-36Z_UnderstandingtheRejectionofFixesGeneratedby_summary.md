@@ -20,7 +20,6 @@ This paper investigates why a substantial portion of pull requests (PRs) generat
 ## Semantic links
 - [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 2 backlinks
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - **Finding 1**: Approximately 46.41 % of AI‑generated fixes are rejected, representing significant wasted human review and compute resources.  

@@ -10,7 +10,6 @@ The paper tackles the instability that limits training at 4‑bit floating point
 
 ## Semantic links
 - [[concepts/papers/2026-07-23_21-53-34Z_ToolGuardian_DeclarativeSecurityforAIAgent__summary.md|Summary: 2026-07-23_21-53-34Z_ToolGuardian_DeclarativeSecurityforAIAgent_ToolInt.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-08-03_10-33-34Z_ConvexNeuralEnergyElements_MonolithicFinite_20260804_0045_summary.md|Summary: 2026-08-03_10-33-34Z_ConvexNeuralEnergyElements_MonolithicFinite_Elemen.md]] — 3 title terms overlap; 15 summary/topic terms overlap; semantic match 0.10
 
 ## Key Contributions  

@@ -10,7 +10,6 @@ The paper introduces Vilya‑2, a diffusion transformer that models peptide‑pr
 
 ## Semantic links
 - [[concepts/papers/2026-07-24_14-31-54Z_IQ_JEPA_AJoint_EmbeddingPredictiveArchitect_summary.md|Summary: 2026-07-24_14-31-54Z_IQ_JEPA_AJoint_EmbeddingPredictiveArchitecturewith.md]] — 3 title terms overlap; 1 backlink; 12 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-20_16-43-54Z_DoLanguageModelsDreamofBindingMolecules_Ben_summary.md|Summary: 2026-07-20_16-43-54Z_DoLanguageModelsDreamofBindingMolecules_Benchmarki.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.09
 
 ## Key Contributions  

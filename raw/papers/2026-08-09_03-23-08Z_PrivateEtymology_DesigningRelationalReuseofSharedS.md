@@ -1,0 +1,18 @@
+---
+title: Private Etymology: Designing Relational Reuse of Shared Symbols in Long-Term Human-AI Interaction
+published: 2026-08-09T03:23:08Z
+authors: Miki Ueno
+url: http://arxiv.org/abs/2608.08443v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Private Etymology: Designing Relational Reuse of Shared Symbols in Long-Term Human-AI Interaction
+
+## Abstract
+Previous studies have shown that people can develop shared symbols, partner-specific expressions, personal idioms, inside jokes, and other parts of a relational microculture. Recent work has also examined how humans and conversational AI negotiate and revise symbolic meanings. However, long-term human-AI systems still lack a clear design model for recording how a dyad-specific expression gains meaning, checking whether both sides still accept that meaning, and safely reusing the expression in later sessions.   This concept-and-prototype paper introduces Private Etymology, a machine-representable relational provenance that records how a dyad-specific symbolic expression is proposed, interpreted, negotiated, repaired, reused, revised, stabilized, contested, forgotten, or retired over time. I also propose relational reuse: reactivating a dyad-specific expression in a later session without fully explaining its meaning again.   The contribution is not the invention of shared symbols or relational microcultures. Instead, this paper integrates prior ideas into persistent, revisable, and evidence-grounded symbolic units for human-AI relationships. I present a lifecycle model, an illustrative machine-readable schema, a working Apple Watch prototype, and a longitudinal research agenda. In the prototype, a language model classifies discrete conversational evidence, while deterministic local code decides whether a Shared Symbol can be updated. This prevents a free-form model confidence score or an AI proposal by itself from directly updating the persisted symbol. Private Etymology is proposed as infrastructure for conversational agents to participate in changing relational microcultures without inventing their origins or treating relational meaning as a fixed memory value.
+
+## Metadata
+- **Published**: 2026-08-09T03:23:08Z
+- **Authors**: Miki Ueno
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08443v1)

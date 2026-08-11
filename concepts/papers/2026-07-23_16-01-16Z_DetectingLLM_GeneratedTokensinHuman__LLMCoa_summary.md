@@ -10,7 +10,6 @@ The paper tackles the problem of identifying LLM‑generated tokens inside mixed
 
 ## Semantic links
 - [[concepts/papers/2026-07-21_15-49-02Z_BeyondScorePrediction_LLM_BasedEssayScoring_summary.md|Summary: 2026-07-21_15-49-02Z_BeyondScorePrediction_LLM_BasedEssayScoringandFeed.md]] — 3 title terms overlap; 1 backlink; 12 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-28_17-59-16Z_SpendExpertsWhereYouAreUnsure_Confidence_Ad_20260728_2308_summary.md|Summary: 2026-07-28_17-59-16Z_SpendExpertsWhereYouAreUnsure_Confidence_AdaptiveR.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.09
 
 ## Key Contributions  

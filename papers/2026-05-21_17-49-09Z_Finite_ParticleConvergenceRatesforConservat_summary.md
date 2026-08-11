@@ -18,7 +18,6 @@ Model: None
 The paper introduces a conservative drifting method for one‑step generative modeling that replaces displacement‑based velocities with a KDE‑gradient velocity, thereby eliminating the non‑conservativity problem of general drift fields. It establishes continuous‑time finite‑particle convergence bounds on \(\mathbb{R}^d\) by linking joint entropy to empirical Stein drift, smoothed Fisher discrepancy, and squared center velocity. The analysis also treats the original non‑conservative Laplace‑kernel drifting method, revealing a sharp residual term that limits its rate of convergence.
 
 ## Semantic links
-- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 - [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 - [[concepts/papers/2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextua_summary.md|Summary: 2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 

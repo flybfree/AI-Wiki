@@ -1,0 +1,18 @@
+---
+title: CoRe-UIE: Rethinking Coexisting and Region-wise Degradation for Underwater Image Enhancement
+published: 2026-08-10T00:00:17Z
+authors: Weifeng Kong, Chenghao Xu, Lin Chen, Ziheng Cao, Guanying Huo
+url: http://arxiv.org/abs/2608.08965v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# CoRe-UIE: Rethinking Coexisting and Region-wise Degradation for Underwater Image Enhancement
+
+## Abstract
+Underwater images often suffer from diverse and coexisting degradations, including color distortion, scattering haze, texture attenuation, and uneven illumination. These degradations vary across regions and may coexist locally, making conventional uniform restoration difficult to adapt to different degradation patterns. To address this problem, we propose Coexisting and Region-wise Degradation for Underwater Image Enhancement (\textbf{CoRe-UIE}), a degradation-oriented expert collaboration framework. CoRe-UIE combines a content-preserving shared expert with four shared-backbone routed experts for color correction, scattering suppression, texture recovery, and illumination protection. The routed experts share the same architecture but have independent parameters, and are assigned to different regions through input-derived degradation cues and region-adaptive Top-\(k\) routing. We further introduce a Hilbert--Schmidt Independence Criterion (HSIC)-based representation constraint to reduce statistical dependence among expert features and alleviate redundant expert responses. Experiments on UIEB, LSUI, and U45 demonstrate that CoRe-UIE achieves competitive quantitative performance and visually balanced enhancement under diverse underwater degradation conditions.
+
+## Metadata
+- **Published**: 2026-08-10T00:00:17Z
+- **Authors**: Weifeng Kong, Chenghao Xu, Lin Chen, Ziheng Cao, Guanying Huo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08965v1)

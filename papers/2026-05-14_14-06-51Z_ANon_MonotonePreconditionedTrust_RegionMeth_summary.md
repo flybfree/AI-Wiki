@@ -17,9 +17,7 @@ Model: None
 This paper addresses the computational bottlenecks inherent in training large-scale deep neural networks by introducing a novel optimization framework that leverages domain decomposition techniques. The authors propose the Non-Monotone Additively Preconditioned Trust-Region Strategy (NAPTS), which extends the existing APTS method by integrating a nonlinear additive Schwarz preconditioner and a non-monotone acceptance criterion. By allowing controlled increases in the objective function during the optimization process, the method avoids the premature rejection of potentially beneficial steps that often occur in strictly monotone algorithms. This approach effectively balances the parallel processing of subdomain corrections with global coarse-space updates, resulting in a more robust and efficient training process for complex neural architectures.
 
 ## Semantic links
-- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
-- [[concepts/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing_summary.md|Summary: 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
 
 ## Key Contributions
 - The development of the Non-Monotone APTS (NAPTS) algorithm, which incorporates a nonlinear additive Schwarz preconditioner to enhance the coupling between parallel subdomains and global coarse-space directions.

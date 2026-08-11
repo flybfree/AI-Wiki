@@ -11,7 +11,6 @@ The authors investigate whether reinforcement‑learning (RL) policies trained i
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.06
 - [[concepts/papers/2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsin_summary.md|Summary: 2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsinReinfor.md]] — 3 title terms overlap; 1 backlink; 13 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Long‑horizon agents generalize across benchmarks primarily through behavioral changes rather than task‑specific knowledge.  

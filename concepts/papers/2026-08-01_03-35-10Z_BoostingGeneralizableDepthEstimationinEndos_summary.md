@@ -9,7 +9,6 @@ Model: None
 Depth estimation is essential for 3D perception in endoscopic surgery, yet illumination interference and the diversity of visual features across scenes hinder generalizable performance. The authors introduce EndoMINI, a self‑supervised framework that combines a mixture of low‑rank experts (MiLoRE) with intrinsic image alignment to improve adaptation to varied endoscopy conditions. MiLoRE enables parameter‑efficient fine‑tuning while preserving model capacity, and the intrinsic image decomposition network mitigates reflectance‑dependent errors. Experiments on SCARED, Hamlyn, and SERV‑CT datasets show that EndoMINI outperforms state‑of‑the‑art methods both in supervised and zero‑shot settings.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-08-04_07-51-30Z_MoEGen_Mixture_of_ExpertsforInstance_Adapti_summary.md|Summary: 2026-08-04_07-51-30Z_MoEGen_Mixture_of_ExpertsforInstance_AdaptiveLoRAG.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.10
 - [[concepts/papers/2026-07-24_04-34-10Z_TextSLIP_TextSelf_SupervisedCLIPforMedicalR_summary.md|Summary: 2026-07-24_04-34-10Z_TextSLIP_TextSelf_SupervisedCLIPforMedicalReportGe.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.10
 

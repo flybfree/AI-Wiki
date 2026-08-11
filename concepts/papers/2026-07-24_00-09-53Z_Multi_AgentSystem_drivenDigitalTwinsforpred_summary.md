@@ -10,7 +10,6 @@ The paper reviews how Multi‑Agent Systems can be integrated with digital twins
 
 ## Semantic links
 - [[concepts/ai-agents/ai-agents-lesson-06-single-agent-and-multi-agent-architectures.md|AI Agents Lesson 7 - Single-Agent and Multi-Agent Architectures]] — 4 title terms overlap; 2 backlinks; 5 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-22_06-50-53Z_Hypothesis_and_RefinementLearningofOrganicS_summary.md|Summary: 2026-07-22_06-50-53Z_Hypothesis_and_RefinementLearningofOrganicStructur.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
 
 ## Key Contributions  

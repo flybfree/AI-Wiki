@@ -11,7 +11,6 @@ The paper introduces Ventaglio, a runtime-configurable sparse execution unit des
 ## Semantic links
 - [[concepts/papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_summary.md|Summary: 2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_weight.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
 - [[concepts/papers/2026-07-22_14-57-42Z_PhaseAware_InterpretableHuman_in_the_LoopRe_summary.md|Summary: 2026-07-22_14-57-42Z_PhaseAware_InterpretableHuman_in_the_LoopRehabilit.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.03
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Ventaglio introduces a sparse execution unit and RVV ISA extensions that support indexed gather-accumulate-scatter operations, enabling hardware-level exploitation of both weight and activation sparsity in tensor contractions.  

@@ -9,7 +9,6 @@ Model: None
 The paper investigates how Graph Neural Network (GNN) message‑passing layers perform in regression tasks, which are under‑explored compared to classification benchmarks. It evaluates several GNN architectures—deep convolutional GNNs such as GEN, attention‑based models, and classically inspired variants—on regression problems including rank ordering, error minimization, and insight extraction. The study aims to identify which message‑passing mechanisms are most effective for scalar regression predictions on graph data. By contrast, the best classification GNNs are often repurposed without optimization for regression.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
 

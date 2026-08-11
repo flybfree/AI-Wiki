@@ -20,7 +20,6 @@ DeMaVLA is a vision‑language‑action foundation model designed to enable gene
 ## Semantic links
 - [[concepts/papers/2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTranspo_summary.md|Summary: 2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsfo_summary.md|Summary: 2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] DeMaVLA provides a single VLA foundation model capable of handling diverse deformable objects without separate policies for each category.  

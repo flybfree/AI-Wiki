@@ -11,7 +11,6 @@ StreamTalk tackles the challenge of generating co‑speech gestures in real time
 ## Semantic links
 - [[concepts/papers/2026-08-03_09-56-34Z_Long_HorizonAutonomousArchitectureResearchw_summary.md|Summary: 2026-08-03_09-56-34Z_Long_HorizonAutonomousArchitectureResearchwithaLan.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
 - [[concepts/papers/2026-08-03_09-56-34Z_Long_HorizonAutonomousArchitectureResearchw_20260804_0040_summary.md|Summary: 2026-08-03_09-56-34Z_Long_HorizonAutonomousArchitectureResearchwithaLan.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Streaming co‑speech gesture generation suffers from drift because each clip depends on past context without forward constraints; a key pose at the end of each clip provides a destination anchor that limits trajectory errors.  

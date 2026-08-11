@@ -9,9 +9,7 @@ Model: None
 The paper proposes HyperODE, a zero‑shot surrogate that can simulate and infer the behavior of dynamical systems defined by ordinary differential equations without retraining a model for each new instance. By converting an ODE into a directed hypergraph, HyperODE separates the functional form of system interactions from the neural network architecture, allowing a single shared encoder to operate across many unrelated compartmental models. The surrogate outputs calibrated quantile bands for trajectories and parameter distributions in one forward pass, enabling rapid inference even on unseen model families or with external forcing. This approach dramatically reduces the computational cost compared with training specialized surrogates for each ODE.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 11 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] HyperODE builds a hypergraph representation of an ODE’s compartmental structure, allowing a single neural network to serve as a surrogate across diverse mass‑conserving models.  

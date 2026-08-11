@@ -16,7 +16,6 @@ Source: 2026-04-27_17-23-37Z_Long_ContextAwareUpcycling_ANewFrontierforHybridLL.
 Introduces HyLo, a long-context upcycling recipe for converting pretrained Transformer LLMs into hybrid models using efficient Transformer blocks, MLA, linear sequence blocks, staged long-context training, and teacher-guided distillation. The method extends usable context by up to 32×, cuts KV-cache memory by over 90%, and enables up to 2M-token prefill and decoding in the reported inference stack.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 - [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 1 title term overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 1 title term overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 

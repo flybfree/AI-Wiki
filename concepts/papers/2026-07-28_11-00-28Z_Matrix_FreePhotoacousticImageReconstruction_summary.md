@@ -9,7 +9,6 @@ Model: None
 Photoacoustic tomography (PAT) fuses optical absorption contrast with ultrasound spatial resolution, yet reconstructing the pressure field from sparse sensor measurements is an ill‑posed inverse problem that traditionally requires the system matrix at inference. This work introduces the Sensor Attention Network (SAN), a transformer architecture that treats each full time series as a token and maps raw measurements directly to the image without forming or inverting the H‑matrix. By bypassing the costly matrix computation, SAN enables real‑time reconstruction suitable for clinical PAT. The network is trained using an analytical k‑space H‑matrix and benchmarked against standard solvers on matched geometry.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-14_17-50-28Z_TheSpectrumIsNotEnough_WhenContextHelpsTime_summary.md|Summary: 2026-07-14_17-50-28Z_TheSpectrumIsNotEnough_WhenContextHelpsTime_Series.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
 - [[concepts/papers/2026-07-24_15-46-28Z_PRIMS_Physics_guidedRepresentationforFluidI_summary.md|Summary: 2026-07-24_15-46-28Z_PRIMS_Physics_guidedRepresentationforFluidIdentifi.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.13
 

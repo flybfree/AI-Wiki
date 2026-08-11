@@ -12,7 +12,6 @@ The paper proposes SimPhysNet, a self‑supervised learning framework that predi
 
 ## Semantic links
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|AI/ML Foundations Lesson 04 - Supervised Learning: Learning from Labels]] — 4 title terms overlap; 4 backlinks; 6 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
 
 ## Key Contributions  

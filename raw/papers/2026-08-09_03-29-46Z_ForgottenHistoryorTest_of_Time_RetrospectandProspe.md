@@ -1,0 +1,18 @@
+---
+title: Forgotten History or Test-of-Time? Retrospect and Prospect on RAG from an IR Perspective
+published: 2026-08-09T03:29:46Z
+authors: Xiaoyan Zhao, Yujie Cai, Yang Zhang, Grace Hui Yang, Tat-Seng Chua
+url: http://arxiv.org/abs/2608.08445v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Forgotten History or Test-of-Time? Retrospect and Prospect on RAG from an IR Perspective
+
+## Abstract
+Retrieval-Augmented Generation (RAG) is widely regarded as a novel paradigm born from the limitations of large language models (LLMs)--a mechanism to ground their outputs in external knowledge. This view, however, is incomplete when considered within a broader historical context. In this paper, we argue that the core ideas underlying RAG are not new: foundational concepts such as integrating retrieval and language generation, knowledge augmentation, answer verification, and iterative query (or prompt) refinement had already been studied and instantiated in information retrieval (IR) and question answering (QA) research dating back to the early 2000s, well before the emergence of LLMs.   We make this case by systematically tracing the intellectual lineage of modern RAG and Agentic RAG back to their classical IR and QA antecedents, and examining why this continuity has gone under-recognized -- a consequence of community fragmentation, shifting terminology, and the recency bias endemic to fast-moving fields. Rather than treating LLMs as the origin point of retrieval-augmented intelligence, we propose viewing them as a new interface layer atop a decades-old QA architecture. This reframing is not merely historical: by situating RAG within the longer trajectory of IR research, we surface underutilized prior work -- on user modeling, answer validation, and query refinement -- that can directly inform next-generation RAG design, reducing unintentional rediscovery and fostering genuine cross-community integration.
+
+## Metadata
+- **Published**: 2026-08-09T03:29:46Z
+- **Authors**: Xiaoyan Zhao, Yujie Cai, Yang Zhang, Grace Hui Yang, Tat-Seng Chua
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08445v1)

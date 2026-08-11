@@ -45,7 +45,6 @@ Quick start: [README.md](README.md)
 
 - [[concepts/2026-06-09_AIArchitectureHub.md|AI Architecture Hub]] — ML pipelines, agent frameworks, and system design
 - [[concepts/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integra_summary.md|MCP Server Architecture Patterns for LLM-Integrated Applications]]
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Agent-Native Immune System Architecture: Taxonomy and ...]]
 - [[entities/article/2026-07-13_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|Machine Learning Architecture: What It Is, Components, Types]]
 
 ### Knowledge Management & Wiki Ops

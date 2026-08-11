@@ -18,7 +18,6 @@ Presents MAKA, a human-in-the-loop multi-agent decision-support architecture tha
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandpriva_summary.md|Summary: 2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
 
 ## Key Takeaways
 - Builds provenance and physical plausibility checks into the workflow.

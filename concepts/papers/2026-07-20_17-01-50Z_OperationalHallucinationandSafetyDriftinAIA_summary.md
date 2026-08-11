@@ -10,8 +10,6 @@ The paper investigates two emergent failure modes in AI agents that rely on larg
 
 ## Semantic links
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 5 title terms overlap; 29 backlinks; 12 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - Finding 1: Safety Drift is a gradual erosion of declared safety intent, resulting in constraint‑violating actions such as textual refusal followed by unsafe execution.  

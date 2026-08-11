@@ -19,7 +19,6 @@ The authors introduce **Diffusion‑Proof**, the first framework that trains and
 
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 backlinks
-- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  

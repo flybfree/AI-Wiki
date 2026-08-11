@@ -11,7 +11,6 @@ The paper introduces VESTIGE, a parameter‑free masking strategy that aligns th
 ## Semantic links
 - [[concepts/papers/2026-08-04_13-02-47Z_Language_SpecializedMulti_TeacherOn_PolicyD_summary.md|Summary: 2026-08-04_13-02-47Z_Language_SpecializedMulti_TeacherOn_PolicyDistilla.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
 - [[concepts/papers/2026-07-26_07-29-47Z_NovelClaimorDéjàVu_Rethinking_Contamination_summary.md|Summary: 2026-07-26_07-29-47Z_NovelClaimorDéjàVu_Rethinking_Contamination_Free__.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.02
 
 ## Key Contributions  
 - [Finding 1] VESTIGE is a drop‑in replacement for the standard MLM collator that redistributes masks according to a position‑specific corruption profile, eliminating the need for additional parameters.  

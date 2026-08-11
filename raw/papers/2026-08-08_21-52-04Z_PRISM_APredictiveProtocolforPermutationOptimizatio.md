@@ -1,0 +1,18 @@
+---
+title: PRISM: A Predictive Protocol for Permutation Optimization via Landscape Diagnostics
+published: 2026-08-08T21:52:04Z
+authors: Blessings Mambwe
+url: http://arxiv.org/abs/2608.08344v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# PRISM: A Predictive Protocol for Permutation Optimization via Landscape Diagnostics
+
+## Abstract
+Permutation optimization arises whenever the components of a system are fixed but their ordering affects performance. We introduce PRISM, a predictive protocol for permutation optimization that measures a fitness landscape before selecting a search strategy. PRISM uses inexpensive landscape diagnostics, including one-step move autocorrelation and fitness-distance correlation, to predict useful mutation operators, identify when structured search is likely to outperform random sampling, and detect regimes in which search provides little advantage. Across synthetic permutation landscapes, neural architecture benchmarks, scientific machine learning pipelines, and large-language-model instruction ordering, the protocol makes testable predictions about search behavior before optimization begins. Exhaustive instruction-ordering experiments reveal substantial performance variation induced solely by permutation, while cross-model experiments show that useful ordering structure can transfer across model families and task difficulty. Additional experiments demonstrate that instruction ordering remains consequential after prompt wording is optimized, indicating that content optimization and ordering optimization are complementary. The results position PRISM not as a universally superior optimizer, but as a framework for determining when permutation search is useful, which representation and operator should be used, and when simpler alternatives are preferable.
+
+## Metadata
+- **Published**: 2026-08-08T21:52:04Z
+- **Authors**: Blessings Mambwe
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08344v1)

@@ -9,7 +9,6 @@ Model: None
 The paper tackles the recurring problem that AI‑assisted coding assistants frequently require users to provide clarification for ambiguous requests, even when the same ambiguity appears across multiple sessions. It proposes a new task called *personalized ambiguity adaptation*, where an assistant should recognize a previously resolved ambiguity pattern from the user’s history and generate the correct executable code without asking additional questions. To study this problem, the authors introduce CAPA, a benchmark that injects six distinct mechanisms of personalized coding ambiguity into unambiguous tasks using a controlled three‑stage generation pipeline.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 

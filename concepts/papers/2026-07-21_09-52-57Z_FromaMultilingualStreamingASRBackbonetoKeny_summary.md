@@ -9,7 +9,6 @@ Model: None
 The paper presents a data‑centric engineering study that adapts NVIDIA’s multilingual ASR Streaming model Nemotron 3.5 to three Kenyan languages—Kikuyu, Dholuo and Kalenjin—while preserving the streaming architecture (FastConformer RNN‑T, prompt conditioning, decoder) for low‑latency inference. By fine‑tuning a Kenyan Swahili checkpoint on carefully curated corpora, the authors retain cache‑aware components and avoid discarding the streaming pipeline, delivering language‑specific systems that can be served in production. The work reports internal WER/CER scores (42.97 % Kikuyu, 33.98 % Dholuo, 68.74 % Kalenjin) and documents negative findings such as non‑speech label over‑generation and cloud job failures.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-14-choosing-the-right-architecture-for-the-task.md|AI/ML Foundations Lesson 14 - Choosing the Right Architecture for the Task]] — 3 title terms overlap; 9 backlinks; 5 summary/topic terms overlap
 

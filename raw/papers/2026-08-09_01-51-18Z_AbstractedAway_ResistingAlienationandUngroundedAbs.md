@@ -1,0 +1,18 @@
+---
+title: Abstracted Away: Resisting Alienation and Ungrounded Abstraction in AI Research Communities
+published: 2026-08-09T01:51:18Z
+authors: Vyoma Raman, Isabel O. Gallegos, Neha Srivathsa
+url: http://arxiv.org/abs/2608.08408v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Abstracted Away: Resisting Alienation and Ungrounded Abstraction in AI Research Communities
+
+## Abstract
+Logics of abstraction in computational AI research often push important forms of knowledge and reflection aside: dominant standards of legitimacy separate from lived experience of harm; the goals of work misalign with the practices that operationalize them; and career demands crowd out critical reflection. Even as prior academic and community-oriented efforts have sought to recontextualize and challenge common practices, exposure to sociotechnical harms and epistemic injustice persists. As three early-career critical AI researchers, we experienced this as alienation: feeling like outsiders in our research communities. This alienation has involved having some aspects of our backgrounds overlooked and others tokenized. We argue our alienation occurred through mechanisms that mirror abstraction by creating distance from relevant material realities. Beyond abstraction's role in computational AI research as a foundational practice structuring complex computational tasks, we have encountered it as a social norm in computational research spaces, illustrated through an autoethnographic inquiry into our alienation. We narrate three vignettes describing how we encountered and resisted alienation in our research communities. By analyzing themes across these accounts, we construct an interpretive framework of alienation categorizing its preconditions, mechanisms, and harms. Finally, we identify affect abstraction, one of the mechanisms of alienation we describe, as a high-leverage mechanism that is resistible by staying attuned to our affective responses, and collective action as a way to reduce risk and isolation when engaging in resistance. To assist others with similar reflection, we present our framework as a hermeneutic resource. Critical self-reflection and meaning-making are necessary steps toward challenging exclusionary disciplinary norms and cultivating more inclusive forms of AI research.
+
+## Metadata
+- **Published**: 2026-08-09T01:51:18Z
+- **Authors**: Vyoma Raman, Isabel O. Gallegos, Neha Srivathsa
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08408v1)

@@ -19,7 +19,6 @@ SpatialWorld is a benchmark that evaluates the interactive spatial reasoning of 
 
 ## Semantic links
 - [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards_summary.md|Summary: 2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 
 ## Key Contributions  

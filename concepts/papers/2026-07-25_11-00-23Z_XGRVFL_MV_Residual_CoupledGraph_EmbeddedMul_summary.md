@@ -9,9 +9,7 @@ Model: None
 The paper proposes XGRVFL‑MV, a residual‑coupled graph‑embedded multi‑view RVFL network with FleXi guardian loss for classification. It aims to preserve view‑specific geometric structure while limiting large prediction residuals and modeling relationships between views. The proposed framework addresses three core challenges in multi‑view classification: preserving view‑specific geometric structure, limiting large prediction residuals, and modeling relationships between views.  
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - Introduces XGRVFL‑MV: a residual‑coupled graph‑embedded multi‑view RVFL network with FleXi guardian loss.  

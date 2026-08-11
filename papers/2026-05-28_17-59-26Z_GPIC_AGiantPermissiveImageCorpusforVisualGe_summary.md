@@ -20,7 +20,6 @@ The Stanford Vision Lab presents GPIC, a “Giant Permissive Image Corpus” con
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 - [[concepts/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti__summary.md|Summary: 2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] GPIC aggregates ~28 trillion pixels, far exceeding previous publicly available image corpora, offering unprecedented scale for training generative models.  

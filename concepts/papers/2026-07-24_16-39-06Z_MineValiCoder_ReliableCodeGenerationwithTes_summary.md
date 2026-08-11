@@ -9,9 +9,7 @@ Model: None
 MineValiCoder is a closed‑loop test‑driven development framework that tackles the stochasticity of LLM‑generated tests by mining high‑quality cases and employing mutual validation between code and tests via bipartite graphs. The system integrates three modules—Test Case Quality Mining (TCQM), Parallel TDD Refinement, and Bipartite Graph‑Based Code‑Test Mutual Validation (BiCoTeV)—to generate reliable code directly from natural‑language requirements without manual test creation. By jointly optimizing both test quality and code output, MineValiCoder mitigates the two main defects of existing LLM‑based TDD: misleading feedback from faulty tests and conflicting signals from mixed‑quality cases.  
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - MineValiCoder introduces a collaborative closed‑loop TDD pipeline that jointly optimizes test‑case quality and code quality.  

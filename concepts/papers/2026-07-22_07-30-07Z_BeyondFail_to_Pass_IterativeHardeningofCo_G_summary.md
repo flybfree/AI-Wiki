@@ -9,8 +9,6 @@ Model: None
 The paper identifies a critical flaw in the existing fail‑to‑pass (F→P) evaluation of bug reproduction tests (BRTs) for automated program repair (APR). While F→P ensures that a test fails on buggy code and passes on a golden fix, it does not guarantee that only correct fixes survive, allowing lax BRTs to admit plausible but incorrect patches. To close this gap, the authors introduce CoHarden, an iterative co‑generation framework that hardens both tests and fixes using a “lax” signal derived from F→P failures. Their work shows that rigorous BRTs—those that correctly reject wrong repairs—are far more effective at boosting repair success than the lax alternatives.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
-- [[concepts/papers/2026-08-01_07-35-06Z_TaPR_Test_AwarePolicyRefinementforFeedback__summary.md|Summary: 2026-08-01_07-35-06Z_TaPR_Test_AwarePolicyRefinementforFeedback_Conditi.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
 - [[concepts/papers/2026-07-21_16-07-07Z_DBMol_DesignofHigh_Affinity_Target_Specific_summary.md|Summary: 2026-07-21_16-07-07Z_DBMol_DesignofHigh_Affinity_Target_SpecificSmallMo.md]] — 3 title terms overlap; 1 backlink; 8 summary/topic terms overlap
 
 ## Key Contributions  

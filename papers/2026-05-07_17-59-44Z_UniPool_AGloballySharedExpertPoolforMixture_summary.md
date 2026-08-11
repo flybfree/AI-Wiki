@@ -18,7 +18,6 @@ Model: None
 UniPool challenges the conventional Mixture‑of‑Experts (MoE) design that assigns a distinct expert set to each transformer layer, arguing that this creates unnecessary redundancy. By replacing per‑layer ownership with a single globally shared expert pool and introducing a balanced auxiliary loss, UniPool reduces validation loss by up to 0.0386 across five LLaMA model scales while using only a sublinear fraction of the original expert budget. The approach also demonstrates that expert capacity can be scaled non‑linearly with depth, offering both efficiency gains and the potential for finer‑grained decompositions.
 
 ## Semantic links
-- [[concepts/papers/2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandA_summary.md|Summary: 2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandAttribut.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
 - [[concepts/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDist_summary.md|Summary: 2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 

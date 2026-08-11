@@ -1,0 +1,18 @@
+---
+title: Idea Search: Guiding Tree Search with Ideas to Explore Diverse Scientific Methods
+published: 2026-08-09T23:31:57Z
+authors: Xuefei Julie Wang, Hao Cui, Michael P. Brenner, Subhashini Venugopalan
+url: http://arxiv.org/abs/2608.08958v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Idea Search: Guiding Tree Search with Ideas to Explore Diverse Scientific Methods
+
+## Abstract
+Tree Search-based test-time scaling of LLMs is a powerful tool for automated scientific coding. However, pure Tree Search sometimes struggles with systematic exploration, becoming trapped in local optima, or unproductive loops, especially in the vast search space of scientific methods. To address this limitation, we propose Idea Search, a framework that systematically integrates a dynamic "Idea Bank" into Tree Search. Idea Search involves three steps: (1) decomposing existing methods into atomic ideas, (2) sampling from this bank of ideas to guide branches of code mutations, and (3) dynamically updating the bank with new ideas discovered through execution. On single-cell RNA-sequencing (scRNA-seq) batch integration, Idea Search reliably breaks the plateau of a strong pure Tree Search baseline, improving the mean score from 0.678 to 0.697 and reaching a best score of 0.728. We then characterize which design choices drive these gains: bank augmentation helps bandit sampling but not random sampling, "Exploratory" prompting that prioritizes new ideas surfaces the rare best-performing solutions, while increasing sampling-level exploration is counterproductive.
+
+## Metadata
+- **Published**: 2026-08-09T23:31:57Z
+- **Authors**: Xuefei Julie Wang, Hao Cui, Michael P. Brenner, Subhashini Venugopalan
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08958v1)

@@ -89,7 +89,6 @@ This is the kind of work that keeps the field honest: it distinguishes a real ca
 The remaining papers show the same pattern across different applied domains: use ML to make difficult scientific or systems work tractable.
 The signal here is breadth. The same core modeling ideas keep spreading into climate, chemistry, robotics, geometry, and behavioral modeling, which suggests the toolkit is still diffusing outward into adjacent fields.
 
-- [**Computing on the Fly**](concepts/papers/2026-07-21_15-42-35Z_ComputingontheFly_NavigatingaVisionfortheFu_summary.md) frames drone computing as a national-scale infrastructure problem.
 - [**DBMol**](concepts/papers/2026-07-21_16-07-07Z_DBMol_DesignofHigh_Affinity_Target_Specific_summary.md) uses model-guided design for target-specific small molecules.
 - [**Thermodynamics-Informed Input Reparameterization**](concepts/papers/2026-07-21_16-12-30Z_Thermodynamics_InformedInputReparameterizat_summary.md) improves neural surrogates for real-fluid simulation.
 - [**1-Lipschitz Neural Networks on Hadamard Manifolds**](concepts/papers/2026-07-21_17-54-34Z_1_LipschitzNeuralNetworksonHadamardManifold_summary.md) focuses on geometry-aware robustness.
@@ -98,7 +97,6 @@ The signal here is breadth. The same core modeling ideas keep spreading into cli
 These are not “LLM news” stories, but they show how the same modeling ideas keep spreading into engineering and scientific pipelines.
 
 **Sources**:
-- [[concepts/papers/2026-07-21_15-42-35Z_ComputingontheFly_NavigatingaVisionfortheFu_summary.md|Computing on the Fly]]
 - [[concepts/papers/2026-07-21_16-07-07Z_DBMol_DesignofHigh_Affinity_Target_Specific_summary.md|DBMol]]
 - [[concepts/papers/2026-07-21_16-12-30Z_Thermodynamics_InformedInputReparameterizat_summary.md|Thermodynamics-Informed Input Reparameterization]]
 - [[concepts/papers/2026-07-21_17-54-34Z_1_LipschitzNeuralNetworksonHadamardManifold_summary.md|1-Lipschitz Neural Networks on Hadamard Manifolds]]
@@ -125,7 +123,6 @@ That is especially visible in diffusion work, where the field is trying to prove
 
 ## Source Links
 
-- [[concepts/papers/2026-07-21_15-42-35Z_ComputingontheFly_NavigatingaVisionfortheFu_summary.md|Computing on the Fly]]
 - [[concepts/papers/2026-07-21_15-49-02Z_BeyondScorePrediction_LLM_BasedEssayScoring_summary.md|Beyond Score Prediction]]
 - [[concepts/papers/2026-07-21_15-52-50Z_AdaFlash_AdaptiveSpeculativeDecodingviaOn_P_summary.md|AdaFlash]]
 - [[concepts/papers/2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsin_summary.md|The Price of Reasoning]]

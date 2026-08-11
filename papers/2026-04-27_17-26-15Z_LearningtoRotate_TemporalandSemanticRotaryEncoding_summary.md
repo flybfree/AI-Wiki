@@ -17,7 +17,6 @@ Proposes SIREN-RoPE, a learnable rotary encoding that treats the RoPE rotation m
 
 ## Semantic links
 - [[concepts/papers/2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPos_summary.md|Summary: 2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPositionEm.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 2 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 1 title term overlap; shared tags: ai, paper, research; 1 backlink
 
 ## Key Takeaways

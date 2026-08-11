@@ -9,9 +9,7 @@ Model: None
 This paper proposes PN-QNN, a novel approach that treats physical noise in near-term photonic quantum hardware not as an error to be suppressed but as a potential native regularizer within hybrid quantum-classical neural networks (PHQCNNs). By integrating Perceval’s seven-parameter physical noise model directly into the training process using Quandela and MerLin, the authors explore whether this inherent noise can improve generalization in photonic QNNs. The study evaluates PHQCNNs on three benchmark datasets—Iris, Digits, and MNIST—comparing performance with and without noise injection across multiple random seeds. The results reveal that while physical noise yields modest accuracy gains on some tasks, it also causes degradation on others, suggesting a nuanced role for noise as a regularizer.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 11 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Physical noise can act as a hardware-native regularizer in PHQCNNs, analogous to noise injection in classical deep learning.  

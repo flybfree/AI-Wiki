@@ -1,0 +1,18 @@
+---
+title: Predicting blood clot growth from sparse post-onset measurements with latent neural differential equations
+published: 2026-08-08T14:47:28Z
+authors: Lennon J. Shikhman, Ying Qian, He Li
+url: http://arxiv.org/abs/2608.08165v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Predicting blood clot growth from sparse post-onset measurements with latent neural differential equations
+
+## Abstract
+Computational models of blood clotting improve understanding of thrombus formation, but their clinical application remains limited because many model inputs are difficult to measure and patient-specific data are often sparse. We present a computational framework based on latent neural differential equations that infers unknown model parameters from sparse measurements and forecasts thrombosis progression. We demonstrate the framework using data generated from a multiphysics blood-clotting model in which clot growth is governed by the coagulation cascade and diffusion. Four known biochemical inputs (fibrinogen and factors IX, VIII, and V), together with sparse early clot-size observations, are used to infer the tissue-factor parameter and predict subsequent clot growth. We compare seven probabilistic methods: stochastic neural ordinary differential equations (SNODE), stochastic neural functional differential equations (SNFDE), a latent neural-process baseline, a monotone probabilistic deep ensemble, empirical trajectory retrieval, PCA-ridge Gaussian posterior, and Gompertz-curve retrieval. SNODE achieved the best performance in inferring the unknown input and forecasting future clot-growth trajectories. SNFDE performed similarly and consistently outperformed the other non-differential models. Prediction accuracy improved as more observations became available, whereas longer forecasting horizons increased uncertainty and decreased accuracy. Latent neural differential equations thus effectively combine parameter inference and clot-growth forecasting from sparse measurements, providing a promising foundation for personalized thrombosis modeling.
+
+## Metadata
+- **Published**: 2026-08-08T14:47:28Z
+- **Authors**: Lennon J. Shikhman, Ying Qian, He Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08165v1)

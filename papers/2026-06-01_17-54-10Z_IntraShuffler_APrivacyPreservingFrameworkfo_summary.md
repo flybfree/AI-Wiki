@@ -20,7 +20,6 @@ The paper addresses a critical vulnerability in Heterogeneous Differential Priva
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearningan_summary.md|Summary: 2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
-- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] A server can perform a Privacy Inference Attack on HDP‑FL by exploiting gradient structure, measurable via surrogate inference accuracy and linkage success.  

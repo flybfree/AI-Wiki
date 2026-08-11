@@ -9,7 +9,6 @@ Model: None
 The paper investigates how generative artificial intelligence (GenAI) reshapes academic writing and publishing, focusing on the impact on linguistic diversity in World Englishes. It aims to identify whether GenAI can democratise scholarly production or reinforce existing hierarchies, thereby contributing a nuanced, policy‑oriented perspective for scholars concerned with equity in AI‑mediated communication.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-20_20-18-29Z_TheOpenAnt_ARobotPlatformforReinforcementLe_summary.md|Summary: 2026-07-20_20-18-29Z_TheOpenAnt_ARobotPlatformforReinforcementLearningR.md]] — 3 title terms overlap; 1 backlink; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-31_15-50-29Z_LEMUR_LearningtoAlignwithMulti_ObjectiveRei_20260803_1022_summary.md|Summary: 2026-07-31_15-50-29Z_LEMUR_LearningtoAlignwithMulti_ObjectiveReinforcem.md]] — 3 title terms overlap; 8 summary/topic terms overlap; semantic match 0.08
 

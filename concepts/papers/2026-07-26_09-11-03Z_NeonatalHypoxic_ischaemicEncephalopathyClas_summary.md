@@ -9,8 +9,6 @@ Model: None
 The authors introduce MAEConformer, a self‑supervised framework that fuses the Conformer architecture with the Masked Autoencoder paradigm to learn rich representations from neonatal EEG and HRV signals without any labels. By integrating convolutional filters with Transformer‑based self‑attention, the model captures both local temporal patterns and long‑range contextual dependencies across multiple physiological modalities. A multi‑resolution short‑time Fourier transform (MR‑STFT) loss is added to preserve spectral information at several resolutions, enhancing reconstruction fidelity. The learned representations are then transferred to expert‑annotated hypoxic‑ischemic encephalopathy (HIE) severity classification tasks.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
 
 ## Key Contributions  

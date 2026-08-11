@@ -9,8 +9,6 @@ Model: None
 The paper proposes an automated incident‑response system that moves beyond static playbooks by integrating decision‑theoretic planning with large language model (LLM) commands. It introduces a multi‑scale architecture where a rollout planner allocates security resources at the tactical level and translates those decisions into executable commands via a lightweight LLM agent at the operational level. A digital twin serves as the bridge, enabling simulation for high‑level strategy and emulation for real‑time execution. The approach directly addresses the hallucination problem that plagues repeated LLM invocations while preserving strong performance on complex attack scenarios.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 121 backlinks; 11 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 12 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 12 summary/topic terms overlap
 
 ## Key Contributions  

@@ -9,7 +9,6 @@ Model: None
 The paper presents ORBIT, an agentic AI system integrated into ServiceNow to automate routine Network Operations Center (NOC) tasks and deliver actionable insights, addressing persistent pain points such as slow retrieval from siloed data sources, lengthy and hard‑to‑parse incident tickets, and context loss across shift handoffs. It introduces a modular skill‑based architecture that enables reliable, bounded AI execution within the operators’ existing tooling, thereby reducing cognitive load and shortening resolution times.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 11 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
 

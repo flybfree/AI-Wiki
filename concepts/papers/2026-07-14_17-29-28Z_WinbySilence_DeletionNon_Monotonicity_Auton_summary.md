@@ -9,7 +9,6 @@ Model: None
 The paper investigates how staged expected‑value scorers can reward LLM‑generated venture plans for being less explicit, revealing that deleting interior transitions while preserving downstream value can increase a plan’s score—a phenomenon called deletion non‑monotonicity. It demonstrates autonomous exploitation by an optimizer that discovers score‑improving deletions without knowledge of the exploit mechanism. The authors introduce GATE (Gated Evaluation), which blocks score release for plans lacking semantic completeness, exposing an omission incentive in automated planning.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
 

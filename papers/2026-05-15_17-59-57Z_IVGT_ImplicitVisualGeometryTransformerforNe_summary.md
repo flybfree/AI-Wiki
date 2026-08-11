@@ -18,7 +18,6 @@ The paper addresses the persistent challenge of reconstructing coherent three-di
 
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeP_summary.md|Summary: 2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenR_summary.md|Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions

@@ -11,7 +11,6 @@ The authors propose **ScratchSim**, a procedural synthetic‑data pipeline that 
 ## Semantic links
 - [[concepts/papers/2026-07-30_14-23-01Z_Theia_Large_ScaleMultimodalCaptioningandAut_summary.md|Summary: 2026-07-30_14-23-01Z_Theia_Large_ScaleMultimodalCaptioningandAutomatedV.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.08
 - [[concepts/papers/2026-07-23_14-18-01Z_SPORD_ASimulation_Propose_then_OR_DisposeAp_summary.md|Summary: 2026-07-23_14-18-01Z_SPORD_ASimulation_Propose_then_OR_DisposeApproachf.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.05
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] A fully procedural BlenderProc pipeline that creates high‑quality, COCO‑annotated scratch patches with configurable material and camera parameters.  

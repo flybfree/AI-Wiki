@@ -20,7 +20,6 @@ This paper tackles the challenge of providing post‑hoc recourse for decisions 
 ## Semantic links
 - [[concepts/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs_summary.md|Summary: 2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal__summary.md|Summary: 2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] A rigorous theoretical analysis demonstrates that recourse under ICL remains well‑defined and bounded, establishing a foundation for trustworthy post‑hoc explanations.  

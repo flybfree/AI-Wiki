@@ -20,7 +20,6 @@ The paper investigates how tokens evolve inside deep encoder‑only transformers
 ## Semantic links
 - [[concepts/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffus_summary.md|Summary: 2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFi_summary.md|Summary: 2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFine_Tuni.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnno_summary.md|Summary: 2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - Finding 1: The token distribution concentrates onto the push‑forward of the initial distribution under the projection map defined by the key, query and value matrices.  

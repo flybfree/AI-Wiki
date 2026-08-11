@@ -18,7 +18,6 @@ This paper addresses the critical challenge of aligning generative models with h
 
 ## Semantic links
 - [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Contributions

@@ -19,7 +19,6 @@ The paper addresses anonymous multi‑agent path finding (MAPF) by reformulating
 
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 
 ## Key Contributions  

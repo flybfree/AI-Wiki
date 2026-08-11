@@ -10,7 +10,6 @@ This paper investigates how artificial intelligence (AI) reshapes the Innovative
 
 ## Semantic links
 - [[concepts/papers/2026-08-01_10-38-23Z_Writing_System_LevelTokenizerAdaptationforB_summary.md|Summary: 2026-08-01_10-38-23Z_Writing_System_LevelTokenizerAdaptationforByte_Lev.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.03
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-08-04_12-07-23Z_Dr_AGENTONOMICS_ADidacticExperimentofAGENTO_summary.md|Summary: 2026-08-04_12-07-23Z_Dr_AGENTONOMICS_ADidacticExperimentofAGENTONOMICS.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.10
 
 ## Key Contributions  

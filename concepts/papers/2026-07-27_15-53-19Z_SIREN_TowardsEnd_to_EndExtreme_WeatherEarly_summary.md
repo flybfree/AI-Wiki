@@ -9,8 +9,6 @@ Model: None
 Early warning of extreme weather events is critical for reducing societal and economic damage, yet current expert‑driven workflows are labor‑intensive and hard to scale. This paper proposes SIREN, an experience‑grounded LLM agent framework that automates the entire end‑to‑end early‑warning chain. The authors introduce a benchmark (SIREN‑Bench) exposing capability gaps in existing weather agents and develop SIREN to integrate heterogeneous evidence, tools, and historical case retrieval. Experiments show SIREN outperforms baselines on both individual procedures and full chains.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 10 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.06
 - [[concepts/papers/2026-07-24_14-50-19Z_LearningStructuralConvergence_ANeuro_Symbol_summary.md|Summary: 2026-07-24_14-50-19Z_LearningStructuralConvergence_ANeuro_SymbolicBench.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.13
 
 ## Key Contributions

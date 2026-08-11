@@ -11,9 +11,7 @@ Model: None
 Artificial intelligence is accelerating scientific discovery, yet traditional human peer review cannot keep pace with the volume of AI‑assisted papers. To resolve this mismatch, the authors propose a taxonomy of four progressive AI‑human collaboration levels and introduce the Paper Assistant Tool (PAT), an agentic framework that evaluates full manuscripts, checks theoretical results, validates experiments, suggests improvements, and flags potential flaws using inference scaling. Pilot deployments at STOC and ICML show PAT can catch critical errors early, easing referee cognitive load while preserving human control over review outcomes.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - Proposes a taxonomy of four progressive AI‑human collaboration levels in scientific evaluation.  

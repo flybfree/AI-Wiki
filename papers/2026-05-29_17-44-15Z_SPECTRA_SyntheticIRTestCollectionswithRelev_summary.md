@@ -18,7 +18,6 @@ Model: None
 The paper introduces SPECTRA, a framework for generating synthetic IR test collections that mimic real‑world retrieval scenarios while allowing precise control over topical structure and relevance labels. It provides scalable diagnostic data for evaluating index construction, ranking latency, query routing, and evaluation tooling without the need for costly human judgments. The contribution lies in separating latent topical structure from surface text realization, enabling deterministic relevance oracles and controlled distractor diagnostics that can be produced automatically.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 - [[concepts/papers/2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connec_summary.md|Summary: 2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 - [[concepts/papers/2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforC_summary.md|Summary: 2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforComparat.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 

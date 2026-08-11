@@ -9,8 +9,6 @@ Model: None
 Radio map (RM) estimation seeks to reconstruct the spatial distribution of received signal strength (RSS) from a few sparse measurements, a task essential for spectrum management and network localization. Traditional interpolation or deep‑learning methods either fail to model complex propagation or demand costly retraining when sampling patterns change. RadioTrace introduces a transmitter‑aware diffusion framework that fuses these sparse RSS points with a frozen pre‑trained prior, eliminating the need for deployment‑time fine‑tuning while directly guiding the denoising loop with estimated Tx locations. The method also employs a propagation‑guided K‑means initialization and provides a stochastic stability analysis to ensure robust Tx‑coordinate updates.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  

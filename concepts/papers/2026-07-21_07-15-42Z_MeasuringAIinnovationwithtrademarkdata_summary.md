@@ -11,7 +11,6 @@ This research note demonstrates how trademark data can be leveraged to map the d
 ## Semantic links
 - [[concepts/papers/2026-07-28_09-38-42Z_At_the_RooflineSparseTensorContractionsonVe_summary.md|Summary: 2026-07-28_09-38-42Z_At_the_RooflineSparseTensorContractionsonVectorPro.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
 - [[concepts/papers/2026-07-22_14-57-42Z_PhaseAware_InterpretableHuman_in_the_LoopRe_summary.md|Summary: 2026-07-22_14-57-42Z_PhaseAware_InterpretableHuman_in_the_LoopRehabilit.md]] — 4 title terms overlap; 6 summary/topic terms overlap; semantic match 0.02
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 8 summary/topic terms overlap; semantic match 0.07
 
 ## Key Contributions  
 - **Complementarity with patents:** AI trademarks capture dimensions—branding, service delivery, and market diffusion—that are not fully reflected in patent filings.  

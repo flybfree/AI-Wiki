@@ -9,8 +9,6 @@ Model: None
 The paper introduces StealthBench, a benchmark to measure operational stealth in autonomous offensive‑security agents across six OPSEC dimensions. It aims to evaluate whether such agents can achieve both successful task completion and maintain stealth without compromising security tradecraft. By analyzing real bug‑bounty and red‑team trajectories, the authors create 14 dockerized scenarios where agents exhibit stealth failures. The study quantifies safe success, Stealth@Solve, and reckless solve rates using a three‑model LLM judge panel.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  

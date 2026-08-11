@@ -9,8 +9,6 @@ Model: None
 The paper aims to create a memory system that can autonomously improve its own strategy for long‑horizon AI agents, moving beyond fixed retrieval or compression approaches. SelfMem introduces an environment where the agent can experiment with different memory tools and receive feedback signals, allowing it to discover and refine optimal strategies without human intervention. This self‑optimizing loop is designed to work across a wide range of conversation scales, from 100 K to 1 M tokens. The contribution is both the framework itself and empirical evidence that this approach yields substantial gains over existing baselines.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 12 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 12 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  

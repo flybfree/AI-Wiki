@@ -9,9 +9,7 @@ Model: None
 The paper seeks to create a taxonomy that separates difficulty evaluation from training scheduling in curriculum learning for NLP, providing formal definitions and enabling systematic comparison across studies. It distinguishes two dimensions of difficulty—attribution source (what makes an instance hard) and task dependence (how hard the task is intrinsically)—and introduces a formal model of CL schedulers based on expected training contribution, retention regimes, and monotonicity constraints.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - Founding a fine‑grained taxonomy that separates difficulty evaluation from training scheduling in NLP curriculum learning.  

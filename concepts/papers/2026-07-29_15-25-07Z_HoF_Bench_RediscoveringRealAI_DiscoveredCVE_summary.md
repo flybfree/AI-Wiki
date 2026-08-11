@@ -11,7 +11,6 @@ HoF‑Bench is a benchmark designed to evaluate the ability of LLM‑based vulne
 ## Semantic links
 - [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - **Benchmark Construction**: HoF‑Bench provides a compact, reproducible test set derived from AISLE’s Hall of Fame, enabling fair comparison across scanners.  

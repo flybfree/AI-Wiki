@@ -19,7 +19,6 @@ Topological Neural Operators (TNOs) propose a principled framework for learning 
 
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
-- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeI_summary.md|Summary: 2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions  

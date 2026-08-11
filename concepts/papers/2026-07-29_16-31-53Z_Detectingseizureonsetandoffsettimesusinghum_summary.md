@@ -35,9 +35,7 @@ This work provides a reliable, explainable alternative to existing seizure‑det
 The present study proposes a **critical‑transitions‑based (CTB) framework** that leverages human‑intelligence annotations to detect the onset and offset of epileptic seizures in electroencephalography (EEG) recordings. By treating seizure events as *critical transitions* between normal and abnormal brain activity, we develop an automated detection pipeline that integrates both statistical thresholds and expert‑derived temporal cues. The approach is evaluated on a publicly available dataset comprising 120 patients with focal epilepsy, each containing 30 min of continuous EEG data recorded during rest and sleep. Our method achieves **94.7 % sensitivity** and **89.3 % specificity** for seizure onset detection, with an average estimation error of only **±1.2 s**. The offset detection performance is comparable (92.5 % sensitivity, 86.0 % specificity), and the mean interval between onset and offset is recovered within ±2.5 s. These results demonstrate that a human‑intelligence‑augmented CTB model can reliably identify seizure dynamics with clinically relevant accuracy.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
 
 ## Key Contributions  
 

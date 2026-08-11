@@ -1,0 +1,18 @@
+---
+title: Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains
+published: 2026-08-10T17:27:32Z
+authors: Diandian Zhang, Tingyu Song, Lin Fu, Zheyuan Yang, Yilun Zhao
+url: http://arxiv.org/abs/2608.09873v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Sci-VBench: Evaluating Knowledge- and Reasoning-Intensive Video Generation in Science Domains
+
+## Abstract
+We introduce Sci-VBench, a comprehensive benchmark for evaluating knowledge- and reasoning-intensive video generation across scientific domains. It contains 1,253 expert-annotated examples spanning 60 subjects across four core disciplines: Natural Science, Healthcare, Humanities & Social Sciences, and Engineering. Each example requires models to generate temporally rich videos that demand scientific reasoning and knowledge-grounded synthesis, going beyond surface-level visual plausibility. We further establish a rubric-based evaluation protocol. Our analysis shows that, under this protocol, both non-expert human evaluators and MLLM-as-Judge systems can achieve relatively high agreement with expert judgments, supporting reproducible evaluation at scale. We benchmark 16 frontier proprietary and open-source models and find that, while automatic perceptual-quality scores cluster tightly across systems, performance on Prompt Grounding and Scientific and Causal Correctness varies substantially, with a pronounced proprietary-open-source gap. These findings show that advances in visual realism have not yet translated into reliable modeling of scientific and causal dynamics.
+
+## Metadata
+- **Published**: 2026-08-10T17:27:32Z
+- **Authors**: Diandian Zhang, Tingyu Song, Lin Fu, Zheyuan Yang, Yilun Zhao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.09873v1)

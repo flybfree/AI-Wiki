@@ -17,9 +17,6 @@ Model: None
 This paper introduces RLDT (RL with Density Transport), a reinforcement learning algorithm designed to fine-tune flow-matching policies in continuous-control tasks by aligning action densities toward high-reward regions using a transport field derived from maximum-entropy RL objectives. The authors leverage Stein Variational Gradient Descent (SVGD) to construct this transport field, enabling efficient and stable updates without relying on biased approximations or distillation methods that compromise multimodal modeling. By approximating intermediate denoising steps in flow-matching policies with expected-target estimation, RLDT avoids the instability of backpropagation through time while maintaining strong policy alignment. The approach achieves superior reward quality and faster convergence across diverse continuous-control environments.
 
 ## Semantic links
-- [[concepts/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modelin_summary.md|Summary: 2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolv_summary.md|Summary: 2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] — 2 title terms overlap; shared tags: ai, paper, research; 15 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing_summary.md|Summary: 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] RLDT constructs a transport field from an RL maximum-entropy objective using SVGD to guide action density optimization without distorting the underlying flow-matching model.  

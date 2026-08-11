@@ -11,7 +11,6 @@ The paper tackles a persistent flaw in on‑policy distillation (OPD) where a st
 ## Semantic links
 - [[concepts/papers/2026-07-30_16-17-15Z_LightningOPD2_0_MitigatingStyleBiasinCross__summary.md|Summary: 2026-07-30_16-17-15Z_LightningOPD2_0_MitigatingStyleBiasinCross_Teacher.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.11
 - [[concepts/papers/2026-07-30_11-11-32Z_Flux_OPD_On_PolicyDistillationwithEvolvingC_summary.md|Summary: 2026-07-30_11-11-32Z_Flux_OPD_On_PolicyDistillationwithEvolvingContexts.md]] — 3 title terms overlap; 10 summary/topic terms overlap; semantic match 0.11
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] The teacher‑student asymmetry in failed prefixes—teachers tend to redirect while students continue along the original direction—creates a label‑free handoff trigger that can be exploited for correction.  

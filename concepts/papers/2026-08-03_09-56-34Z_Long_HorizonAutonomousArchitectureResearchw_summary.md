@@ -9,8 +9,6 @@ Model: None
 The paper investigates what happens when a single large language model acts as the sole researcher on a long‑horizon neural architecture design problem, proposing that workflow design can be at least as influential as agent capability. It presents a behavioral case study where the LLM proposes and executes experiments over roughly 100 steps to improve Vision Transformers on small benchmarks and ImageNet‑1K.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 5 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 13 summary/topic terms overlap
 
 ## Key Contributions  

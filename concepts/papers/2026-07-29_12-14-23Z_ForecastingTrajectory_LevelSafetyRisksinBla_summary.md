@@ -9,9 +9,7 @@ Model: None
 The paper addresses the challenge of predicting safety risks in black‑box multi‑turn LLM interactions by moving beyond turn‑level detection to trajectory‑level forecasting. It introduces Recast, a framework that models risk evolution across turns using dual‑scale context and causal temporal encoding. The goal is to predict when latent safety failures will emerge, enabling preemptive intervention. This work demonstrates that trajectory‑level risk prediction can significantly reduce false alarms while improving lead time.
 
 ## Semantic links
-- [[concepts/papers/2026-07-17_15-47-23Z_LLM_PoweredAgenticAIfor5G_6GNetworks_ATutor_summary.md|Summary: 2026-07-17_15-47-23Z_LLM_PoweredAgenticAIfor5G_6GNetworks_ATutorialandS.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
 - [[concepts/papers/2026-07-29_23-46-23Z_ThreatForest_Multi_AgentAttackTreeGeneratio_summary.md|Summary: 2026-07-29_23-46-23Z_ThreatForest_Multi_AgentAttackTreeGenerationwithPl.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.04
-- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.15
 
 ## Key Contributions  
 - [Finding 1] Recast achieves an 88.3 % success rate in predicting future safety failures across seven risk categories.  

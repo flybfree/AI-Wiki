@@ -11,7 +11,6 @@ The paper addresses the challenge of ensuring that a mission‑level policy is s
 ## Semantic links
 - [[concepts/papers/2026-07-24_21-23-20Z_SimpleLanguageNormalizationWins_Cross_Lingu_summary.md|Summary: 2026-07-24_21-23-20Z_SimpleLanguageNormalizationWins_Cross_LingualSpeak.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.08
 - [[concepts/papers/2026-06-21_16-44-20Z_Text2DSL_LLM_BasedCodeGenerationforDomain_S_summary.md|Summary: 2026-06-21_16-44-20Z_Text2DSL_LLM_BasedCodeGenerationforDomain_Specific.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.06
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] The three‑tier compositional runtime‑verification framework de‑composes mission policies into per‑agent and cross‑agent components, enabling granular verification at each level.  

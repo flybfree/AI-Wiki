@@ -11,7 +11,6 @@ The paper tackles the challenge of converting raster‑format 2D CAD drawings—
 ## Semantic links
 - [[concepts/papers/2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptation_summary.md|Summary: 2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptationforEvol.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.03
 - [[concepts/papers/2026-07-31_18-52-27Z_APhysics_Chemistry_InformedNeuralNetwork_PC_summary.md|Summary: 2026-07-31_18-52-27Z_APhysics_Chemistry_InformedNeuralNetwork_PCINN_for.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.02
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - **Drawing‑Recode framework**: A unified pipeline that extracts geometry from raster images, recognizes dimensional annotations via OCR, and grounds each annotation token to its geometric counterpart using cross‑attention.  

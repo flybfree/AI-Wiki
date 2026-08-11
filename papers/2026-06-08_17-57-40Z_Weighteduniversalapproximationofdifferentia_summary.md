@@ -20,7 +20,6 @@ The paper extends the universal approximation theorem for functional input neura
 ## Semantic links
 - [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] A weighted Nachbin theorem is proved that guarantees uniform approximation of differentiable maps and all their first‑order derivatives on infinite‑dimensional manifolds.  

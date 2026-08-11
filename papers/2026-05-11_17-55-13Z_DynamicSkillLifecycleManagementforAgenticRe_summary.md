@@ -18,7 +18,6 @@ Model: None
 The paper argues that external skills in agentic reinforcement learning should be managed as a dynamic optimization variable rather than being assumed to accumulate permanently or fully internalize into the policy. It introduces SLIM, a framework that jointly updates the active skill set and the policy using marginal contribution estimates derived from leave‑one‑skill‑out validation. The method applies three lifecycle operations—retaining high‑value skills, retiring low‑contribution ones after exposure, and expanding the skill bank when failures reveal gaps. Experiments demonstrate that SLIM improves performance by an average of 7.1 % points on ALFWorld and SearchQA compared with state‑of‑the‑art baselines.
 
 ## Semantic links
-- [[concepts/papers/2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmark_summary.md|Summary: 2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-16_17-59-03Z_Variable_WidthTransformers_summary.md|Summary: 2026-06-16_17-59-03Z_Variable_WidthTransformers.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 

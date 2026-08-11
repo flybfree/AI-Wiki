@@ -9,7 +9,6 @@ Model: None
 The paper tackles the inverse problem of extracting organic molecular structures from sparse, low‑dimensional spectroscopic signals by treating structure elucidation as a hypothesis‑refinement process that fuses experimental data with large‑scale chemical priors. It introduces two complementary components: a spectrum‑to‑structure model (SpectroMol) that proposes chemically plausible hypotheses from 1D/2D NMR spectra, and a high‑resolution mass‑constrained generator (MS‑Mol2Mol) that enforces compositional consistency using exact mass and degree of unsaturation. The integrated system is evaluated on a DFT‑derived benchmark dataset called QM9SPIN, demonstrating robust performance across simulated and experimental conditions.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-27_23-00-53Z_InterpretableGOHRAgentsviaSparseAutoencoder_summary.md|Summary: 2026-07-27_23-00-53Z_InterpretableGOHRAgentsviaSparseAutoencoders.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.09
 - [[concepts/papers/2026-07-22_15-20-53Z_PoTRE_Test_TimeReasoninginspiredbyCognitive_summary.md|Summary: 2026-07-22_15-20-53Z_PoTRE_Test_TimeReasoninginspiredbyCognitiveHeterog.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
 

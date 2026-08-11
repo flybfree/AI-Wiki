@@ -9,9 +9,7 @@ Model: None
 The paper introduces an “Attribution Market” that treats the mismatch between a planned task’s effort budget and the logged actions performed as a quasi‑linear Fisher market, where each buyer (the planner) values the action according to its textual, structural, and temporal description. By modelling tasks as budget‑constrained buyers and actions as divisible goods, the authors derive a seller reserve price that enforces a hard cap on total effort and a buyer cash option that preserves conservation of effort. The framework is extended with a concave completion‑utility discount that rewards progress near plan completion, and its convergence properties are proved under diagonal dominance via a satiation‑threshold fixed point.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 6 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] A Fisher‑market formulation that separates planned tasks (budget buyers) from performed actions (divisible goods), enabling fractional credit assignment without all‑or‑nothing constraints.  

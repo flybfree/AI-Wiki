@@ -9,7 +9,6 @@ Model: None
 The paper proposes EMBL AI Librarian, a knowledge layer that upgrades the Europe PMC web interface so that AI agents can retrieve life‑science evidence directly from natural‑language questions instead of manually crafting keyword searches. By integrating an LLM as an orchestrating component, the system plans multiple subqueries, selects relevant papers, and extracts precise excerpts to answer queries. The authors demonstrate that this layer significantly boosts performance across several benchmarks, showing concrete gains in citation accuracy and claim verification.  
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 12 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
 

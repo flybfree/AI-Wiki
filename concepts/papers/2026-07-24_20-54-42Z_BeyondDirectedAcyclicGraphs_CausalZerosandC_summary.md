@@ -9,9 +9,7 @@ Model: None
 The paper addresses the limitations of Pearl’s DAG‑based structural causal model by introducing two novel formalisms: causal zeros within an Extended Causal Model and Causal Differential Equations (CDEs). It provides a unified extension of the do‑calculus that can represent symmetric physical or economic constraints without intrinsic directionality and also treat apparent instantaneous feedback cycles as artifacts of suppressed time. The extended framework unifies transient acyclic processes with equilibrium manifolds defined by causal zeros, while preserving counterfactual semantics for intervention analysis.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 11 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Formalization of causal zeros within Extended Causal Models using activation operators under local solvability and graph‑admissibility conditions, enabling representation of symmetric physical/economic constraints without inherent direction.  

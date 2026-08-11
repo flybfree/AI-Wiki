@@ -11,7 +11,6 @@ Multimodal Sentiment Analysis (MSA) seeks to fuse natural‑language cues with n
 ## Semantic links
 - [[concepts/papers/2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptation_summary.md|Summary: 2026-07-28_15-38-27Z_A2TTA_Anchored_and_AgileTest_TimeAdaptationforEvol.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.04
 - [[concepts/papers/2026-07-21_10-24-57Z_WhatGeneralIntelligenceRequires_Non_Reducib_summary.md|Summary: 2026-07-21_10-24-57Z_WhatGeneralIntelligenceRequires_Non_ReducibleConst.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.11
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] The **Dual‑Stream Salience‑Context Calibration Mechanism** disentangles non‑verbal feature sequences into a *focus stream* (capturing salient sentiment shifts) and an *ambient stream* (characterizing stable background states).  

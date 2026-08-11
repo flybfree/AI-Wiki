@@ -9,7 +9,6 @@ Model: None
 The paper proposes TRACE‑TS, a framework for structured and signal‑grounded reasoning over wearable sensor time series that generates natural‑language explanations while preserving provenance. It leverages attribution from an expert classifier to identify salient spatio‑temporal regions, constructs DAG reasoning traces with explicit evidence sources, and trains a compact language model via gated cross‑attention over sensor memory tokens. At inference the adapted model jointly outputs the activity prediction and its reasoning trace without requiring teacher guidance or additional attribution computation. The authors also introduce Semantic Node Match (SNM), an LLM‑as‑judge metric that diagnoses hallucinated observations and broken evidence chains at multiple levels.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 16 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 10 summary/topic terms overlap
 

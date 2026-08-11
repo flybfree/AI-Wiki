@@ -1,0 +1,18 @@
+---
+title: UniMoMo: Expert Merging-Based MoE Acceleration for Large Recommendation Models
+published: 2026-08-09T10:20:20Z
+authors: Lei Xin, Bin Gu, Peize Li, Zitong Wang, Jianbo Zhao, Changjiang Jiang, Yanyue Xie, Chao Huang, Xuyang Zhao, Zunhai Su, Fanhu Zeng, Zhenglun Kong
+url: http://arxiv.org/abs/2608.08627v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# UniMoMo: Expert Merging-Based MoE Acceleration for Large Recommendation Models
+
+## Abstract
+Sparse mixture-of-experts (MoE) layers expand recommendation capacity through conditional computation, yet a trained checkpoint still stores and routes over its full expert bank. We study a deployment problem: convert that checkpoint to a smaller standard MoE under an explicit expert budget, without adding a compression-specific online module. To address this, we introduce UniMoMo, a post-training compression framework formulated as a constrained graph coarsening problem. Rather than relying on parameter distance, UniMoMo groups experts based on their functional similarity, using an unlabeled calibration set to measure how similarly experts respond to shared recommendation states. To prevent performance degradation, we introduce a layer-adaptive protection mechanism that restricts the merging of high-traffic experts based on their routing exposure. Across Amazon Beauty, KuaiRec, and TenRec with 2, 4, and 6 MoE blocks, the final four-expert checkpoints obtain source-relative five-run mean NDCG@10 ratios of 99.92%--102.30% and measured A100 speedups of 1.28$\times$--1.63$\times$. An aggressive two-expert, top-1 operating point obtains ratios of 98.36%--104.24% and speedups of 1.47$\times$--2.21$\times$. These endpoint results evaluate the complete conversion-and-adaptation workflow and show that a trained recommendation MoE can be exported at multiple serving budgets.
+
+## Metadata
+- **Published**: 2026-08-09T10:20:20Z
+- **Authors**: Lei Xin, Bin Gu, Peize Li, Zitong Wang, Jianbo Zhao, Changjiang Jiang, Yanyue Xie, Chao Huang, Xuyang Zhao, Zunhai Su, Fanhu Zeng, Zhenglun Kong
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08627v1)

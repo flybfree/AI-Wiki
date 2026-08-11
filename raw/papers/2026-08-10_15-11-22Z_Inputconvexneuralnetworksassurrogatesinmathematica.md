@@ -1,0 +1,18 @@
+---
+title: Input convex neural networks as surrogates in mathematical optimisation
+published: 2026-08-10T15:11:22Z
+authors: Yu Liu, Jan Kronqvist, Fabricio Oliveira
+url: http://arxiv.org/abs/2608.09707v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Input convex neural networks as surrogates in mathematical optimisation
+
+## Abstract
+Embedding trained neural networks as surrogates within optimisation problems is an established practice in operations research. The prevailing approach uses feedforward neural networks (FNNs) with ReLU activations, whose piecewise-linear structure admits an exact but computationally intensive mixed-integer programming (MIP) reformulation as the networks grow. We advocate input convex neural networks (ICNNs) as structurally superior surrogates when the underlying response is approximately convex or concave. The convex architecture offers two computational advantages. First, the ICNN-MIP formulation tends to yield a tighter linear programming (LP) relaxation than its FNN-MIP counterpart, with no integrality gap in favourable instances. Second, ICNNs uniquely admit an LP-based reformulation via epigraph representations of ReLU activations, though this embedding is not always exact. When it is not, we exploit the properties of ICNNs to construct the strongest continuous relaxation over box domains, namely, the convex hull of the ICNN's graph, bounded below by the epigraph and above by the concave envelope; this construction is tractable under input convexity but hard for general ReLU networks. On this basis, we develop a branch-and-bound algorithm that builds this relaxation at each node, branches directly on input variables rather than intermediate variables as in MIP reformulations, and terminates at the root node whenever the epigraph embedding is valid. Case studies on humanitarian food aid, oil well routing, and wine blending show that ICNN surrogates match FNN accuracy and deliver gains in solve time and scalability, supporting ICNN as the default surrogate when the underlying function is convex, concave, or well-approximated as such.
+
+## Metadata
+- **Published**: 2026-08-10T15:11:22Z
+- **Authors**: Yu Liu, Jan Kronqvist, Fabricio Oliveira
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.09707v1)

@@ -18,9 +18,7 @@ Model: None
 The paper tackles the long‑standing difficulty of evaluating adversarial robustness for large language models (LLMs) by introducing a standardized black‑box attack called Indirect Harm Optimization (IHO). IHO is designed to be adaptive, efficient, transferable, and harmful across diverse defense pipelines without requiring fine‑tuning. It provides a reliable jailbreak evaluation benchmark analogous to AutoAttack’s success for image classifiers.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforC_summary.md|Summary: 2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforComparat.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 
 ## Key Contributions  
 - [IHO is the first black‑box, adaptive, efficient, transferable attack that jointly satisfies these criteria.]  

@@ -18,7 +18,6 @@ This paper addresses the complex challenge of long-term power grid planning, a c
 
 ## Semantic links
 - [[concepts/papers/2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforC_summary.md|Summary: 2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforComparat.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions

@@ -9,8 +9,6 @@ Model: None
 The paper introduces VISA, a structured description protocol for agent‑based simulation models that aims to make the model machine‑reproducible by encoding all relevant information in eight interconnected tables. It supplies nineteen executable consistency rules that turn model validity into a checkable property and three reusable LLM‑executable skills (authoring, checking, code generation) that close the author–check–code–reproduce loop. Validation on three independently authored ABMs demonstrates that VISA can reproduce two cross‑language models directly from their specifications and capture an AnyLogic model while transparently noting where reproduction is blocked by proprietary components.  
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 10 summary/topic terms overlap
 
 ## Key Contributions  

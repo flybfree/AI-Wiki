@@ -9,9 +9,7 @@ Model: None
 The paper introduces Gubernaut, a deterministic homeostatic controller that stabilizes the affective behavior of large language model agents by continuously monitoring their internal telemetry and issuing a regulating posture without altering the model’s text output. By separating the agent (which writes text) from a meta‑level controller (which reads only numeric signals), the system avoids any token injection channel, ensuring compliance is measured rather than assumed. The approach is validated across four independent frontier model families, demonstrating that the controller reduces escalation and sycophantic drift under sustained pressure. This work therefore provides a model‑agnostic runtime solution to reactive failure modes in LLM agents.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 12 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_19-48-21Z_Agent_CentricAnimalPoseForecasting_summary.md|Summary: 2026-07-21_19-48-21Z_Agent_CentricAnimalPoseForecasting.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.08
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.02
 
 ## Key Contributions  
 - GCC introduces a model‑agnostic runtime control layer that ingests only numeric telemetry (intensity, valence, repetition) and returns a regulating posture without any token injection into the agent’s output.  

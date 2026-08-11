@@ -11,7 +11,6 @@ The paper addresses the problem that LLM agents may request new authorization to
 ## Semantic links
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_15-49-02Z_BeyondScorePrediction_LLM_BasedEssayScoring_summary.md|Summary: 2026-07-21_15-49-02Z_BeyondScorePrediction_LLM_BasedEssayScoringandFeed.md]] — 4 title terms overlap; 4 backlinks; 7 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 5 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Identifier‑local token consumption alone is insufficient; fresh semantic reissuance can occur when the issuer retains monotonic durable state over action, confirmation, and remaining budget.  

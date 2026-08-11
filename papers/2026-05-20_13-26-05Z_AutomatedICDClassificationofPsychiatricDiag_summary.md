@@ -18,7 +18,6 @@ This research addresses the critical challenge of automating the coding of psych
 
 ## Semantic links
 - [[concepts/papers/2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagati_summary.md|Summary: 2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 - [[concepts/papers/2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithG_summary.md|Summary: 2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 
 ## Key Contributions

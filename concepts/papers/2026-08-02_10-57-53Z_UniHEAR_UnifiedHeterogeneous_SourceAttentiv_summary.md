@@ -9,7 +9,6 @@ Model: None
 Knowledge‑Based Visual Question Answering (KB‑VQA) must retrieve entity knowledge from multiple heterogeneous sources, yet current retrieval systems are limited by a single‑source bottleneck and blind reranking that ignores source priors. UniHEAR proposes a unified lightweight framework that jointly learns to extract coarse descriptors for candidate entities and to condition modality attention on these descriptors while preserving source information. The approach integrates contrastive learning with an auxiliary loss that enforces modality preservation, enabling both entity‑level and section‑level retrieval within one model. Experiments show substantial gains over state‑of‑the‑art baselines on E‑VQA and InfoSeek.  
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-08-01_13-21-55Z_Select_And_Extract_ALightweightPluginforRet_summary.md|Summary: 2026-08-01_13-21-55Z_Select_And_Extract_ALightweightPluginforRetrieval_.md]] — 4 title terms overlap; 4 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-22_06-50-53Z_Hypothesis_and_RefinementLearningofOrganicS_summary.md|Summary: 2026-07-22_06-50-53Z_Hypothesis_and_RefinementLearningofOrganicStructur.md]] — 4 title terms overlap; 3 backlinks; 8 summary/topic terms overlap
 

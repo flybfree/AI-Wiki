@@ -11,7 +11,6 @@ The paper proposes **Slides2MindMap**, an automatic system that reconstructs cog
 ## Semantic links
 - [[concepts/papers/2026-07-29_18-09-17Z_LayerRAG_Bench_ACross_LayerReliabilityBench_summary.md|Summary: 2026-07-29_18-09-17Z_LayerRAG_Bench_ACross_LayerReliabilityBenchmarkfor.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.06
 - [[concepts/papers/2026-07-30_14-23-01Z_Theia_Large_ScaleMultimodalCaptioningandAut_summary.md|Summary: 2026-07-30_14-23-01Z_Theia_Large_ScaleMultimodalCaptioningandAutomatedV.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.04
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - Introduces **S2M‑Bench**, a dataset of 12,774 slide pages with expert‑annotated mind maps spanning 24 university courses.  

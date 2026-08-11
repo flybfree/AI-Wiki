@@ -10,7 +10,6 @@ The paper introduces Local Label‑Informed Feature Transfer (LLIFT), a framewor
 
 ## Semantic links
 - [[concepts/papers/2026-07-30_09-20-07Z_Class_AwareReinforcementLearningforCounterf_summary.md|Summary: 2026-07-30_09-20-07Z_Class_AwareReinforcementLearningforCounterfactualE.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.07
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-30_14-43-55Z_Semi_SupervisedLearningforMolecularGraphsvi_summary.md|Summary: 2026-07-30_14-43-55Z_Semi_SupervisedLearningforMolecularGraphsviaEnsemb.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.11
 
 ## Key Contributions  

@@ -10,7 +10,6 @@ This paper introduces **AgentMap**, a large‑language model (LLM)–driven mult
 
 ## Semantic links
 - [[concepts/search-retrieval/search-retrieval-hub.md|Search and Retrieval Hub]] — 3 title terms overlap; 332 backlinks; 4 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_10-11-10Z_OntoBook_Ontology_GroundedSyntheticTextbook_summary.md|Summary: 2026-07-21_10-11-10Z_OntoBook_Ontology_GroundedSyntheticTextbooksforMed.md]] — 4 title terms overlap; 14 summary/topic terms overlap; semantic match 0.09
 
 ## Key Contributions  

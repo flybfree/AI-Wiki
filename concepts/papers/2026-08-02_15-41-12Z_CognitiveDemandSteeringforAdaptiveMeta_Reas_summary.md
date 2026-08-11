@@ -9,7 +9,6 @@ Model: None
 Cognitive Demand Steering (CDS) proposes a training‑free meta‑reasoning framework that evaluates the forward‑looking cognitive demand of an LLM’s reasoning process rather than merely assessing past outputs. By using an LLM‑based progress evaluator, CDS identifies residual reasoning required to reach a solution and selects interventions—both exemplars and targeted actions—that directly address this demand signal. The method relies on a 16‑dimensional cognitive scale derived from cognitive science to fine‑grainedly diagnose problem complexity. This approach eliminates the need for additional trained components or many‑shot supervision, enabling zero‑shot transfer across models and tasks.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_15-49-02Z_BeyondScorePrediction_LLM_BasedEssayScoring_summary.md|Summary: 2026-07-21_15-49-02Z_BeyondScorePrediction_LLM_BasedEssayScoringandFeed.md]] — 3 title terms overlap; 1 backlink; 12 summary/topic terms overlap
 - [[concepts/papers/2026-07-27_07-16-12Z_LLM_Basedvs_Lexicon_BasedSentimentSignalsfo_summary.md|Summary: 2026-07-27_07-16-12Z_LLM_Basedvs_Lexicon_BasedSentimentSignalsforTail_R.md]] — 4 title terms overlap; 4 summary/topic terms overlap; semantic match 0.06
 

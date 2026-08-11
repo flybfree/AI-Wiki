@@ -11,7 +11,6 @@ The paper investigates how mixed‑precision quantization affects model loss and
 ## Semantic links
 - [[concepts/papers/2026-07-30_13-58-33Z_SecurityofWorld_Model_BasedEmbodiedAI_ALife_summary.md|Summary: 2026-07-30_13-58-33Z_SecurityofWorld_Model_BasedEmbodiedAI_ALifecycleof.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.04
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.03
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Across configurations drawn from the deployment distribution, 85–93 % of the variance of $f$ is explained by per‑layer effects alone.  

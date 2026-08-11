@@ -9,7 +9,6 @@ Model: None
 Lean 4’s \grind{} tactic is an automated proof assistant that combines congruence closure, \ematch{}, and case‑splitting but relies on hand‑tuned heuristics to decide when to instantiate or split. The authors argue that these heuristics are a promising target for learning because they can be replaced with models that adapt to the problem at hand. Their contribution is a failure‑triggered cascade: a learned intervention is invoked only after the stock \grind{} has already failed, guaranteeing that any proof found by the learned model cannot be worse than the original heuristic. This approach avoids the risk of learning a heuristic that harms other proofs and enables bounded search to be spent more effectively.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_01-23-04Z_Im_PairedProgramming_CodingAgentsImprovePro_summary.md|Summary: 2026-07-29_01-23-04Z_Im_PairedProgramming_CodingAgentsImproveProductivi.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.09
 - [[concepts/papers/2026-07-28_18-07-04Z_Whenbenchmarkinferencesdonotcompose_Project_summary.md|Summary: 2026-07-28_18-07-04Z_Whenbenchmarkinferencesdonotcompose_Projectibility.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.08
 

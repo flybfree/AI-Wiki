@@ -11,7 +11,6 @@ The paper proposes RIPPLE (Rectified Inter‑channel Phase with Prior‑based Le
 ## Semantic links
 - [[concepts/papers/2026-07-27_15-35-52Z_DSCH_Loss_ADynamicSemanticChannelObjectivef_summary.md|Summary: 2026-07-27_15-35-52Z_DSCH_Loss_ADynamicSemanticChannelObjectiveforDeepS.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.10
 - [[concepts/papers/2026-07-23_04-46-48Z_Source_Prior_DrivenSelectiveAdaptationforEf_summary.md|Summary: 2026-07-23_04-46-48Z_Source_Prior_DrivenSelectiveAdaptationforEfficient.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.07
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - Introduces **RIPPLE**, a method that reinterprets Griffin–Lim as a phase prior rather than a final estimator.  

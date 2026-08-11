@@ -9,7 +9,6 @@ Model: None
 The paper tackles the challenge of enabling large language models to self‑improve reliably without external expert supervision by introducing DRIFT, an online self‑evolution optimization framework that integrates difficulty routing and rhythm gating. It dynamically allocates self‑distillation signals at the problem level while refining token‑level policy updates through a success buffer and two‑stage curriculum learning, thereby preserving high‑quality historical experience and guiding the model toward stable evolution. The method surpasses existing reinforcement‑learning baselines such as GRPO and SDPO across multiple benchmarks. This work establishes a new state‑of‑the‑art approach for self‑distillation.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 11 summary/topic terms overlap
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 54 backlinks; 5 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 9 summary/topic terms overlap
 

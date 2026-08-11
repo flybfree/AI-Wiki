@@ -1,0 +1,18 @@
+---
+title: KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models
+published: 2026-08-10T10:38:05Z
+authors: Chen Qiu, Ziwu Liu, Chao Fei, Guozhong Li, Panos Kalnis
+url: http://arxiv.org/abs/2608.09412v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# KVDiagnosis: A Diagnostic Benchmark for KV-Cache Compression in Long-Context Language Models
+
+## Abstract
+KV-cache compression reduces long-context memory, but aggregate task scores reveal neither which correct executions fail nor why. We present KVDiagnosis, a diagnostic dataset and benchmark with three contributions. First, a 25-method taxonomy groups methods into five mechanism families and links them to eight verified implementations and their valid diagnostic measurements. Second, for every supported method setting, we evaluate all sources in each fixed split against a per-source FullCache control before selecting FullCache-correct/compressed-wrong (C-to-W) rows separately for each method-setting, so no compressor defines another's test set. Third, a common record format links paired outputs and run metadata to cache, likelihood, attention, and decoding measurements with explicit applicability states. On Qwen3-8B, four evidence-aware workloads yield 59 800 supported compressed runs over 2600 sources and 12 520 C-to-W rows. Under fixed diagnostic rules, 63.2% have low or partial measured/projected coverage. Only 19 rows (0.2%) combine high measured/projected coverage with strong likelihood drift; another 2,126 (17.0%) preserve structural position addressability, for which representation fidelity remains unknown, while showing the same drift. Against C-to-C success controls, all ten diagnostics separate failed from successful compression (stratified AUROC 0.684-0.871). Among 96 reproducible low-EAR failures, a controlled 4x evidence-attention boost repairs 29.2%, versus 6.3% under a count-matched sham intervention and 3.3% degradation on matched C-to-C controls. Code and data are available at https://github.com/ChosenQC/KVDiagnosis.
+
+## Metadata
+- **Published**: 2026-08-10T10:38:05Z
+- **Authors**: Chen Qiu, Ziwu Liu, Chao Fei, Guozhong Li, Panos Kalnis
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.09412v1)

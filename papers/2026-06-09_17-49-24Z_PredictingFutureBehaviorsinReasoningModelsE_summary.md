@@ -19,7 +19,6 @@ Large reasoning models (LRMs) often generate outputs that diverge from intended 
 
 ## Semantic links
 - [[concepts/papers/2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTrivi_summary.md|Summary: 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPe_summary.md|Summary: 2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 
 ## Key Contributions  

@@ -10,7 +10,6 @@ The ACME dataset aims to fill a critical gap in social‑navigation research by 
 
 ## Semantic links
 - [[concepts/embodied-ai/embodied-ai-hub.md|Embodied AI and Robotics Hub]] — 2 title terms overlap; 40 backlinks; 4 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_11-19-21Z_Athena_BrainTechnicalReport_AnEfficientRobo_summary.md|Summary: 2026-07-21_11-19-21Z_Athena_BrainTechnicalReport_AnEfficientRobotBrainf.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.12
 
 ## Key Contributions  

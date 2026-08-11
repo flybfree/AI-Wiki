@@ -9,9 +9,7 @@ Model: None
 FinanceHarness is an autonomous financial deep‑research framework that integrates a layered harness, end‑to‑end agent execution, and a verifiable reward model to produce specialized market analyses. The authors introduce FinanceGym, a thesis‑driven benchmark that separates pre‑cutoff and post‑cutoff criteria to prevent leakage of future information. Expert validation on the rubric yields an 82 % pass rate, while leading LLMs score below 40 %, highlighting the challenge of true financial reasoning. By reusing an open‑weight LLM backbone, FinanceHarness lifts the overall rubric performance from 25.3 % to 32.4 %.  
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_15-44-04Z_Agent_GuidedRelationalConceptDiscovery_Towa_summary.md|Summary: 2026-07-23_15-44-04Z_Agent_GuidedRelationalConceptDiscovery_TowardInter.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.06
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.04
 
 ## Key Contributions  
 - **FinanceHarness** provides a complete harness that orchestrates environment/data construction, agent execution loops, and reward modeling for autonomous financial deep research.  

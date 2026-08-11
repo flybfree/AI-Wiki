@@ -20,7 +20,6 @@ WildClawBench is a benchmark designed to evaluate large‑language and vision‑
 ## Semantic links
 - [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
-- [[concepts/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_Wise_summary.md|Summary: 2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] — 2 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] The best frontier model, Claude Opus 4.7, attains only 62.2 % overall on WildClawBench under the OpenClaw harness, far below expectations for long‑horizon performance.  

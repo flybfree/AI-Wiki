@@ -11,7 +11,6 @@ Document‑level relation extraction (DocRE) must predict triples among many ent
 ## Semantic links
 - [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; 12 backlinks; 5 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 14 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] A unified logical formulation of relational constraints (transitivity, symmetry, functional uniqueness) that can be encoded in prompts or loss functions across all deployment scenarios.  

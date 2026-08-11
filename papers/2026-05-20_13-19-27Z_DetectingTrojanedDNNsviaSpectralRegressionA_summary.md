@@ -19,7 +19,6 @@ This paper addresses the critical security vulnerability inherent in the continu
 ## Semantic links
 - [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing_summary.md|Summary: 2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] — 2 title terms overlap; shared tags: ai, paper, research; 15 summary/topic terms overlap
 
 ## Key Contributions
 - **Spectral Regression Framework**: The authors propose a new paradigm for Trojan detection that utilizes pre-activation spectra to characterize normal model evolution, allowing for the identification of malicious updates through spectral deviation analysis without needing prior knowledge of the trigger or poisoned data.

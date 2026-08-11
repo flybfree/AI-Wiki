@@ -9,8 +9,6 @@ Model: None
 The paper proposes a local post‑hoc explainability framework for deep neural networks used in predictive process monitoring, addressing the trade‑off between computational cost and interpretability. It introduces a control‑flow‑aware segmentation algorithm that partitions event traces into meaningful segments to compute segment‑level SHAP attributions. This enables identification of influential trace portions and change points that drive predictions. The approach is evaluated on synthetic data with known logic and real logs from loan applications and municipal processes.
 
 ## Semantic links
-- [[concepts/papers/2026-07-16_17-54-47Z_BeyondSuccessRate_Cost_AwareEvaluationofOff_summary.md|Summary: 2026-07-16_17-54-47Z_BeyondSuccessRate_Cost_AwareEvaluationofOffensivea.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.07
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.04
 - [[concepts/papers/2026-08-04_12-29-47Z_Divide_and_Conquer_TowardsGeneralizableAmor_summary.md|Summary: 2026-08-04_12-29-47Z_Divide_and_Conquer_TowardsGeneralizableAmortizedBa.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.03
 
 ## Key Contributions  

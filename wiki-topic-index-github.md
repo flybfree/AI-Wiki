@@ -63,7 +63,6 @@ GitHub-friendly copy: use this version in the repository/browser.
 ### Recent architecture papers
 
 - [MCP Server Architecture Patterns for LLM-Integrated Applications](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integra_summary.md)
-- [Agent-Native Immune System Architecture: Taxonomy and ...](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md)
 - [Machine Learning Architecture: What It Is, Components, Types](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-10_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md)
 
 ### Azure Architecture

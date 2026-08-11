@@ -9,7 +9,6 @@ Model: None
 The paper proposes ADVERSARIAL, a method for detecting hardware Trojans in large System‑on‑Chip (SoC) designs by modeling the flattened gate‑level netlist as an And‑Inverter Graph (AIG).  Symbolic learning on this graph yields constant‑size node embeddings that preserve multi‑hop structural context.  This enables scalable training and inference that can separate anomalous circuit structures from benign ones.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 10 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_15-43-37Z_G_ReAct_Graph_GuidedDeepSearchviaStructure__summary.md|Summary: 2026-08-02_15-43-37Z_G_ReAct_Graph_GuidedDeepSearchviaStructure_StateCo.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.09
 - [[concepts/papers/2026-08-03_11-44-09Z_PretrainingonCallGraphs_WhenBinaryAnalysisT_summary.md|Summary: 2026-08-03_11-44-09Z_PretrainingonCallGraphs_WhenBinaryAnalysisTasksPro.md]] — 3 title terms overlap; 11 summary/topic terms overlap; semantic match 0.08
 

@@ -19,7 +19,6 @@ The paper addresses the fundamental limitations of Large Language Models (LLMs) 
 ## Semantic links
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 4 title terms overlap; 5 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 15 summary/topic terms overlap
 
 ## Key Contributions
 - The introduction of KoRe, a framework that translates Knowledge Graph structures into discrete tokens, enabling direct injection into LLMs without architectural changes.

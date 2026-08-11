@@ -17,8 +17,6 @@ Model: None
 Large language models (LLMs) are increasingly used for text generation tasks from everyday use to high-stakes enterprise and government applications, including simulated interviews with asylum seekers. While many works highlight the new potential applications of LLMs, there are risks of LLMs encoding and perpetuating harmful biases about non-dominant communities across the globe. To better evaluate and mitigate such harms, more research examining how LLMs portray diverse individuals is needed.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 - [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
 
 ## Key Takeaways

@@ -1,0 +1,18 @@
+---
+title: Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach
+published: 2026-08-09T10:59:37Z
+authors: Tong Bao, Yi Zhao, Heng Zhang, Chengzhi Zhang
+url: http://arxiv.org/abs/2608.08636v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Enhancing Scientific Named Entity Recognition via Large Language Models: A Type-driven Multi-task Learning Approach
+
+## Abstract
+Scientific named entity recognition (SciNER) plays a crucial role in information extraction and knowledge discovery from scientific texts. Recently, large language models (LLMs) have demonstrated the capacity to achieve competitive SciNER performance with minimal human effort. Existing research highlights the importance of incorporating candidate entity type information for accurate entity recognition and classification by LLMs. However, when too many candidate entity types are provided in the prompt, LLMs struggle to accurately recognize and label entities in scientific texts, where entity types are more complex than in general domains. To address this challenge, we propose TdSciNER, a type-driven approach that effectively leverages entity type information to enhance SciNER performance. In TdSciNER, we first design an entity type filter model to identify the most likely entity types present in a given sentence. Subsequently, we introduce an auxiliary multi-class entity typing task within a multi-task learning framework alongside SciNER to obtain richer contextual representations. Then, we develop a novel demonstration selection strategy based on sentence similarity and entity type diversity to activate the in-context learning capabilities of LLMs, thereby improving entity recognition accuracy across diverse scientific domains. Experiments on three datasets demonstrate that our method achieves performance comparable to fully supervised models. Further analysis validates that each entity type-driven component in TdSciNER contributes to the improvement of SciNER performance. This work provides valuable insights for future advancements in SciNER and broader information extraction tasks in scientific text mining.
+
+## Metadata
+- **Published**: 2026-08-09T10:59:37Z
+- **Authors**: Tong Bao, Yi Zhao, Heng Zhang, Chengzhi Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08636v1)

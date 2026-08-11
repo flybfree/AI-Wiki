@@ -1,0 +1,18 @@
+---
+title: Mawqif-v2: An Arabic Benchmark Dataset for Cross-Target Stance Detection
+published: 2026-08-10T12:36:21Z
+authors: Rasha Albalawi, Nuha Albadi, Hamzah Luqman, Maram Kurdi, Saad Ezzini, Asma Yamani, Ahmed Ashraf
+url: http://arxiv.org/abs/2608.09539v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Mawqif-v2: An Arabic Benchmark Dataset for Cross-Target Stance Detection
+
+## Abstract
+Publicly available Arabic datasets for target-specific stance detection remain limited, particularly for evaluating cross-target generalization. This paper presents the Mawqif-v2 Extension, consisting of 996 manually annotated Arabic tweets collected from three public targets: Women Driving, E-Cars, and Trimester System. Each tweet is annotated with stance, sentiment, and sarcasm labels following the original Mawqif annotation scheme. The released extension is intended as a held-out evaluation set for assessing model generalization to both semantically related and previously unseen targets, while the original Mawqif dataset is used for training and development. In addition, we establish baseline results using several Arabic and multilingual transformer models, as well as zero-shot large language models (LLMs), to facilitate reproducible evaluation. Together with the original Mawqif dataset, the Mawqif-v2 Extension provides a benchmark for evaluating cross-target generalization in Arabic stance detection.
+
+## Metadata
+- **Published**: 2026-08-10T12:36:21Z
+- **Authors**: Rasha Albalawi, Nuha Albadi, Hamzah Luqman, Maram Kurdi, Saad Ezzini, Asma Yamani, Ahmed Ashraf
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.09539v1)

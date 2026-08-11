@@ -9,7 +9,6 @@ Model: None
 The paper addresses the limitation of conventional symbolic music generators that rigidly enforce bar‑based structures, which often fragment long‑term melodic phrases perceptually. RPPNet introduces a novel two‑stage model that generates variable‑length Rhythm‑Pitch Primitives (RPP) and then decodes them into concrete notes, allowing boundaries to follow auditory perception rather than notation. By automatically grouping RPPs based on acoustic cues, auditory inertia, and similarity perception, the system produces melodies with coherent long‑term structure and high musicality. The approach bridges music theory, computational modeling, and music psychology in a single framework.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
 

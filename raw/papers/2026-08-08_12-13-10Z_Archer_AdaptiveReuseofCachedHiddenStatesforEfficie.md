@@ -1,0 +1,18 @@
+---
+title: Archer: Adaptive Reuse of Cached Hidden States for Efficient Rollback in Diffusion Language Models
+published: 2026-08-08T12:13:10Z
+authors: Xuning He, Zinan Sheng, Yongding Tao, Huanyu Liu, Ge Li, Xue Jiang, Yihong Dong
+url: http://arxiv.org/abs/2608.08086v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Archer: Adaptive Reuse of Cached Hidden States for Efficient Rollback in Diffusion Language Models
+
+## Abstract
+Diffusion language models (DLMs) iteratively refine a sequence, allowing earlier predictions to be revised as context evolves. This rollback capability distinguishes them from irreversible autoregressive generation, but makes inference costly. Every denoising update alters the global context, forcing both prompt and response states to be recomputed even though only response tokens are revisable. Key-value (KV) caching could reduce this cost, yet conventional caching assumes immutable historical states and is therefore difficult to reconcile with rollback.In this paper, we introduce Adaptive Reuse of Cached Hidden States for Efficient Rollback (Archer), a training-free KV caching method for rollback-capable DLMs. Archer asymmetrically keeps the mutable response synchronized with the current hypothesis while reusing prompt K/V within a bounded state neighborhood. Although prompt representations also change under bidirectional attention, their token identities remain fixed; bounded reuse therefore amortizes repeated prompt computation without caching mutable response states. It also delays feedback from tentative tokens, reducing premature reinforcement of transient high-confidence errors and giving rollback more opportunity to correct them. Our analysis characterizes prompt reuse as a reversibility-aligned cache boundary, bounds its state-dependent approximation error, and gives a decoder-margin condition for preserving full-refresh decisions.Existing DLM acceleration often trades quality for speed. Archer shifts this frontier, attaining the best mean performance of 33.63% together with a 2.57x mean speedup on the main suite. Across evaluated settings, it improves Pass@1 by up to 3.05 points and reaches up to 2.95x speedup. Controlled analyses connect the quality gain to delayed prompt feedback and validate state-aware refresh. Our code is available at https://github.com/Hxnng/Archer.
+
+## Metadata
+- **Published**: 2026-08-08T12:13:10Z
+- **Authors**: Xuning He, Zinan Sheng, Yongding Tao, Huanyu Liu, Ge Li, Xue Jiang, Yihong Dong
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08086v1)

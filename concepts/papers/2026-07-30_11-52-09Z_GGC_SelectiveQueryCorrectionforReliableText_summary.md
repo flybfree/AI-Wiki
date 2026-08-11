@@ -10,7 +10,6 @@ The paper introduces GGC, a selective query‑correction framework that makes LL
 
 ## Semantic links
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardw_summary.md|Summary: 2026-07-26_23-00-09Z_ADVERSARIAL_And_InverterGraph_AssistedHardwareTroj.md]] — 4 title terms overlap; 4 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  

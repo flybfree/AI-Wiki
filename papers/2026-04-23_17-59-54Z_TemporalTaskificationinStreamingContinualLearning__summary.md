@@ -17,7 +17,6 @@ Model: None
 Temporal taskification is presented as a structural source of instability in streaming continual learning evaluation. By varying how a single stream is split into tasks, the paper shows that benchmark conclusions can shift substantially even when the data, model, and training budget stay fixed.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMult_summary.md|Summary: 2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 2 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
 - [[concepts/papers/2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarc_summary.md|Summary: 2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 

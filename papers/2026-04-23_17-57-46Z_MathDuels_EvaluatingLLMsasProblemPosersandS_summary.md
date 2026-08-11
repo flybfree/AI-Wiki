@@ -18,7 +18,6 @@ This paper introduces MathDuels, a novel self-play benchmark designed to evaluat
 
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma_summary.md|Summary: 2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInflu_summary.md|Summary: 2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
 
 ## Key Contributions

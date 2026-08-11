@@ -9,8 +9,6 @@ Model: None
 Machine learning engineering (MLE) tasks demand long‑horizon decision making that involves iterative debugging and refinement, yet monolithic agents struggle with noisy, lengthy contexts and limited model capacity. The Matryoshka Agent framework addresses this by decomposing the problem into a high‑level Orchestrator and lower‑level Sub‑Agents that execute via a standardized Tool interface. This hierarchical decomposition decouples strategic exploration from costly execution, thereby reducing long‑context reasoning burden. Experiments on diverse MLE benchmarks demonstrate that the approach yields scalable performance improvements across model sizes.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 4 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
 
 ## Key Contributions  

@@ -11,7 +11,6 @@ The paper investigates why injecting full‑document context into every streamin
 ## Semantic links
 - [[concepts/audio-speech/audio-speech-hub.md|Audio and Speech Hub]] — 3 title terms overlap; 73 backlinks; 3 summary/topic terms overlap
 - [[concepts/papers/2026-08-03_09-42-34Z_ET_Prune_Evidence_AwareDynamicBudgetingforV_summary.md|Summary: 2026-08-03_09-42-34Z_ET_Prune_Evidence_AwareDynamicBudgetingforVisualTo.md]] — 3 title terms overlap; 14 summary/topic terms overlap; semantic match 0.13
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - **Finding 1:** Diagnostic experiments reveal that the benefit of extra context comes primarily from paper‑specific terminology recovery rather than a uniform semantic enhancement.  

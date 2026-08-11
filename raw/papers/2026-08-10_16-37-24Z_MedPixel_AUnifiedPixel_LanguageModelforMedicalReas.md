@@ -1,0 +1,18 @@
+---
+title: MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation
+published: 2026-08-10T16:37:24Z
+authors: Haoyu Yang, Meixing Shi, Zengjie Chen, Haoran Sun, Haitao Leng, Xiaoming Shi, Yuxiang Cai, Yankai Jiang
+url: http://arxiv.org/abs/2608.09818v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MedPixel: A Unified Pixel-Language Model for Medical Reasoning and Segmentation
+
+## Abstract
+Reliable medical image understanding requires models to connect clinical language and visual reasoning with pixel-level grounding. Yet medical vision-language models often lack precise localization, whereas medical segmenters typically rely on explicit target categories or precise spatial prompts. This divide is reinforced by a supervision mismatch: segmentation datasets provide precise masks but little language supervision, whereas medical vision-language data rarely pair language with dense spatial annotations. To address this gap, we present MedPixel, a unified medical pixel-language model built around a shared language--mask interface. To provide scalable supervision, we introduce MedPLG-440K, comprising approximately 440K pixel-language task samples constructed through a clinically motivated synthesis process without external LLM annotation. MedPixel is trained with joint multi-task supervised fine-tuning followed by Pixel-Level Preference Optimization, which uses ground-truth masks as offline verifiers to derive response preferences from mask quality. MedPixel supports a broad spectrum of tasks spanning explicit grounding, implicit reasoning, spatial interaction, grounded explanation, and medical VQA. Across this task spectrum, MedPixel achieves strong performance in both pixel-level prediction and response generation, together with effective zero-shot transfer to external grounding benchmarks and robustness to imperfect spatial prompts. Code and model checkpoints will be released at https://github.com/yhy-whu/Medpixel.
+
+## Metadata
+- **Published**: 2026-08-10T16:37:24Z
+- **Authors**: Haoyu Yang, Meixing Shi, Zengjie Chen, Haoran Sun, Haitao Leng, Xiaoming Shi, Yuxiang Cai, Yankai Jiang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.09818v1)

@@ -11,7 +11,6 @@ This paper proposes a statistical‑mechanics perspective that treats distributi
 ## Semantic links
 - [[concepts/papers/2026-08-02_22-37-34Z_Gram_Space_Structure_PreservingCodebookComp_summary.md|Summary: 2026-08-02_22-37-34Z_Gram_Space_Structure_PreservingCodebookCompression.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.08
 - [[concepts/papers/2026-07-21_17-54-34Z_1_LipschitzNeuralNetworksonHadamardManifold_summary.md|Summary: 2026-07-21_17-54-34Z_1_LipschitzNeuralNetworksonHadamardManifolds.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] The capacity reduction associated with distributional constraints is reinterpreted as the metric geometry of a product Wasserstein manifold rather than a loss of expressive power.  

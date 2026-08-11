@@ -9,8 +9,6 @@ Model: None
 The paper introduces HiSkill, a hierarchical skill‑graph framework that organizes long‑horizon interactive task trajectories into a directed graph comprising skill nodes, AtomicOp nodes, and typed edges to bridge high‑level skills with executable actions. It enables subgraph‑guided inference, retrieving a compact task‑relevant subgraph at runtime to guide the LLM agent in switching skills, selecting AtomicOps, and grounding concrete actions iteratively. The contribution lies in this novel representation that captures relations such as decomposition, temporal transition, compatibility, support, and recovery among both skill nodes and AtomicOp nodes. Experiments show HiSkill reduces token consumption while improving task success rates compared with existing trajectory‑to‑skill baselines.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-08-02_12-41-47Z_ShiJianBench_FromDialoguetoDecisionforLong__summary.md|Summary: 2026-08-02_12-41-47Z_ShiJianBench_FromDialoguetoDecisionforLong_Horizon.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.08
 - [[concepts/papers/2026-08-04_12-29-47Z_Divide_and_Conquer_TowardsGeneralizableAmor_summary.md|Summary: 2026-08-04_12-29-47Z_Divide_and_Conquer_TowardsGeneralizableAmortizedBa.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
 
 ## Key Contributions  

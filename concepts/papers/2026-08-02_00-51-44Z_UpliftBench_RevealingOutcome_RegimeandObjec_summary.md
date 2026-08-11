@@ -11,7 +11,6 @@ Uplift modeling aims to estimate the conditional average treatment effect for pe
 ## Semantic links
 - [[concepts/evaluation-benchmarks/evaluation-benchmarks-hub.md|Evaluation and Benchmarks Hub]] — 3 title terms overlap; 506 backlinks; 4 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_02-47-44Z_RethinkingPPG_basedSleepStaging_Datasets_Me_summary.md|Summary: 2026-08-02_02-47-44Z_RethinkingPPG_basedSleepStaging_Datasets_Metrics_a.md]] — 4 title terms overlap; 8 summary/topic terms overlap; semantic match 0.05
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] F1 on the standard continuous benchmark (IHDP) shows negligible rank correlation with effect accuracy across all realizations, indicating it is not a reliable proxy.  

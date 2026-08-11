@@ -9,7 +9,6 @@ Model: None
 The paper investigates why the Sketched Isotropic Gaussian Regularizer (SIGReg) that stabilizes single‑task LeWorldModel learning fails in multi‑task settings, identifying a structural mismatch between marginal Gaussian priors and the latent structure required for multiple tasks. It shows that applying SIGReg to the full latent compresses separation among task‑dependent clusters, causing representation aliasing and heightened sensitivity to visual perturbations. To remedy this, the authors propose temporally centered SIGReg applied to residuals rather than the entire latent distribution. This approach preserves SIGReg’s anti‑collapse effect while removing the problematic compression.  
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 

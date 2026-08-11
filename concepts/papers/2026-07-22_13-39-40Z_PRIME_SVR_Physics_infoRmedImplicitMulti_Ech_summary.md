@@ -9,8 +9,6 @@ Model: None
 Slice‑to‑volume reconstruction (SVR) is the standard technique for generating high‑resolution 3D fetal brain volumes from motion‑corrupted 2D MRI stacks, but it fails at non‑clinical echo times (TEs) and cannot provide quantitative T2 maps. PRIME‑SVR introduces an implicit neural representation (INR) framework that jointly reconstructs spatial signal intensity across multiple TEs while modeling slice‑specific acquisition degradations, thereby enabling high‑resolution T2 mapping even at late TEs. The method is fully self‑supervised and leverages a continuous function from coordinates to intensities, reinforced by Bloch‑equation regularization. This approach dramatically improves reconstruction quality and reduces the time needed for multi‑TE scans.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  

@@ -1,0 +1,18 @@
+---
+title: LibraSpec: Dynamic Diffusion-Based Speculative Decoding via Marginal-Gain-Driven Optimization
+published: 2026-08-09T14:15:14Z
+authors: Zexun Lin, Yuan Feng, Junlin Lv, Kevin S. Zhou, Xike Xie
+url: http://arxiv.org/abs/2608.08721v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# LibraSpec: Dynamic Diffusion-Based Speculative Decoding via Marginal-Gain-Driven Optimization
+
+## Abstract
+Speculative decoding accelerates large language model inference by drafting multiple tokens for parallel verification, with efficiency critically determined by the speculative length selected at each decoding round. Existing dynamic speculation methods select the speculation length by estimating how many tokens will be accepted, which is reasonable for autoregressive drafters that generates tokens sequentially. The recent wave of diffusion-based drafters, however, generates candidate blocks in parallel at substantially lower drafting cost, shifting the key question from how many tokens to generate to how many generated tokens are worth verifying. We therefore reformulate dynamic speculative-length selection as expected-speedup optimization and derive a marginal criterion that extends the speculative sequence only when its acceptance gain outweighs the additional verification cost. Building on this criterion, we develop \textit{LibraSpec}, a training-free and plug-and-play algorithm that iteratively determines the speculative length using drafter confidence scores. Theoretically, we prove that LibraSpec monotonically converges toward the optimal speculative length. Experiments across six target models, three diffusion-based speculative decoding methods, and math, coding, and chat benchmarks show consistent improvements under both greedy and sampling settings, achieving a further $0.5\sim1.5\times$ improvement over baselines and up to $8.49\times$ speedup over autoregressive decoding.
+
+## Metadata
+- **Published**: 2026-08-09T14:15:14Z
+- **Authors**: Zexun Lin, Yuan Feng, Junlin Lv, Kevin S. Zhou, Xike Xie
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08721v1)

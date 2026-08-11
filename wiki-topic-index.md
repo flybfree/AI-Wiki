@@ -61,7 +61,6 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ### Recent architecture papers
 
 - [[concepts/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integra_summary.md|MCP Server Architecture Patterns for LLM-Integrated Applications]] — updated July 13
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Agent-Native Immune System Architecture: Taxonomy and ...]]
 - [[entities/article/2026-07-10_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|Machine Learning Architecture: What It Is, Components, Types]]
 - Architecture cluster: Azure Architecture Center, AWS Well-Architected Framework, Springer Nature, and machine-learning systems overview pages
 

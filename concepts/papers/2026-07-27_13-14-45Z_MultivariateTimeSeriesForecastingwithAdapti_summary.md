@@ -10,7 +10,6 @@ This paper introduces MTSF-ANO, a hybrid quantum neural network model designed t
 
 ## Semantic links
 - [[concepts/papers/2026-07-28_18-29-45Z_SharedSFTLessonsAcrossAlignment_ModelOrgani_summary.md|Summary: 2026-07-28_18-29-45Z_SharedSFTLessonsAcrossAlignment_ModelOrganisms_and.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictio_summary.md|Summary: 2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.10
 
 ## Key Contributions  

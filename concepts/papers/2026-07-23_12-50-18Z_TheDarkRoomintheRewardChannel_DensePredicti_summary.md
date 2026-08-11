@@ -9,9 +9,7 @@ Model: None
 The paper investigates why dense per‑step prediction rewards cause catastrophic failure in GRPO‑trained LLM agents on long‑horizon tasks, and proposes a variance‑profile criterion to identify safe reward channels. It demonstrates that the “dark room” pathology—where agents converge to absorbing states with perfect prediction but zero task success—arises from unnormalized advantage estimates amplifying within‑group variance. The authors show that removing only GRPO’s standard normalization (i.e., using raw advantage) eliminates the collapse, restoring performance comparable to baseline RL, indicating that bounded rewards become unbounded pressure when groups are all‑fail and annealing cannot help. Their central insight is that signals whose variance decays by mastery are amplifier‑safe.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 10 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Dense per‑step prediction rewards under GRPO cause agents to converge to a degenerate absorbing state where prediction accuracy reaches 1.0 while task success remains zero, creating the “dark room” pathology.  

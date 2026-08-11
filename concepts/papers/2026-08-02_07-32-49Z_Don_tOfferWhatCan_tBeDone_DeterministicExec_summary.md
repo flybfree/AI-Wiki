@@ -9,8 +9,6 @@ Model: None
 The paper tackles the problem that a production‑grade LLM agent must select from a large library of skills while respecting both semantic relevance and the current account state; otherwise it may offer a skill that is impossible to execute. It introduces a deterministic executability gate that removes any candidate whose internal hard‑stop condition cannot be satisfied under the present account context, ensuring only executable skills reach the LLM’s decision point. This two‑stage pipeline cuts the amount of skill‑description text fed to the model by roughly 90 % while preserving downstream behavior.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 4 title terms overlap; 2 backlinks; 10 summary/topic terms overlap
-- [[concepts/papers/2026-07-16_12-06-21Z_Proof_or_Stop_Don_tTrusttheAgent_TrusttheEv_summary.md|Summary: 2026-07-16_12-06-21Z_Proof_or_Stop_Don_tTrusttheAgent_TrusttheEvidence_.md]] — 4 title terms overlap; 12 summary/topic terms overlap; semantic match 0.13
 - [[concepts/papers/2026-07-16_05-00-49Z_Gate_ZeroGrowth_AGeometricFrameworkforFunct_summary.md|Summary: 2026-07-16_05-00-49Z_Gate_ZeroGrowth_AGeometricFrameworkforFunction_Pre.md]] — 4 title terms overlap; 11 summary/topic terms overlap; semantic match 0.08
 
 ## Key Contributions  

@@ -19,7 +19,6 @@ This paper introduces a novel, unified generative AI framework designed to revol
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAll_summary.md|Summary: 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 2 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 
 ## Key Contributions
 - The development of a cohesive architectural framework that seamlessly integrates four distinct but interconnected domains: intelligent gas distribution networks, automated and accurate utility billing systems, real-time carbon footprint analytics, and quantum-inspired optimization algorithms for resource allocation.

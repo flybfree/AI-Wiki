@@ -17,7 +17,6 @@ Model: None
 Asking inquisitive questions while reading, and looking for their answers, is an important part in human discourse comprehension, curiosity, and creative ideation, and prior work has investigated this in text-only scenarios. However, in scientific or research papers, many of the critical takeaways are conveyed through both figures and the text that analyzes them. While scientific visualizations have been used to evaluate Vision-Language Models (VLMs) capabilities, current benchmarks are limited to questions that focus simply on extracting information from them.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizat_summary.md|Summary: 2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 - [[concepts/papers/2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines_summary.md|Summary: 2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 - [[concepts/papers/2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeep_summary.md|Summary: 2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeepLearnin.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 

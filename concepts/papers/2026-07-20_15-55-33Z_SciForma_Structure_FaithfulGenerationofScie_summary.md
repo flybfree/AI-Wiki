@@ -10,7 +10,6 @@ The paper introduces SciForma, a framework for generating scientific methodology
 
 ## Semantic links
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 4 title terms overlap; 10 summary/topic terms overlap; semantic match 0.05
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 2 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-08-03_12-15-33Z_HAFI_VLM_AFrequencyPerspectiveforDiagnosing_20260804_0049_summary.md|Summary: 2026-08-03_12-15-33Z_HAFI_VLM_AFrequencyPerspectiveforDiagnosingandEnha.md]] — 3 title terms overlap; 12 summary/topic terms overlap; semantic match 0.08
 
 ## Key Contributions  

@@ -9,7 +9,6 @@ Model: None
 The Virtual Process Dossier (VPD) is a Knowledge Graph‑based data catalogue designed to serve multi‑stage manufacturing workflows where downstream AI optimisation tasks must differentiate between datasets generated at each step of production. By embedding provenance information directly into the graph, VPD offers both prospective and retrospective visibility into how data evolves across stages while adhering to FAIR principles. The system’s three core contributions—an ontology that defines semantic entities, a provenance framework that couples this ontology with the production environment, and a user‑friendly interface for KG exploration—enable traceable, reusable datasets without manual bookkeeping.  
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 8 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 6 summary/topic terms overlap
 

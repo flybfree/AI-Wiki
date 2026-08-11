@@ -9,8 +9,6 @@ Model: None
 LLM agents that operate over many turns store facts in an external memory and reuse them as premises for later reasoning, which can lead to a failure mode called memory contamination when a hallucinated fact written early persists as a false premise throughout the conversation. Existing memory management techniques focus on retrieval and capacity but ignore write‑time correctness, leaving the problem of uncontrolled contamination unaddressed. We introduce ConsistencyGate, a model‑agnostic admission gate that evaluates each candidate fact for self‑consistency before committing it to memory. The gate queries the LLM multiple times to obtain soft support scores and admits only those whose average exceeds a threshold, thereby preventing contaminated facts from propagating downstream.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 8 summary/topic terms overlap
-- [[concepts/papers/2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMult_summary.md|Summary: 2026-07-23_12-40-47Z_pAI_Econ_claude_AGatedHuman_in_the_LoopMulti_Agent.md]] — 3 title terms overlap; 17 backlinks; 6 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 3 title terms overlap; 29 backlinks; 6 summary/topic terms overlap
 
 ## Key Contributions  

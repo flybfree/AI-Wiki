@@ -9,7 +9,6 @@ Model: None
 The paper tackles the challenge of building a navigation system that works across diverse robot platforms while minimizing hardware‑specific assumptions and sensor requirements. Robostral Navigate is an 8B vision‑language model that predicts waypoints directly from monocular RGB images, making it agnostic to camera intrinsics or scene scale. By operating purely in image space, the method can be deployed on wheeled, legged, or aerial robots without recalibration. The authors also introduce a prefix‑caching training recipe and a tree‑based attention mask that further accelerate learning and improve visual grounding.
 
 ## Semantic links
-- [[concepts/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxon_summary.md|Summary: 2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] — 3 title terms overlap; 121 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|Summary: 2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] — 3 title terms overlap; 11 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 7 summary/topic terms overlap
 
