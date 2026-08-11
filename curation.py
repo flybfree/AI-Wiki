@@ -3,6 +3,7 @@ from __future__ import annotations
 
 import json
 import re
+import shutil
 import sqlite3
 from collections import Counter
 from datetime import datetime, timezone
@@ -69,7 +70,7 @@ def _tokens(text: str) -> list[str]:
 
 def _candidate_paths() -> list[Path]:
     paths: set[Path] = set()
-    for directory in ("entities/paper", "concepts/papers", "papers"):
+    for directory in ("pending/papers", "entities/paper", "concepts/papers", "papers"):
         base = ROOT / directory
         if base.exists():
             paths.update(base.rglob("*_summary.md"))
@@ -211,7 +212,28 @@ def record_decision(path: str, decision: str, note: str = "") -> dict[str, Any]:
     )
     db.commit()
     db.close()
-    return {"path": item["path"], "decision": decision, "updated_at": now}
+    promoted_path = _promote_pending(path) if decision == "keep" else path
+    return {"path": promoted_path, "decision": decision, "updated_at": now}
+
+
+def _promote_pending(path: str) -> str:
+    prefix = "pending/papers/"
+    if not path.startswith(prefix):
+        return path
+    source = ROOT / path
+    destination = ROOT / "concepts/papers" / source.name
+    destination.parent.mkdir(parents=True, exist_ok=True)
+    source.replace(destination)
+
+    mirror_source = MIRROR_ROOT / path
+    mirror_destination = MIRROR_ROOT / "concepts/papers" / source.name
+    if mirror_source.is_file():
+        mirror_destination.parent.mkdir(parents=True, exist_ok=True)
+        mirror_source.replace(mirror_destination)
+    elif destination.is_file():
+        mirror_destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copy2(destination, mirror_destination)
+    return destination.relative_to(ROOT).as_posix()
 
 
 def _validate_deletion(path: str) -> tuple[Path, dict[str, Any], Path]:
