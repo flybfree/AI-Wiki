@@ -68,9 +68,12 @@ def _tokens(text: str) -> list[str]:
     return sorted(set(word for word in words if word not in stop))
 
 
-def _candidate_paths() -> list[Path]:
+def _candidate_paths(status: str = "pending") -> list[Path]:
     paths: set[Path] = set()
-    for directory in ("pending/papers", "entities/paper", "concepts/papers", "papers"):
+    directories = ("pending/papers",) if status == "pending" else (
+        "pending/papers", "entities/paper", "concepts/papers", "papers"
+    )
+    for directory in directories:
         base = ROOT / directory
         if base.exists():
             paths.update(base.rglob("*_summary.md"))
@@ -175,9 +178,11 @@ def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -
     decisions = _decisions(db)
     profile = _profile(db)
     result = []
-    for path in _candidate_paths():
+    for path in _candidate_paths(status):
         item = candidate(path)
         decision = decisions.get(item["path"])
+        if decision and decision["decision"] == "reject":
+            continue
         item["decision"] = decision["decision"] if decision else "pending"
         item["note"] = decision["note"] if decision else ""
         item["updated_at"] = decision["updated_at"] if decision else ""
