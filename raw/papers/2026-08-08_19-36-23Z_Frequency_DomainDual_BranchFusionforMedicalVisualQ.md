@@ -1,0 +1,18 @@
+---
+title: Frequency-Domain Dual-Branch Fusion for Medical Visual Question Answering
+published: 2026-08-08T19:36:23Z
+authors: Yusra Tariq, Rakesh Chandra Joshi
+url: http://arxiv.org/abs/2608.08307v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Frequency-Domain Dual-Branch Fusion for Medical Visual Question Answering
+
+## Abstract
+Medical Visual Question Answering (VQA) requires aligning subtle visual evidence, including lesion texture, boundary sharpness, and diffuse density changes, with clinical language. Existing multimodal fusion approaches operating in the spatial domain may not fully exploit complementary frequency information present in visual and textual representations. We introduce a dual-branch frequency-domain fusion module that conditions spectral filtering on the input question, enabling adaptive selection of global low-frequency structure and fine-grained high-frequency detail before reconstructing the spatial representation for answer generation. To provide a richer spectrum for filtering, we extract complementary features from early texture-sensitive and final semantic layers of a frozen BiomedCLIP encoder and align both with the question representation using a symmetric InfoNCE objective prior to staged joint training with a BioBART decoder. We pretrain the proposed model on PMC-VQA and fine-tune it on the VQA-RAD and SLAKE benchmarks, demonstrating that frequency-aware multimodal fusion improves medical VQA performance while maintaining a lightweight and efficient architecture.
+
+## Metadata
+- **Published**: 2026-08-08T19:36:23Z
+- **Authors**: Yusra Tariq, Rakesh Chandra Joshi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.08307v1)

@@ -1,0 +1,18 @@
+---
+title: Logarithmic-Free Moment and Generalization Bounds for Uniformly Stable Algorithms
+published: 2026-08-10T17:25:27Z
+authors: Thanh Nguyen-Cung, Binh T. Nguyen
+url: http://arxiv.org/abs/2608.09870v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Logarithmic-Free Moment and Generalization Bounds for Uniformly Stable Algorithms
+
+## Abstract
+Uniform stability is a classical tool for controlling the generalization error of a learning algorithm. Bousquet, Klochkov, and Zhivotovskiy (2020) showed that the problem can be reduced to a moment inequality for a sum of weakly interacting functions of independent random variables. Their bound contains an additional factor $\log n$, and they asked whether this factor can be removed. We answer this upper-bound question affirmatively. More specifically, let $Z=(Z_1,\ldots,Z_n)$ have independent coordinates and let $g_i(Z)$ satisfy $$ \mathbb E[g_i(Z)\mid Z_{-i}]=0, \qquad \left| \mathbb E[g_i(Z)\mid Z_i]\right|\le M, \qquad \forall i = \overline{1, n} $$ while changing any coordinate $Z_j$, $j\neq i$, changes $g_i$ by at most $β$ and $Z_{-i}$ denotes all coordinates except $Z_i$. We prove that, for every $p\ge2$, $$ \left\| \sum_{i=1}^n g_i(Z)\right\|_p \le 16pnβ+M\sqrt{2pn}. $$ This removes the $\log n$ factor from the previous bound and matches the lower bound of Bousquet, Klochkov, and Zhivotovskiy up to universal constants in the range covered by their construction. Our proof first establishes the required estimate on the Rademacher cube, then transfers it to arbitrary product distributions by a two-copy randomization argument.
+
+## Metadata
+- **Published**: 2026-08-10T17:25:27Z
+- **Authors**: Thanh Nguyen-Cung, Binh T. Nguyen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.09870v1)

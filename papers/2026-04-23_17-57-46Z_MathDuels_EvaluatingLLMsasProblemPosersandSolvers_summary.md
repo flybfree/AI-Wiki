@@ -40,7 +40,6 @@ Evaluations that include problem posing can reveal new distinctions between mode
 - Published: 2026-04-23T17:57:46Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-23_17-57-46Z_MathDuels_EvaluatingLLMsasProblemPosersandSolvers.md
 
-[[MathDuels: Evaluating LLMs as Problem Posers and Solvers]]
 
 ## Related Concepts
 
