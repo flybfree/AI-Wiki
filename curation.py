@@ -245,6 +245,17 @@ def _validate_deletion(path: str) -> tuple[Path, dict[str, Any], Path]:
     return target, candidate(target), MIRROR_ROOT / Path(path)
 
 
+def _raw_paths_for_summary(path: str) -> list[Path]:
+    stem = Path(path).name.removesuffix("_summary.md")
+    return [
+        ROOT / "raw/papers" / f"{stem}.md",
+        ROOT / "raw/summaries" / f"{stem}.md",
+        ROOT / "raw/summaries" / f"SUMMARY_{stem}.md",
+        MIRROR_ROOT / "papers" / f"{stem}.md",
+        MIRROR_ROOT / "raw/papers" / f"{stem}.md",
+    ]
+
+
 def bulk_delete_rejected(paths: list[str], note: str = "") -> dict[str, Any]:
     """Keep selected paths, reject and delete the remaining paths in one operation."""
     unique_paths = list(dict.fromkeys(paths))
@@ -269,7 +280,7 @@ def bulk_delete_rejected(paths: list[str], note: str = "") -> dict[str, Any]:
     markers = []
     for target, item, mirror in validated:
         markers.append((target.name, f"[[{item['title']}]]"))
-        for candidate_path in (target, mirror):
+        for candidate_path in (target, mirror, *_raw_paths_for_summary(item["path"])):
             if candidate_path.is_file():
                 candidate_path.unlink()
                 removed.append(str(candidate_path))
