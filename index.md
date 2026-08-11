@@ -6848,3 +6848,5 @@ tags: ['wiki']
 - [[2026-08-11_H3-metal_NativeMiniMax-H3inferenceforAppleSilicon.md]] : H3-metal – Native MiniMax-H3 inference for Apple Silicon
 - [[2026-08-11_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-08-11_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-11_HalfofEurope_stownsandvillageshavefewerresidentsth.md]] : Half of Europe's towns and villages have fewer residents than 60 years ago
+- [[2026-08-11_TheAItakeoverofmathematicshasbegun.md]] : The AI takeover of mathematics has begun

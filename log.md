@@ -7083,3 +7083,5 @@ tags: ['wiki']
 ## [2026-08-11 00:04] ingest | 2026-08-11_H3-metal_NativeMiniMax-H3inferenceforAppleSilicon.md
 ## [2026-08-11 00:04] ingest | 2026-08-11_Googlejustredesignedthesearchboxforthefirsttimein2.md
 ## [2026-08-11 00:04] ingest | 2026-08-11_ASafePathtoOpenWeights.md
+## [2026-08-11 01:26] ingest | 2026-08-11_HalfofEurope_stownsandvillageshavefewerresidentsth.md
+## [2026-08-11 06:02] ingest | 2026-08-11_TheAItakeoverofmathematicshasbegun.md
