@@ -214,42 +214,66 @@ def record_decision(path: str, decision: str, note: str = "") -> dict[str, Any]:
     return {"path": item["path"], "decision": decision, "updated_at": now}
 
 
-def delete_rejected(path: str, note: str = "") -> dict[str, Any]:
-    """Record rejection, delete the curated wiki page and its Logseq mirror."""
+def _validate_deletion(path: str) -> tuple[Path, dict[str, Any], Path]:
     target = (ROOT / path).resolve()
     if not target.is_file() or ROOT not in target.parents or not target.name.endswith("_summary.md"):
-        raise ValueError("unknown summary path")
+        raise ValueError(f"unknown summary path: {path}")
     if not any(parent.name in {"papers", "entities", "concepts"} for parent in target.parents):
         raise ValueError("only curated paper summaries can be deleted")
+    return target, candidate(target), MIRROR_ROOT / Path(path)
 
-    item = candidate(target)
-    decision = record_decision(path, "reject", note)
-    mirror = MIRROR_ROOT / Path(path)
+
+def bulk_delete_rejected(paths: list[str], note: str = "") -> dict[str, Any]:
+    """Keep selected paths, reject and delete the remaining paths in one operation."""
+    unique_paths = list(dict.fromkeys(paths))
+    validated = [_validate_deletion(path) for path in unique_paths]
+    now = datetime.now(timezone.utc).isoformat()
+    db = _db()
+    for path, (_, item, _) in zip(unique_paths, validated):
+        db.execute(
+            """
+            INSERT INTO decisions(path, decision, note, features, updated_at)
+            VALUES (?, 'reject', ?, ?, ?)
+            ON CONFLICT(path) DO UPDATE SET
+                decision='reject', note=excluded.note,
+                features=excluded.features, updated_at=excluded.updated_at
+            """,
+            (path, note[:1000], json.dumps(item["features"]), now),
+        )
+    db.commit()
+    db.close()
+
     removed = []
-    for candidate_path in (target, mirror):
-        if candidate_path.is_file():
-            candidate_path.unlink()
-            removed.append(str(candidate_path))
+    markers = []
+    for target, item, mirror in validated:
+        markers.append((target.name, f"[[{item['title']}]]"))
+        for candidate_path in (target, mirror):
+            if candidate_path.is_file():
+                candidate_path.unlink()
+                removed.append(str(candidate_path))
 
-    marker = target.name
-    title_marker = f"[[{item['title']}]]"
     for tree in (ROOT, MIRROR_ROOT):
         if not tree.exists():
             continue
         for markdown_file in tree.rglob("*.md"):
-            if markdown_file in {target, mirror} or ".git" in markdown_file.parts:
+            if ".git" in markdown_file.parts:
                 continue
             original = markdown_file.read_text(errors="replace")
             filtered = "\n".join(
                 line for line in original.splitlines()
-                if marker not in line and title_marker not in line
+                if not any(marker in line or title_marker in line for marker, title_marker in markers)
             )
             if original.endswith("\n") and filtered:
                 filtered += "\n"
             if filtered != original:
                 markdown_file.write_text(filtered)
 
-    return {**decision, "removed": removed}
+    return {"decision": "reject", "deleted_paths": unique_paths, "removed": removed}
+
+
+def delete_rejected(path: str, note: str = "") -> dict[str, Any]:
+    """Record rejection, delete the curated wiki page and its Logseq mirror."""
+    return bulk_delete_rejected([path], note)
 
 
 def profile() -> dict[str, Any]:
