@@ -17,8 +17,6 @@ Model: None
 This paper addresses the critical challenges in applying Reinforcement Learning (RL) to joint audio-video generation, specifically focusing on the inconsistencies and imbalances that hinder effective multi-modal optimization. The authors identify three primary obstacles in vanilla RL strategies: multi-objective advantages inconsistency, multi-modal gradients imbalance, and uniform credit assignment failures in fine-grained synchronization. To overcome these limitations, the researchers propose OmniNFT, a novel modality-aware online diffusion RL framework designed to enhance per-modality fidelity and cross-modal alignment. By introducing modality-wise advantage routing, layer-wise gradient surgery, and region-wise loss reweighting, OmniNFT achieves significant improvements in perceptual quality and synchronization accuracy.
 
 ## Semantic links
-- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLL_summary.md|Summary: 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Contributions

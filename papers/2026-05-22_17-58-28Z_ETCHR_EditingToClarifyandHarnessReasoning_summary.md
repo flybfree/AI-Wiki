@@ -18,9 +18,6 @@ Model: None
 ETCHR (Editing To Clarify and Harness Reasoning) introduces a dedicated image‑editing model that can be plugged into any multimodal large language model without retraining, thereby addressing two persistent gaps in the “think with images” paradigm. First, it maps abstract textual questions to precise visual transformations by learning from edit trajectories, and second, it maintains high edit correctness even when reasoning depth increases, thanks to a reinforcement‑learning fine‑tuning stage that uses vision‑language model rewards.
 
 ## Semantic links
-- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 17 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 2 title terms overlap; shared tags: ai, paper, research; 15 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] ETCHR employs a two‑stage recipe: (i) supervised fine‑tuning on paired edit trajectories and their reasoning chains (reasoning imitation), followed by (ii) reinforcement learning guided by VLM‑derived rewards to maximize both edit correctness and downstream reasoning accuracy.  

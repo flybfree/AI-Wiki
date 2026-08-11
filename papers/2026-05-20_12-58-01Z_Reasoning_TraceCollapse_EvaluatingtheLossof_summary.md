@@ -17,8 +17,6 @@ Model: None
 This paper investigates a critical phenomenon termed "reasoning-trace collapse," which occurs when large language models trained for explicit step-by-step reasoning lose their structural reasoning capabilities during subsequent fine-tuning on standard instruction-response data. The authors demonstrate that while these models may maintain high accuracy in producing final answers, they often fail to generate the valid, intermediate logical steps that originally defined their reasoning architecture. To address this, the study introduces a novel structural evaluation framework that decouples answer correctness from the validity of the reasoning process, allowing for a more granular assessment of model behavior. The research highlights that standard performance metrics are insufficient for detecting this degradation and proposes simple mitigation strategies to preserve reasoning integrity during adaptation.
 
 ## Semantic links
-- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapa_summary.md|Summary: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] — 2 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
 
 ## Key Contributions
 - The identification and formal definition of "reasoning-trace collapse," a specific failure mode where fine-tuning on trace-less data suppresses explicit reasoning structures without immediately impacting final answer accuracy.

@@ -22,5 +22,3 @@ Generative modeling, diffusion, image generation, text generation, and synthetic
 - [2026 07 24 Flux3](../../entities/article/2026-07-24_Flux3_summary.md)
 - [2026 07 24 Flux3xmimic Thenextgenerationofvideo Actionmodels](../../entities/article/2026-07-24_Flux3XMimic_TheNextGenerationofVideo-ActionModels_summary.md)
 - [[../../raw/papers/2026-05-11_17-51-46Z_Confidence_GuidedDiffusionAugmentationforEnhancedB.md|2026 07 11 17 55 20Z Confidence Guideddiffusionaugmentationforen]]
-- [[../papers/2026-07-24_14-31-54Z_IQ_JEPA_AJoint_EmbeddingPredictiveArchitect_summary.md|2026 07 24 14 31 54Z IQ JEPA Ajoint Embeddingpredictivearchitect]]
-- [[../papers/2026-07-24_15-48-38Z_UnboxingDiffusionModelsfortheArts_Interacti_summary.md|2026 07 24 15 48 38Z Unboxingdiffusionmodelsforthearts Interacti]]

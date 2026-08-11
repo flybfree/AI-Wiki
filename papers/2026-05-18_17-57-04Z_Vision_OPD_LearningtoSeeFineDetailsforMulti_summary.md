@@ -18,8 +18,6 @@ Multimodal Large Language Models (MLLMs) frequently exhibit a significant perfor
 
 ## Semantic links
 - [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 2 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 
 ## Key Contributions
 - **Identification of the Regional-to-Global Perception Gap**: The study empirically demonstrates that MLLM failures in fine-grained tasks are primarily due to an inability to focus on relevant evidence in full images, rather than a lack of local recognition capability. The same model answers accurately when conditioned on crops but fails on full images, highlighting a focus deficit.

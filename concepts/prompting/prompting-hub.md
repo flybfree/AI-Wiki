@@ -20,6 +20,4 @@ Prompt structure, instruction hierarchy, format control, and context design for 
 ## Representative Summaries
 
 - [[../papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCo_summary.md|2026 07 21 16 31 35Z Promptdesignatscale Howformat Instructionco]]
-- [[../papers/2026-07-23_19-18-18Z_PromptasaDataType_In_DatabaseLLMPromptManag_summary.md|2026 07 23 19 18 18Z Promptasadatatype In Databasellmpromptmanag]]
 - [[../papers/2026-07-23_19-26-25Z_EveryModelCheats_Prompt_LevelMitigationofCh_summary.md|2026 07 23 19 26 25Z Everymodelcheats Prompt Levelmitigationofch]]
-- [[../papers/2026-07-24_08-10-21Z_BenchmarkingFine_tuningandRetrievalStrategi_summary.md|2026 07 24 08 10 21Z Benchmarkingfine Tuningandretrievalstrategi]]

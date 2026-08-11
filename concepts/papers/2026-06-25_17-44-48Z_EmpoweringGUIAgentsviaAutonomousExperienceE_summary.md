@@ -11,7 +11,6 @@ Model: None
 The paper proposes a method to empower GUI agents through autonomous experience exploration and hindsight experience utilization for task planning. It introduces the PEEU (planning experience exploration and utilization) framework that autonomously explores environments, discovers raw experiences, and synthesizes strictly aligned high‑level training data from them. A hierarchical analysis framework called TDHAF is introduced to evaluate compositional generalization across three granularities: low, middle, and high task levels. Experiments on real‑world benchmarks show a 7B model achieving 30.6% accuracy, outperforming the larger Qwen2.5‑VL‑32B model.
 
 ## Semantic links
-- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 10 summary/topic terms overlap
 
 ## Key Contributions  
 - PEEU method autonomously explores environments to discover experiences and synthesizes hindsight experience for strictly aligned high‑level training data.  

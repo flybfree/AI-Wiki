@@ -18,8 +18,6 @@ Model: None
 Subject‑driven image generation seeks to create new pictures that retain the identity of a given subject while obeying textual prompts, yet current methods often treat text and reference images as independent encodings, leading to copy‑paste artifacts. The authors propose conditioning diffusion models on Multimodal Large Language Models (MLLMs) that jointly process both modalities, augmented with VAE‑based identity signals, and introduce a Dual Layer Aggregation (DLA) module for optimal feature fusion. Their multi‑stage denoising strategy progressively balances semantic content from the MLLM with fine‑grained identity information from the VAE during inference. The framework reduces copy‑paste errors and aligns generated images more closely to human preferences than prior approaches.
 
 ## Semantic links
-- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
-- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAll_summary.md|Summary: 2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
 
 ## Key Contributions  

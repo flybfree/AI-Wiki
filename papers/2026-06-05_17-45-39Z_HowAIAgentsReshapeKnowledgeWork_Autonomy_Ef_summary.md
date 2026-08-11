@@ -19,7 +19,6 @@ The paper investigates how autonomous AI agents transform knowledge work by comp
 
 ## Semantic links
 - [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_Usi_summary.md|Summary: 2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Autonomous agents execute tasks end to end, delegating task decomposition and execution, leading to 26 minutes of autonomous work per session versus 33 seconds for Search; dissatisfaction rates drop 55%.  

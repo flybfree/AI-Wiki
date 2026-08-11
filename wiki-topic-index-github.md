@@ -138,9 +138,7 @@ GitHub-friendly copy: use this version in the repository/browser.
 ### Recent paper concepts
 
 - [UniClawBench: A Universal Benchmark for Proactive Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md)
-- [Breaking Database Lock in Agentic Regeneration](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md)
 - [LLM as a Verifier: A General-Purpose Verification Framework](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-06_17-55-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md)
-- [Cortex: A Bidirectionally Aligned Embodied Agent Framework](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md)
 
 ---
 
@@ -153,8 +151,6 @@ GitHub-friendly copy: use this version in the repository/browser.
 ### Recent agent research
 
 - [UniClawBench: A Universal Benchmark for Proactive Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md)
-- [Breaking Database Lock in Agentic Regeneration](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md)
-- [Cortex: A Bidirectionally Aligned Embodied Agent Framework](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md)
 - [LLM as a Verifier: A General-Purpose Verification Framework](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-06_17-55-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md)
 
 - [Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/architecture/2026-05-09_AgentArchitectureEvolution.md)

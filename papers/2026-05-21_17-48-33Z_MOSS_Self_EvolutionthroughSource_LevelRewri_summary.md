@@ -18,7 +18,6 @@ The paper introduces MOSS, a novel framework designed to enable autonomous agent
 
 ## Semantic links
 - [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_Ti_summary.md|Summary: 2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions
 - **Source-Level Adaptation Paradigm**: The authors establish that source-level rewriting is a fundamentally superior medium for agent evolution because it is a strict superset of text-mutable scopes, deterministic, and immune to the degradation issues associated with long-context windows in large language models.

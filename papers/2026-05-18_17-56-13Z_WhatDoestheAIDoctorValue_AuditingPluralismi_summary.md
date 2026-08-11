@@ -17,8 +17,6 @@ Model: None
 This research paper addresses the critical gap in understanding the ethical frameworks embedded within large language models (LLMs) used for clinical decision-making. The authors argue that while human medicine is inherently pluralistic, relying on diverse ethical principles that often conflict, AI systems may impose a singular, deterministic ethical stance. To investigate this, the study introduces a novel framework for auditing value pluralism in medical AI, utilizing a benchmark of clinician-verified ethical dilemmas and a specific attribution method to recover value priorities from model decisions. The core finding reveals that while frontier models discuss competing values during their reasoning process, their final decisions are near-deterministic and fail to reproduce the distributional pluralism seen among human physicians.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapa_summary.md|Summary: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] — 2 title terms overlap; shared tags: ai, paper, research; 15 summary/topic terms overlap
 
 ## Key Contributions
 - The development of a comprehensive framework for auditing value pluralism in medical AI, which includes a new benchmark of clinician-verified ethical dilemmas and a novel attribution method to extract value priorities directly from model outputs.

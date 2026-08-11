@@ -18,8 +18,6 @@ The paper addresses the critical challenge of decision-making in Computer Use Ag
 
 ## Semantic links
 - [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
-- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Contributions
 - The development of an Interleaved GUI-Tool Trajectory Scaling Pipeline that effectively repurposes abundant static GUI trajectories and synthesizes a grounded tool library, thereby generating diverse and grounded GUI-Tool trajectories without the need for costly real tool-trajectory collection or manual engineering.

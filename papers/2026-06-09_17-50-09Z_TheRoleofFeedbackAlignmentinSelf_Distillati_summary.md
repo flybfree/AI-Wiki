@@ -18,7 +18,6 @@ Model: None
 The paper investigates how feedback alignment influences self‑distillation, a technique where a language model improves by conditioning on external context and then retains that improvement without it. It proposes three feedback conditions—binary reward via GRPO, reference solution, and step‑aligned critique—and shows which yields best gains. The study reveals that structural alignment between feedback and reasoning is crucial for effective self‑distillation.
 
 ## Semantic links
-- [[concepts/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGene_summary.md|Summary: 2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 13 summary/topic terms overlap
 - [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 
 ## Key Contributions  

@@ -23,4 +23,3 @@ Vision, audio, speech, image generation, smart glasses, and other cross-modal AI
 - [2026 07 27 Arebrainwavesthenextunlockforphysicalai](../../entities/article/2026-07-27_ArebrainwavesthenextunlockforphysicalAI__summary.md)
 - [2026 07 23 Here 8217 Swhatsamsung 8217 Ssmartglassesactuall](../../entities/article/2026-07-23_Here__8217_swhatSamsung__8217_ssmartglassesactuall_summary.md)
 - [2026 07 24 OpenAI Snewvoicemodemakesittothechatgptdesktopapp](../../entities/article/2026-07-24_OpenAI_snewvoicemodemakesittotheChatGPTdesktopapp_summary.md)
-- [[../papers/2026-07-24_06-22-40Z_VisualSaliencySteeringDistillationforMultim_summary.md|2026 07 24 06 22 40Z Visualsaliencysteeringdistillationformultim]]

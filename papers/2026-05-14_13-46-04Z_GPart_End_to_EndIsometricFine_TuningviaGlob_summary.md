@@ -18,8 +18,6 @@ This paper introduces GPart (Global Partition fine-tuning), a novel parameter-ef
 
 ## Semantic links
 - [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeStee_summary.md|Summary: 2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
-- [[concepts/papers/2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connec_summary.md|Summary: 2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 
 ## Key Contributions
 - **Resolution of Isometry in PEFT**: The authors identify that existing methods like Uni-LoRA fail to maintain distance preservation due to the bilinear nature of LoRA. GPart provides the first highly efficient solution that strictly maintains end-to-end isometry by bypassing low-rank matrix multiplication.

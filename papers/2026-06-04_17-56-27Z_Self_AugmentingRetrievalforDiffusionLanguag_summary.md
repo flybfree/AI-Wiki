@@ -18,9 +18,6 @@ Model: None
 Self‑Augmenting Retrieval for Diffusion Language Models (SARDI) demonstrates that the low‑confidence tokens discarded during discrete diffusion denoising can serve as useful lookahead signals for retrieval. By feeding these “active” tokens into a dynamic RAG framework, the method enables stronger evidence grounding before the final output is fixed. This approach improves generation efficiency without any additional training or custom retriever.
 
 ## Semantic links
-- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 4 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_Stage_summary.md|Summary: 2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - Finding 1: Low‑confidence tokens produced by discrete diffusion models act as useful lookahead signals for retrieval.  

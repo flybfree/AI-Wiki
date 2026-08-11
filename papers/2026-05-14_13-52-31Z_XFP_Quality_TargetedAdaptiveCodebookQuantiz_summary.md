@@ -17,9 +17,6 @@ Model: None
 XFP introduces a novel dynamic weight quantization framework for Large Language Model (LLM) inference that fundamentally inverts the traditional quantization workflow. Instead of manually selecting bit-widths or relying on calibration datasets, XFP allows operators to specify target reconstruction quality floors based on per-channel cosine similarity, automatically determining the optimal codebook size, outlier budget, and packing strategy for each layer. This approach eliminates the need for Hessian calculations or manual tuning, offering a streamlined path to high-performance inference. The system supports two distinct storage modes, V2 and V2a, which utilize different codebook sharing strategies while maintaining a unified frontend and decoding kernel.
 
 ## Semantic links
-- [[concepts/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPriv_summary.md|Summary: 2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmni_summary.md|Summary: 2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesoc_summary.md|Summary: 2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions
 - **Automatic Quality-Targeted Quantization**: XFP automates the selection of quantization parameters by inverting the workflow; users define strict and lazy cosine similarity thresholds for attention and MoE experts, and the system dynamically adjusts codebook sizes and outlier budgets without manual intervention or calibration data.

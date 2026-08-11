@@ -122,7 +122,6 @@ The research side is following the same logic. Agents are being treated as opera
 - [FLUX 3](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-24_Flux3_summary.md)
 - [Agentic coding without the cloud](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_summary.md)
 - [AREX](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgent_summary.md)
-- [Euclid-MCP](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_15-15-37Z_Euclid_MCP_AModelContextProtocolServerforDe_summary.md)
 - [IssueTrojanBench](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgents_summary.md)
 - [OpenForgeRL](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyE_summary.md)
 - [As AI grows more powerful, a US-China feud threatens safety efforts](https://www.reuters.com/legal/litigation/ai-grows-more-powerful-us-china-feud-threatens-safety-efforts-2026-07-24/)

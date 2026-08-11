@@ -127,9 +127,6 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ### Recent paper concepts
 
 - [[concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md|UniClawBench: A Universal Benchmark for Proactive Agents]]
-- [[concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md|Breaking Database Lock in Agentic Regeneration]]
-- [[concepts/papers/2026-07-06_17-59-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md|LLM as a Verifier: A General-Purpose Verification Framework]]
-- [[concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md|Cortex: A Bidirectionally Aligned Embodied Agent Framework]]
 - Agent and architecture paper clusters are now grouped above instead of repeated as long raw title dumps
 
 ---
@@ -150,9 +147,6 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 - [[entities/article/2026-08-05_PrimeAgent_AselfimprovingRLMagent_summary.md|Summary: Prime Agent: A self-improving RLM agent]] — self-improving RLM harness, persistent sessions, and A2A messaging
 - [[concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md|UniClawBench: A Universal Benchmark for Proactive Agents]]
-- [[concepts/papers/2026-07-08_17-55-00Z_BreakingDatabaseLock_in_AgenticRegeneration_summary.md|Breaking Database Lock in Agentic Regeneration]]
-- [[concepts/papers/2026-07-06_17-55-05Z_Cortex_ABidirectionallyAlignedEmbodiedAgent_summary.md|Cortex: A Bidirectionally Aligned Embodied Agent Framework]]
-- [[concepts/papers/2026-07-06_17-59-35Z_LLM_as_a_Verifier_AGeneral_PurposeVerificat_summary.md|LLM as a Verifier: A General-Purpose Verification Framework]]
 - [[concepts/architecture/2026-05-09_AgentArchitectureEvolution.md|Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)]]
 - [[concepts/frameworks/2026-05-09_AutonomousAgentFrameworks.md|Autonomous Agent Frameworks]]
 - [[concepts/principles/2026-06-08_BuildingEffectiveAgents_Anthropic.md|Building Effective Agents (Anthropic)]]

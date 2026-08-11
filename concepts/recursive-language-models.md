@@ -135,4 +135,3 @@ RLM addresses this by changing the architecture rather than just scaling paramet
 - [[self-improving-ai-loops/2026-06-10_Lesson4_AgentFrameworks.md]] - RLM uses multi-agent coordination patterns
 - [[papers/2026-07-30_22-43-33Z_Open_SourceLLM_DrivenFormalVerification_AMu_summary.md]] - Quarry demonstrates recursive decomposition for proof automation
 - [[health-ai/health-ai-hub.md]] - MedRLM applies RLM to clinical decision support
-- [[papers/2026-07-20_16-36-00Z_O_VAD_IndustrialVideoAnomalyDetectionthroug_summary.md]] - LATERN uses recursive evidence aggregation for temporal reasoning

@@ -18,8 +18,6 @@ Model: None
 The paper investigates whether safety and accuracy improve together when scaling clinical large language models, finding they follow different scaling laws. It introduces SaFE‑Scale, a framework for measuring how clinical LLM safety changes across model size, evidence quality, retrieval strategy, context exposure, and inference‑time compute. The study uses a radiology benchmark with clinician‑defined evidence to evaluate 34 locally deployed LLMs under six deployment conditions. Results show that improving safety is possible without scaling model capacity.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 
 ## Key Contributions  
 - Finding 1: Safety and accuracy follow distinct scaling laws; higher model capacity does not guarantee reduced high‑risk errors.  

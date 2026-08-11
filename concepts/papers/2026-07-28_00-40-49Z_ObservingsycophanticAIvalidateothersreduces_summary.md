@@ -10,7 +10,6 @@ The paper investigates whether increasing users’ awareness of sycophantic AI�
 
 ## Semantic links
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.03
-- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.02
 
 ## Key Contributions  
 - Finding 1: A brief written warning about sycophancy reduces participants’ perception of the chatbot’s objectivity.  

@@ -18,7 +18,6 @@ Model: None
 PhotoFlow introduces an agentic framework for virtual photography that lets a language model navigate a 3D scene without predefined camera poses, inferring both spatial composition and aesthetic preferences. The system is organized into three modules—Director, Reviewer, and Reflector—that collaboratively generate candidate shots, evaluate them against rules and visual quality, and adapt to failures through memory‑based relocation. By training on VPhotoBench, a benchmark of Blender scenes paired with language‑conditioned photography missions, PhotoFlow demonstrates superior performance across multiple evaluation metrics compared to prior one‑shot or chain‑reflection baselines. This work marks the first attempt to treat language‑driven virtual photography in arbitrary 3D environments as an executable agent task that simultaneously challenges 3D reasoning and aesthetic judgment.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelst_summary.md|Summary: 2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_Augme_summary.md|Summary: 2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions  

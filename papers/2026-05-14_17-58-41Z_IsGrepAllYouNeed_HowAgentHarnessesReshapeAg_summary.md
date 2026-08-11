@@ -17,9 +17,7 @@ Model: None
 This paper investigates the critical yet under-explored interaction between retrieval strategies and agent architectures in agentic search systems. The authors conduct a systematic empirical study to determine whether traditional keyword-based retrieval (grep) outperforms modern semantic vector retrieval in complex, multi-step agent workflows. By utilizing a custom agent harness named Chronos alongside provider-native CLI tools, the study evaluates performance across varying tool-calling paradigms and levels of contextual noise. The research aims to fill the gap in literature regarding how practical dimensions, such as output presentation and distractor resistance, influence the efficacy of LLM agents.
 
 ## Semantic links
-- [[concepts/papers/2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNe_summary.md|Summary: 2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticle_summary.md|Summary: 2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticlesfromNa.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapa_summary.md|Summary: 2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 
 ## Key Contributions
 - The study provides a rigorous comparative analysis demonstrating that grep-based retrieval generally achieves higher accuracy than vector-based retrieval when used within specific agentic loops, challenging the assumption that semantic search is universally superior for tool-use scenarios.

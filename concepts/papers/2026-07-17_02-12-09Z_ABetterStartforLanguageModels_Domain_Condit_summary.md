@@ -11,7 +11,6 @@ The paper investigates the “cold‑start” weakness of autoregressive languag
 ## Semantic links
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 3 title terms overlap; 5 backlinks; 5 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 9 summary/topic terms overlap
-- [[concepts/papers/2026-07-25_13-21-56Z_Domain_Prior_RegularizedGraphModelingforAno_summary.md|Summary: 2026-07-25_13-21-56Z_Domain_Prior_RegularizedGraphModelingforAnomalyDet.md]] — 4 title terms overlap; 9 summary/topic terms overlap; semantic match 0.05
 
 ## Key Contributions  
 - [Finding 1] A domain‑conditional position offset mitigates the cold‑start penalty by injecting a learned vector into early embeddings without altering model weights.  

@@ -9,7 +9,6 @@ Model: None
 The paper investigates whether long‑horizon post‑training on office‑work tasks can enhance a large language model’s performance on software‑engineering benchmarks, proposing that the improvement stems from strengthened goal‑directed execution (GDE) behaviors. By applying Qwen3.5-122B-A10B to 363 Long‑Horizon Multi‑Tool Agent (LHMTA) tasks drawn exclusively from office workflows—none of which are software‑engineering problems—the authors observe a 5.8‑point increase in SWE‑Bench Pro pass@1, indicating cross‑domain transfer beyond mere factual recall. The study also provides a behavioral account, showing that the model’s four GDE behaviors (goal selection, state construction, fidelity maintenance, and verification) improve uniformly across both office and code domains.
 
 ## Semantic links
-- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 3 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  

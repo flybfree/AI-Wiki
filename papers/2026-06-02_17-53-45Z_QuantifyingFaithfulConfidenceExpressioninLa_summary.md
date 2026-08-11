@@ -18,9 +18,6 @@ Model: None
 The paper tackles the persistent problem of faithful confidence expression in large reasoning models (LRMs), where the model’s internal uncertainty does not align with the confidence it communicates. By analyzing how LRMs’ extended chain‑of‑thought traces encode token probabilities, hidden states, and response consistency, the authors introduce a new framework that measures linguistic decisiveness relative to these three sources of uncertainty. Their work shows that current evaluation paradigms are ill‑suited for such complex, unstructured outputs, and that prompting non‑reasoning models does not improve confidence faithfulness in the reasoning setting.
 
 ## Semantic links
-- [[concepts/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentr_summary.md|Summary: 2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
-- [[concepts/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanning_summary.md|Summary: 2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictio_summary.md|Summary: 2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 
 ## Key Contributions  
 - **Framework for Faithful Confidence Quantification** – A systematic method to evaluate whether LRMs’ expressed confidence truly reflects their internal uncertainty.  

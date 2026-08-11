@@ -18,8 +18,6 @@ This paper addresses a critical limitation in Reinforcement Learning with Verifi
 
 ## Semantic links
 - [[concepts/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_Conditio_summary.md|Summary: 2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal__summary.md|Summary: 2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
-- [[concepts/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergap_summary.md|Summary: 2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] — 2 title terms overlap; shared tags: ai, paper, research; 16 summary/topic terms overlap
 
 ## Key Contributions
 - **Identification of Static Reward Flaws**: The authors demonstrate that standard rubric RL methods suffer from a fundamental disconnect where criteria with high human-assigned importance may provide little gradient signal if they are already satisfied or impossible to satisfy, while distinguishing criteria with lower static weights are ignored.

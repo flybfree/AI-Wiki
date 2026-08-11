@@ -17,7 +17,6 @@ Model: None
 This paper introduces ESI-Bench, a novel benchmark designed to evaluate embodied spatial intelligence by closing the critical perception-action loop. Unlike previous frameworks that rely on passive observation or oracle knowledge, ESI-Bench requires agents to actively manipulate their environment to uncover occluded structures and functional dynamics. The authors ground this benchmark in Spelke’s core knowledge systems, spanning ten major task categories to test an agent's ability to sequence perception, locomotion, and manipulation actions. The study highlights a significant gap between human and machine spatial reasoning, particularly regarding metacognitive flexibility and the quality of evidence accumulation.
 
 ## Semantic links
-- [[concepts/papers/2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinP_summary.md|Summary: 2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLL_summary.md|Summary: 2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 

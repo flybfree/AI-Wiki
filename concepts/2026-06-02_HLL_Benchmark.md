@@ -41,4 +41,3 @@ CAPTCHAs represent a deliberate human-verification barrier. HLL tests whether ag
 - [[ai-agents/ai-agents-landing-page.md]]
 - [[self-improving-ai-loops/2026-06-10_Lesson6_Evaluation.md]]
 - [[multimodal-ai/multimodal-ai-hub.md]]
-- [[papers/2026-07-28_12-12-39Z_AHuman_in_the_LoopCorpusforLLM_BasedSimplif_summary.md]]

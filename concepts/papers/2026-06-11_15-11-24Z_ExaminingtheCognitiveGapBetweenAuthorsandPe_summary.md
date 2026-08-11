@@ -18,9 +18,7 @@ Model: None
 This paper aims to investigate the cognitive gap between authors and peer reviewers regarding novelty assessment in academic papers. It seeks to quantify how promotional language influences reviewer evaluations relative to the intrinsic novelty of a manuscript. By analyzing a large corpus of Nature Communications articles, it identifies systematic differences in evaluation criteria. The study contributes empirical evidence on the interaction between self‑promotion intensity and reviewer judgment.  
 
 ## Semantic links
-- [[concepts/papers/2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTrivi_summary.md|Summary: 2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
-- [[concepts/papers/2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionM_summary.md|Summary: 2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md]] — 2 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - Reviewers adopt a more comprehensive evaluation perspective than authors, emphasizing result‑oriented innovation.  

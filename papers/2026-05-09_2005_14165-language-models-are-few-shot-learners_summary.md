@@ -18,7 +18,6 @@ Model: None
 The paper “Language Models Are Few‑Shot Learners” (GPT‑3) argues that simply enlarging a language model—both in parameter count and the amount of text it is trained on—creates a system capable of performing many downstream tasks with only a handful of examples given at inference time. By training a 175 billion‑parameter decoder‑only transformer on 45 TB of raw text, GPT‑3 demonstrates that prompting with task‑specific examples can replace traditional fine‑tuning, achieving performance comparable to or better than state‑of‑the‑art models trained for each specific task. The contribution is a paradigm shift from task‑specific training to a single universal model that adapts at inference time through the prompt.
 
 ## Semantic links
-- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 1 backlink; 13 summary/topic terms overlap
 
 ## Key Contributions  

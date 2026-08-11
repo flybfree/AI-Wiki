@@ -25,6 +25,3 @@ Retrieval systems, search agents, memory systems, ranking, indexing, and context
 ## Representative Summaries
 
 - [2026 05 05 17 55 25Z Openseeker V2 Pushingthelimitsofsearchagent](../../raw/papers/2026-05-05_17-55-25Z_OpenSeeker_v2_PushingtheLimitsofSearchAgentswithIn.md)
-- [[../papers/2026-07-23_22-49-51Z_SearchingtheSpaceofFeed_ForwardNeural_Netwo_summary.md|2026 07 23 22 49 51Z Searchingthespaceoffeed Forwardneural Netwo]]
-- [[../papers/2026-07-23_19-55-19Z_MosaicJoin_CompactSemanticSketchesforValue__summary.md|2026 07 23 19 55 19Z Mosaicjoin Compactsemanticsketchesforvalue]]
-- [[../papers/2026-07-21_19-12-48Z_SynPre_FL_Syntheticdata_drivenpretrainingin_summary.md|2026 07 21 19 12 48Z Synpre FL Syntheticdata Drivenpretrainingintegrate]]

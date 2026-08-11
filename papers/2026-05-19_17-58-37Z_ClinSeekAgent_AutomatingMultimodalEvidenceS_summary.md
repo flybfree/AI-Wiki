@@ -17,8 +17,6 @@ Model: None
 ClinSeekAgent addresses a critical gap in clinical decision support systems by shifting the paradigm from passive evidence consumption to active, automated evidence acquisition. Unlike existing agentic frameworks that assume curated data is already available, this framework enables Large Language Models to dynamically seek, plan, and synthesize multimodal evidence from heterogeneous sources such as raw Electronic Health Records (EHRs), medical knowledge bases, and imaging tools. The authors introduce ClinSeek-Bench to evaluate this capability, demonstrating significant performance gains across various frontier models. Furthermore, the paper validates ClinSeekAgent as a robust training pipeline for distilling complex agentic trajectories into compact open-source models.
 
 ## Semantic links
-- [[concepts/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompile_summary.md|Summary: 2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
-- [[concepts/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionfo_summary.md|Summary: 2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
 
 ## Key Contributions

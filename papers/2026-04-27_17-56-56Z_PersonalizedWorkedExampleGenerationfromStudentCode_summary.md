@@ -17,7 +17,6 @@ Presents a KC-guided system that extracts recurring pattern-based knowledge comp
 
 ## Semantic links
 - [[concepts/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_Understandingthe_summary.md|Summary: 2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLon_summary.md|Summary: 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] — 1 title term overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 
 ## Key Takeaways
 - Derives knowledge components directly from student submissions.

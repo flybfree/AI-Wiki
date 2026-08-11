@@ -19,8 +19,6 @@ The paper investigates how calibration of individual experts within mixture‑of
 
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 5 backlinks
-- [[concepts/papers/2026-06-14_13-39-00Z_SACE_ConceptErasureattheSemanticSingularity_summary.md|Summary: 2026-06-14_13-39-00Z_SACE_ConceptErasureattheSemanticSingularityinVisua.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Expert calibration guarantees calibrated predictions for hard‑routed MoE models under a broad class of distribution shifts.  

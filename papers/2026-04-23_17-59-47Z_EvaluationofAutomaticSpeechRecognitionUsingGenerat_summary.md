@@ -17,8 +17,6 @@ Model: None
 The paper evaluates decoder-based generative language models as tools for automatic speech recognition assessment. It studies hypothesis selection, semantic distance, and error classification, finding that LLM judgments align well with humans and offer a more meaning-aware alternative to WER.
 
 ## Semantic links
-- [[concepts/papers/2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetwork_summary.md|Summary: 2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
-- [[concepts/papers/2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLon_summary.md|Summary: 2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] — 2 title terms overlap; shared tags: ai, paper, research; 12 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
 
 ## Key Takeaways

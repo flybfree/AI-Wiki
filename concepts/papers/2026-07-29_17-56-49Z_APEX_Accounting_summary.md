@@ -11,7 +11,6 @@ APEX-Accounting is a novel benchmark designed to evaluate whether frontier AI mo
 ## Semantic links
 - [[concepts/papers/2026-07-23_21-59-56Z_QwenAgentWorld_LanguageWorldModelsforGeneralAgents_summary.md|Summary: Qwen-AgentWorld: Language World Models for General Agents]] — 4 title terms overlap; 29 backlinks; 7 summary/topic terms overlap
 - [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 7 summary/topic terms overlap
-- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 8 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] APEX-Accounting achieves the highest mean score among nine evaluated models at 56.4% Mean Criteria@3, with Claude-Fable-5 (Max) leading and Muse-Spark-1.1 (xHigh) following at 52.6%, demonstrating that current frontier models can perform significant portions of accounting tasks.  

@@ -18,7 +18,6 @@ Model: None
 The paper proposes Supervised Memory Training (SMT) as a method for pretraining recurrent neural networks without using recurrence. It sidesteps the sequential credit‑propagation problem of standard backpropagation through time by treating training as a supervised prediction of one‑step state transitions. This decoupling enables fully parallel RNN training and guarantees a constant‑length gradient path between any two tokens, regardless of sequence length. Experiments show that SMT‑pretrained RNNs outperform BPTT‑pretrained ones on language modeling and pixel sequence tasks.
 
 ## Semantic links
-- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Introduces Supervised Memory Training (SMT), a technique that eliminates recurrent credit propagation during pretraining.  

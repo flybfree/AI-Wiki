@@ -17,9 +17,7 @@ Model: None
 The paper introduces FutureSim, a novel benchmark designed to evaluate the adaptive capabilities of AI agents in dynamic, open-ended environments. Unlike traditional static benchmarks, FutureSim utilizes grounded simulations that replay real-world events chronologically, allowing agents to forecast outcomes beyond their initial knowledge cutoff. The authors assess frontier AI models over a three-month period from January to March 2026, testing their ability to integrate incoming news and resolve questions in real-time. This approach provides a realistic framework for measuring long-horizon adaptation, revealing significant gaps in current agent performance compared to baseline strategies.
 
 ## Semantic links
-- [[concepts/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_Objec_summary.md|Summary: 2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrche_summary.md|Summary: 2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-14_13-27-28Z_BrownianKernelLadders_summary.md|Summary: 2026-06-14_13-27-28Z_BrownianKernelLadders.md]] — 3 title terms overlap; shared tags: ai, paper, research; 4 summary/topic terms overlap
 
 ## Key Contributions
 - FutureSim establishes a new standard for evaluating adaptive agents by simulating the continuous arrival of information, demonstrating that current frontier agents struggle significantly with long-horizon forecasting.

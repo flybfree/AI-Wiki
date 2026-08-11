@@ -9,8 +9,6 @@ Model: None
 The paper argues that AI legitimacy — the belief subjects have a rightful authority to be governed by AI systems — is an autonomous regulatory objective distinct from technical alignment and cannot be achieved merely through safety improvements. It identifies three failure points of AI legitimacy: opacity, private power, and administrative automation. The authors propose thin legality (publicity, stability) as a first step toward recognition, while thick legality supplies the missing public authorship of rules. They also outline three portable principles — integration, familiarity, and contestation — that can restore trust.
 
 ## Semantic links
-- [[concepts/papers/2026-07-23_04-49-38Z_Three_ProngedSpectralControlforFederatedPar_summary.md|Summary: 2026-07-23_04-49-38Z_Three_ProngedSpectralControlforFederatedParameterE.md]] — 4 title terms overlap; 7 summary/topic terms overlap; semantic match 0.08
-- [[concepts/papers/2026-07-21_17-51-38Z_ROMS_IMLE_AMinimalistApproachtoCompetitiveS_summary.md|Summary: 2026-07-21_17-51-38Z_ROMS_IMLE_AMinimalistApproachtoCompetitiveSingle_S.md]] — 3 title terms overlap; 1 backlink; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - Finding 1: Legitimacy is a sociological belief separate from alignment.  

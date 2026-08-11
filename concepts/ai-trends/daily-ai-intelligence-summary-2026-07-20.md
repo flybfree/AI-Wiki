@@ -25,8 +25,6 @@ The practical point is that “how you ask” is still part of the model’s beh
 
 - [**SWE-Pruner Pro**](concepts/papers/2026-07-20_17-47-44Z_SWE_PrunerPro_TheCoderLLMAlreadyKnowsWhatto_summary.md) prunes tool output directly inside the coder model, reducing context bloat without a separate classifier.
 - [**It's Not What You Say, It's How You Say It**](concepts/papers/2026-07-20_17-58-31Z_It_sNotWhatYouSay_It_sHowYouSayIt_Evaluatin_summary.md) shows that expressions of belief can steer LLMs differently depending on form, evidentiality, stance, and tone.
-- [**Logical Judgments Under Pressure**](concepts/papers/2026-07-20_17-58-05Z_LogicalJudgmentsUnderPressure_DiagnosingSyl_summary.md) shows soft prefixes can override otherwise correct syllogistic answers.
-- [**Automated Discovery Has No Universally Superior Harness**](concepts/papers/2026-07-20_17-59-37Z_AutomatedDiscoveryHasNoUniversallySuperiorH_summary.md) argues there is no single best harness for codebase discovery and refactoring.
 
 The pattern is straightforward: prompting and harness design are not just UX details. They are part of the model’s effective behavior surface.
 
@@ -40,10 +38,6 @@ The pattern is straightforward: prompting and harness design are not just UX det
 Another cluster focused on getting more out of vision and embodied systems without paying the full compute cost of giant backbones.
 The throughline is selective compute: preserve the representation power that matters, but strip away the redundant machinery. That shows up in pathology, embodied control, tampering robustness, and perceptual metrics that depend on the task at hand.
 
-- [**GigaPath-Flash / GigaTIME-Flash**](concepts/papers/2026-07-20_17-52-33Z_GigaPath_FlashandGigaTIME_Flash_EfficientPa_summary.md) shrink pathology foundation models dramatically while retaining most performance.
-- [**Patch Policy**](concepts/papers/2026-07-20_17-59-41Z_PatchPolicy_EfficientEmbodiedControlviaDens_summary.md) feeds dense ViT patch tokens into embodied control without a full VLM stack.
-- [**Simple Domain Generalization for Strong Pixel-Level Image Tampering**](concepts/papers/2026-07-20_17-58-13Z_SimpleDomainGeneralizationforStrongPixel_Le_summary.md) improves robustness across VLM-generated manipulation distributions.
-- [**The Many Senses of Visual Similarity**](concepts/papers/2026-07-20_17-59-51Z_TheManySensesofVisualSimilarity_AText_Promp_summary.md) introduces a text-prompted perceptual metric that lets similarity depend on the aspect you care about.
 
 These are all versions of the same move: keep the useful representation power, drop the unnecessary baggage, and make multimodal systems more selective about what they attend to.
 
@@ -58,7 +52,6 @@ A smaller but coherent cluster treated retrieval and nearest-neighbor search as 
 The interesting move here is to treat retrieval as part of the modeling problem itself. Once the data are irregular or the policy space is large, the search layer needs to understand causality and temporal structure instead of just returning the nearest text chunk.
 
 - [**Vector Search as Nearest Neighbor Matching**](concepts/papers/2026-07-20_17-57-20Z_VectorSearchAsNearestNeighborMatching_RAG_b_summary.md) frames RAG as action selection for causal policy learning.
-- [**Causal Discovery on Irregular Time Series**](concepts/papers/2026-07-20_17-57-45Z_CausalDiscoveryonIrregularTimeSeries_summary.md) extends PCMCI+ to windowed, non-uniform data.
 
 Both papers are about structure: if the data are irregular or the policy space is large, naive fixed-lag or fixed-token assumptions break down. The interesting move is to make the search/matching layer aware of the underlying causal or temporal geometry.
 

@@ -20,4 +20,3 @@ Speech recognition, speech synthesis, audio modeling, music systems, and sound-c
 ## Representative Summaries
 
 - [[../papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|2026 06 18 17 47 32Z Howdoinstructionsshapespeech Cross Attentio]]
-- [[../papers/2026-07-09_17-55-33Z_MulTTiPop_AMultitrackTranscriptionDatasetfo_summary.md|2026 07 09 17 55 33Z Multtipop Amultitracktranscriptiondatasetfo]]

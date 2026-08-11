@@ -18,9 +18,7 @@ Model: None
 The paper tackles the problem of decoding imagined speech from non‑invasive brain recordings when only listening data are available. By pairing imagined and listened MEG signals collected from trained musicians, the authors create a reliable temporal alignment between the two conditions. A three‑stage pipeline is introduced that first maps imagined neural responses to corresponding listening responses, then decodes those listening responses using contrastive word embeddings, and finally predicts the imagined words for held‑out subjects. The results demonstrate that imagined speech can be recovered above chance, with performance improving as more training data are used.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenc_summary.md|Summary: 2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 2 title terms overlap; shared tags: ai, paper, research; 1 backlink
-- [[concepts/papers/2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommo_summary.md|Summary: 2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] — 2 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Paired listened and imagined MEG recordings from musicians provide a robust temporal alignment across conditions.  

@@ -19,8 +19,6 @@ The paper introduces an automated contrastive evaluation pipeline that audits ho
 
 ## Semantic links
 - [[concepts/papers/2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines_summary.md|Summary: 2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
-- [[concepts/papers/2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeep_summary.md|Summary: 2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeepLearnin.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
 
 ## Key Contributions  
 - The pipeline automatically finds and validates unexpected side‑effects of interventions on LLMs.  

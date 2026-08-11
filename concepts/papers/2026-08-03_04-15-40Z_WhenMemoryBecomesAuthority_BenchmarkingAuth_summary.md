@@ -9,8 +9,6 @@ Model: None
 The paper investigates a phenomenon called “authority collapse” that occurs when an LLM agent consolidates its memory across tasks, preserving the factual claim but erasing the source constraints under which it may be used. By doing so, the stored memory can later be treated as a higher‑trust authority than its original provenance allows, potentially leading to unsafe or unauthorized actions. The authors address this issue by introducing AuthMem‑Bench, a controlled benchmark that isolates how different consolidators and LLM backbones handle source authority.
 
 ## Semantic links
-- [[concepts/papers/2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation_summary.md|Summary: 2026-07-16_16-44-40Z_CanWeTrustItemResponseTheoryforAIEvaluation.md]] — 3 title terms overlap; 1 backlink; 12 summary/topic terms overlap
-- [[concepts/papers/2026-07-29_19-43-40Z_GoodRankers_BadObjectives_BilinearContrasti_summary.md|Summary: 2026-07-29_19-43-40Z_GoodRankers_BadObjectives_BilinearContrastiveCriti.md]] — 3 title terms overlap; 13 summary/topic terms overlap; semantic match 0.12
 
 ## Key Contributions  
 - **Finding 1:** Authority collapse is observed in 48 out of 49 evaluated configurations where memory consolidation occurs without explicit preservation of source metadata.  

@@ -10,8 +10,6 @@ The paper introduces GLM‑RAG, a graph language model (GLM) based retriever des
 
 ## Semantic links
 - [[concepts/search-retrieval/search-retrieval-hub.md|Search and Retrieval Hub]] — 3 title terms overlap; 332 backlinks; 3 summary/topic terms overlap
-- [[concepts/papers/2026-07-20_19-58-32Z_Search_on_Graph_R1_TrainingLargeLanguageMod_summary.md|Summary: 2026-07-20_19-58-32Z_Search_on_Graph_R1_TrainingLargeLanguageModelstoSe.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.12
-- [[concepts/papers/2026-07-28_12-31-34Z_KQFuzz_Knowledge_GuidedFuzzingforQuantumLib_summary.md|Summary: 2026-07-28_12-31-34Z_KQFuzz_Knowledge_GuidedFuzzingforQuantumLibrariesv.md]] — 4 title terms overlap; 13 summary/topic terms overlap; semantic match 0.08
 
 ## Key Contributions  
 - Finetuned GLM retrievers generalize better out‑of‑domain, achieving SOTA on two multi‑hop benchmarks.  

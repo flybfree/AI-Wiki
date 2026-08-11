@@ -18,7 +18,6 @@ Model: None
 The paper argues that the next bottleneck in advancing agentic AI lies not in improving foundation models alone but in scaling the structured execution “harness” that integrates memory, retrieval, tool use, and governance into a persistent, auditable system. It proposes a research agenda to evaluate this harness through three core bottlenecks—context governance, trustworthy memory, and dynamic skill routing—and introduces a reference harness called CheetahClaws for systematic comparison with existing systems like Claude Code and OpenClaw. The authors claim that future progress will depend equally on stronger models and well‑designed system architectures.
 
 ## Semantic links
-- [[concepts/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecutio_summary.md|Summary: 2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] — 4 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAge_summary.md|Summary: 2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] — 3 title terms overlap; shared tags: ai, paper, research; 17 summary/topic terms overlap
 - [[concepts/papers/2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_A_summary.md|Summary: 2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_Augmente.md]] — 3 title terms overlap; shared tags: ai, paper, research; 14 summary/topic terms overlap
 

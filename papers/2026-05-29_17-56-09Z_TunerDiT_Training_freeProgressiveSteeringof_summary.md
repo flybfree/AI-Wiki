@@ -18,7 +18,6 @@ Model: None
 The paper tackles the challenge of generating long‑horizon videos that contain multiple sequential events while preserving strong text alignment. By probing video diffusion transformers (DiTs), it discovers intrinsic turning points where conditioning text influences generation from coarse layout to fine‑grained details, and builds a training‑free progressive steering method called TunerDiT. The method uses two steering handles—Event‑Partitioned Masking and Cross‑Event Prompt Fusion—to guide the diffusion process without any additional training. On a curated multi‑event dataset (Meve), TunerDiT reaches state‑of‑the‑art performance across eight metrics, offering a tunable trade‑off between video consistency and event separation that scales with the number of events.
 
 ## Semantic links
-- [[concepts/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvi_summary.md|Summary: 2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 8 summary/topic terms overlap
 - [[concepts/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficient_summary.md|Summary: 2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] — 3 title terms overlap; shared tags: ai, paper, research; 5 summary/topic terms overlap
 
 ## Key Contributions  

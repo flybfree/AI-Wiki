@@ -18,9 +18,6 @@ Model: None
 Visual geometry transformers excel at multi‑view 3D reconstruction but suffer from quadratic computational cost due to full‑attention mechanisms. This paper proposes a simple yet effective strategy for selecting a sparse subset of key/value tokens, thereby reducing the attention budget without sacrificing quality. The approach is organized into two stages—inter‑frame and intra‑frame token hunting—to achieve both speed gains and preserved reconstruction fidelity.
 
 ## Semantic links
-- [[concepts/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert_summary.md|Summary: 2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] — 3 title terms overlap; shared tags: ai, paper, research; 7 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Re_summary.md|Summary: 2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] — 3 title terms overlap; shared tags: ai, paper, research; 9 summary/topic terms overlap
-- [[concepts/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning_summary.md|Summary: 2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] — 3 title terms overlap; shared tags: ai, paper, research; 6 summary/topic terms overlap
 
 ## Key Contributions  
 - Finding 1: A diversity‑based inter‑frame selection step guarantees that a representative set of frames covering the entire scene is retained, preventing loss of global context.  

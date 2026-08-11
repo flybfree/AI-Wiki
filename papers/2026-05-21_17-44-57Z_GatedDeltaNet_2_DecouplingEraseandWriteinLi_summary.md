@@ -18,7 +18,6 @@ Gated DeltaNet-2 addresses a critical architectural limitation in linear attenti
 
 ## Semantic links
 - [[concepts/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe_summary.md|Summary: 2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] — 3 title terms overlap; shared tags: ai, paper, research; 11 summary/topic terms overlap
-- [[concepts/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenR_summary.md|Summary: 2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions
 - **Decoupling of Erase and Write Mechanisms**: The primary contribution is the introduction of Gated Delta Rule-2, which separates the control of erasing old content from writing new content. By utilizing distinct channel-wise erase gates ($b_t$) and write gates ($w_t$), the model overcomes the limitation of previous methods that used a single scalar gate to manage both processes simultaneously, thereby preventing the interference between forgetting and committing information.

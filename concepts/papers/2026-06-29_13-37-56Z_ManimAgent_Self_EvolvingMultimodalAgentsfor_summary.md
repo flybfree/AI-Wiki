@@ -11,7 +11,6 @@ Model: None
 The paper identifies a limitation of current multi‑round reflective agents: although they can recover from task failures, each episode is isolated and any learned experience is discarded before the next task begins. To address this gap, the authors introduce **ManimAgent**, a self‑evolving multimodal agent that retains its episodic memory across tasks without external weight updates or human seeds. ManimAgent generates Python code using the Manim library to render mathematical animations from scientific paper sections and continuously scores rendered keyframes with a vision‑language model, feeding both successes and failures into an internal episodic memory bank. The resulting dual‑channel memory (soft reference examples M⁺ and hard failure patterns M⁻) enables cumulative learning across tasks.  
 
 ## Semantic links
-- [[concepts/papers/2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_i_summary.md|Summary: 2026-07-29_17-15-33Z_Cost_SensitiveConformalPredictionandHuman_in_the_L.md]] — 3 title terms overlap; 17 backlinks; 9 summary/topic terms overlap
 
 ## Key Contributions  
 - Finding 1: A self‑evolving multimodal agent can retain learning experience across multiple tasks without weight updates or human‑provided seeds.  

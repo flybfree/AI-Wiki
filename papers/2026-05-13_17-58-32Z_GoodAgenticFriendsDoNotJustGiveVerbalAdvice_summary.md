@@ -18,7 +18,6 @@ This paper introduces TFlow (Thought Flow), a novel weight-space communication f
 
 ## Semantic links
 - [[concepts/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_Attentio_summary.md|Summary: 2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] — 3 title terms overlap; shared tags: ai, paper, research; 1 backlink
-- [[concepts/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInte_summary.md|Summary: 2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] — 3 title terms overlap; shared tags: ai, paper, research; 10 summary/topic terms overlap
 
 ## Key Contributions
 - **Weight-Space Communication Paradigm**: The authors propose a new interface where sender agents process inputs and a learned parameter generator maps their hidden states into low-rank LoRA perturbations. These perturbations are applied directly to the receiver's modules during generation, enabling instance-level adaptation without permanently altering the model architecture or weights.
