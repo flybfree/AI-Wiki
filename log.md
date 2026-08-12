@@ -7607,3 +7607,6 @@ tags: ['wiki']
 ## [2026-08-12 00:05] ingest | 2026-08-12_IntroducingClaudeOpus5.md
 ## [2026-08-12 00:05] ingest | 2026-08-12_ASafePathtoOpenWeights.md
 ## [2026-08-12 00:05] ingest | 2026-08-12_Compressionisprediction.md
+## [2026-08-12 01:12] ingest | 2026-08-12_llama_cpp.md
+## [2026-08-12 04:22] ingest | 2026-08-12_LinkedInCringeBot3000.md
+## [2026-08-12 06:10] ingest | 2026-08-12_TimGowers_WhatsortofmathsareLLMsgoodat_.md

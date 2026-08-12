@@ -2098,3 +2098,6 @@ tags: ['wiki']
 - [[2026-08-12_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-12_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-12_Compressionisprediction.md]] : Compression is prediction
+- [[2026-08-12_llama_cpp.md]] : llama.cpp
+- [[2026-08-12_LinkedInCringeBot3000.md]] : LinkedIn CringeBot 3000
+- [[2026-08-12_TimGowers_WhatsortofmathsareLLMsgoodat_.md]] : Tim Gowers: What sort of maths are LLMs good at?
