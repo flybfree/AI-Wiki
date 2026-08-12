@@ -35,6 +35,7 @@ The practical question is no longer just “what is the strongest open model?”
 | [Kimi K3](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart) | Frontier open-weight model with huge context and agentic coding focus | More of a frontier pressure test than a lightweight local model |
 | [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) | Open-weights MoE with 276B total parameters, 12B active, 1M-token context, and variable thinking effort | Still large and customization-oriented rather than compact |
 | [MuseGlimmer](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | Apache 2.0 30B model optimized for always-on local agents, tool use, coding, multimodal input, and failure recovery | Requires roughly 17–20 GB for the quantized model plus runtime headroom |
+| [Nemotron 3.5 Lightning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/) | Open 30B MoE with 3B active parameters, optimized for fast, high-volume execution inside long-running agents | Execution specialist rather than a broad frontier generalist; benchmark and serving results are NVIDIA-reported |
 | [Ornith-1.0-35B](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B) | Purpose-built for agentic coding and repository-level automation | Focused more on coding than broad multimodal use |
 | [Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M) | Compact long-context reasoning model built from Claude Mythos / Fable traces | Derived model, not a broad frontier multimodal system |
 | [VibeThinker-1.5B](https://huggingface.co/WeiboAI/VibeThinker-1.5B) | Tiny-model math and coding specialist | Experimental and not a general assistant |
@@ -58,6 +59,7 @@ This subsection is for models that matter because they can actually be run, tune
 | [Ornith-1.0 family](https://huggingface.co/collections/deepreinforce-ai/ornith-10) | Dense / MoE checkpoints for local deployment | Designed for agentic coding and self-scaffolding workflows |
 | [VibeThinker-1.5B](https://huggingface.co/WeiboAI/VibeThinker-1.5B) | Tiny dense checkpoint | Useful for low-cost experiments, edge cases, and fine-tune baselines |
 | [MuseGlimmer](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | Approximately 4-bit quantization; K-Quant-17GB and speculative decoding with DFlash | Targets 24–32 GB consumer hardware and local, responsive agent interaction |
+| [Nemotron 3.5 Lightning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/) | NVFP4, speculative decoding with DFlash/DSpark, and deployment from RTX PCs/DGX Spark through data centers | Designed for low-latency tool calls, validation, code review, and other high-volume agent execution |
 
 ### Local deployment notes
 
@@ -74,11 +76,13 @@ This subsection is for models that matter because they can actually be run, tune
 - The market debate is now explicitly about economics and regulation too, with HN threads on overregulating open-weight models and on low-cost open-model fine-tunes beating frontier defaults on narrow tasks. [CNBC / HN](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · [FermiSense](https://fermisense.com/when-machines-take-the-wheel/)
 - A newer signal points to open weights being framed for local agentic use, not just benchmark wins. [Meta HN signal](https://twitter.com/finkd/status/2086754845218726027)
 - Meta’s MuseGlimmer release makes that local-agent framing concrete: its Apache 2.0 weights, multimodal tool use, quantized deployment path, and DFlash speculative decoding are aimed at always-on agents running on consumer hardware. [Meta AI Research](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+- NVIDIA’s Nemotron 3.5 Lightning extends the local-agent framing into a system-of-models architecture: a larger model plans while a fast 30B/3B-active MoE handles repetitive execution, with NeMo Switchyard routing requests across open and proprietary models. [NVIDIA Developer](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
 
 ## Progress log
 
 - **2026-08-10** — Last30days research says the open-weight conversation is now centered on local-agent usefulness, cost/performance, and release policy, with Kimi K3 still the loudest frontier signal.
 - **2026-08-10** — Meta releases MuseGlimmer, a 30B Apache 2.0 open-weight model designed for local agent workflows, adding a strong deployment-focused counterpoint to larger frontier releases.
+- **2026-08-11** — NVIDIA adds Nemotron 3.5 Lightning, an open 30B MoE with 3B active parameters, plus NeMo Switchyard for model routing; the pair makes high-volume execution a first-class open-weight deployment target.
 - **2026-08-04** — Inkling-Small, DeepSeek V4-Flash on a single MI300X, and Shieldstral each point to the same theme: open weights are becoming an operational/deployment story, not just a download story.
 - **2026-07-15** — Agents-A1-NVFP4-MTP-GGUF adds a local agentic multimodal MoE derivative to the watchlist, showing how NVFP4/MTP packaging can make a Qwen3.5-35B-A3B-style model practical for local experiments.
 - **2026-07-27** — Kimi K3 and Inkling join the open-weight frontier list, expanding the page to cover both big open frontier releases and the models likely to pressure closed-model defaults.
@@ -98,6 +102,7 @@ This subsection is for models that matter because they can actually be run, tune
 - [Summary: Inkling: Our Open-Weights Model](../entities/article/2026-07-27_Inkling_OurOpen-WeightsModel_summary.md)
 - [Summary: Kimi-K3 Releases on HuggingFace 7/27](../entities/article/2026-07-27_Kimi-K3ReleasesonHuggingFace7_27_summary.md)
 - [Summary: Meta MuseGlimmer — open weights 30B local coding model](../entities/article/2026-08-10_MetaMuseGlimmer_openweights30Blocalcodingmodel_summary.md) · [Original Meta AI Research article](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
+- [Summary: NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard](../entities/article/2026-08-11_NvidiaNemotron3_5lightningandNeMoSwitchyard_summary.md) · [NVIDIA Developer article](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
 - [LLM Release Tracker](2026-07-10_LLMReleaseTracker.md)
 - [LLM Model Evolution](2026-06-10_LLMModelEvolution.md)
 - [Inference Layer: Quantized Models, GGUF, and Local Use](../self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md)
