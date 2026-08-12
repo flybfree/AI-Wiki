@@ -2112,3 +2112,6 @@ tags: ['wiki']
 - [[2026-08-12_TailscaleTracesDatabaseCorruptionto16y_oSQLiteWAL-.md]] : Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
 - [[2026-08-12_DeepSeekV4Pro0813.md]] : DeepSeek V4 Pro 0813
 - [[2026-08-12_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[2026-08-12_TwitchstreamerscannowoptoutfromtrainingAmazon_sAI.md]] : Twitch streamers can now opt out from training Amazon’s AI
+- [[2026-08-12_AIcodingstartupCognitionreportedlyalreadyintalksto.md]] : AI coding startup Cognition reportedly already in talks to raise at $40B valuation
+- [[2026-08-12_AmazonwilltrainonTwitchstreamers_contentbydefault_.md]] : Amazon will train on Twitch streamers’ content by default, unless they opt out
