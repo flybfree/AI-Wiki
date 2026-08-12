@@ -153,6 +153,10 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 - [[concepts/2026-06-02_HLL_Benchmark.md|HLL Benchmark]]
 - [[papers/2026-05-09_131500Z_ReAct_SynergizingReasoningAndActingInLanguageModels.md|ReAct: Synergizing Reasoning and Acting in Language Models]]
 
+### Training & local model tooling
+
+- [[concepts/frameworks/unsloth.md|Summary: Unsloth]] — local model running, efficient fine-tuning, export, deployment, and agent integration
+
 ---
 
 ## Tutorials & Guides

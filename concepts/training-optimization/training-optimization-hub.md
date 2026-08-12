@@ -18,3 +18,5 @@ Training dynamics, optimization methods, fine-tuning, reinforcement learning, cu
 - [[../ai-foundations/ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|AI Ml Foundations Lesson 06 Loss Gradient And Optimization]]
 
 ## Representative Summaries
+
+- [[../frameworks/unsloth.md|Summary: Unsloth]] — local model running, efficient fine-tuning, export, deployment, and agent integration

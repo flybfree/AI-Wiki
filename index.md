@@ -108,6 +108,9 @@ tags: ['wiki']
 ### AI Benchmarks
 - [[concepts/ai-benchmarks/AIBenchmarks.md|AI Benchmarks]] — benchmark results, SOTA models, and evaluation trends
 
+### Training, Fine-Tuning & Local Model Tooling
+- [[concepts/frameworks/unsloth.md|Summary: Unsloth]] — local model running, efficient fine-tuning, export, deployment, and agent integration
+
 ### AI Industry Trends
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
@@ -2101,3 +2104,11 @@ tags: ['wiki']
 - [[2026-08-12_llama_cpp.md]] : llama.cpp
 - [[2026-08-12_LinkedInCringeBot3000.md]] : LinkedIn CringeBot 3000
 - [[2026-08-12_TimGowers_WhatsortofmathsareLLMsgoodat_.md]] : Tim Gowers: What sort of maths are LLMs good at?
+- [[2026-08-12_Google_sPixelWatch5divesdeeperintoAIandhealth.md]] : Google’s Pixel Watch 5 dives deeper into AI and health
+- [[2026-08-12_EverythingannouncedatMadebyGoogle_26_Pixel11_Pixel.md]] : Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features
+- [[2026-08-12_GuitarcompanyD_AddarioadmitsthatAImusicwasusedinap.md]] : Guitar company D’Addario admits that AI music was used in a promotional video
+- [[2026-08-12_Lovableconfirmsnew_13_3Bvaluation_raisesanother_40.md]] : Lovable confirms new $13.3B valuation, raises another $400M
+- [[2026-08-12_IBMandCHRISTUniversityLaunchCenterforAIResearchand.md]] : IBM and CHRIST University Launch Center for AI Research and Talent Development
+- [[2026-08-12_TailscaleTracesDatabaseCorruptionto16y_oSQLiteWAL-.md]] : Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
+- [[2026-08-12_DeepSeekV4Pro0813.md]] : DeepSeek V4 Pro 0813
+- [[2026-08-12_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality

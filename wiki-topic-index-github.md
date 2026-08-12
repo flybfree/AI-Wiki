@@ -155,6 +155,10 @@ GitHub-friendly copy: use this version in the repository/browser.
 
 - [Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/architecture/2026-05-09_AgentArchitectureEvolution.md)
 - [Autonomous Agent Frameworks](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/frameworks/2026-05-09_AutonomousAgentFrameworks.md)
+
+### Training & local model tooling
+
+- [Summary: Unsloth](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/frameworks/unsloth.md) — local model running, efficient fine-tuning, export, deployment, and agent integration
 - [Building Effective Agents (Anthropic)](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/principles/2026-06-08_BuildingEffectiveAgents_Anthropic.md)
 - [HLL Benchmark](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/2026-06-02_HLL_Benchmark.md)
 - [Machine Learning Architecture — Hub](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/articles/2026-04-29_Machine_Learning_Architecture__What_It_Is__Compone_summary.md)

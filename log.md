@@ -8,6 +8,7 @@ tags: ['wiki']
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
 ## AI Research Engine Audit Log
+## [2026-08-12 00:00] ingest | concepts/frameworks/unsloth.md added from https://github.com/unslothai/unsloth; linked from training hub and navigation indexes
 ## [2026-08-10 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-10.md drafted for Lumistorm Daily AI Briefing
 ## [2026-08-11 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-11.md updated with Anthropic invisible-watermark coverage and MSN source
 ## [2026-08-11 00:00] update | concepts/llm-models/OpenSourceModelsStateOfTheArt.md added NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard coverage
@@ -7610,3 +7611,11 @@ tags: ['wiki']
 ## [2026-08-12 01:12] ingest | 2026-08-12_llama_cpp.md
 ## [2026-08-12 04:22] ingest | 2026-08-12_LinkedInCringeBot3000.md
 ## [2026-08-12 06:10] ingest | 2026-08-12_TimGowers_WhatsortofmathsareLLMsgoodat_.md
+## [2026-08-12 09:07] ingest | 2026-08-12_Google_sPixelWatch5divesdeeperintoAIandhealth.md
+## [2026-08-12 10:05] ingest | 2026-08-12_EverythingannouncedatMadebyGoogle_26_Pixel11_Pixel.md
+## [2026-08-12 11:09] ingest | 2026-08-12_GuitarcompanyD_AddarioadmitsthatAImusicwasusedinap.md
+## [2026-08-12 11:09] ingest | 2026-08-12_Lovableconfirmsnew_13_3Bvaluation_raisesanother_40.md
+## [2026-08-12 11:09] ingest | 2026-08-12_IBMandCHRISTUniversityLaunchCenterforAIResearchand.md
+## [2026-08-12 11:09] ingest | 2026-08-12_TailscaleTracesDatabaseCorruptionto16y_oSQLiteWAL-.md
+## [2026-08-12 12:05] ingest | 2026-08-12_DeepSeekV4Pro0813.md
+## [2026-08-12 12:05] ingest | 2026-08-12_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md
