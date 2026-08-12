@@ -1,11 +1,11 @@
 ---
-title: "Open-Source Models State of the Art — 2026-08-10"
-date: 2026-08-10
+title: "Open-Source Models State of the Art — 2026-08-11"
+date: 2026-08-11
 status: draft
-tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-08-10"]
+tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-08-11"]
 ---
 
-# Open-Source Models State of the Art — 2026-08-10
+# Open-Source Models State of the Art — 2026-08-11
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
