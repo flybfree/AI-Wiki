@@ -1,0 +1,18 @@
+---
+title: More Accurate, Less Human: Gestalt Grouping in Vision Models
+published: 2026-08-10T20:14:14Z
+authors: Sudhanva Manjunath Athreya, Sai Phani Kumar Malladi
+url: http://arxiv.org/abs/2608.10195v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# More Accurate, Less Human: Gestalt Grouping in Vision Models
+
+## Abstract
+Human vision organizes what it sees into wholes: same-colored points group into series, similar marks cohere into categories, and shapes complete into recognizable objects. These are the Gestalt operations that visualization design builds on. Whether vision models organize visual content this way has not been systematically tested. We introduce a behavioral battery that scores models against human data from prior perception studies on four grouping tasks: mark-color odd-one-out, color-series counting, silhouette recognition, and object odd-one-out. We apply it to 45 models across five training families: supervised, self-supervised, and contrastive vision-language encoders, open-weight VLMs, and closed foundation models. The battery reveals that agreement with human responses captures aspects of perceptual organization that conventional performance metrics fail to distinguish, with several closed models exhibiting substantially lower alignment than their benchmark accuracy would suggest. Scoring against published perception data therefore gives visualization research a reusable yardstick, requiring no new user study, for auditing whether the models now entering visualization pipelines organize what they see the way their human audience does.
+
+## Metadata
+- **Published**: 2026-08-10T20:14:14Z
+- **Authors**: Sudhanva Manjunath Athreya, Sai Phani Kumar Malladi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10195v1)

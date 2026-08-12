@@ -1,0 +1,18 @@
+---
+title: MazzikaAI: A knowledge-based performance-to-prompt compiler for real-time Arabic maqam accompaniment with a streaming text-to-music model
+published: 2026-08-11T01:37:55Z
+authors: Jiaxin Du, Boulbaba Abdeljaouad, Yong Zhuang, Haoyu Li
+url: http://arxiv.org/abs/2608.10360v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MazzikaAI: A knowledge-based performance-to-prompt compiler for real-time Arabic maqam accompaniment with a streaming text-to-music model
+
+## Abstract
+Arabic maqam music microtonal, modal, and built on ornamented call and response is among the traditions most underserved by generative music models, whose training frameworks remain predominantly Western and equaltempered. Real time accompaniment sharpens this gap: an AI partner must listen, adapt dynamically, and respect idiomatic microtonal structures. Streaming text to music models provide strong generative capabilities but lack precise control interfaces. We present MazzikaAI, a knowledge based system that uses natural language as the actuator of a realtime control loop. By compiling live MIDI, gesture, and inferred harmony into continuously updated text prompts, MazzikaAI steers an unmodified streaming generator, Google Lyria RealTime, without requiring model finetuning. The system embeds expert knowledge of six core maqamat, characteristic ornaments, and ensemble dynamics, maintaining realtime responsiveness with subsecond keytoaudibleupdate latency. Empirical evaluations demonstrate that dynamic prompt compilation reliably grounds generation in microtonal scales, significantly increasing offgrid quartertone content over baseline generation. Beyond its core implementation, MazzikaAI illustrates how deterministic knowledgebased rules can effectively bridge expert, nonWestern musical traditions and unfinetuned foundation models. This architecture establishes a scalable paradigm for realtime humanAI cocreation, offering a generalizable blueprint for interactive accompaniment, adaptive music education, and culturally inclusive generative audio across diverse global idioms.
+
+## Metadata
+- **Published**: 2026-08-11T01:37:55Z
+- **Authors**: Jiaxin Du, Boulbaba Abdeljaouad, Yong Zhuang, Haoyu Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10360v1)

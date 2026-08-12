@@ -1,0 +1,18 @@
+---
+title: Threat-guided Policy-aware Scene Perturbation for Safe Autonomous Driving with Online Reinforcement Learning
+published: 2026-08-11T02:49:50Z
+authors: Xincong Hu, Lei Ou, Maosen Li, Jingtao Zhang, Liguo Hou, Zongzhang Zhang
+url: http://arxiv.org/abs/2608.10403v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Threat-guided Policy-aware Scene Perturbation for Safe Autonomous Driving with Online Reinforcement Learning
+
+## Abstract
+Reinforcement learning (RL) has shown promising performance in autonomous driving, yet ensuring the safety of online RL policies remains challenging due to insufficient exposure to safety-critical driving scenes. The long-tailed nature of real-world traffic situations makes dangerous and rare interactions difficult to encounter through conventional sampling, limiting the ability of RL policies to learn robust safety behaviors. Existing methods improve training diversity by synthesizing challenging scenes or adversarial situations. However, these approaches typically optimize scene generation objectives separately from the evolving policy, without explicitly modeling how generated perturbations relate to the current policy's weaknesses and learning needs. In this paper, we propose Threat-guided Policy-aware Scene Perturbation (TPSP) for safe autonomous driving with online RL. TPSP introduces a policy-aware scene encoder to capture the interaction between policy behaviors and surrounding environments, enabling scene perturbation aligned with the current policy. Based on this representation, TPSP selectively perturbs critical objects rather than applying uniform modifications across the scene. Furthermore, we develop a threat-guided optimization strategy that evaluates perturbed scenes through threat-level differences between policy rollouts on original and perturbed scenes, guiding the generation of safety-critical scenes with higher training value. Comprehensive experiments demonstrate that TPSP improves safety learning efficiency, achieving strong safety performance on NAVSIM v2 with approximately 4 million kilometers of simulated driving data. Ablation studies verify that policy-aware targeted perturbations provide more informative safety-critical experiences than random or policy-unaware strategies, enabling safer driving under limited interaction budgets.
+
+## Metadata
+- **Published**: 2026-08-11T02:49:50Z
+- **Authors**: Xincong Hu, Lei Ou, Maosen Li, Jingtao Zhang, Liguo Hou, Zongzhang Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10403v1)

@@ -8,6 +8,8 @@ Model: nvidia/nemotron-3-nano-4b
 ## Summary  
 NVIDIA has unveiled Nemotron 3.5 Lightning, a 30‑billion‑parameter mixture‑of‑experts model designed for high‑volume agentic workloads, and NeMo Switchyard, an open‑source routing library that lets enterprises direct requests to the most suitable model—whether open, proprietary or NVIDIA‑based—without rewriting applications. Together they give users unprecedented control over AI deployment, efficiency, and accuracy across PCs, workstations, data centers, and the cloud.
 
+The supplied [NVIDIA Developer article](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/) emphasizes Lightning’s role as the execution layer in a system of models: larger reasoning models plan and orchestrate, while the smaller MoE handles repetitive tool calls, validation, and other high-volume work.
+
 ## Key Takeaways  
 - Nemotron 3.5 Lightning delivers up to 4× faster output speed and 30% quicker task completion compared with other models in its class while maintaining frontier‑level reasoning.  
 - NeMo Switchyard provides intelligent, model‑agnostic routing that automatically selects the optimal model for each request across a mixed portfolio of AI solutions.  
@@ -18,3 +20,7 @@ The AI landscape is moving from static chatbots toward autonomous “always‑on
 
 ## Implications  
 For the field, this combination lowers the barrier to deploying custom, high‑performance agents while preserving openness and flexibility. Enterprises can embed their own data into Lightning, creating bespoke tools that improve accuracy without costly proprietary models. In industry, firms like CrowdStrike (cybersecurity), Harvey (legal services) and CodeRabbit (code review) are already leveraging the stack to accelerate workflows, suggesting a shift toward modular, efficient AI pipelines that can be scaled across PCs, workstations, data centers, and cloud environments.
+
+## Sources
+- [NVIDIA Developer: Nemotron 3.5 Lightning for long-running agents](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
+- [NVIDIA: Nemotron Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)

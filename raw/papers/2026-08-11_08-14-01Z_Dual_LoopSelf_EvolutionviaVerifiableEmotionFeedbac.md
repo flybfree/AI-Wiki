@@ -1,0 +1,18 @@
+---
+title: Dual-Loop Self-Evolution via Verifiable Emotion Feedback for Multi-Turn Empathetic Dialogue
+published: 2026-08-11T08:14:01Z
+authors: Yi Wei, Shuo Jiang, Huaixia Dou, Jie Zhu, Junhui Li, Lifan Guo, Feng Chen, Chi Zhang
+url: http://arxiv.org/abs/2608.10626v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Dual-Loop Self-Evolution via Verifiable Emotion Feedback for Multi-Turn Empathetic Dialogue
+
+## Abstract
+Large language models have demonstrated conversational capabilities, yet empathetic competence remains challenging. Empathetic support is inherently multi-turn and path-dependent: users disclose concerns gradually, emotions evolve over time, and early responses shape trust and receptivity. Reinforcement learning with verifiable emotion rewards provides scalable supervision for long-horizon interactions. However, existing methods evolve the dialogue policy while keeping its training interaction distribution fixed, creating a mismatch between policy competence and training experience. We introduce a dual-loop self-evolution framework driven by verifiable emotion feedback. With the user simulator and verifier frozen, the inner loop optimizes the multi-turn policy using continuous emotion rewards, while the outer loop uses the same outcomes to estimate policy-relative interaction utility and adapt experience. To obtain estimates from sparse, stochastic rollouts, the framework holds the scenario and interaction state constant within each group and prioritizes conditions whose group pass rates lie near the policy's competence boundary. A hierarchical controller shares evidence across support intents, while uncertainty-guided exploration and uniform rehearsal prevent premature exclusion. The resulting distribution generates trajectories, closing both loops without increasing the rollout budget. On SAGE, our framework raises Qwen3-8B Overall from 53.87 to 79.24 and outperforms protocol-matched uniform emotion-reward reinforcement learning by 7.23 points.
+
+## Metadata
+- **Published**: 2026-08-11T08:14:01Z
+- **Authors**: Yi Wei, Shuo Jiang, Huaixia Dou, Jie Zhu, Junhui Li, Lifan Guo, Feng Chen, Chi Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10626v1)

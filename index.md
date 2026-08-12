@@ -115,6 +115,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-23.md|Summary: 2026-07-23 Daily AI Intelligence Summary]] — compute, product surfaces, safety, and AI economics
 - [[concepts/knowledge-management/hostinger-daily-ai-blog-template.md|Hostinger Daily AI Intelligence Blog Template]] — Hostinger-ready public blog template with inline sources and reference block
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-10.md|Daily AI Intelligence Briefing — 2026-08-10]] — frontier models, local open weights, cyber capability, verifiable research, and agentic interfaces
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-11.md|Daily AI Intelligence Briefing — 2026-08-11]] — AI provenance, invisible watermarking, operational controls, and accountable generation
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-22.md|Summary: 2026-07-22 Daily AI Intelligence Summary]] — infrastructure, safety, and wearables
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-21.md|Summary: 2026-07-21 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on diffusion, agents, and evaluation
@@ -2084,3 +2085,16 @@ tags: ['wiki']
 - [[2026-08-11_ChatGPTandGeminibothjustpassed1billionusers.md]] : ChatGPT and Gemini both just passed 1 billion users
 - [[2026-08-11_NvidiaNemotron3_5LightningandNeMoSwitchyard.md]] : Nvidia Nemotron 3.5 Lightning and NeMo Switchyard
 - [[2026-08-11_Accelclosesoversubscribed_550MIndiafundwithinweeks.md]] : Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
+- [[2026-08-11_WorldClawAgentic3Dopen-worldgenerationatscale.md]] : WorldClaw Agentic 3D open-world generation at scale
+- [[2026-08-11_SaberdeniesreplacingRideshareStimulator__8217_swri.md]] : Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT
+- [[2026-08-11_CFTCdeclaresmarketemergency_ordersKalshitocontinue.md]] : CFTC declares market emergency, orders Kalshi to continue to operate in New York
+- [[2026-08-11_Compressionisprediction.md]] : Compression is prediction
+- [[2026-08-12_SaberdeniesreplacingRideshareStimulator__8217_swri.md]] : Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT
+- [[2026-08-12_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-12_Accelclosesoversubscribed_550MIndiafundwithinweeks.md]] : Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
+- [[2026-08-12_TestingadsinChatGPT.md]] : Testing ads in ChatGPT
+- [[2026-08-12_AdvancingAMIEtowardsexpert-levelaudio-visualclinic.md]] : Advancing AMIE towards expert-level audio-visual clinical consultations
+- [[2026-08-12_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-12_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-12_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-12_Compressionisprediction.md]] : Compression is prediction

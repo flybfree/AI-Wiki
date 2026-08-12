@@ -1,0 +1,18 @@
+---
+title: Path Integral Value Matching for Linear Quadratic Stochastic Optimal Control
+published: 2026-08-11T10:29:49Z
+authors: Bangyan Liao, Chenglei Yu, Yuchen Yang, Chuanrui Wang, Zhisheng Song, Peidong Liu, Tailin Wu
+url: http://arxiv.org/abs/2608.10777v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Path Integral Value Matching for Linear Quadratic Stochastic Optimal Control
+
+## Abstract
+Linear Quadratic Stochastic Optimal Control (LQ-SOC) establishes a fundamental framework for steering noisy dynamical systems and has recently gained renewed interest in the machine learning community. However, current state-of-the-art policy-based methods suffer from prohibitive computational costs and instability due to their heavy reliance on full-trajectory simulation. To overcome these limitations, we propose a paradigm shift toward a value-based approach by revisiting Path Integral Control (PIC). Although standard PIC suffers from the same high-variance bottleneck as policy-based methods, we discover that by truncating and marginalizing the original path integral formulation, we can derive a temporal recursive form of the value function. Building upon this theoretical foundation, we propose the Path Integral Value Matching (PI-VM) algorithm. Specifically, we employ temporal-difference learning to approximate the recursive value dynamics, and further integrate the Girsanov theorem with experience replay to enable off-policy training. We benchmark PI-VM against SOTA policy-based methods across various SOC benchmarks and sampling tasks. Empirical results demonstrate that PI-VM matches SOTA precision with an order-of-magnitude efficiency gain in low-dimensional settings, while effectively mitigating mode collapse in high-dimensional scenarios. Consequently, PI-VM offers a scalable solution for solving complex SOC problems.
+
+## Metadata
+- **Published**: 2026-08-11T10:29:49Z
+- **Authors**: Bangyan Liao, Chenglei Yu, Yuchen Yang, Chuanrui Wang, Zhisheng Song, Peidong Liu, Tailin Wu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10777v1)

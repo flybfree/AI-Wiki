@@ -1,0 +1,18 @@
+---
+title: Link-adaptive digital twin for robust physical-layer modeling in hybrid-amplified ultra-wideband optical networks
+published: 2026-08-11T05:41:16Z
+authors: Xiaoxuan Gao, Rentao Gu, Yingchun Wang, Xinyi Liu, Junshi Gao, Yuefeng Ji
+url: http://arxiv.org/abs/2608.10517v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Link-adaptive digital twin for robust physical-layer modeling in hybrid-amplified ultra-wideband optical networks
+
+## Abstract
+Accurate physical-layer modeling is increasingly essential for reliable ultra-wideband operation and capacity optimization, especially under the intensified inter-channel stimulated Raman scattering (ISRS) effect. This paper proposes the link-adaptive digital twin (LA-DT) for hybrid-amplified ultra-wideband links to overcome the generalization and speed limitations of existing methods, achieving accurate modeling and robust generalized signal-to-noise ratio (GSNR) estimation across diverse links. First, to address EDFA heterogeneity, the GSNR modeling task is decomposed into three key power predictions: ASE, NLI, and signal powers before EDFA entry. Second, to enhance cross-scenario generalization, three dedicated DT models are developed using a novel neural architecture with linear modulation layers (LMLs). Third, for rapid adaptation to unseen scenarios with limited data, three domain discriminators guide few-shot fine-tuning of the LMLs. Fourth, the LA-DT explicitly accounts for Raman amplifier (RA) insertion loss, improving practical deployment reliability. Results across 35 scenarios show that LA-DT reduces RMSE for NLI, ASE, and signal power predictions to 0.151, 0.111, and 0.113 dBm with improvements of 56.0%, 58.4%, and 52.7% over the baseline,and achieves an average GSNR estimation RMSE of 0.114 dBm (55.8% improvement). For 12 unseen scenarios, the LA-DT maintains high accuracy through few-shot fine-tuning with only 20 samples per scenario, achieving an average GSNR RMSE of 0.159 dB and demonstrating strong adaptability and robustness.
+
+## Metadata
+- **Published**: 2026-08-11T05:41:16Z
+- **Authors**: Xiaoxuan Gao, Rentao Gu, Yingchun Wang, Xinyi Liu, Junshi Gao, Yuefeng Ji
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10517v1)

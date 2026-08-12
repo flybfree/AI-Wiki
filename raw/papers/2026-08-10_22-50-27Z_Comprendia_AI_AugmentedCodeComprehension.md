@@ -1,0 +1,18 @@
+---
+title: Comprendia: AI-Augmented Code Comprehension
+published: 2026-08-10T22:50:27Z
+authors: Costain Nachuma, Minhaz F. Zibran
+url: http://arxiv.org/abs/2608.10290v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Comprendia: AI-Augmented Code Comprehension
+
+## Abstract
+Comprendia is an Eclipse plugin that integrates structural dependency visualization with LLM-powered code explanation on a shared interactive graph for Java program comprehension. The tool rests on four pillars: (1) a multi-edge-type dependency graph with live search and multiple layouts; (2) LLM explanations grounded in Graph-Aware Callee Pruning (GACP), an auditable strategy that selects relevant callees using the same graph the developer navigates; (3) a clone-detection overlay that highlights duplication and suggests extract-to-parent refactoring opportunities; and (4) a CVE risk overlay powered by OSV.dev. GACP uses graph distance, inheritance collapse, and edge-type weighting to produce prompts that are reproducible across LLM families and traceable to visible graph nodes. We demonstrate Comprendia on a Java project containing known clones and vulnerabilities, showing how the unified graph substrate supports comprehension while keeping the developer in control. Screencast: https://youtu.be/1wlh_RYehzA
+
+## Metadata
+- **Published**: 2026-08-10T22:50:27Z
+- **Authors**: Costain Nachuma, Minhaz F. Zibran
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10290v1)

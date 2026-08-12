@@ -1,0 +1,18 @@
+---
+title: Compute-Optimal Is Not Cluster-Optimal: Systems-Aware Scaling for Sparse Mixture-of-Experts
+published: 2026-08-11T07:49:00Z
+authors: Soumajyoti Sarkar, Yuxin Tang, Sheng Zha
+url: http://arxiv.org/abs/2608.10605v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Compute-Optimal Is Not Cluster-Optimal: Systems-Aware Scaling for Sparse Mixture-of-Experts
+
+## Abstract
+In large-scale pretraining, the algorithm, architecture, and systems decisions are conventionally made in disconnected stages. A scaling law stage selects an architecture and training recipe, optimizing loss under compute constraints, and a separate systems stage then optimizes the implementation for hardware efficiency. In this work, we develop MOSAIC, which formulates model architecture and systems co-design as an optimization problem. MOSAIC couples a predictive scaling law with a calibrated performance model that estimates Model FLOPs Utilization (MFU), communication cost, memory footprint, and the best parallel layout. We instantiate the framework for sparse Mixture-of-Experts (MoE) language models, where expert count, routing sparsity, and other MoE layer dimensions affect both the loss and systems efficiency. We fit a scaling law on sparse MoE models trained on text data, whose scaling dimensions include the sparsity factor, which is the fraction of model parameters inactive per token in a forward pass. The scaling law sweeps in our work span active parameters from $104$ million to $2.7$ billion and total model sizes reaching $79$ billion parameters. We show that, within the calibrated sparsity range, an efficiency-agnostic model-FLOPs budget admits no interior optimal sparsity. The fitted loss decreases monotonically with sparser models and the compute optimum lies at the upper boundary of the data support. An optimal sparsity in MoE models instead emerges under the cluster's systems constraints, as captured by MOSAIC. Our results argue for a shift towards unified architecture and systems co-design for frontier language model training.
+
+## Metadata
+- **Published**: 2026-08-11T07:49:00Z
+- **Authors**: Soumajyoti Sarkar, Yuxin Tang, Sheng Zha
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10605v1)

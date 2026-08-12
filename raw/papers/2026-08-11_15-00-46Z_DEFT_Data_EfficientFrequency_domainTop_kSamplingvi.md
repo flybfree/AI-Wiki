@@ -1,0 +1,18 @@
+---
+title: DEFT: Data-Efficient Frequency-domain Top-k Sampling via Inverse Discrete Fourier Transform for Spatiotemporal Dynamical Systems Modeling
+published: 2026-08-11T15:00:46Z
+authors: Hengbo Xiao, Jiale Liu, Jiahao Song, Guannan He
+url: http://arxiv.org/abs/2608.11019v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# DEFT: Data-Efficient Frequency-domain Top-k Sampling via Inverse Discrete Fourier Transform for Spatiotemporal Dynamical Systems Modeling
+
+## Abstract
+Modeling spatiotemporal dynamical systems governed by partial differential equations (PDEs) poses two major challenges: it either requires expensive physics-based simulators that entail iterative numerical solving at high computational cost, or it depends on abundant training data, yet purely data-driven models often generalize poorly to downstream dynamic operating conditions. We propose DEFT, a frequency-domain data sampling method that identifies the dominant Fourier modes of a physical system and systematically varies the corresponding amplitudes and phases to generate physically consistent training data via the inverse discrete Fourier transform. In addition, we derive a generalization bound of this method. We note that it also provides a theoretically principled criterion for selecting $K$. We evaluate the proposed method through three sets of experiments, each targeting a distinct aspect of its utility. First, we validate the framework on canonical PDEs solving demonstrating that it outperforms traditional methods when the system is dominated by a few prominent frequency components. Second, we employ DEFT as a data-value filter on the diffusion--sorption and Burgers equations of PDEBench, showing that it reduces data requirements by $40\%$ while sacrificing less than $2\%$ in predictive accuracy. Third, to evaluate DEFT for more challenging and practically relevant problems, we validate it in the battery degradation PDE system, achieving consistently high predictive accuracy across various test datasets with $R^2$ values exceeding $0.99$. Moreover, the learned frequency-domain features transfer to other battery chemistries with only $20\%$ of the fine-tuning data. These results demonstrate that DEFT is an effective data-sampling method for efficient operator learning.
+
+## Metadata
+- **Published**: 2026-08-11T15:00:46Z
+- **Authors**: Hengbo Xiao, Jiale Liu, Jiahao Song, Guannan He
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.11019v1)

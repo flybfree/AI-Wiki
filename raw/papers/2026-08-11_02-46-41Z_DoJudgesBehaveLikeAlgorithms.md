@@ -1,0 +1,18 @@
+---
+title: Do Judges Behave Like Algorithms?
+published: 2026-08-11T02:46:41Z
+authors: Riya Manchanda, Eric Chen, Chloe Zhu, Cynthia Rudin, Brandon Garrett, Songman Kang
+url: http://arxiv.org/abs/2608.10400v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Do Judges Behave Like Algorithms?
+
+## Abstract
+What if judges already behave like algorithms? As artificial intelligence and algorithms are deployed in many settings, including the judicial system, many have debated whether judges should be allowed to rely on them. Instead, we ask whether judges follow predictable, algorithmic-like rules already. If judges already follow consistent, formula-like rules based on discrete and static factors such as criminal history, age, and charge type, then judicial behavior may be improved. However, if judges rely on individualized information that cannot be identified through court data, then standards-based decision-making may be more challenging to understand or improve. This work explores these questions by studying judicial decision-making in misdemeanor bail hearings in Harris County, Texas. Using available court data, we investigate whether magistrate judges follow what resembles an algorithm; whether they consider the same variables in their decision-making; and whether they are consistent with themselves and with each other. To do this, we train machine learning models for each judge, measure variable importance metrics to determine important variables for each judge's decision-making, and analyze outcomes of similar cases for judges. Our results reveal that these judges generally behave algorithmically: their decisions can be captured by small, interpretable formulas. However, in some cases, judges differ substantially, leading to surprising inconsistency and unequal treatment across similar defendants. Identifying cases where algorithms do not explain judicial decision-making can improve the justice system by focusing attention on decisions where individualized standards, rather than rules, better explains outcomes.
+
+## Metadata
+- **Published**: 2026-08-11T02:46:41Z
+- **Authors**: Riya Manchanda, Eric Chen, Chloe Zhu, Cynthia Rudin, Brandon Garrett, Songman Kang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10400v1)

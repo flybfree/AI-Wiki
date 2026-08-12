@@ -1,0 +1,18 @@
+---
+title: MARCO: Click-Intent Decomposition for Calibrated Ads Conversion Prediction
+published: 2026-08-11T06:49:59Z
+authors: Shiwen Shen, Xiru Huang, Liang Luo, Jianbo Sun, He Lyu, Zihang Fu, Ivonne Xu, Zhizhuo Li, Zhengyu Zhang, Pei-Ju Sung, Yunmiao Wang, Zixuan Wang, Zhengli Zhao, Qiang Jin, Mike Jermann, Mingda Li, Yang Xiao, Bhavana Challa, Brooke Bian, Yang Li, Ashish Chamoli, Bibek Bhusal, Danning Di, Yuan Jin, Meet Raval, Zhiwen Chen, Boyao Sun, Shuguang Wang, Yunlong He, Yantao Yao, Sagar Chordia, Wenlin Chen, Santanu Kolay, Qin Huang, Ellie Wen
+url: http://arxiv.org/abs/2608.10562v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MARCO: Click-Intent Decomposition for Calibrated Ads Conversion Prediction
+
+## Abstract
+Not all clicks are equal. Industrial ads ranking decouples conversion probability into click-through rate (CTR) and post-click conversion rate (CVR), yet treats every click as the same event. In reality, users provide a free, self-generated signal of intent through their physical UI interactions. Different click types on the same ad exhibit a 4-fold difference in actual conversion rates. By conflating these signals, the standard CVR model under-predicts high-intent clicks and over-predicts low-intent ones, which is a bias masked by near-perfect aggregate calibration. We propose MARCO (Multi-intent Ads Ranking Composition Optimization), a framework that resolves this bias by decomposing each click by intent. Using the logged click type as a free behavioral label, MARCO trains per-intent CVR heads on homogeneous populations, and at serving time composes their per-intent CVR estimates under a predicted distribution over intents. Theoretically, we prove that decomposition never raises population risk, give the exact headroom under squared loss and non-negativity under the deployed loss, and show through a routing-efficiency dial how much of it reaches serving. Because the population-optimal score is unchanged, any gain is a finite-capacity estimation and calibration effect that we validated both offline and online. For deployment at scale, we further cast multi-impression, multi-click attribution as credit assignment with a bias-variance tradeoff analogous to RL return estimation, showing last-impression, first-click attribution is the low-bias, low-variance, deterministic choice under production constraints, and derive three consistency conditions enforced end-to-end at scale. Deployed at binary intent granularity, MARCO corrects per-intent calibration to approximately 100%, lifts conversions per click by +2.80%, and drives +0.98% cumulative improvement in topline metrics.
+
+## Metadata
+- **Published**: 2026-08-11T06:49:59Z
+- **Authors**: Shiwen Shen, Xiru Huang, Liang Luo, Jianbo Sun, He Lyu, Zihang Fu, Ivonne Xu, Zhizhuo Li, Zhengyu Zhang, Pei-Ju Sung, Yunmiao Wang, Zixuan Wang, Zhengli Zhao, Qiang Jin, Mike Jermann, Mingda Li, Yang Xiao, Bhavana Challa, Brooke Bian, Yang Li, Ashish Chamoli, Bibek Bhusal, Danning Di, Yuan Jin, Meet Raval, Zhiwen Chen, Boyao Sun, Shuguang Wang, Yunlong He, Yantao Yao, Sagar Chordia, Wenlin Chen, Santanu Kolay, Qin Huang, Ellie Wen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10562v1)

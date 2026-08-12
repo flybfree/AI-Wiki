@@ -1,0 +1,18 @@
+---
+title: MemSpec: Memory-Aware Runtime for Adaptive Draft Scheduling in Speculative Decoding on Edge Devices
+published: 2026-08-11T01:41:37Z
+authors: Eunjeong Kim, Yeong Jun Jeon, Myeonggyun Han
+url: http://arxiv.org/abs/2608.10362v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MemSpec: Memory-Aware Runtime for Adaptive Draft Scheduling in Speculative Decoding on Edge Devices
+
+## Abstract
+Speculative decoding accelerates autoregressive large language model (LLM) inference by using a lightweight draft model to speculate multiple tokens, reducing expensive target model decoding steps. Its effectiveness depends heavily on draft selection, motivating adaptive methods that exploit variation across inputs and generation stages. On memory-constrained edge devices, however, these methods often fail to improve end-to-end throughput due to the overhead of switching between draft models. We identify a key limitation in this setting: the mismatch between draft selection and draft availability under tight memory budgets. To address this challenge, we present MemSpec, a prediction-guided, memory-aware runtime for adaptive speculative decoding on edge devices. MemSpec decouples draft selection from execution through proactive resident working-set management. A lightweight predictor estimates draft effectiveness from prompt and generation context, while a memory-aware scheduler reduces reactive model loading overhead. Experiments on a Jetson Orin Nano show that MemSpec improves steady-state generation throughput by 40.7% on average over state-of-the-art bandit-based adaptive methods while closely approaching the oracle upper bound.
+
+## Metadata
+- **Published**: 2026-08-11T01:41:37Z
+- **Authors**: Eunjeong Kim, Yeong Jun Jeon, Myeonggyun Han
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10362v1)

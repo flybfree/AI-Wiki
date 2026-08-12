@@ -1,0 +1,18 @@
+---
+title: Self-Correcting Long-Horizon Search Agents via Tree-Structured Memory
+published: 2026-08-11T08:56:42Z
+authors: Aijun Yang, Qianxue Guo, Ziyi Huang, Yuxuan Chen, Shiyou Qian, Jian Cao
+url: http://arxiv.org/abs/2608.10676v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Self-Correcting Long-Horizon Search Agents via Tree-Structured Memory
+
+## Abstract
+Large language model (LLM)-based search agents answer questions through multi-step interactions with external environments. However, providing complete execution trajectories to the LLM causes unbounded context growth and introduces noise. Existing compression methods reduce context at the cost of important details and often replace erroneous facts without repairing downstream reasoning derived from them. To address this problem, we propose ReTree, a self-correcting tree-structured memory mechanism for search agents. ReTree constructs a bounded per-step reasoning context while preserving source-linked evidence. It models search as an evidence tree whose nodes store bounded summaries, evidence, and revision histories. When newly retrieved evidence contradicts an earlier claim, ReTree traces back to the node where the claim was introduced, replaces outdated evidence, regenerates summaries, prunes affected branches, and resumes search. Source-grounded evidence provenance supports reliable conflict localization and keeps final claims traceable to retrieved passages. Experiments on four public question-answering and search benchmarks show that ReTree consistently outperforms Full-Trajectory ReAct, improving answer accuracy by up to 25.6 percentage points (pp); the average maximum per-step reasoning context of Full-Trajectory ReAct is $1.27$--$1.51\times$ that of ReTree. These results establish ReTree as an effective self-correcting memory abstraction for long-horizon search.
+
+## Metadata
+- **Published**: 2026-08-11T08:56:42Z
+- **Authors**: Aijun Yang, Qianxue Guo, Ziyi Huang, Yuxuan Chen, Shiyou Qian, Jian Cao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10676v1)

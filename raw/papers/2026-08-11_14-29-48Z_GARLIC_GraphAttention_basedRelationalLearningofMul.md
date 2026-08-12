@@ -1,0 +1,18 @@
+---
+title: GARLIC: Graph Attention-based Relational Learning of Multivariate Time Series in Intensive Care
+published: 2026-08-11T14:29:48Z
+authors: Ruirui Wang, Yanke Li, Manuel Günther, Diego Paez-Granados
+url: http://arxiv.org/abs/2608.10969v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# GARLIC: Graph Attention-based Relational Learning of Multivariate Time Series in Intensive Care
+
+## Abstract
+Healthcare data, such as Intensive Care Unit (ICU) records, comprise heterogeneous multivariate time series sampled at irregular intervals with pervasive missingness. However, clinical applications demand predictive models that are both accurate and interpretable. We present our Graph Attention-based Relational Learning for Intensive Care (GARLIC) model, a novel neural network architecture that imputes missing data through a learnable exponential-decay encoder, captures inter-sensor dependencies via time-lagged summary graphs, and fuses global patterns with cross-dimensional sequential attention. All attention weights and graph edges are learned end-to-end to serve as built-in observation-, signal-, and edge-level explanations. To reconcile auxiliary reconstruction and primary classification objectives, we developed an alternating decoupled optimization scheme that stabilizes training. On three ICU benchmarks (PhysioNet 2012 & 2019, MIMIC-III), GARLIC sets the new state of the art in outcome prediction, significantly improving AUROC and AUPRC over best-performing baselines at comparable computational cost. Ablation studies confirm the contribution of each module, and feature-removal trials validate the fidelity of importance attribution through a monotonic performance drop (full > top 50% > random 50% > bottom 50%). Real-time case studies demonstrate actionable risk warnings with transparent explanations, marking a significant advance toward accurate, explainable deep learning for irregularly sampled ICU time series data. Moreover, we demonstrated \proposed{}'s superiority in data imputation and classification on various time-series datasets beyond the ICU domain, showing its generalizability and applicability to broader tasks.
+
+## Metadata
+- **Published**: 2026-08-11T14:29:48Z
+- **Authors**: Ruirui Wang, Yanke Li, Manuel Günther, Diego Paez-Granados
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10969v1)

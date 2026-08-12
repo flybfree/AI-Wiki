@@ -1,0 +1,18 @@
+---
+title: Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output
+published: 2026-08-10T22:20:26Z
+authors: Christopher M. Frost
+url: http://arxiv.org/abs/2608.10279v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Withholding the Completing Chunk: Deterministic Pair-Completion Guardrails for Streaming LLM Output
+
+## Abstract
+Streaming language-model output creates a release-timing problem: complete-response moderation acts after streamed text has escaped, whereas repeated semantic classification of partial text can be costly and unstable. We study a narrow deterministic construction in which each committed danger signature is the conjunction of two lexical predicates. The guard scans the accumulated prefix before every release and withholds the first chunk that makes both predicates observable. Across four signature families, eight chunk sizes, and 32 mechanism trials, streaming decisions matched the buffered scanner and withheld every pair-completing chunk; eight single-predicate controls passed. In a separate 512-trial strategy comparison, full-prefix scanning and complete buffering detected all configured pairs, a 512-character window detected 96/128, and chunk-local scanning detected 38/128. Fixed pairs flagged 0/338 human-derived safe responses and detected 0/394 jury-labelled unsafe responses, confirming narrow rather than general harm coverage. A calibrated official Llama Guard 3 1B baseline classified 310/338 safe responses as safe and 202/394 unsafe responses as unsafe. Repeated-prefix scanner time on 16,384-character responses ranged from 13.261 ms to 829.640 ms across tested chunk sizes. Pair completion is therefore an exact release-boundary backstop for a small fixed policy, not a substitute for semantic moderation.
+
+## Metadata
+- **Published**: 2026-08-10T22:20:26Z
+- **Authors**: Christopher M. Frost
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10279v1)

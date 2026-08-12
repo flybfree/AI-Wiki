@@ -1,0 +1,18 @@
+---
+title: SeFaR: Semantic Feature-aware Robustness Testing of Deep Neural Networks
+published: 2026-08-10T22:50:17Z
+authors: Nusrat Jahan Mozumder, Divya Gopinath, Corina Pasareanu, Matthew Dwyer
+url: http://arxiv.org/abs/2608.10289v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SeFaR: Semantic Feature-aware Robustness Testing of Deep Neural Networks
+
+## Abstract
+Deep neural networks are increasingly deployed in safety-critical domains as perception modules, where failures are often caused due to rare and under-represented scenarios. This necessitates the need to evaluate the semantic robustness of perception models; conformance of behavior to high-level requirements over real-world perceptual variability. To address this, we propose SeFaR, a framework for systematic semantic-feature-centric testing of vision models. Given a natural-language requirement and a set of satisfying inputs, SeFaR evaluates robustness with respect to diverse realistic semantic variations that preserve requirement satisfaction. The approach employs a novel hierarchical concept model enabling structured exploration of the feature space and incorporation of domain knowledge via user-defined concepts. State-of-the-art diffusion and vision-language models are leveraged to generate photorealistic semantics-preserving perturbations and identification of previously unknown features impacting behavior. A feedback-driven adaptive process is adopted to generate interpretable failure-inducing semantic concepts along with corresponding test inputs. Evaluation on case studies demonstrates that the proposed framework effectively satisfies requirement preconditions while identifying requirement-independent features that influence model decisions, enabling it to both uncover faults and relate them to such features.
+
+## Metadata
+- **Published**: 2026-08-10T22:50:17Z
+- **Authors**: Nusrat Jahan Mozumder, Divya Gopinath, Corina Pasareanu, Matthew Dwyer
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10289v1)

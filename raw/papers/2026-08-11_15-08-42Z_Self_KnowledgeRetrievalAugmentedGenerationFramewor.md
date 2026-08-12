@@ -1,0 +1,18 @@
+---
+title: Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching
+published: 2026-08-11T15:08:42Z
+authors: Jian Zhang, Songlin Lei, Zhuohao Yang, Bangli Liu, Ziwei Wang, Xufeng Weng, Gehan Amaratunga, Yu Lin, Hongwei Wang
+url: http://arxiv.org/abs/2608.11030v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Self-Knowledge Retrieval Augmented Generation Framework for Patent Matching
+
+## Abstract
+Patent retrieval and matching based on large language models (LLMs) play a vital role in intellectual property protection. However, due to the complex structure of patent documents, dense technical terminology, and multi-modal information, traditional methods struggle to accurately identify subtle differences between patents. Existing LLM-based patent matching approaches typically rely on domain-specific pretrained or instruction tuning, which often entail high manual labeling costs and catastrophic forgetting. While retrieval-augmented generation (RAG) methods introduce external knowledge they fail to fully leverage LLM's capability to automatically parse patents and mine deep semantic relationships. To address these limitations, this paper proposes a self-knowledge RAG framework that guides LLMs to autonomously extract key technical entities and construct hierarchical ontological structures from patent matching queries, thereby enabling query expansion and precise retrieval. The method integrates the FAISS retrieval with a generative matching mechanism, leveraging self-knowledge to enhance the model's understanding of patent innovations and significantly improve retrieval and matching accuracy. Experimental results demonstrate the outstanding performance of the proposed method on real-world patent datasets, validating its effectiveness and application potential.
+
+## Metadata
+- **Published**: 2026-08-11T15:08:42Z
+- **Authors**: Jian Zhang, Songlin Lei, Zhuohao Yang, Bangli Liu, Ziwei Wang, Xufeng Weng, Gehan Amaratunga, Yu Lin, Hongwei Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.11030v1)

@@ -1,0 +1,18 @@
+---
+title: Measuring Semantic Abstractness of SAE Features via Nonlocality
+published: 2026-08-11T06:19:48Z
+authors: Chuqiao Lin, Shivaji Sondhi, Xiao-Liang Qi
+url: http://arxiv.org/abs/2608.10537v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Measuring Semantic Abstractness of SAE Features via Nonlocality
+
+## Abstract
+Sparse autoencoders (SAEs) have helped uncover mechanistic explanations for LLM behaviours such as reasoning, jailbreaking etc., via understanding the corresponding task-relevant and causally effective features. To evaluate such mechanistic explanations, downstream studies must distinguish surface lexical features from genuinely high-level ones. However, neither an autointerp-based semantic description nor causal steering utility fully resolves the abstraction level of a feature. To this end, we introduce \emph{Feature Nonlocality} (FNL), defined as the entropy of the normalized per-position influence on an SAE feature's activation. We report that FNL correlates with existing LLM-based proxy metrics of feature semantic abstractness, and successfully distinguishes context-dependent reasoning features from token-driven ones, correctly assigning the higher FNL to the contextual feature in $73$--$84\%$ of randomly drawn pairs that consist of one contextual and one token-level feature.   We demonstrate two downstream applications. We audit SAE-based features used for jailbreak mitigation and find surprisingly that most effective features are positional features with low FNL rather than genuinely recognizing harmful intents.   We report that steering high-FNL features in DeepSeek-R1-Distill-Llama-8B improves MATH-500 accuracy by $4.6$ points over the unsteered model and outperforms steering low-FNL features, though the gains are model-specific. We conclude that FNL provides an LLM-independent, label-free, correlational witness of the abstraction level of an SAE feature, with applications in evaluating mechanistic explanations as well as selecting features for downstream interventions.
+
+## Metadata
+- **Published**: 2026-08-11T06:19:48Z
+- **Authors**: Chuqiao Lin, Shivaji Sondhi, Xiao-Liang Qi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.10537v1)
