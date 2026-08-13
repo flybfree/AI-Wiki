@@ -2132,3 +2132,9 @@ tags: ['wiki']
 - [[2026-08-13_Sunoistryingtolookmorelikearealmusicproductiontool.md]] : Suno is trying to look more like a real music production tool
 - [[2026-08-13_SpaghettifyingDRAM.md]] : Spaghettifying DRAM
 - [[2026-08-13_PreviewingUltrafastmode_GPT-5_6Solatupto14Xthespee.md]] : Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
+- [[2026-08-13_OpenAIhiresnewCROasexecutiveshake-upcontinues.md]] : OpenAI hires new CRO as executive shake-up continues
+- [[2026-08-13_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
+- [[2026-08-13_AnthropicsetAIagentslooseonthesametask_Theystarted.md]] : Anthropic set AI agents loose on the same task. They started a turf war.
+- [[2026-08-13_OpenAIislosingitssecondexecutivethisweek.md]] : OpenAI is losing its second executive this week
+- [[2026-08-13_Databrickswantedtoraise_1B_investorswanted_15B_Its.md]] : Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.
+- [[2026-08-13_WriterintroducesnewAImodelandupgradedharnesstocont.md]] : Writer introduces new AI model and upgraded harness to contain token costs
