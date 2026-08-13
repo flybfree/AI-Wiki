@@ -2122,3 +2122,4 @@ tags: ['wiki']
 - [[2026-08-13_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-08-13_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-13_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-13_ChatGPTDesktop_CodexDesktop_forLinux.md]] : ChatGPT Desktop (Codex Desktop) for Linux

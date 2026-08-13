@@ -7946,3 +7946,4 @@ tags: ['wiki']
 ## [2026-08-13 00:06] ingest | 2026-08-13_Googlejustredesignedthesearchboxforthefirsttimein2.md
 ## [2026-08-13 00:06] ingest | 2026-08-13_IntroducingClaudeOpus5.md
 ## [2026-08-13 00:06] ingest | 2026-08-13_IntroducingInkling-Small.md
+## [2026-08-13 04:06] ingest | 2026-08-13_ChatGPTDesktop_CodexDesktop_forLinux.md
