@@ -1,0 +1,18 @@
+---
+title: Better Slots, Better Worlds: Representation Quality & Robustness in Object-Centric World Models
+published: 2026-08-12T14:02:36Z
+authors: Shukrullo Nazirjonov, Sai Prasanna, Anna Manasyan, Georg Martius
+url: http://arxiv.org/abs/2608.12078v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Better Slots, Better Worlds: Representation Quality & Robustness in Object-Centric World Models
+
+## Abstract
+Learning world models from offline trajectories enables agents to accomplish different tasks through planning. Object-centric (OC) representations, which decompose a scene into a set of slots that bind to its objects, have been proposed as an inductive bias for world models that are more sample-efficient and generalize better. Yet prior object-centric world models (OCWMs) take the slot encoder as given and evaluate only in-distribution, leaving open whether the object-centric bias actually delivers for planning and what within the OCWM drives it. We conduct a controlled study of OCWMs for visual model-predictive control along two axes: object-centric representation quality and generalization under distribution shift relative to scene-centric models. We find that (i) planning success correlates positively with unsupervised slot-quality metrics (FG-ARI, mBO), though the gains saturate at high slot quality; (ii) with well-bound slots, the auxiliary proprioception inputs and masking inductive bias that prior methods relied on become unnecessary; and (iii) under unseen distribution shifts, the OCWM with well-bound slots is more robust overall than the end-to-end trained scene-centric LeWM, while DINO-WM, built on similar frozen pretrained features, remains competitive -- pointing to pretrained features as a key contributor to robustness.
+
+## Metadata
+- **Published**: 2026-08-12T14:02:36Z
+- **Authors**: Shukrullo Nazirjonov, Sai Prasanna, Anna Manasyan, Georg Martius
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.12078v1)

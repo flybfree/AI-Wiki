@@ -1,0 +1,18 @@
+---
+title: How Far from Clinical Deployment? Evaluating the Complete Unsupervised Domain Adaptation Pipeline in Medical Imaging
+published: 2026-08-12T13:19:14Z
+authors: Yiheng Xiong, Luisa Gallée, Daniel Santak Wolf, Heiko Hillenhagen, Michael Götz
+url: http://arxiv.org/abs/2608.12035v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# How Far from Clinical Deployment? Evaluating the Complete Unsupervised Domain Adaptation Pipeline in Medical Imaging
+
+## Abstract
+Deploying unsupervised domain adaptation (UDA) in clinical practice requires choosing which algorithm to use and which of its trained models to ship. However, the deployment (target) domain is unlabeled, so models cannot be evaluated directly on it, leaving it unclear which to select. We address this by evaluating the complete UDA pipeline, considering both adaptation and label-free selection together. Our study covers eleven clinically relevant cross-domain scenarios from nine medical imaging datasets, with ten UDA algorithms and 13 label-free selection methods (validators), evaluating over 80,000 trained models in total. By this, we find that a capable adapted model usually exists, but identifying it without target labels is difficult: the validator-selected models leave a large and structural target performance gap to the best available one, with no evaluated validator consistently reliable. Towards closing it, we explore two strategies, ensembling and a small target-labeling budget; both narrow this gap but do not close it entirely. Overall, deployable UDA depends on the complete pipeline; addressing the less explored selection step could bring much of current UDA closer to clinical use.
+
+## Metadata
+- **Published**: 2026-08-12T13:19:14Z
+- **Authors**: Yiheng Xiong, Luisa Gallée, Daniel Santak Wolf, Heiko Hillenhagen, Michael Götz
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.12035v1)

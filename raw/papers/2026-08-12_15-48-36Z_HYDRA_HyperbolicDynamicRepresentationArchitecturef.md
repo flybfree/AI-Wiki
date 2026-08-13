@@ -1,0 +1,18 @@
+---
+title: HYDRA: Hyperbolic Dynamic Representation Architecture for Kolmogorov-Arnold Networks
+published: 2026-08-12T15:48:36Z
+authors: Zhao Su, Yuxin Xia, Haoran Li, Jun Shen, Qi Zhu, Qingguo Zhou, Binbin Yong
+url: http://arxiv.org/abs/2608.12194v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# HYDRA: Hyperbolic Dynamic Representation Architecture for Kolmogorov-Arnold Networks
+
+## Abstract
+Kolmogorov-Arnold Networks (KANs) enhance nonlinear function approximation by replacing scalar weights with learnable univariate functions. However, assigning an independent function to every connection results in substantial parameter redundancy, limiting their scalability and efficiency. To reduce this redundancy, we introduce \textbf{HY}perbolic \textbf{D}ynamic \textbf{R}epresentation \textbf{A}rchitecture (HYDRA), a parameter-efficient hyperbolic extension of KAN that combines spline-based functional learning with representations in the Poincaré ball. HYDRA maps vector-valued inputs into a bounded hyperbolic latent space, performs KAN-style updates in tangent space, and employs a low-rank prototype block to share functional transformations across hidden dimensions. The resulting hyperbolic representations provide a structured radial coordinate for interpretation, while radius control improves training stability by preventing boundary saturation. Extensive experiments across eight benchmark datasets demonstrate that HYDRA consistently achieves competitive or superior predictive performance while improving parameter efficiency and representation interpretability.
+
+## Metadata
+- **Published**: 2026-08-12T15:48:36Z
+- **Authors**: Zhao Su, Yuxin Xia, Haoran Li, Jun Shen, Qi Zhu, Qingguo Zhou, Binbin Yong
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.12194v1)

@@ -1,0 +1,18 @@
+---
+title: Is Convergence Inevitable? Tracing Output Homogeneity Back to Base Models
+published: 2026-08-11T20:47:06Z
+authors: Alexandrine Fortier, Hazel Chen, Peter West
+url: http://arxiv.org/abs/2608.11426v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Is Convergence Inevitable? Tracing Output Homogeneity Back to Base Models
+
+## Abstract
+The lack of diversity in LM content is widely attributed to the alignment process, but how and where exactly in the pipeline this collapse begins is unknown. We argue that output homogeneity is likely learned during the pretraining phase, and only \emph{revealed} or magnified during the alignment process. Specifically, we find that semantic convergence is observed from the first alignment stage--the instruction-tuning phase (SFT)--suggesting that homogeneity might already exist in the pre-alignment model. To investigate this, we conduct controlled SFT experiments examining how training data influences output convergence on specific input/output pairs. We find that convergence can be revealed and amplified, but not introduced by the SFT data, supporting its role as a catalyst rather than a cause. To further test whether homogeneity originates before alignment, we measure convergence in base models. We find that instruct-like collapse can be induced through prompting alone, even without alignment. Taken together, our results suggest that semantic convergence may arise naturally from the objectives underlying LM training, making it difficult to mitigate through post-alignment interventions alone.
+
+## Metadata
+- **Published**: 2026-08-11T20:47:06Z
+- **Authors**: Alexandrine Fortier, Hazel Chen, Peter West
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.11426v1)

@@ -1,0 +1,18 @@
+---
+title: LEMUR: Latent Entropy-aware Multimodal Unlearning via Visual-anchored Reasoning Redirection
+published: 2026-08-12T06:03:50Z
+authors: Xinhao Zhong, Yuxia Qiao, Junhao Li, Hao Fang, Yi Sun, Bin Chen
+url: http://arxiv.org/abs/2608.11691v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# LEMUR: Latent Entropy-aware Multimodal Unlearning via Visual-anchored Reasoning Redirection
+
+## Abstract
+Reinforcement-learning (RL) post-training equips multimodal large reasoning models (MLRMs) with exploratory chains of thought (CoT), substantially improving visual reasoning. However, we find that this capability introduces a distinct privacy vulnerability: even when a sensitive fact is successfully unlearned from the final answer, the model may still reproduce it in its reasoning trace. This leakage is substantially more pronounced in natively RL-trained MLRMs than in their non -reasoning base models, revealing a privacy risk that existing unlearning methods are not designed to address. We show that RL-induced exploration leaves sensitive content with a distinctive token-level entropy signature that is largely absent from base models. Based on this observation, we propose LEMUR, a fully training-free, inference-time unlearning framework for natively RL-trained multimodal models. LEMUR uses entropy dynamics as a control signal to identify when sensitive reasoning begins and when sanitization should stop. During this interval, it redirects the reasoning trajectory through entropy-modulated visual-anchor latent injection, replacing committed tokens with sanitized, probability-weighted embeddings re-grounded in the input image. Across diverse MLRMs, LEMUR consistently outperforms existing unlearning met hods in suppressing both reasoning-trace and answer leakage, while better preserving non-sensitive utility and output fluency. These results demonstrate that RL-induced entropy dynamics provide a distinctive signal for privacy leakage and that exploiting this signal enables effective training-free unlearning for reasoning-capable multimodal models.
+
+## Metadata
+- **Published**: 2026-08-12T06:03:50Z
+- **Authors**: Xinhao Zhong, Yuxia Qiao, Junhao Li, Hao Fang, Yi Sun, Bin Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.11691v1)

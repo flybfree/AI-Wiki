@@ -1,0 +1,18 @@
+---
+title: Accuracy and Order Sensitivity Diverge Under Label-Free Strategies
+published: 2026-08-12T11:34:45Z
+authors: Karl Hanna, Chen Feng
+url: http://arxiv.org/abs/2608.11947v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Accuracy and Order Sensitivity Diverge Under Label-Free Strategies
+
+## Abstract
+Multiple-choice benchmarks are widely used to evaluate large language models, but MCQ scores conflate knowledge with sensitivity to option order, which makes them unreliable measures of model knowledge. In this paper, we test whether preventing a model from seeing option labels while committing to an answer removes positional influence and, in turn, improves performance. We evaluate two different strategies for mitigating bias. The first uses a generation-then-matching approach, and the second scores options in isolation, which is positionally unbiased by construction. Neither reliably improves accuracy. A complete decomposition shows that the bottleneck is withholding options, not the matching step. The only configuration that consistently matches the baseline is the one that shows the model all options paired with an LLM matcher. However, eliminating positional influence entirely still does not reliably yield accuracy gains, while cyclic permutation often improves them. For two-stage prompting, an aggregate measure of recall imbalance and a direct per-question measure of order sensitivity both fail to show reliable debiasing.
+
+## Metadata
+- **Published**: 2026-08-12T11:34:45Z
+- **Authors**: Karl Hanna, Chen Feng
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.11947v1)

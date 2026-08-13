@@ -2115,3 +2115,10 @@ tags: ['wiki']
 - [[2026-08-12_TwitchstreamerscannowoptoutfromtrainingAmazon_sAI.md]] : Twitch streamers can now opt out from training Amazon’s AI
 - [[2026-08-12_AIcodingstartupCognitionreportedlyalreadyintalksto.md]] : AI coding startup Cognition reportedly already in talks to raise at $40B valuation
 - [[2026-08-12_AmazonwilltrainonTwitchstreamers_contentbydefault_.md]] : Amazon will train on Twitch streamers’ content by default, unless they opt out
+- [[2026-08-13_DeepSeekV4Pro0813.md]] : DeepSeek V4 Pro 0813
+- [[2026-08-13_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[2026-08-13_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-13_TwitchstreamerscannowoptoutfromtrainingAmazon_sAI.md]] : Twitch streamers can now opt out from training Amazon’s AI
+- [[2026-08-13_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-13_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-13_IntroducingInkling-Small.md]] : Introducing Inkling-Small

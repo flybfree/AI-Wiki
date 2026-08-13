@@ -1,0 +1,18 @@
+---
+title: Probing and steering biology across Boltz-1s trunk-diffusion boundary
+published: 2026-08-11T22:25:42Z
+authors: Piotr Jedryszek, Tongmeng Xie, Adam Winnifrith, Alexander Hasson, Weronika Ślesak, George Wicks, Toby Winnifrith, Oliver M. Crook
+url: http://arxiv.org/abs/2608.11475v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Probing and steering biology across Boltz-1s trunk-diffusion boundary
+
+## Abstract
+AlphaFold3-class structure predictors pair a representational trunk, which processes sequence and context, with a diffusion module, which generates atomic coordinates. How biological information changes as it crosses this architectural boundary remains poorly understood. We analyze per-residue activations from the Pairformer trunk and diffusion module of Boltz-1 using linear probes, sparse autoencoders (SAEs), and causal interventions. From the trunk, both geometry (secondary structure, disorder) and sequence chemistry (amino-acid identity, signal peptides, disulfide-bond annotations) are linearly decodable. In the diffusion module, the two diverge. Secondary structure transfers essentially unchanged, whereas sequence chemistry is strongly attenuated. We then test whether decodable directions can steer the model, intervening on the final trunk single representation that conditions the diffusion module. Helix and coil directions change predicted structure dose-dependently against matched-norm random controls, but a beta-strand direction that is highly predictive (F1 =0.82) produces no measurable increase in strand content: linear decodability does not imply causal influence at the site we tested. The same probes also score markedly lower against sparse SwissProt annotations than against dense DSSP labels, because unannotated residues that the model gets right are charged as false positives; such scores are therefore lower bounds. Finally, supervised probes outscore single SAE features wherever a label already exists. We release the trained trunk and diffusion SAEs, Boltz-1 per-residue activations, and the analysis code.
+
+## Metadata
+- **Published**: 2026-08-11T22:25:42Z
+- **Authors**: Piotr Jedryszek, Tongmeng Xie, Adam Winnifrith, Alexander Hasson, Weronika Ślesak, George Wicks, Toby Winnifrith, Oliver M. Crook
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.11475v1)

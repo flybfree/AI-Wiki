@@ -1,0 +1,18 @@
+---
+title: Benchmarking Trustworthiness of SLMs: Pre-trained vs. Compressed
+published: 2026-08-12T12:14:02Z
+authors: Haokun Lin, Kaijie Zhu, Haobo Xu, Yichen Wu, Zhichao Lu, Qingfu Zhang, Zhenan Sun
+url: http://arxiv.org/abs/2608.11981v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Benchmarking Trustworthiness of SLMs: Pre-trained vs. Compressed
+
+## Abstract
+Small Language Models (SLMs) have emerged as a more efficient alternative to traditional Large Language Models (LLMs), offering promising potential in resource-constrained scenarios. Existing approaches to building SLMs typically follow two paths: training compact models from scratch, or compressing larger pre-trained models using methods such as pruning, quantization, or distillation. As language models become increasingly integrated into real-world applications, ensuring their trustworthiness has become a critical concern. However, how to build trustworthy SLMs remains an underexplored question. In this work, we present a comprehensive evaluation of SLM trustworthiness across multiple dimensions, including fairness, robustness, privacy, and ethics. We first examine the effects of pruning and quantization, and find that quantization is significantly more effective in preserving trustworthiness compared to pruning. More importantly, we demonstrate that compressing a reliable large model via quantization can produce SLMs with superior trustworthiness and adaptability compared to using small models trained from scratch. Furthermore, knowledge distillation from trustworthy teacher models can further enhance the reliability of SLMs. We hope our findings provide practical guidance and a foundation for future research into the development and deployment of trustworthy small language models.
+
+## Metadata
+- **Published**: 2026-08-12T12:14:02Z
+- **Authors**: Haokun Lin, Kaijie Zhu, Haobo Xu, Yichen Wu, Zhichao Lu, Qingfu Zhang, Zhenan Sun
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.11981v1)

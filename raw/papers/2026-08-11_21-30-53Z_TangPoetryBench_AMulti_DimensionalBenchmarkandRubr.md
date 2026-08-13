@@ -1,0 +1,18 @@
+---
+title: TangPoetryBench: A Multi-Dimensional Benchmark and Rubric-Conditioned Evaluator for Poetry-to-Image Generation
+published: 2026-08-11T21:30:53Z
+authors: Haoqi Hu, Tongji Luo, Li Zhang, Boning Zhou
+url: http://arxiv.org/abs/2608.11452v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# TangPoetryBench: A Multi-Dimensional Benchmark and Rubric-Conditioned Evaluator for Poetry-to-Image Generation
+
+## Abstract
+Text-to-image (T2I) models are increasingly asked to illustrate literary and cultural content, yet we cannot measure how well an image renders the meaning of a poem. The task is many-sided: a good illustration must be visually sound, faithful to the poem's imagery and scene, culturally and stylistically apt, free of spurious text, and true to its emotion, and its deepest requirements, imagery and especially implicit emotion, are never stated in the words. Existing metrics (CLIPScore, BLIPScore, VQAScore) reward literal text-image correspondence and so cannot tell whether an illustration succeeds, let alone why, or even separate the best model from the worst. We introduce TangPoetryBench, a multi-dimensional benchmark of 1,280 images (320 classical Chinese Tang poems x 4 state-of-the-art T2I models) with quality-controlled human annotations across ten dimensions. Analyzing this data, we reveal the shared and model-specific strengths and weaknesses of current T2I models, including their ability to evoke a poem's implicit emotion. We further introduce PoemAutoEvaluator (PAE), an open, rubric-conditioned evaluator that reaches parity with a strong proprietary judge (Claude), generalizes to an unseen generator and a second poetic tradition (Song Ci), and lets the benchmark scale to new images without fresh human annotation. We release the benchmark, annotations, and evaluator.
+
+## Metadata
+- **Published**: 2026-08-11T21:30:53Z
+- **Authors**: Haoqi Hu, Tongji Luo, Li Zhang, Boning Zhou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.11452v1)

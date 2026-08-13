@@ -1,0 +1,18 @@
+---
+title: Automated binary classification of hazelnut X-ray images: A deep-learning benchmark for quality assessment
+published: 2026-08-12T07:55:22Z
+authors: Giancarlo Sportelli, Nicola Belcari, Roberta Pace, Umberto Bernardo, Sharmin Sultana, Alessandra Toncelli, Matteo Giaccone
+url: http://arxiv.org/abs/2608.11759v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Automated binary classification of hazelnut X-ray images: A deep-learning benchmark for quality assessment
+
+## Abstract
+Non-destructive X-ray imaging can reveal internal hazelnut defects that are difficult to detect by external inspection alone; however, automated interpretation remains challenging because of subtle radiographic differences among classes, marked class imbalance, and limited annotated data. Here, we present a benchmark for binary hazelnut quality classification (healthy versus defective) based on 799 segmented single-kernel X-ray images (224 x 224 pixels, grayscale), grouped into 101 acquisition units. Seven single-model configurations and ten probability-aggregation ensembles were evaluated using a group-wise split-rotation protocol across five data splits generated using different random seeds. Decision thresholds were selected on the validation set, and performance was assessed deterministically on validation and test sets. Under the expert-reassessed annotation condition, the average-probability ensemble of the binary cross-entropy-trained convolutional neural network and frozen Swin Transformer achieved the highest mean balanced accuracy (86.3% +/- 1.8%, five seeds), with several other ensembles providing comparable performance. Across methods, substantial split-to-split variability was observed, indicating that multi-split evaluation is essential for reliable model comparison at this dataset scale. Expert reassessment of ambiguous samples improved the performance of all 17 evaluated methods by 2.8-8.1 percentage points, while having only a limited effect on cross-split variance. The results highlight both the potential of deep learning for automated X-ray-based hazelnut quality assessment and the importance of rigorous evaluation and label curation in small, imbalanced agricultural imaging datasets.
+
+## Metadata
+- **Published**: 2026-08-12T07:55:22Z
+- **Authors**: Giancarlo Sportelli, Nicola Belcari, Roberta Pace, Umberto Bernardo, Sharmin Sultana, Alessandra Toncelli, Matteo Giaccone
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.11759v1)

@@ -1,0 +1,18 @@
+---
+title: G0.5: One Autoregressive Stream for Robot Reasoning and Action
+published: 2026-08-12T07:26:47Z
+authors: Yicheng Liu, Zibin Dong, Baijun Ye, Tianyuan Yuan, Tao Jiang, Anqi Yang, Shicheng Cao, Haonan Liu, Yue Sun, Zihan Guo, Xiao Liu, Dong Ke, Changxun Pan, Chenru Wu, Tailai Cheng, Xiaoshu Ren, Xinlei Zhang, Jianning Cui, Zijie Zhao, Haoyu Zhang, Kaiming Xu, Haodong Yang, Bowen Zhang, Jiahui Niu, Shaoting Zhu, Shiduo Zhang, Hang Zhao
+url: http://arxiv.org/abs/2608.11739v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# G0.5: One Autoregressive Stream for Robot Reasoning and Action
+
+## Abstract
+The prevailing recipe for Vision-Language-Action (VLA) models couples a pretrained VLM with a separately trained flow-matching action expert. This makes the VLM a context encoder rather than a decision-maker. We introduce G0.5, a pretrained autoregressive VLA in which a single transformer decoder emits reasoning and action tokens under a single objective. Three components make this tractable at foundation-model scale: a learnable cross-embodiment action tokenizer that maps heterogeneous robot actions into a shared vocabulary; a native chain-of-thought stream interleaving task decomposition, object grounding, and action hints with action tokens; and a visual memory module that injects multi-second history through the vision encoder. Because reasoning and action share a single set of weights, the pretrained VLM's capabilities carry over to physical behavior: the model follows instructions closely, and prompts directly steer action granularity, task horizon, and out-of-distribution scene handling without further training. Pretrained on a large collection of robot datasets together with VQA samples, G0.5 surpasses state-of-the-art models across 7 independent regimes: real-world fine-tuning on R1lite and R1pro robots (76.7\% vs.\ 53.3\% for $π_{0.5}$ and 24.4\% for GR00T-N1.7), the 2025 BEHAVIOR Challenge on 50 long-horizon household mobile manipulation tasks using a generalist policy (31.4\% vs.\ 26.3\% for $π_{0.5}$ and 26.1\% for the challenge winner), DROID post-training followed by zero-shot transfer to an unseen environment and objects (82.5\%), a language-following Pick-and-Place benchmark, LIBERO (98.9\%), RoboTwin 2.0 (93.3\%), and SimplerEnv-Bridge (87.3\%).
+
+## Metadata
+- **Published**: 2026-08-12T07:26:47Z
+- **Authors**: Yicheng Liu, Zibin Dong, Baijun Ye, Tianyuan Yuan, Tao Jiang, Anqi Yang, Shicheng Cao, Haonan Liu, Yue Sun, Zihan Guo, Xiao Liu, Dong Ke, Changxun Pan, Chenru Wu, Tailai Cheng, Xiaoshu Ren, Xinlei Zhang, Jianning Cui, Zijie Zhao, Haoyu Zhang, Kaiming Xu, Haodong Yang, Bowen Zhang, Jiahui Niu, Shaoting Zhu, Shiduo Zhang, Hang Zhao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.11739v1)

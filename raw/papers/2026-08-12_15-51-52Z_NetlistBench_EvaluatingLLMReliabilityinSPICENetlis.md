@@ -1,0 +1,18 @@
+---
+title: NetlistBench: Evaluating LLM Reliability in SPICE Netlist Recognition and Manipulation
+published: 2026-08-12T15:51:52Z
+authors: Jiarui Ma, Jianghan Wang, Yuheng Ma, Ziyi Zhuang, Xiaoguang Liu
+url: http://arxiv.org/abs/2608.12197v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# NetlistBench: Evaluating LLM Reliability in SPICE Netlist Recognition and Manipulation
+
+## Abstract
+Large Language Models (LLMs) are increasingly used in circuit design workflows, yet their reliability on simulator-facing SPICE netlist recognition and manipulation remains poorly understood and is rarely separated from high-level design reasoning. Although netlists are textual, they encode structured circuit objects through topology and parameters. We present \textbf{NetlistBench}, a structure-verified benchmark for SPICE netlist recognition and manipulation. NetlistBench contains 2,342 cases across 24 task families, covering parameter and connectivity recognition and edits, hierarchical operations, equivalence judgment, and long-horizon compound editing. Model outputs are evaluated by a deterministic structure-aware oracle. Across six non-thinking LLMs, performance varies substantially with operation-level structural complexity. Simple local edits reach $96\%$--$100\%$ accuracy, while device addition drops to $41\%$--$83\%$ and equivalence judgment to $49\%$--$90\%$. Enabling reasoning substantially improves weaker models but does not eliminate structure-preservation failures, with performance still degrading sharply as the edit horizon increases. NetlistBench identifies netlist reliability as a distinct bottleneck for trustworthy LLM-based circuit design automation.
+
+## Metadata
+- **Published**: 2026-08-12T15:51:52Z
+- **Authors**: Jiarui Ma, Jianghan Wang, Yuheng Ma, Ziyi Zhuang, Xiaoguang Liu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.12197v1)
