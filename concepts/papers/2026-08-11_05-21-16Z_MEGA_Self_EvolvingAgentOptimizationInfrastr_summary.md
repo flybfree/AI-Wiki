@@ -24,3 +24,7 @@ MEGA addresses a longstanding bottleneck: static agent optimization that discard
 
 ## Related Concepts  
 Wisdom Graph, PCR units (Primary‑Context‑Resultant), meta‑evaluation, compositional retrieval, multi‑agent orchestration, causal attribution via A/B testing, behavioral‑pattern clustering.
+
+## Original Paper Reference
+
+- [Read the original paper](http://arxiv.org/abs/2608.10504v1)

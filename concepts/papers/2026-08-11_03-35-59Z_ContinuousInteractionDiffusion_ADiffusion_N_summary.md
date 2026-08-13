@@ -24,3 +24,7 @@ By embedding tools directly into diffusion denoising rather than using separate 
 
 ## Related Concepts  
 Diffusion language models (dLLMs), autoregressive generation loops, tool‑augmented reasoning, Typed Cognitive Tensor, asynchronous execution, belief revision, read‑only fact channel, display channel.
+
+## Original Paper Reference
+
+- [Read the original paper](http://arxiv.org/abs/2608.10438v1)

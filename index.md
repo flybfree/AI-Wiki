@@ -119,6 +119,7 @@ tags: ['wiki']
 - [[concepts/knowledge-management/hostinger-daily-ai-blog-template.md|Hostinger Daily AI Intelligence Blog Template]] — Hostinger-ready public blog template with inline sources and reference block
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-10.md|Daily AI Intelligence Briefing — 2026-08-10]] — frontier models, local open weights, cyber capability, verifiable research, and agentic interfaces
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-11.md|Daily AI Intelligence Briefing — 2026-08-11]] — AI provenance, invisible watermarking, operational controls, and accountable generation
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-12.md|Daily AI Intelligence Briefing — 2026-08-12]] — news coverage plus 22 papers approved for daily wiki ingestion, spanning reliability, agents, alignment, deployment, architecture, and watermark security
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-22.md|Summary: 2026-07-22 Daily AI Intelligence Summary]] — infrastructure, safety, and wearables
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-21.md|Summary: 2026-07-21 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on diffusion, agents, and evaluation
@@ -2123,3 +2124,11 @@ tags: ['wiki']
 - [[2026-08-13_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-13_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-13_ChatGPTDesktop_CodexDesktop_forLinux.md]] : ChatGPT Desktop (Codex Desktop) for Linux
+- [[2026-08-13_DeutscheBankbecomesfirstforeignyuanclearingbankinE.md]] : Deutsche Bank becomes first foreign yuan clearing bank in Europe
+- [[2026-08-13_MicrosoftiscombiningitsCopilotappsaheadofa_superap.md]] : Microsoft is combining its Copilot apps ahead of a ‘super app’
+- [[2026-08-13_DeepSeekHarness.md]] : DeepSeek Harness
+- [[2026-08-13_AppleintalkstopaypublisherstoprovideSiriwithcurren.md]] : Apple in talks to pay publishers to provide Siri with current news: report
+- [[2026-08-13_MicrosoftkillsoffunsuccessfulAIfeatureswhilemergin.md]] : Microsoft kills off unsuccessful AI features while merging its separate Copilot apps
+- [[2026-08-13_Sunoistryingtolookmorelikearealmusicproductiontool.md]] : Suno is trying to look more like a real music production tool
+- [[2026-08-13_SpaghettifyingDRAM.md]] : Spaghettifying DRAM
+- [[2026-08-13_PreviewingUltrafastmode_GPT-5_6Solatupto14Xthespee.md]] : Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed

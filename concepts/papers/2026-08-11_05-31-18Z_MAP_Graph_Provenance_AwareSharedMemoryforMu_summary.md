@@ -31,3 +31,7 @@ Provenance becomes an operational control signal within the system rather than m
 - Typed execution graphs  
 - Semantic retrieval  
 - Lineage auditing
+
+## Original Paper Reference
+
+- [Read the original paper](http://arxiv.org/abs/2608.10509v1)

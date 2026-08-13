@@ -24,3 +24,7 @@ This work addresses a fundamental limitation of OPD: reliance on unreliable teac
 
 ## Related Concepts  
 Prompt ordering, on‑policy distillation (OPD), teacher continuation reliability (R), ROUGE‑5 F1 as a proxy metric, within‑trajectory supervision.
+
+## Original Paper Reference
+
+- [Read the original paper](http://arxiv.org/abs/2608.10905v1)

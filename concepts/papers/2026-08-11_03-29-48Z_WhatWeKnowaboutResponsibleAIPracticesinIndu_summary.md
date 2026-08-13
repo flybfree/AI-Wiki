@@ -24,3 +24,7 @@ This matters because it informs researchers about real‑world implementation dy
 
 ## Related Concepts  
 Responsible AI (RAI), practitioner awareness, professionalization of RAI activities, toolkits and guidelines, training gaps, organizational support, day‑to‑day work practices, empirical literature review, synthesis methodology.
+
+## Original Paper Reference
+
+- [Read the original paper](http://arxiv.org/abs/2608.10431v1)

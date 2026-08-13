@@ -24,3 +24,7 @@ This work demonstrates that LVLMs are fundamentally ill‑suited for long‑form
 
 ## Related Concepts  
 LVLMs, Large Vision‑Language Models, positional encoding (rotary embeddings), causal masking, primacy/recency effects, temporal reasoning, multimodal evaluation, story coherence.
+
+## Original Paper Reference
+
+- [Read the original paper](http://arxiv.org/abs/2608.10908v1)

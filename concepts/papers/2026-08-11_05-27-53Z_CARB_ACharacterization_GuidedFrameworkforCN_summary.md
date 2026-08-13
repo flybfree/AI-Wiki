@@ -30,3 +30,7 @@ CARB provides a practical solution to the growing challenge of deploying deep‑
 - Cascade‑blended ensemble learning  
 - Pareto front extraction for multi‑objective optimization  
 - Deployment screening workflow
+
+## Original Paper Reference
+
+- [Read the original paper](http://arxiv.org/abs/2608.10506v1)

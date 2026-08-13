@@ -24,3 +24,7 @@ This work bridges early AI compositional reasoning with modern deep learning, of
 
 ## Related Concepts  
 hierarchical compositionality, semantic feature norms, domain axioms, session salience modeling, user‑specific thematic preference, disambiguation heuristics, large language model baselines.
+
+## Original Paper Reference
+
+- [Read the original paper](http://arxiv.org/abs/2608.10330v1)

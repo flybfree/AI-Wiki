@@ -8,6 +8,8 @@ tags: ['wiki']
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
 ## AI Research Engine Audit Log
+## [2026-08-12 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-12.md created for Lumistorm Daily AI Briefing
+## [2026-08-13 00:00] update | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-12.md expanded with 22 papers approved through daily wiki ingestion, alongside existing news coverage
 ## [2026-08-12 00:00] ingest | concepts/frameworks/unsloth.md added from https://github.com/unslothai/unsloth; linked from training hub and navigation indexes
 ## [2026-08-10 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-10.md drafted for Lumistorm Daily AI Briefing
 ## [2026-08-11 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-11.md updated with Anthropic invisible-watermark coverage and MSN source
@@ -7947,3 +7949,11 @@ tags: ['wiki']
 ## [2026-08-13 00:06] ingest | 2026-08-13_IntroducingClaudeOpus5.md
 ## [2026-08-13 00:06] ingest | 2026-08-13_IntroducingInkling-Small.md
 ## [2026-08-13 04:06] ingest | 2026-08-13_ChatGPTDesktop_CodexDesktop_forLinux.md
+## [2026-08-13 08:06] ingest | 2026-08-13_DeutscheBankbecomesfirstforeignyuanclearingbankinE.md
+## [2026-08-13 09:06] ingest | 2026-08-13_MicrosoftiscombiningitsCopilotappsaheadofa_superap.md
+## [2026-08-13 09:06] ingest | 2026-08-13_DeepSeekHarness.md
+## [2026-08-13 10:07] ingest | 2026-08-13_AppleintalkstopaypublisherstoprovideSiriwithcurren.md
+## [2026-08-13 11:06] ingest | 2026-08-13_MicrosoftkillsoffunsuccessfulAIfeatureswhilemergin.md
+## [2026-08-13 11:06] ingest | 2026-08-13_Sunoistryingtolookmorelikearealmusicproductiontool.md
+## [2026-08-13 12:05] ingest | 2026-08-13_SpaghettifyingDRAM.md
+## [2026-08-13 12:05] ingest | 2026-08-13_PreviewingUltrafastmode_GPT-5_6Solatupto14Xthespee.md
