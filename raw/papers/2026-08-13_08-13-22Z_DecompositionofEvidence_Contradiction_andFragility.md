@@ -1,0 +1,18 @@
+---
+title: Decomposition of Evidence, Contradiction, and Fragility in Perturbation Responses
+published: 2026-08-13T08:13:22Z
+authors: Lei You
+url: http://arxiv.org/abs/2608.12935v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Decomposition of Evidence, Contradiction, and Fragility in Perturbation Responses
+
+## Abstract
+Perturbation methods explain model decisions by measuring prediction changes under altered inputs, but response magnitude tells us only how much a model reacts, not what that reaction means. The same magnitude can support the final factual-counterfactual difference, oppose it, or arise strongly along the perturbation path yet vanish at the endpoint. We therefore track how the contrast develops as paired inputs are progressively revealed, using the final contrast to interpret the trajectory. We introduce DECAF (Decomposition of Evidence, Contradiction, And Fragility), which routes aligned, opposed, and endpoint-null responses into evidence E, contradiction C, and fragility F. The decomposition preserves ordinary magnitude exactly, Abs = E + C + F, and is unique under endpoint-relative axioms. Across controlled vision and tabular settings, the three components track independently measured behavior. In a 72-model ImageNet-9 audit, we compare cases with nearly identical response magnitude but different independently measured behaviors. The largest DECAF component agrees with an observed behavior in 96.4% of cases, compared with 35.0% for magnitude alone. Changing only the reveal path increases total response by nearly 80%, yet evidence barely changes while fragility grows by more than 4x. On FunnyBirds and ImageNet-1k, short forward-only DECAF trajectories outperform the tested general-purpose attribution baselines. On a 1B-scale DINOv2 model, a short trajectory matches a strong gradient-based baseline with 4.75x lower wall time and 2.36x lower peak memory.
+
+## Metadata
+- **Published**: 2026-08-13T08:13:22Z
+- **Authors**: Lei You
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.12935v1)

@@ -1,0 +1,18 @@
+---
+title: TRAPSBench: Vision-Language Models Encode but Fail to Express Epistemic Restraint
+published: 2026-08-13T12:32:13Z
+authors: Fnu Pramono, John Cai, Sourabh Kulkarni
+url: http://arxiv.org/abs/2608.13167v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# TRAPSBench: Vision-Language Models Encode but Fail to Express Epistemic Restraint
+
+## Abstract
+When visual evidence is occluded or chaotic, models should abstain. In this paper, we show that Vision-Language Models (VLMs) can internally distinguish when abstention is required, but fail to express it anyway. We introduce TRAPSBench, a procedurally generated video benchmark of 1,404 matched physics pairs in which a single targeted change renders the outcome undeterminable from the visual evidence. Furthermore, we introduce Penalized Epistemic Calibration Score (PECS), a new robust metric that requires models to both answer correctly when the outcome is knowable, and abstain when the outcome is not. Across 16 VLMs spanning five families, spontaneous restraint is poor: the best PECS is 0.292. The bottleneck is expression, not perception: linear probes decode answerability from hidden states at up to 0.91 AUROC across physics domains; steering a single-layer void direction causally induces or suppresses abstention. Our results replicate across three open-weight families (Qwen, Gemma, LLaVA). The failure is also more pronounced in visual than textual uncertainty: models detect textual impossibility about 4x more readily than missing visual evidence. Closing this representation--output gap likely requires output-stage interventions.
+
+## Metadata
+- **Published**: 2026-08-13T12:32:13Z
+- **Authors**: Fnu Pramono, John Cai, Sourabh Kulkarni
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13167v1)

@@ -1,0 +1,18 @@
+---
+title: MergeOver: Post-Training Token Merging for Recursive Vision Transformers
+published: 2026-08-13T12:15:10Z
+authors: Junseo Kim, Uraz Odyurt, Amirreza Yousefzadeh
+url: http://arxiv.org/abs/2608.13141v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MergeOver: Post-Training Token Merging for Recursive Vision Transformers
+
+## Abstract
+Vision Transformers (ViTs) demonstrate exceptional performance in computer vision but suffer from large parameter counts and quadratic computational complexity, severely limiting their deployment on resource-constrained edge hardware. While recursive weight-sharing reduces parameter counts and token merging mitigates computational and memory bottlenecks, integrating these two paradigms without costly retraining is non-trivial, leaving this intersection largely unexplored. We propose MergeOver, a post-training approach that integrates Token Merging (ToMe) into the recursively weight-shared Sliced Recursive Transformer (SReT). Through an Unmerge tracking stack, constraint-safe merge-rate adjustment, and synchronised token-mass tracking across spatial permutations, MergeOver resolves the spatial and merging constraints of this integration. We further employ a stage-wise single-shot schedule that performs token reduction at the first block of each stage and maintains a fixed sequence length throughout its subsequent recursive iterations. Benchmarked on ImageNet-1K, our selected configuration reduces top-1 accuracy by 1.47 percentage points. On the GPU, it reduces peak activation memory by 37.3% and 38.4% at batch sizes 1 and 16, while throughput decreases by 21.7% at batch size 1 but increases by 21.7% at batch size 16. On a Raspberry Pi 5 (ARM CPU), it reduces latency by 2.4% and 17.6% at batch sizes 1 and 16. These results show that MergeOver can recover a meaningful part of the throughput and memory cost that recursive weight-sharing introduces, without retraining, and provides a baseline for combining token merging with hierarchical recursive transformers.
+
+## Metadata
+- **Published**: 2026-08-13T12:15:10Z
+- **Authors**: Junseo Kim, Uraz Odyurt, Amirreza Yousefzadeh
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13141v1)

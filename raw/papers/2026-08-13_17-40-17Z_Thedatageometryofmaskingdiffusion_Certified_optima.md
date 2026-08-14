@@ -1,0 +1,18 @@
+---
+title: The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity
+published: 2026-08-13T17:40:17Z
+authors: Martin J. Wainwright
+url: http://arxiv.org/abs/2608.13520v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# The data geometry of masking diffusion: Certified-optimal schedules via unmasking growth complexity
+
+## Abstract
+We study masking diffusion for discrete sampling and introduce a path-resolved measure of data geometry called the \emph{unmasking growth complexity} ({\textsf{UGC}\xspace}). Its local increments directly control Kullback--Leibler (KL) discretization error, yielding a unified analysis of Bernoulli-subset and fixed-cardinality unmasking schemes. In log-reveal-odds coordinates, this structure yields optimized single-block and multi-block schedules, and quantifies the gains from adapting computational effort to data geometry. Crucially, we show how {\textsf{UGC}\xspace} increments can be estimated from samples via KL increments along coupled reveal trajectories. This leads to \emph{certified-optimal} samplers that achieve a prescribed KL error with high probability and iteration complexity within a constant factor of the corresponding oracle procedure. Collapsing the \ugc path yields the aggregate {\textsf{UGC}\xspace} mass, which connects to classical multivariate dependence measures and complexity measures from previous analyses of discrete diffusion. In the fine-partition limit, the squared integral of the square-root {\textsf{UGC}\xspace} density determines the sharp leading-order optimal Euler discretization error. Examples exhibit substantial dimension-dependent gains over coarse schedules, including $\widetildeΩ(\sqrt{d})$ improvements achievable with a constant number of adaptively placed blocks.
+
+## Metadata
+- **Published**: 2026-08-13T17:40:17Z
+- **Authors**: Martin J. Wainwright
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13520v1)

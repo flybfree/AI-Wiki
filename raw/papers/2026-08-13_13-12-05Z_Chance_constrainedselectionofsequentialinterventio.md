@@ -1,0 +1,18 @@
+---
+title: Chance-constrained selection of sequential intervention strategies from counterfactual estimates
+published: 2026-08-13T13:12:05Z
+authors: Minkyoung Kim, Beakcheol Jang
+url: http://arxiv.org/abs/2608.13209v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Chance-constrained selection of sequential intervention strategies from counterfactual estimates
+
+## Abstract
+Many operational decisions are sequences of interventions under a cumulative resource limit, such as a maintenance schedule within a crew-hour budget. Choosing among them calls for the outcome and the cumulative cost each would produce, counterfactual quantities identified from observational data. Two strategies with the same expected cost can exceed the budget at very different rates, so constraining the mean does not bound how often an overrun occurs. Prior two-step architectures, recently extended to continuous doses, constrain the mean cost rather than its tail and allocate at a single decision point. Methods that do bound a cost tail take its distribution from a specified model rather than identifying it from data. We present a predict-then-optimize framework. In the prediction step, any estimator returning an outcome value and a cost distribution supplies what the decision rule consumes, so the predictor is interchangeable. In the optimization step, a chance-constrained selection over a finite candidate set bounds the probability that the cumulative cost exceeds the budget. That tail does not decompose across stages, so each strategy is scored whole. Sweeping the tolerated violation probability traces a safety-utility frontier, and distribution-free finite-sample bounds cover violation and outcome shortfall. Four of five environments, spanning clinical treatment and equipment maintenance, supply exact counterfactual ground truth; the fifth carries real outcomes from a digital-health micro-randomized trial. Across them, the rule holds the budget where a point-estimate rule overruns it, at an outcome cost the frontier makes explicit. All code is available at https://github.com/mfriendly/counterfactual-chance-selection
+
+## Metadata
+- **Published**: 2026-08-13T13:12:05Z
+- **Authors**: Minkyoung Kim, Beakcheol Jang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13209v1)

@@ -120,6 +120,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-10.md|Daily AI Intelligence Briefing — 2026-08-10]] — frontier models, local open weights, cyber capability, verifiable research, and agentic interfaces
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-11.md|Daily AI Intelligence Briefing — 2026-08-11]] — AI provenance, invisible watermarking, operational controls, and accountable generation
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-12.md|Daily AI Intelligence Briefing — 2026-08-12]] — news coverage plus 22 papers approved for daily wiki ingestion, spanning reliability, agents, alignment, deployment, architecture, and watermark security
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-13.md|Daily AI Intelligence Briefing — 2026-08-13]] — agent runtime safety, Copilot consolidation, licensed assistant data, modular harnesses, adaptive cybersecurity, and AI creative workflows
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-22.md|Summary: 2026-07-22 Daily AI Intelligence Summary]] — infrastructure, safety, and wearables
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-21.md|Summary: 2026-07-21 Daily AI Intelligence Summary]] — paper-heavy daily synthesis focused on diffusion, agents, and evaluation
@@ -2138,3 +2139,10 @@ tags: ['wiki']
 - [[2026-08-13_OpenAIislosingitssecondexecutivethisweek.md]] : OpenAI is losing its second executive this week
 - [[2026-08-13_Databrickswantedtoraise_1B_investorswanted_15B_Its.md]] : Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.
 - [[2026-08-13_WriterintroducesnewAImodelandupgradedharnesstocont.md]] : Writer introduces new AI model and upgraded harness to contain token costs
+- [[2026-08-14_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-14_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
+- [[2026-08-14_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-14_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[2026-08-14_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-14_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-14_WriterintroducesnewAImodelandupgradedharnesstocont.md]] : Writer introduces new AI model and upgraded harness to contain token costs

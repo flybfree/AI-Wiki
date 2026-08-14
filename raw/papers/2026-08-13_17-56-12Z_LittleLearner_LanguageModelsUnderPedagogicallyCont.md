@@ -1,0 +1,18 @@
+---
+title: LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure
+published: 2026-08-13T17:56:12Z
+authors: Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel
+url: http://arxiv.org/abs/2608.13545v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# LittleLearner: Language Models Under Pedagogically Controlled Knowledge Exposure
+
+## Abstract
+Modern language models are trained on heterogeneous web-scale text corpora. Consequently, studying knowledge and skill acquisition is difficult, as prior exposure to related content is hard to characterize. To address this challenge, we introduce LITTLECURRICULUM, a curated 88B-token pretraining corpus tailored to U.S. elementary school material, explicitly excluding concepts, facts, and vocabulary taught above Grade 5. Training a 5B-parameter LLM from scratch on LITTLECURRICULUM yields LITTLELEARNER, a model with sufficient language competence for open-ended evaluation, yet with clear knowledge and capability boundaries mapped to interpretable curriculum guidelines. We release LITTLECURRICULUM and LITTLELEARNER as a developmentally restricted sandbox to study how models acquire, represent, and use data under a well-defined training scope. We illustrate the sandbox's utility in a first suite of experiments on injecting new knowledge through post-training and in-context learning. These methods let LITTLELEARNER better utilize existing knowledge, but do not raise out-of-scope capabilities. Our findings underscore the value of this controlled environment for future investigations.
+
+## Metadata
+- **Published**: 2026-08-13T17:56:12Z
+- **Authors**: Fanfei Li, Jana Zeller, Manuel Prada-Corral, Thaddäus Wiedemer, Prasanna Mayilvahanan, Ryan Cotterell, Wieland Brendel
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13545v1)
