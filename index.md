@@ -2146,3 +2146,5 @@ tags: ['wiki']
 - [[2026-08-14_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-14_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-14_WriterintroducesnewAImodelandupgradedharnesstocont.md]] : Writer introduces new AI model and upgraded harness to contain token costs
+- [[2026-08-14_GLM-5_3_FrontierCodingwithEmergentCyberCapabilitie.md]] : GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
+- [[2026-08-14_GLM-5_3_Frontiercodingwithemergentcybercapabilitie.md]] : GLM-5.3: Frontier coding with emergent cyber capabilities

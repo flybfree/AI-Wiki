@@ -8244,3 +8244,5 @@ tags: ['wiki']
 ## [2026-08-14 00:14] ingest | 2026-08-14_ASafePathtoOpenWeights.md
 ## [2026-08-14 00:14] ingest | 2026-08-14_IntroducingClaudeOpus5.md
 ## [2026-08-14 00:14] ingest | 2026-08-14_WriterintroducesnewAImodelandupgradedharnesstocont.md
+## [2026-08-14 01:12] ingest | 2026-08-14_GLM-5_3_FrontierCodingwithEmergentCyberCapabilitie.md
+## [2026-08-14 03:08] ingest | 2026-08-14_GLM-5_3_Frontiercodingwithemergentcybercapabilitie.md
