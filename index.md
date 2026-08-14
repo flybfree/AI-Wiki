@@ -2148,3 +2148,7 @@ tags: ['wiki']
 - [[2026-08-14_WriterintroducesnewAImodelandupgradedharnesstocont.md]] : Writer introduces new AI model and upgraded harness to contain token costs
 - [[2026-08-14_GLM-5_3_FrontierCodingwithEmergentCyberCapabilitie.md]] : GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
 - [[2026-08-14_GLM-5_3_Frontiercodingwithemergentcybercapabilitie.md]] : GLM-5.3: Frontier coding with emergent cyber capabilities
+- [[2026-08-14_KogisgoingdeepertosqueezemoreinferenceoutofGPUs.md]] : Kog is going deeper to squeeze more inference out of GPUs
+- [[2026-08-14_DoesMarkZuckerbergreallybelieveAIis_foreveryone__.md]] : Does Mark Zuckerberg really believe AI is ‘for everyone’?
+- [[2026-08-14_Googlewillnowallowuserstoremovevisiblewatermarkfro.md]] : Google will now allow users to remove visible watermark from its AI generations
+- [[2026-08-14_Qwen3_827B.md]] : Qwen 3.8 27B

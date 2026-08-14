@@ -8246,3 +8246,7 @@ tags: ['wiki']
 ## [2026-08-14 00:14] ingest | 2026-08-14_WriterintroducesnewAImodelandupgradedharnesstocont.md
 ## [2026-08-14 01:12] ingest | 2026-08-14_GLM-5_3_FrontierCodingwithEmergentCyberCapabilitie.md
 ## [2026-08-14 03:08] ingest | 2026-08-14_GLM-5_3_Frontiercodingwithemergentcybercapabilitie.md
+## [2026-08-14 10:08] ingest | 2026-08-14_KogisgoingdeepertosqueezemoreinferenceoutofGPUs.md
+## [2026-08-14 11:08] ingest | 2026-08-14_DoesMarkZuckerbergreallybelieveAIis_foreveryone__.md
+## [2026-08-14 12:16] ingest | 2026-08-14_Googlewillnowallowuserstoremovevisiblewatermarkfro.md
+## [2026-08-14 12:16] ingest | 2026-08-14_Qwen3_827B.md
