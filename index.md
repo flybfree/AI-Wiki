@@ -2166,3 +2166,8 @@ tags: ['wiki']
 - [[2026-08-15_Auto-researchwithcodex_HowIachieveda232xFasterKern.md]] : Auto-research with codex: How I achieved a 232x Faster Kernel
 - [[2026-08-15_TheFirstAt-HomeTestforInfectedTicksCouldImproveLym.md]] : The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis
 - [[2026-08-15_SpaceXofficiallyclosesitsCursoracquisition.md]] : SpaceX officially closes its Cursor acquisition
+- [[2026-08-15_Semaglutidelinkedto26_lower5-yearpredicteddementia.md]] : Semaglutide linked to 26% lower 5-year predicted dementia risk
+- [[2026-08-15_AnthropicsharesmoredetailsabouthowClaude_snewwater.md]] : Anthropic shares more details about how Claude’s new watermarks will work
+- [[2026-08-15_Semaglutidelinkedtolowerpredicteddementiarisk.md]] : Semaglutide linked to lower predicted dementia risk
+- [[2026-08-15_WomanclaimsherstepfatherusedGroktotransformchildho.md]] : Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
+- [[2026-08-15_AbdominalfatpredictsheartdiseaseriskbetterthanBMI.md]] : Abdominal fat predicts heart disease risk better than BMI
