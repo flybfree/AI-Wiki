@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.13558v1](https://arxiv.org/abs/2608.13558v1)
+
 # Summary: 2026-08-13_17-59-52Z_OmniScientist_AnOmni_ModalOmni_DisciplineAIScienti.md
 Saved: 2026-08-13 23:04
 Source: 2026-08-13_17-59-52Z_OmniScientist_AnOmni_ModalOmni_DisciplineAIScienti.md

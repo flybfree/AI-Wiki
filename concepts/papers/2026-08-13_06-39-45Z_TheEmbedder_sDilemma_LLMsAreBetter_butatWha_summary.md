@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12875v1](https://arxiv.org/abs/2608.12875v1)
+
 # Summary: 2026-08-13_06-39-45Z_TheEmbedder_sDilemma_LLMsAreBetter_butatWhatCost.md
 Saved: 2026-08-13 21:39
 Source: 2026-08-13_06-39-45Z_TheEmbedder_sDilemma_LLMsAreBetter_butatWhatCost.md

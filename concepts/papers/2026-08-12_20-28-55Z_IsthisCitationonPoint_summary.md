@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12571v1](https://arxiv.org/abs/2608.12571v1)
+
 # Summary: 2026-08-12_20-28-55Z_IsthisCitationonPoint.md
 Saved: 2026-08-13 22:26
 Source: 2026-08-12_20-28-55Z_IsthisCitationonPoint.md

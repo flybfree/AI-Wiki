@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12761v1](https://arxiv.org/abs/2608.12761v1)
+
 # Summary: 2026-08-13_03-12-13Z_CorrectIsNotGoverned_ProvenanceIntegrityinAgenticW.md
 Saved: 2026-08-13 22:36
 Source: 2026-08-13_03-12-13Z_CorrectIsNotGoverned_ProvenanceIntegrityinAgenticW.md

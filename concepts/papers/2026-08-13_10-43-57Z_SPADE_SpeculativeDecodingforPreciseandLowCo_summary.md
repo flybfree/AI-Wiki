@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.13076v1](https://arxiv.org/abs/2608.13076v1)
+
 # Summary: 2026-08-13_10-43-57Z_SPADE_SpeculativeDecodingforPreciseandLowCostDistr.md
 Saved: 2026-08-13 20:18
 Source: 2026-08-13_10-43-57Z_SPADE_SpeculativeDecodingforPreciseandLowCostDistr.md

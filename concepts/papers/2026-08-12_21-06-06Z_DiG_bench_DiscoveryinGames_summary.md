@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12593v1](https://arxiv.org/abs/2608.12593v1)
+
 # Summary: 2026-08-12_21-06-06Z_DiG_bench_DiscoveryinGames.md
 Saved: 2026-08-13 21:31
 Source: 2026-08-12_21-06-06Z_DiG_bench_DiscoveryinGames.md

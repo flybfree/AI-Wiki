@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12610v1](https://arxiv.org/abs/2608.12610v1)
+
 # Summary: 2026-08-12_21-49-00Z_skills_Attentionisallyouhave.md
 Saved: 2026-08-13 22:27
 Source: 2026-08-12_21-49-00Z_skills_Attentionisallyouhave.md

@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12713v1](https://arxiv.org/abs/2608.12713v1)
+
 # Summary: 2026-08-13_01-55-16Z_TracingProvenanceandDetectingTamperingwithCompleme.md
 Saved: 2026-08-13 22:36
 Source: 2026-08-13_01-55-16Z_TracingProvenanceandDetectingTamperingwithCompleme.md

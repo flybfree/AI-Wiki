@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12426v1](https://arxiv.org/abs/2608.12426v1)
+
 # Summary: 2026-08-12_10-57-06Z_LargeLanguageModelsCanFollowInstructions_ButNotMan.md
 Saved: 2026-08-13 22:21
 Source: 2026-08-12_10-57-06Z_LargeLanguageModelsCanFollowInstructions_ButNotMan.md

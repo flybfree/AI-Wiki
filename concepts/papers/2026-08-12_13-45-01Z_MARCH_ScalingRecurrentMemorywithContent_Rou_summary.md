@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12435v1](https://arxiv.org/abs/2608.12435v1)
+
 # Summary: 2026-08-12_13-45-01Z_MARCH_ScalingRecurrentMemorywithContent_RoutedStat.md
 Saved: 2026-08-13 22:24
 Source: 2026-08-12_13-45-01Z_MARCH_ScalingRecurrentMemorywithContent_RoutedStat.md

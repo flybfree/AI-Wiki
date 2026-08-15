@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12675v1](https://arxiv.org/abs/2608.12675v1)
+
 # Summary: 2026-08-13_00-23-56Z_Privacy_PreservingRAGbyConcealingSensitiveInformat.md
 Saved: 2026-08-13 22:32
 Source: 2026-08-13_00-23-56Z_Privacy_PreservingRAGbyConcealingSensitiveInformat.md

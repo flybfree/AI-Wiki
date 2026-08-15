@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12626v1](https://arxiv.org/abs/2608.12626v1)
+
 # Summary: 2026-08-12_22-17-24Z_LLMsAreNotGoodStrategists_YetMemory_EnhancedAgency.md
 Saved: 2026-08-13 22:30
 Source: 2026-08-12_22-17-24Z_LLMsAreNotGoodStrategists_YetMemory_EnhancedAgency.md

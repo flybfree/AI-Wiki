@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12486v1](https://arxiv.org/abs/2608.12486v1)
+
 # Summary: 2026-08-12_18-06-41Z_DIVE_UnlockingSelf_ImprovementinFrozenLanguageMode.md
 Saved: 2026-08-13 22:25
 Source: 2026-08-12_18-06-41Z_DIVE_UnlockingSelf_ImprovementinFrozenLanguageMode.md

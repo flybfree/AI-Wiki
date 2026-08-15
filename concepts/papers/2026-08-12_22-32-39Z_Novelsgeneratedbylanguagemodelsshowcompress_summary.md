@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12630v1](https://arxiv.org/abs/2608.12630v1)
+
 # Summary: 2026-08-12_22-32-39Z_Novelsgeneratedbylanguagemodelsshowcompressedforma.md
 Saved: 2026-08-13 22:31
 Source: 2026-08-12_22-32-39Z_Novelsgeneratedbylanguagemodelsshowcompressedforma.md

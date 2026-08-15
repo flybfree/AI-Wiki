@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12888v1](https://arxiv.org/abs/2608.12888v1)
+
 # Summary: 2026-08-13_07-10-22Z_WhenYourAgentOpenstheChatApp_Agent_ControlledSearc.md
 Saved: 2026-08-13 22:41
 Source: 2026-08-13_07-10-22Z_WhenYourAgentOpenstheChatApp_Agent_ControlledSearc.md

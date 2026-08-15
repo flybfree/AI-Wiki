@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12679v1](https://arxiv.org/abs/2608.12679v1)
+
 # Summary: 2026-08-13_00-30-04Z_BeyondtheBestGuess_ImprovingLLMSolutionCoveragewit.md
 Saved: 2026-08-13 21:31
 Source: 2026-08-13_00-30-04Z_BeyondtheBestGuess_ImprovingLLMSolutionCoveragewit.md

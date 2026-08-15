@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.13136v1](https://arxiv.org/abs/2608.13136v1)
+
 # Summary: 2026-08-13_12-11-23Z_LigBench_AUnifiedandHuman_AlignedBenchmarkforLLM_b.md
 Saved: 2026-08-13 21:43
 Source: 2026-08-13_12-11-23Z_LigBench_AUnifiedandHuman_AlignedBenchmarkforLLM_b.md

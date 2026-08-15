@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.13168v1](https://arxiv.org/abs/2608.13168v1)
+
 # Summary: 2026-08-13_12-32-33Z_WhichLLMIsYourIdealCompanion_EvaluatingEmotionalCo.md
 Saved: 2026-08-13 21:44
 Source: 2026-08-13_12-32-33Z_WhichLLMIsYourIdealCompanion_EvaluatingEmotionalCo.md

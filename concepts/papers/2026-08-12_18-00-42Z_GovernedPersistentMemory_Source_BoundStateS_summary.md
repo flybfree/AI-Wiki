@@ -1,3 +1,5 @@
+**Original paper:** [https://arxiv.org/abs/2608.12476v1](https://arxiv.org/abs/2608.12476v1)
+
 # Summary: 2026-08-12_18-00-42Z_GovernedPersistentMemory_Source_BoundStateSemantic.md
 Saved: 2026-08-13 22:25
 Source: 2026-08-12_18-00-42Z_GovernedPersistentMemory_Source_BoundStateSemantic.md

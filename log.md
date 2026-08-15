@@ -11,6 +11,7 @@ tags: ['wiki']
 ## [2026-08-12 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-12.md created for Lumistorm Daily AI Briefing
 ## [2026-08-13 00:00] update | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-12.md expanded with 22 papers approved through daily wiki ingestion, alongside existing news coverage
 ## [2026-08-13 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-13.md created with current AI news and 30 newly carried-forward approved papers
+## [2026-08-14 22:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-14.md created with current AI news and 32 newly carried-forward approved papers
 ## [2026-08-12 00:00] ingest | concepts/frameworks/unsloth.md added from https://github.com/unslothai/unsloth; linked from training hub and navigation indexes
 ## [2026-08-10 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-10.md drafted for Lumistorm Daily AI Briefing
 ## [2026-08-11 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-11.md updated with Anthropic invisible-watermark coverage and MSN source
@@ -8250,3 +8251,12 @@ tags: ['wiki']
 ## [2026-08-14 11:08] ingest | 2026-08-14_DoesMarkZuckerbergreallybelieveAIis_foreveryone__.md
 ## [2026-08-14 12:16] ingest | 2026-08-14_Googlewillnowallowuserstoremovevisiblewatermarkfro.md
 ## [2026-08-14 12:16] ingest | 2026-08-14_Qwen3_827B.md
+## [2026-08-14 21:01] ingest | 2026-08-14_Magnitude7_7Earthquake_68kmNNWofEnde_Indonesia.md
+## [2026-08-15 00:08] ingest | 2026-08-15_IntroducingInkling-Small.md
+## [2026-08-15 00:08] ingest | 2026-08-15_IntroducingClaudeOpus5.md
+## [2026-08-15 00:08] ingest | 2026-08-15_ASafePathtoOpenWeights.md
+## [2026-08-15 00:08] ingest | 2026-08-15_Googlewillnowallowuserstoremovevisiblewatermarkfro.md
+## [2026-08-15 00:08] ingest | 2026-08-15_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md
+## [2026-08-15 00:08] ingest | 2026-08-15_Thebuilder_sguidetoGPT_5_6.md
+## [2026-08-15 00:08] ingest | 2026-08-15_Googlejustredesignedthesearchboxforthefirsttimein2.md
+## [2026-08-15 00:08] ingest | 2026-08-15_Magnitude7_7Earthquake_68kmNNWofEnde_Indonesia.md
