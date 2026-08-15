@@ -2162,3 +2162,4 @@ tags: ['wiki']
 - [[2026-08-15_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
 - [[2026-08-15_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-08-15_Magnitude7_7Earthquake_68kmNNWofEnde_Indonesia.md]] : Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
+- [[2026-08-15_Qwen3_827B.md]] : Qwen 3.8 27B
