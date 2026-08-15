@@ -2163,3 +2163,6 @@ tags: ['wiki']
 - [[2026-08-15_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-08-15_Magnitude7_7Earthquake_68kmNNWofEnde_Indonesia.md]] : Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
 - [[2026-08-15_Qwen3_827B.md]] : Qwen 3.8 27B
+- [[2026-08-15_Auto-researchwithcodex_HowIachieveda232xFasterKern.md]] : Auto-research with codex: How I achieved a 232x Faster Kernel
+- [[2026-08-15_TheFirstAt-HomeTestforInfectedTicksCouldImproveLym.md]] : The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis
+- [[2026-08-15_SpaceXofficiallyclosesitsCursoracquisition.md]] : SpaceX officially closes its Cursor acquisition

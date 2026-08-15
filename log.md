@@ -8261,3 +8261,6 @@ tags: ['wiki']
 ## [2026-08-15 00:08] ingest | 2026-08-15_Googlejustredesignedthesearchboxforthefirsttimein2.md
 ## [2026-08-15 00:08] ingest | 2026-08-15_Magnitude7_7Earthquake_68kmNNWofEnde_Indonesia.md
 ## [2026-08-15 01:08] ingest | 2026-08-15_Qwen3_827B.md
+## [2026-08-15 08:07] ingest | 2026-08-15_Auto-researchwithcodex_HowIachieveda232xFasterKern.md
+## [2026-08-15 11:07] ingest | 2026-08-15_TheFirstAt-HomeTestforInfectedTicksCouldImproveLym.md
+## [2026-08-15 12:07] ingest | 2026-08-15_SpaceXofficiallyclosesitsCursoracquisition.md
