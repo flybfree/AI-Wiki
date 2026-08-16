@@ -2188,3 +2188,7 @@ tags: ['wiki']
 - [[2026-08-16_RogueAIaren_tsciencefictionanymore.md]] : Rogue AI aren’t science fiction anymore
 - [[2026-08-16_Claude_SystemPrompts.md]] : Claude: System Prompts
 - [[2026-08-16_ChatGPT_sComputerHistorytracksyourclicksandkeystro.md]] : ChatGPT’s Computer History tracks your clicks and keystrokes
+- [[2026-08-16_ModelsAreGettingDumberonPurpose.md]] : Models Are Getting Dumber on Purpose
+- [[2026-08-16_StripewillreportedlyacquireAIgatewaystartupOpenRou.md]] : Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
+- [[2026-08-16_TheCaseAgainstFormalVerification_50YearsLater.md]] : The Case Against Formal Verification, 50 Years Later
+- [[2026-08-16_OpenAIreportedlydisbandeditspreparednessteam.md]] : OpenAI reportedly disbanded its preparedness team
