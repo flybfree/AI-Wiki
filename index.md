@@ -2171,3 +2171,15 @@ tags: ['wiki']
 - [[2026-08-15_Semaglutidelinkedtolowerpredicteddementiarisk.md]] : Semaglutide linked to lower predicted dementia risk
 - [[2026-08-15_WomanclaimsherstepfatherusedGroktotransformchildho.md]] : Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
 - [[2026-08-15_AbdominalfatpredictsheartdiseaseriskbetterthanBMI.md]] : Abdominal fat predicts heart disease risk better than BMI
+- [[2026-08-15_HavealaughatAI_sexpensebyroleplayingasachatbot.md]] : Have a laugh at AI’s expense by roleplaying as a chatbot
+- [[2026-08-15_Engineerswilldoanythingtoavoidlearningfromhistory.md]] : Engineers will do anything to avoid learning from history
+- [[2026-08-15_AsusBikeBooster.md]] : Asus Bike Booster
+- [[2026-08-16_WomanclaimsherstepfatherusedGroktotransformchildho.md]] : Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
+- [[2026-08-16_HavealaughatAI_sexpensebyroleplayingasachatbot.md]] : Have a laugh at AI’s expense by roleplaying as a chatbot
+- [[2026-08-16_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-16_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[2026-08-16_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-16_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-16_AsusBikeBooster.md]] : Asus Bike Booster
+- [[2026-08-16_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-16_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
