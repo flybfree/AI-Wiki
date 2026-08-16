@@ -2183,3 +2183,4 @@ tags: ['wiki']
 - [[2026-08-16_AsusBikeBooster.md]] : Asus Bike Booster
 - [[2026-08-16_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-16_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
+- [[2026-08-16_WhathappenswhenanLLMneverseesmaterialbeyondfifthgr.md]] : What happens when an LLM never sees material beyond fifth grade?

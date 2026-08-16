@@ -8281,3 +8281,4 @@ tags: ['wiki']
 ## [2026-08-16 00:06] ingest | 2026-08-16_AsusBikeBooster.md
 ## [2026-08-16 00:06] ingest | 2026-08-16_IntroducingInkling-Small.md
 ## [2026-08-16 00:06] ingest | 2026-08-16_Thebuilder_sguidetoGPT_5_6.md
+## [2026-08-16 03:06] ingest | 2026-08-16_WhathappenswhenanLLMneverseesmaterialbeyondfifthgr.md
