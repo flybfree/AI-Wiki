@@ -2184,3 +2184,7 @@ tags: ['wiki']
 - [[2026-08-16_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-16_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
 - [[2026-08-16_WhathappenswhenanLLMneverseesmaterialbeyondfifthgr.md]] : What happens when an LLM never sees material beyond fifth grade?
+- [[2026-08-16_Leaveyourscreenunlocked_meetdeveloperspaypal_com.md]] : Leave your screen unlocked, meet developers paypal.com
+- [[2026-08-16_RogueAIaren_tsciencefictionanymore.md]] : Rogue AI aren’t science fiction anymore
+- [[2026-08-16_Claude_SystemPrompts.md]] : Claude: System Prompts
+- [[2026-08-16_ChatGPT_sComputerHistorytracksyourclicksandkeystro.md]] : ChatGPT’s Computer History tracks your clicks and keystrokes

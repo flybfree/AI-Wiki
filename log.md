@@ -8282,3 +8282,7 @@ tags: ['wiki']
 ## [2026-08-16 00:06] ingest | 2026-08-16_IntroducingInkling-Small.md
 ## [2026-08-16 00:06] ingest | 2026-08-16_Thebuilder_sguidetoGPT_5_6.md
 ## [2026-08-16 03:06] ingest | 2026-08-16_WhathappenswhenanLLMneverseesmaterialbeyondfifthgr.md
+## [2026-08-16 08:06] ingest | 2026-08-16_Leaveyourscreenunlocked_meetdeveloperspaypal_com.md
+## [2026-08-16 08:06] ingest | 2026-08-16_RogueAIaren_tsciencefictionanymore.md
+## [2026-08-16 09:06] ingest | 2026-08-16_Claude_SystemPrompts.md
+## [2026-08-16 10:06] ingest | 2026-08-16_ChatGPT_sComputerHistorytracksyourclicksandkeystro.md
