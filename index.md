@@ -2209,3 +2209,8 @@ tags: ['wiki']
 - [[2026-08-17_TheDefender_sWindow.md]] : The Defender’s Window
 - [[2026-08-17_Wisprraises_280Mat_2Bvaluationasitlooksbeyonddicta.md]] : Wispr raises $280M at $2B valuation as it looks beyond dictation
 - [[2026-08-17_APreviewofDuckDBv2_0.md]] : A Preview of DuckDB v2.0
+- [[2026-08-17_Qwen3_827Bscores52onArtificialAnalysis.md]] : Qwen3.8 27B scores 52 on Artificial Analysis
+- [[2026-08-17_AI_DR_AI_Didn_tRead_.md]] : AI;DR (AI; Didn't Read)
+- [[2026-08-17_GPUOffloadinRust_Portable_Safe_andFast.md]] : GPU Offload in Rust: Portable, Safe, and Fast
+- [[2026-08-17_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[2026-08-17_AIautomationstartupRelayshutsdown_staffjoinsGoogle.md]] : AI automation startup Relay shuts down, staff joins Google’s Chrome team
