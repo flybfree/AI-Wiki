@@ -2206,3 +2206,6 @@ tags: ['wiki']
 - [[2026-08-17_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md]] : Qwen 3.8 27B is excellent, but it defaults to overthinking things
 - [[2026-08-17_NewpolicyideasfortheIntelligenceAge.md]] : New policy ideas for the Intelligence Age
 - [[2026-08-17_AnthropicexplainshowClaude__8217_sinvisibletextwat.md]] : Anthropic explains how Claude&#8217;s invisible text watermarks will work
+- [[2026-08-17_TheDefender_sWindow.md]] : The Defender’s Window
+- [[2026-08-17_Wisprraises_280Mat_2Bvaluationasitlooksbeyonddicta.md]] : Wispr raises $280M at $2B valuation as it looks beyond dictation
+- [[2026-08-17_APreviewofDuckDBv2_0.md]] : A Preview of DuckDB v2.0

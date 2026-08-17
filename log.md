@@ -8547,3 +8547,6 @@ tags: ['wiki']
 ## [2026-08-17 00:05] ingest | 2026-08-17_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md
 ## [2026-08-17 06:05] ingest | 2026-08-17_NewpolicyideasfortheIntelligenceAge.md
 ## [2026-08-17 06:05] ingest | 2026-08-17_AnthropicexplainshowClaude__8217_sinvisibletextwat.md
+## [2026-08-17 08:05] ingest | 2026-08-17_TheDefender_sWindow.md
+## [2026-08-17 09:05] ingest | 2026-08-17_Wisprraises_280Mat_2Bvaluationasitlooksbeyonddicta.md
+## [2026-08-17 11:05] ingest | 2026-08-17_APreviewofDuckDBv2_0.md
