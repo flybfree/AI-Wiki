@@ -152,7 +152,7 @@ The 21 papers retained in the completed curation pass are grouped above and link
 - [Relay shutdown and Google Chrome move](https://techcrunch.com/2026/08/17/ai-automation-startup-relay-shuts-down-staff-joins-googles-chrome-team/)
 - [Wispr funding and expansion](https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/)
 - [Google Search redesign](https://venturebeat.com/technology/google-just-redesigned-the-search-box-for-the-first-time-in-25-years-heres-why-it-matters-more-than-you-think)
-- [GPU Offload in Rust](https://arxiv.org/abs/2608.13759)
+- [GPU Offload in Rust](https://github.com/flybfree/AI-Wiki/blob/master/entities/article/2026-08-17_GPUOffloadinRust_Portable_Safe_andFast_summary.md)
 - [PhotoScan cardiometabolic risk estimation](https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery/)
 
 ## CTA

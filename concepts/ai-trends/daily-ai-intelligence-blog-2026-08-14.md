@@ -34,10 +34,10 @@ This is not simply an open-versus-closed contest. Closed providers optimize for 
 **Why it matters:** coding agents are moving toward the same risk profile as other operational agents. Permissions, sandboxes, provenance, rollback, and trajectory evaluation need to be part of the product—not post-hoc add-ons.
 
 - [GLM-5.3: Frontier Coding with Emergent Cyber Capabilities](https://z.ai/blog/glm-5.3)
-- [Vero: formally verified software repositories](https://arxiv.org/abs/2608.13522v1)
-- [Practice Makes Unsafe](https://arxiv.org/abs/2608.12851v1)
-- [Beyond Handcrafted Security](https://arxiv.org/abs/2608.12977v1)
-- [Correct Is Not Governed](https://arxiv.org/abs/2608.12761v1)
+- [Vero: formally verified software repositories](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_17-41-27Z_Vero_CanAIAgentsBuildFormallyVerifiedSoftwa_summary.md)
+- [Practice Makes Unsafe](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_05-47-43Z_PracticeMakesUnsafe_SkillMisevolutioninSelf_summary.md)
+- [Beyond Handcrafted Security](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_08-57-04Z_BeyondHandcraftedSecurity_TowardsSelf_Evolv_summary.md)
+- [Correct Is Not Governed](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_03-12-13Z_CorrectIsNotGoverned_ProvenanceIntegrityinA_summary.md)
 
 ### 3. Retrieval, memory, and provenance are the new reliability stack
 
@@ -50,9 +50,9 @@ The provenance papers make the trust boundary explicit: [Tracing Provenance](../
 **Why it matters:** the dependable agent stack is increasingly retrieval + memory + evidence + policy. Model quality is necessary, but it is not sufficient.
 
 - [Google: Recall is the bottleneck for parametric factuality](https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality/)
-- [LoKiFormer](https://arxiv.org/abs/2608.12419v1) · [MARCH](https://arxiv.org/abs/2608.12435v1) · [MindMemOS](https://arxiv.org/abs/2608.12428v1)
-- [Governed Persistent Memory](https://arxiv.org/abs/2608.12476v1) · [Citation correctness](https://arxiv.org/abs/2608.12571v1)
-- [Tracing provenance](https://arxiv.org/abs/2608.12713v1) · [Privacy-preserving RAG](https://arxiv.org/abs/2608.12675v1)
+- [LoKiFormer](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_07-45-11Z_LoKiFormer_Locality_awareAttentionwithDecou_summary.md) · [MARCH](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_13-45-01Z_MARCH_ScalingRecurrentMemorywithContent_Rou_summary.md) · [MindMemOS](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_11-29-49Z_MindMemOS_APortableandSelf_EvolvingMemoryOp_summary.md)
+- [Governed Persistent Memory](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_18-00-42Z_GovernedPersistentMemory_Source_BoundStateS_summary.md) · [Citation correctness](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_20-28-55Z_IsthisCitationonPoint_summary.md)
+- [Tracing provenance](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_01-55-16Z_TracingProvenanceandDetectingTamperingwithC_summary.md) · [Privacy-preserving RAG](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_00-23-56Z_Privacy_PreservingRAGbyConcealingSensitiveI_summary.md)
 
 ### 4. Evaluation is moving from answer quality to behavior quality
 
@@ -102,44 +102,44 @@ These 32 papers were approved in the curation queue on 2026-08-14 and were not l
 
 ### Memory, retrieval, provenance, and reliability
 
-- [SPADE — Speculative Decoding for Precise and Low-Cost Distribution](https://arxiv.org/abs/2608.13076v1)
-- [LoKiFormer — Locality-Aware Attention with Decoupled Knowledge](https://arxiv.org/abs/2608.12419v1)
-- [MindMemOS — Portable and Self-Evolving Memory](https://arxiv.org/abs/2608.12428v1)
-- [MARCH — Scaling Recurrent Memory with Content-Routed State](https://arxiv.org/abs/2608.12435v1)
-- [Governed Persistent Memory](https://arxiv.org/abs/2608.12476v1)
-- [Is This Citation on Point?](https://arxiv.org/abs/2608.12571v1)
-- [LLMs Are Not Good Strategists Yet](https://arxiv.org/abs/2608.12626v1)
-- [Privacy-Preserving RAG](https://arxiv.org/abs/2608.12675v1)
-- [Beyond the Best Guess](https://arxiv.org/abs/2608.12679v1)
-- [Tracing Provenance and Detecting Tampering](https://arxiv.org/abs/2608.12713v1)
-- [Correct Is Not Governed](https://arxiv.org/abs/2608.12761v1)
-- [ReflectFact](https://arxiv.org/abs/2608.12877v1)
+- [SPADE — Speculative Decoding for Precise and Low-Cost Distribution](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_10-43-57Z_SPADE_SpeculativeDecodingforPreciseandLowCo_summary.md)
+- [LoKiFormer — Locality-Aware Attention with Decoupled Knowledge](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_07-45-11Z_LoKiFormer_Locality_awareAttentionwithDecou_summary.md)
+- [MindMemOS — Portable and Self-Evolving Memory](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_11-29-49Z_MindMemOS_APortableandSelf_EvolvingMemoryOp_summary.md)
+- [MARCH — Scaling Recurrent Memory with Content-Routed State](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_13-45-01Z_MARCH_ScalingRecurrentMemorywithContent_Rou_summary.md)
+- [Governed Persistent Memory](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_18-00-42Z_GovernedPersistentMemory_Source_BoundStateS_summary.md)
+- [Is This Citation on Point?](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_20-28-55Z_IsthisCitationonPoint_summary.md)
+- [LLMs Are Not Good Strategists Yet](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_22-17-24Z_LLMsAreNotGoodStrategists_YetMemory_Enhance_summary.md)
+- [Privacy-Preserving RAG](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_00-23-56Z_Privacy_PreservingRAGbyConcealingSensitiveI_summary.md)
+- [Beyond the Best Guess](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_00-30-04Z_BeyondtheBestGuess_ImprovingLLMSolutionCove_summary.md)
+- [Tracing Provenance and Detecting Tampering](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_01-55-16Z_TracingProvenanceandDetectingTamperingwithC_summary.md)
+- [Correct Is Not Governed](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_03-12-13Z_CorrectIsNotGoverned_ProvenanceIntegrityinA_summary.md)
+- [ReflectFact](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_06-41-56Z_ReflectFact_Self_ReflectiveAgentsforImprovi_summary.md)
 
 ### Agents, skills, safety, and verification
 
-- [Large Language Models Can Follow Instructions, But Not Manage](https://arxiv.org/abs/2608.12426v1)
-- [DIVE — Self-Improvement in Frozen Language Models](https://arxiv.org/abs/2608.12486v1)
+- [Large Language Models Can Follow Instructions, But Not Manage](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_10-57-06Z_LargeLanguageModelsCanFollowInstructions_Bu_summary.md)
+- [DIVE — Self-Improvement in Frozen Language Models](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_18-06-41Z_DIVE_UnlockingSelf_ImprovementinFrozenLangu_summary.md)
 - [@skills — Attention Is All You Have](https://atskills.one)
-- [DiG-bench — Discovery in Games](https://arxiv.org/abs/2608.12593v1)
-- [CAKE — Compiler–Agent Co-Design](https://arxiv.org/abs/2608.12629v1)
-- [SteerBench-Work](https://arxiv.org/abs/2608.12654v1)
-- [Practice Makes Unsafe](https://arxiv.org/abs/2608.12851v1)
-- [When Your Agent Opens the Chat App](https://arxiv.org/abs/2608.12888v1)
-- [Beyond Handcrafted Security](https://arxiv.org/abs/2608.12977v1)
-- [Vero — Formally Verified Software Repositories](https://arxiv.org/abs/2608.13522v1)
-- [DARTree — Speculative Diffusion Decoding](https://arxiv.org/abs/2608.13524v1)
-- [OmniScientist](https://arxiv.org/abs/2608.13558v1)
+- [DiG-bench — Discovery in Games](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_21-06-06Z_DiG_bench_DiscoveryinGames_summary.md)
+- [CAKE — Compiler–Agent Co-Design](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_22-31-32Z_CAKE_Compiler_AgentCo_DesignforFrontierKern_summary.md)
+- [SteerBench-Work](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_23-34-17Z_SteerBench_Work_ABenchmarkforAgentSteeringa_summary.md)
+- [Practice Makes Unsafe](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_05-47-43Z_PracticeMakesUnsafe_SkillMisevolutioninSelf_summary.md)
+- [When Your Agent Opens the Chat App](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_07-10-22Z_WhenYourAgentOpenstheChatApp_Agent_Controll_summary.md)
+- [Beyond Handcrafted Security](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_08-57-04Z_BeyondHandcraftedSecurity_TowardsSelf_Evolv_summary.md)
+- [Vero — Formally Verified Software Repositories](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_17-41-27Z_Vero_CanAIAgentsBuildFormallyVerifiedSoftwa_summary.md)
+- [DARTree — Speculative Diffusion Decoding](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_17-43-44Z_DARTree_SpeculativeDiffusionDecodingwithAut_summary.md)
+- [OmniScientist](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_17-59-52Z_OmniScientist_AnOmni_ModalOmni_DisciplineAI_summary.md)
 
 ### Models, alignment, evaluation, and generation
 
-- [Novels Generated by Language Models Show Compressed Form](https://arxiv.org/abs/2608.12630v1)
-- [The Embedder’s Dilemma](https://arxiv.org/abs/2608.12875v1)
-- [SPARED — Reasoning-Based AI-Generated Image Detection](https://arxiv.org/abs/2608.12876v1)
-- [Behavioral Reprogramming of Open-Weights Models](https://arxiv.org/abs/2608.13069v1)
-- [Numeracy in Large Language Models](https://arxiv.org/abs/2608.13129v1)
-- [LigBench](https://arxiv.org/abs/2608.13136v1)
-- [Which LLM Is Your Ideal Companion?](https://arxiv.org/abs/2608.13168v1)
-- [Synthetic Persona Pretraining](https://arxiv.org/abs/2608.13482v1)
+- [Novels Generated by Language Models Show Compressed Form](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-12_22-32-39Z_Novelsgeneratedbylanguagemodelsshowcompress_summary.md)
+- [The Embedder’s Dilemma](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_06-39-45Z_TheEmbedder_sDilemma_LLMsAreBetter_butatWha_summary.md)
+- [SPARED — Reasoning-Based AI-Generated Image Detection](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_06-40-20Z_SPARED_Reasoning_BasedAI_GeneratedImageDete_summary.md)
+- [Behavioral Reprogramming of Open-Weights Models](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_10-33-00Z_BehavioralReprogrammingofOpen_WeightsModels_summary.md)
+- [Numeracy in Large Language Models](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_12-01-58Z_NumeracyinLargeLanguageModels_FundamentalLi_summary.md)
+- [LigBench](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_12-11-23Z_LigBench_AUnifiedandHuman_AlignedBenchmarkf_summary.md)
+- [Which LLM Is Your Ideal Companion?](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_12-32-33Z_WhichLLMIsYourIdealCompanion_EvaluatingEmot_summary.md)
+- [Synthetic Persona Pretraining](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_17-12-04Z_SyntheticPersonaPretraining_AlignmentfromTo_summary.md)
 
 ## Sources and References
 

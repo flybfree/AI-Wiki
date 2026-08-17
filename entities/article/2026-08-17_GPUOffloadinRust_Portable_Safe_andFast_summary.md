@@ -1,6 +1,7 @@
 # Summary: 2026-08-17_GPUOffloadinRust_Portable_Safe_andFast.md
 Saved: 2026-08-17 16:05
 Source: 2026-08-17_GPUOffloadinRust_Portable_Safe_andFast.md
+Original paper: [arXiv](https://arxiv.org/abs/2608.13759)
 Model: nvidia/nemotron-3-nano-4b
 
 ---
