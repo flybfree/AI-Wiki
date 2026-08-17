@@ -2204,3 +2204,5 @@ tags: ['wiki']
 - [[2026-08-17_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-17_StripewillreportedlyacquireAIgatewaystartupOpenRou.md]] : Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
 - [[2026-08-17_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md]] : Qwen 3.8 27B is excellent, but it defaults to overthinking things
+- [[2026-08-17_NewpolicyideasfortheIntelligenceAge.md]] : New policy ideas for the Intelligence Age
+- [[2026-08-17_AnthropicexplainshowClaude__8217_sinvisibletextwat.md]] : Anthropic explains how Claude&#8217;s invisible text watermarks will work

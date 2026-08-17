@@ -8545,3 +8545,5 @@ tags: ['wiki']
 ## [2026-08-17 00:05] ingest | 2026-08-17_ASafePathtoOpenWeights.md
 ## [2026-08-17 00:05] ingest | 2026-08-17_StripewillreportedlyacquireAIgatewaystartupOpenRou.md
 ## [2026-08-17 00:05] ingest | 2026-08-17_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md
+## [2026-08-17 06:05] ingest | 2026-08-17_NewpolicyideasfortheIntelligenceAge.md
+## [2026-08-17 06:05] ingest | 2026-08-17_AnthropicexplainshowClaude__8217_sinvisibletextwat.md
