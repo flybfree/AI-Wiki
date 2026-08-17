@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_03-13-54Z_AgenticTransaction_TowardsACID_CompliantAgentSyste.md
 Saved: 2026-08-16 21:36
 Source: 2026-08-14_03-13-54Z_AgenticTransaction_TowardsACID_CompliantAgentSyste.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13900v1)
 Model: None
 
 ---

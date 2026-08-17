@@ -1,6 +1,7 @@
 # Summary: 2026-08-13_19-06-37Z_TeachMateGPT_AMulti_AgentKnowledge_GroundedFramewo.md
 Saved: 2026-08-16 21:26
 Source: 2026-08-13_19-06-37Z_TeachMateGPT_AMulti_AgentKnowledge_GroundedFramewo.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13708v1)
 Model: None
 
 ---

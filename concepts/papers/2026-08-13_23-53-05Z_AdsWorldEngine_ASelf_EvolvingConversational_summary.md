@@ -1,6 +1,7 @@
 # Summary: 2026-08-13_23-53-05Z_AdsWorldEngine_ASelf_EvolvingConversationalAdverti.md
 Saved: 2026-08-16 21:32
 Source: 2026-08-13_23-53-05Z_AdsWorldEngine_ASelf_EvolvingConversationalAdverti.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13833v1)
 Model: None
 
 ---

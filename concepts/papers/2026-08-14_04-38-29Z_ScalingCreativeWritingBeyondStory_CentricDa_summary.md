@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_04-38-29Z_ScalingCreativeWritingBeyondStory_CentricDatawithA.md
 Saved: 2026-08-16 21:40
 Source: 2026-08-14_04-38-29Z_ScalingCreativeWritingBeyondStory_CentricDatawithA.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13947v1)
 Model: None
 
 ---

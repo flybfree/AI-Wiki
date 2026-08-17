@@ -1,6 +1,7 @@
 # Summary: 2026-08-13_20-34-36Z_TheIntegerAlibi_LocalizingCross_KernelDivergencein.md
 Saved: 2026-08-16 21:30
 Source: 2026-08-13_20-34-36Z_TheIntegerAlibi_LocalizingCross_KernelDivergencein.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13756v1)
 Model: None
 
 ---

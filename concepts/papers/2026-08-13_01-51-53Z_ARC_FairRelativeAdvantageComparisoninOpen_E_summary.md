@@ -1,6 +1,7 @@
 # Summary: 2026-08-13_01-51-53Z_ARC_FairRelativeAdvantageComparisoninOpen_EndedRea.md
 Saved: 2026-08-16 21:24
 Source: 2026-08-13_01-51-53Z_ARC_FairRelativeAdvantageComparisoninOpen_EndedRea.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13622v1)
 Model: None
 
 ---

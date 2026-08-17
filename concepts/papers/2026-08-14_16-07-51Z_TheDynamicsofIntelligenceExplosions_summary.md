@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_16-07-51Z_TheDynamicsofIntelligenceExplosions.md
 Saved: 2026-08-16 21:56
 Source: 2026-08-14_16-07-51Z_TheDynamicsofIntelligenceExplosions.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.14426v1)
 Model: None
 
 ---

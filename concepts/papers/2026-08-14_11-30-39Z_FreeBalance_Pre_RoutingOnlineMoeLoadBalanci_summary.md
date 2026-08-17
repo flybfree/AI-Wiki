@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_11-30-39Z_FreeBalance_Pre_RoutingOnlineMoeLoadBalancingviaRe.md
 Saved: 2026-08-16 21:49
 Source: 2026-08-14_11-30-39Z_FreeBalance_Pre_RoutingOnlineMoeLoadBalancingviaRe.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.14205v1)
 Model: None
 
 ---

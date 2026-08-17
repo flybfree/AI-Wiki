@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_07-26-38Z_DemystifyingAgentSkills_WhyTheyWork_UntilTheyDon_t.md
 Saved: 2026-08-16 21:42
 Source: 2026-08-14_07-26-38Z_DemystifyingAgentSkills_WhyTheyWork_UntilTheyDon_t.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.14036v1)
 Model: None
 
 ---

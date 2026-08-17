@@ -1,6 +1,7 @@
 # Summary: 2026-08-13_20-59-25Z_CutClean_NeuralNetworkPruningforPrivacy_Preserving.md
 Saved: 2026-08-16 21:30
 Source: 2026-08-13_20-59-25Z_CutClean_NeuralNetworkPruningforPrivacy_Preserving.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13773v1)
 Model: None
 
 ---

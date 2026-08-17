@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_00-25-24Z_FederatedPromptLearning_AUnifiedFramework_Empirica.md
 Saved: 2026-08-16 21:35
 Source: 2026-08-14_00-25-24Z_FederatedPromptLearning_AUnifiedFramework_Empirica.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13844v1)
 Model: None
 
 ---

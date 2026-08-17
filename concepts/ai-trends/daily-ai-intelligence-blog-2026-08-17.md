@@ -1,6 +1,6 @@
 # Summary: Daily AI Intelligence Briefing — 2026-08-17
 
-> Today’s briefing combines the AI news intake with 21 research papers retained during the completed curation pass. Papers already used in earlier Daily AI Briefings are not repeated here unless today’s material adds a distinct update.
+> Today’s briefing combines the AI news intake with 22 research papers retained during the completed curation pass. Papers already used in earlier Daily AI Briefings are not repeated here unless today’s material adds a distinct update.
 
 ## Executive Summary
 
@@ -18,7 +18,7 @@ The safety story is sharper than the product story. Anthropic is adding invisibl
 
 On the open-weight side, [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) uses a mixture-of-experts design with 276 billion total parameters and 12 billion active parameters, while supporting multimodal reasoning and a very large context window. [Qwen3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) is drawing attention for strong evaluation results, low deployment cost, and the ability to run on relatively modest hardware, although its default high reasoning effort can make simple tasks slower and more expensive than necessary.
 
-The research paper [From BERT to Frontier Agents](https://arxiv.org/abs/2608.13675v1) provides the longer view: capability has risen rapidly while the capability-cost curve has collapsed, and specialized agents may be more useful than a single monolithic model. The practical comparison is now model plus harness plus hardware plus workflow.
+The research paper [From BERT to Frontier Agents](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_18-16-21Z_FromBERTtoFrontierAgents_EightYearsofLangua_summary.md) provides the longer view: capability has risen rapidly while the capability-cost curve has collapsed, and specialized agents may be more useful than a single monolithic model. The practical comparison is now model plus harness plus hardware plus workflow.
 
 - [Anthropic: Claude Opus 5](https://www.anthropic.com/news/claude-opus-5)
 - [OpenAI: Builder’s guide to GPT-5.6](https://openai.com/index/builders-guide-to-gpt-5-6)
@@ -26,7 +26,7 @@ The research paper [From BERT to Frontier Agents](https://arxiv.org/abs/2608.136
 - [Qwen3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8)
 - [Qwen3.8 27B analysis](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 - [Qwen3.8 27B evaluation](https://artificialanalysis.ai/models/qwen3-8-27b)
-- [From BERT to Frontier Agents](https://arxiv.org/abs/2608.13675v1)
+- [From BERT to Frontier Agents](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_18-16-21Z_FromBERTtoFrontierAgents_EightYearsofLangua_summary.md)
 
 ### 2. The AI infrastructure layer is consolidating
 
@@ -36,7 +36,7 @@ The most important commercial stories are about who owns the routing, workflow, 
 
 [Wispr’s $280 million funding round](https://techcrunch.com/2026/08/17/wispr-raises-280m-at-2b-valuation-as-it-looks-beyond-dictation/) shows another route: move from a narrow input feature into meeting notes, hardware integration, and a broader personal-assistant workflow.
 
-The retained systems papers show the same infrastructure pressure at a technical level. [KV-cache compression](https://arxiv.org/abs/2608.14191v1) reports near-lossless compression of roughly five times through attention-aware transform coding. [FreeBalance](https://arxiv.org/abs/2608.14205v1) predicts residual workload before mixture-of-experts routing is complete so migration can overlap with computation. [DeaMoE](https://arxiv.org/abs/2608.14385v1) reorganizes experts to reduce repeated weight loading, and [QUASAR](https://arxiv.org/abs/2608.13966v1) targets the quality loss floor in quantization-aware training.
+The retained systems papers show the same infrastructure pressure at a technical level. [KV-cache compression](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_11-08-01Z_KVCacheCompressionThroughtheLensofTransform_summary.md) reports near-lossless compression of roughly five times through attention-aware transform coding. [FreeBalance](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_11-30-39Z_FreeBalance_Pre_RoutingOnlineMoeLoadBalanci_summary.md) predicts residual workload before mixture-of-experts routing is complete so migration can overlap with computation. [DeaMoE](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_15-25-32Z_DeaMoE_EfficientMoEStructureforFastSmall_Ba_summary.md) reorganizes experts to reduce repeated weight loading, and [QUASAR](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_05-29-58Z_QUASAR_LoweringtheLossFloorofQuantization_A_summary.md) targets the quality loss floor in quantization-aware training.
 
 The message is consistent: the next gains will come from reducing memory movement, routing overhead, and token waste — not only from adding parameters.
 
@@ -46,7 +46,7 @@ Google’s [recall analysis](https://research.google/blog/empty-shelves-or-lost-
 
 The interface layer is also becoming more explicit about provenance. Anthropic’s [invisible watermarking system](https://www.theverge.com/ai-artificial-intelligence/980869/anthropic-claude-watermarks-synthid-text-system) uses machine-readable text signatures derived from SynthID-Text to satisfy European Union transparency requirements. The goal is to preserve the reading experience while allowing authorized detection.
 
-The retained research adds a more rigorous provenance layer. [The Integer Alibi](https://arxiv.org/abs/2608.13756v1) shows why apparently identical quantized inference paths can diverge at later scaling or rounding stages. [CutClean](https://arxiv.org/abs/2608.13773v1) treats privacy leakage as information flow that can be measured and reduced during pruning. [Federated Prompt Learning](https://arxiv.org/abs/2608.13844v1) surveys decentralized prompt optimization while highlighting prompt injection, robustness, and evaluation gaps.
+The retained research adds a more rigorous provenance layer. [The Integer Alibi](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_20-34-36Z_TheIntegerAlibi_LocalizingCross_KernelDiver_summary.md) shows why apparently identical quantized inference paths can diverge at later scaling or rounding stages. [CutClean](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_20-59-25Z_CutClean_NeuralNetworkPruningforPrivacy_Pre_summary.md) treats privacy leakage as information flow that can be measured and reduced during pruning. [Federated Prompt Learning](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_00-25-24Z_FederatedPromptLearning_AUnifiedFramework_E_summary.md) surveys decentralized prompt optimization while highlighting prompt injection, robustness, and evaluation gaps.
 
 For public-interest deployment, [Dubawa AI](https://www.dailymaverick.co.za/article/2026-08-16-fighting-fake-news-with-ai-how-west-africa-s-dubawa-is-transforming-fact-checking/) shows why local data and local context matter. A fact-checking system trained for West African news can address errors that generic global models may make when they lack regional knowledge.
 
@@ -54,13 +54,13 @@ The common principle is simple: trustworthy AI needs to show where its answer ca
 
 ### 4. Agent reliability is moving toward transactions, contracts, and interpretable behavior
 
-The research paper [Agentic Transaction: Towards ACID-Compliant Agent Systems](https://arxiv.org/abs/2608.13900v1) maps the database concepts of atomicity, consistency, isolation, and durability onto long-horizon agent execution. Its proposed system uses exploration, execution, validation, skill hubs, dependency-aware isolation, and transaction-aware state management. This is a useful abstraction because an agent that edits files, calls tools, and changes persistent state needs rollback and recovery semantics, not just a chat history.
+The research paper [Agentic Transaction: Towards ACID-Compliant Agent Systems](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_03-13-54Z_AgenticTransaction_TowardsACID_CompliantAge_summary.md) maps the database concepts of atomicity, consistency, isolation, and durability onto long-horizon agent execution. Its proposed system uses exploration, execution, validation, skill hubs, dependency-aware isolation, and transaction-aware state management. This is a useful abstraction because an agent that edits files, calls tools, and changes persistent state needs rollback and recovery semantics, not just a chat history.
 
-[ARC: Fair Relative Advantage Comparison](https://arxiv.org/abs/2608.13622v1) addresses a different failure mode: open-ended interaction has many valid behaviors, so comparing a direct answer against a clarification request as if they were interchangeable can distort reinforcement-learning rewards. Strategy-conditioned grouping is intended to make those comparisons fairer.
+[ARC: Fair Relative Advantage Comparison](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_01-51-53Z_ARC_FairRelativeAdvantageComparisoninOpen_E_summary.md) addresses a different failure mode: open-ended interaction has many valid behaviors, so comparing a direct answer against a clarification request as if they were interchangeable can distort reinforcement-learning rewards. Strategy-conditioned grouping is intended to make those comparisons fairer.
 
-[TeachMateGPT](https://arxiv.org/abs/2608.13708v1) applies fail-closed retrieval and evidence coverage gates to curriculum-grounded question generation. [Demystifying Agent Skills](https://arxiv.org/abs/2608.14036v1) finds that skills primarily stabilize procedures rather than inject facts, and that retrieval precision drops sharply as the skill pool grows. [ATLAS](https://arxiv.org/abs/2608.14352v1) converts agent trajectories into interpretable finite-state models, making hidden strategies and failure paths easier to audit.
+[TeachMateGPT](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_19-06-37Z_TeachMateGPT_AMulti_AgentKnowledge_Grounded_summary.md) applies fail-closed retrieval and evidence coverage gates to curriculum-grounded question generation. [Demystifying Agent Skills](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_07-26-38Z_DemystifyingAgentSkills_WhyTheyWork_UntilTh_summary.md) finds that skills primarily stabilize procedures rather than inject facts, and that retrieval precision drops sharply as the skill pool grows. [ATLAS](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_14-51-48Z_ATLAS_DiscoveringAgentStrategiesthroughLLM__summary.md) converts agent trajectories into interpretable finite-state models, making hidden strategies and failure paths easier to audit.
 
-Finally, [Reward Machines for Signal Temporal Logic](https://arxiv.org/abs/2608.13625v1) shows how formal temporal specifications can be converted into Markovian rewards for reinforcement learning. Together, these papers point toward agents that are evaluated as operational systems: they must obey contracts, preserve evidence, and make their behavior inspectable.
+Finally, [Reward Machines for Signal Temporal Logic](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_04-25-07Z_RewardMachinesforSignalTemporalLogic_summary.md) shows how formal temporal specifications can be converted into Markovian rewards for reinforcement learning. Together, these papers point toward agents that are evaluated as operational systems: they must obey contracts, preserve evidence, and make their behavior inspectable.
 
 ### 5. Cyber capability is accelerating on both sides of the defender–attacker boundary
 
@@ -70,15 +70,15 @@ That creates a deployment requirement: organizations should give security teams 
 
 The same governance concern appears in the [reporting on OpenAI’s preparedness team](https://www.theverge.com/ai-artificial-intelligence/980817/openai-disbands-preparedness-team). The report is not an established fact about long-term safety policy, but it is a material signal about how frontier labs are organizing preparedness as commercial pressure increases.
 
-[The Dynamics of Intelligence Explosions](https://arxiv.org/abs/2608.14426v1) adds a more measured theoretical perspective. It argues that singular capability growth requires generation time to approach zero extremely rapidly, distinguishing rapid but bounded super-exponential growth from a literal vertical asymptote. That does not remove the need for safety planning; it improves the model of what should be monitored.
+[The Dynamics of Intelligence Explosions](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_16-07-51Z_TheDynamicsofIntelligenceExplosions_summary.md) adds a more measured theoretical perspective. It argues that singular capability growth requires generation time to approach zero extremely rapidly, distinguishing rapid but bounded super-exponential growth from a literal vertical asymptote. That does not remove the need for safety planning; it improves the model of what should be monitored.
 
 ### 6. Alignment and creative systems are being treated as designed social processes
 
-[Participatory Moral AI Is Not Neutral](https://arxiv.org/abs/2608.14522v1) argues that feature selection, voter sampling, and question framing all shape the moral preferences aggregated into an AI system. The implication is that preference collection is not a neutral measurement layer; it is part of the design and must be audited.
+[Participatory Moral AI Is Not Neutral](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_17-43-16Z_ParticipatoryMoralAIIsNotNeutral_TheInvisib_summary.md) argues that feature selection, voter sampling, and question framing all shape the moral preferences aggregated into an AI system. The implication is that preference collection is not a neutral measurement layer; it is part of the design and must be audited.
 
-[AdsWorldEngine](https://arxiv.org/abs/2608.13833v1) applies self-evolving agent loops to conversational advertising, combining an opportunity gate, orchestrator, tool co-evolution, and evaluator. It demonstrates how reward-driven improvement can optimize commercial outcomes while also raising questions about intrusiveness and user agency.
+[AdsWorldEngine](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_23-53-05Z_AdsWorldEngine_ASelf_EvolvingConversational_summary.md) applies self-evolving agent loops to conversational advertising, combining an opportunity gate, orchestrator, tool co-evolution, and evaluator. It demonstrates how reward-driven improvement can optimize commercial outcomes while also raising questions about intrusiveness and user agency.
 
-[From Style Replication to Style Exploration](https://arxiv.org/abs/2608.14405v1) proposes an Analyze–Experiment–Resituate workflow that treats generative art as a reflective collaboration rather than simple style copying. [Scaling Creative Writing Beyond Story-Centric Data](https://arxiv.org/abs/2608.13947v1) similarly explores attribute-guided genre expansion so models can handle more diverse forms than conventional narrative training supports.
+[From Style Replication to Style Exploration](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_15-46-23Z_FromStyleReplicationtoStyleExploration_Enab_summary.md) proposes an Analyze–Experiment–Resituate workflow that treats generative art as a reflective collaboration rather than simple style copying. [Scaling Creative Writing Beyond Story-Centric Data](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_04-38-29Z_ScalingCreativeWritingBeyondStory_CentricDa_summary.md) similarly explores attribute-guided genre expansion so models can handle more diverse forms than conventional narrative training supports.
 
 These papers reinforce a broader point: alignment is not only a model-output property. It is also a property of the data, interfaces, reward loops, and social choices around the system.
 
@@ -111,33 +111,34 @@ The 21 papers retained in the completed curation pass are grouped above and link
 
 ### Agents, reliability, governance, and alignment
 
-- [ARC: Fair Relative Advantage Comparison](https://arxiv.org/abs/2608.13622v1)
-- [Reward Machines for Signal Temporal Logic](https://arxiv.org/abs/2608.13625v1)
-- [TeachMateGPT](https://arxiv.org/abs/2608.13708v1)
-- [Agentic Transaction](https://arxiv.org/abs/2608.13900v1)
-- [Demystifying Agent Skills](https://arxiv.org/abs/2608.14036v1)
-- [ATLAS](https://arxiv.org/abs/2608.14352v1)
-- [Participatory Moral AI Is Not Neutral](https://arxiv.org/abs/2608.14522v1)
+- [ARC: Fair Relative Advantage Comparison](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_01-51-53Z_ARC_FairRelativeAdvantageComparisoninOpen_E_summary.md)
+- [Reward Machines for Signal Temporal Logic](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_04-25-07Z_RewardMachinesforSignalTemporalLogic_summary.md)
+- [TeachMateGPT](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_19-06-37Z_TeachMateGPT_AMulti_AgentKnowledge_Grounded_summary.md)
+- [Agentic Transaction](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_03-13-54Z_AgenticTransaction_TowardsACID_CompliantAge_summary.md)
+- [Demystifying Agent Skills](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_07-26-38Z_DemystifyingAgentSkills_WhyTheyWork_UntilTh_summary.md)
+- [ATLAS](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_14-51-48Z_ATLAS_DiscoveringAgentStrategiesthroughLLM__summary.md)
+- [Participatory Moral AI Is Not Neutral](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_17-43-16Z_ParticipatoryMoralAIIsNotNeutral_TheInvisib_summary.md)
 
 ### Infrastructure, efficiency, privacy, and deployment
 
-- [The Integer Alibi](https://arxiv.org/abs/2608.13756v1)
-- [CutClean](https://arxiv.org/abs/2608.13773v1)
-- [Federated Prompt Learning](https://arxiv.org/abs/2608.13844v1)
-- [Post-training Quantization for Hybrid Iterative Generative Models](https://arxiv.org/abs/2608.13932v1)
-- [QUASAR](https://arxiv.org/abs/2608.13966v1)
-- [KV Cache Compression Through Transform Coding](https://arxiv.org/abs/2608.14191v1)
-- [FreeBalance](https://arxiv.org/abs/2608.14205v1)
-- [DeaMoE](https://arxiv.org/abs/2608.14385v1)
+- [The Integer Alibi](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_20-34-36Z_TheIntegerAlibi_LocalizingCross_KernelDiver_summary.md)
+- [CutClean](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_20-59-25Z_CutClean_NeuralNetworkPruningforPrivacy_Pre_summary.md)
+- [Federated Prompt Learning](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_00-25-24Z_FederatedPromptLearning_AUnifiedFramework_E_summary.md)
+- [Post-training Quantization for Hybrid Iterative Generative Models](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_04-07-14Z_Post_trainingQuantizationforHybridIterative_summary.md)
+- [QUASAR](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_05-29-58Z_QUASAR_LoweringtheLossFloorofQuantization_A_summary.md)
+- [KV Cache Compression Through Transform Coding](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_11-08-01Z_KVCacheCompressionThroughtheLensofTransform_summary.md)
+- [FreeBalance](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_11-30-39Z_FreeBalance_Pre_RoutingOnlineMoeLoadBalanci_summary.md)
+- [DeaMoE](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_15-25-32Z_DeaMoE_EfficientMoEStructureforFastSmall_Ba_summary.md)
 
 ### Capability, collaboration, and creative systems
 
-- [From BERT to Frontier Agents](https://arxiv.org/abs/2608.13675v1)
-- [AdsWorldEngine](https://arxiv.org/abs/2608.13833v1)
-- [Emergent Models](https://arxiv.org/abs/2608.14019v1)
-- [From Style Replication to Style Exploration](https://arxiv.org/abs/2608.14405v1)
-- [The Dynamics of Intelligence Explosions](https://arxiv.org/abs/2608.14426v1)
-- [Engineering Signals of Human–AI Collaboration](https://arxiv.org/abs/2608.13884v1)
+- [From BERT to Frontier Agents](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_18-16-21Z_FromBERTtoFrontierAgents_EightYearsofLangua_summary.md)
+- [AdsWorldEngine](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-13_23-53-05Z_AdsWorldEngine_ASelf_EvolvingConversational_summary.md)
+- [Emergent Models](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_07-07-05Z_EmergentModels_IntelligencefromTinySubstrat_summary.md)
+- [From Style Replication to Style Exploration](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_15-46-23Z_FromStyleReplicationtoStyleExploration_Enab_summary.md)
+- [The Dynamics of Intelligence Explosions](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_16-07-51Z_TheDynamicsofIntelligenceExplosions_summary.md)
+- [Engineering Signals of Human–AI Collaboration](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_02-22-28Z_EngineeringSignalsofHuman_AICollaborationin_summary.md)
+- [Scaling Creative Writing Beyond Story-Centric Data](https://github.com/flybfree/AI-Wiki/blob/master/concepts/papers/2026-08-14_04-38-29Z_ScalingCreativeWritingBeyondStory_CentricDa_summary.md)
 
 ## Sources and References
 

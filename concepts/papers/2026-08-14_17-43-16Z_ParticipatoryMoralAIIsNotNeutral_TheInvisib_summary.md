@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_17-43-16Z_ParticipatoryMoralAIIsNotNeutral_TheInvisibleHando.md
 Saved: 2026-08-16 22:03
 Source: 2026-08-14_17-43-16Z_ParticipatoryMoralAIIsNotNeutral_TheInvisibleHando.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.14522v1)
 Model: None
 
 ---

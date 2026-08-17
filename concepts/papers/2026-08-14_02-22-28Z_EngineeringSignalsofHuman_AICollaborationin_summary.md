@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_02-22-28Z_EngineeringSignalsofHuman_AICollaborationintheAgen.md
 Saved: 2026-08-16 21:36
 Source: 2026-08-14_02-22-28Z_EngineeringSignalsofHuman_AICollaborationintheAgen.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13884v1)
 Model: None
 
 ---

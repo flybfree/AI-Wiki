@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_11-08-01Z_KVCacheCompressionThroughtheLensofTransformCoding.md
 Saved: 2026-08-16 21:49
 Source: 2026-08-14_11-08-01Z_KVCacheCompressionThroughtheLensofTransformCoding.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.14191v1)
 Model: None
 
 ---

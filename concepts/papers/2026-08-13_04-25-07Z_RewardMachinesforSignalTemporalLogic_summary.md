@@ -1,6 +1,7 @@
 # Summary: 2026-08-13_04-25-07Z_RewardMachinesforSignalTemporalLogic.md
 Saved: 2026-08-16 22:07
 Source: 2026-08-13_04-25-07Z_RewardMachinesforSignalTemporalLogic.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13625v1)
 Model: None
 
 ---

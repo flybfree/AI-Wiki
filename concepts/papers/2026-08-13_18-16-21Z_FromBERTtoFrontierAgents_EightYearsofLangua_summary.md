@@ -1,6 +1,7 @@
 # Summary: 2026-08-13_18-16-21Z_FromBERTtoFrontierAgents_EightYearsofLanguage_Mode.md
 Saved: 2026-08-16 21:25
 Source: 2026-08-13_18-16-21Z_FromBERTtoFrontierAgents_EightYearsofLanguage_Mode.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13675v1)
 Model: None
 
 ---

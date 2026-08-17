@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_15-46-23Z_FromStyleReplicationtoStyleExploration_EnablingArt.md
 Saved: 2026-08-16 21:56
 Source: 2026-08-14_15-46-23Z_FromStyleReplicationtoStyleExploration_EnablingArt.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.14405v1)
 Model: None
 
 ---

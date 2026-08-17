@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_04-07-14Z_Post_trainingQuantizationforHybridIterativeGenerat.md
 Saved: 2026-08-16 21:36
 Source: 2026-08-14_04-07-14Z_Post_trainingQuantizationforHybridIterativeGenerat.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13932v1)
 Model: None
 
 ---

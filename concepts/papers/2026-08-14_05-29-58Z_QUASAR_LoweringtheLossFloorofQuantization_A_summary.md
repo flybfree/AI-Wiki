@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_05-29-58Z_QUASAR_LoweringtheLossFloorofQuantization_AwareTra.md
 Saved: 2026-08-16 21:40
 Source: 2026-08-14_05-29-58Z_QUASAR_LoweringtheLossFloorofQuantization_AwareTra.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.13966v1)
 Model: None
 
 ---

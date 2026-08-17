@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_07-07-05Z_EmergentModels_IntelligencefromTinySubstrates.md
 Saved: 2026-08-16 22:09
 Source: 2026-08-14_07-07-05Z_EmergentModels_IntelligencefromTinySubstrates.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.14019v1)
 Model: None
 
 ---

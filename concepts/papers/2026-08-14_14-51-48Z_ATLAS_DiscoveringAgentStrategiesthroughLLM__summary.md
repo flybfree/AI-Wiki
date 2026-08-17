@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_14-51-48Z_ATLAS_DiscoveringAgentStrategiesthroughLLM_GuidedA.md
 Saved: 2026-08-16 20:25
 Source: 2026-08-14_14-51-48Z_ATLAS_DiscoveringAgentStrategiesthroughLLM_GuidedA.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.14352v1)
 Model: None
 
 ---

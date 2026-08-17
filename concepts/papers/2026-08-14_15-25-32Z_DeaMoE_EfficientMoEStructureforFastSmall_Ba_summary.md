@@ -1,6 +1,7 @@
 # Summary: 2026-08-14_15-25-32Z_DeaMoE_EfficientMoEStructureforFastSmall_BatchDeco.md
 Saved: 2026-08-16 20:25
 Source: 2026-08-14_15-25-32Z_DeaMoE_EfficientMoEStructureforFastSmall_BatchDeco.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.14385v1)
 Model: None
 
 ---
