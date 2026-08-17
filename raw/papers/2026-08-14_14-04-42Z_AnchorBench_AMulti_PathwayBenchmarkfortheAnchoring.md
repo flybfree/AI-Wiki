@@ -1,0 +1,18 @@
+---
+title: AnchorBench: A Multi-Pathway Benchmark for the Anchoring Effect in LLMs
+published: 2026-08-14T14:04:42Z
+authors: Yiderigun Borjigin, Alexander Hermann, Christian Cyron, Roland Aydin
+url: http://arxiv.org/abs/2608.14320v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# AnchorBench: A Multi-Pathway Benchmark for the Anchoring Effect in LLMs
+
+## Abstract
+The anchoring effect is a cognitive bias in which an initial reference value shifts a later judgment toward itself. This effect is well established in human judgment and decision-making, and recent work suggests that large language models (LLMs) exhibit similar behavior. However, existing work on anchoring in LLMs typically evaluates only a narrow set of anchor pathways and rarely distinguishes irrelevant from plausible anchors. We introduce AnchorBench, a benchmark for the anchoring effect in LLMs that evaluates multiple anchor pathways under an explicit anchor relevance axis. Across fourteen models, including ten open-weight models and four frontier API models, and a large set of controlled prompts, we find that (1) anchoring is strongly pathway-dependent, (2) plausible anchors usually induce larger shifts than irrelevant ones when introduced through stronger pathways, (3) anchor influence generally weakens as the anchor moves farther from the evidence-supported answer, most clearly on External and RAG, and (4) high task accuracy on the anchor-free control condition (Acc$_{10}$: answers within 10 points of gold) does not guarantee robustness: even frontier API models above 95% control accuracy remain susceptible to plausible anchors.
+
+## Metadata
+- **Published**: 2026-08-14T14:04:42Z
+- **Authors**: Yiderigun Borjigin, Alexander Hermann, Christian Cyron, Roland Aydin
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.14320v1)

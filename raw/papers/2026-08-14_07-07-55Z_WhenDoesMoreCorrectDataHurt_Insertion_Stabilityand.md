@@ -1,0 +1,18 @@
+---
+title: When Does More Correct Data Hurt? Insertion-Stability and the Limits of Dimension-Based Theory
+published: 2026-08-14T07:07:55Z
+authors: Joseph Sankoorikal Johny
+url: http://arxiv.org/abs/2608.14020v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# When Does More Correct Data Hurt? Insertion-Stability and the Limits of Dimension-Based Theory
+
+## Abstract
+Adding data known to be correct ought to be safe. Not always. Larsen, Pabbaraju and Shetty model the failure with a monotone adversary, which reads an i.i.d. training sample and may append as many further examples as it likes, provided the target hypothesis labels them all. Mehrotra has since settled the cost, showing that for classes of VC dimension d >= 2 no learner can guarantee expected error better than Theta((d/n)log(en/d)), a logarithmic factor above the clean PAC rate.   Because that rate is a worst case over all classes, it says nothing about which classes actually suffer the penalty, and the answer turns on the learner. We call a learner insertion-stable if feeding it more correctly labeled examples can only shrink the region where it errs. Such learners are immune to the adversary, since on any given sample the risk after insertions never exceeds the risk on the clean part alone, however much is added and however cleverly it is chosen. High- probability guarantees carry over unchanged, and because Closure is insertion-stable every intersection-closed class keeps its clean rate of E[Err] <= (21d+34)/n.   Immunity is not something the classical dimensions can predict. Two classes can agree on VCdim = Ldim = 2 and still split, one at Theta(1/n) and the other at Theta(log(en)/n), while intervals have unbounded Littlestone dimension and are immune anyway. On Mehrotra's hard class we prove more than the failure of a single algorithm, showing that no monotone permutation-invariant compression scheme of any finite size attains the clean rate.   The question is therefore not whether a class is hard, nor whether a learner is good, but whether the two suit each other. Given an insertion-stable learner that is optimal on clean data, correct additions are free, and without one the cost belongs to the class, so changing the learner will not avoid it.
+
+## Metadata
+- **Published**: 2026-08-14T07:07:55Z
+- **Authors**: Joseph Sankoorikal Johny
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.14020v1)

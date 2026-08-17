@@ -1,0 +1,18 @@
+---
+title: Classical Limits of Spectral Filtering in Quantum Generative Models
+published: 2026-08-14T10:29:09Z
+authors: Marco Roth
+url: http://arxiv.org/abs/2608.14169v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Classical Limits of Spectral Filtering in Quantum Generative Models
+
+## Abstract
+Spectral filtering has been proposed as a route to regularization in quantum generative models: the quantum Fourier transform exposes the amplitude spectrum of a quantum circuit Born machine, and a diagonal filter suppresses the high frequencies associated with finite-sample noise, an operation whose classical counterpart seemingly requires manipulating an exponentially long amplitude vector. We examine whether this coherent operation produces anything that classical post-processing of samples from the unfiltered model cannot match. Measuring the filter against convolution with a symmetric probability kernel at matched sampling cost, which accounts for the post-selection overhead of attenuation, we derive necessary and sufficient conditions for the gap between the two to vanish. Magnitude (attenuating) filters obey a dichotomy: at a fixed affordability threshold, the filtered output is either a constant-size Fourier object with an efficient classical sampler, or the passband must widen until no fixed frequency is attenuated and the filter no longer smooths. In neither case does the filter create a quantum-classical separation. Whatever separation survives is inherited from the spectral phase of the input state. Numerical experiments on trained circuit Born machines confirm the classification and show that the deciding phases are invisible to the Born-rule training loss and set by the initialization. Within the diagonal family, pure phase filters remain the only spectral operations exempt from these constraints.
+
+## Metadata
+- **Published**: 2026-08-14T10:29:09Z
+- **Authors**: Marco Roth
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.14169v1)

@@ -1,0 +1,18 @@
+---
+title: Towards Efficient Multimodal and Multilingual Opinion Extraction for STI: A QLoRA-Based Fine-Tuning Approach
+published: 2026-08-14T10:02:55Z
+authors: Sheng Hong, Xuanqi Wang, Jiacheng Wang, Yuwei Wang
+url: http://arxiv.org/abs/2608.14152v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Towards Efficient Multimodal and Multilingual Opinion Extraction for STI: A QLoRA-Based Fine-Tuning Approach
+
+## Abstract
+Recent advances in large language models (LLMs) have reshaped semantic analysis. Opinion Extraction (OE) for Science and Technology Intelligence (STI) requires concise core opinions from large information streams. Off-the-shelf models struggle to filter noise from these streams and show limited structured-output reliability in zero-shot multilingual and multi-modal settings. To address information overload and extraction defocus, this study proposes a multimodal core-opinion extraction framework in which visual evidence serves as a contextual anchor for textual judgment. Using VideoLLaMA2 (VL2) and VideoLLaMA2.1 (VL2.1) as the base models, we apply Quantized Low-Rank Adaptation (QLoRA) fine-tuning on a curated dataset of 2,194 multilingual and multimodal samples. Under the selected Image-Augmented setting, fine-tuned VL2.1 generates structured JSON core-opinion outputs, achieving 64.98% Precision, 42.15% Recall, 51.14% F1-score, and 74.00% sample-level accuracy. Relative to the zero-shot VL2.1 setting, it raises the F1-scores of Spanish and Russian from 4.83% and 0.45% to 46.05% and 51.93%, respectively. The framework further incorporates a Fuzzy Cumulative Prospect Theory-based post-extraction triage module for case-level value assessment, providing a case-level value signal for downstream STI screening.
+
+## Metadata
+- **Published**: 2026-08-14T10:02:55Z
+- **Authors**: Sheng Hong, Xuanqi Wang, Jiacheng Wang, Yuwei Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.14152v1)

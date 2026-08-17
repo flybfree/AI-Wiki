@@ -1,0 +1,18 @@
+---
+title: Learning to Assemble Novel Structures with Unfamiliar Parts under Semantic Constraints
+published: 2026-08-13T18:27:29Z
+authors: Jonghyuk Park, Alex Lascarides, Subramanian Ramamoorthy
+url: http://arxiv.org/abs/2608.13684v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Learning to Assemble Novel Structures with Unfamiliar Parts under Semantic Constraints
+
+## Abstract
+This paper describes a neurosymbolic architecture for learning to assemble novel structures using evidence from embodied conversations and task demonstrations. We focus on scenarios where an agent encounters, after deployment, semantic constraints on structures--in other words, constraints as to which part types and features make valid structures--that were not available during training, and where it is initially unaware of the relevant structure and component part concepts. The agent must acquire and exploit such knowledge through user interactions while attempting assembly. We study this setting in a simulated toy truck assembly domain, learning from symbolic evidence encoded in natural language and from dense visual observations. Our experiments show that communicating semantic constraints through natural language (e.g., "dump trucks have a dumper") yields more data-efficient online adaptation than relying only on task demonstrations and/or only naming the parts through natural language.
+
+## Metadata
+- **Published**: 2026-08-13T18:27:29Z
+- **Authors**: Jonghyuk Park, Alex Lascarides, Subramanian Ramamoorthy
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13684v1)

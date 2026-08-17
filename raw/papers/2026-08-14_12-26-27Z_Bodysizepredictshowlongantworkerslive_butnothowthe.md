@@ -1,0 +1,18 @@
+---
+title: Body size predicts how long ant workers live - but not how they age or how they die from heat
+published: 2026-08-14T12:26:27Z
+authors: Alana Moscardi, Rafael da Silva, Gleycon Silva
+url: http://arxiv.org/abs/2608.14245v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Body size predicts how long ant workers live - but not how they age or how they die from heat
+
+## Abstract
+In social insects, mortality risk comprises distinct components that may not share the same predictors: lifespan duration, senescence trajectory, and thermal vulnerability. We tested these three axes in 18 Australian ant species using paired field-laboratory survival assays (2,363 cohort-day observations; 1,148 workers). Body size predicted duration (Cox HR = 0.67, p = 0.002), while colony size (p = 0.60) and the size x temperature interaction (p = 0.72) showed no detectable moderating effect. A weak but significant size x foraging-rate interaction was detected (LRT p = 0.014), suggesting that intrinsic physiology remains the most parsimonious explanation for the main size-longevity pattern, although ecological context may contribute. Senescence trajectory was associated with circadian niche rather than size: it was steepest in matinal species (Kruskal-Wallis p = 0.009; matinal vs. crepuscular p = 0.002) and was uncorrelated with body mass (Spearman p = 0.32). Thermal hazard plateaued above 20 degrees C (Delta AIC = -38; p < 0.001), with elevated thermal sensitivity in Rhytidoponera (Ectatomminae) above the plateau (5% per degree C, p = 0.015). Circadian regime and lineage identity, not body size, therefore emerge as the most climate-relevant axes, although they are strongly collinear (Cramer's V = 0.85). These results show that body size captures only one dimension of mortality risk and that size-based vulnerability indices may misrank taxa when senescence and thermal sensitivity are decoupled from body size.
+
+## Metadata
+- **Published**: 2026-08-14T12:26:27Z
+- **Authors**: Alana Moscardi, Rafael da Silva, Gleycon Silva
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.14245v1)

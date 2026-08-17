@@ -2192,3 +2192,15 @@ tags: ['wiki']
 - [[2026-08-16_StripewillreportedlyacquireAIgatewaystartupOpenRou.md]] : Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
 - [[2026-08-16_TheCaseAgainstFormalVerification_50YearsLater.md]] : The Case Against Formal Verification, 50 Years Later
 - [[2026-08-16_OpenAIreportedlydisbandeditspreparednessteam.md]] : OpenAI reportedly disbanded its preparedness team
+- [[2026-08-16_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md]] : Qwen 3.8 27B is excellent, but it defaults to overthinking things
+- [[2026-08-16_FightingfakenewswithAI_howwestAfrica_sDubawaistran.md]] : Fighting fake news with AI — how west Africa's Dubawa is transforming fact-checking
+- [[2026-08-17_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-17_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[2026-08-17_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
+- [[2026-08-17_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-17_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-17_FightingfakenewswithAI_howwestAfrica_sDubawaistran.md]] : Fighting fake news with AI — how west Africa's Dubawa is transforming fact-checking
+- [[2026-08-17_OpenAIreportedlydisbandeditspreparednessteam.md]] : OpenAI reportedly disbanded its preparedness team
+- [[2026-08-17_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-17_StripewillreportedlyacquireAIgatewaystartupOpenRou.md]] : Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
+- [[2026-08-17_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md]] : Qwen 3.8 27B is excellent, but it defaults to overthinking things

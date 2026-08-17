@@ -1,0 +1,18 @@
+---
+title: Reward Machines for Signal Temporal Logic
+published: 2026-08-13T04:25:07Z
+authors: Alper Kamil Bozkurt, Shangtong Zhang, Yuichi Motai
+url: http://arxiv.org/abs/2608.13625v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Reward Machines for Signal Temporal Logic
+
+## Abstract
+Signal temporal logic (STL) provides a formal language for specifying real-time properties of real-valued observations, along with a quantitative robustness score for monitoring satisfaction. Control synthesis from STL specifications is of interest since manual controller design becomes infeasible as real-world systems grow in complexity. Moreover, many modern autonomous and AI-enabled systems lack accurate and complete system models, which makes optimization-based synthesis approaches unsuitable and motivates learning-based control. Prior work uses STL robustness scores as rewards in reinforcement learning (RL) to obtain control policies satisfying given specifications; however, robustness depends on execution history, leading to intractable state space expansion for general long-horizon specifications with arbitrarily nested temporal operators. This work introduces a novel automata-based approach that provides an efficient memory mechanism and associated Markovian rewards suitable for RL frameworks. Our approach constructs a timed alternating automaton from the given STL specifications, augments the state space with automaton locations and clock valuations, and derives rewards from the automaton acceptance condition. We empirically demonstrate that our approach learns policies that achieve higher robustness scores and satisfaction rates than those learned by existing approaches using robustness-based rewards.
+
+## Metadata
+- **Published**: 2026-08-13T04:25:07Z
+- **Authors**: Alper Kamil Bozkurt, Shangtong Zhang, Yuichi Motai
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13625v1)

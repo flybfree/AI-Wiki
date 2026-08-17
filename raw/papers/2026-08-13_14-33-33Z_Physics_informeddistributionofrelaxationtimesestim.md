@@ -1,0 +1,18 @@
+---
+title: Physics-informed distribution of relaxation times estimation and latent-space condition monitoring of solid oxide fuel and electrolysis cells from electrochemical impedance spectroscopy
+published: 2026-08-13T14:33:33Z
+authors: Žan Gorenc, Žiga Gradišar, Felix Mütter, Vanja Subotić, Pavle Boškoski
+url: http://arxiv.org/abs/2608.13305v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Physics-informed distribution of relaxation times estimation and latent-space condition monitoring of solid oxide fuel and electrolysis cells from electrochemical impedance spectroscopy
+
+## Abstract
+Estimating the distribution of relaxation times (DRT) fromelectrochemical impedance spectroscopy (EIS) is an ill-posed inverse problem that is highly sensitive to regularisation choices. We propose a physics-informed convolutional autoencoder that estimates DRT directly from EIS data without spectrum-specific tuning. A discretised relation between impedance and the DRT is embedded in the training process, constraining the network to produce impedance-consistent distributions. The model resolves overlapping relaxation processes in synthetic two-ZARC spectra and accurately reconstructs measurements from three independent solid oxide fuel and electrolysis cell datasets, with range-normalised errors below 1.1%. Decoder-probe analysis shows that the learned latent representation is organised according to relaxation timescale. Distances in this latent space capture operating changes, hydrogen-shortage events, and long-term degradation. The same lightweight architecture is applied across all datasets without modification, providing consistent DRT estimation and an interpretable basis for condition monitoring.
+
+## Metadata
+- **Published**: 2026-08-13T14:33:33Z
+- **Authors**: Žan Gorenc, Žiga Gradišar, Felix Mütter, Vanja Subotić, Pavle Boškoski
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13305v1)

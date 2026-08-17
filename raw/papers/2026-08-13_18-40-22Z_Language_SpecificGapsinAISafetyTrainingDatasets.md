@@ -1,0 +1,18 @@
+---
+title: Language-Specific Gaps in AI Safety Training Datasets
+published: 2026-08-13T18:40:22Z
+authors: Chialuka Prisca-Mary Onuoha, Bright Etornam Sunu, Rashidat Sikiru
+url: http://arxiv.org/abs/2608.13695v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Language-Specific Gaps in AI Safety Training Datasets
+
+## Abstract
+Large language model providers routinely cite multilingual safety benchmarks spanning a dozen or more languages as evidence that their models are safe for non-English-speaking users. We show that these collection-level coverage claims frequently do not survive inspection at the level of an individual language. Auditing 21 resources across 25 language slices, of which 20 count as datasets under our counting rules, spanning three languages chosen to represent low- (Hausa), mid- (Swahili), and high-resource (French) tiers, we find that gaps in provenance, annotation reliability, access, harm-taxonomy coverage, and data reuse recur in patterns that partially, but not fully, track resource level. Using a controlled within-pipeline comparison, we show a Hausa-language slice falling below its own paper's translation-quality acceptance threshold while the same pipeline's Swahili output clears the same bar comfortably; this is evidence that these gaps are measurable and addressable, not inherent. We further show that self-harm and sexual-content categories have no native-language coverage in either African-language tier we studied, a total rather than gradated gap that a purely resource-level account does not predict. We connect these findings to a documented, persistent asymmetry in multilingual jailbreak robustness (single-turn attacks largely mitigated, multi-turn attacks still effective), arguing that this asymmetry is structurally consistent with where our audit finds training and evaluation data thinnest. We contribute a reusable slice-level audit methodology, a cross-tier empirical comparison, and concrete recommendations for dataset creators, model providers, and venues aiming to make ``multilingual coverage'' claims verifiable rather than merely stated. Dataset: https://huggingface.co/datasets/ChialukaOnuoha/safety-slice-audit
+
+## Metadata
+- **Published**: 2026-08-13T18:40:22Z
+- **Authors**: Chialuka Prisca-Mary Onuoha, Bright Etornam Sunu, Rashidat Sikiru
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13695v1)

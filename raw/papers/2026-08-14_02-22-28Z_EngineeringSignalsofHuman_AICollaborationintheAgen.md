@@ -1,0 +1,18 @@
+---
+title: Engineering Signals of Human-AI Collaboration in the Agentic Coding Era: A Longitudinal Analysis of 33,228 Pull Requests from vLLM and SGLang with Implications for Biomedical AI Agents and Bioinformatics Pipeline Developmen
+published: 2026-08-14T02:22:28Z
+authors: Jiada Li, Xuesong Ye, Olamide Olowoniyi
+url: http://arxiv.org/abs/2608.13884v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Engineering Signals of Human-AI Collaboration in the Agentic Coding Era: A Longitudinal Analysis of 33,228 Pull Requests from vLLM and SGLang with Implications for Biomedical AI Agents and Bioinformatics Pipeline Developmen
+
+## Abstract
+The rapid adoption of AI coding assistants and autonomous agentic development systems has coincided with major changes in the pace and structure of open-source software engineering. Yet empirical longitudinal evidence of these changes at the team level remains limited. We present a descriptive longitudinal analysis of seven engineering metrics: pull request (PR) throughput, cycle time, contributor diversity, PR comment density, merge rate, new-author participation, and PR size. Metrics were computed from all merged PRs in two high-velocity AI infrastructure repositories, vLLM (February 2023-June 2026; 18,290 PRs) and SGLang (January 2024-June 2026; 14,938 PRs). We segment development into four eras aligned with major changes in AI-assisted software development and examine human- and bot-authored activities. Both projects show substantial increases in development velocity and AI-developer collaboration signals. PR throughput increased 21x in vLLM and 17.9x in SGLang, while bot-authored PRs accounted for less than 0.2% of this growth, indicating that the increase was overwhelmingly human-driven. In the latest era, median cycle time was 1.04 days for vLLM and 0.62 days for SGLang, while P90 cycle times reached 16.8 and 14.3 days, respectively. Monthly unique authors increased steadily in both projects, suggesting broader contributor participation. PR comment density increased 4.2x in vLLM and 3.8x in SGLang, with bot comments contributing an estimated 15-20% of the increase. In contrast, PR size remained relatively stable across eras. Overall, AI-assisted development is associated with higher throughput, broader contributor participation, and increased AI-developer collaboration signals in high-velocity open-source software development.
+
+## Metadata
+- **Published**: 2026-08-14T02:22:28Z
+- **Authors**: Jiada Li, Xuesong Ye, Olamide Olowoniyi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13884v1)
