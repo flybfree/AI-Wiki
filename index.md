@@ -2226,3 +2226,11 @@ tags: ['wiki']
 - [[2026-08-18_TheDefender_sWindow.md]] : The Defender’s Window
 - [[2026-08-18_Linux7_3improvesperformancewhenrunningoutofvRAM.md]] : Linux 7.3 improves performance when running out of vRAM
 - [[2026-08-18_ElonMuskmadeflyingevenworsesoPalantircouldprofit.md]] : Elon Musk made flying even worse so Palantir could profit
+- [[2026-08-18_Google__8217_sPetMemoryforgotwhomycatsare.md]] : Google&#8217;s Pet Memory forgot who my cats are
+- [[2026-08-18_Anthropic_sannualizedrevenuesurgesto_65B.md]] : Anthropic’s annualized revenue surges to $65B
+- [[2026-08-18_PartneringwithCodeAItopreparethefirstAIgeneration.md]] : Partnering with CodeAI to prepare the first AI generation
+- [[2026-08-18_Usingtherailwaynetworkasaflatbedscanner.md]] : Using the railway network as a flatbed scanner
+- [[2026-08-18_Warp_snewsystemisanout-of-the-boxsoftwarefactoryfo.md]] : Warp’s new system is an out-of-the-box software factory for AI development
+- [[2026-08-18_Firefox__8217_sSmartWindowpromisesabetterAIbrowser.md]] : Firefox&#8217;s Smart Window promises a better AI browser
+- [[2026-08-18_TheAmazonTax.md]] : The Amazon Tax
+- [[2026-08-18_Claude_DegradedPerformanceforMultipleModels.md]] : Claude: Degraded Performance for Multiple Models
