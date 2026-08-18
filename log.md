@@ -9209,3 +9209,5 @@ tags: ['wiki']
 ## [2026-08-18 00:07] ingest | 2026-08-18_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md
 ## [2026-08-18 00:07] ingest | 2026-08-18_Googlejustredesignedthesearchboxforthefirsttimein2.md
 ## [2026-08-18 00:07] ingest | 2026-08-18_TheDefender_sWindow.md
+## [2026-08-18 04:06] ingest | 2026-08-18_Linux7_3improvesperformancewhenrunningoutofvRAM.md
+## [2026-08-18 06:06] ingest | 2026-08-18_ElonMuskmadeflyingevenworsesoPalantircouldprofit.md

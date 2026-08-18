@@ -2224,3 +2224,5 @@ tags: ['wiki']
 - [[2026-08-18_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
 - [[2026-08-18_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[2026-08-18_TheDefender_sWindow.md]] : The Defender’s Window
+- [[2026-08-18_Linux7_3improvesperformancewhenrunningoutofvRAM.md]] : Linux 7.3 improves performance when running out of vRAM
+- [[2026-08-18_ElonMuskmadeflyingevenworsesoPalantircouldprofit.md]] : Elon Musk made flying even worse so Palantir could profit
