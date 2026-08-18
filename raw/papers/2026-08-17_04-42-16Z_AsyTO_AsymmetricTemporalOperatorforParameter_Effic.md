@@ -1,0 +1,18 @@
+---
+title: AsyTO: Asymmetric Temporal Operator for Parameter-Efficient Multivariate Time Series Forecasting
+published: 2026-08-17T04:42:16Z
+authors: Xiachong Lin, Du Yin, Hao Xue, Wen Hu, Imran Razzak, Arian Prabowo, Matthew Amos, Flora D. Salim
+url: http://arxiv.org/abs/2608.16098v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# AsyTO: Asymmetric Temporal Operator for Parameter-Efficient Multivariate Time Series Forecasting
+
+## Abstract
+Multivariate time-series forecasting faces a structural dilemma: sharing one temporal predictor across variables is parameter-efficient but forces heterogeneous variables through an identical history-to-future map, whereas learning an independent predictor per variable restores flexibility at a cost that grows with the product of variable count, context length, and horizon. We argue that this dilemma dissolves once the object being compressed is the forecasting operator rather than the observed series. Auditing per-variable linear history-to-future maps across standard benchmarks, we find that a phase-locked seasonal component paired with a compact residual operator outperforms a dense phase-blind reference in most audited settings. The residual transport is also directional: lag-invariant alternatives consistently underperform asymmetric history-to-future maps. Guided by this structure, we propose AsyTO, an Asymmetric Temporal Operator that factorizes the tensor of per-variable operators into shared but distinct history-reading and future-writing temporal modes with per-variable mode-wise gains, complemented by a low-rank periodic prototype and a cycle-separable factorization of the temporal modes. Each forecast reads only its own variable's history, so parameters and compute grow linearly in the number of variables. Across eleven benchmarks and multiple forecast horizons, AsyTO attains the best lightweight error in 30 of 44 dataset-horizon settings, locating at the accuracy-compute Pareto frontier.
+
+## Metadata
+- **Published**: 2026-08-17T04:42:16Z
+- **Authors**: Xiachong Lin, Du Yin, Hao Xue, Wen Hu, Imran Razzak, Arian Prabowo, Matthew Amos, Flora D. Salim
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.16098v1)

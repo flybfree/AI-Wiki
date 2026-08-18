@@ -1,0 +1,18 @@
+---
+title: Contrastive Energy Fields for Inference-Time Procedure Planning in Instructional Videos
+published: 2026-08-17T11:56:11Z
+authors: Mohamed Afham, Christoph Reich, Oliver Hahn, Daniel Cremers, Stefan Roth
+url: http://arxiv.org/abs/2608.16457v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Contrastive Energy Fields for Inference-Time Procedure Planning in Instructional Videos
+
+## Abstract
+Procedure planning seeks to estimate a sequence of actions to transition from an observed initial state to a given goal state. Current procedure planning approaches directly predict action sequences from latent representations using feed-forward neural networks or diffusion-based inference. These paradigms treat every action as plausible, lacking the ability to enforce task-specific logical constraints that render certain actions irrelevant or not plausible. We propose CEFITO, a procedure planning approach that learns a predictor to express an action-conditioned representation space. Based on this representation space, we formulate procedure planning as a task-constrained optimization problem. Unlike prior methods, CEFITO explicitly reasons over the action space by omitting irrelevant actions during inference-time planning. This reformulation enables effective procedure planning and achieves state-of-the-art accuracy on two established procedure planning benchmarks.
+
+## Metadata
+- **Published**: 2026-08-17T11:56:11Z
+- **Authors**: Mohamed Afham, Christoph Reich, Oliver Hahn, Daniel Cremers, Stefan Roth
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.16457v1)

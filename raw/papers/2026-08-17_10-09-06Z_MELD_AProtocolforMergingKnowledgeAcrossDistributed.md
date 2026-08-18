@@ -1,0 +1,18 @@
+---
+title: MELD: A Protocol for Merging Knowledge Across Distributed Agentic Memories
+published: 2026-08-17T10:09:06Z
+authors: Lauri Lovén, Jaakko Sauvola, Jukka Riekki, Sasu Tarkoma
+url: http://arxiv.org/abs/2608.16357v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MELD: A Protocol for Merging Knowledge Across Distributed Agentic Memories
+
+## Abstract
+Autonomous agents share a transport and can call each other's tools, but they cannot share what they know: no protocol lets two agents' memories reconcile a fact phrased two ways, link related facts held apart, or reconcile contradictory knowledge without silently discarding either claim. We present MELD, a self-managing coherence mechanism for a federation of agent memories whose run-time model is the knowledge graph itself. Each brain admits every incoming claim through a five-outcome procedure (insert, merge, relate, conflict, or reject), decided from three signals (scoped claim-key identity, embedding similarity, and a natural-language-inference verdict) under context and freshness gates, and acting through exactly one auditable, authenticated Patch, the only object that mutates state. A binding onto standard publish/subscribe transport with a per-claim status CRDT keeps sovereign brains coherent in claim status without a coordinator: self-healing after partitions and under lossy routing, and self-protecting against silent rewrite by a peer, under a benign-fault model. MELD does not adjudicate truth; a detected contradiction is preserved for later adjudication, never silently resolved. On HotpotQA distractor, distributed merge is recall-non-inferior to a centralized store under a pre-specified equivalence test and recall-superior to naive union at about 11% less live storage; the merge classifier separates at AUC 0.968 with a 0.013 false-merge rate on adjudicated candidate pairs; the status CRDT reconverges in 30/30 real partition-heal trials where last-writer-wins manages 11/30; and semantic routing delivers about 3x fewer messages at matched recall. We evaluate on a real computing continuum spanning an operator-grade 5G edge, national HPC, and a local tier, with empirically calibrated thresholds.
+
+## Metadata
+- **Published**: 2026-08-17T10:09:06Z
+- **Authors**: Lauri Lovén, Jaakko Sauvola, Jukka Riekki, Sasu Tarkoma
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.16357v1)

@@ -1,0 +1,18 @@
+---
+title: Repair, Not Improvement: Decomposing Constrained Decoding in Tool-Call Abstention
+published: 2026-08-14T04:58:01Z
+authors: Janghoon Lee
+url: http://arxiv.org/abs/2608.13959v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Repair, Not Improvement: Decomposing Constrained Decoding in Tool-Call Abstention
+
+## Abstract
+Function calling is what the recent accounting of constrained generation explicitly sets aside: it finds the decoder's contribution small for format constraints, then warns in its Section 7 against extrapolating where a constraint encodes a correctness requirement, and names function calling as one. Tool abstention is that case at its sharpest: an enum leaves the wording of an answer alone and narrows the set of answers there are, and declining to call anything is the first it drops. We measure the excluded case. Three conditions over one byte-identical prompt separate a grammar's two jobs: it fixes where generation stops as well as which tokens may be emitted. We evaluate open-weight models from 0.6B to 4B on matched English and Korean items, so the language comparison is made within item. Against an unconstrained decoder, prior work's contrast is negative on abstention in four of six cells with intervals excluding zero, worst -29.5 points, and positive with an interval excluding zero in none. The total is a sum with opposite signs: on the smallest model in Korean the stop token costs -20.0, the enum returns +19.5, and the two leave -0.5. What it recovers is form: of 698 abstentions repaired, 545 had no readable answer and 0 were judgements the scorer refused. On tool-needed items it is positive throughout; abstention leads because it is the preregistered measure, and the pooled number being kinder to the intervention makes moving to it worse rather than better. Both preregistered language claims fail.
+
+## Metadata
+- **Published**: 2026-08-14T04:58:01Z
+- **Authors**: Janghoon Lee
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13959v1)

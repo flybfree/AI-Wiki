@@ -1,0 +1,18 @@
+---
+title: AudioTQ: A Data-Oblivious 6-Bit CPU Audio Codec via Randomized Hadamard Rotation and Lloyd-Max Quantization
+published: 2026-08-15T18:44:27Z
+authors: Sahil Gangurde
+url: http://arxiv.org/abs/2608.15369v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# AudioTQ: A Data-Oblivious 6-Bit CPU Audio Codec via Randomized Hadamard Rotation and Lloyd-Max Quantization
+
+## Abstract
+Lossy audio compression algorithms traditionally rely on psychoacoustic modeling and frequency-domain representations (e.g., MP3, AAC, and Opus) to discard information that is imperceptible to the human auditory system. While highly effective, these approaches are computationally complex and domain-specific. In this paper, we present the design and mathematical formulation of AudioTQ, a data-oblivious lossy audio codec that operates directly in the time domain. Inspired by Large Language Model (LLM) weight quantization techniques (specifically the TurboQuant framework), AudioTQ uniformizes volatile time-domain amplitudes into a predictable standard normal distribution using an orthonormal, randomized Fast Walsh-Hadamard Transform (FWHT) rotation. This enables coordinate-wise scalar quantization using an offline-trained, MSE-optimal 6-bit Lloyd-Max quantizer, augmented by a 1-bit Quantized Joint Least-Squares (QJL) residual correction layer. The resulting 7-bit virtual indices are packed into native 8-bit containers, aligning with standard CPU register boundaries to ensure real-time single-threaded execution without hardware parallel accelerators. We detail the bitwise reconstruction of 24-bit studio stems, analyze the butterfly network of the FWHT, derive the mathematical failure modes under sparse inputs, and present benchmarks showing up to 74.4% physical size reduction alongside a Signal-to-Quantization-Noise Ratio (SQNR) of ~30 dB.
+
+## Metadata
+- **Published**: 2026-08-15T18:44:27Z
+- **Authors**: Sahil Gangurde
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15369v1)

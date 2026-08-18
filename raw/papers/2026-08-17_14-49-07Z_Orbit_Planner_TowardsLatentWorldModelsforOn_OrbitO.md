@@ -1,0 +1,18 @@
+---
+title: Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents
+published: 2026-08-17T14:49:07Z
+authors: Zhijian Li, Chao Ren, Peijin Wang, Xian Sun
+url: http://arxiv.org/abs/2608.16651v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Orbit-Planner: Towards Latent World Models for On-Orbit Obstacle Avoidance of Satellite Agents
+
+## Abstract
+Satellite agents for on-orbit navigation tasks need to predict collision risks using limited onboard observations. However, conventional planners often rely on predefined maps and fixed environmental assumptions, limiting their adaptability in dynamic on-orbit scenarios. In this paper, we propose Orbit-Planner, a two-stage latent world model for on-orbit obstacle avoidance. Orbit-Planner learns action-conditioned spacecraft dynamics to perform future-state rollouts in latent space, and introduces a Physics Probe to decode physical state changes from imagined latent trajectories. Experiments demonstrate that Orbit-Planner can perform long-horizon latent rollouts and recover physical states from imagined trajectories. In closed-loop obstacle-avoidance navigation in Isaac Sim, it attains a success rate of 91.7%. Code is available at https://github.com/ZhijianLi2003/Orbit_Planner.
+
+## Metadata
+- **Published**: 2026-08-17T14:49:07Z
+- **Authors**: Zhijian Li, Chao Ren, Peijin Wang, Xian Sun
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.16651v1)

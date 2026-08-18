@@ -1,0 +1,18 @@
+---
+title: Time to Reason: Scalable Neurosymbolic Learning for LTLf via Fuzzy Semantics
+published: 2026-08-17T11:40:27Z
+authors: Riccardo Andreoni, Andrei Buliga, Alessandro Daniele, Paolo Felli, Chiara Ghidini, Marco Montali, Massimiliano Ronzani
+url: http://arxiv.org/abs/2608.16443v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Time to Reason: Scalable Neurosymbolic Learning for LTLf via Fuzzy Semantics
+
+## Abstract
+Neurosymbolic (NeSy) Artificial Intelligence aims to integrate Deep Learning (DL) architectures with symbolic reasoning. While initial NeSy approaches have targeted mainly symbolic reasoning in propositional and first-order logics, recent works have started to address the construction of neurosymbolic frameworks for Temporal Logics, and in particular for LTLf. These approaches have established temporal NeSy as a promising research direction, laying the foundations for learning under temporal constraints. Nonetheless, they leave many questions unanswered. From a theoretical perspective, several differentiable semantics for interpreting LTLf have been proposed but have not yet been formally and systematically defined within a unified framework. Moreover, existing approaches commonly rely on automata to represent temporal knowledge, resulting in limited scalability. Motivated by this research gap, this paper provides the following contributions: (i) formally defining different fuzzy semantics for LTLf, and systematically analysing theoretical properties regarding equivalences and dualities of temporal operators; (ii) showing how these semantics can be directly integrated within a novel NeSy framework, called DiffLTLf, enabling flexible and scalable learning without relying on the usage of automata; and (iii) introducing a novel evaluation protocol of increased complexity of learning tasks w.r.t. existing benchmarks. Our results show that the choice of fuzzy semantics has a significant impact on predictive performance. Moreover, DiffLTLf achieves performance on par with, and sometimes superior to, state-of-the-art probabilistic approaches while substantially improving scalability. Taken together, these results establish direct fuzzy interpretations as a competitive and scalable alternative to existing temporal NeSy frameworks.
+
+## Metadata
+- **Published**: 2026-08-17T11:40:27Z
+- **Authors**: Riccardo Andreoni, Andrei Buliga, Alessandro Daniele, Paolo Felli, Chiara Ghidini, Marco Montali, Massimiliano Ronzani
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.16443v1)

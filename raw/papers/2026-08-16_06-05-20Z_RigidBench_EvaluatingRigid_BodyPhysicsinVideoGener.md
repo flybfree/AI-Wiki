@@ -1,0 +1,18 @@
+---
+title: RigidBench: Evaluating Rigid-Body Physics in Video Generation Models
+published: 2026-08-16T06:05:20Z
+authors: Swarnim Jain, Shangzhe Wu
+url: http://arxiv.org/abs/2608.15555v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# RigidBench: Evaluating Rigid-Body Physics in Video Generation Models
+
+## Abstract
+Video models are increasingly used to predict what happens next in a scene, yet the metrics commonly used to compare their outputs say little about whether the predicted objects move correctly. Motion, geometry, identity, background stability, and visual similarity can fail independently, but whole-frame scores often mix these errors together. We introduce RigidBench, a simulator-grounded benchmark that compares a generated continuation with a reference rollout from the same initial frame and motion description. Its five rigid-body tasks vary objects, materials, viewpoints, and indoor and outdoor scenes, with per-frame masks, depth, 6-DoF trajectories, and contacts available for scoring. We evaluate eight models on the same 100 examples with ten measurements that keep these aspects separate. The resulting rankings depend strongly on what is measured: no model leads on all ten, and across model means, higher SSIM accompanies larger 3D trajectory error (r = 0.89). RigidBench also includes 5,000 training videos with exact simulator state, which we use to fine-tune and analyze Wan 2.2 TI2V-5B. Full fine-tuning reduces 3D trajectory error by about 20% with almost no change in SSIM, while teacher-forced probes and targeted interventions show that object position is represented throughout Wan's diffusion transformer and used by its denoising computation.
+
+## Metadata
+- **Published**: 2026-08-16T06:05:20Z
+- **Authors**: Swarnim Jain, Shangzhe Wu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15555v1)

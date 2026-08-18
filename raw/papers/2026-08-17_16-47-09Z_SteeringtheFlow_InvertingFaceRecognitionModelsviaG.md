@@ -1,0 +1,18 @@
+---
+title: Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching
+published: 2026-08-17T16:47:09Z
+authors: Ye Lu, Shen Wang, Zhaoyang Zhang, Yihan Yan, Li Liu, Runze Liu, Fanghui Sun
+url: http://arxiv.org/abs/2608.16791v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Steering the Flow: Inverting Face Recognition Models via Gradient-Guided Flow Matching
+
+## Abstract
+Model Inversion Attacks (MIAs) aim to reconstruct representative training samples of target identities from face recognition models, exposing critical security vulnerabilities. Existing methods typically rely on indirect guidance or highly stochastic guidance, making it difficult to stably optimize generation trajectories toward target facial images. In this paper, we propose Steering Flow Model Inversion (SFMI), a novel two-stage white-box model inversion method that reformulates inversion as a trajectory-steering task. Specifically, Step I, Learning a Generic Flow Matching Prior, pre-trains a generic unconditional Flow Matching model to encode the manifold of human faces as a robust prior. Step II, Attacking with Progressive Guidance Scheduler (PGS), injects time-dependent target-specific gradients during sampling. By backpropagating through the target model to obtain gradients from intermediate generated states, PGS progressively injects adaptive guidance signals into the vector field. This process effectively steers the current generative flow from random noise toward the high-density regions of the target class. Under an identity-disjoint cross-evaluation setting using the CelebA dataset, SFMI achieves an ACC of 0.9248, an FID of 22.61, and an LPIPS of 0.3874 on the ArcFace target. Extensive experiments on multiple target models demonstrate that SFMI achieves competitive state-of-the-art performance in attack success and visual fidelity under the evaluated white-box protocol.
+
+## Metadata
+- **Published**: 2026-08-17T16:47:09Z
+- **Authors**: Ye Lu, Shen Wang, Zhaoyang Zhang, Yihan Yan, Li Liu, Runze Liu, Fanghui Sun
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.16791v1)

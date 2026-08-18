@@ -1,0 +1,18 @@
+---
+title: High-Dimensional Nonparametric Change-Point Detection via Low-Rank Degree-Three Density Projection
+published: 2026-08-16T01:21:55Z
+authors: Guoqing Zhang, Zhaixin Chen
+url: http://arxiv.org/abs/2608.15466v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# High-Dimensional Nonparametric Change-Point Detection via Low-Rank Degree-Three Density Projection
+
+## Abstract
+Distributional changes can be invisible to means and covariances yet appear in skewness, asymmetric interactions, or other third-order structure. We develop a nonparametric change-point method that retains every degree-at-most-three coefficient of a density while avoiding direct density estimation. For observations in $[-1,1]^d$, we construct a symmetric order-three Legendre feature tensor $H_3(X)\in\Sym^3(\R^{d+1})$ such that $A(f)=\E_fH_3(X)$ is an exact isometric encoding of the degree-three density projection: $\|A(f)-A(g)\|_{\F}=\|P_3(f-g)\|_{L^2}$. Instead, fixed tensor contractions are degree-three polynomial chaoses with $ψ_{2/3}$ tails. The two terms have the characteristic order-three tensor scaling and match the powers in sharp concentration results for simple random tensors. For a coordinate-orthogonal specialization, the bound improves to $\sqrt{\log d}$ and enables a prefix-sum implementation in hundreds of dimensions. We derive the exact population tent shape and localization margin, introduce a seeded shortest-interval algorithm with a padded local recentering step, and prove exact recovery by induction: null recursive segments remain inactive, every undetected change retains a balanced isolating interval, and the shortest active seed contains exactly one change before recentering. A two-way cross-fitted scalar refinement attains $O_{\Pp}(κ^{-2})$ localization in the small-jump regime, matching a Le Cam lower bound on a pure cubic family whose degree-two projection jump is exactly zero. Reproducible experiments at $d\in\{20,50,100,200\}$ and a three-change $d=100$ sequence demonstrate the intended high-dimensional regime without materializing a $(d+1)^3$ tensor.
+
+## Metadata
+- **Published**: 2026-08-16T01:21:55Z
+- **Authors**: Guoqing Zhang, Zhaixin Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15466v1)

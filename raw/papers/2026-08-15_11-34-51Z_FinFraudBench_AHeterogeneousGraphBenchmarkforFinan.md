@@ -1,0 +1,18 @@
+---
+title: FinFraudBench: A Heterogeneous Graph Benchmark for Financial Fraud Detection
+published: 2026-08-15T11:34:51Z
+authors: Yixuan Chen, Hongyu Zhan, Jie Sheng, Weiyu Han, Shuai Chen, Tianyi Zhang, Xiao Tan, Jun Xia
+url: http://arxiv.org/abs/2608.15177v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# FinFraudBench: A Heterogeneous Graph Benchmark for Financial Fraud Detection
+
+## Abstract
+The increasing complexity of digital financial systems has reshaped financial fraud detection from isolated transaction classification into relational risk reasoning over interconnected financial entities. This shift has motivated graph-based fraud detection, where models identify fraudulent nodes by exploiting dependencies among customers, cards, merchants, categories, and locations. However, despite rapid progress in graph-based methods, existing public benchmarks remain misaligned with real-world financial systems in two important aspects. First, they often simplify financial ecosystems into homogeneous or single-node-type multi-relational graphs, failing to preserve the multi-entity and multi-relational nature of financial data. Second, they rarely provide large-scale heterogeneous financial graph datasets with realistic operating conditions such as extreme class imbalance and limited label availability, making it difficult to assess the practical effectiveness of current methods. To address these gaps, we present FinFraudBench, a heterogeneous graph benchmark for financial fraud detection. FinFraudBench contains two heterogeneous graph datasets (CreditCard-Fraud and BankTrans-Fraud) with up to 8.99M nodes and 89.23M directed typed edges. Each dataset preserves six financial entity types, fourteen directed edge types, and natural fraud rates that mirror deployment constraints. With these datasets, we establish a standardized evaluation protocol covering both ranking and imbalance-sensitive classification metrics, and evaluate representative baselines. Extensive experiments yield empirical insights into current methods' limitations and suggest promising avenues for future research. FinFraudBench is available at https://anonymous.4open.science/r/FinFraudBench-B002.
+
+## Metadata
+- **Published**: 2026-08-15T11:34:51Z
+- **Authors**: Yixuan Chen, Hongyu Zhan, Jie Sheng, Weiyu Han, Shuai Chen, Tianyi Zhang, Xiao Tan, Jun Xia
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15177v1)

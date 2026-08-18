@@ -1,0 +1,18 @@
+---
+title: MicroVerse: An Instrument for Measuring Self-Authored Identity Drift in Long-Horizon Multi-Agent Language-Model Simulations
+published: 2026-08-16T16:31:42Z
+authors: Sky Ng, Brihi Joshi, Ishan Gupta, Shirley Huang, Zonglin Di, Yun Shen, Qianfeng Wen, Yifan Simon Liu, Ruoqi Gao,  Yilan,  Fan, Zhiwei Zhang, Muhammad Ahmed Mohsin, Yucheng Lu, Xiaoyi Liu, Heming Liu, Qianyu Zhu, Hanwen Xing, Zhengyang Shan, My Chiffon Nguyen, Guanghui Min,  Jianheng,  Hou,  Yunze,  Xiao, Keyang Xuan, Hannah Collison, Jintao Huang, Jiatong Li, Sankalp Jajee, Yunhan Zhao, Bing Hu, Xupeng Chen, Binghang Lu, Weihang Xiao, Aravind Mohan, Bolun Sun, Yunshu Wu, Yuanda Xu, Runyu Zhang, Zheyuan Deng,  Xinchen,  Tan, Dianzhuo Wang, Yijun Wang, Yixuan He, Koutian Wu, Cheng Cheng, Xiaomin Li, Yuexing Hao
+url: http://arxiv.org/abs/2608.15844v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MicroVerse: An Instrument for Measuring Self-Authored Identity Drift in Long-Horizon Multi-Agent Language-Model Simulations
+
+## Abstract
+Long-horizon, multi-agent language model (LM) simulations are widely proposed for studying social behavior, yet instruments to measure whether persona-conditioned agents maintain identity fidelity under sustained pressure are lacking. We present MicroVerse, a behavioral-science instrument that measures identity drift in generative agents. Agents carry an immutable "soul file" (core values, moral boundaries, personality, goals) and inhabit a resource-scarce 50 x 50 environment where water is a non-respawning survival constraint. Scarcity is operationalized via a per-tick existence-cost gradient. The eight-verb action space maps directly to moral boundaries (trade, talk, attack, scavenge). Using a three-layer memory architecture, agents periodically revise a mutable current identity against their immutable original soul via importance-triggered reflection. To mitigate survivor bias, MicroVerse decouples measurement from behavior using uniform longitudinal engine snapshots every N ticks alongside a forced-end snapshot of all living and dead agents. Identity drift is scored offline using a paraphrase-aware, value-anchored, multi-register diff rather than raw cosine similarity. We evaluate the instrument via a controlled seed run (n = 25) and a reflection-threshold sweep (thresholds {40, 80, 150}) to determine if drift dynamics are gate artifacts or threshold-robust properties. We report two primary findings: (1) Anti-self-deception emerges unprompted as the single largest semantic category of identity modification (27 of 111 added boundaries, 24%). (2) The system is threshold-robust; lower gates accelerate and increase revision frequency but preserve drift direction. All empirical results are strictly preliminary existence proofs and effect shapes (one model, one seed per arm, n = 25) rather than statistical significance claims.
+
+## Metadata
+- **Published**: 2026-08-16T16:31:42Z
+- **Authors**: Sky Ng, Brihi Joshi, Ishan Gupta, Shirley Huang, Zonglin Di, Yun Shen, Qianfeng Wen, Yifan Simon Liu, Ruoqi Gao,  Yilan,  Fan, Zhiwei Zhang, Muhammad Ahmed Mohsin, Yucheng Lu, Xiaoyi Liu, Heming Liu, Qianyu Zhu, Hanwen Xing, Zhengyang Shan, My Chiffon Nguyen, Guanghui Min,  Jianheng,  Hou,  Yunze,  Xiao, Keyang Xuan, Hannah Collison, Jintao Huang, Jiatong Li, Sankalp Jajee, Yunhan Zhao, Bing Hu, Xupeng Chen, Binghang Lu, Weihang Xiao, Aravind Mohan, Bolun Sun, Yunshu Wu, Yuanda Xu, Runyu Zhang, Zheyuan Deng,  Xinchen,  Tan, Dianzhuo Wang, Yijun Wang, Yixuan He, Koutian Wu, Cheng Cheng, Xiaomin Li, Yuexing Hao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15844v1)

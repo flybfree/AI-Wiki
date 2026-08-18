@@ -1,0 +1,18 @@
+---
+title: SoftModel: A Neural Model That Grows Its Own Topology -- Governed Structural Growth for Continual In-Service Learning
+published: 2026-08-17T11:03:51Z
+authors: Zhoumin Xie
+url: http://arxiv.org/abs/2608.16409v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SoftModel: A Neural Model That Grows Its Own Topology -- Governed Structural Growth for Continual In-Service Learning
+
+## Abstract
+Today, a neural system is almost always used in two phases -- trained, then deployed -- and in that regime it freezes twice: training ends, and the topology itself was never a degree of freedom. We take the opposite premise as an axiom -- total plasticity: no part of a model, including its structure, is ever frozen -- and derive the governance a lifelong learner then requires. The design's target regime is continual, in-service learning: a long-lived model on a non-stationary stream, whose stability comes from governance rather than immobility and whose capacity follows demand. The result is a growable soft model: an algebra of structural operators (width, hierarchy, composition, input interface, grown cycles, attention heads), each exact at application, budgeted, and audited, with adoption decided solely by a held-out reality gate that treats parametric and structural change uniformly. A complete from-scratch system realizes the whole account; its factory surface is operated end-to-end by a production LLM. Two conclusions follow from the axiom by construction: stability under lifelong change becomes an audit property of the lifecycle, and structure that follows demand removes the silent cap a fixed topology places on later capability where the capacity floor binds. A third is measured: in the worlds where this was measured, the marginal value of new capacity was unobservable before adoption, so workable growth governance took its ex-post form. The same governance extends to evaluative signals, and the core method is evaluated on standard continual-learning benchmarks, where governed growth preserves the ability to keep learning along long task sequences. A pre-registered experimental program adjudicates the mechanism and value claims on the tested problems and reports its failures at full prominence; the map -- positive and negative -- is the contribution.
+
+## Metadata
+- **Published**: 2026-08-17T11:03:51Z
+- **Authors**: Zhoumin Xie
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.16409v1)

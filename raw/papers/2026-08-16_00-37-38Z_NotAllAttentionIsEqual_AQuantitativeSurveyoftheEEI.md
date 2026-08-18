@@ -1,0 +1,18 @@
+---
+title: Not All Attention Is Equal: A Quantitative Survey of the EEI Trade-off
+published: 2026-08-16T00:37:38Z
+authors: Aditya Singh
+url: http://arxiv.org/abs/2608.15459v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Not All Attention Is Equal: A Quantitative Survey of the EEI Trade-off
+
+## Abstract
+Attention mechanisms have driven machine learning for a decade, from neural machine translation to language models that do general-purpose reasoning. This survey covers four connected threads: their formulation for sequence-to-sequence tasks, adaptation to computer vision, efficiency innovations that address the quadratic bottleneck, and advances in interpretability. We define three criteria: efficiency, expressiveness, and interpretability, and compare twenty-one methods using an EEI scoring framework. Scores come from a single rater with an assumed +/-1-point perturbation range. A deterministic Monte Carlo analysis with 200,000 samples shows that, under this perturbation model, rank changes of more than one position occur in 67-70% of samples on average. A rank-matched null model reproduces a similar stability profile, so the results support coarse tier-level comparisons rather than fine-grained rankings. The survey traces attention from Bahdanau-Luong alignment through the Transformer and into vision architectures. It reviews fixed and learned sparse attention, linear attention, IO-aware exact algorithms including FlashAttention, and state-space alternatives including Mamba. It also covers induction heads, superposition, and the attention-SSM duality. We further provide a structured narrative review, a benchmark synthesis with cross-study caveats, a five-problem research gap analysis, and a 2015-2026 evolution timeline. We conclude by framing attention research as an expansion of the efficiency-expressiveness-interpretability frontier and identifying future directions including unified efficiency benchmarks, learned routing for hybrid architectures, length generalization, and scalable mechanistic interpretability.
+
+## Metadata
+- **Published**: 2026-08-16T00:37:38Z
+- **Authors**: Aditya Singh
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15459v1)

@@ -1,0 +1,18 @@
+---
+title: GALA: Generation-Aware Cross-Modal Alignment for Text-to-Time-Series Synthesis
+published: 2026-08-13T19:57:07Z
+authors: Haochen Zhang, Gengwei Zhang, Laura Yao, Nicholas Konz, Tianlong Chen
+url: http://arxiv.org/abs/2608.13741v2
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# GALA: Generation-Aware Cross-Modal Alignment for Text-to-Time-Series Synthesis
+
+## Abstract
+Synthesizing time series from natural language is emerging as the most expressive form of controllable time series generation. However, existing text-conditioned generators either take caption embeddings frozen from off-the-shelf text encoders, or adapt the encoder end-to-end, letting the denoising loss shape the embeddings only as a by-product. In either case, the conditioning representation is never deliberately matched to the signal modality, leaving it ill-suited to guide generation. We address this by introducing GALA: Generation-Aware cross-modaL Alignment for text conditional time series generation. GALA is a two-stage approach that first contrastively couples a pretrained text encoder with a time-series foundation model into a shared embedding space with both encoders adapted to generation by an auxiliary generative loss, and then freezes the resulting caption embedding to drive a flow-matching generator. On TSFragment-600K, spanning four domains and three fragment lengths, GALA sets a new state of the art, ranking first in 30 of 36 metric columns and reaching an average rank of 1.08/1.08/1.42 at lengths 24/48/96 against 1.92/2.00/1.75 for the strongest baseline. We further find that generator-internal text encoders force a trade-off between fidelity and caption adherence, whereas conditioning on the aligned embedding breaks it: FID, CTTP, and JFTSD all improve at once. Ablating the auxiliary loss degrades FID, CTTP and JFTSD together, it indicates the generative term is a necessary component of the alignment rather than an add-on.
+
+## Metadata
+- **Published**: 2026-08-13T19:57:07Z
+- **Authors**: Haochen Zhang, Gengwei Zhang, Laura Yao, Nicholas Konz, Tianlong Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.13741v2)

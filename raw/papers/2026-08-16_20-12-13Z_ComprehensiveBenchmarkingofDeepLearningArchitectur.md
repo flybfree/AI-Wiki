@@ -1,0 +1,18 @@
+---
+title: Comprehensive Benchmarking of Deep Learning Architectures for Lung Cancer Histopathology
+published: 2026-08-16T20:12:13Z
+authors: Hadi Hasan, Safaa Salman, Lama Sleem, Ralph Mouawad, Ali Chehab
+url: http://arxiv.org/abs/2608.15915v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Comprehensive Benchmarking of Deep Learning Architectures for Lung Cancer Histopathology
+
+## Abstract
+Lung cancer remains the leading cause of cancer-related mortality worldwide, while histopathological diagnosis is often affected by inter-observer variability and the substantial workload associated with manual slide examination. Although deep learning has shown considerable potential in computational pathology, comprehensive benchmarks that integrate tissue classification and region segmentation within a unified analytical framework remain limited. This study presents a two-stage deep learning framework for multi-class tissue classification and pixel-level histopathological region segmentation, accompanied by a systematic comparison of state-of-the-art architectures at each stage. For tissue classification, six models, a custom convolutional neural network, VGG16, DenseNet, MobileNetV3, a custom Vision Transformer, and YOLO11, are evaluated on a combined dataset of 39,000 images derived from LC25000 and LungHist700. The models distinguish between adenocarcinoma, squamous cell carcinoma, and normal lung tissue. YOLO11 achieves the best classification performance, with an accuracy of 98.38%, a five-fold cross-validation accuracy of 98.21 +/- 0.35%, and a macro F1-score of 0.98. For region segmentation, U-Net, ResNet-encoder U-Net, DeepLabV3+, and YOLO11-seg are evaluated using the GlaS gland segmentation benchmark. DeepLabV3+ obtains the highest Intersection over Union of 0.80 and a Dice score of 0.89, while YOLO11-seg achieves a comparable Intersection over Union of 0.79 using approximately 14x fewer parameters. The best-performing classification and segmentation models are subsequently integrated into an end-to-end framework, providing an accurate, computationally efficient, and reproducible baseline for automated histopathological image analysis.
+
+## Metadata
+- **Published**: 2026-08-16T20:12:13Z
+- **Authors**: Hadi Hasan, Safaa Salman, Lama Sleem, Ralph Mouawad, Ali Chehab
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15915v1)

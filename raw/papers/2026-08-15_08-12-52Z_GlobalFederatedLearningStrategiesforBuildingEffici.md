@@ -1,0 +1,18 @@
+---
+title: Global Federated Learning Strategies for Building Efficient Personalized Models
+published: 2026-08-15T08:12:52Z
+authors: Seongyoon Kim
+url: http://arxiv.org/abs/2608.15107v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Global Federated Learning Strategies for Building Efficient Personalized Models
+
+## Abstract
+Federated learning (FL) is a practical framework that can train models on distributed user data while guaranteeing data privacy; however, due to heterogeneity in which each user has a different data distribution, problems frequently arise where both global and personalization performance deteriorate simultaneously. This dissertation presents methodologies for building efficient personalized models by identifying which strategies are effective in the global training stage and by showing how to preserve global knowledge while securing user-specific performance during local adaptation. First, we show that as data heterogeneity increases, the collapse of feature vectors is a more fundamental bottleneck than classifier weights, and propose a method that directly mitigates the discrepancy in representation magnitude between local and global models. Second, we analyze that a training approach that strengthens local alignment can induce forgetting of global knowledge (e.g., categories not observed locally), and propose a method that achieves both local alignment and global knowledge preservation by combining feature distillation based on the global model's feature vectors. Third, in federated personalized reward model learning with preference heterogeneity, we empirically verify the conventional belief that "increasing the number of global models yields better initialization," and we show that when sufficient local fine-tuning is allowed, a single global initialization can instead provide stronger personalization performance. This study redefines the role of global initialization under data and preference heterogeneity and provides practical training strategies that simultaneously satisfy global knowledge preservation and personalization.
+
+## Metadata
+- **Published**: 2026-08-15T08:12:52Z
+- **Authors**: Seongyoon Kim
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15107v1)

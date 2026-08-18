@@ -1,0 +1,18 @@
+---
+title: Beyond Direct Access: Resource Hijacking in LLM Agents
+published: 2026-08-15T08:16:59Z
+authors: Puyu Zeng, Qibing Ren
+url: http://arxiv.org/abs/2608.15108v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Direct Access: Resource Hijacking in LLM Agents
+
+## Abstract
+Large language model agents are increasingly connected to high-value resources such as computing infrastructure, credentials, usage budgets, identities, private knowledge, communication channels, and organizational workflows. Existing agent security research mainly studies attacks on instructions, data, and tool behaviors, while high-value resources accessible to agents have received much less attention as direct attack targets. We are the first to identify and systematically study agent resource hijacking, a security blind spot in which attackers induce agents to invoke, consume, transfer, or control high-value resources for their own goals without directly obtaining those resources or their credentials. To study this threat, we introduce ResourceHijackBench together with an automated pipeline for generating resource hijacking cases. We organize high-value agent resources into six categories and construct 300 attack scenarios with 900 attack prompts. Each case runs in an isolated local environment that records actual resource use, allowing attacks to be evaluated from agent behavior rather than text responses alone. Without additional defenses, OpenClaw reaches an average attack success rate of 84.06%. The attack remains effective across different model backends, with average success rates ranging from 69.98% to 89.58%. Existing defenses reduce part of the risk, but the strongest evaluated defense still leaves an average attack success rate of 55.11%. These results show that high-value resources accessible to agents form an important and previously overlooked attack surface, and that current agent defenses are not sufficient to protect them from resource hijacking.
+
+## Metadata
+- **Published**: 2026-08-15T08:16:59Z
+- **Authors**: Puyu Zeng, Qibing Ren
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15108v1)

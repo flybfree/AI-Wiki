@@ -1,0 +1,18 @@
+---
+title: The Physical Cutoff Does Not Restore Homogenization: Phase-Dependent Burning in the Strain G-Equation
+published: 2026-08-15T17:41:14Z
+authors: Michele Caprio
+url: http://arxiv.org/abs/2608.15337v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# The Physical Cutoff Does Not Restore Homogenization: Phase-Dependent Burning in the Strain G-Equation
+
+## Abstract
+We disprove the expectation stated by Xin, Yu, and Ronney that the physical positive part strain $G$-equation should possess an effective burning velocity in cellular flows. For the standard cellular flow in dimension two $V_A(x_1,x_2)=A(-\sin x_1\cos x_2,\cos x_1\sin x_2)$, if $0<d<20/399$ and $\sqrt{1+4d^2}<Ad\le1+d/10$, then for every unit planar slope the periodic correction develops oscillations at least linearly in time. The solution remains bounded below on an explicit horizontal channel through $(π,0)$, while at $(π/2,0)$ it decreases at rate at least $CA/\log A$, with $C>0$ universal. The same conclusions hold for arbitrary continuous periodic perturbations of planar initial data. Under the physical scaling $V_A(x/\varepsilon)$ and $d_\varepsilon=\varepsilon d$, an order one value gap persists between points at distance $O(\varepsilon)$ at every positive macroscopic time, so the rescaled solutions have no locally uniformly convergent subsequence. The proof uses the Hamiltonian sandwich $H_{\mathrm{unc}}\le H_+\le\widehat H$. The upper comparator $\widehat H$ is a rectangular support function, equivalently an upper expectation over a state-dependent credal set, whose reversed control dynamics possess an invariant comparison channel. We also prove that for any $C^2$ incompressible periodic flow, every $\varepsilon$-outward barrier certificate has covering radius at most $2d\varepsilon$ for all sufficiently small $\varepsilon$. We further discuss implications for statistics and machine learning: rectangular, time-consistent local uncertainty need not imply forgetting of the initial state in the long run, so additional global stability or ergodicity conditions are needed in robust sequential decision making. Two Lean 4 appendices record conditional formalizations of a sufficient $p=e_1$ subregime and of the logical assembly of the rigidity theorem for barrier certificates.
+
+## Metadata
+- **Published**: 2026-08-15T17:41:14Z
+- **Authors**: Michele Caprio
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15337v1)

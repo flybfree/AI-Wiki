@@ -2215,3 +2215,12 @@ tags: ['wiki']
 - [[2026-08-17_GPUOffloadinRust_Portable_Safe_andFast.md]] : GPU Offload in Rust: Portable, Safe, and Fast
 - [[2026-08-17_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
 - [[2026-08-17_AIautomationstartupRelayshutsdown_staffjoinsGoogle.md]] : AI automation startup Relay shuts down, staff joins Google’s Chrome team
+- [[2026-08-17_Anthropic_sannualizedrevenuesurgesto_65B.md]] : Anthropic’s annualized revenue surges to $65B
+- [[2026-08-17_EvaxionExpandsPipelinewithEVX-05_anAI-DesignedOff-.md]] : Evaxion Expands Pipeline with EVX-05, an AI -Designed Off-the-Shelf Glioblastoma Vaccine
+- [[2026-08-18_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-18_EvaxionExpandsPipelinewithEVX-05_anAI-DesignedOff-.md]] : Evaxion Expands Pipeline with EVX-05, an AI -Designed Off-the-Shelf Glioblastoma Vaccine
+- [[2026-08-18_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-18_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-18_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[2026-08-18_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-18_TheDefender_sWindow.md]] : The Defender’s Window
