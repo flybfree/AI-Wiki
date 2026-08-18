@@ -2234,3 +2234,11 @@ tags: ['wiki']
 - [[2026-08-18_Firefox__8217_sSmartWindowpromisesabetterAIbrowser.md]] : Firefox&#8217;s Smart Window promises a better AI browser
 - [[2026-08-18_TheAmazonTax.md]] : The Amazon Tax
 - [[2026-08-18_Claude_DegradedPerformanceforMultipleModels.md]] : Claude: Degraded Performance for Multiple Models
+- [[2026-08-18_ClaudeCodeweeklylimitsreducebyathirdtomorrow.md]] : Claude Code weekly limits reduce by a third tomorrow
+- [[2026-08-18_OpenAIinstitutesnewsafeguardsafterHuggingFacebreac.md]] : OpenAI institutes new safeguards after Hugging Face breach
+- [[2026-08-18_Turbovec_Google_sTurboQuantforvectorsearchinRust.md]] : Turbovec – Google's TurboQuant for vector search in Rust
+- [[2026-08-18_StrengtheningDemocraticOversightinNationalSecurity.md]] : Strengthening Democratic Oversight in National Security
+- [[2026-08-18_RobinWilliams_Instagramaccountbroughtbacktofight_A.md]] : Robin Williams’ Instagram account brought back to fight ‘AI abuse’
+- [[2026-08-18_BewareManagementConsultants.md]] : Beware Management Consultants
+- [[2026-08-18_Strengtheningdemocraticoversightinnationalsecurity.md]] : Strengthening democratic oversight in national security
+- [[2026-08-18_CursorcapitalizesonGitHubfrustration_launchesrival.md]] : Cursor capitalizes on GitHub frustration, launches rival hosting platform
