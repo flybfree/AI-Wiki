@@ -1,0 +1,18 @@
+---
+title: Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction
+published: 2026-08-18T17:48:22Z
+authors: Veronika Spieker, Wenqi Huang, Cemre Ariyurek, Liam Timms, Daniel Rueckert, Onur Afacan, Julia A. Schnabel, Sila Kurugol
+url: http://arxiv.org/abs/2608.18055v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction
+
+## Abstract
+Reliable quantitative analysis of dynamic contrast-enhanced MRI requires high-quality spatiotemporal reconstructions at high undersampling rates. Scan-specific reconstructions using Gaussian and Gabor primitives have shown promising results without the need for large training datasets, but have not addressed the additional dimension of dynamic contrast. We propose a multi-dimensional, primitive based framework for dynamic contrast-enhanced MRI reconstruction that disentangles the underlying anatomy, the dynamic contrast enhancement, and residual motion into separate temporal basis functions, thereby enabling a geometrical interpretation of the representation. We show that this architecture achieves performance competitive with conventional reconstruction methods, both in reconstruction quality and in the accuracy of extracted aorta and kidney enhancement curves. The modular tier design extends naturally to additional dynamic factors and higher acceleration rates. Code available at https://github.com/compai-lab/ 2026-GaborDCE-spieker.
+
+## Metadata
+- **Published**: 2026-08-18T17:48:22Z
+- **Authors**: Veronika Spieker, Wenqi Huang, Cemre Ariyurek, Liam Timms, Daniel Rueckert, Onur Afacan, Julia A. Schnabel, Sila Kurugol
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.18055v1)

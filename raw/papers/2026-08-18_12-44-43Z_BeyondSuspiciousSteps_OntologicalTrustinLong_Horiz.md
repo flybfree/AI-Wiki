@@ -1,0 +1,18 @@
+---
+title: Beyond Suspicious Steps: Ontological Trust in Long-Horizon Agents
+published: 2026-08-18T12:44:43Z
+authors: An He, Yao Wang, Haibin Zhang
+url: http://arxiv.org/abs/2608.17718v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Suspicious Steps: Ontological Trust in Long-Horizon Agents
+
+## Abstract
+Long-horizon agents increasingly operate across many steps, tools, and observa- tions. In this setting, the relevant oversight question is not only whether each action is locally valid, but whether the evolving trajectory still corresponds to the task the user authorized. Drift can accumulate quietly: an agent may call the right tool with plausible arguments at every step, while its prefix moves toward a broader role, an adjacent objective, or evidence the user never supplied. Existing monitors mostly check local compliance, deliver final-trace verdicts, or score generic risk; they do not directly estimate this prefix-level relation. We introduce ontological trust, a task-conditioned property of trajectory prefixes, and instantiate it as RGE, an online monitor that decomposes trust along Role, Goal, and Evidence. RGE uses LLMs only to derive structured task and step representations; trust-state updates, projec- tions, and intervention decisions are deterministic, so the output is a replayable and auditable trust trajectory rather than a single end-to-end judge verdict. We construct a cross-domain trajectory corpus from OSWorld, FinanceBench, and EICU-AC, covering benign executions, prefix-paired drift, and pseudo-consistency failures. On this corpus, RGE outperforms adapted rule-, judge-, and shield-style baselines on prefix-paired drift detection. With the two larger estimator models, it exceeds 93% Drift F1 on every benchmark while keeping benign coverage at or above 95.8%. Pseudo-consistency is harder: detection depends on whether task completion is externally visible, a structural limit we characterize empirically.
+
+## Metadata
+- **Published**: 2026-08-18T12:44:43Z
+- **Authors**: An He, Yao Wang, Haibin Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17718v1)

@@ -1,0 +1,18 @@
+---
+title: Explainable AI-Powered Framework for Video-Based Skill Assessment in Cataract Surgery
+published: 2026-08-18T08:45:27Z
+authors: Mohammad Javad Ahmadi, Hamid D. Taghirad
+url: http://arxiv.org/abs/2608.17522v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Explainable AI-Powered Framework for Video-Based Skill Assessment in Cataract Surgery
+
+## Abstract
+Persistent shortages in the surgical workforce and inherent limitations of traditional training methods highlight the necessity of automated, data-driven approaches in surgical education. This study addresses these challenges by introducing a novel, explainable AI-powered framework for automated skill assessment, specifically focusing on cataract surgery. We present the world's largest dataset of cataract surgery videos, comprising 2,000 recordings. Additionally, we propose an AI-powered analytical framework that employs advanced computer vision and signal-processing techniques to automatically evaluate surgical videos to derive objective, quantitative performance indicators that complement or potentially replace subjective scoring methods. A significant advantage of our framework over previous methods lies precisely in its explainability of outputs, elevating it beyond merely an opaque skill classification tool. Through experimental analysis of 83 cataract surgery videos, we demonstrate that the automatically computed metrics exhibit strong correlations with expert-based subjective evaluations, achieving up to 87% accuracy in surgical skill assessment. Each metric was individually examined, and expert surgeons provided subjective ratings using the newly introduced Capsulorhexis Skill Assessment System (CSAS). These subjective assessments were compared with ten objective motion-based metrics extracted through our framework. The results indicated a robust correlation between subjective ratings and automated indicators, underscoring the framework's capacity to accurately model surgical expertise.
+
+## Metadata
+- **Published**: 2026-08-18T08:45:27Z
+- **Authors**: Mohammad Javad Ahmadi, Hamid D. Taghirad
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17522v1)

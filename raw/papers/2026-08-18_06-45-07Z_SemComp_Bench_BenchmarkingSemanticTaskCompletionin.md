@@ -1,0 +1,18 @@
+---
+title: SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation
+published: 2026-08-18T06:45:07Z
+authors: Keyu Tu, Zhuowei Chen, Mengqi Huang, Yuxin Wang, Jiahao Zhu, Zhendong Mao, Yongdong Zhang
+url: http://arxiv.org/abs/2608.17426v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation
+
+## Abstract
+We introduce Semantic Task Completion Video Generation, an outcome-oriented video generation task. Under this formulation, success requires both achievement of the intended outcome and semantic grounding. Semantic grounding characterizes the correspondence between the reference image and the generated outcome in terms of high-level semantics relevant to the task. Evaluation focuses on the generated outcome and requires neither the presentation of a complete sequence of intermediate task steps nor conventional appearance consistency with the reference image. To support systematic evaluation, we construct SemComp-Data, an evaluation dataset covering six domains. Each instance comprises a reference image, a detailed instruction, a brief instruction, and an outcome-centric video clip. A scalable four-stage curation pipeline converts raw videos into standardized SemComp-Data instances. We further introduce SemComp-Bench, an evaluation protocol that uses a vision-language model (VLM) to answer structured binary questions. SemComp-Bench reports the OA Score and the GR Score for Outcome Achievement and Generation Reliability, respectively. Experiments on representative video generation models show that achieving intended outcomes while maintaining task-relevant semantic grounding in reference images remains challenging.
+
+## Metadata
+- **Published**: 2026-08-18T06:45:07Z
+- **Authors**: Keyu Tu, Zhuowei Chen, Mengqi Huang, Yuxin Wang, Jiahao Zhu, Zhendong Mao, Yongdong Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17426v1)

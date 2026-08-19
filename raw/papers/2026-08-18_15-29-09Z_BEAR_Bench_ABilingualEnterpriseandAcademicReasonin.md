@@ -1,0 +1,18 @@
+---
+title: BEAR-Bench: A Bilingual Enterprise and Academic Reasoning Benchmark for Multimodal Models
+published: 2026-08-18T15:29:09Z
+authors: Liubov Chubarova, Alexandra Kuleshova, Daniil Volkov, Kirill Sultanov, Alexey Zaytsev
+url: http://arxiv.org/abs/2608.17895v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# BEAR-Bench: A Bilingual Enterprise and Academic Reasoning Benchmark for Multimodal Models
+
+## Abstract
+While Multimodal Large Language Models (MLLMs) have made significant strides in visual comprehension, their ability to reason about text-dense, professional documents remains incompletely evaluated. Existing benchmarks emphasize information extraction, require external domain knowledge, or cover professional documents only as one of many settings. They are also largely English- or Chinese-centric, leaving other languages and Russian, in particular, substantially underrepresented. To address these limitations, we introduce BEAR-Bench (Bilingual Enterprise and Academic Reasoning), a self-contained, complex English-and-Russian benchmark comprising 1000 human-annotated questions based on text-rich business and scientific documents. We evaluate 16 proprietary and open-weight MLLMs, including Gemini 3.1 Pro and Qwen3.5-397B, on BEAR-Bench and observe clear headroom even for the strongest systems. Finally, we use the resulting model outputs to compare existing hallucination detection methods, evaluating not only how often models fail on BEAR-Bench but also how reliably those failures can be identified.
+
+## Metadata
+- **Published**: 2026-08-18T15:29:09Z
+- **Authors**: Liubov Chubarova, Alexandra Kuleshova, Daniil Volkov, Kirill Sultanov, Alexey Zaytsev
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17895v1)

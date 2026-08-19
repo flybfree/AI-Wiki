@@ -1,0 +1,18 @@
+---
+title: FedPref: Federated Preference Learning for Structured Radiology Report Extraction
+published: 2026-08-17T12:29:42Z
+authors: Flint Xiaofeng Fan, Cheston Tan, Yew-Soon Ong, Roger Wattenhofer
+url: http://arxiv.org/abs/2608.16971v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# FedPref: Federated Preference Learning for Structured Radiology Report Extraction
+
+## Abstract
+Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learning this extraction requires labels that are unevenly distributed across institutions: smaller hospitals have less local evidence, and pooling data may be infeasible. We introduce FedPref: frozen public language models propose alternative JSON extractions, local annotations rank them, and sites collaboratively train compact Qwen3-8B adapters while sharing only model updates. A heterogeneous teacher pool provides cross-model contrast when repeated single-model samples collapse. On development data from six simulated hospitals with unequal data volume and disease prevalence, FedPref improves client-mean F1 by 2.49 points and worst-site F1 by 9.10 points compared with training each site in isolation, with the largest gains at the sites holding the least data. Central training on the pooled preference-pair union is 2.66 points higher on client-mean F1. On a locked, 400-report manually validated gold test set, FedPref reaches 68.68 F1 and pooled training 71.67, preserving that same ordering. FedPref thus lets institutions with unequal, unpooled data benefit from collaboration without ever sharing reports or annotations.
+
+## Metadata
+- **Published**: 2026-08-17T12:29:42Z
+- **Authors**: Flint Xiaofeng Fan, Cheston Tan, Yew-Soon Ong, Roger Wattenhofer
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.16971v1)

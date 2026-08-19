@@ -1,0 +1,18 @@
+---
+title: Where a New Concept Must Enter: Entry Point Gates Cross-Task Usability in Unified Multimodal Models
+published: 2026-08-18T09:23:35Z
+authors: Zongyang Qiu, Yihan Wu, Kaixuan Fan, Bo Li, Hui Xiong
+url: http://arxiv.org/abs/2608.17564v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Where a New Concept Must Enter: Entry Point Gates Cross-Task Usability in Unified Multimodal Models
+
+## Abstract
+Unified multimodal models (UMMs) are motivated by the hope that understanding and generation reinforce each other but controlled ablations repeatedly find that adding a generation objective leaves understanding flat. Joint-training studies cannot settle the disagreement: with overlapping supervision, a gain cannot be attributed to the architecture rather than the data. To further investigate the relationship between the two directions in UMMs, we separate them by construction. A novel visual entity, a rendered 3D asset paired with a pseudo-word screened for absence from the frozen model's behavior, is bound through exactly one task direction, and the untrained direction is then measured. We find that the channel is real in both directions, but the directions differ in kind: generation training installs a name the model can only match among candidates; understanding training installs one it can also produce. What governs cross-task usability is where the binding enters the shared computation. An alignment probe predicts export across 36 configurations (Spearman $ρ= +0.68$). That objective's alignment term, maximized in closed form over activations with every weight frozen, makes a concept drawable when injected at layer 7 of 28 and is indistinguishable from the base model from layer 14 on, while the weight-based version of the same edit peaks at layers 10-14. In an observational series of four models, this window appears only where the understanding pathway is a semantic vision encoder, suggesting that unified weights are not enough: the two directions must share a semantic format at the entry point. Exploiting the rule, a mid-stack alignment objective acquires the concept for a $0.1\%$ relative loss of the model's general text-to-image ability, against $41\%$ for the standard generative route. Our code is at https://github.com/Zane-ZYQiu/entry-point-umm.
+
+## Metadata
+- **Published**: 2026-08-18T09:23:35Z
+- **Authors**: Zongyang Qiu, Yihan Wu, Kaixuan Fan, Bo Li, Hui Xiong
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17564v1)

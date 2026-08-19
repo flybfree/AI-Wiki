@@ -1,0 +1,18 @@
+---
+title: Learning What Not to Learn: Adversarial Disentangled Prompt Tuning for Robust Vision-Language Models
+published: 2026-08-18T03:00:27Z
+authors: Yang Chen, Zhan Zhuang, Yanbin Wei, Zebin Chen, Hua Liu, Yu Zhang
+url: http://arxiv.org/abs/2608.17306v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Learning What Not to Learn: Adversarial Disentangled Prompt Tuning for Robust Vision-Language Models
+
+## Abstract
+While adversarial prompt tuning can enhance robustness of vision-language models efficiently, we find that existing methods aggravate robust generalization overfitting on seen classes, leading to a rapid degradation in performance against adversarial examples of unseen classes as training progresses. We empirically identify that this degradation stems from the tendency of the model to learn pseudo-robust features (i.e., non-generalizable shortcuts). To mitigate this, we propose ADAPT (Adversarial Disentangled Prompt Tuning), a robust prompt tuning framework following the philosophy of ``Learning What Not to Learn''. Specifically, ADAPT uses a dual-prompt mechanism with a target prompt and a pool of decoy prompts. During training, the decoy prompts are guided to entrap diverse pseudo-robust features, while the target prompt is constrained to be orthogonal to the decoys in the embedding space to learn robust features. By disentangling the robust features from the pseudo-robust features, ADAPT effectively prevents robust generalization overfitting. We further provide an analysis showing that the orthogonal loss bounds the effect of shifts in pseudo-robust features on unseen classes, yielding a testing error guarantee. Empirically, extensive experiments demonstrate that ADAPT substantially improves the robustness of the target prompt on unseen classes. The code is available at https://github.com/cheny02/ADAPT-ACMMM2026.
+
+## Metadata
+- **Published**: 2026-08-18T03:00:27Z
+- **Authors**: Yang Chen, Zhan Zhuang, Yanbin Wei, Zebin Chen, Hua Liu, Yu Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17306v1)

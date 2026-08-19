@@ -1,0 +1,18 @@
+---
+title: OOD Detection for EEG-based Machine Learning in High-Risk Environments
+published: 2026-08-18T10:33:58Z
+authors: Philipp Bomatter, Henry Gouk
+url: http://arxiv.org/abs/2608.17620v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# OOD Detection for EEG-based Machine Learning in High-Risk Environments
+
+## Abstract
+Machine learning models for electroencephalography (EEG) analysis show great promise across a wide range of applications, but their deployment in high-risk domains is hindered by their vulnerability to distribution shifts. Encountering out-of-distribution (OOD) data can lead to catastrophic, overconfident predictive failures. While OOD detection methods can mitigate these risks, they remain heavily under-explored for EEG. Moreover, evaluations in the broader literature typically evaluate OOD detection performance in isolation, ignoring their practical impact on downstream applications. To bridge this gap, we introduce a benchmark for EEG OOD detection, evaluate a broad range of methods, and furthermore evaluate their value in two clinical downstream prediction task. Our results disentangle OOD detection and model uncertainty estimation capabilities, which are frequently conflated in the literature, provide actionable insights about the current state of the art for EEG OOD detection and model uncertainty estimation, and demonstrate how complementary methods for both aspects can be combined to form a robust safety net for the deployment of EEG-based machine learning models in real-world applications.
+
+## Metadata
+- **Published**: 2026-08-18T10:33:58Z
+- **Authors**: Philipp Bomatter, Henry Gouk
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17620v1)

@@ -1,0 +1,18 @@
+---
+title: Synthesizing Feature Extractors: An Agentic Approach for Algorithm Selection
+published: 2026-08-17T22:12:12Z
+authors: Hai Xia, Carlos Ansótegui, Stefan Szeider
+url: http://arxiv.org/abs/2608.17170v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Synthesizing Feature Extractors: An Agentic Approach for Algorithm Selection
+
+## Abstract
+Algorithm selection for constraint satisfaction problems requires extracting features that capture problem structure. Manually designing feature extractors demands deep domain expertise and quickly becomes a bottleneck when new problem classes appear. We present an automated approach that uses Large Language Models (LLMs) in an agentic check--fix--verify loop to synthesize executable Python scripts that act as interpretable, problem-specific feature extractors. Given a high-level MiniZinc model and an instance, the LLM agent generates code that constructs a typed graph representation and computes structural properties such as graph density, variable clustering, and constraint tightness. We evaluate our approach on three combinatorial problems (vehicle routing, car sequencing, fixed-length error-correcting codes) with a portfolio of five state-of-the-art solvers. The synthesized extractors yield algorithm selectors that consistently outperform both expert-curated mzn2feat features (up to $8.3$ percentage points (pp) test-set accuracy on FLECC) and the best transformer-based trans2feat variants. In the meanwhile, the synthesized feature extractors remain inspectable.
+
+## Metadata
+- **Published**: 2026-08-17T22:12:12Z
+- **Authors**: Hai Xia, Carlos Ansótegui, Stefan Szeider
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17170v1)

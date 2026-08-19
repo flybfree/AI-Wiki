@@ -100,6 +100,9 @@ def candidate(path: Path) -> dict[str, Any]:
             heading = re.search(r"^#\s+(?!Summary:)\s*(.+)$", body, re.MULTILINE)
         title = heading.group(1).strip() if heading else path.stem
     source = meta.get("source_url") or meta.get("url") or meta.get("source") or ""
+    source_reference = re.search(r"^Source:\s*(.+)$", body, re.MULTILINE)
+    if not source and source_reference:
+        source = source_reference.group(1).strip()
     if not source:
         source_link = re.search(r"\*\*Source\*\*:\s*\[[^]]+\]\(([^)]+)\)", body)
         source = source_link.group(1) if source_link else ""
@@ -118,7 +121,39 @@ def candidate(path: Path) -> dict[str, Any]:
         "tags": [str(tag) for tag in tags] if isinstance(tags, list) else [],
         "preview": re.sub(r"\s+", " ", summary + " " + takeaways).strip()[:900],
         "features": _tokens(title + " " + " ".join(map(str, tags)) + " " + summary + " " + takeaways),
+        "identity": _identity(source or title),
     }
+
+
+def _identity(value: str) -> str:
+    """Return a stable identity for generated summaries of one source.
+
+    The summarizer appends ``_YYYYMMDD_HHMM`` when it sees an existing output.
+    That timestamp is an output-generation detail, not a new paper identity.
+    """
+    value = re.sub(r"\.md$", "", str(value).strip(), flags=re.IGNORECASE)
+    value = re.sub(r"_\d{8}_\d{4}$", "", value)
+    value = re.sub(r"[^a-z0-9]+", " ", value.lower())
+    return re.sub(r"\s+", " ", value).strip()
+
+
+def _dedupe_candidates(items: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Keep one review card per source, without deleting any files."""
+    chosen: dict[str, dict[str, Any]] = {}
+    decision_rank = {"keep": 0, "reject": 1, "skip": 2, "pending": 3}
+    for item in items:
+        key = item["identity"]
+        current = chosen.get(key)
+        if current is None:
+            chosen[key] = item
+            continue
+        current_rank = (decision_rank.get(current["decision"], 3),
+                        len(current["path"]), current["path"])
+        item_rank = (decision_rank.get(item["decision"], 3),
+                     len(item["path"]), item["path"])
+        if item_rank < current_rank:
+            chosen[key] = item
+    return list(chosen.values())
 
 
 def _decisions(db: sqlite3.Connection) -> dict[str, sqlite3.Row]:
@@ -190,6 +225,7 @@ def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -
         if status == "all" or item["decision"] == status:
             result.append(item)
     db.close()
+    result = _dedupe_candidates(result)
     result.sort(key=lambda item: (-item["score"], item["title"].lower()))
     return result[max(0, offset) : max(0, offset) + max(1, min(limit, 200))]
 

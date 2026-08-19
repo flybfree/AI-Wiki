@@ -2242,3 +2242,15 @@ tags: ['wiki']
 - [[2026-08-18_BewareManagementConsultants.md]] : Beware Management Consultants
 - [[2026-08-18_Strengtheningdemocraticoversightinnationalsecurity.md]] : Strengthening democratic oversight in national security
 - [[2026-08-18_CursorcapitalizesonGitHubfrustration_launchesrival.md]] : Cursor capitalizes on GitHub frustration, launches rival hosting platform
+- [[2026-08-18_A3DfruitflyonmacOSdesktoppoweredbytherealFlyWireco.md]] : A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+- [[2026-08-18_NestlébetsbigonGLP-1swithAI-powerednutritionpush-F.md]] : Nestlé bets big on GLP-1s with AI -powered nutrition push - Food Navigator
+- [[2026-08-19_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-19_NestlébetsbigonGLP-1swithAI-powerednutritionpush-F.md]] : Nestlé bets big on GLP-1s with AI -powered nutrition push - Food Navigator
+- [[2026-08-19_CursorcapitalizesonGitHubfrustration_launchesrival.md]] : Cursor capitalizes on GitHub frustration, launches rival hosting platform
+- [[2026-08-19_Meta_sblockbustertrialdrawsparallelstobigtobacco.md]] : Meta's blockbuster trial draws parallels to big tobacco
+- [[2026-08-19_RobinWilliams_Instagramaccountbroughtbacktofight_A.md]] : Robin Williams’ Instagram account brought back to fight ‘AI abuse’
+- [[2026-08-19_ChatGPTAdsexpandsacrossEurope.md]] : ChatGPT Ads expands across Europe
+- [[2026-08-19_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[2026-08-19_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-19_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[2026-08-19_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5

@@ -1,0 +1,18 @@
+---
+title: Lymphocyte Mimicry Correction via Region-Level Tissue Reasoning and Unbalanced Optimal Transport
+published: 2026-08-17T21:33:55Z
+authors: Xiang Li, Yuqi Wang, Casey C. Heirman, Jihye Heo, Kyle J. Lafata
+url: http://arxiv.org/abs/2608.17151v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Lymphocyte Mimicry Correction via Region-Level Tissue Reasoning and Unbalanced Optimal Transport
+
+## Abstract
+Cell mimicry arises when different cell types appear morphologically similar. Human pathologists resolve this ambiguity using surrounding tissue context, whereas current vision models either lack contextual reasoning (cell foundation models) or cannot operate at the cell level (pathology MLLMs). We present Loki-OT, which propagates region-level tissue reasoning to individual cell predictions via Unbalanced Optimal Transport, using MLLM-derived density priors as soft guidance for ambiguous cell reassignment. Loki-OT is motivated by the observation that pretrained cell foundation model features already encode discriminative information, including tissue context, but standard cell-level supervision fails to use tissue context effectively. The resulting transport plan is distilled into a lightweight student MLP classifier that learns context-aware decision boundaries within the pretrained feature space. On the independent TCGA-BRCA cohort, Loki-OT achieved lower patient-level MAE than the fully supervised in-domain PanopTILs classifier and improved F1 in epithelium-rich mimicry tissues, using 278 weak region-level MLLM estimates built on a general-domain cell foundation model. Code: https://github.com/xiangli980/Lymphocyte_Mimicry_Correction_via_Loki_OT
+
+## Metadata
+- **Published**: 2026-08-17T21:33:55Z
+- **Authors**: Xiang Li, Yuqi Wang, Casey C. Heirman, Jihye Heo, Kyle J. Lafata
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17151v1)

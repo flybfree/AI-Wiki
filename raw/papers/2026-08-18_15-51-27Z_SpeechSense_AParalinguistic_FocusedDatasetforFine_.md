@@ -1,0 +1,18 @@
+---
+title: SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis
+published: 2026-08-18T15:51:27Z
+authors: Shicheng Ma, Wenqian Cui, Irwin King
+url: http://arxiv.org/abs/2608.17931v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SpeechSense: A Paralinguistic-Focused Dataset for Fine-Grained Speech Sentiment Analysis
+
+## Abstract
+Recent advances in AI have revolutionized speech processing, yet effective speech understanding requires discerning not just what is said, but how it is said. Speech Sentiment Analysis plays a critical role in decoding these paralinguistic cues for diverse real-world applications such as recruitment and customer service. However, existing Speech Sentiment Analysis research faces two primary limitations. First, dominant approaches rely on text-centric pipelines that cascade Automatic Speech Recognition with text analysis. This process inevitably discards essential acoustic features like prosody and tone, failing to capture attitudinal meanings in acoustically ambiguous utterances. Second, current benchmarks suffer from a mismatch in label granularity, prioritizing basic emotions (e.g., happy, sad) over the nuanced interpersonal stances (e.g., confident, impatient) necessary for social sensitivity. To address these limitations, we propose a novel dataset, SpeechSense, for fine-grained speech sentiment analysis. Specifically, we define a specialized 8-class taxonomy of interpersonal stances detectable primarily through prosodic cues beyond lexical content alone. We then construct a curated dataset based on this taxonomy, built from high-fidelity speech synthesis and rigorous human validation. Comprehensive experiments across multi-modal LLMs, text-only LLMs, and speech encoders demonstrate that models with acoustic access consistently outperform text-only baselines. These results empirically validate the primacy of acoustic cues in detecting subtle speaker attitudes, highlighting the necessity of SpeechSense. Dataset and supplementary materials are available at https://github.com/Sher13cked/SpeechSense.
+
+## Metadata
+- **Published**: 2026-08-18T15:51:27Z
+- **Authors**: Shicheng Ma, Wenqian Cui, Irwin King
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17931v1)

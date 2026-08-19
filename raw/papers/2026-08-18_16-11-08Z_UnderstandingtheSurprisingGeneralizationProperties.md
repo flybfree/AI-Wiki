@@ -1,0 +1,18 @@
+---
+title: Understanding the Surprising Generalization Properties of Tabular Foundation Models
+published: 2026-08-18T16:11:08Z
+authors: Nour Shaheen, Junwei Ma, Alex Labach, Frank Hutter, Valentin Thomas, Anthony L. Caterini
+url: http://arxiv.org/abs/2608.17957v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Understanding the Surprising Generalization Properties of Tabular Foundation Models
+
+## Abstract
+Tabular Foundation Models (TFMs) increasingly rely on in-context learning, where a model receives labelled examples at inference time and predicts labels for new inputs without updating its weights. Existing TFMs are typically trained on either massive synthetic corpora or very large collections of real datasets. In contrast, we show that surprisingly strong transfer can emerge from self-supervised pre-training on just a single real table. In this setting, we also find that tables tend to be either broadly useful or broadly poor regardless of downstream prediction task, and that the strongest predictor of usefulness is the number of features rather than the number of instances. This leads to a task-centric interpretation of tabular pre-training: the number and the quality of tasks are essential for the pre-training of TFMs.   We show that the same task-centric perspective can help corpus design at scale: fine-grained column-level pre-processing consistently improves downstream performance, while no improvements are observed when we filter or deduplicate at the dataset level.   Finally, we offer a new perspective for how TFMs generalize: we believe that tabular in-context generalization is largely retrieval-based, and good models are those that learn to identify relevant examples in the provided context and aggregate them well. The mechanics of TFMs have been relatively understudied; our task-centric, retrieval-based perspective offers a new framework to guide future model and corpus design.
+
+## Metadata
+- **Published**: 2026-08-18T16:11:08Z
+- **Authors**: Nour Shaheen, Junwei Ma, Alex Labach, Frank Hutter, Valentin Thomas, Anthony L. Caterini
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17957v1)

@@ -1,0 +1,18 @@
+---
+title: ArguLens: An Open-Source System for Automated Essay Scoring and Label-Aware Feedback Generation
+published: 2026-08-18T04:23:50Z
+authors: Weiran Wang, Hongxiang Shi, Huitao Tang, Wenjuan Qin
+url: http://arxiv.org/abs/2608.17356v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ArguLens: An Open-Source System for Automated Essay Scoring and Label-Aware Feedback Generation
+
+## Abstract
+Most automated essay scoring (AES) systems output a single holistic score without interpretable evidence and rely on closed APIs that introduce data privacy and cost barriers. We present ArguLens, an opensource, locally deployable system that decomposes AES into three decoupled components: a discourse-move classifier (Qwen2.5-7B-Instruct fine-tuned with LoRA on PERSUADE 2.0), a grade-independent LightGBM scorer over 31 linguistic and discourse features, and a label-aware feedback generator served through vLLM with a Qwen2.5-14BInstruct backbone. A Gradio web UI exposes pluggable inference backends and supports single-essay and batch scoring with downloadable per-essay breakdowns. On an essaydisjoint PERSUADE 2.0 test split, the logitprobe classifier achieves 82.6% accuracy and 0.727 macro-F1; under prompt-grouped 5-fold cross-validation the scorer reaches a mean QWK of 0.813 under an oracle discoursefeature protocol, and an ablation shows that adding gold discourse annotations yields an increment of +0.055 QWK over the lexical+syntactic configuration (paired t-test, p = 0.010). This is a component-level diagnostic rather than an end-to-end classifier-to-scorer result. The feedback generator ships with a structured evaluation protocol; its human-rater study is left to future work. The system is released under Apache 2.0 at https://github.com/wwrwbs/AI_AWE.
+
+## Metadata
+- **Published**: 2026-08-18T04:23:50Z
+- **Authors**: Weiran Wang, Hongxiang Shi, Huitao Tang, Wenjuan Qin
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.17356v1)
