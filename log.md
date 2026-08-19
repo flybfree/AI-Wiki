@@ -9512,3 +9512,5 @@ tags: ['wiki']
 ## [2026-08-19 00:06] ingest | 2026-08-19_IntroducingInkling-Small.md
 ## [2026-08-19 00:06] ingest | 2026-08-19_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md
 ## [2026-08-19 00:06] ingest | 2026-08-19_IntroducingClaudeOpus5.md
+## [2026-08-19 06:24] ingest | 2026-08-19_HowAIcancontributetohumanculturalevolution_Max-Pla.md
+## [2026-08-19 06:24] ingest | 2026-08-19_RelativityNetworksraises_22milliontobringafasterki.md

@@ -2254,3 +2254,5 @@ tags: ['wiki']
 - [[2026-08-19_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-19_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
 - [[2026-08-19_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-19_HowAIcancontributetohumanculturalevolution_Max-Pla.md]] : How AI can contribute to human cultural evolution | Max-Planck-Gesellschaft
+- [[2026-08-19_RelativityNetworksraises_22milliontobringafasterki.md]] : Relativity Networks raises $22 million to bring a faster kind of fiber to data centers
