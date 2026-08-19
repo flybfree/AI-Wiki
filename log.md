@@ -9522,3 +9522,6 @@ tags: ['wiki']
 ## [2026-08-19 11:41] ingest | 2026-08-19_CivicHygiene_avoidbuildingtechnologiesthatcouldbeu.md
 ## [2026-08-19 12:18] ingest | 2026-08-19_ElonMuskmadeflyingevenworsesoPalantircouldprofit.md
 ## [2026-08-19 12:18] ingest | 2026-08-19_OfferingZeroDataRetentionforfrontiermodels.md
+## [2026-08-19 13:18] ingest | 2026-08-19_MeetthestartuphelpingWallStreetputapriceonAIcomput.md
+## [2026-08-19 14:18] ingest | 2026-08-19_GoogleGeminiisgettingadedicatedstudenthub.md
+## [2026-08-19 17:18] ingest | 2026-08-19_OpenAIseekstoone-upAnthropicwithnewcustomerprivacy.md

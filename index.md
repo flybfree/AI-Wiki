@@ -2264,3 +2264,6 @@ tags: ['wiki']
 - [[2026-08-19_CivicHygiene_avoidbuildingtechnologiesthatcouldbeu.md]] : Civic Hygiene – avoid building technologies that could be used by a police state
 - [[2026-08-19_ElonMuskmadeflyingevenworsesoPalantircouldprofit.md]] : Elon Musk made flying even worse so Palantir could profit
 - [[2026-08-19_OfferingZeroDataRetentionforfrontiermodels.md]] : Offering Zero Data Retention for frontier models
+- [[2026-08-19_MeetthestartuphelpingWallStreetputapriceonAIcomput.md]] : Meet the startup helping Wall Street put a price on AI compute
+- [[2026-08-19_GoogleGeminiisgettingadedicatedstudenthub.md]] : Google Gemini is getting a dedicated student hub
+- [[2026-08-19_OpenAIseekstoone-upAnthropicwithnewcustomerprivacy.md]] : OpenAI seeks to one-up Anthropic with new customer privacy protections
