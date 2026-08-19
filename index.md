@@ -2256,3 +2256,11 @@ tags: ['wiki']
 - [[2026-08-19_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-19_HowAIcancontributetohumanculturalevolution_Max-Pla.md]] : How AI can contribute to human cultural evolution | Max-Planck-Gesellschaft
 - [[2026-08-19_RelativityNetworksraises_22milliontobringafasterki.md]] : Relativity Networks raises $22 million to bring a faster kind of fiber to data centers
+- [[2026-08-19_GrapheneOSin2027availableonhigh-endMotorolaphones.md]] : GrapheneOS in 2027 available on high-end Motorola phones
+- [[2026-08-19_ReplitexpandsaccesstosoftwarecreationwithGPT-5_6Lu.md]] : Replit expands access to software creation with GPT-5.6 Luna
+- [[2026-08-19_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-19_AmazonmakesitsAI-poweredAlexa_freeonFireTV_noPrime.md]] : Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required
+- [[2026-08-19_TerraPower_snuclearreactorhasasecretweaponforpower.md]] : TerraPower’s nuclear reactor has a secret weapon for powering AI data centers
+- [[2026-08-19_CivicHygiene_avoidbuildingtechnologiesthatcouldbeu.md]] : Civic Hygiene – avoid building technologies that could be used by a police state
+- [[2026-08-19_ElonMuskmadeflyingevenworsesoPalantircouldprofit.md]] : Elon Musk made flying even worse so Palantir could profit
+- [[2026-08-19_OfferingZeroDataRetentionforfrontiermodels.md]] : Offering Zero Data Retention for frontier models

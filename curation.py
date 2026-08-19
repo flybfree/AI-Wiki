@@ -14,6 +14,7 @@ ROOT = Path(__file__).resolve().parent
 MIRROR_ROOT = Path("/home/rich/logseq-brain/pages/ai-research")
 STATE_DIR = ROOT / ".curation"
 DB_PATH = STATE_DIR / "review.sqlite3"
+MIN_REVIEW_SCORE = 0.65
 
 
 def _db() -> sqlite3.Connection:
@@ -64,8 +65,28 @@ def _tokens(text: str) -> list[str]:
         "these", "those", "using", "have", "more", "than", "will", "model",
         "models", "paper", "summary", "research", "article", "through", "also",
         "such", "based", "often", "first", "only", "each", "other", "where",
+        "finding", "findings", "authors", "across", "while", "introduces",
+        "without", "both", "when", "work", "study", "rather", "three", "they",
+        "over", "single", "high", "show", "shows", "results", "using", "use",
+        "used", "new", "can", "may", "does", "one", "two", "via", "well",
+        "toward", "towards", "propose", "proposed", "demonstrates", "demonstrate",
+        "achieves", "enables", "provides", "framework", "approach", "method",
+        "methods", "performance", "level", "time", "state", "indicating",
     }
-    return sorted(set(word for word in words if word not in stop))
+    cleaned = {word.strip(".-+") for word in words}
+    return sorted(set(word for word in cleaned if word and word not in stop))
+
+
+_DISPLAY_TOPIC_WORDS = {
+    "agent", "agents", "alignment", "benchmark", "benchmarks", "coding",
+    "compression", "deception", "diffusion", "embedding", "evaluation",
+    "fine-tuning", "governance", "harness", "inference", "interpretability",
+    "knowledge", "language", "llm", "memory", "model", "models", "multimodal",
+    "moe", "open-source", "planning", "privacy", "quantization", "rag",
+    "reasoning", "retrieval", "robotics", "safety", "security", "self-improvement",
+    "sycophancy", "tool", "tool-use", "training", "transformer", "vision",
+    "world-model",
+}
 
 
 def _candidate_paths(status: str = "pending") -> list[Path]:
@@ -131,7 +152,9 @@ def _identity(value: str) -> str:
     The summarizer appends ``_YYYYMMDD_HHMM`` when it sees an existing output.
     That timestamp is an output-generation detail, not a new paper identity.
     """
-    value = re.sub(r"\.md$", "", str(value).strip(), flags=re.IGNORECASE)
+    value = Path(str(value).strip()).name
+    value = re.sub(r"_summary\.md$", "", value, flags=re.IGNORECASE)
+    value = re.sub(r"\.md$", "", value, flags=re.IGNORECASE)
     value = re.sub(r"_\d{8}_\d{4}$", "", value)
     value = re.sub(r"[^a-z0-9]+", " ", value.lower())
     return re.sub(r"\s+", " ", value).strip()
@@ -161,21 +184,52 @@ def _decisions(db: sqlite3.Connection) -> dict[str, sqlite3.Row]:
 
 
 def _profile(db: sqlite3.Connection) -> dict[str, Any]:
-    rows = list(db.execute("SELECT decision, features FROM decisions WHERE decision != 'skip'"))
+    # A single paper can have several generated summary paths.  Collapse those
+    # records before learning, otherwise duplicate rejects overwhelm the real
+    # keep/reject signal.
+    grouped: dict[str, tuple[str, str, str]] = {}
+    rank = {"keep": 0, "reject": 1, "skip": 2}
+    for row in db.execute("SELECT path, decision, features, updated_at FROM decisions"):
+        if row["decision"] == "skip":
+            continue
+        key = _identity(row["path"])
+        current = grouped.get(key)
+        candidate = (row["decision"], row["features"], row["updated_at"])
+        if current is None or (rank[row["decision"]], row["updated_at"]) < (rank[current[0]], current[2]):
+            grouped[key] = candidate
+    rows = [{"decision": value[0], "features": value[1]} for value in grouped.values()]
     positive = Counter()
     negative = Counter()
     for row in rows:
         bucket = positive if row["decision"] == "keep" else negative
-        bucket.update(json.loads(row["features"]))
+        bucket.update(_tokens(" ".join(json.loads(row["features"]))))
+    kept = sum(row["decision"] == "keep" for row in rows)
+    rejected = sum(row["decision"] == "reject" for row in rows)
+    topics = set(positive) | set(negative)
+    preferences = sorted(
+        (word for word in topics if positive[word] + negative[word] >= 8),
+        key=lambda word: _feature_signal(word, positive, negative, kept, rejected),
+        reverse=True,
+    )
     return {
         "reviewed": len(rows),
-        "kept": sum(row["decision"] == "keep" for row in rows),
-        "rejected": sum(row["decision"] == "reject" for row in rows),
-        "liked_topics": [word for word, _ in positive.most_common(12)],
-        "avoided_topics": [word for word, _ in negative.most_common(12)],
+        "kept": kept,
+        "rejected": rejected,
+        "liked_topics": [word for word in preferences if word in _DISPLAY_TOPIC_WORDS and _feature_signal(word, positive, negative, kept, rejected) > 0][:12],
+        "avoided_topics": [word for word in reversed(preferences) if word in _DISPLAY_TOPIC_WORDS and _feature_signal(word, positive, negative, kept, rejected) < 0][:12],
         "positive": positive,
         "negative": negative,
     }
+
+
+def _feature_signal(feature: str, positive: Counter, negative: Counter, kept: int, rejected: int) -> float:
+    """Compare a feature's prevalence in kept and rejected papers."""
+    if positive[feature] + negative[feature] < 5:
+        return 0.0
+    keep_rate = (positive[feature] + 1) / (kept + 2)
+    reject_rate = (negative[feature] + 1) / (rejected + 2)
+    total = keep_rate + reject_rate
+    return (keep_rate - reject_rate) / total if total else 0.0
 
 
 def _score(features: list[str], profile: dict[str, Any]) -> float:
@@ -185,13 +239,28 @@ def _score(features: list[str], profile: dict[str, Any]) -> float:
     negative = profile["negative"]
     evidence = 0.0
     for feature in features:
-        p = positive[feature]
-        n = negative[feature]
-        if p or n:
-            evidence += (p - n) / (p + n + 2)
+        evidence += _feature_signal(feature, positive, negative, profile["kept"], profile["rejected"])
     if not features:
         return 0.5
     return round(max(0.02, min(0.98, 0.5 + evidence / min(len(features), 12))), 3)
+
+
+def _score_with_title(title: str, text: str, tags: list[str], profile: dict[str, Any]) -> float:
+    """Score a candidate with stronger weight on title/topic evidence."""
+    title_features = _tokens(title)
+    body_features = _tokens(" ".join(tags) + " " + text[:5000])
+    features = title_features + body_features
+    if not features:
+        return 0.5
+    positive = profile["positive"]
+    negative = profile["negative"]
+    evidence = 0.0
+    weight_total = 0.0
+    for feature in features:
+        weight = 3.0 if feature in title_features else 1.0
+        evidence += weight * _feature_signal(feature, positive, negative, profile["kept"], profile["rejected"])
+        weight_total += weight
+    return round(max(0.02, min(0.98, 0.5 + evidence / max(weight_total / 2, 1))), 3)
 
 
 def score_text(title: str, text: str, tags: list[str] | None = None) -> float:
@@ -199,7 +268,7 @@ def score_text(title: str, text: str, tags: list[str] | None = None) -> float:
     db = _db()
     learned = _profile(db)
     db.close()
-    return _score(_tokens(title + " " + " ".join(tags or []) + " " + text[:5000]), learned)
+    return _score_with_title(title, text, tags or [], learned)
 
 
 def learning_status() -> dict[str, Any]:
@@ -221,7 +290,9 @@ def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -
         item["decision"] = decision["decision"] if decision else "pending"
         item["note"] = decision["note"] if decision else ""
         item["updated_at"] = decision["updated_at"] if decision else ""
-        item["score"] = _score(item["features"], profile)
+        item["score"] = _score_with_title(item["title"], item["preview"], item["tags"], profile)
+        if status == "pending" and item["score"] < MIN_REVIEW_SCORE:
+            continue
         if status == "all" or item["decision"] == status:
             result.append(item)
     db.close()
