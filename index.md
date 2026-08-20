@@ -123,6 +123,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-13.md|Daily AI Intelligence Briefing — 2026-08-13]] — agent runtime safety, Copilot consolidation, licensed assistant data, modular harnesses, adaptive cybersecurity, and AI creative workflows
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-14.md|Daily AI Intelligence Briefing — 2026-08-14]] — frontier model tracks, agentic coding and cyber capability, retrieval and memory, provenance, evaluation, and governable agent ecosystems
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-17.md|Daily AI Intelligence Briefing — 2026-08-17]] — deployment economics, agent transactions, retrieval and provenance, cyber defense, and 21 newly retained research papers
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-19.md|Daily AI Intelligence Briefing — 2026-08-19]] — deployment-fit model competition, assistant distribution, AI infrastructure economics, operational safety, and nine retained research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-18.md|Daily AI Intelligence Briefing — 2026-08-18]] — agentic interfaces, developer platforms, deployment fit, provenance, and six newly approved research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-22.md|Summary: 2026-07-22 Daily AI Intelligence Summary]] — infrastructure, safety, and wearables
@@ -2269,3 +2270,11 @@ tags: ['wiki']
 - [[2026-08-19_GoogleGeminiisgettingadedicatedstudenthub.md]] : Google Gemini is getting a dedicated student hub
 - [[2026-08-19_OpenAIseekstoone-upAnthropicwithnewcustomerprivacy.md]] : OpenAI seeks to one-up Anthropic with new customer privacy protections
 - [[2026-08-19_Stripedidn_treallybuyOpenRouterbecauseofthe_singul.md]] : Stripe didn’t really buy OpenRouter because of the ‘singularity’
+- [[2026-08-20_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-20_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-20_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-20_Stripedidn_treallybuyOpenRouterbecauseofthe_singul.md]] : Stripe didn’t really buy OpenRouter because of the ‘singularity’
+- [[2026-08-20_OfferingZeroDataRetentionforfrontiermodels.md]] : Offering Zero Data Retention for frontier models
+- [[2026-08-20_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-20_GoogleGeminiisgettingadedicatedstudenthub.md]] : Google Gemini is getting a dedicated student hub
+- [[2026-08-20_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
