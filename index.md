@@ -2278,3 +2278,5 @@ tags: ['wiki']
 - [[2026-08-20_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-20_GoogleGeminiisgettingadedicatedstudenthub.md]] : Google Gemini is getting a dedicated student hub
 - [[2026-08-20_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[2026-08-20_WhyMicrosoftEntertainmentPackhadastickerannouncing.md]] : Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
+- [[2026-08-20_Don_tPastetheAI_please.md]] : Don't Paste the AI, please

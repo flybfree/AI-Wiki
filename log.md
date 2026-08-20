@@ -9698,3 +9698,5 @@ tags: ['wiki']
 ## [2026-08-20 00:19] ingest | 2026-08-20_IntroducingInkling-Small.md
 ## [2026-08-20 00:19] ingest | 2026-08-20_GoogleGeminiisgettingadedicatedstudenthub.md
 ## [2026-08-20 00:19] ingest | 2026-08-20_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md
+## [2026-08-20 01:25] ingest | 2026-08-20_WhyMicrosoftEntertainmentPackhadastickerannouncing.md
+## [2026-08-20 04:20] ingest | 2026-08-20_Don_tPastetheAI_please.md
