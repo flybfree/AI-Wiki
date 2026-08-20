@@ -2290,3 +2290,11 @@ tags: ['wiki']
 - [[2026-08-20_MetabringsPocket_anappthatletsyouvibe-codeandshare.md]] : Meta brings Pocket, an app that lets you vibe-code and share games, to US users
 - [[2026-08-20_Ilike_emthick_anapologytomyEnglishteachers.md]] : I like 'em thick: an apology to my English teachers
 - [[2026-08-20_RamplaunchesitsownAImodelrouter_calledRouter.md]] : Ramp launches its own AI model router, called Router
+- [[2026-08-20_Grokkeepssendinggibberishresponsestousers.md]] : Grok keeps sending gibberish responses to users
+- [[2026-08-20_Runlayer_Ripplingdroplawsuits_Butthebrouhahaisstil.md]] : Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.
+- [[2026-08-20_ScientificstudyrevealsTikTokvideosdeactivatekeycog.md]] : Scientific study reveals TikTok videos deactivate key cognitive brain regions
+- [[2026-08-20_GooglegivespublishersanewwaytofightAI-driventraffi.md]] : Google gives publishers a new way to fight AI-driven traffic losses
+- [[2026-08-20_ShowHN_Huzzah_anovelapproachtocodingwithAI.md]] : Show HN: Huzzah – a novel approach to coding with AI
+- [[2026-08-20_GoogleDiscoverisgettinganAIchatbot-tunedfeed.md]] : Google Discover is getting an AI chatbot-tuned feed
+- [[2026-08-20_ChatGPTcannowsendtextsforyouwithnewAppleMessagespl.md]] : ChatGPT can now send texts for you with new Apple Messages plugin
+- [[2026-08-20_OpenAIisgainingonAnthropicwithbusinessusers_newdat.md]] : OpenAI is gaining on Anthropic with business users, new data indicates
