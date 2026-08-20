@@ -1,0 +1,18 @@
+---
+title: How AI Prompts Can Teach Us About the Structure of Human Behavior
+published: 2026-08-18T19:30:59Z
+authors: Matthew O. Jackson, Benjamin S. Manning, Yutong Xie, Walter Yuan, Qiaozhu Mei
+url: http://arxiv.org/abs/2608.18265v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# How AI Prompts Can Teach Us About the Structure of Human Behavior
+
+## Abstract
+We introduce a general, easy-to-implement AI-based method for studying the structure and complexity of human behavior. We assign a large language model a ``type vector'' and then prompt it to choose actions across settings in which we observe human choices. For instance, the type vector (2,4) becomes ``You are a player characterized by the following profile: 2 out of 5 in Altruism, 4 out of 5 in Risk Aversion,'' after which it is prompted to make choices. We vary the dimensions (e.g., Altruism, Fairness, Trust, $\dots$) and values (e.g., 1--5) to minimize distance to human choices. Applying the method to 119,147 decisions made by 78,657 subjects from more than 35 countries across 10 classic economic game roles, we find that human behavior can be closely matched using three dimensions: Risk Aversion, Strategic Sophistication, and Trust. Moreover, the types needed to fit individuals across games cluster into fewer than a dozen groups, and can predict behavior in held-out games with different rules and available actions. The results suggest that behavior across diverse settings can be approximated by a low-dimensional, portable representation, supporting the possibility of general yet parsimonious theories across the behavioral sciences. More broadly, the method can provide insights into the structure of many human behaviors.
+
+## Metadata
+- **Published**: 2026-08-18T19:30:59Z
+- **Authors**: Matthew O. Jackson, Benjamin S. Manning, Yutong Xie, Walter Yuan, Qiaozhu Mei
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.18265v1)

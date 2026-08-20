@@ -1,0 +1,18 @@
+---
+title: Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions
+published: 2026-08-19T04:45:59Z
+authors: Ruiyang Qin, Qingzhuo Wang, Tian Wang, Zhihua Wei, Wen Shen
+url: http://arxiv.org/abs/2608.18539v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Evaluating and Explaining Prompt Sensitivity of LLMs Using Interactions
+
+## Abstract
+The remarkable capabilities of large language models (LLMs) are often undermined by their instability. Even subtle and semantically irrelevant changes in prompts can cause dramatic fluctuations in performance, a phenomenon known as prompt sensitivity. Previous studies typically evaluate prompt sensitivity by comparing the LLM's final outputs when prompts change. However, such coarse-grained metrics fail to explain the internal reasons for prompt sensitivity. In this paper, we introduce interactions as a fine-grained tool to analyze prompt sensitivity of LLMs. Specifically, we decompose the output score of the LLM into a set of interactions. Each interaction represents a nonlinear relationship involving a set of input variables. We discover that subtle changes to prompts can trigger severe instability in interactions, even when the outputs of the LLM remain the same. To this end, we propose an Interaction-based Prompt Sensitivity (IPS) metric by quantifying changes in interactions when we introduce subtle changes to prompts. We apply the IPS metric to 50 open-source LLMs and uncover four factors that reduce the prompt sensitivity of LLMs, including supervised fine-tuning, increased model scales, dense architectures, and few-shot learning. More crucially, we discover a common mechanism by which these four factors reduce prompt sensitivity: all four factors tend to reduce the prompt sensitivity of low-order interactions (i.e., interactions involving few input variables).
+
+## Metadata
+- **Published**: 2026-08-19T04:45:59Z
+- **Authors**: Ruiyang Qin, Qingzhuo Wang, Tian Wang, Zhihua Wei, Wen Shen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.18539v1)

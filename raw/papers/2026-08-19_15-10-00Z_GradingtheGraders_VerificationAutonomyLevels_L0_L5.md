@@ -1,0 +1,18 @@
+---
+title: Grading the Graders: Verification Autonomy Levels (L0-L5) for LLM Reasoning
+published: 2026-08-19T15:10:00Z
+authors: Yajie Yin
+url: http://arxiv.org/abs/2608.19009v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Grading the Graders: Verification Autonomy Levels (L0-L5) for LLM Reasoning
+
+## Abstract
+Large language models (LLMs) are increasingly paired with verifiers (step checkers, self-consistency filters, tool-based fact checkers, formal proof assistants) that claim to detect the model's errors. Yet the verification literature uses the word "level" to mean at least five different things: verification granularity, concept abstraction, risk tier, system-stack layer, and the epistemic source of the ground truth. We propose Verification Autonomy Levels (VAL), a meta-standard classifying verification schemes along a single axis: where does the verification spec come from, and what does the verdict guarantee? VAL ranges from L0 (LLM self-declaration, no deterministic anchor) through L2 (objective ground truth, correctness only) to L3/L4 (decidable systems with single-property or domain-level completeness), with L5 impossible in the unrestricted case. Central to VAL is the completeness blind spot: substitution- and sampling-based verifiers can confirm that proposed candidates hold, but cannot prove that no candidate was missed. We further identify a dichotomy the literature has not stated: completeness is reachable only for formally specifiable properties, while empirical open-world verification (fact-checking, diagnosis) caps at anchored correctness (L2). We document this across four domains (symbolic mathematics, behavior monitoring, medical diagnosis, and code generation) and in the strongest existing formal-verification baseline, whose authors note the verifier "focuses on the correctness of each step." We show the levels of granularity, concept hierarchy, risk, and system stack are orthogonal to VAL, resolving a systematic conflation across 17 surveyed papers. Code and full assessment are released as supplementary material.
+
+## Metadata
+- **Published**: 2026-08-19T15:10:00Z
+- **Authors**: Yajie Yin
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19009v1)
