@@ -2280,3 +2280,13 @@ tags: ['wiki']
 - [[2026-08-20_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
 - [[2026-08-20_WhyMicrosoftEntertainmentPackhadastickerannouncing.md]] : Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
 - [[2026-08-20_Don_tPastetheAI_please.md]] : Don't Paste the AI, please
+- [[2026-08-20_Slackislaunchingcollaborativevibe-codingchannels.md]] : Slack is launching collaborative vibe-coding channels
+- [[2026-08-20_MetaAI_snewMacappwantsyoutotalktoyourapps.md]] : Meta AI’s new Mac app wants you to talk to your apps
+- [[2026-08-20_MaliciousRustCrateArrayrefRunsaBuild-TimePayload.md]] : Malicious Rust Crate Arrayref Runs a Build-Time Payload
+- [[2026-08-20_WelcometotheAIcrisisinmath.md]] : Welcome to the AI crisis in math
+- [[2026-08-20_AliExpressrunssilentWebAudiofingerprintingthatbrea.md]] : AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
+- [[2026-08-20_HowChatGPTWorkhelpsStamplimoveideastomarket.md]] : How ChatGPT Work helps Stampli move ideas to market
+- [[2026-08-20_It_sGregBrockman_sOpenAInow.md]] : It’s Greg Brockman’s OpenAI now
+- [[2026-08-20_MetabringsPocket_anappthatletsyouvibe-codeandshare.md]] : Meta brings Pocket, an app that lets you vibe-code and share games, to US users
+- [[2026-08-20_Ilike_emthick_anapologytomyEnglishteachers.md]] : I like 'em thick: an apology to my English teachers
+- [[2026-08-20_RamplaunchesitsownAImodelrouter_calledRouter.md]] : Ramp launches its own AI model router, called Router
