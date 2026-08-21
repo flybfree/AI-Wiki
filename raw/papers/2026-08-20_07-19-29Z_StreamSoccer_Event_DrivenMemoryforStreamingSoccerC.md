@@ -1,0 +1,18 @@
+---
+title: StreamSoccer: Event-Driven Memory for Streaming Soccer Commentary
+published: 2026-08-20T07:19:29Z
+authors: Chenxi Shao, Bozhong Wang, Jiaxin Huang, Zhao Liu, Sunwei Zhu, Tianxin Hang, Gaoqi He, Yang Li, Changbo Wang
+url: http://arxiv.org/abs/2608.19723v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# StreamSoccer: Event-Driven Memory for Streaming Soccer Commentary
+
+## Abstract
+Streaming video understanding requires models to causally update state as video arrives and organize growing history into semantic units that can evolve, persist, and be recalled under bounded computation and memory. This challenge is pronounced in live soccer commentary, where a system must describe completed events, summarize recent play, recall earlier events, or remain silent using only information available before each utterance. We present StreamSoccer, an event-driven system that uses event memory as its intermediate representation. A fixed-budget active memory integrates the stream; completed event states are retained locally and consolidated into retrievable historical records. A unified generator uses current, recent, and historical context to produce three commentary modes, while a rule-assisted scheduler selects a mode or silence. Unlike streaming video-language models organized around frames, visual tokens, or caches, and soccer-commentary methods based on predefined clips or output timestamps, StreamSoccer explicitly models event lifecycles. We construct a three-track streaming soccer commentary dataset and a layered evaluation protocol. At common reference anchors, StreamSoccer obtains CIDEr scores of 38.62, 23.96, and 17.39 for current-event, recent-window, and historical-memory commentary, ranking first on the current-event and historical-memory tracks and second on recent-window. Controlled ablations show that local completed events improve all tracks and that the full system performs best on all three. Across 174 raw-video runs on 58 matches, per-minute RTF p95 ranges from 0.10 to 0.22 without sustained growth with match history. These results indicate that event memory supports streaming soccer commentary across temporal scopes while controlling long-history computation.
+
+## Metadata
+- **Published**: 2026-08-20T07:19:29Z
+- **Authors**: Chenxi Shao, Bozhong Wang, Jiaxin Huang, Zhao Liu, Sunwei Zhu, Tianxin Hang, Gaoqi He, Yang Li, Changbo Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19723v1)

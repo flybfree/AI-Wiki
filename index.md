@@ -123,6 +123,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-13.md|Daily AI Intelligence Briefing — 2026-08-13]] — agent runtime safety, Copilot consolidation, licensed assistant data, modular harnesses, adaptive cybersecurity, and AI creative workflows
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-14.md|Daily AI Intelligence Briefing — 2026-08-14]] — frontier model tracks, agentic coding and cyber capability, retrieval and memory, provenance, evaluation, and governable agent ecosystems
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-17.md|Daily AI Intelligence Briefing — 2026-08-17]] — deployment economics, agent transactions, retrieval and provenance, cyber defense, and 21 newly retained research papers
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-20.md|Daily AI Intelligence Briefing — 2026-08-20]] — deployment-fit model competition, embedded assistants, routing and compute infrastructure, reliability, and one retained research paper
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-19.md|Daily AI Intelligence Briefing — 2026-08-19]] — deployment-fit model competition, assistant distribution, AI infrastructure economics, operational safety, and nine retained research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-18.md|Daily AI Intelligence Briefing — 2026-08-18]] — agentic interfaces, developer platforms, deployment fit, provenance, and six newly approved research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
@@ -2298,3 +2299,6 @@ tags: ['wiki']
 - [[2026-08-20_GoogleDiscoverisgettinganAIchatbot-tunedfeed.md]] : Google Discover is getting an AI chatbot-tuned feed
 - [[2026-08-20_ChatGPTcannowsendtextsforyouwithnewAppleMessagespl.md]] : ChatGPT can now send texts for you with new Apple Messages plugin
 - [[2026-08-20_OpenAIisgainingonAnthropicwithbusinessusers_newdat.md]] : OpenAI is gaining on Anthropic with business users, new data indicates
+- [[2026-08-20_CopyrightdoesnotprotectAI-generatedcontentinEU.md]] : Copyright does not protect AI-generated content in EU
+- [[2026-08-20_CoreWeavesignsAIclouddealwithHudsonRiverTradingfor.md]] : CoreWeave signs AI cloud deal with Hudson River Trading for research platform - ROI-NJ
+- [[2026-08-20_AIcompaniesdestroyphysicalbooks_let_sscanrarebooks.md]] : AI companies destroy physical books – let's scan rare books before it's too late

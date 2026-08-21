@@ -1,0 +1,18 @@
+---
+title: Hear2Act: Benchmarking When Prosody Should Change What an Assistant Does
+published: 2026-08-20T00:16:36Z
+authors: Xinyi Liu, Hooshang Nayyeri, Dilek Hakkani-Tur, Emine Yilmaz, JK Kim, Yifei Zhang, Charith Peris, Hari Thadakamalla
+url: http://arxiv.org/abs/2608.19515v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Hear2Act: Benchmarking When Prosody Should Change What an Assistant Does
+
+## Abstract
+Prosodic cues can convey task-relevant information that alters the trajectory and outcome of a task-oriented dialogue, even when the words themselves remain unchanged. Yet existing benchmarks typically evaluate prosodic perception, response appropriateness, and task-oriented dialogue in isolation, making it difficult to test whether prosodic evidence changes downstream decisions. We introduce Hear2Act, a unified evaluation protocol for text and spoken assistants with 480 persona-grounded scenarios, hidden user concerns, and objectively verifiable outcomes. For each scenario, we keep the task and user needs fixed while varying whether the same concern is conveyed explicitly in words or primarily through prosody, and evaluate decisions under transcript, audio, and concern-state access.   Using Hear2Act, we evaluate two audio-capable LLMs. Under Prosody-mediated feedback, adding audio to the transcript changes the average optimal-solution rate only from 14.6% to 15.3%. In contrast, when models infer the concern status from audio, represent it in text, and use it for next-action selection, the rate rises to 39.6%, close to 40.7% with the ground-truth state. This contrast, however, largely disappears under Explicit lexical feedback, where the concern is verbally mentioned in the utterance. Together, these results show that prosody matters when lexical evidence is insufficient, and that audio-capable LLMs can recover information from speech but do not reliably carry it into action without an explicit intermediate representation.
+
+## Metadata
+- **Published**: 2026-08-20T00:16:36Z
+- **Authors**: Xinyi Liu, Hooshang Nayyeri, Dilek Hakkani-Tur, Emine Yilmaz, JK Kim, Yifei Zhang, Charith Peris, Hari Thadakamalla
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19515v1)

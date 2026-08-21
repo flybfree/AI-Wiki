@@ -1,0 +1,18 @@
+---
+title: SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?
+published: 2026-08-20T08:53:15Z
+authors: Zhipeng Xu, Jiahao Lu, Yining Zheng, Yuxin Wang, Xipeng Qiu
+url: http://arxiv.org/abs/2608.19799v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?
+
+## Abstract
+Software increasingly functions as part of the scientific instrument itself, making failures in scientific code capable of compromising not only program behavior but also the evidence underlying scientific conclusions. Yet existing evaluations of coding agents largely emphasize aggregate task success, providing limited insight into why agents fail when repairing scientific software. We introduce \textbf{SWE-bench Science}, a repository-level benchmark for scientific software engineering comprising 119 tasks from 98 GitHub repositories across 20 scientific domains. Each task is organized into one of three paradigms: Issue-driven, Expert-exploratory, and Engineering-integration. Even the best-performing agent, \textbf{Claude Code with Opus-5 (max), achieves a pass@1 below 50\%}, highlighting the substantial challenges posed by scientific software engineering. We identify four recurring failure mechanisms: deficits in scientific knowledge or abstraction, misguided exploration or surface-level repair, incomplete repair coverage or system integration, and failures to generalize scientific knowledge beyond observed cases in our analysis. We further conduct a paired ablation that removes explicit scientific guidance while preserving the repository and executable engineering context. The results show that scientific knowledge is not uniformly beneficial: well-grounded information can constrain repair and improve average performance and token efficiency, whereas poorly aligned guidance can induce anchoring and does not necessarily improve exact repair success. Together, SWE-bench Science provides a broad testbed for studying both the capabilities and failure mechanisms of coding agents in scientific software engineering.
+
+## Metadata
+- **Published**: 2026-08-20T08:53:15Z
+- **Authors**: Zhipeng Xu, Jiahao Lu, Yining Zheng, Yuxin Wang, Xipeng Qiu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19799v1)

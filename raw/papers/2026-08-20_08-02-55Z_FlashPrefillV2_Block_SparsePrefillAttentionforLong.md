@@ -1,0 +1,18 @@
+---
+title: FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving
+published: 2026-08-20T08:02:55Z
+authors: Qihang Fan, Huaibo Huang, Zhiying Wu, Bingning Wang, Ran He
+url: http://arxiv.org/abs/2608.19758v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# FlashPrefill V2: Block-Sparse Prefill Attention for Long-Context LLM Serving
+
+## Abstract
+Long-context modeling is a pivotal capability for Large Language Models, yet the quadratic complexity of attention remains a critical bottleneck, particularly during the compute-intensive prefilling phase. Our previous work, FlashPrefill, mitigates this cost through instantaneous pattern discovery and max-based dynamic thresholding; however, it remains an algorithmic prototype that is still distant from production deployment. In this paper, we present FlashPrefill V2, which evolves FlashPrefill from a prototype toward practical long-context serving along three dimensions. First, we introduce a mean correction term that effectively suppresses the approximation error, keeping performance degradation manageable even at extreme sparsity levels. Second, we redesign the sparse attention operator with PackGQA memory access, warp specialization, and pingpong pipelining, fully aligning with the latest FlashAttention-3/4 implementations and supporting FP8 inference to meet practical quantization requirements. Third, FlashPrefill V2 natively supports paged KV cache and continuous batching, allowing integration as an attention backend in modern inference frameworks such as SGLang. Extensive evaluations on NVIDIA H20 GPUs---among the most widely deployed inference accelerators---demonstrate that FlashPrefill V2 delivers up to 47.26x and 27.19x speedups over FlashAttention-2 at 128K context length under FP8 and BF16 precision, respectively, and, in FP8, still achieves a 30.49x speedup against an FA3/4-aligned dense baseline.
+
+## Metadata
+- **Published**: 2026-08-20T08:02:55Z
+- **Authors**: Qihang Fan, Huaibo Huang, Zhiying Wu, Bingning Wang, Ran He
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19758v1)

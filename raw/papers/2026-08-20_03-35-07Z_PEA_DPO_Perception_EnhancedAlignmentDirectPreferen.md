@@ -1,0 +1,18 @@
+---
+title: PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment
+published: 2026-08-20T03:35:07Z
+authors: Jiawei Feng, Jiancan Wu, Xingyu Zhu, Junkang Wu, Xiang Wang, Xiangnan He
+url: http://arxiv.org/abs/2608.19598v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# PEA-DPO: Perception-Enhanced Alignment Direct Preference Optimization for MLLMs Alignment
+
+## Abstract
+Direct Preference Optimization (DPO) has emerged as an effective approach for aligning large language models (LLMs) with human preferences. However, its adaptation to multimodal settings remains unexplored. Through representational analysis, we identify a key limitation in multimodal preference optimization, which we term visual insensitivity: models often fail to distinguish between images and those with critical visual context removed. Our theoretical analysis further uncovers two manifestations of this problem, namely Across-Image Insensitivity and Within-Image Insensitivity. To address these challenges, we propose Perception-Enhanced Alignment DPO (PEA-DPO), a framework for multimodal LLMs alignment, which explicitly leverages visual preference signals to overcome visual insensitivity. We further provide a theoretical analysis demonstrating that PEA-DPO provably mitigates both failure modes. Empirical results demonstrate that PEA-DPO enhances sensitivity to visual context while preserving the language modeling capacity of the base model. Evaluations across three hallucination benchmarks using MLLMs of varying scales show that PEA-DPO effectively mitigates visual insensitivity, achieves stronger multimodal alignment, and substantially reduces hallucinations.
+
+## Metadata
+- **Published**: 2026-08-20T03:35:07Z
+- **Authors**: Jiawei Feng, Jiancan Wu, Xingyu Zhu, Junkang Wu, Xiang Wang, Xiangnan He
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19598v1)

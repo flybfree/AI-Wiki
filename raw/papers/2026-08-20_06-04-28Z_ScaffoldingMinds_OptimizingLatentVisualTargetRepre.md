@@ -1,0 +1,18 @@
+---
+title: Scaffolding Minds: Optimizing Latent Visual Target Representations for Multimodal Reasoning
+published: 2026-08-20T06:04:28Z
+authors: Haoqiang Kang, Yinpeng Chen, Luyang Liu, Jesper Sparre Andersen, Abhijit Ogale, Baochen Sun, Lichan Hong, Ed H. Chi
+url: http://arxiv.org/abs/2608.19669v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Scaffolding Minds: Optimizing Latent Visual Target Representations for Multimodal Reasoning
+
+## Abstract
+Latent reasoning has advanced multimodal reasoning through a two-stage training paradigm: (1) a helper image is encoded into latent tokens to teach visual chain-of-thought during a supervised fine-tuning (SFT) stage, and (2) these latent tokens are further refined with reward feedback during a reinforcement learning (RL) stage. In this paper, we identify two key limitations of this framework, one in each stage. First, the SFT stage typically relies on an off-the-shelf vision encoder to encode the helper image, yielding suboptimal latent representations that may not be well aligned with the downstream reasoning task. Second, existing RL methods treat the latent component only through deterministic regularization, which constrains policy drift but does not create alternative latent trajectories for exploration. To address these limitations, we propose Scaffolding Minds. Our approach learns a dedicated scaffolding encoder that provides an optimized target in latent space, and learns both the mean and variance of the RL sampler. We further show that these two improvements are complementary, together yielding substantial gains over strong baselines. Empirically, our method improves over the strongest latent-reasoning baseline by +9.5% on FrozenLake spatial planning, with the gain widening to +19% at 32x32 grid map, and by +5.2% on average across nine visual-centric reasoning benchmarks.
+
+## Metadata
+- **Published**: 2026-08-20T06:04:28Z
+- **Authors**: Haoqiang Kang, Yinpeng Chen, Luyang Liu, Jesper Sparre Andersen, Abhijit Ogale, Baochen Sun, Lichan Hong, Ed H. Chi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19669v1)

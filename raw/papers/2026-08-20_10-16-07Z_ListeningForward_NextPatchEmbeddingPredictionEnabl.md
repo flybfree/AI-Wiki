@@ -1,0 +1,18 @@
+---
+title: Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners
+published: 2026-08-20T10:16:07Z
+authors: Umberto Cappellazzo, Xubo Liu, Stavros Petridis, Maja Pantic
+url: http://arxiv.org/abs/2608.19863v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Listening Forward: Next Patch Embedding Prediction Enables Scalable Audio Learners
+
+## Abstract
+Self-supervised learning (SSL) has driven substantial progress in audio representation learning, though existing methods have increasingly relied on elaborate pre-training recipes to reach competitive performance. A markedly different pre-training philosophy underpins the most influential progress in language modeling and, more recently, in visual representation learning: rather than train encoders as static feature extractors, models are trained to predict the next element, a discrete token or a continuous embedding, from the preceding context. Autoregressive prediction thereby provides a unified pre-training interface that transfers across modalities, compelling the model to learn the underlying data distribution. We ask whether such a simple causal paradigm can yield strong audio learners, given that audio's temporal structure makes autoregressive prediction of patch embeddings a natural fit. We introduce NAPE (Next-Audio-Patch-Embedding prediction), a self-supervised framework in which a causal Transformer predicts each next patch embedding of a log-mel spectrogram from the previous ones, using causal masking and stop-gradient as its sole training signal. The design is intentionally minimalist, avoiding reconstruction decoders, acoustic tokenizers, student-teacher setups, and auxiliary regularization losses. Across six audio and speech benchmarks, NAPE achieves state-of-the-art fine-tuning performance on several tasks, scales consistently across encoder sizes, and yields strong linear-probing results. NAPE also produces structured attention patterns without explicit supervision.
+
+## Metadata
+- **Published**: 2026-08-20T10:16:07Z
+- **Authors**: Umberto Cappellazzo, Xubo Liu, Stavros Petridis, Maja Pantic
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19863v1)

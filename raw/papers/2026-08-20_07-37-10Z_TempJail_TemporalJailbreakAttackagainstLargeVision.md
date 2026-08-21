@@ -1,0 +1,18 @@
+---
+title: TempJail: Temporal Jailbreak Attack against Large Vision-Language Models via Subtitle Scheduling
+published: 2026-08-20T07:37:10Z
+authors: Ling Zhou, Yihao Huang, Jingling Sun, Zhiwen Tian, Yi Zeng, Qihe Liu, Shijie Zhou
+url: http://arxiv.org/abs/2608.19737v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# TempJail: Temporal Jailbreak Attack against Large Vision-Language Models via Subtitle Scheduling
+
+## Abstract
+Large vision-language models (LVLMs) have achieved remarkable progress in video understanding and reasoning. Despite extensive studies on text- and image-based jailbreaks, video jailbreaks against LVLMs remain largely unexplored. Existing video jailbreak methods mainly manipulate textual content embedded in videos, while overlooking how such information is organized over time. Our analysis reveals that jailbreak effectiveness depends not only on the semantics of textual information but also on its temporal presentation, including duration and timing-slot allocation. Motivated by this finding, we use subtitles, which are common in real-world videos and allow semantic content to be presented under precise temporal control without appearing visually intrusive, as a natural attack medium. Based on this insight, we propose TempJail, a black-box video-based jailbreak framework that constructs query-aligned dialogue-style subtitle sequences and optimizes their temporal scheduling to exploit temporal vulnerabilities in LVLMs and elicit responses that satisfy the harmful intent of the source query. Extensive experiments on four representative LVLMs and two datasets demonstrate that TempJail achieves the highest attack success rate across all evaluated model--dataset settings, outperforming the strongest baseline by 53 and 18 percentage points in dataset-averaged ASR on GPT-5 and Gemini 3.5-Flash, respectively.
+
+## Metadata
+- **Published**: 2026-08-20T07:37:10Z
+- **Authors**: Ling Zhou, Yihao Huang, Jingling Sun, Zhiwen Tian, Yi Zeng, Qihe Liu, Shijie Zhou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19737v1)

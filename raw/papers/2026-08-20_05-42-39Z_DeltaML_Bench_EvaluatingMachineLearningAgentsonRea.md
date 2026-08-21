@@ -1,0 +1,18 @@
+---
+title: DeltaML-Bench: Evaluating Machine Learning Agents on Real-World Research Repositories
+published: 2026-08-20T05:42:39Z
+authors: Josias Moukpe, Priyanka Aryal, Matthew Kenney
+url: http://arxiv.org/abs/2608.19653v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# DeltaML-Bench: Evaluating Machine Learning Agents on Real-World Research Repositories
+
+## Abstract
+Autonomous agents for machine learning experimentation must navigate heterogeneous repositories, repair training pipelines, and evaluate candidate improvements under realistic compute constraints. Existing benchmarks only partially capture these conditions. We introduce DeltaML-Bench, a benchmark comprising 48 tasks sourced from research papers that require agents to improve published baselines within imperfect, open-source repositories. We evaluate GPT-5 and Claude Sonnet 4 with a standard Modular agent and a search-based ARG scaffolding. In the 4 x 6h allocation, ARG raises GPT-5's per-run success rate from 9.4% to 33.9%; in the 2 x 12h allocation, GPT-5 ARG reaches 49.0%. Modular configurations exhibit specification gaming rates as high as 47.9%, while no gaming is observed in the evaluated ARG configurations. These results indicate that scaffolding design and integrity checks are important considerations when deploying agents for autonomous ML experimentation.
+
+## Metadata
+- **Published**: 2026-08-20T05:42:39Z
+- **Authors**: Josias Moukpe, Priyanka Aryal, Matthew Kenney
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19653v1)

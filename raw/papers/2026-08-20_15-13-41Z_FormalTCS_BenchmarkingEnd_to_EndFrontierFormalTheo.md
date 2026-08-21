@@ -1,0 +1,18 @@
+---
+title: FormalTCS: Benchmarking End-to-End Frontier Formal Theoretical Computer Science Research of Large Language Models
+published: 2026-08-20T15:13:41Z
+authors: Dingzirui Wang, Xuanliang Zhang, Keyan Xu, Qingfu Zhu, Wanxiang Che
+url: http://arxiv.org/abs/2608.20153v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# FormalTCS: Benchmarking End-to-End Frontier Formal Theoretical Computer Science Research of Large Language Models
+
+## Abstract
+Large language models (LLMs) have shown growing potential for automated theoretical computer science (TCS) research, yet existing benchmarks remain far from realistic research settings. We introduce \ourbenchmark, an expert-validated benchmark for evaluating LLMs on frontier, end-to-end TCS research. \ourbenchmark contains $175$ instances drawn from papers accepted to STOC, FOCS, SODA, and COLT in 2025-2026, preserving paper-specific definitions, assumptions, and proof dependencies, with expert-verified Lean formalizations and proofs. Evaluations of leading LLMs reveal that current models remain far from reliably completing the full research pipeline. In particular, autoformalization is the sharpest bottleneck: the best model achieves only $11.5$ on translating natural-language claims into formal theorem statements, compared with $28.6$ Pass@8 when proving human-provided formal statements. Building on \ourbenchmark, we further develop an automated TCS research framework that generates, formalizes, filters, and proves new claims. Of $64$ generated claims, only $6$ ultimately pass expert evaluation and proof verification, indicating that beyond formalization, limited research taste remains another major barrier to autonomous TCS research.
+
+## Metadata
+- **Published**: 2026-08-20T15:13:41Z
+- **Authors**: Dingzirui Wang, Xuanliang Zhang, Keyan Xu, Qingfu Zhu, Wanxiang Che
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.20153v1)

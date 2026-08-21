@@ -1,0 +1,18 @@
+---
+title: PersonalBench: Measuring the Authorship Gap in LLM Personalization
+published: 2026-08-20T07:48:20Z
+authors: Yash Ganpat Sawant
+url: http://arxiv.org/abs/2608.19746v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# PersonalBench: Measuring the Authorship Gap in LLM Personalization
+
+## Abstract
+Personalized text generation aims to make LLMs write in a specific individual's style, yet existing benchmarks measure task accuracy or preference alignment rather than whether the model's output actually resembles the target author's writing. We introduce PersonalBench, a benchmark that evaluates inference-time personalization methods through three independent lenses: LUAR (a trained authorship verification model), an LLM-as-judge, and automated stylometrics. Across 50 authors, 1,000 generations, and two model families (Qwen 3, GLM-4), we find that personalization methods do produce author-differentiated output (LUAR discriminates target authors within generated text at AUC=0.918) but this differentiation never crosses the human-LLM boundary. All methods achieve LUAR similarity to real authors in the range 0.484-0.508, below the cross-author human floor of 0.626 (ceiling 0.756). The LLM's own authorship fingerprint dominates: generated text is more distant from any human author than random humans are from each other. Methods are statistically indistinguishable from each other on LUAR (spread 0.024) despite appearing differentiated on the LLM judge, a discrepancy we trace to circularity between trait extraction and profile extraction. We validate that LUAR reliably measures authorship in our corpus (AUC=0.76 single-post, 0.96 multi-post). We release PersonalBench as a calibrated measuring stick: inference-time personalization modulates the LLM's style but does not bridge the gap to human authorship.
+
+## Metadata
+- **Published**: 2026-08-20T07:48:20Z
+- **Authors**: Yash Ganpat Sawant
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19746v1)

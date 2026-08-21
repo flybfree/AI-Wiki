@@ -1,0 +1,18 @@
+---
+title: DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing
+published: 2026-08-20T15:16:39Z
+authors: Haoxiang Cao, Jiajiong Cao, Xuanpu Zhang, Changqian Yu, Chaoqun Wang
+url: http://arxiv.org/abs/2608.20161v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# DARS: Dual-Level Credit Assignment RL with Structured Reasoning for Instruction-Based Image Editing
+
+## Abstract
+Instruction-based image editing uses a planner-renderer pipeline: a vision-language model (VLM) first converts the instruction into an edit plan, and a diffusion model then executes that plan. Training such systems with only final-image rewards is inefficient because a poor edit does not reveal whether additional optimization should place more emphasis on the planner or the renderer, and even planner-dominant cases remain difficult to localize within a free-form reasoning trace. We present DARS, a reinforcement learning framework for dual-level credit assignment in this two-stage setting. Across modules, multi-plan multi-render rollouts estimate between-plan and within-plan reward variability for soft module routing, while rollout mean rewards provide hardness estimates for an adaptive curriculum. Within the planner, a four-field structured reasoning output enables a prefix-gated reward and token-level advantage reweighting, turning outcome-level feedback into localized supervision. Experiments on five benchmarks show that DARS outperforms a Joint~RL baseline with the same backbone, data, reward model, and rollout budget, with the largest gains on reasoning-intensive edits.
+
+## Metadata
+- **Published**: 2026-08-20T15:16:39Z
+- **Authors**: Haoxiang Cao, Jiajiong Cao, Xuanpu Zhang, Changqian Yu, Chaoqun Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.20161v1)
