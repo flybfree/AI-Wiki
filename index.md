@@ -2310,3 +2310,7 @@ tags: ['wiki']
 - [[2026-08-21_CoreWeavesignsAIclouddealwithHudsonRiverTradingfor.md]] : CoreWeave signs AI cloud deal with Hudson River Trading for research platform - ROI-NJ
 - [[2026-08-21_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
 - [[2026-08-21_DeepSeek-v4-flash-vision-exp.md]] : DeepSeek-v4-flash-vision-exp
+- [[2026-08-21_Kagiaddedasettingforremovingpaywalledlinksfromsear.md]] : Kagi added a setting for removing paywalled links from search results
+- [[2026-08-21_Starcloudraises_250millionfororbitaldatacentersasl.md]] : Starcloud raises $250 million for orbital data centers as launch options dry up
+- [[2026-08-21_EthiopiaandRussiastrengthenAIcooperation_TVBRICS_2.md]] : Ethiopia and Russia strengthen AI cooperation | TV BRICS, 21.08.26
+- [[2026-08-21_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
