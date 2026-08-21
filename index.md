@@ -2314,3 +2314,6 @@ tags: ['wiki']
 - [[2026-08-21_Starcloudraises_250millionfororbitaldatacentersasl.md]] : Starcloud raises $250 million for orbital data centers as launch options dry up
 - [[2026-08-21_EthiopiaandRussiastrengthenAIcooperation_TVBRICS_2.md]] : Ethiopia and Russia strengthen AI cooperation | TV BRICS, 21.08.26
 - [[2026-08-21_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[2026-08-21_Kobocanrunappsnow.md]] : Kobo can run apps now
+- [[2026-08-21_Nvidiajustshowedthattheharness_nottheAImodel_isnow.md]] : Nvidia just showed that the harness, not the AI model, is now the real hero
+- [[2026-08-21_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine

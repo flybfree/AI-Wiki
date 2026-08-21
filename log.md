@@ -9877,3 +9877,6 @@ tags: ['wiki']
 ## [2026-08-21 09:18] ingest | 2026-08-21_Starcloudraises_250millionfororbitaldatacentersasl.md
 ## [2026-08-21 10:17] ingest | 2026-08-21_EthiopiaandRussiastrengthenAIcooperation_TVBRICS_2.md
 ## [2026-08-21 12:17] ingest | 2026-08-21_AnAItoolforprioritizingcandidatebiomarkersfromwear.md
+## [2026-08-21 14:16] ingest | 2026-08-21_Kobocanrunappsnow.md
+## [2026-08-21 15:16] ingest | 2026-08-21_Nvidiajustshowedthattheharness_nottheAImodel_isnow.md
+## [2026-08-21 18:17] ingest | 2026-08-21_Anthropic_sOpus4_6isasmut-machine.md
