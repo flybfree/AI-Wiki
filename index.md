@@ -2309,3 +2309,4 @@ tags: ['wiki']
 - [[2026-08-21_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-21_CoreWeavesignsAIclouddealwithHudsonRiverTradingfor.md]] : CoreWeave signs AI cloud deal with Hudson River Trading for research platform - ROI-NJ
 - [[2026-08-21_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[2026-08-21_DeepSeek-v4-flash-vision-exp.md]] : DeepSeek-v4-flash-vision-exp
