@@ -124,6 +124,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-14.md|Daily AI Intelligence Briefing — 2026-08-14]] — frontier model tracks, agentic coding and cyber capability, retrieval and memory, provenance, evaluation, and governable agent ecosystems
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-17.md|Daily AI Intelligence Briefing — 2026-08-17]] — deployment economics, agent transactions, retrieval and provenance, cyber defense, and 21 newly retained research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-20.md|Daily AI Intelligence Briefing — 2026-08-20]] — deployment-fit model competition, embedded assistants, routing and compute infrastructure, reliability, and one retained research paper
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-21.md|Daily AI Intelligence Briefing — 2026-08-21]] — deployment-fit models, assistant distribution, harness infrastructure, open-weight safety, and validated scientific AI
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-19.md|Daily AI Intelligence Briefing — 2026-08-19]] — deployment-fit model competition, assistant distribution, AI infrastructure economics, operational safety, and nine retained research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-18.md|Daily AI Intelligence Briefing — 2026-08-18]] — agentic interfaces, developer platforms, deployment fit, provenance, and six newly approved research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
@@ -2317,3 +2318,4 @@ tags: ['wiki']
 - [[2026-08-21_Kobocanrunappsnow.md]] : Kobo can run apps now
 - [[2026-08-21_Nvidiajustshowedthattheharness_nottheAImodel_isnow.md]] : Nvidia just showed that the harness, not the AI model, is now the real hero
 - [[2026-08-21_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
+- [[2026-08-21_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
