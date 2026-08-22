@@ -2327,3 +2327,4 @@ tags: ['wiki']
 - [[2026-08-22_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
 - [[2026-08-22_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
 - [[2026-08-22_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-22_FelonyBench.md]] : Felony Bench
