@@ -2332,3 +2332,6 @@ tags: ['wiki']
 - [[2026-08-22_FrontierAIlabsstillwon_tsayhowthey_dcontainaroguem.md]] : Frontier AI labs still won’t say how they’d contain a rogue model
 - [[2026-08-22_OpenAIsaysCaliforniashouldstrengthenitsAIsafetybil.md]] : OpenAI says California should strengthen its AI safety bill
 - [[2026-08-22_ElevenLabs_TwelveLabs_ThirteenLabs.md]] : ElevenLabs, TwelveLabs, ThirteenLabs
+- [[2026-08-22_Inherent_foundedbyDeepMindalumni_saysitsAI_teammat.md]] : Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
+- [[2026-08-22_hdiutilisdeprecatedinmacOS27GoldenGate.md]] : hdiutil is deprecated in macOS 27 Golden Gate
+- [[2026-08-22_Scrap.md]] : Scrap
