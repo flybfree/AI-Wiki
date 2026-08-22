@@ -2319,3 +2319,11 @@ tags: ['wiki']
 - [[2026-08-21_Nvidiajustshowedthattheharness_nottheAImodel_isnow.md]] : Nvidia just showed that the harness, not the AI model, is now the real hero
 - [[2026-08-21_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
 - [[2026-08-21_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
+- [[2026-08-22_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-22_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-22_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-22_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
+- [[2026-08-22_EthiopiaandRussiastrengthenAIcooperation_TVBRICS_2.md]] : Ethiopia and Russia strengthen AI cooperation | TV BRICS, 21.08.26
+- [[2026-08-22_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[2026-08-22_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
+- [[2026-08-22_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
