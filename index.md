@@ -125,6 +125,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-17.md|Daily AI Intelligence Briefing — 2026-08-17]] — deployment economics, agent transactions, retrieval and provenance, cyber defense, and 21 newly retained research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-20.md|Daily AI Intelligence Briefing — 2026-08-20]] — deployment-fit model competition, embedded assistants, routing and compute infrastructure, reliability, and one retained research paper
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-21.md|Daily AI Intelligence Briefing — 2026-08-21]] — deployment-fit models, assistant distribution, harness infrastructure, open-weight safety, and validated scientific AI
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-22.md|Daily AI Intelligence Briefing — 2026-08-22]] — thin verified corpus, browser-native workflow capture, and unresolved curation backlog audit
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-19.md|Daily AI Intelligence Briefing — 2026-08-19]] — deployment-fit model competition, assistant distribution, AI infrastructure economics, operational safety, and nine retained research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-18.md|Daily AI Intelligence Briefing — 2026-08-18]] — agentic interfaces, developer platforms, deployment fit, provenance, and six newly approved research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
@@ -2335,3 +2336,5 @@ tags: ['wiki']
 - [[2026-08-22_Inherent_foundedbyDeepMindalumni_saysitsAI_teammat.md]] : Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
 - [[2026-08-22_hdiutilisdeprecatedinmacOS27GoldenGate.md]] : hdiutil is deprecated in macOS 27 Golden Gate
 - [[2026-08-22_Scrap.md]] : Scrap
+- [[2026-08-22_Figmimic_AbookmarklettocopyanywebpageintoFigmaased.md]] : Figmimic – A bookmarklet to copy any webpage into Figma as editable layers
+- [[2026-08-22_Scrap_2006_.md]] : Scrap (2006)
