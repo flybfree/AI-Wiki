@@ -9907,3 +9907,6 @@ tags: ['wiki']
 ## [2026-08-23 00:11] ingest | 2026-08-23_IntroducingInkling-Small.md
 ## [2026-08-23 00:11] ingest | 2026-08-23_ASafePathtoOpenWeights.md
 ## [2026-08-23 00:11] ingest | 2026-08-23_IntroducingClaudeOpus5.md
+## [2026-08-23 08:10] ingest | 2026-08-23_SydneyMarathonmedalmistakenlydepictsMunichstadium.md
+## [2026-08-23 09:10] ingest | 2026-08-23_MalwareinfectsAndroid-basedautomotiveheadunitfirmw.md
+## [2026-08-23 12:09] ingest | 2026-08-23_HowComplexSystemsFail.md

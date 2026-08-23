@@ -2343,3 +2343,6 @@ tags: ['wiki']
 - [[2026-08-23_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-23_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-23_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-23_SydneyMarathonmedalmistakenlydepictsMunichstadium.md]] : Sydney Marathon medal mistakenly depicts Munich stadium
+- [[2026-08-23_MalwareinfectsAndroid-basedautomotiveheadunitfirmw.md]] : Malware infects Android-based automotive head unit firmware
+- [[2026-08-23_HowComplexSystemsFail.md]] : How Complex Systems Fail
