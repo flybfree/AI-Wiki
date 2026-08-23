@@ -8,6 +8,7 @@ tags: ['wiki']
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
 ## AI Research Engine Audit Log
+## [2026-08-23 00:25] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-22.md finalized; 0 target-date keeps; 568 normalized uncovered carry-forward papers; 418 original-paper URLs unresolved
 ## [2026-08-23 00:01] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-22.md created with AI-only verified intake; 0 target-date keep decisions; 558 uncovered carry-forward identities and 123 missing recorded paths remain unresolved
 ## [2026-08-22 00:01] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-21.md created with AI-only intake and 1 unique paper retained from 1 normalized target-date curation decision; canonical paper original URL audit unresolved
 ## [2026-08-21 00:01] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-20.md created with AI-only intake and 1 unique paper retained from 1 normalized target-date curation decision; paper original URL audit unresolved
@@ -9901,3 +9902,8 @@ tags: ['wiki']
 ## [2026-08-22 18:12] ingest | 2026-08-22_Scrap.md
 ## [2026-08-22 21:20] ingest | 2026-08-22_Figmimic_AbookmarklettocopyanywebpageintoFigmaased.md
 ## [2026-08-22 23:11] ingest | 2026-08-22_Scrap_2006_.md
+## [2026-08-23 00:11] ingest | 2026-08-23_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md
+## [2026-08-23 00:11] ingest | 2026-08-23_AnAItoolforprioritizingcandidatebiomarkersfromwear.md
+## [2026-08-23 00:11] ingest | 2026-08-23_IntroducingInkling-Small.md
+## [2026-08-23 00:11] ingest | 2026-08-23_ASafePathtoOpenWeights.md
+## [2026-08-23 00:11] ingest | 2026-08-23_IntroducingClaudeOpus5.md

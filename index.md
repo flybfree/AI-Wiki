@@ -2338,3 +2338,8 @@ tags: ['wiki']
 - [[2026-08-22_Scrap.md]] : Scrap
 - [[2026-08-22_Figmimic_AbookmarklettocopyanywebpageintoFigmaased.md]] : Figmimic – A bookmarklet to copy any webpage into Figma as editable layers
 - [[2026-08-22_Scrap_2006_.md]] : Scrap (2006)
+- [[2026-08-23_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-23_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[2026-08-23_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-23_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-23_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5

@@ -18,7 +18,7 @@ The curation store contains **684** unique keep identities. Prior dated briefing
 
 ### 2. Provenance is the limiting factor
 
-The target-day intake contains many article-summary files whose body is only `ERROR: all endpoints returned no content`. The [arXiv scout log](../../raw/logs/arxiv_scout_2026-08-22_23-00.md) shows broad collection activity, but collection volume is not equivalent to readable evidence.
+The target-day intake contains many article-summary files whose body is only `ERROR: all endpoints returned no content`. The [arXiv scout log](../logs/arxiv_scout_2026-08-22_23-00.md) shows broad collection activity, but collection volume is not equivalent to readable evidence.
 
 **Why it matters:** source availability, canonical URLs, and summary-path stability are part of the intelligence system—not post-publication housekeeping.
 
