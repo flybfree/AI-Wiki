@@ -2346,3 +2346,5 @@ tags: ['wiki']
 - [[2026-08-23_SydneyMarathonmedalmistakenlydepictsMunichstadium.md]] : Sydney Marathon medal mistakenly depicts Munich stadium
 - [[2026-08-23_MalwareinfectsAndroid-basedautomotiveheadunitfirmw.md]] : Malware infects Android-based automotive head unit firmware
 - [[2026-08-23_HowComplexSystemsFail.md]] : How Complex Systems Fail
+- [[2026-08-23_Ispent_266andfourAImodelstoownmytablet_GLM-5_3fini.md]] : I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
+- [[2026-08-23_Who_sbehindthenew_stealthmodel_OxAlpha_.md]] : Who’s behind the new ‘stealth model’ Ox Alpha?

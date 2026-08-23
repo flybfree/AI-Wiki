@@ -9910,3 +9910,5 @@ tags: ['wiki']
 ## [2026-08-23 08:10] ingest | 2026-08-23_SydneyMarathonmedalmistakenlydepictsMunichstadium.md
 ## [2026-08-23 09:10] ingest | 2026-08-23_MalwareinfectsAndroid-basedautomotiveheadunitfirmw.md
 ## [2026-08-23 12:09] ingest | 2026-08-23_HowComplexSystemsFail.md
+## [2026-08-23 13:10] ingest | 2026-08-23_Ispent_266andfourAImodelstoownmytablet_GLM-5_3fini.md
+## [2026-08-23 15:59] ingest | 2026-08-23_Who_sbehindthenew_stealthmodel_OxAlpha_.md
