@@ -2356,3 +2356,8 @@ tags: ['wiki']
 - [[2026-08-24_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
 - [[2026-08-24_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-24_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[2026-08-24_SeL4securityproofsnowcompleteonAArch64.md]] : SeL4 security proofs now complete on AArch64
+- [[2026-08-24_HowEuropeiskillingmakersandmicro-entrepreneurs.md]] : How Europe is killing makers and micro-entrepreneurs
+- [[2026-08-24_HuggingFacereportedlyintalkstobeacquiredfor_13B.md]] : Hugging Face reportedly in talks to be acquired for $13B
+- [[2026-08-24_OpenAIisbuildingAIagentsforeverything_Willeveryone.md]] : OpenAI is building AI agents for everything. Will everyone use them?
+- [[2026-08-24_BuildingAIcapabilitiestailoredtoVietnam_sneeds-Vie.md]] : Building AI capabilities tailored to Vietnam's needs - Vietnam+ (VietnamPlus)
