@@ -2361,3 +2361,7 @@ tags: ['wiki']
 - [[2026-08-24_HuggingFacereportedlyintalkstobeacquiredfor_13B.md]] : Hugging Face reportedly in talks to be acquired for $13B
 - [[2026-08-24_OpenAIisbuildingAIagentsforeverything_Willeveryone.md]] : OpenAI is building AI agents for everything. Will everyone use them?
 - [[2026-08-24_BuildingAIcapabilitiestailoredtoVietnam_sneeds-Vie.md]] : Building AI capabilities tailored to Vietnam's needs - Vietnam+ (VietnamPlus)
+- [[2026-08-24_Instinct_spowerfulAIassistantisraisingprivacyandse.md]] : Instinct’s powerful AI assistant is raising privacy and security concerns
+- [[2026-08-24_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[2026-08-24_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
+- [[2026-08-24_OnecornerofChina_sinternetisinsistingthattheTangDy.md]] : One corner of China’s internet is insisting that the Tang Dynasty never existed
