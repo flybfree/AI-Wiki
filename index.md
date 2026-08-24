@@ -2350,3 +2350,9 @@ tags: ['wiki']
 - [[2026-08-23_Ispent_266andfourAImodelstoownmytablet_GLM-5_3fini.md]] : I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
 - [[2026-08-23_Who_sbehindthenew_stealthmodel_OxAlpha_.md]] : Who’s behind the new ‘stealth model’ Ox Alpha?
 - [[2026-08-23_IntroducingAIFutures.md]] : Introducing AI Futures
+- [[2026-08-24_Who_sbehindthenew_stealthmodel_OxAlpha_.md]] : Who’s behind the new ‘stealth model’ Ox Alpha?
+- [[2026-08-24_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-24_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-24_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-24_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-24_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
