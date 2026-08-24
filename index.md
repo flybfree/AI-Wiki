@@ -126,6 +126,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-20.md|Daily AI Intelligence Briefing — 2026-08-20]] — deployment-fit model competition, embedded assistants, routing and compute infrastructure, reliability, and one retained research paper
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-21.md|Daily AI Intelligence Briefing — 2026-08-21]] — deployment-fit models, assistant distribution, harness infrastructure, open-weight safety, and validated scientific AI
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-22.md|Daily AI Intelligence Briefing — 2026-08-22]] — thin verified corpus, browser-native workflow capture, and unresolved curation backlog audit
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-23.md|Daily AI Intelligence Briefing — 2026-08-23]] — closed-frontier cost competition, staged open weights, agentic science, and operational provenance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-19.md|Daily AI Intelligence Briefing — 2026-08-19]] — deployment-fit model competition, assistant distribution, AI infrastructure economics, operational safety, and nine retained research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-18.md|Daily AI Intelligence Briefing — 2026-08-18]] — agentic interfaces, developer platforms, deployment fit, provenance, and six newly approved research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
@@ -2348,3 +2349,4 @@ tags: ['wiki']
 - [[2026-08-23_HowComplexSystemsFail.md]] : How Complex Systems Fail
 - [[2026-08-23_Ispent_266andfourAImodelstoownmytablet_GLM-5_3fini.md]] : I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
 - [[2026-08-23_Who_sbehindthenew_stealthmodel_OxAlpha_.md]] : Who’s behind the new ‘stealth model’ Ox Alpha?
+- [[2026-08-23_IntroducingAIFutures.md]] : Introducing AI Futures

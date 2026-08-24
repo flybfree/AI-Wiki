@@ -1,0 +1,18 @@
+---
+title: Can Legal AI Know When It Is Wrong? And Do Students Know When It Is?
+published: 2026-08-21T13:32:46Z
+authors: Angel Mary John, Vipin Kumar Singh, Jerrin Thomas Panachakel
+url: http://arxiv.org/abs/2608.21089v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Can Legal AI Know When It Is Wrong? And Do Students Know When It Is?
+
+## Abstract
+Integrating Large Language Models (LLMs) into the Indian judiciary promises access to justice but introduces severe risks. We identify the 'inertia of confidence'--an overconfidence phenomenon analogous to the Dunning-Kruger effect where LLMs provide incorrect legal verdicts with near-maximum confidence, driven by a hypothesized 'precedent overfitting' bias. Phase I of our socio-technical audit tested ChatGPT (GPT-5.2), Meta AI, and Perplexity AI on a 60-case battery regarding the Indian Contract Act, 1872, and the shift toward statutory enforcement of specific performance. We introduce the High-Confidence Error Rate (HCER) to quantify incorrect verdicts delivered with dangerous certainty (>= 9 on a 1-10 scale). All models struggled with statutory updates. Meta AI proved most vulnerable (31.7% HCER), frequently misapplying pre-amendment rules with a 9.1/10 mean confidence, followed by Perplexity (15.0%) and ChatGPT (6.7%).   Phase II investigated human vulnerability to this overconfidence via a survey of Indian law students (N=380). Verification often functions as a reactive adaptation to machine hallucinations: students encountering fabricated citations reported higher verification scores (4.2/5) than those with no such encounters (2.8/5). Furthermore, while 81.6% knew submitting hallucinated cases can lead to contempt-of-court, 71.1% received no formal training on ethical AI use. We propose shifting toward adversarial legal research pedagogy and implementing source-grounded verification architectures to prevent systemic professional negligence.
+
+## Metadata
+- **Published**: 2026-08-21T13:32:46Z
+- **Authors**: Angel Mary John, Vipin Kumar Singh, Jerrin Thomas Panachakel
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.21089v1)

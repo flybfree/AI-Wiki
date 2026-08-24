@@ -1,0 +1,18 @@
+---
+title: CertVLA: Certified Defense against Physical Visual Attacks for Vision-Language-Action Models
+published: 2026-08-21T07:09:03Z
+authors: Hui Lu, Zhijie Peng, Yuqi Lin, Zaijia Yang, Jiaming He, Shuhan Ye, Yi Yu, Hanwei Zhu, Bingquan Shen, Alex Kot, Xudong Jiang
+url: http://arxiv.org/abs/2608.20791v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# CertVLA: Certified Defense against Physical Visual Attacks for Vision-Language-Action Models
+
+## Abstract
+Vision-Language-Action (VLA) policies are vulnerable to localized physical perturbations, yet existing certified patch defenses target discrete labels and cannot directly certify continuous, temporally correlated actions. We introduce CertVLA, a certified defense for closed-loop VLA control under bounded patch and texture attacks. CertVLA proposes a calibrated region of behaviorally consistent actions, while deterministic covering masks ensure that at least one checked prediction is attack-free. Specifically, CertVLA normalizes action disagreement by the benign variation of each mask pair and accepts a single-mask anchor only when it remains consistent under every second mask. It then calibrates the resulting max-min-max episode score to provide finite-sample clean coverage. Conjoining query-level decisions extends the action certificate to the complete closed-loop rollout. Furthermore, we prove that against any adaptive attacker satisfying the bounded-support threat model, every rollout certified by CertVLA executes only action chunks consistent with attack-erased clean predictions. Under dual-mask rollout correctness, this consistency certificate further guarantees task success. The certificate is independent of patch content, generation method, and physical transformation. Experiments in simulation and the real world demonstrate the empirical and certified effectiveness of CertVLA against patch attacks, with additional simulation validation on texture attacks.
+
+## Metadata
+- **Published**: 2026-08-21T07:09:03Z
+- **Authors**: Hui Lu, Zhijie Peng, Yuqi Lin, Zaijia Yang, Jiaming He, Shuhan Ye, Yi Yu, Hanwei Zhu, Bingquan Shen, Alex Kot, Xudong Jiang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.20791v1)
