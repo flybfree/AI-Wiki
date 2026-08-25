@@ -2375,3 +2375,4 @@ tags: ['wiki']
 - [[2026-08-25_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
 - [[2026-08-25_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
 - [[2026-08-25_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-25_WhysomeUSrestaurantsarebanningtips.md]] : Why some US restaurants are banning tips
