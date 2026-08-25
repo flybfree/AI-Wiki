@@ -2376,3 +2376,8 @@ tags: ['wiki']
 - [[2026-08-25_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
 - [[2026-08-25_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-25_WhysomeUSrestaurantsarebanningtips.md]] : Why some US restaurants are banning tips
+- [[2026-08-25_Accel-backedKeenableisindexingthewebforAIagents.md]] : Accel-backed Keenable is indexing the web for AI agents
+- [[2026-08-25_AppleIntroducesNewMacStudiowithM5MaxandM5Ultra.md]] : Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+- [[2026-08-25_Jalapeño_sfirstresultsshowindustry-leadingspeedand.md]] : Jalapeño’s first results show industry-leading speed and efficiency in AI inference
+- [[2026-08-25_Thefullstackbehindabundantintelligence.md]] : The full stack behind abundant intelligence
+- [[2026-08-25_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
