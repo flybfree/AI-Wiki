@@ -1,0 +1,18 @@
+---
+title: Breaking the Assumptions: Auditing Input-Side Jailbreak Defenses Against Semantic Attacks
+published: 2026-08-22T10:14:23Z
+authors: Aaditya Pratap, Harsh Kasyap, Somanath Tripathy
+url: http://arxiv.org/abs/2608.21895v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Breaking the Assumptions: Auditing Input-Side Jailbreak Defenses Against Semantic Attacks
+
+## Abstract
+Locally deployed Large Language Models (LLMs) via inference engines such as Ollama run without the moderation and abuse detection present in API-served models. Therefore, the safety of LLMs depends on the defense mechanisms used, and their effectiveness depends on the assumptions on which they were designed. This paper does an audit of defense mechanisms under jailbreak attacks on locally deployed models. Some defenses provide formal guarantees (SmoothLLM, Erase-and-Check, Sequential Monitors), while others rely on empirical detection results (Semantic Smoothing, Self-Denoised Smoothing, Perplexity Filtering). Instead of merely observing that defenses fail, we trace each failure back to the specific assumption: for every defense, we extract the condition it relies on, derive the empirical pattern a violation should produce, and test that prediction on six open-weight models (14B to 35B parameters) with a corpus of 100 jailbreak prompts taken from more than 40 public sources, totalling 13,800 evaluation records.
+
+## Metadata
+- **Published**: 2026-08-22T10:14:23Z
+- **Authors**: Aaditya Pratap, Harsh Kasyap, Somanath Tripathy
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.21895v1)

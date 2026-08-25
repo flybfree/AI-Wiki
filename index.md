@@ -127,6 +127,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-21.md|Daily AI Intelligence Briefing — 2026-08-21]] — deployment-fit models, assistant distribution, harness infrastructure, open-weight safety, and validated scientific AI
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-22.md|Daily AI Intelligence Briefing — 2026-08-22]] — thin verified corpus, browser-native workflow capture, and unresolved curation backlog audit
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-23.md|Daily AI Intelligence Briefing — 2026-08-23]] — closed-frontier cost competition, staged open weights, agentic science, and operational provenance
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-24.md|Daily AI Intelligence Briefing — 2026-08-24]] — deployment-fit models, agent lifecycle security, harness continual learning, and context-sensitive alignment
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-19.md|Daily AI Intelligence Briefing — 2026-08-19]] — deployment-fit model competition, assistant distribution, AI infrastructure economics, operational safety, and nine retained research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-18.md|Daily AI Intelligence Briefing — 2026-08-18]] — agentic interfaces, developer platforms, deployment fit, provenance, and six newly approved research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
@@ -2365,3 +2366,5 @@ tags: ['wiki']
 - [[2026-08-24_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
 - [[2026-08-24_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
 - [[2026-08-24_OnecornerofChina_sinternetisinsistingthattheTangDy.md]] : One corner of China’s internet is insisting that the Tang Dynasty never existed
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-24.md|Daily AI Intelligence Briefing — 2026-08-24]] — deployment-fit models, agent lifecycle security, harness continual learning, and context-sensitive alignment
+- [[2026-08-24_SKTelecomOpensJointAIProgramwithSeoulNationalUnive.md]] : SK Telecom Opens Joint AI Program with Seoul National University, Current Developers to Teach

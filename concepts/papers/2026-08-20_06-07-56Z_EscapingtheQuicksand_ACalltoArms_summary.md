@@ -24,3 +24,6 @@ This work matters because it offers a scalable roadmap to mitigate the hidden co
 
 ## Related Concepts  
 technical debt, proof of correctness, property‑based testing, symbolic execution, specifications, executable‑as‑test‑oracle, semantics infrastructure, feedback loops, verification.
+
+## Original Paper Reference
+- **Source**: [Original Paper](http://arxiv.org/abs/2608.19674v1)

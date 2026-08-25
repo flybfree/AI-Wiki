@@ -1,0 +1,18 @@
+---
+title: Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing
+published: 2026-08-24T02:34:22Z
+authors: Jessica Hunter, Md Maruf Hossain Shuvo, Krishna Roy
+url: http://arxiv.org/abs/2608.22729v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Spiking Neural Networks for Continuous Control: Neuromorphic Reinforcement Learning in Conventional Computing
+
+## Abstract
+Reinforcement learning (RL) algorithms have made strides over the past decade applying them to a wide range of problems and control tasks. However, the deployment of RL on neuromorphic hardware for continuous control tasks remains under-validated. Namely it is unclear whether replacing a conventional actor network with a spiking neural network (SNN) affects the performance of an agent before any hardware-specific benefits manifest. We provide a systematic validation of a minimal, neuromorphically viable spiking actor variant of Soft Actor-Critic (SAC) on conventional hardware, establishing a baseline for future neuromorphic RL research. In this paper, we propose the Spiking Actor Network Soft Actor Critic (SANSAC) to address the use of RL frameworks in continuous environments, designed as a framework that can be implemented on neuromorphic hardware. We compare a traditional Soft Actor Critic (SAC) network to SANSAC in a traditional computer. We demonstrate the near equivalent performance of SANSAC and SAC, while addressing the impact of hidden dimensions. Our results demonstrate the viability of SNN based algorithms in complex continuous environments, as well as competitive performance to traditional neural networks in traditional computers, providing a basis to continue exploring the use of SNNs in continuous RL frameworks.
+
+## Metadata
+- **Published**: 2026-08-24T02:34:22Z
+- **Authors**: Jessica Hunter, Md Maruf Hossain Shuvo, Krishna Roy
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.22729v1)

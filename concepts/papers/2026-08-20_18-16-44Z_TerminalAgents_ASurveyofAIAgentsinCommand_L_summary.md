@@ -24,3 +24,6 @@ Providing a unified framework and advocating replayable traces for evidence enab
 
 ## Related Concepts  
 Terminal‑mediated agency, competence profile, component interaction, benchmark dependency, process quality, recovery, governance.
+
+## Original Paper Reference
+- **Source**: [Original Paper](http://arxiv.org/abs/2608.20485v1)

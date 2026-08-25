@@ -29,3 +29,6 @@ These findings reveal affective context as a vulnerability signal that can suppr
 - User disclosure vs. third‑party accounts  
 - Reddit datasets r/AmItheAsshole and r/TrueUnpopularOpinion  
 - Divergence metric for evaluating response consistency
+
+## Original Paper Reference
+- **Source**: [Original Paper](http://arxiv.org/abs/2608.21242v1)

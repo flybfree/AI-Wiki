@@ -14,7 +14,7 @@ ROOT = Path(__file__).resolve().parent
 MIRROR_ROOT = Path("/home/rich/logseq-brain/pages/ai-research")
 STATE_DIR = ROOT / ".curation"
 DB_PATH = STATE_DIR / "review.sqlite3"
-MIN_REVIEW_SCORE = 0.65
+MIN_REVIEW_SCORE = 0.60
 
 
 def _db() -> sqlite3.Connection:

@@ -24,3 +24,6 @@ This work reshapes the roles of developers, the database industry, and software 
 
 ## Related Concepts  
 Software 1.0 (instructions), Software 2.0 (machine learning/data), Software 3.0 (context/reasoning), three‑tier architecture, generalized database, large model, agent, expressibility, criticality, determinism, cost, security, verifiability, external statefulness, tool completeness, reference architecture, prototype validation.
+
+## Original Paper Reference
+- **Source**: [Original Paper](http://arxiv.org/abs/2608.20201v1)

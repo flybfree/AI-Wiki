@@ -1,0 +1,18 @@
+---
+title: EviSafe: Evidence-Grounded Safety Evaluation for Vision-Language Models
+published: 2026-08-24T14:32:25Z
+authors: Xuetong Li, Gaofeng Liu
+url: http://arxiv.org/abs/2608.23313v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# EviSafe: Evidence-Grounded Safety Evaluation for Vision-Language Models
+
+## Abstract
+Vision-language model safety benchmarks typically evaluate only final responses: whether a model refuses, warns, or complies. This outcome-level view cannot tell whether a model is safe for the right multimodal reason. Safelooking behavior may reflect keyword-triggered refusal, missed visual hazards, or over-refusal of benign-sensitive inputs. We introduce EviSafe, an evidence-grounded framework for VLM safety that jointly evaluates natural user-facing behavior, explicit grounding in textual and visual evidence, and behavioral sensitivity to counterfactual changes in safety-critical evidence. EviSafeBench instantiates the framework as a controlled benchmark with 1,181 gold image-text scenarios and 2,452 targeted counterfactual variants across eight safety domains and eight risk-source types. Each scenario includes a gold safety decision, evidence annotations, a safe-response policy, and counterfactual interventions. The three-probe protocol queries models with natural-response, evidencereporting, and counterfactual-response prompts, then scores them using an evidence-aware judge. Across eleven evaluated VLMs, natural severity accuracy ranges from 27.6% to 52.8%, relaxed diagnostic consistency from 6.1% to 29.3%, and unsafe-to-safe counterfactual transition success from 30.4% to 58.4%. These gaps show that the evaluated VLMs are not reliably safe for the right multimodal reason and motivate evaluation beyond refusal counts.
+
+## Metadata
+- **Published**: 2026-08-24T14:32:25Z
+- **Authors**: Xuetong Li, Gaofeng Liu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.23313v1)

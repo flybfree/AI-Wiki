@@ -1,0 +1,18 @@
+---
+title: LLM-Based Selection of Incongruent Verbal and Nonverbal Behavior for Virtual Humans
+published: 2026-08-24T02:38:55Z
+authors: Parisa Ghanad Torshizi, Stacy Marsella
+url: http://arxiv.org/abs/2608.22731v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# LLM-Based Selection of Incongruent Verbal and Nonverbal Behavior for Virtual Humans
+
+## Abstract
+Nonverbal behavior generation systems for virtual agents often take an utterance as input and generate nonverbal behaviors that emphasize or illustrate the content of the verbal channel. However, human nonverbal behavior is shaped by more than the content of the speech. It is also influenced by speaker roles, interpersonal relationships, social context, and the cognitive and emotional states of the interactants. As a result, the nonverbal channel may reinforce, weaken, qualify, or even contradict the verbal channel. It may also reveal internal states that are hidden or only indirectly implied in speech, including emotional "leakage" that may be incidental to the immediate interaction. Modeling this richer relationship between verbal and nonverbal behavior is important for designing virtual agents that exhibit realistic, human-like behavior. It is especially critical in training contexts that require nuanced social interpretation, such as counseling simulations involving virtual patients. Drawing on Ekman's framework of verbal nonverbal relationships, we propose a taxonomy of categories in which mismatches between verbal and nonverbal behavior can occur. We then examine alternative approaches for realizing these behaviors using large language models, focusing on whether LLMs can select contextually appropriate mismatched verbal and nonverbal behaviors from a given dialogue and social interaction context. Finally, we evaluate the resulting behaviors in a human-subject study, assessing whether context-driven nonverbal behavior, when embodied in a virtual human, produces the intended effects on observers.
+
+## Metadata
+- **Published**: 2026-08-24T02:38:55Z
+- **Authors**: Parisa Ghanad Torshizi, Stacy Marsella
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.22731v1)

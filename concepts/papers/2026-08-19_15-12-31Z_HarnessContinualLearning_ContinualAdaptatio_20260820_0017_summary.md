@@ -30,3 +30,6 @@ By decoupling continual improvement from model parameter updates, HCL enables lo
 - Routing rules  
 - Forgetting (harness‑level forgetting)  
 - Plasticity
+
+## Original Paper Reference
+- **Source**: [Original Paper](http://arxiv.org/abs/2608.19013v1)

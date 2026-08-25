@@ -24,3 +24,6 @@ By addressing the progressive nature of agentic risk across multiple lifecycle b
 
 ## Related Concepts  
 skill admission, invocation‑time intent, execution‑time effect, post‑action consequence, tool‑switching, rephrased retries, evidence floor, read‑only review, progressive decision engine, First‑use Skill Package Review (FSPR), Agent Harness Protocol (AHP).
+
+## Original Paper Reference
+- **Source**: [Original Paper](http://arxiv.org/abs/2608.21101v1)

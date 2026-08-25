@@ -1,0 +1,18 @@
+---
+title: SynEHR: Joint Modeling Inter-visit Temporal Evolution and Intra-visit Clinical Structure for Longitudinal EHR Synthesis
+published: 2026-08-21T22:32:06Z
+authors: Ximiao Li, Lin Jiang, Rongchao Xu, Dahai Yu, Zhe He, Guang Wang
+url: http://arxiv.org/abs/2608.21673v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SynEHR: Joint Modeling Inter-visit Temporal Evolution and Intra-visit Clinical Structure for Longitudinal EHR Synthesis
+
+## Abstract
+Longitudinal electronic health records (EHRs) document patients' sequences of clinical visits over time, preserving the temporal evolution of disease progression and care delivery. However, real longitudinal EHRs are difficult to access because they contain large amounts of fine-grained, patient-specific information. Synthetic EHR generation therefore provides a valuable approach for preserving the statistical patterns and clinical structure of patient visit trajectories, enabling broader modeling and analysis when real records are limited. Although recent generative models have made progress in producing future visit sequences, they remain limited in explicitly integrating inter-visit irregular temporal evolution and intra-visit clinical event structures in EHRs, leading to clinically inconsistent and temporally unrealistic visit sequences. In this work, we propose SynEHR, a lightweight adaptive LLM-based framework for longitudinal EHR synthesis. There are two novel designs in SynEHR, i.e., a Temporal State Conditioning Module captures irregular temporal states across visits and a Temporal-Relational Adaptation Module combines these states with patient history to dynamically construct patient-specific relational representations. SynEHR then builds on a parameter-efficient LoRA-adapted language-model generator with next-visit generation capability to train the two modules for temporally and clinically informed generation. Extensive experiments on real-world EHR datasets across fidelity, privacy, and downstream utility evaluations demonstrate that SynEHR outperforms state-of-the-art models by generating more clinically coherent and temporally faithful longitudinal EHR data.
+
+## Metadata
+- **Published**: 2026-08-21T22:32:06Z
+- **Authors**: Ximiao Li, Lin Jiang, Rongchao Xu, Dahai Yu, Zhe He, Guang Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.21673v1)

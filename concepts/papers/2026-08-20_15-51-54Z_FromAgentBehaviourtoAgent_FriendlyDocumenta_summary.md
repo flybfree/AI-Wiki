@@ -28,3 +28,6 @@ Understanding these agent‑centric patterns is crucial for designing documentat
 - Event‑level interaction analysis  
 - Logistic regression and stage‑adjusted odds ratios  
 - Two‑lobed cycle model
+
+## Original Paper Reference
+- **Source**: [Original Paper](http://arxiv.org/abs/2608.20195v1)

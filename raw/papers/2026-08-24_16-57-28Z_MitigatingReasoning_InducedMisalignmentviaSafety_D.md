@@ -1,0 +1,18 @@
+---
+title: Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty
+published: 2026-08-24T16:57:28Z
+authors: Yipeng Zhao, Qishun Yang, Shenzhe Zhu, Shu Yang, Di Wang
+url: http://arxiv.org/abs/2608.23497v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Mitigating Reasoning-Induced Misalignment via Safety-Direction Penalty
+
+## Abstract
+Reasoning-Induced Misalignment, where fine-tuning on reasoning data containing no harmful content, including mathematics, code, and problem-solving with chain-of-thought traces can induce harmful behaviors of LLM, posing a serious challenge to the safety of LLM reasoning. Cross-architecture, cross-scale, and cross-dataset checks show that RIM does not always emerge. Previous work attributed RIM to neuron-level entanglement, but did not identify the geometry of the representation space underlying this entanglement or propose a training-time fix. We provide both: a representation-space analysis of RIM and the Safety-Direction Penalty (SDP), which penalizes movement along a learned safety direction during reasoning fine-tuning. The analysis extracts two activation-space directions, one encoding reasoning ability and the other safety behavior. These directions are coupled: fine-tuning that improves reasoning shifts safety representations, and prompts with larger shifts show larger safety degradation. CKA distance ratios and probes locate the safety-decision layers where this shift is most relevant. These findings guide the design of SDP: the coupling motivates penalizing displacement along the safety direction, and the layer localization sets the initial scope. When the initial scope leaves compensatory shifts beyond the penalized layers, the same diagnostics guide iterative expansion. On Qwen2.5-3B and 7B, SDP restores safety while preserving benchmark reasoning performance.
+
+## Metadata
+- **Published**: 2026-08-24T16:57:28Z
+- **Authors**: Yipeng Zhao, Qishun Yang, Shenzhe Zhu, Shu Yang, Di Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.23497v1)

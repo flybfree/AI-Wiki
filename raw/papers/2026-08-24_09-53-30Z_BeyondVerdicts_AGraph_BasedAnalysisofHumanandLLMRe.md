@@ -1,0 +1,18 @@
+---
+title: Beyond Verdicts: A Graph-Based Analysis of Human and LLM Reasoning in Scientific Fact-Checking
+published: 2026-08-24T09:53:30Z
+authors: Abdul Ghafoor, Muhammad Arslan Manzoor, Yufang Hou
+url: http://arxiv.org/abs/2608.23047v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Verdicts: A Graph-Based Analysis of Human and LLM Reasoning in Scientific Fact-Checking
+
+## Abstract
+Misinformation that cites legitimate papers can be especially harmful when it distorts what those studies actually report. While existing automatic fact-checking systems based on large language models (LLMs) can assess whether a model assigns an Incorrect verdict and can gen- erate explanations for that decision, they typi- cally do not indicate whether the model follows the same reasoning path as human experts or arrives at the verdict through a different but still valid path. In this work, we introduce a graph- based framework (typed reasoning graph) for comparing human and LLM reasoning paths in scientific fact-checking. Building on prior work on fallacious reasoning in biomedical misinformation, MISSCIPLUS (Glockner et al., 2025), we model each explanation as a rea- soning graph that links the false claim to the relevant study context, study findings, fallacy- supporting premises, and fallacy labels. This representation enables one-to-one alignment of human and LLM reasoning at the level of fallacy-specific sub-graphs. For non-human- aligned LLM paths, we validate grounding in the cited study, relevance to the claim, and suf- ficiency for the verdict. Using 84 false claims from MISSCIPLUS, we evaluate GPT-5, Claude Opus 4.7, and Qwen3-32B across prompt and evidence settings. Results show distinct perfor- mance dimensions: Qwen3-32B has the lowest verdict failure rate, GPT-5 the highest human alignment, and Claude Opus 4.7 weak verdict prediction but often valid reasoning in success- ful cases
+
+## Metadata
+- **Published**: 2026-08-24T09:53:30Z
+- **Authors**: Abdul Ghafoor, Muhammad Arslan Manzoor, Yufang Hou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.23047v1)
