@@ -10428,3 +10428,7 @@ tags: ['wiki']
 ## [2026-08-25 10:17] ingest | 2026-08-25_Jalapeño_sfirstresultsshowindustry-leadingspeedand.md
 ## [2026-08-25 11:16] ingest | 2026-08-25_Thefullstackbehindabundantintelligence.md
 ## [2026-08-25 12:15] ingest | 2026-08-25_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md
+## [2026-08-25 13:16] ingest | 2026-08-25_ClaudeCoworkfinallyrememberswhatyoutoldtheappincha.md
+## [2026-08-25 14:15] ingest | 2026-08-25_StabilityAI_makerofimagegeneratorStableDiffusion_r.md
+## [2026-08-25 16:15] ingest | 2026-08-25_FDAauthorizesfirstwearabledevicethatmonitorsketone.md
+## [2026-08-25 17:56] ingest | 2026-08-25_Python_spre-declaredconstantsarekindaweird.md

@@ -2381,3 +2381,7 @@ tags: ['wiki']
 - [[2026-08-25_Jalapeño_sfirstresultsshowindustry-leadingspeedand.md]] : Jalapeño’s first results show industry-leading speed and efficiency in AI inference
 - [[2026-08-25_Thefullstackbehindabundantintelligence.md]] : The full stack behind abundant intelligence
 - [[2026-08-25_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
+- [[2026-08-25_ClaudeCoworkfinallyrememberswhatyoutoldtheappincha.md]] : Claude Cowork finally remembers what you told the app in chat
+- [[2026-08-25_StabilityAI_makerofimagegeneratorStableDiffusion_r.md]] : Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding
+- [[2026-08-25_FDAauthorizesfirstwearabledevicethatmonitorsketone.md]] : FDA authorizes first wearable device that monitors ketone and blood sugar levels
+- [[2026-08-25_Python_spre-declaredconstantsarekindaweird.md]] : Python's pre-declared constants are kinda weird
