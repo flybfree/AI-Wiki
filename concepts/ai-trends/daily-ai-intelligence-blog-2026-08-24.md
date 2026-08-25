@@ -53,6 +53,7 @@ The news layer adds a public deployment track: [A Safe Path to Open Weights](htt
 - Agent products moved closer to acting across users’ real applications and private data.
 - The selected research set concentrated on agent security, harness adaptation, documentation, memory, evaluation checkpoints, and constrained inference.
 - Safety discussion around open weights increasingly focused on staged release and defensive readiness.
+- Industry–university AI training partnerships, such as [SK Telecom’s graduate program with Seoul National University](https://github.com/flybfree/AI-Wiki/blob/master/entities/article/2026-08-24_SKTelecomOpensJointAIProgramwithSeoulNationalUnive_20260824_2241_summary.md), continued to build applied talent pipelines around models, services, and infrastructure.
 
 ## What to Watch Next
 
