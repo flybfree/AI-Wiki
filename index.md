@@ -2368,3 +2368,10 @@ tags: ['wiki']
 - [[2026-08-24_OnecornerofChina_sinternetisinsistingthattheTangDy.md]] : One corner of China’s internet is insisting that the Tang Dynasty never existed
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-24.md|Daily AI Intelligence Briefing — 2026-08-24]] — deployment-fit models, agent lifecycle security, harness continual learning, and context-sensitive alignment
 - [[2026-08-24_SKTelecomOpensJointAIProgramwithSeoulNationalUnive.md]] : SK Telecom Opens Joint AI Program with Seoul National University, Current Developers to Teach
+- [[2026-08-25_SKTelecomOpensJointAIProgramwithSeoulNationalUnive.md]] : SK Telecom Opens Joint AI Program with Seoul National University, Current Developers to Teach
+- [[2026-08-25_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-25_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[2026-08-25_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[2026-08-25_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-25_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
+- [[2026-08-25_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
