@@ -2394,3 +2394,8 @@ tags: ['wiki']
 - [[2026-08-26_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-26_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
 - [[2026-08-26_Oldinsurancemaps_netisnowaCharterProject.md]] : Oldinsurancemaps.net is now a Charter Project
+- [[2026-08-26_RAGIsSimplerThanYouThink.md]] : RAG Is Simpler Than You Think
+- [[2026-08-26_Runablehits_21MtobetAIagentscangofrombuildingbusin.md]] : Runable hits $21M to bet AI agents can go from building businesses to growing them
+- [[2026-08-26_HowloveholidaysismakingeveryoneabuilderwithCodex.md]] : How loveholidays is making everyone a builder with Codex
+- [[2026-08-26_GLM-5_3-Flash.md]] : GLM-5.3-Flash
+- [[2026-08-26_Google_snewAItranscriptioneditsoutyour__8216_ums__.md]] : Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;
