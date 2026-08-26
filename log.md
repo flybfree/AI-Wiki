@@ -10678,3 +10678,7 @@ tags: ['wiki']
 ## [2026-08-26 11:19] ingest | 2026-08-26_HowloveholidaysismakingeveryoneabuilderwithCodex.md
 ## [2026-08-26 12:19] ingest | 2026-08-26_GLM-5_3-Flash.md
 ## [2026-08-26 12:19] ingest | 2026-08-26_Google_snewAItranscriptioneditsoutyour__8216_ums__.md
+## [2026-08-26 12:46] ingest | 2026-08-26_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md
+## [2026-08-26 14:19] ingest | 2026-08-26_OpenAIreleasesitsofficialreportontheHuggingFacebre.md
+## [2026-08-26 14:19] ingest | 2026-08-26_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md
+## [2026-08-26 15:19] ingest | 2026-08-26_Google_sGeminihasabrandingproblem_andsodoestherest.md

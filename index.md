@@ -2399,3 +2399,7 @@ tags: ['wiki']
 - [[2026-08-26_HowloveholidaysismakingeveryoneabuilderwithCodex.md]] : How loveholidays is making everyone a builder with Codex
 - [[2026-08-26_GLM-5_3-Flash.md]] : GLM-5.3-Flash
 - [[2026-08-26_Google_snewAItranscriptioneditsoutyour__8216_ums__.md]] : Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;
+- [[2026-08-26_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md]] : Bringing ChatGPT for Teachers to more U.S. school districts
+- [[2026-08-26_OpenAIreleasesitsofficialreportontheHuggingFacebre.md]] : OpenAI releases its official report on the Hugging Face breach
+- [[2026-08-26_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
+- [[2026-08-26_Google_sGeminihasabrandingproblem_andsodoestherest.md]] : Google’s Gemini has a branding problem, and so does the rest of AI
