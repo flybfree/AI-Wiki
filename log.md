@@ -10672,3 +10672,4 @@ tags: ['wiki']
 ## [2026-08-26 00:20] ingest | 2026-08-26_ASafePathtoOpenWeights.md
 ## [2026-08-26 00:20] ingest | 2026-08-26_IntroducingClaudeOpus5.md
 ## [2026-08-26 00:20] ingest | 2026-08-26_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md
+## [2026-08-26 05:27] ingest | 2026-08-26_Oldinsurancemaps_netisnowaCharterProject.md

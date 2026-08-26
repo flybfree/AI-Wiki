@@ -2393,3 +2393,4 @@ tags: ['wiki']
 - [[2026-08-26_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-26_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-26_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
+- [[2026-08-26_Oldinsurancemaps_netisnowaCharterProject.md]] : Oldinsurancemaps.net is now a Charter Project
