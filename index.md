@@ -2385,3 +2385,4 @@ tags: ['wiki']
 - [[2026-08-25_StabilityAI_makerofimagegeneratorStableDiffusion_r.md]] : Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding
 - [[2026-08-25_FDAauthorizesfirstwearabledevicethatmonitorsketone.md]] : FDA authorizes first wearable device that monitors ketone and blood sugar levels
 - [[2026-08-25_Python_spre-declaredconstantsarekindaweird.md]] : Python's pre-declared constants are kinda weird
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-25.md|Daily AI Intelligence Briefing — 2026-08-25]] — agent graphs, harnesses, system-level capability, privacy leakage, and human skill effects
