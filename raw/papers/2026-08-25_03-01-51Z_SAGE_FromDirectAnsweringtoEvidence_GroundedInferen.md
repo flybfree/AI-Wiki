@@ -1,0 +1,18 @@
+---
+title: SAGE: From Direct Answering to Evidence-Grounded Inference for Chinese Ancient Document Understanding
+published: 2026-08-25T03:01:51Z
+authors: Yuchuan Wu, Xuan Luo, Yinglian Zhu, Meng Fang, Xiangyang Xue, Bin Li
+url: http://arxiv.org/abs/2608.24011v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SAGE: From Direct Answering to Evidence-Grounded Inference for Chinese Ancient Document Understanding
+
+## Abstract
+Chinese ancient document understanding demands complex visual, linguistic, and historical reasoning. Current Large Vision-Language Models (LVLMs) typically rely on an opaque, single-pass generation paradigm, often producing overconfident and weakly grounded responses. To address this, we propose SAGE, an evidence-grounded multi-agent framework that reformulates Chinese ancient document understanding as evidence-grounded inference rather than direct answer generation. SAGE coordinates specialized agents for task-aware planning, tool-mediated evidence acquisition, claim-level verification, and bounded replanning under a constrained shared-state runtime. This design supports bounded evidence seeking, answer revision, and abstention when grounding is insufficient. Experiments on the AncientDoc benchmark show that SAGE consistently outperforms matched direct-answering baselines across three LVLM backbones. Remarkably, SAGE with Qwen3.5-9B surpasses much larger monolithic LVLMs on most evaluated metrics, highlighting the importance of structured, evidence-grounded inference beyond model scaling.
+
+## Metadata
+- **Published**: 2026-08-25T03:01:51Z
+- **Authors**: Yuchuan Wu, Xuan Luo, Yinglian Zhu, Meng Fang, Xiangyang Xue, Bin Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.24011v1)

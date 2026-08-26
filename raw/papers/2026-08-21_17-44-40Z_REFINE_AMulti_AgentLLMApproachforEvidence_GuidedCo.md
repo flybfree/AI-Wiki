@@ -1,0 +1,18 @@
+---
+title: REFINE: A Multi-Agent LLM Approach for Evidence-Guided Code Refactoring
+published: 2026-08-21T17:44:40Z
+authors: Muhammad Waseem, Aakash Ahmad, Pekka Abrahamsson
+url: http://arxiv.org/abs/2608.23611v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# REFINE: A Multi-Agent LLM Approach for Evidence-Guided Code Refactoring
+
+## Abstract
+Large Language Models (LLMs) offer new opportunities for automated code refactoring. However, generated changes must reduce targeted quality problems without introducing new issues or altering behaviour-relevant code structures. We introduce REFINE (Refactoring with Evidence-aware Flow for Integrated ageNtic Execution), a tool-agnostic, evidence-aware multi-agent approach for generating Java file-level refactoring candidates. REFINE combines static-analysis-guided smell identification, smell-informed planning, LLM-based transformation, automated re-analysis, preservation checks, and structured reporting.   We evaluate REFINE on 450 Java files from 15 open-source systems, producing 1,350 model-pass outputs using OpenAI GPT-5.5, Google Gemini 3.1 Pro Preview, and Anthropic Claude Opus 4.8. REFINE reduces detected code smells by 68.26%, 72.79%, and 68.49% across the three configurations, respectively, with the strongest reductions observed for major smells. A matched 150-file direct-prompt baseline shows that REFINE achieves a higher median code-smell reduction with smaller edits and fewer public-method removals. However, broader quality improvements are inconsistent, and preservation checks reveal residual risks, including assert/fail-call changes and public-method removal. Therefore, REFINE outputs should be treated as refactoring candidates requiring compilation, testing, dependency analysis, and human review before adoption in repository- or system-level settings.
+
+## Metadata
+- **Published**: 2026-08-21T17:44:40Z
+- **Authors**: Muhammad Waseem, Aakash Ahmad, Pekka Abrahamsson
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.23611v1)

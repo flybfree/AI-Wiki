@@ -2386,3 +2386,10 @@ tags: ['wiki']
 - [[2026-08-25_FDAauthorizesfirstwearabledevicethatmonitorsketone.md]] : FDA authorizes first wearable device that monitors ketone and blood sugar levels
 - [[2026-08-25_Python_spre-declaredconstantsarekindaweird.md]] : Python's pre-declared constants are kinda weird
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-25.md|Daily AI Intelligence Briefing — 2026-08-25]] — agent graphs, harnesses, system-level capability, privacy leakage, and human skill effects
+- [[concepts/ai-trends/daily-ai-intelligence-carry-forward-2026-08-25.md|Approved AI Research Paper Carry-Forward — 2026-08-25]] — seven uncovered approved papers linked from the dated briefing
+- [[2026-08-26_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-26_Thefullstackbehindabundantintelligence.md]] : The full stack behind abundant intelligence
+- [[2026-08-26_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[2026-08-26_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-26_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-26_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition

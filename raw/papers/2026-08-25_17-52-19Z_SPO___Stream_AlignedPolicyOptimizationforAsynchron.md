@@ -1,0 +1,18 @@
+---
+title: SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL
+published: 2026-08-25T17:52:19Z
+authors: Kai Ruan, Jinghao Lin, Qianshan Wei, Ziqi Zhou, Zihe Huang
+url: http://arxiv.org/abs/2608.24870v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SPO++: Stream-Aligned Policy Optimization for Asynchronous Agentic RL
+
+## Abstract
+Group-relative reinforcement learning waits for sibling rollouts of the same prompt, which is costly for long and variable tool-use trajectories. Single-stream Policy Optimization (SPO) removes this dependency with a persistent prompt-level value estimate, but its recipe whitens one advantage per trajectory before optimizing a token-mean actor loss. We show that trajectory centering generally does not center the token-weighted quantity consumed by the actor, and fix the mismatch by standardizing terminal-outcome advantages under the action-token measure. We additionally organize prompt evidence by the policy event that generated it rather than learner receipt order. Across matched runs on ALFWorld at two model scales and on Math-TIR, SPO++ improves online learning efficiency over SPO. A paired ablation identifies action-token-measure normalization as the strongest tested component.
+
+## Metadata
+- **Published**: 2026-08-25T17:52:19Z
+- **Authors**: Kai Ruan, Jinghao Lin, Qianshan Wei, Ziqi Zhou, Zihe Huang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.24870v1)

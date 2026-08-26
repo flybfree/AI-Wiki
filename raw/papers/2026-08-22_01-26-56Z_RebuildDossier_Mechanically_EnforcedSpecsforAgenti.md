@@ -1,0 +1,18 @@
+---
+title: Rebuild Dossier: Mechanically-Enforced Specs for Agentic App Rebuilds, and What Model-Tier Failures Reveal
+published: 2026-08-22T01:26:56Z
+authors: Parker Fawcett
+url: http://arxiv.org/abs/2608.23616v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Rebuild Dossier: Mechanically-Enforced Specs for Agentic App Rebuilds, and What Model-Tier Failures Reveal
+
+## Abstract
+An AI agent's rebuild is only as good as the process that produced it. Prior work found that once a model is strong enough, a multi-agent rebuild pipeline loses to the simplest approach: giving the model the original code and one instruction (AgentModernize). We present rebuild-dossier, an open-source tool that locks an application's real interface - its exact inputs and outputs - before any code is written, then enforces one-test-at-a-time building through automated checks, not written instructions alone.   Three results shape this evaluation, with differing amounts of evidence. First, in a small comparison, the compliant agent failed a held-back test while the rule-breaking agent passed everything - proof that a passing suite doesn't certify correctness when tests can be gamed. Second, we tested whether this beats simply giving the weaker model the source and one instruction: tied on a small app, but lost outright on a larger one where the automated check wasn't even running - pointing to the check mechanism, not interface-locking, which held up separately. Third, every claim here is checked at three levels - the agent's own report, an automated log, and the actual files produced - catching real errors, including a bug in our own logging code, that a single level would have missed.   These risks reproduce on a different model and toolchain: a stronger model followed our process three times running, something the weaker model never managed. The tool is public, MIT licensed, and reproduces end to end against our own applications.
+
+## Metadata
+- **Published**: 2026-08-22T01:26:56Z
+- **Authors**: Parker Fawcett
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.23616v1)

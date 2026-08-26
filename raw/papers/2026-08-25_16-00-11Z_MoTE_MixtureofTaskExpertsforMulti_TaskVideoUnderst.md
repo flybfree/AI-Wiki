@@ -1,0 +1,18 @@
+---
+title: MoTE: Mixture of Task Experts for Multi-Task Video Understanding
+published: 2026-08-25T16:00:11Z
+authors: Muhammad Asad Ali, Umar Khan, Nadia Robertini, Didier Stricker
+url: http://arxiv.org/abs/2608.24763v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MoTE: Mixture of Task Experts for Multi-Task Video Understanding
+
+## Abstract
+Procedural video-language models must solve heterogeneous tasks from the same visual evidence, including action recognition, forecasting, and procedure prediction. Dense transformer decoders share the same feed-forward networks across tasks, which can entangle task behavior and make controlled capability expansion difficult. Sparse Mixture-of-Experts (MoE) decoders provide conditional computation, but token-level learned routing is not naturally aligned with task-level procedural objectives. We propose MoTE (Mixture of Task Experts), a decoder architecture that converts large language model feed-forward networks into task-specific experts while keeping the multimodal backbone shared. Each example follows one sample-level task route, so active task-expert computation remains independent of the number of stored task experts. We instantiate this design as VideoLLM-MoTE and evaluate it on five COIN benchmarks using explicit task routes. The five-expert model activates ~2B LLM parameters per sample and achieves higher average top-1 accuracy than recent VideoLLM baselines. Under the same expert topology, it improves over dense all-expert activation and learned sparse-routing controls. These results show that task-structured routing provides an interpretable and compute-efficient decoder alternative for multi-task video-language learning.
+
+## Metadata
+- **Published**: 2026-08-25T16:00:11Z
+- **Authors**: Muhammad Asad Ali, Umar Khan, Nadia Robertini, Didier Stricker
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.24763v1)

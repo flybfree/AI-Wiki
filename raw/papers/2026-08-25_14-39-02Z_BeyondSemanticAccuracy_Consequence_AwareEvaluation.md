@@ -1,0 +1,18 @@
+---
+title: Beyond Semantic Accuracy: Consequence-Aware Evaluation for Safety-Critical Language Understanding
+published: 2026-08-25T14:39:02Z
+authors: Yujing Chang, Thinh Pham, Van-Phat Thai, Chunyao Ma, Yash Guleria, Pham Nhut Huy, Sameer Alam
+url: http://arxiv.org/abs/2608.24621v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Semantic Accuracy: Consequence-Aware Evaluation for Safety-Critical Language Understanding
+
+## Abstract
+Can language models be trusted in safety- critical operations? In such settings, strong per- formance on semantic metrics does not guaran- tee operational reliability: a misread altitude, a dropped execution condition, or a confused call- sign may score well under standard F1 yet carry sharply asymmetric operational consequences. We study this problem in air traffic control (ATC), where controller-pilot communication demands near-zero error tolerance, and use consequence-aware evaluation to test whether semantic scores misstate operational reliabil- ity. The framework is instantiated in a con- trolled diagnostic ATC benchmark grounded in aviation standards and feedback from 40 air traffic controllers across three countries. Evaluating 8 models, we uncover a system- atic semantic-safety gap: conventional scores give substantially higher performance estimates than consequence-aware evaluation, even for models that appear reliable under standard met- rics. Risk-aware fine-tuning narrows but does not close this gap, showing that consequence- aware evaluation is a necessary complement to standard NLP metrics before any real safety- critical deployment claim
+
+## Metadata
+- **Published**: 2026-08-25T14:39:02Z
+- **Authors**: Yujing Chang, Thinh Pham, Van-Phat Thai, Chunyao Ma, Yash Guleria, Pham Nhut Huy, Sameer Alam
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.24621v1)

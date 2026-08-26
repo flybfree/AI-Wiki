@@ -1,0 +1,18 @@
+---
+title: Predictability of El Niño from Delayed Observations
+published: 2026-08-25T11:42:46Z
+authors: Francisco J. Beron-Vera
+url: http://arxiv.org/abs/2608.24428v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Predictability of El Niño from Delayed Observations
+
+## Abstract
+Using monthly Niño-3.4 anomalies through July 2026, we investigate how much predictive information is contained in delayed observations of the index. Ridge regression identifies informative delays, while multilayer perceptron and sparse identification of nonlinear dynamics (SINDy) models test whether nonlinear complexity provides additional direct forecast skill; gated recurrent unit (GRU) and long short-term memory (LSTM) networks provide a complementary test in which the temporal representation is learned internally. Delayed observations substantially improve forecasts over persistence and climatology at leads of up to six months, but increasing model complexity provides no systematic improvement. Historical recursive experiments favor a simple explicit SINDy recurrence and select shallow recurrent architectures, with no appreciable gain from learning the temporal representation internally. These results support a compact predictive representation of Niño-3.4 evolution in which the representation of past information is more consequential than model complexity. As a prospective application, the selected models are used to forecast the developing 2026 event beyond the last available observation and to compare its predicted evolution with completed historical El Niño events.
+
+## Metadata
+- **Published**: 2026-08-25T11:42:46Z
+- **Authors**: Francisco J. Beron-Vera
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.24428v1)

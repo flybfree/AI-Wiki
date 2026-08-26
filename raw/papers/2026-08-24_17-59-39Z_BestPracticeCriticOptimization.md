@@ -1,0 +1,18 @@
+---
+title: Best Practice Critic Optimization
+published: 2026-08-24T17:59:39Z
+authors: Penghui Qi, Xiangxin Zhou, Wee Sun Lee
+url: http://arxiv.org/abs/2608.23566v2
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Best Practice Critic Optimization
+
+## Abstract
+Group-based reinforcement learning methods such as GRPO for large language models avoid training a critic by sampling multiple responses for each prompt. A reliable critic could instead estimate token-level advantages from one response, but standard critic-based training recipes are often unstable. We study this instability and develop **Best Practice Critic Optimization (BPCO)**, a recipe that combines DPPO, value predictions bounded to the reward range, Monte Carlo value targets, unnormalized policy advantages, and length-adaptive generalized advantage estimation. Because the critic is used only during training, BPCO can also condition it on reward-defining information, such as a reference answer or grading rubric, that is hidden from the policy. Controlled experiments isolate the effect of each design choice. Across mathematical reasoning tasks with models ranging from 1.5B parameters to 30B-A3B mixtures of experts, BPCO improves a strong critic-based baseline consistently, and matches or exceeds a group-based baseline while sampling one response per prompt. The same recipe also improves learning with rubric-based rewards. These results show that a carefully designed critic provides a reliable alternative to group-relative advantage estimation. Code is available at https://github.com/QPHutu/golden_critic.
+
+## Metadata
+- **Published**: 2026-08-24T17:59:39Z
+- **Authors**: Penghui Qi, Xiangxin Zhou, Wee Sun Lee
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.23566v2)

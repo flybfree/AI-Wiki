@@ -1,0 +1,18 @@
+---
+title: Task-Adaptive Rubrics for GUI Reward Modeling
+published: 2026-08-25T07:40:12Z
+authors: Tao Xiong, Xavier Hu, Wenkai Wang, Qinzhuo Wu, Changqiao Wu, Pengzhi Gao, Wei Liu, Jian Luan, Shengyu Zhang
+url: http://arxiv.org/abs/2608.24174v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Task-Adaptive Rubrics for GUI Reward Modeling
+
+## Abstract
+Recent studies on GUI agents have increasingly focused on outcome reward modeling, which assigns outcome rewards by judging whether an executed trajectory satisfies the success criteria implied by the user instruction. Existing GUI reward verifiers, however, often under-specify how these criteria should be constructed for each task instance. Whether using generic rubric structures or implicit model reasoning, their judging criteria are not sufficiently task-adaptive: they can transfer checks across tasks, overlook concrete constraints in the current instruction, or become overly strict by enforcing unstated requirements. To address this limitation, we propose AdaptRubric, a Coarse-to-Fine Rubrics Framework that constructs task-adaptive judging criteria through a category-level coarse stage and an instance-level fine stage. AdaptRubric performs category-level coarse rubric retrieval by routing the instruction to a GUI task family and retrieving reusable task-family criteria, then conducts instance-level fine rubric generation to surface compact cues for concrete values, scopes, and constraints in the current instruction. Across offline reward evaluation and online reinforcement learning optimization, AdaptRubric consistently outperforms prior reward agents, improving F1 by 3.6 points over the baseline average under a matched image budget and yielding a 4.23-point task-success gain.
+
+## Metadata
+- **Published**: 2026-08-25T07:40:12Z
+- **Authors**: Tao Xiong, Xavier Hu, Wenkai Wang, Qinzhuo Wu, Changqiao Wu, Pengzhi Gao, Wei Liu, Jian Luan, Shengyu Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.24174v1)

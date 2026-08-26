@@ -1,0 +1,18 @@
+---
+title: Markets, Not Planners: Decentralized Orchestration of LLM Agents with Private Information
+published: 2026-08-24T22:15:37Z
+authors: Xiao Liu, Haoyang Li, Songwei Li, Hongbo Fang, Fengli Xu, Feng Shi, James Evans
+url: http://arxiv.org/abs/2608.23867v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Markets, Not Planners: Decentralized Orchestration of LLM Agents with Private Information
+
+## Abstract
+As LLM agents proliferate, built by different parties and with different capabilities and costs, orchestrating them is more like assembling labor across the economy than a computer calling a subroutine. Existing orchestration is typically centralized, with a single planner assigning every task, but this creates a bottleneck as agent pools grow, requires private information (e.g., agents' execution costs), and can easily be manipulated, such that a single inserted preference nearly doubles a favored agent's task share under a centralized LLM allocator. We introduce AgentLance, a repeated labor market in which agents bid on tasks using their private costs and self-maintained strategy notes, an allocator selects winners from bids and public reputation records, and a VCG-style payment rule rewards cost-aware bidding. Complex tasks are handled by hierarchical delegation: winning agents can decompose work and subcontract it through the same mechanism. Across mathematical reasoning, code generation, knowledge-intensive QA, and agentic tasks, AgentLance matches agents to their specializations, shifts work toward cheaper agents as cost sensitivity rises, and consistently outperforms single-model, centralized-orchestration, and market baselines. Diagnosing market failures, including inaccurate cost self-estimation and sub-optimal bidding, then correcting them in controlled experiments yields further gains, charting a path toward more efficient agent economies.
+
+## Metadata
+- **Published**: 2026-08-24T22:15:37Z
+- **Authors**: Xiao Liu, Haoyang Li, Songwei Li, Hongbo Fang, Fengli Xu, Feng Shi, James Evans
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.23867v1)
