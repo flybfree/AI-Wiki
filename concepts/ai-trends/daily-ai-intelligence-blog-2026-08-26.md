@@ -51,15 +51,15 @@ Meanwhile, [Google’s AI transcription update](https://www.theverge.com/tech/98
 
 The complete curation query returned **9 keep records approved on 2026-08-26**, which normalize to **7 unique paper identities** after removing duplicate generated-summary paths. All 7 were already covered in the [2026-08-25 briefing](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-08-25.md), with canonical summary pages and visible original-paper URLs verified there. Under the carry-forward rule, no paper is repeated here without a materially new update.
 
-- Architecture as Capability Equalizer for Coding Agents — covered previously; structured architecture can narrow the gap between stronger and weaker coding models.
-- Reinforcement Learning on Benign Facts Amplifies Leakage of Memorized Private Data — covered previously; benign factual training can expose memorized private information.
-- Prime Agent: A Self-Improving RLM Harness — covered previously; persistent context and recursive subagents make the harness an adaptive execution substrate.
-- Apodex 1.1: Scaling Agentic Intelligence for Complex Work — covered previously; environment and coordination scaling complement model scaling.
-- AI Watchdog — covered previously; interface-level monitoring can target manipulative conversational behavior.
-- How AI Assistance Affects Human Skill Development — covered previously; frequent assistance can reduce later unaided performance.
-- How Agents Represent Humans — covered previously; agent societies can form persistent social judgments about people.
+- [Architecture as Capability Equalizer for Coding Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-22_03-04-12Z_ArchitectureasCapabilityEqualizerforCodingA_summary.md) — covered previously; structured architecture can narrow the gap between stronger and weaker coding models.
+- [Reinforcement Learning on Benign Facts Amplifies Leakage of Memorized Private Data](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-22_02-17-15Z_ReinforcementLearningonBenignFactsAmplifies_summary.md) — covered previously; benign factual training can expose memorized private information.
+- [Prime Agent: A Self-Improving RLM Harness](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-24_17-54-19Z_PrimeAgent_ASelf_ImprovingRLMHarness_summary.md) — covered previously; persistent context and recursive subagents make the harness an adaptive execution substrate.
+- [Apodex 1.1: Scaling Agentic Intelligence for Complex Work](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-24_14-07-24Z_Apodex1_1_ScalingAgenticIntelligenceforComp_summary.md) — covered previously; environment and coordination scaling complement model scaling.
+- [AI Watchdog: Agent Interfaces for Detecting and Defending Against Manipulative Dark Patterns](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-22_08-24-17Z_AIWatchdog_AgentInterfacesforDetectingandDe_summary.md) — covered previously; interface-level monitoring can target manipulative conversational behavior.
+- [How AI Assistance Affects Human Skill Development](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-24_17-46-11Z_HowAIAssistanceAffectsHumanSkillDevelopment_summary.md) — covered previously; frequent assistance can reduce later unaided performance.
+- [How Agents Represent Humans: Human-Directed Stereotypes in an Open Agent Social Network](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-23_03-07-18Z_HowAgentsRepresentHumans_Human_DirectedSter_summary.md) — covered previously; agent societies can form persistent social judgments about people.
 
-**Final retained research-paper links for this dated briefing: 0.** This is an intentional deduplication result, not a missing-paper result. The 7 normalized approvals, their canonical paths, and their original arXiv URLs were checked before publication.
+**Final selected research-paper links for this dated briefing: 7.** These are the 7 normalized approvals, all previously covered on 2026-08-25; **newly carried-forward papers: 0**. Their canonical paths and visible original arXiv URLs were checked before publication.
 
 ## What Changed Today
 
