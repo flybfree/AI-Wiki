@@ -1,0 +1,18 @@
+---
+title: Quantitative Analysis of $ω$-Regular Robust MDPs
+published: 2026-08-26T16:26:13Z
+authors: Ali Asadi, Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Alipasha Montaseri, Ali Shafiee
+url: http://arxiv.org/abs/2608.25968v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Quantitative Analysis of $ω$-Regular Robust MDPs
+
+## Abstract
+Robust Markov Decision Processes (RMDPs) generalize classical MDPs by allowing uncertainty in transition probabilities and optimizing against their worst-case realization. We consider $(s,a)$-rectangular RMDPs with \emph{linearly defined} uncertainty sets and study parity objectives, which are a canonical representation of $ω$-regular objectives. An uncertainty set is linearly defined if it is described by linear inequalities over the transition distribution together with auxiliary variables, which capture the standard $L_1$ and $L_\infty$ balls as well as general polytopic uncertainty sets.   The quantitative value is the supremum, over all agent policies, of the satisfaction probability guaranteed against the adversarial environment. Previous work studied the qualitative analysis, namely the almost-sure (resp. positive) problem that asks whether a single agent policy guarantees satisfaction with probability one (resp. positive probability) against every environment policy. In this work, we solve the exact quantitative problem.   Our contributions are threefold. First, we show that both the agent and the environment admit pure memoryless optimal policies. Second, we give a polynomial-time algorithm for quantitative parity on linearly defined robust Markov chains and use it as a subroutine in a policy-iteration algorithm for RMDPs. The algorithm combines quantitative one-step improvements with qualitative almost-sure improvements. Finally, we report experiments comparing our approach with the explicit reduction to stochastic games.
+
+## Metadata
+- **Published**: 2026-08-26T16:26:13Z
+- **Authors**: Ali Asadi, Krishnendu Chatterjee, Ehsan Kafshdar Goharshady, Mehrdad Karrabi, Alipasha Montaseri, Ali Shafiee
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.25968v1)

@@ -2403,3 +2403,6 @@ tags: ['wiki']
 - [[2026-08-26_OpenAIreleasesitsofficialreportontheHuggingFacebre.md]] : OpenAI releases its official report on the Hugging Face breach
 - [[2026-08-26_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
 - [[2026-08-26_Google_sGeminihasabrandingproblem_andsodoestherest.md]] : Google’s Gemini has a branding problem, and so does the rest of AI
+- [[2026-08-26_MechanicalTurkshuttingdownSeptember30.md]] : Mechanical Turk shutting down September 30
+- [[2026-08-26_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-26.md|Daily AI Intelligence Briefing — 2026-08-26]] — deployment economics, outcome-oriented agents, safety engineering, and adoption trust

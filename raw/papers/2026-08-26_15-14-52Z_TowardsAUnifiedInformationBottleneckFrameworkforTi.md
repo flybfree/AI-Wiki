@@ -1,0 +1,18 @@
+---
+title: Towards A Unified Information Bottleneck Framework for Time Series Explanations
+published: 2026-08-26T15:14:52Z
+authors: Xu Zheng, Zichuan Liu, Zhuomin Chen, Mayur Akewar, Janki Bhimani, Jason Liu, Mo Sha, Jingchao Ni, Wei Cheng, Dongsheng Luo
+url: http://arxiv.org/abs/2608.25897v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Towards A Unified Information Bottleneck Framework for Time Series Explanations
+
+## Abstract
+Explaining deep learning models operating on time series data is crucial in various applications that require transparent and interpretable insights into model behavior. {Existing explanation methods generally fall into two categories: attribution-based explanations, which identify the temporal regions most responsible for a prediction, and counterfactual explanations, which reveal how an input should be modified to alter the model's decision.} {Despite valuable insights, these two fields are largely studied independently. This disconnect leaves attribution methods lacking causal validation, while counterfactual methods suffer from severe instability, producing adversarial-like noise instead of meaningful explanations.} In this work, we revisit time-series explainability from an information-theoretic perspective and show that existing explainers are vulnerable to trivial solutions and distributional shifts. To address these limitations, we propose a unified objective function for explainable time series learning that bridges attribution and counterfactual reasoning within a single framework. Building upon the Information Bottleneck principle, our formulation explicitly prevents trivial explanations and out-of-distribution counterfactuals. {Based on this objective function, we introduce {\modelname}, a novel explanation framework that learns a parametric transformation network to construct explanation-embedded instances, where preserved information yields attribution explanations and controlled information removal produces stable counterfactual explanations.} We evaluate {\modelname} on synthetic and real-world benchmarks against state-of-the-art baselines. Extensive quantitative and qualitative results show that {\modelname} consistently outperforms competing methods, yielding faithful attributions and stable counterfactual explanations.
+
+## Metadata
+- **Published**: 2026-08-26T15:14:52Z
+- **Authors**: Xu Zheng, Zichuan Liu, Zhuomin Chen, Mayur Akewar, Janki Bhimani, Jason Liu, Mo Sha, Jingchao Ni, Wei Cheng, Dongsheng Luo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.25897v1)

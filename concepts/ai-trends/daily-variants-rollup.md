@@ -47,6 +47,7 @@ Use this page as the stable landing zone for daily variants:
 
 ## Related Pages
 
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-26.md|Daily AI Intelligence Briefing — 2026-08-26]]
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-24.md|Daily AI Intelligence Briefing — 2026-08-24]]
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-23.md|Daily AI Intelligence Briefing — 2026-08-23]]
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-22.md|Daily AI Intelligence Briefing — 2026-08-22]]

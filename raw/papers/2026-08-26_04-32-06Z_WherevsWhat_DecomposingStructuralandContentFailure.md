@@ -1,0 +1,18 @@
+---
+title: Where vs What: Decomposing Structural and Content Failures in LLM-Generated Structured Outputs
+published: 2026-08-26T04:32:06Z
+authors: Yiwei Zhang, Chengke Wu, Li Wang, Jianqiang Li
+url: http://arxiv.org/abs/2608.25358v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Where vs What: Decomposing Structural and Content Failures in LLM-Generated Structured Outputs
+
+## Abstract
+Structured outputs such as JSON and tables are central to modern LLM-based systems, yet generation failures are evaluated monolithically, conflating two distinct error modes: placement errors (correct values at wrong positions) and value errors (wrong values at intended positions). We introduce Structure-Content Decomposition (SCD), a framework that independently measures structural fidelity and content accuracy. Applying SCD to nested JSON and table tasks across six models (7B to frontier), we uncover a consistent phenomenon: structural fidelity degrades earlier and more sharply than content accuracy as complexity increases. At the highest complexity, even DeepSeek-V4-Flash (with reasoning) misplaces 35% of recalled values, while Qwen2.5-7B misplaces 74%. Controlled ablations suggest that this pattern is associated with reliance on semantic shortcuts rather than topological understanding of output structure. Based on these findings, we propose SA-RLVR, converting SCD metrics into verifiable rewards for reinforcement learning via GRPO. SA-RLVR successfully optimizes structural addressing across distinct topologies: it lifts JSON Value Placement Accuracy (VPA) from 26% to 63% while generalizing to held-out schemas; moreover, it consistently drives VPA improvements in the table domain, demonstrating that structure-aware rewards can directly enhance multi-domain structural positioning.
+
+## Metadata
+- **Published**: 2026-08-26T04:32:06Z
+- **Authors**: Yiwei Zhang, Chengke Wu, Li Wang, Jianqiang Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.25358v1)

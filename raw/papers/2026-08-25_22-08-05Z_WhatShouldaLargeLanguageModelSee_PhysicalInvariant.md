@@ -1,0 +1,18 @@
+---
+title: What Should a Large Language Model See? Physical Invariants as a Data Representation for PDE Discovery
+published: 2026-08-25T22:08:05Z
+authors: Fan Yang, Matt Thomson
+url: http://arxiv.org/abs/2608.25189v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# What Should a Large Language Model See? Physical Invariants as a Data Representation for PDE Discovery
+
+## Abstract
+Understanding how molecular interactions govern macroscopic behaviour is a central challenge in molecular sciences. However, conventional theory building cannot keep pace with the vast datasets modern experimentation routinely produces. Large language models offer a promising route to automating theory construction, but a spatiotemporal field cannot be directly placed in a prompt. Existing models generally learn about the data only through a score measuring how well each proposal fits it. Here we introduce data interpretation, a stage that measures the field into the quantities a theorist would consult and supplies them to the model as a direct input. On a benchmark of simulated fields, interpretation nearly triples the accuracy of recovered equations relative to showing the raw data, at negligible computational cost and without any training. By allowing a language model to read field data as a theorist does, data interpretation offers a practical route to automated field theory construction that can coevolve with experimentation.
+
+## Metadata
+- **Published**: 2026-08-25T22:08:05Z
+- **Authors**: Fan Yang, Matt Thomson
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.25189v1)
