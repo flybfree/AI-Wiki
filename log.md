@@ -10881,3 +10881,5 @@ tags: ['wiki']
 ## [2026-08-27 00:24] ingest | 2026-08-27_ASafePathtoOpenWeights.md
 ## [2026-08-27 00:24] ingest | 2026-08-27_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md
 ## [2026-08-27 00:24] ingest | 2026-08-27_IntroducingClaudeOpus5.md
+## [2026-08-27 02:23] ingest | 2026-08-27_NvidiaclosesinonHuggingFaceacquisition.md
+## [2026-08-27 06:22] ingest | 2026-08-27_ExpandingOpenAI_spresenceinBrazil.md

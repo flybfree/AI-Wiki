@@ -2412,3 +2412,5 @@ tags: ['wiki']
 - [[2026-08-27_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-27_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md]] : Bringing ChatGPT for Teachers to more U.S. school districts
 - [[2026-08-27_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-27_NvidiaclosesinonHuggingFaceacquisition.md]] : Nvidia closes in on Hugging Face acquisition
+- [[2026-08-27_ExpandingOpenAI_spresenceinBrazil.md]] : Expanding OpenAI’s presence in Brazil
