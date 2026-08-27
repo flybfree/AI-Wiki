@@ -2414,3 +2414,9 @@ tags: ['wiki']
 - [[2026-08-27_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[2026-08-27_NvidiaclosesinonHuggingFaceacquisition.md]] : Nvidia closes in on Hugging Face acquisition
 - [[2026-08-27_ExpandingOpenAI_spresenceinBrazil.md]] : Expanding OpenAI’s presence in Brazil
+- [[2026-08-27_OpenAItostartshowingadsonChatGPT_sfreeandGotiersin.md]] : OpenAI to start showing ads on ChatGPT’s free and Go tiers in India
+- [[2026-08-27_AirConditioningIsNotaLuxury_ItIsaNecessity.md]] : Air Conditioning Is Not a Luxury, It Is a Necessity
+- [[2026-08-27_Whenagentsactontheirown_governancehastoliveintheda.md]] : When agents act on their own, governance has to live in the data layer
+- [[2026-08-27_Here_sallthetimesAIhasgonerogueandhackedothercompa.md]] : Here’s all the times AI has gone rogue and hacked other companies
+- [[2026-08-27_JensenHuangsaysNvidiaachievedAGI_again_notthatitma.md]] : Jensen Huang says Nvidia achieved AGI, again — not that it matters
+- [[2026-08-27_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
