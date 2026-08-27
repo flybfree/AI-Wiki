@@ -2420,3 +2420,7 @@ tags: ['wiki']
 - [[2026-08-27_Here_sallthetimesAIhasgonerogueandhackedothercompa.md]] : Here’s all the times AI has gone rogue and hacked other companies
 - [[2026-08-27_JensenHuangsaysNvidiaachievedAGI_again_notthatitma.md]] : Jensen Huang says Nvidia achieved AGI, again — not that it matters
 - [[2026-08-27_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+- [[2026-08-27_Saving100terabytesofmemorybyoptimizing1_1_1_1_sDNS.md]] : Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+- [[2026-08-27_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-08-27_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[2026-08-27_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books
