@@ -2278,3 +2278,5 @@ tags: ['wiki']
 - [[2026-08-20_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-20_GoogleGeminiisgettingadedicatedstudenthub.md]] : Google Gemini is getting a dedicated student hub
 - [[2026-08-20_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-27.md|Daily AI Intelligence Briefing — 2026-08-27]] — model economics, adoption, open-weight safety, agent governance, and 170 retained research papers

@@ -8,6 +8,7 @@ tags: ['wiki']
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
 ## AI Research Engine Audit Log
+## [2026-08-28 00:03] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-27.md finalized; 5 target-date keeps normalized to 5 unique approvals; 165 uncovered carry-forward papers; 170 final links; original-paper URL audit unresolved for summaries without visible canonical URLs
 ## [2026-08-27 19:20] update | refreshed open-source and foundation-model SOTA pages through 2026-08-27 with GLM-5.3-Flash, Qwen4-Exp, Step-3.7-Flash, deployment-efficiency signals, and verified navigation links
 ## [2026-08-27 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-26.md finalized; 9 keep records normalized to 7 unique approvals, all already covered on 2026-08-25; 7 selected paper links, 0 newly carried-forward; original-paper URL chain verified
 ## [2026-08-26 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-25.md finalized; 7 target-date keep decisions normalized; 8 unique research-paper links (1 target-date keep plus 7 uncovered carry-forward papers); canonical original-paper URLs verified

@@ -2406,6 +2406,7 @@ tags: ['wiki']
 - [[2026-08-26_MechanicalTurkshuttingdownSeptember30.md]] : Mechanical Turk shutting down September 30
 - [[2026-08-26_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-26.md|Daily AI Intelligence Briefing — 2026-08-26]] — deployment economics, outcome-oriented agents, safety engineering, and adoption trust
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-27.md|Daily AI Intelligence Briefing — 2026-08-27]] — model economics, adoption, open-weight safety, agent governance, and 170 retained research papers
 - [[2026-08-27_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
 - [[2026-08-27_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
 - [[2026-08-27_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
