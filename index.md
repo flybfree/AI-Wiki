@@ -2426,3 +2426,9 @@ tags: ['wiki']
 - [[2026-08-27_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
 - [[2026-08-27_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books
 - [[2026-08-27_AnthropicwasillegallyblacklistedbytheTrumpadminist.md]] : Anthropic was illegally blacklisted by the Trump administration, court rules
+- [[2026-08-28_Saving100terabytesofmemorybyoptimizing1_1_1_1_sDNS.md]] : Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+- [[2026-08-28_AnthropicwasillegallyblacklistedbytheTrumpadminist.md]] : Anthropic was illegally blacklisted by the Trump administration, court rules
+- [[2026-08-28_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-08-28_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+- [[2026-08-28_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-28_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
