@@ -30,8 +30,8 @@ GitHub-friendly copy: use this version in the repository/browser.
 
 - [LLMs & Foundation Models Hub — Main](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/2026-06-09_LLMsAndFoundationModelsHub.md)
 - [LLM Release Tracker — Current Model Tracker](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-07-10_LLMReleaseTracker.md)
-- [Open-Source Models State of the Art — 2026-07-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/OpenSourceModelsStateOfTheArt.md) — open-weight frontier + local-use watchlist
-- [Foundation Models State of the Art — 2026-07-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/2026-07-27_FoundationModelsStateOfTheArt.md) — includes Claude Opus 5 and GPT-5.6 Sol/Terra/Luna
+- [Open-Source Models State of the Art — 2026-08-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/OpenSourceModelsStateOfTheArt.md) — open-weight frontier + local-use watchlist
+- [Foundation Models State of the Art — 2026-08-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/2026-07-27_FoundationModelsStateOfTheArt.md) — includes Claude Opus 5 and GPT-5.6 Sol/Terra/Luna
 - [Fable 5 Integration Notes](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/hermes-agent-guide.md)
 - [LLM Model Evolution](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-06-10_LLMModelEvolution.md)
 - [Ornith vs Qwythos vs VibeThinker vs Qwen3.6](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md)

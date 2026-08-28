@@ -38,14 +38,14 @@ This hub organizes content related to large language models, their architectures
 
 ## Frontier Proprietary
 
-- [Foundation Models State of the Art — 2026-07-27](../2026-07-27_FoundationModelsStateOfTheArt.md)
+- [Foundation Models State of the Art — 2026-08-27](../2026-07-27_FoundationModelsStateOfTheArt.md)
 - [Foundation Models State of the Art — 2026-06-30](../2026-06-30_FoundationModelsStateOfTheArt.md) (historical baseline)
 - [[2026-04-23_ClaudeOpus4_7_Anthropic_sNewBest_Available_Model_article.md|Claude Opus 4.7]]
 - [[2026-04-23_Claude_Opus_4_7__Anthropic_s_New_Best__Available___summary.md|Claude Opus 4.7 Summary]]
 
 ## Frontier Open-Weight
 
-- [Open-Source Models State of the Art — 2026-07-10](OpenSourceModelsStateOfTheArt.md)
+- [Open-Source Models State of the Art — 2026-08-27](OpenSourceModelsStateOfTheArt.md)
 - [Summary: Inkling: Our Open-Weights Model](../entities/article/2026-07-27_Inkling_OurOpen-WeightsModel_summary.md)
 - [Summary: Kimi-K3 Releases on HuggingFace 7/27](../entities/article/2026-07-27_Kimi-K3ReleasesonHuggingFace7_27_summary.md)
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
@@ -64,7 +64,7 @@ This hub organizes content related to large language models, their architectures
 
 - [[2026-05-18_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md|New LLM Releases April 2026]]
 - [[2026-06-08_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md|New LLM Releases April 2026]]
-- [[OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]]
+- [[OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-08-27]]
 - [[2026-06-08_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md|AI Updates Today, June 2026]]
 - [[2026-06-08_TheLatestAINewsandBreakthroughsThatMatterMost_News_summary.md|Latest AI News and Breakthroughs]]
 

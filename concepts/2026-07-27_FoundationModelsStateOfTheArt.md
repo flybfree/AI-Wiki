@@ -1,19 +1,19 @@
 ---
-title: "Foundation Models State of the Art — 2026-07-27"
-date: 2026-07-27
+title: "Foundation Models State of the Art — 2026-08-27"
+date: 2026-08-27
 status: draft
-tags: ["wiki", "foundation-models", "state-of-the-art", "leaderboard", "comparison", "2026-07-27"]
+tags: ["wiki", "foundation-models", "state-of-the-art", "leaderboard", "comparison", "2026-08-27"]
 ---
 
-# Foundation Models State of the Art — 2026-07-27
+# Foundation Models State of the Art — 2026-08-27
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This is the updated frontier foundation-model snapshot. It supersedes the 2026-06-30 baseline with the biggest additions since then: **Claude Opus 5** and OpenAI’s **GPT-5.6** family (**Sol**, **Terra**, **Luna**).
+This is the updated frontier foundation-model snapshot through 2026-08-27. It supersedes the 2026-06-30 baseline and incorporates the August open-weight acceleration: **GLM-5.3-Flash**, **Qwen4-Exp**, **Step-3.7-Flash**, MuseGlimmer, Nemotron 3.5 Lightning, and the continued Inkling/Kimi track.
 
 ## Semantic links
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 6 title terms overlap; shared tags: comparison, foundationmodels, leaderboard; 6 summary/topic terms overlap
-- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — 5 title terms overlap; shared tags: foundationmodels, stateoftheart, wiki; 3 backlinks
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-08-27]] — 5 title terms overlap; shared tags: foundationmodels, stateoftheart, wiki; 3 backlinks
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|AI/ML Foundations Lesson 03 - Data as the Foundation of Learning]] — 2 title terms overlap; 5 backlinks; 2 summary/topic terms overlap
 
 ## Research sources
@@ -285,7 +285,17 @@ Sources:
 - [GLM-5.2](https://z.ai/blog/glm-5.2)
 - [GLM-5 overview](https://docs.z.ai/guides/llm/glm-5)
 
-## 5) What changed since 2026-06-30
+## 5) What changed since 2026-07-27
+
+The latest window adds a distinct deployment-efficiency layer to the frontier:
+
+- **GLM-5.3-Flash** combines 320B total parameters with 18B active parameters, native multimodality, hybrid sparse/linear attention, and a 1M-token context target.
+- **Qwen4-Exp** emphasizes gated residual streams, sparse attention, and per-layer embeddings for long-context efficiency.
+- **Step-3.7-Flash** brings a large native vision-language MoE with multi-token-prediction support for speculative decoding.
+- **MuseGlimmer** and **Nemotron 3.5 Lightning** keep local-agent and high-volume execution as separate but important open-weight tracks.
+- The latest public discussion is less useful as a ranking signal than the release artifacts themselves: license terms, model-card quality, framework support, quantization, and serving cost now determine practical SOTA.
+
+
 
 The biggest deltas are:
 
@@ -309,7 +319,7 @@ If you want the best model for a specific job, I would treat the frontier like t
 
 ## 7) Bottom line
 
-As of 2026-07-27, foundation-model SOTA is no longer a single throne.
+As of 2026-08-27, foundation-model SOTA is no longer a single throne.
 
 Instead, the frontier is a cluster:
 - American proprietary leaders still dominate the premium closed-model tier

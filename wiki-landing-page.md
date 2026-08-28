@@ -34,8 +34,8 @@ Quick start: [README.md](README.md)
 ### Foundation Models & LLMs
 
 - [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker]] — living model-release tracker
-- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-07-10]] — open-weight frontier + local-use watchlist
-- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — frontier snapshot (includes Claude Opus 5 and GPT-5.6 Sol/Terra/Luna)
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-08-27]] — open-weight frontier + local-use watchlist
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-08-27]] — frontier snapshot (includes Claude Opus 5 and GPT-5.6 Sol/Terra/Luna)
 - [[concepts/hermes-agent-guide.md|Fable 5 Integration Notes]] — practical usage guidance
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — background evolution view
 - [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]

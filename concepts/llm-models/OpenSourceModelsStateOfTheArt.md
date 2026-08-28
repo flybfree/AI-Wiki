@@ -1,18 +1,18 @@
 ---
-title: "Open-Source Models State of the Art — 2026-08-11"
-date: 2026-08-11
+title: "Open-Source Models State of the Art — 2026-08-27"
+date: 2026-08-27
 status: draft
-tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-08-11"]
+tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-08-27"]
 ---
 
-# Open-Source Models State of the Art — 2026-08-11
+# Open-Source Models State of the Art — 2026-08-27
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page tracks the current open-weight frontier and the models most relevant for local deployment. The recent signal splits into frontier generalists, local-use quantized checkpoints, and release-engineering / safety-adjacent work that shapes how open weights actually ship.
+This page tracks the current open-weight frontier and the models most relevant for local deployment. The recent signal splits into frontier generalists, local-use quantized checkpoints, and deployment infrastructure that determines whether open weights are usable in practice. The snapshot is refreshed through 2026-08-27.
 
 ## Semantic links
-- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-07-27]] — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-08-27]] — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
 - [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
 - [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 2 title terms overlap, 2 topic terms overlap, same area: home
 
@@ -36,6 +36,9 @@ The practical question is no longer just “what is the strongest open model?”
 | [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) | Open-weights MoE with 276B total parameters, 12B active, 1M-token context, and variable thinking effort | Still large and customization-oriented rather than compact |
 | [MuseGlimmer](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | Apache 2.0 30B model optimized for always-on local agents, tool use, coding, multimodal input, and failure recovery | Requires roughly 17–20 GB for the quantized model plus runtime headroom |
 | [Nemotron 3.5 Lightning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/) | Open 30B MoE with 3B active parameters, optimized for fast, high-volume execution inside long-running agents | Execution specialist rather than a broad frontier generalist; benchmark and serving results are NVIDIA-reported |
+| [GLM-5.3-Flash](https://huggingface.co/docs/transformers/main/en/model_doc/glm5_next) | Native multimodal 320B MoE with 18B active parameters, hybrid sparse/linear attention, and 1M context | Very large total footprint; official capability claims need independent benchmarking |
+| [Qwen4-Exp](https://huggingface.co/docs/transformers/main/en/model_doc/qwen4_exp) | Qwen3.5-derived hybrid model combining gated residual streams, sparse attention, and per-layer embeddings for long-context efficiency | Experimental release; public evidence is currently stronger on architecture than end-user benchmark coverage |
+| [Step-3.7-Flash](https://static.stepfun.com/blog/step-3.7-flash/) | 198B sparse MoE vision-language model with native image understanding and multi-token prediction support | Large serving requirement and limited public technical-report detail |
 | [Ornith-1.0-35B](https://huggingface.co/deepreinforce-ai/Ornith-1.0-35B) | Purpose-built for agentic coding and repository-level automation | Focused more on coding than broad multimodal use |
 | [Qwythos-9B-Claude-Mythos-5-1M](https://huggingface.co/empero-ai/Qwythos-9B-Claude-Mythos-5-1M) | Compact long-context reasoning model built from Claude Mythos / Fable traces | Derived model, not a broad frontier multimodal system |
 | [VibeThinker-1.5B](https://huggingface.co/WeiboAI/VibeThinker-1.5B) | Tiny-model math and coding specialist | Experimental and not a general assistant |
@@ -45,6 +48,8 @@ The practical question is no longer just “what is the strongest open model?”
 - whether open-weight multimodal models keep closing the gap with proprietary frontier systems
 - whether agentic coding models keep improving on terminal-heavy and repo-level tasks
 - whether long-context compact models remain useful once real tool use and retrieval are layered in
+- whether hybrid sparse/linear attention and multi-token prediction translate into repeatable serving gains outside vendor demos
+- whether model-hub support arrives quickly enough for new releases to become reproducible local workflows
 
 ## Local-use quantized and fine-tuned models
 
@@ -60,6 +65,8 @@ This subsection is for models that matter because they can actually be run, tune
 | [VibeThinker-1.5B](https://huggingface.co/WeiboAI/VibeThinker-1.5B) | Tiny dense checkpoint | Useful for low-cost experiments, edge cases, and fine-tune baselines |
 | [MuseGlimmer](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | Approximately 4-bit quantization; K-Quant-17GB and speculative decoding with DFlash | Targets 24–32 GB consumer hardware and local, responsive agent interaction |
 | [Nemotron 3.5 Lightning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/) | NVFP4, speculative decoding with DFlash/DSpark, and deployment from RTX PCs/DGX Spark through data centers | Designed for low-latency tool calls, validation, code review, and other high-volume agent execution |
+| [GLM-5.3-Flash](https://huggingface.co/docs/transformers/main/en/model_doc/glm5_next) | FP8/MTP-oriented serving path; sparse/linear attention targets lower long-context cost | Not a practical consumer-GPU model despite low active-parameter count |
+| [Step-3.7-Flash](https://static.stepfun.com/blog/step-3.7-flash/) | MTP-enabled checkpoint can support speculative decoding; native VLM packaging | Designed primarily for accelerator-backed serving rather than LM Studio-class hardware |
 
 ### Local deployment notes
 
@@ -75,6 +82,7 @@ This subsection is for models that matter because they can actually be run, tune
 - Anthropic’s open-weights position and related HN discussion show the argument has shifted from ideology to deployment policy: what should stay closed, and why. [Anthropic](https://www.anthropic.com/news/position-open-weights-models)
 - The market debate is now explicitly about economics and regulation too, with HN threads on overregulating open-weight models and on low-cost open-model fine-tunes beating frontier defaults on narrow tasks. [CNBC / HN](https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html) · [FermiSense](https://fermisense.com/when-machines-take-the-wheel/)
 - A newer signal points to open weights being framed for local agentic use, not just benchmark wins. [Meta HN signal](https://twitter.com/finkd/status/2086754845218726027)
+- The August 26 Transformers release is a useful ecosystem signal: model support landed for [Qwen4-Exp](https://huggingface.co/docs/transformers/main/en/model_doc/qwen4_exp), [GLM-5.3-Flash](https://huggingface.co/docs/transformers/main/en/model_doc/glm5_next), and [Step-3.7-Flash](https://huggingface.co/docs/transformers/main/en/model_doc/step3p7), showing that architecture support is becoming part of the competitive cycle rather than an afterthought.
 - Meta’s MuseGlimmer release makes that local-agent framing concrete: its Apache 2.0 weights, multimodal tool use, quantized deployment path, and DFlash speculative decoding are aimed at always-on agents running on consumer hardware. [Meta AI Research](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 - NVIDIA’s Nemotron 3.5 Lightning extends the local-agent framing into a system-of-models architecture: a larger model plans while a fast 30B/3B-active MoE handles repetitive execution, with NeMo Switchyard routing requests across open and proprietary models. [NVIDIA Developer](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
 
@@ -83,6 +91,8 @@ This subsection is for models that matter because they can actually be run, tune
 - **2026-08-10** — Last30days research says the open-weight conversation is now centered on local-agent usefulness, cost/performance, and release policy, with Kimi K3 still the loudest frontier signal.
 - **2026-08-10** — Meta releases MuseGlimmer, a 30B Apache 2.0 open-weight model designed for local agent workflows, adding a strong deployment-focused counterpoint to larger frontier releases.
 - **2026-08-11** — NVIDIA adds Nemotron 3.5 Lightning, an open 30B MoE with 3B active parameters, plus NeMo Switchyard for model routing; the pair makes high-volume execution a first-class open-weight deployment target.
+- **2026-08-26** — Transformers adds support for Qwen4-Exp, GLM-5.3-Flash, and Step-3.7-Flash. The releases reinforce three current SOTA directions: hybrid attention for long-context efficiency, sparse MoE scale with low active compute, and native multimodal models with speculative-decoding hooks.
+- **2026-08-27** — Last30days discussion was noisy and thin, but the strongest recurring signal was that open-weight progress is now being judged by licensing, deployment economics, serving efficiency, and ecosystem control—not downloadability alone.
 - **2026-08-04** — Inkling-Small, DeepSeek V4-Flash on a single MI300X, and Shieldstral each point to the same theme: open weights are becoming an operational/deployment story, not just a download story.
 - **2026-07-15** — Agents-A1-NVFP4-MTP-GGUF adds a local agentic multimodal MoE derivative to the watchlist, showing how NVFP4/MTP packaging can make a Qwen3.5-35B-A3B-style model practical for local experiments.
 - **2026-07-27** — Kimi K3 and Inkling join the open-weight frontier list, expanding the page to cover both big open frontier releases and the models likely to pressure closed-model defaults.
