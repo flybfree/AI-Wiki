@@ -2433,3 +2433,7 @@ tags: ['wiki']
 - [[2026-08-28_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-28_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
 - [[2026-08-28_HilariouslyFastVolumeComputationwiththeDivergenceT.md]] : Hilariously Fast Volume Computation with the Divergence Theorem
+- [[2026-08-28_MetaexecutiveleavesforOpenAIasthesocialmediagiantf.md]] : Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India
+- [[2026-08-28_OpenAI_MigratingtoHTTPX2.md]] : OpenAI: Migrating to HTTPX2
+- [[2026-08-28_AnthropicgetsitsfirstcourtwinoverthePentagon_ssupp.md]] : Anthropic gets its first court win over the Pentagon’s supply chain risk label
+- [[2026-08-28_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution

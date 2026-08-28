@@ -11099,3 +11099,7 @@ tags: ['wiki']
 ## [2026-08-28 00:23] ingest | 2026-08-28_ASafePathtoOpenWeights.md
 ## [2026-08-28 00:23] ingest | 2026-08-28_Planetarypredictionengine_Automatingglobalmodelsvi.md
 ## [2026-08-28 05:30] ingest | 2026-08-28_HilariouslyFastVolumeComputationwiththeDivergenceT.md
+## [2026-08-28 07:21] ingest | 2026-08-28_MetaexecutiveleavesforOpenAIasthesocialmediagiantf.md
+## [2026-08-28 08:22] ingest | 2026-08-28_OpenAI_MigratingtoHTTPX2.md
+## [2026-08-28 08:22] ingest | 2026-08-28_AnthropicgetsitsfirstcourtwinoverthePentagon_ssupp.md
+## [2026-08-28 12:22] ingest | 2026-08-28_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md
