@@ -2437,3 +2437,7 @@ tags: ['wiki']
 - [[2026-08-28_OpenAI_MigratingtoHTTPX2.md]] : OpenAI: Migrating to HTTPX2
 - [[2026-08-28_AnthropicgetsitsfirstcourtwinoverthePentagon_ssupp.md]] : Anthropic gets its first court win over the Pentagon’s supply chain risk label
 - [[2026-08-28_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution
+- [[2026-08-28_Open-weightAIcompaniesaretheValley_shottestacquisi.md]] : Open-weight AI companies are the Valley’s hottest acquisition targets
+- [[2026-08-28_GUIsshouldbefullykeyboard-driven.md]] : GUIs should be fully keyboard-driven
+- [[2026-08-28_AnAnthropicresearcherjustgaveusapeekatself-improvi.md]] : An Anthropic researcher just gave us a peek at self-improving AI
+- [[2026-08-28_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books

@@ -11103,3 +11103,7 @@ tags: ['wiki']
 ## [2026-08-28 08:22] ingest | 2026-08-28_OpenAI_MigratingtoHTTPX2.md
 ## [2026-08-28 08:22] ingest | 2026-08-28_AnthropicgetsitsfirstcourtwinoverthePentagon_ssupp.md
 ## [2026-08-28 12:22] ingest | 2026-08-28_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md
+## [2026-08-28 13:21] ingest | 2026-08-28_Open-weightAIcompaniesaretheValley_shottestacquisi.md
+## [2026-08-28 14:19] ingest | 2026-08-28_GUIsshouldbefullykeyboard-driven.md
+## [2026-08-28 15:19] ingest | 2026-08-28_AnAnthropicresearcherjustgaveusapeekatself-improvi.md
+## [2026-08-28 17:19] ingest | 2026-08-28_Google_sAInote-takingappnowallowsyoutointeractwith.md
