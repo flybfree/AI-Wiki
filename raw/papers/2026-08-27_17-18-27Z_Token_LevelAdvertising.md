@@ -1,0 +1,18 @@
+---
+title: Token-Level Advertising
+published: 2026-08-27T17:18:27Z
+authors: Hanbing Liu, Bowei Zhang, Changyuan Yu, Yinyu Ye, Qi Qi
+url: http://arxiv.org/abs/2608.27382v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Token-Level Advertising
+
+## Abstract
+Generative AI is transforming how people access information, challenging traditional advertising mechanisms built around predefined slots. Towards generation-native advertising, we propose the Latent Advertiser Mixture Auction (LAMA), a token-level advertising mechanism that embeds advertiser influence directly into the generation process. Advertisers report local continuation values that induce advertiser-specific next-token policies, from which the platform decodes through a latent mixture while updating an allocation posterior. We show that LAMA satisfies Markov DSIC and IR, and achieves near-optimal KL-regularized welfare. We further develop a learning-based implementation that reconstructs the required reports online from learned local advantages and root values. Proof-of-concept experiments on real-world commercial-search query splits show that LAMA improves platform welfare and revenue while maintaining user-facing response quality, providing initial evidence for the feasibility of generation-native advertising.
+
+## Metadata
+- **Published**: 2026-08-27T17:18:27Z
+- **Authors**: Hanbing Liu, Bowei Zhang, Changyuan Yu, Yinyu Ye, Qi Qi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.27382v1)

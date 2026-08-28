@@ -1,0 +1,113 @@
+---
+title: AI Research Wiki — Landing Page
+date: 2026-06-09
+status: draft
+tags: [wiki, landing-page, ai-research, navigation]
+---
+
+# AI Research Wiki
+
+**Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
+This is the central hub for the AI research wiki. Use it to navigate by topic rather than browsing the raw file structure.
+
+Quick start: [README.md](README.md)
+
+## What's Here
+
+- **Articles** — Summaries of AI news, papers, and analysis (467 articles)
+- **Concepts** — Deep dives into AI/ML concepts and frameworks (6 concepts)
+- **Entities** — Individual articles/papers organized by topic (51 entities)
+- **Raw Papers** — Raw arXiv paper metadata (1 paper)
+- **Comparisons** — Side-by-side analysis of competing approaches (0)
+- **Tutorials** — Step-by-step guides (1 tutorial)
+
+## Browse by Topic
+
+### Topic Hubs
+
+- [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|LLMs & Foundation Models Hub]] — Key papers, models, and industry articles
+- [[concepts/2026-06-09_AgentSystemsHub.md|Agent Systems Hub]] — Agent architectures, frameworks, and multi-agent research
+- [[concepts/2026-06-09_AIIndustryAndNewsHub.md|AI Industry & News Hub]] — Latest AI news, model releases, and market analysis
+- [[concepts/2026-06-09_AIResearchPapersHub.md|AI Research Papers Hub]] — Organized research papers by topic area
+- [[concepts/2026-06-09_AIArchitectureHub.md|AI Architecture Hub]] — ML pipelines, agent frameworks, and system design
+
+### Foundation Models & LLMs
+
+- [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker]] — living model-release tracker
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-08-27]] — open-weight frontier + local-use watchlist
+- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-08-27]] — frontier snapshot (includes Claude Opus 5 and GPT-5.6 Sol/Terra/Luna)
+- [[concepts/hermes-agent-guide.md|Fable 5 Integration Notes]] — practical usage guidance
+- [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — background evolution view
+- [[comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md|Ornith vs Qwythos vs VibeThinker vs Qwen3.6]]
+- Recent model-release articles: Claude Opus 4.7, DeepSeek V4, 10 Best Open-Source LLM Models, Best Open-Source LLMs April 2026, LLM Leaderboard 2026, AI Model Release Timeline 2025-2026
+
+### AI Architecture & Systems
+
+- [[concepts/2026-06-09_AIArchitectureHub.md|AI Architecture Hub]] — ML pipelines, agent frameworks, and system design
+- [[concepts/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_Integra_summary.md|MCP Server Architecture Patterns for LLM-Integrated Applications]]
+- [[entities/article/2026-07-13_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md|Machine Learning Architecture: What It Is, Components, Types]]
+
+### Knowledge Management & Wiki Ops
+
+- [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — GitHub wiki, local working copy, Logseq mirror, and PRISM user working copy
+- [[concepts/knowledge-management/wiki-usage-cheat-sheet.md|Wiki Usage Cheat Sheet]] — quick guide for page types and where each system fits
+- [[concepts/knowledge-management/page-templates.md|Page Templates for the AI Research Wiki]] — copy-paste templates for concept, article, paper, tracker, and hub pages
+
+### AI Industry & Trends
+
+- AI Industry Trends
+- AI Updates Today (July 2026): Latest AI Model Releases
+- Repowise: Codebase Intelligence for AI Agents
+- Generative AI Recent News — AI Business
+- Generative AI News and Analysis — TechCrunch
+- AI Breakthrough Awards
+- AI in April 2026: Biggest Breakthroughs, Models & Industry Shifts
+- AI Updates Today (April 2026)
+- AI is Now Powering Cyberattacks (Microsoft Warning)
+- China's AI Upstart DeepSeek Drops New Model
+- 2026 is Breakthrough Year for Reliable AI World Models
+
+### AI Definitions & Reference
+
+- ARTIFICIAL Definition & Meaning (Merriam-Webster)
+- ARTIFICIAL Definition & Meaning (Dictionary.com)
+- ARTIFICIAL Definition (Collins English Dictionary)
+- ARTIFICIAL Definition (Cambridge Dictionary)
+- What is Generative AI? (IBM)
+- What is Generative AI? (BMC)
+
+### Research Papers
+
+- AI Research Papers Hub
+- UniClawBench: A Universal Benchmark for Proactive Agents
+- Breaking Database Lock in Agentic Regeneration
+- LLM as a Verifier: A General-Purpose Verification Framework
+- Cortex: A Bidirectionally Aligned Embodied Agent Framework
+- MaskGIT: Masked Generative Image Transformer
+- DiffusionLM: Improves Controllable Text Generation
+- Large Concept Models: Language Modeling in Sentence Representation Space
+
+## Navigation Tips
+
+1. **Start with concepts** for deep understanding of AI/ML topics
+2. **Browse articles** for current AI news and analysis
+3. **Use entities** for specific papers, models, and tools
+4. **Check comparisons** for side-by-side analysis (coming soon)
+
+## Recent Activity
+
+- Last sync: 2026-06-09
+- Total pages: 1,011 (Logseq) / 1,478 (Wiki)
+- New articles this week: 0
+
+## Related Pages
+
+- [AI Research Topic Index](wiki-topic-index.md)
+- [AI/ML Foundations Course](concepts/ai-foundations/ai-ml-foundations-landing-page.md)
+- [Ilya Sutskever Reading List](ilya-sutskever-reading-list.md)
+- [Course Syllabus](concepts/ai-foundations/ai-ml-foundations-syllabus.md)
+- [Course Map](concepts/ai-foundations/ai-ml-foundations-course-map.md)
+
+## Concept Maps
+
+- [[concepts/knowledge-management/ai-research-concept-map.md|AI Research Concept Map]]

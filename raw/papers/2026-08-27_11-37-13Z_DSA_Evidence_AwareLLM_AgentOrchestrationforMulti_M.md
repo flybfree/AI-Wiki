@@ -1,0 +1,18 @@
+---
+title: DSA: Evidence-Aware LLM-Agent Orchestration for Multi-Market Stock Research
+published: 2026-08-27T11:37:13Z
+authors: Linsen Zhu, Yi Shi
+url: http://arxiv.org/abs/2608.26990v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# DSA: Evidence-Aware LLM-Agent Orchestration for Multi-Market Stock Research
+
+## Abstract
+Large language models can summarize financial information, but an operational stock-research system must first assemble heterogeneous evidence, expose unavailable data and model capabilities, and control how generated opinions affect a final report. We present DSA, an evidence-aware orchestration framework for multi-market stock research with large language model (LLM) agents. DSA organizes the workflow into evidence acquisition, structured context construction, model-routed analysis, optional role and Strategy Skill reasoning, and report generation with selected context and diagnostics. A default report profile and an optional agentic profile share evidence and model-routing services but use profile-specific output validation and risk safeguards. In the agentic profile, core role outputs are processed by role-specific parsers, whereas Strategy Skill opinions undergo an additional signal-eligibility partition before synthesis; disagreement is supplied explicitly to the decision agent, followed by a conservative risk override. The reference implementation includes six regional market paths, fifteen bundled Strategy Skills, hosted and local model routes, and multiple execution and delivery surfaces. At a frozen software snapshot, a selected manifest of 1,457 portable offline backend contract tests passed; 596 cases were retrospectively mapped to six contract families central to the reported LLM-agent architecture. This evidence establishes implementation conformance for the tested software contracts, not superior report quality, forecasting accuracy, or investment returns.
+
+## Metadata
+- **Published**: 2026-08-27T11:37:13Z
+- **Authors**: Linsen Zhu, Yi Shi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.26990v1)

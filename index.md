@@ -2424,3 +2424,4 @@ tags: ['wiki']
 - [[2026-08-27_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-08-27_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
 - [[2026-08-27_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books
+- [[2026-08-27_AnthropicwasillegallyblacklistedbytheTrumpadminist.md]] : Anthropic was illegally blacklisted by the Trump administration, court rules
