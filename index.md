@@ -2432,3 +2432,4 @@ tags: ['wiki']
 - [[2026-08-28_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
 - [[2026-08-28_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-28_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[2026-08-28_HilariouslyFastVolumeComputationwiththeDivergenceT.md]] : Hilariously Fast Volume Computation with the Divergence Theorem

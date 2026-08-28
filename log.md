@@ -11098,3 +11098,4 @@ tags: ['wiki']
 ## [2026-08-28 00:23] ingest | 2026-08-28_Betteranswers_broaderthinking_Whatstudentsgainfrom.md
 ## [2026-08-28 00:23] ingest | 2026-08-28_ASafePathtoOpenWeights.md
 ## [2026-08-28 00:23] ingest | 2026-08-28_Planetarypredictionengine_Automatingglobalmodelsvi.md
+## [2026-08-28 05:30] ingest | 2026-08-28_HilariouslyFastVolumeComputationwiththeDivergenceT.md
