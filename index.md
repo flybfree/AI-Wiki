@@ -2445,3 +2445,9 @@ tags: ['wiki']
 - [[2026-08-28_DoestheSumerianKingListAlignwithPaleoclimateEvents.md]] : Does the Sumerian King List Align with Paleoclimate Events?
 - [[2026-08-28_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
 - [[2026-08-28_WhoBuilds_Wins_TheTrillion-DollarContestforAIInfra.md]] : Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure
+- [[2026-08-29_WhoBuilds_Wins_TheTrillion-DollarContestforAIInfra.md]] : Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure
+- [[2026-08-29_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[2026-08-29_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[2026-08-29_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-08-29_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-29_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution
