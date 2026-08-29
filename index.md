@@ -2407,6 +2407,7 @@ tags: ['wiki']
 - [[2026-08-26_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-26.md|Daily AI Intelligence Briefing — 2026-08-26]] — deployment economics, outcome-oriented agents, safety engineering, and adoption trust
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-27.md|Daily AI Intelligence Briefing — 2026-08-27]] — model economics, adoption, open-weight safety, agent governance, and 170 retained research papers
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-28.md|Daily AI Intelligence Briefing — 2026-08-28]] — deployment governance, rights-aware AI interfaces, domain automation, infrastructure efficiency, and 76 carried-forward research papers
 - [[2026-08-27_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
 - [[2026-08-27_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
 - [[2026-08-27_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
@@ -2441,3 +2442,6 @@ tags: ['wiki']
 - [[2026-08-28_GUIsshouldbefullykeyboard-driven.md]] : GUIs should be fully keyboard-driven
 - [[2026-08-28_AnAnthropicresearcherjustgaveusapeekatself-improvi.md]] : An Anthropic researcher just gave us a peek at self-improving AI
 - [[2026-08-28_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books
+- [[2026-08-28_DoestheSumerianKingListAlignwithPaleoclimateEvents.md]] : Does the Sumerian King List Align with Paleoclimate Events?
+- [[2026-08-28_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[2026-08-28_WhoBuilds_Wins_TheTrillion-DollarContestforAIInfra.md]] : Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure
