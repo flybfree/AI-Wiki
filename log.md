@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-08-29 11:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-29.md finalized; 6 AI-only retained articles; 0 new papers; 0 newly approved research papers; no carry-forward papers added after prior backlog reconciliation; arXiv/news/wiki/logseq pipeline completed cleanly
+## [2026-08-29 18:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-29.md refreshed; 8 AI-only retained article/source items including Tencent Hy4, Anthropic copyright litigation, and one YouTube model-cost signal; SQLite tooling excluded; 0 new papers; 0 newly approved research papers; no carry-forward papers added after prior backlog reconciliation
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
@@ -11119,3 +11119,6 @@ tags: ['wiki']
 ## [2026-08-29 00:31] ingest | 2026-08-29_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md
 ## [2026-08-29 00:31] ingest | 2026-08-29_ASafePathtoOpenWeights.md
 ## [2026-08-29 00:31] ingest | 2026-08-29_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md
+## [2026-08-29 13:15] ingest | 2026-08-29_SQLiteasaDocumentDatabase_2020_.md
+## [2026-08-29 15:15] ingest | 2026-08-29_SonyMusicandWarnerChappellaresuingAnthropic.md
+## [2026-08-29 16:16] ingest | 2026-08-29_TencentReleasesandOpen-SourcesTencentHy4Preview.md

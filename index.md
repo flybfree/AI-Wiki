@@ -2453,3 +2453,6 @@ tags: ['wiki']
 - [[2026-08-29_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-08-29_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-29_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution
+- [[2026-08-29_SQLiteasaDocumentDatabase_2020_.md]] : SQLite as a Document Database (2020)
+- [[2026-08-29_SonyMusicandWarnerChappellaresuingAnthropic.md]] : Sony Music and Warner Chappell are suing Anthropic
+- [[2026-08-29_TencentReleasesandOpen-SourcesTencentHy4Preview.md]] : Tencent Releases and Open-Sources Tencent Hy4 Preview

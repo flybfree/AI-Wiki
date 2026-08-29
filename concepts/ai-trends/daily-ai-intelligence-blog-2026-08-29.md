@@ -9,9 +9,9 @@ tags: [ai-intelligence, daily-briefing, agents, models, safety, infrastructure, 
 
 ## Executive Summary
 
-The 29 August intake reinforces a shift from model novelty to deployment governance. The clearest story is the coupling of capability release with operational controls: Thinking Machines argues that open weights should be released only as model evidence and ecosystem readiness improve, while OpenAI’s Cursor decision shows that contractual trust and ownership changes can directly determine access to future proprietary models. Google’s planetary prediction engine and a task-specialized reinforcement-learning result show the upside of moving from prompting to complete, verifiable workflows. The infrastructure and policy items add the constraint: AI scale depends on capital, power, permitting, and public accountability.
+The 29 August intake reinforces a shift from model novelty to deployment governance. The clearest story is the coupling of capability release with operational controls: Thinking Machines argues that open weights should be released only as model evidence and ecosystem readiness improve, while Tencent’s Hy4 preview shows the competitive pressure created by very large, long-context open-weight systems. OpenAI’s Cursor decision shows that contractual trust and ownership changes can directly determine access to future proprietary models. Google’s planetary prediction engine and a task-specialized reinforcement-learning result show the upside of moving from prompting to complete, verifiable workflows. The infrastructure and policy items add the constraint: AI scale depends on capital, power, permitting, public accountability, and increasingly explicit rights-management rules.
 
-This was a news-heavy AI-only intake with six retained articles and no newly approved research papers. The arXiv scout completed cleanly with zero new papers; no paper carry-forward was added because the prior briefing had already reconciled the uncovered approved-paper backlog. Several claims below remain source-reported and should be independently validated where they concern legal, environmental, or benchmark outcomes.
+This was a news-heavy AI-only intake with eight retained article/source items and no newly approved research papers. The arXiv scout completed cleanly with zero new papers; no paper carry-forward was added because the prior briefing had already reconciled the uncovered approved-paper backlog. A fresh YouTube Channel Monitor item was included as a secondary model-cost signal. Several claims below remain source-reported and should be independently validated where they concern legal, environmental, or benchmark outcomes.
 
 ## Key Themes
 
@@ -19,7 +19,9 @@ This was a news-heavy AI-only intake with six retained articles and no newly app
 
 [Thinking Machines’ “A Safe Path to Open Weights”](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/) frames openness as an iterative release path rather than a binary publication decision. Its proposal combines robust dangerous-capability testing, adversarial fine-tuning, external red-teaming, staged access, and investment in defensive readiness. The company says its Inkling models did not add material risk beyond existing open-weight models, while explicitly acknowledging that this conclusion may change as capability, accessibility, and ecosystem conditions change.
 
-**Why it matters:** the durable safeguard for open weights cannot be refusal behavior alone, because users can modify the model. The relevant question becomes whether dangerous capability can be reduced or decoupled, whether defenders have time to prepare, and what evidence justifies widening access.
+Alongside this safety framing, [Tencent’s Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) illustrates why the release question is becoming more urgent. Tencent describes a 770B-parameter model with 49B active parameters, a context window above one million tokens, and a 2.99/4.00 internal blind evaluation across 203 engineering tasks—slightly ahead of the cited GLM-5.3 and Kimi K3 results. Those figures are company-reported, but the product shape is clear: open-weight competition is moving toward heavyweight models that are immediately attached to coding, office, and research workflows.
+
+**Why it matters:** the durable safeguard for open weights cannot be refusal behavior alone, because users can modify the model. The relevant question becomes whether dangerous capability can be reduced or decoupled, whether defenders have time to prepare, and what evidence justifies widening access as open-weight capability and accessibility rise.
 
 ### 2. Model distribution is now a contract and governance surface
 
@@ -31,11 +33,17 @@ This was a news-heavy AI-only intake with six retained articles and no newly app
 
 [Google Research’s Planetary Prediction Engine](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/) automates geospatial data discovery, dataset curation, model training, evaluation, and report generation from natural-language requests. Separately, [Thinking Machines’ report on putting task expertise into reinforcement learning](https://thinkingmachines.ai/news/putting-task-expertise-into-rl/) claims human-level performance on the BIRD text-to-SQL benchmark by combining expert-verified data with reward shaping aimed at known failure modes.
 
-These are different systems, but they point in the same direction: useful capability comes from encoding domain process, feedback, and verification into the workflow. The base model is only one component; data selection, reward design, evaluation, and reproducibility determine whether the result is dependable.
+These are different systems, but they point in the same direction: useful capability comes from encoding domain process, feedback, and verification into the workflow. A fresh [Matthew Berman review of GLM-5.3 Flash](https://www.youtube.com/watch?v=TOWXXhn7ctY) adds a deployment-economics angle, highlighting a 320B-parameter, roughly 18B-active open-weight model and a claimed cost of about $0.09 per completed intelligence task. That is a reviewer-reported figure rather than an independently verified benchmark, and the review notes a higher token footprint than some cheaper competitors. The base model is only one component; data selection, reward design, evaluation, token efficiency, and reproducibility determine whether the result is dependable.
 
 **Why it matters:** this is the path to cheaper and more deployable AI—specialized systems that internalize expertise instead of repeatedly paying for elaborate prompt scaffolding. The caveat is that benchmark and vendor-reported results still need replication and operational testing.
 
-### 4. AI infrastructure is a capital, energy, and accountability problem
+### 4. Copyright litigation is becoming a model-development constraint
+
+[Sony Music and Warner Chappell’s lawsuit against Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright) alleges that Claude training involved tens of thousands of copyrighted works, including scraped lyrics and large-scale access to pirated books. The plaintiffs seek statutory damages that could reach billions of dollars, following Anthropic’s reported $1.5 billion publishing settlement and other music-industry suits. These are allegations in active litigation, not established findings, but the breadth and claimed per-work damages make training-data provenance a direct business and engineering risk.
+
+**Why it matters:** data licensing, corpus audits, provenance records, and deletion procedures are becoming part of the model-development stack. The issue is no longer limited to output-side copyright disputes; it can affect training choices, balance-sheet exposure, and the willingness of partners to trust a model provider.
+
+### 5. AI infrastructure is a capital, energy, and accountability problem
 
 [“Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure”](https://www.orfonline.org/expert-speak/who-builds-wins-the-trillion-dollar-contest-for-ai-infrastructure) argues that private capital and corporations—not governments alone—are assembling the compute, data-center, and power capacity that determines AI scale. The companion policy story, [coverage of the EPA proposal affecting data-center air-permit participation](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit), reports that federal public-notice requirements could be removed for some “minor” polluters, shifting more responsibility to state and local agencies.
 
@@ -43,34 +51,40 @@ These are different systems, but they point in the same direction: useful capabi
 
 ## What Changed Today
 
-- Open-weight safety was framed as staged, evidence-based ecosystem preparation rather than a one-time release gate.
+- Open-weight safety was framed as staged, evidence-based ecosystem preparation rather than a one-time release gate, while Tencent’s Hy4 preview showed the competitive pressure behind that debate.
 - The OpenAI–Cursor dispute made ownership change and contractual compliance visible as model-distribution controls.
-- Two separate reports emphasized domain workflow design—automated geospatial modeling and expert-shaped RL—over generic prompting.
+- Two separate reports emphasized domain workflow design—automated geospatial modeling and expert-shaped RL—over generic prompting; a model review added token economics and self-hosting as practical adoption criteria.
+- Copyright litigation against Anthropic widened the training-data governance risk from publishing to music and lyric rights.
 - AI infrastructure was linked directly to private capital formation, energy-intensive facilities, and permitting transparency.
-- The daily research scout completed with **0 new papers** and the intake contained **0 newly approved papers**; no carry-forward papers were added after the prior backlog reconciliation.
+- The daily research scout completed with **0 new papers** and the intake contained **0 newly approved papers**; no carry-forward papers were added after the prior backlog reconciliation. The SQLite article was classified **exclude** as generic database tooling rather than an AI-specific signal.
 
 ## Why It Matters
 
-The common thread is control over the full AI stack. Capability is advancing through specialized workflows, but access and impact are governed by release evidence, contracts, data and reward quality, infrastructure finance, and public oversight. That makes “AI progress” increasingly a systems question: who can build the workflow, who can inspect or modify it, who bears the externalities, and what happens when a dependency changes.
+The common thread is control over the full AI stack. Capability is advancing through specialized workflows, but access and impact are governed by release evidence, contracts, data and reward quality, infrastructure finance, public oversight, and training-data rights. That makes “AI progress” increasingly a systems question: who can build the workflow, who can inspect or modify it, who bears the externalities, and what happens when a dependency or legal assumption changes.
 
 ## What to Watch Next
 
 1. Whether Thinking Machines publishes concrete release thresholds, stop conditions, and evidence for later, more capable models.
-2. Whether Cursor users migrate to alternative proprietary APIs or open-weight models after the OpenAI contract termination.
-3. Independent replication of the BIRD text-to-SQL claim and the Planetary Prediction Engine’s data-selection and evaluation results.
-4. How acquisition and change-of-control clauses reshape access to frontier model APIs.
-5. Whether data-center permitting changes produce litigation, state-level divergence, or stronger local disclosure requirements.
-6. Whether infrastructure financing and power constraints—not model quality—become the binding limit on the next deployment wave.
+2. Whether Tencent’s Hy4 preview is independently reproducible and how its long-context quality, serving cost, and license perform outside Tencent’s evaluation.
+3. Whether Cursor users migrate to alternative proprietary APIs or open-weight models after the OpenAI contract termination.
+4. Independent replication of the BIRD text-to-SQL claim and the Planetary Prediction Engine’s data-selection and evaluation results.
+5. How acquisition and change-of-control clauses reshape access to frontier model APIs.
+6. Whether the Anthropic music case produces discovery about training-data sources or a licensing precedent for model developers.
+7. Whether data-center permitting changes produce litigation, state-level divergence, or stronger local disclosure requirements.
+8. Whether infrastructure financing and power constraints—not model quality—become the binding limit on the next deployment wave.
 
 ## Sources / References
 
 - [Thinking Machines — A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/)
+- [Tencent — Tencent Hy4 Preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/)
 - [OpenAI — Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex)
 - [Google Research — Planetary Prediction Engine](https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai/)
 - [Thinking Machines — Putting Task Expertise into RL](https://thinkingmachines.ai/news/putting-task-expertise-into-rl/)
+- [Matthew Berman — GLM-5.3 Flash review](https://www.youtube.com/watch?v=TOWXXhn7ctY)
+- [The Verge — Sony Music and Warner Chappell sue Anthropic](https://www.theverge.com/ai-artificial-intelligence/986438/sony-music-warner-chappell-anthropic-lawsuit-copyright)
 - [Observer Research Foundation — Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure](https://www.orfonline.org/expert-speak/who-builds-wins-the-trillion-dollar-contest-for-ai-infrastructure)
 - [The Verge — Trump’s EPA and data-center air-pollution permits](https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit)
 
 ## CTA
 
-Follow the AI Wiki for the next dated briefing as open-weight release discipline, domain-specific automation, and the infrastructure politics of AI continue to converge.
+Follow the AI Wiki for the next dated briefing as open-weight release discipline, domain-specific automation, training-data governance, and the infrastructure politics of AI continue to converge.
