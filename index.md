@@ -2469,3 +2469,7 @@ tags: ['wiki']
 - [[2026-08-30_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-30_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
 - [[2026-08-30_LongestStraightLinePathsonWaterorLandontheEarth_20.md]] : Longest Straight Line Paths on Water or Land on the Earth (2018)
+- [[2026-08-30_SonyMusicPublishingandWarnerChappellaresuingAnthro.md]] : Sony Music Publishing and Warner Chappell are suing Anthropic
+- [[2026-08-30_ArbitrarycodeexecutioninQubesOSviacopy-to-VMerrorr.md]] : Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
+- [[2026-08-30_HackingIKEAFurniture.md]] : Hacking IKEA Furniture
+- [[2026-08-30_TexasGovernorAbbottblocksfundingformoreFlockcamera.md]] : Texas Governor Abbott blocks funding for more Flock cameras
