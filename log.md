@@ -11142,3 +11142,4 @@ tags: ['wiki']
 ## [2026-08-30 08:12] ingest | 2026-08-30_ArbitrarycodeexecutioninQubesOSviacopy-to-VMerrorr.md
 ## [2026-08-30 09:11] ingest | 2026-08-30_HackingIKEAFurniture.md
 ## [2026-08-30 11:13] ingest | 2026-08-30_TexasGovernorAbbottblocksfundingformoreFlockcamera.md
+## [2026-08-30 18:11] ingest | 2026-08-30__Ijustchosewordscarefully__.md

@@ -2473,3 +2473,4 @@ tags: ['wiki']
 - [[2026-08-30_ArbitrarycodeexecutioninQubesOSviacopy-to-VMerrorr.md]] : Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
 - [[2026-08-30_HackingIKEAFurniture.md]] : Hacking IKEA Furniture
 - [[2026-08-30_TexasGovernorAbbottblocksfundingformoreFlockcamera.md]] : Texas Governor Abbott blocks funding for more Flock cameras
+- [[2026-08-30__Ijustchosewordscarefully__.md]] : "I just chose words carefully."
