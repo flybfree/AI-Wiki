@@ -123,6 +123,13 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-13.md|Daily AI Intelligence Briefing — 2026-08-13]] — agent runtime safety, Copilot consolidation, licensed assistant data, modular harnesses, adaptive cybersecurity, and AI creative workflows
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-14.md|Daily AI Intelligence Briefing — 2026-08-14]] — frontier model tracks, agentic coding and cyber capability, retrieval and memory, provenance, evaluation, and governable agent ecosystems
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-17.md|Daily AI Intelligence Briefing — 2026-08-17]] — deployment economics, agent transactions, retrieval and provenance, cyber defense, and 21 newly retained research papers
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-20.md|Daily AI Intelligence Briefing — 2026-08-20]] — deployment-fit model competition, embedded assistants, routing and compute infrastructure, reliability, and one retained research paper
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-21.md|Daily AI Intelligence Briefing — 2026-08-21]] — deployment-fit models, assistant distribution, harness infrastructure, open-weight safety, and validated scientific AI
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-22.md|Daily AI Intelligence Briefing — 2026-08-22]] — thin verified corpus, browser-native workflow capture, and unresolved curation backlog audit
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-28.md|Daily AI Intelligence Briefing — 2026-08-28]] — distribution governance, rights-aware AI interfaces, domain automation, and infrastructure efficiency
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-29.md|Summary: Daily AI Intelligence Briefing — 2026-08-29]] — open-weight release discipline, contract-governed distribution, domain workflow automation, infrastructure accountability, and deployment constraints
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-23.md|Daily AI Intelligence Briefing — 2026-08-23]] — closed-frontier cost competition, staged open weights, agentic science, and operational provenance
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-24.md|Daily AI Intelligence Briefing — 2026-08-24]] — deployment-fit models, agent lifecycle security, harness continual learning, and context-sensitive alignment
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-19.md|Daily AI Intelligence Briefing — 2026-08-19]] — deployment-fit model competition, assistant distribution, AI infrastructure economics, operational safety, and nine retained research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-18.md|Daily AI Intelligence Briefing — 2026-08-18]] — agentic interfaces, developer platforms, deployment fit, provenance, and six newly approved research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-06.md|Daily AI Intelligence Briefing — 2026-08-06]] — Hostinger-ready public blog draft with inline sources and sources block
@@ -2278,5 +2285,178 @@ tags: ['wiki']
 - [[2026-08-20_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[2026-08-20_GoogleGeminiisgettingadedicatedstudenthub.md]] : Google Gemini is getting a dedicated student hub
 - [[2026-08-20_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
-
+- [[2026-08-20_WhyMicrosoftEntertainmentPackhadastickerannouncing.md]] : Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
+- [[2026-08-20_Don_tPastetheAI_please.md]] : Don't Paste the AI, please
+- [[2026-08-20_Slackislaunchingcollaborativevibe-codingchannels.md]] : Slack is launching collaborative vibe-coding channels
+- [[2026-08-20_MetaAI_snewMacappwantsyoutotalktoyourapps.md]] : Meta AI’s new Mac app wants you to talk to your apps
+- [[2026-08-20_MaliciousRustCrateArrayrefRunsaBuild-TimePayload.md]] : Malicious Rust Crate Arrayref Runs a Build-Time Payload
+- [[2026-08-20_WelcometotheAIcrisisinmath.md]] : Welcome to the AI crisis in math
+- [[2026-08-20_AliExpressrunssilentWebAudiofingerprintingthatbrea.md]] : AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
+- [[2026-08-20_HowChatGPTWorkhelpsStamplimoveideastomarket.md]] : How ChatGPT Work helps Stampli move ideas to market
+- [[2026-08-20_It_sGregBrockman_sOpenAInow.md]] : It’s Greg Brockman’s OpenAI now
+- [[2026-08-20_MetabringsPocket_anappthatletsyouvibe-codeandshare.md]] : Meta brings Pocket, an app that lets you vibe-code and share games, to US users
+- [[2026-08-20_Ilike_emthick_anapologytomyEnglishteachers.md]] : I like 'em thick: an apology to my English teachers
+- [[2026-08-20_RamplaunchesitsownAImodelrouter_calledRouter.md]] : Ramp launches its own AI model router, called Router
+- [[2026-08-20_Grokkeepssendinggibberishresponsestousers.md]] : Grok keeps sending gibberish responses to users
+- [[2026-08-20_Runlayer_Ripplingdroplawsuits_Butthebrouhahaisstil.md]] : Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.
+- [[2026-08-20_ScientificstudyrevealsTikTokvideosdeactivatekeycog.md]] : Scientific study reveals TikTok videos deactivate key cognitive brain regions
+- [[2026-08-20_GooglegivespublishersanewwaytofightAI-driventraffi.md]] : Google gives publishers a new way to fight AI-driven traffic losses
+- [[2026-08-20_ShowHN_Huzzah_anovelapproachtocodingwithAI.md]] : Show HN: Huzzah – a novel approach to coding with AI
+- [[2026-08-20_GoogleDiscoverisgettinganAIchatbot-tunedfeed.md]] : Google Discover is getting an AI chatbot-tuned feed
+- [[2026-08-20_ChatGPTcannowsendtextsforyouwithnewAppleMessagespl.md]] : ChatGPT can now send texts for you with new Apple Messages plugin
+- [[2026-08-20_OpenAIisgainingonAnthropicwithbusinessusers_newdat.md]] : OpenAI is gaining on Anthropic with business users, new data indicates
+- [[2026-08-20_CopyrightdoesnotprotectAI-generatedcontentinEU.md]] : Copyright does not protect AI-generated content in EU
+- [[2026-08-20_CoreWeavesignsAIclouddealwithHudsonRiverTradingfor.md]] : CoreWeave signs AI cloud deal with Hudson River Trading for research platform - ROI-NJ
+- [[2026-08-20_AIcompaniesdestroyphysicalbooks_let_sscanrarebooks.md]] : AI companies destroy physical books – let's scan rare books before it's too late
+- [[2026-08-21_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-21_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-21_GoogleDiscoverisgettinganAIchatbot-tunedfeed.md]] : Google Discover is getting an AI chatbot-tuned feed
+- [[2026-08-21_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-21_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-21_CoreWeavesignsAIclouddealwithHudsonRiverTradingfor.md]] : CoreWeave signs AI cloud deal with Hudson River Trading for research platform - ROI-NJ
+- [[2026-08-21_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[2026-08-21_DeepSeek-v4-flash-vision-exp.md]] : DeepSeek-v4-flash-vision-exp
+- [[2026-08-21_Kagiaddedasettingforremovingpaywalledlinksfromsear.md]] : Kagi added a setting for removing paywalled links from search results
+- [[2026-08-21_Starcloudraises_250millionfororbitaldatacentersasl.md]] : Starcloud raises $250 million for orbital data centers as launch options dry up
+- [[2026-08-21_EthiopiaandRussiastrengthenAIcooperation_TVBRICS_2.md]] : Ethiopia and Russia strengthen AI cooperation | TV BRICS, 21.08.26
+- [[2026-08-21_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[2026-08-21_Kobocanrunappsnow.md]] : Kobo can run apps now
+- [[2026-08-21_Nvidiajustshowedthattheharness_nottheAImodel_isnow.md]] : Nvidia just showed that the harness, not the AI model, is now the real hero
+- [[2026-08-21_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
+- [[2026-08-21_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
+- [[2026-08-22_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-22_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-22_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-22_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
+- [[2026-08-22_EthiopiaandRussiastrengthenAIcooperation_TVBRICS_2.md]] : Ethiopia and Russia strengthen AI cooperation | TV BRICS, 21.08.26
+- [[2026-08-22_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[2026-08-22_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
+- [[2026-08-22_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-22_FelonyBench.md]] : Felony Bench
+- [[2026-08-22_AKantianCritiqueof_Sorry_byJustinBieber.md]] : A Kantian Critique of "Sorry" by Justin Bieber
+- [[2026-08-22_FrontierAIlabsstillwon_tsayhowthey_dcontainaroguem.md]] : Frontier AI labs still won’t say how they’d contain a rogue model
+- [[2026-08-22_OpenAIsaysCaliforniashouldstrengthenitsAIsafetybil.md]] : OpenAI says California should strengthen its AI safety bill
+- [[2026-08-22_ElevenLabs_TwelveLabs_ThirteenLabs.md]] : ElevenLabs, TwelveLabs, ThirteenLabs
+- [[2026-08-22_Inherent_foundedbyDeepMindalumni_saysitsAI_teammat.md]] : Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
+- [[2026-08-22_hdiutilisdeprecatedinmacOS27GoldenGate.md]] : hdiutil is deprecated in macOS 27 Golden Gate
+- [[2026-08-22_Scrap.md]] : Scrap
+- [[2026-08-22_Figmimic_AbookmarklettocopyanywebpageintoFigmaased.md]] : Figmimic – A bookmarklet to copy any webpage into Figma as editable layers
+- [[2026-08-22_Scrap_2006_.md]] : Scrap (2006)
+- [[2026-08-23_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-23_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[2026-08-23_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-23_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-23_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-23_SydneyMarathonmedalmistakenlydepictsMunichstadium.md]] : Sydney Marathon medal mistakenly depicts Munich stadium
+- [[2026-08-23_MalwareinfectsAndroid-basedautomotiveheadunitfirmw.md]] : Malware infects Android-based automotive head unit firmware
+- [[2026-08-23_HowComplexSystemsFail.md]] : How Complex Systems Fail
+- [[2026-08-23_Ispent_266andfourAImodelstoownmytablet_GLM-5_3fini.md]] : I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
+- [[2026-08-23_Who_sbehindthenew_stealthmodel_OxAlpha_.md]] : Who’s behind the new ‘stealth model’ Ox Alpha?
+- [[2026-08-23_IntroducingAIFutures.md]] : Introducing AI Futures
+- [[2026-08-24_Who_sbehindthenew_stealthmodel_OxAlpha_.md]] : Who’s behind the new ‘stealth model’ Ox Alpha?
+- [[2026-08-24_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-24_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[2026-08-24_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-24_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-24_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[2026-08-24_SeL4securityproofsnowcompleteonAArch64.md]] : SeL4 security proofs now complete on AArch64
+- [[2026-08-24_HowEuropeiskillingmakersandmicro-entrepreneurs.md]] : How Europe is killing makers and micro-entrepreneurs
+- [[2026-08-24_HuggingFacereportedlyintalkstobeacquiredfor_13B.md]] : Hugging Face reportedly in talks to be acquired for $13B
+- [[2026-08-24_OpenAIisbuildingAIagentsforeverything_Willeveryone.md]] : OpenAI is building AI agents for everything. Will everyone use them?
+- [[2026-08-24_BuildingAIcapabilitiestailoredtoVietnam_sneeds-Vie.md]] : Building AI capabilities tailored to Vietnam's needs - Vietnam+ (VietnamPlus)
+- [[2026-08-24_Instinct_spowerfulAIassistantisraisingprivacyandse.md]] : Instinct’s powerful AI assistant is raising privacy and security concerns
+- [[2026-08-24_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[2026-08-24_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
+- [[2026-08-24_OnecornerofChina_sinternetisinsistingthattheTangDy.md]] : One corner of China’s internet is insisting that the Tang Dynasty never existed
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-24.md|Daily AI Intelligence Briefing — 2026-08-24]] — deployment-fit models, agent lifecycle security, harness continual learning, and context-sensitive alignment
+- [[2026-08-24_SKTelecomOpensJointAIProgramwithSeoulNationalUnive.md]] : SK Telecom Opens Joint AI Program with Seoul National University, Current Developers to Teach
+- [[2026-08-25_SKTelecomOpensJointAIProgramwithSeoulNationalUnive.md]] : SK Telecom Opens Joint AI Program with Seoul National University, Current Developers to Teach
+- [[2026-08-25_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-25_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[2026-08-25_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[2026-08-25_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-25_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
+- [[2026-08-25_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-25_WhysomeUSrestaurantsarebanningtips.md]] : Why some US restaurants are banning tips
+- [[2026-08-25_Accel-backedKeenableisindexingthewebforAIagents.md]] : Accel-backed Keenable is indexing the web for AI agents
+- [[2026-08-25_AppleIntroducesNewMacStudiowithM5MaxandM5Ultra.md]] : Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+- [[2026-08-25_Jalapeño_sfirstresultsshowindustry-leadingspeedand.md]] : Jalapeño’s first results show industry-leading speed and efficiency in AI inference
+- [[2026-08-25_Thefullstackbehindabundantintelligence.md]] : The full stack behind abundant intelligence
+- [[2026-08-25_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
+- [[2026-08-25_ClaudeCoworkfinallyrememberswhatyoutoldtheappincha.md]] : Claude Cowork finally remembers what you told the app in chat
+- [[2026-08-25_StabilityAI_makerofimagegeneratorStableDiffusion_r.md]] : Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding
+- [[2026-08-25_FDAauthorizesfirstwearabledevicethatmonitorsketone.md]] : FDA authorizes first wearable device that monitors ketone and blood sugar levels
+- [[2026-08-25_Python_spre-declaredconstantsarekindaweird.md]] : Python's pre-declared constants are kinda weird
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-25.md|Daily AI Intelligence Briefing — 2026-08-25]] — agent graphs, harnesses, system-level capability, privacy leakage, and human skill effects
+- [[concepts/ai-trends/daily-ai-intelligence-carry-forward-2026-08-25.md|Approved AI Research Paper Carry-Forward — 2026-08-25]] — seven uncovered approved papers linked from the dated briefing
+- [[2026-08-26_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[2026-08-26_Thefullstackbehindabundantintelligence.md]] : The full stack behind abundant intelligence
+- [[2026-08-26_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[2026-08-26_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-26_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-26_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
+- [[2026-08-26_Oldinsurancemaps_netisnowaCharterProject.md]] : Oldinsurancemaps.net is now a Charter Project
+- [[2026-08-26_RAGIsSimplerThanYouThink.md]] : RAG Is Simpler Than You Think
+- [[2026-08-26_Runablehits_21MtobetAIagentscangofrombuildingbusin.md]] : Runable hits $21M to bet AI agents can go from building businesses to growing them
+- [[2026-08-26_HowloveholidaysismakingeveryoneabuilderwithCodex.md]] : How loveholidays is making everyone a builder with Codex
+- [[2026-08-26_GLM-5_3-Flash.md]] : GLM-5.3-Flash
+- [[2026-08-26_Google_snewAItranscriptioneditsoutyour__8216_ums__.md]] : Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;
+- [[2026-08-26_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md]] : Bringing ChatGPT for Teachers to more U.S. school districts
+- [[2026-08-26_OpenAIreleasesitsofficialreportontheHuggingFacebre.md]] : OpenAI releases its official report on the Hugging Face breach
+- [[2026-08-26_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
+- [[2026-08-26_Google_sGeminihasabrandingproblem_andsodoestherest.md]] : Google’s Gemini has a branding problem, and so does the rest of AI
+- [[2026-08-26_MechanicalTurkshuttingdownSeptember30.md]] : Mechanical Turk shutting down September 30
+- [[2026-08-26_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-26.md|Daily AI Intelligence Briefing — 2026-08-26]] — deployment economics, outcome-oriented agents, safety engineering, and adoption trust
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-27.md|Daily AI Intelligence Briefing — 2026-08-27]] — model economics, adoption, open-weight safety, agent governance, and 170 retained research papers
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-28.md|Daily AI Intelligence Briefing — 2026-08-28]] — deployment governance, rights-aware AI interfaces, domain automation, infrastructure efficiency, and 76 carried-forward research papers
+- [[2026-08-27_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[2026-08-27_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
+- [[2026-08-27_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
+- [[2026-08-27_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-27_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md]] : Bringing ChatGPT for Teachers to more U.S. school districts
+- [[2026-08-27_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[2026-08-27_NvidiaclosesinonHuggingFaceacquisition.md]] : Nvidia closes in on Hugging Face acquisition
+- [[2026-08-27_ExpandingOpenAI_spresenceinBrazil.md]] : Expanding OpenAI’s presence in Brazil
+- [[2026-08-27_OpenAItostartshowingadsonChatGPT_sfreeandGotiersin.md]] : OpenAI to start showing ads on ChatGPT’s free and Go tiers in India
+- [[2026-08-27_AirConditioningIsNotaLuxury_ItIsaNecessity.md]] : Air Conditioning Is Not a Luxury, It Is a Necessity
+- [[2026-08-27_Whenagentsactontheirown_governancehastoliveintheda.md]] : When agents act on their own, governance has to live in the data layer
+- [[2026-08-27_Here_sallthetimesAIhasgonerogueandhackedothercompa.md]] : Here’s all the times AI has gone rogue and hacked other companies
+- [[2026-08-27_JensenHuangsaysNvidiaachievedAGI_again_notthatitma.md]] : Jensen Huang says Nvidia achieved AGI, again — not that it matters
+- [[2026-08-27_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+- [[2026-08-27_Saving100terabytesofmemorybyoptimizing1_1_1_1_sDNS.md]] : Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+- [[2026-08-27_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-08-27_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[2026-08-27_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books
+- [[2026-08-27_AnthropicwasillegallyblacklistedbytheTrumpadminist.md]] : Anthropic was illegally blacklisted by the Trump administration, court rules
+- [[2026-08-28_Saving100terabytesofmemorybyoptimizing1_1_1_1_sDNS.md]] : Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+- [[2026-08-28_AnthropicwasillegallyblacklistedbytheTrumpadminist.md]] : Anthropic was illegally blacklisted by the Trump administration, court rules
+- [[2026-08-28_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-08-28_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+- [[2026-08-28_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-28_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[2026-08-28_HilariouslyFastVolumeComputationwiththeDivergenceT.md]] : Hilariously Fast Volume Computation with the Divergence Theorem
+- [[2026-08-28_MetaexecutiveleavesforOpenAIasthesocialmediagiantf.md]] : Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India
+- [[2026-08-28_OpenAI_MigratingtoHTTPX2.md]] : OpenAI: Migrating to HTTPX2
+- [[2026-08-28_AnthropicgetsitsfirstcourtwinoverthePentagon_ssupp.md]] : Anthropic gets its first court win over the Pentagon’s supply chain risk label
+- [[2026-08-28_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution
+- [[2026-08-28_Open-weightAIcompaniesaretheValley_shottestacquisi.md]] : Open-weight AI companies are the Valley’s hottest acquisition targets
+- [[2026-08-28_GUIsshouldbefullykeyboard-driven.md]] : GUIs should be fully keyboard-driven
+- [[2026-08-28_AnAnthropicresearcherjustgaveusapeekatself-improvi.md]] : An Anthropic researcher just gave us a peek at self-improving AI
+- [[2026-08-28_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books
+- [[2026-08-28_DoestheSumerianKingListAlignwithPaleoclimateEvents.md]] : Does the Sumerian King List Align with Paleoclimate Events?
+- [[2026-08-28_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[2026-08-28_WhoBuilds_Wins_TheTrillion-DollarContestforAIInfra.md]] : Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure
+- [[2026-08-29_WhoBuilds_Wins_TheTrillion-DollarContestforAIInfra.md]] : Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure
+- [[2026-08-29_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[2026-08-29_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[2026-08-29_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-08-29_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-29_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution
+- [[2026-08-29_SQLiteasaDocumentDatabase_2020_.md]] : SQLite as a Document Database (2020)
+- [[2026-08-29_SonyMusicandWarnerChappellaresuingAnthropic.md]] : Sony Music and Warner Chappell are suing Anthropic
+- [[2026-08-29_TencentReleasesandOpen-SourcesTencentHy4Preview.md]] : Tencent Releases and Open-Sources Tencent Hy4 Preview
+- [[2026-08-29_Defrag98_Windows98DiskDefragmenterSimulatorOnline.md]] : Defrag98: Windows 98 Disk Defragmenter Simulator Online
+- [[2026-08-29_Hy4preview.md]] : Hy4 preview
+- [[2026-08-29_BugBlindness.md]] : Bug Blindness
+- [[2026-08-29_IsMicron_sUS_10BillionAIR_DandTrainingPushAltering.md]] : Is Micron's US$10 Billion AI R&D and Training Push Altering The Investment Case For ...

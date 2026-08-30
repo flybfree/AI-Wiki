@@ -127,7 +127,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-21.md|Daily AI Intelligence Briefing — 2026-08-21]] — deployment-fit models, assistant distribution, harness infrastructure, open-weight safety, and validated scientific AI
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-22.md|Daily AI Intelligence Briefing — 2026-08-22]] — thin verified corpus, browser-native workflow capture, and unresolved curation backlog audit
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-28.md|Daily AI Intelligence Briefing — 2026-08-28]] — distribution governance, rights-aware AI interfaces, domain automation, and infrastructure efficiency
-- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-29.md|Summary: Daily AI Intelligence Briefing — 2026-08-29]] — open-weight release discipline, contract-governed distribution, domain workflow automation, and infrastructure accountability
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-29.md|Summary: Daily AI Intelligence Briefing — 2026-08-29]] — open-weight release discipline, contract-governed distribution, domain workflow automation, infrastructure accountability, and deployment constraints
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-23.md|Daily AI Intelligence Briefing — 2026-08-23]] — closed-frontier cost competition, staged open weights, agentic science, and operational provenance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-24.md|Daily AI Intelligence Briefing — 2026-08-24]] — deployment-fit models, agent lifecycle security, harness continual learning, and context-sensitive alignment
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-19.md|Daily AI Intelligence Briefing — 2026-08-19]] — deployment-fit model competition, assistant distribution, AI infrastructure economics, operational safety, and nine retained research papers
@@ -2456,3 +2456,7 @@ tags: ['wiki']
 - [[2026-08-29_SQLiteasaDocumentDatabase_2020_.md]] : SQLite as a Document Database (2020)
 - [[2026-08-29_SonyMusicandWarnerChappellaresuingAnthropic.md]] : Sony Music and Warner Chappell are suing Anthropic
 - [[2026-08-29_TencentReleasesandOpen-SourcesTencentHy4Preview.md]] : Tencent Releases and Open-Sources Tencent Hy4 Preview
+- [[2026-08-29_Defrag98_Windows98DiskDefragmenterSimulatorOnline.md]] : Defrag98: Windows 98 Disk Defragmenter Simulator Online
+- [[2026-08-29_Hy4preview.md]] : Hy4 preview
+- [[2026-08-29_BugBlindness.md]] : Bug Blindness
+- [[2026-08-29_IsMicron_sUS_10BillionAIR_DandTrainingPushAltering.md]] : Is Micron's US$10 Billion AI R&D and Training Push Altering The Investment Case For ...

@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-08-30 00:01] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-29.md finalized; 10 AI-only retained article/source items after deduplication; 0 target-date keep decisions; 0 new papers; 0 carry-forward papers; late Micron and bug-blindness coverage included; SQLite tooling and Defrag98 excluded
+
 ## [2026-08-29 18:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-29.md refreshed; 8 AI-only retained article/source items including Tencent Hy4, Anthropic copyright litigation, and one YouTube model-cost signal; SQLite tooling excluded; 0 new papers; 0 newly approved research papers; no carry-forward papers added after prior backlog reconciliation
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
@@ -11122,3 +11124,7 @@ tags: ['wiki']
 ## [2026-08-29 13:15] ingest | 2026-08-29_SQLiteasaDocumentDatabase_2020_.md
 ## [2026-08-29 15:15] ingest | 2026-08-29_SonyMusicandWarnerChappellaresuingAnthropic.md
 ## [2026-08-29 16:16] ingest | 2026-08-29_TencentReleasesandOpen-SourcesTencentHy4Preview.md
+## [2026-08-29 19:29] ingest | 2026-08-29_Defrag98_Windows98DiskDefragmenterSimulatorOnline.md
+## [2026-08-29 20:18] ingest | 2026-08-29_Hy4preview.md
+## [2026-08-29 21:14] ingest | 2026-08-29_BugBlindness.md
+## [2026-08-29 22:26] ingest | 2026-08-29_IsMicron_sUS_10BillionAIR_DandTrainingPushAltering.md
