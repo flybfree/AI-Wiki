@@ -11,7 +11,7 @@ tags: [ai-intelligence, daily-briefing, models, agents, safety, infrastructure, 
 
 Today’s AI-only intake reinforces a systems-level shift: capability is being improved through task-specific training and end-to-end workflow design, while deployment is constrained by release safety, contracts, copyright, and infrastructure economics. Thinking Machines’ open-weights framework argues for staged access backed by dangerous-capability testing and ecosystem readiness. Its separate Text-to-SQL result claims that expert-verified data plus reinforcement learning with verifiable rewards can beat the human proxy without a large scaffold. Google’s Planetary Prediction Engine applies a similar systems idea to geospatial modeling, automating data discovery, curation, training, and reporting. At the control layer, OpenAI’s planned Cursor shutdown makes model access contingent on ownership and compliance; the Anthropic music lawsuit makes training-data provenance a direct business risk; and Micron’s AI-memory investment highlights the capital and cyclical constraints beneath model progress.
 
-The local corpus contained **7 retained AI items** after deduplication. One unrelated 2018 mathematics paper, *Longest Straight Line Paths on Water or Land on the Earth*, was excluded. The arXiv scout ran its coverage sweep but produced no new target-date research paper for this briefing, so no paper was approved or carried forward.
+The local corpus contained **7 retained AI items** after deduplication. One unrelated 2018 mathematics paper, *Longest Straight Line Paths on Water or Land on the Earth*, was excluded. The arXiv scout produced no new target-date paper, but the curation store recorded three keep decisions on 2026-08-30 that normalize to **two unique approved research papers**; both are included below.
 
 ## Key Themes
 
@@ -57,6 +57,13 @@ Separately, [The Verge reports a lawsuit by Sony Music and Warner Chappell again
 
 **Why it matters:** coding agents lower the cost of producing software, including low-quality software. User simulation, adversarial testing, and external observation are becoming necessary complements to internal dogfooding, especially when teams have adapted around their own product’s defects.
 
+## Approved Research Papers
+
+The complete curation query returned **3 keep records**, normalized to **2 unique paper identities** after collapsing the duplicate WikiSkill summary-generation record. These papers were approved on 2026-08-30 even though both were ingested on 2026-08-27, so they are included as required daily-ingestion research alongside the news intake.
+
+- [WikiSkill: Compiling Agent Experience into Persistent Knowledge for Skill Evolution](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-27_17-59-11Z_WikiSkill_CompilingAgentExperienceintoPersi_summary.md) — A persistent wiki separates raw execution experience, accumulated knowledge, and executable skills so agents can refine and reuse capabilities across iterations and model families. **Why it matters:** it is a concrete architecture for turning interaction history into durable agent assets, but its transfer and benchmark gains should be checked against the paper’s original [arXiv record](http://arxiv.org/abs/2608.27454v1).
+- [Naive Prompt Optimization: Rethinking the Need for Complex Prompt Search](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-27_15-47-58Z_NaivePromptOptimization_RethinkingtheNeedfo_summary.md) — NPO uses a simple single-lineage teacher-student loop with rollout feedback and can match or beat more complex prompt-search methods on several tasks, while GRPO remains stronger where prompt optimization is a poor fit. **Why it matters:** optimizer simplicity may be a useful scaling lever for recursive improvement when stronger teacher reasoning substitutes for elaborate search; the original [arXiv record](http://arxiv.org/abs/2608.27266v1) is the source for reproduction.
+
 ## What Changed Today
 
 - The intake added a concrete claim that task-specific RL and expert-cleaned data can close a human-performance gap without benchmark-specific scaffolding.
@@ -64,7 +71,7 @@ Separately, [The Verge reports a lawsuit by Sony Music and Warner Chappell again
 - Open-weight safety was expressed as an iterative release path whose next step depends on evidence and ecosystem readiness.
 - OpenAI–Cursor made ownership change a practical model-access control; the Anthropic litigation widened training-data risk into music and lyric rights.
 - Infrastructure attention shifted from generic compute to memory supply, capital intensity, and semiconductor cyclicality.
-- No new research paper was retained from the arXiv sweep. The non-AI mathematics item was excluded rather than allowed to dilute the intake.
+- The arXiv sweep added no new target-date paper, but curation approved three records that normalize to two unique papers: WikiSkill and Naive Prompt Optimization. The non-AI mathematics item was excluded rather than allowed to dilute the intake.
 
 ## Why It Matters
 

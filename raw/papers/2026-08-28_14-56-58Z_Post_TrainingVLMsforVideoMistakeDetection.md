@@ -1,0 +1,18 @@
+---
+title: Post-Training VLMs for Video Mistake Detection
+published: 2026-08-28T14:56:58Z
+authors: Federico Spurio, Olga Zatsarynna, Lars Doorenbos, Emad Bahrami, Gianpiero Francesca, Juergen Gall
+url: http://arxiv.org/abs/2608.28406v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Post-Training VLMs for Video Mistake Detection
+
+## Abstract
+Human mistakes are inevitable when following instructions, yet they can lead to severe consequences. As such, there has been an increased interest in developing methods for detecting mistakes in videos, with current methods mostly focusing on closed-set protocols. While successful in controlled settings, the closed-set assumption limits their wider applicability, as any changes to the task require collecting new data and re-training models. Instead, we argue that mistake detection methods should learn the general concept of a mistake, rather than overfitting to step-specific details. To reflect this, we introduce the Mistake Detection Video Question Answering (MD-VQA) protocol and accompanying benchmark. MD-VQA tests whether methods can discern if a step was executed correctly with respect to its description, for both seen and unseen actions. To address this important challenge, we propose the first video-language-model post-training technique for mistake detection. Our method uses a tailored reward function to encourage the model to identify discrepancies between an instruction and the corresponding video. Extensive evaluations demonstrate that this approach outperforms zero-shot, supervised fine-tuning, and post-training baselines. Notably, our method generalizes especially well to unseen procedures, for instance, with an improvement of up to 11.6% over the best-performing baseline on EP-VQA, paving the way toward general mistake detection. We release our code and benchmark at https://github.com/FedeSpu/mstk.
+
+## Metadata
+- **Published**: 2026-08-28T14:56:58Z
+- **Authors**: Federico Spurio, Olga Zatsarynna, Lars Doorenbos, Emad Bahrami, Gianpiero Francesca, Juergen Gall
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.28406v1)

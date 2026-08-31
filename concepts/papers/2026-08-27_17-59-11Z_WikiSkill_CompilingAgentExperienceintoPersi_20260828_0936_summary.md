@@ -1,6 +1,7 @@
 # Summary: 2026-08-27_17-59-11Z_WikiSkill_CompilingAgentExperienceintoPersistentKn.md
 Saved: 2026-08-28 09:36
 Source: 2026-08-27_17-59-11Z_WikiSkill_CompilingAgentExperienceintoPersistentKn.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.27454v1)
 Model: None
 
 ---

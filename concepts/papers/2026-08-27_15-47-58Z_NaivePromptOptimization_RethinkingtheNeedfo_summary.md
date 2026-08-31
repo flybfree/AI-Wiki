@@ -1,6 +1,7 @@
 # Summary: 2026-08-27_15-47-58Z_NaivePromptOptimization_RethinkingtheNeedforComple.md
 Saved: 2026-08-28 09:29
 Source: 2026-08-27_15-47-58Z_NaivePromptOptimization_RethinkingtheNeedforComple.md
+Original paper: [arXiv](http://arxiv.org/abs/2608.27266v1)
 Model: None
 
 ---

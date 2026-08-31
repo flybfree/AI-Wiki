@@ -1,0 +1,18 @@
+---
+title: See, Hypothesize, Validate: Multimodal Agentic Framework for Discovering Governing PDEs
+published: 2026-08-28T03:20:33Z
+authors: Sarang Manoj Pekhale, Amartya Roy, Rajat Sarkar, Souvik Chakraborty
+url: http://arxiv.org/abs/2608.27869v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# See, Hypothesize, Validate: Multimodal Agentic Framework for Discovering Governing PDEs
+
+## Abstract
+Discovering governing partial differential equations (PDEs) from observational data remains a core challenge across the sciences. Existing sparse-regression, symbolic-regression, and LLM-based approaches can be constrained by predefined libraries, noise sensitivity, hallucination, or limited iterative refinement. We introduce \textbf{MAGE} (\textbf{M}ultimodal \textbf{A}gentic \textbf{G}overning \textbf{E}quation Discovery), an agentic framework that organizes PDE discovery as a \textit{confidence governed hypothesis validation loop} inspired by the scientific cycle of observation, hypothesis, and falsification. Four role-specialized agents collaborate: a \textit{Differential Observer} computing derivatives and diagnostic visualizations; a VLM-powered \textit{Phenomenology Extractor} distilling qualitative cues from multimodal diagnostics; an LLM-driven \textit{Governing Law Synthesizer} proposing candidates without a predefined library; and an \textit{Equation Arbiter} fitting coefficients and assigning confidence scores. Discovery iterates until the top candidate clears a user-specified threshold, providing a structured process with an explicit accept-reject protocol. On the evaluated canonical PDE suite, MAGE obtains \textbf{8/8} exact structural recovery and the lowest coefficient error among the compared methods on \textbf{7/8} systems, with improvements of up to \textbf{4 orders of magnitude} and a geometric-mean improvement of approximately \textbf{3 orders of magnitude}. The pipeline also recovers the expected operators in two complex geometries and, on one laboratory sensor record, selects a cubic restoring-force model with held-out $R^2=0.98538$. These results support further study of structured agentic reasoning for library-free governing-law discovery, while broader generalization remains to be evaluated.
+
+## Metadata
+- **Published**: 2026-08-28T03:20:33Z
+- **Authors**: Sarang Manoj Pekhale, Amartya Roy, Rajat Sarkar, Souvik Chakraborty
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.27869v1)

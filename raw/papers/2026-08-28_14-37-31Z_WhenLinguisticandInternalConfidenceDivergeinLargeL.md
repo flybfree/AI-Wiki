@@ -1,0 +1,18 @@
+---
+title: When Linguistic and Internal Confidence Diverge in Large Language Models
+published: 2026-08-28T14:37:31Z
+authors: Hefan Zhang, Bingquan Zhang, Ming Cheng, Saeed Hassanpour, Weicheng Ma, Soroush Vosoughi
+url: http://arxiv.org/abs/2608.28382v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# When Linguistic and Internal Confidence Diverge in Large Language Models
+
+## Abstract
+Users often ask large language models (LLMs) to report how confident they are, but it is unclear whether such linguistic confidence tracks the model's internal confidence. We study this question across 8 classification tasks, 2 generation tasks and 30 models from three families. For classification, we compare linguistic confidence with logits-based confidence along three axes: association, magnitude agreement and calibration. For generation, we test whether linguistic confidence tracks semantic-entropy-based uncertainty. The axes frequently diverge. Instance-level association is weak on average, although it improves on easier items and for stronger base models. Instruction-tuned models often report higher confidence and sometimes show higher association, but they also have larger confidence gaps and worse calibration. Prompt design mostly changes the distribution of reported confidence. Attitude cues inflate confidence without improving alignment, while score exemplars can preserve rank-order signal when they avoid collapsed confidence values. Regression analyses show that distributional properties of confidence scores explain much of the observed alignment pattern, with model metadata playing a smaller role after controls. These results support a lossy-channel view of linguistic confidence. A more dispersed verbal confidence distribution can carry useful rank information, but it does not make the scores calibrated. Linguistic confidence should therefore be evaluated with multi-axis diagnostics before being used in downstream reliability pipelines.
+
+## Metadata
+- **Published**: 2026-08-28T14:37:31Z
+- **Authors**: Hefan Zhang, Bingquan Zhang, Ming Cheng, Saeed Hassanpour, Weicheng Ma, Soroush Vosoughi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.28382v1)
