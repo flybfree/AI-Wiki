@@ -5,6 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-08-31 18:02] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md refreshed; 9 AI-only items retained after deduplication including Google TimesFM-3, Anthropic security/alignment update, Microsoft containment guidance, and Blue Voice; typography essay excluded; 0 new target-date papers retained; latest ArXiv pass reviewed 1,000 entries; wiki files ready for commit and push
 ## [2026-08-31 06:02] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md created; 4 AI-only items retained after deduplication; 0 new papers and 0 new article summaries; 520 ArXiv discoveries reviewed with 0 new papers; non-AI typographic essay excluded; wiki ingest and Logseq mirror completed cleanly
 ## [2026-08-31 12:15] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md refreshed with ChatGPT Ads milestone; 5 AI-only items retained after deduplication; 1 new raw article and 1 new article summary; 0 new papers; direct-source sweep completed; pending wiki changes committed and pushed by scheduled job
 
@@ -11334,3 +11335,6 @@ tags: ['wiki']
 ## [2026-08-31 00:12] ingest | 2026-08-31_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md
 ## [2026-08-31 00:12] ingest | 2026-08-31__Ijustchosewordscarefully_.md
 ## [2026-08-31 09:11] ingest | 2026-08-31_AmilestoneinexpandingaccesstoAI.md
+## [2026-08-31 13:11] ingest | 2026-08-31_TimesFM-3_Azero-shotfoundationmodelformultivariate.md
+## [2026-08-31 13:11] ingest | 2026-08-31_MicrosoftDetailsAIContainmentStrategiesforAutonomo.md
+## [2026-08-31 14:10] ingest | 2026-08-31_HarvardLawdropoutraises_6MforBlueVoicetobuilda_Har.md

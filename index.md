@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-06-10
+> Last updated: 2026-08-31
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -2482,3 +2482,6 @@ tags: ['wiki']
 - [[2026-08-31_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
 - [[2026-08-31__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
 - [[2026-08-31_AmilestoneinexpandingaccesstoAI.md]] : A milestone in expanding access to AI
+- [[2026-08-31_TimesFM-3_Azero-shotfoundationmodelformultivariate.md]] : TimesFM-3: A zero-shot foundation model for multivariate forecasting
+- [[2026-08-31_MicrosoftDetailsAIContainmentStrategiesforAutonomo.md]] : Microsoft Details AI Containment Strategies for Autonomous Agents
+- [[2026-08-31_HarvardLawdropoutraises_6MforBlueVoicetobuilda_Har.md]] : Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’
