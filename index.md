@@ -2475,3 +2475,8 @@ tags: ['wiki']
 - [[2026-08-30_TexasGovernorAbbottblocksfundingformoreFlockcamera.md]] : Texas Governor Abbott blocks funding for more Flock cameras
 - [[2026-08-30__Ijustchosewordscarefully__.md]] : "I just chose words carefully."
 - [[2026-08-30__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
+- [[2026-08-31_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-08-31_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[2026-08-31_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-31_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[2026-08-31__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
