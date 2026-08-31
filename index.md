@@ -2481,3 +2481,4 @@ tags: ['wiki']
 - [[2026-08-31_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-08-31_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
 - [[2026-08-31__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
+- [[2026-08-31_AmilestoneinexpandingaccesstoAI.md]] : A milestone in expanding access to AI
