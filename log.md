@@ -11803,3 +11803,5 @@ tags: ['wiki']
 ## [2026-09-01 00:34] ingest | 2026-09-01_News_Research_Product_CompanyUpdates_SpaceXAI.md
 ## [2026-09-01 00:34] ingest | 2026-09-01_OpenAIsupportsCalifornia_sbilltoadvanceyouthAIsafe.md
 ## [2026-09-01 01:20] ingest | 2026-09-01_GPUWorld.md
+## [2026-09-01 08:19] ingest | 2026-09-01_TheHuggingFaceincidentandtheroadahead_OpenAI.md
+## [2026-09-01 10:19] ingest | 2026-09-01_Fambotintroducesan_AIchiefofstaff_forfamilies.md

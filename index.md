@@ -2512,3 +2512,5 @@ tags: ['wiki']
 - [[2026-09-01_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
 - [[2026-09-01_OpenAIsupportsCalifornia_sbilltoadvanceyouthAIsafe.md]] : OpenAI supports California’s bill to advance youth AI safety
 - [[2026-09-01_GPUWorld.md]] : GPU World
+- [[2026-09-01_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[2026-09-01_Fambotintroducesan_AIchiefofstaff_forfamilies.md]] : Fambot introduces an ‘AI chief of staff’ for families
