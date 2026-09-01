@@ -53,6 +53,11 @@ Quick start: [README.md](README.md)
 - [[concepts/knowledge-management/wiki-usage-cheat-sheet.md|Wiki Usage Cheat Sheet]] — quick guide for page types and where each system fits
 - [[concepts/knowledge-management/page-templates.md|Page Templates for the AI Research Wiki]] — copy-paste templates for concept, article, paper, tracker, and hub pages
 
+### AI Agents & Harness Engineering
+
+- NVIDIA Object-Oriented Agents (NOOA) — Python-native agent harness, typed state, programmable loops, and model-callable APIs
+- Harness Engineering Hub
+
 ### AI Industry & Trends
 
 - AI Industry Trends

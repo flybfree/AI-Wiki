@@ -149,6 +149,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 - [[concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md|UniClawBench: A Universal Benchmark for Proactive Agents]]
 - [[concepts/architecture/2026-05-09_AgentArchitectureEvolution.md|Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)]]
 - [[concepts/frameworks/2026-05-09_AutonomousAgentFrameworks.md|Autonomous Agent Frameworks]]
+- [[concepts/ai-agents/2026-09-01_NVIDIA_NOOA_ObjectOrientedAgents.md|NVIDIA Object-Oriented Agents (NOOA)]] — Python-native agent harness, six interface capabilities, memory, and evaluations
 - [[concepts/principles/2026-06-08_BuildingEffectiveAgents_Anthropic.md|Building Effective Agents (Anthropic)]]
 - [[concepts/2026-06-02_HLL_Benchmark.md|HLL Benchmark]]
 - [[papers/2026-05-09_131500Z_ReAct_SynergizingReasoningAndActingInLanguageModels.md|ReAct: Synergizing Reasoning and Acting in Language Models]]

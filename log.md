@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-01 00:00] ingest | concepts/ai-agents/2026-09-01_NVIDIA_NOOA_ObjectOrientedAgents.md added from NVIDIA technical blog, arXiv:2607.20709, and MarkTechPost; linked from AI Agents navigation and Harness Engineering Hub
+
 ## [2026-09-01 00:04] finalize | 2026-08-31 daily briefing publication verified; 0 target-date curation keeps; wiki/Logseq mirror byte-identical; GitHub commit ac149ab6 pushed and origin/master verified; Lumistorm post 177 published at https://lumistorm.net/daily-ai-intelligence-2026-08-31/
 ## [2026-08-31 18:02] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md refreshed; 9 AI-only items retained after deduplication including Google TimesFM-3, Anthropic security/alignment update, Microsoft containment guidance, and Blue Voice; typography essay excluded; 0 new target-date papers retained; latest ArXiv pass reviewed 1,000 entries; wiki files ready for commit and push
 ## [2026-08-31 06:02] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md created; 4 AI-only items retained after deduplication; 0 new papers and 0 new article summaries; 520 ArXiv discoveries reviewed with 0 new papers; non-AI typographic essay excluded; wiki ingest and Logseq mirror completed cleanly
@@ -11780,3 +11782,21 @@ tags: ['wiki']
 ## [2026-08-31 22:33] stage-paper | 2026-08-31_15-47-23Z_FaithfulnessIsNotFree_AuditingOfflineKV_CacheQuant.md
 ## [2026-08-31 22:33] stage-paper | 2026-08-31_15-28-17Z_AUniversalContext_ReuseLayerforCross_ModelKVSharin.md
 ## [2026-08-31 22:33] stage-paper | 2026-08-31_13-49-00Z_Uncertainty_AwareEnd_to_EndAIWeatherForecasting_Di.md
+## [2026-09-01 00:21] stage-paper | 2026-08-31_10-57-39Z_LanguageProficiencyAssessmentfromEyeMovementsinNat.md
+## [2026-09-01 00:21] stage-paper | 2026-08-31_07-50-57Z_Co_EvolvingActor_ConditionedCriticsforNon_Verifiab.md
+## [2026-09-01 00:21] stage-paper | 2026-08-31_12-57-29Z_MindtheGap_Theory_of_Mind_GroundedFrictionforEpist.md
+## [2026-09-01 00:21] stage-paper | 2026-08-31_16-52-57Z_SycophanticAgreementTransferswithNeutralDataviaCon.md
+## [2026-09-01 00:21] ingest | 2026-09-01_OpenAINews_OpenAI.md
+## [2026-09-01 00:21] ingest | 2026-09-01_TimesFM-3_Azero-shotfoundationmodelformultivariate.md
+## [2026-09-01 00:21] ingest | 2026-09-01_Fastpotify.md
+## [2026-09-01 00:21] ingest | 2026-09-01_TheSafetyReckoningInsideOpenAI_WIRED.md
+## [2026-09-01 00:21] ingest | 2026-09-01_Newsroom_Anthropic.md
+## [2026-09-01 00:21] ingest | 2026-09-01_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md
+## [2026-09-01 00:21] ingest | 2026-09-01_News.md
+## [2026-09-01 00:21] ingest | 2026-09-01_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md
+## [2026-09-01 00:21] ingest | 2026-09-01_ASafePathtoOpenWeights.md
+## [2026-09-01 00:21] ingest | 2026-09-01_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md
+## [2026-09-01 00:21] ingest | 2026-09-01_PolimillbuildsJapan_snext-generationpublicAIinfras.md
+## [2026-09-01 00:21] ingest | 2026-09-01_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md
+## [2026-09-01 00:34] ingest | 2026-09-01_News_Research_Product_CompanyUpdates_SpaceXAI.md
+## [2026-09-01 00:34] ingest | 2026-09-01_OpenAIsupportsCalifornia_sbilltoadvanceyouthAIsafe.md

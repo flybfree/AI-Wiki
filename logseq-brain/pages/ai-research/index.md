@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-06-10
+> Last updated: 2026-08-31
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -36,6 +36,7 @@ tags: ['wiki']
 |- [[concepts/ai-agents/ai-agents-lesson-01-what-an-ai-agent-is.md|Lesson 1: What an AI Agent Is]]
 |- [[concepts/ai-agents/ai-agents-lesson-02-harness-implementing-an-agent.md|Lesson 2: The Harness: Implementing an Agent]]
 |- [[concepts/ai-agents/harness-engineering-hub.md|Harness Engineering Hub]] — harness policy, optimization, AGENTS.md, and composable agent design
+|- [[concepts/ai-agents/2026-09-01_NVIDIA_NOOA_ObjectOrientedAgents.md|NVIDIA Object-Oriented Agents (NOOA)]] — object-oriented Python agents, six harness capabilities, typed state, memory, and benchmark results
 |- [[concepts/ai-agents/anthropic-building-effective-ai-agents.md|Anthropic: Building Effective AI Agents]] — simple, composable agent patterns
 |- [[concepts/ai-agents/agents-md.md|AGENTS.md]] — project-level instructions for coding agents
 |- [[concepts/ai-agents/ai-agents-lesson-02-tools-actions-and-observation-loops.md|Lesson 3: Tools, Actions, and Observation Loops]]
@@ -115,6 +116,8 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-30.md|Summary: Daily AI Intelligence Briefing — 2026-08-30]] — task-specific training, governed model distribution, and end-to-end deployment systems
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md|Summary: Daily AI Intelligence Briefing — 2026-08-31]] — domain expertise inside workflows, evidence-gated open weights, and contract-governed model access
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-23.md|Summary: 2026-07-23 Daily AI Intelligence Summary]] — compute, product surfaces, safety, and AI economics
 - [[concepts/knowledge-management/hostinger-daily-ai-blog-template.md|Hostinger Daily AI Intelligence Blog Template]] — Hostinger-ready public blog template with inline sources and reference block
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-10.md|Daily AI Intelligence Briefing — 2026-08-10]] — frontier models, local open weights, cyber capability, verifiable research, and agentic interfaces
@@ -2460,3 +2463,48 @@ tags: ['wiki']
 - [[2026-08-29_Hy4preview.md]] : Hy4 preview
 - [[2026-08-29_BugBlindness.md]] : Bug Blindness
 - [[2026-08-29_IsMicron_sUS_10BillionAIR_DandTrainingPushAltering.md]] : Is Micron's US$10 Billion AI R&D and Training Push Altering The Investment Case For ...
+- [[2026-08-30_IsMicron_sUS_10BillionAIR_DandTrainingPushAltering.md]] : Is Micron's US$10 Billion AI R&D and Training Push Altering The Investment Case For ...
+- [[2026-08-30_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[2026-08-30_SonyMusicandWarnerChappellaresuingAnthropic.md]] : Sony Music and Warner Chappell are suing Anthropic
+- [[2026-08-30_BugBlindness.md]] : Bug Blindness
+- [[2026-08-30_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-08-30_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-30_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[2026-08-30_LongestStraightLinePathsonWaterorLandontheEarth_20.md]] : Longest Straight Line Paths on Water or Land on the Earth (2018)
+- [[2026-08-30_SonyMusicPublishingandWarnerChappellaresuingAnthro.md]] : Sony Music Publishing and Warner Chappell are suing Anthropic
+- [[2026-08-30_ArbitrarycodeexecutioninQubesOSviacopy-to-VMerrorr.md]] : Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
+- [[2026-08-30_HackingIKEAFurniture.md]] : Hacking IKEA Furniture
+- [[2026-08-30_TexasGovernorAbbottblocksfundingformoreFlockcamera.md]] : Texas Governor Abbott blocks funding for more Flock cameras
+- [[2026-08-30__Ijustchosewordscarefully__.md]] : "I just chose words carefully."
+- [[2026-08-30__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
+- [[2026-08-31_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-08-31_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[2026-08-31_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-08-31_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[2026-08-31__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
+- [[2026-08-31_AmilestoneinexpandingaccesstoAI.md]] : A milestone in expanding access to AI
+- [[2026-08-31_TimesFM-3_Azero-shotfoundationmodelformultivariate.md]] : TimesFM-3: A zero-shot foundation model for multivariate forecasting
+- [[2026-08-31_MicrosoftDetailsAIContainmentStrategiesforAutonomo.md]] : Microsoft Details AI Containment Strategies for Autonomous Agents
+- [[2026-08-31_HarvardLawdropoutraises_6MforBlueVoicetobuilda_Har.md]] : Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’
+- [[2026-08-31_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[2026-08-31_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-08-31_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-08-31_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-08-31_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-08-31_PolimillbuildsJapan_snext-generationpublicAIinfras.md]] : Polimill builds Japan's next-generation public AI infrastructure
+- [[2026-08-31_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-08-31_News.md]] : News
+- [[2026-08-31_Appleshares_shockingevidence_againstformeremployee.md]] : Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI
+- [[2026-08-31_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-01_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-09-01_TimesFM-3_Azero-shotfoundationmodelformultivariate.md]] : TimesFM-3: A zero-shot foundation model for multivariate forecasting
+- [[2026-09-01_Fastpotify.md]] : Fastpotify
+- [[2026-09-01_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-01_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-01_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-01_News.md]] : News
+- [[2026-09-01_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-01_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-01_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-01_PolimillbuildsJapan_snext-generationpublicAIinfras.md]] : Polimill builds Japan's next-generation public AI infrastructure
+- [[2026-09-01_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips

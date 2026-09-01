@@ -36,6 +36,7 @@ tags: ['wiki']
 |- [[concepts/ai-agents/ai-agents-lesson-01-what-an-ai-agent-is.md|Lesson 1: What an AI Agent Is]]
 |- [[concepts/ai-agents/ai-agents-lesson-02-harness-implementing-an-agent.md|Lesson 2: The Harness: Implementing an Agent]]
 |- [[concepts/ai-agents/harness-engineering-hub.md|Harness Engineering Hub]] — harness policy, optimization, AGENTS.md, and composable agent design
+|- [[concepts/ai-agents/2026-09-01_NVIDIA_NOOA_ObjectOrientedAgents.md|NVIDIA Object-Oriented Agents (NOOA)]] — object-oriented Python agents, six harness capabilities, typed state, memory, and benchmark results
 |- [[concepts/ai-agents/anthropic-building-effective-ai-agents.md|Anthropic: Building Effective AI Agents]] — simple, composable agent patterns
 |- [[concepts/ai-agents/agents-md.md|AGENTS.md]] — project-level instructions for coding agents
 |- [[concepts/ai-agents/ai-agents-lesson-02-tools-actions-and-observation-loops.md|Lesson 3: Tools, Actions, and Observation Loops]]
@@ -2495,3 +2496,17 @@ tags: ['wiki']
 - [[2026-08-31_News.md]] : News
 - [[2026-08-31_Appleshares_shockingevidence_againstformeremployee.md]] : Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI
 - [[2026-08-31_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-01_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-09-01_TimesFM-3_Azero-shotfoundationmodelformultivariate.md]] : TimesFM-3: A zero-shot foundation model for multivariate forecasting
+- [[2026-09-01_Fastpotify.md]] : Fastpotify
+- [[2026-09-01_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-01_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-01_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-01_News.md]] : News
+- [[2026-09-01_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-01_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-01_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-01_PolimillbuildsJapan_snext-generationpublicAIinfras.md]] : Polimill builds Japan's next-generation public AI infrastructure
+- [[2026-09-01_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-01_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-01_OpenAIsupportsCalifornia_sbilltoadvanceyouthAIsafe.md]] : OpenAI supports California’s bill to advance youth AI safety
