@@ -1,0 +1,18 @@
+---
+title: Padārtha: Ontology-Grounded Fine-Grained NER Benchmark for Classical Sanskrit
+published: 2026-08-29T15:09:31Z
+authors: Sujoy Sarkar, Pretam Ray, Paramhans Shah, Manoj Balaji Jagadeeshan, Akash Gairola, Arjuna S R, Pawan Goyal
+url: http://arxiv.org/abs/2608.29324v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Padārtha: Ontology-Grounded Fine-Grained NER Benchmark for Classical Sanskrit
+
+## Abstract
+Annotation schemas are not neutral. When applied to classical literature, tag sets developed for modern journalistic texts impose source-culture definitions on texts they were never designed to describe. We instead ground a schema in the tradition of the text itself introducing \textit{Padārtha}, the first ontology-grounded fine-grained Named Entity Recognition (NER) benchmark for Sanskrit, built on the \textit{Mahābhārata} epic. Our tag set derives from \textit{Nyāya-Vaiśesika}, a classical Indian ontological system, yielding 18 fine-grained categories organized under 10 ontological nodes and mapped onto five standard coarse tags, ensuring interoperability with existing benchmarks. Expert annotators label over 12.6K entries from a scholarly index of named entities, linked to corresponding mentions in the \textit{Mahānāma} corpus, producing fine-grained annotations for 108,335 entity mentions across 73,632 verses, along with a 5,000-verse expert-verified test set sampled to stress rare mentions. We present the first systematic benchmarking of generative NER against traditional architectures for Sanskrit, finding that fine-tuned generative models perform comparably to task-specific systems. However, all systems show a sharp decline from coarse to fine granularity and struggle with out-of-entity mentions unseen during training. The limitation is not due to data scarcity alone, as fine-tuned models recall unseen entities far worse than seen ones and tend to default to the majority sense under lexical ambiguity.
+
+## Metadata
+- **Published**: 2026-08-29T15:09:31Z
+- **Authors**: Sujoy Sarkar, Pretam Ray, Paramhans Shah, Manoj Balaji Jagadeeshan, Akash Gairola, Arjuna S R, Pawan Goyal
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.29324v1)

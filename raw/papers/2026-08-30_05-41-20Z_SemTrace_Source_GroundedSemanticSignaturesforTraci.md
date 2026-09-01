@@ -1,0 +1,18 @@
+---
+title: SemTrace: Source-Grounded Semantic Signatures for Tracing LLM Exposure to Protected Documents
+published: 2026-08-30T05:41:20Z
+authors: Junyan Zhang, Yudong Zeng, Yongwei Huang, Zuhao Ouyang, Hong Chen, Xuming Hu
+url: http://arxiv.org/abs/2608.29575v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SemTrace: Source-Grounded Semantic Signatures for Tracing LLM Exposure to Protected Documents
+
+## Abstract
+Large language models are increasingly used to read documents and produce downstream text, creating a provenance problem when the document owner cannot control or inspect the model that performs the generation. We introduce SemTrace, a source-grounded semantic watermark for detecting whether a generated review was influenced by a known protected manuscript copy. Rather than biasing token probabilities or imposing surface-form patterns, SemTrace constructs a document-specific binary signature from factual propositions that are directly supported by the manuscript itself. A protected PDF invisibly carries a content contract that selects one fact from each binary pair and asks an instruction-following reviewer to express those facts in fixed review slots without changing its independent evaluation. A frozen natural language inference model then decodes the resulting semantic evidence with explicit erasures and scores the recovered bits against the codeword assigned to that copy. This design targets model-agnostic, assigned-copy exposure detection while keeping the watermark semantically tied to the source document.
+
+## Metadata
+- **Published**: 2026-08-30T05:41:20Z
+- **Authors**: Junyan Zhang, Yudong Zeng, Yongwei Huang, Zuhao Ouyang, Hong Chen, Xuming Hu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.29575v1)

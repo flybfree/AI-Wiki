@@ -1,0 +1,18 @@
+---
+title: CARVE: Verified Expansion for Variable-Length Generation in Diffusion Language Models
+published: 2026-08-31T15:00:30Z
+authors: Wail Bouhedja, Amr Mohamed, Guokan Shang
+url: http://arxiv.org/abs/2608.30922v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# CARVE: Verified Expansion for Variable-Length Generation in Diffusion Language Models
+
+## Abstract
+Masked diffusion language models predict tokens from a partially observed response canvas, enabling bidirectional conditioning and parallel token refinement. Yet standard masked-diffusion decoders use a rigid inference interface: the number of masked positions allocated to the answer is fixed before generation begins. Choosing this length is difficult. A short canvas can truncate reasoning or code, while a long canvas wastes computation and can perturb denoising. We introduce CARVE (Counterfactual-Aware Reveal with Verified Expansion), a training-free variable-length algorithm for masked diffusion LMs. Starting from a shorter canvas, CARVE can grow the response during decoding by inserting additional [MASK] positions. Rather than keeping every insertion, CARVE tests a candidate expanded canvas and asks a counterfactual question: would the model make similar predictions for the unresolved positions in the original canvas if the extra masked space were present? The inserted masks are kept only when they induce low Jensen-Shannon (JS) divergence on aligned unresolved positions. This makes length growth a verified stability decision rather than a pure confidence heuristic. CARVE applies without retraining to both full-canvas and blockwise diffusion decoders. Across code generation and mathematical reasoning benchmarks, CARVE consistently improves average performance over fixed-length baselines across all evaluated model families. Crucially, CARVE achieves these accuracy gains while reducing inference cost, reaching half the FLOPs of fixed-length decoding in some settings.
+
+## Metadata
+- **Published**: 2026-08-31T15:00:30Z
+- **Authors**: Wail Bouhedja, Amr Mohamed, Guokan Shang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.30922v1)

@@ -1,0 +1,18 @@
+---
+title: Thesis Proposal: Toward a Human-Centered and Perspective-Aware Framework for Reproducible ML Evaluation and AI Alignment
+published: 2026-08-31T14:12:23Z
+authors: Deepak Pandita, Christopher M. Homan
+url: http://arxiv.org/abs/2608.30842v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Thesis Proposal: Toward a Human-Centered and Perspective-Aware Framework for Reproducible ML Evaluation and AI Alignment
+
+## Abstract
+Humans play a vital role at every stage of AI development, from data collection and curation to model development and evaluation. However, humans often disagree with each other and sometimes with themselves over time. It is essential to take disagreement into account when building human-centered AI systems, especially in domains where it is prevalent, such as AI safety, content moderation, or sentiment analysis. Disagreement often arises from subjective human opinion and can vary with one's identity, beliefs, and social environment. Despite this, current LLM evaluation approaches frequently rely on aggregating labels (often via plurality voting) to represent consensus, thereby obscuring minority perspectives. By failing to account for human disagreement, these evaluation methods contribute to the reproducibility crisis in AI. Human feedback is also crucial for ensuring that AI systems align with human values. For these systems to be trustworthy, it is critical to ensure that they reflect diverse human values and perspectives. In this thesis proposal, we present a human-centered and perspective-aware framework for reproducible ML evaluation and AI alignment.
+
+## Metadata
+- **Published**: 2026-08-31T14:12:23Z
+- **Authors**: Deepak Pandita, Christopher M. Homan
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.30842v1)

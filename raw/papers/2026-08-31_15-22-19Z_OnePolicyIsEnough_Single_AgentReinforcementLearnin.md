@@ -1,0 +1,18 @@
+---
+title: One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning
+published: 2026-08-31T15:22:19Z
+authors: Armin Dariani, Sifan Wu, Bang Liu, Entao Yang
+url: http://arxiv.org/abs/2608.30952v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# One Policy Is Enough: Single-Agent Reinforcement Learning Outperforms Tree Search for Chemistry Tool Learning
+
+## Abstract
+Chemistry questions often demand exact computation and database lookups that a language model cannot supply from its parameters, so it must reach for external tools. Tool use here is a three-part problem: select the right tool from a large pool, fill it with correctly typed arguments, and chain calls so that each consumes the outputs of the last. CheMatAgent, a previously published system, addresses this with hierarchical evolutionary MCTS: separate policy and execution models searching tool-call trees under two learned critics, one regressed partly onto GPT-assigned scores. We show that a single policy suffices. Our model interleaves reasoning, tool calls, and returns in one left-to-right generation, trained by a supervised warm-up and then outcome-level reinforcement learning against a programmatic reward read directly off the gold call chain, which leaves no learned critic and no judge in the training loop. On ChemToolBench multiple-tool comprehensive chemistry, on both backbones CheMatAgent use, we improve Tool F1 by 5.5% and Return F1 by 9.6% on Qwen-2.5-7B, and by 3.7% and 3.9% on Llama-3.1-8B, compared with their strongest search configuration, at one model invocation per question, against a search whose cost grows with the tree; we also lead answer Pass Rate on Qwen-2.5-7B.
+
+## Metadata
+- **Published**: 2026-08-31T15:22:19Z
+- **Authors**: Armin Dariani, Sifan Wu, Bang Liu, Entao Yang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.30952v1)

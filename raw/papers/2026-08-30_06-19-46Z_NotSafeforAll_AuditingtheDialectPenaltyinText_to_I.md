@@ -1,0 +1,18 @@
+---
+title: Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines
+published: 2026-08-30T06:19:46Z
+authors: Minkyu Kim, Juhwan Choi, YoungBin Kim
+url: http://arxiv.org/abs/2608.29589v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Not Safe for All: Auditing the Dialect Penalty in Text-to-Image Safety Pipelines
+
+## Abstract
+Text-to-image (T2I) safety guardrails fail to generalize equitably to non-standard dialects. Evaluating 23,080 paired prompts across five English dialects, we formalize this failure as the dialect penalty, where filters trigger based on linguistic surface features rather than semantic intent. Text-level filters fail in opposing directions: NSFW-T over-flags benign dialect prompts and LatentGuard over-flags toxic ones (bias gaps up to +28.29 pp), while the OpenAI Moderation API under-detects them. A controlled typo ablation confirms this penalty originates from flagging dialectal features, not generic out-of-distribution sensitivity. The pixel-level generator is largely dialect-agnostic; the penalty enters at text processing and cascades unevenly to post-hoc guardrails. We show this bias tracks training data imbalance and is mitigable via group-balanced retraining, with an ablation attributing the gain to balanced exposure rather than to the worst-group objective of GroupDRO (group distributionally robust optimization). Current pipelines systematically fail dialect speakers, an equity failure masked by mean accuracy benchmarks. Our official code and dataset are publicly available at https://github.com/minguinho26/dialect-penalty-t2i.   Content Warning: This paper contains offensive, toxic, or disturbing text prompts and generated images.
+
+## Metadata
+- **Published**: 2026-08-30T06:19:46Z
+- **Authors**: Minkyu Kim, Juhwan Choi, YoungBin Kim
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.29589v1)

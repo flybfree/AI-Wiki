@@ -1,0 +1,18 @@
+---
+title: ASTRA - Agentic System for Ticket Resolution and Analysis
+published: 2026-08-28T18:50:17Z
+authors: Shashidhar Reddy Javaji, Mohamed Trabelsi, Jin Cao, Huseyin Uzunalioglu
+url: http://arxiv.org/abs/2608.28790v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ASTRA - Agentic System for Ticket Resolution and Analysis
+
+## Abstract
+Technical operations teams resolve large volumes of incidents by synthesizing fragmented evidence from ticket text, historical cases, system logs, and technical documentation. Existing automation often relies on monolithic generation without explicit evidence modeling or provenance, making outputs difficult to verify when critical signals are sparse across sources. We propose ASTRA, an agentic system for ticket resolution in which a central orchestrator coordinates three specialist information-gathering agents and drives a judge-orchestrator refinement loop to produce evidence-backed troubleshooting reports. TicketSimilarityAgent retrieves relevant historical precedents through dense retrieval and LLM reranking; LogAgent distills hundreds of thousands of log lines into structured, quote-grounded findings using deterministic filtering and constrained LLM analysis; and DomainKnowledgeAgent retrieves relevant technical knowledge via the Model Context Protocol (MCP). Their outputs are transformed into a claim-evidence representation linking each claim to a verbatim source passage, assigning a support level, and preventing cross-attribution. A JudgeAgent scores the report on five criteria, while the OrchestratorAgent converts low scores into targeted follow-up queries for bounded iterative refinement. Evaluated on 987 real-world telecom fault tickets across seven product lines, ASTRA achieves a mean quality score of 4.13/5.0, with 59.9% of reports identifying the fault area at the component-family level or better. Relevance and Clarity scores are 4.88 and 4.94, respectively, while fabricated technical details remain below 3% of error cases. Stratification by fault type reveals that hardware faults remain substantially harder than software or configuration faults (Cohen's d=0.80), pointing to a fundamental limitation of text-based evidence channels for hardware fault diagnosis.
+
+## Metadata
+- **Published**: 2026-08-28T18:50:17Z
+- **Authors**: Shashidhar Reddy Javaji, Mohamed Trabelsi, Jin Cao, Huseyin Uzunalioglu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.28790v1)

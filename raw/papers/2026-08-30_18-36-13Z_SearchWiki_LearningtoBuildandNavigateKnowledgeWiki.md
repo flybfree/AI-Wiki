@@ -1,0 +1,18 @@
+---
+title: SearchWiki: Learning to Build and Navigate Knowledge Wikis for Active Information Seeking
+published: 2026-08-30T18:36:13Z
+authors: Guransh Singh, Vishwajeet Kumar, Arkadeep Acharya, Adnan Qidwai, Jaydeep Sen, Sachindra Joshi
+url: http://arxiv.org/abs/2608.29953v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SearchWiki: Learning to Build and Navigate Knowledge Wikis for Active Information Seeking
+
+## Abstract
+Flat retrieval-augmented generation treats a corpus as a bag of chunks, discarding document hierarchy and cross document structure. We introduce SearchWiki, a harness framework that synthesizes a corpus into a hierarchical, typed, navigable wiki and trains an agent, WikiResearcher-9B, to retrieve information through multi-turn tool use. The wiki organizes knowledge into three layers - document overviews, cross- document topic pages, and page-level source records; enabling progressive refinement of retrieval when initial lookup misses. We optimize the agent's navigation policy with on-policy reinforcement learning with a multi-component reward function balancing answer correctness, retrieval quality and trajectory efficiency. Evaluation on ViDoRe-V3 (8 domains), FinanceBench, and memory benchmarks (LoCoMo, LongMemEval, PersonaMem-v2) shows that WikiResearcher- 9B which is our RL-tuned Qwen 9B model, significantly outperforms same-size untrained baselines and exceeds or matches larger external models. SearchWiki paired with WikiResearcher-9B demonstrates that learned navigation over structured corpora is a superior alternative to flat retrieval.
+
+## Metadata
+- **Published**: 2026-08-30T18:36:13Z
+- **Authors**: Guransh Singh, Vishwajeet Kumar, Arkadeep Acharya, Adnan Qidwai, Jaydeep Sen, Sachindra Joshi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.29953v1)

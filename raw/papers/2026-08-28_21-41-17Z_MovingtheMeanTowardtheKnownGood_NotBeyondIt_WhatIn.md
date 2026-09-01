@@ -1,0 +1,18 @@
+---
+title: Moving the Mean Toward the Known Good, Not Beyond It: What Inference-Time Interventions and Weight Consolidation Buy in Open-Ended Generation
+published: 2026-08-28T21:41:17Z
+authors: Roberto I. Ono Filho
+url: http://arxiv.org/abs/2608.28886v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Moving the Mean Toward the Known Good, Not Beyond It: What Inference-Time Interventions and Weight Consolidation Buy in Open-Ended Generation
+
+## Abstract
+What does a generation loop gain from learning on its own verified successes? In cycles of generate, verify, select and LoRA-consolidate on online bin packing, training on value-filtered candidates shifts what the model writes on held-out variants toward value (-1.7 points of excess, p=0.008; -3.1 against a random-consolidation control, p=0.004) while the best observed candidate converges to the classic heuristic's level and no further. A confirmation battery replicates the whole procedure three times, with fresh seeds and a never-consulted held-out set read exactly once: the mean was nearly identical in all three lineages (-2.0, -1.8, -1.9), and after aggregating within held-out variant all seven evaluable variants favored consolidation (p=0.008). The best observed candidate moved to the classic heuristic's level, exactly (0.021028 in all three lineages, for attract and for the random control alike), and never beyond it. A matched SFT-only control shows the supervised anchor, not repulsion from bad candidates, does the concentrating (96% of candidates land exactly at the classic heuristic's level). The tails cut both ways: consolidation lowers the per-candidate rate of better-than-classic candidates (10% to 3.9%) while its larger production yields more such candidates absolutely (5 against 1, on few events). As motivation we report the inference-time ledger that led here: a model-written schematic recap buys judged document integration and nothing buys development; a verifier written into the stream is imitated, 16.4 fabricated verdict lines per notebook. Mean quality among valid candidates can be bought and replicated; the observed best goes to the classic and, so far, never beyond it.
+
+## Metadata
+- **Published**: 2026-08-28T21:41:17Z
+- **Authors**: Roberto I. Ono Filho
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.28886v1)

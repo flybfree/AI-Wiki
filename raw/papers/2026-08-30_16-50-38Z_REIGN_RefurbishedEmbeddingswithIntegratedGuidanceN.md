@@ -1,0 +1,18 @@
+---
+title: REIGN: Refurbished Embeddings with Integrated Guidance Networks for Efficient Context-Length Scaling
+published: 2026-08-30T16:50:38Z
+authors: Devrim Çavuşoğlu, Emre Akbaş
+url: http://arxiv.org/abs/2608.29899v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# REIGN: Refurbished Embeddings with Integrated Guidance Networks for Efficient Context-Length Scaling
+
+## Abstract
+Dense retrieval over long documents is expensive. Token-level encoders scale quadratically in sequence length, and most long-context embedding models reach 32K tokens only through architectural workarounds or by stretching billion-parameter LLMs. We propose REIGN (Refurbished Embeddings with Integrated Guidance Networks), a contrastively trained bi-encoder that operates on sequences of contextualised chunk embeddings from a frozen Guidance Network (GN) rather than on raw tokens. REIGN targets multi-chunk inputs, primarily for document-to-document retrieval; single-chunk inputs stay with the GN. Decoupling token-level processing from document-level reasoning, and caching the GN embeddings to disk, cuts per-document training cost by roughly four orders of magnitude relative to chunked Transformer fine-tuning. We also release a synthetic long-document retrieval benchmark for contrastive training and evaluation at long context lengths. Across an in-distribution Wikipedia benchmark, the LoCo out-of-distribution suite, and a real-world patent retrieval case study, REIGN matches dense long-context retrievers at smaller parameter budgets in each regime. A paired significance test puts it on par with models 1.6-4.3x larger on the patent task, and it stays within 0.65 nDCG@10 of a 20x-larger model on LoCo.
+
+## Metadata
+- **Published**: 2026-08-30T16:50:38Z
+- **Authors**: Devrim Çavuşoğlu, Emre Akbaş
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.29899v1)

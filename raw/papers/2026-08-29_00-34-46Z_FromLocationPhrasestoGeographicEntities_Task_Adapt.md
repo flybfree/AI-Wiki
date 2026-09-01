@@ -1,0 +1,18 @@
+---
+title: From Location Phrases to Geographic Entities: Task-Adapted Retrieval for People Search
+published: 2026-08-29T00:34:46Z
+authors: Yanbo Li, Chujie Zheng, Jiahao Xu, Chetan Bhole, Lingyu Zhang, Puneet Singh Ahluwalia, Kevin Nguyen, Raghavan Muthuregunathan, Santhosh Sachindran, Sachin Ahuja, Fedor Borisyuk
+url: http://arxiv.org/abs/2608.28965v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# From Location Phrases to Geographic Entities: Task-Adapted Retrieval for People Search
+
+## Abstract
+People search must map free-form location phrases to geographic entities used as structured retrieval filters. Lexical standardizers handle canonical names well but are brittle to aliases, misspellings, metropolitan expressions, and same-name ambiguity. We formulate this task as graded, set-valued entity retrieval over a fixed ontology. We identify three coupled design requirements: distinguishing identity-preserving variation from knowledge-dependent aliases, controlling false negatives among valid same-name entities, and separating stable transformations from mutable entity knowledge. We realize them in a prompt-asymmetric bi-encoder with calibrated alias support, bounded ambiguity-aware negatives, and editable entity documents that support localized updates without retraining.   Across a fixed production-derived development benchmark and a public GeoNames transfer task, task adaptation improves substantially over frozen encoders and standard token baselines. Controlled development ablations show that specialized supervision contributes beyond standard task fine-tuning and encoder scaling. On GeoNames, the adapted model improves known-target Recall@1 throughout zero-to-moderate character overlap, while character n-grams retain a small aggregate Target Recall@5 advantage. In a blinded human comparison on a stratified production challenge set, our model raises relevant P@1 from 28.0% to 46.0% (p=0.012). Fixed-query endpoint estimates improve on non-canonical queries and remain close to control on frequent queries; a randomized live experiment detects no engagement regression. These results support task-adapted geographic entity retrieval as a practical replacement for the incumbent taxonomy-based standardizer, with the largest relevance gains on non-canonical queries.
+
+## Metadata
+- **Published**: 2026-08-29T00:34:46Z
+- **Authors**: Yanbo Li, Chujie Zheng, Jiahao Xu, Chetan Bhole, Lingyu Zhang, Puneet Singh Ahluwalia, Kevin Nguyen, Raghavan Muthuregunathan, Santhosh Sachindran, Sachin Ahuja, Fedor Borisyuk
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.28965v1)

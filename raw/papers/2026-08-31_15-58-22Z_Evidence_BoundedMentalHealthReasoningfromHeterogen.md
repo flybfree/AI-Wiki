@@ -1,0 +1,18 @@
+---
+title: Evidence-Bounded Mental Health Reasoning from Heterogeneous Speech Protocols
+published: 2026-08-31T15:58:22Z
+authors: Chengyuan Gao, Jiang Wu, Tao Lu, Jiayan Guo, Mingkun Xu, Tianyi Zang, Shangyang Li
+url: http://arxiv.org/abs/2608.31014v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Evidence-Bounded Mental Health Reasoning from Heterogeneous Speech Protocols
+
+## Abstract
+Computational mental health screening using multimodal speech and text has shown great promise. However, existing models often assume all clinical speech protocols carry equivalent evidentiary validity. In reality, heterogeneous protocols, from free interviews to fixed reading tasks, support fundamentally different evidence. Forcing uniform reasoning flattens these boundaries, causing models to hallucinate symptoms from irrelevant text or overclaim support. Even advanced long chain-of-thought LLMs fail to resolve this issue, as free-form reasoning can exacerbate boundary violations. To address this, we reformulate multimodal screening as an evidence-bounded reasoning problem. We introduce the Evidence Package Benchmark, integrating 1,870 packages across six heterogeneous sources with explicit modality masks and evidence permissions. We further propose EviBound, a protocol-aware evidence control framework. Unlike direct LLM prompting, EviBound uses a profile-aware planner to restrict reasoning scope, orchestrates evidence tools via five-way acoustic consensus, and enforces a boundary critic to suppress unsupported claims. Empirical results show EviBound achieves a held-out test Depression AUROC of 0.8658, exceeding the strongest direct omni-modal baseline by +0.0811 AUROC while maintaining zero claim violations. Our work moves beyond unconstrained accuracy toward evidence-consistent, protocol-aware systems for safer clinical NLP research.
+
+## Metadata
+- **Published**: 2026-08-31T15:58:22Z
+- **Authors**: Chengyuan Gao, Jiang Wu, Tao Lu, Jiayan Guo, Mingkun Xu, Tianyi Zang, Shangyang Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.31014v1)

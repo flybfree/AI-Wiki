@@ -1,0 +1,18 @@
+---
+title: ReTrace: Rejected-Trajectory Conditioning for Speculative Decoding
+published: 2026-08-30T12:20:54Z
+authors: Luxi Lin, Zhanpeng Zeng, Shuang Peng, Songwei Liu, Rongrong Ji
+url: http://arxiv.org/abs/2608.29748v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ReTrace: Rejected-Trajectory Conditioning for Speculative Decoding
+
+## Abstract
+Speculative decoding accelerates autoregressive language model inference by having a lightweight draft model propose multiple candidate tokens, which are then verified in parallel by a larger target model. However, after the first rejection, standard prefix-based verification discards the remaining draft suffix, so the computation spent generating and verifying those positions does not contribute to decoding progress. Focusing on DFlash, we show that rejected positions in a rejected suffix may still align with the target continuation, indicating that the draft model can retain useful semantic and structural information despite local token-level errors. Motivated by this observation and inspired by conditional diffusion, we introduce~\textbf{ReTrace}, a rejected-trajectory conditioning method that conditions each draft block on the rejected suffix from the previous round rather than generating it from fresh mask placeholders alone. ReTrace retains the hidden representations of the rejected suffixes, aligns them with the next draft block, refines them using target-aware correction signals from the same verification pass, and admits them into the drafter's input embeddings through gated residual fusion. Because rejected tokens are never committed and target-side verification remains unchanged, ReTrace preserves the lossless property of speculative decoding without requiring an additional model forward pass. Experiments with Qwen3 models across mathematical reasoning, code generation, and open-ended dialogue demonstrate that ReTrace consistently improves average acceptance length and end-to-end decoding speed over its DFlash backbone. By introducing cross-round conditioning without modifying within-round proposal generation, ReTrace is largely orthogonal to existing drafting improvements and might be combined with them for further gains.
+
+## Metadata
+- **Published**: 2026-08-30T12:20:54Z
+- **Authors**: Luxi Lin, Zhanpeng Zeng, Shuang Peng, Songwei Liu, Rongrong Ji
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.29748v1)

@@ -2485,3 +2485,13 @@ tags: ['wiki']
 - [[2026-08-31_TimesFM-3_Azero-shotfoundationmodelformultivariate.md]] : TimesFM-3: A zero-shot foundation model for multivariate forecasting
 - [[2026-08-31_MicrosoftDetailsAIContainmentStrategiesforAutonomo.md]] : Microsoft Details AI Containment Strategies for Autonomous Agents
 - [[2026-08-31_HarvardLawdropoutraises_6MforBlueVoicetobuilda_Har.md]] : Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’
+- [[2026-08-31_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[2026-08-31_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-08-31_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-08-31_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-08-31_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-08-31_PolimillbuildsJapan_snext-generationpublicAIinfras.md]] : Polimill builds Japan's next-generation public AI infrastructure
+- [[2026-08-31_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-08-31_News.md]] : News
+- [[2026-08-31_Appleshares_shockingevidence_againstformeremployee.md]] : Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI
+- [[2026-08-31_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
