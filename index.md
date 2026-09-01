@@ -2516,3 +2516,7 @@ tags: ['wiki']
 - [[2026-09-01_Fambotintroducesan_AIchiefofstaff_forfamilies.md]] : Fambot introduces an ‘AI chief of staff’ for families
 - [[2026-09-01_PlayStoreblocksAuroraStore_hurtingGrapheneOSusers.md]] : Play Store blocks AuroraStore, hurting GrapheneOS users
 - [[2026-09-01_ChatGPTHealthaddsEpicintegrationforclinicianstoimp.md]] : ChatGPT Health adds Epic integration for clinicians to import patient data
+- [[2026-09-01_Google_sanswertoCanvaisanAItoolwhereyoupromptinste.md]] : Google’s answer to Canva is an AI tool where you prompt instead of design
+- [[2026-09-01_ClaudeFable5_1andClaudeMythos5_1.md]] : Claude Fable 5.1 and Claude Mythos 5.1
+- [[2026-09-01_OpenAIdelayeditsnewmodel_sdevelopmentaftertheHuggi.md]] : OpenAI delayed its new model’s development after the Hugging Face hack
+- [[2026-09-01_OpenAI_sAstramodelisontheway_andverygoodatbreaking.md]] : Open AI’s Astra model is on the way—and very good at breaking into computer systems

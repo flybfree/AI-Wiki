@@ -11807,3 +11807,7 @@ tags: ['wiki']
 ## [2026-09-01 10:19] ingest | 2026-09-01_Fambotintroducesan_AIchiefofstaff_forfamilies.md
 ## [2026-09-01 12:19] ingest | 2026-09-01_PlayStoreblocksAuroraStore_hurtingGrapheneOSusers.md
 ## [2026-09-01 12:19] ingest | 2026-09-01_ChatGPTHealthaddsEpicintegrationforclinicianstoimp.md
+## [2026-09-01 13:13] ingest | 2026-09-01_Google_sanswertoCanvaisanAItoolwhereyoupromptinste.md
+## [2026-09-01 14:19] ingest | 2026-09-01_ClaudeFable5_1andClaudeMythos5_1.md
+## [2026-09-01 16:19] ingest | 2026-09-01_OpenAIdelayeditsnewmodel_sdevelopmentaftertheHuggi.md
+## [2026-09-01 16:19] ingest | 2026-09-01_OpenAI_sAstramodelisontheway_andverygoodatbreaking.md
