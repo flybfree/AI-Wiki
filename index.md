@@ -118,6 +118,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-30.md|Summary: Daily AI Intelligence Briefing — 2026-08-30]] — task-specific training, governed model distribution, and end-to-end deployment systems
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md|Summary: Daily AI Intelligence Briefing — 2026-08-31]] — domain expertise inside workflows, evidence-gated open weights, and contract-governed model access
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-02.md|Summary: Daily AI Intelligence Briefing — 2026-09-02]] — evaluation containment, long-running agents, domain expertise, open-weight release gates, and compute sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-01.md|Summary: Daily AI Intelligence Briefing — 2026-09-01]] — containment failures, native task structure, governed institutional deployment, and infrastructure sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-23.md|Summary: 2026-07-23 Daily AI Intelligence Summary]] — compute, product surfaces, safety, and AI economics
 - [[concepts/knowledge-management/hostinger-daily-ai-blog-template.md|Hostinger Daily AI Intelligence Blog Template]] — Hostinger-ready public blog template with inline sources and reference block
@@ -2533,3 +2534,5 @@ tags: ['wiki']
 - [[2026-09-02_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
 - [[2026-09-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[2026-09-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-09-02_AfterQueryreportedlybecomesYCombinator_sfastest-ev.md]] : AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B
+- [[2026-09-02_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED

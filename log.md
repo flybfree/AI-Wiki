@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-02 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-02.md and rolling summary refreshed from 13 raw AI-only captures; 10 retained/deferred source items after deduplication; Qwen generic news and unsupported SpaceXAI claims excluded; 0 new target-date papers retained; arXiv sweep logged 2,150 unique entries and 534 high-priority candidates; wiki/Logseq mirrors created
+
 ## [2026-09-02 00:01] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-01.md finalized for the canonical midnight edition; complete curation query returned 0 target-date keeps and 0 uncovered carry-forward papers; AI-only intake retained; wiki/Logseq mirror byte-identical; GitHub commit 35255cf4 pushed and origin/master verified; Lumistorm post 178 published at https://lumistorm.net/daily-ai-intelligence-2026-09-01/; REST and cache-busted live-page checks passed
 
 ## [2026-09-01 00:00] publish | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-01.md created with 11 AI-only included/deferred items after deduplication; Fastpotify, generic Qwen news, and speculative GPUWorld excluded; 0 new target-date papers retained; ArXiv scout logged 1,650 entries and 512 high-priority candidates; wiki/Logseq mirror created
@@ -12140,3 +12142,5 @@ tags: ['wiki']
 ## [2026-09-02 00:26] ingest | 2026-09-02_Newsroom_Anthropic.md
 ## [2026-09-02 00:26] ingest | 2026-09-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md
 ## [2026-09-02 00:26] ingest | 2026-09-02_OpenAINews_OpenAI.md
+## [2026-09-02 01:24] ingest | 2026-09-02_AfterQueryreportedlybecomesYCombinator_sfastest-ev.md
+## [2026-09-02 01:56] ingest | 2026-09-02_TheSafetyReckoningInsideOpenAI_WIRED.md

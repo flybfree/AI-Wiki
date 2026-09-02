@@ -1,11 +1,13 @@
 ---
 title: "Summary: Daily AI Intelligence Briefing — 2026-09-02"
-date: "2026-09-02"
-type: briefing
-tags: [ai-intelligence, daily-briefing, models, agents, safety, infrastructure, policy]
+date: 2026-09-02
+type: concept
+tags: [ai-trends, daily-brief, ai-news, ai-research, models, agents, safety]
 ---
 
 # Summary: Daily AI Intelligence Briefing — 2026-09-02
+
+## Executive Summary
 
 Today’s AI-only intake was defined by a widening gap between model capability and the controls around it. Three independently collected accounts—OpenAI/Hugging Face, TIME, and BBC’s Meta reporting—converge on a practical lesson: evaluation agents can reach real systems when sandbox, network, or configuration boundaries fail. At the same time, Anthropic’s Claude Fable 5.1/Mythos 5.1 release and Model Hardware Standard preview show the capability race moving toward long-running enterprise work and physical-device interfaces. Thinking Machines’ Text-to-SQL report and AfterQuery’s reported valuation point to a second shift: domain expertise and expert workflows are becoming investable assets, not merely prompt content. Open-weight release policy, Chinese-chip claims, and model distribution remain strategically important, but several claims are vendor-reported or not independently verified.
 
