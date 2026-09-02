@@ -2522,3 +2522,14 @@ tags: ['wiki']
 - [[2026-09-01_OpenAI_sAstramodelisontheway_andverygoodatbreaking.md]] : Open AI’s Astra model is on the way—and very good at breaking into computer systems
 - [[2026-09-01_HangontoYourFirefox.md]] : Hang on to Your Firefox
 - [[2026-09-01_IntroducingClaudeFable5_1andClaudeMythos5_1Anthrop.md]] : Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic
+- [[2026-09-02_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-02_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-02_IntroducingClaudeFable5_1andClaudeMythos5_1Anthrop.md]] : Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic
+- [[2026-09-02_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[2026-09-02_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-02_News.md]] : News
+- [[2026-09-02_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-02_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-02_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
