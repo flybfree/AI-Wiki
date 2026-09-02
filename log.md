@@ -12148,3 +12148,5 @@ tags: ['wiki']
 ## [2026-09-02 07:25] ingest | 2026-09-02_Surprise_Z_aiistheAIlabbehindthemysteriousOxAlpham.md
 ## [2026-09-02 09:23] ingest | 2026-09-02_ANotefromLWN.md
 ## [2026-09-02 11:24] ingest | 2026-09-02_Gemini3_8Flash.md
+## [2026-09-02 12:23] ingest | 2026-09-02_ResearchersfearsafetydisasteraheadofOpenAI__8217_s.md
+## [2026-09-02 12:23] ingest | 2026-09-02_Gemini3_8Flashand3_8FlashCyber.md

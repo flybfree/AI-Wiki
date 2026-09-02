@@ -2540,3 +2540,5 @@ tags: ['wiki']
 - [[2026-09-02_Surprise_Z_aiistheAIlabbehindthemysteriousOxAlpham.md]] : Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model | TechCrunch
 - [[2026-09-02_ANotefromLWN.md]] : A Note from LWN
 - [[2026-09-02_Gemini3_8Flash.md]] : Gemini 3.8 Flash
+- [[2026-09-02_ResearchersfearsafetydisasteraheadofOpenAI__8217_s.md]] : Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release
+- [[2026-09-02_Gemini3_8Flashand3_8FlashCyber.md]] : Gemini 3.8 Flash and 3.8 Flash Cyber
