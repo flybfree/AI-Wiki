@@ -2542,3 +2542,5 @@ tags: ['wiki']
 - [[2026-09-02_Gemini3_8Flash.md]] : Gemini 3.8 Flash
 - [[2026-09-02_ResearchersfearsafetydisasteraheadofOpenAI__8217_s.md]] : Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release
 - [[2026-09-02_Gemini3_8Flashand3_8FlashCyber.md]] : Gemini 3.8 Flash and 3.8 Flash Cyber
+- [[2026-09-02_Pangram_sMaxSperoonwhyAIdetectionisharderthan_Real.md]] : Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’
+- [[2026-09-02_MuseSpark1_3.md]] : Muse Spark 1.3
