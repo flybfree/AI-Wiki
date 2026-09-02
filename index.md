@@ -2544,3 +2544,4 @@ tags: ['wiki']
 - [[2026-09-02_Gemini3_8Flashand3_8FlashCyber.md]] : Gemini 3.8 Flash and 3.8 Flash Cyber
 - [[2026-09-02_Pangram_sMaxSperoonwhyAIdetectionisharderthan_Real.md]] : Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’
 - [[2026-09-02_MuseSpark1_3.md]] : Muse Spark 1.3
+- [[2026-09-02_ATVBigAirTourturned3daysofworkinto3hourswithChatGP.md]] : ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
