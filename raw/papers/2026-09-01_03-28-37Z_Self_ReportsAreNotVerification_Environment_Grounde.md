@@ -1,0 +1,18 @@
+---
+title: Self-Reports Are Not Verification: Environment-Grounded Auditing of LLM Operators in Evolutionary Search
+published: 2026-09-01T03:28:37Z
+authors: Enrong Pan, Ryan Zhou, Ting Hu
+url: http://arxiv.org/abs/2609.00652v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Self-Reports Are Not Verification: Environment-Grounded Auditing of LLM Operators in Evolutionary Search
+
+## Abstract
+Language model agents increasingly propose actions, observe external feedback, and explain their own behavior. Their confidence and rationales are convenient monitoring signals, but convenience is not verification. We introduce an environment-grounded audit in which every intermediate proposal receives an exact outcome. A language model operates an evolutionary Contexto search whose feedback function assigns every valid guess an exact rank without human annotation. Across 200 runs spanning five configurations and three model families, four reporting configurations produce 12,249 self-reports. We test three assumptions: stated confidence is calibrated, inherited rationales affect later proposals, and fitness-based selection improves report quality. All three fail. Operators overstate top-100 success by factors of 4.8 to 9.3, while calibration and discrimination dissociate across model families. Controlled interventions on 754 inherited rationales bound any measured benefit of the genuine rationale to roughly 250 ranks. Neither fitness-based nor random selection produces a detectable selection differential or parent-to-offspring transmission in report accuracy, despite sharply different search behavior. Agent self-reports should therefore be treated as claims to verify against the environment, not as evidence of their own reliability.
+
+## Metadata
+- **Published**: 2026-09-01T03:28:37Z
+- **Authors**: Enrong Pan, Ryan Zhou, Ting Hu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.00652v1)

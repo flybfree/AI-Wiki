@@ -1,0 +1,18 @@
+---
+title: CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?
+published: 2026-09-01T17:59:13Z
+authors: Damien Sileo, Dimitri Kachler
+url: http://arxiv.org/abs/2609.01600v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# CordisBench: Can Language Models Reason About Component Lifecycles in Dynamic Agent Harnesses?
+
+## Abstract
+Dynamic agent harnesses let language models change the software that shapes their own execution. This flexibility brings a new reasoning burden: a local plugin change can propagate through dependencies and cleanup. We introduce CordisBench, a 1,200-question benchmark of this lifecycle reasoning. It combines a controlled formal setting with programs executed against Cordis, a runtime that manages component dependencies and cleanup, and asks models to identify affected components, predict state after a specified teardown order, determine which conditions hold under all or some orders, and choose reconfigurations that succeed when executed. Across these tasks, we evaluate three efficiency-oriented models at low reasoning effort with 2, 4, 8, 16, 24, or 32 relevant interactions, using deterministic task-specific scoring. Models usually handle small systems well but grow less reliable as more interactions become relevant, especially when predicting final state and when reasoning across teardown orders. Additional inference effort recovers marked gains for some models. The cost is nontrivial: on our 16-interaction subset, GPT-5.6 Luna uses nearly 3,000 reasoning tokens per question at medium effort. For these controlled instances, that cost is avoidable: an independent finite reference semantics agrees with Cordis execution on every observation and action outcome used for scoring across all 528 executable questions.
+
+## Metadata
+- **Published**: 2026-09-01T17:59:13Z
+- **Authors**: Damien Sileo, Dimitri Kachler
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.01600v1)

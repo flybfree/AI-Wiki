@@ -1,0 +1,18 @@
+---
+title: Rock, Paper, Scissors, ... Dynamite - A Model of Disruption from New Technologies
+published: 2026-08-31T18:18:02Z
+authors: Andrew J. Lohn
+url: http://arxiv.org/abs/2609.00207v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Rock, Paper, Scissors, ... Dynamite - A Model of Disruption from New Technologies
+
+## Abstract
+We seek to understand the effect of adding disruptive highly-capable new technologies to competitions by assessing the addition of Dynamite to Rock-Paper-Scissors. We find that providing a versatile Dynamite move to only one player provides limited value (win probability increases from 50% to 55.5%) and is played rarely. That value decreases further if the game is expanded beyond just the original three moves. We also observe several mechanisms by which prior moves can become strategically unplayable, or obsolete. We hope that this model illustrates some non-intuitive aspects of developing new versatile technologies. We also hope that it illustrates some pitfalls for developers and integrators to avoid in order to create value rather than merely capability.
+
+## Metadata
+- **Published**: 2026-08-31T18:18:02Z
+- **Authors**: Andrew J. Lohn
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.00207v1)

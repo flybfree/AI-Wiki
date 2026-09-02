@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-08-31
+> Last updated: 2026-09-02
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -2520,3 +2520,5 @@ tags: ['wiki']
 - [[2026-09-01_ClaudeFable5_1andClaudeMythos5_1.md]] : Claude Fable 5.1 and Claude Mythos 5.1
 - [[2026-09-01_OpenAIdelayeditsnewmodel_sdevelopmentaftertheHuggi.md]] : OpenAI delayed its new model’s development after the Hugging Face hack
 - [[2026-09-01_OpenAI_sAstramodelisontheway_andverygoodatbreaking.md]] : Open AI’s Astra model is on the way—and very good at breaking into computer systems
+- [[2026-09-01_HangontoYourFirefox.md]] : Hang on to Your Firefox
+- [[2026-09-01_IntroducingClaudeFable5_1andClaudeMythos5_1Anthrop.md]] : Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic

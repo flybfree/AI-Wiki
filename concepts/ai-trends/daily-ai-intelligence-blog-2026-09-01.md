@@ -85,6 +85,14 @@ OpenAI’s [newsroom](https://openai.com/news/) also shows continued expansion a
 - **Defer:** Vendor-reported xAI product claims and Z.ai’s unverified hardware-count claim pending independent corroboration.
 - **Papers:** No new target-date ArXiv paper retained.
 
+## Final Curation and Publication Audit
+
+- Target date: **2026-09-01** (canonical midnight edition)
+- Target-date curation decisions: **0 keep rows; 0 unique papers**
+- Previously kept, uncovered papers carried forward: **0**
+- Final retained research-paper links: **0**
+- The complete curation store was checked, duplicate identities were normalized, and no paper-link chain was required for this edition.
+
 ## Source Links
 
 - [OpenAI: The Hugging Face incident and the road ahead](https://openai.com/index/hugging-face-incident-and-the-road-ahead/)
@@ -99,3 +107,7 @@ OpenAI’s [newsroom](https://openai.com/news/) also shows continued expansion a
 - [Z.ai and Chinese chips — CNBC](https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html)
 - [xAI Newsroom](https://x.ai/news)
 - [Daily AI Intelligence Briefing — 2026-08-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md)
+
+## CTA
+
+For the next edition, follow the same operational checklist: verify model-and-harness containment, demand reproducible domain evaluations, and track whether institutional deployments add real auditability rather than only broader access.

@@ -1,0 +1,18 @@
+---
+title: EGT-KG: Evidence-Grounded Typed KG Retrieval for Practical Scientific QA with Small Language Models
+published: 2026-08-31T23:27:57Z
+authors: Muran Yu, Jiechao Gao, Yuandong Pan, Barney H. Miao, Andrew C. Lesh, Kincho H. Law, Jie Wang, Michael D. Lepech
+url: http://arxiv.org/abs/2609.00479v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# EGT-KG: Evidence-Grounded Typed KG Retrieval for Practical Scientific QA with Small Language Models
+
+## Abstract
+For emerging scientific research domains, local Small Language Models (SLMs) are becoming more attractive, as they offer stronger privacy control and more stable deployment pipelines than Large Language Models. However, in practice, scientific question-answering on SLMs often operates under inevitable constraints: small literature collections, fragmented evidence, limited context window and reasoning abilities. We propose the Evidence-Grounded Typed Knowledge Graph (EGT-KG), a retrieval framework to improve information retrieval with local SLMs. We assessed three question-answering settings: a vanilla Retrieval-Augmented Generation (RAG) workflow and two EGT-KG workflows: an automatically generated relation schema (AS) and an expert-defined relation schema (ES). Our experiments were evaluated with a six-dimensional evaluation framework (S3CRF: Soundness, Correctness, Completeness, Conciseness, Relevance, Fluency) on a Biopolymer-bound Soil Composite literature benchmark, showing that EGT-KG outperforms the vanilla RAG method in most settings, with the best improvement from llama3:8b: a Final Score of 70.37 (+14.67%) and 68.82 (+12.14%) by AS/ES EGT-KG variants.
+
+## Metadata
+- **Published**: 2026-08-31T23:27:57Z
+- **Authors**: Muran Yu, Jiechao Gao, Yuandong Pan, Barney H. Miao, Andrew C. Lesh, Kincho H. Law, Jie Wang, Michael D. Lepech
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.00479v1)

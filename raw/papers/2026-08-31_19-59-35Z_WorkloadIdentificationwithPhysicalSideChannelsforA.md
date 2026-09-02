@@ -1,0 +1,18 @@
+---
+title: Workload Identification with Physical Side Channels for AI Governance
+published: 2026-08-31T19:59:35Z
+authors: Simone Gargiulo, Gabriel Kulp
+url: http://arxiv.org/abs/2609.00309v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Workload Identification with Physical Side Channels for AI Governance
+
+## Abstract
+AI compute verification is one of the first tangible and tractable points for international policy aimed at AI governance. Determining whether frontier labs, or any operator, comply with agreements requires the regulating authority to discern how their compute is used. The elementary building block of AI compute is the GPU, and any activity it executes leaves a physical trace. Here, we show that an external observer can identify the class of the workload running on an NVIDIA H200 from its power draw. Unlike on-chip NVML telemetry, which can be spoofed or replayed, such a physical channel can in principle be observed independently of operator cooperation. We recorded $930$ five-second traces at $\sim 10$ MHz, covering seventeen open LLM families and twenty-five non-AI workloads. Over this corpus we separate training from inference and from non-AI computation with an accuracy of $97\%$ and a macro-averaged F1 score of $0.955$, evaluated on model families unseen during training. AI workload spectral content predominantly lies below $\sim 20$kHz and training is particularly recognizable through the memory-bound optimizer update. The GPU operator is then treated as adversarial and able to reshape the physical computation itself. Four evasion strategies are tested to disguise training as inference, producing an additional 680 adversarial traces. A detector hardened against evasion strategies, with the tested strategy held out, catches training $\geq 99\%$ of the time for three of the four strategies. The fourth, diluted low-rank adaptation (LoRA), is detected $48$--$88\%$ of the time with a hardened classifier, rising to $\geq 98\%$ with an additional rescue rule. While these attacks are not a comprehensive evaluation against adversarial behaviour, they offer initial insights beyond genuine activities and a dataset for developing and testing stronger evasion mechanisms.
+
+## Metadata
+- **Published**: 2026-08-31T19:59:35Z
+- **Authors**: Simone Gargiulo, Gabriel Kulp
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.00309v1)

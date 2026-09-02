@@ -1,0 +1,18 @@
+---
+title: AutoXRD: Autonomous LLM Agents and Comprehensive Evaluation for Powder Diffraction Analysis
+published: 2026-08-30T18:05:21Z
+authors: Yuetong Wu, Maojun Sun
+url: http://arxiv.org/abs/2609.00070v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# AutoXRD: Autonomous LLM Agents and Comprehensive Evaluation for Powder Diffraction Analysis
+
+## Abstract
+Powder X-ray diffraction (XRD) is central to materials characterization, yet reliable end-to-end automation remains challenging. An XRD agent must interpret diffraction evidence, operate refinement software, manage coupled parameters in a defensible order, and distinguish numerical improvement from physical validity. In this paper, we propose AutoXRD, an autonomous large language model (LLM) agent framework that organizes powder-XRD analysis as stepwise refinement, grounds actions in observed evidence, and applies deterministic crystallographic and physical checks before accepting results. We further introduce XRDBench with two complementary tracks. XRDBench-QA contains 100 bounded diagnostic tasks that isolate scientific reasoning and decision-making, whereas XRDBench-E2E contains 34 executable workflows that test whether agents can compose these capabilities into complete analyses requiring file inspection, crystallographic-software execution, iterative refinement, evidence preservation, and reporting. We evaluate ten recent LLMs across 1,340 model--task runs. Models average only 57.8 out of 100, falling from 61.9 on XRDBench-QA to 53.7 on XRDBench-E2E. They perform best on refinement-history assessment and result acceptance, but remain substantially weaker on refinement-action selection, phase quantification, indexing, and Rietveld refinement. GPT-5.6 Sol achieves the highest overall score of 81.1, GPT-5.6 Terra the highest XRDBench-E2E point estimate of 81.0, and GPT-5.6 Luna the best score--cost trade-off. Ablations show that all six AutoXRD components consistently improve performance, supporting the framework design. Finally, execution-trace analysis reveals recurring failures in coupled-parameter control, quantitative reasoning, evidence preservation, and workflow termination, motivating stronger scientific constraints, uncertainty-aware decisions, and more efficient planning.
+
+## Metadata
+- **Published**: 2026-08-30T18:05:21Z
+- **Authors**: Yuetong Wu, Maojun Sun
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.00070v1)

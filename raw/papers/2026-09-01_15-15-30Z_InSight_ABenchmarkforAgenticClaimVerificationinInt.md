@@ -1,0 +1,18 @@
+---
+title: InSight: A Benchmark for Agentic Claim Verification in Interactive Visualizations
+published: 2026-09-01T15:15:30Z
+authors: Maeve Hutchinson, Syed Mahbubul Huq, Mohammad Albinhassan, Radu Jianu, Aidan Slingsby, Pranava Madhyastha
+url: http://arxiv.org/abs/2609.01383v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# InSight: A Benchmark for Agentic Claim Verification in Interactive Visualizations
+
+## Abstract
+Vision Language Models have demonstrated remarkable proficiency in interpreting static visual artifacts, but modern data analysis is inherently dynamic, requiring the active interrogation of interactive environments. Existing benchmarks are predominantly constrained to static imagery and one-shot question answering and fail to capture the epistemic demands of this domain, where evidence is frequently occluded, distributed across linked views, or conditionally revealed through user agency. In this paper, we introduce InSight, a benchmark for agentic claim verification over interactive visualizations. The dataset consists of 21,349 claims derived from human-authored analytical narratives and grounded in fully interactive web-based environments. Agents must navigate these environments to determine whether a natural language claim is supported, refuted or not verifiable given the available evidence. Unlike traditional evaluations, InSight treats interaction traces as intrinsic proxies for reasoning, enabling a rigorous audit of how models seek and synthesize visual evidence. We evaluate state-of-the-art models, revealing that interactive verification remains a non-trivial challenge. We release InSight at https://github.com/maevehutch/insight.
+
+## Metadata
+- **Published**: 2026-09-01T15:15:30Z
+- **Authors**: Maeve Hutchinson, Syed Mahbubul Huq, Mohammad Albinhassan, Radu Jianu, Aidan Slingsby, Pranava Madhyastha
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.01383v1)
