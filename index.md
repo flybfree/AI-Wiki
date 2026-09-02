@@ -2536,3 +2536,7 @@ tags: ['wiki']
 - [[2026-09-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
 - [[2026-09-02_AfterQueryreportedlybecomesYCombinator_sfastest-ev.md]] : AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B
 - [[2026-09-02_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-02_OpenAIfaces30morelawsuitstiedtoTumblerRidgeshootin.md]] : OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting
+- [[2026-09-02_Surprise_Z_aiistheAIlabbehindthemysteriousOxAlpham.md]] : Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model | TechCrunch
+- [[2026-09-02_ANotefromLWN.md]] : A Note from LWN
+- [[2026-09-02_Gemini3_8Flash.md]] : Gemini 3.8 Flash

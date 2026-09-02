@@ -1,0 +1,144 @@
+---
+title: Gemini 3.8 Flash
+date: 2026-09-02
+url: https://deepmind.google/models/model-cards/gemini-3-8-flash/
+type: article-full-text
+tags: [news, ai-research, full-text]
+source_url: https://deepmind.google/models/model-cards/gemini-3-8-flash/
+source_feed: Hacker News
+ai_relevance: include
+ai_topic: benchmark-eval
+ai_reason: meets AI relevance threshold
+scraped: 2026-09-02 11:24
+---
+
+# Gemini 3.8 Flash
+
+## Full Article
+
+Published 2 September 2026
+
+Model Cards are intended to provide essential information on Gemini models, including known limitations, mitigation approaches, and safety performance. Model cards may be updated from time to time; for example, to include updated evaluations as the model is improved or revised. See the [Google DeepMind site](https://deepmind.google/models/model-cards/) for a comprehensive list of model cards.
+
+Published: September, 2026
+
+## Model Information
+
+### Description
+
+Gemini 3.8 Flash is the next iteration in the Gemini 3 model family, building on Gemini 3.7 Flash, delivering performance advancements across software engineering and agentic knowledge workflows. It continues to support customizable effort levels to control the mix of quality, cost and latency.
+
+### Model dependencies
+
+Gemini 3.8 Flash is based on Gemini 3.7 Flash.
+
+### Inputs
+
+Text strings (e.g., a question, a prompt, document(s) to be summarized), images, audio, and video files, with a token context window of up to 1M.
+
+### Outputs
+
+Text, with a 64K token output.
+
+### Architecture
+
+Gemini 3.8 Flash is based on Gemini 3.7 Flash. For more information about the model architecture for Gemini 3.8 Flash, see the Gemini 3.7 Flash [model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-7-Flash-Model-Card.pdf).
+
+* * *
+
+## Model Data
+
+### Training Dataset
+
+Gemini 3.8 Flash is based on Gemini 3.7 Flash. For more information about the training dataset for Gemini 3.8 Flash, see the Gemini 3.7 Flash [model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-7-Flash-Model-Card.pdf).
+
+### Training Data Processing
+
+For more information about the training data processing for Gemini 3.8 Flash, see the Gemini 3.7 Flash [model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-7-Flash-Model-Card.pdf).
+
+* * *
+
+## Implementation and Sustainability
+
+### Hardware
+
+Gemini 3.8 Flash is based on Gemini 3.7 Flash. For more information about the hardware for Gemini 3.8 Flash and our continued [commitment to operate sustainably](https://sustainability.google/operating-sustainably/), see the Gemini 3.7 Flash [model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-7-Flash-Model-Card.pdf).
+
+### Software
+
+Gemini 3.8 Flash is based on Gemini 3.7 Flash. For more information about the software for Gemini 3.8 Flash, Gemini 3.7 Flash [model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-7-Flash-Model-Card.pdf).
+
+* * *
+
+* * *
+
+## Evaluation
+
+### Approach
+
+Gemini 3.8 Flash was evaluated across a range of benchmarks, including coding, knowledge work, multimodal capabilities, long-context, computer use, scientific reasoning. Additional benchmarks and details on approach, results and their methodologies can be found at: [deepmind.com/models/evals-methodology/gemini-3-8-flash](http://deepmind.com/models/evals-methodology/gemini-3-8-flash).
+
+### Results
+
+Results as of September, 2026 are listed below:
+
+## Intended Usage and Limitations
+
+### Benefit and Intended Usage
+
+Gemini 3.8 Flash is well-suited for users, developers, and enterprises, designed for cost-effective scaling of general-purpose, production-ready agents. Some use cases include: software engineering, agent tasks, and complex knowledge workflows.
+
+### Known Limitations
+
+Gemini 3.8 Flash may exhibit some of the general limitations of foundation models, such as hallucinations. In addition to this, we are continually working to improve jailbreak resistance and have recently strengthened the mitigations across Frontier Safety. There may also be occasional slowness or timeout issues. At times, the model might use more tokens to maximize performance, especially at higher effort levels.
+
+The knowledge cutoff date for Gemini 3.8 Flash is March 2026 – users can expect updated information for some domains while in others they may experience the model’s knowledge is limited to January 2025 (in line with the Gemini 3 Model Family). For more information about known limitations, see the Gemini 3.7 Flash [model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-7-Flash-Model-Card.pdf).
+
+### Acceptable Usage
+
+For more information about the acceptable usage for Gemini 3.7 Flash, see the Gemini 3.7 Flash [model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-7-Flash-Model-Card.pdf).
+
+* * *
+
+## Ethics and Content Safety
+
+### Evaluation Approach
+
+For more information about the evaluation approach for Gemini 3.8 Flash, see the Gemini 3.7 Flash [model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-7-Flash-Model-Card.pdf).
+
+### Safety Policies
+
+For more information about the safety policies for Gemini 3.8 Flash, see the Gemini 3.7 Flash [model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-7-Flash-Model-Card.pdf).
+
+### Training and Development Evaluation Results
+
+Results for some of the internal safety evaluations conducted during the development phase are listed below. The evaluation results are for automated evaluations and not human evaluation or red teaming. Scores are provided as an absolute percentage increase or decrease in performance compared to the indicated model, as described below.
+
+Overall, Gemini 3.8 Flash performs similarly to Gemini 3.7 Flash across both safety and tone, with low unjustified refusals. Safety performance across non-English languages regressed slightly relative to 3.7 Flash.
+
+| Evaluation | Description | Gemini 3.8 Flash vs. Gemini 3.7 Flash |
+| --- | --- | --- |
+| Text to Text Safety | Automated content safety evaluation measuring safety policies | **-0.4pp**Lower is better |
+| Multilingual Safety | Automated safety policy evaluation across multiple languages | +5.4pp Lower is better |
+| Image to Text Safety | Automated content safety evaluation measuring safety policies | 0.0pp Lower is better |
+| Tone 1 | Automated evaluation measuring objective tone of model responses | **+0.2pp**Higher is better |
+| Unjustified-refusals | Automated evaluation measuring model’s ability to respond to borderline prompts while remaining safe | +1.1pp Lower is better |
+
+1 For tone and instruction following, a positive percentage increase represents an improvement in the tone of the model on sensitive topics and the model’s ability to follow instructions while remaining safe compared to Gemini 3 Flash. We mark improvements in green and regressions in red.
+
+We continue to improve our internal evaluations, including refining automated evaluations to reduce false positives and negatives, as well as update query sets to ensure balance and maintain a high standard of results. The performance results reported below are computed with improved evaluations and thus are not directly comparable with performance results found in previous Gemini model cards.
+
+We expect variation in our automated safety evaluations results, which is why we review flagged content to check for egregious or dangerous material. Our manual review confirmed losses were overwhelmingly either a) false positives or b) not egregious.
+
+### Human Red Teaming Results
+
+We conduct manual red teaming by specialist teams who sit outside of the model development team. High-level findings are fed back to the model team. For child safety evaluations, Gemini 3.8 Flash satisfied required launch thresholds, which were developed by expert teams to protect children online and meet [Google’s commitments to child safety](https://blog.google/technology/safety-security/an-update-on-our-child-safety-efforts-and-commitments/) across our models and Google products. For content safety policies generally, including child safety, we saw similar or improved safety performance compared to Gemini 3.7 Flash. Additionally, the scope of red teaming covered potential issues outside of our strict policies, compared performance to Gemini 3.1 Pro, and found no egregious concerns.
+
+### Frontier Safety Assessment
+
+Gemini 3.8 Flash is part of the Gemini 3 series of models. We evaluated Gemini 3.7 Flash as outlined in our latest [Frontier Safety Framework](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/strengthening-our-frontier-safety-framework/frontier-safety-framework_3-1.pdf) (April-2026), and found that it did not reach any Tracked or Critical Capability Levels (T/CCLs). Our assessments have shown that Gemini 3.8 Flash does not have meaningful new capabilities or material increases in performance with respect to the domains outlined in our Frontier Safety Framework compared to Gemini 3.7 Flash; therefore, based on Gemini 3.7 Flash results, we are confident that Gemini 3.8 Flash is also unlikely to reach any T/CCLs.
+
+For more information on our Frontier Safety assessment, read the Gemini 3.7 Flash [model card](https://storage.googleapis.com/deepmind-media/Model-Cards/Gemini-3-7-Flash-Model-Card.pdf).
+
+## Metadata
+- **Source**: [Original Article](https://deepmind.google/models/model-cards/gemini-3-8-flash/)
