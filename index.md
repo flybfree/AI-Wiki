@@ -2569,3 +2569,8 @@ tags: ['wiki']
 - [[2026-09-03_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
 - [[2026-09-03__nameTermination.md]] : .name Termination
 - [[2026-09-03_Nvidialaunchesfreetoolthatlinksidlecomputersintoap.md]] : Nvidia launches free tool that links idle computers into a personal AI data center
+- [[2026-09-03_Playcocutmanualfixes50_prototypinggameswithGPT-6As.md]] : Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+- [[2026-09-03_OpenAI_snextbigAImodelhas_enteredtheAGIera_.md]] : OpenAI’s next big AI model has ‘entered the AGI era’
+- [[2026-09-03_MetaispayingtopeekathowyouusetheirlatestAImodel.md]] : Meta is paying to peek at how you use their latest AI model
+- [[2026-09-03_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[2026-09-03_GPT-6Astra.md]] : GPT-6 Astra
