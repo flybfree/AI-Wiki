@@ -2566,3 +2566,6 @@ tags: ['wiki']
 - [[2026-09-03_Audacity4_0.md]] : Audacity 4.0
 - [[2026-09-03_Google_slatestAIweathermodelgivesyounoexcusetoforg.md]] : Google’s latest AI weather model gives you no excuse to forget your umbrella
 - [[2026-09-03_GooglesaysitsAIweathermodelisgettingbetter.md]] : Google says its AI weather model is getting better
+- [[2026-09-03_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
+- [[2026-09-03__nameTermination.md]] : .name Termination
+- [[2026-09-03_Nvidialaunchesfreetoolthatlinksidlecomputersintoap.md]] : Nvidia launches free tool that links idle computers into a personal AI data center

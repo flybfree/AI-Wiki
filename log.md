@@ -12356,3 +12356,6 @@ tags: ['wiki']
 ## [2026-09-03 07:26] ingest | 2026-09-03_Audacity4_0.md
 ## [2026-09-03 10:23] ingest | 2026-09-03_Google_slatestAIweathermodelgivesyounoexcusetoforg.md
 ## [2026-09-03 10:23] ingest | 2026-09-03_GooglesaysitsAIweathermodelisgettingbetter.md
+## [2026-09-03 12:22] ingest | 2026-09-03_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md
+## [2026-09-03 12:22] ingest | 2026-09-03__nameTermination.md
+## [2026-09-03 12:22] ingest | 2026-09-03_Nvidialaunchesfreetoolthatlinksidlecomputersintoap.md
