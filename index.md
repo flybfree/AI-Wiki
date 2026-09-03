@@ -2563,3 +2563,6 @@ tags: ['wiki']
 - [[2026-09-03_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
 - [[2026-09-03_Pre-ReleaseofPolars2_0.md]] : Pre-Release of Polars 2.0
 - [[2026-09-03_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-03_Audacity4_0.md]] : Audacity 4.0
+- [[2026-09-03_Google_slatestAIweathermodelgivesyounoexcusetoforg.md]] : Google’s latest AI weather model gives you no excuse to forget your umbrella
+- [[2026-09-03_GooglesaysitsAIweathermodelisgettingbetter.md]] : Google says its AI weather model is getting better
