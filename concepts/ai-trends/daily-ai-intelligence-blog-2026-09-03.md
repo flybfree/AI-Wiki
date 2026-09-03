@@ -1,7 +1,7 @@
 ---
-title: "Daily AI Intelligence Summary"
+title: "Summary: Daily AI Intelligence Briefing — 2026-09-03"
 date: "2026-09-03"
-type: concept
+type: briefing
 tags: [ai-intelligence, daily-briefing, models, agents, safety, infrastructure, policy]
 ---
 
