@@ -2547,3 +2547,16 @@ tags: ['wiki']
 - [[2026-09-02_ATVBigAirTourturned3daysofworkinto3hourswithChatGP.md]] : ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
 - [[2026-09-02_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
 - [[2026-09-02_FourartistsexploreAI_seffectoncultureaspartofSerpe.md]] : Four artists explore AI's effect on culture as part of Serpentine's new art and technology fellowship
+- [[2026-09-03_MuseSpark1_3.md]] : Muse Spark 1.3
+- [[2026-09-03_News.md]] : News
+- [[2026-09-03_FourartistsexploreAI_seffectoncultureaspartofSerpe.md]] : Four artists explore AI's effect on culture as part of Serpentine's new art and technology fellowship
+- [[2026-09-03_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-03_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-03_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-03_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-03_ATVBigAirTourturned3daysofworkinto3hourswithChatGP.md]] : ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+- [[2026-09-03_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-03_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-03_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-09-03_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-03_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
