@@ -2545,3 +2545,5 @@ tags: ['wiki']
 - [[2026-09-02_Pangram_sMaxSperoonwhyAIdetectionisharderthan_Real.md]] : Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’
 - [[2026-09-02_MuseSpark1_3.md]] : Muse Spark 1.3
 - [[2026-09-02_ATVBigAirTourturned3daysofworkinto3hourswithChatGP.md]] : ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+- [[2026-09-02_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
+- [[2026-09-02_FourartistsexploreAI_seffectoncultureaspartofSerpe.md]] : Four artists explore AI's effect on culture as part of Serpentine's new art and technology fellowship

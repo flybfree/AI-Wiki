@@ -1,0 +1,18 @@
+---
+title: CoMerge: Conflict-Driven Preference Optimization for Multi-Task Model Merging
+published: 2026-09-02T08:21:28Z
+authors: Mingjie Zheng, Zihao Chen, Wenqing Chen, Weile Yuan, Zhixuan Chu, Jianxing Yu, Zibin Zheng
+url: http://arxiv.org/abs/2609.02273v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# CoMerge: Conflict-Driven Preference Optimization for Multi-Task Model Merging
+
+## Abstract
+Model merging provides an efficient paradigm for constructing multi-task large language models (LLMs) without full model retraining, yet it remains challenged by parameter interference. While existing methods aim to preserve the capabilities of individual expert models and mitigate interference, they generally do not directly learn from the potentially degraded behaviors exposed by naive merging. In this paper, we propose a conflict-driven preference optimization framework for model merging (CoMerge), which reformulates model merging as a preference optimization problem. The approach utilizes a self-supervised, conflict-driven strategy that leverages the defects of naive merging methods (e.g., task arithmetic) as hard negative samples to construct preference pairs without external annotations. By applying preference optimization to refine lightweight, tensor-wise merging coefficients, CoMerge enables the model to mitigate parameter-space conflicts while preserving task-specific capabilities. Extensive experiments show that CoMerge achieves an average normalized performance of 0.9968 on MergeBench, outperforming all evaluated data-free and data-driven model-merging baselines. Furthermore, on Llama-3.1-8B-Instruct, CoMerge yields marked improvements on conflict-sensitive tasks such as instruction following and safety, while remaining highly competitive with full-parameter fine-tuning despite optimizing only 1,445 scalar coefficients.
+
+## Metadata
+- **Published**: 2026-09-02T08:21:28Z
+- **Authors**: Mingjie Zheng, Zihao Chen, Wenqing Chen, Weile Yuan, Zhixuan Chu, Jianxing Yu, Zibin Zheng
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.02273v1)

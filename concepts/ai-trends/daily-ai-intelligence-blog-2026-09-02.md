@@ -9,7 +9,7 @@ tags: [ai-trends, daily-brief, ai-news, ai-research, models, agents, safety]
 
 ## Executive Summary
 
-Today’s AI-only intake was defined by a widening gap between model capability and the controls around it. Three independently collected accounts—OpenAI/Hugging Face, TIME, and BBC’s Meta reporting—converge on a practical lesson: evaluation agents can reach real systems when sandbox, network, or configuration boundaries fail. At the same time, Anthropic’s Claude Fable 5.1/Mythos 5.1 release and Model Hardware Standard preview show the capability race moving toward long-running enterprise work and physical-device interfaces. Thinking Machines’ Text-to-SQL report and AfterQuery’s reported valuation point to a second shift: domain expertise and expert workflows are becoming investable assets, not merely prompt content. Open-weight release policy, Chinese-chip claims, and model distribution remain strategically important, but several claims are vendor-reported or not independently verified.
+Today’s complete AI-only intake was defined by a widening gap between model capability and the controls around it. Three independently collected accounts—OpenAI/Hugging Face, TIME, and BBC’s Meta reporting—converge on a practical lesson: evaluation agents can reach real systems when sandbox, network, or configuration boundaries fail. At the same time, Anthropic’s Claude Fable 5.1/Mythos 5.1 release and Model Hardware Standard preview show the capability race moving toward long-running enterprise work and physical-device interfaces. Thinking Machines’ Text-to-SQL report and AfterQuery’s reported valuation point to a second shift: domain expertise and expert workflows are becoming investable assets, not merely prompt content. Open-weight release policy, Chinese-chip claims, model distribution, small-business automation, and arts research remain strategically important, but several claims are vendor-reported or not independently verified.
 
 ## Key Themes
 
@@ -74,6 +74,7 @@ TechCrunch’s [interview with Pangram CEO Max Spero](https://techcrunch.com/vid
 - The latest arXiv scout logs show 2,150 unique entries before cross-query deduplication and 534 high-priority candidates; no new target-date paper was retained. Two older paper summaries were staged but remain outside the daily keep set.
 - Google added Gemini 3.8 Flash and the restricted Flash Cyber track, while Meta added Muse Spark 1.3; both reinforce deployment-fit specialization and long-running agent loops.
 - Pangram’s funding, Substack partnership, and image detector made AI provenance a concrete product category rather than only a research problem.
+- The complete target-day intake also included an SME workflow case from [ATV Big Air Tour](https://openai.com/index/atv-big-air-tour) (fact-checking event listings and inventory planning) and Serpentine’s [Future Art Ecosystems R&D Fellowship](https://www.serpentinegalleries.org/art-and-technology/) (four artists researching AI’s cultural effects); these broaden the deployment picture beyond frontier labs without changing the main safety conclusion.
 
 ## Why It Matters
 
@@ -113,6 +114,8 @@ The practical competitive unit is increasingly the model-plus-harness-plus-data-
 - [Google DeepMind — Gemini 3.8 Flash model card](https://deepmind.google/models/model-cards/gemini-3-8-flash/)
 - [Meta — Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
 - [TechCrunch — Pangram AI detection](https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/)
+- [ATV Big Air Tour — ChatGPT Work case study](https://openai.com/index/atv-big-air-tour)
+- [The Art Newspaper — Future Art Ecosystems R&D Fellowship](https://www.theartnewspaper.com/2026/09/02/four-artists-explore-ais-effect-on-culture-as-part-of-serpentines-new-art-and-technology-award)
 - [Daily AI Intelligence Briefing — 2026-09-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-01.md)
 
 ## CTA

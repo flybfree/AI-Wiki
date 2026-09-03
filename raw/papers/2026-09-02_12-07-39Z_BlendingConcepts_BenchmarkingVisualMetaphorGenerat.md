@@ -1,0 +1,18 @@
+---
+title: Blending Concepts: Benchmarking Visual Metaphor Generation in Text-to-Image Models
+published: 2026-09-02T12:07:39Z
+authors: Chuer Chen, Zichen Wang, Yi He, Zhengxi Yu, Nan Cao
+url: http://arxiv.org/abs/2609.02502v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Blending Concepts: Benchmarking Visual Metaphor Generation in Text-to-Image Models
+
+## Abstract
+Text-to-image (T2I) models have achieved remarkable success at faithfully rendering specified objects and attributes, yet their ability to produce visual metaphors, images that convey abstract ideas by combining elements from two distinct domains, remains largely unexamined. To bridge this gap, we introduce VMetaphor-Bench, the first benchmark for evaluating visual metaphor generation in T2I models. It comprises 1,500 visual metaphors curated from real-world creative imagery, organized into three levels and ten categories, with each sample paired with two prompts of differing specificity. For evaluation, we develop a hybrid framework within an MLLM-as-judge paradigm, combining a multiple-choice question (MCQ) based protocol of 9,594 questions across four levels of metaphorical fidelity with a dimension-based scoring protocol along three perceptual dimensions. Extensive evaluation of 11 representative T2I models reveals that even the strongest proprietary models struggle with compositional structuring and cross-domain mapping, key aspects of metaphorical expression, highlighting visual metaphor generation as an important frontier for future T2I research.
+
+## Metadata
+- **Published**: 2026-09-02T12:07:39Z
+- **Authors**: Chuer Chen, Zichen Wang, Yi He, Zhengxi Yu, Nan Cao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.02502v1)

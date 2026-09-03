@@ -1,0 +1,18 @@
+---
+title: Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence
+published: 2026-09-01T21:11:27Z
+authors: Marc Bara
+url: http://arxiv.org/abs/2609.01873v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Epistemic Sybil Resistance: Multiplying AI Agents Without Multiplying Evidence
+
+## Abstract
+Multi-agent AI systems improve inference by spawning agents and synthesizing reports. But another agent is not another observation: apparently independent reports may descend from the same evidence, and genuinely independent evidence can produce nearly identical reports. We formalize this as an epistemic Sybil problem. A report Z is an epistemic Sybil extension relative to reports R when I(Theta; Z | R) = 0. No report-only aggregator can generally distinguish replication from independent corroboration: identical reports can warrant different posteriors under unobserved ancestry. A Gaussian shared-root model shows common ancestry does not imply complete redundancy. Repeated extraction adds information toward a source-level ceiling, and correlated extraction errors, which a shared base model can induce among independent agents, lower that ceiling further. We test these predictions with more than 20,000 controlled LLM-agent report and extraction calls on synthetic evidentiary documents. Holding one evidence root fixed while report multiplicity rises from 1 to 32 collapses naive posterior coverage from 0.940 to 0.263. Holding report count fixed while evidence-root multiplicity rises from 1 to 16 closes the gap, and the aggregators are statistically indistinguishable at k = 16. The agent's replicate extraction errors are correlated (gamma_cal = 0.719, estimated out of sample), and a correlated-extraction aggregator restores calibration accordingly. A controlled manipulation isolates representation similarity from evidential ancestry. It changes a report-space deduplication mechanism's mean inferred cluster count by 1.425 (95% CI [1.363, 1.485]), whereas a fourfold change in true ancestry changes it by only 0.040 ([-0.045, 0.120]). Collective inference should therefore track evidential ancestry and dependence, not agent or report multiplicity or similarity.
+
+## Metadata
+- **Published**: 2026-09-01T21:11:27Z
+- **Authors**: Marc Bara
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.01873v1)

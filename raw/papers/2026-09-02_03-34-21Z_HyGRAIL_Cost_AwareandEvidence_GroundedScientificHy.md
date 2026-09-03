@@ -1,0 +1,18 @@
+---
+title: HyGRAIL: Cost-Aware and Evidence-Grounded Scientific Hypothesis Discovery over Knowledge Graphs
+published: 2026-09-02T03:34:21Z
+authors: Yihang Sun, Zhihan Zhu, Zhiyuan Jiang, Jingyi Ge, Zixuan Li, Jiaxuan You
+url: http://arxiv.org/abs/2609.02056v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# HyGRAIL: Cost-Aware and Evidence-Grounded Scientific Hypothesis Discovery over Knowledge Graphs
+
+## Abstract
+Scientific knowledge graphs organize entities and relations extracted from scientific literature, but they remain inherently incomplete. Missing typed links in such graphs can therefore represent plausible scientific hypotheses, such as unexplored associations between materials and applications. However, scientific hypothesis discovery is challenging because true discoveries are extremely sparse among typed candidate pairs: graph neural networks (GNNs) are efficient but unreliable for ambiguous cases, while large language models (LLMs) are knowledgeable but too costly to apply exhaustively and are not naturally grounded in graph structures. We propose HyGRAIL, a cost-aware and evidence-grounded framework that combines heterogeneous GNN triage with LLM-based hypothesis review. HyGRAIL first uses a GNN to score candidate hypotheses and identify a validation-calibrated ambiguous region, routing only graph-uncertain cases to LLM review. For each routed hypothesis, HyGRAIL retrieves node-level associations and multi-hop relational paths from the knowledge graph (KG), then converts this structured evidence into natural language through template-based or LLM-based naturalization. An LLM review agent finally judges each hard hypothesis using the naturalized evidence and validation-selected decision criteria. On MatKG, HyGRAIL achieves the best F1 score of 0.429, improving over the strongest prior baseline by 0.242 F1 points and over the GNN-only baseline by 0.322. Meanwhile, GNN triage reduces the LLM call rate by 54.36% on average. Ablation studies further show that retrieved graph evidence is crucial for reliable hypothesis verification and that compact, two-sided evidence is more effective than simply increasing retrieval quantity.
+
+## Metadata
+- **Published**: 2026-09-02T03:34:21Z
+- **Authors**: Yihang Sun, Zhihan Zhu, Zhiyuan Jiang, Jingyi Ge, Zixuan Li, Jiaxuan You
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.02056v1)

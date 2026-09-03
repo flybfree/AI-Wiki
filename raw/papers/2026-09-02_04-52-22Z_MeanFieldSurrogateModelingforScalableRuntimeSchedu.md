@@ -1,0 +1,18 @@
+---
+title: MeanField Surrogate Modeling for Scalable Runtime Scheduling of Concurrent Heterogeneous AI Inference on Shared GPUs
+published: 2026-09-02T04:52:22Z
+authors: Youssef Ennouri, Soonhoi Ha
+url: http://arxiv.org/abs/2609.02109v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MeanField Surrogate Modeling for Scalable Runtime Scheduling of Concurrent Heterogeneous AI Inference on Shared GPUs
+
+## Abstract
+Deploying heterogeneous AI models concurrently on a shared GPU introduces resource contention that complicates runtime scheduling. While surrogate models avoid costly online benchmarking, their profiling requirements typically grow combinatorially with the number of co-running models, limiting scalability. We propose a MeanField surrogate that predicts per-model performance from local configuration and aggregate GPU state rather than explicitly modeling all joint interactions. Experiments on concurrent LLM and vision workloads across $N \in \{2,3,4,5,6\}$ show high predictive accuracy ($R^2 \approx 0.96$) with an empirical sample budget that grows approximately linearly in $N$, in contrast to the combinatorial cost of fully joint profiling. Integrated into a genetic algorithm scheduler, the surrogate scales to an $N=5$ problem with 78,732 feasible joint configurations, remaining within 0.10% of the exhaustive search with zero SLA violations across eight dynamic workload scenarios, while complete online GA decisions take 26 ms median, about $5\times$ faster than exhaustive surrogate search.
+
+## Metadata
+- **Published**: 2026-09-02T04:52:22Z
+- **Authors**: Youssef Ennouri, Soonhoi Ha
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.02109v1)
