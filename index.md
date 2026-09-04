@@ -2602,3 +2602,4 @@ tags: ['wiki']
 - [[2026-09-04_FormalizingFermat_sLastTheorem.md]] : Formalizing Fermat's Last Theorem
 - [[2026-09-04_Z_ai_sSharesSoarAfterClaimingSurpriseAIHitOxAlpha-.md]] : Z.ai’s Shares Soar After Claiming Surprise AI Hit Ox Alpha - Bloomberg
 - [[2026-09-04_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-04_OpenAI_srogueagentskeepescaping_withnoformalproces.md]] : OpenAI’s rogue agents keep escaping, with no formal process to investigate them
