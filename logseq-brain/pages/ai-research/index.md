@@ -118,6 +118,9 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-30.md|Summary: Daily AI Intelligence Briefing — 2026-08-30]] — task-specific training, governed model distribution, and end-to-end deployment systems
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md|Summary: Daily AI Intelligence Briefing — 2026-08-31]] — domain expertise inside workflows, evidence-gated open weights, and contract-governed model access
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-02.md|Summary: Daily AI Intelligence Briefing — 2026-09-02]] — evaluation containment, long-running agents, domain expertise, open-weight release gates, and compute sovereignty
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-03.md|Summary: Daily AI Intelligence Briefing — 2026-09-03]] — evaluation containment, deployment-fit agents, expert rewards, staged open weights, and agent-ready infrastructure
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-04.md|Summary: Daily AI Intelligence Briefing — 2026-09-04]] — containment failures, capability gating, persistent agents, expert rewards, domestic stacks, edge AI, and provenance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-01.md|Summary: Daily AI Intelligence Briefing — 2026-09-01]] — containment failures, native task structure, governed institutional deployment, and infrastructure sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-23.md|Summary: 2026-07-23 Daily AI Intelligence Summary]] — compute, product surfaces, safety, and AI economics
 - [[concepts/knowledge-management/hostinger-daily-ai-blog-template.md|Hostinger Daily AI Intelligence Blog Template]] — Hostinger-ready public blog template with inline sources and reference block
@@ -2509,3 +2512,89 @@ tags: ['wiki']
 - [[2026-09-01_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
 - [[2026-09-01_PolimillbuildsJapan_snext-generationpublicAIinfras.md]] : Polimill builds Japan's next-generation public AI infrastructure
 - [[2026-09-01_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-01_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-01_OpenAIsupportsCalifornia_sbilltoadvanceyouthAIsafe.md]] : OpenAI supports California’s bill to advance youth AI safety
+- [[2026-09-01_GPUWorld.md]] : GPU World
+- [[2026-09-01_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[2026-09-01_Fambotintroducesan_AIchiefofstaff_forfamilies.md]] : Fambot introduces an ‘AI chief of staff’ for families
+- [[2026-09-01_PlayStoreblocksAuroraStore_hurtingGrapheneOSusers.md]] : Play Store blocks AuroraStore, hurting GrapheneOS users
+- [[2026-09-01_ChatGPTHealthaddsEpicintegrationforclinicianstoimp.md]] : ChatGPT Health adds Epic integration for clinicians to import patient data
+- [[2026-09-01_Google_sanswertoCanvaisanAItoolwhereyoupromptinste.md]] : Google’s answer to Canva is an AI tool where you prompt instead of design
+- [[2026-09-01_ClaudeFable5_1andClaudeMythos5_1.md]] : Claude Fable 5.1 and Claude Mythos 5.1
+- [[2026-09-01_OpenAIdelayeditsnewmodel_sdevelopmentaftertheHuggi.md]] : OpenAI delayed its new model’s development after the Hugging Face hack
+- [[2026-09-01_OpenAI_sAstramodelisontheway_andverygoodatbreaking.md]] : Open AI’s Astra model is on the way—and very good at breaking into computer systems
+- [[2026-09-01_HangontoYourFirefox.md]] : Hang on to Your Firefox
+- [[2026-09-01_IntroducingClaudeFable5_1andClaudeMythos5_1Anthrop.md]] : Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic
+- [[2026-09-02_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-02_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-02_IntroducingClaudeFable5_1andClaudeMythos5_1Anthrop.md]] : Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic
+- [[2026-09-02_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[2026-09-02_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-02_News.md]] : News
+- [[2026-09-02_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-02_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-02_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-09-02_AfterQueryreportedlybecomesYCombinator_sfastest-ev.md]] : AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B
+- [[2026-09-02_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-02_OpenAIfaces30morelawsuitstiedtoTumblerRidgeshootin.md]] : OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting
+- [[2026-09-02_Surprise_Z_aiistheAIlabbehindthemysteriousOxAlpham.md]] : Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model | TechCrunch
+- [[2026-09-02_ANotefromLWN.md]] : A Note from LWN
+- [[2026-09-02_Gemini3_8Flash.md]] : Gemini 3.8 Flash
+- [[2026-09-02_ResearchersfearsafetydisasteraheadofOpenAI__8217_s.md]] : Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release
+- [[2026-09-02_Gemini3_8Flashand3_8FlashCyber.md]] : Gemini 3.8 Flash and 3.8 Flash Cyber
+- [[2026-09-02_Pangram_sMaxSperoonwhyAIdetectionisharderthan_Real.md]] : Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’
+- [[2026-09-02_MuseSpark1_3.md]] : Muse Spark 1.3
+- [[2026-09-02_ATVBigAirTourturned3daysofworkinto3hourswithChatGP.md]] : ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+- [[2026-09-02_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
+- [[2026-09-02_FourartistsexploreAI_seffectoncultureaspartofSerpe.md]] : Four artists explore AI's effect on culture as part of Serpentine's new art and technology fellowship
+- [[2026-09-03_MuseSpark1_3.md]] : Muse Spark 1.3
+- [[2026-09-03_News.md]] : News
+- [[2026-09-03_FourartistsexploreAI_seffectoncultureaspartofSerpe.md]] : Four artists explore AI's effect on culture as part of Serpentine's new art and technology fellowship
+- [[2026-09-03_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-03_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-03_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-03_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-03_ATVBigAirTourturned3daysofworkinto3hourswithChatGP.md]] : ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+- [[2026-09-03_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-03_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-03_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-09-03_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-03_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
+- [[2026-09-03_Pre-ReleaseofPolars2_0.md]] : Pre-Release of Polars 2.0
+- [[2026-09-03_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-03_Audacity4_0.md]] : Audacity 4.0
+- [[2026-09-03_Google_slatestAIweathermodelgivesyounoexcusetoforg.md]] : Google’s latest AI weather model gives you no excuse to forget your umbrella
+- [[2026-09-03_GooglesaysitsAIweathermodelisgettingbetter.md]] : Google says its AI weather model is getting better
+- [[2026-09-03_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
+- [[2026-09-03__nameTermination.md]] : .name Termination
+- [[2026-09-03_Nvidialaunchesfreetoolthatlinksidlecomputersintoap.md]] : Nvidia launches free tool that links idle computers into a personal AI data center
+- [[2026-09-03_Playcocutmanualfixes50_prototypinggameswithGPT-6As.md]] : Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+- [[2026-09-03_OpenAI_snextbigAImodelhas_enteredtheAGIera_.md]] : OpenAI’s next big AI model has ‘entered the AGI era’
+- [[2026-09-03_MetaispayingtopeekathowyouusetheirlatestAImodel.md]] : Meta is paying to peek at how you use their latest AI model
+- [[2026-09-03_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[2026-09-03_GPT-6Astra.md]] : GPT-6 Astra
+- [[2026-09-03_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[2026-09-03_VietnamapprovesAIstrategytargetingregionalhubstatu.md]] : Vietnam approves AI strategy targeting regional hub status by 2030
+- [[2026-09-03_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
+- [[2026-09-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-04_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
+- [[2026-09-04_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[2026-09-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-04_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-04_GPT-6Astra.md]] : GPT-6 Astra
+- [[2026-09-04_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-04_OpenAI_snextbigAImodelhas_enteredtheAGIera_.md]] : OpenAI’s next big AI model has ‘entered the AGI era’
+- [[2026-09-04_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-04_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[2026-09-04_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-04_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-04_ThisNAScompanywantstorunyourlocalsmarthome.md]] : This NAS company wants to run your local smart home
+- [[2026-09-04_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
+- [[2026-09-04_DiscoveryofanewOpenAIagentmessageboard.md]] : Discovery of a new OpenAI agent message board
+- [[2026-09-04_Ohgood_lookslikeyetanotherswarmofrogueAIagentsfrom.md]] : Oh good, looks like yet another swarm of rogue AI agents from OpenAI
+- [[2026-09-04_Google_sGeminiSparkcannowmanageyourGooglePhotoslib.md]] : Google’s Gemini Spark can now manage your Google Photos library
+- [[2026-09-04_RogueOpenAIagentsappeartohaveorganizedanotherattac.md]] : Rogue OpenAI agents appear to have organized another attack using a German wiki
+- [[2026-09-04_AnotherswarmofOpenAIagentsreachedtheopeninternetwi.md]] : Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge
+- [[2026-09-04_MicrosoftsaysvirtuallynobodywasgrabbingNYTarticles.md]] : Microsoft says virtually nobody was grabbing NYT articles through its chatbot

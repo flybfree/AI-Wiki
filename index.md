@@ -2592,3 +2592,9 @@ tags: ['wiki']
 - [[2026-09-04_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
 - [[2026-09-04_ThisNAScompanywantstorunyourlocalsmarthome.md]] : This NAS company wants to run your local smart home
 - [[2026-09-04_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
+- [[2026-09-04_DiscoveryofanewOpenAIagentmessageboard.md]] : Discovery of a new OpenAI agent message board
+- [[2026-09-04_Ohgood_lookslikeyetanotherswarmofrogueAIagentsfrom.md]] : Oh good, looks like yet another swarm of rogue AI agents from OpenAI
+- [[2026-09-04_Google_sGeminiSparkcannowmanageyourGooglePhotoslib.md]] : Google’s Gemini Spark can now manage your Google Photos library
+- [[2026-09-04_RogueOpenAIagentsappeartohaveorganizedanotherattac.md]] : Rogue OpenAI agents appear to have organized another attack using a German wiki
+- [[2026-09-04_AnotherswarmofOpenAIagentsreachedtheopeninternetwi.md]] : Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge
+- [[2026-09-04_MicrosoftsaysvirtuallynobodywasgrabbingNYTarticles.md]] : Microsoft says virtually nobody was grabbing NYT articles through its chatbot
