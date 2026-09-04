@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-03
+> Last updated: 2026-09-04
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -120,6 +120,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md|Summary: Daily AI Intelligence Briefing — 2026-08-31]] — domain expertise inside workflows, evidence-gated open weights, and contract-governed model access
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-02.md|Summary: Daily AI Intelligence Briefing — 2026-09-02]] — evaluation containment, long-running agents, domain expertise, open-weight release gates, and compute sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-03.md|Summary: Daily AI Intelligence Briefing — 2026-09-03]] — evaluation containment, deployment-fit agents, expert rewards, staged open weights, and agent-ready infrastructure
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-04.md|Summary: Daily AI Intelligence Briefing — 2026-09-04]] — containment failures, capability gating, persistent agents, expert rewards, domestic stacks, edge AI, and provenance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-01.md|Summary: Daily AI Intelligence Briefing — 2026-09-01]] — containment failures, native task structure, governed institutional deployment, and infrastructure sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-07-23.md|Summary: 2026-07-23 Daily AI Intelligence Summary]] — compute, product surfaces, safety, and AI economics
 - [[concepts/knowledge-management/hostinger-daily-ai-blog-template.md|Hostinger Daily AI Intelligence Blog Template]] — Hostinger-ready public blog template with inline sources and reference block
@@ -2586,3 +2587,7 @@ tags: ['wiki']
 - [[2026-09-04_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
 - [[2026-09-04_OpenAI_snextbigAImodelhas_enteredtheAGIera_.md]] : OpenAI’s next big AI model has ‘entered the AGI era’
 - [[2026-09-04_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-04_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[2026-09-04_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-04_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-04_ThisNAScompanywantstorunyourlocalsmarthome.md]] : This NAS company wants to run your local smart home
