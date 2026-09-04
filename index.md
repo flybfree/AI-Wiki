@@ -2577,3 +2577,12 @@ tags: ['wiki']
 - [[2026-09-03_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
 - [[2026-09-03_VietnamapprovesAIstrategytargetingregionalhubstatu.md]] : Vietnam approves AI strategy targeting regional hub status by 2030
 - [[2026-09-03_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
+- [[2026-09-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-04_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
+- [[2026-09-04_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[2026-09-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-04_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-04_GPT-6Astra.md]] : GPT-6 Astra
+- [[2026-09-04_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-04_OpenAI_snextbigAImodelhas_enteredtheAGIera_.md]] : OpenAI’s next big AI model has ‘entered the AGI era’
+- [[2026-09-04_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
