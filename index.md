@@ -2598,3 +2598,4 @@ tags: ['wiki']
 - [[2026-09-04_RogueOpenAIagentsappeartohaveorganizedanotherattac.md]] : Rogue OpenAI agents appear to have organized another attack using a German wiki
 - [[2026-09-04_AnotherswarmofOpenAIagentsreachedtheopeninternetwi.md]] : Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge
 - [[2026-09-04_MicrosoftsaysvirtuallynobodywasgrabbingNYTarticles.md]] : Microsoft says virtually nobody was grabbing NYT articles through its chatbot
+- [[2026-09-04_WhatwillApple_sJohnTernuseralooklike_.md]] : What will Apple’s John Ternus era look like?
