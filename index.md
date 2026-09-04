@@ -2599,3 +2599,6 @@ tags: ['wiki']
 - [[2026-09-04_AnotherswarmofOpenAIagentsreachedtheopeninternetwi.md]] : Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge
 - [[2026-09-04_MicrosoftsaysvirtuallynobodywasgrabbingNYTarticles.md]] : Microsoft says virtually nobody was grabbing NYT articles through its chatbot
 - [[2026-09-04_WhatwillApple_sJohnTernuseralooklike_.md]] : What will Apple’s John Ternus era look like?
+- [[2026-09-04_FormalizingFermat_sLastTheorem.md]] : Formalizing Fermat's Last Theorem
+- [[2026-09-04_Z_ai_sSharesSoarAfterClaimingSurpriseAIHitOxAlpha-.md]] : Z.ai’s Shares Soar After Claiming Surprise AI Hit Ox Alpha - Bloomberg
+- [[2026-09-04_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED

@@ -43,15 +43,18 @@ Anthropic’s [Claude Fable 5.1 and Mythos 5.1 release](https://www.anthropic.co
 - “Always on” should imply bounded authority, not unrestricted autonomy.
 - Independent adopters and measurable safety requirements will determine whether hardware standards matter.
 
-### 4. Expert-verified rewards can replace prompt-heavy scaffolding
+### 4. Expert-verified rewards and formal verification are becoming the leverage points
 
 Thinking Machines’ [Putting Task Expertise into RL](https://thinkingmachines.ai/news/putting-task-expertise-into-rl/) argues that reinforcement learning with verifiable rewards (RLVR)—feedback checked automatically, such as whether SQL returns the correct result—can encode domain process knowledge directly into a model. The report attributes its text-to-SQL result to expert-verified data, removal of label errors, and reward shaping for recurring failures such as wrong-column selection and malformed queries. The headline performance and cost figures are source-reported and need reproduction across noisy enterprise schemas and SQL dialects.
 
 **Why it matters:** The useful unit of improvement may be clean expert traces plus executable evaluators, not another layer of generic prompting or multi-call orchestration. This is especially relevant for enterprise systems where schema context and correctness matter more than fluent output.
 
+Anthropic’s [formalization of Fermat’s Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem) extends the same principle beyond application tasks: Claude reportedly worked largely autonomously for 11 days, generated roughly 13 million lines of Lean, and produced a proof checked by the Lean proof assistant. The result is a company report and should be independently rechecked, but the important signal is the harness: a theorem graph, many collaborating agents, and a machine-checkable verifier converted a long-horizon research task into an auditable artifact.
+
 - Bad labels poison automated rewards.
 - Self-consistency sampling is not equivalent to a separately designed agent scaffold.
 - The next test is robustness on real, shifting databases rather than benchmark-only schemas.
+- Machine-checkable artifacts can make autonomous research more trustworthy, but only when the formalization and dependencies are independently reproduced.
 
 ### 5. Open-weight release is becoming an evidence ladder
 
@@ -111,7 +114,7 @@ The competitive unit is now the model plus harness plus expert data plus release
 
 ## Classification Notes
 
-- **Include:** OpenAI/Astra and containment reporting; Meta evaluation incident; Anthropic model and hardware-standard signals; expert-verified RL; staged open-weight policy; Z.ai domestic-chip signal; Ugreen edge AI; AI provenance/convergence.
+- **Include:** OpenAI/Astra and containment reporting; Meta evaluation incident; Anthropic model, hardware-standard, and formal-verification signals; expert-verified RL; staged open-weight policy; Z.ai domestic-chip signal; Ugreen edge AI; AI provenance/convergence.
 - **Exclude:** Generic news aggregation; unrelated genomic prediction; unsupported or non-AI SpaceXAI claims.
 - **Defer:** Exact Z.ai chip count and ranking claims; vendor-reported safety and benchmark metrics; unrestricted-open-weight readiness claims pending operational evidence.
 - **Papers:** No new target-date arXiv paper retained.
@@ -126,10 +129,12 @@ The competitive unit is now the model plus harness plus expert data plus release
 - [Anthropic — Model Hardware Standard](https://www.anthropic.com/news/model-hardware-standard-research-preview)
 - [xAI — Newsroom](https://x.ai/news)
 - [Thinking Machines — Putting Task Expertise into RL](https://thinkingmachines.ai/news/putting-task-expertise-into-rl/)
+- [Anthropic — Formalizing Fermat’s Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
 - [Thinking Machines — A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/)
 - [CNBC — Z.ai and Chinese chips](https://www.cnbc.com/2026/08/27/zai-shares-surge-new-ai-model-using-chinese-chips.html)
 - [TechPowerUp — Ugreen HomeAgent](https://www.techpowerup.com/339696/ugreen-unveils-homeagent-a-nas-powered-ai-smart-home-hub-with-jetson-thor)
 - [TechCrunch — AI-generated menu sameness](https://techcrunch.com/2026/09/03/the-sameness-problem-behind-those-unappetizing-ai-generated-menus/)
+- [WIRED — The Safety Reckoning Inside OpenAI](https://www.wired.com/story/openai-safety-security-ai-agents-culture/)
 - [Daily AI Intelligence Briefing — 2026-09-03](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-03.md)
 
 ## CTA
