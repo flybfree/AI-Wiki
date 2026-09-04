@@ -1,0 +1,18 @@
+---
+title: Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning
+published: 2026-09-03T09:11:13Z
+authors: Muyuan Liu, Yue Huang, Zheng Liang, Xiang Gao
+url: http://arxiv.org/abs/2609.03565v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Toward Physically Grounded JEPA World Models for Goal-Conditioned Robotic Planning
+
+## Abstract
+Action-conditioned JEPA world models enable planning toward visually specified goals without reconstructing future pixels, yet latent prediction alone does not explicitly encourage the learned representations to retain information relevant to robotic control. We introduce an end-to-end JEPA world model that augments latent prediction with inverse dynamics (IDM) and state alignment (SA). While inverse dynamics discourages latent collapse and makes latent transitions informative of the actions that produced them, state alignment grounds consecutive representations in their associated physical configuration and motion. Across four benchmark tasks, our model attains the highest success rates on TwoRoom (100%), PushT (98%), and OGBench-Cube (87%), while performing comparably to LeWorldModel on Reacher. Our ablation further shows that adding state alignment consistently improves planning success over IDM alone across all four tasks. Although LeWorldModel, our primary baseline, attains higher average straightening on OGBench-Cube, transition-subspace analysis shows that its transition energy is concentrated in a substantially lower-dimensional subspace. Our state-aligned model exhibits a higher effective transition dimension than LeWorldModel and improves planning over IDM alone, supporting state alignment as an effective complement to inverse dynamics for robotic planning.
+
+## Metadata
+- **Published**: 2026-09-03T09:11:13Z
+- **Authors**: Muyuan Liu, Yue Huang, Zheng Liang, Xiang Gao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.03565v1)

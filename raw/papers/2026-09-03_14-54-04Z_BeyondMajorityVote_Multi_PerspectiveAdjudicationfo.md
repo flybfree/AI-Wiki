@@ -1,0 +1,18 @@
+---
+title: Beyond Majority Vote: Multi-Perspective Adjudication for Medical Hallucination Detection
+published: 2026-09-03T14:54:04Z
+authors: Joe Cecil, Marjorie Freedman
+url: http://arxiv.org/abs/2609.03953v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Majority Vote: Multi-Perspective Adjudication for Medical Hallucination Detection
+
+## Abstract
+Understanding the frequency of factual errors in chatbot-generated text and evaluating systems that detect these errors is critical for determining chatbot safety. Yet factual-error detection is often treated as a single-pass, single-annotator labeling problem. In long-form chatbot responses, factual errors can be subtle and embedded within mostly correct text.   We develop a multi-perspective annotation study of medically relevant chatbot responses, combining first-pass annotation, LLM-as-a-Judge (LaJ) candidate discovery, and two forms of adjudication: medical-expert and evidence-based fact-checking. First-pass annotators frequently miss factual errors later validated by adjudicators. LaJ improves candidate discovery, but is insufficient on its own: It misses factual errors that annotators catch. We also find disagreement among adjudicators, suggesting that adjudication over multiple candidate sources can improve benchmark completeness, but does not eliminate the need to apply judgment and expertise. Applied to an existing benchmark, this technique reveals a similar pattern of missing annotations. Together, these results suggest that in the settings examined here, single-pass hallucination benchmarks may achieve scale at the cost of undercounting factual errors. Multi-pass adjudication can improve coverage, but inferences drawn from the benchmarks are still sensitive to the judgment, expertise, and evidence used to determine error presence.
+
+## Metadata
+- **Published**: 2026-09-03T14:54:04Z
+- **Authors**: Joe Cecil, Marjorie Freedman
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.03953v1)

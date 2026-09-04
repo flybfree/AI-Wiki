@@ -1,0 +1,18 @@
+---
+title: More Criticism Does Not Make a Better Review: EquiReview-R
+published: 2026-09-03T14:49:24Z
+authors: Zexing Zhang, Jichao Li, Tianyang Lei, Yude Fu, Yang Kewei
+url: http://arxiv.org/abs/2609.03943v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# More Criticism Does Not Make a Better Review: EquiReview-R
+
+## Abstract
+AI reviewers can now produce many specific criticisms, but more criticism is not necessarily a better review. A review may miss a consequential weakness or retain an allegation that available evidence does not support. These failures require opposite corrections, yet generation-oriented systems and aggregate measures obscure the distinction. We therefore recast AI-assisted review as evidence-guided refinement of a structured concern set, with omission and overcritique treated as separate risks. Building on this formulation, we introduce EquiReview-R, which resolves existing concerns against localized evidence, searches for missing issues from independent and review-conditioned perspectives, and returns stop, continue, or defer. To expose the failure mode that motivates this design, we construct an evidence-linked trajectory corpus. Its retrospective analysis shows why revision must precede further search: nearly all concerns in a high-recall review lack a definitive evidential disposition, while an earlier refinement mechanism cannot revise them. On a frozen cohort of previously unseen papers, EquiReview-R satisfies the prespecified non-inferiority criterion for major omission, reduces major overcritique from 15.5% to 8.1%, and attains a one-sided omission upper bound of 9.9% while stopping on 52.4% of papers. Computation-matched controls, controlled pairs, and ablations show that the gain comes from revision rather than extra inference or shorter output. We release the corpus as ReviewTrace, an evidence-linked resource for studying review revision, disagreement, and provenance.
+
+## Metadata
+- **Published**: 2026-09-03T14:49:24Z
+- **Authors**: Zexing Zhang, Jichao Li, Tianyang Lei, Yude Fu, Yang Kewei
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.03943v1)

@@ -1,0 +1,18 @@
+---
+title: Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO
+published: 2026-09-03T14:45:47Z
+authors: Hyun Bin Park, Du-Seong Chang
+url: http://arxiv.org/abs/2609.03941v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Headroom-Drift Replay: A Primitive for Principled Replay Control in GRPO
+
+## Abstract
+RL-based post-training for reasoning models is increasingly bottlenecked by repeated fresh rollout generation, particularly in agentic settings where environment interaction dominates wall-clock cost. Replay can reduce this burden by reusing past trajectories, but existing methods typically embed it within larger training pipelines involving exploration, experience restructuring, or mixed-policy optimization. This makes replay's own contribution difficult to isolate. We ask a focused question: how far can principled replay selection alone go? We introduce Headroom-Drift Replay, a group-level replay control primitive for GRPO that separates reuse into two decisions. Headroom ranks stored groups by remaining learning value, while Drift gates them by compatibility with the current policy. The fresh on-policy stream remains unchanged, and the method adds no auxiliary generation or training machinery. Across mathematical reasoning, multimodal reasoning, and Agentic Search benchmarks, this single intervention outperforms naive replay and matches or exceeds broader replay methods on Avg Mean@32. In Agentic Search, where environment interaction dominates cost, it delivers comparable quality at materially lower wall-clock time.
+
+## Metadata
+- **Published**: 2026-09-03T14:45:47Z
+- **Authors**: Hyun Bin Park, Du-Seong Chang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.03941v1)

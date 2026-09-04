@@ -1,0 +1,18 @@
+---
+title: StrixAE: An Intelligent Agent for Audio Enhancement under Complex Distortion Coupling in Real-World Scenarios
+published: 2026-09-03T06:23:24Z
+authors: Chenglin Wu, Junjie Wu, Jinhang Chen, Mingyang Chen, Zixu Lin, Jiabian Chen, Xinghao Ding, Xiaotong Tu
+url: http://arxiv.org/abs/2609.03414v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# StrixAE: An Intelligent Agent for Audio Enhancement under Complex Distortion Coupling in Real-World Scenarios
+
+## Abstract
+Audio enhancement in real-world scenarios involves complex distortion couplings and requires personalized enhancement. Existing solutions struggle to address both simultaneously. To improve robustness and enable autonomous operation in such scenarios, we propose StrixAE, an agent based on a multimodal large language model (MLLM). StrixAE leverages the MLLM as a controller to coordinate multiple audio enhancement and personalization models. To further enhance system robustness, reduce artifacts, and improve generalization across diverse real-world scenarios, StrixAE is trained through a two-stage process: first, CoT supervised fine-tuning on AcoustBench to ground basic reasoning and tool invocation; second, Audio Perception Reinforcement Learning (APRL), a reward design specifically tailored for audio restoration pipelines that jointly optimizes format validity, structural coherence, and perceptual quality. Unlike generic RL fine-tuning, APRL introduces structured rewards that enforce executable pipelines and logical section ordering, enabling the agent to produce reliable, interpretable enhancement plans without hallucinated tools. Based on real-world test datasets, our proposed method outperforms most existing open-source and proprietary solutions, achieving state-of-the-art performance across multiple perceptual metrics and demonstrating strong generalization robustness.
+
+## Metadata
+- **Published**: 2026-09-03T06:23:24Z
+- **Authors**: Chenglin Wu, Junjie Wu, Jinhang Chen, Mingyang Chen, Zixu Lin, Jiabian Chen, Xinghao Ding, Xiaotong Tu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.03414v1)

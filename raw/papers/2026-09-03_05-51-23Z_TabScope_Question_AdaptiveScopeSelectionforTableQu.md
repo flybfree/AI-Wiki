@@ -1,0 +1,18 @@
+---
+title: TabScope: Question-Adaptive Scope Selection for Table Question Answering
+published: 2026-09-03T05:51:23Z
+authors: Yuxiang Wang, Junhao Gan, Jianzhong Qi
+url: http://arxiv.org/abs/2609.03395v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# TabScope: Question-Adaptive Scope Selection for Table Question Answering
+
+## Abstract
+Large Language Models (LLMs) have shown strong performance on table question answering, yet their accuracy often degrades as table size increases. We find that this degradation is not uniform across question types. Localization-sensitive questions are particularly affected by irrelevant table content, while questions requiring broader evidence may still benefit from full-table reasoning. Based on this observation, we propose a question-adaptive framework that dynamically selects between localized and full-table reasoning. The framework constructs question-specific sub-tables through operation-aware table decomposition and uses the predicted question type to determine the appropriate reasoning mode. We further introduce silver reference sub-tables for evaluating evidence selection and construct SLQA, a benchmark based on real-world long tables. Experiments on WikiTQ and SLQA show that localization is particularly effective for lookup and local reasoning questions, while adaptive selection between localized and full-table reasoning achieves the best overall performance. These results highlight that long-table QA requires deciding not only how to localize, but also when to localize. Our code and datasets will be made available upon publication of the paper.
+
+## Metadata
+- **Published**: 2026-09-03T05:51:23Z
+- **Authors**: Yuxiang Wang, Junhao Gan, Jianzhong Qi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.03395v1)

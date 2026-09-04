@@ -2574,3 +2574,6 @@ tags: ['wiki']
 - [[2026-09-03_MetaispayingtopeekathowyouusetheirlatestAImodel.md]] : Meta is paying to peek at how you use their latest AI model
 - [[2026-09-03_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
 - [[2026-09-03_GPT-6Astra.md]] : GPT-6 Astra
+- [[2026-09-03_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[2026-09-03_VietnamapprovesAIstrategytargetingregionalhubstatu.md]] : Vietnam approves AI strategy targeting regional hub status by 2030
+- [[2026-09-03_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
