@@ -12615,3 +12615,5 @@ tags: ['wiki']
 ## [2026-09-05 00:10] ingest | 2026-09-05_Transferlearningforgenomicpredictioninunderreprese.md
 
 ## [2026-09-05 06:28] ingest | 2026-09-05_OpenAIadmitstoGermanwiki_incident_.md
+## [2026-09-05 09:17] ingest | 2026-09-05_The__60GamingPC__AMDBC-250_2025_.md
+## [2026-09-05 10:16] ingest | 2026-09-05_There_sNoLimittoHowBadCodeCanGet.md

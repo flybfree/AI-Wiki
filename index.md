@@ -2617,3 +2617,5 @@ tags: ['wiki']
 - [[2026-09-05_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] : Daily AI intelligence synthesis
 - [[2026-09-05_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
+- [[2026-09-05_The__60GamingPC__AMDBC-250_2025_.md]] : The "$60 Gaming PC" – AMD BC-250 (2025)
+- [[2026-09-05_There_sNoLimittoHowBadCodeCanGet.md]] : There's No Limit to How Bad Code Can Get
