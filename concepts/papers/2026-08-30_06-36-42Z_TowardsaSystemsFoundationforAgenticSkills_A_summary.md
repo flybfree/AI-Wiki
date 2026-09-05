@@ -2,6 +2,7 @@
 Saved: 2026-08-31 21:05
 Source: 2026-08-30_06-36-42Z_TowardsaSystemsFoundationforAgenticSkills_Architec.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2608.29596v1](http://arxiv.org/abs/2608.29596v1)
 
 ---
 

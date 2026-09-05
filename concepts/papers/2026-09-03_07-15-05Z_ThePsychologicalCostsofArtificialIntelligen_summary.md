@@ -2,6 +2,7 @@
 Saved: 2026-09-03 21:35
 Source: 2026-09-03_07-15-05Z_ThePsychologicalCostsofArtificialIntelligenceAdopt.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.03456v1](http://arxiv.org/abs/2609.03456v1)
 
 ---
 

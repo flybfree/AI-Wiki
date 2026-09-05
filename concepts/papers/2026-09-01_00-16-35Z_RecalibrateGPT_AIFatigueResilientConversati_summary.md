@@ -2,6 +2,7 @@
 Saved: 2026-09-01 21:48
 Source: 2026-09-01_00-16-35Z_RecalibrateGPT_AIFatigueResilientConversationalInt.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.00506v1](http://arxiv.org/abs/2609.00506v1)
 
 ---
 

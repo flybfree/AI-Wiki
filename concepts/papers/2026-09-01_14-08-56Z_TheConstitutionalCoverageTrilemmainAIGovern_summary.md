@@ -2,6 +2,7 @@
 Saved: 2026-09-01 22:55
 Source: 2026-09-01_14-08-56Z_TheConstitutionalCoverageTrilemmainAIGovernance.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.01275v1](http://arxiv.org/abs/2609.01275v1)
 
 ---
 

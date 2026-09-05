@@ -2,6 +2,7 @@
 Saved: 2026-09-02 20:37
 Source: 2026-09-01_18-07-09Z_HarnessEngineeringinLLMToolUseviaAgent_NativeReusa.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.01736v1](http://arxiv.org/abs/2609.01736v1)
 
 ---
 

@@ -2,6 +2,7 @@
 Saved: 2026-09-02 23:41
 Source: 2026-09-02_16-19-54Z_SafeEvolve_Harness_PolicyCo_EvolutionfromAgentExpe.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.02786v1](http://arxiv.org/abs/2609.02786v1)
 
 ---
 

@@ -2,6 +2,7 @@
 Saved: 2026-08-31 21:06
 Source: 2026-08-30_06-55-59Z_AgentZeroMemory_Provenance_AwareLong_TermMemoryfor.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2608.29606v1](http://arxiv.org/abs/2608.29606v1)
 
 ---
 

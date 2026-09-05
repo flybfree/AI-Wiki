@@ -2,6 +2,7 @@
 Saved: 2026-09-02 20:38
 Source: 2026-09-01_20-12-08Z_AgentMemoryIsaSurfaceforEndogenousAuthorizationLau.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.01836v1](http://arxiv.org/abs/2609.01836v1)
 
 ---
 

@@ -2,6 +2,7 @@
 Saved: 2026-09-01 21:44
 Source: 2026-08-31_22-46-48Z_mimeo_CompilingPublicExpertCorporaintoAgentSkillsa.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.00453v1](http://arxiv.org/abs/2609.00453v1)
 
 ---
 

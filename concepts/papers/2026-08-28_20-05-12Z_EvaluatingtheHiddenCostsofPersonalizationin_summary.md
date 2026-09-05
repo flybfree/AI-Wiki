@@ -2,6 +2,7 @@
 Saved: 2026-08-31 20:28
 Source: 2026-08-28_20-05-12Z_EvaluatingtheHiddenCostsofPersonalizationinLargeLa.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2608.28833v1](http://arxiv.org/abs/2608.28833v1)
 
 ---
 

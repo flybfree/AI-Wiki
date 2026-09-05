@@ -2,6 +2,7 @@
 Saved: 2026-09-01 21:48
 Source: 2026-09-01_01-32-22Z_Runtime_IndependentPersistentAgents_PreservingIden.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.00546v1](http://arxiv.org/abs/2609.00546v1)
 
 ---
 

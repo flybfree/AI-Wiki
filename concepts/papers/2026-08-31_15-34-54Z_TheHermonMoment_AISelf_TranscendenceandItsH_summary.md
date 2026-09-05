@@ -2,6 +2,7 @@
 Saved: 2026-08-31 23:09
 Source: 2026-08-31_15-34-54Z_TheHermonMoment_AISelf_TranscendenceandItsHumanNar.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2608.30971v1](http://arxiv.org/abs/2608.30971v1)
 
 ---
 

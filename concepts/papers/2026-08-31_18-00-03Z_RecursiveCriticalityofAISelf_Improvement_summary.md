@@ -2,6 +2,7 @@
 Saved: 2026-09-01 21:38
 Source: 2026-08-31_18-00-03Z_RecursiveCriticalityofAISelf_Improvement.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.00137v1](http://arxiv.org/abs/2609.00137v1)
 
 ---
 

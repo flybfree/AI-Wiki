@@ -2,6 +2,7 @@
 Saved: 2026-09-01 23:09
 Source: 2026-09-01_16-17-18Z_Harness_of_Harness_Multi_DayAutonomousSoftwareDeve.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.01481v1](http://arxiv.org/abs/2609.01481v1)
 
 ---
 

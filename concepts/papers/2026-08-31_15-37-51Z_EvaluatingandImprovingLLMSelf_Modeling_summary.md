@@ -2,6 +2,7 @@
 Saved: 2026-08-31 23:09
 Source: 2026-08-31_15-37-51Z_EvaluatingandImprovingLLMSelf_Modeling.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2608.30980v1](http://arxiv.org/abs/2608.30980v1)
 
 ---
 

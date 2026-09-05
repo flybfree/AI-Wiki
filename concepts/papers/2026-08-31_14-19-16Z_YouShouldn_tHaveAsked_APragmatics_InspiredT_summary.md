@@ -2,6 +2,7 @@
 Saved: 2026-08-31 23:06
 Source: 2026-08-31_14-19-16Z_YouShouldn_tHaveAsked_APragmatics_InspiredTaxonomy.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2608.30856v1](http://arxiv.org/abs/2608.30856v1)
 
 ---
 

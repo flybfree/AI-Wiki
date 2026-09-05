@@ -2,6 +2,7 @@
 Saved: 2026-09-01 21:38
 Source: 2026-08-31_18-34-25Z_ConvDeck_ConversationalPaper_to_SlideGenerationvia.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.00226v1](http://arxiv.org/abs/2609.00226v1)
 
 ---
 

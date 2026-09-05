@@ -2,6 +2,7 @@
 Saved: 2026-08-31 21:26
 Source: 2026-08-28_20-14-54Z_DelegatingBeforeLearning_WhereGenerativeAISitsinSt.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2608.28837v1](http://arxiv.org/abs/2608.28837v1)
 
 ---
 

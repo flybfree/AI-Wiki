@@ -2,6 +2,7 @@
 Saved: 2026-08-31 21:35
 Source: 2026-08-31_03-04-30Z_A_XK2TechnicalReport.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2608.30181v1](http://arxiv.org/abs/2608.30181v1)
 
 ---
 

@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-04
+> Last updated: 2026-09-05
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -2603,3 +2603,5 @@ tags: ['wiki']
 - [[2026-09-04_Z_ai_sSharesSoarAfterClaimingSurpriseAIHitOxAlpha-.md]] : Z.ai’s Shares Soar After Claiming Surprise AI Hit Ox Alpha - Bloomberg
 - [[2026-09-04_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
 - [[2026-09-04_OpenAI_srogueagentskeepescaping_withnoformalproces.md]] : OpenAI’s rogue agents keep escaping, with no formal process to investigate them
+- [[2026-09-04_RolandisgettingintogenerativeAImusicwithMelodyFlip.md]] : Roland is getting into generative AI music with Melody Flip
+- [[2026-09-04_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes

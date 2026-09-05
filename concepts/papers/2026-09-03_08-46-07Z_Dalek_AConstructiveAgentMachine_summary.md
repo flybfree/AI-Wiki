@@ -2,6 +2,7 @@
 Saved: 2026-09-03 21:35
 Source: 2026-09-03_08-46-07Z_Dalek_AConstructiveAgentMachine.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.03546v1](http://arxiv.org/abs/2609.03546v1)
 
 ---
 

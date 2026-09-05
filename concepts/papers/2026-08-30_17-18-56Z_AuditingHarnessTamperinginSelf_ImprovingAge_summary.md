@@ -2,6 +2,7 @@
 Saved: 2026-09-01 21:37
 Source: 2026-08-30_17-18-56Z_AuditingHarnessTamperinginSelf_ImprovingAgents.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.00069v1](http://arxiv.org/abs/2609.00069v1)
 
 ---
 

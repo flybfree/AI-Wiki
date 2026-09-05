@@ -2,6 +2,7 @@
 Saved: 2026-08-31 21:43
 Source: 2026-08-31_11-03-49Z_TheSafetyRelayinRoleplayJailbreaks_AComponent_Reso.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2608.30585v1](http://arxiv.org/abs/2608.30585v1)
 
 ---
 

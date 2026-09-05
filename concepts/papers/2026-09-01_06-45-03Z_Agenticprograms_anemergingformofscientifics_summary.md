@@ -2,6 +2,7 @@
 Saved: 2026-09-01 21:50
 Source: 2026-09-01_06-45-03Z_Agenticprograms_anemergingformofscientificsoftware.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.00795v1](http://arxiv.org/abs/2609.00795v1)
 
 ---
 

@@ -2,6 +2,7 @@
 Saved: 2026-09-01 23:05
 Source: 2026-09-01_15-45-33Z_HarnessDev_CanLLMsCreateandEvolveTheirOwnAgentHarn.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.01437v1](http://arxiv.org/abs/2609.01437v1)
 
 ---
 

@@ -2,6 +2,7 @@
 Saved: 2026-08-31 21:30
 Source: 2026-08-30_17-31-31Z_SleightofWordBenchmark_CanLanguageModelsNoticeIfTh.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2608.29921v1](http://arxiv.org/abs/2608.29921v1)
 
 ---
 

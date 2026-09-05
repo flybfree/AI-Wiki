@@ -2,6 +2,7 @@
 Saved: 2026-09-03 21:40
 Source: 2026-09-03_14-36-23Z_Value_PreservingArchitecturesforAgenticAISystems.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.03920v1](http://arxiv.org/abs/2609.03920v1)
 
 ---
 

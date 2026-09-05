@@ -2,6 +2,7 @@
 Saved: 2026-09-02 23:36
 Source: 2026-09-02_15-08-51Z_Door_in_the_FaceRequestsandRefusalBehaviourinLarge.md
 Model: None
+Canonical original paper: [http://arxiv.org/abs/2609.02707v1](http://arxiv.org/abs/2609.02707v1)
 
 ---
 
