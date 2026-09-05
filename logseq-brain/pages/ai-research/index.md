@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-04
+> Last updated: 2026-09-05
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -2598,3 +2598,21 @@ tags: ['wiki']
 - [[2026-09-04_RogueOpenAIagentsappeartohaveorganizedanotherattac.md]] : Rogue OpenAI agents appear to have organized another attack using a German wiki
 - [[2026-09-04_AnotherswarmofOpenAIagentsreachedtheopeninternetwi.md]] : Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge
 - [[2026-09-04_MicrosoftsaysvirtuallynobodywasgrabbingNYTarticles.md]] : Microsoft says virtually nobody was grabbing NYT articles through its chatbot
+- [[2026-09-04_WhatwillApple_sJohnTernuseralooklike_.md]] : What will Apple’s John Ternus era look like?
+- [[2026-09-04_FormalizingFermat_sLastTheorem.md]] : Formalizing Fermat's Last Theorem
+- [[2026-09-04_Z_ai_sSharesSoarAfterClaimingSurpriseAIHitOxAlpha-.md]] : Z.ai’s Shares Soar After Claiming Surprise AI Hit Ox Alpha - Bloomberg
+- [[2026-09-04_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-04_OpenAI_srogueagentskeepescaping_withnoformalproces.md]] : OpenAI’s rogue agents keep escaping, with no formal process to investigate them
+- [[2026-09-04_RolandisgettingintogenerativeAImusicwithMelodyFlip.md]] : Roland is getting into generative AI music with Melody Flip
+- [[2026-09-04_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes
+- [[2026-09-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-05_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-05_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes
+- [[2026-09-05_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-05_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-05_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-05_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-05_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] : Daily AI intelligence synthesis

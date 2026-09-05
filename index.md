@@ -2615,3 +2615,4 @@ tags: ['wiki']
 - [[2026-09-05_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
 - [[2026-09-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[2026-09-05_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] : Daily AI intelligence synthesis
