@@ -2619,3 +2619,6 @@ tags: ['wiki']
 - [[2026-09-05_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
 - [[2026-09-05_The__60GamingPC__AMDBC-250_2025_.md]] : The "$60 Gaming PC" – AMD BC-250 (2025)
 - [[2026-09-05_There_sNoLimittoHowBadCodeCanGet.md]] : There's No Limit to How Bad Code Can Get
+- [[2026-09-05_Flockused_100timestotrackveteranwhorecordedtraffic.md]] : Flock used >100 times to track veteran who recorded traffic stop
+- [[2026-09-05_OpenAIconfirms_wikiincident__saysit_s_workingonafr.md]] : OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
+

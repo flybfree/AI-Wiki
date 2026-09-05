@@ -12617,3 +12617,6 @@ tags: ['wiki']
 ## [2026-09-05 06:28] ingest | 2026-09-05_OpenAIadmitstoGermanwiki_incident_.md
 ## [2026-09-05 09:17] ingest | 2026-09-05_The__60GamingPC__AMDBC-250_2025_.md
 ## [2026-09-05 10:16] ingest | 2026-09-05_There_sNoLimittoHowBadCodeCanGet.md
+## [2026-09-05 12:44] ingest | 2026-09-05_Flockused_100timestotrackveteranwhorecordedtraffic.md
+## [2026-09-05 13:16] ingest | 2026-09-05_OpenAIconfirms_wikiincident__saysit_s_workingonafr.md
+
