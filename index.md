@@ -2605,3 +2605,13 @@ tags: ['wiki']
 - [[2026-09-04_OpenAI_srogueagentskeepescaping_withnoformalproces.md]] : OpenAI’s rogue agents keep escaping, with no formal process to investigate them
 - [[2026-09-04_RolandisgettingintogenerativeAImusicwithMelodyFlip.md]] : Roland is getting into generative AI music with Melody Flip
 - [[2026-09-04_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes
+- [[2026-09-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-05_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-05_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes
+- [[2026-09-05_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-05_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-05_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-05_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[2026-09-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-05_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
