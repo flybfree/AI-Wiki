@@ -2622,3 +2622,6 @@ tags: ['wiki']
 - [[2026-09-05_Flockused_100timestotrackveteranwhorecordedtraffic.md]] : Flock used >100 times to track veteran who recorded traffic stop
 - [[2026-09-05_OpenAIconfirms_wikiincident__saysit_s_workingonafr.md]] : OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
 
+- [[2026-09-05_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[2026-09-05_FalsehoodsProgrammersBelieveAboutLANs.md]] : Falsehoods Programmers Believe About LANs
+- [[2026-09-05_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft

@@ -12620,3 +12620,6 @@ tags: ['wiki']
 ## [2026-09-05 12:44] ingest | 2026-09-05_Flockused_100timestotrackveteranwhorecordedtraffic.md
 ## [2026-09-05 13:16] ingest | 2026-09-05_OpenAIconfirms_wikiincident__saysit_s_workingonafr.md
 
+## [2026-09-05 18:16] ingest | 2026-09-05_TheHuggingFaceincidentandtheroadahead_OpenAI.md
+## [2026-09-05 18:16] ingest | 2026-09-05_FalsehoodsProgrammersBelieveAboutLANs.md
+## [2026-09-05 18:16] ingest | 2026-09-05_SeattleTimesandNewsdayarethelatestpublicationstosu.md
