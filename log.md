@@ -12614,3 +12614,4 @@ tags: ['wiki']
 ## [2026-09-05 00:10] ingest | 2026-09-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md
 ## [2026-09-05 00:10] ingest | 2026-09-05_Transferlearningforgenomicpredictioninunderreprese.md
 
+## [2026-09-05 06:28] ingest | 2026-09-05_OpenAIadmitstoGermanwiki_incident_.md
