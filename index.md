@@ -2626,3 +2626,14 @@ tags: ['wiki']
 - [[2026-09-05_FalsehoodsProgrammersBelieveAboutLANs.md]] : Falsehoods Programmers Believe About LANs
 - [[2026-09-05_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
 - [[2026-09-05_Ferveret_sAdaptivePhaseCoolingchargescomputefornuc.md]] : Ferveret's Adaptive Phase Cooling charges compute for nuclear AI research
+- [[2026-09-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-06_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-06_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
+- [[2026-09-06_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
+- [[2026-09-06_Ferveret_sAdaptivePhaseCoolingchargescomputefornuc.md]] : Ferveret's Adaptive Phase Cooling charges compute for nuclear AI research
+- [[2026-09-06_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-06_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-06_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-06_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[2026-09-06_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
