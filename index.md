@@ -2625,3 +2625,4 @@ tags: ['wiki']
 - [[2026-09-05_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
 - [[2026-09-05_FalsehoodsProgrammersBelieveAboutLANs.md]] : Falsehoods Programmers Believe About LANs
 - [[2026-09-05_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
+- [[2026-09-05_Ferveret_sAdaptivePhaseCoolingchargescomputefornuc.md]] : Ferveret's Adaptive Phase Cooling charges compute for nuclear AI research

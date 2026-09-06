@@ -88,6 +88,14 @@ The competitive unit is increasingly the model plus harness plus expert data plu
 - **Defer:** Vendor-reported model and safety metrics; exact incident details pending primary postmortems; open-weight readiness claims pending operational evidence.
 - **Papers:** No new target-date arXiv paper retained.
 
+## Final Curation and Paper-Link Audit
+
+- Target date: **2026-09-05** (midnight final edition).
+- The complete curation query returned **0** papers with a `keep` decision approved on the target date.
+- Previously approved papers were checked against earlier dated briefings; **0 uncovered carry-forward papers** remained for this edition.
+- Final retained research-paper list: **0**. Consequently, the briefing contains **0 paper-summary links**, and the selected-paper/link-count check passes.
+- The target-day intake was kept AI-only. The late arXiv scout captures were reviewed for coverage, but no additional paper was promoted into the briefing without a curation keep decision.
+
 ## Source Links
 
 - [TIME — How OpenAI Lost Control of an AI Model](https://time.com/article/2026/07/24/openai-hugging-face-attack/)
