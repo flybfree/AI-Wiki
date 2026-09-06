@@ -2644,3 +2644,6 @@ tags: ['wiki']
 - [[2026-09-06_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
 - [[2026-09-06_AnAlienMind.md]] : An Alien Mind
 - [[2026-09-06_QBittorrentbreaksoutofsandboxtocommitcrimes.md]] : QBittorrent breaks out of sandbox to commit crimes
+- [[2026-09-06_AuthorspushbackaspublishersandagentsseekshareofAnt.md]] : Authors push back as publishers and agents seek share of Anthropic settlement
+- [[2026-09-06_AuthorspushbackaspublishersandagentsmakeclaimsonAn.md]] : Authors push back as publishers and agents make claims on Anthropic settlement
+- [[2026-09-06_IttookayeartoshipWebAssemblyinAnubis.md]] : It took a year to ship WebAssembly in Anubis

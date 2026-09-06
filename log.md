@@ -7,6 +7,7 @@ tags: ['wiki']
 
 ## [2026-09-06 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-06.md created from AI-only intake; four themes synthesized from the available raw capture, corroborating web sweep, and prior-day incident evidence; Isar Aerospace and genomics items excluded; vendor-reported Z.ai claims deferred; no new target-date arXiv paper retained; multiple per-article summaries had extraction failures
 ## [2026-09-06 11:00] summarize | daily briefing refreshed from the later AI-only ICTworks capture; five themes now include Anthropic’s $5M open crisis-safety evaluation grant program; raw article and failed per-article summary retained for traceability; no new target-date arXiv paper retained
+## [2026-09-06 17:30] summarize | daily briefing refreshed from the AI-only TechCrunch settlement capture; publisher-rights coverage now includes Anthropic’s $1.5B settlement payout administration; duplicate capture deduplicated; Anubis WebAssembly excluded as generic infrastructure; no new target-date arXiv paper retained because scout coverage lagged to September 3 and cs.LG fetch failed
 
 ## [2026-09-06 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md finalized as the canonical midnight edition; complete target-date curation query returned 0 keeps and 0 uncovered carry-forward papers; AI-only intake and late scout coverage reviewed; paper-summary link count 0 matches selected-paper count; Logseq mirror byte-identical; GitHub commit ee30c198 pushed and origin/master verified; Lumistorm post 181 published at https://lumistorm.net/daily-ai-intelligence-2026-09-05/; REST, live-page, and archive checks passed
 
@@ -12646,3 +12647,6 @@ tags: ['wiki']
 ## [2026-09-06 12:12] ingest | 2026-09-06_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md
 ## [2026-09-06 12:12] ingest | 2026-09-06_AnAlienMind.md
 ## [2026-09-06 12:12] ingest | 2026-09-06_QBittorrentbreaksoutofsandboxtocommitcrimes.md
+## [2026-09-06 16:12] ingest | 2026-09-06_AuthorspushbackaspublishersandagentsseekshareofAnt.md
+## [2026-09-06 17:13] ingest | 2026-09-06_AuthorspushbackaspublishersandagentsmakeclaimsonAn.md
+## [2026-09-06 17:13] ingest | 2026-09-06_IttookayeartoshipWebAssemblyinAnubis.md
