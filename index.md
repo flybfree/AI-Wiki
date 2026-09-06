@@ -2641,3 +2641,6 @@ tags: ['wiki']
 - [[2026-09-06_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
 - [[2026-09-06_IsarAerospacereachesorbitanddeployspayloadsonsecon.md]] : Isar Aerospace reaches orbit and deploys payloads on second flight
 - [[2026-09-06_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md]] : Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis - ICTworks
+- [[2026-09-06_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
+- [[2026-09-06_AnAlienMind.md]] : An Alien Mind
+- [[2026-09-06_QBittorrentbreaksoutofsandboxtocommitcrimes.md]] : QBittorrent breaks out of sandbox to commit crimes

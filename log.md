@@ -12643,3 +12643,6 @@ tags: ['wiki']
 ## [2026-09-06 01:17] ingest | 2026-09-06_News_Research_Product_CompanyUpdates_SpaceXAI.md
 ## [2026-09-06 04:13] ingest | 2026-09-06_IsarAerospacereachesorbitanddeployspayloadsonsecon.md
 ## [2026-09-06 10:12] ingest | 2026-09-06_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md
+## [2026-09-06 12:12] ingest | 2026-09-06_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md
+## [2026-09-06 12:12] ingest | 2026-09-06_AnAlienMind.md
+## [2026-09-06 12:12] ingest | 2026-09-06_QBittorrentbreaksoutofsandboxtocommitcrimes.md
