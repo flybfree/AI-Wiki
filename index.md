@@ -116,8 +116,9 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-06.md|Summary: Daily AI Intelligence Briefing — 2026-09-06]] — agent containment and disclosure, persistent enterprise agents, publisher litigation, and compute sovereignty
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] — containment failures, model access policy, expert rewards, and staged open weights
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-30.md|Summary: Daily AI Intelligence Briefing — 2026-08-30]] — task-specific training, governed model distribution, and end-to-end deployment systems
-- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md|Summary: Daily AI Intelligence Briefing — 2026-08-31]] — domain expertise inside workflows, evidence-gated open weights, and contract-governed model access
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-02.md|Summary: Daily AI Intelligence Briefing — 2026-09-02]] — evaluation containment, long-running agents, domain expertise, open-weight release gates, and compute sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-03.md|Summary: Daily AI Intelligence Briefing — 2026-09-03]] — evaluation containment, deployment-fit agents, expert rewards, staged open weights, and agent-ready infrastructure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-04.md|Summary: Daily AI Intelligence Briefing — 2026-09-04]] — containment failures, capability gating, persistent agents, expert rewards, domestic stacks, edge AI, and provenance
@@ -2637,3 +2638,5 @@ tags: ['wiki']
 - [[2026-09-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
 - [[2026-09-06_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
 - [[2026-09-06_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[2026-09-06_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-06_IsarAerospacereachesorbitanddeployspayloadsonsecon.md]] : Isar Aerospace reaches orbit and deploys payloads on second flight
