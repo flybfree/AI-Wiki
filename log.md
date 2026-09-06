@@ -6,6 +6,7 @@ tags: ['wiki']
 # Log
 
 ## [2026-09-06 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-06.md created from AI-only intake; four themes synthesized from the available raw capture, corroborating web sweep, and prior-day incident evidence; Isar Aerospace and genomics items excluded; vendor-reported Z.ai claims deferred; no new target-date arXiv paper retained; multiple per-article summaries had extraction failures
+## [2026-09-06 11:00] summarize | daily briefing refreshed from the later AI-only ICTworks capture; five themes now include Anthropic’s $5M open crisis-safety evaluation grant program; raw article and failed per-article summary retained for traceability; no new target-date arXiv paper retained
 
 ## [2026-09-06 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md finalized as the canonical midnight edition; complete target-date curation query returned 0 keeps and 0 uncovered carry-forward papers; AI-only intake and late scout coverage reviewed; paper-summary link count 0 matches selected-paper count; Logseq mirror byte-identical; GitHub commit ee30c198 pushed and origin/master verified; Lumistorm post 181 published at https://lumistorm.net/daily-ai-intelligence-2026-09-05/; REST, live-page, and archive checks passed
 
@@ -12641,3 +12642,4 @@ tags: ['wiki']
 ## [2026-09-06 00:15] ingest | 2026-09-06_Transferlearningforgenomicpredictioninunderreprese.md
 ## [2026-09-06 01:17] ingest | 2026-09-06_News_Research_Product_CompanyUpdates_SpaceXAI.md
 ## [2026-09-06 04:13] ingest | 2026-09-06_IsarAerospacereachesorbitanddeployspayloadsonsecon.md
+## [2026-09-06 10:12] ingest | 2026-09-06_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md

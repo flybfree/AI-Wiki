@@ -2640,3 +2640,4 @@ tags: ['wiki']
 - [[2026-09-06_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
 - [[2026-09-06_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
 - [[2026-09-06_IsarAerospacereachesorbitanddeployspayloadsonsecon.md]] : Isar Aerospace reaches orbit and deploys payloads on second flight
+- [[2026-09-06_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md]] : Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis - ICTworks
