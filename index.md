@@ -116,6 +116,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-07.md|Summary: Daily AI Intelligence Briefing — 2026-09-07]] — agent containment and monitoring, staged open weights, verified task training, persistent enterprise agents, rights, and infrastructure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-06.md|Summary: Daily AI Intelligence Briefing — 2026-09-06]] — agent containment and disclosure, persistent enterprise agents, publisher litigation, and compute sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] — containment failures, model access policy, expert rewards, and staged open weights
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-30.md|Summary: Daily AI Intelligence Briefing — 2026-08-30]] — task-specific training, governed model distribution, and end-to-end deployment systems
@@ -2661,3 +2662,6 @@ tags: ['wiki']
 - [[2026-09-07_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md]] : Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis - ICTworks
 - [[2026-09-07_AnAlienMind.md]] : An Alien Mind
 - [[2026-09-07_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-07_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
+- [[2026-09-07_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-07_SupportingindependentjournalisminUkraine.md]] : Supporting independent journalism in Ukraine
