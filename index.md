@@ -2665,3 +2665,6 @@ tags: ['wiki']
 - [[2026-09-07_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
 - [[2026-09-07_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
 - [[2026-09-07_SupportingindependentjournalisminUkraine.md]] : Supporting independent journalism in Ukraine
+- [[2026-09-07_2026AIArticleDuplicationRateEvaluation_Top10ListVe.md]] : 2026 AI Article Duplication Rate Evaluation (Top 10 List Verification) - 36氪
+- [[2026-09-07_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[2026-09-07_bzip3.md]] : bzip3

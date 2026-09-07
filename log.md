@@ -12884,3 +12884,6 @@ tags: ['wiki']
 ## [2026-09-07 02:13] ingest | 2026-09-07_OpenAIadmitstoGermanwiki_incident_.md
 ## [2026-09-07 02:17] ingest | 2026-09-07_News_Research_Product_CompanyUpdates_SpaceXAI.md
 ## [2026-09-07 03:13] ingest | 2026-09-07_SupportingindependentjournalisminUkraine.md
+## [2026-09-07 10:12] ingest | 2026-09-07_2026AIArticleDuplicationRateEvaluation_Top10ListVe.md
+## [2026-09-07 10:12] ingest | 2026-09-07_OpenAIandHuggingFacepartnertoaddresssecurityincide.md
+## [2026-09-07 11:12] ingest | 2026-09-07_bzip3.md
