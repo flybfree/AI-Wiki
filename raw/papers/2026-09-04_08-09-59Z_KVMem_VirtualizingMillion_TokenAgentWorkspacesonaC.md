@@ -1,0 +1,18 @@
+---
+title: KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU
+published: 2026-09-04T08:09:59Z
+authors: Di Chai, Leye Wang, Zeshen Su, Zhiguo Xia, Zhihang Yu
+url: http://arxiv.org/abs/2609.04852v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# KVMem: Virtualizing Million-Token Agent Workspaces on a Consumer GPU
+
+## Abstract
+Modern LLM agents operate in persistent workspaces whose accumulated history can exceed both GPU KV capacity and the model's native context window. Existing systems typically compact older context into summaries or retrieve it later as text, either losing fine-grained execution evidence or repeatedly prefilling content that the model has already processed. We present KVMem, a KV-context virtualization system that preserves overflowed workspace history as paged KV state across GPU memory, host memory, and NVMe. KVMem uses lightweight, model-native attention-space indexes to select relevant historical blocks and materializes a query-dependent execution view bounded by the model's native context window. Extensive evaluations on long-context agent benchmarks spanning histories up to one million tokens, including LongMemEval, MemoryAgentBench, and AgentLongBench, show that KVMem generally achieves higher task utility and greater inference efficiency than compaction-based approaches, the de facto standard for handling context overflow. In the DeepSWE long-context test with Qwen3.8-27B, KVMem improves task success from 43.8% with compaction-only context management to 48.4%.   In our local-deployment evaluation, KVMem runs Qwen3.6/3.8-27B NVFP4 with MTP on an off-the-shelf laptop equipped with a 24\,GB RTX 5090 Laptop GPU, virtualizing agent workspaces of up to 1M tokens-four times the model's native 256K-token context window. In a single-session setting, KVMem generates $\sim$50 tokens/s, providing interactive responsiveness for local agent execution. More broadly, by decoupling addressable workspace size from the LLM's native context window, KVMem provides a practical path toward long-running agents whose workspaces can grow beyond that window.
+
+## Metadata
+- **Published**: 2026-09-04T08:09:59Z
+- **Authors**: Di Chai, Leye Wang, Zeshen Su, Zhiguo Xia, Zhihang Yu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.04852v1)

@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-05
+> Last updated: 2026-09-06
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -116,8 +116,9 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-06.md|Summary: Daily AI Intelligence Briefing — 2026-09-06]] — agent containment and disclosure, persistent enterprise agents, publisher litigation, and compute sovereignty
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] — containment failures, model access policy, expert rewards, and staged open weights
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-30.md|Summary: Daily AI Intelligence Briefing — 2026-08-30]] — task-specific training, governed model distribution, and end-to-end deployment systems
-- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-31.md|Summary: Daily AI Intelligence Briefing — 2026-08-31]] — domain expertise inside workflows, evidence-gated open weights, and contract-governed model access
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-02.md|Summary: Daily AI Intelligence Briefing — 2026-09-02]] — evaluation containment, long-running agents, domain expertise, open-weight release gates, and compute sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-03.md|Summary: Daily AI Intelligence Briefing — 2026-09-03]] — evaluation containment, deployment-fit agents, expert rewards, staged open weights, and agent-ready infrastructure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-04.md|Summary: Daily AI Intelligence Briefing — 2026-09-04]] — containment failures, capability gating, persistent agents, expert rewards, domestic stacks, edge AI, and provenance
@@ -2616,3 +2617,36 @@ tags: ['wiki']
 - [[2026-09-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[2026-09-05_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] : Daily AI intelligence synthesis
+- [[2026-09-05_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
+- [[2026-09-05_The__60GamingPC__AMDBC-250_2025_.md]] : The "$60 Gaming PC" – AMD BC-250 (2025)
+- [[2026-09-05_There_sNoLimittoHowBadCodeCanGet.md]] : There's No Limit to How Bad Code Can Get
+- [[2026-09-05_Flockused_100timestotrackveteranwhorecordedtraffic.md]] : Flock used >100 times to track veteran who recorded traffic stop
+- [[2026-09-05_OpenAIconfirms_wikiincident__saysit_s_workingonafr.md]] : OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
+
+- [[2026-09-05_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[2026-09-05_FalsehoodsProgrammersBelieveAboutLANs.md]] : Falsehoods Programmers Believe About LANs
+- [[2026-09-05_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
+- [[2026-09-05_Ferveret_sAdaptivePhaseCoolingchargescomputefornuc.md]] : Ferveret's Adaptive Phase Cooling charges compute for nuclear AI research
+- [[2026-09-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-06_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-06_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
+- [[2026-09-06_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
+- [[2026-09-06_Ferveret_sAdaptivePhaseCoolingchargescomputefornuc.md]] : Ferveret's Adaptive Phase Cooling charges compute for nuclear AI research
+- [[2026-09-06_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-06_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-06_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[2026-09-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-06_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[2026-09-06_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[2026-09-06_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-09-06_IsarAerospacereachesorbitanddeployspayloadsonsecon.md]] : Isar Aerospace reaches orbit and deploys payloads on second flight
+- [[2026-09-06_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md]] : Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis - ICTworks
+- [[2026-09-06_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
+- [[2026-09-06_AnAlienMind.md]] : An Alien Mind
+- [[2026-09-06_QBittorrentbreaksoutofsandboxtocommitcrimes.md]] : QBittorrent breaks out of sandbox to commit crimes
+- [[2026-09-06_AuthorspushbackaspublishersandagentsseekshareofAnt.md]] : Authors push back as publishers and agents seek share of Anthropic settlement
+- [[2026-09-06_AuthorspushbackaspublishersandagentsmakeclaimsonAn.md]] : Authors push back as publishers and agents make claims on Anthropic settlement
+- [[2026-09-06_IttookayeartoshipWebAssemblyinAnubis.md]] : It took a year to ship WebAssembly in Anubis
+- [[2026-09-06_GrapheneOSOverhauledDefaultAppsandSecureClipboard.md]] : GrapheneOS Overhauled Default Apps and Secure Clipboard
+- [[2026-09-06_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
+- [[2026-09-06_MakingaPythoninterpreterin1024bytes.md]] : Making a Python interpreter in 1024 bytes

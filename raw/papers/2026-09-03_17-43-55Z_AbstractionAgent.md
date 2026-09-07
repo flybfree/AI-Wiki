@@ -1,0 +1,18 @@
+---
+title: Abstraction Agent
+published: 2026-09-03T17:43:55Z
+authors: Boning Li, Longbo Huang
+url: http://arxiv.org/abs/2609.04303v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Abstraction Agent
+
+## Abstract
+Information abstraction, which groups strategically similar private states into a tractable number of buckets, is essential for scaling game-solving algorithms to large imperfect-information games. Constructing effective abstractions, however, has traditionally required domain-specific evaluators such as hand-strength calculators or equity estimators, which demand expert knowledge and engineering effort and are unavailable for most less-studied games. We propose the Abstraction Agent, a zero-shot pipeline that uses a large language model (LLM) to discover continuous strategic features from a natural-language game description, score private states on these features, and cluster them into abstraction buckets, without any game-specific evaluator, training data, or game-tree traversal during abstraction construction. The pipeline runs in four phases: feature discovery with calibration anchors, batched private-state scoring, correlation-based feature selection, and $k$-means clustering. The resulting abstractions reduce lifted-strategy exploitability by up to 62% relative to an expected-hand-strength baseline on heads-up no-limit Texas hold'em (HUNL) turn endgames, and beat a scalar rank baseline at every granularity on ROVER Trials, an original game absent from any pretraining corpus. Beyond these quantitative benchmarks, the pipeline transfers with unchanged prompts to four-card Pot-Limit Omaha, HUNL preflop and flop, and Riichi Mahjong, where the discovered features track each game's recognized strategic concepts. This is structured knowledge elicitation: converting implicit strategic knowledge in LLM parameters into explicit numerical features for downstream algorithmic computation. The code is available at https://github.com/lbn187/AbstractionAgent.
+
+## Metadata
+- **Published**: 2026-09-03T17:43:55Z
+- **Authors**: Boning Li, Longbo Huang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.04303v1)

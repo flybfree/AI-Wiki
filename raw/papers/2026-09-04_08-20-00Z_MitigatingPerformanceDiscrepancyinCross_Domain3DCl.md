@@ -1,0 +1,18 @@
+---
+title: Mitigating Performance Discrepancy in Cross-Domain 3D Class-Incremental Learning
+published: 2026-09-04T08:20:00Z
+authors: Jinge Ma, Gautham Vinod, Bruce Coburn, Jui-Feng Chi, Siddeshwar Raghavan, Fengqing Zhu
+url: http://arxiv.org/abs/2609.04860v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Mitigating Performance Discrepancy in Cross-Domain 3D Class-Incremental Learning
+
+## Abstract
+3D perception plays a crucial role in real-world applications such as autonomous driving, robotics, and AR/VR. In practical scenarios, 3D perception models need to continually adapt to newly emerging 3D object categories, making class-incremental learning (CIL) particularly important. However, unlike 2D images, 3D point clouds are inherently heterogeneous: objects from the same class may not only come from the clean CAD domain, but also from RGB-D camera scans of varying quality, video reconstructions, or even corrupted observations. We discover that such heterogeneity introduces a new challenge beyond catastrophic forgetting: the degree of performance degradation can vary substantially across domains, a phenomenon we term performance discrepancy. To investigate this problem, we establish the Domain3D-CIL training and evaluation protocol, which contains point cloud categories from heterogeneous domains. We further adapt a wide range of mainstream CIL methods to the 3D modality. The results demonstrate that this performance discrepancy consistently appears across these baselines. To mitigate this issue, we introduce PolyMem, an exemplar-free approach that implicitly models rich high-order statistics of the feature distribution to enhance cross-domain robustness. Experiments demonstrate that our method effectively alleviates the performance discrepancy while improving the model's performance across domains. Code will be made publicly available upon acceptance.
+
+## Metadata
+- **Published**: 2026-09-04T08:20:00Z
+- **Authors**: Jinge Ma, Gautham Vinod, Bruce Coburn, Jui-Feng Chi, Siddeshwar Raghavan, Fengqing Zhu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.04860v1)

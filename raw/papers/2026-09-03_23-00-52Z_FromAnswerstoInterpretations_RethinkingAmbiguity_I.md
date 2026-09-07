@@ -1,0 +1,18 @@
+---
+title: From Answers to Interpretations: Rethinking Ambiguity-Induced Aleatoric Uncertainty Estimation in LLMs
+published: 2026-09-03T23:00:52Z
+authors: Omer Nahum, Niv Nayman, Jonathan Fhima, Alon Zolfi, Jeremy Levy, Shai Mazor, Paolo Favaro
+url: http://arxiv.org/abs/2609.04543v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# From Answers to Interpretations: Rethinking Ambiguity-Induced Aleatoric Uncertainty Estimation in LLMs
+
+## Abstract
+A key challenge in reliable LLM deployment is recognizing when uncertainty reflects irreducible variability in the task rather than limitations in the model's knowledge. In language tasks, a central source of such aleatoric uncertainty is input ambiguity or underspecification, where multiple interpretations remain plausible. Existing decomposition methods estimate aleatoric uncertainty by generating multiple clarifications of the input, querying the model for an answer under each clarification, and comparing the resulting answers. We argue that answers are not necessary for identifying ambiguity: they are often redundant, add avoidable cost, and can mislead through epistemic leakage. We support this claim theoretically, and propose a clarification-only approach that estimates this ambiguity-induced component directly from the space of plausible interpretations, without answers to the clarified inputs. Using ambiguity detection as an operational evaluation across three benchmarks, this direct approach improves AUROC (63.34 vs. 60.85), reduces computational cost by 4-26x in output tokens and 2.2-3.5x in API calls, and yields estimates with substantially lower correlation with epistemic uncertainty. Overall, our results suggest that ambiguity-induced aleatoric uncertainty is better estimated from the interpretation space than from the response space.
+
+## Metadata
+- **Published**: 2026-09-03T23:00:52Z
+- **Authors**: Omer Nahum, Niv Nayman, Jonathan Fhima, Alon Zolfi, Jeremy Levy, Shai Mazor, Paolo Favaro
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.04543v1)

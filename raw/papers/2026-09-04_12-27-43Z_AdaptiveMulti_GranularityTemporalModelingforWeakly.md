@@ -1,0 +1,18 @@
+---
+title: Adaptive Multi-Granularity Temporal Modeling for Weakly Supervised Video Anomaly Detection
+published: 2026-09-04T12:27:43Z
+authors: Changyi Li, Yu Xiao
+url: http://arxiv.org/abs/2609.05066v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Adaptive Multi-Granularity Temporal Modeling for Weakly Supervised Video Anomaly Detection
+
+## Abstract
+As the scale of video surveillance data outpaces manual annotation capacities, weakly supervised video anomaly detection (WSVAD) has emerged as a critical research frontier. Most existing approaches formulate WSVAD within a Multiple Instance Learning (MIL) framework that relies on rigid, hand-crafted temporal priors to supervise anomaly scoring. However, such formulations exhibit limited adaptability to the wide variation in anomaly durations and temporal dynamics observed in real-world videos, often leading to unstable or unreliable snippet-level predictions. To address this limitation, we propose an adaptive temporal modeling framework for WSVAD that explicitly accounts for variations in video dynamics across multiple temporal granularities. First, we introduce a Temporal Refinement Module (TRM) that leverages dynamic positional encoding and a learnable class token to model long-range temporal dependencies while distilling a stable global video-level representation. Second, to capture anomalous events with varying frequency and duration, we develop an adaptive Event Segmentation Module (ESM) that identifies event boundaries through temporal discontinuity analysis and aggregates snippet features into discriminative event-level representations. Finally, for snippet-level and event-level predictions, we propose an adaptive similarity-based fusion strategy that dynamically integrates anomaly scores into video-level predictions, replacing fixed top-k aggregation heuristics with global semantic relevance. Extensive experiments on two benchmarks demonstrate that the proposed framework consistently outperforms state-of-the-art methods.
+
+## Metadata
+- **Published**: 2026-09-04T12:27:43Z
+- **Authors**: Changyi Li, Yu Xiao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.05066v1)
