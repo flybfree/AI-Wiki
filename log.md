@@ -12887,3 +12887,5 @@ tags: ['wiki']
 ## [2026-09-07 10:12] ingest | 2026-09-07_2026AIArticleDuplicationRateEvaluation_Top10ListVe.md
 ## [2026-09-07 10:12] ingest | 2026-09-07_OpenAIandHuggingFacepartnertoaddresssecurityincide.md
 ## [2026-09-07 11:12] ingest | 2026-09-07_bzip3.md
+## [2026-09-07 16:12] ingest | 2026-09-07_WatchLosAngelesgetbuilt_onebuildingatatime_1880_20.md
+## [2026-09-07 16:12] ingest | 2026-09-07_TheHuggingFaceincidentandtheroadahead_OpenAI.md

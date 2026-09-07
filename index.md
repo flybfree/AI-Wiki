@@ -2668,3 +2668,4 @@ tags: ['wiki']
 - [[2026-09-07_2026AIArticleDuplicationRateEvaluation_Top10ListVe.md]] : 2026 AI Article Duplication Rate Evaluation (Top 10 List Verification) - 36氪
 - [[2026-09-07_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
 - [[2026-09-07_bzip3.md]] : bzip3
+- [[2026-09-07_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
