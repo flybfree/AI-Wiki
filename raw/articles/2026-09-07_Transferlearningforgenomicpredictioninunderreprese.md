@@ -6,9 +6,9 @@ type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/
 source_feed: Google AI Blog
-ai_relevance: include
-ai_topic: benchmark-eval
-ai_reason: meets AI relevance threshold
+ai_relevance: exclude
+ai_topic: out-of-scope-research
+ai_reason: AI-adjacent genomic research excluded from the retained AI-intelligence scope
 scraped: 2026-09-07 00:13
 ---
 

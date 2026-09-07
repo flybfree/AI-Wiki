@@ -6,9 +6,9 @@ type: article-full-text
 tags: [news, ai-research, full-text]
 source_url: https://eu.36kr.com/en/p/3973173155918336
 source_feed: AI Universe Explorer
-ai_relevance: include
-ai_topic: benchmark-eval
-ai_reason: meets AI relevance threshold
+ai_relevance: defer
+ai_topic: vendor-claims
+ai_reason: promotional benchmark and ranking claims require independent verification before inclusion
 scraped: 2026-09-07 10:11
 ---
 
