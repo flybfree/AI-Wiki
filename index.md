@@ -2650,3 +2650,14 @@ tags: ['wiki']
 - [[2026-09-06_GrapheneOSOverhauledDefaultAppsandSecureClipboard.md]] : GrapheneOS Overhauled Default Apps and Secure Clipboard
 - [[2026-09-06_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
 - [[2026-09-06_MakingaPythoninterpreterin1024bytes.md]] : Making a Python interpreter in 1024 bytes
+- [[2026-09-07_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[2026-09-07_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[2026-09-07_AuthorspushbackaspublishersandagentsmakeclaimsonAn.md]] : Authors push back as publishers and agents make claims on Anthropic settlement
+- [[2026-09-07_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-07_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-09-07_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
+- [[2026-09-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-07_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-07_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md]] : Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis - ICTworks
+- [[2026-09-07_AnAlienMind.md]] : An Alien Mind
+- [[2026-09-07_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
