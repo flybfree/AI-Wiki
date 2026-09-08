@@ -2682,3 +2682,10 @@ tags: ['wiki']
 - [[2026-09-08_Google_sAtlasofthehumangenomecouldpavethewayfornew.md]] : Google’s Atlas of the human genome could pave the way for new treatments
 - [[2026-09-08_GoogleDeepMindReleasesAlphaGenomeAtlas.md]] : Google DeepMind Releases AlphaGenome Atlas
 - [[2026-09-08_GoogleCloudracestocatchupintheAIdeploymentwarswith.md]] : Google Cloud races to catch up in the AI deployment wars with Accenture deal
+- [[2026-09-08_ChatGPTImages2_5.md]] : ChatGPT Images 2.5
+- [[2026-09-08_MetabetsonAIagentMusetocatchupinAIrace.md]] : Meta bets on AI agent Muse to catch up in AI race
+- [[2026-09-08_HowGPT-5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT-5.6 Sol helps run quantum computing experiments
+- [[2026-09-08_MetadebutsitsMuseAIagent_Willconsumerstrustit_.md]] : Meta debuts its Muse AI agent. Will consumers trust it?
+- [[2026-09-08_ChatGPTSketchturnsyourbaddrawingsintodetailedAIima.md]] : ChatGPT Sketch turns your bad drawings into detailed AI images
+- [[2026-09-08_KimiK3_2_8T_at1token_sonaMacBookPro_streamedfromfo.md]] : Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs
+- [[2026-09-08_DramaswirlsaroundOpenAI_slegendarymathematicalmile.md]] : Drama swirls around OpenAI’s legendary mathematical milestone
