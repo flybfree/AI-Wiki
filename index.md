@@ -2670,3 +2670,8 @@ tags: ['wiki']
 - [[2026-09-07_bzip3.md]] : bzip3
 - [[2026-09-07_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
 - [[2026-09-07_TALAIsOpen-Source.md]] : TALA Is Open-Source
+- [[2026-09-08_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
+- [[2026-09-08_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[2026-09-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-08_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-08_SupportingindependentjournalisminUkraine.md]] : Supporting independent journalism in Ukraine
