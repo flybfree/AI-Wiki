@@ -12904,3 +12904,4 @@ tags: ['wiki']
 ## [2026-09-08 09:11] ingest | 2026-09-08_DaVinciResolve21_1.md
 ## [2026-09-08 09:20] ingest | 2026-09-08_Google_sAtlasofthehumangenomecouldpavethewayfornew.md
 ## [2026-09-08 11:11] ingest | 2026-09-08_GoogleDeepMindReleasesAlphaGenomeAtlas.md
+## [2026-09-08 12:11] ingest | 2026-09-08_GoogleCloudracestocatchupintheAIdeploymentwarswith.md

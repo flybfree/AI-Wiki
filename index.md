@@ -2681,3 +2681,4 @@ tags: ['wiki']
 - [[2026-09-08_DaVinciResolve21_1.md]] : DaVinci Resolve 21.1
 - [[2026-09-08_Google_sAtlasofthehumangenomecouldpavethewayfornew.md]] : Google’s Atlas of the human genome could pave the way for new treatments
 - [[2026-09-08_GoogleDeepMindReleasesAlphaGenomeAtlas.md]] : Google DeepMind Releases AlphaGenome Atlas
+- [[2026-09-08_GoogleCloudracestocatchupintheAIdeploymentwarswith.md]] : Google Cloud races to catch up in the AI deployment wars with Accenture deal
