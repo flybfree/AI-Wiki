@@ -16,6 +16,63 @@ STATE_DIR = ROOT / ".curation"
 DB_PATH = STATE_DIR / "review.sqlite3"
 MIN_REVIEW_SCORE = 0.60
 
+# Explicit scope takes precedence over the learned profile.  The profile is
+# useful for ranking papers inside the user's interests, but it should not
+# widen the scope merely because a broad AI paper was previously kept.
+INTEREST_PATTERNS = {
+    "agent_harness": (
+        r"\bagent(?:s|ic)?\b|harness|tool[- ]?(?:use|calling)|computer[- ]use|"
+        r"coding agent|agent workflow|agent orchestration|agent memory"
+    ),
+    "model_release": (
+        r"model release|released model|new model|foundation model|large language model|"
+        r"\bllm\b|language model|pretrain(?:ing|ed)?|instruction tuning|"
+        r"llama|qwen|mistral|deepseek|gemma|olmo|phi[- ]?\d|kimi|glm"
+    ),
+    "open_model": r"open[- ](?:source|weight)|open model|weights released|model weights|hugging face|huggingface",
+    "frontier_model": r"frontier model|state of the art|scaling law|scaling laws|mixture[- ]of[- ]experts|\bmoe\b|reasoning model",
+    "benchmarking": r"benchmark(?:s|ing)?|evaluation|evaluating|leaderboard|test[- ]time|red[- ]team|capability assessment",
+    "local_ai": (
+        r"local(?:ly)? deploy|on[- ]device|edge model|quantiz(?:ation|ed)|gguf|lm studio|"
+        r"ollama|llama\.cpp|vllm|local inference|inference serving|self[- ]host"
+    ),
+}
+
+APPLICATION_PATTERNS = (
+    r"clinical|medical|healthcare|disease|drug|molecular|biomedical|financial|finance|"
+    r"banking|trading|retail|agricultur|traffic|autonomous driving|robotic|robotics|"
+    r"recommendation|education|student|classroom|music|speech recognition|wireless|"
+    r"hvac|energy systems|supply chain|industrial"
+)
+
+
+def explicit_interest(title: str, text: str, tags: list[str] | None = None) -> dict[str, Any]:
+    """Score only the user's declared interests, independently of learning."""
+    title_hits = {
+        name for name, pattern in INTEREST_PATTERNS.items()
+        if re.search(pattern, title, re.IGNORECASE)
+    }
+    body = " ".join(tags or []) + " " + text[:8000]
+    body_hits = {
+        name for name, pattern in INTEREST_PATTERNS.items()
+        if re.search(pattern, body, re.IGNORECASE)
+    }
+    # Do not confuse an LLM-powered domain application with research about
+    # models. Other declared interests remain sufficient for applied papers.
+    if (
+        re.search(APPLICATION_PATTERNS, title, re.IGNORECASE)
+        and title_hits <= {"model_release", "frontier_model"}
+    ):
+        title_hits -= {"model_release", "frontier_model"}
+    # A title hit is strong evidence.  Body-only matches need two distinct
+    # interest areas so generic mentions of "AI" or "evaluation" do not pass.
+    relevant = bool(title_hits) or len(body_hits) >= 2
+    score = min(0.99, 0.55 + 0.18 * len(title_hits) + 0.10 * len(body_hits))
+    if not relevant:
+        score = min(score, 0.20)
+    return {"score": round(score, 3), "relevant": relevant,
+            "title_hits": sorted(title_hits), "body_hits": sorted(body_hits)}
+
 
 def _db() -> sqlite3.Connection:
     STATE_DIR.mkdir(exist_ok=True)

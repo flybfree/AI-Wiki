@@ -12912,3 +12912,4 @@ tags: ['wiki']
 ## [2026-09-08 15:37] ingest | 2026-09-08_ChatGPTSketchturnsyourbaddrawingsintodetailedAIima.md
 ## [2026-09-08 16:10] ingest | 2026-09-08_KimiK3_2_8T_at1token_sonaMacBookPro_streamedfromfo.md
 ## [2026-09-08 17:11] ingest | 2026-09-08_DramaswirlsaroundOpenAI_slegendarymathematicalmile.md
+## [2026-09-08 18:14] ingest | 2026-09-08_LargeLanguageModelsDevelopNovelSocialBiasesThrough.md
