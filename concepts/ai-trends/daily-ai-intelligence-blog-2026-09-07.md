@@ -88,6 +88,14 @@ The day’s common thread is system scaling. More capable models are entering pe
 - **Defer:** unverified Z.ai hardware details, vendor benchmark/ranking claims, and exact incident chronology pending primary evidence or independent reproduction.
 - **Papers:** no new target-date arXiv paper retained.
 
+## Final Curation and Paper-Link Audit
+
+- Target date: **2026-09-07** (midnight final edition).
+- The complete curation query returned **0** papers with a `keep` decision approved on the target date.
+- Previously approved papers were normalized against all earlier dated briefings; **0 uncovered carry-forward papers** remained for this edition.
+- Final retained research-paper list: **0**. The briefing contains **0 paper-summary links**, matching the normalized curation result.
+- No canonical paper-summary/original-paper chain was required because the final retained-paper set is empty.
+
 ## Source Links
 
 - [OpenAI admits to German wiki incident — The Verge](https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident)
