@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-07
+> Last updated: 2026-09-08
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -116,6 +116,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — staged open-weight release, verified task-specific RL, sovereign AI capital, security urgency, provenance, and sector deployment
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-07.md|Summary: Daily AI Intelligence Briefing — 2026-09-07]] — agent containment and monitoring, staged open weights, verified task training, persistent enterprise agents, rights, and infrastructure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-06.md|Summary: Daily AI Intelligence Briefing — 2026-09-06]] — agent containment and disclosure, persistent enterprise agents, publisher litigation, and compute sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] — containment failures, model access policy, expert rewards, and staged open weights
@@ -2677,3 +2678,6 @@ tags: ['wiki']
 - [[2026-09-08_SupportingindependentjournalisminUkraine.md]] : Supporting independent journalism in Ukraine
 - [[2026-09-08_Wehaveayeartofixsecurityeverywhere.md]] : We have a year to fix security everywhere
 - [[2026-09-08_Mistralraises_3Btomakesovereign_open-weightAIthete.md]] : Mistral raises €3B to make sovereign, open-weight AI the technology frontier
+- [[2026-09-08_DaVinciResolve21_1.md]] : DaVinci Resolve 21.1
+- [[2026-09-08_Google_sAtlasofthehumangenomecouldpavethewayfornew.md]] : Google’s Atlas of the human genome could pave the way for new treatments
+- [[2026-09-08_GoogleDeepMindReleasesAlphaGenomeAtlas.md]] : Google DeepMind Releases AlphaGenome Atlas
