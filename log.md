@@ -12897,3 +12897,5 @@ tags: ['wiki']
 ## [2026-09-08 00:26] ingest | 2026-09-08_ASafePathtoOpenWeights.md
 ## [2026-09-08 00:26] ingest | 2026-09-08_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md
 ## [2026-09-08 00:26] ingest | 2026-09-08_SupportingindependentjournalisminUkraine.md
+## [2026-09-08 01:11] ingest | 2026-09-08_Wehaveayeartofixsecurityeverywhere.md
+## [2026-09-08 02:11] ingest | 2026-09-08_Mistralraises_3Btomakesovereign_open-weightAIthete.md

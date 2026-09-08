@@ -2675,3 +2675,5 @@ tags: ['wiki']
 - [[2026-09-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-08_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-08_SupportingindependentjournalisminUkraine.md]] : Supporting independent journalism in Ukraine
+- [[2026-09-08_Wehaveayeartofixsecurityeverywhere.md]] : We have a year to fix security everywhere
+- [[2026-09-08_Mistralraises_3Btomakesovereign_open-weightAIthete.md]] : Mistral raises €3B to make sovereign, open-weight AI the technology frontier
