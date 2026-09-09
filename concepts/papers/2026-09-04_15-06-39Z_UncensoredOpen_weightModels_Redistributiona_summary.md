@@ -1,6 +1,7 @@
 # Summary: 2026-09-04_15-06-39Z_UncensoredOpen_weightModels_RedistributionasthePer.md
 Saved: 2026-09-06 21:46
 Source: 2026-09-04_15-06-39Z_UncensoredOpen_weightModels_RedistributionasthePer.md
+Original paper: [arXiv:2609.05241](https://arxiv.org/abs/2609.05241)
 Model: None
 
 ---

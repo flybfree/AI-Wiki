@@ -69,6 +69,30 @@ Separately, [The Verge reports](https://www.theverge.com/ai-artificial-intellige
 
 **Why it matters:** Security remediation, dataset lineage, and proof provenance all require records that survive model iteration. A compelling demo is not enough when the claim affects infrastructure, law, or a mathematical field’s priority norms.
 
+## Approved Research Papers
+
+The curation store recorded **11 unique keep decisions on 2026-09-08**. None had appeared in an earlier dated daily briefing, so all are carried forward here. Their ingestion dates precede today; the approval date is the date that makes them required in this final edition.
+
+### Agents, skills, memory, and delegation
+
+- [From Language Models to World-Acting Systems](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-04_08-52-28Z_FromLanguageModelstoWorld_ActingSystems_Pro_summary.md) — The review separates tool access from robust completion, recovery, authorization, and independent verification. **Why it matters:** delegation should be justified by evidence at the system-and-harness level, not inferred from model fluency.
+- [From Interaction Traces to Persistent Skills](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-04_08-29-45Z_FromInteractionTracestoPersistentSkills_Onl_summary.md) — A versioned skill library improved OSWorld scores by 5.7–18.6 percentage points after warm-up, but provenance loss and revision churn remained. **Why it matters:** persistent skills can lift a fixed agent stack without retraining, provided updates remain auditable.
+- [Does Your Agent’s Memory Survive a Model Upgrade?](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-04_16-44-17Z_DoesYourAgent_sMemorySurviveaModelUpgrade_A_summary.md) — Fixed-schema knowledge graphs transferred reliably, while compressed notes shifted by up to 13.28 points and mixed embeddings lost much of the retrieval gain. **Why it matters:** memory migration needs direction-specific tests, isolated embedding spaces, and retained source history.
+- [Diffusion Language Models for Mobile Edge Agentic AI](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-04_06-16-49Z_DiffusionLanguageModelsforMobileEdgeAgentic_summary.md) — This work studies diffusion language models as a route to agentic inference under mobile and edge constraints. **Why it matters:** edge agents may trade decoding behavior and model flexibility for latency, energy, and privacy; deployment claims need workload-level evaluation.
+
+### Alignment, evaluation, and trustworthy retrieval
+
+- [How Do LLMs Evaluate Perceived Moral Agency?](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-04_11-56-59Z_HowdoLLMsEvaluatePerceivedMoralAgency_Inves_summary.md) — Human raters attributed more moral agency to humans than autonomous artificial agents (8.2/10 versus 6.5/10), while model judgments were strongly driven by harm severity and context. **Why it matters:** public-service agents need explicit responsibility and escalation design rather than assumed moral reasoning.
+- [On the Recoverability of Private Information Unlearned from LLMs](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-30_18-17-02Z_OntheRecoverabilityofPrivateInformationUnle_summary.md) — Inverse greedy decoding recovered supposedly unlearned private strings with over 95% success in the reported 12B-model experiment. **Why it matters:** unlearning must be tested for recoverability, not just output suppression.
+- [Faithfulness Is Not Free](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-31_15-47-23Z_FaithfulnessIsNotFree_AuditingOfflineKV_Cac_summary.md) — INT8 offline key-value cache quantization was near-lossless, but INT4 caused over 90% of remaining accurate answers to lose evidential grounding. **Why it matters:** RAG compression requires faithfulness audits alongside accuracy metrics.
+- [How Do Language Models Choose Between Context and Memory?](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-01_05-35-36Z_HowDoLanguageModelsChooseBetweenContextandM_summary.md) — Authority directions reproduced 30–68% of source-choice shifts, but cross-task transfer recovered only about 9% of the authority gap versus about 57% with local learning. **Why it matters:** context-versus-parameter control is task-specific, limiting universal steering recipes.
+- [Large Language Models Systematically Favor Popular Options](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-29_13-21-07Z_LargeLanguageModelsSystematicallyFavorPopul_summary.md) — Under strong popularity pressure, models selected incorrect popular answers 66% of the time; PopDebias reduced this below 20% in the reported benchmark. **Why it matters:** benchmark design and lightweight inference-time debiasing can materially change apparent reliability.
+
+### Open-weight governance and adaptive education
+
+- [Uncensored Open-Weight Models: Redistribution as the Persistence Layer](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-04_15-06-39Z_UncensoredOpen_weightModels_Redistributiona_summary.md) — The study catalogs 3,471 original uncensored models, 8,164 compressed redistributions, and 1,643 GitHub applications, with 25% classified as explicitly malicious. **Why it matters:** takedown from a registry does not equal removal; redistribution is a durable governance problem.
+- [A Prompt-Engineering Approach to Develop Scalable, Flexible, Real-Time Personalization](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-03_06-01-47Z_APrompt_EngineeringApproachtoDevelopScalabl_summary.md) — Six learner dimensions and Bloom’s Taxonomy generated 96 prompt-conditioned teaching profiles without retraining, with higher reported relevance and satisfaction than generic prompting. **Why it matters:** personalization can be deployed quickly, but modest objective gains and human-evaluation limits argue against treating style adaptation as learning improvement.
+
 ## What Changed Today
 
 - Thinking Machines made staged access and ecosystem readiness central to its open-weight release framework.
@@ -78,7 +102,7 @@ Separately, [The Verge reports](https://www.theverge.com/ai-artificial-intellige
 - Mistral’s financing and Google Cloud’s Accenture unit reinforced that sovereign infrastructure and implementation are strategic moats.
 - OpenAI’s image release and the Deltafin Kimi K3 project showed two different forms of productization: polished consumer/API workflows and aggressive local-runtime engineering.
 - Security remediation, copyright provenance, and independent mathematical verification all emerged as constraints on scaling capability.
-- The latest arXiv scout saw 850 unique entries but only through September 4 UTC; no September 8 paper can be claimed complete from that coverage.
+- The latest arXiv scout saw 850 unique entries but only through September 4 UTC; no new September 8-ingested paper can be claimed complete from that coverage, while 11 older papers were approved through curation and are included above.
 
 ## Why It Matters
 
@@ -99,7 +123,7 @@ The day’s common thread is control under capability growth. The important syst
 - **Include:** open-weight safety; verified task-specific RL; Meta Muse; ChatGPT Images 2.5; quantum-computing agents; AlphaGenome Atlas; Mistral financing; Google Cloud deployment; Kimi K3 local-runtime engineering; security; publisher litigation; and the OpenAI mathematics dispute.
 - **Defer:** exact security-forecast timelines, abliterated-model benchmark claims, Deltafin’s broader accessibility implications, vendor benchmark comparisons, and unverified claims about model superiority.
 - **Deduplicate:** the two AlphaGenome captures were merged into one science cluster; the two Meta Muse captures were merged into one agent cluster; the two ChatGPT image captures were merged into one product cluster.
-- **Papers:** no new target-date arXiv paper was retained because the latest scout coverage stops at September 4 UTC.
+- **Papers:** 11 unique papers were approved in the 2026-09-08 curation window; all canonical summary paths were resolved and linked above. They are older-ingestion carry-forwards, not claims of complete September 8 arXiv coverage.
 
 ## Source Links
 

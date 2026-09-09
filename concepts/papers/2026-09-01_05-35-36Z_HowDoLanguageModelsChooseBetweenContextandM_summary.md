@@ -1,6 +1,7 @@
 # Summary: 2026-09-01_05-35-36Z_HowDoLanguageModelsChooseBetweenContextandMemory.md
 Saved: 2026-09-01 21:50
 Source: 2026-09-01_05-35-36Z_HowDoLanguageModelsChooseBetweenContextandMemory.md
+Original paper: [arXiv:2609.00753](https://arxiv.org/abs/2609.00753)
 Model: None
 
 ---

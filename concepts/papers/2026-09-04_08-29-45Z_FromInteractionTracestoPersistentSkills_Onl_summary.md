@@ -1,6 +1,7 @@
 # Summary: 2026-09-04_08-29-45Z_FromInteractionTracestoPersistentSkills_OnlineEvol.md
 Saved: 2026-09-06 21:44
 Source: 2026-09-04_08-29-45Z_FromInteractionTracestoPersistentSkills_OnlineEvol.md
+Original paper: [arXiv:2609.04869](https://arxiv.org/abs/2609.04869)
 Model: None
 
 ---

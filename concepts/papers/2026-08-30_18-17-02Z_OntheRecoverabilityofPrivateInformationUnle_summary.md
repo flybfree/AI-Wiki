@@ -1,6 +1,7 @@
 # Summary: 2026-08-30_18-17-02Z_OntheRecoverabilityofPrivateInformationUnlearningi.md
 Saved: 2026-08-31 22:38
 Source: 2026-08-30_18-17-02Z_OntheRecoverabilityofPrivateInformationUnlearningi.md
+Original paper: [arXiv:2608.29943](https://arxiv.org/abs/2608.29943)
 Model: None
 
 ---

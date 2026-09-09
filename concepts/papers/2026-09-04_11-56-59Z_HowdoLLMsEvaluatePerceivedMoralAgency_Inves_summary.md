@@ -1,6 +1,7 @@
 # Summary: 2026-09-04_11-56-59Z_HowdoLLMsEvaluatePerceivedMoralAgency_Investigatin.md
 Saved: 2026-09-06 21:45
 Source: 2026-09-04_11-56-59Z_HowdoLLMsEvaluatePerceivedMoralAgency_Investigatin.md
+Original paper: [arXiv:2609.05037](https://arxiv.org/abs/2609.05037)
 Model: None
 
 ---

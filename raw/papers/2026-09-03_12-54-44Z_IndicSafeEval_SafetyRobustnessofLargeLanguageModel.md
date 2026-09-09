@@ -2,7 +2,7 @@
 title: IndicSafeEval: Safety Robustness of Large Language Models under Multilingual Persuasive Jailbreak Attacks
 published: 2026-09-03T12:54:44Z
 authors: Saikat Mondal,  Mamta, Deeksha Varshney, Oana Cocarascu, Asif Ekbal
-url: http://arxiv.org/abs/2609.03781v1
+url: http://arxiv.org/abs/2609.03781v2
 type: paper-summary
 tags: [paper-summary, arxiv]
 ---
@@ -15,4 +15,4 @@ Large language models (LLMs) are increasingly used in multilingual settings, yet
 ## Metadata
 - **Published**: 2026-09-03T12:54:44Z
 - **Authors**: Saikat Mondal,  Mamta, Deeksha Varshney, Oana Cocarascu, Asif Ekbal
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.03781v1)
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.03781v2)

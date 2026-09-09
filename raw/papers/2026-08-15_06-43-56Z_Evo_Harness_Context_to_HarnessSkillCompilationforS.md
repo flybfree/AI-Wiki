@@ -2,7 +2,7 @@
 title: Evo-Harness: Context-to-Harness Skill Compilation for Self-Evolving Agents
 published: 2026-08-15T06:43:56Z
 authors: Tianxin Wei, Zhan Shi, Minhua Lin, Bing He, Zewen Liu, Yisi Sang, Yuanchen Bei, Xuying Ning, Jiaru Zou, Ting-Wei Li, Xiao Lin, Yanjun Zhao, Chi Wang, Benoit Dumoulin, Dakuo Wang, Jingrui He, Hanqing Lu
-url: http://arxiv.org/abs/2608.15071v1
+url: http://arxiv.org/abs/2608.15071v2
 type: paper-summary
 tags: [paper-summary, arxiv]
 ---
@@ -15,4 +15,4 @@ Learning from experience is critical for developing capable, self-improving larg
 ## Metadata
 - **Published**: 2026-08-15T06:43:56Z
 - **Authors**: Tianxin Wei, Zhan Shi, Minhua Lin, Bing He, Zewen Liu, Yisi Sang, Yuanchen Bei, Xuying Ning, Jiaru Zou, Ting-Wei Li, Xiao Lin, Yanjun Zhao, Chi Wang, Benoit Dumoulin, Dakuo Wang, Jingrui He, Hanqing Lu
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15071v1)
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.15071v2)

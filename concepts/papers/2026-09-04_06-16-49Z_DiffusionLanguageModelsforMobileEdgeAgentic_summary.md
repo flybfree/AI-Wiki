@@ -1,4 +1,5 @@
 # Summary: 2026-09-04_06-16-49Z_DiffusionLanguageModelsforMobileEdgeAgenticAI_Foun.md
+Original paper: [arXiv:2609.04778](https://arxiv.org/abs/2609.04778)
 Saved: 2026-09-06 21:42
 Source: 2026-09-04_06-16-49Z_DiffusionLanguageModelsforMobileEdgeAgenticAI_Foun.md
 Model: None

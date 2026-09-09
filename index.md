@@ -2690,3 +2690,5 @@ tags: ['wiki']
 - [[2026-09-08_KimiK3_2_8T_at1token_sonaMacBookPro_streamedfromfo.md]] : Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs
 - [[2026-09-08_DramaswirlsaroundOpenAI_slegendarymathematicalmile.md]] : Drama swirls around OpenAI’s legendary mathematical milestone
 - [[2026-09-08_LargeLanguageModelsDevelopNovelSocialBiasesThrough.md]] : Large Language Models Develop Novel Social Biases Through Adaptive Exploration
+- [[2026-09-08_Harvardstudypredictsmostsuicideattemptsaweekinadva.md]] : Harvard study predicts most suicide attempts a week in advance
+- [[2026-09-08_OpenAIclaimstohavesolvedmathsproblemthatstumpedhum.md]] : OpenAI claims to have solved maths problem that stumped humans for decades

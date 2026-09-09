@@ -1,6 +1,7 @@
 # Summary: 2026-08-29_13-21-07Z_LargeLanguageModelsSystematicallyFavorPopularOptio.md
 Saved: 2026-08-31 20:43
 Source: 2026-08-29_13-21-07Z_LargeLanguageModelsSystematicallyFavorPopularOptio.md
+Original paper: [arXiv:2608.29257](https://arxiv.org/abs/2608.29257)
 Model: None
 
 ---

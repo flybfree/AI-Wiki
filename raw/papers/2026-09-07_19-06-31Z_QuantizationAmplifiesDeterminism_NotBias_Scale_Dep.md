@@ -1,0 +1,18 @@
+---
+title: Quantization Amplifies Determinism, Not Bias: Scale-Dependent Behavioral Effects of Serving-Time Weight Compression
+published: 2026-09-07T19:06:31Z
+authors: Dachi Kurtskhalia
+url: http://arxiv.org/abs/2609.07901v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Quantization Amplifies Determinism, Not Bias: Scale-Dependent Behavioral Effects of Serving-Time Weight Compression
+
+## Abstract
+Weight quantization largely determines the economics of serving open-weight LLMs. Its costs are usually assessed with capability benchmarks, on which 4-bit quantization of mid-sized models is often considered "nearly free." We examine a different question: when several answers are valid, does quantization change what a model chooses to say? We serve three checkpoints (Qwen3-8B/14B/32B) at three weight precisions (W4A16 AWQ, W8A16 FP8-Marlin, and bf16), holding the hardware, software, and sampling configuration constant, and collect approximately 71,000 completions paired by prompt and seed across two custom, leak-checked prompt batteries. We pre-specified the analyses in three waves in version control. At 8B, int4 reduces output diversity: the probability that two samples for the same scenario recommend the same brand increases by 5.1 percentage points (prompt-paired sign-flip test, Holm p = .023; reproduced at +4.4pp on a full regeneration of the arm), and lexical diversity falls substantially (TTR -0.011, standardized effect -0.51; robust to a length-controlled measure). At 14B and 32B, no content-concentration measure reaches significance; instead, stylistic drift emerges (em-dash rate +0.46/1k words at 14B and +0.61/1k at 32B, both Holm p <= .0024). Pre-specified tests of stereotype direction are null at every scale: outputs concentrate on the modal answer for each prompt rather than on stereotypical answers. Mechanistically, the token-level distribution becomes flatter (decision-token entropy +0.091 bits, p = .015) while the semantic distribution, measured directly from first-token log probabilities, becomes more concentrated (collision +2.6pp, p = .023): individual tokens become less predictable even as meanings become more repetitive. At 8B, the smallest size tested, AWQ-int4 serving measurably narrows the range of suggestions; audits should assess concentration as well as bias.
+
+## Metadata
+- **Published**: 2026-09-07T19:06:31Z
+- **Authors**: Dachi Kurtskhalia
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.07901v1)

@@ -1,6 +1,7 @@
 # Summary: 2026-09-04_08-52-28Z_FromLanguageModelstoWorld_ActingSystems_Progressan.md
 Saved: 2026-09-06 21:44
 Source: 2026-09-04_08-52-28Z_FromLanguageModelstoWorld_ActingSystems_Progressan.md
+Original paper: [arXiv:2609.04894](https://arxiv.org/abs/2609.04894)
 Model: None
 
 ---

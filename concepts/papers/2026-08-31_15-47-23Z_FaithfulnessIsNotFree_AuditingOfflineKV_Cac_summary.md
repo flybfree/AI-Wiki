@@ -1,6 +1,7 @@
 # Summary: 2026-08-31_15-47-23Z_FaithfulnessIsNotFree_AuditingOfflineKV_CacheQuant.md
 Saved: 2026-08-31 23:09
 Source: 2026-08-31_15-47-23Z_FaithfulnessIsNotFree_AuditingOfflineKV_CacheQuant.md
+Original paper: [arXiv:2608.30996](https://arxiv.org/abs/2608.30996)
 Model: None
 
 ---

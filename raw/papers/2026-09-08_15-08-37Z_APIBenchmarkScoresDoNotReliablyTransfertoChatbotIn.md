@@ -1,0 +1,18 @@
+---
+title: API Benchmark Scores Do Not Reliably Transfer to Chatbot Interfaces
+published: 2026-09-08T15:08:37Z
+authors: Jennifer Wang, Joachim Baumann, Daniel E. Ho, Sanmi Koyejo
+url: http://arxiv.org/abs/2609.08861v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# API Benchmark Scores Do Not Reliably Transfer to Chatbot Interfaces
+
+## Abstract
+Benchmark scores are a central currency in model releases: they inform purchasing decisions, shape public trust, and influence policy. Yet, a key assumption underlying benchmark scores is that the model performance measured through APIs faithfully reflects the behavior of deployed systems.   We challenge this assumption by auditing ChatGPT, Claude, and Gemini across seven systems and nine benchmarks spanning general capability, social bias, and sycophancy. We find systematic API--interface differences in both accuracy and consistency. On average, API evaluations score 3.4 percentage points higher in accuracy and 2.1 percentage points higher in test--retest agreement than corresponding interface evaluations. For ChatGPT, the performance difference between API and interface access exceeds the API-only difference between GPT 5.3 and GPT 5.4. Put differently, switching access surfaces can degrade performance as much as downgrading a full model generation.   We further test whether exposed API controls can reproduce interface behavior by varying system prompts, sampling parameters, and reasoning settings. These controls shift behavior in some cases but do not reliably eliminate the gap. Our findings document a context-validity gap: measurements obtained through APIs do not necessarily generalize to corresponding deployed interfaces, complicating the use of API evaluations as proxies for deployed systems.
+
+## Metadata
+- **Published**: 2026-09-08T15:08:37Z
+- **Authors**: Jennifer Wang, Joachim Baumann, Daniel E. Ho, Sanmi Koyejo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.08861v1)

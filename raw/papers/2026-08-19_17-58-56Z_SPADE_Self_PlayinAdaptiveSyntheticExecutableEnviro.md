@@ -2,7 +2,7 @@
 title: SPADE: Self-Play in Adaptive Synthetic Executable Environments
 published: 2026-08-19T17:58:56Z
 authors: Bo Liu, Simon Yu, Yiding Jiang, Ao Qu, Andrew Zhao, Zichen Liu, Junsu Kim, Zijian Zhou, Seungone Kim, Tongzheng Ren, Mickel Liu, Hanfei Yu, Zhaorun Chen, Weiyan Shi, Paul Pu Liang, Luke Zettlemoyer, Yejin Choi, Natasha Jaques
-url: http://arxiv.org/abs/2608.19197v1
+url: http://arxiv.org/abs/2608.19197v3
 type: paper-summary
 tags: [paper-summary, arxiv]
 ---
@@ -15,4 +15,4 @@ Continuous self-improvement requires an ever-expanding pool of self-generated, d
 ## Metadata
 - **Published**: 2026-08-19T17:58:56Z
 - **Authors**: Bo Liu, Simon Yu, Yiding Jiang, Ao Qu, Andrew Zhao, Zichen Liu, Junsu Kim, Zijian Zhou, Seungone Kim, Tongzheng Ren, Mickel Liu, Hanfei Yu, Zhaorun Chen, Weiyan Shi, Paul Pu Liang, Luke Zettlemoyer, Yejin Choi, Natasha Jaques
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19197v1)
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2608.19197v3)

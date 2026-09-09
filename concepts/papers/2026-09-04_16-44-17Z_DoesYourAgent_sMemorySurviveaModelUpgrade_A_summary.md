@@ -1,6 +1,7 @@
 # Summary: 2026-09-04_16-44-17Z_DoesYourAgent_sMemorySurviveaModelUpgrade_AControl.md
 Saved: 2026-09-06 21:47
 Source: 2026-09-04_16-44-17Z_DoesYourAgent_sMemorySurviveaModelUpgrade_AControl.md
+Original paper: [arXiv:2609.05339](https://arxiv.org/abs/2609.05339)
 Model: None
 
 ---

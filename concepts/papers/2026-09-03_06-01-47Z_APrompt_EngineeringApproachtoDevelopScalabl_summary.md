@@ -1,6 +1,7 @@
 # Summary: 2026-09-03_06-01-47Z_APrompt_EngineeringApproachtoDevelopScalable_Flexi.md
 Saved: 2026-09-03 21:31
 Source: 2026-09-03_06-01-47Z_APrompt_EngineeringApproachtoDevelopScalable_Flexi.md
+Original paper: [arXiv:2609.03402](https://arxiv.org/abs/2609.03402)
 Model: None
 
 ---
