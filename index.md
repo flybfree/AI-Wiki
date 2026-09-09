@@ -2692,3 +2692,9 @@ tags: ['wiki']
 - [[2026-09-08_LargeLanguageModelsDevelopNovelSocialBiasesThrough.md]] : Large Language Models Develop Novel Social Biases Through Adaptive Exploration
 - [[2026-09-08_Harvardstudypredictsmostsuicideattemptsaweekinadva.md]] : Harvard study predicts most suicide attempts a week in advance
 - [[2026-09-08_OpenAIclaimstohavesolvedmathsproblemthatstumpedhum.md]] : OpenAI claims to have solved maths problem that stumped humans for decades
+- [[2026-09-09_OpenAIclaimstohavesolvedmathsproblemthatstumpedhum.md]] : OpenAI claims to have solved maths problem that stumped humans for decades
+- [[2026-09-09_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[2026-09-09_DramaswirlsaroundOpenAI_slegendarymathematicalmile.md]] : Drama swirls around OpenAI’s legendary mathematical milestone
+- [[2026-09-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-09_HowGPT-5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT-5.6 Sol helps run quantum computing experiments
+- [[2026-09-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
