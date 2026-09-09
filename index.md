@@ -117,6 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-09.md|Summary: Daily AI Intelligence Briefing — 2026-09-09]] — open-weight governance, specialist RL, scientific agents, mathematical verification, persistent agent identities, adoption, and licensed training data
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-07.md|Summary: Daily AI Intelligence Briefing — 2026-09-07]] — agent containment and monitoring, staged open weights, verified task training, persistent enterprise agents, rights, and infrastructure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-06.md|Summary: Daily AI Intelligence Briefing — 2026-09-06]] — agent containment and disclosure, persistent enterprise agents, publisher litigation, and compute sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] — containment failures, model access policy, expert rewards, and staged open weights
@@ -2702,3 +2703,10 @@ tags: ['wiki']
 - [[2026-09-09_HowGPT_5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT‑5.6 Sol helps run quantum computing experiments
 - [[2026-09-09_HowAnAImathbreakthroughignitedacontroversy.md]] : How An AI math breakthrough ignited a controversy
 - [[2026-09-09_WorriedAnthropicresearcherswarnthatAI__8216_couldk.md]] : Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;
+- [[2026-09-09_StudentswhouseAIgenerallyscoreworseatschool.md]] : Students who use AI generally score worse at school
+- [[2026-09-09_SunoreplacesitsAImodelswithanewonetrainedonlicense.md]] : Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up
+- [[2026-09-09_AmazonPrimeVideo_snewAItechmatcheslipstodubbedaudi.md]] : Amazon Prime Video’s new AI tech matches lips to dubbed audio
+- [[2026-09-09_InstacartlaunchesanAIgroceryshoppingassistantcalle.md]] : Instacart launches an AI grocery shopping assistant called Clementine
+- [[2026-09-09_AIspendperemployeeslumpedattopfirmsinAugust_summer.md]] : AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?
+- [[2026-09-09_ViralAIassistantInstinctnowhasitsownemailaddress.md]] : Viral AI assistant Instinct now has its own email address
+- [[2026-09-09_Superintelligenceiscoming_Shouldweletit_.md]] : Superintelligence is coming. Should we let it?
