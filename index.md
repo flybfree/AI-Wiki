@@ -2698,3 +2698,5 @@ tags: ['wiki']
 - [[2026-09-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-09_HowGPT-5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT-5.6 Sol helps run quantum computing experiments
 - [[2026-09-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-09_Copyrightdoesmoreharmthangoodandshouldbeabolished.md]] : Copyright does more harm than good and should be abolished
+- [[2026-09-09_HowGPT_5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT‑5.6 Sol helps run quantum computing experiments
