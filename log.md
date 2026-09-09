@@ -13098,3 +13098,4 @@ tags: ['wiki']
 ## [2026-09-09 09:19] ingest | 2026-09-09_AIspendperemployeeslumpedattopfirmsinAugust_summer.md
 ## [2026-09-09 10:20] ingest | 2026-09-09_ViralAIassistantInstinctnowhasitsownemailaddress.md
 ## [2026-09-09 11:19] ingest | 2026-09-09_Superintelligenceiscoming_Shouldweletit_.md
+## [2026-09-09 12:20] ingest | 2026-09-09_MicrosofthasnewAIprivacyrulesforschools.md

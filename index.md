@@ -2710,3 +2710,4 @@ tags: ['wiki']
 - [[2026-09-09_AIspendperemployeeslumpedattopfirmsinAugust_summer.md]] : AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?
 - [[2026-09-09_ViralAIassistantInstinctnowhasitsownemailaddress.md]] : Viral AI assistant Instinct now has its own email address
 - [[2026-09-09_Superintelligenceiscoming_Shouldweletit_.md]] : Superintelligence is coming. Should we let it?
+- [[2026-09-09_MicrosofthasnewAIprivacyrulesforschools.md]] : Microsoft has new AI privacy rules for schools
