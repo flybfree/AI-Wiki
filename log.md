@@ -13107,3 +13107,4 @@ tags: ['wiki']
 ## [2026-09-09 16:55] ingest | 2026-09-09_SunoreleasesitsfirstAImusicmodelmadewithrecordindu.md
 ## [2026-09-09 16:55] ingest | 2026-09-09_Massachusettshitsdatacenterswithnewcleanpowerrules.md
 ## [2026-09-09 17:20] ingest | 2026-09-09_GPT-6Astra_Thenextgenerationinintelligenceforwork.md
+## [2026-09-09 18:19] ingest | 2026-09-09_OpenAIaddsaprominentAIdoomertoitsboardofdirectors.md

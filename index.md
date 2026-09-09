@@ -2717,3 +2717,4 @@ tags: ['wiki']
 - [[2026-09-09_SunoreleasesitsfirstAImusicmodelmadewithrecordindu.md]] : Suno releases its first AI music model made with record industry help
 - [[2026-09-09_Massachusettshitsdatacenterswithnewcleanpowerrules.md]] : Massachusetts hits data centers with new clean power rules
 - [[2026-09-09_GPT-6Astra_Thenextgenerationinintelligenceforwork.md]] : GPT-6 Astra: The next generation in intelligence for work
+- [[2026-09-09_OpenAIaddsaprominentAIdoomertoitsboardofdirectors.md]] : OpenAI adds a prominent AI doomer to its board of directors
