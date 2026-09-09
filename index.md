@@ -2711,3 +2711,9 @@ tags: ['wiki']
 - [[2026-09-09_ViralAIassistantInstinctnowhasitsownemailaddress.md]] : Viral AI assistant Instinct now has its own email address
 - [[2026-09-09_Superintelligenceiscoming_Shouldweletit_.md]] : Superintelligence is coming. Should we let it?
 - [[2026-09-09_MicrosofthasnewAIprivacyrulesforschools.md]] : Microsoft has new AI privacy rules for schools
+- [[2026-09-09_Apple_srevampedHealthappwillcalculateyour_healthag.md]] : Apple’s revamped Health app will calculate your ‘health age’ and readiness score
+- [[2026-09-09_PaulChristianojoinsOpenAIFoundationBoard.md]] : Paul Christiano joins OpenAI Foundation Board
+- [[2026-09-09_EverythingAppleannouncedatitsfalliPhoneevent_fromt.md]] : Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch
+- [[2026-09-09_SunoreleasesitsfirstAImusicmodelmadewithrecordindu.md]] : Suno releases its first AI music model made with record industry help
+- [[2026-09-09_Massachusettshitsdatacenterswithnewcleanpowerrules.md]] : Massachusetts hits data centers with new clean power rules
+- [[2026-09-09_GPT-6Astra_Thenextgenerationinintelligenceforwork.md]] : GPT-6 Astra: The next generation in intelligence for work
