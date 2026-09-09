@@ -13087,3 +13087,5 @@ tags: ['wiki']
 ## [2026-09-09 00:21] ingest | 2026-09-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md
 ## [2026-09-09 02:20] ingest | 2026-09-09_Copyrightdoesmoreharmthangoodandshouldbeabolished.md
 ## [2026-09-09 03:20] ingest | 2026-09-09_HowGPT_5_6Solhelpsrunquantumcomputingexperiments.md
+## [2026-09-09 06:20] ingest | 2026-09-09_HowAnAImathbreakthroughignitedacontroversy.md
+## [2026-09-09 06:20] ingest | 2026-09-09_WorriedAnthropicresearcherswarnthatAI__8216_couldk.md

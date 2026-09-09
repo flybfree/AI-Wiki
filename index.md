@@ -2700,3 +2700,5 @@ tags: ['wiki']
 - [[2026-09-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-09_Copyrightdoesmoreharmthangoodandshouldbeabolished.md]] : Copyright does more harm than good and should be abolished
 - [[2026-09-09_HowGPT_5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT‑5.6 Sol helps run quantum computing experiments
+- [[2026-09-09_HowAnAImathbreakthroughignitedacontroversy.md]] : How An AI math breakthrough ignited a controversy
+- [[2026-09-09_WorriedAnthropicresearcherswarnthatAI__8216_couldk.md]] : Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;
