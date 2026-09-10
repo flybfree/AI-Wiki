@@ -2741,3 +2741,6 @@ tags: ['wiki']
 - [[2026-09-10_OpenAIputsProsubscriptionsonholdduetoAstrademand.md]] : OpenAI puts Pro subscriptions on hold due to Astra demand
 - [[2026-09-10_CognitionlaunchesnewSWE-2model_RivalingFable5_1and.md]] : Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra
 - [[2026-09-10_ThepartofNavier-Stokesnooneistalkingabout.md]] : The part of Navier-Stokes no one is talking about
+- [[2026-09-10_ShopifyismovingfromReactNativebacktoSwiftandKotlin.md]] : Shopify is moving from React Native back to Swift and Kotlin
+- [[2026-09-10_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[2026-09-10_Slackcannowvibe-codeinteractivechartsandreportsins.md]] : Slack can now vibe-code interactive charts and reports inside chats

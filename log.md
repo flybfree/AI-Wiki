@@ -13192,3 +13192,6 @@ tags: ['wiki']
 ## [2026-09-10 16:19] ingest | 2026-09-10_OpenAIputsProsubscriptionsonholdduetoAstrademand.md
 ## [2026-09-10 16:19] ingest | 2026-09-10_CognitionlaunchesnewSWE-2model_RivalingFable5_1and.md
 ## [2026-09-10 17:19] ingest | 2026-09-10_ThepartofNavier-Stokesnooneistalkingabout.md
+## [2026-09-10 18:23] ingest | 2026-09-10_ShopifyismovingfromReactNativebacktoSwiftandKotlin.md
+## [2026-09-10 18:23] ingest | 2026-09-10_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md
+## [2026-09-10 18:23] ingest | 2026-09-10_Slackcannowvibe-codeinteractivechartsandreportsins.md
