@@ -117,6 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-10.md|Summary: Daily AI Intelligence Briefing — 2026-09-10]] — DeepSeek V4.1-Flash, staged open weights, verified task RL, AI policy, licensed data, and applied AI economics
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-09.md|Summary: Daily AI Intelligence Briefing — 2026-09-09]] — open-weight governance, specialist RL, scientific agents, mathematical verification, persistent agent identities, adoption, and licensed training data
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-07.md|Summary: Daily AI Intelligence Briefing — 2026-09-07]] — agent containment and monitoring, staged open weights, verified task training, persistent enterprise agents, rights, and infrastructure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-06.md|Summary: Daily AI Intelligence Briefing — 2026-09-06]] — agent containment and disclosure, persistent enterprise agents, publisher litigation, and compute sovereignty
@@ -2726,3 +2727,4 @@ tags: ['wiki']
 - [[2026-09-10_SunoreleasesitsfirstAImusicmodelmadewithrecordindu.md]] : Suno releases its first AI music model made with record industry help
 - [[2026-09-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-10_TheAIpolicywindowisopen_Weneedtoact_.md]] : The AI policy window is open. We need to act.
+- [[2026-09-10_DeepSeekv4_1Flash.md]] : DeepSeek v4.1 Flash
