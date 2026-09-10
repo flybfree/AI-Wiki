@@ -54,17 +54,13 @@ OpenAI’s [GPT-6 Astra](https://openai.com/index/gpt-6-astra-next-generation-wo
 
 **Why it matters:** Capability releases and safety evidence are now inseparable. The relevant question is not whether a model has a control surface, but whether controls generalize to unfamiliar environments, remain auditable, and are tested against real-world failure modes before deployment.
 
-### 7. Governance and licensed data are becoming part of the model product
+### 7. Governance, licensed data, and deployment are becoming part of the model product
 
 [Paul Christiano’s appointment](https://openai.com/index/paul-christiano-joins-openai-foundation-board) as a non-voting observer on OpenAI’s Group PBC board and member of its Safety and Security Committee adds alignment, standards, and government-evaluation experience to formal oversight. Separately, [Suno’s v6 family](https://techcrunch.com/2026/09/09/suno-replaces-its-ai-models-with-a-new-one-trained-on-licensed-music-as-copyright-suits-pile-up/) is reported to use label-licensed music from Warner Music Group, BMG, and Believe, alongside user-generated content, with v6, v6-wild, and v6-mini variants. The licensed-data move is more operational than generic copyright advocacy: it changes the training supply chain and the commercial terms of the product.
 
-**Why it matters:** Governance is moving from principles pages into board structure, evaluation access, and training-data provenance. These mechanisms may improve accountability and reduce litigation exposure, but they also need independent scrutiny rather than being accepted as proof of safety or rights compliance.
+The same productization pattern appears in [Amazon Prime Video’s AI lip-sync dubbing](https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing), a [PISA-based report on student AI use](https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa), and [Ramp spending data reported by TechCrunch](https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/). The first is an applied multimodal feature; the second reports that shortcut-oriented use correlates with worse outcomes while evaluation training can reduce the penalty; and the third shows top-firm AI spend per employee falling about 10% to $7,205 in August, though the sample and seasonal effect are uncertain.
 
-### 8. AI deployment is broadening, but adoption and learning effects remain mixed
-
-The intake includes [Amazon Prime Video’s AI lip-sync dubbing](https://www.theverge.com/tech/991809/amazon-prime-video-ai-lip-sync-dubbing), an applied multimodal feature that aligns mouth movements with dubbed audio, and a [PISA-based report on student AI use](https://www.theverge.com/ai-artificial-intelligence/991956/student-ai-use-scores-oecd-pisa). The latter reports that task-specific or shortcut-oriented use correlates with worse outcomes, while training students to evaluate AI output can reduce the penalty. Separately, [Ramp spending data reported by TechCrunch](https://techcrunch.com/2026/09/09/ai-spend-per-employee-slumped-at-top-firms-in-august-summer-doldrums-or-a-warning-sign/) shows top-firm AI spend per employee falling about 10% to $7,205 in August, although the sample is concentrated and the summer effect is uncertain.
-
-**Why it matters:** AI is reaching ordinary product loops faster than it is producing reliable organization-wide productivity. The next signal to watch is not feature count but sustained usage, measurable outcomes, and whether users are learning to supervise systems rather than outsourcing judgment.
+**Why it matters:** Governance is moving from principles pages into board structure, evaluation access, training-data provenance, and measurable deployment outcomes. AI is reaching ordinary product loops faster than it is producing reliable organization-wide productivity, so accountability and sustained usage matter more than feature count.
 
 ## What Changed Today
 
