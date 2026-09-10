@@ -2720,3 +2720,9 @@ tags: ['wiki']
 - [[2026-09-09_OpenAIaddsaprominentAIdoomertoitsboardofdirectors.md]] : OpenAI adds a prominent AI doomer to its board of directors
 - [[2026-09-09_TheAIpolicywindowisopen_Weneedtoact_.md]] : The AI policy window is open. We need to act.
 - [[2026-09-09_AIresearchstartupListenLabsscrubbeda_1_5Bfundingro.md]] : AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks
+- [[2026-09-10_AIresearchstartupListenLabsscrubbeda_1_5Bfundingro.md]] : AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks
+- [[2026-09-10_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-10_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[2026-09-10_SunoreleasesitsfirstAImusicmodelmadewithrecordindu.md]] : Suno releases its first AI music model made with record industry help
+- [[2026-09-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-10_TheAIpolicywindowisopen_Weneedtoact_.md]] : The AI policy window is open. We need to act.
