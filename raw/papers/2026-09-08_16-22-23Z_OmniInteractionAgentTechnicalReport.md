@@ -1,8 +1,8 @@
 ---
 title: Omni Interaction Agent Technical Report
 published: 2026-09-08T16:22:23Z
-authors:  Orantqing, Shengpeng Ji, Junlong Tong, Jialong Zuo, Dongjie Fu, Di Cao, Yangzhuo Li, Shangda Wu,  Franz,  Evan, Theron Veyra, Changhao Pan, Jingyu Lu, Dongchao Yang, Zhifei Xie, Yang Tan, Xiaoyu Shen, Xiaoda Yang, Wenfu Wang,  Teddysun,  Steveyves, Zhou Zhao,  Bryanytian
-url: http://arxiv.org/abs/2609.08977v1
+authors:  Orantqing, Shengpeng Ji, Junlong Tong, Jialong Zuo, Dongjie Fu, Di Cao, Yangzhuo Li, Shangda Wu,  Franz,  Evan, Theron Veyra, Changhao Pan, Jingyu Lu, Dongchao Yang, Zhifei Xie, Yang Tan, Xiaoyu Shen, Xiaoda Yang, Wenfu Wang, Teddy Sun, Steve Yves, Zhou Zhao
+url: http://arxiv.org/abs/2609.08977v2
 type: paper-summary
 tags: [paper-summary, arxiv]
 ---
@@ -14,5 +14,5 @@ In this work, we present Gander, an end-to-end model that unifies omni perceptio
 
 ## Metadata
 - **Published**: 2026-09-08T16:22:23Z
-- **Authors**:  Orantqing, Shengpeng Ji, Junlong Tong, Jialong Zuo, Dongjie Fu, Di Cao, Yangzhuo Li, Shangda Wu,  Franz,  Evan, Theron Veyra, Changhao Pan, Jingyu Lu, Dongchao Yang, Zhifei Xie, Yang Tan, Xiaoyu Shen, Xiaoda Yang, Wenfu Wang,  Teddysun,  Steveyves, Zhou Zhao,  Bryanytian
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.08977v1)
+- **Authors**:  Orantqing, Shengpeng Ji, Junlong Tong, Jialong Zuo, Dongjie Fu, Di Cao, Yangzhuo Li, Shangda Wu,  Franz,  Evan, Theron Veyra, Changhao Pan, Jingyu Lu, Dongchao Yang, Zhifei Xie, Yang Tan, Xiaoyu Shen, Xiaoda Yang, Wenfu Wang, Teddy Sun, Steve Yves, Zhou Zhao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.08977v2)

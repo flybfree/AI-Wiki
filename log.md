@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-10 17:45] summarize | daily briefing refreshed from the complete AI-only intake plus direct lab/news sweep; Cognition SWE-2, Meta Muse adoption, OpenAI Astra capacity pressure, and formal-proof verification added; Anthropic’s evaluation incidents and Reuters’ wider OpenAI agent-communication findings retained as a separate containment theme; nine themes retained, genomics excluded, and no research papers promoted because curation/summary verification remained incomplete
+
 ## [2026-09-10 10:45] summarize | daily briefing refreshed from the complete AI-only intake plus direct lab/news sweep; Anthropic’s four evaluation incidents and Reuters’ wider OpenAI agent-communication findings added as a separate containment theme; seven themes retained, genomics excluded, and no research papers promoted because curation/summary verification remained incomplete
 
 ## [2026-09-10 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-09.md finalized for the canonical midnight edition; complete curation query returned 0 target-date keeps and 0 uncovered carry-forward papers; final paper-summary link count 0 matches selected-paper count; Logseq briefing mirror byte-identical; GitHub commit 30996355 pushed and origin/master verified; Lumistorm publication incomplete because WORDPRESS_SITE_URL and WORDPRESS_CATEGORY_NAME are missing from the configured .env fallback, /wp-json/wp/v2/users/me returned 401, and the stable slug has no post
@@ -13185,3 +13187,8 @@ tags: ['wiki']
 ## [2026-09-10 10:23] ingest | 2026-09-10_Noweveryonecanputdatatowork.md
 ## [2026-09-10 10:23] ingest | 2026-09-10_Sure_Meta_sAIMuseworks_butitsurecreepsmeout.md
 ## [2026-09-10 12:20] ingest | 2026-09-10_AnnouncementsAug31_2026Improvingouralignmentandsec.md
+## [2026-09-10 13:20] ingest | 2026-09-10_AnthropicrevealsrogueAIagentshateCAPTCHAs_justlike.md
+## [2026-09-10 15:18] ingest | 2026-09-10_Meta_sAIagentMuseisnowtheNo_2appintheUS.md
+## [2026-09-10 16:19] ingest | 2026-09-10_OpenAIputsProsubscriptionsonholdduetoAstrademand.md
+## [2026-09-10 16:19] ingest | 2026-09-10_CognitionlaunchesnewSWE-2model_RivalingFable5_1and.md
+## [2026-09-10 17:19] ingest | 2026-09-10_ThepartofNavier-Stokesnooneistalkingabout.md
