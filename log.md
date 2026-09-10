@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-10 10:45] summarize | daily briefing refreshed from the complete AI-only intake plus direct lab/news sweep; Anthropic’s four evaluation incidents and Reuters’ wider OpenAI agent-communication findings added as a separate containment theme; seven themes retained, genomics excluded, and no research papers promoted because curation/summary verification remained incomplete
+
 ## [2026-09-10 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-09.md finalized for the canonical midnight edition; complete curation query returned 0 target-date keeps and 0 uncovered carry-forward papers; final paper-summary link count 0 matches selected-paper count; Logseq briefing mirror byte-identical; GitHub commit 30996355 pushed and origin/master verified; Lumistorm publication incomplete because WORDPRESS_SITE_URL and WORDPRESS_CATEGORY_NAME are missing from the configured .env fallback, /wp-json/wp/v2/users/me returned 401, and the stable slug has no post
 
 ## [2026-09-09 18:00] summarize | daily briefing refreshed from later AI-only intake and direct lab sweep; GPT-6 Astra, Anthropic cyber-incident assessment, Paul Christiano governance appointment, and Suno licensed-data models added; prior themes retained and duplicates merged; 0 newly approved papers; 2026-09-09 arXiv candidates remain pending curation
@@ -13177,3 +13179,8 @@ tags: ['wiki']
 ## [2026-09-10 03:22] ingest | 2026-09-10_DeepSeekv4_1Flash.md
 ## [2026-09-10 06:21] ingest | 2026-09-10_ShowHN_Thesameninestreamingsubscriptionscost_702_y.md
 ## [2026-09-10 06:21] ingest | 2026-09-10_MathematicianswantproofOpenAIdidn_tusetheirwork.md
+## [2026-09-10 07:22] ingest | 2026-09-10_WhatalgorithmdidWindowsXPusetochooseyourinitialuse.md
+## [2026-09-10 09:22] ingest | 2026-09-10_Whythecurrenttechbacklashfeelsdifferent.md
+## [2026-09-10 10:23] ingest | 2026-09-10_ShopifymovesbacktoNativefromReactNative.md
+## [2026-09-10 10:23] ingest | 2026-09-10_Noweveryonecanputdatatowork.md
+## [2026-09-10 10:23] ingest | 2026-09-10_Sure_Meta_sAIMuseworks_butitsurecreepsmeout.md

@@ -2730,3 +2730,8 @@ tags: ['wiki']
 - [[2026-09-10_DeepSeekv4_1Flash.md]] : DeepSeek v4.1 Flash
 - [[2026-09-10_ShowHN_Thesameninestreamingsubscriptionscost_702_y.md]] : Show HN: The same nine streaming subscriptions cost $702/year more than in 2021
 - [[2026-09-10_MathematicianswantproofOpenAIdidn_tusetheirwork.md]] : Mathematicians want proof OpenAI didn’t use their work
+- [[2026-09-10_WhatalgorithmdidWindowsXPusetochooseyourinitialuse.md]] : What algorithm did Windows XP use to choose your initial user picture?
+- [[2026-09-10_Whythecurrenttechbacklashfeelsdifferent.md]] : Why the current tech backlash feels different
+- [[2026-09-10_ShopifymovesbacktoNativefromReactNative.md]] : Shopify moves back to Native from React Native
+- [[2026-09-10_Noweveryonecanputdatatowork.md]] : Now everyone can put data to work
+- [[2026-09-10_Sure_Meta_sAIMuseworks_butitsurecreepsmeout.md]] : Sure, Meta’s AI Muse works, but it sure creeps me out
