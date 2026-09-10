@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-08
+> Last updated: 2026-09-10
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -2718,3 +2718,5 @@ tags: ['wiki']
 - [[2026-09-09_Massachusettshitsdatacenterswithnewcleanpowerrules.md]] : Massachusetts hits data centers with new clean power rules
 - [[2026-09-09_GPT-6Astra_Thenextgenerationinintelligenceforwork.md]] : GPT-6 Astra: The next generation in intelligence for work
 - [[2026-09-09_OpenAIaddsaprominentAIdoomertoitsboardofdirectors.md]] : OpenAI adds a prominent AI doomer to its board of directors
+- [[2026-09-09_TheAIpolicywindowisopen_Weneedtoact_.md]] : The AI policy window is open. We need to act.
+- [[2026-09-09_AIresearchstartupListenLabsscrubbeda_1_5Bfundingro.md]] : AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks

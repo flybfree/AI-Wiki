@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-10 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-09.md finalized for the canonical midnight edition; complete curation query returned 0 target-date keeps and 0 uncovered carry-forward papers; final paper-summary link count 0 matches selected-paper count; Logseq mirror and GitHub push pending verification; Lumistorm publication pending WordPress preflight
+
 ## [2026-09-09 18:00] summarize | daily briefing refreshed from later AI-only intake and direct lab sweep; GPT-6 Astra, Anthropic cyber-incident assessment, Paul Christiano governance appointment, and Suno licensed-data models added; prior themes retained and duplicates merged; 0 newly approved papers; 2026-09-09 arXiv candidates remain pending curation
 
 ## [2026-09-09 12:00] summarize | daily briefing refreshed from the complete AI-only article intake; seven themes synthesized; persistent agent identities, applied deployment/adoption, AI economics, and licensed-data training added; quantum and Navier–Stokes duplicates merged; copyright advocacy and applied genomics excluded; superintelligence panel labeled as opinion signal; 0 newly approved papers; target-date arXiv summaries remain pending curation
@@ -13108,3 +13110,61 @@ tags: ['wiki']
 ## [2026-09-09 16:55] ingest | 2026-09-09_Massachusettshitsdatacenterswithnewcleanpowerrules.md
 ## [2026-09-09 17:20] ingest | 2026-09-09_GPT-6Astra_Thenextgenerationinintelligenceforwork.md
 ## [2026-09-09 18:19] ingest | 2026-09-09_OpenAIaddsaprominentAIdoomertoitsboardofdirectors.md
+## [2026-09-09 19:23] ingest | 2026-09-09_TheAIpolicywindowisopen_Weneedtoact_.md
+## [2026-09-09 19:23] ingest | 2026-09-09_AIresearchstartupListenLabsscrubbeda_1_5Bfundingro.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_13-51-15Z_CanAIAgentsDeliverVerifiableNetwork_WideOutcomesAc.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_04-29-45Z_WhenAuditorsFabricate_Batch_SizeDegradationandConf.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_14-40-08Z_DiSCo_ADistribution_FirstSteeringandCulturalPriorE.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_03-00-03Z_RobustSGPO_Search_SpaceControlforAgentHarnessEvolu.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_08-57-22Z_Deepandshallowbiasesinlanguagemodels.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_20-58-49Z_DoAgentsKnowWhenTheySucceed_CalibratingAgentConfid.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_20-05-09Z_BenchmarkingHybridDeepResearchAcrossDatabaseQueryi.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_14-32-07Z_LiteRAG_Cost_EfficientGraph_BasedRetrieval_Augment.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_06-50-45Z_CS_Guard_BenchmarkingLLMGuardrailsforCodeGeneratio.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_21-46-35Z_FromFixedKeystoReadableSchemas_SmallLanguageModels.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_18-39-01Z_SWORD_Wikidata_basedDistortionsRevealHiddenCross_L.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_06-48-08Z_HowFragileIsSafetyAlignmentatFrontierScale_ASingle.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_13-09-01Z_Contextoperationstoarchitecturemodellingoutputfrom.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_20-00-03Z_AnExperimentalEvaluationofMultimodalPromptInjectio.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_08-43-34Z_WhenDoesDefendantStatementMatter_AStudyofBiasandPe.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_10-46-56Z_MetroLLM_Bench_EvaluatingLanguageModelsasTransitKi.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_00-14-03Z_AnEfficientandEffectiveAgenticGroupShillingAttacko.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_08-06-28Z_S_3__Bench_EvaluatingSpeechInteractionModelsasScie.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_06-21-44Z_ScalingPost_TrainingTernarisationtoQwen3_8BCapabil.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_07-58-24Z_CanAIAgentsDetectandRepairArtifactDriftinNetworkEx.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_03-00-25Z_Black_BoxRedTeamingofAgenticAI_ATaxonomy_DrivenFra.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_06-06-34Z_SocialRL_RefiningLLMs_SocialIntelligencethroughMul.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_01-56-17Z_WatermarksWithoutVerification_AITextWatermarkingAf.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_13-20-47Z_Kernel_ManagedSharedMemoryforSystem_WidePersonaliz.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_21-21-16Z_ContractEval_Query_ConditionedExecutionMatchingfor.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_05-52-53Z_LexAgentHallu_AHierarchicalBenchmarkforProfilingHa.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_14-53-45Z_KVShareArena_KV_CacheReuseAcrossContextsandModelCh.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_19-15-36Z_AnAutonomousGeoAIAgentforArcticEco_Navigation.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_15-08-09Z_GANDR_ClaimAuditingforVerifiableLegalAnswerGenerat.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_15-50-39Z_WhyIsVideoStillSoExpensive_ASurveyofInference_Effi.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_07-40-21Z_HyperTrace_Hypothesis_BasedPreferenceTracingforOnl.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_14-36-51Z_A_JIT_AgenticJust_In_TimeSoftwareConstruction.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_00-33-17Z_TheVibeShiftinSoftwareEngineering_EvaluatingAI_Led.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_08-29-16Z_AgentAudit_AnOpen_ExtensibleFrameworkforFull_Lifec.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_13-00-47Z_IfIt_sNotBuggy_Don_tFixIt_OntheDynamicsofIterative.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_15-21-47Z_TRACE_TrainingReasoningAgentsforCausalExplorationw.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_19-46-08Z_TheMenuIsanExecutionPrior_State_PathToolMenusforOn.md
+## [2026-09-09 20:31] stage-paper | 2026-09-07_20-14-11Z_SubagentsvsAgentSkills_ExecutingReusableKnowledgef.md
+## [2026-09-09 20:31] stage-paper | 2026-09-06_03-49-45Z_AgentHijack_VisualPatchAttacksonMultimodalComputer.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_17-58-11Z_VoiceorStereotype_DisentanglingAcousticandContent_.md
+## [2026-09-09 20:31] stage-paper | 2026-09-08_21-33-55Z_BuildingtheHarnessAutomatically_Self_PlayinCodeDis.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_03-14-13Z_RESCUE_BENCH_TowardsRelation_AwareMulti_PartyEmoti.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_13-32-04Z_FromRetrievaltoWeights_ParametricIndividualization.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_03-31-47Z_PRAGMA_EvaluatingPersonalizedGuidancewithMemoryAli.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_00-16-53Z_ArbitraryCipherAttacksAgainstLargeLanguageModelsDo.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_14-53-17Z_Maverick_PrivateandVerifiableLLMInferenceMadePract.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_14-23-47Z_Φ__Bench_CanLargeLanguageModelsEngineertheInfrastr.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_03-38-38Z_IntroducingConsort_ASpec_FirstAgentFrameworkforEnf.md
+## [2026-09-09 20:31] stage-paper | 2026-09-09_08-56-02Z_StrangerstoThemselves_WhatLanguageModelsSayAboutTh.md
+## [2026-09-09 22:23] stage-paper | 2026-09-09_16-31-45Z_FortunateRecall_Ontology_DrivenMemoryLifecycleMana.md
+## [2026-09-09 22:23] stage-paper | 2026-09-09_17-59-04Z_IdeaAMBIG_BenchmarkingImplementation_CriticalGapsi.md
+## [2026-09-09 22:23] stage-paper | 2026-09-09_16-50-41Z_ForgettingOnlyWhatMatters_Layer_SelectiveUnlearnin.md
+## [2026-09-09 22:23] stage-paper | 2026-09-09_17-31-29Z_IBIB_AProtocolforMeasuringEnterpriseAISystemsbySer.md
+## [2026-09-09 22:23] stage-paper | 2026-09-09_16-59-59Z_JarvisGUI_TowardsCross_DeviceGUIAgentswithDynamicT.md
+## [2026-09-09 22:23] stage-paper | 2026-09-09_16-18-47Z_RetrofittingCodeUsingLLMstoSupportExceptionalBehav.md
+## [2026-09-09 22:23] stage-paper | 2026-09-09_16-45-19Z_Multi_AgentReinforcementLearningforAutonomousUAVEx.md
