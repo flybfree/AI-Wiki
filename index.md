@@ -2735,3 +2735,4 @@ tags: ['wiki']
 - [[2026-09-10_ShopifymovesbacktoNativefromReactNative.md]] : Shopify moves back to Native from React Native
 - [[2026-09-10_Noweveryonecanputdatatowork.md]] : Now everyone can put data to work
 - [[2026-09-10_Sure_Meta_sAIMuseworks_butitsurecreepsmeout.md]] : Sure, Meta’s AI Muse works, but it sure creeps me out
+- [[2026-09-10_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
