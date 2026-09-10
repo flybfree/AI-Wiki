@@ -2728,3 +2728,5 @@ tags: ['wiki']
 - [[2026-09-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-10_TheAIpolicywindowisopen_Weneedtoact_.md]] : The AI policy window is open. We need to act.
 - [[2026-09-10_DeepSeekv4_1Flash.md]] : DeepSeek v4.1 Flash
+- [[2026-09-10_ShowHN_Thesameninestreamingsubscriptionscost_702_y.md]] : Show HN: The same nine streaming subscriptions cost $702/year more than in 2021
+- [[2026-09-10_MathematicianswantproofOpenAIdidn_tusetheirwork.md]] : Mathematicians want proof OpenAI didn’t use their work

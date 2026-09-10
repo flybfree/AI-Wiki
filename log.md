@@ -13175,3 +13175,5 @@ tags: ['wiki']
 ## [2026-09-10 00:22] ingest | 2026-09-10_ASafePathtoOpenWeights.md
 ## [2026-09-10 00:22] ingest | 2026-09-10_TheAIpolicywindowisopen_Weneedtoact_.md
 ## [2026-09-10 03:22] ingest | 2026-09-10_DeepSeekv4_1Flash.md
+## [2026-09-10 06:21] ingest | 2026-09-10_ShowHN_Thesameninestreamingsubscriptionscost_702_y.md
+## [2026-09-10 06:21] ingest | 2026-09-10_MathematicianswantproofOpenAIdidn_tusetheirwork.md
