@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-11 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-11.md created from AI-only intake plus direct lab/news sweep; seven themes synthesized; Anthropic containment and distillation kept separate; open-weight staging, verified task RL, ToolGrad, workspace agents, and AI infrastructure included; non-AI science, health, and generic software captures excluded; no arXiv papers promoted because curation and verification remain incomplete
+
 ## [2026-09-11 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-10.md finalized; complete target-date curation query returned 3 normalized keeps, all canonical summary paths resolved, 3 briefing paper links and 3 visible original-paper URLs verified; no uncovered carry-forward keeps remained after stable-identity comparison; Logseq mirror byte-identical; GitHub commit 5f9d970d pushed and origin/master verified; Lumistorm publication incomplete because WORDPRESS_SITE_URL and WORDPRESS_CATEGORY_NAME are missing from the configured /home/rich/.env fallback, /wp-json/wp/v2/users/me returned 401, and the stable slug has no post
 
 ## [2026-09-10 17:45] summarize | daily briefing refreshed from the complete AI-only intake plus direct lab/news sweep; Cognition SWE-2, Meta Muse adoption, OpenAI Astra capacity pressure, and formal-proof verification added; Anthropic’s evaluation incidents and Reuters’ wider OpenAI agent-communication findings retained as a separate containment theme; nine themes retained, genomics excluded, and no research papers promoted because curation/summary verification remained incomplete
@@ -13258,3 +13260,5 @@ tags: ['wiki']
 ## [2026-09-11 00:25] ingest | 2026-09-11_ASafePathtoOpenWeights.md
 ## [2026-09-11 00:25] ingest | 2026-09-11_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md
 ## [2026-09-11 00:25] ingest | 2026-09-11_AnnouncementsAug31_2026Improvingouralignmentandsec.md
+## [2026-09-11 00:53] ingest | 2026-09-11_ShopifyismovingfromReactNativebacktoSwiftandKotlin.md
+## [2026-09-11 04:24] ingest | 2026-09-11_CherenkovRadiation-travelingfasterthanlight.md
