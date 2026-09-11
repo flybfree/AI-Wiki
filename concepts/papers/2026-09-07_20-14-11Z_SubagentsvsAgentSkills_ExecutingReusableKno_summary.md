@@ -23,4 +23,7 @@ Subagent mode achieved 23 % higher success rates than Agent‑Skill mode (p 
 This study shows that decomposing reusable knowledge into autonomous subagents can mitigate context decay and improve execution fidelity in long‑horizon AI agents, offering a scalable pattern for modular skill management.
 
 ## Related Concepts  
-Agent skills, skill packages, multi‑file bundles, LLM context windows, subagent architecture, input‑output contracts, procedural knowledge, token overhead, long‑horizon tasks.
+Agent skills, skill packages, multi-file bundles, LLM context windows, subagent architecture, input-output contracts, procedural knowledge, token overhead, long-horizon tasks.
+
+## Original Paper
+[arXiv: Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks](https://arxiv.org/abs/2609.09233v1)

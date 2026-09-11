@@ -2744,3 +2744,4 @@ tags: ['wiki']
 - [[2026-09-10_ShopifyismovingfromReactNativebacktoSwiftandKotlin.md]] : Shopify is moving from React Native back to Swift and Kotlin
 - [[2026-09-10_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
 - [[2026-09-10_Slackcannowvibe-codeinteractivechartsandreportsins.md]] : Slack can now vibe-code interactive charts and reports inside chats
+- [[2026-09-10_Googlewillbuyhalftheelectricityofanuclearpowerplan.md]] : Google will buy half the electricity of a nuclear power plant

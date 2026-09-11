@@ -29,4 +29,7 @@ This work matters because it shifts software delivery from a one‑time static b
 - Trace mining of execution logs  
 - Human‑AI co‑construction workflows  
 - Just‑in‑time synthesis at higher abstraction levels  
-- Adaptive computing and self‑healing software
+- Adaptive computing and self-healing software
+
+## Original Paper
+[arXiv: A-JIT: Agentic Just-In-Time Software Construction](https://arxiv.org/abs/2609.10248v1)

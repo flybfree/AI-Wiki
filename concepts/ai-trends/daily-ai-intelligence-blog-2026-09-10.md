@@ -101,13 +101,24 @@ Compared with the September 9 briefing, today’s emphasis shifted from frontier
 
 ## Approved Research Papers
 
-**None.** The arXiv scout captured broad discovery coverage, but no paper had a verified, curated summary ready for promotion. Three September 10 generated article summaries returned endpoint errors, and the genomic transfer-learning item was excluded from the AI-only intelligence brief because its local capture was an applied genomics result without a sufficiently clear primary AI-method signal.
+The complete curation query for approvals timestamped on 2026-09-10 returned **3 normalized keeps**. No additional uncovered carry-forward keep remained after comparing stable summary identities against prior dated briefings.
+
+### Agent architecture and software construction
+
+- [Subagents vs Agent Skills: Executing Reusable Knowledge for Long-Horizon Agentic Tasks](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-07_20-14-11Z_SubagentsvsAgentSkills_ExecutingReusableKno_summary.md) — Separate subagent contexts outperform loading reusable skills into one long context when skills expose procedural instructions and clear input/output contracts. The practical implication is that skill packaging and invocation policy are part of agent performance, not merely implementation detail. [Original paper](https://arxiv.org/abs/2609.09233v1)
+- [A-JIT: Agentic Just-In-Time Software Construction](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-09_14-36-51Z_A_JIT_AgenticJust_In_TimeSoftwareConstructi_summary.md) — Proposes software that combines code, a runtime harness, and an embedded agent that synthesizes or specializes logic from live traces. It is a design paradigm rather than production evidence, but it makes runtime adaptation and its governance boundary explicit. [Original paper](https://arxiv.org/abs/2609.10248v1)
+
+### AI-native software practice
+
+- [The Vibe Shift in Software Engineering: Evaluating AI-Led Conversational Programming](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-09_00-33-17Z_TheVibeShiftinSoftwareEngineering_Evaluatin_summary.md) — In a 30-person mixed-methods study, vibe coding reduced task time but was associated with lower maintainability and higher security risk. The result supports treating speed, code health, and trust calibration as separate deployment metrics. [Original paper](https://arxiv.org/abs/2609.09560v1)
+
+The three briefing links above resolve to three distinct canonical rendered summary pages, and each summary contains a visible original-paper URL.
 
 ## Classification Notes
 
 - **Include:** DeepSeek V4.1-Flash; staged open-weight safety; verified task-specific RL; OpenAI’s policy and safety-control proposal; Anthropic’s incident assessment; Reuters’ OpenAI agent investigation; Suno’s licensed-data model release; Listen Labs’ AI customer-research financing/M&A signal.
 - **Exclude:** transfer learning for genomic prediction as an applied-domain item without a clear primary AI-method contribution.
-- **Defer:** all newly discovered papers until explicit curation and a usable source-level summary are available.
+- **Paper audit:** 3 target-date keeps, 3 unique summary targets, 3 visible original-paper URLs; all counts match.
 - **Deduplicate:** DeepSeek’s social announcement and API documentation were merged into one release cluster; the official DeepSeek documentation is the operational reference.
 - **Quality note:** the local generated summaries for several items contained endpoint errors, so this briefing uses the raw captures and official source pages instead of treating those summaries as evidence.
 
@@ -120,8 +131,9 @@ Compared with the September 9 briefing, today’s emphasis shifted from frontier
 5. Whether OpenAI’s proposed federal requirements produce concrete legislative text, independent assessment rules, and enforceable incident disclosure.
 6. Whether Suno publishes sufficiently granular provenance and licensing terms for v6, including treatment of user data.
 7. Whether Salesforce completes a Listen Labs acquisition and what customer-research economics look like after integration.
-8. Completion of paper curation before any September 10 arXiv candidate is promoted into the wiki or Logseq brain.
-9. METR’s independent findings on Anthropic’s evaluation incidents and whether OpenAI publishes a complete accounting of the additional communication sites.
+8. Whether subagent execution and contract-shaped skills reproduce beyond SkillsBench-style long-horizon tasks.
+9. Whether A-JIT systems can be constrained with reviewable change gates, provenance, rollback, and least-privilege runtime permissions.
+10. METR’s independent findings on Anthropic’s evaluation incidents and whether OpenAI publishes a complete accounting of the additional communication sites.
 
 ## Source Links
 

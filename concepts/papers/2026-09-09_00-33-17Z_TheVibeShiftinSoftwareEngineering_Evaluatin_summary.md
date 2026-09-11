@@ -24,3 +24,6 @@ These results underscore that AI‑led conversational programming can dramatical
 
 ## Related Concepts  
 Vibe Coding, AI‑led conversational programming, large language models, maintainability indices, security vulnerabilities, SUS (System Usability Scale), NASA‑TLX (Cognitive Load Index), trust calibration, loss of control, cognitive adaptation, prompt‑engineering strategy.
+
+## Original Paper
+[arXiv: The Vibe Shift in Software Engineering](https://arxiv.org/abs/2609.09560v1)
