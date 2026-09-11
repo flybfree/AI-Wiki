@@ -2745,3 +2745,9 @@ tags: ['wiki']
 - [[2026-09-10_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
 - [[2026-09-10_Slackcannowvibe-codeinteractivechartsandreportsins.md]] : Slack can now vibe-code interactive charts and reports inside chats
 - [[2026-09-10_Googlewillbuyhalftheelectricityofanuclearpowerplan.md]] : Google will buy half the electricity of a nuclear power plant
+- [[2026-09-11_Slackcannowvibe-codeinteractivechartsandreportsins.md]] : Slack can now vibe-code interactive charts and reports inside chats
+- [[2026-09-11_Exerciseintensityisassociatedwithcardiometaboliche.md]] : Exercise intensity is associated with cardiometabolic health
+- [[2026-09-11_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-11_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-11_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[2026-09-11_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
