@@ -2757,3 +2757,6 @@ tags: ['wiki']
 - [[2026-09-11_TheWaymoeffect_howAIisquietlymakingresearchlesscol.md]] : The Waymo effect: how AI is quietly making research less collaborative
 - [[2026-09-11_Houthis_takecontrol_ofkeyislandinglobalshippingrou.md]] : Houthis 'take control' of key island in global shipping route
 - [[2026-09-11_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md]] : More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop' - The Guardian
+- [[2026-09-11_Anthropicspentthisweekinhotwaterovercybersecurity.md]] : Anthropic spent this week in hot water over cybersecurity
+- [[2026-09-11_FeelingSadaboutAI.md]] : Feeling Sad about AI
+- [[2026-09-11_Rapidlyscalingonlinestoragetoserveover1billionChat.md]] : Rapidly scaling online storage to serve over 1 billion ChatGPT users

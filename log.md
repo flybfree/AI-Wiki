@@ -13267,3 +13267,6 @@ tags: ['wiki']
 ## [2026-09-11 10:25] stage-paper | 2026-09-09_13-15-46Z_Agent_BasedML_LLMFusionwithSelf_OptimizingPromptsf.md
 ## [2026-09-11 10:25] ingest | 2026-09-11_Houthis_takecontrol_ofkeyislandinglobalshippingrou.md
 ## [2026-09-11 10:25] ingest | 2026-09-11_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md
+## [2026-09-11 12:22] ingest | 2026-09-11_Anthropicspentthisweekinhotwaterovercybersecurity.md
+## [2026-09-11 12:22] ingest | 2026-09-11_FeelingSadaboutAI.md
+## [2026-09-11 12:22] ingest | 2026-09-11_Rapidlyscalingonlinestoragetoserveover1billionChat.md
