@@ -2754,3 +2754,6 @@ tags: ['wiki']
 - [[2026-09-11_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
 - [[2026-09-11_ShopifyismovingfromReactNativebacktoSwiftandKotlin.md]] : Shopify is moving from React Native back to Swift and Kotlin
 - [[2026-09-11_CherenkovRadiation-travelingfasterthanlight.md]] : Cherenkov Radiation - traveling faster than light
+- [[2026-09-11_TheWaymoeffect_howAIisquietlymakingresearchlesscol.md]] : The Waymo effect: how AI is quietly making research less collaborative
+- [[2026-09-11_Houthis_takecontrol_ofkeyislandinglobalshippingrou.md]] : Houthis 'take control' of key island in global shipping route
+- [[2026-09-11_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md]] : More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop' - The Guardian
