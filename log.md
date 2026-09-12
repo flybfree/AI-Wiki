@@ -13296,3 +13296,6 @@ tags: ['wiki']
 ## [2026-09-12 10:17] ingest | 2026-09-12_AMathematicalFrameworkforTransformerCircuits_2021_.md
 ## [2026-09-12 11:19] ingest | 2026-09-12_AnthropicCEOoutlinesplanto_pacethefrontier_.md
 ## [2026-09-12 12:21] ingest | 2026-09-12_AnthropicCEOsaysit_stimetopumpthebrakesonAI.md
+## [2026-09-12 13:25] ingest | 2026-09-12_MakeyourfirstedittoOpenStreetMap.md
+## [2026-09-12 14:25] ingest | 2026-09-12_LGdeniesTVspyingclaims_saystrackingandsnoopingconc.md
+## [2026-09-12 14:37] ingest | 2026-09-12_AnthropicCEOoutlinesplantoslowAIdevelopment.md

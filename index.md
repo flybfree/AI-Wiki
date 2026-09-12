@@ -2779,3 +2779,6 @@ tags: ['wiki']
 - [[2026-09-12_AMathematicalFrameworkforTransformerCircuits_2021_.md]] : A Mathematical Framework for Transformer Circuits (2021)
 - [[2026-09-12_AnthropicCEOoutlinesplanto_pacethefrontier_.md]] : Anthropic CEO outlines plan to ‘pace the frontier’
 - [[2026-09-12_AnthropicCEOsaysit_stimetopumpthebrakesonAI.md]] : Anthropic CEO says it’s time to pump the brakes on AI
+- [[2026-09-12_MakeyourfirstedittoOpenStreetMap.md]] : Make your first edit to OpenStreetMap
+- [[2026-09-12_LGdeniesTVspyingclaims_saystrackingandsnoopingconc.md]] : LG denies TV spying claims, says tracking and snooping concerns 'not true'
+- [[2026-09-12_AnthropicCEOoutlinesplantoslowAIdevelopment.md]] : Anthropic CEO outlines plan to slow AI development
