@@ -117,6 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-12.md|Summary: Daily AI Intelligence Briefing — 2026-09-12]] — evaluation containment, staged access, verified agent training, production agents, and search-data constraints
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-11.md|Summary: Daily AI Intelligence Briefing — 2026-09-11]] — evaluation defense in depth, staged open weights, verified task RL, tool-use data, workspace agents, and AI infrastructure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-10.md|Summary: Daily AI Intelligence Briefing — 2026-09-10]] — DeepSeek V4.1-Flash, staged open weights, verified task RL, AI policy, licensed data, and applied AI economics
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-09.md|Summary: Daily AI Intelligence Briefing — 2026-09-09]] — open-weight governance, specialist RL, scientific agents, mathematical verification, persistent agent identities, adoption, and licensed training data
@@ -2773,3 +2774,4 @@ tags: ['wiki']
 - [[2026-09-12_GooglenolongerprovidesdirectURLsinsearchresults.md]] : Google no longer provides direct URLs in search results
 - [[2026-09-12_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md]] : More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop' - The Guardian
 - [[2026-09-12_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-12_google_com_goto_Google_santi-scrapingupdate.md]] : google.com/goto: Google's anti-scraping update
