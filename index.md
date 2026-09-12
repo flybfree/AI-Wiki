@@ -2778,3 +2778,4 @@ tags: ['wiki']
 - [[2026-09-12_Fuckit_makeitanyway.md]] : Fuck it, make it anyway
 - [[2026-09-12_AMathematicalFrameworkforTransformerCircuits_2021_.md]] : A Mathematical Framework for Transformer Circuits (2021)
 - [[2026-09-12_AnthropicCEOoutlinesplanto_pacethefrontier_.md]] : Anthropic CEO outlines plan to ‘pace the frontier’
+- [[2026-09-12_AnthropicCEOsaysit_stimetopumpthebrakesonAI.md]] : Anthropic CEO says it’s time to pump the brakes on AI

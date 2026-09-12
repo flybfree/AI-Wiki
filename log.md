@@ -13295,3 +13295,4 @@ tags: ['wiki']
 ## [2026-09-12 07:27] ingest | 2026-09-12_Fuckit_makeitanyway.md
 ## [2026-09-12 10:17] ingest | 2026-09-12_AMathematicalFrameworkforTransformerCircuits_2021_.md
 ## [2026-09-12 11:19] ingest | 2026-09-12_AnthropicCEOoutlinesplanto_pacethefrontier_.md
+## [2026-09-12 12:21] ingest | 2026-09-12_AnthropicCEOsaysit_stimetopumpthebrakesonAI.md
