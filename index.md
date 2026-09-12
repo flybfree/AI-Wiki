@@ -2775,3 +2775,6 @@ tags: ['wiki']
 - [[2026-09-12_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md]] : More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop' - The Guardian
 - [[2026-09-12_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-12_google_com_goto_Google_santi-scrapingupdate.md]] : google.com/goto: Google's anti-scraping update
+- [[2026-09-12_Fuckit_makeitanyway.md]] : Fuck it, make it anyway
+- [[2026-09-12_AMathematicalFrameworkforTransformerCircuits_2021_.md]] : A Mathematical Framework for Transformer Circuits (2021)
+- [[2026-09-12_AnthropicCEOoutlinesplanto_pacethefrontier_.md]] : Anthropic CEO outlines plan to ‘pace the frontier’

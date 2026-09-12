@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-12 12:00] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-12.md after direct lab/news sweep; added TechCrunch coverage of Amodei’s pacing proposal; kept Anthropic incident evidence separate from public risk debate; retained seven AI-only themes; excluded opinion-only maker essay and 2021 transformer framework from the daily synthesis; no target-date arXiv paper promoted because scout coverage stops at 2026-09-10; Logseq mirror synced
+
 ## [2026-09-12] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-12.md created from AI-only intake and direct lab/news sweep; seven themes synthesized; duplicate Google Search captures merged; Anthropic containment and public risk debate kept separate; no target-date arXiv paper promoted because scout coverage stops at 2026-09-10; Logseq mirror created and pending GitHub push
 
 ## [2026-09-12 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-11.md finalized from complete AI-only intake; 2 target-date curation keeps normalized to 2 canonical summary links, both original-paper URLs verified; late RubyGems and Perplexity Astra intake added; Logseq mirrors byte-identical; GitHub commit 85b9d47e pushed and origin/master verified; Lumistorm publication incomplete because WORDPRESS_SITE_URL and WORDPRESS_CATEGORY_NAME are absent from /home/rich/.env, target slug returns 404, and no REST write was attempted
@@ -13290,3 +13292,6 @@ tags: ['wiki']
 ## [2026-09-12 00:19] ingest | 2026-09-12_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md
 ## [2026-09-12 00:19] ingest | 2026-09-12_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md
 ## [2026-09-12 01:57] ingest | 2026-09-12_google_com_goto_Google_santi-scrapingupdate.md
+## [2026-09-12 07:27] ingest | 2026-09-12_Fuckit_makeitanyway.md
+## [2026-09-12 10:17] ingest | 2026-09-12_AMathematicalFrameworkforTransformerCircuits_2021_.md
+## [2026-09-12 11:19] ingest | 2026-09-12_AnthropicCEOoutlinesplanto_pacethefrontier_.md
