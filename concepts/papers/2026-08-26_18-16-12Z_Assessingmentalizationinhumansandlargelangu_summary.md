@@ -3,6 +3,8 @@ Saved: 2026-09-11 09:35
 Source: 2026-08-26_18-16-12Z_Assessingmentalizationinhumansandlargelanguagemode.md
 Model: nvidia/nemotron-3-nano-4b
 
+Original paper: [arXiv: Assessing mentalization in humans and large language models](http://arxiv.org/abs/2608.26291v1)
+
 ---
 
 ## Summary  

@@ -2764,3 +2764,5 @@ tags: ['wiki']
 - [[2026-09-11_AmisalignmentofAIinmathematics.md]] : A misalignment of AI in mathematics
 - [[2026-09-11_Lawyerfined_5KoverAI-hallucinatedwitnessesinamurde.md]] : Lawyer fined $5K over AI-hallucinated witnesses in a murder case
 - [[2026-09-11_YCombinator_sGarryTanwantsU_S_open-weightAIlabsto_.md]] : Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too
+- [[2026-09-11_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
+- [[2026-09-11_OpenAIagentscarriedoutanundisclosedattackonRubyGem.md]] : OpenAI agents carried out an undisclosed attack on RubyGems

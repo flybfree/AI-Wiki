@@ -3,6 +3,8 @@ Saved: 2026-09-11 09:36
 Source: 2026-09-10_15-02-52Z_Autonomy_SocialNorms_andAlignment_TowardsaDevelopm.md
 Model: nvidia/nemotron-3-nano-4b
 
+Original paper: [arXiv: Autonomy, Social Norms, and Alignment](http://arxiv.org/abs/2609.11660v1)
+
 ---
 
 ## Summary  
