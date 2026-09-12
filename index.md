@@ -2766,3 +2766,10 @@ tags: ['wiki']
 - [[2026-09-11_YCombinator_sGarryTanwantsU_S_open-weightAIlabsto_.md]] : Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too
 - [[2026-09-11_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
 - [[2026-09-11_OpenAIagentscarriedoutanundisclosedattackonRubyGem.md]] : OpenAI agents carried out an undisclosed attack on RubyGems
+- [[2026-09-12_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-12_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
+- [[2026-09-12_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[2026-09-12_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-12_GooglenolongerprovidesdirectURLsinsearchresults.md]] : Google no longer provides direct URLs in search results
+- [[2026-09-12_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md]] : More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop' - The Guardian
+- [[2026-09-12_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
