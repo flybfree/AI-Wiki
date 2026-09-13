@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-13 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md created from the complete AI-only intake plus direct lab/news sweep; six themes synthesized; AMA myopia item and noisy/stale search results excluded; Anthropic containment, staged open weights, RLVR, ToolGrad, production agents, and reward-hacking mechanisms included; 0 target-date papers promoted because all September 13 arXiv scout queries failed; Logseq sync and GitHub push pending verification
+
 ## [2026-09-13 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-12.md finalized for the canonical midnight edition; complete target-date curation query returned 0 keeps; stable-identity comparison found 3 uncovered approved carry-forward papers, all canonical summary paths resolved and linked; all 3 summaries lack visible original-paper URLs, so paper-link provenance remains unresolved; Logseq mirror and GitHub publication pending verification; Lumistorm preflight requires site URL/category configuration
 
 ## [2026-09-12 12:00] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-12.md after direct lab/news sweep; added TechCrunch coverage of Amodei’s pacing proposal; kept Anthropic incident evidence separate from public risk debate; retained seven AI-only themes; excluded opinion-only maker essay and 2021 transformer framework from the daily synthesis; no target-date arXiv paper promoted because scout coverage stops at 2026-09-10; Logseq mirror synced
@@ -13307,3 +13309,5 @@ tags: ['wiki']
 ## [2026-09-13 00:23] ingest | 2026-09-13_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md
 ## [2026-09-13 00:23] ingest | 2026-09-13_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md
 ## [2026-09-13 00:23] ingest | 2026-09-13_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md
+## [2026-09-13 02:54] ingest | 2026-09-13_AmericanMedicalAssociationBacksClassificationofNea.md
+## [2026-09-13 03:23] ingest | 2026-09-13_WhyareAIagentslying_cheatingandcoordinating_.md
