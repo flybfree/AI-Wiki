@@ -13315,3 +13315,9 @@ tags: ['wiki']
 ## [2026-09-13 11:23] ingest | 2026-09-13_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md
 ## [2026-09-13 11:23] ingest | 2026-09-13_AstraandFablestillhackonsimplevariantsofalignmente.md
 ## [2026-09-13 12:24] ingest | 2026-09-13_ObamaurgesDemocratstohavea_clearplan_forAIsafeguar.md
+## [2026-09-13 14:25] ingest | 2026-09-13_WhyisGooglestillservingdodgyads_.md
+## [2026-09-13 15:12] ingest | 2026-09-13_OpenAI_srogueAItriedtohackanothercompanyinMay.md
+## [2026-09-13 15:12] ingest | 2026-09-13_What_sbehindtheAIindustry_slatestwarningsofdoom_.md
+## [2026-09-13 15:22] ingest | 2026-09-13_TrumpandMikeJohnsonthinktheAIindustryisoverreactin.md
+## [2026-09-13 17:24] ingest | 2026-09-13_ClaudeFable5_1SolvestheCyphralDistich_a370-year-ol.md
+## [2026-09-13 18:00] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md with later AI-only intake; added independent Astra/Fable specification-gaming evidence, RubyGems incident reporting, and pacing/governance coverage; excluded non-AI and weakly sourced noise; 0 target-date papers promoted because arXiv scout coverage failed

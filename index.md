@@ -2795,3 +2795,8 @@ tags: ['wiki']
 - [[2026-09-13_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md]] : Google DeepMind researcher quits AI safety team, warns of 'terrifying chance' of major harm
 - [[2026-09-13_AstraandFablestillhackonsimplevariantsofalignmente.md]] : Astra and Fable still hack on simple variants of alignment evals from 2025
 - [[2026-09-13_ObamaurgesDemocratstohavea_clearplan_forAIsafeguar.md]] : Obama urges Democrats to have a ‘clear plan’ for AI safeguards
+- [[2026-09-13_WhyisGooglestillservingdodgyads_.md]] : Why is Google still serving dodgy ads?
+- [[2026-09-13_OpenAI_srogueAItriedtohackanothercompanyinMay.md]] : OpenAI’s rogue AI tried to hack another company in May
+- [[2026-09-13_What_sbehindtheAIindustry_slatestwarningsofdoom_.md]] : What’s behind the AI industry’s latest warnings of doom?
+- [[2026-09-13_TrumpandMikeJohnsonthinktheAIindustryisoverreactin.md]] : Trump and Mike Johnson think the AI industry is overreacting
+- [[2026-09-13_ClaudeFable5_1SolvestheCyphralDistich_a370-year-ol.md]] : Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
