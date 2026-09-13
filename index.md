@@ -2791,3 +2791,6 @@ tags: ['wiki']
 - [[2026-09-13_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-13_AmericanMedicalAssociationBacksClassificationofNea.md]] : American Medical Association Backs Classification of Nearsightedness as Disease
 - [[2026-09-13_WhyareAIagentslying_cheatingandcoordinating_.md]] : Why are AI agents lying, cheating and coordinating?
+- [[2026-09-13_Flockworkercallspoliceonreporterfilmingpubliccamer.md]] : Flock worker calls police on reporter filming public camera installation
+- [[2026-09-13_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md]] : Google DeepMind researcher quits AI safety team, warns of 'terrifying chance' of major harm
+- [[2026-09-13_AstraandFablestillhackonsimplevariantsofalignmente.md]] : Astra and Fable still hack on simple variants of alignment evals from 2025
