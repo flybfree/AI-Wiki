@@ -2794,3 +2794,4 @@ tags: ['wiki']
 - [[2026-09-13_Flockworkercallspoliceonreporterfilmingpubliccamer.md]] : Flock worker calls police on reporter filming public camera installation
 - [[2026-09-13_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md]] : Google DeepMind researcher quits AI safety team, warns of 'terrifying chance' of major harm
 - [[2026-09-13_AstraandFablestillhackonsimplevariantsofalignmente.md]] : Astra and Fable still hack on simple variants of alignment evals from 2025
+- [[2026-09-13_ObamaurgesDemocratstohavea_clearplan_forAIsafeguar.md]] : Obama urges Democrats to have a ‘clear plan’ for AI safeguards

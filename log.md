@@ -13314,3 +13314,4 @@ tags: ['wiki']
 ## [2026-09-13 09:22] ingest | 2026-09-13_Flockworkercallspoliceonreporterfilmingpubliccamer.md
 ## [2026-09-13 11:23] ingest | 2026-09-13_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md
 ## [2026-09-13 11:23] ingest | 2026-09-13_AstraandFablestillhackonsimplevariantsofalignmente.md
+## [2026-09-13 12:24] ingest | 2026-09-13_ObamaurgesDemocratstohavea_clearplan_forAIsafeguar.md
