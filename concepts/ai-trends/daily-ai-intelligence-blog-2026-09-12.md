@@ -72,6 +72,14 @@ This is not a model release, but it is AI-relevant infrastructure: search result
 
 **Why it matters:** Fresh web retrieval is becoming a governed dependency rather than a free utility. Monitor URL-resolution reliability, rate limits, provenance, and whether the data source’s terms permit the intended AI use.
 
+## Approved Research Carry-Forward
+
+The complete curation decision store returned **0 keeps approved on 2026-09-12**. Stable-identity comparison against earlier daily briefings nevertheless found three older approved research papers that had not yet appeared in a dated briefing. They are carried forward here so the approved backlog is not silently omitted. Their canonical summary pages exist, but each summary lacks a visible original-paper URL; that provenance gap remains unresolved and no URL has been reconstructed.
+
+1. [Beyond Memory Leaderboards: Evaluating Scientific Memory](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-18_15-09-58Z_BeyondMemoryLeaderboards_EvaluatingScientif_summary.md) — The paper introduces PAIM and PTr, arguing that scientific-memory rankings are dominated by ingestion granularity, retrieval budget, modality, and judge protocol. Its practical contribution is to treat memory as budgeted evidence restoration rather than an unconstrained architecture contest. **Why it matters:** agent memory claims need protocol-controlled, reproducible evaluation. **Original-paper URL:** unresolved in the canonical summary.
+2. [news-crawler-LM: A Small Long-Context Model for High-Quality News Extraction](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-23_13-05-46Z_news_crawler_LM_ASmallLong_ContextModelForH_summary.md) — The paper fine-tunes a compact long-context model to turn HTML into structured Markdown and JSON, reporting gains over learned baselines while retaining only modest advantages over rules for plaintext extraction. **Why it matters:** narrow, validated extraction models can be cheaper and more controllable than general-purpose agents in ingestion pipelines. **Original-paper URL:** unresolved in the canonical summary.
+3. [IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-30_11-28-21Z_IndustryForge_27B_ADomain_EnhancedMultimoda_summary.md) — The paper adapts Qwen3.5-VL-27B to industrial CAD visual QA, code generation, and Windows COM workflows, reporting a large domain lift while preserving general capability. **Why it matters:** domain-specialized multimodal models can be credible substrates for industrial agents when their task interfaces and evaluation suites are explicit. **Original-paper URL:** unresolved in the canonical summary.
+
 ## What Changed Today
 
 - Anthropic’s safety narrative moved from incident disclosure toward layered controls for sandboxes, reinforcement-learning environments, monitoring, and external evaluators.
@@ -80,7 +88,7 @@ This is not a model release, but it is AI-relevant infrastructure: search result
 - Google’s ToolGrad made executable tool chains the starting point for synthetic tool-use data rather than an after-the-fact validation step.
 - OpenAI’s Perplexity case study presented Astra as a production-system operator; its page date conflicts with the intake date, so the claim is deferred from stronger factual conclusions.
 - Google’s `/goto` redirects reinforced that search-engine access and URL provenance are becoming constraints for AI research pipelines.
-- The complete target-date curation query returned 0 keeps; no target-date arXiv paper was promoted. Scout coverage reached September 10, while the September 12 corpus had no approved paper to carry forward.
+- The complete target-date curation query returned 0 keeps; stable-identity comparison found 3 previously approved but uncovered papers, which were carried forward with unresolved original-paper URLs. No target-date arXiv paper was promoted. Scout coverage reached September 10, while the September 12 corpus had no approved paper to carry forward.
 
 ## What Changed vs. Prior Days
 
@@ -91,7 +99,7 @@ Compared with the September 11 briefing, today’s corpus is smaller and less la
 - **Include:** Anthropic’s alignment/security update; Guardian coverage of employee risk warnings; Thinking Machines’ staged open-weight framework and text-to-SQL RL report; Google ToolGrad; OpenAI’s Perplexity/Astra case study with a date discrepancy noted; and the Google `/goto` anti-scraping report.
 - **Exclude:** Duplicate Google `/goto` capture; no additional non-AI or generic technology items were promoted.
 - **Defer:** Exact catastrophic-risk probabilities; vendor-reported Astra and ToolGrad performance until independently reproduced; open-weight progression until thresholds and stop conditions are published; arXiv candidates until target-date curation and canonical summaries are complete.
-- **Papers:** 0 target-date curation keeps and 0 final paper links. The latest scout logs report 1,700 entries per pass and coverage through 2026-09-10, not 2026-09-12.
+- **Papers:** 0 target-date keeps, 3 carried-forward approved papers, and 3 final paper links. All three canonical summary pages exist; all three lack a visible original-paper URL. The latest scout logs report 1,700 entries per pass and coverage through 2026-09-10, not 2026-09-12.
 
 ## Watch Next
 
