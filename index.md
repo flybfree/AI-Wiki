@@ -2782,3 +2782,4 @@ tags: ['wiki']
 - [[2026-09-12_MakeyourfirstedittoOpenStreetMap.md]] : Make your first edit to OpenStreetMap
 - [[2026-09-12_LGdeniesTVspyingclaims_saystrackingandsnoopingconc.md]] : LG denies TV spying claims, says tracking and snooping concerns 'not true'
 - [[2026-09-12_AnthropicCEOoutlinesplantoslowAIdevelopment.md]] : Anthropic CEO outlines plan to slow AI development
+- [[2026-09-12_EveryoneshouldslowdownAIdevelopmentexceptforme.md]] : Everyone should slow down AI development except for me
