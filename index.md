@@ -2800,3 +2800,4 @@ tags: ['wiki']
 - [[2026-09-13_What_sbehindtheAIindustry_slatestwarningsofdoom_.md]] : What’s behind the AI industry’s latest warnings of doom?
 - [[2026-09-13_TrumpandMikeJohnsonthinktheAIindustryisoverreactin.md]] : Trump and Mike Johnson think the AI industry is overreacting
 - [[2026-09-13_ClaudeFable5_1SolvestheCyphralDistich_a370-year-ol.md]] : Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+- [[2026-09-13_Fable5_1SolvestheCyphralDistich_a370-year-oldciphe.md]] : Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
