@@ -13363,3 +13363,6 @@ tags: ['wiki']
 ## [2026-09-14 10:21] stage-paper | 2026-09-10_17-58-48Z_RealityIstheFinalVerifier_OnTwoKeyGapsinAgenticSof.md
 ## [2026-09-14 10:21] stage-paper | 2026-09-10_19-59-22Z_WinSyn_AnAutomatedPipelineforRealisticEnterpriseQu.md
 ## [2026-09-14 10:21] ingest | 2026-09-14_OnlyatTechCrunchDisrupt2026_WhathappenswhenOpenAIs.md
+## [2026-09-14 12:21] ingest | 2026-09-14_DistributedSystemsClassics.md
+## [2026-09-14 12:21] ingest | 2026-09-14_WithiOS27_I_mactuallyusingSiriagain.md
+## [2026-09-14 12:21] ingest | 2026-09-14_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md

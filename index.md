@@ -2815,3 +2815,6 @@ tags: ['wiki']
 - [[2026-09-14_PeopleWhoCan_tPictureAnythingAreRewritingtheScienc.md]] : People Who Can't Picture Anything Are Rewriting the Science of Imagination
 - [[2026-09-14_5dayslefttoexhibitatTechCrunchDisrupt2026.md]] : 5 days left to exhibit at TechCrunch Disrupt 2026
 - [[2026-09-14_OnlyatTechCrunchDisrupt2026_WhathappenswhenOpenAIs.md]] : Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?
+- [[2026-09-14_DistributedSystemsClassics.md]] : Distributed Systems Classics
+- [[2026-09-14_WithiOS27_I_mactuallyusingSiriagain.md]] : With iOS 27, I’m actually using Siri again
+- [[2026-09-14_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
