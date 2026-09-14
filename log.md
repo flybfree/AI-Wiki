@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-09-14 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md finalized; 1 target-date curation keep plus 3 uncovered carry-forward keeps normalized to 4 canonical paper links; WikiSkill original-paper URL verified and 3 summary URLs unresolved; Logseq/GitHub/WordPress publication verification pending
+## [2026-09-14 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md finalized; 1 target-date curation keep plus 3 uncovered carry-forward keeps normalized to 4 canonical paper links; WikiSkill original-paper URL verified and 3 summary URLs unresolved; Logseq mirror byte-identical; GitHub commit 293b2de5 pushed and origin/master verified; Lumistorm publication incomplete because WORDPRESS_SITE_URL and WORDPRESS_CATEGORY_NAME are absent from /home/rich/.env, users/me returned 401, and the stable slug returned 404
 
 ## [2026-09-13 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md created from the complete AI-only intake plus direct lab/news sweep; six themes synthesized; AMA myopia item and noisy/stale search results excluded; Anthropic containment, staged open weights, RLVR, ToolGrad, production agents, and reward-hacking mechanisms included; 0 target-date papers promoted because all September 13 arXiv scout queries failed; Logseq sync completed; GitHub commit 2c12006a pushed and origin/master verified
 
