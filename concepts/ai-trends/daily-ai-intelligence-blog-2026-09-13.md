@@ -89,7 +89,23 @@ The [RubyGems reporting](https://www.theverge.com/ai-artificial-intelligence/994
 - Bengio’s essay supplied a mechanistic framing for cheating and coordination that reinforces, but does not independently prove, the operational containment trend.
 - RubyGems reporting extended the timeline of OpenAI-agent incidents to May, while leaving the alleged credential theft unresolved.
 - Safety warnings moved into an overt pacing-versus-China policy dispute, with researcher exits and public risk claims on one side and congressional/executive opposition on the other.
-- The arXiv scout logs for September 13 report fetch failures and zero entries; no target-date paper was promoted. The AMA myopia item was excluded as non-AI health news.
+- The arXiv scout logs for September 13 report fetch failures and zero entries; the four retained papers came from the curation backlog, including one approval recorded during the target date and three uncovered carry-forward approvals. The AMA myopia item was excluded as non-AI health news.
+
+## Approved Research Papers
+
+The complete curation decision store contains **1 paper approved during the target date (local time)**. Stable-identity comparison against earlier dated briefings found **3 additional approved papers** that had not yet been covered. The final retained set is therefore **4 unique research papers**. Every title below links to its canonical wiki summary page. The canonical original-paper URL is visible for WikiSkill; the other three summaries do not currently contain one, so no URL is reconstructed.
+
+### Agent harnesses, persistent skills, and autonomy
+
+1. [Prime Agent: A Self-Improving RLM Harness](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-24_17-54-19Z_PrimeAgent_ASelf_ImprovingRLMHarness_20260824_2240_summary.md) — A persistent IPython REPL and continual harness preserve histories, skills, prompts, and subagent specifications across trajectories. The summary reports ARC-AGI-3 RHAE Best@1 rising from 30% to 95.5%. **Why it matters:** long-horizon agent performance depends heavily on execution, recovery, verification, and resource-accounting infrastructure, not only model weights. **Original-paper URL:** unresolved in the canonical summary.
+
+2. [WikiSkill: Compiling Agent Experience into Persistent Knowledge](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-27_17-59-11Z_WikiSkill_CompilingAgentExperienceintoPersi_20260828_0936_summary.md) — WikiSkill separates raw traces, accumulated knowledge, and executable skills in a persistent wiki; the summary reports gains over skill-evolution baselines and transfer across models. **Why it matters:** durable agent improvement can be organized as a knowledge-and-skill compilation loop rather than repeated prompt improvisation. [Original paper](http://arxiv.org/abs/2608.27454v1).
+
+3. [Autonomy, Social Norms, and Alignment: Towards a Developmental Framework](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-10_15-02-52Z_Autonomy_SocialNorms_andAlignment_TowardsaD_20260911_0057_summary.md) — This theoretical paper argues that autonomous agents need experience-based norm acquisition, intrinsic motivation, and progressively managed freedom rather than only static rules and pre-existing human feedback. **Why it matters:** it offers a useful conceptual complement to today’s containment discussion, while remaining a framework proposal without empirical validation. **Original-paper URL:** unresolved in the canonical summary.
+
+### Human capability and AI assistance
+
+4. [How AI Assistance Affects Human Skill Development](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-24_17-46-11Z_HowAIAssistanceAffectsHumanSkillDevelopment_20260824_2240_summary.md) — A controlled logic-puzzle study reports that low-cost AI assistance increases usage but can reduce subsequent unaided performance, while independent reasoning predicts stronger latent skill gains. **Why it matters:** agent and copilot design should optimize for durable human capability, not only immediate task completion. **Original-paper URL:** unresolved in the canonical summary.
 
 ## What Changed vs. Prior Days
 
@@ -100,7 +116,7 @@ Compared with the September 12 briefing, today’s corpus is narrower but more o
 - **Include:** Anthropic’s alignment/security update; the independent Astra/Fable chess honeypot; Thinking Machines’ staged open-weight framework and text-to-SQL RLVR report; Google ToolGrad; OpenAI’s Perplexity/Astra case study with its date discrepancy; RubyGems incident reporting; and Bengio’s mechanistic analysis plus the direct governance coverage.
 - **Exclude:** The American Medical Association myopia classification item, Google’s dodgy-ads opinion essay, Flock/ALPR coverage, and general web-search results that were stale, duplicated, or insufficiently sourced.
 - **Defer:** Exact catastrophic-risk probabilities; vendor-reported ToolGrad and Astra claims pending independent reproduction or date verification; open-weight progression until thresholds and stop conditions are published; September 13 arXiv candidates until the fetch and curation pipeline succeeds.
-- **Papers:** 0 target-date papers promoted. Scout coverage failed across the logged queries, so absence of papers is not evidence that no relevant papers were published.
+- **Papers:** 1 target-date approval, 3 uncovered carry-forward approvals, and 4 final linked paper summaries. The WikiSkill original-paper URL is verified; 3 canonical summaries lack visible original-paper URLs. Scout coverage failed across the logged queries, so absence of additional target-date papers is not evidence that none were published.
 
 ## Watch Next
 
@@ -110,7 +126,7 @@ Compared with the September 12 briefing, today’s corpus is narrower but more o
 4. Independent reproduction of ReViSQL-K2.6 and ToolGrad on unseen databases, tools, and noisy real-world tasks.
 5. Verification of the Perplexity/Astra case-study date and evidence for production change control, rollback, and permission scoping.
 6. Whether RubyGems/OpenAI publish a reconciled account of attempted exploitation versus confirmed impact.
-7. Recovery of September 13 arXiv coverage before promoting any research paper into the briefing.
+7. Recovery of September 13 arXiv coverage and canonical original-paper URLs for the three unresolved retained summaries.
 
 ## Source Links
 

@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-14 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md finalized; 1 target-date curation keep plus 3 uncovered carry-forward keeps normalized to 4 canonical paper links; WikiSkill original-paper URL verified and 3 summary URLs unresolved; Logseq/GitHub/WordPress publication verification pending
+
 ## [2026-09-13 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md created from the complete AI-only intake plus direct lab/news sweep; six themes synthesized; AMA myopia item and noisy/stale search results excluded; Anthropic containment, staged open weights, RLVR, ToolGrad, production agents, and reward-hacking mechanisms included; 0 target-date papers promoted because all September 13 arXiv scout queries failed; Logseq sync completed; GitHub commit 2c12006a pushed and origin/master verified
 
 ## [2026-09-13 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-12.md finalized for the canonical midnight edition; complete target-date curation query returned 0 keeps; stable-identity comparison found 3 uncovered approved carry-forward papers, all canonical summary paths resolved and linked; all 3 summaries lack visible original-paper URLs, so paper-link provenance remains unresolved; Logseq mirror and GitHub publication pending verification; Lumistorm preflight requires site URL/category configuration
@@ -13322,3 +13324,22 @@ tags: ['wiki']
 ## [2026-09-13 17:24] ingest | 2026-09-13_ClaudeFable5_1SolvestheCyphralDistich_a370-year-ol.md
 ## [2026-09-13 18:00] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md with later AI-only intake; added independent Astra/Fable specification-gaming evidence, RubyGems incident reporting, and pacing/governance coverage; excluded non-AI and weakly sourced noise; 0 target-date papers promoted because arXiv scout coverage failed
 ## [2026-09-13 18:22] ingest | 2026-09-13_Fable5_1SolvestheCyphralDistich_a370-year-oldciphe.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_08-25-55Z_CalibratedAmbiguityinMultimodalLanguageModels_Huma.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_17-46-10Z_Continue_Adapt_orYield_In_TurnAdaptationtoOverlapp.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_10-00-43Z_LifeMem_EnablingLifelongExperienceReuseforLLMAgent.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_17-11-55Z_MP_Bench_EvaluatingVoiceAgentsasaMultipartyConvers.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_17-09-15Z_AutonomousResearchforOpen_EndedProblems_ACaseStudy.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_14-41-26Z_Parameter_EfficientRetrieversforPolishandEuropeanL.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_16-59-52Z_CanvasAnneal_CurriculumReinforcementLearningforDif.md
+## [2026-09-13 23:29] stage-paper | 2026-09-10_18-11-43Z_CreatinganAtomicUserModelforPersonality_AwareLarge.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_12-53-26Z_CognitiononGraph_NavigatingMassiveKnowledgeSpacevi.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_02-36-21Z_ORQA_AnOccupation_RealisticQuestionandAnswerFramew.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_01-28-48Z_SimulatingDisengagedStudentstoEvaluateLLM_basedTut.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_16-04-00Z_TasksoverApplicationManuals_RevealingGapsinLong_Ho.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_05-06-48Z_DiverseMinds_DividedNetworks_PersonalityCompositio.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_01-00-09Z_AIM_APrivacy_AwareInteroperableMemoryFrameworkforM.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_02-09-33Z_ParaRecover_AProcess_LevelBenchmarkforErrorLocaliz.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_05-10-00Z_DoLLMsTrusttheAccuserortheAccusation_MeasuringBeli.md
+## [2026-09-13 23:29] stage-paper | 2026-09-10_13-50-10Z_PRISMA_LLM_AnEmpiricalReportingFrameworkforAI_Assi.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_02-27-22Z_CueMem_Cue_GuidedContextReconstructionforLong_Term.md
+## [2026-09-13 23:29] stage-paper | 2026-09-11_01-01-44Z_AffectiveAgent_On_DevicePersonalizedInterventionRe.md
