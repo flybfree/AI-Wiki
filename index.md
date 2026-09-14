@@ -2818,3 +2818,8 @@ tags: ['wiki']
 - [[2026-09-14_DistributedSystemsClassics.md]] : Distributed Systems Classics
 - [[2026-09-14_WithiOS27_I_mactuallyusingSiriagain.md]] : With iOS 27, I’m actually using Siri again
 - [[2026-09-14_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
+- [[2026-09-14_Pion_anagentdesignedtorunanycompanyautonomously.md]] : Pion, an agent designed to run any company autonomously
+- [[2026-09-14_GPT-5_6Lunavs_GPT-6Astra_Isa_1_20ModelGoodEnoughfo.md]] : GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?
+- [[2026-09-14_DistributedSystemsClassics_2017_.md]] : Distributed Systems Classics (2017)
+- [[2026-09-14_Amazonvs_Perplexity_U_S_CourtofAppealsfortheNinthC.md]] : Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
+- [[2026-09-14_WhatexecsandpoliticiansaresayingaboutslowingdownAI.md]] : What execs and politicians are saying about slowing down AI development

@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-09-14 06:05] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md created from 9-item AI-only intake plus direct lab/news sweep; six themes synthesized; generic/stale search results excluded; no papers promoted because arXiv scout coverage was incomplete and no target-date curation keeps were available; pending Logseq sync and GitHub publication verification
+## [2026-09-14 18:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md refreshed from the AI-only intake plus direct lab/news sweep; eight themes synthesized; Pion, MAI Code of Conduct, GPT-6 Astra safety findings, METR/Redwood incident detail, and the curation-kept Autonomy/Social Norms paper added; unrelated and stale search results excluded; arXiv coverage remains incomplete; Logseq mirror refreshed and GitHub publication pending
 
 ## [2026-09-14 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md finalized; 1 target-date curation keep plus 3 uncovered carry-forward keeps normalized to 4 canonical paper links; WikiSkill original-paper URL verified and 3 summary URLs unresolved; Logseq mirror byte-identical; GitHub commit 293b2de5 pushed and origin/master verified; Lumistorm publication incomplete because WORDPRESS_SITE_URL and WORDPRESS_CATEGORY_NAME are absent from /home/rich/.env, users/me returned 401, and the stable slug returned 404
 
@@ -13366,3 +13366,32 @@ tags: ['wiki']
 ## [2026-09-14 12:21] ingest | 2026-09-14_DistributedSystemsClassics.md
 ## [2026-09-14 12:21] ingest | 2026-09-14_WithiOS27_I_mactuallyusingSiriagain.md
 ## [2026-09-14 12:21] ingest | 2026-09-14_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md
+## [2026-09-14 14:24] stage-paper | 2026-09-11_11-02-42Z_WhatistheDifferenceBetweenMeandYou_Benchmarkingthe.md
+## [2026-09-14 14:24] stage-paper | 2026-09-10_20-28-38Z_Retrieval_AugmentedGenerationforScientificCodeUnde.md
+## [2026-09-14 14:24] stage-paper | 2026-09-10_08-54-02Z_SoulAuth_AnActor_nativeIdentityArchitectureandRust.md
+## [2026-09-14 14:24] stage-paper | 2026-09-11_09-22-46Z_SteerDuplex_SteerableDuplexSpeechDialogueModels.md
+## [2026-09-14 14:24] ingest | 2026-09-14_Pion_anagentdesignedtorunanycompanyautonomously.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_08-31-23Z_FromCollaborationtoCapability_InternalizingRoutedL.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_03-40-23Z_NichingAgentsinTheCore.md
+## [2026-09-14 15:18] stage-paper | 2026-09-10_00-10-51Z_IsBashAllYouNeed_AnEmpiricalStudyofToolInterfacesf.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_04-04-11Z_SoK_RethinkingJailbreakingintheEraofAgenticAI_Atta.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_05-40-59Z_EvoRS_On_PolicySelf_EvolutionofRewardSystemsforOpe.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_13-13-03Z_OnlineVideoAgentHarnessforLongVideoUnderstanding.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_06-29-34Z_WhenDoesAIAugmentWork_AWorkflow_LevelFrameworkforH.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_03-54-02Z_VRL_Bench_Benchmarkingagentsoncomputercontroltasks.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_13-34-48Z_EvaluatingContextSegmentationinLocallyDeployableSL.md
+## [2026-09-14 15:18] stage-paper | 2026-09-10_19-58-43Z_NDTFactory_SynthesizingVerifiedNetworkDigitalTwins.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_13-41-53Z_MedRoundsQA_APersonaandDifficultyAwareEvaluationfo.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_12-23-29Z_UnifiedAgenticVideoEditingAcrossLevelsofComplexity.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_13-35-27Z_AGraph_BasedApproachforMappingKernel_LevelTelemetr.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_11-41-29Z_SkillIssue_LessonsfromOptimizingRepositorySKILLsfo.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_02-43-09Z_TowardRobustPersonalizedAlignmentforLLMs_Mitigatin.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_13-04-13Z_K_Bench_ABenchmarkforLLMUnlearninginAgenticDeploym.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_07-57-28Z_RoofLang_EnablingAI_DrivenArchitectingofLLMInferen.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_04-56-48Z_LifeFuse_Mem_Lifecycle_AwareStateFusionAgainstTemp.md
+## [2026-09-14 15:18] stage-paper | 2026-09-10_18-25-21Z_MAIA_Multi_AgentIntentArticulationforRequirementDi.md
+## [2026-09-14 15:18] stage-paper | 2026-09-11_10-02-18Z_SeparatingEngineeringReasoningfromDEXPISerializati.md
+## [2026-09-14 15:55] ingest | 2026-09-14_GPT-5_6Lunavs_GPT-6Astra_Isa_1_20ModelGoodEnoughfo.md
+## [2026-09-14 16:16] ingest | 2026-09-14_DistributedSystemsClassics_2017_.md
+## [2026-09-14 17:23] ingest | 2026-09-14_Amazonvs_Perplexity_U_S_CourtofAppealsfortheNinthC.md
+## [2026-09-14 17:23] ingest | 2026-09-14_WhatexecsandpoliticiansaresayingaboutslowingdownAI.md

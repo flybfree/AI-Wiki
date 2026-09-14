@@ -1,0 +1,18 @@
+---
+title: Evaluating Context Segmentation in Locally Deployable SLMs for Cybersecurity CTF Tasks
+published: 2026-09-11T13:34:48Z
+authors: Sebastiano Nordio, Michele Lotto
+url: http://arxiv.org/abs/2609.12839v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Evaluating Context Segmentation in Locally Deployable SLMs for Cybersecurity CTF Tasks
+
+## Abstract
+The proliferation of highly capable open-weight Small Language Models (SLMs) democratizes access to advanced cybersecurity capabilities, posing a escalating risk as these models can bypass proprietary API guardrails when deployed locally. However, SLMs deployed as autonomous agents often struggle with long-horizon, exploratory tasks like cybersecurity Capture The Flag (CTF) challenges due to context bloat and cognitive degradation from accumulated tool-call outputs. To understand and mitigate this cybersecurity threat, we introduce \textit{context segmentation}, a two-level agentic framework that divides complex exploitation tasks into manageable, contextually isolated sub-problems. Evaluating on the \texttt{picoCTF} dataset using memory-constrained \texttt{gemma-4} models, we demonstrate that for the E4B model, our strategy acts as an intelligent search, achieving competitive rewards with superior token efficiency compared to brute-force retries, and successfully solving 18.52\% of tasks that standard agentic execution fails to complete. Code is available at https://github.com/9xeb/context-segmentation.
+
+## Metadata
+- **Published**: 2026-09-11T13:34:48Z
+- **Authors**: Sebastiano Nordio, Michele Lotto
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.12839v1)
