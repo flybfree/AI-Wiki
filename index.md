@@ -2810,3 +2810,8 @@ tags: ['wiki']
 - [[2026-09-14_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-14_What_sbehindtheAIindustry_slatestwarningsofdoom_.md]] : What’s behind the AI industry’s latest warnings of doom?
 - [[2026-09-14_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[2026-09-14_Whatatimetobealive_rougeAIagentsattackRubyGems_org.md]] : What a time to be alive – rouge AI agents attack RubyGems.org
+- [[2026-09-14_Microsoftsays_peoplemattermorethanAI_followingsafe.md]] : Microsoft says ‘people matter more than AI’ following safety concerns
+- [[2026-09-14_PeopleWhoCan_tPictureAnythingAreRewritingtheScienc.md]] : People Who Can't Picture Anything Are Rewriting the Science of Imagination
+- [[2026-09-14_5dayslefttoexhibitatTechCrunchDisrupt2026.md]] : 5 days left to exhibit at TechCrunch Disrupt 2026
+- [[2026-09-14_OnlyatTechCrunchDisrupt2026_WhathappenswhenOpenAIs.md]] : Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?
