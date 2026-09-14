@@ -2801,3 +2801,12 @@ tags: ['wiki']
 - [[2026-09-13_TrumpandMikeJohnsonthinktheAIindustryisoverreactin.md]] : Trump and Mike Johnson think the AI industry is overreacting
 - [[2026-09-13_ClaudeFable5_1SolvestheCyphralDistich_a370-year-ol.md]] : Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
 - [[2026-09-13_Fable5_1SolvestheCyphralDistich_a370-year-oldciphe.md]] : Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+- [[2026-09-14_Fable5_1SolvestheCyphralDistich_a370-year-oldciphe.md]] : Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+- [[2026-09-14_TrumpandMikeJohnsonthinktheAIindustryisoverreactin.md]] : Trump and Mike Johnson think the AI industry is overreacting
+- [[2026-09-14_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-14_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md]] : Google DeepMind researcher quits AI safety team, warns of 'terrifying chance' of major harm
+- [[2026-09-14_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-14_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
+- [[2026-09-14_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-14_What_sbehindtheAIindustry_slatestwarningsofdoom_.md]] : What’s behind the AI industry’s latest warnings of doom?
+- [[2026-09-14_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
