@@ -13354,3 +13354,5 @@ tags: ['wiki']
 ## [2026-09-14 00:23] ingest | 2026-09-14_ASafePathtoOpenWeights.md
 ## [2026-09-14 00:23] ingest | 2026-09-14_What_sbehindtheAIindustry_slatestwarningsofdoom_.md
 ## [2026-09-14 00:23] ingest | 2026-09-14_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md
+## [2026-09-14 06:23] stage-paper | 2026-09-11_03-36-35Z_BlueLM_GUITechnicalReport_AReal_Device_CentricFlyw.md
+## [2026-09-14 06:23] stage-paper | 2026-09-11_08-40-08Z_ReproducingandEvaluatingtheGeneralizabilityofSubli.md
