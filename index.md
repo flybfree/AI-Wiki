@@ -2825,3 +2825,9 @@ tags: ['wiki']
 - [[2026-09-14_Amazonvs_Perplexity_U_S_CourtofAppealsfortheNinthC.md]] : Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
 - [[2026-09-14_WhatexecsandpoliticiansaresayingaboutslowingdownAI.md]] : What execs and politicians are saying about slowing down AI development
 - [[2026-09-14_IsBigTech_sAIslowdownasafetypactoracartel_.md]] : Is Big Tech’s AI slowdown a safety pact or a cartel?
+- [[2026-09-15_IsBigTech_sAIslowdownasafetypactoracartel_.md]] : Is Big Tech’s AI slowdown a safety pact or a cartel?
+- [[2026-09-15_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-15_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-15_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-15_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[2026-09-15_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
