@@ -117,10 +117,9 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
-- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-12.md|Summary: Daily AI Intelligence Briefing — 2026-09-12]] — evaluation containment, staged access, verified agent training, production agents, and search-data constraints
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md|Summary: Daily AI Intelligence Briefing — 2026-09-15]] — containment, staged open weights, specialized enterprise reasoning, independent assurance, production agents, and governance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md|Summary: Daily AI Intelligence Briefing — 2026-09-13]] — containment controls, staged open weights, verified task RL, executable tool-use data, production agents, and reward-hacking mechanisms
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md|Summary: Daily AI Intelligence Briefing — 2026-09-14]] — containment infrastructure, staged release, production agents, and 11 newly approved research papers
-- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md|Summary: Daily AI Intelligence Briefing — 2026-09-15]] — evaluation containment, staged open weights, modular assistants, tool-use training, and governance conflict
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-11.md|Summary: Daily AI Intelligence Briefing — 2026-09-11]] — evaluation defense in depth, staged open weights, verified task RL, tool-use data, workspace agents, and AI infrastructure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-10.md|Summary: Daily AI Intelligence Briefing — 2026-09-10]] — DeepSeek V4.1-Flash, staged open weights, verified task RL, AI policy, licensed data, and applied AI economics
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-09.md|Summary: Daily AI Intelligence Briefing — 2026-09-09]] — open-weight governance, specialist RL, scientific agents, mathematical verification, persistent agent identities, adoption, and licensed training data
@@ -2834,3 +2833,10 @@ tags: ['wiki']
 - [[2026-09-15_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
 - [[2026-09-15_TrumppushesbackasAIleadersfuelcallstoreininrapidly.md]] : Trump pushes back as AI leaders fuel calls to rein in rapidly advancing technology - PBS
 - [[2026-09-15_Let_smakequalitythenormagain.md]] : Let's make quality the norm again
+- [[2026-09-15_SalesforceandNvidia_snewreasoningmodeliseverything.md]] : Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear
+- [[2026-09-15_ShowHN_Ane-inkframethathearsbirdsanddrawsthemas180.md]] : Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+- [[2026-09-15_EarlyAnthropichire_formerMETRCOOhavefoundawaytorei.md]] : Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents
+- [[2026-09-15_4dayslefttoexhibitatTechCrunchDisrupt2026.md]] : 4 days left to exhibit at TechCrunch Disrupt 2026
+- [[2026-09-15_LouiseHaigh_UKmustheedwarningsfromAIexperts-TheGua.md]] : Louise Haigh: UK must heed warnings from AI experts - The Guardian
+- [[2026-09-15_AEOstartupProfoundhitsunicornvaluation_raises_180M.md]] : AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round
+- [[2026-09-15_OpenAI_Anthropic_GooglehavebeenintalksonAIsafetyfo.md]] : OpenAI, Anthropic, Google have been in talks on AI safety for weeks

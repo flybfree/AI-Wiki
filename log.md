@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-09-15 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md created from the AI-only intake plus direct lab/news sweep; five themes synthesized; circular-economy noise excluded; 11 previously approved papers carried forward; 30 newly generated paper summaries left pending; arXiv coverage incomplete after 350 entries and pagination/topic fetch failures; Logseq sync and GitHub publication pending
+## [2026-09-15 12:05] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md refreshed from the latest AI-only intake and direct lab/news sweep; added Koa enterprise reasoning, AIUC-1 assurance, and reported cross-lab safety talks; maker/event and generic AEO items excluded; 11 previously approved papers retained, 30 generated paper summaries remain pending; arXiv coverage incomplete
 
 ## [2026-09-15 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md finalized; complete local-time curation query returned 11 target-date keeps, all 11 canonical summary paths resolved and linked; original-paper URLs recovered from raw captures and added to summaries; Logseq mirror byte-identical; GitHub commit 531473742e8839939fcdf7a29bc8f688f1680eb2 pushed and origin/master verified; Lumistorm publication incomplete because WORDPRESS_SITE_URL and WORDPRESS_CATEGORY_NAME are absent from /home/rich/.env
 
@@ -13491,3 +13491,16 @@ tags: ['wiki']
 ## [2026-09-15 03:33] stage-paper | 2026-09-14_16-22-30Z_AtriaDawn_TheDawnofAgenticSuperintelligence.md
 ## [2026-09-15 03:33] stage-paper | 2026-09-14_05-19-55Z_BusMA_ABusCommunicationSubstrateforMulti_AgentSyst.md
 ## [2026-09-15 05:29] ingest | 2026-09-15_Let_smakequalitythenormagain.md
+## [2026-09-15 07:26] ingest | 2026-09-15_SalesforceandNvidia_snewreasoningmodeliseverything.md
+## [2026-09-15 08:22] ingest | 2026-09-15_ShowHN_Ane-inkframethathearsbirdsanddrawsthemas180.md
+## [2026-09-15 08:22] ingest | 2026-09-15_EarlyAnthropichire_formerMETRCOOhavefoundawaytorei.md
+## [2026-09-15 09:26] stage-paper | 2026-09-14_06-16-59Z_OpenAI4S_CodeasAction_ScienceasSessions.md
+## [2026-09-15 09:26] ingest | 2026-09-15_4dayslefttoexhibitatTechCrunchDisrupt2026.md
+## [2026-09-15 10:23] stage-paper | 2026-09-12_11-27-53Z_WhenMaliciousInstructionsPersist_PersistentMemoryP.md
+## [2026-09-15 10:23] stage-paper | 2026-09-12_20-39-45Z_LIMBO_LifelongInference_TimeMemoryandBudgetOptimiz.md
+## [2026-09-15 10:23] ingest | 2026-09-15_LouiseHaigh_UKmustheedwarningsfromAIexperts-TheGua.md
+## [2026-09-15 10:24] ingest | 2026-09-15_AEOstartupProfoundhitsunicornvaluation_raises_180M.md
+## [2026-09-15 10:27] stage-paper | 2026-09-12_02-50-52Z_GeoSkill_Experience_DrivenHierarchicalSkillLearnin.md
+## [2026-09-15 10:27] stage-paper | 2026-09-11_23-02-24Z_BOOST_ConcurrentAccesstoHostMemoryandHBMtoAccelera.md
+## [2026-09-15 10:27] stage-paper | 2026-09-12_05-51-27Z_TrustworthyAgenticAI_AComprehensiveCybersecurityan.md
+## [2026-09-15 11:24] ingest | 2026-09-15_OpenAI_Anthropic_GooglehavebeenintalksonAIsafetyfo.md
