@@ -45,7 +45,19 @@ The [Fyxer case study](https://www.fyxer.com/blog/how-fyxer-built-an-ai-executiv
 
 **Why it matters:** deployment quality is increasingly an orchestration and data problem. Teams evaluating assistants should measure wrong-recipient actions, memory errors, escalation frequency, reversibility, and user correction—not only generated-text quality. This complements the prior day's Astra and Pion coverage: persistent operation needs explicit permissions and recovery, while modularity supplies the operational checkpoints.
 
-### 6. The accepted research backlog turns “control” into implementable mechanisms
+### 6. Late intake: faster structured decisions, agent-facing reporting, and AI distribution economics
+
+The later September 15 captures add four related signals. [TypeSafe's Jev/System One announcement](https://typesafe.ai/blog/introducing-system-one-models-and-jev) describes a model designed for typed probabilistic decisions rather than free-form text, using Reinforcement Learning for Calibrated Decisions (RLCD) and parallel sampling; the company claims 70–500 ms responses and large cost reductions for narrowly structured tasks. These are vendor claims and should be validated independently, but the design direction is important: AI is being split into a conversational track and a low-latency decision-component track.
+
+[Google Research's Retrieve-for-Train](https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train/) similarly moves expensive reasoning offline. Its reported pipeline uses reinforcement learning to synthesize supervision and trains a 53.9M-parameter diffusion retriever for one-pass set-valued search, targeting groundedness, diversity, and alignment rather than repeated paraphrases. The mechanism is more concrete than a generic “faster inference” claim, though the result remains a research report tied to a specific corpus and benchmark setup.
+
+[Meta's WhatsApp Business MCP release](https://techcrunch.com/2026/09/15/meta-now-lets-ai-agents-handle-the-boring-parts-of-whatsapp-business-setup/) shows the same shift at the platform layer: agents can create accounts, verify numbers, register Cloud API access, edit templates, and test webhooks through a Model Context Protocol server. [Two agent hotlines](https://techcrunch.com/2026/09/15/ai-agents-now-have-a-place-to-snitch/) add an unusual safety mechanism, but the reported gap between lab whistleblowing and real-world action argues for treating agent reporting as a defense-in-depth signal, not a primary control.
+
+Finally, [Meta's One subscriptions](https://www.theverge.com/tech/995453/meta-one-subscriptions-ai) package additional AI generation and business-agent features into paid tiers, while TechCrunch's [AI graveyard review](https://techcrunch.com/2026/09/15/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/) documents the counterpressure: standalone products are vulnerable when platforms absorb features, and weak demand or unreliable execution kills even well-funded projects. Together these items reinforce a deployment thesis: low-latency components and agent-accessible platforms may scale, but only when they have measurable utility and a durable distribution channel.
+
+**Why it matters:** the newest intake shifts the center of gravity from “bigger chatbot” to composable decision functions, precompiled retrieval, and agent-operable SaaS. It also supplies a useful failure filter: headline speed or AI feature counts do not substitute for calibration evidence, permission boundaries, user demand, or survivable economics.
+
+### 7. The accepted research backlog turns “control” into implementable mechanisms
 
 The 11 papers approved through the local curation workflow are linked to canonical wiki summaries. They were selected for relevance; the much larger September 15 generated-paper batch remains pending and is deliberately excluded from the accepted set.
 
