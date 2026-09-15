@@ -2840,3 +2840,10 @@ tags: ['wiki']
 - [[2026-09-15_LouiseHaigh_UKmustheedwarningsfromAIexperts-TheGua.md]] : Louise Haigh: UK must heed warnings from AI experts - The Guardian
 - [[2026-09-15_AEOstartupProfoundhitsunicornvaluation_raises_180M.md]] : AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round
 - [[2026-09-15_OpenAI_Anthropic_GooglehavebeenintalksonAIsafetyfo.md]] : OpenAI, Anthropic, Google have been in talks on AI safety for weeks
+- [[2026-09-15_AIagentsnowhaveaplacetosnitch.md]] : AI agents now have a place to snitch
+- [[2026-09-15_TheAIgraveyard_arunninglistofprojectsandstartupsth.md]] : The AI graveyard: a running list of projects and startups that didn’t make it
+- [[2026-09-15_Jev_Newfrontiermodel40-400xcheaperand20-200xfaster.md]] : Jev: New frontier model 40-400x cheaper and 20-200x faster
+- [[2026-09-15_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
+- [[2026-09-15_MetanowletsAIagentshandletheboringpartsofWhatsAppB.md]] : Meta now lets AI agents handle the boring parts of WhatsApp Business setup
+- [[2026-09-15_Meta__8217_snewOnesubscriptionsputapriceonsocialme.md]] : Meta&#8217;s new One subscriptions put a price on social media and AI
+- [[2026-09-15_IntroducingSystemOneModelsandJev.md]] : Introducing System One Models and Jev
