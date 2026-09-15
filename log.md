@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-15 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md created from the AI-only intake plus direct lab/news sweep; five themes synthesized; circular-economy noise excluded; 11 previously approved papers carried forward; 30 newly generated paper summaries left pending; arXiv coverage incomplete after 350 entries and pagination/topic fetch failures; Logseq sync and GitHub publication pending
+
 ## [2026-09-15 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md finalized; complete local-time curation query returned 11 target-date keeps, all 11 canonical summary paths resolved and linked; original-paper URLs recovered from raw captures and added to summaries; Logseq mirror byte-identical; GitHub commit 531473742e8839939fcdf7a29bc8f688f1680eb2 pushed and origin/master verified; Lumistorm publication incomplete because WORDPRESS_SITE_URL and WORDPRESS_CATEGORY_NAME are absent from /home/rich/.env
 
 ## [2026-09-14 18:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md refreshed from the AI-only intake plus direct lab/news sweep; eight themes synthesized; Pion, MAI Code of Conduct, GPT-6 Astra safety findings, METR/Redwood incident detail, and the curation-kept Autonomy/Social Norms paper added; unrelated and stale search results excluded; arXiv coverage remains incomplete; Logseq mirror refreshed and GitHub publication pending
@@ -13463,3 +13465,29 @@ tags: ['wiki']
 ## [2026-09-15 00:30] ingest | 2026-09-15_ASafePathtoOpenWeights.md
 ## [2026-09-15 00:30] ingest | 2026-09-15_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md
 ## [2026-09-15 00:30] ingest | 2026-09-15_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md
+## [2026-09-15 01:26] stage-paper | 2026-09-14_17-56-00Z_DiscoveryFoundationModels_TowardOpen_EndedDiscover.md
+## [2026-09-15 01:26] stage-paper | 2026-09-14_14-55-13Z_RESKILL_ExplicitFailureAttributionandStructuredRep.md
+## [2026-09-15 02:23] ingest | 2026-09-15_TrumppushesbackasAIleadersfuelcallstoreininrapidly.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_03-47-05Z_ActGuard_Pre_executionActionAuditingagainstIndirec.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_17-44-51Z_VulnerabilityLocalizationBenchmark_MeasuringAgenti.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_07-09-33Z_HazardAuditor_FromExecutableThreatstoSaferComputer.md
+## [2026-09-15 03:33] stage-paper | 2026-09-13_22-35-26Z_ANASSA_AnAgenticAIOrchestrationFrameworkforSpatial.md
+## [2026-09-15 03:33] stage-paper | 2026-09-13_18-19-02Z_MoralRebelAgents_Decision_MakingUnderConflictingOb.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_04-15-55Z_CoMem_Collective_IndividualMemorySynergyforEvoluti.md
+## [2026-09-15 03:33] stage-paper | 2026-09-13_18-20-31Z_CarryoverDrafting_RecyclingRejectedStatesforSpecul.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_04-24-44Z_Overflip_Repetition_InducedLabelFlipsinGuardrailMo.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_15-01-10Z_NoteVQA_BenchmarkingVLMsonReal_LifeQuestionsfromHu.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_11-48-35Z_EmpiricalEvaluationofTask_BasedPermissionScopingAr.md
+## [2026-09-15 03:33] stage-paper | 2026-09-13_19-16-44Z_AcquireBound_RuntimeAuthorizationforResourcesAcqui.md
+## [2026-09-15 03:33] stage-paper | 2026-09-13_18-05-58Z_LightningWeave_ImprovingtheAccuracy_EfficiencyFron.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_11-31-06Z_WhenToolCallsSucceedbutWorkflowsFail_Anomaliesatth.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_05-49-45Z_EnablingCreativeExplorationforVibeDesignAgents.md
+## [2026-09-15 03:33] stage-paper | 2026-09-13_19-51-27Z_FromVisualFeedbacktoTextualReviews_AMulti_AgentVis.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_08-54-10Z_CWM_ControllableWhite_BoxMeta_PromptingforAdaptive.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_03-31-19Z_MemRiskBench_Trace_AwareRisk_PreservingEvaluationf.md
+## [2026-09-15 03:33] stage-paper | 2026-09-13_20-40-11Z_TheStochasticDeputy_StructuralTenantIsolationforTo.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_04-46-09Z_ValidatingHybrid_StateCacheRecoveryforGLM_5_3_Flas.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_12-46-45Z_TheTroyMomentofAI_WhySomeWillCheatandSomeWillFollo.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_16-22-30Z_AtriaDawn_TheDawnofAgenticSuperintelligence.md
+## [2026-09-15 03:33] stage-paper | 2026-09-14_05-19-55Z_BusMA_ABusCommunicationSubstrateforMulti_AgentSyst.md
+## [2026-09-15 05:29] ingest | 2026-09-15_Let_smakequalitythenormagain.md

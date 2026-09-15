@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-14
+> Last updated: 2026-09-15
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -120,6 +120,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-12.md|Summary: Daily AI Intelligence Briefing — 2026-09-12]] — evaluation containment, staged access, verified agent training, production agents, and search-data constraints
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md|Summary: Daily AI Intelligence Briefing — 2026-09-13]] — containment controls, staged open weights, verified task RL, executable tool-use data, production agents, and reward-hacking mechanisms
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md|Summary: Daily AI Intelligence Briefing — 2026-09-14]] — containment infrastructure, staged release, production agents, and 11 newly approved research papers
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md|Summary: Daily AI Intelligence Briefing — 2026-09-15]] — evaluation containment, staged open weights, modular assistants, tool-use training, and governance conflict
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-11.md|Summary: Daily AI Intelligence Briefing — 2026-09-11]] — evaluation defense in depth, staged open weights, verified task RL, tool-use data, workspace agents, and AI infrastructure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-10.md|Summary: Daily AI Intelligence Briefing — 2026-09-10]] — DeepSeek V4.1-Flash, staged open weights, verified task RL, AI policy, licensed data, and applied AI economics
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-09.md|Summary: Daily AI Intelligence Briefing — 2026-09-09]] — open-weight governance, specialist RL, scientific agents, mathematical verification, persistent agent identities, adoption, and licensed training data
@@ -2831,3 +2832,5 @@ tags: ['wiki']
 - [[2026-09-15_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-15_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
 - [[2026-09-15_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
+- [[2026-09-15_TrumppushesbackasAIleadersfuelcallstoreininrapidly.md]] : Trump pushes back as AI leaders fuel calls to rein in rapidly advancing technology - PBS
+- [[2026-09-15_Let_smakequalitythenormagain.md]] : Let's make quality the norm again
