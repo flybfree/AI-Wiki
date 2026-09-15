@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-09-15 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md finalized; complete local-time curation query returned 11 target-date keeps, all 11 canonical summary paths resolved and linked; original-paper URLs recovered from raw captures and added to summaries; Logseq mirror and GitHub publication pending; Lumistorm preflight incomplete because WORDPRESS_SITE_URL and WORDPRESS_CATEGORY_NAME are absent from /home/rich/.env
+## [2026-09-15 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md finalized; complete local-time curation query returned 11 target-date keeps, all 11 canonical summary paths resolved and linked; original-paper URLs recovered from raw captures and added to summaries; Logseq mirror byte-identical; GitHub commit 531473742e8839939fcdf7a29bc8f688f1680eb2 pushed and origin/master verified; Lumistorm publication incomplete because WORDPRESS_SITE_URL and WORDPRESS_CATEGORY_NAME are absent from /home/rich/.env
 
 ## [2026-09-14 18:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md refreshed from the AI-only intake plus direct lab/news sweep; eight themes synthesized; Pion, MAI Code of Conduct, GPT-6 Astra safety findings, METR/Redwood incident detail, and the curation-kept Autonomy/Social Norms paper added; unrelated and stale search results excluded; arXiv coverage remains incomplete; Logseq mirror refreshed and GitHub publication pending
 
