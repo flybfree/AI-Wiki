@@ -1,0 +1,18 @@
+---
+title: MAPLE: Memory-Augmented Planning with Language and Evolution
+published: 2026-09-10T14:44:50Z
+authors: Kesheng Chen, Yamin Hu, Wenjian Luo
+url: http://arxiv.org/abs/2609.11636v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MAPLE: Memory-Augmented Planning with Language and Evolution
+
+## Abstract
+Domain practitioners understand their business constraints but may lack operations-research expertise or dedicated support. LLM-based optimization agents translate natural-language requirements into models or solver programs that established optimization tools can execute. This progress makes optimization more accessible, but real-world operations are dynamic: changing demand, resources, and priorities require updates to data, constraints, and objectives. Methods centered on isolated requests offer limited support for rapid adaptation that preserves earlier decisions and reuses useful search results. We introduce MAPLE (Memory-Augmented Planning with Language and Evolution), an agent for maintaining optimization problems through successive natural-language requests. MAPLE combines language-based problem construction with mathematical programming and evolutionary search. It retains the optimization program, accepted plans, earlier updates, and candidate solutions for subsequent requests. We introduce NLDO, a benchmark of 15 trajectories and 180 updates spanning selection, scheduling, rostering, routing, and cloud-resource placement. In the main evaluation, MAPLE completes all trajectories and achieves online scalar quality of 0.951 and a Pareto hypervolume ratio of 0.875. Controlled comparisons further show that maintaining executable state improves update validity and can preserve useful search information across substantial revisions.
+
+## Metadata
+- **Published**: 2026-09-10T14:44:50Z
+- **Authors**: Kesheng Chen, Yamin Hu, Wenjian Luo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.11636v1)
