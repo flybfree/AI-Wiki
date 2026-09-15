@@ -203,6 +203,23 @@ def candidate(path: Path) -> dict[str, Any]:
     }
 
 
+def _interest_evidence(item: dict[str, Any]) -> dict[str, Any]:
+    """Evaluate scope using the raw paper when the summary title is synthetic."""
+    title = item["title"]
+    text = item["preview"]
+    source_name = Path(str(item.get("source", ""))).name
+    raw_path = ROOT / "raw/papers" / source_name
+    if raw_path.is_file():
+        raw_text = raw_path.read_text(errors="replace")
+        raw_meta = _frontmatter(raw_text)
+        raw_title = str(raw_meta.get("title") or "").strip()
+        if raw_title:
+            title = raw_title
+        text = _body(raw_text)[:8000] + " " + text
+    scope = explicit_interest(title, text, item.get("tags", []))
+    return {"title": title, "text": text, **scope}
+
+
 def _identity(value: str) -> str:
     """Return a stable identity for generated summaries of one source.
 
@@ -347,9 +364,21 @@ def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -
         item["decision"] = decision["decision"] if decision else "pending"
         item["note"] = decision["note"] if decision else ""
         item["updated_at"] = decision["updated_at"] if decision else ""
-        item["score"] = _score_with_title(item["title"], item["preview"], item["tags"], profile)
-        if status == "pending" and item["score"] < MIN_REVIEW_SCORE:
-            continue
+        if status == "pending":
+            evidence = _interest_evidence(item)
+            item["interest"] = {
+                "relevant": evidence["relevant"],
+                "title_hits": evidence["title_hits"],
+                "body_hits": evidence["body_hits"],
+            }
+            item["title"] = evidence["title"]
+            item["score"] = _score_with_title(
+                evidence["title"], evidence["text"], item["tags"], profile
+            )
+            if not evidence["relevant"] or item["score"] < MIN_REVIEW_SCORE:
+                continue
+        else:
+            item["score"] = _score_with_title(item["title"], item["preview"], item["tags"], profile)
         if status == "all" or item["decision"] == status:
             result.append(item)
     db.close()

@@ -1,0 +1,18 @@
+---
+title: ATTRICITE: Training an Open 4B Model for Citation Recovery toward Faithful Attribution
+published: 2026-09-13T02:55:38Z
+authors: Yee Man Choi, Xuehang Guo, Songcheng Cai, Yimu Wang, Yi R. Fung, Qingyun Wang
+url: http://arxiv.org/abs/2609.14248v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ATTRICITE: Training an Open 4B Model for Citation Recovery toward Faithful Attribution
+
+## Abstract
+Faithful citation attribution begins with identifying the intended source for a scientific claim. We study this source-identification capability through citation recovery: recovering the paper cited by the original author from a citation-bearing passage. Our evaluation adopts the published author's citation as an observable human attribution signal and uses target recovery as a proxy for progress toward faithful attribution. We introduce ATTRICITE, an open 4B-parameter model trained for tool-using citation recovery within the CiteGuard retrieval environment, together with CITEALIGN, a 7,607-instance computer-science dataset drawn from recent scientific literature. For controlled evaluation, we construct a 709-instance benchmark subset of CITEALIGN, comprising 410 development instances from 2024 publications and 299 temporally held-out test instances from 2025 publications. Across three runs at an inference temperature of 0.7, GRPO fine-tuning improves Qwen3-4B from 49.4%$\pm$1.5% to 59.8%$\pm$0.2% target-match accuracy, a gain of 10.4 percentage points. Despite using only 4B parameters, ATTRICITE outperforms gpt-oss-20b and comes within 3.9 points of GPT-5.4-mini, while Gemma 4 31B IT achieves the strongest overall performance at 72.0%$\pm$1.0%. We release the model and collection pipeline https://github.com/KathCYM/AttriCite to support reproducible research on citation recovery toward faithful attribution in a continually evolving scientific literature.
+
+## Metadata
+- **Published**: 2026-09-13T02:55:38Z
+- **Authors**: Yee Man Choi, Xuehang Guo, Songcheng Cai, Yimu Wang, Yi R. Fung, Qingyun Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.14248v1)
