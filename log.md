@@ -13632,3 +13632,10 @@ tags: ['wiki']
 ## [2026-09-16 11:23] ingest | 2026-09-16_HelpingolderadultsuseAIineverydaylife.md
 ## [2026-09-16 11:23] ingest | 2026-09-16_Dream-RSI_RecursiveSelf-ImprovementthroughEvolving.md
 ## [2026-09-16 11:56] ingest | 2026-09-16_AnthropicmergesClaudechatandCoworkinoneinterface.md
+## [2026-09-16 14:23] ingest | 2026-09-16_Vectorizedandperformance-portableQuicksort.md
+## [2026-09-16 14:23] ingest | 2026-09-16_AIlabswantin-houseauditors_butmaybetheyshouldshutt.md
+## [2026-09-16 15:21] ingest | 2026-09-16_Vectorizedandperformance-portableQuicksort_2022_.md
+## [2026-09-16 16:22] ingest | 2026-09-16_Traininga4Bmodeltoproduce81_fasterqueryplansthanPo.md
+## [2026-09-16 16:22] ingest | 2026-09-16_The2_5-hourAI-generatedOdysseymovieis2_5hourstoolo.md
+## [2026-09-16 16:22] ingest | 2026-09-16_AnthropicandOpenAIwanttoembedsafetyevaluators_Will.md
+## [2026-09-16 18:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md created from 22 raw AI-only captures and corroborating web sweep; duplicate/non-AI noise excluded; no new paper promoted through curation; arXiv scout coverage logged 1,800 entries across 14 queries

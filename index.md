@@ -2866,3 +2866,10 @@ tags: ['wiki']
 - [[2026-09-16_HelpingolderadultsuseAIineverydaylife.md]] : Helping older adults use AI in everyday life
 - [[2026-09-16_Dream-RSI_RecursiveSelf-ImprovementthroughEvolving.md]] : Dream-RSI: Recursive Self-Improvement through Evolving Worlds
 - [[2026-09-16_AnthropicmergesClaudechatandCoworkinoneinterface.md]] : Anthropic merges Claude chat and Cowork in one interface
+- [[2026-09-16_Vectorizedandperformance-portableQuicksort.md]] : Vectorized and performance-portable Quicksort
+- [[2026-09-16_AIlabswantin-houseauditors_butmaybetheyshouldshutt.md]] : AI labs want in-house auditors — but maybe they should shut the front door first
+- [[2026-09-16_Vectorizedandperformance-portableQuicksort_2022_.md]] : Vectorized and performance-portable Quicksort (2022)
+- [[2026-09-16_Traininga4Bmodeltoproduce81_fasterqueryplansthanPo.md]] : Training a 4B model to produce 81% faster query plans than Postgres
+- [[2026-09-16_The2_5-hourAI-generatedOdysseymovieis2_5hourstoolo.md]] : The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long
+- [[2026-09-16_AnthropicandOpenAIwanttoembedsafetyevaluators_Will.md]] : Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md|Summary: Daily AI Intelligence Briefing — 2026-09-16]] : embedded evaluators, staged open weights, agentic interfaces, compiled expertise, and recursive improvement
