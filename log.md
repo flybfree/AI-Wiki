@@ -5,6 +5,12 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-16] update | refreshed concepts/llm-models/OpenSourceModelsStateOfTheArt.md with a Qwen3.8-27B spotlight, official model-card specifications and reported benchmarks, local deployment notes, independent latency/reasoning caveats, source links, and a 2026-09-16 snapshot date
+
+## [2026-09-16] update | expanded concepts/llm-models/OpenSourceModelsStateOfTheArt.md with an Ornith-1.5 spotlight covering its self-improvement loop, 9B/35B-A3B/397B variants, reported coding-agent benchmarks, local deployment trade-offs, and independent context guidance
+
+## [2026-09-16] publish | updated Lumistorm page 114 at https://lumistorm.net/open-source-ai/ from the current Open-Source Models State of the Art wiki page; API and cache-busted live-page checks verified Qwen3.8-27B coverage and no raw wiki-link syntax
+
 ## [2026-09-16 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md checked against the complete target-date curation query: 12 keeps returned, 11 canonical summary links and original-paper URLs verified; one Trustworthy Agentic AI decision remains unresolved pending source recovery; Logseq/GitHub/Lumistorm publication remains incomplete until the unresolved paper and WordPress configuration are addressed
 
 ## [2026-09-16 00:04] repair | resolved the Trustworthy Agentic AI canonical summary to raw capture `2026-09-12_05-51-27Z_TrustworthyAgenticAI_AComprehensiveCybersecurityan.md`, recovered ArXiv URL `http://arxiv.org/abs/2609.13731v1`, and linked it in the September 15 briefing; selected-paper and link counts now match at 12
@@ -13618,3 +13624,11 @@ tags: ['wiki']
 ## [2026-09-16 00:26] ingest | 2026-09-16_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md
 ## [2026-09-16 00:26] ingest | 2026-09-16_AIanddatacentersareincrediblyunpopularineverypoll.md
 ## [2026-09-16 00:26] ingest | 2026-09-16_ASafePathtoOpenWeights.md
+## [2026-09-16 08:23] ingest | 2026-09-16_TheGooglePlayappreviewprocessnowregularlytakeslong.md
+## [2026-09-16 09:24] ingest | 2026-09-16_ReimaginingadvertisingwithAI.md
+## [2026-09-16 10:23] ingest | 2026-09-16_PS5Linuxleadquits__abunchofnoobsusingLLMs_that_the.md
+## [2026-09-16 11:23] ingest | 2026-09-16_ZifoandAlchemyPartnertoAdvanceAI-EnabledR_DAcrossF.md
+## [2026-09-16 11:23] ingest | 2026-09-16_ThesexyAI-powereddatingappscamsarehere.md
+## [2026-09-16 11:23] ingest | 2026-09-16_HelpingolderadultsuseAIineverydaylife.md
+## [2026-09-16 11:23] ingest | 2026-09-16_Dream-RSI_RecursiveSelf-ImprovementthroughEvolving.md
+## [2026-09-16 11:56] ingest | 2026-09-16_AnthropicmergesClaudechatandCoworkinoneinterface.md

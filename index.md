@@ -2858,3 +2858,11 @@ tags: ['wiki']
 - [[2026-09-16_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-16_AIanddatacentersareincrediblyunpopularineverypoll.md]] : AI and data centers are incredibly unpopular in every poll
 - [[2026-09-16_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-16_TheGooglePlayappreviewprocessnowregularlytakeslong.md]] : The Google Play app review process now regularly takes longer than a week
+- [[2026-09-16_ReimaginingadvertisingwithAI.md]] : Reimagining advertising with AI
+- [[2026-09-16_PS5Linuxleadquits__abunchofnoobsusingLLMs_that_the.md]] : PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"
+- [[2026-09-16_ZifoandAlchemyPartnertoAdvanceAI-EnabledR_DAcrossF.md]] : Zifo and Alchemy Partner to Advance AI -Enabled R&D Across Formulation and Materials Industries
+- [[2026-09-16_ThesexyAI-powereddatingappscamsarehere.md]] : The sexy AI-powered dating app scams are here
+- [[2026-09-16_HelpingolderadultsuseAIineverydaylife.md]] : Helping older adults use AI in everyday life
+- [[2026-09-16_Dream-RSI_RecursiveSelf-ImprovementthroughEvolving.md]] : Dream-RSI: Recursive Self-Improvement through Evolving Worlds
+- [[2026-09-16_AnthropicmergesClaudechatandCoworkinoneinterface.md]] : Anthropic merges Claude chat and Cowork in one interface
