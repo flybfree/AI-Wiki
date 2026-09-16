@@ -1,0 +1,18 @@
+---
+title: ANIMASK: What the Model Contributes to Role Play in Simulated Story Worlds
+published: 2026-09-15T05:43:35Z
+authors: Xiucheng Zhang, Zhuoning Xu, Hanjun Luo, Yankai Chen, Hanan Salam, Xue Liu
+url: http://arxiv.org/abs/2609.16667v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ANIMASK: What the Model Contributes to Role Play in Simulated Story Worlds
+
+## Abstract
+When a language model plays a character, the observed behavior reflects both the assigned persona and the default dispositions of the actor model itself. Existing evaluations test persona fidelity or model defaults in isolation, but neither says, at a specific choice with consequences, what the persona changed and what the model's default kept. We introduce ANIMASK, a simulation framework that freezes books and scripts into story worlds whose characters act on their own motivations and replays each story from its freeze point. We hold out the author's continuation as a human reference, verify through in-story interviews that each persona remains present, and at every decision point compare the character's action with what the model produces when the persona is removed. Across 40 stories, 6 actor models, and 3,846 decision points, the replays converge away from their canons in one shared direction, toward flatter, cooler stories that leave their tensions open. The personas stay present and obeyed throughout. On three choices in four the model's default already falls inside what the persona accepts, and where the two diverge the model is the cautious one, holding where the persona would press. The persona guarantees who the character is, and the model sets how far the character will go.
+
+## Metadata
+- **Published**: 2026-09-15T05:43:35Z
+- **Authors**: Xiucheng Zhang, Zhuoning Xu, Hanjun Luo, Yankai Chen, Hanan Salam, Xue Liu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.16667v1)

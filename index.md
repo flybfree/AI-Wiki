@@ -2847,3 +2847,5 @@ tags: ['wiki']
 - [[2026-09-15_MetanowletsAIagentshandletheboringpartsofWhatsAppB.md]] : Meta now lets AI agents handle the boring parts of WhatsApp Business setup
 - [[2026-09-15_Meta__8217_snewOnesubscriptionsputapriceonsocialme.md]] : Meta&#8217;s new One subscriptions put a price on social media and AI
 - [[2026-09-15_IntroducingSystemOneModelsandJev.md]] : Introducing System One Models and Jev
+- [[2026-09-15_Votersmostlydon_tlikeAIanddatacenters_butneitherpa.md]] : Voters mostly don’t like AI and data centers, but neither party seems to have an edge
+- [[2026-09-15_AIanddatacentersareincrediblyunpopularineverypoll.md]] : AI and data centers are incredibly unpopular in every poll
