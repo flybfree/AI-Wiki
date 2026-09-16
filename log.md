@@ -5,7 +5,9 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-09-16 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md checked against the complete target-date curation query: 12 keeps returned, 11 canonical summary links and original-paper URLs verified; one Trustworthy Agentic AI decision has no resolvable pending/canonical summary or raw capture; Logseq/GitHub/Lumistorm publication remains incomplete until the unresolved paper and WordPress configuration are addressed
+## [2026-09-16 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md checked against the complete target-date curation query: 12 keeps returned, 11 canonical summary links and original-paper URLs verified; one Trustworthy Agentic AI decision remains unresolved pending source recovery; Logseq/GitHub/Lumistorm publication remains incomplete until the unresolved paper and WordPress configuration are addressed
+
+## [2026-09-16 00:04] repair | resolved the Trustworthy Agentic AI canonical summary to raw capture `2026-09-12_05-51-27Z_TrustworthyAgenticAI_AComprehensiveCybersecurityan.md`, recovered ArXiv URL `http://arxiv.org/abs/2609.13731v1`, and linked it in the September 15 briefing; selected-paper and link counts now match at 12
 
 ## [2026-09-15 12:05] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md refreshed from the latest AI-only intake and direct lab/news sweep; added Koa enterprise reasoning, AIUC-1 assurance, and reported cross-lab safety talks; maker/event and generic AEO items excluded; 11 previously approved papers retained, 30 generated paper summaries remain pending; arXiv coverage incomplete
 

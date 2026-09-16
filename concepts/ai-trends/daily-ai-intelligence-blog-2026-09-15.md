@@ -73,7 +73,7 @@ The 11 papers approved through the local curation workflow are linked to canonic
 - [Pull: Lazy Materialization of Working Memory for Stateful LLM Conversations](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-13_20-26-13Z_Pull_LazyMaterializationofWorkingMemoryforS_summary.md) — keeps long-term memory addressable and expansion reversible.
 - [When Tools Get in the Way](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-12_21-15-58Z_WhenToolsGetintheWay_TheEffectofUnnecessary_summary.md) — reports accuracy falling from 98.2% to 63.5% when an unnecessary tool is merely available.
 - [The Garden of Forking Prompts](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-13_17-21-22Z_TheGardenofForkingPrompts_HowUsersExploreNa_summary.md) — models iterative, branching user exploration rather than one-shot prompting.
-- **Trustworthy Agentic AI: A Comprehensive Cybersecurity Framework** — selected by curation on September 15, but its recorded `pending/papers/2026-09-12_05-51-27Z_TrustworthyAgenticAI_AComprehensiveCybersec_summary.md` path and matching raw capture are absent, so no canonical summary/original-paper link can be verified.
+- [Trustworthy Agentic AI: A Comprehensive Cybersecurity and Systems Survey](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-12_05-51-27Z_TrustworthyAgenticAI_AComprehensiveCybersec_summary.md) — surveys 206 studies and proposes a six-dimensional trustworthiness taxonomy plus zero-trust controls; its canonical original paper is [ArXiv](http://arxiv.org/abs/2609.13731v1).
 - [MP-Bench: Evaluating Voice Agents as Multiparty Conversational Participants](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-11_17-11-55Z_MP_Bench_EvaluatingVoiceAgentsasaMultiparty_summary.md) — finds current voice agents weak on multiparty comprehension and turn-taking.
 
 #### Models and software quality
@@ -95,7 +95,7 @@ The 11 papers approved through the local curation workflow are linked to canonic
 - Koa made the open-weight enterprise track concrete: specialized reasoning, synthetic data, and gateway routing can compete with closed models on bounded work without matching them everywhere.
 - AIUC-1 and the reported cross-lab talks added a market for independent assurance, while also sharpening the antitrust and incumbent-control question.
 - Production assistants provided a concrete counterpoint to frontier-model demos: modular workflow design and domain data are the trust layer.
-- The complete September 15 curation query returned 12 keeps; 11 summary links and original-paper URLs verify, while the Trustworthy Agentic AI record remains unresolved; 30 newly generated September 15 paper summaries remain pending curation.
+- The complete September 15 curation query returned 12 keeps; all 12 canonical summary links and original-paper URLs now verify; 30 newly generated September 15 paper summaries remain pending curation.
 - ArXiv coverage is incomplete: 350 entries were fetched, but most topic and second-page requests failed, so absence of a paper signal is not evidence of absence.
 
 ## Why It Matters

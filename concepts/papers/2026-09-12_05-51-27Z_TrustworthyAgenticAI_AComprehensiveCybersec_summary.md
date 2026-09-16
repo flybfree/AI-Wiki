@@ -3,6 +3,8 @@ Saved: 2026-09-15 10:28
 Source: 2026-09-12_05-51-27Z_TrustworthyAgenticAI_AComprehensiveCybersecurityan.md
 Model: None
 
+**Original paper**: [ArXiv](http://arxiv.org/abs/2609.13731v1)
+
 ---
 
 ## Summary
