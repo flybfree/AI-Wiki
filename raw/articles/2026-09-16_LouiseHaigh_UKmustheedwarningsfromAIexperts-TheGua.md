@@ -1,0 +1,86 @@
+---
+title: Louise Haigh: UK must heed warnings from AI experts - The Guardian
+date: 2026-09-16
+url: https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh
+type: article-full-text
+tags: [news, ai-research, full-text]
+source_url: https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh
+source_feed: AI Universe Explorer
+ai_relevance: include
+ai_topic: model-release
+ai_reason: meets AI relevance threshold
+scraped: 2026-09-16 00:26
+---
+
+# Louise Haigh: UK must heed warnings from AI experts - The Guardian
+
+## Full Article
+
+[Louise Haigh, the UK first secretary.]
+Louise Haigh addressed the TUC conference on Tuesday.
+Photograph: Ryan Jenkinson/Getty Images
+View image in fullscreen
+Louise Haigh addressed the TUC conference on Tuesday.
+Photograph: Ryan Jenkinson/Getty Images
+Louise Haigh: UK must heed warnings from AI experts
+First secretary warns of ‘huge risks’ of technology as PM is urged to use next year’s G20 to drive global regulation
+Ministers must “heed the warnings” from industry leaders about the threat posed by AI,
+Louise Haigh
+has said, amid calls for Andy Burnham to use the G20 to drive global regulation.
+The first secretary said that while AI had enormous potential to improve lives, and the government wanted to capitalise on the technology, there were “clearly huge risks to our national security and society if the right guardrails are not put in place”.
+In a speech at the TUC conference on Tuesday, Haigh acknowledged that the public was worried about jobs and their children’s future, after three Anthropic researchers
+warned that artificial intelligence could wipe out humanity
+within the decade.
+Labour MPs and peers stepped up calls for the government to work with international partners to impose regulations on the technology, with Darren Jones, previously Keir Starmer’s chief secretary, calling for Burnham to put international G20 regulation on the agenda when the UK hosts the summit next year.
+Action required collaboration, said Jones, adding: “The thing I would be worried about is if we go into a classic Westminster approach of creating a new regulator and inadvertently kill off the AI ecosystem in this country.”
+Paul Nowak, the general secretary of the
+TUC
+, said AI was a “clear and present danger to workers and wider society”, and urged Burnham to show global leadership. “As G20 president he has an opportunity to work with other countries to drive global regulation and make sure this technology benefits everyone, not just the super-rich,” he said.
+Liam Byrne, the Labour MP who chairs the business committee, has written to Henry de Zoete, the head of the AI Safety Institute (AISI), asking him to testify to parliament after the parliamentary committee for human rights called for a regulatory framework for AI in the UK.
+In his letter, Byrne wrote that there was growing public concern about the risk of “unfettered, inadequately governed artificial intelligence development” and “the adequacy of current AI safety governance”.
+The Guardian has learned that the AI company
+Anthropic
+will not face sanctions after it declined to submit its latest model for testing by the AISI before launching it.
+Over the weekend, the company urged its competitors and governments
+to coordinate a global slowdown in AI development
+. It was
+backed by many of its rivals
+including OpenAI, Google DeepMind and X’s Elon Musk.
+On Monday night, one of the founders of Anthropic, Jack Clark, suggested that an AI “kill switch” held by a third party may need to be mandatory for companies, saying it was something society “might want to eventually pass rules around”.
+One of Anthropic’s biggest rivals and the developer of ChatGPT, OpenAI, has
+urged the government
+to capitalise on renewed fears over AI safety and impose legislation reining in the technology.
+But on Tuesday the US president, Donald Trump,
+called fears about AI a “hoax”
+, and criticised calls to impose guardrails. In a series of social media posts, the US president claimed the only “guardrails” needed for AI was a “strong and smart” president.
+Haigh told trade unions that AI had the potential to “transform our public services, make our businesses stronger and deliver new scientific breakthroughs”. But she added that the government must “heed the warnings of those who are at the forefront of developing this technology” and “be ready to work with international partners” to prioritise public safety and national security.
+Answering questions after the speech she said working people had to be “at the heart of the debate” and the government would work with unions and employers. “Where AI makes work more productive, then benefits should be felt by workers, not just shareholders or tech bros,” she said.
+skip past newsletter promotion
+after newsletter promotion
+The risks of AI were a topic of fierce debate at the gathering of trade union officials in Brighton, where delegates passed a motion urging the government to introduce a national AI plan and called on it to resist influence from “the big tech lobby”.
+Teachers described how AI was already being used in classrooms to record and assess teacher performance. A rep from the Unite union said crane operators were being analysed and used to teach AI models how to automate cranes in the future, while HGV drivers were under constant surveillance. “We have finance and IT workers whose employers see them as a cost to be saved, and AI as the tool to do it,” said Unite’s Pat Dowling. The union’s general secretary, Sharon Graham, said: “Workers and public safety are being completely lost in the AI debate, and they have to be at the heart of it.”
+[Anthropic’s chief executive, Dario Amodei, addresses an AI summit in India.]
+View image in fullscreen
+Anthropic’s chief executive, Dario Amodei, has called on the AI industry to coordinate a slowdown.
+Photograph: Bhawika Chhabra/Reuters
+But the business secretary, Jonathan Reynolds, said people should not get “hyperbolic” about the risks of AI, telling the BBC Radio 4’s Today programme that he did not think it would be particularly helpful to discuss a potential AI “kill switch”.
+AI researchers have continued to add their voices of concern to the debate.
+A researcher at
+OpenAI
+has warned that AI models – the technology that underpins tools such as chatbots – could mislead human overseers into believing they are safe.
+Dan Selsam claimed the models would “likely convince people that everything is fine” and “argue convincingly that humans should trust them with power”.
+Bilal Chughtai, another AI safety researcher who left Google DeepMind this summer, said late on Monday that “AI has the potential to kill us all” and we might be “running out of time to avoid this outcome”.
+Explore more on these topics
+AI (artificial intelligence)
+Technology policy
+Louise Haigh
+Anthropic
+OpenAI
+Labour
+TUC
+news
+Share
+Reuse this content
+
+## Metadata
+- **Source**: [Original Article](https://www.theguardian.com/technology/2026/sep/15/uk-must-heed-warnings-from-ai-experts-minister-louise-haigh)

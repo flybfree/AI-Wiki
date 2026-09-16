@@ -2849,3 +2849,11 @@ tags: ['wiki']
 - [[2026-09-15_IntroducingSystemOneModelsandJev.md]] : Introducing System One Models and Jev
 - [[2026-09-15_Votersmostlydon_tlikeAIanddatacenters_butneitherpa.md]] : Voters mostly don’t like AI and data centers, but neither party seems to have an edge
 - [[2026-09-15_AIanddatacentersareincrediblyunpopularineverypoll.md]] : AI and data centers are incredibly unpopular in every poll
+- [[2026-09-16_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-16_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
+- [[2026-09-16_LouiseHaigh_UKmustheedwarningsfromAIexperts-TheGua.md]] : Louise Haigh: UK must heed warnings from AI experts - The Guardian
+- [[2026-09-16_IntroducingSystemOneModelsandJev.md]] : Introducing System One Models and Jev
+- [[2026-09-16_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
+- [[2026-09-16_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-16_AIanddatacentersareincrediblyunpopularineverypoll.md]] : AI and data centers are incredibly unpopular in every poll
+- [[2026-09-16_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
