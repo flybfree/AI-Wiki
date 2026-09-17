@@ -118,6 +118,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md|Summary: Daily AI Intelligence Briefing — 2026-09-15]] — containment, staged open weights, specialized enterprise reasoning, independent assurance, production agents, and governance
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-17.md|Summary: Daily AI Intelligence Briefing — 2026-09-17]] — containment incidents, staged open weights, compiled task expertise, ambient assistants, CUDA Rust, and AI adoption
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md|Summary: Daily AI Intelligence Briefing — 2026-09-16]] — embedded evaluators, staged open weights, compiled task expertise, modular assistants, and 3 carried-forward research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md|Summary: Daily AI Intelligence Briefing — 2026-09-13]] — containment controls, staged open weights, verified task RL, executable tool-use data, production agents, and reward-hacking mechanisms
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md|Summary: Daily AI Intelligence Briefing — 2026-09-14]] — containment infrastructure, staged release, production agents, and 11 newly approved research papers
@@ -2885,3 +2886,5 @@ tags: ['wiki']
 - [[2026-09-17_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
 - [[2026-09-17_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-17_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md]] : Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
+- [[2026-09-17_NvidiaannouncesnativeGPUprogramminginRust.md]] : Nvidia announces native GPU programming in Rust
+- [[2026-09-17_OneYearofSponsoredServoDevelopment.md]] : One Year of Sponsored Servo Development
