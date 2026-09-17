@@ -61,7 +61,7 @@ The normalized curation result for this final edition is **3 unique kept papers*
 
 ### Efficient structured extraction
 
-- [news-crawler-LM: A Small Long-Context Model For High-Quality News Crawling](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-23_13-05-46Z_news_crawler_LM_ASmallLong_ContextModelForHigh_Qua_summary.md) — A small fine-tuned long-context model improves HTML-to-Markdown by 4.8 BLEU / 6.1 METEOR and HTML-to-JSON by 2.2 BLEU / 4.1 METEOR, while offering only a modest edge over rules for plaintext extraction. **Why it matters:** narrow learned components can replace site-specific rules for structured crawling without requiring a frontier model.
+- [news-crawler-LM: A Small Long-Context Model For High-Quality News Crawling](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-23_13-05-46Z_news_crawler_LM_ASmallLong_ContextModelForH_summary.md) — A small fine-tuned long-context model improves HTML-to-Markdown by 4.8 BLEU / 6.1 METEOR and HTML-to-JSON by 2.2 BLEU / 4.1 METEOR, while offering only a modest edge over rules for plaintext extraction. **Why it matters:** narrow learned components can replace site-specific rules for structured crawling without requiring a frontier model.
 
 ### Multimodal industrial agents
 
