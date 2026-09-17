@@ -2876,3 +2876,12 @@ tags: ['wiki']
 - [[2026-09-16_NvidiaannouncesnativeGPUprogramminginRust.md]] : Nvidia announces native GPU programming in Rust
 - [[2026-09-16_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md]] : Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
 - [[2026-09-16_KeysNotIncluded_recoveringthesigningkeysforUSdrive.md]] : Keys Not Included: recovering the signing keys for US driver's license barcodes
+- [[2026-09-17_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-17_ZifoandAlchemyPartnertoAdvanceAI-EnabledR_DAcrossF.md]] : Zifo and Alchemy Partner to Advance AI -Enabled R&D Across Formulation and Materials Industries
+- [[2026-09-17_The2_5-hourAI-generatedOdysseymovieis2_5hourstoolo.md]] : The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long
+- [[2026-09-17_HelpingolderadultsuseAIineverydaylife.md]] : Helping older adults use AI in everyday life
+- [[2026-09-17_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-17_KeysNotIncluded_recoveringthesigningkeysforUSdrive.md]] : Keys Not Included: recovering the signing keys for US driver's license barcodes
+- [[2026-09-17_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
+- [[2026-09-17_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-17_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md]] : Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
