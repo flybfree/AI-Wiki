@@ -54,7 +54,7 @@ The local review dashboard lets Rich review paper summaries and record `Keep`, `
 # open http://127.0.0.1:8765
 ```
 
-After at least five reviewed decisions, the learned profile ranks the pending review queue so the most relevant candidates appear first. New paper summaries are staged under `pending/papers`; they are not added to the canonical wiki or Logseq until you keep them. Rejecting a paper permanently deletes its staged or curated summary and Logseq mirror after confirmation; raw source captures are retained for provenance.
+After at least five reviewed decisions, the learned profile ranks the pending review queue so the most relevant candidates appear first. Papers that pass the explicit AI-interest gate and score at least `0.85` are automatically promoted to the canonical wiki and Logseq mirror, so important papers are not delayed when the queue is unattended. The threshold is configured in `curation_config.yaml`. Lower-scoring papers remain under `pending/papers` for manual Keep/Reject/Skip review. Automatically kept and manually kept papers are both recorded as `keep` decisions and are eligible for later briefings. Rejecting a paper permanently deletes its staged or curated summary and Logseq mirror after confirmation; raw source captures are retained for provenance.
 
 ## Useful links
 

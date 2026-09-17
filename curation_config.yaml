@@ -1,0 +1,5 @@
+# Unattended paper promotion policy.  The dashboard remains available for
+# manual keep/reject/skip decisions for everything below this threshold.
+auto_keep:
+  enabled: true
+  score_threshold: 0.85

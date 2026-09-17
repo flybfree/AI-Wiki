@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-09-17 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-17.md created from AI-only intake plus direct lab/news sweep; six themes synthesized; containment incidents, staged open weights, task-expertise RL, Retrieve-for-Train, ambient assistants, CUDA Rust, and AI adoption included; Servo, identity-security, and AI-film items excluded; no target-date paper summaries or curation-kept papers available; Logseq mirror created; GitHub publication pending
+## [2026-09-17 13:30] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-17.md refreshed from the complete AI-only intake; seven analytic themes now include late safety/governance coverage and three curation-promoted papers with original arXiv links; malformed fourth paper excluded; Servo, driver-license cryptography, and AI-film review excluded; Logseq mirror pending commit/push
 
 ## [2026-09-17 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md finalized; 0 target-date keeps plus 3 uncovered carry-forward keeps normalized to 3 unique canonical paper links; all 3 summary original-paper URLs verified; Logseq/GitHub/Lumistorm publication verification follows
 
@@ -13731,3 +13731,7 @@ tags: ['wiki']
 ## [2026-09-17 00:49] ingest | 2026-09-17_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md
 ## [2026-09-17 03:26] ingest | 2026-09-17_NvidiaannouncesnativeGPUprogramminginRust.md
 ## [2026-09-17 04:27] ingest | 2026-09-17_OneYearofSponsoredServoDevelopment.md
+## [2026-09-17 08:27] stage-paper | 2026-09-14_05-51-02Z_TranslatingtheTranslator_DecomposingtheCostofEngli.md
+## [2026-09-17 08:27] ingest | 2026-09-17_InsidethesuddenlyexplosiveworldofAIsafety.md
+## [2026-09-17 09:29] ingest | 2026-09-17_MicrosoftAICEOsaysAIthreatsarereal_andAnthropicism.md
+## [2026-09-17 11:24] ingest | 2026-09-17_TheAIDoomsdayScenario_Explained-JackKubinec-TheDis.md

@@ -2888,3 +2888,6 @@ tags: ['wiki']
 - [[2026-09-17_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md]] : Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
 - [[2026-09-17_NvidiaannouncesnativeGPUprogramminginRust.md]] : Nvidia announces native GPU programming in Rust
 - [[2026-09-17_OneYearofSponsoredServoDevelopment.md]] : One Year of Sponsored Servo Development
+- [[2026-09-17_InsidethesuddenlyexplosiveworldofAIsafety.md]] : Inside the suddenly explosive world of AI safety
+- [[2026-09-17_MicrosoftAICEOsaysAIthreatsarereal_andAnthropicism.md]] : Microsoft AI CEO says AI threats are real, and Anthropic is making it worse
+- [[2026-09-17_TheAIDoomsdayScenario_Explained-JackKubinec-TheDis.md]] : The AI Doomsday Scenario: Explained - Jack Kubinec - The Dispatch

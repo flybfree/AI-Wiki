@@ -15,6 +15,8 @@ MIRROR_ROOT = Path("/home/rich/logseq-brain/pages/ai-research")
 STATE_DIR = ROOT / ".curation"
 DB_PATH = STATE_DIR / "review.sqlite3"
 MIN_REVIEW_SCORE = 0.60
+CURATION_CONFIG_PATH = ROOT / "curation_config.yaml"
+DEFAULT_AUTO_KEEP_SCORE = 0.85
 
 # Explicit scope takes precedence over the learned profile.  The profile is
 # useful for ranking papers inside the user's interests, but it should not
@@ -349,6 +351,52 @@ def learning_status() -> dict[str, Any]:
     """Return the minimum information an intake script needs before filtering."""
     value = profile()
     return {"reviewed": value["reviewed"], "active": value["reviewed"] >= 5}
+
+
+def auto_keep_config() -> dict[str, Any]:
+    """Load the score threshold for unattended, high-confidence keeps."""
+    config: dict[str, Any] = {}
+    if CURATION_CONFIG_PATH.is_file():
+        try:
+            import yaml
+            loaded = yaml.safe_load(CURATION_CONFIG_PATH.read_text())
+            if isinstance(loaded, dict):
+                config = loaded
+        except (OSError, TypeError, ValueError):
+            config = {}
+    section = config.get("auto_keep", {})
+    if not isinstance(section, dict):
+        section = {}
+    try:
+        threshold = float(section.get("score_threshold", DEFAULT_AUTO_KEEP_SCORE))
+    except (TypeError, ValueError):
+        threshold = DEFAULT_AUTO_KEEP_SCORE
+    return {
+        "enabled": bool(section.get("enabled", True)),
+        "score_threshold": max(0.0, min(1.0, threshold)),
+    }
+
+
+def auto_keep_summary(path: str) -> dict[str, Any] | None:
+    """Promote a pending summary when it clears the unattended keep gate."""
+    config = auto_keep_config()
+    if not config["enabled"] or not path.startswith("pending/papers/"):
+        return None
+    target = (ROOT / path).resolve()
+    if not target.is_file() or ROOT not in target.parents:
+        return None
+    item = candidate(target)
+    evidence = _interest_evidence(item)
+    score = score_text(evidence["title"], evidence["text"], item["tags"])
+    if not evidence["relevant"] or score < config["score_threshold"]:
+        return None
+    result = record_decision(
+        path,
+        "keep",
+        f"automatic keep: score {score:.3f} >= threshold {config['score_threshold']:.3f}",
+    )
+    result.update({"score": score, "auto_kept": True, "interest": evidence})
+    return result
 
 
 def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -> list[dict[str, Any]]:
