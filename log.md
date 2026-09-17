@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-09-17 13:30] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-17.md refreshed from the complete AI-only intake; seven analytic themes now include late safety/governance coverage and three curation-promoted papers with original arXiv links; malformed fourth paper excluded; Servo, driver-license cryptography, and AI-film review excluded; Logseq mirror pending commit/push
+## [2026-09-17 18:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-17.md refreshed from the complete AI-only intake plus direct lab/news sweep; nine analytic themes include late safety/governance coverage, vertical high-stakes access, and three curation-promoted papers with original arXiv links; malformed fourth paper excluded; Servo, driver-license cryptography, and AI-film review excluded; Logseq mirror synchronized; GitHub commit/push follows
 
 ## [2026-09-17 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md finalized; 0 target-date keeps plus 3 uncovered carry-forward keeps normalized to 3 unique canonical paper links; all 3 summary original-paper URLs verified; Logseq/GitHub/Lumistorm publication verification follows
 
@@ -13736,3 +13736,10 @@ tags: ['wiki']
 ## [2026-09-17 09:29] ingest | 2026-09-17_MicrosoftAICEOsaysAIthreatsarereal_andAnthropicism.md
 ## [2026-09-17 11:24] ingest | 2026-09-17_TheAIDoomsdayScenario_Explained-JackKubinec-TheDis.md
 ## [2026-09-17 12:23] ingest | 2026-09-17_BaseLabslaunchesanopen-weightAIsafetypartnershipwi.md
+## [2026-09-17 13:38] ingest | 2026-09-17_EventhekingofEnglandhashishesitationsaboutAI.md
+## [2026-09-17 15:23] ingest | 2026-09-17_IstheAIsafetydebateaboutsafetyorcontrol_.md
+## [2026-09-17 15:23] ingest | 2026-09-17_ThepeoplebuildingthemostpowerfulAIaretellingustosl.md
+## [2026-09-17 15:23] ingest | 2026-09-17_IntroducingAstraforLaw.md
+## [2026-09-17 16:22] ingest | 2026-09-17_AstraforLaw.md
+## [2026-09-17 16:22] ingest | 2026-09-17_TheAISuperintelligenceSlowdown.md
+## [2026-09-17 16:22] ingest | 2026-09-17_ThefixforrogueAIagentscouldbemoreAI.md

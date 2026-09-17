@@ -2892,3 +2892,10 @@ tags: ['wiki']
 - [[2026-09-17_MicrosoftAICEOsaysAIthreatsarereal_andAnthropicism.md]] : Microsoft AI CEO says AI threats are real, and Anthropic is making it worse
 - [[2026-09-17_TheAIDoomsdayScenario_Explained-JackKubinec-TheDis.md]] : The AI Doomsday Scenario: Explained - Jack Kubinec - The Dispatch
 - [[2026-09-17_BaseLabslaunchesanopen-weightAIsafetypartnershipwi.md]] : Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire
+- [[2026-09-17_EventhekingofEnglandhashishesitationsaboutAI.md]] : Even the king of England has his hesitations about AI
+- [[2026-09-17_IstheAIsafetydebateaboutsafetyorcontrol_.md]] : Is the AI safety debate about safety or control?
+- [[2026-09-17_ThepeoplebuildingthemostpowerfulAIaretellingustosl.md]] : The people building the most powerful AI are telling us to slow down. Congress should listen ...
+- [[2026-09-17_IntroducingAstraforLaw.md]] : Introducing Astra for Law
+- [[2026-09-17_AstraforLaw.md]] : Astra for Law
+- [[2026-09-17_TheAISuperintelligenceSlowdown.md]] : The AI Superintelligence Slowdown
+- [[2026-09-17_ThefixforrogueAIagentscouldbemoreAI.md]] : The fix for rogue AI agents could be more AI
