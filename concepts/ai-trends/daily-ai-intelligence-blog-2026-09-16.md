@@ -9,7 +9,7 @@ tags: [ai-intelligence, daily-briefing, agents, safety, evaluation, open-weights
 
 ## Executive Summary
 
-The September 16 AI-only intake is dominated by a governance question: can frontier labs make independent evaluation real while their models become more autonomous and their products absorb more workflow authority? Anthropic and OpenAI are proposing embedded third-party evaluators, but the collected reporting identifies unresolved questions about checkpoint access, time limits, publication rights, conflicts of interest, and enforcement power. In parallel, Thinking Machines published a staged framework for opening model weights, Anthropic unified Claude chat and Cowork into a routed work surface, and Google Research showed how offline reinforcement learning (RL) can compile expensive search reasoning into a lightweight retriever. The practical direction is consistent with prior days: capability is moving into specialized, composable systems, while trust depends on verifiers, permissions, provenance, and reversible deployment. No new paper was promoted through the curation workflow; [Dream-RSI](https://arxiv.org/abs/2609.14858) was retained as an AI research signal from the intake, not as an accepted wiki paper.
+The September 16 AI-only intake is dominated by a governance question: can frontier labs make independent evaluation real while their models become more autonomous and their products absorb more workflow authority? Anthropic and OpenAI are proposing embedded third-party evaluators, but the collected reporting identifies unresolved questions about checkpoint access, time limits, publication rights, conflicts of interest, and enforcement power. In parallel, Thinking Machines published a staged framework for opening model weights, Anthropic unified Claude chat and Cowork into a routed work surface, and Google Research showed how offline reinforcement learning (RL) can compile expensive search reasoning into a lightweight retriever. The practical direction is consistent with prior days: capability is moving into specialized, composable systems, while trust depends on verifiers, permissions, provenance, and reversible deployment. The complete curation reconciliation found **0 papers approved on September 16** and **3 previously kept papers not covered by an earlier dated briefing**; all three are included below.
 
 ## Key Themes
 
@@ -51,6 +51,22 @@ The intake connects the evaluator proposal to a widening political split. [The G
 
 **Why it matters:** recursive self-improvement is being operationalized as a loop around an agent, not necessarily as a model rewriting itself. The relevant controls are replay-data provenance, evaluator integrity, policy-versioning, rollback, and protection against the system optimizing artifacts of its own simulator. This is an area to watch closely because cheap offline feedback could increase iteration speed without providing a corresponding increase in safety assurance.
 
+## Approved Research Papers
+
+The normalized curation result for this final edition is **3 unique kept papers**: zero approved on September 16 plus three uncovered carry-forward approvals. Each title links to its canonical rendered wiki summary, and each summary contains a visible canonical original-paper URL.
+
+### Retrieval, memory, and evidence restoration
+
+- [Beyond Memory Leaderboards: Evaluating Scientific Memory as Budgeted Context Restoration](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-18_15-09-58Z_BeyondMemoryLeaderboards_EvaluatingScientif_summary.md) — PAIM and PTr show that scientific-memory rankings depend heavily on ingestion protocol, retrieval budget, modality, and judge choice; Graphiti’s apparent lead disappears under a 2.6M-character budget, while sparse-dense hybrids tie for the lead. **Why it matters:** agent memory should be evaluated as budgeted evidence restoration, not as an unconstrained leaderboard.
+
+### Efficient structured extraction
+
+- [news-crawler-LM: A Small Long-Context Model For High-Quality News Crawling](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-23_13-05-46Z_news_crawler_LM_ASmallLong_ContextModelForHigh_Qua_summary.md) — A small fine-tuned long-context model improves HTML-to-Markdown by 4.8 BLEU / 6.1 METEOR and HTML-to-JSON by 2.2 BLEU / 4.1 METEOR, while offering only a modest edge over rules for plaintext extraction. **Why it matters:** narrow learned components can replace site-specific rules for structured crawling without requiring a frontier model.
+
+### Multimodal industrial agents
+
+- [IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model for Industrial CAD](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-30_11-28-21Z_IndustryForge_27B_ADomain_EnhancedMultimoda_summary.md) — A Qwen3.5-VL-27B derivative trained on roughly 52k CAD and COM samples gains 33.65 percentage points across four CAD benchmarks, reportedly beats GPT-5.4 on those tasks, and retains general capability (+1.56 points across eleven benchmarks). **Why it matters:** domain adaptation can create a common multimodal substrate for industrial agents, but the benchmark claims still need independent replication.
+
 ## What Changed Today
 
 - Embedded evaluation moved from a broad principle to a concrete institutional design dispute over checkpoints, logs, access windows, publication, independence, and enforcement.
@@ -59,9 +75,11 @@ The intake connects the evaluator proposal to a widening political split. [The G
 - Google Research and two independent-looking engineering reports reinforced the shift toward compiling verified task expertise into smaller, faster components.
 - Recursive improvement gained a concrete replay-simulator mechanism in Dream-RSI, but the item remains uncurated.
 - The intake contained duplicate Google Quicksort captures and several generic or weakly AI-related items. The duplicate Quicksort pages were excluded; the PS5/Linux leadership story, Google Play review-delay post, and generic R&D partnership were also excluded from the synthesis as noise or insufficiently AI-specific.
-- No new target-date paper was promoted through curation. The arXiv scouts logged 1,800 entries across 14 queries, with coverage through September 15, but collection volume is not equivalent to a keep decision.
+- No paper was approved on the target date. The complete approved-paper backlog reconciliation added three older kept papers that had not appeared in an earlier dated briefing: scientific-memory evaluation, compact long-context news extraction, and multimodal industrial CAD. The arXiv scouts logged 1,800 entries across 14 queries, with coverage through September 15, but collection volume is not equivalent to a keep decision.
 
 ## Why It Matters
+
+The final paper set is **3 unique kept summaries**, and the briefing contains **3 paper links**; the one-to-one summary-to-original-paper chain was verified.
 
 The center of gravity is moving from model capability to governed capability loops. Labs want external scrutiny, but the proposed arrangements remain voluntary and largely dependent on access that the labs control. Product teams are hiding model routing behind simpler interfaces, while researchers are moving difficult search and optimization work into offline training so smaller systems can act quickly. Together these developments make the same operational requirements non-negotiable: explicit authority boundaries, independent evidence, measurable rewards, preserved traces, versioned policies, and tested rollback.
 

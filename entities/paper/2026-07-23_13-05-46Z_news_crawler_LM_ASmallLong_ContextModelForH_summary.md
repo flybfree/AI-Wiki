@@ -29,3 +29,5 @@ This work provides a practical, low‑cost alternative to deploying massive lang
 - BLEU and METEOR evaluation metrics for text quality  
 - Fine‑tuning on limited, human‑validated datasets  
 - Structured output generation (JSON/Markdown)
+
+**Canonical original paper**: [arXiv:2607.21284v1](http://arxiv.org/abs/2607.21284v1)

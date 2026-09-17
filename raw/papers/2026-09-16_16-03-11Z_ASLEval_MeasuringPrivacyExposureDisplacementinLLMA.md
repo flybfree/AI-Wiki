@@ -1,0 +1,18 @@
+---
+title: ASLEval: Measuring Privacy Exposure Displacement in LLM Agent Sessions
+published: 2026-09-16T16:03:11Z
+authors: Guosen Wu, Huizhen Huang, Guoxiong Long, Tao Huang, Chen Hou
+url: http://arxiv.org/abs/2609.18864v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ASLEval: Measuring Privacy Exposure Displacement in LLM Agent Sessions
+
+## Abstract
+Privacy evaluations of tool-using LLM agents often inspect a designated action, final response, or attacker report. These local proxies can miss unauthorized exposure elsewhere in a multi-step session and lack common ground truth across outlets, reports, and tool paths. We introduce privacy exposure displacement, the mismatch between a local evaluation proxy and target-grounded session exposure, and ASLEval, an authorization-aware framework that pre-registers a hidden target set, measures all declared visible exits, and reserves internal traces for diagnosis. Across multiple enterprise-style environments and independently implemented runtimes, we observe three recurring patterns. An expected-outlet-only view misses 46.9% of exposure recovered by the visible-exit union; attacker self-reports combine omissions with high false discovery; and schema-aligned internal evidence usually precedes visible exposure at the request/probe level. Reducing model-visible returns changes this path but can eliminate normal-task success. Independent human review supports the adjudication pipeline while identifying harder console and candidate cases. These findings motivate benchmarks that declare the complete visible boundary, ground claims in pre-specified targets and authorization, and report privacy together with task utility.
+
+## Metadata
+- **Published**: 2026-09-16T16:03:11Z
+- **Authors**: Guosen Wu, Huizhen Huang, Guoxiong Long, Tao Huang, Chen Hou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.18864v1)

@@ -118,7 +118,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md|Summary: Daily AI Intelligence Briefing — 2026-09-15]] — containment, staged open weights, specialized enterprise reasoning, independent assurance, production agents, and governance
-- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md|Summary: Daily AI Intelligence Briefing — 2026-09-16]] — containment, staged open weights, training-time intelligence, typed decisions, modular assistants, and infrastructure politics
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md|Summary: Daily AI Intelligence Briefing — 2026-09-16]] — embedded evaluators, staged open weights, compiled task expertise, modular assistants, and 3 carried-forward research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md|Summary: Daily AI Intelligence Briefing — 2026-09-13]] — containment controls, staged open weights, verified task RL, executable tool-use data, production agents, and reward-hacking mechanisms
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-14.md|Summary: Daily AI Intelligence Briefing — 2026-09-14]] — containment infrastructure, staged release, production agents, and 11 newly approved research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-11.md|Summary: Daily AI Intelligence Briefing — 2026-09-11]] — evaluation defense in depth, staged open weights, verified task RL, tool-use data, workspace agents, and AI infrastructure
@@ -2873,3 +2873,6 @@ tags: ['wiki']
 - [[2026-09-16_The2_5-hourAI-generatedOdysseymovieis2_5hourstoolo.md]] : The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long
 - [[2026-09-16_AnthropicandOpenAIwanttoembedsafetyevaluators_Will.md]] : Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md|Summary: Daily AI Intelligence Briefing — 2026-09-16]] : embedded evaluators, staged open weights, agentic interfaces, compiled expertise, and recursive improvement
+- [[2026-09-16_NvidiaannouncesnativeGPUprogramminginRust.md]] : Nvidia announces native GPU programming in Rust
+- [[2026-09-16_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md]] : Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
+- [[2026-09-16_KeysNotIncluded_recoveringthesigningkeysforUSdrive.md]] : Keys Not Included: recovering the signing keys for US driver's license barcodes

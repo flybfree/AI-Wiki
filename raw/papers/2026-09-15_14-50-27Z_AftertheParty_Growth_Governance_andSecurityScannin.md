@@ -1,0 +1,18 @@
+---
+title: After the Party: Growth, Governance, and Security Scanning in the OpenClaw Agent Skill Ecosystem
+published: 2026-09-15T14:50:27Z
+authors: Yunpeng Xiong, Ting Zhang
+url: http://arxiv.org/abs/2609.17274v2
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# After the Party: Growth, Governance, and Security Scanning in the OpenClaw Agent Skill Ecosystem
+
+## Abstract
+AI agents increasingly act through agent skills, i.e., natural-language instructions, that direct a host agent toward shell, network, credential, file, and process actions, and public registries distribute them at scale. In the first half of 2026, the OpenClaw AI agent went viral, and its public skill registry boomed: the observable stock nearly doubled in 91 days, and a majority of the listings visible in June were created in just two months. By the end of our study window, the wave had crested, and monthly listing creation and core-repository activity were falling from their spring peaks. This paper measures what the boom left behind, drawing on the OpenClaw Git history, its GitHub issues and pull requests, and three ClawHub registry snapshots. Attention is concentrated: the top 10% of skills received 46.93% of all downloads. No simple skill features (like size or download counts) remained a stable predictor of continued listing once creation cohort and skill age were controlled. Human scrutiny did not stay: 77.86% have zero stars and zero comments, while 85.06% of the readable skills carry privilege evidence. And automated cleanup is not ready: the three security scanners disagreed on 23,702 of the 61,990 skills they all cover. After human adjudication, weighted scanner sensitivity against the reference standard ranged from 21.67% to 61.06%. Governing fast-growing agent-skill registries cannot rely on simple metadata or single scanner scores; it requires robust, transparent measurement and independent validation.
+
+## Metadata
+- **Published**: 2026-09-15T14:50:27Z
+- **Authors**: Yunpeng Xiong, Ting Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.17274v2)

@@ -30,3 +30,5 @@ IndustryForge‑27B provides a unified substrate for downstream industrial‑age
 - Parametric CAD code generation (text2cadquery, text2cadquery‑assembly)  
 - Windows COM API integration (com_2d/com_3d/com_assembly)  
 - Catastrophic forgetting mitigation
+
+**Canonical original paper**: [arXiv:2607.28050v1](http://arxiv.org/abs/2607.28050v1)

@@ -28,3 +28,5 @@ By exposing the fragility of leaderboard rankings to protocol variations, this w
 - Budgeted context restoration  
 - Hybrid sparse‑dense retrieval  
 - Benchmarking of LLM agents
+
+**Canonical original paper**: [arXiv:2607.16848v1](http://arxiv.org/abs/2607.16848v1)
