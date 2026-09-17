@@ -13735,3 +13735,4 @@ tags: ['wiki']
 ## [2026-09-17 08:27] ingest | 2026-09-17_InsidethesuddenlyexplosiveworldofAIsafety.md
 ## [2026-09-17 09:29] ingest | 2026-09-17_MicrosoftAICEOsaysAIthreatsarereal_andAnthropicism.md
 ## [2026-09-17 11:24] ingest | 2026-09-17_TheAIDoomsdayScenario_Explained-JackKubinec-TheDis.md
+## [2026-09-17 12:23] ingest | 2026-09-17_BaseLabslaunchesanopen-weightAIsafetypartnershipwi.md

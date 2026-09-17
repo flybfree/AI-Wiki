@@ -2891,3 +2891,4 @@ tags: ['wiki']
 - [[2026-09-17_InsidethesuddenlyexplosiveworldofAIsafety.md]] : Inside the suddenly explosive world of AI safety
 - [[2026-09-17_MicrosoftAICEOsaysAIthreatsarereal_andAnthropicism.md]] : Microsoft AI CEO says AI threats are real, and Anthropic is making it worse
 - [[2026-09-17_TheAIDoomsdayScenario_Explained-JackKubinec-TheDis.md]] : The AI Doomsday Scenario: Explained - Jack Kubinec - The Dispatch
+- [[2026-09-17_BaseLabslaunchesanopen-weightAIsafetypartnershipwi.md]] : Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire
