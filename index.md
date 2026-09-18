@@ -2917,3 +2917,9 @@ tags: ['wiki']
 - [[2026-09-18_AnEmpiricalStudyofHarnessDesignforCodingAgents.md]] : An Empirical Study of Harness Design for Coding Agents
 - [[2026-09-18_DarioAmodeiandotherAIleaderswantto_PacetheFrontier.md]] : Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?
 - [[2026-09-18_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[2026-09-18_AnewkindofAImodelfromaChatGPTinventoristhrillingde.md]] : A new kind of AI model from a ChatGPT inventor is thrilling developers
+- [[2026-09-18_VirginiagovernorcreatesanAItaskforceandmovestorest.md]] : Virginia governor creates an AI task force and moves to restrain data centers
+- [[2026-09-18_CloudflareQuickTunnels.md]] : Cloudflare Quick Tunnels
+- [[2026-09-18_Android17isthefirstsince3_xtoaddnewAPIswithoutrele.md]] : Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
+- [[2026-09-18_ClaudeCodenowreadsAGENTS_mdifthereisnoClaude_md.md]] : Claude Code now reads AGENTS.md if there is no Claude.md
+- [[2026-09-18_Anthropic_sfirstembeddedevaluatoris_Accenture_.md]] : Anthropic’s first embedded evaluator is … Accenture?

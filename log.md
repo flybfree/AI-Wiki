@@ -7,6 +7,8 @@ tags: ['wiki']
 
 ## [2026-09-18] ingest | concepts/frameworks/typesafe-ai-system-one.md added from TypeSafe AI's official documentation; covered System One, Choice/Score/Noul primitives, calibrated confidence, code-controlled composition, Python SDK entry point, and production cautions; Logseq mirror synchronized; existing TypeSafe launch summaries retained as related coverage
 
+## [2026-09-18 18:00] summarize | daily briefing refreshed from late AI-only intake; Anthropic embedded evaluation, Claude Code harness controls, Jev calibrated inference, and Virginia AI/data-center policy added; Android API and Cloudflare tunnel items excluded as generic infrastructure; Logseq mirror synchronized; GitHub commit and push required
+
 ## [2026-09-18 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-18.md created from the complete AI-only intake plus direct lab/news sweep; seven themes synthesized; Anthropic containment and pacing metrics, OpenAI misalignment and infrastructure security, staged open weights, ReViSQL, domain harnesses, and local inference included; no target-date arXiv paper promoted because curation remains incomplete; Logseq mirror synchronized; GitHub commit 2b6ff67b pushed and origin/master verification follows
 
 ## [2026-09-18 00:06] publish | Lumistorm post 198 created at https://lumistorm.net/daily-ai-intelligence-2026-09-17/; REST, cache-busted live page, source-link, published-status, and raw-wiki-syntax checks passed; archive page contains the dated entry
@@ -13833,3 +13835,9 @@ tags: ['wiki']
 ## [2026-09-18 10:25] ingest | 2026-09-18_AnEmpiricalStudyofHarnessDesignforCodingAgents.md
 ## [2026-09-18 12:21] ingest | 2026-09-18_DarioAmodeiandotherAIleaderswantto_PacetheFrontier.md
 ## [2026-09-18 13:22] ingest | 2026-09-18_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md
+## [2026-09-18 14:22] ingest | 2026-09-18_AnewkindofAImodelfromaChatGPTinventoristhrillingde.md
+## [2026-09-18 14:22] ingest | 2026-09-18_VirginiagovernorcreatesanAItaskforceandmovestorest.md
+## [2026-09-18 14:22] ingest | 2026-09-18_CloudflareQuickTunnels.md
+## [2026-09-18 16:23] ingest | 2026-09-18_Android17isthefirstsince3_xtoaddnewAPIswithoutrele.md
+## [2026-09-18 17:21] ingest | 2026-09-18_ClaudeCodenowreadsAGENTS_mdifthereisnoClaude_md.md
+## [2026-09-18 17:21] ingest | 2026-09-18_Anthropic_sfirstembeddedevaluatoris_Accenture_.md
