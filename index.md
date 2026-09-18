@@ -2914,3 +2914,5 @@ tags: ['wiki']
 - [[2026-09-18_OpenJev.md]] : OpenJev
 - [[2026-09-18_ResearchersusedAnthropic_sClaudetohackintoOpenAI.md]] : Researchers used Anthropic’s Claude to hack into OpenAI
 - [[2026-09-18_AnEmpiricalStudyofHarnessDesignforCodingAgents.md]] : An Empirical Study of Harness Design for Coding Agents
+- [[2026-09-18_DarioAmodeiandotherAIleaderswantto_PacetheFrontier.md]] : Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?
+- [[2026-09-18_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics

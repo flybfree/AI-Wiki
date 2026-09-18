@@ -13829,3 +13829,5 @@ tags: ['wiki']
 ## [2026-09-18 05:27] ingest | 2026-09-18_OpenJev.md
 ## [2026-09-18 09:23] ingest | 2026-09-18_ResearchersusedAnthropic_sClaudetohackintoOpenAI.md
 ## [2026-09-18 10:25] ingest | 2026-09-18_AnEmpiricalStudyofHarnessDesignforCodingAgents.md
+## [2026-09-18 12:21] ingest | 2026-09-18_DarioAmodeiandotherAIleaderswantto_PacetheFrontier.md
+## [2026-09-18 13:22] ingest | 2026-09-18_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md
