@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-18 00:06] publish | Lumistorm post 198 created at https://lumistorm.net/daily-ai-intelligence-2026-09-17/; REST, cache-busted live page, source-link, published-status, and raw-wiki-syntax checks passed; archive page contains the dated entry
+
 ## [2026-09-18 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-17.md finalized; complete target-date curation query returned 4 kept papers, all 4 canonical summary paths resolved and repaired with visible original-paper URLs; OpenAI misalignment disclosure added to the AI-only synthesis; Logseq/GitHub/Lumistorm publication verification follows
 
 ## [2026-09-17 18:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-17.md refreshed from the complete AI-only intake plus direct lab/news sweep; nine analytic themes include late safety/governance coverage, vertical high-stakes access, and three curation-promoted papers with original arXiv links; malformed fourth paper excluded; Servo, driver-license cryptography, and AI-film review excluded; Logseq mirror synchronized; GitHub commit 3d8cfed1 pushed; origin/master verification follows
