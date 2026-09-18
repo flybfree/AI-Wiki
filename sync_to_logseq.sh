@@ -47,17 +47,21 @@ WIKI_ROOT_PAGES = [
     "ilya-sutskever-reading-list-study-order.md",
     "wiki-landing-page.md",
     "wiki-topic-index.md",
-    "ai-ml-foundations-landing-page.md",
-    "ai-ml-foundations-syllabus.md",
-    "ai-ml-foundations-course-map.md",
-    "ai-ml-foundations-edit-plan.md",
+    "concepts/ai-foundations/ai-ml-foundations-landing-page.md",
+    "concepts/ai-foundations/ai-ml-foundations-syllabus.md",
+    "concepts/ai-foundations/ai-ml-foundations-course-map.md",
+    "concepts/ai-foundations/ai-ml-foundations-edit-plan.md",
 ]
 
 # Course lesson files (glob pattern, synced separately)
 def get_lesson_files():
-    """Return list of ai-ml-foundations-lesson-*.md files from wiki root."""
+    """Return course lesson paths relative to the wiki root."""
     root = Path("/home/rich/wiki/ai-research")
-    return sorted([f.name for f in root.glob("ai-ml-foundations-lesson-*.md") if f.is_file()])
+    return sorted([
+        str(f.relative_to(root))
+        for f in (root / "concepts" / "ai-foundations").glob("ai-ml-foundations-lesson-*.md")
+        if f.is_file()
+    ])
 
 
 def extract_title(path: Path) -> str:
