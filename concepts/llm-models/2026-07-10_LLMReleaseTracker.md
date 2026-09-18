@@ -27,7 +27,7 @@ This page is designed as an **update-first tracker**:
 
 ## Current Snapshot
 
-**Last reviewed**: 2026-07-10
+**Last reviewed**: 2026-09-17
 
 ### Current release verdict
 
@@ -43,6 +43,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 | **Llama 4 Scout** | Best long-context self-hosting candidate | 10M context, open weights, privacy-friendly deployment |
 | **Kimi K3** | Frontier open-weight pressure test | 1M context, agentic coding focus, huge open-weight scale |
 | **Inkling** | Broad open-weights generalist | Multimodal, customizable, and positioned as a practical foundation model |
+| **IFM K2 Horizon** | Fully open model fleet from edge to enterprise | Six sizes from 0.9B to 375B; weights, code, training data, and methods released together |
 
 ### Current read
 
@@ -50,6 +51,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Speed and cost beat raw headline rank for many teams.** Gemini 3.5 Flash is the standout when latency and throughput matter.
 - **Open-weight models are first-choice candidates now.** DeepSeek V4 Pro and Qwen 3.7 Max are real contenders, not backups.
 - **Open-weight pressure is now split too.** Kimi K3 pushes frontier scale while Inkling pushes broad open-weights customization.
+- **Transparency is becoming a differentiator.** IFM K2 Horizon goes beyond open weights by publishing code, training data, methods, and a coordinated deployment fleet.
 - **Self-hosting is viable for long-context work.** Llama 4 Scout is the clearest privacy or control pick.
 
 ### Open questions / contradictions
@@ -79,6 +81,14 @@ Use one dated block per release wave. If multiple articles land on the same day,
 - **Why it matters**: it splits the market into safe generalists, repo-reasoners, speed-first models, value coding models, and self-hosting picks.
 - **Current take**: GPT-5.5 stays the safest all-around agentic default; Claude Opus 4.7 stays the best for code review; Gemini 3.5 Flash wins on throughput.
 - **Follow-up**: Open-weight models now belong in the main shortlist, not a separate "interesting" bucket.
+
+### 2026-09-03 - IFM K2 Horizon fully open fleet
+
+- **Source**: [IFM K2 Horizon press release](https://ifm.ai/k2/press-release) · [MBZUAI announcement](https://mbzuai.ac.ae/news/mbzuais-institute-of-foundation-models-launches-k2-horizon-the-worlds-largest-fully-open-ai-models-in-history/)
+- **Models**: K2 Horizon 0.9B, 3.7B, 7B, 32B, MoVA 36B-A4B, and 375B-A23B
+- **Why it matters**: IFM released weights, code, training data, methodologies, and deployment tooling across a single fleet, extending open model transparency beyond weights-only releases.
+- **Current take**: The 32B and MoVA 36B-A4B variants belong in the practical local and on-premise shortlist; the 375B flagship is an enterprise-scale open-weight pressure test.
+- **Follow-up**: Verify independent benchmarks, quantized checkpoints, and actual local throughput before ranking K2 Horizon against Qwen, Gemma, or MuseGlimmer.
 
 ### 2026-06-11 - Spring 2026 release wave
 
