@@ -87,7 +87,7 @@ A separate [HacktronAI investigation](https://www.hacktron.ai/blog/hacking-opena
 
 - **Included:** the same-day AI captures covering Anthropic containment, pacing, and embedded evaluation; Thinking Machines’ open-weight and RLVR reports; OpenAI/Cooley’s legal harness; the HacktronAI/TechCrunch OpenAI security investigation; The Verge’s safety synthesis and Virginia infrastructure policy; OpenJev/Jev; Claude Code; and the harness-design paper.
 - **Excluded:** Android 17’s API distribution note and Cloudflare Quick Tunnels were treated as generic software/infrastructure items rather than material AI-intelligence signals. Non-AI and unrelated business material remained outside the brief.
-- **Papers:** the September 18 capture of [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804) was included as a same-day research signal, but was not promoted through the separate paper-curation workflow. The latest scout pass saw 2,150 entries and 545 high-priority candidates; do not treat the scout ranking as a curated paper list.
+- **Papers:** the September 18 capture of [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804) was included as a same-day research signal, but was not promoted through the separate paper-curation workflow. The latest scout pass saw 1,800 entries and 496 high-priority candidates; do not treat the scout ranking as a curated paper list.
 - **Evidence caution:** company announcements, participant case studies, and search coverage are signals, not independent validation. OpenAI incident details and Anthropic’s operational report warrant follow-up because they include concrete mechanisms and remediation claims.
 
 ## Why It Matters
