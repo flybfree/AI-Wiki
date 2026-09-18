@@ -45,13 +45,19 @@ A separate [HacktronAI investigation](https://www.hacktron.ai/blog/hacking-opena
 
 **Why it matters:** the direction is capability compilation: spend optimization effort during training, then deploy a bounded specialist instead of paying for long chains of schema linking, generation, repair, and voting at runtime. The claim is vendor/researcher-reported and benchmark-specific. Replication on changed schemas, noisy databases, adversarial rewards, and out-of-distribution enterprise data is necessary before generalizing it to enterprise analytics.
 
-### 6. Domain harnesses are becoming the practical unit of professional AI adoption
+### 6. Harness design is becoming a measurable engineering discipline
+
+[An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804) evaluates 176 matched configurations across four models on SWE-Bench Verified and Terminal-Bench 2.1, varying planning, action space, context management, and context budgets. The study finds that rule-based elision followed by model summarization is the most efficient context strategy; recoverable elision adds complexity without an accuracy gain. Planning helps weaker models’ accuracy but mainly saves cost for stronger models, while predefined tools help models with weaker shell skills and bash-only interfaces can be cheaper for capable models.
+
+**Why it matters:** this is useful evidence for model-aware harness design rather than a one-size-fits-all agent stack. It supports simplifying the outer loop when the model is strong and spending engineering effort where the actual bottleneck is—context overflow, tool friction, or cost. The results are benchmark-specific and need replication on production repositories, but they strengthen the case for evaluating harness components separately.
+
+### 7. Domain harnesses are becoming the practical unit of professional AI adoption
 
 [OpenAI’s account of Cooley’s GO Public](https://openai.com/index/cooley-gopublic) describes a proprietary IPO workflow built on ChatGPT Work. Its agentic harness gathers client information, public sources, and curated precedents, then specifies which steps agents may perform automatically and where lawyers must review or validate the result. Cooley says it advised on 180 deals totaling more than $51.5 billion in 2025, but the relevant signal is not scale alone: firm-specific “baked-in know-how” is encoded into a workflow that aims for “speed to quality,” not merely faster document production.
 
 **Why it matters:** the competitive layer is moving above the base model. High-value deployments need domain data, controlled sequencing, human checkpoints, and professional accountability. This is a strong pattern for enterprise agents, but the source is a customer case study; independent measures of error, review load, confidentiality, and time saved are still absent.
 
-### 7. Local inference is becoming an observable privacy and efficiency surface
+### 8. Local inference is becoming an observable privacy and efficiency surface
 
 [OpenJev](https://openjev.com/) is a browser-only experiment that runs quantized models locally through `wllama` and compares direct probability readout with token-by-token JSON generation. The site reports model tiers from Qwen3 0.6B through Qwen3.5 4B, with weights cached in the browser and inputs kept on-device. Its comparison makes a useful systems distinction: reading logits over allowed options avoids decoding, while generating structured probabilities incurs tokenization and decoding cost.
 
@@ -65,14 +71,15 @@ A separate [HacktronAI investigation](https://www.hacktron.ai/blog/hacking-opena
 - OpenAI infrastructure security received a concrete third-party case involving `libheif`, Discourse, SSO, and connected developer tools.
 - Open-weight safety gained a staged-release framework centered on ecosystem readiness, not only model refusals.
 - ReViSQL strengthened the trend toward compiling task expertise into models rather than expanding runtime scaffolds.
+- Harness research added component-level evidence for model- and budget-aware agent design.
 - Enterprise adoption showed the domain harness—not the chatbot—as the deployable unit of professional value.
 - Local browser inference supplied a practical counterweight to cloud-only deployment.
 
 ## Research Intake and Classification
 
-- **Included:** all eight same-day AI captures: Anthropic containment and pacing, Thinking Machines’ open-weight and RLVR reports, OpenAI/Cooley’s legal harness, HacktronAI’s OpenAI security investigation, The Verge’s safety synthesis, and OpenJev.
+- **Included:** all ten same-day AI captures: Anthropic containment and pacing, Thinking Machines’ open-weight and RLVR reports, OpenAI/Cooley’s legal harness, the HacktronAI/TechCrunch OpenAI security investigation, The Verge’s safety synthesis, OpenJev, and the harness-design paper.
 - **Excluded:** no same-day non-AI items entered the corpus. Generic infrastructure, hobby, and unrelated business material were kept out of this brief.
-- **Papers:** no newly generated target-date arXiv paper was promoted. The latest scout pass saw 2,150 entries and 545 high-priority candidates, but the local coverage ends at September 17 UTC and candidate selection was not completed. Do not treat the scout ranking as a curated paper list.
+- **Papers:** the September 18 capture of [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804) was included as a same-day research signal, but was not promoted through the separate paper-curation workflow. The latest scout pass saw 2,150 entries and 545 high-priority candidates; do not treat the scout ranking as a curated paper list.
 - **Evidence caution:** company announcements, participant case studies, and search coverage are signals, not independent validation. OpenAI incident details and Anthropic’s operational report warrant follow-up because they include concrete mechanisms and remediation claims.
 
 ## Why It Matters
@@ -87,9 +94,10 @@ The day’s common mechanism is governed capability: isolate the environment bef
 4. Discourse and OpenAI remediation for the `libheif`/SSO chain, including connector and identity-boundary audits.
 5. Thinking Machines’ detailed open-weight criteria, stop conditions, and ecosystem-readiness measures.
 6. Independent ReViSQL results on unseen enterprise schemas, noisy labels, and changed databases.
-7. Whether Cooley’s GO Public publishes measurable quality, review-time, confidentiality, and error outcomes.
-8. OpenJev-style local inference benchmarks across devices, quantization levels, and privacy-sensitive workflows.
-9. Complete curation of the September 18 arXiv candidate set before carrying any papers into the next briefing.
+7. Replication of the harness study on production repositories and across model/tool combinations.
+8. Whether Cooley’s GO Public publishes measurable quality, review-time, confidentiality, and error outcomes.
+9. OpenJev-style local inference benchmarks across devices, quantization levels, and privacy-sensitive workflows.
+10. Complete curation of the September 18 arXiv candidate set before carrying any papers into the next briefing.
 
 ## Sources / References
 
@@ -103,6 +111,7 @@ The day’s common mechanism is governed capability: isolate the environment bef
 - [Thinking Machines — A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/)
 - [Thinking Machines — Putting Task Expertise into RL](https://thinkingmachines.ai/news/putting-task-expertise-into-rl/)
 - [ReViSQL repository](https://github.com/uiuc-kang-lab/ReViSQL)
+- [arXiv — An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804)
 - [The Verge — The AI Superintelligence Slowdown](https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic)
 - [OpenAI — How Cooley is accelerating IPO work with ChatGPT](https://openai.com/index/cooley-gopublic)
 - [OpenJev](https://openjev.com/)

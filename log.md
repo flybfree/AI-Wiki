@@ -13827,3 +13827,5 @@ tags: ['wiki']
 ## [2026-09-18 00:28] ingest | 2026-09-18_TheAISuperintelligenceSlowdown.md
 ## [2026-09-18 00:28] ingest | 2026-09-18_HackingOpenAI.md
 ## [2026-09-18 05:27] ingest | 2026-09-18_OpenJev.md
+## [2026-09-18 09:23] ingest | 2026-09-18_ResearchersusedAnthropic_sClaudetohackintoOpenAI.md
+## [2026-09-18 10:25] ingest | 2026-09-18_AnEmpiricalStudyofHarnessDesignforCodingAgents.md

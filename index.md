@@ -2912,3 +2912,5 @@ tags: ['wiki']
 - [[2026-09-18_TheAISuperintelligenceSlowdown.md]] : The AI Superintelligence Slowdown
 - [[2026-09-18_HackingOpenAI.md]] : Hacking OpenAI
 - [[2026-09-18_OpenJev.md]] : OpenJev
+- [[2026-09-18_ResearchersusedAnthropic_sClaudetohackintoOpenAI.md]] : Researchers used Anthropic’s Claude to hack into OpenAI
+- [[2026-09-18_AnEmpiricalStudyofHarnessDesignforCodingAgents.md]] : An Empirical Study of Harness Design for Coding Agents
