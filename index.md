@@ -111,6 +111,7 @@ tags: ['wiki']
 
 ### Training, Fine-Tuning & Local Model Tooling
 - [[concepts/frameworks/unsloth.md|Summary: Unsloth]] — local model running, efficient fine-tuning, export, deployment, and agent integration
+- [[concepts/frameworks/typesafe-ai-system-one.md|TypeSafe AI: System One Decision Models]] — typed AI primitives, parallel questions, calibrated confidence, and code-controlled workflows
 
 ### AI Industry Trends
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
