@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-17
+> Last updated: 2026-09-18
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -118,6 +118,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md|Summary: Daily AI Intelligence Briefing — 2026-09-15]] — containment, staged open weights, specialized enterprise reasoning, independent assurance, production agents, and governance
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-18.md|Summary: Daily AI Intelligence Briefing — 2026-09-18]] — evaluation containment, pacing metrics, misalignment disclosure, staged open weights, verified task expertise, domain harnesses, and local inference
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-17.md|Summary: Daily AI Intelligence Briefing — 2026-09-17]] — containment incidents, staged open weights, compiled task expertise, ambient assistants, CUDA Rust, and AI adoption
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md|Summary: Daily AI Intelligence Briefing — 2026-09-16]] — embedded evaluators, staged open weights, compiled task expertise, modular assistants, and 3 carried-forward research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-13.md|Summary: Daily AI Intelligence Briefing — 2026-09-13]] — containment controls, staged open weights, verified task RL, executable tool-use data, production agents, and reward-hacking mechanisms
@@ -2910,3 +2911,4 @@ tags: ['wiki']
 - [[2026-09-18_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-18_TheAISuperintelligenceSlowdown.md]] : The AI Superintelligence Slowdown
 - [[2026-09-18_HackingOpenAI.md]] : Hacking OpenAI
+- [[2026-09-18_OpenJev.md]] : OpenJev
