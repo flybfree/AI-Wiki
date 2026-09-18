@@ -13743,3 +13743,4 @@ tags: ['wiki']
 ## [2026-09-17 16:22] ingest | 2026-09-17_AstraforLaw.md
 ## [2026-09-17 16:22] ingest | 2026-09-17_TheAISuperintelligenceSlowdown.md
 ## [2026-09-17 16:22] ingest | 2026-09-17_ThefixforrogueAIagentscouldbemoreAI.md
+## [2026-09-17 18:24] ingest | 2026-09-17_GoogleDeepMindlaunchesinstitutetowidentheAGIdebate.md

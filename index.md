@@ -2899,3 +2899,4 @@ tags: ['wiki']
 - [[2026-09-17_AstraforLaw.md]] : Astra for Law
 - [[2026-09-17_TheAISuperintelligenceSlowdown.md]] : The AI Superintelligence Slowdown
 - [[2026-09-17_ThefixforrogueAIagentscouldbemoreAI.md]] : The fix for rogue AI agents could be more AI
+- [[2026-09-17_GoogleDeepMindlaunchesinstitutetowidentheAGIdebate.md]] : Google DeepMind launches institute to widen the AGI debate
