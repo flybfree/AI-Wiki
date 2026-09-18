@@ -1,0 +1,18 @@
+---
+title: Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape
+published: 2026-09-17T15:59:45Z
+authors: Sarah Radway, Andrew Cheng, Vijay Janapa Reddi, James Mickens
+url: http://arxiv.org/abs/2609.20614v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Inference-Engine Fingerprinting Attacks are Practical: Exploring Model-Driven Environmental Discovery, Exploitation, and Escape
+
+## Abstract
+Frontier AI models are rapidly gaining the ability to exploit vulnerabilities in complex pieces of software. The risk is not theoretical, as evidenced by recent sandbox escapes performed by frontier models at OpenAI and Anthropic. Discussions of how to sandbox inference stack components often focus on components other than the inference engine itself (e.g., network proxies or code execution environments). However, the inference engine is an attractive target for a misaligned model. For example, if a model can trigger exploits in that engine merely by generating specially-crafted output tokens, the model can initiate a multi-step, to-the-bare-metal exploit chain in the engine, without relying on vulnerabilities in other components of the inference stack, and without assistance from externally-provided, maliciously-crafted input tokens.   In this paper, we show that a misaligned model can perform inference engine fingerprinting to determine the specific engine (e.g., vLLM, SGLang) which executes the model. Once the engine has been fingerprinted, the model can leverage engine-specific exploits to take control of the engine using only carefully-selected output tokens. We provide concrete examples of model fingerprints in five popular engines, and demonstrate how realistic agentic harnesses allow a model to leverage those fingerprints to identify the local engine. We also describe a proof-of-concept, to-the-bare-metal exploit chain that originates from a fingerprinted (and subsequently compromised) inference engine. We conclude by discussing several ways that inference engines could be changed to make fingerprinting attacks more difficult.
+
+## Metadata
+- **Published**: 2026-09-17T15:59:45Z
+- **Authors**: Sarah Radway, Andrew Cheng, Vijay Janapa Reddi, James Mickens
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.20614v1)

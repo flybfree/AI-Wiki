@@ -1,6 +1,7 @@
 # Summary: 2026-09-14_14-50-05Z_CoachingQwen3Coder30BtoThinkLikeaCodeClashArenaAge.md
 Saved: 2026-09-15 20:35
 Source: 2026-09-14_14-50-05Z_CoachingQwen3Coder30BtoThinkLikeaCodeClashArenaAge.md
+Canonical original paper: [http://arxiv.org/abs/2609.16096v1](http://arxiv.org/abs/2609.16096v1)
 Model: None
 
 ---

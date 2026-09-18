@@ -1,0 +1,18 @@
+---
+title: MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents
+published: 2026-09-17T12:44:03Z
+authors: Pritish Mishra, Ishaan Kumar, Akshat Mandoli, Sudarshan Kamath
+url: http://arxiv.org/abs/2609.20152v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MTVA-Bench: Evaluating the Language Model Inside Cascaded Voice Agents
+
+## Abstract
+Generally, most voice agents are cascaded systems, i.e., an ASR model transcribes the caller's audio, a language model reads the transcript and decides what to say and which backend tools to call, and a TTS model speaks the reply. Nearly all of the decision making happens in the language model, but existing evaluations measure it either too broadly or too narrowly. End-to-end voice benchmarks score the full pipeline, so recognition errors and model errors mix into a single number. LLM benchmarks isolate the model but they do not evaluate what makes real phone calls hard, such as transcription issues, caller's voice being split across messages and the requirement that replies follow the language and script specified. We introduce the Multi-Turn Voice Agent Benchmark (MTVA-Bench), which evaluates the language model on the same conditions it faces inside a cascaded system. The caller is played by an LLM following a set of rubrics and tool calls are answered by a mock backend which responds to the arguments the model actually sent. The benchmark contains 49 agents working across 490 reviewed scenarios and supports 7 languages. Scoring is a combination of deterministic checks on tool calls with two LLM judges, one that scores scenario specific rules and one that grades conversation quality without access to the task. Both judges must cite specific messages from the transcript. Task and conversation scores are weighted equally, since a call can complete its task and still go badly for the caller. In a seven-model study, six of the models select the correct tool within 6.4 points of one another, but their overall scores span 24.4 points. Most of the gap comes from argument values, action ordering, rule compliance, and what the model says around its tool calls.
+
+## Metadata
+- **Published**: 2026-09-17T12:44:03Z
+- **Authors**: Pritish Mishra, Ishaan Kumar, Akshat Mandoli, Sudarshan Kamath
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.20152v1)

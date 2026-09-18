@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-18 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-17.md finalized; complete target-date curation query returned 4 kept papers, all 4 canonical summary paths resolved and repaired with visible original-paper URLs; OpenAI misalignment disclosure added to the AI-only synthesis; Logseq/GitHub/Lumistorm publication verification follows
+
 ## [2026-09-17 18:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-17.md refreshed from the complete AI-only intake plus direct lab/news sweep; nine analytic themes include late safety/governance coverage, vertical high-stakes access, and three curation-promoted papers with original arXiv links; malformed fourth paper excluded; Servo, driver-license cryptography, and AI-film review excluded; Logseq mirror synchronized; GitHub commit 3d8cfed1 pushed; origin/master verification follows
 
 ## [2026-09-17 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md finalized; 0 target-date keeps plus 3 uncovered carry-forward keeps normalized to 3 unique canonical paper links; all 3 summary original-paper URLs verified; Logseq/GitHub/Lumistorm publication verification follows
@@ -13744,3 +13746,72 @@ tags: ['wiki']
 ## [2026-09-17 16:22] ingest | 2026-09-17_TheAISuperintelligenceSlowdown.md
 ## [2026-09-17 16:22] ingest | 2026-09-17_ThefixforrogueAIagentscouldbemoreAI.md
 ## [2026-09-17 18:24] ingest | 2026-09-17_GoogleDeepMindlaunchesinstitutetowidentheAGIdebate.md
+## [2026-09-17 19:24] ingest | 2026-09-17_HowCooleyisacceleratingIPOworkwithChatGPT.md
+## [2026-09-17 20:23] stage-paper | 2026-09-17_04-25-17Z_FINSKILLOPS_ASelf_EvolvingMulti_AgentSystemforSECF.md
+## [2026-09-17 20:23] stage-paper | 2026-09-17_07-32-54Z_F___2__DR_AFine_GrainedFull_PipelineRewardFramewor.md
+## [2026-09-17 20:23] stage-paper | 2026-09-17_02-42-02Z_DeltaSelect_AffordableA_BTestingforCodingAgents.md
+## [2026-09-17 20:23] stage-paper | 2026-09-16_19-01-15Z_Afrontend_backendarchitecturefortoolcallsinfull_du.md
+## [2026-09-17 20:23] stage-paper | 2026-09-17_02-14-53Z_Red_TeamingAutoMode_ImprovingBlockingClassifiersAg.md
+## [2026-09-17 20:23] stage-paper | 2026-09-17_00-04-09Z_QVACGenesisIII_ALarge_Scale_High_QualityOpenSynthe.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_11-55-29Z_AScalableTrustDiscoveryArchitecturefortheInterneto.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_08-32-12Z_EvaluatingCommunicativeSuccessinMachine_Translated.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_20-15-36Z_MAGS_Multi_agentAuto_formalizationGuaranteesSafety.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_03-56-03Z_Self_EvolvingSearchIndex.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_03-08-26Z_DataCanvas_EDU_AnAgenticFrameworkforInstructor_Gui.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_17-52-08Z_RetireOPD_Self_RetiringOn_PolicyDistillationforAge.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_14-40-22Z_PAPC_PlatformMediationforPrivacy_PropagationExtern.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_03-27-53Z_ReachorSolve_AttributingAgenticRLGainswithCheckpoi.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_15-57-10Z_WhatDoesPrivilegedInformationAddtoOn_PolicySelf_Di.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_17-56-32Z_CharacterizingWebSearchbyConversationalLLMAgents_F.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_15-59-45Z_Inference_EngineFingerprintingAttacksarePractical_.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_03-56-20Z_PrefixBench_H100_CharacterizingPrefixReuseandTime_.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_11-37-03Z_AProposalforanAgenticAIArchitecturetoSupportMulti_.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_14-58-29Z_SoL_Pi_RecursivelyScalingAuto_ResearchLoopsforEffi.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_04-59-08Z_SoK_TradingAgentsorMarketCrashers_DissectingRobust.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_14-36-23Z_Edustories_ACollectionofReal_worldCaseStudiesfromC.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_00-15-24Z_AnArchitectureforLong_HorizonAgents_Levels_Ticksan.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_02-43-54Z_SIMLIFE_PatternUnderstandingforLong_HorizonHuman_A.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_13-54-19Z_Xeno_Interpretability_InvestigatingtheAlienMindsof.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_03-37-42Z_ScientistTwo_PioneeringtheHumanKnowledgeFrontierwi.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_09-58-14Z_BenchmarkingLLMCompliancewithChinaAIGeneratedConte.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_08-29-17Z_D_Quant_DriftableEntropyCodingforKVCacheQuantizati.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_01-24-23Z_FromParameterstoBehaviors_ASurveyofModelFusionforL.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_23-41-25Z_ForYourEyesOnly_EvaluatingCoordinationBetweenIsola.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_09-26-32Z_Position_ItisTimetoVirtualizeFoundationModelswitha.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_16-49-06Z_RISC_Vandmachinelearning_asurvey.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_07-12-42Z_EvolutionorIllusion_RethinkingEvaluationinLLMEvolu.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_06-29-12Z_RethinkingMulti_AgentCollaboration_WhenMoreIsLess.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_11-35-06Z_Tailoredtoyou_longitudinaleffectsofpersonalisingla.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_08-37-43Z_Code_as_Auditor_ExecutableComplianceReasoningviaRe.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_20-10-28Z_DoAIAgentsUnderstandComputerArchitecture.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_08-38-27Z_ClashBench_ConflictsLeadingAgentstoSeizeandHarm.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_09-31-24Z_Neuro_SymbolicAgenticAIforNetworkedLow_AltitudeUAV.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_17-41-31Z_RAFT_AStatefulRetrieval_AugmentedFrameworkforTroub.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_09-20-53Z_NotAllAIAgentsAreEqual_CharacterizingResourceandPe.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_08-31-18Z_PetriBench_BenchmarkingLLMReasoningoverDynamicStat.md
+## [2026-09-17 21:50] stage-paper | 2026-09-15_13-43-16Z_WhatDoWeExpectfromLLMs_MappingtheDesignofLLMBenchm.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_17-58-07Z_AnEmpiricalStudyofHarnessDesignforCodingAgents.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_14-30-14Z_HowDoAgentHarnessesCreateValue_PlanningInformation.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_21-02-31Z_Closed_WorldResolutionAgainstToolHallucinationinLL.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_08-44-36Z_TRACE_AccountableAgenticRetrievalforSourceDiscover.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_20-52-17Z_FromRollouttoReset_AGraph_BasedHarnessforAutonomou.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_16-09-57Z_Chronicle_Cut_PointReplayforRegressionTestingofLLM.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_06-45-55Z_LearnBeforeYouJudge_ProgressiveKnowledge_to_Decisi.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_22-25-48Z_SafetyBeyondtheInterface_DetectingHarmviaLatentSta.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_03-20-22Z_FromIntenttoAction_BenchmarkingLLMSafetyinVehicleV.md
+## [2026-09-17 21:50] stage-paper | 2026-09-16_19-40-50Z_TheRoleofFine_grainedHarmSignalsinLLMSafety.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_12-35-04Z_DesigningAgainstDeskilling_MetacognitiveFeedbackRe.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_07-36-34Z_ReproducingTransparentandScrutableRecommendations_.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_09-43-10Z_DeepSeek_V4_1_Flash_PushingtheLimitsofKVCacheCompr.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_00-29-46Z_EconSkills_StudyingSkillTransferandRetrievalforWeb.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_12-44-03Z_MTVA_Bench_EvaluatingtheLanguageModelInsideCascade.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_09-38-22Z_BeforetheArrest_BenchmarkingLLMsonCriminalProfilin.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_05-27-59Z_ALIBI_AdversarialLegitimacyInjectioninBinaryInputa.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_17-49-28Z_HarmLaunderinginGPTModels_EvidenceThatGenderDiscri.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_01-23-43Z_ContinualEnterpriseWorldModelDiscoveryinDynamicSys.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_07-54-15Z_ADual_ProcessPerspectiveonNudgeSusceptibilityinLLM.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_17-59-04Z_QuantifyingOverclaimingPropensityinFrontierLLMAgen.md
+## [2026-09-17 21:50] stage-paper | 2026-09-17_00-31-16Z_AUnifiedEvaluationFrameworkforTrustworthyLargeLang.md
+## [2026-09-17 22:32] stage-paper | 2026-09-17_17-39-46Z_dQwen3_5_Hybrid_AttentionDiffusionLanguageModels.md
+## [2026-09-17 22:32] ingest | 2026-09-17_Anthropicdetailspracticalmetricstohelpmonitorthesp.md
+## [2026-09-17 23:28] ingest | 2026-09-17_HackingOpenAI.md

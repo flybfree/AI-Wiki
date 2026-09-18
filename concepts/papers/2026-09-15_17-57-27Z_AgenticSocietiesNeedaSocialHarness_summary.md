@@ -1,6 +1,7 @@
 # Summary: 2026-09-15_17-57-27Z_AgenticSocietiesNeedaSocialHarness.md
 Saved: 2026-09-15 21:33
 Source: 2026-09-15_17-57-27Z_AgenticSocietiesNeedaSocialHarness.md
+Canonical original paper: [http://arxiv.org/abs/2609.17527v1](http://arxiv.org/abs/2609.17527v1)
 Model: None
 
 ---

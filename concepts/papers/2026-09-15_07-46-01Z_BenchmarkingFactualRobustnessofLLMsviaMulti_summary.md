@@ -1,6 +1,7 @@
 # Summary: 2026-09-15_07-46-01Z_BenchmarkingFactualRobustnessofLLMsviaMulti_conver.md
 Saved: 2026-09-15 20:38
 Source: 2026-09-15_07-46-01Z_BenchmarkingFactualRobustnessofLLMsviaMulti_conver.md
+Canonical original paper: [http://arxiv.org/abs/2609.16777v1](http://arxiv.org/abs/2609.16777v1)
 Model: None
 
 ---

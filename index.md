@@ -2900,3 +2900,6 @@ tags: ['wiki']
 - [[2026-09-17_TheAISuperintelligenceSlowdown.md]] : The AI Superintelligence Slowdown
 - [[2026-09-17_ThefixforrogueAIagentscouldbemoreAI.md]] : The fix for rogue AI agents could be more AI
 - [[2026-09-17_GoogleDeepMindlaunchesinstitutetowidentheAGIdebate.md]] : Google DeepMind launches institute to widen the AGI debate
+- [[2026-09-17_HowCooleyisacceleratingIPOworkwithChatGPT.md]] : How Cooley is accelerating IPO work with ChatGPT
+- [[2026-09-17_Anthropicdetailspracticalmetricstohelpmonitorthesp.md]] : Anthropic details practical metrics to help monitor the speed of AI development
+- [[2026-09-17_HackingOpenAI.md]] : Hacking OpenAI

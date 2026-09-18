@@ -1,0 +1,18 @@
+---
+title: Edustories: A Collection of Real-world Case Studies from Classroom Practices
+published: 2026-09-17T14:36:23Z
+authors: Michal Štefánik, Jan Nehyba, Jirina Karasova, Martin Fico, Lucie Škarková, Markéta Košatková, David Kosatka
+url: http://arxiv.org/abs/2609.20484v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Edustories: A Collection of Real-world Case Studies from Classroom Practices
+
+## Abstract
+Despite the widely recognized potential of AI in education, most prior work has focused on individualized student assistance. In contrast, the majority of educational practice worldwide still takes place in collective classroom settings. To enable researchers to study AI assistance in collective teaching, we introduce Edustories, a dataset of 1,492 teacher-written case studies describing real elementary and high-school classroom situations involving challenging student behavior, pedagogical interventions, and their outcomes. Among many other applications, Edustories enables evaluating LLMs' ability to predict the success of teacher interventions, crucial for providing practicing teachers with useful feedback. Comparing the latest models from four language-model families against expert assessments, we find that current models fall short of human expertise in predicting classroom outcomes; the strongest models reach 58% accuracy compared to 64% of human experts. This gap highlights both the limitations and the emerging potential of AI as assistants for practicing teachers.
+
+## Metadata
+- **Published**: 2026-09-17T14:36:23Z
+- **Authors**: Michal Štefánik, Jan Nehyba, Jirina Karasova, Martin Fico, Lucie Škarková, Markéta Košatková, David Kosatka
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.20484v1)
