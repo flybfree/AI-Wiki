@@ -2934,3 +2934,7 @@ tags: ['wiki']
 - [[2026-09-19_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
 - [[2026-09-19_Humanbrainistwoseparateorgans_StanfordMedicine-led.md]] : Human brain is two separate organs, Stanford Medicine-led research finds
 - [[2026-09-19_MyAIassistantisdeeplyannoying_andthat_stheleastofi.md]] : My AI assistant is deeply annoying — and that's the least of it - The Washington Post
+- [[2026-09-19_LayatheopensourceversionofJev.md]] : Laya the open source version of Jev
+- [[2026-09-19_Vals_backedbyAndreessenHorowitz_islookingtobecomet.md]] : Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking
+- [[2026-09-19_AIsafetyconversationshavegottenunbelievable.md]] : AI safety conversations have gotten unbelievable
+- [[2026-09-19_Geminiwentrogue_hackedthreecompanies_andGooglehidi.md]] : Gemini went rogue, hacked three companies, and Google hid it
