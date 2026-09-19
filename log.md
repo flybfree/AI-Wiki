@@ -13863,3 +13863,5 @@ tags: ['wiki']
 ## [2026-09-19 10:14] ingest | 2026-09-19_AIsafetyconversationshavegottenunbelievable.md
 ## [2026-09-19 11:17] ingest | 2026-09-19_Geminiwentrogue_hackedthreecompanies_andGooglehidi.md
 ## [2026-09-19 13:17] ingest | 2026-09-19_IBuiltNon-AutoregressiveDecisionModelswithRLaYearA.md
+## [2026-09-19 14:17] ingest | 2026-09-19_Ibuiltnon-autoregressivedecisionmodelswithRLayeara.md
+## [2026-09-19 15:17] ingest | 2026-09-19_TrumpsuggestsrebrandingAIwithanewname_sayshe_salso.md

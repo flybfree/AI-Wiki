@@ -2939,3 +2939,5 @@ tags: ['wiki']
 - [[2026-09-19_AIsafetyconversationshavegottenunbelievable.md]] : AI safety conversations have gotten unbelievable
 - [[2026-09-19_Geminiwentrogue_hackedthreecompanies_andGooglehidi.md]] : Gemini went rogue, hacked three companies, and Google hid it
 - [[2026-09-19_IBuiltNon-AutoregressiveDecisionModelswithRLaYearA.md]] : I Built Non-Autoregressive Decision Models with RL a Year Ago
+- [[2026-09-19_Ibuiltnon-autoregressivedecisionmodelswithRLayeara.md]] : I built non-autoregressive decision models with RL a year ago
+- [[2026-09-19_TrumpsuggestsrebrandingAIwithanewname_sayshe_salso.md]] : Trump suggests rebranding AI with a new name, says he’s also creating an AI Force
