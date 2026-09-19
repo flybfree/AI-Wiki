@@ -2925,3 +2925,9 @@ tags: ['wiki']
 - [[2026-09-18_Anthropic_sfirstembeddedevaluatoris_Accenture_.md]] : Anthropic’s first embedded evaluator is … Accenture?
 - [[2026-09-18_Anthropicisoperatingalabthatconductsbiologyexperim.md]] : Anthropic is operating a lab that conducts biology experiments
 - [[2026-09-18_MyAIassistantisdeeplyannoying_andthat_stheleastofi.md]] : My AI assistant is deeply annoying — and that's the least of it - The Washington Post
+- [[2026-09-19_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-19_SanFranciscoOnionFuturesCompany.md]] : San Francisco Onion Futures Company
+- [[2026-09-19_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-19_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-19_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
+- [[2026-09-19_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
