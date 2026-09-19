@@ -116,6 +116,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-19.md|Summary: Daily AI Intelligence Briefing — 2026-09-19]] — evaluation operations, staged open weights, verified task expertise, youth safety, and realistic benchmarks
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-06.md|Summary: Daily AI Intelligence Briefing — 2026-09-06]] — agent containment and disclosure, persistent enterprise agents, publisher litigation, and compute sovereignty
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] — containment failures, model access policy, expert rewards, and staged open weights
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-30.md|Summary: Daily AI Intelligence Briefing — 2026-08-30]] — task-specific training, governed model distribution, and end-to-end deployment systems

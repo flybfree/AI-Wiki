@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-19 06:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-19.md created from the complete AI-only intake; Anthropic evaluation operations, staged open weights, ReViSQL, youth safety, MilleMiglia, and agent usability synthesized; Stanford brain research and Onion Futures excluded; scout coverage lagged to September 17 and no target-date paper was promoted; Logseq mirror synchronized; GitHub commit and push required
+
 ## [2026-09-19 00:03] publish | 2026-09-18 canonical briefing finalized; wiki/Logseq briefing mirror byte-identical; selected-paper count 0 equals paper-link count 0; GitHub commit 521c4839 pushed and origin/master verified; Lumistorm post 199 published at https://lumistorm.net/daily-ai-intelligence-2026-09-18/; REST, cache-busted live page, date, source links, archive presence, published status, Daily AI Briefing category, and raw-wiki-syntax checks passed
 
 ## [2026-09-19 00:01] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-18.md finalized as the canonical midnight edition; complete target-date curation query returned 0 keeps and 0 uncovered carry-forward papers; final paper-summary link count 0 matches selected-paper count; AI-only intake retained; Logseq/GitHub/Lumistorm verification follows
@@ -13853,3 +13855,5 @@ tags: ['wiki']
 ## [2026-09-19 00:20] ingest | 2026-09-19_ASafePathtoOpenWeights.md
 ## [2026-09-19 00:20] ingest | 2026-09-19_IntroducingtheAustralianYouthSafetyBlueprint.md
 ## [2026-09-19 00:20] ingest | 2026-09-19_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md
+## [2026-09-19 02:20] ingest | 2026-09-19_Humanbrainistwoseparateorgans_StanfordMedicine-led.md
+## [2026-09-19 02:20] ingest | 2026-09-19_MyAIassistantisdeeplyannoying_andthat_stheleastofi.md

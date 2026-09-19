@@ -117,6 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-19.md|Summary: Daily AI Intelligence Briefing — 2026-09-19]] — evaluation operations, staged open weights, verified task expertise, youth safety, and realistic benchmarks
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md|Summary: Daily AI Intelligence Briefing — 2026-09-15]] — containment, staged open weights, specialized enterprise reasoning, independent assurance, production agents, and governance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-18.md|Summary: Daily AI Intelligence Briefing — 2026-09-18]] — evaluation containment, pacing metrics, misalignment disclosure, staged open weights, verified task expertise, domain harnesses, and local inference
@@ -2931,3 +2932,5 @@ tags: ['wiki']
 - [[2026-09-19_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-19_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
 - [[2026-09-19_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[2026-09-19_Humanbrainistwoseparateorgans_StanfordMedicine-led.md]] : Human brain is two separate organs, Stanford Medicine-led research finds
+- [[2026-09-19_MyAIassistantisdeeplyannoying_andthat_stheleastofi.md]] : My AI assistant is deeply annoying — and that's the least of it - The Washington Post
