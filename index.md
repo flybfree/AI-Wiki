@@ -2924,3 +2924,4 @@ tags: ['wiki']
 - [[2026-09-18_ClaudeCodenowreadsAGENTS_mdifthereisnoClaude_md.md]] : Claude Code now reads AGENTS.md if there is no Claude.md
 - [[2026-09-18_Anthropic_sfirstembeddedevaluatoris_Accenture_.md]] : Anthropic’s first embedded evaluator is … Accenture?
 - [[2026-09-18_Anthropicisoperatingalabthatconductsbiologyexperim.md]] : Anthropic is operating a lab that conducts biology experiments
+- [[2026-09-18_MyAIassistantisdeeplyannoying_andthat_stheleastofi.md]] : My AI assistant is deeply annoying — and that's the least of it - The Washington Post

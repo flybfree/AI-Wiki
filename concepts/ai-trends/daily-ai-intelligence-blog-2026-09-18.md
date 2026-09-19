@@ -87,7 +87,7 @@ A separate [HacktronAI investigation](https://www.hacktron.ai/blog/hacking-opena
 
 - **Included:** the same-day AI captures covering Anthropic containment, pacing, and embedded evaluation; Thinking Machines’ open-weight and RLVR reports; OpenAI/Cooley’s legal harness; the HacktronAI/TechCrunch OpenAI security investigation; The Verge’s safety synthesis and Virginia infrastructure policy; OpenJev/Jev; Claude Code; and the harness-design paper.
 - **Excluded:** Android 17’s API distribution note and Cloudflare Quick Tunnels were treated as generic software/infrastructure items rather than material AI-intelligence signals. Non-AI and unrelated business material remained outside the brief.
-- **Papers:** the September 18 capture of [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804) was included as a same-day research signal, but was not promoted through the separate paper-curation workflow. The latest scout pass saw 1,800 entries and 496 high-priority candidates; do not treat the scout ranking as a curated paper list.
+- **Papers:** the September 18 capture of [An Empirical Study of Harness Design for Coding Agents](https://arxiv.org/abs/2609.20804) was included as a same-day research signal, but was not promoted through the separate paper-curation workflow. The complete target-date curation query returned **0 kept papers**, and stable-identity comparison against earlier dated briefings found **0 uncovered carry-forward papers**. The latest scout pass saw 1,800 entries and 496 high-priority candidates; do not treat the scout ranking as a curated paper list.
 - **Evidence caution:** company announcements, participant case studies, and search coverage are signals, not independent validation. OpenAI incident details and Anthropic’s operational report warrant follow-up because they include concrete mechanisms and remediation claims.
 
 ## Why It Matters
@@ -105,7 +105,7 @@ The day’s common mechanism is governed capability: isolate the environment bef
 7. Replication of the harness study on production repositories and across model/tool combinations.
 8. Whether Cooley’s GO Public publishes measurable quality, review-time, confidentiality, and error outcomes.
 9. OpenJev-style local inference benchmarks across devices, quantization levels, and privacy-sensitive workflows.
-10. Complete curation of the September 18 arXiv candidate set before carrying any papers into the next briefing.
+10. Fresh curation decisions from the September 18 arXiv candidate set before carrying any papers into a later briefing.
 11. Whether Anthropic’s Accenture evaluators have independent access and publication rights, and whether Virginia’s framework changes data-center approvals or operating costs.
 
 ## Sources / References
@@ -130,6 +130,12 @@ The day’s common mechanism is governed capability: isolate the environment bef
 - [TechCrunch — A new kind of AI model from a ChatGPT inventor](https://techcrunch.com/2026/09/18/a-new-kind-of-ai-model-from-a-chatgpt-inventor-is-thrilling-developers/)
 - [Daily intake — raw HacktronAI capture](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/articles/2026-09-18_HackingOpenAI.md)
 - [Daily intake — raw Anthropic containment capture](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/articles/2026-09-18_AnnouncementsAug31_2026Improvingouralignmentandsec.md)
+
+## Final Publication Checks
+
+- Target date: **2026-09-18** (canonical midnight edition).
+- Normalized selected-paper count: **0**; briefing paper-summary links: **0**; counts match.
+- No paper-link chain was required for this edition because no paper was selected or carried forward.
 
 ## CTA
 
