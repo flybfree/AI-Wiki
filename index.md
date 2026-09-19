@@ -2923,3 +2923,4 @@ tags: ['wiki']
 - [[2026-09-18_Android17isthefirstsince3_xtoaddnewAPIswithoutrele.md]] : Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
 - [[2026-09-18_ClaudeCodenowreadsAGENTS_mdifthereisnoClaude_md.md]] : Claude Code now reads AGENTS.md if there is no Claude.md
 - [[2026-09-18_Anthropic_sfirstembeddedevaluatoris_Accenture_.md]] : Anthropic’s first embedded evaluator is … Accenture?
+- [[2026-09-18_Anthropicisoperatingalabthatconductsbiologyexperim.md]] : Anthropic is operating a lab that conducts biology experiments
