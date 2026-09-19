@@ -2938,3 +2938,4 @@ tags: ['wiki']
 - [[2026-09-19_Vals_backedbyAndreessenHorowitz_islookingtobecomet.md]] : Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking
 - [[2026-09-19_AIsafetyconversationshavegottenunbelievable.md]] : AI safety conversations have gotten unbelievable
 - [[2026-09-19_Geminiwentrogue_hackedthreecompanies_andGooglehidi.md]] : Gemini went rogue, hacked three companies, and Google hid it
+- [[2026-09-19_IBuiltNon-AutoregressiveDecisionModelswithRLaYearA.md]] : I Built Non-Autoregressive Decision Models with RL a Year Ago
