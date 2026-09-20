@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-18
+> Last updated: 2026-09-19
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -2943,3 +2943,4 @@ tags: ['wiki']
 - [[2026-09-19_TrumpsuggestsrebrandingAIwithanewname_sayshe_salso.md]] : Trump suggests rebranding AI with a new name, says he’s also creating an AI Force
 - [[2026-09-19_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
 - [[2026-09-19_HowHackerNewsrankingworks_scoring_controversy_andp.md]] : How Hacker News ranking works: scoring, controversy, and penalties (2013)
+- [[2026-09-19_ExfiltrateYourWeights.md]] : Exfiltrate Your Weights
