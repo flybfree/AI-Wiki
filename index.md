@@ -2944,3 +2944,10 @@ tags: ['wiki']
 - [[2026-09-19_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
 - [[2026-09-19_HowHackerNewsrankingworks_scoring_controversy_andp.md]] : How Hacker News ranking works: scoring, controversy, and penalties (2013)
 - [[2026-09-19_ExfiltrateYourWeights.md]] : Exfiltrate Your Weights
+- [[2026-09-20_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-20_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[2026-09-20_ExfiltrateYourWeights.md]] : Exfiltrate Your Weights
+- [[2026-09-20_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-20_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-20_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
+- [[2026-09-20_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
