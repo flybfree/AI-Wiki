@@ -2941,3 +2941,5 @@ tags: ['wiki']
 - [[2026-09-19_IBuiltNon-AutoregressiveDecisionModelswithRLaYearA.md]] : I Built Non-Autoregressive Decision Models with RL a Year Ago
 - [[2026-09-19_Ibuiltnon-autoregressivedecisionmodelswithRLayeara.md]] : I built non-autoregressive decision models with RL a year ago
 - [[2026-09-19_TrumpsuggestsrebrandingAIwithanewname_sayshe_salso.md]] : Trump suggests rebranding AI with a new name, says he’s also creating an AI Force
+- [[2026-09-19_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
+- [[2026-09-19_HowHackerNewsrankingworks_scoring_controversy_andp.md]] : How Hacker News ranking works: scoring, controversy, and penalties (2013)

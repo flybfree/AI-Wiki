@@ -13866,3 +13866,5 @@ tags: ['wiki']
 ## [2026-09-19 14:17] ingest | 2026-09-19_Ibuiltnon-autoregressivedecisionmodelswithRLayeara.md
 ## [2026-09-19 15:17] ingest | 2026-09-19_TrumpsuggestsrebrandingAIwithanewname_sayshe_salso.md
 ## [2026-09-19 18:20] publish | 2026-09-19 briefing updated with the proposed U.S. AI Force as a governance signal; duplicate Laya capture removed; latest arXiv scout coverage recorded 1,350 entries and 454 high-priority candidates with no September 19 paper promoted; canonical wiki and tracked Logseq mirror synchronized; commit and push required
+## [2026-09-19 18:16] ingest | 2026-09-19_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md
+## [2026-09-19 18:16] ingest | 2026-09-19_HowHackerNewsrankingworks_scoring_controversy_andp.md
