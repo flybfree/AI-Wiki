@@ -6,6 +6,7 @@ tags: ['wiki']
 # Log
 
 ## [2026-09-20 06:30] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-20.md created from the complete AI-only intake plus direct lab/news sweep; seven themes synthesized; Anthropic evaluation operations, staged open weights, verified task expertise, youth safety, Meta Muse explainability, MilleMiglia, and model-weight security included; non-AI captures excluded; latest arXiv scout covered 1,050 entries but lagged to September 17 and no target-date paper was promoted; Logseq mirror synchronized; GitHub commit and push required
+## [2026-09-20 09:20] summarize | refreshed the September 20 AI-only briefing with Qwen-Image-2.1 as an included compact open-weight multimodal signal; Flock workforce-reduction coverage excluded from the core brief as primarily a surveillance labor/governance story; removed stray web-citation tokens; Logseq mirror synchronized; GitHub commit and push required
 
 ## [2026-09-20 00:06] publish | 2026-09-19 canonical briefing finalized; curation query returned 0 target-date kept papers; all 777 historical kept identities were already covered by earlier daily briefings after stem normalization; wiki and Logseq mirrors byte-identical; GitHub commit 293370bd pushed and origin/master verified; Lumistorm post 200 published at https://lumistorm.net/daily-ai-intelligence-2026-09-19/; REST, cache-busted live page, archive ordering, published status, Daily AI Briefing category, and raw-wiki-syntax checks passed
 
@@ -13880,3 +13881,5 @@ tags: ['wiki']
 ## [2026-09-20 00:18] ingest | 2026-09-20_ASafePathtoOpenWeights.md
 ## [2026-09-20 00:18] ingest | 2026-09-20_IntroducingtheAustralianYouthSafetyBlueprint.md
 ## [2026-09-20 00:18] ingest | 2026-09-20_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md
+## [2026-09-20 09:13] ingest | 2026-09-20_Flockreportedlytriestoshrinkworkforcewithemployeeb.md
+## [2026-09-20 09:13] ingest | 2026-09-20_Qwen-Image-2_1_Compact_efficient_andunifiedimagecr.md
