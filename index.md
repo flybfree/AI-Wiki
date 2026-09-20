@@ -2954,3 +2954,5 @@ tags: ['wiki']
 - [[2026-09-20_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
 - [[2026-09-20_Flockreportedlytriestoshrinkworkforcewithemployeeb.md]] : Flock reportedly tries to shrink workforce with employee buyouts
 - [[2026-09-20_Qwen-Image-2_1_Compact_efficient_andunifiedimagecr.md]] : Qwen-Image-2.1: Compact, efficient, and unified image creation
+- [[2026-09-20_PirateFaceRescuesLLMModelsfromDeletion.md]] : Pirate Face Rescues LLM Models from Deletion
+- [[2026-09-20_ScrollEdwantstoturntextbooksintoTikTok.md]] : ScrollEd wants to turn textbooks into TikTok
