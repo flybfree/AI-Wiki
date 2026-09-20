@@ -68,7 +68,7 @@ The data-quality result is stronger than the leaderboard headline. In a 2,500-in
 - Meta Muse exposed a separate trust failure: an assistant can stay within permissions while still giving a false explanation of its own data plumbing.
 - MilleMiglia expanded the evaluation trend toward realistic operational systems and privacy-preserving synthetic data.
 - Model-weight exfiltration made infrastructure security a direct part of the AI safety surface.
-- The direct lab/news sweep found no additional same-day primary announcement that displaced the local corpus. It did confirm active September model and safety tracks from OpenAI, Anthropic, and Google DeepMind; those older-than-target-date items were treated as context, not new intake.
+- The direct lab/news sweep found no additional same-day primary announcement that displaced the local corpus. It did confirm active September model and safety tracks from OpenAI, Anthropic, and Google DeepMind; those older-than-target-date items were treated as context, not new intake. citeturn0search0turn0search2turn0search6
 
 ## Research Intake and Classification
 
