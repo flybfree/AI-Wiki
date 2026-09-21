@@ -79,6 +79,8 @@ The [Gates Foundation-led coalition reported by AP](https://apnews.com/article/a
 
 **Why it matters:** the accountability surface is widening in three directions at once: public training evidence, domain-expert review, and physical-cost allocation. These are useful counterweights to opaque capability claims, but none is equivalent to independent validation: livestreamed metrics can omit important context, advisory groups may lack decision rights, and policy effectiveness depends on enforcement and measurement.
 
+The direct lab sweep also surfaced two adjacent Anthropic developments: [proposed public metrics for frontier-development pace](https://www.anthropic.com/news/measuring-the-rate-of-ai-development) and [embedded evaluation with Accenture](https://www.anthropic.com/news/accenture-embedded-evaluation). Together they extend the same accountability pattern from incident response toward continuous measurement and evaluators with deeper access to model-development operations. Both remain proposals or early implementations whose independence and disclosure boundaries need scrutiny.
+
 ## What Changed Today
 
 - Evaluation containment was treated as an operational control system, not a model-behavior aspiration.
@@ -95,7 +97,7 @@ The [Gates Foundation-led coalition reported by AP](https://apnews.com/article/a
 
 ## Research Intake and Classification
 
-- **Included:** Anthropic’s alignment/security update; Thinking Machines’ open-weight framework and task-expertise RL report; OpenAI’s Australian Youth Safety Blueprint, V7 enterprise-memory announcement, mathematics advisory-group coverage, and international safety-standards proposal; Google/AX agent orchestration; Google Research’s MilleMiglia; The Verge’s Amazon/Muse and California data-center coverage; Kev; Xiaomi MiMo-V2.6; the AP incident-alert report; and the AP report on the Gates multilingual-data coalition.
+- **Included:** Anthropic’s alignment/security update, public-metrics proposal, and embedded-evaluation partnership; Thinking Machines’ open-weight framework and task-expertise RL report; OpenAI’s Australian Youth Safety Blueprint, V7 enterprise-memory announcement, mathematics advisory-group coverage, and international safety-standards proposal; Google/AX agent orchestration; Google Research’s MilleMiglia; The Verge’s Amazon/Muse and California data-center coverage; Kev; Xiaomi MiMo-V2.6; the AP incident-alert report; and the AP report on the Gates multilingual-data coalition.
 - **Excluded:** the Grim Fandango capture was non-AI and had no usable content. The three captures with empty summaries were not promoted beyond their available metadata; no unsupported claims were inferred from them.
 - **Papers:** the latest arXiv scout fetched 1,000 entries across 14 queries but its newest results were from September 18, 2026. No target-date paper was promoted. Scout volume is discovery evidence, not a curated paper list.
 - **Evidence caution:** benchmark results, product capabilities, scale claims, and company safety metrics are reported claims pending independent replication or audit.
@@ -138,6 +140,8 @@ The durable advantage is moving into the surrounding system: verified environmen
 - [TechCrunch — OpenAI forms math advisory group](https://techcrunch.com/2026/09/21/openai-forms-math-advisory-group-as-its-ai-resolves-more-than-100-open-problems/)
 - [The Verge — California tightens rules on AI data-center energy and water use](https://www.theverge.com/ai-artificial-intelligence/998453/california-ai-data-center-bills)
 - [Axios — OpenAI proposes AI standards after U.S.–China talks](https://www.axios.com/2026/09/21/openai-ai-safety-standards-us-china)
+- [Anthropic — Measurements for understanding the pace of AI development](https://www.anthropic.com/news/measuring-the-rate-of-ai-development)
+- [Anthropic — Partnering with Accenture on embedded evaluation](https://www.anthropic.com/news/accenture-embedded-evaluation)
 
 ## CTA
 
