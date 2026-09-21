@@ -5,6 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-21 06:00] summarize | created the September 21 AI-only briefing; synthesized Anthropic evaluation incidents and alignment assessment, staged open weights, verified task expertise, AX agent infrastructure, Kev local decision models, youth safety, Amazon/Muse platform authority, MilleMiglia, and the U.S.–China AI incident-alert proposal; excluded non-AI and empty captures; arXiv coverage remained stale through September 18 with no target-date paper promoted; Logseq mirror and GitHub push required
 ## [2026-09-21 00:00] finalize | 2026-09-20 canonical briefing finalized; complete curation query returned 0 target-date keeps and no uncovered carry-forward papers after stable-identity comparison; final paper-summary link count 0 matches selected-paper count; AI-only intake retained; Logseq/GitHub/Lumistorm publication verification follows
 ## [2026-09-20 18:00] summarize | refreshed the September 20 AI-only briefing with Anthropic’s embedded-evaluation partnership and TechCrunch’s same-day pacing/governance analysis; retained the existing AI-only intake and added a deferred AP lawsuit signal because its allegation is unproven; Flock remained excluded/deferred; arXiv coverage still lagged to September 17 with no target-date paper promoted; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-20 06:30] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-20.md created from the complete AI-only intake plus direct lab/news sweep; seven themes synthesized; Anthropic evaluation operations, staged open weights, verified task expertise, youth safety, Meta Muse explainability, MilleMiglia, and model-weight security included; non-AI captures excluded; latest arXiv scout covered 1,050 entries but lagged to September 17 and no target-date paper was promoted; Logseq mirror synchronized; GitHub commit and push required
@@ -13946,3 +13947,6 @@ tags: ['wiki']
 ## [2026-09-21 00:14] ingest | 2026-09-21_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md
 ## [2026-09-21 00:14] ingest | 2026-09-21_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md
 ## [2026-09-21 00:14] ingest | 2026-09-21_AnnouncementsAug31_2026Improvingouralignmentandsec.md
+## [2026-09-21 02:14] ingest | 2026-09-21_GrimFandangoPuzzleDocument_1996__pdf_.md
+## [2026-09-21 05:12] ingest | 2026-09-21_Amazondoesn_ttrustMeta_sMuseAIagent.md
+## [2026-09-21 05:50] ingest | 2026-09-21_Kev_TinyJev-likefamilyofdecisionmodelsbuiltontopof.md

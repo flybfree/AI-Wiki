@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-20
+> Last updated: 2026-09-21
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -117,6 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]] — evaluation operations, staged open weights, agent infrastructure, local decision models, youth safety, platform authority, and incident coordination
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-20.md|Summary: Daily AI Intelligence Briefing — 2026-09-20]] — evaluation operations, staged open weights, verified task expertise, youth safety, privacy explainability, and realistic benchmarks
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-19.md|Summary: Daily AI Intelligence Briefing — 2026-09-19]] — evaluation operations, staged open weights, verified task expertise, youth safety, and realistic benchmarks
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
@@ -2965,3 +2966,6 @@ tags: ['wiki']
 - [[2026-09-21_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
 - [[2026-09-21_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-21_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-21_GrimFandangoPuzzleDocument_1996__pdf_.md]] : Grim Fandango Puzzle Document (1996) [pdf]
+- [[2026-09-21_Amazondoesn_ttrustMeta_sMuseAIagent.md]] : Amazon doesn’t trust Meta’s Muse AI agent
+- [[2026-09-21_Kev_TinyJev-likefamilyofdecisionmodelsbuiltontopof.md]] : Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
