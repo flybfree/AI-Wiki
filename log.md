@@ -13950,3 +13950,4 @@ tags: ['wiki']
 ## [2026-09-21 02:14] ingest | 2026-09-21_GrimFandangoPuzzleDocument_1996__pdf_.md
 ## [2026-09-21 05:12] ingest | 2026-09-21_Amazondoesn_ttrustMeta_sMuseAIagent.md
 ## [2026-09-21 05:50] ingest | 2026-09-21_Kev_TinyJev-likefamilyofdecisionmodelsbuiltontopof.md
+## [2026-09-21 06:12] ingest | 2026-09-21_UNsaysAIsafeguardscan_twaitforcertainty.md

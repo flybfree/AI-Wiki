@@ -2969,3 +2969,4 @@ tags: ['wiki']
 - [[2026-09-21_GrimFandangoPuzzleDocument_1996__pdf_.md]] : Grim Fandango Puzzle Document (1996) [pdf]
 - [[2026-09-21_Amazondoesn_ttrustMeta_sMuseAIagent.md]] : Amazon doesn’t trust Meta’s Muse AI agent
 - [[2026-09-21_Kev_TinyJev-likefamilyofdecisionmodelsbuiltontopof.md]] : Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+- [[2026-09-21_UNsaysAIsafeguardscan_twaitforcertainty.md]] : UN says AI safeguards can’t wait for certainty
