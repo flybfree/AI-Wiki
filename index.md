@@ -2974,3 +2974,6 @@ tags: ['wiki']
 - [[2026-09-21_PromisingAItooltospeedupendometriosisdiagnosis-Med.md]] : Promising AI tool to speed up endometriosis diagnosis - Medical Xpress
 - [[2026-09-21_Wherewillthenextbreakoutstartupcomefrom_Benchmark_.md]] : Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026
 - [[2026-09-21_CanJohnTernusfindApple_snextbigthing_.md]] : Can John Ternus find Apple’s next big thing?
+- [[2026-09-21_WithTabby_aformeraccountantisusingAItomakeaccounta.md]] : With Tabby, a former accountant is using AI to make accountants obsolete
+- [[2026-09-21_Meta_sAIagenthasbeenblockedfromusingAmazon_com.md]] : Meta’s AI agent has been blocked from using Amazon.com
+- [[2026-09-21_AdvisoryGrouponMathematicsandArtificialIntelligenc.md]] : Advisory Group on Mathematics and Artificial Intelligence
