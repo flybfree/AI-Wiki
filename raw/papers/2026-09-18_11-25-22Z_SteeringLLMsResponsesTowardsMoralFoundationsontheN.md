@@ -1,0 +1,18 @@
+---
+title: Steering LLMs Responses Towards Moral Foundations on the Norwegian MFQ-30
+published: 2026-09-18T11:25:22Z
+authors: Hans Andersen, David Dichas
+url: http://arxiv.org/abs/2609.21636v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Steering LLMs Responses Towards Moral Foundations on the Norwegian MFQ-30
+
+## Abstract
+Recent work applies human psychometric questionnaires to large language models to elicit moral and value profiles, but it is not clear whether these instruments measure anything stable in models or whether the resulting profiles can be moved toward a target human population. We administer the Norwegian Moral Foundations Questionnaire (MFQ-30) to six open-weight LLMs and compare their foundation profiles to a sample of N = 1,282 Norwegian respondents. We test two steering interventions, prompt-level persona steering and activation-level ActAdd. Half the models engage with the questionnaire under our attention check. The other half default to flat or central-tendency outputs that look near-human on average without tracking item content. A neutral Nordic-respondent persona, written without any distributional information from the human sample, brings the engaging models 44-77% closer to the Norwegian mean in Mahalanobis $d^2$. One-pair ActAdd at a fixed mid-layer flattens the foundation profile rather than steering individual foundations. For at least one model the same persona that shifts the profile also induces engagement that was absent at baseline, a concrete instance of the cognitive phantoms that Peereboom et al. (2025) warn about.
+
+## Metadata
+- **Published**: 2026-09-18T11:25:22Z
+- **Authors**: Hans Andersen, David Dichas
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.21636v1)

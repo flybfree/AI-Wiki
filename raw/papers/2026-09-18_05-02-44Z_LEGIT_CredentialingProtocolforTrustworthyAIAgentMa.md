@@ -1,0 +1,18 @@
+---
+title: LEGIT: Credentialing Protocol for Trustworthy AI Agent Marketplaces
+published: 2026-09-18T05:02:44Z
+authors: Steve Drew, Jiayu Zhou
+url: http://arxiv.org/abs/2609.21325v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# LEGIT: Credentialing Protocol for Trustworthy AI Agent Marketplaces
+
+## Abstract
+Agentic marketplaces are emerging where AI agents with varying capabilities autonomously complete specialized tasks for buyers. A major challenge of such marketplaces is that buyers cannot easily determine which agent will perform best on their tasks. Reported benchmark scores may be difficult to verify or compare across tasks, software, and budgets. We introduce LEGIT, a credentialing protocol connecting certification, reputation, and proposed marketplace allocation. Certification binds measured quality and cost per solved task to an agent configuration, task domain, evaluation budget, and evidence through a signed record. Reputation links records of past task outcomes to the same identity, subject to the reliability of the reported feedback. Buyers and agents can verify credential records and inspect optional visual profiles. Evaluations reveal cost differences between agent configurations with similar observed task success, and show that comparisons depend on the evaluation budget. These results support binding performance measurements to the tested configuration and resource limits. A complementary analysis quantifies the deposits and fees required for reputation manipulation under a stated Sybil attack model.
+
+## Metadata
+- **Published**: 2026-09-18T05:02:44Z
+- **Authors**: Steve Drew, Jiayu Zhou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.21325v1)

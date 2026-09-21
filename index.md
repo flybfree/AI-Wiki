@@ -2958,3 +2958,4 @@ tags: ['wiki']
 - [[2026-09-20_ScrollEdwantstoturntextbooksintoTikTok.md]] : ScrollEd wants to turn textbooks into TikTok
 - [[2026-09-20_IstheAIindustryreallyreadytoslowdown_.md]] : Is the AI industry really ready to slow down?
 - [[2026-09-20_Google_sOpenAgenticOrchestrator.md]] : Google's Open Agentic Orchestrator
+- [[2026-09-20_AX_Google_sOpenAgenticOrchestrator.md]] : AX – Google’s Open Agentic Orchestrator
