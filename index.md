@@ -2970,3 +2970,7 @@ tags: ['wiki']
 - [[2026-09-21_Amazondoesn_ttrustMeta_sMuseAIagent.md]] : Amazon doesn’t trust Meta’s Muse AI agent
 - [[2026-09-21_Kev_TinyJev-likefamilyofdecisionmodelsbuiltontopof.md]] : Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
 - [[2026-09-21_UNsaysAIsafeguardscan_twaitforcertainty.md]] : UN says AI safeguards can’t wait for certainty
+- [[2026-09-21_HowV7givesAIagentsinstitutionalmemory.md]] : How V7 gives AI agents institutional memory
+- [[2026-09-21_PromisingAItooltospeedupendometriosisdiagnosis-Med.md]] : Promising AI tool to speed up endometriosis diagnosis - Medical Xpress
+- [[2026-09-21_Wherewillthenextbreakoutstartupcomefrom_Benchmark_.md]] : Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026
+- [[2026-09-21_CanJohnTernusfindApple_snextbigthing_.md]] : Can John Ternus find Apple’s next big thing?
