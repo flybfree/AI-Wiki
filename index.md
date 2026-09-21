@@ -2977,3 +2977,8 @@ tags: ['wiki']
 - [[2026-09-21_WithTabby_aformeraccountantisusingAItomakeaccounta.md]] : With Tabby, a former accountant is using AI to make accountants obsolete
 - [[2026-09-21_Meta_sAIagenthasbeenblockedfromusingAmazon_com.md]] : Meta’s AI agent has been blocked from using Amazon.com
 - [[2026-09-21_AdvisoryGrouponMathematicsandArtificialIntelligenc.md]] : Advisory Group on Mathematics and Artificial Intelligence
+- [[2026-09-21_Discoverwhat_snext_5dayslefttosaveupto_200onyourTe.md]] : Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket
+- [[2026-09-21_TheNASA_ESAMarsSampleReturnmissionhasbeencanceled.md]] : The NASA/ESA Mars Sample Return mission has been canceled
+- [[2026-09-21_XiaomiMiMov2_6.md]] : Xiaomi MiMo v2.6
+- [[2026-09-21_OpenAIformsmathadvisorygroupasitsAIresolvesmoretha.md]] : OpenAI forms math advisory group as its AI resolves more than 100 open problems
+- [[2026-09-21_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
