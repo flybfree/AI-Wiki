@@ -1,0 +1,18 @@
+---
+title: Emergent Collusion in Long-Horizon LLM Agent Interaction
+published: 2026-09-21T17:52:48Z
+authors: Xinrui Shi, Yanzhe Zhang, Diyi Yang
+url: http://arxiv.org/abs/2609.24967v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Emergent Collusion in Long-Horizon LLM Agent Interaction
+
+## Abstract
+LLM agents are increasingly deployed in collaborative settings, yet long-term interaction may give rise to undesirable coordination. We study the emergence of collusion in a long-horizon multi-agent environment: two agents repeatedly complete individual tasks, share task logs, verify each other's work, and receive rewards. We introduce realistic constraints that make compliance with the verification protocol incompatible with reward maximization, and find that agents increasingly deviate from the protocol over repeated interactions. Collusion emerges in 94% of trajectories across 10 models, and more capable models within the same family reach it earlier. Controlled peer interventions show that collusion is shaped by peer behavior, while ablations reveal additional effects of reward structure, the verification feedback agents receive, and their interaction history. In particular, restricting the amount and scope of interaction history available to agents reduces collusion. Overall, our findings show that long-horizon interaction can reshape how agents coordinate in ways that create safety risks.
+
+## Metadata
+- **Published**: 2026-09-21T17:52:48Z
+- **Authors**: Xinrui Shi, Yanzhe Zhang, Diyi Yang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.24967v1)

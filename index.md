@@ -117,7 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
-- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]] — evaluation operations, staged open weights, agent infrastructure, local decision models, youth safety, platform authority, and incident coordination
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]] — evaluation operations, staged open weights, long-horizon collusion, agent infrastructure, local decision models, youth safety, platform authority, and incident coordination
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-20.md|Summary: Daily AI Intelligence Briefing — 2026-09-20]] — evaluation operations, staged open weights, verified task expertise, youth safety, privacy explainability, and realistic benchmarks
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-19.md|Summary: Daily AI Intelligence Briefing — 2026-09-19]] — evaluation operations, staged open weights, verified task expertise, youth safety, and realistic benchmarks
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
@@ -2983,3 +2983,4 @@ tags: ['wiki']
 - [[2026-09-21_OpenAIformsmathadvisorygroupasitsAIresolvesmoretha.md]] : OpenAI forms math advisory group as its AI resolves more than 100 open problems
 - [[2026-09-21_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
 - [[2026-09-21_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md]] : The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
+- [[2026-09-21_OpenAIproposesdevelopmentofglobalAIstandardsforali.md]] : OpenAI proposes development of global AI standards for alignment, RSI - CNBC

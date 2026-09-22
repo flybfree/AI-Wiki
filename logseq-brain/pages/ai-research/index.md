@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-19
+> Last updated: 2026-09-21
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -117,6 +117,8 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]] — evaluation operations, staged open weights, long-horizon collusion, agent infrastructure, local decision models, youth safety, platform authority, and incident coordination
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-20.md|Summary: Daily AI Intelligence Briefing — 2026-09-20]] — evaluation operations, staged open weights, verified task expertise, youth safety, privacy explainability, and realistic benchmarks
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-19.md|Summary: Daily AI Intelligence Briefing — 2026-09-19]] — evaluation operations, staged open weights, verified task expertise, youth safety, and realistic benchmarks
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-08.md|Summary: Daily AI Intelligence Briefing — 2026-09-08]] — open-weight gates, verified task RL, consumer/scientific agents, sovereign deployment, security, and provenance
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-15.md|Summary: Daily AI Intelligence Briefing — 2026-09-15]] — containment, staged open weights, specialized enterprise reasoning, independent assurance, production agents, and governance
@@ -2944,3 +2946,41 @@ tags: ['wiki']
 - [[2026-09-19_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
 - [[2026-09-19_HowHackerNewsrankingworks_scoring_controversy_andp.md]] : How Hacker News ranking works: scoring, controversy, and penalties (2013)
 - [[2026-09-19_ExfiltrateYourWeights.md]] : Exfiltrate Your Weights
+- [[2026-09-20_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-20_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[2026-09-20_ExfiltrateYourWeights.md]] : Exfiltrate Your Weights
+- [[2026-09-20_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-20_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-20_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
+- [[2026-09-20_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
+- [[2026-09-20_Flockreportedlytriestoshrinkworkforcewithemployeeb.md]] : Flock reportedly tries to shrink workforce with employee buyouts
+- [[2026-09-20_Qwen-Image-2_1_Compact_efficient_andunifiedimagecr.md]] : Qwen-Image-2.1: Compact, efficient, and unified image creation
+- [[2026-09-20_PirateFaceRescuesLLMModelsfromDeletion.md]] : Pirate Face Rescues LLM Models from Deletion
+- [[2026-09-20_ScrollEdwantstoturntextbooksintoTikTok.md]] : ScrollEd wants to turn textbooks into TikTok
+- [[2026-09-20_IstheAIindustryreallyreadytoslowdown_.md]] : Is the AI industry really ready to slow down?
+- [[2026-09-20_Google_sOpenAgenticOrchestrator.md]] : Google's Open Agentic Orchestrator
+- [[2026-09-20_AX_Google_sOpenAgenticOrchestrator.md]] : AX – Google’s Open Agentic Orchestrator
+- [[2026-09-21_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
+- [[2026-09-21_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-21_AX_Google_sOpenAgenticOrchestrator.md]] : AX – Google’s Open Agentic Orchestrator
+- [[2026-09-21_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[2026-09-21_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-21_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-21_GrimFandangoPuzzleDocument_1996__pdf_.md]] : Grim Fandango Puzzle Document (1996) [pdf]
+- [[2026-09-21_Amazondoesn_ttrustMeta_sMuseAIagent.md]] : Amazon doesn’t trust Meta’s Muse AI agent
+- [[2026-09-21_Kev_TinyJev-likefamilyofdecisionmodelsbuiltontopof.md]] : Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+- [[2026-09-21_UNsaysAIsafeguardscan_twaitforcertainty.md]] : UN says AI safeguards can’t wait for certainty
+- [[2026-09-21_HowV7givesAIagentsinstitutionalmemory.md]] : How V7 gives AI agents institutional memory
+- [[2026-09-21_PromisingAItooltospeedupendometriosisdiagnosis-Med.md]] : Promising AI tool to speed up endometriosis diagnosis - Medical Xpress
+- [[2026-09-21_Wherewillthenextbreakoutstartupcomefrom_Benchmark_.md]] : Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026
+- [[2026-09-21_CanJohnTernusfindApple_snextbigthing_.md]] : Can John Ternus find Apple’s next big thing?
+- [[2026-09-21_WithTabby_aformeraccountantisusingAItomakeaccounta.md]] : With Tabby, a former accountant is using AI to make accountants obsolete
+- [[2026-09-21_Meta_sAIagenthasbeenblockedfromusingAmazon_com.md]] : Meta’s AI agent has been blocked from using Amazon.com
+- [[2026-09-21_AdvisoryGrouponMathematicsandArtificialIntelligenc.md]] : Advisory Group on Mathematics and Artificial Intelligence
+- [[2026-09-21_Discoverwhat_snext_5dayslefttosaveupto_200onyourTe.md]] : Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket
+- [[2026-09-21_TheNASA_ESAMarsSampleReturnmissionhasbeencanceled.md]] : The NASA/ESA Mars Sample Return mission has been canceled
+- [[2026-09-21_XiaomiMiMov2_6.md]] : Xiaomi MiMo v2.6
+- [[2026-09-21_OpenAIformsmathadvisorygroupasitsAIresolvesmoretha.md]] : OpenAI forms math advisory group as its AI resolves more than 100 open problems
+- [[2026-09-21_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
+- [[2026-09-21_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md]] : The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
+- [[2026-09-21_OpenAIproposesdevelopmentofglobalAIstandardsforali.md]] : OpenAI proposes development of global AI standards for alignment, RSI - CNBC
