@@ -2984,3 +2984,13 @@ tags: ['wiki']
 - [[2026-09-21_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
 - [[2026-09-21_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md]] : The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
 - [[2026-09-21_OpenAIproposesdevelopmentofglobalAIstandardsforali.md]] : OpenAI proposes development of global AI standards for alignment, RSI - CNBC
+- [[2026-09-22_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[2026-09-22_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-22_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md]] : The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
+- [[2026-09-22_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-22_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
+- [[2026-09-22_OpenAIproposesdevelopmentofglobalAIstandardsforali.md]] : OpenAI proposes development of global AI standards for alignment, RSI - CNBC
+- [[2026-09-22_AdvisoryGrouponMathematicsandArtificialIntelligenc.md]] : Advisory Group on Mathematics and Artificial Intelligence
+- [[2026-09-22_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-22_MiMov2_6.md]] : MiMo v2.6
+- [[2026-09-22_AppleMusictoopenconcertvenueinBatterseaPowerStatio.md]] : Apple Music to open concert venue in Battersea Power Station

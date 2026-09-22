@@ -1,0 +1,18 @@
+---
+title: GDN Tree-Scan: Served Tree Verification for Recurrent-Hybrid Language Models
+published: 2026-09-20T22:21:01Z
+authors: Zhiyuan Ma
+url: http://arxiv.org/abs/2609.23900v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# GDN Tree-Scan: Served Tree Verification for Recurrent-Hybrid Language Models
+
+## Abstract
+Tree speculative decoding verifies multiple candidate continuations in one target forward pass. For attention-only transformers, the verifier mainly needs an ancestry mask. Recurrent-hybrid language models break this assumption: a candidate row must also carry the recurrent state that native sequential decode would have produced along its root-to-node path. Otherwise, a verifier can use a correct attention mask while still conditioning on an impossible recurrent history.   We present GDN Tree-Scan, a served verifier for Gated-DeltaNet hybrid language models integrated into vLLM. The system combines FlashAttention-2 tree-bias attention, branch-local GDN scan/replay, device-side multidraft commitment, and accepted-chain-only state publication. On the public Qwen3.6-27B-FP8 checkpoint, in a clean batch-one (B=1) SWE/Codex decode gate at temperature 0.6, a six-node root-branch tree increases committed tokens/event by 17.2% at near-native verify-forward time and reaches 23.88 token-weighted decode tokens/s versus 18.80 for native five-step MTP (E5), a 27.0% token-weighted decode-throughput gain. The per-request-equal latency view is +4.0%, and end-to-end task wall time remains prefill-heavy. Empirical equivalence evidence is scoped to recurrent-oracle probability-rescore (p-rescore) closure within the observed native flip floor, not a full distribution-distance proof.
+
+## Metadata
+- **Published**: 2026-09-20T22:21:01Z
+- **Authors**: Zhiyuan Ma
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.23900v1)
