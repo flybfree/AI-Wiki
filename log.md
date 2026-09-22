@@ -5,6 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-22 18:01] summarize | extended the AI-only September 22 briefing with GPT-6 Sol/Luna pricing and prompt caching, Qualcomm on-device agents, Rabbit OS3, Snorkel AI funding, Meta/OpenClaw product lineage, and Alibaba's chip/model/datacenter roadmap from the direct lab/news sweep; retained reported-claim caveats and arXiv coverage limitation
 ## [2026-09-22 12:00] summarize | refreshed the September 22 AI-only briefing with Meta Muse's reported filesystem-export failure through connected cloud storage and the direct lab/news sweep; retained RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, and agentic-commerce themes; GPT-6 Enigma and vibe-coding opinion captures excluded from the core synthesis; arXiv coverage remains incomplete through September 21 with no paper promoted; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-22 00:07] publish | 2026-09-21 canonical briefing published; wiki and Logseq mirrors byte-identical; selected-paper count 1 equals briefing paper-link count 1; GitHub commit 3c45d67f pushed and origin/master verified; Lumistorm post 202 created at https://lumistorm.net/daily-ai-intelligence-2026-09-21/; REST, live cache-busted page, archive presence, published status, category, source links, and raw-wiki-syntax checks passed
 ## [2026-09-22 00:00] finalize | 2026-09-21 canonical briefing finalized; local-time curation query returned 1 kept paper approved at 2026-09-21 23:30 CDT, normalized to the existing Emergent Collusion summary; briefing paper-link count 1 matches selected-paper count; original-paper URL added and verified; Logseq/GitHub/Lumistorm publication verification follows
@@ -14102,3 +14103,10 @@ tags: ['wiki']
 ## [2026-09-22 13:21] ingest | 2026-09-22_AndreessenHorowitzislaunchingan_academy_withnohome.md
 ## [2026-09-22 13:21] ingest | 2026-09-22_OpenAIlaunchesGPT-6SolandLuna_boastinglowercostand.md
 ## [2026-09-22 13:21] ingest | 2026-09-22_Prioritiesandprinciplesforeffectivethirdpartyasses.md
+## [2026-09-22 14:20] ingest | 2026-09-22_IntroducingGPT-6SolandLuna.md
+## [2026-09-22 14:20] skip-duplicate | 2026-09-22_GPT-6SolandLuna.md
+## [2026-09-22 15:20] ingest | 2026-09-22_BetterpromptcachingforGPT-6.md
+## [2026-09-22 15:20] ingest | 2026-09-22_MetaadmitsMuse_slikenesstoOpenClawisn_tacoincidenc.md
+## [2026-09-22 16:19] ingest | 2026-09-22_Qualcommlaunchestwonewsmartphonechipswithemphasiso.md
+## [2026-09-22 17:18] ingest | 2026-09-22_SnorkelAItriplesvaluationto_3_5BasdemandforAItrain.md
+## [2026-09-22 17:18] ingest | 2026-09-22_Rabbit_snewAIagentdoesn_tneedanR1torun.md

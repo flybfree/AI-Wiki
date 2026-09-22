@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-21
+> Last updated: 2026-09-22
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -3011,3 +3011,9 @@ tags: ['wiki']
 - [[2026-09-22_AndreessenHorowitzislaunchingan_academy_withnohome.md]] : Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta
 - [[2026-09-22_OpenAIlaunchesGPT-6SolandLuna_boastinglowercostand.md]] : OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes
 - [[2026-09-22_Prioritiesandprinciplesforeffectivethirdpartyasses.md]] : Priorities and principles for effective third party assessments
+- [[2026-09-22_IntroducingGPT-6SolandLuna.md]] : Introducing GPT-6 Sol and Luna
+- [[2026-09-22_BetterpromptcachingforGPT-6.md]] : Better prompt caching for GPT-6
+- [[2026-09-22_MetaadmitsMuse_slikenesstoOpenClawisn_tacoincidenc.md]] : Meta admits Muse’s likeness to OpenClaw isn’t a coincidence
+- [[2026-09-22_Qualcommlaunchestwonewsmartphonechipswithemphasiso.md]] : Qualcomm launches two new smartphone chips with emphasis on AI
+- [[2026-09-22_SnorkelAItriplesvaluationto_3_5BasdemandforAItrain.md]] : Snorkel AI triples valuation to $3.5B as demand for AI training data booms
+- [[2026-09-22_Rabbit_snewAIagentdoesn_tneedanR1torun.md]] : Rabbit’s new AI agent doesn’t need an R1 to run
