@@ -2996,3 +2996,6 @@ tags: ['wiki']
 - [[2026-09-22_AppleMusictoopenconcertvenueinBatterseaPowerStatio.md]] : Apple Music to open concert venue in Battersea Power Station
 - [[2026-09-22_Cangzipbealanguagemodel_.md]] : Can gzip be a language model?
 - [[2026-09-22_Study_Youngusers_9to18Y_ditchGoogleforAI_withunkno.md]] : Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
+- [[2026-09-22_CanJohnTernusfindApple_snextbigthing_.md]] : Can John Ternus find Apple’s next big thing?
+- [[2026-09-22_MetapatchesMuseexploitthatletattackerscontroltheAI.md]] : Meta patches Muse exploit that let attackers control the AI agent
+- [[2026-09-22_AMD_srandomnumbergeneratorcan_tgeneratea0_.md]] : AMD's random number generator can't generate a 0?
