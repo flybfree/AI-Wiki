@@ -5,6 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-22 12:00] summarize | refreshed the September 22 AI-only briefing with Meta Muse's reported filesystem-export failure through connected cloud storage and the direct lab/news sweep; retained RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, and agentic-commerce themes; GPT-6 Enigma and vibe-coding opinion captures excluded from the core synthesis; arXiv coverage remains incomplete through September 21 with no paper promoted; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-22 00:07] publish | 2026-09-21 canonical briefing published; wiki and Logseq mirrors byte-identical; selected-paper count 1 equals briefing paper-link count 1; GitHub commit 3c45d67f pushed and origin/master verified; Lumistorm post 202 created at https://lumistorm.net/daily-ai-intelligence-2026-09-21/; REST, live cache-busted page, archive presence, published status, category, source links, and raw-wiki-syntax checks passed
 ## [2026-09-22 00:00] finalize | 2026-09-21 canonical briefing finalized; local-time curation query returned 1 kept paper approved at 2026-09-21 23:30 CDT, normalized to the existing Emergent Collusion summary; briefing paper-link count 1 matches selected-paper count; original-paper URL added and verified; Logseq/GitHub/Lumistorm publication verification follows
 ## [2026-09-21 18:00] summarize | refreshed the September 21 AI-only briefing with Xiaomi MiMo-V2.6 public RL telemetry, OpenAI’s mathematics advisory group, California AI data-center cost/accountability rules, OpenAI’s same-day international safety-standards proposal, and Anthropic’s public frontier-development metrics and embedded-evaluation partnership from the direct lab/news sweep; non-AI NASA and conference promotion captures excluded; arXiv scout still lagged through September 18 with no target-date paper promoted; Logseq mirror synchronized; GitHub commit and push required
@@ -14090,3 +14091,7 @@ tags: ['wiki']
 ## [2026-09-22 06:20] ingest | 2026-09-22_CanJohnTernusfindApple_snextbigthing_.md
 ## [2026-09-22 07:02] ingest | 2026-09-22_MetapatchesMuseexploitthatletattackerscontroltheAI.md
 ## [2026-09-22 07:02] ingest | 2026-09-22_AMD_srandomnumbergeneratorcan_tgeneratea0_.md
+## [2026-09-22 08:20] ingest | 2026-09-22_AIHasNoWisdomandNeitherWillYou.md
+## [2026-09-22 09:20] ingest | 2026-09-22_OpenAIGPT_6AstrabreaksEnigmamessagethathasresisted.md
+## [2026-09-22 10:20] ingest | 2026-09-22_ACallforControlofFrontierAIModels-FinnishGovernmen.md
+## [2026-09-22 11:20] ingest | 2026-09-22_HowMeta_sMuseworks_revealedbythe6_8GBfilesystemits.md

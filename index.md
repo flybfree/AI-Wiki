@@ -117,6 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [[concepts/ai-trends/daily-ai-intelligence-summary-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]] — RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, agentic commerce, and the Meta Muse runtime disclosure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]] — evaluation operations, staged open weights, long-horizon collusion, agent infrastructure, local decision models, youth safety, platform authority, and incident coordination
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-20.md|Summary: Daily AI Intelligence Briefing — 2026-09-20]] — evaluation operations, staged open weights, verified task expertise, youth safety, privacy explainability, and realistic benchmarks
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-19.md|Summary: Daily AI Intelligence Briefing — 2026-09-19]] — evaluation operations, staged open weights, verified task expertise, youth safety, and realistic benchmarks
@@ -2999,3 +3000,7 @@ tags: ['wiki']
 - [[2026-09-22_CanJohnTernusfindApple_snextbigthing_.md]] : Can John Ternus find Apple’s next big thing?
 - [[2026-09-22_MetapatchesMuseexploitthatletattackerscontroltheAI.md]] : Meta patches Muse exploit that let attackers control the AI agent
 - [[2026-09-22_AMD_srandomnumbergeneratorcan_tgeneratea0_.md]] : AMD's random number generator can't generate a 0?
+- [[2026-09-22_AIHasNoWisdomandNeitherWillYou.md]] : AI Has No Wisdom and Neither Will You
+- [[2026-09-22_OpenAIGPT_6AstrabreaksEnigmamessagethathasresisted.md]] : OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+- [[2026-09-22_ACallforControlofFrontierAIModels-FinnishGovernmen.md]] : A Call for Control of Frontier AI Models - Finnish Government - Valtioneuvosto
+- [[2026-09-22_HowMeta_sMuseworks_revealedbythe6_8GBfilesystemits.md]] : How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me
