@@ -2982,3 +2982,4 @@ tags: ['wiki']
 - [[2026-09-21_XiaomiMiMov2_6.md]] : Xiaomi MiMo v2.6
 - [[2026-09-21_OpenAIformsmathadvisorygroupasitsAIresolvesmoretha.md]] : OpenAI forms math advisory group as its AI resolves more than 100 open problems
 - [[2026-09-21_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
+- [[2026-09-21_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md]] : The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping

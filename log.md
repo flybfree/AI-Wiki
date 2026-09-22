@@ -13965,3 +13965,4 @@ tags: ['wiki']
 ## [2026-09-21 16:12] ingest | 2026-09-21_XiaomiMiMov2_6.md
 ## [2026-09-21 16:12] ingest | 2026-09-21_OpenAIformsmathadvisorygroupasitsAIresolvesmoretha.md
 ## [2026-09-21 16:12] ingest | 2026-09-21_CaliforniatightensrulesonAIdatacenterenergyandwate.md
+## [2026-09-21 19:18] ingest | 2026-09-21_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md
