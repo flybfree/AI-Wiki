@@ -18,6 +18,35 @@ This is a quality-control list for daily AI Intelligence briefings. Each high-si
 - [YuE2](https://map-yue2.github.io/) — open music-generation model using an editable symbolic plan before rendering a song.
 - [IFM K2 Horizon](https://ifm.ai/blog/k2) — fully open foundation-model fleet from 0.9B to 375B parameters.
 
+## Additional labs to monitor
+
+- **OpenAI** — GPT-6 Astra and adjacent agent/product releases
+- **Anthropic** — Claude Fable/Mythos and safety-restricted frontier tracks
+- **Google DeepMind / Google AI** — Gemini, Flash/Cyber variants, specialist foundation models
+- **Meta AI** — Muse and other consumer/agent models
+- **xAI** — Grok frontier and persistent-agent releases
+- **DeepSeek** — open and API-efficient model families
+- **Qwen / Alibaba** — language, vision, image, and local-deployment models
+- **Z.ai** — GLM releases and domestic-infrastructure signals
+- **Mistral AI** — sovereign open-weight and enterprise models
+- **Thinking Machines Lab** — Inkling and task-specialized RL systems
+- **Xiaomi MiMo** — open multimodal and reasoning models
+- **Moonshot AI / Kimi** — large open-weight and long-context models
+- **NVIDIA AI** — Nemotron and deployment-oriented foundation models
+- **Cohere, AI21 Labs, Microsoft AI, Hugging Face, and MiniMax** — enterprise, open-weight, and ecosystem releases
+
+## Additional model families now tracked
+
+- **GPT-6 Astra** — frontier general/agentic model
+- **Claude Fable 5.1 / Mythos 5.1** — broad and restricted frontier tracks
+- **Gemini 3.8 Flash / Flash Cyber** — efficient general and cyber-specialized tracks
+- **DeepSeek V4.1-Flash** — efficient open multimodal model
+- **GLM-5.3-Flash** — open-weight and infrastructure-sovereignty signal
+- **Qwen-Image-2.1** — open image generation and editing
+- **Meta Muse / Muse Spark 1.3** — consumer agent track
+- **Kimi K3** — open-weight frontier model
+- **Inkling / Inkling-Small** — staged open-weight release track
+
 ## Coverage rules
 
 1. **Model releases are first-class intelligence signals.** They must appear in the executive summary or a named model-release section when material.

@@ -20,6 +20,18 @@ The September 22 AI-only intake sharpens yesterday's systems-level story: recurs
 - **YuE2** — [project page](https://map-yue2.github.io/); open music-generation model tracked under modality-specific foundation models.
 - **IFM K2 Horizon** — [IFM release](https://ifm.ai/blog/k2); fully open edge-to-enterprise foundation-model fleet.
 
+### Additional monitored release signals
+
+- **GPT-6 Astra** — [OpenAI](https://openai.com/index/gpt-6-astra/); frontier general/agentic track.
+- **Claude Fable 5.1 / Mythos 5.1** — [Anthropic](https://www.anthropic.com/claude-fable-and-mythos-5-1); broad and restricted frontier tracks.
+- **Gemini 3.8 Flash / Flash Cyber** — [Google](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/); efficient general and cyber-specialized tracks.
+- **DeepSeek V4.1-Flash** — [DeepSeek](https://www.deepseek.com/en/news/deepseek-v4-1-flash/); open multimodal and serving-efficiency track.
+- **GLM-5.3-Flash** — [Z.ai](https://www.z.ai/blog/glm-5.3); open-weight and infrastructure-sovereignty signal.
+- **Qwen-Image-2.1** — [Qwen](https://qwen.ai/blog?id=qwen-image-2.1); open image generation/editing.
+- **Meta Muse / Muse Spark 1.3** — [Meta](https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/); consumer-agent track.
+- **Kimi K3** — [Moonshot AI](https://www.moonshot.cn/); open-weight frontier/local-runtime track.
+- **Inkling / Inkling-Small** — [Thinking Machines](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/); staged open-weight release track.
+
 ## Model Release Coverage Check
 
 The release audit identified four high-signal items that require explicit treatment in the briefing stream. This is a release-focused supplement to the systems themes below, not a substitute for the daily narrative.

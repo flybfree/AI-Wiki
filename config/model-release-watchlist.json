@@ -1,6 +1,29 @@
 {
   "description": "High-signal model releases that daily AI briefings must explicitly check.",
   "updated": "2026-09-22",
+  "labs": [
+    "OpenAI",
+    "Anthropic",
+    "Google DeepMind",
+    "Meta AI",
+    "xAI",
+    "DeepSeek",
+    "Qwen / Alibaba",
+    "Z.ai",
+    "Mistral AI",
+    "Thinking Machines Lab",
+    "Xiaomi MiMo",
+    "Institute of Foundation Models",
+    "TypeSafe AI",
+    "Multimodal Art Projection",
+    "NVIDIA AI",
+    "Cohere",
+    "AI21 Labs",
+    "Microsoft AI",
+    "Hugging Face",
+    "Moonshot AI / Kimi",
+    "MiniMax"
+  ],
   "releases": [
     {
       "name": "Grok 4.7",
@@ -36,6 +59,69 @@
       "release_date": "2026-09-03",
       "category": "fully-open-foundation-model-fleet",
       "source": "https://ifm.ai/blog/k2"
+    },
+    {
+      "name": "GPT-6 Astra",
+      "aliases": ["GPT-6 Astra", "GPT 6 Astra", "Astra"],
+      "release_date": "2026-09-09",
+      "category": "frontier-general-agentic",
+      "source": "https://openai.com/index/gpt-6-astra/"
+    },
+    {
+      "name": "Claude Fable 5.1 / Mythos 5.1",
+      "aliases": ["Claude Fable 5.1", "Fable 5.1", "Claude Mythos 5.1", "Mythos 5.1"],
+      "release_date": "2026-09-03",
+      "category": "frontier-general-agentic",
+      "source": "https://www.anthropic.com/claude-fable-and-mythos-5-1"
+    },
+    {
+      "name": "Gemini 3.8 Flash / Flash Cyber",
+      "aliases": ["Gemini 3.8 Flash", "Gemini 3.8 Flash Cyber", "Flash Cyber"],
+      "release_date": "2026-09-03",
+      "category": "frontier-general-cyber",
+      "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+    },
+    {
+      "name": "DeepSeek V4.1-Flash",
+      "aliases": ["DeepSeek V4.1-Flash", "DeepSeek V4.1 Flash"],
+      "release_date": "2026-09-10",
+      "category": "open-multimodal",
+      "source": "https://www.deepseek.com/en/news/deepseek-v4-1-flash/"
+    },
+    {
+      "name": "GLM-5.3-Flash",
+      "aliases": ["GLM-5.3-Flash", "GLM 5.3 Flash"],
+      "release_date": "2026-08-27",
+      "category": "open-weight-infrastructure-sovereignty",
+      "source": "https://www.z.ai/blog/glm-5.3"
+    },
+    {
+      "name": "Qwen-Image-2.1",
+      "aliases": ["Qwen-Image-2.1", "Qwen Image 2.1"],
+      "release_date": "2026-09-20",
+      "category": "open-image-generation-editing",
+      "source": "https://qwen.ai/blog?id=qwen-image-2.1"
+    },
+    {
+      "name": "Meta Muse",
+      "aliases": ["Meta Muse", "Muse Spark 1.3", "Muse"],
+      "release_date": "2026-09-08",
+      "category": "consumer-agent",
+      "source": "https://techcrunch.com/2026/09/08/meta-debuts-its-muse-ai-agent-will-consumers-trust-it/"
+    },
+    {
+      "name": "Kimi K3",
+      "aliases": ["Kimi K3", "Kimi-K3"],
+      "release_date": "2026-08-08",
+      "category": "open-weight-frontier",
+      "source": "https://www.moonshot.cn/"
+    },
+    {
+      "name": "Inkling / Inkling-Small",
+      "aliases": ["Inkling", "Inkling-Small"],
+      "release_date": "2026-09-08",
+      "category": "open-weight-frontier",
+      "source": "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/"
     }
   ]
 }
