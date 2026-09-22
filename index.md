@@ -3004,3 +3004,10 @@ tags: ['wiki']
 - [[2026-09-22_OpenAIGPT_6AstrabreaksEnigmamessagethathasresisted.md]] : OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
 - [[2026-09-22_ACallforControlofFrontierAIModels-FinnishGovernmen.md]] : A Call for Control of Frontier AI Models - Finnish Government - Valtioneuvosto
 - [[2026-09-22_HowMeta_sMuseworks_revealedbythe6_8GBfilesystemits.md]] : How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me
+- [[2026-09-22_Sep18_2026AnnouncementsPartneringwithAccentureonem.md]] : Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation
+- [[2026-09-22_ClaudeOpus5_5.md]] : Claude Opus 5.5
+- [[2026-09-22_AnthropiclaunchesClaudeOpus5_5withstrictersafeguar.md]] : Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity
+- [[2026-09-22_AnthropicreleasesOpus5_5withlowerpricesandFable-le.md]] : Anthropic releases Opus 5.5 with lower prices and Fable-level performance
+- [[2026-09-22_AndreessenHorowitzislaunchingan_academy_withnohome.md]] : Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta
+- [[2026-09-22_OpenAIlaunchesGPT-6SolandLuna_boastinglowercostand.md]] : OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes
+- [[2026-09-22_Prioritiesandprinciplesforeffectivethirdpartyasses.md]] : Priorities and principles for effective third party assessments
