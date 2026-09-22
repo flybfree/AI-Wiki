@@ -2994,3 +2994,5 @@ tags: ['wiki']
 - [[2026-09-22_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-22_MiMov2_6.md]] : MiMo v2.6
 - [[2026-09-22_AppleMusictoopenconcertvenueinBatterseaPowerStatio.md]] : Apple Music to open concert venue in Battersea Power Station
+- [[2026-09-22_Cangzipbealanguagemodel_.md]] : Can gzip be a language model?
+- [[2026-09-22_Study_Youngusers_9to18Y_ditchGoogleforAI_withunkno.md]] : Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
