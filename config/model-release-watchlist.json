@@ -1,0 +1,41 @@
+{
+  "description": "High-signal model releases that daily AI briefings must explicitly check.",
+  "updated": "2026-09-22",
+  "releases": [
+    {
+      "name": "Grok 4.7",
+      "aliases": ["Grok 4.7", "grok-4.7"],
+      "release_date": "2026-09-21",
+      "category": "frontier-general",
+      "source": "https://x.ai/news/grok-4-7"
+    },
+    {
+      "name": "MiMo-V2.5",
+      "aliases": ["MiMo-V2.5", "MiMo 2.5", "mimo-v2.5"],
+      "release_date": "2026-04-23",
+      "category": "open-multimodal",
+      "source": "https://mimo.mi.com/docs/en-US/news/latest/v2.5-open-sourced"
+    },
+    {
+      "name": "Jev",
+      "aliases": ["Jev", "System One Models", "OpenJev"],
+      "release_date": "2026-09-15",
+      "category": "structured-decision",
+      "source": "https://typesafe.ai/blog/introducing-system-one-models-and-jev"
+    },
+    {
+      "name": "YuE2",
+      "aliases": ["YuE2", "YuE2-3B", "Music with a Plan"],
+      "release_date": "2026-09-10",
+      "category": "open-music",
+      "source": "https://map-yue2.github.io/"
+    },
+    {
+      "name": "IFM K2 Horizon",
+      "aliases": ["IFM K2 Horizon", "K2 Horizon"],
+      "release_date": "2026-09-03",
+      "category": "fully-open-foundation-model-fleet",
+      "source": "https://ifm.ai/blog/k2"
+    }
+  ]
+}

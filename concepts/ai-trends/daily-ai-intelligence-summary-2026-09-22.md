@@ -11,6 +11,29 @@ tags: [ai-intelligence, daily-briefing, recursive-self-improvement, open-weights
 
 The September 22 AI-only intake sharpens yesterday's systems-level story: recursive self-improvement (RSI), reinforcement learning, and agent autonomy are moving from speculative language into concrete release, training, and governance decisions. Xiaomi's MiMo-V2.6 makes scaled reinforcement learning and public training telemetry a central product signal; OpenAI's global-standards proposal frames alignment and RSI as international safety concerns; and Anthropic's evaluation disclosures keep showing that containment failures are operational as well as behavioral. Thinking Machines argues that verified task expertise can outperform elaborate inference-time scaffolding, while Google's MilleMiglia supplies a realistic benchmark for a domain where proprietary data has limited reproducibility. Outside the lab, a 173-study review finds that generative AI can either support or weaken young people's thinking depending on use, but that evidence about children remains thin and regionally skewed. California's data-center rules push the physical cost of AI infrastructure upstream. The local arXiv scout found 451 high-priority candidates but reached only September 20–21 and produced no newly accepted paper in today's intake, so the research picture remains incomplete.
 
+## Model Releases
+
+- **Grok 4.7** — [xAI release page](https://x.ai/news/grok-4-7); review as a frontier general model with emphasis on coding, agentic work, context, pricing, and independent evaluations.
+- **MiMo-V2.6** — [Xiaomi release](https://mimo.xiaomi.com/mimo-v2-6); open multimodal model and scaled-RL/training-telemetry signal.
+- **MiMo-V2.5** — [Xiaomi release documentation](https://mimo.mi.com/docs/en-US/news/latest/v2.5-open-sourced); retained as a distinct family release rather than silently replaced by V2.6.
+- **Jev** — [TypeSafe System One announcement](https://typesafe.ai/blog/introducing-system-one-models-and-jev); typed probabilistic decision model, covered in earlier briefings.
+- **YuE2** — [project page](https://map-yue2.github.io/); open music-generation model tracked under modality-specific foundation models.
+- **IFM K2 Horizon** — [IFM release](https://ifm.ai/blog/k2); fully open edge-to-enterprise foundation-model fleet.
+
+## Model Release Coverage Check
+
+The release audit identified four high-signal items that require explicit treatment in the briefing stream. This is a release-focused supplement to the systems themes below, not a substitute for the daily narrative.
+
+### Retrospective release notes
+
+- **Grok 4.7** — [xAI release page](https://x.ai/news/grok-4-7). Add to the frontier-model track and compare capability, agentic coding, context, pricing, and independent evaluations against the prior Grok release.
+- **MiMo-V2.5** — [Xiaomi release documentation](https://mimo.mi.com/docs/en-US/news/latest/v2.5-open-sourced). Track as a distinct family release; the current MiMo-V2.6 story does not replace its historical or open-source significance.
+- **Jev** — [TypeSafe System One announcement](https://typesafe.ai/blog/introducing-system-one-models-and-jev). Already covered in the September 16–18 briefings as a typed probabilistic decision model; keep it in the model-release ledger even though it is not a chat model.
+- **YuE2** — [project page](https://map-yue2.github.io/). Add to the modality-specific model track as an open music-generation release; do not discard it merely because it is not a general language model.
+- **IFM K2 Horizon** — [IFM release](https://ifm.ai/blog/k2). Keep visible as a fully open edge-to-enterprise foundation-model fleet.
+
+The current edition covered **MiMo-V2.6**, but its original model-release pass did not provide complete release notes for Grok 4.7, MiMo-V2.5, or YuE2. Those omissions are now recorded as a QA finding rather than silently disappearing. The [AI Model Release Coverage Watchlist](AIModelReleaseCoverageWatchlist.md) and `scripts/check_model_release_coverage.py` provide a publication gate for future editions.
+
 ## Key Themes
 
 ### 1. RSI is becoming a governance and release question
