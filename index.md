@@ -117,7 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
-- [Summary: Daily AI Intelligence Briefing — 2026-09-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md) — embedded evaluation, staged open weights, cheaper agent economics, user-steerable AI products, local agent governance, and practical AI training
+- [Summary: Daily AI Intelligence Briefing — 2026-09-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md) — cheaper agent economics, containment and embedded evaluation, staged open weights, AI-for-science, consumer agents, AI-biotech translation, governance, and practical AI training
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]] — RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, agentic commerce, and the Meta Muse runtime disclosure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22 (canonical final)]] — canonical midnight publication; 0 target-date keeps and 0 uncovered carry-forward papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]] — evaluation operations, staged open weights, long-horizon collusion, agent infrastructure, local decision models, youth safety, platform authority, and incident coordination
@@ -3041,3 +3041,7 @@ tags: ['wiki']
 - [[2026-09-23_Ringg_sAIagentsresolveupto65_ofcustomercallswithOp.md]] : Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
 - [[2026-09-23_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
 - [[2026-09-23_ChatGPTmobileappgetsvoice-basedagenticfeatures.md]] : ChatGPT mobile app gets voice-based agentic features
+- [[2026-09-23_Anthropic__8217_sbiolabmadeadiscoveryit__8217_scom.md]] : Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr
+- [[2026-09-23_Meta_sAIagentisacutelittleguywho_sgreatatspendingm.md]] : Meta’s AI agent is a cute little guy who’s great at spending my money
+- [[2026-09-23_Envedasecures_311Mtobringmorenature-derivedAIdrugs.md]] : Enveda secures $311M to bring more nature-derived AI drugs into clinical trials
+- [[2026-09-23_BernieSandersproposesbanning_superintelligence_and.md]] : Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison
