@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-23 12:00] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md from the complete AI-only intake plus direct lab/news sweep; added Anthropic embedded evaluation, YouTube/YouTube Music/Spotify agentic interfaces, Claude Code AGENTS.md telemetry-gating analysis, OpenAI Academy, and Grab/OpenAI workforce training; event promotion excluded; arXiv scout reached 1,750 entries through September 22 with fetch failures and no paper promoted; Logseq mirror synchronized; GitHub commit and push required
+
 ## [2026-09-23 00:04] publish | 2026-09-22 canonical final briefing published; wiki and Logseq mirrors byte-identical; selected-paper count 0 equals briefing paper-link count 0; GitHub commit 28892110 pushed and origin/master verified; Lumistorm post 203 created at https://lumistorm.net/daily-ai-intelligence-2026-09-22/; REST, live cache-busted page, archive presence/order, published status, Daily AI Briefing category, source links, and raw-wiki-syntax checks passed
 ## [2026-09-23 00:00] finalize | concepts/ai-trends/daily-ai-intelligence-blog-2026-09-22.md created as the canonical final edition; complete local-time curation query returned 0 target-date keeps and 0 uncovered carry-forward papers after stable-identity normalization; final paper-link count 0 matches selected-paper count; wiki/Logseq mirror prepared; GitHub and Lumistorm publication verification follows
 
@@ -14180,3 +14182,10 @@ tags: ['wiki']
 ## [2026-09-23 06:00] summarize | canonical AI-only daily briefing created for 2026-09-23; included GPT-6 Sol/Luna and prompt caching, Claude Opus 5.5 and METR evaluation, Anthropic containment update, staged open weights, verifiable-reward RL, MilleMiglia, OpenAI math advisory group, and Jev; arXiv discovery remained deferred with no newly accepted paper
 
 ## [2026-09-23 06:22] ingest | 2026-09-23_GrabandOpenAIbringpracticalAIskillstoSoutheastAsia.md
+## [2026-09-23 08:17] ingest | 2026-09-23_ClaudeCodereadsAGENTS_mdonlywhentelemetryison.md
+## [2026-09-23 08:17] ingest | 2026-09-23_Spotify_sisgivingyouthekeystoitsrecommendationalgo.md
+## [2026-09-23 09:22] ingest | 2026-09-23_3dayslefttosaveupto_200andmakeimpactfulconnections.md
+## [2026-09-23 10:30] ingest | 2026-09-23_Sep18_2026AnnouncementsPartneringwithAccentureonem.md
+## [2026-09-23 10:30] ingest | 2026-09-23_TwoyearsofOpenAIAcademy.md
+## [2026-09-23 10:30] ingest | 2026-09-23_YouTubeMusicgetsmoreconversationalwithnewAIfeature.md
+## [2026-09-23 11:22] ingest | 2026-09-23_YouTubeisbuildingAIcreatortoolsthatdoalmosteveryth.md

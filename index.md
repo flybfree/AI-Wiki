@@ -117,6 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [Summary: Daily AI Intelligence Briefing — 2026-09-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md) — embedded evaluation, staged open weights, cheaper agent economics, user-steerable AI products, local agent governance, and practical AI training
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]] — RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, agentic commerce, and the Meta Muse runtime disclosure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22 (canonical final)]] — canonical midnight publication; 0 target-date keeps and 0 uncovered carry-forward papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]] — evaluation operations, staged open weights, long-horizon collusion, agent infrastructure, local decision models, youth safety, platform authority, and incident coordination
@@ -3030,3 +3031,10 @@ tags: ['wiki']
 - [[2026-09-23_OpenAIwantstoconsultelitemathematiciansabouthowton.md]] : OpenAI wants to consult elite mathematicians about how to not fumble again
 - [[2026-09-23_Jevin25LinesofPython.md]] : Jev in 25 Lines of Python
 - [[2026-09-23_GrabandOpenAIbringpracticalAIskillstoSoutheastAsia.md]] : Grab and OpenAI bring practical AI skills to Southeast Asia
+- [[2026-09-23_ClaudeCodereadsAGENTS_mdonlywhentelemetryison.md]] : Claude Code reads AGENTS.md only when telemetry is on
+- [[2026-09-23_Spotify_sisgivingyouthekeystoitsrecommendationalgo.md]] : Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’
+- [[2026-09-23_3dayslefttosaveupto_200andmakeimpactfulconnections.md]] : 3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026
+- [[2026-09-23_Sep18_2026AnnouncementsPartneringwithAccentureonem.md]] : Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation
+- [[2026-09-23_TwoyearsofOpenAIAcademy.md]] : Two years of OpenAI Academy
+- [[2026-09-23_YouTubeMusicgetsmoreconversationalwithnewAIfeature.md]] : YouTube Music gets more conversational with new AI features
+- [[2026-09-23_YouTubeisbuildingAIcreatortoolsthatdoalmosteveryth.md]] : YouTube is building AI creator tools that do almost everything for them
