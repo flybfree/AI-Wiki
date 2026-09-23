@@ -3017,3 +3017,4 @@ tags: ['wiki']
 - [[2026-09-22_Qualcommlaunchestwonewsmartphonechipswithemphasiso.md]] : Qualcomm launches two new smartphone chips with emphasis on AI
 - [[2026-09-22_SnorkelAItriplesvaluationto_3_5BasdemandforAItrain.md]] : Snorkel AI triples valuation to $3.5B as demand for AI training data booms
 - [[2026-09-22_Rabbit_snewAIagentdoesn_tneedanR1torun.md]] : Rabbit’s new AI agent doesn’t need an R1 to run
+- [[2026-09-22_OpenAIwantstoconsultelitemathematiciansabouthowton.md]] : OpenAI wants to consult elite mathematicians about how to not fumble again
