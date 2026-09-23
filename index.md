@@ -3020,3 +3020,11 @@ tags: ['wiki']
 - [[2026-09-22_Rabbit_snewAIagentdoesn_tneedanR1torun.md]] : Rabbit’s new AI agent doesn’t need an R1 to run
 - [[2026-09-22_OpenAIwantstoconsultelitemathematiciansabouthowton.md]] : OpenAI wants to consult elite mathematicians about how to not fumble again
 - [[2026-09-22_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md]] : Summary of METR's predeployment evaluation of Claude Opus 5.5
+- [[2026-09-23_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-23_BetterpromptcachingforGPT-6.md]] : Better prompt caching for GPT-6
+- [[2026-09-23_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-23_GPT-6SolandLuna.md]] : GPT-6 Sol and Luna
+- [[2026-09-23_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[2026-09-23_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md]] : Summary of METR's predeployment evaluation of Claude Opus 5.5
+- [[2026-09-23_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[2026-09-23_OpenAIwantstoconsultelitemathematiciansabouthowton.md]] : OpenAI wants to consult elite mathematicians about how to not fumble again
