@@ -85,6 +85,12 @@ The collected [Claude Code `AGENTS.md` analysis](https://www.0xkato.xyz/posts/cl
 
 **Why it matters:** adoption is increasingly measured by whether people can apply AI inside ordinary work, not merely whether they have model access. The next evidence should be retained skills, productivity or income changes, error rates, and whether training encourages verification instead of dependence.
 
+### 12. Confidential memory is becoming a deployment primitive
+
+Google DeepMind's same-day [secure-memory announcement](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/) describes an authenticated, end-to-end encrypted channel between a user's device and an isolated cloud environment so an AI system can use protected information without exposing it to ordinary service layers.
+
+**Why it matters:** persistent agents need memory, but memory creates a durable privacy and authorization surface. Encrypted transport is useful infrastructure, not a complete privacy guarantee: the relevant questions remain who can decrypt or query the memory, how retention and deletion work, how tool actions are audited, and whether users can export or revoke state.
+
 ## What Changed Today
 
 - GPT-6 Sol/Luna and Claude Opus 5.5 reinforced a market shift toward cost per completed workflow and sustained agent usage.
@@ -98,10 +104,11 @@ The collected [Claude Code `AGENTS.md` analysis](https://www.0xkato.xyz/posts/cl
 - OpenAI Academy and Grab/OpenAI added practical workforce training and community-trainer signals.
 - YouTube, YouTube Music, and Spotify moved conversational control deeper into creator and recommendation workflows.
 - The Claude Code `AGENTS.md` report exposed a local-governance failure mode tied to telemetry and remote flags; this remains independently unverified.
+- Google DeepMind added secure server-side memory as a concrete privacy-preserving architecture for persistent AI assistance.
 
 ## Classification
 
-- **Included:** GPT-6 Sol and Luna; GPT-6 prompt caching; Claude Opus 5.5 and METR's evaluation; Anthropic's alignment/security update and Accenture embedded evaluation; Thinking Machines' open-weights framework; Thinking Machines' Text-to-SQL RL report; Google's MilleMiglia; OpenAI's mathematician advisory-group report; Jev; OpenAI Academy; Grab/OpenAI workforce training; YouTube creator and media features; Spotify Taste Profile; and the Claude Code `AGENTS.md` analysis.
+- **Included:** GPT-6 Sol and Luna; GPT-6 prompt caching; Claude Opus 5.5 and METR's evaluation; Anthropic's alignment/security update and Accenture embedded evaluation; Thinking Machines' open-weights framework; Thinking Machines' Text-to-SQL RL report; Google's MilleMiglia and secure-memory architecture; OpenAI's mathematician advisory-group report; Jev; OpenAI Academy; Grab/OpenAI workforce training; YouTube creator and media features; Spotify Taste Profile; and the Claude Code `AGENTS.md` analysis.
 - **Excluded:** generic technology, maker, hobby, and non-AI business material not materially connected to AI capability, deployment, safety, or research.
 - **Deferred:** the large arXiv discovery set, pending paper-level review and recovery of incomplete query coverage.
 - **Evidence caution:** model benchmarks, pricing comparisons, and safety claims from vendors are reported claims unless independently validated. METR's Opus assessment is preliminary and notes limits on access and verification.
@@ -124,6 +131,7 @@ Today's corpus points to one implementation rule: **make capability cheaper only
 10. Whether YouTube's creator agent improves creator outcomes rather than only reducing effort or increasing platform optimization.
 11. Reproduction and official clarification of Claude Code's telemetry-gated `AGENTS.md` behavior.
 12. Outcome data from OpenAI Academy and GO Forward with AI beyond attendance and reach.
+13. Whether secure-memory designs expose deletion, revocation, export, and audit controls rather than only encrypted transport.
 
 ## Sources / References
 
@@ -145,6 +153,7 @@ Today's corpus points to one implementation rule: **make capability cheaper only
 - [Claude Code `AGENTS.md` analysis](https://www.0xkato.xyz/posts/claude-code-agents-md-telemetry/)
 - [OpenAI Academy — Two years](https://openai.com/index/openai-academy-two-years/)
 - [Grab and OpenAI — GO Forward with AI](https://www.grab.com/sg/press/others/grab-and-openai-bring-practical-ai-skills-to-southeast-asia/)
+- [Google DeepMind — Advancing confidential AI with secure memory](https://deepmind.google/blog/advancing-private-ai-compute-with-secure-server-side-memory/)
 - [Anthropic newsroom](https://www.anthropic.com/news)
 - [Google DeepMind newsroom](https://deepmind.google/blog/)
 
