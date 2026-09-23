@@ -3028,3 +3028,4 @@ tags: ['wiki']
 - [[2026-09-23_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md]] : Summary of METR's predeployment evaluation of Claude Opus 5.5
 - [[2026-09-23_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
 - [[2026-09-23_OpenAIwantstoconsultelitemathematiciansabouthowton.md]] : OpenAI wants to consult elite mathematicians about how to not fumble again
+- [[2026-09-23_Jevin25LinesofPython.md]] : Jev in 25 Lines of Python

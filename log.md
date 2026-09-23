@@ -14176,3 +14176,6 @@ tags: ['wiki']
 ## [2026-09-23 00:22] ingest | 2026-09-23_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md
 ## [2026-09-23 00:22] ingest | 2026-09-23_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md
 ## [2026-09-23 01:21] ingest | 2026-09-23_OpenAIwantstoconsultelitemathematiciansabouthowton.md
+## [2026-09-23 04:22] ingest | 2026-09-23_Jevin25LinesofPython.md
+## [2026-09-23 06:00] summarize | canonical AI-only daily briefing created for 2026-09-23; included GPT-6 Sol/Luna and prompt caching, Claude Opus 5.5 and METR evaluation, Anthropic containment update, staged open weights, verifiable-reward RL, MilleMiglia, OpenAI math advisory group, and Jev; arXiv discovery remained deferred with no newly accepted paper
+
