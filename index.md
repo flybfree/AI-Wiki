@@ -3038,3 +3038,6 @@ tags: ['wiki']
 - [[2026-09-23_TwoyearsofOpenAIAcademy.md]] : Two years of OpenAI Academy
 - [[2026-09-23_YouTubeMusicgetsmoreconversationalwithnewAIfeature.md]] : YouTube Music gets more conversational with new AI features
 - [[2026-09-23_YouTubeisbuildingAIcreatortoolsthatdoalmosteveryth.md]] : YouTube is building AI creator tools that do almost everything for them
+- [[2026-09-23_Ringg_sAIagentsresolveupto65_ofcustomercallswithOp.md]] : Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+- [[2026-09-23_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-09-23_ChatGPTmobileappgetsvoice-basedagenticfeatures.md]] : ChatGPT mobile app gets voice-based agentic features
