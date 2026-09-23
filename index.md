@@ -118,6 +118,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]] — RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, agentic commerce, and the Meta Muse runtime disclosure
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22 (canonical final)]] — canonical midnight publication; 0 target-date keeps and 0 uncovered carry-forward papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]] — evaluation operations, staged open weights, long-horizon collusion, agent infrastructure, local decision models, youth safety, platform authority, and incident coordination
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-20.md|Summary: Daily AI Intelligence Briefing — 2026-09-20]] — evaluation operations, staged open weights, verified task expertise, youth safety, privacy explainability, and realistic benchmarks
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-19.md|Summary: Daily AI Intelligence Briefing — 2026-09-19]] — evaluation operations, staged open weights, verified task expertise, youth safety, and realistic benchmarks
@@ -3018,3 +3019,4 @@ tags: ['wiki']
 - [[2026-09-22_SnorkelAItriplesvaluationto_3_5BasdemandforAItrain.md]] : Snorkel AI triples valuation to $3.5B as demand for AI training data booms
 - [[2026-09-22_Rabbit_snewAIagentdoesn_tneedanR1torun.md]] : Rabbit’s new AI agent doesn’t need an R1 to run
 - [[2026-09-22_OpenAIwantstoconsultelitemathematiciansabouthowton.md]] : OpenAI wants to consult elite mathematicians about how to not fumble again
+- [[2026-09-22_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md]] : Summary of METR's predeployment evaluation of Claude Opus 5.5
