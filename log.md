@@ -14197,3 +14197,7 @@ tags: ['wiki']
 ## [2026-09-23 15:13] ingest | 2026-09-23_Meta_sAIagentisacutelittleguywho_sgreatatspendingm.md
 ## [2026-09-23 15:13] ingest | 2026-09-23_Envedasecures_311Mtobringmorenature-derivedAIdrugs.md
 ## [2026-09-23 16:12] ingest | 2026-09-23_BernieSandersproposesbanning_superintelligence_and.md
+## [2026-09-23 18:16] ingest | 2026-09-23_Anthropicsaysitsbiologylabhasalreadyfoundsomething.md
+## [2026-09-23 19:18] ingest | 2026-09-23_MetaVRGlasses.md
+## [2026-09-23 19:18] ingest | 2026-09-23_MuseiscomingtoMetasmartglasses.md
+## [2026-09-23 19:18] ingest | 2026-09-23_Metaintroducescamera-freeAIglasses.md

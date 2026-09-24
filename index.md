@@ -3045,3 +3045,7 @@ tags: ['wiki']
 - [[2026-09-23_Meta_sAIagentisacutelittleguywho_sgreatatspendingm.md]] : Meta’s AI agent is a cute little guy who’s great at spending my money
 - [[2026-09-23_Envedasecures_311Mtobringmorenature-derivedAIdrugs.md]] : Enveda secures $311M to bring more nature-derived AI drugs into clinical trials
 - [[2026-09-23_BernieSandersproposesbanning_superintelligence_and.md]] : Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison
+- [[2026-09-23_Anthropicsaysitsbiologylabhasalreadyfoundsomething.md]] : Anthropic says its biology lab has already found something big
+- [[2026-09-23_MetaVRGlasses.md]] : Meta VR Glasses
+- [[2026-09-23_MuseiscomingtoMetasmartglasses.md]] : Muse is coming to Meta smart glasses
+- [[2026-09-23_Metaintroducescamera-freeAIglasses.md]] : Meta introduces camera-free AI glasses
