@@ -2875,3 +2875,5 @@ tags: ['wiki']
 - [[2026-09-24_AustraliatoinvestigateifOpenAIhackofgovernmentheal.md]] : Australia to investigate if OpenAI hack of government health website broke the law
 - [[2026-09-24_Meta_sMuseAICharmscaninteractwitheachother.md]] : Meta’s Muse AI Charms can interact with each other
 - [[2026-09-24_2dayslefttosaveupto_200onaTechCrunchDisrupt2026pas.md]] : 2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend
+- [[2026-09-24_ThePope_sAIGuyIsWorriedAbout_Cartel_BehaviorAmongB.md]] : The Pope's AI Guy Is Worried About 'Cartel' Behavior Among Big Labs | WIRED
+- [[2026-09-24_Whycan_twejustkeeprogueAIsofftheinternet_.md]] : Why can’t we just keep rogue AIs off the internet?
