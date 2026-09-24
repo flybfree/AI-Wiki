@@ -2878,3 +2878,7 @@ tags: ['wiki']
 - [[2026-09-24_ThePope_sAIGuyIsWorriedAbout_Cartel_BehaviorAmongB.md]] : The Pope's AI Guy Is Worried About 'Cartel' Behavior Among Big Labs | WIRED
 - [[2026-09-24_Whycan_twejustkeeprogueAIsofftheinternet_.md]] : Why can’t we just keep rogue AIs off the internet?
 - [[2026-09-24_Geminicannowcallbusinessesforyousoyoudon_thavetowa.md]] : Gemini can now call businesses for you so you don’t have to wait on hold
+- [[2026-09-24_It_ssinisterthatMeta_sMuseAImascotissocute.md]] : It’s sinister that Meta’s Muse AI mascot is so cute
+- [[2026-09-24_GooglePhotos_Clueless_-inspiredvirtualclosetisnowa.md]] : Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS
+- [[2026-09-24_OraclesendsforcemajeurenoticeonitsNewMexicoStargat.md]] : Oracle sends force majeure notice on its New Mexico Stargate data center
+- [[2026-09-24_MetaisgoingtoletyoubuildgameswithAIrightonyourphon.md]] : Meta is going to let you build games with AI right on your phone
