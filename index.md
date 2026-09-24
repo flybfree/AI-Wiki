@@ -2882,3 +2882,8 @@ tags: ['wiki']
 - [[2026-09-24_GooglePhotos_Clueless_-inspiredvirtualclosetisnowa.md]] : Google Photos ‘Clueless’-inspired virtual closet is now available on Android and iOS
 - [[2026-09-24_OraclesendsforcemajeurenoticeonitsNewMexicoStargat.md]] : Oracle sends force majeure notice on its New Mexico Stargate data center
 - [[2026-09-24_MetaisgoingtoletyoubuildgameswithAIrightonyourphon.md]] : Meta is going to let you build games with AI right on your phone
+- [[2026-09-24_JensenHuangtalksaboutAIandclimatechangelikeasuperv.md]] : Jensen Huang talks about AI and climate change like a supervillain
+- [[2026-09-24_PrismMLbringsitstinyLLMstoQualcomm-poweredsmartgla.md]] : PrismML brings its tiny LLMs to Qualcomm-powered smart glasses
+- [[2026-09-24_Bringyourco-founder_partner_orcolleagueandget50_of.md]] : Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass
+- [[2026-09-24_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
+- [[2026-09-24_Gemini3_8LivewithLiveAvatargivesGoogle__8217_sAIaf.md]] : Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face
