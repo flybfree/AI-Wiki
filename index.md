@@ -3054,3 +3054,12 @@ tags: ['wiki']
 - [[2026-09-23_EverythingnewcomingtoMeta_sAIagentMuse.md]] : Everything new coming to Meta’s AI agent Muse
 - [[2026-09-23_LinuxsupportiscomingtoSnapdragonX2Series.md]] : Linux support is coming to Snapdragon X2 Series
 - [[2026-09-23_NewCarolinaCatalystFundprioritizesAIresearch-TheDa.md]] : New Carolina Catalyst Fund prioritizes AI research - The Daily Tar Heel
+- [[2026-09-24_LinuxsupportiscomingtoSnapdragonX2Series.md]] : Linux support is coming to Snapdragon X2 Series
+- [[2026-09-24_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-24_EverythingnewcomingtoMeta_sAIagentMuse.md]] : Everything new coming to Meta’s AI agent Muse
+- [[2026-09-24_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-24_MetaismakingastandaloneMuseAIgadget.md]] : Meta is making a standalone Muse AI gadget
+- [[2026-09-24_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-09-24_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[2026-09-24_TwoyearsofOpenAIAcademy.md]] : Two years of OpenAI Academy
+- [[2026-09-24_NewCarolinaCatalystFundprioritizesAIresearch-TheDa.md]] : New Carolina Catalyst Fund prioritizes AI research - The Daily Tar Heel
