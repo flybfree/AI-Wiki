@@ -72,7 +72,7 @@ The core training philosophy is that **SFT builds a broad solution space (the "s
 - GitHub (training code): [WeiboAI/VibeThinker](https://github.com/WeiboAI/VibeThinker)
 - VentureBeat coverage: [Weibo's VibeThinker-1.5B outperforms DeepSeek-R1 with $7800 post-training budget](https://venturebeat.com/ai/weibos-new-open-source-ai-model-vibethinker-1-5b-outperforms-deepseek-r1-on)
 
-[[VibeThinker: Small-Model Verifiable Reasoning from Sina Weibo]]
+[[papers/2026-06-20_VibeThinker_SmallModelReasoningWeibo_summary.md|VibeThinker: Small-Model Verifiable Reasoning from Sina Weibo]]
 
 ## Related Concepts
 

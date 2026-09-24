@@ -126,7 +126,7 @@ Examples:
 - Keep titles unique enough to avoid Logseq collisions.
 - Preserve the same content structure as the source wiki where possible.
 - Use the mirror for fast graph navigation and assistant retrieval.
-- See also: [[wiki-usage-cheat-sheet]]
+- See also: [[concepts/knowledge-management/wiki-usage-cheat-sheet.md]]
 
 ## What I should optimize for
 

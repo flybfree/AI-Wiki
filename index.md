@@ -2872,3 +2872,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-24_EarlyrogueAIagentactivityandattemptstohackfoundonu.md]] : Early rogue AI agent activity and attempts to hack found on urlquery.net
 - [[raw/articles/2026-09-24_NokiaDesignArchive_2025_.md]] : Nokia Design Archive (2025)
 - [[raw/articles/2026-09-24_Gemini4isalmostready_saysnewGoogleDeepMindchief.md]] : Gemini 4 is almost ready, says new Google DeepMind chief
+- [[2026-09-24_AustraliatoinvestigateifOpenAIhackofgovernmentheal.md]] : Australia to investigate if OpenAI hack of government health website broke the law
+- [[2026-09-24_Meta_sMuseAICharmscaninteractwitheachother.md]] : Meta’s Muse AI Charms can interact with each other
+- [[2026-09-24_2dayslefttosaveupto_200onaTechCrunchDisrupt2026pas.md]] : 2 days left to save up to $200 on a TechCrunch Disrupt 2026 pass — reason 4 of 5 to attend

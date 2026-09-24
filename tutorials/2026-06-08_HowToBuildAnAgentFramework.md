@@ -734,9 +734,9 @@ Once you have a working agent, consider these improvements:
 
 ## Cross-References
 
-- [[2026-06-08_BuildingEffectiveAgents_Anthropic]] -- Anthropic's principles and patterns
-- [[2026-05-09_AutonomousAgentFrameworks]] -- Framework comparison (AutoGen, CrewAI, LangGraph, DSPy)
-- [[2026-05-09_AgentArchitectureEvolution]] -- Architecture timeline (CoT -> ReAct -> Multi-Agent)
-- [[Code as Agent Harness paper]] (2605.18747) -- Code as the operational substrate for agents
-- [[Is Grep All You Need?]] (2605.15184) -- How retrieval strategy interacts with agent architecture
+- [[concepts/principles/2026-06-08_BuildingEffectiveAgents_Anthropic.md]] -- Anthropic's principles and patterns
+- [[concepts/frameworks/2026-05-09_AutonomousAgentFrameworks.md]] -- Framework comparison (AutoGen, CrewAI, LangGraph, DSPy)
+- [[concepts/architecture/2026-05-09_AgentArchitectureEvolution.md]] -- Architecture timeline (CoT -> ReAct -> Multi-Agent)
+- [[raw/papers/2026-05-18_17-59-03Z_CodeasAgentHarness.md]] (2605.18747) -- Code as the operational substrate for agents
+- [[raw/papers/2026-05-14_17-58-41Z_IsGrepAllYouNeed_HowAgentHarnessesReshapeAgenticSe.md]] (2605.15184) -- How retrieval strategy interacts with agent architecture
 - Lesson 13: Agents and Agentic Workflows -- Concept-first overview for learners

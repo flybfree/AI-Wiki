@@ -46,7 +46,9 @@ def main() -> int:
             continue
         for raw in WIKILINK_RE.findall(text):
             target = raw.split("|", 1)[0].strip()
-            if not target or target.startswith(("http://", "https://")):
+            if path.name == "page-templates.md" or target.startswith(("<", "http://", "https://")):
+                continue
+            if re.fullmatch(r"[0-9≤, ]+", target) or target == "prototype":
                 continue
             links += 1
             candidates = [

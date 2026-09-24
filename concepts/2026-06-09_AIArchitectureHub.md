@@ -18,8 +18,8 @@ This hub organizes content related to AI system architecture — from ML pipelin
 ## Key Concepts
 
 - [[concepts/principles/2026-06-08_BuildingEffectiveAgents_Anthropic.md|Building Effective Agents]]
-- [[Agent Architecture Evolution (ReAct → ToT → Reflexion → Multi-Agent)|Agent Architecture Evolution]]
-- [[Autonomous Agent Frameworks|Autonomous Agent Frameworks]]
+- [[concepts/architecture/2026-05-09_AgentArchitectureEvolution.md|Agent Architecture Evolution]]
+- [[concepts/frameworks/2026-05-09_AutonomousAgentFrameworks.md|Autonomous Agent Frameworks]]
 - [[papers/2026-05-09_131500Z_ReAct_SynergizingReasoningAndActingInLanguageModels.md|ReAct: Reasoning + Acting]]
 
 ## Related Entity Articles

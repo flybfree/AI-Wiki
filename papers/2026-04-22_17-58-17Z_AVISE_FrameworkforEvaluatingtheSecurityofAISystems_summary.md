@@ -39,7 +39,7 @@ An extensible evaluation framework can make AI security testing more reproducibl
 - Published: 2026-04-22T17:58:17Z
 - Source file: /home/rich/wiki/ai-research/raw/papers/2026-04-22_17-58-17Z_AVISE_FrameworkforEvaluatingtheSecurityofAISystems.md
 
-[[AVISE: Framework for Evaluating the Security of AI Systems]]
+[[raw/papers/2026-04-22_17-58-17Z_AVISE_FrameworkforEvaluatingtheSecurityofAISystems.md]]
 
 ## Related Concepts
 

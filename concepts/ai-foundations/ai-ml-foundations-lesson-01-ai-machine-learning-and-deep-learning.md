@@ -229,7 +229,7 @@ Answer these in your own words:
 
 ## Suggested follow-up reading
 
-- [[1950-turing-computing-machinery-and-intelligence|Computing Machinery and Intelligence (Turing, 1950)]]
+- [[raw/papers/1950-turing-computing-machinery-and-intelligence.md|Computing Machinery and Intelligence (Turing, 1950)]]
 - /home/rich/wiki/ai-research/raw/articles/2026-04-28_Generative_AI_-_Wikipedia.md
 - /home/rich/wiki/ai-research/raw/articles/2026-05-06_MachineLearningArchitecture_WhatItIs_Components_Ty.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu.md

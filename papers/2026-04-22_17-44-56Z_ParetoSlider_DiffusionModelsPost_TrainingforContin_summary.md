@@ -34,7 +34,7 @@ A single preference-conditioned diffusion model can support multiple quality tra
 - URL: http://arxiv.org/abs/2604.20816v1
 - Published: 2026-04-22T17:44:56Z
 
-[[ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control]]
+[[raw/papers/2026-04-22_17-44-56Z_ParetoSlider_DiffusionModelsPost_TrainingforContin.md]]
 
 ## Related Concepts
 

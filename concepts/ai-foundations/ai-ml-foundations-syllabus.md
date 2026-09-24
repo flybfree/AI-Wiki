@@ -81,7 +81,7 @@ Primary sources:
 - /home/rich/wiki/ai-research/raw/articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu.md
 
 Key papers:
-- [[1950-turing-computing-machinery-and-intelligence|Computing Machinery and Intelligence (Turing, 1950)]] — the paper that asked "Can machines think?" and replaced it with "Can machines act intelligently?" via the imitation game
+- [[raw/papers/1950-turing-computing-machinery-and-intelligence.md|Computing Machinery and Intelligence (Turing, 1950)]] — the paper that asked "Can machines think?" and replaced it with "Can machines act intelligently?" via the imitation game
 
 ### 2. How an ML System Works
 Goal:
@@ -141,7 +141,7 @@ Primary sources:
 - /home/rich/wiki/ai-research/raw/articles/2026-04-29_Top_Machine_Learning_Architectures_Explained_-_BMC.md
 
 Key papers:
-- [[2026-05-09_1502.03167-batch-normalization|Batch Normalization (Ioffe & Szegedy, 2015)]] — the normalization trick that enables training deep networks
+- [[raw/summaries/SUMMARY_PAPER_2026-05-09_1502.03167-batch-normalization.md|Batch Normalization (Ioffe & Szegedy, 2015)]] — the normalization trick that enables training deep networks
 
 ### 7. Convolutional Networks for Vision
 Goal:
@@ -156,7 +156,7 @@ Primary sources:
 - /home/rich/wiki/ai-research/ilya-sutskever-reading-list.md
 
 Key papers:
-- [[2026-05-09_1409.1556-alexnet|AlexNet (Krizhevsky, Sutskever & Hinton, 2012)]] — the network that proved deep CNNs could dominate image classification
+- [[raw/summaries/SUMMARY_PAPER_2026-05-09_1409.1556-alexnet-very-deep-cnn.md|AlexNet (Krizhevsky, Sutskever & Hinton, 2012)]] — the network that proved deep CNNs could dominate image classification
 
 ### 8. Recurrent Networks and LSTMs
 Goal:

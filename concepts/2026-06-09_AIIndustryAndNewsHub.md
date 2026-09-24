@@ -19,8 +19,8 @@ This hub organizes AI industry news, model releases, market analysis, and breakt
 
 ## Latest AI News
 
-- [[Nine Breakthroughs Made Possible by AI|Nine Breakthroughs Made Possible by AI]]
-- [[Artificial Intelligence News -- ScienceDaily|AI News — Science Daily]]
+- [[entities/article/2026-07-18_NineBreakthroughsMadePossiblebyAI_summary.md|Nine Breakthroughs Made Possible by AI]]
+- [[entities/article/2026-07-17_ArtificialIntelligenceNews--ScienceDaily_summary.md|AI News — Science Daily]]
 
 ## Model Releases & Benchmarks
 

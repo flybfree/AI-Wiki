@@ -23,13 +23,13 @@ This hub organizes content related to large language models, their architectures
 
 ## Key Papers
 
-- [[Attention Is All You Need]]
+- [[raw/papers/2026-05-09_1706.03762-attention-is-all-you-need.md]]
 - [[raw/papers/2026-05-09_1512.03385-deep-residual-learning-resnet.md|Deep Residual Learning]]
 - [[raw/papers/2026-05-09_1406.2661-generative-adversarial-networks.md|Generative Adversarial Networks]]
 - [[raw/papers/2026-05-09_1701.06538-mixture-of-experts-moe.md|Mixture of Experts]]
 - [[raw/papers/2026-05-09_2203.15556-chinchilla-compute-optimal.md|Chinchilla: Compute-Optimal Scaling]]
 - [[raw/papers/2026-05-09_2005.14165-language-models-are-few-shot-learners.md|GPT-3: Language Models are Few-Shot Learners]]
-- [[Scaling Laws for Neural Language Models|Scaling Laws for Neural Language Models]]
+- [[raw/papers/2026-05-09_2001.08361-scaling-laws-for-neural-language-models.md|Scaling Laws for Neural Language Models]]
 - [[raw/papers/2026-05-09_1502.03167-batch-normalization.md|Batch Normalization]]
 - [[raw/papers/2026-05-09_1409.1556-alexnet-very-deep-cnn.md|AlexNet: Very Deep CNN]]
 - [[raw/papers/2026-05-09_1810.04805-bert-pre-training-bidirectional-transformers.md|BERT]]
@@ -52,11 +52,10 @@ This hub organizes content related to large language models, their architectures
 
 ## Local-Use Open Source
 
-- [[The Best Open-Source LLMs in 2026|Best Open-Source LLMs in 2026]]
-- [[Top 7 open source LLMs for 2026|Top 7 Open-Source LLMs for 2026]]
-- [[Top 7 open source LLMs for 2026 - NetApp Instaclustr|Top 7 Open-Source LLMs for 2026]]
+- Best Open-Source LLMs in 2026
+- [[entities/article/2026-07-14_Top7opensourceLLMsfor2026_summary.md|Top 7 Open-Source LLMs for 2026]]
+- [[entities/article/2026-07-14_Top7opensourceLLMsfor2026_summary.md|Top 7 Open-Source LLMs for 2026 — NetApp Instaclustr]]
 
 ## Summary / Article Links
 
 - [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-09-16]]
-

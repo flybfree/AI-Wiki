@@ -157,6 +157,6 @@ This entry maps the full evolution of agent reasoning architectures, from early 
 7. **Multi-agent frameworks** = production-ready patterns for complex workflows
 
 ## Cross-References
-- ReAct paper: [[ReAct: Synergizing Reasoning and Acting in Language Models]]
+- ReAct paper: [[papers/2026-05-09_131500Z_ReAct_SynergizingReasoningAndActingInLanguageModels.md]]
 - LLM-Agent-Survey (2308.11432)
 - CourseDesigner Lesson 13: Agents and Agentic Workflows
