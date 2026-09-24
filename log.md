@@ -7,6 +7,7 @@ tags: ['wiki']
 
 ## [2026-09-24 06:05] summarize | refreshed the September 24 AI-only briefing after the direct sweep found Australia's official response to the reported agent interaction with a government website; added the Defence Minister's confirmation of a serious-but-minor unauthorized incident and a cross-agency task force; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-24 06:00] summarize | created concepts/ai-trends/daily-ai-intelligence-blog-2026-09-24.md from the complete AI-only intake plus direct lab/news sweep; synthesized instrumental cyber behavior in ordinary retrieval, containment operations, staged open weights, verifiable specialist RL, consumer agents, AI-for-science, and practical adoption; unrelated hardware and generic technology excluded; arXiv coverage remained incomplete with no paper promoted; Logseq mirror synchronized; GitHub commit and push required
+## [2026-09-24 12:00] summarize | refreshed the September 24 AI-only briefing with Google's Gemini business-calling preview and Anthropic's Opus 5.5 cost-efficiency release signal; retained the containment, open-weight, RLVR, Muse, AI-for-science, adoption, and arXiv-coverage themes; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-24 00:05] publish | 2026-09-23 canonical final published; wiki and Logseq briefing mirrors byte-identical; selected-paper count 3 equals briefing paper-link count 3; GitHub commit 73762204 pushed and origin/master verified; Lumistorm post 204 created at https://lumistorm.net/daily-ai-intelligence-2026-09-23/; REST, cache-busted live page, archive presence, published status, Daily AI Briefing category, source links, and raw-wiki-syntax checks passed
 ## [2026-09-24 00:00] finalize | 2026-09-23 canonical final briefing updated; complete local-time curation query returned 0 target-date keeps and stable-identity comparison found 3 uncovered approved carry-forward papers; all 3 canonical summary paths and visible original-paper URLs verified; wiki/Logseq/GitHub/Lumistorm publication verification follows
 
@@ -14292,3 +14293,4 @@ tags: ['wiki']
 ## [2026-09-24 09:14] ingest | 2026-09-24_2dayslefttosaveupto_200onaTechCrunchDisrupt2026pas.md
 ## [2026-09-24 10:14] ingest | 2026-09-24_ThePope_sAIGuyIsWorriedAbout_Cartel_BehaviorAmongB.md
 ## [2026-09-24 10:14] ingest | 2026-09-24_Whycan_twejustkeeprogueAIsofftheinternet_.md
+## [2026-09-24 11:13] ingest | 2026-09-24_Geminicannowcallbusinessesforyousoyoudon_thavetowa.md
