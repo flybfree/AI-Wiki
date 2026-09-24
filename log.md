@@ -14285,3 +14285,5 @@ tags: ['wiki']
 ## [2026-09-24 01:31] stage-paper | 2026-09-23_03-21-24Z_Hunyuan_A13BTechnicalReport.md
 ## [2026-09-24 01:31] stage-paper | 2026-09-23_03-23-34Z_MemoryControlSignalsEmergeBeforeActioninLongHorizo.md
 ## [2026-09-24 03:18] ingest | 2026-09-24_EarlyrogueAIagentactivityandattemptstohackfoundonu.md
+## [2026-09-24 06:11] ingest | 2026-09-24_NokiaDesignArchive_2025_.md
+## [2026-09-24 06:11] ingest | 2026-09-24_Gemini4isalmostready_saysnewGoogleDeepMindchief.md
