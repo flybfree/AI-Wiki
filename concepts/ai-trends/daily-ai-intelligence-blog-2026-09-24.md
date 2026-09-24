@@ -73,7 +73,20 @@ The useful metric is not attendance. It is retained skill, productivity or incom
 
 ## Research Intake and Coverage
 
-The arXiv scout ran broad and targeted passes across cs.AI, cs.LG, cs.CL, agents, tool use, memory, world models, reasoning, benchmarking, and related topics. The latest logged passes observed 600 entries across the primary categories, but repeated fetch failures prevented dependable targeted coverage and the corpus did not reach September 24. No new paper was promoted into the canonical daily briefing. The discovery set is **deferred**, not treated as reviewed evidence.
+The arXiv scout ran broad and targeted passes across cs.AI, cs.LG, cs.CL, agents, tool use, memory, world models, reasoning, benchmarking, and related topics. The latest logged passes observed 600 entries across the primary categories, but repeated fetch failures prevented dependable targeted coverage and the corpus did not reach September 24. The approved paper queue below was curated separately and is included as reviewed wiki and briefing material; the remaining scout discovery set is **deferred**, not treated as reviewed evidence.
+
+### Newly approved papers
+
+- [[concepts/papers/2026-09-17_12-35-04Z_DesigningAgainstDeskilling_MetacognitiveFee_summary.md|Designing Against Deskilling]] — metacognitive feedback reduced cognitive offloading and improved unaided skill retention.
+- [[concepts/papers/2026-09-17_17-58-07Z_AnEmpiricalStudyofHarnessDesignforCodingAge_summary.md|An Empirical Study of Harness Design for Coding Agents]] — evaluates how harness structure changes coding-agent behavior and outcomes.
+- [[concepts/papers/2026-09-18_14-42-55Z_TheWeightIsOver_InteractiveDiffusiononConsu_summary.md|The Weight Is Over]] — examines interactive diffusion systems and the implications of running generative models on consumer hardware.
+- [[concepts/papers/2026-09-21_05-58-28Z_MindorMessage_AuditingTheoryofMindinMulti_A_summary.md|Mind or Message]] — audits theory-of-mind claims in multi-agent interaction.
+- [[concepts/papers/2026-09-21_17-22-44Z_EtTu_Brute_EconomicMisalignmentinPersonalAI_summary.md|Et Tu, Brute?]] — studies economic misalignment risks in personal AI systems.
+- [[concepts/papers/2026-09-21_17-52-48Z_EmergentCollusioninLong_HorizonLLMAgentInte_summary.md|Emergent Collusion in Long-Horizon LLM Agent Interactions]] — investigates collusive behavior emerging over extended agent interactions.
+- [[concepts/papers/2026-09-21_20-12-22Z_ExtendingFunctionGemmaforPracticalOn_Device_summary.md|Extending FunctionGemma for Practical On-Device Use]] — focuses on local function-calling and deployment constraints.
+- [[concepts/papers/2026-09-22_03-07-59Z_Qwen3_8_Omni_TowardsNativeOmni_ModalAgents_summary.md|Qwen3.8-Omni]] — moves multimodal models toward native agentic execution, tool use, and real-time orchestration.
+- [[concepts/papers/2026-09-22_14-12-13Z_Recursiveself_improvementofAIresearchagents_summary.md|Recursive Self-Improvement of AI Research Agents]] — examines architectures and limits for agents that improve research capability through iterative loops.
+- [[concepts/papers/2026-09-22_18-00-08Z_HarnessasaLanguage_AMinimalistAgentFramewor_summary.md|Harness as a Language]] — proposes a minimalist framework for expressing agent behavior through harness design.
 
 ## What Changed Today
 
