@@ -233,4 +233,4 @@ Answer these in your own words:
 - /home/rich/wiki/ai-research/raw/articles/2026-04-28_Generative_AI_-_Wikipedia.md
 - /home/rich/wiki/ai-research/raw/articles/2026-05-06_MachineLearningArchitecture_WhatItIs_Components_Ty.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu.md
-- /home/rich/wiki/ai-research/ai-ml-foundations-syllabus.md
+- concepts/ai-foundations/ai-ml-foundations-syllabus.md

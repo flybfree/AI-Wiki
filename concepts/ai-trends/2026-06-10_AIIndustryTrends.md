@@ -50,8 +50,6 @@ This page tracks the broader AI industry trend layer: funding, regulation, adopt
 
 ## Source Articles
 
-- [[2026-04-25_AIinApril2026_BiggestBreakthroughs_Models_Industry_article.md]]
-- [[2026-04-29_GenerativeAIrecentnews-AIBusiness_summary.md]]
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]]
 
 ## Related navigation

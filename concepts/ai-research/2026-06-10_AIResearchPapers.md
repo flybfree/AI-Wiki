@@ -64,5 +64,5 @@ Placeholder summary — please add a concise summary.
 
 ## Source Articles
 
-- [[2026-06-10_Lesson9_SmolAgentsDeepDive.md]]
-- [[2026-06-10_Lesson10_DiffusionGemma.md]]
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson9_SmolAgentsDeepDive.md]]
+- [[concepts/self-improving-ai-loops/2026-06-10_Lesson10_DiffusionGemma.md]]

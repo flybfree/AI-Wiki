@@ -26,9 +26,9 @@ Each lesson page links to the previous and next lesson, so the course can be rea
 - [[concepts/ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]] — 1 title term overlap; shared tags: foundations, machinelearning; 2 backlinks
 
 ## Quick links
-- [[ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
-- [[ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]]
-- [[ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]]
+- [[concepts/ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
+- [[concepts/ai-foundations/ai-ml-foundations-course-map.md|AI/ML Foundations Course Map]]
+- [[concepts/ai-foundations/ai-ml-foundations-edit-plan.md|AI/ML Foundations Edit Plan]]
 
 ## Companion resources
 - [Lumistorm Educational Resources](https://lumistorm.net/educational-resources/) — a public-facing companion page that points readers into the AI/ML Foundations track

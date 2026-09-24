@@ -29,7 +29,7 @@ Placeholder summary — please add a concise summary.
 
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
-- Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
+- Landing page: [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
 - Next: [[ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]]
 
 
@@ -187,4 +187,4 @@ Answer these in your own words:
 - /home/rich/wiki/ai-research/raw/articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu.md
 - /home/rich/wiki/ai-research/ilya-sutskever-reading-list-study-order.md
 - /home/rich/wiki/ai-research/ilya-sutskever-reading-list.md
-- /home/rich/wiki/ai-research/ai-ml-foundations-syllabus.md
+- concepts/ai-foundations/ai-ml-foundations-syllabus.md

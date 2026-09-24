@@ -52,5 +52,5 @@ Overall, Eco3S provides a validated tool for policymakers to explore trade‑off
 
 ## Semantic links
 - [[concepts/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiv_summary.md|Summary: 2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiveAgents.md]] — 3 title terms overlap; 2 backlinks; 7 summary/topic terms overlap
-- [[concepts/papers/2026-07-31_15-13-32Z_Ordered_to_disorderedtransferlearningwithgr_20260803_0952_summary.md|Summary: 2026-07-31_15-13-32Z_Ordered_to_disorderedtransferlearningwithgraphneur.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.26
-- [[concepts/papers/2026-07-31_15-13-32Z_Ordered_to_disorderedtransferlearningwithgr_20260803_0956_summary.md|Summary: 2026-07-31_15-13-32Z_Ordered_to_disorderedtransferlearningwithgraphneur.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.26
+- Summary: 2026-07-31_15-13-32Z_Ordered_to_disorderedtransferlearningwithgraphneur.md — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.26
+- Summary: 2026-07-31_15-13-32Z_Ordered_to_disorderedtransferlearningwithgraphneur.md — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.26

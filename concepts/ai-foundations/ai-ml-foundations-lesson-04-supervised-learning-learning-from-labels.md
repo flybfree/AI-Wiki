@@ -29,7 +29,7 @@ Placeholder summary — please add a concise summary.
 
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-03-data-as-the-foundation-of-learning.md|Lesson 3: Data as the Foundation of Learning]]
-- Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
+- Landing page: [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
 - Next: [[ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]]
 
 
@@ -113,7 +113,7 @@ An anomaly is something unusual enough to stand out from the rest of the data. I
 
 The key practical difference is that supervised learning is best when you know what you want to predict, while unsupervised learning is best when you want to explore the data and discover structure before you know the labels. The two approaches often work together: you may explore data with unsupervised methods first, then create labels and switch to supervised learning later.
 
-For a fuller explanation, see Lesson 5: /home/rich/wiki/ai-research/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md.
+For a fuller explanation, see Lesson 5: concepts/ai-foundations/ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md.
 
 ## 6) Supervised learning is only as good as the labels
 
@@ -175,4 +175,4 @@ Answer these in your own words:
 - /home/rich/wiki/ai-research/raw/articles/2026-05-06_MachineLearningArchitecture_WhatItIs_Components_Ty.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-29_Top_Machine_Learning_Architectures_Explained_-_BMC.md
-- /home/rich/wiki/ai-research/ai-ml-foundations-syllabus.md
+- concepts/ai-foundations/ai-ml-foundations-syllabus.md

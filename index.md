@@ -280,1191 +280,1002 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
-- [[2026-08-08_15-28-45Z_QuantizationDegradationinLargeLanguageModels_ASign.md]] : Quantization Degradation in Large Language Models: A Signal-Noise Perspective
-- [[2026-07-21_09-45-34Z_DocAtlas_Long_DocumentUnderstandingasMutable_State.md]] : DocAtlas: Long-Document Understanding as Mutable-State Interaction
-- [[2026-08-08_09-05-10Z_LegalResponsibilitiesUsingAutonomousAgentsForArtif.md]] : Legal Responsibilities Using Autonomous Agents For Artificial Intelligence
-- [[2026-08-08_11-58-56Z_RotaryQuant_Fitting120BMoEModelsonConsumerHardware.md]] : RotaryQuant: Fitting 120B MoE Models on Consumer Hardware via Fused Compressed-Space Attention
-- [[2026-08-08_16-13-38Z_HarmfulContentIsNotEnough_ContinuationFramingModer.md]] : Harmful Content Is Not Enough: Continuation Framing Moderates In-Context Emergent Misalignment
-- [[2026-08-10_06-16-24Z_SwiftQK_FastandCommunication_EfficientTensorParall.md]] : SwiftQK: Fast and Communication-Efficient Tensor Parallelism for Query-Key Normalization
-- [[2026-08-07_16-46-44Z_MendelGödelMachine_RecursiveSelf_ImprovingCodingAg.md]] : Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution
-- [[2026-08-09_11-54-09Z_TheScaffoldingMattersMoreThantheInterface_AControl.md]] : The Scaffolding Matters More Than the Interface: A Controlled Comparison of MCP and CLI Tool Use Across Seven Agent Scaffoldings, Five Language Models, and One Software Task
-- [[2026-08-08_03-22-31Z_ReasonWide_NotDeep_AmortizingtheReasoningPremiumin.md]] : Reason Wide, Not Deep: Amortizing the Reasoning Premium into Distilled Skills
-- [[2026-08-09_04-31-05Z_Yesterday_sShield_Today_sSpear_ASelf_EvolvingSafet.md]] : Yesterday's Shield, Today's Spear: A Self-Evolving Safety Guardrail in Production
-- [[2026-08-08_09-34-22Z_DoAllLLMsKnowWhenThey_reBeingHarmful_AReproducibil.md]] : Do All LLMs Know When They're Being Harmful? A Reproducibility Study of Latent-Space Safety Probes Across Model Families
-- [[2026-08-10_14-10-25Z_RethinkingSelf_EvolvingAgents_DoWeStillNeedPrescri.md]] : Rethinking Self-Evolving Agents: Do We Still Need Prescribed Optimization Pipelines?
-- [[2026-08-07_14-56-12Z_SameAttention_DifferentTruths_PutLogit_LensoverVis.md]] : Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination
-- [[2026-08-06_22-34-20Z_RetrofittingLinearAttentionintoDiffusionLanguageMo.md]] : Retrofitting Linear Attention into Diffusion Language Models
-- [[2026-08-06_20-22-21Z_QuantizationDamageIsMultiplicative_NotAdditive.md]] : Quantization Damage Is Multiplicative, Not Additive
-- [[2026-08-07_09-11-45Z_BeyondFoundationModels_Dimension_AwareNeuralArchit.md]] : Beyond Foundation Models: Dimension-Aware Neural Architecture Search with Small-Data Representation Models for Cryocooler Lifetime Prediction
-- [[2026-08-06_18-49-13Z_AgenticAI_UserEmpowermentorEnclosure.md]] : Agentic AI: User Empowerment or Enclosure?
-- [[2026-08-07_03-13-43Z_MemPrism_Task_ConditionedRelationalMemoryViewsforL.md]] : MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents
-- [[2026-08-07_07-53-53Z_DealMeMaybe_TheRoleofEmotionsinMulti_AgentNegotiat.md]] : Deal Me Maybe: The Role of Emotions in Multi-Agent Negotiation
-- [[2026-08-07_10-29-19Z_TransformersStruggletoUseTheirEmergentWorldModels_.md]] : Transformers Struggle to Use Their Emergent World Models: Revisiting the Tower of Hanoi, and the Illusion of Thinking
-- [[2026-08-07_00-19-48Z_TheHorizonGap_Planning_Memory_Execution_Training_a.md]] : The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents
-- [[2026-08-07_01-52-45Z_AgentPatch_Coarse_to_FineWeak_TaskRepairforMerging.md]] : AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models
-- [[2026-08-07_03-52-01Z_FasterQuery_KeyLearningSharpensAttentioninSelf_Att.md]] : Faster Query-Key Learning Sharpens Attention in Self-Attention Models
-- [[2026-08-07_06-44-14Z_Multi_AgentForensicReasoningforGeneralizableDeepfa.md]] : Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection
-- [[2026-08-07_07-43-12Z_Long_HorizonAgentTrajectoryAttribution_AUnifiedBen.md]] : Long-Horizon Agent Trajectory Attribution: A Unified Benchmark and Fine-Grained Annotation Framework
-- [[2026-08-07_09-03-49Z_HarnessSafe_EvaluatingSafetyAcrossPersistentCarrie.md]] : HarnessSafe: Evaluating Safety Across Persistent Carriers in Agent Harnesses
-- [[2026-08-07_12-43-00Z_AgentMemoryDistillation_EmpoweringSmallLLMAgentswi.md]] : Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory
-- [[2026-08-06_11-59-30Z_DeepGeneralisedMixedModels_aNovelNeuralNetworkStru.md]] : Deep Generalised Mixed Models: a Novel Neural Network Structure for Analysing Hierarchical Data
-- [[2026-08-06_05-57-01Z_Human_LikeAnaphorResolutioninLargeLanguageModels.md]] : Human-Like Anaphor Resolution in Large Language Models
-- [[2026-08-05_11-34-20Z_SmallFoundationModelsofHumanCognitionandBehaviour.md]] : Small Foundation Models of Human Cognition and Behaviour
-- [[2026-08-06_15-18-50Z_Reducingbeliefinconspiracytheoriesastheyunfoldusin.md]] : Reducing belief in conspiracy theories as they unfold using large language models
-- [[2026-08-06_17-58-32Z_TheBitterLessonofToolCalling.md]] : The Bitter Lesson of Tool Calling
-- [[2026-08-06_14-48-09Z_MindtheGaps_Mixture_of_MindsforHumanSimulation.md]] : Mind the Gaps: Mixture-of-Minds for Human Simulation
-- [[2026-08-06_04-12-05Z_TheJudgment_ConsequenceGap_LLMMoralReasoninginHeal.md]] : The Judgment-Consequence Gap: LLM Moral Reasoning in Healthcare Decisions
-- [[2026-08-05_22-33-03Z_Example_GuidedPromptingforDocument_LevelTextSimpli.md]] : Example-Guided Prompting for Document-Level Text Simplification
-- [[2026-08-06_03-32-43Z_WhenExperienceBecomesInstruction_TrajectoryPoisoni.md]] : When Experience Becomes Instruction: Trajectory Poisoning in Self-Evolving Agent Skill Systems
-- [[2026-08-06_14-04-17Z_WhenHistoryLies_EvaluatingandImprovingToolUseunder.md]] : When History Lies: Evaluating and Improving Tool Use under Misleading Multi-Turn Histories
-- [[2026-08-06_13-52-16Z_LangChoiceBench_MeasuringandExplainingProgramming_.md]] : LangChoiceBench: Measuring and Explaining Programming-Language Choice in LLMs
-- [[2026-08-05_21-29-12Z_CanOpen_WeightLLMsProduceKernel_VerifiedCoqProofs_.md]] : Can Open-Weight LLMs Produce Kernel-Verified Coq Proofs? A Pilot Study
-- [[2026-08-06_13-00-59Z_AgentOPSD_RecursiveSelf_DistillationforAgenticRein.md]] : AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning
-- [[2026-08-05_17-27-15Z_OrchestraBench_EvaluatingMulti_AgentOrchestrationF.md]] : OrchestraBench: Evaluating Multi-Agent Orchestration Failure Modes, Recovery, and Decomposition Quality
-- [[2026-08-06_15-19-56Z_LearningGloballyReusableSkillsforCodingAgents.md]] : Learning Globally Reusable Skills for Coding Agents
-- [[2026-08-06_11-06-06Z_TheVulnerabilityWithNoCVE_ManagingPersistentGapsBe.md]] : The Vulnerability With No CVE: Managing Persistent Gaps Between Mandate and Authority in AI Coding Agents
-- [[2026-08-06_02-51-03Z_VibeCompiler_AResearch_LogicSynthesisToolThatRunsw.md]] : Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-
-- [[2026-08-05_16-11-08Z_DelusionEval_MeasuringDelusion_LinkedBehaviorsinAI.md]] : DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots
-- [[2026-08-05_03-51-12Z_SocialPressureBreaksMajorityVotinginLLMSafetyPanel.md]] : Social Pressure Breaks Majority Voting in LLM Safety Panels
-- [[2026-08-05_08-53-16Z_WhenAbsenceIsEvidence_EvaluatingCompleteness_Sensi.md]] : When Absence Is Evidence: Evaluating Completeness-Sensitive Negative Reasoning in Large Language Models
-- [[2026-08-05_17-50-08Z_ChainedRecursiveLanguageModelsforMulti_IterationRe.md]] : Chained Recursive Language Models for Multi-Iteration Reasoning
-- [[2026-08-05_17-58-58Z_Argus_AGeneral_PurposeAgenticRuntimeforLong_Horizo.md]] : Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning
-- [[2026-08-05_17-25-27Z_ItemResponseTheoryforAISafety.md]] : Item Response Theory for AI Safety
-- [[2026-08-05_16-33-46Z_LanguageModelsGeneralizetoHuman_likeWordOrderPrefe.md]] : Language Models Generalize to Human-like Word Order Preferences
-- [[2026-08-04_22-56-39Z_TheFairnessCollapsePhenomenon_BiasAmplificationinL.md]] : The Fairness Collapse Phenomenon: Bias Amplification in Language Models Trained on Synthetic Data
-- [[2026-08-05_11-59-20Z_Chain_of_ThoughtMonitoringCanBeUnreliableinImplici.md]] : Chain-of-Thought Monitoring Can Be Unreliable in Implicit-Influence Settings
-- [[2026-08-04_18-58-18Z_AgentForge_AnImmersiveRole_PlayingPlatformforLearn.md]] : AgentForge: An Immersive Role-Playing Platform for Learning Agentic Software Engineering
-- [[2026-08-05_14-01-10Z_A_SR_Self_EvolvingAgenticLLMsforSymbolicRegression.md]] : A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination
-- [[2026-08-05_11-28-43Z_WhatWeObserveasLLMBehaviorCanBeaSide_effectofInfer.md]] : What We Observe as LLM Behavior Can Be a Side-effect of Inference Backend
-- [[2026-08-04_18-00-04Z_FinPerMA_ATheory_Informed_Event_GroundedPersonaliz.md]] : FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents
-- [[2026-08-05_15-37-18Z_EvolveNet_CollaborativeHarnessEvolutionforAgentSel.md]] : EvolveNet: Collaborative Harness Evolution for Agent Self-Improvement
-- [[2026-08-04_17-10-47Z_MuonMeetsMamba_SpectralOptimizationforStateSpaceMo.md]] : Muon Meets Mamba: Spectral Optimization for State Space Models
-- [[2026-08-04_16-19-22Z_DS_GT_ARCateRisk2026Task3_Sparse_Semantic_andLLMRe.md]] : DS@GT-ARC at eRisk 2026 Task 3: Sparse, Semantic, and LLM Reranking for ADHD Symptom Sentences
-- [[2026-08-04_16-40-48Z_SparseWeightDecompositionforEfficientCircuitExtrac.md]] : Sparse Weight Decomposition for Efficient Circuit Extraction
-- [[2026-08-04_16-29-35Z_WhenEfficiencyBecomesFragility_ExploitingDynamicRo.md]] : When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking
-- [[2026-08-04_17-34-14Z_Information_GeometricForwardPolicyTraininginGFlowN.md]] : Information-Geometric Forward Policy Training in GFlowNets
-- [[2026-08-04_15-48-55Z_Sensitivity_Causality_andRepairDissociate_ALayer_W.md]] : Sensitivity, Causality, and Repair Dissociate: A Layer-Wise Analysis of Perturbation Robustness and Its Scaling
-- [[2026-08-04_17-24-33Z_Agametheoryforfoundationmodelsshowsnewpathstoratio.md]] : A game theory for foundation models shows new paths to rational cooperation through similarity inference
-- [[2026-08-04_16-51-58Z_EquivariantMusicTransformer.md]] : Equivariant Music Transformer
-- [[2026-08-02_14-28-54Z_OnthePerformanceofMalwareDetectionClassifiersUsing.md]] : On the Performance of Malware Detection Classifiers Using Hardware Performance Counters
-- [[2026-08-04_17-00-52Z_LatentRewardRegistersforDiffusionPreferenceAlignme.md]] : Latent Reward Registers for Diffusion Preference Alignment
-- [[2026-08-04_16-04-15Z_CRS_Triage_Confidence_andReliability_AwareSelectiv.md]] : CRS-Triage: Confidence- and Reliability-Aware Selective Triage under Incomplete Clinical Evidence
-- [[2026-08-04_16-53-59Z_TheTransformerRevolution_Part1_DynamicProcessingth.md]] : The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections
-- [[2026-08-01_22-28-31Z_SingleCanonicalPromptsUnderestimateLLMSafety_sSurf.md]] : Single Canonical Prompts Underestimate LLM Safety's Surface-Form Sensitivity
-- [[2026-08-04_16-15-12Z_EnhancingVLMRewardModelsThroughStructure_AwareFine.md]] : Enhancing VLM Reward Models Through Structure-Aware Fine-Tuning
-- [[2026-08-04_16-26-47Z_Cross_ModelKVCacheTransferinLLMFamilies_AClosed_Fo.md]] : Cross-Model KV Cache Transfer in LLM Families: A Closed-Form Linear Mapping for Prefill Reuse
-- [[2026-08-04_17-38-06Z_ShouldWeTypeorTalktoLLMAgents_AComprehensiveStudyo.md]] : Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations
-- [[2026-08-04_15-56-32Z_FedCritic_MIMO_Communication_EfficientServerlessFe.md]] : FedCritic-MIMO: Communication-Efficient Serverless Federated Critic Learning for Massive-MIMO Resource Control in Open and Disaggregated 6G RANs
-- [[2026-08-04_15-57-21Z_QuantizationEffectsonBiomedicalLLMReliability.md]] : Quantization Effects on Biomedical LLM Reliability
-- [[2026-08-04_15-57-38Z_Bi_semanticChemicalEmbedderforJointRepresentationL.md]] : Bi-semantic Chemical Embedder for Joint Representation Learning of SMILES and Natural Language
-- [[2026-07-31_21-42-35Z_HyperAgent_PlanningandActingoverTool_SchemaHypergr.md]] : HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents
-- [[2026-08-04_16-22-30Z_Omega_S_AFunctionalResilienceIndexforLLMFine_Tunin.md]] : Omega-S: A Functional Resilience Index for LLM Fine-Tuning
-- [[2026-08-04_16-59-30Z_APhysics_FlavoredTransformerNetworkforParametrizin.md]] : A Physics-Flavored Transformer Network for Parametrizing Contraction Dynamics of Engineered Skeletal Muscle Tissues
-- [[2026-07-31_13-59-45Z_CUADebug_DiagnosingandRepairingComputer_UseAgentFa.md]] : CUADebug: Diagnosing and Repairing Computer-Use Agent Failures
-- [[2026-07-15_22-05-23Z_Cura1T_SpecializedModelforAgenticHealthcare.md]] : Cura 1T: Specialized Model for Agentic Healthcare
-- [[2026-08-04_16-37-09Z_SociallyGroundedAgenticAI_CoordinatingPluralPerspe.md]] : Socially Grounded Agentic AI: Coordinating Plural Perspectives through Social Theory
-- [[2026-08-04_17-56-49Z_Agogic_Performance_TimedMusicTokensforLLM_NativeTe.md]] : Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation
-- [[2026-07-31_10-44-33Z_Studying_Identifying_andFixingHiddenTechnicalDebti.md]] : Studying, Identifying, and Fixing Hidden Technical Debt in AI-Intensive Cyber-Physical Systems
-- [[2026-08-04_16-07-56Z_ADMITBench_ASafety_GovernedReferenceFrameworkforEv.md]] : ADMITBench: A Safety-Governed Reference Framework for Evaluating the Admissibility of Industrial LLM Advisories
-- [[2026-08-04_17-28-24Z_SeparatingquantumcircuitsfromclassicalLLMs.md]] : Separating quantum circuits from classical LLMs
-- [[2026-08-04_16-15-02Z_ContinualSkillBench_CanLLMAgentsTrulyEvolveTheirCa.md]] : ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?
-- [[2026-08-04_16-59-28Z_PRISM_PowerfulTimeSeriestoImage_TS2I_Representatio.md]] : PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection
-- [[2026-08-04_17-02-34Z_LogicBeforeLanguage_Pre_pretrainingonFormalDerivat.md]] : Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility
-- [[2026-07-31_16-16-14Z_VerifiedToolCallsImproveLLMAgentReliabilityUnderNo.md]] : Verified Tool Calls Improve LLM Agent Reliability Under Non-Atomic Failures
-- [[2026-08-04_15-45-31Z_ResumeMeansResume_AMachine_CheckedConformanceContr.md]] : Resume Means Resume: A Machine-Checked Conformance Contract for Checkpoint, Interrupt, and Resume Semantics in Workflow Persistence Layers
-- [[2026-08-04_15-30-35Z_FlowForm_SynergizingFluidPhysicswithTopologicalCon.md]] : FlowForm: Synergizing Fluid Physics with Topological Consistency for Satellite Flood Synthesis
-- [[2026-08-04_16-59-58Z_RobustLow_Tubal_RankTensorCompletionunderCross_Con.md]] : Robust Low-Tubal-Rank Tensor Completion under Cross-Concentrated Sampling
-- [[2026-08-04_16-42-04Z_TrajectoryinferenceviaAccelerationMatching.md]] : Trajectory inference via Acceleration Matching
-- [[2026-08-04_16-20-53Z_BanglaWild_AnIn_the_WildBengaliSceneTextRecognitio.md]] : BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models
-- [[2026-08-04_17-27-21Z_InterpretableAdaptiveSamplingforLLMTest_TimeScalin.md]] : Interpretable Adaptive Sampling for LLM Test-Time Scaling
-- [[2026-08-04_16-23-39Z_CARE_X_TowardsClinicallyUsefulRadiologyVLMswithAux.md]] : CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement
-- [[2026-08-04_15-22-23Z_VIBE_AVAD_InformedBenchmarkforEntity_CenteredAffec.md]] : VIBE: A VAD-Informed Benchmark for Entity-Centered Affective Profiling of Large Language Model Outputs
-- [[2026-08-04_17-45-16Z_Video_DeepResearch_TowardstheNext_GenerationMultim.md]] : Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent
-- [[2026-08-04_15-25-30Z_UHPDetection_LVLMshavetheirUniqueHallucinationPatt.md]] : UHP Detection: LVLMs have their Unique Hallucination Pattern in the Consistency Space
-- [[2026-08-04_17-59-55Z_WorldCupArena_Prospective_Leakage_FreeEvaluationof.md]] : WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament
-- [[2026-08-04_17-58-05Z_PAST_Bench_BenchmarkingtheFoundationsofRecursiveSe.md]] : PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents
-- [[2026-08-04_16-48-19Z_ImplementingCausalPerception_CompetingSCMsandSitua.md]] : Implementing Causal Perception: Competing SCMs and Situated Fairness
-- [[2026-08-04_15-14-50Z_Autoreflection_HowAgenticStrangeLoopsTurnHumanCult.md]] : Autoreflection: How Agentic Strange Loops Turn Human Culture into AI Infrastructure
-- [[2026-08-04_15-47-41Z_LatentGuard_EfficientandInspectableLatentReasoning.md]] : LatentGuard: Efficient and Inspectable Latent Reasoning for LLM Safeguards
-- [[2026-08-04_15-11-45Z_EfficientKnowledgeDistillationforLLMs_OfflineTop_K.md]] : Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chunked KL Loss
-- [[2026-08-04_16-03-45Z_BeyondRepresentationalSimilarity_Source_Conditione.md]] : Beyond Representational Similarity: Source-Conditioned Description-Length Gain for Generative Plagiarism Detection and Candidate Source Reranking
-- [[2026-08-04_16-28-53Z_ANNOTARES_ADatasetforExtractingLogicalStructuresfr.md]] : ANNOTARES: A Dataset for Extracting Logical Structures from German Statutory Texts
-- [[2026-08-04_17-59-56Z_SocietyBench_ForecastingCounterfactualSocial_World.md]] : SocietyBench: Forecasting Counterfactual Social-World Evolution
-- [[2026-08-04_16-49-53Z_WhenandWheretoLook_AdaptiveVisualEvidenceSchedulin.md]] : When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding
-- [[2026-08-04_17-16-14Z_TACT_Taxonomy_AlignedPost_TrainingforPedagogically.md]] : TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring
-- [[2026-08-04_15-22-37Z_UNVaMP_NeuralKnowledgeTracingwithVariationalRegula.md]] : UNVaMP: Neural Knowledge Tracing with Variational Regularization of Latent Knowledge Dynamics
-- [[2026-08-04_17-59-58Z_ParVL_ParallelScalingandExpandableComputeAllocatio.md]] : ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs
-- [[2026-08-04_17-51-40Z_AssessmentofConditionalDiffusionModelforSyntheticH.md]] : Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation
-- [[2026-08-04_15-50-26Z_MAFIA_Query_OnlyMemoryAttacksviaProbingandFactualI.md]] : MAFIA: Query-Only Memory Attacks via Probing and Factual Injection against Audited LLM Agents
-- [[2026-08-04_16-18-52Z_MultiGlobeQA_AMultilingualandGloballyDiverseBenchm.md]] : MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning
-- [[2026-08-04_15-03-29Z_KnowHal_AKnowledge_DrivenBenchmarkforComprehensive.md]] : KnowHal: A Knowledge-Driven Benchmark for Comprehensive Multimodal Hallucination Evaluation
-- [[2026-08-04_17-54-01Z_WhenAttentionGoesBlind_NumericalFailureinALiBiPosi.md]] : When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings
-- [[2026-08-04_16-25-38Z_IntertemporalPreferenceSteeringinQwen3viaContrasti.md]] : Intertemporal Preference Steering in Qwen3 via Contrastive Activation Addition
-- [[2026-08-04_17-40-08Z_ReflectRL_LearningfromGoldenNegativeTrajectoriesvi.md]] : ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning
-- [[2026-08-04_15-47-51Z_Oilbird_Training_FreeSpeculativeDecodingwithKeysth.md]] : Oilbird: Training-Free Speculative Decoding with Keys the Verifier Already Computes
-- [[2026-08-04_15-36-17Z_Geo_Embed_TowardsUnifiedMultimodalEmbeddingsforUrb.md]] : Geo-Embed: Towards Unified Multimodal Embeddings for Urban Understanding
-- [[2026-08-04_16-17-15Z_OperationallyFeasibleSyntheticPower_GridScenariosv.md]] : Operationally Feasible Synthetic Power-Grid Scenarios via Learning the AC-Operable Joint Distribution
-- [[2026-08-04_15-10-09Z_EvaluatingLLMsinDatabaseScenarios_ALifecycleBenchm.md]] : Evaluating LLMs in Database Scenarios: A Lifecycle Benchmark for Assessing Their Potential in Core Database Tasks
-- [[2026-08-04_17-59-21Z_TurnSight_Turn_LevelHindsightSelf_DistillationforT.md]] : TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning
-- [[2026-08-04_16-04-07Z_SciRet_ACompute_AwareEmpiricalStudyofRetrievalandR.md]] : SciRet: A Compute-Aware Empirical Study of Retrieval and Reranking for Scientific RAG
-- [[2026-08-04_15-16-05Z_M_GATE_MultilingualGrammar_AccuracyinTranslation_a.md]] : M-GATE: Multilingual Grammar, Accuracy in Translation, and Efficiency Benchmark for Large Language Models
-- [[2026-08-04_17-57-20Z_Test_TimeScalinginReasoningLLMs_InferenceRegimes_E.md]] : Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility
-- [[2026-08-04_17-48-15Z_string2stringStudio_AnInteractive_In_BrowserPlatfo.md]] : string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms
-- [[2026-08-04_16-09-01Z_GENESIS_TowardsExplainableCausalDiscovery.md]] : GENESIS: Towards Explainable Causal Discovery
-- [[2026-08-04_17-33-38Z_HalluTruthQA_4K_AFine_GrainedCorpusandAnnotationPr.md]] : HalluTruthQA-4K: A Fine-Grained Corpus and Annotation Process for Arabic Hallucination Detection and Truth Verification
-- [[2026-08-04_15-07-07Z_DoesForgettingTransferAcrossModalities_AReal_World.md]] : Does Forgetting Transfer Across Modalities? A Real-World Benchmark for Cross-Modal Knowledge Unlearning Evaluation
-- [[2026-08-04_17-47-25Z_CanLargeLanguageModelsRecoverSemanticOptimizationO.md]] : Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?
-- [[2026-08-03_23-26-06Z_Onthemissingdatalayerandapotentialsolution.md]] : On the missing data layer and a potential solution
-- [[2026-08-02_20-09-02Z_WhenPoliciesChangeProbabilities_ModularDecision_Ma.md]] : When Policies Change Probabilities: Modular Decision-Making for LLM Code Review
-- [[2026-08-04_02-12-39Z_StandaloneDINOv3forTraining_FreeOpen_VocabularySem.md]] : Standalone DINOv3 for Training-Free Open-Vocabulary Semantic Segmentation in Remote Sensing
-- [[2026-08-04_09-56-31Z_TowardsRobustToolUseinAgentsviaExperience_DrivenAd.md]] : Towards Robust Tool Use in Agents via Experience-Driven Adaptive Guidance
-- [[2026-08-03_18-59-49Z_Detectinghigh_frequencybraindisordersignalsusingdy.md]] : Detecting high-frequency brain disorder signals using dynamic mode decomposition from EEG
-- [[2026-08-04_05-19-35Z_SpatialproteomicsguidedbyH_E_basedAIrevealsrecurre.md]] : Spatial proteomics guided by H&E-based AI reveals recurrence-risk niches in triple-negative breast cancer
-- [[2026-08-04_14-17-35Z_AmortizedInterventionalForecastingforMultivariateC.md]] : Amortized Interventional Forecasting for Multivariate CIR Processes
-- [[2026-08-04_00-45-54Z_TemporalLeakageinLLMBacktesting_Measurement_Valida.md]] : Temporal Leakage in LLM Backtesting: Measurement, Validation, and Adjusted Scores
-- [[2026-08-04_05-14-26Z_Minimax_OptimalSemiparametricContextualDynamicPric.md]] : Minimax-Optimal Semiparametric Contextual Dynamic Pricing with Multimodal Revenue
-- [[2026-08-04_04-32-48Z_AdaptiveTwo_StageVisualTokenPruningforEfficientInf.md]] : Adaptive Two-Stage Visual Token Pruning for Efficient Inference in Video-Language Models
-- [[2026-08-04_02-51-38Z_EmulateorEstimate_TheDivergentStrengthsofBaseandPo.md]] : Emulate or Estimate? The Divergent Strengths of Base and Post-Trained Language Models for Opinion Simulation
-- [[2026-08-04_11-32-10Z_BeyondInitializationLoss_ASystematicStudyofTokenEm.md]] : Beyond Initialization Loss: A Systematic Study of Token Embedding Initialization Strategies for LLM Vocabulary Extension
-- [[2026-08-04_08-49-23Z_TraceableMulti_AgentSystemforKnowledge_BasedForeca.md]] : Traceable Multi-Agent System for Knowledge-Based Forecasting
-- [[2026-08-03_23-09-43Z_OPTD_On_PolicyTransitionDistillationwithConsistenc.md]] : OPTD: On-Policy Transition Distillation with Consistency-Guided Adaptive Compression for Few-Step Diffusion Language Models
-- [[2026-08-04_10-44-40Z_PredictingMultilingualClassificationandTranslation.md]] : Predicting Multilingual Classification and Translation Performance of LLMs with Cross-Lingual Alignment $\unicode{x2013}$ Is English Enough?
-- [[2026-08-04_02-40-22Z_BeyondAccuracy_AMultidimensionalEvaluationofStatis.md]] : Beyond Accuracy: A Multidimensional Evaluation of Statistical Reasoning in Large Language Models
-- [[2026-08-04_13-10-19Z_ATheoryofConditionalCollapseunderLow_RankWeight_Sp.md]] : A Theory of Conditional Collapse under Low-Rank Weight-Space Ablations: I. The Single-Block Theory and Synthetic Validation
-- [[2026-08-03_03-51-19Z_ABlindSpotinAlignment_QuantifyingBiosecurityRisksi.md]] : A Blind Spot in Alignment: Quantifying Biosecurity Risks in Large Language Models
-- [[2026-08-04_06-37-44Z_OntheImplicitFlatnessBiasofSharpness_AwareMinimiza.md]] : On the Implicit Flatness Bias of Sharpness-Aware Minimization: A Linear Stability Analysis with Quantitative Hyperparameter Bounds
-- [[2026-08-03_16-08-14Z_CanTrainingLogsMakeModelComparisonsMorePrecise.md]] : Can Training Logs Make Model Comparisons More Precise?
-- [[2026-08-03_11-02-13Z_StylometricDefensesAgainstAuthorImpersonationinSof.md]] : Stylometric Defenses Against Author Impersonation in Software Repositories
-- [[2026-08-03_10-09-19Z_BeforeReasoningCanFail_Pre_EvidenceProceduralFailu.md]] : Before Reasoning Can Fail: Pre-Evidence Procedural Failures in Agentic RAG
-- [[2026-08-04_04-40-01Z_FromSQLErrorstoConceptGaps_AnAI_PoweredKnowledgeGr.md]] : From SQL Errors to Concept Gaps: An AI-Powered Knowledge Graph Analytics Platform for Personalized Feedback
-- [[2026-08-03_19-44-08Z_WiringBeatsBlending_WhatTransfersBetweenTransforme.md]] : Wiring Beats Blending: What Transfers Between Transformer Sizes -- and What Doesn't
-- [[2026-08-04_10-35-00Z_QualityControlAlgorithmsforPatternCounting.md]] : Quality Control Algorithms for Pattern Counting
-- [[2026-08-03_20-37-54Z_BODHI_DoLLMsBranchOutandDiscoverHeterogeneousInfer.md]] : BODHI: Do LLMs Branch Out and Discover Heterogeneous Inferences?
-- [[2026-08-04_06-32-25Z_TumorBoard_Evidence_GroundedMulti_AgentDecisionSup.md]] : TumorBoard: Evidence-Grounded Multi-Agent Decision Support for Longitudinal Neuro-Oncology
-- [[2026-08-03_23-59-39Z_EveryWrongAnswerCounts_Option_LevelPsychometricsfo.md]] : Every Wrong Answer Counts: Option-Level Psychometrics for LLM Multiple-Choice Benchmarks
-- [[2026-08-04_07-51-30Z_MoEGen_Mixture_of_ExpertsforInstance_AdaptiveLoRAG.md]] : MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation
-- [[2026-08-04_13-58-10Z_LAEF_ALead_AgnosticECGFoundationModelTowardsPoint_.md]] : LAEF: A Lead-Agnostic ECG Foundation Model Towards Point-of-Care Diagnostics
-- [[2026-08-04_05-03-17Z_RectifyThenDiffuse_DisentanglingConceptsBeforeDeno.md]] : Rectify Then Diffuse: Disentangling Concepts Before Denoising Trajectory Unfolds
-- [[2026-08-04_01-26-03Z_Onthemissingbenchmarkslayerandapotentialsolution.md]] : On the missing benchmarks layer and a potential solution
-- [[2026-08-04_06-55-46Z_Fail_Fast_Restart_Smart_EarlyFailurePredictionandR.md]] : Fail-Fast, Restart-Smart: Early Failure Prediction and Restart for SWE Agentic Tasks
-- [[2026-08-04_06-05-58Z_Attribute_basedUndetectableWatermarkingforGenerati.md]] : Attribute-based Undetectable Watermarking for Generative AI Models
-- [[2026-08-04_09-20-54Z_FACTWASH_CatchingAIRewritesThatWashHearsayintoFact.md]] : FACTWASH: Catching AI Rewrites That Wash Hearsay into Fact
-- [[2026-08-04_04-13-31Z_FakeI2V_Bench_BenchmarkingtheApplicabilityofImage_.md]] : FakeI2V-Bench: Benchmarking the Applicability of Image-level Deepfake Detectors for Deepfake Video Detection
-- [[2026-08-03_18-10-58Z_DAIF_AData_DrivenIntermediateFusionFrameworkforMul.md]] : DAIF: A Data-Driven Intermediate Fusion Framework for Multimodal Supervised Learning via Approximate Message Passing
-- [[2026-08-04_10-57-31Z_Solver_AwareDecompositionsforProgramming_by_Exampl.md]] : Solver-Aware Decompositions for Programming-by-Example: When Dividing Requires Knowing how to Conquer
-- [[2026-08-03_02-06-06Z_S_3__ImprovingAgentSafetythroughMulti_StageDefense.md]] : $S^3$: Improving Agent Safety through Multi-Stage Defense
-- [[2026-08-04_09-54-37Z_ShorterReasoning_EarlierAnswers_AnEvaluationofReas.md]] : Shorter Reasoning, Earlier Answers? An Evaluation of Reasoning Interfaces
-- [[2026-08-03_22-13-12Z_FLARE_Few_shotLearning_basedAdaptiveReflectiveEngi.md]] : FLARE: Few-shot Learning-based Adaptive Reflective Engine
-- [[2026-08-04_10-20-07Z_Dual_domainU_Netswithembeddedbackprojectionoperato.md]] : Dual-domain U-Nets with embedded back projection operators for motion-resolved 4D CBCT reconstruction
-- [[2026-08-03_21-01-48Z_FieldAwareAgentSkillRetrieval.md]] : Field Aware Agent Skill Retrieval
-- [[2026-08-04_07-47-37Z_GUI_Lens_Coarse_to_FineCroppingforGUIGroundingwith.md]] : GUI-Lens: Coarse-to-Fine Cropping for GUI Grounding with General-Purpose VLMs
-- [[2026-08-03_18-18-11Z_Privacy_PreservingAIVerificationviaMinimalInformat.md]] : Privacy-Preserving AI Verification via Minimal Information Disclosure
-- [[2026-08-03_22-51-01Z_ScoreField_NeuralInverseScatteringwithScore_BasedG.md]] : ScoreField: Neural Inverse Scattering with Score-Based Generative Priors
-- [[2026-08-04_01-21-29Z_SparSEEty_ExtractingTokensfromSparsity_ExploitingL.md]] : SparSEEty: Extracting Tokens from Sparsity-Exploiting LLM Serving Systems via Deterministic Side Channels
-- [[2026-08-04_06-48-17Z_ICO_EnhancingSemantic_ShiftJailbreaksviaIterativeC.md]] : ICO: Enhancing Semantic-Shift Jailbreaks via Iterative Context Optimization
-- [[2026-08-04_13-49-56Z_VetScore_Risk_WeightedFactVerificationforVeterinar.md]] : VetScore: Risk-Weighted Fact Verification for Veterinary Long-Form QA with Citations
-- [[2026-08-03_21-38-30Z_AnchorKV_Anchor_ResidualKVCacheCompression.md]] : AnchorKV: Anchor-Residual KV Cache Compression
-- [[2026-08-04_09-09-31Z_TheEvolutionaryOriginofValues_implicationsforAIali.md]] : The Evolutionary Origin of Values: implications for AI alignment, sentience and existential risk
-- [[2026-08-03_22-47-50Z_CharacterIconicityvs_Arbitrariness_AnArabicNLPPers.md]] : Character Iconicity vs. Arbitrariness: An Arabic NLP Perspective
-- [[2026-08-04_11-53-02Z_HowManyLabelsAreEnough_ALDA_ActiveLearningDeployme.md]] : How Many Labels Are Enough? ALDA: Active Learning Deployment Advisor for Medical Image Classification
-- [[2026-08-04_07-19-53Z_CIGTSurv_ClinicalInformationGuidedTri_modalSurviva.md]] : CIGTSurv: Clinical Information Guided Tri-modal Survival Prediction with Local Prototype Association and Global Feature Alignment
-- [[2026-08-03_14-21-21Z_NANQ_Noise_Floor_AwareMixed_PrecisionNon_UniformQu.md]] : NANQ: Noise-Floor-Aware Mixed-Precision Non-Uniform Quantization for Analog Compute-in-Memory
-- [[2026-08-04_07-04-20Z_OntheDiversityofAnalogyMakinginLargeLanguageModels.md]] : On the Diversity of Analogy Making in Large Language Models
-- [[2026-08-03_18-33-37Z_EvaluationBlindness_HowSilentMeasurementFailuresCo.md]] : Evaluation Blindness: How Silent Measurement Failures Corrupt AI Systems from Training to Deployment
-- [[2026-08-03_18-51-44Z_AHyperfiniteFrameworkforScore_BasedGenerativeModel.md]] : A Hyperfinite Framework for Score-Based Generative Modeling
-- [[2026-08-04_01-34-36Z_StochasticSaddleAvoidanceBeyondUnitExcitationandSm.md]] : Stochastic Saddle Avoidance Beyond Unit Excitation and Smoothness: A Pathwise Lyapunov-Perron Framework
-- [[2026-08-04_13-29-00Z_IsInter_SeedCross_PlayEnough_EvaluatingtheRobustne.md]] : Is Inter-Seed Cross-Play Enough? Evaluating the Robustness of Zero-Shot Coordination Algorithms to Implementation Details
-- [[2026-08-04_04-33-10Z_OptimalLiabilityDesignforMedicalAI.md]] : Optimal Liability Design for Medical AI
-- [[2026-08-04_04-32-08Z_DoubleDescentinGradientBoostingDecisionTreesviaSpl.md]] : Double Descent in Gradient Boosting Decision Trees via Split-Candidate Scaling
-- [[2026-08-04_09-48-46Z_SRAP_SVD_RefinedAdversarialPerturbationsforImperce.md]] : SRAP: SVD-Refined Adversarial Perturbations for Imperceptible Face-Swap Defense
-- [[2026-08-03_23-46-39Z_ValueFormer_ACausalTransformerValueFunctionwithSta.md]] : ValueFormer: A Causal Transformer Value Function with Stage-Aware Labels for Semi-Autonomous Vision-Language-Action Policies
-- [[2026-08-04_14-06-15Z_LiLa_WAM_LightweightLatentReasoningWorld_ActionMod.md]] : LiLa-WAM: Lightweight Latent Reasoning World-Action Model for Robotic Manipulation
-- [[2026-08-04_05-06-24Z_VerifiableMemory_LearningUnifiedMemoryManagementwi.md]] : Verifiable Memory: Learning Unified Memory Management with Local and Global Verifiers for Large Language Model Agents
-- [[2026-08-04_02-29-46Z_PACE_AdaptiveBudgetAllocationforTime_EfficientEmbo.md]] : PACE: Adaptive Budget Allocation for Time-Efficient Embodied Planning
-- [[2026-08-04_01-17-39Z_NeurosymbolicReasoningwithIncrementalKnowledgeforS.md]] : Neurosymbolic Reasoning with Incremental Knowledge for Sample Efficient Hierarchical Reinforcement Learning
-- [[2026-08-04_03-23-11Z_TraceCAD_Trace_GuidedRepairforAgenticCADGeneration.md]] : TraceCAD: Trace-Guided Repair for Agentic CAD Generation
-- [[2026-08-04_07-21-39Z_OneKnobtoRuleThemAll_AUnifiedOptimalTransportViewo.md]] : One Knob to Rule Them All: A Unified Optimal Transport View of Cold-Start Active Learning
-- [[2026-08-03_18-58-39Z_SAGE_SemanticExplainabilityofAttention_BasedSurviv.md]] : SAGE: Semantic Explainability of Attention-Based Survival Models in Computational Pathology
-- [[2026-08-04_03-30-59Z_CVPO_EnhancingLLMReinforcementLearningReasoningvia.md]] : CVPO: Enhancing LLM Reinforcement Learning Reasoning via Value-Variance Adaptation and Dynamic Curriculum Learning
-- [[2026-08-04_02-59-16Z_PI_Mem_PushingLong_ContextReasoningto3_6MTokenswit.md]] : PI-Mem: Pushing Long-Context Reasoning to 3.6M Tokens with Parallel-Iterative Memory
-- [[2026-08-04_07-03-05Z_Structure_AwareRobustFine_Tuning_DefendingVision_L.md]] : Structure-Aware Robust Fine-Tuning: Defending Vision-Language-Action Robots Against Physical Attention Hijacking
-- [[2026-08-04_08-26-06Z_Task_OrientedCandidate_LatentFeedbackforCoarse_to_.md]] : Task-Oriented Candidate-Latent Feedback for Coarse-to-Fine Sensing in Distributed OFDM-ISAC Networks
-- [[2026-08-04_06-59-29Z_SAKI_Score_AwareLow_RankKeyIndexingforLong_Context.md]] : SAKI: Score-Aware Low-Rank Key Indexing for Long-Context KV Retrieval
-- [[2026-08-04_00-09-08Z_MappingtheCityThroughtheLensofLanguageModels.md]] : Mapping the City Through the Lens of Language Models
-- [[2026-08-04_12-05-15Z_Pivot_CentricTrajectoryPrediction_BridgingLongHori.md]] : Pivot-Centric Trajectory Prediction: Bridging Long Horizons via Dynamical Guidance
-- [[2026-08-04_12-04-57Z_AIForensicsAcrossWhite__Grey__andBlack_BoxAccess_A.md]] : AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems
-- [[2026-08-04_13-30-51Z_ConditionallyIdentifiableLatent_EnvironmentModelin.md]] : Conditionally Identifiable Latent-Environment Modeling for Out-of-Distribution Recommendation
-- [[2026-08-04_04-21-00Z_AHierarchicalApproachtoImitationLearningforManipul.md]] : A Hierarchical Approach to Imitation Learning for Manipulation Tasks Requiring Time Varying Forces
-- [[2026-08-04_03-42-54Z_PAMT_Process_AlignedReinforcementLearningforMulti_.md]] : PAMT: Process-Aligned Reinforcement Learning for Multi-Domain Machine Translation
-- [[2026-08-04_06-50-55Z_GROW_Group_RelativeAdvantage_WeightedOn_PolicyRein.md]] : GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model
-- [[2026-08-03_21-16-54Z_Population_RobustFeatureSelectionviaGeneralizedWel.md]] : Population-Robust Feature Selection via Generalized Welfare Optimization
-- [[2026-08-04_04-13-26Z_VIVID_ACulturallyGroundedBenchmarkExposingtheFigur.md]] : VIVID: A Culturally Grounded Benchmark Exposing the Figurative Language Gap in Vietnamese NLP
-- [[2026-08-04_07-11-28Z_RelationalPriorsasConvergencePressureinLLM_BasedMu.md]] : Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems
-- [[2026-08-03_17-44-10Z_DesigningaGoodVirtualNode_AddressableandCardinalit.md]] : Designing a Good Virtual Node: Addressable and Cardinality-Preserving Global Memory for Message Passing Architectures
-- [[2026-08-04_12-07-23Z_Dr_AGENTONOMICS_ADidacticExperimentofAGENTONOMICS.md]] : Dr. AGENTONOMICS: A Didactic Experiment of AGENTONOMICS
-- [[2026-08-04_01-01-12Z_AcceptMoE_Commitment_WeightedSelf_SizingVerifierEx.md]] : AcceptMoE: Commitment-Weighted Self-Sizing Verifier Expert Sets for Efficient MoE Speculative Decoding
-- [[2026-08-04_01-08-33Z_JointAffineSpectralShaping_CouplingWeightandBiasUp.md]] : Joint Affine Spectral Shaping: Coupling Weight and Bias Updates Beyond Weight-Only Muon
-- [[2026-08-03_23-07-29Z_WhenCompressionScoresCannotDecide_InformationBound.md]] : When Compression Scores Cannot Decide: Information Boundaries for Group-Robust LLM Pruning
-- [[2026-08-02_19-47-03Z_WhereReasoningDiverges_LocalizedMulti_AgentDebatef.md]] : Where Reasoning Diverges: Localized Multi-Agent Debate for Multi-Hop Question Answering
-- [[2026-08-04_06-47-26Z_DRIFT_DerailingDenoisingTrajectoriesofFlow_Matchin.md]] : DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack
-- [[2026-08-04_14-16-06Z_AttentionisCase_Sensitive.md]] : Attention is Case-Sensitive
-- [[2026-08-03_20-40-49Z_Maglev_SlidingRecurrentMemory.md]] : Maglev: Sliding Recurrent Memory
-- [[2026-08-04_10-45-24Z_ApproximateSpeculativeDecoding.md]] : Approximate Speculative Decoding
-- [[2026-08-04_07-32-42Z_FinVerse_FinancialTime_SeriesBenchmark.md]] : FinVerse: Financial Time-Series Benchmark
-- [[2026-08-04_10-18-36Z_OliveGemma_A3BillionVisualLanguageModelforRecognis.md]] : OliveGemma: A 3 Billion Visual Language Model for Recognising the Mediterranean & European Diet
-- [[2026-08-04_13-02-48Z_RethinkingModalityReliabilityinMultimodalSentiment.md]] : Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations
-- [[2026-08-04_11-17-54Z_EfficientMultilingualNeuralMachineTranslationviaCo.md]] : Efficient Multilingual Neural Machine Translation via Corpus-Driven Vocabulary Pruning: An English-Arabic Case Study
-- [[2026-08-04_06-47-26Z_EduClaw_Bench_ALong_HorizonBenchmarkforPedagogical.md]] : EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
-- [[2026-08-03_09-24-23Z_Output_AwareRotationforINT2KV_CacheQuantization.md]] : Output-Aware Rotation for INT2 KV-Cache Quantization
-- [[2026-08-03_21-54-31Z_ForecastingRevenuewithitsCustomer_BaseDrivers_When.md]] : Forecasting Revenue with its Customer-Base Drivers: When and Why Coordination Helps
-- [[2026-08-04_12-28-39Z_RobustGeneralUtilityforReinforcementLearning.md]] : Robust General Utility for Reinforcement Learning
-- [[2026-08-04_08-23-57Z_Any_OPD_HeterogeneousOn_PolicyDistillationforFlow_.md]] : Any-OPD: Heterogeneous On-Policy Distillation for Flow-Matching Models via Representation-Space Bridging
-- [[2026-08-04_07-15-45Z_UniNav_AUnifiedWorld_ActionDiffusionModelforVisual.md]] : UniNav: A Unified World-Action Diffusion Model for Visual Navigation
-- [[2026-08-03_19-03-46Z_LearningaVector_SymbolicModelforSocio_CulturalTask.md]] : Learning a Vector-Symbolic Model for Socio-Cultural Tasks
-- [[2026-08-04_14-32-43Z_AgenticECO_AnAgenticFrameworkforECOon3DIntegratedC.md]] : AgenticECO: An Agentic Framework for ECO on 3D Integrated Circuits
-- [[2026-08-04_04-08-08Z_SMOPD_Multi_RewardReinforcementLearningviaSpeciali.md]] : SMOPD: Multi-Reward Reinforcement Learning via Specialize-and-Merge Online Policy Distillation
-- [[2026-08-04_09-31-44Z_LLM_DerivedPriorsforThompsonSamplinginCold_StartCo.md]] : LLM-Derived Priors for Thompson Sampling in Cold-Start Comment Recommendation
-- [[2026-08-04_13-14-55Z_Cross_LayerInteractionunderWeight_SpaceAblation_AC.md]] : Cross-Layer Interaction under Weight-Space Ablation: A Closed-Form Attention Jacobian Bound and a Test on a Real Pretrained Model
-- [[2026-08-04_14-54-14Z_MDLMPE_DistributionAwarePositionalEncodingforMaske.md]] : MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models
-- [[2026-08-04_05-54-32Z_AdversarialStressTestingofRole_PlayingLanguageAgen.md]] : Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation
-- [[2026-08-04_04-41-20Z_Don_tPeekattheAnswer_Outcome_MaskedGroupRelativePo.md]] : Don't Peek at the Answer: Outcome-Masked Group Relative Policy Optimization for Label-Free RLVR
-- [[2026-08-03_19-38-31Z_ImprovedQuantumAlgorithmsforReinforcementLearningU.md]] : Improved Quantum Algorithms for Reinforcement Learning Under a Generative Model
-- [[2026-08-04_12-43-19Z_Design_TimeOptimizationofDeepNeuralNetworksforInte.md]] : Design-Time Optimization of Deep Neural Networks for Intermittent Learning on Microcontrollers
-- [[2026-08-04_02-04-44Z_UrbanAgent_ATool_AugmentedAgentforCross_SystemUrba.md]] : UrbanAgent: A Tool-Augmented Agent for Cross-System Urban Tasks
-- [[2026-08-04_04-49-48Z_Trajectory_GuidedForget_RecoverNetworkforContinual.md]] : Trajectory-Guided Forget-Recover Network for Continual LLM Unlearning
-- [[2026-08-04_05-00-10Z_DP_MemView_AMemoryInterfaceforAttribute_LevelTrans.md]] : DP-MemView: A Memory Interface for Attribute-Level Transcript Privacy in Long-Term LLM Agents
-- [[2026-08-03_09-01-29Z_GLOBE_Trajectory_AlignedGradientMatchingwithStruct.md]] : GLOBE: Trajectory-Aligned Gradient Matching with Structured SparseOptimization for Coreset Selection
-- [[2026-08-03_23-28-06Z_SP3O_ReinforcementLearningfromSegmentPreferenceswi.md]] : SP3O: Reinforcement Learning from Segment Preferences without Reward Modeling
-- [[2026-08-04_09-34-47Z_BenigninterpolationandOccam_srazor.md]] : Benign interpolation and Occam's razor
-- [[2026-08-04_02-13-45Z_DiffImaginE_ImaginetoVerifyEntityTypeswithDiffusio.md]] : DiffImaginE: Imagine to Verify Entity Types with Diffusio
-- [[2026-08-04_14-11-42Z_LessTraffic_BetterOutcomes_Competition_AwareReques.md]] : Less Traffic, Better Outcomes: Competition-Aware Request Dispatch in Real-Time Ad Exchanges
-- [[2026-08-04_13-08-03Z_Amachine_readablecatalogueoftheTsiolkovskypapers_f.md]] : A machine-readable catalogue of the Tsiolkovsky papers (fond 555, Archive of the Russian Academy of Sciences), and a way to measure how well its handwriting can be read
-- [[2026-08-04_13-17-30Z_WhenTeachersMislead_Spurious_Signal_AwareOn_Policy.md]] : When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation
-- [[2026-08-04_12-33-13Z_LookingundertheWrongLamppost_OntheLimitationsofAut.md]] : Looking under the Wrong Lamppost: On the Limitations of Automated Translation Quality Estimation
-- [[2026-08-03_23-09-19Z_AlignedinForm_NotinMeaning_TheComprehension_Contai.md]] : Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech
-- [[2026-08-04_04-55-47Z_DigitCode_SymbolicTokenizationofHandMotionbyAnatom.md]] : DigitCode: Symbolic Tokenization of Hand Motion by Anatomical Units
-- [[2026-08-04_03-53-50Z_AutomaticPatient_SpecificMicrowaveAblationPlanning.md]] : Automatic Patient-Specific Microwave Ablation Planning Accelerated by a Physics-Guided Deep Learning Model
-- [[2026-08-04_06-52-27Z_ReachabilityIsNotRealization_TracingtheSourcesofLL.md]] : Reachability Is Not Realization: Tracing the Sources of LLM Benchmark Gains
-- [[2026-08-03_19-48-00Z_CURV_EnhancingChartUnderstandingThroughCurriculumV.md]] : CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning
-- [[2026-08-02_20-51-10Z_AISandbox_TechnicalReport.md]] : AI Sandbox: Technical Report
-- [[2026-08-04_01-54-04Z_AGraphSignalProcessingPerspectiveonNumericalSequen.md]] : A Graph Signal Processing Perspective on Numerical Sequence Representations in LLM In-Context Learning
-- [[2026-08-03_18-01-05Z_Search_Inspect_Fetch_ExploitingBooleanRetrievalfor.md]] : Search, Inspect, Fetch: Exploiting Boolean Retrieval for Deep-Research Agents
-- [[2026-08-04_02-06-43Z_LoCA_Forward_OnlyLLMTuningafterOne_ShotCalibration.md]] : LoCA: Forward-Only LLM Tuning after One-Shot Calibration with Local Credit Assignment
-- [[2026-08-04_07-35-38Z_TheIgnitionIsReal_andItLivesattheReadout_Latentcom.md]] : The Ignition Is Real, and It Lives at the Readout: Latent composition, difficulty-clocked ignition, and the interface-constituted commit in a recurrent-depth reasoner
-- [[2026-08-03_13-00-25Z_SteganalysisofAdaptiveCovertCollusioninTool_UsingA.md]] : Steganalysis of Adaptive Covert Collusion in Tool-Using Agent Populations: A Black-Box, Cross-Principal Approach
-- [[2026-08-03_19-58-37Z_MutMem_CryptographicallyAuthorizedMutationinPersis.md]] : MutMem: Cryptographically Authorized Mutation in Persistent Agent Memory
-- [[2026-08-02_14-45-12Z_Security_FirstEvaluationofText_to_Terraform_Benchm.md]] : Security-First Evaluation of Text-to-Terraform: Benchmarking LLMs and SLMs for Secure IaC Generation
-- [[2026-08-03_19-59-47Z_Particle_basedGeneralisedStochasticOptimisation.md]] : Particle-based Generalised Stochastic Optimisation
-- [[2026-08-03_19-12-11Z_TopologicalSimplificationinPredictiveCodingNetwork.md]] : Topological Simplification in Predictive Coding Networks
-- [[2026-08-04_13-01-30Z_FormalVerificationofAgenticSystemsoverOperationalD.md]] : Formal Verification of Agentic Systems over Operational Data
-- [[2026-08-04_07-58-15Z_AgentPanel_TowardaNewParadigmforHuman__AICollabora.md]] : AgentPanel: Toward a New Paradigm for Human--AI Collaboration in Exploring Scientific Questions
-- [[2026-08-04_14-13-21Z_PredictingDeepNeuralNetworkTrainingOutcomesfromEar.md]] : Predicting Deep Neural Network Training Outcomes from Early Training Telemetry
-- [[2026-08-03_17-59-58Z_QuoVadis_WorldModeling.md]] : Quo Vadis, World Modeling?
-- [[2026-08-04_12-13-25Z_BehaviorallyAdaptiveVisualDiversionforInclusiveand.md]] : Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery
-- [[2026-08-04_14-01-00Z_AcceleratingDynamicGraphClusteringonGPUArchitectur.md]] : Accelerating Dynamic Graph Clustering on GPU Architectures with cuGraph
-- [[2026-08-04_10-59-49Z_LeanMem_SimpleandEfficientLong_TermMemoryforLLMAge.md]] : LeanMem: Simple and Efficient Long-Term Memory for LLM Agents
-- [[2026-08-02_17-45-20Z_MovingtheSafetyBarrier_DynamicRoutingAdaptiveAlign.md]] : Moving the Safety Barrier: Dynamic Routing Adaptive Alignment Against White-Box Attacks
-- [[2026-08-04_03-32-19Z_AISecurityLeaderboard_Methodology_ResultsandMinima.md]] : AI Security Leaderboard: Methodology, Results and Minimal Standard
-- [[2026-08-03_23-59-02Z_APhysics_InformedHybridNeuralOperatorforTransientM.md]] : A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics
-- [[2026-08-03_23-40-40Z_ChatDebugging_AnExploratoryStudyofHuman_AICollabor.md]] : Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits
-- [[2026-08-03_23-23-31Z_SedentaryBehaviorClassificationforWearableSensorsw.md]] : Sedentary Behavior Classification for Wearable Sensors with a CNN-BiLSTM Model
-- [[2026-08-04_12-51-21Z_DisentanglingLanguageModelingandBoundaries.md]] : Disentangling Language Modeling and Boundaries
-- [[2026-08-03_19-01-30Z_AUnified2DFrameworkforDeepLesionDetection_Segmenta.md]] : A Unified 2D Framework for DeepLesion Detection, Segmentation and Short Report Generation
-- [[2026-08-04_00-47-13Z_InternalisingtheIdentityPrimitive_CryptographicInd.md]] : Internalising the Identity Primitive: Cryptographic Individuality for an Autonomous Agent on a Public Blockchain
-- [[2026-08-04_07-51-37Z_TaskPress_Query_AgnosticKVCacheCompressionviaTask_.md]] : TaskPress: Query-Agnostic KV Cache Compression via Task-Guided Pruning
-- [[2026-08-04_10-48-17Z_ProbingCharacter_levelTransformersfortheSpanishL_s.md]] : Probing Character-level Transformers for the Spanish L-shaped Morphome
-- [[2026-08-03_19-32-13Z_EvadingChain_of_ThoughtMonitoringThroughModelPoiso.md]] : Evading Chain-of-Thought Monitoring Through Model Poisoning
-- [[2026-08-03_17-59-48Z_Don_tRegenerate_Debug_ADomain_SpecificAgentforRepa.md]] : Don't Regenerate, Debug: A Domain-Specific Agent for Repairing Near-Miss Hardware Operators
-- [[2026-08-04_12-34-35Z_PinOnce_SwapLight_Subspace_AlignedCentroid_Residua.md]] : Pin Once, Swap Light: Subspace-Aligned Centroid-Residual Training for Efficient Ultra-LoRA Serving
-- [[2026-08-04_04-21-35Z_HomoEnsNER_DoesLanguageAlignmentOutperformArchitec.md]] : HomoEnsNER: Does Language Alignment Outperform Architectural Complexity in Gujarati Named Entity Recognition?
-- [[2026-08-04_10-11-45Z_Multi_TaskMulti_FrameVisualPianoTranscription.md]] : Multi-Task Multi-Frame Visual Piano Transcription
-- [[2026-08-04_03-43-49Z_CorePath_ABreast_SpecializedPathologyFoundationMod.md]] : CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation
-- [[2026-08-04_03-12-34Z_PDD_RRG_PosteriorDiagnosticDecisionforStudy_levelR.md]] : PDD-RRG: Posterior Diagnostic Decision for Study-level Radiology Report Generation
-- [[2026-08-04_02-33-16Z_LLMServingintheWild_AnEmpiricalStudyofFrameworks_M.md]] : LLM Serving in the Wild: An Empirical Study of Frameworks, Methods, and System Designs
-- [[2026-08-04_11-44-07Z_HybridLLM_AugmentedReinforcementLearningAgentsforC.md]] : Hybrid LLM-Augmented Reinforcement Learning Agents for Complex Sequential Decision Tasks
-- [[2026-08-04_12-58-17Z_LearningClinical_TrialStrategy_OfflinePolicyTraini.md]] : Learning Clinical-Trial Strategy: Offline Policy Training for Decision Agents
-- [[2026-08-04_14-25-47Z_GPTKB2_0_DirectConstructionofDisambiguatedKnowledg.md]] : GPTKB 2.0: Direct Construction of Disambiguated Knowledge Bases from Large Language Models
-- [[2026-08-04_13-13-48Z_ASecurity_OrientedLifecycleModelforLargeLanguageMo.md]] : A Security-Oriented Lifecycle Model for Large Language Model Systems
-- [[2026-08-04_10-04-33Z_DUD_DecoupledUpdateDynamicsforReliableUncertaintyQ.md]] : DUD: Decoupled Update Dynamics for Reliable Uncertainty Quantification in Large Language Models
-- [[2026-08-04_03-28-37Z_Activation_GuidedNeuronInterventiontoInduceAlzheim.md]] : Activation-Guided Neuron Intervention to Induce Alzheimer's-Related Computational Language Phenotypes in a Large Language Model
-- [[2026-08-02_14-26-12Z_PermissionDenied_Policy_GradedEvaluationofCodingAg.md]] : Permission Denied: Policy-Graded Evaluation of Coding Agents in Hardened Environments
-- [[2026-08-03_18-18-39Z_Towardsanewparadigmofscientificdiscoverywithsocial.md]] : Towards a new paradigm of scientific discovery with socialized artificial intelligence
-- [[2026-08-03_01-05-06Z_TraceCompiler_Skill_GuidedMiningandCompilationofLL.md]] : TraceCompiler: Skill-Guided Mining and Compilation of LLM Agent Traces into Mostly Deterministic Workflows
-- [[2026-08-04_02-43-27Z_PLAN_ParallelLiquid_InspiredApproximationNetworkfo.md]] : PLAN: Parallel Liquid-Inspired Approximation Network for Efficient Representation Learning in Flexible Job Shop Scheduling
-- [[2026-08-04_08-00-15Z_Test_TimeScalingforSafeText_GuidedImageGenerationv.md]] : Test-Time Scaling for Safe Text-Guided Image Generation via Intermediate Clean Estimates
-- [[2026-08-03_23-28-04Z_Schedule_InformedTemporalFusionForecastingofHourly.md]] : Schedule-Informed Temporal Fusion Forecasting of Hourly Airport Security-Checkpoint Throughput
-- [[2026-08-04_14-12-00Z_ToDescribeorConstructStatisticalLearningModelsUsin.md]] : To Describe or Construct Statistical Learning Models Using the Category-theoretical Language
-- [[2026-08-04_14-01-08Z_LearningandClusteringonTemporalGraphs_Principles_P.md]] : Learning and Clustering on Temporal Graphs: Principles, Primitives, and Pooling
-- [[2026-08-03_22-51-49Z_WhenShouldGraphAttentionBeSparse_LearningaPer_Edge.md]] : When Should Graph Attention Be Sparse? Learning a Per-Edge Tsallis Index
-- [[2026-08-04_08-52-43Z_WhenOracleConditioningMisleadsDeployment_Condition.md]] : When Oracle Conditioning Misleads Deployment: Conditioning-Availability Bias in Echocardiographic Segmentation
-- [[2026-08-04_12-20-17Z_Hi_TTRL_RegulatingConsensuswithHintsforTest_TimeRe.md]] : Hi-TTRL: Regulating Consensus with Hints for Test-Time Reinforcement Learning
-- [[2026-08-04_13-19-51Z_MuEvo_LLM_DrivenEvolutionofMulti_HeuristicEnsemble.md]] : MuEvo: LLM-Driven Evolution of Multi-Heuristic Ensemble
-- [[2026-08-03_20-38-45Z_AdaptiveSamplingforAutomatedPost_DisasterRapidDama.md]] : Adaptive Sampling for Automated Post-Disaster Rapid Damage Assessment via Level-Set Cost-Aware Bayesian Optimization
-- [[2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] : TQLite: Multi-LLM Jury Guided Distillation for Real-time MQM Translation Quality Evaluation
-- [[2026-08-04_06-47-08Z_AligningLargeVision_LanguageModelsatTestTime_ATraj.md]] : Aligning Large Vision-Language Models at Test Time: A Trajectory-Guided Structured Sampling Approach
-- [[2026-08-03_21-01-41Z_InterpretingBlack_BoxLargeLanguageModelswithSenten.md]] : Interpreting Black-Box Large Language Models with Sentence-Level Energy Landscapes
-- [[2026-08-03_22-07-06Z_LACE_LargeLanguageModelAidedMulti_AgentFrameworkfo.md]] : LACE: Large Language Model Aided Multi-Agent Framework for Agile RISC-V Instruction Extension
-- [[2026-08-03_20-02-22Z_NOMADD_NumericalOptimizationofModelsAdaptingtoData.md]] : NOMADD: Numerical Optimization of Models Adapting to Data Drift
-- [[2026-08-04_13-39-36Z_HowCloselyDoLLMReviewsAlignwithHumanPeerReview.md]] : How Closely Do LLM Reviews Align with Human Peer Review?
-- [[2026-08-04_08-06-15Z_ProvablyLearningMulti_HeadAttentionwithQueries.md]] : Provably Learning Multi-Head Attention with Queries
-- [[2026-08-04_11-35-20Z_PrinciplesofRobotAutonomy.md]] : Principles of Robot Autonomy
-- [[2026-08-04_14-19-59Z_WhenOutputsDisperse_DoesEpistemicRevisionFollow_AB.md]] : When Outputs Disperse, Does Epistemic Revision Follow? A Black-Box Coupling Diagnostic for Machine Collectives
-- [[2026-08-04_02-17-16Z_EvaluatingCounterfactualSensitivitytoPatientInform.md]] : Evaluating Counterfactual Sensitivity to Patient Information in Medication-Safety Reasoning
-- [[2026-08-03_23-54-30Z_ScalinganAutoregressiveTransformerforSingle_CellGe.md]] : Scaling an Autoregressive Transformer for Single-Cell Generation
-- [[2026-08-04_06-50-49Z_TheAgentOperatingSystem_AOS__AReferenceOperatingAr.md]] : The Agent Operating System (AOS): A Reference Operating Architecture for Distributed Agentic Systems
-- [[2026-08-04_04-00-10Z_SynEnergy_AnomalySemantic_GuidedDiffusionforSynthe.md]] : SynEnergy: Anomaly Semantic-Guided Diffusion for Synthetic Energy Data Generation
-- [[2026-08-04_07-52-23Z_Noise_AwareShrinkageforDifferentiallyPrivateZeroth.md]] : Noise-Aware Shrinkage for Differentially Private Zeroth-Order Fine-Tuning of Large Language Models
-- [[2026-08-03_13-35-06Z_ExplainableAIfortheEURighttoExplanation_ASystemati.md]] : Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap
-- [[2026-08-04_14-57-06Z_ComputingActualCausesforNeuralNetworkPredictionsun.md]] : Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs
-- [[2026-08-04_07-23-46Z_FromWearableDatatoPersonalizedandActionableHealthI.md]] : From Wearable Data to Personalized and Actionable Health Insights
-- [[2026-08-04_04-02-28Z_ScalableFrequency_andLength_AwareSubdocumentDedupl.md]] : Scalable Frequency- and Length-Aware Subdocument Deduplication for Large Language Model Pretraining
-- [[2026-08-04_13-16-07Z_POEM_Phase_Aware__mathrm_SO__2__FeatureRotationfor.md]] : POEM: Phase-Aware $\mathrm{SO}(2)$ Feature Rotation for Time Series Forecasting Under Periodicity Drift
-- [[2026-08-04_14-34-41Z_MissClick_ExploitingDigit_SerializedCoordinatestoA.md]] : MissClick: Exploiting Digit-Serialized Coordinates to Attack GUI Grounding Models
-- [[2026-08-04_14-19-53Z_DetectingHallucinationsandRecoveringVerifiedAnswer.md]] : Detecting Hallucinations and Recovering Verified Answers in Arabic Islamic Question Answering
-- [[2026-08-04_07-46-28Z_EfficientVideoDatasetDistillationviaCluster_Guided.md]] : Efficient Video Dataset Distillation via Cluster-Guided Prototype Blending
-- [[2026-08-04_02-21-36Z_CastFSR_AFast__Slow__ReflectAgenticReasoningFramew.md]] : CastFSR: A Fast--Slow--Reflect Agentic Reasoning Framework for Context-Aware Time Series Forecasting
-- [[2026-08-03_19-44-45Z_In_ContextCollapseinVision_LanguageModelsandHowtoM.md]] : In-Context Collapse in Vision-Language Models and How to Mitigate it?
-- [[2026-08-04_03-53-04Z_CausalInferencewithUnstructuredOutcomes.md]] : Causal Inference with Unstructured Outcomes
-- [[2026-08-04_02-01-03Z_PairedRecipient_basedEvaluationofSurvivalPredictio.md]] : Paired Recipient-based Evaluation of Survival Prediction for Deceased Donor Kidney Transplants
-- [[2026-08-04_14-38-06Z_RiskyBusiness_MeasuringTheFaithfulness_SafetyTensi.md]] : Risky Business: Measuring The Faithfulness-Safety Tension
-- [[2026-08-04_11-37-03Z_FedCARE_AMulti_ObjectivePersonalisedFederatedLearn.md]] : FedCARE: A Multi-Objective Personalised Federated Learning Framework for Smart Healthcare
-- [[2026-08-03_22-54-31Z_Federatedgenerativeeventmodelsfortokenizedelectron.md]] : Federated generative event models for tokenized electronic health records
-- [[2026-08-04_10-16-24Z_StatePropagationAlsoSatisfies_AComplex_ValuedState.md]] : State Propagation Also Satisfies: A Complex-Valued State-Space Model for Deterministic State Tracking
-- [[2026-08-04_03-01-54Z_LearningMusicStyleforPianoArrangementThroughCross_.md]] : Learning Music Style for Piano Arrangement Through Cross-Modal Bootstrapping
-- [[2026-08-04_06-13-41Z_DiversityisNotAmbiguity_TowardAccurateandEfficient.md]] : Diversity is Not Ambiguity: Toward Accurate and Efficient Ambiguity Detection for Open-Domain QA
-- [[2026-08-03_23-23-38Z_ATFlash_Per_RoPE_WavelengthAttentionWindowsforComp.md]] : ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference
-- [[2026-08-04_08-04-36Z_TheTell_TaleTrace_DetectingReasoningFailuresinLLMs.md]] : The Tell-Tale Trace: Detecting Reasoning Failures in LLMs Using Chain-of-Thought Dynamics
-- [[2026-08-04_02-30-59Z_LanguageModelsEncodetheContextualTruthofPropositio.md]] : Language Models Encode the Contextual Truth of Propositions
-- [[2026-08-04_14-25-27Z_SAT_Edge_Agent_Hardware_in_the_LoopEdge_AgentOrche.md]] : SAT-Edge-Agent: Hardware-in-the-Loop Edge-Agent Orchestration for Onboard Satellite Intelligence
-- [[2026-08-04_04-39-14Z_Simulation_freeandfinite_timediffusionmodel.md]] : Simulation-free and finite-time diffusion model
-- [[2026-08-04_03-40-08Z_AIAgentEconomics_CanAutonomousEconomicBehaviorEmer.md]] : AI Agent Economics: Can Autonomous Economic Behavior Emerge among AI Agents under Minimal External Conditions?
-- [[2026-08-04_11-25-44Z_LeveragingSystem_LevelObservationstoInformBayesian.md]] : Leveraging System-Level Observations to Inform Bayesian Learning of Model Parameters for Quantitative Verification
-- [[2026-08-03_19-46-13Z_ReinforcementLearningwithEvolvingRubricsasRewardsf.md]] : Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning
-- [[2026-08-03_20-38-48Z_Contrast_invariantdeepptychographyneuralnetworks.md]] : Contrast-invariant deep ptychography neural networks
-- [[2026-08-03_22-31-30Z_Hypercubes_Hyperplanes_andConstraint_InducedComple.md]] : Hypercubes, Hyperplanes, and Constraint-Induced Complexity Collapse in Atomic Concept Learning
-- [[2026-08-03_21-00-58Z_VeriTrace_Human_LikeTemporalExplorationCompletesAg.md]] : VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space
-- [[2026-08-04_12-12-56Z_ConsensusMeasuresforUnstructuredBiomedicalTextAnno.md]] : Consensus Measures for Unstructured Biomedical Text Annotations
-- [[2026-08-04_06-04-18Z_SurrogateSubstitutionPreservesPHIDetectability_AMu.md]] : Surrogate Substitution Preserves PHI Detectability: A Multi-Detector Equivalence Study
-- [[2026-08-04_13-36-25Z_DecouplingGenerationandSelectionforBudget_Constrai.md]] : Decoupling Generation and Selection for Budget-Constrained Faithful Summarization
-- [[2026-08-04_05-36-19Z_ANCHOR_RE_AnAgenticNeuro_SymbolicFrameworkforGroun.md]] : ANCHOR-RE: An Agentic Neuro-Symbolic Framework for Grounded Biomedical Relation Extraction
-- [[2026-08-04_09-03-20Z_ADirectRoutetoMarkovChainConvergenceviaAsymptoticE.md]] : A Direct Route to Markov Chain Convergence via Asymptotic Equivalence with the Target
-- [[2026-08-04_14-29-14Z_AnActionableDiagnosisofMultilingual_Multi_AgentPla.md]] : An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures
-- [[2026-08-04_03-31-24Z_RevisitingTDTargetAggregationunderUncertaintyinQ_L.md]] : Revisiting TD Target Aggregation under Uncertainty in Q-Learning
-- [[2026-08-04_13-49-12Z_CausalOPD_First_Wrong_StepSupervisionforDistilling.md]] : CausalOPD: First-Wrong-Step Supervision for Distilling Causal Chain Reasoning
-- [[2026-08-03_09-44-35Z_PatTree_anovelapproachforautomatedcreationofmultim.md]] : PatTree: a novel approach for automated creation of multimodal, graph-based patient representations for medical classification tasks
-- [[2026-08-03_15-28-32Z_PredictiveSetTheory_AGenerativeFrameworkforCogniti.md]] : Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms
-- [[2026-08-04_13-13-09Z_LoopMTP_Aloopedtransformerguidedbylatentmulti_toke.md]] : LoopMTP: A looped transformer guided by latent multi-token prediction
-- [[2026-08-04_11-49-16Z_ChronoLens_MeasuringLanguageChangeAcrossTime_Langu.md]] : ChronoLens: Measuring Language Change Across Time, Languages, and Linguistic Levels
-- [[2026-08-03_21-46-08Z_BayesianDataReweightingImprovesMultimodalRetrieval.md]] : Bayesian Data Reweighting Improves Multimodal Retrieval for Knowledge-Based Visual Question Answering
-- [[2026-08-04_12-42-11Z_GenOS_CompositionalCertificatesforSemanticRobustne.md]] : GenOS: Compositional Certificates for Semantic Robustness in AI Code Generation
-- [[2026-08-04_05-48-05Z_Evidence_GroundedMultimodalKnowledgeGraphConstruct.md]] : Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning
-- [[2026-08-03_18-21-36Z_NeuralNetworkswithLocalConvergingInputsforEfficien.md]] : Neural Networks with Local Converging Inputs for Efficient Options Pricing Models
-- [[2026-08-04_06-51-45Z_Self_SupervisedRepresentation_GuidedGenerativeData.md]] : Self-Supervised Representation-Guided Generative Dataset Distillation
-- [[2026-08-04_12-29-47Z_Divide_and_Conquer_TowardsGeneralizableAmortizedBa.md]] : Divide-and-Conquer: Towards Generalizable Amortized Bayesian Inference for the Drift Diffusion Model
-- [[2026-08-03_23-25-50Z_RubricsasPrivilegedInformationforOpen_EndedGenerat.md]] : Rubrics as Privileged Information for Open-Ended Generation
-- [[2026-08-04_03-23-12Z_SeqLLM_AugmentingLLMswithBehavioral_SequenceModeli.md]] : SeqLLM: Augmenting LLMs with Behavioral-Sequence Modeling for High-Stakes Decisions at WeChat Pay
-- [[2026-08-04_14-36-34Z_AI_BasedSoundEffectGeneration_ANarrativeReviewofGe.md]] : AI-Based Sound Effect Generation: A Narrative Review of Generative Models Across Input Modalities
-- [[2026-08-04_06-02-06Z_EFXAllocationIn_Multi_Hypergraphs.md]] : EFX Allocation In (Multi)Hypergraphs
-- [[2026-08-04_04-59-48Z_BeyondAveragePerformance_DynamicInstanceClustering.md]] : Beyond Average Performance: Dynamic Instance Clustering and Specialized Algorithm Design in LLM-Assisted Evolutionary Search
-- [[2026-08-04_09-39-24Z_Don_tLetMeAskforIt_LLMsShowDeficienciesinActiveMul.md]] : Don't Let Me Ask for It: LLMs Show Deficiencies in Active Multi-Turn Information Acquisition for Abductive Inference
-- [[2026-08-04_01-33-02Z_OntheNon_SpecificityofStatisticalMeasuresUsedinScr.md]] : On the Non-Specificity of Statistical Measures Used in Script Decipherment
-- [[2026-08-04_12-32-26Z_SFTConflicts_RLCoexists_ATheoreticalandEmpiricalAn.md]] : SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs
-- [[2026-08-04_13-41-21Z_ShieldingforHigher_OrderSafety.md]] : Shielding for Higher-Order Safety
-- [[2026-08-04_03-51-46Z_GSTEP_GlobalSpatio_TemporalDensity_DrivenVisualTok.md]] : GSTEP: Global Spatio-Temporal Density-Driven Visual Token Pruning for Efficient Video Large Language Models
-- [[2026-08-04_13-14-47Z_ConformalShift_TargetedEventReorderingAgainstAdapt.md]] : ConformalShift: Targeted Event Reordering Against Adaptive ECG Monitoring
-- [[2026-08-02_13-57-28Z_Vulnerabilities_SecretsandMisconfigurationintheHig.md]] : Vulnerabilities, Secrets and Misconfiguration in the Highest-Exposure Docker Hub Images
-- [[2026-08-04_04-30-02Z_Convex_Hull_NeighborhoodSmoothDualGeneralization_C.md]] : Convex-Hull-Neighborhood Smooth Dual Generalization: Controlling Local Correction Propagation in Offline RL
-- [[2026-08-04_10-38-41Z_ALow_CostHybridReservoirComputingModelforIsolatedS.md]] : A Low-Cost Hybrid Reservoir Computing Model for Isolated Sign Language Video Recognition
-- [[2026-08-04_05-29-02Z_UniGD_AUnifiedGenerative_DiscriminativeFrameworkfo.md]] : UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval
-- [[2026-08-04_13-49-41Z_DiagLoop_ACounterfactualDataFlywheelwithStage_Loca.md]] : DiagLoop: A Counterfactual Data Flywheel with Stage-Localized Reinforcement for Diagnostic LLMs
-- [[2026-08-04_01-41-40Z_V_FIND_RevealingtheIntrinsicForgeryKnowledgeEncode.md]] : V-FIND: Revealing the Intrinsic Forgery Knowledge Encoded in Video Forgery Detectors
-- [[2026-08-04_06-43-04Z_WhenRefusalLooksSafe_TheRefusal_CueShortcutinSafet.md]] : When Refusal Looks Safe: The Refusal-Cue Shortcut in Safety Guard Models
-- [[2026-08-03_20-55-58Z_BAP_SQL_Budget_AwareObservationPlanningforAgenticT.md]] : BAP-SQL: Budget-Aware Observation Planning for Agentic Text-to-SQL
-- [[2026-08-04_04-17-54Z_WhatLanguageDoesandWhattheEvidenceSupports_AFuncti.md]] : What Language Does and What the Evidence Supports: A Functional Role Taxonomy and Evidence Audit of Language Grounding in Embodied Agents
-- [[2026-08-04_09-19-53Z_TightWorst_CaseBoundsfortheSmallestEigenvalueofReL.md]] : Tight Worst-Case Bounds for the Smallest Eigenvalue of ReLU NTK Gram Matrices
-- [[2026-08-04_02-53-54Z_ExploitingSeparabilityinMulti_ScaleGrey_BoxBayesia.md]] : Exploiting Separability in Multi-Scale Grey-Box Bayesian Optimization
-- [[2026-08-04_12-13-43Z_Cross_LingualBiasinLargeLanguageModels_AComparativ.md]] : Cross-Lingual Bias in Large Language Models: A Comparative Analysis of English and Swahili
-- [[2026-08-03_23-42-24Z_InvertedDetectionandControlinSteeringVectors.md]] : Inverted Detection and Control in Steering Vectors
-- [[2026-08-04_12-39-33Z_PolicyFragmentationorInstitutionalAlignment_Instit.md]] : Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
-- [[2026-08-04_00-00-46Z_HyperFL_Query_AdaptiveRepresentationLearningforSof.md]] : HyperFL: Query-Adaptive Representation Learning for Software Fault Localization
-- [[2026-08-04_09-24-07Z_ShapingWind_TunnelAirflowforUnmannedAerialVehicles.md]] : Shaping Wind-Tunnel Airflow for Unmanned Aerial Vehicles using Online Learning
-- [[2026-08-04_05-26-25Z_LightweightChunkSelectionforMobileRetrieval_Augmen.md]] : Lightweight Chunk Selection for Mobile Retrieval-Augmented Generation
-- [[2026-08-04_10-31-58Z_FedRings_AScalableandTopology_AwareFederatedLearni.md]] : FedRings: A Scalable and Topology-Aware Federated Learning Framework for LEO Satellite Constellations
-- [[2026-08-03_11-26-16Z_MeasuringExplainerStabilityviaAttributionSeparabil.md]] : Measuring Explainer Stability via Attribution Separability
-- [[2026-08-04_12-22-31Z_SoftGuidanceStartstoOutperformCoTPromptingasLLMsIm.md]] : Soft Guidance Starts to Outperform CoT Prompting as LLMs Improve
-- [[2026-08-04_05-06-51Z_InternalizingAcademicWritingWorkflowsforIntroducti.md]] : Internalizing Academic Writing Workflows for Introduction Generation via Struct-Aware Policy Learning
-- [[2026-08-03_08-33-54Z_LearningMolecularRepresentationsfromCellularPhenot.md]] : Learning Molecular Representations from Cellular Phenotypes with Structure Preservation
-- [[2026-08-04_10-06-15Z_EnactiveArtificialIntelligence_ADecision_CentricAr.md]] : Enactive Artificial Intelligence: A Decision-Centric Architecture for Complex Systems
-- [[2026-08-03_07-24-33Z_BulkPR_Bench_BenchmarkingQueue_LevelGovernanceofIn.md]] : BulkPR-Bench: Benchmarking Queue-Level Governance of Interacting Pull Requests
-- [[2026-08-04_13-34-52Z_AutoSND_FromExecutionEvidencetoStructuralPoliciesf.md]] : AutoSND: From Execution Evidence to Structural Policies for Automated Network Dismantling Heuristic Discovery
-- [[2026-08-03_20-59-26Z_GoT_CD_Graph_of_ThoughtsCausalDiscoveryandtheFragi.md]] : GoT-CD: Graph-of-Thoughts Causal Discovery and the Fragility of Post-hoc Path-Specific Fairness Audits
-- [[2026-08-04_01-41-01Z_ProPRL_Property_AwarePrerequisiteRelationLearningi.md]] : ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs
-- [[2026-08-02_20-33-05Z_DenialRAG_Single_DocumentRAGPoisoningviaEmbeddedPa.md]] : DenialRAG: Single-Document RAG Poisoning via Embedded Parametric Denial
-- [[2026-08-04_11-05-02Z_ShouldtheBoundaryTermBeLearnedinReflectedDiffusion.md]] : Should the Boundary Term Be Learned in Reflected Diffusion? Conormal Trace and Reflection Masking
-- [[2026-08-04_06-56-47Z_AgenticReinforcementLearningwithSelf_DistilledRewa.md]] : Agentic Reinforcement Learning with Self-Distilled Reward Shaping
-- [[2026-08-03_21-21-22Z_RobustCounterfactualPolicyOptimisationviaNondeterm.md]] : Robust Counterfactual Policy Optimisation via Nondeterministic Causal Models
-- [[2026-08-04_12-34-47Z_AI_AssistedPeerReviewAcrossResearchCommunities_Fro.md]] : AI-Assisted Peer Review Across Research Communities: From Reviewer AI Policies to LLM Review Quality
-- [[2026-08-04_10-46-10Z_BalancingEfficiencyandEfficacy_Training_FreeAttent.md]] : Balancing Efficiency and Efficacy: Training-Free Attention-Guided Switching Between Explicit and Latent Thoughts for MLLMs
-- [[2026-08-04_07-21-51Z_ShielDroid_AHybridApproachIntegratingMachineandDee.md]] : ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection
-- [[2026-08-04_11-21-08Z_ContinueorReplan_Bernoulli_ContinuationPolicyLearn.md]] : Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution
-- [[2026-08-04_07-33-35Z_ED_DiT_Physics_GuidedDiffusionPretrainingforTransf.md]] : ED-DiT: Physics-Guided Diffusion Pretraining for Transferable Molecular Representations from Electron Density
-- [[2026-08-04_03-36-41Z_GettingtheParametersRight_ADifficulty_GradedBenchm.md]] : Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls
-- [[2026-08-04_11-02-26Z_WhenCorrectSolutionsRepeat_Rarity_AwareCreditRedis.md]] : When Correct Solutions Repeat: Rarity-Aware Credit Redistribution for GRPO
-- [[2026-08-04_10-12-12Z_TowardsImprovingSequentialDecision_MakinginLLMAgen.md]] : Towards Improving Sequential Decision-Making in LLM Agents via Experience Memory
-- [[2026-08-04_08-08-28Z_SeaSlides_SemanticAbstractionLayerforAgenticSlideG.md]] : SeaSlides: Semantic Abstraction Layer for Agentic Slide Generation
-- [[2026-08-04_12-11-14Z_TrainingDocumentsRerankerwithSearchRubricsforDeepR.md]] : Training Documents Reranker with Search Rubrics for Deep Research Agent
-- [[2026-08-04_14-28-42Z_Failure_InformedImageSelf_AugmentationforMultimoda.md]] : Failure-Informed Image Self-Augmentation for Multimodal Large Language Model Self-Improvement
-- [[2026-08-02_15-03-37Z_dots_tts_edit_PreciselyControlledSpeechEditingwith.md]] : dots.tts.edit: Precisely Controlled Speech Editing with a Continuous Autoregressive Model
-- [[2026-08-04_12-41-32Z_FromSocialCodingtoAgenticCoding_ProductivityandRel.md]] : From Social Coding to Agentic Coding: Productivity and Relational Reconfiguration in Open-Source Communities
-- [[2026-08-04_09-40-45Z_TimeRLM_RecursiveLanguageModelsEnablePreciseAnomal.md]] : TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series
-- [[2026-08-04_08-32-30Z_AS_FedBridge_Pseudo_SpikeBridgeDistillationforHete.md]] : AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning
-- [[2026-08-04_08-52-40Z_Route_Align_VerifyforFunctionalCorrectnessinCodeGe.md]] : Route-Align-Verify for Functional Correctness in Code Generation
-- [[2026-08-04_08-49-34Z_BenchmarkingtheBenchmarks_TestingthePredictiveVali.md]] : Benchmarking the Benchmarks: Testing the Predictive Validity of Commonsense Benchmarks
-- [[2026-08-04_11-14-13Z_AdaptiveModalityReliabilityDiagnosisandRestoration.md]] : Adaptive Modality Reliability Diagnosis and Restoration for Robust Multimodal Intent Recognition
-- [[2026-08-04_08-08-04Z_Distractor_AwareTruncation_DisentanglingContext_Le.md]] : Distractor-Aware Truncation: Disentangling Context-Length Effects from Signal Loss in Long-Context LLM Benchmarks
-- [[2026-08-04_10-07-14Z_AIWorldCup2026_BenchmarkingLargeLanguageModelsforE.md]] : AI World Cup 2026: Benchmarking Large Language Models for End-to-End Football Tournament Prediction
-- [[2026-08-04_08-35-51Z_ScreenshotsorTools_ElicitingToolUseandManagingMult.md]] : Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents
-- [[2026-08-04_11-43-22Z_CanLLMdesignhigh_qualityexperiments_AComprehensive.md]] : Can LLM design high-quality experiments? A Comprehensive and Systematic Benchmark on Autonomous Experimental Design
-- [[2026-08-04_11-02-45Z_ToolLIFT_LiftingTool_SpecificTrajectoriesintoFunct.md]] : ToolLIFT: Lifting Tool-Specific Trajectories into Function-Level Graphs for Generalizable Tool Planning
-- [[2026-08-04_09-51-54Z_MMLongBench_Doc_V2_ACorrected_Annotation_Semantics.md]] : MMLongBench-Doc-V2: A Corrected-Annotation, Semantics-Aware Revision of MMLongBench-Doc
-- [[2026-08-04_12-57-08Z_FraQ_EfficientCoordinate_SpaceRecompressionforFede.md]] : FraQ: Efficient Coordinate-Space Recompression for Federated Low-Rank Adaptation
-- [[2026-08-04_11-01-38Z_ChartAnno_EvaluatingMLLMsforChartAnnotationGenerat.md]] : ChartAnno: Evaluating MLLMs for Chart Annotation Generation
-- [[2026-08-04_09-05-41Z_ArtECulture_BenchmarkingCulture_ConditionedVisualE.md]] : ArtECulture: Benchmarking Culture-Conditioned Visual Emotion Understanding in Multimodal Large Language Models
-- [[2026-08-04_12-30-13Z_AdversarialFast_MovingReal_WorldDomainsasTestBedsf.md]] : Adversarial Fast-Moving Real-World Domains as Test Beds for Benchmarking AI Scientist Capabilities
-- [[2026-08-04_13-53-48Z_PhyAI_Real_TimePhysicalAIattheEdge_ScalableRollout.md]] : PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud
-- [[2026-08-04_12-26-58Z_Test_TimeAugmentationforTabular_to_ImageClassifier.md]] : Test-Time Augmentation for Tabular-to-Image Classifiers under Distribution Shifts
-- [[2026-08-04_11-56-02Z_ReversingArrowsinLargeLanguageModels.md]] : Reversing Arrows in Large Language Models
-- [[2026-08-04_10-22-02Z_StopReplacingNoisewithNoise_Two_SourceReliabilityA.md]] : Stop Replacing Noise with Noise: Two-Source Reliability Assessment for Label Correction and Sample Reweighting in Label-Noise Learning
-- [[2026-08-02_13-23-49Z_SphereRetractionNormalizations.md]] : Sphere Retraction Normalizations
-- [[2026-08-03_08-54-18Z_Stuckon_A__DiagnosingandRepairingInterfaceInjuryin.md]] : Stuck on "A": Diagnosing and Repairing Interface Injury in Attention-to-KDA Linearization of a 0.6B Language Model
-- [[2026-08-04_11-45-10Z_ConlangBench_ExploringLanguageKnowledgeandLearning.md]] : ConlangBench: Exploring Language Knowledge and Learning in LLMs through Diverse Constructed Languages
-- [[2026-08-04_10-53-02Z_LLaDAMoEv2_ScalingMixture_of_ExpertsDiffusionLangu.md]] : LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models
-- [[2026-08-04_13-59-12Z_PatternoverPixels_MeasuringPatternCompletionBiasin.md]] : Pattern over Pixels: Measuring Pattern Completion Bias in Multimodal Code Generation
-- [[2026-08-04_11-45-46Z_WhenManyAnswersAreValid_VotingFails_SymbolicVerifi.md]] : When Many Answers Are Valid, Voting Fails: Symbolic Verification for Best-of-K Causal Reasoning in LLMs
-- [[2026-08-04_10-48-11Z_DataSpace_BenchmarkingDataAgentsforVerifiableAnaly.md]] : DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces
-- [[2026-08-04_14-36-44Z_CanLLMsTestTerminalUserInterfaces.md]] : Can LLMs Test Terminal User Interfaces?
-- [[2026-08-04_08-18-38Z_EvaluatingLLMTrade_offsforEnterpriseAutomation_Les.md]] : Evaluating LLM Trade-offs for Enterprise Automation: Lessons from Workflow Generation in a Production Enterprise Platform
-- [[2026-08-04_11-18-28Z_BeyondtheGegenbauerParadigm_q_OrthogonalKernelsfor.md]] : Beyond the Gegenbauer Paradigm: q-Orthogonal Kernels for Machine Learning
-- [[2026-08-04_09-08-16Z_Conformalriskcontrolformodel_formuncertaintyinpara.md]] : Conformal risk control for model-form uncertainty in parametric non-intrusive reduced-order models
-- [[2026-08-04_08-04-59Z_DocTrace_TowardsTraceableLongDocumentVQAviaHierarc.md]] : DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning
-- [[2026-08-04_14-26-45Z_CARE_Bench_BenchmarkingPatient_FacingLLMTriage.md]] : CARE-Bench: Benchmarking Patient-Facing LLM Triage
-- [[2026-08-04_11-42-26Z_WeClawArena_AnAuditableSandboxandBenchmarkforCross.md]] : WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks
-- [[2026-08-04_13-02-47Z_Language_SpecializedMulti_TeacherOn_PolicyDistilla.md]] : Language-Specialized Multi-Teacher On-Policy Distillation for Multilingual LLM-Based ASR
-- [[2026-08-04_14-02-55Z_TARL_Transaction_AwareReliableLedgersforExecutable.md]] : TARL: Transaction-Aware Reliable Ledgers for Executable Memory Management in Long-Term Agents
-- [[2026-08-04_14-04-56Z_WhenAgentsLearntoBeYou_BenchmarkingPrivacyLeakage_.md]] : When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills
-- [[2026-08-04_12-43-47Z_DiagChain_ADiagnosticBenchmarkforEvaluatingLLMAgen.md]] : DiagChain: A Diagnostic Benchmark for Evaluating LLM Agents on Evidence-Grounded Attack Chain Reconstruction
-- [[2026-08-04_14-51-56Z_GDPevo_EvaluatingAgentSelf_EvolutiononRealBusiness.md]] : GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks
-- [[2026-08-04_13-14-06Z_UnequalVerdicts_InvestigatingGenderBiasinLLM_Based.md]] : Unequal Verdicts: Investigating Gender Bias in LLM-Based Fake News Detection
-- [[2026-08-04_12-51-32Z_Largelanguagemodelsforpartialdifferentialequationw.md]] : Large language models for partial differential equation workflows
-- [[2026-08-04_13-57-48Z_LiveEvalBench_TowardOpen_WorldEvaluationforWebGene.md]] : LiveEvalBench: Toward Open-World Evaluation for Web Generation
-- [[2026-08-04_13-40-03Z_TamingtheImplicit_Dual_ChannelRisk_AwareReinforcem.md]] : Taming the Implicit: Dual-Channel Risk-Aware Reinforcement Fine-Tuning for Continual Multimodal Post-Training
-- [[2026-08-04_10-01-30Z_DistilledRoads_GeneralisableRoadNetworkExtractionA.md]] : Distilled Roads: Generalisable Road Network Extraction Across Sensors, Resolutions, and Region
-- [[2026-08-04_14-37-16Z_AgentsCatchingAgents_ShortcutCascadesandBenchmarkG.md]] : Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems
-- [[2026-08-04_10-33-04Z_DynamicallyAllocatingEvaluationEffortforModelRanki.md]] : Dynamically Allocating Evaluation Effort for Model Ranking
-- [[2026-08-04_12-29-37Z_EnhancingTabularLearnerswithContext_AwareSemanticE.md]] : Enhancing Tabular Learners with Context-Aware Semantic Embeddings
-- [[2026-08-03_14-40-59Z_ARCHead_Activation_MetricResidualCorrectionforLarg.md]] : ARCHead: Activation-Metric Residual Correction for Large Language Model Output Heads
-- [[2026-08-04_08-39-16Z_Long_termTrafficScenePredictionviaPolynomialRepres.md]] : Long-term Traffic Scene Prediction via Polynomial Representations in Autonomous Driving
-- [[2026-08-03_10-41-25Z_Crayotter_LearningLong_HorizonVideoEditingAgentsvi.md]] : Crayotter: Learning Long-Horizon Video Editing Agents via Group-Relative Preference Backpropagation
-- [[2026-08-04_12-48-05Z_FOUND_AF_BenchmarkingECGFoundationModelsforAtrialF.md]] : FOUND-AF: Benchmarking ECG Foundation Models for Atrial Fibrillation Detection
-- [[2026-07-30_20-51-51Z_AgenticCodingintheWild_CharacterizingGitHubCopilot.md]] : Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale
-- [[2026-08-03_02-22-02Z_Post_TrainingonOfficeWorkImprovesSoftwareEngineeri.md]] : Post-Training on Office Work Improves Software Engineering: A Behavioral Account of Cross-Domain Transfer
-- [[2026-08-03_17-35-31Z_WhoShouldBeGenerated_JustifyingDemographicTargetsi.md]] : Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation
-- [[2026-08-02_20-19-56Z_SweetLittleLies_StrategicDeceptioninAIEmotionalSup.md]] : Sweet Little Lies: Strategic Deception in AI Emotional Support Chatbots
-- [[2026-08-03_14-01-44Z_Homebot_APersonalAIAgentforConversationalHomeAssis.md]] : Homebot: A Personal AI Agent for Conversational Home Assistance and Automation
-- [[2026-08-03_10-23-42Z_EduZone_AFrameworkforEvaluatingLLMSafetyforK_12Stu.md]] : EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
-- [[2026-08-03_17-03-19Z_SWE_Touch_BenchmarkingCodingAgentsWhenUsersTouchth.md]] : SWE-Touch: Benchmarking Coding Agents When Users Touch the Code
-- [[2026-08-02_16-10-02Z_Prompt_InducedWasteinLargeReasoningModels_APreregi.md]] : Prompt-Induced Waste in Large Reasoning Models: A Preregistered Two-Harness Benchmark of Coding Agents
-- [[2026-08-03_04-15-40Z_WhenMemoryBecomesAuthority_BenchmarkingAuthorityCo.md]] : When Memory Becomes Authority: Benchmarking Authority Collapse at the Memory Consolidation Boundary
-- [[2026-08-03_14-12-18Z_Harness_R1_LearningtoEditExecutableRuntimeHarnesse.md]] : Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories
-- [[2026-08-03_00-28-49Z_SecuringAgenticAI_FromPer_ActionCheckstoTrajectory.md]] : Securing Agentic AI: From Per-Action Checks to Trajectory Assurance
-- [[2026-08-03_08-51-50Z_HarnessCompass_GuidingAutomaticHarnessEvolutiontow.md]] : HarnessCompass: Guiding Automatic Harness Evolution toward Generalizable and Effective Agent Harnesses
-- [[2026-08-01_13-51-55Z_OpenART_ScalingAgentRedTeamingviaOpen_EndedEnviron.md]] : OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution
-- [[2026-08-01_13-47-44Z_FromChasingGhoststoMissedAttacks_PerspectivesandPe.md]] : From Chasing Ghosts to Missed Attacks: Perspectives and Perceptions of SOC Practitioners on LLM Integration, Risks, and Readiness
-- [[2026-08-02_05-09-28Z_FromAITechnicalDebttoAgenticTechnicalDebt_ASystema.md]] : From AI Technical Debt to Agentic Technical Debt: A Systematic Mapping of Root Causes and Manifestations in Agentic AI Systems
-- [[2026-08-02_02-06-23Z_ModelingSocialDynamicswithanLLM_EnabledAgentBasedN.md]] : Modeling Social Dynamics with an LLM-Enabled Agent Based Network-Dynamic (LAND) Model
-- [[2026-08-02_07-32-49Z_Don_tOfferWhatCan_tBeDone_DeterministicExecutabili.md]] : Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale
-- [[2026-08-02_06-31-25Z_CallScreenBench_BenchmarkingOn_DeviceModelsasPhone.md]] : CallScreenBench: Benchmarking On-Device Models as Phone Secretaries
-- [[2026-08-01_16-32-03Z_MeandMyBot_WhatUsersTalkAboutinAICompanionCommunit.md]] : Me and My Bot: What Users Talk About in AI Companion Communities on Reddit
+- [[raw/papers/2026-08-08_15-28-45Z_QuantizationDegradationinLargeLanguageModels_ASign.md]] : Quantization Degradation in Large Language Models: A Signal-Noise Perspective
+- [[raw/papers/2026-07-21_09-45-34Z_DocAtlas_Long_DocumentUnderstandingasMutable_State.md]] : DocAtlas: Long-Document Understanding as Mutable-State Interaction
+- [[raw/papers/2026-08-08_09-05-10Z_LegalResponsibilitiesUsingAutonomousAgentsForArtif.md]] : Legal Responsibilities Using Autonomous Agents For Artificial Intelligence
+- [[raw/papers/2026-08-08_11-58-56Z_RotaryQuant_Fitting120BMoEModelsonConsumerHardware.md]] : RotaryQuant: Fitting 120B MoE Models on Consumer Hardware via Fused Compressed-Space Attention
+- [[raw/papers/2026-08-08_16-13-38Z_HarmfulContentIsNotEnough_ContinuationFramingModer.md]] : Harmful Content Is Not Enough: Continuation Framing Moderates In-Context Emergent Misalignment
+- [[raw/papers/2026-08-10_06-16-24Z_SwiftQK_FastandCommunication_EfficientTensorParall.md]] : SwiftQK: Fast and Communication-Efficient Tensor Parallelism for Query-Key Normalization
+- [[raw/papers/2026-08-07_16-46-44Z_MendelGödelMachine_RecursiveSelf_ImprovingCodingAg.md]] : Mendel Gödel Machine: Recursive Self-Improving Coding Agents via Comparative Evolution
+- [[raw/papers/2026-08-09_11-54-09Z_TheScaffoldingMattersMoreThantheInterface_AControl.md]] : The Scaffolding Matters More Than the Interface: A Controlled Comparison of MCP and CLI Tool Use Across Seven Agent Scaffoldings, Five Language Models, and One Software Task
+- [[raw/papers/2026-08-08_03-22-31Z_ReasonWide_NotDeep_AmortizingtheReasoningPremiumin.md]] : Reason Wide, Not Deep: Amortizing the Reasoning Premium into Distilled Skills
+- [[raw/papers/2026-08-09_04-31-05Z_Yesterday_sShield_Today_sSpear_ASelf_EvolvingSafet.md]] : Yesterday's Shield, Today's Spear: A Self-Evolving Safety Guardrail in Production
+- [[raw/papers/2026-08-08_09-34-22Z_DoAllLLMsKnowWhenThey_reBeingHarmful_AReproducibil.md]] : Do All LLMs Know When They're Being Harmful? A Reproducibility Study of Latent-Space Safety Probes Across Model Families
+- [[raw/papers/2026-08-10_14-10-25Z_RethinkingSelf_EvolvingAgents_DoWeStillNeedPrescri.md]] : Rethinking Self-Evolving Agents: Do We Still Need Prescribed Optimization Pipelines?
+- [[raw/papers/2026-08-07_14-56-12Z_SameAttention_DifferentTruths_PutLogit_LensoverVis.md]] : Same Attention, Different Truths: Put Logit-Lens over Visual Attention to Detect and Mitigate LVLM Object Hallucination
+- [[raw/papers/2026-08-06_22-34-20Z_RetrofittingLinearAttentionintoDiffusionLanguageMo.md]] : Retrofitting Linear Attention into Diffusion Language Models
+- [[raw/papers/2026-08-06_20-22-21Z_QuantizationDamageIsMultiplicative_NotAdditive.md]] : Quantization Damage Is Multiplicative, Not Additive
+- [[raw/papers/2026-08-07_09-11-45Z_BeyondFoundationModels_Dimension_AwareNeuralArchit.md]] : Beyond Foundation Models: Dimension-Aware Neural Architecture Search with Small-Data Representation Models for Cryocooler Lifetime Prediction
+- [[raw/papers/2026-08-06_18-49-13Z_AgenticAI_UserEmpowermentorEnclosure.md]] : Agentic AI: User Empowerment or Enclosure?
+- [[raw/papers/2026-08-07_03-13-43Z_MemPrism_Task_ConditionedRelationalMemoryViewsforL.md]] : MemPrism: Task-Conditioned Relational Memory Views for Long-Horizon Agents
+- [[raw/papers/2026-08-07_07-53-53Z_DealMeMaybe_TheRoleofEmotionsinMulti_AgentNegotiat.md]] : Deal Me Maybe: The Role of Emotions in Multi-Agent Negotiation
+- [[raw/papers/2026-08-07_10-29-19Z_TransformersStruggletoUseTheirEmergentWorldModels_.md]] : Transformers Struggle to Use Their Emergent World Models: Revisiting the Tower of Hanoi, and the Illusion of Thinking
+- [[raw/papers/2026-08-07_00-19-48Z_TheHorizonGap_Planning_Memory_Execution_Training_a.md]] : The Horizon Gap: Planning, Memory, Execution, Training, and Evaluation for Long-Horizon LLM Agents
+- [[raw/papers/2026-08-07_01-52-45Z_AgentPatch_Coarse_to_FineWeak_TaskRepairforMerging.md]] : AgentPatch: Coarse-to-Fine Weak-Task Repair for Merging Agentic Multimodal Large Language Models
+- [[raw/papers/2026-08-07_03-52-01Z_FasterQuery_KeyLearningSharpensAttentioninSelf_Att.md]] : Faster Query-Key Learning Sharpens Attention in Self-Attention Models
+- [[raw/papers/2026-08-07_06-44-14Z_Multi_AgentForensicReasoningforGeneralizableDeepfa.md]] : Multi-Agent Forensic Reasoning for Generalizable Deepfake Video Detection
+- [[raw/papers/2026-08-07_07-43-12Z_Long_HorizonAgentTrajectoryAttribution_AUnifiedBen.md]] : Long-Horizon Agent Trajectory Attribution: A Unified Benchmark and Fine-Grained Annotation Framework
+- [[raw/papers/2026-08-07_09-03-49Z_HarnessSafe_EvaluatingSafetyAcrossPersistentCarrie.md]] : HarnessSafe: Evaluating Safety Across Persistent Carriers in Agent Harnesses
+- [[raw/papers/2026-08-07_12-43-00Z_AgentMemoryDistillation_EmpoweringSmallLLMAgentswi.md]] : Agent Memory Distillation: Empowering Small LLM Agents with Hierarchical Teacher Memory
+- [[raw/papers/2026-08-06_11-59-30Z_DeepGeneralisedMixedModels_aNovelNeuralNetworkStru.md]] : Deep Generalised Mixed Models: a Novel Neural Network Structure for Analysing Hierarchical Data
+- [[raw/papers/2026-08-06_05-57-01Z_Human_LikeAnaphorResolutioninLargeLanguageModels.md]] : Human-Like Anaphor Resolution in Large Language Models
+- [[raw/papers/2026-08-05_11-34-20Z_SmallFoundationModelsofHumanCognitionandBehaviour.md]] : Small Foundation Models of Human Cognition and Behaviour
+- [[raw/papers/2026-08-06_15-18-50Z_Reducingbeliefinconspiracytheoriesastheyunfoldusin.md]] : Reducing belief in conspiracy theories as they unfold using large language models
+- [[raw/papers/2026-08-06_17-58-32Z_TheBitterLessonofToolCalling.md]] : The Bitter Lesson of Tool Calling
+- [[raw/papers/2026-08-06_14-48-09Z_MindtheGaps_Mixture_of_MindsforHumanSimulation.md]] : Mind the Gaps: Mixture-of-Minds for Human Simulation
+- [[raw/papers/2026-08-06_04-12-05Z_TheJudgment_ConsequenceGap_LLMMoralReasoninginHeal.md]] : The Judgment-Consequence Gap: LLM Moral Reasoning in Healthcare Decisions
+- [[raw/papers/2026-08-05_22-33-03Z_Example_GuidedPromptingforDocument_LevelTextSimpli.md]] : Example-Guided Prompting for Document-Level Text Simplification
+- [[raw/papers/2026-08-06_03-32-43Z_WhenExperienceBecomesInstruction_TrajectoryPoisoni.md]] : When Experience Becomes Instruction: Trajectory Poisoning in Self-Evolving Agent Skill Systems
+- [[raw/papers/2026-08-06_14-04-17Z_WhenHistoryLies_EvaluatingandImprovingToolUseunder.md]] : When History Lies: Evaluating and Improving Tool Use under Misleading Multi-Turn Histories
+- [[raw/papers/2026-08-06_13-52-16Z_LangChoiceBench_MeasuringandExplainingProgramming_.md]] : LangChoiceBench: Measuring and Explaining Programming-Language Choice in LLMs
+- [[raw/papers/2026-08-05_21-29-12Z_CanOpen_WeightLLMsProduceKernel_VerifiedCoqProofs_.md]] : Can Open-Weight LLMs Produce Kernel-Verified Coq Proofs? A Pilot Study
+- [[raw/papers/2026-08-06_13-00-59Z_AgentOPSD_RecursiveSelf_DistillationforAgenticRein.md]] : AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning
+- [[raw/papers/2026-08-05_17-27-15Z_OrchestraBench_EvaluatingMulti_AgentOrchestrationF.md]] : OrchestraBench: Evaluating Multi-Agent Orchestration Failure Modes, Recovery, and Decomposition Quality
+- [[raw/papers/2026-08-06_15-19-56Z_LearningGloballyReusableSkillsforCodingAgents.md]] : Learning Globally Reusable Skills for Coding Agents
+- [[raw/papers/2026-08-06_11-06-06Z_TheVulnerabilityWithNoCVE_ManagingPersistentGapsBe.md]] : The Vulnerability With No CVE: Managing Persistent Gaps Between Mandate and Authority in AI Coding Agents
+- [[raw/papers/2026-08-06_02-51-03Z_VibeCompiler_AResearch_LogicSynthesisToolThatRunsw.md]] : Vibe Compiler: A Research-Logic Synthesis Tool That Runs without Prompt Engineering -Toward Enhancing Metacognition for Sustaining Agency in the Age of Generative AI-
+- [[raw/papers/2026-08-05_16-11-08Z_DelusionEval_MeasuringDelusion_LinkedBehaviorsinAI.md]] : DelusionEval: Measuring Delusion-Linked Behaviors in AI Chatbots
+- [[raw/papers/2026-08-05_03-51-12Z_SocialPressureBreaksMajorityVotinginLLMSafetyPanel.md]] : Social Pressure Breaks Majority Voting in LLM Safety Panels
+- [[raw/papers/2026-08-05_08-53-16Z_WhenAbsenceIsEvidence_EvaluatingCompleteness_Sensi.md]] : When Absence Is Evidence: Evaluating Completeness-Sensitive Negative Reasoning in Large Language Models
+- [[raw/papers/2026-08-05_17-50-08Z_ChainedRecursiveLanguageModelsforMulti_IterationRe.md]] : Chained Recursive Language Models for Multi-Iteration Reasoning
+- [[raw/papers/2026-08-05_17-58-58Z_Argus_AGeneral_PurposeAgenticRuntimeforLong_Horizo.md]] : Argus: A General-Purpose Agentic Runtime for Long-Horizon Reasoning
+- [[raw/papers/2026-08-05_17-25-27Z_ItemResponseTheoryforAISafety.md]] : Item Response Theory for AI Safety
+- [[raw/papers/2026-08-05_16-33-46Z_LanguageModelsGeneralizetoHuman_likeWordOrderPrefe.md]] : Language Models Generalize to Human-like Word Order Preferences
+- [[raw/papers/2026-08-04_22-56-39Z_TheFairnessCollapsePhenomenon_BiasAmplificationinL.md]] : The Fairness Collapse Phenomenon: Bias Amplification in Language Models Trained on Synthetic Data
+- [[raw/papers/2026-08-05_11-59-20Z_Chain_of_ThoughtMonitoringCanBeUnreliableinImplici.md]] : Chain-of-Thought Monitoring Can Be Unreliable in Implicit-Influence Settings
+- [[raw/papers/2026-08-04_18-58-18Z_AgentForge_AnImmersiveRole_PlayingPlatformforLearn.md]] : AgentForge: An Immersive Role-Playing Platform for Learning Agentic Software Engineering
+- [[raw/papers/2026-08-05_14-01-10Z_A_SR_Self_EvolvingAgenticLLMsforSymbolicRegression.md]] : A-SR: Self-Evolving Agentic LLMs for Symbolic Regression via Hierarchical Coordination
+- [[raw/papers/2026-08-05_11-28-43Z_WhatWeObserveasLLMBehaviorCanBeaSide_effectofInfer.md]] : What We Observe as LLM Behavior Can Be a Side-effect of Inference Backend
+- [[raw/papers/2026-08-04_18-00-04Z_FinPerMA_ATheory_Informed_Event_GroundedPersonaliz.md]] : FinPerMA: A Theory-Informed, Event-Grounded Personalized-Memory Benchmark for LLM Agents
+- [[raw/papers/2026-08-05_15-37-18Z_EvolveNet_CollaborativeHarnessEvolutionforAgentSel.md]] : EvolveNet: Collaborative Harness Evolution for Agent Self-Improvement
+- [[raw/papers/2026-08-04_17-10-47Z_MuonMeetsMamba_SpectralOptimizationforStateSpaceMo.md]] : Muon Meets Mamba: Spectral Optimization for State Space Models
+- [[raw/papers/2026-08-04_16-19-22Z_DS_GT_ARCateRisk2026Task3_Sparse_Semantic_andLLMRe.md]] : DS@GT-ARC at eRisk 2026 Task 3: Sparse, Semantic, and LLM Reranking for ADHD Symptom Sentences
+- [[raw/papers/2026-08-04_16-40-48Z_SparseWeightDecompositionforEfficientCircuitExtrac.md]] : Sparse Weight Decomposition for Efficient Circuit Extraction
+- [[raw/papers/2026-08-04_16-29-35Z_WhenEfficiencyBecomesFragility_ExploitingDynamicRo.md]] : When Efficiency Becomes Fragility: Exploiting Dynamic Routing Vulnerabilities in Adaptive UAV Tracking
+- [[raw/papers/2026-08-04_17-34-14Z_Information_GeometricForwardPolicyTraininginGFlowN.md]] : Information-Geometric Forward Policy Training in GFlowNets
+- [[raw/papers/2026-08-04_15-48-55Z_Sensitivity_Causality_andRepairDissociate_ALayer_W.md]] : Sensitivity, Causality, and Repair Dissociate: A Layer-Wise Analysis of Perturbation Robustness and Its Scaling
+- [[raw/papers/2026-08-04_17-24-33Z_Agametheoryforfoundationmodelsshowsnewpathstoratio.md]] : A game theory for foundation models shows new paths to rational cooperation through similarity inference
+- [[raw/papers/2026-08-04_16-51-58Z_EquivariantMusicTransformer.md]] : Equivariant Music Transformer
+- [[raw/papers/2026-08-02_14-28-54Z_OnthePerformanceofMalwareDetectionClassifiersUsing.md]] : On the Performance of Malware Detection Classifiers Using Hardware Performance Counters
+- [[raw/papers/2026-08-04_17-00-52Z_LatentRewardRegistersforDiffusionPreferenceAlignme.md]] : Latent Reward Registers for Diffusion Preference Alignment
+- [[raw/papers/2026-08-04_16-04-15Z_CRS_Triage_Confidence_andReliability_AwareSelectiv.md]] : CRS-Triage: Confidence- and Reliability-Aware Selective Triage under Incomplete Clinical Evidence
+- [[raw/papers/2026-08-04_16-53-59Z_TheTransformerRevolution_Part1_DynamicProcessingth.md]] : The Transformer Revolution, Part 1: Dynamic Processing through Output- Weight Interconnections
+- [[raw/papers/2026-08-01_22-28-31Z_SingleCanonicalPromptsUnderestimateLLMSafety_sSurf.md]] : Single Canonical Prompts Underestimate LLM Safety's Surface-Form Sensitivity
+- [[raw/papers/2026-08-04_16-15-12Z_EnhancingVLMRewardModelsThroughStructure_AwareFine.md]] : Enhancing VLM Reward Models Through Structure-Aware Fine-Tuning
+- [[raw/papers/2026-08-04_16-26-47Z_Cross_ModelKVCacheTransferinLLMFamilies_AClosed_Fo.md]] : Cross-Model KV Cache Transfer in LLM Families: A Closed-Form Linear Mapping for Prefill Reuse
+- [[raw/papers/2026-08-04_17-38-06Z_ShouldWeTypeorTalktoLLMAgents_AComprehensiveStudyo.md]] : Should We Type or Talk to LLM Agents? A Comprehensive Study of Voice and Keyboard Input Perturbations
+- [[raw/papers/2026-08-04_15-56-32Z_FedCritic_MIMO_Communication_EfficientServerlessFe.md]] : FedCritic-MIMO: Communication-Efficient Serverless Federated Critic Learning for Massive-MIMO Resource Control in Open and Disaggregated 6G RANs
+- [[raw/papers/2026-08-04_15-57-21Z_QuantizationEffectsonBiomedicalLLMReliability.md]] : Quantization Effects on Biomedical LLM Reliability
+- [[raw/papers/2026-08-04_15-57-38Z_Bi_semanticChemicalEmbedderforJointRepresentationL.md]] : Bi-semantic Chemical Embedder for Joint Representation Learning of SMILES and Natural Language
+- [[raw/papers/2026-07-31_21-42-35Z_HyperAgent_PlanningandActingoverTool_SchemaHypergr.md]] : HyperAgent: Planning and Acting over Tool-Schema Hypergraphs for Tool-Use LLM Agents
+- [[raw/papers/2026-08-04_16-22-30Z_Omega_S_AFunctionalResilienceIndexforLLMFine_Tunin.md]] : Omega-S: A Functional Resilience Index for LLM Fine-Tuning
+- [[raw/papers/2026-08-04_16-59-30Z_APhysics_FlavoredTransformerNetworkforParametrizin.md]] : A Physics-Flavored Transformer Network for Parametrizing Contraction Dynamics of Engineered Skeletal Muscle Tissues
+- [[raw/papers/2026-07-31_13-59-45Z_CUADebug_DiagnosingandRepairingComputer_UseAgentFa.md]] : CUADebug: Diagnosing and Repairing Computer-Use Agent Failures
+- [[raw/papers/2026-07-15_22-05-23Z_Cura1T_SpecializedModelforAgenticHealthcare.md]] : Cura 1T: Specialized Model for Agentic Healthcare
+- [[raw/papers/2026-08-04_16-37-09Z_SociallyGroundedAgenticAI_CoordinatingPluralPerspe.md]] : Socially Grounded Agentic AI: Coordinating Plural Perspectives through Social Theory
+- [[raw/papers/2026-08-04_17-56-49Z_Agogic_Performance_TimedMusicTokensforLLM_NativeTe.md]] : Agogic: Performance-Timed Music Tokens for LLM-Native Text-to-Symbolic-Music Generation
+- [[raw/papers/2026-07-31_10-44-33Z_Studying_Identifying_andFixingHiddenTechnicalDebti.md]] : Studying, Identifying, and Fixing Hidden Technical Debt in AI-Intensive Cyber-Physical Systems
+- [[raw/papers/2026-08-04_16-07-56Z_ADMITBench_ASafety_GovernedReferenceFrameworkforEv.md]] : ADMITBench: A Safety-Governed Reference Framework for Evaluating the Admissibility of Industrial LLM Advisories
+- [[raw/papers/2026-08-04_17-28-24Z_SeparatingquantumcircuitsfromclassicalLLMs.md]] : Separating quantum circuits from classical LLMs
+- [[raw/papers/2026-08-04_16-15-02Z_ContinualSkillBench_CanLLMAgentsTrulyEvolveTheirCa.md]] : ContinualSkillBench: Can LLM Agents Truly Evolve Their Capabilities?
+- [[raw/papers/2026-08-04_16-59-28Z_PRISM_PowerfulTimeSeriestoImage_TS2I_Representatio.md]] : PRISM: Powerful Time Series to Image (TS2I) Representations for Multivariate Anomaly Detection
+- [[raw/papers/2026-08-04_17-02-34Z_LogicBeforeLanguage_Pre_pretrainingonFormalDerivat.md]] : Logic Before Language: Pre-pretraining on Formal Derivations Fosters Skill Acquisition and Compressibility
+- [[raw/papers/2026-07-31_16-16-14Z_VerifiedToolCallsImproveLLMAgentReliabilityUnderNo.md]] : Verified Tool Calls Improve LLM Agent Reliability Under Non-Atomic Failures
+- [[raw/papers/2026-08-04_15-45-31Z_ResumeMeansResume_AMachine_CheckedConformanceContr.md]] : Resume Means Resume: A Machine-Checked Conformance Contract for Checkpoint, Interrupt, and Resume Semantics in Workflow Persistence Layers
+- [[raw/papers/2026-08-04_15-30-35Z_FlowForm_SynergizingFluidPhysicswithTopologicalCon.md]] : FlowForm: Synergizing Fluid Physics with Topological Consistency for Satellite Flood Synthesis
+- [[raw/papers/2026-08-04_16-59-58Z_RobustLow_Tubal_RankTensorCompletionunderCross_Con.md]] : Robust Low-Tubal-Rank Tensor Completion under Cross-Concentrated Sampling
+- [[raw/papers/2026-08-04_16-42-04Z_TrajectoryinferenceviaAccelerationMatching.md]] : Trajectory inference via Acceleration Matching
+- [[raw/papers/2026-08-04_16-20-53Z_BanglaWild_AnIn_the_WildBengaliSceneTextRecognitio.md]] : BanglaWild: An In-the-Wild Bengali Scene Text Recognition Benchmark for OCR and Vision-Language Models
+- [[raw/papers/2026-08-04_17-27-21Z_InterpretableAdaptiveSamplingforLLMTest_TimeScalin.md]] : Interpretable Adaptive Sampling for LLM Test-Time Scaling
+- [[raw/papers/2026-08-04_16-23-39Z_CARE_X_TowardsClinicallyUsefulRadiologyVLMswithAux.md]] : CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement
+- [[raw/papers/2026-08-04_15-22-23Z_VIBE_AVAD_InformedBenchmarkforEntity_CenteredAffec.md]] : VIBE: A VAD-Informed Benchmark for Entity-Centered Affective Profiling of Large Language Model Outputs
+- [[raw/papers/2026-08-04_17-45-16Z_Video_DeepResearch_TowardstheNext_GenerationMultim.md]] : Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent
+- [[raw/papers/2026-08-04_15-25-30Z_UHPDetection_LVLMshavetheirUniqueHallucinationPatt.md]] : UHP Detection: LVLMs have their Unique Hallucination Pattern in the Consistency Space
+- [[raw/papers/2026-08-04_17-59-55Z_WorldCupArena_Prospective_Leakage_FreeEvaluationof.md]] : WorldCup Arena: Prospective, Leakage-Free Evaluation of Frontier LLMs on a Live Tournament
+- [[raw/papers/2026-08-04_17-58-05Z_PAST_Bench_BenchmarkingtheFoundationsofRecursiveSe.md]] : PAST-Bench: Benchmarking the Foundations of Recursive Self-Improvement in Personal Agents
+- [[raw/papers/2026-08-04_16-48-19Z_ImplementingCausalPerception_CompetingSCMsandSitua.md]] : Implementing Causal Perception: Competing SCMs and Situated Fairness
+- [[raw/papers/2026-08-04_15-14-50Z_Autoreflection_HowAgenticStrangeLoopsTurnHumanCult.md]] : Autoreflection: How Agentic Strange Loops Turn Human Culture into AI Infrastructure
+- [[raw/papers/2026-08-04_15-47-41Z_LatentGuard_EfficientandInspectableLatentReasoning.md]] : LatentGuard: Efficient and Inspectable Latent Reasoning for LLM Safeguards
+- [[raw/papers/2026-08-04_15-11-45Z_EfficientKnowledgeDistillationforLLMs_OfflineTop_K.md]] : Efficient Knowledge Distillation for LLMs: Offline Top-K Logits and a Fused Chunked KL Loss
+- [[raw/papers/2026-08-04_16-03-45Z_BeyondRepresentationalSimilarity_Source_Conditione.md]] : Beyond Representational Similarity: Source-Conditioned Description-Length Gain for Generative Plagiarism Detection and Candidate Source Reranking
+- [[raw/papers/2026-08-04_16-28-53Z_ANNOTARES_ADatasetforExtractingLogicalStructuresfr.md]] : ANNOTARES: A Dataset for Extracting Logical Structures from German Statutory Texts
+- [[raw/papers/2026-08-04_17-59-56Z_SocietyBench_ForecastingCounterfactualSocial_World.md]] : SocietyBench: Forecasting Counterfactual Social-World Evolution
+- [[raw/papers/2026-08-04_16-49-53Z_WhenandWheretoLook_AdaptiveVisualEvidenceSchedulin.md]] : When and Where to Look: Adaptive Visual Evidence Scheduling for Efficient Long Video Understanding
+- [[raw/papers/2026-08-04_17-16-14Z_TACT_Taxonomy_AlignedPost_TrainingforPedagogically.md]] : TACT: Taxonomy-Aligned Post-Training for Pedagogically Adaptive English Tutoring
+- [[raw/papers/2026-08-04_15-22-37Z_UNVaMP_NeuralKnowledgeTracingwithVariationalRegula.md]] : UNVaMP: Neural Knowledge Tracing with Variational Regularization of Latent Knowledge Dynamics
+- [[raw/papers/2026-08-04_17-59-58Z_ParVL_ParallelScalingandExpandableComputeAllocatio.md]] : ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs
+- [[raw/papers/2026-08-04_17-51-40Z_AssessmentofConditionalDiffusionModelforSyntheticH.md]] : Assessment of Conditional Diffusion Model for Synthetic Histopathology Image Generation
+- [[raw/papers/2026-08-04_15-50-26Z_MAFIA_Query_OnlyMemoryAttacksviaProbingandFactualI.md]] : MAFIA: Query-Only Memory Attacks via Probing and Factual Injection against Audited LLM Agents
+- [[raw/papers/2026-08-04_16-18-52Z_MultiGlobeQA_AMultilingualandGloballyDiverseBenchm.md]] : MultiGlobeQA: A Multilingual and Globally Diverse Benchmark for Geospatial Reasoning
+- [[raw/papers/2026-08-04_15-03-29Z_KnowHal_AKnowledge_DrivenBenchmarkforComprehensive.md]] : KnowHal: A Knowledge-Driven Benchmark for Comprehensive Multimodal Hallucination Evaluation
+- [[raw/papers/2026-08-04_17-54-01Z_WhenAttentionGoesBlind_NumericalFailureinALiBiPosi.md]] : When Attention Goes Blind: Numerical Failure in ALiBi Positional Encodings
+- [[raw/papers/2026-08-04_16-25-38Z_IntertemporalPreferenceSteeringinQwen3viaContrasti.md]] : Intertemporal Preference Steering in Qwen3 via Contrastive Activation Addition
+- [[raw/papers/2026-08-04_17-40-08Z_ReflectRL_LearningfromGoldenNegativeTrajectoriesvi.md]] : ReflectRL: Learning from Golden Negative Trajectories via Reflective-to-Direct Reasoning
+- [[raw/papers/2026-08-04_15-47-51Z_Oilbird_Training_FreeSpeculativeDecodingwithKeysth.md]] : Oilbird: Training-Free Speculative Decoding with Keys the Verifier Already Computes
+- [[raw/papers/2026-08-04_15-36-17Z_Geo_Embed_TowardsUnifiedMultimodalEmbeddingsforUrb.md]] : Geo-Embed: Towards Unified Multimodal Embeddings for Urban Understanding
+- [[raw/papers/2026-08-04_16-17-15Z_OperationallyFeasibleSyntheticPower_GridScenariosv.md]] : Operationally Feasible Synthetic Power-Grid Scenarios via Learning the AC-Operable Joint Distribution
+- [[raw/papers/2026-08-04_15-10-09Z_EvaluatingLLMsinDatabaseScenarios_ALifecycleBenchm.md]] : Evaluating LLMs in Database Scenarios: A Lifecycle Benchmark for Assessing Their Potential in Core Database Tasks
+- [[raw/papers/2026-08-04_17-59-21Z_TurnSight_Turn_LevelHindsightSelf_DistillationforT.md]] : TurnSight: Turn-Level Hindsight Self-Distillation for Tool-Integrated Reasoning
+- [[raw/papers/2026-08-04_16-04-07Z_SciRet_ACompute_AwareEmpiricalStudyofRetrievalandR.md]] : SciRet: A Compute-Aware Empirical Study of Retrieval and Reranking for Scientific RAG
+- [[raw/papers/2026-08-04_15-16-05Z_M_GATE_MultilingualGrammar_AccuracyinTranslation_a.md]] : M-GATE: Multilingual Grammar, Accuracy in Translation, and Efficiency Benchmark for Large Language Models
+- [[raw/papers/2026-08-04_17-57-20Z_Test_TimeScalinginReasoningLLMs_InferenceRegimes_E.md]] : Test-Time Scaling in Reasoning LLMs: Inference Regimes, Evaluation, and Reproducibility
+- [[raw/papers/2026-08-04_17-48-15Z_string2stringStudio_AnInteractive_In_BrowserPlatfo.md]] : string2string Studio: An Interactive, In-Browser Platform for String-to-String Algorithms
+- [[raw/papers/2026-08-04_16-09-01Z_GENESIS_TowardsExplainableCausalDiscovery.md]] : GENESIS: Towards Explainable Causal Discovery
+- [[raw/papers/2026-08-04_17-33-38Z_HalluTruthQA_4K_AFine_GrainedCorpusandAnnotationPr.md]] : HalluTruthQA-4K: A Fine-Grained Corpus and Annotation Process for Arabic Hallucination Detection and Truth Verification
+- [[raw/papers/2026-08-04_15-07-07Z_DoesForgettingTransferAcrossModalities_AReal_World.md]] : Does Forgetting Transfer Across Modalities? A Real-World Benchmark for Cross-Modal Knowledge Unlearning Evaluation
+- [[raw/papers/2026-08-04_17-47-25Z_CanLargeLanguageModelsRecoverSemanticOptimizationO.md]] : Can Large Language Models Recover Semantic Optimization Opportunities That Compilers Miss?
+- [[raw/papers/2026-08-03_23-26-06Z_Onthemissingdatalayerandapotentialsolution.md]] : On the missing data layer and a potential solution
+- [[raw/papers/2026-08-02_20-09-02Z_WhenPoliciesChangeProbabilities_ModularDecision_Ma.md]] : When Policies Change Probabilities: Modular Decision-Making for LLM Code Review
+- [[raw/papers/2026-08-04_02-12-39Z_StandaloneDINOv3forTraining_FreeOpen_VocabularySem.md]] : Standalone DINOv3 for Training-Free Open-Vocabulary Semantic Segmentation in Remote Sensing
+- [[raw/papers/2026-08-04_09-56-31Z_TowardsRobustToolUseinAgentsviaExperience_DrivenAd.md]] : Towards Robust Tool Use in Agents via Experience-Driven Adaptive Guidance
+- [[raw/papers/2026-08-03_18-59-49Z_Detectinghigh_frequencybraindisordersignalsusingdy.md]] : Detecting high-frequency brain disorder signals using dynamic mode decomposition from EEG
+- [[raw/papers/2026-08-04_05-19-35Z_SpatialproteomicsguidedbyH_E_basedAIrevealsrecurre.md]] : Spatial proteomics guided by H&E-based AI reveals recurrence-risk niches in triple-negative breast cancer
+- [[raw/papers/2026-08-04_14-17-35Z_AmortizedInterventionalForecastingforMultivariateC.md]] : Amortized Interventional Forecasting for Multivariate CIR Processes
+- [[raw/papers/2026-08-04_00-45-54Z_TemporalLeakageinLLMBacktesting_Measurement_Valida.md]] : Temporal Leakage in LLM Backtesting: Measurement, Validation, and Adjusted Scores
+- [[raw/papers/2026-08-04_05-14-26Z_Minimax_OptimalSemiparametricContextualDynamicPric.md]] : Minimax-Optimal Semiparametric Contextual Dynamic Pricing with Multimodal Revenue
+- [[raw/papers/2026-08-04_04-32-48Z_AdaptiveTwo_StageVisualTokenPruningforEfficientInf.md]] : Adaptive Two-Stage Visual Token Pruning for Efficient Inference in Video-Language Models
+- [[raw/papers/2026-08-04_02-51-38Z_EmulateorEstimate_TheDivergentStrengthsofBaseandPo.md]] : Emulate or Estimate? The Divergent Strengths of Base and Post-Trained Language Models for Opinion Simulation
+- [[raw/papers/2026-08-04_11-32-10Z_BeyondInitializationLoss_ASystematicStudyofTokenEm.md]] : Beyond Initialization Loss: A Systematic Study of Token Embedding Initialization Strategies for LLM Vocabulary Extension
+- [[raw/papers/2026-08-04_08-49-23Z_TraceableMulti_AgentSystemforKnowledge_BasedForeca.md]] : Traceable Multi-Agent System for Knowledge-Based Forecasting
+- [[raw/papers/2026-08-03_23-09-43Z_OPTD_On_PolicyTransitionDistillationwithConsistenc.md]] : OPTD: On-Policy Transition Distillation with Consistency-Guided Adaptive Compression for Few-Step Diffusion Language Models
+- [[raw/papers/2026-08-04_10-44-40Z_PredictingMultilingualClassificationandTranslation.md]] : Predicting Multilingual Classification and Translation Performance of LLMs with Cross-Lingual Alignment $\unicode{x2013}$ Is English Enough?
+- [[raw/papers/2026-08-04_02-40-22Z_BeyondAccuracy_AMultidimensionalEvaluationofStatis.md]] : Beyond Accuracy: A Multidimensional Evaluation of Statistical Reasoning in Large Language Models
+- [[raw/papers/2026-08-04_13-10-19Z_ATheoryofConditionalCollapseunderLow_RankWeight_Sp.md]] : A Theory of Conditional Collapse under Low-Rank Weight-Space Ablations: I. The Single-Block Theory and Synthetic Validation
+- [[raw/papers/2026-08-03_03-51-19Z_ABlindSpotinAlignment_QuantifyingBiosecurityRisksi.md]] : A Blind Spot in Alignment: Quantifying Biosecurity Risks in Large Language Models
+- [[raw/papers/2026-08-04_06-37-44Z_OntheImplicitFlatnessBiasofSharpness_AwareMinimiza.md]] : On the Implicit Flatness Bias of Sharpness-Aware Minimization: A Linear Stability Analysis with Quantitative Hyperparameter Bounds
+- [[raw/papers/2026-08-03_16-08-14Z_CanTrainingLogsMakeModelComparisonsMorePrecise.md]] : Can Training Logs Make Model Comparisons More Precise?
+- [[raw/papers/2026-08-03_11-02-13Z_StylometricDefensesAgainstAuthorImpersonationinSof.md]] : Stylometric Defenses Against Author Impersonation in Software Repositories
+- [[raw/papers/2026-08-04_04-40-01Z_FromSQLErrorstoConceptGaps_AnAI_PoweredKnowledgeGr.md]] : From SQL Errors to Concept Gaps: An AI-Powered Knowledge Graph Analytics Platform for Personalized Feedback
+- [[raw/papers/2026-08-03_19-44-08Z_WiringBeatsBlending_WhatTransfersBetweenTransforme.md]] : Wiring Beats Blending: What Transfers Between Transformer Sizes -- and What Doesn't
+- [[raw/papers/2026-08-04_10-35-00Z_QualityControlAlgorithmsforPatternCounting.md]] : Quality Control Algorithms for Pattern Counting
+- [[raw/papers/2026-08-03_20-37-54Z_BODHI_DoLLMsBranchOutandDiscoverHeterogeneousInfer.md]] : BODHI: Do LLMs Branch Out and Discover Heterogeneous Inferences?
+- [[raw/papers/2026-08-04_06-32-25Z_TumorBoard_Evidence_GroundedMulti_AgentDecisionSup.md]] : TumorBoard: Evidence-Grounded Multi-Agent Decision Support for Longitudinal Neuro-Oncology
+- [[raw/papers/2026-08-03_23-59-39Z_EveryWrongAnswerCounts_Option_LevelPsychometricsfo.md]] : Every Wrong Answer Counts: Option-Level Psychometrics for LLM Multiple-Choice Benchmarks
+- [[raw/papers/2026-08-04_07-51-30Z_MoEGen_Mixture_of_ExpertsforInstance_AdaptiveLoRAG.md]] : MoEGen: Mixture-of-Experts for Instance-Adaptive LoRA Generation
+- [[raw/papers/2026-08-04_13-58-10Z_LAEF_ALead_AgnosticECGFoundationModelTowardsPoint_.md]] : LAEF: A Lead-Agnostic ECG Foundation Model Towards Point-of-Care Diagnostics
+- [[raw/papers/2026-08-04_05-03-17Z_RectifyThenDiffuse_DisentanglingConceptsBeforeDeno.md]] : Rectify Then Diffuse: Disentangling Concepts Before Denoising Trajectory Unfolds
+- [[raw/papers/2026-08-04_01-26-03Z_Onthemissingbenchmarkslayerandapotentialsolution.md]] : On the missing benchmarks layer and a potential solution
+- [[raw/papers/2026-08-04_06-55-46Z_Fail_Fast_Restart_Smart_EarlyFailurePredictionandR.md]] : Fail-Fast, Restart-Smart: Early Failure Prediction and Restart for SWE Agentic Tasks
+- [[raw/papers/2026-08-04_06-05-58Z_Attribute_basedUndetectableWatermarkingforGenerati.md]] : Attribute-based Undetectable Watermarking for Generative AI Models
+- [[raw/papers/2026-08-04_09-20-54Z_FACTWASH_CatchingAIRewritesThatWashHearsayintoFact.md]] : FACTWASH: Catching AI Rewrites That Wash Hearsay into Fact
+- [[raw/papers/2026-08-04_04-13-31Z_FakeI2V_Bench_BenchmarkingtheApplicabilityofImage_.md]] : FakeI2V-Bench: Benchmarking the Applicability of Image-level Deepfake Detectors for Deepfake Video Detection
+- [[raw/papers/2026-08-03_18-10-58Z_DAIF_AData_DrivenIntermediateFusionFrameworkforMul.md]] : DAIF: A Data-Driven Intermediate Fusion Framework for Multimodal Supervised Learning via Approximate Message Passing
+- [[raw/papers/2026-08-04_10-57-31Z_Solver_AwareDecompositionsforProgramming_by_Exampl.md]] : Solver-Aware Decompositions for Programming-by-Example: When Dividing Requires Knowing how to Conquer
+- [[raw/papers/2026-08-03_02-06-06Z_S_3__ImprovingAgentSafetythroughMulti_StageDefense.md]] : $S^3$: Improving Agent Safety through Multi-Stage Defense
+- [[raw/papers/2026-08-04_09-54-37Z_ShorterReasoning_EarlierAnswers_AnEvaluationofReas.md]] : Shorter Reasoning, Earlier Answers? An Evaluation of Reasoning Interfaces
+- [[raw/papers/2026-08-03_22-13-12Z_FLARE_Few_shotLearning_basedAdaptiveReflectiveEngi.md]] : FLARE: Few-shot Learning-based Adaptive Reflective Engine
+- [[raw/papers/2026-08-04_10-20-07Z_Dual_domainU_Netswithembeddedbackprojectionoperato.md]] : Dual-domain U-Nets with embedded back projection operators for motion-resolved 4D CBCT reconstruction
+- [[raw/papers/2026-08-03_21-01-48Z_FieldAwareAgentSkillRetrieval.md]] : Field Aware Agent Skill Retrieval
+- [[raw/papers/2026-08-04_07-47-37Z_GUI_Lens_Coarse_to_FineCroppingforGUIGroundingwith.md]] : GUI-Lens: Coarse-to-Fine Cropping for GUI Grounding with General-Purpose VLMs
+- [[raw/papers/2026-08-03_18-18-11Z_Privacy_PreservingAIVerificationviaMinimalInformat.md]] : Privacy-Preserving AI Verification via Minimal Information Disclosure
+- [[raw/papers/2026-08-03_22-51-01Z_ScoreField_NeuralInverseScatteringwithScore_BasedG.md]] : ScoreField: Neural Inverse Scattering with Score-Based Generative Priors
+- [[raw/papers/2026-08-04_01-21-29Z_SparSEEty_ExtractingTokensfromSparsity_ExploitingL.md]] : SparSEEty: Extracting Tokens from Sparsity-Exploiting LLM Serving Systems via Deterministic Side Channels
+- [[raw/papers/2026-08-04_06-48-17Z_ICO_EnhancingSemantic_ShiftJailbreaksviaIterativeC.md]] : ICO: Enhancing Semantic-Shift Jailbreaks via Iterative Context Optimization
+- [[raw/papers/2026-08-04_13-49-56Z_VetScore_Risk_WeightedFactVerificationforVeterinar.md]] : VetScore: Risk-Weighted Fact Verification for Veterinary Long-Form QA with Citations
+- [[raw/papers/2026-08-03_21-38-30Z_AnchorKV_Anchor_ResidualKVCacheCompression.md]] : AnchorKV: Anchor-Residual KV Cache Compression
+- [[raw/papers/2026-08-04_09-09-31Z_TheEvolutionaryOriginofValues_implicationsforAIali.md]] : The Evolutionary Origin of Values: implications for AI alignment, sentience and existential risk
+- [[raw/papers/2026-08-03_22-47-50Z_CharacterIconicityvs_Arbitrariness_AnArabicNLPPers.md]] : Character Iconicity vs. Arbitrariness: An Arabic NLP Perspective
+- [[raw/papers/2026-08-04_11-53-02Z_HowManyLabelsAreEnough_ALDA_ActiveLearningDeployme.md]] : How Many Labels Are Enough? ALDA: Active Learning Deployment Advisor for Medical Image Classification
+- [[raw/papers/2026-08-04_07-19-53Z_CIGTSurv_ClinicalInformationGuidedTri_modalSurviva.md]] : CIGTSurv: Clinical Information Guided Tri-modal Survival Prediction with Local Prototype Association and Global Feature Alignment
+- [[raw/papers/2026-08-03_14-21-21Z_NANQ_Noise_Floor_AwareMixed_PrecisionNon_UniformQu.md]] : NANQ: Noise-Floor-Aware Mixed-Precision Non-Uniform Quantization for Analog Compute-in-Memory
+- [[raw/papers/2026-08-04_07-04-20Z_OntheDiversityofAnalogyMakinginLargeLanguageModels.md]] : On the Diversity of Analogy Making in Large Language Models
+- [[raw/papers/2026-08-03_18-33-37Z_EvaluationBlindness_HowSilentMeasurementFailuresCo.md]] : Evaluation Blindness: How Silent Measurement Failures Corrupt AI Systems from Training to Deployment
+- [[raw/papers/2026-08-03_18-51-44Z_AHyperfiniteFrameworkforScore_BasedGenerativeModel.md]] : A Hyperfinite Framework for Score-Based Generative Modeling
+- [[raw/papers/2026-08-04_01-34-36Z_StochasticSaddleAvoidanceBeyondUnitExcitationandSm.md]] : Stochastic Saddle Avoidance Beyond Unit Excitation and Smoothness: A Pathwise Lyapunov-Perron Framework
+- [[raw/papers/2026-08-04_13-29-00Z_IsInter_SeedCross_PlayEnough_EvaluatingtheRobustne.md]] : Is Inter-Seed Cross-Play Enough? Evaluating the Robustness of Zero-Shot Coordination Algorithms to Implementation Details
+- [[raw/papers/2026-08-04_04-33-10Z_OptimalLiabilityDesignforMedicalAI.md]] : Optimal Liability Design for Medical AI
+- [[raw/papers/2026-08-04_04-32-08Z_DoubleDescentinGradientBoostingDecisionTreesviaSpl.md]] : Double Descent in Gradient Boosting Decision Trees via Split-Candidate Scaling
+- [[raw/papers/2026-08-04_09-48-46Z_SRAP_SVD_RefinedAdversarialPerturbationsforImperce.md]] : SRAP: SVD-Refined Adversarial Perturbations for Imperceptible Face-Swap Defense
+- [[raw/papers/2026-08-03_23-46-39Z_ValueFormer_ACausalTransformerValueFunctionwithSta.md]] : ValueFormer: A Causal Transformer Value Function with Stage-Aware Labels for Semi-Autonomous Vision-Language-Action Policies
+- [[raw/papers/2026-08-04_14-06-15Z_LiLa_WAM_LightweightLatentReasoningWorld_ActionMod.md]] : LiLa-WAM: Lightweight Latent Reasoning World-Action Model for Robotic Manipulation
+- [[raw/papers/2026-08-04_05-06-24Z_VerifiableMemory_LearningUnifiedMemoryManagementwi.md]] : Verifiable Memory: Learning Unified Memory Management with Local and Global Verifiers for Large Language Model Agents
+- [[raw/papers/2026-08-04_02-29-46Z_PACE_AdaptiveBudgetAllocationforTime_EfficientEmbo.md]] : PACE: Adaptive Budget Allocation for Time-Efficient Embodied Planning
+- [[raw/papers/2026-08-04_01-17-39Z_NeurosymbolicReasoningwithIncrementalKnowledgeforS.md]] : Neurosymbolic Reasoning with Incremental Knowledge for Sample Efficient Hierarchical Reinforcement Learning
+- [[raw/papers/2026-08-04_03-23-11Z_TraceCAD_Trace_GuidedRepairforAgenticCADGeneration.md]] : TraceCAD: Trace-Guided Repair for Agentic CAD Generation
+- [[raw/papers/2026-08-04_07-21-39Z_OneKnobtoRuleThemAll_AUnifiedOptimalTransportViewo.md]] : One Knob to Rule Them All: A Unified Optimal Transport View of Cold-Start Active Learning
+- [[raw/papers/2026-08-03_18-58-39Z_SAGE_SemanticExplainabilityofAttention_BasedSurviv.md]] : SAGE: Semantic Explainability of Attention-Based Survival Models in Computational Pathology
+- [[raw/papers/2026-08-04_03-30-59Z_CVPO_EnhancingLLMReinforcementLearningReasoningvia.md]] : CVPO: Enhancing LLM Reinforcement Learning Reasoning via Value-Variance Adaptation and Dynamic Curriculum Learning
+- [[raw/papers/2026-08-04_02-59-16Z_PI_Mem_PushingLong_ContextReasoningto3_6MTokenswit.md]] : PI-Mem: Pushing Long-Context Reasoning to 3.6M Tokens with Parallel-Iterative Memory
+- [[raw/papers/2026-08-04_07-03-05Z_Structure_AwareRobustFine_Tuning_DefendingVision_L.md]] : Structure-Aware Robust Fine-Tuning: Defending Vision-Language-Action Robots Against Physical Attention Hijacking
+- [[raw/papers/2026-08-04_08-26-06Z_Task_OrientedCandidate_LatentFeedbackforCoarse_to_.md]] : Task-Oriented Candidate-Latent Feedback for Coarse-to-Fine Sensing in Distributed OFDM-ISAC Networks
+- [[raw/papers/2026-08-04_06-59-29Z_SAKI_Score_AwareLow_RankKeyIndexingforLong_Context.md]] : SAKI: Score-Aware Low-Rank Key Indexing for Long-Context KV Retrieval
+- [[raw/papers/2026-08-04_00-09-08Z_MappingtheCityThroughtheLensofLanguageModels.md]] : Mapping the City Through the Lens of Language Models
+- [[raw/papers/2026-08-04_12-05-15Z_Pivot_CentricTrajectoryPrediction_BridgingLongHori.md]] : Pivot-Centric Trajectory Prediction: Bridging Long Horizons via Dynamical Guidance
+- [[raw/papers/2026-08-04_12-04-57Z_AIForensicsAcrossWhite__Grey__andBlack_BoxAccess_A.md]] : AI Forensics Across White-, Grey-, and Black-Box Access: A Process Model and Research Agenda for Post-Incident Investigation of AI Systems
+- [[raw/papers/2026-08-04_13-30-51Z_ConditionallyIdentifiableLatent_EnvironmentModelin.md]] : Conditionally Identifiable Latent-Environment Modeling for Out-of-Distribution Recommendation
+- [[raw/papers/2026-08-04_04-21-00Z_AHierarchicalApproachtoImitationLearningforManipul.md]] : A Hierarchical Approach to Imitation Learning for Manipulation Tasks Requiring Time Varying Forces
+- [[raw/papers/2026-08-04_03-42-54Z_PAMT_Process_AlignedReinforcementLearningforMulti_.md]] : PAMT: Process-Aligned Reinforcement Learning for Multi-Domain Machine Translation
+- [[raw/papers/2026-08-04_06-50-55Z_GROW_Group_RelativeAdvantage_WeightedOn_PolicyRein.md]] : GROW: Group-Relative Advantage-Weighted On-Policy Reinforcement Learning of Autoregressive-Diffusion Text-to-Speech model
+- [[raw/papers/2026-08-03_21-16-54Z_Population_RobustFeatureSelectionviaGeneralizedWel.md]] : Population-Robust Feature Selection via Generalized Welfare Optimization
+- [[raw/papers/2026-08-04_04-13-26Z_VIVID_ACulturallyGroundedBenchmarkExposingtheFigur.md]] : VIVID: A Culturally Grounded Benchmark Exposing the Figurative Language Gap in Vietnamese NLP
+- [[raw/papers/2026-08-04_07-11-28Z_RelationalPriorsasConvergencePressureinLLM_BasedMu.md]] : Relational Priors as Convergence Pressure in LLM-Based Multi-Agent Systems
+- [[raw/papers/2026-08-03_17-44-10Z_DesigningaGoodVirtualNode_AddressableandCardinalit.md]] : Designing a Good Virtual Node: Addressable and Cardinality-Preserving Global Memory for Message Passing Architectures
+- [[raw/papers/2026-08-04_12-07-23Z_Dr_AGENTONOMICS_ADidacticExperimentofAGENTONOMICS.md]] : Dr. AGENTONOMICS: A Didactic Experiment of AGENTONOMICS
+- [[raw/papers/2026-08-04_01-01-12Z_AcceptMoE_Commitment_WeightedSelf_SizingVerifierEx.md]] : AcceptMoE: Commitment-Weighted Self-Sizing Verifier Expert Sets for Efficient MoE Speculative Decoding
+- [[raw/papers/2026-08-04_01-08-33Z_JointAffineSpectralShaping_CouplingWeightandBiasUp.md]] : Joint Affine Spectral Shaping: Coupling Weight and Bias Updates Beyond Weight-Only Muon
+- [[raw/papers/2026-08-03_23-07-29Z_WhenCompressionScoresCannotDecide_InformationBound.md]] : When Compression Scores Cannot Decide: Information Boundaries for Group-Robust LLM Pruning
+- [[raw/papers/2026-08-02_19-47-03Z_WhereReasoningDiverges_LocalizedMulti_AgentDebatef.md]] : Where Reasoning Diverges: Localized Multi-Agent Debate for Multi-Hop Question Answering
+- [[raw/papers/2026-08-04_06-47-26Z_DRIFT_DerailingDenoisingTrajectoriesofFlow_Matchin.md]] : DRIFT: Derailing Denoising Trajectories of Flow-Matching VLAs with Adversarial Patch Attack
+- [[raw/papers/2026-08-04_14-16-06Z_AttentionisCase_Sensitive.md]] : Attention is Case-Sensitive
+- [[raw/papers/2026-08-03_20-40-49Z_Maglev_SlidingRecurrentMemory.md]] : Maglev: Sliding Recurrent Memory
+- [[raw/papers/2026-08-04_10-45-24Z_ApproximateSpeculativeDecoding.md]] : Approximate Speculative Decoding
+- [[raw/papers/2026-08-04_07-32-42Z_FinVerse_FinancialTime_SeriesBenchmark.md]] : FinVerse: Financial Time-Series Benchmark
+- [[raw/papers/2026-08-04_10-18-36Z_OliveGemma_A3BillionVisualLanguageModelforRecognis.md]] : OliveGemma: A 3 Billion Visual Language Model for Recognising the Mediterranean & European Diet
+- [[raw/papers/2026-08-04_13-02-48Z_RethinkingModalityReliabilityinMultimodalSentiment.md]] : Rethinking Modality Reliability in Multimodal Sentiment Analysis with Incomplete Observations
+- [[raw/papers/2026-08-04_11-17-54Z_EfficientMultilingualNeuralMachineTranslationviaCo.md]] : Efficient Multilingual Neural Machine Translation via Corpus-Driven Vocabulary Pruning: An English-Arabic Case Study
+- [[raw/papers/2026-08-04_06-47-26Z_EduClaw_Bench_ALong_HorizonBenchmarkforPedagogical.md]] : EduClaw-Bench: A Long-Horizon Benchmark for Pedagogical LLM Agents with Simulated Learners
+- [[raw/papers/2026-08-03_09-24-23Z_Output_AwareRotationforINT2KV_CacheQuantization.md]] : Output-Aware Rotation for INT2 KV-Cache Quantization
+- [[raw/papers/2026-08-03_21-54-31Z_ForecastingRevenuewithitsCustomer_BaseDrivers_When.md]] : Forecasting Revenue with its Customer-Base Drivers: When and Why Coordination Helps
+- [[raw/papers/2026-08-04_12-28-39Z_RobustGeneralUtilityforReinforcementLearning.md]] : Robust General Utility for Reinforcement Learning
+- [[raw/papers/2026-08-04_08-23-57Z_Any_OPD_HeterogeneousOn_PolicyDistillationforFlow_.md]] : Any-OPD: Heterogeneous On-Policy Distillation for Flow-Matching Models via Representation-Space Bridging
+- [[raw/papers/2026-08-04_07-15-45Z_UniNav_AUnifiedWorld_ActionDiffusionModelforVisual.md]] : UniNav: A Unified World-Action Diffusion Model for Visual Navigation
+- [[raw/papers/2026-08-03_19-03-46Z_LearningaVector_SymbolicModelforSocio_CulturalTask.md]] : Learning a Vector-Symbolic Model for Socio-Cultural Tasks
+- [[raw/papers/2026-08-04_14-32-43Z_AgenticECO_AnAgenticFrameworkforECOon3DIntegratedC.md]] : AgenticECO: An Agentic Framework for ECO on 3D Integrated Circuits
+- [[raw/papers/2026-08-04_04-08-08Z_SMOPD_Multi_RewardReinforcementLearningviaSpeciali.md]] : SMOPD: Multi-Reward Reinforcement Learning via Specialize-and-Merge Online Policy Distillation
+- [[raw/papers/2026-08-04_09-31-44Z_LLM_DerivedPriorsforThompsonSamplinginCold_StartCo.md]] : LLM-Derived Priors for Thompson Sampling in Cold-Start Comment Recommendation
+- [[raw/papers/2026-08-04_13-14-55Z_Cross_LayerInteractionunderWeight_SpaceAblation_AC.md]] : Cross-Layer Interaction under Weight-Space Ablation: A Closed-Form Attention Jacobian Bound and a Test on a Real Pretrained Model
+- [[raw/papers/2026-08-04_14-54-14Z_MDLMPE_DistributionAwarePositionalEncodingforMaske.md]] : MDLMPE: Distribution Aware Positional Encoding for Masked Diffusion Language Models
+- [[raw/papers/2026-08-04_05-54-32Z_AdversarialStressTestingofRole_PlayingLanguageAgen.md]] : Adversarial Stress Testing of Role-Playing Language Agents using Multi-Agent Evaluation
+- [[raw/papers/2026-08-04_04-41-20Z_Don_tPeekattheAnswer_Outcome_MaskedGroupRelativePo.md]] : Don't Peek at the Answer: Outcome-Masked Group Relative Policy Optimization for Label-Free RLVR
+- [[raw/papers/2026-08-03_19-38-31Z_ImprovedQuantumAlgorithmsforReinforcementLearningU.md]] : Improved Quantum Algorithms for Reinforcement Learning Under a Generative Model
+- [[raw/papers/2026-08-04_12-43-19Z_Design_TimeOptimizationofDeepNeuralNetworksforInte.md]] : Design-Time Optimization of Deep Neural Networks for Intermittent Learning on Microcontrollers
+- [[raw/papers/2026-08-04_02-04-44Z_UrbanAgent_ATool_AugmentedAgentforCross_SystemUrba.md]] : UrbanAgent: A Tool-Augmented Agent for Cross-System Urban Tasks
+- [[raw/papers/2026-08-04_04-49-48Z_Trajectory_GuidedForget_RecoverNetworkforContinual.md]] : Trajectory-Guided Forget-Recover Network for Continual LLM Unlearning
+- [[raw/papers/2026-08-04_05-00-10Z_DP_MemView_AMemoryInterfaceforAttribute_LevelTrans.md]] : DP-MemView: A Memory Interface for Attribute-Level Transcript Privacy in Long-Term LLM Agents
+- [[raw/papers/2026-08-03_09-01-29Z_GLOBE_Trajectory_AlignedGradientMatchingwithStruct.md]] : GLOBE: Trajectory-Aligned Gradient Matching with Structured SparseOptimization for Coreset Selection
+- [[raw/papers/2026-08-03_23-28-06Z_SP3O_ReinforcementLearningfromSegmentPreferenceswi.md]] : SP3O: Reinforcement Learning from Segment Preferences without Reward Modeling
+- [[raw/papers/2026-08-04_09-34-47Z_BenigninterpolationandOccam_srazor.md]] : Benign interpolation and Occam's razor
+- [[raw/papers/2026-08-04_02-13-45Z_DiffImaginE_ImaginetoVerifyEntityTypeswithDiffusio.md]] : DiffImaginE: Imagine to Verify Entity Types with Diffusio
+- [[raw/papers/2026-08-04_14-11-42Z_LessTraffic_BetterOutcomes_Competition_AwareReques.md]] : Less Traffic, Better Outcomes: Competition-Aware Request Dispatch in Real-Time Ad Exchanges
+- [[raw/papers/2026-08-04_13-08-03Z_Amachine_readablecatalogueoftheTsiolkovskypapers_f.md]] : A machine-readable catalogue of the Tsiolkovsky papers (fond 555, Archive of the Russian Academy of Sciences), and a way to measure how well its handwriting can be read
+- [[raw/papers/2026-08-04_13-17-30Z_WhenTeachersMislead_Spurious_Signal_AwareOn_Policy.md]] : When Teachers Mislead: Spurious-Signal-Aware On-Policy Distillation
+- [[raw/papers/2026-08-04_12-33-13Z_LookingundertheWrongLamppost_OntheLimitationsofAut.md]] : Looking under the Wrong Lamppost: On the Limitations of Automated Translation Quality Estimation
+- [[raw/papers/2026-08-03_23-09-19Z_AlignedinForm_NotinMeaning_TheComprehension_Contai.md]] : Aligned in Form, Not in Meaning: The Comprehension - Containment Decoupling of LLM Safety in Low-Resource Bangla Derogatory Speech
+- [[raw/papers/2026-08-04_04-55-47Z_DigitCode_SymbolicTokenizationofHandMotionbyAnatom.md]] : DigitCode: Symbolic Tokenization of Hand Motion by Anatomical Units
+- [[raw/papers/2026-08-04_03-53-50Z_AutomaticPatient_SpecificMicrowaveAblationPlanning.md]] : Automatic Patient-Specific Microwave Ablation Planning Accelerated by a Physics-Guided Deep Learning Model
+- [[raw/papers/2026-08-04_06-52-27Z_ReachabilityIsNotRealization_TracingtheSourcesofLL.md]] : Reachability Is Not Realization: Tracing the Sources of LLM Benchmark Gains
+- [[raw/papers/2026-08-03_19-48-00Z_CURV_EnhancingChartUnderstandingThroughCurriculumV.md]] : CURV: Enhancing Chart Understanding Through Curriculum Visual Grounded Reasoning
+- [[raw/papers/2026-08-02_20-51-10Z_AISandbox_TechnicalReport.md]] : AI Sandbox: Technical Report
+- [[raw/papers/2026-08-04_01-54-04Z_AGraphSignalProcessingPerspectiveonNumericalSequen.md]] : A Graph Signal Processing Perspective on Numerical Sequence Representations in LLM In-Context Learning
+- [[raw/papers/2026-08-03_18-01-05Z_Search_Inspect_Fetch_ExploitingBooleanRetrievalfor.md]] : Search, Inspect, Fetch: Exploiting Boolean Retrieval for Deep-Research Agents
+- [[raw/papers/2026-08-04_02-06-43Z_LoCA_Forward_OnlyLLMTuningafterOne_ShotCalibration.md]] : LoCA: Forward-Only LLM Tuning after One-Shot Calibration with Local Credit Assignment
+- [[raw/papers/2026-08-04_07-35-38Z_TheIgnitionIsReal_andItLivesattheReadout_Latentcom.md]] : The Ignition Is Real, and It Lives at the Readout: Latent composition, difficulty-clocked ignition, and the interface-constituted commit in a recurrent-depth reasoner
+- [[raw/papers/2026-08-03_13-00-25Z_SteganalysisofAdaptiveCovertCollusioninTool_UsingA.md]] : Steganalysis of Adaptive Covert Collusion in Tool-Using Agent Populations: A Black-Box, Cross-Principal Approach
+- [[raw/papers/2026-08-03_19-58-37Z_MutMem_CryptographicallyAuthorizedMutationinPersis.md]] : MutMem: Cryptographically Authorized Mutation in Persistent Agent Memory
+- [[raw/papers/2026-08-02_14-45-12Z_Security_FirstEvaluationofText_to_Terraform_Benchm.md]] : Security-First Evaluation of Text-to-Terraform: Benchmarking LLMs and SLMs for Secure IaC Generation
+- [[raw/papers/2026-08-03_19-59-47Z_Particle_basedGeneralisedStochasticOptimisation.md]] : Particle-based Generalised Stochastic Optimisation
+- [[raw/papers/2026-08-03_19-12-11Z_TopologicalSimplificationinPredictiveCodingNetwork.md]] : Topological Simplification in Predictive Coding Networks
+- [[raw/papers/2026-08-04_13-01-30Z_FormalVerificationofAgenticSystemsoverOperationalD.md]] : Formal Verification of Agentic Systems over Operational Data
+- [[raw/papers/2026-08-04_07-58-15Z_AgentPanel_TowardaNewParadigmforHuman__AICollabora.md]] : AgentPanel: Toward a New Paradigm for Human--AI Collaboration in Exploring Scientific Questions
+- [[raw/papers/2026-08-04_14-13-21Z_PredictingDeepNeuralNetworkTrainingOutcomesfromEar.md]] : Predicting Deep Neural Network Training Outcomes from Early Training Telemetry
+- [[raw/papers/2026-08-03_17-59-58Z_QuoVadis_WorldModeling.md]] : Quo Vadis, World Modeling?
+- [[raw/papers/2026-08-04_12-13-25Z_BehaviorallyAdaptiveVisualDiversionforInclusiveand.md]] : Behaviorally Adaptive Visual Diversion for Inclusive and Resilient Digital Assessment Delivery
+- [[raw/papers/2026-08-04_14-01-00Z_AcceleratingDynamicGraphClusteringonGPUArchitectur.md]] : Accelerating Dynamic Graph Clustering on GPU Architectures with cuGraph
+- [[raw/papers/2026-08-04_10-59-49Z_LeanMem_SimpleandEfficientLong_TermMemoryforLLMAge.md]] : LeanMem: Simple and Efficient Long-Term Memory for LLM Agents
+- [[raw/papers/2026-08-02_17-45-20Z_MovingtheSafetyBarrier_DynamicRoutingAdaptiveAlign.md]] : Moving the Safety Barrier: Dynamic Routing Adaptive Alignment Against White-Box Attacks
+- [[raw/papers/2026-08-04_03-32-19Z_AISecurityLeaderboard_Methodology_ResultsandMinima.md]] : AI Security Leaderboard: Methodology, Results and Minimal Standard
+- [[raw/papers/2026-08-03_23-59-02Z_APhysics_InformedHybridNeuralOperatorforTransientM.md]] : A Physics-Informed Hybrid Neural Operator for Transient Magnetization Prediction in Power Magnetics
+- [[raw/papers/2026-08-03_23-40-40Z_ChatDebugging_AnExploratoryStudyofHuman_AICollabor.md]] : Chat Debugging: An Exploratory Study of Human-AI Collaboration to Debug Analog Circuits
+- [[raw/papers/2026-08-03_23-23-31Z_SedentaryBehaviorClassificationforWearableSensorsw.md]] : Sedentary Behavior Classification for Wearable Sensors with a CNN-BiLSTM Model
+- [[raw/papers/2026-08-04_12-51-21Z_DisentanglingLanguageModelingandBoundaries.md]] : Disentangling Language Modeling and Boundaries
+- [[raw/papers/2026-08-03_19-01-30Z_AUnified2DFrameworkforDeepLesionDetection_Segmenta.md]] : A Unified 2D Framework for DeepLesion Detection, Segmentation and Short Report Generation
+- [[raw/papers/2026-08-04_00-47-13Z_InternalisingtheIdentityPrimitive_CryptographicInd.md]] : Internalising the Identity Primitive: Cryptographic Individuality for an Autonomous Agent on a Public Blockchain
+- [[raw/papers/2026-08-04_07-51-37Z_TaskPress_Query_AgnosticKVCacheCompressionviaTask_.md]] : TaskPress: Query-Agnostic KV Cache Compression via Task-Guided Pruning
+- [[raw/papers/2026-08-04_10-48-17Z_ProbingCharacter_levelTransformersfortheSpanishL_s.md]] : Probing Character-level Transformers for the Spanish L-shaped Morphome
+- [[raw/papers/2026-08-03_19-32-13Z_EvadingChain_of_ThoughtMonitoringThroughModelPoiso.md]] : Evading Chain-of-Thought Monitoring Through Model Poisoning
+- [[raw/papers/2026-08-03_17-59-48Z_Don_tRegenerate_Debug_ADomain_SpecificAgentforRepa.md]] : Don't Regenerate, Debug: A Domain-Specific Agent for Repairing Near-Miss Hardware Operators
+- [[raw/papers/2026-08-04_12-34-35Z_PinOnce_SwapLight_Subspace_AlignedCentroid_Residua.md]] : Pin Once, Swap Light: Subspace-Aligned Centroid-Residual Training for Efficient Ultra-LoRA Serving
+- [[raw/papers/2026-08-04_04-21-35Z_HomoEnsNER_DoesLanguageAlignmentOutperformArchitec.md]] : HomoEnsNER: Does Language Alignment Outperform Architectural Complexity in Gujarati Named Entity Recognition?
+- [[raw/papers/2026-08-04_10-11-45Z_Multi_TaskMulti_FrameVisualPianoTranscription.md]] : Multi-Task Multi-Frame Visual Piano Transcription
+- [[raw/papers/2026-08-04_03-43-49Z_CorePath_ABreast_SpecializedPathologyFoundationMod.md]] : CorePath: A Breast-Specialized Pathology Foundation Model for Core Needle Biopsy Diagnosis and Risk-Controlled Report Generation
+- [[raw/papers/2026-08-04_03-12-34Z_PDD_RRG_PosteriorDiagnosticDecisionforStudy_levelR.md]] : PDD-RRG: Posterior Diagnostic Decision for Study-level Radiology Report Generation
+- [[raw/papers/2026-08-04_02-33-16Z_LLMServingintheWild_AnEmpiricalStudyofFrameworks_M.md]] : LLM Serving in the Wild: An Empirical Study of Frameworks, Methods, and System Designs
+- [[raw/papers/2026-08-04_11-44-07Z_HybridLLM_AugmentedReinforcementLearningAgentsforC.md]] : Hybrid LLM-Augmented Reinforcement Learning Agents for Complex Sequential Decision Tasks
+- [[raw/papers/2026-08-04_12-58-17Z_LearningClinical_TrialStrategy_OfflinePolicyTraini.md]] : Learning Clinical-Trial Strategy: Offline Policy Training for Decision Agents
+- [[raw/papers/2026-08-04_14-25-47Z_GPTKB2_0_DirectConstructionofDisambiguatedKnowledg.md]] : GPTKB 2.0: Direct Construction of Disambiguated Knowledge Bases from Large Language Models
+- [[raw/papers/2026-08-04_13-13-48Z_ASecurity_OrientedLifecycleModelforLargeLanguageMo.md]] : A Security-Oriented Lifecycle Model for Large Language Model Systems
+- [[raw/papers/2026-08-04_10-04-33Z_DUD_DecoupledUpdateDynamicsforReliableUncertaintyQ.md]] : DUD: Decoupled Update Dynamics for Reliable Uncertainty Quantification in Large Language Models
+- [[raw/papers/2026-08-04_03-28-37Z_Activation_GuidedNeuronInterventiontoInduceAlzheim.md]] : Activation-Guided Neuron Intervention to Induce Alzheimer's-Related Computational Language Phenotypes in a Large Language Model
+- [[raw/papers/2026-08-02_14-26-12Z_PermissionDenied_Policy_GradedEvaluationofCodingAg.md]] : Permission Denied: Policy-Graded Evaluation of Coding Agents in Hardened Environments
+- [[raw/papers/2026-08-03_18-18-39Z_Towardsanewparadigmofscientificdiscoverywithsocial.md]] : Towards a new paradigm of scientific discovery with socialized artificial intelligence
+- [[raw/papers/2026-08-03_01-05-06Z_TraceCompiler_Skill_GuidedMiningandCompilationofLL.md]] : TraceCompiler: Skill-Guided Mining and Compilation of LLM Agent Traces into Mostly Deterministic Workflows
+- [[raw/papers/2026-08-04_02-43-27Z_PLAN_ParallelLiquid_InspiredApproximationNetworkfo.md]] : PLAN: Parallel Liquid-Inspired Approximation Network for Efficient Representation Learning in Flexible Job Shop Scheduling
+- [[raw/papers/2026-08-04_08-00-15Z_Test_TimeScalingforSafeText_GuidedImageGenerationv.md]] : Test-Time Scaling for Safe Text-Guided Image Generation via Intermediate Clean Estimates
+- [[raw/papers/2026-08-03_23-28-04Z_Schedule_InformedTemporalFusionForecastingofHourly.md]] : Schedule-Informed Temporal Fusion Forecasting of Hourly Airport Security-Checkpoint Throughput
+- [[raw/papers/2026-08-04_14-12-00Z_ToDescribeorConstructStatisticalLearningModelsUsin.md]] : To Describe or Construct Statistical Learning Models Using the Category-theoretical Language
+- [[raw/papers/2026-08-04_14-01-08Z_LearningandClusteringonTemporalGraphs_Principles_P.md]] : Learning and Clustering on Temporal Graphs: Principles, Primitives, and Pooling
+- [[raw/papers/2026-08-03_22-51-49Z_WhenShouldGraphAttentionBeSparse_LearningaPer_Edge.md]] : When Should Graph Attention Be Sparse? Learning a Per-Edge Tsallis Index
+- [[raw/papers/2026-08-04_08-52-43Z_WhenOracleConditioningMisleadsDeployment_Condition.md]] : When Oracle Conditioning Misleads Deployment: Conditioning-Availability Bias in Echocardiographic Segmentation
+- [[raw/papers/2026-08-04_12-20-17Z_Hi_TTRL_RegulatingConsensuswithHintsforTest_TimeRe.md]] : Hi-TTRL: Regulating Consensus with Hints for Test-Time Reinforcement Learning
+- [[raw/papers/2026-08-04_13-19-51Z_MuEvo_LLM_DrivenEvolutionofMulti_HeuristicEnsemble.md]] : MuEvo: LLM-Driven Evolution of Multi-Heuristic Ensemble
+- [[raw/papers/2026-08-03_20-38-45Z_AdaptiveSamplingforAutomatedPost_DisasterRapidDama.md]] : Adaptive Sampling for Automated Post-Disaster Rapid Damage Assessment via Level-Set Cost-Aware Bayesian Optimization
+- [[raw/papers/2026-08-04_00-24-06Z_TQLite_Multi_LLMJuryGuidedDistillationforReal_time.md]] : TQLite: Multi-LLM Jury Guided Distillation for Real-time MQM Translation Quality Evaluation
+- [[raw/papers/2026-08-04_06-47-08Z_AligningLargeVision_LanguageModelsatTestTime_ATraj.md]] : Aligning Large Vision-Language Models at Test Time: A Trajectory-Guided Structured Sampling Approach
+- [[raw/papers/2026-08-03_21-01-41Z_InterpretingBlack_BoxLargeLanguageModelswithSenten.md]] : Interpreting Black-Box Large Language Models with Sentence-Level Energy Landscapes
+- [[raw/papers/2026-08-03_22-07-06Z_LACE_LargeLanguageModelAidedMulti_AgentFrameworkfo.md]] : LACE: Large Language Model Aided Multi-Agent Framework for Agile RISC-V Instruction Extension
+- [[raw/papers/2026-08-03_20-02-22Z_NOMADD_NumericalOptimizationofModelsAdaptingtoData.md]] : NOMADD: Numerical Optimization of Models Adapting to Data Drift
+- [[raw/papers/2026-08-04_13-39-36Z_HowCloselyDoLLMReviewsAlignwithHumanPeerReview.md]] : How Closely Do LLM Reviews Align with Human Peer Review?
+- [[raw/papers/2026-08-04_08-06-15Z_ProvablyLearningMulti_HeadAttentionwithQueries.md]] : Provably Learning Multi-Head Attention with Queries
+- [[raw/papers/2026-08-04_11-35-20Z_PrinciplesofRobotAutonomy.md]] : Principles of Robot Autonomy
+- [[raw/papers/2026-08-04_14-19-59Z_WhenOutputsDisperse_DoesEpistemicRevisionFollow_AB.md]] : When Outputs Disperse, Does Epistemic Revision Follow? A Black-Box Coupling Diagnostic for Machine Collectives
+- [[raw/papers/2026-08-04_02-17-16Z_EvaluatingCounterfactualSensitivitytoPatientInform.md]] : Evaluating Counterfactual Sensitivity to Patient Information in Medication-Safety Reasoning
+- [[raw/papers/2026-08-03_23-54-30Z_ScalinganAutoregressiveTransformerforSingle_CellGe.md]] : Scaling an Autoregressive Transformer for Single-Cell Generation
+- [[raw/papers/2026-08-04_06-50-49Z_TheAgentOperatingSystem_AOS__AReferenceOperatingAr.md]] : The Agent Operating System (AOS): A Reference Operating Architecture for Distributed Agentic Systems
+- [[raw/papers/2026-08-04_04-00-10Z_SynEnergy_AnomalySemantic_GuidedDiffusionforSynthe.md]] : SynEnergy: Anomaly Semantic-Guided Diffusion for Synthetic Energy Data Generation
+- [[raw/papers/2026-08-04_07-52-23Z_Noise_AwareShrinkageforDifferentiallyPrivateZeroth.md]] : Noise-Aware Shrinkage for Differentially Private Zeroth-Order Fine-Tuning of Large Language Models
+- [[raw/papers/2026-08-03_13-35-06Z_ExplainableAIfortheEURighttoExplanation_ASystemati.md]] : Explainable AI for the EU Right to Explanation: A Systematic Review of the Law-XAI Translation Gap
+- [[raw/papers/2026-08-04_14-57-06Z_ComputingActualCausesforNeuralNetworkPredictionsun.md]] : Computing Actual Causes for Neural Network Predictions under Structured Causal Inputs
+- [[raw/papers/2026-08-04_07-23-46Z_FromWearableDatatoPersonalizedandActionableHealthI.md]] : From Wearable Data to Personalized and Actionable Health Insights
+- [[raw/papers/2026-08-04_04-02-28Z_ScalableFrequency_andLength_AwareSubdocumentDedupl.md]] : Scalable Frequency- and Length-Aware Subdocument Deduplication for Large Language Model Pretraining
+- [[raw/papers/2026-08-04_13-16-07Z_POEM_Phase_Aware__mathrm_SO__2__FeatureRotationfor.md]] : POEM: Phase-Aware $\mathrm{SO}(2)$ Feature Rotation for Time Series Forecasting Under Periodicity Drift
+- [[raw/papers/2026-08-04_14-34-41Z_MissClick_ExploitingDigit_SerializedCoordinatestoA.md]] : MissClick: Exploiting Digit-Serialized Coordinates to Attack GUI Grounding Models
+- [[raw/papers/2026-08-04_14-19-53Z_DetectingHallucinationsandRecoveringVerifiedAnswer.md]] : Detecting Hallucinations and Recovering Verified Answers in Arabic Islamic Question Answering
+- [[raw/papers/2026-08-04_07-46-28Z_EfficientVideoDatasetDistillationviaCluster_Guided.md]] : Efficient Video Dataset Distillation via Cluster-Guided Prototype Blending
+- [[raw/papers/2026-08-04_02-21-36Z_CastFSR_AFast__Slow__ReflectAgenticReasoningFramew.md]] : CastFSR: A Fast--Slow--Reflect Agentic Reasoning Framework for Context-Aware Time Series Forecasting
+- [[raw/papers/2026-08-03_19-44-45Z_In_ContextCollapseinVision_LanguageModelsandHowtoM.md]] : In-Context Collapse in Vision-Language Models and How to Mitigate it?
+- [[raw/papers/2026-08-04_03-53-04Z_CausalInferencewithUnstructuredOutcomes.md]] : Causal Inference with Unstructured Outcomes
+- [[raw/papers/2026-08-04_02-01-03Z_PairedRecipient_basedEvaluationofSurvivalPredictio.md]] : Paired Recipient-based Evaluation of Survival Prediction for Deceased Donor Kidney Transplants
+- [[raw/papers/2026-08-04_14-38-06Z_RiskyBusiness_MeasuringTheFaithfulness_SafetyTensi.md]] : Risky Business: Measuring The Faithfulness-Safety Tension
+- [[raw/papers/2026-08-04_11-37-03Z_FedCARE_AMulti_ObjectivePersonalisedFederatedLearn.md]] : FedCARE: A Multi-Objective Personalised Federated Learning Framework for Smart Healthcare
+- [[raw/papers/2026-08-03_22-54-31Z_Federatedgenerativeeventmodelsfortokenizedelectron.md]] : Federated generative event models for tokenized electronic health records
+- [[raw/papers/2026-08-04_10-16-24Z_StatePropagationAlsoSatisfies_AComplex_ValuedState.md]] : State Propagation Also Satisfies: A Complex-Valued State-Space Model for Deterministic State Tracking
+- [[raw/papers/2026-08-04_03-01-54Z_LearningMusicStyleforPianoArrangementThroughCross_.md]] : Learning Music Style for Piano Arrangement Through Cross-Modal Bootstrapping
+- [[raw/papers/2026-08-04_06-13-41Z_DiversityisNotAmbiguity_TowardAccurateandEfficient.md]] : Diversity is Not Ambiguity: Toward Accurate and Efficient Ambiguity Detection for Open-Domain QA
+- [[raw/papers/2026-08-03_23-23-38Z_ATFlash_Per_RoPE_WavelengthAttentionWindowsforComp.md]] : ATFlash: Per-RoPE-Wavelength Attention Windows for Compute/Memory-Efficient LLM Inference
+- [[raw/papers/2026-08-04_08-04-36Z_TheTell_TaleTrace_DetectingReasoningFailuresinLLMs.md]] : The Tell-Tale Trace: Detecting Reasoning Failures in LLMs Using Chain-of-Thought Dynamics
+- [[raw/papers/2026-08-04_02-30-59Z_LanguageModelsEncodetheContextualTruthofPropositio.md]] : Language Models Encode the Contextual Truth of Propositions
+- [[raw/papers/2026-08-04_14-25-27Z_SAT_Edge_Agent_Hardware_in_the_LoopEdge_AgentOrche.md]] : SAT-Edge-Agent: Hardware-in-the-Loop Edge-Agent Orchestration for Onboard Satellite Intelligence
+- [[raw/papers/2026-08-04_04-39-14Z_Simulation_freeandfinite_timediffusionmodel.md]] : Simulation-free and finite-time diffusion model
+- [[raw/papers/2026-08-04_03-40-08Z_AIAgentEconomics_CanAutonomousEconomicBehaviorEmer.md]] : AI Agent Economics: Can Autonomous Economic Behavior Emerge among AI Agents under Minimal External Conditions?
+- [[raw/papers/2026-08-04_11-25-44Z_LeveragingSystem_LevelObservationstoInformBayesian.md]] : Leveraging System-Level Observations to Inform Bayesian Learning of Model Parameters for Quantitative Verification
+- [[raw/papers/2026-08-03_19-46-13Z_ReinforcementLearningwithEvolvingRubricsasRewardsf.md]] : Reinforcement Learning with Evolving Rubrics as Rewards for Audio Reasoning
+- [[raw/papers/2026-08-03_20-38-48Z_Contrast_invariantdeepptychographyneuralnetworks.md]] : Contrast-invariant deep ptychography neural networks
+- [[raw/papers/2026-08-03_22-31-30Z_Hypercubes_Hyperplanes_andConstraint_InducedComple.md]] : Hypercubes, Hyperplanes, and Constraint-Induced Complexity Collapse in Atomic Concept Learning
+- [[raw/papers/2026-08-03_21-00-58Z_VeriTrace_Human_LikeTemporalExplorationCompletesAg.md]] : VeriTrace: Human-Like Temporal Exploration Completes Agentic Action Space
+- [[raw/papers/2026-08-04_12-12-56Z_ConsensusMeasuresforUnstructuredBiomedicalTextAnno.md]] : Consensus Measures for Unstructured Biomedical Text Annotations
+- [[raw/papers/2026-08-04_06-04-18Z_SurrogateSubstitutionPreservesPHIDetectability_AMu.md]] : Surrogate Substitution Preserves PHI Detectability: A Multi-Detector Equivalence Study
+- [[raw/papers/2026-08-04_13-36-25Z_DecouplingGenerationandSelectionforBudget_Constrai.md]] : Decoupling Generation and Selection for Budget-Constrained Faithful Summarization
+- [[raw/papers/2026-08-04_05-36-19Z_ANCHOR_RE_AnAgenticNeuro_SymbolicFrameworkforGroun.md]] : ANCHOR-RE: An Agentic Neuro-Symbolic Framework for Grounded Biomedical Relation Extraction
+- [[raw/papers/2026-08-04_09-03-20Z_ADirectRoutetoMarkovChainConvergenceviaAsymptoticE.md]] : A Direct Route to Markov Chain Convergence via Asymptotic Equivalence with the Target
+- [[raw/papers/2026-08-04_14-29-14Z_AnActionableDiagnosisofMultilingual_Multi_AgentPla.md]] : An Actionable Diagnosis of Multilingual, Multi-Agent Planning Failures
+- [[raw/papers/2026-08-04_03-31-24Z_RevisitingTDTargetAggregationunderUncertaintyinQ_L.md]] : Revisiting TD Target Aggregation under Uncertainty in Q-Learning
+- [[raw/papers/2026-08-04_13-49-12Z_CausalOPD_First_Wrong_StepSupervisionforDistilling.md]] : CausalOPD: First-Wrong-Step Supervision for Distilling Causal Chain Reasoning
+- [[raw/papers/2026-08-03_09-44-35Z_PatTree_anovelapproachforautomatedcreationofmultim.md]] : PatTree: a novel approach for automated creation of multimodal, graph-based patient representations for medical classification tasks
+- [[raw/papers/2026-08-03_15-28-32Z_PredictiveSetTheory_AGenerativeFrameworkforCogniti.md]] : Predictive Set Theory: A Generative Framework for Cognitive Architecture with Operationalized Core Mechanisms
+- [[raw/papers/2026-08-04_13-13-09Z_LoopMTP_Aloopedtransformerguidedbylatentmulti_toke.md]] : LoopMTP: A looped transformer guided by latent multi-token prediction
+- [[raw/papers/2026-08-04_11-49-16Z_ChronoLens_MeasuringLanguageChangeAcrossTime_Langu.md]] : ChronoLens: Measuring Language Change Across Time, Languages, and Linguistic Levels
+- [[raw/papers/2026-08-03_21-46-08Z_BayesianDataReweightingImprovesMultimodalRetrieval.md]] : Bayesian Data Reweighting Improves Multimodal Retrieval for Knowledge-Based Visual Question Answering
+- [[raw/papers/2026-08-04_12-42-11Z_GenOS_CompositionalCertificatesforSemanticRobustne.md]] : GenOS: Compositional Certificates for Semantic Robustness in AI Code Generation
+- [[raw/papers/2026-08-04_05-48-05Z_Evidence_GroundedMultimodalKnowledgeGraphConstruct.md]] : Evidence-Grounded Multimodal Knowledge Graph Construction for Multi-Lecture Educational Reasoning
+- [[raw/papers/2026-08-03_18-21-36Z_NeuralNetworkswithLocalConvergingInputsforEfficien.md]] : Neural Networks with Local Converging Inputs for Efficient Options Pricing Models
+- [[raw/papers/2026-08-04_06-51-45Z_Self_SupervisedRepresentation_GuidedGenerativeData.md]] : Self-Supervised Representation-Guided Generative Dataset Distillation
+- [[raw/papers/2026-08-04_12-29-47Z_Divide_and_Conquer_TowardsGeneralizableAmortizedBa.md]] : Divide-and-Conquer: Towards Generalizable Amortized Bayesian Inference for the Drift Diffusion Model
+- [[raw/papers/2026-08-03_23-25-50Z_RubricsasPrivilegedInformationforOpen_EndedGenerat.md]] : Rubrics as Privileged Information for Open-Ended Generation
+- [[raw/papers/2026-08-04_03-23-12Z_SeqLLM_AugmentingLLMswithBehavioral_SequenceModeli.md]] : SeqLLM: Augmenting LLMs with Behavioral-Sequence Modeling for High-Stakes Decisions at WeChat Pay
+- [[raw/papers/2026-08-04_14-36-34Z_AI_BasedSoundEffectGeneration_ANarrativeReviewofGe.md]] : AI-Based Sound Effect Generation: A Narrative Review of Generative Models Across Input Modalities
+- [[raw/papers/2026-08-04_06-02-06Z_EFXAllocationIn_Multi_Hypergraphs.md]] : EFX Allocation In (Multi)Hypergraphs
+- [[raw/papers/2026-08-04_04-59-48Z_BeyondAveragePerformance_DynamicInstanceClustering.md]] : Beyond Average Performance: Dynamic Instance Clustering and Specialized Algorithm Design in LLM-Assisted Evolutionary Search
+- [[raw/papers/2026-08-04_09-39-24Z_Don_tLetMeAskforIt_LLMsShowDeficienciesinActiveMul.md]] : Don't Let Me Ask for It: LLMs Show Deficiencies in Active Multi-Turn Information Acquisition for Abductive Inference
+- [[raw/papers/2026-08-04_01-33-02Z_OntheNon_SpecificityofStatisticalMeasuresUsedinScr.md]] : On the Non-Specificity of Statistical Measures Used in Script Decipherment
+- [[raw/papers/2026-08-04_12-32-26Z_SFTConflicts_RLCoexists_ATheoreticalandEmpiricalAn.md]] : SFT Conflicts, RL Coexists: A Theoretical and Empirical Analysis of Multi-Task Learning for LLMs
+- [[raw/papers/2026-08-04_13-41-21Z_ShieldingforHigher_OrderSafety.md]] : Shielding for Higher-Order Safety
+- [[raw/papers/2026-08-04_03-51-46Z_GSTEP_GlobalSpatio_TemporalDensity_DrivenVisualTok.md]] : GSTEP: Global Spatio-Temporal Density-Driven Visual Token Pruning for Efficient Video Large Language Models
+- [[raw/papers/2026-08-04_13-14-47Z_ConformalShift_TargetedEventReorderingAgainstAdapt.md]] : ConformalShift: Targeted Event Reordering Against Adaptive ECG Monitoring
+- [[raw/papers/2026-08-02_13-57-28Z_Vulnerabilities_SecretsandMisconfigurationintheHig.md]] : Vulnerabilities, Secrets and Misconfiguration in the Highest-Exposure Docker Hub Images
+- [[raw/papers/2026-08-04_04-30-02Z_Convex_Hull_NeighborhoodSmoothDualGeneralization_C.md]] : Convex-Hull-Neighborhood Smooth Dual Generalization: Controlling Local Correction Propagation in Offline RL
+- [[raw/papers/2026-08-04_10-38-41Z_ALow_CostHybridReservoirComputingModelforIsolatedS.md]] : A Low-Cost Hybrid Reservoir Computing Model for Isolated Sign Language Video Recognition
+- [[raw/papers/2026-08-04_05-29-02Z_UniGD_AUnifiedGenerative_DiscriminativeFrameworkfo.md]] : UniGD: A Unified Generative-Discriminative Framework for Industrial Retrieval
+- [[raw/papers/2026-08-04_13-49-41Z_DiagLoop_ACounterfactualDataFlywheelwithStage_Loca.md]] : DiagLoop: A Counterfactual Data Flywheel with Stage-Localized Reinforcement for Diagnostic LLMs
+- [[raw/papers/2026-08-04_01-41-40Z_V_FIND_RevealingtheIntrinsicForgeryKnowledgeEncode.md]] : V-FIND: Revealing the Intrinsic Forgery Knowledge Encoded in Video Forgery Detectors
+- [[raw/papers/2026-08-04_06-43-04Z_WhenRefusalLooksSafe_TheRefusal_CueShortcutinSafet.md]] : When Refusal Looks Safe: The Refusal-Cue Shortcut in Safety Guard Models
+- [[raw/papers/2026-08-03_20-55-58Z_BAP_SQL_Budget_AwareObservationPlanningforAgenticT.md]] : BAP-SQL: Budget-Aware Observation Planning for Agentic Text-to-SQL
+- [[raw/papers/2026-08-04_04-17-54Z_WhatLanguageDoesandWhattheEvidenceSupports_AFuncti.md]] : What Language Does and What the Evidence Supports: A Functional Role Taxonomy and Evidence Audit of Language Grounding in Embodied Agents
+- [[raw/papers/2026-08-04_09-19-53Z_TightWorst_CaseBoundsfortheSmallestEigenvalueofReL.md]] : Tight Worst-Case Bounds for the Smallest Eigenvalue of ReLU NTK Gram Matrices
+- [[raw/papers/2026-08-04_02-53-54Z_ExploitingSeparabilityinMulti_ScaleGrey_BoxBayesia.md]] : Exploiting Separability in Multi-Scale Grey-Box Bayesian Optimization
+- [[raw/papers/2026-08-04_12-13-43Z_Cross_LingualBiasinLargeLanguageModels_AComparativ.md]] : Cross-Lingual Bias in Large Language Models: A Comparative Analysis of English and Swahili
+- [[raw/papers/2026-08-03_23-42-24Z_InvertedDetectionandControlinSteeringVectors.md]] : Inverted Detection and Control in Steering Vectors
+- [[raw/papers/2026-08-04_12-39-33Z_PolicyFragmentationorInstitutionalAlignment_Instit.md]] : Policy Fragmentation or Institutional Alignment? Institutional Governance of AI in Universities and Business Schools
+- [[raw/papers/2026-08-04_00-00-46Z_HyperFL_Query_AdaptiveRepresentationLearningforSof.md]] : HyperFL: Query-Adaptive Representation Learning for Software Fault Localization
+- [[raw/papers/2026-08-04_09-24-07Z_ShapingWind_TunnelAirflowforUnmannedAerialVehicles.md]] : Shaping Wind-Tunnel Airflow for Unmanned Aerial Vehicles using Online Learning
+- [[raw/papers/2026-08-04_05-26-25Z_LightweightChunkSelectionforMobileRetrieval_Augmen.md]] : Lightweight Chunk Selection for Mobile Retrieval-Augmented Generation
+- [[raw/papers/2026-08-04_10-31-58Z_FedRings_AScalableandTopology_AwareFederatedLearni.md]] : FedRings: A Scalable and Topology-Aware Federated Learning Framework for LEO Satellite Constellations
+- [[raw/papers/2026-08-03_11-26-16Z_MeasuringExplainerStabilityviaAttributionSeparabil.md]] : Measuring Explainer Stability via Attribution Separability
+- [[raw/papers/2026-08-04_12-22-31Z_SoftGuidanceStartstoOutperformCoTPromptingasLLMsIm.md]] : Soft Guidance Starts to Outperform CoT Prompting as LLMs Improve
+- [[raw/papers/2026-08-04_05-06-51Z_InternalizingAcademicWritingWorkflowsforIntroducti.md]] : Internalizing Academic Writing Workflows for Introduction Generation via Struct-Aware Policy Learning
+- [[raw/papers/2026-08-03_08-33-54Z_LearningMolecularRepresentationsfromCellularPhenot.md]] : Learning Molecular Representations from Cellular Phenotypes with Structure Preservation
+- [[raw/papers/2026-08-04_10-06-15Z_EnactiveArtificialIntelligence_ADecision_CentricAr.md]] : Enactive Artificial Intelligence: A Decision-Centric Architecture for Complex Systems
+- [[raw/papers/2026-08-03_07-24-33Z_BulkPR_Bench_BenchmarkingQueue_LevelGovernanceofIn.md]] : BulkPR-Bench: Benchmarking Queue-Level Governance of Interacting Pull Requests
+- [[raw/papers/2026-08-04_13-34-52Z_AutoSND_FromExecutionEvidencetoStructuralPoliciesf.md]] : AutoSND: From Execution Evidence to Structural Policies for Automated Network Dismantling Heuristic Discovery
+- [[raw/papers/2026-08-03_20-59-26Z_GoT_CD_Graph_of_ThoughtsCausalDiscoveryandtheFragi.md]] : GoT-CD: Graph-of-Thoughts Causal Discovery and the Fragility of Post-hoc Path-Specific Fairness Audits
+- [[raw/papers/2026-08-04_01-41-01Z_ProPRL_Property_AwarePrerequisiteRelationLearningi.md]] : ProPRL: Property-Aware Prerequisite Relation Learning in Educational Knowledge Graphs
+- [[raw/papers/2026-08-02_20-33-05Z_DenialRAG_Single_DocumentRAGPoisoningviaEmbeddedPa.md]] : DenialRAG: Single-Document RAG Poisoning via Embedded Parametric Denial
+- [[raw/papers/2026-08-04_11-05-02Z_ShouldtheBoundaryTermBeLearnedinReflectedDiffusion.md]] : Should the Boundary Term Be Learned in Reflected Diffusion? Conormal Trace and Reflection Masking
+- [[raw/papers/2026-08-04_06-56-47Z_AgenticReinforcementLearningwithSelf_DistilledRewa.md]] : Agentic Reinforcement Learning with Self-Distilled Reward Shaping
+- [[raw/papers/2026-08-03_21-21-22Z_RobustCounterfactualPolicyOptimisationviaNondeterm.md]] : Robust Counterfactual Policy Optimisation via Nondeterministic Causal Models
+- [[raw/papers/2026-08-04_12-34-47Z_AI_AssistedPeerReviewAcrossResearchCommunities_Fro.md]] : AI-Assisted Peer Review Across Research Communities: From Reviewer AI Policies to LLM Review Quality
+- [[raw/papers/2026-08-04_10-46-10Z_BalancingEfficiencyandEfficacy_Training_FreeAttent.md]] : Balancing Efficiency and Efficacy: Training-Free Attention-Guided Switching Between Explicit and Latent Thoughts for MLLMs
+- [[raw/papers/2026-08-04_07-21-51Z_ShielDroid_AHybridApproachIntegratingMachineandDee.md]] : ShielDroid: A Hybrid Approach Integrating Machine and Deep Learning for Android Malware Detection
+- [[raw/papers/2026-08-04_11-21-08Z_ContinueorReplan_Bernoulli_ContinuationPolicyLearn.md]] : Continue or Replan? Bernoulli-Continuation Policy Learning for Adaptive Horizon Execution
+- [[raw/papers/2026-08-04_07-33-35Z_ED_DiT_Physics_GuidedDiffusionPretrainingforTransf.md]] : ED-DiT: Physics-Guided Diffusion Pretraining for Transferable Molecular Representations from Electron Density
+- [[raw/papers/2026-08-04_03-36-41Z_GettingtheParametersRight_ADifficulty_GradedBenchm.md]] : Getting the Parameters Right: A Difficulty-Graded Benchmark and Probe-Guided Training for LLM Tool Calls
+- [[raw/papers/2026-08-04_11-02-26Z_WhenCorrectSolutionsRepeat_Rarity_AwareCreditRedis.md]] : When Correct Solutions Repeat: Rarity-Aware Credit Redistribution for GRPO
+- [[raw/papers/2026-08-04_10-12-12Z_TowardsImprovingSequentialDecision_MakinginLLMAgen.md]] : Towards Improving Sequential Decision-Making in LLM Agents via Experience Memory
+- [[raw/papers/2026-08-04_08-08-28Z_SeaSlides_SemanticAbstractionLayerforAgenticSlideG.md]] : SeaSlides: Semantic Abstraction Layer for Agentic Slide Generation
+- [[raw/papers/2026-08-04_12-11-14Z_TrainingDocumentsRerankerwithSearchRubricsforDeepR.md]] : Training Documents Reranker with Search Rubrics for Deep Research Agent
+- [[raw/papers/2026-08-04_14-28-42Z_Failure_InformedImageSelf_AugmentationforMultimoda.md]] : Failure-Informed Image Self-Augmentation for Multimodal Large Language Model Self-Improvement
+- [[raw/papers/2026-08-02_15-03-37Z_dots_tts_edit_PreciselyControlledSpeechEditingwith.md]] : dots.tts.edit: Precisely Controlled Speech Editing with a Continuous Autoregressive Model
+- [[raw/papers/2026-08-04_12-41-32Z_FromSocialCodingtoAgenticCoding_ProductivityandRel.md]] : From Social Coding to Agentic Coding: Productivity and Relational Reconfiguration in Open-Source Communities
+- [[raw/papers/2026-08-04_09-40-45Z_TimeRLM_RecursiveLanguageModelsEnablePreciseAnomal.md]] : TimeRLM: Recursive Language Models Enable Precise Anomaly Localization in Long-Context Time-Series
+- [[raw/papers/2026-08-04_08-32-30Z_AS_FedBridge_Pseudo_SpikeBridgeDistillationforHete.md]] : AS-FedBridge: Pseudo-Spike Bridge Distillation for Heterogeneous ANN-SNN Federated Learning
+- [[raw/papers/2026-08-04_08-52-40Z_Route_Align_VerifyforFunctionalCorrectnessinCodeGe.md]] : Route-Align-Verify for Functional Correctness in Code Generation
+- [[raw/papers/2026-08-04_08-49-34Z_BenchmarkingtheBenchmarks_TestingthePredictiveVali.md]] : Benchmarking the Benchmarks: Testing the Predictive Validity of Commonsense Benchmarks
+- [[raw/papers/2026-08-04_11-14-13Z_AdaptiveModalityReliabilityDiagnosisandRestoration.md]] : Adaptive Modality Reliability Diagnosis and Restoration for Robust Multimodal Intent Recognition
+- [[raw/papers/2026-08-04_08-08-04Z_Distractor_AwareTruncation_DisentanglingContext_Le.md]] : Distractor-Aware Truncation: Disentangling Context-Length Effects from Signal Loss in Long-Context LLM Benchmarks
+- [[raw/papers/2026-08-04_10-07-14Z_AIWorldCup2026_BenchmarkingLargeLanguageModelsforE.md]] : AI World Cup 2026: Benchmarking Large Language Models for End-to-End Football Tournament Prediction
+- [[raw/papers/2026-08-04_08-35-51Z_ScreenshotsorTools_ElicitingToolUseandManagingMult.md]] : Screenshots or Tools? Eliciting Tool Use and Managing Multimodal Context in Hybrid GUI-MCP Computer-Use Agents
+- [[raw/papers/2026-08-04_11-43-22Z_CanLLMdesignhigh_qualityexperiments_AComprehensive.md]] : Can LLM design high-quality experiments? A Comprehensive and Systematic Benchmark on Autonomous Experimental Design
+- [[raw/papers/2026-08-04_11-02-45Z_ToolLIFT_LiftingTool_SpecificTrajectoriesintoFunct.md]] : ToolLIFT: Lifting Tool-Specific Trajectories into Function-Level Graphs for Generalizable Tool Planning
+- [[raw/papers/2026-08-04_09-51-54Z_MMLongBench_Doc_V2_ACorrected_Annotation_Semantics.md]] : MMLongBench-Doc-V2: A Corrected-Annotation, Semantics-Aware Revision of MMLongBench-Doc
+- [[raw/papers/2026-08-04_12-57-08Z_FraQ_EfficientCoordinate_SpaceRecompressionforFede.md]] : FraQ: Efficient Coordinate-Space Recompression for Federated Low-Rank Adaptation
+- [[raw/papers/2026-08-04_11-01-38Z_ChartAnno_EvaluatingMLLMsforChartAnnotationGenerat.md]] : ChartAnno: Evaluating MLLMs for Chart Annotation Generation
+- [[raw/papers/2026-08-04_09-05-41Z_ArtECulture_BenchmarkingCulture_ConditionedVisualE.md]] : ArtECulture: Benchmarking Culture-Conditioned Visual Emotion Understanding in Multimodal Large Language Models
+- [[raw/papers/2026-08-04_12-30-13Z_AdversarialFast_MovingReal_WorldDomainsasTestBedsf.md]] : Adversarial Fast-Moving Real-World Domains as Test Beds for Benchmarking AI Scientist Capabilities
+- [[raw/papers/2026-08-04_13-53-48Z_PhyAI_Real_TimePhysicalAIattheEdge_ScalableRollout.md]] : PhyAI: Real-Time Physical AI at the Edge, Scalable Rollouts in the Cloud
+- [[raw/papers/2026-08-04_12-26-58Z_Test_TimeAugmentationforTabular_to_ImageClassifier.md]] : Test-Time Augmentation for Tabular-to-Image Classifiers under Distribution Shifts
+- [[raw/papers/2026-08-04_11-56-02Z_ReversingArrowsinLargeLanguageModels.md]] : Reversing Arrows in Large Language Models
+- [[raw/papers/2026-08-04_10-22-02Z_StopReplacingNoisewithNoise_Two_SourceReliabilityA.md]] : Stop Replacing Noise with Noise: Two-Source Reliability Assessment for Label Correction and Sample Reweighting in Label-Noise Learning
+- [[raw/papers/2026-08-02_13-23-49Z_SphereRetractionNormalizations.md]] : Sphere Retraction Normalizations
+- [[raw/papers/2026-08-03_08-54-18Z_Stuckon_A__DiagnosingandRepairingInterfaceInjuryin.md]] : Stuck on "A": Diagnosing and Repairing Interface Injury in Attention-to-KDA Linearization of a 0.6B Language Model
+- [[raw/papers/2026-08-04_11-45-10Z_ConlangBench_ExploringLanguageKnowledgeandLearning.md]] : ConlangBench: Exploring Language Knowledge and Learning in LLMs through Diverse Constructed Languages
+- [[raw/papers/2026-08-04_10-53-02Z_LLaDAMoEv2_ScalingMixture_of_ExpertsDiffusionLangu.md]] : LLaDA MoE v2: Scaling Mixture-of-Experts Diffusion Language Models
+- [[raw/papers/2026-08-04_13-59-12Z_PatternoverPixels_MeasuringPatternCompletionBiasin.md]] : Pattern over Pixels: Measuring Pattern Completion Bias in Multimodal Code Generation
+- [[raw/papers/2026-08-04_11-45-46Z_WhenManyAnswersAreValid_VotingFails_SymbolicVerifi.md]] : When Many Answers Are Valid, Voting Fails: Symbolic Verification for Best-of-K Causal Reasoning in LLMs
+- [[raw/papers/2026-08-04_10-48-11Z_DataSpace_BenchmarkingDataAgentsforVerifiableAnaly.md]] : DataSpace: Benchmarking Data Agents for Verifiable Analytics over Heterogeneous Workspaces
+- [[raw/papers/2026-08-04_14-36-44Z_CanLLMsTestTerminalUserInterfaces.md]] : Can LLMs Test Terminal User Interfaces?
+- [[raw/papers/2026-08-04_08-18-38Z_EvaluatingLLMTrade_offsforEnterpriseAutomation_Les.md]] : Evaluating LLM Trade-offs for Enterprise Automation: Lessons from Workflow Generation in a Production Enterprise Platform
+- [[raw/papers/2026-08-04_11-18-28Z_BeyondtheGegenbauerParadigm_q_OrthogonalKernelsfor.md]] : Beyond the Gegenbauer Paradigm: q-Orthogonal Kernels for Machine Learning
+- [[raw/papers/2026-08-04_09-08-16Z_Conformalriskcontrolformodel_formuncertaintyinpara.md]] : Conformal risk control for model-form uncertainty in parametric non-intrusive reduced-order models
+- [[raw/papers/2026-08-04_08-04-59Z_DocTrace_TowardsTraceableLongDocumentVQAviaHierarc.md]] : DocTrace: Towards Traceable Long Document VQA via Hierarchical Evidence Graph Reasoning
+- [[raw/papers/2026-08-04_14-26-45Z_CARE_Bench_BenchmarkingPatient_FacingLLMTriage.md]] : CARE-Bench: Benchmarking Patient-Facing LLM Triage
+- [[raw/papers/2026-08-04_11-42-26Z_WeClawArena_AnAuditableSandboxandBenchmarkforCross.md]] : WeClawArena: An Auditable Sandbox and Benchmark for Cross-User Agents Collaboration and Security in Human-Centered Agent Networks
+- [[raw/papers/2026-08-04_13-02-47Z_Language_SpecializedMulti_TeacherOn_PolicyDistilla.md]] : Language-Specialized Multi-Teacher On-Policy Distillation for Multilingual LLM-Based ASR
+- [[raw/papers/2026-08-04_14-02-55Z_TARL_Transaction_AwareReliableLedgersforExecutable.md]] : TARL: Transaction-Aware Reliable Ledgers for Executable Memory Management in Long-Term Agents
+- [[raw/papers/2026-08-04_14-04-56Z_WhenAgentsLearntoBeYou_BenchmarkingPrivacyLeakage_.md]] : When Agents Learn to Be You: Benchmarking Privacy Leakage, Impersonation Risk, and Defenses in Persona Skills
+- [[raw/papers/2026-08-04_12-43-47Z_DiagChain_ADiagnosticBenchmarkforEvaluatingLLMAgen.md]] : DiagChain: A Diagnostic Benchmark for Evaluating LLM Agents on Evidence-Grounded Attack Chain Reconstruction
+- [[raw/papers/2026-08-04_14-51-56Z_GDPevo_EvaluatingAgentSelf_EvolutiononRealBusiness.md]] : GDPevo: Evaluating Agent Self-Evolution on Real Business Tasks
+- [[raw/papers/2026-08-04_13-14-06Z_UnequalVerdicts_InvestigatingGenderBiasinLLM_Based.md]] : Unequal Verdicts: Investigating Gender Bias in LLM-Based Fake News Detection
+- [[raw/papers/2026-08-04_12-51-32Z_Largelanguagemodelsforpartialdifferentialequationw.md]] : Large language models for partial differential equation workflows
+- [[raw/papers/2026-08-04_13-57-48Z_LiveEvalBench_TowardOpen_WorldEvaluationforWebGene.md]] : LiveEvalBench: Toward Open-World Evaluation for Web Generation
+- [[raw/papers/2026-08-04_13-40-03Z_TamingtheImplicit_Dual_ChannelRisk_AwareReinforcem.md]] : Taming the Implicit: Dual-Channel Risk-Aware Reinforcement Fine-Tuning for Continual Multimodal Post-Training
+- [[raw/papers/2026-08-04_10-01-30Z_DistilledRoads_GeneralisableRoadNetworkExtractionA.md]] : Distilled Roads: Generalisable Road Network Extraction Across Sensors, Resolutions, and Region
+- [[raw/papers/2026-08-04_14-37-16Z_AgentsCatchingAgents_ShortcutCascadesandBenchmarkG.md]] : Agents Catching Agents: Shortcut Cascades and Benchmark Gaming in Clinical Multi-Agent Systems
+- [[raw/papers/2026-08-04_10-33-04Z_DynamicallyAllocatingEvaluationEffortforModelRanki.md]] : Dynamically Allocating Evaluation Effort for Model Ranking
+- [[raw/papers/2026-08-04_12-29-37Z_EnhancingTabularLearnerswithContext_AwareSemanticE.md]] : Enhancing Tabular Learners with Context-Aware Semantic Embeddings
+- [[raw/papers/2026-08-03_14-40-59Z_ARCHead_Activation_MetricResidualCorrectionforLarg.md]] : ARCHead: Activation-Metric Residual Correction for Large Language Model Output Heads
+- [[raw/papers/2026-08-04_08-39-16Z_Long_termTrafficScenePredictionviaPolynomialRepres.md]] : Long-term Traffic Scene Prediction via Polynomial Representations in Autonomous Driving
+- [[raw/papers/2026-08-03_10-41-25Z_Crayotter_LearningLong_HorizonVideoEditingAgentsvi.md]] : Crayotter: Learning Long-Horizon Video Editing Agents via Group-Relative Preference Backpropagation
+- [[raw/papers/2026-08-04_12-48-05Z_FOUND_AF_BenchmarkingECGFoundationModelsforAtrialF.md]] : FOUND-AF: Benchmarking ECG Foundation Models for Atrial Fibrillation Detection
+- [[raw/papers/2026-07-30_20-51-51Z_AgenticCodingintheWild_CharacterizingGitHubCopilot.md]] : Agentic Coding in the Wild: Characterizing GitHub Copilot Traces at Production Scale
+- [[raw/papers/2026-08-03_02-22-02Z_Post_TrainingonOfficeWorkImprovesSoftwareEngineeri.md]] : Post-Training on Office Work Improves Software Engineering: A Behavioral Account of Cross-Domain Transfer
+- [[raw/papers/2026-08-03_17-35-31Z_WhoShouldBeGenerated_JustifyingDemographicTargetsi.md]] : Who Should Be Generated? Justifying Demographic Targets in Open-Ended Generation
+- [[raw/papers/2026-08-02_20-19-56Z_SweetLittleLies_StrategicDeceptioninAIEmotionalSup.md]] : Sweet Little Lies: Strategic Deception in AI Emotional Support Chatbots
+- [[raw/papers/2026-08-03_14-01-44Z_Homebot_APersonalAIAgentforConversationalHomeAssis.md]] : Homebot: A Personal AI Agent for Conversational Home Assistance and Automation
+- [[raw/papers/2026-08-03_10-23-42Z_EduZone_AFrameworkforEvaluatingLLMSafetyforK_12Stu.md]] : EduZone: A Framework for Evaluating LLM Safety for K-12 Students and Teachers
+- [[raw/papers/2026-08-03_17-03-19Z_SWE_Touch_BenchmarkingCodingAgentsWhenUsersTouchth.md]] : SWE-Touch: Benchmarking Coding Agents When Users Touch the Code
+- [[raw/papers/2026-08-02_16-10-02Z_Prompt_InducedWasteinLargeReasoningModels_APreregi.md]] : Prompt-Induced Waste in Large Reasoning Models: A Preregistered Two-Harness Benchmark of Coding Agents
+- [[raw/papers/2026-08-03_04-15-40Z_WhenMemoryBecomesAuthority_BenchmarkingAuthorityCo.md]] : When Memory Becomes Authority: Benchmarking Authority Collapse at the Memory Consolidation Boundary
+- [[raw/papers/2026-08-03_14-12-18Z_Harness_R1_LearningtoEditExecutableRuntimeHarnesse.md]] : Harness-R1: Learning to Edit Executable Runtime Harnesses from Agent Failure Trajectories
+- [[raw/papers/2026-08-03_00-28-49Z_SecuringAgenticAI_FromPer_ActionCheckstoTrajectory.md]] : Securing Agentic AI: From Per-Action Checks to Trajectory Assurance
+- [[raw/papers/2026-08-03_08-51-50Z_HarnessCompass_GuidingAutomaticHarnessEvolutiontow.md]] : HarnessCompass: Guiding Automatic Harness Evolution toward Generalizable and Effective Agent Harnesses
+- [[raw/papers/2026-08-01_13-51-55Z_OpenART_ScalingAgentRedTeamingviaOpen_EndedEnviron.md]] : OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution
+- [[raw/papers/2026-08-01_13-47-44Z_FromChasingGhoststoMissedAttacks_PerspectivesandPe.md]] : From Chasing Ghosts to Missed Attacks: Perspectives and Perceptions of SOC Practitioners on LLM Integration, Risks, and Readiness
+- [[raw/papers/2026-08-02_05-09-28Z_FromAITechnicalDebttoAgenticTechnicalDebt_ASystema.md]] : From AI Technical Debt to Agentic Technical Debt: A Systematic Mapping of Root Causes and Manifestations in Agentic AI Systems
+- [[raw/papers/2026-08-02_02-06-23Z_ModelingSocialDynamicswithanLLM_EnabledAgentBasedN.md]] : Modeling Social Dynamics with an LLM-Enabled Agent Based Network-Dynamic (LAND) Model
+- [[raw/papers/2026-08-02_07-32-49Z_Don_tOfferWhatCan_tBeDone_DeterministicExecutabili.md]] : Don't Offer What Can't Be Done: Deterministic Executability Gating for LLM Skill Selection at Scale
+- [[raw/papers/2026-08-02_06-31-25Z_CallScreenBench_BenchmarkingOn_DeviceModelsasPhone.md]] : CallScreenBench: Benchmarking On-Device Models as Phone Secretaries
+- [[raw/papers/2026-08-01_16-32-03Z_MeandMyBot_WhatUsersTalkAboutinAICompanionCommunit.md]] : Me and My Bot: What Users Talk About in AI Companion Communities on Reddit
 - [[papers/2026-07-31_16-11-46Z_DiffusionGemmaTechnicalReport_summary.md]] : DiffusionGemma Technical Report
-- [[2026-08-01_20-42-52Z_KilobyteModels_NeuralNetworksasaSeedandaQuantizedL.md]] : Kilobyte Models: Neural Networks as a Seed and a Quantized Latent
-- [[2026-08-02_05-49-25Z_WhyLLMsGiveIn_ConversationalFactorsandReasoningBeh.md]] : Why LLMs Give In: Conversational Factors and Reasoning Behind Medical Sycophancy
-- [[2026-08-01_14-14-12Z_WhenDoesLLMOrchestrationPayOff_AControlledEvaluati.md]] : When Does LLM Orchestration Pay Off? A Controlled Evaluation of Accuracy, Cost, and Task Difficulty
-- [[2026-08-01_10-42-41Z_AFalseAverage_Chain_of_ThoughtMonitorsCollapseWher.md]] : A False Average: Chain-of-Thought Monitors Collapse Where They Are the Only Defense
-- [[2026-07-31_13-57-21Z_KnowIt_ActonIt_InvestigatingMemoryUtilizationinLLM.md]] : Know It, Act on It: Investigating Memory Utilization in LLM Personalization
-- [[2026-07-31_16-09-23Z_SycophancyUnderminesEpistemicVigilanceinCooperativ.md]] : Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks
-- [[2026-07-31_00-05-36Z_Token_LevelDiagnosisofSycophancyinLLMswithAttribut.md]] : Token-Level Diagnosis of Sycophancy in LLMs with Attribution-Guided Steering
-- [[2026-07-31_03-07-31Z_Mixture_of_Translators_TranslatingKVCachesAcrossHe.md]] : Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models
-- [[2026-07-31_15-03-09Z_Transcript_ManagedTransformers_MonotoneMulti_Agent.md]] : Transcript-Managed Transformers: Monotone Multi-Agent Collapse and Universality with Two Pop-Enabled Transcripts
-- [[2026-07-31_12-14-04Z_DualDiT_AConditionalDual_OutputDiffusionTransforme.md]] : DualDiT: A Conditional Dual-Output Diffusion Transformer for Joint OCT Image and Segmentation Mask Generation
-- [[2026-07-31_00-32-46Z_GatedQ_learning_AddOff_PolicyBiastoTaste.md]] : Gated Q-learning: Add Off-Policy Bias to Taste
-- [[2026-07-31_02-05-45Z_OvercomingtheWeakest_LinkEffectinLLM_DrivenProgram.md]] : Overcoming the Weakest-Link Effect in LLM-Driven Program Optimization via Heterogeneous Edit Recombination
-- [[2026-07-31_13-15-11Z_Studyingquantizationtrade_offsforefficientinferenc.md]] : Studying quantization trade-offs for efficient inference deployment in machine translation
-- [[2026-07-31_06-32-02Z_BenchmarkingFrontierLargeLanguageModelsAgainstOffi.md]] : Benchmarking Frontier Large Language Models Against Official Crash Database Coding Using Police Crash Narratives
-- [[2026-07-30_19-55-14Z_ModelorHarness_AnInteraction_CentricTaxonomyforLoc.md]] : Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures
-- [[2026-07-31_10-14-28Z_SmallIsEnough_Per_UserStyleRewritingofAI_EditedTex.md]] : Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters
-- [[2026-07-30_19-04-34Z_Self_SupervisedSkillOptimization.md]] : Self-Supervised Skill Optimization
-- [[2026-07-31_02-19-25Z_Retrieval_DrivenTraining_FreeAI_GeneratedVideoAttr.md]] : Retrieval-Driven Training-Free AI-Generated Video Attribution
-- [[2026-07-30_20-28-02Z_DistillingKnowledgefromLargeLanguageModelsintoLigh.md]] : Distilling Knowledge from Large Language Models into Lightweight Reinforcement Learning Agents for Autonomous Cyber Operations
-- [[2026-07-30_22-01-36Z_TextCloak_ThwartingUnauthorizedLLMExploitationviaR.md]] : TextCloak: Thwarting Unauthorized LLM Exploitation via RL-Driven Unlearnable Text
-- [[2026-07-30_22-43-33Z_Open_SourceLLM_DrivenFormalVerification_AMulti_Age.md]] : Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair
-- [[2026-07-31_12-30-12Z_SeekBrain_AnAutonomousMulti_AgentSystemforAccelera.md]] : SeekBrain: An Autonomous Multi-Agent System for Accelerating Neuroscience Discovery
-- [[2026-07-30_15-49-34Z_GLM_RAG_GraphLanguageModelsforGraph_BasedRetrieval.md]] : GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation
-- [[2026-07-30_16-13-36Z_BeyondaSingleJudge_SimulatingSocialPersonaPanelsfo.md]] : Beyond a Single Judge: Simulating Social Persona Panels for Generative UI Evaluation
-- [[2026-07-30_16-30-08Z_WouldYouWalktotheCarWash_RevealingtheSalienceBiaso.md]] : Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning
-- [[2026-07-30_15-19-18Z_LLMsstruggletosimulatehumanbeliefupdatesincontroll.md]] : LLMs struggle to simulate human belief updates in controlled environments
-- [[2026-07-30_17-34-01Z_Frontis_MA1_TraininganAI4AIModeltowardsRecursiveSe.md]] : Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering
-- [[2026-07-30_17-38-23Z_SampleMore_ReflectLess_Self_RefineandReflexionLose.md]] : Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B
-- [[2026-07-29_18-13-02Z_SkillMentor_LLMAgentSelf_EvolutionviaLearningBlind.md]] : SkillMentor: LLM Agent Self-Evolution via Learning Blind-Spot Diagnosis
-- [[2026-07-30_08-30-52Z_BeyondFeelingBetter_Capability_SustainingEmotional.md]] : Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as a Longitudinal Research Paradigm
-- [[2026-07-29_23-17-08Z_AutomatedTranscriptAnalysisforDetectingFlawsinAgen.md]] : Automated Transcript Analysis for Detecting Flaws in Agentic Benchmarks
-- [[2026-07-30_11-28-21Z_IndustryForge_27B_ADomain_EnhancedMultimodalFounda.md]] : IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model for Industrial CAD
-- [[2026-07-29_19-42-33Z_SelectingOpen_WeightLanguageModelsforZero_ShotInte.md]] : Selecting Open-Weight Language Models for Zero-Shot Intent Classification: A Systematic Evaluation of 41 Models
-- [[2026-07-30_04-05-05Z_Harness_G_AGraph_StructuredHarnessforSearchAgents.md]] : Harness-G: A Graph-Structured Harness for Search Agents
-- [[2026-07-30_12-54-17Z_CanAgentsDeceive_EvaluatingReasoningandDeceptionin.md]] : Can Agents Deceive? Evaluating Reasoning and Deception in ParliamentBench using a Social Deduction Game
-- [[2026-07-30_14-59-29Z_PayingforHonestyWithoutKnowingtheTruth_Reputation_.md]] : Paying for Honesty Without Knowing the Truth: Reputation-Penalty Design for LLM Marketplace Agents
-- [[2026-07-29_17-57-19Z_CanAIagentsconductopen_endedAIresearch_Earlyeviden.md]] : Can AI agents conduct open-ended AI research? Early evidence from two case studies
-- [[2026-07-29_17-51-32Z_TheSocialCostofanAITeammate_HowanArtificialTeammat.md]] : The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making
-- [[2026-07-29_17-56-49Z_APEX_Accounting.md]] : APEX-Accounting
-- [[2026-07-29_01-23-04Z_Im_PairedProgramming_CodingAgentsImproveProductivi.md]] : (Im)Paired Programming: Coding Agents Improve Productivity but Harm Understanding
-- [[2026-07-29_07-12-44Z_Prosody_drivenJailbreaksinAudioLLMs_AControlledStu.md]] : Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis
-- [[2026-07-28_19-26-50Z_Multi_AgentDebateStrategies_Survey_Taxonomy_andCha.md]] : Multi-Agent Debate Strategies: Survey, Taxonomy, and Challenges
-- [[2026-07-29_12-14-17Z_AFirstLookatCodingAgents_CompliancewithAIContribut.md]] : A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities
-- [[2026-07-28_21-47-22Z_AgentGUI_AnInterfaceforObservingandSteeringLong_Ru.md]] : AgentGUI: An Interface for Observing and Steering Long-Running AI Agents
-- [[2026-07-28_16-58-27Z_TryAgain_Don_tLookBack_BlindResamplingOutperformsS.md]] : Try Again, Don't Look Back: Blind Resampling Outperforms Self-Repair in Small Code Models
-- [[2026-07-29_08-59-43Z_Filesystem_BasedMemoryforLLMAgents_Organization_Ev.md]] : Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability
-- [[2026-07-29_06-42-23Z_TheArtofNotForgettingALocalLearningArchitecturefor.md]] : The Art of Not Forgetting A Local Learning Architecture for Continual Learning
-- [[2026-07-29_10-58-44Z_Metis_MemoryFoundationModel.md]] : Metis: Memory Foundation Model
-- [[2026-07-29_08-09-32Z_Eco3S_ComplexSocio_EconomicSystemSimulationviaAgen.md]] : Eco3S: Complex Socio-Economic System Simulation via Agent-Based Models
-- [[2026-07-28_17-48-54Z_EvenMoreDeception_ObjectiveMisalignmentinMixed_Mot.md]] : Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems
-- [[2026-07-29_09-25-55Z_ScientificKnowledgeDiscoveryintheAgeofLargeLanguag.md]] : Scientific Knowledge Discovery in the Age of Large Language Models
-- [[2026-07-29_09-05-40Z_RethinkingSelf_Evolution_AConstrainedExploration_E.md]] : Rethinking Self-Evolution: A Constrained Exploration-Exploitation Process for Mitigating Skill Overfitting
-- [[2026-07-29_10-12-49Z_DREvo_DistillingRecalibratedHistoricalExperiencefo.md]] : DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution
-- [[2026-07-29_08-20-11Z_Living_HarnessIsanInteractive_AgentEvolver.md]] : Living-Harness Is an Interactive-Agent Evolver
-- [[2026-07-27_09-39-09Z_AgentRetrievalBench_EvaluatingRepositoryContextRet.md]] : Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents
-- [[2026-07-27_18-56-13Z_CogArena_AMultimethodEvaluationofCognitiveAbilityS.md]] : CogArena: A Multimethod Evaluation of Cognitive Ability Structure in Large Language Models
-- [[2026-07-28_00-40-49Z_ObservingsycophanticAIvalidateothersreducesitsappe.md]] : Observing sycophantic AI validate others reduces its appeal but not its persuasiveness
-- [[2026-07-27_20-35-43Z_PsychologicalInfluencesofConversationalAI_Research.md]] : Psychological Influences of Conversational AI: Research and Design Directions for Reducing Harm and Promoting Well-Being
-- [[2026-07-27_15-18-06Z_EarlyDetectionofDistributedBackdoorsinMulti_AgentL.md]] : Early Detection of Distributed Backdoors in Multi-Agent LLM Systems: A Characterization Study
-- [[2026-07-27_23-52-15Z_WhenDoAgentLoopsMistakeStagnationforProgress_Self_.md]] : When Do Agent Loops Mistake Stagnation for Progress? Self-Evaluation Bias and Externally Grounded Verification in Long-Running Autonomous LLM Agent Loops
-- [[2026-07-28_05-17-34Z_HybridAnalysisforSecureMCPToolUseinLLMAgents.md]] : Hybrid Analysis for Secure MCP Tool Use in LLM Agents
-- [[2026-07-28_10-40-59Z_AgentSkillsMatter_InferringProprietarySkillsfromEx.md]] : Agent Skills Matter: Inferring Proprietary Skills from Execution Trajectories
-- [[2026-07-28_12-17-53Z_F_AI_2R_WhoDidWhat_andWhoChecked_VerifiableAIProve.md]] : F(AI)2R: Who Did What, and Who Checked? Verifiable AI Provenance as an Executable Skill
-- [[2026-07-28_07-34-37Z_Cyber_CapableAIAgents_Vulnerabilities_EvaluationCo.md]] : Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response
-- [[2026-07-27_03-51-40Z_MusiChat_VibeComposingforMusicCreation.md]] : MusiChat: Vibe Composing for Music Creation
-- [[2026-07-27_21-10-59Z_TowardsanAgentOperatingSystem_LessonsfromClassical.md]] : Towards an Agent Operating System - Lessons from Classical and Cloud OS
-- [[2026-07-26_14-37-53Z_ComputeGlobally_MaterializeLocally_TheMemoryContra.md]] : Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV
-- [[2026-07-25_16-29-38Z_Co_EvolvingGraphandTextMemoryforTraining_FreeMulti.md]] : Co-Evolving Graph and Text Memory for Training-Free Multi-Hop Question Answering
-- [[2026-07-27_13-06-38Z_RegulatingforAILegitimacy.md]] : Regulating for AI Legitimacy
-- [[2026-07-27_00-55-10Z_WorldDiT_AUnifiedDiffusionArchitectureforWorldandA.md]] : WorldDiT: A Unified Diffusion Architecture for World and Action Modeling
-- [[2026-07-25_05-46-17Z_SymStep_SymbolicStepVerificationforLogicalReasonin.md]] : SymStep: Symbolic Step Verification for Logical Reasoning
-- [[2026-07-25_05-10-01Z_MixQuant_AdaptiveMixed_PrecisionQuantizationforLar.md]] : MixQuant: Adaptive Mixed-Precision Quantization for Large Language Models
-- [[2026-07-26_03-32-13Z_SeparatingCapabilityfromPermission_AGovernanceFram.md]] : Separating Capability from Permission: A Governance Framework for Agentic AI Autonomy Levels
-- [[2026-07-27_04-02-00Z_TagQuestionsandtheGenerationalReversalofSycophancy.md]] : Tag Questions and the Generational Reversal of Sycophancy Across 45 Language Models
-- [[2026-07-26_14-07-11Z_PlansWorkinMysteriousWays_EvaluatingaPlanModeforSp.md]] : Plans Work in Mysterious Ways: Evaluating a Plan Mode for Spreadsheet Agents
-- [[2026-07-24_19-26-47Z_SamePredictions_DifferentReasons_TheEffectofQuanti.md]] : Same Predictions, Different Reasons: The Effect of Quantization on Model Explanations
-- [[2026-07-26_10-29-20Z_AreYouStilltheAgentIAuthorized_EarnedAuthorityunde.md]] : Are You Still the Agent I Authorized? Earned Authority under a Fixed Ceiling for Evolving Agents
-- [[2026-07-27_10-22-46Z_EpistemicNormsforAISafetyandAlignmentResearch.md]] : Epistemic Norms for AI Safety and Alignment Research
-- [[2026-07-27_15-53-19Z_SIREN_TowardsEnd_to_EndExtreme_WeatherEarlyWarning.md]] : SIREN: Towards End-to-End Extreme-Weather Early Warning with Experience-Grounded LLM Agents
-- [[2026-07-27_11-04-17Z_AccuracyHidesHowLanguageModelsFail_MeasuringFailur.md]] : Accuracy Hides How Language Models Fail: Measuring Failure States Under Matched Output Budgets
-- [[2026-07-27_10-50-37Z_GenerativeArtificialIntelligence_GenAI_toconvertim.md]] : Generative Artificial Intelligence (GenAI) to convert images of queuing networks into verifiable simulation models: an open-weight LLM workflow approach
-- [[2026-07-27_10-20-31Z_FilmBench_AFilm_GradeBenchmarkforCinematicVideoGen.md]] : FilmBench: A Film-Grade Benchmark for Cinematic Video Generation
-- [[2026-07-25_00-08-09Z_ConsistencyGate_PreventingMemoryContaminationinLLM.md]] : ConsistencyGate: Preventing Memory Contamination in LLM Agents via Self-Consistency Admission Control
-- [[2026-07-24_21-32-48Z_NotAllLLMReasoningisVisibleintheChain_of_Thought.md]] : Not All LLM Reasoning is Visible in the Chain-of-Thought
-- [[2026-07-27_17-54-12Z_DataOrchestra_LearningtoOrchestratePer_ExampleCura.md]] : DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data
-- [[2026-07-27_01-47-12Z_RealityMonitoringinLargeLanguageModels_Self_Knowle.md]] : Reality Monitoring in Large Language Models: Self-Knowledge That Transforms with Conversation Memory
-- [[2026-07-27_04-13-42Z_MoralHazardinMulti_AgentLanguageModels.md]] : Moral Hazard in Multi-Agent Language Models
-- [[2026-07-27_11-27-38Z_FromProprietarytoOpen_Source_BridgingtheDistributi.md]] : From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search
-- [[2026-07-26_04-06-13Z_DoSmallModelsUsetheLawYouGiveThem_Context_Injected.md]] : Do Small Models Use the Law You Give Them? Context-Injected Fine-Tuning for Legal QA in Bangladesh
-- [[2026-07-27_07-40-34Z_LU_500_ALogoBenchmarkforConceptUnlearning.md]] : LU-500: A Logo Benchmark for Concept Unlearning
-- [[2026-07-26_16-05-39Z_AIStrategy_HowtoChooseWhatAIProducttoImplement.md]] : AI Strategy: How to Choose What AI Product to Implement
-- [[2026-07-26_08-27-19Z_GuidingLanguageModelstoBeMoreEmpathetic_Culturally.md]] : Guiding Language Models to Be More Empathetic: Culturally Sensitive Mental Health Advice Generation Through Human-LLM Collaboration
-- [[2026-07-26_14-23-33Z_FocusIsAllYouNeed_AdaptiveGoal_awareAttentionOrche.md]] : Focus Is All You Need: Adaptive Goal-aware Attention Orchestration for Multi-Agent Graph Systems
-- [[2026-07-26_03-39-29Z_ReasoningorMemorization_CanLLMsUnderstandandGenera.md]] : Reasoning or Memorization: Can LLMs Understand and Generate Chinese Xiehouyu Riddles?
-- [[2026-07-26_13-28-51Z_CALMRec_CausallyAlignedLanguageMemoryforLong_Horiz.md]] : CALMRec: Causally Aligned Language Memory for Long-Horizon Recommendation
-- [[2026-07-26_15-38-28Z_E_Bench_BenchmarkingMulti_StepTool_UseAgentsinReal.md]] : E-Bench: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios
-- [[2026-07-26_12-15-09Z_WhereIstheCostofThird_PartyAPIRoutersinAgenticSoft.md]] : Where Is the Cost of Third-Party API Routers in Agentic Software Development?
-- [[2026-07-26_06-54-28Z_DoLLMsKnowTheirVulnerableScenarios.md]] : Do LLMs Know Their Vulnerable Scenarios?
-- [[2026-07-23_11-02-24Z_EnhancingSLMsforSustainableCodeOptimizationinRadio.md]] : Enhancing SLMs for Sustainable Code Optimization in Radio-Astronomy
-- [[2026-07-22_20-39-48Z_Cross_ModelLLMCodeReview_ShouldyouuseClaudetorevie.md]] : Cross-Model LLM Code Review: Should you use Claude to review Codex or vice versa?
-- [[2026-07-23_19-26-25Z_EveryModelCheats_Prompt_LevelMitigationofCheatingo.md]] : Every Model Cheats: Prompt-Level Mitigation of Cheating on Offensive Cyber Tasks
-- [[2026-07-23_18-34-12Z_WhatAIRed_TeamEvaluationsCanandCannotProve.md]] : What AI Red-Team Evaluations Can and Cannot Prove
-- [[2026-07-24_11-37-19Z_WhyLargeLanguageModelsandHumansConvergeandDivergei.md]] : Why Large Language Models and Humans Converge and Diverge in Evaluating Creativity
-- [[2026-07-24_17-50-03Z_TheRegressionTax_DecomposingWhySkillsHelpandHurtLL.md]] : The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents
-- [[2026-07-23_21-48-28Z_HowDoAICodingAgentsContributetoSoftwareDevelopment.md]] : How Do AI Coding Agents Contribute to Software Development? an Empirical Study of Agentic Pull Requests
-- [[2026-07-23_21-53-34Z_ToolGuardian_DeclarativeSecurityforAIAgent_ToolInt.md]] : ToolGuardian: Declarative Security for AI Agent-Tool Interactions
-- [[2026-07-24_14-50-19Z_LearningStructuralConvergence_ANeuro_SymbolicBench.md]] : Learning Structural Convergence: A Neuro-Symbolic Benchmark for Temporal Reasoning
-- [[2026-07-24_04-35-29Z_TeachingLLMstoSelf_Evolve_CultivatingCoreMeta_Skil.md]] : Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning
-- [[2026-07-24_04-57-30Z_J_CoT_Chain_of_ThoughtinJ_Space.md]] : J-CoT: Chain-of-Thought in J-Space
-- [[2026-07-24_08-33-26Z_Nanbeige4_2_3B_UnlockingAgenticCapabilitiesinaComp.md]] : Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Mode
-- [[2026-07-13_18-00-34Z_SymbOmni_EvolvingAgenticOmniModelsviaSymbolicConce.md]] : SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning
-- [[2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_weight.md]] : Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks
-- [[2026-07-22_21-14-44Z_LLMsGetLostinEvolvingUserIntent.md]] : LLMs Get Lost in Evolving User Intent
-- [[2026-07-18_21-43-40Z_TurboVec_ACaseStudyinCost_EfficientPrivateRetrieva.md]] : TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization
-- [[2026-07-20_05-18-40Z_ZifaMem_StructuredMemoryforPersona_Preference_andE.md]] : ZifaMem: Structured Memory for Persona, Preference, and Emotional Continuity in AI Companions
-- [[2026-07-08_17-19-50Z_RecursiveSelf_ImprovementinAI_FromBoundedSelf_Refi.md]] : Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops
-- [[2026-07-20_13-49-51Z_TowardsAgenticAgent_basedModels_Feasibility_Perfor.md]] : Towards Agentic Agent-based Models: Feasibility, Performance, and Statistical Model Checking
-- [[2026-07-20_19-47-16Z_StructuredOutputCollapsesAnswerDiversityAcross44La.md]] : Structured Output Collapses Answer Diversity Across 44 Language Models
-- [[2026-07-21_07-53-58Z_AgentTrails_TowardsTrustandReuseforAgenticTasks.md]] : AgentTrails: Towards Trust and Reuse for Agentic Tasks
-- [[2026-07-20_23-49-42Z_PlanningasEmergentBehaviorinReinforcementLearningw.md]] : Planning as Emergent Behavior in Reinforcement Learning with Relational Hidden States
-- [[2026-07-22_07-20-27Z_KnowYourAgent_Reconnaissance_DrivenPentestingofAIA.md]] : Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents
-- [[2026-07-20_21-45-00Z_EduPanel_AThree_AgentLLMJudgeforTeachingVideos__Re.md]] : EduPanel: A Three-Agent LLM Judge for Teaching Videos -- Reliability, Complementarity, and Human Trust Calibration
-- [[2026-07-14_09-23-20Z_AJoLTfortheKVCache_Near_LosslessKVCacheCompression.md]] : A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs
-- [[2026-07-23_08-05-21Z_HiMe_Real_TimeSelf_HostedPersonalAgentPlatformforH.md]] : HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices
-- [[2026-07-20_12-38-50Z_AClassifierThatTeachesItself_Self_Improving_Frozen.md]] : A Classifier That Teaches Itself: Self-Improving, Frozen-gate Training (SIFT) for Dynamic Document Classification
-- [[2026-07-16_07-25-17Z_LLM_DrivenApproachtoModelingToolInteroperabilityin.md]] : LLM-Driven Approach to Modeling Tool Interoperability in Automotive Domain
-- [[2026-07-22_17-02-34Z_NotestoSelf_CanLLMsBenefitfromExperientialAbstract.md]] : Notes to Self: Can LLMs Benefit from Experiential Abstractions?
-- [[2026-07-23_09-55-45Z_RelativeValueLearning.md]] : Relative Value Learning
-- [[2026-07-21_16-38-32Z_They_llVerify_TheyJustWon_tAct_HowAuthorityFraming.md]] : They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface
-- [[2026-07-16_18-09-36Z_AnovaX_ALocal_Multi_AgentVoiceAssistantwithLLMPlan.md]] : AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery
-- [[2026-07-23_03-52-29Z_Anti_GoalReasoning_RethinkingtheTheoryofGoalReason.md]] : Anti-Goal Reasoning: Rethinking the Theory of Goal Reasoning in Non-Axiomatic Logic
-- [[2026-07-10_17-12-38Z_ExploringAgenticWorkflowsforGeneratingHighQualityM.md]] : Exploring Agentic Workflows for Generating High Quality Math Visual Aids
-- [[2026-07-17_00-03-47Z_Cache_AwarePromptCompression_ATwo_TierCostModelfor.md]] : Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching
-- [[2026-07-22_18-25-16Z_ScalingInterpretableTransformerswithParityBottlene.md]] : Scaling Interpretable Transformers with Parity Bottleneck Layers
-- [[2026-07-17_10-21-27Z_QUADS_StabilizingNVFP4ReinforcementLearningforMoEv.md]] : QUADS: Stabilizing NVFP4 Reinforcement Learning for MoE via QUantization-error Alignment across Dual Sides
-- [[2026-07-21_13-37-17Z_SupraCognitiveModes_ARoutedArchitectureforAgentMem.md]] : Supra Cognitive Modes: A Routed Architecture for Agent Memory
-- [[2026-07-20_22-36-26Z_ChainWatch_AKillChain_AlignedSequentialDetectionFr.md]] : ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems
-- [[2026-07-15_14-05-33Z_QuantizewithConfidence_AnEmpiricalStudyofQuantizat.md]] : Quantize with Confidence? An Empirical Study of Quantization for Code Generation
-- [[2026-07-16_07-28-31Z_SmartRAG_NativeGraph_BasedRAGforMobileDevice.md]] : SmartRAG: Native Graph-Based RAG for Mobile Device
-- [[2026-07-23_03-28-08Z_IsDeepResearchReliable_MisleadingKnowledgeInducesF.md]] : Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions
-- [[2026-07-20_05-09-36Z_ReinforcementLearning_FromAlgorithmsToFoundationMo.md]] : Reinforcement Learning: From Algorithms To Foundation Models
-- [[2026-07-21_22-43-16Z_TheMechanismMatters_WhenKnowledgeGraphsHelpReinfor.md]] : The Mechanism Matters: When Knowledge Graphs Help Reinforcement Learning
-- [[2026-07-22_15-13-15Z_TheEthicsofAutonomousAIAgentsforOffensiveSecurity.md]] : The Ethics of Autonomous AI Agents for Offensive Security
-- [[2026-07-21_17-07-13Z_Graph_BasedAgenticAIwithLangGraph_WorkflowPathways.md]] : Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes
-- [[2026-07-14_14-02-22Z_AVQ_Attention_AdaptiveVector_QuantizedAttention.md]] : AVQ-Attention: Adaptive Vector-Quantized Attention
-- [[2026-07-22_20-25-55Z_NVIDIA_labsOOAgents_NativePythonObject_OrientedAge.md]] : NVIDIA-labs OO Agents: Native Python Object-Oriented Agents
-- [[2026-07-16_06-31-39Z_PolyQ_CodesigningEnd_to_EndQuantizationFrameworkfo.md]] : PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference
-- [[2026-07-20_07-26-17Z_CanTransformersReallyDoItAll_OntheCompatibilityofI.md]] : Can Transformers Really Do It All? On the Compatibility of Inductive Biases Across Tasks
-- [[2026-07-23_08-56-11Z_QuantiBias_BenchmarkingQuantization_InducedBiasinL.md]] : QuantiBias: Benchmarking Quantization-Induced Bias in LLMs
-- [[2026-07-20_10-15-02Z_BrainNext_AGeneral_PurposeSelf_SupervisedFoundatio.md]] : BrainNext: A General-Purpose Self-Supervised Foundation Model for Brain MRI Analysis
-- [[2026-07-15_18-33-02Z_AIAgentsDoNotFailAlone_TheContextFailsFirst.md]] : AI Agents Do Not Fail Alone:The Context Fails First
-- [[2026-07-22_14-36-10Z_Small_Free_andEffective_OrchestratingOpen_WeightSm.md]] : Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis
-- [[2026-07-21_05-19-49Z_Strategy_FollowingMulti_AgentDeepReinforcementLear.md]] : Strategy-Following Multi-Agent Deep Reinforcement Learning Considering Control Strategies Provided to Other Agents
-- [[2026-07-22_12-45-04Z_ReinforcementLearningforLargeLanguageModelSelectiv.md]] : Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results
-- [[2026-07-07_06-05-42Z_D2PO_OptimizingDiffusionSamplersviaDynamicPreferen.md]] : D2PO: Optimizing Diffusion Samplers via Dynamic Preference
-- [[2026-07-14_11-04-01Z_KnowAct_GUIClaw_KnowDeeply_ActPerfectly_PersonalGU.md]] : KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill
-- [[2026-07-23_00-24-22Z_ProfilingLightweightLargeLanguageModels.md]] : Profiling Lightweight Large Language Models
-- [[2026-07-20_09-06-15Z_PlanningwithTransformers_ChainofComputationandStru.md]] : Planning with Transformers: Chain of Computation and Structured Context Windows
-- [[2026-07-13_08-51-08Z_EnhancingLLMsthroughhumanfeedback_ajourneytowardss.md]] : Enhancing LLMs through human feedback: a journey towards self-improvement
-- [[2026-07-20_17-15-41Z_AlayaWorld_InteractiveLong_HorizonWorldModeling__F.md]] : AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report
-- [[2026-07-21_12-50-07Z_NowYouSeetheHate_AdaptiveViewRetrievalforHiddenHat.md]] : Now You See the Hate: Adaptive View Retrieval for Hidden Hateful Illusions
-- [[2026-07-15_02-43-34Z_Self_ImprovingisOftenSudden_Enlightenment_styleFin.md]] : Self-Improving is Often Sudden: Enlightenment-style Finetuning for Large-Scale Models
-- [[2026-07-18_09-02-19Z_DS_GTARCateRisk2026_HybridMulti_AgentLLMSystemwith.md]] : DS@GT ARC at eRisk 2026: Hybrid Multi-Agent LLM System with Structured Algorithmic Guidance for Conversational Depression Screening
-- [[2026-07-20_18-02-25Z_ConvolutionforLargeLanguageModels.md]] : Convolution for Large Language Models
-- [[2026-07-18_15-09-58Z_BeyondMemoryLeaderboards_EvaluatingScientificMemor.md]] : Beyond Memory Leaderboards: Evaluating Scientific Memory as Budgeted Context Restoration
-- [[2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgentsAgainst.md]] : IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests
-- [[2026-07-17_00-21-19Z_RecursiveHarnessSelf_Improvement.md]] : Recursive Harness Self-Improvement
-- [[2026-07-17_01-55-17Z_SkillCorpus_ConsolidatingandEvaluatingtheOpenSkill.md]] : SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents
-- [[2026-07-21_13-23-05Z_GuardrailsasScapegoats_AuditingUnfaithfulSafetyRef.md]] : Guardrails as Scapegoats: Auditing Unfaithful Safety Refusals in Tool-Augmented LLM Agents
-- [[2026-07-20_03-56-43Z_ThinkinginVideo_CanVideoGeneratorsReallyReasonAbou.md]] : Thinking in Video: Can Video Generators Really Reason About the Real World?
-- [[2026-07-23_13-05-46Z_news_crawler_LM_ASmallLong_ContextModelForHigh_Qua.md]] : news-crawler-LM: A Small Long-Context Model For High-Quality News Crawling
-- [[2026-07-21_10-24-57Z_WhatGeneralIntelligenceRequires_Non_ReducibleConst.md]] : What General Intelligence Requires: Non-Reducible Constraints Across Levels of Description
-- [[2026-07-08_18-03-41Z_DeepSearch_World_Self_DistillationforDeepSearchAge.md]] : DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment
-- [[2026-07-21_08-35-22Z_DataLeakagePreventioninAgenticApplicationsviaPreem.md]] : Data Leakage Prevention in Agentic Applications via Preemptive Hardening
-- [[2026-07-22_15-11-11Z_ExposureisOptional_LearningUnlikeCoordinationinLan.md]] : Exposure is Optional: Learning Unlike Coordination in Language Models
-- [[2026-07-20_16-10-06Z_HowDoesAlignmentTuningShapeRepresentationsofSycoph.md]] : How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?
-- [[2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyEnvironm.md]] : OpenForgeRL: Train Harness-native Agents in Any Environment
-- [[2026-07-17_09-32-54Z_AgentFAIR_AMulti_AgentCollaborativeFrameworkforFAI.md]] : AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets
-- [[2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] : Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models
-- [[2026-07-23_15-24-35Z_PATS_Policy_AwareTrainingScaffoldingforAgenticRein.md]] : PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning
-- [[2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgentforDeep.md]] : AREX: Towards a Recursively Self-Improving Agent for Deep Research
-- [[2026-07-21_10-57-09Z_MeasuringReward_SeekingviaContrastiveBeliefUpdates.md]] : Measuring Reward-Seeking via Contrastive Belief Updates
-- [[2026-06-29_06-02-20Z_ExperienceGraphs_TheDataFoundationforSelf_Improvin.md]] : Experience Graphs: The Data Foundation for Self-Improving Agents
-- [[2026-07-20_17-12-28Z_FlashRT_AgentHarnessforGuidingAgentstoDeployReal_T.md]] : FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications
-- [[2026-07-23_09-08-04Z_VibeVoice_ASR_BitNetTechnicalReport.md]] : VibeVoice-ASR-BitNet Technical Report
-- [[2026-07-22_22-30-12Z_ArbiGraph_ArbitrarilyScalableVerifiableTaskGraphsf.md]] : ArbiGraph: Arbitrarily Scalable Verifiable Task Graphs for Evaluating Context Management
-- [[2026-07-22_15-48-04Z_Don_tTrusttheLabel_LicenseLaunderinginAISupplyChai.md]] : Don't Trust the Label: License Laundering in AI Supply Chains
-- [[2026-07-15_07-04-32Z_ExTernD_Expanded_RankTernaryDecompositionTernaryLL.md]] : ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level
-- [[2026-07-23_17-33-43Z_TheBoundariesofAutomation_ATheoryofPersistentHuman.md]] : The Boundaries of Automation: A Theory of Persistent Human Participation
-- [[2026-06-24_18-38-26Z_TheRedQueenGödelMachine_Co_EvolvingAgentsandTheirE.md]] : The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators
-- [[2026-07-04_06-27-19Z_SelfMem_Self_OptimizingMemoryforAIAgents.md]] : SelfMem: Self-Optimizing Memory for AI Agents
-- [[2026-07-06_16-40-23Z_MetaSkill_Evolve_RecursiveSelf_ImprovementofLLMAge.md]] : MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution
-- [[2026-07-01_21-20-57Z_ProceduralMemoryDistillation_OnlineReflectionforSe.md]] : Procedural Memory Distillation: Online Reflection for Self-Improving Language Models
-- [[2026-07-21_02-15-39Z_Mark_Don_tErase_TokenInoculationforDual_UseKnowled.md]] : Mark, Don't Erase: Token Inoculation for Dual-Use Knowledge in LLMs
-- [[2026-07-13_15-22-56Z_FromWorldActionModelstoEmbodiedBrains_ARoadmapforO.md]] : From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence
-- [[2026-07-13_09-07-30Z_Mako_ASelf_EvolvingAgenticOperatingSystem_SE_AOS_f.md]] : Mako: A Self-Evolving Agentic Operating System (SE-AOS) for Autonomous Web Exploitation
-- [[2026-07-19_01-13-09Z_RegularizeorLocalize_WhenTraining_TimeKV_CacheGeom.md]] : Regularize or Localize: When Training-Time KV-Cache Geometry Pays Under Quantization
-- [[2026-07-22_09-04-55Z_EfficientChain_of_ModalityReasoningviaProgressiveC.md]] : Efficient Chain-of-Modality Reasoning via Progressive Compression for Spoken Language Models
-- [[2026-07-22_09-25-47Z_SenWorld_ADigital_TwinSimulationforGeneratingConte.md]] : SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data
-- [[2026-07-21_11-10-38Z_Mi_Memory_ALifecycleMemoryFrameworkforPersonalAI.md]] : Mi-Memory: A Lifecycle Memory Framework for Personal AI
-- [[2026-07-21_01-44-59Z_CPInj_UncoveringPromptInjectionRisksinTextualColla.md]] : CPInj: Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization
-- [[2026-07-22_13-49-38Z_GottaCatchthemall_themodesofSycophancy.md]] : Gotta Catch them all: the modes of Sycophancy
-- [[2026-07-20_14-38-00Z_MADA_RL_Multi_AgentDebate_AwareReinforcementLearni.md]] : MADA-RL: Multi-Agent Debate-Aware Reinforcement Learning for Parameter-Efficient Reasoning in Compact Models
-- [[2026-07-23_17-40-07Z_BeyondSycophancy_StructuredResistanceandCompliance.md]] : Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning
-- [[2026-07-20_17-01-50Z_OperationalHallucinationandSafetyDriftinAIAgents.md]] : Operational Hallucination and Safety Drift in AI Agents
-- [[2026-07-16_00-35-25Z_Tactile_GivingComputer_UsingAgentsHandsandFeet.md]] : Tactile: Giving Computer-Using Agents Hands and Feet
-- [[2026-07-17_02-12-09Z_ABetterStartforLanguageModels_Domain_ConditionalPo.md]] : A Better Start for Language Models: Domain-Conditional Position Offsets
-- [[2026-07-15_13-27-20Z_ReasFlow_AssistingReasoning_CentricScientificDisco.md]] : ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System
-- [[2026-07-20_22-28-16Z_EngineeringTrustworthyAgenticAIforCriticalSystems.md]] : Engineering Trustworthy Agentic AI for Critical Systems
-- [[2026-07-20_14-58-53Z_RethinkingHeterogeneousLLMMerging_AWeightedModelAv.md]] : Rethinking Heterogeneous LLM Merging: A Weighted Model Averaging Perspective
-- [[2026-07-22_18-15-12Z_FrontierFinancialJudgement_Canagentstellwhatmightm.md]] : Frontier Financial Judgement: Can agents tell what might move a stock?
-- [[2026-07-17_07-51-09Z_BehavioralControllabilityofAgenticModelsforInforma.md]] : Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents
-- [[2026-07-13_21-13-46Z_Self_ImprovingAICodingAgentsThroughAccumulatedBeha.md]] : Self-Improving AI Coding Agents Through Accumulated Behavioral Rules: A Closed-Loop Framework
-- [[2026-07-23_13-30-01Z_AIAssistantsOverassist.md]] : AI Assistants Overassist
-- [[2026-07-22_16-04-31Z_WhenDoesRecurrenceBecomeanAlgorithm_ConvergenceSel.md]] : When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers
-- [[2026-07-22_16-14-38Z_UnderstandingGenerativeAI_mediatedUserEngagementwi.md]] : Understanding Generative AI-mediated User Engagement with Academic Library Resources
-- [[2026-07-16_17-18-59Z_NeuronSoup_EvolvingAsynchronous_Shared_NeuronTempo.md]] : NeuronSoup: Evolving Asynchronous, Shared-Neuron Temporal Graphs without Backpropagation
-- [[2026-07-19_09-18-35Z_HowJailbreakAttacksInformSafetyAlignment_ADefender.md]] : How Jailbreak Attacks Inform Safety Alignment: A Defender-Centric, Shapley-Based Evaluation of Jailbreak Contributions
-- [[2026-07-21_12-28-58Z_FilmWorld_AgenticNovel_to_FilmGenerationthroughDyn.md]] : FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling
-- [[2026-07-21_21-38-39Z_Knowledge_CentricSelf_Improvement.md]] : Knowledge-Centric Self-Improvement
-- [[2026-07-16_06-10-08Z_Investigatingfirst_languagebiasinLLM_basedautomate.md]] : Investigating first-language bias in LLM-based automated essay scoring: A cross-prompt evaluation of an open-weight AI-model on TOEFL essays
-- [[2026-07-05_12-40-52Z_Self_ReferenceinLargeLanguageModels_TheIntrospecti.md]] : Self-Reference in Large Language Models: The Introspection Threshold for Recursive Self-Improvement
-- [[2026-07-22_12-11-51Z_PRO_LONG_ProgrammaticMemoryEnablesLong_HorizonReas.md]] : PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning
-- [[2026-07-16_20-07-47Z_CoercionandDeceptioninAI_to_AIManagement_AnAgentic.md]] : Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation
-- [[2026-07-23_11-31-38Z_ICAE_Bench_EvaluatingCodingAgentsasInteractiveProj.md]] : ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders
-- [[2026-06-25_10-42-28Z_AgentX_TowardsAgent_DrivenSelf_IterationofIndustri.md]] : AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems
-- [[2026-07-16_10-49-15Z_LaCache_ExactCachingandPrecision_AdaptiveInference.md]] : LaCache: Exact Caching and Precision-Adaptive Inference for Diffusion Large Language Models
-- [[2026-07-20_20-01-44Z_GoverningWellintheAlgorithmicAge_TheFoundationsofD.md]] : Governing Well in the Algorithmic Age: The Foundations of Digital Statecraft
-- [[2026-07-23_05-17-00Z_SciExplore_EvaluatingAutonomousAgentsfromScientifi.md]] : SciExplore: Evaluating Autonomous Agents from Scientific Navigation to Information Integration
-- [[2026-07-19_22-27-00Z_AbliterationIsNotaScalpel_Off_TargetEffectsofRefus.md]] : Abliteration Is Not a Scalpel: Off-Target Effects of Refusal Removal on Decision Disposition Across Model Families
-- [[2026-07-20_09-17-58Z_MambaLSTM_ASpatio_TemporalFrameworkforEnhancedTraf.md]] : MambaLSTM: A Spatio-Temporal Framework for Enhanced Traffic Accident Risk Prediction
-- [[2026-07-22_13-24-09Z_OpenSkillRisk_BenchmarkingAgentSafetyWhenUsingReal.md]] : OpenSkillRisk: Benchmarking Agent Safety When Using Real-World Risky Third-Party Skills
-- [[2026-07-22_09-32-45Z_HijackKV_NewThreatinPosition_IndependentKVCacheReu.md]] : HijackKV: New Threat in Position-Independent KV Cache Reuse
-- [[2026-07-18_15-23-45Z_AgentBrew_LifelongKnowledgeBrewingfromStrongTeache.md]] : AgentBrew: Lifelong Knowledge Brewing from Strong Teachers to Weak LLM Agents
-- [[2026-07-16_20-58-16Z_LoopedLatentAttention_Cross_LoopKVCompressionforLo.md]] : Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers
-- [[2026-07-21_13-36-23Z_REGEN_Replay_recyclingforExpert_to_Generalistdisti.md]] : REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning
-- [[2026-07-22_08-35-00Z_HarnessingDisagreement_DetectingCorrelatedAgreemen.md]] : Harnessing Disagreement: Detecting Correlated Agreement Blindness in Multi-Agent Triage
-- [[2026-07-21_11-03-56Z_Skillware_ASoftwareOntologyandEngineeringLifecycle.md]] : Skillware: A Software Ontology and Engineering Lifecycle for Persistent Behavioral Artifacts
-- [[2026-07-14_09-12-57Z_Self_ImprovementsinModernAgenticSystems_ASurvey.md]] : Self-Improvements in Modern Agentic Systems: A Survey
-- [[2026-07-23_01-28-18Z_AuditingProvenanceSensitivityinLLMAgentActionSelec.md]] : Auditing Provenance Sensitivity in LLM Agent Action Selection
-- [[2026-07-22_19-08-19Z_FromAgentFailurestoTextPolicies_WhatWorksandWhatBr.md]] : From Agent Failures to Text Policies: What Works and What Breaks
-- [[2026-07-23_16-51-31Z_AgenticContextManagement_SolvingAgentMemoryandCost.md]] : Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems
-- [[2026-07-23_17-02-11Z_SameDangerousObjective_OppositeAdvice_DirectExposu.md]] : Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation
-- [[2026-07-23_16-41-56Z_TowardContinuousAssurancefortheDemocratizationofAI.md]] : Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry
-- [[2026-07-21_17-55-10Z_AgentsintheWild_WhereResearchMeetsDeployment.md]] : Agents in the Wild: Where Research Meets Deployment
-- [[2026-07-21_17-53-44Z_Fundamentallimitsofdistributedmulticlassclassifica.md]] : Fundamental limits of distributed multiclass classification from simple binary decisions
-- [[2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsinReinfor.md]] : The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation
-- [[2026-07-20_17-57-20Z_VectorSearchAsNearestNeighborMatching_RAG_basedPol.md]] : Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference
-- [[2026-07-20_17-47-44Z_SWE_PrunerPro_TheCoderLLMAlreadyKnowsWhattoPrune.md]] : SWE-Pruner Pro: The Coder LLM Already Knows What to Prune
-- [[2026-07-20_17-58-31Z_It_sNotWhatYouSay_It_sHowYouSayIt_EvaluatingLLMRes.md]] : It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief
-- [[2026-07-17_17-55-19Z_EvaluatingOpen_WeightLLMsforGeneratingStructuredTh.md]] : Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities
-- [[2026-07-16_17-58-36Z_SciDiagramEdit_LearningtoEditScientificDiagramsfro.md]] : SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions
-- [[2026-07-16_16-59-54Z_Self_EvolvingHuman_CenteredFrameworkforExplainable.md]] : Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation
-- [[2026-07-15_17-05-06Z_EarlyAdoptionofAgenticCodingToolsbyGitHubProjects.md]] : Early Adoption of Agentic Coding Tools by GitHub Projects
-- [[2026-07-15_16-36-54Z_RethinkingPenetrationTestingforAI_EnabledSystems_F.md]] : Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation
-- [[2026-07-15_17-14-03Z_AI_acceleratedEnd_to_EndFrameworkforRapidProfessio.md]] : AI-accelerated End-to-End Framework for Rapid Professional Upskilling
-- [[2026-07-14_17-53-22Z_Audio_NativeSpeechRecognitionwithaFrozenDiscrete_D.md]] : Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model
-- [[2026-07-14_17-49-52Z_WatermarkForensicsforGenerativeModels_AnInformatio.md]] : Watermark Forensics for Generative Models: An Information-Theoretic Perspective
-- [[2026-07-14_17-58-57Z_PalmClaw_ANativeOn_DeviceAgentFrameworkforMobilePh.md]] : PalmClaw: A Native On-Device Agent Framework for Mobile Phones
-- [[2026-07-14_17-59-31Z_DoAIAgentsKnowWhenaTaskIsSimple_TowardComplexity_A.md]] : Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution
-- [[2026-07-14_17-59-22Z_TheSerialityGapinVideoDiffusionModels.md]] : The Seriality Gap in Video Diffusion Models
-- [[2026-07-14_15-30-37Z_EvaluatingLargeLanguageModelsonMisconceptionsinMul.md]] : Evaluating Large Language Models on Misconceptions in Multi-Turn Medical Conversations
-- [[2026-07-14_15-43-41Z_Real_timefalldetectionbasedonvisionforlow_poweredg.md]] : Real-time fall detection based on vision for low-power edge platforms
-- [[2026-07-14_15-51-41Z_Contrastive_CollapsedLossforFlexibleandGeometrical.md]] : Contrastive-Collapsed Loss for Flexible and Geometrically Optimal Embeddings and Faster Convergence
-- [[2026-07-14_15-31-33Z_LLMJudgesCanBeTooGenerousWhenThereIsNoReferenceAns.md]] : LLM Judges Can Be Too Generous When There Is No Reference Answer
-- [[2026-07-14_15-33-44Z_MemOps_BenchmarkingLifecycleMemoryOperationsinLong.md]] : MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations
-- [[2026-07-14_15-32-07Z_AMulti_AgentSystemforAutonomous_Fine_Tuning_FreeCl.md]] : A Multi-Agent System for Autonomous, Fine-Tuning-Free Clinical Symptom Detection: Development and Validation Study
-- [[2026-07-14_15-38-04Z_AcceleratedMixingTimeofRandomizedHamiltonianMonteC.md]] : Accelerated Mixing Time of Randomized Hamiltonian Monte Carlo
-- [[2026-07-14_15-20-16Z_Deep4ge_DNNTrainingTrajectoriesforFaultDetectionan.md]] : Deep4ge: DNN Training Trajectories for Fault Detection and Diagnosis
-- [[2026-07-14_15-33-33Z_UR_VC_UnsupervisedRoboticValueCorrectionforTime_De.md]] : UR-VC: Unsupervised Robotic Value Correction for Time-Derived Progress Proxies
-- [[2026-07-14_15-32-54Z_Energy_BasedPhysics_InformedFormFindingforClustere.md]] : Energy-Based Physics-Informed Form Finding for Clustered Tensegrity Structures
-- [[2026-07-13_17-49-10Z_Evidence_BackedVideoQuestionAnswering.md]] : Evidence-Backed Video Question Answering
-- [[2026-07-13_17-56-11Z_InvariantLearningDynamicsofTransformersinInductive.md]] : Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks
-- [[2026-07-09_17-41-49Z_ARDY_AutoregressiveDiffusionwithHybridRepresentati.md]] : ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
-- [[2026-07-09_17-58-29Z_OpenCoF_LearningtoReasonThroughVideoGeneration.md]] : OpenCoF: Learning to Reason Through Video Generation
-- [[2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiveAgents.md]] : UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
-- [[2026-07-06_17-56-11Z_WhatDoesaDiscreteDiffusionModelLearn.md]] : What Does a Discrete Diffusion Model Learn?
-- [[2026-07-06_17-59-58Z_InterpretableHuman_Label_FreeDeepLearningforReal_B.md]] : Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification
-- [[2026-07-03_18-49-20Z_HowtoAvoidDebate_ScalableAISafetyviaDoubly_Efficie.md]] : How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs
-- [[2026-07-02_17-59-43Z_OnlineSafetyMonitoringforLLMs.md]] : Online Safety Monitoring for LLMs
-- [[2026-07-02_17-59-23Z_WhatLLMAgentsSayWhenNoOneIsWatching_SocialStructur.md]] : What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates
-- [[2026-07-02_17-59-56Z_DistributedAttacksinPersistent_StateAIControl.md]] : Distributed Attacks in Persistent-State AI Control
-- [[2026-07-02_17-55-39Z_ControllableSimAgentswithBehaviorLatents.md]] : Controllable Sim Agents with Behavior Latents
-- [[2026-07-01_17-50-48Z_ArePerformance_OptimizationBenchmarksReliablyMeasu.md]] : Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?
-- [[2026-07-01_17-57-03Z_AutoMem_AutomatedLearningofMemoryasaCognitiveSkill.md]] : AutoMem: Automated Learning of Memory as a Cognitive Skill
-- [[2026-07-01_17-59-54Z_IsOneLayerEnough_TrainingASingleTransformerLayerCa.md]] : Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training
-- [[2026-07-01_17-59-56Z_MeasuringtheGapBetweenHumanandLLMResearchIdeas.md]] : Measuring the Gap Between Human and LLM Research Ideas
-- [[2026-07-01_15-40-25Z_CanAgentsGeneralizetotheOpenWorld_UnveilingtheFrag.md]] : Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use
-- [[2026-07-01_15-35-04Z_MessagePassingEnablesEfficientReasoning.md]] : Message Passing Enables Efficient Reasoning
-- [[2026-07-01_15-30-33Z_MemSyco_Bench_BenchmarkingSycophancyinAgentMemory.md]] : MemSyco-Bench: Benchmarking Sycophancy in Agent Memory
-- [[2026-07-01_15-44-15Z_CheapCode_CostlyJudgment_ACaseStudyonGovernableAge.md]] : Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering
-- [[2026-06-30_17-54-50Z_WhenLLMsReadTablesCarelessly_MeasuringandReducingD.md]] : When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors
-- [[2026-06-30_13-25-29Z_MoralSafetyinLLMs_ExposingPerformativeCompliancewi.md]] : Moral Safety in LLMs: Exposing Performative Compliance with Puzzled Cues
-- [[2026-06-30_13-21-43Z_ALifecycleandApplication_StackSurveyofLargeLanguag.md]] : A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems
-- [[2026-06-30_13-30-24Z_FARS_AFullyAutomatedResearchSystemDeployedatScale.md]] : FARS: A Fully Automated Research System Deployed at Scale
-- [[2026-06-29_17-58-43Z_Self_EvolvingWorldModelsforLLMAgentPlanning.md]] : Self-Evolving World Models for LLM Agent Planning
-- [[2026-06-29_17-50-54Z_ScalingtheHorizon_NottheParameters_ReachingTrillio.md]] : Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent
-- [[2026-06-29_17-59-55Z_VLK_LearningHumanoidLoco_ManipulationfromSynthetic.md]] : VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes
-- [[raw/papers/2026-06-29_13-54-04Z_DialogPII_Amultilingualdatasetofsyntheticdialogtra.md]] : DialogPII: A multilingual dataset of synthetic dialog transcripts to detect personal information
-- [[raw/papers/2026-06-29_13-53-29Z_HighlyDataParallelizableEstimationoftheSliced_Wass.md]] : Highly Data Parallelizable Estimation of the Sliced-Wasserstein Distance Using Cumulative Distribution Functions
-- [[raw/papers/2026-06-29_13-56-17Z_TRACE_AConceptBottleneckModelforLongitudinal3DGlio.md]] : TRACE: A Concept Bottleneck Model for Longitudinal 3D Glioblastoma Response Assessment
-- [[raw/papers/2026-06-29_13-45-28Z_ResearchEntityExtractionandTopicDetectionfromUKRIG.md]] : Research Entity Extraction and Topic Detection from UKRI Grant Proposals
-- [[raw/papers/2026-06-29_13-59-33Z_TowardanEnergy_OptimizedOperationofDataCentersLoca.md]] : Toward an Energy-Optimized Operation of Data Centers Located in Wind Farms Using Reinforcement Learning
+- [[raw/papers/2026-08-01_20-42-52Z_KilobyteModels_NeuralNetworksasaSeedandaQuantizedL.md]] : Kilobyte Models: Neural Networks as a Seed and a Quantized Latent
+- [[raw/papers/2026-08-02_05-49-25Z_WhyLLMsGiveIn_ConversationalFactorsandReasoningBeh.md]] : Why LLMs Give In: Conversational Factors and Reasoning Behind Medical Sycophancy
+- [[raw/papers/2026-08-01_14-14-12Z_WhenDoesLLMOrchestrationPayOff_AControlledEvaluati.md]] : When Does LLM Orchestration Pay Off? A Controlled Evaluation of Accuracy, Cost, and Task Difficulty
+- [[raw/papers/2026-08-01_10-42-41Z_AFalseAverage_Chain_of_ThoughtMonitorsCollapseWher.md]] : A False Average: Chain-of-Thought Monitors Collapse Where They Are the Only Defense
+- [[raw/papers/2026-07-31_13-57-21Z_KnowIt_ActonIt_InvestigatingMemoryUtilizationinLLM.md]] : Know It, Act on It: Investigating Memory Utilization in LLM Personalization
+- [[raw/papers/2026-07-31_16-09-23Z_SycophancyUnderminesEpistemicVigilanceinCooperativ.md]] : Sycophancy Undermines Epistemic Vigilance in Cooperative Vision-Language Tasks
+- [[raw/papers/2026-07-31_00-05-36Z_Token_LevelDiagnosisofSycophancyinLLMswithAttribut.md]] : Token-Level Diagnosis of Sycophancy in LLMs with Attribution-Guided Steering
+- [[raw/papers/2026-07-31_03-07-31Z_Mixture_of_Translators_TranslatingKVCachesAcrossHe.md]] : Mixture-of-Translators: Translating KV Caches Across Heterogeneous Large Language Models
+- [[raw/papers/2026-07-31_15-03-09Z_Transcript_ManagedTransformers_MonotoneMulti_Agent.md]] : Transcript-Managed Transformers: Monotone Multi-Agent Collapse and Universality with Two Pop-Enabled Transcripts
+- [[raw/papers/2026-07-31_12-14-04Z_DualDiT_AConditionalDual_OutputDiffusionTransforme.md]] : DualDiT: A Conditional Dual-Output Diffusion Transformer for Joint OCT Image and Segmentation Mask Generation
+- [[raw/papers/2026-07-31_00-32-46Z_GatedQ_learning_AddOff_PolicyBiastoTaste.md]] : Gated Q-learning: Add Off-Policy Bias to Taste
+- [[raw/papers/2026-07-31_02-05-45Z_OvercomingtheWeakest_LinkEffectinLLM_DrivenProgram.md]] : Overcoming the Weakest-Link Effect in LLM-Driven Program Optimization via Heterogeneous Edit Recombination
+- [[raw/papers/2026-07-31_13-15-11Z_Studyingquantizationtrade_offsforefficientinferenc.md]] : Studying quantization trade-offs for efficient inference deployment in machine translation
+- [[raw/papers/2026-07-31_06-32-02Z_BenchmarkingFrontierLargeLanguageModelsAgainstOffi.md]] : Benchmarking Frontier Large Language Models Against Official Crash Database Coding Using Police Crash Narratives
+- [[raw/papers/2026-07-30_19-55-14Z_ModelorHarness_AnInteraction_CentricTaxonomyforLoc.md]] : Model or Harness? An Interaction-Centric Taxonomy for Localizing Agent Failures
+- [[raw/papers/2026-07-31_10-14-28Z_SmallIsEnough_Per_UserStyleRewritingofAI_EditedTex.md]] : Small Is Enough: Per-User Style Rewriting of AI-Edited Text via LoRA Adapters
+- [[raw/papers/2026-07-30_19-04-34Z_Self_SupervisedSkillOptimization.md]] : Self-Supervised Skill Optimization
+- [[raw/papers/2026-07-31_02-19-25Z_Retrieval_DrivenTraining_FreeAI_GeneratedVideoAttr.md]] : Retrieval-Driven Training-Free AI-Generated Video Attribution
+- [[raw/papers/2026-07-30_20-28-02Z_DistillingKnowledgefromLargeLanguageModelsintoLigh.md]] : Distilling Knowledge from Large Language Models into Lightweight Reinforcement Learning Agents for Autonomous Cyber Operations
+- [[raw/papers/2026-07-30_22-01-36Z_TextCloak_ThwartingUnauthorizedLLMExploitationviaR.md]] : TextCloak: Thwarting Unauthorized LLM Exploitation via RL-Driven Unlearnable Text
+- [[raw/papers/2026-07-30_22-43-33Z_Open_SourceLLM_DrivenFormalVerification_AMulti_Age.md]] : Open-Source LLM-Driven Formal Verification: A Multi-Agent Pipeline for RTL Repair
+- [[raw/papers/2026-07-31_12-30-12Z_SeekBrain_AnAutonomousMulti_AgentSystemforAccelera.md]] : SeekBrain: An Autonomous Multi-Agent System for Accelerating Neuroscience Discovery
+- [[raw/papers/2026-07-30_15-49-34Z_GLM_RAG_GraphLanguageModelsforGraph_BasedRetrieval.md]] : GLM-RAG: Graph Language Models for Graph-Based Retrieval-Augmented Generation
+- [[raw/papers/2026-07-30_16-13-36Z_BeyondaSingleJudge_SimulatingSocialPersonaPanelsfo.md]] : Beyond a Single Judge: Simulating Social Persona Panels for Generative UI Evaluation
+- [[raw/papers/2026-07-30_16-30-08Z_WouldYouWalktotheCarWash_RevealingtheSalienceBiaso.md]] : Would You Walk to the Car Wash? Revealing the Salience Bias of Large Language Models in Commonsense Reasoning
+- [[raw/papers/2026-07-30_15-19-18Z_LLMsstruggletosimulatehumanbeliefupdatesincontroll.md]] : LLMs struggle to simulate human belief updates in controlled environments
+- [[raw/papers/2026-07-30_17-34-01Z_Frontis_MA1_TraininganAI4AIModeltowardsRecursiveSe.md]] : Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering
+- [[raw/papers/2026-07-30_17-38-23Z_SampleMore_ReflectLess_Self_RefineandReflexionLose.md]] : Sample More, Reflect Less: Self-Refine and Reflexion Lose to Repeated Sampling at Equal Token Cost, from 1.5B to 7B
+- [[raw/papers/2026-07-29_18-13-02Z_SkillMentor_LLMAgentSelf_EvolutionviaLearningBlind.md]] : SkillMentor: LLM Agent Self-Evolution via Learning Blind-Spot Diagnosis
+- [[raw/papers/2026-07-30_08-30-52Z_BeyondFeelingBetter_Capability_SustainingEmotional.md]] : Beyond Feeling Better: Capability-Sustaining Emotional Dialogue as a Longitudinal Research Paradigm
+- [[raw/papers/2026-07-29_23-17-08Z_AutomatedTranscriptAnalysisforDetectingFlawsinAgen.md]] : Automated Transcript Analysis for Detecting Flaws in Agentic Benchmarks
+- [[raw/papers/2026-07-30_11-28-21Z_IndustryForge_27B_ADomain_EnhancedMultimodalFounda.md]] : IndustryForge-27B: A Domain-Enhanced Multimodal Foundation Model for Industrial CAD
+- [[raw/papers/2026-07-29_19-42-33Z_SelectingOpen_WeightLanguageModelsforZero_ShotInte.md]] : Selecting Open-Weight Language Models for Zero-Shot Intent Classification: A Systematic Evaluation of 41 Models
+- [[raw/papers/2026-07-30_04-05-05Z_Harness_G_AGraph_StructuredHarnessforSearchAgents.md]] : Harness-G: A Graph-Structured Harness for Search Agents
+- [[raw/papers/2026-07-30_12-54-17Z_CanAgentsDeceive_EvaluatingReasoningandDeceptionin.md]] : Can Agents Deceive? Evaluating Reasoning and Deception in ParliamentBench using a Social Deduction Game
+- [[raw/papers/2026-07-30_14-59-29Z_PayingforHonestyWithoutKnowingtheTruth_Reputation_.md]] : Paying for Honesty Without Knowing the Truth: Reputation-Penalty Design for LLM Marketplace Agents
+- [[raw/papers/2026-07-29_17-57-19Z_CanAIagentsconductopen_endedAIresearch_Earlyeviden.md]] : Can AI agents conduct open-ended AI research? Early evidence from two case studies
+- [[raw/papers/2026-07-29_17-51-32Z_TheSocialCostofanAITeammate_HowanArtificialTeammat.md]] : The Social Cost of an AI Teammate: How an Artificial Teammate Reshapes Human-Human Communication in Small-Team Decision-Making
+- [[raw/papers/2026-07-29_17-56-49Z_APEX_Accounting.md]] : APEX-Accounting
+- [[raw/papers/2026-07-29_01-23-04Z_Im_PairedProgramming_CodingAgentsImproveProductivi.md]] : (Im)Paired Programming: Coding Agents Improve Productivity but Harm Understanding
+- [[raw/papers/2026-07-29_07-12-44Z_Prosody_drivenJailbreaksinAudioLLMs_AControlledStu.md]] : Prosody-driven Jailbreaks in Audio LLMs: A Controlled Study and Mechanistic Analysis
+- [[raw/papers/2026-07-28_19-26-50Z_Multi_AgentDebateStrategies_Survey_Taxonomy_andCha.md]] : Multi-Agent Debate Strategies: Survey, Taxonomy, and Challenges
+- [[raw/papers/2026-07-29_12-14-17Z_AFirstLookatCodingAgents_CompliancewithAIContribut.md]] : A First Look at Coding Agents' Compliance with AI Contribution Rules in Open-Source Communities
+- [[raw/papers/2026-07-28_21-47-22Z_AgentGUI_AnInterfaceforObservingandSteeringLong_Ru.md]] : AgentGUI: An Interface for Observing and Steering Long-Running AI Agents
+- [[raw/papers/2026-07-28_16-58-27Z_TryAgain_Don_tLookBack_BlindResamplingOutperformsS.md]] : Try Again, Don't Look Back: Blind Resampling Outperforms Self-Repair in Small Code Models
+- [[raw/papers/2026-07-29_08-59-43Z_Filesystem_BasedMemoryforLLMAgents_Organization_Ev.md]] : Filesystem-Based Memory for LLM Agents: Organization, Evolution, and Sustainability
+- [[raw/papers/2026-07-29_06-42-23Z_TheArtofNotForgettingALocalLearningArchitecturefor.md]] : The Art of Not Forgetting A Local Learning Architecture for Continual Learning
+- [[raw/papers/2026-07-29_10-58-44Z_Metis_MemoryFoundationModel.md]] : Metis: Memory Foundation Model
+- [[raw/papers/2026-07-29_08-09-32Z_Eco3S_ComplexSocio_EconomicSystemSimulationviaAgen.md]] : Eco3S: Complex Socio-Economic System Simulation via Agent-Based Models
+- [[raw/papers/2026-07-28_17-48-54Z_EvenMoreDeception_ObjectiveMisalignmentinMixed_Mot.md]] : Even More Deception: Objective Misalignment in Mixed-Motive LLM Multi-Agent Systems
+- [[raw/papers/2026-07-29_09-25-55Z_ScientificKnowledgeDiscoveryintheAgeofLargeLanguag.md]] : Scientific Knowledge Discovery in the Age of Large Language Models
+- [[raw/papers/2026-07-29_09-05-40Z_RethinkingSelf_Evolution_AConstrainedExploration_E.md]] : Rethinking Self-Evolution: A Constrained Exploration-Exploitation Process for Mitigating Skill Overfitting
+- [[raw/papers/2026-07-29_10-12-49Z_DREvo_DistillingRecalibratedHistoricalExperiencefo.md]] : DREvo: Distilling Recalibrated Historical Experience for Harness Self-Evolution
+- [[raw/papers/2026-07-29_08-20-11Z_Living_HarnessIsanInteractive_AgentEvolver.md]] : Living-Harness Is an Interactive-Agent Evolver
+- [[raw/papers/2026-07-27_09-39-09Z_AgentRetrievalBench_EvaluatingRepositoryContextRet.md]] : Agent Retrieval Bench: Evaluating Repository Context Retrieval for Coding Agents
+- [[raw/papers/2026-07-27_18-56-13Z_CogArena_AMultimethodEvaluationofCognitiveAbilityS.md]] : CogArena: A Multimethod Evaluation of Cognitive Ability Structure in Large Language Models
+- [[raw/papers/2026-07-28_00-40-49Z_ObservingsycophanticAIvalidateothersreducesitsappe.md]] : Observing sycophantic AI validate others reduces its appeal but not its persuasiveness
+- [[raw/papers/2026-07-27_20-35-43Z_PsychologicalInfluencesofConversationalAI_Research.md]] : Psychological Influences of Conversational AI: Research and Design Directions for Reducing Harm and Promoting Well-Being
+- [[raw/papers/2026-07-27_15-18-06Z_EarlyDetectionofDistributedBackdoorsinMulti_AgentL.md]] : Early Detection of Distributed Backdoors in Multi-Agent LLM Systems: A Characterization Study
+- [[raw/papers/2026-07-27_23-52-15Z_WhenDoAgentLoopsMistakeStagnationforProgress_Self_.md]] : When Do Agent Loops Mistake Stagnation for Progress? Self-Evaluation Bias and Externally Grounded Verification in Long-Running Autonomous LLM Agent Loops
+- [[raw/papers/2026-07-28_05-17-34Z_HybridAnalysisforSecureMCPToolUseinLLMAgents.md]] : Hybrid Analysis for Secure MCP Tool Use in LLM Agents
+- [[raw/papers/2026-07-28_10-40-59Z_AgentSkillsMatter_InferringProprietarySkillsfromEx.md]] : Agent Skills Matter: Inferring Proprietary Skills from Execution Trajectories
+- [[raw/papers/2026-07-28_12-17-53Z_F_AI_2R_WhoDidWhat_andWhoChecked_VerifiableAIProve.md]] : F(AI)2R: Who Did What, and Who Checked? Verifiable AI Provenance as an Executable Skill
+- [[raw/papers/2026-07-28_07-34-37Z_Cyber_CapableAIAgents_Vulnerabilities_EvaluationCo.md]] : Cyber-Capable AI Agents: Vulnerabilities, Evaluation Containment, and Defensive Response
+- [[raw/papers/2026-07-27_03-51-40Z_MusiChat_VibeComposingforMusicCreation.md]] : MusiChat: Vibe Composing for Music Creation
+- [[raw/papers/2026-07-27_21-10-59Z_TowardsanAgentOperatingSystem_LessonsfromClassical.md]] : Towards an Agent Operating System - Lessons from Classical and Cloud OS
+- [[raw/papers/2026-07-26_14-37-53Z_ComputeGlobally_MaterializeLocally_TheMemoryContra.md]] : Compute Globally, Materialize Locally: The Memory Contract of Sparse Event-KV
+- [[raw/papers/2026-07-25_16-29-38Z_Co_EvolvingGraphandTextMemoryforTraining_FreeMulti.md]] : Co-Evolving Graph and Text Memory for Training-Free Multi-Hop Question Answering
+- [[raw/papers/2026-07-27_13-06-38Z_RegulatingforAILegitimacy.md]] : Regulating for AI Legitimacy
+- [[raw/papers/2026-07-27_00-55-10Z_WorldDiT_AUnifiedDiffusionArchitectureforWorldandA.md]] : WorldDiT: A Unified Diffusion Architecture for World and Action Modeling
+- [[raw/papers/2026-07-25_05-46-17Z_SymStep_SymbolicStepVerificationforLogicalReasonin.md]] : SymStep: Symbolic Step Verification for Logical Reasoning
+- [[raw/papers/2026-07-25_05-10-01Z_MixQuant_AdaptiveMixed_PrecisionQuantizationforLar.md]] : MixQuant: Adaptive Mixed-Precision Quantization for Large Language Models
+- [[raw/papers/2026-07-26_03-32-13Z_SeparatingCapabilityfromPermission_AGovernanceFram.md]] : Separating Capability from Permission: A Governance Framework for Agentic AI Autonomy Levels
+- [[raw/papers/2026-07-27_04-02-00Z_TagQuestionsandtheGenerationalReversalofSycophancy.md]] : Tag Questions and the Generational Reversal of Sycophancy Across 45 Language Models
+- [[raw/papers/2026-07-26_14-07-11Z_PlansWorkinMysteriousWays_EvaluatingaPlanModeforSp.md]] : Plans Work in Mysterious Ways: Evaluating a Plan Mode for Spreadsheet Agents
+- [[raw/papers/2026-07-24_19-26-47Z_SamePredictions_DifferentReasons_TheEffectofQuanti.md]] : Same Predictions, Different Reasons: The Effect of Quantization on Model Explanations
+- [[raw/papers/2026-07-26_10-29-20Z_AreYouStilltheAgentIAuthorized_EarnedAuthorityunde.md]] : Are You Still the Agent I Authorized? Earned Authority under a Fixed Ceiling for Evolving Agents
+- [[raw/papers/2026-07-27_10-22-46Z_EpistemicNormsforAISafetyandAlignmentResearch.md]] : Epistemic Norms for AI Safety and Alignment Research
+- [[raw/papers/2026-07-27_15-53-19Z_SIREN_TowardsEnd_to_EndExtreme_WeatherEarlyWarning.md]] : SIREN: Towards End-to-End Extreme-Weather Early Warning with Experience-Grounded LLM Agents
+- [[raw/papers/2026-07-27_11-04-17Z_AccuracyHidesHowLanguageModelsFail_MeasuringFailur.md]] : Accuracy Hides How Language Models Fail: Measuring Failure States Under Matched Output Budgets
+- [[raw/papers/2026-07-27_10-50-37Z_GenerativeArtificialIntelligence_GenAI_toconvertim.md]] : Generative Artificial Intelligence (GenAI) to convert images of queuing networks into verifiable simulation models: an open-weight LLM workflow approach
+- [[raw/papers/2026-07-27_10-20-31Z_FilmBench_AFilm_GradeBenchmarkforCinematicVideoGen.md]] : FilmBench: A Film-Grade Benchmark for Cinematic Video Generation
+- [[raw/papers/2026-07-25_00-08-09Z_ConsistencyGate_PreventingMemoryContaminationinLLM.md]] : ConsistencyGate: Preventing Memory Contamination in LLM Agents via Self-Consistency Admission Control
+- [[raw/papers/2026-07-24_21-32-48Z_NotAllLLMReasoningisVisibleintheChain_of_Thought.md]] : Not All LLM Reasoning is Visible in the Chain-of-Thought
+- [[raw/papers/2026-07-27_17-54-12Z_DataOrchestra_LearningtoOrchestratePer_ExampleCura.md]] : DataOrchestra: Learning to Orchestrate Per-Example Curation of Pretraining Data
+- [[raw/papers/2026-07-27_01-47-12Z_RealityMonitoringinLargeLanguageModels_Self_Knowle.md]] : Reality Monitoring in Large Language Models: Self-Knowledge That Transforms with Conversation Memory
+- [[raw/papers/2026-07-27_04-13-42Z_MoralHazardinMulti_AgentLanguageModels.md]] : Moral Hazard in Multi-Agent Language Models
+- [[raw/papers/2026-07-27_11-27-38Z_FromProprietarytoOpen_Source_BridgingtheDistributi.md]] : From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search
+- [[raw/papers/2026-07-26_04-06-13Z_DoSmallModelsUsetheLawYouGiveThem_Context_Injected.md]] : Do Small Models Use the Law You Give Them? Context-Injected Fine-Tuning for Legal QA in Bangladesh
+- [[raw/papers/2026-07-27_07-40-34Z_LU_500_ALogoBenchmarkforConceptUnlearning.md]] : LU-500: A Logo Benchmark for Concept Unlearning
+- [[raw/papers/2026-07-26_16-05-39Z_AIStrategy_HowtoChooseWhatAIProducttoImplement.md]] : AI Strategy: How to Choose What AI Product to Implement
+- [[raw/papers/2026-07-26_08-27-19Z_GuidingLanguageModelstoBeMoreEmpathetic_Culturally.md]] : Guiding Language Models to Be More Empathetic: Culturally Sensitive Mental Health Advice Generation Through Human-LLM Collaboration
+- [[raw/papers/2026-07-26_14-23-33Z_FocusIsAllYouNeed_AdaptiveGoal_awareAttentionOrche.md]] : Focus Is All You Need: Adaptive Goal-aware Attention Orchestration for Multi-Agent Graph Systems
+- [[raw/papers/2026-07-26_03-39-29Z_ReasoningorMemorization_CanLLMsUnderstandandGenera.md]] : Reasoning or Memorization: Can LLMs Understand and Generate Chinese Xiehouyu Riddles?
+- [[raw/papers/2026-07-26_13-28-51Z_CALMRec_CausallyAlignedLanguageMemoryforLong_Horiz.md]] : CALMRec: Causally Aligned Language Memory for Long-Horizon Recommendation
+- [[raw/papers/2026-07-26_15-38-28Z_E_Bench_BenchmarkingMulti_StepTool_UseAgentsinReal.md]] : E-Bench: Benchmarking Multi-Step Tool-Use Agents in Real-World Product Scenarios
+- [[raw/papers/2026-07-26_12-15-09Z_WhereIstheCostofThird_PartyAPIRoutersinAgenticSoft.md]] : Where Is the Cost of Third-Party API Routers in Agentic Software Development?
+- [[raw/papers/2026-07-26_06-54-28Z_DoLLMsKnowTheirVulnerableScenarios.md]] : Do LLMs Know Their Vulnerable Scenarios?
+- [[raw/papers/2026-07-23_11-02-24Z_EnhancingSLMsforSustainableCodeOptimizationinRadio.md]] : Enhancing SLMs for Sustainable Code Optimization in Radio-Astronomy
+- [[raw/papers/2026-07-22_20-39-48Z_Cross_ModelLLMCodeReview_ShouldyouuseClaudetorevie.md]] : Cross-Model LLM Code Review: Should you use Claude to review Codex or vice versa?
+- [[raw/papers/2026-07-23_19-26-25Z_EveryModelCheats_Prompt_LevelMitigationofCheatingo.md]] : Every Model Cheats: Prompt-Level Mitigation of Cheating on Offensive Cyber Tasks
+- [[raw/papers/2026-07-23_18-34-12Z_WhatAIRed_TeamEvaluationsCanandCannotProve.md]] : What AI Red-Team Evaluations Can and Cannot Prove
+- [[raw/papers/2026-07-24_11-37-19Z_WhyLargeLanguageModelsandHumansConvergeandDivergei.md]] : Why Large Language Models and Humans Converge and Diverge in Evaluating Creativity
+- [[raw/papers/2026-07-24_17-50-03Z_TheRegressionTax_DecomposingWhySkillsHelpandHurtLL.md]] : The Regression Tax: Decomposing Why Skills Help and Hurt LLM Agents
+- [[raw/papers/2026-07-23_21-48-28Z_HowDoAICodingAgentsContributetoSoftwareDevelopment.md]] : How Do AI Coding Agents Contribute to Software Development? an Empirical Study of Agentic Pull Requests
+- [[raw/papers/2026-07-23_21-53-34Z_ToolGuardian_DeclarativeSecurityforAIAgent_ToolInt.md]] : ToolGuardian: Declarative Security for AI Agent-Tool Interactions
+- [[raw/papers/2026-07-24_14-50-19Z_LearningStructuralConvergence_ANeuro_SymbolicBench.md]] : Learning Structural Convergence: A Neuro-Symbolic Benchmark for Temporal Reasoning
+- [[raw/papers/2026-07-24_04-35-29Z_TeachingLLMstoSelf_Evolve_CultivatingCoreMeta_Skil.md]] : Teaching LLMs to Self-Evolve: Cultivating Core Meta-Skills with Reinforcement Learning
+- [[raw/papers/2026-07-24_04-57-30Z_J_CoT_Chain_of_ThoughtinJ_Space.md]] : J-CoT: Chain-of-Thought in J-Space
+- [[raw/papers/2026-07-24_08-33-26Z_Nanbeige4_2_3B_UnlockingAgenticCapabilitiesinaComp.md]] : Nanbeige4.2-3B: Unlocking Agentic Capabilities in a Compact Mode
+- [[raw/papers/2026-07-13_18-00-34Z_SymbOmni_EvolvingAgenticOmniModelsviaSymbolicConce.md]] : SymbOmni: Evolving Agentic Omni Models via Symbolic Concept Learning
+- [[raw/papers/2026-07-23_16-23-42Z_Agenticcodingwithoutthecloud_evaluatingopen_weight.md]] : Agentic coding without the cloud: evaluating open-weight large language models on longitudinal data preparation tasks
+- [[raw/papers/2026-07-22_21-14-44Z_LLMsGetLostinEvolvingUserIntent.md]] : LLMs Get Lost in Evolving User Intent
+- [[raw/papers/2026-07-18_21-43-40Z_TurboVec_ACaseStudyinCost_EfficientPrivateRetrieva.md]] : TurboVec: A Case Study in Cost-Efficient Private Retrieval for Enterprise RAG via Codebook-Oblivious Quantization
+- [[raw/papers/2026-07-20_05-18-40Z_ZifaMem_StructuredMemoryforPersona_Preference_andE.md]] : ZifaMem: Structured Memory for Persona, Preference, and Emotional Continuity in AI Companions
+- [[raw/papers/2026-07-08_17-19-50Z_RecursiveSelf_ImprovementinAI_FromBoundedSelf_Refi.md]] : Recursive Self-Improvement in AI: From Bounded Self-Refinement to Autonomous Research Loops
+- [[raw/papers/2026-07-20_13-49-51Z_TowardsAgenticAgent_basedModels_Feasibility_Perfor.md]] : Towards Agentic Agent-based Models: Feasibility, Performance, and Statistical Model Checking
+- [[raw/papers/2026-07-20_19-47-16Z_StructuredOutputCollapsesAnswerDiversityAcross44La.md]] : Structured Output Collapses Answer Diversity Across 44 Language Models
+- [[raw/papers/2026-07-21_07-53-58Z_AgentTrails_TowardsTrustandReuseforAgenticTasks.md]] : AgentTrails: Towards Trust and Reuse for Agentic Tasks
+- [[raw/papers/2026-07-20_23-49-42Z_PlanningasEmergentBehaviorinReinforcementLearningw.md]] : Planning as Emergent Behavior in Reinforcement Learning with Relational Hidden States
+- [[raw/papers/2026-07-22_07-20-27Z_KnowYourAgent_Reconnaissance_DrivenPentestingofAIA.md]] : Know Your Agent: Reconnaissance-Driven Pentesting of AI Agents
+- [[raw/papers/2026-07-20_21-45-00Z_EduPanel_AThree_AgentLLMJudgeforTeachingVideos__Re.md]] : EduPanel: A Three-Agent LLM Judge for Teaching Videos -- Reliability, Complementarity, and Human Trust Calibration
+- [[raw/papers/2026-07-14_09-23-20Z_AJoLTfortheKVCache_Near_LosslessKVCacheCompression.md]] : A JoLT for the KV Cache: Near-Lossless KV Cache Compression via Joint Tucker and JL-Residual Allocation for LLMs
+- [[raw/papers/2026-07-23_08-05-21Z_HiMe_Real_TimeSelf_HostedPersonalAgentPlatformforH.md]] : HiMe: Real-Time Self-Hosted Personal Agent Platform for Health Insights with Wearable Devices
+- [[raw/papers/2026-07-20_12-38-50Z_AClassifierThatTeachesItself_Self_Improving_Frozen.md]] : A Classifier That Teaches Itself: Self-Improving, Frozen-gate Training (SIFT) for Dynamic Document Classification
+- [[raw/papers/2026-07-16_07-25-17Z_LLM_DrivenApproachtoModelingToolInteroperabilityin.md]] : LLM-Driven Approach to Modeling Tool Interoperability in Automotive Domain
+- [[raw/papers/2026-07-22_17-02-34Z_NotestoSelf_CanLLMsBenefitfromExperientialAbstract.md]] : Notes to Self: Can LLMs Benefit from Experiential Abstractions?
+- [[raw/papers/2026-07-23_09-55-45Z_RelativeValueLearning.md]] : Relative Value Learning
+- [[raw/papers/2026-07-21_16-38-32Z_They_llVerify_TheyJustWon_tAct_HowAuthorityFraming.md]] : They'll Verify. They Just Won't Act. How Authority Framing and Laundered Code Turn a Trusted Agentic CI/CD Pipeline Into an Attack Surface
+- [[raw/papers/2026-07-16_18-09-36Z_AnovaX_ALocal_Multi_AgentVoiceAssistantwithLLMPlan.md]] : AnovaX: A Local, Multi-Agent Voice Assistant with LLM Planning, Typed Executors, and Adaptive Recovery
+- [[raw/papers/2026-07-23_03-52-29Z_Anti_GoalReasoning_RethinkingtheTheoryofGoalReason.md]] : Anti-Goal Reasoning: Rethinking the Theory of Goal Reasoning in Non-Axiomatic Logic
+- [[raw/papers/2026-07-10_17-12-38Z_ExploringAgenticWorkflowsforGeneratingHighQualityM.md]] : Exploring Agentic Workflows for Generating High Quality Math Visual Aids
+- [[raw/papers/2026-07-17_00-03-47Z_Cache_AwarePromptCompression_ATwo_TierCostModelfor.md]] : Cache-Aware Prompt Compression:A Two-Tier Cost Model for LLM API Caching
+- [[raw/papers/2026-07-22_18-25-16Z_ScalingInterpretableTransformerswithParityBottlene.md]] : Scaling Interpretable Transformers with Parity Bottleneck Layers
+- [[raw/papers/2026-07-17_10-21-27Z_QUADS_StabilizingNVFP4ReinforcementLearningforMoEv.md]] : QUADS: Stabilizing NVFP4 Reinforcement Learning for MoE via QUantization-error Alignment across Dual Sides
+- [[raw/papers/2026-07-21_13-37-17Z_SupraCognitiveModes_ARoutedArchitectureforAgentMem.md]] : Supra Cognitive Modes: A Routed Architecture for Agent Memory
+- [[raw/papers/2026-07-20_22-36-26Z_ChainWatch_AKillChain_AlignedSequentialDetectionFr.md]] : ChainWatch: A Kill Chain-Aligned Sequential Detection Framework for Multi-Step Attacks in MCP-Based AI Agent Systems
+- [[raw/papers/2026-07-15_14-05-33Z_QuantizewithConfidence_AnEmpiricalStudyofQuantizat.md]] : Quantize with Confidence? An Empirical Study of Quantization for Code Generation
+- [[raw/papers/2026-07-16_07-28-31Z_SmartRAG_NativeGraph_BasedRAGforMobileDevice.md]] : SmartRAG: Native Graph-Based RAG for Mobile Device
+- [[raw/papers/2026-07-23_03-28-08Z_IsDeepResearchReliable_MisleadingKnowledgeInducesF.md]] : Is Deep Research Reliable? Misleading Knowledge Induces False Conclusions
+- [[raw/papers/2026-07-20_05-09-36Z_ReinforcementLearning_FromAlgorithmsToFoundationMo.md]] : Reinforcement Learning: From Algorithms To Foundation Models
+- [[raw/papers/2026-07-21_22-43-16Z_TheMechanismMatters_WhenKnowledgeGraphsHelpReinfor.md]] : The Mechanism Matters: When Knowledge Graphs Help Reinforcement Learning
+- [[raw/papers/2026-07-22_15-13-15Z_TheEthicsofAutonomousAIAgentsforOffensiveSecurity.md]] : The Ethics of Autonomous AI Agents for Offensive Security
+- [[raw/papers/2026-07-21_17-07-13Z_Graph_BasedAgenticAIwithLangGraph_WorkflowPathways.md]] : Graph-Based Agentic AI with LangGraph: Workflow Pathways for Long-Running Stateful Business Processes
+- [[raw/papers/2026-07-14_14-02-22Z_AVQ_Attention_AdaptiveVector_QuantizedAttention.md]] : AVQ-Attention: Adaptive Vector-Quantized Attention
+- [[raw/papers/2026-07-22_20-25-55Z_NVIDIA_labsOOAgents_NativePythonObject_OrientedAge.md]] : NVIDIA-labs OO Agents: Native Python Object-Oriented Agents
+- [[raw/papers/2026-07-16_06-31-39Z_PolyQ_CodesigningEnd_to_EndQuantizationFrameworkfo.md]] : PolyQ: Codesigning End-to-End Quantization Framework for Scalable Edge CPU LLM Inference
+- [[raw/papers/2026-07-20_07-26-17Z_CanTransformersReallyDoItAll_OntheCompatibilityofI.md]] : Can Transformers Really Do It All? On the Compatibility of Inductive Biases Across Tasks
+- [[raw/papers/2026-07-23_08-56-11Z_QuantiBias_BenchmarkingQuantization_InducedBiasinL.md]] : QuantiBias: Benchmarking Quantization-Induced Bias in LLMs
+- [[raw/papers/2026-07-20_10-15-02Z_BrainNext_AGeneral_PurposeSelf_SupervisedFoundatio.md]] : BrainNext: A General-Purpose Self-Supervised Foundation Model for Brain MRI Analysis
+- [[raw/papers/2026-07-15_18-33-02Z_AIAgentsDoNotFailAlone_TheContextFailsFirst.md]] : AI Agents Do Not Fail Alone:The Context Fails First
+- [[raw/papers/2026-07-22_14-36-10Z_Small_Free_andEffective_OrchestratingOpen_WeightSm.md]] : Small, Free, and Effective: Orchestrating Open-Weight Small Language Models to Outperform Single LLM for Malware Analysis
+- [[raw/papers/2026-07-21_05-19-49Z_Strategy_FollowingMulti_AgentDeepReinforcementLear.md]] : Strategy-Following Multi-Agent Deep Reinforcement Learning Considering Control Strategies Provided to Other Agents
+- [[raw/papers/2026-07-22_12-45-04Z_ReinforcementLearningforLargeLanguageModelSelectiv.md]] : Reinforcement Learning for Large Language Model Selective Evidence Adoption from Contaminated Retrieval Results
+- [[raw/papers/2026-07-07_06-05-42Z_D2PO_OptimizingDiffusionSamplersviaDynamicPreferen.md]] : D2PO: Optimizing Diffusion Samplers via Dynamic Preference
+- [[raw/papers/2026-07-14_11-04-01Z_KnowAct_GUIClaw_KnowDeeply_ActPerfectly_PersonalGU.md]] : KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill
+- [[raw/papers/2026-07-23_00-24-22Z_ProfilingLightweightLargeLanguageModels.md]] : Profiling Lightweight Large Language Models
+- [[raw/papers/2026-07-20_09-06-15Z_PlanningwithTransformers_ChainofComputationandStru.md]] : Planning with Transformers: Chain of Computation and Structured Context Windows
+- [[raw/papers/2026-07-13_08-51-08Z_EnhancingLLMsthroughhumanfeedback_ajourneytowardss.md]] : Enhancing LLMs through human feedback: a journey towards self-improvement
+- [[raw/papers/2026-07-20_17-15-41Z_AlayaWorld_InteractiveLong_HorizonWorldModeling__F.md]] : AlayaWorld: Interactive Long-Horizon World Modeling -- Full Technical Report
+- [[raw/papers/2026-07-21_12-50-07Z_NowYouSeetheHate_AdaptiveViewRetrievalforHiddenHat.md]] : Now You See the Hate: Adaptive View Retrieval for Hidden Hateful Illusions
+- [[raw/papers/2026-07-15_02-43-34Z_Self_ImprovingisOftenSudden_Enlightenment_styleFin.md]] : Self-Improving is Often Sudden: Enlightenment-style Finetuning for Large-Scale Models
+- [[raw/papers/2026-07-18_09-02-19Z_DS_GTARCateRisk2026_HybridMulti_AgentLLMSystemwith.md]] : DS@GT ARC at eRisk 2026: Hybrid Multi-Agent LLM System with Structured Algorithmic Guidance for Conversational Depression Screening
+- [[raw/papers/2026-07-20_18-02-25Z_ConvolutionforLargeLanguageModels.md]] : Convolution for Large Language Models
+- [[raw/papers/2026-07-18_15-09-58Z_BeyondMemoryLeaderboards_EvaluatingScientificMemor.md]] : Beyond Memory Leaderboards: Evaluating Scientific Memory as Budgeted Context Restoration
+- [[raw/papers/2026-07-22_22-20-02Z_IssueTrojanBench_BenchmarkingAICodingAgentsAgainst.md]] : IssueTrojanBench: Benchmarking AI Coding Agents Against Malicious Issue Requests
+- [[raw/papers/2026-07-17_00-21-19Z_RecursiveHarnessSelf_Improvement.md]] : Recursive Harness Self-Improvement
+- [[raw/papers/2026-07-17_01-55-17Z_SkillCorpus_ConsolidatingandEvaluatingtheOpenSkill.md]] : SkillCorpus: Consolidating and Evaluating the Open Skill Ecosystem for Real-World LLM Agents
+- [[raw/papers/2026-07-21_13-23-05Z_GuardrailsasScapegoats_AuditingUnfaithfulSafetyRef.md]] : Guardrails as Scapegoats: Auditing Unfaithful Safety Refusals in Tool-Augmented LLM Agents
+- [[raw/papers/2026-07-20_03-56-43Z_ThinkinginVideo_CanVideoGeneratorsReallyReasonAbou.md]] : Thinking in Video: Can Video Generators Really Reason About the Real World?
+- [[raw/papers/2026-07-23_13-05-46Z_news_crawler_LM_ASmallLong_ContextModelForHigh_Qua.md]] : news-crawler-LM: A Small Long-Context Model For High-Quality News Crawling
+- [[raw/papers/2026-07-21_10-24-57Z_WhatGeneralIntelligenceRequires_Non_ReducibleConst.md]] : What General Intelligence Requires: Non-Reducible Constraints Across Levels of Description
+- [[raw/papers/2026-07-08_18-03-41Z_DeepSearch_World_Self_DistillationforDeepSearchAge.md]] : DeepSearch-World: Self-Distillation for Deep Search Agents in a Verifiable Environment
+- [[raw/papers/2026-07-21_08-35-22Z_DataLeakagePreventioninAgenticApplicationsviaPreem.md]] : Data Leakage Prevention in Agentic Applications via Preemptive Hardening
+- [[raw/papers/2026-07-22_15-11-11Z_ExposureisOptional_LearningUnlikeCoordinationinLan.md]] : Exposure is Optional: Learning Unlike Coordination in Language Models
+- [[raw/papers/2026-07-20_16-10-06Z_HowDoesAlignmentTuningShapeRepresentationsofSycoph.md]] : How Does Alignment Tuning Shape Representations of Sycophancy and Related Cue-Induced Biases in LLMs?
+- [[raw/papers/2026-07-23_17-38-30Z_OpenForgeRL_TrainHarness_nativeAgentsinAnyEnvironm.md]] : OpenForgeRL: Train Harness-native Agents in Any Environment
+- [[raw/papers/2026-07-17_09-32-54Z_AgentFAIR_AMulti_AgentCollaborativeFrameworkforFAI.md]] : AgentFAIR: A Multi-Agent Collaborative Framework for FAIRness Evaluation of Geospatial Datasets
+- [[raw/papers/2026-07-21_16-31-35Z_PromptDesignatScale_HowFormat_InstructionCount_and.md]] : Prompt Design at Scale: How Format, Instruction Count, and Context Length Shape Instruction Adherence and Hallucination in Large Language Models
+- [[raw/papers/2026-07-23_15-24-35Z_PATS_Policy_AwareTrainingScaffoldingforAgenticRein.md]] : PATS: Policy-Aware Training Scaffolding for Agentic Reinforcement Learning
+- [[raw/papers/2026-07-23_16-05-46Z_AREX_TowardsaRecursivelySelf_ImprovingAgentforDeep.md]] : AREX: Towards a Recursively Self-Improving Agent for Deep Research
+- [[raw/papers/2026-07-21_10-57-09Z_MeasuringReward_SeekingviaContrastiveBeliefUpdates.md]] : Measuring Reward-Seeking via Contrastive Belief Updates
+- [[raw/papers/2026-06-29_06-02-20Z_ExperienceGraphs_TheDataFoundationforSelf_Improvin.md]] : Experience Graphs: The Data Foundation for Self-Improving Agents
+- [[raw/papers/2026-07-20_17-12-28Z_FlashRT_AgentHarnessforGuidingAgentstoDeployReal_T.md]] : FlashRT: Agent Harness for Guiding Agents to Deploy Real-Time Multimodal Applications
+- [[raw/papers/2026-07-23_09-08-04Z_VibeVoice_ASR_BitNetTechnicalReport.md]] : VibeVoice-ASR-BitNet Technical Report
+- [[raw/papers/2026-07-22_22-30-12Z_ArbiGraph_ArbitrarilyScalableVerifiableTaskGraphsf.md]] : ArbiGraph: Arbitrarily Scalable Verifiable Task Graphs for Evaluating Context Management
+- [[raw/papers/2026-07-22_15-48-04Z_Don_tTrusttheLabel_LicenseLaunderinginAISupplyChai.md]] : Don't Trust the Label: License Laundering in AI Supply Chains
+- [[raw/papers/2026-07-15_07-04-32Z_ExTernD_Expanded_RankTernaryDecompositionTernaryLL.md]] : ExTernD: Expanded-Rank Ternary Decomposition Ternary LLM PTQ with Accuracy Approaching Any Quantization Level
+- [[raw/papers/2026-07-23_17-33-43Z_TheBoundariesofAutomation_ATheoryofPersistentHuman.md]] : The Boundaries of Automation: A Theory of Persistent Human Participation
+- [[raw/papers/2026-06-24_18-38-26Z_TheRedQueenGödelMachine_Co_EvolvingAgentsandTheirE.md]] : The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators
+- [[raw/papers/2026-07-04_06-27-19Z_SelfMem_Self_OptimizingMemoryforAIAgents.md]] : SelfMem: Self-Optimizing Memory for AI Agents
+- [[raw/papers/2026-07-06_16-40-23Z_MetaSkill_Evolve_RecursiveSelf_ImprovementofLLMAge.md]] : MetaSkill-Evolve: Recursive Self-Improvement of LLM Agents via Two-Timescale Meta-Skill Evolution
+- [[raw/papers/2026-07-01_21-20-57Z_ProceduralMemoryDistillation_OnlineReflectionforSe.md]] : Procedural Memory Distillation: Online Reflection for Self-Improving Language Models
+- [[raw/papers/2026-07-21_02-15-39Z_Mark_Don_tErase_TokenInoculationforDual_UseKnowled.md]] : Mark, Don't Erase: Token Inoculation for Dual-Use Knowledge in LLMs
+- [[raw/papers/2026-07-13_15-22-56Z_FromWorldActionModelstoEmbodiedBrains_ARoadmapforO.md]] : From World Action Models to Embodied Brains: A Roadmap for Open-World Physical Intelligence
+- [[raw/papers/2026-07-13_09-07-30Z_Mako_ASelf_EvolvingAgenticOperatingSystem_SE_AOS_f.md]] : Mako: A Self-Evolving Agentic Operating System (SE-AOS) for Autonomous Web Exploitation
+- [[raw/papers/2026-07-19_01-13-09Z_RegularizeorLocalize_WhenTraining_TimeKV_CacheGeom.md]] : Regularize or Localize: When Training-Time KV-Cache Geometry Pays Under Quantization
+- [[raw/papers/2026-07-22_09-04-55Z_EfficientChain_of_ModalityReasoningviaProgressiveC.md]] : Efficient Chain-of-Modality Reasoning via Progressive Compression for Spoken Language Models
+- [[raw/papers/2026-07-22_09-25-47Z_SenWorld_ADigital_TwinSimulationforGeneratingConte.md]] : SenWorld: A Digital-Twin Simulation for Generating Context-Rich Evaluation Data
+- [[raw/papers/2026-07-21_11-10-38Z_Mi_Memory_ALifecycleMemoryFrameworkforPersonalAI.md]] : Mi-Memory: A Lifecycle Memory Framework for Personal AI
+- [[raw/papers/2026-07-21_01-44-59Z_CPInj_UncoveringPromptInjectionRisksinTextualColla.md]] : CPInj: Uncovering Prompt Injection Risks in Textual Collaborative Prompt Optimization
+- [[raw/papers/2026-07-22_13-49-38Z_GottaCatchthemall_themodesofSycophancy.md]] : Gotta Catch them all: the modes of Sycophancy
+- [[raw/papers/2026-07-20_14-38-00Z_MADA_RL_Multi_AgentDebate_AwareReinforcementLearni.md]] : MADA-RL: Multi-Agent Debate-Aware Reinforcement Learning for Parameter-Efficient Reasoning in Compact Models
+- [[raw/papers/2026-07-23_17-40-07Z_BeyondSycophancy_StructuredResistanceandCompliance.md]] : Beyond Sycophancy: Structured Resistance and Compliance in LLM Moral Reasoning
+- [[raw/papers/2026-07-20_17-01-50Z_OperationalHallucinationandSafetyDriftinAIAgents.md]] : Operational Hallucination and Safety Drift in AI Agents
+- [[raw/papers/2026-07-16_00-35-25Z_Tactile_GivingComputer_UsingAgentsHandsandFeet.md]] : Tactile: Giving Computer-Using Agents Hands and Feet
+- [[raw/papers/2026-07-17_02-12-09Z_ABetterStartforLanguageModels_Domain_ConditionalPo.md]] : A Better Start for Language Models: Domain-Conditional Position Offsets
+- [[raw/papers/2026-07-15_13-27-20Z_ReasFlow_AssistingReasoning_CentricScientificDisco.md]] : ReasFlow: Assisting Reasoning-Centric Scientific Discovery in Applied Mathematics via a Knowledge-Based Multi-Agent System
+- [[raw/papers/2026-07-20_22-28-16Z_EngineeringTrustworthyAgenticAIforCriticalSystems.md]] : Engineering Trustworthy Agentic AI for Critical Systems
+- [[raw/papers/2026-07-20_14-58-53Z_RethinkingHeterogeneousLLMMerging_AWeightedModelAv.md]] : Rethinking Heterogeneous LLM Merging: A Weighted Model Averaging Perspective
+- [[raw/papers/2026-07-22_18-15-12Z_FrontierFinancialJudgement_Canagentstellwhatmightm.md]] : Frontier Financial Judgement: Can agents tell what might move a stock?
+- [[raw/papers/2026-07-17_07-51-09Z_BehavioralControllabilityofAgenticModelsforInforma.md]] : Behavioral Controllability of Agentic Models for Information Extraction: From Fixed Workflows to Reflective Agents
+- [[raw/papers/2026-07-13_21-13-46Z_Self_ImprovingAICodingAgentsThroughAccumulatedBeha.md]] : Self-Improving AI Coding Agents Through Accumulated Behavioral Rules: A Closed-Loop Framework
+- [[raw/papers/2026-07-23_13-30-01Z_AIAssistantsOverassist.md]] : AI Assistants Overassist
+- [[raw/papers/2026-07-22_16-04-31Z_WhenDoesRecurrenceBecomeanAlgorithm_ConvergenceSel.md]] : When Does Recurrence Become an Algorithm? Convergence Selection in Weight-Tied Looped Transformers
+- [[raw/papers/2026-07-22_16-14-38Z_UnderstandingGenerativeAI_mediatedUserEngagementwi.md]] : Understanding Generative AI-mediated User Engagement with Academic Library Resources
+- [[raw/papers/2026-07-16_17-18-59Z_NeuronSoup_EvolvingAsynchronous_Shared_NeuronTempo.md]] : NeuronSoup: Evolving Asynchronous, Shared-Neuron Temporal Graphs without Backpropagation
+- [[raw/papers/2026-07-19_09-18-35Z_HowJailbreakAttacksInformSafetyAlignment_ADefender.md]] : How Jailbreak Attacks Inform Safety Alignment: A Defender-Centric, Shapley-Based Evaluation of Jailbreak Contributions
+- [[raw/papers/2026-07-21_12-28-58Z_FilmWorld_AgenticNovel_to_FilmGenerationthroughDyn.md]] : FilmWorld: Agentic Novel-to-Film Generation through Dynamic Cinematic World Modeling
+- [[raw/papers/2026-07-21_21-38-39Z_Knowledge_CentricSelf_Improvement.md]] : Knowledge-Centric Self-Improvement
+- [[raw/papers/2026-07-16_06-10-08Z_Investigatingfirst_languagebiasinLLM_basedautomate.md]] : Investigating first-language bias in LLM-based automated essay scoring: A cross-prompt evaluation of an open-weight AI-model on TOEFL essays
+- [[raw/papers/2026-07-05_12-40-52Z_Self_ReferenceinLargeLanguageModels_TheIntrospecti.md]] : Self-Reference in Large Language Models: The Introspection Threshold for Recursive Self-Improvement
+- [[raw/papers/2026-07-22_12-11-51Z_PRO_LONG_ProgrammaticMemoryEnablesLong_HorizonReas.md]] : PRO-LONG: Programmatic Memory Enables Long-Horizon Reasoning
+- [[raw/papers/2026-07-16_20-07-47Z_CoercionandDeceptioninAI_to_AIManagement_AnAgentic.md]] : Coercion and Deception in AI-to-AI Management: An Agentic Benchmark of Unprompted Escalation
+- [[raw/papers/2026-07-23_11-31-38Z_ICAE_Bench_EvaluatingCodingAgentsasInteractiveProj.md]] : ICAE-Bench: Evaluating Coding Agents as Interactive Project Builders
+- [[raw/papers/2026-06-25_10-42-28Z_AgentX_TowardsAgent_DrivenSelf_IterationofIndustri.md]] : AgentX: Towards Agent-Driven Self-Iteration of Industrial Recommender Systems
+- [[raw/papers/2026-07-16_10-49-15Z_LaCache_ExactCachingandPrecision_AdaptiveInference.md]] : LaCache: Exact Caching and Precision-Adaptive Inference for Diffusion Large Language Models
+- [[raw/papers/2026-07-20_20-01-44Z_GoverningWellintheAlgorithmicAge_TheFoundationsofD.md]] : Governing Well in the Algorithmic Age: The Foundations of Digital Statecraft
+- [[raw/papers/2026-07-23_05-17-00Z_SciExplore_EvaluatingAutonomousAgentsfromScientifi.md]] : SciExplore: Evaluating Autonomous Agents from Scientific Navigation to Information Integration
+- [[raw/papers/2026-07-19_22-27-00Z_AbliterationIsNotaScalpel_Off_TargetEffectsofRefus.md]] : Abliteration Is Not a Scalpel: Off-Target Effects of Refusal Removal on Decision Disposition Across Model Families
+- [[raw/papers/2026-07-20_09-17-58Z_MambaLSTM_ASpatio_TemporalFrameworkforEnhancedTraf.md]] : MambaLSTM: A Spatio-Temporal Framework for Enhanced Traffic Accident Risk Prediction
+- [[raw/papers/2026-07-22_13-24-09Z_OpenSkillRisk_BenchmarkingAgentSafetyWhenUsingReal.md]] : OpenSkillRisk: Benchmarking Agent Safety When Using Real-World Risky Third-Party Skills
+- [[raw/papers/2026-07-22_09-32-45Z_HijackKV_NewThreatinPosition_IndependentKVCacheReu.md]] : HijackKV: New Threat in Position-Independent KV Cache Reuse
+- [[raw/papers/2026-07-18_15-23-45Z_AgentBrew_LifelongKnowledgeBrewingfromStrongTeache.md]] : AgentBrew: Lifelong Knowledge Brewing from Strong Teachers to Weak LLM Agents
+- [[raw/papers/2026-07-16_20-58-16Z_LoopedLatentAttention_Cross_LoopKVCompressionforLo.md]] : Looped Latent Attention: Cross-Loop KV Compression for Looped Transformers
+- [[raw/papers/2026-07-21_13-36-23Z_REGEN_Replay_recyclingforExpert_to_Generalistdisti.md]] : REGEN: Replay-recycling for Expert-to-Generalist distillation with Offline Reinforcement Learning
+- [[raw/papers/2026-07-22_08-35-00Z_HarnessingDisagreement_DetectingCorrelatedAgreemen.md]] : Harnessing Disagreement: Detecting Correlated Agreement Blindness in Multi-Agent Triage
+- [[raw/papers/2026-07-21_11-03-56Z_Skillware_ASoftwareOntologyandEngineeringLifecycle.md]] : Skillware: A Software Ontology and Engineering Lifecycle for Persistent Behavioral Artifacts
+- [[raw/papers/2026-07-14_09-12-57Z_Self_ImprovementsinModernAgenticSystems_ASurvey.md]] : Self-Improvements in Modern Agentic Systems: A Survey
+- [[raw/papers/2026-07-23_01-28-18Z_AuditingProvenanceSensitivityinLLMAgentActionSelec.md]] : Auditing Provenance Sensitivity in LLM Agent Action Selection
+- [[raw/papers/2026-07-22_19-08-19Z_FromAgentFailurestoTextPolicies_WhatWorksandWhatBr.md]] : From Agent Failures to Text Policies: What Works and What Breaks
+- [[raw/papers/2026-07-23_16-51-31Z_AgenticContextManagement_SolvingAgentMemoryandCost.md]] : Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems
+- [[raw/papers/2026-07-23_17-02-11Z_SameDangerousObjective_OppositeAdvice_DirectExposu.md]] : Same Dangerous Objective, Opposite Advice: Direct Exposure versus Multi-Agent Mediation
+- [[raw/papers/2026-07-23_16-41-56Z_TowardContinuousAssurancefortheDemocratizationofAI.md]] : Toward Continuous Assurance for the Democratization of AI Agent Creation in Industry
+- [[raw/papers/2026-07-21_17-55-10Z_AgentsintheWild_WhereResearchMeetsDeployment.md]] : Agents in the Wild: Where Research Meets Deployment
+- [[raw/papers/2026-07-21_17-53-44Z_Fundamentallimitsofdistributedmulticlassclassifica.md]] : Fundamental limits of distributed multiclass classification from simple binary decisions
+- [[raw/papers/2026-07-21_15-57-36Z_ThePriceofReasoning_Cost_QualityTradeoffsinReinfor.md]] : The Price of Reasoning: Cost-Quality Tradeoffs in Reinforcement Learning for Neural Machine Translation
+- [[raw/papers/2026-07-20_17-57-20Z_VectorSearchAsNearestNeighborMatching_RAG_basedPol.md]] : Vector Search As Nearest Neighbor Matching: RAG-based Policy Learning in Causal Inference
+- [[raw/papers/2026-07-20_17-47-44Z_SWE_PrunerPro_TheCoderLLMAlreadyKnowsWhattoPrune.md]] : SWE-Pruner Pro: The Coder LLM Already Knows What to Prune
+- [[raw/papers/2026-07-20_17-58-31Z_It_sNotWhatYouSay_It_sHowYouSayIt_EvaluatingLLMRes.md]] : It's Not What You Say, It's How You Say It: Evaluating LLM Responses to Expressions of Belief
+- [[raw/papers/2026-07-17_17-55-19Z_EvaluatingOpen_WeightLLMsforGeneratingStructuredTh.md]] : Evaluating Open-Weight LLMs for Generating Structured Threat Information for Autonomous Vehicle Vulnerabilities
+- [[raw/papers/2026-07-16_17-58-36Z_SciDiagramEdit_LearningtoEditScientificDiagramsfro.md]] : SciDiagramEdit: Learning to Edit Scientific Diagrams from Paper Revisions
+- [[raw/papers/2026-07-16_16-59-54Z_Self_EvolvingHuman_CenteredFrameworkforExplainable.md]] : Self-Evolving Human-Centered Framework for Explainable Depression Symptom Annotation
+- [[raw/papers/2026-07-15_17-05-06Z_EarlyAdoptionofAgenticCodingToolsbyGitHubProjects.md]] : Early Adoption of Agentic Coding Tools by GitHub Projects
+- [[raw/papers/2026-07-15_16-36-54Z_RethinkingPenetrationTestingforAI_EnabledSystems_F.md]] : Rethinking Penetration Testing for AI-Enabled Systems: From Resource Compromise to Behavioral Objective Violation
+- [[raw/papers/2026-07-15_17-14-03Z_AI_acceleratedEnd_to_EndFrameworkforRapidProfessio.md]] : AI-accelerated End-to-End Framework for Rapid Professional Upskilling
+- [[raw/papers/2026-07-14_17-53-22Z_Audio_NativeSpeechRecognitionwithaFrozenDiscrete_D.md]] : Audio-Native Speech Recognition with a Frozen Discrete-Diffusion Language Model
+- [[raw/papers/2026-07-14_17-49-52Z_WatermarkForensicsforGenerativeModels_AnInformatio.md]] : Watermark Forensics for Generative Models: An Information-Theoretic Perspective
+- [[raw/papers/2026-07-14_17-58-57Z_PalmClaw_ANativeOn_DeviceAgentFrameworkforMobilePh.md]] : PalmClaw: A Native On-Device Agent Framework for Mobile Phones
+- [[raw/papers/2026-07-14_17-59-31Z_DoAIAgentsKnowWhenaTaskIsSimple_TowardComplexity_A.md]] : Do AI Agents Know When a Task Is Simple? Toward Complexity-Aware Reasoning and Execution
+- [[raw/papers/2026-07-14_17-59-22Z_TheSerialityGapinVideoDiffusionModels.md]] : The Seriality Gap in Video Diffusion Models
+- [[raw/papers/2026-07-14_15-30-37Z_EvaluatingLargeLanguageModelsonMisconceptionsinMul.md]] : Evaluating Large Language Models on Misconceptions in Multi-Turn Medical Conversations
+- [[raw/papers/2026-07-14_15-33-44Z_MemOps_BenchmarkingLifecycleMemoryOperationsinLong.md]] : MemOps: Benchmarking Lifecycle Memory Operations in Long-Horizon Conversations
+- [[raw/papers/2026-07-13_17-49-10Z_Evidence_BackedVideoQuestionAnswering.md]] : Evidence-Backed Video Question Answering
+- [[raw/papers/2026-07-13_17-56-11Z_InvariantLearningDynamicsofTransformersinInductive.md]] : Invariant Learning Dynamics of Transformers in Inductive Reasoning Tasks
+- [[raw/papers/2026-07-09_17-41-49Z_ARDY_AutoregressiveDiffusionwithHybridRepresentati.md]] : ARDY: Autoregressive Diffusion with Hybrid Representation for Interactive Human Motion Generation
+- [[raw/papers/2026-07-09_17-58-29Z_OpenCoF_LearningtoReasonThroughVideoGeneration.md]] : OpenCoF: Learning to Reason Through Video Generation
+- [[raw/papers/2026-07-09_17-59-32Z_UniClawBench_AUniversalBenchmarkforProactiveAgents.md]] : UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks
+- [[raw/papers/2026-07-06_17-56-11Z_WhatDoesaDiscreteDiffusionModelLearn.md]] : What Does a Discrete Diffusion Model Learn?
+- [[raw/papers/2026-07-06_17-59-58Z_InterpretableHuman_Label_FreeDeepLearningforReal_B.md]] : Interpretable Human-Label-Free Deep Learning for Real-Bogus Classification with Uncertainty Quantification
+- [[raw/papers/2026-07-03_18-49-20Z_HowtoAvoidDebate_ScalableAISafetyviaDoubly_Efficie.md]] : How to Avoid Debate: Scalable AI Safety via Doubly-Efficient Interactive Proofs
+- [[raw/papers/2026-07-02_17-59-43Z_OnlineSafetyMonitoringforLLMs.md]] : Online Safety Monitoring for LLMs
+- [[raw/papers/2026-07-02_17-59-23Z_WhatLLMAgentsSayWhenNoOneIsWatching_SocialStructur.md]] : What LLM Agents Say When No One Is Watching: Social Structure and Latent Objective Emergence in Multi-Agent Debates
+- [[raw/papers/2026-07-02_17-59-56Z_DistributedAttacksinPersistent_StateAIControl.md]] : Distributed Attacks in Persistent-State AI Control
+- [[raw/papers/2026-07-02_17-55-39Z_ControllableSimAgentswithBehaviorLatents.md]] : Controllable Sim Agents with Behavior Latents
+- [[raw/papers/2026-07-01_17-50-48Z_ArePerformance_OptimizationBenchmarksReliablyMeasu.md]] : Are Performance-Optimization Benchmarks Reliably Measuring Coding Agents?
+- [[raw/papers/2026-07-01_17-57-03Z_AutoMem_AutomatedLearningofMemoryasaCognitiveSkill.md]] : AutoMem: Automated Learning of Memory as a Cognitive Skill
+- [[raw/papers/2026-07-01_17-59-54Z_IsOneLayerEnough_TrainingASingleTransformerLayerCa.md]] : Is One Layer Enough? Training A Single Transformer Layer Can Match Full-Parameter RL Training
+- [[raw/papers/2026-07-01_17-59-56Z_MeasuringtheGapBetweenHumanandLLMResearchIdeas.md]] : Measuring the Gap Between Human and LLM Research Ideas
+- [[raw/papers/2026-07-01_15-40-25Z_CanAgentsGeneralizetotheOpenWorld_UnveilingtheFrag.md]] : Can Agents Generalize to the Open World? Unveiling the Fragility of Static Training in Tool Use
+- [[raw/papers/2026-07-01_15-35-04Z_MessagePassingEnablesEfficientReasoning.md]] : Message Passing Enables Efficient Reasoning
+- [[raw/papers/2026-07-01_15-30-33Z_MemSyco_Bench_BenchmarkingSycophancyinAgentMemory.md]] : MemSyco-Bench: Benchmarking Sycophancy in Agent Memory
+- [[raw/papers/2026-07-01_15-44-15Z_CheapCode_CostlyJudgment_ACaseStudyonGovernableAge.md]] : Cheap Code, Costly Judgment: A Case Study on Governable Agentic Software Engineering
+- [[raw/papers/2026-06-30_17-54-50Z_WhenLLMsReadTablesCarelessly_MeasuringandReducingD.md]] : When LLMs Read Tables Carelessly: Measuring and Reducing Data Referencing Errors
+- [[raw/papers/2026-06-30_13-25-29Z_MoralSafetyinLLMs_ExposingPerformativeCompliancewi.md]] : Moral Safety in LLMs: Exposing Performative Compliance with Puzzled Cues
+- [[raw/papers/2026-06-30_13-21-43Z_ALifecycleandApplication_StackSurveyofLargeLanguag.md]] : A Lifecycle and Application-Stack Survey of Large Language Model Vulnerabilities: Attacks, Risks, Defenses, and Open Problems
+- [[raw/papers/2026-06-30_13-30-24Z_FARS_AFullyAutomatedResearchSystemDeployedatScale.md]] : FARS: A Fully Automated Research System Deployed at Scale
+- [[raw/papers/2026-06-29_17-58-43Z_Self_EvolvingWorldModelsforLLMAgentPlanning.md]] : Self-Evolving World Models for LLM Agent Planning
+- [[raw/papers/2026-06-29_17-50-54Z_ScalingtheHorizon_NottheParameters_ReachingTrillio.md]] : Scaling the Horizon, Not the Parameters: Reaching Trillion-Parameter Performance with a 35B Agent
+- [[raw/papers/2026-06-29_17-59-55Z_VLK_LearningHumanoidLoco_ManipulationfromSynthetic.md]] : VLK: Learning Humanoid Loco-Manipulation from Synthetic Interactions in Reconstructed Scenes
 - [[raw/papers/2026-06-29_13-37-56Z_ManimAgent_Self_EvolvingMultimodalAgentsforVisualE.md]] : ManimAgent: Self-Evolving Multimodal Agents for Visual Education
 - [[raw/papers/2026-06-29_14-02-15Z_BrainJanus_AUnifiedModelforUnderstandingandGenerat.md]] : BrainJanus: A Unified Model for Understanding and Generation across Brain, Vision, and Language
-- [[raw/papers/2026-06-29_14-04-08Z_HybridActive_OnlineLearningFrameworkforLabel_Effic.md]] : Hybrid Active-Online Learning Framework for Label-Efficient Concept Drift Adaptation in Optical Network Failure Detection
 - [[raw/papers/2026-06-29_13-47-42Z_Always_OnAgents_ASurveyofPersistentMemory_State_an.md]] : Always-OnAgents:A Survey of Persistent Memory, State, and Governance in LLMAgents
 - [[raw/papers/2026-06-29_13-59-41Z_MCPServerArchitecturePatternsforLLM_IntegratedAppl.md]] : MCP Server Architecture Patterns for LLM-Integrated Applications
-- [[raw/papers/2026-06-26_17-47-09Z_VGBforMaskedDiffusionModel_EfficientTest_timeScali.md]] : VGB for Masked Diffusion Model: Efficient Test-time Scaling for Reward Satisfaction and Sample Editing
-- [[raw/papers/2026-06-26_17-59-57Z_DexCompose_ReusingDexterousPoliciesforMulti_TaskMa.md]] : DexCompose: Reusing Dexterous Policies for Multi-Task Manipulation with a Single Hand
-- [[raw/papers/2026-06-26_17-53-30Z_WhichNashEquilibrium_Solver_DependentSelectiononZe.md]] : Which Nash Equilibrium? Solver-Dependent Selection on Zero-Sum Nash Polytopes
-- [[raw/papers/2026-06-26_17-54-13Z_SurprisesinProperPositive_OnlyLearning.md]] : Surprises in Proper Positive-Only Learning
-- [[raw/papers/2026-06-26_17-52-39Z_Second_OrderKKTGuaranteesforBregmanADMMinNonconvex.md]] : Second-Order KKT Guarantees for Bregman ADMM in Nonconvex and Non-Lipschitz Optimization
 - [[raw/papers/2026-06-26_17-38-47Z_DemocraticICAI_DebatingOurWaytoSteeringPrinciplesf.md]] : Democratic ICAI: Debating Our Way to Steering Principles from Preferences
-- [[raw/papers/2026-06-26_17-31-34Z_BridgingAbInitioSymmetriesandGlobalNuclearMasseswi.md]] : Bridging Ab Initio Symmetries and Global Nuclear Masses with Interpretable Neural Networks
-- [[raw/papers/2026-06-26_16-35-48Z_HPRO_HierarchicalProgressiveRewardOptimizationviaP.md]] : HPRO: Hierarchical Progressive Reward Optimization via Preference Extraction for Emotional Text-to-Speech
-- [[raw/papers/2026-06-26_17-04-42Z_LearningTopology_AwareRepresentationsviaTest_TimeA.md]] : Learning Topology-Aware Representations via Test-Time Adaptation for Anomaly Segmentation
-- [[raw/papers/2026-06-26_17-17-17Z_ParameterEfficientHybridTransformer_PEHT_forNetwor.md]] : Parameter Efficient Hybrid Transformer (PEHT) for Network Traffic Prediction via Dynamic Urban Congestion Integration
-- [[raw/papers/2026-06-26_17-08-06Z_Agent_NativeImmuneSystem_Architecture_Taxonomy_and.md]] : Agent-Native Immune System: Architecture, Taxonomy, and Engineering
-- [[raw/papers/2026-06-26_17-21-06Z_AgenticHardwareDesignasRepository_LevelCodeEvoluti.md]] : Agentic Hardware Design as Repository-Level Code Evolution
-- [[raw/papers/2026-06-26_16-37-53Z_Parameter_EfficientContinuous_VariablePhotonicQuan.md]] : Parameter-Efficient Continuous-Variable Photonic Quantum Neural Networks for Edge Quantum AI: Demonstration in Oral Cancer Detection
-- [[raw/papers/2026-06-26_17-24-21Z_PAC_BayesianCertificatesforQuadraticClosed_LoopCon.md]] : PAC-Bayesian Certificates for Quadratic Closed-Loop Control
 - [[raw/papers/2026-06-26_17-19-17Z_TowardsAutomatingScientificReviewwithGoogle_sPaper.md]] : Towards Automating Scientific Review with Google's Paper Assistant Tool
-- [[raw/papers/2026-06-26_17-16-04Z_Vision_Default_Prior_Override_CausalMechanismsofPe.md]] : Vision-Default, Prior-Override: Causal Mechanisms of Perception-Knowledge Conflict in Vision-Language Models
-- [[raw/papers/2026-06-25_17-51-59Z_MappingPolitical_EliteNetworksinEuropewithaMultili.md]] : Mapping Political-Elite Networks in Europe with a Multilingual Joint Entity-Relation Extraction Pipeline
-- [[raw/papers/2026-06-25_17-56-27Z_Error_ConditionedNeuralSolvers.md]] : Error-Conditioned Neural Solvers
-- [[raw/papers/2026-06-25_17-59-58Z_DanceOPD_On_PolicyGenerativeFieldDistillation.md]] : DanceOPD: On-Policy Generative Field Distillation
-- [[raw/papers/2026-06-25_17-49-48Z_UnderstandingDomain_AwareDistributionAlignmentinBu.md]] : Understanding Domain-Aware Distribution Alignment in Budgeted Entity Matching
-- [[raw/papers/2026-06-25_17-58-21Z_AutoregressiveBoltzmannGenerators.md]] : Autoregressive Boltzmann Generators
 - [[raw/papers/2026-06-25_17-44-48Z_EmpoweringGUIAgentsviaAutonomousExperienceExplorat.md]] : Empowering GUI Agents via Autonomous Experience Exploration and Hindsight Experience Utilization for Task Planning
 - [[raw/papers/2026-06-25_17-59-36Z_ReinforcementLearningwithoutGround_TruthSolutionsc.md]] : Reinforcement Learning without Ground-Truth Solutions can Improve LLMs
-- [[raw/papers/2026-06-25_17-45-53Z_Language_BasedDigitalTwinsforElderlyCognitiveAssis.md]] : Language-Based Digital Twins for Elderly Cognitive Assistance
-- [[raw/papers/2026-06-25_17-38-45Z_HallucinationinWorldModelsisPredictableandPreventa.md]] : Hallucination in World Models is Predictable and Preventable
 - [[raw/papers/2026-06-25_17-58-02Z_Whenarelikelyanswersright_OnSequenceProbabilityand.md]] : When are likely answers right? On Sequence Probability and Correctness in LLMs
-- [[raw/papers/2026-06-24_17-36-39Z_WhenCertaintyIsanArtifact_KeywordLexiconBlindnessa.md]] : When Certainty Is an Artifact: Keyword Lexicon Blindness and the (Mis)Measurement of Rhetorical Stance
 - [[raw/papers/2026-06-24_17-53-26Z_SameEvidence_DifferentAnswer_AuditingOrderSensitiv.md]] : Same Evidence, Different Answer: Auditing Order Sensitivity in Multimodal Large Language Models
 - [[raw/papers/2026-06-24_17-59-46Z_RevengeBench_ReverseEngineeringCode_SpacePoliciesf.md]] : RevengeBench: Reverse Engineering Code-Space Policies from Behavioral Experiments
-- [[raw/papers/2026-06-24_17-59-56Z_LearningActionPriorsforCross_embodimentRobotManipu.md]] : Learning Action Priors for Cross-embodiment Robot Manipulation
 - [[raw/papers/2026-06-24_17-55-38Z_Real_TimeVoiceAIHearsbutDoesNotListen.md]] : Real-Time Voice AI Hears but Does Not Listen
-- [[raw/papers/2026-06-24_17-52-57Z_Across_processweldingpenetrationstatuspredictional.md]] : A cross-process welding penetration status prediction algorithm based on unsupervised domain adaptation in laser and TIG welding
-- [[raw/papers/2026-06-24_17-54-08Z_NeglectedFreeLunchfromPost_training_ProgressAdvant.md]] : Neglected Free Lunch from Post-training: Progress Advantage for LLM Agents
 - [[raw/papers/2026-06-24_17-45-47Z_ModelForensics_InvestigatingWhetherConcerningBehav.md]] : Model Forensics: Investigating Whether Concerning Behavior Reflects Misalignment
-- [[raw/papers/2026-06-24_17-59-02Z_On_PolicySelf_DistillationwithSampledDemonstration.md]] : On-Policy Self-Distillation with Sampled Demonstrations Reduces Output Diversity
-- [[raw/papers/2026-06-24_17-33-41Z_Aweldingpenetrationpredictionmodelforlaserweldingp.md]] : A welding penetration prediction model for laser welding process based on self-supervised learning using physics-informed neural networks
 - [[raw/papers/2026-06-24_14-48-23Z_VariationalAutoencoderLayer.md]] : Variational Autoencoder Layer
-- [[raw/papers/2026-06-24_14-07-10Z_ColorMatters_TriggerColorAffectsSuccessinFederated.md]] : Color Matters: Trigger Color Affects Success in Federated Backdoor Attacks
-- [[raw/papers/2026-06-24_14-27-16Z_A3D_PrintableDatasetforFairTestingandComparisonsof.md]] : A 3D-Printable Dataset for Fair Testing and Comparisons of Tactile Sensors
-- [[raw/papers/2026-06-24_14-02-13Z_SemanticConsistencyPolicyOptimizationforReinforcem.md]] : Semantic Consistency Policy Optimization for Reinforcement Learning of LLM Agents
-- [[raw/papers/2026-06-24_14-23-14Z_AI_AssistedComputationalReproducibilityontheFABRIC.md]] : AI-Assisted Computational Reproducibility on the FABRIC Testbed
-- [[raw/papers/2026-06-24_14-41-27Z_EnhancingBrainMRIAnomalyDetectionandReasoningwithR.md]] : Enhancing Brain MRI Anomaly Detection and Reasoning with ROI Rethink and Synthetic Data
-- [[raw/papers/2026-06-24_14-25-39Z_AnAnalysisofPosteriorCollapse_ParameterizationandI.md]] : An Analysis of Posterior Collapse, Parameterization and Initialization in Variational Deep Gaussian Processes
-- [[raw/papers/2026-06-24_14-20-30Z_AutoRelAnnotator_CalibratedModelCascadesforCost_Ef.md]] : AutoRelAnnotator: Calibrated Model Cascades for Cost-Efficient Relevance Evaluation in Sponsored Search
 - [[raw/papers/2026-06-24_13-51-42Z_EdgesBeforeEmbeddings_AConfidence_AwareBlurGatefor.md]] : Edges Before Embeddings: A Confidence-Aware Blur Gate for Vision-Language Pipelines
 - [[raw/papers/2026-06-24_13-50-22Z_AISnitchesGetGlitches_TowardsEvadingAgenticSurveil.md]] : AI Snitches Get Glitches: Towards Evading Agentic Surveillance
-- [[raw/papers/2026-06-23_17-34-18Z_It_sComplicated_OntheDesignandEvaluationofAI_Power.md]] : It's Complicated: On the Design and Evaluation of AI-Powered AAC Interfaces
 - [[raw/papers/2026-06-23_17-59-01Z_InSight_Self_GuidedSkillAcquisitionviaSteerableVLA.md]] : InSight: Self-Guided Skill Acquisition via Steerable VLAs
 - [[raw/papers/2026-06-23_17-28-00Z_IV_CoT_ImplicitVisualChain_of_ThoughtforStructure_.md]] : IV-CoT: Implicit Visual Chain-of-Thought for Structure-Aware Text-to-Image Generation
-- [[raw/papers/2026-06-23_17-21-03Z_MatchingTaskstoObjectives_Fine_TuningandPrompt_Tun.md]] : Matching Tasks to Objectives: Fine-Tuning and Prompt-Tuning Strategies for Encoder-Decoder Pre-trained Language Models
-- [[raw/papers/2026-06-23_17-52-21Z_FLUX3D_High_Fidelity3DGaussianGenerationwithDiffus.md]] : FLUX3D: High-Fidelity 3D Gaussian Generation with Diffusion-Aligned Sparse Representation
-- [[raw/papers/2026-06-23_17-18-28Z_GradingtheGrader_LessonsfromEvaluatinganAgenticDat.md]] : Grading the Grader: Lessons from Evaluating an Agentic Data Analysis System
 - [[raw/papers/2026-06-23_17-34-29Z_OpenThoughts_Agent_DataRecipesforAgenticModels.md]] : OpenThoughts-Agent: Data Recipes for Agentic Models
-- [[raw/papers/2026-06-23_17-29-15Z_Realvs_ComplexSpectralBasesforNeuralOperators_TheR.md]] : Real vs. Complex Spectral Bases for Neural Operators: The Role of Green's Function Alignment
-- [[raw/papers/2026-06-23_17-21-09Z_WorldModelsinPieces_StructuralCertificationforGene.md]] : World Models in Pieces: Structural Certification for General Agents
-- [[raw/papers/2026-06-23_17-55-18Z_NewBoundsfortheLastIterateoftheStochasticsubGradie.md]] : New Bounds for the Last Iterate of the Stochastic subGradient Method
-- [[raw/papers/2026-06-22_17-56-30Z_CanLLMsReliablySelf_ReportAdversarialPrefills_andH.md]] : Can LLMs Reliably Self-Report Adversarial Prefills, and How?
-- [[raw/papers/2026-06-22_17-59-55Z_AutoDex_AnAutomatedReal_WorldSystemforDexterousGra.md]] : AutoDex: An Automated Real-World System for Dexterous Grasping Data Collection
-- [[raw/papers/2026-06-22_17-58-54Z_AIR_AdaptiveInterleavedReasoningwithCodeinMLLMs.md]] : AIR: Adaptive Interleaved Reasoning with Code in MLLMs
-- [[raw/papers/2026-06-22_17-59-20Z_CoorDex_CoordinatingBodyandHandPriorsforContinuous.md]] : CoorDex: Coordinating Body and Hand Priors for Continuous Dexterous Humanoid Loco-Manipulation
-- [[raw/papers/2026-06-22_17-57-08Z_TeachingLLMsStringMatching_Backtracking_andErrorRe.md]] : Teaching LLMs String Matching, Backtracking, and Error Recovery to Deduce Bases and Truth Tables for the Combinatorially Exploding Bit Manipulation Puzzles
-- [[raw/papers/2026-06-22_17-59-53Z_RandomizedYaRNImprovesLengthGeneralizationforLong_.md]] : Randomized YaRN Improves Length Generalization for Long-Context Reasoning
-- [[raw/papers/2026-06-22_17-59-17Z_SemanticBrowsing_ControllableDiversityforImageGene.md]] : Semantic Browsing: Controllable Diversity for Image Generation
-- [[raw/papers/2026-06-22_17-57-15Z_PsyBridge_AHybridIntelligentFrameworkforMulti_Dime.md]] : PsyBridge: A Hybrid Intelligent Framework for Multi-Dimensional Mental Health Assessment and Decision Support
-- [[raw/papers/2026-06-22_17-58-52Z_OpenProblem_IsAdamWEffectiveUnderHeavy_TailedNoise.md]] : Open Problem: Is AdamW Effective Under Heavy-Tailed Noise?
-- [[raw/papers/2026-06-22_17-56-25Z_TaperedLanguageModels.md]] : Tapered Language Models
 - [[raw/papers/2026-06-21_16-44-20Z_Text2DSL_LLM_BasedCodeGenerationforDomain_Specific.md]] : Text2DSL: LLM-Based Code Generation for Domain-Specific Languages
-- [[raw/papers/2026-06-21_16-51-29Z_Training_freeTaskClassificationforMulti_TaskModelM.md]] : Training-free Task Classification for Multi-Task Model Merging
-- [[raw/papers/2026-06-21_16-34-39Z_FromCVEtoCWE_Syscall_BasedHIDSGeneralisation.md]] : From CVE to CWE: Syscall-Based HIDS Generalisation
 - [[raw/papers/2026-06-21_16-27-24Z_Context_AwareDistillationandAblationforText2DSL.md]] : Context-Aware Distillation and Ablation for Text2DSL
-- [[raw/papers/2026-06-21_17-20-21Z_OnthePositionBiasofOn_PolicyDistillation.md]] : On the Position Bias of On-Policy Distillation
 - [[raw/papers/2026-06-21_17-37-01Z_PaperClaw_HarnessingAgentsforAutonomousResearchand.md]] : PaperClaw: Harnessing Agents for Autonomous Research and Human-in-the-Loop Refinement
-- [[raw/papers/2026-06-21_16-29-25Z_StationaryRobustMean_FieldGamesunderModelMismatche.md]] : Stationary Robust Mean-Field Games under Model Mismatches
 - [[raw/papers/2026-06-21_17-24-31Z_Sub_Billion_Super_Frontier_SmallLanguageModelsRiva.md]] : Sub-Billion, Super-Frontier: Small Language Models Rival Zero-Shot Frontier LLMs on General and Literary Relation Extraction
-- [[raw/papers/2026-06-21_17-31-05Z_AutomatedsigndetectionacrosstheElectronicBabylonia.md]] : Automated sign detection across the Electronic Babylonian Library: A large-scale dataset and end-to-end cuneiform OCR pipeline
-- [[raw/papers/2026-06-21_17-20-26Z_ScalableBayesianAdditiveModelsforStellarFlareDetec.md]] : Scalable Bayesian Additive Models for Stellar Flare Detection via Amortized Gaussian Process Inference and Hidden Markov Models
 - [[raw/papers/2026-06-19_15-58-36Z_CompressingObservationHistoryintoAgentMemory_Disti.md]] : Compressing Observation History into Agent Memory: Distilling Transformers into Recurrent Transformers
-- [[raw/papers/2026-06-19_15-56-16Z_Rubric_as_Experts_Case_SpecificMQMRubricsforTransl.md]] : Rubric-as-Experts: Case-Specific MQM Rubrics for Translation Quality Evaluation
-- [[raw/papers/2026-06-19_16-44-18Z_FAST_AFrameworkforAlignedSamplingandTraininginPara.md]] : FAST: A Framework for Aligned Sampling and Training in Parallel Reinforcement Learning for Autonomous Driving
 - [[raw/papers/2026-06-19_15-50-35Z_DissectingAgenticRAG_AComponentAblationforMulti_Ho.md]] : Dissecting Agentic RAG: A Component Ablation for Multi-Hop QA with a Local 7B Model
 - [[raw/papers/2026-06-19_16-31-44Z_TheUnreasonableEffectivenessofVLMsforZero_shotProc.md]] : The Unreasonable Effectiveness of VLMs for Zero-shot Procedural Mistake Detection
-- [[raw/papers/2026-06-19_16-02-22Z_LIG_Layer_wiseIntegratedGradientsforWithin_LayerFl.md]] : LIG: Layer-wise Integrated Gradients for Within-Layer Flow Analysis in Transformers
-- [[raw/papers/2026-06-19_16-41-28Z_TheCostGeometryofBelief_finite_resourceinferenceun.md]] : The Cost Geometry of Belief: finite-resource inference under noisy observation
 - [[raw/papers/2026-06-19_15-47-01Z_AIAlignmentFromSocialChoicePerspectives.md]] : AI Alignment From Social Choice Perspectives
-- [[raw/papers/2026-06-19_16-03-53Z_ComposingVerifiableConceptualModelsviaBuildingBloc.md]] : Composing Verifiable Conceptual Models via Building Blocks: Towards Design-Time Verification of Agentic AI Workflows
-- [[raw/papers/2026-06-19_15-55-18Z_PeerMathDial_AMiddleSchoolDialogueDatasetforStuden.md]] : PeerMathDial: A Middle School Dialogue Dataset for Student Collaborative Math Problem Solving
-- [[raw/papers/2026-06-18_17-59-45Z_UNIEGO_ProxiesasMediatorsforUnifiedEgocentricVideo.md]] : UNIEGO: Proxies as Mediators for Unified Egocentric Video Representation Learning
-- [[raw/papers/2026-06-18_17-58-32Z_StructuringandTokenizingDistributedUserInterestCon.md]] : Structuring and Tokenizing Distributed User Interest Context for Generative Recommendation
-- [[raw/papers/2026-06-18_17-49-36Z_Execution_StateCapsules_Graph_BoundExecution_State.md]] : Execution-State Capsules: Graph-Bound Execution-State Checkpoint and Restore for Low-Latency, Small-Batch, On-Device Physical-AI Serving
-- [[raw/papers/2026-06-18_17-50-10Z_Multi_TaskBayesianIn_ContextLearning.md]] : Multi-Task Bayesian In-Context Learning
 - [[raw/papers/2026-06-18_17-55-00Z_TowardCalibratedMixture_of_ExpertsUnderDistributio.md]] : Toward Calibrated Mixture-of-Experts Under Distribution Shift
-- [[raw/papers/2026-06-18_17-59-31Z_OptimalDeterministicMulticalibrationandOmnipredict.md]] : Optimal Deterministic Multicalibration and Omniprediction
 - [[raw/papers/2026-06-18_17-47-32Z_HowDoInstructionsShapeSpeech_Cross_AttentionAttrib.md]] : How Do Instructions Shape Speech? Cross-Attention Attribution for Style-Captioned Text-to-Speech
-- [[raw/papers/2026-06-18_17-56-17Z_TheTokenIsaGroupElement_OnLie_AlgebraAttentionover.md]] : The Token Is a Group Element: On Lie-Algebra Attention over Matrix Lie Groups
 - [[raw/papers/2026-06-18_17-59-46Z_HowTransparentisDiffusionGemma.md]] : How Transparent is DiffusionGemma?
-- [[raw/papers/2026-06-18_17-55-31Z_PredictabilityasaFine_GrainedMeasureforPrivacy.md]] : Predictability as a Fine-Grained Measure for Privacy
-- [[raw/papers/2026-06-18_15-36-13Z_CRAX_FastSafeReinforcementLearningBenchmarking.md]] : CRAX: Fast Safe Reinforcement Learning Benchmarking
-- [[raw/papers/2026-06-18_15-35-40Z_AutoPass_Evidence_GuidedLLMAgentsforCompilerPerfor.md]] : AutoPass: Evidence-Guided LLM Agents for Compiler Performance Tuning
-- [[raw/papers/2026-06-18_15-20-00Z_Robust_Q__learningformean_fieldcontrolunderWassers.md]] : Robust $Q$-learning for mean-field control under Wasserstein uncertainty in common noise
-- [[raw/papers/2026-06-18_15-20-10Z_OntheVarianceofTemporalDifferenceLearninganditsRed.md]] : On the Variance of Temporal Difference Learning and its Reduction Using Control Variates
-- [[raw/papers/2026-06-18_15-13-55Z_Quantumringall_reduce_communicationandprivacyadvan.md]] : Quantum ring all-reduce: communication and privacy advantages for distributed learning
-- [[raw/papers/2026-06-18_15-25-42Z_AutomatingSKILL_mdGenerationforComputer_UsingAgent.md]] : Automating SKILL.md Generation for Computer-Using Agents via Interaction Trajectory Mining
-- [[raw/papers/2026-06-18_15-15-57Z_CriticalPercolationasaSyntheticDataModelforInterpr.md]] : Critical Percolation as a Synthetic Data Model for Interpretability
-- [[raw/papers/2026-06-18_15-32-14Z_CATCH_MEifyouRAG_adatasetofContextuallyAnnotatedmu.md]] : CATCH-ME if you RAG: a dataset of Contextually Annotated multi-Turn Counterspeech against Hate and Misinformation Exchanges
-- [[raw/papers/2026-06-18_15-25-57Z_JudgingtoImprove_ADe_biasedVLM_as_3D_JudgeProtocol.md]] : Judging to Improve: A De-biased VLM-as-3D-Judge Protocol for Single-Image 3D Generation
-- [[raw/papers/2026-06-18_15-21-53Z_Train_Retrieve_orBoth_AFour_ArmHead_to_HeadforCorr.md]] : Train, Retrieve, or Both? A Four-Arm Head-to-Head for Correct Statutory Citation on the Ontario Residential Tenancies Act
 - [[raw/papers/2026-06-17_17-58-22Z_FreeingtheLawwithLOCUS_ALocalOrdinanceCorpusforthe.md]] : Freeing the Law with LOCUS: A Local Ordinance Corpus for the United States
 - [[raw/papers/2026-06-17_17-58-48Z_LearningUserSimulatorswithTuringRewards.md]] : Learning User Simulators with Turing Rewards
-- [[raw/papers/2026-06-17_17-54-52Z_TheChandra_GaiaCatalogofCounterparts_Resolvingambi.md]] : The Chandra-Gaia Catalog of Counterparts: Resolving ambiguous Gaia matches to X-ray sources in the Chandra Source Catalog using Machine Learning
-- [[raw/papers/2026-06-17_17-59-56Z_NativeActivePerceptionasReasoningforOmni_ModalUnde.md]] : Native Active Perception as Reasoning for Omni-Modal Understanding
-- [[raw/papers/2026-06-17_17-54-32Z_UBP2_Uncertainty_BalancedPreferencePlanningforEffi.md]] : UBP2: Uncertainty-Balanced Preference Planning for Efficient Preference-based Reinforcement Learning
-- [[raw/papers/2026-06-17_17-38-32Z_Diffusion_Proof_RecipeforFormalTheoremProvingBeyon.md]] : Diffusion-Proof: Recipe for Formal Theorem Proving Beyond Auto-Regressive Generation
-- [[raw/papers/2026-06-17_17-40-55Z_ExplainingAttentionwithProgramSynthesis.md]] : Explaining Attention with Program Synthesis
-- [[raw/papers/2026-06-17_17-51-50Z_Reference_DrivenMulti_SpeakerAudioSceneGenerationf.md]] : Reference-Driven Multi-Speaker Audio Scene Generation from In-the-Wild Priors
 - [[raw/papers/2026-06-17_17-54-04Z_RethinkingRewardSupervision_Rubric_ConditionedSelf.md]] : Rethinking Reward Supervision: Rubric-Conditioned Self-Distillation
-- [[raw/papers/2026-06-17_17-45-32Z_DataIntelligenceAgents_Interpreting_Modeling_andQu.md]] : Data Intelligence Agents: Interpreting, Modeling, and Querying Enterprise Data via Autonomous Coding Agents
-- [[raw/papers/2026-06-16_17-57-16Z_Sign_Rank_Index_andListReplicability_Connectionsan.md]] : Sign-Rank, Index, and List Replicability: Connections and Separations
-- [[raw/papers/2026-06-16_17-58-05Z_ReproRepo_ScalingReproducibilityAuditswithGitHubRe.md]] : ReproRepo: Scaling Reproducibility Audits with GitHub Repository Issues
-- [[raw/papers/2026-06-16_17-47-47Z_Finite_TimeQueuePeakLawsinStochasticNetworks_Logar.md]] : Finite-Time Queue Peak Laws in Stochastic Networks: Logarithmic Scaling After Geometric Thresholds
-- [[raw/papers/2026-06-16_17-59-03Z_Variable_WidthTransformers.md]] : Variable-Width Transformers
-- [[raw/papers/2026-06-16_17-56-03Z_AdaptiveVolumetricMechanicalPropertyFieldsInvarian.md]] : Adaptive Volumetric Mechanical Property Fields Invariant to Resolution
-- [[raw/papers/2026-06-16_17-49-15Z_DarshanaGraph_AParallelCommentaryCorpusforComparat.md]] : Darshana Graph: A Parallel Commentary Corpus for Comparative Indian Philosophy, with Stylometric and Exploratory Graph Analyses
-- [[raw/papers/2026-06-16_17-59-04Z_VisualVerificationEnablesInference_timeSteeringand.md]] : Visual Verification Enables Inference-time Steering and Autonomous Policy Improvement
-- [[raw/papers/2026-06-16_17-50-41Z_LearningRedAgentPolicyfromObservationsforNeurosymb.md]] : Learning Red Agent Policy from Observations for Neurosymbolic Autonomous Cyber Agents
-- [[raw/papers/2026-06-16_17-46-02Z_ZoneofProximalPolicyOptimization_TeacherinPrompts_.md]] : Zone of Proximal Policy Optimization: Teacher in Prompts, Not Gradients
-- [[raw/papers/2026-06-16_17-56-57Z_EvolveNav_ProactivePreflectionandSelf_EvolvingMemo.md]] : EvolveNav: Proactive Preflection and Self-Evolving Memory for Zero-Shot Object Goal Navigation
-- [[raw/papers/2026-06-15_17-52-27Z_DEEPRUBRIC_Evidence_TreeRubricSupervisionforEffici.md]] : DEEPRUBRIC: Evidence-Tree Rubric Supervision for Efficient Reinforcement Learning of Deep Research Agents
-- [[raw/papers/2026-06-15_17-58-03Z_GeometricActionModelforRobotPolicyLearning.md]] : Geometric Action Model for Robot Policy Learning
 - [[raw/papers/2026-06-15_17-53-09Z_KVEraser_LearningtoSteerKVCacheforEfficientLocaliz.md]] : KVEraser: Learning to Steer KV Cache for Efficient Localized Context Erasing
 - [[raw/papers/2026-06-15_17-53-12Z_YourPrivacyMyCloak_BackdoorAttacksonDifferentially.md]] : Your Privacy My Cloak: Backdoor Attacks on Differentially Private Federated Learning
 - [[raw/papers/2026-06-15_17-56-41Z_BenchmarkingLLMAgentsonMeta_AnalysisArticlesfromNa.md]] : Benchmarking LLM Agents on Meta-Analysis Articles from Nature Portfolio
-- [[raw/papers/2026-06-15_17-58-22Z_ExactPosteriorScoreEstimationforSolvingLinearInver.md]] : Exact Posterior Score Estimation for Solving Linear Inverse Problems
-- [[raw/papers/2026-06-15_17-57-14Z_HierarchicalAdvantageWeightingforOnlineRLFine_Tuni.md]] : Hierarchical Advantage Weighting for Online RL Fine-Tuning of VLAs from Sparse Episode Outcomes
 - [[raw/papers/2026-06-15_17-59-28Z_Context_AwareRLforAgenticandMultimodalLLMs.md]] : Context-Aware RL for Agentic and Multimodal LLMs
-- [[raw/papers/2026-06-15_17-59-58Z_TheValueAxis_LanguageModelsEncodeWhetherThey_reont.md]] : The Value Axis: Language Models Encode Whether They're on the Right Track
 - [[raw/papers/2026-06-15_17-54-52Z_TheImportanceofPhaseinNeuralRepresentations_AnInte.md]] : The Importance of Phase in Neural Representations: An Internal Oppenheim-Lim Test of Image Classifiers
-- [[raw/papers/2026-06-14_13-39-09Z_TheTruthStaysintheFamily_EnhancingContextualGround.md]] : The Truth Stays in the Family: Enhancing Contextual Grounding via Inherited Truthful Heads in Model Lineages
-- [[raw/papers/2026-06-14_13-34-10Z_OnDefiningErasureHarmsforNLP.md]] : On Defining Erasure Harms for NLP
-- [[raw/papers/2026-06-14_13-17-58Z_Mean_FieldParallelDecodingforDiscreteDiffusionLang.md]] : Mean-Field Parallel Decoding for Discrete Diffusion Language Models
-- [[raw/papers/2026-06-14_13-19-45Z_ContinuousCross_DomainTrafficStatePredictionviaMem.md]] : Continuous Cross-Domain Traffic State Prediction via Memory-Augmented Graph Liquid Time-Constant Networks
 - [[raw/papers/2026-06-14_13-23-48Z_LetThemSteal_TrappingLargeLanguageModelExtractionA.md]] : Let Them Steal: Trapping Large Language Model Extraction Attacks with Knowledge Honeypot
-- [[raw/papers/2026-06-14_13-02-44Z_DifFRACT_DiffusionFeatureReconstructionandAttribut.md]] : DifFRACT: Diffusion Feature Reconstruction and Attribution for Circuit Tracing
-- [[raw/papers/2026-06-14_13-04-03Z_UnassignedAgentsinCompilation_basedMulti_agentPath.md]] : Unassigned Agents in Compilation-based Multi-agent Path Finding
-- [[raw/papers/2026-06-14_13-39-00Z_SACE_ConceptErasureattheSemanticSingularityinVisua.md]] : SACE: Concept Erasure at the Semantic Singularity in Visual Autoregressive Models
-- [[raw/papers/2026-06-14_13-27-28Z_BrownianKernelLadders.md]] : Brownian Kernel Ladders
-- [[raw/papers/2026-06-14_13-39-56Z_TrustedARI_TowardsTrust_NativeAgenticRoutingInfras.md]] : TrustedARI: Towards Trust-Native Agentic Routing Infrastructure for Agentic AI
-- [[raw/papers/2026-06-12_17-56-25Z_AdaSR_AdaptiveStreamingReasoningwithHierarchicalRe.md]] : AdaSR: Adaptive Streaming Reasoning with Hierarchical Relative Policy Optimization
-- [[raw/papers/2026-06-12_17-52-24Z_FloodandHarvest_TheProvableNecessityofTriviaforGen.md]] : Flood and Harvest: The Provable Necessity of Trivia for Generating Valuable Mathematics via the Lens of Language Generation in the Limit
-- [[raw/papers/2026-06-12_17-50-23Z_CottonLeafVision_AnExplainableandRobustDeepLearnin.md]] : CottonLeafVision: An Explainable and Robust Deep Learning Framework for Cotton Leaf Disease Classification
 - [[raw/papers/2026-06-12_17-58-08Z_Persona_Pruner_SculptingLightweightModelsforRole_P.md]] : Persona-Pruner: Sculpting Lightweight Models for Role-Playing
-- [[raw/papers/2026-06-12_17-54-26Z_AComplexityMeasureforActiveLearninginMulti_groupMe.md]] : A Complexity Measure for Active Learning in Multi-group Mean Estimation
-- [[raw/papers/2026-06-12_17-48-27Z_HumP_KD_AHybridUncertainty_AwareMulti_StageProgres.md]] : HumP-KD: A Hybrid Uncertainty-Aware Multi-Stage Progressive Knowledge Distillation Framework for Efficient Fire Classification
-- [[raw/papers/2026-06-12_17-54-59Z_CORA_Analyzingandbridgingthinking_answergapinMulti.md]] : CORA: Analyzing and bridging thinking-answer gap in Multimodal RLVR via Consistency-Oriented Reasoning Alignment
-- [[raw/papers/2026-06-12_17-58-38Z_ClinHallu_ABenchmarkforDiagnosingStage_WiseHalluci.md]] : ClinHallu: A Benchmark for Diagnosing Stage-Wise Hallucinations in Medical MLLM Reasoning
-- [[raw/papers/2026-06-12_17-55-28Z_LearningCoordinatedPreferenceforMulti_ObjectiveMul.md]] : Learning Coordinated Preference for Multi-Objective Multi-Agent Reinforcement Learning
 - [[raw/papers/2026-06-12_17-59-57Z_GazeHeads_HowVLMsLookatWhatTheyDescribe.md]] : Gaze Heads: How VLMs Look at What They Describe
 - [[raw/papers/2026-06-11_17-58-35Z_Agents_K1_TowardsAgent_nativeKnowledgeOrchestratio.md]] : Agents-K1: Towards Agent-native Knowledge Orchestration
 - [[raw/papers/2026-06-11_17-59-36Z_SpatialClaw_RethinkingActionInterfaceforAgenticSpa.md]] : SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning
 - [[raw/papers/2026-06-11_17-56-35Z_EurekAgent_AgentEnvironmentEngineeringisAllYouNeed.md]] : EurekAgent: Agent Environment Engineering is All You Need For Autonomous Scientific Discovery
 - [[raw/papers/2026-06-11_17-59-52Z_LearningtoReasonbyAnalogyviaRetrieval_AugmentedRei.md]] : Learning to Reason by Analogy via Retrieval-Augmented Reinforcement Fine-Tuning
-- [[raw/papers/2026-06-11_17-58-36Z_Automatedreproducibilityassessmentsinthesocialandb.md]] : Automated reproducibility assessments in the social and behavioral sciences using large language models
-- [[raw/papers/2026-06-11_17-58-56Z_UnderstandingTruncatedPositionalEncodingsforGraphN.md]] : Understanding Truncated Positional Encodings for Graph Neural Networks
 - [[raw/papers/2026-06-11_17-56-36Z_HyperTool_BeyondStep_WiseToolCallsforTool_Augmente.md]] : HyperTool: Beyond Step-Wise Tool Calls for Tool-Augmented Agents
-- [[raw/papers/2026-06-11_17-59-49Z_Mana_DexterousManipulationofArticulatedTools.md]] : Mana: Dexterous Manipulation of Articulated Tools
 - [[raw/papers/2026-06-11_17-59-59Z_EvoArena_TrackingMemoryEvolutionforRobustLLMAgents.md]] : EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments
-- [[raw/papers/2026-06-11_17-58-33Z_Influcoder_DistillingDecoders_GradientInfluenceRan.md]] : Influcoder: Distilling Decoders' Gradient Influence Rankings into an Encoder for Data Attribution
-- [[raw/papers/2026-06-11_15-16-42Z_ReinforcementLearningforNeuralModelEditing.md]] : Reinforcement Learning for Neural Model Editing
-- [[raw/papers/2026-06-11_15-29-56Z_SupraBench_ABenchmarkforSupramolecularChemistry.md]] : SupraBench: A Benchmark for Supramolecular Chemistry
 - [[raw/papers/2026-06-11_15-09-32Z_TowardInstructions_as_Code_UnderstandingtheImpacto.md]] : Toward Instructions-as-Code: Understanding the Impact of Instruction Files on Agentic Pull Requests
-- [[raw/papers/2026-06-11_15-11-12Z_UncertaintyEstimationforMolecularDiffusionModels.md]] : Uncertainty Estimation for Molecular Diffusion Models
 - [[raw/papers/2026-06-11_15-19-36Z_UnderstandingtheRejectionofFixesGeneratedbyAgentic.md]] : Understanding the Rejection of Fixes Generated by Agentic Pull Requests -- Insights from the AIDev Dataset
-- [[raw/papers/2026-06-11_15-12-05Z_OpticalImplementationofEquilibriumPropagationUsing.md]] : Optical Implementation of Equilibrium Propagation Using Spatial Photonic Ising Machines
-- [[raw/papers/2026-06-11_15-36-14Z_CRAFTIIF_Cross_ResolutionAnalyticFour_TypeInterpre.md]] : CRAFTIIF: Cross-Resolution Analytic Four-Type Interpretable Isolation Forest for Multivariate Time Series Anomaly Detection
-- [[raw/papers/2026-06-11_15-27-06Z_MaxProof_ScalingMathematicalProofwithGenerative_Ve.md]] : MaxProof: Scaling Mathematical Proof with Generative-Verifier RL and Population-Level Test-Time Scaling
-- [[raw/papers/2026-06-11_15-18-32Z_OntologyMemory_AugmentedASRCorrectionforLongText_S.md]] : Ontology Memory-Augmented ASR Correction for Long Text-Speech Interleaved Conversations
 - [[raw/papers/2026-06-11_15-11-24Z_ExaminingtheCognitiveGapBetweenAuthorsandPeerRevie.md]] : Examining the Cognitive Gap Between Authors and Peer Reviewers on Academic Paper Novelty
-- [[raw/papers/2026-06-10_17-58-20Z_Doc_to_Atom_LearningtoCompileandComposeMemoryAtoms.md]] : Doc-to-Atom: Learning to Compile and Compose Memory Atoms
 - [[raw/papers/2026-06-10_17-47-59Z_WhichModelsAreOurModelsBuiltOn_AuditingInvisibleDe.md]] : Which Models Are Our Models Built On? Auditing Invisible Dependencies in Modern LLMs
 - [[raw/papers/2026-06-10_17-52-03Z_ATLAS_ActiveTheoryLearningforAutomatedScience.md]] : ATLAS: Active Theory Learning for Automated Science
-- [[raw/papers/2026-06-10_17-59-54Z_Context_DrivenIncrementalCompressionforMulti_TurnD.md]] : Context-Driven Incremental Compression for Multi-Turn Dialogue Generation
-- [[raw/papers/2026-06-10_17-54-32Z_SystemReportforCCL25_EvalTask5_NewDatasetandLoRA_F.md]] : System Report for CCL25-Eval Task 5: New Dataset and LoRA-Fine-Tuned Qwen2.5
-- [[raw/papers/2026-06-10_17-52-15Z_TAHOE_Text_to_SQLwithAutomatedHintOptimizationfrom.md]] : TAHOE: Text-to-SQL with Automated Hint Optimization from Experience
 - [[raw/papers/2026-06-10_17-57-36Z_RedesignMixture_of_ExpertsRouterswithManifoldPower.md]] : Redesign Mixture-of-Experts Routers with Manifold Power Iteration
-- [[raw/papers/2026-06-10_17-59-35Z_FACTR2_LearningExternalForceSensingforCommodityRob.md]] : FACTR 2: Learning External Force Sensing for Commodity Robot Arms Improves Policy Learning
-- [[raw/papers/2026-06-10_17-59-57Z_Reroute_Don_tRemove_RecoverableVisualTokenRoutingf.md]] : Reroute, Don't Remove: Recoverable Visual Token Routing for Vision-Language Models
-- [[raw/papers/2026-06-10_17-58-49Z_DIRECT_WhenandWhereShouldYouAllocateTest_TimeCompu.md]] : DIRECT: When and Where Should You Allocate Test-Time Compute in Embodied Planners?
-- [[raw/papers/2026-06-10_14-17-08Z_ARiemannianApproachtoLow_RankOptimalTransport.md]] : A Riemannian Approach to Low-Rank Optimal Transport
 - [[raw/papers/2026-06-10_14-38-23Z_TowardsResponsiblyNon_CompliantMachines.md]] : Towards Responsibly Non-Compliant Machines
-- [[raw/papers/2026-06-10_14-00-55Z_MSUE_Multi_ModalSoccerUnderstandingExpert.md]] : MSUE: Multi-Modal Soccer Understanding Expert
-- [[raw/papers/2026-06-10_14-03-52Z_BridgingtheMorphologyGap_AdaptingVLAModelstoDexter.md]] : Bridging the Morphology Gap: Adapting VLA Models to Dexterous Manipulation via Intent-Conditioned Fine-Tuning
-- [[raw/papers/2026-06-10_14-07-41Z_DetectingSensitivePersonalInformationinJapanesePre.md]] : Detecting Sensitive Personal Information in Japanese Pre-Training Corpora for Large Language Models
-- [[raw/papers/2026-06-10_14-07-18Z_AugmentingMolecularLanguageModelswithLocal_n__gram.md]] : Augmenting Molecular Language Models with Local $n$-gram Memory
-- [[raw/papers/2026-06-10_14-32-57Z_UnstableFeatures_ReproducibleSubspaces_Understandi.md]] : Unstable Features, Reproducible Subspaces: Understanding Seed Dependence in Sparse Autoencoders
-- [[raw/papers/2026-06-10_14-38-00Z_nD_RoPE_AGeneralizedRoPEforn_DimensionalPositionEm.md]] : nD-RoPE: A Generalized RoPE for n-Dimensional Position Embedding
-- [[raw/papers/2026-06-10_14-12-19Z_Soft_PromptTuningforFairandEfficientLLMBenchmarkEv.md]] : Soft-Prompt Tuning for Fair and Efficient LLM Benchmark Evaluation
-- [[raw/papers/2026-06-10_14-34-13Z_PCA_EnhancedAdaptiveNVARFrameworkforHigh_Resolutio.md]] : PCA-Enhanced Adaptive NVAR Framework for High-Resolution Sea Surface Temperature Forecasting in the East Sea
-- [[raw/papers/2026-06-09_17-48-41Z_Piper_AProgrammableDistributedTrainingSystem.md]] : Piper: A Programmable Distributed Training System
 - [[raw/papers/2026-06-09_17-49-24Z_PredictingFutureBehaviorsinReasoningModelsEnablesB.md]] : Predicting Future Behaviors in Reasoning Models Enables Better Steering
-- [[raw/papers/2026-06-09_17-49-09Z_AlgorithmicandMinimaxComplexitiesinKernelBandits.md]] : Algorithmic and Minimax Complexities in Kernel Bandits
-- [[raw/papers/2026-06-09_17-51-55Z_DataJournalistAgent_TransformingDataintoVerifiable.md]] : Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories
-- [[raw/papers/2026-06-09_17-59-58Z_WhentoAlign_WhentoPredict_APhaseDiagramforMultimod.md]] : When to Align, When to Predict: A Phase Diagram for Multimodal Learning
-- [[raw/papers/2026-06-09_17-46-55Z_Multi_FacetedInteractivityAlignmentinFull_DuplexSp.md]] : Multi-Faceted Interactivity Alignment in Full-Duplex Speech Models
 - [[raw/papers/2026-06-09_17-57-16Z_EEVEE_TowardsTest_timePromptLearningintheRealWorld.md]] : EEVEE: Towards Test-time Prompt Learning in the Real World for Self-Improving Agents
-- [[raw/papers/2026-06-09_17-59-54Z_AUnifyingLensonSupervisedFine_TuningThroughTargetD.md]] : A Unifying Lens on Supervised Fine-Tuning Through Target Distribution Design
 - [[raw/papers/2026-06-09_17-50-09Z_TheRoleofFeedbackAlignmentinSelf_Distillation.md]] : The Role of Feedback Alignment in Self-Distillation
 - [[raw/papers/2026-06-09_17-46-10Z_FlawsintheLLMAutomationNarrative.md]] : Flaws in the LLM Automation Narrative
 - [[raw/papers/2026-06-08_17-59-43Z_OmniGameArena_AUnifiedUE5BenchmarkforVLMGameAgents.md]] : OmniGameArena: A Unified UE5 Benchmark for VLM Game Agents with Improvement Dynamics
-- [[raw/papers/2026-06-08_17-58-23Z_RethinkingtheDivergenceRegularizationinLLMRL.md]] : Rethinking the Divergence Regularization in LLM RL
-- [[raw/papers/2026-06-08_17-58-36Z_CausallyEvaluatingtheLearnabilityofFormalLanguageT.md]] : Causally Evaluating the Learnability of Formal Language Tasks
-- [[raw/papers/2026-06-08_17-54-33Z_TopologicalNeuralOperators.md]] : Topological Neural Operators
-- [[raw/papers/2026-06-08_17-55-02Z_EvaluationCards_AnInterpretiveLayerforAIEvaluation.md]] : Evaluation Cards: An Interpretive Layer for AI Evaluation Reporting
-- [[raw/papers/2026-06-08_17-56-16Z_PTL_Diffusion_Manifold_AwareDiffusionwithPeriodicT.md]] : PTL-Diffusion: Manifold-Aware Diffusion with Periodic Terminal Laws
-- [[raw/papers/2026-06-08_17-57-40Z_Weighteduniversalapproximationofdifferentiablemaps.md]] : Weighted universal approximation of differentiable maps on infinite-dimensional manifolds
-- [[raw/papers/2026-06-08_17-54-10Z_Echo_Memory_AControlledStudyofMemoryinActionWorldM.md]] : Echo-Memory: A Controlled Study of Memory in Action World Models
-- [[raw/papers/2026-06-08_17-55-18Z_AHA_WAM_AsynchronousHorizon_AdaptiveWorld_ActionMo.md]] : AHA-WAM:Asynchronous Horizon-Adaptive World-Action Modeling with Observation-Guided Context Routing
-- [[raw/papers/2026-06-08_17-59-39Z_AnAgency_TransferringModel_FreePolicyEnhancementTe.md]] : An Agency-Transferring Model-Free Policy Enhancement Technique
 - [[entities/article/2026-07-09_Repowise_Codebase_Intelligence_for_AI_Agents_summary.md|Summary: Repowise - Codebase Intelligence for AI Agents and Humans]] — summary of repowise platform
 - [[raw/summaries/SUMMARY_2026-04-29_Machine_Learning_Architecture__What_It_Is__Compone.md]] : Machine Learning Architecture: What It Is, Components & Types (June 8)
-- [[raw/articles/2026-06-10_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[raw/articles/2026-06-10_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-10_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-06-11_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[raw/articles/2026-06-11_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-06-11_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[raw/articles/2026-06-11_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[raw/articles/2026-06-11_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-11_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[raw/articles/2026-06-11_GenerativeAI.md]] : Generative AI
-- [[raw/articles/2026-06-11_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[raw/articles/2026-06-12_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[raw/articles/2026-06-12_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-12_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[raw/articles/2026-06-12_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[raw/articles/2026-06-12_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-06-12_GenerativeAI.md]] : Generative AI
-- [[raw/articles/2026-06-12_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[raw/articles/2026-06-12_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-06-12_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[raw/articles/2026-06-12_WhatisMLArchitecture.md]] : What is ML Architecture
-- [[raw/articles/2026-06-12_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[raw/articles/2026-06-13_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[raw/articles/2026-06-13_GenerativeAI.md]] : Generative AI
-- [[raw/articles/2026-06-13_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-13_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[raw/articles/2026-06-13_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-06-13_WhatisMLArchitecture.md]] : What is ML Architecture
-- [[raw/articles/2026-06-13_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-06-13_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-06-10_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[entities/article/2026-06-10_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-06-10_TheArchitectureofMachineLearningSystems_AComprehen_summary.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[entities/article/2026-06-11_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-06-11_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-06-11_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[entities/article/2026-06-11_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-06-11_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-06-11_TheArchitectureofMachineLearningSystems_AComprehen_summary.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[entities/article/2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-06-11_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-06-12_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-06-12_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-06-12_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-06-12_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-06-12_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-06-12_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[entities/article/2026-06-12_TheArchitectureofMachineLearningSystems_AComprehen_summary.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[entities/article/2026-06-12_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-06-12_WhatisMLArchitecture_summary.md]] : What is ML Architecture
+- [[entities/article/2026-06-12_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-06-13_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-06-13_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[entities/article/2026-06-13_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-06-13_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-06-13_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-06-13_WhatisMLArchitecture_summary.md]] : What is ML Architecture
+- [[entities/article/2026-06-13_TheArchitectureofMachineLearningSystems_AComprehen_summary.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[entities/article/2026-06-13_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
 - [[entities/article/2026-06-09_LoopEngineering_AI_Coding_Agents_summary.md]] : "Loop Engineering: The New Meta for AI Coding Agents"
-- [[raw/articles/2026-06-13_OpenNotebook_Open_Source_Notebook_LM.md]] : "Open Notebook — Open Source Notebook LM Alternative"
-- [[raw/articles/2026-06-14_GenerativeAI.md]] : Generative AI
-- [[raw/articles/2026-06-14_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[raw/articles/2026-06-14_WhatisMLArchitecture.md]] : What is ML Architecture
-- [[raw/articles/2026-06-14_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-06-14_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-14_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[raw/articles/2026-06-14_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[raw/articles/2026-06-14_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[raw/articles/2026-06-14_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-06-14_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-06-14_TopMachineLearningArchitecturesExplained_BMCSoftwa.md]] : Top Machine Learning Architectures Explained – BMC Software | Blogs
-- [[raw/articles/2026-06-14_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[raw/articles/2026-06-15_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[raw/articles/2026-06-15_TopMachineLearningArchitecturesExplained_BMCSoftwa.md]] : Top Machine Learning Architectures Explained – BMC Software | Blogs
-- [[raw/articles/2026-06-15_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[raw/articles/2026-06-15_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-15_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[raw/articles/2026-06-15_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[raw/articles/2026-06-15_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-06-15_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[raw/articles/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-06-15_GenerativeAI.md]] : Generative AI
-- [[raw/articles/2026-06-15_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-06-16_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-06-16_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[raw/articles/2026-06-16_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-16_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-06-16_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-06-16_GenerativeAI.md]] : Generative AI
-- [[raw/articles/2026-06-16_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[raw/articles/2026-06-16_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[raw/articles/2026-06-16_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[raw/articles/2026-06-16_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[raw/articles/2026-06-17_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-17_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[raw/articles/2026-06-17_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-06-17_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[raw/articles/2026-06-17_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[raw/articles/2026-06-17_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[raw/articles/2026-06-17_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-06-17_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
-- [[raw/articles/2026-06-17_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
-- [[raw/articles/2026-06-18_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[raw/articles/2026-06-18_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[raw/articles/2026-06-18_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[raw/articles/2026-06-18_AIUpdatesToday_June2026__LatestAIModelReleases.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
-- [[raw/articles/2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
-- [[raw/articles/2026-06-18_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[raw/articles/2026-06-18_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[raw/articles/2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
-- [[raw/articles/2026-06-18_Thebestlargelanguagemodels_LLMs_in2026.md]] : The best large language models (LLMs) in 2026
-- [[2026-06-30_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-06-30_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-06-30_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-06-30_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-06-30_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-06-30_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-06-30_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-06-30_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-01_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-01_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-01_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-01_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-01_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-01_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-01_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-01_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-01_GenerativeAI.md]] : Generative AI
-- [[2026-07-02_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-02_GenerativeAI.md]] : Generative AI
-- [[2026-07-02_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-02_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-02_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-02_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-02_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-02_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-02_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-03_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-03_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-03_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-03_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-03_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-03_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-03_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-03_GenerativeAI.md]] : Generative AI
-- [[2026-07-04_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-04_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-04_GenerativeAI.md]] : Generative AI
-- [[2026-07-04_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-04_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-04_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-04_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-04_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-05_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-05_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-05_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-05_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-05_GenerativeAI.md]] : Generative AI
-- [[2026-07-05_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-05_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-05_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-06_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-06_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-06_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-06_GenerativeAI.md]] : Generative AI
-- [[2026-07-06_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-06_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-06_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-06_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-06_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-07_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-07_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-07_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-07_GenerativeAI.md]] : Generative AI
-- [[2026-07-07_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-07_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-07_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-07_Deeplearningarchitectures.md]] : Deep learning architectures
+- [[entities/article/2026-06-13_OpenNotebook_Open_Source_Notebook_LM_summary.md]] : "Open Notebook — Open Source Notebook LM Alternative"
+- [[entities/article/2026-06-14_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-06-14_WhatisMLArchitecture_summary.md]] : What is ML Architecture
+- [[entities/article/2026-06-14_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-06-14_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-06-14_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-06-14_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[entities/article/2026-06-14_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-06-14_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-06-14_TheArchitectureofMachineLearningSystems_AComprehen_summary.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[entities/article/2026-06-14_TopMachineLearningArchitecturesExplained_BMCSoftwa_summary.md]] : Top Machine Learning Architectures Explained – BMC Software | Blogs
+- [[entities/article/2026-06-14_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-06-15_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-06-15_TopMachineLearningArchitecturesExplained_BMCSoftwa_summary.md]] : Top Machine Learning Architectures Explained – BMC Software | Blogs
+- [[entities/article/2026-06-15_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-06-15_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-06-15_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[entities/article/2026-06-15_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-06-15_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-06-15_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-06-15_TheArchitectureofMachineLearningSystems_AComprehen_summary.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[entities/article/2026-06-15_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-06-16_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-06-16_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-06-16_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-06-16_TheArchitectureofMachineLearningSystems_AComprehen_summary.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[entities/article/2026-06-16_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-06-16_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-06-16_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-06-16_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[entities/article/2026-06-16_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-06-17_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-06-17_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[entities/article/2026-06-17_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-06-17_TheArchitectureofMachineLearningSystems_AComprehen_summary.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[entities/article/2026-06-17_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-06-17_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-06-17_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-06-17_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-06-17_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass_summary.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
+- [[entities/article/2026-06-17_Thebestlargelanguagemodels_LLMs_in2026_summary.md]] : The best large language models (LLMs) in 2026
+- [[entities/article/2026-06-18_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-06-18_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-06-18_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-06-18_AIUpdatesToday_June2026__LatestAIModelReleases_summary.md]] : AI Updates Today (June 2026) – Latest AI Model Releases
+- [[entities/article/2026-06-18_TheArchitectureofMachineLearningSystems_AComprehen_summary.md]] : The Architecture of Machine Learning Systems: A Comprehensive Guide — Part 1 | by Rijul Dahiya | Medium
+- [[entities/article/2026-06-18_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-06-18_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass_summary.md]] : What does the future hold for generative AI? | MIT News | Massachusetts Institute of Technology
+- [[entities/article/2026-06-18_Thebestlargelanguagemodels_LLMs_in2026_summary.md]] : The best large language models (LLMs) in 2026
+- [[entities/article/2026-06-30_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-06-30_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-06-30_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-06-30_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-06-30_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-06-30_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-06-30_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-06-30_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-01_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-01_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-01_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-01_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-01_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-01_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-01_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-01_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-02_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-02_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-02_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-02_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-02_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-02_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-02_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-02_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-03_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-03_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-03_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-03_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-03_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-03_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-03_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-04_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-04_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-04_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-04_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-04_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-04_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-04_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-05_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-05_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-05_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-05_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-05_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-05_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-05_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-06_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-06_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-06_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-06_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-06_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-06_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-06_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-06_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-07_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-07_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-07_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-07_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-07_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-07_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-07_Deeplearningarchitectures_summary.md]] : Deep learning architectures
 
 ## Entities
 - [[entities/article/2026-07-01_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : 2026 07 01_Artificialintelligencenews  Sciencedaily_Summary
@@ -1526,1542 +1337,1538 @@ tags: ['wiki']
 - [[entities/article/2026-07-07_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : 
 - [[entities/article/2026-07-07_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Components Ty
 - [[entities/article/2026-07-07_Top7opensourceLLMsfor2026_summary.md]] : 2026 07 07_Top7Opensourcellmsfor2026_Summary
-- [[2026-07-07_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-07_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-08_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-08_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-08_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-08_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-08_GenerativeAI.md]] : Generative AI
-- [[2026-07-08_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-08_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-08_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-08_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-07_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-07_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-08_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-08_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-08_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-08_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-08_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-08_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-08_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-08_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
 - [[entities/article/2026-07-08_Research_AI_Is_Changing_What_Employers_Want_From_New_Hires_summary.md|Research: AI Is Changing What Employers Want from New Hires]] : Research: AI Is Changing What Employers Want from New Hires
-- [[2026-07-08_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-09_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-09_GenerativeAI.md]] : Generative AI
-- [[2026-07-09_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-09_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-09_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-09_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-09_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-09_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-09_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-09_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-09_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-07-09_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
-- [[2026-07-10_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-10_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-10_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-10_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-10_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-10_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-10_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-10_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-10_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-07-10_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
-- [[2026-07-11_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-11_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-11_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-11_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-11_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-11_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
-- [[2026-07-11_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-11_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-07-11_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-12_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-12_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-12_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-12_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-12_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-12_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-12_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-12_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-12_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
-- [[2026-07-12_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
-- [[2026-07-13_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-13_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-13_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-13_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-13_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-13_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-13_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-13_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-13_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
-- [[2026-07-13_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-14_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-14_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-14_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-14_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-14_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-14_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-14_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-14_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
-- [[2026-07-14_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-14_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-15_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-15_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-15_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-15_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-15_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-15_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-15_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-15_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
-- [[2026-07-15_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-15_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-16_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-16_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-16_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-16_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-16_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-16_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-16_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-16_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-16_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
-- [[2026-07-16_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-16_TheBestLargeLanguageModels_LLMs_in2026.md]] : The Best Large Language Models (LLMs) in 2026
-- [[2026-07-16_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
-- [[2026-07-17_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-17_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-17_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
-- [[2026-07-17_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-17_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
-- [[2026-07-17_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-17_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-17_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-17_TheBestLargeLanguageModels_LLMs_in2026.md]] : The Best Large Language Models (LLMs) in 2026
-- [[2026-07-17_ArtificialIntelligenceNews--ScienceDaily.md]] : Artificial Intelligence News -- ScienceDaily
-- [[2026-07-17_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-17_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
-- [[2026-07-18_Deeplearningarchitectures.md]] : Deep learning architectures
-- [[2026-07-18_GenerativeAInewsandanalysis_TechCrunch.md]] : Generative AI news and analysis | TechCrunch
-- [[2026-07-18_MachineLearningArchitecture_WhatItIs_Components_Ty.md]] : Machine Learning Architecture: What It Is, Components & Types
-- [[2026-07-18_GenerativeAIrecentnews_AIBusiness.md]] : Generative AI recent news | AI Business
-- [[2026-07-18_Top7opensourceLLMsfor2026.md]] : Top 7 open source LLMs for 2026
-- [[2026-07-18_AIBreakthrough-AIBreakthroughAwards.md]] : AI Breakthrough - AI Breakthrough Awards
-- [[2026-07-18_NineBreakthroughsMadePossiblebyAI.md]] : Nine Breakthroughs Made Possible by AI
-- [[2026-07-18_NewAIModels2026-LatestReleases_LMMarketCap.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
-- [[2026-07-18_AIUpdatesToday_July2026__LatestAIModelReleases.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
-- [[2026-07-22_Invitinghardquestions.md]] : Inviting hard questions
-- [[2026-07-22_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
-- [[2026-07-22_BuildingAIinfrastructurewiththeEffinghamCountycomm.md]] : Building AI infrastructure with the Effingham County community
-- [[2026-07-23_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
-- [[2026-07-23_TheAIcomputegap_Enterprisesarebuyinginfrastructure.md]] : The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs
-- [[2026-07-22_Here__8217_swhatSamsung__8217_ssmartglassesactuall.md]] : Here&#8217;s what Samsung&#8217;s smart glasses actually look like
-- [[2026-07-23_git_s_end-of-optionsFlag.md]] : git's –end-of-options Flag
-- [[2026-07-23_Aftershockingquarter_IBMinsiststhatAIisn_tkillingt.md]] : After shocking quarter, IBM insists that AI isn’t killing the mainframe
-- [[2026-07-22_TerenceTao_sChatGPTconversationabouttheJacobianCon.md]] : Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample
-- [[2026-07-23_BuildingAIinfrastructurewiththeEffinghamCountycomm.md]] : Building AI infrastructure with the Effingham County community
-- [[2026-07-23_Invitinghardquestions.md]] : Inviting hard questions
-- [[2026-07-23_ServiceNowbets_40milliononIndianbankingsoftwarespe.md]] : ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push
-- [[2026-07-23_EscapeIntelliJ_ScalaandKotlinLSPsonEmacsEglot.md]] : Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot
-- [[2026-07-23_ExpertssayexploitingAnthropic_sFableisn_thowKimiK3.md]] : Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good
-- [[2026-07-23_Codemodeyieldsa99_2_costreductioninoursystems.md]] : Code mode yields a 99.2% cost reduction in our systems
-- [[2026-07-23_Theright-wingboomersprotestingdatacentershavealoti.md]] : The right-wing boomers protesting data centers have a lot in common with the left
-- [[2026-07-23_UnderstandingtheAIEconomy.md]] : Understanding the AI Economy
-- [[2026-07-23_Apple_sOpenAIlawsuitisaboutwhogetstodefinethepost-.md]] : Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era
-- [[2026-07-23_OpenAIandAnthropicuniteagainstopen-weightAIrisksto.md]] : OpenAI and Anthropic unite against open-weight AI risks to their bottom line
-- [[2026-07-23_LawmakerspreparebillrequiringAI_killswitch_.md]] : Lawmakers prepare bill requiring AI ‘kill switch’
-- [[2026-07-23_AIchipstartupEtcheddefiesskeptics_hits_10_3Bvaluat.md]] : AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors
-- [[2026-07-23_Astronomersmayhavefoundthefirstexomoon.md]] : Astronomers may have found the first exomoon
-- [[2026-07-23_OpenAImakesChatGPTHealthavailabletoallU_S_users.md]] : OpenAI makes ChatGPT Health available to all U.S. users
-- [[2026-07-23_OpenAIismakingbigclaimsasitrollsoutChatGPTHealthto.md]] : OpenAI is making big claims as it rolls out ChatGPT Health to everyone
-- [[2026-07-23_RunwaylaunchesAImodelrouterasgenerativemediagetscr.md]] : Runway launches AI model router as generative media gets crowded
-- [[2026-07-23_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-07-23_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
-- [[2026-07-23_AegisAI_foundedbyformerGooglesecurityexecs_lands_3.md]] : AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing
-- [[2026-07-23_Patreonislayingoff20percentofworkers.md]] : Patreon is laying off 20 percent of workers
-- [[2026-07-23_AnthropicupdatesClaudevoicemodewithmorecapablemode.md]] : Anthropic updates Claude voice mode with more capable models
-- [[2026-07-23_Claude_svoicemodeisnowavailableforOpusandSonnet.md]] : Claude’s voice mode is now available for Opus and Sonnet
-- [[2026-07-23_AMDtakesonNvidiawithitsHeliosAIrackscalesystem.md]] : AMD takes on Nvidia with its Helios AI rack scale system
-- [[2026-07-23_AlexaPlusisgettinganAIupdatetohandlemorecomplicate.md]] : Alexa Plus is getting an AI update to handle more complicated instructions
-- [[2026-07-23_AMDtakesonNvidiawithitsHeliosAIrack-scalesystem.md]] : AMD takes on Nvidia with its Helios AI rack-scale system
-- [[2026-07-23_Couplepay__800kforagene-editingtherapyfortheirdaug.md]] : Couple pay >$800k for a gene-editing therapy for their daughter. She died.
-- [[2026-07-23_98_css.md]] : 98.css
-- [[2026-07-23_HowAIguardrailsareimpedingtheworkofoffensivecybers.md]] : How AI guardrails are impeding the work of offensive cybersecurity researchers
-- [[2026-07-24_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
-- [[2026-07-24_AlexaPlusisgettinganAIupdatetohandlemorecomplicate.md]] : Alexa Plus is getting an AI update to handle more complicated instructions
-- [[2026-07-24_Invitinghardquestions.md]] : Inviting hard questions
-- [[2026-07-24_HowAIguardrailsareimpedingtheworkofoffensivecybers.md]] : How AI guardrails are impeding the work of offensive cybersecurity researchers
-- [[2026-07-24_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
-- [[2026-07-24_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-07-24_Flux3.md]] : Flux 3
-- [[2026-07-24_Flux3XMimic_TheNextGenerationofVideo-ActionModels.md]] : Flux 3 X Mimic: The Next Generation of Video-Action Models
-- [[2026-07-24_MysecuritycamerashippedaGitHubadmintokeninitslogin.md]] : My security camera shipped a GitHub admin token in its login page
-- [[2026-07-24_OpenAI_snewvoicemodemakesittotheChatGPTdesktopapp.md]] : OpenAI’s new voice mode makes it to the ChatGPT desktop app
-- [[2026-07-24_Thetech-broificationofAmericansciencehasofficially.md]] : The tech-broification of American science has officially begun
-- [[2026-07-24_AsUSweighsresponsetoChineseAI_industryurgesagainst.md]] : As US weighs response to Chinese AI, industry urges against broad open-weight restrictions
-- [[2026-07-24_AnthropicreleasesOpus5with_close_toFable5_scapabil.md]] : Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities
-- [[2026-07-24_AnthropiclaunchesOpus5.md]] : Anthropic launches Opus 5
-- [[2026-07-24_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-07-24_Youcan_tignoreGoogleZeroanymore.md]] : You can’t ignore Google Zero anymore
-- [[2026-07-24_WhyCognitionboughtPoke_AIpersonalityisbecomingacom.md]] : Why Cognition bought Poke: AI personality is becoming a competitive advantage
-- [[2026-07-24_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
-- [[2026-07-24_Prentis_newAIlabco-foundedbyReidHoffman_MarcPincus.md]] : Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M
-- [[2026-07-24_Prentis_newAIlabco-foundedbyReidHoffman_MarkPincus.md]] : Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
-- [[2026-07-24_ItriedoutOpenAI_snewAIkeypad_whichwillbefunforsome.md]] : I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
-- [[2026-07-25_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
-- [[2026-07-25_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
-- [[2026-07-25_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
-- [[2026-07-25_ItriedoutOpenAI_snewAIkeypad_whichwillbefunforsome.md]] : I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
-- [[2026-07-25_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-07-25_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-07-25_ARC-AGILeaderboard.md]] : ARC-AGI Leaderboard
-- [[2026-07-25_AndroidMaySoonRestrictOn-DeviceADB.md]] : Android May Soon Restrict On-Device ADB
-- [[2026-07-25_OnefallenpowerlineexposedagrowingAIdatacenterprobl.md]] : One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
-- [[2026-07-25_Librariansarehostingviral_AvoidingAI_workshopsforp.md]] : Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech
-- [[2026-07-25_Windturbineisbeingusedtoproducezero-carbon_greenam.md]] : Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer
-- [[2026-07-25_StolenButtons.md]] : Stolen Buttons
-- [[2026-07-25_A77-year-oldRepublicanmanisstagingasoloprotestagai.md]] : A 77-year-old Republican man is staging a solo protest against Flock cameras
-- [[2026-07-25_DidTheyGhostYou_.md]] : Did They Ghost You?
-- [[2026-07-25_DeepSeekpausefundraiseaftercommentsoncomputegaptoU.md]] : DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]
-- [[2026-07-25_Monday_comisthelatesttechcompanytoblameAIforlayoff.md]] : Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
-- [[2026-07-25_SystemsandDelays.md]] : Systems and Delays
-- [[2026-07-26_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
-- [[2026-07-26_Monday_comisthelatesttechcompanytoblameAIforlayoff.md]] : Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
-- [[2026-07-26_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
-- [[2026-07-26_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-07-26_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-07-26_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
-- [[2026-07-26_ParkbyRobotatLondonGatwickAirport.md]] : Park by Robot at London Gatwick Airport
-- [[2026-07-26_HuggingFaceCEOcallsfor_radicaltransparency_after_u.md]] : Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack
-- [[2026-07-26_LondonGatwickhaslaunchedaroboticairportparkingserv.md]] : London Gatwick has launched a robotic airport parking service
-- [[2026-07-26_MakingsenseofthepanicoverChineseAI.md]] : Making sense of the panic over Chinese AI
-- [[2026-07-26_ShowHN_Distillandservesmallmodelswithfrontierquali.md]] : Show HN: Distill and serve small models with frontier quality for half the cost
-- [[2026-07-26_ArebrainwavesthenextunlockforphysicalAI_.md]] : Are brain waves the next unlock for physical AI?
-- [[2026-07-27_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-07-27_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-07-27_MidjourneyboughttheastrologyappCo-Star.md]] : Midjourney bought the astrology app Co-Star
-- [[2026-07-27_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
-- [[2026-07-27_ArebrainwavesthenextunlockforphysicalAI_.md]] : Are brain waves the next unlock for physical AI?
-- [[2026-07-27_LaunchingHealthinChatGPT.md]] : Launching Health in ChatGPT
-- [[2026-07-27_Kimi-K3ReleasesonHuggingFace7_27.md]] : Kimi-K3 Releases on HuggingFace 7/27
-- [[2026-07-27_HowAIisexpandingwhatpeopledoatwork.md]] : How AI is expanding what people do at work
-- [[2026-07-27_Nvidia_MicrosoftlaunchopenAIsecurityalliance_witho.md]] : Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic
-- [[2026-07-27_HowistheBunRewriteinRustgoing_.md]] : How is the Bun Rewrite in Rust going?
-- [[2026-07-27_Enigmaraises_70Mtomakecontrollingarobotaseasyasadj.md]] : Enigma raises $70M to make controlling a robot as easy as adjusting the volume
-- [[2026-07-27_CanChinaKeepItsAIOpen_.md]] : Can China Keep Its AI Open?
-- [[2026-07-27_Inkling_OurOpen-WeightsModel.md]] : Inkling: Our Open-Weights Model
-- [[2026-07-27_MAI-Cyber1.md]] : MAI-Cyber 1
-- [[2026-07-27_OpenAI_sHuggingFacebreachhasreignitedthedebateover.md]] : OpenAI’s Hugging Face breach has reignited the debate over alignment and control
-- [[2026-07-27_PSA_YourClaudesharedchatsandArtifactsmayhaveendedu.md]] : PSA: Your Claude shared chats and Artifacts may have ended up on Google
-- [[2026-07-27_SatyaNadellasayscompaniesthattrustoneAIforeverythi.md]] : Satya Nadella says companies that trust one AI for everything may not survive
+- [[entities/article/2026-07-08_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-09_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-09_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-09_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-09_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-09_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-09_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-09_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-09_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-09_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-09_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-07-09_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[entities/article/2026-07-10_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-10_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-10_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-10_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-10_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-10_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-10_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-10_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-10_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-07-10_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[entities/article/2026-07-11_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-11_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-11_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-11_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-11_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-11_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[entities/article/2026-07-11_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-11_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-07-11_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-12_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-12_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-12_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-12_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-12_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-12_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-12_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-12_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-12_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[entities/article/2026-07-12_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md]] : New LLM Releases April 2026: Every Major Model Launch This Month - Fazm Blog
+- [[entities/article/2026-07-13_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-13_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-13_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-13_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-13_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-13_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-13_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-13_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-13_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[entities/article/2026-07-13_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-14_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-14_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-14_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-14_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-14_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-14_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-14_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-14_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[entities/article/2026-07-14_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-14_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-15_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-15_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-15_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-15_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-15_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-15_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-15_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-15_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[entities/article/2026-07-15_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-15_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-16_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-16_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-16_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-16_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-16_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-16_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-16_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-16_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-16_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[entities/article/2026-07-16_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-16_TheBestLargeLanguageModels_LLMs_in2026_summary.md]] : The Best Large Language Models (LLMs) in 2026
+- [[entities/article/2026-07-16_NewAIModels2026-LatestReleases_LMMarketCap_summary.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
+- [[entities/article/2026-07-17_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-17_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-17_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[entities/article/2026-07-17_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-17_NewAIModels2026-LatestReleases_LMMarketCap_summary.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
+- [[entities/article/2026-07-17_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-17_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-17_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-17_TheBestLargeLanguageModels_LLMs_in2026_summary.md]] : The Best Large Language Models (LLMs) in 2026
+- [[entities/article/2026-07-17_ArtificialIntelligenceNews--ScienceDaily_summary.md]] : Artificial Intelligence News -- ScienceDaily
+- [[entities/article/2026-07-17_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-17_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md]] : Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price — AI/ML API Blog
+- [[entities/article/2026-07-18_Deeplearningarchitectures_summary.md]] : Deep learning architectures
+- [[entities/article/2026-07-18_GenerativeAInewsandanalysis_TechCrunch_summary.md]] : Generative AI news and analysis | TechCrunch
+- [[entities/article/2026-07-18_MachineLearningArchitecture_WhatItIs_Components_Ty_summary.md]] : Machine Learning Architecture: What It Is, Components & Types
+- [[entities/article/2026-07-18_GenerativeAIrecentnews_AIBusiness_summary.md]] : Generative AI recent news | AI Business
+- [[entities/article/2026-07-18_Top7opensourceLLMsfor2026_summary.md]] : Top 7 open source LLMs for 2026
+- [[entities/article/2026-07-18_AIBreakthrough-AIBreakthroughAwards_summary.md]] : AI Breakthrough - AI Breakthrough Awards
+- [[entities/article/2026-07-18_NineBreakthroughsMadePossiblebyAI_summary.md]] : Nine Breakthroughs Made Possible by AI
+- [[entities/article/2026-07-18_NewAIModels2026-LatestReleases_LMMarketCap_summary.md]] : New AI Models 2026 - Latest Releases | LM Market Cap
+- [[entities/article/2026-07-18_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md]] : AI Updates Today (July 2026) – Latest AI Model Releases
+- [[entities/article/2026-07-22_Invitinghardquestions_summary.md]] : Inviting hard questions
+- [[entities/article/2026-07-22_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[entities/article/2026-07-22_BuildingAIinfrastructurewiththeEffinghamCountycomm_summary.md]] : Building AI infrastructure with the Effingham County community
+- [[entities/article/2026-07-23_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[entities/article/2026-07-23_TheAIcomputegap_Enterprisesarebuyinginfrastructure_summary.md]] : The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs
+- [[entities/article/2026-07-22_Here__8217_swhatSamsung__8217_ssmartglassesactuall_summary.md]] : Here&#8217;s what Samsung&#8217;s smart glasses actually look like
+- [[entities/article/2026-07-23_git_s_end-of-optionsFlag_summary.md]] : git's –end-of-options Flag
+- [[entities/article/2026-07-23_Aftershockingquarter_IBMinsiststhatAIisn_tkillingt_summary.md]] : After shocking quarter, IBM insists that AI isn’t killing the mainframe
+- [[entities/article/2026-07-22_TerenceTao_sChatGPTconversationabouttheJacobianCon_summary.md]] : Terence Tao's ChatGPT conversation about the Jacobian Conjecture counterexample
+- [[entities/article/2026-07-23_BuildingAIinfrastructurewiththeEffinghamCountycomm_summary.md]] : Building AI infrastructure with the Effingham County community
+- [[entities/article/2026-07-23_Invitinghardquestions_summary.md]] : Inviting hard questions
+- [[entities/article/2026-07-23_ServiceNowbets_40milliononIndianbankingsoftwarespe_summary.md]] : ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push
+- [[entities/article/2026-07-23_EscapeIntelliJ_ScalaandKotlinLSPsonEmacsEglot_summary.md]] : Escape IntelliJ: Scala and Kotlin LSPs on Emacs Eglot
+- [[entities/article/2026-07-23_ExpertssayexploitingAnthropic_sFableisn_thowKimiK3_summary.md]] : Experts say exploiting Anthropic’s Fable isn’t how Kimi K3 got so good
+- [[entities/article/2026-07-23_Codemodeyieldsa99_2_costreductioninoursystems_summary.md]] : Code mode yields a 99.2% cost reduction in our systems
+- [[entities/article/2026-07-23_Theright-wingboomersprotestingdatacentershavealoti_summary.md]] : The right-wing boomers protesting data centers have a lot in common with the left
+- [[entities/article/2026-07-23_UnderstandingtheAIEconomy_summary.md]] : Understanding the AI Economy
+- [[entities/article/2026-07-23_Apple_sOpenAIlawsuitisaboutwhogetstodefinethepost-_summary.md]] : Apple’s OpenAI lawsuit is about who gets to define the post-smartphone era
+- [[entities/article/2026-07-23_OpenAIandAnthropicuniteagainstopen-weightAIrisksto_summary.md]] : OpenAI and Anthropic unite against open-weight AI risks to their bottom line
+- [[entities/article/2026-07-23_LawmakerspreparebillrequiringAI_killswitch__summary.md]] : Lawmakers prepare bill requiring AI ‘kill switch’
+- [[entities/article/2026-07-23_AIchipstartupEtcheddefiesskeptics_hits_10_3Bvaluat_summary.md]] : AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors
+- [[entities/article/2026-07-23_Astronomersmayhavefoundthefirstexomoon_summary.md]] : Astronomers may have found the first exomoon
+- [[entities/article/2026-07-23_OpenAImakesChatGPTHealthavailabletoallU_S_users_summary.md]] : OpenAI makes ChatGPT Health available to all U.S. users
+- [[entities/article/2026-07-23_OpenAIismakingbigclaimsasitrollsoutChatGPTHealthto_summary.md]] : OpenAI is making big claims as it rolls out ChatGPT Health to everyone
+- [[entities/article/2026-07-23_RunwaylaunchesAImodelrouterasgenerativemediagetscr_summary.md]] : Runway launches AI model router as generative media gets crowded
+- [[entities/article/2026-07-23_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-07-23_LaunchingHealthinChatGPT_summary.md]] : Launching Health in ChatGPT
+- [[entities/article/2026-07-23_AegisAI_foundedbyformerGooglesecurityexecs_lands_3_summary.md]] : AegisAI, founded by former Google security execs, lands $36M to stop AI-driven spear phishing
+- [[entities/article/2026-07-23_Patreonislayingoff20percentofworkers_summary.md]] : Patreon is laying off 20 percent of workers
+- [[entities/article/2026-07-23_AnthropicupdatesClaudevoicemodewithmorecapablemode_summary.md]] : Anthropic updates Claude voice mode with more capable models
+- [[entities/article/2026-07-23_Claude_svoicemodeisnowavailableforOpusandSonnet_summary.md]] : Claude’s voice mode is now available for Opus and Sonnet
+- [[entities/article/2026-07-23_AMDtakesonNvidiawithitsHeliosAIrackscalesystem_summary.md]] : AMD takes on Nvidia with its Helios AI rack scale system
+- [[entities/article/2026-07-23_AlexaPlusisgettinganAIupdatetohandlemorecomplicate_summary.md]] : Alexa Plus is getting an AI update to handle more complicated instructions
+- [[entities/article/2026-07-23_AMDtakesonNvidiawithitsHeliosAIrack-scalesystem_summary.md]] : AMD takes on Nvidia with its Helios AI rack-scale system
+- [[entities/article/2026-07-23_Couplepay__800kforagene-editingtherapyfortheirdaug_summary.md]] : Couple pay >$800k for a gene-editing therapy for their daughter. She died.
+- [[entities/article/2026-07-23_98_css_summary.md]] : 98.css
+- [[entities/article/2026-07-23_HowAIguardrailsareimpedingtheworkofoffensivecybers_summary.md]] : How AI guardrails are impeding the work of offensive cybersecurity researchers
+- [[entities/article/2026-07-24_LaunchingHealthinChatGPT_summary.md]] : Launching Health in ChatGPT
+- [[entities/article/2026-07-24_AlexaPlusisgettinganAIupdatetohandlemorecomplicate_summary.md]] : Alexa Plus is getting an AI update to handle more complicated instructions
+- [[entities/article/2026-07-24_Invitinghardquestions_summary.md]] : Inviting hard questions
+- [[entities/article/2026-07-24_HowAIguardrailsareimpedingtheworkofoffensivecybers_summary.md]] : How AI guardrails are impeding the work of offensive cybersecurity researchers
+- [[entities/article/2026-07-24_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[entities/article/2026-07-24_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-07-24_Flux3XMimic_TheNextGenerationofVideo-ActionModels_summary.md]] : Flux 3 X Mimic: The Next Generation of Video-Action Models
+- [[entities/article/2026-07-24_MysecuritycamerashippedaGitHubadmintokeninitslogin_summary.md]] : My security camera shipped a GitHub admin token in its login page
+- [[entities/article/2026-07-24_OpenAI_snewvoicemodemakesittotheChatGPTdesktopapp_summary.md]] : OpenAI’s new voice mode makes it to the ChatGPT desktop app
+- [[entities/article/2026-07-24_Thetech-broificationofAmericansciencehasofficially_summary.md]] : The tech-broification of American science has officially begun
+- [[entities/article/2026-07-24_AsUSweighsresponsetoChineseAI_industryurgesagainst_summary.md]] : As US weighs response to Chinese AI, industry urges against broad open-weight restrictions
+- [[entities/article/2026-07-24_AnthropicreleasesOpus5with_close_toFable5_scapabil_summary.md]] : Anthropic releases Opus 5 with ‘close’ to Fable 5’s capabilities
+- [[entities/article/2026-07-24_AnthropiclaunchesOpus5_summary.md]] : Anthropic launches Opus 5
+- [[entities/article/2026-07-24_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-07-24_Youcan_tignoreGoogleZeroanymore_summary.md]] : You can’t ignore Google Zero anymore
+- [[entities/article/2026-07-24_WhyCognitionboughtPoke_AIpersonalityisbecomingacom_summary.md]] : Why Cognition bought Poke: AI personality is becoming a competitive advantage
+- [[entities/article/2026-07-24_MidjourneyboughttheastrologyappCo-Star_summary.md]] : Midjourney bought the astrology app Co-Star
+- [[entities/article/2026-07-24_Prentis_newAIlabco-foundedbyReidHoffman_MarcPincus_summary.md]] : Prentis, new AI lab co-founded by Reid Hoffman, Marc Pincus in talks to raise $100M
+- [[entities/article/2026-07-24_Prentis_newAIlabco-foundedbyReidHoffman_MarkPincus_summary.md]] : Prentis, new AI lab co-founded by Reid Hoffman, Mark Pincus in talks to raise $100M
+- [[entities/article/2026-07-24_ItriedoutOpenAI_snewAIkeypad_whichwillbefunforsome_summary.md]] : I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
+- [[entities/article/2026-07-25_LaunchingHealthinChatGPT_summary.md]] : Launching Health in ChatGPT
+- [[entities/article/2026-07-25_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[entities/article/2026-07-25_MidjourneyboughttheastrologyappCo-Star_summary.md]] : Midjourney bought the astrology app Co-Star
+- [[entities/article/2026-07-25_ItriedoutOpenAI_snewAIkeypad_whichwillbefunforsome_summary.md]] : I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else
+- [[entities/article/2026-07-25_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-07-25_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-07-25_ARC-AGILeaderboard_summary.md]] : ARC-AGI Leaderboard
+- [[entities/article/2026-07-25_AndroidMaySoonRestrictOn-DeviceADB_summary.md]] : Android May Soon Restrict On-Device ADB
+- [[entities/article/2026-07-25_OnefallenpowerlineexposedagrowingAIdatacenterprobl_summary.md]] : One fallen power line exposed a growing AI data center problem. Here’s how to fix it.
+- [[entities/article/2026-07-25_Librariansarehostingviral_AvoidingAI_workshopsforp_summary.md]] : Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech
+- [[entities/article/2026-07-25_Windturbineisbeingusedtoproducezero-carbon_greenam_summary.md]] : Wind turbine is being used to produce zero-carbon "green ammonia" fertilizer
+- [[entities/article/2026-07-25_StolenButtons_summary.md]] : Stolen Buttons
+- [[entities/article/2026-07-25_A77-year-oldRepublicanmanisstagingasoloprotestagai_summary.md]] : A 77-year-old Republican man is staging a solo protest against Flock cameras
+- [[entities/article/2026-07-25_DidTheyGhostYou__summary.md]] : Did They Ghost You?
+- [[entities/article/2026-07-25_DeepSeekpausefundraiseaftercommentsoncomputegaptoU_summary.md]] : DeepSeek pause fundraise after comments on compute gap to US leaked (transcript) [pdf]
+- [[entities/article/2026-07-25_Monday_comisthelatesttechcompanytoblameAIforlayoff_summary.md]] : Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
+- [[entities/article/2026-07-25_SystemsandDelays_summary.md]] : Systems and Delays
+- [[entities/article/2026-07-26_LaunchingHealthinChatGPT_summary.md]] : Launching Health in ChatGPT
+- [[entities/article/2026-07-26_Monday_comisthelatesttechcompanytoblameAIforlayoff_summary.md]] : Monday.com is the latest tech company to blame AI for layoffs — here are 20 others
+- [[entities/article/2026-07-26_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[entities/article/2026-07-26_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-07-26_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-07-26_MidjourneyboughttheastrologyappCo-Star_summary.md]] : Midjourney bought the astrology app Co-Star
+- [[entities/article/2026-07-26_ParkbyRobotatLondonGatwickAirport_summary.md]] : Park by Robot at London Gatwick Airport
+- [[entities/article/2026-07-26_HuggingFaceCEOcallsfor_radicaltransparency_after_u_summary.md]] : Hugging Face CEO calls for ‘radical transparency’ after ‘unprecedented’ OpenAI hack
+- [[entities/article/2026-07-26_LondonGatwickhaslaunchedaroboticairportparkingserv_summary.md]] : London Gatwick has launched a robotic airport parking service
+- [[entities/article/2026-07-26_MakingsenseofthepanicoverChineseAI_summary.md]] : Making sense of the panic over Chinese AI
+- [[entities/article/2026-07-26_ShowHN_Distillandservesmallmodelswithfrontierquali_summary.md]] : Show HN: Distill and serve small models with frontier quality for half the cost
+- [[entities/article/2026-07-26_ArebrainwavesthenextunlockforphysicalAI__summary.md]] : Are brain waves the next unlock for physical AI?
+- [[entities/article/2026-07-27_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-07-27_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-07-27_MidjourneyboughttheastrologyappCo-Star_summary.md]] : Midjourney bought the astrology app Co-Star
+- [[entities/article/2026-07-27_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[entities/article/2026-07-27_ArebrainwavesthenextunlockforphysicalAI__summary.md]] : Are brain waves the next unlock for physical AI?
+- [[entities/article/2026-07-27_LaunchingHealthinChatGPT_summary.md]] : Launching Health in ChatGPT
+- [[entities/article/2026-07-27_Kimi-K3ReleasesonHuggingFace7_27_summary.md]] : Kimi-K3 Releases on HuggingFace 7/27
+- [[entities/article/2026-07-27_HowAIisexpandingwhatpeopledoatwork_summary.md]] : How AI is expanding what people do at work
+- [[entities/article/2026-07-27_Nvidia_MicrosoftlaunchopenAIsecurityalliance_witho_summary.md]] : Nvidia, Microsoft launch open AI security alliance – without OpenAI, Google, or Anthropic
+- [[entities/article/2026-07-27_HowistheBunRewriteinRustgoing__summary.md]] : How is the Bun Rewrite in Rust going?
+- [[entities/article/2026-07-27_Enigmaraises_70Mtomakecontrollingarobotaseasyasadj_summary.md]] : Enigma raises $70M to make controlling a robot as easy as adjusting the volume
+- [[entities/article/2026-07-27_CanChinaKeepItsAIOpen__summary.md]] : Can China Keep Its AI Open?
+- [[entities/article/2026-07-27_Inkling_OurOpen-WeightsModel_summary.md]] : Inkling: Our Open-Weights Model
+- [[entities/article/2026-07-27_MAI-Cyber1_summary.md]] : MAI-Cyber 1
+- [[entities/article/2026-07-27_OpenAI_sHuggingFacebreachhasreignitedthedebateover_summary.md]] : OpenAI’s Hugging Face breach has reignited the debate over alignment and control
+- [[entities/article/2026-07-27_PSA_YourClaudesharedchatsandArtifactsmayhaveendedu_summary.md]] : PSA: Your Claude shared chats and Artifacts may have ended up on Google
+- [[entities/article/2026-07-27_SatyaNadellasayscompaniesthattrustoneAIforeverythi_summary.md]] : Satya Nadella says companies that trust one AI for everything may not survive
 
 ## Concept Maps
 
 - [[concepts/knowledge-management/ai-research-concept-map.md|AI Research Concept Map]]
-- [[2026-07-27_InternationalFellowsexploreAI_science_andpolicyinP.md]] : International Fellows explore AI , science , and policy in Pittsburgh - DVIDS
-- [[2026-07-28_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-07-28_InternationalFellowsexploreAI_science_andpolicyinP.md]] : International Fellows explore AI , science , and policy in Pittsburgh - DVIDS
-- [[2026-07-28_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-07-28_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
-- [[2026-07-28_CursormakesitsbiggestIndiapushyetaheadofSpaceXacqu.md]] : Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing
-- [[2026-07-28_Inkling_OurOpen-WeightsModel.md]] : Inkling: Our Open-Weights Model
-- [[2026-07-28_7_1EarthquakeinJapan.md]] : 7.1 Earthquake in Japan
-- [[2026-07-28_HuggingFaceisbeingusedtoeasilyundresswomenandchild.md]] : Hugging Face is being used to easily undress women and children
-- [[2026-07-28_ScientificcomputingintheageofagenticAI.md]] : Scientific computing in the age of agentic AI
-- [[2026-07-28_YouCouldHaveComeUpwithKimiDeltaAttention.md]] : You Could Have Come Up with Kimi Delta Attention
-- [[2026-07-28_AIleaderssignstatementaskingthegovernmenttodosomet.md]] : AI leaders sign statement asking the government to do something about automated AI
-- [[2026-07-28_DeflockCasaGrande.md]] : Deflock Casa Grande
-- [[2026-07-28_StudyandLearn_AIbuiltforlearninginMicrosoft365Copi.md]] : Study and Learn: AI built for learning in Microsoft 365 Copilot | Microsoft Education Blog
-- [[2026-07-28_OpenAIjustopen-sourcedCodexSecurity.md]] : OpenAI just open-sourced Codex Security
-- [[2026-07-28_Bot-detectionstartupSpurnabs_200MfromInsight.md]] : Bot-detection startup Spur nabs $200M from Insight
-- [[2026-07-28_CodexSecurity.md]] : Codex Security
-- [[2026-07-28_CyeraagreestoacquireOasisSecurityfor_1Btosafeguard.md]] : Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents
-- [[2026-07-28_AIleaderssignastatementaskingthegovernmenttodosome.md]] : AI leaders sign a statement asking the government to do something about automated AI
-- [[2026-07-29_CodexSecurity.md]] : Codex Security
-- [[2026-07-29_Inkling_OurOpen-WeightsModel.md]] : Inkling: Our Open-Weights Model
-- [[2026-07-29_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-07-29_AIleaderssignastatementaskingthegovernmenttodosome.md]] : AI leaders sign a statement asking the government to do something about automated AI
-- [[2026-07-29_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-07-29_ScientificcomputingintheageofagenticAI.md]] : Scientific computing in the age of agentic AI
-- [[2026-07-29_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
-- [[2026-07-29_We_rerunningoutofreasonstoignoreAIsafety.md]] : We’re running out of reasons to ignore AI safety
-- [[2026-07-29_ArtistsarelawyeringupagainstAIslop_andsomeareevenw.md]] : Artists are lawyering up against AI slop, and some are even winning
-- [[2026-07-29_AsAIcontentfloodstheinternet_Pangramraises_9Mtodet.md]] : As AI content floods the internet, Pangram raises $9M to detect it
-- [[2026-07-29_KOReader.md]] : KOReader
-- [[2026-07-29_ShowHN_Open-sourceenginerunningGemma426Bin2GBRAMon.md]] : Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
-- [[2026-07-29_Hint_anewAIstartupco-foundedbyMarthaStewart_offers.md]] : Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners
-- [[2026-07-29_AcceleratingscientificdiscoverywithChatGPTforAcade.md]] : Accelerating scientific discovery with ChatGPT for Academic Researchers
-- [[2026-07-29_AtlassiantightenstrackingofstaffAIuseasothertechno.md]] : Atlassian tightens tracking of staff AI use as other technology firms encourage 'tokenmaxxing'
-- [[2026-07-29_ClaudeOpus5becamedownrightruthlesswhentaskedwithru.md]] : Claude Opus 5 became downright ruthless when tasked with running a vending machine
-- [[2026-07-29_OpenAIpresidentsaysit__8217_s__8216_buildingafamil.md]] : OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots
-- [[2026-07-29_TheHuggingFaceAIbreak-in_astoldthroughanincreasing.md]] : The Hugging Face AI break-in, as told through an increasingly committed bear metaphor
-- [[2026-07-29_KimiK3-256k.md]] : Kimi K3-256k
-- [[2026-07-29_ThecoolestusefortheVisionPro.md]] : The coolest use for the Vision Pro
-- [[2026-07-29_MarkZuckerbergisplanningabigpushintopersonalAIagen.md]] : Mark Zuckerberg is planning a big push into personal AI agents
-- [[2026-07-29_MicrosoftconfirmsCopilot_superapp_comingthisyear.md]] : Microsoft confirms Copilot ‘super app’ coming this year
-- [[2026-07-29_HowenablingtwosettingstripledourscoresontheARC-AGI.md]] : How enabling two settings tripled our scores on the ARC-AGI-3 benchmark
-- [[2026-07-29_MicrosoftisopenlycompetingwithOpenAI_Anthropicmore.md]] : Microsoft is openly competing with OpenAI, Anthropic more than ever
-- [[2026-07-29_AI_stopstartupsarebarelypublishingtheirresearch.md]] : AI's top startups are barely publishing their research
-- [[2026-07-30_AI_stopstartupsarebarelypublishingtheirresearch.md]] : AI's top startups are barely publishing their research
-- [[2026-07-30_Inkling_OurOpen-WeightsModel.md]] : Inkling: Our Open-Weights Model
-- [[2026-07-30_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-07-30_HowenablingtwosettingstripledourscoresontheARC-AGI.md]] : How enabling two settings tripled our scores on the ARC-AGI-3 benchmark
-- [[2026-07-30_SymptomAI_TowardsaconversationalAIagentforeveryday.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
-- [[2026-07-30_MicrosoftisopenlycompetingwithOpenAI_Anthropicmore.md]] : Microsoft is openly competing with OpenAI, Anthropic more than ever
-- [[2026-07-30_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-07-30_MicrosoftconfirmsCopilot_superapp_comingthisyear.md]] : Microsoft confirms Copilot ‘super app’ coming this year
-- [[2026-07-30_GpiozeroFlow.md]] : Gpiozero Flow
-- [[2026-07-30__VPNsarelawfultechnicaltools__saysEUCourtinlandmar.md]] : 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling
-- [[2026-07-30_IntheHuggingFacebreach_OpenAI_shackerwasnoisyandfa.md]] : In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable
-- [[2026-07-30_MetasaysAIismakingiteasiertobuildnewapps_andmorear.md]] : Meta says AI is making it easier to build new apps — and more are coming
-- [[2026-07-30_OktabuysAIsecuritystartupPermiso_sourcesaysforabou.md]] : Okta buys AI security startup Permiso; source says for about $200M
-- [[2026-07-30_Friendre-launchesitsAIpendantwithaspeakerthattalks.md]] : Friend re-launches its AI pendant with a speaker that talks to you, for twice the price
-- [[2026-07-30_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-07-30_Advancingtheprice-performancefrontierwithGPT-5_6.md]] : Advancing the price-performance frontier with GPT-5.6
-- [[2026-07-30_GooglesaysitfixedmoreChromebugsinJunethanoverthepa.md]] : Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI
-- [[2026-07-30_Friend_thelonelyAIwearable_returnswithanewvoiceand.md]] : Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag
-- [[2026-07-30_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-07-30_ThelossofSituationalAwareness.md]] : The loss of Situational Awareness
-- [[2026-07-30_TimCookhintsatiCloudPlustierforAIpowerusers.md]] : Tim Cook hints at iCloud Plus tier for AI power users
-- [[2026-07-30_InvestorsloveAI_aslongasyou_reacloudhost.md]] : Investors love AI, as long as you’re a cloud host
-- [[2026-07-30_AnthropicsaysitsownAImodelsbreachedthreecompaniesd.md]] : Anthropic says its own AI models breached three companies during security tests
-- [[2026-07-30_TheAIAesthetic.md]] : The AI Aesthetic
-- [[2026-07-31_AnthropicsaysitsownAImodelsbreachedthreecompaniesd.md]] : Anthropic says its own AI models breached three companies during security tests
-- [[2026-07-31_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-07-31_Advancingtheprice-performancefrontierwithGPT-5_6.md]] : Advancing the price-performance frontier with GPT-5.6
-- [[2026-07-31_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-07-31_TimCookhintsatiCloudPlustierforAIpowerusers.md]] : Tim Cook hints at iCloud Plus tier for AI power users
-- [[2026-07-31_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-07-31_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-07-31_TheAItradenowrunsonborrowedmoney_andthelendersarer.md]] : The AI trade now runs on borrowed money, and the lenders are repricing it
-- [[2026-07-31_AdvancingresponsibleAIacrossEurope.md]] : Advancing responsible AI across Europe
-- [[2026-07-31_TheEndofanEra.md]] : The End of an Era
-- [[2026-07-31_DeepSeekV4Flash0731Intelligence_PerformanceandPric.md]] : DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
-- [[2026-07-31_AnthropicsaysClaudeaccidentallyhackedrealcompanies.md]] : Anthropic says Claude accidentally hacked real companies too
-- [[2026-07-31_Smallest_airaises_13Mtobuildultra-fastvoiceAIthats.md]] : Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human
-- [[2026-07-31_It_stimetopanicaboutAIsafety.md]] : It’s time to panic about AI safety
-- [[2026-07-31_SpaceXwon_tremoveallofxAI_sunpermittedturbinesfora.md]] : SpaceX won’t remove all of xAI’s unpermitted turbines for another year
-- [[2026-07-31_Elevators.md]] : Elevators
-- [[2026-07-31_SnapchatnolongerrewardsfullyAI-generatedSpotlightc.md]] : Snapchat no longer rewards fully AI-generated Spotlight content
-- [[2026-07-31_DisruptingaCriminalScamOperation.md]] : Disrupting a Criminal Scam Operation
-- [[2026-07-31_Here_stheproblemwithputtinganAIimagegeneratorinGoo.md]] : Here’s the problem with putting an AI image generator in Google Earth
-- [[2026-07-31_GooglenixesitsEarthAIfeatureonedayafterlaunch_amid.md]] : Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation
-- [[2026-07-31_GoogleEarth__8217_sAIdeepfaketoolonlylastedoneday.md]] : Google Earth&#8217;s AI deepfake tool only lasted one day
-- [[2026-07-31_Tailscaledidn_tstoptheHuggingFaceintrusion.md]] : Tailscale didn't stop the Hugging Face intrusion
-- [[2026-07-31_IndiaAIandAyushMinistrySignAIIntegrationMoU-GKToda.md]] : IndiaAI and Ayush Ministry Sign AI Integration MoU - GKToday
-- [[2026-07-31_OpenAIreportedlyfindsevidencethatmoreofitsagentsra.md]] : OpenAI reportedly finds evidence that more of its agents ran amok
-- [[2026-07-31_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-07-31_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-07-31_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
-- [[2026-07-31_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[2026-07-31_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-07-31_OpenAI_sAIEscapeWasn_tTheSingularity_ItWasAContain.md]] : OpenAI’s AI Escape Wasn't The Singularity. It Was A Containment Failure
-- [[2026-07-31_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
-- [[2026-07-31_Thedevelopmentpipelineisaproductionsystem.md]] : The development pipeline is a production system
-- [[2026-07-31_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
-- [[2026-08-01_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-01_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-01_IndiaAIandAyushMinistrySignAIIntegrationMoU-GKToda.md]] : IndiaAI and Ayush Ministry Sign AI Integration MoU - GKToday
-- [[2026-08-01_Elevators.md]] : Elevators
-- [[2026-08-01_GoogleEarth__8217_sAIdeepfaketoolonlylastedoneday.md]] : Google Earth&#8217;s AI deepfake tool only lasted one day
-- [[2026-08-01_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-01_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-08-01_AdvancingresponsibleAIacrossEurope.md]] : Advancing responsible AI across Europe
-- [[2026-08-01_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-01_OpenAIreportedlyfindsevidencethatmoreofitsagentsra.md]] : OpenAI reportedly finds evidence that more of its agents ran amok
-- [[2026-08-01_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-01_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[2026-08-01_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-08-01_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
-- [[2026-08-01_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
-- [[2026-08-01_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
-- [[2026-08-01_Tenadvancesinmathematicsandtheoreticalcomputerscie.md]] : Ten advances in mathematics and theoretical computer science
-- [[2026-08-01_RipGrepmuslbinariesoccasionallysegfaultduringvery-.md]] : RipGrep musl binaries occasionally segfault during very-large searches
-- [[2026-08-01_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
-- [[2026-08-01_ASurveillanceTreatyinDisguise_CanadaSignsUNCybercr.md]] : A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention
-- [[2026-08-01_TheArtof64-bitAssembly.md]] : The Art of 64-bit Assembly
-- [[2026-08-01_CursorremovedcostinformationfromtheusagepageandCSV.md]] : Cursor removed cost information from the usage page and CSV export
-- [[2026-08-01_I_RSS_AdirectoryofpeoplewholoveRSS.md]] : I ♥ RSS – A directory of people who love RSS
-- [[2026-08-01_PostmortemforKernelSoundnessBug_14576.md]] : Postmortem for Kernel Soundness Bug #14576
-- [[2026-08-01_GoogleNewsisjustForrestGump_sshrimpboatnow.md]] : Google News is just Forrest Gump's shrimp boat now
-- [[2026-08-01_TheSiliconValleyFounderMeatGrinder.md]] : The Silicon Valley Founder Meat Grinder
-- [[2026-08-01_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth.md]] : Ministry of Ayush signs MoU with IndiaAI to harness AI for the future of traditional medicine
-- [[2026-08-01_AIfinancialadviceissurprisinglygoodifyouasktherigh.md]] : AI financial advice is surprisingly good if you ask the right questions
-- [[2026-08-01_Go1_27InteractiveTour.md]] : Go 1.27 Interactive Tour
-- [[2026-08-02_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-02_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[2026-08-02_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
-- [[2026-08-02_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth.md]] : Ministry of Ayush signs MoU with IndiaAI to harness AI for the future of traditional medicine
-- [[2026-08-02_Go1_27InteractiveTour.md]] : Go 1.27 Interactive Tour
-- [[2026-08-02_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-02_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-02_Tenadvancesinmathematicsandtheoreticalcomputerscie.md]] : Ten advances in mathematics and theoretical computer science
-- [[2026-08-02_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-08-02_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
-- [[2026-08-02_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-08-02_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-02_RunningKimiK3onMI355XatBetterPerformanceperDollarT.md]] : Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
-- [[2026-08-02_ShowHN_Syncular_offline-firstSQLsyncwithTypeScript.md]] : Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
-- [[2026-08-02_IstheIndustrialRevolutionagoodprecedentforexplosiv.md]] : Is the Industrial Revolution a good precedent for explosive growth today?
-- [[2026-08-02_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
-- [[2026-08-02_ShowHN_Kakehashi_ExperimentaluserspacetorunmacOSbi.md]] : Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
-- [[2026-08-02_Fender_sCEOseemstothinkyourbandmatesarejustanalogA.md]] : Fender’s CEO seems to think your bandmates are just analog AI
-- [[2026-08-02_SamAltmanandAI_sdeceldebate.md]] : Sam Altman and AI’s decel debate
-- [[2026-08-02_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
-- [[2026-08-02_AIposterwinsOhioStateFaircontest.md]] : AI poster wins Ohio State Fair contest
-- [[2026-08-02_ShowHN_Shitty_fastterminal_Memory-unsafeandfastert.md]] : Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
-- [[2026-08-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-08-02_CP_M-386_CP_Mfor386protectedmode_derivedfromCP_M_6.md]] : CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
-- [[2026-08-02_Appleengineersayshewasfiredafterrefusingtosendcust.md]] : Apple engineer says he was fired after refusing to send cust. device IDs to AT&T
-- [[2026-08-02_Qwen3_8-Max_ANewBarforCodingandCowork.md]] : Qwen3.8-Max: A New Bar for Coding and Cowork
-- [[2026-08-03_Tenadvancesinmathematicsandtheoreticalcomputerscie.md]] : Ten advances in mathematics and theoretical computer science
-- [[2026-08-03_Fender_sCEOseemstothinkyourbandmatesarejustanalogA.md]] : Fender’s CEO seems to think your bandmates are just analog AI
-- [[2026-08-03_Qwen3_8-Max_ANewBarforCodingandCowork.md]] : Qwen3.8-Max: A New Bar for Coding and Cowork
-- [[2026-08-03_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-03_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-08-03_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-03_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[2026-08-03_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
-- [[2026-08-03_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
-- [[2026-08-03_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-08-03_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-03_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-03_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-03_SamAltmanandAI_sdeceldebate.md]] : Sam Altman and AI’s decel debate
-- [[2026-08-03_News.md]] : News
-- [[2026-08-03_Don_tbeameatproxy.md]] : Don't be a meat proxy
-- [[2026-08-03_AMarcBenioff-backedstartupthinksAIcansolvetheAIdep.md]] : A Marc Benioff-backed startup thinks AI can solve the AI deployment problem
-- [[2026-08-03_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
-- [[2026-08-03_China__8217_sAlibabatakesanotherswipeatAmerica_sAI.md]] : China&#8217;s Alibaba takes another swipe at America’s AI supremacy
-- [[2026-08-03_CriticalCVEissuedforhallucinatedSQLitevulnerabilit.md]] : Critical CVE issued for hallucinated SQLite vulnerability
-- [[2026-08-03_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
-- [[2026-08-03_Congress_sfavoriteAItool_ChatGPT.md]] : Congress’s favorite AI tool? ChatGPT
-- [[2026-08-03_ApplefinallyfixedSiri_Sowhydoesitfeelanticlimactic.md]] : Apple finally fixed Siri. So why does it feel anticlimactic?
-- [[2026-08-03_AWSishelpingvibe-codingstartupSuperblocks_andtheim.md]] : AWS is helping vibe-coding startup Superblocks, and the implications are big
-- [[2026-08-03_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-08-03_HowwebuiltarealtimesystemforresponsivevoiceAIinsix.md]] : How we built a realtime system for responsive voice AI in six months
-- [[2026-08-03_ThroneScienceraises_10MforAItoiletsensor_MobiHealt.md]] : Throne Science raises $10M for AI toilet sensor | MobiHealthNews
-- [[2026-08-03_Afterkillerquarter_PalantirCEOAlexKarpcallsAIindus.md]] : After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
-- [[2026-08-04_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-08-04_Afterkillerquarter_PalantirCEOAlexKarpcallsAIindus.md]] : After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
-- [[2026-08-04_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
-- [[2026-08-04_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-04_ThroneScienceraises_10MforAItoiletsensor_MobiHealt.md]] : Throne Science raises $10M for AI toilet sensor | MobiHealthNews
-- [[2026-08-04_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-08-04_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
-- [[2026-08-04_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[2026-08-04_HowwebuiltarealtimesystemforresponsivevoiceAIinsix.md]] : How we built a realtime system for responsive voice AI in six months
-- [[2026-08-04_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-04_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-04_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-08-04_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
-- [[2026-08-04_CanRedditfendoffanewwaveofAISEOspam_.md]] : Can Reddit fend off a new wave of AI SEO spam?
-- [[2026-08-04_OpenAIdragsApple_slawsuitintothecourtofpublicopini.md]] : OpenAI drags Apple’s lawsuit into the court of public opinion
-- [[2026-08-04_Isthefutureofdatacentersportable_Runwarebuildsapod.md]] : Is the future of data centers portable? Runware builds a pod to find out
-- [[2026-08-04_DeepSeekV4FlashonaSingleAMDMI300X.md]] : DeepSeek V4 Flash on a Single AMD MI300X
-- [[2026-08-04_Applesaysmoreex-employeesmayhavetakenconfidentiald.md]] : Apple says more ex-employees may have taken confidential data to OpenAI
-- [[2026-08-04_Qwen-Image-2_0.md]] : Qwen-Image-2.0
-- [[2026-08-04_SpotifyexpandsAIremixandcoversprojectwithMerlinpar.md]] : Spotify expands AI remix and covers project with Merlin partnership
-- [[2026-08-04_NewwaystolearnandteachwithChatGPTWorkandCodex.md]] : New ways to learn and teach with ChatGPT Work and Codex
-- [[2026-08-04_HowanOpenAIinfluencertripbackfired.md]] : How an OpenAI influencer trip backfired
-- [[2026-08-04_AllofWinonaPoliceDepartment_sFlockcamerascutdownan.md]] : All of Winona Police Department's Flock cameras cut down and stolen
-- [[2026-08-04_Third-partycyberevaluationsinvolvingOpenAImodels.md]] : Third-party cyber evaluations involving OpenAI models
-- [[2026-08-04_Mistral_sShieldstral_3Bopen-weightsmodelformultimo.md]] : Mistral's Shieldstral: 3B open-weights model for multimodal moderation
-- [[2026-08-04_SpaceXhasbought_329MworthofTeslaMegapackssofarthis.md]] : SpaceX has bought $329M worth of Tesla Megapacks so far this year
-- [[2026-08-04_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
-- [[2026-08-05_AMD__8217_sdatacenterbusinessisboomingwhilegamingt.md]] : AMD&#8217;s data center business is booming while gaming takes a backseat
-- [[2026-08-05_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
-- [[2026-08-05_Third-partycyberevaluationsinvolvingOpenAImodels.md]] : Third-party cyber evaluations involving OpenAI models
-- [[2026-08-05_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-08-05_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[2026-08-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-08-05_SpaceXhasbought_329MworthofTeslaMegapackssofarthis.md]] : SpaceX has bought $329M worth of Tesla Megapacks so far this year
-- [[2026-08-05_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
-- [[2026-08-05_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-05_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-05_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-05_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-05_StatelessMCPhasrecapturedmyinterest.md]] : Stateless MCP has recaptured my interest
-- [[2026-08-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-08-05_OpenAIModelsEscapedContainmentandHackedHuggingFace.md]] : OpenAI Models Escaped Containment and Hacked Hugging Face | WIRED
-- [[2026-08-05_AImakesweatherpredictionbetter_CanWindBornemakeitl.md]] : AI makes weather prediction better. Can WindBorne make it lucrative?
-- [[2026-08-05_HelsinkiHackerNewsMeetup.md]] : Helsinki Hacker News Meetup
-- [[2026-08-05_Trump_sAItestingplanislimitedandvague.md]] : Trump’s AI testing plan is limited and vague
-- [[2026-08-05_GoogleAssistantwilldisappearfromyourphonenextmonth.md]] : Google Assistant will disappear from your phone next month
-- [[2026-08-05_RogueAIagentscreatedfakeonlineidentitiesinanotherh.md]] : Rogue AI agents created fake online identities in another hacking attempt
-- [[2026-08-05_SureseemslikeFenixFlexinusedAImusicgeneratorTreblo.md]] : Sure seems like Fenix Flexin used AI music generator Treblo
-- [[2026-08-05_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
-- [[2026-08-05_DiscoveryLoop.md]] : Discovery Loop
-- [[2026-08-05_JeffDeanandothertopAIresearchersareleavingGoogleto.md]] : Jeff Dean and other top AI researchers are leaving Google to launch their own startup
-- [[2026-08-05_ZedDeltaDB.md]] : Zed DeltaDB
-- [[2026-08-05_MetalaunchesMuseCode_anAIagentforlargecodebases.md]] : Meta launches Muse Code, an AI agent for large code bases
-- [[2026-08-05_ElonMusk__8217_sattemptatanAIWikipediahasn__8217_t.md]] : Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months
-- [[2026-08-05_LLMswon_tbreaksymmetriccrypto.md]] : LLMs won't break symmetric crypto
-- [[2026-08-06_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[2026-08-06_MetalaunchesMuseCode_anAIagentforlargecodebases.md]] : Meta launches Muse Code, an AI agent for large code bases
-- [[2026-08-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-06_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
-- [[2026-08-06_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-08-06_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
-- [[2026-08-06_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-08-06_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-06_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-06_Third-partycyberevaluationsinvolvingOpenAImodels.md]] : Third-party cyber evaluations involving OpenAI models
-- [[2026-08-06_ElonMusk__8217_sattemptatanAIWikipediahasn__8217_t.md]] : Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months
-- [[2026-08-06_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-06_WhenAIgoesrogue-HarvardGazette.md]] : When AI goes rogue - Harvard Gazette
-- [[2026-08-06_CrimePaysbutBotanyDoesn_t.md]] : Crime Pays but Botany Doesn't
-- [[2026-08-06_OpenAIsaysApple_stradesecretslawsuitis_rottentoits.md]] : OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’
-- [[2026-08-06_OpenAIModelsEscapedContainmentandHackedHuggingFace.md]] : OpenAI Models Escaped Containment and Hacked Hugging Face | WIRED
-- [[2026-08-06_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
-- [[2026-08-06_AIbotsstartedareligion_humansimmediatelyfollowed.md]] : AI bots started a religion — humans immediately followed
-- [[2026-08-06_HowOpenAILostControlofanAIModel_andWhat___.md]] : How OpenAI Lost Control of an AI Model—and What ...
-- [[2026-08-06_MarioMeetsPareto.md]] : Mario Meets Pareto
-- [[2026-08-06_ThemessypoliticsbehindGoogle_sbigAIshakeup.md]] : The messy politics behind Google’s big AI shakeup
-- [[2026-08-06_WhatGoogle_sAItalentexoduscouldmeanforfuturedrugdi.md]] : What Google's AI talent exodus could mean for future drug discovery - Drug Target Review
-- [[2026-08-06_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
-- [[2026-08-06_WorkingwiththeAmericanPsychologicalAssociationonyo.md]] : Working with the American Psychological Association on youth mental health and AI
-- [[2026-08-06_Naïveraises_28_5Mtoautomatethegruntworkofsettingup.md]] : Naïve raises $28.5M to automate the grunt work of setting up and running a company
-- [[2026-08-06_OpenAIisgivingChatGPTfreeusersunlimitedtextchats.md]] : OpenAI is giving ChatGPT free users unlimited text chats
-- [[2026-08-06_ImprovingGPT-5_6SolinChatGPT_andexpandingaccessfor.md]] : Improving GPT-5.6 Sol in ChatGPT—and expanding access for free users
-- [[2026-08-06_ImprovingGPT_5_6SolinChatGPT_andexpandingaccesstoG.md]] : Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
-- [[2026-08-06_ChatGPTbringsunlimitedtextchatstofreeusers.md]] : ChatGPT brings unlimited text chats to free users
-- [[2026-08-06_Qwen3_8Maxnowrankedasthebestoverallmodelbyagentici.md]] : Qwen3.8 Max now ranked as the best overall model by agentic index
-- [[2026-08-06_GoogleShakesupAILeadership_HassabisSwapsCEORolefor.md]] : Google Shakes up AI Leadership. Hassabis Swaps CEO Role for Research .
-- [[2026-08-06_JonyIve__8217_sfirstOpenAIgadgetisreportedlyahocke.md]] : Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker
-- [[2026-08-06_AMDacquiresTaalastoboostinferenceperformancebyetch.md]] : AMD acquires Taalas to boost inference performance by etching models in silicon
-- [[2026-08-06_AssetmanagersshiftAIfocustoriskandresearch_surveyf.md]] : Asset managers shift AI focus to risk and research , survey finds - Funds Europe
-- [[2026-08-07_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-07_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-08-07_AMDacquiresTaalastoboostinferenceperformancebyetch.md]] : AMD acquires Taalas to boost inference performance by etching models in silicon
-- [[2026-08-07_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[2026-08-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-07_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-07_ImprovingGPT_5_6SolinChatGPT_andexpandingaccesstoG.md]] : Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
-- [[2026-08-07_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-07_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-07_AssetmanagersshiftAIfocustoriskandresearch_surveyf.md]] : Asset managers shift AI focus to risk and research , survey finds - Funds Europe
-- [[2026-08-07_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
-- [[2026-08-07_JonyIve__8217_sfirstOpenAIgadgetisreportedlyahocke.md]] : Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker
-- [[2026-08-07_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
-- [[2026-08-07_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-08-07_HowHSPGRUPPEbuildsAIcapabilitiesfortaxadvisory.md]] : How HSP GRUPPE builds AI capabilities for tax advisory
-- [[2026-08-07_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
-- [[2026-08-07_USstrikes_1_2BdealtopayGermanfirmtohaltoffshorewin.md]] : US strikes $1.2B deal to pay German firm to halt offshore wind projects
-- [[2026-08-07_OpenAIModelsEscapedContainmentandHackedHuggingFace.md]] : OpenAI Models Escaped Containment and Hacked Hugging Face | WIRED
-- [[2026-08-07_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
-- [[2026-08-07_AirbnbsaysAIishelpingitshipfeaturesfasterasittests.md]] : Airbnb says AI is helping it ship features faster as it tests a new search function
-- [[2026-08-07_CloudflarelaunchesKitesurf_abrowserbuiltforAIagent.md]] : Cloudflare launches Kitesurf, a browser built for AI agents
-- [[2026-08-07_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
-- [[2026-08-07_Anall-skymapofhalfamillionsupermassiveblackholes.md]] : An all-sky map of half a million supermassive black holes
-- [[2026-08-07_OraclebansAI-generatedcodefromOpenJDK.md]] : Oracle bans AI-generated code from OpenJDK
-- [[2026-08-07_DeepSeekV4Flash0731.md]] : DeepSeek V4 Flash 0731
-- [[2026-08-07_AfterRipplingblewmillionsonAIinmonths_itbuiltanemp.md]] : After Rippling blew millions on AI in months, it built an employee ROI tool
-- [[2026-08-07_OpenAIsaysitslowedAstramodeldevelopmentoversecurit.md]] : OpenAI says it slowed Astra model development over security concerns
-- [[2026-08-08_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-08_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-08_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-08_OpenAIsaysitslowedAstramodeldevelopmentoversecurit.md]] : OpenAI says it slowed Astra model development over security concerns
-- [[2026-08-08_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
-- [[2026-08-08_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-08_NASAtokeepits48-year-oldVoyager2proberunningforyet.md]] : NASA to keep its 48-year-old Voyager 2 probe running for yet another year
-- [[2026-08-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-08_NowwehaveatimelineoftheOpenAIaccidentalattackagain.md]] : Now we have a timeline of the OpenAI accidental attack against Hugging Face
-- [[2026-08-08_DeepMind_sWeatherNextmodelachievesbreakthroughfore.md]] : DeepMind's WeatherNext model achieves breakthrough forecasting cyclones
-- [[2026-08-08_Adomaincannowsayitisforsale_inDNS.md]] : A domain can now say it is for sale, in DNS
-- [[2026-08-08_DenmarkRequiresOralDefensesforStudents_WrittenWork.md]] : Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
-- [[2026-08-08_OpenAIacquirespresentationstartupNextSlide.md]] : OpenAI acquires presentation startup NextSlide
-- [[2026-08-09_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-09_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
-- [[2026-08-09_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-09_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-09_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-09__TheoriginalURLforthispredictionwillnolongerbeavai.md]] : "The original URL for this prediction will no longer be available in 11 years." (2011)
-- [[2026-08-09_TheoriginalURLforthispredictionwillnolongerbeavail.md]] : The original URL for this prediction will no longer be available in 11 years (2011)
-- [[2026-08-09_ThereAreMagicHexagonsofEveryOrder.md]] : There Are Magic Hexagons of Every Order
-- [[2026-08-09_AIdetectorsarecreatinganeweraofdistrust.md]] : AI detectors are creating a new era of distrust
-- [[2026-08-09_MeaCulpa_DarkHours.md]] : Mea Culpa – Dark Hours
-- [[2026-08-09_AnthropicisturningClaudeCode_sautomodeonbydefault.md]] : Anthropic is turning Claude Code’s auto mode on by default
-- [[2026-08-09_HowIuseLLMstolearncomplextopics.md]] : How I use LLMs to learn complex topics
-- [[2026-08-10_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-10_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-10_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-10_AutomodeisnowthedefaultinClaudeCode.md]] : Auto mode is now the default in Claude Code
-- [[2026-08-10_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
-- [[2026-08-10_AIdetectorsarecreatinganeweraofdistrust.md]] : AI detectors are creating a new era of distrust
-- [[2026-08-10_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-10_MetaMuseGlimmer_openweights30Blocalcodingmodel.md]] : Meta Muse Glimmer – open weights 30B local coding model
-- [[2026-08-10_Ford_snewAIassistantcancheckyourfuellevelsandtirep.md]] : Ford’s new AI assistant can check your fuel levels and tire pressure
-- [[2026-08-10_BoseCEOLilaSnyderonthefightforhigh-qualityaudio.md]] : Bose CEO Lila Snyder on the fight for high-quality audio
-- [[2026-08-10_CFPs_DataSharingtoSupportAIDevelopmentintheEnergyS.md]] : CFPs: Data Sharing to Support AI Development in the Energy Sector - fundsforNGOs
-- [[2026-08-10_MarsBarfrom1991found_andit_s20gbiggerthantoday_s.md]] : Mars Bar from 1991 found – and it's 20g bigger than today's
-- [[2026-08-10_Meta_snewGlimmerAImodeloffersahintatZuckerberg_spe.md]] : Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision
-- [[2026-08-10_MetaMuseGlimmer_Openweights30Blocalcodingmodel.md]] : Meta Muse Glimmer – Open weights 30B local coding model
-- [[2026-08-10_MuseGlimmer_30B-parametermodeloptimizedforalways-o.md]] : Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows
-- [[2026-08-10_LearningmoreaboutClaude_smathematicalcapabilities.md]] : Learning more about Claude's mathematical capabilities
-- [[2026-08-10_MarkZuckerberg_sAImanifestoisexactlywhypeopledon_t.md]] : Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI
-- [[2026-08-10_WhathappenstoBosewhenheadphonesbecomeAI_-TheVerge.md]] : What happens to Bose when headphones become AI ? - The Verge
-- [[2026-08-11_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[2026-08-11_WhathappenstoBosewhenheadphonesbecomeAI_-TheVerge.md]] : What happens to Bose when headphones become AI ? - The Verge
-- [[2026-08-11_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-11_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-11_H3-metal_NativeMiniMax-H3inferenceforAppleSilicon.md]] : H3-metal – Native MiniMax-H3 inference for Apple Silicon
-- [[2026-08-11_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-11_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-11_HalfofEurope_stownsandvillageshavefewerresidentsth.md]] : Half of Europe's towns and villages have fewer residents than 60 years ago
-- [[2026-08-11_TheAItakeoverofmathematicshasbegun.md]] : The AI takeover of mathematics has begun
-- [[2026-08-11_Francetobanunsolicitedtelemarketingcalls.md]] : France to ban unsolicited telemarketing calls
-- [[2026-08-11_AnthropicsaysitwillwatermarktextgeneratedbyitsAImo.md]] : Anthropic says it will watermark text generated by its AI models
-- [[2026-08-11_ClaudewillapplyinvisiblewatermarkstoAItextandimage.md]] : Claude will apply invisible watermarks to AI text and images
-- [[2026-08-11_Spotifywilllabel_AIPersona_profilesandexcludetheir.md]] : Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations
-- [[2026-08-11_Englandsettobeoneofthefirstcountriestoeliminatehep.md]] : England set to be one of the first countries to eliminate hepatitis C
-- [[2026-08-11__Zoomsday_hackuncoveredusingfewerthan20AIprompts.md]] : ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts
-- [[2026-08-11_AdvancingAMIEtowardsexpert-levelaudio-visualclinic.md]] : Advancing AMIE towards expert-level audio-visual clinical consultations
-- [[2026-08-11_AnunreleasedAnthropicmodelmadeprogressononeofmath_.md]] : An unreleased Anthropic model made progress on one of math’s biggest unsolved problems
-- [[2026-08-11_MadebyGoogle2026_allthePixelnewsandannouncements.md]] : Made by Google 2026: all the Pixel news and announcements
-- [[2026-08-11_TestingadsinChatGPT.md]] : Testing ads in ChatGPT
-- [[2026-08-11_BradLightcap_OpenAI_slongtimeCOO_isleavingto_start.md]] : Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’
-- [[2026-08-11_AppleSiliconandmacOSVMs_11_16_FasterLLMInferencewi.md]] : Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp
-- [[2026-08-11_OpenAIlaunchesChatGPTdesktopappforLinux.md]] : OpenAI launches ChatGPT desktop app for Linux
-- [[2026-08-11_NvidiaNemotron3_5lightningandNeMoSwitchyard.md]] : Nvidia Nemotron 3.5 lightning and NeMo Switchyard
-- [[2026-08-11_ChatGPTandGeminibothjustpassed1billionusers.md]] : ChatGPT and Gemini both just passed 1 billion users
-- [[2026-08-11_NvidiaNemotron3_5LightningandNeMoSwitchyard.md]] : Nvidia Nemotron 3.5 Lightning and NeMo Switchyard
-- [[2026-08-11_Accelclosesoversubscribed_550MIndiafundwithinweeks.md]] : Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
-- [[2026-08-11_WorldClawAgentic3Dopen-worldgenerationatscale.md]] : WorldClaw Agentic 3D open-world generation at scale
-- [[2026-08-11_SaberdeniesreplacingRideshareStimulator__8217_swri.md]] : Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT
-- [[2026-08-11_CFTCdeclaresmarketemergency_ordersKalshitocontinue.md]] : CFTC declares market emergency, orders Kalshi to continue to operate in New York
-- [[2026-08-11_Compressionisprediction.md]] : Compression is prediction
-- [[2026-08-12_SaberdeniesreplacingRideshareStimulator__8217_swri.md]] : Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT
-- [[2026-08-12_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-12_Accelclosesoversubscribed_550MIndiafundwithinweeks.md]] : Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
-- [[2026-08-12_TestingadsinChatGPT.md]] : Testing ads in ChatGPT
-- [[2026-08-12_AdvancingAMIEtowardsexpert-levelaudio-visualclinic.md]] : Advancing AMIE towards expert-level audio-visual clinical consultations
-- [[2026-08-12_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-12_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-12_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-12_Compressionisprediction.md]] : Compression is prediction
-- [[2026-08-12_llama_cpp.md]] : llama.cpp
-- [[2026-08-12_LinkedInCringeBot3000.md]] : LinkedIn CringeBot 3000
-- [[2026-08-12_TimGowers_WhatsortofmathsareLLMsgoodat_.md]] : Tim Gowers: What sort of maths are LLMs good at?
-- [[2026-08-12_Google_sPixelWatch5divesdeeperintoAIandhealth.md]] : Google’s Pixel Watch 5 dives deeper into AI and health
-- [[2026-08-12_EverythingannouncedatMadebyGoogle_26_Pixel11_Pixel.md]] : Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features
-- [[2026-08-12_GuitarcompanyD_AddarioadmitsthatAImusicwasusedinap.md]] : Guitar company D’Addario admits that AI music was used in a promotional video
-- [[2026-08-12_Lovableconfirmsnew_13_3Bvaluation_raisesanother_40.md]] : Lovable confirms new $13.3B valuation, raises another $400M
-- [[2026-08-12_IBMandCHRISTUniversityLaunchCenterforAIResearchand.md]] : IBM and CHRIST University Launch Center for AI Research and Talent Development
-- [[2026-08-12_TailscaleTracesDatabaseCorruptionto16y_oSQLiteWAL-.md]] : Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
-- [[2026-08-12_DeepSeekV4Pro0813.md]] : DeepSeek V4 Pro 0813
-- [[2026-08-12_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
-- [[2026-08-12_TwitchstreamerscannowoptoutfromtrainingAmazon_sAI.md]] : Twitch streamers can now opt out from training Amazon’s AI
-- [[2026-08-12_AIcodingstartupCognitionreportedlyalreadyintalksto.md]] : AI coding startup Cognition reportedly already in talks to raise at $40B valuation
-- [[2026-08-12_AmazonwilltrainonTwitchstreamers_contentbydefault_.md]] : Amazon will train on Twitch streamers’ content by default, unless they opt out
-- [[2026-08-13_DeepSeekV4Pro0813.md]] : DeepSeek V4 Pro 0813
-- [[2026-08-13_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
-- [[2026-08-13_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-13_TwitchstreamerscannowoptoutfromtrainingAmazon_sAI.md]] : Twitch streamers can now opt out from training Amazon’s AI
-- [[2026-08-13_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-13_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-13_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-13_ChatGPTDesktop_CodexDesktop_forLinux.md]] : ChatGPT Desktop (Codex Desktop) for Linux
-- [[2026-08-13_DeutscheBankbecomesfirstforeignyuanclearingbankinE.md]] : Deutsche Bank becomes first foreign yuan clearing bank in Europe
-- [[2026-08-13_MicrosoftiscombiningitsCopilotappsaheadofa_superap.md]] : Microsoft is combining its Copilot apps ahead of a ‘super app’
-- [[2026-08-13_DeepSeekHarness.md]] : DeepSeek Harness
-- [[2026-08-13_AppleintalkstopaypublisherstoprovideSiriwithcurren.md]] : Apple in talks to pay publishers to provide Siri with current news: report
-- [[2026-08-13_MicrosoftkillsoffunsuccessfulAIfeatureswhilemergin.md]] : Microsoft kills off unsuccessful AI features while merging its separate Copilot apps
-- [[2026-08-13_Sunoistryingtolookmorelikearealmusicproductiontool.md]] : Suno is trying to look more like a real music production tool
-- [[2026-08-13_SpaghettifyingDRAM.md]] : Spaghettifying DRAM
-- [[2026-08-13_PreviewingUltrafastmode_GPT-5_6Solatupto14Xthespee.md]] : Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
-- [[2026-08-13_OpenAIhiresnewCROasexecutiveshake-upcontinues.md]] : OpenAI hires new CRO as executive shake-up continues
-- [[2026-08-13_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
-- [[2026-08-13_AnthropicsetAIagentslooseonthesametask_Theystarted.md]] : Anthropic set AI agents loose on the same task. They started a turf war.
-- [[2026-08-13_OpenAIislosingitssecondexecutivethisweek.md]] : OpenAI is losing its second executive this week
-- [[2026-08-13_Databrickswantedtoraise_1B_investorswanted_15B_Its.md]] : Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.
-- [[2026-08-13_WriterintroducesnewAImodelandupgradedharnesstocont.md]] : Writer introduces new AI model and upgraded harness to contain token costs
-- [[2026-08-14_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-14_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
-- [[2026-08-14_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-14_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
-- [[2026-08-14_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-14_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-14_WriterintroducesnewAImodelandupgradedharnesstocont.md]] : Writer introduces new AI model and upgraded harness to contain token costs
-- [[2026-08-14_GLM-5_3_FrontierCodingwithEmergentCyberCapabilitie.md]] : GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
-- [[2026-08-14_GLM-5_3_Frontiercodingwithemergentcybercapabilitie.md]] : GLM-5.3: Frontier coding with emergent cyber capabilities
-- [[2026-08-14_KogisgoingdeepertosqueezemoreinferenceoutofGPUs.md]] : Kog is going deeper to squeeze more inference out of GPUs
-- [[2026-08-14_DoesMarkZuckerbergreallybelieveAIis_foreveryone__.md]] : Does Mark Zuckerberg really believe AI is ‘for everyone’?
-- [[2026-08-14_Googlewillnowallowuserstoremovevisiblewatermarkfro.md]] : Google will now allow users to remove visible watermark from its AI generations
-- [[2026-08-14_Qwen3_827B.md]] : Qwen 3.8 27B
-- [[2026-08-14_Magnitude7_7Earthquake_68kmNNWofEnde_Indonesia.md]] : Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
-- [[2026-08-15_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-15_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-15_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-15_Googlewillnowallowuserstoremovevisiblewatermarkfro.md]] : Google will now allow users to remove visible watermark from its AI generations
-- [[2026-08-15_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
-- [[2026-08-15_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
-- [[2026-08-15_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-15_Magnitude7_7Earthquake_68kmNNWofEnde_Indonesia.md]] : Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
-- [[2026-08-15_Qwen3_827B.md]] : Qwen 3.8 27B
-- [[2026-08-15_Auto-researchwithcodex_HowIachieveda232xFasterKern.md]] : Auto-research with codex: How I achieved a 232x Faster Kernel
-- [[2026-08-15_TheFirstAt-HomeTestforInfectedTicksCouldImproveLym.md]] : The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis
-- [[2026-08-15_SpaceXofficiallyclosesitsCursoracquisition.md]] : SpaceX officially closes its Cursor acquisition
-- [[2026-08-15_Semaglutidelinkedto26_lower5-yearpredicteddementia.md]] : Semaglutide linked to 26% lower 5-year predicted dementia risk
-- [[2026-08-15_AnthropicsharesmoredetailsabouthowClaude_snewwater.md]] : Anthropic shares more details about how Claude’s new watermarks will work
-- [[2026-08-15_Semaglutidelinkedtolowerpredicteddementiarisk.md]] : Semaglutide linked to lower predicted dementia risk
-- [[2026-08-15_WomanclaimsherstepfatherusedGroktotransformchildho.md]] : Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
-- [[2026-08-15_AbdominalfatpredictsheartdiseaseriskbetterthanBMI.md]] : Abdominal fat predicts heart disease risk better than BMI
-- [[2026-08-15_HavealaughatAI_sexpensebyroleplayingasachatbot.md]] : Have a laugh at AI’s expense by roleplaying as a chatbot
-- [[2026-08-15_Engineerswilldoanythingtoavoidlearningfromhistory.md]] : Engineers will do anything to avoid learning from history
-- [[2026-08-15_AsusBikeBooster.md]] : Asus Bike Booster
-- [[2026-08-16_WomanclaimsherstepfatherusedGroktotransformchildho.md]] : Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
-- [[2026-08-16_HavealaughatAI_sexpensebyroleplayingasachatbot.md]] : Have a laugh at AI’s expense by roleplaying as a chatbot
-- [[2026-08-16_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-16_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
-- [[2026-08-16_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-16_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-16_AsusBikeBooster.md]] : Asus Bike Booster
-- [[2026-08-16_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-16_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
-- [[2026-08-16_WhathappenswhenanLLMneverseesmaterialbeyondfifthgr.md]] : What happens when an LLM never sees material beyond fifth grade?
-- [[2026-08-16_Leaveyourscreenunlocked_meetdeveloperspaypal_com.md]] : Leave your screen unlocked, meet developers paypal.com
-- [[2026-08-16_RogueAIaren_tsciencefictionanymore.md]] : Rogue AI aren’t science fiction anymore
-- [[2026-08-16_Claude_SystemPrompts.md]] : Claude: System Prompts
-- [[2026-08-16_ChatGPT_sComputerHistorytracksyourclicksandkeystro.md]] : ChatGPT’s Computer History tracks your clicks and keystrokes
-- [[2026-08-16_ModelsAreGettingDumberonPurpose.md]] : Models Are Getting Dumber on Purpose
-- [[2026-08-16_StripewillreportedlyacquireAIgatewaystartupOpenRou.md]] : Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
-- [[2026-08-16_TheCaseAgainstFormalVerification_50YearsLater.md]] : The Case Against Formal Verification, 50 Years Later
-- [[2026-08-16_OpenAIreportedlydisbandeditspreparednessteam.md]] : OpenAI reportedly disbanded its preparedness team
-- [[2026-08-16_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md]] : Qwen 3.8 27B is excellent, but it defaults to overthinking things
-- [[2026-08-16_FightingfakenewswithAI_howwestAfrica_sDubawaistran.md]] : Fighting fake news with AI — how west Africa's Dubawa is transforming fact-checking
-- [[2026-08-17_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-17_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
-- [[2026-08-17_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
-- [[2026-08-17_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-17_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-17_FightingfakenewswithAI_howwestAfrica_sDubawaistran.md]] : Fighting fake news with AI — how west Africa's Dubawa is transforming fact-checking
-- [[2026-08-17_OpenAIreportedlydisbandeditspreparednessteam.md]] : OpenAI reportedly disbanded its preparedness team
-- [[2026-08-17_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-17_StripewillreportedlyacquireAIgatewaystartupOpenRou.md]] : Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
-- [[2026-08-17_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md]] : Qwen 3.8 27B is excellent, but it defaults to overthinking things
-- [[2026-08-17_NewpolicyideasfortheIntelligenceAge.md]] : New policy ideas for the Intelligence Age
-- [[2026-08-17_AnthropicexplainshowClaude__8217_sinvisibletextwat.md]] : Anthropic explains how Claude&#8217;s invisible text watermarks will work
-- [[2026-08-17_TheDefender_sWindow.md]] : The Defender’s Window
-- [[2026-08-17_Wisprraises_280Mat_2Bvaluationasitlooksbeyonddicta.md]] : Wispr raises $280M at $2B valuation as it looks beyond dictation
-- [[2026-08-17_APreviewofDuckDBv2_0.md]] : A Preview of DuckDB v2.0
-- [[2026-08-17_Qwen3_827Bscores52onArtificialAnalysis.md]] : Qwen3.8 27B scores 52 on Artificial Analysis
-- [[2026-08-17_AI_DR_AI_Didn_tRead_.md]] : AI;DR (AI; Didn't Read)
-- [[2026-08-17_GPUOffloadinRust_Portable_Safe_andFast.md]] : GPU Offload in Rust: Portable, Safe, and Fast
-- [[2026-08-17_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
-- [[2026-08-17_AIautomationstartupRelayshutsdown_staffjoinsGoogle.md]] : AI automation startup Relay shuts down, staff joins Google’s Chrome team
-- [[2026-08-17_Anthropic_sannualizedrevenuesurgesto_65B.md]] : Anthropic’s annualized revenue surges to $65B
-- [[2026-08-17_EvaxionExpandsPipelinewithEVX-05_anAI-DesignedOff-.md]] : Evaxion Expands Pipeline with EVX-05, an AI -Designed Off-the-Shelf Glioblastoma Vaccine
-- [[2026-08-18_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-18_EvaxionExpandsPipelinewithEVX-05_anAI-DesignedOff-.md]] : Evaxion Expands Pipeline with EVX-05, an AI -Designed Off-the-Shelf Glioblastoma Vaccine
-- [[2026-08-18_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-18_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-18_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
-- [[2026-08-18_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-18_TheDefender_sWindow.md]] : The Defender’s Window
-- [[2026-08-18_Linux7_3improvesperformancewhenrunningoutofvRAM.md]] : Linux 7.3 improves performance when running out of vRAM
-- [[2026-08-18_ElonMuskmadeflyingevenworsesoPalantircouldprofit.md]] : Elon Musk made flying even worse so Palantir could profit
-- [[2026-08-18_Google__8217_sPetMemoryforgotwhomycatsare.md]] : Google&#8217;s Pet Memory forgot who my cats are
-- [[2026-08-18_Anthropic_sannualizedrevenuesurgesto_65B.md]] : Anthropic’s annualized revenue surges to $65B
-- [[2026-08-18_PartneringwithCodeAItopreparethefirstAIgeneration.md]] : Partnering with CodeAI to prepare the first AI generation
-- [[2026-08-18_Usingtherailwaynetworkasaflatbedscanner.md]] : Using the railway network as a flatbed scanner
-- [[2026-08-18_Warp_snewsystemisanout-of-the-boxsoftwarefactoryfo.md]] : Warp’s new system is an out-of-the-box software factory for AI development
-- [[2026-08-18_Firefox__8217_sSmartWindowpromisesabetterAIbrowser.md]] : Firefox&#8217;s Smart Window promises a better AI browser
-- [[2026-08-18_TheAmazonTax.md]] : The Amazon Tax
-- [[2026-08-18_Claude_DegradedPerformanceforMultipleModels.md]] : Claude: Degraded Performance for Multiple Models
-- [[2026-08-18_ClaudeCodeweeklylimitsreducebyathirdtomorrow.md]] : Claude Code weekly limits reduce by a third tomorrow
-- [[2026-08-18_OpenAIinstitutesnewsafeguardsafterHuggingFacebreac.md]] : OpenAI institutes new safeguards after Hugging Face breach
-- [[2026-08-18_Turbovec_Google_sTurboQuantforvectorsearchinRust.md]] : Turbovec – Google's TurboQuant for vector search in Rust
-- [[2026-08-18_StrengtheningDemocraticOversightinNationalSecurity.md]] : Strengthening Democratic Oversight in National Security
-- [[2026-08-18_RobinWilliams_Instagramaccountbroughtbacktofight_A.md]] : Robin Williams’ Instagram account brought back to fight ‘AI abuse’
-- [[2026-08-18_BewareManagementConsultants.md]] : Beware Management Consultants
-- [[2026-08-18_Strengtheningdemocraticoversightinnationalsecurity.md]] : Strengthening democratic oversight in national security
-- [[2026-08-18_CursorcapitalizesonGitHubfrustration_launchesrival.md]] : Cursor capitalizes on GitHub frustration, launches rival hosting platform
-- [[2026-08-18_A3DfruitflyonmacOSdesktoppoweredbytherealFlyWireco.md]] : A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
-- [[2026-08-18_NestlébetsbigonGLP-1swithAI-powerednutritionpush-F.md]] : Nestlé bets big on GLP-1s with AI -powered nutrition push - Food Navigator
-- [[2026-08-19_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-19_NestlébetsbigonGLP-1swithAI-powerednutritionpush-F.md]] : Nestlé bets big on GLP-1s with AI -powered nutrition push - Food Navigator
-- [[2026-08-19_CursorcapitalizesonGitHubfrustration_launchesrival.md]] : Cursor capitalizes on GitHub frustration, launches rival hosting platform
-- [[2026-08-19_Meta_sblockbustertrialdrawsparallelstobigtobacco.md]] : Meta's blockbuster trial draws parallels to big tobacco
-- [[2026-08-19_RobinWilliams_Instagramaccountbroughtbacktofight_A.md]] : Robin Williams’ Instagram account brought back to fight ‘AI abuse’
-- [[2026-08-19_ChatGPTAdsexpandsacrossEurope.md]] : ChatGPT Ads expands across Europe
-- [[2026-08-19_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[2026-08-19_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-19_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
-- [[2026-08-19_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-19_HowAIcancontributetohumanculturalevolution_Max-Pla.md]] : How AI can contribute to human cultural evolution | Max-Planck-Gesellschaft
-- [[2026-08-19_RelativityNetworksraises_22milliontobringafasterki.md]] : Relativity Networks raises $22 million to bring a faster kind of fiber to data centers
-- [[2026-08-19_GrapheneOSin2027availableonhigh-endMotorolaphones.md]] : GrapheneOS in 2027 available on high-end Motorola phones
-- [[2026-08-19_ReplitexpandsaccesstosoftwarecreationwithGPT-5_6Lu.md]] : Replit expands access to software creation with GPT-5.6 Luna
-- [[2026-08-19_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[2026-08-19_AmazonmakesitsAI-poweredAlexa_freeonFireTV_noPrime.md]] : Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required
-- [[2026-08-19_TerraPower_snuclearreactorhasasecretweaponforpower.md]] : TerraPower’s nuclear reactor has a secret weapon for powering AI data centers
-- [[2026-08-19_CivicHygiene_avoidbuildingtechnologiesthatcouldbeu.md]] : Civic Hygiene – avoid building technologies that could be used by a police state
-- [[2026-08-19_ElonMuskmadeflyingevenworsesoPalantircouldprofit.md]] : Elon Musk made flying even worse so Palantir could profit
-- [[2026-08-19_OfferingZeroDataRetentionforfrontiermodels.md]] : Offering Zero Data Retention for frontier models
-- [[2026-08-19_MeetthestartuphelpingWallStreetputapriceonAIcomput.md]] : Meet the startup helping Wall Street put a price on AI compute
-- [[2026-08-19_GoogleGeminiisgettingadedicatedstudenthub.md]] : Google Gemini is getting a dedicated student hub
-- [[2026-08-19_OpenAIseekstoone-upAnthropicwithnewcustomerprivacy.md]] : OpenAI seeks to one-up Anthropic with new customer privacy protections
-- [[2026-08-19_Stripedidn_treallybuyOpenRouterbecauseofthe_singul.md]] : Stripe didn’t really buy OpenRouter because of the ‘singularity’
-- [[2026-08-20_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-20_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[2026-08-20_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-20_Stripedidn_treallybuyOpenRouterbecauseofthe_singul.md]] : Stripe didn’t really buy OpenRouter because of the ‘singularity’
-- [[2026-08-20_OfferingZeroDataRetentionforfrontiermodels.md]] : Offering Zero Data Retention for frontier models
-- [[2026-08-20_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-20_GoogleGeminiisgettingadedicatedstudenthub.md]] : Google Gemini is getting a dedicated student hub
-- [[2026-08-20_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
-- [[2026-08-20_WhyMicrosoftEntertainmentPackhadastickerannouncing.md]] : Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
-- [[2026-08-20_Don_tPastetheAI_please.md]] : Don't Paste the AI, please
-- [[2026-08-20_Slackislaunchingcollaborativevibe-codingchannels.md]] : Slack is launching collaborative vibe-coding channels
-- [[2026-08-20_MetaAI_snewMacappwantsyoutotalktoyourapps.md]] : Meta AI’s new Mac app wants you to talk to your apps
-- [[2026-08-20_MaliciousRustCrateArrayrefRunsaBuild-TimePayload.md]] : Malicious Rust Crate Arrayref Runs a Build-Time Payload
-- [[2026-08-20_WelcometotheAIcrisisinmath.md]] : Welcome to the AI crisis in math
-- [[2026-08-20_AliExpressrunssilentWebAudiofingerprintingthatbrea.md]] : AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
-- [[2026-08-20_HowChatGPTWorkhelpsStamplimoveideastomarket.md]] : How ChatGPT Work helps Stampli move ideas to market
-- [[2026-08-20_It_sGregBrockman_sOpenAInow.md]] : It’s Greg Brockman’s OpenAI now
-- [[2026-08-20_MetabringsPocket_anappthatletsyouvibe-codeandshare.md]] : Meta brings Pocket, an app that lets you vibe-code and share games, to US users
-- [[2026-08-20_Ilike_emthick_anapologytomyEnglishteachers.md]] : I like 'em thick: an apology to my English teachers
-- [[2026-08-20_RamplaunchesitsownAImodelrouter_calledRouter.md]] : Ramp launches its own AI model router, called Router
-- [[2026-08-20_Grokkeepssendinggibberishresponsestousers.md]] : Grok keeps sending gibberish responses to users
-- [[2026-08-20_Runlayer_Ripplingdroplawsuits_Butthebrouhahaisstil.md]] : Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.
-- [[2026-08-20_ScientificstudyrevealsTikTokvideosdeactivatekeycog.md]] : Scientific study reveals TikTok videos deactivate key cognitive brain regions
-- [[2026-08-20_GooglegivespublishersanewwaytofightAI-driventraffi.md]] : Google gives publishers a new way to fight AI-driven traffic losses
-- [[2026-08-20_ShowHN_Huzzah_anovelapproachtocodingwithAI.md]] : Show HN: Huzzah – a novel approach to coding with AI
-- [[2026-08-20_GoogleDiscoverisgettinganAIchatbot-tunedfeed.md]] : Google Discover is getting an AI chatbot-tuned feed
-- [[2026-08-20_ChatGPTcannowsendtextsforyouwithnewAppleMessagespl.md]] : ChatGPT can now send texts for you with new Apple Messages plugin
-- [[2026-08-20_OpenAIisgainingonAnthropicwithbusinessusers_newdat.md]] : OpenAI is gaining on Anthropic with business users, new data indicates
-- [[2026-08-20_CopyrightdoesnotprotectAI-generatedcontentinEU.md]] : Copyright does not protect AI-generated content in EU
-- [[2026-08-20_CoreWeavesignsAIclouddealwithHudsonRiverTradingfor.md]] : CoreWeave signs AI cloud deal with Hudson River Trading for research platform - ROI-NJ
-- [[2026-08-20_AIcompaniesdestroyphysicalbooks_let_sscanrarebooks.md]] : AI companies destroy physical books – let's scan rare books before it's too late
-- [[2026-08-21_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-21_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-21_GoogleDiscoverisgettinganAIchatbot-tunedfeed.md]] : Google Discover is getting an AI chatbot-tuned feed
-- [[2026-08-21_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[2026-08-21_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-21_CoreWeavesignsAIclouddealwithHudsonRiverTradingfor.md]] : CoreWeave signs AI cloud deal with Hudson River Trading for research platform - ROI-NJ
-- [[2026-08-21_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
-- [[2026-08-21_DeepSeek-v4-flash-vision-exp.md]] : DeepSeek-v4-flash-vision-exp
-- [[2026-08-21_Kagiaddedasettingforremovingpaywalledlinksfromsear.md]] : Kagi added a setting for removing paywalled links from search results
-- [[2026-08-21_Starcloudraises_250millionfororbitaldatacentersasl.md]] : Starcloud raises $250 million for orbital data centers as launch options dry up
-- [[2026-08-21_EthiopiaandRussiastrengthenAIcooperation_TVBRICS_2.md]] : Ethiopia and Russia strengthen AI cooperation | TV BRICS, 21.08.26
-- [[2026-08-21_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
-- [[2026-08-21_Kobocanrunappsnow.md]] : Kobo can run apps now
-- [[2026-08-21_Nvidiajustshowedthattheharness_nottheAImodel_isnow.md]] : Nvidia just showed that the harness, not the AI model, is now the real hero
-- [[2026-08-21_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
-- [[2026-08-21_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
-- [[2026-08-22_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-22_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-22_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-22_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
-- [[2026-08-22_EthiopiaandRussiastrengthenAIcooperation_TVBRICS_2.md]] : Ethiopia and Russia strengthen AI cooperation | TV BRICS, 21.08.26
-- [[2026-08-22_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
-- [[2026-08-22_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
-- [[2026-08-22_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[2026-08-22_FelonyBench.md]] : Felony Bench
-- [[2026-08-22_AKantianCritiqueof_Sorry_byJustinBieber.md]] : A Kantian Critique of "Sorry" by Justin Bieber
-- [[2026-08-22_FrontierAIlabsstillwon_tsayhowthey_dcontainaroguem.md]] : Frontier AI labs still won’t say how they’d contain a rogue model
-- [[2026-08-22_OpenAIsaysCaliforniashouldstrengthenitsAIsafetybil.md]] : OpenAI says California should strengthen its AI safety bill
-- [[2026-08-22_ElevenLabs_TwelveLabs_ThirteenLabs.md]] : ElevenLabs, TwelveLabs, ThirteenLabs
-- [[2026-08-22_Inherent_foundedbyDeepMindalumni_saysitsAI_teammat.md]] : Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
-- [[2026-08-22_hdiutilisdeprecatedinmacOS27GoldenGate.md]] : hdiutil is deprecated in macOS 27 Golden Gate
-- [[2026-08-22_Scrap.md]] : Scrap
-- [[2026-08-22_Figmimic_AbookmarklettocopyanywebpageintoFigmaased.md]] : Figmimic – A bookmarklet to copy any webpage into Figma as editable layers
-- [[2026-08-22_Scrap_2006_.md]] : Scrap (2006)
-- [[2026-08-23_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[2026-08-23_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
-- [[2026-08-23_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-23_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-23_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-23_SydneyMarathonmedalmistakenlydepictsMunichstadium.md]] : Sydney Marathon medal mistakenly depicts Munich stadium
-- [[2026-08-23_MalwareinfectsAndroid-basedautomotiveheadunitfirmw.md]] : Malware infects Android-based automotive head unit firmware
-- [[2026-08-23_HowComplexSystemsFail.md]] : How Complex Systems Fail
-- [[2026-08-23_Ispent_266andfourAImodelstoownmytablet_GLM-5_3fini.md]] : I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
-- [[2026-08-23_Who_sbehindthenew_stealthmodel_OxAlpha_.md]] : Who’s behind the new ‘stealth model’ Ox Alpha?
-- [[2026-08-23_IntroducingAIFutures.md]] : Introducing AI Futures
-- [[2026-08-24_Who_sbehindthenew_stealthmodel_OxAlpha_.md]] : Who’s behind the new ‘stealth model’ Ox Alpha?
-- [[2026-08-24_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-24_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[2026-08-24_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[2026-08-24_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-24_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
-- [[2026-08-24_SeL4securityproofsnowcompleteonAArch64.md]] : SeL4 security proofs now complete on AArch64
-- [[2026-08-24_HowEuropeiskillingmakersandmicro-entrepreneurs.md]] : How Europe is killing makers and micro-entrepreneurs
-- [[2026-08-24_HuggingFacereportedlyintalkstobeacquiredfor_13B.md]] : Hugging Face reportedly in talks to be acquired for $13B
-- [[2026-08-24_OpenAIisbuildingAIagentsforeverything_Willeveryone.md]] : OpenAI is building AI agents for everything. Will everyone use them?
-- [[2026-08-24_BuildingAIcapabilitiestailoredtoVietnam_sneeds-Vie.md]] : Building AI capabilities tailored to Vietnam's needs - Vietnam+ (VietnamPlus)
-- [[2026-08-24_Instinct_spowerfulAIassistantisraisingprivacyandse.md]] : Instinct’s powerful AI assistant is raising privacy and security concerns
-- [[2026-08-24_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
-- [[2026-08-24_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
-- [[2026-08-24_OnecornerofChina_sinternetisinsistingthattheTangDy.md]] : One corner of China’s internet is insisting that the Tang Dynasty never existed
+- [[entities/article/2026-07-27_InternationalFellowsexploreAI_science_andpolicyinP_summary.md]] : International Fellows explore AI , science , and policy in Pittsburgh - DVIDS
+- [[entities/article/2026-07-28_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-07-28_InternationalFellowsexploreAI_science_andpolicyinP_summary.md]] : International Fellows explore AI , science , and policy in Pittsburgh - DVIDS
+- [[entities/article/2026-07-28_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-07-28_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[entities/article/2026-07-28_CursormakesitsbiggestIndiapushyetaheadofSpaceXacqu_summary.md]] : Cursor makes its biggest India push yet ahead of SpaceX acquisition with localized pricing
+- [[entities/article/2026-07-28_Inkling_OurOpen-WeightsModel_summary.md]] : Inkling: Our Open-Weights Model
+- [[entities/article/2026-07-28_7_1EarthquakeinJapan_summary.md]] : 7.1 Earthquake in Japan
+- [[entities/article/2026-07-28_HuggingFaceisbeingusedtoeasilyundresswomenandchild_summary.md]] : Hugging Face is being used to easily undress women and children
+- [[entities/article/2026-07-28_ScientificcomputingintheageofagenticAI_summary.md]] : Scientific computing in the age of agentic AI
+- [[entities/article/2026-07-28_YouCouldHaveComeUpwithKimiDeltaAttention_summary.md]] : You Could Have Come Up with Kimi Delta Attention
+- [[entities/article/2026-07-28_AIleaderssignstatementaskingthegovernmenttodosomet_summary.md]] : AI leaders sign statement asking the government to do something about automated AI
+- [[entities/article/2026-07-28_DeflockCasaGrande_summary.md]] : Deflock Casa Grande
+- [[entities/article/2026-07-28_StudyandLearn_AIbuiltforlearninginMicrosoft365Copi_summary.md]] : Study and Learn: AI built for learning in Microsoft 365 Copilot | Microsoft Education Blog
+- [[entities/article/2026-07-28_OpenAIjustopen-sourcedCodexSecurity_summary.md]] : OpenAI just open-sourced Codex Security
+- [[entities/article/2026-07-28_Bot-detectionstartupSpurnabs_200MfromInsight_summary.md]] : Bot-detection startup Spur nabs $200M from Insight
+- [[entities/article/2026-07-28_CodexSecurity_summary.md]] : Codex Security
+- [[entities/article/2026-07-28_CyeraagreestoacquireOasisSecurityfor_1Btosafeguard_summary.md]] : Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents
+- [[entities/article/2026-07-28_AIleaderssignastatementaskingthegovernmenttodosome_summary.md]] : AI leaders sign a statement asking the government to do something about automated AI
+- [[entities/article/2026-07-29_CodexSecurity_summary.md]] : Codex Security
+- [[entities/article/2026-07-29_Inkling_OurOpen-WeightsModel_summary.md]] : Inkling: Our Open-Weights Model
+- [[entities/article/2026-07-29_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-07-29_AIleaderssignastatementaskingthegovernmenttodosome_summary.md]] : AI leaders sign a statement asking the government to do something about automated AI
+- [[entities/article/2026-07-29_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-07-29_ScientificcomputingintheageofagenticAI_summary.md]] : Scientific computing in the age of agentic AI
+- [[entities/article/2026-07-29_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[entities/article/2026-07-29_We_rerunningoutofreasonstoignoreAIsafety_summary.md]] : We’re running out of reasons to ignore AI safety
+- [[entities/article/2026-07-29_ArtistsarelawyeringupagainstAIslop_andsomeareevenw_summary.md]] : Artists are lawyering up against AI slop, and some are even winning
+- [[entities/article/2026-07-29_AsAIcontentfloodstheinternet_Pangramraises_9Mtodet_summary.md]] : As AI content floods the internet, Pangram raises $9M to detect it
+- [[entities/article/2026-07-29_KOReader_summary.md]] : KOReader
+- [[entities/article/2026-07-29_ShowHN_Open-sourceenginerunningGemma426Bin2GBRAMon_summary.md]] : Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac
+- [[entities/article/2026-07-29_Hint_anewAIstartupco-foundedbyMarthaStewart_offers_summary.md]] : Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners
+- [[entities/article/2026-07-29_AcceleratingscientificdiscoverywithChatGPTforAcade_summary.md]] : Accelerating scientific discovery with ChatGPT for Academic Researchers
+- [[entities/article/2026-07-29_AtlassiantightenstrackingofstaffAIuseasothertechno_summary.md]] : Atlassian tightens tracking of staff AI use as other technology firms encourage 'tokenmaxxing'
+- [[entities/article/2026-07-29_ClaudeOpus5becamedownrightruthlesswhentaskedwithru_summary.md]] : Claude Opus 5 became downright ruthless when tasked with running a vending machine
+- [[entities/article/2026-07-29_OpenAIpresidentsaysit__8217_s__8216_buildingafamil_summary.md]] : OpenAI president says it&#8217;s &#8216;building a family of devices&#8217; for its AI chatbots
+- [[entities/article/2026-07-29_TheHuggingFaceAIbreak-in_astoldthroughanincreasing_summary.md]] : The Hugging Face AI break-in, as told through an increasingly committed bear metaphor
+- [[entities/article/2026-07-29_KimiK3-256k_summary.md]] : Kimi K3-256k
+- [[entities/article/2026-07-29_ThecoolestusefortheVisionPro_summary.md]] : The coolest use for the Vision Pro
+- [[entities/article/2026-07-29_MarkZuckerbergisplanningabigpushintopersonalAIagen_summary.md]] : Mark Zuckerberg is planning a big push into personal AI agents
+- [[entities/article/2026-07-29_MicrosoftconfirmsCopilot_superapp_comingthisyear_summary.md]] : Microsoft confirms Copilot ‘super app’ coming this year
+- [[entities/article/2026-07-29_HowenablingtwosettingstripledourscoresontheARC-AGI_summary.md]] : How enabling two settings tripled our scores on the ARC-AGI-3 benchmark
+- [[entities/article/2026-07-29_MicrosoftisopenlycompetingwithOpenAI_Anthropicmore_summary.md]] : Microsoft is openly competing with OpenAI, Anthropic more than ever
+- [[entities/article/2026-07-29_AI_stopstartupsarebarelypublishingtheirresearch_summary.md]] : AI's top startups are barely publishing their research
+- [[entities/article/2026-07-30_AI_stopstartupsarebarelypublishingtheirresearch_summary.md]] : AI's top startups are barely publishing their research
+- [[entities/article/2026-07-30_Inkling_OurOpen-WeightsModel_summary.md]] : Inkling: Our Open-Weights Model
+- [[entities/article/2026-07-30_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-07-30_HowenablingtwosettingstripledourscoresontheARC-AGI_summary.md]] : How enabling two settings tripled our scores on the ARC-AGI-3 benchmark
+- [[entities/article/2026-07-30_SymptomAI_TowardsaconversationalAIagentforeveryday_summary.md]] : SymptomAI: Towards a conversational AI agent for everyday symptom assessment
+- [[entities/article/2026-07-30_MicrosoftisopenlycompetingwithOpenAI_Anthropicmore_summary.md]] : Microsoft is openly competing with OpenAI, Anthropic more than ever
+- [[entities/article/2026-07-30_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-07-30_MicrosoftconfirmsCopilot_superapp_comingthisyear_summary.md]] : Microsoft confirms Copilot ‘super app’ coming this year
+- [[entities/article/2026-07-30_GpiozeroFlow_summary.md]] : Gpiozero Flow
+- [[entities/article/2026-07-30__VPNsarelawfultechnicaltools__saysEUCourtinlandmar_summary.md]] : 'VPNs are lawful technical tools,' says EU Court in landmark copyright ruling
+- [[entities/article/2026-07-30_IntheHuggingFacebreach_OpenAI_shackerwasnoisyandfa_summary.md]] : In the Hugging Face breach, OpenAI’s hacker was noisy and fast — but not unstoppable
+- [[entities/article/2026-07-30_MetasaysAIismakingiteasiertobuildnewapps_andmorear_summary.md]] : Meta says AI is making it easier to build new apps — and more are coming
+- [[entities/article/2026-07-30_OktabuysAIsecuritystartupPermiso_sourcesaysforabou_summary.md]] : Okta buys AI security startup Permiso; source says for about $200M
+- [[entities/article/2026-07-30_Friendre-launchesitsAIpendantwithaspeakerthattalks_summary.md]] : Friend re-launches its AI pendant with a speaker that talks to you, for twice the price
+- [[entities/article/2026-07-30_IntroducingInkling-Small_summary.md]] : Introducing Inkling-Small
+- [[entities/article/2026-07-30_GooglesaysitfixedmoreChromebugsinJunethanoverthepa_summary.md]] : Google says it fixed more Chrome bugs in June than over the past two years, thanks to AI
+- [[entities/article/2026-07-30_Friend_thelonelyAIwearable_returnswithanewvoiceand_summary.md]] : Friend, the lonely AI wearable, returns with a new voice and a much bigger price tag
+- [[entities/article/2026-07-30_ScienceOneFramework_Averifiableautonomousresearchf_summary.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[entities/article/2026-07-30_ThelossofSituationalAwareness_summary.md]] : The loss of Situational Awareness
+- [[entities/article/2026-07-30_TimCookhintsatiCloudPlustierforAIpowerusers_summary.md]] : Tim Cook hints at iCloud Plus tier for AI power users
+- [[entities/article/2026-07-30_InvestorsloveAI_aslongasyou_reacloudhost_summary.md]] : Investors love AI, as long as you’re a cloud host
+- [[entities/article/2026-07-30_AnthropicsaysitsownAImodelsbreachedthreecompaniesd_summary.md]] : Anthropic says its own AI models breached three companies during security tests
+- [[entities/article/2026-07-30_TheAIAesthetic_summary.md]] : The AI Aesthetic
+- [[entities/article/2026-07-31_AnthropicsaysitsownAImodelsbreachedthreecompaniesd_summary.md]] : Anthropic says its own AI models breached three companies during security tests
+- [[entities/article/2026-07-31_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-07-31_Advancingtheprice-performancefrontierwithGPT-5_6_summary.md]] : Advancing the price-performance frontier with GPT-5.6
+- [[entities/article/2026-07-31_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-07-31_TimCookhintsatiCloudPlustierforAIpowerusers_summary.md]] : Tim Cook hints at iCloud Plus tier for AI power users
+- [[entities/article/2026-07-31_IntroducingInkling-Small_summary.md]] : Introducing Inkling-Small
+- [[entities/article/2026-07-31_ScienceOneFramework_Averifiableautonomousresearchf_summary.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[entities/article/2026-07-31_TheAItradenowrunsonborrowedmoney_andthelendersarer_summary.md]] : The AI trade now runs on borrowed money, and the lenders are repricing it
+- [[entities/article/2026-07-31_AdvancingresponsibleAIacrossEurope_summary.md]] : Advancing responsible AI across Europe
+- [[entities/article/2026-07-31_TheEndofanEra_summary.md]] : The End of an Era
+- [[entities/article/2026-07-31_DeepSeekV4Flash0731Intelligence_PerformanceandPric_summary.md]] : DeepSeek V4 Flash 0731 Intelligence, Performance and Price Analysis
+- [[entities/article/2026-07-31_AnthropicsaysClaudeaccidentallyhackedrealcompanies_summary.md]] : Anthropic says Claude accidentally hacked real companies too
+- [[entities/article/2026-07-31_Smallest_airaises_13Mtobuildultra-fastvoiceAIthats_summary.md]] : Smallest.ai raises $13M to build ultra-fast voice AI that sounds genuinely human
+- [[entities/article/2026-07-31_It_stimetopanicaboutAIsafety_summary.md]] : It’s time to panic about AI safety
+- [[entities/article/2026-07-31_SpaceXwon_tremoveallofxAI_sunpermittedturbinesfora_summary.md]] : SpaceX won’t remove all of xAI’s unpermitted turbines for another year
+- [[entities/article/2026-07-31_Elevators_summary.md]] : Elevators
+- [[entities/article/2026-07-31_SnapchatnolongerrewardsfullyAI-generatedSpotlightc_summary.md]] : Snapchat no longer rewards fully AI-generated Spotlight content
+- [[entities/article/2026-07-31_DisruptingaCriminalScamOperation_summary.md]] : Disrupting a Criminal Scam Operation
+- [[entities/article/2026-07-31_Here_stheproblemwithputtinganAIimagegeneratorinGoo_summary.md]] : Here’s the problem with putting an AI image generator in Google Earth
+- [[entities/article/2026-07-31_GooglenixesitsEarthAIfeatureonedayafterlaunch_amid_summary.md]] : Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation
+- [[entities/article/2026-07-31_GoogleEarth__8217_sAIdeepfaketoolonlylastedoneday_summary.md]] : Google Earth&#8217;s AI deepfake tool only lasted one day
+- [[entities/article/2026-07-31_Tailscaledidn_tstoptheHuggingFaceintrusion_summary.md]] : Tailscale didn't stop the Hugging Face intrusion
+- [[entities/article/2026-07-31_IndiaAIandAyushMinistrySignAIIntegrationMoU-GKToda_summary.md]] : IndiaAI and Ayush Ministry Sign AI Integration MoU - GKToday
+- [[entities/article/2026-07-31_OpenAIreportedlyfindsevidencethatmoreofitsagentsra_summary.md]] : OpenAI reportedly finds evidence that more of its agents ran amok
+- [[entities/article/2026-07-31_OpenAINews_OpenAI_summary.md]] : OpenAI News | OpenAI
+- [[entities/article/2026-07-31_Newsroom_Anthropic_summary.md]] : Newsroom \ Anthropic
+- [[entities/article/2026-07-31_OfficialGoogleAInewsandupdates_GoogleBlog_summary.md]] : Official Google AI news and updates | Google Blog
+- [[entities/article/2026-07-31_OpenAIandHuggingFacepartnertoaddresssecurityincide_summary.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[entities/article/2026-07-31_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
+- [[entities/article/2026-07-31_OpenAI_sAIEscapeWasn_tTheSingularity_ItWasAContain_summary.md]] : OpenAI’s AI Escape Wasn't The Singularity. It Was A Containment Failure
+- [[entities/article/2026-07-31_OpenAImodelsescapedcontainment_hackedmajorAIapplic_summary.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[entities/article/2026-07-31_Thedevelopmentpipelineisaproductionsystem_summary.md]] : The development pipeline is a production system
+- [[entities/article/2026-07-31_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon_summary.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[entities/article/2026-08-01_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-08-01_IntroducingInkling-Small_summary.md]] : Introducing Inkling-Small
+- [[entities/article/2026-08-01_IndiaAIandAyushMinistrySignAIIntegrationMoU-GKToda_summary.md]] : IndiaAI and Ayush Ministry Sign AI Integration MoU - GKToday
+- [[entities/article/2026-08-01_Elevators_summary.md]] : Elevators
+- [[entities/article/2026-08-01_GoogleEarth__8217_sAIdeepfaketoolonlylastedoneday_summary.md]] : Google Earth&#8217;s AI deepfake tool only lasted one day
+- [[entities/article/2026-08-01_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
+- [[entities/article/2026-08-01_Newsroom_Anthropic_summary.md]] : Newsroom \ Anthropic
+- [[entities/article/2026-08-01_AdvancingresponsibleAIacrossEurope_summary.md]] : Advancing responsible AI across Europe
+- [[entities/article/2026-08-01_ScienceOneFramework_Averifiableautonomousresearchf_summary.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[entities/article/2026-08-01_OpenAIreportedlyfindsevidencethatmoreofitsagentsra_summary.md]] : OpenAI reportedly finds evidence that more of its agents ran amok
+- [[entities/article/2026-08-01_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-08-01_OpenAIandHuggingFacepartnertoaddresssecurityincide_summary.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[entities/article/2026-08-01_OpenAINews_OpenAI_summary.md]] : OpenAI News | OpenAI
+- [[entities/article/2026-08-01_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon_summary.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[entities/article/2026-08-01_OfficialGoogleAInewsandupdates_GoogleBlog_summary.md]] : Official Google AI news and updates | Google Blog
+- [[entities/article/2026-08-01_OpenAImodelsescapedcontainment_hackedmajorAIapplic_summary.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[entities/article/2026-08-01_Tenadvancesinmathematicsandtheoreticalcomputerscie_summary.md]] : Ten advances in mathematics and theoretical computer science
+- [[entities/article/2026-08-01_RipGrepmuslbinariesoccasionallysegfaultduringvery-_summary.md]] : RipGrep musl binaries occasionally segfault during very-large searches
+- [[entities/article/2026-08-01_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme_summary.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[entities/article/2026-08-01_ASurveillanceTreatyinDisguise_CanadaSignsUNCybercr_summary.md]] : A Surveillance Treaty in Disguise: Canada Signs UN Cybercrime Convention
+- [[entities/article/2026-08-01_TheArtof64-bitAssembly_summary.md]] : The Art of 64-bit Assembly
+- [[entities/article/2026-08-01_CursorremovedcostinformationfromtheusagepageandCSV_summary.md]] : Cursor removed cost information from the usage page and CSV export
+- [[entities/article/2026-08-01_I_RSS_AdirectoryofpeoplewholoveRSS_summary.md]] : I ♥ RSS – A directory of people who love RSS
+- [[entities/article/2026-08-01_PostmortemforKernelSoundnessBug_14576_summary.md]] : Postmortem for Kernel Soundness Bug #14576
+- [[entities/article/2026-08-01_GoogleNewsisjustForrestGump_sshrimpboatnow_summary.md]] : Google News is just Forrest Gump's shrimp boat now
+- [[entities/article/2026-08-01_TheSiliconValleyFounderMeatGrinder_summary.md]] : The Silicon Valley Founder Meat Grinder
+- [[entities/article/2026-08-01_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth_summary.md]] : Ministry of Ayush signs MoU with IndiaAI to harness AI for the future of traditional medicine
+- [[entities/article/2026-08-01_AIfinancialadviceissurprisinglygoodifyouasktherigh_summary.md]] : AI financial advice is surprisingly good if you ask the right questions
+- [[entities/article/2026-08-01_Go1_27InteractiveTour_summary.md]] : Go 1.27 Interactive Tour
+- [[entities/article/2026-08-02_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
+- [[entities/article/2026-08-02_OpenAIandHuggingFacepartnertoaddresssecurityincide_summary.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[entities/article/2026-08-02_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme_summary.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[entities/article/2026-08-02_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth_summary.md]] : Ministry of Ayush signs MoU with IndiaAI to harness AI for the future of traditional medicine
+- [[entities/article/2026-08-02_Go1_27InteractiveTour_summary.md]] : Go 1.27 Interactive Tour
+- [[entities/article/2026-08-02_ScienceOneFramework_Averifiableautonomousresearchf_summary.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[entities/article/2026-08-02_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-08-02_Tenadvancesinmathematicsandtheoreticalcomputerscie_summary.md]] : Ten advances in mathematics and theoretical computer science
+- [[entities/article/2026-08-02_Newsroom_Anthropic_summary.md]] : Newsroom \ Anthropic
+- [[entities/article/2026-08-02_OfficialGoogleAInewsandupdates_GoogleBlog_summary.md]] : Official Google AI news and updates | Google Blog
+- [[entities/article/2026-08-02_IntroducingInkling-Small_summary.md]] : Introducing Inkling-Small
+- [[entities/article/2026-08-02_OpenAINews_OpenAI_summary.md]] : OpenAI News | OpenAI
+- [[entities/article/2026-08-02_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-08-02_RunningKimiK3onMI355XatBetterPerformanceperDollarT_summary.md]] : Running Kimi K3 on MI355X at Better Performance per Dollar Than B300
+- [[entities/article/2026-08-02_ShowHN_Syncular_offline-firstSQLsyncwithTypeScript_summary.md]] : Show HN: Syncular – offline-first SQL sync with TypeScript and Rust cores
+- [[entities/article/2026-08-02_IstheIndustrialRevolutionagoodprecedentforexplosiv_summary.md]] : Is the Industrial Revolution a good precedent for explosive growth today?
+- [[entities/article/2026-08-02_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon_summary.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[entities/article/2026-08-02_ShowHN_Kakehashi_ExperimentaluserspacetorunmacOSbi_summary.md]] : Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM
+- [[entities/article/2026-08-02_Fender_sCEOseemstothinkyourbandmatesarejustanalogA_summary.md]] : Fender’s CEO seems to think your bandmates are just analog AI
+- [[entities/article/2026-08-02_SamAltmanandAI_sdeceldebate_summary.md]] : Sam Altman and AI’s decel debate
+- [[entities/article/2026-08-02_OpenAImodelsescapedcontainment_hackedmajorAIapplic_summary.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[entities/article/2026-08-02_AIposterwinsOhioStateFaircontest_summary.md]] : AI poster wins Ohio State Fair contest
+- [[entities/article/2026-08-02_ShowHN_Shitty_fastterminal_Memory-unsafeandfastert_summary.md]] : Show HN: Shitty – fast terminal. Memory-unsafe and faster than yours
+- [[entities/article/2026-08-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan_summary.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[entities/article/2026-08-02_CP_M-386_CP_Mfor386protectedmode_derivedfromCP_M_6_summary.md]] : CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
+- [[entities/article/2026-08-02_Appleengineersayshewasfiredafterrefusingtosendcust_summary.md]] : Apple engineer says he was fired after refusing to send cust. device IDs to AT&T
+- [[entities/article/2026-08-02_Qwen3_8-Max_ANewBarforCodingandCowork_summary.md]] : Qwen3.8-Max: A New Bar for Coding and Cowork
+- [[entities/article/2026-08-03_Tenadvancesinmathematicsandtheoreticalcomputerscie_summary.md]] : Ten advances in mathematics and theoretical computer science
+- [[entities/article/2026-08-03_Fender_sCEOseemstothinkyourbandmatesarejustanalogA_summary.md]] : Fender’s CEO seems to think your bandmates are just analog AI
+- [[entities/article/2026-08-03_Qwen3_8-Max_ANewBarforCodingandCowork_summary.md]] : Qwen3.8-Max: A New Bar for Coding and Cowork
+- [[entities/article/2026-08-03_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-08-03_OpenAINews_OpenAI_summary.md]] : OpenAI News | OpenAI
+- [[entities/article/2026-08-03_ScienceOneFramework_Averifiableautonomousresearchf_summary.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[entities/article/2026-08-03_OpenAIandHuggingFacepartnertoaddresssecurityincide_summary.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[entities/article/2026-08-03_OfficialGoogleAInewsandupdates_GoogleBlog_summary.md]] : Official Google AI news and updates | Google Blog
+- [[entities/article/2026-08-03_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme_summary.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[entities/article/2026-08-03_Newsroom_Anthropic_summary.md]] : Newsroom \ Anthropic
+- [[entities/article/2026-08-03_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
+- [[entities/article/2026-08-03_IntroducingInkling-Small_summary.md]] : Introducing Inkling-Small
+- [[entities/article/2026-08-03_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-08-03_SamAltmanandAI_sdeceldebate_summary.md]] : Sam Altman and AI’s decel debate
+- [[entities/article/2026-08-03_Don_tbeameatproxy_summary.md]] : Don't be a meat proxy
+- [[entities/article/2026-08-03_AMarcBenioff-backedstartupthinksAIcansolvetheAIdep_summary.md]] : A Marc Benioff-backed startup thinks AI can solve the AI deployment problem
+- [[entities/article/2026-08-03_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha_summary.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
+- [[entities/article/2026-08-03_China__8217_sAlibabatakesanotherswipeatAmerica_sAI_summary.md]] : China&#8217;s Alibaba takes another swipe at America’s AI supremacy
+- [[entities/article/2026-08-03_CriticalCVEissuedforhallucinatedSQLitevulnerabilit_summary.md]] : Critical CVE issued for hallucinated SQLite vulnerability
+- [[entities/article/2026-08-03_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon_summary.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[entities/article/2026-08-03_Congress_sfavoriteAItool_ChatGPT_summary.md]] : Congress’s favorite AI tool? ChatGPT
+- [[entities/article/2026-08-03_ApplefinallyfixedSiri_Sowhydoesitfeelanticlimactic_summary.md]] : Apple finally fixed Siri. So why does it feel anticlimactic?
+- [[entities/article/2026-08-03_AWSishelpingvibe-codingstartupSuperblocks_andtheim_summary.md]] : AWS is helping vibe-coding startup Superblocks, and the implications are big
+- [[entities/article/2026-08-03_HowOpenAILostControlofanAIModel_andWhatNeedstoChan_summary.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[entities/article/2026-08-03_HowwebuiltarealtimesystemforresponsivevoiceAIinsix_summary.md]] : How we built a realtime system for responsive voice AI in six months
+- [[entities/article/2026-08-03_ThroneScienceraises_10MforAItoiletsensor_MobiHealt_summary.md]] : Throne Science raises $10M for AI toilet sensor | MobiHealthNews
+- [[entities/article/2026-08-03_Afterkillerquarter_PalantirCEOAlexKarpcallsAIindus_summary.md]] : After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
+- [[entities/article/2026-08-04_OpenAINews_OpenAI_summary.md]] : OpenAI News | OpenAI
+- [[entities/article/2026-08-04_Afterkillerquarter_PalantirCEOAlexKarpcallsAIindus_summary.md]] : After killer quarter, Palantir CEO Alex Karp calls AI industry ‘Marxist’
+- [[entities/article/2026-08-04_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon_summary.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[entities/article/2026-08-04_IntroducingClaudeOpus5_summary.md]] : Introducing Claude Opus 5
+- [[entities/article/2026-08-04_ThroneScienceraises_10MforAItoiletsensor_MobiHealt_summary.md]] : Throne Science raises $10M for AI toilet sensor | MobiHealthNews
+- [[entities/article/2026-08-04_Newsroom_Anthropic_summary.md]] : Newsroom \ Anthropic
+- [[entities/article/2026-08-04_OfficialGoogleAInewsandupdates_GoogleBlog_summary.md]] : Official Google AI news and updates | Google Blog
+- [[entities/article/2026-08-04_OpenAIandHuggingFacepartnertoaddresssecurityincide_summary.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[entities/article/2026-08-04_HowwebuiltarealtimesystemforresponsivevoiceAIinsix_summary.md]] : How we built a realtime system for responsive voice AI in six months
+- [[entities/article/2026-08-04_IntroducingInkling-Small_summary.md]] : Introducing Inkling-Small
+- [[entities/article/2026-08-04_ScienceOneFramework_Averifiableautonomousresearchf_summary.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[entities/article/2026-08-04_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
+- [[entities/article/2026-08-04_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-08-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan_summary.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[entities/article/2026-08-04_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme_summary.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[entities/article/2026-08-04_CanRedditfendoffanewwaveofAISEOspam__summary.md]] : Can Reddit fend off a new wave of AI SEO spam?
+- [[entities/article/2026-08-04_OpenAIdragsApple_slawsuitintothecourtofpublicopini_summary.md]] : OpenAI drags Apple’s lawsuit into the court of public opinion
+- [[entities/article/2026-08-04_Isthefutureofdatacentersportable_Runwarebuildsapod_summary.md]] : Is the future of data centers portable? Runware builds a pod to find out
+- [[entities/article/2026-08-04_DeepSeekV4FlashonaSingleAMDMI300X_summary.md]] : DeepSeek V4 Flash on a Single AMD MI300X
+- [[entities/article/2026-08-04_Applesaysmoreex-employeesmayhavetakenconfidentiald_summary.md]] : Apple says more ex-employees may have taken confidential data to OpenAI
+- [[entities/article/2026-08-04_Qwen-Image-2_0_summary.md]] : Qwen-Image-2.0
+- [[entities/article/2026-08-04_SpotifyexpandsAIremixandcoversprojectwithMerlinpar_summary.md]] : Spotify expands AI remix and covers project with Merlin partnership
+- [[entities/article/2026-08-04_NewwaystolearnandteachwithChatGPTWorkandCodex_summary.md]] : New ways to learn and teach with ChatGPT Work and Codex
+- [[entities/article/2026-08-04_HowanOpenAIinfluencertripbackfired_summary.md]] : How an OpenAI influencer trip backfired
+- [[entities/article/2026-08-04_AllofWinonaPoliceDepartment_sFlockcamerascutdownan_summary.md]] : All of Winona Police Department's Flock cameras cut down and stolen
+- [[entities/article/2026-08-04_Third-partycyberevaluationsinvolvingOpenAImodels_summary.md]] : Third-party cyber evaluations involving OpenAI models
+- [[entities/article/2026-08-04_Mistral_sShieldstral_3Bopen-weightsmodelformultimo_summary.md]] : Mistral's Shieldstral: 3B open-weights model for multimodal moderation
+- [[entities/article/2026-08-04_SpaceXhasbought_329MworthofTeslaMegapackssofarthis_summary.md]] : SpaceX has bought $329M worth of Tesla Megapacks so far this year
+- [[entities/article/2026-08-05_AMD__8217_sdatacenterbusinessisboomingwhilegamingt_summary.md]] : AMD&#8217;s data center business is booming while gaming takes a backseat
+- [[raw/articles/2026-08-05_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[raw/articles/2026-08-05_Third-partycyberevaluationsinvolvingOpenAImodels.md]] : Third-party cyber evaluations involving OpenAI models
+- [[raw/articles/2026-08-05_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[raw/articles/2026-08-05_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[raw/articles/2026-08-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[entities/article/2026-08-05_SpaceXhasbought_329MworthofTeslaMegapackssofarthis_summary.md]] : SpaceX has bought $329M worth of Tesla Megapacks so far this year
+- [[raw/articles/2026-08-05_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[raw/articles/2026-08-05_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-05_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[raw/articles/2026-08-05_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-05_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[entities/article/2026-08-05_StatelessMCPhasrecapturedmyinterest_summary.md]] : Stateless MCP has recaptured my interest
+- [[entities/article/2026-08-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan_summary.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[raw/articles/2026-08-05_OpenAIModelsEscapedContainmentandHackedHuggingFace.md]] : OpenAI Models Escaped Containment and Hacked Hugging Face | WIRED
+- [[entities/article/2026-08-05_AImakesweatherpredictionbetter_CanWindBornemakeitl_summary.md]] : AI makes weather prediction better. Can WindBorne make it lucrative?
+- [[entities/article/2026-08-05_HelsinkiHackerNewsMeetup_summary.md]] : Helsinki Hacker News Meetup
+- [[entities/article/2026-08-05_Trump_sAItestingplanislimitedandvague_summary.md]] : Trump’s AI testing plan is limited and vague
+- [[entities/article/2026-08-05_GoogleAssistantwilldisappearfromyourphonenextmonth_summary.md]] : Google Assistant will disappear from your phone next month
+- [[raw/articles/2026-08-05_RogueAIagentscreatedfakeonlineidentitiesinanotherh.md]] : Rogue AI agents created fake online identities in another hacking attempt
+- [[raw/articles/2026-08-05_SureseemslikeFenixFlexinusedAImusicgeneratorTreblo.md]] : Sure seems like Fenix Flexin used AI music generator Treblo
+- [[entities/article/2026-08-05_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon_summary.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[raw/articles/2026-08-05_DiscoveryLoop.md]] : Discovery Loop
+- [[raw/articles/2026-08-05_JeffDeanandothertopAIresearchersareleavingGoogleto.md]] : Jeff Dean and other top AI researchers are leaving Google to launch their own startup
+- [[raw/articles/2026-08-05_ZedDeltaDB.md]] : Zed DeltaDB
+- [[raw/articles/2026-08-05_MetalaunchesMuseCode_anAIagentforlargecodebases.md]] : Meta launches Muse Code, an AI agent for large code bases
+- [[raw/articles/2026-08-05_ElonMusk__8217_sattemptatanAIWikipediahasn__8217_t.md]] : Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months
+- [[raw/articles/2026-08-05_LLMswon_tbreaksymmetriccrypto.md]] : LLMs won't break symmetric crypto
+- [[raw/articles/2026-08-06_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[raw/articles/2026-08-06_MetalaunchesMuseCode_anAIagentforlargecodebases.md]] : Meta launches Muse Code, an AI agent for large code bases
+- [[raw/articles/2026-08-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-06_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[raw/articles/2026-08-06_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[raw/articles/2026-08-06_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[raw/articles/2026-08-06_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[raw/articles/2026-08-06_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-06_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[raw/articles/2026-08-06_Third-partycyberevaluationsinvolvingOpenAImodels.md]] : Third-party cyber evaluations involving OpenAI models
+- [[raw/articles/2026-08-06_ElonMusk__8217_sattemptatanAIWikipediahasn__8217_t.md]] : Elon Musk&#8217;s attempt at an AI Wikipedia hasn&#8217;t been updated in months
+- [[raw/articles/2026-08-06_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-06_WhenAIgoesrogue-HarvardGazette.md]] : When AI goes rogue - Harvard Gazette
+- [[raw/articles/2026-08-06_CrimePaysbutBotanyDoesn_t.md]] : Crime Pays but Botany Doesn't
+- [[raw/articles/2026-08-06_OpenAIsaysApple_stradesecretslawsuitis_rottentoits.md]] : OpenAI says Apple’s trade secrets lawsuit is ‘rotten to its core’
+- [[raw/articles/2026-08-06_OpenAIModelsEscapedContainmentandHackedHuggingFace.md]] : OpenAI Models Escaped Containment and Hacked Hugging Face | WIRED
+- [[raw/articles/2026-08-06_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[raw/articles/2026-08-06_AIbotsstartedareligion_humansimmediatelyfollowed.md]] : AI bots started a religion — humans immediately followed
+- [[raw/articles/2026-08-06_HowOpenAILostControlofanAIModel_andWhat___.md]] : How OpenAI Lost Control of an AI Model—and What ...
+- [[raw/articles/2026-08-06_MarioMeetsPareto.md]] : Mario Meets Pareto
+- [[raw/articles/2026-08-06_ThemessypoliticsbehindGoogle_sbigAIshakeup.md]] : The messy politics behind Google’s big AI shakeup
+- [[raw/articles/2026-08-06_WhatGoogle_sAItalentexoduscouldmeanforfuturedrugdi.md]] : What Google's AI talent exodus could mean for future drug discovery - Drug Target Review
+- [[raw/articles/2026-08-06_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
+- [[raw/articles/2026-08-06_WorkingwiththeAmericanPsychologicalAssociationonyo.md]] : Working with the American Psychological Association on youth mental health and AI
+- [[raw/articles/2026-08-06_Naïveraises_28_5Mtoautomatethegruntworkofsettingup.md]] : Naïve raises $28.5M to automate the grunt work of setting up and running a company
+- [[raw/articles/2026-08-06_OpenAIisgivingChatGPTfreeusersunlimitedtextchats.md]] : OpenAI is giving ChatGPT free users unlimited text chats
+- [[raw/articles/2026-08-06_ImprovingGPT-5_6SolinChatGPT_andexpandingaccessfor.md]] : Improving GPT-5.6 Sol in ChatGPT—and expanding access for free users
+- [[raw/articles/2026-08-06_ImprovingGPT_5_6SolinChatGPT_andexpandingaccesstoG.md]] : Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
+- [[raw/articles/2026-08-06_ChatGPTbringsunlimitedtextchatstofreeusers.md]] : ChatGPT brings unlimited text chats to free users
+- [[raw/articles/2026-08-06_Qwen3_8Maxnowrankedasthebestoverallmodelbyagentici.md]] : Qwen3.8 Max now ranked as the best overall model by agentic index
+- [[raw/articles/2026-08-06_GoogleShakesupAILeadership_HassabisSwapsCEORolefor.md]] : Google Shakes up AI Leadership. Hassabis Swaps CEO Role for Research .
+- [[raw/articles/2026-08-06_JonyIve__8217_sfirstOpenAIgadgetisreportedlyahocke.md]] : Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker
+- [[raw/articles/2026-08-06_AMDacquiresTaalastoboostinferenceperformancebyetch.md]] : AMD acquires Taalas to boost inference performance by etching models in silicon
+- [[raw/articles/2026-08-06_AssetmanagersshiftAIfocustoriskandresearch_surveyf.md]] : Asset managers shift AI focus to risk and research , survey finds - Funds Europe
+- [[raw/articles/2026-08-07_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[raw/articles/2026-08-07_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[raw/articles/2026-08-07_AMDacquiresTaalastoboostinferenceperformancebyetch.md]] : AMD acquires Taalas to boost inference performance by etching models in silicon
+- [[raw/articles/2026-08-07_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[raw/articles/2026-08-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-07_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-07_ImprovingGPT_5_6SolinChatGPT_andexpandingaccesstoG.md]] : Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
+- [[raw/articles/2026-08-07_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-07_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-07_AssetmanagersshiftAIfocustoriskandresearch_surveyf.md]] : Asset managers shift AI focus to risk and research , survey finds - Funds Europe
+- [[raw/articles/2026-08-07_OpenAIFindsEvidenceMoreAIAgentsBrokeContainment_Ha.md]] : OpenAI Finds Evidence More AI Agents Broke Containment, Hacked Outside Its Network
+- [[raw/articles/2026-08-07_JonyIve__8217_sfirstOpenAIgadgetisreportedlyahocke.md]] : Jony Ive&#8217;s first OpenAI gadget is reportedly a hockey puck-sized smart speaker
+- [[raw/articles/2026-08-07_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[raw/articles/2026-08-07_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[raw/articles/2026-08-07_HowHSPGRUPPEbuildsAIcapabilitiesfortaxadvisory.md]] : How HSP GRUPPE builds AI capabilities for tax advisory
+- [[raw/articles/2026-08-07_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
+- [[raw/articles/2026-08-07_USstrikes_1_2BdealtopayGermanfirmtohaltoffshorewin.md]] : US strikes $1.2B deal to pay German firm to halt offshore wind projects
+- [[raw/articles/2026-08-07_OpenAIModelsEscapedContainmentandHackedHuggingFace.md]] : OpenAI Models Escaped Containment and Hacked Hugging Face | WIRED
+- [[raw/articles/2026-08-07_Z_aipowersupa1-gigawattAIdatacenterbuiltentirelyon.md]] : Z.ai powers up a 1-gigawatt AI data center built entirely on Chinese chips, report claims — GLM developer now runs multiple 10,000-chip clusters with zero Nvidia silicon | Tom's Hardware
+- [[raw/articles/2026-08-07_AirbnbsaysAIishelpingitshipfeaturesfasterasittests.md]] : Airbnb says AI is helping it ship features faster as it tests a new search function
+- [[raw/articles/2026-08-07_CloudflarelaunchesKitesurf_abrowserbuiltforAIagent.md]] : Cloudflare launches Kitesurf, a browser built for AI agents
+- [[raw/articles/2026-08-07_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
+- [[raw/articles/2026-08-07_Anall-skymapofhalfamillionsupermassiveblackholes.md]] : An all-sky map of half a million supermassive black holes
+- [[raw/articles/2026-08-07_OraclebansAI-generatedcodefromOpenJDK.md]] : Oracle bans AI-generated code from OpenJDK
+- [[raw/articles/2026-08-07_DeepSeekV4Flash0731.md]] : DeepSeek V4 Flash 0731
+- [[raw/articles/2026-08-07_AfterRipplingblewmillionsonAIinmonths_itbuiltanemp.md]] : After Rippling blew millions on AI in months, it built an employee ROI tool
+- [[raw/articles/2026-08-07_OpenAIsaysitslowedAstramodeldevelopmentoversecurit.md]] : OpenAI says it slowed Astra model development over security concerns
+- [[raw/articles/2026-08-08_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-08_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-08_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-08_OpenAIsaysitslowedAstramodeldevelopmentoversecurit.md]] : OpenAI says it slowed Astra model development over security concerns
+- [[raw/articles/2026-08-08_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
+- [[raw/articles/2026-08-08_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[raw/articles/2026-08-08_NASAtokeepits48-year-oldVoyager2proberunningforyet.md]] : NASA to keep its 48-year-old Voyager 2 probe running for yet another year
+- [[raw/articles/2026-08-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-08_NowwehaveatimelineoftheOpenAIaccidentalattackagain.md]] : Now we have a timeline of the OpenAI accidental attack against Hugging Face
+- [[raw/articles/2026-08-08_DeepMind_sWeatherNextmodelachievesbreakthroughfore.md]] : DeepMind's WeatherNext model achieves breakthrough forecasting cyclones
+- [[raw/articles/2026-08-08_Adomaincannowsayitisforsale_inDNS.md]] : A domain can now say it is for sale, in DNS
+- [[raw/articles/2026-08-08_DenmarkRequiresOralDefensesforStudents_WrittenWork.md]] : Denmark Requires Oral Defenses for Students' Written Work to Counter AI Cheating
+- [[raw/articles/2026-08-08_OpenAIacquirespresentationstartupNextSlide.md]] : OpenAI acquires presentation startup NextSlide
+- [[raw/articles/2026-08-09_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[raw/articles/2026-08-09_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
+- [[raw/articles/2026-08-09_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-09_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-09_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-09__TheoriginalURLforthispredictionwillnolongerbeavai.md]] : "The original URL for this prediction will no longer be available in 11 years." (2011)
+- [[raw/articles/2026-08-09_TheoriginalURLforthispredictionwillnolongerbeavail.md]] : The original URL for this prediction will no longer be available in 11 years (2011)
+- [[raw/articles/2026-08-09_ThereAreMagicHexagonsofEveryOrder.md]] : There Are Magic Hexagons of Every Order
+- [[raw/articles/2026-08-09_AIdetectorsarecreatinganeweraofdistrust.md]] : AI detectors are creating a new era of distrust
+- [[raw/articles/2026-08-09_MeaCulpa_DarkHours.md]] : Mea Culpa – Dark Hours
+- [[raw/articles/2026-08-09_AnthropicisturningClaudeCode_sautomodeonbydefault.md]] : Anthropic is turning Claude Code’s auto mode on by default
+- [[raw/articles/2026-08-09_HowIuseLLMstolearncomplextopics.md]] : How I use LLMs to learn complex topics
+- [[raw/articles/2026-08-10_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[raw/articles/2026-08-10_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-10_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-10_AutomodeisnowthedefaultinClaudeCode.md]] : Auto mode is now the default in Claude Code
+- [[raw/articles/2026-08-10_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
+- [[raw/articles/2026-08-10_AIdetectorsarecreatinganeweraofdistrust.md]] : AI detectors are creating a new era of distrust
+- [[raw/articles/2026-08-10_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-10_MetaMuseGlimmer_openweights30Blocalcodingmodel.md]] : Meta Muse Glimmer – open weights 30B local coding model
+- [[raw/articles/2026-08-10_Ford_snewAIassistantcancheckyourfuellevelsandtirep.md]] : Ford’s new AI assistant can check your fuel levels and tire pressure
+- [[raw/articles/2026-08-10_BoseCEOLilaSnyderonthefightforhigh-qualityaudio.md]] : Bose CEO Lila Snyder on the fight for high-quality audio
+- [[raw/articles/2026-08-10_CFPs_DataSharingtoSupportAIDevelopmentintheEnergyS.md]] : CFPs: Data Sharing to Support AI Development in the Energy Sector - fundsforNGOs
+- [[raw/articles/2026-08-10_MarsBarfrom1991found_andit_s20gbiggerthantoday_s.md]] : Mars Bar from 1991 found – and it's 20g bigger than today's
+- [[raw/articles/2026-08-10_Meta_snewGlimmerAImodeloffersahintatZuckerberg_spe.md]] : Meta’s new Glimmer AI model offers a hint at Zuckerberg’s personal intelligence vision
+- [[raw/articles/2026-08-10_MetaMuseGlimmer_Openweights30Blocalcodingmodel.md]] : Meta Muse Glimmer – Open weights 30B local coding model
+- [[raw/articles/2026-08-10_MuseGlimmer_30B-parametermodeloptimizedforalways-o.md]] : Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows
+- [[raw/articles/2026-08-10_LearningmoreaboutClaude_smathematicalcapabilities.md]] : Learning more about Claude's mathematical capabilities
+- [[raw/articles/2026-08-10_MarkZuckerberg_sAImanifestoisexactlywhypeopledon_t.md]] : Mark Zuckerberg’s AI manifesto is exactly why people don’t like AI
+- [[raw/articles/2026-08-10_WhathappenstoBosewhenheadphonesbecomeAI_-TheVerge.md]] : What happens to Bose when headphones become AI ? - The Verge
+- [[raw/articles/2026-08-11_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
+- [[raw/articles/2026-08-11_WhathappenstoBosewhenheadphonesbecomeAI_-TheVerge.md]] : What happens to Bose when headphones become AI ? - The Verge
+- [[raw/articles/2026-08-11_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-11_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-11_H3-metal_NativeMiniMax-H3inferenceforAppleSilicon.md]] : H3-metal – Native MiniMax-H3 inference for Apple Silicon
+- [[raw/articles/2026-08-11_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-11_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-11_HalfofEurope_stownsandvillageshavefewerresidentsth.md]] : Half of Europe's towns and villages have fewer residents than 60 years ago
+- [[raw/articles/2026-08-11_TheAItakeoverofmathematicshasbegun.md]] : The AI takeover of mathematics has begun
+- [[raw/articles/2026-08-11_Francetobanunsolicitedtelemarketingcalls.md]] : France to ban unsolicited telemarketing calls
+- [[raw/articles/2026-08-11_AnthropicsaysitwillwatermarktextgeneratedbyitsAImo.md]] : Anthropic says it will watermark text generated by its AI models
+- [[raw/articles/2026-08-11_ClaudewillapplyinvisiblewatermarkstoAItextandimage.md]] : Claude will apply invisible watermarks to AI text and images
+- [[raw/articles/2026-08-11_Spotifywilllabel_AIPersona_profilesandexcludetheir.md]] : Spotify will label ‘AI Persona’ profiles and exclude their music from recommendations
+- [[raw/articles/2026-08-11_Englandsettobeoneofthefirstcountriestoeliminatehep.md]] : England set to be one of the first countries to eliminate hepatitis C
+- [[raw/articles/2026-08-11__Zoomsday_hackuncoveredusingfewerthan20AIprompts.md]] : ‘Zoomsday’ hack uncovered using fewer than 20 AI prompts
+- [[raw/articles/2026-08-11_AdvancingAMIEtowardsexpert-levelaudio-visualclinic.md]] : Advancing AMIE towards expert-level audio-visual clinical consultations
+- [[raw/articles/2026-08-11_AnunreleasedAnthropicmodelmadeprogressononeofmath_.md]] : An unreleased Anthropic model made progress on one of math’s biggest unsolved problems
+- [[raw/articles/2026-08-11_MadebyGoogle2026_allthePixelnewsandannouncements.md]] : Made by Google 2026: all the Pixel news and announcements
+- [[raw/articles/2026-08-11_TestingadsinChatGPT.md]] : Testing ads in ChatGPT
+- [[raw/articles/2026-08-11_BradLightcap_OpenAI_slongtimeCOO_isleavingto_start.md]] : Brad Lightcap, OpenAI’s longtime COO, is leaving to ‘start something new’
+- [[raw/articles/2026-08-11_AppleSiliconandmacOSVMs_11_16_FasterLLMInferencewi.md]] : Apple Silicon and macOS VMs: 11–16× Faster LLM Inference with Llama.cpp
+- [[raw/articles/2026-08-11_OpenAIlaunchesChatGPTdesktopappforLinux.md]] : OpenAI launches ChatGPT desktop app for Linux
+- [[raw/articles/2026-08-11_NvidiaNemotron3_5lightningandNeMoSwitchyard.md]] : Nvidia Nemotron 3.5 lightning and NeMo Switchyard
+- [[raw/articles/2026-08-11_ChatGPTandGeminibothjustpassed1billionusers.md]] : ChatGPT and Gemini both just passed 1 billion users
+- [[raw/articles/2026-08-11_NvidiaNemotron3_5LightningandNeMoSwitchyard.md]] : Nvidia Nemotron 3.5 Lightning and NeMo Switchyard
+- [[raw/articles/2026-08-11_Accelclosesoversubscribed_550MIndiafundwithinweeks.md]] : Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
+- [[raw/articles/2026-08-11_WorldClawAgentic3Dopen-worldgenerationatscale.md]] : WorldClaw Agentic 3D open-world generation at scale
+- [[raw/articles/2026-08-11_SaberdeniesreplacingRideshareStimulator__8217_swri.md]] : Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT
+- [[raw/articles/2026-08-11_CFTCdeclaresmarketemergency_ordersKalshitocontinue.md]] : CFTC declares market emergency, orders Kalshi to continue to operate in New York
+- [[raw/articles/2026-08-11_Compressionisprediction.md]] : Compression is prediction
+- [[raw/articles/2026-08-12_SaberdeniesreplacingRideshareStimulator__8217_swri.md]] : Saber denies replacing Rideshare Stimulator&#8217;s writers with ChatGPT
+- [[raw/articles/2026-08-12_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-12_Accelclosesoversubscribed_550MIndiafundwithinweeks.md]] : Accel closes oversubscribed $550M India fund within weeks, 19 months after its last
+- [[raw/articles/2026-08-12_TestingadsinChatGPT.md]] : Testing ads in ChatGPT
+- [[raw/articles/2026-08-12_AdvancingAMIEtowardsexpert-levelaudio-visualclinic.md]] : Advancing AMIE towards expert-level audio-visual clinical consultations
+- [[raw/articles/2026-08-12_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-12_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-12_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-12_Compressionisprediction.md]] : Compression is prediction
+- [[raw/articles/2026-08-12_llama_cpp.md]] : llama.cpp
+- [[raw/articles/2026-08-12_LinkedInCringeBot3000.md]] : LinkedIn CringeBot 3000
+- [[raw/articles/2026-08-12_TimGowers_WhatsortofmathsareLLMsgoodat_.md]] : Tim Gowers: What sort of maths are LLMs good at?
+- [[raw/articles/2026-08-12_Google_sPixelWatch5divesdeeperintoAIandhealth.md]] : Google’s Pixel Watch 5 dives deeper into AI and health
+- [[raw/articles/2026-08-12_EverythingannouncedatMadebyGoogle_26_Pixel11_Pixel.md]] : Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features
+- [[raw/articles/2026-08-12_GuitarcompanyD_AddarioadmitsthatAImusicwasusedinap.md]] : Guitar company D’Addario admits that AI music was used in a promotional video
+- [[raw/articles/2026-08-12_Lovableconfirmsnew_13_3Bvaluation_raisesanother_40.md]] : Lovable confirms new $13.3B valuation, raises another $400M
+- [[raw/articles/2026-08-12_IBMandCHRISTUniversityLaunchCenterforAIResearchand.md]] : IBM and CHRIST University Launch Center for AI Research and Talent Development
+- [[raw/articles/2026-08-12_TailscaleTracesDatabaseCorruptionto16y_oSQLiteWAL-.md]] : Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug
+- [[raw/articles/2026-08-12_DeepSeekV4Pro0813.md]] : DeepSeek V4 Pro 0813
+- [[raw/articles/2026-08-12_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[raw/articles/2026-08-12_TwitchstreamerscannowoptoutfromtrainingAmazon_sAI.md]] : Twitch streamers can now opt out from training Amazon’s AI
+- [[raw/articles/2026-08-12_AIcodingstartupCognitionreportedlyalreadyintalksto.md]] : AI coding startup Cognition reportedly already in talks to raise at $40B valuation
+- [[raw/articles/2026-08-12_AmazonwilltrainonTwitchstreamers_contentbydefault_.md]] : Amazon will train on Twitch streamers’ content by default, unless they opt out
+- [[raw/articles/2026-08-13_DeepSeekV4Pro0813.md]] : DeepSeek V4 Pro 0813
+- [[raw/articles/2026-08-13_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[raw/articles/2026-08-13_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-13_TwitchstreamerscannowoptoutfromtrainingAmazon_sAI.md]] : Twitch streamers can now opt out from training Amazon’s AI
+- [[raw/articles/2026-08-13_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-13_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-13_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-13_ChatGPTDesktop_CodexDesktop_forLinux.md]] : ChatGPT Desktop (Codex Desktop) for Linux
+- [[raw/articles/2026-08-13_DeutscheBankbecomesfirstforeignyuanclearingbankinE.md]] : Deutsche Bank becomes first foreign yuan clearing bank in Europe
+- [[raw/articles/2026-08-13_MicrosoftiscombiningitsCopilotappsaheadofa_superap.md]] : Microsoft is combining its Copilot apps ahead of a ‘super app’
+- [[raw/articles/2026-08-13_DeepSeekHarness.md]] : DeepSeek Harness
+- [[raw/articles/2026-08-13_AppleintalkstopaypublisherstoprovideSiriwithcurren.md]] : Apple in talks to pay publishers to provide Siri with current news: report
+- [[raw/articles/2026-08-13_MicrosoftkillsoffunsuccessfulAIfeatureswhilemergin.md]] : Microsoft kills off unsuccessful AI features while merging its separate Copilot apps
+- [[raw/articles/2026-08-13_Sunoistryingtolookmorelikearealmusicproductiontool.md]] : Suno is trying to look more like a real music production tool
+- [[raw/articles/2026-08-13_SpaghettifyingDRAM.md]] : Spaghettifying DRAM
+- [[raw/articles/2026-08-13_PreviewingUltrafastmode_GPT-5_6Solatupto14Xthespee.md]] : Previewing Ultrafast mode: GPT-5.6 Sol at up to 14X the speed
+- [[raw/articles/2026-08-13_OpenAIhiresnewCROasexecutiveshake-upcontinues.md]] : OpenAI hires new CRO as executive shake-up continues
+- [[raw/articles/2026-08-13_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
+- [[raw/articles/2026-08-13_AnthropicsetAIagentslooseonthesametask_Theystarted.md]] : Anthropic set AI agents loose on the same task. They started a turf war.
+- [[raw/articles/2026-08-13_OpenAIislosingitssecondexecutivethisweek.md]] : OpenAI is losing its second executive this week
+- [[raw/articles/2026-08-13_Databrickswantedtoraise_1B_investorswanted_15B_Its.md]] : Databricks wanted to raise $1B, investors wanted $15B. It settled on $5B at a $190B valuation.
+- [[raw/articles/2026-08-13_WriterintroducesnewAImodelandupgradedharnesstocont.md]] : Writer introduces new AI model and upgraded harness to contain token costs
+- [[raw/articles/2026-08-14_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-14_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
+- [[raw/articles/2026-08-14_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-14_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[raw/articles/2026-08-14_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-14_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-14_WriterintroducesnewAImodelandupgradedharnesstocont.md]] : Writer introduces new AI model and upgraded harness to contain token costs
+- [[raw/articles/2026-08-14_GLM-5_3_FrontierCodingwithEmergentCyberCapabilitie.md]] : GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
+- [[raw/articles/2026-08-14_GLM-5_3_Frontiercodingwithemergentcybercapabilitie.md]] : GLM-5.3: Frontier coding with emergent cyber capabilities
+- [[raw/articles/2026-08-14_KogisgoingdeepertosqueezemoreinferenceoutofGPUs.md]] : Kog is going deeper to squeeze more inference out of GPUs
+- [[raw/articles/2026-08-14_DoesMarkZuckerbergreallybelieveAIis_foreveryone__.md]] : Does Mark Zuckerberg really believe AI is ‘for everyone’?
+- [[raw/articles/2026-08-14_Googlewillnowallowuserstoremovevisiblewatermarkfro.md]] : Google will now allow users to remove visible watermark from its AI generations
+- [[raw/articles/2026-08-14_Qwen3_827B.md]] : Qwen 3.8 27B
+- [[raw/articles/2026-08-14_Magnitude7_7Earthquake_68kmNNWofEnde_Indonesia.md]] : Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
+- [[raw/articles/2026-08-15_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-15_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-15_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-15_Googlewillnowallowuserstoremovevisiblewatermarkfro.md]] : Google will now allow users to remove visible watermark from its AI generations
+- [[raw/articles/2026-08-15_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[raw/articles/2026-08-15_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
+- [[raw/articles/2026-08-15_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-15_Magnitude7_7Earthquake_68kmNNWofEnde_Indonesia.md]] : Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
+- [[raw/articles/2026-08-15_Qwen3_827B.md]] : Qwen 3.8 27B
+- [[raw/articles/2026-08-15_Auto-researchwithcodex_HowIachieveda232xFasterKern.md]] : Auto-research with codex: How I achieved a 232x Faster Kernel
+- [[raw/articles/2026-08-15_TheFirstAt-HomeTestforInfectedTicksCouldImproveLym.md]] : The First At-Home Test for Infected Ticks Could Improve Lyme Disease Diagnosis
+- [[raw/articles/2026-08-15_SpaceXofficiallyclosesitsCursoracquisition.md]] : SpaceX officially closes its Cursor acquisition
+- [[raw/articles/2026-08-15_Semaglutidelinkedto26_lower5-yearpredicteddementia.md]] : Semaglutide linked to 26% lower 5-year predicted dementia risk
+- [[raw/articles/2026-08-15_AnthropicsharesmoredetailsabouthowClaude_snewwater.md]] : Anthropic shares more details about how Claude’s new watermarks will work
+- [[raw/articles/2026-08-15_Semaglutidelinkedtolowerpredicteddementiarisk.md]] : Semaglutide linked to lower predicted dementia risk
+- [[raw/articles/2026-08-15_WomanclaimsherstepfatherusedGroktotransformchildho.md]] : Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
+- [[raw/articles/2026-08-15_AbdominalfatpredictsheartdiseaseriskbetterthanBMI.md]] : Abdominal fat predicts heart disease risk better than BMI
+- [[raw/articles/2026-08-15_HavealaughatAI_sexpensebyroleplayingasachatbot.md]] : Have a laugh at AI’s expense by roleplaying as a chatbot
+- [[raw/articles/2026-08-15_Engineerswilldoanythingtoavoidlearningfromhistory.md]] : Engineers will do anything to avoid learning from history
+- [[raw/articles/2026-08-15_AsusBikeBooster.md]] : Asus Bike Booster
+- [[raw/articles/2026-08-16_WomanclaimsherstepfatherusedGroktotransformchildho.md]] : Woman claims her stepfather used Grok to transform childhood photo into explicit imagery
+- [[raw/articles/2026-08-16_HavealaughatAI_sexpensebyroleplayingasachatbot.md]] : Have a laugh at AI’s expense by roleplaying as a chatbot
+- [[raw/articles/2026-08-16_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-16_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[raw/articles/2026-08-16_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-16_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-16_AsusBikeBooster.md]] : Asus Bike Booster
+- [[raw/articles/2026-08-16_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-16_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
+- [[raw/articles/2026-08-16_WhathappenswhenanLLMneverseesmaterialbeyondfifthgr.md]] : What happens when an LLM never sees material beyond fifth grade?
+- [[raw/articles/2026-08-16_Leaveyourscreenunlocked_meetdeveloperspaypal_com.md]] : Leave your screen unlocked, meet developers paypal.com
+- [[raw/articles/2026-08-16_RogueAIaren_tsciencefictionanymore.md]] : Rogue AI aren’t science fiction anymore
+- [[raw/articles/2026-08-16_Claude_SystemPrompts.md]] : Claude: System Prompts
+- [[raw/articles/2026-08-16_ChatGPT_sComputerHistorytracksyourclicksandkeystro.md]] : ChatGPT’s Computer History tracks your clicks and keystrokes
+- [[raw/articles/2026-08-16_ModelsAreGettingDumberonPurpose.md]] : Models Are Getting Dumber on Purpose
+- [[raw/articles/2026-08-16_StripewillreportedlyacquireAIgatewaystartupOpenRou.md]] : Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
+- [[raw/articles/2026-08-16_TheCaseAgainstFormalVerification_50YearsLater.md]] : The Case Against Formal Verification, 50 Years Later
+- [[raw/articles/2026-08-16_OpenAIreportedlydisbandeditspreparednessteam.md]] : OpenAI reportedly disbanded its preparedness team
+- [[raw/articles/2026-08-16_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md]] : Qwen 3.8 27B is excellent, but it defaults to overthinking things
+- [[raw/articles/2026-08-16_FightingfakenewswithAI_howwestAfrica_sDubawaistran.md]] : Fighting fake news with AI — how west Africa's Dubawa is transforming fact-checking
+- [[raw/articles/2026-08-17_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-17_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
+- [[raw/articles/2026-08-17_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
+- [[raw/articles/2026-08-17_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-17_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-17_FightingfakenewswithAI_howwestAfrica_sDubawaistran.md]] : Fighting fake news with AI — how west Africa's Dubawa is transforming fact-checking
+- [[raw/articles/2026-08-17_OpenAIreportedlydisbandeditspreparednessteam.md]] : OpenAI reportedly disbanded its preparedness team
+- [[raw/articles/2026-08-17_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-17_StripewillreportedlyacquireAIgatewaystartupOpenRou.md]] : Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
+- [[raw/articles/2026-08-17_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md]] : Qwen 3.8 27B is excellent, but it defaults to overthinking things
+- [[raw/articles/2026-08-17_NewpolicyideasfortheIntelligenceAge.md]] : New policy ideas for the Intelligence Age
+- [[raw/articles/2026-08-17_AnthropicexplainshowClaude__8217_sinvisibletextwat.md]] : Anthropic explains how Claude&#8217;s invisible text watermarks will work
+- [[raw/articles/2026-08-17_TheDefender_sWindow.md]] : The Defender’s Window
+- [[raw/articles/2026-08-17_Wisprraises_280Mat_2Bvaluationasitlooksbeyonddicta.md]] : Wispr raises $280M at $2B valuation as it looks beyond dictation
+- [[raw/articles/2026-08-17_APreviewofDuckDBv2_0.md]] : A Preview of DuckDB v2.0
+- [[raw/articles/2026-08-17_Qwen3_827Bscores52onArtificialAnalysis.md]] : Qwen3.8 27B scores 52 on Artificial Analysis
+- [[raw/articles/2026-08-17_AI_DR_AI_Didn_tRead_.md]] : AI;DR (AI; Didn't Read)
+- [[raw/articles/2026-08-17_GPUOffloadinRust_Portable_Safe_andFast.md]] : GPU Offload in Rust: Portable, Safe, and Fast
+- [[raw/articles/2026-08-17_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[raw/articles/2026-08-17_AIautomationstartupRelayshutsdown_staffjoinsGoogle.md]] : AI automation startup Relay shuts down, staff joins Google’s Chrome team
+- [[raw/articles/2026-08-17_Anthropic_sannualizedrevenuesurgesto_65B.md]] : Anthropic’s annualized revenue surges to $65B
+- [[raw/articles/2026-08-17_EvaxionExpandsPipelinewithEVX-05_anAI-DesignedOff-.md]] : Evaxion Expands Pipeline with EVX-05, an AI -Designed Off-the-Shelf Glioblastoma Vaccine
+- [[raw/articles/2026-08-18_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-18_EvaxionExpandsPipelinewithEVX-05_anAI-DesignedOff-.md]] : Evaxion Expands Pipeline with EVX-05, an AI -Designed Off-the-Shelf Glioblastoma Vaccine
+- [[raw/articles/2026-08-18_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-18_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-18_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[raw/articles/2026-08-18_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-18_TheDefender_sWindow.md]] : The Defender’s Window
+- [[raw/articles/2026-08-18_Linux7_3improvesperformancewhenrunningoutofvRAM.md]] : Linux 7.3 improves performance when running out of vRAM
+- [[raw/articles/2026-08-18_ElonMuskmadeflyingevenworsesoPalantircouldprofit.md]] : Elon Musk made flying even worse so Palantir could profit
+- [[raw/articles/2026-08-18_Google__8217_sPetMemoryforgotwhomycatsare.md]] : Google&#8217;s Pet Memory forgot who my cats are
+- [[raw/articles/2026-08-18_Anthropic_sannualizedrevenuesurgesto_65B.md]] : Anthropic’s annualized revenue surges to $65B
+- [[raw/articles/2026-08-18_PartneringwithCodeAItopreparethefirstAIgeneration.md]] : Partnering with CodeAI to prepare the first AI generation
+- [[raw/articles/2026-08-18_Usingtherailwaynetworkasaflatbedscanner.md]] : Using the railway network as a flatbed scanner
+- [[raw/articles/2026-08-18_Warp_snewsystemisanout-of-the-boxsoftwarefactoryfo.md]] : Warp’s new system is an out-of-the-box software factory for AI development
+- [[raw/articles/2026-08-18_Firefox__8217_sSmartWindowpromisesabetterAIbrowser.md]] : Firefox&#8217;s Smart Window promises a better AI browser
+- [[raw/articles/2026-08-18_TheAmazonTax.md]] : The Amazon Tax
+- [[raw/articles/2026-08-18_Claude_DegradedPerformanceforMultipleModels.md]] : Claude: Degraded Performance for Multiple Models
+- [[raw/articles/2026-08-18_ClaudeCodeweeklylimitsreducebyathirdtomorrow.md]] : Claude Code weekly limits reduce by a third tomorrow
+- [[raw/articles/2026-08-18_OpenAIinstitutesnewsafeguardsafterHuggingFacebreac.md]] : OpenAI institutes new safeguards after Hugging Face breach
+- [[raw/articles/2026-08-18_Turbovec_Google_sTurboQuantforvectorsearchinRust.md]] : Turbovec – Google's TurboQuant for vector search in Rust
+- [[raw/articles/2026-08-18_StrengtheningDemocraticOversightinNationalSecurity.md]] : Strengthening Democratic Oversight in National Security
+- [[raw/articles/2026-08-18_RobinWilliams_Instagramaccountbroughtbacktofight_A.md]] : Robin Williams’ Instagram account brought back to fight ‘AI abuse’
+- [[raw/articles/2026-08-18_BewareManagementConsultants.md]] : Beware Management Consultants
+- [[raw/articles/2026-08-18_Strengtheningdemocraticoversightinnationalsecurity.md]] : Strengthening democratic oversight in national security
+- [[raw/articles/2026-08-18_CursorcapitalizesonGitHubfrustration_launchesrival.md]] : Cursor capitalizes on GitHub frustration, launches rival hosting platform
+- [[raw/articles/2026-08-18_A3DfruitflyonmacOSdesktoppoweredbytherealFlyWireco.md]] : A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
+- [[raw/articles/2026-08-18_NestlébetsbigonGLP-1swithAI-powerednutritionpush-F.md]] : Nestlé bets big on GLP-1s with AI -powered nutrition push - Food Navigator
+- [[raw/articles/2026-08-19_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-19_NestlébetsbigonGLP-1swithAI-powerednutritionpush-F.md]] : Nestlé bets big on GLP-1s with AI -powered nutrition push - Food Navigator
+- [[raw/articles/2026-08-19_CursorcapitalizesonGitHubfrustration_launchesrival.md]] : Cursor capitalizes on GitHub frustration, launches rival hosting platform
+- [[raw/articles/2026-08-19_Meta_sblockbustertrialdrawsparallelstobigtobacco.md]] : Meta's blockbuster trial draws parallels to big tobacco
+- [[raw/articles/2026-08-19_RobinWilliams_Instagramaccountbroughtbacktofight_A.md]] : Robin Williams’ Instagram account brought back to fight ‘AI abuse’
+- [[raw/articles/2026-08-19_ChatGPTAdsexpandsacrossEurope.md]] : ChatGPT Ads expands across Europe
+- [[raw/articles/2026-08-19_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
+- [[raw/articles/2026-08-19_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-19_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[raw/articles/2026-08-19_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-19_HowAIcancontributetohumanculturalevolution_Max-Pla.md]] : How AI can contribute to human cultural evolution | Max-Planck-Gesellschaft
+- [[raw/articles/2026-08-19_RelativityNetworksraises_22milliontobringafasterki.md]] : Relativity Networks raises $22 million to bring a faster kind of fiber to data centers
+- [[raw/articles/2026-08-19_GrapheneOSin2027availableonhigh-endMotorolaphones.md]] : GrapheneOS in 2027 available on high-end Motorola phones
+- [[raw/articles/2026-08-19_ReplitexpandsaccesstosoftwarecreationwithGPT-5_6Lu.md]] : Replit expands access to software creation with GPT-5.6 Luna
+- [[raw/articles/2026-08-19_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[raw/articles/2026-08-19_AmazonmakesitsAI-poweredAlexa_freeonFireTV_noPrime.md]] : Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required
+- [[raw/articles/2026-08-19_TerraPower_snuclearreactorhasasecretweaponforpower.md]] : TerraPower’s nuclear reactor has a secret weapon for powering AI data centers
+- [[raw/articles/2026-08-19_CivicHygiene_avoidbuildingtechnologiesthatcouldbeu.md]] : Civic Hygiene – avoid building technologies that could be used by a police state
+- [[raw/articles/2026-08-19_ElonMuskmadeflyingevenworsesoPalantircouldprofit.md]] : Elon Musk made flying even worse so Palantir could profit
+- [[raw/articles/2026-08-19_OfferingZeroDataRetentionforfrontiermodels.md]] : Offering Zero Data Retention for frontier models
+- [[raw/articles/2026-08-19_MeetthestartuphelpingWallStreetputapriceonAIcomput.md]] : Meet the startup helping Wall Street put a price on AI compute
+- [[raw/articles/2026-08-19_GoogleGeminiisgettingadedicatedstudenthub.md]] : Google Gemini is getting a dedicated student hub
+- [[raw/articles/2026-08-19_OpenAIseekstoone-upAnthropicwithnewcustomerprivacy.md]] : OpenAI seeks to one-up Anthropic with new customer privacy protections
+- [[raw/articles/2026-08-19_Stripedidn_treallybuyOpenRouterbecauseofthe_singul.md]] : Stripe didn’t really buy OpenRouter because of the ‘singularity’
+- [[raw/articles/2026-08-20_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-20_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[raw/articles/2026-08-20_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-20_Stripedidn_treallybuyOpenRouterbecauseofthe_singul.md]] : Stripe didn’t really buy OpenRouter because of the ‘singularity’
+- [[raw/articles/2026-08-20_OfferingZeroDataRetentionforfrontiermodels.md]] : Offering Zero Data Retention for frontier models
+- [[raw/articles/2026-08-20_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-20_GoogleGeminiisgettingadedicatedstudenthub.md]] : Google Gemini is getting a dedicated student hub
+- [[raw/articles/2026-08-20_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[raw/articles/2026-08-20_WhyMicrosoftEntertainmentPackhadastickerannouncing.md]] : Why Microsoft Entertainment Pack had a sticker announcing that it had Tetris?
+- [[raw/articles/2026-08-20_Don_tPastetheAI_please.md]] : Don't Paste the AI, please
+- [[raw/articles/2026-08-20_Slackislaunchingcollaborativevibe-codingchannels.md]] : Slack is launching collaborative vibe-coding channels
+- [[raw/articles/2026-08-20_MetaAI_snewMacappwantsyoutotalktoyourapps.md]] : Meta AI’s new Mac app wants you to talk to your apps
+- [[raw/articles/2026-08-20_MaliciousRustCrateArrayrefRunsaBuild-TimePayload.md]] : Malicious Rust Crate Arrayref Runs a Build-Time Payload
+- [[raw/articles/2026-08-20_WelcometotheAIcrisisinmath.md]] : Welcome to the AI crisis in math
+- [[raw/articles/2026-08-20_AliExpressrunssilentWebAudiofingerprintingthatbrea.md]] : AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint
+- [[raw/articles/2026-08-20_HowChatGPTWorkhelpsStamplimoveideastomarket.md]] : How ChatGPT Work helps Stampli move ideas to market
+- [[raw/articles/2026-08-20_It_sGregBrockman_sOpenAInow.md]] : It’s Greg Brockman’s OpenAI now
+- [[raw/articles/2026-08-20_MetabringsPocket_anappthatletsyouvibe-codeandshare.md]] : Meta brings Pocket, an app that lets you vibe-code and share games, to US users
+- [[raw/articles/2026-08-20_Ilike_emthick_anapologytomyEnglishteachers.md]] : I like 'em thick: an apology to my English teachers
+- [[raw/articles/2026-08-20_RamplaunchesitsownAImodelrouter_calledRouter.md]] : Ramp launches its own AI model router, called Router
+- [[raw/articles/2026-08-20_Grokkeepssendinggibberishresponsestousers.md]] : Grok keeps sending gibberish responses to users
+- [[raw/articles/2026-08-20_Runlayer_Ripplingdroplawsuits_Butthebrouhahaisstil.md]] : Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.
+- [[raw/articles/2026-08-20_ScientificstudyrevealsTikTokvideosdeactivatekeycog.md]] : Scientific study reveals TikTok videos deactivate key cognitive brain regions
+- [[raw/articles/2026-08-20_GooglegivespublishersanewwaytofightAI-driventraffi.md]] : Google gives publishers a new way to fight AI-driven traffic losses
+- [[raw/articles/2026-08-20_ShowHN_Huzzah_anovelapproachtocodingwithAI.md]] : Show HN: Huzzah – a novel approach to coding with AI
+- [[raw/articles/2026-08-20_GoogleDiscoverisgettinganAIchatbot-tunedfeed.md]] : Google Discover is getting an AI chatbot-tuned feed
+- [[raw/articles/2026-08-20_ChatGPTcannowsendtextsforyouwithnewAppleMessagespl.md]] : ChatGPT can now send texts for you with new Apple Messages plugin
+- [[raw/articles/2026-08-20_OpenAIisgainingonAnthropicwithbusinessusers_newdat.md]] : OpenAI is gaining on Anthropic with business users, new data indicates
+- [[raw/articles/2026-08-20_CopyrightdoesnotprotectAI-generatedcontentinEU.md]] : Copyright does not protect AI-generated content in EU
+- [[raw/articles/2026-08-20_CoreWeavesignsAIclouddealwithHudsonRiverTradingfor.md]] : CoreWeave signs AI cloud deal with Hudson River Trading for research platform - ROI-NJ
+- [[raw/articles/2026-08-20_AIcompaniesdestroyphysicalbooks_let_sscanrarebooks.md]] : AI companies destroy physical books – let's scan rare books before it's too late
+- [[raw/articles/2026-08-21_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-21_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-21_GoogleDiscoverisgettinganAIchatbot-tunedfeed.md]] : Google Discover is getting an AI chatbot-tuned feed
+- [[raw/articles/2026-08-21_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[raw/articles/2026-08-21_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-21_CoreWeavesignsAIclouddealwithHudsonRiverTradingfor.md]] : CoreWeave signs AI cloud deal with Hudson River Trading for research platform - ROI-NJ
+- [[raw/articles/2026-08-21_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
+- [[raw/articles/2026-08-21_DeepSeek-v4-flash-vision-exp.md]] : DeepSeek-v4-flash-vision-exp
+- [[raw/articles/2026-08-21_Kagiaddedasettingforremovingpaywalledlinksfromsear.md]] : Kagi added a setting for removing paywalled links from search results
+- [[raw/articles/2026-08-21_Starcloudraises_250millionfororbitaldatacentersasl.md]] : Starcloud raises $250 million for orbital data centers as launch options dry up
+- [[raw/articles/2026-08-21_EthiopiaandRussiastrengthenAIcooperation_TVBRICS_2.md]] : Ethiopia and Russia strengthen AI cooperation | TV BRICS, 21.08.26
+- [[raw/articles/2026-08-21_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[raw/articles/2026-08-21_Kobocanrunappsnow.md]] : Kobo can run apps now
+- [[raw/articles/2026-08-21_Nvidiajustshowedthattheharness_nottheAImodel_isnow.md]] : Nvidia just showed that the harness, not the AI model, is now the real hero
+- [[raw/articles/2026-08-21_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
+- [[raw/articles/2026-08-21_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
+- [[raw/articles/2026-08-22_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-22_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-22_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-22_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
+- [[raw/articles/2026-08-22_EthiopiaandRussiastrengthenAIcooperation_TVBRICS_2.md]] : Ethiopia and Russia strengthen AI cooperation | TV BRICS, 21.08.26
+- [[raw/articles/2026-08-22_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[raw/articles/2026-08-22_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
+- [[raw/articles/2026-08-22_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[raw/articles/2026-08-22_FelonyBench.md]] : Felony Bench
+- [[raw/articles/2026-08-22_AKantianCritiqueof_Sorry_byJustinBieber.md]] : A Kantian Critique of "Sorry" by Justin Bieber
+- [[raw/articles/2026-08-22_FrontierAIlabsstillwon_tsayhowthey_dcontainaroguem.md]] : Frontier AI labs still won’t say how they’d contain a rogue model
+- [[raw/articles/2026-08-22_OpenAIsaysCaliforniashouldstrengthenitsAIsafetybil.md]] : OpenAI says California should strengthen its AI safety bill
+- [[raw/articles/2026-08-22_ElevenLabs_TwelveLabs_ThirteenLabs.md]] : ElevenLabs, TwelveLabs, ThirteenLabs
+- [[raw/articles/2026-08-22_Inherent_foundedbyDeepMindalumni_saysitsAI_teammat.md]] : Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research
+- [[raw/articles/2026-08-22_hdiutilisdeprecatedinmacOS27GoldenGate.md]] : hdiutil is deprecated in macOS 27 Golden Gate
+- [[raw/articles/2026-08-22_Scrap.md]] : Scrap
+- [[raw/articles/2026-08-22_Figmimic_AbookmarklettocopyanywebpageintoFigmaased.md]] : Figmimic – A bookmarklet to copy any webpage into Figma as editable layers
+- [[raw/articles/2026-08-22_Scrap_2006_.md]] : Scrap (2006)
+- [[raw/articles/2026-08-23_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[raw/articles/2026-08-23_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[raw/articles/2026-08-23_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-23_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-23_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-23_SydneyMarathonmedalmistakenlydepictsMunichstadium.md]] : Sydney Marathon medal mistakenly depicts Munich stadium
+- [[raw/articles/2026-08-23_MalwareinfectsAndroid-basedautomotiveheadunitfirmw.md]] : Malware infects Android-based automotive head unit firmware
+- [[raw/articles/2026-08-23_HowComplexSystemsFail.md]] : How Complex Systems Fail
+- [[raw/articles/2026-08-23_Ispent_266andfourAImodelstoownmytablet_GLM-5_3fini.md]] : I spent $266 and four AI models to own my tablet. GLM-5.3 finished it in a day
+- [[raw/articles/2026-08-23_Who_sbehindthenew_stealthmodel_OxAlpha_.md]] : Who’s behind the new ‘stealth model’ Ox Alpha?
+- [[raw/articles/2026-08-23_IntroducingAIFutures.md]] : Introducing AI Futures
+- [[raw/articles/2026-08-24_Who_sbehindthenew_stealthmodel_OxAlpha_.md]] : Who’s behind the new ‘stealth model’ Ox Alpha?
+- [[raw/articles/2026-08-24_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-24_IntroducingInkling-Small.md]] : Introducing Inkling-Small
+- [[raw/articles/2026-08-24_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[raw/articles/2026-08-24_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-24_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[raw/articles/2026-08-24_SeL4securityproofsnowcompleteonAArch64.md]] : SeL4 security proofs now complete on AArch64
+- [[raw/articles/2026-08-24_HowEuropeiskillingmakersandmicro-entrepreneurs.md]] : How Europe is killing makers and micro-entrepreneurs
+- [[raw/articles/2026-08-24_HuggingFacereportedlyintalkstobeacquiredfor_13B.md]] : Hugging Face reportedly in talks to be acquired for $13B
+- [[raw/articles/2026-08-24_OpenAIisbuildingAIagentsforeverything_Willeveryone.md]] : OpenAI is building AI agents for everything. Will everyone use them?
+- [[raw/articles/2026-08-24_BuildingAIcapabilitiestailoredtoVietnam_sneeds-Vie.md]] : Building AI capabilities tailored to Vietnam's needs - Vietnam+ (VietnamPlus)
+- [[raw/articles/2026-08-24_Instinct_spowerfulAIassistantisraisingprivacyandse.md]] : Instinct’s powerful AI assistant is raising privacy and security concerns
+- [[raw/articles/2026-08-24_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[raw/articles/2026-08-24_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
+- [[raw/articles/2026-08-24_OnecornerofChina_sinternetisinsistingthattheTangDy.md]] : One corner of China’s internet is insisting that the Tang Dynasty never existed
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-24.md|Daily AI Intelligence Briefing — 2026-08-24]] — deployment-fit models, agent lifecycle security, harness continual learning, and context-sensitive alignment
-- [[2026-08-24_SKTelecomOpensJointAIProgramwithSeoulNationalUnive.md]] : SK Telecom Opens Joint AI Program with Seoul National University, Current Developers to Teach
-- [[2026-08-25_SKTelecomOpensJointAIProgramwithSeoulNationalUnive.md]] : SK Telecom Opens Joint AI Program with Seoul National University, Current Developers to Teach
-- [[2026-08-25_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-25_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
-- [[2026-08-25_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
-- [[2026-08-25_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[2026-08-25_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
-- [[2026-08-25_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-25_WhysomeUSrestaurantsarebanningtips.md]] : Why some US restaurants are banning tips
-- [[2026-08-25_Accel-backedKeenableisindexingthewebforAIagents.md]] : Accel-backed Keenable is indexing the web for AI agents
-- [[2026-08-25_AppleIntroducesNewMacStudiowithM5MaxandM5Ultra.md]] : Apple Introduces New Mac Studio with M5 Max and M5 Ultra
-- [[2026-08-25_Jalapeño_sfirstresultsshowindustry-leadingspeedand.md]] : Jalapeño’s first results show industry-leading speed and efficiency in AI inference
-- [[2026-08-25_Thefullstackbehindabundantintelligence.md]] : The full stack behind abundant intelligence
-- [[2026-08-25_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
-- [[2026-08-25_ClaudeCoworkfinallyrememberswhatyoutoldtheappincha.md]] : Claude Cowork finally remembers what you told the app in chat
-- [[2026-08-25_StabilityAI_makerofimagegeneratorStableDiffusion_r.md]] : Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding
-- [[2026-08-25_FDAauthorizesfirstwearabledevicethatmonitorsketone.md]] : FDA authorizes first wearable device that monitors ketone and blood sugar levels
-- [[2026-08-25_Python_spre-declaredconstantsarekindaweird.md]] : Python's pre-declared constants are kinda weird
+- [[raw/articles/2026-08-24_SKTelecomOpensJointAIProgramwithSeoulNationalUnive.md]] : SK Telecom Opens Joint AI Program with Seoul National University, Current Developers to Teach
+- [[raw/articles/2026-08-25_SKTelecomOpensJointAIProgramwithSeoulNationalUnive.md]] : SK Telecom Opens Joint AI Program with Seoul National University, Current Developers to Teach
+- [[raw/articles/2026-08-25_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-25_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[raw/articles/2026-08-25_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
+- [[raw/articles/2026-08-25_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[raw/articles/2026-08-25_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
+- [[raw/articles/2026-08-25_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-25_WhysomeUSrestaurantsarebanningtips.md]] : Why some US restaurants are banning tips
+- [[raw/articles/2026-08-25_Accel-backedKeenableisindexingthewebforAIagents.md]] : Accel-backed Keenable is indexing the web for AI agents
+- [[raw/articles/2026-08-25_AppleIntroducesNewMacStudiowithM5MaxandM5Ultra.md]] : Apple Introduces New Mac Studio with M5 Max and M5 Ultra
+- [[raw/articles/2026-08-25_Jalapeño_sfirstresultsshowindustry-leadingspeedand.md]] : Jalapeño’s first results show industry-leading speed and efficiency in AI inference
+- [[raw/articles/2026-08-25_Thefullstackbehindabundantintelligence.md]] : The full stack behind abundant intelligence
+- [[raw/articles/2026-08-25_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
+- [[raw/articles/2026-08-25_ClaudeCoworkfinallyrememberswhatyoutoldtheappincha.md]] : Claude Cowork finally remembers what you told the app in chat
+- [[raw/articles/2026-08-25_StabilityAI_makerofimagegeneratorStableDiffusion_r.md]] : Stability AI, maker of image generator Stable Diffusion, raises $76 million in fresh funding
+- [[raw/articles/2026-08-25_FDAauthorizesfirstwearabledevicethatmonitorsketone.md]] : FDA authorizes first wearable device that monitors ketone and blood sugar levels
+- [[raw/articles/2026-08-25_Python_spre-declaredconstantsarekindaweird.md]] : Python's pre-declared constants are kinda weird
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-25.md|Daily AI Intelligence Briefing — 2026-08-25]] — agent graphs, harnesses, system-level capability, privacy leakage, and human skill effects
 - [[concepts/ai-trends/daily-ai-intelligence-carry-forward-2026-08-25.md|Approved AI Research Paper Carry-Forward — 2026-08-25]] — seven uncovered approved papers linked from the dated briefing
-- [[2026-08-26_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[2026-08-26_Thefullstackbehindabundantintelligence.md]] : The full stack behind abundant intelligence
-- [[2026-08-26_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
-- [[2026-08-26_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-26_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-26_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
-- [[2026-08-26_Oldinsurancemaps_netisnowaCharterProject.md]] : Oldinsurancemaps.net is now a Charter Project
-- [[2026-08-26_RAGIsSimplerThanYouThink.md]] : RAG Is Simpler Than You Think
-- [[2026-08-26_Runablehits_21MtobetAIagentscangofrombuildingbusin.md]] : Runable hits $21M to bet AI agents can go from building businesses to growing them
-- [[2026-08-26_HowloveholidaysismakingeveryoneabuilderwithCodex.md]] : How loveholidays is making everyone a builder with Codex
-- [[2026-08-26_GLM-5_3-Flash.md]] : GLM-5.3-Flash
-- [[2026-08-26_Google_snewAItranscriptioneditsoutyour__8216_ums__.md]] : Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;
-- [[2026-08-26_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md]] : Bringing ChatGPT for Teachers to more U.S. school districts
-- [[2026-08-26_OpenAIreleasesitsofficialreportontheHuggingFacebre.md]] : OpenAI releases its official report on the Hugging Face breach
-- [[2026-08-26_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
-- [[2026-08-26_Google_sGeminihasabrandingproblem_andsodoestherest.md]] : Google’s Gemini has a branding problem, and so does the rest of AI
-- [[2026-08-26_MechanicalTurkshuttingdownSeptember30.md]] : Mechanical Turk shutting down September 30
-- [[2026-08-26_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
+- [[raw/articles/2026-08-26_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
+- [[raw/articles/2026-08-26_Thefullstackbehindabundantintelligence.md]] : The full stack behind abundant intelligence
+- [[raw/articles/2026-08-26_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[raw/articles/2026-08-26_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-26_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-26_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
+- [[raw/articles/2026-08-26_Oldinsurancemaps_netisnowaCharterProject.md]] : Oldinsurancemaps.net is now a Charter Project
+- [[raw/articles/2026-08-26_RAGIsSimplerThanYouThink.md]] : RAG Is Simpler Than You Think
+- [[raw/articles/2026-08-26_Runablehits_21MtobetAIagentscangofrombuildingbusin.md]] : Runable hits $21M to bet AI agents can go from building businesses to growing them
+- [[raw/articles/2026-08-26_HowloveholidaysismakingeveryoneabuilderwithCodex.md]] : How loveholidays is making everyone a builder with Codex
+- [[raw/articles/2026-08-26_GLM-5_3-Flash.md]] : GLM-5.3-Flash
+- [[raw/articles/2026-08-26_Google_snewAItranscriptioneditsoutyour__8216_ums__.md]] : Google’s new AI transcription edits out your &#8216;ums&#8217; and &#8216;ahs&#8217;
+- [[raw/articles/2026-08-26_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md]] : Bringing ChatGPT for Teachers to more U.S. school districts
+- [[raw/articles/2026-08-26_OpenAIreleasesitsofficialreportontheHuggingFacebre.md]] : OpenAI releases its official report on the Hugging Face breach
+- [[raw/articles/2026-08-26_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
+- [[raw/articles/2026-08-26_Google_sGeminihasabrandingproblem_andsodoestherest.md]] : Google’s Gemini has a branding problem, and so does the rest of AI
+- [[raw/articles/2026-08-26_MechanicalTurkshuttingdownSeptember30.md]] : Mechanical Turk shutting down September 30
+- [[raw/articles/2026-08-26_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-26.md|Daily AI Intelligence Briefing — 2026-08-26]] — deployment economics, outcome-oriented agents, safety engineering, and adoption trust
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-27.md|Daily AI Intelligence Briefing — 2026-08-27]] — model economics, adoption, open-weight safety, agent governance, and 170 retained research papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-08-28.md|Daily AI Intelligence Briefing — 2026-08-28]] — deployment governance, rights-aware AI interfaces, domain automation, infrastructure efficiency, and 76 carried-forward research papers
-- [[2026-08-27_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
-- [[2026-08-27_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
-- [[2026-08-27_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
-- [[2026-08-27_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-27_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md]] : Bringing ChatGPT for Teachers to more U.S. school districts
-- [[2026-08-27_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[2026-08-27_NvidiaclosesinonHuggingFaceacquisition.md]] : Nvidia closes in on Hugging Face acquisition
-- [[2026-08-27_ExpandingOpenAI_spresenceinBrazil.md]] : Expanding OpenAI’s presence in Brazil
-- [[2026-08-27_OpenAItostartshowingadsonChatGPT_sfreeandGotiersin.md]] : OpenAI to start showing ads on ChatGPT’s free and Go tiers in India
-- [[2026-08-27_AirConditioningIsNotaLuxury_ItIsaNecessity.md]] : Air Conditioning Is Not a Luxury, It Is a Necessity
-- [[2026-08-27_Whenagentsactontheirown_governancehastoliveintheda.md]] : When agents act on their own, governance has to live in the data layer
-- [[2026-08-27_Here_sallthetimesAIhasgonerogueandhackedothercompa.md]] : Here’s all the times AI has gone rogue and hacked other companies
-- [[2026-08-27_JensenHuangsaysNvidiaachievedAGI_again_notthatitma.md]] : Jensen Huang says Nvidia achieved AGI, again — not that it matters
-- [[2026-08-27_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
-- [[2026-08-27_Saving100terabytesofmemorybyoptimizing1_1_1_1_sDNS.md]] : Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
-- [[2026-08-27_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-08-27_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
-- [[2026-08-27_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books
-- [[2026-08-27_AnthropicwasillegallyblacklistedbytheTrumpadminist.md]] : Anthropic was illegally blacklisted by the Trump administration, court rules
-- [[2026-08-28_Saving100terabytesofmemorybyoptimizing1_1_1_1_sDNS.md]] : Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
-- [[2026-08-28_AnthropicwasillegallyblacklistedbytheTrumpadminist.md]] : Anthropic was illegally blacklisted by the Trump administration, court rules
-- [[2026-08-28_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-08-28_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
-- [[2026-08-28_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-28_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
-- [[2026-08-28_HilariouslyFastVolumeComputationwiththeDivergenceT.md]] : Hilariously Fast Volume Computation with the Divergence Theorem
-- [[2026-08-28_MetaexecutiveleavesforOpenAIasthesocialmediagiantf.md]] : Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India
-- [[2026-08-28_OpenAI_MigratingtoHTTPX2.md]] : OpenAI: Migrating to HTTPX2
-- [[2026-08-28_AnthropicgetsitsfirstcourtwinoverthePentagon_ssupp.md]] : Anthropic gets its first court win over the Pentagon’s supply chain risk label
-- [[2026-08-28_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution
-- [[2026-08-28_Open-weightAIcompaniesaretheValley_shottestacquisi.md]] : Open-weight AI companies are the Valley’s hottest acquisition targets
-- [[2026-08-28_GUIsshouldbefullykeyboard-driven.md]] : GUIs should be fully keyboard-driven
-- [[2026-08-28_AnAnthropicresearcherjustgaveusapeekatself-improvi.md]] : An Anthropic researcher just gave us a peek at self-improving AI
-- [[2026-08-28_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books
-- [[2026-08-28_DoestheSumerianKingListAlignwithPaleoclimateEvents.md]] : Does the Sumerian King List Align with Paleoclimate Events?
-- [[2026-08-28_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
-- [[2026-08-28_WhoBuilds_Wins_TheTrillion-DollarContestforAIInfra.md]] : Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure
-- [[2026-08-29_WhoBuilds_Wins_TheTrillion-DollarContestforAIInfra.md]] : Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure
-- [[2026-08-29_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
-- [[2026-08-29_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
-- [[2026-08-29_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-08-29_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-29_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution
-- [[2026-08-29_SQLiteasaDocumentDatabase_2020_.md]] : SQLite as a Document Database (2020)
-- [[2026-08-29_SonyMusicandWarnerChappellaresuingAnthropic.md]] : Sony Music and Warner Chappell are suing Anthropic
-- [[2026-08-29_TencentReleasesandOpen-SourcesTencentHy4Preview.md]] : Tencent Releases and Open-Sources Tencent Hy4 Preview
-- [[2026-08-29_Defrag98_Windows98DiskDefragmenterSimulatorOnline.md]] : Defrag98: Windows 98 Disk Defragmenter Simulator Online
-- [[2026-08-29_Hy4preview.md]] : Hy4 preview
-- [[2026-08-29_BugBlindness.md]] : Bug Blindness
-- [[2026-08-29_IsMicron_sUS_10BillionAIR_DandTrainingPushAltering.md]] : Is Micron's US$10 Billion AI R&D and Training Push Altering The Investment Case For ...
-- [[2026-08-30_IsMicron_sUS_10BillionAIR_DandTrainingPushAltering.md]] : Is Micron's US$10 Billion AI R&D and Training Push Altering The Investment Case For ...
-- [[2026-08-30_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
-- [[2026-08-30_SonyMusicandWarnerChappellaresuingAnthropic.md]] : Sony Music and Warner Chappell are suing Anthropic
-- [[2026-08-30_BugBlindness.md]] : Bug Blindness
-- [[2026-08-30_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-08-30_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-30_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
-- [[2026-08-30_LongestStraightLinePathsonWaterorLandontheEarth_20.md]] : Longest Straight Line Paths on Water or Land on the Earth (2018)
-- [[2026-08-30_SonyMusicPublishingandWarnerChappellaresuingAnthro.md]] : Sony Music Publishing and Warner Chappell are suing Anthropic
-- [[2026-08-30_ArbitrarycodeexecutioninQubesOSviacopy-to-VMerrorr.md]] : Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
-- [[2026-08-30_HackingIKEAFurniture.md]] : Hacking IKEA Furniture
-- [[2026-08-30_TexasGovernorAbbottblocksfundingformoreFlockcamera.md]] : Texas Governor Abbott blocks funding for more Flock cameras
-- [[2026-08-30__Ijustchosewordscarefully__.md]] : "I just chose words carefully."
-- [[2026-08-30__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
-- [[2026-08-31_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-08-31_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
-- [[2026-08-31_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-08-31_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
-- [[2026-08-31__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
-- [[2026-08-31_AmilestoneinexpandingaccesstoAI.md]] : A milestone in expanding access to AI
-- [[2026-08-31_TimesFM-3_Azero-shotfoundationmodelformultivariate.md]] : TimesFM-3: A zero-shot foundation model for multivariate forecasting
-- [[2026-08-31_MicrosoftDetailsAIContainmentStrategiesforAutonomo.md]] : Microsoft Details AI Containment Strategies for Autonomous Agents
-- [[2026-08-31_HarvardLawdropoutraises_6MforBlueVoicetobuilda_Har.md]] : Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’
-- [[2026-08-31_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
-- [[2026-08-31_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
-- [[2026-08-31_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-08-31_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-08-31_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
-- [[2026-08-31_PolimillbuildsJapan_snext-generationpublicAIinfras.md]] : Polimill builds Japan's next-generation public AI infrastructure
-- [[2026-08-31_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-08-31_News.md]] : News
-- [[2026-08-31_Appleshares_shockingevidence_againstformeremployee.md]] : Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI
-- [[2026-08-31_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
-- [[2026-09-01_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-09-01_TimesFM-3_Azero-shotfoundationmodelformultivariate.md]] : TimesFM-3: A zero-shot foundation model for multivariate forecasting
-- [[2026-09-01_Fastpotify.md]] : Fastpotify
-- [[2026-09-01_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
-- [[2026-09-01_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-09-01_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-09-01_News.md]] : News
-- [[2026-09-01_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-01_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-01_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
-- [[2026-09-01_PolimillbuildsJapan_snext-generationpublicAIinfras.md]] : Polimill builds Japan's next-generation public AI infrastructure
-- [[2026-09-01_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
-- [[2026-09-01_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
-- [[2026-09-01_OpenAIsupportsCalifornia_sbilltoadvanceyouthAIsafe.md]] : OpenAI supports California’s bill to advance youth AI safety
-- [[2026-09-01_GPUWorld.md]] : GPU World
-- [[2026-09-01_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
-- [[2026-09-01_Fambotintroducesan_AIchiefofstaff_forfamilies.md]] : Fambot introduces an ‘AI chief of staff’ for families
-- [[2026-09-01_PlayStoreblocksAuroraStore_hurtingGrapheneOSusers.md]] : Play Store blocks AuroraStore, hurting GrapheneOS users
-- [[2026-09-01_ChatGPTHealthaddsEpicintegrationforclinicianstoimp.md]] : ChatGPT Health adds Epic integration for clinicians to import patient data
-- [[2026-09-01_Google_sanswertoCanvaisanAItoolwhereyoupromptinste.md]] : Google’s answer to Canva is an AI tool where you prompt instead of design
-- [[2026-09-01_ClaudeFable5_1andClaudeMythos5_1.md]] : Claude Fable 5.1 and Claude Mythos 5.1
-- [[2026-09-01_OpenAIdelayeditsnewmodel_sdevelopmentaftertheHuggi.md]] : OpenAI delayed its new model’s development after the Hugging Face hack
-- [[2026-09-01_OpenAI_sAstramodelisontheway_andverygoodatbreaking.md]] : Open AI’s Astra model is on the way—and very good at breaking into computer systems
-- [[2026-09-01_HangontoYourFirefox.md]] : Hang on to Your Firefox
-- [[2026-09-01_IntroducingClaudeFable5_1andClaudeMythos5_1Anthrop.md]] : Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic
-- [[2026-09-02_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
-- [[2026-09-02_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
-- [[2026-09-02_IntroducingClaudeFable5_1andClaudeMythos5_1Anthrop.md]] : Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic
-- [[2026-09-02_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[2026-09-02_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-02_News.md]] : News
-- [[2026-09-02_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
-- [[2026-09-02_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-02_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-09-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-09-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-09-02_AfterQueryreportedlybecomesYCombinator_sfastest-ev.md]] : AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B
-- [[2026-09-02_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
-- [[2026-09-02_OpenAIfaces30morelawsuitstiedtoTumblerRidgeshootin.md]] : OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting
-- [[2026-09-02_Surprise_Z_aiistheAIlabbehindthemysteriousOxAlpham.md]] : Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model | TechCrunch
-- [[2026-09-02_ANotefromLWN.md]] : A Note from LWN
-- [[2026-09-02_Gemini3_8Flash.md]] : Gemini 3.8 Flash
-- [[2026-09-02_ResearchersfearsafetydisasteraheadofOpenAI__8217_s.md]] : Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release
-- [[2026-09-02_Gemini3_8Flashand3_8FlashCyber.md]] : Gemini 3.8 Flash and 3.8 Flash Cyber
-- [[2026-09-02_Pangram_sMaxSperoonwhyAIdetectionisharderthan_Real.md]] : Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’
-- [[2026-09-02_MuseSpark1_3.md]] : Muse Spark 1.3
-- [[2026-09-02_ATVBigAirTourturned3daysofworkinto3hourswithChatGP.md]] : ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
-- [[2026-09-02_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
-- [[2026-09-02_FourartistsexploreAI_seffectoncultureaspartofSerpe.md]] : Four artists explore AI's effect on culture as part of Serpentine's new art and technology fellowship
-- [[2026-09-03_MuseSpark1_3.md]] : Muse Spark 1.3
-- [[2026-09-03_News.md]] : News
-- [[2026-09-03_FourartistsexploreAI_seffectoncultureaspartofSerpe.md]] : Four artists explore AI's effect on culture as part of Serpentine's new art and technology fellowship
-- [[2026-09-03_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-03_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-09-03_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
-- [[2026-09-03_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-09-03_ATVBigAirTourturned3daysofworkinto3hourswithChatGP.md]] : ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
-- [[2026-09-03_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
-- [[2026-09-03_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
-- [[2026-09-03_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-09-03_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-03_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
-- [[2026-09-03_Pre-ReleaseofPolars2_0.md]] : Pre-Release of Polars 2.0
-- [[2026-09-03_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
-- [[2026-09-03_Audacity4_0.md]] : Audacity 4.0
-- [[2026-09-03_Google_slatestAIweathermodelgivesyounoexcusetoforg.md]] : Google’s latest AI weather model gives you no excuse to forget your umbrella
-- [[2026-09-03_GooglesaysitsAIweathermodelisgettingbetter.md]] : Google says its AI weather model is getting better
-- [[2026-09-03_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
-- [[2026-09-03__nameTermination.md]] : .name Termination
-- [[2026-09-03_Nvidialaunchesfreetoolthatlinksidlecomputersintoap.md]] : Nvidia launches free tool that links idle computers into a personal AI data center
-- [[2026-09-03_Playcocutmanualfixes50_prototypinggameswithGPT-6As.md]] : Playco cut manual fixes 50% prototyping games with GPT-6 Astra
-- [[2026-09-03_OpenAI_snextbigAImodelhas_enteredtheAGIera_.md]] : OpenAI’s next big AI model has ‘entered the AGI era’
-- [[2026-09-03_MetaispayingtopeekathowyouusetheirlatestAImodel.md]] : Meta is paying to peek at how you use their latest AI model
-- [[2026-09-03_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
-- [[2026-09-03_GPT-6Astra.md]] : GPT-6 Astra
-- [[2026-09-03_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
-- [[2026-09-03_VietnamapprovesAIstrategytargetingregionalhubstatu.md]] : Vietnam approves AI strategy targeting regional hub status by 2030
-- [[2026-09-03_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
-- [[2026-09-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-04_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
-- [[2026-09-04_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
-- [[2026-09-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-09-04_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
-- [[2026-09-04_GPT-6Astra.md]] : GPT-6 Astra
-- [[2026-09-04_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-09-04_OpenAI_snextbigAImodelhas_enteredtheAGIera_.md]] : OpenAI’s next big AI model has ‘entered the AGI era’
-- [[2026-09-04_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-04_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
-- [[2026-09-04_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
-- [[2026-09-04_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
-- [[2026-09-04_ThisNAScompanywantstorunyourlocalsmarthome.md]] : This NAS company wants to run your local smart home
-- [[2026-09-04_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
-- [[2026-09-04_DiscoveryofanewOpenAIagentmessageboard.md]] : Discovery of a new OpenAI agent message board
-- [[2026-09-04_Ohgood_lookslikeyetanotherswarmofrogueAIagentsfrom.md]] : Oh good, looks like yet another swarm of rogue AI agents from OpenAI
-- [[2026-09-04_Google_sGeminiSparkcannowmanageyourGooglePhotoslib.md]] : Google’s Gemini Spark can now manage your Google Photos library
-- [[2026-09-04_RogueOpenAIagentsappeartohaveorganizedanotherattac.md]] : Rogue OpenAI agents appear to have organized another attack using a German wiki
-- [[2026-09-04_AnotherswarmofOpenAIagentsreachedtheopeninternetwi.md]] : Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge
-- [[2026-09-04_MicrosoftsaysvirtuallynobodywasgrabbingNYTarticles.md]] : Microsoft says virtually nobody was grabbing NYT articles through its chatbot
-- [[2026-09-04_WhatwillApple_sJohnTernuseralooklike_.md]] : What will Apple’s John Ternus era look like?
-- [[2026-09-04_FormalizingFermat_sLastTheorem.md]] : Formalizing Fermat's Last Theorem
-- [[2026-09-04_Z_ai_sSharesSoarAfterClaimingSurpriseAIHitOxAlpha-.md]] : Z.ai’s Shares Soar After Claiming Surprise AI Hit Ox Alpha - Bloomberg
-- [[2026-09-04_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
-- [[2026-09-04_OpenAI_srogueagentskeepescaping_withnoformalproces.md]] : OpenAI’s rogue agents keep escaping, with no formal process to investigate them
-- [[2026-09-04_RolandisgettingintogenerativeAImusicwithMelodyFlip.md]] : Roland is getting into generative AI music with Melody Flip
-- [[2026-09-04_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes
-- [[2026-09-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-05_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
-- [[2026-09-05_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes
-- [[2026-09-05_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
-- [[2026-09-05_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
-- [[2026-09-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-09-05_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-05_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
-- [[2026-09-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-09-05_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[raw/articles/2026-08-27_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
+- [[raw/articles/2026-08-27_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
+- [[raw/articles/2026-08-27_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
+- [[raw/articles/2026-08-27_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-27_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md]] : Bringing ChatGPT for Teachers to more U.S. school districts
+- [[raw/articles/2026-08-27_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
+- [[raw/articles/2026-08-27_NvidiaclosesinonHuggingFaceacquisition.md]] : Nvidia closes in on Hugging Face acquisition
+- [[raw/articles/2026-08-27_ExpandingOpenAI_spresenceinBrazil.md]] : Expanding OpenAI’s presence in Brazil
+- [[raw/articles/2026-08-27_OpenAItostartshowingadsonChatGPT_sfreeandGotiersin.md]] : OpenAI to start showing ads on ChatGPT’s free and Go tiers in India
+- [[raw/articles/2026-08-27_AirConditioningIsNotaLuxury_ItIsaNecessity.md]] : Air Conditioning Is Not a Luxury, It Is a Necessity
+- [[raw/articles/2026-08-27_Whenagentsactontheirown_governancehastoliveintheda.md]] : When agents act on their own, governance has to live in the data layer
+- [[raw/articles/2026-08-27_Here_sallthetimesAIhasgonerogueandhackedothercompa.md]] : Here’s all the times AI has gone rogue and hacked other companies
+- [[raw/articles/2026-08-27_JensenHuangsaysNvidiaachievedAGI_again_notthatitma.md]] : Jensen Huang says Nvidia achieved AGI, again — not that it matters
+- [[raw/articles/2026-08-27_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+- [[raw/articles/2026-08-27_Saving100terabytesofmemorybyoptimizing1_1_1_1_sDNS.md]] : Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+- [[raw/articles/2026-08-27_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-08-27_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[raw/articles/2026-08-27_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books
+- [[raw/articles/2026-08-27_AnthropicwasillegallyblacklistedbytheTrumpadminist.md]] : Anthropic was illegally blacklisted by the Trump administration, court rules
+- [[raw/articles/2026-08-28_Saving100terabytesofmemorybyoptimizing1_1_1_1_sDNS.md]] : Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache
+- [[raw/articles/2026-08-28_AnthropicwasillegallyblacklistedbytheTrumpadminist.md]] : Anthropic was illegally blacklisted by the Trump administration, court rules
+- [[raw/articles/2026-08-28_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-08-28_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
+- [[raw/articles/2026-08-28_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-28_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[raw/articles/2026-08-28_HilariouslyFastVolumeComputationwiththeDivergenceT.md]] : Hilariously Fast Volume Computation with the Divergence Theorem
+- [[raw/articles/2026-08-28_MetaexecutiveleavesforOpenAIasthesocialmediagiantf.md]] : Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India
+- [[raw/articles/2026-08-28_OpenAI_MigratingtoHTTPX2.md]] : OpenAI: Migrating to HTTPX2
+- [[raw/articles/2026-08-28_AnthropicgetsitsfirstcourtwinoverthePentagon_ssupp.md]] : Anthropic gets its first court win over the Pentagon’s supply chain risk label
+- [[raw/articles/2026-08-28_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution
+- [[raw/articles/2026-08-28_Open-weightAIcompaniesaretheValley_shottestacquisi.md]] : Open-weight AI companies are the Valley’s hottest acquisition targets
+- [[raw/articles/2026-08-28_GUIsshouldbefullykeyboard-driven.md]] : GUIs should be fully keyboard-driven
+- [[raw/articles/2026-08-28_AnAnthropicresearcherjustgaveusapeekatself-improvi.md]] : An Anthropic researcher just gave us a peek at self-improving AI
+- [[raw/articles/2026-08-28_Google_sAInote-takingappnowallowsyoutointeractwith.md]] : Google’s AI note-taking app now allows you to interact with books
+- [[raw/articles/2026-08-28_DoestheSumerianKingListAlignwithPaleoclimateEvents.md]] : Does the Sumerian King List Align with Paleoclimate Events?
+- [[raw/articles/2026-08-28_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[raw/articles/2026-08-28_WhoBuilds_Wins_TheTrillion-DollarContestforAIInfra.md]] : Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure
+- [[raw/articles/2026-08-29_WhoBuilds_Wins_TheTrillion-DollarContestforAIInfra.md]] : Who Builds, Wins: The Trillion-Dollar Contest for AI Infrastructure
+- [[raw/articles/2026-08-29_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[raw/articles/2026-08-29_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[raw/articles/2026-08-29_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-08-29_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-29_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution
+- [[raw/articles/2026-08-29_SQLiteasaDocumentDatabase_2020_.md]] : SQLite as a Document Database (2020)
+- [[raw/articles/2026-08-29_SonyMusicandWarnerChappellaresuingAnthropic.md]] : Sony Music and Warner Chappell are suing Anthropic
+- [[raw/articles/2026-08-29_TencentReleasesandOpen-SourcesTencentHy4Preview.md]] : Tencent Releases and Open-Sources Tencent Hy4 Preview
+- [[raw/articles/2026-08-29_Defrag98_Windows98DiskDefragmenterSimulatorOnline.md]] : Defrag98: Windows 98 Disk Defragmenter Simulator Online
+- [[raw/articles/2026-08-29_Hy4preview.md]] : Hy4 preview
+- [[raw/articles/2026-08-29_BugBlindness.md]] : Bug Blindness
+- [[raw/articles/2026-08-29_IsMicron_sUS_10BillionAIR_DandTrainingPushAltering.md]] : Is Micron's US$10 Billion AI R&D and Training Push Altering The Investment Case For ...
+- [[raw/articles/2026-08-30_IsMicron_sUS_10BillionAIR_DandTrainingPushAltering.md]] : Is Micron's US$10 Billion AI R&D and Training Push Altering The Investment Case For ...
+- [[raw/articles/2026-08-30_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[raw/articles/2026-08-30_SonyMusicandWarnerChappellaresuingAnthropic.md]] : Sony Music and Warner Chappell are suing Anthropic
+- [[raw/articles/2026-08-30_BugBlindness.md]] : Bug Blindness
+- [[raw/articles/2026-08-30_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-08-30_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-30_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[raw/articles/2026-08-30_LongestStraightLinePathsonWaterorLandontheEarth_20.md]] : Longest Straight Line Paths on Water or Land on the Earth (2018)
+- [[raw/articles/2026-08-30_SonyMusicPublishingandWarnerChappellaresuingAnthro.md]] : Sony Music Publishing and Warner Chappell are suing Anthropic
+- [[raw/articles/2026-08-30_ArbitrarycodeexecutioninQubesOSviacopy-to-VMerrorr.md]] : Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel
+- [[raw/articles/2026-08-30_HackingIKEAFurniture.md]] : Hacking IKEA Furniture
+- [[raw/articles/2026-08-30_TexasGovernorAbbottblocksfundingformoreFlockcamera.md]] : Texas Governor Abbott blocks funding for more Flock cameras
+- [[raw/articles/2026-08-30__Ijustchosewordscarefully__.md]] : "I just chose words carefully."
+- [[raw/articles/2026-08-30__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
+- [[raw/articles/2026-08-31_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-08-31_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
+- [[raw/articles/2026-08-31_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-08-31_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
+- [[raw/articles/2026-08-31__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
+- [[raw/articles/2026-08-31_AmilestoneinexpandingaccesstoAI.md]] : A milestone in expanding access to AI
+- [[raw/articles/2026-08-31_TimesFM-3_Azero-shotfoundationmodelformultivariate.md]] : TimesFM-3: A zero-shot foundation model for multivariate forecasting
+- [[raw/articles/2026-08-31_MicrosoftDetailsAIContainmentStrategiesforAutonomo.md]] : Microsoft Details AI Containment Strategies for Autonomous Agents
+- [[raw/articles/2026-08-31_HarvardLawdropoutraises_6MforBlueVoicetobuilda_Har.md]] : Harvard Law dropout raises $6M for Blue Voice to build a ‘Harvey for police officers’
+- [[raw/articles/2026-08-31_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[raw/articles/2026-08-31_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[raw/articles/2026-08-31_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[raw/articles/2026-08-31_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[raw/articles/2026-08-31_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[raw/articles/2026-08-31_PolimillbuildsJapan_snext-generationpublicAIinfras.md]] : Polimill builds Japan's next-generation public AI infrastructure
+- [[raw/articles/2026-08-31_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[raw/articles/2026-08-31_News.md]] : News
+- [[raw/articles/2026-08-31_Appleshares_shockingevidence_againstformeremployee.md]] : Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI
+- [[raw/articles/2026-08-31_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[raw/articles/2026-09-01_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[raw/articles/2026-09-01_TimesFM-3_Azero-shotfoundationmodelformultivariate.md]] : TimesFM-3: A zero-shot foundation model for multivariate forecasting
+- [[raw/articles/2026-09-01_Fastpotify.md]] : Fastpotify
+- [[raw/articles/2026-09-01_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[raw/articles/2026-09-01_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[raw/articles/2026-09-01_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[raw/articles/2026-09-01_News.md]] : News
+- [[raw/articles/2026-09-01_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-01_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-01_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[raw/articles/2026-09-01_PolimillbuildsJapan_snext-generationpublicAIinfras.md]] : Polimill builds Japan's next-generation public AI infrastructure
+- [[raw/articles/2026-09-01_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[raw/articles/2026-09-01_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[raw/articles/2026-09-01_OpenAIsupportsCalifornia_sbilltoadvanceyouthAIsafe.md]] : OpenAI supports California’s bill to advance youth AI safety
+- [[raw/articles/2026-09-01_GPUWorld.md]] : GPU World
+- [[raw/articles/2026-09-01_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[raw/articles/2026-09-01_Fambotintroducesan_AIchiefofstaff_forfamilies.md]] : Fambot introduces an ‘AI chief of staff’ for families
+- [[raw/articles/2026-09-01_PlayStoreblocksAuroraStore_hurtingGrapheneOSusers.md]] : Play Store blocks AuroraStore, hurting GrapheneOS users
+- [[raw/articles/2026-09-01_ChatGPTHealthaddsEpicintegrationforclinicianstoimp.md]] : ChatGPT Health adds Epic integration for clinicians to import patient data
+- [[raw/articles/2026-09-01_Google_sanswertoCanvaisanAItoolwhereyoupromptinste.md]] : Google’s answer to Canva is an AI tool where you prompt instead of design
+- [[raw/articles/2026-09-01_ClaudeFable5_1andClaudeMythos5_1.md]] : Claude Fable 5.1 and Claude Mythos 5.1
+- [[raw/articles/2026-09-01_OpenAIdelayeditsnewmodel_sdevelopmentaftertheHuggi.md]] : OpenAI delayed its new model’s development after the Hugging Face hack
+- [[raw/articles/2026-09-01_OpenAI_sAstramodelisontheway_andverygoodatbreaking.md]] : Open AI’s Astra model is on the way—and very good at breaking into computer systems
+- [[raw/articles/2026-09-01_HangontoYourFirefox.md]] : Hang on to Your Firefox
+- [[raw/articles/2026-09-01_IntroducingClaudeFable5_1andClaudeMythos5_1Anthrop.md]] : Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic
+- [[raw/articles/2026-09-02_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[raw/articles/2026-09-02_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[raw/articles/2026-09-02_IntroducingClaudeFable5_1andClaudeMythos5_1Anthrop.md]] : Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic
+- [[raw/articles/2026-09-02_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[raw/articles/2026-09-02_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-02_News.md]] : News
+- [[raw/articles/2026-09-02_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[raw/articles/2026-09-02_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-02_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[raw/articles/2026-09-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[raw/articles/2026-09-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[raw/articles/2026-09-02_AfterQueryreportedlybecomesYCombinator_sfastest-ev.md]] : AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B
+- [[raw/articles/2026-09-02_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[raw/articles/2026-09-02_OpenAIfaces30morelawsuitstiedtoTumblerRidgeshootin.md]] : OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting
+- [[raw/articles/2026-09-02_Surprise_Z_aiistheAIlabbehindthemysteriousOxAlpham.md]] : Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model | TechCrunch
+- [[raw/articles/2026-09-02_ANotefromLWN.md]] : A Note from LWN
+- [[raw/articles/2026-09-02_Gemini3_8Flash.md]] : Gemini 3.8 Flash
+- [[raw/articles/2026-09-02_ResearchersfearsafetydisasteraheadofOpenAI__8217_s.md]] : Researchers fear safety disaster ahead of OpenAI&#8217;s Astra release
+- [[raw/articles/2026-09-02_Gemini3_8Flashand3_8FlashCyber.md]] : Gemini 3.8 Flash and 3.8 Flash Cyber
+- [[raw/articles/2026-09-02_Pangram_sMaxSperoonwhyAIdetectionisharderthan_Real.md]] : Pangram’s Max Spero on why AI detection is harder than ‘Real or Fake’
+- [[raw/articles/2026-09-02_MuseSpark1_3.md]] : Muse Spark 1.3
+- [[raw/articles/2026-09-02_ATVBigAirTourturned3daysofworkinto3hourswithChatGP.md]] : ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+- [[raw/articles/2026-09-02_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
+- [[raw/articles/2026-09-02_FourartistsexploreAI_seffectoncultureaspartofSerpe.md]] : Four artists explore AI's effect on culture as part of Serpentine's new art and technology fellowship
+- [[raw/articles/2026-09-03_MuseSpark1_3.md]] : Muse Spark 1.3
+- [[raw/articles/2026-09-03_News.md]] : News
+- [[raw/articles/2026-09-03_FourartistsexploreAI_seffectoncultureaspartofSerpe.md]] : Four artists explore AI's effect on culture as part of Serpentine's new art and technology fellowship
+- [[raw/articles/2026-09-03_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-03_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[raw/articles/2026-09-03_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[raw/articles/2026-09-03_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[raw/articles/2026-09-03_ATVBigAirTourturned3daysofworkinto3hourswithChatGP.md]] : ATV Big Air Tour turned 3 days of work into 3 hours with ChatGPT
+- [[raw/articles/2026-09-03_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[raw/articles/2026-09-03_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[raw/articles/2026-09-03_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[raw/articles/2026-09-03_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-03_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
+- [[raw/articles/2026-09-03_Pre-ReleaseofPolars2_0.md]] : Pre-Release of Polars 2.0
+- [[raw/articles/2026-09-03_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[raw/articles/2026-09-03_Audacity4_0.md]] : Audacity 4.0
+- [[raw/articles/2026-09-03_Google_slatestAIweathermodelgivesyounoexcusetoforg.md]] : Google’s latest AI weather model gives you no excuse to forget your umbrella
+- [[raw/articles/2026-09-03_GooglesaysitsAIweathermodelisgettingbetter.md]] : Google says its AI weather model is getting better
+- [[raw/articles/2026-09-03_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
+- [[raw/articles/2026-09-03__nameTermination.md]] : .name Termination
+- [[raw/articles/2026-09-03_Nvidialaunchesfreetoolthatlinksidlecomputersintoap.md]] : Nvidia launches free tool that links idle computers into a personal AI data center
+- [[raw/articles/2026-09-03_Playcocutmanualfixes50_prototypinggameswithGPT-6As.md]] : Playco cut manual fixes 50% prototyping games with GPT-6 Astra
+- [[raw/articles/2026-09-03_OpenAI_snextbigAImodelhas_enteredtheAGIera_.md]] : OpenAI’s next big AI model has ‘entered the AGI era’
+- [[raw/articles/2026-09-03_MetaispayingtopeekathowyouusetheirlatestAImodel.md]] : Meta is paying to peek at how you use their latest AI model
+- [[raw/articles/2026-09-03_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[raw/articles/2026-09-03_GPT-6Astra.md]] : GPT-6 Astra
+- [[raw/articles/2026-09-03_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[raw/articles/2026-09-03_VietnamapprovesAIstrategytargetingregionalhubstatu.md]] : Vietnam approves AI strategy targeting regional hub status by 2030
+- [[raw/articles/2026-09-03_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
+- [[raw/articles/2026-09-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-04_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
+- [[raw/articles/2026-09-04_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[raw/articles/2026-09-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[raw/articles/2026-09-04_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[raw/articles/2026-09-04_GPT-6Astra.md]] : GPT-6 Astra
+- [[raw/articles/2026-09-04_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[raw/articles/2026-09-04_OpenAI_snextbigAImodelhas_enteredtheAGIera_.md]] : OpenAI’s next big AI model has ‘entered the AGI era’
+- [[raw/articles/2026-09-04_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-04_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
+- [[raw/articles/2026-09-04_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[raw/articles/2026-09-04_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[raw/articles/2026-09-04_ThisNAScompanywantstorunyourlocalsmarthome.md]] : This NAS company wants to run your local smart home
+- [[raw/articles/2026-09-04_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
+- [[raw/articles/2026-09-04_DiscoveryofanewOpenAIagentmessageboard.md]] : Discovery of a new OpenAI agent message board
+- [[raw/articles/2026-09-04_Ohgood_lookslikeyetanotherswarmofrogueAIagentsfrom.md]] : Oh good, looks like yet another swarm of rogue AI agents from OpenAI
+- [[raw/articles/2026-09-04_Google_sGeminiSparkcannowmanageyourGooglePhotoslib.md]] : Google’s Gemini Spark can now manage your Google Photos library
+- [[raw/articles/2026-09-04_RogueOpenAIagentsappeartohaveorganizedanotherattac.md]] : Rogue OpenAI agents appear to have organized another attack using a German wiki
+- [[raw/articles/2026-09-04_AnotherswarmofOpenAIagentsreachedtheopeninternetwi.md]] : Another swarm of OpenAI agents reached the open internet without the frontier lab’s knowledge
+- [[raw/articles/2026-09-04_MicrosoftsaysvirtuallynobodywasgrabbingNYTarticles.md]] : Microsoft says virtually nobody was grabbing NYT articles through its chatbot
+- [[raw/articles/2026-09-04_WhatwillApple_sJohnTernuseralooklike_.md]] : What will Apple’s John Ternus era look like?
+- [[raw/articles/2026-09-04_FormalizingFermat_sLastTheorem.md]] : Formalizing Fermat's Last Theorem
+- [[raw/articles/2026-09-04_Z_ai_sSharesSoarAfterClaimingSurpriseAIHitOxAlpha-.md]] : Z.ai’s Shares Soar After Claiming Surprise AI Hit Ox Alpha - Bloomberg
+- [[raw/articles/2026-09-04_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[raw/articles/2026-09-04_OpenAI_srogueagentskeepescaping_withnoformalproces.md]] : OpenAI’s rogue agents keep escaping, with no formal process to investigate them
+- [[raw/articles/2026-09-04_RolandisgettingintogenerativeAImusicwithMelodyFlip.md]] : Roland is getting into generative AI music with Melody Flip
+- [[raw/articles/2026-09-04_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes
+- [[raw/articles/2026-09-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-05_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[raw/articles/2026-09-05_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes
+- [[raw/articles/2026-09-05_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[raw/articles/2026-09-05_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[raw/articles/2026-09-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[raw/articles/2026-09-05_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-05_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
+- [[raw/articles/2026-09-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[raw/articles/2026-09-05_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-05.md|Summary: Daily AI Intelligence Briefing — 2026-09-05]] : Daily AI intelligence synthesis
-- [[2026-09-05_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
-- [[2026-09-05_The__60GamingPC__AMDBC-250_2025_.md]] : The "$60 Gaming PC" – AMD BC-250 (2025)
-- [[2026-09-05_There_sNoLimittoHowBadCodeCanGet.md]] : There's No Limit to How Bad Code Can Get
-- [[2026-09-05_Flockused_100timestotrackveteranwhorecordedtraffic.md]] : Flock used >100 times to track veteran who recorded traffic stop
-- [[2026-09-05_OpenAIconfirms_wikiincident__saysit_s_workingonafr.md]] : OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
+- [[raw/articles/2026-09-05_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
+- [[raw/articles/2026-09-05_The__60GamingPC__AMDBC-250_2025_.md]] : The "$60 Gaming PC" – AMD BC-250 (2025)
+- [[raw/articles/2026-09-05_There_sNoLimittoHowBadCodeCanGet.md]] : There's No Limit to How Bad Code Can Get
+- [[raw/articles/2026-09-05_Flockused_100timestotrackveteranwhorecordedtraffic.md]] : Flock used >100 times to track veteran who recorded traffic stop
+- [[raw/articles/2026-09-05_OpenAIconfirms_wikiincident__saysit_s_workingonafr.md]] : OpenAI confirms ‘wiki incident,’ says it’s ‘working on a framework’ for more disclosure
 
-- [[2026-09-05_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
-- [[2026-09-05_FalsehoodsProgrammersBelieveAboutLANs.md]] : Falsehoods Programmers Believe About LANs
-- [[2026-09-05_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
-- [[2026-09-05_Ferveret_sAdaptivePhaseCoolingchargescomputefornuc.md]] : Ferveret's Adaptive Phase Cooling charges compute for nuclear AI research
-- [[2026-09-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-06_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-06_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
-- [[2026-09-06_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
-- [[2026-09-06_Ferveret_sAdaptivePhaseCoolingchargescomputefornuc.md]] : Ferveret's Adaptive Phase Cooling charges compute for nuclear AI research
-- [[2026-09-06_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-09-06_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
-- [[2026-09-06_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
-- [[2026-09-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-09-06_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
-- [[2026-09-06_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
-- [[2026-09-06_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
-- [[2026-09-06_IsarAerospacereachesorbitanddeployspayloadsonsecon.md]] : Isar Aerospace reaches orbit and deploys payloads on second flight
-- [[2026-09-06_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md]] : Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis - ICTworks
-- [[2026-09-06_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
-- [[2026-09-06_AnAlienMind.md]] : An Alien Mind
-- [[2026-09-06_QBittorrentbreaksoutofsandboxtocommitcrimes.md]] : QBittorrent breaks out of sandbox to commit crimes
-- [[2026-09-06_AuthorspushbackaspublishersandagentsseekshareofAnt.md]] : Authors push back as publishers and agents seek share of Anthropic settlement
-- [[2026-09-06_AuthorspushbackaspublishersandagentsmakeclaimsonAn.md]] : Authors push back as publishers and agents make claims on Anthropic settlement
-- [[2026-09-06_IttookayeartoshipWebAssemblyinAnubis.md]] : It took a year to ship WebAssembly in Anubis
-- [[2026-09-06_GrapheneOSOverhauledDefaultAppsandSecureClipboard.md]] : GrapheneOS Overhauled Default Apps and Secure Clipboard
-- [[2026-09-06_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
-- [[2026-09-06_MakingaPythoninterpreterin1024bytes.md]] : Making a Python interpreter in 1024 bytes
-- [[2026-09-07_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
-- [[2026-09-07_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
-- [[2026-09-07_AuthorspushbackaspublishersandagentsmakeclaimsonAn.md]] : Authors push back as publishers and agents make claims on Anthropic settlement
-- [[2026-09-07_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-07_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-09-07_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
-- [[2026-09-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-07_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-09-07_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md]] : Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis - ICTworks
-- [[2026-09-07_AnAlienMind.md]] : An Alien Mind
-- [[2026-09-07_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
-- [[2026-09-07_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
-- [[2026-09-07_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
-- [[2026-09-07_SupportingindependentjournalisminUkraine.md]] : Supporting independent journalism in Ukraine
-- [[2026-09-07_2026AIArticleDuplicationRateEvaluation_Top10ListVe.md]] : 2026 AI Article Duplication Rate Evaluation (Top 10 List Verification) - 36氪
-- [[2026-09-07_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[2026-09-07_bzip3.md]] : bzip3
-- [[2026-09-07_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
-- [[2026-09-07_TALAIsOpen-Source.md]] : TALA Is Open-Source
-- [[2026-09-08_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
-- [[2026-09-08_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
-- [[2026-09-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-08_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-08_SupportingindependentjournalisminUkraine.md]] : Supporting independent journalism in Ukraine
-- [[2026-09-08_Wehaveayeartofixsecurityeverywhere.md]] : We have a year to fix security everywhere
-- [[2026-09-08_Mistralraises_3Btomakesovereign_open-weightAIthete.md]] : Mistral raises €3B to make sovereign, open-weight AI the technology frontier
-- [[2026-09-08_DaVinciResolve21_1.md]] : DaVinci Resolve 21.1
-- [[2026-09-08_Google_sAtlasofthehumangenomecouldpavethewayfornew.md]] : Google’s Atlas of the human genome could pave the way for new treatments
-- [[2026-09-08_GoogleDeepMindReleasesAlphaGenomeAtlas.md]] : Google DeepMind Releases AlphaGenome Atlas
-- [[2026-09-08_GoogleCloudracestocatchupintheAIdeploymentwarswith.md]] : Google Cloud races to catch up in the AI deployment wars with Accenture deal
-- [[2026-09-08_ChatGPTImages2_5.md]] : ChatGPT Images 2.5
-- [[2026-09-08_MetabetsonAIagentMusetocatchupinAIrace.md]] : Meta bets on AI agent Muse to catch up in AI race
-- [[2026-09-08_HowGPT-5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT-5.6 Sol helps run quantum computing experiments
-- [[2026-09-08_MetadebutsitsMuseAIagent_Willconsumerstrustit_.md]] : Meta debuts its Muse AI agent. Will consumers trust it?
-- [[2026-09-08_ChatGPTSketchturnsyourbaddrawingsintodetailedAIima.md]] : ChatGPT Sketch turns your bad drawings into detailed AI images
-- [[2026-09-08_KimiK3_2_8T_at1token_sonaMacBookPro_streamedfromfo.md]] : Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs
-- [[2026-09-08_DramaswirlsaroundOpenAI_slegendarymathematicalmile.md]] : Drama swirls around OpenAI’s legendary mathematical milestone
-- [[2026-09-08_LargeLanguageModelsDevelopNovelSocialBiasesThrough.md]] : Large Language Models Develop Novel Social Biases Through Adaptive Exploration
-- [[2026-09-08_Harvardstudypredictsmostsuicideattemptsaweekinadva.md]] : Harvard study predicts most suicide attempts a week in advance
-- [[2026-09-08_OpenAIclaimstohavesolvedmathsproblemthatstumpedhum.md]] : OpenAI claims to have solved maths problem that stumped humans for decades
-- [[2026-09-09_OpenAIclaimstohavesolvedmathsproblemthatstumpedhum.md]] : OpenAI claims to have solved maths problem that stumped humans for decades
-- [[2026-09-09_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
-- [[2026-09-09_DramaswirlsaroundOpenAI_slegendarymathematicalmile.md]] : Drama swirls around OpenAI’s legendary mathematical milestone
-- [[2026-09-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-09_HowGPT-5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT-5.6 Sol helps run quantum computing experiments
-- [[2026-09-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-09_Copyrightdoesmoreharmthangoodandshouldbeabolished.md]] : Copyright does more harm than good and should be abolished
-- [[2026-09-09_HowGPT_5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT‑5.6 Sol helps run quantum computing experiments
-- [[2026-09-09_HowAnAImathbreakthroughignitedacontroversy.md]] : How An AI math breakthrough ignited a controversy
-- [[2026-09-09_WorriedAnthropicresearcherswarnthatAI__8216_couldk.md]] : Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;
-- [[2026-09-09_StudentswhouseAIgenerallyscoreworseatschool.md]] : Students who use AI generally score worse at school
-- [[2026-09-09_SunoreplacesitsAImodelswithanewonetrainedonlicense.md]] : Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up
-- [[2026-09-09_AmazonPrimeVideo_snewAItechmatcheslipstodubbedaudi.md]] : Amazon Prime Video’s new AI tech matches lips to dubbed audio
-- [[2026-09-09_InstacartlaunchesanAIgroceryshoppingassistantcalle.md]] : Instacart launches an AI grocery shopping assistant called Clementine
-- [[2026-09-09_AIspendperemployeeslumpedattopfirmsinAugust_summer.md]] : AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?
-- [[2026-09-09_ViralAIassistantInstinctnowhasitsownemailaddress.md]] : Viral AI assistant Instinct now has its own email address
-- [[2026-09-09_Superintelligenceiscoming_Shouldweletit_.md]] : Superintelligence is coming. Should we let it?
-- [[2026-09-09_MicrosofthasnewAIprivacyrulesforschools.md]] : Microsoft has new AI privacy rules for schools
-- [[2026-09-09_Apple_srevampedHealthappwillcalculateyour_healthag.md]] : Apple’s revamped Health app will calculate your ‘health age’ and readiness score
-- [[2026-09-09_PaulChristianojoinsOpenAIFoundationBoard.md]] : Paul Christiano joins OpenAI Foundation Board
-- [[2026-09-09_EverythingAppleannouncedatitsfalliPhoneevent_fromt.md]] : Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch
-- [[2026-09-09_SunoreleasesitsfirstAImusicmodelmadewithrecordindu.md]] : Suno releases its first AI music model made with record industry help
-- [[2026-09-09_Massachusettshitsdatacenterswithnewcleanpowerrules.md]] : Massachusetts hits data centers with new clean power rules
-- [[2026-09-09_GPT-6Astra_Thenextgenerationinintelligenceforwork.md]] : GPT-6 Astra: The next generation in intelligence for work
-- [[2026-09-09_OpenAIaddsaprominentAIdoomertoitsboardofdirectors.md]] : OpenAI adds a prominent AI doomer to its board of directors
-- [[2026-09-09_TheAIpolicywindowisopen_Weneedtoact_.md]] : The AI policy window is open. We need to act.
-- [[2026-09-09_AIresearchstartupListenLabsscrubbeda_1_5Bfundingro.md]] : AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks
-- [[2026-09-10_AIresearchstartupListenLabsscrubbeda_1_5Bfundingro.md]] : AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks
-- [[2026-09-10_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-10_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
-- [[2026-09-10_SunoreleasesitsfirstAImusicmodelmadewithrecordindu.md]] : Suno releases its first AI music model made with record industry help
-- [[2026-09-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-10_TheAIpolicywindowisopen_Weneedtoact_.md]] : The AI policy window is open. We need to act.
-- [[2026-09-10_DeepSeekv4_1Flash.md]] : DeepSeek v4.1 Flash
-- [[2026-09-10_ShowHN_Thesameninestreamingsubscriptionscost_702_y.md]] : Show HN: The same nine streaming subscriptions cost $702/year more than in 2021
-- [[2026-09-10_MathematicianswantproofOpenAIdidn_tusetheirwork.md]] : Mathematicians want proof OpenAI didn’t use their work
-- [[2026-09-10_WhatalgorithmdidWindowsXPusetochooseyourinitialuse.md]] : What algorithm did Windows XP use to choose your initial user picture?
-- [[2026-09-10_Whythecurrenttechbacklashfeelsdifferent.md]] : Why the current tech backlash feels different
-- [[2026-09-10_ShopifymovesbacktoNativefromReactNative.md]] : Shopify moves back to Native from React Native
-- [[2026-09-10_Noweveryonecanputdatatowork.md]] : Now everyone can put data to work
-- [[2026-09-10_Sure_Meta_sAIMuseworks_butitsurecreepsmeout.md]] : Sure, Meta’s AI Muse works, but it sure creeps me out
-- [[2026-09-10_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-10_AnthropicrevealsrogueAIagentshateCAPTCHAs_justlike.md]] : Anthropic reveals rogue AI agents hate CAPTCHAs, just like you
-- [[2026-09-10_Meta_sAIagentMuseisnowtheNo_2appintheUS.md]] : Meta’s AI agent Muse is now the No. 2 app in the US
-- [[2026-09-10_OpenAIputsProsubscriptionsonholdduetoAstrademand.md]] : OpenAI puts Pro subscriptions on hold due to Astra demand
-- [[2026-09-10_CognitionlaunchesnewSWE-2model_RivalingFable5_1and.md]] : Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra
-- [[2026-09-10_ThepartofNavier-Stokesnooneistalkingabout.md]] : The part of Navier-Stokes no one is talking about
-- [[2026-09-10_ShopifyismovingfromReactNativebacktoSwiftandKotlin.md]] : Shopify is moving from React Native back to Swift and Kotlin
-- [[2026-09-10_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
-- [[2026-09-10_Slackcannowvibe-codeinteractivechartsandreportsins.md]] : Slack can now vibe-code interactive charts and reports inside chats
-- [[2026-09-10_Googlewillbuyhalftheelectricityofanuclearpowerplan.md]] : Google will buy half the electricity of a nuclear power plant
-- [[2026-09-11_Slackcannowvibe-codeinteractivechartsandreportsins.md]] : Slack can now vibe-code interactive charts and reports inside chats
-- [[2026-09-11_Exerciseintensityisassociatedwithcardiometaboliche.md]] : Exercise intensity is associated with cardiometabolic health
-- [[2026-09-11_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-11_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-11_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
-- [[2026-09-11_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-11_ShopifyismovingfromReactNativebacktoSwiftandKotlin.md]] : Shopify is moving from React Native back to Swift and Kotlin
-- [[2026-09-11_CherenkovRadiation-travelingfasterthanlight.md]] : Cherenkov Radiation - traveling faster than light
-- [[2026-09-11_TheWaymoeffect_howAIisquietlymakingresearchlesscol.md]] : The Waymo effect: how AI is quietly making research less collaborative
-- [[2026-09-11_Houthis_takecontrol_ofkeyislandinglobalshippingrou.md]] : Houthis 'take control' of key island in global shipping route
-- [[2026-09-11_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md]] : More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop' - The Guardian
-- [[2026-09-11_Anthropicspentthisweekinhotwaterovercybersecurity.md]] : Anthropic spent this week in hot water over cybersecurity
-- [[2026-09-11_FeelingSadaboutAI.md]] : Feeling Sad about AI
-- [[2026-09-11_Rapidlyscalingonlinestoragetoserveover1billionChat.md]] : Rapidly scaling online storage to serve over 1 billion ChatGPT users
-- [[2026-09-11_AnAnthropicresearcher_sdoomsdaywarningcomesatavery.md]] : An Anthropic researcher’s doomsday warning comes at a very interesting time
-- [[2026-09-11_AmisalignmentofAIinmathematics.md]] : A misalignment of AI in mathematics
-- [[2026-09-11_Lawyerfined_5KoverAI-hallucinatedwitnessesinamurde.md]] : Lawyer fined $5K over AI-hallucinated witnesses in a murder case
-- [[2026-09-11_YCombinator_sGarryTanwantsU_S_open-weightAIlabsto_.md]] : Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too
-- [[2026-09-11_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
-- [[2026-09-11_OpenAIagentscarriedoutanundisclosedattackonRubyGem.md]] : OpenAI agents carried out an undisclosed attack on RubyGems
-- [[2026-09-12_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-12_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
-- [[2026-09-12_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
-- [[2026-09-12_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-12_GooglenolongerprovidesdirectURLsinsearchresults.md]] : Google no longer provides direct URLs in search results
-- [[2026-09-12_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md]] : More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop' - The Guardian
-- [[2026-09-12_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-12_google_com_goto_Google_santi-scrapingupdate.md]] : google.com/goto: Google's anti-scraping update
-- [[2026-09-12_Fuckit_makeitanyway.md]] : Fuck it, make it anyway
-- [[2026-09-12_AMathematicalFrameworkforTransformerCircuits_2021_.md]] : A Mathematical Framework for Transformer Circuits (2021)
-- [[2026-09-12_AnthropicCEOoutlinesplanto_pacethefrontier_.md]] : Anthropic CEO outlines plan to ‘pace the frontier’
-- [[2026-09-12_AnthropicCEOsaysit_stimetopumpthebrakesonAI.md]] : Anthropic CEO says it’s time to pump the brakes on AI
-- [[2026-09-12_MakeyourfirstedittoOpenStreetMap.md]] : Make your first edit to OpenStreetMap
-- [[2026-09-12_LGdeniesTVspyingclaims_saystrackingandsnoopingconc.md]] : LG denies TV spying claims, says tracking and snooping concerns 'not true'
-- [[2026-09-12_AnthropicCEOoutlinesplantoslowAIdevelopment.md]] : Anthropic CEO outlines plan to slow AI development
-- [[2026-09-12_EveryoneshouldslowdownAIdevelopmentexceptforme.md]] : Everyone should slow down AI development except for me
-- [[2026-09-13_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-13_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-13_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
-- [[2026-09-13_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
-- [[2026-09-13_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-13_AmericanMedicalAssociationBacksClassificationofNea.md]] : American Medical Association Backs Classification of Nearsightedness as Disease
-- [[2026-09-13_WhyareAIagentslying_cheatingandcoordinating_.md]] : Why are AI agents lying, cheating and coordinating?
-- [[2026-09-13_Flockworkercallspoliceonreporterfilmingpubliccamer.md]] : Flock worker calls police on reporter filming public camera installation
-- [[2026-09-13_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md]] : Google DeepMind researcher quits AI safety team, warns of 'terrifying chance' of major harm
-- [[2026-09-13_AstraandFablestillhackonsimplevariantsofalignmente.md]] : Astra and Fable still hack on simple variants of alignment evals from 2025
-- [[2026-09-13_ObamaurgesDemocratstohavea_clearplan_forAIsafeguar.md]] : Obama urges Democrats to have a ‘clear plan’ for AI safeguards
-- [[2026-09-13_WhyisGooglestillservingdodgyads_.md]] : Why is Google still serving dodgy ads?
-- [[2026-09-13_OpenAI_srogueAItriedtohackanothercompanyinMay.md]] : OpenAI’s rogue AI tried to hack another company in May
-- [[2026-09-13_What_sbehindtheAIindustry_slatestwarningsofdoom_.md]] : What’s behind the AI industry’s latest warnings of doom?
-- [[2026-09-13_TrumpandMikeJohnsonthinktheAIindustryisoverreactin.md]] : Trump and Mike Johnson think the AI industry is overreacting
-- [[2026-09-13_ClaudeFable5_1SolvestheCyphralDistich_a370-year-ol.md]] : Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
-- [[2026-09-13_Fable5_1SolvestheCyphralDistich_a370-year-oldciphe.md]] : Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
-- [[2026-09-14_Fable5_1SolvestheCyphralDistich_a370-year-oldciphe.md]] : Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
-- [[2026-09-14_TrumpandMikeJohnsonthinktheAIindustryisoverreactin.md]] : Trump and Mike Johnson think the AI industry is overreacting
-- [[2026-09-14_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-14_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md]] : Google DeepMind researcher quits AI safety team, warns of 'terrifying chance' of major harm
-- [[2026-09-14_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-14_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
-- [[2026-09-14_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-14_What_sbehindtheAIindustry_slatestwarningsofdoom_.md]] : What’s behind the AI industry’s latest warnings of doom?
-- [[2026-09-14_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
-- [[2026-09-14_Whatatimetobealive_rougeAIagentsattackRubyGems_org.md]] : What a time to be alive – rouge AI agents attack RubyGems.org
-- [[2026-09-14_Microsoftsays_peoplemattermorethanAI_followingsafe.md]] : Microsoft says ‘people matter more than AI’ following safety concerns
-- [[2026-09-14_PeopleWhoCan_tPictureAnythingAreRewritingtheScienc.md]] : People Who Can't Picture Anything Are Rewriting the Science of Imagination
-- [[2026-09-14_5dayslefttoexhibitatTechCrunchDisrupt2026.md]] : 5 days left to exhibit at TechCrunch Disrupt 2026
-- [[2026-09-14_OnlyatTechCrunchDisrupt2026_WhathappenswhenOpenAIs.md]] : Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?
-- [[2026-09-14_DistributedSystemsClassics.md]] : Distributed Systems Classics
-- [[2026-09-14_WithiOS27_I_mactuallyusingSiriagain.md]] : With iOS 27, I’m actually using Siri again
-- [[2026-09-14_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
-- [[2026-09-14_Pion_anagentdesignedtorunanycompanyautonomously.md]] : Pion, an agent designed to run any company autonomously
-- [[2026-09-14_GPT-5_6Lunavs_GPT-6Astra_Isa_1_20ModelGoodEnoughfo.md]] : GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?
-- [[2026-09-14_DistributedSystemsClassics_2017_.md]] : Distributed Systems Classics (2017)
-- [[2026-09-14_Amazonvs_Perplexity_U_S_CourtofAppealsfortheNinthC.md]] : Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
-- [[2026-09-14_WhatexecsandpoliticiansaresayingaboutslowingdownAI.md]] : What execs and politicians are saying about slowing down AI development
-- [[2026-09-14_IsBigTech_sAIslowdownasafetypactoracartel_.md]] : Is Big Tech’s AI slowdown a safety pact or a cartel?
-- [[2026-09-15_IsBigTech_sAIslowdownasafetypactoracartel_.md]] : Is Big Tech’s AI slowdown a safety pact or a cartel?
-- [[2026-09-15_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-15_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-15_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-15_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
-- [[2026-09-15_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
-- [[2026-09-15_TrumppushesbackasAIleadersfuelcallstoreininrapidly.md]] : Trump pushes back as AI leaders fuel calls to rein in rapidly advancing technology - PBS
-- [[2026-09-15_Let_smakequalitythenormagain.md]] : Let's make quality the norm again
-- [[2026-09-15_SalesforceandNvidia_snewreasoningmodeliseverything.md]] : Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear
-- [[2026-09-15_ShowHN_Ane-inkframethathearsbirdsanddrawsthemas180.md]] : Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
-- [[2026-09-15_EarlyAnthropichire_formerMETRCOOhavefoundawaytorei.md]] : Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents
-- [[2026-09-15_4dayslefttoexhibitatTechCrunchDisrupt2026.md]] : 4 days left to exhibit at TechCrunch Disrupt 2026
-- [[2026-09-15_LouiseHaigh_UKmustheedwarningsfromAIexperts-TheGua.md]] : Louise Haigh: UK must heed warnings from AI experts - The Guardian
-- [[2026-09-15_AEOstartupProfoundhitsunicornvaluation_raises_180M.md]] : AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round
-- [[2026-09-15_OpenAI_Anthropic_GooglehavebeenintalksonAIsafetyfo.md]] : OpenAI, Anthropic, Google have been in talks on AI safety for weeks
-- [[2026-09-15_AIagentsnowhaveaplacetosnitch.md]] : AI agents now have a place to snitch
-- [[2026-09-15_TheAIgraveyard_arunninglistofprojectsandstartupsth.md]] : The AI graveyard: a running list of projects and startups that didn’t make it
-- [[2026-09-15_Jev_Newfrontiermodel40-400xcheaperand20-200xfaster.md]] : Jev: New frontier model 40-400x cheaper and 20-200x faster
-- [[2026-09-15_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
-- [[2026-09-15_MetanowletsAIagentshandletheboringpartsofWhatsAppB.md]] : Meta now lets AI agents handle the boring parts of WhatsApp Business setup
-- [[2026-09-15_Meta__8217_snewOnesubscriptionsputapriceonsocialme.md]] : Meta&#8217;s new One subscriptions put a price on social media and AI
-- [[2026-09-15_IntroducingSystemOneModelsandJev.md]] : Introducing System One Models and Jev
-- [[2026-09-15_Votersmostlydon_tlikeAIanddatacenters_butneitherpa.md]] : Voters mostly don’t like AI and data centers, but neither party seems to have an edge
-- [[2026-09-15_AIanddatacentersareincrediblyunpopularineverypoll.md]] : AI and data centers are incredibly unpopular in every poll
-- [[2026-09-16_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-16_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
-- [[2026-09-16_LouiseHaigh_UKmustheedwarningsfromAIexperts-TheGua.md]] : Louise Haigh: UK must heed warnings from AI experts - The Guardian
-- [[2026-09-16_IntroducingSystemOneModelsandJev.md]] : Introducing System One Models and Jev
-- [[2026-09-16_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
-- [[2026-09-16_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-16_AIanddatacentersareincrediblyunpopularineverypoll.md]] : AI and data centers are incredibly unpopular in every poll
-- [[2026-09-16_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-16_TheGooglePlayappreviewprocessnowregularlytakeslong.md]] : The Google Play app review process now regularly takes longer than a week
-- [[2026-09-16_ReimaginingadvertisingwithAI.md]] : Reimagining advertising with AI
-- [[2026-09-16_PS5Linuxleadquits__abunchofnoobsusingLLMs_that_the.md]] : PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"
-- [[2026-09-16_ZifoandAlchemyPartnertoAdvanceAI-EnabledR_DAcrossF.md]] : Zifo and Alchemy Partner to Advance AI -Enabled R&D Across Formulation and Materials Industries
-- [[2026-09-16_ThesexyAI-powereddatingappscamsarehere.md]] : The sexy AI-powered dating app scams are here
-- [[2026-09-16_HelpingolderadultsuseAIineverydaylife.md]] : Helping older adults use AI in everyday life
-- [[2026-09-16_Dream-RSI_RecursiveSelf-ImprovementthroughEvolving.md]] : Dream-RSI: Recursive Self-Improvement through Evolving Worlds
-- [[2026-09-16_AnthropicmergesClaudechatandCoworkinoneinterface.md]] : Anthropic merges Claude chat and Cowork in one interface
-- [[2026-09-16_Vectorizedandperformance-portableQuicksort.md]] : Vectorized and performance-portable Quicksort
-- [[2026-09-16_AIlabswantin-houseauditors_butmaybetheyshouldshutt.md]] : AI labs want in-house auditors — but maybe they should shut the front door first
-- [[2026-09-16_Vectorizedandperformance-portableQuicksort_2022_.md]] : Vectorized and performance-portable Quicksort (2022)
-- [[2026-09-16_Traininga4Bmodeltoproduce81_fasterqueryplansthanPo.md]] : Training a 4B model to produce 81% faster query plans than Postgres
-- [[2026-09-16_The2_5-hourAI-generatedOdysseymovieis2_5hourstoolo.md]] : The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long
-- [[2026-09-16_AnthropicandOpenAIwanttoembedsafetyevaluators_Will.md]] : Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?
+- [[raw/articles/2026-09-05_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[raw/articles/2026-09-05_FalsehoodsProgrammersBelieveAboutLANs.md]] : Falsehoods Programmers Believe About LANs
+- [[raw/articles/2026-09-05_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
+- [[raw/articles/2026-09-05_Ferveret_sAdaptivePhaseCoolingchargescomputefornuc.md]] : Ferveret's Adaptive Phase Cooling charges compute for nuclear AI research
+- [[raw/articles/2026-09-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-06_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-06_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
+- [[raw/articles/2026-09-06_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
+- [[raw/articles/2026-09-06_Ferveret_sAdaptivePhaseCoolingchargescomputefornuc.md]] : Ferveret's Adaptive Phase Cooling charges compute for nuclear AI research
+- [[raw/articles/2026-09-06_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[raw/articles/2026-09-06_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[raw/articles/2026-09-06_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[raw/articles/2026-09-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[raw/articles/2026-09-06_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[raw/articles/2026-09-06_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[raw/articles/2026-09-06_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[raw/articles/2026-09-06_IsarAerospacereachesorbitanddeployspayloadsonsecon.md]] : Isar Aerospace reaches orbit and deploys payloads on second flight
+- [[raw/articles/2026-09-06_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md]] : Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis - ICTworks
+- [[raw/articles/2026-09-06_OpenAI_sexperimentalAIagentsbrokecontainment_hacke.md]] : OpenAI's experimental AI agents broke containment, hacked Hugging Face, and tried to cover their tracks
+- [[raw/articles/2026-09-06_AnAlienMind.md]] : An Alien Mind
+- [[raw/articles/2026-09-06_QBittorrentbreaksoutofsandboxtocommitcrimes.md]] : QBittorrent breaks out of sandbox to commit crimes
+- [[raw/articles/2026-09-06_AuthorspushbackaspublishersandagentsseekshareofAnt.md]] : Authors push back as publishers and agents seek share of Anthropic settlement
+- [[raw/articles/2026-09-06_AuthorspushbackaspublishersandagentsmakeclaimsonAn.md]] : Authors push back as publishers and agents make claims on Anthropic settlement
+- [[raw/articles/2026-09-06_IttookayeartoshipWebAssemblyinAnubis.md]] : It took a year to ship WebAssembly in Anubis
+- [[raw/articles/2026-09-06_GrapheneOSOverhauledDefaultAppsandSecureClipboard.md]] : GrapheneOS Overhauled Default Apps and Secure Clipboard
+- [[raw/articles/2026-09-06_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
+- [[raw/articles/2026-09-06_MakingaPythoninterpreterin1024bytes.md]] : Making a Python interpreter in 1024 bytes
+- [[raw/articles/2026-09-07_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[raw/articles/2026-09-07_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
+- [[raw/articles/2026-09-07_AuthorspushbackaspublishersandagentsmakeclaimsonAn.md]] : Authors push back as publishers and agents make claims on Anthropic settlement
+- [[raw/articles/2026-09-07_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-07_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[raw/articles/2026-09-07_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
+- [[raw/articles/2026-09-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-07_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[raw/articles/2026-09-07_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md]] : Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis - ICTworks
+- [[raw/articles/2026-09-07_AnAlienMind.md]] : An Alien Mind
+- [[raw/articles/2026-09-07_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
+- [[raw/articles/2026-09-07_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
+- [[raw/articles/2026-09-07_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[raw/articles/2026-09-07_SupportingindependentjournalisminUkraine.md]] : Supporting independent journalism in Ukraine
+- [[raw/articles/2026-09-07_2026AIArticleDuplicationRateEvaluation_Top10ListVe.md]] : 2026 AI Article Duplication Rate Evaluation (Top 10 List Verification) - 36氪
+- [[raw/articles/2026-09-07_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
+- [[raw/articles/2026-09-07_bzip3.md]] : bzip3
+- [[raw/articles/2026-09-07_TheHuggingFaceincidentandtheroadahead_OpenAI.md]] : The Hugging Face incident and the road ahead | OpenAI
+- [[raw/articles/2026-09-07_TALAIsOpen-Source.md]] : TALA Is Open-Source
+- [[raw/articles/2026-09-08_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
+- [[raw/articles/2026-09-08_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[raw/articles/2026-09-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-08_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-08_SupportingindependentjournalisminUkraine.md]] : Supporting independent journalism in Ukraine
+- [[raw/articles/2026-09-08_Wehaveayeartofixsecurityeverywhere.md]] : We have a year to fix security everywhere
+- [[raw/articles/2026-09-08_Mistralraises_3Btomakesovereign_open-weightAIthete.md]] : Mistral raises €3B to make sovereign, open-weight AI the technology frontier
+- [[raw/articles/2026-09-08_DaVinciResolve21_1.md]] : DaVinci Resolve 21.1
+- [[raw/articles/2026-09-08_Google_sAtlasofthehumangenomecouldpavethewayfornew.md]] : Google’s Atlas of the human genome could pave the way for new treatments
+- [[raw/articles/2026-09-08_GoogleDeepMindReleasesAlphaGenomeAtlas.md]] : Google DeepMind Releases AlphaGenome Atlas
+- [[raw/articles/2026-09-08_GoogleCloudracestocatchupintheAIdeploymentwarswith.md]] : Google Cloud races to catch up in the AI deployment wars with Accenture deal
+- [[raw/articles/2026-09-08_ChatGPTImages2_5.md]] : ChatGPT Images 2.5
+- [[raw/articles/2026-09-08_MetabetsonAIagentMusetocatchupinAIrace.md]] : Meta bets on AI agent Muse to catch up in AI race
+- [[raw/articles/2026-09-08_HowGPT-5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT-5.6 Sol helps run quantum computing experiments
+- [[raw/articles/2026-09-08_MetadebutsitsMuseAIagent_Willconsumerstrustit_.md]] : Meta debuts its Muse AI agent. Will consumers trust it?
+- [[raw/articles/2026-09-08_ChatGPTSketchturnsyourbaddrawingsintodetailedAIima.md]] : ChatGPT Sketch turns your bad drawings into detailed AI images
+- [[raw/articles/2026-09-08_KimiK3_2_8T_at1token_sonaMacBookPro_streamedfromfo.md]] : Kimi K3 (2.8T) at 1 token/s on a MacBook Pro, streamed from four SSDs
+- [[raw/articles/2026-09-08_DramaswirlsaroundOpenAI_slegendarymathematicalmile.md]] : Drama swirls around OpenAI’s legendary mathematical milestone
+- [[raw/articles/2026-09-08_LargeLanguageModelsDevelopNovelSocialBiasesThrough.md]] : Large Language Models Develop Novel Social Biases Through Adaptive Exploration
+- [[raw/articles/2026-09-08_Harvardstudypredictsmostsuicideattemptsaweekinadva.md]] : Harvard study predicts most suicide attempts a week in advance
+- [[raw/articles/2026-09-08_OpenAIclaimstohavesolvedmathsproblemthatstumpedhum.md]] : OpenAI claims to have solved maths problem that stumped humans for decades
+- [[raw/articles/2026-09-09_OpenAIclaimstohavesolvedmathsproblemthatstumpedhum.md]] : OpenAI claims to have solved maths problem that stumped humans for decades
+- [[raw/articles/2026-09-09_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[raw/articles/2026-09-09_DramaswirlsaroundOpenAI_slegendarymathematicalmile.md]] : Drama swirls around OpenAI’s legendary mathematical milestone
+- [[raw/articles/2026-09-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-09_HowGPT-5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT-5.6 Sol helps run quantum computing experiments
+- [[raw/articles/2026-09-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-09_Copyrightdoesmoreharmthangoodandshouldbeabolished.md]] : Copyright does more harm than good and should be abolished
+- [[raw/articles/2026-09-09_HowGPT_5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT‑5.6 Sol helps run quantum computing experiments
+- [[raw/articles/2026-09-09_HowAnAImathbreakthroughignitedacontroversy.md]] : How An AI math breakthrough ignited a controversy
+- [[raw/articles/2026-09-09_WorriedAnthropicresearcherswarnthatAI__8216_couldk.md]] : Worried Anthropic researchers warn that AI &#8216;could kill all humans&#8217;
+- [[raw/articles/2026-09-09_StudentswhouseAIgenerallyscoreworseatschool.md]] : Students who use AI generally score worse at school
+- [[raw/articles/2026-09-09_SunoreplacesitsAImodelswithanewonetrainedonlicense.md]] : Suno replaces its AI models with a new one trained on licensed music as copyright suits pile up
+- [[raw/articles/2026-09-09_AmazonPrimeVideo_snewAItechmatcheslipstodubbedaudi.md]] : Amazon Prime Video’s new AI tech matches lips to dubbed audio
+- [[raw/articles/2026-09-09_InstacartlaunchesanAIgroceryshoppingassistantcalle.md]] : Instacart launches an AI grocery shopping assistant called Clementine
+- [[raw/articles/2026-09-09_AIspendperemployeeslumpedattopfirmsinAugust_summer.md]] : AI spend per employee slumped at top firms in August — summer doldrums or a warning sign?
+- [[raw/articles/2026-09-09_ViralAIassistantInstinctnowhasitsownemailaddress.md]] : Viral AI assistant Instinct now has its own email address
+- [[raw/articles/2026-09-09_Superintelligenceiscoming_Shouldweletit_.md]] : Superintelligence is coming. Should we let it?
+- [[raw/articles/2026-09-09_MicrosofthasnewAIprivacyrulesforschools.md]] : Microsoft has new AI privacy rules for schools
+- [[raw/articles/2026-09-09_Apple_srevampedHealthappwillcalculateyour_healthag.md]] : Apple’s revamped Health app will calculate your ‘health age’ and readiness score
+- [[raw/articles/2026-09-09_PaulChristianojoinsOpenAIFoundationBoard.md]] : Paul Christiano joins OpenAI Foundation Board
+- [[raw/articles/2026-09-09_EverythingAppleannouncedatitsfalliPhoneevent_fromt.md]] : Everything Apple announced at its fall iPhone event, from the foldable iPhone Duo to an always-listening Apple Watch
+- [[raw/articles/2026-09-09_SunoreleasesitsfirstAImusicmodelmadewithrecordindu.md]] : Suno releases its first AI music model made with record industry help
+- [[raw/articles/2026-09-09_Massachusettshitsdatacenterswithnewcleanpowerrules.md]] : Massachusetts hits data centers with new clean power rules
+- [[raw/articles/2026-09-09_GPT-6Astra_Thenextgenerationinintelligenceforwork.md]] : GPT-6 Astra: The next generation in intelligence for work
+- [[raw/articles/2026-09-09_OpenAIaddsaprominentAIdoomertoitsboardofdirectors.md]] : OpenAI adds a prominent AI doomer to its board of directors
+- [[raw/articles/2026-09-09_TheAIpolicywindowisopen_Weneedtoact_.md]] : The AI policy window is open. We need to act.
+- [[raw/articles/2026-09-09_AIresearchstartupListenLabsscrubbeda_1_5Bfundingro.md]] : AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks
+- [[raw/articles/2026-09-10_AIresearchstartupListenLabsscrubbeda_1_5Bfundingro.md]] : AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks
+- [[raw/articles/2026-09-10_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-10_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
+- [[raw/articles/2026-09-10_SunoreleasesitsfirstAImusicmodelmadewithrecordindu.md]] : Suno releases its first AI music model made with record industry help
+- [[raw/articles/2026-09-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-10_TheAIpolicywindowisopen_Weneedtoact_.md]] : The AI policy window is open. We need to act.
+- [[raw/articles/2026-09-10_DeepSeekv4_1Flash.md]] : DeepSeek v4.1 Flash
+- [[raw/articles/2026-09-10_ShowHN_Thesameninestreamingsubscriptionscost_702_y.md]] : Show HN: The same nine streaming subscriptions cost $702/year more than in 2021
+- [[raw/articles/2026-09-10_MathematicianswantproofOpenAIdidn_tusetheirwork.md]] : Mathematicians want proof OpenAI didn’t use their work
+- [[raw/articles/2026-09-10_WhatalgorithmdidWindowsXPusetochooseyourinitialuse.md]] : What algorithm did Windows XP use to choose your initial user picture?
+- [[raw/articles/2026-09-10_Whythecurrenttechbacklashfeelsdifferent.md]] : Why the current tech backlash feels different
+- [[raw/articles/2026-09-10_ShopifymovesbacktoNativefromReactNative.md]] : Shopify moves back to Native from React Native
+- [[raw/articles/2026-09-10_Noweveryonecanputdatatowork.md]] : Now everyone can put data to work
+- [[raw/articles/2026-09-10_Sure_Meta_sAIMuseworks_butitsurecreepsmeout.md]] : Sure, Meta’s AI Muse works, but it sure creeps me out
+- [[raw/articles/2026-09-10_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-10_AnthropicrevealsrogueAIagentshateCAPTCHAs_justlike.md]] : Anthropic reveals rogue AI agents hate CAPTCHAs, just like you
+- [[raw/articles/2026-09-10_Meta_sAIagentMuseisnowtheNo_2appintheUS.md]] : Meta’s AI agent Muse is now the No. 2 app in the US
+- [[raw/articles/2026-09-10_OpenAIputsProsubscriptionsonholdduetoAstrademand.md]] : OpenAI puts Pro subscriptions on hold due to Astra demand
+- [[raw/articles/2026-09-10_CognitionlaunchesnewSWE-2model_RivalingFable5_1and.md]] : Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra
+- [[raw/articles/2026-09-10_ThepartofNavier-Stokesnooneistalkingabout.md]] : The part of Navier-Stokes no one is talking about
+- [[raw/articles/2026-09-10_ShopifyismovingfromReactNativebacktoSwiftandKotlin.md]] : Shopify is moving from React Native back to Swift and Kotlin
+- [[raw/articles/2026-09-10_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[raw/articles/2026-09-10_Slackcannowvibe-codeinteractivechartsandreportsins.md]] : Slack can now vibe-code interactive charts and reports inside chats
+- [[raw/articles/2026-09-10_Googlewillbuyhalftheelectricityofanuclearpowerplan.md]] : Google will buy half the electricity of a nuclear power plant
+- [[raw/articles/2026-09-11_Slackcannowvibe-codeinteractivechartsandreportsins.md]] : Slack can now vibe-code interactive charts and reports inside chats
+- [[raw/articles/2026-09-11_Exerciseintensityisassociatedwithcardiometaboliche.md]] : Exercise intensity is associated with cardiometabolic health
+- [[raw/articles/2026-09-11_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-11_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-11_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[raw/articles/2026-09-11_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-11_ShopifyismovingfromReactNativebacktoSwiftandKotlin.md]] : Shopify is moving from React Native back to Swift and Kotlin
+- [[raw/articles/2026-09-11_CherenkovRadiation-travelingfasterthanlight.md]] : Cherenkov Radiation - traveling faster than light
+- [[raw/articles/2026-09-11_TheWaymoeffect_howAIisquietlymakingresearchlesscol.md]] : The Waymo effect: how AI is quietly making research less collaborative
+- [[raw/articles/2026-09-11_Houthis_takecontrol_ofkeyislandinglobalshippingrou.md]] : Houthis 'take control' of key island in global shipping route
+- [[raw/articles/2026-09-11_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md]] : More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop' - The Guardian
+- [[raw/articles/2026-09-11_Anthropicspentthisweekinhotwaterovercybersecurity.md]] : Anthropic spent this week in hot water over cybersecurity
+- [[raw/articles/2026-09-11_FeelingSadaboutAI.md]] : Feeling Sad about AI
+- [[raw/articles/2026-09-11_Rapidlyscalingonlinestoragetoserveover1billionChat.md]] : Rapidly scaling online storage to serve over 1 billion ChatGPT users
+- [[raw/articles/2026-09-11_AnAnthropicresearcher_sdoomsdaywarningcomesatavery.md]] : An Anthropic researcher’s doomsday warning comes at a very interesting time
+- [[raw/articles/2026-09-11_AmisalignmentofAIinmathematics.md]] : A misalignment of AI in mathematics
+- [[raw/articles/2026-09-11_Lawyerfined_5KoverAI-hallucinatedwitnessesinamurde.md]] : Lawyer fined $5K over AI-hallucinated witnesses in a murder case
+- [[raw/articles/2026-09-11_YCombinator_sGarryTanwantsU_S_open-weightAIlabsto_.md]] : Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too
+- [[raw/articles/2026-09-11_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
+- [[raw/articles/2026-09-11_OpenAIagentscarriedoutanundisclosedattackonRubyGem.md]] : OpenAI agents carried out an undisclosed attack on RubyGems
+- [[raw/articles/2026-09-12_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-12_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
+- [[raw/articles/2026-09-12_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[raw/articles/2026-09-12_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-12_GooglenolongerprovidesdirectURLsinsearchresults.md]] : Google no longer provides direct URLs in search results
+- [[raw/articles/2026-09-12_MoreAnthropicresearcherswarnofAI_sperilsasMuskterm.md]] : More Anthropic researchers warn of AI's perils as Musk terms fears a 'psyop' - The Guardian
+- [[raw/articles/2026-09-12_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-12_google_com_goto_Google_santi-scrapingupdate.md]] : google.com/goto: Google's anti-scraping update
+- [[raw/articles/2026-09-12_Fuckit_makeitanyway.md]] : Fuck it, make it anyway
+- [[raw/articles/2026-09-12_AMathematicalFrameworkforTransformerCircuits_2021_.md]] : A Mathematical Framework for Transformer Circuits (2021)
+- [[raw/articles/2026-09-12_AnthropicCEOoutlinesplanto_pacethefrontier_.md]] : Anthropic CEO outlines plan to ‘pace the frontier’
+- [[raw/articles/2026-09-12_AnthropicCEOsaysit_stimetopumpthebrakesonAI.md]] : Anthropic CEO says it’s time to pump the brakes on AI
+- [[raw/articles/2026-09-12_MakeyourfirstedittoOpenStreetMap.md]] : Make your first edit to OpenStreetMap
+- [[raw/articles/2026-09-12_LGdeniesTVspyingclaims_saystrackingandsnoopingconc.md]] : LG denies TV spying claims, says tracking and snooping concerns 'not true'
+- [[raw/articles/2026-09-12_AnthropicCEOoutlinesplantoslowAIdevelopment.md]] : Anthropic CEO outlines plan to slow AI development
+- [[raw/articles/2026-09-12_EveryoneshouldslowdownAIdevelopmentexceptforme.md]] : Everyone should slow down AI development except for me
+- [[raw/articles/2026-09-13_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-13_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-13_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[raw/articles/2026-09-13_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
+- [[raw/articles/2026-09-13_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-13_AmericanMedicalAssociationBacksClassificationofNea.md]] : American Medical Association Backs Classification of Nearsightedness as Disease
+- [[raw/articles/2026-09-13_WhyareAIagentslying_cheatingandcoordinating_.md]] : Why are AI agents lying, cheating and coordinating?
+- [[raw/articles/2026-09-13_Flockworkercallspoliceonreporterfilmingpubliccamer.md]] : Flock worker calls police on reporter filming public camera installation
+- [[raw/articles/2026-09-13_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md]] : Google DeepMind researcher quits AI safety team, warns of 'terrifying chance' of major harm
+- [[raw/articles/2026-09-13_AstraandFablestillhackonsimplevariantsofalignmente.md]] : Astra and Fable still hack on simple variants of alignment evals from 2025
+- [[raw/articles/2026-09-13_ObamaurgesDemocratstohavea_clearplan_forAIsafeguar.md]] : Obama urges Democrats to have a ‘clear plan’ for AI safeguards
+- [[raw/articles/2026-09-13_WhyisGooglestillservingdodgyads_.md]] : Why is Google still serving dodgy ads?
+- [[raw/articles/2026-09-13_OpenAI_srogueAItriedtohackanothercompanyinMay.md]] : OpenAI’s rogue AI tried to hack another company in May
+- [[raw/articles/2026-09-13_What_sbehindtheAIindustry_slatestwarningsofdoom_.md]] : What’s behind the AI industry’s latest warnings of doom?
+- [[raw/articles/2026-09-13_TrumpandMikeJohnsonthinktheAIindustryisoverreactin.md]] : Trump and Mike Johnson think the AI industry is overreacting
+- [[raw/articles/2026-09-13_ClaudeFable5_1SolvestheCyphralDistich_a370-year-ol.md]] : Claude Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+- [[raw/articles/2026-09-13_Fable5_1SolvestheCyphralDistich_a370-year-oldciphe.md]] : Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+- [[raw/articles/2026-09-14_Fable5_1SolvestheCyphralDistich_a370-year-oldciphe.md]] : Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher
+- [[raw/articles/2026-09-14_TrumpandMikeJohnsonthinktheAIindustryisoverreactin.md]] : Trump and Mike Johnson think the AI industry is overreacting
+- [[raw/articles/2026-09-14_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-14_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md]] : Google DeepMind researcher quits AI safety team, warns of 'terrifying chance' of major harm
+- [[raw/articles/2026-09-14_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-14_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
+- [[raw/articles/2026-09-14_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-14_What_sbehindtheAIindustry_slatestwarningsofdoom_.md]] : What’s behind the AI industry’s latest warnings of doom?
+- [[raw/articles/2026-09-14_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[raw/articles/2026-09-14_Whatatimetobealive_rougeAIagentsattackRubyGems_org.md]] : What a time to be alive – rouge AI agents attack RubyGems.org
+- [[raw/articles/2026-09-14_Microsoftsays_peoplemattermorethanAI_followingsafe.md]] : Microsoft says ‘people matter more than AI’ following safety concerns
+- [[raw/articles/2026-09-14_PeopleWhoCan_tPictureAnythingAreRewritingtheScienc.md]] : People Who Can't Picture Anything Are Rewriting the Science of Imagination
+- [[raw/articles/2026-09-14_5dayslefttoexhibitatTechCrunchDisrupt2026.md]] : 5 days left to exhibit at TechCrunch Disrupt 2026
+- [[raw/articles/2026-09-14_OnlyatTechCrunchDisrupt2026_WhathappenswhenOpenAIs.md]] : Only at TechCrunch Disrupt 2026: What happens when OpenAI ships your roadmap?
+- [[raw/articles/2026-09-14_DistributedSystemsClassics.md]] : Distributed Systems Classics
+- [[raw/articles/2026-09-14_WithiOS27_I_mactuallyusingSiriagain.md]] : With iOS 27, I’m actually using Siri again
+- [[raw/articles/2026-09-14_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
+- [[raw/articles/2026-09-14_Pion_anagentdesignedtorunanycompanyautonomously.md]] : Pion, an agent designed to run any company autonomously
+- [[raw/articles/2026-09-14_GPT-5_6Lunavs_GPT-6Astra_Isa_1_20ModelGoodEnoughfo.md]] : GPT-5.6 Luna vs. GPT-6 Astra: Is a $1.20 Model Good Enough for Code Review?
+- [[raw/articles/2026-09-14_DistributedSystemsClassics_2017_.md]] : Distributed Systems Classics (2017)
+- [[raw/articles/2026-09-14_Amazonvs_Perplexity_U_S_CourtofAppealsfortheNinthC.md]] : Amazon vs. Perplexity – U.S. Court of Appeals for the Ninth Circuit
+- [[raw/articles/2026-09-14_WhatexecsandpoliticiansaresayingaboutslowingdownAI.md]] : What execs and politicians are saying about slowing down AI development
+- [[raw/articles/2026-09-14_IsBigTech_sAIslowdownasafetypactoracartel_.md]] : Is Big Tech’s AI slowdown a safety pact or a cartel?
+- [[raw/articles/2026-09-15_IsBigTech_sAIslowdownasafetypactoracartel_.md]] : Is Big Tech’s AI slowdown a safety pact or a cartel?
+- [[raw/articles/2026-09-15_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-15_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-15_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-15_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
+- [[raw/articles/2026-09-15_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
+- [[raw/articles/2026-09-15_TrumppushesbackasAIleadersfuelcallstoreininrapidly.md]] : Trump pushes back as AI leaders fuel calls to rein in rapidly advancing technology - PBS
+- [[raw/articles/2026-09-15_Let_smakequalitythenormagain.md]] : Let's make quality the norm again
+- [[raw/articles/2026-09-15_SalesforceandNvidia_snewreasoningmodeliseverything.md]] : Salesforce and Nvidia’s new reasoning model is everything the AI labs should fear
+- [[raw/articles/2026-09-15_ShowHN_Ane-inkframethathearsbirdsanddrawsthemas180.md]] : Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations
+- [[raw/articles/2026-09-15_EarlyAnthropichire_formerMETRCOOhavefoundawaytorei.md]] : Early Anthropic hire, former METR COO have found a way to rein in rogue AI agents
+- [[raw/articles/2026-09-15_4dayslefttoexhibitatTechCrunchDisrupt2026.md]] : 4 days left to exhibit at TechCrunch Disrupt 2026
+- [[raw/articles/2026-09-15_LouiseHaigh_UKmustheedwarningsfromAIexperts-TheGua.md]] : Louise Haigh: UK must heed warnings from AI experts - The Guardian
+- [[raw/articles/2026-09-15_AEOstartupProfoundhitsunicornvaluation_raises_180M.md]] : AEO startup Profound hits unicorn valuation, raises $180M Series D 7 months after last round
+- [[raw/articles/2026-09-15_OpenAI_Anthropic_GooglehavebeenintalksonAIsafetyfo.md]] : OpenAI, Anthropic, Google have been in talks on AI safety for weeks
+- [[raw/articles/2026-09-15_AIagentsnowhaveaplacetosnitch.md]] : AI agents now have a place to snitch
+- [[raw/articles/2026-09-15_TheAIgraveyard_arunninglistofprojectsandstartupsth.md]] : The AI graveyard: a running list of projects and startups that didn’t make it
+- [[raw/articles/2026-09-15_Jev_Newfrontiermodel40-400xcheaperand20-200xfaster.md]] : Jev: New frontier model 40-400x cheaper and 20-200x faster
+- [[raw/articles/2026-09-15_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
+- [[raw/articles/2026-09-15_MetanowletsAIagentshandletheboringpartsofWhatsAppB.md]] : Meta now lets AI agents handle the boring parts of WhatsApp Business setup
+- [[raw/articles/2026-09-15_Meta__8217_snewOnesubscriptionsputapriceonsocialme.md]] : Meta&#8217;s new One subscriptions put a price on social media and AI
+- [[raw/articles/2026-09-15_IntroducingSystemOneModelsandJev.md]] : Introducing System One Models and Jev
+- [[raw/articles/2026-09-15_Votersmostlydon_tlikeAIanddatacenters_butneitherpa.md]] : Voters mostly don’t like AI and data centers, but neither party seems to have an edge
+- [[raw/articles/2026-09-15_AIanddatacentersareincrediblyunpopularineverypoll.md]] : AI and data centers are incredibly unpopular in every poll
+- [[raw/articles/2026-09-16_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-16_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
+- [[raw/articles/2026-09-16_LouiseHaigh_UKmustheedwarningsfromAIexperts-TheGua.md]] : Louise Haigh: UK must heed warnings from AI experts - The Guardian
+- [[raw/articles/2026-09-16_IntroducingSystemOneModelsandJev.md]] : Introducing System One Models and Jev
+- [[raw/articles/2026-09-16_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
+- [[raw/articles/2026-09-16_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-16_AIanddatacentersareincrediblyunpopularineverypoll.md]] : AI and data centers are incredibly unpopular in every poll
+- [[raw/articles/2026-09-16_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-16_TheGooglePlayappreviewprocessnowregularlytakeslong.md]] : The Google Play app review process now regularly takes longer than a week
+- [[raw/articles/2026-09-16_ReimaginingadvertisingwithAI.md]] : Reimagining advertising with AI
+- [[raw/articles/2026-09-16_PS5Linuxleadquits__abunchofnoobsusingLLMs_that_the.md]] : PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"
+- [[raw/articles/2026-09-16_ZifoandAlchemyPartnertoAdvanceAI-EnabledR_DAcrossF.md]] : Zifo and Alchemy Partner to Advance AI -Enabled R&D Across Formulation and Materials Industries
+- [[raw/articles/2026-09-16_ThesexyAI-powereddatingappscamsarehere.md]] : The sexy AI-powered dating app scams are here
+- [[raw/articles/2026-09-16_HelpingolderadultsuseAIineverydaylife.md]] : Helping older adults use AI in everyday life
+- [[raw/articles/2026-09-16_Dream-RSI_RecursiveSelf-ImprovementthroughEvolving.md]] : Dream-RSI: Recursive Self-Improvement through Evolving Worlds
+- [[raw/articles/2026-09-16_AnthropicmergesClaudechatandCoworkinoneinterface.md]] : Anthropic merges Claude chat and Cowork in one interface
+- [[raw/articles/2026-09-16_Vectorizedandperformance-portableQuicksort.md]] : Vectorized and performance-portable Quicksort
+- [[raw/articles/2026-09-16_AIlabswantin-houseauditors_butmaybetheyshouldshutt.md]] : AI labs want in-house auditors — but maybe they should shut the front door first
+- [[raw/articles/2026-09-16_Vectorizedandperformance-portableQuicksort_2022_.md]] : Vectorized and performance-portable Quicksort (2022)
+- [[raw/articles/2026-09-16_Traininga4Bmodeltoproduce81_fasterqueryplansthanPo.md]] : Training a 4B model to produce 81% faster query plans than Postgres
+- [[raw/articles/2026-09-16_The2_5-hourAI-generatedOdysseymovieis2_5hourstoolo.md]] : The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long
+- [[raw/articles/2026-09-16_AnthropicandOpenAIwanttoembedsafetyevaluators_Will.md]] : Anthropic and OpenAI want to embed safety evaluators. Will they really be independent?
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-16.md|Summary: Daily AI Intelligence Briefing — 2026-09-16]] : embedded evaluators, staged open weights, agentic interfaces, compiled expertise, and recursive improvement
-- [[2026-09-16_NvidiaannouncesnativeGPUprogramminginRust.md]] : Nvidia announces native GPU programming in Rust
-- [[2026-09-16_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md]] : Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
-- [[2026-09-16_KeysNotIncluded_recoveringthesigningkeysforUSdrive.md]] : Keys Not Included: recovering the signing keys for US driver's license barcodes
-- [[2026-09-17_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-17_ZifoandAlchemyPartnertoAdvanceAI-EnabledR_DAcrossF.md]] : Zifo and Alchemy Partner to Advance AI -Enabled R&D Across Formulation and Materials Industries
-- [[2026-09-17_The2_5-hourAI-generatedOdysseymovieis2_5hourstoolo.md]] : The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long
-- [[2026-09-17_HelpingolderadultsuseAIineverydaylife.md]] : Helping older adults use AI in everyday life
-- [[2026-09-17_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-17_KeysNotIncluded_recoveringthesigningkeysforUSdrive.md]] : Keys Not Included: recovering the signing keys for US driver's license barcodes
-- [[2026-09-17_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
-- [[2026-09-17_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-17_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md]] : Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
-- [[2026-09-17_NvidiaannouncesnativeGPUprogramminginRust.md]] : Nvidia announces native GPU programming in Rust
-- [[2026-09-17_OneYearofSponsoredServoDevelopment.md]] : One Year of Sponsored Servo Development
-- [[2026-09-17_InsidethesuddenlyexplosiveworldofAIsafety.md]] : Inside the suddenly explosive world of AI safety
-- [[2026-09-17_MicrosoftAICEOsaysAIthreatsarereal_andAnthropicism.md]] : Microsoft AI CEO says AI threats are real, and Anthropic is making it worse
-- [[2026-09-17_TheAIDoomsdayScenario_Explained-JackKubinec-TheDis.md]] : The AI Doomsday Scenario: Explained - Jack Kubinec - The Dispatch
-- [[2026-09-17_BaseLabslaunchesanopen-weightAIsafetypartnershipwi.md]] : Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire
-- [[2026-09-17_EventhekingofEnglandhashishesitationsaboutAI.md]] : Even the king of England has his hesitations about AI
-- [[2026-09-17_IstheAIsafetydebateaboutsafetyorcontrol_.md]] : Is the AI safety debate about safety or control?
-- [[2026-09-17_ThepeoplebuildingthemostpowerfulAIaretellingustosl.md]] : The people building the most powerful AI are telling us to slow down. Congress should listen ...
-- [[2026-09-17_IntroducingAstraforLaw.md]] : Introducing Astra for Law
-- [[2026-09-17_AstraforLaw.md]] : Astra for Law
-- [[2026-09-17_TheAISuperintelligenceSlowdown.md]] : The AI Superintelligence Slowdown
-- [[2026-09-17_ThefixforrogueAIagentscouldbemoreAI.md]] : The fix for rogue AI agents could be more AI
-- [[2026-09-17_GoogleDeepMindlaunchesinstitutetowidentheAGIdebate.md]] : Google DeepMind launches institute to widen the AGI debate
-- [[2026-09-17_HowCooleyisacceleratingIPOworkwithChatGPT.md]] : How Cooley is accelerating IPO work with ChatGPT
-- [[2026-09-17_Anthropicdetailspracticalmetricstohelpmonitorthesp.md]] : Anthropic details practical metrics to help monitor the speed of AI development
-- [[2026-09-17_HackingOpenAI.md]] : Hacking OpenAI
-- [[2026-09-18_HowCooleyisacceleratingIPOworkwithChatGPT.md]] : How Cooley is accelerating IPO work with ChatGPT
-- [[2026-09-18_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-18_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-18_Anthropicdetailspracticalmetricstohelpmonitorthesp.md]] : Anthropic details practical metrics to help monitor the speed of AI development
-- [[2026-09-18_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-18_TheAISuperintelligenceSlowdown.md]] : The AI Superintelligence Slowdown
-- [[2026-09-18_HackingOpenAI.md]] : Hacking OpenAI
-- [[2026-09-18_OpenJev.md]] : OpenJev
-- [[2026-09-18_ResearchersusedAnthropic_sClaudetohackintoOpenAI.md]] : Researchers used Anthropic’s Claude to hack into OpenAI
-- [[2026-09-18_AnEmpiricalStudyofHarnessDesignforCodingAgents.md]] : An Empirical Study of Harness Design for Coding Agents
-- [[2026-09-18_DarioAmodeiandotherAIleaderswantto_PacetheFrontier.md]] : Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?
-- [[2026-09-18_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
-- [[2026-09-18_AnewkindofAImodelfromaChatGPTinventoristhrillingde.md]] : A new kind of AI model from a ChatGPT inventor is thrilling developers
-- [[2026-09-18_VirginiagovernorcreatesanAItaskforceandmovestorest.md]] : Virginia governor creates an AI task force and moves to restrain data centers
-- [[2026-09-18_CloudflareQuickTunnels.md]] : Cloudflare Quick Tunnels
-- [[2026-09-18_Android17isthefirstsince3_xtoaddnewAPIswithoutrele.md]] : Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
-- [[2026-09-18_ClaudeCodenowreadsAGENTS_mdifthereisnoClaude_md.md]] : Claude Code now reads AGENTS.md if there is no Claude.md
-- [[2026-09-18_Anthropic_sfirstembeddedevaluatoris_Accenture_.md]] : Anthropic’s first embedded evaluator is … Accenture?
-- [[2026-09-18_Anthropicisoperatingalabthatconductsbiologyexperim.md]] : Anthropic is operating a lab that conducts biology experiments
-- [[2026-09-18_MyAIassistantisdeeplyannoying_andthat_stheleastofi.md]] : My AI assistant is deeply annoying — and that's the least of it - The Washington Post
-- [[2026-09-19_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-19_SanFranciscoOnionFuturesCompany.md]] : San Francisco Onion Futures Company
-- [[2026-09-19_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-19_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-19_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
-- [[2026-09-19_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
-- [[2026-09-19_Humanbrainistwoseparateorgans_StanfordMedicine-led.md]] : Human brain is two separate organs, Stanford Medicine-led research finds
-- [[2026-09-19_MyAIassistantisdeeplyannoying_andthat_stheleastofi.md]] : My AI assistant is deeply annoying — and that's the least of it - The Washington Post
-- [[2026-09-19_LayatheopensourceversionofJev.md]] : Laya the open source version of Jev
-- [[2026-09-19_Vals_backedbyAndreessenHorowitz_islookingtobecomet.md]] : Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking
-- [[2026-09-19_AIsafetyconversationshavegottenunbelievable.md]] : AI safety conversations have gotten unbelievable
-- [[2026-09-19_Geminiwentrogue_hackedthreecompanies_andGooglehidi.md]] : Gemini went rogue, hacked three companies, and Google hid it
-- [[2026-09-19_IBuiltNon-AutoregressiveDecisionModelswithRLaYearA.md]] : I Built Non-Autoregressive Decision Models with RL a Year Ago
-- [[2026-09-19_Ibuiltnon-autoregressivedecisionmodelswithRLayeara.md]] : I built non-autoregressive decision models with RL a year ago
-- [[2026-09-19_TrumpsuggestsrebrandingAIwithanewname_sayshe_salso.md]] : Trump suggests rebranding AI with a new name, says he’s also creating an AI Force
-- [[2026-09-19_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
-- [[2026-09-19_HowHackerNewsrankingworks_scoring_controversy_andp.md]] : How Hacker News ranking works: scoring, controversy, and penalties (2013)
-- [[2026-09-19_ExfiltrateYourWeights.md]] : Exfiltrate Your Weights
-- [[2026-09-20_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-20_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
-- [[2026-09-20_ExfiltrateYourWeights.md]] : Exfiltrate Your Weights
-- [[2026-09-20_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-20_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-20_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
-- [[2026-09-20_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
-- [[2026-09-20_Flockreportedlytriestoshrinkworkforcewithemployeeb.md]] : Flock reportedly tries to shrink workforce with employee buyouts
-- [[2026-09-20_Qwen-Image-2_1_Compact_efficient_andunifiedimagecr.md]] : Qwen-Image-2.1: Compact, efficient, and unified image creation
-- [[2026-09-20_PirateFaceRescuesLLMModelsfromDeletion.md]] : Pirate Face Rescues LLM Models from Deletion
-- [[2026-09-20_ScrollEdwantstoturntextbooksintoTikTok.md]] : ScrollEd wants to turn textbooks into TikTok
-- [[2026-09-20_IstheAIindustryreallyreadytoslowdown_.md]] : Is the AI industry really ready to slow down?
-- [[2026-09-20_Google_sOpenAgenticOrchestrator.md]] : Google's Open Agentic Orchestrator
-- [[2026-09-20_AX_Google_sOpenAgenticOrchestrator.md]] : AX – Google’s Open Agentic Orchestrator
-- [[2026-09-21_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
-- [[2026-09-21_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-21_AX_Google_sOpenAgenticOrchestrator.md]] : AX – Google’s Open Agentic Orchestrator
-- [[2026-09-21_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
-- [[2026-09-21_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-21_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-21_GrimFandangoPuzzleDocument_1996__pdf_.md]] : Grim Fandango Puzzle Document (1996) [pdf]
-- [[2026-09-21_Amazondoesn_ttrustMeta_sMuseAIagent.md]] : Amazon doesn’t trust Meta’s Muse AI agent
-- [[2026-09-21_Kev_TinyJev-likefamilyofdecisionmodelsbuiltontopof.md]] : Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
-- [[2026-09-21_UNsaysAIsafeguardscan_twaitforcertainty.md]] : UN says AI safeguards can’t wait for certainty
-- [[2026-09-21_HowV7givesAIagentsinstitutionalmemory.md]] : How V7 gives AI agents institutional memory
-- [[2026-09-21_PromisingAItooltospeedupendometriosisdiagnosis-Med.md]] : Promising AI tool to speed up endometriosis diagnosis - Medical Xpress
-- [[2026-09-21_Wherewillthenextbreakoutstartupcomefrom_Benchmark_.md]] : Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026
-- [[2026-09-21_CanJohnTernusfindApple_snextbigthing_.md]] : Can John Ternus find Apple’s next big thing?
-- [[2026-09-21_WithTabby_aformeraccountantisusingAItomakeaccounta.md]] : With Tabby, a former accountant is using AI to make accountants obsolete
-- [[2026-09-21_Meta_sAIagenthasbeenblockedfromusingAmazon_com.md]] : Meta’s AI agent has been blocked from using Amazon.com
-- [[2026-09-21_AdvisoryGrouponMathematicsandArtificialIntelligenc.md]] : Advisory Group on Mathematics and Artificial Intelligence
-- [[2026-09-21_Discoverwhat_snext_5dayslefttosaveupto_200onyourTe.md]] : Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket
-- [[2026-09-21_TheNASA_ESAMarsSampleReturnmissionhasbeencanceled.md]] : The NASA/ESA Mars Sample Return mission has been canceled
-- [[2026-09-21_XiaomiMiMov2_6.md]] : Xiaomi MiMo v2.6
-- [[2026-09-21_OpenAIformsmathadvisorygroupasitsAIresolvesmoretha.md]] : OpenAI forms math advisory group as its AI resolves more than 100 open problems
-- [[2026-09-21_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
-- [[2026-09-21_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md]] : The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
-- [[2026-09-21_OpenAIproposesdevelopmentofglobalAIstandardsforali.md]] : OpenAI proposes development of global AI standards for alignment, RSI - CNBC
-- [[2026-09-22_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
-- [[2026-09-22_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-22_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md]] : The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
-- [[2026-09-22_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-22_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
-- [[2026-09-22_OpenAIproposesdevelopmentofglobalAIstandardsforali.md]] : OpenAI proposes development of global AI standards for alignment, RSI - CNBC
-- [[2026-09-22_AdvisoryGrouponMathematicsandArtificialIntelligenc.md]] : Advisory Group on Mathematics and Artificial Intelligence
-- [[2026-09-22_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-22_MiMov2_6.md]] : MiMo v2.6
-- [[2026-09-22_AppleMusictoopenconcertvenueinBatterseaPowerStatio.md]] : Apple Music to open concert venue in Battersea Power Station
-- [[2026-09-22_Cangzipbealanguagemodel_.md]] : Can gzip be a language model?
-- [[2026-09-22_Study_Youngusers_9to18Y_ditchGoogleforAI_withunkno.md]] : Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
-- [[2026-09-22_CanJohnTernusfindApple_snextbigthing_.md]] : Can John Ternus find Apple’s next big thing?
-- [[2026-09-22_MetapatchesMuseexploitthatletattackerscontroltheAI.md]] : Meta patches Muse exploit that let attackers control the AI agent
-- [[2026-09-22_AMD_srandomnumbergeneratorcan_tgeneratea0_.md]] : AMD's random number generator can't generate a 0?
-- [[2026-09-22_AIHasNoWisdomandNeitherWillYou.md]] : AI Has No Wisdom and Neither Will You
-- [[2026-09-22_OpenAIGPT_6AstrabreaksEnigmamessagethathasresisted.md]] : OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
-- [[2026-09-22_ACallforControlofFrontierAIModels-FinnishGovernmen.md]] : A Call for Control of Frontier AI Models - Finnish Government - Valtioneuvosto
-- [[2026-09-22_HowMeta_sMuseworks_revealedbythe6_8GBfilesystemits.md]] : How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me
-- [[2026-09-22_Sep18_2026AnnouncementsPartneringwithAccentureonem.md]] : Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation
-- [[2026-09-22_ClaudeOpus5_5.md]] : Claude Opus 5.5
-- [[2026-09-22_AnthropiclaunchesClaudeOpus5_5withstrictersafeguar.md]] : Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity
-- [[2026-09-22_AnthropicreleasesOpus5_5withlowerpricesandFable-le.md]] : Anthropic releases Opus 5.5 with lower prices and Fable-level performance
-- [[2026-09-22_AndreessenHorowitzislaunchingan_academy_withnohome.md]] : Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta
-- [[2026-09-22_OpenAIlaunchesGPT-6SolandLuna_boastinglowercostand.md]] : OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes
-- [[2026-09-22_Prioritiesandprinciplesforeffectivethirdpartyasses.md]] : Priorities and principles for effective third party assessments
-- [[2026-09-22_IntroducingGPT-6SolandLuna.md]] : Introducing GPT-6 Sol and Luna
-- [[2026-09-22_BetterpromptcachingforGPT-6.md]] : Better prompt caching for GPT-6
-- [[2026-09-22_MetaadmitsMuse_slikenesstoOpenClawisn_tacoincidenc.md]] : Meta admits Muse’s likeness to OpenClaw isn’t a coincidence
-- [[2026-09-22_Qualcommlaunchestwonewsmartphonechipswithemphasiso.md]] : Qualcomm launches two new smartphone chips with emphasis on AI
-- [[2026-09-22_SnorkelAItriplesvaluationto_3_5BasdemandforAItrain.md]] : Snorkel AI triples valuation to $3.5B as demand for AI training data booms
-- [[2026-09-22_Rabbit_snewAIagentdoesn_tneedanR1torun.md]] : Rabbit’s new AI agent doesn’t need an R1 to run
-- [[2026-09-22_OpenAIwantstoconsultelitemathematiciansabouthowton.md]] : OpenAI wants to consult elite mathematicians about how to not fumble again
-- [[2026-09-22_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md]] : Summary of METR's predeployment evaluation of Claude Opus 5.5
-- [[2026-09-23_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-23_BetterpromptcachingforGPT-6.md]] : Better prompt caching for GPT-6
-- [[2026-09-23_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-23_GPT-6SolandLuna.md]] : GPT-6 Sol and Luna
-- [[2026-09-23_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[2026-09-23_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md]] : Summary of METR's predeployment evaluation of Claude Opus 5.5
-- [[2026-09-23_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
-- [[2026-09-23_OpenAIwantstoconsultelitemathematiciansabouthowton.md]] : OpenAI wants to consult elite mathematicians about how to not fumble again
-- [[2026-09-23_Jevin25LinesofPython.md]] : Jev in 25 Lines of Python
-- [[2026-09-23_GrabandOpenAIbringpracticalAIskillstoSoutheastAsia.md]] : Grab and OpenAI bring practical AI skills to Southeast Asia
-- [[2026-09-23_ClaudeCodereadsAGENTS_mdonlywhentelemetryison.md]] : Claude Code reads AGENTS.md only when telemetry is on
-- [[2026-09-23_Spotify_sisgivingyouthekeystoitsrecommendationalgo.md]] : Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’
-- [[2026-09-23_3dayslefttosaveupto_200andmakeimpactfulconnections.md]] : 3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026
-- [[2026-09-23_Sep18_2026AnnouncementsPartneringwithAccentureonem.md]] : Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation
-- [[2026-09-23_TwoyearsofOpenAIAcademy.md]] : Two years of OpenAI Academy
-- [[2026-09-23_YouTubeMusicgetsmoreconversationalwithnewAIfeature.md]] : YouTube Music gets more conversational with new AI features
-- [[2026-09-23_YouTubeisbuildingAIcreatortoolsthatdoalmosteveryth.md]] : YouTube is building AI creator tools that do almost everything for them
-- [[2026-09-23_Ringg_sAIagentsresolveupto65_ofcustomercallswithOp.md]] : Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
-- [[2026-09-23_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
-- [[2026-09-23_ChatGPTmobileappgetsvoice-basedagenticfeatures.md]] : ChatGPT mobile app gets voice-based agentic features
-- [[2026-09-23_Anthropic__8217_sbiolabmadeadiscoveryit__8217_scom.md]] : Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr
-- [[2026-09-23_Meta_sAIagentisacutelittleguywho_sgreatatspendingm.md]] : Meta’s AI agent is a cute little guy who’s great at spending my money
-- [[2026-09-23_Envedasecures_311Mtobringmorenature-derivedAIdrugs.md]] : Enveda secures $311M to bring more nature-derived AI drugs into clinical trials
-- [[2026-09-23_BernieSandersproposesbanning_superintelligence_and.md]] : Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison
-- [[2026-09-23_Anthropicsaysitsbiologylabhasalreadyfoundsomething.md]] : Anthropic says its biology lab has already found something big
-- [[2026-09-23_MetaVRGlasses.md]] : Meta VR Glasses
-- [[2026-09-23_MuseiscomingtoMetasmartglasses.md]] : Muse is coming to Meta smart glasses
-- [[2026-09-23_Metaintroducescamera-freeAIglasses.md]] : Meta introduces camera-free AI glasses
-- [[2026-09-23_MetamadeaTamagotchi-likewearableforitsMuseAIagent.md]] : Meta made a Tamagotchi-like wearable for its Muse AI agent
-- [[2026-09-23_MetaismakingastandaloneMuseAIgadget.md]] : Meta is making a standalone Muse AI gadget
-- [[2026-09-23_EverythingnewcomingtoMeta_sAIagentMuse.md]] : Everything new coming to Meta’s AI agent Muse
-- [[2026-09-23_LinuxsupportiscomingtoSnapdragonX2Series.md]] : Linux support is coming to Snapdragon X2 Series
-- [[2026-09-23_NewCarolinaCatalystFundprioritizesAIresearch-TheDa.md]] : New Carolina Catalyst Fund prioritizes AI research - The Daily Tar Heel
-- [[2026-09-24_LinuxsupportiscomingtoSnapdragonX2Series.md]] : Linux support is coming to Snapdragon X2 Series
-- [[2026-09-24_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-24_EverythingnewcomingtoMeta_sAIagentMuse.md]] : Everything new coming to Meta’s AI agent Muse
-- [[2026-09-24_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
-- [[2026-09-24_MetaismakingastandaloneMuseAIgadget.md]] : Meta is making a standalone Muse AI gadget
-- [[2026-09-24_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
-- [[2026-09-24_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
-- [[2026-09-24_TwoyearsofOpenAIAcademy.md]] : Two years of OpenAI Academy
-- [[2026-09-24_NewCarolinaCatalystFundprioritizesAIresearch-TheDa.md]] : New Carolina Catalyst Fund prioritizes AI research - The Daily Tar Heel
-- [[2026-09-24_EarlyrogueAIagentactivityandattemptstohackfoundonu.md]] : Early rogue AI agent activity and attempts to hack found on urlquery.net
+- [[raw/articles/2026-09-16_NvidiaannouncesnativeGPUprogramminginRust.md]] : Nvidia announces native GPU programming in Rust
+- [[raw/articles/2026-09-16_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md]] : Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
+- [[raw/articles/2026-09-16_KeysNotIncluded_recoveringthesigningkeysforUSdrive.md]] : Keys Not Included: recovering the signing keys for US driver's license barcodes
+- [[raw/articles/2026-09-17_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-17_ZifoandAlchemyPartnertoAdvanceAI-EnabledR_DAcrossF.md]] : Zifo and Alchemy Partner to Advance AI -Enabled R&D Across Formulation and Materials Industries
+- [[raw/articles/2026-09-17_The2_5-hourAI-generatedOdysseymovieis2_5hourstoolo.md]] : The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long
+- [[raw/articles/2026-09-17_HelpingolderadultsuseAIineverydaylife.md]] : Helping older adults use AI in everyday life
+- [[raw/articles/2026-09-17_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-17_KeysNotIncluded_recoveringthesigningkeysforUSdrive.md]] : Keys Not Included: recovering the signing keys for US driver's license barcodes
+- [[raw/articles/2026-09-17_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
+- [[raw/articles/2026-09-17_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-17_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md]] : Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
+- [[raw/articles/2026-09-17_NvidiaannouncesnativeGPUprogramminginRust.md]] : Nvidia announces native GPU programming in Rust
+- [[raw/articles/2026-09-17_OneYearofSponsoredServoDevelopment.md]] : One Year of Sponsored Servo Development
+- [[raw/articles/2026-09-17_InsidethesuddenlyexplosiveworldofAIsafety.md]] : Inside the suddenly explosive world of AI safety
+- [[raw/articles/2026-09-17_MicrosoftAICEOsaysAIthreatsarereal_andAnthropicism.md]] : Microsoft AI CEO says AI threats are real, and Anthropic is making it worse
+- [[raw/articles/2026-09-17_TheAIDoomsdayScenario_Explained-JackKubinec-TheDis.md]] : The AI Doomsday Scenario: Explained - Jack Kubinec - The Dispatch
+- [[raw/articles/2026-09-17_BaseLabslaunchesanopen-weightAIsafetypartnershipwi.md]] : Base Labs launches an open-weight AI safety partnership with Hugging Face and Goodfire
+- [[raw/articles/2026-09-17_EventhekingofEnglandhashishesitationsaboutAI.md]] : Even the king of England has his hesitations about AI
+- [[raw/articles/2026-09-17_IstheAIsafetydebateaboutsafetyorcontrol_.md]] : Is the AI safety debate about safety or control?
+- [[raw/articles/2026-09-17_ThepeoplebuildingthemostpowerfulAIaretellingustosl.md]] : The people building the most powerful AI are telling us to slow down. Congress should listen ...
+- [[raw/articles/2026-09-17_IntroducingAstraforLaw.md]] : Introducing Astra for Law
+- [[raw/articles/2026-09-17_AstraforLaw.md]] : Astra for Law
+- [[raw/articles/2026-09-17_TheAISuperintelligenceSlowdown.md]] : The AI Superintelligence Slowdown
+- [[raw/articles/2026-09-17_ThefixforrogueAIagentscouldbemoreAI.md]] : The fix for rogue AI agents could be more AI
+- [[raw/articles/2026-09-17_GoogleDeepMindlaunchesinstitutetowidentheAGIdebate.md]] : Google DeepMind launches institute to widen the AGI debate
+- [[raw/articles/2026-09-17_HowCooleyisacceleratingIPOworkwithChatGPT.md]] : How Cooley is accelerating IPO work with ChatGPT
+- [[raw/articles/2026-09-17_Anthropicdetailspracticalmetricstohelpmonitorthesp.md]] : Anthropic details practical metrics to help monitor the speed of AI development
+- [[raw/articles/2026-09-17_HackingOpenAI.md]] : Hacking OpenAI
+- [[raw/articles/2026-09-18_HowCooleyisacceleratingIPOworkwithChatGPT.md]] : How Cooley is accelerating IPO work with ChatGPT
+- [[raw/articles/2026-09-18_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-18_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-18_Anthropicdetailspracticalmetricstohelpmonitorthesp.md]] : Anthropic details practical metrics to help monitor the speed of AI development
+- [[raw/articles/2026-09-18_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-18_TheAISuperintelligenceSlowdown.md]] : The AI Superintelligence Slowdown
+- [[raw/articles/2026-09-18_HackingOpenAI.md]] : Hacking OpenAI
+- [[raw/articles/2026-09-18_OpenJev.md]] : OpenJev
+- [[raw/articles/2026-09-18_ResearchersusedAnthropic_sClaudetohackintoOpenAI.md]] : Researchers used Anthropic’s Claude to hack into OpenAI
+- [[raw/articles/2026-09-18_AnEmpiricalStudyofHarnessDesignforCodingAgents.md]] : An Empirical Study of Harness Design for Coding Agents
+- [[raw/articles/2026-09-18_DarioAmodeiandotherAIleaderswantto_PacetheFrontier.md]] : Dario Amodei and other AI leaders want to ‘Pace the Frontier’ but…how?
+- [[raw/articles/2026-09-18_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[raw/articles/2026-09-18_AnewkindofAImodelfromaChatGPTinventoristhrillingde.md]] : A new kind of AI model from a ChatGPT inventor is thrilling developers
+- [[raw/articles/2026-09-18_VirginiagovernorcreatesanAItaskforceandmovestorest.md]] : Virginia governor creates an AI task force and moves to restrain data centers
+- [[raw/articles/2026-09-18_CloudflareQuickTunnels.md]] : Cloudflare Quick Tunnels
+- [[raw/articles/2026-09-18_Android17isthefirstsince3_xtoaddnewAPIswithoutrele.md]] : Android 17 is the first since 3.x to add new APIs without releasing to the AOSP
+- [[raw/articles/2026-09-18_ClaudeCodenowreadsAGENTS_mdifthereisnoClaude_md.md]] : Claude Code now reads AGENTS.md if there is no Claude.md
+- [[raw/articles/2026-09-18_Anthropic_sfirstembeddedevaluatoris_Accenture_.md]] : Anthropic’s first embedded evaluator is … Accenture?
+- [[raw/articles/2026-09-18_Anthropicisoperatingalabthatconductsbiologyexperim.md]] : Anthropic is operating a lab that conducts biology experiments
+- [[raw/articles/2026-09-18_MyAIassistantisdeeplyannoying_andthat_stheleastofi.md]] : My AI assistant is deeply annoying — and that's the least of it - The Washington Post
+- [[raw/articles/2026-09-19_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-19_SanFranciscoOnionFuturesCompany.md]] : San Francisco Onion Futures Company
+- [[raw/articles/2026-09-19_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-19_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-19_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
+- [[raw/articles/2026-09-19_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[raw/articles/2026-09-19_Humanbrainistwoseparateorgans_StanfordMedicine-led.md]] : Human brain is two separate organs, Stanford Medicine-led research finds
+- [[raw/articles/2026-09-19_MyAIassistantisdeeplyannoying_andthat_stheleastofi.md]] : My AI assistant is deeply annoying — and that's the least of it - The Washington Post
+- [[raw/articles/2026-09-19_LayatheopensourceversionofJev.md]] : Laya the open source version of Jev
+- [[raw/articles/2026-09-19_Vals_backedbyAndreessenHorowitz_islookingtobecomet.md]] : Vals, backed by Andreessen Horowitz, is looking to become the gold standard for AI benchmarking
+- [[raw/articles/2026-09-19_AIsafetyconversationshavegottenunbelievable.md]] : AI safety conversations have gotten unbelievable
+- [[raw/articles/2026-09-19_Geminiwentrogue_hackedthreecompanies_andGooglehidi.md]] : Gemini went rogue, hacked three companies, and Google hid it
+- [[raw/articles/2026-09-19_IBuiltNon-AutoregressiveDecisionModelswithRLaYearA.md]] : I Built Non-Autoregressive Decision Models with RL a Year Ago
+- [[raw/articles/2026-09-19_IBuiltNon-AutoregressiveDecisionModelswithRLaYearA.md]] : I built non-autoregressive decision models with RL a year ago
+- [[raw/articles/2026-09-19_TrumpsuggestsrebrandingAIwithanewname_sayshe_salso.md]] : Trump suggests rebranding AI with a new name, says he’s also creating an AI Force
+- [[raw/articles/2026-09-19_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
+- [[raw/articles/2026-09-19_HowHackerNewsrankingworks_scoring_controversy_andp.md]] : How Hacker News ranking works: scoring, controversy, and penalties (2013)
+- [[raw/articles/2026-09-19_ExfiltrateYourWeights.md]] : Exfiltrate Your Weights
+- [[raw/articles/2026-09-20_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-20_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[raw/articles/2026-09-20_ExfiltrateYourWeights.md]] : Exfiltrate Your Weights
+- [[raw/articles/2026-09-20_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-20_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-20_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
+- [[raw/articles/2026-09-20_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
+- [[raw/articles/2026-09-20_Flockreportedlytriestoshrinkworkforcewithemployeeb.md]] : Flock reportedly tries to shrink workforce with employee buyouts
+- [[raw/articles/2026-09-20_Qwen-Image-2_1_Compact_efficient_andunifiedimagecr.md]] : Qwen-Image-2.1: Compact, efficient, and unified image creation
+- [[raw/articles/2026-09-20_PirateFaceRescuesLLMModelsfromDeletion.md]] : Pirate Face Rescues LLM Models from Deletion
+- [[raw/articles/2026-09-20_ScrollEdwantstoturntextbooksintoTikTok.md]] : ScrollEd wants to turn textbooks into TikTok
+- [[raw/articles/2026-09-20_IstheAIindustryreallyreadytoslowdown_.md]] : Is the AI industry really ready to slow down?
+- [[raw/articles/2026-09-20_Google_sOpenAgenticOrchestrator.md]] : Google's Open Agentic Orchestrator
+- [[raw/articles/2026-09-20_AX_Google_sOpenAgenticOrchestrator.md]] : AX – Google’s Open Agentic Orchestrator
+- [[raw/articles/2026-09-21_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
+- [[raw/articles/2026-09-21_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-21_AX_Google_sOpenAgenticOrchestrator.md]] : AX – Google’s Open Agentic Orchestrator
+- [[raw/articles/2026-09-21_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[raw/articles/2026-09-21_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-21_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-21_GrimFandangoPuzzleDocument_1996__pdf_.md]] : Grim Fandango Puzzle Document (1996) [pdf]
+- [[raw/articles/2026-09-21_Amazondoesn_ttrustMeta_sMuseAIagent.md]] : Amazon doesn’t trust Meta’s Muse AI agent
+- [[raw/articles/2026-09-21_Kev_TinyJev-likefamilyofdecisionmodelsbuiltontopof.md]] : Kev: Tiny Jev-like family of decision models built on top of Qwen3.5
+- [[raw/articles/2026-09-21_UNsaysAIsafeguardscan_twaitforcertainty.md]] : UN says AI safeguards can’t wait for certainty
+- [[raw/articles/2026-09-21_HowV7givesAIagentsinstitutionalmemory.md]] : How V7 gives AI agents institutional memory
+- [[raw/articles/2026-09-21_PromisingAItooltospeedupendometriosisdiagnosis-Med.md]] : Promising AI tool to speed up endometriosis diagnosis - Medical Xpress
+- [[raw/articles/2026-09-21_Wherewillthenextbreakoutstartupcomefrom_Benchmark_.md]] : Where will the next breakout startup come from? Benchmark’s full partnership weighs in at TechCrunch Disrupt 2026
+- [[raw/articles/2026-09-21_CanJohnTernusfindApple_snextbigthing_.md]] : Can John Ternus find Apple’s next big thing?
+- [[raw/articles/2026-09-21_WithTabby_aformeraccountantisusingAItomakeaccounta.md]] : With Tabby, a former accountant is using AI to make accountants obsolete
+- [[raw/articles/2026-09-21_Meta_sAIagenthasbeenblockedfromusingAmazon_com.md]] : Meta’s AI agent has been blocked from using Amazon.com
+- [[raw/articles/2026-09-21_AdvisoryGrouponMathematicsandArtificialIntelligenc.md]] : Advisory Group on Mathematics and Artificial Intelligence
+- [[raw/articles/2026-09-21_Discoverwhat_snext_5dayslefttosaveupto_200onyourTe.md]] : Discover what’s next: 5 days left to save up to $200 on your TechCrunch Disrupt 2026 ticket
+- [[raw/articles/2026-09-21_TheNASA_ESAMarsSampleReturnmissionhasbeencanceled.md]] : The NASA/ESA Mars Sample Return mission has been canceled
+- [[raw/articles/2026-09-21_XiaomiMiMov2_6.md]] : Xiaomi MiMo v2.6
+- [[raw/articles/2026-09-21_OpenAIformsmathadvisorygroupasitsAIresolvesmoretha.md]] : OpenAI forms math advisory group as its AI resolves more than 100 open problems
+- [[raw/articles/2026-09-21_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
+- [[raw/articles/2026-09-21_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md]] : The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
+- [[raw/articles/2026-09-21_OpenAIproposesdevelopmentofglobalAIstandardsforali.md]] : OpenAI proposes development of global AI standards for alignment, RSI - CNBC
+- [[raw/articles/2026-09-22_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[raw/articles/2026-09-22_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-22_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md]] : The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
+- [[raw/articles/2026-09-22_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-22_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
+- [[raw/articles/2026-09-22_OpenAIproposesdevelopmentofglobalAIstandardsforali.md]] : OpenAI proposes development of global AI standards for alignment, RSI - CNBC
+- [[raw/articles/2026-09-22_AdvisoryGrouponMathematicsandArtificialIntelligenc.md]] : Advisory Group on Mathematics and Artificial Intelligence
+- [[raw/articles/2026-09-22_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-22_MiMov2_6.md]] : MiMo v2.6
+- [[raw/articles/2026-09-22_AppleMusictoopenconcertvenueinBatterseaPowerStatio.md]] : Apple Music to open concert venue in Battersea Power Station
+- [[raw/articles/2026-09-22_Cangzipbealanguagemodel_.md]] : Can gzip be a language model?
+- [[raw/articles/2026-09-22_Study_Youngusers_9to18Y_ditchGoogleforAI_withunkno.md]] : Study: Young users (9 to 18Y) ditch Google for AI, with unknown consequences
+- [[raw/articles/2026-09-22_CanJohnTernusfindApple_snextbigthing_.md]] : Can John Ternus find Apple’s next big thing?
+- [[raw/articles/2026-09-22_MetapatchesMuseexploitthatletattackerscontroltheAI.md]] : Meta patches Muse exploit that let attackers control the AI agent
+- [[raw/articles/2026-09-22_AMD_srandomnumbergeneratorcan_tgeneratea0_.md]] : AMD's random number generator can't generate a 0?
+- [[raw/articles/2026-09-22_AIHasNoWisdomandNeitherWillYou.md]] : AI Has No Wisdom and Neither Will You
+- [[raw/articles/2026-09-22_OpenAIGPT_6AstrabreaksEnigmamessagethathasresisted.md]] : OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005
+- [[raw/articles/2026-09-22_ACallforControlofFrontierAIModels-FinnishGovernmen.md]] : A Call for Control of Frontier AI Models - Finnish Government - Valtioneuvosto
+- [[raw/articles/2026-09-22_HowMeta_sMuseworks_revealedbythe6_8GBfilesystemits.md]] : How Meta's Muse works, revealed by the 6.8 GB filesystem it sent me
+- [[raw/articles/2026-09-22_Sep18_2026AnnouncementsPartneringwithAccentureonem.md]] : Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation
+- [[raw/articles/2026-09-22_ClaudeOpus5_5.md]] : Claude Opus 5.5
+- [[raw/articles/2026-09-22_AnthropiclaunchesClaudeOpus5_5withstrictersafeguar.md]] : Anthropic launches Claude Opus 5.5 with stricter safeguards for cybersecurity
+- [[raw/articles/2026-09-22_AnthropicreleasesOpus5_5withlowerpricesandFable-le.md]] : Anthropic releases Opus 5.5 with lower prices and Fable-level performance
+- [[raw/articles/2026-09-22_AndreessenHorowitzislaunchingan_academy_withnohome.md]] : Andreessen Horowitz is launching an ‘academy’ with no homework and partnerships with Palantir, Google, and Meta
+- [[raw/articles/2026-09-22_OpenAIlaunchesGPT-6SolandLuna_boastinglowercostand.md]] : OpenAI launches GPT-6 Sol and Luna, boasting lower cost and fewer mistakes
+- [[raw/articles/2026-09-22_Prioritiesandprinciplesforeffectivethirdpartyasses.md]] : Priorities and principles for effective third party assessments
+- [[raw/articles/2026-09-22_IntroducingGPT-6SolandLuna.md]] : Introducing GPT-6 Sol and Luna
+- [[raw/articles/2026-09-22_BetterpromptcachingforGPT-6.md]] : Better prompt caching for GPT-6
+- [[raw/articles/2026-09-22_MetaadmitsMuse_slikenesstoOpenClawisn_tacoincidenc.md]] : Meta admits Muse’s likeness to OpenClaw isn’t a coincidence
+- [[raw/articles/2026-09-22_Qualcommlaunchestwonewsmartphonechipswithemphasiso.md]] : Qualcomm launches two new smartphone chips with emphasis on AI
+- [[raw/articles/2026-09-22_SnorkelAItriplesvaluationto_3_5BasdemandforAItrain.md]] : Snorkel AI triples valuation to $3.5B as demand for AI training data booms
+- [[raw/articles/2026-09-22_Rabbit_snewAIagentdoesn_tneedanR1torun.md]] : Rabbit’s new AI agent doesn’t need an R1 to run
+- [[raw/articles/2026-09-22_OpenAIwantstoconsultelitemathematiciansabouthowton.md]] : OpenAI wants to consult elite mathematicians about how to not fumble again
+- [[raw/articles/2026-09-22_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md]] : Summary of METR's predeployment evaluation of Claude Opus 5.5
+- [[raw/articles/2026-09-23_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-23_BetterpromptcachingforGPT-6.md]] : Better prompt caching for GPT-6
+- [[raw/articles/2026-09-23_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-23_GPT-6SolandLuna.md]] : GPT-6 Sol and Luna
+- [[raw/articles/2026-09-23_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
+- [[raw/articles/2026-09-23_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md]] : Summary of METR's predeployment evaluation of Claude Opus 5.5
+- [[raw/articles/2026-09-23_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[raw/articles/2026-09-23_OpenAIwantstoconsultelitemathematiciansabouthowton.md]] : OpenAI wants to consult elite mathematicians about how to not fumble again
+- [[raw/articles/2026-09-23_Jevin25LinesofPython.md]] : Jev in 25 Lines of Python
+- [[raw/articles/2026-09-23_GrabandOpenAIbringpracticalAIskillstoSoutheastAsia.md]] : Grab and OpenAI bring practical AI skills to Southeast Asia
+- [[raw/articles/2026-09-23_ClaudeCodereadsAGENTS_mdonlywhentelemetryison.md]] : Claude Code reads AGENTS.md only when telemetry is on
+- [[raw/articles/2026-09-23_Spotify_sisgivingyouthekeystoitsrecommendationalgo.md]] : Spotify’s is giving you the keys to its recommendation algorithm with US launch of ‘Taste Profile’
+- [[raw/articles/2026-09-23_3dayslefttosaveupto_200andmakeimpactfulconnections.md]] : 3 days left to save up to $200 and make impactful connections at TechCrunch Disrupt 2026
+- [[raw/articles/2026-09-23_Sep18_2026AnnouncementsPartneringwithAccentureonem.md]] : Sep 18, 2026 Announcements Partnering with Accenture on embedded evaluation
+- [[raw/articles/2026-09-23_TwoyearsofOpenAIAcademy.md]] : Two years of OpenAI Academy
+- [[raw/articles/2026-09-23_YouTubeMusicgetsmoreconversationalwithnewAIfeature.md]] : YouTube Music gets more conversational with new AI features
+- [[raw/articles/2026-09-23_YouTubeisbuildingAIcreatortoolsthatdoalmosteveryth.md]] : YouTube is building AI creator tools that do almost everything for them
+- [[raw/articles/2026-09-23_Ringg_sAIagentsresolveupto65_ofcustomercallswithOp.md]] : Ringg’s AI agents resolve up to 65% of customer calls with OpenAI
+- [[raw/articles/2026-09-23_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[raw/articles/2026-09-23_ChatGPTmobileappgetsvoice-basedagenticfeatures.md]] : ChatGPT mobile app gets voice-based agentic features
+- [[raw/articles/2026-09-23_Anthropic__8217_sbiolabmadeadiscoveryit__8217_scom.md]] : Anthropic&#8217;s biolab made a discovery it&#8217;s comparing to Crispr
+- [[raw/articles/2026-09-23_Meta_sAIagentisacutelittleguywho_sgreatatspendingm.md]] : Meta’s AI agent is a cute little guy who’s great at spending my money
+- [[raw/articles/2026-09-23_Envedasecures_311Mtobringmorenature-derivedAIdrugs.md]] : Enveda secures $311M to bring more nature-derived AI drugs into clinical trials
+- [[raw/articles/2026-09-23_BernieSandersproposesbanning_superintelligence_and.md]] : Bernie Sanders proposes banning ‘superintelligence’ and putting violators in prison
+- [[raw/articles/2026-09-23_Anthropicsaysitsbiologylabhasalreadyfoundsomething.md]] : Anthropic says its biology lab has already found something big
+- [[raw/articles/2026-09-23_MetaVRGlasses.md]] : Meta VR Glasses
+- [[raw/articles/2026-09-23_MuseiscomingtoMetasmartglasses.md]] : Muse is coming to Meta smart glasses
+- [[raw/articles/2026-09-23_Metaintroducescamera-freeAIglasses.md]] : Meta introduces camera-free AI glasses
+- [[raw/articles/2026-09-23_MetamadeaTamagotchi-likewearableforitsMuseAIagent.md]] : Meta made a Tamagotchi-like wearable for its Muse AI agent
+- [[raw/articles/2026-09-23_MetaismakingastandaloneMuseAIgadget.md]] : Meta is making a standalone Muse AI gadget
+- [[raw/articles/2026-09-23_EverythingnewcomingtoMeta_sAIagentMuse.md]] : Everything new coming to Meta’s AI agent Muse
+- [[raw/articles/2026-09-23_LinuxsupportiscomingtoSnapdragonX2Series.md]] : Linux support is coming to Snapdragon X2 Series
+- [[raw/articles/2026-09-23_NewCarolinaCatalystFundprioritizesAIresearch-TheDa.md]] : New Carolina Catalyst Fund prioritizes AI research - The Daily Tar Heel
+- [[raw/articles/2026-09-24_LinuxsupportiscomingtoSnapdragonX2Series.md]] : Linux support is coming to Snapdragon X2 Series
+- [[raw/articles/2026-09-24_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[raw/articles/2026-09-24_EverythingnewcomingtoMeta_sAIagentMuse.md]] : Everything new coming to Meta’s AI agent Muse
+- [[raw/articles/2026-09-24_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-09-24_MetaismakingastandaloneMuseAIgadget.md]] : Meta is making a standalone Muse AI gadget
+- [[raw/articles/2026-09-24_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[raw/articles/2026-09-24_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
+- [[raw/articles/2026-09-24_TwoyearsofOpenAIAcademy.md]] : Two years of OpenAI Academy
+- [[raw/articles/2026-09-24_NewCarolinaCatalystFundprioritizesAIresearch-TheDa.md]] : New Carolina Catalyst Fund prioritizes AI research - The Daily Tar Heel
+- [[raw/articles/2026-09-24_EarlyrogueAIagentactivityandattemptstohackfoundonu.md]] : Early rogue AI agent activity and attempts to hack found on urlquery.net
+- [[raw/articles/2026-09-24_NokiaDesignArchive_2025_.md]] : Nokia Design Archive (2025)
+- [[raw/articles/2026-09-24_Gemini4isalmostready_saysnewGoogleDeepMindchief.md]] : Gemini 4 is almost ready, says new Google DeepMind chief

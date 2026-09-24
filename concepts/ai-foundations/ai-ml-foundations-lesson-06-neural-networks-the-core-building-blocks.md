@@ -28,7 +28,7 @@ Placeholder summary — please add a concise summary.
 
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-05-unsupervised-learning-finding-hidden-structure.md|Lesson 5: Unsupervised Learning: Finding Hidden Structure]]
-- Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
+- Landing page: [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
 - Next: [[ai-ml-foundations-lesson-07-convolutional-networks-for-vision.md|Lesson 7: Convolutional Networks for Vision]]
 
 
@@ -191,4 +191,4 @@ Answer these in your own words:
 - /home/rich/wiki/ai-research/raw/articles/2026-04-27_Neural_Network_Architectures_-_GeeksforGeeks.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-29_Top_Machine_Learning_Architectures_Explained_-_BMC.md
-- /home/rich/wiki/ai-research/ai-ml-foundations-syllabus.md
+- concepts/ai-foundations/ai-ml-foundations-syllabus.md

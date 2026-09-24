@@ -68,7 +68,7 @@ Placeholder summary — please add a concise summary.
 - **Training**: Reinforcement learning inside a stateful retrieval harness
 - **Benchmark**: BrowseComp+ (browsing and evidence-seeking questions)
 - **Availability**: Open source, self-hosted (vLLM)
-- **Source**: [[llm-models/2026-06-10_Harness1.md|Harness-1 concept page]] · [arXiv:2606.02373](https://arxiv.org/abs/2606.02373)
+- **Source**: [[concepts/llm-models/2026-06-10_Harness1.md|Harness-1 concept page]] · [arXiv:2606.02373](https://arxiv.org/abs/2606.02373)
 
 ---
 
@@ -95,9 +95,6 @@ Placeholder summary — please add a concise summary.
 
 ## Source Articles
 
-- [[2026-04-24_LLMLeaderboard_Comparisonofover100AImodelsfromOpen_article.md]]
-- [[2026-04-25_TheArchitectureofMachineLearningSystems_AComprehen_article.md]]
-- [[2026-05-05_Top7opensourceLLMsfor2026_summary.md]]
 - [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker]] — current one-stop shop and chronological model-release log
 
 ## Related navigation

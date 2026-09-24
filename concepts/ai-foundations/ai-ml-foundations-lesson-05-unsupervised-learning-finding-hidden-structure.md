@@ -28,7 +28,7 @@ Placeholder summary — please add a concise summary.
 
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-04-supervised-learning-learning-from-labels.md|Lesson 4: Supervised Learning: Learning from Labels]]
-- Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
+- Landing page: [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
 - Next: [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]
 
 
@@ -164,4 +164,4 @@ Answer these in your own words:
 - /home/rich/wiki/ai-research/raw/articles/2026-05-06_MachineLearningArchitecture_WhatItIs_Components_Ty.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-25_Architectures_for_Machine_Learning___Springer_Natu.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-29_Top_Machine_Learning_Architectures_Explained_-_BMC.md
-- /home/rich/wiki/ai-research/ai-ml-foundations-syllabus.md
+- concepts/ai-foundations/ai-ml-foundations-syllabus.md

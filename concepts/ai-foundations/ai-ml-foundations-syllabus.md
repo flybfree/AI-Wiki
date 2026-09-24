@@ -33,8 +33,8 @@ Course design principles:
 - [[concepts/ai-agents/ai-agents-syllabus.md|AI Agents Syllabus]] — 1 title term overlap; shared tags: syllabus; 1 backlink
 
 ## Start Here
-- [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
-- [[ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
+- [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
+- [[concepts/ai-foundations/ai-ml-foundations-syllabus.md|AI/ML Foundations Syllabus]]
 - [[ai-ml-foundations-lesson-01-ai-machine-learning-and-deep-learning.md|Lesson 1: AI, Machine Learning, and Deep Learning]]
 - [[ai-ml-foundations-lesson-02-how-an-ml-system-works.md|Lesson 2: How an ML System Works]]
 - [[ai-ml-foundations-lesson-06-neural-networks-the-core-building-blocks.md|Lesson 6: Neural Networks: The Core Building Blocks]]

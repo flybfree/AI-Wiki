@@ -29,7 +29,7 @@ Placeholder summary — please add a concise summary.
 
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-08-recurrent-networks-and-lstms.md|Lesson 8: Recurrent Networks and LSTMs]]
-- Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
+- Landing page: [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
 - Next: [[ai-ml-foundations-lesson-10-generative-ai-creating-new-content.md|Lesson 10: Generative AI: Creating New Content]]
 
 
@@ -171,4 +171,4 @@ Answer these in your own words:
 - /home/rich/wiki/ai-research/ilya-sutskever-reading-list-study-order.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-29_Top_Machine_Learning_Architectures_Explained_-_BMC.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-25_LLMs___10_Things_That_Matter_in_AI_Right_Now___MIT.md
-- /home/rich/wiki/ai-research/ai-ml-foundations-syllabus.md
+- concepts/ai-foundations/ai-ml-foundations-syllabus.md

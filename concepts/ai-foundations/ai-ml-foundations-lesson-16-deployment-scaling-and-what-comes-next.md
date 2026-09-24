@@ -30,8 +30,8 @@ Placeholder summary — please add a concise summary.
 
 ## Navigation
 - Previous: [[ai-ml-foundations-lesson-15-evaluation-overfitting-and-limits.md|Lesson 15: Evaluation, Overfitting, and Limits]]
-- Landing page: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
-- Next: [[ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
+- Landing page: [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
+- Next: [[concepts/ai-foundations/ai-ml-foundations-landing-page.md|AI/ML Foundations Landing Page]]
 
 
 Time budget: 90 to 120 minutes
@@ -220,4 +220,4 @@ Answer these in your own words:
 - /home/rich/wiki/ai-research/raw/papers/2026-05-06_gpipe_easy_scaling_with_micro_batch_pipeline_parallelism.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-25_LLMs___10_Things_That_Matter_in_AI_Right_Now___MIT.md
 - /home/rich/wiki/ai-research/raw/articles/2026-04-28_Generative_AI_-_Wikipedia.md
-- /home/rich/wiki/ai-research/ai-ml-foundations-syllabus.md
+- concepts/ai-foundations/ai-ml-foundations-syllabus.md

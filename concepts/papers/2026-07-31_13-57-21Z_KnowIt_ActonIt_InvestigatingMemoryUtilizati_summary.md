@@ -10,5 +10,5 @@ ERROR: all endpoints returned no content
 ERROR: all endpoints returned no content
 
 ## Semantic links
-- [[concepts/papers/2026-07-31_04-12-21Z_PersistentConvolution_ATopologicalFramework_20260803_0220_summary.md|Summary: 2026-07-31_04-12-21Z_PersistentConvolution_ATopologicalFrameworkforAIAl.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.27
-- [[concepts/papers/2026-07-31_04-12-21Z_PersistentConvolution_ATopologicalFramework_20260803_0237_summary.md|Summary: 2026-07-31_04-12-21Z_PersistentConvolution_ATopologicalFrameworkforAIAl.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.27
+- Summary: 2026-07-31_04-12-21Z_PersistentConvolution_ATopologicalFrameworkforAIAl.md — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.27
+- Summary: 2026-07-31_04-12-21Z_PersistentConvolution_ATopologicalFrameworkforAIAl.md — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.27

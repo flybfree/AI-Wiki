@@ -180,6 +180,6 @@ The frontier is now:
 ## Related Concepts
 
 - [[ai-safety/ai-safety-hub.md]]
-- [[../raw/papers/2026-07-28_02-09-26Z_Meta_LearnedRewardShapingforReinforcementLearningf.md]]
+- ../raw/papers/2026-07-28_02-09-26Z_Meta_LearnedRewardShapingforReinforcementLearningf.md
 - [[ai-safety/ai-safety-hub.md]]
 - [[alignment-safety/alignment-hub.md]]

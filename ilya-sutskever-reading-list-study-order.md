@@ -49,7 +49,6 @@ Start here to build the intuition behind why neural nets can learn and why gener
 These introduce sequence modeling, memory, and the core mechanics behind modern language modeling.
 
 1. The Unreasonable Effectiveness of Recurrent Neural Networks
-2. [[raw/papers/2026-05-06_understanding_lstm_networks.md|Understanding LSTM Networks]]
 3. Recurrent Neural Network Regularization
 4. Neural Turing Machines
 5. Deep Speech 2: End-to-End Speech Recognition in English and Mandarin
@@ -59,8 +58,6 @@ These introduce sequence modeling, memory, and the core mechanics behind modern 
 This block bridges classic encoder-decoder systems to attention and transformers.
 
 1. Neural Machine Translation by Jointly Learning to Align and Translate
-2. [[raw/papers/2026-05-06_pointer_networks.md|Pointer Networks]]
-3. [[raw/papers/2026-05-06_order_matters_sequence_to_sequence_for_sets.md|Order Matters: Sequence to sequence for sets]]
 4. Attention Is All You Need
 5. The Annotated Transformer
 
@@ -78,12 +75,10 @@ Read these together to understand the evolution of deep convolutional architectu
 1. ImageNet Classification with Deep Convolutional Neural Networks
 2. Deep Residual Learning for Image Recognition
 3. Identity Mappings in Deep Residual Networks
-4. [[raw/papers/2026-05-06_multi_scale_context_aggregation_by_dilated_convolutions.md|Multi-Scale Context Aggregation by Dilated Convolutions]]
 
 ## 6) Scaling systems and model parallelism
 Finish here for systems-level scaling and training at larger batch/model sizes.
 
-1. [[raw/papers/2026-05-06_gpipe_easy_scaling_with_micro_batch_pipeline_parallelism.md|GPipe: Easy Scaling with Micro-Batch Pipeline Parallelism]]
 2. Scaling Laws for Neural Language Models
 3. Deep Speech 2: End-to-End Speech Recognition in English and Mandarin
 
@@ -93,7 +88,6 @@ If you want the fastest high-signal path, read these first:
 1. The First Law of Complexodynamics
 2. A Tutorial Introduction to the Minimum Description Length Principle
 3. The Unreasonable Effectiveness of Recurrent Neural Networks
-4. [[raw/papers/2026-05-06_understanding_lstm_networks.md|Understanding LSTM Networks]]
 5. Neural Machine Translation by Jointly Learning to Align and Translate
 6. Attention Is All You Need
 7. Deep Residual Learning for Image Recognition

@@ -12,4 +12,4 @@ ERROR: all endpoints returned no content
 
 ## Semantic links
 - [[concepts/papers/2026-07-06_17-56-11Z_WhatDoesaDiscreteDiffusionModelLearn_summary.md|Summary: 2026-07-06_17-56-11Z_WhatDoesaDiscreteDiffusionModelLearn.md]] — 3 title terms overlap; 8 summary/topic terms overlap; semantic match 0.52
-- [[concepts/papers/2026-07-31_07-44-11Z_Multi_GranularityPositionEmbeddingofGraphsv_20260803_0524_summary.md|Summary: 2026-07-31_07-44-11Z_Multi_GranularityPositionEmbeddingofGraphsviaGranu.md]] — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.38
+- Summary: 2026-07-31_07-44-11Z_Multi_GranularityPositionEmbeddingofGraphsviaGranu.md — 3 title terms overlap; 7 summary/topic terms overlap; semantic match 0.38

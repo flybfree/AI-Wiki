@@ -9,8 +9,8 @@ Model: None
 The paper introduces SIFT (Self‑Improving, Frozen‑gate Training), a dynamic document classification system that eliminates the need for costly manual labeling by letting an inexpensive CPU pipeline learn from its own low‑confidence predictions. By routing uncertain pages to a lightweight language model judge and feeding those verdicts back into a labeled corpus, SIFT creates a self‑feeding loop that continuously improves accuracy without human intervention. The authors also address safety concerns with a two‑part promotion gate that prevents silent regression by checking critical‑label F1 scores and preserving a frozen reference set. This approach turns the traditionally risky practice of “retrain monthly without a human” into an automated, routine process.
 
 ## Semantic links
-- [[concepts/papers/2026-07-31_08-47-50Z_AuthorshipVerificationofTranscribedGerman_L_20260803_0517_summary.md|Summary: 2026-07-31_08-47-50Z_AuthorshipVerificationofTranscribedGerman_Language.md]] — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.09
-- [[concepts/papers/2026-07-31_08-47-50Z_AuthorshipVerificationofTranscribedGerman_L_20260803_0633_summary.md|Summary: 2026-07-31_08-47-50Z_AuthorshipVerificationofTranscribedGerman_Language.md]] — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.09
+- Summary: 2026-07-31_08-47-50Z_AuthorshipVerificationofTranscribedGerman_Language.md — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.09
+- Summary: 2026-07-31_08-47-50Z_AuthorshipVerificationofTranscribedGerman_Language.md — 4 title terms overlap; 5 summary/topic terms overlap; semantic match 0.09
 
 ## Key Contributions  
 - [Finding 1] SIFT decouples model architecture from labeling effort, using a cheap SPLADE encoder with a LightGBM head that only re‑trains when a low‑confidence page is flagged.  

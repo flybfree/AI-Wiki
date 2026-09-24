@@ -9,7 +9,7 @@ Model: None
 The paper proposes a strategy‑following multi‑agent deep reinforcement learning framework that allows human managers to issue control instructions to specific agents while others implicitly complete tasks, improving coordination beyond conventional methods. It extends prior work on controllability by enabling uninstructed agents to adaptively complement overlooked actions. The method aims to align learned coordination with human managerial intentions and reduce the need for uniform instruction delivery. Experimental results demonstrate that agents using this approach can dynamically shift cooperative structures and achieve higher performance.
 
 ## Semantic links
-- [[concepts/papers/2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningw_20260804_0021_summary.md|Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md]] — 4 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
+- Summary: 2026-08-02_18-15-49Z_Cluster_AwareOver_the_AirFederatedLearningwithEner.md — 4 title terms overlap; 8 backlinks; 10 summary/topic terms overlap
 
 ## Key Contributions  
 - [Finding 1] Introduces a strategy‑following framework where only selected agents receive explicit control instructions, reducing communication overhead.  
