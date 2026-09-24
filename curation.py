@@ -18,6 +18,15 @@ MIN_REVIEW_SCORE = 0.60
 CURATION_CONFIG_PATH = ROOT / "curation_config.yaml"
 DEFAULT_AUTO_KEEP_SCORE = 0.85
 
+DEFAULT_DURABLE_PATTERNS = {
+    "novel_method": r"architecture|method|training|pretrain|fine[- ]?tun|distill|scaling|reasoning|optimization|agent harness|harness design|orchestration",
+    "benchmark_or_evaluation": r"benchmark|evaluation|leaderboard|test[- ]?time|red[- ]?team|capability assessment",
+    "capability_or_failure_mode": r"capabilit|limitation|failure|robustness|hallucination|deception|misalign|sycophan|collusion|reliability",
+    "deployment_or_runtime": r"deploy|runtime|serving|inference|on[- ]?device|edge|quantiz|gguf|ollama|llama\.cpp|vllm|self[- ]?host|function calling",
+    "safety_or_governance": r"safety|security|alignment|oversight|governance|privacy|authorization|containment|risk",
+    "historically_significant": r"turing|transformer|attention is all you need|reinforcement learning from human feedback|rlhf",
+}
+
 # Explicit scope takes precedence over the learned profile.  The profile is
 # useful for ranking papers inside the user's interests, but it should not
 # widen the scope merely because a broad AI paper was previously kept.
@@ -48,8 +57,31 @@ APPLICATION_PATTERNS = (
 )
 
 
+def _policy() -> dict[str, Any]:
+    """Load the acceptance policy without making intake depend on YAML."""
+    if not CURATION_CONFIG_PATH.is_file():
+        return {}
+    try:
+        import yaml
+        value = yaml.safe_load(CURATION_CONFIG_PATH.read_text())
+        return value if isinstance(value, dict) else {}
+    except Exception:
+        return {}
+
+
+def _durable_signals(title: str, text: str, tags: list[str] | None = None) -> list[str]:
+    corpus = " ".join([title, " ".join(tags or []), text[:8000]])
+    configured = _policy().get("durable_value", {}).get("signals", [])
+    names = configured if isinstance(configured, list) else []
+    patterns = {name: DEFAULT_DURABLE_PATTERNS[name] for name in names if name in DEFAULT_DURABLE_PATTERNS}
+    if not patterns:
+        patterns = DEFAULT_DURABLE_PATTERNS
+    return sorted(name for name, pattern in patterns.items() if re.search(pattern, corpus, re.IGNORECASE))
+
+
 def explicit_interest(title: str, text: str, tags: list[str] | None = None) -> dict[str, Any]:
-    """Score only the user's declared interests, independently of learning."""
+    """Apply the explicit AI-interest and durable-value acceptance gates."""
+    policy = _policy()
     title_hits = {
         name for name, pattern in INTEREST_PATTERNS.items()
         if re.search(pattern, title, re.IGNORECASE)
@@ -59,21 +91,35 @@ def explicit_interest(title: str, text: str, tags: list[str] | None = None) -> d
         name for name, pattern in INTEREST_PATTERNS.items()
         if re.search(pattern, body, re.IGNORECASE)
     }
-    # Do not confuse an LLM-powered domain application with research about
-    # models. Other declared interests remain sufficient for applied papers.
-    if (
-        re.search(APPLICATION_PATTERNS, title, re.IGNORECASE)
-        and title_hits <= {"model_release", "frontier_model"}
-    ):
+    application_hit = bool(re.search(APPLICATION_PATTERNS, title, re.IGNORECASE))
+    if application_hit and title_hits <= {"model_release", "frontier_model"}:
         title_hits -= {"model_release", "frontier_model"}
-    # A title hit is strong evidence.  Body-only matches need two distinct
-    # interest areas so generic mentions of "AI" or "evaluation" do not pass.
-    relevant = bool(title_hits) or len(body_hits) >= 2
+    minimum_body_hits = int(
+        policy.get("explicit_interest_gate", {}).get("body_only_minimum_independent_signals", 2)
+    )
+    relevant = bool(title_hits) or len(body_hits) >= minimum_body_hits
+    application_minimum = int(
+        policy.get("ambiguous_application", {}).get("require_independent_signals", 2)
+    )
+    if application_hit and not title_hits:
+        relevant = len(body_hits) >= application_minimum
+    durable_signals = _durable_signals(title, text, tags)
+    durable_required = bool(policy.get("durable_value", {}).get("required", True))
+    minimum_durable = int(policy.get("durable_value", {}).get("minimum_signals", 1))
+    durable = len(durable_signals) >= minimum_durable if durable_required else True
     score = min(0.99, 0.55 + 0.18 * len(title_hits) + 0.10 * len(body_hits))
     if not relevant:
         score = min(score, 0.20)
-    return {"score": round(score, 3), "relevant": relevant,
-            "title_hits": sorted(title_hits), "body_hits": sorted(body_hits)}
+    return {
+        "score": round(score, 3),
+        "relevant": relevant,
+        "durable": durable,
+        "accepted": relevant and durable,
+        "title_hits": sorted(title_hits),
+        "body_hits": sorted(body_hits),
+        "durable_signals": durable_signals,
+        "application_hit": application_hit,
+    }
 
 
 def _db() -> sqlite3.Connection:
@@ -388,7 +434,7 @@ def auto_keep_summary(path: str) -> dict[str, Any] | None:
     item = candidate(target)
     evidence = _interest_evidence(item)
     score = score_text(evidence["title"], evidence["text"], item["tags"])
-    if not evidence["relevant"] or score < config["score_threshold"]:
+    if not evidence["accepted"] or not item.get("source") or score < config["score_threshold"]:
         return None
     result = record_decision(
         path,
@@ -416,14 +462,18 @@ def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -
             evidence = _interest_evidence(item)
             item["interest"] = {
                 "relevant": evidence["relevant"],
+                "durable": evidence["durable"],
+                "accepted": evidence["accepted"],
                 "title_hits": evidence["title_hits"],
                 "body_hits": evidence["body_hits"],
+                "durable_signals": evidence["durable_signals"],
+                "application_hit": evidence["application_hit"],
             }
             item["title"] = evidence["title"]
             item["score"] = _score_with_title(
                 evidence["title"], evidence["text"], item["tags"], profile
             )
-            if not evidence["relevant"] or item["score"] < MIN_REVIEW_SCORE:
+            if not evidence["accepted"] or not item.get("source") or item["score"] < MIN_REVIEW_SCORE:
                 continue
         else:
             item["score"] = _score_with_title(item["title"], item["preview"], item["tags"], profile)

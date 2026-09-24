@@ -1,5 +1,59 @@
-# Unattended paper promotion policy.  The dashboard remains available for
-# manual keep/reject/skip decisions for everything below this threshold.
+# Paper acceptance and unattended-promotion policy.
+# The dashboard remains available for manual keep/reject/skip decisions
+# for candidates that do not clear the automatic threshold.
+
+explicit_interest_gate:
+  required: true
+  title_hit_is_sufficient: true
+  body_only_minimum_independent_signals: 2
+  domains:
+    - models
+    - agents
+    - evaluation
+    - open_weights
+    - local_inference
+    - multimodal
+    - safety
+    - infrastructure
+
+ambiguous_application:
+  require_independent_signals: 2
+  examples:
+    - clinical
+    - finance
+    - robotics
+    - education
+    - recommendation
+    - industrial
+
+# A durable wiki paper must contribute at least one reusable research signal.
+durable_value:
+  required: true
+  minimum_signals: 1
+  signals:
+    - novel_method
+    - benchmark_or_evaluation
+    - capability_or_failure_mode
+    - deployment_or_runtime
+    - safety_or_governance
+    - historically_significant
+
+# Daily-brief inclusion can be provisional, but still requires a verified source.
+briefing:
+  provisional_relevance_allowed: true
+  require_source: true
+  require_evidence_label: true
+
+decisions:
+  - keep
+  - defer
+  - exclude
+
+preserve_historical_keeps: true
+
 auto_keep:
   enabled: true
   score_threshold: 0.85
+  require_explicit_interest: true
+  require_durable_value: true
+  require_source: true
