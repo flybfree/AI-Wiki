@@ -2898,3 +2898,4 @@ tags: ['wiki']
 - [[2026-09-25_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-25_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
 - [[2026-09-25_CVE-2025-13032_EnteringandBreakingtheAvastAntiviru.md]] : CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2
+- [[2026-09-25_MicrosoftthinksitsnewCopilot_superapp_willbeasinfl.md]] : Microsoft thinks its new Copilot ‘super app’ will be as influential as Office
