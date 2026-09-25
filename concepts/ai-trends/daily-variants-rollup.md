@@ -44,6 +44,8 @@ Use this page as the stable landing zone for daily variants:
 4. If a source starts covering a different topic family, split it into a separate concept page.
 
 ## Related Pages
+- [Summary: Daily AI Intelligence Briefing — 2026-09-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md)
+- [Summary: Daily AI Intelligence Briefing — 2026-09-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-24.md)
 - [Summary: Daily AI Intelligence Briefing — 2026-09-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md) — canonical final; three previously approved research papers carried forward
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]]
 

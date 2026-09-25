@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-22
+> Last updated: 2026-09-25
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -117,6 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [Summary: Daily AI Intelligence Briefing — 2026-09-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md) — staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, practical adoption, and deferred paper curation
 - [Summary: Daily AI Intelligence Briefing — 2026-09-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-24.md) — instrumental cyber behavior in ordinary retrieval, containment operations, staged open weights, verifiable specialist RL, consumer agents, AI-for-science, practical adoption, and 11 curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md) — cheaper agent economics, containment and embedded evaluation, staged open weights, AI-for-science, consumer agents, AI-biotech translation, governance, practical AI training, and three approved research-paper carry-forwards
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]] — RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, agentic commerce, and the Meta Muse runtime disclosure
@@ -2896,3 +2897,4 @@ tags: ['wiki']
 - [[2026-09-25_Trump-XiSummit_Perception_NotCapability_MayDriveAI.md]] : Trump-Xi Summit: Perception, Not Capability, May Drive AI -Bioweapons Risks
 - [[2026-09-25_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-25_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
+- [[2026-09-25_CVE-2025-13032_EnteringandBreakingtheAvastAntiviru.md]] : CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2
