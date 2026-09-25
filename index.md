@@ -2888,3 +2888,11 @@ tags: ['wiki']
 - [[2026-09-24_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
 - [[2026-09-24_Gemini3_8LivewithLiveAvatargivesGoogle__8217_sAIaf.md]] : Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face
 - [[2026-09-24_Trump-XiSummit_Perception_NotCapability_MayDriveAI.md]] : Trump-Xi Summit: Perception, Not Capability, May Drive AI -Bioweapons Risks
+- [[2026-09-25_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-25_TwoyearsofOpenAIAcademy.md]] : Two years of OpenAI Academy
+- [[2026-09-25_Bringyourco-founder_partner_orcolleagueandget50_of.md]] : Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass
+- [[2026-09-25_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-09-25_Gemini3_8LivewithLiveAvatargivesGoogle__8217_sAIaf.md]] : Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face
+- [[2026-09-25_Trump-XiSummit_Perception_NotCapability_MayDriveAI.md]] : Trump-Xi Summit: Perception, Not Capability, May Drive AI -Bioweapons Risks
+- [[2026-09-25_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-25_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
