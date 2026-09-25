@@ -35,3 +35,6 @@ This research shifts the paradigm of agent engineering from "building better too
 - **Long-horizon Planning:** The ability of an agent to maintain a goal over many steps.
 - **Self-Improvement:** The capacity for an agent to refine its own strategies based on feedback.
 - **Language Primitives:** Fundamental building blocks used to construct complex logic.
+
+## Original Paper Reference
+- **Source:** [Original Paper](https://arxiv.org/abs/2609.26891)

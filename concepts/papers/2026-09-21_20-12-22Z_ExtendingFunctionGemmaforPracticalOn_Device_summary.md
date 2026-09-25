@@ -34,3 +34,6 @@ This research is significant because it proves that high-quality, private, and l
 - Privacy-Preserving AI
 - Model Generalization vs. Specialization
 - Android System Actions
+
+## Original Paper Reference
+- **Source:** [Original Paper](https://arxiv.org/abs/2609.25373)

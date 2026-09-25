@@ -30,3 +30,6 @@ This work proves that recursive self-improvement can sustain long-term progress 
 - Generalization to out-of-distribution tasks
 - Hidden evaluation metrics
 - Diminishing returns in R&D
+
+## Original Paper Reference
+- **Source:** [Original Paper](https://arxiv.org/abs/2609.26457)

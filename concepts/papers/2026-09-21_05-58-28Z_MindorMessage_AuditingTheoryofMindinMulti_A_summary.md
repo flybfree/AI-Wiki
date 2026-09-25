@@ -36,3 +36,6 @@ This research is significant because it exposes a fundamental limitation in curr
 - **Egocentric Projection:** The tendency to interpret others' actions or thoughts based on one's own internal state rather than objective evidence.
 - **Multi-Agent Social Simulation:** Using AI agents to model human-like interactions to study social dynamics, economics, and cooperation.
 - **Counterfactual Probing:** A method of testing a system by changing specific variables while keeping all other conditions constant to isolate the cause of a behavior.
+
+## Original Paper Reference
+- **Source:** [Original Paper](https://arxiv.org/abs/2609.24146)

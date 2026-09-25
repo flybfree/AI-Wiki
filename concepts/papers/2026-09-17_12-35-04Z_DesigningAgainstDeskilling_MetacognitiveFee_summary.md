@@ -34,3 +34,6 @@ This research is significant because it addresses a major hurdle in the adoption
 - **Deskilling:** The loss of human proficiency and autonomy resulting from the automation of tasks by machines.
 - **Metacognition:** Awareness and understanding of one's own thought processes; in this context, it refers to making the user aware of their reliance on tools.
 - **Practice Opportunity:** The specific instances where a person must exert mental effort to improve a skill or retain information.
+
+## Original Paper Reference
+- **Source:** [Original Paper](https://arxiv.org/abs/2609.20143)

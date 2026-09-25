@@ -40,3 +40,6 @@ This research marks a shift from "multimodal perception" (simple recognition) to
 *   **Context Window Scaling**
 *   **Real-time Orchestration**
 *   **Sub-agent Delegation**
+
+## Original Paper Reference
+- **Source:** [Original Paper](https://arxiv.org/abs/2609.25611)

@@ -37,3 +37,6 @@ This research is significant because it moves the field away from "black box" ev
 *   **Action Space:** The set of available tools or commands (e.g., specific APIs vs. raw bash) that an agent can use.
 *   **Long-horizon Tasks:** Complex software engineering problems that require many sequential steps and state maintenance.
 *   **Context Overflow:** A failure mode where the model loses track of information because the input exceeds its memory capacity.
+
+## Original Paper Reference
+- **Source:** [Original Paper](https://arxiv.org/abs/2609.20804)

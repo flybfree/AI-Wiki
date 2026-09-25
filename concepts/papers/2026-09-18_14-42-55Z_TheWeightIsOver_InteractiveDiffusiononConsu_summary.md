@@ -31,3 +31,6 @@ This research is significant because it bridges the gap between high-end AI rese
 - GPU Hardware Constraints
 - Model Quantization
 - Interactive Image Editing
+
+## Original Paper Reference
+- **Source:** [Original Paper](https://arxiv.org/abs/2609.21849)

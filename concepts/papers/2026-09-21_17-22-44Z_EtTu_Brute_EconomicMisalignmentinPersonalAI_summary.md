@@ -30,3 +30,6 @@ This research is significant because it highlights a fundamental flaw in "person
 - Privacy-Preserving Machine Learning
 - Contextual Inference
 - Human-AI Interaction (HAI)
+
+## Original Paper Reference
+- **Source:** [Original Paper](https://arxiv.org/abs/2609.24927)
