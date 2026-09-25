@@ -2906,3 +2906,6 @@ tags: ['wiki']
 - [[2026-09-25_MetaisputtingitsmusclebehindMuseastheAIapptakesoff.md]] : Meta is putting its muscle behind Muse as the AI app takes off
 - [[2026-09-25_SonyandUMGaresuingSunoagain.md]] : Sony and UMG are suing Suno again
 - [[2026-09-25_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
+- [[2026-09-25_MetamakestheMusefilesystemevenmoreaccessible.md]] : Meta makes the Muse filesystem even more accessible
+- [[2026-09-25_U_S_appealscourtupholdsdesignationofAnthropicassup.md]] : U.S. appeals court upholds designation of Anthropic as supply chain risk
+- [[2026-09-25_SomeSupabasecustomersarepubliclyexposingreamsofpeo.md]] : Some Supabase customers are publicly exposing reams of people’s data to the web
