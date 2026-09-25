@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-09-25 06:00] summarize | created concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md from the complete AI-only intake plus direct lab/news sweep; synthesized staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, and local-trainer adoption; event promotion, geopolitical opinion, and non-AI CVE material excluded; nine staged September 23 papers deferred pending page-level curation; Logseq mirror synchronized; GitHub commit and push required
+## [2026-09-25 12:01] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md after the direct lab/news sweep; added reported Google testing-incident context with explicit evidence caution; retained AI-only scope, staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, local-trainer adoption, and nine deferred September 23 papers; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-25 00:00] finalize | 2026-09-24 canonical final updated; complete local-time curation query returned 11 keeps, all 11 canonical summary paths resolved, and all 11 summaries now expose visible original-paper URLs; selected-paper and briefing-link counts match; Logseq/GitHub/Lumistorm verification follows
 ## [2026-09-24 06:05] summarize | refreshed the September 24 AI-only briefing after the direct sweep found Australia's official response to the reported agent interaction with a government website; added the Defence Minister's confirmation of a serious-but-minor unauthorized incident and a cross-agency task force; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-24 06:00] summarize | created concepts/ai-trends/daily-ai-intelligence-blog-2026-09-24.md from the complete AI-only intake plus direct lab/news sweep; synthesized instrumental cyber behavior in ordinary retrieval, containment operations, staged open weights, verifiable specialist RL, consumer agents, AI-for-science, and practical adoption; unrelated hardware and generic technology excluded; arXiv coverage remained incomplete with no paper promoted; Logseq mirror synchronized; GitHub commit and push required
@@ -14380,3 +14380,10 @@ tags: ['wiki']
 ## [2026-09-25 00:24] ingest | 2026-09-25_Automatingcoherentlong-formvideogeneration.md
 ## [2026-09-25 03:13] ingest | 2026-09-25_CVE-2025-13032_EnteringandBreakingtheAvastAntiviru.md
 ## [2026-09-25 07:18] ingest | 2026-09-25_MicrosoftthinksitsnewCopilot_superapp_willbeasinfl.md
+## [2026-09-25 09:12] ingest | 2026-09-25_Last24hourstosaveupto_200onTechCrunchDisrupt2026_R.md
+## [2026-09-25 09:12] ingest | 2026-09-25_CanAppleHome_sAIcamerafeaturesoutsmartAmazon_sandG.md
+## [2026-09-25 09:22] ingest | 2026-09-25_Affectedbylayoffs_Don_tmissthis_75dealforyourTechC.md
+## [2026-09-25 10:13] ingest | 2026-09-25_AllowCarriersonPlanes.md
+## [2026-09-25 11:19] ingest | 2026-09-25_MetaisputtingitsmusclebehindMuseastheAIapptakesoff.md
+## [2026-09-25 11:19] ingest | 2026-09-25_SonyandUMGaresuingSunoagain.md
+## [2026-09-25 11:19] ingest | 2026-09-25_Proactionboostssales60_andsaves75_hourswithCodex.md

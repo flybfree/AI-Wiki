@@ -2899,3 +2899,10 @@ tags: ['wiki']
 - [[2026-09-25_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
 - [[2026-09-25_CVE-2025-13032_EnteringandBreakingtheAvastAntiviru.md]] : CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2
 - [[2026-09-25_MicrosoftthinksitsnewCopilot_superapp_willbeasinfl.md]] : Microsoft thinks its new Copilot ‘super app’ will be as influential as Office
+- [[2026-09-25_Last24hourstosaveupto_200onTechCrunchDisrupt2026_R.md]] : Last 24 hours to save up to $200 on TechCrunch Disrupt 2026. Reason 5/5 to attend: Leave further ahead.
+- [[2026-09-25_CanAppleHome_sAIcamerafeaturesoutsmartAmazon_sandG.md]] : Can Apple Home’s AI camera features outsmart Amazon’s and Google’s? I put them to the test
+- [[2026-09-25_Affectedbylayoffs_Don_tmissthis_75dealforyourTechC.md]] : Affected by layoffs? Don’t miss this $75 deal for your TechCrunch Disrupt 2026 Expo+ Pass
+- [[2026-09-25_AllowCarriersonPlanes.md]] : Allow Carriers on Planes
+- [[2026-09-25_MetaisputtingitsmusclebehindMuseastheAIapptakesoff.md]] : Meta is putting its muscle behind Muse as the AI app takes off
+- [[2026-09-25_SonyandUMGaresuingSunoagain.md]] : Sony and UMG are suing Suno again
+- [[2026-09-25_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
