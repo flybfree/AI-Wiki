@@ -14415,3 +14415,4 @@ tags: ['wiki']
 ## [2026-09-26 06:17] ingest | 2026-09-26_Fifteenyearslater_theAppleCardsoriginstory.md
 ## [2026-09-26 07:17] ingest | 2026-09-26_BreakingUpwithGooglePlay_WhyConversationsIsNowFree.md
 ## [2026-09-26 09:18] ingest | 2026-09-26_Icreatedaninteractivedigitalavatarofmyself_andyouc.md
+## [2026-09-26 13:15] ingest | 2026-09-26_OpenAIpausestrainingofits_mostcapablemodels_.md

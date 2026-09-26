@@ -2931,3 +2931,4 @@ tags: ['wiki']
 - [[2026-09-26_Fifteenyearslater_theAppleCardsoriginstory.md]] : Fifteen years later, the Apple Cards origin story
 - [[2026-09-26_BreakingUpwithGooglePlay_WhyConversationsIsNowFree.md]] : Breaking Up with Google Play: Why Conversations Is Now Free
 - [[2026-09-26_Icreatedaninteractivedigitalavatarofmyself_andyouc.md]] : I created an interactive digital avatar of myself — and you can talk to it
+- [[2026-09-26_OpenAIpausestrainingofits_mostcapablemodels_.md]] : OpenAI pauses training of its ‘most capable models’
