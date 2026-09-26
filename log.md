@@ -14411,3 +14411,5 @@ tags: ['wiki']
 ## [2026-09-26 00:14] ingest | 2026-09-26_ASafePathtoOpenWeights.md
 ## [2026-09-26 01:12] stage-paper | 2026-09-24_08-02-48Z_ASIRF_AnAgenticFrameworkforContext_DependentSensit.md
 ## [2026-09-26 05:13] ingest | 2026-09-26_HowtokeepenjoyingprogramminginaworldofLLMs.md
+## [2026-09-26 06:17] ingest | 2026-09-26_Fifteenyearslater_theAppleCardsoriginstory.md
+## [2026-09-26 07:17] ingest | 2026-09-26_BreakingUpwithGooglePlay_WhyConversationsIsNowFree.md

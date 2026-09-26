@@ -2928,3 +2928,5 @@ tags: ['wiki']
 - [[2026-09-26_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
 - [[2026-09-26_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-26_HowtokeepenjoyingprogramminginaworldofLLMs.md]] : How to keep enjoying programming in a world of LLMs
+- [[2026-09-26_Fifteenyearslater_theAppleCardsoriginstory.md]] : Fifteen years later, the Apple Cards origin story
+- [[2026-09-26_BreakingUpwithGooglePlay_WhyConversationsIsNowFree.md]] : Breaking Up with Google Play: Why Conversations Is Now Free
