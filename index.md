@@ -2932,3 +2932,5 @@ tags: ['wiki']
 - [[2026-09-26_BreakingUpwithGooglePlay_WhyConversationsIsNowFree.md]] : Breaking Up with Google Play: Why Conversations Is Now Free
 - [[2026-09-26_Icreatedaninteractivedigitalavatarofmyself_andyouc.md]] : I created an interactive digital avatar of myself — and you can talk to it
 - [[2026-09-26_OpenAIpausestrainingofits_mostcapablemodels_.md]] : OpenAI pauses training of its ‘most capable models’
+- [[2026-09-26_PipePipe_NewPipehardforkimplementingSponsorBlock.md]] : PipePipe: NewPipe hard fork implementing SponsorBlock
+- [[2026-09-26_InsurersclaimAIisalreadyincreasinghealthcarecosts.md]] : Insurers claim AI is already increasing healthcare costs
