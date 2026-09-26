@@ -2917,3 +2917,12 @@ tags: ['wiki']
 - [[2026-09-25_RevealingthedetailsofhowOpenAIagentshackedHuggingF.md]] : Revealing the details of how OpenAI agents hacked Hugging Face
 - [[2026-09-25_WhatifAIdoomsayingis_ineffect_commonsense_-AFR.md]] : What if AI doom saying is, in effect, common sense? - AFR
 - [[2026-09-25_AtMetaConnect_thecompany_ssmartglasseswereeverywhe.md]] : At Meta Connect, the company’s smart glasses were everywhere
+- [[2026-09-26_RevealingthedetailsofhowOpenAIagentshackedHuggingF.md]] : Revealing the details of how OpenAI agents hacked Hugging Face
+- [[2026-09-26_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
+- [[2026-09-26_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-09-26_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-26_MetamakestheMusefilesystemevenmoreaccessible.md]] : Meta makes the Muse filesystem even more accessible
+- [[2026-09-26_AtMetaConnect_thecompany_ssmartglasseswereeverywhe.md]] : At Meta Connect, the company’s smart glasses were everywhere
+- [[2026-09-26_WhatifAIdoomsayingis_ineffect_commonsense_-AFR.md]] : What if AI doom saying is, in effect, common sense? - AFR
+- [[2026-09-26_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
+- [[2026-09-26_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
