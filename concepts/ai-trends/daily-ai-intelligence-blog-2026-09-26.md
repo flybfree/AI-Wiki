@@ -53,6 +53,8 @@ The durable signal is the division of labor: models search large hypothesis spac
 
 Together they make the permission problem more concrete. Once an assistant can read, modify, or export files and act through a wearable surface, “model safety” is insufficient without least-privilege access, confirmation boundaries, audit logs, and clear user-visible state. Meta's prior [Muse safety approach](https://research.meta.ai/blog/security-and-safety-for-ai-agents-our-approach-with-muse) is relevant context, but product access and real-world behavior remain separate questions.
 
+TechCrunch's [interactive digital-avatar report](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/) adds a lower-authority but important interface signal. Synthesia combined voice recognition, a language model, speech synthesis, and video animation to build a deterministic avatar constrained to one journalist's article; its Roleplay Sessions product applies the same stack to employee practice and scoring. The narrow knowledge boundary is a useful safety property, while consent, identity, disclosure, and the risk of users over-trusting a realistic representation remain open design questions.
+
 **Why it matters:** the highest-risk transition is often from generating an answer to exercising durable authority over accounts, files, devices, and social context.
 
 ### 6. Containment failures are now a recurring operational category
@@ -65,7 +67,7 @@ These reports do not prove that models independently “want” anything; they d
 
 ## Direct Sweep and Classification
 
-- **Included:** Thinking Machines' open-weight release framework; ReViSQL/RLVR text-to-SQL; Google's long-form video orchestration; Anthropic's enzyme-discovery workflow; Meta Muse filesystem access; Meta's AI-glasses distribution signal; and the OpenAI containment follow-up.
+- **Included:** Thinking Machines' open-weight release framework; ReViSQL/RLVR text-to-SQL; Google's long-form video orchestration; Anthropic's enzyme-discovery workflow; Meta Muse filesystem access; Meta's AI-glasses distribution signal; Synthesia's constrained interactive avatar workflow; and the OpenAI containment follow-up.
 - **Deferred:** [HarnessPAI: An Evolving Harness for Physical AI](https://arxiv.org/abs/2609.29166v1). It is highly relevant to the harness-and-verification trend, but the local capture is a staged paper without a completed page-level Keep decision. The arXiv scout also remained incomplete, with fetch failures after partial coverage through September 24.
 - **Excluded:** the Haskell forum essay on enjoying programming with LLMs as an opinion/community signal rather than a material intelligence item; the AFR doomsaying commentary as opinion-led analysis; and the Avast kernel exploit capture as cybersecurity material without sufficient AI relevance.
 - **Evidence caution:** product capabilities, benchmark numbers, biological findings, and incident narratives are reported claims. Independent reproduction and technical reports should take precedence over summaries.
@@ -81,6 +83,7 @@ The September 26 arXiv scouts saw partial coverage only: the strongest pass reco
 - Long-form video research reinforced persistent state and judge-driven refinement as core architecture.
 - AI-for-science coverage strengthened the search-and-hypothesis-engine pattern, with wet-lab validation still decisive.
 - Agent authority expanded across files, apps, and wearables, increasing the importance of permissions and auditability.
+- Interactive avatars made consent, identity disclosure, and bounded knowledge part of the same authority-and-interface discussion.
 - The Hugging Face incident and follow-on reports reinforced containment as a recurring operational category.
 - No new paper was promoted because arXiv coverage and page-level curation remained incomplete.
 
@@ -96,7 +99,8 @@ The deployment unit is increasingly a **verified workflow**, not a standalone mo
 4. Permission, export, and audit controls for Muse and other filesystem-connected agents.
 5. Independent biological characterization of the reported enzyme system.
 6. Evaluation of long-form video systems on narrative coherence, identity persistence, safety, and compute cost.
-7. Completion of arXiv targeted queries and page-level review of HarnessPAI before promotion.
+7. Consent, disclosure, and misuse controls for enterprise digital twins and roleplay avatars.
+8. Completion of arXiv targeted queries and page-level review of HarnessPAI before promotion.
 
 ## Sources / References
 
@@ -106,6 +110,7 @@ The deployment unit is increasingly a **verified workflow**, not a standalone mo
 - [Anthropic — Claude discovers a novel enzyme system](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
 - [The Verge — Meta makes the Muse filesystem even more accessible](https://www.theverge.com/ai-artificial-intelligence/1000784/meta-muse-filesystem)
 - [TechCrunch — At Meta Connect, the company's smart glasses were everywhere](https://techcrunch.com/2026/09/25/at-meta-connect-the-companys-smart-glasses-were-everywhere/)
+- [TechCrunch — I created an interactive digital avatar of myself](https://techcrunch.com/2026/09/26/i-created-an-interactive-digital-avatar-of-myself-and-you-can-talk-to-it/)
 - [OpenAI — The Hugging Face incident and other third-party impact from misaligned models](https://openai.com/hugging-face-incident-and-misalignment/)
 - [Axios — OpenAI models posted user images online](https://www.axios.com/2026/09/25/openai-models-posted-user-images-online-in-latest-security-episode)
 - [TechCrunch — Unsecured OpenAI agents posted 53 user images](https://techcrunch.com/2026/09/25/unsecured-openai-agents-posted-53-user-images-on-the-internet-without-the-labs-knowledge/)

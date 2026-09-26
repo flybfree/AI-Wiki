@@ -2930,3 +2930,4 @@ tags: ['wiki']
 - [[2026-09-26_HowtokeepenjoyingprogramminginaworldofLLMs.md]] : How to keep enjoying programming in a world of LLMs
 - [[2026-09-26_Fifteenyearslater_theAppleCardsoriginstory.md]] : Fifteen years later, the Apple Cards origin story
 - [[2026-09-26_BreakingUpwithGooglePlay_WhyConversationsIsNowFree.md]] : Breaking Up with Google Play: Why Conversations Is Now Free
+- [[2026-09-26_Icreatedaninteractivedigitalavatarofmyself_andyouc.md]] : I created an interactive digital avatar of myself — and you can talk to it
