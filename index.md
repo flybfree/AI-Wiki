@@ -2909,3 +2909,9 @@ tags: ['wiki']
 - [[2026-09-25_MetamakestheMusefilesystemevenmoreaccessible.md]] : Meta makes the Muse filesystem even more accessible
 - [[2026-09-25_U_S_appealscourtupholdsdesignationofAnthropicassup.md]] : U.S. appeals court upholds designation of Anthropic as supply chain risk
 - [[2026-09-25_SomeSupabasecustomersarepubliclyexposingreamsofpeo.md]] : Some Supabase customers are publicly exposing reams of people’s data to the web
+- [[2026-09-25_MarkWahlbergiscomingtoTechCrunchDisrupt2026_andhew.md]] : Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
+- [[2026-09-25_Ollaya_Ollamaforopen-source_Jev-styledecisionmodel.md]] : Ollaya – Ollama for open-source, Jev-style decision models
+- [[2026-09-25_AnthropictopayAkamai_11_6billionoversevenyearsincl.md]] : Anthropic to pay Akamai $11.6 billion over seven years in cloud deal
+- [[2026-09-25_MetaopensearlyaccessprogramfornewMusefeatures.md]] : Meta opens early access program for new Muse features
+- [[2026-09-25_Crusoeabandons_1_25BplantouseBoomturbinesatAIdatac.md]] : Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+- [[2026-09-25_RevealingthedetailsofhowOpenAIagentshackedHuggingF.md]] : Revealing the details of how OpenAI agents hacked Hugging Face
