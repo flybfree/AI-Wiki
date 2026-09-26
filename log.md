@@ -5,6 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-26 06:00] summarize | created concepts/ai-trends/daily-ai-intelligence-blog-2026-09-26.md from the complete AI-only intake plus direct lab/news sweep; synthesized staged open-weight release, verifiable task expertise, long-horizon video orchestration, AI-for-science, agent authority, and containment incidents; excluded opinion, generic cybersecurity, and low-signal community captures; HarnessPAI deferred because page-level curation and arXiv coverage remain incomplete; Logseq mirror and GitHub push required
 ## [2026-09-26 00:00] finalize | 2026-09-25 canonical final updated; complete local-time curation query returned 1 keep, normalized to 1 existing canonical summary already covered by the September 24 briefing; briefing link count and curation count both 1; Logseq mirror synchronized; GitHub push and Lumistorm publication verification follow
 ## [2026-09-25 12:01] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md after the direct lab/news sweep; added reported Google testing-incident context with explicit evidence caution; retained AI-only scope, staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, local-trainer adoption, and nine deferred September 23 papers; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-25 00:00] finalize | 2026-09-24 canonical final updated; complete local-time curation query returned 11 keeps, all 11 canonical summary paths resolved, and all 11 summaries now expose visible original-paper URLs; selected-paper and briefing-link counts match; Logseq/GitHub/Lumistorm verification follows
@@ -14409,3 +14410,4 @@ tags: ['wiki']
 ## [2026-09-26 00:14] ingest | 2026-09-26_Proactionboostssales60_andsaves75_hourswithCodex.md
 ## [2026-09-26 00:14] ingest | 2026-09-26_ASafePathtoOpenWeights.md
 ## [2026-09-26 01:12] stage-paper | 2026-09-24_08-02-48Z_ASIRF_AnAgenticFrameworkforContext_DependentSensit.md
+## [2026-09-26 05:13] ingest | 2026-09-26_HowtokeepenjoyingprogramminginaworldofLLMs.md

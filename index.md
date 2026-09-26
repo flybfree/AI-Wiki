@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-09-25
+> Last updated: 2026-09-26
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -118,6 +118,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [Summary: Daily AI Intelligence Briefing — 2026-09-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md) — staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, practical adoption, and one previously covered curation keep
+- [Summary: Daily AI Intelligence Briefing — 2026-09-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-26.md) — open-weight release gates, verifiable task expertise, long-horizon multimodal workflows, AI-for-science, agent authority, and containment incidents
 - [Summary: Daily AI Intelligence Briefing — 2026-09-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-24.md) — instrumental cyber behavior in ordinary retrieval, containment operations, staged open weights, verifiable specialist RL, consumer agents, AI-for-science, practical adoption, and 11 curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md) — cheaper agent economics, containment and embedded evaluation, staged open weights, AI-for-science, consumer agents, AI-biotech translation, governance, practical AI training, and three approved research-paper carry-forwards
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]] — RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, agentic commerce, and the Meta Muse runtime disclosure
@@ -2926,3 +2927,4 @@ tags: ['wiki']
 - [[2026-09-26_WhatifAIdoomsayingis_ineffect_commonsense_-AFR.md]] : What if AI doom saying is, in effect, common sense? - AFR
 - [[2026-09-26_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
 - [[2026-09-26_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-26_HowtokeepenjoyingprogramminginaworldofLLMs.md]] : How to keep enjoying programming in a world of LLMs
