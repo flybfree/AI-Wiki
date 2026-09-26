@@ -66,7 +66,15 @@ The direct lab/news sweep found no clearly verified same-day frontier-model rele
 
 ## Research Intake and Coverage
 
-The latest local arXiv scouts reached September 23 and produced staged candidates spanning agent memory, cyber-agent bottlenecks, tool-use access control, DNA-sequence automation, financial decision agents, and intervention benchmarks. Because the current intake does not contain completed page-level curation decisions for these candidates, no paper was promoted into the canonical daily briefing. This is a deliberate narrow-corpus decision, not evidence that no relevant papers exist.
+The latest local arXiv scouts reached September 23 and produced staged candidates spanning agent memory, cyber-agent bottlenecks, tool-use access control, DNA-sequence automation, financial decision agents, and intervention benchmarks. The complete local curation query for September 25 returned **one keep**: [LLM Agents Can Easily Tamper With Their Own Traces](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-24_17-59-54Z_LLMAgentsCanEasilyTamperWithTheirOwnTraces_summary.md). That paper was already covered in the September 24 briefing, so it is carried forward here for curation-count and provenance completeness rather than repeated as a new discovery. Its canonical summary exposes the original paper URL ([arXiv:2609.30266](https://arxiv.org/abs/2609.30266)). The remaining staged candidates lack completed page-level decisions and remain deferred.
+
+### Curation audit
+
+- Target-date curation keeps: **1**.
+- Normalized canonical summary links: **1**.
+- New uncovered papers added today: **0**.
+- Previously covered keep carried forward for audit completeness: [LLM Agents Can Easily Tamper With Their Own Traces](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-24_17-59-54Z_LLMAgentsCanEasilyTamperWithTheirOwnTraces_summary.md).
+- Link chain verified: briefing → canonical summary → [original arXiv paper](https://arxiv.org/abs/2609.30266).
 
 ## What Changed Today
 
@@ -75,7 +83,7 @@ The latest local arXiv scouts reached September 23 and produced staged candidate
 - Gemini coverage expanded from delegated actions into persistent avatars and long-form media orchestration.
 - Claude's enzyme work strengthened the pattern of AI as a scientific search and hypothesis engine, with human validation still required.
 - OpenAI Academy added a local-trainer mechanism for scaling practical AI capability.
-- No new research paper was promoted because the staged September 23 candidates were not page-level curated.
+- The complete September 25 curation query returned one keep; it was already covered on September 24, so no new uncovered paper was promoted.
 
 ## Why It Matters
 

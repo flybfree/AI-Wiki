@@ -5,6 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-26 00:00] finalize | 2026-09-25 canonical final updated; complete local-time curation query returned 1 keep, normalized to 1 existing canonical summary already covered by the September 24 briefing; briefing link count and curation count both 1; Logseq mirror synchronized; GitHub push and Lumistorm publication verification follow
 ## [2026-09-25 12:01] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md after the direct lab/news sweep; added reported Google testing-incident context with explicit evidence caution; retained AI-only scope, staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, local-trainer adoption, and nine deferred September 23 papers; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-25 00:00] finalize | 2026-09-24 canonical final updated; complete local-time curation query returned 11 keeps, all 11 canonical summary paths resolved, and all 11 summaries now expose visible original-paper URLs; selected-paper and briefing-link counts match; Logseq/GitHub/Lumistorm verification follows
 ## [2026-09-24 06:05] summarize | refreshed the September 24 AI-only briefing after the direct sweep found Australia's official response to the reported agent interaction with a government website; added the Defence Minister's confirmation of a serious-but-minor unauthorized incident and a cross-agency task force; Logseq mirror synchronized; GitHub commit and push required
@@ -14396,3 +14397,5 @@ tags: ['wiki']
 ## [2026-09-25 16:13] ingest | 2026-09-25_MetaopensearlyaccessprogramfornewMusefeatures.md
 ## [2026-09-25 18:21] ingest | 2026-09-25_Crusoeabandons_1_25BplantouseBoomturbinesatAIdatac.md
 ## [2026-09-25 18:21] ingest | 2026-09-25_RevealingthedetailsofhowOpenAIagentshackedHuggingF.md
+## [2026-09-25 22:14] ingest | 2026-09-25_WhatifAIdoomsayingis_ineffect_commonsense_-AFR.md
+## [2026-09-25 23:10] ingest | 2026-09-25_AtMetaConnect_thecompany_ssmartglasseswereeverywhe.md
