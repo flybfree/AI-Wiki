@@ -29,3 +29,7 @@ This research clarifies that exactly-once behavior in LLM agent tool interaction
 - In-flight action detection  
 - Fault-tolerant systems  
 - Deterministic sandbox testing
+
+## Original Paper
+
+[ArXiv: 2609.29095](http://arxiv.org/abs/2609.29095v1)
