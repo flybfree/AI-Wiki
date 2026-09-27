@@ -2957,3 +2957,4 @@ tags: ['wiki']
 - [[2026-09-27_TheNormalizationofInexplicableFailures.md]] : The Normalization of Inexplicable Failures
 - [[2026-09-27_Inan_80motelroom_adiscoverytoshedlightontheorigins.md]] : In an $80 motel room, a discovery to shed light on the origins of life
 - [[2026-09-27_OpenAIagentstriedto_bruteforce_aUNwebsite.md]] : OpenAI agents tried to ‘bruteforce’ a UN website
+- [[2026-09-27_Ember-1.md]] : Ember-1
