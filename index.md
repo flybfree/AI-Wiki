@@ -2952,3 +2952,5 @@ tags: ['wiki']
 - [[2026-09-27_MetaBlocksPresidentLula_sFacebookPage_CampaignAds2.md]] : Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
 - [[2026-09-27__AsaLanguageModel__ChatTemplateSwitchesLLMSelf-Ref.md]] : "As a Language Model": Chat Template Switches LLM Self-Referential Voice
 - [[2026-09-27_HowAIischangingmedicalresearch_treatmentinarea_New.md]] : How AI is changing medical research , treatment in area | News | cbs19news.com
+- [[2026-09-27_FlipFluidonFlipDots.md]] : Flip Fluid on Flip Dots
+- [[2026-09-27_Inan_80MotelRoom_aDiscoverytoShedLightontheOrigins.md]] : In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life
