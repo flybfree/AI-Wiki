@@ -1,0 +1,18 @@
+---
+title: Beyond Average Safety: Chance-Constrained LLM Fine-tuning
+published: 2026-09-24T15:17:58Z
+authors: Taha Entesari, Mahyar Fazlyab
+url: http://arxiv.org/abs/2609.29960v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Average Safety: Chance-Constrained LLM Fine-tuning
+
+## Abstract
+Fine-tuning large language models on new objectives can improve helpfulness, instruction following, or domain-specific performance, but it can also induce regressions on safety-critical prompts. Existing safety-preserving fine-tuning methods typically control average safety loss or use weighted auxiliary penalties, which can obscure rare but severe failures. We propose a chance-constrained formulation for safety-preserving fine-tuning that limits the fraction of safety examples whose degradation relative to a reference model exceeds a prescribed threshold. Because the resulting empirical chance constraint contains a discontinuous indicator, we introduce a differentiable majorization of the violation rate, yielding a tractable conservative constraint. We then develop a constraint-aware gradient descent method that treats the majorized constraint as a safe set in parameter space and minimally modifies the fine-tuning direction to preserve feasibility. The resulting update admits a closed form and produces a tail-aware safety correction that emphasizes examples near or above the degradation threshold. We conduct an extensive set of experiments on harmful fine-tuning across three different tasks and three models and show that our approach consistently outperforms the baselines that exist in the literature. These results suggest that safety preservation in LLM fine-tuning is better viewed as a reliability-constrained optimization problem than as average-risk regularization.
+
+## Metadata
+- **Published**: 2026-09-24T15:17:58Z
+- **Authors**: Taha Entesari, Mahyar Fazlyab
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.29960v1)

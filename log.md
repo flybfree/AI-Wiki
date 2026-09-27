@@ -7,6 +7,7 @@ tags: ['wiki']
 
 ## [2026-09-27 00:04] publish | 2026-09-26 canonical final published; wiki/Logseq briefing mirrors byte-identical; four target-date approved papers and four briefing links verified with visible original-paper URLs; GitHub commit dcb3fd15 pushed and origin/master verified; Lumistorm post 207 created at https://lumistorm.net/daily-ai-intelligence-2026-09-26/; REST, cache-busted live page, archive presence/order, published status, Daily AI Briefing category, source links, and raw-wiki-syntax checks passed
 ## [2026-09-27 12:01] summarize | refreshed the September 27 AI-only briefing after the direct lab/news sweep; added OpenAI's official pacing-model-development statement as primary corroboration for the reported training/inference pause; retained adaptive API exploration, staged open-weight safety, verified task expertise, long-horizon orchestration, and AI-for-science; excluded political advertising, Georgism, hardware, and generic material; arXiv coverage remained incomplete with no paper promoted; Logseq mirror synchronized; GitHub commit and push required
+## [2026-09-27 18:00] summarize | refreshed the September 27 AI-only briefing after the full lab/news sweep; added Meta Muse's consumer-agent trust and permission boundary with official Meta corroboration; classified the Anthropic/White House dinner capture as deferred, and excluded Engram, political advertising, Georgism, and generic material; arXiv coverage remained incomplete with no paper promoted; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-27 06:00] summarize | created concepts/ai-trends/daily-ai-intelligence-blog-2026-09-27.md from the complete AI-only intake plus direct lab/news sweep; synthesized adaptive API exploration, reported OpenAI containment pause, staged open-weight safety, verified task expertise, long-horizon video orchestration, and AI-for-science; excluded political advertising, Georgism, and generic material; arXiv coverage remained incomplete with no paper promoted; Logseq mirror synchronized; GitHub commit and push required
 
 ## [2026-09-27 00:02] finalize | 2026-09-26 canonical final updated; target-date curation keeps 4, all four normalized to canonical summaries, all four original-paper links verified; Logseq mirror synchronized; GitHub commit d09b74d8 pushed and origin/master verified; Lumistorm publication verification follows
@@ -14449,3 +14450,14 @@ tags: ['wiki']
 ## [2026-09-27 13:10] ingest | 2026-09-27_Inan_80motelroom_adiscoverytoshedlightontheorigins.md
 ## [2026-09-27 13:10] ingest | 2026-09-27_OpenAIagentstriedto_bruteforce_aUNwebsite.md
 ## [2026-09-27 14:11] ingest | 2026-09-27_Ember-1.md
+## [2026-09-27 15:12] ingest | 2026-09-27_CanMuseovercomeMeta_strustissues_.md
+## [2026-09-27 16:06] ingest | 2026-09-27_WhendidGooglegetsoweird_.md
+## [2026-09-27 16:06] ingest | 2026-09-27_Anthropic_sCEOisabouttohavedinnerwithPresidentTrum.md
+## [2026-09-27 16:22] stage-paper | 2026-09-24_17-53-35Z_CodingAgentsforGeneralizedTaskandMotionPlanningPro.md
+## [2026-09-27 16:22] stage-paper | 2026-09-24_16-35-54Z_ReturnorRevise_LearningWhenRevisionHelpsRetrieval_.md
+## [2026-09-27 16:22] stage-paper | 2026-09-24_12-31-05Z_CodeGraph_Open_TaxonomyKnowledgeGraphforSourceCode.md
+## [2026-09-27 16:22] stage-paper | 2026-09-24_04-08-59Z_PolitebutMisaligned_EvaluatingLLMPolitenessJudgmen.md
+## [2026-09-27 16:22] stage-paper | 2026-09-24_16-58-18Z_HEXIS_CompilingSkillsintoExtendedFiniteStateMachin.md
+## [2026-09-27 16:22] stage-paper | 2026-09-24_16-27-54Z_ScoringBothDirections_LLMsrealizetheMRStheycannotr.md
+## [2026-09-27 16:22] stage-paper | 2026-09-24_15-17-58Z_BeyondAverageSafety_Chance_ConstrainedLLMFine_tuni.md
+## [2026-09-27 17:17] ingest | 2026-09-27_EngramisasamplerthatturnsbrokenAIhallucinationsint.md

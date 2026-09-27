@@ -2958,3 +2958,7 @@ tags: ['wiki']
 - [[2026-09-27_Inan_80motelroom_adiscoverytoshedlightontheorigins.md]] : In an $80 motel room, a discovery to shed light on the origins of life
 - [[2026-09-27_OpenAIagentstriedto_bruteforce_aUNwebsite.md]] : OpenAI agents tried to ‘bruteforce’ a UN website
 - [[2026-09-27_Ember-1.md]] : Ember-1
+- [[2026-09-27_CanMuseovercomeMeta_strustissues_.md]] : Can Muse overcome Meta’s trust issues?
+- [[2026-09-27_WhendidGooglegetsoweird_.md]] : When did Google get so weird?
+- [[2026-09-27_Anthropic_sCEOisabouttohavedinnerwithPresidentTrum.md]] : Anthropic’s CEO is about to have dinner with President Trump
+- [[2026-09-27_EngramisasamplerthatturnsbrokenAIhallucinationsint.md]] : Engram is a sampler that turns broken AI hallucinations into music
