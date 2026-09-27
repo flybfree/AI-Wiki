@@ -2950,3 +2950,5 @@ tags: ['wiki']
 - [[2026-09-27_DoesGeorgismwork_Fiveyearslater.md]] : Does Georgism work? Five years later
 - [[2026-09-27_OpenAIFeared_Optics_ofwhatmightappearonHackerNews.md]] : OpenAI Feared "Optics" of what might appear on Hacker News
 - [[2026-09-27_MetaBlocksPresidentLula_sFacebookPage_CampaignAds2.md]] : Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
+- [[2026-09-27__AsaLanguageModel__ChatTemplateSwitchesLLMSelf-Ref.md]] : "As a Language Model": Chat Template Switches LLM Self-Referential Voice
+- [[2026-09-27_HowAIischangingmedicalresearch_treatmentinarea_New.md]] : How AI is changing medical research , treatment in area | News | cbs19news.com

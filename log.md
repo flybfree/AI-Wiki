@@ -14440,3 +14440,5 @@ tags: ['wiki']
 ## [2026-09-27 02:12] ingest | 2026-09-27_DoesGeorgismwork_Fiveyearslater.md
 ## [2026-09-27 03:54] ingest | 2026-09-27_OpenAIFeared_Optics_ofwhatmightappearonHackerNews.md
 ## [2026-09-27 05:12] ingest | 2026-09-27_MetaBlocksPresidentLula_sFacebookPage_CampaignAds2.md
+## [2026-09-27 06:12] ingest | 2026-09-27__AsaLanguageModel__ChatTemplateSwitchesLLMSelf-Ref.md
+## [2026-09-27 06:12] ingest | 2026-09-27_HowAIischangingmedicalresearch_treatmentinarea_New.md
