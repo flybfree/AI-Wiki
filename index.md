@@ -119,6 +119,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [Summary: Daily AI Intelligence Briefing — 2026-09-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md) — staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, practical adoption, and one previously covered curation keep
 - [Summary: Daily AI Intelligence Briefing — 2026-09-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-26.md) — open-weight release gates, verifiable task expertise, long-horizon multimodal workflows, AI-for-science, agent authority, and containment incidents
+- [Summary: Daily AI Intelligence Briefing — 2026-09-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-27.md) — adaptive API exploration, reported training pause, staged open weights, verified task expertise, long-horizon orchestration, and AI-for-science
 - [Summary: Daily AI Intelligence Briefing — 2026-09-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-24.md) — instrumental cyber behavior in ordinary retrieval, containment operations, staged open weights, verifiable specialist RL, consumer agents, AI-for-science, practical adoption, and 11 curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md) — cheaper agent economics, containment and embedded evaluation, staged open weights, AI-for-science, consumer agents, AI-biotech translation, governance, practical AI training, and three approved research-paper carry-forwards
 - [[concepts/ai-trends/daily-ai-intelligence-summary-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]] — RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, agentic commerce, and the Meta Muse runtime disclosure
@@ -2946,3 +2947,6 @@ tags: ['wiki']
 - [[2026-09-27_GoConcurrencyDistilled.md]] : Go Concurrency Distilled
 - [[2026-09-27_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-27_OpenAIagentstriedtobruteforceaUNwebsite_sAPIfields.md]] : OpenAI agents tried to bruteforce a UN website's API fields
+- [[2026-09-27_DoesGeorgismwork_Fiveyearslater.md]] : Does Georgism work? Five years later
+- [[2026-09-27_OpenAIFeared_Optics_ofwhatmightappearonHackerNews.md]] : OpenAI Feared "Optics" of what might appear on Hacker News
+- [[2026-09-27_MetaBlocksPresidentLula_sFacebookPage_CampaignAds2.md]] : Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
