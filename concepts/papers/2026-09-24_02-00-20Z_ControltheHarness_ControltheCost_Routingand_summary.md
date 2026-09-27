@@ -30,3 +30,7 @@ This research matters because it shifts the paradigm from passive cost absorptio
 - Enterprise harnesses  
 - Cost optimization in cloud AI  
 - Subagent orchestration
+
+## Original Paper
+
+[ArXiv: 2609.28919](http://arxiv.org/abs/2609.28919v1)

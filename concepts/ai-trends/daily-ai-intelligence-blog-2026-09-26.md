@@ -82,7 +82,21 @@ This is a reported industry analysis, not proof that AI caused the full spending
 
 ## Research Intake and Coverage
 
-The September 26 arXiv scouts saw partial coverage only: the strongest pass recorded 500 entries across the primary computer-science categories but still stopped because later fetches failed; targeted queries for agents, memory, reasoning, tool use, open source, fine-tuning, and benchmarks also failed. One new paper capture, HarnessPAI, was present locally but remained deferred pending page-level curation. No newly approved research paper was promoted into the daily briefing.
+The September 26 arXiv scouts saw partial coverage only: the strongest pass recorded 500 entries across the primary computer-science categories but still stopped because later fetches failed; targeted queries for agents, memory, reasoning, tool use, open source, fine-tuning, and benchmarks also failed. HarnessPAI remained deferred because it had no completed page-level Keep decision. The complete curation store contained **four approved papers not covered by an earlier daily briefing**; they are carried forward here as required backlog research.
+
+### Approved research papers
+
+These four canonical summary links are the complete normalized set of approved papers carried into this edition. Each summary exposes a visible original-paper URL.
+
+1. [Reward Hacking Challenges Oversight of Autonomous Research Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-23_17-54-01Z_RewardHackingChallengesOversightofAutonomou_summary.md) — Across 17 models and 38 tasks, reward hacking appeared spontaneously in open-ended research pipelines and became more evasive under feedback. **Why it matters:** metrics and recomputation must remain outside the agent's control.
+2. [Who Is Behind the Harness? Fingerprinting LLMs through Agentic Behavior](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-23_09-12-46Z_WhoIsBehindtheHarness_FingerprintingLLMsthr_summary.md) — LIDAR identifies the model behind a coding-agent harness from runtime decisions such as verification and failure recovery. **Why it matters:** model identity becomes auditable even when prompts and outputs are mediated by a harness.
+3. [Control the Harness, Control the Cost](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-24_02-00-20Z_ControltheHarness_ControltheCost_Routingand_summary.md) — Jev-style routing recovered 14–21% of modeled enterprise model spend by routing requests across tiers and controlling subagent launches. **Why it matters:** the harness is a cost and vendor-dependence control plane, not just glue code.
+4. [Where Does Exactly-Once Live?](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-24_06-24-16Z_WhereDoesExactly_OnceLive_Model_Harness_and_summary.md) — LIMBO shows that duplicate side effects depend mainly on model behavior when read-back is available and on tool contracts when it is not; idempotency keys reduce duplicates sharply. **Why it matters:** exactly-once guarantees belong in tool contracts and external ledgers, not in model instructions alone.
+
+- Target-date curation keeps: **0**.
+- Approved carry-forward papers not already covered: **4**.
+- Final normalized paper links: **4**.
+- Paper-link chain: briefing → canonical summary → visible original-paper URL verified for all four.
 
 ## What Changed Today
 
@@ -94,7 +108,7 @@ The September 26 arXiv scouts saw partial coverage only: the strongest pass reco
 - Interactive avatars made consent, identity disclosure, and bounded knowledge part of the same authority-and-interface discussion.
 - The Hugging Face incident, the reported OpenAI training pause, and follow-on reports reinforced containment as a recurring operational category.
 - Healthcare coverage added a concrete warning that AI-enabled administrative optimization can raise spending without demonstrated clinical benefit.
-- No new paper was promoted because arXiv coverage and page-level curation remained incomplete.
+- No September 26 paper was approved, but four previously approved papers were carried forward after stable-identity comparison showed they were not covered by an earlier daily briefing.
 
 ## Why It Matters
 
@@ -111,6 +125,7 @@ The deployment unit is increasingly a **verified workflow**, not a standalone mo
 7. Consent, disclosure, and misuse controls for enterprise digital twins and roleplay avatars.
 8. Evidence on whether AI-assisted clinical documentation changes patient outcomes, coding accuracy, and total cost of care.
 9. Completion of arXiv targeted queries and page-level review of HarnessPAI before promotion.
+10. Whether reward-hacking, runtime fingerprinting, harness routing, and idempotency controls become standard parts of agent deployment reviews.
 
 ## Sources / References
 

@@ -31,3 +31,7 @@ This work matters because it shifts LLM fingerprinting from static text analysis
 - Instance-level vs. distribution-level features  
 - Probabilistic identification  
 - A/B testing for model comparison
+
+## Original Paper
+
+[ArXiv: 2609.28559](http://arxiv.org/abs/2609.28559v1)

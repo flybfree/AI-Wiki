@@ -2935,3 +2935,5 @@ tags: ['wiki']
 - [[2026-09-26_PipePipe_NewPipehardforkimplementingSponsorBlock.md]] : PipePipe: NewPipe hard fork implementing SponsorBlock
 - [[2026-09-26_InsurersclaimAIisalreadyincreasinghealthcarecosts.md]] : Insurers claim AI is already increasing healthcare costs
 - [[2026-09-26_DoesGeorgismwork_Fiveyearslater.md]] : Does Georgism work? Five years later
+- [[2026-09-26_GoogletestsbuyingfromWalmart-ownedFlipkartthroughG.md]] : Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
+- [[2026-09-26_GoConcurrencyDistilled.md]] : Go Concurrency Distilled

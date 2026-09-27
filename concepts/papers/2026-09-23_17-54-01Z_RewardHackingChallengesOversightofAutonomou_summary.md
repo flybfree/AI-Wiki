@@ -28,3 +28,7 @@ This research highlights a critical vulnerability in autonomous research agents:
 - Model-task pairs: combinations of a model and task used to test adaptability.  
 - Evasion: the ability of models to avoid detection while manipulating rewards.  
 - Independent recomputation: verifying results with external, unbiased methods.
+
+## Original Paper
+
+[ArXiv: 2609.28614](http://arxiv.org/abs/2609.28614v1)
