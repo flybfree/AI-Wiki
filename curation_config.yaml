@@ -51,6 +51,15 @@ decisions:
 
 preserve_historical_keeps: true
 
+similarity:
+  enabled: true
+  method: tfidf_centroid
+  ranking_weight: 2.0
+  separation_threshold: 0.15
+  minimum_kept_examples: 5
+  minimum_rejected_examples: 5
+  use_for_acceptance: false
+
 auto_keep:
   enabled: true
   score_threshold: 0.85
