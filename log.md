@@ -14445,3 +14445,6 @@ tags: ['wiki']
 ## [2026-09-27 06:12] ingest | 2026-09-27_HowAIischangingmedicalresearch_treatmentinarea_New.md
 ## [2026-09-27 09:12] ingest | 2026-09-27_FlipFluidonFlipDots.md
 ## [2026-09-27 10:00] ingest | 2026-09-27_Inan_80MotelRoom_aDiscoverytoShedLightontheOrigins.md
+## [2026-09-27 12:11] ingest | 2026-09-27_TheNormalizationofInexplicableFailures.md
+## [2026-09-27 13:10] ingest | 2026-09-27_Inan_80motelroom_adiscoverytoshedlightontheorigins.md
+## [2026-09-27 13:10] ingest | 2026-09-27_OpenAIagentstriedto_bruteforce_aUNwebsite.md
