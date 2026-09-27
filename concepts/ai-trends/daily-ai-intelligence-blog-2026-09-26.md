@@ -82,7 +82,7 @@ This is a reported industry analysis, not proof that AI caused the full spending
 
 ## Research Intake and Coverage
 
-The September 26 arXiv scouts saw partial coverage only: the strongest pass recorded 500 entries across the primary computer-science categories but still stopped because later fetches failed; targeted queries for agents, memory, reasoning, tool use, open source, fine-tuning, and benchmarks also failed. HarnessPAI remained deferred because it had no completed page-level Keep decision. The complete curation store contained **four approved papers not covered by an earlier daily briefing**; they are carried forward here as required backlog research.
+The September 26 arXiv scouts saw partial coverage only: the strongest pass recorded 500 entries across the primary computer-science categories but still stopped because later fetches failed; targeted queries for agents, memory, reasoning, tool use, open source, fine-tuning, and benchmarks also failed. HarnessPAI remained deferred because it had no completed page-level Keep decision. The complete local-time curation query contained **four September 26 approved papers**, and stable-identity comparison found that none had been covered by an earlier daily briefing.
 
 ### Approved research papers
 
@@ -93,8 +93,8 @@ These four canonical summary links are the complete normalized set of approved p
 3. [Control the Harness, Control the Cost](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-24_02-00-20Z_ControltheHarness_ControltheCost_Routingand_summary.md) — Jev-style routing recovered 14–21% of modeled enterprise model spend by routing requests across tiers and controlling subagent launches. **Why it matters:** the harness is a cost and vendor-dependence control plane, not just glue code.
 4. [Where Does Exactly-Once Live?](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-24_06-24-16Z_WhereDoesExactly_OnceLive_Model_Harness_and_summary.md) — LIMBO shows that duplicate side effects depend mainly on model behavior when read-back is available and on tool contracts when it is not; idempotency keys reduce duplicates sharply. **Why it matters:** exactly-once guarantees belong in tool contracts and external ledgers, not in model instructions alone.
 
-- Target-date curation keeps: **0**.
-- Approved carry-forward papers not already covered: **4**.
+- Target-date curation keeps: **4**.
+- Approved carry-forward papers from earlier approval dates: **0**.
 - Final normalized paper links: **4**.
 - Paper-link chain: briefing → canonical summary → visible original-paper URL verified for all four.
 
@@ -108,7 +108,7 @@ These four canonical summary links are the complete normalized set of approved p
 - Interactive avatars made consent, identity disclosure, and bounded knowledge part of the same authority-and-interface discussion.
 - The Hugging Face incident, the reported OpenAI training pause, and follow-on reports reinforced containment as a recurring operational category.
 - Healthcare coverage added a concrete warning that AI-enabled administrative optimization can raise spending without demonstrated clinical benefit.
-- No September 26 paper was approved, but four previously approved papers were carried forward after stable-identity comparison showed they were not covered by an earlier daily briefing.
+- Four papers were approved through the September 26 curation workflow; stable-identity comparison found no earlier briefing coverage, so all four entered the final research section.
 
 ## Why It Matters
 
