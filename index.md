@@ -2937,3 +2937,12 @@ tags: ['wiki']
 - [[2026-09-26_DoesGeorgismwork_Fiveyearslater.md]] : Does Georgism work? Five years later
 - [[2026-09-26_GoogletestsbuyingfromWalmart-ownedFlipkartthroughG.md]] : Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
 - [[2026-09-26_GoConcurrencyDistilled.md]] : Go Concurrency Distilled
+- [[2026-09-27_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-09-27_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-27_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
+- [[2026-09-27_GoogletestsbuyingfromWalmart-ownedFlipkartthroughG.md]] : Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
+- [[2026-09-27_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
+- [[2026-09-27_OpenAIpausestrainingofits_mostcapablemodels_.md]] : OpenAI pauses training of its ‘most capable models’
+- [[2026-09-27_GoConcurrencyDistilled.md]] : Go Concurrency Distilled
+- [[2026-09-27_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-27_OpenAIagentstriedtobruteforceaUNwebsite_sAPIfields.md]] : OpenAI agents tried to bruteforce a UN website's API fields
