@@ -133,10 +133,17 @@ def _db() -> sqlite3.Connection:
             decision TEXT NOT NULL CHECK(decision IN ('keep', 'reject', 'skip')),
             note TEXT NOT NULL DEFAULT '',
             features TEXT NOT NULL,
-            updated_at TEXT NOT NULL
+            updated_at TEXT NOT NULL,
+            title TEXT NOT NULL DEFAULT '',
+            source TEXT NOT NULL DEFAULT '',
+            preview TEXT NOT NULL DEFAULT ''
         )
         """
     )
+    columns = {row[1] for row in db.execute("PRAGMA table_info(decisions)")}
+    for name in ("title", "source", "preview"):
+        if name not in columns:
+            db.execute(f"ALTER TABLE decisions ADD COLUMN {name} TEXT NOT NULL DEFAULT ''")
     db.commit()
     return db
 
@@ -178,8 +185,11 @@ def _tokens(text: str) -> list[str]:
         "achieves", "enables", "provides", "framework", "approach", "method",
         "methods", "performance", "level", "time", "state", "indicating",
     }
-    cleaned = {word.strip(".-+") for word in words}
-    return sorted(set(word for word in cleaned if word and word not in stop))
+    return [
+        word.strip(".-+")
+        for word in words
+        if word not in stop and len(word) <= 32
+    ]
 
 
 _DISPLAY_TOPIC_WORDS = {
@@ -496,15 +506,21 @@ def record_decision(path: str, decision: str, note: str = "") -> dict[str, Any]:
     db = _db()
     db.execute(
         """
-        INSERT INTO decisions(path, decision, note, features, updated_at)
-        VALUES (?, ?, ?, ?, ?)
+        INSERT INTO decisions(path, decision, note, features, updated_at, title, source, preview)
+        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(path) DO UPDATE SET
             decision=excluded.decision,
             note=excluded.note,
             features=excluded.features,
-            updated_at=excluded.updated_at
+            updated_at=excluded.updated_at,
+            title=excluded.title,
+            source=excluded.source,
+            preview=excluded.preview
         """ ,
-        (item["path"], decision, note[:1000], json.dumps(item["features"]), now),
+        (
+            item["path"], decision, note[:1000], json.dumps(item["features"]), now,
+            item["title"][:500], item["source"][:1000], item["preview"][:5000],
+        ),
     )
     db.commit()
     db.close()

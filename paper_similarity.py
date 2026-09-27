@@ -28,7 +28,11 @@ _STOPWORDS = {
 
 def _tokens(text: str) -> list[str]:
     words = re.findall(r"[a-z][a-z0-9+.-]{2,}", text.lower())
-    return [word.strip(".-+") for word in words if word not in _STOPWORDS]
+    return [
+        word.strip(".-+")
+        for word in words
+        if word not in _STOPWORDS and len(word) <= 32
+    ]
 
 
 def _text_from_path(path: Path) -> str:
@@ -46,12 +50,16 @@ def _decision_documents() -> tuple[list[str], list[str]]:
     rejected: list[str] = []
     try:
         db = sqlite3.connect(DB_PATH)
-        rows = db.execute("SELECT path, decision FROM decisions WHERE decision IN ('keep', 'reject')")
-        for relative, decision in rows:
+        rows = db.execute("SELECT path, decision, title, source, preview FROM decisions WHERE decision IN ('keep', 'reject')")
+        for relative, decision, stored_title, stored_source, stored_preview in rows:
+            text = ""
+            if stored_title or stored_source or stored_preview:
+                text = " ".join((stored_title or "", stored_source or "", stored_preview or ""))
             path = (ROOT / str(relative)).resolve()
-            if ROOT not in path.parents or not path.is_file():
+            if path.is_file():
+                text = _text_from_path(path)
+            if not text:
                 continue
-            text = _text_from_path(path)
             if decision == "keep":
                 kept.append(text)
             else:
