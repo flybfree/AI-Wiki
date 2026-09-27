@@ -2934,3 +2934,4 @@ tags: ['wiki']
 - [[2026-09-26_OpenAIpausestrainingofits_mostcapablemodels_.md]] : OpenAI pauses training of its ‘most capable models’
 - [[2026-09-26_PipePipe_NewPipehardforkimplementingSponsorBlock.md]] : PipePipe: NewPipe hard fork implementing SponsorBlock
 - [[2026-09-26_InsurersclaimAIisalreadyincreasinghealthcarecosts.md]] : Insurers claim AI is already increasing healthcare costs
+- [[2026-09-26_DoesGeorgismwork_Fiveyearslater.md]] : Does Georgism work? Five years later
