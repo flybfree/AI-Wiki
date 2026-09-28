@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-09-28] summarize | created concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md from the complete AI-only intake plus direct lab/news sweep; synthesized staged open-weight safety, verifiable task expertise, long-horizon video state tracking, AI-for-science hypothesis generation, production-scale AutoResearch failure modes, and compositional agent security; political/event, generic finance, and non-core captures excluded or deferred; Logseq mirror synchronized; GitHub commit and push required
+## [2026-09-28] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md from the complete AI-only intake plus direct lab/news sweep; added Anthropic Sonnet 5.5, Shopify authorized browser checkout, AMD/World Labs strategic convergence, and Jeff local decision models; retained staged open-weight safety, verifiable task expertise, long-horizon video state tracking, AI-for-science hypothesis generation, production-scale AutoResearch failure modes, and compositional agent security; political/event, generic finance, and empty-summary captures excluded or deferred; Logseq mirror synchronized; GitHub commit and push required
 
 ## [2026-09-28 00:06] publish | 2026-09-27 canonical final published; complete target-date curation query returned 0 keeps and stable-identity comparison found 0 uncovered approved carry-forward papers; wiki/Logseq mirrors byte-identical; GitHub push verified; Lumistorm post 210 created at https://lumistorm.net/daily-ai-intelligence-2026-09-27/; REST, cache-busted live page, archive presence, published status, Daily AI Briefing category, source links, and raw-wiki-syntax checks passed
 
@@ -14537,3 +14537,19 @@ tags: ['wiki']
 ## [2026-09-28 13:21] ingest | 2026-09-28_ClaudeSonnet5_5.md
 ## [2026-09-28 13:21] ingest | 2026-09-28_FloridaseeksabanonChatGPTactinglikeaperson.md
 ## [2026-09-28 13:21] ingest | 2026-09-28_TheLenfestInstitutegrowslandmarkprogramwithexpande.md
+## [2026-09-28 14:35] stage-paper | 2026-09-19_05-51-27Z_SelfOp_AnOptimizationAlgorithmforSelf_ImprovingSec.md
+## [2026-09-28 14:35] stage-paper | 2026-09-23_04-55-09Z_Quantization_RobustUnlearningthroughtheLensofRetai.md
+## [2026-09-28 14:35] stage-paper | 2026-09-25_16-51-22Z_Muslim_ADeployedArabicVoiceAIPlatformforGroundedIs.md
+## [2026-09-28 14:35] stage-paper | 2026-09-09_09-46-45Z_BeyondVerifiedAnswers_Solver_InformedSelf_Distilla.md
+## [2026-09-28 14:35] stage-paper | 2026-09-25_14-54-21Z_ASafety_BoundedSDC_to_MCPGatewayforMedicalAIAgents.md
+## [2026-09-28 14:35] stage-paper | 2026-09-16_14-48-02Z_BootstrappingConversationalRecommendationAgentsAtS.md
+## [2026-09-28 14:35] stage-paper | 2026-09-23_01-45-23Z_Meet_Compare_orAbstain_LatWeaveforDeterministicMul.md
+## [2026-09-28 14:35] stage-paper | 2026-09-24_15-19-39Z_WorldActionAgent_HarnessingVLMsforRobotManipulatio.md
+## [2026-09-28 14:35] stage-paper | 2026-09-24_13-27-58Z_CodingAgentsAren_tEnough_EvaluatinganEnterpriseSec.md
+## [2026-09-28 14:35] stage-paper | 2026-09-25_00-42-31Z_RecursiveSelf_ImprovementviaOn_PolicyDistillationf.md
+## [2026-09-28 14:35] ingest | 2026-09-28_Shopifyopenscheckouttobrowser-basedAIagents.md
+## [2026-09-28 14:35] ingest | 2026-09-28_PiratingthePirates.md
+## [2026-09-28 15:31] ingest | 2026-09-28_OpenAI_sAIagentsneedtocatchup.md
+## [2026-09-28 16:31] ingest | 2026-09-28_Source_InferenceproviderModalLabsclosinginon_750Mr.md
+## [2026-09-28 17:30] ingest | 2026-09-28_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md
+## [2026-09-28 17:30] ingest | 2026-09-28_Jeff_Jev-compatible0_8Bdecisionmodels_trainedathom.md

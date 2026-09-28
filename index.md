@@ -117,6 +117,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [Summary: Daily AI Intelligence Briefing — 2026-09-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md) — Sonnet 5.5, staged open-weight safety, verifiable task expertise, long-horizon orchestration, AI-for-science, production-scale AutoResearch, compositional agent security, and agentic commerce
 - [Summary: Daily AI Intelligence Briefing — 2026-09-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md) — staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, practical adoption, and one previously covered curation keep
 - [Summary: Daily AI Intelligence Briefing — 2026-09-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-26.md) — open-weight release gates, verifiable task expertise, long-horizon multimodal workflows, AI-for-science, agent authority, and containment incidents
 - [Summary: Daily AI Intelligence Briefing — 2026-09-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-27.md) — canonical final; adaptive API exploration, reported training pause, staged open weights, verified task expertise, long-horizon orchestration, and AI-for-science; 0 selected papers
@@ -2984,3 +2985,9 @@ tags: ['wiki']
 - [[2026-09-28_ClaudeSonnet5_5.md]] : Claude Sonnet 5.5
 - [[2026-09-28_FloridaseeksabanonChatGPTactinglikeaperson.md]] : Florida seeks a ban on ChatGPT acting like a person
 - [[2026-09-28_TheLenfestInstitutegrowslandmarkprogramwithexpande.md]] : The Lenfest Institute grows landmark program with expanded OpenAI support
+- [[2026-09-28_Shopifyopenscheckouttobrowser-basedAIagents.md]] : Shopify opens checkout to browser-based AI agents
+- [[2026-09-28_PiratingthePirates.md]] : Pirating the Pirates
+- [[2026-09-28_OpenAI_sAIagentsneedtocatchup.md]] : OpenAI’s AI agents need to catch up
+- [[2026-09-28_Source_InferenceproviderModalLabsclosinginon_750Mr.md]] : Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation
+- [[2026-09-28_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
+- [[2026-09-28_Jeff_Jev-compatible0_8Bdecisionmodels_trainedathom.md]] : Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
