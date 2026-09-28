@@ -2974,3 +2974,5 @@ tags: ['wiki']
 - [[2026-09-28_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-28_OwedabilliondollarsinNvidiastock.md]] : Owed a billion dollars in Nvidia stock
 - [[2026-09-28_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
+- [[2026-09-28_PromptingClaudeOpus5_5.md]] : Prompting Claude Opus 5.5
+- [[2026-09-28_AIPrinciples_GoogleAI.md]] : AI Principles — Google AI

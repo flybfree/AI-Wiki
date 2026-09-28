@@ -14525,3 +14525,5 @@ tags: ['wiki']
 ## [2026-09-28 01:32] stage-paper | 2026-09-25_00-22-51Z_AFrameworkforIdentifying_Categorizing_andExplainin.md
 ## [2026-09-28 01:32] stage-paper | 2026-09-25_02-28-01Z_ThePriceofThought_DoesTest_TimeReasoningPayinLLMTr.md
 ## [2026-09-28 01:32] stage-paper | 2026-09-24_22-58-16Z_Subjects_NotAuthors_TheAuthorshipHazardinAgenticDa.md
+## [2026-09-28 04:18] ingest | 2026-09-28_PromptingClaudeOpus5_5.md
+## [2026-09-28 05:21] ingest | 2026-09-28_AIPrinciples_GoogleAI.md
