@@ -3,9 +3,12 @@ title: "Summary: Daily AI Intelligence Briefing — 2026-09-27"
 date: "2026-09-27"
 type: briefing
 tags: [ai-intelligence, daily-briefing, agent-safety, open-weights, reinforcement-learning, ai-for-science]
+canonical_final: true
 ---
 
 # Summary: Daily AI Intelligence Briefing — 2026-09-27
+
+*Canonical midnight final for September 27, 2026. Target-date curation keeps: 0. Uncovered approved-paper carry-forwards: 0.*
 
 ## Executive Summary
 
@@ -81,7 +84,7 @@ The adjacent [Google search critique](https://sancho.bearblog.dev/google-weird/)
 
 ## Research Intake and Coverage
 
-The September 27 arXiv scout recorded 300 entries across three primary category pages, with coverage stopping around September 24 because later fetches failed. All targeted queries for agents, tool use, memory, reasoning, large language models, quantization, open source, self-improvement, fine-tuning, and benchmarks failed. **No new research paper was promoted.**
+The September 27 arXiv scout recorded 300 entries across three primary category pages, with coverage stopping around September 24 because later fetches failed. All targeted queries for agents, tool use, memory, reasoning, large language models, quantization, open source, self-improvement, fine-tuning, and benchmarks failed. The complete curation decision query returned **0 target-date keeps**, and stable-identity comparison against earlier daily briefings found **0 uncovered approved papers**. **No research paper is included in this final edition.**
 
 ## What Changed Today
 

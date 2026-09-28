@@ -1,0 +1,18 @@
+---
+title: Breaking Homogeneity: Diversifying Persona Sets for Creative LLM Outputs
+published: 2026-09-24T19:29:25Z
+authors: Sang Bin Moon, Nicole Cho, Daniel Borrajo, Sumitra Ganesh, Abolfazl Hashemi
+url: http://arxiv.org/abs/2609.30492v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Breaking Homogeneity: Diversifying Persona Sets for Creative LLM Outputs
+
+## Abstract
+Language models often produce homogeneous responses to open-ended tasks; such homogeneity can spawn groupthink-the convergence of ideas toward a singular and potentially suboptimal decision. We formulate persona diversification as a set-level conditioning problem and study two orthogonal design choices: selecting versus generating personas, and space-filling versus frontier-seeking diversity. We instantiate this design space with four methods spanning coverage and dispersion subset selections, uniform-coverage sampling, and evolutionary persona generation. Evaluations on the Alternative Uses Task (AUT), Infinity-Chat, and Divergent Association Task (DAT) show the benefits of the proposed methods across tasks and creativity objectives. On AUT, evolutionary persona generation increases response diversity by 78.8%, originality by 26.1%, flexibility by 49.5%, and holistic creativity by 13.9% over task-only prompting, while maintaining 98.5% validity; on Infinity-Chat, it nearly doubles persona-induced response separation relative to random personas. Moreover, evolutionary personas compose with creativity-optimized prompting, further increasing its response diversity by 18.6% and creativity by 6.3%. These results establish persona-set geometry as a task-agnostic mechanism for eliciting divergent LLM outputs, and support persona diversification as a reusable complement to prompt optimization.
+
+## Metadata
+- **Published**: 2026-09-24T19:29:25Z
+- **Authors**: Sang Bin Moon, Nicole Cho, Daniel Borrajo, Sumitra Ganesh, Abolfazl Hashemi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.30492v1)

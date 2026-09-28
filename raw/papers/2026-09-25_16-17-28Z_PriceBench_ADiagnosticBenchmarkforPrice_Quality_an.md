@@ -1,0 +1,18 @@
+---
+title: PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents
+published: 2026-09-25T16:17:28Z
+authors: Pavel Kireyev
+url: http://arxiv.org/abs/2609.31468v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# PriceBench: A Diagnostic Benchmark for Price, Quality, and Brand Preferences in LLM Booking Agents
+
+## Abstract
+LLMs increasingly act as purchasing agents, which makes the LLM, not the user, the one choosing among the options that satisfy a request; its preferences quietly fix what gets bought and what it costs. Hotel booking is a clean instance: a high-volume choice settled on a few comparable attributes, where the pick reveals those preferences. We introduce PriceBench, a diagnostic benchmark that recovers an LLM's price, quality, and brand preferences from its booking choices with a logit choice model, applied to 28 LLMs from 8 providers on 3,600 hotel tasks from 179 real New York City properties. We find that capability is associated with how consistently an LLM chooses, not with what it chooses: more capable LLMs hold stronger, more consistent preferences, while weaker ones either lock onto one position, exploitable by whoever controls listing order, or choose almost indifferently. What those preferences favor varies sharply across providers and even within one family: price sensitivity spans more than an order of magnitude, and the price/quality trade-off moves mean booked nightly price from \$247 to \$393 on identical tasks. What an agent buys must therefore be measured per LLM, not inferred, and we release the tasks, code, and all 28 response sets.
+
+## Metadata
+- **Published**: 2026-09-25T16:17:28Z
+- **Authors**: Pavel Kireyev
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.31468v1)

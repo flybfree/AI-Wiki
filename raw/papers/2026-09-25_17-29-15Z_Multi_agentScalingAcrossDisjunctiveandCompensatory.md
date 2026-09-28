@@ -1,0 +1,18 @@
+---
+title: Multi-agent Scaling Across Disjunctive and Compensatory Tasks
+published: 2026-09-25T17:29:15Z
+authors: Carolina Fortuna, Blaz Bertalanic
+url: http://arxiv.org/abs/2609.31563v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Multi-agent Scaling Across Disjunctive and Compensatory Tasks
+
+## Abstract
+Multi-agent LLM systems are often expected to improve as team size increases, yet the scaling behavior may depend on task structure. Our central contribution is to introduce Steiner's taxonomy of group tasks as a framework for analyzing multi-agent LLM scaling and focusing the analysis on disjunctive and compensatory tasks. We model independently sampled agents as conditionally independent given the item, which yields their large-team limits: plurality voting converges to the model's modal answer, and averaging converges to the model's item-level bias. Across selected representative benchmarks, 13 open-weight models, and teams of up to 30 agents, we find qualitatively different scaling behavior. On disjunctive tasks, the probability that at least one agent is correct grows by 5-20 points with team size, but plurality voting over agents that answer directly realises almost none of this potential, as the model predicts to within 0.5 points on average. Multi-round revision raises accuracy considerably, yet the gain is nearly the same with one peer as with 29. In contrast, scaling provides little benefit on Fermi estimation, despite its natural suitability for aggregation: item-level biases shared across the samples of a model account for about 87% of the squared error, so averaging reduces error by only about 6%. Combining model families helps on Fermi estimation but does not surpass the strongest member on disjunctive tasks. These results show that task structure, together with the mechanism combining member outputs, is a fundamental determinant of team scaling.
+
+## Metadata
+- **Published**: 2026-09-25T17:29:15Z
+- **Authors**: Carolina Fortuna, Blaz Bertalanic
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.31563v1)

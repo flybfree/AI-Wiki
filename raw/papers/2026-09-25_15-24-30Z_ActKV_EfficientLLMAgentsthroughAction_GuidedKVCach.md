@@ -1,0 +1,18 @@
+---
+title: ActKV: Efficient LLM Agents through Action-Guided KV Cache Management
+published: 2026-09-25T15:24:30Z
+authors: Zihan Wang, Cheng Tang, Lei Gong, Chao Wang, Wenqi Lou, Teng Wang, Xuehai Zhou
+url: http://arxiv.org/abs/2609.31395v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ActKV: Efficient LLM Agents through Action-Guided KV Cache Management
+
+## Abstract
+Agentic LLM inference accumulates long KV caches across iterative observation-reasoning-action loops, imposing substantial memory overhead and limiting serving throughput. Existing compression methods emphasize overall output quality, overlooking the asymmetric importance of actions in driving task progress. Our key idea is to establish a compression criterion that values KV entries by their contribution to action generation and prioritizes action quality. However, iterative execution, dynamic memory demands, and scattered action-critical entries pose challenges to eviction policies, budget allocation, and paged memory integration. To this end, we propose ActKV, the first KV cache compression framework tailored for agentic LLM inference. (i) Action-oriented KV cache eviction exploits stable action access patterns to retain entries critical to future actions, supporting reliable task progress under compression. (ii) Confidence-driven adaptive budget allocation uses LLM's intrinsic confidence to adapt the budget to evolving action-critical memory demands. (iii) Page-aware compression management standardizes compression into three primitives with customized kernels, realizing practical throughput gains. On long-trace tasks, ActKV retains an average of 98.53% of FullKV's accuracy with only 25.98% of its peak KV cache memory. It also achieves 3.97 times and 3.58 times FullKV's token and task throughput, delivering state-of-the-art performance.
+
+## Metadata
+- **Published**: 2026-09-25T15:24:30Z
+- **Authors**: Zihan Wang, Cheng Tang, Lei Gong, Chao Wang, Wenqi Lou, Teng Wang, Xuehai Zhou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.31395v1)

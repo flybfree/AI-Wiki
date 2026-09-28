@@ -1,0 +1,18 @@
+---
+title: Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer
+published: 2026-09-25T17:42:22Z
+authors: Md Shohel Arman, Igor Molybog
+url: http://arxiv.org/abs/2609.31587v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Compact Documentation for Coding Agents: A Benchmark, an Optimizer, and Why It Does Not Transfer
+
+## Abstract
+We investigate whether natural-language documentation helps coding agents resolve software issues, and we build the tools to construct and evaluate it. We introduce a roundtrip benchmark that scores code descriptions by whether code regenerated from them passes the original tests, and show that completeness, not length, drives a description's fidelity. Using the benchmark as an optimization signal, we discover a description-writing prompt that reaches full fidelity and generalizes to unseen files. We then test the hypothesis that motivated the work: that better documentation helps an agent resolve real repository issues. Across two model families and ten repositories, and against a positive control confirming that our evaluation can detect a genuine improvement, we find that it does not. When the source is present, neither static compact documentation nor retrieved context beats the issue alone. We report this negative result together with the benchmark and the optimizer, and we characterize the boundary at which documentation helps.
+
+## Metadata
+- **Published**: 2026-09-25T17:42:22Z
+- **Authors**: Md Shohel Arman, Igor Molybog
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.31587v1)

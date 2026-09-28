@@ -1,0 +1,18 @@
+---
+title: OmouAI: Argumentative Human-AI Policy Deliberation with Simulated Personas
+published: 2026-09-25T10:17:51Z
+authors: Stylianos Loukas Vasileiou, Antonio Rago, William Yeoh, Georgina Curto
+url: http://arxiv.org/abs/2609.31078v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# OmouAI: Argumentative Human-AI Policy Deliberation with Simulated Personas
+
+## Abstract
+Debates amongst agents driven by large language models (LLMs) have demonstrated vast potential in various applications, but when these interactions include humans and take place in high-stakes environments, e.g., in public policy deliberations, they are beset with issues such as sycophancy and a lack of faithful explanations. To tackle these issues, we present OmouAI, an interactive and inclusive deliberation system that uses LLMs in combination with computational argumentation, a field which excels in representing and reasoning within debates. OmouAI allows a human user to deliberate policy claims for real-world challenges with simulated personas, e.g., representing stakeholders, domain experts or devil's advocates, towards reducing sycophancy. Each persona generates its own arguments, and the arguments of all parties form a shared argumentation framework. Users can then contest, add and revise arguments, providing crucial human oversight. Then, arguments are evaluated using deterministic argumentative semantics against external goals, such as the UN Sustainable Development Goals, guaranteeing faithful explanations. The advancement or worsening of the goals thus serve as indicators for the policy recommendations.
+
+## Metadata
+- **Published**: 2026-09-25T10:17:51Z
+- **Authors**: Stylianos Loukas Vasileiou, Antonio Rago, William Yeoh, Georgina Curto
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.31078v1)
