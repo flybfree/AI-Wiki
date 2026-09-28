@@ -2976,3 +2976,5 @@ tags: ['wiki']
 - [[2026-09-28_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
 - [[2026-09-28_PromptingClaudeOpus5_5.md]] : Prompting Claude Opus 5.5
 - [[2026-09-28_AIPrinciples_GoogleAI.md]] : AI Principles — Google AI
+- [[2026-09-28_Modulateraises_25Mforitsvoicemodelsandanalysissuit.md]] : Modulate raises $25M for its voice models and analysis suite
+- [[2026-09-28_Anthropic_Gamma_andClaysharewhathappenswhenenterpr.md]] : Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026

@@ -14529,3 +14529,5 @@ tags: ['wiki']
 ## [2026-09-28 01:32] stage-paper | 2026-09-24_22-58-16Z_Subjects_NotAuthors_TheAuthorshipHazardinAgenticDa.md
 ## [2026-09-28 04:18] ingest | 2026-09-28_PromptingClaudeOpus5_5.md
 ## [2026-09-28 05:21] ingest | 2026-09-28_AIPrinciples_GoogleAI.md
+## [2026-09-28 09:21] ingest | 2026-09-28_Modulateraises_25Mforitsvoicemodelsandanalysissuit.md
+## [2026-09-28 11:13] ingest | 2026-09-28_Anthropic_Gamma_andClaysharewhathappenswhenenterpr.md
