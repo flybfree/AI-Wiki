@@ -2965,3 +2965,12 @@ tags: ['wiki']
 - [[2026-09-27_Self-parkingcarusinggeneticalgorithm_2021_.md]] : Self-parking car using genetic algorithm (2021)
 - [[2026-09-27_OwedabilliondollarsinNvidiastock.md]] : Owed a billion dollars in Nvidia stock
 - [[2026-09-27_UIcomputerscienceprofessorsdiscussgrowingAIsafetyc.md]] : UI computer science professors discuss growing AI safety concerns - The Daily Illini
+- [[2026-09-28_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-09-28_EngramisasamplerthatturnsbrokenAIhallucinationsint.md]] : Engram is a sampler that turns broken AI hallucinations into music
+- [[2026-09-28_UIcomputerscienceprofessorsdiscussgrowingAIsafetyc.md]] : UI computer science professors discuss growing AI safety concerns - The Daily Illini
+- [[2026-09-28_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
+- [[2026-09-28_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-28_Anthropic_sCEOisabouttohavedinnerwithPresidentTrum.md]] : Anthropic’s CEO is about to have dinner with President Trump
+- [[2026-09-28_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-28_OwedabilliondollarsinNvidiastock.md]] : Owed a billion dollars in Nvidia stock
+- [[2026-09-28_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
