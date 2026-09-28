@@ -2978,3 +2978,9 @@ tags: ['wiki']
 - [[2026-09-28_AIPrinciples_GoogleAI.md]] : AI Principles — Google AI
 - [[2026-09-28_Modulateraises_25Mforitsvoicemodelsandanalysissuit.md]] : Modulate raises $25M for its voice models and analysis suite
 - [[2026-09-28_Anthropic_Gamma_andClaysharewhathappenswhenenterpr.md]] : Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026
+- [[2026-09-28_OpenAIstilldoesn_tseemtohaveahandleonallofitsrogue.md]] : OpenAI still doesn’t seem to have a handle on all of its rogue AI activity
+- [[2026-09-28_TheproblemisnottheAIcode_butnobodyknowsanythingany.md]] : The problem is not the AI code, but nobody knows anything anymore
+- [[2026-09-28_AnthropicreleasesSonnet5_5_whichitcallsasignifican.md]] : Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner
+- [[2026-09-28_ClaudeSonnet5_5.md]] : Claude Sonnet 5.5
+- [[2026-09-28_FloridaseeksabanonChatGPTactinglikeaperson.md]] : Florida seeks a ban on ChatGPT acting like a person
+- [[2026-09-28_TheLenfestInstitutegrowslandmarkprogramwithexpande.md]] : The Lenfest Institute grows landmark program with expanded OpenAI support
