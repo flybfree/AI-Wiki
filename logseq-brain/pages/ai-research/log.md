@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-28] publish | Open-Source Models State of the Art page rebuilt with discovery-oriented two-tier reference tables; wiki and Logseq mirrors byte-identical; Lumistorm page 114 updated and verified through REST plus cache-busted live-page checks
+
 ## [2026-09-25 06:00] summarize | created concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md from the complete AI-only intake plus direct lab/news sweep; synthesized staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, and local-trainer adoption; event promotion, geopolitical opinion, and non-AI CVE material excluded; nine staged September 23 papers deferred pending page-level curation; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-09-22 00:07] publish | 2026-09-21 canonical briefing published; wiki and Logseq mirrors byte-identical; selected-paper count 1 equals briefing paper-link count 1; GitHub commit 3c45d67f pushed and origin/master verified; Lumistorm post 202 created at https://lumistorm.net/daily-ai-intelligence-2026-09-21/; REST, live cache-busted page, archive presence, published status, category, source links, and raw-wiki-syntax checks passed
 ## [2026-09-22 00:00] finalize | 2026-09-21 canonical briefing finalized; local-time curation query returned 1 kept paper approved at 2026-09-21 23:30 CDT, normalized to the existing Emergent Collusion summary; briefing paper-link count 1 matches selected-paper count; original-paper URL added and verified; Logseq/GitHub/Lumistorm publication verification follows

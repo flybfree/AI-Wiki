@@ -1,15 +1,15 @@
 ---
-title: "Open-Source Models State of the Art — 2026-09-16"
-date: 2026-09-16
+title: "Open-Source Models State of the Art — 2026-09-28"
+date: 2026-09-28
 status: draft
 tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-09-16"]
 ---
 
-# Open-Source Models State of the Art — 2026-09-16
+# Open-Source Models State of the Art — 2026-09-28
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page tracks the current open-weight frontier and the models most relevant for local deployment. The recent signal splits into frontier generalists, local-use quantized checkpoints, and deployment infrastructure that determines whether open weights are usable in practice. The snapshot is refreshed through 2026-09-16.
+This page tracks the current open-weight frontier and the models most relevant for local deployment. The recent signal splits into frontier generalists, local-use quantized checkpoints, and deployment infrastructure that determines whether open weights are usable in practice. The snapshot is refreshed through 2026-09-28.
 
 ## Semantic links
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-08-27]] — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
@@ -24,6 +24,56 @@ Open-source model progress now splits into two tracks:
 - local-first quantized and fine-tuned models
 
 The practical question is no longer just “what is the strongest open model?” It is also “what model can I run locally, tune for my tasks, and keep updated as the ecosystem moves?”
+
+## Two-tier local model reference table
+
+This table is a discovery-oriented shortlist, not a catalog limited to models already installed on the author's endpoints. It uses practical local inference as the organizing principle.
+
+**Sizing assumptions:** estimates assume 4-bit quantization and cover model weights only. Add runtime overhead and KV-cache memory, especially for long context. Mixture-of-experts models reduce active compute, but their total weights still affect loading requirements. “Open-source” means materially open code, weights, data, or training artifacts; “open-weight” means the weights are available while other parts of the training stack or license may be restricted.
+
+### Tier 1 — practical within 32 GB
+
+| Model | Openness | Approx. 4-bit memory | Capability profile | Discovery value |
+|---|---|---:|---|---|
+| [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | Open-weight, Apache 2.0 | 15–20 GB | Dense multimodal reasoning, coding, image/video input, tools, agents | Strong broad replacement candidate for local generalist workloads |
+| [Qwen3-30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B) | Open-weight, Apache 2.0 | 16–20 GB | MoE general reasoning, coding, multilingual work, agents | High capability per active parameter; fast-MoE candidate |
+| [Nemotron 3.5 Lightning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/) | Open-weight | 16–20 GB | Fast tool calls, validation, code review, long-running execution | Specialist alternative for high-volume agent loops |
+| [Mistral Small 3.2 24B](https://huggingface.co/mistralai) | Open-weight, Apache 2.0 | 13–17 GB | General chat, coding, reasoning, multilingual tasks | Permissive general-purpose baseline |
+| [Devstral Small 2 24B](https://huggingface.co/mistralai) | Open-weight | 13–17 GB | Repository-level coding, tools, software-engineering agents | Coding-first alternative to generalist models |
+| [Gemma 3 27B](https://huggingface.co/google/gemma-3-27b-it) | Open-weight, Google terms | 14–18 GB | Multimodal chat, summarization, reasoning, multilingual work | Strong image-capable local generalist |
+| [DeepSeek-R1-Distill-Qwen-32B](https://huggingface.co/deepseek-ai/DeepSeek-R1-Distill-Qwen-32B) | Open-weight | 18–22 GB | Math, coding, deep reasoning, analysis | Reasoning-focused comparison candidate |
+| [OLMo 2 32B](https://huggingface.co/allenai/OLMo-2-0325-32B) | More fully open, Apache 2.0 | 18–22 GB | General text generation, research, fine-tuning | Best transparency-oriented option in this size range |
+| [Ministral 3 8B/14B](https://huggingface.co/mistralai) | Open-weight | 5–11 GB | Fast assistants, multilingual work, reasoning variants | Low-memory and high-concurrency candidates |
+| [Qwen3-Coder 30B class](https://huggingface.co/Qwen) | Open-weight | 16–22 GB | Code generation, repository understanding, tool use | Specialized coding-agent discovery path |
+
+### Tier 2 — requires more than 32 GB
+
+| Model | Openness | Approx. 4-bit memory | Capability profile | Discovery value |
+|---|---|---:|---|---|
+| [Llama 3.1 70B](https://huggingface.co/meta-llama/Llama-3.1-70B) | Open-weight, Meta license | 40–50 GB | General reasoning, coding, RAG, multilingual work | Mature large-model ecosystem |
+| [Qwen2.5-72B](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct) | Open-weight | 40–50 GB | General chat, coding, multilingual reasoning | Large dense comparison baseline |
+| [Mistral Small 4 119B A6B](https://huggingface.co/mistralai/Mistral-Small-4-119B-2603) | Open-source-style, Apache 2.0 | 65–75 GB | Reasoning, coding, vision, tools, 256K context | Large MoE with relatively low active compute |
+| [GLM-5.2](https://huggingface.co/zai-org/GLM-5.2) | Open-weight, MIT | Well above 32 GB | Long-horizon coding, reasoning, agent tasks | Frontier Chinese open-weight candidate |
+| [Kimi K3](https://platform.kimi.ai/docs/guide/kimi-k3-quickstart) | Open-weight | Well above 32 GB | Long-context reasoning, coding, agents | Frontier pressure test rather than compact local model |
+| [MiniMax M2](https://huggingface.co/MiniMaxAI/MiniMax-M2) | Open-weight, modified MIT | Well above 32 GB | Coding, tools, agent orchestration, long context | Large MoE agent candidate |
+| [Qwen3-235B-A22B](https://huggingface.co/Qwen/Qwen3-235B-A22B) | Open-weight, Apache 2.0 | 125–150 GB | Frontier reasoning, coding, multilingual work, agents | Multi-GPU frontier benchmark candidate |
+| [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) | Open-weights | Very large | 276B total, 12B active, 1M context, variable thinking | Important frontier open-weight release, not consumer-local |
+| [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) | Open-weight, MIT | Hundreds of GB | Frontier reasoning, math, coding, research | Server-class reasoning reference |
+| [Llama 3.1 405B](https://huggingface.co/meta-llama/Llama-3.1-405B) | Open-weight, Meta license | 220–250 GB | Large-scale general reasoning and coding | Multi-GPU server reference |
+
+### Capability-oriented shortlist
+
+| Need | Models to investigate first |
+|---|---|
+| Fast local assistant | Ministral 3 8B, Gemma 3 12B, Qwen3 8B |
+| Best broad model under 32 GB | Qwen3.8-27B, Mistral Small 3.2 24B |
+| Coding agents | Devstral Small 2, Qwen3-Coder, GLM-5.2 |
+| Deep reasoning | DeepSeek-R1-Distill-Qwen-32B, Qwen3.8-27B, Nemotron 3.5 Lightning |
+| Multimodal work | Qwen3.8-27B, Gemma 3 27B, Mistral Small 3.1 |
+| Training transparency | OLMo 2 |
+| Large-scale frontier testing | Qwen3-235B-A22B, Kimi K3, GLM-5.2, DeepSeek-R1 |
+
+The shortlist is intentionally broader than the currently installed models. It should be used to identify candidates for controlled endpoint probes and generation-speed benchmarks, not as a claim that every model will load successfully in every runtime.
 
 ## Qwen3.8-27B spotlight
 
@@ -120,6 +170,8 @@ This subsection is for models that matter because they can actually be run, tune
 - Ornith-1.5 shifts the open-weight discussion from self-scaffolding to broader self-improvement: the task generator, agent scaffold, and solution rollouts are optimized together. Its 35B-A3B checkpoint is the deployment-friendly member, while the 397B model is a frontier-scale coding-agent benchmark contender.[3][4]
 
 ## Progress log
+
+- **2026-09-28** — Rebuilt the reference section as a discovery-oriented two-tier table: practical sub-32 GB candidates and larger multi-GPU candidates, with separate openness, memory, capability, and discovery-value columns.
 
 - **2026-08-10** — Last30days research says the open-weight conversation is now centered on local-agent usefulness, cost/performance, and release policy, with Kimi K3 still the loudest frontier signal.
 - **2026-08-10** — Meta releases MuseGlimmer, a 30B Apache 2.0 open-weight model designed for local agent workflows, adding a strong deployment-focused counterpoint to larger frontier releases.
