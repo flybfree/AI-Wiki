@@ -3018,3 +3018,11 @@ tags: ['wiki']
 - [[2026-09-29_GPT6_1Sol_Near-Astraintelligenceforafifthofthepric.md]] : GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
 - [[2026-09-29_DevDay2026Recap.md]] : DevDay 2026 Recap
 - [[2026-09-29_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
+- [[2026-09-29_OpenAIrepotedlyintalkstoraise_30Broundat_1_4Tvalua.md]] : OpenAI repotedly in talks to raise $30B round at $1.4T valuation
+- [[2026-09-29_U_S_postalinspectorsshutdownwebsitesellingcounterf.md]] : U.S. postal inspectors shut down website selling counterfeit postage labels
+- [[2026-09-29_OpenAI_slatestfeaturestakedirectaimattheappstoremo.md]] : OpenAI’s latest features take direct aim at the app store model
+- [[2026-09-29_AIresearchersputoutvideossayingsuperintelligenceis.md]] : AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’
+- [[2026-09-29_IntroducingGPT-6_1Sol.md]] : Introducing GPT-6.1 Sol
+- [[2026-09-29_ElonMusk__8217_sAI-poweredGrokipediaisupdatingagai.md]] : Elon Musk&#8217;s AI-powered Grokipedia is updating again
+- [[2026-09-29_TrumpordersUSgovernmenttocallAI_SuperIntelligence_.md]] : Trump orders US government to call AI ‘Super Intelligence’
+- [[2026-09-29_TheinternetisconvincedElonMusk_sxAItrolledOpenAI_s.md]] : The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch

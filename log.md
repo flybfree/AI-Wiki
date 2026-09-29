@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-29 18:00] summarize | refreshed the September 29 AI-only briefing with GPT-6.1 Sol's cost/capability release, OpenAI's ChatGPT app-distribution and Dots strategy, and reported financing context; deferred empty late summaries and excluded non-AI postal-fraud coverage; direct lab/news sweep checked OpenAI, Anthropic, Google DeepMind, and Meta; GitHub commit and push required
+
 ## [2026-09-29 06:00] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-29.md from the complete AI-only intake plus direct lab/news sweep; synthesized OpenAI's Australia disclosure, frontier safety/economics, staged open weights, verifiable task expertise, long-form video state tracking, AI-for-science, and model-compute convergence; 1 kept paper deferred because its local summary is empty; 213 arXiv retry records recovered but not promoted as a reviewed keep set; Logseq mirror and GitHub push required
 ## [2026-09-29 12:01] summarize | refreshed the September 29 AI-only briefing with the reported Meta Muse home-address disclosure, Muse for Small Business launch, Dazzle camera-roll context, and reported GPT-6.1 Astra delay; retained explicit source and evidence caveats; Logseq mirror and GitHub push required
 ## [2026-09-29 00:00] finalize | 2026-09-28 canonical final prepared; complete local-time curation query returned 0 target-date keeps and stable-identity comparison found 0 uncovered carry-forward papers; final paper-link count 0 matches selected-paper count; wiki/Logseq mirror, GitHub, and Lumistorm publication verification follows
@@ -14889,3 +14891,11 @@ tags: ['wiki']
 ## [2026-09-29 14:02] ingest | 2026-09-29_GPT6_1Sol_Near-Astraintelligenceforafifthofthepric.md
 ## [2026-09-29 14:02] ingest | 2026-09-29_DevDay2026Recap.md
 ## [2026-09-29 14:02] ingest | 2026-09-29_HowDiffusionControllerunifiesandsimplifiesAIimageg.md
+## [2026-09-29 15:02] ingest | 2026-09-29_OpenAIrepotedlyintalkstoraise_30Broundat_1_4Tvalua.md
+## [2026-09-29 16:02] ingest | 2026-09-29_U_S_postalinspectorsshutdownwebsitesellingcounterf.md
+## [2026-09-29 16:02] ingest | 2026-09-29_OpenAI_slatestfeaturestakedirectaimattheappstoremo.md
+## [2026-09-29 16:02] ingest | 2026-09-29_AIresearchersputoutvideossayingsuperintelligenceis.md
+## [2026-09-29 17:05] ingest | 2026-09-29_IntroducingGPT-6_1Sol.md
+## [2026-09-29 17:05] ingest | 2026-09-29_ElonMusk__8217_sAI-poweredGrokipediaisupdatingagai.md
+## [2026-09-29 18:02] ingest | 2026-09-29_TrumpordersUSgovernmenttocallAI_SuperIntelligence_.md
+## [2026-09-29 18:02] ingest | 2026-09-29_TheinternetisconvincedElonMusk_sxAItrolledOpenAI_s.md
