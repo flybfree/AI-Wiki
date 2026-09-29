@@ -1,0 +1,18 @@
+---
+title: Harness Learning Enables Generalizable Test-Time Adaptation
+published: 2026-09-28T17:52:54Z
+authors: Alvin Zhang, Xuecheng Liu, Zixuan Wang, Fahim Tajwar, Daman Arora, Ruslan Salakhutdinov, Daniel Khashabi, Yuda Song, Andrea Zanette
+url: http://arxiv.org/abs/2609.35738v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Harness Learning Enables Generalizable Test-Time Adaptation
+
+## Abstract
+A language-model agent is jointly defined by its model and its harness, the executable program that organizes model calls, tool use, and information flow. Because different tasks call for different ways of organizing these operations, the harness needs to be adapted using feedback from the task at hand. We introduce harness learning, which trains a proposer model to revise a solver's harness using execution feedback. We formulate this process as meta-learning over executable programs, with harness revisions playing the role of weight updates in gradient-based adaptation. We train the proposer with reinforcement learning, using the task performance of revised harnesses as the reward. At test time, the proposer uses feedback from successive executions on a new task to refine the harness, without performing any parameter-space update. Experiments on reasoning and multi-hop question answering show that harness learning improves revision quality and that the ability to adapt at test time transfers to unseen tasks. Policies trained on individual revisions can continue improving harnesses over multiple rounds, while the benefits of training on revision sequences vary across settings. These findings suggest a path towards continually learning agents that turn accumulated experience into generalizable improvements.
+
+## Metadata
+- **Published**: 2026-09-28T17:52:54Z
+- **Authors**: Alvin Zhang, Xuecheng Liu, Zixuan Wang, Fahim Tajwar, Daman Arora, Ruslan Salakhutdinov, Daniel Khashabi, Yuda Song, Andrea Zanette
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.35738v1)

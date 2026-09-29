@@ -1,0 +1,18 @@
+---
+title: EvoIn: Bridging Evolution and Internalization for Agent Fine-Tuning
+published: 2026-09-28T14:36:01Z
+authors: Shihan Dou, Shaofan Liu, Zhonghang Lu, Jiahang Lin, Shichun Liu, Binghai Wang, Jiajie Jin, Guanting Dong, Tao Gui, Qi Zhang, Xuanjing Huang
+url: http://arxiv.org/abs/2609.35290v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# EvoIn: Bridging Evolution and Internalization for Agent Fine-Tuning
+
+## Abstract
+Recent work has explored improving agents by jointly evolving their harnesses and models, but often takes a ''potpourri'' approach that bundles together new tools, new decision-making procedures, and model adaptation to the evolved harness under a single notion of agent improvement. In this paper, we instead investigate how agents can improve their decision-making procedures. In particular, we propose EvoIn, an agent fine-tuning framework that bridges evolution and internalization. EvoIn first analyzes agent execution traces to evolve and validate new decision-making procedures by temporarily instantiating them in the harness. The validated procedures guide the agent to generate improved reasoning traces. These traces are then rewritten into self-contained reasoning traces, removing explicit references to harness instructions while expressing the induced decision logic as the model's own reasoning. Finally, EvoIn fine-tunes the model on the rewritten traces, internalizing these procedures so that the improved decision-making persists without the evolved harness at inference time. We evaluate EvoIn on diverse benchmarks and find that it consistently enables agents to learn stronger decision-making procedures, raising the pass rate by 10.9 points in-domain and by 9.2 points out-of-domain. Results further show that the internalized decision procedures generalize to unseen tasks. Case studies show that agents can learn to decide how to solve a task before solving it, for example by checking a document's length to choose between reading it in full and searching it. EvoIn is also broadly applicable, showing consistent improvements on another model family.
+
+## Metadata
+- **Published**: 2026-09-28T14:36:01Z
+- **Authors**: Shihan Dou, Shaofan Liu, Zhonghang Lu, Jiahang Lin, Shichun Liu, Binghai Wang, Jiajie Jin, Guanting Dong, Tao Gui, Qi Zhang, Xuanjing Huang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.35290v1)
