@@ -5,6 +5,10 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-29] research | created concepts/object-detection/RF-DETR.md and the focused 2026-09-29 recovery briefing; added RF-DETR to the original September 28 briefing target; Logseq mirrors synchronized
+
+## [2026-09-29] briefing | added the recovered RF-DETR research to concepts/ai-trends/daily-ai-intelligence-blog-2026-09-29.md with benchmark caveats, licensing, deployment formats, and a local evaluation plan
+
 ## [2026-09-28] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md from the complete AI-only intake plus direct lab/news sweep; added Anthropic Sonnet 5.5, Shopify authorized browser checkout, AMD/World Labs strategic convergence, and Jeff local decision models; retained staged open-weight safety, verifiable task expertise, long-horizon video state tracking, AI-for-science hypothesis generation, production-scale AutoResearch failure modes, and compositional agent security; political/event, generic finance, and empty-summary captures excluded or deferred; Logseq mirror synchronized; GitHub commit and push required
 
 ## [2026-09-28 00:06] publish | 2026-09-27 canonical final published; complete target-date curation query returned 0 keeps and stable-identity comparison found 0 uncovered approved carry-forward papers; wiki/Logseq mirrors byte-identical; GitHub push verified; Lumistorm post 210 created at https://lumistorm.net/daily-ai-intelligence-2026-09-27/; REST, cache-busted live page, archive presence, published status, Daily AI Briefing category, source links, and raw-wiki-syntax checks passed
@@ -14553,3 +14557,76 @@ tags: ['wiki']
 ## [2026-09-28 16:31] ingest | 2026-09-28_Source_InferenceproviderModalLabsclosinginon_750Mr.md
 ## [2026-09-28 17:30] ingest | 2026-09-28_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md
 ## [2026-09-28 17:30] ingest | 2026-09-28_Jeff_Jev-compatible0_8Bdecisionmodels_trainedathom.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_12-49-02Z_CUE_Mem_BenchmarkingLong_TermUserMemoryviaImplicit.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_03-53-08Z_AgentsasSoftware_AProgrammingLanguagesAgendaforAge.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_05-30-18Z_Prefill_FreeCross_FamilyKVCacheTransferforHeteroge.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_17-22-26Z_PlanGuard_AGuardrailforMulti_StepPlanSafetyinEmbod.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_11-59-39Z_LearningfromOthers_ActingforYou_Cross_UserMemorySh.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_18-39-32Z_UnderstandingtheSynergybetweenSFT_RLVR_andOPDinLLM.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_09-24-09Z_SkillDRE_Dual_StageRed_TeamEvolutionofAgentSkillsv.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_16-51-52Z_OntheBehavioralTraitsofLLMAgents.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_07-43-30Z_HyperReCo_RetrievingandConnectingEvidencewithHyper.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_12-04-31Z_MemAgent_LearningtoManageHeterogeneousMemoryProvid.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_13-49-14Z_SWE_MILE_AsynchronousPotential_InducedMilestoneCre.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_11-35-35Z_BeyondPromptorSkill_Attribution_GuidedOptimization.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_23-37-27Z_TowardInteractiveUnderstandingofCodeAPIs.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_13-18-00Z_CUA_SWE_WhenComputer_UseAgentsMeetVisualSoftwareEn.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_12-36-59Z_ProTTT_LearningtoLearnSemanticUserMemorywithTest_T.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_22-28-53Z_EngramRAG_DynamicUsage_WeightedTopologyandSynaptic.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_23-54-58Z_MemoryasMiddlewareforSelf_ImprovingAIAgents.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_11-37-06Z_Hearsay_CananAuditorTrusttheRecordaDeployedAgentHa.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_14-17-22Z_ContractMemoryCompiler_Resolve_ThenTraverse.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_12-58-06Z_EMIR__2__Evolution_AwareMemorywithIntent_GuidedMul.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_12-22-58Z_Porimon_AnLLM_BasedPokémonBattleAgentEnhancedbyLon.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_17-09-58Z_AgentHabit_CharacterizingDistinctBehaviorsofAgents.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_22-20-08Z_Receiver_ConditionedLatentCommunicationgives94_Cac.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_15-06-44Z_DespiteInstructions_FrontierAgentsImproviseCovertC.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_10-02-57Z_AuthorizationClosureGraph_MinimalRepairforLLMAgent.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_17-47-55Z_RoutingDriftAloneDoesNotDiagnoseFailureinMergedMoE.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_05-26-28Z_LAM_EfficientLossyAgentMemoryFrameworkWithARetriev.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_12-03-54Z_WhenUsersChangeTheirMinds_MeasuringandRepairingInt.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_12-04-49Z_BeyondDyadicMemory_Interaction_AwareMultimodalMemo.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_08-33-34Z_Black_BoxAuditingofEpistemicReliabilityinMulti_Age.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_16-16-08Z_CUA_Sandbox_EfficientEnvironmentsforComputer_UseAg.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_09-24-22Z_SharedWorlds_PrivateMinds_StructuredMemoryforLong_.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_09-08-34Z_RewardHackingandAgentContainmentFailure_AMonteCarl.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_04-10-05Z_Witness_Discovery_Deciphering_andEpiphanyinInterac.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_10-45-36Z_StreamlinedReflectiveEvolutionforTask_AdaptiveSelf.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_15-49-39Z_SkillVine_AgentSkillEvolutionviaBranchingExplorati.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_07-58-49Z_EnablingTimelyGuidancebeforeSkillRetrieval_Retaini.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_09-08-44Z_SCLATE_aSubstrateforContinual_LearningAgentTrainin.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_14-53-42Z_SilentFailuresinAgenticSecurityEvaluation_AValidat.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_12-14-49Z_LLMAdBench_AHumanPreferenceBenchmarkforAdvertising.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_09-49-25Z_PluginRSI_RecursiveImprovementofAgentHarnesseswith.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_08-58-50Z_DashAct_AProgressiveDiagnosticBenchmarkforGUIAgent.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_08-53-11Z_AuthorityLens_RethinkingLLM_BasedAgentSystemsThrou.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_13-05-56Z_RetrievedbutNotDelivered_MultimodalMemoryDeliveryf.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_13-53-33Z_TrusttheBrand_LoseControl_HowIdentityHijacksLLMAge.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_03-33-15Z_CoMemBench_BenchmarkingCollaborativeMemoryBoundari.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_19-13-38Z_VibeAnalysis_ExploringLLMAdoptionbyDataVisualizati.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_17-54-03Z_ImprovingLLMCollaborationviaMulti_AgentPreferenceL.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_11-33-53Z_RepoMAS_SolvingProgressivelySpecifiedTaskswithIssu.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_22-13-11Z_QuantizationThresholdsReplicate_FailureModesDoNot_.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_11-39-00Z_DAAF_FromFailureLocalizationtoEditableSystemAssets.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_20-32-33Z_Goal_PersistentCodingAgentsasScientificPerformance.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_06-51-27Z_OntheCapabilityandLimitationofHardPrompt.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_23-55-38Z_GameBoyWorlds_ATestbedforSelf_ImprovementinEmbodie.md
+## [2026-09-28 21:04] stage-paper | 2026-09-23_13-28-38Z_WhatStopsRecursiveSelf_ImprovementinRobotics_Lesso.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_09-55-56Z_CyberClear_ABenchmarkforLLMAgentSystemsonAPTAttack.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_14-01-34Z_CanOpen_WeightLargeLanguageModels_LLMs_SimulateHum.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_14-57-17Z_IGSD_Environment_VerifiedHindsightSelf_Distillatio.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_03-46-50Z_TheJudgeIsNotItsTwin_Post_trainingmakesamodel_swri.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_08-54-21Z_MeasurementBoundariesinLLMFinancialAgentEvaluation.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_21-32-31Z_SilentCall_HiddenTool_CallBackdoorsinOpen_WeightAg.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_21-31-56Z_ABenchmarkforLLM_sUnderstandingofMiddleSchoolandHi.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_14-19-40Z_AsynCodeBench_BenchmarkingCollaborationofAsynchron.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_16-26-03Z_HowFarDoPersonaEffectsGeneralizeinLanguageModels.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_02-41-56Z_PastForward_FasterOn_DeviceGUIAgentsviaComputation.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_06-59-03Z_Train4Merge_AControlledSingle_TeacherStudyofRLvs_S.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_00-43-56Z_UsingLMstoModeltheEffectsofContextandCoreferencedu.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_12-01-32Z_REFINE_AResilientEvolutionFrameworkforIntelligentE.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_13-38-31Z_You_reRight_LetMeFixIt__HowLLMAgentsDamageCorrectW.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_17-02-19Z_CLAIRE_ASchema_GroundedHybridWorkflowforHealthcare.md
+## [2026-09-28 21:04] stage-paper | 2026-09-25_20-53-04Z_BeforetheRolloutEnds_EarlyTerminalRewardPrediction.md
+## [2026-09-28 21:04] stage-paper | 2026-09-26_13-48-10Z_ExpVoyager_DirectExperienceNavigationforDynamicAge.md
+## [2026-09-28 21:04] ingest | 2026-09-28_HowwewilldobetterforAustralia.md
