@@ -6,6 +6,7 @@ tags: ['wiki']
 # Log
 
 ## [2026-09-29 06:00] summarize | refreshed concepts/ai-trends/daily-ai-intelligence-blog-2026-09-29.md from the complete AI-only intake plus direct lab/news sweep; synthesized OpenAI's Australia disclosure, frontier safety/economics, staged open weights, verifiable task expertise, long-form video state tracking, AI-for-science, and model-compute convergence; 1 kept paper deferred because its local summary is empty; 213 arXiv retry records recovered but not promoted as a reviewed keep set; Logseq mirror and GitHub push required
+## [2026-09-29 12:01] summarize | refreshed the September 29 AI-only briefing with the reported Meta Muse home-address disclosure, Muse for Small Business launch, Dazzle camera-roll context, and reported GPT-6.1 Astra delay; retained explicit source and evidence caveats; Logseq mirror and GitHub push required
 ## [2026-09-29 00:00] finalize | 2026-09-28 canonical final prepared; complete local-time curation query returned 0 target-date keeps and stable-identity comparison found 0 uncovered carry-forward papers; final paper-link count 0 matches selected-paper count; wiki/Logseq mirror, GitHub, and Lumistorm publication verification follows
 
 ## [2026-09-29] research | created concepts/object-detection/RF-DETR.md and the focused 2026-09-29 recovery briefing; added RF-DETR to the original September 28 briefing target; Logseq mirrors synchronized
@@ -14876,3 +14877,8 @@ tags: ['wiki']
 ## [2026-09-29 06:07] ingest | 2026-09-29_AIcompaniesleakdatatoadvertisers_pdf_.md
 ## [2026-09-29 07:08] ingest | 2026-09-29_YouAreNoLongerInvitedtoDinner.md
 ## [2026-09-29 08:07] ingest | 2026-09-29_OpenAIapologizestoAustraliaafteritsAIagentsbreache.md
+## [2026-09-29 08:59] ingest | 2026-09-29_WillChineseAIcompaniesslowdown_AtopHouseDemocratwa.md
+## [2026-09-29 08:59] ingest | 2026-09-29_WithDazzle_MarissaMayerbetsyourcamerarollhasmorein.md
+## [2026-09-29 09:54] ingest | 2026-09-29_Meta__8217_sMuseAIsentaYouTuber_saddresstoastrange.md
+## [2026-09-29 11:04] ingest | 2026-09-29_Instinctfoundersaidmorethan50_oftransactionsonthep.md
+## [2026-09-29 11:04] ingest | 2026-09-29_FromAIpredictiontoantibodyvalidationindays-News-Me.md

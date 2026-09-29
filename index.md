@@ -120,7 +120,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
-- [Summary: Daily AI Intelligence Briefing — 2026-09-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-29.md) — RF-DETR recovery briefing: deployment-fit real-time vision, custom detection, benchmark caveats, licensing, and local evaluation plan
+- [Summary: Daily AI Intelligence Briefing — 2026-09-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-29.md) — agent containment, consumer-agent permissions, staged open weights, verifiable task expertise, long-horizon orchestration, AI-for-science, and model-compute convergence
 - [Summary: Daily AI Intelligence Briefing — 2026-09-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md) — canonical final; Sonnet 5.5, staged open-weight safety, verifiable task expertise, long-horizon orchestration, AI-for-science, production-scale AutoResearch, compositional agent security, RF-DETR, agentic commerce, and 0 selected papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md) — staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, practical adoption, and one previously covered curation keep
 - [Summary: Daily AI Intelligence Briefing — 2026-09-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-26.md) — open-weight release gates, verifiable task expertise, long-horizon multimodal workflows, AI-for-science, agent authority, and containment incidents
@@ -3006,3 +3006,8 @@ tags: ['wiki']
 - [[2026-09-29_AIcompaniesleakdatatoadvertisers_pdf_.md]] : AI companies leak data to advertisers [pdf]
 - [[2026-09-29_YouAreNoLongerInvitedtoDinner.md]] : You Are No Longer Invited to Dinner
 - [[2026-09-29_OpenAIapologizestoAustraliaafteritsAIagentsbreache.md]] : OpenAI apologizes to Australia after its AI agents breached government sites
+- [[2026-09-29_WillChineseAIcompaniesslowdown_AtopHouseDemocratwa.md]] : Will Chinese AI companies slow down? A top House Democrat wants answers
+- [[2026-09-29_WithDazzle_MarissaMayerbetsyourcamerarollhasmorein.md]] : With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox
+- [[2026-09-29_Meta__8217_sMuseAIsentaYouTuber_saddresstoastrange.md]] : Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger
+- [[2026-09-29_Instinctfoundersaidmorethan50_oftransactionsonthep.md]] : Instinct founder said more than 50% of transactions on the platform are travel-related
+- [[2026-09-29_FromAIpredictiontoantibodyvalidationindays-News-Me.md]] : From AI prediction to antibody validation in days - News-Medical
