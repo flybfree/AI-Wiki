@@ -36,6 +36,12 @@ The next useful step is an actual local benchmark measuring mAP50:95, per-class 
 3. Measure end-to-end latency rather than model-only latency.
 4. Confirm the applicable license before commercial redistribution, especially for XL/2XL.
 
+## Research Intake and Coverage
+
+The September 29 retry recovered the previously failing arXiv query layer: all 14 category/topic queries returned HTTP 200 on the bounded first-page retry, yielding 213 unique papers after arXiv-ID deduplication. The retry log is recorded in `raw/logs/arxiv_retry_2026-09-29_00-38.md`.
+
+The downstream full scout attempt was stopped after the summarization stage stalled for more than five minutes without new output. No paper from this retry was promoted automatically into the briefing. The recovered set is therefore available for abstract-level triage, but it is not yet a reviewed keep set.
+
 ## Sources / References
 
 - [RF-DETR research page](../object-detection/RF-DETR.md)

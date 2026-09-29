@@ -2996,3 +2996,10 @@ tags: ['wiki']
 - [[2026-09-28_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
 - [[2026-09-28_Jeff_Jev-compatible0_8Bdecisionmodels_trainedathom.md]] : Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
 - [[2026-09-28_HowwewilldobetterforAustralia.md]] : How we will do better for Australia
+- [[2026-09-29_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-29_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-09-29_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
+- [[2026-09-29_HowwewilldobetterforAustralia.md]] : How we will do better for Australia
+- [[2026-09-29_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
+- [[2026-09-29_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-29_Anthropic_sprospectusdetailslosses_growth_and_yes_.md]] : Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity
