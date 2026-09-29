@@ -3012,3 +3012,9 @@ tags: ['wiki']
 - [[2026-09-29_Instinctfoundersaidmorethan50_oftransactionsonthep.md]] : Instinct founder said more than 50% of transactions on the platform are travel-related
 - [[2026-09-29_FromAIpredictiontoantibodyvalidationindays-News-Me.md]] : From AI prediction to antibody validation in days - News-Medical
 - [[2026-09-29_Canachatbotfixthegovernmentmaze_TheWhiteHouseisabo.md]] : Can a chatbot fix the government maze? The White House is about to find out
+- [[2026-09-29_GPT6_1Sol.md]] : GPT 6.1 Sol
+- [[2026-09-29_OpenAItakesonMicrosoftwiththelaunchofwhatfeelsawho.md]] : OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite
+- [[2026-09-29_OpenAIDevDay2026_Thebiggestnewsandannouncements.md]] : OpenAI DevDay 2026: The biggest news and announcements
+- [[2026-09-29_GPT6_1Sol_Near-Astraintelligenceforafifthofthepric.md]] : GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
+- [[2026-09-29_DevDay2026Recap.md]] : DevDay 2026 Recap
+- [[2026-09-29_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
