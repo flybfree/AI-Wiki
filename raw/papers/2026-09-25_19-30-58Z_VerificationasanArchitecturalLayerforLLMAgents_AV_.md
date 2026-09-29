@@ -1,0 +1,18 @@
+---
+title: Verification as an Architectural Layer for LLM Agents: A V-Model Design, and a Pilot Study of Its Deterministic Core
+published: 2026-09-25T19:30:58Z
+authors: Ali Afoud, Jie JW Wu
+url: http://arxiv.org/abs/2609.31937v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Verification as an Architectural Layer for LLM Agents: A V-Model Design, and a Pilot Study of Its Deterministic Core
+
+## Abstract
+Large language model (LLM) agents built on the ReAct pattern concentrate four responsibilities in one model: selecting a strategy, choosing each action, formatting it, and judging whether the result is adequate. Nothing outside the generative loop can reject its output, so an agent that cannot make progress does not report failure; it runs until an external budget stops it. We propose treating verification as an architectural layer by adapting the V-model from software engineering: specification levels descend from requirements to individual steps, each level is paired with a dedicated verifier, a deterministic controller enforces every verdict, and only verification outcomes write to memory, so a rejection localizes the level that introduced the fault and an agent halts by declining rather than by exhaustion. Each verifier separates a zero-cost deterministic \emph{gate} from an optional LLM \emph{judge}, so the contribution and cost of each can be measured independently. We report a pilot implementing the acceptance- and unit-level verifier pairs, comparing five configurations that share one executor, tool set, and scorer and differ only in verification, on the four-hop stratum of MuSiQue with an 8B-parameter backbone. Across 47 executions, the two unverified configurations answered none of ten questions, every run ending at a step cap or provider token limit; the verified configuration without a planner answered eight and abstained on the rest. Deterministic gates produced eight of the nine observed corrections at zero marginal cost, and planning degraded performance once verification was present. These results characterize termination behavior, not accuracy at scale; we outline a twelve-month plan to complete and evaluate the full architecture, including the integration-level pair the pilot omits.
+
+## Metadata
+- **Published**: 2026-09-25T19:30:58Z
+- **Authors**: Ali Afoud, Jie JW Wu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.31937v1)

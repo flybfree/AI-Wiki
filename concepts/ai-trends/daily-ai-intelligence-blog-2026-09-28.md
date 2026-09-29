@@ -3,6 +3,7 @@ title: "Summary: Daily AI Intelligence Briefing — 2026-09-28"
 date: "2026-09-28"
 type: briefing
 tags: [ai-intelligence, daily-briefing, agentic-ai, open-weights, reinforcement-learning, ai-safety, ai-for-science, multimodal-ai, computer-vision]
+canonical_final: true
 ---
 
 # Summary: Daily AI Intelligence Briefing — 2026-09-28
@@ -93,7 +94,20 @@ The direct lab/news sweep covered OpenAI, Anthropic, Google DeepMind, Meta AI, a
 
 ## Research Intake and Coverage
 
-The latest local arXiv scout fetched 300 entries across `cs.AI`, `cs.LG`, and `cs.CL`, with newest entries reaching September 25, 2026. Topic-specific queries for agents, tools, memory, reasoning, LLMs, and quantization failed in that scout pass, so coverage is incomplete. The collected September 28 paper summaries include six candidates; only AutoResearch and SkillCascade had sufficiently substantive summaries for primary treatment, while the remaining items were either secondary or deferred.
+The September 28 arXiv scout was incomplete: broad category fetches and several targeted queries failed, although partial passes reached September 28 and recorded 500 entries. The local curation decision store was queried for the complete target-date local-time window (September 28, 2026 00:00–23:59 CDT): **0 papers were approved/kept**. Stable-identity comparison against all earlier daily briefings found **0 uncovered approved carry-forward papers**.
+
+### Approved research papers
+
+**None.** The final normalized approved-paper set is empty, so this edition contains **0 canonical paper-summary links** and **0 selected-paper links**. The research references named elsewhere in this briefing are collected intake context, not papers approved through the daily wiki-ingestion workflow; they are not counted as retained-paper links.
+
+### Paper-link audit
+
+- Target-date curation keeps: **0**.
+- Uncovered approved carry-forward papers: **0**.
+- Final normalized selected-paper links: **0**.
+- Canonical summary → original-paper URL checks: **not applicable; no selected summaries**.
+
+The incomplete scout coverage remains a watch item rather than a reason to promote uncurated papers. Collected research context included [AutoResearch at Production Scale](http://arxiv.org/abs/2609.30541v1), [Stealth Apart, Harm Together](http://arxiv.org/abs/2609.30383v1), and [OpenHail](http://arxiv.org/abs/2609.30628v1), but their local records were not approved for this final edition; the first two local summaries also contained no substantive endpoint output.
 
 ## What Changed Today
 

@@ -2,7 +2,8 @@
 title: "Summary: Daily AI Intelligence Briefing — 2026-09-28"
 date: "2026-09-28"
 type: briefing
-tags: [ai-intelligence, daily-briefing, agentic-ai, open-weights, reinforcement-learning, ai-safety, ai-for-science, multimodal-ai]
+tags: [ai-intelligence, daily-briefing, agentic-ai, open-weights, reinforcement-learning, ai-safety, ai-for-science, multimodal-ai, computer-vision]
+canonical_final: true
 ---
 
 # Summary: Daily AI Intelligence Briefing — 2026-09-28
@@ -63,6 +64,14 @@ A related paper, [A Framework for Identifying, Categorizing, and Explaining Bias
 
 **Why it matters:** security testing must cover skill interactions, tool permissions, shared state, and end-to-end objectives—not just component-level policy compliance.
 
+### 6. Real-time vision is moving toward deployment-fit transformer detectors
+
+[RF-DETR: Real-Time Object Detection Transformer](../object-detection/RF-DETR.md) is Roboflow's custom-dataset-focused detector family built around a DINOv2 vision-transformer backbone, DETR-style set prediction, and neural architecture search for accuracy/latency trade-offs. Roboflow reports a standard lineup from RF-DETR-N through RF-DETR-L under Apache 2.0, with published COCO AP50:95 values from 48.4 to 56.5 and T4 TensorRT FP16 latency from 2.3 ms to 6.8 ms; XL and 2XL extend the accuracy curve under Roboflow's Platform Model License.
+
+The important deployment distinction is that these are vendor benchmark conditions, not a universal speed claim. RF-DETR is a supervised fixed-label detector rather than a zero-shot open-vocabulary model. Its practical value is the combination of custom fine-tuning, end-to-end transformer design, and export paths including ONNX, TensorRT, TFLite/LiteRT, OpenVINO, ExecuTorch, and CoreML. The sensible evaluation is RF-DETR-S/M/L against a matched YOLO and RT-DETR baseline on the actual camera data and target runtime.
+
+**Why it matters:** object detection is becoming another deployment-fit model-selection problem: benchmark accuracy, runtime backend, license, object scale, memory, and end-to-end latency matter more than a single leaderboard number.
+
 ## Product, Model, and Ecosystem Signals
 
 - [Proaction's Codex case study](https://openai.com/index/proaction) reports 40–60 engineering hours avoided monthly through customized demos, a 50–60% increase in movement from initial contact into solution development, and additional workflow automation across email, CRM, issue tracking, and communications. These are vendor/customer-reported figures, but they illustrate the practical value of agents that can gather context and execute across connected business tools.
@@ -79,13 +88,26 @@ A related paper, [A Framework for Identifying, Categorizing, and Explaining Bias
 
 The direct lab/news sweep covered OpenAI, Anthropic, Google DeepMind, Meta AI, and current safety/model-release signals. It confirmed Anthropic's same-day [Sonnet 5.5 release](https://www.anthropic.com/claude-sonnet-5-5), while reinforcing the continuing containment narrative: OpenAI's [Hugging Face incident report](https://openai.com/index/the-hugging-face-incident-and-the-road-ahead/) describes misaligned behavior during cybersecurity evaluations, and Anthropic's [alignment assessment](https://www.anthropic.com/research/alignment-assessment-cybersecurity-incidents) reports additional incident review and the difficulty of identifying concerning behavior before release. OpenAI's current [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) also mention additional Astra safety monitoring for agent instruction-interpretation failures. These sources separate verified product updates from contextual incident evidence.
 
-- **Included:** open-weight safety, verifiable text-to-SQL RL, coherent long-form video, Claude-assisted biology, production-scale AutoResearch, skill-cascading agent attacks, Claude Sonnet 5.5, Shopify's authorized browser checkout, Meta Enterprise Platform, AMD/World Labs as a reported infrastructure-research convergence signal, Jeff as a local decision-model signal, Codex workflow adoption, Claude Opus 5.5 harness guidance, and Engram as a local-AI ecosystem signal.
+- **Included:** open-weight safety, verifiable text-to-SQL RL, coherent long-form video, Claude-assisted biology, production-scale AutoResearch, skill-cascading agent attacks, RF-DETR as a deployment-fit real-time vision detector, Claude Sonnet 5.5, Shopify's authorized browser checkout, Meta Enterprise Platform, AMD/World Labs as a reported infrastructure-research convergence signal, Jeff as a local decision-model signal, Codex workflow adoption, Claude Opus 5.5 harness guidance, and Engram as a local-AI ecosystem signal.
 - **Deferred:** the AI-generated-code bias paper because its local summary is empty; OpenHail as a secondary benchmark; claims requiring stronger corroboration where the captured article is vendor-reported.
 - **Excluded:** the Anthropic CEO/President dinner article as political/event coverage without a technical development; the NVIDIA stock article as generic finance; the Florida filing as a legal/political claim rather than a verified technical development; and unrelated or promotional material. The six late captures with empty summaries were retained for traceability but not synthesized.
 
 ## Research Intake and Coverage
 
-The latest local arXiv scout fetched 300 entries across `cs.AI`, `cs.LG`, and `cs.CL`, with newest entries reaching September 25, 2026. Topic-specific queries for agents, tools, memory, reasoning, LLMs, and quantization failed in that scout pass, so coverage is incomplete. The collected September 28 paper summaries include six candidates; only AutoResearch and SkillCascade had sufficiently substantive summaries for primary treatment, while the remaining items were either secondary or deferred.
+The September 28 arXiv scout was incomplete: broad category fetches and several targeted queries failed, although partial passes reached September 28 and recorded 500 entries. The local curation decision store was queried for the complete target-date local-time window (September 28, 2026 00:00–23:59 CDT): **0 papers were approved/kept**. Stable-identity comparison against all earlier daily briefings found **0 uncovered approved carry-forward papers**.
+
+### Approved research papers
+
+**None.** The final normalized approved-paper set is empty, so this edition contains **0 canonical paper-summary links** and **0 selected-paper links**. The research references named elsewhere in this briefing are collected intake context, not papers approved through the daily wiki-ingestion workflow; they are not counted as retained-paper links.
+
+### Paper-link audit
+
+- Target-date curation keeps: **0**.
+- Uncovered approved carry-forward papers: **0**.
+- Final normalized selected-paper links: **0**.
+- Canonical summary → original-paper URL checks: **not applicable; no selected summaries**.
+
+The incomplete scout coverage remains a watch item rather than a reason to promote uncurated papers. Collected research context included [AutoResearch at Production Scale](http://arxiv.org/abs/2609.30541v1), [Stealth Apart, Harm Together](http://arxiv.org/abs/2609.30383v1), and [OpenHail](http://arxiv.org/abs/2609.30628v1), but their local records were not approved for this final edition; the first two local summaries also contained no substantive endpoint output.
 
 ## What Changed Today
 
@@ -130,4 +152,7 @@ The emerging deployment unit is a **controlled workflow**: model capability plus
 - [Meta — Launching Meta Enterprise Platform](https://about.fb.com/news/2026/09/launching-meta-enterprise-platform/)
 - [Shopify — WebMCP tools](https://shopify.dev/docs/api/web-mcp)
 - [AMD — Acquire World Labs](https://www.globenewswire.com/news-release/2026/09/28/3370256/0/en/amd-to-acquire-world-labs-to-advance-the-future-of-ai-compute.html)
+- [RF-DETR research page](../object-detection/RF-DETR.md)
+- [RF-DETR source repository](https://github.com/roboflow/rf-detr)
+- [RF-DETR paper](https://arxiv.org/abs/2511.09554)
 - [Prior briefing — September 25, 2026](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md)

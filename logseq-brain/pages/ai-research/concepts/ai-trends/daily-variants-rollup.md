@@ -29,12 +29,10 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
-| ScienceDaily | [[raw/articles/2026-07-03_ArtificialIntelligenceNews--ScienceDaily.md|2026-07-03 raw]] | [[entities/article/2026-07-03_ArtificialIntelligenceNews--ScienceDaily_summary.md|2026-07-03 summary]] | Broad science/AI roundup |
-| TechCrunch | [[raw/articles/2026-07-03_GenerativeAInewsandanalysis_TechCrunch.md|2026-07-03 raw]] | [[entities/article/2026-07-03_GenerativeAInewsandanalysis_TechCrunch_summary.md|2026-07-03 summary]] | Generative AI news/tag page |
-| AI Business | [[raw/articles/2026-07-02_GenerativeAIrecentnews_AIBusiness.md|2026-07-02 raw]] | [[entities/article/2026-07-02_GenerativeAIrecentnews_AIBusiness_summary.md|2026-07-02 summary]] | Recent generative AI news |
-| MIT News | [[raw/articles/2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass.md|2026-06-18 raw]] | [[entities/article/2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass_summary.md|2026-06-18 summary]] | Future of generative AI |
-| GenAI.works | [[raw/articles/2026-04-30_GenAI_works_GenerativeAIDailyNewsletter_Generative.md|2026-04-30 raw]] | archived | Daily newsletter |
-| AI Weekly | [[raw/articles/2026-05-01_GenerativeAINews_AITrends_Updates_Tracker_AIWeekly.md|2026-05-01 raw]] | archived | Tracker / roundup |
+| ScienceDaily | [[entities/article/2026-07-03_ArtificialIntelligenceNews--ScienceDaily_summary.md|2026-07-03 raw]] | [[entities/article/2026-07-03_ArtificialIntelligenceNews--ScienceDaily_summary.md|2026-07-03 summary]] | Broad science/AI roundup |
+| TechCrunch | [[entities/article/2026-07-03_GenerativeAInewsandanalysis_TechCrunch_summary.md|2026-07-03 raw]] | [[entities/article/2026-07-03_GenerativeAInewsandanalysis_TechCrunch_summary.md|2026-07-03 summary]] | Generative AI news/tag page |
+| AI Business | [[entities/article/2026-07-02_GenerativeAIrecentnews_AIBusiness_summary.md|2026-07-02 raw]] | [[entities/article/2026-07-02_GenerativeAIrecentnews_AIBusiness_summary.md|2026-07-02 summary]] | Recent generative AI news |
+| MIT News | [[entities/article/2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass_summary.md|2026-06-18 raw]] | [[entities/article/2026-06-18_WhatdoesthefutureholdforgenerativeAI__MITNews_Mass_summary.md|2026-06-18 summary]] | Future of generative AI |
 
 ## Consolidation Pattern
 
@@ -46,9 +44,14 @@ Use this page as the stable landing zone for daily variants:
 4. If a source starts covering a different topic family, split it into a separate concept page.
 
 ## Related Pages
-
+- [Summary: Daily AI Intelligence Briefing — 2026-09-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md) — canonical final; 0 target-date keeps and 0 uncovered carry-forward papers
+- [Summary: Daily AI Intelligence Briefing — 2026-09-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-27.md) — canonical final; 0 target-date keeps and 0 uncovered carry-forward papers
+- [Summary: Daily AI Intelligence Briefing — 2026-09-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-26.md) — open-weight release gates, verifiable task expertise, long-horizon multimodal workflows, AI-for-science, agent authority, interactive avatars, and containment incidents
 - [Summary: Daily AI Intelligence Briefing — 2026-09-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md)
 - [Summary: Daily AI Intelligence Briefing — 2026-09-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-24.md)
+- [Summary: Daily AI Intelligence Briefing — 2026-09-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md) — canonical final; three previously approved research papers carried forward
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]]
+
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]]
 - [Summary: Daily AI Intelligence Briefing — 2026-09-20](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-20.md)
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-19.md|Summary: Daily AI Intelligence Briefing — 2026-09-19]]
