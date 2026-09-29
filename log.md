@@ -14873,3 +14873,6 @@ tags: ['wiki']
 ## [2026-09-29 02:21] stage-paper | 2026-09-28_16-08-19Z_MechBench_CanAIScientificAgentsDiscoverMechanismsB.md
 ## [2026-09-29 02:21] stage-paper | 2026-09-28_16-46-25Z_SEABench_BenchmarkingEndogenousMisalignmentInSelf_.md
 ## [2026-09-29 02:21] stage-paper | 2026-09-28_16-30-42Z_FromExperiencetoExpertise_Adoption_AwareMemoryLear.md
+## [2026-09-29 06:07] ingest | 2026-09-29_AIcompaniesleakdatatoadvertisers_pdf_.md
+## [2026-09-29 07:08] ingest | 2026-09-29_YouAreNoLongerInvitedtoDinner.md
+## [2026-09-29 08:07] ingest | 2026-09-29_OpenAIapologizestoAustraliaafteritsAIagentsbreache.md

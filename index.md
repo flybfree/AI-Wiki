@@ -3003,3 +3003,6 @@ tags: ['wiki']
 - [[2026-09-29_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
 - [[2026-09-29_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-29_Anthropic_sprospectusdetailslosses_growth_and_yes_.md]] : Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity
+- [[2026-09-29_AIcompaniesleakdatatoadvertisers_pdf_.md]] : AI companies leak data to advertisers [pdf]
+- [[2026-09-29_YouAreNoLongerInvitedtoDinner.md]] : You Are No Longer Invited to Dinner
+- [[2026-09-29_OpenAIapologizestoAustraliaafteritsAIagentsbreache.md]] : OpenAI apologizes to Australia after its AI agents breached government sites
