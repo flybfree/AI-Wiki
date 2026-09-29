@@ -129,6 +129,10 @@ For an NVIDIA GPU, RF-DETR-M is the sensible default starting point; RF-DETR-S i
 - The published model table separates Apache-licensed standard models from PML-licensed Plus models.
 - The current wiki does not contain a local RF-DETR accuracy, VRAM, or end-to-end throughput benchmark.
 
+## Current implementation note
+
+The repository's latest visible release is `v1.11.0` (September 24, 2026). The release notes describe a wider export surface, including OpenVINO IR, LiteRT, Apple Core AI, and dynamic-batch TensorRT engines, plus CUDA-graph training and WebDataset support. Export details can change faster than the model family itself, so deployment work should pin the package version and re-run the export smoke test when upgrading.
+
 ## Sources
 
 - [RF-DETR source repository](https://github.com/roboflow/rf-detr)
