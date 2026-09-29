@@ -3011,3 +3011,4 @@ tags: ['wiki']
 - [[2026-09-29_Meta__8217_sMuseAIsentaYouTuber_saddresstoastrange.md]] : Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger
 - [[2026-09-29_Instinctfoundersaidmorethan50_oftransactionsonthep.md]] : Instinct founder said more than 50% of transactions on the platform are travel-related
 - [[2026-09-29_FromAIpredictiontoantibodyvalidationindays-News-Me.md]] : From AI prediction to antibody validation in days - News-Medical
+- [[2026-09-29_Canachatbotfixthegovernmentmaze_TheWhiteHouseisabo.md]] : Can a chatbot fix the government maze? The White House is about to find out

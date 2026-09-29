@@ -93,9 +93,9 @@ The local curation store contains **1 keep decision** for the target workflow: `
 
 ## Direct Sweep and Classification
 
-The direct lab/news sweep checked OpenAI, Anthropic, Google DeepMind, Meta AI, and current safety/model-release signals. It reinforced the local corpus rather than displacing it: OpenAI's official incident page describes the Hugging Face event as its most severe identified activity of this kind; Google DeepMind's current blog lists September model, science, and responsibility updates; Meta launched Muse for Small Business; and same-day reporting highlighted delayed release, consumer-agent permission failures, agent containment, and platform-level safety work.
+The direct lab/news sweep checked OpenAI, Anthropic, Google DeepMind, Meta AI, and current safety/model-release signals. It reinforced the local corpus rather than displacing it: OpenAI's official incident page describes the Hugging Face event as its most severe identified activity of this kind; Google DeepMind's current blog lists September model, science, and responsibility updates; Meta launched Muse for Small Business; and same-day reporting highlighted delayed release, consumer-agent permission failures, agent containment, platform-level safety work, and the proposed [America.gov Gemini-backed government chatbot](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/).
 
-- **Included:** OpenAI's Australia disclosure and reported Astra delay; Meta Muse permission failure and Muse for Small Business; Dazzle as a camera-roll-context signal; staged open-weight safety; verifiable task-specific RL; long-form video orchestration; Claude-assisted biology; AMD/World Labs as a reported model-compute convergence signal; Anthropic prospectus risk/economics as reported context; Nvidia containment tooling as a same-day ecosystem signal.
+- **Included:** OpenAI's Australia disclosure and reported Astra delay; Meta Muse permission failure and Muse for Small Business; Dazzle as a camera-roll-context signal; America.gov as a high-stakes public-service deployment signal; staged open-weight safety; verifiable task-specific RL; long-form video orchestration; Claude-assisted biology; AMD/World Labs as a reported model-compute convergence signal; Anthropic prospectus risk/economics as reported context; Nvidia containment tooling as a same-day ecosystem signal.
 - **Deferred:** the one kept paper with an empty local summary; financial and acquisition details pending primary-source confirmation; unreviewed arXiv retry results.
 - **Excluded:** generic finance, political/event coverage without a technical development, unrelated technology, and raw aggregator noise.
 
@@ -118,12 +118,13 @@ The deployment unit is a **controlled workflow**, not a model endpoint. The mini
 1. Whether OpenAI publishes verifiable timelines, technical findings, and outcomes from the Australian taskforce.
 2. Whether delayed frontier-model releases produce concrete safety evidence rather than only schedule changes.
 3. Whether Meta changes Muse's default permission scopes and approval UX after the reported address disclosure.
-4. Thinking Machines' promised detailed open-weight evaluation framework, access criteria, and stop conditions.
-5. Independent reproduction of ReViSQL-K2.6 on unseen enterprise schemas and real database workloads.
-6. Whether Google's video frameworks preserve user intent and provenance across many correction loops.
-7. Functional characterization and independent replication of Anthropic's ART enzyme-system result.
-8. Primary-source confirmation of the reported AMD/World Labs transaction and its compute/model co-design plans.
-9. Recovery and re-review of the one approved paper whose local summary failed, plus triage of the 213-paper arXiv retry set.
+4. Whether America.gov adds authoritative retrieval, source citations, escalation, and correction mechanisms before users rely on it for benefits, visas, or taxes.
+5. Thinking Machines' promised detailed open-weight evaluation framework, access criteria, and stop conditions.
+6. Independent reproduction of ReViSQL-K2.6 on unseen enterprise schemas and real database workloads.
+7. Whether Google's video frameworks preserve user intent and provenance across many correction loops.
+8. Functional characterization and independent replication of Anthropic's ART enzyme-system result.
+9. Primary-source confirmation of the reported AMD/World Labs transaction and its compute/model co-design plans.
+10. Recovery and re-review of the one approved paper whose local summary failed, plus triage of the 213-paper arXiv retry set.
 
 ## Sources / References
 
@@ -131,6 +132,7 @@ The deployment unit is a **controlled workflow**, not a model endpoint. The mini
 - [OpenAI — The Hugging Face incident and other third-party impact](https://openai.com/hugging-face-incident-and-misalignment/)
 - [Associated Press — OpenAI delays GPT-6.1 Astra over safety concerns](https://apnews.com/article/5afb865b2cddc439efdcf31ebdc406a5)
 - [Meta — Muse for Small Business](https://about.fb.com/news/2026/09/introducing-muse-small-business/)
+- [TechCrunch — America.gov government chatbot](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/)
 - [Thinking Machines — A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/)
 - [Thinking Machines — Putting Task Expertise into RL](https://thinkingmachines.ai/news/putting-task-expertise-into-rl/)
 - [Google Research — Automating coherent long-form video generation](https://research.google/blog/coherent-long-form-video-generation/)
