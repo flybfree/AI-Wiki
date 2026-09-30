@@ -3042,3 +3042,8 @@ tags: ['wiki']
 - [[2026-09-30_September2026_Theworldtoday_asseenbyonePolishguy.md]] : September 2026: The world today, as seen by one Polish guy
 - [[2026-09-30_Pi_dev_YouSaidNoMCP.md]] : Pi.dev: You Said No MCP
 - [[2026-09-30_AirbnbaddsAIsearch_moresocialfeatures.md]] : Airbnb adds AI search, more social features
+- [[2026-09-30_Here_showtechleaderswillself-policeAIsafetyunderTr.md]] : Here’s how tech leaders will self-police AI safety under Trump’s deal
+- [[2026-09-30_HelpingsmallbusinessesputAItowork.md]] : Helping small businesses put AI to work
+- [[2026-09-30_TheAIRaceJustGotAwkward.md]] : The AI Race Just Got Awkward
+- [[2026-09-30_AllthelatestnewsonMeta_scute_creepyMuseAIagent.md]] : All the latest news on Meta’s cute, creepy Muse AI agent
+- [[2026-09-30_DoorDashlaunchesanAIagentyoucantexttoorderfood.md]] : DoorDash launches an AI agent you can text to order food

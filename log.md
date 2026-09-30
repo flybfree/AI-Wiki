@@ -9,6 +9,7 @@ tags: ['wiki']
 
 ## [2026-09-30] briefing | added the preliminary Jev/Laya System One decision-model update to today's briefing; linked the TypeSafe Jev announcement, Laya repository, and canonical Laya wiki entry; mirrored to Logseq
 ## [2026-09-30] summarize | finalized the September 30 AI-only briefing from the complete local intake plus direct lab/news sweep; synthesized GPT-6.1 Sol economics, OpenAI safety gating, staged open weights, ReViSQL task expertise, Diffusion Controller, Anthropic AI-for-science, and Jev/Laya typed decisions; empty summaries and non-AI material excluded; no arXiv paper promoted because tool-use coverage failed; wiki and Logseq mirrors refreshed; GitHub commit and push required
+## [2026-09-30] refresh | direct lab/news sweep added the White House Accord on Super Intelligence as a voluntary self-regulation and external-audit signal; enforcement, disclosure, and implementation details remain unresolved; briefing and Logseq mirror refreshed
 
 ## [2026-09-30] ingest | added concepts/frameworks/laya-open-source-jev.md as the canonical wiki entry for Laya, documenting it as an open-source, self-hostable Jev-compatible System One decision engine; linked it from index.md and the TypeSafe AI System One concept; synchronized the Logseq mirror
 
@@ -15054,3 +15055,8 @@ tags: ['wiki']
 ## [2026-09-30 04:23] ingest | 2026-09-30_September2026_Theworldtoday_asseenbyonePolishguy.md
 ## [2026-09-30 05:22] ingest | 2026-09-30_Pi_dev_YouSaidNoMCP.md
 ## [2026-09-30 07:22] ingest | 2026-09-30_AirbnbaddsAIsearch_moresocialfeatures.md
+## [2026-09-30 08:18] ingest | 2026-09-30_Here_showtechleaderswillself-policeAIsafetyunderTr.md
+## [2026-09-30 11:16] ingest | 2026-09-30_HelpingsmallbusinessesputAItowork.md
+## [2026-09-30 11:16] ingest | 2026-09-30_TheAIRaceJustGotAwkward.md
+## [2026-09-30 11:16] ingest | 2026-09-30_AllthelatestnewsonMeta_scute_creepyMuseAIagent.md
+## [2026-09-30 11:16] ingest | 2026-09-30_DoorDashlaunchesanAIagentyoucantexttoorderfood.md
