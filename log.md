@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-09-30] briefing | added the preliminary Jev/Laya System One decision-model update to today's dated AI briefing; linked the TypeSafe Jev announcement, Laya repository, and canonical Laya wiki entry; mirrored to Logseq
+
 ## [2026-09-30] ingest | added concepts/frameworks/laya-open-source-jev.md as the canonical wiki entry for Laya, documenting it as an open-source, self-hostable Jev-compatible System One decision engine; linked it from index.md and the TypeSafe AI System One concept; synchronized the Logseq mirror
 
 ## [2026-09-29 18:00] summarize | refreshed the September 29 AI-only briefing with GPT-6.1 Sol's cost/capability release, OpenAI's ChatGPT app-distribution and Dots strategy, and reported financing context; deferred empty late summaries and excluded non-AI postal-fraud coverage; direct lab/news sweep checked OpenAI, Anthropic, Google DeepMind, and Meta; GitHub commit and push required
