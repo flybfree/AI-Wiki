@@ -3026,3 +3026,5 @@ tags: ['wiki']
 - [[2026-09-29_ElonMusk__8217_sAI-poweredGrokipediaisupdatingagai.md]] : Elon Musk&#8217;s AI-powered Grokipedia is updating again
 - [[2026-09-29_TrumpordersUSgovernmenttocallAI_SuperIntelligence_.md]] : Trump orders US government to call AI ‘Super Intelligence’
 - [[2026-09-29_TheinternetisconvincedElonMusk_sxAItrolledOpenAI_s.md]] : The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch
+- [[2026-09-29_Livenerf_HasOpus5_5beennerfedyet_.md]] : Livenerf: Has Opus 5.5 been nerfed yet?
+- [[2026-09-29_America_govgetsreallyweirdwhenyouaskitaboutMinecra.md]] : America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch

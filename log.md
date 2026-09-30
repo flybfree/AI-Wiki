@@ -14899,3 +14899,5 @@ tags: ['wiki']
 ## [2026-09-29 17:05] ingest | 2026-09-29_ElonMusk__8217_sAI-poweredGrokipediaisupdatingagai.md
 ## [2026-09-29 18:02] ingest | 2026-09-29_TrumpordersUSgovernmenttocallAI_SuperIntelligence_.md
 ## [2026-09-29 18:02] ingest | 2026-09-29_TheinternetisconvincedElonMusk_sxAItrolledOpenAI_s.md
+## [2026-09-29 18:40] ingest | 2026-09-29_Livenerf_HasOpus5_5beennerfedyet_.md
+## [2026-09-29 18:40] ingest | 2026-09-29_America_govgetsreallyweirdwhenyouaskitaboutMinecra.md
