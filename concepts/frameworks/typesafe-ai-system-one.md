@@ -67,6 +67,7 @@ The official Python SDK supports synchronous and asynchronous clients. The docum
 
 ## Related concepts
 
+- [Laya: open-source Jev-compatible decision engine](laya-open-source-jev.md)
 - [Existing TypeSafe launch summary](../../entities/article/2026-09-16_IntroducingSystemOneModelsandJev_summary.md)
 - [AI agents and agentic workflows](../ai-agents/ai-agents-lesson-13-agents-and-agentic-workflows.md)
 - [AI benchmarks](../ai-benchmarks/AIBenchmarks.md)

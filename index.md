@@ -112,6 +112,7 @@ tags: ['wiki']
 ### Training, Fine-Tuning & Local Model Tooling
 - [[concepts/frameworks/unsloth.md|Summary: Unsloth]] — local model running, efficient fine-tuning, export, deployment, and agent integration
 - [[concepts/frameworks/typesafe-ai-system-one.md|TypeSafe AI: System One Decision Models]] — typed AI primitives, parallel questions, calibrated confidence, and code-controlled workflows
+- [[concepts/frameworks/laya-open-source-jev.md|Laya: Open-Source Jev-Compatible System One Decision Engine]] — self-hostable open-source counterpart for fast structured decisions, calibrated probabilities, and local inference
 
 ### Computer Vision & Object Detection
 - [[concepts/object-detection/RF-DETR.md|RF-DETR: Real-Time Object Detection Transformer]] — Roboflow's NAS-designed real-time DETR family, custom-dataset training, deployment formats, licensing, and local evaluation plan
