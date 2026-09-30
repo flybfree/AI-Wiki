@@ -15060,3 +15060,7 @@ tags: ['wiki']
 ## [2026-09-30 11:16] ingest | 2026-09-30_TheAIRaceJustGotAwkward.md
 ## [2026-09-30 11:16] ingest | 2026-09-30_AllthelatestnewsonMeta_scute_creepyMuseAIagent.md
 ## [2026-09-30 11:16] ingest | 2026-09-30_DoorDashlaunchesanAIagentyoucantexttoorderfood.md
+## [2026-09-30 12:17] ingest | 2026-09-30_MetadisputesclaimthatMusereadauser_sprivatemessage.md
+## [2026-09-30 12:17] ingest | 2026-09-30_YouSaidNoMCP.md
+## [2026-09-30 13:16] ingest | 2026-09-30_LaunchHN_Magnitude_YCS25__Self-optimizinginference.md
+## [2026-09-30 13:16] ingest | 2026-09-30_RedditiskillingRSSfeedsandendingpublicAPIaccessbec.md

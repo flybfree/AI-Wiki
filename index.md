@@ -3047,3 +3047,7 @@ tags: ['wiki']
 - [[2026-09-30_TheAIRaceJustGotAwkward.md]] : The AI Race Just Got Awkward
 - [[2026-09-30_AllthelatestnewsonMeta_scute_creepyMuseAIagent.md]] : All the latest news on Meta’s cute, creepy Muse AI agent
 - [[2026-09-30_DoorDashlaunchesanAIagentyoucantexttoorderfood.md]] : DoorDash launches an AI agent you can text to order food
+- [[2026-09-30_MetadisputesclaimthatMusereadauser_sprivatemessage.md]] : Meta disputes claim that Muse read a user’s private messages without permission
+- [[2026-09-30_YouSaidNoMCP.md]] : You Said No MCP
+- [[2026-09-30_LaunchHN_Magnitude_YCS25__Self-optimizinginference.md]] : Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents
+- [[2026-09-30_RedditiskillingRSSfeedsandendingpublicAPIaccessbec.md]] : Reddit is killing RSS feeds and ending public API access because of AI bots
