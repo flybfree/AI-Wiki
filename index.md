@@ -3041,3 +3041,4 @@ tags: ['wiki']
 - [[2026-09-30_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-30_September2026_Theworldtoday_asseenbyonePolishguy.md]] : September 2026: The world today, as seen by one Polish guy
 - [[2026-09-30_Pi_dev_YouSaidNoMCP.md]] : Pi.dev: You Said No MCP
+- [[2026-09-30_AirbnbaddsAIsearch_moresocialfeatures.md]] : Airbnb adds AI search, more social features
