@@ -1,0 +1,18 @@
+---
+title: An Exact Generate - Transform Decomposition of Small-LLM Team Scaling Across Orchestration Architectures
+published: 2026-09-28T18:40:39Z
+authors: Blaz Bertalanic, Carolina Fortuna
+url: http://arxiv.org/abs/2609.36104v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# An Exact Generate - Transform Decomposition of Small-LLM Team Scaling Across Orchestration Architectures
+
+## Abstract
+Replacing one LLM agent with a collaborating team can raise accuracy, but whether scaling the team helps, and which architecture to scale, is unclear. Sweeping eight agent orchestration architectures across five instruction-tuned 7-9B models, five short-answer benchmarks, and an executable-code benchmark up to 30 calls, we find that the returns to team scaling are sharply task-dependent: from three to thirty calls accuracy rises by up to 17 points on the two arithmetic word-problem benchmarks (GSM8K, GSMHard) but by at most four on ARC, GPQA, and MMLU, for every architecture, a split the usual task-averaged number conceals. Proposer-Critic captures the arithmetic gains, scaling steepest and, in aggregate, surpassing every other architecture at the largest budget (item-clustered intervals exclude zero), though it ranks among the weakest elsewhere, and no architecture wins across tasks.   We explain these trajectories with an exact generate-transform decomposition. Partitioning any workflow into proposal coverage and a downstream transform, any accuracy change splits exactly into an extensive coverage dividend and an intensive transformation change. The decomposition diagnoses each task: arithmetic offers coverage headroom that a critic-guided transform converts, whereas the multiple-choice benchmarks either saturate in coverage or fail to convert it, and on open-ended code generative recovery nearly vanishes so accuracy tracks coverage. At equal call budgets token cost still varies 2.1x. Extra calls therefore create candidate opportunity that only some architectures, on some tasks, convert. Team scaling is a task- and architecture-specific bet, not a uniform lever.
+
+## Metadata
+- **Published**: 2026-09-28T18:40:39Z
+- **Authors**: Blaz Bertalanic, Carolina Fortuna
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.36104v1)

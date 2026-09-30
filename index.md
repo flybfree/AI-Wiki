@@ -3030,3 +3030,4 @@ tags: ['wiki']
 - [[2026-09-29_TheinternetisconvincedElonMusk_sxAItrolledOpenAI_s.md]] : The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch
 - [[2026-09-29_Livenerf_HasOpus5_5beennerfedyet_.md]] : Livenerf: Has Opus 5.5 been nerfed yet?
 - [[2026-09-29_America_govgetsreallyweirdwhenyouaskitaboutMinecra.md]] : America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch
+- [[2026-09-29_SamAltmansaysOpenAIwon_tgopublicuntilitsmodelsares.md]] : Sam Altman says OpenAI won’t go public until its models are safe

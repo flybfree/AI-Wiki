@@ -1,0 +1,18 @@
+---
+title: SCOUT: Synergizing Reasoning and Tool-Use for Computer-Use Safety
+published: 2026-09-28T20:01:35Z
+authors: Jianxing Chen, Xiao Yu, Shipra Agrawal, Zhou Yu
+url: http://arxiv.org/abs/2609.36201v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SCOUT: Synergizing Reasoning and Tool-Use for Computer-Use Safety
+
+## Abstract
+Computer-use agents (CUAs), while capable of completing computer tasks in everyday and professional workflows, can cause unintended harm even under benign instructions and environments. However, detecting such harm remains challenging. First, it requires careful, task-specific reasoning: verifiers guided only by general safety criteria often overlook many important but subtle harmful behaviors. Second, it requires active investigation: past trajectory screenshots show what the agent did but not always what actually changed in the environment, so LLM-as-a-judge verifiers that rely on screenshots alone may be unable to determine the actual consequences of actions. To address these challenges, we introduce SCOUT, a two-stage agentic safety verifier that synergizes reasoning-intensive rubric generation with tool-intensive evidence gathering. First, our SCOUT rubric generator extensively reasons over the task and the agent's trajectory to determine what successful and safe execution should entail, generating task-specific completion and safety rubrics. Then, our SCOUT probing agent follows these rubrics to interact with the post-execution environment and collect grounded evidence for final safety and completion judgments. We evaluate our framework on two computer-use safety benchmarks. On AutoElicit-Bench, SCOUT achieves 75.4 unsafe F1 and 74.5 completion F1, outperforming LLM-as-a-judge verifiers and naive tool-use verifiers. SCOUT leads on OS-Blind with 76.4% unsafe detection accuracy. Test-time reflection reduces final unsafe execution rates from 30.2% to 17.2% on AutoElicit-Bench. Ablations and analysis show that tool-free rubric generation in SCOUT elicits substantially more reasoning and is crucial for safety detection across verifier backbones, especially non-frontier ones. A preliminary extension to coding tasks shows that SCOUT can support safety verification beyond computer-use.
+
+## Metadata
+- **Published**: 2026-09-28T20:01:35Z
+- **Authors**: Jianxing Chen, Xiao Yu, Shipra Agrawal, Zhou Yu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.36201v1)

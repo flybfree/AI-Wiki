@@ -1,0 +1,18 @@
+---
+title: ContextRender: From Execution Dependencies to Agent Context
+published: 2026-09-29T14:57:00Z
+authors: Savini Kashmira, Jayanaka L. Dantanarayana, Lingjia Tang, Jason Mars
+url: http://arxiv.org/abs/2609.37743v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ContextRender: From Execution Dependencies to Agent Context
+
+## Abstract
+LLM agents performing long-horizon tasks accumulate tool results that later steps may need. Passing the full history to every invocation is costly even when it fits within the context window, while reducing it risks omitting needed information. Existing context management methods can overlook how earlier tool results are used in subsequent execution, leaving needed information out of context. We introduce ContextRender, which manages context through a persistent graph of execution dependencies. We develop Tool-Flow Analysis to track how later operations reuse information from earlier tool results, providing a signal called observed reuse. A renderer combines this signal with recency and semantic relevance to select results within a fixed history budget, retaining omitted results for later use. Across AppWorld and 8-objective QA with three execution models, ContextRender outperforms the evaluated context management baselines using a 6K history budget, well below the models' maximum context windows. Within this budget, it achieves task performance close to or above that of passing the full history while reducing mean inference cost by 10.2%-32.2% relative to Full history. Ablations show that observed reuse improves task performance and retention of results reused later.
+
+## Metadata
+- **Published**: 2026-09-29T14:57:00Z
+- **Authors**: Savini Kashmira, Jayanaka L. Dantanarayana, Lingjia Tang, Jason Mars
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.37743v1)

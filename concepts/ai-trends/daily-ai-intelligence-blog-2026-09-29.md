@@ -106,19 +106,23 @@ The direct sweep also found reporting that major technology companies agreed to 
 
 The September 29 arXiv retry recovered the query layer: 14 category/topic queries returned HTTP 200 and yielded 213 unique papers after arXiv-ID deduplication. The downstream full scout stalled during summarization, so the recovered set was not automatically promoted as a reviewed paper set.
 
-The local curation store contains **1 keep decision** for the target workflow: `Less Sycophancy, Stronger Refusal: Lessons for AI Safety`. Its generated summary is an endpoint failure with no substantive content, so it is **deferred from the narrative** pending source recovery. No paper is promoted here on the basis of an empty summary.
+The local curation store contains **1 keep decision** for the target workflow. The canonical summary was repaired from the raw paper capture and its original-paper URL was verified.
 
 - Target-date kept decisions: **1**
-- Substantive approved-paper summaries included: **0**
-- Deferred because the local summary is empty: **1**
+- Substantive approved-paper summaries included: **1**
+- Deferred because the local summary is empty: **0**
 - ArXiv retry coverage: **213 unique records**, not a reviewed keep set
+
+### Approved research paper
+
+- [Less Sycophancy, Stronger Refusal? Lessons for AI Safety from Mechanistic Interpretability](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-28_16-22-31Z_LessSycophancy_StrongerRefusal_LessonsforAI_summary.md) — Mechanistic feature intervention reduced learned sycophancy by 62.0% in the reported 35B-A3B setting and recovered approximately 95% of refusal loss under user pressure, but did not consistently improve direct refusal. **Why it matters:** sycophancy reduction and refusal robustness are distinct safety properties and should be evaluated separately. The summary links to the canonical [original arXiv paper](http://arxiv.org/abs/2609.35544v1).
 
 ## Direct Sweep and Classification
 
 The direct lab/news sweep checked OpenAI, Anthropic, Google DeepMind, Meta AI, and current safety/model-release signals. It reinforced the local corpus rather than displacing it: OpenAI's official incident page describes the Hugging Face event as its most severe identified activity of this kind; Google DeepMind's current blog lists September model, science, and responsibility updates; Meta launched Muse for Small Business; and same-day reporting highlighted delayed release, consumer-agent permission failures, agent containment, platform-level safety work, and the proposed [America.gov Gemini-backed government chatbot](https://techcrunch.com/2026/09/29/can-a-chatbot-fix-the-government-maze-the-white-house-is-about-to-find-out/).
 
 - **Included:** OpenAI's Australia disclosure and reported Astra delay; Meta Muse permission failure and Muse for Small Business; Dazzle as a camera-roll-context signal; America.gov as a high-stakes public-service deployment signal; staged open-weight safety; verifiable task-specific RL; long-form video orchestration; Claude-assisted biology; AMD/World Labs as a reported model-compute convergence signal; Anthropic prospectus risk/economics as reported context; Nvidia containment tooling as a same-day ecosystem signal.
-- **Deferred:** the one kept paper with an empty local summary; financial and acquisition details pending primary-source confirmation; unreviewed arXiv retry results.
+- **Deferred:** financial and acquisition details pending primary-source confirmation; unreviewed arXiv retry results.
 - **Excluded:** generic finance, political/event coverage without a technical development, unrelated technology, and raw aggregator noise.
 
 ## What Changed Today
@@ -149,7 +153,7 @@ The deployment unit is a **controlled workflow**, not a model endpoint. The mini
 7. Whether Google's video frameworks preserve user intent and provenance across many correction loops.
 8. Functional characterization and independent replication of Anthropic's ART enzyme-system result.
 9. Primary-source confirmation of the reported AMD/World Labs transaction and its compute/model co-design plans.
-10. Recovery and re-review of the one approved paper whose local summary failed, plus triage of the 213-paper arXiv retry set.
+10. Independent reproduction of the retained sycophancy/refusal intervention, including ordinary refusal, pressured refusal, and persistence tests, plus triage of the 213-paper arXiv retry set.
 11. Whether GPT-6.1 Sol's cost claims reproduce on independent coding, computer-use, and scientific workloads, and whether lower cost increases unsafe background-agent activity.
 12. Whether OpenAI's app ecosystem creates clear approval, identity, billing, and revocation boundaries as Dots become proactive.
 13. Whether the reported voluntary AI-safety framework produces public, testable commitments and incident-reporting standards.

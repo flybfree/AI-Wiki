@@ -1,0 +1,18 @@
+---
+title: Topological Coherence for Self-evolving Multi-agent Systems
+published: 2026-09-29T16:27:14Z
+authors: Sen Zhao, Ruiqi Kong, Zuyu Zhang, Lifeng Shen, Xinyu He, Xu Zhang, Qinghua Zhang
+url: http://arxiv.org/abs/2609.37953v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Topological Coherence for Self-evolving Multi-agent Systems
+
+## Abstract
+Complex tasks inherently couple workflow structure, agent responsibility, collaboration, and memory access: task regions delimit responsibility and tool scope, cross-region dependencies give rise to handoffs, and ownership boundaries delimit private and selectively shared memory. Existing methods can jointly optimize agent and communication structures, yet such optimization does not by itself require responsibility, handoff, and memory boundaries to remain consistent with task dependencies. We term this requirement topological coherence. We introduce TOCOMAS, a Topology-Coherent Multi-Agent System. TOCOMAS grounds a task graph in tool interfaces, organizes compatible task nodes into reusable responsibility domains, and derives dependency-induced and profile-conditioned collaboration together with boundary-regulated memory visibility. During online self-evolution, TOCOMAS proposes coupled changes to agent, collaboration, and memory policies, retaining for subsequent tasks only candidates that satisfy structural constraints and improve evaluated reward. Across BBEH, WorkBench, SWE-Bench-Verified, and CoMemBench, TOCOMAS improves task success over baselines across backbones. CoMemBench also shows gains over the self-evolving baseline in verified progress, handoffs, and memory isolation.
+
+## Metadata
+- **Published**: 2026-09-29T16:27:14Z
+- **Authors**: Sen Zhao, Ruiqi Kong, Zuyu Zhang, Lifeng Shen, Xinyu He, Xu Zhang, Qinghua Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.37953v1)

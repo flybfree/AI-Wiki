@@ -1,0 +1,18 @@
+---
+title: Replay the Curvature: Accurate and Scalable NVFP4 Quantization for Large Language Model Inference
+published: 2026-09-29T03:55:29Z
+authors: Ruiyi Ding, Jie Li, Kang He, Ziyan Liu, Chengru Song, Yuedong Xu, Yuan Cheng
+url: http://arxiv.org/abs/2609.36654v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Replay the Curvature: Accurate and Scalable NVFP4 Quantization for Large Language Model Inference
+
+## Abstract
+Large language models make weight storage and memory traffic major inference costs, motivating low-precision formats that represent each weight with only a few bits. Such formats use a scale to map floating-point values into a small codebook; NVFP4 improves local range utilization by letting every 16 E2M1 weights share an E4M3 block scale. Choosing that scale is difficult in GPTQ because quantizing one column updates those that follow, so evaluating a block independently can misestimate its final reconstruction error. Large models pose a second challenge: full-precision weights, calibration activations, and second-order state cannot all remain on one accelerator, while assigning complete layers to devices leaves each time-consuming layer solve serial. We introduce \emph{Schur Replay}, a scale-selection algorithm that reproduces the GPTQ updates caused by each block scale and scores the resulting block error after accounting for compensation from unquantized columns. Separately, our execution infrastructure keeps only the active layer resident, tiers activations across device, host, and disk, retires full-precision layers after export, and distributes independent output rows across tensor-parallel ranks. Together, the algorithm and infrastructure attain $99.35\%$ and $100.84\%$ question-weighted recovery from BF16 across seven benchmarks on Qwen3.5-397B-A17B and Llama-3.3-70B-Instruct. On the 397B model, the infrastructure reduces measured per-layer time by $15.17\times$ over ModelOpt and $23.14\times$ over LLM Compressor, with lower memory used per GPU.
+
+## Metadata
+- **Published**: 2026-09-29T03:55:29Z
+- **Authors**: Ruiyi Ding, Jie Li, Kang He, Ziyan Liu, Chengru Song, Yuedong Xu, Yuan Cheng
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.36654v1)

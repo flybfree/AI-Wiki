@@ -1,0 +1,18 @@
+---
+title: SelfSearch: Reward-Free Search for Self-Improving Agents
+published: 2026-09-29T16:36:24Z
+authors: Jungwoo Yang, In Jin Kong, Yohan Jo
+url: http://arxiv.org/abs/2609.37968v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SelfSearch: Reward-Free Search for Self-Improving Agents
+
+## Abstract
+Advances in the coding capabilities of LLM agents allow them to inspect and modify their own instructions, tools, and execution procedures. Existing approaches use this ability to search for improved agents through repeated downstream evaluation, which incurs substantial costs and ties the search to the evaluated tasks. We introduce \textbf{SelfSearch}, a reward-free search procedure in which agents modify themselves using records of previous self-improvement episodes. These records capture the reasoning, tool actions, and outcomes of earlier modification attempts, providing concrete experience for improving both task solving and self-modification. Without downstream reward signals during search, SelfSearch improves population-mean success over the initial agent in all six model--benchmark settings, with individual agents gaining up to 11.2 percentage points on Terminal-Bench 2.1. On SWE-bench Multilingual, an agent improves success by \textbf{5.0} percentage points while reducing execution cost by \textbf{38.5}\% on tasks solved by both the initial and evolved agents. SelfSearch achieves competitive task success with evaluation-guided search baselines at lower search cost. With only \textbf{\$4.03} in search cost, it produces a harness that solves \textbf{82.0}\% of Terminal-Bench 2.1 tasks with DeepSeek V4 Flash under the settings of a public nine-harness comparison, matching the top-scoring harness, Codex. These results suggest that experience gained through self-modification can improve agents' downstream capabilities and efficiency.
+
+## Metadata
+- **Published**: 2026-09-29T16:36:24Z
+- **Authors**: Jungwoo Yang, In Jin Kong, Yohan Jo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.37968v1)

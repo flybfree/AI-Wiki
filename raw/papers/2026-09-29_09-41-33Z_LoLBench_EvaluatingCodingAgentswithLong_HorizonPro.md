@@ -1,0 +1,18 @@
+---
+title: LoLBench: Evaluating Coding Agents with Long-Horizon Proposals on Large Software Systems
+published: 2026-09-29T09:41:33Z
+authors: Yun Peng, Zihan Wu, Zeyang Zhuang, Xin Zhou, Rui Shu, Xu Han, Chun Yong Chong, Yuan Wang, Jiakun Liu
+url: http://arxiv.org/abs/2609.37143v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# LoLBench: Evaluating Coding Agents with Long-Horizon Proposals on Large Software Systems
+
+## Abstract
+Modern coding agents can deliver increasingly large repository-level changes, and recent benchmarks reflect this by emphasizing long-horizon tasks with large reference implementations. Many benchmarks evaluate coding agents' implementation capability to produce correct code edits from detailed specifications. However, practical modular development tasks also require the perception capability of grounding user intent and high-level design to derive a specification. We introduce LoLBench to evaluate both capabilities through the entire proposal-to-implementation process on large software systems. It is a multilingual benchmark of 100 tasks across 29 software systems in five domains. Each task provides a human-written enhancement proposal with user intent and high-level design. On average, proposals contain about 5,000 words, software systems contain 2.4 million source lines of code (LoC), and implementation pull requests (PRs) change approximately 5,500 LoC. Across 28 agents we evaluated, the best agent resolves only 14% of tasks and achieves a 52.7% Fail-to-Pass (F2P) pass rate. Failure analysis identifies incomplete code localization as a major bottleneck, while providing reference-derived file trees alongside API specifications improves resolved rates by 16--22 percentage points (2.4--17$\times$), reaching at most 34%. These results show that both perception and implementation remain central challenges for coding agents in practical modular development on large software systems. LoLBench is available at https://huggingface.co/datasets/lolbench26/LoLBench.
+
+## Metadata
+- **Published**: 2026-09-29T09:41:33Z
+- **Authors**: Yun Peng, Zihan Wu, Zeyang Zhuang, Xin Zhou, Rui Shu, Xu Han, Chun Yong Chong, Yuan Wang, Jiakun Liu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.37143v1)

@@ -1,0 +1,18 @@
+---
+title: It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs
+published: 2026-09-29T15:58:02Z
+authors: Pierre-Carl Langlais, Pieter Delobelle, Yannick Detrois, Pavel Chizhov, Carlos Rosas-Hinostroza, Neil Si Smail, Benjamin Burtin, Hanna Shcharbakova, Ivan Yamshchikov, Anastasia Stasenko
+url: http://arxiv.org/abs/2609.37891v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# It's All Training: A Fully Synthetic Single-Stage Recipe for LLMs
+
+## Abstract
+Current pre-training datasets are derived from web crawls, with all their issues, and were not designed to support mid- and post-training pipelines--for instance, they contain little explicit reasoning. Thus, many frontier labs have begun to develop their own internal datasets, starting from state-of-the-art models, to augment their pre-training data mix, eg, with reasoning traces to address cold-start problems. While demonstratively effective, none of these datasets are public, and the effect of this so-called synthetic data on knowledge and skill acquisition of language models, including small ones, remains poorly understood. We present SYNTH, the first open-source synthetic corpus derived from 58,698 Wikipedia articles that collapses pre-, mid-, and post-training into a single training stage via structured amplification of curated encyclopedic seeds. We evaluate SYNTH by training a suite of models: a 56M tiny model (Monad), 0.3B-0.6B dense models (Baguettotron), and a 13B / 1B-active MoE. At iso-compute, SYNTH outperforms filtered web data, and our models remain competitive with similarly-sized open-weight baselines. Because SYNTH is back-translated from grounded passages, SYNTH-trained models achieve high factual precision despite 10-140x fewer training tokens, with memorization targeted by the seed corpus. These results show that synthetic datasets, including our SYNTH dataset, are capable of producing competitive generalist models from a fraction of the training data, enabling rapid iteration as the frontier advances. These findings open up possibilities for both generalist models with significantly increased data efficiency, as well as domain-specific models where no instruction or conversational data is available. Finally, we publicly release our SYNTH dataset and the suite of Baguettotron models under a permissive license, thus supporting open-source language model development.
+
+## Metadata
+- **Published**: 2026-09-29T15:58:02Z
+- **Authors**: Pierre-Carl Langlais, Pieter Delobelle, Yannick Detrois, Pavel Chizhov, Carlos Rosas-Hinostroza, Neil Si Smail, Benjamin Burtin, Hanna Shcharbakova, Ivan Yamshchikov, Anastasia Stasenko
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.37891v1)
