@@ -7,7 +7,8 @@ tags: ['wiki']
 
 ## [2026-09-30 00:00] finalize | 2026-09-29 canonical final repaired; complete curation query returned 1 target-date keep, normalized to 1 canonical summary, original-paper URL verified, approved-paper link count 1; Logseq mirror and GitHub push required; Lumistorm publication verification follows
 
-## [2026-09-30] briefing | added the preliminary Jev/Laya System One decision-model update to today's dated AI briefing; linked the TypeSafe Jev announcement, Laya repository, and canonical Laya wiki entry; mirrored to Logseq
+## [2026-09-30] briefing | added the preliminary Jev/Laya System One decision-model update to today's briefing; linked the TypeSafe Jev announcement, Laya repository, and canonical Laya wiki entry; mirrored to Logseq
+## [2026-09-30] summarize | finalized the September 30 AI-only briefing from the complete local intake plus direct lab/news sweep; synthesized GPT-6.1 Sol economics, OpenAI safety gating, staged open weights, ReViSQL task expertise, Diffusion Controller, Anthropic AI-for-science, and Jev/Laya typed decisions; empty summaries and non-AI material excluded; no arXiv paper promoted because tool-use coverage failed; wiki and Logseq mirrors refreshed; GitHub commit and push required
 
 ## [2026-09-30] ingest | added concepts/frameworks/laya-open-source-jev.md as the canonical wiki entry for Laya, documenting it as an open-source, self-hostable Jev-compatible System One decision engine; linked it from index.md and the TypeSafe AI System One concept; synchronized the Logseq mirror
 
@@ -15050,3 +15051,5 @@ tags: ['wiki']
 ## [2026-09-30 01:22] ingest | 2026-09-30_Livenerf_HasOpus5_5beennerfedyet_.md
 ## [2026-09-30 01:22] ingest | 2026-09-30_ASafePathtoOpenWeights.md
 ## [2026-09-30 01:22] ingest | 2026-09-30_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md
+## [2026-09-30 04:23] ingest | 2026-09-30_September2026_Theworldtoday_asseenbyonePolishguy.md
+## [2026-09-30 05:22] ingest | 2026-09-30_Pi_dev_YouSaidNoMCP.md
