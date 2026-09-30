@@ -10,6 +10,7 @@ tags: ['wiki']
 ## [2026-09-30] briefing | added the preliminary Jev/Laya System One decision-model update to today's briefing; linked the TypeSafe Jev announcement, Laya repository, and canonical Laya wiki entry; mirrored to Logseq
 ## [2026-09-30] summarize | finalized the September 30 AI-only briefing from the complete local intake plus direct lab/news sweep; synthesized GPT-6.1 Sol economics, OpenAI safety gating, staged open weights, ReViSQL task expertise, Diffusion Controller, Anthropic AI-for-science, and Jev/Laya typed decisions; empty summaries and non-AI material excluded; no arXiv paper promoted because tool-use coverage failed; wiki and Logseq mirrors refreshed; GitHub commit and push required
 ## [2026-09-30] refresh | direct lab/news sweep added the White House Accord on Super Intelligence as a voluntary self-regulation and external-audit signal; enforcement, disclosure, and implementation details remain unresolved; briefing and Logseq mirror refreshed
+## [2026-09-30] refresh | direct lab/news sweep added Google Gemini 4 Argon’s trusted-cyber-defender rollout and the reported FTC investigation of OpenAI, Anthropic, and other AI companies; capability claims remain vendor/secondary-source claims and the investigation’s scope is unresolved; briefing and Logseq mirror refreshed
 
 ## [2026-09-30] ingest | added concepts/frameworks/laya-open-source-jev.md as the canonical wiki entry for Laya, documenting it as an open-source, self-hostable Jev-compatible System One decision engine; linked it from index.md and the TypeSafe AI System One concept; synchronized the Logseq mirror
 
@@ -15064,3 +15065,7 @@ tags: ['wiki']
 ## [2026-09-30 12:17] ingest | 2026-09-30_YouSaidNoMCP.md
 ## [2026-09-30 13:16] ingest | 2026-09-30_LaunchHN_Magnitude_YCS25__Self-optimizinginference.md
 ## [2026-09-30 13:16] ingest | 2026-09-30_RedditiskillingRSSfeedsandendingpublicAPIaccessbec.md
+## [2026-09-30 15:15] ingest | 2026-09-30_OpenAI_sJevclonecouldhelpthefrontierlabstopitsswar.md
+## [2026-09-30 15:15] ingest | 2026-09-30_Gemini4Argon.md
+## [2026-09-30 15:15] ingest | 2026-09-30_TheAITamagotchisarecoming.md
+## [2026-09-30 17:14] ingest | 2026-09-30_GoogleannouncesGemini4andsaysit__8217_ssocapableth.md

@@ -3051,3 +3051,7 @@ tags: ['wiki']
 - [[2026-09-30_YouSaidNoMCP.md]] : You Said No MCP
 - [[2026-09-30_LaunchHN_Magnitude_YCS25__Self-optimizinginference.md]] : Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents
 - [[2026-09-30_RedditiskillingRSSfeedsandendingpublicAPIaccessbec.md]] : Reddit is killing RSS feeds and ending public API access because of AI bots
+- [[2026-09-30_OpenAI_sJevclonecouldhelpthefrontierlabstopitsswar.md]] : OpenAI’s Jev clone could help the frontier lab stop its swarming agents
+- [[2026-09-30_Gemini4Argon.md]] : Gemini 4 Argon
+- [[2026-09-30_TheAITamagotchisarecoming.md]] : The AI Tamagotchis are coming
+- [[2026-09-30_GoogleannouncesGemini4andsaysit__8217_ssocapableth.md]] : Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now
