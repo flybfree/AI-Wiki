@@ -3065,3 +3065,16 @@ tags: ['wiki']
 - [[2026-09-30_GooglereleasesGemini4Argon_calleditsmostpowerfulmo.md]] : Google releases Gemini 4 Argon, called its most powerful model yet
 - [[2026-09-30_ElonMusk_sGrokipediahasa_newlyrefreshed_design.md]] : Elon Musk’s Grokipedia has a ‘newly refreshed’ design
 - [[2026-09-30_OpenAIrevealssixmoresafetyissuesandunveilsplantodi.md]] : OpenAI reveals six more safety issues and unveils plan to disclose incidents
+- [[2026-10-01_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-01_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-01_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-01_GooglereleasesGemini4Argon_calleditsmostpowerfulmo.md]] : Google releases Gemini 4 Argon, called its most powerful model yet
+- [[2026-10-01_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-10-01_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
+- [[2026-10-01_Z_ai__Zai_org_onX.md]] : Z.ai (@Zai_org) on X
+- [[2026-10-01_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-01_ElonMusk_sGrokipediahasa_newlyrefreshed_design.md]] : Elon Musk’s Grokipedia has a ‘newly refreshed’ design
+- [[2026-10-01_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-01_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-01_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
