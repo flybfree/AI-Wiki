@@ -60,6 +60,14 @@ similarity:
   minimum_rejected_examples: 5
   use_for_acceptance: false
 
+# The learned profile filters only high-confidence mismatches. Candidates in the
+# borderline band remain visible for manual review.
+learned_profile:
+  enabled: true
+  minimum_reviewed: 50
+  reject_floor: 0.20
+  manual_review_floor: 0.35
+
 auto_keep:
   enabled: true
   score_threshold: 0.85

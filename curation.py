@@ -15,6 +15,8 @@ MIRROR_ROOT = Path("/home/rich/logseq-brain/pages/ai-research")
 STATE_DIR = ROOT / ".curation"
 DB_PATH = STATE_DIR / "review.sqlite3"
 MIN_REVIEW_SCORE = 0.60
+DEFAULT_PROFILE_REVIEW_FLOOR = 0.35
+DEFAULT_PROFILE_REJECT_FLOOR = 0.20
 CURATION_CONFIG_PATH = ROOT / "curation_config.yaml"
 DEFAULT_AUTO_KEEP_SCORE = 0.85
 
@@ -455,10 +457,36 @@ def auto_keep_summary(path: str) -> dict[str, Any] | None:
     return result
 
 
+def _profile_gate_config() -> dict[str, Any]:
+    """Load learned-profile thresholds while keeping borderline items reviewable."""
+    section = _policy().get("learned_profile", {})
+    if not isinstance(section, dict):
+        section = {}
+    try:
+        min_reviewed = max(0, int(section.get("minimum_reviewed", 50)))
+    except (TypeError, ValueError):
+        min_reviewed = 50
+    try:
+        review_floor = float(section.get("manual_review_floor", DEFAULT_PROFILE_REVIEW_FLOOR))
+    except (TypeError, ValueError):
+        review_floor = DEFAULT_PROFILE_REVIEW_FLOOR
+    try:
+        reject_floor = float(section.get("reject_floor", DEFAULT_PROFILE_REJECT_FLOOR))
+    except (TypeError, ValueError):
+        reject_floor = DEFAULT_PROFILE_REJECT_FLOOR
+    return {
+        "enabled": bool(section.get("enabled", True)),
+        "minimum_reviewed": min_reviewed,
+        "manual_review_floor": max(0.0, min(1.0, review_floor)),
+        "reject_floor": max(0.0, min(1.0, reject_floor)),
+    }
+
+
 def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -> list[dict[str, Any]]:
     db = _db()
     decisions = _decisions(db)
     profile = _profile(db)
+    profile_gate = _profile_gate_config()
     result = []
     for path in _candidate_paths(status):
         item = candidate(path)
@@ -483,8 +511,20 @@ def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -
             item["score"] = _score_with_title(
                 evidence["title"], evidence["text"], item["tags"], profile
             )
-            if not evidence["accepted"] or not item.get("source") or item["score"] < MIN_REVIEW_SCORE:
+            if not evidence["accepted"] or not item.get("source"):
                 continue
+            profile_active = (
+                profile_gate["enabled"]
+                and profile["reviewed"] >= profile_gate["minimum_reviewed"]
+            )
+            if profile_active and item["score"] < profile_gate["reject_floor"]:
+                # High-confidence profile mismatches stay out of the queue.
+                continue
+            if profile_active and item["score"] < profile_gate["manual_review_floor"]:
+                # Borderline candidates remain visible for manual judgment.
+                item["review_band"] = "borderline"
+            else:
+                item["review_band"] = "standard"
         else:
             item["score"] = _score_with_title(item["title"], item["preview"], item["tags"], profile)
         if status == "all" or item["decision"] == status:

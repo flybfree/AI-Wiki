@@ -121,7 +121,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
-- [Summary: Daily AI Intelligence Briefing — 2026-10-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-01.md) — canonical final; staged frontier access, governed enterprise deployment, incident disclosure, task-specific RL, AI-for-science, control layers, and no promoted papers
+- [Summary: Daily AI Intelligence Briefing — 2026-10-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-01.md) — canonical final; staged frontier access, governed enterprise deployment, incident disclosure, FTC/litigation accountability signals, app-specific agent interfaces, staged open weights, task-specific RL, AI-for-science, control layers, and no promoted papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-30.md) — canonical final; frontier-model economics, safety gates, staged open weights, task-specific RL, AI-for-science, control layers, typed decision models, and 4 curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-29.md) — agent containment, consumer-agent permissions, staged open weights, verifiable task expertise, long-horizon orchestration, AI-for-science, and model-compute convergence
 - [Summary: Daily AI Intelligence Briefing — 2026-09-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md) — canonical final; Sonnet 5.5, staged open-weight safety, verifiable task expertise, long-horizon orchestration, AI-for-science, production-scale AutoResearch, compositional agent security, RF-DETR, agentic commerce, and 0 selected papers
@@ -3082,3 +3082,7 @@ tags: ['wiki']
 - [[2026-10-01_OpenAIrevealssixmoresafetyissuesandunveilsplantodi.md]] : OpenAI reveals six more safety issues and unveils plan to disclose incidents
 - [[2026-10-01_Oct1_2026AnnouncementsBarclaysscalesClaudetoupgrad.md]] : Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience
 - [[2026-10-01_Qwen.md]] : Qwen
+- [[2026-10-01_AIsafetyadvocacygroupsuesOpenAIoverHuggingFaceinci.md]] : AI safety advocacy group sues OpenAI over Hugging Face incident
+- [[2026-10-01_Photonheldafuneralformobileapps_Nowithas_4_5Mtohel.md]] : Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents
+- [[2026-10-01_BrianCheskyinterview_AIagentsneedtheirownoperating.md]] : Brian Chesky interview: AI agents need their own operating system
+- [[2026-10-01_HowAlbertsonsCompaniesisreimaginingretailfromthein.md]] : How Albertsons Companies is reimagining retail from the inside out

@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-10-01] summarize | created the canonical AI-only briefing for 2026-10-01; synthesized Gemini 4 Argon staged cyber access, Barclays Claude deployment, OpenAI incident disclosure, staged open weights, task-specific RLVR, AI-for-science, and Diffusion Controller; excluded stale/low-signal captures; arXiv scout logged 1,450 entries and 310 high-priority candidates but no paper was promoted because page-level curation remained incomplete; Logseq mirrors synchronized; GitHub commit and push required
+## [2026-10-01] summarize | refreshed the canonical AI-only briefing for 2026-10-01; added the FTC investigation and Hugging Face litigation as unresolved accountability signals, OpenAI’s Albertsons retail deployment, and Airbnb’s app-specific/collaborative agent-interface thesis; excluded stale/low-signal captures; latest arXiv scout completed 14 queries with 2,450 entries and 523 high-priority candidates, but no paper was promoted because page-level curation remained incomplete; Logseq mirrors synchronized; GitHub commit and push required
 ## [2026-10-01 00:06] publish | 2026-09-30 canonical final published; wiki and Logseq briefing mirrors byte-identical; selected-paper count 4 equals briefing paper-link count 4; GitHub commit dc814011 pushed and origin/master verified; Lumistorm post 213 created at https://lumistorm.net/daily-ai-intelligence-2026-09-30/; REST/readback published status, Daily AI Briefing category, date, source links, archive verification, and raw-wiki-syntax checks follow
 
 ## [2026-10-01 00:00] finalize | 2026-09-30 canonical final; complete local-time curation query returned 4 keeps (one 2026-09-29 paper approved during the September 30 local workflow plus three 2026-09-30 papers), normalized to 4 canonical summaries; all original-paper URLs verified; briefing contains 4 unique paper links; Logseq mirror, GitHub push, and Lumistorm publication verification follow
@@ -15234,3 +15234,12 @@ tags: ['wiki']
 ## [2026-10-01 02:45] ingest | 2026-10-01_OpenAIrevealssixmoresafetyissuesandunveilsplantodi.md
 ## [2026-10-01 04:02] ingest | 2026-10-01_Oct1_2026AnnouncementsBarclaysscalesClaudetoupgrad.md
 ## [2026-10-01 04:02] ingest | 2026-10-01_Qwen.md
+## [2026-10-01 09:05] ingest | 2026-10-01_AIsafetyadvocacygroupsuesOpenAIoverHuggingFaceinci.md
+## [2026-10-01 09:05] ingest | 2026-10-01_Photonheldafuneralformobileapps_Nowithas_4_5Mtohel.md
+## [2026-10-01 10:26] stage-paper | 2026-09-29_02-31-40Z_DraftTrace_AMulti_ViewAnalyticsEnvironmentforAI_In.md
+## [2026-10-01 10:26] stage-paper | 2026-09-30_10-19-19Z_DuplexAct_Bench_BroadeningFull_DuplexSpeechEvaluat.md
+## [2026-10-01 10:26] stage-paper | 2026-09-28_14-51-21Z_SameBytes_DifferentAuthority_Reserved_TokenReprese.md
+## [2026-10-01 10:26] stage-paper | 2026-09-28_15-14-46Z_MCPErrorMessagesWrittenforDevelopersHurttheMostCap.md
+## [2026-10-01 10:26] stage-paper | 2026-09-28_00-50-30Z_TowardsCertificate_DrivenSoftwarePorting_ASelf_Imp.md
+## [2026-10-01 10:26] ingest | 2026-10-01_BrianCheskyinterview_AIagentsneedtheirownoperating.md
+## [2026-10-01 11:24] ingest | 2026-10-01_HowAlbertsonsCompaniesisreimaginingretailfromthein.md
