@@ -3055,3 +3055,12 @@ tags: ['wiki']
 - [[2026-09-30_Gemini4Argon.md]] : Gemini 4 Argon
 - [[2026-09-30_TheAITamagotchisarecoming.md]] : The AI Tamagotchis are coming
 - [[2026-09-30_GoogleannouncesGemini4andsaysit__8217_ssocapableth.md]] : Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now
+- [[2026-09-30_Z_ai__Zai_org_onX.md]] : Z.ai (@Zai_org) on X
+- [[2026-09-30_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-09-30_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-09-30_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-30_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-09-30_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-09-30_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-09-30_GooglereleasesGemini4Argon_calleditsmostpowerfulmo.md]] : Google releases Gemini 4 Argon, called its most powerful model yet
+- [[2026-09-30_ElonMusk_sGrokipediahasa_newlyrefreshed_design.md]] : Elon Musk’s Grokipedia has a ‘newly refreshed’ design
