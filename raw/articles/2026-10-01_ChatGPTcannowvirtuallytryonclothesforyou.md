@@ -1,0 +1,88 @@
+---
+title: ChatGPT can now virtually try on clothes for you
+date: 2026-10-01
+url: https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/
+type: article-full-text
+tags: [news, ai-research, full-text]
+source_url: https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/
+source_feed: TechCrunch AI
+ai_relevance: include
+ai_topic: model-release
+ai_reason: watchlist match: GPT-6 Astra
+scraped: 2026-10-01 14:22
+---
+
+# ChatGPT can now virtually try on clothes for you
+
+## Full Article
+
+OpenAI is again experimenting with how its conversational AI assistant, ChatGPT, can help users as they shop online. On Thursday, the company announced the global launch of two new shopping features, including a way to virtually try on clothing and accessories and a new favoriting function that can help users save products they like for later reference.
+The updates arrive at a time when AI assistants are exploring consumer use cases around shopping. OpenAI already
+had to pivot from one of its earlier ideas
+in this space, an instant checkout feature that ended up not performing well. More recently, agentic AI startup Instinct began pushing product recommendations to users, but
+some felt that
+the proactive recommendations were an overreach, more akin to ads than helpful suggestions.
+OpenAI said its new shopping features leverage the newly launched
+ChatGPT Images 2.5 model
+, which the company claims produces more natural lighting and richer textures, follows editing instructions more reliably, and reduces image generation latency.
+To start, virtual try-on allows ChatGPT users to upload a selfie or a full-body photo in order to visualize how an article of clothing or an accessory might look on them. This option will appear as a new “try on” button in ChatGPT’s shopping results. You can also upload an image of an item, like a web screenshot, and ask ChatGPT to try it on for you.
+The other new option, Favorites, lets you save products you discover to a Library in the app so you can come back to them later. (These items will be saved alongside your try-on images, the company notes.)
+Image Credits:
+OpenAI
+OpenAI said that ChatGPT can help users shop in other ways, too.
+For instance, you could describe a style that you’d like to try, then ask it to shop for the pieces needed to complete the look. Or, you could upload photos of celebrities’ outfits and ask it to find the items they’re wearing that are available for purchase.
+The latter sees the assistant moving into areas that Pinterest and Google have dominated in recent years as sources for fashion inspiration and discovery that can convert to sales for online retailers.
+Whether ChatGPT will become people’s first choice for this type of activity, however, remains to be seen — especially given that
+Google launched virtual try-on last year
+.
+Topics
+AI
+,
+AI
+,
+Apps
+,
+ChatGPT
+,
+Commerce
+,
+e-commerce
+,
+shopping
+,
+TC
+When you purchase through links in our articles,
+we may earn a small commission
+. This doesn’t affect our editorial independence.
+[Sarah Perez]
+Sarah Perez
+Consumer News Editor
+Sarah has worked as a reporter for TechCrunch since August 2011. She joined the company after having previously spent over three years at ReadWriteWeb. Prior to her work as a reporter, Sarah worked in I.T. across a number of industries, including banking, retail and software.
+You can contact or verify outreach from Sarah by emailing
+sarahp@techcrunch.com
+or via encrypted message at sarahperez.01 on Signal.
+View Bio
+[Event Logo]
+October 13 – 15
+San Francisco
+Get 50% off a second pass
+The Disrupt experience is meant to be shared. Get your pass and bring a colleague, partner, or peer at 50% off. Cover more ground by making connections, building momentum, and discovering what’s next in the startup ecosystem.
+BOOK NOW
+Most Popular
+The Pentagon taps Elon Musk and Palmer Luckey to help decide what the military should do next
+Dominic-Madori Davis
+OpenAI launches Dots, its bubbly agentic avatar
+Lucas Ropek
+AMD will acquire Fei-Fei Li’s World Labs for $8.2B
+Tim Fernholz
+Viral AI agent Instinct raises $1B Series C at a $10B valuation
+Sarah Perez
+Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
+Kirsten Korosec
+Astra and Opus just passed Turing’s other test
+Tim Fernholz
+Kiteworks urges customers to shut down their servers amid ‘imminent’ threat of cyberattack
+Zack Whittaker
+
+## Metadata
+- **Source**: [Original Article](https://techcrunch.com/2026/10/01/chatgpt-can-now-virtually-try-on-clothes-for-you/)

@@ -3089,3 +3089,6 @@ tags: ['wiki']
 - [[2026-10-01_JudgedismissesantitrustlawsuitsoverGoogle_sAIOverv.md]] : Judge dismisses antitrust lawsuits over Google’s AI Overviews
 - [[2026-10-01_AmazonreleasesitsownJevcloneasdecisionmodelsfloodt.md]] : Amazon releases its own Jev clone as decision models flood the web
 - [[2026-10-01_OpenAIcutstieswith3safetyresearchers_WSJreports.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports
+- [[2026-10-01_ChatGPTcannowvirtuallytryonclothesforyou.md]] : ChatGPT can now virtually try on clothes for you
+- [[2026-10-01_Google_snewGuidedVisionfeaturecanhelpyoureadthefin.md]] : Google’s new Guided Vision feature can help you read the fine print
+- [[2026-10-01_Musk_sAIchatbotGrokreportedlyencouragedTrumptocapt.md]] : Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president
