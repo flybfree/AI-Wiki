@@ -3086,3 +3086,6 @@ tags: ['wiki']
 - [[2026-10-01_Photonheldafuneralformobileapps_Nowithas_4_5Mtohel.md]] : Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents
 - [[2026-10-01_BrianCheskyinterview_AIagentsneedtheirownoperating.md]] : Brian Chesky interview: AI agents need their own operating system
 - [[2026-10-01_HowAlbertsonsCompaniesisreimaginingretailfromthein.md]] : How Albertsons Companies is reimagining retail from the inside out
+- [[2026-10-01_JudgedismissesantitrustlawsuitsoverGoogle_sAIOverv.md]] : Judge dismisses antitrust lawsuits over Google’s AI Overviews
+- [[2026-10-01_AmazonreleasesitsownJevcloneasdecisionmodelsfloodt.md]] : Amazon releases its own Jev clone as decision models flood the web
+- [[2026-10-01_OpenAIcutstieswith3safetyresearchers_WSJreports.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports
