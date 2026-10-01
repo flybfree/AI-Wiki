@@ -121,7 +121,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
-- [Summary: Daily AI Intelligence Briefing — 2026-09-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-30.md) — frontier-model economics, safety gates, staged open weights, task-specific RL, AI-for-science, control layers, and typed decision models
+- [Summary: Daily AI Intelligence Briefing — 2026-09-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-30.md) — canonical final; frontier-model economics, safety gates, staged open weights, task-specific RL, AI-for-science, control layers, typed decision models, and 4 curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-29.md) — agent containment, consumer-agent permissions, staged open weights, verifiable task expertise, long-horizon orchestration, AI-for-science, and model-compute convergence
 - [Summary: Daily AI Intelligence Briefing — 2026-09-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md) — canonical final; Sonnet 5.5, staged open-weight safety, verifiable task expertise, long-horizon orchestration, AI-for-science, production-scale AutoResearch, compositional agent security, RF-DETR, agentic commerce, and 0 selected papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md) — staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, practical adoption, and one previously covered curation keep
@@ -3064,3 +3064,4 @@ tags: ['wiki']
 - [[2026-09-30_AIatMetaBlog.md]] : AI at Meta Blog
 - [[2026-09-30_GooglereleasesGemini4Argon_calleditsmostpowerfulmo.md]] : Google releases Gemini 4 Argon, called its most powerful model yet
 - [[2026-09-30_ElonMusk_sGrokipediahasa_newlyrefreshed_design.md]] : Elon Musk’s Grokipedia has a ‘newly refreshed’ design
+- [[2026-09-30_OpenAIrevealssixmoresafetyissuesandunveilsplantodi.md]] : OpenAI reveals six more safety issues and unveils plan to disclose incidents

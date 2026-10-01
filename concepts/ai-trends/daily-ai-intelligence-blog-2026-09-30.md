@@ -24,7 +24,7 @@ sources:
 
 September 30 was defined by a widening gap between **frontier capability** and **deployment discipline**. OpenAI released **GPT-6.1 Sol**, positioning it as near-Astra performance for agentic coding, computer use, professional work, and science at sharply lower cost, while Google announced **Gemini 4 Argon** with initial access restricted to trusted cyber defenders. Both releases made staged access and safety evidence part of the product story. The day’s other strong signals point in the same direction: Thinking Machines argued for staged, evidence-based open-weight releases; its ReViSQL work showed that task-specific reinforcement learning with clean rewards can beat expensive general models on a real workflow; Anthropic demonstrated a large-scale AI-for-science loop that generated a novel enzyme-system hypothesis for human laboratory testing; and Google Research presented a lightweight control layer for steering closed image models without retraining their backbones.
 
-The practical takeaway is not simply “models got better.” The more important change is architectural: value is moving toward **specialized control surfaces, verified task expertise, staged access, and end-to-end harnesses**. The corpus also includes a preliminary Jev/Laya signal: typed probabilistic decisions are becoming a distinct component beside generative models, useful for routing, confidence gating, and escalation. ArXiv coverage was broad but not complete: the scout saw 2,450 entries through September 29, with 438 high-priority candidates, but the tool-use query failed and no research paper was promoted into the briefing.
+The practical takeaway is not simply “models got better.” The more important change is architectural: value is moving toward **specialized control surfaces, verified task expertise, staged access, and end-to-end harnesses**. The corpus also includes a preliminary Jev/Laya signal: typed probabilistic decisions are becoming a distinct component beside generative models, useful for routing, confidence gating, and escalation. The arXiv scout was broad but not complete: it saw 2,450 entries through September 29, with 438 high-priority candidates, while the tool-use query failed. Page-level curation nevertheless approved four papers for this canonical edition, all normalized to existing canonical summaries with visible original-paper URLs.
 
 ## Verdict
 
@@ -110,6 +110,22 @@ The evidence remains partly secondary: the local capture is a Verge report, and 
 
 **Implication:** track not only model capability and weights, but also the first access cohort, permitted use cases, evaluation feedback, and conditions for broader release.
 
+## Approved research papers
+
+The complete local-time curation query returned **4 kept papers** for the September 30 canonical workflow. Stable identity normalization resolved all four records to existing canonical rendered summaries, and each summary exposes a visible canonical original-paper URL.
+
+### Harness evolution and task adaptation
+
+- [Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-29_18-33-27Z_Self_EvolvingHarnessonMultipleTaskswiththeAgentasI_summary.md) — Evolves one harness across multiple domains and reports gains on both in-distribution and out-of-distribution tasks. **Why it matters:** harness optimization can become a transferable system-learning problem rather than a benchmark-specific wrapper.
+- [Composing Task-specific Agent Harnesses at Test Time with Reusable Primitives](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-30_03-57-46Z_ComposingTask_specificAgentHarnessesatTestT_summary.md) — STITCH composes reusable harness primitives for each task, reporting up to 12-point gains with 2.7% composition overhead. **Why it matters:** bounded, reusable control components may provide adaptation without unsafe per-task code generation.
+- [How Much of a Harness Does a Strong Agent Need for Autonomous ML Engineering?](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-30_17-51-30Z_HowMuchofaHarnessDoesaStrongAgentNeedforAut_summary.md) — Finds no advantage for elaborate open-source MLE harnesses over a minimal coding-agent baseline under equal budgets on the evaluated benchmarks. **Why it matters:** every orchestration layer needs a measured marginal benefit; more machinery is not automatically more capability.
+
+### Skill trust and agent security
+
+- [Can Agents Trust Their Skills? Uncovering Unsafe Chains of Trust in Skill-Based LLM Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-30_06-04-44Z_CanAgentsTrustTheirSkills_UncoveringUnsafeC_summary.md) — TrustProbe reports 104 taint-style vulnerabilities across 11 agents, with 25.1% of skill-agent trials exercising vulnerable paths and 15 vulnerabilities weaponized by payload injection. **Why it matters:** installable skills require provenance, capability boundaries, runtime authorization, and taint-aware evaluation before they can safely operate under delegated user authority.
+
+**Paper-link audit:** 4 unique briefing summary targets = 4 normalized kept papers; all 4 canonical summary paths exist and contain visible original-paper URLs.
+
 ## What changed today
 
 - **GPT-6.1 Sol** made cost-per-capability the central frontier-model release metric, with strong vendor-reported results across coding, computer use, professional work, and science.
@@ -121,7 +137,7 @@ The evidence remains partly secondary: the local capture is a Verge report, and 
 - Anthropic provided a credible example of an agentic science loop producing a novel biological hypothesis for laboratory verification, while keeping the claim appropriately preliminary.
 - Google Research showed a reusable control-layer pattern for improving closed image models without retraining their backbones.
 - Jev/Laya and Pi/MCP coverage connected typed decisions, structured tool composition, and agent harness design.
-- No arXiv paper was promoted: the scout logged 2,450 entries and 438 high-priority candidates through September 29, but coverage was not complete and the tool-use query failed.
+- Four arXiv papers were approved through page-level curation: one September 29 paper carried forward because approval occurred during the September 30 local workflow, plus three September 30 papers; all four canonical summaries and original-paper URLs were verified.
 
 ## Why it matters
 

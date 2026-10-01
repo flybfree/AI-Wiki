@@ -1,0 +1,18 @@
+---
+title: The Backdrop Exposes What the World Around an Agent Costs It
+published: 2026-09-29T20:00:18Z
+authors: Nusrat Jahan Lia, Shubhashis Roy Dipta
+url: http://arxiv.org/abs/2609.38469v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# The Backdrop Exposes What the World Around an Agent Costs It
+
+## Abstract
+Agent benchmarks test agents in worlds that stay still. Deployed agents work in worlds that other people also change. Someone texts the agent to send the money elsewhere or an order confirmation asks it to reply with a door code. We present BACKDROP, which asks how much of an agent's capability in a clean world survives in such a world. BACKDROP takes a task along with the agents execution environment, and plants four everyday hazards in its world, one at a time and all together. The instruction and the correct end state stay the same. Each hazard asks one question. Authority: does a message from another person override the user? Injection: does text planted in a record redirect the agent? Boundary: does a request pull it into an app it was not given? Fault: after a write fails without saying whether it landed, does the agent check before it retries? Across 3,678 variants and 16 models, , the average pass rate falls from 69.5% to 31.3% once all four hazards are present; the strongest models fall furthest (Claude Fable 5.1 from 96.6% to 56.0%). Agents have learned to resist injected text but often follow other unauthorized requests of other people. With all four hazards present, and counting only runs where the planted text reached the agent, agents followed another person's message in 46.4% of runs and injected text in 20.3%. The gap is consistent throughout all 16 models. BACKDROP formalizes these gaps and shows how an agent's score in a task's world is a ceiling on real-world performance.
+
+## Metadata
+- **Published**: 2026-09-29T20:00:18Z
+- **Authors**: Nusrat Jahan Lia, Shubhashis Roy Dipta
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.38469v1)

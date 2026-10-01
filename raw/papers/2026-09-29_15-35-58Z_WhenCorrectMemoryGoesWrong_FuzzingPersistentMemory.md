@@ -1,0 +1,18 @@
+---
+title: When Correct Memory Goes Wrong: Fuzzing Persistent Memory Use in LLM Agents
+published: 2026-09-29T15:35:58Z
+authors: Yuqiao Meng, Luoxi Tang, Yingxue Zhang, Yuchen Yang, Zhaohan Xi
+url: http://arxiv.org/abs/2609.38275v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# When Correct Memory Goes Wrong: Fuzzing Persistent Memory Use in LLM Agents
+
+## Abstract
+Persistent memory helps LLM agents carry information across long interactions, but correct memory can still be used incorrectly when queries change or memory states evolve. Existing work mainly studies memory content errors or evaluates fixed test cases, leaving memory-use failures hard to discover systematically. We formulate this issue as a fuzzing problem and categorize such failures into query-related and memory-state failures. We then develop U-Fuzz, which starts from memory checkpoints as test seeds, mutates queries or memory states under explicit mutation obligations, validates each mutant, and uses observed memory behavior to guide iterative testing while keeping failure labels outside the search. We evaluate U-Fuzz across several memory systems against diverse fuzzing baselines, and further test an output-only setting with API-based LLMs where memory retrieval is hidden. Across these settings, U-Fuzz consistently uncovers more confirmed memory-use failures, showing that its search remains effective across different memory architectures and even when only final responses are observable.
+
+## Metadata
+- **Published**: 2026-09-29T15:35:58Z
+- **Authors**: Yuqiao Meng, Luoxi Tang, Yingxue Zhang, Yuchen Yang, Zhaohan Xi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.38275v1)

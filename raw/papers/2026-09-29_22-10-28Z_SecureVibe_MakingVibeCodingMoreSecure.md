@@ -1,0 +1,18 @@
+---
+title: SecureVibe: Making Vibe Coding More Secure
+published: 2026-09-29T22:10:28Z
+authors: Danqing Wang, Baolin Peng, Zhepei Wei, Isadora White, Wenlin Yao, Hao Cheng, Qianhui Wu, Minseon Kim, Xingdi Yuan, Lei Li, Jianfeng Gao
+url: http://arxiv.org/abs/2609.38606v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SecureVibe: Making Vibe Coding More Secure
+
+## Abstract
+As vibe coding becomes increasingly capable and widespread, security vulnerabilities in even functionally correct solutions are a growing concern. When investigating functionally correct but insecure solutions, we find that the insecure agent is less than half as likely to conduct effective planning and testing for the hidden security risks behind the functional requirements. Motivated by this, we develop SECUREVIBE, a training recipe that explicitly targets planning and testing for code security. SECUREVIBE constructs training signals around these security behaviors. It includes supervised fine-tuning on the security suite with 4 security tasks, and post-training methods, SECUREVIBE_rl and SECUREVIBE_hg, to enhance security capabilities from verifiable execution feedback and hint-based self-supervision. Our SECUREVIBE outperforms the baseline on two types of security coding tasks across 4 benchmarks. Specifically, SECUREVIBE improves the security pass@1 by 6.9 points on BaxBench. The gains extend to unseen CWE categories, with improvements of 11.5 points on SusVibes. Meanwhile, it also improves functionality pass@1 by 13.6 points on the security coding task SusVibes and 4.1 points on the generic coding task SWE-bench Verified. Further analysis offers two practical insights: (i) diversifying supervision across security planning, coding, and testing strengthens security behaviors more effectively than adding coding trajectories alone, and (ii) hint-guided supervision is particularly valuable when the agent's existing security capabilities are insufficient to learn effectively from outcome feedback.
+
+## Metadata
+- **Published**: 2026-09-29T22:10:28Z
+- **Authors**: Danqing Wang, Baolin Peng, Zhepei Wei, Isadora White, Wenlin Yao, Hao Cheng, Qianhui Wu, Minseon Kim, Xingdi Yuan, Lei Li, Jianfeng Gao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2609.38606v1)
