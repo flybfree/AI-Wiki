@@ -15365,3 +15365,6 @@ tags: ['wiki']
 ## [2026-10-02 11:22] skip-duplicate | 2026-10-02_Refusal_in_Language_Models_Is_Mediated_by_a_Single_Direction.md
 ## [2026-10-02 11:22] ingest | 2026-10-02_AmodelguidefortheGPT-6family.md
 ## [2026-10-02 11:22] ingest | 2026-10-02_PopeLeoXIVisnotafanofAI-generatedart.md
+## [2026-10-02 12:28] ingest | 2026-10-02_CircuitBreakerLabshopestomakeAIsaferforyourkids_an.md
+## [2026-10-02 12:28] ingest | 2026-10-02_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md
+## [2026-10-02 13:19] ingest | 2026-10-02_Applesaysit_stighteningmacOS_FullDiskAccess_contro.md

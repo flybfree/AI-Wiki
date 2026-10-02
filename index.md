@@ -3118,3 +3118,6 @@ tags: ['wiki']
 - [[2026-10-02_TechCrunchDisrupt2026_Blackstone_sJasKhairaonbuild.md]] : TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants
 - [[2026-10-02_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
 - [[2026-10-02_PopeLeoXIVisnotafanofAI-generatedart.md]] : Pope Leo XIV is not a fan of AI-generated art
+- [[2026-10-02_CircuitBreakerLabshopestomakeAIsaferforyourkids_an.md]] : Circuit Breaker Labs hopes to make AI safer for your kids (and you)
+- [[2026-10-02_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+- [[2026-10-02_Applesaysit_stighteningmacOS_FullDiskAccess_contro.md]] : Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents
