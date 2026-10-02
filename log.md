@@ -5,7 +5,10 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-02] ingest | added arXiv:2406.11717, “Refusal in Language Models Is Mediated by a Single Direction,” as a curated paper summary; preserved raw provenance, updated index.md, and mirrored the summary to Logseq
+
 ## [2026-10-02 06:00] summarize | created concepts/ai-trends/daily-ai-intelligence-blog-2026-10-02.md from the complete AI-only intake plus direct lab/news sweep; synthesized staged open weights, task-specific RLVR, Barclays enterprise deployment, Diffusion Controller, Guided Vision, containment and incident disclosure; deferred high-stakes Grok claims and weak/truncated Qwen/Z.ai/Meta captures; arXiv coverage was complete in the 03:14 UTC pass but later retries were rate-limited; no new October 2 paper was promoted; Logseq mirror and GitHub push required
+## [2026-10-02 12:30] refresh | incorporated the later GPT-6 production guide, Blackstone AI-infrastructure financing signal, and the newly curated arXiv:2406.11717 refusal-mechanism paper; added an explicit caveat from AP reporting that GPT-6.1 Astra was held back amid safety concerns; retained AI-only exclusions and high-stakes deferrals; direct lab/news sweep found no newer verified same-day item that displaced the local corpus; GitHub push required
 ## [2026-10-02 00:21] publish | 2026-10-01 canonical final published; 4 selected-paper links match the local-time curation query; wiki/Logseq mirrors byte-identical; GitHub commit 8eb92f74 pushed and origin/master verified; Lumistorm post 214 created at https://lumistorm.net/daily-ai-intelligence-2026-10-01/; REST/readback, published status, category, cache-busted live page, archive presence, date, source links, and raw-wiki-syntax checks passed
 ## [2026-10-02 00:00] finalize | 2026-10-01 canonical final; local-time curation returned 4 keeps, all 4 canonical summary paths resolved and repaired with visible original-paper URLs; briefing now links all 4 selected papers; Logseq mirror, GitHub push, and Lumistorm publication verification follow
 ## [2026-10-01] summarize | refreshed the canonical AI-only briefing for 2026-10-01; added the FTC investigation and Hugging Face litigation as unresolved accountability signals, OpenAI’s Albertsons retail deployment, and Airbnb’s app-specific/collaborative agent-interface thesis; excluded stale/low-signal captures; latest arXiv scout completed 14 queries with 2,450 entries and 523 high-priority candidates, but no paper was promoted because page-level curation remained incomplete; Logseq mirrors synchronized; GitHub commit and push required
@@ -15358,3 +15361,7 @@ tags: ['wiki']
 ## [2026-10-02 05:31] ingest | 2026-10-02_Qwen.md
 ## [2026-10-02 05:31] ingest | 2026-10-02_OpenAI_HuggingFaceincident-Wikipedia.md
 ## [2026-10-02 07:25] ingest | 2026-10-02_AIhallucinationsaremakingentitledcustomersevenwors.md
+## [2026-10-02 10:23] ingest | 2026-10-02_TechCrunchDisrupt2026_Blackstone_sJasKhairaonbuild.md
+## [2026-10-02 11:22] skip-duplicate | 2026-10-02_Refusal_in_Language_Models_Is_Mediated_by_a_Single_Direction.md
+## [2026-10-02 11:22] ingest | 2026-10-02_AmodelguidefortheGPT-6family.md
+## [2026-10-02 11:22] ingest | 2026-10-02_PopeLeoXIVisnotafanofAI-generatedart.md

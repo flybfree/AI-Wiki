@@ -292,6 +292,7 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[raw/papers/2026-10-02_Refusal_in_Language_Models_Is_Mediated_by_a_Single_Direction.md]] : Refusal in Language Models Is Mediated by a Single Direction (arXiv:2406.11717)
 - [[raw/papers/2026-08-08_15-28-45Z_QuantizationDegradationinLargeLanguageModels_ASign.md]] : Quantization Degradation in Large Language Models: A Signal-Noise Perspective
 - [[raw/papers/2026-07-21_09-45-34Z_DocAtlas_Long_DocumentUnderstandingasMutable_State.md]] : DocAtlas: Long-Document Understanding as Mutable-State Interaction
 - [[raw/papers/2026-08-08_09-05-10Z_LegalResponsibilitiesUsingAutonomousAgentsForArtif.md]] : Legal Responsibilities Using Autonomous Agents For Artificial Intelligence
@@ -3114,3 +3115,6 @@ tags: ['wiki']
 - [[2026-10-02_Qwen.md]] : Qwen
 - [[2026-10-02_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
 - [[2026-10-02_AIhallucinationsaremakingentitledcustomersevenwors.md]] : AI hallucinations are making entitled customers even worse
+- [[2026-10-02_TechCrunchDisrupt2026_Blackstone_sJasKhairaonbuild.md]] : TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants
+- [[2026-10-02_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
+- [[2026-10-02_PopeLeoXIVisnotafanofAI-generatedart.md]] : Pope Leo XIV is not a fan of AI-generated art
