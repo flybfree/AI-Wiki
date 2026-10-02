@@ -1,0 +1,18 @@
+---
+title: Cross-Benchmark Transfer from RL on Agentic Coding Tasks
+published: 2026-10-01T01:12:24Z
+authors: Sushant Mehta, Logan Ritchie, Edwin Chen
+url: http://arxiv.org/abs/2610.00890v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Cross-Benchmark Transfer from RL on Agentic Coding Tasks
+
+## Abstract
+Coding agents often fail in the last mile: they build most of a feature but drop a requirement, test only the cases their implementation already handles, break behavior that was supposed to stay intact, or validate against an unchecked assumption. We ask whether reinforcement learning (RL) on expert-built agentic coding tasks closes this gap, and whether what the agent learns transfers beyond the training distribution. We post-train Kimi K2.7 Code, a 1T-parameter (32B active) open-weight mixture-of-experts model, with RL alone on 1,700 tasks: 1,000 repository tasks graded by hidden fail-to-pass tests and by pass-to-pass tests of existing behavior, and 700 terminal tasks graded by expert-written hidden verifiers. The reward is the fraction of target checks passed and drops to zero if any pass-to-pass test fails. One epoch of GSPO on a rank-32 LoRA adapter improves pass@1 on each of the six external benchmarks we evaluated, across three agent harnesses: SWE-Bench Pro (60.1 to 64.8), DeepSWE (31.0 to 43.4), Terminal-Bench 2.1 (67.4 to 82.0), Terminal-Bench 3 (1.4 to 12.1), Terminal-Bench 4 (0.0 to 7.6), and SWE-Marathon (5.0 to 25.0). Pooled over the five independent task sets (Terminal-Bench 4 revises Terminal-Bench 3), the improvement is significant (p < 0.001), and it remains significant on the three sets released after the training data was collected (p = 0.004); the model also improves under both harnesses never used in training. Median trajectories on DeepSWE and Terminal-Bench 3 are 24-35% shorter in agent steps. The base model's failed DeepSWE runs are mostly near-misses, and on the tasks the trained model newly solves, paired trajectories show it avoiding each of the four failure modes above.
+
+## Metadata
+- **Published**: 2026-10-01T01:12:24Z
+- **Authors**: Sushant Mehta, Logan Ritchie, Edwin Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.00890v1)

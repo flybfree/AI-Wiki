@@ -1,0 +1,18 @@
+---
+title: Old Ideas, Novel Problems: The Instability of LLM-Based Novelty Evaluation
+published: 2026-10-01T16:43:18Z
+authors: Noy Sternlicht, Simra Shahid, Peter Jansen, Daniel S. Weld, Pao Siangliulue, Tom Hope
+url: http://arxiv.org/abs/2610.02022v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Old Ideas, Novel Problems: The Instability of LLM-Based Novelty Evaluation
+
+## Abstract
+Automated ideation systems are often evaluated on the novelty of the ideas they produce, and that judgment is increasingly delegated to large language models. Such judges are typically built ad hoc and validated, if at all, on human-authored papers rather than on the generated ideas they are meant to score. So, how do novelty judges perform?   Not well. We present a systematic controlled study of novelty evaluation design choices. We first build an evaluation set automatically, mining OpenReview for passages where reviewers explicitly affirm or dispute a paper's originality and keeping only submissions with unanimous agreement at the extremes of their research area; we pair these with ideas from a vanilla LLM generator. Across six judges, we find that small prompt design choices have large consequences; e.g., simply telling the judge that reviewers found one idea novel and the other not can change its verdict on more than half of the identical idea pairs it is shown, shifting pairwise accuracy by over 50 points and occasionally pushing it below chance. The same change helps one judge and hurts another. Retrieval and larger reasoning budgets help little, and two purpose-built novelty evaluators are outperformed by our cheapest prompted baseline. These results raise questions about reported novelty gains of automated ideation systems, and call for robust novelty evaluation methods.
+
+## Metadata
+- **Published**: 2026-10-01T16:43:18Z
+- **Authors**: Noy Sternlicht, Simra Shahid, Peter Jansen, Daniel S. Weld, Pao Siangliulue, Tom Hope
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.02022v1)

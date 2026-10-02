@@ -1,6 +1,7 @@
 # Summary: 2026-09-29_17-42-54Z_CharacterTrainingforRisk_AverseAgents.md
 Saved: 2026-09-29 22:17
 Source: 2026-09-29_17-42-54Z_CharacterTrainingforRisk_AverseAgents.md
+Original paper: [arXiv:2609.38093](http://arxiv.org/abs/2609.38093v1)
 Model: qwen3.6-35b-a3b
 
 ---

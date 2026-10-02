@@ -1,6 +1,7 @@
 # Summary: 2026-09-29_14-50-08Z_ContextLanguageModels.md
 Saved: 2026-09-29 23:31
 Source: 2026-09-29_14-50-08Z_ContextLanguageModels.md
+Original paper: [arXiv:2609.37725](http://arxiv.org/abs/2609.37725v1)
 Model: qwen3.6-35b-a3b
 
 ---

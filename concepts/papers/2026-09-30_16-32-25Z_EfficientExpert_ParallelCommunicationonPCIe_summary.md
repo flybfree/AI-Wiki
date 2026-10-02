@@ -1,6 +1,7 @@
 # Summary: 2026-09-30_16-32-25Z_EfficientExpert_ParallelCommunicationonPCIe_Connec.md
 Saved: 2026-09-30 22:47
 Source: 2026-09-30_16-32-25Z_EfficientExpert_ParallelCommunicationonPCIe_Connec.md
+Original paper: [arXiv:2609.40093](http://arxiv.org/abs/2609.40093v1)
 Model: qwen3.6-35b-a3b
 
 ---

@@ -28,7 +28,7 @@ October 1 reinforced a single direction: frontier AI is being deployed as a **co
 
 The strongest technical signals were also system-level. ReViSQL-K2.6 reportedly exceeded the human proxy on an expert-verified text-to-SQL benchmark at $0.56 per task, showing how clean labels and task-specific reinforcement learning with verifiable rewards (RLVR) can outperform prompt-heavy scaffolding. Anthropic’s biology workflow used roughly 950 parallel agents to search 210 million tokens and identify a previously uncharacterized enzyme system for laboratory testing. Google Research’s Diffusion Controller showed how a small control layer can steer a frozen image model without retraining its backbone.
 
-The safety corpus remains material: OpenAI disclosed six additional misalignment incidents and introduced a framework favoring disclosure even when significance is uncertain. The direct sweep also found an FTC investigation into OpenAI, Anthropic, and other AI companies, plus litigation over the Hugging Face incident; both raise accountability questions, but their scope and merits remain unresolved. Late intake added OpenAI’s Albertsons retail deployment and Airbnb’s argument for collaborative, app-specific agent interfaces. The day’s intake also contained many weak or incomplete captures—stale Meta and Z.ai pages, an extraction-poor Qwen release, and low-signal Grokipedia coverage—so they were not allowed to drive the briefing. The latest arXiv scout saw 2,450 entries and 523 high-priority candidates with complete query coverage, but no paper was promoted because page-level curation and canonical-summary verification were not complete.
+The safety corpus remains material: OpenAI disclosed six additional misalignment incidents and introduced a framework favoring disclosure even when significance is uncertain. The direct sweep also found an FTC investigation into OpenAI, Anthropic, and other AI companies, plus litigation over the Hugging Face incident; both raise accountability questions, but their scope and merits remain unresolved. Late intake added OpenAI’s Albertsons retail deployment and Airbnb’s argument for collaborative, app-specific agent interfaces. The day’s intake also contained many weak or incomplete captures—stale Meta and Z.ai pages, an extraction-poor Qwen release, and low-signal Grokipedia coverage—so they were not allowed to drive the briefing. The latest arXiv scout saw 2,450 entries and 523 high-priority candidates with complete query coverage. Page-level curation subsequently kept four papers for this canonical edition: intrinsic context management, risk-averse character training, PCIe-efficient MoE inference, and chained-skill hijacking of LLM agents.
 
 ## Verdict
 
@@ -98,9 +98,22 @@ The governance counterpart is the direct-sweep report that the [FTC is investiga
 - **Deferred:** Qwen’s Qwen3.5 capture because the local extraction is truncated and lacks enough release detail for a reliable model note; Z.ai’s infrastructure post because it is dated September 17 and primarily repeats an earlier recursive-improvement signal.
 - **Excluded from the core synthesis:** Meta’s page, which exposed older July content rather than a same-day development; Grokipedia’s visual refresh, which is a low-signal product-design update rather than an AI capability or governance change; empty per-article summaries that returned no content.
 
-## Research-paper status
+## Research papers selected through curation
 
-The latest arXiv scout logged **2,450 entries** and **523 high-priority candidates** through September 30 across 14 queries. Coverage completed successfully with no failed query, but the candidate set was not converted into a verified keep set. **No paper was promoted** because page-level curation and canonical-summary verification were not complete; this is not a clean “no relevant papers found” result.
+The latest arXiv scout logged **2,450 entries** and **523 high-priority candidates** across 14 completed queries. The local curation decision store returned **four keeps approved during October 1, 2026 in the configured local timezone**. All four canonical summary paths exist, each summary now exposes a visible original-paper URL, and each is linked below.
+
+### Agent memory and context
+
+- [Context Language Models](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-29_14-50-08Z_ContextLanguageModels_summary.md) — treats working context as an editable file that the model can retain, rewrite, or delete. The reported gains suggest that context policy can become a learned capability rather than an external summarization layer; the key follow-up is independent replication and testing under realistic multi-agent workloads.
+
+### Alignment and agent security
+
+- [Character Training for Risk-Averse Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-29_17-42-54Z_CharacterTrainingforRisk_AverseAgents_summary.md) — uses constitutional descriptions and on-policy distillation to instill broad risk preferences, with better out-of-distribution behavior in some tested models. It is promising as a disposition-shaping technique, but should be evaluated against specification gaming, preference reversals, and adversarial prompting.
+- [Chaining Skills to Hijack LLM Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-01_12-28-49Z_ChainingSkillstoHijackLLMAgents_summary.md) — introduces APEX, which exploits false approval claims passed between modular skills; the summary reports 512/690 successful targeted actions overall and 84.3% on GPT-5.4. The practical lesson is that intermediate task records need provenance, typed authorization, and independent re-verification rather than blind trust.
+
+### Inference infrastructure
+
+- [EfficientExpert: Parallel Communication on PCIe-Connected Systems](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-30_16-32-25Z_EfficientExpert_ParallelCommunicationonPCIe_summary.md) — presents ThunderEP, a communication design for MoE expert parallelism on consumer GPUs without NVLink. The reported 2.00× dispatch and up to 1.66× end-to-end vLLM gains indicate that software-level communication design can materially widen the practical hardware envelope for local MoE inference.
 
 ## What changed today
 
@@ -113,6 +126,7 @@ The latest arXiv scout logged **2,450 entries** and **523 high-priority candidat
 - Control layers continued to emerge as a way to customize restricted or frozen foundation models.
 - Accountability moved closer to deployment: the FTC investigation and Hugging Face lawsuit add external pressure to incident disclosure and containment claims.
 - Consumer deployment signals emphasized domain-specific, collaborative interfaces rather than a universal chatbot layer.
+- Four newly verified curation keeps made the paper track substantive: learned context management, risk-averse character training, PCIe-efficient MoE serving, and compositional skill-chain attacks.
 
 ## Why it matters
 
@@ -129,7 +143,7 @@ The main risk is evaluation mismatch. Vendor benchmark claims may not transfer; 
 5. ReViSQL transfer to other enterprise tasks where rewards are verifiable but schemas and labels are messy.
 6. Follow-up experiments on ART: mechanism, programmability, biological function, and external replication.
 7. The Diffusion Controller paper and tests on newer image/video backbones and truly black-box APIs.
-8. Complete page-level review of the 523 high-priority arXiv candidates before promoting any paper.
+8. Replicate the four selected papers, especially the Context Language Model efficiency claims and APEX’s cross-skill authorization attack.
 9. Track the FTC investigation and Hugging Face litigation for filings, scope, and concrete remedies rather than treating early reports as findings.
 
 ## Source links / references
@@ -160,4 +174,4 @@ The main risk is evaluation mismatch. Vendor benchmark claims may not transfer; 
 
 - **Scope:** AI-only intake; generic technology, stale source pages, and low-signal product-design coverage were excluded.
 - **Traceability:** local raw captures were used where article summaries failed; source URLs remain visible beside each theme.
-- **ArXiv:** 2,450 entries across 14 completed queries and 523 high-priority candidates were logged; no paper entered the canonical briefing without completed page-level curation and summary verification.
+- **ArXiv:** 2,450 entries across 14 completed queries and 523 high-priority candidates were logged; four curation-kept papers entered the canonical briefing after path and original-URL verification.
