@@ -121,6 +121,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [Summary: Daily AI Intelligence Briefing — 2026-10-02](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-02.md) — canonical final; governed deployment, staged open weights, task-specific RL, enterprise adoption, control layers, bounded multimodal assistance, containment, and no newly promoted paper
 - [Summary: Daily AI Intelligence Briefing — 2026-10-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-01.md) — canonical final; staged frontier access, governed enterprise deployment, incident disclosure, FTC/litigation accountability signals, app-specific agent interfaces, staged open weights, task-specific RL, AI-for-science, control layers, and 4 curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-30.md) — canonical final; frontier-model economics, safety gates, staged open weights, task-specific RL, AI-for-science, control layers, typed decision models, and 4 curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-29.md) — agent containment, consumer-agent permissions, staged open weights, verifiable task expertise, long-horizon orchestration, AI-for-science, and model-compute convergence
@@ -3110,3 +3111,5 @@ tags: ['wiki']
 - [[2026-10-02_Z_ai__Zai_org_onX.md]] : Z.ai (@Zai_org) on X
 - [[2026-10-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[2026-10-02_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-02_Qwen.md]] : Qwen
+- [[2026-10-02_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
