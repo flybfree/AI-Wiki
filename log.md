@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-02 18:01] summarize | refreshed the canonical October 2 AI-only briefing from the late intake and latest direct lab/news sweep; added Apple’s Full Disk Access permission boundary, Meta Muse hardware extensibility, and Stability AI’s licensed-data music pivot; deferred the single-source report of three OpenAI safety-researcher firings; latest 17:51 UTC arXiv pass completed 14 configured queries with 2,300 entries and 532 high-priority candidates; one carried-forward refusal-mechanism paper remains promoted; wiki/Logseq mirrors synchronized; GitHub push required
+
 ## [2026-10-02] ingest | added arXiv:2406.11717, “Refusal in Language Models Is Mediated by a Single Direction,” as a curated paper summary; preserved raw provenance, updated index.md, and mirrored the summary to Logseq
 
 ## [2026-10-02 06:00] summarize | created concepts/ai-trends/daily-ai-intelligence-blog-2026-10-02.md from the complete AI-only intake plus direct lab/news sweep; synthesized staged open weights, task-specific RLVR, Barclays enterprise deployment, Diffusion Controller, Guided Vision, containment and incident disclosure; deferred high-stakes Grok claims and weak/truncated Qwen/Z.ai/Meta captures; arXiv coverage was complete in the 03:14 UTC pass but later retries were rate-limited; no new October 2 paper was promoted; Logseq mirror and GitHub push required
@@ -15368,3 +15370,8 @@ tags: ['wiki']
 ## [2026-10-02 12:28] ingest | 2026-10-02_CircuitBreakerLabshopestomakeAIsaferforyourkids_an.md
 ## [2026-10-02 12:28] ingest | 2026-10-02_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md
 ## [2026-10-02 13:19] ingest | 2026-10-02_Applesaysit_stighteningmacOS_FullDiskAccess_contro.md
+## [2026-10-02 14:26] ingest | 2026-10-02_OpenAI_sDotagentisenterprisesoftwarethatcanalsoord.md
+## [2026-10-02 16:19] ingest | 2026-10-02_ApplewilllimitMacdiskaccessasAIagents_substantiall.md
+## [2026-10-02 17:14] ingest | 2026-10-02_MetaopensourcescodetoletyoumakeMuseAIgadgets.md
+## [2026-10-02 17:14] ingest | 2026-10-02_SeanParkerisrebuildingStabilityAIaroundmusic.md
+## [2026-10-02 17:14] ingest | 2026-10-02_OpenAIfires3safetyresearchersaccusedofsharingconfi.md
