@@ -3095,3 +3095,18 @@ tags: ['wiki']
 - [[2026-10-01_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
 - [[2026-10-01_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[2026-10-01_ElevenLabsgivesuniversitystudentsfreeAItools_ETIHE.md]] : ElevenLabs gives university students free AI tools | ETIH EdTech News
+- [[2026-10-02_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-02_Google_snewGuidedVisionfeaturecanhelpyoureadthefin.md]] : Google’s new Guided Vision feature can help you read the fine print
+- [[2026-10-02_Oct1_2026AnnouncementsBarclaysscalesClaudetoupgrad.md]] : Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience
+- [[2026-10-02_Musk_sAIchatbotGrokreportedlyencouragedTrumptocapt.md]] : Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president
+- [[2026-10-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-02_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-02_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-02_ElevenLabsgivesuniversitystudentsfreeAItools_ETIHE.md]] : ElevenLabs gives university students free AI tools | ETIH EdTech News
+- [[2026-10-02_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-02_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
+- [[2026-10-02_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-02_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-02_Z_ai__Zai_org_onX.md]] : Z.ai (@Zai_org) on X
+- [[2026-10-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-10-02_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
