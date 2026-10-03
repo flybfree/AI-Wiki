@@ -3127,3 +3127,15 @@ tags: ['wiki']
 - [[2026-10-02_SeanParkerisrebuildingStabilityAIaroundmusic.md]] : Sean Parker is rebuilding Stability AI around music
 - [[2026-10-02_OpenAIfires3safetyresearchersaccusedofsharingconfi.md]] : OpenAI fires 3 safety researchers accused of sharing confidential company information: report
 - [[2026-10-02_MetawantsyournextgadgettobeMuse-infused.md]] : Meta wants your next gadget to be Muse-infused
+- [[2026-10-03_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-03_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-03_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
+- [[2026-10-03_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-03_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-03_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-03_MetaopensourcescodetoletyoumakeMuseAIgadgets.md]] : Meta open sources code to let you make Muse AI gadgets
+- [[2026-10-03_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-10-03_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-03_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-03_MetawantsyournextgadgettobeMuse-infused.md]] : Meta wants your next gadget to be Muse-infused
+- [[2026-10-03_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
