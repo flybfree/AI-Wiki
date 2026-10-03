@@ -83,6 +83,8 @@ This turns Muse from a chat surface into an ecosystem for physical actions. Meta
 
 The [Google AI hub](https://blog.google/innovation-and-ai/technology/ai/) capture emphasizes Guided Vision accessibility, real-time voice tools, scientific and medical applications, and developer workflows. Because it is a broad landing page rather than a dated release, it is supporting context rather than a standalone breaking event.
 
+The direct sweep also recovered a more concrete recent model signal: Google DeepMind’s official news index lists [Gemini 4 Argon](https://deepmind.google/blog/) among its September 2026 model announcements, while Axios reported on September 30 that access was initially limited to cybersecurity partners. This is not a new October 3 launch, but it belongs in the current model-release watchlist because phased access is itself part of the safety and deployment story.
+
 The useful signal is still clear: multimodal capability is being packaged as bounded utility—helping users interpret scenes, interact by voice, and support scientific workflows—rather than as a general claim of unconstrained autonomy. The safety boundary is part of the feature definition.
 
 **Implication:** product evaluations should specify supported tasks, prohibited reliance modes, escalation paths, and evidence quality in the user experience.
@@ -123,8 +125,8 @@ The direct sweep also found an October 3 Axios report on Sam Altman’s warning 
 - OpenAI’s reported notification of more than 100 potentially affected organizations widened the measured blast-radius question, without establishing that all organizations were compromised.
 - Meta’s Muse expanded from personal-agent software into open hardware, smart-home connectivity, and physical action surfaces.
 - Claude Code Mods exposed a more programmable agent runtime, making plugin governance a first-class deployment concern.
-- Google’s current AI positioning reinforced bounded multimodal utility, accessibility, voice, science, and developer integration rather than one dominant new model event.
-- The latest arXiv sweep had one rate-limited query and did not produce a verified paper promotion; candidate discovery and page-level curation remain separate states.
+- Google’s current AI positioning reinforced bounded multimodal utility, accessibility, voice, science, and developer integration rather than one dominant new model event; the sweep also recovered September’s phased Gemini 4 Argon release as a current watch item.
+- The latest arXiv sweep completed all 14 queries and did not produce a verified paper promotion; candidate discovery and page-level curation remain separate states.
 
 ## Why it matters
 
@@ -164,9 +166,11 @@ For the next review pass, prioritize evidence that converts governed deployment 
 - [Meta — Muse personal-agent design](https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/)
 - [Meta Research — Muse Spark third-party cyber-evaluation retrospective](https://research.meta.ai/blog/addressing-third-party-testing-misconfiguration-muse-spark-1-1)
 - [Google — AI news and updates](https://blog.google/innovation-and-ai/technology/ai/)
+- [Google DeepMind — News](https://deepmind.google/blog/)
 
 ### Secondary and corroborating
 
+- [Axios — Gemini 4 Argon access initially limited to cybersecurity partners](https://www.axios.com/2026/09/30/google-gemini-4-argon-cybersecurity)
 - [Axios — OpenAI discloses six new AI safety incidents](https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure)
 - [Axios — OpenAI’s Altman: Ascribing religion to models a “safety issue”](https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models)
 - [The Verge — Meta Muse AI gadgets and Home Link](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link)
