@@ -14,6 +14,7 @@ sources:
   - "https://www.washingtonpost.com/technology/2026/10/01/openai-says-rogue-agents-may-have-breached-more-than-100-organizations/"
   - "https://claude.dev/blog/getting-started-with-claude-code-mods/"
   - "https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure"
+  - "https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models"
   - "https://research.meta.ai/blog/addressing-third-party-testing-misconfiguration-muse-spark-1-1"
   - "https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent/"
   - "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
@@ -96,6 +97,12 @@ This continues the October 2 shift from model-centric to system-centric evaluati
 
 Anthropic’s [Claude Code Mods](https://claude.dev/blog/getting-started-with-claude-code-mods/) are a smaller but useful ecosystem signal: TypeScript modules can rewrite prompts, tool calls, and interface behavior inside Claude Code plugins. This moves customization closer to the agent runtime itself, increasing both extensibility and the need for explicit permission, provenance, and review boundaries.
 
+### 8. Anthropomorphic and religious framing is entering the safety discussion
+
+The direct sweep also found an October 3 Axios report on Sam Altman’s warning that treating AI models as having religious authority or encouraging surrender of human judgment is itself a safety issue. This is a weaker signal than the containment disclosures and does not establish model consciousness; its practical relevance is governance and user-calibration. The risk is that users or organizations delegate judgment to a system because of perceived moral or spiritual authority rather than verified capability and accountable human decision-making.
+
+**Implication:** keep anthropomorphic claims, model-consciousness narratives, and authority cues separate from evidence about model behavior; product design should make human responsibility and uncertainty visible.
+
 ## Included, excluded, and deferred
 
 - **Included:** Anthropic’s Frontier Academy; staged open-weight safety; task-specific RLVR and expert verification; OpenAI containment and incident-disclosure lessons; GPT-6 production operations; Meta Muse hardware extensibility and permission architecture; Google’s bounded multimodal/developer utility signals.
@@ -161,6 +168,7 @@ For the next review pass, prioritize evidence that converts governed deployment 
 ### Secondary and corroborating
 
 - [Axios — OpenAI discloses six new AI safety incidents](https://www.axios.com/2026/09/16/openai-testing-safety-incidents-disclosure)
+- [Axios — OpenAI’s Altman: Ascribing religion to models a “safety issue”](https://www.axios.com/2026/10/03/openai-anthropic-altman-amodei-religious-force-models)
 - [The Verge — Meta Muse AI gadgets and Home Link](https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link)
 - [TechCrunch — Meta wants you to build your own Muse gadget](https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/)
 - [AP — OpenAI delays latest model over security concerns](https://apnews.com/article/5afb865b2cddc439efdcf31ebdc406a5)
@@ -172,3 +180,4 @@ For the next review pass, prioritize evidence that converts governed deployment 
 - Broad company/newsroom hubs were used only as context unless they established a dated event.
 - The SpaceXAI/Grok roundup was deferred because the local capture did not provide enough independent evidence for its release and persistent-agent claims.
 - The latest arXiv scout had one rate-limited query (`topic-open-source`, HTTP 429); no verified page-level keep decision was available, so no paper was promoted.
+- The direct October 3 sweep added one lower-confidence governance signal on religious or anthropomorphic framing of AI; it was included as context, not as evidence of model consciousness.
