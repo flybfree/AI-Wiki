@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-03 00:01] finalize | 2026-10-02 canonical final corrected against the complete local-time curation query: 0 target-date keeps and 0 uncovered carry-forward papers; removed the previously misclassified refusal paper; updated briefing, index, and recurring hub; Logseq mirror, GitHub push, and Lumistorm publication verification follow
+
 ## [2026-10-02 18:01] summarize | refreshed the canonical October 2 AI-only briefing from the late intake and latest direct lab/news sweep; added Apple’s Full Disk Access permission boundary, Meta Muse hardware extensibility, and Stability AI’s licensed-data music pivot; deferred the single-source report of three OpenAI safety-researcher firings; latest 17:51 UTC arXiv pass completed 14 configured queries with 2,300 entries and 532 high-priority candidates; one carried-forward refusal-mechanism paper remains promoted; wiki/Logseq mirrors synchronized; GitHub push required
 
 ## [2026-10-02] ingest | added arXiv:2406.11717, “Refusal in Language Models Is Mediated by a Single Direction,” as a curated paper summary; preserved raw provenance, updated index.md, and mirrored the summary to Logseq

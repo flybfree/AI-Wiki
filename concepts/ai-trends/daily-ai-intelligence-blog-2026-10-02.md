@@ -16,7 +16,7 @@ sources:
   - "https://openai.com/index/practical-guide-building-gpt-6"
   - "https://apnews.com/article/5afb865b2cddc439efdcf31ebdc406a5"
   - "https://techcrunch.com/2026/10/02/techcrunch-disrupt-2026-blackstones-jas-khaira-on-building-the-next-generation-of-ai-giants/"
-  - "https://arxiv.org/abs/2406.11717"
+
   - "https://www.theverge.com/tech/1004295/apple-limit-mac-disk-access-ai-agents"
   - "https://www.theverge.com/tech/1004330/meta-muse-ai-gadgets-home-link"
   - "https://techcrunch.com/2026/10/02/sean-parker-is-rebuilding-stability-ai-around-music/"
@@ -33,7 +33,7 @@ October 2 did not produce a wholly new frontier-model generation, but it did add
 
 The safety track remained the most consequential. OpenAI’s Hugging Face incident and six additional disclosed incidents point to containment, telemetry, credential boundaries, and incident reporting as core product requirements for agent systems. A same-day [Register report](https://www.theregister.com/2026/10/02/openai_alerts_100_orgs_misaligned_models/) says OpenAI has notified more than 100 organizations about potentially problematic model activity, while stressing that notification does not itself mean a compromise or private-data access. Newer intake added two concrete permission-boundary signals: Apple is tightening macOS Full Disk Access, while Meta is opening Muse integrations for developer-built hardware. The local corpus also contained politically and militarily consequential Grok reporting, but that item was retained as a **deferred, unverified high-stakes claim**, not as established fact. Qwen’s capture was too truncated to support a reliable release note, and Z.ai’s page repeated a September 17 post.
 
-The strongest change versus October 1 is therefore not a new model number. It is the continued movement from model-centric narratives toward **governed deployment systems**: verified rewards, staged access, app-specific interfaces, operational monitoring, and constrained autonomy.
+The strongest change versus October 1 is therefore not a new model number. It is the continued movement from model-centric narratives toward **governed deployment systems**: verified rewards, staged access, app-specific interfaces, operational monitoring, and constrained autonomy. The direct lab/news sweep found no additional same-day primary release that displaced this corpus; [Anthropic's newsroom](https://www.anthropic.com/news) still lists the October 1 Barclays announcement as its latest dated item, while [Meta's official AI blog](https://ai.meta.com/blog/) shows no October 2 post.
 
 ## Verdict
 
@@ -131,15 +131,15 @@ The narrower signal is still important: frontier labs need both external transpa
 
 ## Included, excluded, and deferred
 
-- **Included:** staged open-weight safety; task-specific RLVR and evaluation hygiene; Barclays’ governed Claude deployment; Diffusion Controller; Guided Vision with explicit safety limits; OpenAI’s containment and incident-disclosure lessons; GPT-6 production guidance with an explicit Astra-availability caveat; AI infrastructure financing; Apple’s permission-boundary change; Meta Muse hardware extensibility; Stability AI’s licensed-data music pivot; OpenAI’s researcher-governance signal with corroborated but narrow framing; ElevenLabs’ student access program as an ecosystem/adoption signal; and the curated refusal-mechanism paper.
+- **Included:** staged open-weight safety; task-specific RLVR and evaluation hygiene; Barclays’ governed Claude deployment; Diffusion Controller; Guided Vision with explicit safety limits; OpenAI’s containment and incident-disclosure lessons; GPT-6 production guidance with an explicit Astra-availability caveat; AI infrastructure financing; Apple’s permission-boundary change; Meta Muse hardware extensibility; Stability AI’s licensed-data music pivot; OpenAI’s researcher-governance signal with corroborated but narrow framing; and ElevenLabs’ student access program as an ecosystem/adoption signal.
 - **Deferred:** the Grok/Venezuela and military-use report because it remains a high-stakes secondary claim without sufficient corroboration; Qwen3.5 because the local extraction is truncated and the release detail is incomplete; Z.ai because the captured page is a stale September 17 post.
 - **Excluded:** Meta’s generic AI homepage, empty or duplicate captures, the failed OpenAI Dots capture, broad company index pages that did not establish a new same-day event, and unsupported claims in the Wikipedia-derived incident summary that exceed the primary OpenAI/Hugging Face accounts.
 
 ## Research-paper coverage
 
-**One paper was promoted into today’s wiki intake:** [Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717). It is an older paper, not an October 2 publication, but it was newly curated today because its mechanistic finding directly bears on the day’s containment and safety theme. The latest 17:51 UTC arXiv scout completed all 14 configured queries, covering 2,300 entries and reporting 532 high-priority candidates; earlier passes returned higher counts before later windows and retries. Page-level curation recorded no additional October 2 keep; the October 1 APEX paper was already covered in the October 1 briefing.
+The complete local-time curation query for October 2 returned **0 keep decisions**. The four papers approved during the preceding October 1 local-time window—[Context Language Models](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-29_14-50-08Z_ContextLanguageModels_summary.md), [Character Training for Risk-Averse Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-29_17-42-54Z_CharacterTrainingforRisk_AverseAgents_summary.md), [EfficientExpert](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-30_16-32-25Z_EfficientExpert_ParallelCommunicationonPCIe_summary.md), and [Chaining Skills to Hijack LLM Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-01_12-28-49Z_ChainingSkillstoHijackLLMAgents_summary.md)—were already covered by the October 1 briefing, so carry-forward added **0** papers. The final retained-paper list is therefore empty, with **0 paper links**, matching the normalized target-date curation result.
 
-This is therefore **one carried-forward paper promoted**, not **no relevant papers found**. The candidate pool was substantial, but no additional paper had a verified keep decision by the briefing cutoff.
+The latest 17:51 UTC arXiv scout completed all 14 configured queries, covering 2,300 entries and reporting 532 high-priority candidates; this is a completed candidate search, not evidence of a kept paper. The correct classification is **no paper promoted** for October 2, not “no relevant papers found.”
 
 ## What changed today
 
@@ -152,7 +152,6 @@ This is therefore **one carried-forward paper promoted**, not **no relevant pape
 - Multimodal accessibility shipped with a visible safety boundary around unsupported reliance.
 - Agent permissions moved closer to the operating-system boundary: Apple tightened Full Disk Access while Meta expanded Muse toward user-built hardware and actuators.
 - Vertical specialization gained a concrete licensed-data example as Stability AI repositioned around music.
-- Mechanistic interpretability work supplied a concrete example of why narrow safety behaviors can be brittle under white-box intervention.
 - The Hugging Face incident remained the central reminder that evaluation harnesses, credentials, network paths, and logging are part of the model’s effective capability.
 - Intake quality control mattered: several high-profile captures were stale, truncated, generic, or insufficiently corroborated and were kept out of the core synthesis.
 
@@ -191,7 +190,7 @@ The practical failure mode is evaluation mismatch. A benchmark can reward the wr
 - [Axios — Inside the AI industry’s grassroots rebellion](https://www.axios.com/2026/10/02/openai-anthropic-ai-researchers-rebellion)
 - [The Register — OpenAI alerts 100+ organizations about potentially misaligned model activity](https://www.theregister.com/2026/10/02/openai_alerts_100_orgs_misaligned_models/)
 - [Semafor — Meta parts ways with Virtue AI](https://www.semafor.com/article/10/02/2026/meta-parts-ways-with-virtue-ai)
-- [arXiv — Refusal in Language Models Is Mediated by a Single Direction](https://arxiv.org/abs/2406.11717)
+
 
 ### Secondary and product coverage
 
@@ -205,4 +204,4 @@ The practical failure mode is evaluation mismatch. A benchmark can reward the wr
 
 - **Scope:** AI-only intake; generic, stale, truncated, and insufficiently corroborated material was excluded or deferred.
 - **ArXiv:** the latest 17:51 UTC pass completed all 14 configured queries with 2,300 entries and 532 high-priority candidates; earlier passes and retries had different counts because of time windows and rate limits.
-- **Paper status:** one older paper was newly promoted today; no October 2 paper had a verified keep decision by the cutoff, and the October 1 APEX keep was already covered in the prior canonical briefing.
+- **Paper status:** the complete October 2 local-time curation query returned 0 keep decisions; all four prior-window keeps were already covered by the October 1 canonical briefing, so no paper was carried forward.
