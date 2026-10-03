@@ -175,6 +175,10 @@ The practical failure mode is evaluation mismatch. A benchmark can reward the wr
 10. Whether GPT-6 production guidance and Stability’s vertical pivot translate into measurable cost-per-successful-task improvements and durable enterprise operating practices.
 11. Whether frontier labs establish credible protected channels for safety researchers and independent incident review.
 
+## CTA
+
+For the next review pass, prioritize evidence that turns governed deployment into measurable practice: independent replication, permission telemetry, incident disclosure quality, and cost per successful task.
+
 ## Source links / references
 
 ### Primary and official sources
