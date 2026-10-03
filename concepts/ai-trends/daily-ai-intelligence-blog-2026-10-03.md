@@ -111,7 +111,7 @@ The direct sweep also found an October 3 Axios report on Sam Altman’s warning 
 
 ## Research-paper coverage
 
-**No paper promoted.** The latest scout run at 11:45 completed 14 configured queries but fetched 1,900 entries and had **one incomplete query**: `topic-open-source` was rate-limited with HTTP 429. An earlier 10:42 run completed all 14 queries with 2,100 entries, but the local page-level curation corpus contains no verified October 3 keep decision. This is therefore not a clean “no relevant papers found” result. It is **no paper promoted because curation found no verified keep; coverage is incomplete in the latest run**. The top candidate signals were agent security and tool use (KaliBench, PACE, The Innocent Courier), long-horizon agents and memory (Mimir, Beyond Memory), and system-level evaluation (Agents Are Systems, Not Models), but none is promoted without a completed keep decision and canonical paper summary.
+**No paper promoted.** The latest scout run at 17:37 completed all 14 configured queries and fetched 1,800 entries with no incomplete query. The earlier 10:42 run completed all 14 queries with 2,100 entries, but the local page-level curation corpus contains no verified October 3 keep decision. This is therefore **no paper promoted because curation found no verified keep**, not a clean “no relevant papers found” result. The top candidate signals were agent security and tool use (KaliBench, PACE, The Innocent Courier), long-horizon agents and memory (Mimir, Beyond Memory), and system-level evaluation (Agents Are Systems, Not Models), but none is promoted without a completed keep decision and canonical paper summary.
 
 ## What changed today
 
