@@ -15375,3 +15375,4 @@ tags: ['wiki']
 ## [2026-10-02 17:14] ingest | 2026-10-02_MetaopensourcescodetoletyoumakeMuseAIgadgets.md
 ## [2026-10-02 17:14] ingest | 2026-10-02_SeanParkerisrebuildingStabilityAIaroundmusic.md
 ## [2026-10-02 17:14] ingest | 2026-10-02_OpenAIfires3safetyresearchersaccusedofsharingconfi.md
+## [2026-10-02 20:21] ingest | 2026-10-02_MetawantsyournextgadgettobeMuse-infused.md

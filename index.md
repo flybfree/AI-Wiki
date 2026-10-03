@@ -3126,3 +3126,4 @@ tags: ['wiki']
 - [[2026-10-02_MetaopensourcescodetoletyoumakeMuseAIgadgets.md]] : Meta open sources code to let you make Muse AI gadgets
 - [[2026-10-02_SeanParkerisrebuildingStabilityAIaroundmusic.md]] : Sean Parker is rebuilding Stability AI around music
 - [[2026-10-02_OpenAIfires3safetyresearchersaccusedofsharingconfi.md]] : OpenAI fires 3 safety researchers accused of sharing confidential company information: report
+- [[2026-10-02_MetawantsyournextgadgettobeMuse-infused.md]] : Meta wants your next gadget to be Muse-infused
