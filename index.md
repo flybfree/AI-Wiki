@@ -3141,3 +3141,5 @@ tags: ['wiki']
 - [[2026-10-03_MetawantsyournextgadgettobeMuse-infused.md]] : Meta wants your next gadget to be Muse-infused
 - [[2026-10-03_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
 - [[2026-10-03_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-03_OpenAIsafetyemployeeresigns_claimingthecompany_s_c.md]] : OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+- [[2026-10-03_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
