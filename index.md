@@ -3143,3 +3143,4 @@ tags: ['wiki']
 - [[2026-10-03_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
 - [[2026-10-03_OpenAIsafetyemployeeresigns_claimingthecompany_s_c.md]] : OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
 - [[2026-10-03_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-03_InsideOpenAI_sAgentContainmentBreachesandtheGPT-6_.md]] : Inside OpenAI's Agent Containment Breaches and the GPT-6.1 Astra Delay | MindStudio
