@@ -15396,3 +15396,4 @@ tags: ['wiki']
 ## [2026-10-03 12:06] ingest | 2026-10-03_OpenAIsafetyemployeeresigns_claimingthecompany_s_c.md
 ## [2026-10-03 12:06] ingest | 2026-10-03_OpenAI_HuggingFaceincident-Wikipedia.md
 ## [2026-10-03 17:29] ingest | 2026-10-03_InsideOpenAI_sAgentContainmentBreachesandtheGPT-6_.md
+## [2026-10-03 19:05] ingest | 2026-10-03_Capcomispreparingfora_futurewherewecreategamestoge.md
