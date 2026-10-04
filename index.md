@@ -3145,3 +3145,17 @@ tags: ['wiki']
 - [[2026-10-03_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
 - [[2026-10-03_InsideOpenAI_sAgentContainmentBreachesandtheGPT-6_.md]] : Inside OpenAI's Agent Containment Breaches and the GPT-6.1 Astra Delay | MindStudio
 - [[2026-10-03_Capcomispreparingfora_futurewherewecreategamestoge.md]] : Capcom is preparing for a ‘future where we create games together with AI’
+- [[2026-10-04_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-04_Capcomispreparingfora_futurewherewecreategamestoge.md]] : Capcom is preparing for a ‘future where we create games together with AI’
+- [[2026-10-04_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-04_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-04_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
+- [[2026-10-04_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+- [[2026-10-04_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-04_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-04_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-04_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-04_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-04_OpenAIcutstieswith3safetyresearchers_WSJreports_Te.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch
+- [[2026-10-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
