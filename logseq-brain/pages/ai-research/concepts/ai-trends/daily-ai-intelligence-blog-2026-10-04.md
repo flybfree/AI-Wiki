@@ -143,4 +143,4 @@ For the wiki’s model and agent tracking, preserve prior versions and record th
 
 ## Research coverage status
 
-**Scout complete; no paper promoted.** The latest 2026-10-04 pass ran all 14 configured queries across 21 pages, saw 1,200 entries, and ranked 484 high-priority candidates. No paper was promoted because page-level curation did not produce a verified keep. This is not a claim that no relevant papers exist.
+**Scout complete; no paper promoted.** The latest 2026-10-04 pass ran all 14 configured queries across 18 pages, saw 1,050 entries, and ranked 357 high-priority candidates. No paper was promoted because page-level curation did not produce a verified keep. This is not a claim that no relevant papers exist.
