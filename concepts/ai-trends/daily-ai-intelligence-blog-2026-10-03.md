@@ -113,7 +113,7 @@ The direct sweep also found an October 3 Axios report on Sam Altman’s warning 
 
 ## Research-paper coverage
 
-**No paper promoted.** The latest scout run at 17:37 completed all 14 configured queries and fetched 1,800 entries with no incomplete query. The earlier 10:42 run completed all 14 queries with 2,100 entries, but the local page-level curation corpus contains no verified October 3 keep decision. This is therefore **no paper promoted because curation found no verified keep**, not a clean “no relevant papers found” result. The top candidate signals were agent security and tool use (KaliBench, PACE, The Innocent Courier), long-horizon agents and memory (Mimir, Beyond Memory), and system-level evaluation (Agents Are Systems, Not Models), but none is promoted without a completed keep decision and canonical paper summary.
+**No paper promoted.** The latest 23:52 scout run attempted all 14 configured queries but was incomplete: 9 queries were rate-limited and only 600 entries were fetched. Earlier passes reached broader coverage, including the 17:37 run with 1,800 entries, but the local page-level curation corpus contains no verified October 3 keep decision. This is therefore **no paper promoted because curation found no verified keep**, not a clean “no relevant papers found” result. The top candidate signals were agent security and tool use (KaliBench, PACE, The Innocent Courier), long-horizon agents and memory (Mimir, Beyond Memory), and system-level evaluation (Agents Are Systems, Not Models), but none is promoted without a completed keep decision and canonical paper summary.
 
 ## What changed today
 
@@ -126,7 +126,7 @@ The direct sweep also found an October 3 Axios report on Sam Altman’s warning 
 - Meta’s Muse expanded from personal-agent software into open hardware, smart-home connectivity, and physical action surfaces.
 - Claude Code Mods exposed a more programmable agent runtime, making plugin governance a first-class deployment concern.
 - Google’s current AI positioning reinforced bounded multimodal utility, accessibility, voice, science, and developer integration rather than one dominant new model event; the sweep also recovered September’s phased Gemini 4 Argon release as a current watch item.
-- The latest arXiv sweep completed all 14 queries and did not produce a verified paper promotion; candidate discovery and page-level curation remain separate states.
+- The latest arXiv sweep attempted all 14 queries but was incomplete because 9 queries were rate-limited; candidate discovery and page-level curation remain separate states, and no verified paper promotion exists.
 
 ## Why it matters
 
@@ -183,5 +183,5 @@ For the next review pass, prioritize evidence that converts governed deployment 
 - Duplicate Muse captures were merged.
 - Broad company/newsroom hubs were used only as context unless they established a dated event.
 - The SpaceXAI/Grok roundup was deferred because the local capture did not provide enough independent evidence for its release and persistent-agent claims.
-- The latest arXiv scout had one rate-limited query (`topic-open-source`, HTTP 429); no verified page-level keep decision was available, so no paper was promoted.
+- The latest arXiv scout was incomplete: 9 of 14 queries were rate-limited in the 23:52 pass, while earlier passes provided broader partial coverage; no verified page-level keep decision was available, so no paper was promoted.
 - The direct October 3 sweep added one lower-confidence governance signal on religious or anthropomorphic framing of AI; it was included as context, not as evidence of model consciousness.
