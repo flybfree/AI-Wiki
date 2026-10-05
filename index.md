@@ -3184,3 +3184,6 @@ tags: ['wiki']
 - [[2026-10-05_OpenAIDiscloses6NewSafetyIncidents.md]] : OpenAI Discloses 6 New Safety Incidents
 - [[2026-10-05_OurapproachtoEUtextprovenancerules.md]] : Our approach to EU text provenance rules
 - [[2026-10-05_OpenAIlaunchesvisualadsthatappearalongsideimagegen.md]] : OpenAI launches visual ads that appear alongside image generation results
+- [[2026-10-05_HotGirlHotlineislike_DearAbby_fortheAIera.md]] : Hot Girl Hotline is like ‘Dear Abby’ for the AI era
+- [[2026-10-05_TikTokrollsoutanAIshoppingassistantandone-clickche.md]] : TikTok rolls out an AI shopping assistant and one-click checkout
+- [[2026-10-05_OpenAIisaddingtextwatermarkinginChatGPTandCodex.md]] : OpenAI is adding text watermarking in ChatGPT and Codex

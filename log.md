@@ -15508,3 +15508,6 @@ tags: ['wiki']
 ## [2026-10-05 09:40] ingest | 2026-10-05_OpenAIDiscloses6NewSafetyIncidents.md
 ## [2026-10-05 10:40] ingest | 2026-10-05_OurapproachtoEUtextprovenancerules.md
 ## [2026-10-05 10:40] ingest | 2026-10-05_OpenAIlaunchesvisualadsthatappearalongsideimagegen.md
+## [2026-10-05 12:41] ingest | 2026-10-05_HotGirlHotlineislike_DearAbby_fortheAIera.md
+## [2026-10-05 13:36] ingest | 2026-10-05_TikTokrollsoutanAIshoppingassistantandone-clickche.md
+## [2026-10-05 13:36] ingest | 2026-10-05_OpenAIisaddingtextwatermarkinginChatGPTandCodex.md
