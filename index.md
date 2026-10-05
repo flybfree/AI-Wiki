@@ -3163,3 +3163,15 @@ tags: ['wiki']
 - [[2026-10-04_OpenAIDiscloses6NewSafetyIncidents.md]] : OpenAI Discloses 6 New Safety Incidents
 - [[2026-10-04_TrumpunveilshisnewSuperIntelligenceForce.md]] : Trump unveils his new Super Intelligence Force
 - [[2026-10-04_VivekMurthytoleadCommonSenseyouthAIsafetyinstitute.md]] : Vivek Murthy to lead Common Sense youth AI safety institute | ETIH EdTech News
+- [[2026-10-05_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-05_VivekMurthytoleadCommonSenseyouthAIsafetyinstitute.md]] : Vivek Murthy to lead Common Sense youth AI safety institute | ETIH EdTech News
+- [[2026-10-05_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-05_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-05_OpenAIcutstieswith3safetyresearchers_WSJreports_Te.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch
+- [[2026-10-05_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
+- [[2026-10-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-05_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+- [[2026-10-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-05_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-05_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-05_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
