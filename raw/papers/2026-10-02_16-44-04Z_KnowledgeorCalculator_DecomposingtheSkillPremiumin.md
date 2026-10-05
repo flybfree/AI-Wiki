@@ -1,0 +1,18 @@
+---
+title: Knowledge or Calculator? Decomposing the Skill Premium in Verifiable Financial Agent Workflows
+published: 2026-10-02T16:44:04Z
+authors: Jermyn Zhen Yong Bek, Zhuang Qiang Bok, Zhongtian Sun
+url: http://arxiv.org/abs/2610.03564v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Knowledge or Calculator? Decomposing the Skill Premium in Verifiable Financial Agent Workflows
+
+## Abstract
+Financial AI agents must do more than retrieve facts: investment workflows require correct quantitative execution, reliable use of procedural resources, and auditable structured outputs. We introduce FinSkillBench, an evaluation suite of 2,603 point in time episodes across 12 subtasks in portfolio construction, risk management, and fundamental analysis, with hidden regenerable ground truth and task specific deterministic verifiers. Executing 17,820 episodes across 9 models and 3 resource conditions, the paired analysis across 8 models shows that curated skill packages raise mean scores by +16.2 points (0.366 to 0.528), whereas skills generated within a single episode add only +0.5 points while consuming more tokens and turns. We then decompose the curated premium by granting human authored procedural documents and executable domain tools separately: documents alone add +5.6 points, tools alone add +19.5 points, and their combination is subadditive. The premium is strongly workflow dependent: executable tools dominate numerically intensive workflows, documentation matters more when procedural or output schema guidance is the bottleneck, and interpretive tasks benefit from both. The effects are sign stable across 10 scoring variants and cluster bootstrap analyses, and an independently implemented second harness reproduces the directional pattern while showing that effect magnitudes depend on how tools and data are exposed. Overall, a measured "skill premium" is a property of the full model, resource, and harness system rather than of the underlying model alone.
+
+## Metadata
+- **Published**: 2026-10-02T16:44:04Z
+- **Authors**: Jermyn Zhen Yong Bek, Zhuang Qiang Bok, Zhongtian Sun
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.03564v1)

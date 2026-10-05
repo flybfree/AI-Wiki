@@ -1,0 +1,18 @@
+---
+title: NegT2IBench: When Negation Changes the Picture. A Polarity Benchmark for Text-to-Image Models
+published: 2026-10-02T10:03:56Z
+authors: Omar Elfatairy, Maria A. Bravo, Jessica Bader, Zeynep Akata
+url: http://arxiv.org/abs/2610.03084v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# NegT2IBench: When Negation Changes the Picture. A Polarity Benchmark for Text-to-Image Models
+
+## Abstract
+Text-to-image (T2I) models are judged by benchmarks that measure whether requested content appears, but these benchmarks largely overlook the complementary ability to satisfy negated constraints, for example, generating "a non-red cup." Measuring negation raises challenges not faced by affirmation-based benchmarks and requires careful prompt and evaluation design. We introduce NegT2IBench, a benchmark of 4,800 prompts covering two attribute types and four relation categories. Prompts are organized by polarity: the number of positive statements that must hold and negated statements that must not, each ranging from 0 to 2. Varying the two independently separates the effect of negation from the effect of prompt complexity. Our detector-based scoring is reproducible, auditable, and pinpoints which requirement failed. On 600 images with three-annotator labels, it agrees with humans as closely as vision-language judges up to 30x larger, while using only a fraction of their GPU memory. Across eleven T2I models and 211,200 images, nine score lower on a single negated statement than on a single positive one. Per-statement scoring reveals that the loss is largest for color and near zero for proximity, and that 41.5% of failed statements render exactly what the prompt forbids. Rendering what a prompt asks for and withholding what it forbids are distinct capabilities that an aggregate compositional score cannot distinguish. NegT2IBench measures the latter directly, providing a controlled testbed for diagnosing negation failures and developing methods to overcome them.
+
+## Metadata
+- **Published**: 2026-10-02T10:03:56Z
+- **Authors**: Omar Elfatairy, Maria A. Bravo, Jessica Bader, Zeynep Akata
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.03084v1)

@@ -1,0 +1,18 @@
+---
+title: ReFract: Benchmarking Perspective Awareness in Language Model Agents with Text World Models
+published: 2026-10-02T14:21:26Z
+authors: Hainiu Xu, Vítor N. Lourenço, Mohnish Dubey, Yunfei Bai, Yulan He, Caroline Catmur, Aline Paes, Marco Caserta, Akash Chandrayan, Luca D'Angelo
+url: http://arxiv.org/abs/2610.03356v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ReFract: Benchmarking Perspective Awareness in Language Model Agents with Text World Models
+
+## Abstract
+Large Language Model (LLM) agents are increasingly deployed in high-stakes settings such as industrial maintenance and equipment fault troubleshooting, where workers occupy a variety of roles. A capable agent must therefore act in a way that is calibrated to user's role: taking actions and providing information that respect the role's knowledge and capability boundaries. Unlike coding, where mistakes are usually recoverable, agent responses in these settings are enacted on physical equipment, and can therefore cause irreversible equipment damage, production loss, or personnel harm. Existing benchmarks, however, largely overlook the need for agents to infer what a role intends and acting only through tools that role may legitimately use, a capability which we term Perspective Awareness. To this end, we introduce ReFract, a benchmark of 150 expert-validated entries in which an agent must act differently in response to the same query depending on user's role. Entries of ReFract are grounded in anonymized queries from domain support conversations, against which we construct Text World Models that simulate the agent's operating environments and assemble perspective-aware action trajectories. State-of-the-art LLMs solve at most 69% of the tasks with more than 50% of their trajectories contain attempts of taking perspective-violating actions. ReFract exposes perspective awareness as a distinct, largely unsolved axis of agent evaluation and motivates agents that calibrate not just how to act, but for whom.
+
+## Metadata
+- **Published**: 2026-10-02T14:21:26Z
+- **Authors**: Hainiu Xu, Vítor N. Lourenço, Mohnish Dubey, Yunfei Bai, Yulan He, Caroline Catmur, Aline Paes, Marco Caserta, Akash Chandrayan, Luca D'Angelo
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.03356v1)

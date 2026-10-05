@@ -3162,3 +3162,4 @@ tags: ['wiki']
 - [[2026-10-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[2026-10-04_OpenAIDiscloses6NewSafetyIncidents.md]] : OpenAI Discloses 6 New Safety Incidents
 - [[2026-10-04_TrumpunveilshisnewSuperIntelligenceForce.md]] : Trump unveils his new Super Intelligence Force
+- [[2026-10-04_VivekMurthytoleadCommonSenseyouthAIsafetyinstitute.md]] : Vivek Murthy to lead Common Sense youth AI safety institute | ETIH EdTech News

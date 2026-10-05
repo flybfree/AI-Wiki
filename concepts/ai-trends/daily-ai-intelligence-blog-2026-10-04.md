@@ -17,6 +17,7 @@ sources:
   - "https://blog.google/innovation-and-ai/technology/ai/"
   - "https://ai.meta.com/blog/"
   - "https://www.capcom.co.jp/ir/"
+  - "https://www.edtechinnovationhub.com/news/former-us-surgeon-general-vivek-murthy-to-lead-common-sense-medias-youth-ai-safety-push"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-10-04
 
@@ -96,6 +97,7 @@ This is a policy signal rather than a completed regulatory framework: the charte
 
 - **Include — Google AI hub:** Google’s broad [AI updates page](https://blog.google/innovation-and-ai/technology/ai/) remains useful context for accessibility, developer tooling, scientific applications, and multimodal utility, but it is a landing-page capture rather than a clean same-day launch. It is supporting evidence, not a lead event.
 - **Include — Capcom workflow integration:** Capcom’s [AI-assisted RE Engine direction](https://www.capcom.co.jp/ir/) is relevant as an applied-AI signal: use AI to improve development workflows while retaining human-created final assets. It is smaller than the safety and deployment themes but illustrates domain-specific adoption.
+- **Include — youth AI safety evaluation:** [Common Sense Media’s Youth AI Safety Institute coverage](https://www.edtechinnovationhub.com/news/former-us-surgeon-general-vivek-murthy-to-lead-common-sense-medias-youth-ai-safety-push) names former U.S. Surgeon General Vivek Murthy as chair and describes a public-health-style “crash-testing” model: shared standards, independent product evaluation, and published scorecards. The institute’s stated independence matters because OpenAI and Anthropic are among its funders while their products may be assessed; watch whether the governance model produces credible, reproducible child-safety evidence.
 - **Defer — SpaceXAI/Grok roundup:** the local capture is a broad, stale feed of claims about model versions, pricing, and persistent agents rather than a verified same-day announcement. It remains deferred until primary or corroborating sources are available.
 - **Defer — Meta landing-page snapshot:** the local Meta capture is structurally truncated. It is not strong enough to support a specific product or safety claim beyond continued investment in consumer AI and open-source research.
 - **Exclude:** generic business, hobby, and non-AI material was kept out of the synthesis.
@@ -140,7 +142,10 @@ For the wiki’s model and agent tracking, preserve prior versions and record th
 - [Google — AI updates](https://blog.google/innovation-and-ai/technology/ai/)
 - [Meta — AI blog](https://ai.meta.com/blog/)
 - [Capcom — investor/company updates](https://www.capcom.co.jp/ir/)
+- [Common Sense youth AI safety coverage — ETIH](https://www.edtechinnovationhub.com/news/former-us-surgeon-general-vivek-murthy-to-lead-common-sense-medias-youth-ai-safety-push)
 
-## Research coverage status
+## CTA
+
+For the next review pass, prioritize evidence that converts governed deployment into measurable practice: independent replication, permission telemetry, incident disclosure quality, child-safety evaluation, and cost per successful task.
 
 **Scout complete; no paper promoted.** The latest 2026-10-04 pass ran all 14 configured queries across 18 pages, saw 1,050 entries, and ranked 357 high-priority candidates. No paper was promoted because page-level curation did not produce a verified keep. This is not a claim that no relevant papers exist.
