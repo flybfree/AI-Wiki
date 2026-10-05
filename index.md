@@ -3178,3 +3178,4 @@ tags: ['wiki']
 - [[2026-10-05_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
 - [[2026-10-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[2026-10-05_BuildingadvertisingforthewaypeopleuseAI.md]] : Building advertising for the way people use AI
+- [[2026-10-05_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents

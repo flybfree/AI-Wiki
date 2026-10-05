@@ -15500,3 +15500,4 @@ tags: ['wiki']
 ## [2026-10-05 00:43] ingest | 2026-10-05_OfficialGoogleAInewsandupdates_GoogleBlog.md
 ## [2026-10-05 03:43] ingest | 2026-10-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md
 ## [2026-10-05 05:42] ingest | 2026-10-05_BuildingadvertisingforthewaypeopleuseAI.md
+## [2026-10-05 06:40] ingest | 2026-10-05_OpenAIdisclosessixnewAIsafetyincidents.md
