@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-05 12:03] summarize | refreshed the canonical October 5 AI-only briefing after the late intake and direct lab/news sweep; added OpenAI's six-incident disclosure protocol and EU text-provenance deployment signal; preserved the Hugging Face containment, advertising measurement, and no-paper-promoted findings; stale, generic, and unsupported captures excluded or deferred; Logseq mirror synchronized; GitHub commit and push required
+
 ## [2026-10-05 06:01] summarize | created the canonical October 5 AI-only briefing; synthesized OpenAI visual ChatGPT advertising and measurement, Hugging Face containment forensics, incident accountability, and the shift from model releases to control-plane changes; generic/stale/truncated captures excluded or deferred; latest arXiv scout completed all 14 queries across 22 pages with 1,300 entries and 491 high-priority candidates, but no paper was promoted after page-level curation; Logseq mirror synchronized; GitHub commit and push required
 
 ## [2026-10-05 00:04] publish | 2026-10-04 canonical final published; complete local-time curation query returned 0 keeps and 0 uncovered carry-forward papers; final briefing contains 0 canonical paper-summary links; wiki/Logseq briefing mirror byte-identical; GitHub commit 7dcb3d1f pushed and origin/master verified; Lumistorm post 218 created at https://lumistorm.net/daily-ai-intelligence-2026-10-04/; REST/readback, published status, Daily AI Briefing category, cache-busted live page, archive presence/order, source links, date, and raw-wiki-syntax checks passed
@@ -15501,3 +15503,8 @@ tags: ['wiki']
 ## [2026-10-05 03:43] ingest | 2026-10-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md
 ## [2026-10-05 05:42] ingest | 2026-10-05_BuildingadvertisingforthewaypeopleuseAI.md
 ## [2026-10-05 06:40] ingest | 2026-10-05_OpenAIdisclosessixnewAIsafetyincidents.md
+## [2026-10-05 09:05] ingest | 2026-10-05_Anopen-sourcetoolletsyoudelete12GBofAppleIntellige.md
+## [2026-10-05 09:40] ingest | 2026-10-05_Sen_AdamSchiffonAIregulation_freespeech_andimpeach.md
+## [2026-10-05 09:40] ingest | 2026-10-05_OpenAIDiscloses6NewSafetyIncidents.md
+## [2026-10-05 10:40] ingest | 2026-10-05_OurapproachtoEUtextprovenancerules.md
+## [2026-10-05 10:40] ingest | 2026-10-05_OpenAIlaunchesvisualadsthatappearalongsideimagegen.md

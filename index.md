@@ -3179,3 +3179,8 @@ tags: ['wiki']
 - [[2026-10-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[2026-10-05_BuildingadvertisingforthewaypeopleuseAI.md]] : Building advertising for the way people use AI
 - [[2026-10-05_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-05_Anopen-sourcetoolletsyoudelete12GBofAppleIntellige.md]] : An open-source tool lets you delete 12GB of Apple Intelligence data on macOS
+- [[2026-10-05_Sen_AdamSchiffonAIregulation_freespeech_andimpeach.md]] : Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time
+- [[2026-10-05_OpenAIDiscloses6NewSafetyIncidents.md]] : OpenAI Discloses 6 New Safety Incidents
+- [[2026-10-05_OurapproachtoEUtextprovenancerules.md]] : Our approach to EU text provenance rules
+- [[2026-10-05_OpenAIlaunchesvisualadsthatappearalongsideimagegen.md]] : OpenAI launches visual ads that appear alongside image generation results
