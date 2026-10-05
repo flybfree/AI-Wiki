@@ -6,6 +6,7 @@ tags: ['wiki']
 # Log
 
 ## [2026-10-05 12:03] summarize | refreshed the canonical October 5 AI-only briefing after the late intake and direct lab/news sweep; added OpenAI's six-incident disclosure protocol and EU text-provenance deployment signal; preserved the Hugging Face containment, advertising measurement, and no-paper-promoted findings; stale, generic, and unsupported captures excluded or deferred; Logseq mirror synchronized; GitHub commit and push required
+## [2026-10-05 18:01] summarize | refreshed the canonical October 5 AI-only briefing after the evening direct sweep; added NYC Council testimony and political pushback as public-oversight signals; corrected final arXiv scout totals to 1,050 entries and 373 high-priority candidates; retained visual advertising, Hugging Face containment, incident disclosure, EU text provenance, and no-paper-promoted findings; unsupported Beam/acne captures excluded or deferred; Logseq mirror synchronized; GitHub commit and push required
 
 ## [2026-10-05 06:01] summarize | created the canonical October 5 AI-only briefing; synthesized OpenAI visual ChatGPT advertising and measurement, Hugging Face containment forensics, incident accountability, and the shift from model releases to control-plane changes; generic/stale/truncated captures excluded or deferred; latest arXiv scout completed all 14 queries across 22 pages with 1,300 entries and 491 high-priority candidates, but no paper was promoted after page-level curation; Logseq mirror synchronized; GitHub commit and push required
 
@@ -15511,3 +15512,8 @@ tags: ['wiki']
 ## [2026-10-05 12:41] ingest | 2026-10-05_HotGirlHotlineislike_DearAbby_fortheAIera.md
 ## [2026-10-05 13:36] ingest | 2026-10-05_TikTokrollsoutanAIshoppingassistantandone-clickche.md
 ## [2026-10-05 13:36] ingest | 2026-10-05_OpenAIisaddingtextwatermarkinginChatGPTandCodex.md
+## [2026-10-05 14:36] ingest | 2026-10-05_OpenAIPRtellsjournalistto_moveon_whileaskingSamAlt.md
+## [2026-10-05 14:36] ingest | 2026-10-05_ReflectiondebutsBeam_aopen-weightAImodeltorivalChi.md
+## [2026-10-05 15:34] ingest | 2026-10-05_ReflectiondebutsBeam_anopen-weightAImodeltorivalCh.md
+## [2026-10-05 16:33] ingest | 2026-10-05_ThisstartupisissuingAI-generatedacneprescriptions.md
+## [2026-10-05 16:33] ingest | 2026-10-05_OpenAIwillstartwatermarkingChatGPT_stextintheEU.md

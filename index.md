@@ -121,7 +121,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
-- [Summary: Daily AI Intelligence Briefing — 2026-10-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-05.md) — canonical final; ChatGPT visual advertising and measurement, containment forensics, incident accountability, and no paper promoted
+- [Summary: Daily AI Intelligence Briefing — 2026-10-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-05.md) — canonical final; visual advertising and measurement, containment forensics, provenance, public oversight, and no paper promoted
 - [Summary: Daily AI Intelligence Briefing — 2026-10-04](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-04.md) — canonical final; implementation ecosystems, verifiable task expertise, production operations, containment disclosure, internal safety governance, staged open weights, and incomplete arXiv coverage
 - [Summary: Daily AI Intelligence Briefing — 2026-10-02](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-02.md) — canonical final; governed deployment, staged open weights, task-specific RL, enterprise adoption, control layers, bounded multimodal assistance, agent permissions, licensed vertical AI, containment, and 0 selected papers
 - [Summary: Daily AI Intelligence Briefing — 2026-10-03](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-03.md) — canonical final; enterprise implementation talent, staged open weights, task-specific RLVR, containment engineering, Muse hardware authority, bounded multimodal utility, and no promoted paper
@@ -3187,3 +3187,8 @@ tags: ['wiki']
 - [[2026-10-05_HotGirlHotlineislike_DearAbby_fortheAIera.md]] : Hot Girl Hotline is like ‘Dear Abby’ for the AI era
 - [[2026-10-05_TikTokrollsoutanAIshoppingassistantandone-clickche.md]] : TikTok rolls out an AI shopping assistant and one-click checkout
 - [[2026-10-05_OpenAIisaddingtextwatermarkinginChatGPTandCodex.md]] : OpenAI is adding text watermarking in ChatGPT and Codex
+- [[2026-10-05_OpenAIPRtellsjournalistto_moveon_whileaskingSamAlt.md]] : OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide
+- [[2026-10-05_ReflectiondebutsBeam_aopen-weightAImodeltorivalChi.md]] : Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost
+- [[2026-10-05_ReflectiondebutsBeam_anopen-weightAImodeltorivalCh.md]] : Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost
+- [[2026-10-05_ThisstartupisissuingAI-generatedacneprescriptions.md]] : This startup is issuing AI-generated acne prescriptions
+- [[2026-10-05_OpenAIwillstartwatermarkingChatGPT_stextintheEU.md]] : OpenAI will start watermarking ChatGPT’s text in the EU
