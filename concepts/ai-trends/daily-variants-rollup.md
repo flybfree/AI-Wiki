@@ -27,6 +27,8 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
+The latest canonical daily briefing is [2026-10-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md), covering containment engineering, staged open weights, verifiable task expertise, provenance deployment, enterprise implementation, and consumer-agent authority.
+
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
 | ScienceDaily | [[entities/article/2026-07-03_ArtificialIntelligenceNews--ScienceDaily_summary.md|2026-07-03 raw]] | [[entities/article/2026-07-03_ArtificialIntelligenceNews--ScienceDaily_summary.md|2026-07-03 summary]] | Broad science/AI roundup |
