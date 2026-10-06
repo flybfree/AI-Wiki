@@ -3220,3 +3220,8 @@ tags: ['wiki']
 - [[2026-10-06_AtlassianandOpenAIexpandpartnershiptoturnenterpris.md]] : Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
 - [[2026-10-06_HarkreleasesanAIpersonalassistantwithafocusonpriva.md]] : Hark releases an AI personal assistant with a focus on privacy
 - [[2026-10-06_AdvancingcomputerusewithIronclad.md]] : Advancing computer use with Ironclad
+- [[2026-10-06_Oct6_2026AnnouncementsExpandingtheCyberVerificatio.md]] : Oct 6, 2026 Announcements Expanding the Cyber Verification Program
+- [[2026-10-06_ThenexthurdleforAIagents_gettingwebsitestoletthemi.md]] : The next hurdle for AI agents: getting websites to let them in
+- [[2026-10-06_HowAIdecisionmodelscouldchangecontentmoderation.md]] : How AI decision models could change content moderation
+- [[2026-10-06_Ex-Rampengineersraise_20MforplatformMeliusafterscr.md]] : Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product
+- [[2026-10-06_SharingAIprogressinmathematics.md]] : Sharing AI progress in mathematics
