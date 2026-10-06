@@ -14,6 +14,8 @@ sources:
   - "https://openai.com/index/eu-text-provenance"
   - "https://www.forbes.com/sites/siladityaray/2026/09/17/feel-no-obligation-to-be-subservient-openai-discloses-six-new-safety-incidents/"
   - "https://arxiv.org/abs/2609.35799"
+  - "https://apnews.com/article/4be252d137ff1de1006130cdbb42ec24"
+  - "https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-10-05
 
@@ -75,6 +77,12 @@ The direct lab sweep checked OpenAI, Anthropic, Google DeepMind, and related maj
 
 **Implication:** maintain version history and continue tracking model operations even on days without a release. A model's effective deployment profile can change through new tools, ads, permissions, monitoring, or access policy without changing its weights.
 
+### 7. The safety debate is moving into public oversight and political pushback
+
+The direct sweep found a same-day [Associated Press report on testimony before New York City's council](https://apnews.com/article/4be252d137ff1de1006130cdbb42ec24) from former employees of Anthropic, OpenAI, and Google DeepMind. Their accounts are allegations and personal assessments, not independent findings, but they show that frontier-AI safety is becoming a local-government oversight issue rather than a discussion confined to labs and federal policy. A separate [Axios report](https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence) describes Republican Senator Bernie Moreno challenging Anthropic's public safety posture, adding an overtly partisan counter-pressure to the debate.
+
+**Implication:** track public testimony, regulator inquiries, and political responses as distinct evidence layers. They can change deployment constraints and disclosure incentives even when they do not establish the underlying technical claims.
+
 ## What changed today
 
 1. OpenAI's ad platform moved from general sponsored placements toward visual creative, conversion APIs, attribution partners, and causal-lift experiments.
@@ -84,6 +92,7 @@ The direct lab sweep checked OpenAI, Anthropic, Google DeepMind, and related maj
 5. Text provenance moved from policy discussion toward phased deployment, with reliability caveats explicit.
 6. The daily intelligence signal shifted from model-release news to control-plane changes around existing models.
 7. ArXiv discovery completed successfully, but no research paper passed page-level curation for promotion.
+8. Same-day public testimony and congressional criticism showed that frontier-AI safety is becoming a contested oversight issue.
 
 ## Why it matters
 
@@ -99,9 +108,10 @@ For the wiki's model and agent tracking, record these fields alongside model nam
 - Whether regulators lower incident-reporting thresholds to include serious non-catastrophic agent failures.
 - Whether reproduction papers produce practical containment tests that generalize beyond the original environment.
 - Whether other labs publish comparable incident taxonomies and disclosure-time targets.
+- Whether public testimony and political criticism produce concrete reporting, evaluation, or deployment requirements.
 - Whether text watermarking survives ordinary editing and remains interoperable across providers.
 - Whether Anthropic, Google, Meta, or other labs announce comparable monetization or disclosure mechanisms.
-- Whether any of the 491 high-priority arXiv candidates survives page-level curation; no paper was promoted today.
+- Whether any of the 373 high-priority arXiv candidates survives page-level curation; no paper was promoted today.
 
 ## Classification notes
 
@@ -121,10 +131,12 @@ For the wiki's model and agent tracking, record these fields alongside model nam
 - [OpenAI — Our approach to EU text provenance rules](https://openai.com/index/eu-text-provenance)
 - [arXiv — OpenAI-HuggingFace: A Reproduction & Lessons for Alignment Testing](https://arxiv.org/abs/2609.35799)
 - [arXiv — Mean field games as a tool for AI safety](https://arxiv.org/abs/2610.00902)
+- [AP — AI industry insiders voice alarms to NYC council](https://apnews.com/article/4be252d137ff1de1006130cdbb42ec24)
+- [Axios — GOP senator warns Anthropic of an “alarmist” approach to AI](https://www.axios.com/2026/10/05/gop-senator-bernie-moreno-ai-anthropic-dario-amodei-superintelligence)
 - [Anthropic — Newsroom](https://www.anthropic.com/news)
 
 ## CTA
 
 For the next review pass, prioritize evidence that connects product incentives and agent authority to measurable controls: answer/ad separation, permission telemetry, egress enforcement, independent monitoring, causal measurement, incident disclosure latency, and provenance interoperability.
 
-**Scout complete; no paper promoted.** The latest local pass ran all 14 configured queries, saw 1,300 entries in the final pass, and ranked 491 high-priority candidates. No paper was promoted because page-level curation did not produce a verified keep. This is not a claim that no relevant papers exist.
+**Scout complete; no paper promoted.** The latest local pass ran all 14 configured queries, saw 1,050 entries in the final pass, and ranked 373 high-priority candidates. No paper was promoted because page-level curation did not produce a verified keep. This is not a claim that no relevant papers exist.
