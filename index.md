@@ -3194,3 +3194,18 @@ tags: ['wiki']
 - [[2026-10-05_OpenAIwillstartwatermarkingChatGPT_stextintheEU.md]] : OpenAI will start watermarking ChatGPT’s text in the EU
 - [[2026-10-05_GeminiCallforMemighttellyourmomyou__8217_rerunning.md]] : Gemini Call for Me might tell your mom you&#8217;re running late
 - [[2026-10-05_BristolMyersSquibbaccelerateslife-changingscientif.md]] : Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI
+- [[2026-10-06_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-06_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-06_BristolMyersSquibbaccelerateslife-changingscientif.md]] : Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI
+- [[2026-10-06_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-10-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-06_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-06_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+- [[2026-10-06_OpenAIcutstieswith3safetyresearchers_WSJreports_Te.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch
+- [[2026-10-06_OpenAIwillstartwatermarkingChatGPT_stextintheEU.md]] : OpenAI will start watermarking ChatGPT’s text in the EU
+- [[2026-10-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-06_OurapproachtoEUtextprovenancerules.md]] : Our approach to EU text provenance rules
+- [[2026-10-06_GeminiCallforMemighttellyourmomyou__8217_rerunning.md]] : Gemini Call for Me might tell your mom you&#8217;re running late
+- [[2026-10-06_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-06_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-06_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
