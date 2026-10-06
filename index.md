@@ -3212,3 +3212,9 @@ tags: ['wiki']
 - [[2026-10-06_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
 - [[2026-10-06_AmazonAlexaPluskeepscreepilysinging_lalala_forminu.md]] : Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end
 - [[2026-10-06_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-06_Pinterest_sAInowturnsbeautyPinsintoactionplans.md]] : Pinterest’s AI now turns beauty Pins into action plans
+- [[2026-10-06_GoogleisabouttoremovefreeaccesstoGeminiFlashandPro.md]] : Google is about to remove free access to Gemini Flash and Pro
+- [[2026-10-06_Mistral_snew1Tmodelaimstoleapfrogclosedandopenriva.md]] : Mistral’s new 1T model aims to leapfrog closed and open rivals
+- [[2026-10-06_UnlockingEarthAI_splanetarygeospatialfoundationmod.md]] : Unlocking Earth AI’s planetary geospatial foundation models for global public health
+- [[2026-10-06_LibreOfficesays_noAI_isnowasoftwarefeature.md]] : LibreOffice says ‘no AI’ is now a software feature
+- [[2026-10-06_AtlassianandOpenAIexpandpartnershiptoturnenterpris.md]] : Atlassian and OpenAI expand partnership to turn enterprise knowledge into action

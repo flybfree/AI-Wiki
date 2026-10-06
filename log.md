@@ -5,6 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-06 12:00] summarize | refreshed the canonical October 6 AI-only briefing after late intake and direct primary-source sweep; added Mistral Large 4 staged open weights, Google Earth AI public-health foundation model, Google Gemini access-tier changes, LibreOffice's local-first no-default-AI position, OpenAI's six-report misalignment framework, and the Atlassian/OpenAI enterprise knowledge-graph partnership; weak, stale, generic, failed, and unsupported captures excluded or deferred; latest arXiv scout completed all 14 queries across 30 pages with 2,050 entries and 0 incomplete queries, but no paper passed page-level curation; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-10-06 06:01] summarize | created the canonical October 6 AI-only briefing from the complete local intake plus direct lab/news sweep; synthesized containment engineering, staged open weights, verifiable task expertise, EU text provenance, enterprise implementation, and consumer-agent authority; weak, stale, generic, failed, and unsupported captures excluded or deferred; arXiv scout completed all 14 queries across 31 pages with 2,150 entries and 0 incomplete queries, but no paper passed page-level curation; Logseq mirror synchronized; GitHub commit and push required
 
 ## [2026-10-06 00:02] finalize | 2026-10-05 canonical final verified against the complete AI-only intake and direct lab/news sweep; target-date curation returned 0 keeps and 0 uncovered carry-forward papers; final briefing contains 0 canonical paper-summary links; Logseq mirror resynchronized for byte identity; GitHub commit/push and Lumistorm post 219 publication/readback/live-page verification follow
@@ -15705,3 +15706,9 @@ tags: ['wiki']
 ## [2026-10-06 02:08] stage-paper | 2026-10-05_09-25-08Z_DifferentiableBit_Widths_Co_optimizingPruningandQu.md
 ## [2026-10-06 07:10] ingest | 2026-10-06_AmazonAlexaPluskeepscreepilysinging_lalala_forminu.md
 ## [2026-10-06 07:10] ingest | 2026-10-06_OpenAIdisclosessixnewAIsafetyincidents.md
+## [2026-10-06 09:04] ingest | 2026-10-06_Pinterest_sAInowturnsbeautyPinsintoactionplans.md
+## [2026-10-06 09:04] ingest | 2026-10-06_GoogleisabouttoremovefreeaccesstoGeminiFlashandPro.md
+## [2026-10-06 10:09] ingest | 2026-10-06_Mistral_snew1Tmodelaimstoleapfrogclosedandopenriva.md
+## [2026-10-06 10:09] ingest | 2026-10-06_UnlockingEarthAI_splanetarygeospatialfoundationmod.md
+## [2026-10-06 10:58] ingest | 2026-10-06_LibreOfficesays_noAI_isnowasoftwarefeature.md
+## [2026-10-06 12:03] ingest | 2026-10-06_AtlassianandOpenAIexpandpartnershiptoturnenterpris.md
