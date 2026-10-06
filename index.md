@@ -3210,3 +3210,5 @@ tags: ['wiki']
 - [[2026-10-06_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
 - [[2026-10-06_AIatMetaBlog.md]] : AI at Meta Blog
 - [[2026-10-06_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-06_AmazonAlexaPluskeepscreepilysinging_lalala_forminu.md]] : Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end
+- [[2026-10-06_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents

@@ -15703,3 +15703,5 @@ tags: ['wiki']
 ## [2026-10-06 01:17] ingest | 2026-10-06_OpenAI_HuggingFaceincident-Wikipedia.md
 ## [2026-10-06 02:08] stage-paper | 2026-10-05_11-55-01Z_AnosognosiainLLMs_ProbingSelf_AwarenessofQuantized.md
 ## [2026-10-06 02:08] stage-paper | 2026-10-05_09-25-08Z_DifferentiableBit_Widths_Co_optimizingPruningandQu.md
+## [2026-10-06 07:10] ingest | 2026-10-06_AmazonAlexaPluskeepscreepilysinging_lalala_forminu.md
+## [2026-10-06 07:10] ingest | 2026-10-06_OpenAIdisclosessixnewAIsafetyincidents.md
