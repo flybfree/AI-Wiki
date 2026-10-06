@@ -15712,3 +15712,5 @@ tags: ['wiki']
 ## [2026-10-06 10:09] ingest | 2026-10-06_UnlockingEarthAI_splanetarygeospatialfoundationmod.md
 ## [2026-10-06 10:58] ingest | 2026-10-06_LibreOfficesays_noAI_isnowasoftwarefeature.md
 ## [2026-10-06 12:03] ingest | 2026-10-06_AtlassianandOpenAIexpandpartnershiptoturnenterpris.md
+## [2026-10-06 13:57] ingest | 2026-10-06_HarkreleasesanAIpersonalassistantwithafocusonpriva.md
+## [2026-10-06 13:57] ingest | 2026-10-06_AdvancingcomputerusewithIronclad.md

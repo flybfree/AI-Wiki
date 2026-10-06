@@ -3218,3 +3218,5 @@ tags: ['wiki']
 - [[2026-10-06_UnlockingEarthAI_splanetarygeospatialfoundationmod.md]] : Unlocking Earth AI’s planetary geospatial foundation models for global public health
 - [[2026-10-06_LibreOfficesays_noAI_isnowasoftwarefeature.md]] : LibreOffice says ‘no AI’ is now a software feature
 - [[2026-10-06_AtlassianandOpenAIexpandpartnershiptoturnenterpris.md]] : Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
+- [[2026-10-06_HarkreleasesanAIpersonalassistantwithafocusonpriva.md]] : Hark releases an AI personal assistant with a focus on privacy
+- [[2026-10-06_AdvancingcomputerusewithIronclad.md]] : Advancing computer use with Ironclad
