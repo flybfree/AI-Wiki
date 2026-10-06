@@ -1,0 +1,18 @@
+---
+title: Characterizing Parallelism Strategies in LLM Inference: Fundamental Compute-Communication Trade-offs
+published: 2026-10-04T15:28:50Z
+authors: Javad Mirzaei, Jeebak Mitra
+url: http://arxiv.org/abs/2610.05305v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Characterizing Parallelism Strategies in LLM Inference: Fundamental Compute-Communication Trade-offs
+
+## Abstract
+Large Language Model (LLM) inference has become the dominant workload in modern AI systems, requiring serving infrastructures to maximize throughput while meeting strict latency Service-Level Objectives (SLOs). Since state-of-the-art LLMs exceed the compute and memory capacity of a single GPU, inference is commonly distributed across multiple GPUs using tensor parallelism (TP), pipeline parallelism (PP), or hybrid parallelism (HB). However, selecting the most effective parallelism strategy remains challenging due to complex interactions among computation, communication, pipeline utilization, sequence length, batch size, and model architecture. Existing approaches largely rely on empirical evaluation and provide limited analytical insight into the trade-offs among these strategies, particularly across the distinct prefill and decoding phases of inference. In this paper, we present a unified analytical framework for modeling distributed LLM inference under TP, PP, and HB. The framework decomposes end-to-end latency into computation, inter-GPU communication, and pipeline bubble overhead, and derives analytical models that capture TP collective communication, PP point-to-point communication, and pipeline utilization as functions of hardware, model, and workload characteristics. The model further characterizes the differing execution behavior of prefill and decoding, explaining why PP-oriented configurations favor compute-intensive prefill while TP-oriented configurations reduce decoding latency by eliminating pipeline bubbles. Experiments with modern LLMs on multi-GPU platforms validate the model and confirm the fundamental compute-communication trade-off across parallelism strategies. The framework provides practical guidance for parallelism selection, capacity planning, and optimization of future LLM serving systems.
+
+## Metadata
+- **Published**: 2026-10-04T15:28:50Z
+- **Authors**: Javad Mirzaei, Jeebak Mitra
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.05305v1)

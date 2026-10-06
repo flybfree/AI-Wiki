@@ -1,0 +1,18 @@
+---
+title: Agent Reliability Profiles in Financial Services
+published: 2026-10-02T22:53:37Z
+authors: Mike Hsu, Medha Bankhwal, Béatrice Moissinac, Kevin Werbach, Lukasz Szpruch, Bennett Hillenbrand
+url: http://arxiv.org/abs/2610.04123v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Agent Reliability Profiles in Financial Services
+
+## Abstract
+AI agents can take actions. At times, those actions can go beyond what is intended. Agent reliability can be defined as assurance that an agent will stay within intended bounds and operate within limits. Today, there is no shared framework or language for describing, validating, and benchmarking the reliability of agentic deployments in financial services. This makes it difficult for financial institutions, vendors, and regulators to assess and trust agents at scale, thus limiting the pace of development and adoption. A standardized, shared representation of agent reliability would fill the gap. This paper introduces the Agent Reliability Profile, a per-agent unit of assurance evidence for agent deployments in financial services. Each Profile records a bounded, falsifiable claim, this agentic system reliably functions within its operating boundary. We define "operating boundary" as an agent having; (1) a defined autonomy tier, (2) a defined operational design domain, (3) defined classes of action, and (4) a defined control envelope. Production assurance progresses through three levels while the Profile schema remains constant: a Profile Builder compiles a Level 1 Asserted Profile from institutional evidence, a Profile Validator tests the deployment in its own environment to produce a Level 2 Validated Profile, and operation of the same tests by a qualified independent assessor produces a Level 3 Verified Profile. Separately a Benchmarked Profile reports results comparable across institutions under reference conditions. We describe the architecture, the artifact, the assurance ladder, the comparability flag, associated tools, an evaluation methodology, applications for financial institutions and supervisors, limitations, and a staged implementation program.
+
+## Metadata
+- **Published**: 2026-10-02T22:53:37Z
+- **Authors**: Mike Hsu, Medha Bankhwal, Béatrice Moissinac, Kevin Werbach, Lukasz Szpruch, Bennett Hillenbrand
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.04123v1)

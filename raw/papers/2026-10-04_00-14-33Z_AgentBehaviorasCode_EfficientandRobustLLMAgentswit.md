@@ -1,0 +1,18 @@
+---
+title: Agent Behavior as Code: Efficient and Robust LLM Agents with Programmatic Specifications
+published: 2026-10-04T00:14:33Z
+authors: Peng Qi, Chunliang Lyu, Gang Li, Fabian Chan, Cheng Chang, Ignacio Cases, Will Lu
+url: http://arxiv.org/abs/2610.04824v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Agent Behavior as Code: Efficient and Robust LLM Agents with Programmatic Specifications
+
+## Abstract
+AI agents based on foundation models (FMs) have demonstrated strong capabilities to perform complex open-ended tasks. However, they face some common challenges in practice: (a) agent behavior can deviate drastically even for semantically similar tasks, leading to catastrophically propagated errors; (b) high cost and latency due to FM calls, repeated in full whenever a task recurs with different inputs; (c) FMs' limited context and instruction following capability confine how well agents manage the ever-growing execution context and follow complex plans. We introduce $\textbf{A}$gent $\textbf{B}$ehavior as $\textbf{C}$ode $\textbf{Agent}$ (ABCAgent), which uses a symbolic program (e.g., Python code with potential neural functions) to fully specify the agent's behavior at runtime, with a powerful FM agent editing that program for flexibility. Behavior is thus specified without premature variable binding, and its execution is deterministic. We evaluate ABCAgent on six agent benchmarks, two of which we construct to test how well a derived program generalizes to variants of the task it was written for. ABCAgent matches a model-matched neural agent on GAIA and augmented GAIA, and surpasses it where robustness and long control flows matter: 98.3% against 97.3% on GSM-Symbolic ($p = 0.001$), 71.9% against 47.4% $\mathrm{Pass}^4$ on the telecom domain of $τ^2$-bench ($p = 0.0001$), and more records written correctly at every loop length on our control-flow-augmented WorkArena benchmark. For more parametric task families, ABCAgent is also significantly superior in efficiency. Without authoring a new program, ABCAgent solves 92.6% of GSM-Symbolic instances and 20.1% of augmented GAIA variants, which yields $5.2\times$ lower latency and $7.0\times$ lower cost on GSM-Symbolic, 19% lower cost on augmented GAIA, and $9.5\times$ lower agent latency on $τ^2$-telecom.
+
+## Metadata
+- **Published**: 2026-10-04T00:14:33Z
+- **Authors**: Peng Qi, Chunliang Lyu, Gang Li, Fabian Chan, Cheng Chang, Ignacio Cases, Will Lu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.04824v1)

@@ -3193,3 +3193,4 @@ tags: ['wiki']
 - [[2026-10-05_ThisstartupisissuingAI-generatedacneprescriptions.md]] : This startup is issuing AI-generated acne prescriptions
 - [[2026-10-05_OpenAIwillstartwatermarkingChatGPT_stextintheEU.md]] : OpenAI will start watermarking ChatGPT’s text in the EU
 - [[2026-10-05_GeminiCallforMemighttellyourmomyou__8217_rerunning.md]] : Gemini Call for Me might tell your mom you&#8217;re running late
+- [[2026-10-05_BristolMyersSquibbaccelerateslife-changingscientif.md]] : Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI
