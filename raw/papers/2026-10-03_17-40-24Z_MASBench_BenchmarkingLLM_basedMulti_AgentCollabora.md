@@ -1,0 +1,18 @@
+---
+title: MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability
+published: 2026-10-03T17:40:24Z
+authors: Qizhi Chu, Zekai Yu, Sijie Wen, Yang Liu, Chen Qian, Cheng Yang, Chuan Shi, Zhiyuan Liu
+url: http://arxiv.org/abs/2610.04672v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# MASBench: Benchmarking LLM-based Multi-Agent Collaboration under Partial Observability
+
+## Abstract
+Large language models (LLMs) have progressively evolved into the core of autonomous agents. Building on this progress, LLM-based multi-agent systems (MAS) coordinate multiple agents into a synergistic team to accomplish complex tasks that exceed the capabilities of individual agents. The effectiveness of such systems depends not only on the agents themselves, but also on how collaboration mechanisms are designed and organized. Note that real-world collaboration is typically partially observable, where each agent can only access partial information about the environment due to physical or privacy-related constraints. However, many existing multi-agent benchmarks assume global observability, and leave limited support for systematically evaluating collaboration mechanisms. To bridge this gap, we introduce MASBench, a multi-agent collaboration benchmark designed under partially observable constraints. It is organized into three progressive task categories: Reasoning, Scheduling, and Game. Through this structure, we progressively evaluate three representative collaboration mechanisms: Protocol, Memory, and Routing. MASBench further provides deterministic evaluation metrics, including performance score, communication cost, and cost effectiveness, to characterize both collaboration outcomes and communication overhead. Experiments across diverse LLM backbones and mechanism configurations offer empirical guidance for effective MAS design. Code is available at: https://github.com/BUPT-GAMMA/MASBench
+
+## Metadata
+- **Published**: 2026-10-03T17:40:24Z
+- **Authors**: Qizhi Chu, Zekai Yu, Sijie Wen, Yang Liu, Chen Qian, Cheng Yang, Chuan Shi, Zhiyuan Liu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.04672v1)

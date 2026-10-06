@@ -1,0 +1,18 @@
+---
+title: EvalResearchBench: Can AI Agents Design Their Own Evaluations?
+published: 2026-10-03T00:49:27Z
+authors: Yaolun Zhang, Tianyi Xu, Yujie Zhao, Jishen Zhao, Qingyun Wu, Huazheng Wang
+url: http://arxiv.org/abs/2610.04184v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# EvalResearchBench: Can AI Agents Design Their Own Evaluations?
+
+## Abstract
+Recursive self-improvement (RSI) relies on evaluation feedback to assess progress and guide further research, yet repeatedly running complex benchmarks is costly and slows iteration. Human experts reduce this cost by selecting benchmark subsets or designing compact suites. We ask whether AI agents can automate this design process and introduce EvalResearchBench (ERB), a benchmark for autonomous evaluation research. Given target materials, development references, candidate APIs, and fixed time and API budgets, an agent called the researcher selects or synthesizes tasks, implements graders, and revises them in pilot tests before freezing an executable evaluator for coding, co-work, and reasoning. We study 9 researchers and 13 candidate models and compare each frozen evaluator with 14 target benchmarks on score concordance and pairwise agreement. The best evaluators order about 75\% of candidate pairs as the targets do, below the 91\% ceiling set by disagreements among the targets. No researcher leads on every metric, and the best evaluator on development targets is not the best on sealed targets hidden from the researcher. A human-designed sample of public tasks remains a strong baseline, and the evaluator with the lowest recorded execution cost attains the highest pairwise agreement. Agents repair tasks and graders through pilot feedback, yet their evaluators can still truncate answers, exhaust the evaluation budget, or let a few questions dominate a domain score.
+
+## Metadata
+- **Published**: 2026-10-03T00:49:27Z
+- **Authors**: Yaolun Zhang, Tianyi Xu, Yujie Zhao, Jishen Zhao, Qingyun Wu, Huazheng Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.04184v1)
