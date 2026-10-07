@@ -138,14 +138,22 @@ def _db() -> sqlite3.Connection:
             updated_at TEXT NOT NULL,
             title TEXT NOT NULL DEFAULT '',
             source TEXT NOT NULL DEFAULT '',
-            preview TEXT NOT NULL DEFAULT ''
+            preview TEXT NOT NULL DEFAULT '',
+            decision_source TEXT NOT NULL DEFAULT 'manual'
         )
         """
     )
     columns = {row[1] for row in db.execute("PRAGMA table_info(decisions)")}
-    for name in ("title", "source", "preview"):
+    for name in ("title", "source", "preview", "decision_source"):
         if name not in columns:
-            db.execute(f"ALTER TABLE decisions ADD COLUMN {name} TEXT NOT NULL DEFAULT ''")
+            default = "'manual'" if name == "decision_source" else "''"
+            db.execute(f"ALTER TABLE decisions ADD COLUMN {name} TEXT NOT NULL DEFAULT {default}")
+    # Older automatic keeps were identified only by their audit note. Preserve
+    # that history as automatic rather than allowing it into the manual model.
+    db.execute(
+        "UPDATE decisions SET decision_source = 'automatic' "
+        "WHERE note LIKE 'automatic keep:%' AND decision_source != 'automatic'"
+    )
     db.commit()
     return db
 
@@ -323,7 +331,10 @@ def _profile(db: sqlite3.Connection) -> dict[str, Any]:
     # keep/reject signal.
     grouped: dict[str, tuple[str, str, str]] = {}
     rank = {"keep": 0, "reject": 1, "skip": 2}
-    for row in db.execute("SELECT path, decision, features, updated_at FROM decisions"):
+    for row in db.execute(
+        "SELECT path, decision, features, updated_at, decision_source "
+        "FROM decisions WHERE decision_source != 'automatic'"
+    ):
         if row["decision"] == "skip":
             continue
         key = _identity(row["path"])
@@ -354,6 +365,32 @@ def _profile(db: sqlite3.Connection) -> dict[str, Any]:
         "positive": positive,
         "negative": negative,
     }
+
+
+def decision_stats(db: sqlite3.Connection) -> dict[str, int]:
+    """Return manual and automatic decision counts separately."""
+    rows = db.execute(
+        "SELECT decision_source, decision, COUNT(*) AS n "
+        "FROM decisions GROUP BY decision_source, decision"
+    )
+    stats = {
+        "manual_reviewed": 0,
+        "manual_kept": 0,
+        "manual_rejected": 0,
+        "automatic_kept": 0,
+    }
+    for row in rows:
+        source = row["decision_source"]
+        count = int(row["n"])
+        if source == "automatic" and row["decision"] == "keep":
+            stats["automatic_kept"] += count
+        elif source != "automatic":
+            stats["manual_reviewed"] += count
+            if row["decision"] == "keep":
+                stats["manual_kept"] += count
+            elif row["decision"] == "reject":
+                stats["manual_rejected"] += count
+    return stats
 
 
 def _feature_signal(feature: str, positive: Counter, negative: Counter, kept: int, rejected: int) -> float:
@@ -452,6 +489,7 @@ def auto_keep_summary(path: str) -> dict[str, Any] | None:
         path,
         "keep",
         f"automatic keep: score {score:.3f} >= threshold {config['score_threshold']:.3f}",
+        source="automatic",
     )
     result.update({"score": score, "auto_kept": True, "interest": evidence})
     return result
@@ -535,9 +573,16 @@ def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -
     return result[max(0, offset) : max(0, offset) + max(1, min(limit, 200))]
 
 
-def record_decision(path: str, decision: str, note: str = "") -> dict[str, Any]:
+def record_decision(
+    path: str,
+    decision: str,
+    note: str = "",
+    source: str = "manual",
+) -> dict[str, Any]:
     if decision not in {"keep", "reject", "skip"}:
         raise ValueError("decision must be keep, reject, or skip")
+    if source not in {"manual", "automatic"}:
+        raise ValueError("source must be manual or automatic")
     target = (ROOT / path).resolve()
     if not target.is_file() or ROOT not in target.parents or not target.name.endswith("_summary.md"):
         raise ValueError("unknown summary path")
@@ -546,8 +591,8 @@ def record_decision(path: str, decision: str, note: str = "") -> dict[str, Any]:
     db = _db()
     db.execute(
         """
-        INSERT INTO decisions(path, decision, note, features, updated_at, title, source, preview)
-        VALUES (?, ?, ?, ?, ?, ?, ?, ?)
+        INSERT INTO decisions(path, decision, note, features, updated_at, title, source, preview, decision_source)
+ VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?)
         ON CONFLICT(path) DO UPDATE SET
             decision=excluded.decision,
             note=excluded.note,
@@ -556,10 +601,11 @@ def record_decision(path: str, decision: str, note: str = "") -> dict[str, Any]:
             title=excluded.title,
             source=excluded.source,
             preview=excluded.preview
+            ,decision_source=excluded.decision_source
         """ ,
         (
             item["path"], decision, note[:1000], json.dumps(item["features"]), now,
-            item["title"][:500], item["source"][:1000], item["preview"][:5000],
+            item["title"][:500], item["source"][:1000], item["preview"][:5000], source,
         ),
     )
     db.commit()
@@ -664,6 +710,7 @@ def delete_rejected(path: str, note: str = "") -> dict[str, Any]:
 def profile() -> dict[str, Any]:
     db = _db()
     value = _profile(db)
+    value.update(decision_stats(db))
     db.close()
     value.pop("positive", None)
     value.pop("negative", None)

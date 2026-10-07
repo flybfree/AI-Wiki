@@ -15719,3 +15719,7 @@ tags: ['wiki']
 ## [2026-10-06 16:05] ingest | 2026-10-06_HowAIdecisionmodelscouldchangecontentmoderation.md
 ## [2026-10-06 17:54] ingest | 2026-10-06_Ex-Rampengineersraise_20MforplatformMeliusafterscr.md
 ## [2026-10-06 17:54] ingest | 2026-10-06_SharingAIprogressinmathematics.md
+## [2026-10-06 18:54] ingest | 2026-10-06_OpenAIdropsanotherbatchofmathematicalbreakthroughs.md
+## [2026-10-06 18:54] ingest | 2026-10-06_HowJumpTradingisscalingquantresearchwithChatGPT.md
+## [2026-10-06 20:06] stage-paper | 2026-10-03_13-26-06Z_TowardsCredibleAgent_BasedPolicySimulations_Disent.md
+## [2026-10-06 20:06] stage-paper | 2026-10-05_17-57-51Z_CLIFT_ConformalSelf_VerificationforWebAgentTrainin.md

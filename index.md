@@ -3225,3 +3225,5 @@ tags: ['wiki']
 - [[2026-10-06_HowAIdecisionmodelscouldchangecontentmoderation.md]] : How AI decision models could change content moderation
 - [[2026-10-06_Ex-Rampengineersraise_20MforplatformMeliusafterscr.md]] : Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product
 - [[2026-10-06_SharingAIprogressinmathematics.md]] : Sharing AI progress in mathematics
+- [[2026-10-06_OpenAIdropsanotherbatchofmathematicalbreakthroughs.md]] : OpenAI drops another batch of mathematical breakthroughs
+- [[2026-10-06_HowJumpTradingisscalingquantresearchwithChatGPT.md]] : How Jump Trading is scaling quant research with ChatGPT
