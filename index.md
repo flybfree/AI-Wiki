@@ -96,6 +96,7 @@ tags: ['wiki']
 
 ## Concepts
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
+ - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md|Summary: Daily AI Intelligence Briefing — 2026-10-07]] — canonical final; cyber access tiers, containment disclosures, youth safety, staged open weights, verifiable task expertise, and scientific foundation models
 ### Knowledge Management & Wiki Ops
 - [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — GitHub wiki, local working copy, Logseq mirror, and PRISM user working copy
 - [[concepts/knowledge-management/wiki-usage-cheat-sheet.md|Wiki Usage Cheat Sheet]] — quick guide for page types and where each system fits
@@ -123,6 +124,7 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
 - [Summary: Daily AI Intelligence Briefing — 2026-10-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md) — canonical final; containment engineering, staged open weights, verifiable task expertise, provenance deployment, enterprise implementation, and no paper promoted
+- [Summary: Daily AI Intelligence Briefing — 2026-10-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md) — canonical final; cyber access tiers, containment disclosures, youth safety, staged open weights, verifiable task expertise, and scientific foundation models; no paper promoted pending curation
 - [Summary: Daily AI Intelligence Briefing — 2026-10-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-05.md) — canonical final; visual advertising and measurement, containment forensics, provenance, public oversight, and no paper promoted
 - [Summary: Daily AI Intelligence Briefing — 2026-10-04](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-04.md) — canonical final; implementation ecosystems, verifiable task expertise, production operations, containment disclosure, internal safety governance, staged open weights, and incomplete arXiv coverage
 - [Summary: Daily AI Intelligence Briefing — 2026-10-02](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-02.md) — canonical final; governed deployment, staged open weights, task-specific RL, enterprise adoption, control layers, bounded multimodal assistance, agent permissions, licensed vertical AI, containment, and 0 selected papers
@@ -3244,3 +3246,5 @@ tags: ['wiki']
 - [[2026-10-07_Oct6_2026AnnouncementsExpandingtheCyberVerificatio.md]] : Oct 6, 2026 Announcements Expanding the Cyber Verification Program
 - [[2026-10-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-07_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-07_ChatGPTforTeensisan_unacceptablerisk__saysCommonSe.md]] : ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media
+- [[2026-10-07_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
