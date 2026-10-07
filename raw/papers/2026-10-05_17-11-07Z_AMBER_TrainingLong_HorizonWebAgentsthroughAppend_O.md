@@ -1,0 +1,18 @@
+---
+title: AMBER: Training Long-Horizon Web Agents through Append-Only Memory
+published: 2026-10-05T17:11:07Z
+authors: Chinmay Savadikar, Zhaoyu Zhang, Mingyu Zhao, Shuang Xie, Han Li, Tianfu Wu, Lingyun Wang
+url: http://arxiv.org/abs/2610.07118v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# AMBER: Training Long-Horizon Web Agents through Append-Only Memory
+
+## Abstract
+Modern language-model agents increasingly interact with external environments over long-horizon, multi-step trajectories, where the accumulated interaction history can quickly exceed practical context budgets. To ensure reliability, agents must maintain factual information over long horizons, remember execution errors and corrective feedback, and track progress across actions. Several approaches have been proposed to achieve this without the need for maintaining the entire execution history in context, such as using the reasoning and action history, learning to maintain a fixed-size memory through an overwrite mechanism, and periodic summarization. Although overwrite memory can in principle retain anything an append-only memory can, it must learn to carry each fact through every subsequent rewrite, which is difficult to learn from sparse outcome rewards; for interactive applications like web agents, we find that trained overwrite memories delete key information required by the trajectory, as well as corrective feedback received from the environment. We introduce AMBER (Append-only Memory Bank for Evidence Retention) - a simple and scalable framework where an agent jointly learns to reason, act, and write free-form memory, while an append-only rule guarantees retention by construction. This allows AMBER to be trained end-to-end with reinforcement learning from outcome rewards without the need for extensive curated SFT data. On WebArena Lite, AMBER improves average success over overwrite-based memory by 4.09 percentage points, increases the fraction of tasks solved in five repeated runs by 4.8 percentage points, and matches an overwrite baseline trained on substantially more expensive curated supervision. AMBER achieves these improvements while maintaining a practical token budget, providing a strong balance between context efficiency, task performance, and reliable long-horizon execution.
+
+## Metadata
+- **Published**: 2026-10-05T17:11:07Z
+- **Authors**: Chinmay Savadikar, Zhaoyu Zhang, Mingyu Zhao, Shuang Xie, Han Li, Tianfu Wu, Lingyun Wang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.07118v1)

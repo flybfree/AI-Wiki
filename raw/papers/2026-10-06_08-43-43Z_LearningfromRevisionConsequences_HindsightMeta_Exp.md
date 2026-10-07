@@ -1,0 +1,18 @@
+---
+title: Learning from Revision Consequences: Hindsight Meta-Experience Distillation for Self-Improving Agents
+published: 2026-10-06T08:43:43Z
+authors: Qianhan Feng, Zhongzhen Huang, Yakun Zhu, Xiaofan Zhang, Qi Dou
+url: http://arxiv.org/abs/2610.07979v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Learning from Revision Consequences: Hindsight Meta-Experience Distillation for Self-Improving Agents
+
+## Abstract
+As agents continuously improve by generating and revising Skills, the process that discovers and refines those Skills becomes a learnable object in its own right. Task-Skills directly act on task execution, whereas Meta-Skills govern how agents discover and improve future Skills; their value therefore emerges through the subsequent search processes they induce. Existing approaches improve Meta-Skills from observed raw Skill-search trajectories and branch outcomes. However, branch performance entangles the effects of the initial discovery state and the Meta-Skill revision that generated the search process, making it difficult to characterize what a particular revision actually changed, and pushing updates toward revisions that benefit from favorable states rather than those that improve the process. We introduce HMED (Hindsight Meta-Experience Distillation), a mechanism for constructing Meta-Experience for self-improving agents. HMED revisits the completed event from which a revision originates and re-executes the incumbent and revised Meta-Skills from the same restored discovery state, so that the changes associated with the revision can be observed under a shared condition. Each comparison is distilled into a Meta-Experience, a structured record that can be reused by future updates, so that even revisions that are not ultimately retained still contribute a learning signal. Across three interactive agent benchmarks and both open-source and closed-source models, HMED consistently improves Skill discovery performance over strong baselines, shifting Meta-Skill learning beyond branch outcomes toward the consequences of changing the improvement process.
+
+## Metadata
+- **Published**: 2026-10-06T08:43:43Z
+- **Authors**: Qianhan Feng, Zhongzhen Huang, Yakun Zhu, Xiaofan Zhang, Qi Dou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.07979v1)

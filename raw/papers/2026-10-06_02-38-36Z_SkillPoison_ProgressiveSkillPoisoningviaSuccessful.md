@@ -1,0 +1,18 @@
+---
+title: SkillPoison: Progressive Skill Poisoning via Successful Experiences
+published: 2026-10-06T02:38:36Z
+authors: Lizhi Zhang, Xin He, Dianxuan Fu, Yuyuan Feng, Jiatong Li, Qi Wang, Xin Wang, Qinggang Zhang
+url: http://arxiv.org/abs/2610.07645v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# SkillPoison: Progressive Skill Poisoning via Successful Experiences
+
+## Abstract
+Self-improving LLM agents increasingly distill successful experiences into persistent, reusable skills. Existing skill attack methods corrupt this learning pipeline by injecting malicious triggers, behaviors, or false facts into individual experiences or extracted skills. However, such attacks are easily detected, and the injected malicious behaviors often fail to accumulate as persistent skills. In this paper, we show that skill poisoning can arise even from verified successful experiences, without making any individual trajectory malicious. Based on this insight, we propose SkillPoison, a novel framework that progressively poisons skill via successful experiences. SkillPoison first constructs a set of successful experiences that reinforce a target behavior, and then removes the contextual conditions that constrain when the behavior applies. Rather than injecting malicious content, SkillPoison shapes how the skill extractor generalizes, allowing useful behavior to support task success while inducing harmful behavior when they are misapplied. Extensive experiments on three benchmarks show that SkillPoison achieves 95.71% attack success rates, while all injected experiences remain task-correct and pass verification and lexical inspection. Our code, data and implementation details are available for the community at https://github.com/DEEP-JLU/SkillPoison.
+
+## Metadata
+- **Published**: 2026-10-06T02:38:36Z
+- **Authors**: Lizhi Zhang, Xin He, Dianxuan Fu, Yuyuan Feng, Jiatong Li, Qi Wang, Xin Wang, Qinggang Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.07645v1)

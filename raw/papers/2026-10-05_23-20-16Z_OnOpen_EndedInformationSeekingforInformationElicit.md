@@ -1,0 +1,18 @@
+---
+title: On Open-Ended Information Seeking for Information Elicitation Agents
+published: 2026-10-05T23:20:16Z
+authors: Victor De Lima, Grace Hui Yang
+url: http://arxiv.org/abs/2610.07509v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# On Open-Ended Information Seeking for Information Elicitation Agents
+
+## Abstract
+Information elicitation is an open-ended information-seeking problem in which an interaction can unfold in many potentially valuable directions, requiring an elicitor to continually determine which information to pursue as new information emerges. In agentic elicitation, these decisions may be delegated to a foundation model, yet how model choice shapes the resulting information-seeking behavior remains understudied. We study how judgments about information value vary across LLMs and how these differences shape sequential information seeking. We first examine these judgments across 11 LLMs spanning multiple model families and parameter scales, using a shared set of information and elicitation objectives. We then develop a controlled elicitation simulation in which different models encounter the same information space and use the same selection rule, isolating these judgments from question generation and respondent behavior. Using this setting, we characterize the breadth-depth behavior that emerges from model-specific information-seeking preferences over the course of elicitation. We further examine how interaction history changes the evaluation and subsequent selection of prospective information. We test the robustness and boundaries of these findings through sensitivity analyses and ablations over the opportunities available to the elicitor, the response labels used to operationalize information-seeking preferences, the presence of interaction history, and whether redundancy is explicitly relevant to the assessment. The project code, data, and trajectory files are available at https://github.com/infosenselab/open-elicitation.
+
+## Metadata
+- **Published**: 2026-10-05T23:20:16Z
+- **Authors**: Victor De Lima, Grace Hui Yang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.07509v1)

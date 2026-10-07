@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-10-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md), covering containment engineering, staged open weights, verifiable task expertise, provenance deployment, enterprise implementation, and consumer-agent authority.
+The latest canonical daily briefing is [2026-10-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md), covering containment engineering, staged open weights, verifiable task expertise, provenance deployment, enterprise implementation, consumer-agent authority, and one curated research paper on harness cost and benchmark variance.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|

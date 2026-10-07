@@ -3,6 +3,8 @@ Saved: 2026-10-05 22:15
 Source: 2026-10-03_10-47-10Z_WhatDoesaHarnessBuy_Tokens_Mostly.md
 Model: None
 
+Canonical original paper: [arXiv: What Does a Harness Buy? Tokens, Mostly](http://arxiv.org/abs/2610.04433v1)
+
 ---
 
 ## Summary

@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
 ### Knowledge Management & Wiki Ops
 - [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — GitHub wiki, local working copy, Logseq mirror, and PRISM user working copy
 - [[concepts/knowledge-management/wiki-usage-cheat-sheet.md|Wiki Usage Cheat Sheet]] — quick guide for page types and where each system fits
@@ -3227,3 +3228,4 @@ tags: ['wiki']
 - [[2026-10-06_SharingAIprogressinmathematics.md]] : Sharing AI progress in mathematics
 - [[2026-10-06_OpenAIdropsanotherbatchofmathematicalbreakthroughs.md]] : OpenAI drops another batch of mathematical breakthroughs
 - [[2026-10-06_HowJumpTradingisscalingquantresearchwithChatGPT.md]] : How Jump Trading is scaling quant research with ChatGPT
+- [[2026-10-06_HowJumpTradingisscalingquantresearchwithChatGPT-Op.md]] : How Jump Trading is scaling quant research with ChatGPT - OpenAI

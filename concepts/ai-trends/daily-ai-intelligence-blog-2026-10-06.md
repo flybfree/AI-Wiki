@@ -30,7 +30,13 @@ sources:
 
 October 6 reinforces a shift from model novelty toward deployment discipline, while also delivering one material frontier release. Mistral launched a public preview of Mistral Large 4, a 1-trillion-parameter multimodal mixture-of-experts model with 49 billion active parameters, and said weights will follow after red-teaming. Around it, the strongest signals concern the controls and capabilities surrounding models: OpenAI is moving EU text provenance from policy into phased product deployment; Anthropic's published incident work shows that cyber-evaluation environments can reach real organizations when isolation fails; Thinking Machines frames open weights as a staged, ecosystem-level safety problem; and its text-to-SQL results argue that verifiable task expertise can be trained into a model rather than reconstructed through increasingly elaborate scaffolding. Anthropic's $100 million Frontier Academy adds the enterprise implementation layer: the bottleneck is increasingly people and operating practice, not only model access.
 
-The local intake was kept AI-only. Same-day lab/news pages were checked for OpenAI, Anthropic, Google, Meta, xAI, and related vendors. Generic roundups, weak or failed captures, stale reports, and unsupported claims were excluded or deferred. The latest arXiv scout completed all 14 configured queries across 30 pages, saw 2,050 entries, and reported no incomplete queries; three candidate paper summaries were staged locally, but page-level curation did not produce a verified keep. This is **no paper promoted**, not **no relevant papers found**.
+The local intake was kept AI-only. Same-day lab/news pages were checked for OpenAI, Anthropic, Google, Meta, xAI, and related vendors. Generic roundups, weak or failed captures, stale reports, and unsupported claims were excluded or deferred. The latest arXiv scout completed all 14 configured queries across 30 pages, saw 2,050 entries, and reported no incomplete queries. One paper was kept through curation and is included below; this is not a claim that the wider scout found only one relevant paper.
+
+## Selected research paper
+
+### [What Does a Harness Buy? Tokens, Mostly](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-03_10-47-10Z_WhatDoesaHarnessBuy_Tokens_Mostly_summary.md)
+
+This research paper holds the underlying language model fixed while comparing three coding-agent harnesses across SWE-bench Verified. It finds no reliable accuracy advantage for the heavier harnesses within the measured noise: harness swaps flipped about 13% of tasks, roughly the same as rerunning the same harness. The durable difference was operational cost, reaching up to 3×, driven mainly by system-prompt and tool-schema overhead. **Why it matters:** harness engineering should be evaluated as a cost, reliability, and control decision—not assumed to create capability gains—and agent benchmarks need enough tasks to distinguish real improvements from stochastic variance. The canonical summary contains the original [arXiv paper](http://arxiv.org/abs/2610.04433v1).
 
 ## Verdict
 
@@ -170,7 +176,7 @@ For the wiki's model and agent tracking, record at least: tool and identity scop
 
 ## Research coverage status
 
-**No paper promoted.** The latest 2026-10-06 arXiv scout completed all 14 configured queries across 30 pages and saw 2,050 entries with 0 incomplete queries. Three candidate paper summaries were staged in the local intake, but page-level curation did not produce a verified keep. This is not a claim that no relevant papers exist.
+**One paper promoted.** The latest 2026-10-06 arXiv scout completed all 14 configured queries across 30 pages and saw 2,050 entries with 0 incomplete queries. One paper was kept through page-level curation and is linked above. This is not a claim that no other relevant papers exist.
 
 ## Source links
 
