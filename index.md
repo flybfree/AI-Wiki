@@ -3248,3 +3248,7 @@ tags: ['wiki']
 - [[2026-10-07_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
 - [[2026-10-07_ChatGPTforTeensisan_unacceptablerisk__saysCommonSe.md]] : ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media
 - [[2026-10-07_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
+- [[2026-10-07_TonyFadellonwhythefirstwaveofAIgadgetsfailed_andwh.md]] : Tony Fadell on why the first wave of AI gadgets failed — and what comes next
+- [[2026-10-07_Helpingteenslearn_plan_andshapethefutureofAI.md]] : Helping teens learn, plan, and shape the future of AI
+- [[2026-10-07_ChatGPTisgettingcollegeplanningtools.md]] : ChatGPT is getting college planning tools
+- [[2026-10-07_Healthleapraises_38MforitsAIthatflagshospitalpatie.md]] : Healthleap raises $38M for its AI that flags hospital patients who may need a closer look
