@@ -3257,3 +3257,5 @@ tags: ['wiki']
 - [[2026-10-07_MicrosoftisgivingCopilotmorecontroloverWindowsandy.md]] : Microsoft is giving Copilot more control over Windows and your files
 - [[2026-10-07_Meta_sMuselaunchesoniPadjustamonthafteritsmobilede.md]] : Meta’s Muse launches on iPad just a month after its mobile debut
 - [[2026-10-07_ChatGPT__8217_s__8216_IntelligentUI__8217_updatefi.md]] : ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons
+- [[2026-10-07_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
+- [[2026-10-07_NousResearchconfirmsithit_1_5Bvaluation_launchesAI.md]] : Nous Research confirms it hit $1.5B valuation, launches AI agents for business users
