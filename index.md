@@ -3252,3 +3252,8 @@ tags: ['wiki']
 - [[2026-10-07_Helpingteenslearn_plan_andshapethefutureofAI.md]] : Helping teens learn, plan, and shape the future of AI
 - [[2026-10-07_ChatGPTisgettingcollegeplanningtools.md]] : ChatGPT is getting college planning tools
 - [[2026-10-07_Healthleapraises_38MforitsAIthatflagshospitalpatie.md]] : Healthleap raises $38M for its AI that flags hospital patients who may need a closer look
+- [[2026-10-07_MetarollsoutnewAItoolstodetectadsthatsecretlyleadt.md]] : Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material
+- [[2026-10-07_ChatGPTisgettingalotmorevisual_withthelaunchofanew.md]] : ChatGPT is getting a lot more visual, with the launch of a new interface
+- [[2026-10-07_MicrosoftisgivingCopilotmorecontroloverWindowsandy.md]] : Microsoft is giving Copilot more control over Windows and your files
+- [[2026-10-07_Meta_sMuselaunchesoniPadjustamonthafteritsmobilede.md]] : Meta’s Muse launches on iPad just a month after its mobile debut
+- [[2026-10-07_ChatGPT__8217_s__8216_IntelligentUI__8217_updatefi.md]] : ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons
