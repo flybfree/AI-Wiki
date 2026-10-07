@@ -3229,3 +3229,18 @@ tags: ['wiki']
 - [[2026-10-06_OpenAIdropsanotherbatchofmathematicalbreakthroughs.md]] : OpenAI drops another batch of mathematical breakthroughs
 - [[2026-10-06_HowJumpTradingisscalingquantresearchwithChatGPT.md]] : How Jump Trading is scaling quant research with ChatGPT
 - [[2026-10-06_HowJumpTradingisscalingquantresearchwithChatGPT-Op.md]] : How Jump Trading is scaling quant research with ChatGPT - OpenAI
+- [[2026-10-07_Ex-Rampengineersraise_20MforplatformMeliusafterscr.md]] : Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product
+- [[2026-10-07_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-07_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-07_HowJumpTradingisscalingquantresearchwithChatGPT.md]] : How Jump Trading is scaling quant research with ChatGPT
+- [[2026-10-07_UnlockingEarthAI_splanetarygeospatialfoundationmod.md]] : Unlocking Earth AI’s planetary geospatial foundation models for global public health
+- [[2026-10-07_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-07_OpenAIdropsanotherbatchofmathematicalbreakthroughs.md]] : OpenAI drops another batch of mathematical breakthroughs
+- [[2026-10-07_OpenAIcutstieswith3safetyresearchers_WSJreports_Te.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch
+- [[2026-10-07_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-07_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-07_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-07_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-07_Oct6_2026AnnouncementsExpandingtheCyberVerificatio.md]] : Oct 6, 2026 Announcements Expanding the Cyber Verification Program
+- [[2026-10-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-07_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
