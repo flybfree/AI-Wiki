@@ -5,6 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-08 17:46] summarize | refreshed the canonical October 8 AI-only briefing after the latest direct major-lab/news sweep; retained nine AI-relevant article/source clusters, added Google’s enterprise Gemini agent, Anthropic’s Cyber Mission and OSS Scanner, and the contested OpenAI safety-researcher governance signal, excluded the Elizabeth Holmes marketing capture, updated arXiv coverage to the recovered 17:46 UTC pass (14 queries, 33 pages, 2,300 entries, 0 incomplete), and kept the no-paper-promoted status because page-level curation was not complete; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-10-08 11:53] summarize | refreshed the canonical October 8 AI-only briefing after the latest direct major-lab/news sweep; retained the seven AI-relevant article clusters, excluded generic or unsupported late intake, updated arXiv coverage to the recovered 11:53 UTC pass (14 queries, 33 pages, 2,300 entries, 0 incomplete), and kept the no-paper-promoted status because page-level curation was not complete; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-10-08 06:01] summarize | created the canonical October 8 AI-only briefing from seven collected articles plus direct major-lab/news sweep; synthesized generated interfaces, verified cyber access, staged open weights, verifiable task expertise, workforce learning, and enterprise agent packaging; generic and unsupported material excluded or deferred; latest complete arXiv pass covered 14 queries across 34 pages with 2,400 entries, but the later retry had one rate-limited benchmark query, so coverage is incomplete for the latest retry; page-level paper curation was incomplete and no paper was promoted; Logseq mirror synchronized; GitHub commit and push required
 
@@ -15945,3 +15946,6 @@ tags: ['wiki']
 ## [2026-10-08 11:19] ingest | 2026-10-08_Natura_s_99smartringputsAIagentsonyourfinger.md
 ## [2026-10-08 12:28] ingest | 2026-10-08_Goodfiresaysitsnew_inside-out_monitorscatchrogueAI.md
 ## [2026-10-08 13:35] ingest | 2026-10-08_USATodaybecomesthelatestpublishertosueOpenAI.md
+## [2026-10-08 15:13] ingest | 2026-10-08_FiredOpenAIsafetyresearchersdisputemisconductclaim.md
+## [2026-10-08 16:34] ingest | 2026-10-08_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md
+## [2026-10-08 17:14] ingest | 2026-10-08_AnthropiclaunchesfreeAIsecurityscansforopen-source.md

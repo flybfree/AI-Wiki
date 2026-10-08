@@ -97,7 +97,7 @@ tags: ['wiki']
 ## Concepts
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md|Summary: Daily AI Intelligence Briefing — 2026-10-07]] — canonical final; capability-plus-control stack, containment, harness fit, trust-boundary failures, evaluation, and 10 curated research papers
- - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-08.md|Summary: Daily AI Intelligence Briefing — 2026-10-08]] — canonical final; generated interfaces, verified cyber access, staged open weights, verifiable task expertise, workforce learning, and incomplete paper curation
+ - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-08.md|Summary: Daily AI Intelligence Briefing — 2026-10-08]] — canonical final; generated interfaces, persistent enterprise agents, cyber mission and verified access, staged open weights, verifiable task expertise, workforce learning, safety culture, and incomplete paper curation
 ### Knowledge Management & Wiki Ops
 - [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — GitHub wiki, local working copy, Logseq mirror, and PRISM user working copy
 - [[concepts/knowledge-management/wiki-usage-cheat-sheet.md|Wiki Usage Cheat Sheet]] — quick guide for page types and where each system fits
@@ -3275,3 +3275,6 @@ tags: ['wiki']
 - [[2026-10-08_Natura_s_99smartringputsAIagentsonyourfinger.md]] : Natura’s $99 smart ring puts AI agents on your finger
 - [[2026-10-08_Goodfiresaysitsnew_inside-out_monitorscatchrogueAI.md]] : Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost
 - [[2026-10-08_USATodaybecomesthelatestpublishertosueOpenAI.md]] : USA Today becomes the latest publisher to sue OpenAI
+- [[2026-10-08_FiredOpenAIsafetyresearchersdisputemisconductclaim.md]] : Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect
+- [[2026-10-08_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md]] : Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website
+- [[2026-10-08_AnthropiclaunchesfreeAIsecurityscansforopen-source.md]] : Anthropic launches free AI security scans for open-source projects
