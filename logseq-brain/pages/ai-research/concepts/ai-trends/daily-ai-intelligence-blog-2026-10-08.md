@@ -68,9 +68,9 @@ The strategic signal is stronger than the individual numbers: open-source agent 
 **Why it matters:** watch whether community adoption can reliably convert into secure, supportable enterprise deployments without recreating closed-platform lock-in.
 
 ## Research intake and curation status
-The latest complete arXiv scout pass at 04:48 UTC ran 14 queries across 34 pages, saw 2,400 entries, and reported zero incomplete queries. A later 05:48 retry saw 2,200 entries but had one incomplete query: `topic-benchmark` was rate-limited with HTTP 429 and returned zero entries. The final state is therefore **coverage incomplete for the latest retry**, even though the earlier complete pass provides broad coverage.
+The latest arXiv scout pass at 11:53 UTC ran all 14 configured queries across 33 pages, saw 2,300 entries, and reported zero incomplete queries. Earlier retries included a rate-limited benchmark query, but the latest pass recovered successfully; coverage for the current scout is therefore complete.
 
-**No paper promoted:** page-level curation was not complete by the briefing cutoff, so no new paper entered the canonical wiki. The review store contains one same-day `keep` decision, but no canonical summary was created from it; it is not counted as a promoted paper. Rejected and deferred candidates remain outside this briefing.
+**No paper promoted:** page-level curation was not complete by the briefing cutoff, so no new paper entered the canonical daily briefing. Same-day keep decisions in the review store were not yet normalized into canonical paper summaries at this run and are not counted as promoted papers. Rejected and deferred candidates remain outside this briefing.
 
 ## What changed today
 1. AI assistants moved further from text generation toward on-demand interface generation and guided learning workflows.

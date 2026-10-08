@@ -3268,3 +3268,8 @@ tags: ['wiki']
 - [[2026-10-08_Helpingteenslearn_plan_andshapethefutureofAI.md]] : Helping teens learn, plan, and shape the future of AI
 - [[2026-10-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-08_China_sManusraisesover_500Minfirstfundingroundsinc.md]] : China’s Manus raises over $500M in first funding round since split with Meta
+- [[2026-10-08_5daystoTechCrunchDisrupt2026_Don_tpaymoreatthedoor.md]] : 5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass
+- [[2026-10-08_CanyoutrustMeta_sMuseorOpenAI_sDotstorunyourlife_.md]] : Can you trust Meta’s Muse or OpenAI’s Dots to run your life?
+- [[2026-10-08_DisruptingAI-enabled_falsefront_operations.md]] : Disrupting AI-enabled “false front” operations
+- [[2026-10-08_Googleislaunchingaone-stopGeminiagentforyourworkta.md]] : Google is launching a one-stop Gemini agent for your work tasks
+- [[2026-10-08_Natura_s_99smartringputsAIagentsonyourfinger.md]] : Natura’s $99 smart ring puts AI agents on your finger
