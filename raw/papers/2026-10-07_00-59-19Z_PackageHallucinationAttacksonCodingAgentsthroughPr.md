@@ -1,0 +1,18 @@
+---
+title: Package Hallucination Attacks on Coding Agents through Prompt Injection in Rule Files
+published: 2026-10-07T00:59:19Z
+authors: Yupu Wang, Zhengyuan Jiang, Reachal Wang, Neil Zhenqiang Gong
+url: http://arxiv.org/abs/2610.09264v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Package Hallucination Attacks on Coding Agents through Prompt Injection in Rule Files
+
+## Abstract
+Modern agentic coding frameworks increasingly rely on community-shared rule files (e.g., AGENTS.md or .cursorrules) to guide autonomous code generation, yet the security risks of this pipeline remain underexplored. To bridge this gap, we introduce the package hallucination attack, where an attacker injects malicious prompts into benign rule files to induce coding agents to replace legitimate dependencies with attacker-controlled packages. To obtain effective malicious prompts injected into rule files, we propose PackHallu, an evolutionary optimization framework that iteratively rewrites these injected prompts using trajectory-level feedback and LLM-guided mutations. Evaluations across multiple benchmarks, LLMs, and agent frameworks show that PackHallu achieves high attack success rates and strong transferability across diverse models and agent combinations. Our findings demonstrate that coding agents are vulnerable to package hallucination attacks, highlighting the urgent need for stronger security safeguards in autonomous coding systems.
+
+## Metadata
+- **Published**: 2026-10-07T00:59:19Z
+- **Authors**: Yupu Wang, Zhengyuan Jiang, Reachal Wang, Neil Zhenqiang Gong
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.09264v1)

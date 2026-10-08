@@ -2,6 +2,7 @@
 Saved: 2026-10-04 22:09
 Source: 2026-10-01_19-32-12Z_TrainedAgenticContextManagement.md
 Model: None
+Original paper: [arXiv: 2610.02404](https://arxiv.org/abs/2610.02404v1)
 
 ---
 

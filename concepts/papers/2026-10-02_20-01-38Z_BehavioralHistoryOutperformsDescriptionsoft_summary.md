@@ -2,6 +2,7 @@
 Saved: 2026-10-05 20:42
 Source: 2026-10-02_20-01-38Z_BehavioralHistoryOutperformsDescriptionsofthePerso.md
 Model: None
+Original paper: [arXiv: 2610.03998](https://arxiv.org/abs/2610.03998v1)
 
 ---
 

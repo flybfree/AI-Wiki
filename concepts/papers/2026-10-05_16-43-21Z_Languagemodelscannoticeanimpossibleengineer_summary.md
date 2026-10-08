@@ -2,6 +2,7 @@
 Saved: 2026-10-05 23:35
 Source: 2026-10-05_16-43-21Z_Languagemodelscannoticeanimpossibleengineeringprob.md
 Model: None
+Original paper: [arXiv: 2610.06668](https://arxiv.org/abs/2610.06668v1)
 
 ---
 

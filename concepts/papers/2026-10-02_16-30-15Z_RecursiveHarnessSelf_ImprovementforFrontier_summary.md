@@ -2,6 +2,7 @@
 Saved: 2026-10-04 22:18
 Source: 2026-10-02_16-30-15Z_RecursiveHarnessSelf_ImprovementforFrontierReasoni.md
 Model: None
+Original paper: [arXiv: 2610.03548](https://arxiv.org/abs/2610.03548v1)
 
 ---
 

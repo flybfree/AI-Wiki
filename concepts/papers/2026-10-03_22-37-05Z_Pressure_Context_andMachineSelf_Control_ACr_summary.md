@@ -2,6 +2,7 @@
 Saved: 2026-10-05 22:17
 Source: 2026-10-03_22-37-05Z_Pressure_Context_andMachineSelf_Control_ACriminolo.md
 Model: None
+Original paper: [arXiv: 2610.04793](https://arxiv.org/abs/2610.04793v1)
 
 ---
 

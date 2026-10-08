@@ -2,6 +2,7 @@
 Saved: 2026-10-04 22:17
 Source: 2026-10-02_12-10-03Z_SourcePreferenceintheWild_HowLLMAgentsFavorItemsby.md
 Model: None
+Original paper: [arXiv: 2610.03195](https://arxiv.org/abs/2610.03195v1)
 
 ---
 

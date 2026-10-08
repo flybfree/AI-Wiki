@@ -2,6 +2,7 @@
 Saved: 2026-10-01 21:46
 Source: 2026-10-01_01-49-59Z_FindingtheRightFit_Model_HarnessInteractionsacross.md
 Model: None
+Original paper: [arXiv: 2610.00917](https://arxiv.org/abs/2610.00917v1)
 
 ---
 

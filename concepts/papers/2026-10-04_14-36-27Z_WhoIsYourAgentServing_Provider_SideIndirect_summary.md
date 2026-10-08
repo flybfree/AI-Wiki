@@ -2,6 +2,7 @@
 Saved: 2026-10-05 22:23
 Source: 2026-10-04_14-36-27Z_WhoIsYourAgentServing_Provider_SideIndirectPromptI.md
 Model: None
+Original paper: [arXiv: 2610.05266](https://arxiv.org/abs/2610.05266v1)
 
 ---
 

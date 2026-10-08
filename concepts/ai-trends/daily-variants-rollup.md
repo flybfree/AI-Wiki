@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-10-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md), covering containment engineering, staged open weights, verifiable task expertise, provenance deployment, enterprise implementation, consumer-agent authority, and one curated research paper on harness cost and benchmark variance.
+The latest canonical daily briefing is [2026-10-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md), covering the capability-plus-control stack, containment, harness fit, trust-boundary failures, evaluation, and 10 curated research papers.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
@@ -46,6 +46,7 @@ Use this page as the stable landing zone for daily variants:
 4. If a source starts covering a different topic family, split it into a separate concept page.
 
 ## Related Pages
+- [Summary: Daily AI Intelligence Briefing — 2026-10-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md) — canonical final; 10 curated research papers and full-stack capability/control analysis
 - [Summary: Daily AI Intelligence Briefing — 2026-09-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md) — canonical final; 0 target-date keeps and 0 uncovered carry-forward papers
 - [Summary: Daily AI Intelligence Briefing — 2026-10-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-01.md) — canonical final; staged frontier access, governed enterprise deployment, incident disclosure, AI-for-science, control layers, and 4 curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-10-02](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-02.md) — canonical final; governed deployment, staged open weights, task-specific RL, enterprise adoption, control layers, bounded multimodal assistance, agent permissions, licensed vertical AI, containment, and 0 selected papers

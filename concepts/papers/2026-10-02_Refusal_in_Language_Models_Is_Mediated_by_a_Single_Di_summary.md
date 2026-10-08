@@ -2,6 +2,7 @@
 Saved: 2026-10-02 11:22
 Source: 2026-10-02_Refusal_in_Language_Models_Is_Mediated_by_a_Single_Direction.md
 Model: None
+Original paper: [arXiv: 2406.11717](https://arxiv.org/abs/2406.11717)
 
 ---
 

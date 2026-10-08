@@ -2,6 +2,7 @@
 Saved: 2026-10-05 23:31
 Source: 2026-10-05_13-07-17Z_WhatMayanAgentChangeAboutItself_AContainmentFloorf.md
 Model: None
+Original paper: [arXiv: 2610.06274](https://arxiv.org/abs/2610.06274v1)
 
 ---
 

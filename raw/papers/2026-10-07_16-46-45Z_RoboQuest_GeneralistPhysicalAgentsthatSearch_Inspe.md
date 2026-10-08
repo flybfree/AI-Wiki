@@ -1,0 +1,18 @@
+---
+title: RoboQuest: Generalist Physical Agents that Search, Inspect and Test
+published: 2026-10-07T16:46:45Z
+authors: Liu Renhang, Navonil Majumder, Tej Deep Pala, Soujanya Poria
+url: http://arxiv.org/abs/2610.10388v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# RoboQuest: Generalist Physical Agents that Search, Inspect and Test
+
+## Abstract
+Recent advances in multimodal foundation models have made them capable generalist physical agents for a range of manipulation tasks. However, successful operation in an unfamiliar environment may require an agent to seek task-relevant information through interaction when it is absent from the observations: it may need to determine where a relevant object is, inspect an unobserved property, or discover the effect of an unfamiliar tool. We thus introduce RoboQuest, a benchmark for goal-directed embodied exploration, where agents must actively acquire task-relevant information through physical interaction, use the resulting evidence to adapt subsequent actions, and autonomously decide when to commit to task completion. RoboQuest comprises ten mobile manipulation tasks centered on three forms of uncertainty: search, manipulation-based inspection, and interactive testing. We evaluate five frontier multimodal agents through a common visuomotor interface, as well as a $π_{0.5}$ policy fine-tuned on the full-episode demonstrations we release. The best agent succeeds in only 23\% of the episodes, and the fine-tuned policy almost never succeeds. Isolated tests of the execution skills the tasks are built from, with the hidden information supplied, show that the agents can carry out most of the required actions, and our failure analysis attributes only a minority of the failures to execution. Our failure analysis further finds that the agents often stop exploring too early as they make decisions before observing the required evidence for task completion. We also find that agents rarely prevent or repair the disturbances caused by their exploration. Moreover, learning by trial and error remains difficult for most models.
+
+## Metadata
+- **Published**: 2026-10-07T16:46:45Z
+- **Authors**: Liu Renhang, Navonil Majumder, Tej Deep Pala, Soujanya Poria
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.10388v1)
