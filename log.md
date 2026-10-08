@@ -15943,3 +15943,5 @@ tags: ['wiki']
 ## [2026-10-08 10:36] ingest | 2026-10-08_DisruptingAI-enabled_falsefront_operations.md
 ## [2026-10-08 10:36] ingest | 2026-10-08_Googleislaunchingaone-stopGeminiagentforyourworkta.md
 ## [2026-10-08 11:19] ingest | 2026-10-08_Natura_s_99smartringputsAIagentsonyourfinger.md
+## [2026-10-08 12:28] ingest | 2026-10-08_Goodfiresaysitsnew_inside-out_monitorscatchrogueAI.md
+## [2026-10-08 13:35] ingest | 2026-10-08_USATodaybecomesthelatestpublishertosueOpenAI.md

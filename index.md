@@ -3273,3 +3273,5 @@ tags: ['wiki']
 - [[2026-10-08_DisruptingAI-enabled_falsefront_operations.md]] : Disrupting AI-enabled “false front” operations
 - [[2026-10-08_Googleislaunchingaone-stopGeminiagentforyourworkta.md]] : Google is launching a one-stop Gemini agent for your work tasks
 - [[2026-10-08_Natura_s_99smartringputsAIagentsonyourfinger.md]] : Natura’s $99 smart ring puts AI agents on your finger
+- [[2026-10-08_Goodfiresaysitsnew_inside-out_monitorscatchrogueAI.md]] : Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost
+- [[2026-10-08_USATodaybecomesthelatestpublishertosueOpenAI.md]] : USA Today becomes the latest publisher to sue OpenAI
