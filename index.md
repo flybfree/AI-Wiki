@@ -3267,3 +3267,4 @@ tags: ['wiki']
 - [[2026-10-08_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
 - [[2026-10-08_Helpingteenslearn_plan_andshapethefutureofAI.md]] : Helping teens learn, plan, and shape the future of AI
 - [[2026-10-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-08_China_sManusraisesover_500Minfirstfundingroundsinc.md]] : China’s Manus raises over $500M in first funding round since split with Meta

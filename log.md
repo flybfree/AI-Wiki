@@ -15935,3 +15935,5 @@ tags: ['wiki']
 ## [2026-10-08 01:51] ingest | 2026-10-08_Doesbetterworkalwaysmeanbetterworkers_.md
 ## [2026-10-08 01:51] ingest | 2026-10-08_Helpingteenslearn_plan_andshapethefutureofAI.md
 ## [2026-10-08 01:51] ingest | 2026-10-08_ASafePathtoOpenWeights.md
+## [2026-10-08 06:23] stage-paper | 2026-10-07_17-37-19Z_BeforeTheyCanSolve_PredictingPost_TrainingCoding_A.md
+## [2026-10-08 08:23] ingest | 2026-10-08_China_sManusraisesover_500Minfirstfundingroundsinc.md
