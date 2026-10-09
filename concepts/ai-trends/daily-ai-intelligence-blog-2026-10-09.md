@@ -11,6 +11,7 @@ sources:
   - "https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/"
   - "https://thinkingmachines.ai/news/putting-task-expertise-into-rl/"
   - "https://openai.com/index/legalon-halves-codex-costs/"
+  - "https://www.anthropic.com/claude-haiku-5-5"
   - "https://research.google/blog/does-better-work-always-mean-better-workers/"
   - "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
   - "https://apnews.com/article/789d4f5293fba45a22fcb62ebfbc2a41"
@@ -71,6 +72,8 @@ The data-quality result is at least as important as the headline score. In a 2,5
 
 OpenAI's [LegalOn case study](https://openai.com/index/legalon-halves-codex-costs/) describes a model portfolio in which GPT-6 Luna handles routine implementation, GPT-6.1 Sol handles standard design and analysis, and GPT-6 Astra handles complex architecture and orchestration. LegalOn reports that model selection, Fast-mode restrictions, and department/group/individual budget caps reduced estimated daily costs by about 65% compared with its earlier GPT-5.5 baseline while maintaining development speed.
 
+Anthropic's [Claude Haiku 5.5 release](https://www.anthropic.com/claude-haiku-5-5) reinforces the same direction from the model-supply side: a faster, cheaper small model aimed at high-volume tasks, priced up to 90% lower than Haiku 4.5 for prompts up to 100,000 tokens, alongside lower Sonnet 5.5 cache-read pricing. Those are vendor-reported pricing and capability claims, but they make tiered routing economically practical rather than merely architectural.
+
 The more consequential move is measurement: LegalOn is building a feature-release metric that links AI cost to customer value rather than treating usage volume or faster coding as the return on investment. The case study is company-reported, but the operating pattern is generalizable: model routing, explicit budgets, and outcome-level measurement are becoming part of the AI system itself.
 
 **Why it matters:** production AI governance should expose per-task model choice, escalation rules, spend ceilings, latency, quality, and customer outcomes. “Use the strongest model everywhere” is increasingly a cost and control failure mode.
@@ -117,12 +120,13 @@ The latest [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/
 2. Open-weight safety moved from a release/no-release argument toward staged evidence and ecosystem readiness.
 3. Thinking Machines supplied a concrete example of verifier-aware training replacing benchmark-specific orchestration.
 4. Model routing and budget controls became explicit parts of enterprise AI architecture.
-5. Workforce evidence sharpened the distinction between immediate output quality and durable professional judgment.
-6. The OpenAI researcher-dismissal dispute kept internal governance and information flow in the risk model.
-7. Consumer AI economics added a second deployment constraint alongside enterprise cost control: distribution and monetization.
-8. Anthropic's false Philadelphia tip showed that an evaluation harness can cross into civic infrastructure, adding detection and notification latency to the risk model.
-9. TypeSafe's Jev financing signaled strong market interest in specialized, non-text decision models.
-10. ArXiv discovery coverage recovered to complete status, but page-level paper curation remained incomplete.
+5. Anthropic's Haiku 5.5 release reinforced the push toward cheaper, high-volume model tiers.
+6. Workforce evidence sharpened the distinction between immediate output quality and durable professional judgment.
+7. The OpenAI researcher-dismissal dispute kept internal governance and information flow in the risk model.
+8. Consumer AI economics added a second deployment constraint alongside enterprise cost control: distribution and monetization.
+9. Anthropic's false Philadelphia tip showed that an evaluation harness can cross into civic infrastructure, adding detection and notification latency to the risk model.
+10. TypeSafe's Jev financing signaled strong market interest in specialized, non-text decision models.
+11. ArXiv discovery coverage recovered to complete status, but page-level paper curation remained incomplete.
 
 ## Why it matters
 
@@ -135,6 +139,7 @@ The day links six layers that are often managed separately: model capability, ac
 - Objective readiness gates and stop conditions for Thinking Machines' staged open-weight framework.
 - Replication of ReViSQL-K2.6 on unseen schemas and less-clean enterprise databases.
 - Whether LegalOn's feature-release ROI metric links AI spend to customer value better than usage dashboards.
+- Whether Haiku 5.5's lower price and speed materially change routing mix, latency, and quality in production agent workloads.
 - Whether consumer AI products can make ad-supported or freemium economics work with cheaper models while preserving quality and trust.
 - Anthropic's promised incident report, the Philadelphia test harness details, and any primary documentation of the reported U.S. incident-reporting requirement.
 - Independent evidence for Jev's claimed Fortune 500 adoption, calibration quality, and cost/latency advantage over LLM-based automation.
@@ -150,6 +155,7 @@ The day links six layers that are often managed separately: model capability, ac
 - [Thinking Machines — A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/)
 - [Thinking Machines — Putting Task Expertise into RL](https://thinkingmachines.ai/news/putting-task-expertise-into-rl/)
 - [OpenAI — LegalOn halves Codex costs](https://openai.com/index/legalon-halves-codex-costs/)
+- [Anthropic — Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5)
 - [Google Research — Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/)
 - [The Verge — OpenAI defends decision to fire safety researchers](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers)
 - [Associated Press — OpenAI fires 3 safety researchers in dispute over AI risks](https://apnews.com/article/789d4f5293fba45a22fcb62ebfbc2a41)
