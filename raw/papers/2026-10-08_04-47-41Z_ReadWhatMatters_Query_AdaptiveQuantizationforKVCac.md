@@ -1,0 +1,18 @@
+---
+title: Read What Matters: Query-Adaptive Quantization for KV Caches
+published: 2026-10-08T04:47:41Z
+authors: Siddharth Bhandari, Lucas Gretta, Krishna Balasubramanian, Shiva Kasiviswanathan
+url: http://arxiv.org/abs/2610.11245v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Read What Matters: Query-Adaptive Quantization for KV Caches
+
+## Abstract
+KV-cache entries are stored before their future queries are known, but each decoding query needs precision in different places. We study this mismatch using separate budgets for retained bits and bits fetched per query. ReadKV stores each key and value in a progressive code whose prefixes support different reconstruction precisions. For each query, it allocates key-channel prefixes using the query, computes attention from the reconstructed keys, and then allocates value-token prefixes using that attention. Stored entries remain unchanged. Each stage optimizes a calibrated distortion objective under a fixed budget; we prove exact allocation under diminishing refinement gains and relate these objectives to attention-output error. We also exhibit a finite-dimensional attention family where query-dependent access strictly outperforms every query-independent reader at the same read budget, even with unrestricted competing encoders and decoders.   Across six base models, reading four bits on average from an eight-bit cache increases C4 perplexity by at most 0.66%, using about one quarter of the logical reads and half the retained capacity of a 16-bit cache. It is consistently more accurate than storing and fully reading four bits at the same payload-read budget. Retaining more bits than each query fetches is aimed at long-context decoding, where the cache bytes moved per step, rather than the weights, dominate cost. Long-context question answering and retrieval on two instruction-tuned models provide additional quality evidence. On the tested 8K-token, batch-one, single-layer workload on an NVIDIA A10G, a restricted eight-bit ReadKV reader with a two-bit mean payload-read budget has 39% lower latency than the tested TurboQuant codec.
+
+## Metadata
+- **Published**: 2026-10-08T04:47:41Z
+- **Authors**: Siddharth Bhandari, Lucas Gretta, Krishna Balasubramanian, Shiva Kasiviswanathan
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.11245v1)

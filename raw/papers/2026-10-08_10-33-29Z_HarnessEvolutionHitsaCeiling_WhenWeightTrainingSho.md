@@ -1,0 +1,18 @@
+---
+title: Harness Evolution Hits a Ceiling: When Weight Training Should Begin
+published: 2026-10-08T10:33:29Z
+authors: Yuan Tian, Bing Hu, Hao Wang, Binghang Lu, Fang Wu
+url: http://arxiv.org/abs/2610.11655v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Harness Evolution Hits a Ceiling: When Weight Training Should Begin
+
+## Abstract
+Improving a long-horizon LLM agent means evolving the harness around a frozen model or training its weights. We let a self-evolving harness make the system stronger first, then cross seed and evolved harnesses with base and trained weights to learn which gains the trained model keeps and which still need the runtime. We show that the right lever can be read off the agent's failure composition: labelling failed trajectories by the first signal that fires separates process failures (blocked calls, loops, exhausted step budgets) from content failures (a delivered plan that is poor). Harness evolution repairs the former, the behaviour it instils can be trained into the weights, and content failures are what weight training is for. On DeepPlanning, a self-evolving harness loop lifts the held-out score of Qwen3.5-4B from 0.16 to 0.30 and of Qwen3.5-9B from 0.32 to 0.44; for 4B, held-out delivery rises from 55% to 90% while content failures are left for the weights. LoRA adapters trained on evolved-harness trajectories internalise the gain: under the original harness they add +0.13 on held-out tasks for both sizes; on 4B they stack with the harness to more than double the held-out score, and on 9B the adapter alone matches the full evolution line, cutting content failures from a quarter of trajectories to one in twenty. A placebo adapter trained on answer-shuffled trajectories falls below the base model. The loop transfers to WebArena-Lite (+0.09 on 117 unseen tasks), where the gain lives in what the model sees and adapters do not add to it. The result is a diagnose-then-intervene rule applied twice: read the failure composition to choose between harness and weights, then read what the accepted edits changed to decide which gains to train in. Scores are four-rollout means against fresh anchors, same-night except where marked, across eight models from six families and two benchmarks.
+
+## Metadata
+- **Published**: 2026-10-08T10:33:29Z
+- **Authors**: Yuan Tian, Bing Hu, Hao Wang, Binghang Lu, Fang Wu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.11655v1)

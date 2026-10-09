@@ -1,0 +1,18 @@
+---
+title: Beyond Imitation: A Framework and Benchmark for LLM-Assisted Peer Review
+published: 2026-10-08T01:57:31Z
+authors: Rachel S. Y. Teo, Yutaro Yamada, Shashank Kotyan, Yuki Imajuku, Tarin Clanuwat
+url: http://arxiv.org/abs/2610.11087v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Imitation: A Framework and Benchmark for LLM-Assisted Peer Review
+
+## Abstract
+The rapid growth of scientific publishing has strained peer review, particularly in machine learning, raising concerns about declining review quality and increasing reviewer workload. Large language models (LLMs) have been proposed as automated review assistants, yet their evaluation has focused largely on imitating human-written reviews rather than supporting the core functions of peer review. Here, we introduce a verification-centric perspective on LLM-assisted peer review, emphasizing error detection as a critical and resource-intensive task. We present a scalable benchmark that evaluates review systems' ability to identify logical contradictions, constructed through synthetic insertion of errors into conference papers, yielding unambiguous evaluation targets and enabling systematic comparison. We further propose a Multi-Layered Review (MLR) framework that prioritizes detailed manuscript comprehension before review generation, aligning more closely with human reviewing practices while improving token efficiency. Across evaluations, our approach demonstrates strong alignment with human review scores, achieves high error detection performance, and provides complementary perspectives on reviewer focus. These improvements can be attributed to both the choice of the underlying LLM and the design of our system. At the same time, we corroborate persistent vulnerabilities to adversarial manipulation, underscoring the need for robustness in automated review systems. Our findings highlight the importance of rigorous, error-focused evaluation to guide responsible deployment of LLM-based tools in peer review and other critical scientific workflows.
+
+## Metadata
+- **Published**: 2026-10-08T01:57:31Z
+- **Authors**: Rachel S. Y. Teo, Yutaro Yamada, Shashank Kotyan, Yuki Imajuku, Tarin Clanuwat
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.11087v1)

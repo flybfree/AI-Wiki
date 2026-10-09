@@ -95,7 +95,9 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-08.md|Summary: Daily AI Intelligence Briefing — 2026-10-08]] — canonical final; generated interfaces, verified cyber access, staged open weights, verifiable task expertise, workforce learning, and incomplete paper curation
+ - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
+ - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md|Summary: Daily AI Intelligence Briefing — 2026-10-07]] — canonical final; capability-plus-control stack, containment, harness fit, trust-boundary failures, evaluation, and 10 curated research papers
+ - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-08.md|Summary: Daily AI Intelligence Briefing — 2026-10-08]] — canonical final; generated interfaces, persistent enterprise agents, cyber mission and verified access, staged open weights, verifiable task expertise, workforce learning, safety culture, and 4 curated research papers
 ### Knowledge Management & Wiki Ops
 - [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — GitHub wiki, local working copy, Logseq mirror, and PRISM user working copy
 - [[concepts/knowledge-management/wiki-usage-cheat-sheet.md|Wiki Usage Cheat Sheet]] — quick guide for page types and where each system fits
@@ -113,6 +115,7 @@ tags: ['wiki']
 ### Training, Fine-Tuning & Local Model Tooling
 - [[concepts/frameworks/unsloth.md|Summary: Unsloth]] — local model running, efficient fine-tuning, export, deployment, and agent integration
 - [[concepts/frameworks/typesafe-ai-system-one.md|TypeSafe AI: System One Decision Models]] — typed AI primitives, parallel questions, calibrated confidence, and code-controlled workflows
+- [[concepts/frameworks/laya-open-source-jev.md|Laya: Open-Source Jev-Compatible System One Decision Engine]] — self-hostable open-source counterpart for fast structured decisions, calibrated probabilities, and local inference
 
 ### Computer Vision & Object Detection
 - [[concepts/object-detection/RF-DETR.md|RF-DETR: Real-Time Object Detection Transformer]] — Roboflow's NAS-designed real-time DETR family, custom-dataset training, deployment formats, licensing, and local evaluation plan
@@ -121,8 +124,15 @@ tags: ['wiki']
 - [[concepts/ai-trends/2026-06-10_AIIndustryTrends.md|AI Industry Trends]] — market shifts, funding, regulation, and adoption patterns
 - [[concepts/ai-trends/daily-variants-rollup.md|Daily Variants Rollup]] — rolling hub for recurring daily source editions
 - [[concepts/ai-trends/daily-ai-intelligence-summary.md|Daily AI Intelligence Summary]] — latest daily synthesis of AI news and intelligence
+- [Summary: Daily AI Intelligence Briefing — 2026-10-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md) — canonical final; containment engineering, staged open weights, verifiable task expertise, provenance deployment, enterprise implementation, and no paper promoted
+- [Summary: Daily AI Intelligence Briefing — 2026-10-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md) — canonical final; cyber access tiers, containment disclosures, youth safety, staged open weights, verifiable task expertise, and scientific foundation models; no paper promoted pending curation
+- [Summary: Daily AI Intelligence Briefing — 2026-10-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-05.md) — canonical final; visual advertising and measurement, containment forensics, provenance, public oversight, and no paper promoted
 - [Summary: Daily AI Intelligence Briefing — 2026-10-04](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-04.md) — canonical final; implementation ecosystems, verifiable task expertise, production operations, containment disclosure, internal safety governance, staged open weights, and incomplete arXiv coverage
-- [Summary: Daily AI Intelligence Briefing — 2026-09-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-29.md) — RF-DETR recovery briefing: deployment-fit real-time vision, custom detection, benchmark caveats, licensing, and local evaluation plan
+- [Summary: Daily AI Intelligence Briefing — 2026-10-02](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-02.md) — canonical final; governed deployment, staged open weights, task-specific RL, enterprise adoption, control layers, bounded multimodal assistance, agent permissions, licensed vertical AI, containment, and 0 selected papers
+- [Summary: Daily AI Intelligence Briefing — 2026-10-03](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-03.md) — canonical final; enterprise implementation talent, staged open weights, task-specific RLVR, containment engineering, Muse hardware authority, bounded multimodal utility, and no promoted paper
+- [Summary: Daily AI Intelligence Briefing — 2026-10-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-01.md) — canonical final; staged frontier access, governed enterprise deployment, incident disclosure, FTC/litigation accountability signals, app-specific agent interfaces, staged open weights, task-specific RL, AI-for-science, control layers, and 4 curated research papers
+- [Summary: Daily AI Intelligence Briefing — 2026-09-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-30.md) — canonical final; frontier-model economics, safety gates, staged open weights, task-specific RL, AI-for-science, control layers, typed decision models, and 4 curated research papers
+- [Summary: Daily AI Intelligence Briefing — 2026-09-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-29.md) — agent containment, consumer-agent permissions, staged open weights, verifiable task expertise, long-horizon orchestration, AI-for-science, and model-compute convergence
 - [Summary: Daily AI Intelligence Briefing — 2026-09-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md) — canonical final; Sonnet 5.5, staged open-weight safety, verifiable task expertise, long-horizon orchestration, AI-for-science, production-scale AutoResearch, compositional agent security, RF-DETR, agentic commerce, and 0 selected papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-25.md) — staged open-weight safety, verifiable task expertise, embodied interfaces, AI-for-science, practical adoption, and one previously covered curation keep
 - [Summary: Daily AI Intelligence Briefing — 2026-09-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-26.md) — open-weight release gates, verifiable task expertise, long-horizon multimodal workflows, AI-for-science, agent authority, and containment incidents
@@ -290,6 +300,7 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[raw/papers/2026-10-02_Refusal_in_Language_Models_Is_Mediated_by_a_Single_Direction.md]] : Refusal in Language Models Is Mediated by a Single Direction (arXiv:2406.11717)
 - [[raw/papers/2026-08-08_15-28-45Z_QuantizationDegradationinLargeLanguageModels_ASign.md]] : Quantization Degradation in Large Language Models: A Signal-Noise Perspective
 - [[raw/papers/2026-07-21_09-45-34Z_DocAtlas_Long_DocumentUnderstandingasMutable_State.md]] : DocAtlas: Long-Document Understanding as Mutable-State Interaction
 - [[raw/papers/2026-08-08_09-05-10Z_LegalResponsibilitiesUsingAutonomousAgentsForArtif.md]] : Legal Responsibilities Using Autonomous Agents For Artificial Intelligence
@@ -2998,3 +3009,273 @@ tags: ['wiki']
 - [[2026-09-28_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
 - [[2026-09-28_Jeff_Jev-compatible0_8Bdecisionmodels_trainedathom.md]] : Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
 - [[2026-09-28_HowwewilldobetterforAustralia.md]] : How we will do better for Australia
+- [[2026-09-29_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-29_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-09-29_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
+- [[2026-09-29_HowwewilldobetterforAustralia.md]] : How we will do better for Australia
+- [[2026-09-29_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
+- [[2026-09-29_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-29_Anthropic_sprospectusdetailslosses_growth_and_yes_.md]] : Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity
+- [[2026-09-29_AIcompaniesleakdatatoadvertisers_pdf_.md]] : AI companies leak data to advertisers [pdf]
+- [[2026-09-29_YouAreNoLongerInvitedtoDinner.md]] : You Are No Longer Invited to Dinner
+- [[2026-09-29_OpenAIapologizestoAustraliaafteritsAIagentsbreache.md]] : OpenAI apologizes to Australia after its AI agents breached government sites
+- [[2026-09-29_WillChineseAIcompaniesslowdown_AtopHouseDemocratwa.md]] : Will Chinese AI companies slow down? A top House Democrat wants answers
+- [[2026-09-29_WithDazzle_MarissaMayerbetsyourcamerarollhasmorein.md]] : With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox
+- [[2026-09-29_Meta__8217_sMuseAIsentaYouTuber_saddresstoastrange.md]] : Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger
+- [[2026-09-29_Instinctfoundersaidmorethan50_oftransactionsonthep.md]] : Instinct founder said more than 50% of transactions on the platform are travel-related
+- [[2026-09-29_FromAIpredictiontoantibodyvalidationindays-News-Me.md]] : From AI prediction to antibody validation in days - News-Medical
+- [[2026-09-29_Canachatbotfixthegovernmentmaze_TheWhiteHouseisabo.md]] : Can a chatbot fix the government maze? The White House is about to find out
+- [[2026-09-29_GPT6_1Sol.md]] : GPT 6.1 Sol
+- [[2026-09-29_OpenAItakesonMicrosoftwiththelaunchofwhatfeelsawho.md]] : OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite
+- [[2026-09-29_OpenAIDevDay2026_Thebiggestnewsandannouncements.md]] : OpenAI DevDay 2026: The biggest news and announcements
+- [[2026-09-29_GPT6_1Sol_Near-Astraintelligenceforafifthofthepric.md]] : GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
+- [[2026-09-29_DevDay2026Recap.md]] : DevDay 2026 Recap
+- [[2026-09-29_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
+- [[2026-09-29_OpenAIrepotedlyintalkstoraise_30Broundat_1_4Tvalua.md]] : OpenAI repotedly in talks to raise $30B round at $1.4T valuation
+- [[2026-09-29_U_S_postalinspectorsshutdownwebsitesellingcounterf.md]] : U.S. postal inspectors shut down website selling counterfeit postage labels
+- [[2026-09-29_OpenAI_slatestfeaturestakedirectaimattheappstoremo.md]] : OpenAI’s latest features take direct aim at the app store model
+- [[2026-09-29_AIresearchersputoutvideossayingsuperintelligenceis.md]] : AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’
+- [[2026-09-29_IntroducingGPT-6_1Sol.md]] : Introducing GPT-6.1 Sol
+- [[2026-09-29_ElonMusk__8217_sAI-poweredGrokipediaisupdatingagai.md]] : Elon Musk&#8217;s AI-powered Grokipedia is updating again
+- [[2026-09-29_TrumpordersUSgovernmenttocallAI_SuperIntelligence_.md]] : Trump orders US government to call AI ‘Super Intelligence’
+- [[2026-09-29_TheinternetisconvincedElonMusk_sxAItrolledOpenAI_s.md]] : The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch
+- [[2026-09-29_Livenerf_HasOpus5_5beennerfedyet_.md]] : Livenerf: Has Opus 5.5 been nerfed yet?
+- [[2026-09-29_America_govgetsreallyweirdwhenyouaskitaboutMinecra.md]] : America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch
+- [[2026-09-29_SamAltmansaysOpenAIwon_tgopublicuntilitsmodelsares.md]] : Sam Altman says OpenAI won’t go public until its models are safe
+- [[2026-09-30_SamAltmansaysOpenAIwon_tgopublicuntilitsmodelsares.md]] : Sam Altman says OpenAI won’t go public until its models are safe
+- [[2026-09-30_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-09-30_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
+- [[2026-09-30_IntroducingGPT-6_1Sol.md]] : Introducing GPT-6.1 Sol
+- [[2026-09-30_America_govgetsreallyweirdwhenyouaskitaboutMinecra.md]] : America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch
+- [[2026-09-30_Livenerf_HasOpus5_5beennerfedyet_.md]] : Livenerf: Has Opus 5.5 been nerfed yet?
+- [[2026-09-30_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-09-30_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-09-30_September2026_Theworldtoday_asseenbyonePolishguy.md]] : September 2026: The world today, as seen by one Polish guy
+- [[2026-09-30_Pi_dev_YouSaidNoMCP.md]] : Pi.dev: You Said No MCP
+- [[2026-09-30_AirbnbaddsAIsearch_moresocialfeatures.md]] : Airbnb adds AI search, more social features
+- [[2026-09-30_Here_showtechleaderswillself-policeAIsafetyunderTr.md]] : Here’s how tech leaders will self-police AI safety under Trump’s deal
+- [[2026-09-30_HelpingsmallbusinessesputAItowork.md]] : Helping small businesses put AI to work
+- [[2026-09-30_TheAIRaceJustGotAwkward.md]] : The AI Race Just Got Awkward
+- [[2026-09-30_AllthelatestnewsonMeta_scute_creepyMuseAIagent.md]] : All the latest news on Meta’s cute, creepy Muse AI agent
+- [[2026-09-30_DoorDashlaunchesanAIagentyoucantexttoorderfood.md]] : DoorDash launches an AI agent you can text to order food
+- [[2026-09-30_MetadisputesclaimthatMusereadauser_sprivatemessage.md]] : Meta disputes claim that Muse read a user’s private messages without permission
+- [[2026-09-30_YouSaidNoMCP.md]] : You Said No MCP
+- [[2026-09-30_LaunchHN_Magnitude_YCS25__Self-optimizinginference.md]] : Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents
+- [[2026-09-30_RedditiskillingRSSfeedsandendingpublicAPIaccessbec.md]] : Reddit is killing RSS feeds and ending public API access because of AI bots
+- [[2026-09-30_OpenAI_sJevclonecouldhelpthefrontierlabstopitsswar.md]] : OpenAI’s Jev clone could help the frontier lab stop its swarming agents
+- [[2026-09-30_Gemini4Argon.md]] : Gemini 4 Argon
+- [[2026-09-30_TheAITamagotchisarecoming.md]] : The AI Tamagotchis are coming
+- [[2026-09-30_GoogleannouncesGemini4andsaysit__8217_ssocapableth.md]] : Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now
+- [[2026-09-30_Z_ai__Zai_org_onX.md]] : Z.ai (@Zai_org) on X
+- [[2026-09-30_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-09-30_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-09-30_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-09-30_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-09-30_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-09-30_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-09-30_GooglereleasesGemini4Argon_calleditsmostpowerfulmo.md]] : Google releases Gemini 4 Argon, called its most powerful model yet
+- [[2026-09-30_ElonMusk_sGrokipediahasa_newlyrefreshed_design.md]] : Elon Musk’s Grokipedia has a ‘newly refreshed’ design
+- [[2026-09-30_OpenAIrevealssixmoresafetyissuesandunveilsplantodi.md]] : OpenAI reveals six more safety issues and unveils plan to disclose incidents
+- [[2026-10-01_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-01_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-01_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-01_GooglereleasesGemini4Argon_calleditsmostpowerfulmo.md]] : Google releases Gemini 4 Argon, called its most powerful model yet
+- [[2026-10-01_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[2026-10-01_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
+- [[2026-10-01_Z_ai__Zai_org_onX.md]] : Z.ai (@Zai_org) on X
+- [[2026-10-01_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-01_ElonMusk_sGrokipediahasa_newlyrefreshed_design.md]] : Elon Musk’s Grokipedia has a ‘newly refreshed’ design
+- [[2026-10-01_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-01_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-01_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-01_OpenAIrevealssixmoresafetyissuesandunveilsplantodi.md]] : OpenAI reveals six more safety issues and unveils plan to disclose incidents
+- [[2026-10-01_Oct1_2026AnnouncementsBarclaysscalesClaudetoupgrad.md]] : Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience
+- [[2026-10-01_Qwen.md]] : Qwen
+- [[2026-10-01_AIsafetyadvocacygroupsuesOpenAIoverHuggingFaceinci.md]] : AI safety advocacy group sues OpenAI over Hugging Face incident
+- [[2026-10-01_Photonheldafuneralformobileapps_Nowithas_4_5Mtohel.md]] : Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents
+- [[2026-10-01_BrianCheskyinterview_AIagentsneedtheirownoperating.md]] : Brian Chesky interview: AI agents need their own operating system
+- [[2026-10-01_HowAlbertsonsCompaniesisreimaginingretailfromthein.md]] : How Albertsons Companies is reimagining retail from the inside out
+- [[2026-10-01_JudgedismissesantitrustlawsuitsoverGoogle_sAIOverv.md]] : Judge dismisses antitrust lawsuits over Google’s AI Overviews
+- [[2026-10-01_AmazonreleasesitsownJevcloneasdecisionmodelsfloodt.md]] : Amazon releases its own Jev clone as decision models flood the web
+- [[2026-10-01_OpenAIcutstieswith3safetyresearchers_WSJreports.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports
+- [[2026-10-01_ChatGPTcannowvirtuallytryonclothesforyou.md]] : ChatGPT can now virtually try on clothes for you
+- [[2026-10-01_Google_snewGuidedVisionfeaturecanhelpyoureadthefin.md]] : Google’s new Guided Vision feature can help you read the fine print
+- [[2026-10-01_Musk_sAIchatbotGrokreportedlyencouragedTrumptocapt.md]] : Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president
+- [[2026-10-01_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-01_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-10-01_ElevenLabsgivesuniversitystudentsfreeAItools_ETIHE.md]] : ElevenLabs gives university students free AI tools | ETIH EdTech News
+- [[2026-10-02_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-02_Google_snewGuidedVisionfeaturecanhelpyoureadthefin.md]] : Google’s new Guided Vision feature can help you read the fine print
+- [[2026-10-02_Oct1_2026AnnouncementsBarclaysscalesClaudetoupgrad.md]] : Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience
+- [[2026-10-02_Musk_sAIchatbotGrokreportedlyencouragedTrumptocapt.md]] : Musk’s AI chatbot Grok reportedly encouraged Trump to capture Venezuela’s president
+- [[2026-10-02_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-02_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-02_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-02_ElevenLabsgivesuniversitystudentsfreeAItools_ETIHE.md]] : ElevenLabs gives university students free AI tools | ETIH EdTech News
+- [[2026-10-02_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-02_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
+- [[2026-10-02_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-02_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-02_Z_ai__Zai_org_onX.md]] : Z.ai (@Zai_org) on X
+- [[2026-10-02_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-10-02_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-02_Qwen.md]] : Qwen
+- [[2026-10-02_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-02_AIhallucinationsaremakingentitledcustomersevenwors.md]] : AI hallucinations are making entitled customers even worse
+- [[2026-10-02_TechCrunchDisrupt2026_Blackstone_sJasKhairaonbuild.md]] : TechCrunch Disrupt 2026: Blackstone’s Jas Khaira on building the next generation of AI giants
+- [[2026-10-02_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
+- [[2026-10-02_PopeLeoXIVisnotafanofAI-generatedart.md]] : Pope Leo XIV is not a fan of AI-generated art
+- [[2026-10-02_CircuitBreakerLabshopestomakeAIsaferforyourkids_an.md]] : Circuit Breaker Labs hopes to make AI safer for your kids (and you)
+- [[2026-10-02_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+- [[2026-10-02_Applesaysit_stighteningmacOS_FullDiskAccess_contro.md]] : Apple says it’s tightening macOS ‘Full Disk Access’ controls due to new risks from AI agents
+- [[2026-10-02_OpenAI_sDotagentisenterprisesoftwarethatcanalsoord.md]] : OpenAI’s Dot agent is enterprise software that can also order your dinner
+- [[2026-10-02_ApplewilllimitMacdiskaccessasAIagents_substantiall.md]] : Apple will limit Mac disk access as AI agents ‘substantially’ increase risk
+- [[2026-10-02_MetaopensourcescodetoletyoumakeMuseAIgadgets.md]] : Meta open sources code to let you make Muse AI gadgets
+- [[2026-10-02_SeanParkerisrebuildingStabilityAIaroundmusic.md]] : Sean Parker is rebuilding Stability AI around music
+- [[2026-10-02_OpenAIfires3safetyresearchersaccusedofsharingconfi.md]] : OpenAI fires 3 safety researchers accused of sharing confidential company information: report
+- [[2026-10-02_MetawantsyournextgadgettobeMuse-infused.md]] : Meta wants your next gadget to be Muse-infused
+- [[2026-10-03_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-03_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-03_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
+- [[2026-10-03_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-03_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-03_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-03_MetaopensourcescodetoletyoumakeMuseAIgadgets.md]] : Meta open sources code to let you make Muse AI gadgets
+- [[2026-10-03_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-10-03_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-03_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-03_MetawantsyournextgadgettobeMuse-infused.md]] : Meta wants your next gadget to be Muse-infused
+- [[2026-10-03_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+- [[2026-10-03_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-03_OpenAIsafetyemployeeresigns_claimingthecompany_s_c.md]] : OpenAI safety employee resigns, claiming the company’s ‘culture is broken’
+- [[2026-10-03_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-03_InsideOpenAI_sAgentContainmentBreachesandtheGPT-6_.md]] : Inside OpenAI's Agent Containment Breaches and the GPT-6.1 Astra Delay | MindStudio
+- [[2026-10-03_Capcomispreparingfora_futurewherewecreategamestoge.md]] : Capcom is preparing for a ‘future where we create games together with AI’
+- [[2026-10-04_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-04_Capcomispreparingfora_futurewherewecreategamestoge.md]] : Capcom is preparing for a ‘future where we create games together with AI’
+- [[2026-10-04_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-04_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-04_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
+- [[2026-10-04_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+- [[2026-10-04_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-04_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-04_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-04_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-04_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-04_OpenAIcutstieswith3safetyresearchers_WSJreports_Te.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch
+- [[2026-10-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-10-04_OpenAIDiscloses6NewSafetyIncidents.md]] : OpenAI Discloses 6 New Safety Incidents
+- [[2026-10-04_TrumpunveilshisnewSuperIntelligenceForce.md]] : Trump unveils his new Super Intelligence Force
+- [[2026-10-04_VivekMurthytoleadCommonSenseyouthAIsafetyinstitute.md]] : Vivek Murthy to lead Common Sense youth AI safety institute | ETIH EdTech News
+- [[2026-10-05_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-05_VivekMurthytoleadCommonSenseyouthAIsafetyinstitute.md]] : Vivek Murthy to lead Common Sense youth AI safety institute | ETIH EdTech News
+- [[2026-10-05_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-05_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-05_OpenAIcutstieswith3safetyresearchers_WSJreports_Te.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch
+- [[2026-10-05_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
+- [[2026-10-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-05_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+- [[2026-10-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-05_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-05_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-05_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-05_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-10-05_BuildingadvertisingforthewaypeopleuseAI.md]] : Building advertising for the way people use AI
+- [[2026-10-05_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-05_Anopen-sourcetoolletsyoudelete12GBofAppleIntellige.md]] : An open-source tool lets you delete 12GB of Apple Intelligence data on macOS
+- [[2026-10-05_Sen_AdamSchiffonAIregulation_freespeech_andimpeach.md]] : Sen. Adam Schiff on AI regulation, free speech, and impeaching Trump one more time
+- [[2026-10-05_OpenAIDiscloses6NewSafetyIncidents.md]] : OpenAI Discloses 6 New Safety Incidents
+- [[2026-10-05_OurapproachtoEUtextprovenancerules.md]] : Our approach to EU text provenance rules
+- [[2026-10-05_OpenAIlaunchesvisualadsthatappearalongsideimagegen.md]] : OpenAI launches visual ads that appear alongside image generation results
+- [[2026-10-05_HotGirlHotlineislike_DearAbby_fortheAIera.md]] : Hot Girl Hotline is like ‘Dear Abby’ for the AI era
+- [[2026-10-05_TikTokrollsoutanAIshoppingassistantandone-clickche.md]] : TikTok rolls out an AI shopping assistant and one-click checkout
+- [[2026-10-05_OpenAIisaddingtextwatermarkinginChatGPTandCodex.md]] : OpenAI is adding text watermarking in ChatGPT and Codex
+- [[2026-10-05_OpenAIPRtellsjournalistto_moveon_whileaskingSamAlt.md]] : OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide
+- [[2026-10-05_ReflectiondebutsBeam_aopen-weightAImodeltorivalChi.md]] : Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost
+- [[2026-10-05_ReflectiondebutsBeam_anopen-weightAImodeltorivalCh.md]] : Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost
+- [[2026-10-05_ThisstartupisissuingAI-generatedacneprescriptions.md]] : This startup is issuing AI-generated acne prescriptions
+- [[2026-10-05_OpenAIwillstartwatermarkingChatGPT_stextintheEU.md]] : OpenAI will start watermarking ChatGPT’s text in the EU
+- [[2026-10-05_GeminiCallforMemighttellyourmomyou__8217_rerunning.md]] : Gemini Call for Me might tell your mom you&#8217;re running late
+- [[2026-10-05_BristolMyersSquibbaccelerateslife-changingscientif.md]] : Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI
+- [[2026-10-06_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-06_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-06_BristolMyersSquibbaccelerateslife-changingscientif.md]] : Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI
+- [[2026-10-06_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
+- [[2026-10-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-06_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-06_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
+- [[2026-10-06_OpenAIcutstieswith3safetyresearchers_WSJreports_Te.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch
+- [[2026-10-06_OpenAIwillstartwatermarkingChatGPT_stextintheEU.md]] : OpenAI will start watermarking ChatGPT’s text in the EU
+- [[2026-10-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-06_OurapproachtoEUtextprovenancerules.md]] : Our approach to EU text provenance rules
+- [[2026-10-06_GeminiCallforMemighttellyourmomyou__8217_rerunning.md]] : Gemini Call for Me might tell your mom you&#8217;re running late
+- [[2026-10-06_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-06_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-06_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-06_AmazonAlexaPluskeepscreepilysinging_lalala_forminu.md]] : Amazon Alexa Plus keeps creepily singing ‘lalala’ for minutes on end
+- [[2026-10-06_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-06_Pinterest_sAInowturnsbeautyPinsintoactionplans.md]] : Pinterest’s AI now turns beauty Pins into action plans
+- [[2026-10-06_GoogleisabouttoremovefreeaccesstoGeminiFlashandPro.md]] : Google is about to remove free access to Gemini Flash and Pro
+- [[2026-10-06_Mistral_snew1Tmodelaimstoleapfrogclosedandopenriva.md]] : Mistral’s new 1T model aims to leapfrog closed and open rivals
+- [[2026-10-06_UnlockingEarthAI_splanetarygeospatialfoundationmod.md]] : Unlocking Earth AI’s planetary geospatial foundation models for global public health
+- [[2026-10-06_LibreOfficesays_noAI_isnowasoftwarefeature.md]] : LibreOffice says ‘no AI’ is now a software feature
+- [[2026-10-06_AtlassianandOpenAIexpandpartnershiptoturnenterpris.md]] : Atlassian and OpenAI expand partnership to turn enterprise knowledge into action
+- [[2026-10-06_HarkreleasesanAIpersonalassistantwithafocusonpriva.md]] : Hark releases an AI personal assistant with a focus on privacy
+- [[2026-10-06_AdvancingcomputerusewithIronclad.md]] : Advancing computer use with Ironclad
+- [[2026-10-06_Oct6_2026AnnouncementsExpandingtheCyberVerificatio.md]] : Oct 6, 2026 Announcements Expanding the Cyber Verification Program
+- [[2026-10-06_ThenexthurdleforAIagents_gettingwebsitestoletthemi.md]] : The next hurdle for AI agents: getting websites to let them in
+- [[2026-10-06_HowAIdecisionmodelscouldchangecontentmoderation.md]] : How AI decision models could change content moderation
+- [[2026-10-06_Ex-Rampengineersraise_20MforplatformMeliusafterscr.md]] : Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product
+- [[2026-10-06_SharingAIprogressinmathematics.md]] : Sharing AI progress in mathematics
+- [[2026-10-06_OpenAIdropsanotherbatchofmathematicalbreakthroughs.md]] : OpenAI drops another batch of mathematical breakthroughs
+- [[2026-10-06_HowJumpTradingisscalingquantresearchwithChatGPT.md]] : How Jump Trading is scaling quant research with ChatGPT
+- [[2026-10-06_HowJumpTradingisscalingquantresearchwithChatGPT-Op.md]] : How Jump Trading is scaling quant research with ChatGPT - OpenAI
+- [[2026-10-07_Ex-Rampengineersraise_20MforplatformMeliusafterscr.md]] : Ex-Ramp engineers raise $20M for platform Melius after scrapping their first product
+- [[2026-10-07_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
+- [[2026-10-07_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
+- [[2026-10-07_HowJumpTradingisscalingquantresearchwithChatGPT.md]] : How Jump Trading is scaling quant research with ChatGPT
+- [[2026-10-07_UnlockingEarthAI_splanetarygeospatialfoundationmod.md]] : Unlocking Earth AI’s planetary geospatial foundation models for global public health
+- [[2026-10-07_AIatMetaBlog.md]] : AI at Meta Blog
+- [[2026-10-07_OpenAIdropsanotherbatchofmathematicalbreakthroughs.md]] : OpenAI drops another batch of mathematical breakthroughs
+- [[2026-10-07_OpenAIcutstieswith3safetyresearchers_WSJreports_Te.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch
+- [[2026-10-07_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[2026-10-07_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-07_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[2026-10-07_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
+- [[2026-10-07_Oct6_2026AnnouncementsExpandingtheCyberVerificatio.md]] : Oct 6, 2026 Announcements Expanding the Cyber Verification Program
+- [[2026-10-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-07_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
+- [[2026-10-07_ChatGPTforTeensisan_unacceptablerisk__saysCommonSe.md]] : ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media
+- [[2026-10-07_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
+- [[2026-10-07_TonyFadellonwhythefirstwaveofAIgadgetsfailed_andwh.md]] : Tony Fadell on why the first wave of AI gadgets failed — and what comes next
+- [[2026-10-07_Helpingteenslearn_plan_andshapethefutureofAI.md]] : Helping teens learn, plan, and shape the future of AI
+- [[2026-10-07_ChatGPTisgettingcollegeplanningtools.md]] : ChatGPT is getting college planning tools
+- [[2026-10-07_Healthleapraises_38MforitsAIthatflagshospitalpatie.md]] : Healthleap raises $38M for its AI that flags hospital patients who may need a closer look
+- [[2026-10-07_MetarollsoutnewAItoolstodetectadsthatsecretlyleadt.md]] : Meta rolls out new AI tools to detect ads that secretly lead to child sexual abuse material
+- [[2026-10-07_ChatGPTisgettingalotmorevisual_withthelaunchofanew.md]] : ChatGPT is getting a lot more visual, with the launch of a new interface
+- [[2026-10-07_MicrosoftisgivingCopilotmorecontroloverWindowsandy.md]] : Microsoft is giving Copilot more control over Windows and your files
+- [[2026-10-07_Meta_sMuselaunchesoniPadjustamonthafteritsmobilede.md]] : Meta’s Muse launches on iPad just a month after its mobile debut
+- [[2026-10-07_ChatGPT__8217_s__8216_IntelligentUI__8217_updatefi.md]] : ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons
+- [[2026-10-07_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
+- [[2026-10-07_NousResearchconfirmsithit_1_5Bvaluation_launchesAI.md]] : Nous Research confirms it hit $1.5B valuation, launches AI agents for business users
+- [[2026-10-08_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
+- [[2026-10-08_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-08_NousResearchconfirmsithit_1_5Bvaluation_launchesAI.md]] : Nous Research confirms it hit $1.5B valuation, launches AI agents for business users
+- [[2026-10-08_ChatGPT__8217_s__8216_IntelligentUI__8217_updatefi.md]] : ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons
+- [[2026-10-08_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
+- [[2026-10-08_Helpingteenslearn_plan_andshapethefutureofAI.md]] : Helping teens learn, plan, and shape the future of AI
+- [[2026-10-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-08_China_sManusraisesover_500Minfirstfundingroundsinc.md]] : China’s Manus raises over $500M in first funding round since split with Meta
+- [[2026-10-08_5daystoTechCrunchDisrupt2026_Don_tpaymoreatthedoor.md]] : 5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass
+- [[2026-10-08_CanyoutrustMeta_sMuseorOpenAI_sDotstorunyourlife_.md]] : Can you trust Meta’s Muse or OpenAI’s Dots to run your life?
+- [[2026-10-08_DisruptingAI-enabled_falsefront_operations.md]] : Disrupting AI-enabled “false front” operations
+- [[2026-10-08_Googleislaunchingaone-stopGeminiagentforyourworkta.md]] : Google is launching a one-stop Gemini agent for your work tasks
+- [[2026-10-08_Natura_s_99smartringputsAIagentsonyourfinger.md]] : Natura’s $99 smart ring puts AI agents on your finger
+- [[2026-10-08_Goodfiresaysitsnew_inside-out_monitorscatchrogueAI.md]] : Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost
+- [[2026-10-08_USATodaybecomesthelatestpublishertosueOpenAI.md]] : USA Today becomes the latest publisher to sue OpenAI
+- [[2026-10-08_FiredOpenAIsafetyresearchersdisputemisconductclaim.md]] : Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect
+- [[2026-10-08_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md]] : Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website
+- [[2026-10-08_AnthropiclaunchesfreeAIsecurityscansforopen-source.md]] : Anthropic launches free AI security scans for open-source projects
+- [[2026-10-08_LegalOnhalvesCodexcostswhilemaintainingdevelopment.md]] : LegalOn halves Codex costs while maintaining development speed - OpenAI
