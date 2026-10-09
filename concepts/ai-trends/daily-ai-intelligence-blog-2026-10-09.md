@@ -13,6 +13,7 @@ sources:
   - "https://openai.com/index/legalon-halves-codex-costs/"
   - "https://research.google/blog/does-better-work-always-mean-better-workers/"
   - "https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers"
+  - "https://apnews.com/article/789d4f5293fba45a22fcb62ebfbc2a41"
   - "https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/"
   - "https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack"
   - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-09_11-53.md"
@@ -81,7 +82,7 @@ The study's mechanism is plausible: senior lawyers used AI as a logic auditor ag
 
 ### 7. Internal safety culture remains a deployment control
 
-The [OpenAI dismissal dispute](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers) remains contested. OpenAI says three safety researchers were dismissed for a significant breach of trust and violations of sensitive-information policies; the researchers say they were fired after raising safety concerns and argue that the company should explain the decision more transparently. The available record does not establish which account is correct.
+The [OpenAI dismissal dispute](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers), also reported by the [Associated Press](https://apnews.com/article/789d4f5293fba45a22fcb62ebfbc2a41), remains contested. OpenAI says three safety researchers were dismissed for a significant breach of trust and violations of sensitive-information policies; the researchers say they were fired after raising safety concerns and argue that the company should explain the decision more transparently. The additional reporting corroborates that the dispute is active, but does not establish which account is correct.
 
 The governance signal is still material: frontier safety depends on incident reporting, evaluator access, dissent, and external collaboration. When policy boundaries and protections are unclear, the organization can lose the information needed to detect and correct failures in increasingly capable systems.
 
@@ -130,6 +131,7 @@ The day links six layers that are often managed separately: model capability, ac
 - [OpenAI — LegalOn halves Codex costs](https://openai.com/index/legalon-halves-codex-costs/)
 - [Google Research — Does better work always mean better workers?](https://research.google/blog/does-better-work-always-mean-better-workers/)
 - [The Verge — OpenAI defends decision to fire safety researchers](https://www.theverge.com/ai-artificial-intelligence/1008604/openai-defends-decision-fire-safety-researchers)
+- [Associated Press — OpenAI fires 3 safety researchers in dispute over AI risks](https://apnews.com/article/789d4f5293fba45a22fcb62ebfbc2a41)
 - [TechCrunch — A16z's Olivia Moore on the state of consumer AI](https://techcrunch.com/2026/10/09/a16zs-olivia-moore-on-the-state-of-consumer-ai/)
 - [Axios — AI companies scenario-plan for catastrophic incidents](https://www.axios.com/2026/10/09/ai-companies-day-after-major-attack) — deferred secondary signal; not treated as an established event without primary corroboration.
 - [arXiv scout log — 2026-10-09 11:53 UTC](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-09_11-53.md)
