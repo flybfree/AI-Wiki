@@ -5,6 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-09 12:00] summarize | refreshed the canonical October 9 AI-only briefing after the late TechCrunch consumer-AI intake and direct major-lab/news sweep; retained nine AI-relevant article captures, excluded the Elizabeth Holmes marketing capture and unusable Instinct/Muse summary, added consumer-AI economics, updated arXiv coverage to the 11:53 UTC recovery pass with 14 queries across 33 pages and 2,300 entries, and kept no-paper-promoted because page-level curation was not complete; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-10-09 06:00] summarize | created the canonical October 9 AI-only briefing from eight local AI-relevant article captures plus the direct major-lab/news sweep; synthesized controlled cyber access, staged open weights, verifier-aware task training, model routing economics, workforce learning, and the contested OpenAI safety-researcher dismissal dispute; excluded the Elizabeth Holmes marketing capture; latest arXiv pass completed 14 queries across 34 pages with 2,350 entries and 0 incomplete queries, but page-level paper curation was not complete, so no paper was promoted; Logseq mirror synchronized; GitHub commit and push required
 
 ## [2026-10-09 00:00] publish | 2026-10-08 canonical final published; complete local-time curation query returned 4 keeps, normalized to 4 existing canonical summaries with visible original-paper URLs; final briefing contains 4 unique paper links; wiki/Logseq mirror byte-identical; GitHub commit 7d7c526b pushed and origin/master verified; Lumistorm post 223 created at https://lumistorm.net/daily-ai-intelligence-2026-10-08/; REST/readback, published status, Daily AI Briefing category, cache-busted live page, archive ordering, source links, date, and raw-wiki-syntax checks passed
@@ -16049,3 +16050,5 @@ tags: ['wiki']
 ## [2026-10-09 01:34] ingest | 2026-10-09_ASafePathtoOpenWeights.md
 ## [2026-10-09 01:34] ingest | 2026-10-09_Doesbetterworkalwaysmeanbetterworkers_.md
 ## [2026-10-09 05:26] ingest | 2026-10-09_OpenAIdoublesdownondecisiontofirethreeAIsafetyrese.md
+## [2026-10-09 09:23] ingest | 2026-10-09_InstinctwasthebuzziestAIagentaround_canitsurviveMu.md
+## [2026-10-09 11:21] ingest | 2026-10-09_A16z_sOliviaMooreonthestateofconsumerAI.md

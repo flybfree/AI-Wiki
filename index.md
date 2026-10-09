@@ -3288,3 +3288,5 @@ tags: ['wiki']
 - [[2026-10-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-09_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
 - [[2026-10-09_OpenAIdoublesdownondecisiontofirethreeAIsafetyrese.md]] : OpenAI doubles down on decision to fire three AI safety researchers
+- [[2026-10-09_InstinctwasthebuzziestAIagentaround_canitsurviveMu.md]] : Instinct was the buzziest AI agent around — can it survive Muse?
+- [[2026-10-09_A16z_sOliviaMooreonthestateofconsumerAI.md]] : A16z’s Olivia Moore on the state of consumer AI
