@@ -16052,3 +16052,5 @@ tags: ['wiki']
 ## [2026-10-09 05:26] ingest | 2026-10-09_OpenAIdoublesdownondecisiontofirethreeAIsafetyrese.md
 ## [2026-10-09 09:23] ingest | 2026-10-09_InstinctwasthebuzziestAIagentaround_canitsurviveMu.md
 ## [2026-10-09 11:21] ingest | 2026-10-09_A16z_sOliviaMooreonthestateofconsumerAI.md
+## [2026-10-09 13:15] ingest | 2026-10-09_Nikonmicroscopicvideocompetitionwinnerdisqualified.md
+## [2026-10-09 14:31] ingest | 2026-10-09___8216_Pureinsanity__8217__Mathematicianswillneedy.md

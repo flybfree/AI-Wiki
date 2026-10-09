@@ -3290,3 +3290,5 @@ tags: ['wiki']
 - [[2026-10-09_OpenAIdoublesdownondecisiontofirethreeAIsafetyrese.md]] : OpenAI doubles down on decision to fire three AI safety researchers
 - [[2026-10-09_InstinctwasthebuzziestAIagentaround_canitsurviveMu.md]] : Instinct was the buzziest AI agent around — can it survive Muse?
 - [[2026-10-09_A16z_sOliviaMooreonthestateofconsumerAI.md]] : A16z’s Olivia Moore on the state of consumer AI
+- [[2026-10-09_Nikonmicroscopicvideocompetitionwinnerdisqualified.md]] : Nikon microscopic video competition winner disqualified for using generative AI
+- [[2026-10-09___8216_Pureinsanity__8217__Mathematicianswillneedy.md]] : &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop
