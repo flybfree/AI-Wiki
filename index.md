@@ -3305,3 +3305,5 @@ tags: ['wiki']
 - [[2026-10-10_Anthropiccan_treliablycontrolitsAIagents_It_scutti.md]] : Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
 - [[2026-10-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-10_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
+- [[2026-10-10_ExpandingtheCyberVerificationProgram.md]] : Expanding the Cyber Verification Program
+- [[2026-10-10_Sophoscutsthreatinvestigationtimeby96_withOpenAIDa.md]] : Sophos cuts threat investigation time by 96% with OpenAI Daybreak

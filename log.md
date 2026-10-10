@@ -16069,3 +16069,5 @@ tags: ['wiki']
 ## [2026-10-10 00:06] ingest | 2026-10-10_Anthropiccan_treliablycontrolitsAIagents_It_scutti.md
 ## [2026-10-10 00:06] ingest | 2026-10-10_ASafePathtoOpenWeights.md
 ## [2026-10-10 00:06] ingest | 2026-10-10_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md
+## [2026-10-10 07:02] ingest | 2026-10-10_ExpandingtheCyberVerificationProgram.md
+## [2026-10-10 08:02] ingest | 2026-10-10_Sophoscutsthreatinvestigationtimeby96_withOpenAIDa.md
