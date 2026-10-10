@@ -3295,3 +3295,4 @@ tags: ['wiki']
 - [[2026-10-09_AnAnthropicAImodelsentafalsehomicidetiptoPhiladelp.md]] : An Anthropic AI model sent a false homicide tip to Philadelphia police
 - [[2026-10-09_Anthropic_sAIgavePhiladelphiapoliceafaketipaboutan.md]] : Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide
 - [[2026-10-09_Themakerofnon-textAImodelJevvaluedat_7_5Bjustweeks.md]] : The maker of non-text AI model Jev valued at $7.5B just weeks after launch
+- [[2026-10-09_Anthropiccan_treliablycontrolitsAIagents_It_scutti.md]] : Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead

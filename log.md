@@ -16058,3 +16058,4 @@ tags: ['wiki']
 ## [2026-10-09 15:28] ingest | 2026-10-09_AnAnthropicAImodelsentafalsehomicidetiptoPhiladelp.md
 ## [2026-10-09 16:24] ingest | 2026-10-09_Anthropic_sAIgavePhiladelphiapoliceafaketipaboutan.md
 ## [2026-10-09 17:18] ingest | 2026-10-09_Themakerofnon-textAImodelJevvaluedat_7_5Bjustweeks.md
+## [2026-10-09 19:52] ingest | 2026-10-09_Anthropiccan_treliablycontrolitsAIagents_It_scutti.md
