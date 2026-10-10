@@ -3297,3 +3297,10 @@ tags: ['wiki']
 - [[2026-10-09_Themakerofnon-textAImodelJevvaluedat_7_5Bjustweeks.md]] : The maker of non-text AI model Jev valued at $7.5B just weeks after launch
 - [[2026-10-09_Anthropiccan_treliablycontrolitsAIagents_It_scutti.md]] : Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
 - [[2026-10-09_HowCanAIResponsiblyOpenAccesstoGovernmentData_AnEv.md]] : How Can AI Responsibly Open Access to Government Data? An Evaluation of the National ...
+- [[2026-10-10_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-10_Anthropic_sAIgavePhiladelphiapoliceafaketipaboutan.md]] : Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide
+- [[2026-10-10_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
+- [[2026-10-10_HowCanAIResponsiblyOpenAccesstoGovernmentData_AnEv.md]] : How Can AI Responsibly Open Access to Government Data? An Evaluation of the National ...
+- [[2026-10-10_Anthropiccan_treliablycontrolitsAIagents_It_scutti.md]] : Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
+- [[2026-10-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-10_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
