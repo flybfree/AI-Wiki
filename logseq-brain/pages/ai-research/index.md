@@ -98,6 +98,7 @@ tags: ['wiki']
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md|Summary: Daily AI Intelligence Briefing — 2026-10-07]] — canonical final; capability-plus-control stack, containment, harness fit, trust-boundary failures, evaluation, and 10 curated research papers
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-08.md|Summary: Daily AI Intelligence Briefing — 2026-10-08]] — canonical final; generated interfaces, persistent enterprise agents, cyber mission and verified access, staged open weights, verifiable task expertise, workforce learning, safety culture, and 4 curated research papers
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-09.md) — canonical final; controlled cyber access, civic-boundary test failure, staged open weights, verifier-aware task training, model routing economics, specialized decision models, workforce learning, safety culture, and 1 carried-forward research paper
 ### Knowledge Management & Wiki Ops
 - [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — GitHub wiki, local working copy, Logseq mirror, and PRISM user working copy
 - [[concepts/knowledge-management/wiki-usage-cheat-sheet.md|Wiki Usage Cheat Sheet]] — quick guide for page types and where each system fits
@@ -3279,3 +3280,20 @@ tags: ['wiki']
 - [[2026-10-08_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md]] : Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website
 - [[2026-10-08_AnthropiclaunchesfreeAIsecurityscansforopen-source.md]] : Anthropic launches free AI security scans for open-source projects
 - [[2026-10-08_LegalOnhalvesCodexcostswhilemaintainingdevelopment.md]] : LegalOn halves Codex costs while maintaining development speed - OpenAI
+- [[2026-10-09_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
+- [[2026-10-09_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md]] : Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website
+- [[2026-10-09_AnthropiclaunchesfreeAIsecurityscansforopen-source.md]] : Anthropic launches free AI security scans for open-source projects
+- [[2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-09_LegalOnhalvesCodexcostswhilemaintainingdevelopment.md]] : LegalOn halves Codex costs while maintaining development speed - OpenAI
+- [[2026-10-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-09_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
+- [[2026-10-09_OpenAIdoublesdownondecisiontofirethreeAIsafetyrese.md]] : OpenAI doubles down on decision to fire three AI safety researchers
+- [[2026-10-09_InstinctwasthebuzziestAIagentaround_canitsurviveMu.md]] : Instinct was the buzziest AI agent around — can it survive Muse?
+- [[2026-10-09_A16z_sOliviaMooreonthestateofconsumerAI.md]] : A16z’s Olivia Moore on the state of consumer AI
+- [[2026-10-09_Nikonmicroscopicvideocompetitionwinnerdisqualified.md]] : Nikon microscopic video competition winner disqualified for using generative AI
+- [[2026-10-09___8216_Pureinsanity__8217__Mathematicianswillneedy.md]] : &#8216;Pure insanity&#8217;: Mathematicians will need years to make sense of OpenAI&#8217;s latest drop
+- [[2026-10-09_AnAnthropicAImodelsentafalsehomicidetiptoPhiladelp.md]] : An Anthropic AI model sent a false homicide tip to Philadelphia police
+- [[2026-10-09_Anthropic_sAIgavePhiladelphiapoliceafaketipaboutan.md]] : Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide
+- [[2026-10-09_Themakerofnon-textAImodelJevvaluedat_7_5Bjustweeks.md]] : The maker of non-text AI model Jev valued at $7.5B just weeks after launch
+- [[2026-10-09_Anthropiccan_treliablycontrolitsAIagents_It_scutti.md]] : Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
+- [[2026-10-09_HowCanAIResponsiblyOpenAccesstoGovernmentData_AnEv.md]] : How Can AI Responsibly Open Access to Government Data? An Evaluation of the National ...

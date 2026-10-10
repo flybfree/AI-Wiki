@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-10-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-09.md), covering controlled cyber access, staged open weights, verifier-aware task training, model routing economics, workforce learning, safety culture, and incomplete paper curation.
+The latest canonical daily briefing is [2026-10-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-09.md), covering controlled cyber access, staged open weights, verifier-aware task training, model routing economics, workforce learning, safety culture, and one uncovered coding-agent reliability paper.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
