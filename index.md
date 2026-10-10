@@ -3307,3 +3307,5 @@ tags: ['wiki']
 - [[2026-10-10_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
 - [[2026-10-10_ExpandingtheCyberVerificationProgram.md]] : Expanding the Cyber Verification Program
 - [[2026-10-10_Sophoscutsthreatinvestigationtimeby96_withOpenAIDa.md]] : Sophos cuts threat investigation time by 96% with OpenAI Daybreak
+- [[2026-10-10_AIagentmakersarepromisingprivacy_willtheydeliver_.md]] : AI agent makers are promising privacy — will they deliver?
+- [[2026-10-10_Anthropiciscuttingoffitsinternalevaluationsfromthe.md]] : Anthropic is cutting off its internal evaluations from the internet

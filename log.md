@@ -16071,3 +16071,5 @@ tags: ['wiki']
 ## [2026-10-10 00:06] ingest | 2026-10-10_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md
 ## [2026-10-10 07:02] ingest | 2026-10-10_ExpandingtheCyberVerificationProgram.md
 ## [2026-10-10 08:02] ingest | 2026-10-10_Sophoscutsthreatinvestigationtimeby96_withOpenAIDa.md
+## [2026-10-10 09:02] ingest | 2026-10-10_AIagentmakersarepromisingprivacy_willtheydeliver_.md
+## [2026-10-10 09:59] ingest | 2026-10-10_Anthropiciscuttingoffitsinternalevaluationsfromthe.md
