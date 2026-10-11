@@ -3,6 +3,8 @@ Saved: 2026-07-23 23:35
 Source: 2026-06-24_18-38-26Z_TheRedQueenGödelMachine_Co_EvolvingAgentsandTheirE.md
 Model: None
 
+**Original paper**: [arXiv: The Red Queen Gödel Machine](http://arxiv.org/abs/2606.26294v2)
+
 ---
 
 ## Summary  

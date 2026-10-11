@@ -113,7 +113,18 @@ The direct lab sweep also found two governance signals that should remain distin
 
 ## Research intake and curation status
 
-The latest [arXiv scout pass](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-10_17-36.md) ran all 14 configured queries, fetched 23 pages, and saw 1,550 entries. Coverage is **incomplete**: `topic-fine-tuning` and `topic-benchmark` each received HTTP 429 rate limits and fetched zero pages. The pass produced 431 high-priority candidates, but page-level paper curation was not complete by this run, so **no paper was promoted**. This is not a clean zero-result research day; candidate review remains pending and two query families remain uncovered.
+The final [arXiv scout pass](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-10_23-38.md) completed all 14 configured queries, fetched 25 pages, and saw 1,600 entries with no incomplete query families. The target-date curation query returned **0 papers kept on October 10, 2026**. This is therefore not a clean zero-result research day: the final carry-forward audit found **4 approved papers** that had been kept earlier but were not linked by any prior daily briefing. After filename-stem normalization and canonical-path resolution, all four existing summary pages were verified and linked below.
+
+### Approved research papers carried forward
+
+These papers are included because they were approved through curation and remained uncovered by earlier daily briefings—not because they were newly ingested on October 10.
+
+1. [Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-29_18-33-27Z_Self_EvolvingHarnessonMultipleTaskswiththeA_summary.md) — A frozen model can act as both solver and harness optimizer, improving context management across five domains; the reported out-of-distribution gain is larger than the in-distribution gain. **Why it matters:** self-improvement is moving from prompt edits toward measurable runtime/harness evolution.
+2. [Mendel Gödel Machine: Recursive Self-Improving Coding Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-08-07_16-46-44Z_MendelGödelMachine_RecursiveSelf_ImprovingC_summary.md) — Reaction-norm mutation and cross-lineage hybridization use trajectories across tasks and lineages to improve coding agents. **Why it matters:** multi-task evolutionary signals may converge faster than single-trajectory mutation.
+3. [The Red Queen Gödel Machine: Co-Evolving Agents and Their Evaluators](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-06-24_18-38-26Z_TheRedQueenGödelMachine_Co_EvolvingAgentsan_summary.md) — Agents and evaluators evolve together as the utility landscape changes, with reported gains in coding, writing, and grading. **Why it matters:** static benchmarks are weak foundations for systems that optimize against changing objectives.
+4. [Ω-QVLA: Robust Quantization for Vision-Language-Action Models](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/papers/2026-05-27_17-55-01Z_Ω_QVLA_RobustQuantizationforVision_Language_summary.md) — Uniform W4A4 quantization compresses both the language backbone and diffusion action head while preserving reported LIBERO success rates and reducing memory by 71.3%. **Why it matters:** practical on-device embodied AI depends on compressing the control head, not only the language model.
+
+**Paper-link audit:** target-date keeps: 0; uncovered carry-forward papers: 4; final briefing paper links: 4; unique canonical summary targets: 4. Each linked summary contains a visible canonical arXiv URL. No unresolved or truncated curation paths remain.
 
 ## Watch next
 

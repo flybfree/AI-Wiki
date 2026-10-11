@@ -3,6 +3,8 @@ Saved: 2026-08-10 22:38
 Source: 2026-08-07_16-46-44Z_MendelGödelMachine_RecursiveSelf_ImprovingCodingAg.md
 Model: None
 
+**Original paper**: [arXiv: Mendel Gödel Machine](http://arxiv.org/abs/2608.07645v1)
+
 ---
 
 ## Summary  

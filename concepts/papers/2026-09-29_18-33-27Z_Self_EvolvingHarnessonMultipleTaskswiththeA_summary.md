@@ -3,6 +3,8 @@ Saved: 2026-09-30 21:17
 Source: 2026-09-29_18-33-27Z_Self_EvolvingHarnessonMultipleTaskswiththeAgentasI.md
 Model: qwen3.6-35b-a3b
 
+**Original paper**: [arXiv: Self-Evolving Harness on Multiple Tasks with the Agent as Its Own Optimizer](http://arxiv.org/abs/2609.38372v1)
+
 ---
 
 ## Summary
