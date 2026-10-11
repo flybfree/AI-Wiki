@@ -3313,3 +3313,10 @@ tags: ['wiki']
 - [[2026-10-10_Microsoft_sSatyaNadellasaysAImodelsneedan_emergenc.md]] : Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
 - [[2026-10-10_SatyaNadellasaysweshouldassumeallAImodelsare_compr.md]] : Satya Nadella says we should assume all AI models are ‘compromised’
 - [[2026-10-10_GuangdongPartyChiefVisitsTencent_PonyMaAppearsAlon.md]] : Guangdong Party Chief Visits Tencent; Pony Ma Appears Alongside 28-Year-Old Chief AI Scientist
+- [[2026-10-11_SatyaNadellasaysweshouldassumeallAImodelsare_compr.md]] : Satya Nadella says we should assume all AI models are ‘compromised’
+- [[2026-10-11_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[2026-10-11_ExpandingtheCyberVerificationProgram.md]] : Expanding the Cyber Verification Program
+- [[2026-10-11_Microsoft_sSatyaNadellasaysAImodelsneedan_emergenc.md]] : Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
+- [[2026-10-11_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-11_GuangdongPartyChiefVisitsTencent_PonyMaAppearsAlon.md]] : Guangdong Party Chief Visits Tencent; Pony Ma Appears Alongside 28-Year-Old Chief AI Scientist
+- [[2026-10-11_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
