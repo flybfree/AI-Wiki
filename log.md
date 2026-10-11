@@ -16092,3 +16092,5 @@ tags: ['wiki']
 ## [2026-10-11 00:43] ingest | 2026-10-11_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md
 ## [2026-10-11 00:43] ingest | 2026-10-11_GuangdongPartyChiefVisitsTencent_PonyMaAppearsAlon.md
 ## [2026-10-11 00:43] ingest | 2026-10-11_Doesbetterworkalwaysmeanbetterworkers_.md
+## [2026-10-11 14:36] ingest | 2026-10-11_Sophoscutsthreatinvestigationtimeby96_withOpenAIDa.md
+## [2026-10-11 14:36] ingest | 2026-10-11_SiliconValleyisfallinginlinewithTrump_sattempttore.md

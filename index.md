@@ -3321,3 +3321,5 @@ tags: ['wiki']
 - [[2026-10-11_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-10-11_GuangdongPartyChiefVisitsTencent_PonyMaAppearsAlon.md]] : Guangdong Party Chief Visits Tencent; Pony Ma Appears Alongside 28-Year-Old Chief AI Scientist
 - [[2026-10-11_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
+- [[2026-10-11_Sophoscutsthreatinvestigationtimeby96_withOpenAIDa.md]] : Sophos cuts threat investigation time by 96% with OpenAI Daybreak
+- [[2026-10-11_SiliconValleyisfallinginlinewithTrump_sattempttore.md]] : Silicon Valley is falling in line with Trump’s attempt to rename AI
