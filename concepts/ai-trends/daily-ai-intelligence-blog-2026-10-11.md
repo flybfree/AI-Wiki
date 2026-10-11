@@ -12,7 +12,7 @@ sources:
   - "https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/"
   - "https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised"
   - "https://finance.biggo.com/news/8d1977cf-a2d1-4bfd-a3f8-ae2e64010efe"
-  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-11_05-27.md"
+  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-11_17-24.md"
   - "https://www.anthropic.com/news/investigating-unintended-model-actions"
   - "https://openai.com/news/safety-alignment/"
   - "https://alignment.openai.com/misalignment-reports/"
@@ -91,7 +91,7 @@ Compared with October 10, the narrative is not reversing; it is becoming more op
 
 ## Research intake and curation status
 
-The latest [arXiv scout pass](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-11_05-27.md) completed all 14 configured queries, fetched 23 pages, and saw 1,400 entries with no incomplete query families. The pass produced 463 high-priority candidates, including work on agents, benchmarks, fine-tuning, language models, memory, reasoning, world models, open source, quantization, self-improvement, and tool use.
+The latest [arXiv scout pass](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-11_17-24.md) completed all 14 configured queries, fetched 19 pages, and saw 1,100 entries with no incomplete query families. The pass produced 379 high-priority candidates, including work on agents, benchmarks, fine-tuning, language models, memory, reasoning, world models, open source, quantization, self-improvement, and tool use. The later pass is more current but still backfills through October 8 UTC, so it does not constitute same-day October 11 paper coverage.
 
 **No paper promoted:** page-level curation had not completed by the publication cutoff. This is not a clean “no relevant papers found” result; the scout found a large candidate set, but no verified keep decision was available for today's wiki promotion.
 
@@ -115,7 +115,7 @@ The latest [arXiv scout pass](https://raw.githubusercontent.com/flybfree/AI-Wiki
 - [TechCrunch — Microsoft’s Satya Nadella says AI models need an emergency brake](https://techcrunch.com/2026/10/10/microsofts-satya-nadella-says-ai-models-need-an-emergency-brake/)
 - [The Verge — Satya Nadella says we should assume all AI models are compromised](https://www.theverge.com/ai-artificial-intelligence/1009337/satya-nadella-says-we-should-assume-all-ai-models-are-compromised)
 - [AI Universe Explorer — Guangdong Party Chief Visits Tencent](https://finance.biggo.com/news/8d1977cf-a2d1-4bfd-a3f8-ae2e64010efe)
-- [arXiv scout log — 2026-10-11 05:27 UTC](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-11_05-27.md)
+- [arXiv scout log — 2026-10-11 17:24 UTC](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-11_17-24.md)
 
 ## CTA
 
