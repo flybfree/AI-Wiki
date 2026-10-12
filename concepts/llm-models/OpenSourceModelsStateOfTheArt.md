@@ -194,7 +194,7 @@ This subsection is for models that matter because they can actually be run, tune
 - [Thinking Machines: Introducing Inkling-Small](../entities/article/2026-08-04_IntroducingInkling-Small_summary.md)
 - [DeepSeek V4-Flash on a Single AMD MI300X](../entities/article/2026-08-04_DeepSeekV4FlashonaSingleAMDMI300X_summary.md)
 - [Mistral’s Shieldstral 3B open-weights model](../entities/article/2026-08-04_Mistral_sShieldstral_3Bopen-weightsmodelformultimo_summary.md)
-- [A Safe Path to Open Weights](../entities/article/2026-08-10_ASafePathtoOpenWeights_summary.md)
+- [A Safe Path to Open Weights](../entities/article/2026-10-11_ASafePathtoOpenWeights_summary.md)
 - [Model Comparison — Ornith, Qwythos, VibeThinker, Qwen3.6, Gemma 4](../comparisons/2026-06-30_Ornith_Qwythos_VibeThinker_Qwen3_6_Comparison.md)
 - [Qwen 3.6 27B Arrives with GGUF Support and Local Multimodal](../entities/article/2026-04-26_Qwen_3_6_27B_Arrives_with_GGUF_Support_and_Local_M_summary.md)
 - [Summary: Inkling: Our Open-Weights Model](../entities/article/2026-07-27_Inkling_OurOpen-WeightsModel_summary.md)

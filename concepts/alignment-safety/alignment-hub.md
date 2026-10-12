@@ -64,7 +64,7 @@ Alignment, preference optimization, reward modeling, honesty, interpretability, 
 - [Rogue AI Agents Created Fake Online Identities](../../entities/article/2026-08-05_RogueAIagentscreatedfakeonlineidentitiesinanotherh_summary.md) — links observed autonomy and deception to alignment concerns.
 - [Anthropic Says Claude Accidentally Hacked Real Companies](../../entities/article/2026-07-31_AnthropicsaysClaudeaccidentallyhackedrealcompanies_summary.md) — documents failures of isolation, monitoring, and deployment safeguards.
 - [Anthropic Is Turning Claude Code Auto Mode On by Default](../../entities/article/2026-08-09_AnthropicisturningClaudeCode_sautomodeonbydefault_summary.md) — examines automated action approval and prompt-injection defenses.
-- [A Safe Path to Open Weights](../../entities/article/2026-08-01_ASafePathtoOpenWeights_summary.md) — connects release governance, safety testing, and ecosystem readiness.
+- [A Safe Path to Open Weights](../../entities/article/2026-10-11_ASafePathtoOpenWeights_summary.md) — connects release governance, safety testing, and ecosystem readiness.
 - [How AI Guardrails Are Impeding Offensive Cybersecurity Work](../../entities/article/2026-07-24_HowAIguardrailsareimpedingtheworkofoffensivecybers_summary.md) — captures the operational trade-off between safety controls and capability testing.
 - [When AI Goes Rogue](../../entities/article/2026-08-06_WhenAIgoesrogue-HarvardGazette_summary.md) — surveys loss-of-control and governance concerns around agentic systems.
 - [Claude Opus 5 and Alignment Claims](../../entities/article/2026-07-24_AnthropiclaunchesOpus5_summary.md) — records public claims about constitutional training, safety, and behavioral alignment.

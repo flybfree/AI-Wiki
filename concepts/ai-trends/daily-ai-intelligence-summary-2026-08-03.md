@@ -127,7 +127,7 @@ The common thread is control. The model itself matters, but the bigger strategic
 - [OpenAI breach probe summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-03_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme_summary.md)
 - [Claude Opus 5 summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-03_IntroducingClaudeOpus5_summary.md)
 - [Inkling-Small summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-03_IntroducingInkling-Small_summary.md)
-- [Open weights summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-03_ASafePathtoOpenWeights_summary.md)
+- [Open weights summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-10-11_ASafePathtoOpenWeights_summary.md)
 - [Google AI summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-03_OfficialGoogleAInewsandupdates_GoogleBlog_summary.md)
 - [Google Search redesign summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-03_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md)
 - [Science One summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-08-03_ScienceOneFramework_Averifiableautonomousresearchf_summary.md)
