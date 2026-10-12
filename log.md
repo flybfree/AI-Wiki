@@ -16171,3 +16171,5 @@ tags: ['wiki']
 ## [2026-10-11 22:47] stage-paper | 2026-10-09_00-03-13Z_WhenChartsDeceiveWebAgents_APairedBenchmarkforMisl.md
 ## [2026-10-12 00:23] ingest | 2026-10-12_SuccessStories_AIandHealthcare-ConnectedWorld.md
 ## [2026-10-12 10:38] ingest | 2026-10-12_MicrosoftpresidentsaysUKisbestplacedtodriveAIregul.md
+## [2026-10-12 12:36] ingest | 2026-10-12_MetahassomeWonderFullnewAImodels.md
+## [2026-10-12 13:33] ingest | 2026-10-12_Metareleasesitsfirstfrontiermodel_MuseWonder.md

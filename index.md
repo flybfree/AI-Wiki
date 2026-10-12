@@ -3256,3 +3256,5 @@ tags: ['wiki']
 - [[2026-10-11_SiliconValleyisfallinginlinewithTrump_sattempttore.md]] : Silicon Valley is falling in line with Trump’s attempt to rename AI
 - [[2026-10-12_SuccessStories_AIandHealthcare-ConnectedWorld.md]] : Success Stories: AI and Healthcare - Connected World
 - [[2026-10-12_MicrosoftpresidentsaysUKisbestplacedtodriveAIregul.md]] : Microsoft president says UK is best placed to drive AI regulation
+- [[2026-10-12_MetahassomeWonderFullnewAImodels.md]] : Meta has some Wonder Full new AI models
+- [[2026-10-12_Metareleasesitsfirstfrontiermodel_MuseWonder.md]] : Meta releases its first frontier model, Muse Wonder
