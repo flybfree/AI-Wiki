@@ -89,11 +89,17 @@ This is a lower-confidence source than the primary lab reports above, so the fig
 
 Compared with October 10, the narrative is not reversing; it is becoming more operational. Yesterday's control-plane thesis is now joined by concrete access tiers, staged release gates, task-level training methods, and workforce measurement.
 
+## Selected research papers
+
+**0 papers selected for October 11.** The complete local-time curation query returned zero `keep` decisions for the target date. Stable-identity comparison against earlier daily briefings found no uncovered previously kept paper. No paper-summary links are therefore required in this edition, and the final selected-paper count equals the final research-paper link count: **0 = 0**.
+
 ## Research intake and curation status
 
-The latest [arXiv scout pass](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-11_17-24.md) completed all 14 configured queries, fetched 19 pages, and saw 1,100 entries with no incomplete query families. The pass produced 379 high-priority candidates, including work on agents, benchmarks, fine-tuning, language models, memory, reasoning, world models, open source, quantization, self-improvement, and tool use. The later pass is more current but still backfills through October 8 UTC, so it does not constitute same-day October 11 paper coverage.
+The latest [arXiv scout pass](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-11_23-58.md) completed all 14 configured queries, fetched 23 pages, and saw 1,400 entries with no incomplete query families. This is a complete coverage result for the configured scout, while curation independently returned zero verified keeps. The distinction matters: **no paper promoted** is valid here because the curation result is zero, not because scouting failed or was incomplete.
 
-**No paper promoted:** page-level curation had not completed by the publication cutoff. This is not a clean “no relevant papers found” result; the scout found a large candidate set, but no verified keep decision was available for today's wiki promotion.
+## Why it matters
+
+Across the day's sources, the important unit is no longer the standalone model. It is a governed loop: model capability, scoped authority, observable actions, verifiable outcomes, human interruption, and feedback that improves either the model or the operator. The strongest deployment questions are operational: what can the system access, how is evidence recorded, who can stop it, how are mistakes repaired, and what happens to human expertise when assistance is removed?
 
 ## Watch next
 

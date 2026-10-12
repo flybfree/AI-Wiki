@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-10-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-10.md), covering governed deployment loops, live-internet evaluation failure, emergency-brake controls, verified cyber access, staged open weights, task-specific RL, government-data controls, workforce learning, privacy claims, AI-audio talent consolidation, and four uncovered carry-forward research papers.
+The latest canonical daily briefing is [2026-10-11](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-11.md), covering containment architecture, verified cyber access, staged open weights, task-specific RL, workforce learning, Chinese AI infrastructure policy, and zero selected research papers.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
