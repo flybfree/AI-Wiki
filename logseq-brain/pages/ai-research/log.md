@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-11] research | created the Local Inference Engines and Serving Stacks concept hub; added Strata and NInfer alongside Ollama, LM Studio, llama.cpp, and vLLM; synchronized wiki and Logseq mirrors
+
 ## [2026-10-11 18:00] summarize | refreshed the October 11 AI-only briefing against the latest 17:24 UTC arXiv pass (14 queries, 19 pages, 1,100 entries, 379 high-priority candidates, 0 incomplete queries); updated the research status from the earlier 05:27 pass; late Sophos capture was deferred because extraction returned only a vendor snippet, and the Verge political/opinion capture was excluded from the core synthesis; direct major-lab sweep found no newer same-day primary release displacing the existing corpus; wiki/Logseq briefing mirrors synchronized; GitHub commit and push required
 
 ## [2026-10-10 00:00] publish | 2026-10-09 canonical final published; local-time curation returned 0 target-date keeps and stable-identity comparison found 1 uncovered carry-forward paper; repaired its canonical summary with visible original-paper URL; briefing contains 1 unique paper link; wiki/Logseq mirror byte-identical; GitHub commit 4ad64de0 pushed and origin/master verified; Lumistorm post 224 created at https://lumistorm.net/daily-ai-intelligence-2026-10-09/; REST/readback, published status, Daily AI Briefing category, cache-busted live page, archive ordering, date, source links, and raw-wiki-syntax checks passed
