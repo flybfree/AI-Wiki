@@ -3253,3 +3253,4 @@ tags: ['wiki']
 - [[2026-10-11_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
 - [[2026-10-11_Sophoscutsthreatinvestigationtimeby96_withOpenAIDa.md]] : Sophos cuts threat investigation time by 96% with OpenAI Daybreak
 - [[2026-10-11_SiliconValleyisfallinginlinewithTrump_sattempttore.md]] : Silicon Valley is falling in line with Trump’s attempt to rename AI
+- [[2026-10-12_SuccessStories_AIandHealthcare-ConnectedWorld.md]] : Success Stories: AI and Healthcare - Connected World
