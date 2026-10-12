@@ -3258,3 +3258,4 @@ tags: ['wiki']
 - [[2026-10-12_MicrosoftpresidentsaysUKisbestplacedtodriveAIregul.md]] : Microsoft president says UK is best placed to drive AI regulation
 - [[2026-10-12_MetahassomeWonderFullnewAImodels.md]] : Meta has some Wonder Full new AI models
 - [[2026-10-12_Metareleasesitsfirstfrontiermodel_MuseWonder.md]] : Meta releases its first frontier model, Muse Wonder
+- [[2026-10-12_GoogleUnveilsMajorAIUpdatesAcrossDeepMind_Gemini_T.md]] : Google Unveils Major AI Updates Across DeepMind, Gemini | The Tech Buzz
