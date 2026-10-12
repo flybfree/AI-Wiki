@@ -16170,3 +16170,4 @@ tags: ['wiki']
 ## [2026-10-11 22:47] stage-paper | 2026-10-09_14-43-25Z_RetractionsRevisited_AReplication_Extension_andMec.md
 ## [2026-10-11 22:47] stage-paper | 2026-10-09_00-03-13Z_WhenChartsDeceiveWebAgents_APairedBenchmarkforMisl.md
 ## [2026-10-12 00:23] ingest | 2026-10-12_SuccessStories_AIandHealthcare-ConnectedWorld.md
+## [2026-10-12 10:38] ingest | 2026-10-12_MicrosoftpresidentsaysUKisbestplacedtodriveAIregul.md
