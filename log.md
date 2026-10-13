@@ -16177,3 +16177,6 @@ tags: ['wiki']
 ## [2026-10-12 13:33] ingest | 2026-10-12_Metareleasesitsfirstfrontiermodel_MuseWonder.md
 ## [2026-10-12 16:33] ingest | 2026-10-12_GoogleUnveilsMajorAIUpdatesAcrossDeepMind_Gemini_T.md
 ## [2026-10-12 23:32] ingest | 2026-10-12_EpicGamesreportedlypivotingto_AIfirst_gamedevelopm.md
+## [2026-10-13 07:29] stage-paper | 2026-10-09_05-23-00Z_EmbodiedCLBench_EvaluatingContinualLearningforSelf.md
+## [2026-10-13 07:29] ingest | 2026-10-13_Just5yearsin_interactivechatbotplatformCharacter_A.md
+## [2026-10-13 08:54] ingest | 2026-10-13_ApplelaunchesHomeView_itsfirstsmartdisplayfortheho.md

@@ -3261,3 +3261,5 @@ tags: ['wiki']
 - [[2026-10-12_Metareleasesitsfirstfrontiermodel_MuseWonder.md]] : Meta releases its first frontier model, Muse Wonder
 - [[2026-10-12_GoogleUnveilsMajorAIUpdatesAcrossDeepMind_Gemini_T.md]] : Google Unveils Major AI Updates Across DeepMind, Gemini | The Tech Buzz
 - [[2026-10-12_EpicGamesreportedlypivotingto_AIfirst_gamedevelopm.md]] : Epic Games reportedly pivoting to " AI first" game development model - Ars Technica
+- [[2026-10-13_Just5yearsin_interactivechatbotplatformCharacter_A.md]] : Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy
+- [[2026-10-13_ApplelaunchesHomeView_itsfirstsmartdisplayfortheho.md]] : Apple launches HomeView, its first smart display for the home
