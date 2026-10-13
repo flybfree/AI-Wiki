@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-13 18:01] summarize | refreshed the canonical October 13 AI-only briefing with Google's same-day Argon safety disclosure, Shopify's open agentic-commerce catalog, and OpenAI's reported insider-device forensic case; latest arXiv pass verified at 17:18 with 14 queries, 14 pages, 850 entries, no query failures, but newest results still October 9 and page-level curation incomplete; Logseq mirror synchronized; GitHub commit and push required
+
 ## [2026-10-13 12:01] summarize | refreshed the canonical October 13 AI-only briefing with Gemini 4 Argon official model-card/Cloud confirmation, UK AISI evaluation evidence, and Epic's AI-first Disney-game production signal; recurrence-controlled prior incident retained as context only; latest arXiv pass completed 14 queries across 14 pages with 850 entries and 0 incomplete query families but stopped at October 9, so coverage is incomplete and no paper was promoted; Logseq mirror synchronized; GitHub commit and push required
 ## [2026-10-13 00:00] finalize | 2026-10-12 canonical final prepared from complete AI-only intake; added late Epic AI-first production report; source recurrence guard suppressed the previously covered Thinking Machines open-weights URL; complete curation query returned 0 keeps and 0 uncovered carry-forward papers; final paper-link count 0; Logseq mirror, GitHub push, and Lumistorm publication verification follow
 ## [2026-10-12 18:01] summarize | refreshed the canonical October 12 AI-only briefing after the direct major-lab sweep; added Meta's primary Muse Wonder/Muse Wonder Full release and Anthropic's unintended-action disclosure to the federated-healthcare and enforceable-governance synthesis; latest arXiv pass completed 14 queries across 18 pages with 1,050 entries and 0 incomplete queries, but page-level curation remained incomplete so no paper was promoted; wiki/Logseq briefing mirrors synchronized; GitHub commit and push required
@@ -16185,3 +16187,5 @@ tags: ['wiki']
 ## [2026-10-13 12:30] ingest | 2026-10-13_FacebookwillletyoucustomizeyourfeedalgorithmusingA.md
 ## [2026-10-13 13:29] ingest | 2026-10-13_Idon_tmissthecameraontheRay-BanMetaAudioglasses.md
 ## [2026-10-13 14:29] ingest | 2026-10-13_HiggsfieldtakesAIvideofrom1minutetoover10.md
+## [2026-10-13 15:24] ingest | 2026-10-13_ShopifyopensitscataloguptomoreAIagents.md
+## [2026-10-13 16:29] ingest | 2026-10-13_OpenAIemployeearrestedforallegedlyplantingabuginac.md
