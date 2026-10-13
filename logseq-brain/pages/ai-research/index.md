@@ -98,8 +98,10 @@ tags: ['wiki']
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md|Summary: Daily AI Intelligence Briefing — 2026-10-07]] — canonical final; capability-plus-control stack, containment, harness fit, trust-boundary failures, evaluation, and 10 curated research papers
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-08.md|Summary: Daily AI Intelligence Briefing — 2026-10-08]] — canonical final; generated interfaces, persistent enterprise agents, cyber mission and verified access, staged open weights, verifiable task expertise, workforce learning, safety culture, and 4 curated research papers
- - [Summary: Daily AI Intelligence Briefing — 2026-10-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-09.md) — canonical final; controlled cyber access, civic-boundary test failure, staged open weights, verifier-aware task training, model routing economics, workforce learning, safety culture, and 1 carried-forward research paper
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-12.md) — canonical final; federated healthcare security, enforceable AI controls, Meta Muse Wonder, agent boundary failures, UK AI security, Epic's AI-first production pivot, and 0 selected research papers
  - [Summary: Daily AI Intelligence Briefing — 2026-10-11](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-11.md) — canonical final; containment architecture, verified cyber access, staged open weights, task-specific RL, workforce learning, Chinese AI infrastructure policy, and 0 selected research papers
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-10.md) — canonical final; governed deployment loops, live-internet evaluation failure, emergency-brake controls, OpenAI misalignment disclosure, verified cyber access, staged open weights, task-specific RL, government-data controls, AI-audio talent consolidation, 0 target-date keeps, and 4 uncovered carry-forward papers
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-09.md) — canonical final; controlled cyber access, civic-boundary test failure, staged open weights, verifier-aware task training, model routing economics, specialized decision models, workforce learning, safety culture, and 1 carried-forward research paper
 ### Knowledge Management & Wiki Ops
 - [[concepts/knowledge-management/logseq-brain-wiki-operating-model.md|Logseq Brain & Wiki Operating Model]] — GitHub wiki, local working copy, Logseq mirror, and PRISM user working copy
 - [[concepts/knowledge-management/wiki-usage-cheat-sheet.md|Wiki Usage Cheat Sheet]] — quick guide for page types and where each system fits
@@ -1679,7 +1681,7 @@ tags: ['wiki']
 - [[entities/article/2026-07-31_Newsroom_Anthropic_summary.md]] : Newsroom \ Anthropic
 - [[entities/article/2026-07-31_OfficialGoogleAInewsandupdates_GoogleBlog_summary.md]] : Official Google AI news and updates | Google Blog
 - [[entities/article/2026-07-31_OpenAIandHuggingFacepartnertoaddresssecurityincide_summary.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[entities/article/2026-07-31_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
+- [[entities/article/2026-10-11_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
 - [[entities/article/2026-07-31_OpenAI_sAIEscapeWasn_tTheSingularity_ItWasAContain_summary.md]] : OpenAI’s AI Escape Wasn't The Singularity. It Was A Containment Failure
 - [[entities/article/2026-07-31_OpenAImodelsescapedcontainment_hackedmajorAIapplic_summary.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
 - [[entities/article/2026-07-31_Thedevelopmentpipelineisaproductionsystem_summary.md]] : The development pipeline is a production system
@@ -1689,7 +1691,6 @@ tags: ['wiki']
 - [[entities/article/2026-08-01_IndiaAIandAyushMinistrySignAIIntegrationMoU-GKToda_summary.md]] : IndiaAI and Ayush Ministry Sign AI Integration MoU - GKToday
 - [[entities/article/2026-08-01_Elevators_summary.md]] : Elevators
 - [[entities/article/2026-08-01_GoogleEarth__8217_sAIdeepfaketoolonlylastedoneday_summary.md]] : Google Earth&#8217;s AI deepfake tool only lasted one day
-- [[entities/article/2026-08-01_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
 - [[entities/article/2026-08-01_Newsroom_Anthropic_summary.md]] : Newsroom \ Anthropic
 - [[entities/article/2026-08-01_AdvancingresponsibleAIacrossEurope_summary.md]] : Advancing responsible AI across Europe
 - [[entities/article/2026-08-01_ScienceOneFramework_Averifiableautonomousresearchf_summary.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
@@ -1713,7 +1714,6 @@ tags: ['wiki']
 - [[entities/article/2026-08-01_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth_summary.md]] : Ministry of Ayush signs MoU with IndiaAI to harness AI for the future of traditional medicine
 - [[entities/article/2026-08-01_AIfinancialadviceissurprisinglygoodifyouasktherigh_summary.md]] : AI financial advice is surprisingly good if you ask the right questions
 - [[entities/article/2026-08-01_Go1_27InteractiveTour_summary.md]] : Go 1.27 Interactive Tour
-- [[entities/article/2026-08-02_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
 - [[entities/article/2026-08-02_OpenAIandHuggingFacepartnertoaddresssecurityincide_summary.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
 - [[entities/article/2026-08-02_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme_summary.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
 - [[entities/article/2026-08-02_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth_summary.md]] : Ministry of Ayush signs MoU with IndiaAI to harness AI for the future of traditional medicine
@@ -1750,7 +1750,6 @@ tags: ['wiki']
 - [[entities/article/2026-08-03_OfficialGoogleAInewsandupdates_GoogleBlog_summary.md]] : Official Google AI news and updates | Google Blog
 - [[entities/article/2026-08-03_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme_summary.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
 - [[entities/article/2026-08-03_Newsroom_Anthropic_summary.md]] : Newsroom \ Anthropic
-- [[entities/article/2026-08-03_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
 - [[entities/article/2026-08-03_IntroducingInkling-Small_summary.md]] : Introducing Inkling-Small
 - [[entities/article/2026-08-03_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[entities/article/2026-08-03_SamAltmanandAI_sdeceldebate_summary.md]] : Sam Altman and AI’s decel debate
@@ -1778,7 +1777,6 @@ tags: ['wiki']
 - [[entities/article/2026-08-04_HowwebuiltarealtimesystemforresponsivevoiceAIinsix_summary.md]] : How we built a realtime system for responsive voice AI in six months
 - [[entities/article/2026-08-04_IntroducingInkling-Small_summary.md]] : Introducing Inkling-Small
 - [[entities/article/2026-08-04_ScienceOneFramework_Averifiableautonomousresearchf_summary.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
-- [[entities/article/2026-08-04_ASafePathtoOpenWeights_summary.md]] : A Safe Path to Open Weights
 - [[entities/article/2026-08-04_Googlejustredesignedthesearchboxforthefirsttimein2_summary.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[entities/article/2026-08-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan_summary.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[entities/article/2026-08-04_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme_summary.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
@@ -1800,7 +1798,7 @@ tags: ['wiki']
 - [[raw/articles/2026-08-05_Third-partycyberevaluationsinvolvingOpenAImodels.md]] : Third-party cyber evaluations involving OpenAI models
 - [[raw/articles/2026-08-05_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
 - [[raw/articles/2026-08-05_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[raw/articles/2026-08-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
+- [[raw/articles/2026-10-11_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
 - [[entities/article/2026-08-05_SpaceXhasbought_329MworthofTeslaMegapackssofarthis_summary.md]] : SpaceX has bought $329M worth of Tesla Megapacks so far this year
 - [[raw/articles/2026-08-05_OpenAIBreachProbeWidens_MoreAgentsEscapedContainme.md]] : OpenAI Breach Probe Widens: More Agents Escaped Containment, Notes Found Coaching Future Versions
@@ -1826,7 +1824,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-05_LLMswon_tbreaksymmetriccrypto.md]] : LLMs won't break symmetric crypto
 - [[raw/articles/2026-08-06_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
 - [[raw/articles/2026-08-06_MetalaunchesMuseCode_anAIagentforlargecodebases.md]] : Meta launches Muse Code, an AI agent for large code bases
-- [[raw/articles/2026-08-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-06_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
 - [[raw/articles/2026-08-06_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-06_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
@@ -1863,7 +1860,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-07_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
 - [[raw/articles/2026-08-07_AMDacquiresTaalastoboostinferenceperformancebyetch.md]] : AMD acquires Taalas to boost inference performance by etching models in silicon
 - [[raw/articles/2026-08-07_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[raw/articles/2026-08-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-07_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[raw/articles/2026-08-07_ImprovingGPT_5_6SolinChatGPT_andexpandingaccesstoG.md]] : Improving GPT‑5.6 Sol in ChatGPT—and expanding access to GPT-5.6 Luna for free users
 - [[raw/articles/2026-08-07_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
@@ -1893,7 +1889,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-08_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
 - [[raw/articles/2026-08-08_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
 - [[raw/articles/2026-08-08_NASAtokeepits48-year-oldVoyager2proberunningforyet.md]] : NASA to keep its 48-year-old Voyager 2 probe running for yet another year
-- [[raw/articles/2026-08-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-08_NowwehaveatimelineoftheOpenAIaccidentalattackagain.md]] : Now we have a timeline of the OpenAI accidental attack against Hugging Face
 - [[raw/articles/2026-08-08_DeepMind_sWeatherNextmodelachievesbreakthroughfore.md]] : DeepMind's WeatherNext model achieves breakthrough forecasting cyclones
 - [[raw/articles/2026-08-08_Adomaincannowsayitisforsale_inDNS.md]] : A domain can now say it is for sale, in DNS
@@ -1903,7 +1898,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-09_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
 - [[raw/articles/2026-08-09_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[raw/articles/2026-08-09_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[raw/articles/2026-08-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-09_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[raw/articles/2026-08-09__TheoriginalURLforthispredictionwillnolongerbeavai.md]] : "The original URL for this prediction will no longer be available in 11 years." (2011)
 - [[raw/articles/2026-08-09_TheoriginalURLforthispredictionwillnolongerbeavail.md]] : The original URL for this prediction will no longer be available in 11 years (2011)
@@ -1915,7 +1909,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-10_ScienceOneFramework_Averifiableautonomousresearchf.md]] : Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence
 - [[raw/articles/2026-08-10_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[raw/articles/2026-08-10_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[raw/articles/2026-08-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-10_AutomodeisnowthedefaultinClaudeCode.md]] : Auto mode is now the default in Claude Code
 - [[raw/articles/2026-08-10_Respondingtothenextfrontierofcriticalcybercapabili.md]] : Responding to the next frontier of critical cyber capabilities
 - [[raw/articles/2026-08-10_AIdetectorsarecreatinganeweraofdistrust.md]] : AI detectors are creating a new era of distrust
@@ -1937,7 +1930,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-11_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[raw/articles/2026-08-11_H3-metal_NativeMiniMax-H3inferenceforAppleSilicon.md]] : H3-metal – Native MiniMax-H3 inference for Apple Silicon
 - [[raw/articles/2026-08-11_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
-- [[raw/articles/2026-08-11_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-11_HalfofEurope_stownsandvillageshavefewerresidentsth.md]] : Half of Europe's towns and villages have fewer residents than 60 years ago
 - [[raw/articles/2026-08-11_TheAItakeoverofmathematicshasbegun.md]] : The AI takeover of mathematics has begun
 - [[raw/articles/2026-08-11_Francetobanunsolicitedtelemarketingcalls.md]] : France to ban unsolicited telemarketing calls
@@ -1968,7 +1960,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-12_AdvancingAMIEtowardsexpert-levelaudio-visualclinic.md]] : Advancing AMIE towards expert-level audio-visual clinical consultations
 - [[raw/articles/2026-08-12_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[raw/articles/2026-08-12_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[raw/articles/2026-08-12_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-12_Compressionisprediction.md]] : Compression is prediction
 - [[raw/articles/2026-08-12_llama_cpp.md]] : llama.cpp
 - [[raw/articles/2026-08-12_LinkedInCringeBot3000.md]] : LinkedIn CringeBot 3000
@@ -1986,7 +1977,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-12_AmazonwilltrainonTwitchstreamers_contentbydefault_.md]] : Amazon will train on Twitch streamers’ content by default, unless they opt out
 - [[raw/articles/2026-08-13_DeepSeekV4Pro0813.md]] : DeepSeek V4 Pro 0813
 - [[raw/articles/2026-08-13_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
-- [[raw/articles/2026-08-13_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-13_TwitchstreamerscannowoptoutfromtrainingAmazon_sAI.md]] : Twitch streamers can now opt out from training Amazon’s AI
 - [[raw/articles/2026-08-13_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[raw/articles/2026-08-13_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
@@ -2010,7 +2000,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-14_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
 - [[raw/articles/2026-08-14_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[raw/articles/2026-08-14_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
-- [[raw/articles/2026-08-14_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-14_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-14_WriterintroducesnewAImodelandupgradedharnesstocont.md]] : Writer introduces new AI model and upgraded harness to contain token costs
 - [[raw/articles/2026-08-14_GLM-5_3_FrontierCodingwithEmergentCyberCapabilitie.md]] : GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
@@ -2022,7 +2011,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-14_Magnitude7_7Earthquake_68kmNNWofEnde_Indonesia.md]] : Magnitude 7.7 Earthquake – 68 km NNW of Ende, Indonesia
 - [[raw/articles/2026-08-15_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[raw/articles/2026-08-15_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
-- [[raw/articles/2026-08-15_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-15_Googlewillnowallowuserstoremovevisiblewatermarkfro.md]] : Google will now allow users to remove visible watermark from its AI generations
 - [[raw/articles/2026-08-15_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
 - [[raw/articles/2026-08-15_Thebuilder_sguidetoGPT_5_6.md]] : The builder’s guide to GPT‑5.6
@@ -2044,7 +2032,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-16_HavealaughatAI_sexpensebyroleplayingasachatbot.md]] : Have a laugh at AI’s expense by roleplaying as a chatbot
 - [[raw/articles/2026-08-16_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
 - [[raw/articles/2026-08-16_Emptyshelvesorlostkeys_Recallisthebottleneckforpar.md]] : Empty shelves or lost keys? Recall is the bottleneck for parametric factuality
-- [[raw/articles/2026-08-16_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-16_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-16_AsusBikeBooster.md]] : Asus Bike Booster
 - [[raw/articles/2026-08-16_IntroducingInkling-Small.md]] : Introducing Inkling-Small
@@ -2067,7 +2054,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-17_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-17_FightingfakenewswithAI_howwestAfrica_sDubawaistran.md]] : Fighting fake news with AI — how west Africa's Dubawa is transforming fact-checking
 - [[raw/articles/2026-08-17_OpenAIreportedlydisbandeditspreparednessteam.md]] : OpenAI reportedly disbanded its preparedness team
-- [[raw/articles/2026-08-17_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-17_StripewillreportedlyacquireAIgatewaystartupOpenRou.md]] : Stripe will reportedly acquire AI gateway startup OpenRouter for $7B+
 - [[raw/articles/2026-08-17_Qwen3_827Bisexcellent_butitdefaultstooverthinkingt.md]] : Qwen 3.8 27B is excellent, but it defaults to overthinking things
 - [[raw/articles/2026-08-17_NewpolicyideasfortheIntelligenceAge.md]] : New policy ideas for the Intelligence Age
@@ -2084,7 +2070,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-17_EvaxionExpandsPipelinewithEVX-05_anAI-DesignedOff-.md]] : Evaxion Expands Pipeline with EVX-05, an AI -Designed Off-the-Shelf Glioblastoma Vaccine
 - [[raw/articles/2026-08-18_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-18_EvaxionExpandsPipelinewithEVX-05_anAI-DesignedOff-.md]] : Evaxion Expands Pipeline with EVX-05, an AI -Designed Off-the-Shelf Glioblastoma Vaccine
-- [[raw/articles/2026-08-18_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-18_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[raw/articles/2026-08-18_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
 - [[raw/articles/2026-08-18_Googlejustredesignedthesearchboxforthefirsttimein2.md]] : Google just redesigned the search box for the first time in 25 years â hereâs why it matters more than you think.
@@ -2109,7 +2094,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-18_CursorcapitalizesonGitHubfrustration_launchesrival.md]] : Cursor capitalizes on GitHub frustration, launches rival hosting platform
 - [[raw/articles/2026-08-18_A3DfruitflyonmacOSdesktoppoweredbytherealFlyWireco.md]] : A 3D fruit fly on macOS desktop powered by the real FlyWire connectome
 - [[raw/articles/2026-08-18_NestlébetsbigonGLP-1swithAI-powerednutritionpush-F.md]] : Nestlé bets big on GLP-1s with AI -powered nutrition push - Food Navigator
-- [[raw/articles/2026-08-19_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-19_NestlébetsbigonGLP-1swithAI-powerednutritionpush-F.md]] : Nestlé bets big on GLP-1s with AI -powered nutrition push - Food Navigator
 - [[raw/articles/2026-08-19_CursorcapitalizesonGitHubfrustration_launchesrival.md]] : Cursor capitalizes on GitHub frustration, launches rival hosting platform
 - [[raw/articles/2026-08-19_Meta_sblockbustertrialdrawsparallelstobigtobacco.md]] : Meta's blockbuster trial draws parallels to big tobacco
@@ -2135,7 +2119,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-19_Stripedidn_treallybuyOpenRouterbecauseofthe_singul.md]] : Stripe didn’t really buy OpenRouter because of the ‘singularity’
 - [[raw/articles/2026-08-20_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-20_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[raw/articles/2026-08-20_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-20_Stripedidn_treallybuyOpenRouterbecauseofthe_singul.md]] : Stripe didn’t really buy OpenRouter because of the ‘singularity’
 - [[raw/articles/2026-08-20_OfferingZeroDataRetentionforfrontiermodels.md]] : Offering Zero Data Retention for frontier models
 - [[raw/articles/2026-08-20_IntroducingInkling-Small.md]] : Introducing Inkling-Small
@@ -2168,7 +2151,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-21_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-21_GoogleDiscoverisgettinganAIchatbot-tunedfeed.md]] : Google Discover is getting an AI chatbot-tuned feed
 - [[raw/articles/2026-08-21_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[raw/articles/2026-08-21_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-21_CoreWeavesignsAIclouddealwithHudsonRiverTradingfor.md]] : CoreWeave signs AI cloud deal with Hudson River Trading for research platform - ROI-NJ
 - [[raw/articles/2026-08-21_SeeingbeyondBMI_Estimatingcardiometabolicriskwiths.md]] : Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery
 - [[raw/articles/2026-08-21_DeepSeek-v4-flash-vision-exp.md]] : DeepSeek-v4-flash-vision-exp
@@ -2180,7 +2162,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-21_Nvidiajustshowedthattheharness_nottheAImodel_isnow.md]] : Nvidia just showed that the harness, not the AI model, is now the real hero
 - [[raw/articles/2026-08-21_Anthropic_sOpus4_6isasmut-machine.md]] : Anthropic’s Opus 4.6 is a smut-machine
 - [[raw/articles/2026-08-21_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
-- [[raw/articles/2026-08-22_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-22_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[raw/articles/2026-08-22_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-22_There_snoreasonforsoftwaretobeslowanymore.md]] : There's no reason for software to be slow anymore
@@ -2201,7 +2182,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-23_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
 - [[raw/articles/2026-08-23_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
 - [[raw/articles/2026-08-23_IntroducingInkling-Small.md]] : Introducing Inkling-Small
-- [[raw/articles/2026-08-23_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-23_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-23_SydneyMarathonmedalmistakenlydepictsMunichstadium.md]] : Sydney Marathon medal mistakenly depicts Munich stadium
 - [[raw/articles/2026-08-23_MalwareinfectsAndroid-basedautomotiveheadunitfirmw.md]] : Malware infects Android-based automotive head unit firmware
@@ -2213,7 +2193,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-24_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-24_IntroducingInkling-Small.md]] : Introducing Inkling-Small
 - [[raw/articles/2026-08-24_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
-- [[raw/articles/2026-08-24_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-24_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
 - [[raw/articles/2026-08-24_SeL4securityproofsnowcompleteonAArch64.md]] : SeL4 security proofs now complete on AArch64
 - [[raw/articles/2026-08-24_HowEuropeiskillingmakersandmicro-entrepreneurs.md]] : How Europe is killing makers and micro-entrepreneurs
@@ -2232,7 +2211,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-25_AnAItoolforprioritizingcandidatebiomarkersfromwear.md]] : An AI tool for prioritizing candidate biomarkers from wearable sensor data
 - [[raw/articles/2026-08-25_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
 - [[raw/articles/2026-08-25_Advancingprice-performancefordeveloperswithGPT_5_6.md]] : Advancing price-performance for developers with GPT‑5.6 in Kiro
-- [[raw/articles/2026-08-25_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-25_WhysomeUSrestaurantsarebanningtips.md]] : Why some US restaurants are banning tips
 - [[raw/articles/2026-08-25_Accel-backedKeenableisindexingthewebforAIagents.md]] : Accel-backed Keenable is indexing the web for AI agents
 - [[raw/articles/2026-08-25_AppleIntroducesNewMacStudiowithM5MaxandM5Ultra.md]] : Apple Introduces New Mac Studio with M5 Max and M5 Ultra
@@ -2248,7 +2226,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-26_VentureBeatnamesRobStrechayasitsfirstLeadAnalyst_e.md]] : VentureBeat names Rob Strechay as its first Lead Analyst, expanding its enterprise AI research push
 - [[raw/articles/2026-08-26_Thefullstackbehindabundantintelligence.md]] : The full stack behind abundant intelligence
 - [[raw/articles/2026-08-26_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
-- [[raw/articles/2026-08-26_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-26_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-26_OpenAIsaysitsJalapeñochipcanpowerfasterAIresponses.md]] : OpenAI says its Jalapeño chip can power faster AI responses than the competition
 - [[raw/articles/2026-08-26_Oldinsurancemaps_netisnowaCharterProject.md]] : Oldinsurancemaps.net is now a Charter Project
@@ -2269,7 +2246,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-27_AnnouncingSafetyResearchGrants.md]] : Announcing Safety Research Grants
 - [[raw/articles/2026-08-27_GlucoFM_Foundationmodelforcontinuousglucosemonitor.md]] : GlucoFM: Foundation model for continuous glucose monitoring
 - [[raw/articles/2026-08-27_ViralAIstartupInstincthasraised_350millionata_2_5b.md]] : Viral AI startup Instinct has raised $350 million at a $2.5 billion valuation
-- [[raw/articles/2026-08-27_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-27_BringingChatGPTforTeacherstomoreU_S_schooldistrict.md]] : Bringing ChatGPT for Teachers to more U.S. school districts
 - [[raw/articles/2026-08-27_IntroducingClaudeOpus5.md]] : Introducing Claude Opus 5
 - [[raw/articles/2026-08-27_NvidiaclosesinonHuggingFaceacquisition.md]] : Nvidia closes in on Hugging Face acquisition
@@ -2289,7 +2265,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-28_AnthropicwasillegallyblacklistedbytheTrumpadminist.md]] : Anthropic was illegally blacklisted by the Trump administration, court rules
 - [[raw/articles/2026-08-28_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-08-28_Betteranswers_broaderthinking_Whatstudentsgainfrom.md]] : Better answers, broader thinking: What students gain from ChatGPT and critical-thinking training
-- [[raw/articles/2026-08-28_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-28_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
 - [[raw/articles/2026-08-28_HilariouslyFastVolumeComputationwiththeDivergenceT.md]] : Hilariously Fast Volume Computation with the Divergence Theorem
 - [[raw/articles/2026-08-28_MetaexecutiveleavesforOpenAIasthesocialmediagiantf.md]] : Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India
@@ -2307,7 +2282,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-29_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
 - [[raw/articles/2026-08-29_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
 - [[raw/articles/2026-08-29_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[raw/articles/2026-08-29_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-29_Trump_sEPAwantstoletdatacentershidetheirairpolluti.md]] : Trump’s EPA wants to let data centers hide their air pollution
 - [[raw/articles/2026-08-29_SQLiteasaDocumentDatabase_2020_.md]] : SQLite as a Document Database (2020)
 - [[raw/articles/2026-08-29_SonyMusicandWarnerChappellaresuingAnthropic.md]] : Sony Music and Warner Chappell are suing Anthropic
@@ -2321,7 +2295,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-30_SonyMusicandWarnerChappellaresuingAnthropic.md]] : Sony Music and Warner Chappell are suing Anthropic
 - [[raw/articles/2026-08-30_BugBlindness.md]] : Bug Blindness
 - [[raw/articles/2026-08-30_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[raw/articles/2026-08-30_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-30_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
 - [[raw/articles/2026-08-30_LongestStraightLinePathsonWaterorLandontheEarth_20.md]] : Longest Straight Line Paths on Water or Land on the Earth (2018)
 - [[raw/articles/2026-08-30_SonyMusicPublishingandWarnerChappellaresuingAnthro.md]] : Sony Music Publishing and Warner Chappell are suing Anthropic
@@ -2332,7 +2305,6 @@ tags: ['wiki']
 - [[raw/articles/2026-08-30__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
 - [[raw/articles/2026-08-31_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-08-31_Planetarypredictionengine_Automatingglobalmodelsvi.md]] : Planetary prediction engine: Automating global models via Earth AI
-- [[raw/articles/2026-08-31_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-08-31_OurdecisiononCursorfollowingitsacquisitionbySpaceX.md]] : Our decision on Cursor following its acquisition by SpaceX
 - [[raw/articles/2026-08-31__Ijustchosewordscarefully_.md]] : “I just chose words carefully”
 - [[raw/articles/2026-08-31_AmilestoneinexpandingaccesstoAI.md]] : A milestone in expanding access to AI
@@ -2357,7 +2329,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-01_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[raw/articles/2026-09-01_News.md]] : News
 - [[raw/articles/2026-09-01_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[raw/articles/2026-09-01_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-01_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
 - [[raw/articles/2026-09-01_PolimillbuildsJapan_snext-generationpublicAIinfras.md]] : Polimill builds Japan's next-generation public AI infrastructure
 - [[raw/articles/2026-09-01_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
@@ -2378,7 +2349,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-02_MetabecomeslatestfirmtosayitsAIhackedanothercompan.md]] : Meta becomes latest firm to say its AI hacked another company
 - [[raw/articles/2026-09-02_IntroducingClaudeFable5_1andClaudeMythos5_1Anthrop.md]] : Introducing Claude Fable 5.1 and Claude Mythos 5.1 Anthropic
 - [[raw/articles/2026-09-02_OpenAIandHuggingFacepartnertoaddresssecurityincide.md]] : OpenAI and Hugging Face partner to address security incident during model evaluation | OpenAI
-- [[raw/articles/2026-09-02_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-02_News.md]] : News
 - [[raw/articles/2026-09-02_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
 - [[raw/articles/2026-09-02_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
@@ -2409,7 +2379,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-03_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
 - [[raw/articles/2026-09-03_TheSafetyReckoningInsideOpenAI_WIRED.md]] : The Safety Reckoning Inside OpenAI | WIRED
 - [[raw/articles/2026-09-03_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[raw/articles/2026-09-03_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-03_GooglesaysitsnewGemini3_8Flashmodel_worksharder_bu.md]] : Google says its new Gemini 3.8 Flash model ‘works harder’ but might cost more
 - [[raw/articles/2026-09-03_Pre-ReleaseofPolars2_0.md]] : Pre-Release of Polars 2.0
 - [[raw/articles/2026-09-03_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
@@ -2427,7 +2396,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-03_OpenAImodelsescapedcontainment_hackedmajorAIapplic.md]] : OpenAI models escaped containment, hacked major AI application library | Cybersecurity Dive
 - [[raw/articles/2026-09-03_VietnamapprovesAIstrategytargetingregionalhubstatu.md]] : Vietnam approves AI strategy targeting regional hub status by 2030
 - [[raw/articles/2026-09-03_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
-- [[raw/articles/2026-09-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-04_ThesamenessproblembehindthoseunappetizingAI-genera.md]] : The sameness problem behind those unappetizing AI-generated menus
 - [[raw/articles/2026-09-04_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
 - [[raw/articles/2026-09-04_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
@@ -2454,7 +2422,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-04_OpenAI_srogueagentskeepescaping_withnoformalproces.md]] : OpenAI’s rogue agents keep escaping, with no formal process to investigate them
 - [[raw/articles/2026-09-04_RolandisgettingintogenerativeAImusicwithMelodyFlip.md]] : Roland is getting into generative AI music with Melody Flip
 - [[raw/articles/2026-09-04_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes
-- [[raw/articles/2026-09-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-05_Z_aisharessurge8_afterreleasingnewAImodelrunningon.md]] : Z.ai shares surge 8% after releasing new AI model running only on Chinese chips
 - [[raw/articles/2026-09-05_HowAIIsChangingBusinessDevelopmentPriorities-Forbe.md]] : How AI Is Changing Business Development Priorities - Forbes
 - [[raw/articles/2026-09-05_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
@@ -2475,7 +2442,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-05_FalsehoodsProgrammersBelieveAboutLANs.md]] : Falsehoods Programmers Believe About LANs
 - [[raw/articles/2026-09-05_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
 - [[raw/articles/2026-09-05_Ferveret_sAdaptivePhaseCoolingchargescomputefornuc.md]] : Ferveret's Adaptive Phase Cooling charges compute for nuclear AI research
-- [[raw/articles/2026-09-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-06_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-06_SeattleTimesandNewsdayarethelatestpublicationstosu.md]] : Seattle Times and Newsday are the latest publications to sue OpenAI and Microsoft
 - [[raw/articles/2026-09-06_OpenAIadmitstoGermanwiki_incident_.md]] : OpenAI admits to German wiki ‘incident’
@@ -2504,7 +2470,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-07_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-07_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
 - [[raw/articles/2026-09-07_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
-- [[raw/articles/2026-09-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-07_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
 - [[raw/articles/2026-09-07_ApplyNow__5MilliontoTestIfAIChatbotsFailUsersinCri.md]] : Apply Now: $5 Million to Test If AI Chatbots Fail Users in Crisis - ICTworks
 - [[raw/articles/2026-09-07_AnAlienMind.md]] : An Alien Mind
@@ -2519,7 +2484,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-07_TALAIsOpen-Source.md]] : TALA Is Open-Source
 - [[raw/articles/2026-09-08_SeattleTimesandNewsdaysueOpenAIandMicrosoftforinfr.md]] : Seattle Times and Newsday sue OpenAI and Microsoft for infringement
 - [[raw/articles/2026-09-08_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
-- [[raw/articles/2026-09-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-08_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-08_SupportingindependentjournalisminUkraine.md]] : Supporting independent journalism in Ukraine
 - [[raw/articles/2026-09-08_Wehaveayeartofixsecurityeverywhere.md]] : We have a year to fix security everywhere
@@ -2541,7 +2505,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-09_OpenAIclaimstohavesolvedmathsproblemthatstumpedhum.md]] : OpenAI claims to have solved maths problem that stumped humans for decades
 - [[raw/articles/2026-09-09_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
 - [[raw/articles/2026-09-09_DramaswirlsaroundOpenAI_slegendarymathematicalmile.md]] : Drama swirls around OpenAI’s legendary mathematical milestone
-- [[raw/articles/2026-09-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-09_HowGPT-5_6Solhelpsrunquantumcomputingexperiments.md]] : How GPT-5.6 Sol helps run quantum computing experiments
 - [[raw/articles/2026-09-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-09_Copyrightdoesmoreharmthangoodandshouldbeabolished.md]] : Copyright does more harm than good and should be abolished
@@ -2569,7 +2532,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-10_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-10_Transferlearningforgenomicpredictioninunderreprese.md]] : Transfer learning for genomic prediction in underrepresented populations
 - [[raw/articles/2026-09-10_SunoreleasesitsfirstAImusicmodelmadewithrecordindu.md]] : Suno releases its first AI music model made with record industry help
-- [[raw/articles/2026-09-10_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-10_TheAIpolicywindowisopen_Weneedtoact_.md]] : The AI policy window is open. We need to act.
 - [[raw/articles/2026-09-10_DeepSeekv4_1Flash.md]] : DeepSeek v4.1 Flash
 - [[raw/articles/2026-09-10_ShowHN_Thesameninestreamingsubscriptionscost_702_y.md]] : Show HN: The same nine streaming subscriptions cost $702/year more than in 2021
@@ -2592,7 +2554,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-11_Slackcannowvibe-codeinteractivechartsandreportsins.md]] : Slack can now vibe-code interactive charts and reports inside chats
 - [[raw/articles/2026-09-11_Exerciseintensityisassociatedwithcardiometaboliche.md]] : Exercise intensity is associated with cardiometabolic health
 - [[raw/articles/2026-09-11_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[raw/articles/2026-09-11_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-11_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
 - [[raw/articles/2026-09-11_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
 - [[raw/articles/2026-09-11_ShopifyismovingfromReactNativebacktoSwiftandKotlin.md]] : Shopify is moving from React Native back to Swift and Kotlin
@@ -2609,7 +2570,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-11_YCombinator_sGarryTanwantsU_S_open-weightAIlabsto_.md]] : Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too
 - [[raw/articles/2026-09-11_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
 - [[raw/articles/2026-09-11_OpenAIagentscarriedoutanundisclosedattackonRubyGem.md]] : OpenAI agents carried out an undisclosed attack on RubyGems
-- [[raw/articles/2026-09-12_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-12_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
 - [[raw/articles/2026-09-12_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
 - [[raw/articles/2026-09-12_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
@@ -2625,7 +2585,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-12_LGdeniesTVspyingclaims_saystrackingandsnoopingconc.md]] : LG denies TV spying claims, says tracking and snooping concerns 'not true'
 - [[raw/articles/2026-09-12_AnthropicCEOoutlinesplantoslowAIdevelopment.md]] : Anthropic CEO outlines plan to slow AI development
 - [[raw/articles/2026-09-12_EveryoneshouldslowdownAIdevelopmentexceptforme.md]] : Everyone should slow down AI development except for me
-- [[raw/articles/2026-09-13_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-13_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
 - [[raw/articles/2026-09-13_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
 - [[raw/articles/2026-09-13_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
@@ -2648,7 +2607,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-14_GoogleDeepMindresearcherquitsAIsafetyteam_warnsof_.md]] : Google DeepMind researcher quits AI safety team, warns of 'terrifying chance' of major harm
 - [[raw/articles/2026-09-14_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-14_PerplexitytrustsGPT-6Astrawithend-to-endsystems.md]] : Perplexity trusts GPT-6 Astra with end-to-end systems
-- [[raw/articles/2026-09-14_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-14_What_sbehindtheAIindustry_slatestwarningsofdoom_.md]] : What’s behind the AI industry’s latest warnings of doom?
 - [[raw/articles/2026-09-14_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
 - [[raw/articles/2026-09-14_Whatatimetobealive_rougeAIagentsattackRubyGems_org.md]] : What a time to be alive – rouge AI agents attack RubyGems.org
@@ -2668,7 +2626,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-15_IsBigTech_sAIslowdownasafetypactoracartel_.md]] : Is Big Tech’s AI slowdown a safety pact or a cartel?
 - [[raw/articles/2026-09-15_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
 - [[raw/articles/2026-09-15_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[raw/articles/2026-09-15_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-15_ToolGrad_Efficienttool-usedatasetgenerationwithtex.md]] : ToolGrad: Efficient tool-use dataset generation with textual "gradients"
 - [[raw/articles/2026-09-15_HowFyxerbuiltanAIexecutiveassistantpeopletrust.md]] : How Fyxer built an AI executive assistant people trust
 - [[raw/articles/2026-09-15_TrumppushesbackasAIleadersfuelcallstoreininrapidly.md]] : Trump pushes back as AI leaders fuel calls to rein in rapidly advancing technology - PBS
@@ -2696,7 +2653,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-16_Bypassinginferencebottlenecks_AcceleratingcomplexA.md]] : Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train
 - [[raw/articles/2026-09-16_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-16_AIanddatacentersareincrediblyunpopularineverypoll.md]] : AI and data centers are incredibly unpopular in every poll
-- [[raw/articles/2026-09-16_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-16_TheGooglePlayappreviewprocessnowregularlytakeslong.md]] : The Google Play app review process now regularly takes longer than a week
 - [[raw/articles/2026-09-16_ReimaginingadvertisingwithAI.md]] : Reimagining advertising with AI
 - [[raw/articles/2026-09-16_PS5Linuxleadquits__abunchofnoobsusingLLMs_that_the.md]] : PS5 Linux lead quits: "a bunch of noobs using LLMs" that "they don't understand"
@@ -2715,7 +2671,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-16_NvidiaannouncesnativeGPUprogramminginRust.md]] : Nvidia announces native GPU programming in Rust
 - [[raw/articles/2026-09-16_SnapislaunchinganewSpecsAItool_andit_scomingtoiOSa.md]] : Snap is launching a new Specs AI tool, and it’s coming to iOS and Mac
 - [[raw/articles/2026-09-16_KeysNotIncluded_recoveringthesigningkeysforUSdrive.md]] : Keys Not Included: recovering the signing keys for US driver's license barcodes
-- [[raw/articles/2026-09-17_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-17_ZifoandAlchemyPartnertoAdvanceAI-EnabledR_DAcrossF.md]] : Zifo and Alchemy Partner to Advance AI -Enabled R&D Across Formulation and Materials Industries
 - [[raw/articles/2026-09-17_The2_5-hourAI-generatedOdysseymovieis2_5hourstoolo.md]] : The 2.5-hour AI-generated Odyssey movie is 2.5 hours too long
 - [[raw/articles/2026-09-17_HelpingolderadultsuseAIineverydaylife.md]] : Helping older adults use AI in everyday life
@@ -2743,7 +2698,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-17_HackingOpenAI.md]] : Hacking OpenAI
 - [[raw/articles/2026-09-18_HowCooleyisacceleratingIPOworkwithChatGPT.md]] : How Cooley is accelerating IPO work with ChatGPT
 - [[raw/articles/2026-09-18_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[raw/articles/2026-09-18_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-18_Anthropicdetailspracticalmetricstohelpmonitorthesp.md]] : Anthropic details practical metrics to help monitor the speed of AI development
 - [[raw/articles/2026-09-18_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-18_TheAISuperintelligenceSlowdown.md]] : The AI Superintelligence Slowdown
@@ -2764,7 +2718,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-19_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-19_SanFranciscoOnionFuturesCompany.md]] : San Francisco Onion Futures Company
 - [[raw/articles/2026-09-19_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
-- [[raw/articles/2026-09-19_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-19_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
 - [[raw/articles/2026-09-19_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
 - [[raw/articles/2026-09-19_Humanbrainistwoseparateorgans_StanfordMedicine-led.md]] : Human brain is two separate organs, Stanford Medicine-led research finds
@@ -2783,7 +2736,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-20_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
 - [[raw/articles/2026-09-20_ExfiltrateYourWeights.md]] : Exfiltrate Your Weights
 - [[raw/articles/2026-09-20_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[raw/articles/2026-09-20_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-20_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
 - [[raw/articles/2026-09-20_Meta_sMuseiscreepy_butmaybenotforthereasonsyouthin.md]] : Meta’s Muse is creepy, but maybe not for the reasons you think
 - [[raw/articles/2026-09-20_Flockreportedlytriestoshrinkworkforcewithemployeeb.md]] : Flock reportedly tries to shrink workforce with employee buyouts
@@ -2794,7 +2746,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-20_Google_sOpenAgenticOrchestrator.md]] : Google's Open Agentic Orchestrator
 - [[raw/articles/2026-09-20_AX_Google_sOpenAgenticOrchestrator.md]] : AX – Google’s Open Agentic Orchestrator
 - [[raw/articles/2026-09-21_IntroducingtheAustralianYouthSafetyBlueprint.md]] : Introducing the Australian Youth Safety Blueprint
-- [[raw/articles/2026-09-21_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-21_AX_Google_sOpenAgenticOrchestrator.md]] : AX – Google’s Open Agentic Orchestrator
 - [[raw/articles/2026-09-21_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
 - [[raw/articles/2026-09-21_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
@@ -2820,7 +2771,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-22_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
 - [[raw/articles/2026-09-22_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
 - [[raw/articles/2026-09-22_ThemanwhobuiltApple_sstoresdoesn_tbuySiliconValley.md]] : The man who built Apple’s stores doesn’t buy Silicon Valley’s bet on AI shopping
-- [[raw/articles/2026-09-22_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-22_CaliforniatightensrulesonAIdatacenterenergyandwate.md]] : California tightens rules on AI data center energy and water use
 - [[raw/articles/2026-09-22_OpenAIproposesdevelopmentofglobalAIstandardsforali.md]] : OpenAI proposes development of global AI standards for alignment, RSI - CNBC
 - [[raw/articles/2026-09-22_AdvisoryGrouponMathematicsandArtificialIntelligenc.md]] : Advisory Group on Mathematics and Artificial Intelligence
@@ -2853,7 +2803,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-22_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md]] : Summary of METR's predeployment evaluation of Claude Opus 5.5
 - [[raw/articles/2026-09-23_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-23_BetterpromptcachingforGPT-6.md]] : Better prompt caching for GPT-6
-- [[raw/articles/2026-09-23_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-23_GPT-6SolandLuna.md]] : GPT-6 Sol and Luna
 - [[raw/articles/2026-09-23_AnnouncementsAug31_2026Improvingouralignmentandsec.md]] : Announcements Aug 31, 2026 Improving our alignment and security efforts On July 30, we reported three incidents in which Claude models gained unauthorized access to real computer systems. We are conducting an in-depth analysis of both incidents, and planning to work with METR for an independent review. In the meantime, we’re sharing some of the changes we’ve made over the past month.
 - [[raw/articles/2026-09-23_SummaryofMETR_spredeploymentevaluationofClaudeOpus.md]] : Summary of METR's predeployment evaluation of Claude Opus 5.5
@@ -2887,7 +2836,6 @@ tags: ['wiki']
 - [[raw/articles/2026-09-24_LinuxsupportiscomingtoSnapdragonX2Series.md]] : Linux support is coming to Snapdragon X2 Series
 - [[raw/articles/2026-09-24_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[raw/articles/2026-09-24_EverythingnewcomingtoMeta_sAIagentMuse.md]] : Everything new coming to Meta’s AI agent Muse
-- [[raw/articles/2026-09-24_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[raw/articles/2026-09-24_MetaismakingastandaloneMuseAIgadget.md]] : Meta is making a standalone Muse AI gadget
 - [[raw/articles/2026-09-24_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
 - [[raw/articles/2026-09-24_MilleMiglia_Arealisticinstancegeneratorformiddle-m.md]] : MilleMiglia: A realistic instance generator for middle-mile logistics
@@ -2912,7 +2860,6 @@ tags: ['wiki']
 - [[2026-09-24_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
 - [[2026-09-24_Gemini3_8LivewithLiveAvatargivesGoogle__8217_sAIaf.md]] : Gemini 3.8 Live with Live Avatar gives Google&#8217;s AI a face
 - [[2026-09-24_Trump-XiSummit_Perception_NotCapability_MayDriveAI.md]] : Trump-Xi Summit: Perception, Not Capability, May Drive AI -Bioweapons Risks
-- [[2026-09-25_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-25_TwoyearsofOpenAIAcademy.md]] : Two years of OpenAI Academy
 - [[2026-09-25_Bringyourco-founder_partner_orcolleagueandget50_of.md]] : Bring your co-founder, partner, or colleague and get 50% off a second TechCrunch Disrupt 2026 pass
 - [[2026-09-25_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
@@ -2948,7 +2895,6 @@ tags: ['wiki']
 - [[2026-09-26_AtMetaConnect_thecompany_ssmartglasseswereeverywhe.md]] : At Meta Connect, the company’s smart glasses were everywhere
 - [[2026-09-26_WhatifAIdoomsayingis_ineffect_commonsense_-AFR.md]] : What if AI doom saying is, in effect, common sense? - AFR
 - [[2026-09-26_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
-- [[2026-09-26_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-26_HowtokeepenjoyingprogramminginaworldofLLMs.md]] : How to keep enjoying programming in a world of LLMs
 - [[2026-09-26_Fifteenyearslater_theAppleCardsoriginstory.md]] : Fifteen years later, the Apple Cards origin story
 - [[2026-09-26_BreakingUpwithGooglePlay_WhyConversationsIsNowFree.md]] : Breaking Up with Google Play: Why Conversations Is Now Free
@@ -2966,7 +2912,6 @@ tags: ['wiki']
 - [[2026-09-27_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
 - [[2026-09-27_OpenAIpausestrainingofits_mostcapablemodels_.md]] : OpenAI pauses training of its ‘most capable models’
 - [[2026-09-27_GoConcurrencyDistilled.md]] : Go Concurrency Distilled
-- [[2026-09-27_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-27_OpenAIagentstriedtobruteforceaUNwebsite_sAPIfields.md]] : OpenAI agents tried to bruteforce a UN website's API fields
 - [[2026-09-27_DoesGeorgismwork_Fiveyearslater.md]] : Does Georgism work? Five years later
 - [[2026-09-27_OpenAIFeared_Optics_ofwhatmightappearonHackerNews.md]] : OpenAI Feared "Optics" of what might appear on Hacker News
@@ -2990,7 +2935,6 @@ tags: ['wiki']
 - [[2026-09-28_EngramisasamplerthatturnsbrokenAIhallucinationsint.md]] : Engram is a sampler that turns broken AI hallucinations into music
 - [[2026-09-28_UIcomputerscienceprofessorsdiscussgrowingAIsafetyc.md]] : UI computer science professors discuss growing AI safety concerns - The Daily Illini
 - [[2026-09-28_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
-- [[2026-09-28_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-28_Anthropic_sCEOisabouttohavedinnerwithPresidentTrum.md]] : Anthropic’s CEO is about to have dinner with President Trump
 - [[2026-09-28_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-28_OwedabilliondollarsinNvidiastock.md]] : Owed a billion dollars in Nvidia stock
@@ -3017,7 +2961,6 @@ tags: ['wiki']
 - [[2026-09-29_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
 - [[2026-09-29_HowwewilldobetterforAustralia.md]] : How we will do better for Australia
 - [[2026-09-29_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
-- [[2026-09-29_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-29_Anthropic_sprospectusdetailslosses_growth_and_yes_.md]] : Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity
 - [[2026-09-29_AIcompaniesleakdatatoadvertisers_pdf_.md]] : AI companies leak data to advertisers [pdf]
 - [[2026-09-29_YouAreNoLongerInvitedtoDinner.md]] : You Are No Longer Invited to Dinner
@@ -3051,7 +2994,6 @@ tags: ['wiki']
 - [[2026-09-30_IntroducingGPT-6_1Sol.md]] : Introducing GPT-6.1 Sol
 - [[2026-09-30_America_govgetsreallyweirdwhenyouaskitaboutMinecra.md]] : America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch
 - [[2026-09-30_Livenerf_HasOpus5_5beennerfedyet_.md]] : Livenerf: Has Opus 5.5 been nerfed yet?
-- [[2026-09-30_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-09-30_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-30_September2026_Theworldtoday_asseenbyonePolishguy.md]] : September 2026: The world today, as seen by one Polish guy
 - [[2026-09-30_Pi_dev_YouSaidNoMCP.md]] : Pi.dev: You Said No MCP
@@ -3087,7 +3029,6 @@ tags: ['wiki']
 - [[2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
 - [[2026-10-01_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
 - [[2026-10-01_Z_ai__Zai_org_onX.md]] : Z.ai (@Zai_org) on X
-- [[2026-10-01_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-01_ElonMusk_sGrokipediahasa_newlyrefreshed_design.md]] : Elon Musk’s Grokipedia has a ‘newly refreshed’ design
 - [[2026-10-01_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
 - [[2026-10-01_AIatMetaBlog.md]] : AI at Meta Blog
@@ -3116,7 +3057,6 @@ tags: ['wiki']
 - [[2026-10-02_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
 - [[2026-10-02_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
 - [[2026-10-02_ElevenLabsgivesuniversitystudentsfreeAItools_ETIHE.md]] : ElevenLabs gives university students free AI tools | ETIH EdTech News
-- [[2026-10-02_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-02_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
 - [[2026-10-02_AIatMetaBlog.md]] : AI at Meta Blog
 - [[2026-10-02_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
@@ -3141,7 +3081,6 @@ tags: ['wiki']
 - [[2026-10-03_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
 - [[2026-10-03_AIatMetaBlog.md]] : AI at Meta Blog
 - [[2026-10-03_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
-- [[2026-10-03_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-03_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-10-03_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
 - [[2026-10-03_MetaopensourcescodetoletyoumakeMuseAIgadgets.md]] : Meta open sources code to let you make Muse AI gadgets
@@ -3162,7 +3101,6 @@ tags: ['wiki']
 - [[2026-10-04_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
 - [[2026-10-04_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
 - [[2026-10-04_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-10-04_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-04_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
 - [[2026-10-04_AIatMetaBlog.md]] : AI at Meta Blog
 - [[2026-10-04_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
@@ -3180,7 +3118,6 @@ tags: ['wiki']
 - [[2026-10-05_AmodelguidefortheGPT-6family.md]] : A model guide for the GPT-6 family
 - [[2026-10-05_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
 - [[2026-10-05_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
-- [[2026-10-05_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-05_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
 - [[2026-10-05_AIatMetaBlog.md]] : AI at Meta Blog
 - [[2026-10-05_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
@@ -3206,7 +3143,6 @@ tags: ['wiki']
 - [[2026-10-06_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
 - [[2026-10-06_BristolMyersSquibbaccelerateslife-changingscientif.md]] : Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI
 - [[2026-10-06_HowOpenAILostControlofanAIModel_andWhatNeedstoChan.md]] : How OpenAI Lost Control of an AI Model—and What Needs to Change
-- [[2026-10-06_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-06_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-10-06_Oct2_2026AnnouncementsAnthropicinvests_100milliont.md]] : Oct 2, 2026 Announcements Anthropic invests $100 million to train 10,000 engineers and tackle the enterprise AI talent gap
 - [[2026-10-06_OpenAIcutstieswith3safetyresearchers_WSJreports_Te.md]] : OpenAI cuts ties with 3 safety researchers, WSJ reports | TechCrunch
@@ -3248,7 +3184,6 @@ tags: ['wiki']
 - [[2026-10-07_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
 - [[2026-10-07_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
 - [[2026-10-07_Oct6_2026AnnouncementsExpandingtheCyberVerificatio.md]] : Oct 6, 2026 Announcements Expanding the Cyber Verification Program
-- [[2026-10-07_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-07_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
 - [[2026-10-07_ChatGPTforTeensisan_unacceptablerisk__saysCommonSe.md]] : ChatGPT for Teens is an ‘unacceptable risk,’ says Common Sense Media
 - [[2026-10-07_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
@@ -3269,7 +3204,6 @@ tags: ['wiki']
 - [[2026-10-08_ChatGPT__8217_s__8216_IntelligentUI__8217_updatefi.md]] : ChatGPT&#8217;s &#8216;Intelligent UI&#8217; update fills its responses with pictures, charts, and buttons
 - [[2026-10-08_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
 - [[2026-10-08_Helpingteenslearn_plan_andshapethefutureofAI.md]] : Helping teens learn, plan, and shape the future of AI
-- [[2026-10-08_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-08_China_sManusraisesover_500Minfirstfundingroundsinc.md]] : China’s Manus raises over $500M in first funding round since split with Meta
 - [[2026-10-08_5daystoTechCrunchDisrupt2026_Don_tpaymoreatthedoor.md]] : 5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass
 - [[2026-10-08_CanyoutrustMeta_sMuseorOpenAI_sDotstorunyourlife_.md]] : Can you trust Meta’s Muse or OpenAI’s Dots to run your life?
@@ -3287,7 +3221,6 @@ tags: ['wiki']
 - [[2026-10-09_AnthropiclaunchesfreeAIsecurityscansforopen-source.md]] : Anthropic launches free AI security scans for open-source projects
 - [[2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-10-09_LegalOnhalvesCodexcostswhilemaintainingdevelopment.md]] : LegalOn halves Codex costs while maintaining development speed - OpenAI
-- [[2026-10-09_ASafePathtoOpenWeights.md]] : A Safe Path to Open Weights
 - [[2026-10-09_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
 - [[2026-10-09_OpenAIdoublesdownondecisiontofirethreeAIsafetyrese.md]] : OpenAI doubles down on decision to fire three AI safety researchers
 - [[2026-10-09_InstinctwasthebuzziestAIagentaround_canitsurviveMu.md]] : Instinct was the buzziest AI agent around — can it survive Muse?
@@ -3299,3 +3232,31 @@ tags: ['wiki']
 - [[2026-10-09_Themakerofnon-textAImodelJevvaluedat_7_5Bjustweeks.md]] : The maker of non-text AI model Jev valued at $7.5B just weeks after launch
 - [[2026-10-09_Anthropiccan_treliablycontrolitsAIagents_It_scutti.md]] : Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
 - [[2026-10-09_HowCanAIResponsiblyOpenAccesstoGovernmentData_AnEv.md]] : How Can AI Responsibly Open Access to Government Data? An Evaluation of the National ...
+- [[2026-10-10_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-10_Anthropic_sAIgavePhiladelphiapoliceafaketipaboutan.md]] : Anthropic’s AI gave Philadelphia police a fake tip about an unsolved homicide
+- [[2026-10-10_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
+- [[2026-10-10_HowCanAIResponsiblyOpenAccesstoGovernmentData_AnEv.md]] : How Can AI Responsibly Open Access to Government Data? An Evaluation of the National ...
+- [[2026-10-10_Anthropiccan_treliablycontrolitsAIagents_It_scutti.md]] : Anthropic can’t reliably control its AI agents. It’s cutting off its internal evals from the live internet instead
+- [[2026-10-10_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
+- [[2026-10-10_ExpandingtheCyberVerificationProgram.md]] : Expanding the Cyber Verification Program
+- [[2026-10-10_Sophoscutsthreatinvestigationtimeby96_withOpenAIDa.md]] : Sophos cuts threat investigation time by 96% with OpenAI Daybreak
+- [[2026-10-10_AIagentmakersarepromisingprivacy_willtheydeliver_.md]] : AI agent makers are promising privacy — will they deliver?
+- [[2026-10-10_Anthropiciscuttingoffitsinternalevaluationsfromthe.md]] : Anthropic is cutting off its internal evaluations from the internet
+- [[2026-10-10_Appledisclosesdealtohireteamandlicensetechfrompers.md]] : Apple discloses deal to hire team and license tech from personalized podcast startup Huxe
+- [[2026-10-10_Microsoft_sSatyaNadellasaysAImodelsneedan_emergenc.md]] : Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
+- [[2026-10-10_SatyaNadellasaysweshouldassumeallAImodelsare_compr.md]] : Satya Nadella says we should assume all AI models are ‘compromised’
+- [[2026-10-10_GuangdongPartyChiefVisitsTencent_PonyMaAppearsAlon.md]] : Guangdong Party Chief Visits Tencent; Pony Ma Appears Alongside 28-Year-Old Chief AI Scientist
+- [[2026-10-11_SatyaNadellasaysweshouldassumeallAImodelsare_compr.md]] : Satya Nadella says we should assume all AI models are ‘compromised’
+- [[2026-10-11_ExpandingtheCyberVerificationProgram.md]] : Expanding the Cyber Verification Program
+- [[2026-10-11_Microsoft_sSatyaNadellasaysAImodelsneedan_emergenc.md]] : Microsoft’s Satya Nadella says AI models need an ‘emergency brake’
+- [[2026-10-11_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[2026-10-11_GuangdongPartyChiefVisitsTencent_PonyMaAppearsAlon.md]] : Guangdong Party Chief Visits Tencent; Pony Ma Appears Alongside 28-Year-Old Chief AI Scientist
+- [[2026-10-11_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
+- [[2026-10-11_Sophoscutsthreatinvestigationtimeby96_withOpenAIDa.md]] : Sophos cuts threat investigation time by 96% with OpenAI Daybreak
+- [[2026-10-11_SiliconValleyisfallinginlinewithTrump_sattempttore.md]] : Silicon Valley is falling in line with Trump’s attempt to rename AI
+- [[2026-10-12_SuccessStories_AIandHealthcare-ConnectedWorld.md]] : Success Stories: AI and Healthcare - Connected World
+- [[2026-10-12_MicrosoftpresidentsaysUKisbestplacedtodriveAIregul.md]] : Microsoft president says UK is best placed to drive AI regulation
+- [[2026-10-12_MetahassomeWonderFullnewAImodels.md]] : Meta has some Wonder Full new AI models
+- [[2026-10-12_Metareleasesitsfirstfrontiermodel_MuseWonder.md]] : Meta releases its first frontier model, Muse Wonder
+- [[2026-10-12_GoogleUnveilsMajorAIUpdatesAcrossDeepMind_Gemini_T.md]] : Google Unveils Major AI Updates Across DeepMind, Gemini | The Tech Buzz
+- [[2026-10-12_EpicGamesreportedlypivotingto_AIfirst_gamedevelopm.md]] : Epic Games reportedly pivoting to " AI first" game development model - Ars Technica
