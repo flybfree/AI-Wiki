@@ -16182,3 +16182,6 @@ tags: ['wiki']
 ## [2026-10-13 08:54] ingest | 2026-10-13_ApplelaunchesHomeView_itsfirstsmartdisplayfortheho.md
 ## [2026-10-13 10:44] ingest | 2026-10-13_Epicshiftsto__8216_AI-accelerateddevelopment__8217.md
 ## [2026-10-13 11:29] ingest | 2026-10-13_GooglefinallyreleasesGemini4Argon.md
+## [2026-10-13 12:30] ingest | 2026-10-13_FacebookwillletyoucustomizeyourfeedalgorithmusingA.md
+## [2026-10-13 13:29] ingest | 2026-10-13_Idon_tmissthecameraontheRay-BanMetaAudioglasses.md
+## [2026-10-13 14:29] ingest | 2026-10-13_HiggsfieldtakesAIvideofrom1minutetoover10.md

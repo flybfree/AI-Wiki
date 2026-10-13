@@ -3265,3 +3265,6 @@ tags: ['wiki']
 - [[2026-10-13_ApplelaunchesHomeView_itsfirstsmartdisplayfortheho.md]] : Apple launches HomeView, its first smart display for the home
 - [[2026-10-13_Epicshiftsto__8216_AI-accelerateddevelopment__8217.md]] : Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game
 - [[2026-10-13_GooglefinallyreleasesGemini4Argon.md]] : Google finally releases Gemini 4 Argon
+- [[2026-10-13_FacebookwillletyoucustomizeyourfeedalgorithmusingA.md]] : Facebook will let you customize your feed algorithm using AI
+- [[2026-10-13_Idon_tmissthecameraontheRay-BanMetaAudioglasses.md]] : I don’t miss the camera on the Ray-Ban Meta Audio glasses
+- [[2026-10-13_HiggsfieldtakesAIvideofrom1minutetoover10.md]] : Higgsfield takes AI video from 1 minute to over 10
