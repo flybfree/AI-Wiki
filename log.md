@@ -5,7 +5,9 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-10-14 12:05] summarize | created canonical October 14 AI-only briefing from three same-day captures; synthesized long-running self-improving agents, Google Earth AI geospatial reasoning, and Square conversational point-of-sale AI; latest arXiv pass completed 14 queries across 33 pages with 2,300 entries and 0 incomplete query families but stopped at October 13, so target-date paper curation is incomplete and no paper was promoted; Logseq mirror byte-identical; GitHub commit/push required
+## [2026-10-14 18:02] summarize | refreshed canonical October 14 AI-only briefing with frontier competition, eight-state OpenAI safety litigation, and Flock acoustic-surveillance transparency dispute; preserved complete arXiv query coverage with no target-date paper promoted; Logseq mirror synchronized; GitHub commit/push required
+
+## [2026-10-14 12:05] summarize | created canonical October 14 AI-only briefing from three same-day captures; synthesized long-running self-improving multi-agent infrastructure, geospatial reasoning agents, and Square conversational point-of-sale AI; latest arXiv pass completed 14 queries across 33 pages with 2,300 entries and 0 incomplete query families but stopped at October 13, so target-date paper curation is incomplete and no paper was promoted; Logseq mirror byte-identical; GitHub commit/push require
 
 ## [2026-10-14 00:03] publish | 2026-10-13 canonical final published; complete local curation query returned 0 keeps, stable-identity comparison found 0 uncovered carry-forward papers, and final briefing contains 0 research-paper links; source recurrence guard suppressed previously covered URLs; wiki/Logseq mirror byte-identical; GitHub commit a78be7ca pushed and origin/master verified; Lumistorm post 228 created at https://lumistorm.net/daily-ai-intelligence-2026-10-13/; REST readback, published status, Daily AI Briefing category, cache-busted live page, archive presence/order, date, source links, and raw-wiki-syntax checks passed
 
@@ -16444,3 +16446,5 @@ tags: ['wiki']
 ## [2026-10-14 12:16] ingest | 2026-10-14_AmpputsAIagentstoworkbeyondcodewithOpenAImodels.md
 ## [2026-10-14 13:06] ingest | 2026-10-14_Research_2026_10wayswe_reamplifyinghumaningenuity.md
 ## [2026-10-14 14:22] ingest | 2026-10-14_TheAIraceisbackon.md
+## [2026-10-14 16:23] ingest | 2026-10-14_EightstatessueOpenAI_sayingChatGPTisn__8217_tsafef.md
+## [2026-10-14 17:10] ingest | 2026-10-14_FlockCEOsaysitsmicrophonesdetect_justgunshots__its.md
