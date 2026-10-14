@@ -16189,3 +16189,6 @@ tags: ['wiki']
 ## [2026-10-13 14:29] ingest | 2026-10-13_HiggsfieldtakesAIvideofrom1minutetoover10.md
 ## [2026-10-13 15:24] ingest | 2026-10-13_ShopifyopensitscataloguptomoreAIagents.md
 ## [2026-10-13 16:29] ingest | 2026-10-13_OpenAIemployeearrestedforallegedlyplantingabuginac.md
+## [2026-10-13 20:36] stage-paper | 2026-10-10_02-46-44Z_Reels_RSI_Program_LevelSelf_ImprovementforCode_Ren.md
+## [2026-10-13 20:36] stage-paper | 2026-10-10_14-37-22Z_SEEK_AgenticKnowledgeGraphRetrievalforSecureCodeGe.md
+## [2026-10-13 20:36] stage-paper | 2026-10-10_18-26-57Z_RegExtract_ABenchmarkforPFASRegulatoryInformationE.md
