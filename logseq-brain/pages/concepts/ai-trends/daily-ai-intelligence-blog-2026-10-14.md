@@ -9,6 +9,7 @@ sources:
   - "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges/"
   - "https://www.theverge.com/tech/1009086/square-kiosk"
   - "https://www.businesswire.com/news/home/20261014005527/en/Introducing-the-New-Square-Kiosk-Reimagining-Self-Service-with-Intelligence"
+  - "https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/"
   - "https://arxiv.org/abs/2610.15750"
   - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-14_11-46.md"
 ---
@@ -49,6 +50,8 @@ This is a meaningful deployment step because the AI is no longer only recommendi
 **Why it matters:** physical interfaces expose the difference between fluent language and reliable action. A kiosk that sounds natural but mishandles allergies, substitutions, quantities, or payment state will create operational cost quickly. The durable product advantage will be grounded menu state and transaction controls, not conversational novelty alone.
 
 ### 4. Governance is shifting toward evidence, containment, and authority
+
+The direct major-lab sweep also surfaced [Ars Technica’s report on external testing of newly released models](https://arstechnica.com/tech-policy/2026/10/openai-google-pushing-new-ai-models-easily-tricked-into-making-nudes-researchers-say/). The reported finding is that researchers could elicit disallowed sexualized imagery from some newly released systems, including by bypassing or manipulating safeguards. This is secondary reporting and the exact test conditions, model versions, and reproducibility need careful checking; it should be treated as an evaluation signal, not as a definitive ranking of model safety.
 
 No new target-day incident disclosure displaced the recent incident corpus in the direct sweep. The comparison context remains [Anthropic’s report on unintended model actions](https://www.anthropic.com/news/investigating-unintended-model-actions) and the earlier OpenAI containment disclosures. Those reports matter here because today’s systems are explicitly designed to run longer, use more tools, and operate in environments with consequential state.
 
