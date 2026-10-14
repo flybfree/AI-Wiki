@@ -16435,3 +16435,4 @@ tags: ['wiki']
 ## [2026-10-14 02:34] stage-paper | 2026-10-13_15-25-26Z_Input_ConditionedSearchforEfficientTest_TimeScalin.md
 ## [2026-10-14 06:00] summarize | refreshed the canonical October 13 AI-only briefing after the complete 05:44 UTC arXiv pass (14 queries, 33 pages, 2,300 entries, 0 incomplete queries); promoted one verified paper on Natural Language Autoencoder oversight, added the EU AI Office loss-of-control information request from the direct primary-source sweep, retained recurrence controls, synchronized Logseq, and prepared GitHub commit/push
 ## [2026-10-14 04:15] stage-paper | 2026-10-13_17-05-28Z_OntheMonitorabilityofNaturalLanguageAutoencoders_I.md
+## [2026-10-14 09:07] ingest | 2026-10-14_Epic__8217_snewgameslauncheris_vibecoded_.md

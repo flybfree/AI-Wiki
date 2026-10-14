@@ -3271,3 +3271,4 @@ tags: ['wiki']
 - [[2026-10-13_HiggsfieldtakesAIvideofrom1minutetoover10.md]] : Higgsfield takes AI video from 1 minute to over 10
 - [[2026-10-13_ShopifyopensitscataloguptomoreAIagents.md]] : Shopify opens its catalog up to more AI agents
 - [[2026-10-13_OpenAIemployeearrestedforallegedlyplantingabuginac.md]] : OpenAI employee arrested for allegedly planting a bug in a conference room
+- [[2026-10-14_Epic__8217_snewgameslauncheris_vibecoded_.md]] : Epic&#8217;s new games launcher is ‘vibe coded’
