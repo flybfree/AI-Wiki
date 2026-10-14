@@ -15,7 +15,9 @@ sources:
   - "https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents"
   - "https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device"
   - "https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai"
-  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-13_17-18.md"
+  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-14_05-44.md"
+  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/summaries/SUMMARY_PAPER_2026-10-14_On_the_Monitorability_of_Natural_Language_Autoenco.md"
+  - "https://2eu.brussels/en/news/ai-office-seeks-information-from-developers-after-loss-of-control-incidents-involving-advanced-models"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-10-13
 
@@ -27,7 +29,7 @@ The second adoption signal is operational rather than promotional: The Verge rep
 
 Two late captures widen the deployment picture. Shopify is opening access to more than one billion catalog listings to customer-configured agents, while retaining per-purchase human approval and Shop Pay checkout. Separately, OpenAI says it used its models to trace a recording device allegedly planted by an employee; the U.S. Department of Justice confirms the arrest and federal charge, while the underlying allegations remain subject to the ongoing case.
 
-The latest local arXiv scout completed 14 configured query families across 14 pages, saw 850 entries, and reported no query-level failures. Its newest results still stop on October 9, however, and page-level curation has not produced a verified keep set for October 13. This remains a **coverage-incomplete research day**, not a clean zero-result day.
+The latest local arXiv scout completed 14 configured query families across 33 pages, saw 2,300 entries, and reported no query-level failures. Its newest results reach October 13. Page-level review promoted one verified paper: [On the Monitorability of Natural Language Autoencoders: Identification vs Discrimination](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/summaries/SUMMARY_PAPER_2026-10-14_On_the_Monitorability_of_Natural_Language_Autoenco.md).
 
 **Verdict:** The important change is the convergence of frontier competition, AI-native production, and institutional demands for independent access and authority. Capability announcements are arriving faster than the evaluation and governance machinery needed to validate them.
 
@@ -57,6 +59,8 @@ The committee's stated concern is that AISI can evaluate risk if it receives acc
 
 **Why it matters:** independent evaluation without access or authority becomes advisory theater. A credible regime needs pre-release access, reproducible testing, incident reporting, remediation duties, and a tested path to pause or revoke deployment.
 
+The EU AI Office added a parallel signal on October 13 by requesting serious-incident reports and information about safety, monitoring, and intervention mechanisms after recent advanced-model loss-of-control incidents. This does not establish a new incident by itself; it shows that regulators are beginning to investigate the control mechanisms around multiple incidents as a class.
+
 ### 4. Agentic commerce is becoming a shared transaction layer
 
 [The Verge's Shopify report](https://www.theverge.com/news/1010365/shopify-opens-its-catalog-up-to-more-ai-agents) says shoppers will be able to connect almost any AI agent to Shop, search more than one billion listings, define rules such as budget or shipping constraints, and approve each purchase through Shop Pay. This moves Shopify from a single-partner integration toward a common commerce layer for many agents. The human-approval requirement is a meaningful control, but the operational risks remain: incorrect interpretation of constraints, fraud, privacy, attribution, and disputes over who is responsible when an agent chooses badly.
@@ -77,13 +81,9 @@ The recurrence distinction matters. The incident remains strategically relevant 
 
 **Why it matters:** governance is increasingly being built around operational failure modes rather than abstract principles. The quality of future oversight will depend on whether incidents become reproducible evidence and enforceable control requirements.
 
-### 7. Research coverage is broad but not yet curation-complete
+### 7. Research coverage is broad, with one verified oversight paper
 
-The latest [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-13_17-18.md) reports 14 queries, 14 pages, 850 entries, and zero incomplete query families. The high-priority candidates cluster around agentic data, self-improving agents, tool use, reasoning, memory, benchmarks, and open-source models. The top-ranked candidates include work on scaling agentic data, experience-driven self-improvement, execution-grounded self-correction, tool retrieval, coding-agent verification, and falsifiable world models.
-
-However, the newest results in the completed pass still stop on October 9. Discovery ranking is not page-level keep/reject review, and no verified paper keep is available for October 13.
-
-**Curation status:** **No paper promoted. Coverage incomplete.** This is not “no relevant papers found.” The missing work is target-date freshness and page-level verification of candidates before any paper-summary link is added to the wiki or Logseq.
+The latest [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-14_05-44.md) reports 14 queries, 33 pages, 2,300 entries, and zero incomplete query families. The newest results reach October 13, and page-level review promoted one paper on the identification-versus-discrimination gap in Natural Language Autoencoder oversight.
 
 ## What changed today
 
@@ -91,17 +91,18 @@ However, the newest results in the completed pass still stop on October 9. Disco
 2. UK government testimony confirmed that AISI is evaluating Argon, tying a commercial launch to independent safety testing.
 3. Epic's reported AI-first mandate shows AI adoption moving toward default production policy for code and art, not only optional assistance.
 4. A UK parliamentary evidence sequence sharpened the oversight question from “do labs have safety frameworks?” to “who can access, test, compel, and stop a frontier release?”
-5. No newer same-day primary incident disclosure displaced the existing incident corpus.
-6. Shopify widened agentic commerce beyond a single partner integration while keeping human purchase approval.
-7. OpenAI's alleged insider-device case showed a direct defensive use of models in corporate forensics.
-8. The latest arXiv pass completed cleanly at the query level, but its newest results remain October 9 and page-level curation is incomplete.
-9. Repeated sources were suppressed when their canonical URLs were already covered; prior incidents remain comparison context rather than duplicated target-day intake.
+5. The EU AI Office requested incident reports and control-mechanism information, broadening the governance response beyond a single national evaluator.
+6. No newer same-day primary incident disclosure displaced the existing incident corpus.
+7. Shopify widened agentic commerce beyond a single partner integration while keeping human purchase approval.
+8. OpenAI's alleged insider-device case showed a direct defensive use of models in corporate forensics.
+9. The latest arXiv pass completed cleanly at the query level, reached October 13, and produced one page-level curation keep: the NLA monitorability paper.
+10. Repeated sources were suppressed when their canonical URLs were already covered; prior incidents remain comparison context rather than duplicated target-day intake.
 
 Compared with October 12, the narrative shifts from federated healthcare security, enforceable controls, and agent-boundary failures toward the interaction between frontier-model competition, AI-native production economics, and the authority needed to verify those systems.
 
 ## Approved research papers
 
-The complete local curation query for October 13 returned **0 kept papers**. Stable-identity comparison against all earlier dated briefings found **0 uncovered carry-forward papers**. The final briefing therefore contains **0 research-paper links**. This is a curation result, not evidence that no relevant papers were discovered; the target-day arXiv intake remained coverage-incomplete and page-level review had not produced a verified keep set.
+The complete local curation query for October 13 returned **1 kept paper**. Stable-identity comparison against all earlier dated briefings found **0 uncovered carry-forward papers**. The selected paper is [On the Monitorability of Natural Language Autoencoders: Identification vs Discrimination](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/summaries/SUMMARY_PAPER_2026-10-14_On_the_Monitorability_of_Natural_Language_Autoenco.md). It formalizes why reconstructable natural-language explanations can identify an activation without reliably discriminating a true account from a fluent near-miss: the released checkpoint reached 100% against accounts of different activations but only 60.2% against single-claim rivals. This is a direct caution against treating fluent mechanistic explanations as sufficient evidence for oversight.
 
 ## Why it matters
 
@@ -123,12 +124,13 @@ October 13 adds two capability-side pressures to that stack. Argon's pricing and
 - Whether Shopify's human-approval and Shop Pay flow becomes a reusable permission standard for agentic commerce.
 - The legal and security findings from the OpenAI recording-device investigation, without treating the allegation as adjudicated fact.
 - Any same-day primary release, safety report, or incident disclosure from OpenAI, Anthropic, Google DeepMind, Meta, xAI, Qwen, Z.ai, Mistral, DeepSeek, Microsoft AI, NVIDIA AI, Cohere, Perplexity, Hugging Face, or AI21.
-- A fresh arXiv pass whose newest results reach October 13, followed by page-level curation.
+- A fresh arXiv pass whose newest results reach October 13, followed by continued page-level curation of agent, oversight, and model-evaluation papers.
 
 ## References
 
 - [UK Parliament — AI adoption, safety and governance: oral evidence](https://committees.parliament.uk/event/28282/formal-meeting-oral-evidence-session/)
 - [UK Parliament — Written statement on AI security and AISI evaluations](https://questions-statements.parliament.uk/written-statements/detail/2026-10-12/hcws357)
+- [EU AI Office — Information request after advanced-model loss-of-control incidents](https://2eu.brussels/en/news/ai-office-seeks-information-from-developers-after-loss-of-control-incidents-involving-advanced-models)
 - [Google DeepMind — Gemini 4 Argon model card](https://deepmind.google/models/model-cards/gemini-4-argon/) — official benchmark and safety-disclosure source
 - [Google Cloud — Gemini 4 Argon available on Google Cloud](https://cloud.google.com/blog/products/ai-machine-learning/gemini-4-argon-available-on-google-cloud)
 - [The Verge — Google finally releases Gemini 4 Argon](https://www.theverge.com/ai-artificial-intelligence/1009862/google-releases-gemini-4-argon) — secondary report; claims not independently benchmarked here
@@ -138,7 +140,8 @@ October 13 adds two capability-side pressures to that stack. Argon's pricing and
 - [The Verge — OpenAI employee arrested for allegedly planting a bug](https://www.theverge.com/ai-artificial-intelligence/1010642/openai-employee-arrested-recording-device) — reported allegation; investigation ongoing
 - [U.S. Department of Justice — Saudi national arrested for installing surreptitious audio recording device at OpenAI](https://www.justice.gov/opa/pr/saudi-national-arrested-installing-surreptitious-audio-recording-device-openai) — primary charging announcement
 - [Anthropic — Investigating unintended model actions](https://www.anthropic.com/news/investigating-unintended-model-actions) — prior-day comparison context, not new target-day intake
-- [arXiv scout log — 2026-10-13 17:18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-13_17-18.md)
+- [arXiv scout log — 2026-10-14 05:44](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-14_05-44.md)
+- [Paper summary — On the Monitorability of Natural Language Autoencoders](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/summaries/SUMMARY_PAPER_2026-10-14_On_the_Monitorability_of_Natural_Language_Autoenco.md) — selected October 13 paper
 
 ## CTA
 
