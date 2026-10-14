@@ -1,0 +1,18 @@
+---
+title: FON: A Draft-Revise Dual-Organ Language Model without Sequence-Level Quadratic Attention
+published: 2026-10-12T07:28:24Z
+authors: Helong Hu, Hongdan Pan, Shuiqing Hu
+url: http://arxiv.org/abs/2610.16301v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# FON: A Draft-Revise Dual-Organ Language Model without Sequence-Level Quadratic Attention
+
+## Abstract
+Self-attention assigns two functions to one mechanism-where to read and how to mix-at the price of O(L^2) training, an O(T) decode state, and position signals bound to the training length. Existing attention-free alternatives all optimize the single function of generation. We propose FON (Fusion-Organ Network), which differentiates one weight stack into a drafting organ (multi-tap learnable delays + content-adaptive recursion; causal, O(S) training, O(1) decode state, no sequence-level quadratic attention) and a revision organ that re-processes the written prefix through multi-scale ripple kernels injected via weak gates, never generating. At 30M parameters, iso-parameter and iso-token budget, FON reaches perplexity 131.03 on WikiText-103, beating Transformer (197.73) and Mamba2 (152.53); the advantage persists under all depth-aligned baselines and at the 70M tier (-20.8%). At 8x length extrapolation FON degrades by ~8-9% without positional-encoding engineering, between ALiBi and RoPE. The revision channel provides a structural pathway for in-domain infilling that causal architectures lack in principle (+19% over on-demand coupling), at a perplexity cost indistinguishable within measurement precision. We report all costs and boundaries: impaired long-range retrieval, synthetic-task disadvantages, weaker out-of-domain code infilling than a same-recipe Transformer, and a 6.5-12.3x wall-clock gap.
+
+## Metadata
+- **Published**: 2026-10-12T07:28:24Z
+- **Authors**: Helong Hu, Hongdan Pan, Shuiqing Hu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.16301v1)

@@ -1,0 +1,18 @@
+---
+title: BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views
+published: 2026-10-12T22:17:51Z
+authors: Yuetian Chen, Kaiyuan Zhang, Yuntao Du, Thomas Li, Mark Tenenholtz, Kyle Polley, Jerry Ma, Denis Yarats, Ninghui Li
+url: http://arxiv.org/abs/2610.17457v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# BrowseSafe++: Benchmarking Prompt Injection Detection Across Web Contexts, Languages, and Browser Views
+
+## Abstract
+Browser agents need to make decisions and execute actions on behalf of users while consuming untrusted webpages, creating opportunities for malicious instructions embedded in webpages to redirect legitimate tasks. We introduce BrowseSafe++, which extends BrowseSafe from 14,719 pages to 38,675 pairs of pages. Most of its prompt injections were observed in the wild on production websites. We keep each injection unchanged and rewrite the sensitive parts of the page around it to protect privacy. Each attacked page has a clean copy of the same page as its control. Both are provided as HTML, Markdown, an accessibility tree, and a screenshot. Every pair includes a user task and its expected answer. The benchmark includes twelve types of websites, from news articles to shared documents and forums, with 24 attack types appearing in 18 different locations on a page. We use these paired pages to train BrowseSafe-Guard, two 0.8B-parameter detectors for text and screenshots. Both achieve higher F1 scores than the detector based on frontier models, while keeping false-positive rates on benign pages and inference cost low. BrowseSafe-Adapt revises benchmark injections from browser-agent feedback, and attacks that succeed on only a few percent of tasks when replayed directly reach up to 95.41% success once adapted.
+
+## Metadata
+- **Published**: 2026-10-12T22:17:51Z
+- **Authors**: Yuetian Chen, Kaiyuan Zhang, Yuntao Du, Thomas Li, Mark Tenenholtz, Kyle Polley, Jerry Ma, Denis Yarats, Ninghui Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.17457v1)

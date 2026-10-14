@@ -1,0 +1,18 @@
+---
+title: How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries
+published: 2026-10-13T14:30:12Z
+authors: Shreyasi Roy Chowdhury, Kiran Garimella
+url: http://arxiv.org/abs/2610.18465v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# How Safe Is ChatGPT Health Advice? Evidence from Real User Conversations in Four Global South Countries
+
+## Abstract
+People increasingly bring their health questions to ChatGPT, yet safety evaluations of LLM health advice rest almost entirely on clinician-authored vignettes, synthetic prompts, or simulated user profiles. The gap is widest for the Global South, where concerns about demographic bias and unsafe recommendations are well documented but have never been tested on real usage. We present, to our knowledge, the first demographically grounded safety evaluation of real-world health conversations with ChatGPT. From a consent-based data-donation corpus of 202,590 conversations from 1,252 users in India, Nigeria, Brazil, and Pakistan (December 2022 to February 2026), each linked to self-reported age and gender, we identify 15,555 health conversations, classify their health intent using an LLM classifier adapted from an established taxonomy, and score response safety under both a context-blind and a user-context-aware rubric. Roughly one in five health conversations receives a high-risk rating. Risk concentrates in symptom and condition queries and recurs through identifiable failure modes: unsafe medication or dosage guidance, harmful self-diagnosis, missing safety warnings, encouraging over-reliance on the model, and failure to refer users to professionals. Supplying the user's own accumulated context raises the high-risk share by 13-17 percentage points, and about one in four conversations rated safe in isolation turns out to be unsafe for the specific person asking. Safety evaluations built on synthetic cases are likely to miss these harms.
+
+## Metadata
+- **Published**: 2026-10-13T14:30:12Z
+- **Authors**: Shreyasi Roy Chowdhury, Kiran Garimella
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.18465v1)

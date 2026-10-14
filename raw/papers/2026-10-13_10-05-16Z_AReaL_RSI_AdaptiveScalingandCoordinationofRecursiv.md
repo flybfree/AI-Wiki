@@ -1,0 +1,18 @@
+---
+title: AReaL-RSI: Adaptive Scaling and Coordination of Recursive Self-Improvement
+published: 2026-10-13T10:05:16Z
+authors: Wenhao Zhou, Jiajun Song, Haitao Wang, Zipeng Qiu, Yingqi Peng, Ruida Xu, Jiale Li, Wenshuang Li, Shusheng Xu, Wei Dong, Hao Dai, Tongkai Yang, Yi Gao, Binhang Yuan
+url: http://arxiv.org/abs/2610.18083v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# AReaL-RSI: Adaptive Scaling and Coordination of Recursive Self-Improvement
+
+## Abstract
+Scaling recursive self-improvement requires additional computation to produce useful research progress in reaching persistent objectives. Intuitively, more researcher agents can explore more hypotheses, but early evaluation scores might misrepresent their promise, shared findings could lose their applicability conditions, and useful procedures could remain confined to completed investigations. In this paper, we present AReaL-RSI, a framework for organizing a persistent research team of agents without updating backbone LLM weights. We formulate the scaling problem in terms of evaluated outcomes and whole-system resource expenditure. Concretely, a leader agent selects task-appropriate research orientations and guides ongoing investigations; conditional memory sharing distinguishes unresolved problems from supported findings and enables recipient adaptation. During recursive evolution, after each campaign, evidence-based review revises researcher orientation, knowledge, and skills for later campaigns. Experiments compare AReaL-RSI with Codex-Goal on downstream harness optimization, GPU kernel optimization, and AI research tasks using two backbones. Under the reported resource allocations, AReaL-RSI improves Terminal Bench performance by 2.2 percentage points for each backbone and increases mean KernelBench speedup by 32.2-36.8%; further scalability comparisons favor the design of AReaL-RSI over native scaling: combining experience sharing with specialized researcher roles yields 1.9-27.5% lower kernel latency than independent exploration and 1.3-33.9% lower latency than sharing alone across all seven comparable task-backbone pairs.
+
+## Metadata
+- **Published**: 2026-10-13T10:05:16Z
+- **Authors**: Wenhao Zhou, Jiajun Song, Haitao Wang, Zipeng Qiu, Yingqi Peng, Ruida Xu, Jiale Li, Wenshuang Li, Shusheng Xu, Wei Dong, Hao Dai, Tongkai Yang, Yi Gao, Binhang Yuan
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.18083v1)

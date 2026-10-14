@@ -1,0 +1,18 @@
+---
+title: Separating Prompt Harmfulness from Interaction Safety via Partial Generation
+published: 2026-10-12T13:23:48Z
+authors: Ram Vikas Mishra, Shashank Aggarwal, Jahnavi Kumar, Amit Awekar
+url: http://arxiv.org/abs/2610.16761v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Separating Prompt Harmfulness from Interaction Safety via Partial Generation
+
+## Abstract
+LLM-based information systems need safety guardrails. Most guardrails classify the prompt alone. If the prompt looks harmful, the system rejects it before any answer is generated. This is costly. Many rejected prompts would have received a safe response. Users lose help they should have received from the information system. This cost grows as conversational and generative search becomes common. Prompt-level labels treat harm as a property of the query. But harm depends on what the model actually writes. Existing input-output guards do look at responses. But they judge a finished response, so the decision comes after full generation. However, we observe that safety of model interaction with the input prompt can be inferred early with only partial output. So the system can start generating, watch the partial response, and stop only if it turns harmful. We test this idea in three steps. First, we build a dataset of 41,944 prompt-response pairs with seven open weights LLMs from three families: Llama, Gemma, and Qwen. Second, we show that prompt harmfulness and interaction safety differ. Prompt labels and response labels agree on only 50.46\% of items (Cohen's $κ$ = 0.06). Of the prompts that make any model respond harmfully, only 3.5\% do so for all seven LLMs. Third, we show that partial responses carry most of the signal. Fine-tuned classifiers predict response-level harm well (best AUPRC 0.885, F1 0.807). About one third of the response tokens recover almost full-response AUPRC.
+
+## Metadata
+- **Published**: 2026-10-12T13:23:48Z
+- **Authors**: Ram Vikas Mishra, Shashank Aggarwal, Jahnavi Kumar, Amit Awekar
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.16761v1)

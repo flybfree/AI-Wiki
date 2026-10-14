@@ -1,0 +1,18 @@
+---
+title: Revisiting the 16x Pretraining Compute Gap between Diffusion and Autoregressive Language Models
+published: 2026-10-13T02:08:12Z
+authors: Guanghan Wang, Bing He, Zhan Shi, Benoit Dumoulin, Hanqing Lu, Volodymyr Kuleshov
+url: http://arxiv.org/abs/2610.17590v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Revisiting the 16x Pretraining Compute Gap between Diffusion and Autoregressive Language Models
+
+## Abstract
+Diffusion language models (DLMs) have attracted wide attention for their fast, parallel decoding, but they are believed to be far less efficient to train than autoregressive language models (ARMs): a widely cited study reports that a DLM needs roughly 16x the training compute of an ARM to match its likelihood, a figure that has made pretraining DLMs from scratch look prohibitive at scale. We find that the methodology behind this figure has fallen out of step with current DLM practice: it scores the model with its evidence lower bound (ELBO) and trains a full-sequence, decoder-only model. We therefore revisit the scaling laws of DLMs, adopting the exact likelihood under the model's own decoding order, block diffusion training, an encoder-decoder architecture, and a sweep over the block sizes used in practice. Under this new protocol, we study across ten model variants, about 1,700 models in total, and find that pretraining DLMs is far cheaper than previously thought. Concretely, scoring with the exact likelihood reduces the compute multiple to 12.8x; block diffusion training and an encoder-decoder architecture further reduce it to 7.8x at block size 32, and smaller block sizes narrow it to 4.6x at block size 8 and 3.0x at block size 4. We complement these scaling analyses with an empirical rule for the optimal decoder depth of encoder-decoder block diffusion, a held-out compute budget beyond the fitting range at which the gap between variants persists, and downstream benchmark results where likelihood improvements carry over to accuracy. Overall, the 16x figure substantially overstates the pretraining cost gap between DLMs and ARMs, and pretraining DLMs from scratch is far more viable than previously assumed.
+
+## Metadata
+- **Published**: 2026-10-13T02:08:12Z
+- **Authors**: Guanghan Wang, Bing He, Zhan Shi, Benoit Dumoulin, Hanqing Lu, Volodymyr Kuleshov
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.17590v1)

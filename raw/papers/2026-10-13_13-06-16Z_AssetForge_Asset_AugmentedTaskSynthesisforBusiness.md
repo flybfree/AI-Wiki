@@ -1,0 +1,18 @@
+---
+title: AssetForge: Asset-Augmented Task Synthesis for Business Automation Agents
+published: 2026-10-13T13:06:16Z
+authors: Xiangrui Liu, Shuo Tang, Siheng Chen
+url: http://arxiv.org/abs/2610.18330v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# AssetForge: Asset-Augmented Task Synthesis for Business Automation Agents
+
+## Abstract
+Training business automation agents requires executable tasks that connect a natural-language request to an application state and a verifiable end state. Traditional Rubrics requires Authors to recreate application interfaces, initial records, policy evidence, and outcome checks for each task, entangling business logic with repeated infrastructure work. We introduce AssetForge, an asset-augmented task-construction pipeline that pairs a reusable construction-asset library with task-specific Rubrics. The assets provide application interfaces, world-state components, policy/evidence carriers, and native assertion definitions; the Rubric directs their instantiation for a particular business task. Executable checks and an additional model-based review validate each candidate, return targeted feedback, and support bounded repair before acceptance. On AutomationBench v1.0.6 public-600, fine-tuning Qwen3.6-35B-A3B on 6,000 AssetForge examples yields 41.17% on the official strict pass@1 metric, 4.4 times the 9.33% base score (+31.83 points). With the same backbone and GLM-5.3 supervision, AssetForge reaches 41.17% versus 30.33% for traditional Rubrics, a 10.84-point gain (35.7% relative) at the same accepted-example scale (6,000 versus 6,000 examples). Both DeepSeek- and GLM-supervised AssetForge models improve AppWorld completion over the base model on Test-Normal and Test-Challenge. These results establish the advantage of AssetForge's complete construction pipeline on AutomationBench public: the coupled asset-Rubric interface directs Authors toward business logic, while executable checks and model-based review validate their tasks.
+
+## Metadata
+- **Published**: 2026-10-13T13:06:16Z
+- **Authors**: Xiangrui Liu, Shuo Tang, Siheng Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.18330v1)

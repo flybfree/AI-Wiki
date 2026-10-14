@@ -1,0 +1,18 @@
+---
+title: Agency as a New Organizing Abstraction for Computer Science
+published: 2026-10-12T21:21:21Z
+authors: Ian Foster
+url: http://arxiv.org/abs/2610.17410v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Agency as a New Organizing Abstraction for Computer Science
+
+## Abstract
+Advances in large-scale machine learning have enabled agentic AI systems: persistent, autonomous computational entities that pursue goals, initiate actions, and interact with open environments. These systems are often framed as applications of foundation models. We argue that this framing is incomplete: agency is also a candidate new organizing abstraction for computer science. What is new is not the concept of an agent, nor runtime policy generation per se, but its general-purpose, open-ended form, in which systems can synthesize courses of action from goals, observations, and memory, over tools and environments for which no complete task-specific model was specified in advance. Thus agency becomes a systems-level abstraction as well as an AI modeling concept. Where the process abstraction organizes computation around executing programs, agency organizes it around pursuing goals under bounded resources: a process executes a program; an agent pursues a goal. From this perspective, the recurring failures of deployed agentic systems (runaway resource consumption, behavior redirected by adversarial content, opaque continuous operation) are symptoms of structural abstraction gaps, not isolated engineering defects. We examine these gaps across six dimensions (execution, interfaces, correctness, oversight, coordination, and persistence) and argue that closing them requires coordinated advances in systems,
+
+## Metadata
+- **Published**: 2026-10-12T21:21:21Z
+- **Authors**: Ian Foster
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.17410v1)

@@ -1,0 +1,18 @@
+---
+title: Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops
+published: 2026-10-13T15:43:30Z
+authors: Yubo Li, Ramayya Krishnan, Rema Padman
+url: http://arxiv.org/abs/2610.18579v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Reading Right, Acting Wrong: Diagnosing Decision Failures of System One Models in Agent Loops
+
+## Abstract
+System One models choose an agent's next action by scoring a supplied set of options in a single pass. This makes them fast and cheap, but when they choose wrongly there is nothing to inspect: did the model misread what the agent has seen, or read it correctly and still act wrongly? We answer behaviorally. On a frozen benchmark of agent decision states from simulated environments, customer-service policies, tool use, web navigation and coding, we pair every next-action question with factual probes about the same state, each answered independently. Across seventeen fast systems and a reasoning model, the answer is consistent: most wrong actions follow correct reading, and the more accurate a system, the more of its errors take this form. These errors are not noise; they gather on the same states across systems of every kind. Where the probed facts provably determine the action, models that read every fact still fail to combine them, and their own answers, composed by code, repair the failure. On real states, what is missing is often not a fact but the next sub-goal.
+
+## Metadata
+- **Published**: 2026-10-13T15:43:30Z
+- **Authors**: Yubo Li, Ramayya Krishnan, Rema Padman
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.18579v1)
