@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-14.md) — canonical final; self-improving multi-agent infrastructure, geospatial reasoning agents, conversational point-of-sale AI, deployment controls, and no target-date paper promoted
  - [Summary: Daily AI Intelligence Briefing — 2026-10-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-13.md) — canonical final; Gemini 4 Argon rollout and safety testing, AI-first game production, agentic commerce, OpenAI insider-security forensics, UK evaluation authority, and 0 selected research papers
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md|Summary: Daily AI Intelligence Briefing — 2026-10-07]] — canonical final; capability-plus-control stack, containment, harness fit, trust-boundary failures, evaluation, and 10 curated research papers
@@ -3272,3 +3273,6 @@ tags: ['wiki']
 - [[2026-10-13_ShopifyopensitscataloguptomoreAIagents.md]] : Shopify opens its catalog up to more AI agents
 - [[2026-10-13_OpenAIemployeearrestedforallegedlyplantingabuginac.md]] : OpenAI employee arrested for allegedly planting a bug in a conference room
 - [[2026-10-14_Epic__8217_snewgameslauncheris_vibecoded_.md]] : Epic&#8217;s new games launcher is ‘vibe coded’
+- [[2026-10-14_Square_snewkioskletsyoutalktoAIforhelpwithyourorde.md]] : Square’s new kiosk lets you talk to AI for help with your order
+- [[2026-10-14_HowThirdMomentResearchruns10_000agentsfor36_hours.md]] : How Third Moment Research runs 10,000 agents for 36+ hours
+- [[2026-10-14_PuttingEarthAItowork_Geospatialagentsforourplanet_.md]] : Putting Earth AI to work: Geospatial agents for our planet's biggest challenges

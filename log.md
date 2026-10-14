@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-14 12:05] summarize | created canonical October 14 AI-only briefing from three same-day captures; synthesized long-running self-improving agents, Google Earth AI geospatial reasoning, and Square conversational point-of-sale AI; latest arXiv pass completed 14 queries across 33 pages with 2,300 entries and 0 incomplete query families but stopped at October 13, so target-date paper curation is incomplete and no paper was promoted; Logseq mirror byte-identical; GitHub commit/push required
+
 ## [2026-10-14 00:03] publish | 2026-10-13 canonical final published; complete local curation query returned 0 keeps, stable-identity comparison found 0 uncovered carry-forward papers, and final briefing contains 0 research-paper links; source recurrence guard suppressed previously covered URLs; wiki/Logseq mirror byte-identical; GitHub commit a78be7ca pushed and origin/master verified; Lumistorm post 228 created at https://lumistorm.net/daily-ai-intelligence-2026-10-13/; REST readback, published status, Daily AI Briefing category, cache-busted live page, archive presence/order, date, source links, and raw-wiki-syntax checks passed
 
 ## [2026-10-13 18:01] summarize | refreshed the canonical October 13 AI-only briefing with Google's same-day Argon safety disclosure, Shopify's open agentic-commerce catalog, and OpenAI's reported insider-device forensic case; latest arXiv pass verified at 17:18 with 14 queries, 14 pages, 850 entries, no query failures, but newest results still October 9 and page-level curation incomplete; Logseq mirror synchronized; GitHub commit and push required
@@ -16436,3 +16438,6 @@ tags: ['wiki']
 ## [2026-10-14 06:00] summarize | refreshed the canonical October 13 AI-only briefing after the complete 05:44 UTC arXiv pass (14 queries, 33 pages, 2,300 entries, 0 incomplete queries); promoted one verified paper on Natural Language Autoencoder oversight, added the EU AI Office loss-of-control information request from the direct primary-source sweep, retained recurrence controls, synchronized Logseq, and prepared GitHub commit/push
 ## [2026-10-14 04:15] stage-paper | 2026-10-13_17-05-28Z_OntheMonitorabilityofNaturalLanguageAutoencoders_I.md
 ## [2026-10-14 09:07] ingest | 2026-10-14_Epic__8217_snewgameslauncheris_vibecoded_.md
+## [2026-10-14 11:11] ingest | 2026-10-14_Square_snewkioskletsyoutalktoAIforhelpwithyourorde.md
+## [2026-10-14 11:11] ingest | 2026-10-14_HowThirdMomentResearchruns10_000agentsfor36_hours.md
+## [2026-10-14 11:37] ingest | 2026-10-14_PuttingEarthAItowork_Geospatialagentsforourplanet_.md
