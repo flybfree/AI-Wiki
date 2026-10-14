@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-10-11](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-11.md), covering containment architecture, verified cyber access, staged open weights, task-specific RL, workforce learning, Chinese AI infrastructure policy, and zero selected research papers.
+The latest canonical daily briefing is [2026-10-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-13.md), covering Gemini 4 Argon rollout and safety testing, AI-first game production, agentic commerce, OpenAI insider-security forensics, UK evaluation authority, and zero selected research papers.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|

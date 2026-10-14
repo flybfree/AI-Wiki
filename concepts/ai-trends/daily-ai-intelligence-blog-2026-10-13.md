@@ -99,6 +99,10 @@ However, the newest results in the completed pass still stop on October 9. Disco
 
 Compared with October 12, the narrative shifts from federated healthcare security, enforceable controls, and agent-boundary failures toward the interaction between frontier-model competition, AI-native production economics, and the authority needed to verify those systems.
 
+## Approved research papers
+
+The complete local curation query for October 13 returned **0 kept papers**. Stable-identity comparison against all earlier dated briefings found **0 uncovered carry-forward papers**. The final briefing therefore contains **0 research-paper links**. This is a curation result, not evidence that no relevant papers were discovered; the target-day arXiv intake remained coverage-incomplete and page-level review had not produced a verified keep set.
+
 ## Why it matters
 
 The emerging control stack has three layers:

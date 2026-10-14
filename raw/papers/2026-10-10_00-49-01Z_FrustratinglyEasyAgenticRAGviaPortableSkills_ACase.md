@@ -1,0 +1,18 @@
+---
+title: Frustratingly Easy Agentic RAG via Portable Skills: A Case Study in Customer Support
+published: 2026-10-10T00:49:01Z
+authors: Istok Bako, Bonan Min, Tiffany Shao, Claire Cheng, Yashar Mehdad
+url: http://arxiv.org/abs/2610.14428v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Frustratingly Easy Agentic RAG via Portable Skills: A Case Study in Customer Support
+
+## Abstract
+Enterprise workflow automation typically requires retrieving a complete and accurate set of relevant information from large operational document corpora (SOPs, policy documents) given a specific scenario or request. In customer support (CS), for example, human specialists must determine the correct sequence of resolution steps for each case, a task that demands precise grounding in policy documentation. Meeting this bar in production typically requires complex document chunking, indexing, and retrieval pipelines, often layered with learned re-rankers, query rewriters, and bespoke agentic RAG infrastructure.   We report a deployment case study of a simpler alternative: a portable skill consisting of a natural-language instruction, lightweight tools (a retrieval API, format-checking scripts), and a corpus enriched with an LLM-generated navigation layer, which is a structured "Wikipedia-style" index over the underlying documents. This agentic RAG approach is straightforward to implement (1-2 engineer days), portable across capable agentic harnesses (e.g., Claude Code), and performs strongly on the challenging task of CS resolution workflow generation, achieving 99.2% procedural equivalence to human-approved ground truth and 83.3% evidence sufficiency. It is also roughly an order of magnitude slower per case than our deployed production assistant (~90 s vs. ~8-9 s), so we claim no latency advantage. Our claim is scoped to that setting: a mature, well-curated corpus, a latency-tolerant workflow, and human review of every case. There, the skill did the work of a complex RAG stack, and maintenance became a matter of editing text and data rather than retraining models.
+
+## Metadata
+- **Published**: 2026-10-10T00:49:01Z
+- **Authors**: Istok Bako, Bonan Min, Tiffany Shao, Claire Cheng, Yashar Mehdad
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.14428v1)

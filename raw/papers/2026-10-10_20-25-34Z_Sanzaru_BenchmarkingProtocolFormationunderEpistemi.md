@@ -1,0 +1,18 @@
+---
+title: Sanzaru: Benchmarking Protocol Formation under Epistemic & Communication Asymmetry
+published: 2026-10-10T20:25:34Z
+authors: Yiping Li, Zhiyu An, Wan Du
+url: http://arxiv.org/abs/2610.15163v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Sanzaru: Benchmarking Protocol Formation under Epistemic & Communication Asymmetry
+
+## Abstract
+A language model's ability to solve a task individually does not ensure that a team can solve it under unequal access to information and communication. SANZARU examines this gap through cooperative bomb-defusal puzzles adapted from BOMBANANA! (Lefto Studio, 2026). Task information and action authority are divided among three agents: one cannot hear, another cannot speak, and the third cannot see. The benchmark contains 120 puzzle instances across seven families, each targeting a distinct coordination ability. Across 1512 episodes, 7 models achieve an overall success rate of 49%, ranging from 20% to 86% under the evaluated configurations. Teams develop or adopt diverse communication protocols, from simple gesture codes to Morse and encodings of entire manuals. Yet trace analysis attributes about 60% of 771 team losses to communication, and agents attempt to use channels unavailable to their teammates despite explicit role instructions. Together, task outcomes and interaction traces enable evaluation of both collaborative performance and perspective taking throughout cooperation. The benchmark is available at https://github.com/markli404/sanzaru-benchmark.
+
+## Metadata
+- **Published**: 2026-10-10T20:25:34Z
+- **Authors**: Yiping Li, Zhiyu An, Wan Du
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.15163v1)

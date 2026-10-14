@@ -1,0 +1,18 @@
+---
+title: EvoCowork: A Benchmark for Real-World Office Tasks
+published: 2026-10-10T11:43:07Z
+authors: Zhou Liu, Xingyan Chen, ZhaoYang Han, Zewei Pan, Zeli Su, Ningxin Pan, Xue Hu, Kaixiong Ting, Wentao Zhang
+url: http://arxiv.org/abs/2610.14828v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# EvoCowork: A Benchmark for Real-World Office Tasks
+
+## Abstract
+Office workflows are a demanding testbed for self-improving agents because their deliverables must be correct, natively editable, and mutually consistent. A central question is whether gains on feedback tasks reflect reusable procedures rather than task-specific fixes. We introduce EvoCowork, a 240-task benchmark for evaluating harness-level recursive self-improvement across four office modalities, with model weights held fixed. The benchmark covers presentations, documents, spreadsheets, and cross-office workflows, and scores submitted artifacts for content, native structure, formulas, cross-file consistency, and visual quality where needed. Its protocol separates feedback, revision selection, and final testing: methods learn from single-modality tasks, then are evaluated on unseen single-modality tasks and cross-office workflows under a shared initial harness and explicit budgets. In static evaluations of two models and four harnesses, the best configuration scores 42.25 overall and 30.62 on cross-office tasks. Starting from the same MSA harness with GLM 5.3, ACE and AHE improve in-domain scores by 4.90 and 2.64 points, respectively, but change cross-office scores by only +0.03 and -1.72. Thus, gains on the file types that provide feedback do not necessarily transfer to coordinated workflows. EvoCowork makes this distinction explicit while recording the capability, transfer, and cost of harness evolution. Code and task packages: https://github.com/DeepThinkingZhouLiu/cowork-evolution-benchmark.
+
+## Metadata
+- **Published**: 2026-10-10T11:43:07Z
+- **Authors**: Zhou Liu, Xingyan Chen, ZhaoYang Han, Zewei Pan, Zeli Su, Ningxin Pan, Xue Hu, Kaixiong Ting, Wentao Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.14828v1)
