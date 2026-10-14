@@ -16441,3 +16441,6 @@ tags: ['wiki']
 ## [2026-10-14 11:11] ingest | 2026-10-14_Square_snewkioskletsyoutalktoAIforhelpwithyourorde.md
 ## [2026-10-14 11:11] ingest | 2026-10-14_HowThirdMomentResearchruns10_000agentsfor36_hours.md
 ## [2026-10-14 11:37] ingest | 2026-10-14_PuttingEarthAItowork_Geospatialagentsforourplanet_.md
+## [2026-10-14 12:16] ingest | 2026-10-14_AmpputsAIagentstoworkbeyondcodewithOpenAImodels.md
+## [2026-10-14 13:06] ingest | 2026-10-14_Research_2026_10wayswe_reamplifyinghumaningenuity.md
+## [2026-10-14 14:22] ingest | 2026-10-14_TheAIraceisbackon.md

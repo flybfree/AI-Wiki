@@ -3276,3 +3276,6 @@ tags: ['wiki']
 - [[2026-10-14_Square_snewkioskletsyoutalktoAIforhelpwithyourorde.md]] : Square’s new kiosk lets you talk to AI for help with your order
 - [[2026-10-14_HowThirdMomentResearchruns10_000agentsfor36_hours.md]] : How Third Moment Research runs 10,000 agents for 36+ hours
 - [[2026-10-14_PuttingEarthAItowork_Geospatialagentsforourplanet_.md]] : Putting Earth AI to work: Geospatial agents for our planet's biggest challenges
+- [[2026-10-14_AmpputsAIagentstoworkbeyondcodewithOpenAImodels.md]] : Amp puts AI agents to work beyond code with OpenAI models
+- [[2026-10-14_Research_2026_10wayswe_reamplifyinghumaningenuity.md]] : Research@ 2026: 10 ways we're amplifying human ingenuity
+- [[2026-10-14_TheAIraceisbackon.md]] : The AI race is back on
