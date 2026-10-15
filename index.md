@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md) — canonical final; agent context contracts, AI-for-AI acceleration measurement, youth-safety oversight, and no paper promoted pending page-level curation
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md) — canonical final; agent context contracts, local/physical deployment boundaries, guided inquiry, AI-for-AI acceleration measurement, youth-safety oversight, and no paper promoted pending page-level curation
  - [Summary: Daily AI Intelligence Briefing — 2026-10-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-14.md) — canonical final; self-improving multi-agent infrastructure, geospatial reasoning agents, conversational point-of-sale AI, deployment controls, and 7 linked research papers (3 target-date keeps, 4 carry-forward)
  - [Summary: Daily AI Intelligence Briefing — 2026-10-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-13.md) — canonical final; Gemini 4 Argon rollout and safety testing, AI-first game production, agentic commerce, OpenAI insider-security forensics, UK evaluation authority, and 0 selected research papers
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
@@ -3286,3 +3286,6 @@ tags: ['wiki']
 - [[2026-10-15_Figmaannouncesnewfeaturestodefinehowagentsworkonit.md]] : Figma announces new features to define how agents work on its platform
 - [[2026-10-15_Howanassessorcouldinvestigateevidenceofacceleratio.md]] : How an assessor could investigate evidence of acceleration from the automation of AI R&D
 - [[2026-10-15_Amazon_sBeelaunchestwonewpersonalAIdevices_startin.md]] : Amazon’s Bee launches two new personal AI devices, starting at $75
+- [[2026-10-15_Teachingstudentstothinkandlearnthroughquestions.md]] : Teaching students to think and learn through questions
+- [[2026-10-15_AIagentsarecomingtoRivian_scars.md]] : AI agents are coming to Rivian’s cars
+- [[2026-10-15_HowWindowsisbeingoptimizedforNvidia_sRTXSparklapto.md]] : How Windows is being optimized for Nvidia’s RTX Spark laptops
