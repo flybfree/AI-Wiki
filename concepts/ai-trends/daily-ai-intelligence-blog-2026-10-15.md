@@ -8,6 +8,7 @@ sources:
   - "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
   - "https://metr.org/blog/2026-10-14-ai-rd-acceleration-assessment-proposal/"
   - "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
+  - "https://2eu.brussels/en/news/ai-office-seeks-information-from-developers-after-loss-of-control-incidents-involving-advanced-models"
   - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-15_05-47.md"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-10-15
@@ -36,15 +37,21 @@ Its strongest contribution is methodological discipline. A rise in capability co
 
 **Why it matters:** this is a governance design for a potentially recursive feedback loop. If labs increasingly use models to improve models, external observers need dated, disaggregated evidence and access protocols—not only public benchmark snapshots or self-reported productivity claims. The proposal is a framework, not evidence that such an acceleration is currently occurring.
 
-### 3. Child-safety oversight is becoming an institutional test
+### 3. Consumer-safety oversight is becoming an institutional test
 
-A [same-day Axios report](https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation) reports that the Federal Trade Commission is examining how major chatbot companies handle interactions with children and teenagers. This is secondary reporting and the scope, legal theory, and outcome of the inquiry remain unresolved; it should not be treated as an adjudicated finding.
+A [same-day Axios report](https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation) reports that the Federal Trade Commission subpoenaed OpenAI and Anthropic over alleged consumer harms associated with chatbots. This is secondary reporting and the scope, legal theory, and outcome of the inquiry remain unresolved; it should not be treated as an adjudicated finding.
 
-The significance is the venue. Youth safety is moving from product-policy language into regulator-facing questions about foreseeable use, safeguards, data practices, and whether companies can substantiate their claims. That complements the recent state litigation and incident-disclosure coverage without repeating those sources as fresh intake.
+The significance is the venue. Consumer safety is moving from product-policy language into regulator-facing questions about foreseeable use, safeguards, data practices, and whether companies can substantiate their claims. That complements the recent state litigation and incident-disclosure coverage without repeating those sources as fresh intake.
 
 **Why it matters:** systems marketed as general-purpose assistants need age-aware behavior, escalation paths, evidence retention, and clear accountability for failures. The relevant unit of evaluation is the full interaction and product boundary, not just the model’s refusal rate in a lab prompt.
 
-### 4. Research intake: coverage complete, curation not complete
+### 4. Regulators are asking for incident evidence and intervention mechanisms
+
+The [European AI Office says](https://2eu.brussels/en/news/ai-office-seeks-information-from-developers-after-loss-of-control-incidents-involving-advanced-models) it requested serious-incident reports and information from developers involved in recent advanced-model “loss of control” incidents, with attention to safety, monitoring, and intervention mechanisms. This is an official institutional signal, but the page does not itself establish the underlying incident facts or assign liability.
+
+**Why it matters:** the regulatory focus is moving toward operational evidence: what happened, how the system was monitored, what controls existed outside the model, and whether developers could intervene. That aligns with METR’s measurement proposal and the deployment-control lessons from prior briefings.
+
+### 5. Research intake: coverage complete, curation not complete
 
 The latest local [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-15_05-47.md) reports 14 configured queries, 34 pages, 2,400 entries, and zero query families with incomplete coverage. The newest results reach October 14 at 17:59 UTC, so the pass does not yet establish a clean October 15 paper set in America/Chicago.
 
@@ -54,9 +61,10 @@ The latest local [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI
 
 1. Figma added an explicit, editable context layer for design agents, alongside public-beta code layers and broader MCP connectivity.
 2. METR framed AI-driven AI-R&D acceleration as an assessable attribution problem requiring internal evidence, historical baselines, and bottleneck analysis.
-3. A reported FTC inquiry extended the recent youth-safety narrative from company safeguards and litigation into federal regulatory scrutiny.
+3. A reported FTC subpoena extended the recent consumer-safety narrative into federal regulatory scrutiny.
 4. The latest arXiv pass completed all 14 configured query families, but its newest results still stop on October 14 UTC and paper-level curation is incomplete.
-5. Compared with October 14, the center of gravity moved from deployed agent examples—research, geospatial work, and point-of-sale transactions—to the measurement and governance infrastructure needed to trust those systems.
+5. The European AI Office publicly requested information about recent advanced-model loss-of-control incidents and intervention mechanisms.
+6. Compared with October 14, the center of gravity moved from deployed agent examples—research, geospatial work, and point-of-sale transactions—to the measurement and governance infrastructure needed to trust those systems.
 
 ## Why it matters
 
@@ -81,7 +89,8 @@ The practical question for new agent products is therefore: **what context gover
 
 - [TechCrunch — Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)
 - [METR — How an assessor could investigate evidence of acceleration from the automation of AI R&D](https://metr.org/blog/2026-10-14-ai-rd-acceleration-assessment-proposal/)
-- [Axios — FTC investigates OpenAI, Anthropic over chatbot interactions with children](https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation)
+- [Axios — FTC subpoenas OpenAI, Anthropic over consumer harms](https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation)
+- [European AI Office — Information request after advanced-model loss-of-control incidents](https://2eu.brussels/en/news/ai-office-seeks-information-from-developers-after-loss-of-control-incidents-involving-advanced-models)
 - [ArXiv scout coverage — 2026-10-15 05:47](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-15_05-47.md)
 - [Previous briefing — 2026-10-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-14.md)
 
