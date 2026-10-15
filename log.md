@@ -16540,3 +16540,4 @@ tags: ['wiki']
 ## [2026-10-14 22:32] stage-paper | 2026-10-14_09-12-47Z_LAGO_LanguageAgentswithReusableGrowingOptions.md
 ## [2026-10-15 00:30] ingest | 2026-10-15_Figmaannouncesnewfeaturestodefinehowagentsworkonit.md
 ## [2026-10-15 00:30] ingest | 2026-10-15_Howanassessorcouldinvestigateevidenceofacceleratio.md
+## [2026-10-15 08:31] ingest | 2026-10-15_Amazon_sBeelaunchestwonewpersonalAIdevices_startin.md

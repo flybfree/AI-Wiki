@@ -3285,3 +3285,4 @@ tags: ['wiki']
 - [[2026-10-14_RicursiveIntelligenceisbettingonAI-designedchipsto.md]] : Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis
 - [[2026-10-15_Figmaannouncesnewfeaturestodefinehowagentsworkonit.md]] : Figma announces new features to define how agents work on its platform
 - [[2026-10-15_Howanassessorcouldinvestigateevidenceofacceleratio.md]] : How an assessor could investigate evidence of acceleration from the automation of AI R&D
+- [[2026-10-15_Amazon_sBeelaunchestwonewpersonalAIdevices_startin.md]] : Amazon’s Bee launches two new personal AI devices, starting at $75
