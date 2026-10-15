@@ -3289,3 +3289,7 @@ tags: ['wiki']
 - [[2026-10-15_Teachingstudentstothinkandlearnthroughquestions.md]] : Teaching students to think and learn through questions
 - [[2026-10-15_AIagentsarecomingtoRivian_scars.md]] : AI agents are coming to Rivian’s cars
 - [[2026-10-15_HowWindowsisbeingoptimizedforNvidia_sRTXSparklapto.md]] : How Windows is being optimized for Nvidia’s RTX Spark laptops
+- [[2026-10-15_Friendsdon__8217_tletfriendsfeedtheirdatatoAIagent.md]] : Friends don&#8217;t let friends feed their data to AI agents
+- [[2026-10-15_Lastchancetosaveupto_200onyourTechCrunchFounderSum.md]] : Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16
+- [[2026-10-15_AnthropicislettingMETRresearcherslookunderthehoodw.md]] : Anthropic is letting METR researchers look under the hood with employee-level access
+- [[2026-10-15_MetaandAppleteamuptomakeMuseAImodelsrunbetteronMac.md]] : Meta and Apple team up to make Muse AI models run better on Macs
