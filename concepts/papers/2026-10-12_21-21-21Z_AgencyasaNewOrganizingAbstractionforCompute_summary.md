@@ -1,4 +1,12 @@
-# Summary: 2026-10-12_21-21-21Z_AgencyasaNewOrganizingAbstractionforComputerScienc.md
+---
+title: "Summary: Agency as a New Organizing Abstraction for Computer Science"
+date: "2026-10-12"
+type: paper-summary
+tags: [ai, paper, agents, systems]
+source_paper: "http://arxiv.org/abs/2610.17410v1"
+---
+# Summary: Agency as a New Organizing Abstraction for Computer Science
+
 Saved: 2026-10-14 02:09
 Source: 2026-10-12_21-21-21Z_AgencyasaNewOrganizingAbstractionforComputerScienc.md
 Model: None

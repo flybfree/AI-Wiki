@@ -76,11 +76,15 @@ The control implication is straightforward: longer-running agents need layered c
 
 **Why it matters:** AI governance is increasingly an evidence problem. Companies need consistent capability descriptions, age and privacy controls, auditable safety claims, and documentation that survives scrutiny by regulators, courts, customers, and affected communities.
 
-### 7. Research coverage is complete at the query level but not yet a clean target-date paper result
+### 7. Research papers sharpen the same deployment story
 
-The latest [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-14_11-46.md) completed 14 configured query families across 33 pages, saw 2,300 entries, and reported zero incomplete query families. The newest results reach October 13, not October 14. The scout surfaced 531 high-priority candidates, including work on self-evolving robotics, agent reflection, long-horizon recovery, agentic environments, and benchmark design.
+The final local curation query for October 14 in America/Chicago returned **3 kept papers**: two approvals early in the day and one approval at 10:35 p.m. CDT. Stable-identity comparison against all earlier daily briefings found **7 uncovered kept papers** after carry-forward: the 3 target-date approvals plus 4 older approvals that had never appeared in a daily briefing. All 7 now have canonical rendered summary pages with visible original-paper URLs.
 
-**Coverage status:** coverage is complete for the configured pass, but target-date page-level curation is not complete. **No paper promoted:** no verified October 14 keep was available by this run’s cutoff. This is not the same as “no relevant papers found,” because the feed’s newest results stop on October 13 and the candidate set still requires page-level review. The Google Earth AI paper is relevant context, but it is dated October 11 and is not counted as a new October 14 paper.
+The two papers closest to today's operational theme are [Agency as a New Organizing Abstraction for Computer Science](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-12_21-21-21Z_AgencyasaNewOrganizingAbstractionforCompute_summary.md), which frames agent failures across execution, interfaces, correctness, oversight, coordination, and persistence, and [Measuring and Reducing Unusable Replies of LLM Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-14_06-35-49Z_MeasuringandReducingUnusableRepliesofLLMAge_summary.md), which finds that 54% of 480 tested replies failed a reader-centered usability check. The latter reduced failure to 36% with a secondary rewrite model. [Claim Framing as a Driver of LLM Sycophancy](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-13_11-02-55Z_ClaimFramingasaDriverofLLMSycophancy_summary.md) adds a direct evaluation warning: model size does not remove susceptibility to confident, attributed, or socially shared claims.
+
+The four carried-forward papers fill gaps in the prior archive: [Beyond Memory Leaderboards](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-18_15-09-58Z_BeyondMemoryLeaderboards_EvaluatingScientif_summary.md) shows that memory rankings change under retrieval-budget and protocol controls; [news-crawler-LM](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-23_13-05-46Z_news_crawler_LM_ASmallLong_ContextModelForH_summary.md) reports a compact model for structured HTML extraction; [IndustryForge-27B](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-30_11-28-21Z_IndustryForge_27B_ADomain_EnhancedMultimoda_summary.md) reports large gains on industrial CAD tasks after domain adaptation; and [Autonomy, Social Norms, and Alignment](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-10_15-02-52Z_Autonomy_SocialNorms_andAlignment_TowardsaDevelopmentalFramework_summary.md) treats permission expansion as a developmental curriculum rather than a one-time policy decision.
+
+**Why it matters:** the papers and the day's product stories point in the same direction. Agent reliability depends on the control plane, the interface contract, the evidence budget, and the user's ability to understand the result. The final retained-paper list is complete at **7 links for 7 normalized uncovered keeps**, including **3 approvals in the target-date local window**.
 
 ## What changed today
 
@@ -90,7 +94,7 @@ The latest [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/
 4. Google expanded Earth AI from specialized geospatial models toward a planned, tool-using reasoning agent with benchmarks and agent-to-agent access.
 5. Square launched a conversational AI kiosk that turns natural-language requests into point-of-sale transactions.
 6. The day’s product signals span research infrastructure, scientific decision support, and physical commerce—three different surfaces for the same harness-and-grounding trend.
-7. The latest arXiv pass completed cleanly at the query level but remained one publication day behind the target date; no October 14 paper was promoted.
+7. The final curation query returned three kept papers in the October 14 America/Chicago window; carry-forward added four older uncovered keeps, for seven linked research papers.
 8. Previously covered incident sources were retained as comparison context, not duplicated as fresh target-day intake.
 9. Eight states’ lawsuits moved consumer-safety claims into a new wave of state-level legal action against OpenAI.
 10. Flock’s conflicting descriptions of its acoustic-surveillance capabilities made product transparency itself an AI-governance issue.
@@ -116,6 +120,8 @@ October 14’s strongest signal is that layers 2–4 are becoming the product. A
 - Real-world error rates and staff handoff behavior for Square Kiosk, especially custom orders and high-risk dietary requests.
 - Whether conversational transaction systems expose reusable standards for confirmation, authorization, auditability, and rollback.
 - A fresh arXiv pass whose newest results reach October 14, followed by page-level review of agent, evaluation, and control papers.
+- Whether the reply-usability metric generalizes beyond the 480-reply evaluation and becomes a standard release check for agents.
+- Independent reproduction of Third Moment’s long-horizon, multi-agent throughput and cost claims.
 - The first court responses and requested remedies in the eight state OpenAI cases, especially around minors’ data, age assurance, and safety disclosures.
 - Whether Flock publishes a stable technical definition of its detection modalities and retention/access practices.
 - Any same-day primary release, safety disclosure, or incident report from OpenAI, Anthropic, Google DeepMind, Meta AI, xAI, Qwen, Z.ai, Mistral, DeepSeek, Microsoft AI, NVIDIA AI, Cohere, Perplexity, Hugging Face, or AI21.
@@ -131,6 +137,13 @@ October 14’s strongest signal is that layers 2–4 are becoming the product. A
 - [The Verge — The AI race is back on](https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on)
 - [The Verge — Eight states sue OpenAI](https://www.theverge.com/ai-artificial-intelligence/1011500/openai-state-lawsuits-chatgpt-safety)
 - [TechCrunch — Flock’s gunshot-detection claims](https://techcrunch.com/2026/10/14/flock-ceo-says-its-microphones-detect-just-gunshots-its-website-says-different/)
+- [Research paper summary — Agency as a New Organizing Abstraction for Computer Science](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-12_21-21-21Z_AgencyasaNewOrganizingAbstractionforCompute_summary.md) — original: http://arxiv.org/abs/2610.17410v1
+- [Research paper summary — Claim Framing as a Driver of LLM Sycophancy](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-13_11-02-55Z_ClaimFramingasaDriverofLLMSycophancy_summary.md) — original: http://arxiv.org/abs/2610.18159v1
+- [Research paper summary — Measuring and Reducing Unusable Replies of LLM Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-14_06-35-49Z_MeasuringandReducingUnusableRepliesofLLMAge_summary.md) — original: http://arxiv.org/abs/2610.19659v1
+- [Research paper summary — Beyond Memory Leaderboards](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-18_15-09-58Z_BeyondMemoryLeaderboards_EvaluatingScientif_summary.md) — original: http://arxiv.org/abs/2607.16848v1
+- [Research paper summary — news-crawler-LM](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-23_13-05-46Z_news_crawler_LM_ASmallLong_ContextModelForH_summary.md) — original: http://arxiv.org/abs/2607.21284v1
+- [Research paper summary — IndustryForge-27B](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/paper/2026-07-30_11-28-21Z_IndustryForge_27B_ADomain_EnhancedMultimoda_summary.md) — original: http://arxiv.org/abs/2607.28050v1
+- [Research paper summary — Autonomy, Social Norms, and Alignment](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-09-10_15-02-52Z_Autonomy_SocialNorms_andAlignment_TowardsaDevelopmentalFramework_summary.md) — original: https://arxiv.org/abs/2609.11660
 - [Anthropic — Investigating unintended model actions](https://www.anthropic.com/news/investigating-unintended-model-actions) — prior incident context, not new target-day intake
 - [arXiv scout log — 2026-10-14 11:46](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-14_11-46.md)
 

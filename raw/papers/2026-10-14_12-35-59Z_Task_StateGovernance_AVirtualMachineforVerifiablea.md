@@ -1,0 +1,18 @@
+---
+title: Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution
+published: 2026-10-14T12:35:59Z
+authors: Wenkui Yang, Yiming Hao, Kai Zhou, Chengyu Pu, Yuzhe Zhang, Jie Cao, Jin Huang, Shuai Ma, Feng Tian
+url: http://arxiv.org/abs/2610.20100v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Task-State Governance: A Virtual Machine for Verifiable and Recoverable GUI Agent Execution
+
+## Abstract
+Graphical user interface (GUI) agents now execute workflows across real applications, but when execution drifts, users must determine what changed, what should have remained untouched, and what can still be recovered. Plan-centric interfaces leave users supervising procedure, but users live with changes to application state. We introduce task-state governance, an interaction paradigm that represents a task as an editable contract linking desired outcomes, facts that must be preserved, and observed application state. We instantiate this paradigm in TaskVM, which projects live state into editable task controls, executes user edits as genuine interface actions, verifies outcomes through independent observation, and marks each action as reversible, compensatable, or irreversible. Across an automated contract benchmark, a controlled user study, and an open live-model exploration, the paradigm strengthened contract compliance and users' recovery control and trust, while execution outcomes were held constant. Task contracts open a design space for governable agent interfaces.
+
+## Metadata
+- **Published**: 2026-10-14T12:35:59Z
+- **Authors**: Wenkui Yang, Yiming Hao, Kai Zhou, Chengyu Pu, Yuzhe Zhang, Jie Cao, Jin Huang, Shuai Ma, Feng Tian
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.20100v1)

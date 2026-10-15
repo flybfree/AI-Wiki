@@ -1,0 +1,18 @@
+---
+title: Cortex: Consolidating Context into Parametric Memory
+published: 2026-10-14T16:03:01Z
+authors: Jintian Zhang, Feng He, Xinnian Liang, Ziwen Xu, Haoming Xu, Haojing Huang, Shuangzhi Wu, Ningyu Zhang
+url: http://arxiv.org/abs/2610.20399v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Cortex: Consolidating Context into Parametric Memory
+
+## Abstract
+Context can improve large language model performance, but these gains may be lost after context removal. Inspired by biological systems consolidation, we formulate Memory Consolidation (MC) as internalizing these gains while preserving non-target capabilities, connecting context-specified editing, skill learning, and behavioral steering under a common objective. We introduce a five-task-family testbed measuring consolidation and retention under single, batch, and sequential updates. We propose Cortex, which generates prospective queries to anticipate uses of context and distills context-conditioned outputs into mergeable low-rank or structural feed-forward network updates. Across 4B--120B dense and mixture-of-experts backbones, including both text-only and multimodal models, Cortex lies on the empirical consolidation--retention Pareto frontier in most evaluated settings. After 50 sequential factual edits on a 14B model, Cortex-Structural recovers 88.9% of the context-induced gain while retaining 99.8% of original non-target performance.
+
+## Metadata
+- **Published**: 2026-10-14T16:03:01Z
+- **Authors**: Jintian Zhang, Feng He, Xinnian Liang, Ziwen Xu, Haoming Xu, Haojing Huang, Shuangzhi Wu, Ningyu Zhang
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.20399v1)
