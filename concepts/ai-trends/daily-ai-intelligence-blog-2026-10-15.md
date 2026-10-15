@@ -7,7 +7,7 @@ tags: [ai-intelligence, daily-briefing, ai-agents, evaluation, ai-governance, ai
 sources:
   - "https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/"
   - "https://metr.org/blog/2026-10-14-ai-rd-acceleration-assessment-proposal/"
-  - "https://www.axios.com/2026/10/15/ftc-investigates-openai-anthropic-ai-chatbots"
+  - "https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation"
   - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-15_05-47.md"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-10-15
@@ -38,7 +38,7 @@ Its strongest contribution is methodological discipline. A rise in capability co
 
 ### 3. Child-safety oversight is becoming an institutional test
 
-A [same-day Axios report](https://www.axios.com/2026/10/15/ftc-investigates-openai-anthropic-ai-chatbots) reports that the Federal Trade Commission is examining how major chatbot companies handle interactions with children and teenagers. This is secondary reporting and the scope, legal theory, and outcome of the inquiry remain unresolved; it should not be treated as an adjudicated finding.
+A [same-day Axios report](https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation) reports that the Federal Trade Commission is examining how major chatbot companies handle interactions with children and teenagers. This is secondary reporting and the scope, legal theory, and outcome of the inquiry remain unresolved; it should not be treated as an adjudicated finding.
 
 The significance is the venue. Youth safety is moving from product-policy language into regulator-facing questions about foreseeable use, safeguards, data practices, and whether companies can substantiate their claims. That complements the recent state litigation and incident-disclosure coverage without repeating those sources as fresh intake.
 
@@ -81,7 +81,7 @@ The practical question for new agent products is therefore: **what context gover
 
 - [TechCrunch — Figma announces new features to define how agents work on its platform](https://techcrunch.com/2026/10/14/figma-announces-new-features-to-define-how-agents-work-on-its-platform/)
 - [METR — How an assessor could investigate evidence of acceleration from the automation of AI R&D](https://metr.org/blog/2026-10-14-ai-rd-acceleration-assessment-proposal/)
-- [Axios — FTC investigates OpenAI, Anthropic over chatbot interactions with children](https://www.axios.com/2026/10/15/ftc-investigates-openai-anthropic-ai-chatbots)
+- [Axios — FTC investigates OpenAI, Anthropic over chatbot interactions with children](https://www.axios.com/2026/10/15/ftc-openai-anthropic-ai-safety-investigation)
 - [ArXiv scout coverage — 2026-10-15 05:47](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-15_05-47.md)
 - [Previous briefing — 2026-10-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-14.md)
 
