@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md) — canonical final; agent context contracts, local/physical deployment boundaries, guided inquiry, frontier-AI economics, AI-for-AI acceleration measurement, youth-safety oversight, and no paper promoted pending page-level curation
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md) — canonical final; agent context contracts, specialization, local/physical deployment boundaries, guided inquiry, frontier-AI economics, AI-R&D acceleration measurement, youth-safety oversight, and no paper promoted pending page-level curation
  - [Summary: Daily AI Intelligence Briefing — 2026-10-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-14.md) — canonical final; self-improving multi-agent infrastructure, geospatial reasoning agents, conversational point-of-sale AI, deployment controls, and 7 linked research papers (3 target-date keeps, 4 carry-forward)
  - [Summary: Daily AI Intelligence Briefing — 2026-10-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-13.md) — canonical final; Gemini 4 Argon rollout and safety testing, AI-first game production, agentic commerce, OpenAI insider-security forensics, UK evaluation authority, and 0 selected research papers
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
@@ -3293,3 +3293,7 @@ tags: ['wiki']
 - [[2026-10-15_Lastchancetosaveupto_200onyourTechCrunchFounderSum.md]] : Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16
 - [[2026-10-15_AnthropicislettingMETRresearcherslookunderthehoodw.md]] : Anthropic is letting METR researchers look under the hood with employee-level access
 - [[2026-10-15_MetaandAppleteamuptomakeMuseAImodelsrunbetteronMac.md]] : Meta and Apple team up to make Muse AI models run better on Macs
+- [[2026-10-15_Metalaunchesanopen-weightAImodelthatrunsonMacs.md]] : Meta launches an open-weight AI model that runs on Macs
+- [[2026-10-15_TrumppostsAI-editedphototobragaboutWhiteHouseresto.md]] : Trump posts AI-edited photo to brag about White House restoration work
+- [[2026-10-15_OneYearofTinker_TurningYourExpertiseintoCustomMode.md]] : One Year of Tinker: Turning Your Expertise into Custom Models
+- [[2026-10-15_BringingGPT-Rosalindtoacademicresearchlabs.md]] : Bringing GPT-Rosalind to academic research labs

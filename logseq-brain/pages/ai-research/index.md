@@ -95,10 +95,14 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md) — canonical final; agent context contracts, specialization, local/physical deployment boundaries, guided inquiry, frontier-AI economics, AI-R&D acceleration measurement, youth-safety oversight, and no paper promoted pending page-level curation
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-14.md) — canonical final; self-improving multi-agent infrastructure, geospatial reasoning agents, conversational point-of-sale AI, deployment controls, and 7 linked research papers (3 target-date keeps, 4 carry-forward)
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-13.md) — canonical final; Gemini 4 Argon rollout and safety testing, AI-first game production, agentic commerce, OpenAI insider-security forensics, UK evaluation authority, and 0 selected research papers
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md|Summary: Daily AI Intelligence Briefing — 2026-10-07]] — canonical final; capability-plus-control stack, containment, harness fit, trust-boundary failures, evaluation, and 10 curated research papers
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-08.md|Summary: Daily AI Intelligence Briefing — 2026-10-08]] — canonical final; generated interfaces, persistent enterprise agents, cyber mission and verified access, staged open weights, verifiable task expertise, workforce learning, safety culture, and 4 curated research papers
- - [Summary: Daily AI Intelligence Briefing — 2026-10-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-12.md) — canonical final; federated healthcare security, enforceable AI controls, Meta Muse Wonder, agent boundary failures, UK AI security, Epic's AI-first production pivot, and 0 selected research papers
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-13.md) — canonical final; Gemini 4 Argon rollout and safety testing, AI-first game production, agentic commerce, OpenAI insider-security forensics, UK evaluation authority, and incomplete arXiv coverage
+- [Summary: Daily AI Intelligence Briefing — 2026-10-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-12.md) — canonical final; federated healthcare security, enforceable AI controls, Meta Muse Wonder, agent boundary failures, UK AI security, Epic's AI-first production pivot, and 0 selected research papers
  - [Summary: Daily AI Intelligence Briefing — 2026-10-11](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-11.md) — canonical final; containment architecture, verified cyber access, staged open weights, task-specific RL, workforce learning, Chinese AI infrastructure policy, and 0 selected research papers
  - [Summary: Daily AI Intelligence Briefing — 2026-10-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-10.md) — canonical final; governed deployment loops, live-internet evaluation failure, emergency-brake controls, OpenAI misalignment disclosure, verified cyber access, staged open weights, task-specific RL, government-data controls, AI-audio talent consolidation, 0 target-date keeps, and 4 uncovered carry-forward papers
  - [Summary: Daily AI Intelligence Briefing — 2026-10-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-09.md) — canonical final; controlled cyber access, civic-boundary test failure, staged open weights, verifier-aware task training, model routing economics, specialized decision models, workforce learning, safety culture, and 1 carried-forward research paper
@@ -3260,3 +3264,36 @@ tags: ['wiki']
 - [[2026-10-12_Metareleasesitsfirstfrontiermodel_MuseWonder.md]] : Meta releases its first frontier model, Muse Wonder
 - [[2026-10-12_GoogleUnveilsMajorAIUpdatesAcrossDeepMind_Gemini_T.md]] : Google Unveils Major AI Updates Across DeepMind, Gemini | The Tech Buzz
 - [[2026-10-12_EpicGamesreportedlypivotingto_AIfirst_gamedevelopm.md]] : Epic Games reportedly pivoting to " AI first" game development model - Ars Technica
+- [[2026-10-13_Just5yearsin_interactivechatbotplatformCharacter_A.md]] : Just 5 years in, interactive chatbot platform Character.AI files for bankruptcy
+- [[2026-10-13_ApplelaunchesHomeView_itsfirstsmartdisplayfortheho.md]] : Apple launches HomeView, its first smart display for the home
+- [[2026-10-13_Epicshiftsto__8216_AI-accelerateddevelopment__8217.md]] : Epic shifts to &#8216;AI-accelerated development&#8217; for upcoming Disney game
+- [[2026-10-13_GooglefinallyreleasesGemini4Argon.md]] : Google finally releases Gemini 4 Argon
+- [[2026-10-13_FacebookwillletyoucustomizeyourfeedalgorithmusingA.md]] : Facebook will let you customize your feed algorithm using AI
+- [[2026-10-13_Idon_tmissthecameraontheRay-BanMetaAudioglasses.md]] : I don’t miss the camera on the Ray-Ban Meta Audio glasses
+- [[2026-10-13_HiggsfieldtakesAIvideofrom1minutetoover10.md]] : Higgsfield takes AI video from 1 minute to over 10
+- [[2026-10-13_ShopifyopensitscataloguptomoreAIagents.md]] : Shopify opens its catalog up to more AI agents
+- [[2026-10-13_OpenAIemployeearrestedforallegedlyplantingabuginac.md]] : OpenAI employee arrested for allegedly planting a bug in a conference room
+- [[2026-10-14_Epic__8217_snewgameslauncheris_vibecoded_.md]] : Epic&#8217;s new games launcher is ‘vibe coded’
+- [[2026-10-14_Square_snewkioskletsyoutalktoAIforhelpwithyourorde.md]] : Square’s new kiosk lets you talk to AI for help with your order
+- [[2026-10-14_HowThirdMomentResearchruns10_000agentsfor36_hours.md]] : How Third Moment Research runs 10,000 agents for 36+ hours
+- [[2026-10-14_PuttingEarthAItowork_Geospatialagentsforourplanet_.md]] : Putting Earth AI to work: Geospatial agents for our planet's biggest challenges
+- [[2026-10-14_AmpputsAIagentstoworkbeyondcodewithOpenAImodels.md]] : Amp puts AI agents to work beyond code with OpenAI models
+- [[2026-10-14_Research_2026_10wayswe_reamplifyinghumaningenuity.md]] : Research@ 2026: 10 ways we're amplifying human ingenuity
+- [[2026-10-14_TheAIraceisbackon.md]] : The AI race is back on
+- [[2026-10-14_EightstatessueOpenAI_sayingChatGPTisn__8217_tsafef.md]] : Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids
+- [[2026-10-14_FlockCEOsaysitsmicrophonesdetect_justgunshots__its.md]] : Flock CEO says its microphones detect ‘just gunshots’ — its website says different
+- [[2026-10-14_RicursiveIntelligenceisbettingonAI-designedchipsto.md]] : Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis
+- [[2026-10-15_Figmaannouncesnewfeaturestodefinehowagentsworkonit.md]] : Figma announces new features to define how agents work on its platform
+- [[2026-10-15_Howanassessorcouldinvestigateevidenceofacceleratio.md]] : How an assessor could investigate evidence of acceleration from the automation of AI R&D
+- [[2026-10-15_Amazon_sBeelaunchestwonewpersonalAIdevices_startin.md]] : Amazon’s Bee launches two new personal AI devices, starting at $75
+- [[2026-10-15_Teachingstudentstothinkandlearnthroughquestions.md]] : Teaching students to think and learn through questions
+- [[2026-10-15_AIagentsarecomingtoRivian_scars.md]] : AI agents are coming to Rivian’s cars
+- [[2026-10-15_HowWindowsisbeingoptimizedforNvidia_sRTXSparklapto.md]] : How Windows is being optimized for Nvidia’s RTX Spark laptops
+- [[2026-10-15_Friendsdon__8217_tletfriendsfeedtheirdatatoAIagent.md]] : Friends don&#8217;t let friends feed their data to AI agents
+- [[2026-10-15_Lastchancetosaveupto_200onyourTechCrunchFounderSum.md]] : Last chance to save up to $200 on your TechCrunch Founder Summit pass: Early booking ends October 16
+- [[2026-10-15_AnthropicislettingMETRresearcherslookunderthehoodw.md]] : Anthropic is letting METR researchers look under the hood with employee-level access
+- [[2026-10-15_MetaandAppleteamuptomakeMuseAImodelsrunbetteronMac.md]] : Meta and Apple team up to make Muse AI models run better on Macs
+- [[2026-10-15_Metalaunchesanopen-weightAImodelthatrunsonMacs.md]] : Meta launches an open-weight AI model that runs on Macs
+- [[2026-10-15_TrumppostsAI-editedphototobragaboutWhiteHouseresto.md]] : Trump posts AI-edited photo to brag about White House restoration work
+- [[2026-10-15_OneYearofTinker_TurningYourExpertiseintoCustomMode.md]] : One Year of Tinker: Turning Your Expertise into Custom Models
+- [[2026-10-15_BringingGPT-Rosalindtoacademicresearchlabs.md]] : Bringing GPT-Rosalind to academic research labs

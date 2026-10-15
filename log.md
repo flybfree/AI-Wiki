@@ -8,6 +8,7 @@ tags: ['wiki']
 ## [2026-10-15 06:01] summarize | created canonical October 15 AI-only briefing from Figma agent context contracts, METR AI-R&D acceleration assessment, and reported FTC youth-safety scrutiny; latest arXiv scout completed 14 queries across 34 pages with 2,400 entries and 0 incomplete query families but newest results stop at October 14 UTC; no paper promoted because page-level curation was incomplete; Logseq mirror synchronized; GitHub commit/push required
 ## [2026-10-15 12:01] summarize | refreshed canonical October 15 AI-only briefing with OpenAI guided-inquiry education, Rivian third-party agents with vehicle-control boundaries, and Microsoft/NVIDIA RTX Spark local-agent deployment; latest arXiv scout completed 14 queries across 34 pages with 2,400 entries and 0 incomplete query families but newest results stop at October 14 UTC; no paper promoted because page-level curation remains incomplete; Logseq mirror synchronized; GitHub commit/push required
 ## [2026-10-15 12:05] summarize | added same-day Axios coverage of Anthropic's reported quarterly financial performance as a labeled frontier-AI economics signal; retained AI-only scope and no-paper-promoted status
+## [2026-10-15 18:01] summarize | refreshed canonical October 15 AI-only briefing with Thinking Machines Tinker custom post-training, OpenAI GPT-Rosalind academic access, Meta Muse Spark Open local open weights, and Anthropic's official METR evaluator arrangement; excluded the political AI-photo capture from synthesis; latest arXiv scout remains complete through October 14 UTC but paper-level curation is incomplete; Logseq mirror and GitHub commit/push required
 
 ## [2026-10-15 00:10] publish | 2026-10-14 canonical final published; wiki/Logseq byte-identical; GitHub commit 3d32460c pushed and origin/master verified; Lumistorm post 229 created at https://lumistorm.net/daily-ai-intelligence-2026-10-14/; REST readback, published status, Daily AI Briefing category, cache-busted live page, archive presence/order, date, source links, and raw-wiki-syntax checks passed
 
@@ -16550,3 +16551,7 @@ tags: ['wiki']
 ## [2026-10-15 13:21] ingest | 2026-10-15_Lastchancetosaveupto_200onyourTechCrunchFounderSum.md
 ## [2026-10-15 14:24] ingest | 2026-10-15_AnthropicislettingMETRresearcherslookunderthehoodw.md
 ## [2026-10-15 14:24] ingest | 2026-10-15_MetaandAppleteamuptomakeMuseAImodelsrunbetteronMac.md
+## [2026-10-15 15:13] ingest | 2026-10-15_Metalaunchesanopen-weightAImodelthatrunsonMacs.md
+## [2026-10-15 16:26] ingest | 2026-10-15_TrumppostsAI-editedphototobragaboutWhiteHouseresto.md
+## [2026-10-15 17:21] ingest | 2026-10-15_OneYearofTinker_TurningYourExpertiseintoCustomMode.md
+## [2026-10-15 17:21] ingest | 2026-10-15_BringingGPT-Rosalindtoacademicresearchlabs.md
