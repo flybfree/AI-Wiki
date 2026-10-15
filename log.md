@@ -16536,3 +16536,5 @@ tags: ['wiki']
 ## [2026-10-14 22:32] stage-paper | 2026-10-14_16-28-09Z_FromTrainingtoEscalation_ForensicAnalysisandLocalR.md
 ## [2026-10-14 22:32] stage-paper | 2026-10-14_09-27-36Z_Euler_TowardsHuman_CenteredMulti_AgentMathematical.md
 ## [2026-10-14 22:32] stage-paper | 2026-10-14_09-12-47Z_LAGO_LanguageAgentswithReusableGrowingOptions.md
+## [2026-10-15 00:30] ingest | 2026-10-15_Figmaannouncesnewfeaturestodefinehowagentsworkonit.md
+## [2026-10-15 00:30] ingest | 2026-10-15_Howanassessorcouldinvestigateevidenceofacceleratio.md

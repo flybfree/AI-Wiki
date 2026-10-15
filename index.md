@@ -3282,3 +3282,5 @@ tags: ['wiki']
 - [[2026-10-14_EightstatessueOpenAI_sayingChatGPTisn__8217_tsafef.md]] : Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids
 - [[2026-10-14_FlockCEOsaysitsmicrophonesdetect_justgunshots__its.md]] : Flock CEO says its microphones detect ‘just gunshots’ — its website says different
 - [[2026-10-14_RicursiveIntelligenceisbettingonAI-designedchipsto.md]] : Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis
+- [[2026-10-15_Figmaannouncesnewfeaturestodefinehowagentsworkonit.md]] : Figma announces new features to define how agents work on its platform
+- [[2026-10-15_Howanassessorcouldinvestigateevidenceofacceleratio.md]] : How an assessor could investigate evidence of acceleration from the automation of AI R&D
