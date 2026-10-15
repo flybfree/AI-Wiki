@@ -16448,3 +16448,4 @@ tags: ['wiki']
 ## [2026-10-14 14:22] ingest | 2026-10-14_TheAIraceisbackon.md
 ## [2026-10-14 16:23] ingest | 2026-10-14_EightstatessueOpenAI_sayingChatGPTisn__8217_tsafef.md
 ## [2026-10-14 17:10] ingest | 2026-10-14_FlockCEOsaysitsmicrophonesdetect_justgunshots__its.md
+## [2026-10-14 20:27] ingest | 2026-10-14_RicursiveIntelligenceisbettingonAI-designedchipsto.md

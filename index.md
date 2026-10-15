@@ -3281,3 +3281,4 @@ tags: ['wiki']
 - [[2026-10-14_TheAIraceisbackon.md]] : The AI race is back on
 - [[2026-10-14_EightstatessueOpenAI_sayingChatGPTisn__8217_tsafef.md]] : Eight states sue OpenAI, saying ChatGPT isn&#8217;t safe for kids
 - [[2026-10-14_FlockCEOsaysitsmicrophonesdetect_justgunshots__its.md]] : Flock CEO says its microphones detect ‘just gunshots’ — its website says different
+- [[2026-10-14_RicursiveIntelligenceisbettingonAI-designedchipsto.md]] : Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis
