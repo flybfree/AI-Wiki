@@ -3306,3 +3306,6 @@ tags: ['wiki']
 - [[2026-10-16_AweekwithRTXSpark_everythingwe_velearnedusingNvidi.md]] : A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops
 - [[2026-10-16_MarkWahlbergonusingAIinfilm_therightway_andbeingop.md]] : Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy
 - [[2026-10-16_Elorian_sfirstAImodelwantstoreasonwithimages_notju.md]] : Elorian’s first AI model wants to reason with images, not just about them
+- [[2026-10-16_PhysicalAIismorethanrobots_saystheNvidiaveterannow.md]] : Physical AI is more than robots, says the Nvidia veteran now investing in it
+- [[2026-10-16_IndiabecomesthelatestcountrytoreportrogueAIagentac.md]] : India becomes the latest country to report rogue AI agent activity
+- [[2026-10-16_StackOverflowforAgentstriplessignupswithChatGPTplu.md]] : Stack Overflow for Agents triples signups with ChatGPT plugin

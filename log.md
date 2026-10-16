@@ -16672,3 +16672,6 @@ tags: ['wiki']
 ## [2026-10-16 10:12] ingest | 2026-10-16_AweekwithRTXSpark_everythingwe_velearnedusingNvidi.md
 ## [2026-10-16 10:12] ingest | 2026-10-16_MarkWahlbergonusingAIinfilm_therightway_andbeingop.md
 ## [2026-10-16 11:24] ingest | 2026-10-16_Elorian_sfirstAImodelwantstoreasonwithimages_notju.md
+## [2026-10-16 12:12] ingest | 2026-10-16_PhysicalAIismorethanrobots_saystheNvidiaveterannow.md
+## [2026-10-16 12:55] ingest | 2026-10-16_IndiabecomesthelatestcountrytoreportrogueAIagentac.md
+## [2026-10-16 14:59] ingest | 2026-10-16_StackOverflowforAgentstriplessignupswithChatGPTplu.md
