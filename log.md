@@ -16555,3 +16555,5 @@ tags: ['wiki']
 ## [2026-10-15 16:26] ingest | 2026-10-15_TrumppostsAI-editedphototobragaboutWhiteHouseresto.md
 ## [2026-10-15 17:21] ingest | 2026-10-15_OneYearofTinker_TurningYourExpertiseintoCustomMode.md
 ## [2026-10-15 17:21] ingest | 2026-10-15_BringingGPT-Rosalindtoacademicresearchlabs.md
+## [2026-10-15 18:20] ingest | 2026-10-15_ChatGPTcanpeekatyourChrometabsnow.md
+## [2026-10-15 19:11] ingest | 2026-10-15_WhenitcametoCalAI_sviralsuccess_asmallarmyofinflue.md

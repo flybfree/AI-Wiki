@@ -3297,3 +3297,5 @@ tags: ['wiki']
 - [[2026-10-15_TrumppostsAI-editedphototobragaboutWhiteHouseresto.md]] : Trump posts AI-edited photo to brag about White House restoration work
 - [[2026-10-15_OneYearofTinker_TurningYourExpertiseintoCustomMode.md]] : One Year of Tinker: Turning Your Expertise into Custom Models
 - [[2026-10-15_BringingGPT-Rosalindtoacademicresearchlabs.md]] : Bringing GPT-Rosalind to academic research labs
+- [[2026-10-15_ChatGPTcanpeekatyourChrometabsnow.md]] : ChatGPT can peek at your Chrome tabs now
+- [[2026-10-15_WhenitcametoCalAI_sviralsuccess_asmallarmyofinflue.md]] : When it came to Cal AI’s viral success, a small army of influencers paid off
