@@ -1,0 +1,18 @@
+---
+title: Beyond Downstream QA: Rethinking How We Evaluate Agent Memory
+published: 2026-10-15T16:58:12Z
+authors: Sebastian-Antonio Toma, Jean de Kernier, Mike Ply, Oliviu Matei
+url: http://arxiv.org/abs/2610.22209v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Downstream QA: Rethinking How We Evaluate Agent Memory
+
+## Abstract
+Agent memory benchmarks evaluate whether an agent's responses reflect correct knowledge, measuring downstream question-answering accuracy as a proxy for memory quality. We show this evaluation paradigm is incomplete: it conflates memory correctness with retrieval and generation quality, producing both false positives where correct responses mask broken memory and false negatives where incorrect responses blame correct memory for retrieval failures. We introduce FEB-30, a benchmark of 30 fact-evolution trajectories spanning 6 diagnostic categories and 3 difficulty levels, constructed via paradigm inversion: documents are generated from known fact trajectories, yielding deterministic ground truth without human annotation. Each trajectory defines how a fact should evolve across multi-author artifacts (documents, emails, conversations), enabling direct inspection of the memory store after each ingestion step. Applying FEB-30 to a representative memory system, we demonstrate that intrinsic and extrinsic evaluation diverge by an average of 16 percentage points, with 44% of trajectories exceeding meaningful divergence thresholds. Diagnostic decomposition reveals that the system correctly classifies memory operations (create, update, reinforce, supersede) only 20% of the time, a failure entirely invisible to extrinsic evaluation, and that failure modes differ systematically by category and difficulty. We release the benchmark, document generation pipeline, and scoring framework to support reproducible evaluation of agent memory systems.
+
+## Metadata
+- **Published**: 2026-10-15T16:58:12Z
+- **Authors**: Sebastian-Antonio Toma, Jean de Kernier, Mike Ply, Oliviu Matei
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.22209v1)

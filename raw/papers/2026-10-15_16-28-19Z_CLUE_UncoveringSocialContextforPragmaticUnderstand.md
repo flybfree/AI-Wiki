@@ -1,0 +1,18 @@
+---
+title: CLUE: Uncovering Social Context for Pragmatic Understanding
+published: 2026-10-15T16:28:19Z
+authors: Chengfei Wu, Zhaoqing Wu, Dan Goldwasser
+url: http://arxiv.org/abs/2610.22167v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# CLUE: Uncovering Social Context for Pragmatic Understanding
+
+## Abstract
+Understanding a conversation requires connecting what is said to the speakers' relationships, expectations, and earlier exchanges. Prior work shows that supplying relevant context can improve models' social judgments, but much of this information may already be present in the conversation. This motivates training models to discover the cues that matter and use them to support an interpretation. We propose CLUE, a two-stage training pipeline that combines supervised evidence reasoning with GRPO guided by Grounded Information Utilization ($\mathrm{IU}_{\mathrm{G}}$). This reward credits new, evidence-supported social inferences while accounting for reasoning effort. We train on a small set of conversational examples to assess effectiveness and generalization across tasks, languages, and genres. At inference time, the trained model reasons over the supplied interaction in a self-contained manner. Compared with base Qwen, CLUE achieves relative gains of 17.3% in-domain and 9.3% out-of-domain in average weighted F1, with higher F1 on four of five out-of-domain evaluations. These gains are accompanied by over 80% fewer reasoning tokens on average in both domains. Human evaluation further finds that CLUE more often grounds its explanations in specific conversational content, with closer alignment between its quoted evidence and human-selected context.
+
+## Metadata
+- **Published**: 2026-10-15T16:28:19Z
+- **Authors**: Chengfei Wu, Zhaoqing Wu, Dan Goldwasser
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.22167v1)

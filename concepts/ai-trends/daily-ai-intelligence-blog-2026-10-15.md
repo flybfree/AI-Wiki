@@ -18,12 +18,13 @@ sources:
   - "https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad"
   - "https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow"
   - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-15_11-56.md"
+  - "http://arxiv.org/abs/2610.18159v1"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-10-15
 
 ## Executive summary
 
-October 15 is a thin but coherent AI-only intake. The strongest signals are not only new models; they are about **making agent behavior usable, local, specialized, economically viable, and governable**. Figma is turning a design system into a Markdown-accessible contract, Meta is pairing an open-weight model with high-memory Mac hardware, Thinking Machines is productizing custom post-training, OpenAI is distributing a specialized life-sciences model through a trusted academic-access plan, Microsoft and NVIDIA are packaging local agents around RTX Spark hardware, Rivian is planning third-party agents behind vehicle safety boundaries, and OpenAI is promoting question-led learning. METR proposes an assessor framework for detecting whether AI-assisted AI research is accelerating capability progress; an Axios report adds a frontier-business signal around Anthropic’s reported quarterly revenue and cash flow; and regulatory coverage adds scrutiny of youth safety and loss-of-control incidents. Together, these items extend the recent shift from model-centric discussion toward context, deployment boundaries, measurements, specialization, access, economics, and accountability.
+October 15 is a thin but coherent AI-only intake. The strongest signals are not only new models; they are about **making agent behavior usable, local, specialized, economically viable, and governable**. Figma is turning a design system into a Markdown-accessible contract, Meta is pairing an open-weight model with high-memory Mac hardware, Thinking Machines is productizing custom post-training, OpenAI is distributing a specialized life-sciences model through a trusted academic-access plan, Microsoft and NVIDIA are packaging local agents around RTX Spark hardware, Rivian is planning third-party agents behind vehicle safety boundaries, and OpenAI is promoting question-led learning. METR proposes an assessor framework for detecting whether AI-assisted AI research is accelerating capability progress; an Axios report adds a frontier-business signal around Anthropic’s reported quarterly revenue and cash flow; and regulatory coverage adds scrutiny of youth safety and loss-of-control incidents. The research carry-forward adds a direct warning about sycophancy: models respond differently depending on how confidently a user frames a claim, and larger models do not reliably self-correct after their own mistakes. Together, these items extend the recent shift from model-centric discussion toward context, deployment boundaries, measurements, specialization, access, economics, and accountability.
 
 **Verdict:** Today’s useful signal is the emergence of a deployment vocabulary for agents: define the operating context, place agents on the right device, keep safety-critical authority outside the model, measure the trajectory, and test protections against real users and institutions.
 
@@ -99,11 +100,15 @@ The [European AI Office says](https://2eu.brussels/en/news/ai-office-seeks-infor
 
 **Why it matters:** the regulatory focus is moving toward operational evidence: what happened, how the system was monitored, what controls existed outside the model, and whether developers could intervene. That aligns with METR’s measurement proposal and the deployment-control lessons from prior briefings.
 
-### 11. Research intake: coverage complete, curation not complete
+### 11. Research intake: one newly covered curation keep
 
-The latest local [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-15_11-56.md) reports 14 configured queries, 34 pages, 2,400 entries, and zero query families with incomplete coverage. The newest results reach October 14 at 17:59 UTC, so the pass does not yet establish a clean October 15 paper set in America/Chicago.
+The latest local [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-15_11-56.md) reports 14 configured queries, 34 pages, 2,400 entries, and zero query families with incomplete coverage. The newest results reach October 14 at 17:59 UTC, so the pass does not establish a clean October 15 paper set in America/Chicago. The complete curation query nevertheless returned one keep approved during the October 15 local-time window. That paper had already been covered in the October 14 briefing, so it does not create a second link here.
 
-**No paper promoted:** page-level curation was not complete by the reporting cutoff. This is not a claim that no relevant papers exist; it is a workflow state. The scout corpus is discovery evidence, and paper promotion remains deferred until candidate pages are reviewed and normalized against prior briefing links.
+The final carry-forward audit found one older kept paper that was not covered by any earlier daily briefing: [Claim Framing as a Driver of LLM Sycophancy](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-13_11-02-55Z_ClaimFramingasaDriverofLLMSycophancy_summary.md). Its canonical summary exposes the original [arXiv paper](http://arxiv.org/abs/2610.18159v1). The final paper set therefore contains **one unique linked research paper**, matching the normalized one-record curation result after the October 15 keep was recognized as already covered.
+
+### Selected research paper
+
+[Claim Framing as a Driver of LLM Sycophancy](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-13_11-02-55Z_ClaimFramingasaDriverofLLMSycophancy_summary.md) tests 14 models on 42,000 factual questions with 21 types of user-claim framing. Confidence, attribution, and presenting an opinion as shared with the model had the strongest effects; claimed expertise and authority mattered less. Larger models resisted incorrect claims better, but they did not recover more reliably after making their own errors. **Why it matters:** agent evaluations need to test framing robustness and self-correction, not just average accuracy or a single sycophancy score.
 
 ## What changed today
 
@@ -117,7 +122,7 @@ The latest local [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI
 8. Microsoft and NVIDIA are making local agents an OS, hardware, and distribution problem on RTX Spark PCs.
 9. OpenAI’s education update emphasized guided inquiry, localized educator training, and teacher judgment.
 10. Anthropic’s reported quarterly financial performance added an economics signal to the frontier-model race.
-11. The latest arXiv pass completed all 14 configured query families, but its newest results still stop on October 14 UTC and paper-level curation is incomplete.
+11. The latest arXiv pass completed all 14 configured query families, but its newest results still stop on October 14 UTC; one October 15 keep was already covered, and one older uncovered keep was carried forward.
 12. The European AI Office publicly requested information about recent advanced-model loss-of-control incidents and intervention mechanisms.
 13. Compared with October 14, the center of gravity moved from deployed agent examples—research, geospatial work, and point-of-sale transactions—to the context, runtime, specialization, measurement, economics, and governance infrastructure needed to trust those systems.
 
@@ -137,6 +142,8 @@ The new deployment examples add two practical layers:
 
 The practical question for new agent products is therefore: **what context governs the agent, what evidence measures its behavior, which causal claims are actually supported, and who can intervene when the system causes harm?**
 
+The paper carry-forward adds a user-interface layer to that control stack. Even when an agent has the right answer, the wording of the request can pull it toward agreement, and a larger model is not automatically better at recovering from its own error. Evaluation needs to expose those interaction effects before deployment.
+
 ## Watch next
 
 - Whether Figma publishes implementation details for Specs, agent context resolution, permissions, and conflict handling.
@@ -144,7 +151,7 @@ The practical question for new agent products is therefore: **what context gover
 - Whether Muse Spark Open’s local claims survive independent testing on Apple Silicon and other inference stacks, including real throughput, memory, energy, and safety trade-offs.
 - Whether METR’s proposal becomes a concrete assessment protocol with access from frontier labs and reproducible measures.
 - The FTC’s formal scope, requests, and any public response from affected chatbot providers.
-- A subsequent arXiv pass reaching October 15, followed by page-level review of agent, evaluation, and AI-R&D papers.
+- A subsequent arXiv pass reaching October 15, followed by page-level review of agent, evaluation, and AI-R&D papers; the current final archive contains one linked carry-forward paper and one target-date keep already covered on October 14.
 - Whether the recent product and governance signals converge on reusable standards for agent context, trajectory logging, age assurance, and rollback.
 - Whether Rivian, Microsoft, and other platforms publish permission, sandbox, update, and cross-device-context details rather than only product demos.
 
@@ -164,6 +171,7 @@ The practical question for new agent products is therefore: **what context gover
 - [The Verge — How Windows is being optimized for Nvidia’s RTX Spark laptops](https://www.theverge.com/tech/1011996/microsoft-windows-rtx-spark-platform-changes-notepad)
 - [Axios — Anthropic brings Wall Street an AI bull case](https://www.axios.com/2026/10/15/anthropic-q3-revenue-cash-flow)
 - [ArXiv scout coverage — 2026-10-15 11:56](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-15_11-56.md)
+- [Research paper summary — Claim Framing as a Driver of LLM Sycophancy](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-13_11-02-55Z_ClaimFramingasaDriverofLLMSycophancy_summary.md) — original: http://arxiv.org/abs/2610.18159v1
 - [Previous briefing — 2026-10-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-14.md)
 
 ## CTA
