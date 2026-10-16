@@ -16665,3 +16665,4 @@ tags: ['wiki']
 ## [2026-10-15 23:25] stage-paper | 2026-10-15_00-34-38Z_ReviewPilot_AMulti_AgentSystemforScreeningandDataE.md
 ## [2026-10-16 00:33] stage-paper | 2026-10-12_18-54-51Z_DoesPersonalizationBreakTrust_Open_SetRejectionCal.md
 ## [2026-10-16 00:33] ingest | 2026-10-16_Summitexplorespromise_perilsofAI-InsideUCR-UCRiver.md
+## [2026-10-16 08:43] ingest | 2026-10-16_Replit_sCEOsaysthefutureofworkisthe_self-drivingco.md
