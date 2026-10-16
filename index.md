@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-16.md) — canonical final; visual reasoning, local AI runtime, human-in-the-loop enterprise agents, digital likenesses, institutional readiness, and personalization boundary calibration
  - [Summary: Daily AI Intelligence Briefing — 2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md) — canonical final; agent context contracts, specialization, local/physical deployment boundaries, guided inquiry, frontier-AI economics, AI-R&D acceleration measurement, youth-safety oversight, and one linked sycophancy research-paper carry-forward
  - [Summary: Daily AI Intelligence Briefing — 2026-10-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-14.md) — canonical final; self-improving multi-agent infrastructure, geospatial reasoning agents, conversational point-of-sale AI, deployment controls, and 7 linked research papers (3 target-date keeps, 4 carry-forward)
  - [Summary: Daily AI Intelligence Briefing — 2026-10-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-13.md) — canonical final; Gemini 4 Argon rollout and safety testing, AI-first game production, agentic commerce, OpenAI insider-security forensics, UK evaluation authority, and 0 selected research papers
@@ -3301,3 +3302,7 @@ tags: ['wiki']
 - [[2026-10-15_WhenitcametoCalAI_sviralsuccess_asmallarmyofinflue.md]] : When it came to Cal AI’s viral success, a small army of influencers paid off
 - [[2026-10-16_Summitexplorespromise_perilsofAI-InsideUCR-UCRiver.md]] : Summit explores promise & perils of AI - Inside UCR - UC Riverside
 - [[2026-10-16_Replit_sCEOsaysthefutureofworkisthe_self-drivingco.md]] : Replit’s CEO says the future of work is the ‘self-driving company’
+- [[2026-10-16_Veritasexpandsitsanti-counterfeitchiptojewelry_tro.md]] : Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles
+- [[2026-10-16_AweekwithRTXSpark_everythingwe_velearnedusingNvidi.md]] : A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops
+- [[2026-10-16_MarkWahlbergonusingAIinfilm_therightway_andbeingop.md]] : Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy
+- [[2026-10-16_Elorian_sfirstAImodelwantstoreasonwithimages_notju.md]] : Elorian’s first AI model wants to reason with images, not just about them
