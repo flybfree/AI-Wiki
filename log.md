@@ -16663,3 +16663,5 @@ tags: ['wiki']
 ## [2026-10-15 23:25] stage-paper | 2026-10-15_17-44-46Z_Multi_TargetFew_ShotPromptingwithDiffusionLanguage.md
 ## [2026-10-15 23:25] stage-paper | 2026-10-15_16-28-19Z_CLUE_UncoveringSocialContextforPragmaticUnderstand.md
 ## [2026-10-15 23:25] stage-paper | 2026-10-15_00-34-38Z_ReviewPilot_AMulti_AgentSystemforScreeningandDataE.md
+## [2026-10-16 00:33] stage-paper | 2026-10-12_18-54-51Z_DoesPersonalizationBreakTrust_Open_SetRejectionCal.md
+## [2026-10-16 00:33] ingest | 2026-10-16_Summitexplorespromise_perilsofAI-InsideUCR-UCRiver.md

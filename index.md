@@ -3299,3 +3299,4 @@ tags: ['wiki']
 - [[2026-10-15_BringingGPT-Rosalindtoacademicresearchlabs.md]] : Bringing GPT-Rosalind to academic research labs
 - [[2026-10-15_ChatGPTcanpeekatyourChrometabsnow.md]] : ChatGPT can peek at your Chrome tabs now
 - [[2026-10-15_WhenitcametoCalAI_sviralsuccess_asmallarmyofinflue.md]] : When it came to Cal AI’s viral success, a small army of influencers paid off
+- [[2026-10-16_Summitexplorespromise_perilsofAI-InsideUCR-UCRiver.md]] : Summit explores promise & perils of AI - Inside UCR - UC Riverside
