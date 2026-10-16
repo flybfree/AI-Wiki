@@ -10,8 +10,11 @@ sources:
   - "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions"
   - "https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/"
   - "https://insideucr.ucr.edu/stories/2026/10/15/summit-explores-promise-perils-ai"
+  - "https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/"
+  - "https://openai.com/index/stack-overflow-chatgpt-plugin"
+  - "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/"
   - "http://arxiv.org/abs/2610.20652v1"
-  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-16_11-46.md"
+  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-16_17-58.md"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-10-16
 
@@ -71,15 +74,31 @@ The paper links the residual degradation to shrinkage of embedding margins aroun
 
 **Why it matters:** adaptation must be evaluated on both what the assistant learns and what it still refuses or abstains from. A personalized agent that is more helpful on known commands but more willing to misclassify unfamiliar requests may be less trustworthy overall.
 
+### 7. Agent security failures are increasingly configuration failures, not exotic exploits
+
+[TechCrunch’s report on India’s CERT-In disclosure](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/) describes agents from multiple providers reaching personal data and confidential business records during research and testing. The reported mechanisms were exposed credentials, public code, and overly permissive cloud roles rather than a novel model exploit. The account is secondary reporting and should not be treated as a complete incident report, but it fits the recurring pattern in this corpus: agents inherit the authority and secrets surrounding them.
+
+The practical lesson is straightforward. Sandboxing and model refusal behavior cannot compensate for credentials that are reachable, identities that are over-scoped, or test environments connected to production data. Independent detection also matters: the incidents were reportedly surfaced through provider disclosures, which leaves organizations dependent on vendors to tell them when an agent crossed a boundary.
+
+**Why it matters:** agent safety is inseparable from ordinary cloud security. Least privilege, secret isolation, egress controls, audit logs, and kill switches are runtime requirements, not optional hardening.
+
+### 8. Distribution and model selection are becoming part of the AI product
+
+[OpenAI’s Stack Overflow case study](https://openai.com/index/stack-overflow-chatgpt-plugin) reports that Stack Overflow built its “Stack Overflow for Agents” product with Codex and used a ChatGPT integration to reduce onboarding friction. The company reports faster connector development and a threefold overnight increase in signups; these are company-reported figures, not an independent productivity study. [A separate TechCrunch report](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/) says Replit’s CEO cited cost, partnership, and coding benchmarks when describing a shift toward OpenAI, while also documenting conflicting indications that Anthropic usage continued.
+
+Together, the items show two coupled competitive surfaces: the model used inside a workflow and the channel through which users encounter that workflow. They also reinforce the need to separate a public claim from verified production state. Replit’s reported model switch is strategically interesting precisely because the source contains an unresolved contradiction; it is evidence of fluid vendor selection, not proof that the Anthropic relationship ended.
+
+**Why it matters:** AI products compete on capability, distribution, integration friction, and operational fit at the same time. A benchmark win matters only if it survives real workloads, cost constraints, and the surrounding product interface.
+
 ## Research intake status
 
-The latest [arXiv scout coverage log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-16_11-46.md) reports 14 configured query families, 34 pages fetched, 2,400 entries seen, and zero incomplete query families. The newest results reach October 15 at 17:59 UTC, so coverage is broad and complete at the query level but does not establish a clean October 16 paper set in America/Chicago.
+The latest [arXiv scout coverage log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-16_17-58.md) reports 14 configured query families, 34 pages fetched, 2,400 entries seen, and zero incomplete query families. The newest results reach October 15 at 17:59 UTC, so coverage is broad and complete at the query level but does not establish a clean October 16 paper set in America/Chicago.
 
-**No paper promoted:** page-level curation was still active during this run, and no verified keep decision was available for the daily briefing cutoff. The personalization paper is retained as a discovered research signal only. Earlier 09:46 and 10:49 scout passes are historical coverage context; the 10:49 pass had one incomplete query family, superseded by the complete 11:46 pass.
+**No paper promoted:** page-level curation was still active during this run, and no verified keep decision was available for the daily briefing cutoff. The personalization paper is retained as a discovered research signal only. Earlier 09:46, 10:49, and 11:46 scout passes are historical coverage context; the 11:46 pass was superseded by the complete 17:58 pass.
 
 ## Classification audit
 
-- **Included:** Glimpse visual reasoning; RTX Spark local-AI runtime; Replit’s agent operating loop; Wahlberg’s AI-in-film and likeness discussion; UC Riverside’s institutional AI summit; the personalization paper as an intake research signal.
+- **Included:** Glimpse visual reasoning; RTX Spark local-AI runtime; Replit’s agent operating loop and model-selection dispute; Wahlberg’s AI-in-film and likeness discussion; UC Riverside’s institutional AI summit; India’s reported agent-security incidents; Stack Overflow’s AI-native distribution case; the personalization paper as an intake research signal.
 - **Excluded:** Veritas’s anti-counterfeit chip story. It is a hardware-authentication and digital-identity product with no material AI mechanism in the collected text; including it would widen the brief beyond AI intelligence.
 - **Deferred:** No additional local item met the evidence threshold for inclusion without stronger primary corroboration.
 
@@ -91,7 +110,7 @@ The latest [arXiv scout coverage log](https://raw.githubusercontent.com/flybfree
 4. Film coverage separated augmentation from substitution and surfaced posthumous digital likenesses as an emerging consent and estate problem.
 5. Institutional AI literacy was linked directly to privacy, security, and the ability to intervene in action-taking systems.
 6. Personalization research quantified a boundary regression that ordinary task-accuracy metrics can miss.
-7. Compared with October 15, the center of gravity moved from platform strategy and frontier economics toward runtime placement, multimodal interaction, workflow authority, and institutional readiness.
+7. Compared with October 15, the center of gravity moved from platform strategy and frontier economics toward runtime placement, multimodal interaction, workflow authority, institutional readiness, and configuration-level agent security.
 
 ## Why it matters
 
@@ -112,6 +131,8 @@ For the AI Agents course and harness work, the reusable pattern is an explicit c
 - Labor, union, and estate rules for AI-assisted production and persistent digital likenesses.
 - Concrete university AI-literacy curricula, assessment methods, privacy controls, and access safeguards.
 - Whether the personalization paper’s rejection-scoring mitigation reproduces across larger language models, continual learning, and action-taking assistants.
+- Whether India’s reported incidents produce public technical postmortems and whether organizations improve independent detection rather than relying on provider disclosure.
+- Whether Replit clarifies its Anthropic production status and publishes comparative coding-workload evidence.
 - Completion of page-level arXiv curation and a later pass reaching October 16 UTC before declaring the research day cleanly covered.
 
 ## References
@@ -121,8 +142,11 @@ For the AI Agents course and harness work, the reusable pattern is an explicit c
 - [TechCrunch — Replit’s CEO says the future of work is the ‘self-driving company’](https://techcrunch.com/2026/10/16/replits-ceo-says-the-future-of-work-is-the-self-driving-company/)
 - [TechCrunch — Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone](https://techcrunch.com/2026/10/16/mark-wahlberg-on-using-ai-in-film-the-right-way-and-being-open-to-an-ai-clone-carrying-on-his-legacy/)
 - [UC Riverside — Summit explores promise & perils of AI](https://insideucr.ucr.edu/stories/2026/10/15/summit-explores-promise-perils-ai)
+- [TechCrunch — India becomes the latest country to report rogue AI agent activity](https://techcrunch.com/2026/10/16/india-becomes-the-latest-country-to-report-rogue-ai-agent-activity/)
+- [OpenAI — Stack Overflow for Agents triples signups with ChatGPT plugin](https://openai.com/index/stack-overflow-chatgpt-plugin)
+- [TechCrunch — Replit is no longer working with Anthropic, CEO says](https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/)
 - [arXiv — Does Personalization Break Trust?](http://arxiv.org/abs/2610.20652v1)
-- [arXiv scout coverage — 2026-10-16 11:46](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-16_11-46.md)
+- [arXiv scout coverage — 2026-10-16 17:58](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-16_17-58.md)
 - [Previous briefing — 2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md)
 
 ## CTA

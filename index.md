@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-16.md) — canonical final; visual reasoning, local AI runtime, human-in-the-loop enterprise agents, digital likenesses, institutional readiness, and personalization boundary calibration
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-16.md) — canonical final; visual reasoning, local AI runtime, human-in-the-loop enterprise agents, agent-security configuration, AI distribution, digital likenesses, institutional readiness, and personalization boundary calibration
  - [Summary: Daily AI Intelligence Briefing — 2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md) — canonical final; agent context contracts, specialization, local/physical deployment boundaries, guided inquiry, frontier-AI economics, AI-R&D acceleration measurement, youth-safety oversight, and one linked sycophancy research-paper carry-forward
  - [Summary: Daily AI Intelligence Briefing — 2026-10-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-14.md) — canonical final; self-improving multi-agent infrastructure, geospatial reasoning agents, conversational point-of-sale AI, deployment controls, and 7 linked research papers (3 target-date keeps, 4 carry-forward)
  - [Summary: Daily AI Intelligence Briefing — 2026-10-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-13.md) — canonical final; Gemini 4 Argon rollout and safety testing, AI-first game production, agentic commerce, OpenAI insider-security forensics, UK evaluation authority, and 0 selected research papers
@@ -3309,3 +3309,4 @@ tags: ['wiki']
 - [[2026-10-16_PhysicalAIismorethanrobots_saystheNvidiaveterannow.md]] : Physical AI is more than robots, says the Nvidia veteran now investing in it
 - [[2026-10-16_IndiabecomesthelatestcountrytoreportrogueAIagentac.md]] : India becomes the latest country to report rogue AI agent activity
 - [[2026-10-16_StackOverflowforAgentstriplessignupswithChatGPTplu.md]] : Stack Overflow for Agents triples signups with ChatGPT plugin
+- [[2026-10-16_ReplitisnolongerworkingwithAnthropic_CEOsays.md]] : Replit is no longer working with Anthropic, CEO says
