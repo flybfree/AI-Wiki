@@ -5,6 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-16 00:07] publish | 2026-10-15 canonical final published; wiki/Logseq briefing mirror byte-identical; curation returned 1 keep and final briefing contains 1 unique paper link after stable-identity normalization; GitHub commit c79a904c pushed and origin/master verified; Lumistorm post 230 created at https://lumistorm.net/daily-ai-intelligence-2026-10-15/; REST readback, published status, Daily AI Briefing category, cache-busted live page, archive presence, date, source links, and raw-wiki-syntax checks passed
 ## [2026-10-16 00:00] finalize | 2026-10-15 canonical final corrected against the complete local-time curation query: 1 keep approved on October 15, already covered by the October 14 briefing; stable-identity carry-forward found 1 older uncovered keep, Claim Framing as a Driver of LLM Sycophancy; final briefing contains 1 unique paper link with a visible canonical original-paper URL; wiki/Logseq/GitHub/Lumistorm publication verification follows
 
 ## [2026-10-15 06:01] summarize | created canonical October 15 AI-only briefing from Figma agent context contracts, METR AI-R&D acceleration assessment, and reported FTC youth-safety scrutiny; latest arXiv scout completed 14 queries across 34 pages with 2,400 entries and 0 incomplete query families but newest results stop at October 14 UTC; no paper promoted because page-level curation was incomplete; Logseq mirror synchronized; GitHub commit/push required
