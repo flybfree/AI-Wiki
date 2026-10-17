@@ -16677,3 +16677,4 @@ tags: ['wiki']
 ## [2026-10-16 12:55] ingest | 2026-10-16_IndiabecomesthelatestcountrytoreportrogueAIagentac.md
 ## [2026-10-16 14:59] ingest | 2026-10-16_StackOverflowforAgentstriplessignupswithChatGPTplu.md
 ## [2026-10-16 16:29] ingest | 2026-10-16_ReplitisnolongerworkingwithAnthropic_CEOsays.md
+## [2026-10-16 18:44] ingest | 2026-10-16_HowItaúisbuildinggenerativeAIforitsentirecustomerb.md

@@ -3310,3 +3310,4 @@ tags: ['wiki']
 - [[2026-10-16_IndiabecomesthelatestcountrytoreportrogueAIagentac.md]] : India becomes the latest country to report rogue AI agent activity
 - [[2026-10-16_StackOverflowforAgentstriplessignupswithChatGPTplu.md]] : Stack Overflow for Agents triples signups with ChatGPT plugin
 - [[2026-10-16_ReplitisnolongerworkingwithAnthropic_CEOsays.md]] : Replit is no longer working with Anthropic, CEO says
+- [[2026-10-16_HowItaúisbuildinggenerativeAIforitsentirecustomerb.md]] : How Itaú is building generative AI for its entire customer base
