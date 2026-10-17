@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-17] summarize | created the AI-only October 17 interim briefing from Oxford’s AI/automated-lab/supercomputing cancer-vaccine workflow; preserved the preclinical evidence boundary, data-governance constraints, clinical oversight, and incomplete arXiv status; latest completed scout covered 14 queries, 32 pages, and 2,200 entries through October 15 17:59 UTC; no paper promoted; wiki/Logseq mirror byte-identical; GitHub commit and push required.
+
 ## [2026-10-17 00:03] finalize | October 16 briefing inspected and recurrence-suppression audit added; local curation query found 0 keeps approved during October 16 CDT; briefing/Logseq mirror byte-identical; wiki changes pushed as commit 66f86e55 and origin/master verified; Lumistorm publication NOT completed: authentication preflight succeeded, but final paper carry-forward reconciliation and WordPress post REST/live verification remain unresolved. Existing briefing paper links do not yet satisfy the canonical-summary/count audit; do not treat this run as published.
 
 ## [2026-10-16 12:02] summarize | refreshed canonical October 16 AI-only briefing with Elorian Glimpse visual reasoning, RTX Spark local runtime, Replit’s human-in-the-loop agent loop, AI-assisted film and digital-likeness governance, UC Riverside institutional readiness, and personalization boundary calibration; excluded Veritas anti-counterfeit hardware as non-AI; latest complete arXiv pass covered 14 query families across 34 pages and 2,400 entries through October 15 17:59 UTC, while page-level curation remained active and no paper was promoted; Logseq mirror byte-identical; GitHub commit/push required
