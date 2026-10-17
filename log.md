@@ -16681,3 +16681,4 @@ tags: ['wiki']
 ## [2026-10-16 16:29] ingest | 2026-10-16_ReplitisnolongerworkingwithAnthropic_CEOsays.md
 ## [2026-10-16 18:44] ingest | 2026-10-16_HowItaúisbuildinggenerativeAIforitsentirecustomerb.md
 ## [2026-10-17 00:03] ingest | 2026-10-17_NewsAnalysis_AIoffersnewroutetocancervaccines_buth.md
+## [2026-10-17 09:04] ingest | 2026-10-17_WebsitesareclosingtheirdoorstoAIagents.md

@@ -3313,3 +3313,4 @@ tags: ['wiki']
 - [[2026-10-16_ReplitisnolongerworkingwithAnthropic_CEOsays.md]] : Replit is no longer working with Anthropic, CEO says
 - [[2026-10-16_HowItaúisbuildinggenerativeAIforitsentirecustomerb.md]] : How Itaú is building generative AI for its entire customer base
 - [[2026-10-17_NewsAnalysis_AIoffersnewroutetocancervaccines_buth.md]] : News Analysis: AI offers new route to cancer vaccines, but hurdles remain - Xinhua
+- [[2026-10-17_WebsitesareclosingtheirdoorstoAIagents.md]] : Websites are closing their doors to AI agents
