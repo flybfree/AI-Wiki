@@ -8,7 +8,7 @@ sources:
   - "https://english.news.cn/20261016/5912f54f0201427691a9cc432726a6c4/c.html"
   - "https://www.aria.org.uk/"
   - "https://www.gov.uk/government/organisations/medicines-and-healthcare-products-regulatory-agency"
-  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-17_05-44.md"
+  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-17_11-44.md"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-10-17
 
@@ -62,7 +62,7 @@ That creates a practical control requirement: once a medical AI system can learn
 
 ## Research intake status
 
-**Coverage incomplete.** The latest completed local arXiv pass, [2026-10-17 05:44 coverage log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-17_05-44.md), ran all 14 configured query families across 32 pages and 2,200 entries with no query marked incomplete, but its newest results stop at October 15, 17:59 UTC. It therefore does not establish complete coverage for October 16–17 in the local America/Chicago workflow. Additional arXiv scout processes were active during this run.
+**Coverage incomplete.** The latest completed local arXiv pass, [2026-10-17 11:44 coverage log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-17_11-44.md), ran all 14 configured query families across 29 pages and 1,950 entries with no query marked incomplete, but its newest results stop at October 15, 17:59 UTC. It therefore does not establish complete coverage for October 16–17 in the local America/Chicago workflow. The later pass supersedes the earlier 05:44, 09:42, and 10:40 snapshots for status reporting.
 
 **No paper promoted:** page-level curation was not complete by the briefing cutoff, so no research paper is presented as a verified daily keep. The cancer-vaccine item is an article/news signal, not a promoted paper.
 
