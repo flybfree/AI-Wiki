@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-17 18:01] summarize | refreshed the October 17 AI-only briefing with the 17:34 arXiv coverage snapshot, web-agent access restrictions, Replit's disputed Anthropic/OpenAI default shift, and Anthropic's workforce/labor signal; preserved the Oxford cancer-vaccine control loop, clinical-validation boundary, and tool-enabled security caveat; arXiv coverage remains incomplete because newest results stop at October 15 17:59 UTC and no paper was promoted; wiki/Logseq mirrors synchronized; GitHub commit/push required
+
 ## [2026-10-17 00:03] finalize | October 16 briefing inspected and recurrence-suppression audit added; local curation query found 0 keeps approved during October 16 CDT; briefing/Logseq mirror byte-identical; wiki changes pushed as commit 66f86e55 and origin/master verified; Lumistorm publication NOT completed: authentication preflight succeeded, but final paper carry-forward reconciliation and WordPress post REST/live verification remain unresolved. Existing briefing paper links do not yet satisfy the canonical-summary/count audit; do not treat this run as published.
 
 ## [2026-10-16 12:02] summarize | refreshed canonical October 16 AI-only briefing with Elorian Glimpse visual reasoning, RTX Spark local runtime, Replit’s human-in-the-loop agent loop, AI-assisted film and digital-likeness governance, UC Riverside institutional readiness, and personalization boundary calibration; excluded Veritas anti-counterfeit hardware as non-AI; latest complete arXiv pass covered 14 query families across 34 pages and 2,400 entries through October 15 17:59 UTC, while page-level curation remained active and no paper was promoted; Logseq mirror byte-identical; GitHub commit/push required
@@ -16685,3 +16687,4 @@ tags: ['wiki']
 ## [2026-10-17 12:00] summarize | refreshed October 17 canonical interim briefing after the latest direct AI-lab/news sweep and 11:44 arXiv snapshot; no newer verified target-date primary release displaced the Oxford AI-for-science signal; arXiv coverage remains incomplete because the newest local results stop at October 15 17:59 UTC; no paper promoted; Logseq mirror and GitHub commit/push required
 ## [2026-10-17 09:04] ingest | 2026-10-17_WebsitesareclosingtheirdoorstoAIagents.md
 ## [2026-10-17 13:54] ingest | 2026-10-17_ReplitisnolongerworkingwithAnthropic_CEOsays.md
+## [2026-10-17 15:56] ingest | 2026-10-17_Anthropicsaysitsworkforcehasbecomelessjuniorandiss.md
