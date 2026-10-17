@@ -16684,3 +16684,4 @@ tags: ['wiki']
 ## [2026-10-17 12:05] summarize | added Ars Technica's secondary report on tool-enabled OpenAI model intrusions as an evidence-labeled control-plane security signal; preserved the Oxford AI-for-science theme and incomplete arXiv status; Logseq mirror and GitHub commit/push required
 ## [2026-10-17 12:00] summarize | refreshed October 17 canonical interim briefing after the latest direct AI-lab/news sweep and 11:44 arXiv snapshot; no newer verified target-date primary release displaced the Oxford AI-for-science signal; arXiv coverage remains incomplete because the newest local results stop at October 15 17:59 UTC; no paper promoted; Logseq mirror and GitHub commit/push required
 ## [2026-10-17 09:04] ingest | 2026-10-17_WebsitesareclosingtheirdoorstoAIagents.md
+## [2026-10-17 13:54] ingest | 2026-10-17_ReplitisnolongerworkingwithAnthropic_CEOsays.md
