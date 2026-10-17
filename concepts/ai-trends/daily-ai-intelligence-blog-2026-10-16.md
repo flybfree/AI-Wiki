@@ -101,6 +101,7 @@ The latest [arXiv scout coverage log](https://raw.githubusercontent.com/flybfree
 - **Included:** Glimpse visual reasoning; RTX Spark local-AI runtime; Replit’s agent operating loop and model-selection dispute; Wahlberg’s AI-in-film and likeness discussion; UC Riverside’s institutional AI summit; India’s reported agent-security incidents; Stack Overflow’s AI-native distribution case; the personalization paper as an intake research signal.
 - **Excluded:** Veritas’s anti-counterfeit chip story. It is a hardware-authentication and digital-identity product with no material AI mechanism in the collected text; including it would widen the brief beyond AI intelligence.
 - **Deferred:** No additional local item met the evidence threshold for inclusion without stronger primary corroboration.
+- **Recurrence suppressed:** Thinking Machines’ [A Safe Path to Open Weights](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/) was excluded because the canonical URL appeared in earlier dated briefings and no new dated update or materially new event was present in October 16 intake.
 
 ## What changed today
 

@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md), covering agent context contracts, local and physical deployment boundaries, guided inquiry, frontier-AI economics, AI-for-AI acceleration measurement, youth-safety oversight, and one linked sycophancy research-paper carry-forward.
+The latest canonical daily briefing is [2026-10-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-16.md), covering visual reasoning, local AI runtime, agent operating loops and security, AI distribution, digital likenesses, institutional readiness, and personalization boundaries.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
