@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-10-17](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-17.md), covering AI-for-science control loops, personalized cancer-vaccine research, clinical validation boundaries, data governance, and incomplete arXiv coverage.
+The latest canonical daily briefing is [2026-10-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-18.md), recording no new target-date AI news, incomplete arXiv coverage, a benchmark-query rate limit, and no promoted paper.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
