@@ -3320,3 +3320,4 @@ tags: ['wiki']
 - [[2026-10-17_Anthropicsaysitsworkforcehasbecomelessjuniorandiss.md]] : Anthropic says its workforce has become less junior and is spending more time in meetings
 - [[2026-10-19_Nvidialaunchesnewopenmodelstorunagentsintheenterpr.md]] : Nvidia launches new open models to run agents in the enterprise and on PCs
 - [[2026-10-19_PeopleareusingAItomaketheirsmartTVsdumbagain.md]] : People are using AI to make their smart TVs dumb again
+- [[2026-10-19_HackershitAIcodingtoolOpenCode_runningupchargesonu.md]] : Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts
