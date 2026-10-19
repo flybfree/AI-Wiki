@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-19.md) — canonical interim; Nvidia open-weight enterprise/local agents, AI-assisted smart-TV customization, and incomplete October 17–19 arXiv coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-18.md) — canonical final; Anthropic Public Benefit Fund, incomplete October 17–18 arXiv coverage, and one approved Functional Welfare paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-17](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-17.md) — canonical interim; AI-for-science control loops, agent web permissions, model procurement, AI-native workforce shifts, clinical validation boundaries, and incomplete arXiv coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-16.md) — canonical final; visual reasoning, local AI runtime, human-in-the-loop enterprise agents, agent-security configuration, AI distribution, digital likenesses, institutional readiness, and personalization boundary calibration
@@ -3317,3 +3318,5 @@ tags: ['wiki']
 - [[2026-10-17_WebsitesareclosingtheirdoorstoAIagents.md]] : Websites are closing their doors to AI agents
 - [[2026-10-17_ReplitisnolongerworkingwithAnthropic_CEOsays.md]] : Replit is no longer working with Anthropic, CEO says
 - [[2026-10-17_Anthropicsaysitsworkforcehasbecomelessjuniorandiss.md]] : Anthropic says its workforce has become less junior and is spending more time in meetings
+- [[2026-10-19_Nvidialaunchesnewopenmodelstorunagentsintheenterpr.md]] : Nvidia launches new open models to run agents in the enterprise and on PCs
+- [[2026-10-19_PeopleareusingAItomaketheirsmartTVsdumbagain.md]] : People are using AI to make their smart TVs dumb again
