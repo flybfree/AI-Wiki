@@ -16774,3 +16774,5 @@ tags: ['wiki']
 ## [2026-10-19 10:37] ingest | 2026-10-19_Nvidialaunchesnewopenmodelstorunagentsintheenterpr.md
 ## [2026-10-19 11:35] ingest | 2026-10-19_PeopleareusingAItomaketheirsmartTVsdumbagain.md
 ## [2026-10-19 14:35] ingest | 2026-10-19_HackershitAIcodingtoolOpenCode_runningupchargesonu.md
+## [2026-10-19 17:35] ingest | 2026-10-19_AdvancingCodinginLow-ResourceProgrammingLanguages.md
+## [2026-10-19 17:35] ingest | 2026-10-19_MicrosoftsaysAIagentsarelikeinsiderthreatsas_front.md

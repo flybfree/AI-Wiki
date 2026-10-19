@@ -3321,3 +3321,5 @@ tags: ['wiki']
 - [[2026-10-19_Nvidialaunchesnewopenmodelstorunagentsintheenterpr.md]] : Nvidia launches new open models to run agents in the enterprise and on PCs
 - [[2026-10-19_PeopleareusingAItomaketheirsmartTVsdumbagain.md]] : People are using AI to make their smart TVs dumb again
 - [[2026-10-19_HackershitAIcodingtoolOpenCode_runningupchargesonu.md]] : Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts
+- [[2026-10-19_AdvancingCodinginLow-ResourceProgrammingLanguages.md]] : Advancing Coding in Low-Resource Programming Languages
+- [[2026-10-19_MicrosoftsaysAIagentsarelikeinsiderthreatsas_front.md]] : Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’
