@@ -30,3 +30,7 @@ This paper is significant because it bridges the gap between AI ethics and AI sa
 - Behavioral Causality in AI
 - Gemma 3 27B
 - AI Ethics vs. AI Safety
+
+## Original Paper Reference
+
+- **Source**: [Original Paper](http://arxiv.org/abs/2610.22460v1)
