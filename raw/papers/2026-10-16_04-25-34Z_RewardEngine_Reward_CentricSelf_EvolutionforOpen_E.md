@@ -1,0 +1,18 @@
+---
+title: Reward Engine: Reward-Centric Self-Evolution for Open-Ended Tool Agents
+published: 2026-10-16T04:25:34Z
+authors: Litong Feng, Ji Qi, Yiran Cheng, Shaowu Pan, Xinyu Zhang, Qijun Li
+url: http://arxiv.org/abs/2610.22915v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Reward Engine: Reward-Centric Self-Evolution for Open-Ended Tool Agents
+
+## Abstract
+Open-ended tool agents can complete the same objective through different tool paths, and their quality depends jointly on the interaction trace, environment state, and final artifacts, so such tasks rarely admit an executable ground-truth reward. The central challenge is therefore to construct a reward from existing experience that exposes the current policy's failures while remaining stationary during optimization. We introduce Reward Engine, which, like a self-motivated student, first works out what success requires and then optimizes toward it. From the task and initial trajectories, it builds a RewardPack of testcases for required correctness and rubrics for graded quality, each executed as a check that returns a judgment with evidence. The frozen RewardPack then guides the agent to revise and select its outputs, and can also serve as a reward for reinforcement learning. On WorkBuddy Bench Office and Claw-Eval, the constructed reward largely agrees with the benchmark graders, not reversing their ordering on 82.3\% and 80.5\% of candidate pairs. Used to revise executions, it raises three-run consistency ($\mathrm{Pass}^{3}$) over Baseline from 45.0\% to 54.0\% and from 78.4\% to 83.7\%.
+
+## Metadata
+- **Published**: 2026-10-16T04:25:34Z
+- **Authors**: Litong Feng, Ji Qi, Yiran Cheng, Shaowu Pan, Xinyu Zhang, Qijun Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.22915v1)

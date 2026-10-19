@@ -1,0 +1,18 @@
+---
+title: Reading the News Without Hindsight: NoLBERT Topics and the Cross-Section of Stock Returns
+published: 2026-10-15T23:27:49Z
+authors: Kevin Foley, Jonathan Hartadi, Shivesh Prakash, Charishma Takkallapalli, Swapnil Vatsal
+url: http://arxiv.org/abs/2610.22745v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Reading the News Without Hindsight: NoLBERT Topics and the Cross-Section of Stock Returns
+
+## Abstract
+Language models that read financial news are usually trained on text from the same years used to test them, so a backtest can reward hindsight. We build news topics from NoLBERT, an encoder pretrained only on text published between 1976 and 1995, adapted into a sentence encoder by contrastive fine-tuning on passages of the same article, with no labels or returns. We compare it with LDA, MiniLM and FinBERT readers on 1.26 million articles from 2012 to 2024, convert each reader's topics into attention shocks and stock exposures, and forecast the returns of the 1,000 largest US stocks with eight models at three rebalancing frequencies. Models are fitted on 2013-2019, choices are made on 2020-2021, and 2022-2024 is held out. The experiment with the best validation score loses money at every frequency. Measuring attention shocks against the past 63 trading days instead of 5 raises the test rank IC of every reader. NoLBERT gives the most stable topics and forecasts about as well as LDA. An equal-weight combination of all readers and models earns a monthly net Sharpe ratio of 1.12, significant against zero before adjusting for the search but not against a price-only benchmark.
+
+## Metadata
+- **Published**: 2026-10-15T23:27:49Z
+- **Authors**: Kevin Foley, Jonathan Hartadi, Shivesh Prakash, Charishma Takkallapalli, Swapnil Vatsal
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.22745v1)
