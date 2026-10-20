@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-20 18:01] summarize | refreshed the canonical AI-only October 20 briefing with OpenAI's Orchestra Bio acquisition and Google TorchTPU/Amazon TorchNeuron compute-portability signals; retained Figma MCP governance and UCL neuroscience-and-AI funding; latest arXiv pass completed 14 queries across 28 pages and 1,900 entries with no query failures, but results stop at October 19 and page-level curation remains incomplete, so no paper was promoted; wiki/Logseq briefing mirrors synchronized; GitHub commit/push required
+
 ## [2026-10-20 12:01] summarize | refreshed the canonical AI-only October 20 briefing with Figma MCP interoperability/governance coverage and UCL neuroscience-and-AI funding; latest arXiv pass reached 2,000 entries across 29 pages but `topic-benchmark` was rate-limited (HTTP 429), so coverage is incomplete and no paper was promoted; Logseq mirror synchronized byte-for-byte; GitHub commit/push required
 
 ## [2026-10-19 12:01] summarize | created the October 19 AI-only interim briefing from Nvidia's open-weight enterprise/local-agent models and AI-assisted smart-TV customization; latest arXiv scout completed all 14 query families across 18 pages and 1,050 entries but newest results stop at October 16 17:59 UTC, so October 17–19 coverage is incomplete and no paper was promoted; direct major-lab sweep found no newer same-day primary release displacing the corpus; briefing and Logseq mirror synchronized; GitHub commit/push required
@@ -16947,3 +16949,7 @@ tags: ['wiki']
 ## [2026-10-20 13:07] ingest | 2026-10-20_Franchiseereconcilescashin94_lesstimewithChatGPTWo.md
 ## [2026-10-20 14:11] ingest | 2026-10-20_MetapausesMusesharingafterresearchersfindAIchatson.md
 ## [2026-10-20 14:11] ingest | 2026-10-20_GooglehasjoinedAmazoninattackingNvidia_sstronghold.md
+## [2026-10-20 17:04] stage-paper | 2026-10-19_13-24-44Z_Autonomousintelligenceforminingproductivity_amulti.md
+## [2026-10-20 17:04] stage-paper | 2026-10-15_18-37-22Z_AreLargeReasoningModelsGoodEverydayReasoners_AComp.md
+## [2026-10-20 18:02] ingest | 2026-10-20_Google_smorepersonalizedGeminiAIisheadingtoyourcar.md
+## [2026-10-20 18:02] ingest | 2026-10-20_AnthropicpitchesAIsafetybillthatmayblockamodelif50.md
