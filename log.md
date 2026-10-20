@@ -16935,3 +16935,6 @@ tags: ['wiki']
 - Included UCL’s five-year £112.5 million neuroscience-and-AI funding renewal as a late capture; source publication date is October 19, 2026.
 - ArXiv discovery completed: 14 query families, 30 pages, 2,050 entries, no incomplete query families.
 - No paper promoted because page-level curation did not provide a verified keep set.
+## [2026-10-20 08:29] stage-paper | 2026-10-18_03-15-20Z_CorrectRTL_BoostRTLGenerationQualityThroughAutomat.md
+## [2026-10-20 08:29] stage-paper | 2026-10-19_00-32-50Z_CurriculumLearningTeachesLLMsLong_HorizonImplicitR.md
+## [2026-10-20 08:29] stage-paper | 2026-10-17_13-43-05Z_VerifyingHuman_WrittenReasoningReferences.md
