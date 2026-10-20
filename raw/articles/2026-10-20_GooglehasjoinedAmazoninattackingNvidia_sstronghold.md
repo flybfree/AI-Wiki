@@ -1,0 +1,81 @@
+---
+title: Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers
+date: 2026-10-20
+url: https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/
+type: article-full-text
+tags: [news, ai-research, full-text]
+source_url: https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/
+source_feed: TechCrunch AI
+ai_relevance: include
+ai_topic: model-release
+ai_reason: watchlist match: Inkling / Inkling-Small
+scraped: 2026-10-20 14:11
+---
+
+# Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers
+
+## Full Article
+
+On Tuesday, Google
+announced
+that TorchTPU, its long-awaited version of PyTorch, is now available as an open-source project. With this, Google joins Amazon in trying to
+break Nvidia’s stranglehold
+on the AI industry, where most AI apps are written by default to run on Nvidia’s chips, or GPUs.
+PyTorch is the popular open-source toolkit that AI app developers and startups use to build, train, and run AI models. It is, by some accounts, used by 85% of the AI apps. PyTorch was originally developed by Meta (then Facebook) in 2016, long before the world had an inkling that LLMs would change the world. At the time, Nvidia’s GPUs were already the standard hardware for AI research, so many of PyTorch’s features were built to work specifically with them. In 2022, Meta turned PyTorch over to the Linux Foundation, a nonprofit that manages many important open source projects.
+Google’s version, TorchTPU, lets AI apps run on Google’s AI chips, called Tensor Processing Units (TPUs). It also makes it easy to move existing PyTorch apps to TPUs and, therefore, to Google Cloud. Developers can do this with a simple configuration change and no re-writing of their apps.
+Amazon made a
+similar announcement Monday,
+when it released its own version of PyTorch, called TorchNeuron. TorchNeuron allows AI apps to be ported to Amazon’s homegrown AI chip, Trainium, and to AWS with no rewriting. Amazon also said it going even further in its effort to loosen Nvidia’s hold on PyTorch. It is submitting code to the main PyTorch project that decouples various features from Nvidia’s chips, making it more open to any hardware by default.
+Google may be one-upping Amazon in a few ways, however. It says it worked directly with Meta, Hugging Face, Inferact (maker of vLLM) RadixArk (maker of SGLang), and others to ensure that TorchTPU’s features and code libraries work well with these popular AI development tools, just as the original PyTorch does.
+Plus the search giant has launched a dedicated tool, the
+TPU agent suite
+, to help developers move their apps to Google’s chips and cloud and fix errors along the way. It even updated its popular LiteRT tool, which runs AI on phones, laptops and embedded devices, to work better with PyTorch AI apps.
+None of this means AI app developers will automatically ditch Nvidia’s hardware en masse just because they can now easily move to alternative chips and clouds. But Amazon and Google are clearly working to end Nvidia’s advantage.
+Topics
+AI
+,
+Google
+,
+Hardware
+,
+TC
+When you purchase through links in our articles,
+we may earn a small commission
+. This doesn’t affect our editorial independence.
+[Julie Bort]
+Julie Bort
+Venture Editor
+Julie Bort is the Startups/Venture Desk editor for TechCrunch.
+You can contact or verify outreach from Julie by emailing
+[email protected]
+or via
+@Julie188
+on X.
+View Bio
+[Event Logo]
+November 4
+Boston
+Buy One Pass, Get a Second Free
+Cover more ground at TechCrunch’s ultimate founder bootcamp of the year by bringing your co-founder or partner for free
+Book before the BOGO deal expires
+Register Now
+Most Popular
+People are using AI to make their smart TVs dumb again
+Sarah Perez
+Everyone’s watching the Elizabeth Holmes documentary ‘You Can See Everything’
+Anthony Ha
+Anthropic says its workforce has become less junior and is spending more time in meetings
+Anthony Ha
+Replit makes OpenAI its default over Anthropic, CEO says
+Kirsten Korosec
+Lucas Ropek
+Rebecca Bellan
+Mark Wahlberg wants to take on the longevity-startup crowd with an affordable gym concept
+Connie Loizos
+India becomes the latest country to report rogue AI agent activity
+Aditya Mehta
+Tesla reveals SpaceX-powered Roadster that flies and falls with style
+Sean O'Kane
+
+## Metadata
+- **Source**: [Original Article](https://techcrunch.com/2026/10/20/google-has-joined-amazon-in-attacking-nvidias-stronghold-with-ai-app-developers/)

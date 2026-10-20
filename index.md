@@ -3329,3 +3329,9 @@ tags: ['wiki']
 - [[2026-10-20_Nextphaseofpioneeringneuroscience_andAI_atUCLsecur.md]] : Next phase of pioneering neuroscience ​and AI ​at UCL secured through major philanthropic award
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-20.md]] : Summary: Daily AI Intelligence Briefing — 2026-10-20
 - [[2026-10-20_Figmaco-founderDylanFieldthinksMCPisnotaperfectpro.md]] : Figma co-founder Dylan Field thinks MCP is not a perfect protocol
+- [[2026-10-20_Announcements.md]] : Announcements
+- [[2026-10-20_Meta_sMusehits10MU_S_downloadsin40days_amilestoner.md]] : Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps
+- [[2026-10-20_EricSchmidtreportedlyownsabouthalfasmuchofAnthropi.md]] : Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei
+- [[2026-10-20_Franchiseereconcilescashin94_lesstimewithChatGPTWo.md]] : Franchisee reconciles cash in 94% less time with ChatGPT Work
+- [[2026-10-20_MetapausesMusesharingafterresearchersfindAIchatson.md]] : Meta pauses Muse sharing after researchers find AI chats on the web
+- [[2026-10-20_GooglehasjoinedAmazoninattackingNvidia_sstronghold.md]] : Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers
