@@ -1,0 +1,18 @@
+---
+title: Can AI agents make law? Evaluating AI legal relevance and creativity
+published: 2026-10-17T12:24:41Z
+authors: Benjamin Ricaud, Artem Galushko
+url: http://arxiv.org/abs/2610.24661v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Can AI agents make law? Evaluating AI legal relevance and creativity
+
+## Abstract
+Large language models, the artificial intelligence (AI) systems behind modern chatbots, are trained on vast amounts of legal text, but can they build on it to write law for situations that text never anticipated? In this study, we analyse AI agents' ability to draft a hypothetical "Constitution" for a "community of AI agents". We design "constitutional assemblies" in which a single language model plays several characters that debate to produce a draft constitution. We find that the assemblies converge on a robust floor of legal provisions, and generate a wide variety of different proposals around it, including several AI-specific provisions with no equivalent in human law. Looking more closely at the "creativity" of these AI agents, we find different levels: most proposals combine existing concepts and themes from human constitutions with AI-specific vocabulary. We introduce a measure of this recombination, which helps identify and highlight the most novel legal material. This study reveals a ceiling on AI creativity: the agents extend familiar legal ideas to new situations, but they do not work through what those situations would change. Although current AI models can help develop new laws, they still depend on human legal reasoning.
+
+## Metadata
+- **Published**: 2026-10-17T12:24:41Z
+- **Authors**: Benjamin Ricaud, Artem Galushko
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.24661v1)
