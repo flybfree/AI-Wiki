@@ -1,0 +1,18 @@
+---
+title: Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks
+published: 2026-10-19T15:36:41Z
+authors: Rohan Menon, Chih-Hong Cheng
+url: http://arxiv.org/abs/2610.26589v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Attack Success Rate: Cost-Aware Metric for Evaluating Iterative LLM Jailbreaks
+
+## Abstract
+Attack success rate (ASR) evaluates jailbreaks against large language models without accounting for repeated calls to the victim model. Yet each additional call gives the deployed system another opportunity to detect the attack and intervene. We introduce $\mathrm{ASR}_{\mathrm{STEP}}$, which penalizes additional victim-model calls while retaining binary success judgments. Our evaluation considers GCG~\cite{zou2023universal}, PAIR~\cite{chao2025jailbreaking} with a step budget, and a single-step PAP~\cite{zeng2024johnny} baseline on JailBreakBench across three model families. GCG's scores decrease by 7.0--8.7 percentage points after discounting, while PAP's remain unchanged. While for PAIR~\cite{chao2025jailbreaking}, we see a wider discounting range between 3.4-12 percentage points, showing that the "step" quantity differs per iterative strategy. Reporting both metrics makes the discount due to repeated victim-model interaction explicit. Code is available \hyperlink{https://github.com/SuELS-Group/beyond_asr}{here}.
+
+## Metadata
+- **Published**: 2026-10-19T15:36:41Z
+- **Authors**: Rohan Menon, Chih-Hong Cheng
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.26589v1)

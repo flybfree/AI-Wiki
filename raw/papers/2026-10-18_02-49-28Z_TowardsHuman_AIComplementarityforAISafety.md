@@ -1,0 +1,18 @@
+---
+title: Towards Human-AI Complementarity for AI Safety
+published: 2026-10-18T02:49:28Z
+authors: Sander Lanbo Shi, Miranda Anna Christ, Eric Modesitt, Andrew Louis, Konrad Cheng, Brandon Thai Tran, Sewoong Lee, Ratnakar Pawar, Gaia Molinaro, Juliana Bain, Nandika Donthi, Maja Pavlovic, Annya Dahmani, Francesca Bianco, Abhishek Shah, Tyler Crosse, Arth Singh, Karissa Huang, Sukanya Krishna, Konstantinos Voudouris, David Demitri Africa, Joshua Jacob, Rishub Jain
+url: http://arxiv.org/abs/2610.24969v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Towards Human-AI Complementarity for AI Safety
+
+## Abstract
+Safely overseeing AI is increasingly challenging for the humans doing it, as they must evaluate longer and more complex outputs with every new model generation. To mitigate this challenge, we could leverage complementarity: where humans and models make different mistakes, combining their judgements could yield an oversight signal stronger than either produces alone. We study this opportunity in realistic, safety-relevant settings, contributing the largest known suite of such tasks (3,957 instances across 8 datasets and 6 domains) as well as a platform and data pipeline for measuring human, AI, and human-AI performance on matched items. We collected 35,613 judgements from 416 human raters, finding a considerable opportunity for a complementarity effect. We also found that with the assistance methods we tested, human raters corrected the AI's errors less often, even when overall human accuracy rose, and the hybridisation methods we tested added little over the better single source on average. While complementarity is an important and feasible engineering target for safe oversight, achieving it remains an open challenge for future work.
+
+## Metadata
+- **Published**: 2026-10-18T02:49:28Z
+- **Authors**: Sander Lanbo Shi, Miranda Anna Christ, Eric Modesitt, Andrew Louis, Konrad Cheng, Brandon Thai Tran, Sewoong Lee, Ratnakar Pawar, Gaia Molinaro, Juliana Bain, Nandika Donthi, Maja Pavlovic, Annya Dahmani, Francesca Bianco, Abhishek Shah, Tyler Crosse, Arth Singh, Karissa Huang, Sukanya Krishna, Konstantinos Voudouris, David Demitri Africa, Joshua Jacob, Rishub Jain
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.24969v1)
