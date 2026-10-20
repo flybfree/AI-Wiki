@@ -95,7 +95,8 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-19.md) — canonical final; deployment controls, three uncovered kept research papers, and complete October 19 arXiv scout coverage
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-20](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-20.md) — canonical final; MCP interoperability governance, UCL neuroscience-and-AI research funding, and incomplete benchmark-query coverage
+- [Summary: Daily AI Intelligence Briefing — 2026-10-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-19.md) — canonical final; deployment controls, three uncovered kept research papers, and complete October 19 arXiv scout coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-18.md) — canonical final; Anthropic Public Benefit Fund, incomplete October 17–18 arXiv coverage, and one approved Functional Welfare paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-17](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-17.md) — canonical interim; AI-for-science control loops, agent web permissions, model procurement, AI-native workforce shifts, clinical validation boundaries, and incomplete arXiv coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-16.md) — canonical final; visual reasoning, local AI runtime, human-in-the-loop enterprise agents, agent-security configuration, AI distribution, digital likenesses, institutional readiness, and personalization boundary calibration
@@ -3327,3 +3328,4 @@ tags: ['wiki']
 - [[2026-10-19_NscaleandAnthropicarereportedlyintalksforyetanothe.md]] : Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal
 - [[2026-10-20_Nextphaseofpioneeringneuroscience_andAI_atUCLsecur.md]] : Next phase of pioneering neuroscience ​and AI ​at UCL secured through major philanthropic award
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-20.md]] : Summary: Daily AI Intelligence Briefing — 2026-10-20
+- [[2026-10-20_Figmaco-founderDylanFieldthinksMCPisnotaperfectpro.md]] : Figma co-founder Dylan Field thinks MCP is not a perfect protocol
