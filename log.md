@@ -16930,3 +16930,8 @@ tags: ['wiki']
 ## [2026-10-20 00:50] stage-paper | 2026-10-18_08-15-12Z_TowardAgenticRetrieval_AugmentedGenerationforEnter.md
 ## [2026-10-20 00:50] stage-paper | 2026-10-19_16-18-52Z_AllPath_LayeredVerificationforaDeployed_Self_Revis.md
 ## [2026-10-20 00:50] ingest | 2026-10-20_Nextphaseofpioneeringneuroscience_andAI_atUCLsecur.md
+## [2026-10-20 06:05] publish-daily-briefing | 2026-10-20
+- Finalized October 20 AI intelligence briefing from the AI-only intake and direct major-lab sweep.
+- Included UCL’s five-year £112.5 million neuroscience-and-AI funding renewal as a late capture; source publication date is October 19, 2026.
+- ArXiv discovery completed: 14 query families, 30 pages, 2,050 entries, no incomplete query families.
+- No paper promoted because page-level curation did not provide a verified keep set.

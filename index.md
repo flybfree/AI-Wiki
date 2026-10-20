@@ -3326,3 +3326,4 @@ tags: ['wiki']
 - [[2026-10-19_EmbeddedAIevaluatorswon_tbeaneasysolution_HuggingF.md]] : Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says
 - [[2026-10-19_NscaleandAnthropicarereportedlyintalksforyetanothe.md]] : Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal
 - [[2026-10-20_Nextphaseofpioneeringneuroscience_andAI_atUCLsecur.md]] : Next phase of pioneering neuroscience ​and AI ​at UCL secured through major philanthropic award
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-20.md]] : Summary: Daily AI Intelligence Briefing — 2026-10-20
