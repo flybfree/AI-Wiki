@@ -1,0 +1,18 @@
+---
+title: AfriGuard: Safety and Robust Refusal For African Languages
+published: 2026-10-19T14:21:55Z
+authors: Israel Abebe Azime, Jesujoba O. Alabi, Iffat Maab, Alexander D. Cai, Tadesse Destaw Belay, Atnafu Lambebo Tonja, Jonas Kgomo, Folasade Alabi, Salomey Osei, Saminu Muhammad Aliyu, Nkechinyere Faith Aguobi, Bontu Fufa Balcha, Blessing Sibanda, Davis David, Mouhamadane Mboup, Daud Abolade, Neo Putini, Louis Powell, Kiant'e Brantley, Philipp Slusallek, Dietrich Klakow, Julia Kreutzer
+url: http://arxiv.org/abs/2610.26474v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# AfriGuard: Safety and Robust Refusal For African Languages
+
+## Abstract
+Large language models (LLMs) designed to interact with users are typically trained to respond appropriately to harmful or toxic content. However, ensuring appropriate responses becomes more challenging in diverse linguistic and cultural contexts, where safety risks may be expressed or interpreted differently. Building safe AI systems therefore requires detecting safety risks, understanding their nature, and responding appropriately, while accounting for linguistic and cultural variations that add complexity to each stage. In this work, we introduce AfriGuard, a culturally grounded multilingual dataset for studying harmful intent, safety-category understanding, and refusal behavior across 10 African languages and English. Our findings reveal that guardrail models underperform both open- and closed-source LLMs on safety-intent and safety-category classification, while models show limited understanding of appropriate safety behavior, scoring below 60% F1. We further find that models often fail to respond appropriately to unsafe prompts not because they explicitly refuse, but because they produce linguistically inadequate responses that result in incidental non-assistance rather than proper refusals. Finally, using AfriGuard, we develop efficient guardrail models that achieve performance competitive with models up to 30x larger, introduce refusal detectors that improve average performance by 43.9% over existing detectors, and demonstrate that supervised fine-tuning can substantially improve overall safety performance.
+
+## Metadata
+- **Published**: 2026-10-19T14:21:55Z
+- **Authors**: Israel Abebe Azime, Jesujoba O. Alabi, Iffat Maab, Alexander D. Cai, Tadesse Destaw Belay, Atnafu Lambebo Tonja, Jonas Kgomo, Folasade Alabi, Salomey Osei, Saminu Muhammad Aliyu, Nkechinyere Faith Aguobi, Bontu Fufa Balcha, Blessing Sibanda, Davis David, Mouhamadane Mboup, Daud Abolade, Neo Putini, Louis Powell, Kiant'e Brantley, Philipp Slusallek, Dietrich Klakow, Julia Kreutzer
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.26474v1)

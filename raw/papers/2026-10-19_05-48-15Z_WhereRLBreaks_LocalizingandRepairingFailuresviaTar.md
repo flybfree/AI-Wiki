@@ -1,0 +1,18 @@
+---
+title: Where RL Breaks: Localizing and Repairing Failures via Targeted Continued Pretraining
+published: 2026-10-19T05:48:15Z
+authors: Xinyi Wang, Danqi Chen
+url: http://arxiv.org/abs/2610.25836v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Where RL Breaks: Localizing and Repairing Failures via Targeted Continued Pretraining
+
+## Abstract
+Reinforcement learning with verifiable rewards (RLVR) is widely used to improve reasoning in language models, yet growing evidence suggests that it mostly sharpens what the base model can already do. This raises a practical question: when RL fails, what is the base model missing? We look inside the RL policy's own rollouts and find that failures are localized: whether a rollout fails is strongly predicted by a small set of characteristic n-grams, ranging from reflection phrases such as "let's recheck" to specific operations such as "the inverse of A". These failures persist throughout RL training, although they are not beyond the model's reach: other sampled answers to the same question are often correct. Building on this observation, we use the failure $n$-grams to retrieve text from the pretraining corpus and continue pretraining the base model on it before RL. The resulting corpus has only 35M tokens, 3--4 orders of magnitude smaller than typical mid-training. We evaluate this approach on OLMo2 and Qwen3 models trained with RL on (1) GSM8K; (2) a mixture of math, commonsense, and knowledge questions; and (3) general math and science reasoning. Despite its size, the corpus yields consistent gains: our approach outperforms continued pretraining on the same amount of text sampled from the pretraining corpus across 10 out of 11 settings, including by $2.0$ points on GSM8K when inserted before mid-training. The retrieved text also transfers across model families: text retrieved for OLMo2-1B's failures improves Qwen3-4B on the mixture by $1.9$ points over the same baseline. Together, our results suggest that where RL fails is a cheap and effective signal for selecting pretraining data.
+
+## Metadata
+- **Published**: 2026-10-19T05:48:15Z
+- **Authors**: Xinyi Wang, Danqi Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.25836v1)

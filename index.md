@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-19.md) — canonical interim; Nvidia open-weight enterprise/local agents, AI-assisted smart-TV customization, and incomplete October 17–19 arXiv coverage
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-19.md) — canonical final; deployment controls, three uncovered kept research papers, and complete October 19 arXiv scout coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-18.md) — canonical final; Anthropic Public Benefit Fund, incomplete October 17–18 arXiv coverage, and one approved Functional Welfare paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-17](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-17.md) — canonical interim; AI-for-science control loops, agent web permissions, model procurement, AI-native workforce shifts, clinical validation boundaries, and incomplete arXiv coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-16.md) — canonical final; visual reasoning, local AI runtime, human-in-the-loop enterprise agents, agent-security configuration, AI distribution, digital likenesses, institutional readiness, and personalization boundary calibration

@@ -1,0 +1,18 @@
+---
+title: EvoSkill v2: Fully Agentic Skill Evolution from Benchmark Adaptation to a Stateful Evolver
+published: 2026-10-19T07:29:21Z
+authors: Dastin Huang, Baran Nama, Salaheddin Alzubi
+url: http://arxiv.org/abs/2610.25931v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# EvoSkill v2: Fully Agentic Skill Evolution from Benchmark Adaptation to a Stateful Evolver
+
+## Abstract
+EvoSkill v2 is a three-agent system that edits the instructions (skills) an agent is given, leaving its model and harness intact. The user starts a run by describing a benchmark and supplying a grader, which a benchmark adaptor turns into a benchmark-specific plugin. A solver attempts the tasks, and an evolver reads the solver's training rollouts and rewrites the skills at each epoch. We implement the evolver as one stateful coding agent with a bash tool for the whole run, unlike the two most common designs among the skill optimizers we surveyed: a sequence of single model calls, as in SkillOpt, and an agent that starts afresh each round, as in SkillBoost. We also measure how much the solver's rollouts vary from one attempt to the next, give the evolver several attempts per training task, and accept every epoch's skills instead of selecting among them on noisy scores. With fine-grained ground truth, EvoSkill v2's skills raised the held-out pass rate above the stronger of SkillOpt and SkillBoost by 7.7 percentage points on SpreadsheetBench v2 and by 5.4 on $τ^3$-bench banking. In both benchmarks and both feedback settings, EvoSkill v2's evolver cost less per percentage point of held-out pass rate gained than either baseline's optimizer. EvoSkill v2 also enables a less capable model to improve its own skills, demonstrated by a gain of up to 21.5 percentage points in the $τ^3$-bench banking experiment where Claude Haiku 5.5 powers both solver and evolver.
+
+## Metadata
+- **Published**: 2026-10-19T07:29:21Z
+- **Authors**: Dastin Huang, Baran Nama, Salaheddin Alzubi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.25931v1)
