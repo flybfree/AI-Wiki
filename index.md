@@ -3339,3 +3339,5 @@ tags: ['wiki']
 - [[2026-10-20_AnthropicpitchesAIsafetybillthatmayblockamodelif50.md]] : Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
 - [[2026-10-20_JudgedismissesSamAltman_ssister_ssexualabuselawsui.md]] : Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit
 - [[2026-10-21_Google_orgawards_36mto17AIscienceteams_ETIHEdTechN.md]] : Google.org awards $36m to 17 AI science teams | ETIH EdTech News
+- [[2026-10-21_OpenAImodelsarecomingtoGoogleCloud.md]] : OpenAI models are coming to Google Cloud
+- [[2026-10-21_AIpromisesproductivity_butformanagers_it_smostlyah.md]] : AI promises productivity, but for managers, it’s mostly a headache for now

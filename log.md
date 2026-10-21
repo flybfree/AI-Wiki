@@ -17037,3 +17037,5 @@ tags: ['wiki']
 ## [2026-10-21 00:51] stage-paper | 2026-10-20_13-27-40Z_UncoveringAudio_TextAlignmentinLargeAudio_Language.md
 ## [2026-10-21 00:51] stage-paper | 2026-10-20_17-48-56Z_Value_Rich_DifferentlyOrganized_MeasuringValueExpr.md
 ## [2026-10-21 00:51] ingest | 2026-10-21_Google_orgawards_36mto17AIscienceteams_ETIHEdTechN.md
+## [2026-10-21 08:44] ingest | 2026-10-21_OpenAImodelsarecomingtoGoogleCloud.md
+## [2026-10-21 09:22] ingest | 2026-10-21_AIpromisesproductivity_butformanagers_it_smostlyah.md
