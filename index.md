@@ -3337,3 +3337,4 @@ tags: ['wiki']
 - [[2026-10-20_GooglehasjoinedAmazoninattackingNvidia_sstronghold.md]] : Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers
 - [[2026-10-20_Google_smorepersonalizedGeminiAIisheadingtoyourcar.md]] : Google’s more personalized Gemini AI is heading to your car
 - [[2026-10-20_AnthropicpitchesAIsafetybillthatmayblockamodelif50.md]] : Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
+- [[2026-10-20_JudgedismissesSamAltman_ssister_ssexualabuselawsui.md]] : Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit
