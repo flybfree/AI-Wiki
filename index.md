@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-21](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-21.md) — canonical final; model distribution, bounded automotive assistants, prospective medical AI, AI-for-science execution, enterprise supervision, and incomplete paper curation
  - [Summary: Daily AI Intelligence Briefing — 2026-10-20](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-20.md) — canonical final; MCP interoperability governance, UCL neuroscience-and-AI research funding, and incomplete benchmark-query coverage
 - [Summary: Daily AI Intelligence Briefing — 2026-10-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-19.md) — canonical final; deployment controls, three uncovered kept research papers, and complete October 19 arXiv scout coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-18.md) — canonical final; Anthropic Public Benefit Fund, incomplete October 17–18 arXiv coverage, and one approved Functional Welfare paper
@@ -3341,3 +3342,5 @@ tags: ['wiki']
 - [[2026-10-21_Google_orgawards_36mto17AIscienceteams_ETIHEdTechN.md]] : Google.org awards $36m to 17 AI science teams | ETIH EdTech News
 - [[2026-10-21_OpenAImodelsarecomingtoGoogleCloud.md]] : OpenAI models are coming to Google Cloud
 - [[2026-10-21_AIpromisesproductivity_butformanagers_it_smostlyah.md]] : AI promises productivity, but for managers, it’s mostly a headache for now
+- [[2026-10-21_ConversationalGemininavigationcomestoAppleCarPlay.md]] : Conversational Gemini navigation comes to Apple CarPlay
+- [[2026-10-21_EmpoweringfrontlinematernalcarewithAI-assistedultr.md]] : Empowering frontline maternal care with AI-assisted ultrasound

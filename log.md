@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-10-21 12:02] summarize | refreshed the canonical AI-only October 21 briefing with OpenAI models entering Google Cloud Model Garden, Gemini navigation on Apple CarPlay, prospective AI-assisted ultrasound validation, Google.org AI-for-science execution funding, enterprise supervision signals, and a reported OpenCode incident; latest arXiv scout completed 14 query families across 32 pages and 2,250 entries with no incomplete queries, but page-level curation remained incomplete so no paper was promoted; Cognitive Maps was retained as staged/deferred only; wiki/Logseq briefing mirrors synchronized; GitHub commit/push required
+
 ## [2026-10-20 18:01] summarize | refreshed the canonical AI-only October 20 briefing with OpenAI's Orchestra Bio acquisition and Google TorchTPU/Amazon TorchNeuron compute-portability signals; retained Figma MCP governance and UCL neuroscience-and-AI funding; latest arXiv pass completed 14 queries across 28 pages and 1,900 entries with no query failures, but results stop at October 19 and page-level curation remains incomplete, so no paper was promoted; wiki/Logseq briefing mirrors synchronized; GitHub commit/push required
 
 ## [2026-10-20 12:01] summarize | refreshed the canonical AI-only October 20 briefing with Figma MCP interoperability/governance coverage and UCL neuroscience-and-AI funding; latest arXiv pass reached 2,000 entries across 29 pages but `topic-benchmark` was rate-limited (HTTP 429), so coverage is incomplete and no paper was promoted; Logseq mirror synchronized byte-for-byte; GitHub commit/push required
@@ -17039,3 +17041,6 @@ tags: ['wiki']
 ## [2026-10-21 00:51] ingest | 2026-10-21_Google_orgawards_36mto17AIscienceteams_ETIHEdTechN.md
 ## [2026-10-21 08:44] ingest | 2026-10-21_OpenAImodelsarecomingtoGoogleCloud.md
 ## [2026-10-21 09:22] ingest | 2026-10-21_AIpromisesproductivity_butformanagers_it_smostlyah.md
+## [2026-10-21 10:16] ingest | 2026-10-21_ConversationalGemininavigationcomestoAppleCarPlay.md
+## [2026-10-21 11:33] stage-paper | 2026-10-19_00-02-30Z_CognitiveMapsinLargeLanguageModels.md
+## [2026-10-21 11:33] ingest | 2026-10-21_EmpoweringfrontlinematernalcarewithAI-assistedultr.md
