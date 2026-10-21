@@ -17048,3 +17048,6 @@ tags: ['wiki']
 ## [2026-10-21 14:31] ingest | 2026-10-21_WalmartisinvitingAIagentstoshopforyou.md
 ## [2026-10-21 14:31] ingest | 2026-10-21_WhileAmazonblocksAIagents_Walmartrollsoutthewelcom.md
 ## [2026-10-21 14:56] ingest | 2026-10-21_AnthropictakesonMusewithClaudeDuet_itsnewAIagent.md
+## [2026-10-21 16:21] ingest | 2026-10-21_TechCrunchFounderSummit2026_Everythingyouneedtokno.md
+## [2026-10-21 17:22] ingest | 2026-10-21_MetatocreateanewclassofsharestofundAIpush.md
+## [2026-10-21 18:01] summarize | refreshed the canonical AI-only October 21 briefing with Meta’s proposed AI-financing share class, $135–145 billion 2026 capex outlook, and Muse distribution/privacy signal; excluded the TechCrunch Founder Summit event promotion as generic startup/event material; latest arXiv scout completed 14 query families across 32 pages and 2,250 entries with no incomplete queries, but page-level curation remained incomplete so no paper was promoted; wiki/Logseq briefing mirrors synchronized; GitHub commit/push required

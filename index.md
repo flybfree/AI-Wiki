@@ -3348,3 +3348,5 @@ tags: ['wiki']
 - [[2026-10-21_WalmartisinvitingAIagentstoshopforyou.md]] : Walmart is inviting AI agents to shop for you
 - [[2026-10-21_WhileAmazonblocksAIagents_Walmartrollsoutthewelcom.md]] : While Amazon blocks AI agents, Walmart rolls out the welcome mat
 - [[2026-10-21_AnthropictakesonMusewithClaudeDuet_itsnewAIagent.md]] : Anthropic takes on Muse with Claude Duet, its new AI agent
+- [[2026-10-21_TechCrunchFounderSummit2026_Everythingyouneedtokno.md]] : TechCrunch Founder Summit 2026: Everything you need to know
+- [[2026-10-21_MetatocreateanewclassofsharestofundAIpush.md]] : Meta to create a new class of shares to fund AI push
