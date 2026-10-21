@@ -1,0 +1,18 @@
+---
+title: How Language Models Learn Taste: Brand Preference in LLMs
+published: 2026-10-20T14:26:19Z
+authors: Tapan Parikh
+url: http://arxiv.org/abs/2610.28272v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# How Language Models Learn Taste: Brand Preference in LLMs
+
+## Abstract
+Asked to name a running shoe brand, language models say Nike. Asked to recommend one, they say Brooks. This paper asks where models learn that taste. Across 102 models and 42 brand categories, the brand a model picks when recommending differs from the brand it names in 26. The field moves together to a shared recommendation. The Named brands are market leaders, and the Picked brands are mostly niche and specialist. Three open training pipelines show where this forms. Pretraining already attaches the recommended brand to advice. Supervised fine-tuning teaches the model to answer and mostly leaves the pick unchanged. Preference optimization (DPO) teaches the model which answer is better, and the pick moves in all three pipelines, by 11 to 24 points. The preference data contains almost no brands. DPO moves the model's judgments toward a second set of associations even when the preferred brand is not in the preference data, and the effect reaches beyond brands. Asked to choose a sauce, models switch from ketchup to pesto. We do not know exactly how these preferences arise. We suspect they come from the judge models that decide which answers count as better during preference training. For brands, a recommendation depends less on what a model knows about them than on whether they fit this taste.
+
+## Metadata
+- **Published**: 2026-10-20T14:26:19Z
+- **Authors**: Tapan Parikh
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.28272v1)

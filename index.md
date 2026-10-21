@@ -3338,3 +3338,4 @@ tags: ['wiki']
 - [[2026-10-20_Google_smorepersonalizedGeminiAIisheadingtoyourcar.md]] : Google’s more personalized Gemini AI is heading to your car
 - [[2026-10-20_AnthropicpitchesAIsafetybillthatmayblockamodelif50.md]] : Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
 - [[2026-10-20_JudgedismissesSamAltman_ssister_ssexualabuselawsui.md]] : Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit
+- [[2026-10-21_Google_orgawards_36mto17AIscienceteams_ETIHEdTechN.md]] : Google.org awards $36m to 17 AI science teams | ETIH EdTech News

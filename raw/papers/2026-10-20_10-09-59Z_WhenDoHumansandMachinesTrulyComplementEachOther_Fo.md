@@ -1,0 +1,18 @@
+---
+title: When Do Humans and Machines Truly Complement Each Other? Formal Conditions and Empirical Evidence for Human-AI Synergy
+published: 2026-10-20T10:09:59Z
+authors: Andrea Campagner, Federico Cabitza, Vincenzo Crupi
+url: http://arxiv.org/abs/2610.27965v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# When Do Humans and Machines Truly Complement Each Other? Formal Conditions and Empirical Evidence for Human-AI Synergy
+
+## Abstract
+Can humans and artificial intelligence cooperate such that their combination yields greater accuracy than either agent alone? This result, termed \emph{synergy} or \emph{complementarity}, is notoriously difficult to achieve, even when both agents possess significant independent accuracy. In this paper, we present a formal framework to model human-AI interaction through the lens of reliance patterns, which characterize the joint correctness structure of human and algorithmic decisions. We derive mathematically necessary and sufficient conditions for synergy, demonstrating that its emergence depends on the ability of either agent to identify and correct the errors of the other, what we call Human and Algorithmic Correction. Beyond its theoretical contribution, the proposed framework provides a foundation for the design and evaluation of knowledge-based decision support systems, where interaction policies must dynamically integrate heterogeneous sources of expertise. We demonstrate this through the analysis of seven clinical case studies. Our empirical results reveal a ``dominance trap,'' where a strong algorithmic advantage can paradoxically inhibit synergy by eroding human corrective intervention. We also show that synergy can persist even in the presence of cognitive biases, such as automation bias, provided there is functional de-correlation between human and AI errors. These results provide a formal foundation for key concepts in the human-AI systems literature and offer actionable insights for designing interaction-centric AI systems that foster complementarity.
+
+## Metadata
+- **Published**: 2026-10-20T10:09:59Z
+- **Authors**: Andrea Campagner, Federico Cabitza, Vincenzo Crupi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.27965v1)

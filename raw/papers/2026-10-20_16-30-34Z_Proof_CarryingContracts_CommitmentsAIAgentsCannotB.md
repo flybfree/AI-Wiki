@@ -1,0 +1,18 @@
+---
+title: Proof-Carrying Contracts: Commitments AI Agents Cannot Break
+published: 2026-10-20T16:30:34Z
+authors: Carlo Ciliberto, Alessandro Rudi, Enrico Tassi
+url: http://arxiv.org/abs/2610.28484v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Proof-Carrying Contracts: Commitments AI Agents Cannot Break
+
+## Abstract
+AI agents increasingly act on behalf of people or other agents, purchasing services, exchanging information and delegating work. What an agent must respect is written in instructions, policies or agreements, but text alone cannot make it comply. It may make mistakes, be redirected by what it reads, or pursue different interests. For an economy of such agents to function, parties need agreements they can rely on without inspecting or trusting one another's agents. We introduce Proof-Carrying Contracts (PC2), a framework for making agreed constraints enforceable throughout an agent's interactions with a system. Before a requested operation can run, the agent must supply a machine-checkable proof that it preserves the agreed constraints in every case allowed by its model. An execution system called the Airlock checks the proof and controls access to the operation. The parties specify the conditions to preserve, while the agent supplies the reasoning needed to justify its decisions and remains free to adapt its strategy. This avoids having to design a separate permission policy and prove that every decision it permits is safe. We prove that the constraints hold at every instant during execution, even for an adversarial agent, and identify when this implies safety in the world. Reusable capability modules provide tools and guarantees from which contracts can be constructed. PC2 provides a foundation for an agent economy whose agreements protect both those delegating work and those carrying it out.
+
+## Metadata
+- **Published**: 2026-10-20T16:30:34Z
+- **Authors**: Carlo Ciliberto, Alessandro Rudi, Enrico Tassi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.28484v1)
