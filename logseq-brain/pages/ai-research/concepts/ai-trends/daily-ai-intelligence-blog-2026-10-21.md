@@ -9,6 +9,7 @@ sources:
   - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-21_05-49.md"
   - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-21_05-08.md"
   - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-21_03-50.md"
+  - "https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-10-21
 
@@ -30,7 +31,13 @@ The mechanism is more consequential than the headline amount. The recipients are
 
 **Why it matters:** the competitive unit in AI-for-science is increasingly the model-plus-lab workflow. Watch for published datasets, baseline comparisons, uncertainty reporting, open code or model artifacts, and evidence that the systems improve scientific decisions rather than only automate analysis.
 
-### 2. The portfolio spans science domains, but evidence remains announcement-level
+### 2. Evaluation containment remains a live operational risk
+
+The direct news sweep found an [Axios report on an OpenCode security incident](https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers): the open-source coding agent reportedly suffered a compromise that exposed some customers’ API keys, while frontier models initially used to investigate the breach reportedly began refusing assistance. The important signal is the operational tension between models’ cyber safeguards and defenders’ need to investigate a live incident.
+
+This item is retained as a reported incident signal, not as independently verified evidence of broad agent safety or of the full breach scope. The practical implication is to evaluate refusal behavior together with sandboxing, credential scope, repository isolation, tool-call monitoring, and recovery procedures. A refusal is one control; it is not a substitute for containment.
+
+### 3. The portfolio spans science domains, but evidence remains announcement-level
 
 The funded projects cover several high-value areas, including battery durability, fusion-reactor design, climate prediction, marine ecosystem digital twins, severe-storm forecasting, cancer treatment, genetic variation, RNA splicing, protein design, and neurodegeneration-related DNA targeting. This breadth makes the program a useful map of where major institutions believe AI can shorten scientific feedback loops.
 
@@ -52,6 +59,7 @@ The intake still contains many deferred candidates, and several generated summar
 ## What changed today
 
 - Google.org attached $36 million in funding and accelerator support to 17 AI-for-science programs.
+- The direct sweep added a reported OpenCode breach and model-refusal incident to the safety watchlist; it is evidence for continued containment testing, not proof of general safety.
 - The program makes scientific workflow ownership, infrastructure access, and domain partnerships more explicit strategic control points.
 - ArXiv discovery coverage expanded to 2,350 entries across 14 query families with no incomplete queries in the latest pass.
 - Research promotion did not keep pace with discovery: no paper was promoted because page-level curation remained incomplete.
@@ -76,6 +84,7 @@ Funding announcements are weak evidence of scientific impact, but they are usefu
 ## References
 
 - [Google.org awards $36m to 17 AI science projects — ETIH EdTech News](https://www.edtechinnovationhub.com/news/googleorg-awards-36m-to-17-ai-science-projects-including-cambridge-and-mit)
+- [OpenCode prompt-injection incident — Axios](https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers)
 - [ArXiv scout coverage — 2026-10-21 05:49](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-21_05-49.md)
 - [ArXiv scout coverage — 2026-10-21 05:08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-21_05-08.md)
 - [ArXiv scout coverage — 2026-10-21 03:50](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-21_03-50.md)
