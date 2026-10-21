@@ -3344,3 +3344,7 @@ tags: ['wiki']
 - [[2026-10-21_AIpromisesproductivity_butformanagers_it_smostlyah.md]] : AI promises productivity, but for managers, it’s mostly a headache for now
 - [[2026-10-21_ConversationalGemininavigationcomestoAppleCarPlay.md]] : Conversational Gemini navigation comes to Apple CarPlay
 - [[2026-10-21_EmpoweringfrontlinematernalcarewithAI-assistedultr.md]] : Empowering frontline maternal care with AI-assisted ultrasound
+- [[2026-10-21_HowAT_Tisrethinkingin-houselegalworkwithOpenAI.md]] : How AT&T is rethinking in-house legal work with OpenAI
+- [[2026-10-21_WalmartisinvitingAIagentstoshopforyou.md]] : Walmart is inviting AI agents to shop for you
+- [[2026-10-21_WhileAmazonblocksAIagents_Walmartrollsoutthewelcom.md]] : While Amazon blocks AI agents, Walmart rolls out the welcome mat
+- [[2026-10-21_AnthropictakesonMusewithClaudeDuet_itsnewAIagent.md]] : Anthropic takes on Muse with Claude Duet, its new AI agent

@@ -17044,3 +17044,7 @@ tags: ['wiki']
 ## [2026-10-21 10:16] ingest | 2026-10-21_ConversationalGemininavigationcomestoAppleCarPlay.md
 ## [2026-10-21 11:33] stage-paper | 2026-10-19_00-02-30Z_CognitiveMapsinLargeLanguageModels.md
 ## [2026-10-21 11:33] ingest | 2026-10-21_EmpoweringfrontlinematernalcarewithAI-assistedultr.md
+## [2026-10-21 14:31] ingest | 2026-10-21_HowAT_Tisrethinkingin-houselegalworkwithOpenAI.md
+## [2026-10-21 14:31] ingest | 2026-10-21_WalmartisinvitingAIagentstoshopforyou.md
+## [2026-10-21 14:31] ingest | 2026-10-21_WhileAmazonblocksAIagents_Walmartrollsoutthewelcom.md
+## [2026-10-21 14:56] ingest | 2026-10-21_AnthropictakesonMusewithClaudeDuet_itsnewAIagent.md
