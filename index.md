@@ -3356,3 +3356,7 @@ tags: ['wiki']
 - [[2026-10-22_Fujitsuimplementsmulti-AIagentinfrastructuretoenha.md]] : Fujitsu implements multi- AI agent infrastructure to enhance product information ...
 - [[2026-10-22_WhatFDEmeansatOpenAI.md]] : What FDE means at OpenAI
 - [[2026-10-22_ClaudeDuetappisAnthropic_sbetonagents.md]] : Claude Duet app is Anthropic’s bet on agents
+- [[2026-10-22_Spotify_scurrentAIbetisaboutbeingthemusicserviceth.md]] : Spotify’s current AI bet is about being the music service that agents choose
+- [[2026-10-22_PHP_Thethreelittleletterswreakinghavocacrosstheweb.md]] : PHP: The three little letters wreaking havoc across the web
+- [[2026-10-22_Uberputsall30_000employeesonChatGPTWork.md]] : Uber puts all 30,000 employees on ChatGPT Work
+- [[2026-10-22_OpenAI_Anthropic_andNvidiahadrecordlobbyingquarter.md]] : OpenAI, Anthropic, and Nvidia had record lobbying quarters
