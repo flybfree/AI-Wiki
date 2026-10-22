@@ -3352,3 +3352,4 @@ tags: ['wiki']
 - [[2026-10-21_MetatocreateanewclassofsharestofundAIpush.md]] : Meta to create a new class of shares to fund AI push
 - [[2026-10-21_Blackstone_sJasKhairasaysfearsoverAI-buildoutdebta.md]] : Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown
 - [[2026-10-21_Latestnews_Mistral.md]] : Latest news | Mistral
+- [[2026-10-22_Fujitsuimplementsmulti-AIagentinfrastructuretoenha.md]] : Fujitsu implements multi- AI agent infrastructure to enhance product information ...
