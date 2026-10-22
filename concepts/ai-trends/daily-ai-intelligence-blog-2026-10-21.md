@@ -80,7 +80,7 @@ The local decision store records one keep approved during the October 21 CDT win
 
 - [Is Sycophancy a Form of In-Context Updating?](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-20_14-59-54Z_IsSycophancyaFormofIn_ContextUpdating_summary.md) — selected October 21; [canonical paper record, arXiv:2610.28325v1](http://arxiv.org/abs/2610.28325v1).
 
-The complete curation query returned **1 keep decision**, normalized to **1 unique paper**. No additional uncovered prior keeps were identified in the existing daily-briefing records. Final selected-paper link count: **1**.
+The complete curation query returned **1 keep decision for October 21**, normalized to **1 unique target-date paper**. A separate stable-identity audit found **14 older kept papers not linked in the prior daily briefing pages**; they have not yet been reconciled into this edition. The target-date paper link count is **1**, but the final retained-paper set is therefore incomplete and this edition is not substantively complete.
 
 ## Research intake and classification audit
 
