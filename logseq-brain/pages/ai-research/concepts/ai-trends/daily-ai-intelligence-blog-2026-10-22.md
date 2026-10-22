@@ -2,14 +2,19 @@
 title: "Summary: Daily AI Intelligence Briefing — 2026-10-22"
 date: "2026-10-22"
 type: briefing
-status: "canonical interim"
+status: "canonical final"
 tags: [ai-intelligence, daily-briefing, enterprise-ai, multi-agent-systems, agent-governance, agentic-commerce, ai-policy, research-intake, coverage-audit]
 sources:
   - "https://global.fujitsu/en-global/pr/news/2026/10/22-01"
   - "https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/"
   - "https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/"
   - "https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records"
-  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-22_11-50.md"
+  - "https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model"
+  - "https://openai.com/index/decisions-api"
+  - "https://openai.com/index/forward-deployed-engineering-means"
+  - "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/"
+  - "https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/"
+  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-22_17-46.md"
   - "https://openai.com/news/"
   - "https://www.anthropic.com/news"
   - "https://deepmind.google/blog/"
@@ -19,11 +24,11 @@ sources:
 
 ## Executive summary
 
-October 22 is an enterprise-deployment and agent-distribution day, not a verified new-frontier-model day. The local intake adds three useful signals to Fujitsu/MISUMI's nine-agent product-information workflow: Uber is rolling ChatGPT Work to its entire 30,000-person workforce after a 1,000-person pilot; Spotify is positioning itself as a service that outside agents can call without receiving raw listener data; and OpenAI, Anthropic, and Nvidia each reported record quarterly lobbying spend. Together, these stories show AI moving through organizational workflows, third-party agent interfaces, and policy channels at the same time.
+October 22 is an enterprise-deployment, agent-platform, and control-boundary day—not a verified new-frontier-model day. The local intake now adds Canva Craft’s design-planning image model, OpenAI’s Decisions API and forward-deployed engineering model, Anthropic’s Claude Duet, 1Password’s credential-less agent login, Uber’s 30,000-person rollout, Spotify’s agent-facing service boundary, and record quarterly lobbying by OpenAI, Anthropic, and Nvidia. Together, these stories show AI moving from demos into the components, permissions, and operating systems needed to make agents useful.
 
-The common mechanism is controlled integration. Fujitsu/MISUMI uses specialized agents, mutual checks, and human approval. Uber is scaling access while measuring how teams actually build workflows. Spotify keeps recommendation reasoning and listener data inside its own systems while exposing an agent-facing service boundary. Lobbying shows that the firms building and supplying these systems are also trying to shape the rules around safety, cybersecurity, copyright, energy, and exports.
+The common mechanism is controlled integration. Fujitsu/MISUMI uses specialized agents, mutual checks, and human approval. OpenAI is separating high-frequency bounded decisions from open-ended generation and embedding engineers with customers to close the deployment gap. Anthropic and 1Password are packaging background work and delegated access with approval boundaries. Uber is scaling access while measuring how teams actually build workflows. Spotify and Canva keep domain-specific data or structure inside their own systems while exposing controlled capabilities. Lobbying shows that the firms building and supplying these systems are also trying to shape the rules around safety, cybersecurity, copyright, energy, and exports.
 
-The research intake remains broad but incomplete. The latest arXiv pass fetched 2,100 entries across 14 query families and 29 pages, with two incomplete query families. Page-level curation was not complete by cutoff, so **no paper was promoted**. A direct major-lab sweep found no newer same-day primary model release that displaced the corpus.
+The research intake is broad, but paper promotion is not complete. The latest arXiv pass fetched 2,250 entries across 14 query families and 32 pages with no incomplete query families. Page-level curation was not complete by cutoff, so **no paper was promoted**. A direct major-lab sweep found no newer same-day primary frontier-model release that displaced the corpus.
 
 **Verdict:** the strongest signal is that agentic AI is becoming a deployment and distribution problem. The durable advantage is shifting toward workflow design, data boundaries, evaluation, human approval, and access to enterprise and policy control points—not agent count alone.
 
@@ -61,26 +66,49 @@ The amounts are still below the long-established spending of companies such as G
 
 **Implication:** compare public safety commitments with the specific rules companies support, oppose, or seek to narrow. The policy layer is now part of AI product strategy.
 
-### 5. Research coverage is broad, but paper promotion is not complete
+### 5. Agent control is becoming a product surface
 
-The latest [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-22_11-50.md) reports 14 configured query families, 29 pages, and 2,100 entries. Results reach October 21, 2026, across agents, tool use, memory, reasoning, language models, quantization, open source, and self-improvement. Two query families were incomplete.
+[Anthropic's Claude Duet](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/) is a proactive professional agent built to work in a virtual machine, monitor tasks in the background, use more than 6,000 integrations, and pause for approval on sensitive steps. [1Password for Agents](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/) addresses a narrower but more important boundary: an agent can request a login without receiving the user's actual password, with identity verification and user approval in the loop.
 
-**Research status:** **No paper promoted.** This is not a clean “no relevant papers found” result. Discovery coverage is incomplete and page-level keep decisions were not complete at the cutoff; candidates remain outside the briefing until explicit curation decisions are recorded.
+These are complementary controls. Duet governs what an agent may do while it is operating; 1Password governs how it obtains access to external systems. Neither proves that agent workflows are safe in general, and the local summaries are vendor/reporting-level evidence. The design direction is nevertheless clear: useful agents need explicit identity, permission, approval, and audit mechanisms rather than copied credentials and indefinite autonomy.
 
-### 6. No same-day frontier-model release displaced the corpus
+**Why it matters:** the competitive unit is increasingly a permissioned runtime. Watch whether these controls expose durable logs, scoped access, revocation, failure recovery, and useful user explanations—not merely a confirmation button.
 
-The direct sweep checked official surfaces for OpenAI, Anthropic, Google DeepMind, and Meta, plus broader model-release, governance, and incident queries. No newer same-day primary model release or major safety announcement was verified that should enter this edition. Historical or aggregator-only claims were deferred rather than carried forward.
+### 6. Specialized AI components are replacing monolithic model calls
+
+[OpenAI's Decisions API](https://openai.com/index/decisions-api) targets repeated bounded decisions such as classification, routing, and rubric scoring. The official developer guide currently describes it as a public beta, roughly 10x faster than the Responses API, with `gpt-6-luna` as the only supported model; the local capture also records structured probability, choice, and score outputs. [OpenAI's FDE explanation](https://openai.com/index/forward-deployed-engineering-means) describes a customer-embedded engineering function whose goal is to turn hard deployments into repeatable product capability.
+
+The two announcements describe the same shift from different ends: reduce the cost of small decisions inside a control loop, while learning from the messy integration work that general-purpose APIs do not solve automatically. This is more consequential than another benchmark headline because it attacks latency, cost, and deployment friction directly. It remains early evidence: the Decisions API is beta, and the FDE account is a company description rather than independent validation.
+
+### 7. Design-specific models are using proprietary structure as a moat
+
+[Canva Craft](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model) plans a design before rendering, supports up to 2K output across more than 30 aspect ratios, and was trained on millions of Canva templates. Canva says the model is ranked fourth on Design Arena behind three GPT-Image variants and plans Model Context Protocol (MCP) access for agents.
+
+The important distinction is not the leaderboard position; it is the model’s access to domain structure—layouts, templates, text placement, and composition—inside a product workflow. Specialized models can beat generic generation on the dimensions users actually review, while MCP could make those capabilities callable by external agents. The benchmark is crowdsourced and the claims are largely company-reported, so real adoption and edit-time reduction remain open questions.
+
+### 8. Research coverage is broad, but paper promotion is not complete
+
+The latest [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-22_17-46.md) reports 14 configured query families, 32 pages, and 2,250 entries, with zero incomplete query families. Results reach October 21, 2026, across agents, tool use, memory, reasoning, language models, quantization, open source, and self-improvement. Discovery coverage completed, but page-level curation was not complete by cutoff.
+
+**Research status:** **No paper promoted.** This is not a clean “no relevant papers found” result. Discovery coverage completed, but page-level keep decisions were not complete at the cutoff; candidates remain outside the briefing until explicit curation decisions are recorded.
+
+### 9. No same-day frontier-model release displaced the corpus
+
+The direct sweep checked official surfaces for OpenAI, Anthropic, Google DeepMind, and Meta, plus broader model-release, governance, and incident queries. The official OpenAI surface added the Decisions API, but no newer same-day primary frontier-model release or major model-safety announcement was verified that should enter this edition. Historical or aggregator-only claims were deferred rather than carried forward.
 
 ## Classification audit
 
-- **Included:** Fujitsu/MISUMI's multi-agent product-information workflow; Uber's 30,000-person ChatGPT Work rollout; Spotify's agent-facing service strategy; AI-industry lobbying disclosures; arXiv coverage status; absence of a verified same-day primary frontier-model release.
+- **Included:** Fujitsu/MISUMI's multi-agent product-information workflow; Uber's 30,000-person ChatGPT Work rollout; Spotify's agent-facing service strategy; Claude Duet and 1Password's agent-control boundaries; OpenAI's Decisions API and FDE deployment model; Canva Craft; AI-industry lobbying disclosures; arXiv coverage status; absence of a verified same-day primary frontier-model release.
 - **Excluded:** the PHP2Shell article as generic cybersecurity infrastructure rather than an AI event; generic business and technology material without a specific AI signal; historical sources already covered in prior briefings; raw paper candidates without accepted keep decisions.
-- **Deferred:** quantified productivity or quality claims from Fujitsu or Uber; claims that Spotify's approach is secure or commercially dominant; conclusions about lobbying effectiveness; all papers lacking page-level review; undated or aggregator-only model-release claims.
+- **Deferred:** quantified productivity or quality claims from Fujitsu or Uber; claims that Spotify, Canva, Claude Duet, or 1Password's approach is secure or commercially dominant; conclusions about lobbying effectiveness; all papers lacking page-level review; undated or aggregator-only model-release claims.
 - **Recurrence guard:** October 21 OpenAI/Google Cloud and Mistral/NVIDIA sources were not repeated as current-day items because no new October 22 event was verified.
 
 ## What changed today
 
 - MISUMI moved a nine-agent product-information workflow into operation with mutual evaluation and mandatory human approval.
+- OpenAI exposed bounded decisions as a specialized public-beta API and described FDE as a bridge from model capability to repeatable deployment.
+- Anthropic launched Claude Duet as a proactive professional agent, while 1Password introduced credential-less delegated login for agents.
+- Canva launched Craft, a design-planning image model trained on proprietary template structure and designed for agent integration through MCP.
 - Uber expanded ChatGPT Work from a 1,000-person pilot to approximately 30,000 employees and is using AI pods to discover workflow-specific automation.
 - Spotify positioned its service as an agent-callable domain system that keeps listener data and recommendation reasoning inside Spotify.
 - OpenAI, Anthropic, and Nvidia reported record quarterly lobbying spend on AI safety, cybersecurity, child safety, energy, exports, and related policy issues.
@@ -90,7 +118,7 @@ The direct sweep checked official surfaces for OpenAI, Anthropic, Google DeepMin
 
 ## What changed versus October 21
 
-October 21 emphasized model distribution into Google Cloud, bounded automotive assistance, prospective clinical validation, AI-for-science funding, enterprise supervision, and frontier financing. October 22 makes the deployment thesis more operational: a multi-agent workflow is running in catalog operations, an enterprise rollout is expanding to an entire workforce, and a domain service is designing itself to be called by many agents. Lobbying adds the policy-control layer. The day strengthens the view that the competitive unit is an operated system with boundaries—not a model in isolation.
+October 21 emphasized model distribution into Google Cloud, bounded automotive assistance, prospective clinical validation, AI-for-science funding, enterprise supervision, and frontier financing. October 22 adds the internal mechanics of deployment: specialized decision calls, customer-embedded engineering, background agents, delegated identity, and domain-specific generation. A multi-agent workflow is running in catalog operations, an enterprise rollout is expanding to an entire workforce, and domain services are positioning themselves to be called by many agents. The day strengthens the view that the competitive unit is an operated system with boundaries—not a model in isolation.
 
 ## Why it matters
 
@@ -105,7 +133,7 @@ For practitioners: start with a bounded workflow; define acceptance criteria bef
 3. Spotify's permission, provenance, commercial, and audit controls as more assistants call its service.
 4. Whether other enterprise services expose controlled agent interfaces without surrendering customer data or domain authority.
 5. Whether lobbying positions translate into enforceable safety, evaluation, energy, export, and child-protection rules.
-6. Completion of the two incomplete arXiv query families and page-level curation before promoting any paper.
+6. Page-level arXiv curation and explicit keep/delete decisions before promoting any paper; discovery coverage is complete, but curation is not.
 7. New primary announcements from OpenAI, Anthropic, Google DeepMind, Meta, NVIDIA, Mistral, Qwen, Z.ai, DeepSeek, and other major model providers.
 
 ## References
@@ -114,7 +142,12 @@ For practitioners: start with a bounded workflow; define acceptance criteria bef
 - [Uber puts all 30,000 employees on ChatGPT Work — TechCrunch](https://techcrunch.com/2026/10/22/uber-puts-all-30000-employees-on-chatgpt-work/)
 - [Spotify's current AI bet is about being the music service that agents choose — TechCrunch](https://techcrunch.com/2026/10/22/spotifys-current-ai-bet-is-about-being-the-music-service-that-agents-choose/)
 - [OpenAI, Anthropic, and Nvidia had record lobbying quarters — The Verge](https://www.theverge.com/policy/1016585/openai-anthropic-nvidia-lobbying-records)
-- [ArXiv scout coverage — 2026-10-22 11:50](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-22_11-50.md)
+- [Canva’s first AI image model plans designs before generating them — The Verge](https://www.theverge.com/ai-artificial-intelligence/1017151/canva-craft-in-house-ai-model)
+- [Build more responsive apps with the Decisions API — OpenAI](https://openai.com/index/decisions-api)
+- [What FDE means at OpenAI — OpenAI](https://openai.com/index/forward-deployed-engineering-means)
+- [Claude Duet app is Anthropic’s bet on agents — TechCrunch](https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/)
+- [1Password launches agent login without exposing passwords — TechCrunch](https://techcrunch.com/2026/10/22/1password-launches-a-way-for-ai-agents-to-log-in-on-your-behalf-without-seeing-your-password/)
+- [ArXiv scout coverage — 2026-10-22 17:46](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-22_17-46.md)
 - [OpenAI News](https://openai.com/news/)
 - [Anthropic Newsroom](https://www.anthropic.com/news)
 - [Google DeepMind Blog](https://deepmind.google/blog/)
