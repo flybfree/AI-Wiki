@@ -1,0 +1,18 @@
+---
+title: Investigating the Impact of Learner Errors on Social Bias in Large Language Models
+published: 2026-10-21T15:38:13Z
+authors: Federico Marcuzzi, Martin Christoph, Iryna Gurevych, Alla Rozovskays
+url: http://arxiv.org/abs/2610.29896v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Investigating the Impact of Learner Errors on Social Bias in Large Language Models
+
+## Abstract
+Existing social bias benchmarks evaluate large language models mostly on fluent, well-formed English, reflecting native speaker usage and leaving non-native writers unrepresented. To address this gap, we investigate how grammatical errors by non-native writers affect social bias. We develop a controlled framework that injects common learner errors into prompts and apply it to three bias benchmarks covering stereotype alignment and demographic preference across gender, race, and religion. We find that grammatical errors increase bias, and the effect grows with the error rate. Among the four common error types we consider, preposition errors produce the largest and most consistent increase in stereotype alignment. Our analysis suggests that errors increase bias when they are more likely to interfere with comprehension. Finally, fine-tuning on erroneous texts reduces the bias increase caused by grammatical errors. Our findings show that bias evaluations based exclusively on well-formed prompts may underestimate the bias experienced by users whose English contains grammatical errors.
+
+## Metadata
+- **Published**: 2026-10-21T15:38:13Z
+- **Authors**: Federico Marcuzzi, Martin Christoph, Iryna Gurevych, Alla Rozovskays
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.29896v1)

@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-21](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-21.md) — canonical final; model distribution, bounded automotive assistants, prospective medical AI, AI-for-science execution, enterprise supervision, and incomplete paper curation
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-21](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-21.md) — canonical final; model distribution and industrial integration, bounded automotive assistants, prospective medical AI, AI-for-science execution, enterprise supervision, and one curated sycophancy paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-20](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-20.md) — canonical final; MCP interoperability governance, UCL neuroscience-and-AI research funding, and incomplete benchmark-query coverage
 - [Summary: Daily AI Intelligence Briefing — 2026-10-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-19.md) — canonical final; deployment controls, three uncovered kept research papers, and complete October 19 arXiv scout coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-18.md) — canonical final; Anthropic Public Benefit Fund, incomplete October 17–18 arXiv coverage, and one approved Functional Welfare paper
@@ -3351,3 +3351,4 @@ tags: ['wiki']
 - [[2026-10-21_TechCrunchFounderSummit2026_Everythingyouneedtokno.md]] : TechCrunch Founder Summit 2026: Everything you need to know
 - [[2026-10-21_MetatocreateanewclassofsharestofundAIpush.md]] : Meta to create a new class of shares to fund AI push
 - [[2026-10-21_Blackstone_sJasKhairasaysfearsoverAI-buildoutdebta.md]] : Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown
+- [[2026-10-21_Latestnews_Mistral.md]] : Latest news | Mistral

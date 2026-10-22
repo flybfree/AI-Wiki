@@ -1,6 +1,7 @@
 # Summary: 2026-10-20_14-59-54Z_IsSycophancyaFormofIn_ContextUpdating.md
 Saved: 2026-10-21 00:52
 Source: 2026-10-20_14-59-54Z_IsSycophancyaFormofIn_ContextUpdating.md
+Original paper: [arXiv:2610.28325v1](http://arxiv.org/abs/2610.28325v1)
 Model: None
 
 ---

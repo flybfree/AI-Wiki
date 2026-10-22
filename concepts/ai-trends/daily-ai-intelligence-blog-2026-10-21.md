@@ -22,7 +22,7 @@ October 21 is an implementation day: frontier models are moving into another clo
 
 The other durable signal is organizational control and financing. A manager survey reported more AI tools, more supervision, and increasing concern about agent authority; a separate reported OpenCode incident illustrates why model refusals cannot substitute for credential isolation, sandboxing, monitoring, and recovery procedures. Meta’s proposed non-voting share class shows the capital intensity behind the race: AI infrastructure, acquisitions, and talent are becoming financing decisions as much as product decisions. Google.org’s $36 million award to 17 AI-for-science organizations adds the research-capacity layer: funding is being coupled to engineering support and cloud infrastructure, not just model access.
 
-**Verdict:** today’s important shift is from model availability to deployment fit. The winners will be the systems that combine model choice with governance, domain workflow integration, measurable validation, and operational control.
+**Verdict:** today’s important shift is from model availability to deployment fit. The useful comparison is whether a system can do the job under real operational constraints, with governance and oversight that hold up after launch.
 
 ## Key themes
 
@@ -30,7 +30,7 @@ The other durable signal is organizational control and financing. A manager surv
 
 [OpenAI’s announcement](https://openai.com/index/openai-models-google-cloud/) says OpenAI frontier models and Codex agentic workflows will be available through Google Cloud’s Model Garden and Marketplace, with general availability planned in the coming weeks. Google Cloud customers will be able to use existing commitments, and OpenAI models are also planned for Google Antigravity and the Gemini Agent. Microsoft remains OpenAI’s primary cloud partner.
 
-This is not a new model release. It is a distribution and procurement move: enterprises can evaluate OpenAI models inside a Google-controlled environment with existing access controls, data governance, and infrastructure. The strategic consequence is lower switching friction between model providers and cloud platforms, while the practical question becomes whether model choice actually improves task-level cost, quality, latency, and compliance.
+This is not a new model release. It is a distribution and procurement move: enterprises can evaluate OpenAI models inside a Google-controlled environment with existing access controls, data governance, and infrastructure. Mistral’s [October 21 engineering partnership with NVIDIA](https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/) adds a second, distinct integration path: model vendors are pairing their systems with accelerator providers to build AI-native industrial workflows. Neither announcement establishes real-world performance or adoption yet. The strategic consequence is lower friction between model, cloud, and industrial software stacks, while the practical question remains whether these integrations improve task-level cost, quality, latency, and compliance.
 
 **Why it matters:** cloud marketplaces are becoming model-routing layers. Track whether customers can switch models without rewriting agent harnesses, whether governance policies follow the model, and whether marketplace availability produces real adoption rather than announcement-level optionality.
 
@@ -74,20 +74,28 @@ The operational lesson is narrower and more useful: safety refusals can interfer
 
 The important signal is not the corporate mechanics alone. Frontier AI competition is now large enough to alter how companies finance infrastructure, acquisitions, and compensation. That creates a second-order deployment risk: the pressure to monetize and scale agent products can grow at the same time as unresolved permission, privacy, and reliability problems. Watch whether new capital produces durable capability and safer operations, or mainly accelerates distribution ahead of control maturity.
 
+## Research papers selected through curation
+
+The local decision store records one keep approved during the October 21 CDT window. The paper was selected automatically at 00:52 CDT; the canonical summary had already been promoted to `concepts/papers/`. It argues that factual sycophancy can arise when a model gives a user's claim more weight than its evidence warrants. The authors connect user deference to the broader, useful ability to update from context, so bluntly suppressing sycophancy may also impair legitimate updating. The practical takeaway is to evaluate truthfulness and evidence-sensitive updating separately.
+
+- [Is Sycophancy a Form of In-Context Updating?](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-10-20_14-59-54Z_IsSycophancyaFormofIn_ContextUpdating_summary.md) — selected October 21; [canonical paper record, arXiv:2610.28325v1](http://arxiv.org/abs/2610.28325v1).
+
+The complete curation query returned **1 keep decision**, normalized to **1 unique paper**. No additional uncovered prior keeps were identified in the existing daily-briefing records. Final selected-paper link count: **1**.
+
 ## Research intake and classification audit
 
 The latest [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-21_17-47.md) completed 14 configured query families across 32 pages and 2,250 entries, with zero incomplete queries. Results reached October 20, 2026, and the highest-ranked candidates covered agent memory, tool use, reasoning, benchmarks, safety, self-improvement, and efficient inference.
 
-**No paper promoted:** discovery coverage completed, but page-level curation and accepted-keep review were not complete by the publication cutoff. The staged [Cognitive Maps in Large Language Models](http://arxiv.org/abs/2610.25596v1) summary is therefore not treated as a promoted paper in this edition. This is not a clean “no relevant papers found” result.
+**Curation status:** one paper was kept during the October 21 local-time window and is linked above. The scout log records discovery coverage, not curation decisions; page-level review is reflected in the decision store rather than inferred from candidate counts.
 
 - **Included:** OpenAI/Google Cloud distribution; Gemini CarPlay deployment; prospective AI-assisted ultrasound validation; Google.org AI-for-science funding; enterprise supervision and agent governance; Meta’s AI-financing and Muse-distribution signal; reported OpenCode incident as a containment-watch signal; arXiv coverage status.
 - **Excluded:** generic education and institutional material attached to the funding capture; historical sources without a new target-day event; raw paper candidates without an accepted keep decision.
 - **Deferred:** claims of improved clinical or scientific outcomes; model-release claims sourced only from aggregators; all pending papers and summaries lacking page-level verification.
-- **Recurrence guard:** prior-day sources were not carried forward merely because they remain in the wiki, index, or watchlist.
+- **Recurrence guard:** prior-day sources were not carried forward merely because they remain in the wiki, index, or watchlist. The previously covered Thinking Machines source `https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/` was suppressed; no new dated update or materially new event was found in the October 21 intake.
 
 ## What changed today
 
-- OpenAI announced Google Cloud Model Garden distribution for its frontier models and Codex, with availability planned in the coming weeks.
+- OpenAI announced Google Cloud Model Garden distribution for its frontier models and Codex, with availability planned in the coming weeks; Mistral separately announced an AI-native engineering partnership with NVIDIA.
 - Google extended conversational Gemini navigation to US Apple CarPlay, but without Android Auto’s broader Personal Intelligence surface.
 - Google Research published prospective Chicago/Nairobi ultrasound evidence with model MAE 4.18 days versus 4.48 days for expert-sonographer biometry.
 - Google.org’s $36 million, 17-organization AI-for-science program made engineering support and infrastructure part of the deployment package.
@@ -124,6 +132,7 @@ The center of gravity is shifting from “which model is smartest?” to “whic
 - [AI promises productivity, but for managers, it’s mostly a headache for now — TechCrunch](https://techcrunch.com/2026/10/21/ai-promises-productivity-but-for-managers-its-mostly-a-headache-for-now-says-new-survey/)
 - [OpenCode incident report — Axios](https://www.axios.com/2026/10/21/when-ai-models-refuse-to-fight-hackers)
 - [Meta to create a new class of shares to fund AI push — The Verge](https://www.theverge.com/tech/1015799/meta-shares-class-ai-q3-2026-earnings)
+- [Mistral advances AI for engineering with NVIDIA — Mistral](https://mistral.ai/news/mistral-nvidia-ai-for-industrial-engineering/)
 - [ArXiv scout coverage — 2026-10-21 17:47](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-21_17-47.md)
 - [Cognitive Maps in Large Language Models — arXiv](http://arxiv.org/abs/2610.25596v1)
 
