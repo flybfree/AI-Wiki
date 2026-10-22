@@ -17136,3 +17136,7 @@ tags: ['wiki']
 ## [2026-10-22 10:32] ingest | 2026-10-22_PHP_Thethreelittleletterswreakinghavocacrosstheweb.md
 ## [2026-10-22 11:22] ingest | 2026-10-22_Uberputsall30_000employeesonChatGPTWork.md
 ## [2026-10-22 11:22] ingest | 2026-10-22_OpenAI_Anthropic_andNvidiahadrecordlobbyingquarter.md
+## [2026-10-22 13:31] ingest | 2026-10-22_InMeta_sversionofthefuture_I_llhavemyMusecallyourM.md
+## [2026-10-22 14:12] ingest | 2026-10-22_1PasswordlaunchesawayforAIagentstologinonyourbehal.md
+## [2026-10-22 15:29] ingest | 2026-10-22_MetaturnsMusesharingbackon.md
+## [2026-10-22 15:29] ingest | 2026-10-22_BuildmoreresponsiveappswiththeDecisionsAPI.md

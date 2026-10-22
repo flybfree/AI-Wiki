@@ -3360,3 +3360,7 @@ tags: ['wiki']
 - [[2026-10-22_PHP_Thethreelittleletterswreakinghavocacrosstheweb.md]] : PHP: The three little letters wreaking havoc across the web
 - [[2026-10-22_Uberputsall30_000employeesonChatGPTWork.md]] : Uber puts all 30,000 employees on ChatGPT Work
 - [[2026-10-22_OpenAI_Anthropic_andNvidiahadrecordlobbyingquarter.md]] : OpenAI, Anthropic, and Nvidia had record lobbying quarters
+- [[2026-10-22_InMeta_sversionofthefuture_I_llhavemyMusecallyourM.md]] : In Meta’s version of the future, I’ll have my Muse call your Muse
+- [[2026-10-22_1PasswordlaunchesawayforAIagentstologinonyourbehal.md]] : 1Password launches a way for AI agents to log in on your behalf without seeing your password
+- [[2026-10-22_MetaturnsMusesharingbackon.md]] : Meta turns Muse sharing back on
+- [[2026-10-22_BuildmoreresponsiveappswiththeDecisionsAPI.md]] : Build more responsive apps with the Decisions API
