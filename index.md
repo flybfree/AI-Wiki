@@ -3354,3 +3354,5 @@ tags: ['wiki']
 - [[2026-10-21_Blackstone_sJasKhairasaysfearsoverAI-buildoutdebta.md]] : Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown
 - [[2026-10-21_Latestnews_Mistral.md]] : Latest news | Mistral
 - [[2026-10-22_Fujitsuimplementsmulti-AIagentinfrastructuretoenha.md]] : Fujitsu implements multi- AI agent infrastructure to enhance product information ...
+- [[2026-10-22_WhatFDEmeansatOpenAI.md]] : What FDE means at OpenAI
+- [[2026-10-22_ClaudeDuetappisAnthropic_sbetonagents.md]] : Claude Duet app is Anthropic’s bet on agents

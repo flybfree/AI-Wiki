@@ -17128,3 +17128,5 @@ tags: ['wiki']
 ## [2026-10-21 23:37] stage-paper | 2026-10-21_12-57-29Z_TraceForge_DistillingwithYourOwnThinking.md
 ## [2026-10-21 23:37] stage-paper | 2026-10-21_12-23-33Z_RecursiveCodeEvolutionforTask_OrientedSemanticComm.md
 ## [2026-10-22 00:48] ingest | 2026-10-22_Fujitsuimplementsmulti-AIagentinfrastructuretoenha.md
+## [2026-10-22 08:52] ingest | 2026-10-22_WhatFDEmeansatOpenAI.md
+## [2026-10-22 09:29] ingest | 2026-10-22_ClaudeDuetappisAnthropic_sbetonagents.md
