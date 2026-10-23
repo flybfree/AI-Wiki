@@ -3368,3 +3368,7 @@ tags: ['wiki']
 - [[2026-10-22_Canva_sfirstAIimagemodelplansdesignsbeforegenerati.md]] : Canva’s first AI image model plans designs before generating them
 - [[2026-10-23_OpenAIandPoland_sNASKpartnertoadvanceAIsafetyandse.md]] : OpenAI and Poland’s NASK partner to advance AI safety and security
 - [[2026-10-23_Rapidlyscalingonlinestoragetoserveover1billionChat.md]] : Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
+- [[2026-10-23_TheiPhoneDuoshouldhavebeenaniPad.md]] : The iPhone Duo should have been an iPad
+- [[2026-10-23_BringingfoundationalmodelstothefrontlinesofTBscree.md]] : Bringing foundational models to the front lines of TB screening
+- [[2026-10-23_FromToasttoBessemer_WhofounderswillhearfromatTechC.md]] : From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026
+- [[2026-10-23_JackDorsey_sBlockmadeanAImodelthattalkstoyoulikean.md]] : Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
