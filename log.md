@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-10-23 06:01] summarize | created the October 23 AI-only briefing from OpenAI’s NASK partnership and cited CERT Polska vulnerability-discovery work; latest arXiv scout completed 14 query families across 33 pages and 2,300 entries with zero incomplete queries, but page-level curation was incomplete so no paper was promoted; direct official-lab sweep found no newer same-day primary frontier-model release; prior-day sources were suppressed by the recurrence guard; Logseq mirror and GitHub commit/push verification follow
+## [2026-10-23 12:01] summarize | refreshed the October 23 AI-only briefing with OpenAI’s NASK partnership, cited CERT Polska vulnerability-discovery work, and Habitat’s storage-scaling case study; latest arXiv scout completed 14 query families across 33 pages and 2,300 entries with zero incomplete queries, but page-level curation was incomplete so no paper was promoted; direct official-lab sweep found no newer same-day primary frontier-model release; prior-day sources were suppressed by the recurrence guard; Logseq mirror and GitHub commit/push verification follow
 
 ## [2026-10-22 12:01] summarize | refreshed the October 22 AI-only briefing with Uber’s 30,000-person ChatGPT Work rollout, Spotify’s agent-facing service boundary, and record quarterly lobbying by OpenAI, Anthropic, and Nvidia; excluded PHP2Shell as generic cybersecurity; latest arXiv pass reached 2,100 entries across 14 query families and 29 pages but two query families were incomplete, so no paper was promoted; direct official-lab sweep found no newer same-day primary frontier-model release; recurrence guard suppressed prior-day OpenAI/Google Cloud and Mistral/NVIDIA sources; wiki/Logseq mirror and GitHub commit/push verification follow
 ## [2026-10-22 18:01] finalize | October 22 canonical final refreshed with Canva Craft, OpenAI Decisions API/FDE, Claude Duet, 1Password delegated login, and latest 17:46 arXiv coverage (14 query families, 32 pages, 2,250 entries, zero incomplete queries); page-level curation remained incomplete, so no paper was promoted; AI-only exclusions and recurrence guard retained; wiki/Logseq mirror and GitHub commit/push verification follow
@@ -17207,3 +17207,6 @@ tags: ['wiki']
 ## [2026-10-22 23:00] stage-paper | 2026-10-20_10-17-26Z_Self_EvolvingStaticAnalysisviaLLMPseudo_Labeling.md
 ## [2026-10-22 23:00] stage-paper | 2026-10-22_14-41-36Z_AfterDeleteBench_AuditingPost_DeletionInformationP.md
 ## [2026-10-23 01:56] ingest | 2026-10-23_OpenAIandPoland_sNASKpartnertoadvanceAIsafetyandse.md
+## [2026-10-23 10:29] stage-paper | 2026-10-22_17-23-11Z_WouldanLLMMatchintoaResidency_Uncertainty_Reasonin.md
+## [2026-10-23 10:29] stage-paper | 2026-10-22_15-34-39Z_DIAL_SteerableLanguageModelswithDistilledInstructi.md
+## [2026-10-23 11:39] ingest | 2026-10-23_Rapidlyscalingonlinestoragetoserveover1billionChat.md
