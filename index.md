@@ -3365,3 +3365,4 @@ tags: ['wiki']
 - [[2026-10-22_MetaturnsMusesharingbackon.md]] : Meta turns Muse sharing back on
 - [[2026-10-22_BuildmoreresponsiveappswiththeDecisionsAPI.md]] : Build more responsive apps with the Decisions API
 - [[2026-10-22_Canva_sfirstAIimagemodelplansdesignsbeforegenerati.md]] : Canva’s first AI image model plans designs before generating them
+- [[2026-10-23_OpenAIandPoland_sNASKpartnertoadvanceAIsafetyandse.md]] : OpenAI and Poland’s NASK partner to advance AI safety and security

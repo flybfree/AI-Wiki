@@ -1,0 +1,18 @@
+---
+title: Agentic Knowledge-Model Co-Evolution via Consistency Regularization
+published: 2026-10-22T06:09:10Z
+authors: Sirui Chen, Zhining Liu, Chao Zhang, Jingrui He, Zheng Li
+url: http://arxiv.org/abs/2610.30790v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Agentic Knowledge-Model Co-Evolution via Consistency Regularization
+
+## Abstract
+LLM agents can evolve by learning from accumulated experience. Existing approaches extract reusable external knowledge, such as skills and memories, from experience to guide subsequent task solving, with some further internalizing this knowledge through model training. However, different ways of analyzing and transforming the same experience can yield knowledge with substantially different utility, even when the resulting guidance appears reasonable. Inspired by consistency regularization, we identify consistent utility gains across different ways of analyzing the same experience, rather than relying on any single way of analyzing it. We introduce SPLICE, a framework for consistency-regularized knowledge-model co-evolution. It constructs evolution views by perturbing how the same experience is analyzed, producing different knowledge candidates. Knowledge updates are then guided by common gain, which accounts for utility gains and their consistency across views. During model evolution, self-distillation internalizes the evolved knowledge alongside reinforcement learning, using knowledge associated with consistent utility degradation as a contrastive reference. The two processes interleave, with model updates driving further knowledge evolution. Experiments across diverse domains show that SPLICE outperforms knowledge evolution and model training baselines by up to 7.1 and 4.6 points in average accuracy, while its evolved knowledge reduces output tokens per correct solution by up to 44% and transfers across model sizes and families.
+
+## Metadata
+- **Published**: 2026-10-22T06:09:10Z
+- **Authors**: Sirui Chen, Zhining Liu, Chao Zhang, Jingrui He, Zheng Li
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.30790v1)
