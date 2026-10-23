@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-23.md) — canonical final; OpenAI–NASK safety partnership, model-assisted vulnerability discovery, complete arXiv discovery with no paper promoted pending page-level curation
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-23.md) — canonical final; OpenAI–NASK safety partnership, offline frontier-model containment and covert-channel testing, Habitat storage scaling, complete arXiv discovery with no paper promoted pending page-level curation
  - [Summary: Daily AI Intelligence Briefing — 2026-10-22](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-22.md) — canonical final; enterprise agents, delegated identity, specialized decisions, design-specific models, policy influence, and no paper promoted pending page-level curation
  - [Summary: Daily AI Intelligence Briefing — 2026-10-21](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-21.md) — canonical final; model distribution and industrial integration, bounded automotive assistants, prospective medical AI, AI-for-science execution, enterprise supervision, and one curated sycophancy paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-20](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-20.md) — canonical final; MCP interoperability governance, UCL neuroscience-and-AI research funding, and incomplete benchmark-query coverage
@@ -3372,3 +3372,4 @@ tags: ['wiki']
 - [[2026-10-23_BringingfoundationalmodelstothefrontlinesofTBscree.md]] : Bringing foundational models to the front lines of TB screening
 - [[2026-10-23_FromToasttoBessemer_WhofounderswillhearfromatTechC.md]] : From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026
 - [[2026-10-23_JackDorsey_sBlockmadeanAImodelthattalkstoyoulikean.md]] : Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
+- [[2026-10-23_OpenAInowtrainsitsfrontierAImodelswithnointernetac.md]] : OpenAI now trains its frontier AI models with no internet access
