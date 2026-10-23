@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-23.md) — canonical final; OpenAI–NASK safety partnership, model-assisted vulnerability discovery, complete arXiv discovery with no paper promoted pending page-level curation
  - [Summary: Daily AI Intelligence Briefing — 2026-10-22](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-22.md) — canonical final; enterprise agents, delegated identity, specialized decisions, design-specific models, policy influence, and no paper promoted pending page-level curation
  - [Summary: Daily AI Intelligence Briefing — 2026-10-21](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-21.md) — canonical final; model distribution and industrial integration, bounded automotive assistants, prospective medical AI, AI-for-science execution, enterprise supervision, and one curated sycophancy paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-20](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-20.md) — canonical final; MCP interoperability governance, UCL neuroscience-and-AI research funding, and incomplete benchmark-query coverage
