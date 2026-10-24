@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-24.md) — canonical final; MediSyn generalist medical-image generation, synthetic-data privacy and validation, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-24.md) — canonical final; MediSyn synthetic medical data, civic-model bias and retrieval audits, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
  - [Summary: Daily AI Intelligence Briefing — 2026-10-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-23.md) — canonical final; OpenAI–NASK safety partnership, offline frontier-model containment and covert-channel testing, Habitat storage scaling, complete arXiv discovery with no paper promoted pending page-level curation
  - [Summary: Daily AI Intelligence Briefing — 2026-10-22](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-22.md) — canonical final; enterprise agents, delegated identity, specialized decisions, design-specific models, policy influence, and no paper promoted pending page-level curation
  - [Summary: Daily AI Intelligence Briefing — 2026-10-21](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-21.md) — canonical final; model distribution and industrial integration, bounded automotive assistants, prospective medical AI, AI-for-science execution, enterprise supervision, and one curated sycophancy paper
@@ -3375,3 +3375,4 @@ tags: ['wiki']
 - [[2026-10-23_JackDorsey_sBlockmadeanAImodelthattalkstoyoulikean.md]] : Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
 - [[2026-10-23_OpenAInowtrainsitsfrontierAImodelswithnointernetac.md]] : OpenAI now trains its frontier AI models with no internet access
 - [[2026-10-24_BridgingtheDataGap_ANewGeneralistAIModelforMedical.md]] : Bridging the Data Gap: A New Generalist AI Model for Medical Image Generation
+- [[2026-10-24_Forcedtopick_Grok_sAImodelchoosesRepublicans_OpenA.md]] : Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.
