@@ -3373,3 +3373,4 @@ tags: ['wiki']
 - [[2026-10-23_FromToasttoBessemer_WhofounderswillhearfromatTechC.md]] : From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026
 - [[2026-10-23_JackDorsey_sBlockmadeanAImodelthattalkstoyoulikean.md]] : Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
 - [[2026-10-23_OpenAInowtrainsitsfrontierAImodelswithnointernetac.md]] : OpenAI now trains its frontier AI models with no internet access
+- [[2026-10-24_BridgingtheDataGap_ANewGeneralistAIModelforMedical.md]] : Bridging the Data Gap: A New Generalist AI Model for Medical Image Generation

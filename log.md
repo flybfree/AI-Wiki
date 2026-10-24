@@ -17216,3 +17216,4 @@ tags: ['wiki']
 ## [2026-10-23 14:21] ingest | 2026-10-23_FromToasttoBessemer_WhofounderswillhearfromatTechC.md
 ## [2026-10-23 15:20] ingest | 2026-10-23_JackDorsey_sBlockmadeanAImodelthattalkstoyoulikean.md
 ## [2026-10-23 17:00] ingest | 2026-10-23_OpenAInowtrainsitsfrontierAImodelswithnointernetac.md
+## [2026-10-24 00:43] ingest | 2026-10-24_BridgingtheDataGap_ANewGeneralistAIModelforMedical.md
