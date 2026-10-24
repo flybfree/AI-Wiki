@@ -3378,3 +3378,4 @@ tags: ['wiki']
 - [[2026-10-24_Forcedtopick_Grok_sAImodelchoosesRepublicans_OpenA.md]] : Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.
 - [[2026-10-24_PennsylvaniawillrequirelabelsonAI-generatedads.md]] : Pennsylvania will require labels on AI-generated ads
 - [[2026-10-24_TheAIgraveyard_arunninglistofprojectsandstartupsth.md]] : The AI graveyard: a running list of projects and startups that didn’t make it
+- [[2026-10-24_BluePlanetIIIiskeepingtheroughedgesintheageofAI.md]] : Blue Planet III is keeping the rough edges in the age of AI
