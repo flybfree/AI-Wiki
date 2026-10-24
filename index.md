@@ -3376,3 +3376,5 @@ tags: ['wiki']
 - [[2026-10-23_OpenAInowtrainsitsfrontierAImodelswithnointernetac.md]] : OpenAI now trains its frontier AI models with no internet access
 - [[2026-10-24_BridgingtheDataGap_ANewGeneralistAIModelforMedical.md]] : Bridging the Data Gap: A New Generalist AI Model for Medical Image Generation
 - [[2026-10-24_Forcedtopick_Grok_sAImodelchoosesRepublicans_OpenA.md]] : Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.
+- [[2026-10-24_PennsylvaniawillrequirelabelsonAI-generatedads.md]] : Pennsylvania will require labels on AI-generated ads
+- [[2026-10-24_TheAIgraveyard_arunninglistofprojectsandstartupsth.md]] : The AI graveyard: a running list of projects and startups that didn’t make it

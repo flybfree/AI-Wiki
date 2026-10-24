@@ -17220,3 +17220,5 @@ tags: ['wiki']
 ## [2026-10-23 17:00] ingest | 2026-10-23_OpenAInowtrainsitsfrontierAImodelswithnointernetac.md
 ## [2026-10-24 00:43] ingest | 2026-10-24_BridgingtheDataGap_ANewGeneralistAIModelforMedical.md
 ## [2026-10-24 10:59] ingest | 2026-10-24_Forcedtopick_Grok_sAImodelchoosesRepublicans_OpenA.md
+## [2026-10-24 13:54] ingest | 2026-10-24_PennsylvaniawillrequirelabelsonAI-generatedads.md
+## [2026-10-24 14:52] ingest | 2026-10-24_TheAIgraveyard_arunninglistofprojectsandstartupsth.md
