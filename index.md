@@ -158,7 +158,6 @@ tags: ['wiki']
 - [Summary: Daily AI Intelligence Briefing — 2026-09-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-27.md) — canonical final; adaptive API exploration, reported training pause, staged open weights, verified task expertise, long-horizon orchestration, and AI-for-science; 0 selected papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-24.md) — instrumental cyber behavior in ordinary retrieval, containment operations, staged open weights, verifiable specialist RL, consumer agents, AI-for-science, practical adoption, and 11 curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md) — cheaper agent economics, containment and embedded evaluation, staged open weights, AI-for-science, consumer agents, AI-biotech translation, governance, practical AI training, and three approved research-paper carry-forwards
-- [[concepts/ai-trends/daily-ai-intelligence-summary-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]] — RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, agentic commerce, and the Meta Muse runtime disclosure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22 (canonical final)]] — canonical midnight publication; 0 target-date keeps and 0 uncovered carry-forward papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]] — evaluation operations, staged open weights, long-horizon collusion, agent infrastructure, local decision models, youth safety, platform authority, and incident coordination
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-20.md|Summary: Daily AI Intelligence Briefing — 2026-09-20]] — evaluation operations, staged open weights, verified task expertise, youth safety, privacy explainability, and realistic benchmarks
@@ -2933,9 +2932,8 @@ tags: ['wiki']
 - [[2026-09-27__AsaLanguageModel__ChatTemplateSwitchesLLMSelf-Ref.md]] : "As a Language Model": Chat Template Switches LLM Self-Referential Voice
 - [[2026-09-27_HowAIischangingmedicalresearch_treatmentinarea_New.md]] : How AI is changing medical research , treatment in area | News | cbs19news.com
 - [[2026-09-27_FlipFluidonFlipDots.md]] : Flip Fluid on Flip Dots
-- [[2026-09-27_Inan_80MotelRoom_aDiscoverytoShedLightontheOrigins.md]] : In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life
+- [[raw/articles/2026-09-27_Inan_80MotelRoom_aDiscoverytoShedLightontheOrigins.md]] : In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life
 - [[2026-09-27_TheNormalizationofInexplicableFailures.md]] : The Normalization of Inexplicable Failures
-- [[2026-09-27_Inan_80motelroom_adiscoverytoshedlightontheorigins.md]] : In an $80 motel room, a discovery to shed light on the origins of life
 - [[2026-09-27_OpenAIagentstriedto_bruteforce_aUNwebsite.md]] : OpenAI agents tried to ‘bruteforce’ a UN website
 - [[2026-09-27_Ember-1.md]] : Ember-1
 - [[2026-09-27_CanMuseovercomeMeta_strustissues_.md]] : Can Muse overcome Meta’s trust issues?
@@ -3221,7 +3219,7 @@ tags: ['wiki']
 - [[2026-10-08_China_sManusraisesover_500Minfirstfundingroundsinc.md]] : China’s Manus raises over $500M in first funding round since split with Meta
 - [[2026-10-08_5daystoTechCrunchDisrupt2026_Don_tpaymoreatthedoor.md]] : 5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass
 - [[2026-10-08_CanyoutrustMeta_sMuseorOpenAI_sDotstorunyourlife_.md]] : Can you trust Meta’s Muse or OpenAI’s Dots to run your life?
-- [[2026-10-08_DisruptingAI-enabled_falsefront_operations.md]] : Disrupting AI-enabled “false front” operations
+- [[raw/articles/2026-10-08_DisruptingAI-enabled_falsefront_operations.md]] : Disrupting AI-enabled “false front” operations
 - [[2026-10-08_Googleislaunchingaone-stopGeminiagentforyourworkta.md]] : Google is launching a one-stop Gemini agent for your work tasks
 - [[2026-10-08_Natura_s_99smartringputsAIagentsonyourfinger.md]] : Natura’s $99 smart ring puts AI agents on your finger
 - [[2026-10-08_Goodfiresaysitsnew_inside-out_monitorscatchrogueAI.md]] : Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost
