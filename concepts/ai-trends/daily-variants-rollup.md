@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-10-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-18.md), covering Anthropic's Public Benefit Fund, one approved safety paper, and incomplete arXiv freshness through October 16 UTC.
+The latest canonical daily briefing is [2026-10-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-24.md), covering synthetic medical data, model behavior in civic contexts, AI-ad disclosure, media authenticity, and incomplete target-date arXiv freshness through October 22.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|

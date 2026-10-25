@@ -27,7 +27,7 @@ October 24 is a thin but useful AI day with four materially different signals. S
 
 The day’s stronger strategic signal is that model behavior is shaped by the surrounding data and control path. In medical AI, the bottleneck moves from raw-data access toward synthetic-data quality, privacy, and downstream validation. In civic AI, the risk appears in model weights, retrieval choices, hidden instructions, and source selection rather than only in explicit endorsements. Neither item establishes deployment readiness: the medical result lacks clinical validation, and the political result is a reported study of API behavior rather than a representative measure of consumer-chatbot use.
 
-The research pipeline is broad but not current to October 24. The latest [arXiv scout](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-24_17-35.md) completed 14 query families across 21 pages and 1,300 entries, but `topic-fine-tuning` and `topic-benchmark` were rate-limited (HTTP 429) and its newest returned records are dated October 22, 2026. **No paper was promoted.** This is **coverage incomplete for the target date**, not a clean “no relevant papers found” result. A direct sweep of major lab news surfaces found no verified October 24 primary model release that displaced the local corpus; a same-day secondary report about resumed OpenAI frontier training was deferred pending primary confirmation.
+The research pipeline is broad but not current to October 24. The latest [arXiv scout](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-10-24_23-30.md) completed all 14 configured query families across 23 pages and 1,400 entries. No query was incomplete, but the newest records are dated October 22, not October 24. The local curation query found zero October 24 keeps. **No paper was promoted; target-date paper coverage remains incomplete**, rather than a verified zero-result day. A direct sweep of major lab news surfaces found no verified October 24 primary model release that displaced the local corpus; a same-day secondary report about resumed OpenAI frontier training was deferred pending primary confirmation.
 
 **Verdict:** the most useful signal is not a new frontier model. It is the widening evidence that AI systems need application-specific audits: synthetic-data systems need leakage and clinical validation tests, while civic systems need reproducible bias, retrieval, and hidden-instruction audits.
 
@@ -143,6 +143,11 @@ For practitioners, the correct adoption pattern is controlled augmentation: keep
 - [Meta AI Blog](https://ai.meta.com/blog/)
 - [Secondary report deferred pending primary confirmation: OpenAI resumes frontier training](https://www.aiaffairs.com/news/openai-resumes-frontier-training-discloses-brotli-flaw/)
 - [October 23 briefing](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-23.md)
+
+## Audit notes
+
+- The source recurrence guard suppressed [Thinking Machines’ “A Safe Path to Open Weights”](https://thinkingmachines.ai/blog/a-safe-path-to-open-weights/), which appeared in an earlier briefing. No new October 24 update or distinct event was found.
+- The October 24 curation query returned 0 keeps. A first stable-summary audit found 25 kept summary identities not visibly linked in earlier daily briefings; these carry-forward candidates have not yet been individually reconciled or added. Therefore the final carry-forward list is incomplete and the selected-paper/link-count check is unresolved.
 
 ## CTA
 
