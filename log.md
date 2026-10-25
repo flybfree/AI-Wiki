@@ -17227,3 +17227,5 @@ tags: ['wiki']
 ## [2026-10-24 13:54] ingest | 2026-10-24_PennsylvaniawillrequirelabelsonAI-generatedads.md
 ## [2026-10-24 14:52] ingest | 2026-10-24_TheAIgraveyard_arunninglistofprojectsandstartupsth.md
 ## [2026-10-24 16:49] ingest | 2026-10-24_BluePlanetIIIiskeepingtheroughedgesintheageofAI.md
+## [2026-10-25 07:04] ingest | 2026-10-25_Google_sAIsearchchangesupendedonlinepublishing.md
+## [2026-10-25 09:38] ingest | 2026-10-25_ThehottestAIwearablesandgadgetsyoushouldknowabout.md

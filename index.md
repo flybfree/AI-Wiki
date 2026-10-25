@@ -3379,3 +3379,5 @@ tags: ['wiki']
 - [[2026-10-24_PennsylvaniawillrequirelabelsonAI-generatedads.md]] : Pennsylvania will require labels on AI-generated ads
 - [[2026-10-24_TheAIgraveyard_arunninglistofprojectsandstartupsth.md]] : The AI graveyard: a running list of projects and startups that didn’t make it
 - [[2026-10-24_BluePlanetIIIiskeepingtheroughedgesintheageofAI.md]] : Blue Planet III is keeping the rough edges in the age of AI
+- [[2026-10-25_Google_sAIsearchchangesupendedonlinepublishing.md]] : Google’s AI search changes upended online publishing
+- [[2026-10-25_ThehottestAIwearablesandgadgetsyoushouldknowabout.md]] : The hottest AI wearables and gadgets you should know about
