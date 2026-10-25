@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-25.md) — canonical final; AI search as publisher intermediary, ambient personal-AI wearables, consent and provenance controls, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
  - [Summary: Daily AI Intelligence Briefing — 2026-10-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-24.md) — canonical final; MediSyn synthetic medical data, civic-model bias and retrieval audits, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
  - [Summary: Daily AI Intelligence Briefing — 2026-10-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-23.md) — canonical final; OpenAI–NASK safety partnership, offline frontier-model containment and covert-channel testing, Habitat storage scaling, complete arXiv discovery with no paper promoted pending page-level curation
  - [Summary: Daily AI Intelligence Briefing — 2026-10-22](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-22.md) — canonical final; enterprise agents, delegated identity, specialized decisions, design-specific models, policy influence, and no paper promoted pending page-level curation
