@@ -3380,3 +3380,4 @@ tags: ['wiki']
 - [[2026-10-24_BluePlanetIIIiskeepingtheroughedgesintheageofAI.md]] : Blue Planet III is keeping the rough edges in the age of AI
 - [[2026-10-25_Google_sAIsearchchangesupendedonlinepublishing.md]] : Google’s AI search changes upended online publishing
 - [[2026-10-25_ThehottestAIwearablesandgadgetsyoushouldknowabout.md]] : The hottest AI wearables and gadgets you should know about
+- [[2026-10-26_HowFanaticsandOpenAIstreamlinethefanexperience.md]] : How Fanatics and OpenAI streamline the fan experience

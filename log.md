@@ -17280,3 +17280,4 @@ tags: ['wiki']
 ## [2026-10-25 21:54] stage-paper | 2026-10-23_08-07-43Z_Solvent_Long_HorizonReasoningforMulti_StepRetrosyn.md
 ## [2026-10-25 21:54] stage-paper | 2026-10-22_21-45-10Z_Kolibri_ASovereignEuropeanModelontheParetoFrontier.md
 ## [2026-10-25 23:45] stage-paper | 2026-10-23_14-53-40Z_AgenticHazardMapper_EmulatingExpertMap_MakingwithA.md
+## [2026-10-26 09:38] ingest | 2026-10-26_HowFanaticsandOpenAIstreamlinethefanexperience.md
