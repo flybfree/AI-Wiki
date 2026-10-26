@@ -95,7 +95,18 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md) — canonical final; agent context contracts, specialization, local/physical deployment boundaries, guided inquiry, frontier-AI economics, AI-R&D acceleration measurement, youth-safety oversight, and no paper promoted pending page-level curation
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-26.md) — canonical final; production AI workflows, harness-induced safety regressions, model–harness attribution, learner-specific distillation, incomplete target-date arXiv coverage, and no promoted paper
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-25.md) — canonical final; AI search as publisher intermediary, ambient personal-AI wearables, consent and provenance controls, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-24.md) — canonical final; MediSyn synthetic medical data, civic-model bias and retrieval audits, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-23.md) — canonical final; OpenAI–NASK safety partnership, offline frontier-model containment and covert-channel testing, Habitat storage scaling, complete arXiv discovery with no paper promoted pending page-level curation
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-22](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-22.md) — canonical final; enterprise agents, delegated identity, specialized decisions, design-specific models, policy influence, and no paper promoted pending page-level curation
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-21](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-21.md) — canonical final; model distribution and industrial integration, bounded automotive assistants, prospective medical AI, AI-for-science execution, enterprise supervision, and one curated sycophancy paper
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-20](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-20.md) — canonical final; MCP interoperability governance, UCL neuroscience-and-AI research funding, and incomplete benchmark-query coverage
+- [Summary: Daily AI Intelligence Briefing — 2026-10-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-19.md) — canonical final; deployment controls, three uncovered kept research papers, and complete October 19 arXiv scout coverage
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-18.md) — canonical final; Anthropic Public Benefit Fund, incomplete October 17–18 arXiv coverage, and one approved Functional Welfare paper
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-17](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-17.md) — canonical interim; AI-for-science control loops, agent web permissions, model procurement, AI-native workforce shifts, clinical validation boundaries, and incomplete arXiv coverage
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-16.md) — canonical final; visual reasoning, local AI runtime, human-in-the-loop enterprise agents, agent-security configuration, AI distribution, digital likenesses, institutional readiness, and personalization boundary calibration
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-15.md) — canonical final; agent context contracts, specialization, local/physical deployment boundaries, guided inquiry, frontier-AI economics, AI-R&D acceleration measurement, youth-safety oversight, and one linked sycophancy research-paper carry-forward
  - [Summary: Daily AI Intelligence Briefing — 2026-10-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-14.md) — canonical final; self-improving multi-agent infrastructure, geospatial reasoning agents, conversational point-of-sale AI, deployment controls, and 7 linked research papers (3 target-date keeps, 4 carry-forward)
  - [Summary: Daily AI Intelligence Briefing — 2026-10-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-13.md) — canonical final; Gemini 4 Argon rollout and safety testing, AI-first game production, agentic commerce, OpenAI insider-security forensics, UK evaluation authority, and 0 selected research papers
  - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-06.md|Summary: Daily AI Intelligence Briefing — 2026-10-06]] — canonical final; one curated paper plus containment, staged open weights, provenance, enterprise agents, and deployment controls
@@ -148,7 +159,6 @@ tags: ['wiki']
 - [Summary: Daily AI Intelligence Briefing — 2026-09-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-27.md) — canonical final; adaptive API exploration, reported training pause, staged open weights, verified task expertise, long-horizon orchestration, and AI-for-science; 0 selected papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-24.md) — instrumental cyber behavior in ordinary retrieval, containment operations, staged open weights, verifiable specialist RL, consumer agents, AI-for-science, practical adoption, and 11 curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-09-23](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-23.md) — cheaper agent economics, containment and embedded evaluation, staged open weights, AI-for-science, consumer agents, AI-biotech translation, governance, practical AI training, and three approved research-paper carry-forwards
-- [[concepts/ai-trends/daily-ai-intelligence-summary-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22]] — RSI governance, containment, verifiable specialists, realistic benchmarks, youth AI evidence, infrastructure cost, agentic commerce, and the Meta Muse runtime disclosure
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-22.md|Summary: Daily AI Intelligence Briefing — 2026-09-22 (canonical final)]] — canonical midnight publication; 0 target-date keeps and 0 uncovered carry-forward papers
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-21.md|Summary: Daily AI Intelligence Briefing — 2026-09-21]] — evaluation operations, staged open weights, long-horizon collusion, agent infrastructure, local decision models, youth safety, platform authority, and incident coordination
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-09-20.md|Summary: Daily AI Intelligence Briefing — 2026-09-20]] — evaluation operations, staged open weights, verified task expertise, youth safety, privacy explainability, and realistic benchmarks
@@ -2923,9 +2933,8 @@ tags: ['wiki']
 - [[2026-09-27__AsaLanguageModel__ChatTemplateSwitchesLLMSelf-Ref.md]] : "As a Language Model": Chat Template Switches LLM Self-Referential Voice
 - [[2026-09-27_HowAIischangingmedicalresearch_treatmentinarea_New.md]] : How AI is changing medical research , treatment in area | News | cbs19news.com
 - [[2026-09-27_FlipFluidonFlipDots.md]] : Flip Fluid on Flip Dots
-- [[2026-09-27_Inan_80MotelRoom_aDiscoverytoShedLightontheOrigins.md]] : In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life
+- [[raw/articles/2026-09-27_Inan_80MotelRoom_aDiscoverytoShedLightontheOrigins.md]] : In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life
 - [[2026-09-27_TheNormalizationofInexplicableFailures.md]] : The Normalization of Inexplicable Failures
-- [[2026-09-27_Inan_80motelroom_adiscoverytoshedlightontheorigins.md]] : In an $80 motel room, a discovery to shed light on the origins of life
 - [[2026-09-27_OpenAIagentstriedto_bruteforce_aUNwebsite.md]] : OpenAI agents tried to ‘bruteforce’ a UN website
 - [[2026-09-27_Ember-1.md]] : Ember-1
 - [[2026-09-27_CanMuseovercomeMeta_strustissues_.md]] : Can Muse overcome Meta’s trust issues?
@@ -3211,7 +3220,7 @@ tags: ['wiki']
 - [[2026-10-08_China_sManusraisesover_500Minfirstfundingroundsinc.md]] : China’s Manus raises over $500M in first funding round since split with Meta
 - [[2026-10-08_5daystoTechCrunchDisrupt2026_Don_tpaymoreatthedoor.md]] : 5 days to TechCrunch Disrupt 2026: Don’t pay more at the door for your pass
 - [[2026-10-08_CanyoutrustMeta_sMuseorOpenAI_sDotstorunyourlife_.md]] : Can you trust Meta’s Muse or OpenAI’s Dots to run your life?
-- [[2026-10-08_DisruptingAI-enabled_falsefront_operations.md]] : Disrupting AI-enabled “false front” operations
+- [[raw/articles/2026-10-08_DisruptingAI-enabled_falsefront_operations.md]] : Disrupting AI-enabled “false front” operations
 - [[2026-10-08_Googleislaunchingaone-stopGeminiagentforyourworkta.md]] : Google is launching a one-stop Gemini agent for your work tasks
 - [[2026-10-08_Natura_s_99smartringputsAIagentsonyourfinger.md]] : Natura’s $99 smart ring puts AI agents on your finger
 - [[2026-10-08_Goodfiresaysitsnew_inside-out_monitorscatchrogueAI.md]] : Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost
@@ -3297,3 +3306,79 @@ tags: ['wiki']
 - [[2026-10-15_TrumppostsAI-editedphototobragaboutWhiteHouseresto.md]] : Trump posts AI-edited photo to brag about White House restoration work
 - [[2026-10-15_OneYearofTinker_TurningYourExpertiseintoCustomMode.md]] : One Year of Tinker: Turning Your Expertise into Custom Models
 - [[2026-10-15_BringingGPT-Rosalindtoacademicresearchlabs.md]] : Bringing GPT-Rosalind to academic research labs
+- [[2026-10-15_ChatGPTcanpeekatyourChrometabsnow.md]] : ChatGPT can peek at your Chrome tabs now
+- [[2026-10-15_WhenitcametoCalAI_sviralsuccess_asmallarmyofinflue.md]] : When it came to Cal AI’s viral success, a small army of influencers paid off
+- [[2026-10-16_Summitexplorespromise_perilsofAI-InsideUCR-UCRiver.md]] : Summit explores promise & perils of AI - Inside UCR - UC Riverside
+- [[2026-10-16_Replit_sCEOsaysthefutureofworkisthe_self-drivingco.md]] : Replit’s CEO says the future of work is the ‘self-driving company’
+- [[2026-10-16_Veritasexpandsitsanti-counterfeitchiptojewelry_tro.md]] : Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles
+- [[2026-10-16_AweekwithRTXSpark_everythingwe_velearnedusingNvidi.md]] : A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops
+- [[2026-10-16_MarkWahlbergonusingAIinfilm_therightway_andbeingop.md]] : Mark Wahlberg on using AI in film ‘the right way’ and being open to an AI clone carrying on his legacy
+- [[2026-10-16_Elorian_sfirstAImodelwantstoreasonwithimages_notju.md]] : Elorian’s first AI model wants to reason with images, not just about them
+- [[2026-10-16_PhysicalAIismorethanrobots_saystheNvidiaveterannow.md]] : Physical AI is more than robots, says the Nvidia veteran now investing in it
+- [[2026-10-16_IndiabecomesthelatestcountrytoreportrogueAIagentac.md]] : India becomes the latest country to report rogue AI agent activity
+- [[2026-10-16_StackOverflowforAgentstriplessignupswithChatGPTplu.md]] : Stack Overflow for Agents triples signups with ChatGPT plugin
+- [[2026-10-16_ReplitisnolongerworkingwithAnthropic_CEOsays.md]] : Replit is no longer working with Anthropic, CEO says
+- [[2026-10-16_HowItaúisbuildinggenerativeAIforitsentirecustomerb.md]] : How Itaú is building generative AI for its entire customer base
+- [[2026-10-17_NewsAnalysis_AIoffersnewroutetocancervaccines_buth.md]] : News Analysis: AI offers new route to cancer vaccines, but hurdles remain - Xinhua
+- [[2026-10-17_WebsitesareclosingtheirdoorstoAIagents.md]] : Websites are closing their doors to AI agents
+- [[2026-10-17_ReplitisnolongerworkingwithAnthropic_CEOsays.md]] : Replit is no longer working with Anthropic, CEO says
+- [[2026-10-17_Anthropicsaysitsworkforcehasbecomelessjuniorandiss.md]] : Anthropic says its workforce has become less junior and is spending more time in meetings
+- [[2026-10-19_Nvidialaunchesnewopenmodelstorunagentsintheenterpr.md]] : Nvidia launches new open models to run agents in the enterprise and on PCs
+- [[2026-10-19_PeopleareusingAItomaketheirsmartTVsdumbagain.md]] : People are using AI to make their smart TVs dumb again
+- [[2026-10-19_HackershitAIcodingtoolOpenCode_runningupchargesonu.md]] : Hackers hit AI coding tool OpenCode, running up charges on users’ AI accounts
+- [[2026-10-19_AdvancingCodinginLow-ResourceProgrammingLanguages.md]] : Advancing Coding in Low-Resource Programming Languages
+- [[2026-10-19_MicrosoftsaysAIagentsarelikeinsiderthreatsas_front.md]] : Microsoft says AI agents are like insider threats as ‘frontier models can’t be trusted’
+- [[2026-10-19_EmbeddedAIevaluatorswon_tbeaneasysolution_HuggingF.md]] : Embedded AI evaluators won’t be an easy solution, Hugging Face’s policy chief says
+- [[2026-10-19_NscaleandAnthropicarereportedlyintalksforyetanothe.md]] : Nscale and Anthropic are reportedly in talks for yet another $45 billion compute deal
+- [[2026-10-20_Nextphaseofpioneeringneuroscience_andAI_atUCLsecur.md]] : Next phase of pioneering neuroscience ​and AI ​at UCL secured through major philanthropic award
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-10-20.md]] : Summary: Daily AI Intelligence Briefing — 2026-10-20
+- [[2026-10-20_Figmaco-founderDylanFieldthinksMCPisnotaperfectpro.md]] : Figma co-founder Dylan Field thinks MCP is not a perfect protocol
+- [[2026-10-20_Announcements.md]] : Announcements
+- [[2026-10-20_Meta_sMusehits10MU_S_downloadsin40days_amilestoner.md]] : Meta’s Muse hits 10M U.S. downloads in 40 days, a milestone reached by only 11 other apps
+- [[2026-10-20_EricSchmidtreportedlyownsabouthalfasmuchofAnthropi.md]] : Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei
+- [[2026-10-20_Franchiseereconcilescashin94_lesstimewithChatGPTWo.md]] : Franchisee reconciles cash in 94% less time with ChatGPT Work
+- [[2026-10-20_MetapausesMusesharingafterresearchersfindAIchatson.md]] : Meta pauses Muse sharing after researchers find AI chats on the web
+- [[2026-10-20_GooglehasjoinedAmazoninattackingNvidia_sstronghold.md]] : Google has joined Amazon in attacking Nvidia’s stronghold with AI app developers
+- [[2026-10-20_Google_smorepersonalizedGeminiAIisheadingtoyourcar.md]] : Google’s more personalized Gemini AI is heading to your car
+- [[2026-10-20_AnthropicpitchesAIsafetybillthatmayblockamodelif50.md]] : Anthropic pitches AI safety bill that may block a model if 50+ people could be killed
+- [[2026-10-20_JudgedismissesSamAltman_ssister_ssexualabuselawsui.md]] : Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit
+- [[2026-10-21_Google_orgawards_36mto17AIscienceteams_ETIHEdTechN.md]] : Google.org awards $36m to 17 AI science teams | ETIH EdTech News
+- [[2026-10-21_OpenAImodelsarecomingtoGoogleCloud.md]] : OpenAI models are coming to Google Cloud
+- [[2026-10-21_AIpromisesproductivity_butformanagers_it_smostlyah.md]] : AI promises productivity, but for managers, it’s mostly a headache for now
+- [[2026-10-21_ConversationalGemininavigationcomestoAppleCarPlay.md]] : Conversational Gemini navigation comes to Apple CarPlay
+- [[2026-10-21_EmpoweringfrontlinematernalcarewithAI-assistedultr.md]] : Empowering frontline maternal care with AI-assisted ultrasound
+- [[2026-10-21_HowAT_Tisrethinkingin-houselegalworkwithOpenAI.md]] : How AT&T is rethinking in-house legal work with OpenAI
+- [[2026-10-21_WalmartisinvitingAIagentstoshopforyou.md]] : Walmart is inviting AI agents to shop for you
+- [[2026-10-21_WhileAmazonblocksAIagents_Walmartrollsoutthewelcom.md]] : While Amazon blocks AI agents, Walmart rolls out the welcome mat
+- [[2026-10-21_AnthropictakesonMusewithClaudeDuet_itsnewAIagent.md]] : Anthropic takes on Muse with Claude Duet, its new AI agent
+- [[2026-10-21_TechCrunchFounderSummit2026_Everythingyouneedtokno.md]] : TechCrunch Founder Summit 2026: Everything you need to know
+- [[2026-10-21_MetatocreateanewclassofsharestofundAIpush.md]] : Meta to create a new class of shares to fund AI push
+- [[2026-10-21_Blackstone_sJasKhairasaysfearsoverAI-buildoutdebta.md]] : Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown
+- [[2026-10-21_Latestnews_Mistral.md]] : Latest news | Mistral
+- [[2026-10-22_Fujitsuimplementsmulti-AIagentinfrastructuretoenha.md]] : Fujitsu implements multi- AI agent infrastructure to enhance product information ...
+- [[2026-10-22_WhatFDEmeansatOpenAI.md]] : What FDE means at OpenAI
+- [[2026-10-22_ClaudeDuetappisAnthropic_sbetonagents.md]] : Claude Duet app is Anthropic’s bet on agents
+- [[2026-10-22_Spotify_scurrentAIbetisaboutbeingthemusicserviceth.md]] : Spotify’s current AI bet is about being the music service that agents choose
+- [[2026-10-22_PHP_Thethreelittleletterswreakinghavocacrosstheweb.md]] : PHP: The three little letters wreaking havoc across the web
+- [[2026-10-22_Uberputsall30_000employeesonChatGPTWork.md]] : Uber puts all 30,000 employees on ChatGPT Work
+- [[2026-10-22_OpenAI_Anthropic_andNvidiahadrecordlobbyingquarter.md]] : OpenAI, Anthropic, and Nvidia had record lobbying quarters
+- [[2026-10-22_InMeta_sversionofthefuture_I_llhavemyMusecallyourM.md]] : In Meta’s version of the future, I’ll have my Muse call your Muse
+- [[2026-10-22_1PasswordlaunchesawayforAIagentstologinonyourbehal.md]] : 1Password launches a way for AI agents to log in on your behalf without seeing your password
+- [[2026-10-22_MetaturnsMusesharingbackon.md]] : Meta turns Muse sharing back on
+- [[2026-10-22_BuildmoreresponsiveappswiththeDecisionsAPI.md]] : Build more responsive apps with the Decisions API
+- [[2026-10-22_Canva_sfirstAIimagemodelplansdesignsbeforegenerati.md]] : Canva’s first AI image model plans designs before generating them
+- [[2026-10-23_OpenAIandPoland_sNASKpartnertoadvanceAIsafetyandse.md]] : OpenAI and Poland’s NASK partner to advance AI safety and security
+- [[2026-10-23_Rapidlyscalingonlinestoragetoserveover1billionChat.md]] : Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)
+- [[2026-10-23_TheiPhoneDuoshouldhavebeenaniPad.md]] : The iPhone Duo should have been an iPad
+- [[2026-10-23_BringingfoundationalmodelstothefrontlinesofTBscree.md]] : Bringing foundational models to the front lines of TB screening
+- [[2026-10-23_FromToasttoBessemer_WhofounderswillhearfromatTechC.md]] : From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026
+- [[2026-10-23_JackDorsey_sBlockmadeanAImodelthattalkstoyoulikean.md]] : Jack Dorsey’s Block made an AI model that talks to you like an awkward new friend
+- [[2026-10-23_OpenAInowtrainsitsfrontierAImodelswithnointernetac.md]] : OpenAI now trains its frontier AI models with no internet access
+- [[2026-10-24_BridgingtheDataGap_ANewGeneralistAIModelforMedical.md]] : Bridging the Data Gap: A New Generalist AI Model for Medical Image Generation
+- [[2026-10-24_Forcedtopick_Grok_sAImodelchoosesRepublicans_OpenA.md]] : Forced to pick, Grok’s AI model chooses Republicans. OpenAI’s picks Democrats.
+- [[2026-10-24_PennsylvaniawillrequirelabelsonAI-generatedads.md]] : Pennsylvania will require labels on AI-generated ads
+- [[2026-10-24_TheAIgraveyard_arunninglistofprojectsandstartupsth.md]] : The AI graveyard: a running list of projects and startups that didn’t make it
+- [[2026-10-24_BluePlanetIIIiskeepingtheroughedgesintheageofAI.md]] : Blue Planet III is keeping the rough edges in the age of AI
+- [[2026-10-25_Google_sAIsearchchangesupendedonlinepublishing.md]] : Google’s AI search changes upended online publishing
+- [[2026-10-25_ThehottestAIwearablesandgadgetsyoushouldknowabout.md]] : The hottest AI wearables and gadgets you should know about
+- [[2026-10-26_HowFanaticsandOpenAIstreamlinethefanexperience.md]] : How Fanatics and OpenAI streamline the fan experience

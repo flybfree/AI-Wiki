@@ -2,7 +2,7 @@
 title: TraceForge: Distilling with Your Own Thinking
 published: 2026-10-21T12:57:29Z
 authors: Yan Wang
-url: http://arxiv.org/abs/2610.29680v1
+url: http://arxiv.org/abs/2610.29680v2
 type: paper-summary
 tags: [paper-summary, arxiv]
 ---
@@ -15,4 +15,4 @@ Using an LLM to generate training data for another is among the most general way
 ## Metadata
 - **Published**: 2026-10-21T12:57:29Z
 - **Authors**: Yan Wang
-- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.29680v1)
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.29680v2)
