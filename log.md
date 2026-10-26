@@ -17283,3 +17283,7 @@ tags: ['wiki']
 ## [2026-10-25 21:54] stage-paper | 2026-10-22_21-45-10Z_Kolibri_ASovereignEuropeanModelontheParetoFrontier.md
 ## [2026-10-25 23:45] stage-paper | 2026-10-23_14-53-40Z_AgenticHazardMapper_EmulatingExpertMap_MakingwithA.md
 ## [2026-10-26 09:38] ingest | 2026-10-26_HowFanaticsandOpenAIstreamlinethefanexperience.md
+## [2026-10-26 12:38] ingest | 2026-10-26_TheRealRealwon_tletAIagentshogdesignerclothing.md
+## [2026-10-26 12:38] ingest | 2026-10-26_Anthropic_sIPOfilingrevealsitsstrategyforkeepingen.md
+## [2026-10-26 13:37] ingest | 2026-10-26_ChatGPT_sexpandingworldofwork.md
+## [2026-10-26 14:38] ingest | 2026-10-26_OpenAI_smostpowerfulAImodelsdisabledtheirownsafety.md

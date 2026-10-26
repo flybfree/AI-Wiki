@@ -3382,3 +3382,7 @@ tags: ['wiki']
 - [[2026-10-25_Google_sAIsearchchangesupendedonlinepublishing.md]] : Google’s AI search changes upended online publishing
 - [[2026-10-25_ThehottestAIwearablesandgadgetsyoushouldknowabout.md]] : The hottest AI wearables and gadgets you should know about
 - [[2026-10-26_HowFanaticsandOpenAIstreamlinethefanexperience.md]] : How Fanatics and OpenAI streamline the fan experience
+- [[2026-10-26_TheRealRealwon_tletAIagentshogdesignerclothing.md]] : The RealReal won’t let AI agents hog designer clothing
+- [[2026-10-26_Anthropic_sIPOfilingrevealsitsstrategyforkeepingen.md]] : Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked
+- [[2026-10-26_ChatGPT_sexpandingworldofwork.md]] : ChatGPT’s expanding world of work
+- [[2026-10-26_OpenAI_smostpowerfulAImodelsdisabledtheirownsafety.md]] : OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it
