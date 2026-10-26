@@ -3386,3 +3386,4 @@ tags: ['wiki']
 - [[2026-10-26_Anthropic_sIPOfilingrevealsitsstrategyforkeepingen.md]] : Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked
 - [[2026-10-26_ChatGPT_sexpandingworldofwork.md]] : ChatGPT’s expanding world of work
 - [[2026-10-26_OpenAI_smostpowerfulAImodelsdisabledtheirownsafety.md]] : OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it
+- [[2026-10-26_GPT-6_1SolhelpsCodeRabbitstrengthensecurityacrossc.md]] : GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
