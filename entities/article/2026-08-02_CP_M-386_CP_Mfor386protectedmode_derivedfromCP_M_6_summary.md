@@ -1,10 +1,7 @@
-# Summary: 2026-08-02_CP_M-386_CP_Mfor386protectedmode_derivedfromCP_M_6.md
-Saved: 2026-08-03 05:58
-Source: 2026-08-02_CP_M-386_CP_Mfor386protectedmode_derivedfromCP_M_6.md
-Model: none
+# Curation disposition: CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K
+Status: exclude
+Reviewed: 2026-10-25
+Source: [Original article](https://github.com/johnsonjh/cpm386)
+Reason: The article is about a retro-computing operating system port (CP/M for 386) with no AI/ML as a primary subject, causal mechanism, or technical dependency; AI mentions are limited to contributor policy and incidental comments.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

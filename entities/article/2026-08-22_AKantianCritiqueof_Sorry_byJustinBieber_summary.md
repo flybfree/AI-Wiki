@@ -1,10 +1,8 @@
-# Summary: 2026-08-22_AKantianCritiqueof_Sorry_byJustinBieber.md
-Saved: 2026-08-22 11:20
-Source: 2026-08-22_AKantianCritiqueof_Sorry_byJustinBieber.md
-Model: none
+# Curation disposition: A Kantian Critique of "Sorry" by Justin Bieber
+Status: exclude
+Reviewed: 2026-10-25
+Source capture: 2026-08-22_AKantianCritiqueof_Sorry_byJustinBieber.md
+Source: [Original article](https://decodingvibes.com/blog/a-kantian-critique-of-sorry-by-justin-bieber/)
+Reason: The article is a philosophical analysis of song lyrics and contains no references to AI or ML.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

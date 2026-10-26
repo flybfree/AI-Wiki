@@ -1,10 +1,8 @@
-# Summary: 2026-08-22_Figmimic_AbookmarklettocopyanywebpageintoFigmaased.md
-Saved: 2026-08-22 21:26
-Source: 2026-08-22_Figmimic_AbookmarklettocopyanywebpageintoFigmaased.md
-Model: none
+# Curation disposition: Figmimic – A bookmarklet to copy any webpage into Figma as editable layers
+Status: exclude
+Reviewed: 2026-10-25
+Source capture: 2026-08-22_Figmimic_AbookmarklettocopyanywebpageintoFigmaased.md
+Source: [Original article](https://marcua.net/minitools/figmimic/)
+Reason: The article describes a browser bookmarklet for copying web pages to Figma, with no mention of AI or machine learning technologies.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

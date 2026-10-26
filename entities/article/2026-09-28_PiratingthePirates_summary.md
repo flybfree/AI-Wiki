@@ -1,10 +1,8 @@
-# Summary: 2026-09-28_PiratingthePirates.md
-Saved: 2026-09-28 14:35
-Source: 2026-09-28_PiratingthePirates.md
-Model: none
+# Curation disposition: Pirating the Pirates
+Status: exclude
+Reviewed: 2026-10-25
+Source capture: 2026-09-28_PiratingthePirates.md
+Source: [Original article](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+Reason: The article focuses on film preservation, home video releases, and fan-led restoration of classic cinema, with no mention of AI or machine learning as a subject, tool, or mechanism.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

@@ -1,10 +1,8 @@
-# Summary: 2026-09-30_AIatMetaBlog.md
-Saved: 2026-09-30 19:13
-Source: 2026-09-30_AIatMetaBlog.md
-Model: none
+# Curation disposition: 2026-09-30_AIatMetaBlog.md
+Status: defer
+Reviewed: 2026-10-25
+Source capture: 2026-09-30_AIatMetaBlog.md
+Source: [Original article](https://ai.meta.com/blog/)
+Reason: The source is a blog index page listing multiple distinct articles rather than a single coherent article, making it insufficient for specific curation.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

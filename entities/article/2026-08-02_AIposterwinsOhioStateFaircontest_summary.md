@@ -1,10 +1,7 @@
-# Summary: 2026-08-02_AIposterwinsOhioStateFaircontest.md
-Saved: 2026-08-02 19:14
-Source: 2026-08-02_AIposterwinsOhioStateFaircontest.md
-Model: none
+# Curation disposition: AI poster wins Ohio State Fair contest
+Status: exclude
+Reviewed: 2026-10-25
+Source: [Original article](https://www.ohiostatefair.com/p/get-involved/arts/poster-contest)
+Reason: The article is primarily about an art contest and its rules, with AI mentioned only as a policy detail regarding entry eligibility rather than being the central subject or technical focus.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

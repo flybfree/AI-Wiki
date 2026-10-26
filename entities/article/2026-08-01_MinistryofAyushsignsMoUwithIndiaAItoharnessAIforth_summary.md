@@ -1,10 +1,7 @@
-# Summary: 2026-08-01_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth.md
-Saved: 2026-08-01 18:08
-Source: 2026-08-01_MinistryofAyushsignsMoUwithIndiaAItoharnessAIforth.md
-Model: none
+# Curation disposition: Ministry of Ayush signs MoU with IndiaAI to harness AI for the future of traditional medicine
+Status: defer
+Reviewed: 2026-10-25
+Source: [Original article](https://www.pharmabiz.com/NewsDetails.aspx)
+Reason: The source text contains only a system error message and no actual article content to evaluate.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

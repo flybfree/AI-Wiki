@@ -1,10 +1,8 @@
-# Summary: 2026-08-03_Newsroom_Anthropic.md
-Saved: 2026-08-03 07:06
-Source: 2026-08-03_Newsroom_Anthropic.md
-Model: none
+# Curation disposition: Newsroom \ Anthropic
+Status: defer
+Reviewed: 2026-10-25
+Source capture: 2026-08-03_Newsroom_Anthropic.md
+Source: [Publisher/news landing page](https://www.anthropic.com/news)
+Reason: Only a generic publisher/news landing-page URL is recorded; article-level provenance must be verified before summarizing.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

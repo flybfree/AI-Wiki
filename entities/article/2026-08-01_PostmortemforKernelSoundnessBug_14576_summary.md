@@ -1,10 +1,7 @@
-# Summary: 2026-08-01_PostmortemforKernelSoundnessBug_14576.md
-Saved: 2026-08-01 15:08
-Source: 2026-08-01_PostmortemforKernelSoundnessBug_14576.md
-Model: none
+# Curation disposition: Postmortem for Kernel Soundness Bug
+Status: exclude
+Reviewed: 2026-10-25
+Source: [Original article](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/)
+Reason: The article is primarily about a formal logic kernel bug in Lean, with AI mentioned only as the tool used to generate the proof and assist in finding other bugs, not as the central research topic.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

@@ -1,0 +1,18 @@
+---
+title: Agentic Hazard Mapper: Emulating Expert Map-Making with AI Agents for Risk Communication
+published: 2026-10-23T14:53:40Z
+authors: Sidi Wu, Lifeng Lin, Yizi Chen, Anna Yokokubo, Lorenz Hurni
+url: http://arxiv.org/abs/2610.32738v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Agentic Hazard Mapper: Emulating Expert Map-Making with AI Agents for Risk Communication
+
+## Abstract
+Hazard maps are essential tools for public risk communication, preparedness, and evacuation planning, yet effective cartographic design is not always ensured due to limited access to cartographic expertise across local governments and communities. We present Agentic Hazard Mapper, a multi-agent system that automates hazard-map production by emulating professional cartographic workflows and iterative design trade-offs while adapting design decisions to different data, locations, and hazard contexts. We conducted a formative study with map experts to inform the system design, followed by a user study and interviews with map experts and hazard practitioners. The generated maps improved participants' spatial understanding and evacuation-planning performance, reduced perceived workload and task completion time, and were generally preferred over corresponding municipal maps. We further discuss human oversight, adaptation across users and communication contexts, and opportunities to extend agentic support across broader stages of hazard-map production and risk communication.
+
+## Metadata
+- **Published**: 2026-10-23T14:53:40Z
+- **Authors**: Sidi Wu, Lifeng Lin, Yizi Chen, Anna Yokokubo, Lorenz Hurni
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.32738v1)

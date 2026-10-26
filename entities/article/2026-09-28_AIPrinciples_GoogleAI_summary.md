@@ -1,10 +1,8 @@
-# Summary: 2026-09-28_AIPrinciples_GoogleAI.md
-Saved: 2026-09-28 05:21
-Source: 2026-09-28_AIPrinciples_GoogleAI.md
-Model: none
+# Curation disposition: 2026-09-28_AIPrinciples_GoogleAI.md
+Status: exclude
+Reviewed: 2026-10-25
+Source capture: 2026-09-28_AIPrinciples_GoogleAI.md
+Source: [Original article](https://ai.google/principles/)
+Reason: The provided text is primarily a navigation menu listing Google's AI products and research areas rather than a substantive article discussing specific AI principles, governance frameworks, or technical details.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

@@ -1,10 +1,8 @@
-# Summary: 2026-09-06_GrapheneOSOverhauledDefaultAppsandSecureClipboard.md
-Saved: 2026-09-06 18:19
-Source: 2026-09-06_GrapheneOSOverhauledDefaultAppsandSecureClipboard.md
-Model: none
+# Curation disposition: GrapheneOS Overhauled Default Apps and Secure Clipboard
+Status: exclude
+Reviewed: 2026-10-25
+Source capture: 2026-09-06_GrapheneOSOverhauledDefaultAppsandSecureClipboard.md
+Source: [Original article](https://grapheneos.social/@GrapheneOS/117225539756835649)
+Reason: The article discusses mobile OS security features and app updates with no mention of AI or ML technologies.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

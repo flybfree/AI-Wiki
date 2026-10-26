@@ -1,10 +1,8 @@
-# Summary: 2026-10-01_AIatMetaBlog.md
-Saved: 2026-10-01 01:03
-Source: 2026-10-01_AIatMetaBlog.md
-Model: none
+# Curation disposition: 2026-10-01_AIatMetaBlog.md
+Status: exclude
+Reviewed: 2026-10-25
+Source capture: 2026-10-01_AIatMetaBlog.md
+Source: [Original article](https://ai.meta.com/blog/)
+Reason: The source is a website index/navigation page listing blog post titles and links, not a specific article with substantive content about an AI research topic.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

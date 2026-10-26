@@ -1,10 +1,8 @@
-# Summary: 2026-09-26_GoConcurrencyDistilled.md
-Saved: 2026-09-26 23:13
-Source: 2026-09-26_GoConcurrencyDistilled.md
-Model: none
+# Curation disposition: Go Concurrency Distilled
+Status: exclude
+Reviewed: 2026-10-25
+Source capture: 2026-09-26_GoConcurrencyDistilled.md
+Source: [Original article](https://antonz.org/go-concurrency-distilled/)
+Reason: The article is explicitly described as 'AI-free' and focuses entirely on Go programming language concurrency primitives (goroutines, channels) with no mention of AI/ML concepts.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

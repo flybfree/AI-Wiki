@@ -1,10 +1,8 @@
-# Summary: 2026-09-07_Transferlearningforgenomicpredictioninunderreprese.md
-Saved: 2026-09-07 00:14
-Source: 2026-09-07_Transferlearningforgenomicpredictioninunderreprese.md
-Model: none
+# Curation disposition: Transfer learning for genomic prediction in underrepresented populations
+Status: exclude
+Reviewed: 2026-10-25
+Source capture: 2026-09-07_Transferlearningforgenomicpredictioninunderreprese.md
+Source: [Original article](https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations/)
+Reason: The article focuses on genomic prediction methods and statistical genetics rather than AI/ML research or infrastructure.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

@@ -1,10 +1,8 @@
-# Summary: 2026-09-28_UIcomputerscienceprofessorsdiscussgrowingAIsafetyc.md
-Saved: 2026-09-28 00:22
-Source: 2026-09-28_UIcomputerscienceprofessorsdiscussgrowingAIsafetyc.md
-Model: none
+# Curation disposition: UI computer science professors discuss growing AI safety concerns - The Daily Illini
+Status: defer
+Reviewed: 2026-10-25
+Source capture: 2026-09-28_UIcomputerscienceprofessorsdiscussgrowingAIsafetyc.md
+Source: [Original article](https://dailyillini.com/news-stories/science-technology/2026/09/27/ui-computer-science-ai/)
+Reason: The provided source text contains only website navigation and metadata, lacking the actual article content needed to assess AI relevance.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

@@ -1,10 +1,7 @@
-# Summary: 2026-08-01_TheSiliconValleyFounderMeatGrinder.md
-Saved: 2026-08-01 16:29
-Source: 2026-08-01_TheSiliconValleyFounderMeatGrinder.md
-Model: none
+# Curation disposition: The Silicon Valley Founder Meat Grinder
+Status: exclude
+Reviewed: 2026-10-25
+Source: [Original article](https://zaksa.zip/blog/silicon-valley-founder-meat-grinder/)
+Reason: The article is a personal narrative about startup culture and founder burnout, with AI mentioned only as a descriptor for low-quality social media posts ('AI slop') rather than being the primary subject or technical focus.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

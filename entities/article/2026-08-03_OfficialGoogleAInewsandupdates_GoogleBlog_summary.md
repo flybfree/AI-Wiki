@@ -1,10 +1,8 @@
-# Summary: 2026-08-03_OfficialGoogleAInewsandupdates_GoogleBlog.md
-Saved: 2026-08-03 07:12
-Source: 2026-08-03_OfficialGoogleAInewsandupdates_GoogleBlog.md
-Model: none
+# Curation disposition: Official Google AI news and updates | Google Blog
+Status: defer
+Reviewed: 2026-10-25
+Source capture: 2026-08-03_OfficialGoogleAInewsandupdates_GoogleBlog.md
+Source: [Publisher/news landing page](https://blog.google/innovation-and-ai/technology/ai/)
+Reason: Only a generic publisher/news landing-page URL is recorded; article-level provenance must be verified before summarizing.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

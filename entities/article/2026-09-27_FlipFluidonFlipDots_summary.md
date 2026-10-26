@@ -1,10 +1,8 @@
-# Summary: 2026-09-27_FlipFluidonFlipDots.md
-Saved: 2026-09-27 09:12
-Source: 2026-09-27_FlipFluidonFlipDots.md
-Model: none
+# Curation disposition: 2026-09-27_FlipFluidonFlipDots.md
+Status: exclude
+Reviewed: 2026-10-25
+Source capture: 2026-09-27_FlipFluidonFlipDots.md
+Source: [Original article](https://mitxela.com/projects/flipflip)
+Reason: The article focuses on electromechanical hardware engineering and fluid simulation rendering, not AI/ML research or technology.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

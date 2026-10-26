@@ -1,10 +1,7 @@
-# Summary: 2026-08-02_Appleengineersayshewasfiredafterrefusingtosendcust.md
-Saved: 2026-08-03 05:52
-Source: 2026-08-02_Appleengineersayshewasfiredafterrefusingtosendcust.md
-Model: none
+# Curation disposition: Apple engineer says he was fired after refusing to send cust. device IDs to AT&T
+Status: exclude
+Reviewed: 2026-10-25
+Source: [Original article](https://runtimewire.com/article/exclusive-apple-engineer-says-he-was-fired-after-refusing-to-send-customer-devic)
+Reason: The article concerns an employment dispute regarding data privacy and device identifiers (IMEI), with no direct focus on AI/ML research, models, or infrastructure.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

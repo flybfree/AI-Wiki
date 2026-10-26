@@ -1,10 +1,8 @@
-# Summary: 2026-09-29_TheinternetisconvincedElonMusk_sxAItrolledOpenAI_s.md
-Saved: 2026-09-29 18:02
-Source: 2026-09-29_TheinternetisconvincedElonMusk_sxAItrolledOpenAI_s.md
-Model: none
+# Curation disposition: The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch
+Status: exclude
+Reviewed: 2026-10-25
+Source capture: 2026-09-29_TheinternetisconvincedElonMusk_sxAItrolledOpenAI_s.md
+Source: [Original article](https://techcrunch.com/2026/09/29/the-internet-is-convinced-elon-musks-xai-trolled-openais-dots-launch/)
+Reason: The article focuses on a domain name acquisition and internet speculation about corporate rivalry rather than AI technology, research, or product mechanics.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

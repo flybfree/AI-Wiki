@@ -1,10 +1,7 @@
-# Summary: 2026-08-01_CursorremovedcostinformationfromtheusagepageandCSV.md
-Saved: 2026-08-01 12:08
-Source: 2026-08-01_CursorremovedcostinformationfromtheusagepageandCSV.md
-Model: none
+# Curation disposition: Cursor removed cost information from the usage page and CSV export
+Status: exclude
+Reviewed: 2026-10-25
+Source: [Original article](https://forum.cursor.com/t/usage-page-to-token-amount-what/167153)
+Reason: The article discusses a UI change in Cursor's billing dashboard regarding token vs. dollar display, which is a product usability/billing issue rather than an AI research, model, or infrastructure topic.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.

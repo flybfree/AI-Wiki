@@ -1,10 +1,7 @@
-# Summary: 2026-08-01_TheArtof64-bitAssembly.md
-Saved: 2026-08-01 11:08
-Source: 2026-08-01_TheArtof64-bitAssembly.md
-Model: none
+# Curation disposition: The Art of 64-bit Assembly
+Status: exclude
+Reviewed: 2026-10-25
+Source: [Original article](https://nostarch.com/art-64-bit-assembly-v2)
+Reason: The article is about low-level systems programming and assembly language, with AI mentioned only as a comparative example of what it fails to explain.
 
----
-
-ERROR: all endpoints returned no content
-
-ERROR: all endpoints returned no content
+This file replaces a failed summary placeholder. No summary was generated for this disposition.
