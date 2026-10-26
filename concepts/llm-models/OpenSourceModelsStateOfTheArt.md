@@ -1,15 +1,15 @@
 ---
-title: "Open-Source Models State of the Art — 2026-09-28"
-date: 2026-09-28
+title: "Open-Source Models State of the Art — 2026-10-25"
+date: 2026-10-25
 status: draft
 tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-09-16"]
 ---
 
-# Open-Source Models State of the Art — 2026-09-28
+# Open-Source Models State of the Art — 2026-10-25
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page tracks the current open-weight frontier and the models most relevant for local deployment. The recent signal splits into frontier generalists, local-use quantized checkpoints, and deployment infrastructure that determines whether open weights are usable in practice. The snapshot is refreshed through 2026-09-28.
+This page tracks the current open-weight frontier and the models most relevant for local deployment. The recent signal splits into frontier generalists, local-use quantized checkpoints, and deployment infrastructure that determines whether open weights are usable in practice. The snapshot is refreshed through 2026-10-25.
 
 ## Semantic links
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-08-27]] — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
@@ -29,15 +29,17 @@ The practical question is no longer just “what is the strongest open model?”
 
 This table is a discovery-oriented shortlist, not a catalog limited to models already installed on the author's endpoints. It uses practical local inference as the organizing principle.
 
-**Sizing assumptions:** estimates assume 4-bit quantization and cover model weights only. Add runtime overhead and KV-cache memory, especially for long context. Mixture-of-experts models reduce active compute, but their total weights still affect loading requirements. “Open-source” means materially open code, weights, data, or training artifacts; “open-weight” means the weights are available while other parts of the training stack or license may be restricted.
+**Sizing assumptions:** estimates usually assume 4-bit quantization and cover model weights only; rows with a published package note that instead. Add runtime overhead and KV-cache memory, especially for long context. Mixture-of-experts models reduce active compute, but their total weights still affect loading requirements. Nemotron Bolt 74B's 24GB package uses 2-bit expert weights plus mixed-precision layers, not a generic 4-bit estimate. “Open-source” means materially open code, weights, data, or training artifacts; “open-weight” means the weights are available while other parts of the training stack or license may be restricted.
 
 ### Tier 1 — practical within 32 GB
 
-| Model | Openness | Approx. 4-bit memory | Capability profile | Discovery value |
+| Model | Openness | Approx. 4-bit memory / package | Capability profile | Discovery value |
 |---|---|---:|---|---|
 | [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | Open-weight, Apache 2.0 | 15–20 GB | Dense multimodal reasoning, coding, image/video input, tools, agents | Strong broad replacement candidate for local generalist workloads |
 | [Qwen3-30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B) | Open-weight, Apache 2.0 | 16–20 GB | MoE general reasoning, coding, multilingual work, agents | High capability per active parameter; fast-MoE candidate |
 | [Nemotron 3.5 Lightning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/) | Open-weight | 16–20 GB | Fast tool calls, validation, code review, long-running execution | Specialist alternative for high-volume agent loops |
+| [Nemotron 3.5 Bolt 74B-A9B 24GB](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB) | Open-weight, OpenMDW-1.1 | 24 GB packed IQ2_XXS/mixed precision | 74B total / 9B active hybrid Mamba-2–Transformer LatentMoE VLM; images, video, tools; 256K context | 24GB model package; RTX Spark/llama.cpp and DGX Spark/vLLM paths; HF vLLM recipe also lists A100, H100-80GB, and Blackwell |
+| [Nemotron 3.5 Bolt E4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB) | Open-weight, OpenMDW-1.1 | 6.18 GB Q4_K_M GGUF; NVIDIA targets ~4 GB runtime memory | 8B total / 4B effective, text-only, 64K context; multi-turn tool use, instruction following, device/voice assistants | Small edge/conversational agent; memory depends on workload and runtime |
 | [Mistral Small 3.2 24B](https://huggingface.co/mistralai) | Open-weight, Apache 2.0 | 13–17 GB | General chat, coding, reasoning, multilingual tasks | Permissive general-purpose baseline |
 | [Devstral Small 2 24B](https://huggingface.co/mistralai) | Open-weight | 13–17 GB | Repository-level coding, tools, software-engineering agents | Coding-first alternative to generalist models |
 | [Gemma 3 27B](https://huggingface.co/google/gemma-3-27b-it) | Open-weight, Google terms | 14–18 GB | Multimodal chat, summarization, reasoning, multilingual work | Strong image-capable local generalist |
@@ -48,7 +50,7 @@ This table is a discovery-oriented shortlist, not a catalog limited to models al
 
 ### Tier 2 — requires more than 32 GB
 
-| Model | Openness | Approx. 4-bit memory | Capability profile | Discovery value |
+| Model | Openness | Approx. 4-bit memory / package | Capability profile | Discovery value |
 |---|---|---:|---|---|
 | [Llama 3.1 70B](https://huggingface.co/meta-llama/Llama-3.1-70B) | Open-weight, Meta license | 40–50 GB | General reasoning, coding, RAG, multilingual work | Mature large-model ecosystem |
 | [Qwen2.5-72B](https://huggingface.co/Qwen/Qwen2.5-72B-Instruct) | Open-weight | 40–50 GB | General chat, coding, multilingual reasoning | Large dense comparison baseline |
@@ -66,7 +68,9 @@ This table is a discovery-oriented shortlist, not a catalog limited to models al
 | Need | Models to investigate first |
 |---|---|
 | Fast local assistant | Ministral 3 8B, Gemma 3 12B, Qwen3 8B |
+| Fast local conversational/device agent | Nemotron 3.5 Bolt E4B; optimized for multi-turn tool use and low-memory edge workloads |
 | Best broad model under 32 GB | Qwen3.8-27B, Mistral Small 3.2 24B |
+| Local multimodal agent (24 GB checkpoint) | Nemotron 3.5 Bolt 74B-A9B 24GB; NVIDIA’s 2-bit/mixed-precision pack, images/video, tool use; check runtime GPU headroom |
 | Coding agents | Devstral Small 2, Qwen3-Coder, GLM-5.2 |
 | Deep reasoning | DeepSeek-R1-Distill-Qwen-32B, Qwen3.8-27B, Nemotron 3.5 Lightning |
 | Multimodal work | Qwen3.8-27B, Gemma 3 27B, Mistral Small 3.1 |
@@ -94,6 +98,14 @@ The family spans a 9B dense model, a 35B-A3B mixture-of-experts (MoE) model that
 The results are promising but should be read as model-card claims: Ornith says its results are averaged over five runs, while the benchmarks use different harnesses, context windows, timeouts, and judge models.[3][4] An independent overview describes Ornith-1.5-35B-A3B as a strong coding-agent model, but also recommends starting below the full 262K context on constrained hardware and increasing it only when the workload needs it.[5]
 
 **Best fit:** repository-level coding, terminal automation, and tool-using agents where scaffold quality and long-horizon execution matter. **Main caveat:** the 35B-A3B model is much more local-friendly than the 397B flagship, but neither should be treated as a general multimodal replacement for Qwen3.8; Ornith-1.5's center of gravity is agentic software work.
+
+## Nemotron 3.5 Bolt spotlight
+
+NVIDIA’s Nemotron 3.5 Bolt release is a *two-model local family*, not one checkpoint. **Bolt 74B-A9B 24GB** is a vision-language model with 74B total parameters and 9B active per token. It uses a hybrid Mamba-2/Transformer LatentMoE backbone with a C-RADIO v4-H vision encoder, accepts text, images, and video, supports up to 256K context, and is packed to a 24GB model target using IQ2_XXS expert weights plus mixed precision for other layers.[6][7] NVIDIA positions it for local tool-using agents, browsing, and terminal work; the published benchmark and speed claims are vendor-reported. The 24GB figure is a checkpoint target, not a universal runtime guarantee: NVIDIA documents RTX Spark with llama.cpp and DGX Spark with vLLM; the Hugging Face card also lists A100, H100-80GB, and Blackwell for its vLLM recipe.
+
+**Bolt E4B 4GB** is the smaller edge model: 8B total parameters and 4B effective, post-trained from Gemma 4 E4B. It is text-only, has 64K context, and focuses on concise conversation, multi-turn tool use, instruction following, and grounding for voice/device assistants and embedded interfaces.[8][9] The Q4_K_M GGUF is 6.18GB on disk; NVIDIA targets roughly 4GB of runtime memory in its described workloads, so the “4GB” label is not the download size.[8][9]
+
+Both are open-weight releases under NVIDIA’s OpenMDW-1.1 terms, not Apache/MIT-licensed checkpoints. Treat capability comparisons as vendor evidence until independently reproduced.[7][9]
 
 ## Frontier open-weight generalists
 
@@ -145,6 +157,8 @@ This subsection is for models that matter because they can actually be run, tune
 | [MuseGlimmer](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | Approximately 4-bit quantization; K-Quant-17GB and speculative decoding with DFlash | Targets 24–32 GB consumer hardware and local, responsive agent interaction |
 | [IFM K2 Horizon 32B](https://huggingface.co/IFM/K2-Horizon-32B-GGUF) / [MoVA 36B-A4B](https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B-GGUF) | Apache 2.0 local-use checkpoints; MoVA activates about 4B parameters and the fleet shares deployment interfaces across sizes | Verify quantization, context, and runtime support before treating vendor efficiency claims as measured local performance |
 | [Nemotron 3.5 Lightning](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/) | NVFP4, speculative decoding with DFlash/DSpark, and deployment from RTX PCs/DGX Spark through data centers | Designed for low-latency tool calls, validation, code review, and other high-volume agent execution |
+| [Nemotron 3.5 Bolt 74B-A9B 24GB](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB) | NVIDIA’s IQ2_XXS / mixed-precision 24GB checkpoint; GGUF for llama.cpp and vLLM path for DGX Spark | 74B total / 9B active multimodal agent; verify exact GPU, context, and runtime support before assuming the 24GB target |
+| [Nemotron 3.5 Bolt E4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB) | 8B total / 4B effective; Q4_K_M GGUF and companion DFlash drafter | Text-only low-memory conversational/tool-use model; NVIDIA reports 3.5–4.3GB VRAM in its tested workloads |
 | [GLM-5.3-Flash](https://huggingface.co/docs/transformers/main/en/model_doc/glm5_next) | FP8/MTP-oriented serving path; sparse/linear attention targets lower long-context cost | Not a practical consumer-GPU model despite low active-parameter count |
 | [Step-3.7-Flash](https://static.stepfun.com/blog/step-3.7-flash/) | MTP-enabled checkpoint can support speculative decoding; native VLM packaging | Designed primarily for accelerator-backed serving rather than LM Studio-class hardware |
 
@@ -166,11 +180,13 @@ This subsection is for models that matter because they can actually be run, tune
 - Meta’s MuseGlimmer release makes that local-agent framing concrete: its Apache 2.0 weights, multimodal tool use, quantized deployment path, and DFlash speculative decoding are aimed at always-on agents running on consumer hardware. [Meta AI Research](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model)
 - IFM’s [K2 Horizon release](https://ifm.ai/k2/press-release) expands the local/open-weight story from a single checkpoint to a coordinated fleet: 0.9B and 3.7B for constrained devices, 7B for phones, 32B and 36B-A4B for local or on-premise hosting, and 375B-A23B for enterprise workloads. The important distinction is transparency: IFM released training data, code, methods, and weights rather than weights alone.
 - NVIDIA’s Nemotron 3.5 Lightning extends the local-agent framing into a system-of-models architecture: a larger model plans while a fast 30B/3B-active MoE handles repetitive execution, with NeMo Switchyard routing requests across open and proprietary models. [NVIDIA Developer](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
+- NVIDIA released Nemotron 3.5 Bolt 74B-A9B on Oct 15 and the smaller E4B variant on Oct 23, extending the local-agent track in two directions: the 74B-A9B 24GB IQ2_XXS VLM targets multimodal local agents, while the 8B/4B-effective E4B model targets compact text-based voice/device agents. NVIDIA’s hardware and benchmark figures are vendor-reported; both checkpoints use OpenMDW-1.1 rather than Apache/MIT licensing. [74B-A9B release](https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-24GB/) · [E4B release](https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/)
 - Qwen3.8-27B adds a strong dense-model counterpoint: native multimodality, 262K context, Apache 2.0 licensing, and controllable reasoning in a checkpoint that can be quantized to roughly 17 GB. Independent testing confirms the capability is real but highlights the need to avoid the default `xhigh` reasoning setting for routine local tasks.[1][2]
 - Ornith-1.5 shifts the open-weight discussion from self-scaffolding to broader self-improvement: the task generator, agent scaffold, and solution rollouts are optimized together. Its 35B-A3B checkpoint is the deployment-friendly member, while the 397B model is a frontier-scale coding-agent benchmark contender.[3][4]
 
 ## Progress log
 
+- **2026-10-25** — Added both Nemotron 3.5 Bolt variants to the local-model comparison: 74B-A9B 24GB for multimodal tool-using agents and E4B for low-memory text/voice-device assistants; separated vendor memory targets from checkpoint file size and noted OpenMDW-1.1 licensing.
 - **2026-09-28** — Rebuilt the reference section as a discovery-oriented two-tier table: practical sub-32 GB candidates and larger multi-GPU candidates, with separate openness, memory, capability, and discovery-value columns.
 
 - **2026-08-10** — Last30days research says the open-weight conversation is now centered on local-agent usefulness, cost/performance, and release policy, with Kimi K3 still the loudest frontier signal.
@@ -209,6 +225,10 @@ This subsection is for models that matter because they can actually be run, tune
 - [3] [Ornith-1.5-35B-A3B model card](https://huggingface.co/ornith-ai/Ornith-1.5-35B-A3B)
 - [4] [Ornith-1.5-397B model card](https://huggingface.co/ornith-ai/Ornith-1.5-397B)
 - [5] [Independent Ornith-1.5-35B-A3B overview](https://www.mindstudio.ai/blog/ornith-1-5-moe-model-release)
+- [6] [NVIDIA Nemotron 3.5 Bolt 74B-A9B 24GB release](https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Bolt-24GB/)
+- [7] [74B-A9B Hugging Face model card](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB) · [GGUF checkpoint](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-74B-A9B-24GB-GGUF)
+- [8] [NVIDIA Nemotron 3.5 Bolt E4B 4GB release](https://research.nvidia.com/labs/nemotron/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB/)
+- [9] [E4B BF16 model card](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-BF16) · [Q4_K_M GGUF checkpoint](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-4GB)
 - [LLM Release Tracker](2026-07-10_LLMReleaseTracker.md)
 - [LLM Model Evolution](2026-06-10_LLMModelEvolution.md)
 - [Inference Layer: Quantized Models, GGUF, and Local Use](../self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md)
