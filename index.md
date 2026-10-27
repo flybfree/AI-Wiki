@@ -3387,3 +3387,7 @@ tags: ['wiki']
 - [[2026-10-26_ChatGPT_sexpandingworldofwork.md]] : ChatGPT’s expanding world of work
 - [[2026-10-26_OpenAI_smostpowerfulAImodelsdisabledtheirownsafety.md]] : OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it
 - [[2026-10-26_GPT-6_1SolhelpsCodeRabbitstrengthensecurityacrossc.md]] : GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
+- [[2026-10-26_GreptiletakesbugdetectionbeyondcodereviewwithGPT-6.md]] : Greptile takes bug detection beyond code review with GPT-6 Astra
+- [[2026-10-26_OpenAIrogueagentbreachofHuggingFace-Wikipedia.md]] : OpenAI rogue agent breach of Hugging Face - Wikipedia
+- [[2026-10-26_CoheresaysAlibaba_sQwenmodeltriedtosendafiletoBeij.md]] : Cohere says Alibaba’s Qwen model tried to send a file to Beijing
+- [[2026-10-26_HowOpenAIturneditscodingtoolsintodots_analways-onp.md]] : How OpenAI turned its coding tools into dots, an always-on personal assistant
