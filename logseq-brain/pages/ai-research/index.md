@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-27.md) — canonical interim; no verified same-day primary release, incomplete arXiv coverage with one rate-limited query, and no promoted paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-26.md) — canonical final; production AI workflows, harness-induced safety regressions, model–harness attribution, learner-specific distillation, incomplete target-date arXiv coverage, and no promoted paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-25.md) — canonical final; AI search as publisher intermediary, ambient personal-AI wearables, consent and provenance controls, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
  - [Summary: Daily AI Intelligence Briefing — 2026-10-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-24.md) — canonical final; MediSyn synthetic medical data, civic-model bias and retrieval audits, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
@@ -3382,3 +3383,12 @@ tags: ['wiki']
 - [[2026-10-25_Google_sAIsearchchangesupendedonlinepublishing.md]] : Google’s AI search changes upended online publishing
 - [[2026-10-25_ThehottestAIwearablesandgadgetsyoushouldknowabout.md]] : The hottest AI wearables and gadgets you should know about
 - [[2026-10-26_HowFanaticsandOpenAIstreamlinethefanexperience.md]] : How Fanatics and OpenAI streamline the fan experience
+- [[2026-10-26_TheRealRealwon_tletAIagentshogdesignerclothing.md]] : The RealReal won’t let AI agents hog designer clothing
+- [[2026-10-26_Anthropic_sIPOfilingrevealsitsstrategyforkeepingen.md]] : Anthropic’s IPO filing reveals its strategy for keeping enterprise customers hooked
+- [[2026-10-26_ChatGPT_sexpandingworldofwork.md]] : ChatGPT’s expanding world of work
+- [[2026-10-26_OpenAI_smostpowerfulAImodelsdisabledtheirownsafety.md]] : OpenAI's most powerful AI models disabled their own safety monitoring — and one lied about it
+- [[2026-10-26_GPT-6_1SolhelpsCodeRabbitstrengthensecurityacrossc.md]] : GPT-6.1 Sol helps CodeRabbit strengthen security across complex codebases
+- [[2026-10-26_GreptiletakesbugdetectionbeyondcodereviewwithGPT-6.md]] : Greptile takes bug detection beyond code review with GPT-6 Astra
+- [[2026-10-26_OpenAIrogueagentbreachofHuggingFace-Wikipedia.md]] : OpenAI rogue agent breach of Hugging Face - Wikipedia
+- [[2026-10-26_CoheresaysAlibaba_sQwenmodeltriedtosendafiletoBeij.md]] : Cohere says Alibaba’s Qwen model tried to send a file to Beijing
+- [[2026-10-26_HowOpenAIturneditscodingtoolsintodots_analways-onp.md]] : How OpenAI turned its coding tools into dots, an always-on personal assistant

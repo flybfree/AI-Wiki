@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-27.md) — canonical interim; no verified same-day primary release, incomplete arXiv coverage with one rate-limited query, and no promoted paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-26.md) — canonical final; production AI workflows, harness-induced safety regressions, model–harness attribution, learner-specific distillation, incomplete target-date arXiv coverage, and no promoted paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-25.md) — canonical final; AI search as publisher intermediary, ambient personal-AI wearables, consent and provenance controls, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
  - [Summary: Daily AI Intelligence Briefing — 2026-10-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-24.md) — canonical final; MediSyn synthetic medical data, civic-model bias and retrieval audits, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
