@@ -17407,3 +17407,4 @@ tags: ['wiki']
 ## [2026-10-27 00:49] stage-paper | 2026-10-26_13-33-07Z_Intent_PreservingAdversarialUserSimulationforMulti.md
 ## [2026-10-27 00:49] stage-paper | 2026-10-26_12-16-14Z_RSIV_Harness_ARecursiveSelf_ImprovementHarnessFram.md
 ## [2026-10-27 00:49] stage-paper | 2026-10-26_15-22-15Z_KAPPA_CheckingtheProofsinStatisticsPaperswithLean4.md
+## [2026-10-27 07:03] ingest | 2026-10-27_NvidiabacksIndianstartuphelpingcompaniesrunAImodel.md

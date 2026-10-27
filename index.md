@@ -3392,3 +3392,4 @@ tags: ['wiki']
 - [[2026-10-26_OpenAIrogueagentbreachofHuggingFace-Wikipedia.md]] : OpenAI rogue agent breach of Hugging Face - Wikipedia
 - [[2026-10-26_CoheresaysAlibaba_sQwenmodeltriedtosendafiletoBeij.md]] : Cohere says Alibaba’s Qwen model tried to send a file to Beijing
 - [[2026-10-26_HowOpenAIturneditscodingtoolsintodots_analways-onp.md]] : How OpenAI turned its coding tools into dots, an always-on personal assistant
+- [[2026-10-27_NvidiabacksIndianstartuphelpingcompaniesrunAImodel.md]] : Nvidia backs Indian startup helping companies run AI models with fewer GPUs
