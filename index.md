@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-27.md) — canonical interim; Nvidia/Simplismart inference efficiency, Ndoc auditable workspace, incomplete arXiv coverage, and no promoted paper
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-27.md) — canonical interim; Genie 4 world simulation, production voice agents, inference efficiency, auditable workspaces, complete scout pass, and no promoted paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-26.md) — canonical final; production AI workflows, harness-induced safety regressions, model–harness attribution, learner-specific distillation, incomplete target-date arXiv coverage, and no promoted paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-25.md) — canonical final; AI search as publisher intermediary, ambient personal-AI wearables, consent and provenance controls, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
  - [Summary: Daily AI Intelligence Briefing — 2026-10-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-24.md) — canonical final; MediSyn synthetic medical data, civic-model bias and retrieval audits, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
@@ -3399,3 +3399,4 @@ tags: ['wiki']
 - [[2026-10-27_Disruptiveraises_10Bfundtomakebigbetsonatleast10co.md]] : Disruptive raises $10B fund to make big bets on at least 10 companies
 - [[2026-10-27_GoogleNews-Artificialintelligence-Latest.md]] : Google News - Artificial intelligence - Latest
 - [[2026-10-27_ResearchersaregettingtiredofOpenAIgatekeepingitsbr.md]] : Researchers are getting tired of OpenAI gatekeeping its breakthroughs
+- [[2026-10-27_RetellusesOpenAImodelstohelppower100Mmonthlycalls.md]] : Retell uses OpenAI models to help power 100M monthly calls
