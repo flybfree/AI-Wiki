@@ -1,0 +1,18 @@
+---
+title: How Do Coding-Agent Harnesses Self-Evolve? An Empirical Study of Retrospective Adaptation
+published: 2026-10-26T07:06:31Z
+authors: Christoph Treude, Sebastian Baltes
+url: http://arxiv.org/abs/2610.34938v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# How Do Coding-Agent Harnesses Self-Evolve? An Empirical Study of Retrospective Adaptation
+
+## Abstract
+Coding agents can adapt their harnesses, the software, configuration, and instructions used to run them, based on experience from earlier tasks, but whether these adaptations improve their behavior on later tasks remains unclear. We study \retro, a skill that asks an agent to review a completed session and propose harness changes, and ask what changes it proposes and whether implemented changes reduce repeated work on later tasks. We ran Claude Code on 30 SWE-bench Verified issues, qualitatively coded the 125 proposals from \retro, implemented 24, and evaluated 12 harness changes on later issues from the same repositories in fresh sessions with and without each change. Most proposals referred to an event in the session, but 18 of 43 lint-related proposals recommended a practice regardless of what had happened. Among the seven evaluations in which sessions without the change encountered the targeted problem, two changes eliminated the targeted action, one reduced its occurrence, four showed no reduction, and some changes added work on unrelated issues. Harness self-evolution requires more than generating and implementing changes: it needs ways to establish whether a change helps on later tasks and to revise or remove changes that do not.
+
+## Metadata
+- **Published**: 2026-10-26T07:06:31Z
+- **Authors**: Christoph Treude, Sebastian Baltes
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.34938v1)

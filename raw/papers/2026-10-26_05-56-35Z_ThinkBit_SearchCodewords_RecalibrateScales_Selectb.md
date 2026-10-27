@@ -1,0 +1,18 @@
+---
+title: ThinkBit: Search Codewords, Recalibrate Scales, Select by Reasoning
+published: 2026-10-26T05:56:35Z
+authors: Rhea Sanjay Sukthanker, Pashmina Cameron
+url: http://arxiv.org/abs/2610.34886v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# ThinkBit: Search Codewords, Recalibrate Scales, Select by Reasoning
+
+## Abstract
+Reasoning language models generate thousands of tokens per answer, and generation speed is limited by memory bandwidth, so storing weights in two bits instead of bfloat16 can potentially make inference 8$\times$ cheaper. Two-bit methods are usually judged by perplexity and multiple-choice question-answering accuracy, both of which say little about whether a model can still reason through more difficult problems. We present ThinkBit, a strictly scalar two-bit framework built to preserve reasoning, in which every weight is an integer codeword times a bfloat16 scale shared by a group of weights. We first use a sensitivity metric to assign each layer a ternary, 2-bit, or 3-bit tier to allocate bitwidths optimally among layers. This is followed by a layerwise Gumbel-softmax-based scalar quantization algorithm that searches for optimal codewords block by block. Since a layerwise scheme does not capture how quantized layers interact with each other, we recalibrate scales, with the codewords frozen, using a knowledge-distillation-based loss against the teacher model. We then perform a short quantization-aware training (QAT) stage that lets the model mimic the base model's distribution by reassigning codewords. Finally, a paired reasoning test on training problems selects the final checkpoint between the recalibration stage and the QAT stage. On Qwen3-1.7B at matched size, our recalibrated checkpoint scores 46.7 on MATH-500 against 30.0 for EfficientQAT trained on the same data, and 73.0 after QAT on reasoning traces; at 0.52 GB it is smaller than every published 2-bit GGUF of the model yet more accurate on MATH-500. We show that this framework scales and up to 14B, a 3.74 GB model scores 94.8 on MATH-500, against 97.5 for the 29.5 GB bfloat16 model.
+
+## Metadata
+- **Published**: 2026-10-26T05:56:35Z
+- **Authors**: Rhea Sanjay Sukthanker, Pashmina Cameron
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.34886v1)
