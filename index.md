@@ -3394,3 +3394,8 @@ tags: ['wiki']
 - [[2026-10-26_HowOpenAIturneditscodingtoolsintodots_analways-onp.md]] : How OpenAI turned its coding tools into dots, an always-on personal assistant
 - [[2026-10-27_NvidiabacksIndianstartuphelpingcompaniesrunAImodel.md]] : Nvidia backs Indian startup helping companies run AI models with fewer GPUs
 - [[2026-10-27_MetaAIdirectorRohitPatelleavestotakeonMicrosoftOff.md]] : Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace
+- [[2026-10-27_Anthropic_selaborateplantokeepWallStreetatbay.md]] : Anthropic’s elaborate plan to keep Wall Street at bay
+- [[2026-10-27_Thesleepframework_AnewwayforLLMstoretainknowledgei.md]] : The sleep framework: A new way for LLMs to retain knowledge in continual learning
+- [[2026-10-27_Disruptiveraises_10Bfundtomakebigbetsonatleast10co.md]] : Disruptive raises $10B fund to make big bets on at least 10 companies
+- [[2026-10-27_GoogleNews-Artificialintelligence-Latest.md]] : Google News - Artificial intelligence - Latest
+- [[2026-10-27_ResearchersaregettingtiredofOpenAIgatekeepingitsbr.md]] : Researchers are getting tired of OpenAI gatekeeping its breakthroughs
