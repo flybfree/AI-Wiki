@@ -1,0 +1,18 @@
+---
+title: Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents
+published: 2026-10-27T17:13:05Z
+authors: Pranjal Aggarwal, Sean Welleck
+url: http://arxiv.org/abs/2610.37567v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Gym-Anything-RT: Scaling Real-Time Environments for Vision-Language Agents
+
+## Abstract
+AI agents have made substantial progress in domains where they have a non-trivial amount of time to deliberate between actions, such as mathematics, software engineering, and performing tasks on desktop applications. It is less clear how such models fare in settings that demand real-time interaction, such as playing a video game or operating a physical device. In these settings, the environment state may evolve as the agent is reasoning, or even as the underlying model is performing a forward pass. To gain insight into the real-time interaction capabilities of vision-language agents, we introduce Gym-Anything-RT. Our key idea is to construct visual minigames that demand a portfolio of capabilities required for interactive real-time settings. Gym-Anything-RT uses an agentic pipeline to automatically generate such environments based on a taxonomy of six capabilities required for real-time interaction, including the ability to perceive the environment and act under an evolving environment state. A key feature of Gym-Anything-RT is that it allows for controlled comparison of real-time interaction capabilities: we can run the same minigame in real time, or pause or slow down the environment to relax the requirement for real-time actions. We use Gym-Anything-RT to construct 100 real-time minigames and evaluate AI agents on them. We find large capability gaps in real-time interaction. For example, GPT-6 Astra (xHigh) achieves a pass rate of only 9.0% on the real-time minigames, which rises to 75.0% when the environment is paused. We also identify intriguing behaviors by the most powerful frontier agents: for instance, when given the ability to write code, these agents write code that bypasses the need to perceive and act in real time. We publicly release Gym-Anything-RT and the generated minigames to spur further research on AI agents in real-time interactive settings.
+
+## Metadata
+- **Published**: 2026-10-27T17:13:05Z
+- **Authors**: Pranjal Aggarwal, Sean Welleck
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.37567v1)
