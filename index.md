@@ -3400,3 +3400,4 @@ tags: ['wiki']
 - [[2026-10-27_GoogleNews-Artificialintelligence-Latest.md]] : Google News - Artificial intelligence - Latest
 - [[2026-10-27_ResearchersaregettingtiredofOpenAIgatekeepingitsbr.md]] : Researchers are getting tired of OpenAI gatekeeping its breakthroughs
 - [[2026-10-27_RetellusesOpenAImodelstohelppower100Mmonthlycalls.md]] : Retell uses OpenAI models to help power 100M monthly calls
+- [[2026-10-27_ParentssueOpenAI_allegingGPT-4ocoachedtheirdaughte.md]] : Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication

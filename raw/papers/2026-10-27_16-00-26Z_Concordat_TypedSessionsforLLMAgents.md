@@ -1,0 +1,18 @@
+---
+title: Concordat: Typed Sessions for LLM Agents
+published: 2026-10-27T16:00:26Z
+authors: Milad Sikaroudi
+url: http://arxiv.org/abs/2610.37461v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Concordat: Typed Sessions for LLM Agents
+
+## Abstract
+Agents built on large language models are increasingly allowed to take consequential actions: cancelling bookings, issuing refunds, changing accounts. The rules that govern those actions, such as "obtain the customer's explicit confirmation before changing anything", are usually stated in the prompt and followed only as reliably as the model chooses to follow them. We present Concordat, a Python library that treats an agent as an object whose interface is a finite-state protocol, in the spirit of typestate and session types, and enforces that protocol on the model at run time. On every turn the model is offered only the tools that are legal in the current protocol state, calls outside that set are rejected before they have side effects, decisions reserved for humans can only be requested, and token and tool-call budgets are charged and split linearly across handoffs. Protocols are checked when they are defined, and a subclass of an agent is rejected if it could bypass its parent's protocol, a behavioural form of Liskov substitution. We evaluate a Concordat agent against the standard agent of tau-bench on its 50 airline tasks, adding simulated customers who pressure the agent to skip confirmation. The standard agent made changes without the required "yes" in 13 of 50 tasks with gpt-4.1 and in 29 of 128 task-runs with Claude Haiku 5.5; the Concordat agent made none, with no significant difference in task success. tau-bench's own reward did not detect most of these violations. Concordat is open source.
+
+## Metadata
+- **Published**: 2026-10-27T16:00:26Z
+- **Authors**: Milad Sikaroudi
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.37461v1)

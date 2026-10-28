@@ -1,0 +1,18 @@
+---
+title: Proactive Memory for Event-Driven LLM Agents
+published: 2026-10-27T10:23:50Z
+authors: Jinyang Li, Zichuan Fu, Xian Wu, Wenlin Zhang, Yimin Deng, Kaifeng Guo, Guojing Li, Junjia QI, Xiangyu Zhao
+url: http://arxiv.org/abs/2610.36967v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Proactive Memory for Event-Driven LLM Agents
+
+## Abstract
+Proactive LLM agents anticipate service opportunities from ongoing observations and accumulated history. Existing approaches emphasize recent context or retrieval of related memories, providing limited support for validating recurring behavioral regularities and assessing their applicability to the current event. We propose Proactive Memory (ProactMem), which organizes history into recent events, temporal trajectories, and behavioral regularities. Trajectory facts are checked against source events, and regularities are assessed through historical replay before being matched to current conditions. We also construct ProactiveStream, a longitudinal benchmark covering three application scopes, where agents process isolated event streams chronologically under episode-aware opportunity labels. On ProactiveStream, ProactMem achieves an overall effectiveness (F1) of 52.6%, a 21.4% relative improvement over the strongest of five external baselines. Code is available at: https://anonymous.4open.science/r/ProactMem-5351/.
+
+## Metadata
+- **Published**: 2026-10-27T10:23:50Z
+- **Authors**: Jinyang Li, Zichuan Fu, Xian Wu, Wenlin Zhang, Yimin Deng, Kaifeng Guo, Guojing Li, Junjia QI, Xiangyu Zhao
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.36967v1)

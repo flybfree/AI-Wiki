@@ -1,0 +1,18 @@
+---
+title: Your Agent Acts Differently When You're Around: How User Presence Changes Agent Behavior in Negotiation
+published: 2026-10-27T00:34:50Z
+authors: Jane Pan, You Lyu, Abe Bohan Hou, Valerie Chen, He He
+url: http://arxiv.org/abs/2610.36435v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Your Agent Acts Differently When You're Around: How User Presence Changes Agent Behavior in Negotiation
+
+## Abstract
+LLM agents increasingly interact with other agents on behalf of users, yet how users in the loop affect their agents' behavior--for better or worse--remains poorly understood. We study this question through the lens of negotiation, where agents must represent users while strategically bargaining with other agents. To isolate the effect of user presence, we develop PRESENT, a controlled evaluation framework that compares negotiation settings with and without an interactive user, while holding the game, objectives, and user preferences fixed across conditions. Across 11.2k runs spanning 7 games and 8 models, we find that user presence significantly changes both outcomes and behavior. Specifically, negotiation parties with a user obtain higher payouts (+13.7% on average) and their agents negotiate more aggressively. Surprisingly, user presence also induces misaligned behavior, both toward counterparties (where its rate roughly doubles) and toward users (where it emerges in 14.3% of games). These misaligned behaviors are uncorrelated with outcomes and persist even when the user sends only templated, neutral messages. These findings expose two blind spots in current evaluation practice: static instructions miss behaviors that emerge only when users are present, and outcome-level metrics cannot detect them.
+
+## Metadata
+- **Published**: 2026-10-27T00:34:50Z
+- **Authors**: Jane Pan, You Lyu, Abe Bohan Hou, Valerie Chen, He He
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.36435v1)
