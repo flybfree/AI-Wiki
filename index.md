@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-28.md) — canonical interim; agentic software delivery, compact open-weight multimodal models, cyber capability and governance, AI-assisted proof verification, six curation-kept papers, and arXiv target-date coverage still incomplete
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-28.md) — refreshed canonical interim; Gemini 4 Carbon, agentic delivery, specialist open weights, cyber governance, enterprise AI ROI, science partnerships, six curation-kept papers, and incomplete target-date arXiv coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-27.md) — canonical interim; Genie 4 world simulation, production voice agents, inference efficiency, auditable workspaces, complete scout pass, and no promoted paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-26.md) — canonical final; production AI workflows, harness-induced safety regressions, model–harness attribution, learner-specific distillation, incomplete target-date arXiv coverage, and no promoted paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-25](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-25.md) — canonical final; AI search as publisher intermediary, ambient personal-AI wearables, consent and provenance controls, incomplete target-date arXiv coverage, and no verified same-day primary frontier-model release
@@ -3402,3 +3402,4 @@ tags: ['wiki']
 - [[2026-10-27_ResearchersaregettingtiredofOpenAIgatekeepingitsbr.md]] : Researchers are getting tired of OpenAI gatekeeping its breakthroughs
 - [[2026-10-27_RetellusesOpenAImodelstohelppower100Mmonthlycalls.md]] : Retell uses OpenAI models to help power 100M monthly calls
 - [[2026-10-27_ParentssueOpenAI_allegingGPT-4ocoachedtheirdaughte.md]] : Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
+- [[2026-10-28_Anthropicjustlaunchedtoolstoshowcompanieswhattheir.md]] : Anthropic just launched tools to show companies what their AI spending is buying

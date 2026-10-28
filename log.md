@@ -17484,3 +17484,5 @@ tags: ['wiki']
 ## [2026-10-27 22:52] stage-paper | 2026-10-25_18-00-11Z_EMMA_StructuredEpisodicMemoryforMulti_AgentWorkflo.md
 ## [2026-10-27 22:52] stage-paper | 2026-10-27_17-55-24Z_MetacognitiveDecoding_EfficientInferenceforDiffusi.md
 ## [2026-10-27 22:52] stage-paper | 2026-10-26_20-12-11Z_MARQ_AModular_LLM_AgnosticRequirementQualityAssess.md
+## [2026-10-28 14:36] ingest | 2026-10-28_Anthropicjustlaunchedtoolstoshowcompanieswhattheir.md
+## [2026-10-28 18:00] summarize | refreshed the October 28 AI-only interim briefing after the direct primary-source sweep; added Google's Gemini 4 Carbon staged cyber rollout, OpenAI's ServiceNow expansion and Legora workflow case study, Anthropic enterprise AI-spend analytics and AI-for-science expansion, and Meta's five-university science partnerships; retained GitHub agentic delivery, open-weight specialist models, cyber disclosures/governance, six manual paper keeps, and explicit incomplete October 28 arXiv coverage
