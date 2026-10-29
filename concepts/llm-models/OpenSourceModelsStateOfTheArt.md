@@ -12,9 +12,9 @@ tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "l
 This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-10-28 and adds Qwen3.8-Flash-Next, Liquid AI's LFM3 family, Google's latest open Gemma releases, and NVIDIA's latest Nemotron releases. It distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
 
 ## Semantic links
-- [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-08-27]] — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
-- [[concepts/2026-06-30_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-06-30]] — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
-- [[concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md|AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface]] — 2 title terms overlap, 2 topic terms overlap, same area: home
+- [Foundation Models State of the Art — 2026-08-27](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-07-27_FoundationModelsStateOfTheArt.md) — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
+- [Foundation Models State of the Art — 2026-06-30](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-06-30_FoundationModelsStateOfTheArt.md) — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
+- [AI/ML Foundations Lesson 11 - Large Language Models: The Modern AI Interface](https://github.com/flybfree/AI-Wiki/blob/master/concepts/ai-foundations/ai-ml-foundations-lesson-11-large-language-models-the-modern-ai-interface.md) — 2 title terms overlap, 2 topic terms overlap, same area: home
 
 ## Snapshot
 
@@ -227,6 +227,22 @@ This subsection is for models that matter because they can actually be run, tune
 - LM Studio-style workflows are ideal when you want to compare quantization levels and switch models quickly.
 - The current conversation is less about raw downloadability and more about whether an open model can be made genuinely useful in a local agent loop with retrieval, tools, and serving optimizations.
 
+### Local inference engines and desktop runtimes
+
+A local inference stack runs a large language model (LLM) on hardware you control. An inference engine computes model outputs; an application programming interface (API) lets other software send requests. Desktop products may bundle an engine, API server, model manager, and user interface. These projects overlap, but sit at different layers. “Open-weight” describes model availability; it does not by itself establish that a runtime, model license, or complete training pipeline is open source.
+
+| Project | What it is | Good fit | Trade-offs |
+|---|---|---|---|
+| [LM Studio](https://lmstudio.ai/docs/app) | Desktop model browser/chat app with a local API server; supports llama.cpp/GGUF (a format for quantized model weights) and MLX (Apple's machine-learning framework) on Apple silicon | Trying models and quantizations interactively, then connecting local apps through OpenAI-compatible or Anthropic-compatible endpoints | A polished desktop workflow rather than a general high-throughput serving stack; supported formats and features vary by runtime |
+| [Ollama](https://docs.ollama.com/quickstart) | Local model manager and inference service with command-line interface (CLI), app workflows, and a local API | Quick setup, repeatable model pulls, and simple local development | Its OpenAI-compatible API covers a subset of the upstream API; advanced scheduling and runtime tuning are not its main focus |
+| [llama.cpp](https://github.com/ggml-org/llama.cpp) | Portable C/C++ inference engine and server, especially associated with GGUF quantized models | CPU/GPU hybrid inference (central processing unit plus graphics processing unit) and broad hardware choices, including Apple's Metal, NVIDIA's CUDA (Compute Unified Device Architecture), AMD's HIP (Heterogeneous-compute Interface for Portability), Vulkan, and other supported backends | More direct control means more manual selection of builds, model formats, and runtime parameters |
+| [vLLM](https://docs.vllm.ai/en/latest/) | Inference library and API server designed for efficient LLM serving | GPU-backed services with concurrent users or agents; PagedAttention manages key-value (KV) cache memory efficiently, while continuous batching lets new requests join active work | More deployment and configuration work than desktop tools; check the model, accelerator, and version-specific support matrix |
+| [Strata](https://github.com/Niko1221/Strata) | Specialized local inference engine focused on running large sparse mixture-of-experts (MoE) models across consumer-hardware memory | Exploring large Qwen-family models with local GPU memory supplemented by system RAM and storage; provides a local application API | A newer, narrower project; model, GPU, and operating-system support is specific, and project-reported speed/memory results need testing on the target machine |
+| [NInfer](https://github.com/Neroued/ninfer) | Specialized C++/CUDA engine for selected Qwen checkpoints, with local CLI and OpenAI-/Anthropic-compatible serving APIs | Testing high-performance single-GPU inference and agent-facing serving on supported model/hardware combinations | Deliberately narrower than general runtimes: only selected artifacts and GPU configurations are supported |
+| [Unsloth Desktop](https://unsloth.ai/docs/desktop) | Open-source desktop application (currently beta) for running, fine-tuning, and serving models locally | One GUI workflow for model discovery, local chat, training, and an OpenAI-compatible endpoint across supported desktop platforms | A broader model-workbench app, not a drop-in substitute for every low-level engine or production serving stack; check current model and device support |
+
+For a fuller runtime comparison and selection checklist, see [Local Inference Engines and Serving Stacks](https://github.com/flybfree/AI-Wiki/blob/master/concepts/local-inference/local-inference.md). The main choice is workload: GUI experimentation, simple local APIs, portability and memory control, or concurrent accelerator-backed serving. OpenAI-compatible APIs ease app integration but do not guarantee identical features, tool calling, multimodal support, or request semantics across runtimes.
+
 ## Earlier public discussion (historical)
 
 These discussion notes are retained from earlier 2026 research passes; they are not a fresh social-usage survey.
@@ -245,6 +261,7 @@ These discussion notes are retained from earlier 2026 research passes; they are 
 
 ## Progress log
 
+- **2026-10-28** — Added a practical local-inference runtime section covering LM Studio, Ollama, llama.cpp, vLLM, Strata, NInfer, and Unsloth Desktop; distinguished desktop/model-management tools from serving engines and linked the detailed local-inference hub.
 - **2026-10-28** — Added Qwen3.8-Flash-Next and NVIDIA's NVFP4 conversion; Liquid AI's LFM3 and LFM2.5 families; Google's Gemma 4 12B Unified and EmbeddingGemma 2; and NVIDIA Nemotron 3.5 Super VL, Transcribe, and Granary v2. Corrected the open-weight/license distinctions (Qwen Community License, LFM Open License 1.0, Gemma 4 Apache 2.0, NVIDIA OpenMDW-1.1). Official model cards and release pages were verified; this is a primary-source update rather than a fresh social-usage survey, so no community-derived ranking claims are made.
 - **2026-10-25** — Added both Nemotron 3.5 Bolt variants to the local-model comparison: 74B-A9B 24GB for multimodal tool-using agents and E4B for low-memory text/voice-device assistants; separated vendor memory targets from checkpoint file size and noted OpenMDW-1.1 licensing.
 - **2026-09-28** — Rebuilt the reference section as a discovery-oriented two-tier table: practical sub-32 GB candidates and larger multi-GPU candidates, with separate openness, memory, capability, and discovery-value columns.
@@ -294,10 +311,18 @@ These discussion notes are retained from earlier 2026 research passes; they are 
 - [NVIDIA Nemotron 3.5 Super and Lightning](https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Super-and-Lightning/) · [Super VL NVFP4 model card](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4)
 - [NVIDIA Nemotron 3.5 Transcribe and Granary v2](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary) · [Transcribe model card](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) · [Granary v2 dataset](https://huggingface.co/datasets/nvidia/Granary-v2) · [600M streaming ASR model](https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b)
 - [Gemini 4 Carbon announcement — proprietary, not an open-weight entry](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
-- [LLM Release Tracker](2026-07-10_LLMReleaseTracker.md)
-- [LLM Model Evolution](2026-06-10_LLMModelEvolution.md)
-- [Inference Layer: Quantized Models, GGUF, and Local Use](../self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md)
+- [LLM Release Tracker](https://github.com/flybfree/AI-Wiki/blob/master/concepts/llm-models/2026-07-10_LLMReleaseTracker.md)
+- [LLM Model Evolution](https://github.com/flybfree/AI-Wiki/blob/master/concepts/llm-models/2026-06-10_LLMModelEvolution.md)
+- [Inference Layer: Quantized Models, GGUF, and Local Use](https://github.com/flybfree/AI-Wiki/blob/master/concepts/self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md)
+- [Local Inference Engines and Serving Stacks](https://github.com/flybfree/AI-Wiki/blob/master/concepts/local-inference/local-inference.md)
+- [LM Studio documentation](https://lmstudio.ai/docs/app) · [local server](https://lmstudio.ai/docs/developer/core/server)
+- [Ollama local documentation](https://docs.ollama.com/quickstart)
+- [llama.cpp](https://github.com/ggml-org/llama.cpp)
+- [vLLM documentation](https://docs.vllm.ai/en/latest/)
+- [Strata](https://github.com/Niko1221/Strata)
+- [NInfer](https://github.com/Neroued/ninfer)
+- [Unsloth Desktop documentation](https://unsloth.ai/docs/desktop) · [GitHub](https://github.com/unslothai/unsloth)
 
 ## Related navigation
 
-- [[AI Research Wiki — Topic Index]]
+- [AI Research Wiki — Topic Index](https://github.com/flybfree/AI-Wiki/blob/master/wiki-topic-index-github.md)

@@ -10,7 +10,7 @@ tags: [local-inference, self-hosted, llama-cpp, ollama, vllm, lm-studio, strata,
 
 Local inference is the practice of running model inference on hardware controlled by the user or organization rather than sending every request to a hosted API. The current ecosystem is separating into several layers:
 
-- **Desktop and developer runtimes**: Ollama and LM Studio optimize for setup speed and experimentation.
+- **Desktop and developer runtimes**: Ollama and LM Studio optimize for setup speed and experimentation; Unsloth Desktop combines local model use with training workflows.
 - **Portable low-level runtimes**: llama.cpp provides broad hardware support, GGUF execution, CPU/GPU hybrid inference, and fine-grained memory control.
 - **Production serving engines**: vLLM emphasizes batching, concurrency, and throughput.
 - **Specialized next-generation engines**: Strata focuses on fitting large models across heterogeneous consumer memory, while NInfer focuses on high-performance Qwen serving and agent-oriented APIs.
@@ -27,6 +27,7 @@ The right choice depends on workload, hardware, concurrency, context length, and
 | [vLLM](https://github.com/vllm-project/vllm) | Batching and concurrent serving | Multi-user and multi-agent GPU services | More complex deployment and GPU requirements |
 | [Strata](https://github.com/Niko1221/Strata) | Heterogeneous memory placement | Large local models on consumer hardware | Young project with hardware- and model-specific behavior |
 | [NInfer](https://github.com/Neroued/ninfer) | Specialized serving performance | Qwen workloads, long context, concurrent agent APIs | CUDA-oriented and narrower than general runtimes |
+| [Unsloth Desktop](https://unsloth.ai/docs/desktop) | Local model workbench with run, fine-tune, and serve workflows | Desktop users who want model discovery, local chat, training, and an API endpoint | Beta; broader UI/workbench rather than a low-level serving engine |
 
 ## Strata
 
@@ -75,6 +76,7 @@ The projects solve different bottlenecks:
 - **vLLM** solves high-throughput serving at established production scale.
 - **Strata** attacks the memory-capacity problem by using more of the local memory hierarchy.
 - **NInfer** attacks the serving-performance problem through specialized kernels and concurrency features.
+- **Unsloth Desktop** brings local inference and fine-tuning into a single open-source desktop workflow; it can expose local models through an OpenAI-compatible API.
 
 The emerging pattern is a layered local stack:
 
@@ -98,6 +100,7 @@ GPU VRAM + system RAM + NVMe
 - Choose **vLLM** when multiple users or agents need concurrent GPU serving.
 - Evaluate **Strata** when the main problem is fitting a large model across available consumer memory.
 - Evaluate **NInfer** when the main problem is serving Qwen models efficiently to concurrent agents or applications.
+- Choose **Unsloth Desktop** when you want a GUI that combines local model use with fine-tuning and application/API access.
 
 ## Evaluation Checklist
 
@@ -130,8 +133,11 @@ Do not compare local runtimes using a single tokens-per-second number. Measure:
 - [Strata](https://github.com/Niko1221/Strata)
 - [Strata project site](https://stratat.com/)
 - [NInfer](https://github.com/Neroued/ninfer)
+- [Unsloth Desktop documentation](https://unsloth.ai/docs/desktop)
+- [Unsloth AI GitHub repository](https://github.com/unslothai/unsloth)
 - [Mozilla AI local-server benchmarking](https://blog.mozilla.ai/benchmarking-local-llm-servers-llama-cpp-llamafile-lm-studio-and-ollama/)
 
 ## Revision History
 
+- **2026-10-28**: Added Unsloth Desktop as an open-source local model workbench, distinguishing it from the lower-level engines and serving stacks.
 - **2026-10-11**: Created the local inference hub and added Strata and NInfer as specialized runtime projects.
