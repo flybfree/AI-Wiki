@@ -227,7 +227,9 @@ This subsection is for models that matter because they can actually be run, tune
 - LM Studio-style workflows are ideal when you want to compare quantization levels and switch models quickly.
 - The current conversation is less about raw downloadability and more about whether an open model can be made genuinely useful in a local agent loop with retrieval, tools, and serving optimizations.
 
-## Recent public discussion
+## Earlier public discussion (historical)
+
+These discussion notes are retained from earlier 2026 research passes; they are not a fresh social-usage survey.
 
 - The loudest frontier signal is still Kimi K3: community coverage keeps framing it as an open-weight pressure test against closed frontier models, especially on coding and long-context work. [YouTube coverage](https://www.youtube.com/watch?v=bcyyrnjWSEk)
 - Anthropic’s open-weights position and related HN discussion show the argument has shifted from ideology to deployment policy: what should stay closed, and why. [Anthropic](https://www.anthropic.com/news/position-open-weights-models)
