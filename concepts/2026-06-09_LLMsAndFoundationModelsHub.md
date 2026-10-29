@@ -42,7 +42,7 @@ This hub organizes content related to large language models, their architectures
 
 ## Frontier Open-Weight
 
-- [Open-Source Models State of the Art — 2026-10-25](OpenSourceModelsStateOfTheArt.md)
+- [Open-Source Models State of the Art — 2026-10-28](OpenSourceModelsStateOfTheArt.md)
 - [Summary: Inkling: Our Open-Weights Model](../entities/article/2026-07-27_Inkling_OurOpen-WeightsModel_summary.md)
 - [Summary: Kimi-K3 Releases on HuggingFace 7/27](../entities/article/2026-07-27_Kimi-K3ReleasesonHuggingFace7_27_summary.md)
 - [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/)
