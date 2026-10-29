@@ -3403,3 +3403,4 @@ tags: ['wiki']
 - [[2026-10-27_RetellusesOpenAImodelstohelppower100Mmonthlycalls.md]] : Retell uses OpenAI models to help power 100M monthly calls
 - [[2026-10-27_ParentssueOpenAI_allegingGPT-4ocoachedtheirdaughte.md]] : Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
 - [[2026-10-28_Anthropicjustlaunchedtoolstoshowcompanieswhattheir.md]] : Anthropic just launched tools to show companies what their AI spending is buying
+- [[2026-10-28_OpenAIandServiceNowexpandpartnershipacrossenterpri.md]] : OpenAI and ServiceNow expand partnership across enterprise workflows
