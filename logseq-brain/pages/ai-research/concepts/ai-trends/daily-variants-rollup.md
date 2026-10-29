@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-10-24](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-24.md), covering synthetic medical data, model behavior in civic contexts, AI-ad disclosure, media authenticity, and incomplete target-date arXiv freshness through October 22.
+The latest canonical daily briefing is [2026-10-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-29.md), covering Mistral Large 4 open weights, agent monitoring and impersonation, human agency, sovereign-AI financing, and incomplete target-date paper review.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
@@ -46,6 +46,7 @@ Use this page as the stable landing zone for daily variants:
 4. If a source starts covering a different topic family, split it into a separate concept page.
 
 ## Related Pages
+- [Summary: Daily AI Intelligence Briefing — 2026-10-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-29.md) — canonical interim; Mistral Large 4 open weights, frontier monitoring, agent impersonation, human-agency evidence, sovereign AI funding, and incomplete arXiv review
 - [Summary: Daily AI Intelligence Briefing — 2026-10-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-08.md) — canonical final; generated interfaces, verified cyber access, staged open weights, verifiable task expertise, workforce learning, safety culture, and four curated research papers
 - [Summary: Daily AI Intelligence Briefing — 2026-10-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-07.md) — canonical final; 10 curated research papers and full-stack capability/control analysis
 - [Summary: Daily AI Intelligence Briefing — 2026-09-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-09-28.md) — canonical final; 0 target-date keeps and 0 uncovered carry-forward papers

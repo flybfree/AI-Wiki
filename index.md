@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-10-28
+> Last updated: 2026-10-29
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-29.md) — canonical interim; Mistral Large 4 open weights, agent monitoring and bot impersonation, human-agency evidence, Cohere sovereign-AI financing, and incomplete target-date paper review
  - [Summary: Daily AI Intelligence Briefing — 2026-10-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-28.md) — refreshed canonical interim; Gemini 4 Carbon, agentic delivery, specialist open weights, cyber governance, enterprise AI ROI, science partnerships, six curation-kept papers, and incomplete target-date arXiv coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-27.md) — canonical interim; Genie 4 world simulation, production voice agents, inference efficiency, auditable workspaces, complete scout pass, and no promoted paper
  - [Summary: Daily AI Intelligence Briefing — 2026-10-26](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-26.md) — canonical final; production AI workflows, harness-induced safety regressions, model–harness attribution, learner-specific distillation, incomplete target-date arXiv coverage, and no promoted paper
