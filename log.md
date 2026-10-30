@@ -17487,3 +17487,7 @@ tags: ['wiki']
 ## [2026-10-28 14:36] ingest | 2026-10-28_Anthropicjustlaunchedtoolstoshowcompanieswhattheir.md
 ## [2026-10-28 18:00] summarize | refreshed the October 28 AI-only interim briefing after the direct primary-source sweep; added Google's Gemini 4 Carbon staged cyber rollout, OpenAI's ServiceNow expansion and Legora workflow case study, Anthropic enterprise AI-spend analytics and AI-for-science expansion, and Meta's five-university science partnerships; retained GitHub agentic delivery, open-weight specialist models, cyber disclosures/governance, six manual paper keeps, and explicit incomplete October 28 arXiv coverage
 ## [2026-10-28 21:15] ingest | 2026-10-28_OpenAIandServiceNowexpandpartnershipacrossenterpri.md
+## [2026-10-29 21:16] ingest | 2026-10-29_CoptisunveilsPurple_a_Prompt-to-Formula_AIagentfor.md
+## [2026-10-29 21:16] ingest | 2026-10-29_YoucangenerateandeditGoogleDocsfilesdirectlyinGemi.md
+## [2026-10-29 21:16] ingest | 2026-10-29_AnupdatedModelSpecformorecapableandbeneficialAI.md
+## [2026-10-29 21:16] ingest | 2026-10-29_Youdon_tneedtobelieveinagodtogetareligiousexemptio.md

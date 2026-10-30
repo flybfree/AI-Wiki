@@ -3405,3 +3405,7 @@ tags: ['wiki']
 - [[2026-10-27_ParentssueOpenAI_allegingGPT-4ocoachedtheirdaughte.md]] : Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
 - [[2026-10-28_Anthropicjustlaunchedtoolstoshowcompanieswhattheir.md]] : Anthropic just launched tools to show companies what their AI spending is buying
 - [[2026-10-28_OpenAIandServiceNowexpandpartnershipacrossenterpri.md]] : OpenAI and ServiceNow expand partnership across enterprise workflows
+- [[2026-10-29_CoptisunveilsPurple_a_Prompt-to-Formula_AIagentfor.md]] : Coptis unveils Purple, a “Prompt-to-Formula” AI agent for cosmetic R&D
+- [[2026-10-29_YoucangenerateandeditGoogleDocsfilesdirectlyinGemi.md]] : You can generate and edit Google Docs files directly in Gemini chats now
+- [[2026-10-29_AnupdatedModelSpecformorecapableandbeneficialAI.md]] : An updated Model Spec for more capable and beneficial AI
+- [[2026-10-29_Youdon_tneedtobelieveinagodtogetareligiousexemptio.md]] : You don’t need to believe in a god to get a religious exemption from using AI at work
