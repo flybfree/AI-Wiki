@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-10-29
+> Last updated: 2026-10-31
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -95,6 +95,8 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-31.md) — canonical interim; SenseTime and Microsoft open-weight agent models, Google DeepMind's planning-assistance beta, Apple's China rollout, xAI infrastructure litigation, and unverified paper curation
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-30.md) — canonical interim; shared publisher training preferences, OpenAI safety reporting and copyright advocacy, with research-review gaps
  - [Summary: Daily AI Intelligence Briefing — 2026-10-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-29.md) — canonical interim; Mistral Large 4 open weights, agent monitoring and bot impersonation, human-agency evidence, Cohere sovereign-AI financing, and incomplete target-date paper review
  - [Summary: Daily AI Intelligence Briefing — 2026-10-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-28.md) — refreshed canonical interim; Gemini 4 Carbon, agentic delivery, specialist open weights, cyber governance, enterprise AI ROI, science partnerships, six curation-kept papers, and incomplete target-date arXiv coverage
  - [Summary: Daily AI Intelligence Briefing — 2026-10-27](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-27.md) — canonical interim; Genie 4 world simulation, production voice agents, inference efficiency, auditable workspaces, complete scout pass, and no promoted paper
@@ -3394,3 +3396,20 @@ tags: ['wiki']
 - [[2026-10-26_OpenAIrogueagentbreachofHuggingFace-Wikipedia.md]] : OpenAI rogue agent breach of Hugging Face - Wikipedia
 - [[2026-10-26_CoheresaysAlibaba_sQwenmodeltriedtosendafiletoBeij.md]] : Cohere says Alibaba’s Qwen model tried to send a file to Beijing
 - [[2026-10-26_HowOpenAIturneditscodingtoolsintodots_analways-onp.md]] : How OpenAI turned its coding tools into dots, an always-on personal assistant
+- [[2026-10-27_NvidiabacksIndianstartuphelpingcompaniesrunAImodel.md]] : Nvidia backs Indian startup helping companies run AI models with fewer GPUs
+- [[2026-10-27_MetaAIdirectorRohitPatelleavestotakeonMicrosoftOff.md]] : Meta AI director Rohit Patel leaves to take on Microsoft Office and Google Workspace
+- [[2026-10-27_Anthropic_selaborateplantokeepWallStreetatbay.md]] : Anthropic’s elaborate plan to keep Wall Street at bay
+- [[2026-10-27_Thesleepframework_AnewwayforLLMstoretainknowledgei.md]] : The sleep framework: A new way for LLMs to retain knowledge in continual learning
+- [[2026-10-27_Disruptiveraises_10Bfundtomakebigbetsonatleast10co.md]] : Disruptive raises $10B fund to make big bets on at least 10 companies
+- [[2026-10-27_GoogleNews-Artificialintelligence-Latest.md]] : Google News - Artificial intelligence - Latest
+- [[2026-10-27_ResearchersaregettingtiredofOpenAIgatekeepingitsbr.md]] : Researchers are getting tired of OpenAI gatekeeping its breakthroughs
+- [[2026-10-27_RetellusesOpenAImodelstohelppower100Mmonthlycalls.md]] : Retell uses OpenAI models to help power 100M monthly calls
+- [[2026-10-27_ParentssueOpenAI_allegingGPT-4ocoachedtheirdaughte.md]] : Parents sue OpenAI, alleging GPT-4o coached their daughter off seizure medication
+- [[2026-10-28_Anthropicjustlaunchedtoolstoshowcompanieswhattheir.md]] : Anthropic just launched tools to show companies what their AI spending is buying
+- [[2026-10-28_OpenAIandServiceNowexpandpartnershipacrossenterpri.md]] : OpenAI and ServiceNow expand partnership across enterprise workflows
+- [[2026-10-29_CoptisunveilsPurple_a_Prompt-to-Formula_AIagentfor.md]] : Coptis unveils Purple, a “Prompt-to-Formula” AI agent for cosmetic R&D
+- [[2026-10-29_YoucangenerateandeditGoogleDocsfilesdirectlyinGemi.md]] : You can generate and edit Google Docs files directly in Gemini chats now
+- [[2026-10-29_AnupdatedModelSpecformorecapableandbeneficialAI.md]] : An updated Model Spec for more capable and beneficial AI
+- [[2026-10-29_Youdon_tneedtobelieveinagodtogetareligiousexemptio.md]] : You don’t need to believe in a god to get a religious exemption from using AI at work
+- [[2026-10-30_R_Dfocusmeeting__IndiahasmoreconsumerAIstartupstha.md]] : R&D focus meeting: 'India has more consumer AI startups than US' - DT Next
+- [[2026-10-30_AppleIntelligenceisfinallycomingtoChinawithiOS27_3.md]] : Apple Intelligence is finally coming to China with iOS 27.3
