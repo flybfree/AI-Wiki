@@ -17491,3 +17491,5 @@ tags: ['wiki']
 ## [2026-10-29 21:16] ingest | 2026-10-29_YoucangenerateandeditGoogleDocsfilesdirectlyinGemi.md
 ## [2026-10-29 21:16] ingest | 2026-10-29_AnupdatedModelSpecformorecapableandbeneficialAI.md
 ## [2026-10-29 21:16] ingest | 2026-10-29_Youdon_tneedtobelieveinagodtogetareligiousexemptio.md
+## [2026-10-30 21:11] ingest | 2026-10-30_R_Dfocusmeeting__IndiahasmoreconsumerAIstartupstha.md
+## [2026-10-30 21:11] ingest | 2026-10-30_AppleIntelligenceisfinallycomingtoChinawithiOS27_3.md

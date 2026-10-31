@@ -3409,3 +3409,5 @@ tags: ['wiki']
 - [[2026-10-29_YoucangenerateandeditGoogleDocsfilesdirectlyinGemi.md]] : You can generate and edit Google Docs files directly in Gemini chats now
 - [[2026-10-29_AnupdatedModelSpecformorecapableandbeneficialAI.md]] : An updated Model Spec for more capable and beneficial AI
 - [[2026-10-29_Youdon_tneedtobelieveinagodtogetareligiousexemptio.md]] : You don’t need to believe in a god to get a religious exemption from using AI at work
+- [[2026-10-30_R_Dfocusmeeting__IndiahasmoreconsumerAIstartupstha.md]] : R&D focus meeting: 'India has more consumer AI startups than US' - DT Next
+- [[2026-10-30_AppleIntelligenceisfinallycomingtoChinawithiOS27_3.md]] : Apple Intelligence is finally coming to China with iOS 27.3
