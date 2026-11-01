@@ -60,13 +60,14 @@ similarity:
   minimum_rejected_examples: 5
   use_for_acceptance: false
 
-# The learned profile filters only high-confidence mismatches. Candidates in the
-# borderline band remain visible for manual review.
+# Only show sufficiently strong learned-fit candidates in the pending queue.
+# Lower-fit summaries stay in pending/papers and can be restored by lowering the threshold.
 learned_profile:
   enabled: true
   minimum_reviewed: 50
   reject_floor: 0.20
   manual_review_floor: 0.35
+  minimum_queue_fit: 0.65
 
 auto_keep:
   enabled: true

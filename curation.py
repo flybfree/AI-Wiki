@@ -17,6 +17,7 @@ DB_PATH = STATE_DIR / "review.sqlite3"
 MIN_REVIEW_SCORE = 0.60
 DEFAULT_PROFILE_REVIEW_FLOOR = 0.35
 DEFAULT_PROFILE_REJECT_FLOOR = 0.20
+DEFAULT_PROFILE_MINIMUM_QUEUE_FIT = 0.65
 CURATION_CONFIG_PATH = ROOT / "curation_config.yaml"
 DEFAULT_AUTO_KEEP_SCORE = 0.85
 
@@ -169,7 +170,29 @@ def _frontmatter(text: str) -> dict[str, Any]:
         value = yaml.safe_load(text[4:end])
         return value if isinstance(value, dict) else {}
     except Exception:
-        return {}
+        value: dict[str, Any] = {}
+        for line in text[4:end].splitlines():
+            if not line.strip() or line.lstrip().startswith("#") or line[:1].isspace():
+                continue
+            key, separator, raw = line.partition(":")
+            if not separator or not re.fullmatch(r"[A-Za-z_][A-Za-z0-9_-]*", key.strip()):
+                continue
+            raw = raw.strip()
+            if raw.startswith("[") and raw.endswith("]"):
+                value[key.strip()] = [
+                    part.strip().strip("\\\"'")
+                    for part in raw[1:-1].split(",")
+                    if part.strip()
+                ]
+            elif len(raw) >= 2 and raw[0] == raw[-1] and raw[0] in "\\\"'":
+                value[key.strip()] = raw[1:-1]
+            elif raw.lower() in {"null", "~"}:
+                value[key.strip()] = None
+            elif raw.lower() in {"true", "false"}:
+                value[key.strip()] = raw.lower() == "true"
+            else:
+                value[key.strip()] = raw
+        return value
 
 
 def _body(text: str) -> str:
@@ -496,7 +519,7 @@ def auto_keep_summary(path: str) -> dict[str, Any] | None:
 
 
 def _profile_gate_config() -> dict[str, Any]:
-    """Load learned-profile thresholds while keeping borderline items reviewable."""
+    """Load learned-profile thresholds, including the pending-queue fit floor."""
     section = _policy().get("learned_profile", {})
     if not isinstance(section, dict):
         section = {}
@@ -512,11 +535,38 @@ def _profile_gate_config() -> dict[str, Any]:
         reject_floor = float(section.get("reject_floor", DEFAULT_PROFILE_REJECT_FLOOR))
     except (TypeError, ValueError):
         reject_floor = DEFAULT_PROFILE_REJECT_FLOOR
+
+    raw_minimum_fit = section.get("minimum_queue_fit")
+    if raw_minimum_fit is None:
+        # The review app can run without PyYAML; still honor this simple scalar.
+        try:
+            in_learned_profile = False
+            for line in CURATION_CONFIG_PATH.read_text().splitlines():
+                if not line.strip() or line.lstrip().startswith("#"):
+                    continue
+                if not line[0].isspace():
+                    in_learned_profile = line.strip() == "learned_profile:"
+                    continue
+                if in_learned_profile:
+                    match = re.match(r"\s+minimum_queue_fit:\s*([^\s#]+)", line)
+                    if match:
+                        raw_minimum_fit = match.group(1)
+                        break
+        except OSError:
+            pass
+    try:
+        minimum_queue_fit = float(
+            raw_minimum_fit if raw_minimum_fit is not None else DEFAULT_PROFILE_MINIMUM_QUEUE_FIT
+        )
+    except (TypeError, ValueError):
+        minimum_queue_fit = DEFAULT_PROFILE_MINIMUM_QUEUE_FIT
+
     return {
         "enabled": bool(section.get("enabled", True)),
         "minimum_reviewed": min_reviewed,
         "manual_review_floor": max(0.0, min(1.0, review_floor)),
         "reject_floor": max(0.0, min(1.0, reject_floor)),
+        "minimum_queue_fit": max(0.0, min(1.0, minimum_queue_fit)),
     }
 
 
@@ -557,6 +607,9 @@ def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -
             )
             if profile_active and item["score"] < profile_gate["reject_floor"]:
                 # High-confidence profile mismatches stay out of the queue.
+                continue
+            if profile_active and item["score"] < profile_gate["minimum_queue_fit"]:
+                # Defer low-fit items without deleting their source summaries.
                 continue
             if profile_active and item["score"] < profile_gate["manual_review_floor"]:
                 # Borderline candidates remain visible for manual judgment.
