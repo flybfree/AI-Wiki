@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-10-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-31.md), an interim AI-only update on open-weight agent models, public-sector planning assistance, Apple's China rollout, xAI infrastructure litigation, and unresolved paper curation.
+The latest canonical daily briefing is [2026-10-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-31.md), a final AI-only update on three October 30 open-weight releases; public-sector and lab workflows; programmable AI hardware; Apple's China rollout; Anthropic's agent-driven safety red-team; publisher training controls; Google's orbital TPU milestone; and the xAI infrastructure case. Paper curation remains unresolved because the local decision store and review API were unavailable.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
@@ -46,7 +46,7 @@ Use this page as the stable landing zone for daily variants:
 4. If a source starts covering a different topic family, split it into a separate concept page.
 
 ## Related Pages
-- [Summary: Daily AI Intelligence Briefing — 2026-10-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-31.md) — canonical interim; open-weight computer-use models, public-sector AI beta, regionalized product rollout, compute permitting, and unverified paper curation
+- [Summary: Daily AI Intelligence Briefing — 2026-10-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-31.md) — canonical final for verified coverage; open-weight agent models, PlanAssist, AI-assisted lab work, AI hardware, Apple/Qwen localization, automated red-teaming, publisher controls, orbital compute, and unresolved paper curation
 - [Summary: Daily AI Intelligence Briefing — 2026-10-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-30.md) — canonical interim; shared publisher training preferences, OpenAI safety reporting and copyright advocacy, with research-review gaps
 - [Summary: Daily AI Intelligence Briefing — 2026-10-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-29.md) — canonical interim; Mistral Large 4 open weights, frontier monitoring, agent impersonation, human-agency evidence, sovereign AI funding, and incomplete arXiv review
 - [Summary: Daily AI Intelligence Briefing — 2026-10-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-08.md) — canonical final; generated interfaces, verified cyber access, staged open weights, verifiable task expertise, workforce learning, safety culture, and four curated research papers

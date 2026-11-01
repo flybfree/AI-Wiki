@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-10-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-31.md) — canonical interim; SenseTime and Microsoft open-weight agent models, Google DeepMind's planning-assistance beta, Apple's China rollout, xAI infrastructure litigation, and unverified paper curation
+ - [Summary: Daily AI Intelligence Briefing — 2026-10-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-31.md) — canonical final for verified coverage; seven themes spanning open-weight models, public workflows, AI hardware, localized rollout, automated safety red-teaming, publisher controls, orbital compute, and infrastructure litigation; paper curation unavailable
  - [Summary: Daily AI Intelligence Briefing — 2026-10-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-30.md) — canonical interim; shared publisher training preferences, OpenAI safety reporting and copyright advocacy, with research-review gaps
  - [Summary: Daily AI Intelligence Briefing — 2026-10-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-29.md) — canonical interim; Mistral Large 4 open weights, agent monitoring and bot impersonation, human-agency evidence, Cohere sovereign-AI financing, and incomplete target-date paper review
  - [Summary: Daily AI Intelligence Briefing — 2026-10-28](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-28.md) — refreshed canonical interim; Gemini 4 Carbon, agentic delivery, specialist open weights, cyber governance, enterprise AI ROI, science partnerships, six curation-kept papers, and incomplete target-date arXiv coverage
@@ -3413,3 +3413,5 @@ tags: ['wiki']
 - [[2026-10-29_Youdon_tneedtobelieveinagodtogetareligiousexemptio.md]] : You don’t need to believe in a god to get a religious exemption from using AI at work
 - [[2026-10-30_R_Dfocusmeeting__IndiahasmoreconsumerAIstartupstha.md]] : R&D focus meeting: 'India has more consumer AI startups than US' - DT Next
 - [[2026-10-30_AppleIntelligenceisfinallycomingtoChinawithiOS27_3.md]] : Apple Intelligence is finally coming to China with iOS 27.3
+- [[2026-10-31_TheSmartestPeopleinAIBelieveThisIstheWorld_sMostIm.md]] : The Smartest People in AI Believe This Is the World's Most Important Chart - WSJ
+- [[2026-10-31_IbuiltanAITamagotchibeforeMetacould.md]] : I built an AI Tamagotchi before Meta could

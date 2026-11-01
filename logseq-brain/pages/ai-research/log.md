@@ -5,7 +5,15 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-11-01 01:15] finalize | finalized the October 31 AI-only briefing with seven analytical themes; added Anthropic's automated subtle-emergent-misalignment research, Google's Project Suncatcher orbital-TPU milestone, and the WIRED-reported Exin mouse experiment with human-supervision caveats; verified October 30 dates for Mage-VL-Cowork, SenseNova-Loop, and Clover, and added Microsoft/Google/OpenAI primary support details for publisher controls; removed uncurated arXiv leads; curation SQLite query was locked and review API returned HTTP 500 then timed out, so 0 confirmed papers are included but the kept-paper and carry-forward set remains unknown; release coverage checker flagged 13 pre-October watchlist items because it does not filter by release date; GitHub push blocked pending Rich's review; mirrors byte-identical; Lumistorm post 238 published at https://lumistorm.net/daily-ai-intelligence-2026-10-31/ with authenticated REST readback, cache-busted live page, and /blog/ archive checks passed
+
+## [2026-10-31 18:00] summarize | created the canonical interim October 31 AI-only briefing from the October 30 local captures and a targeted lab/news/model/policy/arXiv sweep; included Microsoft's Mage-VL-Cowork and SenseTime's SenseNova-Loop-9B-Preview, Google DeepMind's PlanAssist public-sector beta, Apple's China rollout, and the xAI Colossus permitting case; deferred three arXiv preprints because page-level curation is unavailable; no October 31 local article batch or scout log, latest scout ends October 27, and the review database is locked, so research coverage and kept-paper reconciliation remain incomplete; Logseq mirrors synchronized; GitHub commit and push verification required
+
+## [2026-10-28 12:03] summarize | created the canonical interim October 28 AI-only briefing from the local corpus, direct lab/news/security/governance sweep, and AI Universe Explorer discovery; synthesized GitHub's agentic delivery releases, NVIDIA Nemotron 3.5 Transcribe, Liquid AI LFM3, Anthropic's new exploit research and California policy letter, Cohere's attributed Qwen sandbox finding, the Cloudflare/SGLang cache incident, and recent AI-assisted proof claims; included all six papers manually kept in the October 28 CDT page review with canonical arXiv links; latest scout completed 14 query families across 33 pages and 2,300 entries with zero incomplete queries but newest records stop at October 27 17:59 UTC, so no October 28 arXiv paper is claimed; source summaries repaired with original-paper URLs; Logseq synchronization and GitHub push verification follow
+
 ## [2026-10-27 18:01] summarize | refreshed the canonical interim October 27 AI-only briefing with Google DeepMind's Genie 4 world-simulation announcement and OpenAI's Retell production voice-agent case study; retained Nvidia/Simplismart inference efficiency and Ndoc auditable workspace; latest arXiv scout completed 14 query families across 26 pages and 1,700 entries with zero incomplete queries, but newest records stop at October 26 and page-level curation remains incomplete, so no paper was promoted; Logseq mirror synchronized
+
+## [2026-10-27 12:02] summarize | refreshed the canonical interim October 27 AI-only briefing with target-date TechCrunch coverage of Nvidia/Simplismart inference efficiency and former Meta AI director Rohit Patel's Ndoc auditable workspace; direct major-lab sweep still found no verified same-day primary frontier-model release or safety disclosure; latest arXiv scout reports 14 query families, 27 pages, 1,850 entries, and a `topic-benchmark` HTTP 429 with newest records stopping at October 26; PatentAgentBench and 24 other generated summaries remain pending page-level curation, no paper was promoted, and Logseq mirrors were synchronized
 
 ## [2026-10-27 06:01] summarize | created the canonical interim October 27 AI-only briefing; direct major-lab sweep found no verified same-day primary frontier-model release or safety incident; latest arXiv scout covered 14 query families, 27 pages, and 1,850 entries but `topic-self-improvement` was rate-limited (HTTP 429) and newest records stop at October 26; 25 generated paper-summary artifacts remain pending page-level curation, paper processing reports 10 errors, no paper was promoted, and target-date research coverage remains incomplete; Logseq mirrors synchronized
 
@@ -17409,3 +17417,85 @@ tags: ['wiki']
 ## [2026-10-27 00:49] stage-paper | 2026-10-26_13-33-07Z_Intent_PreservingAdversarialUserSimulationforMulti.md
 ## [2026-10-27 00:49] stage-paper | 2026-10-26_12-16-14Z_RSIV_Harness_ARecursiveSelf_ImprovementHarnessFram.md
 ## [2026-10-27 00:49] stage-paper | 2026-10-26_15-22-15Z_KAPPA_CheckingtheProofsinStatisticsPaperswithLean4.md
+## [2026-10-27 07:03] ingest | 2026-10-27_NvidiabacksIndianstartuphelpingcompaniesrunAImodel.md
+## [2026-10-27 10:03] ingest | 2026-10-27_MetaAIdirectorRohitPatelleavestotakeonMicrosoftOff.md
+## [2026-10-27 12:09] stage-paper | 2026-10-26_08-44-25Z_PatentAgentBench_BenchmarkingLLMAgentswithProfessi.md
+## [2026-10-27 12:09] ingest | 2026-10-27_Anthropic_selaborateplantokeepWallStreetatbay.md
+## [2026-10-27 12:55] ingest | 2026-10-27_Thesleepframework_AnewwayforLLMstoretainknowledgei.md
+## [2026-10-27 14:56] ingest | 2026-10-27_Disruptiveraises_10Bfundtomakebigbetsonatleast10co.md
+## [2026-10-27 15:56] ingest | 2026-10-27_GoogleNews-Artificialintelligence-Latest.md
+## [2026-10-27 15:56] ingest | 2026-10-27_ResearchersaregettingtiredofOpenAIgatekeepingitsbr.md
+## [2026-10-27 17:57] ingest | 2026-10-27_RetellusesOpenAImodelstohelppower100Mmonthlycalls.md
+## [2026-10-27 18:56] ingest | 2026-10-27_ParentssueOpenAI_allegingGPT-4ocoachedtheirdaughte.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_01-25-26Z_CoHARL_Co_EvolvingAgentPoliciesandExecutableHarnes.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_23-40-10Z_kw_bench_BreakingFrontierHarnessesonReal_WorldTask.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_07-41-40Z_BatchingtheReflectiveOptimizationLoop_ParallelProp.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_20-08-18Z_AgentorHuman_DetectingCommitsbyAICodingAgentsinthe.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_18-03-34Z_TheTrinity_Capability_DrivenRecursiveSelf_Improvem.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_18-53-17Z_ReplicationorCorroboration_AnAxiomaticFrameworkfor.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_01-42-35Z_CogArena_BenchmarkingMultimodalAgentsonInteractive.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_01-26-53Z_WhentoIntervene_AnEmpiricalStudyofErrorsandSelf_Re.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_03-41-55Z_BenchmarkingLLMAgentsforBehaviorallyAdequateTestGe.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_10-06-26Z_BeyondQASecClaw_AgentScaling_VerifierFeedback_andE.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_07-28-08Z_CanLLMsReliablyGradeOlympiadProofs_AStudyofMathema.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_10-10-11Z_Self_KeyedIn_ParameterMemorizationforExternalMemor.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_00-34-50Z_YourAgentActsDifferentlyWhenYou_reAround_HowUserPr.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_03-47-47Z_InfraDev_CanCodingAgentsDevelopAIInfrastructure_an.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_18-20-24Z_Log_To_Leak_PromptInjectionAttacksonTool_UsingLLMA.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_11-53-58Z_LettheGateDecide_Per_LookupPrecisionforQuantizedCo.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_18-25-42Z_ContextIsaPipeline_NotaWindow_InformationAttrition.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_00-59-54Z_CorrectionorManipulation_MeasuringEpistemicVigilan.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_06-26-06Z_IsTokenConfidenceJustChainLength_ASignal_Processin.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_22-19-37Z_WAKMan_WorkloadAwareKVCacheManager.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_17-20-31Z_DoCodingAgentsStillNeedaDebugger_Frontier_Model_Ba.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_05-24-34Z_TheViewfromNowhere_Population_CenteredAgentEvoluti.md
+## [2026-10-27 21:12] stage-paper | 2026-10-27_08-46-21Z_EvolvingAgentTeams.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_11-04-55Z_GenerationandVerification_Human_AgentCollaboration.md
+## [2026-10-27 21:12] stage-paper | 2026-10-26_18-53-45Z_Stratum_RepositoryMemoryforCodingAgentsBeyondtheCo.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_15-45-50Z_FeatureArc_BenchmarkingCodingAgentsonEvolvingFeatu.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_17-56-46Z_ScalingLawsforTool_UseAgentsviaControllableEnviron.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_13-52-25Z_YourPolicyIsSecretlyaHarness_TheDecisionGeometryof.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_17-58-11Z_GEPA_Curator_CuratedLearningforSelfImprovingAgents.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_10-23-50Z_ProactiveMemoryforEvent_DrivenLLMAgents.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_16-00-26Z_Concordat_TypedSessionsforLLMAgents.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_16-11-04Z_Teachreality_notethics_adrop_incontinued_pretraini.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_10-33-06Z_AutoVend_BenchmarkingLLMAgentsonLong_HorizonAutono.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_11-34-03Z_HierarchicalLow_RankReparameterizationforParameter.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_17-15-54Z_TeamGym_AGymforTeamDecision_MakingbyAIAgentswithDi.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_17-13-05Z_Gym_Anything_RT_ScalingReal_TimeEnvironmentsforVis.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_16-09-25Z_FromInteractiontoCapability_TaskAdvancementasState.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_15-20-37Z_ClearingtheFoG_TrainingKGAgentstoRetrievetheEviden.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_15-22-00Z_ConstrainingtheCommitBoundary_ADIO_ODI_InformedAut.md
+## [2026-10-27 22:04] stage-paper | 2026-10-27_13-59-34Z_WatermarkBasins_Black_BoxDetectionofDistilledLLMs.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_13-33-23Z_Spine_CompilingSubtaskTreesintoStructuredContextfo.md
+
+## [2026-10-27 22:52] stage-paper | 2026-10-26_19-39-00Z_BaseModelsCanDetectHiddenIntentionsthatPromptedCla.md
+## [2026-10-27 22:52] stage-paper | 2026-10-26_10-19-14Z_UnityBench_Mini3D_EvaluatingLLMAgentsfor3DGameDeve.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_13-21-09Z_DoesYourGeneralistSkillOptimizerReallyIncentivizeA.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_02-22-37Z_FoldingAttentionBiasesintoKeysMakesCompactedKVCach.md
+## [2026-10-27 22:52] stage-paper | 2026-10-26_16-29-40Z_CIVER_CausalInterventionVerificationforReliableCod.md
+## [2026-10-27 22:52] stage-paper | 2026-10-25_11-07-24Z_h1_ATasteoftheBitterLessoninAutomatedTheoremProvin.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_10-11-04Z_DCKV_LearnedTransformCodingofthePromptKVCacheinHyb.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_08-08-06Z_PersonalityLatents_ConditioningFrozenLanguageModel.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_17-15-15Z_LCM_Promo_AnLLM_BasedUpliftModelforPromotionAlloca.md
+## [2026-10-27 22:52] stage-paper | 2026-10-26_23-53-23Z_VerifiableEfficiencyLimitsofInnateLLMPlanninginSli.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_15-17-04Z_Game_TheoreticSolverswithBayesianOpponentModelinga.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_02-17-13Z_MedConstBench_BenchmarkingHowConstitutionsSteerLLM.md
+## [2026-10-27 22:52] stage-paper | 2026-10-26_19-22-38Z_SkillDreaming_EvolvingRepositorySkillsthroughPullR.md
+## [2026-10-27 22:52] stage-paper | 2026-10-26_12-04-46Z_PROBE_FrontierCodingAgentsFindDifferentBugsThanMai.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_09-30-35Z_PREEN_Exemplar_BasedColorStyleTransferwithSmartpho.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_15-42-20Z_WhenVisualEvidenceIsInsufficient_HowInstructions_P.md
+## [2026-10-27 22:52] stage-paper | 2026-10-25_18-00-11Z_EMMA_StructuredEpisodicMemoryforMulti_AgentWorkflo.md
+## [2026-10-27 22:52] stage-paper | 2026-10-27_17-55-24Z_MetacognitiveDecoding_EfficientInferenceforDiffusi.md
+## [2026-10-27 22:52] stage-paper | 2026-10-26_20-12-11Z_MARQ_AModular_LLM_AgnosticRequirementQualityAssess.md
+## [2026-10-28 14:36] ingest | 2026-10-28_Anthropicjustlaunchedtoolstoshowcompanieswhattheir.md
+## [2026-10-28 18:00] summarize | refreshed the October 28 AI-only interim briefing after the direct primary-source sweep; added Google's Gemini 4 Carbon staged cyber rollout, OpenAI's ServiceNow expansion and Legora workflow case study, Anthropic enterprise AI-spend analytics and AI-for-science expansion, and Meta's five-university science partnerships; retained GitHub agentic delivery, open-weight specialist models, cyber disclosures/governance, six manual paper keeps, and explicit incomplete October 28 arXiv coverage
+## [2026-10-28 21:15] ingest | 2026-10-28_OpenAIandServiceNowexpandpartnershipacrossenterpri.md
+## [2026-10-29 21:16] ingest | 2026-10-29_CoptisunveilsPurple_a_Prompt-to-Formula_AIagentfor.md
+## [2026-10-29 21:16] ingest | 2026-10-29_YoucangenerateandeditGoogleDocsfilesdirectlyinGemi.md
+## [2026-10-29 21:16] ingest | 2026-10-29_AnupdatedModelSpecformorecapableandbeneficialAI.md
+## [2026-10-29 21:16] ingest | 2026-10-29_Youdon_tneedtobelieveinagodtogetareligiousexemptio.md
+## [2026-10-30 21:11] ingest | 2026-10-30_R_Dfocusmeeting__IndiahasmoreconsumerAIstartupstha.md
+## [2026-10-30 21:11] ingest | 2026-10-30_AppleIntelligenceisfinallycomingtoChinawithiOS27_3.md
+## [2026-10-31 21:07] ingest | 2026-10-31_TheSmartestPeopleinAIBelieveThisIstheWorld_sMostIm.md
+## [2026-10-31 21:07] ingest | 2026-10-31_IbuiltanAITamagotchibeforeMetacould.md
