@@ -1,0 +1,18 @@
+---
+title: InferD: A Honeypot Framework for AI Inference Infrastructure
+published: 2026-10-29T10:50:51Z
+authors: Hicham Hammouchi, Gabriele Lenzini
+url: http://arxiv.org/abs/2610.39807v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# InferD: A Honeypot Framework for AI Inference Infrastructure
+
+## Abstract
+Large language model serving stacks, commercial inference APIs, vector databases, and agent orchestration gateways are now ex- posed on the public internet and indexed by commodity scanners within hours of deployment. The threat characteristics of this sur- face are only beginning to be measured, and the honeypot frame- works that could measure it were designed for conventional net- work services rather than for AI infrastructure. In fact, emulating an AI service is a distinct deception problem: the observable behavior of the service, including model inventories, token formats, tool-call protocols, and authorization flows, must be reproduced faithfully, while the underlying computation, model inference and tool ex- ecution, must never occur. We present InferD, a low-interaction honeypot framework organized around a single principle we call deception without inference: every request an adversary can observe is answered from static response pools, and nothing an adversary submits is ever executed. InferD decomposes the emulation into four deception planes, transport, service protocol, vulnerability surface, and agentic session, adds a provenance plane that links a planted credential to evidence of downstream model-mediated processing.
+
+## Metadata
+- **Published**: 2026-10-29T10:50:51Z
+- **Authors**: Hicham Hammouchi, Gabriele Lenzini
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.39807v1)

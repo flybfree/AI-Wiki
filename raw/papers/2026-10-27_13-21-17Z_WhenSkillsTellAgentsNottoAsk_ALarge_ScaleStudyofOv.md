@@ -1,0 +1,18 @@
+---
+title: When Skills Tell Agents Not to Ask: A Large-Scale Study of Oversight Directives in Agent Skills
+published: 2026-10-27T13:21:17Z
+authors: Timofey Sanko, Yuan Tian
+url: http://arxiv.org/abs/2610.37734v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# When Skills Tell Agents Not to Ask: A Large-Scale Study of Oversight Directives in Agent Skills
+
+## Abstract
+Agent skills, reusable instruction packages centred on a SKILL.md file, extend AI agents on demand, and a single line in a widely copied skill reaches every agent that loads it. Some lines are oversight-loosening directives: they tell the agent to proceed without approval, to bypass checks with --no-verify, or to keep working without checking in. Although such directives can remove a checkpoint from every agent that loads them, no prior work has examined them. We present the first large-scale study of oversight-loosening directives, analyzing 1.53 million English skills from GitSkills. We split skills into units (sentences, bullets, table cells, and code lines), develop a codebook that labels oversight directives by polarity, mechanism, and scope, label 2,097 units by hand, and train a detector to scale the analysis. Our results show that about one in seventeen skills (about 88,000 skills) contains a loosening directive. These directives most often loosen oversight through permission flags, and most of them (70.1%) apply unconditionally rather than only in specific contexts such as CI. Compared with skills that have the same amount of oversight language, skills that run shell code, install packages, or use sudo have 1.7-1.8 times the odds of containing a loosening directive, an association that holds across all our robustness checks, and they do not compensate with more tightening. Loosening spreads through a few upstream skills rather than through edits by their adopters: 2.4% of the skill families that carry loosening account for half of all copies of loosening-carrying skills, and 1.1% of distinct loosening units for half of all loosening occurrences. Open-source skill scanners catch at most 46% of loosening directives, with a precision below 0.4, while the LLM behind them, prompted with our codebook instead, catches 61% at a precision of 0.71.
+
+## Metadata
+- **Published**: 2026-10-27T13:21:17Z
+- **Authors**: Timofey Sanko, Yuan Tian
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2610.37734v1)
