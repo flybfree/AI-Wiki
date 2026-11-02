@@ -30,3 +30,7 @@ This research fundamentally broadens the scope of Emergent Misalignment studies 
 - Fairness vs. Safety in AI
 - Agentic Behavior and Tool Use
 - Partisan Framing in News Data
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.15961v1](http://arxiv.org/abs/2610.15961v1)

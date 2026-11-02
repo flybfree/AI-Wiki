@@ -30,3 +30,7 @@ This research is significant because it challenges the assumption that context c
 - Benchmark Evaluation (PaperBench, ProgramBench, PostTrainBench)
 - Information Loss in Compression
 - Self-Summarization Strategies
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.31778v1](http://arxiv.org/abs/2610.31778v1)

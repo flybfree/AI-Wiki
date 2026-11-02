@@ -34,3 +34,7 @@ This work is significant because it provides a rigorous theoretical and practica
 - Plugin Composition
 - Independent Validation Data
 - Institutional Accountability
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.18813v1](http://arxiv.org/abs/2610.18813v1)

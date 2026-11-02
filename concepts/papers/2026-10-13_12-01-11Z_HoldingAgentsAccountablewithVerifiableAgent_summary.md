@@ -32,3 +32,7 @@ This work is significant because it addresses the growing risk of AI agents caus
 - Structured Data Emission
 - Ethereum Layer-2 Networks
 - AI Agent Accountability
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.18230v1](http://arxiv.org/abs/2610.18230v1)

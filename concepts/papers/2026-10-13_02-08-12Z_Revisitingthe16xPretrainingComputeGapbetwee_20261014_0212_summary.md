@@ -32,3 +32,7 @@ This research is significant because it removes a major barrier to the adoption 
 - Block Diffusion Training
 - Encoder-Decoder Architecture
 - Pretraining Compute Efficiency
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.17590v1](http://arxiv.org/abs/2610.17590v1)

@@ -30,3 +30,7 @@ This research is vital for mitigating the risks associated with model collapse c
 - Aspect-Based Sentiment Analysis
 - Socio-pragmatic Features
 - Human-AI Interaction
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2609.33666v1](http://arxiv.org/abs/2609.33666v1)

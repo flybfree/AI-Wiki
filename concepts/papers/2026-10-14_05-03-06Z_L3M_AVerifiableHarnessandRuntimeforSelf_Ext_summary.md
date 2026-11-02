@@ -32,3 +32,7 @@ This work is significant because it shifts the paradigm of agent safety from pos
 - Terminal-Bench benchmark
 - Human-in-the-loop vs. Human-out-of-the-loop
 - Type-based permission systems
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.19591v1](http://arxiv.org/abs/2610.19591v1)

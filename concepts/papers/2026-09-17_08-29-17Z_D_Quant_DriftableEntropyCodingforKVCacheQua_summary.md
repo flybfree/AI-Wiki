@@ -14,7 +14,7 @@ The paper introduces **D-Quant**, a novel quantization framework designed to add
 - **Drift Mechanism for Hardware Compatibility:** To overcome the fact that variable-length codes are incompatible with high-performance attention kernels, D-Quant introduces a "drift" mechanism. This allows for fixed-stride memory access and parallel dequantization while retaining the information density of entropy coding.
 
 ## Methodology
-The authors' approach begins by analyzing the statistical distribution of KV values after rotation and normalization. They observe that most values are concentrated near the center, whereas only a small fraction reside in the tails. To exploit this, they propose a framework that replaces uniform quantization with an entropy-based approach. 
+The authors' approach begins by analyzing the statistical distribution of KV values after rotation and normalization. They observe that most values are concentrated near the center, whereas only a small fraction reside in the tails. To exploit this, they propose a framework that replaces uniform quantization with an entropy-based approach.
 
 However, because standard entropy coding produces variable-bit lengths—which would break the predictable memory strides required by GPU kernels—the authors developed the **Drift** mechanism. This method maps the entropy-coded representations into a fixed-size bitstream format. By doing so, D-Quant allows for efficient dequantization during the attention computation phase without requiring the irregular memory access patterns that typically slow down inference. The framework is designed to be flexible, allowing it to adapt to different hardware constraints while maximizing compression efficiency.
 
@@ -30,3 +30,7 @@ This work is significant because it bridges a critical gap between information t
 - **Quantization:** Reducing the precision of weights or activations to save memory.
 - **Memory Bandwidth Bottleneck:** The limitation where data movement, rather than computation speed, slows down model inference.
 - **Parallel Dequantization:** Techniques that allow hardware to decode quantized values simultaneously across multiple threads.
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2609.19880v1](http://arxiv.org/abs/2609.19880v1)

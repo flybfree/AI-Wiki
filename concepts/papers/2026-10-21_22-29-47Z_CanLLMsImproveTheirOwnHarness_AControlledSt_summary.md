@@ -28,3 +28,7 @@ This study is significant because it challenges the assumption that LLMs can rel
 - **Relative Human Action Efficiency (RHAE):** A metric evaluating task completion speed and efficiency compared to human baselines.
 - **Self-Improvement/Bootstrapping:** The process where an AI system modifies its own code or architecture to improve performance.
 - **Overfitting in Agent Design:** The phenomenon where agents optimize for specific development tasks but fail on new, unseen tasks.
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.30499v1](http://arxiv.org/abs/2610.30499v1)

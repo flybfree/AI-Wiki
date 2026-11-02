@@ -31,3 +31,7 @@ This work is significant because it highlights that fairness evaluations of dLLM
 - Fork-First Sampling
 - Semantic Forks
 - Model Belief Distribution
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.24795v1](http://arxiv.org/abs/2610.24795v1)

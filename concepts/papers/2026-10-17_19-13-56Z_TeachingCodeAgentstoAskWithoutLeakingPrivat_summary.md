@@ -30,3 +30,7 @@ This work is significant because it resolves a critical tension in AI-assisted s
 - Data Leakage in LLMs
 - Role-Based Entity Description
 - Hybrid Local-Cloud Computing
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.24824v1](http://arxiv.org/abs/2610.24824v1)

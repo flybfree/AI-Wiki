@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-01
+> Last updated: 2026-11-02
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
- - [Summary: Daily AI Intelligence Briefing — 2026-11-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-01.md) — canonical final; DeepSeek's open coding-agent prototype, agentic team workflows, permission boundaries, and incomplete research coverage
+ - [Summary: Daily AI Intelligence Briefing — 2026-11-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-01.md) — canonical final; team coding-agent authority, election-information reliability, scoped IP controls, and 59 source-linked research papers
  - [Summary: Daily AI Intelligence Briefing — 2026-10-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-31.md) — canonical final for verified coverage; seven themes spanning open-weight models, public workflows, AI hardware, localized rollout, automated safety red-teaming, publisher controls, orbital compute, and infrastructure litigation; paper curation unavailable
  - [Summary: Daily AI Intelligence Briefing — 2026-10-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-30.md) — canonical interim; shared publisher training preferences, OpenAI safety reporting and copyright advocacy, with research-review gaps
  - [Summary: Daily AI Intelligence Briefing — 2026-10-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-29.md) — canonical interim; Mistral Large 4 open weights, agent monitoring and bot impersonation, human-agency evidence, Cohere sovereign-AI financing, and incomplete target-date paper review
@@ -3416,3 +3416,4 @@ tags: ['wiki']
 - [[2026-10-30_AppleIntelligenceisfinallycomingtoChinawithiOS27_3.md]] : Apple Intelligence is finally coming to China with iOS 27.3
 - [[2026-10-31_TheSmartestPeopleinAIBelieveThisIstheWorld_sMostIm.md]] : The Smartest People in AI Believe This Is the World's Most Important Chart - WSJ
 - [[2026-10-31_IbuiltanAITamagotchibeforeMetacould.md]] : I built an AI Tamagotchi before Meta could
+- [[2026-11-01_SpewingUSelectionfalsehoods_AIchatbotsfacescrutiny.md]] : Spewing US election falsehoods, AI chatbots face scrutiny - RTL Today

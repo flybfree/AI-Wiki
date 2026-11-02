@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-11-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-01.md), an AI-only update on DeepSeek's MIT-licensed coding-agent research prototype and the shift toward persistent, team-level agent workflows. No November 1 paper keep was recorded; local arXiv discovery is incomplete.
+The latest canonical daily briefing is [2026-11-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-01.md), covering DeepSeek’s team coding-agent prototype, election-answer reliability, Claude Code’s scoped IP rule, and 59 source-linked approved/carry-forward research papers.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
@@ -46,7 +46,7 @@ Use this page as the stable landing zone for daily variants:
 4. If a source starts covering a different topic family, split it into a separate concept page.
 
 ## Related Pages
-- [Summary: Daily AI Intelligence Briefing — 2026-11-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-01.md) — DeepSeek's open coding-agent prototype, authorization and human-review boundaries, and incomplete research coverage
+- [Summary: Daily AI Intelligence Briefing — 2026-11-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-01.md) — team coding-agent permissions, election-information reliability, scoped IP controls, and 59 approved/carry-forward papers
 - [Summary: Daily AI Intelligence Briefing — 2026-10-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-31.md) — canonical final for verified coverage; open-weight agent models, PlanAssist, AI-assisted lab work, AI hardware, Apple/Qwen localization, automated red-teaming, publisher controls, orbital compute, and unresolved paper curation
 - [Summary: Daily AI Intelligence Briefing — 2026-10-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-30.md) — canonical interim; shared publisher training preferences, OpenAI safety reporting and copyright advocacy, with research-review gaps
 - [Summary: Daily AI Intelligence Briefing — 2026-10-29](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-29.md) — canonical interim; Mistral Large 4 open weights, frontier monitoring, agent impersonation, human-agency evidence, sovereign AI funding, and incomplete arXiv review

@@ -30,3 +30,7 @@ This work provides a critical framework for deploying large language models in p
 - Workflow Delegation Strategies
 - ProgramBench
 - Compute Allocation Optimization
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.17471v1](http://arxiv.org/abs/2610.17471v1)

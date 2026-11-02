@@ -32,3 +32,7 @@ This research matters because it shifts the focus of multi-agent safety from pre
 - CooperBench
 - Out-of-workflow Favors
 - System-level Safeguards
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.31985v1](http://arxiv.org/abs/2610.31985v1)

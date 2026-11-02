@@ -30,3 +30,7 @@ This research is significant because it shifts the focus of AI agent evaluation 
 - Long-Horizon Tasks
 - Contextual Awareness
 - Dynamic Preference Adaptation
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.30485v1](http://arxiv.org/abs/2610.30485v1)

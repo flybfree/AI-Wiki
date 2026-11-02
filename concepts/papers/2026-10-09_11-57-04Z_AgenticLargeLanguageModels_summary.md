@@ -28,3 +28,7 @@ This work is significant because it addresses a critical shift in AI development
 - **Multi-Agent Systems**: Architectures where multiple AI agents collaborate, compete, or communicate to solve problems.
 - **Autonomous Decision Making**: The capacity of an AI to make choices without direct human intervention.
 - **Human-in-the-Loop**: Frameworks for ensuring human oversight and control over agentic systems.
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.13455v1](http://arxiv.org/abs/2610.13455v1)

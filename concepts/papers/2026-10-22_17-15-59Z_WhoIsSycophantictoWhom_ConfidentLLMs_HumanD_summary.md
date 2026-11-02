@@ -29,3 +29,7 @@ This research challenges the prevailing focus on model sycophancy by highlightin
 - Epistemic Reliability
 - Confidence Discrimination (AUROC)
 - Human-AI Interaction Dynamics
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.31579v1](http://arxiv.org/abs/2610.31579v1)

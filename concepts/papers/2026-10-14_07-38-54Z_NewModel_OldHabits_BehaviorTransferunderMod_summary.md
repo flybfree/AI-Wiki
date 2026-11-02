@@ -29,3 +29,7 @@ This research is significant for the practical deployment of multi-model LLM age
 - Context Summarization
 - Reasoning Pattern Mimicry
 - Inference Cost Optimization
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.19712v1](http://arxiv.org/abs/2610.19712v1)

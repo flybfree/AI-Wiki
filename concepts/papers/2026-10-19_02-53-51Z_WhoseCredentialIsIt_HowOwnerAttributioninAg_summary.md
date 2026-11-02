@@ -29,3 +29,7 @@ This research is significant because it shifts the evaluation paradigm for agent
 - AppWorld Benchmark
 - Agent Security and Safety
 - Prompt Injection and Context Retrieval
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.25707v1](http://arxiv.org/abs/2610.25707v1)

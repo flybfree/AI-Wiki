@@ -31,3 +31,7 @@ This research is significant because it challenges the assumption that multi-age
 - Request-Level vs. Commitment-Level Safety
 - Source-Identity Cues
 - Hidden-State Studies
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.24298v1](http://arxiv.org/abs/2610.24298v1)

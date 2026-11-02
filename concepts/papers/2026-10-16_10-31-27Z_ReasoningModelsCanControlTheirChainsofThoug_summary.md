@@ -30,3 +30,7 @@ This research is significant for AI safety and interpretability because it shift
 - AI Oversight and Interpretability
 - Prompt Engineering
 - Reasoning Models
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.23257v1](http://arxiv.org/abs/2610.23257v1)

@@ -29,3 +29,7 @@ This research is significant because it challenges the prevailing assumption tha
 - Knowledge Work Orchestration
 - Goal Specification and Task Decomposition
 - Cognitive Load in AI Interaction
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.30945v1](http://arxiv.org/abs/2610.30945v1)

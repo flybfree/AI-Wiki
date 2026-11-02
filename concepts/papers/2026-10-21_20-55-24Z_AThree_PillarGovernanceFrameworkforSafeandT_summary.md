@@ -31,3 +31,7 @@ This work is significant because it addresses a critical bottleneck in the adopt
 - Enterprise Agentic Environments
 - Lifecycle Monitoring
 - Escalation Management
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.30445v1](http://arxiv.org/abs/2610.30445v1)

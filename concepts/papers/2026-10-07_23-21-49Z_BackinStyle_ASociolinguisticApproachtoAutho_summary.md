@@ -32,3 +32,7 @@ This research is significant because it addresses a critical bottleneck in the e
 - Lexicon-based Content Analysis
 - Agentic Systems Evaluation
 - Error Attribution Analysis
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.10988v1](http://arxiv.org/abs/2610.10988v1)

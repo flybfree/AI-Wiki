@@ -32,3 +32,7 @@ This research shifts the paradigm of agent development from solely improving bas
 - Qwen3.8-27B
 - Autonomous tool creation
 - Generalization in AI agents
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.28601v1](http://arxiv.org/abs/2610.28601v1)

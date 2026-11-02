@@ -30,3 +30,7 @@ This research is significant because it bridges the gap between narrow AI tasks 
 - **Gemini 4 Argon:** The specific AI model architecture used for the agents.
 - **Ender Dragon:** The final boss in Minecraft, serving as the benchmark for task completion.
 - **Self-Debugging:** The ability of agents to identify and fix errors in their own generated code.
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.22319v1](http://arxiv.org/abs/2610.22319v1)

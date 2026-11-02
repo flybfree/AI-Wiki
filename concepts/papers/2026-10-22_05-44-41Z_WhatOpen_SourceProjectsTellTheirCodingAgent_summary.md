@@ -29,3 +29,7 @@ This research is significant because it provides the first large-scale empirical
 - **AI Attribution Policies:** Norms regarding how AI contributions are credited in commits and pull requests.
 - **Repository-Level Agent Guidance:** The practice of embedding agent instructions directly into codebases.
 - **Taxonomy of Agent Instructions:** Categorization of directives into project knowledge, code rules, and workflow processes.
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.31715v1](http://arxiv.org/abs/2610.31715v1)

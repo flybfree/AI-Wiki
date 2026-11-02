@@ -32,3 +32,7 @@ This research is significant because it bridges the gap between the growing fiel
 - Retrieval Collision
 - Task Drift
 - LLM Agents
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.25858v1](http://arxiv.org/abs/2610.25858v1)

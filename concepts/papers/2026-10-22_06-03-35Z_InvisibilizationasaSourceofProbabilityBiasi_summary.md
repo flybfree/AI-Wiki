@@ -31,3 +31,7 @@ This research is significant because it exposes a hidden form of algorithmic bia
 - Refusal/Hedging Behavior
 - Algorithmic Fairness Audits
 - Two-Urn Game
+
+## Original research paper
+
+[Canonical original paper: http://arxiv.org/abs/2610.30785v1](http://arxiv.org/abs/2610.30785v1)
