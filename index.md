@@ -3418,3 +3418,7 @@ tags: ['wiki']
 - [[2026-10-31_TheSmartestPeopleinAIBelieveThisIstheWorld_sMostIm.md]] : The Smartest People in AI Believe This Is the World's Most Important Chart - WSJ
 - [[2026-10-31_IbuiltanAITamagotchibeforeMetacould.md]] : I built an AI Tamagotchi before Meta could
 - [[2026-11-01_SpewingUSelectionfalsehoods_AIchatbotsfacescrutiny.md]] : Spewing US election falsehoods, AI chatbots face scrutiny - RTL Today
+- [[2026-11-02_AnthropicclampsdownonClaude_sAIvideogameclones.md]] : Anthropic clamps down on Claude’s AI video game clones
+- [[2026-11-02_ScalingGitatOpenAI.md]] : Scaling Git at OpenAI
+- [[2026-11-02_DubaiannouncesmajornewresearchandAIcampusinZabeelP.md]] : Dubai announces major new research and AI campus in Zabeel Park for 30000 innovators
+- [[2026-11-02_GoogletakesDreambeanstoIndiainbidtobringAI-generat.md]] : Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses
