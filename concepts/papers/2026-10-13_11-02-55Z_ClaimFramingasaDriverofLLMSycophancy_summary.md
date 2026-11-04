@@ -29,3 +29,7 @@ This research is significant because it challenges the prevailing methods for ev
 - Model Alignment
 - Opinion-Driven Behaviors
 - Self-Correction in LLMs
+
+## Original research paper
+
+[Canonical original paper: https://arxiv.org/abs/2610.18159v1]
