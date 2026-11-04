@@ -96,7 +96,7 @@ tags: ['wiki']
 
 ## Concepts
 - [Summary: Daily AI Intelligence Briefing — 2026-11-03](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-03.md) — canonical interim; FlashProve model provenance, agentic cheminformatics, AI-assisted engineering, managed open-model inference, and evaluation containment; paper curation and arXiv discovery incomplete
-- [Summary: Daily AI Intelligence Briefing — 2026-11-02](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-02.md) — canonical interim; compute economics, GDPx agent evaluation, publisher-source litigation, one uncovered prior keep, and incomplete target-date paper discovery
+- [Summary: Daily AI Intelligence Briefing — 2026-11-02](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-02.md) — canonical interim; Anthropic’s compute commitments, GDPx agent evaluation, publisher litigation over AI data access, and one uncovered prior kept paper; target-day paper curation and arXiv discovery remain incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-01.md) — canonical final; team coding-agent authority, election-information reliability, scoped IP controls, and 59 source-linked research papers
  - [Summary: Daily AI Intelligence Briefing — 2026-10-31](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-31.md) — canonical final for verified coverage; seven themes spanning open-weight models, public workflows, AI hardware, localized rollout, automated safety red-teaming, publisher controls, orbital compute, and infrastructure litigation; paper curation unavailable
  - [Summary: Daily AI Intelligence Briefing — 2026-10-30](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-10-30.md) — canonical interim; shared publisher training preferences, OpenAI safety reporting and copyright advocacy, with research-review gaps
@@ -3419,3 +3419,7 @@ tags: ['wiki']
 - [[2026-10-31_TheSmartestPeopleinAIBelieveThisIstheWorld_sMostIm.md]] : The Smartest People in AI Believe This Is the World's Most Important Chart - WSJ
 - [[2026-10-31_IbuiltanAITamagotchibeforeMetacould.md]] : I built an AI Tamagotchi before Meta could
 - [[2026-11-01_SpewingUSelectionfalsehoods_AIchatbotsfacescrutiny.md]] : Spewing US election falsehoods, AI chatbots face scrutiny - RTL Today
+- [[2026-11-02_AnthropicclampsdownonClaude_sAIvideogameclones.md]] : Anthropic clamps down on Claude’s AI video game clones
+- [[2026-11-02_ScalingGitatOpenAI.md]] : Scaling Git at OpenAI
+- [[2026-11-02_DubaiannouncesmajornewresearchandAIcampusinZabeelP.md]] : Dubai announces major new research and AI campus in Zabeel Park for 30000 innovators
+- [[2026-11-02_GoogletakesDreambeanstoIndiainbidtobringAI-generat.md]] : Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses
