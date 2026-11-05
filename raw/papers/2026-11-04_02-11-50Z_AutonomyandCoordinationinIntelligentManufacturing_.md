@@ -1,0 +1,18 @@
+---
+title: Autonomy and Coordination in Intelligent Manufacturing: A Recursive Autonomous Agent Framework
+published: 2026-11-04T02:11:50Z
+authors: Yuning Chen, Hongda Zhang, Linqiang Hu, Ziqing Zhou, Yi Liu, Zhao Huang, Ding Zhou, Haining Xu
+url: http://arxiv.org/abs/2611.05828v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Autonomy and Coordination in Intelligent Manufacturing: A Recursive Autonomous Agent Framework
+
+## Abstract
+Intelligent production requires systems to make decisions and organize work according to production goals and operating conditions. It also requires continuous adjustment through feedback. This paper analyzes intelligence in human production organizations from a complex adaptive systems (CAS) perspective. The analysis identifies two coupled mechanisms: individual autonomy and collective coordination. Individual autonomy enables actors to form local decisions using available information. Collective coordination aligns these decisions with shared goals and joint constraints. Learning and adaptation improve both mechanisms over time. A production-system model formalizes how local decision rules and coordination jointly form system decisions. On this basis, we propose the Recursive Autonomous Agent (RAA) framework, which combines goal-driven autonomous agents with a recursive organizational structure. Goal contracts define local objectives and operating boundaries, while capability contracts support the selection and composition of production units. Common interfaces allow coordinated groups to participate as units in larger organizations, connecting equipment, production lines, and factories. RAA thus provides an engineering approach to next-generation intelligent manufacturing, translating the requirements of intelligence, openness, and system-wide integration into mechanisms for autonomous and coordinated production.
+
+## Metadata
+- **Published**: 2026-11-04T02:11:50Z
+- **Authors**: Yuning Chen, Hongda Zhang, Linqiang Hu, Ziqing Zhou, Yi Liu, Zhao Huang, Ding Zhou, Haining Xu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.05828v1)

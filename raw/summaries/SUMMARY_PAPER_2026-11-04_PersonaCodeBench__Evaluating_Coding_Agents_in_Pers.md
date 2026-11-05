@@ -1,0 +1,14 @@
+---
+title: PersonaCodeBench: Evaluating Coding Agents in Persona-driven Human-Interactive Sessions
+url: http://arxiv.org/abs/2611.05739v1
+type: paper-summary
+date: 2026-11-04
+source_paper: 2026-11-03_23-27-20Z_PersonaCodeBench_EvaluatingCodingAgentsinPersona_d.md
+generated_at: 2026-11-04 21:56
+model: none
+---
+
+ERROR: all endpoints returned no content
+
+## Original Paper Reference
+- **Source**: [Original Paper](http://arxiv.org/abs/2611.05739v1)

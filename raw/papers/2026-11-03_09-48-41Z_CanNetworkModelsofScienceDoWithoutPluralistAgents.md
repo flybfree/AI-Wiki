@@ -1,0 +1,18 @@
+---
+title: Can Network Models of Science Do Without Pluralist Agents?
+published: 2026-11-03T09:48:41Z
+authors: Jonas Hallgren, David Hyland, Mahault Albarracin
+url: http://arxiv.org/abs/2611.04590v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Can Network Models of Science Do Without Pluralist Agents?
+
+## Abstract
+Science is a process of useful models being proven wrong time and again, but despite its many flaws, it somehow works. Why is this? Paul Feyerabend argued that it works because people dare to hold and defend incompatible rival theories against the accepted one, since a theory's failures often lead to its abandonment in the presence of a more accurate or simpler alternative. He called this view theoretical pluralism. We introduce a theoretical and experimental model in which this can be examined. It compares communities of pluralist agents, which can hold rival theories side by side and maintain beliefs within and between those theories, with communities of monist agents, which can only incorporate what they hear or observe into a single model of their own. In a multi-agent variational inference setting, our experimental demonstrations illustrate how communities with rival theories can go through periods of uncertainty followed by a shift in the theories they hold true, how the information that is communicated between communities affects beliefs when those communities make different observations about the world, and how sharing support for theories and sharing beliefs within them contribute differently to collective belief dynamics.
+
+## Metadata
+- **Published**: 2026-11-03T09:48:41Z
+- **Authors**: Jonas Hallgren, David Hyland, Mahault Albarracin
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.04590v1)
