@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-11-05 18:00] summarize | created the AI-only November 5 interim briefing from direct primary-source checks and general-search fallback after the Brave provider reported a missing API key; covered GPT-6 Cyber, Gemini Omni 1.2 Flash, Anthropic/METR AI-R&D evidence, four NVIDIA Cosmos 3 checkpoints, November 4 model updates, and compute-campus commitments; confirmed 0 local-date curation keeps; recovered 8 arXiv API query families (450 returned records) but newest data stopped at November 4 18:58 UTC, so research coverage is incomplete; added scout log and updated index/rollup; Logseq mirror sync and requested GitHub push follow
+
 ## [2026-11-02 00:11] finalize | finalized the November 1 canonical briefing after the complete read-only query found 28 keep decisions (27 distinct newly approved papers), carried forward 32 previously kept papers not covered in earlier briefs, and verified 59 unique summary-to-original-paper link chains; synthesized DeepSeek agent execution permissions, election-information errors and counter-evidence, and Anthropic’s scoped game-recreation rule; recorded the complete scout and thin local-intake limits; updated index and family rollup; mirrored changed wiki files; no GitHub commit or push pending Rich’s review.
 
 
@@ -17536,3 +17538,72 @@ tags: ['wiki']
 ## [2026-11-01 21:46] stage-paper | 2026-10-28_20-40-33Z_AuditableBeliefUpdatesasaMissingSafetyLayerforLLM_.md
 ## [2026-11-01 21:46] stage-paper | 2026-10-28_22-02-40Z_BeyondPassingTests_ASystematicReviewandControlledR.md
 ## [2026-11-01 21:46] ingest | 2026-11-01_SpewingUSelectionfalsehoods_AIchatbotsfacescrutiny.md
+## [2026-11-02 18:00] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-11-02.md created from an AI-only source sweep; indexed 3 verified current-day story clusters, 1 uncovered prior kept paper; partial arXiv scout coverage logged, target-day curation has 0 confirmed keeps
+## [2026-11-02 21:46] stage-paper | 2026-10-30_15-30-23Z_HowMuchCanToolCallsRevealAboutYou_PrivacyLeakagefr.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_19-17-20Z_WhenAIAgentsActonOurBehalf_ATaxonomyofHuman_AgentI.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_19-43-04Z_BeyondSemanticIDs_AtomicCreatorTokensforLarge_Scal.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_08-12-45Z_WhenSafetyChecksBecomePrivacyRisks_APrivacy_Preser.md
+## [2026-11-02 21:46] stage-paper | 2026-10-31_00-28-26Z_ThreatModelingIntimatePartnerAbuseinAgenticSystems.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_13-21-03Z_SimpleFeaturesBeatMostAIControlMonitors.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_23-53-26Z_SteeringReaderlyDynamics_Trajectory_GuidedStoryGen.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_08-39-22Z_BlindToChange_AIAgentsCanFindChangesWhenAskedButDo.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_22-02-40Z_OntheFramingEffectofAIRed_TeamingInstructions_Evid.md
+## [2026-11-02 21:46] stage-paper | 2026-10-31_01-13-55Z_AgenticContextManagementforMulti_TurnHuman_AIConve.md
+## [2026-11-02 21:46] stage-paper | 2026-10-29_18-41-43Z_Kerkoporta_InjectingStructured_OutputBackdoorsinRe.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_15-18-07Z_LearningtoInteractandDirect_Co_EvolvingVideoDirect.md
+## [2026-11-02 21:46] stage-paper | 2026-10-31_00-18-06Z_Integer_ExactMicroscaling_RunningMXFP4LanguageMode.md
+## [2026-11-02 21:46] stage-paper | 2026-10-31_01-58-58Z_Skill___TowardsLifelongAgentsviaRouting_AwareSkill.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_21-52-47Z_HackingorJustFailing_AMoreCapableLLMMonitorBetterS.md
+## [2026-11-02 21:46] stage-paper | 2026-10-31_04-01-13Z_ConversationalInteractionforLLM_BasedClinicalText_.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_08-07-51Z_Cross_InterfaceAuthorizationforAIComputer_UseAgent.md
+## [2026-11-02 21:46] stage-paper | 2026-10-30_17-23-14Z_PersonaChatBench_EvaluatingChatAssistantswithDiver.md
+## [2026-11-02 21:46] ingest | 2026-11-02_AnthropicclampsdownonClaude_sAIvideogameclones.md
+## [2026-11-02 21:46] ingest | 2026-11-02_ScalingGitatOpenAI.md
+## [2026-11-02 21:46] ingest | 2026-11-02_DubaiannouncesmajornewresearchandAIcampusinZabeelP.md
+## [2026-11-02 21:46] ingest | 2026-11-02_GoogletakesDreambeanstoIndiainbidtobringAI-generat.md
+## [2026-11-05 21:45] stage-paper | 2026-11-04_02-11-50Z_AutonomyandCoordinationinIntelligentManufacturing_.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_14-45-36Z_DoAgentsStillFollowtheRules_BenchmarkingRuleCompli.md
+## [2026-11-05 21:45] stage-paper | 2026-11-04_06-56-04Z_Reglos_ASelf_EvolvingPersonalMemoryAgentwithRecurs.md
+## [2026-11-05 21:45] stage-paper | 2026-10-29_04-30-42Z_MetaVul_AgenticHarnessDiscoveryforVulnerabilityDet.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_04-36-16Z_CumulativeandAuditedGuardrailToolEvolutionforLLMAg.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_19-10-50Z_SlackBench_BenchmarkingAgentsonCollaborativeProjec.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_18-59-52Z_FromAutonomousAgentstoCognitiveSymbionts_TowardAI_.md
+## [2026-11-05 21:45] stage-paper | 2026-11-01_19-59-19Z_RewardedforNotGettingCaught_WhyAlignmentTrainingSe.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_15-39-07Z_LLMsDependonSpecialistToolsforOut_of_DistributionG.md
+## [2026-11-05 21:45] stage-paper | 2026-11-04_01-19-12Z_GREP_GroundingGeneratedRoomEvaluationinPrinciples.md
+## [2026-11-05 21:45] stage-paper | 2026-11-04_12-47-32Z_EvoGuard_MitigatingDegradationinOnlineSkillEvoluti.md
+## [2026-11-05 21:45] stage-paper | 2026-11-04_10-29-52Z_A_S_E2_0_UnderstandingHowRepositoryContextImpactst.md
+## [2026-11-05 21:45] stage-paper | 2026-11-04_00-02-41Z_BobFlow_TowardsHuman_AgentCollaborativeDataScience.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_16-53-29Z_OptimizetheHarness_NottheModel_FittingaMinimalAgen.md
+## [2026-11-05 21:45] stage-paper | 2026-11-04_11-54-59Z_MA_Mesh_ResilientMulti_AgentCollaborationviaRole_b.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_08-13-34Z_CogniLife_ContinuousCognitiveDistillationforDeploy.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_16-02-34Z_FromAutoResearchtoContinualAutoResearch_DoAgentsLe.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_22-43-24Z_Exploitorconform_Hownormutilitypromptingchangesthe.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_21-38-49Z_Dory1_0_4B_ALoopedNormalized_GPT.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_18-16-29Z_LoopVQ_Sub1_bitKVCacheQuantizationforLoopedTransfo.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_21-19-46Z_Assurance_ConditionedContinuousAuthorizationforAut.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_01-30-27Z_BeyondAccuracy_HowQuantizationAffectsCodingAgents.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_21-43-49Z_WASP_Mem_LetAgentOrganizeProceduralMemory_HumanSpe.md
+## [2026-11-05 21:45] stage-paper | 2026-11-04_07-59-59Z_TheHarnessIstheModel_AgentScaffoldingChangesaFixed.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_16-19-21Z_Meta__2__PrecomputingReusableKnowledgeforOnlineHar.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_12-54-14Z_TowardsaTrustworthyandGovernableInternetofAgentics.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_14-15-11Z_CoworkOS_ScalingAgentCoworkersforReal_worldAutomat.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_23-27-20Z_PersonaCodeBench_EvaluatingCodingAgentsinPersona_d.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_18-54-08Z_SuppressingMisalignedBehaviorsinLanguageModels_Dur.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_22-35-21Z_Agents_ThinkOnlyWhenitHelps.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_18-17-08Z_MCPToolPoisoninginAgenticAIFrameworks_ACross_Frame.md
+## [2026-11-05 21:45] stage-paper | 2026-11-01_18-16-47Z_NorthCUATechnicalReport_TurbochargingComputer_UseA.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_09-29-30Z_ThinkwithSkills_PseudocodePlanningBeforeExecutionf.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_14-03-12Z_TowardKnowledge_CentricAI_Discovering_Internalizin.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_09-48-41Z_CanNetworkModelsofScienceDoWithoutPluralistAgents.md
+## [2026-11-05 21:45] stage-paper | 2026-11-01_15-14-02Z_BeyondPromptInjection_TheToolUpdateGapinLLMAgentSe.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_17-57-20Z_TowardsRobustLong_LivedAgents_BenchmarkingExperien.md
+## [2026-11-05 21:45] stage-paper | 2026-11-03_08-41-31Z_LearningsandPitfallsfromAI_AssistedA_BExperimentat.md
+## [2026-11-05 21:45] stage-paper | 2026-11-02_18-27-55Z_VeriHarm_Bench_MeasuringHarmfulSuccessinLLMCodingA.md
+## [2026-11-05 21:45] ingest | 2026-11-05_Airbnbsaysit_slaunchinganAItravelagentinthefirstha.md
+## [2026-11-05 21:45] ingest | 2026-11-05_NewtoolshowshowhumanscanlearnwithAI_EurekAlert_.md
+## [2026-11-05 21:45] ingest | 2026-11-05_Detectingsignsofhypertensionusingwearablesensors.md
+## [2026-11-05 21:45] ingest | 2026-11-05_OpenAIissteppingbackfromNDAsfordatacenterprojects.md
+## [2026-11-05 21:45] ingest | 2026-11-05_IntroducingInkling2Small.md
+## [2026-11-06 00:06] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md finalized from the complete five-item local AI intake plus verified primary-source checks; curation query returned 0 target-date keeps and 0 uncovered carry-forwards; arXiv snapshot lagged, Brave integration unavailable; Logseq and Lumistorm publication verification pending, GitHub review required
+## [2026-11-06 00:08] publish | Lumistorm post #242 created at daily-ai-intelligence-2026-11-05; WordPress REST readback verified published status and category ID 5; cache-busted post and /blog/ archive returned HTTP 200 with the dated story first in the archive and source links visible; no Git commit/push, awaiting Rich review

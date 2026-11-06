@@ -3424,3 +3424,9 @@ tags: ['wiki']
 - [[2026-11-02_ScalingGitatOpenAI.md]] : Scaling Git at OpenAI
 - [[2026-11-02_DubaiannouncesmajornewresearchandAIcampusinZabeelP.md]] : Dubai announces major new research and AI campus in Zabeel Park for 30000 innovators
 - [[2026-11-02_GoogletakesDreambeanstoIndiainbidtobringAI-generat.md]] : Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses
+- [[2026-11-05_Airbnbsaysit_slaunchinganAItravelagentinthefirstha.md]] : Airbnb says it’s launching an AI travel agent in the first half of 2027
+- [[2026-11-05_NewtoolshowshowhumanscanlearnwithAI_EurekAlert_.md]] : New tool shows how humans can learn with AI | EurekAlert!
+- [[2026-11-05_Detectingsignsofhypertensionusingwearablesensors.md]] : Detecting signs of hypertension using wearable sensors
+- [[2026-11-05_OpenAIissteppingbackfromNDAsfordatacenterprojects.md]] : OpenAI is stepping back from NDAs for data center projects
+- [[2026-11-05_IntroducingInkling2Small.md]] : Introducing Inkling 2 Small
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md|Summary: Daily AI Intelligence Briefing — 2026-11-05]] — model access and licensing, research evidence, generative video and agents, health and learning studies, and compute-community commitments; 0 curated papers, curation and arXiv limitations disclosed
