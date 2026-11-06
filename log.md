@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-11-05 18:00] summarize | created the AI-only November 5 interim briefing from direct primary-source checks and general-search fallback after the Brave provider reported a missing API key; covered GPT-6 Cyber, Gemini Omni 1.2 Flash, Anthropic/METR AI-R&D evidence, four NVIDIA Cosmos 3 checkpoints, November 4 model updates, and compute-campus commitments; confirmed 0 local-date curation keeps; recovered 8 arXiv API query families (450 returned records) but newest data stopped at November 4 18:58 UTC, so research coverage is incomplete; added scout log and updated index/rollup; Logseq mirror sync and requested GitHub push follow
+
 ## [2026-11-02 00:11] finalize | finalized the November 1 canonical briefing after the complete read-only query found 28 keep decisions (27 distinct newly approved papers), carried forward 32 previously kept papers not covered in earlier briefs, and verified 59 unique summary-to-original-paper link chains; synthesized DeepSeek agent execution permissions, election-information errors and counter-evidence, and Anthropic’s scoped game-recreation rule; recorded the complete scout and thin local-intake limits; updated index and family rollup; mirrored changed wiki files; no GitHub commit or push pending Rich’s review.
 
 

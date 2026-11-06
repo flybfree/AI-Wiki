@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest canonical daily briefing is [2026-11-03](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-03.md), final locally: verifiable inference, agentic science and engineering, managed open-model inference, AI-assisted R&D risk, and concealed deepfake apps; 13 local-day keeps plus 1 uncovered prior keep. Public publication is blocked pending Rich’s GitHub review because the newly approved summary targets are not yet available upstream. The previous edition is [2026-11-02](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-02.md).
+The latest daily briefing is [2026-11-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md), canonical interim locally: GPT-6 Cyber, Gemini Omni 1.2 Flash, AI-R&D acceleration evidence, four new Cosmos 3 simulation checkpoints, prior-day open-model updates, and OpenAI’s compute-campus commitments; no November 5 paper keeps. Direct Brave search was unavailable and the arXiv API snapshot lagged, so intake coverage is explicitly incomplete. The previous edition is [2026-11-03](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-03.md).
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
@@ -46,6 +46,7 @@ Use this page as the stable landing zone for daily variants:
 4. If a source starts covering a different topic family, split it into a separate concept page.
 
 ## Related Pages
+- [Summary: Daily AI Intelligence Briefing — 2026-11-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md) — interim; cyber model release, video generation, measured AI-R&D acceleration, physical-AI checkpoints, November 4 open/gated/hosted model updates, and compute-community commitments; arXiv coverage incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-03](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-03.md) — canonical final locally; cryptographic model provenance, agentic science and engineering, managed inference, AI-assisted R&D risk, concealed deepfake apps, and 14 linked research summaries; public post pending GitHub review
 - [Summary: Daily AI Intelligence Briefing — 2026-11-02](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-02.md) — interim; compute economics, GDPx’s low initial agent-task scores, publisher-source litigation, one previously uncovered curated paper, and partial research discovery
 - [Summary: Daily AI Intelligence Briefing — 2026-11-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-01.md) — team coding-agent permissions, election-information reliability, scoped IP controls, and 59 approved/carry-forward papers
