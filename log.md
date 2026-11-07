@@ -17607,3 +17607,4 @@ tags: ['wiki']
 ## [2026-11-05 21:45] ingest | 2026-11-05_IntroducingInkling2Small.md
 ## [2026-11-06 00:06] summarize | concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md finalized from the complete five-item local AI intake plus verified primary-source checks; curation query returned 0 target-date keeps and 0 uncovered carry-forwards; arXiv snapshot lagged, Brave integration unavailable; Logseq and Lumistorm publication verification pending, GitHub review required
 ## [2026-11-06 00:08] publish | Lumistorm post #242 created at daily-ai-intelligence-2026-11-05; WordPress REST readback verified published status and category ID 5; cache-busted post and /blog/ archive returned HTTP 200 with the dated story first in the archive and source links visible; no Git commit/push, awaiting Rich review
+## [2026-11-06 21:07] ingest | 2026-11-06_CrusoesellstroubledWyomingdatacenterprojecttoGoogl.md
