@@ -20,7 +20,7 @@
 
 - Read-only query of `.curation/review.sqlite3` found **0 `keep` decisions** whose stored approval timestamps convert from UTC to November 7 in America/Chicago.
 - The November 6 briefing reports no previously kept but uncovered carry-forward papers. This edition therefore includes 0 paper-summary links; no pending candidate is presented as a keep.
-- The official arXiv API query status is logged in [`arxiv_scout_2026-11-07_18-00.md`](arxiv_scout_2026-11-07_18-00.md). The `cs.AI`, `cs.LG`, and `cs.CL` requests returned HTTP 429, the `stat.ML` request returned 0 entries, and the combined retry produced 429 responses followed by a timeout. Paper discovery is incomplete; these failures do not establish that the target day had no relevant papers.
+- The official arXiv API query status is logged in [arXiv scout coverage](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-11-07_18-00.md). The `cs.AI`, `cs.LG`, and `cs.CL` requests returned HTTP 429, the `stat.ML` request returned 0 entries, and the combined retry produced 429 responses followed by a timeout. Paper discovery is incomplete; these failures do not establish that the target day had no relevant papers.
 
 ## Wiki and mirror update
 
