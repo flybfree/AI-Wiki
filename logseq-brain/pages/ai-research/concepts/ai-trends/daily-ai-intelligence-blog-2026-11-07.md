@@ -2,80 +2,102 @@
 title: "Summary: Daily AI Intelligence Briefing — 2026-11-07"
 date: "2026-11-07"
 type: briefing
-status: "canonical for verified coverage; search and research-discovery limits disclosed"
-tags: [ai-intelligence, daily-briefing, agent-security, credential-exposure, developer-tools, model-governance]
+status: "canonical final for verified coverage; search and paper-discovery limitations disclosed"
+tags: [ai-intelligence, daily-briefing, agent-security, credential-exposure, developer-tools, applied-ai, model-governance]
 sources:
   - "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
   - "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
   - "https://code.claude.com/docs/en/settings"
-  - "https://nousresearch.com/arete"
-  - "https://huggingface.co/NousResearch/Arete-27B"
+  - "https://www.researchinformation.info/news/charleston-2026-from-ai-experiments-to-everyday-library-practice/"
+  - "https://www.anthropic.com/news"
+  - "https://openai.com/news"
+  - "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/"
+  - "https://thinkingmachines.ai/news/inkling-2-small/"
+  - "https://mistral.ai/news/mistral-large-4-oss/"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-11-07
 
-**Coverage window: Saturday, November 7, 2026, through 18:00 CST (America/Chicago).** The day’s strongest verified AI-security signal is a developer-workflow leak, not a new model incident: [The Hacker News’ November 7 report on Apiiro’s research](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html) says 1,122 of 104,185 public copies of Claude Code’s `.claude/settings.local.json` contained at least one secret, with 1,379 distinct secrets identified. The report says one notified company confirmed a key had been live, but Apiiro did not establish that all exposed credentials remained valid or had been used. The core mechanism is simple: a “Yes, and don’t ask again” approval can save an exact shell command; credentials typed directly into that command can persist in plaintext. This makes agent permission state, repository hygiene, and secret scanning part of the security boundary. No same-day foundation-model release or locally confirmed paper keep was verified; both news and paper discovery were limited by unavailable Brave credentials and arXiv API failures.
+**Coverage window: Saturday, November 7, 2026, 00:00–23:59 CST (America/Chicago).** The clearest pattern today is that dependable AI work depends on the controls and workflow around the model. A [The Hacker News report on Apiiro’s research](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html) describes credentials embedded in saved Claude Code approval commands and later exposed in public repositories; separately, a [Research Information article on library AI practice](https://www.researchinformation.info/news/charleston-2026-from-ai-experiments-to-everyday-library-practice/) shows teams moving from chatbot trials toward explicit templates, curated institutional knowledge, and tested automation. Together, these accounts point to the same operational requirement: make permissions, source material, expected outputs, and human review part of the system—not informal assumptions around it.
 
-## Key theme: Agent permissions can turn a convenience setting into a credential leak
+## Key themes
 
-[Apiiro’s research](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again), as detailed by [The Hacker News](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html), examined 104,185 public copies of the Claude Code local-settings file across 103,617 GitHub repositories. Apiiro reported that 1,122 copies—about 1.1%—contained at least one secret, totaling 1,379 distinct credentials. These include passwords and access tokens; the article says more than a third enabled direct database access. Apiiro did not test whether every credential was still active, and the reporting does not establish that any of them were exploited. One company contacted by the researchers reportedly confirmed its key had been live.
+### 1. Agent convenience settings can become a credential boundary failure
 
-The failure path is a settings-and-workflow interaction. Claude Code’s [settings documentation](https://code.claude.com/docs/en/settings) describes `.claude/settings.local.json` as project-local configuration: the tool normally keeps the file out of Git when it creates it, but a local ignore rule does not travel with the repository, and a manually created file needs an explicit project `.gitignore` entry. When a user approves a command with “Yes, and don’t ask again,” the saved rule can contain the literal command. A password or token embedded in that command may therefore enter the settings file; once committed, it can persist in Git history and forks even after the current copy is removed. The report also found that common scanners missed some command-embedded passwords: in Apiiro’s test, both gitleaks and TruffleHog missed 215 of the 1,122 affected files.
+[Apiiro’s research](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again), as reported by [The Hacker News on November 7](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html), examined 104,185 public copies of Claude Code’s `.claude/settings.local.json` across 103,617 GitHub repositories. Apiiro reported that 1,122 copies (about 1.1%) contained at least one secret, totaling 1,379 distinct secret values. The report says more than a third enabled direct database access. These are exposed strings, not 1,379 credentials independently confirmed to be active or abused; one organization contacted by the researchers reportedly confirmed that a key had been live. Apiiro’s page returned HTTP 403 during this run, so its counts are attributed through the reporting rather than presented as independently re-audited.
 
-**Why it matters:** This is not evidence that the model deliberately exfiltrated secrets. It is evidence that a tool designed to reduce repeated permission prompts can preserve sensitive command text, while local-only ignore behavior and incomplete secret scanning fail to protect teams once files enter shared repositories. Security controls must inspect what an agent is authorized to run and what its approval records persist—not just the code it generates.
+The failure path is a tool-and-workflow interaction. Claude Code’s [settings documentation](https://code.claude.com/docs/en/settings) explains the project-local settings file and its precedence. A saved “Yes, and don’t ask again” rule can preserve the exact approved shell command. If a user types a password or token directly into that command, it can be written into the settings file; a local ignore rule does not protect a manually created or already tracked file across collaborators. Apiiro also reported that gitleaks and TruffleHog each missed 215 of the 1,122 affected files in its tests.
 
-**Practical response:** search current repositories, Git history, and forks for `.claude/settings.local.json` and related agent settings; rotate any potentially exposed credential before history cleanup; avoid typing secrets as command literals and use secret-manager/environment-variable references; add agent configuration and memory paths to project ignore templates and pre-commit/continuous-integration scans; and ensure scanners inspect passwords embedded in command strings, not only recognizable token formats.
+**Why it matters:** this is not evidence that the model deliberately exfiltrated secrets. It shows that agent authorization state can itself hold sensitive data, and that repository defaults and common scanners may not catch command-embedded credentials. A prompt or model safety layer cannot substitute for least-privilege identity, safe secret handling, and repository controls.
+
+**Practical response:** search current repositories, Git history, and forks for agent settings files; rotate possibly exposed credentials before rewriting history; avoid literal secrets in commands; use short-lived, scoped credentials or a secrets manager; and scan agent configuration and command strings as well as source code.
+
+### 2. AI projects are moving from chat experiments to repeatable, institution-specific workflows
+
+The [Research Information article](https://www.researchinformation.info/news/charleston-2026-from-ai-experiments-to-everyday-library-practice/) reports four library use cases that share a less glamorous but more durable design pattern: librarians define the task and data, make output expectations explicit, and remain responsible for checking results. A role-based learning platform organizes AI literacy into 18 modules rather than relying on a single introductory workshop. A Copilot agent turns a defined accessibility-document review into a repeatable report using a spreadsheet template, scoring method, field definitions, and page references. Vanderbilt assistants ground recommendations in library-owned database descriptions, subject relationships, librarian expertise, and publishing-agreement information—while the presenters also report that models sometimes invented librarians or made unreliable recommendations. At Georgia Southern, AI-assisted coding helped build conventional browser-automation tools for repository administration; a task affecting around 250 collections was reported to run in about 45 minutes, with ongoing testing and maintenance still required.
+
+**What this suggests:** useful adoption is less about handing a general chatbot more autonomy and more about codifying domain knowledge into reusable workflows. Templates and curated knowledge improve consistency, but they do not remove the need for subject-matter review, data maintenance, testing, and ownership of the software. The article is a report on conference presentations, not an independent evaluation of these systems.
+
+### 3. Model releases: no verified November 7 launch; keep the three tracks distinct
+
+The bounded check of [OpenAI’s newsroom](https://openai.com/news), [Anthropic’s newsroom](https://www.anthropic.com/news), Google’s official release pages, [Thinking Machines Lab’s Inkling 2 Small announcement](https://thinkingmachines.ai/news/inkling-2-small/), and [Mistral’s Le Chonk announcement](https://mistral.ai/news/mistral-large-4-oss/) found no qualifying November 7 foundation-model release. The dated releases surfaced in these checks were earlier: Google’s Gemini Omni 1.2 Flash and Thinking Machines’ Inkling 2 Small are dated November 5; Mistral’s Large 4 open-weight release is dated October 29; Nous Research’s Arete-27B repository was created November 6 at 13:31 CST. They are useful adjacent context, not November 7 launches.
+
+- **Closed frontier:** no November 7 model release was verified in the checked OpenAI and Anthropic newsroom pages.
+- **Open heavyweight scale:** no same-day open-weight flagship release was verified. Mistral Large 4 / Le Chonk is an earlier release; its [official announcement](https://mistral.ai/news/mistral-large-4-oss/) and model weights are available for self-hosting.
+- **Open-weights customization:** no same-day checkpoint release was verified. [Arete-27B](https://huggingface.co/NousResearch/Arete-27B) is adjacent-day context: its public model card lists Apache 2.0 and the repository creation time converts to November 6 CST.
+
+The release search was bounded, not exhaustive; diffusion-based language and multimodal release queries did not surface a verified November 7 launch. The [LLM Release Tracker](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-07-10_LLMReleaseTracker.md) and [open-weight model snapshot](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/OpenSourceModelsStateOfTheArt.md) provide broader navigational context.
+
+## Research papers and curation
+
+The read-only decision-store query found **0 `keep` decisions with approval timestamps that convert to November 7 in America/Chicago**. The complete set of earlier confirmed keeps was compared against previous dated briefings after deduplicating summary variants by underlying paper identity. All **889 distinct kept-paper identities** were already covered; no uncovered carry-forward paper remained. This edition therefore has **0 selected research-paper summary links**. Uncurated candidates are not represented as approved.
+
+This is a count of confirmed keeps, not evidence that no relevant papers were submitted. The official [arXiv scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-11-07_18-00.md) records HTTP 429 responses for `cs.AI`, `cs.LG`, and `cs.CL`, an empty `stat.ML` response, and a timed-out combined retry, so target-day paper discovery remains incomplete.
 
 ## What changed today
 
-- New same-day reporting quantified a credential-exposure pathway in Claude Code’s saved-command settings: 1,122 public copies with secrets and 1,379 distinct secret values, according to Apiiro’s analysis.
-- The evidence concerns exposed files, not 1,379 proven-valid credentials or confirmed attacks. Only one notified organization is reported to have confirmed that a key had been live.
-- The day’s verified signal extends the previous briefing’s agent-deployment security theme: [November 6 covered exposed ARTEX consoles](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md); this report concerns secrets stored in developer-side agent state and then published to Git repositories.
-- No same-day foundation-model release was verified in the bounded vendor and release-page checks. Several surfaced announcements were dated earlier in the week and were not recast as November 7 launches.
-- The local paper-decision query returned **0 confirmed November 7 keep decisions**. No uncurated paper is presented as selected research.
+- The day’s verified security finding concerns developer-side agent state: a remembered approval can persist the literal command, while publication to Git turns a local configuration risk into a shared credential exposure.
+- The library-practice article adds an adoption counterpoint: repeated, domain-specific workflows can be useful when teams bring explicit schemas, institutional knowledge, human review, and maintenance—not just a chat interface.
+- The model landscape has no verified November 7 foundation-model launch in the bounded lab and release-page checks. Nearby releases were date-checked rather than silently counted as today’s news.
+- No new research paper was confirmed as kept for the local target date, and no earlier kept-paper backlog remained uncovered after deduplication against prior briefs.
 
 ## What changed versus the previous briefing
 
-The [November 6 briefing](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md) emphasized persistent agent memory, tool-mediated scientific work, and exposed autonomous-testing interfaces. Today’s finding narrows the focus to a quieter but consequential surface: local approval configuration. Runtime isolation and public service exposure matter, but so do durable records of agent permissions, how they are ignored or committed, and whether security tooling recognizes secrets embedded in shell commands.
+The [November 6 briefing](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md) emphasized persistent agent memory, raw-evidence evaluation, model architectures, consumer agents, cyber deployment, and compute economics. November 7 adds two grounded operational views: the risk of credentials persisting in saved approvals, and the work required to turn AI pilots into repeatable institutional services. Both reinforce that agent reliability is a property of the whole workflow—permissions, data, output contracts, and oversight—not just the underlying model.
 
 ## Why it matters
 
-Agent security is a property of the whole workflow. A safe model can still participate in an unsafe outcome if an approval feature persists a literal credential, Git makes the file public, and a scanner misses the value. The responsible unit of review is therefore **model + harness + permission state + repository policy + secret-management practice**. This incident also cautions against treating a “local” settings filename or default ignore rule as an organizational control: local protection does not automatically cover teammates, already tracked files, history, or forks.
+AI is becoming embedded in work through saved permissions, local configuration, agents grounded in institutional knowledge, and automation that can touch real repositories or records. That makes controls around the model consequential in both directions: unsafe defaults can expose credentials, while explicit schemas and human-owned context can make useful workflows more repeatable. In either case, teams need to know what the system can access, what it persists, and who verifies the result.
 
-## Watch next
+## What to watch next
 
-1. Whether Anthropic changes how exact approved commands are persisted or adds stronger project-level protections; check the [Claude Code changelog](https://code.claude.com/docs/en/changelog) for a dated response.
-2. Whether Apiiro or independent researchers publish credential-validation and remediation results, without confusing exposed-looking strings with confirmed active secrets.
-3. Whether secret scanners improve detection of passwords and tokens embedded in shell commands, Git history, and agent configuration files.
-4. Whether repository templates and coding-agent tools make local settings, memory, and approval files safer by default across collaborators and cloud sessions.
-
-## Model and research coverage
-
-No same-day proprietary or open-weight foundation-model launch was verified in the checked lab/vendor pages and search results. This is a bounded search result, not proof that no release occurred. One relevant adjacent-day open-weight release is [Nous Research’s Arete-27B](https://nousresearch.com/arete), an Apache 2.0 supervised fine-tune of Qwen3.8-27B. The official Hugging Face API records its repository creation at 2026-11-06 19:31 UTC (13:31 CST on November 6), so it is not a November 7 launch. Nous reports that on its own 803-prompt evaluation, factual-recall scores rose from 2.32 to 2.98/5 and answers labeled as propaganda fell from 22% to 0.9%; these are the lab’s results using its evaluation and an LLM judge, not an independent replication. The [model card](https://huggingface.co/NousResearch/Arete-27B) documents the training and evaluation. Another surfaced candidate, [Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B), is dated October 24 in Hugging Face’s repository metadata; a November 5 benchmark article is not a new release. GPT-6 Cyber, Perplexity Teammates, and OpenAI’s funding report were also dated earlier than November 7 and are not presented as today’s events.
-
-The local curation database contains **0 keep decisions whose approval timestamp converts to November 7 in America/Chicago**. The prior November 6 briefing reported no uncovered earlier kept-paper carry-forward, so this edition links no research-paper summaries. arXiv discovery was attempted through the official API but was not usable this run; see the [scout coverage log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-11-07_18-00.md). No paper candidates were promoted on the basis of generic search results.
+1. Whether Anthropic changes saved-command behavior or adds stronger protections; check the [Claude Code changelog](https://code.claude.com/docs/en/changelog).
+2. Whether Apiiro or independent researchers publish credential-validation and remediation results; distinguish exposed values from confirmed active credentials.
+3. Whether secret scanners improve detection of passwords embedded in shell commands, history, and AI-agent configuration.
+4. Whether the library workflows publish reusable templates, evaluation methods, or evidence of sustained accuracy beyond conference demonstrations.
+5. Whether teams adopting AI assistants invest in institutional knowledge maintenance, review ownership, and post-launch software support.
+6. Continue checking both proprietary frontier releases and open-weight models, including multimodal and diffusion-based architectures; verify dates, weights, and license at the primary source.
 
 ## Research and intake audit
 
-- **Target date/cut-off:** November 7, 2026, America/Chicago, through 18:00 CST.
-- **Local intake:** no November 7 raw article capture was present under `raw/articles/`. The report was built from a same-day security-news article, the linked Apiiro research citation, and Claude Code’s official settings documentation. Apiiro’s page returned HTTP 403 to direct retrieval; its results are therefore attributed to Apiiro through the same-day Hacker News report, not described as independently re-audited.
-- **Classification:** included the documented credential-persistence and public-repository exposure issue. Excluded adjacent-date stories—including OpenAI’s November 6 funding report, Meta’s November 6 terms update, November 5 model announcements, and Perplexity’s November 4 Teammates launch—from the November 7 event set. Unverified model-launch and incident claims found in aggregators were not promoted without primary-source confirmation.
-- **Search provenance:** the direct Brave-backed provider could not run because `BRAVE_SEARCH_API_KEY` is unset. Generic web-search fallback was used for the requested lab/vendor and incident sweeps; this is not Brave provenance or exhaustive coverage. The targeted search and date checks are bounded.
-- **Paper curation:** a read-only query of `.curation/review.sqlite3`, converting stored UTC approval timestamps to America/Chicago, found **0 November 7 keep decisions**. The uncurated candidate set was not treated as approved.
-- **arXiv discovery:** the official API returned HTTP 429 for `cs.AI`, `cs.LG`, and `cs.CL`; the `stat.ML` request returned 0 entries. A combined category retry returned two additional 429 responses and then timed out. Thus target-day paper discovery is incomplete, not evidence that no relevant preprints exist.
-- **Model-release coverage:** no November 7 release was verified in the bounded search. Earlier dated results were excluded rather than reclassified as same-day launches.
-- **Links:** original research, reporting, and documentation URLs are visible beside the claims. GitHub-facing wiki links use absolute `raw.githubusercontent.com` URLs.
+- **Target date:** November 7, 2026, America/Chicago. The complete local calendar day is targeted; no adjacent date was substituted.
+- **Local intake:** the target-date raw intake included the [Research Information article capture](https://www.researchinformation.info/news/charleston-2026-from-ai-experiments-to-everyday-library-practice/) (scraped at 21:21 CST). The Claude Code credential story was verified from the same-day [The Hacker News report](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html), Apiiro’s linked primary research, and official Claude Code settings documentation. The available local news corpus is thin; this brief does not claim exhaustive news coverage.
+- **Classification:** both stories were included as materially AI-related. The library article’s source metadata mislabeled its topic as `model-release`; it is classified here by its actual subject, practical AI workflows and adoption. Unverified aggregator model/incident claims and adjacent-date items were excluded.
+- **Search provenance:** the required direct Brave-backed provider was unavailable because `BRAVE_SEARCH_API_KEY` is unset. Generic web search was used as a clearly labeled fallback, alongside direct checks of company newsroom/release pages. This sweep is bounded, not exhaustive, and is not described as Brave-backed.
+- **Model-release coverage:** no November 7 release was verified across the checked closed-frontier, open-heavyweight, or open-weights customization lanes. Google Gemini Omni 1.2 Flash and Thinking Machines Inkling 2 Small are dated November 5; Mistral Large 4 / Le Chonk October 29; Arete-27B’s Hugging Face repository creation converts to November 6 CST. No qualifying same-day diffusion-based language or multimodal release was verified.
+- **Curation:** the complete local SQLite decision table contains 900 keep rows (889 distinct kept-paper identities after duplicate-summary normalization); **0 approval timestamps convert to November 7 CST**. All earlier kept identities were already covered in earlier daily briefings, including the identified Claim Framing and After the Party aliases; therefore the selected-paper count and briefing paper-link count are both **0**. Page-level curation remains incomplete and should not be read as a complete inventory of every paper candidate.
+- **arXiv discovery:** the official API returned 429 for `cs.AI`, `cs.LG`, and `cs.CL`; `stat.ML` returned 0 records; a combined retry received more 429 responses and timed out. See the [scout log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-11-07_18-00.md). Research discovery is incomplete, not evidence that no relevant preprints exist.
+- **Publication controls:** paper discovery limitations did not block publication. GitHub sync remains blocked pending Rich’s review and explicit approval; no commit or push was made.
 
 ## Sources / references
 
-- [Apiiro — Coding agents copy your secrets to a hidden file](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) (research findings attributed through the reporting; direct page fetch returned HTTP 403).
-- [The Hacker News — Claude Code’s “Don’t Ask Again” file exposes passwords and keys in public GitHub copies](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html) (published November 7, 2026).
-- [Claude Code documentation — Settings files and precedence](https://code.claude.com/docs/en/settings).
-- [Claude Code changelog](https://code.claude.com/docs/en/changelog).
-- [Nous Research — Introducing Arete-27B](https://nousresearch.com/arete) and [Hugging Face model card](https://huggingface.co/NousResearch/Arete-27B) (repository created November 6 in America/Chicago).
-- [Nanbeige4.3-33B model card](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) (repository created October 24; not a November 7 release).
-- [Summary: Daily AI Intelligence Briefing — 2026-11-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md).
-- [November 7 arXiv scout coverage log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-11-07_18-00.md).
+- [Apiiro — Coding agents copy your secrets to a hidden file](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again) (research; direct retrieval returned HTTP 403).
+- [The Hacker News — Claude Code’s “Don’t Ask Again” file exposes passwords and keys in public GitHub copies](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html) (news article, November 7, 2026).
+- [Claude Code — Settings files and precedence](https://code.claude.com/docs/en/settings) and [changelog](https://code.claude.com/docs/en/changelog) (official documentation).
+- [Research Information — Charleston 2026: From AI experiments to everyday library practice](https://www.researchinformation.info/news/charleston-2026-from-ai-experiments-to-everyday-library-practice/) (conference-report article).
+- [OpenAI Newsroom](https://openai.com/news) and [Anthropic Newsroom](https://www.anthropic.com/news) (checked for dated releases).
+- [Google — Gemini Omni 1.2 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/) (November 5, 2026); [Thinking Machines — Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/) (November 5, 2026); [Mistral — Mistral Large 4 / Le Chonk open weights](https://mistral.ai/news/mistral-large-4-oss/) (October 29, 2026); [Nous Research Arete-27B model card](https://huggingface.co/NousResearch/Arete-27B) (repository created November 6 CST).
+- [Summary: Daily AI Intelligence Briefing — 2026-11-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md) and [November 7 arXiv scout coverage](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-11-07_18-00.md).
 
 ## CTA
 
-For any repository using an AI coding agent, inspect saved approvals and historical versions now; rotate potentially exposed credentials before deleting or rewriting history. Treat agent-generated settings and memory as sensitive artifacts, and scan them with detectors that understand command-line credential patterns.
+For any team using coding agents, audit saved approvals and historical repository versions, rotate any exposed credentials, and scan configuration as well as code. For AI workflows that affect library records or institutional services, define the data, output schema, reviewer, and maintenance owner before expanding access.
