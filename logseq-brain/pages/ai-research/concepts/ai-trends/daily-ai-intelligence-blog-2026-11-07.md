@@ -8,6 +8,8 @@ sources:
   - "https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again"
   - "https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html"
   - "https://code.claude.com/docs/en/settings"
+  - "https://nousresearch.com/arete"
+  - "https://huggingface.co/NousResearch/Arete-27B"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-11-07
 
@@ -48,7 +50,7 @@ Agent security is a property of the whole workflow. A safe model can still parti
 
 ## Model and research coverage
 
-No same-day proprietary or open-weight foundation-model launch was verified in the checked lab/vendor pages and search results. This is a bounded search result, not proof that no release occurred. Recent items such as GPT-6 Cyber, Perplexity Teammates, and the OpenAI funding report were dated November 5, November 4/5, and November 6 respectively, so they are not presented as new November 7 events.
+No same-day proprietary or open-weight foundation-model launch was verified in the checked lab/vendor pages and search results. This is a bounded search result, not proof that no release occurred. One relevant adjacent-day open-weight release is [Nous Research’s Arete-27B](https://nousresearch.com/arete), an Apache 2.0 supervised fine-tune of Qwen3.8-27B. The official Hugging Face API records its repository creation at 2026-11-06 19:31 UTC (13:31 CST on November 6), so it is not a November 7 launch. Nous reports that on its own 803-prompt evaluation, factual-recall scores rose from 2.32 to 2.98/5 and answers labeled as propaganda fell from 22% to 0.9%; these are the lab’s results using its evaluation and an LLM judge, not an independent replication. The [model card](https://huggingface.co/NousResearch/Arete-27B) documents the training and evaluation. Another surfaced candidate, [Nanbeige4.3-33B](https://huggingface.co/Nanbeige/Nanbeige4.3-33B), is dated October 24 in Hugging Face’s repository metadata; a November 5 benchmark article is not a new release. GPT-6 Cyber, Perplexity Teammates, and OpenAI’s funding report were also dated earlier than November 7 and are not presented as today’s events.
 
 The local curation database contains **0 keep decisions whose approval timestamp converts to November 7 in America/Chicago**. The prior November 6 briefing reported no uncovered earlier kept-paper carry-forward, so this edition links no research-paper summaries. arXiv discovery was attempted through the official API but was not usable this run; see the [scout coverage log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-11-07_18-00.md). No paper candidates were promoted on the basis of generic search results.
 
@@ -69,6 +71,8 @@ The local curation database contains **0 keep decisions whose approval timestamp
 - [The Hacker News — Claude Code’s “Don’t Ask Again” file exposes passwords and keys in public GitHub copies](https://thehackernews.com/2026/11/claude-codes-dont-ask-again-file.html) (published November 7, 2026).
 - [Claude Code documentation — Settings files and precedence](https://code.claude.com/docs/en/settings).
 - [Claude Code changelog](https://code.claude.com/docs/en/changelog).
+- [Nous Research — Introducing Arete-27B](https://nousresearch.com/arete) and [Hugging Face model card](https://huggingface.co/NousResearch/Arete-27B) (repository created November 6 in America/Chicago).
+- [Nanbeige4.3-33B model card](https://huggingface.co/Nanbeige/Nanbeige4.3-33B) (repository created October 24; not a November 7 release).
 - [Summary: Daily AI Intelligence Briefing — 2026-11-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md).
 - [November 7 arXiv scout coverage log](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/raw/logs/arxiv_scout_2026-11-07_18-00.md).
 
