@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-05
+> Last updated: 2026-11-07
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -95,7 +95,9 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
-- [Summary: Daily AI Intelligence Briefing — 2026-11-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md) — interim; GPT-6 Cyber, Gemini Omni 1.2 Flash, AI-R&D acceleration evidence, new physical-AI checkpoints, November 4 model updates, and compute-campus commitments; no November 5 paper keeps; Brave unavailable and arXiv API lagged
+- [Summary: Daily AI Intelligence Briefing — 2026-11-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-07.md) — Claude Code saved approvals and credential exposure in public repositories; 0 confirmed paper keeps; search and arXiv limitations disclosed
+- [Summary: Daily AI Intelligence Briefing — 2026-11-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md) — persistent agent memory, raw-evidence evaluation, model architecture, consumer agents, cyber deployment, and AI compute economics; no curated papers
+- [Summary: Daily AI Intelligence Briefing — 2026-11-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md) — canonical final locally; restricted and open-weight model releases, AI-assisted research and health findings, video and travel agents, and compute-community commitments; 0 target-date keeps; Brave and arXiv coverage limitations disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-03](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-03.md) — canonical final locally; verifiable inference, agentic science and engineering, managed open-model inference, AI-assisted R&D risk, and concealed deepfake apps; 13 local-day keeps plus 1 uncovered prior keep; public post blocked pending GitHub review
 - [Summary: Daily AI Intelligence Briefing — 2026-11-02](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-02.md) — canonical interim; Anthropic’s compute commitments, GDPx agent evaluation, publisher litigation over AI data access, and one uncovered prior kept paper; target-day paper curation and arXiv discovery remain incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-01](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-01.md) — canonical final; team coding-agent authority, election-information reliability, scoped IP controls, and 59 source-linked research papers
@@ -3430,3 +3432,4 @@ tags: ['wiki']
 - [[2026-11-05_OpenAIissteppingbackfromNDAsfordatacenterprojects.md]] : OpenAI is stepping back from NDAs for data center projects
 - [[2026-11-05_IntroducingInkling2Small.md]] : Introducing Inkling 2 Small
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md|Summary: Daily AI Intelligence Briefing — 2026-11-05]] — model access and licensing, research evidence, generative video and agents, health and learning studies, and compute-community commitments; 0 curated papers, curation and arXiv limitations disclosed
+- [[2026-11-06_CrusoesellstroubledWyomingdatacenterprojecttoGoogl.md]] : Crusoe sells troubled Wyoming data center project to Google
