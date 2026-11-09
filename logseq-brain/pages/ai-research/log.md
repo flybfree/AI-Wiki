@@ -5,7 +5,7 @@ tags: ['wiki']
 ---
 # Log
 
-## [2026-11-08 18:00] summarize | wrote the AI-only Nov 8 briefing through 18:00 CST: Anthropic's reported 1.7 GW/$3.4B generator commitments, Nov 6–7 agent-platform/security context, and all 3 papers whose keep decisions converted to Nov 8 CST; no same-day frontier-model release verified; local raw intake empty; Brave unavailable and arXiv API rate-limited, so discovery limitations documented; updated index, family rollup and coverage audit; sync Logseq trees and verify required GitHub commit/push
+## [2026-11-08 18:00] summarize | wrote the AI-only Nov 8 briefing through 18:00 CST: Anthropic's reported 1.7 GW/$3.4B generator commitments, Nov 6–7 agent-platform/security context, and all 3 papers whose keep decisions converted to Nov 8 CST; no same-day frontier-model release verified; local raw intake empty; Brave unavailable and arXiv API rate-limited, so discovery limitations documented; updated index, family rollup and coverage audit; verified SHA-256 parity across wiki and both Logseq trees; GitHub push and remote master verified
 
 ## [2026-11-08 00:00] finalize | completed and validated the November 7 AI-only briefing; incorporated the target-day library AI-practice capture, retained the verified Claude Code credential-exposure report, checked adjacent-date model releases, and corrected paper carry-forward normalization against the complete 900-row keep store (889 distinct identities, all previously covered); confirmed 0 November 7 keeps and 0 new paper links; Brave unavailable and arXiv discovery incomplete; updated dated page, index, family rollup, and coverage audit; published Lumistorm post 243 and verified its REST record and live page/archive; GitHub sync awaits Rich's review
 
