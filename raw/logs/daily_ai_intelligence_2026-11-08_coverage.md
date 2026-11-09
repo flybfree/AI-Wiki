@@ -2,35 +2,36 @@
 
 ## Scope and classification
 
-- **Target window:** Sunday, November 8, 2026, 00:00–18:00 CST (run cutoff). The local raw article intake had **no November 8 captures**.
-- **Included:** Financial Times report that Anthropic acquired 1.7 GW generator commitments for a reported $3.4B, also reported by Reuters; Google ADK 2.14.0 (GitHub tag published Nov 7; release notes dated Nov 4) and Claude Code 2.1.319 (Nov 6) as adjacent-day agent-platform updates; OpenAI–Hacktron vulnerability-testing partnership (Nov 6) as security context.
-- **Excluded from today's dated-event list:** OpenAI Images 2.6 (officially dated Nov 4); DeepSeek Harness's undated public-preview banner and older desktop/Creator Mode announcements (Sep 30 and Nov 2); unverified aggregator model-release rumors and unrelated/low-evidence items.
-- Reuters attributes the $3.4B/1.7 GW generator story to the FT and states it could not immediately verify the report; Anthropic and OnePWR did not comment. The brief preserves this qualification.
+- **Target window:** Sunday, November 8, 2026, 00:00–23:59 CST. The local raw intake contains two target-day captures: a TechCrunch NVIDIA board-investigation report and a CASRAI explainer on the Stanford AI Index.
+- **Included:** NVIDIA's November 8 board announcement of an independent inquiry following reports of a foreign-intelligence effort. The board says it has no reason to believe national security or NVIDIA secrets were compromised; allegations remain attributed and unproven. See the [official board statement](https://nvidianews.nvidia.com/news/statement-from-nvidia-board-of-directors), [Huang's message](https://nvidianews.nvidia.com/news/a-message-to-our-company), and [TechCrunch report](https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/).
+- **Excluded:** the CASRAI AI Index explainer, last updated November 7, because its substantive data centers on the 2024 report and it adds no material target-day development.
+- Also retained verified context from the FT/Reuters reporting on Anthropic's reported 1.7 GW generator commitments, Google ADK 2.14.0 (tag November 7; notes dated November 4), Claude Code 2.1.319 (November 6), and OpenAI–Hacktron (November 6). Reuters attributes the generator story to the FT and says it could not immediately verify the report; Anthropic and OnePWR did not comment.
+- Nearby product/model announcements were date-checked; no same-day frontier foundation-model release was verified in the bounded search. This is not a universal claim that none occurred.
 
-## Search and release coverage
+## Search and research coverage
 
-- The direct Brave-backed search integration was unavailable. A bounded generic web-search fallback, direct requests to primary company/release pages, and targeted searches for major labs, releases, security, policy, and research were used. This was **not** a Brave search and is not exhaustive.
-- Scoped checks included OpenAI, Anthropic, Google/DeepMind, Meta, DeepSeek, Qwen, Z.ai, Mistral, Microsoft, NVIDIA, and other lab/vendor release queries. **No same-day frontier foundation-model release was verified.** This is not a universal claim that no release occurred.
-- Adjacent-date checks: OpenAI Images 2.6 is dated Nov 4; Anthropic Claude Code 2.1.319 Nov 6; Google ADK 2.14.0 tag Nov 7 (release notes say Nov 4). DeepSeek Harness's “public preview” page is undated and the desktop preview was announced Sep 30; it was not counted as a Nov 8 launch.
+- The direct Brave-backed search integration was unavailable. A bounded generic web-search fallback, primary-company newsroom/release checks, and targeted major-lab and incident queries were used; this was not a Brave search and is not exhaustive.
+- The latest official arXiv scout log ([November 8, 21:21 CST](arxiv_scout_2026-11-08_21-21.md)) completed its configured 14 query families across 17 pages and 1,000 entries with no failed query family. However, the newest record was November 6 04:40 UTC, before the November 8 local target window. The scout therefore does not establish complete target-day paper coverage.
 
-## Paper curation and discovery
+## Paper curation and carry-forward
 
-- Read-only review-store query returned **903 keep rows overall**. Exactly **3** `keep` approval timestamps convert to November 8 in America/Chicago (stored approvals around 22:56 UTC / 16:56 CST).
-- Included all three with canonical original arXiv links: [Beyond Accuracy: How Quantization Affects Coding Agents](https://arxiv.org/abs/2611.02368), [Optimize the Harness, Not the Model](https://arxiv.org/abs/2611.03434), and [From Autonomous Agents to Cognitive Symbionts](https://arxiv.org/abs/2611.05376). The papers were submitted Nov 2/3; they are dated in this briefing by their Nov 8 approval timestamp, not their submission date.
-- No uncurated candidate was promoted. Page-level review remains incomplete; this is only the set of confirmed keeps for the local target date.
-- Official arXiv API discovery was incomplete: an initial combined query returned HTTP 429; an alternate endpoint request timed out; a narrow `cs.AI` target-date query returned HTTP 200 with zero entries; later broad and topic-targeted queries returned HTTP 503 and HTTP 429. See [scout log](arxiv_scout_2026-11-08_18-00.md). This does not show that no relevant papers exist.
+- A complete read-only query of the local SQLite decision table returned **903 keep rows overall**. Converting all approval timestamps to America/Chicago yields **3 keep decisions dated November 8**.
+- All three identities were normalized and resolved to existing canonical `*_summary.md` pages under `concepts/papers/`: [Beyond Accuracy: How Quantization Affects Coding Agents](https://arxiv.org/abs/2611.02368v1), [Optimize the Harness, Not the Model](https://arxiv.org/abs/2611.03434v1), and [From Autonomous Agents to Cognitive Symbionts](https://arxiv.org/abs/2611.05376v1). These were approved November 8; their arXiv submissions predate the approval day.
+- Prior approvals comprise 900 keep rows / 889 distinct identities after duplicate-summary normalization. Comparison with earlier dated briefings, including same-paper version aliases, found **0 uncovered carry-forward papers**. No uncurated candidate is presented as approved.
+- Page-level curation remains incomplete, so three is the confirmed November 8 keep count, not a complete inventory of relevant research.
+- The three local canonical summaries were repaired to expose the visible versioned arXiv URL. Local chain verification is **3 briefing links → 3 existing canonical summaries → 3 visible original-paper URLs**. The currently published raw GitHub copies were checked and still lack the original-paper URLs (**0/3 remote chains complete**) pending Rich's review and explicit approval to sync.
 
-## Wiki, Logseq, and publication
+## Wiki, mirrors, and publication
 
-- Created `concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md`, updated the index, daily-variants rollup, and log, and added this coverage audit plus the arXiv scout log.
-- Included the three confirmed kept-paper summaries in the daily briefing with their canonical arXiv links.
-- Mirrored today's briefing/audit/scout log and the three kept-paper pages into the repository Logseq graph and the user's Logseq graph. SHA-256 checks confirmed byte-identical copies across the wiki and both Logseq trees for the briefing, logs, index, rollup, and all three kept-paper summaries.
-- GitHub push completed; the remote `master` ref matched local `master` during final verification.
+- Updated `concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md` to cover the full target day and include the NVIDIA governance item; updated `index.md`, the daily family rollup, and this audit.
+- Updated the three selected paper summaries with their canonical original-paper URLs. The briefing, index, family rollup, log, coverage audit, and all three summaries were copied to both configured Logseq trees; SHA-256 checks confirmed every mirror copy is byte-identical to the wiki source.
+- No Git commit or push was made in this run. GitHub sync remains blocked pending Rich's review and explicit approval.
+- WordPress preflight succeeded: authenticated `users/me` returned HTTP 200; stable slug `daily-ai-intelligence-2026-11-08` was absent; the existing `Daily AI Briefing` category ID 5 was found. **No post was created or updated** because the linked GitHub summary pages remain stale and fail the required summary-to-original-paper chain, and this job may not push without Rich's approval. The cache-busted public post URL returned HTTP 404; `/blog/` returned HTTP 200 without the dated slug. Lumistorm publication is therefore incomplete, not substituted by the local wiki draft.
 
 ## Unresolved limitations
 
-- No local Nov 8 raw news batch; news collection depended on the bounded external search fallback.
-- Direct Brave search unavailable; fallback search was not exhaustive.
-- arXiv API rate-limit/server errors prevented a complete Nov 8 category/topic scout.
-- The generator transaction remains an FT report that Reuters said it could not independently verify at publication time.
-- Research coverage and page-level curation are not complete inventories of all relevant papers.
+- No direct Brave-backed search; fallback coverage is bounded.
+- Official arXiv scout completed its configured queries but its newest result predates the target window; target-day research coverage is not exhaustive.
+- Page-level paper curation remains incomplete; only 3 confirmed target-day keeps are included.
+- GitHub copies of the three selected summaries lack original-paper URLs pending explicit review/approval. Consequently the required public paper-link chain and Lumistorm publication remain blocked.
+- The Anthropic generator transaction remains an FT report that Reuters said it could not independently verify at publication time.

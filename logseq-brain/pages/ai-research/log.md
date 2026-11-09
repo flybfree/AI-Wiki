@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-11-09 00:00] finalize | completed full-day verification for the November 8 AI briefing; corrected the intake window to include the target-day NVIDIA board investigation, excluded a stale AI Index explainer, and retained the attributed Anthropic power report plus agent-platform/security context; complete local curation query confirmed 3 Nov 8 keeps and no uncovered prior keep; repaired all 3 local canonical paper summaries with versioned arXiv URLs and verified the local 3→3→3 chain; updated dated brief, index, family rollup, and coverage audit; mirrored all changed files to both Logseq trees and verified SHA-256 identity; authenticated WordPress (HTTP 200), confirmed slug absent and reused-category ID 5, but made no post write because GitHub summary targets remain stale and GitHub sync awaits Rich's review; no commit or push
+
 ## [2026-11-08 18:00] summarize | wrote the AI-only Nov 8 briefing through 18:00 CST: Anthropic's reported 1.7 GW/$3.4B generator commitments, Nov 6–7 agent-platform/security context, and all 3 papers whose keep decisions converted to Nov 8 CST; no same-day frontier-model release verified; local raw intake empty; Brave unavailable and arXiv API rate-limited, so discovery limitations documented; updated index, family rollup and coverage audit; verified SHA-256 parity across wiki and both Logseq trees; GitHub push and remote master verified
 
 ## [2026-11-08 00:00] finalize | completed and validated the November 7 AI-only briefing; incorporated the target-day library AI-practice capture, retained the verified Claude Code credential-exposure report, checked adjacent-date model releases, and corrected paper carry-forward normalization against the complete 900-row keep store (889 distinct identities, all previously covered); confirmed 0 November 7 keeps and 0 new paper links; Brave unavailable and arXiv discovery incomplete; updated dated page, index, family rollup, and coverage audit; published Lumistorm post 243 and verified its REST record and live page/archive; GitHub sync awaits Rich's review
@@ -17615,3 +17617,39 @@ tags: ['wiki']
 ## [2026-11-06 00:08] publish | Lumistorm post #242 created at daily-ai-intelligence-2026-11-05; WordPress REST readback verified published status and category ID 5; cache-busted post and /blog/ archive returned HTTP 200 with the dated story first in the archive and source links visible; no Git commit/push, awaiting Rich review
 ## [2026-11-06 21:07] ingest | 2026-11-06_CrusoesellstroubledWyomingdatacenterprojecttoGoogl.md
 ## [2026-11-07 21:22] ingest | 2026-11-07_Charleston2026_FromAIexperimentstoeverydaylibraryp.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_12-11-13Z_WhenBiggerBecomesBrittle_WhyCompressionHurtsMoreas.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_19-36-44Z_ForcingaLetterSuppressesRefusal_MechanisticEvidenc.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_08-06-37Z_BeneaththeSurface_WhatWeOverlookWhenWeTalkAboutAge.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_18-09-46Z_NotAllMisalignmentIsAlike_ADecomposedBenchmarkforE.md
+## [2026-11-08 21:42] stage-paper | 2026-11-06_00-06-13Z_IThink_ThereforeIAttack_EvaluatingThoughtInjection.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_14-49-11Z_CreateYourOwnWorkStack_DeployingSelf_hostedAIandTo.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_16-16-08Z_Signals_Evidence_andContext_UserScrutinyinReal_Wor.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_21-14-16Z_RememberingIsNotEnough_EvaluatingTimingandOmission.md
+## [2026-11-08 21:42] stage-paper | 2026-11-04_20-58-20Z_AProxy_BasedMethodforMeasuringRacialDisparitiesin_.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_08-51-37Z_WhoShouldKnowWhat_EmpiricalInformationDesignforMul.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_01-08-43Z_HowShouldAgentsSeeCode_RethinkingCodeRepresentatio.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_07-57-01Z_ThePopularGetMorePopular_AuditingBrandBiasinGenera.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_20-24-07Z_PdborNottoBe_ComparingDebuggingInterfacesWithPass_.md
+## [2026-11-08 21:42] stage-paper | 2026-11-04_21-03-10Z_MatriarchyClassics_AComputationalApproachtoSwapOnl.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_08-38-51Z_Don_tPromptYourAgents_EquipThem_SkillwareasaModula.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_19-07-15Z_s__3__SimpleScalingofSwarmsviaCooperativeMulti_age.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_21-56-29Z_Howareviraltrendsdifferentfromeducationalandcommer.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_07-44-28Z_Evolver_TurningAgentExplorationintoEvolvingCapabil.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_19-05-40Z_NormGym_EvaluatingNormativeCompetencethroughSocial.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_05-15-27Z_TheLastMiletotheRealWorld_Agent_NativePrimitivesas.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_20-43-38Z_CancellationIsNotEnough_WhatRetriesLeaveBehindinan.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_18-22-24Z_ThePowerofMetaAccessintheSoftwareoftheFuture___Dem.md
+## [2026-11-08 21:42] stage-paper | 2026-11-04_14-18-05Z_AdditionbySubtraction_TowardMitigatingFragileSafet.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_03-32-12Z_AdversarialMultiplicity_Cherry_PickedModelsandtheL.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_05-19-44Z_FINCOSMOS_AnOpen_WorldEvaluationParadigmforAgentsi.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_07-01-59Z_TheMemoryTrap_LanguageAgentsOvergeneralizefromBeni.md
+## [2026-11-08 21:42] stage-paper | 2026-11-04_23-18-10Z_SPILLWAY_SeparatingTargetAdmissionfromSanitization.md
+## [2026-11-08 21:42] stage-paper | 2026-11-04_21-49-40Z_Multi_stepSWE_CanCodingAgentsKeepBuildingonTheirOw.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_18-55-54Z_XStack_ABenchmarkforMLRepoMigration.md
+## [2026-11-08 21:42] stage-paper | 2026-11-06_02-46-06Z_FromProcedurestoPermissions_LearningPreciseSubagen.md
+## [2026-11-08 21:42] stage-paper | 2026-11-04_18-14-50Z_CompressionBench_HowcanyourcodingagentscompressLLM.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_12-49-20Z_ABehaviouralFrameworkforPredictingandUnderstanding.md
+## [2026-11-08 21:42] stage-paper | 2026-11-05_22-30-59Z_Conflux_PreventingPrivilegeEscalationwithPrincipal.md
+## [2026-11-08 21:42] stage-paper | 2026-11-04_23-38-46Z_Archetypalcontextsintheneuronsoflanguagemodels_ana.md
+## [2026-11-08 21:42] ingest | 2026-11-08_StanfordAIIndex_Data_Metrics_andResearch-CASRAI.md
+## [2026-11-08 21:42] ingest | 2026-11-08_NvidiawillinvestigateCEOJensenHuang_srelationshipw.md

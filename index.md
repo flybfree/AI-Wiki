@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
-- [Summary: Daily AI Intelligence Briefing — 2026-11-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md) — Anthropic’s reported $3.4B/1.7 GW generator commitments; agent runtime/platform updates; three papers approved Nov 8; arXiv discovery limits disclosed
+- [Summary: Daily AI Intelligence Briefing — 2026-11-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md) — Anthropic’s reported $3.4B/1.7 GW generator commitments, NVIDIA board security inquiry, agent-platform updates, and three papers approved Nov 8; bounded research coverage and pending GitHub review disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-07.md) — agent credential exposure through saved approvals; library AI workflows moving from pilots to repeatable systems; no verified Nov 7 model launch; 0 selected papers, with search and arXiv limitations disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md) — persistent agent memory, raw-evidence evaluation, model architecture, consumer agents, cyber deployment, and AI compute economics; no curated papers
 - [Summary: Daily AI Intelligence Briefing — 2026-11-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md) — canonical final locally; restricted and open-weight model releases, AI-assisted research and health findings, video and travel agents, and compute-community commitments; 0 target-date keeps; Brave and arXiv coverage limitations disclosed
@@ -2908,21 +2908,16 @@ tags: ['wiki']
 - [[2026-09-25_MetamakestheMusefilesystemevenmoreaccessible.md]] : Meta makes the Muse filesystem even more accessible
 - [[2026-09-25_U_S_appealscourtupholdsdesignationofAnthropicassup.md]] : U.S. appeals court upholds designation of Anthropic as supply chain risk
 - [[2026-09-25_SomeSupabasecustomersarepubliclyexposingreamsofpeo.md]] : Some Supabase customers are publicly exposing reams of people’s data to the web
-- [[2026-09-25_MarkWahlbergiscomingtoTechCrunchDisrupt2026_andhew.md]] : Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his
 - [[2026-09-25_Ollaya_Ollamaforopen-source_Jev-styledecisionmodel.md]] : Ollaya – Ollama for open-source, Jev-style decision models
 - [[2026-09-25_AnthropictopayAkamai_11_6billionoversevenyearsincl.md]] : Anthropic to pay Akamai $11.6 billion over seven years in cloud deal
 - [[2026-09-25_MetaopensearlyaccessprogramfornewMusefeatures.md]] : Meta opens early access program for new Muse features
 - [[2026-09-25_Crusoeabandons_1_25BplantouseBoomturbinesatAIdatac.md]] : Crusoe abandons $1.25B plan to use Boom turbines at AI data centers
-- [[2026-09-25_RevealingthedetailsofhowOpenAIagentshackedHuggingF.md]] : Revealing the details of how OpenAI agents hacked Hugging Face
-- [[2026-09-25_WhatifAIdoomsayingis_ineffect_commonsense_-AFR.md]] : What if AI doom saying is, in effect, common sense? - AFR
-- [[2026-09-25_AtMetaConnect_thecompany_ssmartglasseswereeverywhe.md]] : At Meta Connect, the company’s smart glasses were everywhere
-- [[2026-09-26_RevealingthedetailsofhowOpenAIagentshackedHuggingF.md]] : Revealing the details of how OpenAI agents hacked Hugging Face
-- [[2026-09-26_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
-- [[2026-09-26_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
-- [[2026-09-26_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[entities/article/2026-09-26_RevealingthedetailsofhowOpenAIagentshackedHuggingF_summary.md]] : Revealing the details of how OpenAI agents hacked Hugging Face
+- [[entities/article/2026-09-26_RevealingthedetailsofhowOpenAIagentshackedHuggingF_summary.md]] : Revealing the details of how OpenAI agents hacked Hugging Face
+- [[entities/article/2026-09-29_Automatingcoherentlong-formvideogeneration_summary.md]] : Automating coherent long-form video generation
+- [[entities/article/2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem_summary.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[entities/article/2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art_summary.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-26_MetamakestheMusefilesystemevenmoreaccessible.md]] : Meta makes the Muse filesystem even more accessible
-- [[2026-09-26_AtMetaConnect_thecompany_ssmartglasseswereeverywhe.md]] : At Meta Connect, the company’s smart glasses were everywhere
-- [[2026-09-26_WhatifAIdoomsayingis_ineffect_commonsense_-AFR.md]] : What if AI doom saying is, in effect, common sense? - AFR
 - [[2026-09-26_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
 - [[2026-09-26_HowtokeepenjoyingprogramminginaworldofLLMs.md]] : How to keep enjoying programming in a world of LLMs
 - [[2026-09-26_Fifteenyearslater_theAppleCardsoriginstory.md]] : Fifteen years later, the Apple Cards origin story
@@ -2933,138 +2928,109 @@ tags: ['wiki']
 - [[2026-09-26_InsurersclaimAIisalreadyincreasinghealthcarecosts.md]] : Insurers claim AI is already increasing healthcare costs
 - [[2026-09-26_DoesGeorgismwork_Fiveyearslater.md]] : Does Georgism work? Five years later
 - [[2026-09-26_GoogletestsbuyingfromWalmart-ownedFlipkartthroughG.md]] : Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
-- [[2026-09-26_GoConcurrencyDistilled.md]] : Go Concurrency Distilled
-- [[2026-09-27_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
-- [[2026-09-27_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[entities/article/2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem_summary.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[entities/article/2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art_summary.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-27_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
 - [[2026-09-27_GoogletestsbuyingfromWalmart-ownedFlipkartthroughG.md]] : Google tests buying from Walmart-owned Flipkart through Gemini and AI Mode in India
-- [[2026-09-27_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
-- [[2026-09-27_OpenAIpausestrainingofits_mostcapablemodels_.md]] : OpenAI pauses training of its ‘most capable models’
-- [[2026-09-27_GoConcurrencyDistilled.md]] : Go Concurrency Distilled
-- [[2026-09-27_OpenAIagentstriedtobruteforceaUNwebsite_sAPIfields.md]] : OpenAI agents tried to bruteforce a UN website's API fields
-- [[2026-09-27_DoesGeorgismwork_Fiveyearslater.md]] : Does Georgism work? Five years later
-- [[2026-09-27_OpenAIFeared_Optics_ofwhatmightappearonHackerNews.md]] : OpenAI Feared "Optics" of what might appear on Hacker News
-- [[2026-09-27_MetaBlocksPresidentLula_sFacebookPage_CampaignAds2.md]] : Meta Blocks President Lula's Facebook Page, Campaign Ads 2 Weeks from Election
+- [[entities/article/2026-09-29_Automatingcoherentlong-formvideogeneration_summary.md]] : Automating coherent long-form video generation
+- [[entities/article/2026-09-27_OpenAIpausestrainingofits_mostcapablemodels__summary.md]] : OpenAI pauses training of its ‘most capable models’
+- [[entities/article/2026-09-27_OpenAIagentstriedtobruteforceaUNwebsite_sAPIfields_summary.md]] : OpenAI agents tried to bruteforce a UN website's API fields
+- [[entities/article/2026-09-27_OpenAIFeared_Optics_ofwhatmightappearonHackerNews_summary.md]] : OpenAI Feared "Optics" of what might appear on Hacker News
 - [[2026-09-27__AsaLanguageModel__ChatTemplateSwitchesLLMSelf-Ref.md]] : "As a Language Model": Chat Template Switches LLM Self-Referential Voice
-- [[2026-09-27_HowAIischangingmedicalresearch_treatmentinarea_New.md]] : How AI is changing medical research , treatment in area | News | cbs19news.com
-- [[2026-09-27_FlipFluidonFlipDots.md]] : Flip Fluid on Flip Dots
+- [[entities/article/2026-09-27_HowAIischangingmedicalresearch_treatmentinarea_New_summary.md]] : How AI is changing medical research , treatment in area | News | cbs19news.com
 - [[raw/articles/2026-09-27_Inan_80MotelRoom_aDiscoverytoShedLightontheOrigins.md]] : In an $80 Motel Room, a Discovery to Shed Light on the Origins of Life
 - [[2026-09-27_TheNormalizationofInexplicableFailures.md]] : The Normalization of Inexplicable Failures
-- [[2026-09-27_OpenAIagentstriedto_bruteforce_aUNwebsite.md]] : OpenAI agents tried to ‘bruteforce’ a UN website
+- [[entities/article/2026-09-27_OpenAIagentstriedto_bruteforce_aUNwebsite_summary.md]] : OpenAI agents tried to ‘bruteforce’ a UN website
 - [[2026-09-27_Ember-1.md]] : Ember-1
 - [[2026-09-27_CanMuseovercomeMeta_strustissues_.md]] : Can Muse overcome Meta’s trust issues?
-- [[2026-09-27_WhendidGooglegetsoweird_.md]] : When did Google get so weird?
-- [[2026-09-27_Anthropic_sCEOisabouttohavedinnerwithPresidentTrum.md]] : Anthropic’s CEO is about to have dinner with President Trump
-- [[2026-09-27_EngramisasamplerthatturnsbrokenAIhallucinationsint.md]] : Engram is a sampler that turns broken AI hallucinations into music
-- [[2026-09-27_Self-parkingcarusinggeneticalgorithm_2021_.md]] : Self-parking car using genetic algorithm (2021)
-- [[2026-09-27_OwedabilliondollarsinNvidiastock.md]] : Owed a billion dollars in Nvidia stock
-- [[2026-09-27_UIcomputerscienceprofessorsdiscussgrowingAIsafetyc.md]] : UI computer science professors discuss growing AI safety concerns - The Daily Illini
-- [[2026-09-28_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
-- [[2026-09-28_EngramisasamplerthatturnsbrokenAIhallucinationsint.md]] : Engram is a sampler that turns broken AI hallucinations into music
-- [[2026-09-28_UIcomputerscienceprofessorsdiscussgrowingAIsafetyc.md]] : UI computer science professors discuss growing AI safety concerns - The Daily Illini
-- [[2026-09-28_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
+- [[entities/article/2026-09-27_WhendidGooglegetsoweird__summary.md]] : When did Google get so weird?
+- [[entities/article/2026-09-28_EngramisasamplerthatturnsbrokenAIhallucinationsint_summary.md]] : Engram is a sampler that turns broken AI hallucinations into music
+- [[entities/article/2026-09-27_Self-parkingcarusinggeneticalgorithm_2021__summary.md]] : Self-parking car using genetic algorithm (2021)
+- [[entities/article/2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem_summary.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[entities/article/2026-09-28_EngramisasamplerthatturnsbrokenAIhallucinationsint_summary.md]] : Engram is a sampler that turns broken AI hallucinations into music
+- [[entities/article/2026-09-29_Automatingcoherentlong-formvideogeneration_summary.md]] : Automating coherent long-form video generation
 - [[2026-09-28_Anthropic_sCEOisabouttohavedinnerwithPresidentTrum.md]] : Anthropic’s CEO is about to have dinner with President Trump
-- [[2026-09-28_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-28_OwedabilliondollarsinNvidiastock.md]] : Owed a billion dollars in Nvidia stock
+- [[entities/article/2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art_summary.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-28_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
-- [[2026-09-28_PromptingClaudeOpus5_5.md]] : Prompting Claude Opus 5.5
-- [[2026-09-28_AIPrinciples_GoogleAI.md]] : AI Principles — Google AI
+- [[entities/article/2026-09-28_PromptingClaudeOpus5_5_summary.md]] : Prompting Claude Opus 5.5
 - [[2026-09-28_Modulateraises_25Mforitsvoicemodelsandanalysissuit.md]] : Modulate raises $25M for its voice models and analysis suite
-- [[2026-09-28_Anthropic_Gamma_andClaysharewhathappenswhenenterpr.md]] : Anthropic, Gamma, and Clay share what happens when enterprises actually deploy AI at TechCrunch Disrupt 2026
 - [[2026-09-28_OpenAIstilldoesn_tseemtohaveahandleonallofitsrogue.md]] : OpenAI still doesn’t seem to have a handle on all of its rogue AI activity
-- [[2026-09-28_TheproblemisnottheAIcode_butnobodyknowsanythingany.md]] : The problem is not the AI code, but nobody knows anything anymore
 - [[2026-09-28_AnthropicreleasesSonnet5_5_whichitcallsasignifican.md]] : Anthropic releases Sonnet 5.5, which it calls a significantly cheaper, faster work partner
-- [[2026-09-28_ClaudeSonnet5_5.md]] : Claude Sonnet 5.5
-- [[2026-09-28_FloridaseeksabanonChatGPTactinglikeaperson.md]] : Florida seeks a ban on ChatGPT acting like a person
-- [[2026-09-28_TheLenfestInstitutegrowslandmarkprogramwithexpande.md]] : The Lenfest Institute grows landmark program with expanded OpenAI support
+- [[entities/article/2026-09-28_ClaudeSonnet5_5_summary.md]] : Claude Sonnet 5.5
+- [[entities/article/2026-09-28_FloridaseeksabanonChatGPTactinglikeaperson_summary.md]] : Florida seeks a ban on ChatGPT acting like a person
+- [[entities/article/2026-09-28_TheLenfestInstitutegrowslandmarkprogramwithexpande_summary.md]] : The Lenfest Institute grows landmark program with expanded OpenAI support
 - [[2026-09-28_Shopifyopenscheckouttobrowser-basedAIagents.md]] : Shopify opens checkout to browser-based AI agents
-- [[2026-09-28_PiratingthePirates.md]] : Pirating the Pirates
 - [[2026-09-28_OpenAI_sAIagentsneedtocatchup.md]] : OpenAI’s AI agents need to catch up
 - [[2026-09-28_Source_InferenceproviderModalLabsclosinginon_750Mr.md]] : Source: Inference provider Modal Labs closing in on $750M round at $15.75B valuation
-- [[2026-09-28_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
+- [[entities/article/2026-09-29_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth_summary.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
 - [[2026-09-28_Jeff_Jev-compatible0_8Bdecisionmodels_trainedathom.md]] : Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms
-- [[2026-09-28_HowwewilldobetterforAustralia.md]] : How we will do better for Australia
-- [[2026-09-29_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-29_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
-- [[2026-09-29_Automatingcoherentlong-formvideogeneration.md]] : Automating coherent long-form video generation
-- [[2026-09-29_HowwewilldobetterforAustralia.md]] : How we will do better for Australia
-- [[2026-09-29_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
+- [[entities/article/2026-09-29_HowwewilldobetterforAustralia_summary.md]] : How we will do better for Australia
+- [[entities/article/2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art_summary.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[entities/article/2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem_summary.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[entities/article/2026-09-29_Automatingcoherentlong-formvideogeneration_summary.md]] : Automating coherent long-form video generation
+- [[entities/article/2026-09-29_HowwewilldobetterforAustralia_summary.md]] : How we will do better for Australia
+- [[entities/article/2026-09-29_AMDisacquiringAIcompanyWorldLabsinadealworthmoreth_summary.md]] : AMD is acquiring AI company World Labs in a deal worth more than $8 billion
 - [[2026-09-29_Anthropic_sprospectusdetailslosses_growth_and_yes_.md]] : Anthropic’s prospectus details losses, growth, and, yes, a warning that its AI could end humanity
-- [[2026-09-29_AIcompaniesleakdatatoadvertisers_pdf_.md]] : AI companies leak data to advertisers [pdf]
-- [[2026-09-29_YouAreNoLongerInvitedtoDinner.md]] : You Are No Longer Invited to Dinner
+- [[entities/article/2026-09-29_AIcompaniesleakdatatoadvertisers_pdf__summary.md]] : AI companies leak data to advertisers [pdf]
 - [[2026-09-29_OpenAIapologizestoAustraliaafteritsAIagentsbreache.md]] : OpenAI apologizes to Australia after its AI agents breached government sites
-- [[2026-09-29_WillChineseAIcompaniesslowdown_AtopHouseDemocratwa.md]] : Will Chinese AI companies slow down? A top House Democrat wants answers
+- [[entities/article/2026-09-29_WillChineseAIcompaniesslowdown_AtopHouseDemocratwa_summary.md]] : Will Chinese AI companies slow down? A top House Democrat wants answers
 - [[2026-09-29_WithDazzle_MarissaMayerbetsyourcamerarollhasmorein.md]] : With Dazzle, Marissa Mayer bets your camera roll has more info on your life than your inbox
 - [[2026-09-29_Meta__8217_sMuseAIsentaYouTuber_saddresstoastrange.md]] : Meta&#8217;s Muse AI sent a YouTuber’s address to a stranger
 - [[2026-09-29_Instinctfoundersaidmorethan50_oftransactionsonthep.md]] : Instinct founder said more than 50% of transactions on the platform are travel-related
 - [[2026-09-29_FromAIpredictiontoantibodyvalidationindays-News-Me.md]] : From AI prediction to antibody validation in days - News-Medical
-- [[2026-09-29_Canachatbotfixthegovernmentmaze_TheWhiteHouseisabo.md]] : Can a chatbot fix the government maze? The White House is about to find out
+- [[entities/article/2026-09-29_Canachatbotfixthegovernmentmaze_TheWhiteHouseisabo_summary.md]] : Can a chatbot fix the government maze? The White House is about to find out
 - [[2026-09-29_GPT6_1Sol.md]] : GPT 6.1 Sol
 - [[2026-09-29_OpenAItakesonMicrosoftwiththelaunchofwhatfeelsawho.md]] : OpenAI takes on Microsoft with the launch of what feels a whole lot like ChatGPT’s own office suite
 - [[2026-09-29_OpenAIDevDay2026_Thebiggestnewsandannouncements.md]] : OpenAI DevDay 2026: The biggest news and announcements
 - [[2026-09-29_GPT6_1Sol_Near-Astraintelligenceforafifthofthepric.md]] : GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price
 - [[2026-09-29_DevDay2026Recap.md]] : DevDay 2026 Recap
-- [[2026-09-29_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
-- [[2026-09-29_OpenAIrepotedlyintalkstoraise_30Broundat_1_4Tvalua.md]] : OpenAI repotedly in talks to raise $30B round at $1.4T valuation
-- [[2026-09-29_U_S_postalinspectorsshutdownwebsitesellingcounterf.md]] : U.S. postal inspectors shut down website selling counterfeit postage labels
-- [[2026-09-29_OpenAI_slatestfeaturestakedirectaimattheappstoremo.md]] : OpenAI’s latest features take direct aim at the app store model
+- [[entities/article/2026-10-01_HowDiffusionControllerunifiesandsimplifiesAIimageg_summary.md]] : How Diffusion Controller unifies and simplifies AI image generation
+- [[entities/article/2026-09-29_OpenAI_slatestfeaturestakedirectaimattheappstoremo_summary.md]] : OpenAI’s latest features take direct aim at the app store model
 - [[2026-09-29_AIresearchersputoutvideossayingsuperintelligenceis.md]] : AI researchers put out videos saying superintelligence is ‘exactly as dangerous as it sounds’
 - [[2026-09-29_IntroducingGPT-6_1Sol.md]] : Introducing GPT-6.1 Sol
 - [[2026-09-29_ElonMusk__8217_sAI-poweredGrokipediaisupdatingagai.md]] : Elon Musk&#8217;s AI-powered Grokipedia is updating again
 - [[2026-09-29_TrumpordersUSgovernmenttocallAI_SuperIntelligence_.md]] : Trump orders US government to call AI ‘Super Intelligence’
-- [[2026-09-29_TheinternetisconvincedElonMusk_sxAItrolledOpenAI_s.md]] : The internet is convinced Elon Musk’s xAI trolled OpenAI’s ‘Dots’ launch
 - [[2026-09-29_Livenerf_HasOpus5_5beennerfedyet_.md]] : Livenerf: Has Opus 5.5 been nerfed yet?
 - [[2026-09-29_America_govgetsreallyweirdwhenyouaskitaboutMinecra.md]] : America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch
 - [[2026-09-29_SamAltmansaysOpenAIwon_tgopublicuntilitsmodelsares.md]] : Sam Altman says OpenAI won’t go public until its models are safe
 - [[2026-09-30_SamAltmansaysOpenAIwon_tgopublicuntilitsmodelsares.md]] : Sam Altman says OpenAI won’t go public until its models are safe
-- [[2026-09-30_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
-- [[2026-09-30_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
+- [[entities/article/2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem_summary.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[entities/article/2026-10-01_HowDiffusionControllerunifiesandsimplifiesAIimageg_summary.md]] : How Diffusion Controller unifies and simplifies AI image generation
 - [[2026-09-30_IntroducingGPT-6_1Sol.md]] : Introducing GPT-6.1 Sol
 - [[2026-09-30_America_govgetsreallyweirdwhenyouaskitaboutMinecra.md]] : America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch
 - [[2026-09-30_Livenerf_HasOpus5_5beennerfedyet_.md]] : Livenerf: Has Opus 5.5 been nerfed yet?
-- [[2026-09-30_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-09-30_September2026_Theworldtoday_asseenbyonePolishguy.md]] : September 2026: The world today, as seen by one Polish guy
+- [[entities/article/2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art_summary.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-30_Pi_dev_YouSaidNoMCP.md]] : Pi.dev: You Said No MCP
 - [[2026-09-30_AirbnbaddsAIsearch_moresocialfeatures.md]] : Airbnb adds AI search, more social features
 - [[2026-09-30_Here_showtechleaderswillself-policeAIsafetyunderTr.md]] : Here’s how tech leaders will self-police AI safety under Trump’s deal
-- [[2026-09-30_HelpingsmallbusinessesputAItowork.md]] : Helping small businesses put AI to work
+- [[entities/article/2026-09-30_HelpingsmallbusinessesputAItowork_summary.md]] : Helping small businesses put AI to work
 - [[2026-09-30_TheAIRaceJustGotAwkward.md]] : The AI Race Just Got Awkward
 - [[2026-09-30_AllthelatestnewsonMeta_scute_creepyMuseAIagent.md]] : All the latest news on Meta’s cute, creepy Muse AI agent
-- [[2026-09-30_DoorDashlaunchesanAIagentyoucantexttoorderfood.md]] : DoorDash launches an AI agent you can text to order food
+- [[entities/article/2026-09-30_DoorDashlaunchesanAIagentyoucantexttoorderfood_summary.md]] : DoorDash launches an AI agent you can text to order food
 - [[2026-09-30_MetadisputesclaimthatMusereadauser_sprivatemessage.md]] : Meta disputes claim that Muse read a user’s private messages without permission
 - [[2026-09-30_YouSaidNoMCP.md]] : You Said No MCP
 - [[2026-09-30_LaunchHN_Magnitude_YCS25__Self-optimizinginference.md]] : Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents
 - [[2026-09-30_RedditiskillingRSSfeedsandendingpublicAPIaccessbec.md]] : Reddit is killing RSS feeds and ending public API access because of AI bots
 - [[2026-09-30_OpenAI_sJevclonecouldhelpthefrontierlabstopitsswar.md]] : OpenAI’s Jev clone could help the frontier lab stop its swarming agents
-- [[2026-09-30_Gemini4Argon.md]] : Gemini 4 Argon
+- [[entities/article/2026-09-30_Gemini4Argon_summary.md]] : Gemini 4 Argon
 - [[2026-09-30_TheAITamagotchisarecoming.md]] : The AI Tamagotchis are coming
 - [[2026-09-30_GoogleannouncesGemini4andsaysit__8217_ssocapableth.md]] : Google announces Gemini 4 and says it&#8217;s so capable that only &#8216;trusted cyber defenders&#8217; can have it right now
 - [[2026-09-30_Z_ai__Zai_org_onX.md]] : Z.ai (@Zai_org) on X
-- [[2026-09-30_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
-- [[2026-09-30_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-09-30_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
-- [[2026-09-30_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
-- [[2026-09-30_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
-- [[2026-09-30_AIatMetaBlog.md]] : AI at Meta Blog
+- [[entities/article/2026-10-01_OpenAIdisclosessixnewAIsafetyincidents_summary.md]] : OpenAI discloses six new AI safety incidents
+- [[entities/article/2026-10-01_OpenAI_HuggingFaceincident-Wikipedia_summary.md]] : OpenAI–HuggingFace incident - Wikipedia
 - [[2026-09-30_GooglereleasesGemini4Argon_calleditsmostpowerfulmo.md]] : Google releases Gemini 4 Argon, called its most powerful model yet
-- [[2026-09-30_ElonMusk_sGrokipediahasa_newlyrefreshed_design.md]] : Elon Musk’s Grokipedia has a ‘newly refreshed’ design
-- [[2026-09-30_OpenAIrevealssixmoresafetyissuesandunveilsplantodi.md]] : OpenAI reveals six more safety issues and unveils plan to disclose incidents
-- [[2026-10-01_OfficialGoogleAInewsandupdates_GoogleBlog.md]] : Official Google AI news and updates | Google Blog
-- [[2026-10-01_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
-- [[2026-10-01_Newsroom_Anthropic.md]] : Newsroom \ Anthropic
+- [[entities/article/2026-10-01_OpenAIrevealssixmoresafetyissuesandunveilsplantodi_summary.md]] : OpenAI reveals six more safety issues and unveils plan to disclose incidents
+- [[entities/article/2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art_summary.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-10-01_GooglereleasesGemini4Argon_calleditsmostpowerfulmo.md]] : Google releases Gemini 4 Argon, called its most powerful model yet
-- [[2026-10-01_OpenAIdisclosessixnewAIsafetyincidents.md]] : OpenAI discloses six new AI safety incidents
-- [[2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
-- [[2026-10-01_HowDiffusionControllerunifiesandsimplifiesAIimageg.md]] : How Diffusion Controller unifies and simplifies AI image generation
+- [[entities/article/2026-10-01_OpenAIdisclosessixnewAIsafetyincidents_summary.md]] : OpenAI discloses six new AI safety incidents
+- [[entities/article/2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem_summary.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
+- [[entities/article/2026-10-01_HowDiffusionControllerunifiesandsimplifiesAIimageg_summary.md]] : How Diffusion Controller unifies and simplifies AI image generation
 - [[2026-10-01_Z_ai__Zai_org_onX.md]] : Z.ai (@Zai_org) on X
-- [[2026-10-01_ElonMusk_sGrokipediahasa_newlyrefreshed_design.md]] : Elon Musk’s Grokipedia has a ‘newly refreshed’ design
-- [[2026-10-01_OpenAI_HuggingFaceincident-Wikipedia.md]] : OpenAI–HuggingFace incident - Wikipedia
-- [[2026-10-01_AIatMetaBlog.md]] : AI at Meta Blog
-- [[2026-10-01_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
-- [[2026-10-01_OpenAIrevealssixmoresafetyissuesandunveilsplantodi.md]] : OpenAI reveals six more safety issues and unveils plan to disclose incidents
-- [[2026-10-01_Oct1_2026AnnouncementsBarclaysscalesClaudetoupgrad.md]] : Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience
-- [[2026-10-01_Qwen.md]] : Qwen
-- [[2026-10-01_AIsafetyadvocacygroupsuesOpenAIoverHuggingFaceinci.md]] : AI safety advocacy group sues OpenAI over Hugging Face incident
+- [[entities/article/2026-10-01_OpenAI_HuggingFaceincident-Wikipedia_summary.md]] : OpenAI–HuggingFace incident - Wikipedia
+- [[entities/article/2026-10-01_OpenAIrevealssixmoresafetyissuesandunveilsplantodi_summary.md]] : OpenAI reveals six more safety issues and unveils plan to disclose incidents
+- [[entities/article/2026-10-01_Oct1_2026AnnouncementsBarclaysscalesClaudetoupgrad_summary.md]] : Oct 1, 2026 Announcements Barclays scales Claude to upgrade operations and improve client experience
+- [[entities/article/2026-10-01_Qwen_summary.md]] : Qwen
+- [[entities/article/2026-10-01_AIsafetyadvocacygroupsuesOpenAIoverHuggingFaceinci_summary.md]] : AI safety advocacy group sues OpenAI over Hugging Face incident
 - [[2026-10-01_Photonheldafuneralformobileapps_Nowithas_4_5Mtohel.md]] : Photon held a funeral for mobile apps. Now it has $4.5M to help replace them with agents
 - [[2026-10-01_BrianCheskyinterview_AIagentsneedtheirownoperating.md]] : Brian Chesky interview: AI agents need their own operating system
 - [[2026-10-01_HowAlbertsonsCompaniesisreimaginingretailfromthein.md]] : How Albertsons Companies is reimagining retail from the inside out
@@ -3157,15 +3123,15 @@ tags: ['wiki']
 - [[2026-10-05_OpenAIDiscloses6NewSafetyIncidents.md]] : OpenAI Discloses 6 New Safety Incidents
 - [[2026-10-05_OurapproachtoEUtextprovenancerules.md]] : Our approach to EU text provenance rules
 - [[2026-10-05_OpenAIlaunchesvisualadsthatappearalongsideimagegen.md]] : OpenAI launches visual ads that appear alongside image generation results
-- [[2026-10-05_HotGirlHotlineislike_DearAbby_fortheAIera.md]] : Hot Girl Hotline is like ‘Dear Abby’ for the AI era
+- [[entities/article/2026-10-05_HotGirlHotlineislike_DearAbby_fortheAIera_summary.md]] : Hot Girl Hotline is like ‘Dear Abby’ for the AI era
 - [[2026-10-05_TikTokrollsoutanAIshoppingassistantandone-clickche.md]] : TikTok rolls out an AI shopping assistant and one-click checkout
-- [[2026-10-05_OpenAIisaddingtextwatermarkinginChatGPTandCodex.md]] : OpenAI is adding text watermarking in ChatGPT and Codex
-- [[2026-10-05_OpenAIPRtellsjournalistto_moveon_whileaskingSamAlt.md]] : OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide
+- [[entities/article/2026-10-05_OpenAIisaddingtextwatermarkinginChatGPTandCodex_summary.md]] : OpenAI is adding text watermarking in ChatGPT and Codex
+- [[entities/article/2026-10-05_OpenAIPRtellsjournalistto_moveon_whileaskingSamAlt_summary.md]] : OpenAI PR tells journalist to ‘move on’ while asking Sam Altman about a ChatGPT user&#8217;s suicide
 - [[2026-10-05_ReflectiondebutsBeam_aopen-weightAImodeltorivalChi.md]] : Reflection debuts Beam, a open-weight AI model to rival Chinese models at lower compute cost
 - [[2026-10-05_ReflectiondebutsBeam_anopen-weightAImodeltorivalCh.md]] : Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost
-- [[2026-10-05_ThisstartupisissuingAI-generatedacneprescriptions.md]] : This startup is issuing AI-generated acne prescriptions
+- [[entities/article/2026-10-05_ThisstartupisissuingAI-generatedacneprescriptions_summary.md]] : This startup is issuing AI-generated acne prescriptions
 - [[2026-10-05_OpenAIwillstartwatermarkingChatGPT_stextintheEU.md]] : OpenAI will start watermarking ChatGPT’s text in the EU
-- [[2026-10-05_GeminiCallforMemighttellyourmomyou__8217_rerunning.md]] : Gemini Call for Me might tell your mom you&#8217;re running late
+- [[entities/article/2026-10-05_GeminiCallforMemighttellyourmomyou__8217_rerunning_summary.md]] : Gemini Call for Me might tell your mom you&#8217;re running late
 - [[2026-10-05_BristolMyersSquibbaccelerateslife-changingscientif.md]] : Bristol Myers Squibb accelerates life-changing scientific pursuits with Microsoft AI
 - [[2026-10-06_OpenAINews_OpenAI.md]] : OpenAI News | OpenAI
 - [[2026-10-06_News_Research_Product_CompanyUpdates_SpaceXAI.md]] : News: Research, Product & Company Updates | SpaceXAI
@@ -3245,12 +3211,11 @@ tags: ['wiki']
 - [[2026-10-08_AnthropiclaunchesfreeAIsecurityscansforopen-source.md]] : Anthropic launches free AI security scans for open-source projects
 - [[2026-10-08_LegalOnhalvesCodexcostswhilemaintainingdevelopment.md]] : LegalOn halves Codex costs while maintaining development speed - OpenAI
 - [[2026-10-09_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
-- [[2026-10-09_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md]] : Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website
-- [[2026-10-09_AnthropiclaunchesfreeAIsecurityscansforopen-source.md]] : Anthropic launches free AI security scans for open-source projects
-- [[2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
+- [[entities/article/2026-10-09_AnthropiclaunchesfreeAIsecurityscansforopen-source_summary.md]] : Anthropic launches free AI security scans for open-source projects
+- [[entities/article/2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art_summary.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-10-09_LegalOnhalvesCodexcostswhilemaintainingdevelopment.md]] : LegalOn halves Codex costs while maintaining development speed - OpenAI
-- [[2026-10-09_Doesbetterworkalwaysmeanbetterworkers_.md]] : Does better work always mean better workers?
-- [[2026-10-09_OpenAIdoublesdownondecisiontofirethreeAIsafetyrese.md]] : OpenAI doubles down on decision to fire three AI safety researchers
+- [[entities/article/2026-10-09_Doesbetterworkalwaysmeanbetterworkers__summary.md]] : Does better work always mean better workers?
+- [[entities/article/2026-10-09_OpenAIdoublesdownondecisiontofirethreeAIsafetyrese_summary.md]] : OpenAI doubles down on decision to fire three AI safety researchers
 - [[2026-10-09_InstinctwasthebuzziestAIagentaround_canitsurviveMu.md]] : Instinct was the buzziest AI agent around — can it survive Muse?
 - [[2026-10-09_A16z_sOliviaMooreonthestateofconsumerAI.md]] : A16z’s Olivia Moore on the state of consumer AI
 - [[2026-10-09_Nikonmicroscopicvideocompetitionwinnerdisqualified.md]] : Nikon microscopic video competition winner disqualified for using generative AI
@@ -3367,7 +3332,6 @@ tags: ['wiki']
 - [[2026-10-21_WhileAmazonblocksAIagents_Walmartrollsoutthewelcom.md]] : While Amazon blocks AI agents, Walmart rolls out the welcome mat
 - [[2026-10-21_AnthropictakesonMusewithClaudeDuet_itsnewAIagent.md]] : Anthropic takes on Muse with Claude Duet, its new AI agent
 - [[2026-10-21_TechCrunchFounderSummit2026_Everythingyouneedtokno.md]] : TechCrunch Founder Summit 2026: Everything you need to know
-- [[2026-10-21_MetatocreateanewclassofsharestofundAIpush.md]] : Meta to create a new class of shares to fund AI push
 - [[2026-10-21_Blackstone_sJasKhairasaysfearsoverAI-buildoutdebta.md]] : Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown
 - [[2026-10-21_Latestnews_Mistral.md]] : Latest news | Mistral
 - [[2026-10-22_Fujitsuimplementsmulti-AIagentinfrastructuretoenha.md]] : Fujitsu implements multi- AI agent infrastructure to enhance product information ...
@@ -3438,3 +3402,5 @@ tags: ['wiki']
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md|Summary: Daily AI Intelligence Briefing — 2026-11-05]] — model access and licensing, research evidence, generative video and agents, health and learning studies, and compute-community commitments; 0 curated papers, curation and arXiv limitations disclosed
 - [[2026-11-06_CrusoesellstroubledWyomingdatacenterprojecttoGoogl.md]] : Crusoe sells troubled Wyoming data center project to Google
 - [[2026-11-07_Charleston2026_FromAIexperimentstoeverydaylibraryp.md]] : Charleston 2026: From AI experiments to everyday library practice - Research Information
+- [[2026-11-08_StanfordAIIndex_Data_Metrics_andResearch-CASRAI.md]] : Stanford AI Index: Data, Metrics, and Research - CASRAI
+- [[2026-11-08_NvidiawillinvestigateCEOJensenHuang_srelationshipw.md]] : Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy

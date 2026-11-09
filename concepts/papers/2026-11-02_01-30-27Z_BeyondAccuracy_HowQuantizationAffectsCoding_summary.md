@@ -29,3 +29,6 @@ This research is significant for practitioners deploying LLM-based coding agents
 - Solution Trajectories and Iterative Solving
 - Failure Mode Analysis
 - BF16 Precision vs. Low-Bit Inference
+
+## Canonical original paper
+[arXiv:2611.02368v1](https://arxiv.org/abs/2611.02368v1)

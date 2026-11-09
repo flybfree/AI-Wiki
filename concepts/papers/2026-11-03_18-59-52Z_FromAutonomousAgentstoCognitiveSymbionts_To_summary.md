@@ -30,3 +30,6 @@ This work is significant because it reframes the ultimate goal of AI from replac
 - **Symbiosis Loop:** A design framework involving sensing, keeping, understanding, living alongside, acting for, and growing with the user.
 - **Personal Runtime:** A conceptual infrastructure ensuring continuity, privacy, and trust in personal AI systems.
 - **Physical AI:** The broader field encompassing both autonomous embodied agents and human-augmenting technologies.
+
+## Canonical original paper
+[arXiv:2611.05376v1](https://arxiv.org/abs/2611.05376v1)

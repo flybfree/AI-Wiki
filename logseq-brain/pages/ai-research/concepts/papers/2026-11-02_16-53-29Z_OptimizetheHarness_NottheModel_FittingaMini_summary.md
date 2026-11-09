@@ -30,3 +30,6 @@ This research is significant for organizations operating under strict security, 
 - Constrained Loop for Environment Optimization (CLEO)
 - Minimal Agent Architectures
 - Government Intelligence Workflows
+
+## Canonical original paper
+[arXiv:2611.03434v1](https://arxiv.org/abs/2611.03434v1)
