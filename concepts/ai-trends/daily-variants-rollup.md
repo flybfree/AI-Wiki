@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest daily briefing is [2026-11-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-07.md), canonical for verified coverage: saved coding-agent approvals can expose literal credentials when settings enter public repositories; a same-day library-practice article shows how explicit schemas, institutional knowledge, and review turn AI pilots into repeatable workflows. No November 7 foundation-model release was verified. There were 0 target-date keeps and no uncovered kept-paper carry-forward; Brave was unavailable and arXiv discovery was incomplete. The previous edition is [2026-11-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md).
+The latest daily briefing is [2026-11-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md), canonical for verified coverage through 18:00 CST: Anthropic’s reported 1.7 GW/$3.4B generator commitments, adjacent-day agent-platform updates, and three papers kept on Nov 8. No same-day frontier-model release was verified; Brave was unavailable and arXiv discovery was incomplete. The previous edition is [2026-11-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-07.md).
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
@@ -46,6 +46,7 @@ Use this page as the stable landing zone for daily variants:
 4. If a source starts covering a different topic family, split it into a separate concept page.
 
 ## Related Pages
+- [Summary: Daily AI Intelligence Briefing — 2026-11-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md) — power procurement, agent runtime/platform updates, OpenAI–Hacktron security testing, and three confirmed same-day paper keeps; search/API limits disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-07.md) — saved-approval credential exposure; practical AI workflows in libraries; no verified same-day model launch; 0 selected papers; Brave unavailable and arXiv discovery incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md) — persistent agent memory, raw-evidence science evaluation, Cola2, consumer task agents, cyber deployment and AI compute economics; 0 curated papers
 - [Summary: Daily AI Intelligence Briefing — 2026-11-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md) — final locally; access- and license-aware model landscape, AI-assisted science, health screening, learning-oriented interfaces, vertical agents, and compute-community commitments; 0 selected papers, arXiv coverage incomplete

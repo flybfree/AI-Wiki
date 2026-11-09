@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+- [Summary: Daily AI Intelligence Briefing — 2026-11-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md) — Anthropic’s reported $3.4B/1.7 GW generator commitments; agent runtime/platform updates; three papers approved Nov 8; arXiv discovery limits disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-07.md) — agent credential exposure through saved approvals; library AI workflows moving from pilots to repeatable systems; no verified Nov 7 model launch; 0 selected papers, with search and arXiv limitations disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md) — persistent agent memory, raw-evidence evaluation, model architecture, consumer agents, cyber deployment, and AI compute economics; no curated papers
 - [Summary: Daily AI Intelligence Briefing — 2026-11-05](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-05.md) — canonical final locally; restricted and open-weight model releases, AI-assisted research and health findings, video and travel agents, and compute-community commitments; 0 target-date keeps; Brave and arXiv coverage limitations disclosed
@@ -330,6 +331,9 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [Beyond Accuracy: How Quantization Affects Coding Agents — summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-02_01-30-27Z_BeyondAccuracy_HowQuantizationAffectsCoding_summary.md) — [original arXiv paper](https://arxiv.org/abs/2611.02368); kept Nov 8
+- [Optimize the Harness, Not the Model — summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-02_16-53-29Z_OptimizetheHarness_NottheModel_FittingaMini_summary.md) — [original arXiv paper](https://arxiv.org/abs/2611.03434); kept Nov 8
+- [From Autonomous Agents to Cognitive Symbionts — summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-03_18-59-52Z_FromAutonomousAgentstoCognitiveSymbionts_To_summary.md) — [original arXiv paper](https://arxiv.org/abs/2611.05376); kept Nov 8
 - [[raw/papers/2026-10-02_Refusal_in_Language_Models_Is_Mediated_by_a_Single_Direction.md]] : Refusal in Language Models Is Mediated by a Single Direction (arXiv:2406.11717)
 - [[raw/papers/2026-08-08_15-28-45Z_QuantizationDegradationinLargeLanguageModels_ASign.md]] : Quantization Degradation in Large Language Models: A Signal-Noise Perspective
 - [[raw/papers/2026-07-21_09-45-34Z_DocAtlas_Long_DocumentUnderstandingasMutable_State.md]] : DocAtlas: Long-Document Understanding as Mutable-State Interaction
