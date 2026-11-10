@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-11-10 00:00] finalize | completed the full November 9 CST AI briefing from the four dated source articles, Google News discovery roundup, primary-source lab sweep, and local review database; covered Fable/Mythos 5.2, Muse Ember, LongCat-2.5 weights, Seedream 5.5, TPU/control-plane updates, Fireworks incident disclosure, FAA SMART, public policy, and AI commercialization; read-only curation query found 5 Nov 9 local-time keeps plus 4 older uncovered keeps, all 9 canonical summaries resolved and original arXiv URLs visible; updated the dated page, coverage audit, indexes, recurring hub, LLM Release Tracker, open-weight snapshot, and model-release watchlist; synchronized both Logseq mirrors; GitHub push withheld pending Rich’s review; Lumistorm post not written because the new “Don’t Blame The Preferences” summary target is HTTP 404 on GitHub, so its required public summary→original-paper chain is not yet valid
+
 ## [2026-11-09 18:00] summarize | created the AI-only November 9 interim briefing with Anthropic Fable/Mythos 5.2, Meta Muse Ember, Google TPU 8tx/8i Max, OpenAI Control Room and AWS Marketplace updates, and Apple Intelligence China registration; complete local-time curation query confirmed 4 Nov 9 keeps, assigned to approval date and linked to existing canonical summaries plus original arXiv papers; arXiv API returned HTTP 429 then timed out and direct Brave search was unavailable, so research and news discovery limits are disclosed; updated dated brief, index, LLM Release Tracker, coverage audit, and scout log; adding original-paper URLs to all four canonical summaries and synchronizing both Logseq trees; GitHub commit/push verification follows
 
 ## [2026-11-09 00:00] finalize | completed full-day verification for the November 8 AI briefing; corrected the intake window to include the target-day NVIDIA board investigation, excluded a stale AI Index explainer, and retained the attributed Anthropic power report plus agent-platform/security context; complete local curation query confirmed 3 Nov 8 keeps and no uncovered prior keep; repaired all 3 local canonical paper summaries with versioned arXiv URLs and verified the local 3→3→3 chain; updated dated brief, index, family rollup, and coverage audit; mirrored all changed files to both Logseq trees and verified SHA-256 identity; authenticated WordPress (HTTP 200), confirmed slug absent and reused-category ID 5, but made no post write because GitHub summary targets remain stale and GitHub sync awaits Rich's review; no commit or push
@@ -17655,3 +17657,36 @@ tags: ['wiki']
 ## [2026-11-08 21:42] stage-paper | 2026-11-04_23-38-46Z_Archetypalcontextsintheneuronsoflanguagemodels_ana.md
 ## [2026-11-08 21:42] ingest | 2026-11-08_StanfordAIIndex_Data_Metrics_andResearch-CASRAI.md
 ## [2026-11-08 21:42] ingest | 2026-11-08_NvidiawillinvestigateCEOJensenHuang_srelationshipw.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_07-47-25Z_AuthorizationDriftinLLMAgents_EvaluatingBoundaryCo.md
+## [2026-11-09 21:45] stage-paper | 2026-11-05_17-11-44Z_TowardSafety_AwareAIAgentsinRealisticSocialEnginee.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_17-54-01Z_WhenInstructionFilesGoStale_DocumentationDebtandHi.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_06-39-24Z_DoesReasoningImprovePsychologicalDepthinLargeLangu.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_11-17-58Z_ABHBench_EvaluatingMoralDecision_MakingofFoundatio.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_15-34-02Z_NotYourDiary_JustYourTopic_GradingtheWrong_UserCon.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_09-36-00Z_BOXBOX_RecursiveHarnessSelf_ImprovementforLong_Run.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_17-28-13Z_EnmoSafety_External_Non_invasive_Model_agnosticOve.md
+## [2026-11-09 21:45] stage-paper | 2026-11-07_05-30-37Z_SaferforWhom_ASystematicExplorationofAISafetyinEat.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_08-59-27Z_AnalyzingCodeProvenanceinLLMsforProgrammingEducati.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_17-10-40Z_SafetyIs_Π_1__ProvabilityIs_Σ_1__OneFrameworkforth.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_10-21-27Z_NudgingDecisionModels_DoDigitalNudgesSteerFast_Gen.md
+## [2026-11-09 21:45] stage-paper | 2026-11-05_08-25-27Z_BeyondInstructionOverride_BenchmarkingIndirectProm.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_17-06-41Z_WhattoDelegate_WhattoPreserve_HumanPreferencesforA.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_19-57-06Z_AVCORP_IdentifyingandResistingDeceptionviaCommunic.md
+## [2026-11-09 21:45] stage-paper | 2026-11-07_03-35-51Z_WhoRemembersWhat_Multi_GranularityMemoryExtraction.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_21-46-25Z_BeyondthePrompt_LeveragingPre_DecodingStatesforJai.md
+## [2026-11-09 21:45] stage-paper | 2026-11-07_02-00-16Z_Crustify_Repository_LevelGenerationofSafeRustBindi.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_19-00-07Z_AllQuietontheNeuralFront_LanguageModelsDoNotReport.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_21-59-20Z_Dolargelanguagemodelsrankmoralvalues_Atransitivity.md
+## [2026-11-09 21:45] stage-paper | 2026-11-05_21-56-29Z_Don_tBlameThePreferences_ExaminingTheEmergenceofSy.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_13-20-30Z_LogitLaundering_EvadingData_UseAuditinginLargeLang.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_18-27-44Z_TheInfrastructureDivide_AnalyzingCommunityStanceon.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_10-35-18Z_Ontology_DrivenControlofConversationalAgentswithaU.md
+## [2026-11-09 21:45] stage-paper | 2026-11-05_23-44-07Z_AYO_ASafeandPrivacy_PreservingPlatformforStudyingC.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_17-53-07Z_Test_TimeComputeScalesBetterwithParallelAgentTeams.md
+## [2026-11-09 21:45] stage-paper | 2026-11-06_07-19-10Z_WhenRoutineOperationsBreakArchitecturalPatternRela.md
+## [2026-11-09 21:45] stage-paper | 2026-11-07_02-29-54Z_CodingorCheating_AnInvestigationofFrontierCodingLL.md
+## [2026-11-09 21:45] ingest | 2026-11-09_DavidEllisonsaysAIcouldbethe_biggestcreativeunlock.md
+## [2026-11-09 21:45] ingest | 2026-11-09_ChatGPTEnterprisenowavailableinAWSMarketplace.md
+## [2026-11-09 21:45] ingest | 2026-11-09_Exploringtheworld_slanguageswithLanguageExplorer.md
+## [2026-11-09 21:45] ingest | 2026-11-09_AnthropicreportedlyplanstomoveforwardwithIPOplans.md
+## [2026-11-09 21:45] ingest | 2026-11-09_GoogleNews-Artificialintelligence-Latest.md

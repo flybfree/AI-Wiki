@@ -34,7 +34,7 @@ Quick start: [README.md](README.md)
 ### Foundation Models & LLMs
 
 - [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker]] — living model-release tracker
-- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-10-28]] — Qwen3.8-Flash-Next, Liquid LFM, Gemma/EmbeddingGemma, and NVIDIA Nemotron open models
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-11-09]] — adds Meituan LongCat-2.5 heavyweight MIT weights with custom-code/NPU deployment caveats
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-08-27]] — frontier snapshot (includes Claude Opus 5 and GPT-5.6 Sol/Terra/Luna)
 - [[concepts/hermes-agent-guide.md|Fable 5 Integration Notes]] — practical usage guidance
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — background evolution view

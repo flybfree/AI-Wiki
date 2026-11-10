@@ -2,7 +2,7 @@
 title: "AI Model Release Coverage Watchlist"
 type: reference
 status: active
-updated: "2026-09-22"
+updated: "2026-11-09"
 tags: [ai-intelligence, model-releases, frontier-models, open-weights, quality-control]
 ---
 
@@ -17,6 +17,9 @@ This is a quality-control list for daily AI Intelligence briefings. Each high-si
 - [Jev / System One Models](https://typesafe.ai/blog/introducing-system-one-models-and-jev) — typed probabilistic decision model; not a conventional chat-model release.
 - [YuE2](https://map-yue2.github.io/) — open music-generation model using an editable symbolic plan before rendering a song.
 - [IFM K2 Horizon](https://ifm.ai/blog/k2) — fully open foundation-model fleet from 0.9B to 375B parameters.
+- [Meituan LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5) — Nov 9 heavyweight multimodal weights release; MIT license, custom code, and NPU-optimized serving path.
+- [ByteDance Seedream 5.5](https://seed.bytedance.com/en/seedream5_5) — Nov 9 visual-generation/editing release; verify architecture, weights, and license only from a first-party card.
+- [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/) — announced Nov 5; Tinker-only closed weights until the promised Apache 2.0 release clears external testing.
 
 ## Additional labs to monitor
 
@@ -46,12 +49,15 @@ This is a quality-control list for daily AI Intelligence briefings. Each high-si
 - **Meta Muse / Muse Spark 1.3** — consumer agent track
 - **Kimi K3** — open-weight frontier model
 - **Inkling / Inkling-Small** — staged open-weight release track
+- **Inkling 2 Small** — distinct second-generation model, still closed-weight on Tinker pending external red-teaming as of Nov 9
+- **Meituan LongCat-2.5** — open-weight native multimodal agent model; released weights Nov 9 under MIT
+- **ByteDance Seedream 5.5** — multimodal image-generation and editing model; Nov 9 platform rollout
 
 ## Coverage rules
 
 1. **Model releases are first-class intelligence signals.** They must appear in the executive summary or a named model-release section when material.
 2. **Track model families, not only the newest version.** MiMo-V2.5 remains a distinct release even when MiMo-V2.6 becomes the current focus.
-3. **Cover diverse modalities.** General language, reasoning, agentic, decision, vision, audio, music, robotics, and multimodal releases all qualify when they materially change capability or access.
+3. **Cover diverse modalities and architectures.** General language, reasoning, agentic, decision, vision, audio, music, robotics, and multimodal releases qualify when material. Check diffusion-based language and multimodal systems alongside autoregressive models; do not infer a model's architecture from an image-generation label.
 4. **Use first-party sources first.** Add benchmark, system-card, pricing, weights, license, and runtime links when available.
 5. **State evidence quality.** Separate vendor claims, independent evaluations, community adoption, and verified deployment evidence.
 6. **Record omissions explicitly.** If a release is not covered, the briefing must say whether it was missed, deferred for verification, or excluded as low-signal.

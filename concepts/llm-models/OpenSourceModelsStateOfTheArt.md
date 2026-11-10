@@ -1,15 +1,15 @@
 ---
-title: "Open-Source Models State of the Art — 2026-10-28"
-date: 2026-10-28
+title: "Open-Source Models State of the Art — 2026-11-09"
+date: 2026-11-09
 status: draft
-tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-10-28"]
+tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-09"]
 ---
 
-# Open-Source Models State of the Art — 2026-10-28
+# Open-Source Models State of the Art — 2026-11-09
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-10-28 and adds Qwen3.8-Flash-Next, Liquid AI's LFM3 family, Google's latest open Gemma releases, and NVIDIA's latest Nemotron releases. It distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
+This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-09 and adds Meituan's LongCat-2.5 weight release to the existing model families. It distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
 
 ## Semantic links
 - [Foundation Models State of the Art — 2026-08-27](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-07-27_FoundationModelsStateOfTheArt.md) — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
@@ -64,6 +64,7 @@ This table is a discovery-oriented shortlist, not a catalog limited to models al
 | [MiniMax M2](https://huggingface.co/MiniMaxAI/MiniMax-M2) | Open-weight, modified MIT | Well above 32 GB | Coding, tools, agent orchestration, long context | Large MoE agent candidate |
 | [Qwen3-235B-A22B](https://huggingface.co/Qwen/Qwen3-235B-A22B) | Open-weight, Apache 2.0 | 125–150 GB | Frontier reasoning, coding, multilingual work, agents | Multi-GPU frontier benchmark candidate |
 | [Qwen3.8-Flash-Next](https://huggingface.co/Qwen/Qwen3.8-Flash-Next) | Open-weight, Qwen Community License 1.0 | Well above 32 GB in full weights | 125B language model / 6B active, plus 51B n-gram embeddings and 4B MTP; vision input; 262K native context, extensible to 1M | Experimental Qwen4-architecture preview; active-parameter count is not a local-memory estimate |
+| [Meituan LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5) | Open weights, MIT (no trademark or patent grant) | Cluster-scale; not a consumer-local model | Meituan reports 1.6T total / ~48B active; native multimodal LongcatCausalLM for long-horizon agents | Weights released Nov 9; HF marks custom code, and the documented deployment path is Meituan's NPU-optimized SGLang-FluentLLM stack |
 | [Nemotron 3.5 Super VL 120B-A12B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4) | Open-weight, OpenMDW-1.1 | 75.1 GB NVFP4 package | 120B total / 12B active hybrid Mamba-2–Transformer MoE; text, images, video; up to 1M context | Large multimodal agent model; NVIDIA's documented NVFP4 recipe targets DGX Spark |
 | [Nemotron 3.5 Transcribe 30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) | Open-weight, OpenMDW-1.1 | GPU-oriented; BF16, FP8, and NVFP4 checkpoints | 34B total / about 4.3B active including audio encoder; 40-language transcription, translation, diarization, and audio Q&A | Open speech specialist; not a compact local model |
 | [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) | Open-weights | Very large | 276B total, 12B active, 1M context, variable thinking | Important frontier open-weight release, not consumer-local |
@@ -261,6 +262,8 @@ These discussion notes are retained from earlier 2026 research passes; they are 
 
 ## Progress log
 
+- **2026-11-09** — Added Meituan LongCat-2.5 as an open-weight heavyweight after the official Nov 9 weights announcement and Hugging Face model card verified MIT licensing, the 1.6T/~48B scale claim, a `LongcatCausalLM` custom-code configuration, and a custom NPU serving path. Do not equate sparse active parameters with consumer-local memory requirements.
+
 - **2026-10-28** — Added a practical local-inference runtime section covering LM Studio, Ollama, llama.cpp, vLLM, Strata, NInfer, and Unsloth Desktop; distinguished desktop/model-management tools from serving engines and linked the detailed local-inference hub.
 - **2026-10-28** — Added Qwen3.8-Flash-Next and NVIDIA's NVFP4 conversion; Liquid AI's LFM3 and LFM2.5 families; Google's Gemma 4 12B Unified and EmbeddingGemma 2; and NVIDIA Nemotron 3.5 Super VL, Transcribe, and Granary v2. Corrected the open-weight/license distinctions (Qwen Community License, LFM Open License 1.0, Gemma 4 Apache 2.0, NVIDIA OpenMDW-1.1). Official model cards and release pages were verified; this is a primary-source update rather than a fresh social-usage survey, so no community-derived ranking claims are made.
 - **2026-10-25** — Added both Nemotron 3.5 Bolt variants to the local-model comparison: 74B-A9B 24GB for multimodal tool-using agents and E4B for low-memory text/voice-device assistants; separated vendor memory targets from checkpoint file size and noted OpenMDW-1.1 licensing.
@@ -295,6 +298,7 @@ These discussion notes are retained from earlier 2026 research passes; they are 
 - [Summary: NVIDIA Nemotron 3.5 Lightning and NeMo Switchyard](../../entities/article/2026-08-11_NvidiaNemotron3_5lightningandNeMoSwitchyard_summary.md) · [NVIDIA Developer article](https://developer.nvidia.com/blog/nvidia-nemotron-3-5-lightning-delivers-fast-accurate-specialized-task-execution-for-long-running-agents/)
 - [IFM K2 Horizon press release](https://ifm.ai/k2/press-release) · [IFM K2 Horizon model collection](https://huggingface.co/collections/ifm-ai/k2-horizon)
 - [Qwen3.8-27B model card](https://huggingface.co/Qwen/Qwen3.8-27B) · [official GitHub repository](https://github.com/AlibabaCloud-Official/Qwen3.8-27B)
+- [Meituan LongCat-2.5 model card and MIT license](https://huggingface.co/meituan-longcat/LongCat-2.5) · [Nov 9 weights announcement](https://x.com/Meituan_LongCat/status/2119793531393040462) · [NPU SGLang-FluentLLM deployment instructions](https://github.com/meituan-longcat/SGLang-FluentLLM/blob/longcat-2.5-npu/npu_test/ReadMe.md)
 - [Qwen 3.8 27B local hands-on](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
 - [1] [Qwen3.8-27B model card](https://huggingface.co/Qwen/Qwen3.8-27B)
 - [2] [Qwen 3.8 27B local hands-on](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)

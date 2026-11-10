@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
-- [Summary: Daily AI Intelligence Briefing — 2026-11-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-09.md) — Anthropic Fable/Mythos 5.2 and Meta Muse Ember; Google TPU 8tx/8i Max; OpenAI workload controls; China rollout registration; four papers approved Nov 9; bounded Brave and arXiv discovery disclosed
+- [Summary: Daily AI Intelligence Briefing — 2026-11-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-09.md) — four dated source captures plus a mixed AI roundup; Fable/Mythos 5.2, Muse Ember, LongCat-2.5 weights, Seedream 5.5, agent compute/controls, Fireworks incident update, FAA SMART, and education/export policy; 5 Nov 9 keeps plus 4 uncovered carry-forward papers; one new paper-summary target is 404 pending GitHub review
 - [Summary: Daily AI Intelligence Briefing — 2026-11-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md) — Anthropic’s reported $3.4B/1.7 GW generator commitments, NVIDIA board security inquiry, agent-platform updates, and three papers approved Nov 8; bounded research coverage and pending GitHub review disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-07.md) — agent credential exposure through saved approvals; library AI workflows moving from pilots to repeatable systems; no verified Nov 7 model launch; 0 selected papers, with search and arXiv limitations disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md) — persistent agent memory, raw-evidence evaluation, model architecture, consumer agents, cyber deployment, and AI compute economics; no curated papers
@@ -3405,3 +3405,8 @@ tags: ['wiki']
 - [[2026-11-07_Charleston2026_FromAIexperimentstoeverydaylibraryp.md]] : Charleston 2026: From AI experiments to everyday library practice - Research Information
 - [[2026-11-08_StanfordAIIndex_Data_Metrics_andResearch-CASRAI.md]] : Stanford AI Index: Data, Metrics, and Research - CASRAI
 - [[2026-11-08_NvidiawillinvestigateCEOJensenHuang_srelationshipw.md]] : Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy
+- [[2026-11-09_DavidEllisonsaysAIcouldbethe_biggestcreativeunlock.md]] : David Ellison says AI could be the ‘biggest creative unlock in modern history’
+- [[2026-11-09_ChatGPTEnterprisenowavailableinAWSMarketplace.md]] : ChatGPT Enterprise now available in AWS Marketplace
+- [[2026-11-09_Exploringtheworld_slanguageswithLanguageExplorer.md]] : Exploring the world's languages with Language Explorer
+- [[2026-11-09_AnthropicreportedlyplanstomoveforwardwithIPOplans.md]] : Anthropic reportedly plans to move forward with IPO plans
+- [[2026-11-09_GoogleNews-Artificialintelligence-Latest.md]] : Google News - Artificial intelligence - Latest

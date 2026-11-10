@@ -38,6 +38,9 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 | **Claude Fable 5.2** | Anthropic's broadly available model for difficult technical work | Anthropic reports up to 30% faster output than Fable 5.1; $8/M input, $40/M output |
 | **Claude Mythos 5.2** | Restricted high-capability sibling for approved cybersecurity and biomedical work | Same underlying model as Fable 5.2; access through Anthropic verification programs |
 | **Meta Muse Ember** | Lower-cost model for repeated agent execution, tool calls, and coding subtasks | 1M-token context; $0.10/M input, $0.50/M output; Meta reports 37.8% on AutomationBench-AA |
+| **Meituan LongCat-2.5** | Open-weight, native multimodal heavyweight for long-horizon agent tasks | Weights released Nov 9 under MIT; 1.6T total / ~48B active per Meituan; Hugging Face marks custom code and the documented NPU path uses SGLang-FluentLLM |
+| **ByteDance Seedream 5.5** | Visual creation and iterative image editing | Nov 9 platform rollout; ByteDance claims stable edits across 100 rounds and native RGBA; release post does not state weights, license, or architecture |
+| **Inkling 2 Small** | Closed-weight Tinker release pending external safety testing | Announced Nov 5; Thinking Machines says Apache 2.0 weights will follow after external red-teaming; do not count the promised checkpoint as open weights yet |
 | **GPT-5.5** | Safest all-around agentic and multimodal default | 1M context, broad tool ecosystem, reliable across task types |
 | **Claude Opus 4.7** | Best for code review and repository reasoning | 87.6% SWE-Bench Verified, strongest engineering signal |
 | **Gemini 3.5 Flash** | Best speed-first frontier option | Roughly 4x faster than Gemini 3.1 Pro, strong multimodal throughput |
@@ -53,21 +56,23 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Frontier capability now has distinct access tiers.** Anthropic says Fable 5.2 is broadly available while Mythos 5.2 is gated through cybersecurity and life-sciences verification programs.
 - **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
-- **The open-weight track remains separate.** No new open-weight release was confirmed in the bounded November 9 sweep; earlier entries such as DeepSeek, Qwen, Kimi, and Inkling remain part of the tracked field.
+- **The open-weight track moved today.** Meituan released LongCat-2.5 weights under MIT on Nov 9. Its 1.6T total size and custom/NPU serving path make it an open-heavyweight customization option, not a consumer-local model. Seedream 5.5 is a separate visual-platform release with no weights or architecture disclosed in its announcement.
 
 ### Open questions / contradictions
 
 - **Claude Opus 4.7 context size is source-dependent.** One roundup reports 200K context, while the later comparison article describes 1M context. Treat the exact figure as source-sensitive until upstream docs converge.
+- **Seedream architecture and openness are not established by the launch post.** Do not classify it as a diffusion architecture or open-weight release without a first-party model card or license.
+- **No November 9 diffusion-language checkpoint was confirmed** in the targeted official-source check. Google's Gemini Diffusion remains described as an experimental demo, not a new dated release.
 
 ## Chronological Release Log
 
-### 2026-11-09 - specialized model and agent-execution releases
+### 2026-11-09 - closed model tiers, open heavyweight weights, and visual creation
 
-- **Source**: [Anthropic — Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · [Meta AI Research — Muse Ember](https://research.meta.ai/blog/muse-ember)
-- **Models**: Claude Fable 5.2, Claude Mythos 5.2, Meta Muse Ember
-- **Why it matters**: Anthropic separates broadly available technical work from access-controlled cybersecurity/biomedical use; Meta targets low-cost, repeated agent execution with a 1M-token context.
-- **Current take**: Treat these as different workflow tiers, not a single leaderboard ordering. Anthropic and Meta's benchmark and efficiency claims need task-matched evaluation.
-- **Follow-up**: Verify independent performance, cost per successful task, real-world safety behavior, and access conditions; no open-weight launch was confirmed in this sweep.
+- **Source**: [Anthropic — Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · [Meta AI Research — Muse Ember](https://research.meta.ai/blog/muse-ember) · [Meituan LongCat weights post](https://x.com/Meituan_LongCat/status/2119793531393040462) · [LongCat-2.5 model card](https://huggingface.co/meituan-longcat/LongCat-2.5) · [ByteDance Seedream 5.5](https://seed.bytedance.com/en/blog/more-realistic-images-more-stable-editing-across-100-rounds-introducing-seedream-5-5)
+- **Models**: Claude Fable 5.2, Claude Mythos 5.2, Meta Muse Ember, Meituan LongCat-2.5 weights, ByteDance Seedream 5.5
+- **Why it matters**: The day spans restricted/broad frontier access, low-cost hosted agent execution, an MIT-licensed open heavyweight, and a commercial visual-creation model.
+- **Current take**: Compare by workflow and access tier, not one benchmark order. LongCat is open-weight but cluster-scale and custom-stack-oriented; Seedream's architecture and license remain unstated in its launch post.
+- **Follow-up**: Reproduce capability and cost claims, test LongCat serving/custom-code requirements, verify Seedream's availability and license, and track Inkling 2 Small's weights only after its promised external testing is complete.
 
 ### Log format
 
@@ -120,7 +125,7 @@ Use one dated block per release wave. If multiple articles land on the same day,
 - **Need difficult technical work with broad availability**: evaluate Claude Fable 5.2 against task-specific alternatives; Anthropic reports 30% faster output than 5.1.
 - **Need approved cyber or biomedical research access**: Claude Mythos 5.2 is gated through Anthropic's verification programs.
 - **Need low-cost repeated agent steps**: evaluate Meta Muse Ember for tool calls, routing, coding subtasks, and large-document work.
-- **Need open weights or self-hosting**: use the separately tracked open-model shortlist; today's bounded sweep confirmed no new open-weight entrant.
+- **Need open weights or self-hosting**: compare the [open-model shortlist](OpenSourceModelsStateOfTheArt.md), including newly released LongCat-2.5; budget for cluster-scale storage and verify its custom serving path before planning deployment.
 - **Before switching**: measure end-to-end task success, latency, token cost, permissions, and recoverability in the production harness.
 
 ## Update protocol
