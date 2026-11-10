@@ -1,6 +1,7 @@
 # Summary: 2026-11-06_00-06-13Z_IThink_ThereforeIAttack_EvaluatingThoughtInjection.md
 Saved: 2026-11-08 21:48
 Source: 2026-11-06_00-06-13Z_IThink_ThereforeIAttack_EvaluatingThoughtInjection.md
+Original paper: [arXiv:2611.08811](https://arxiv.org/abs/2611.08811)
 Model: None
 
 ---

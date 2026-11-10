@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-08
+> Last updated: 2026-11-09
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+- [Summary: Daily AI Intelligence Briefing — 2026-11-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-09.md) — Anthropic Fable/Mythos 5.2 and Meta Muse Ember; Google TPU 8tx/8i Max; OpenAI workload controls; China rollout registration; four papers approved Nov 9; bounded Brave and arXiv discovery disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md) — Anthropic’s reported $3.4B/1.7 GW generator commitments, NVIDIA board security inquiry, agent-platform updates, and three papers approved Nov 8; bounded research coverage and pending GitHub review disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-07.md) — agent credential exposure through saved approvals; library AI workflows moving from pilots to repeatable systems; no verified Nov 7 model launch; 0 selected papers, with search and arXiv limitations disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-06](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-06.md) — persistent agent memory, raw-evidence evaluation, model architecture, consumer agents, cyber deployment, and AI compute economics; no curated papers

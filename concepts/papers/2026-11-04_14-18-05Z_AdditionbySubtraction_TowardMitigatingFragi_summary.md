@@ -1,6 +1,7 @@
 # Summary: 2026-11-04_14-18-05Z_AdditionbySubtraction_TowardMitigatingFragileSafet.md
 Saved: 2026-11-08 21:43
 Source: 2026-11-04_14-18-05Z_AdditionbySubtraction_TowardMitigatingFragileSafet.md
+Original paper: [arXiv:2611.06553](https://arxiv.org/abs/2611.06553)
 Model: None
 
 ---

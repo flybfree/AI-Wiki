@@ -1,6 +1,7 @@
 # Summary: 2026-11-05_07-57-01Z_ThePopularGetMorePopular_AuditingBrandBiasinGenera.md
 Saved: 2026-11-08 21:45
 Source: 2026-11-05_07-57-01Z_ThePopularGetMorePopular_AuditingBrandBiasinGenera.md
+Original paper: [arXiv:2611.07614](https://arxiv.org/abs/2611.07614)
 Model: None
 
 ---

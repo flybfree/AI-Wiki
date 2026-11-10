@@ -1,6 +1,7 @@
 # Summary: 2026-11-05_14-49-11Z_CreateYourOwnWorkStack_DeployingSelf_hostedAIandTo.md
 Saved: 2026-11-08 21:46
 Source: 2026-11-05_14-49-11Z_CreateYourOwnWorkStack_DeployingSelf_hostedAIandTo.md
+Original paper: [arXiv:2611.08116](https://arxiv.org/abs/2611.08116)
 Model: None
 
 ---

@@ -27,7 +27,7 @@ This page is designed as an **update-first tracker**:
 
 ## Current Snapshot
 
-**Last reviewed**: 2026-09-17
+**Last reviewed**: 2026-11-09
 
 ### Current release verdict
 
@@ -35,6 +35,9 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 
 | Model | Current role | Signal |
 |---|---|---|
+| **Claude Fable 5.2** | Anthropic's broadly available model for difficult technical work | Anthropic reports up to 30% faster output than Fable 5.1; $8/M input, $40/M output |
+| **Claude Mythos 5.2** | Restricted high-capability sibling for approved cybersecurity and biomedical work | Same underlying model as Fable 5.2; access through Anthropic verification programs |
+| **Meta Muse Ember** | Lower-cost model for repeated agent execution, tool calls, and coding subtasks | 1M-token context; $0.10/M input, $0.50/M output; Meta reports 37.8% on AutomationBench-AA |
 | **GPT-5.5** | Safest all-around agentic and multimodal default | 1M context, broad tool ecosystem, reliable across task types |
 | **Claude Opus 4.7** | Best for code review and repository reasoning | 87.6% SWE-Bench Verified, strongest engineering signal |
 | **Gemini 3.5 Flash** | Best speed-first frontier option | Roughly 4x faster than Gemini 3.1 Pro, strong multimodal throughput |
@@ -47,18 +50,24 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 
 ### Current read
 
-- **Frontier models are specialized by workflow.** GPT-5.5 is the broad default, while Claude Opus 4.7 stays the repo-reasoning leader.
-- **Speed and cost beat raw headline rank for many teams.** Gemini 3.5 Flash is the standout when latency and throughput matter.
-- **Open-weight models are first-choice candidates now.** DeepSeek V4 Pro and Qwen 3.7 Max are real contenders, not backups.
-- **Open-weight pressure is now split too.** Kimi K3 pushes frontier scale while Inkling pushes broad open-weights customization.
-- **Transparency is becoming a differentiator.** IFM K2 Horizon goes beyond open weights by publishing code, training data, methods, and a coordinated deployment fleet.
-- **Self-hosting is viable for long-context work.** Llama 4 Scout is the clearest privacy or control pick.
+- **Frontier capability now has distinct access tiers.** Anthropic says Fable 5.2 is broadly available while Mythos 5.2 is gated through cybersecurity and life-sciences verification programs.
+- **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
+- **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
+- **The open-weight track remains separate.** No new open-weight release was confirmed in the bounded November 9 sweep; earlier entries such as DeepSeek, Qwen, Kimi, and Inkling remain part of the tracked field.
 
 ### Open questions / contradictions
 
 - **Claude Opus 4.7 context size is source-dependent.** One roundup reports 200K context, while the later comparison article describes 1M context. Treat the exact figure as source-sensitive until upstream docs converge.
 
 ## Chronological Release Log
+
+### 2026-11-09 - specialized model and agent-execution releases
+
+- **Source**: [Anthropic — Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2) · [Meta AI Research — Muse Ember](https://research.meta.ai/blog/muse-ember)
+- **Models**: Claude Fable 5.2, Claude Mythos 5.2, Meta Muse Ember
+- **Why it matters**: Anthropic separates broadly available technical work from access-controlled cybersecurity/biomedical use; Meta targets low-cost, repeated agent execution with a 1M-token context.
+- **Current take**: Treat these as different workflow tiers, not a single leaderboard ordering. Anthropic and Meta's benchmark and efficiency claims need task-matched evaluation.
+- **Follow-up**: Verify independent performance, cost per successful task, real-world safety behavior, and access conditions; no open-weight launch was confirmed in this sweep.
 
 ### Log format
 
@@ -108,12 +117,11 @@ Use one dated block per release wave. If multiple articles land on the same day,
 
 ## Practical shortlist
 
-- **Need the safest all-around API**: GPT-5.5
-- **Need code review and repo reasoning**: Claude Opus 4.7
-- **Need speed and throughput**: Gemini 3.5 Flash
-- **Need low-cost coding or agents**: DeepSeek V4 Pro
-- **Need the cheapest viable API**: DeepSeek V4 Flash
-- **Need privacy or local deployment**: Llama 4 Scout
+- **Need difficult technical work with broad availability**: evaluate Claude Fable 5.2 against task-specific alternatives; Anthropic reports 30% faster output than 5.1.
+- **Need approved cyber or biomedical research access**: Claude Mythos 5.2 is gated through Anthropic's verification programs.
+- **Need low-cost repeated agent steps**: evaluate Meta Muse Ember for tool calls, routing, coding subtasks, and large-document work.
+- **Need open weights or self-hosting**: use the separately tracked open-model shortlist; today's bounded sweep confirmed no new open-weight entrant.
+- **Before switching**: measure end-to-end task success, latency, token cost, permissions, and recoverability in the production harness.
 
 ## Update protocol
 
