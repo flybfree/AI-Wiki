@@ -27,7 +27,7 @@ This page is designed as an **update-first tracker**:
 
 ## Current Snapshot
 
-**Last reviewed**: 2026-11-09
+**Last reviewed**: 2026-11-10
 
 ### Current release verdict
 
@@ -35,6 +35,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 
 | Model | Current role | Signal |
 |---|---|---|
+| **Gemini 4 Carbon** | Google’s broader-availability model for long-horizon engineering, cybersecurity, and scientific reasoning | General availability announced Nov 10; company reports benchmark leadership on selected tasks; API introductory pricing runs through Nov 30 |
 | **Claude Fable 5.2** | Anthropic's broadly available model for difficult technical work | Anthropic reports up to 30% faster output than Fable 5.1; $8/M input, $40/M output |
 | **Claude Mythos 5.2** | Restricted high-capability sibling for approved cybersecurity and biomedical work | Same underlying model as Fable 5.2; access through Anthropic verification programs |
 | **Meta Muse Ember** | Lower-cost model for repeated agent execution, tool calls, and coding subtasks | 1M-token context; $0.10/M input, $0.50/M output; Meta reports 37.8% on AutomationBench-AA |
@@ -56,7 +57,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Frontier capability now has distinct access tiers.** Anthropic says Fable 5.2 is broadly available while Mythos 5.2 is gated through cybersecurity and life-sciences verification programs.
 - **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
-- **The open-weight track moved today.** Meituan released LongCat-2.5 weights under MIT on Nov 9. Its 1.6T total size and custom/NPU serving path make it an open-heavyweight customization option, not a consumer-local model. Seedream 5.5 is a separate visual-platform release with no weights or architecture disclosed in its announcement.
+- **The latest confirmed model releases span distinct deployment tiers.** Gemini 4 Carbon widened from a limited cyber-defender rollout to broader paid developer, enterprise, scientist, and consumer access on Nov 10; Meituan’s Nov 9 LongCat-2.5 remains an open-weight heavyweight with a custom/NPU serving path, not a consumer-local model.
 
 ### Open questions / contradictions
 
@@ -65,6 +66,14 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **No November 9 diffusion-language checkpoint was confirmed** in the targeted official-source check. Google's Gemini Diffusion remains described as an experimental demo, not a new dated release.
 
 ## Chronological Release Log
+
+### 2026-11-10 - Gemini 4 Carbon expands to broader access
+
+- **Source**: [Google — Gemini 4 Carbon is now available](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-carbon-now-available/) · [Developer availability](https://blog.google/innovation-and-ai/technology/developers-tools/gemini-4-carbon-developers/)
+- **Model**: Gemini 4 Carbon
+- **Availability**: Google announced access for paid Gemini API developers and enterprises, scientists, and eligible Google AI Ultra users across its listed surfaces; this broadens the earlier Fairwind cyber-defender rollout.
+- **Why it matters**: The update shifts the model from a restricted defender preview into broader paid access, while maintaining differentiated access by product and subscription.
+- **Claims and follow-up**: Google’s selected benchmark and cost-per-task results are company-reported; compare against the buyer’s own agent harness and verified task success. Introductory API pricing is stated to run through November 30, 2026.
 
 ### 2026-11-09 - closed model tiers, open heavyweight weights, and visual creation
 

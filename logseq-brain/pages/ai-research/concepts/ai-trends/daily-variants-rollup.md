@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest daily briefing is [2026-11-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-09.md), the final local edition for the full November 9 CST day: Fable/Mythos 5.2, Muse Ember, LongCat-2.5 weight release, Seedream 5.5, agent compute and control planes, Fireworks’ security update, FAA SMART, and policy/market developments. It includes five Nov 9 local-time paper keeps plus four older uncovered keeps. News and arXiv discovery limits are disclosed; one new public paper-summary target is currently 404, so the Lumistorm post is withheld pending Rich’s GitHub review. The previous edition is [2026-11-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md).
+The latest daily briefing is [2026-11-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-10.md), an interim edition through 18:00 CST: Gemini 4 Carbon and Robotics 2.5, a multimodal work benchmark, ChatGPT business agents, Adobe’s creative-app MCP preview, NVIDIA/OpenAI agent controls, Australia’s proposed AI safeguards, and Anthropic’s IPO roadshow. No November 10 local-time paper keep was confirmed; direct Brave search was unavailable and the arXiv scout was incomplete. The previous full-day edition is [2026-11-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-09.md).
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
@@ -46,6 +46,7 @@ Use this page as the stable landing zone for daily variants:
 4. If a source starts covering a different topic family, split it into a separate concept page.
 
 ## Related Pages
+- [Summary: Daily AI Intelligence Briefing — 2026-11-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-10.md) — interim through 18:00 CST; model/robotics, agentic commerce and creative tools, infrastructure controls, Australia policy, Anthropic financing, and incomplete arXiv discovery; 0 confirmed local-date keeps
 - [Summary: Daily AI Intelligence Briefing — 2026-11-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-09.md) — full-day model, infrastructure, safety, policy, and commercialization coverage; 5 newly approved papers plus 4 uncovered carry-forwards; public post awaits one missing GitHub paper summary
 - [Summary: Daily AI Intelligence Briefing — 2026-11-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md) — power procurement, NVIDIA board security inquiry, agent runtime/platform updates, OpenAI–Hacktron testing, and three confirmed same-day paper keeps; search/API limits and pending GitHub review disclosed
 - [Summary: Daily AI Intelligence Briefing — 2026-11-07](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-07.md) — saved-approval credential exposure; practical AI workflows in libraries; no verified same-day model launch; 0 selected papers; Brave unavailable and arXiv discovery incomplete
