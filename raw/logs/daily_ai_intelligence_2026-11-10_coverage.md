@@ -2,34 +2,38 @@
 
 ## Scope and classification
 
-- **Run and cutoff:** Tuesday, November 10, 2026, 18:00 CST. This is an interim briefing covering 00:00–18:00 CST, not a claim of full-day coverage.
-- **Local intake:** there were no `raw/articles` captures dated November 10 when the run began. The latest local captures were from November 9. The daily page was built from dated first-party pages and a targeted news sweep; no stale article was assigned a new date.
-- **Included:** Google’s November 10 general availability for Gemini 4 Carbon; Google DeepMind’s Gemini Robotics 2.5; the Multimodal Knowledge Agent (MKA) benchmark; OpenAI Businesses in ChatGPT; Adobe’s local Model Context Protocol (MCP) preview; NVIDIA’s OpenShell/Agent Substrate and Kubernetes announcement; OpenAI Control Room; Australia’s proposed frontier-AI obligations and regulator; Anthropic’s IPO roadshow; Reuters’ TSMC investment report; and OpenAI’s November 10 education report.
-- **Excluded or deferred:** prior-date Anthropic Fable/Mythos 5.2, Meta Muse Ember, Meituan LongCat-2.5, ByteDance Seedream 5.5, and NVIDIA GR00T 2 were not repeated as November 10 releases. OpenAI BioBasicsBench is dated November 6 and is not new today. Generic business, non-AI, stale, and unsupported search results were excluded. Product pricing, model rankings, robotics metrics, and privacy assurances remain attributed company claims; partner pilots are not treated as proof of production readiness.
-- **Repeated coverage:** MKA and Gemini 4 Carbon are discussed together only as related model/evaluation developments; their distinct release and benchmark implications remain separate. OpenShell’s policy runtime and Agent Substrate’s execution lifecycle are described as complementary but different components. Anthropic’s IPO and TSMC’s investment are joined as one capital-market cluster, with Reuters attribution retained.
+- **Target and window:** Tuesday, November 10, 2026, 00:00–23:59 CST. This is the immediately preceding local calendar day for the November 11 midnight run.
+- **Local intake:** two full-text article captures dated November 10 (OpenAI’s Gilbert + Tobin customer story and Rescale’s agentic engineering release), one raw paper capture dated November 9, and two arXiv scout logs. The raw paper was not a curation-confirmed keep.
+- **Primary-source sweep:** checked dated material from Google/DeepMind, OpenAI, Anthropic, NVIDIA, Microsoft, Adobe, Australia’s government, and IFM/MBZUAI; expanded coverage with search-discovered company announcements and independent reporting. Repeated coverage was merged by story. Performance, pricing, customer and safety claims remain attributed to their publishers.
+- **Included:** Gemini 4 Carbon broader availability, PAN 2, Gemini Robotics 2.5 and MKA, AlphaProof Code, Anthropic office/work surfaces, OpenAI Business Agents and Cogent case material, Gemini healthcare, Rescale engineering agents, Gilbert + Tobin adoption, Adobe local MCP preview, NVIDIA OpenShell/Agent Substrate, OpenAI Control Room, Microsoft Research’s Lazarus backdoor study, Australia’s proposed safeguards, Anthropic’s IPO roadshow/Reuters’ TSMC report, and OpenAI/Upwork labor research and education guidance.
+- **Excluded/deferred:** prior-day model releases were not redated; unconfirmed third-party model trackers were not treated as primary confirmation. Claude Meetings was announced as forthcoming, not as launched. Unreviewed papers were not presented as approved.
 
-## Search and research coverage
+## Search and model coverage
 
-- The direct Brave-backed integration was unavailable. A generic web-search fallback plus primary company, regulator, and press pages were used. Search output is not represented as Brave; no DDGS/DuckDuckGo search was used.
-- Targeted first-party/news checks covered OpenAI, Anthropic, Google DeepMind/Google AI, Meta, NVIDIA, and Adobe, plus safety, model-release, agent infrastructure, education, IPO, regulation, and incident themes. No November 10 Meta model announcement was found in the official newsroom results.
-- **arXiv API:** three broad category queries (`cs.AI`, `cs.LG`, `cs.CL`) each returned 50 recent entries, with newest submission timestamps between 2026-11-09 18:57 and 18:59 UTC. A nine-family targeted sweep covered agent, tool use, reasoning, memory, benchmark, safety/alignment, multimodal, inference, and open source. The inference and open-source queries returned 50 entries each; the other seven were incomplete (six HTTP 429 responses and one timeout). A separate target-date filter for November 10 returned zero entries. The latest retrieved broad-category entries stop on November 9 UTC, so November 10 paper discovery is incomplete. Detailed per-query outcomes are in `raw/logs/arxiv_scout_2026-11-10_18-00.md`.
+- The configured direct Brave integration was unavailable. Generic web search and direct primary-source pages were used as fallback; this was not a Brave-backed sweep. No DDGS/DuckDuckGo search was used.
+- Company checks included OpenAI, Anthropic, Google/DeepMind, Meta, NVIDIA, Microsoft, Adobe, and IFM; policy checks included the Australian government. Search output is not treated as exhaustive.
+- **Model-architecture review:** PAN 2 is confirmed at its publisher as a November 10 release with a multimodal language-planning and video-diffusion design, downloadable weights/code, and Apache 2.0 licensing. Gemini 4 Carbon was available more broadly on November 10 but was not a new checkpoint. Prior-date releases were not repeated as new. No separately verified diffusion-language-model checkpoint was found for the target date; PAN 2 is not described as a diffusion language model.
 
-## Paper curation
+## Paper curation and coverage
 
-- Read-only SQLite query for confirmed `keep` decisions with timestamps in 2026-11-10 00:00–23:59 CST (2026-11-10 06:00–2026-11-11 06:00 UTC) returned **0**.
-- The most recent approval at 2026-11-10 03:46 UTC converts to November 9 21:46 CST, so it remains assigned to November 9 and is not carried into this edition.
-- No pending or uncurated arXiv candidate is promoted. The daily briefing contains no paper-summary references.
+- Read-only query of `.curation/review.sqlite3` returned **908 keep decision rows**. Timestamp conversion to America/Chicago found **0** decisions on November 10.
+- Canonical summary-path resolution found no unresolved keep rows. Normalized comparison against earlier dated briefing pages found **0 uncovered previously kept paper identities**.
+- **Final approved-paper set:** 0 target-day keeps + 0 uncovered carry-forwards = **0 selected papers** and **0 paper-summary links**. No summary-to-original-paper chain is required for this zero-paper set.
+- The confirmed decision query is complete, but page-level candidate review is not complete. This is reported as a limit, not as evidence that no papers exist.
+- The newest entries in the latest 14-family arXiv scout (1,950 records) are around 2026-11-10 03:40 UTC. The target CST window begins at 06:00 UTC, so target-day paper discovery is incomplete. Pending candidates are omitted; any later-approved paper belongs to its approval date.
 
-## Wiki, index, and mirrors
+## Wiki, mirror, GitHub, and publication
 
-- Created `concepts/ai-trends/daily-ai-intelligence-blog-2026-11-10.md` as an interim edition; updated the LLM Release Tracker for Gemini 4 Carbon, the wiki index, daily variants rollup, and `log.md`.
-- The briefing uses visible source URLs; GitHub wiki-copy links to local wiki pages are absolute `raw.githubusercontent.com` links. It does not use relative wiki paths or GitHub blob links for summary pages.
-- The seven changed files were copied to `/home/rich/wiki/ai-research/logseq-brain/pages/ai-research` and `/home/rich/logseq-brain/pages/ai-research`; all 14 source-to-target byte comparisons passed.
-- The completion step invokes `bash /home/rich/.hermes/scripts/wiki_git_push.sh` from `/home/rich/wiki/ai-research`; the actual command exit and remote `master` revision must be verified before success is reported.
+- Canonical dated page: `concepts/ai-trends/daily-ai-intelligence-blog-2026-11-10.md`.
+- Updated the wiki index, audit log, and recurring `daily-variants-rollup.md` hub.
+- Configured Logseq mirror: `/home/rich/logseq-brain/pages/ai-research`; the repo-local `logseq-brain` tree is also maintained. The dated page, coverage audit, index, `log.md`, and recurring hub are byte-identical in both mirrors after the final update.
+- GitHub was not committed or pushed. Any sync awaits Rich’s review and explicit approval.
+- WordPress authentication succeeded (`/wp-json/wp/v2/users/me?context=edit`, HTTP 200); slug lookup found no prior post; the existing `Daily AI Briefing` category ID 5 was reused. Created post **#244** with slug `daily-ai-intelligence-2026-11-10`; REST read-back confirmed published status, category, slug, and exact HTML body.
 
-## Limitations and follow-up
+## Final publication verification
 
-1. Coverage ends at 18:00 CST; later same-day releases and later curation decisions are outside this interim run.
-2. Direct Brave search was unavailable, and arXiv’s topical sweep was rate-limited; research discovery is incomplete.
-3. Several performance and safety metrics are vendor or benchmark-publisher claims. The benchmark and robotics results need independent replication and deployment follow-up.
-4. Australia’s requirements are proposed, and Anthropic’s offering and TSMC’s reported investments are not completed transactions.
+- **Lumistorm:** [daily-ai-intelligence-2026-11-10](https://lumistorm.net/daily-ai-intelligence-2026-11-10/) — post ID **244**, status `publish`, existing category ID **5**. REST create returned HTTP 201; authenticated read-back returned HTTP 200 and matched the intended body, slug, and category.
+- **Live page and archive:** cache-busted post URL returned HTTP 200 with the expected date, key themes, and source links; no frontmatter or raw wiki/Markdown link syntax leaked. Cache-busted `/blog/` returned HTTP 200 and listed the new post ahead of the November 5 edition.
+- **Paper audit:** confirmed keeps 0; uncovered carry-forwards 0; selected papers 0; paper-summary links 0. No paper chain is unresolved. Target-day arXiv discovery remains incomplete and page-level review is pending.
+- **GitHub:** no commit or push; sync awaits Rich’s review and explicit approval.
+- **Logseq:** the dated page, coverage audit, index, `log.md`, and recurring hub are copied to both configured mirror trees; final byte/SHA parity is checked after this audit update.
