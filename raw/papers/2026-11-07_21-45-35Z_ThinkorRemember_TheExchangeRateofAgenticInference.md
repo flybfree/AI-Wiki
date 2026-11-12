@@ -1,0 +1,18 @@
+---
+title: Think or Remember: The Exchange Rate of Agentic Inference
+published: 2026-11-07T21:45:35Z
+authors: Juan Wisznia, Santiago Luis Groba Alonso, Matías Gómez Taddeo, Gonzalo Zabaleta, Joaquín Cullen, Luciano Del Corro
+url: http://arxiv.org/abs/2611.10982v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Think or Remember: The Exchange Rate of Agentic Inference
+
+## Abstract
+Agents built on reasoning models resend their growing transcript at every call. Two transacting parties, not the model, decide what that costs: the client keeps or edits messages; the server decides whether earlier reasoning returns in the prompt and what its cache reuses. We define a cost model whose counts match an instrumented engine exactly; the architecture charges $c$ per token processed and $β$ per pair attended. Their ratio $P^*=c/β$ is an exchange rate between thinking and remembering: per token, processing dominates below this context length, a thinking regime, and attention above it, a memory regime. A policy change has a mechanical cost, incurred even if the agent writes the same tokens, and a behavioral one: it writes different tokens, changing cost and outcome. Serving alone can flip which policy is cheaper: on recorded Qwen3-8B ScienceWorld runs, dropping earlier reasoning costs 1.74 times keeping it when the server reuses generated states and 0.34 times when it reuses nothing. In live reruns, dropping it cuts correct HotpotQA answers by 9-23 percentage points on four models, at lower point-estimate cost. Comparing context policies means comparing systems: architecture and serving set the cost of the history kept and the work it induces.
+
+## Metadata
+- **Published**: 2026-11-07T21:45:35Z
+- **Authors**: Juan Wisznia, Santiago Luis Groba Alonso, Matías Gómez Taddeo, Gonzalo Zabaleta, Joaquín Cullen, Luciano Del Corro
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.10982v1)

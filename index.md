@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-11
+> Last updated: 2026-11-12
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
-- [Summary: Daily AI Intelligence Briefing — 2026-11-11](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-11.md) — interim through 18:00 CST; AlphaGenome 2, Gemini Decisions API, BotPsy, Perplexity SPACE evaluation, and Google Tabletop; no confirmed paper keeps; arXiv API coverage incomplete
+- [Summary: Daily AI Intelligence Briefing — 2026-11-11](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-11.md) — canonical final through 23:59 CST; AlphaGenome 2, Gemini Decisions API, BotPsy, Perplexity SPACE evaluation, Tabletop, Gemini on CarPlay, and locally grounded AI deployment; 0 confirmed keeps or uncovered carry-forwards; arXiv discovery incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-10.md) — canonical final, corrected with Qwen4-Max’s hosted preview after converting its post and preview-start timestamps to Nov 10 CST; Gemini Carbon availability, open multimodal world model PAN 2, workplace/domain agents, runtime controls, model integrity, safeguards and frontier financing; 0 confirmed keeps; arXiv discovery incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-09.md) — four dated source captures plus a mixed AI roundup; Fable/Mythos 5.2, Muse Ember, LongCat-2.5 weights, Seedream 5.5, agent compute/controls, Fireworks incident update, FAA SMART, and education/export policy; 5 Nov 9 keeps plus 4 uncovered carry-forward papers; one new paper-summary target is 404 pending GitHub review
 - [Summary: Daily AI Intelligence Briefing — 2026-11-08](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-08.md) — Anthropic’s reported $3.4B/1.7 GW generator commitments, NVIDIA board security inquiry, agent-platform updates, and three papers approved Nov 8; bounded research coverage and pending GitHub review disclosed
