@@ -27,7 +27,7 @@ This page is designed as an **update-first tracker**:
 
 ## Current Snapshot
 
-**Last reviewed**: 2026-11-10
+**Last reviewed**: 2026-11-11
 
 ### Current release verdict
 
@@ -35,6 +35,8 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 
 | Model | Current role | Signal |
 |---|---|---|
+| **BotPsy-0.8B** | Open-weight, on-device tool-use model for low- to medium-difficulty personal workflows | Tether reports it beats tested ≤1.2B peers across six benchmarks and tops its broader comparison set on five of six; Apache-2.0 weights are available on Hugging Face |
+| **Qwen4-Max Preview** | Alibaba-hosted multimodal frontier preview for coding and agent work | Preview opened at 20:00 CST Nov 10 via Token Plan and named Qwen products; no open weights or official benchmark results announced |
 | **Gemini 4 Carbon** | Google’s broader-availability model for long-horizon engineering, cybersecurity, and scientific reasoning | General availability announced Nov 10; company reports benchmark leadership on selected tasks; API introductory pricing runs through Nov 30 |
 | **Claude Fable 5.2** | Anthropic's broadly available model for difficult technical work | Anthropic reports up to 30% faster output than Fable 5.1; $8/M input, $40/M output |
 | **Claude Mythos 5.2** | Restricted high-capability sibling for approved cybersecurity and biomedical work | Same underlying model as Fable 5.2; access through Anthropic verification programs |
@@ -57,7 +59,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Frontier capability now has distinct access tiers.** Anthropic says Fable 5.2 is broadly available while Mythos 5.2 is gated through cybersecurity and life-sciences verification programs.
 - **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
-- **The latest confirmed model releases span distinct deployment tiers.** Gemini 4 Carbon widened from a limited cyber-defender rollout to broader paid developer, enterprise, scientist, and consumer access on Nov 10; Meituan’s Nov 9 LongCat-2.5 remains an open-weight heavyweight with a custom/NPU serving path, not a consumer-local model.
+- **The latest confirmed model releases span distinct deployment tiers.** BotPsy adds an open, sub-billion-parameter local-agent candidate; Qwen4-Max is a time-limited hosted preview rather than a weight release; Gemini 4 Carbon widened from limited cyber-defender access to broader paid developer, enterprise, scientist, and consumer access on Nov 10.
 
 ### Open questions / contradictions
 
@@ -66,6 +68,22 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **No November 9 diffusion-language checkpoint was confirmed** in the targeted official-source check. Google's Gemini Diffusion remains described as an experimental demo, not a new dated release.
 
 ## Chronological Release Log
+
+### 2026-11-11 - BotPsy targets on-device tool use
+
+- **Source**: [Tether AI Research on Hugging Face](https://huggingface.co/blog/qvac/botpsy) · [QVAC release note](https://qvac.tether.io/blog/on-device-ai-agent-botpsy) · [BotPsy-0.8B weights](https://huggingface.co/qvac/BotPsy-0.8B)
+- **Model**: BotPsy-0.8B, based on Qwen3.5-0.8B
+- **Availability**: Hugging Face lists Apache-2.0 weights, with safetensors and GGUF variants; the publisher frames use for research and education.
+- **Why it matters**: The model targets device-resident tool use rather than frontier chat. Tether reports roughly doubled scores over its base on several tests, beats the tested ≤1.2B peers on all six benchmarks, and tops its broader comparison set on five of six.
+- **Claims and follow-up**: Results are publisher-reported. The article identifies multi-step information retrieval, accumulated instructions, lower-resource languages, and high-stakes use as limitations; verify license scope and runtime behavior before deployment.
+
+### 2026-11-10 - Qwen4-Max opens a hosted preview
+
+- **Source**: [Alibaba Qwen announcement](https://x.com/Alibaba_Qwen/status/2120335993643684315) · [Alibaba Cloud Model Studio documentation](https://www.alibabacloud.com/help/en/model-studio/qwen4-max-preview)
+- **Model**: Qwen4-Max Preview (`qwen4-max-preview`)
+- **Availability**: The official post was timestamped 2026-11-11 02:01 UTC (2026-11-10 20:01 CST); documentation sets the preview start at 10:00 China time, also 20:00 CST on November 10. Access is through Token Plan and named Alibaba applications; the preview is scheduled to end November 25 China time.
+- **Why it matters**: This is the first Qwen4 model available to try, but it is a hosted preview, not an open-weight release. Documentation describes text, image and video input and a 1M-token context.
+- **Follow-up**: No official benchmark results or downloadable Qwen4 weights were announced with this preview; verify whether a durable general-availability offering follows.
 
 ### 2026-11-10 - Gemini 4 Carbon expands to broader access
 
@@ -134,7 +152,7 @@ Use one dated block per release wave. If multiple articles land on the same day,
 - **Need difficult technical work with broad availability**: evaluate Claude Fable 5.2 against task-specific alternatives; Anthropic reports 30% faster output than 5.1.
 - **Need approved cyber or biomedical research access**: Claude Mythos 5.2 is gated through Anthropic's verification programs.
 - **Need low-cost repeated agent steps**: evaluate Meta Muse Ember for tool calls, routing, coding subtasks, and large-document work.
-- **Need open weights or self-hosting**: compare the [open-model shortlist](OpenSourceModelsStateOfTheArt.md), including newly released LongCat-2.5; budget for cluster-scale storage and verify its custom serving path before planning deployment.
+- **Need open weights or self-hosting**: compare the [open-model shortlist](OpenSourceModelsStateOfTheArt.md), including BotPsy for small local-agent workflows and LongCat-2.5 for cluster-scale multimodal use; verify each model’s license and serving requirements.
 - **Before switching**: measure end-to-end task success, latency, token cost, permissions, and recoverability in the production harness.
 
 ## Update protocol

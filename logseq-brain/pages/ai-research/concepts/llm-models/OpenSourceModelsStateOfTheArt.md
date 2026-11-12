@@ -1,15 +1,15 @@
 ---
-title: "Open-Source Models State of the Art — 2026-11-09"
-date: 2026-11-09
+title: "Open-Source Models State of the Art — 2026-11-11"
+date: 2026-11-11
 status: draft
-tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-09"]
+tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-11"]
 ---
 
-# Open-Source Models State of the Art — 2026-11-09
+# Open-Source Models State of the Art — 2026-11-11
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-09 and adds Meituan's LongCat-2.5 weight release to the existing model families. It distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
+This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-11 and adds Tether AI Research's sub-billion-parameter BotPsy for on-device tool use. It distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
 
 ## Semantic links
 - [Foundation Models State of the Art — 2026-08-27](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-07-27_FoundationModelsStateOfTheArt.md) — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
@@ -36,6 +36,7 @@ This table is a discovery-oriented shortlist, not a catalog limited to models al
 | Model | Openness | Approx. 4-bit memory / package | Capability profile | Discovery value |
 |---|---|---:|---|---|
 | [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | Open-weight, Apache 2.0 | 15–20 GB | Dense multimodal reasoning, coding, image/video input, tools, agents | Strong broad replacement candidate for local generalist workloads |
+| [BotPsy-0.8B](https://huggingface.co/qvac/BotPsy-0.8B) | Open weights, Apache-2.0 listed on Hugging Face | 0.8B parameters; BF16, Q8, and Q4 variants | Qwen3.5-0.8B-based tool-use agent for low- to medium-difficulty on-device tasks | Tether reports it beats tested ≤1.2B peers across six tests; multi-step retrieval remains weak and high-stakes use is excluded |
 | [LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) | Open-weight, LFM Open License 1.0 | About 0.8 GB raw 4-bit weights | 1.7B text model, 256K context, native tool use; part of a six-model multimodal family | Compact local-agent and fine-tuning candidate; check each modality's runtime support |
 | [LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B) | Open-weight, LFM Open License 1.0 | About 12 GB raw 4-bit weights | 24B total / 2B active MoE, 131K context | Higher-capacity local agent candidate; add runtime and KV-cache headroom |
 | [Qwen3-30B-A3B](https://huggingface.co/Qwen/Qwen3-30B-A3B) | Open-weight, Apache 2.0 | 16–20 GB | MoE general reasoning, coding, multilingual work, agents | High capability per active parameter; fast-MoE candidate |
