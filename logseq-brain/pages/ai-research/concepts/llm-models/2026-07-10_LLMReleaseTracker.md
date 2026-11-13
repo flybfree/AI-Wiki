@@ -7,14 +7,14 @@ tags: [llm-models, evolution, tracking]
 
 # LLM Release Tracker
 
-**Source**: [AI/ML API comparison article](https://aimlapi.com/blog/top-llm-models-in-2026-the-best-ai-models-for-reasoning-coding-multimodal-tasks) · [Fazm April releases roundup](https://fazm.ai/blog/new-llm-releases-april-2026) · [LLM Model Evolution](2026-06-10_LLMModelEvolution.md)
+**Source**: [AI/ML API comparison article](https://aimlapi.com/blog/top-llm-models-in-2026-the-best-ai-models-for-reasoning-coding-multimodal-tasks) · [Fazm April releases roundup](https://fazm.ai/blog/new-llm-releases-april-2026) · [LLM Model Evolution](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-06-10_LLMModelEvolution.md)
 
 > A living one-stop shop for the latest model releases, with the newest update pinned at the top and older snapshots moved downward into a chronological record.
 
 ## Semantic links
-- [[concepts/llm-models/2026-07-10_LLMReleaseTracker-archive.md|LLM Release Tracker Archive]] — 3 title terms overlap, shared tags: evolution, llmmodels, 3 topic terms overlap
-- [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]] — 1 title term overlap, shared tags: evolution, llmmodels, 1 topic term overlap
-- [[concepts/llm-models/llm-models-hub.md|LLM Models Hub]] — 1 title term overlap, shared tags: llmmodels, 1 topic term overlap
+- [LLM Release Tracker Archive](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-07-10_LLMReleaseTracker-archive.md) — 3 title terms overlap, shared tags: evolution, llmmodels
+- [LLM Model Evolution](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-06-10_LLMModelEvolution.md) — 1 title term overlap, shared tags: evolution, llmmodels
+- [LLM Models Hub](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/llm-models-hub.md) — 1 title term overlap, shared tags: llmmodels
 
 ## How this page works
 
@@ -27,7 +27,7 @@ This page is designed as an **update-first tracker**:
 
 ## Current Snapshot
 
-**Last reviewed**: 2026-11-11
+**Last reviewed**: 2026-11-12
 
 ### Current release verdict
 
@@ -35,6 +35,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 
 | Model | Current role | Signal |
 |---|---|---|
+| **Gemini 4 Hydrogen** | Closed-weight fast execution model for everyday coding, debugging, agent workflows, and Google Search | Google reports 57% on Terminal-Bench 4.1 vs. 18.2% for Gemini 3.8 Flash; 1M context; API pricing $1.50/M input and $7.50/M output. Orchestrator's Terminal-Bench 4.0 result is near-Carbon success at 24% less quota and 19% faster; all results are company-reported |
 | **BotPsy-0.8B** | Open-weight, on-device tool-use model for low- to medium-difficulty personal workflows | Tether reports it beats tested ≤1.2B peers across six benchmarks and tops its broader comparison set on five of six; Apache-2.0 weights are available on Hugging Face |
 | **Qwen4-Max Preview** | Alibaba-hosted multimodal frontier preview for coding and agent work | Preview opened at 20:00 CST Nov 10 via Token Plan and named Qwen products; no open weights or official benchmark results announced |
 | **Gemini 4 Carbon** | Google’s broader-availability model for long-horizon engineering, cybersecurity, and scientific reasoning | General availability announced Nov 10; company reports benchmark leadership on selected tasks; API introductory pricing runs through Nov 30 |
@@ -60,6 +61,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
 - **The latest confirmed model releases span distinct deployment tiers.** BotPsy adds an open, sub-billion-parameter local-agent candidate; Qwen4-Max is a time-limited hosted preview rather than a weight release; Gemini 4 Carbon widened from limited cyber-defender access to broader paid developer, enterprise, scientist, and consumer access on Nov 10.
+- **Gemini 4 Hydrogen adds a fast closed-model tier on Nov 12.** Google positions it for execution and Search, with Orchestrator routing work between Hydrogen and Carbon; pricing and performance should be benchmarked on equal-success production tasks.
 
 ### Open questions / contradictions
 
@@ -68,6 +70,14 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **No November 9 diffusion-language checkpoint was confirmed** in the targeted official-source check. Google's Gemini Diffusion remains described as an experimental demo, not a new dated release.
 
 ## Chronological Release Log
+
+### 2026-11-12 - Gemini 4 Hydrogen targets fast execution
+
+- **Source**: [Google — Gemini 4 Hydrogen](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/) · [Google Search rollout](https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/)
+- **Model**: Gemini 4 Hydrogen
+- **Availability**: Google says it is available through Google AI Studio, Gemini API, Gemini for business, Gemini app, Search, and paid Google AI Pro/Ultra access in Antigravity. Its stated context window is 1 million tokens; API pricing is $1.50/M input and $7.50/M output.
+- **Why it matters**: This is a fast coding/agent execution tier rather than a replacement for Google's deeper-reasoning Carbon and Argon models. Google reports 57% on Terminal-Bench 4.1 versus 18.2% for Gemini 3.8 Flash. Its Antigravity Orchestrator reportedly approaches Carbon task success on Terminal-Bench 4.0 with 24% less quota and 19% faster completion.
+- **Claims and follow-up**: Results and performance comparisons are from Google and use different benchmark versions. Verify independent task success, failure recovery, latency, and cost; test Search answer quality and link discovery separately.
 
 ### 2026-11-11 - BotPsy targets on-device tool use
 
@@ -108,7 +118,7 @@ Use one dated block per release wave. If multiple articles land on the same day,
 ```md
 ### YYYY-MM-DD - {release wave label}
 
-- **Source**: [Publisher](url)
+- **Source**: [Publisher](https://example.com/source)
 - **Models**: model A, model B, model C
 - **Why it matters**: one or two lines on the practical impact
 - **Current take**: how the snapshot above should change
@@ -141,7 +151,7 @@ Use one dated block per release wave. If multiple articles land on the same day,
 
 ### 2026-06-10 - Baseline model-evolution snapshot
 
-- **Source**: [LLM Model Evolution](2026-06-10_LLMModelEvolution.md)
+- **Source**: [LLM Model Evolution](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-06-10_LLMModelEvolution.md)
 - **Models**: Llama 4 Scout, Gemma 4, Mistral Small 3.1, Phi-4 Mini, DiffusionGemma 26B-A4B-it, Harness-1
 - **Why it matters**: this page started as the broader evolution view for model capabilities, benchmarks, and release dates.
 - **Current take**: keep this older concept page as the background layer; the tracker should carry the newest release wave.
@@ -152,7 +162,7 @@ Use one dated block per release wave. If multiple articles land on the same day,
 - **Need difficult technical work with broad availability**: evaluate Claude Fable 5.2 against task-specific alternatives; Anthropic reports 30% faster output than 5.1.
 - **Need approved cyber or biomedical research access**: Claude Mythos 5.2 is gated through Anthropic's verification programs.
 - **Need low-cost repeated agent steps**: evaluate Meta Muse Ember for tool calls, routing, coding subtasks, and large-document work.
-- **Need open weights or self-hosting**: compare the [open-model shortlist](OpenSourceModelsStateOfTheArt.md), including BotPsy for small local-agent workflows and LongCat-2.5 for cluster-scale multimodal use; verify each model’s license and serving requirements.
+- **Need open weights or self-hosting**: compare the [open-model shortlist](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/OpenSourceModelsStateOfTheArt.md), including BotPsy for small local-agent workflows and LongCat-2.5 for cluster-scale multimodal use; verify each model’s license and serving requirements.
 - **Before switching**: measure end-to-end task success, latency, token cost, permissions, and recoverability in the production harness.
 
 ## Update protocol
@@ -184,7 +194,7 @@ Copy this block when adding the next release wave:
 ```md
 ### YYYY-MM-DD - {release wave label}
 
-- **Source**: [Publisher](url)
+- **Source**: [Publisher](https://example.com/source)
 - **Models**: model A, model B, model C
 - **Why it matters**: 
 - **Current take**: 
@@ -193,12 +203,12 @@ Copy this block when adding the next release wave:
 
 ## Source pages to watch
 
-- [LLM Model Evolution](2026-06-10_LLMModelEvolution.md)
-- [Harness-1](2026-06-10_Harness1.md)
-- [Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price](../../articles/2026-07-10_BestLLMModels2026Compared_Reasoning_Coding_Multimo.md)
-- [New LLM Releases April 2026: Every Major Model Launch This Month](../../articles/2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM.md)
-- [LLM Release Tracker archive](2026-07-10_LLMReleaseTracker-archive.md)
+- [LLM Model Evolution](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-06-10_LLMModelEvolution.md)
+- [Harness-1](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-06-10_Harness1.md)
+- [Best LLM Models 2026 Compared: Reasoning, Coding, Multimodal & Price](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-10_BestLLMModels2026Compared_Reasoning_Coding_Multimo_summary.md)
+- [New LLM Releases April 2026: Every Major Model Launch This Month](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-06-11_NewLLMReleasesApril2026_EveryMajorModelLaunchThisM_summary.md)
+- [LLM Release Tracker archive](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-07-10_LLMReleaseTracker-archive.md)
 
 ## Related navigation
 
-- [[AI Research Wiki — Topic Index]]
+- [AI Research Wiki — Topic Index](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/wiki-topic-index.md)
