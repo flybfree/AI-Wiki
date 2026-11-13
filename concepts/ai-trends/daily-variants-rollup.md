@@ -27,7 +27,7 @@ Recurring AI news feeds generate near-duplicate daily pages. This hub keeps the 
 
 ## Current Families
 
-The latest edition is the canonical full-day local briefing for [2026-11-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-12.md). It covers Gemini 4 Hydrogen, open-weight Perplexity Decider and Bielik-One decision models, agentic product/R&D workflows, Daybreak and the Fireworks/Notion incident, frontier-development litigation, child-safety research, and NVIDIA's CEO transition. The complete local-time query found 0 target-day keeps and 0 uncovered carry-forwards; arXiv records stop before the local-day window, and uncurated candidates remain excluded. Lumistorm post 246 is published and verified at https://lumistorm.net/daily-ai-intelligence-2026-11-12/.
+The latest full-day final remains [2026-11-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-12.md), covering Gemini 4 Hydrogen, Perplexity Decider and Bielik-One, agentic product/R&D workflows, Daybreak and the Fireworks/Notion incident, frontier-development litigation, child-safety research, and NVIDIA's CEO transition. A separate preliminary [[Summary: Daily AI Intelligence Briefing — 2026-11-13]] adds a user-requested research spotlight on Anthropic's April 2 post and arXiv:2604.07729v1 (submitted April 9 UTC). It is not a November 13 release or a full-day edition.
 
 | Source family | Latest raw | Latest summary | Notes |
 |---|---|---|---|
@@ -46,6 +46,7 @@ Use this page as the stable landing zone for daily variants:
 4. If a source starts covering a different topic family, split it into a separate concept page.
 
 ## Related Pages
+- [[Summary: Daily AI Intelligence Briefing — 2026-11-13]] — preliminary user-requested research spotlight; full-day edition pending
 - [Summary: Daily AI Intelligence Briefing — 2026-11-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-12.md) — canonical final through 23:59 CST; Gemini 4 Hydrogen, Perplexity Decider and Bielik-One, agentic product/R&D workflows, Daybreak and Fireworks/Notion security, frontier-AI litigation, child-safety research, and NVIDIA leadership; 0 target-day keeps or uncovered carry-forwards; arXiv discovery incomplete; Lumistorm post 246 published and verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-11](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-11.md) — canonical final through 23:59 CST; AlphaGenome 2, Gemini Decisions API, BotPsy, Perplexity SPACE, Tabletop, Gemini on CarPlay, and local AI deployment; 0 confirmed keeps; arXiv discovery incomplete; Lumistorm post 245 published and verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-10.md) — canonical final local edition; Gemini Carbon, open-weight PAN 2, workplace and engineering agents, control planes, verification and model integrity, policy and financing; 0 target-day keeps, 0 uncovered carry-forwards; incomplete arXiv discovery; Lumistorm published, GitHub review pending

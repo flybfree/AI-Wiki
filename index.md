@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+- [[Summary: Daily AI Intelligence Briefing — 2026-11-13]] — preliminary user-requested research spotlight; full-day coverage pending
 - [Summary: Daily AI Intelligence Briefing — 2026-11-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-12.md) — canonical final through 23:59 CST; Gemini 4 Hydrogen, Perplexity Decider and Bielik-One, agentic product/R&D workflows, Daybreak and Fireworks/Notion security, frontier-AI litigation, child-safety research, and NVIDIA leadership; 0 target-day keeps or uncovered carry-forwards; arXiv discovery incomplete; Lumistorm post 246 published and verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-11](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-11.md) — canonical final through 23:59 CST; AlphaGenome 2, Gemini Decisions API, BotPsy, Perplexity SPACE evaluation, Tabletop, Gemini on CarPlay, and locally grounded deployment; 0 confirmed keeps or uncovered carry-forwards; arXiv discovery incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-10.md) — canonical final, corrected with Qwen4-Max’s hosted preview after converting its post and preview-start timestamps to Nov 10 CST; Gemini Carbon availability, open multimodal world model PAN 2, workplace/domain agents, runtime controls, model integrity, safeguards and frontier financing; 0 confirmed keeps; arXiv discovery incomplete
@@ -335,6 +336,7 @@ tags: ['wiki']
 - AI News | Latest Headlines and Developments | Reuters (7)
 
 ## Papers
+- [[Summary: Emotion Concepts and their Function in a Large Language Model]] — user-requested paper addition; Anthropic post published Apr 2, arXiv v1 submitted Apr 9
 - [Beyond Accuracy: How Quantization Affects Coding Agents — summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-02_01-30-27Z_BeyondAccuracy_HowQuantizationAffectsCoding_summary.md) — [original arXiv paper](https://arxiv.org/abs/2611.02368); kept Nov 8
 - [Optimize the Harness, Not the Model — summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-02_16-53-29Z_OptimizetheHarness_NottheModel_FittingaMini_summary.md) — [original arXiv paper](https://arxiv.org/abs/2611.03434); kept Nov 8
 - [From Autonomous Agents to Cognitive Symbionts — summary](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-03_18-59-52Z_FromAutonomousAgentstoCognitiveSymbionts_To_summary.md) — [original arXiv paper](https://arxiv.org/abs/2611.05376); kept Nov 8
