@@ -1,15 +1,15 @@
 ---
-title: "Open-Source Models State of the Art — 2026-11-11"
-date: 2026-11-11
+title: "Open-Source Models State of the Art — 2026-11-12"
+date: 2026-11-12
 status: draft
-tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-11"]
+tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-12"]
 ---
 
-# Open-Source Models State of the Art — 2026-11-11
+# Open-Source Models State of the Art — 2026-11-12
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-11 and adds Tether AI Research's sub-billion-parameter BotPsy for on-device tool use. It distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
+This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-12 and includes Perplexity Decider v1.3 and SpeakLeash Bielik-One as specialized open-weight decision models alongside general-purpose and local-deployment checkpoints. It distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
 
 ## Semantic links
 - [Foundation Models State of the Art — 2026-08-27](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-07-27_FoundationModelsStateOfTheArt.md) — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
@@ -71,6 +71,15 @@ This table is a discovery-oriented shortlist, not a catalog limited to models al
 | [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) | Open-weights | Very large | 276B total, 12B active, 1M context, variable thinking | Important frontier open-weight release, not consumer-local |
 | [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) | Open-weight, MIT | Hundreds of GB | Frontier reasoning, math, coding, research | Server-class reasoning reference |
 | [Llama 3.1 405B](https://huggingface.co/meta-llama/Llama-3.1-405B) | Open-weight, Meta license | 220–250 GB | Large-scale general reasoning and coding | Multi-GPU server reference |
+
+### Specialized decision models
+
+These models return typed choices, scores, probabilities, or located spans instead of serving as general-purpose chat assistants. Their value depends on calibration and the application’s error costs.
+
+| Model | Availability and license | Role | Evaluation note |
+|---|---|---|---|
+| [Perplexity Decider v1.3](https://www.perplexity.ai/hub/blog/perplexity-decider) / [Decider Flash v1.3](https://www.perplexity.ai/hub/blog/perplexity-decider) | Perplexity says downloadable Hugging Face weights under Apache terms, plus OpenRouter and Decisions API | Probability-bearing text/vision decisions; v1.3 adds instructed span location for extraction tasks | Perplexity-reported evaluation only; calibrate thresholds on representative data and measure false-positive/negative costs |
+| [SpeakLeash Bielik-One 11B v3.1-r1](https://huggingface.co/speakleash/Bielik-One-11B-v3.1-r1) and [adapter](https://huggingface.co/speakleash/Bielik-One-11B-v3.1-r1-Adapter) | Apache-2.0 model cards; 4B, 7B, and 11B variants with merged weights and adapters | Structured decisions and probabilities for classification and assessment workflows | Release date Nov 12 per SpeakLeash schedule; use the exact model card/runtime and independently check calibration |
 
 ### Capability-oriented shortlist
 
@@ -262,6 +271,8 @@ These discussion notes are retained from earlier 2026 research passes; they are 
 - Ornith-1.5 shifts the open-weight discussion from self-scaffolding to broader self-improvement: the task generator, agent scaffold, and solution rollouts are optimized together. Its 35B-A3B checkpoint is the deployment-friendly member, while the 397B model is a frontier-scale coding-agent benchmark contender.[3][4]
 
 ## Progress log
+
+- **2026-11-12** — Added Perplexity Decider v1.3/Flash v1.3 and SpeakLeash Bielik-One as specialized open-weight decision models. Perplexity's official post states Apache-licensed Hugging Face weights; Bielik-One's dated release schedule and Hugging Face model cards verify the Nov 12 release, downloadable weights, and Apache-2.0 licensing. Kept the models separate from general-purpose chat rankings and noted that calibration and publisher benchmarks need workload-specific checks.
 
 - **2026-11-09** — Added Meituan LongCat-2.5 as an open-weight heavyweight after the official Nov 9 weights announcement and Hugging Face model card verified MIT licensing, the 1.6T/~48B scale claim, a `LongcatCausalLM` custom-code configuration, and a custom NPU serving path. Do not equate sparse active parameters with consumer-local memory requirements.
 

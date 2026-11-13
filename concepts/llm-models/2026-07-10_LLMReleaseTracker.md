@@ -36,6 +36,8 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 | Model | Current role | Signal |
 |---|---|---|
 | **Gemini 4 Hydrogen** | Closed-weight fast execution model for everyday coding, debugging, agent workflows, and Google Search | Google reports 57% on Terminal-Bench 4.1 vs. 18.2% for Gemini 3.8 Flash; 1M context; API pricing $1.50/M input and $7.50/M output. Orchestrator's Terminal-Bench 4.0 result is near-Carbon success at 24% less quota and 19% faster; all results are company-reported |
+| **Perplexity Decider v1.3 / Decider Flash v1.3** | Open-weight typed decision models for classification, routing, scoring, and evidence-span location | Perplexity says both are downloadable on Hugging Face under Apache terms; v1.3 adds `locate`. Bidirectional attention and evaluation results are publisher-described; not general-purpose chat models |
+| **SpeakLeash Bielik-One** | Four open-weight 4B–11B decision models returning structured probabilities | Nov 12 family launch; Apache-2.0 model cards and merged-weight/adapter options verified on Hugging Face; specialized decision models, not standard chat assistants |
 | **BotPsy-0.8B** | Open-weight, on-device tool-use model for low- to medium-difficulty personal workflows | Tether reports it beats tested ≤1.2B peers across six benchmarks and tops its broader comparison set on five of six; Apache-2.0 weights are available on Hugging Face |
 | **Qwen4-Max Preview** | Alibaba-hosted multimodal frontier preview for coding and agent work | Preview opened at 20:00 CST Nov 10 via Token Plan and named Qwen products; no open weights or official benchmark results announced |
 | **Gemini 4 Carbon** | Google’s broader-availability model for long-horizon engineering, cybersecurity, and scientific reasoning | General availability announced Nov 10; company reports benchmark leadership on selected tasks; API introductory pricing runs through Nov 30 |
@@ -62,6 +64,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
 - **The latest confirmed model releases span distinct deployment tiers.** BotPsy adds an open, sub-billion-parameter local-agent candidate; Qwen4-Max is a time-limited hosted preview rather than a weight release; Gemini 4 Carbon widened from limited cyber-defender access to broader paid developer, enterprise, scientist, and consumer access on Nov 10.
 - **Gemini 4 Hydrogen adds a fast closed-model tier on Nov 12.** Google positions it for execution and Search, with Orchestrator routing work between Hydrogen and Carbon; pricing and performance should be benchmarked on equal-success production tasks.
+- **Typed decision models are a distinct open-weight track.** Perplexity Decider v1.3/Flash v1.3 and SpeakLeash Bielik-One target calibrated choices and extraction rather than free-form chat; test calibration, abstention, and workload fit before using outputs to trigger actions.
 
 ### Open questions / contradictions
 
@@ -78,6 +81,14 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Availability**: Google says it is available through Google AI Studio, Gemini API, Gemini for business, Gemini app, Search, and paid Google AI Pro/Ultra access in Antigravity. Its stated context window is 1 million tokens; API pricing is $1.50/M input and $7.50/M output.
 - **Why it matters**: This is a fast coding/agent execution tier rather than a replacement for Google's deeper-reasoning Carbon and Argon models. Google reports 57% on Terminal-Bench 4.1 versus 18.2% for Gemini 3.8 Flash. Its Antigravity Orchestrator reportedly approaches Carbon task success on Terminal-Bench 4.0 with 24% less quota and 19% faster completion.
 - **Claims and follow-up**: Results and performance comparisons are from Google and use different benchmark versions. Verify independent task success, failure recovery, latency, and cost; test Search answer quality and link discovery separately.
+
+### 2026-11-12 - open-weight typed decision models
+
+- **Sources**: [Perplexity — Decider v1.3](https://www.perplexity.ai/hub/blog/perplexity-decider) · [SpeakLeash — Bielik-One launch schedule](https://www.bielik.ai/en/blog/launching-bielik-11b-v31-dflash-and-the-bielik-one-family) · [Bielik-One 11B v3.1-r1 card and weights](https://huggingface.co/speakleash/Bielik-One-11B-v3.1-r1)
+- **Models**: Perplexity Decider v1.3 and Decider Flash v1.3; Bielik-One 4B, 7B, and 11B decision models.
+- **Availability**: Perplexity says its weights are downloadable under Apache terms on Hugging Face and are also served through OpenRouter and the Decisions API. SpeakLeash scheduled Bielik-One for Nov 12; Hugging Face model cards list Apache-2.0 weights with merged and adapter options.
+- **Why it matters**: These are typed decision components that return probabilities or located spans, making classification, routing, evaluation, and extraction first-class model workloads alongside text generation.
+- **Claims and follow-up**: Perplexity's benchmark comparisons are publisher-reported. Evaluate calibration, abstention, false-positive/false-negative costs, model-card completeness, and the exact license/runtime for the selected checkpoint.
 
 ### 2026-11-11 - BotPsy targets on-device tool use
 

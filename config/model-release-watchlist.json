@@ -1,6 +1,6 @@
 {
   "description": "High-signal model releases that daily AI briefings must explicitly check.",
-  "updated": "2026-09-22",
+  "updated": "2026-11-13",
   "labs": [
     "OpenAI",
     "Anthropic",
@@ -22,7 +22,9 @@
     "Microsoft AI",
     "Hugging Face",
     "Moonshot AI / Kimi",
-    "MiniMax"
+    "MiniMax",
+    "Perplexity",
+    "SpeakLeash"
   ],
   "releases": [
     {
@@ -80,6 +82,20 @@
       "release_date": "2026-09-03",
       "category": "frontier-general-cyber",
       "source": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/"
+    },
+    {
+      "name": "Perplexity Decider v1.3 / Decider Flash v1.3",
+      "aliases": ["Decider v1.3", "Decider Flash v1.3", "Perplexity Decider v1.3", "pplx-decider-v1.3"],
+      "release_date": "2026-11-12",
+      "category": "open-weight-structured-decision",
+      "source": "https://www.perplexity.ai/hub/blog/perplexity-decider"
+    },
+    {
+      "name": "SpeakLeash Bielik-One",
+      "aliases": ["Bielik-One", "Bielik One", "Bielik-One 11B v3.1-r1"],
+      "release_date": "2026-11-12",
+      "category": "open-weight-structured-decision",
+      "source": "https://www.bielik.ai/en/blog/launching-bielik-11b-v31-dflash-and-the-bielik-one-family"
     },
     {
       "name": "DeepSeek V4.1-Flash",

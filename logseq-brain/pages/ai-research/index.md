@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-12
+> Last updated: 2026-11-13
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
-- [Summary: Daily AI Intelligence Briefing — 2026-11-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-12.md) — interim through 18:00 CST; Gemini 4 Hydrogen, cybersecurity products and vendor incident, frontier-development lawsuit, Anthropic's date-qualified threshold disclosure, and NVIDIA leadership; 0 same-day keeps; arXiv discovery incomplete
+- [Summary: Daily AI Intelligence Briefing — 2026-11-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-12.md) — canonical final through 23:59 CST; Gemini 4 Hydrogen, Perplexity Decider and Bielik-One, agentic product/R&D workflows, Daybreak and Fireworks/Notion security, frontier-AI litigation, child-safety research, and NVIDIA leadership; 0 target-day keeps or uncovered carry-forwards; arXiv discovery incomplete; Lumistorm post 246 published and verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-11](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-11.md) — canonical final through 23:59 CST; AlphaGenome 2, Gemini Decisions API, BotPsy, Perplexity SPACE evaluation, Tabletop, Gemini on CarPlay, and locally grounded deployment; 0 confirmed keeps or uncovered carry-forwards; arXiv discovery incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-10.md) — canonical final, corrected with Qwen4-Max’s hosted preview after converting its post and preview-start timestamps to Nov 10 CST; Gemini Carbon availability, open multimodal world model PAN 2, workplace/domain agents, runtime controls, model integrity, safeguards and frontier financing; 0 confirmed keeps; arXiv discovery incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-09](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-09.md) — four dated source captures plus a mixed AI roundup; Fable/Mythos 5.2, Muse Ember, LongCat-2.5 weights, Seedream 5.5, agent compute/controls, Fireworks incident update, FAA SMART, and education/export policy; 5 Nov 9 keeps plus 4 uncovered carry-forward papers; one new paper-summary target is 404 pending GitHub review
@@ -3415,3 +3415,8 @@ tags: ['wiki']
 - [[2026-11-09_GoogleNews-Artificialintelligence-Latest.md]] : Google News - Artificial intelligence - Latest
 - [[2026-11-10_RescaleExpandsAgenticDigitalEngineeringwithCustomi.md]] : Rescale Expands Agentic Digital Engineering with Customizable AI Agents for R&D Teams
 - [[2026-11-10_Gilbert_TobinrethinksthebusinessoflawwithAI.md]] : Gilbert + Tobin rethinks the business of law with AI
+- [[2026-11-12_ChineseAIfirmZ_aifacesreputationhitafterusersspotu.md]] : Chinese AI firm Z.ai faces reputation hit after users spot unauthorised uploads | South China Morning Post
+- [[2026-11-12_HowAmplitudeshipsproductimprovementsin1_2dayswithO.md]] : How Amplitude ships product improvements in 1–2 days with OpenAI
+- [[2026-11-12_Mirendil__1BillionSeriesAFundsAIResearchAndDevelop.md]] : Mirendil: $1 Billion Series A Funds AI Research And Development Tools
+- [[2026-11-12_Usingwearablestoenablecardiovascular-kidney-metabo.md]] : Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching
+- [[2026-11-12_Google_snewGeminimodelisbetteratunderstandingcompl.md]] : Google’s new Gemini model is better at understanding complicated questions

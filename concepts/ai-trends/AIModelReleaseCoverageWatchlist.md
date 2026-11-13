@@ -2,7 +2,7 @@
 title: "AI Model Release Coverage Watchlist"
 type: reference
 status: active
-updated: "2026-11-09"
+updated: "2026-11-13"
 tags: [ai-intelligence, model-releases, frontier-models, open-weights, quality-control]
 ---
 
@@ -20,6 +20,8 @@ This is a quality-control list for daily AI Intelligence briefings. Each high-si
 - [Meituan LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5) — Nov 9 heavyweight multimodal weights release; MIT license, custom code, and NPU-optimized serving path.
 - [ByteDance Seedream 5.5](https://seed.bytedance.com/en/seedream5_5) — Nov 9 visual-generation/editing release; verify architecture, weights, and license only from a first-party card.
 - [Inkling 2 Small](https://thinkingmachines.ai/news/inkling-2-small/) — announced Nov 5; Tinker-only closed weights until the promised Apache 2.0 release clears external testing.
+- [Perplexity Decider v1.3 and Decider Flash v1.3](https://www.perplexity.ai/hub/blog/perplexity-decider) — released Nov 12; open-weight typed decision models with Apache terms, including the new `locate` extraction mode. Covered in the Nov 12 briefing and release tracker.
+- [SpeakLeash Bielik-One](https://www.bielik.ai/en/blog/launching-bielik-11b-v31-dflash-and-the-bielik-one-family) — four open-weight decision models scheduled for Nov 12; Apache-2.0 Hugging Face cards and merged/adapter artifacts. Covered in the Nov 12 briefing and open-model snapshot.
 
 ## Additional labs to monitor
 
@@ -50,6 +52,8 @@ This is a quality-control list for daily AI Intelligence briefings. Each high-si
 - **Kimi K3** — open-weight frontier model
 - **Inkling / Inkling-Small** — staged open-weight release track
 - **Inkling 2 Small** — distinct second-generation model, still closed-weight on Tinker pending external red-teaming as of Nov 9
+- **Perplexity Decider v1.3 / Decider Flash v1.3** — Apache-licensed open-weight typed decisions and span location, released Nov 12
+- **SpeakLeash Bielik-One** — Apache-2.0 family of four open-weight decision models, launched Nov 12
 - **Meituan LongCat-2.5** — open-weight native multimodal agent model; released weights Nov 9 under MIT
 - **ByteDance Seedream 5.5** — multimodal image-generation and editing model; Nov 9 platform rollout
 
