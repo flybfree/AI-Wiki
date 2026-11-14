@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-13
+> Last updated: 2026-11-14
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
-- [Summary: Daily AI Intelligence Briefing — 2026-11-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-13.md) — interim through 18:00 CST; agentic payments, DeepSeek API tools, safety-evaluation methodology, open weather datasets, enterprise cyber acquisitions, and model-provenance reporting; 0 confirmed target-day keeps; arXiv API rate-limited
+- [Summary: Daily AI Intelligence Briefing — 2026-11-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-13.md) — canonical full-day local edition; agentic checkout and shopping data, mixed-precision training, API/tool expansion, safety evaluation, open weather datasets, sovereign cyber products, NVIDIA funding implications, and model provenance; 14 confirmed keeps with 14 paper-summary links; arXiv coverage stale before the target window; GitHub/Lumistorm held pending review of new paper links
 - [Summary: Daily AI Intelligence Briefing — 2026-11-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-12.md) — canonical final through 23:59 CST; Gemini 4 Hydrogen, Perplexity Decider and Bielik-One, Inkling 2 Small open weights, Hark Handoff², agentic product/R&D workflows, Daybreak and Fireworks/Notion security, frontier-AI litigation, child-safety research, and NVIDIA leadership; 0 target-day keeps or uncovered carry-forwards; arXiv discovery incomplete; Lumistorm post 246 published and verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-11](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-11.md) — canonical final through 23:59 CST; AlphaGenome 2, Gemini Decisions API, BotPsy, Perplexity SPACE evaluation, Tabletop, Gemini on CarPlay, and locally grounded deployment; 0 confirmed keeps or uncovered carry-forwards; arXiv discovery incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-10](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-10.md) — canonical final, corrected with Qwen4-Max’s hosted preview after converting its post and preview-start timestamps to Nov 10 CST; Gemini Carbon availability, open multimodal world model PAN 2, workplace/domain agents, runtime controls, model integrity, safeguards and frontier financing; 0 confirmed keeps; arXiv discovery incomplete
@@ -3422,3 +3422,7 @@ tags: ['wiki']
 - [[2026-11-12_Mirendil__1BillionSeriesAFundsAIResearchAndDevelop.md]] : Mirendil: $1 Billion Series A Funds AI Research And Development Tools
 - [[2026-11-12_Usingwearablestoenablecardiovascular-kidney-metabo.md]] : Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching
 - [[2026-11-12_Google_snewGeminimodelisbetteratunderstandingcompl.md]] : Google’s new Gemini model is better at understanding complicated questions
+- [[2026-11-13_Amazonhasaplantoindextheworld_sonlineshoppingdata.md]] : Amazon has a plan to index the world’s online shopping data
+- [[2026-11-13_End_to_End4_BitTraining.md]] : End‑to‑End 4‑Bit Training
+- [[2026-11-13_IntroducingChatGPTWallet.md]] : Introducing ChatGPT Wallet
+- [[2026-11-13_JensenHuang_sdepartureblastsbigholeinAIstartupfund.md]] : Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say

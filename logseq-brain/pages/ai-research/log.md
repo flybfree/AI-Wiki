@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-11-14 00:00] finalize | completed the November 13 CST AI-only local edition from four target-day raw captures and primary-source checks; added Thinking Machines' 4-bit training report, agentic commerce/product-data synthesis, API tools, safety evaluations, Google weather data, Cohere security acquisitions, NVIDIA funding context, and a caveated model-provenance report; full read-only curation found 14 Nov 13 local-time keeps and 0 uncovered older carry-forwards, resolved all 14 canonical summaries and added visible original arXiv links; arXiv API returned 200 but newest category records stop Nov 12 18:59 UTC, so research discovery remains incomplete; configured Brave key unavailable in final session; updated dated page, index, family hub, coverage audit, and scout log; WordPress auth/category/slug preflight passed, but no post was written because all 14 new GitHub summary targets are 404; no GitHub commit/push pending Rich's explicit review
+
 ## [2026-11-13 18:00] summarize | published the interim AI-only Nov 13 briefing through 18:00 CST after 57 direct Brave-backed queries and primary-source checks; covered agentic checkout, DeepSeek API tools, Anthropic safety-evaluation guidance and resolved availability incidents, Google weather datasets, Cohere's AISLE/cubic expansion, HeyGen Decision 1 with tracker-qualified release dating, and a cautiously attributed model-weight fingerprint report; normalized Nov 12 Inkling 2 Small weight availability and Hark Handoff² into the Nov 12 final; local-time curation found 0 Nov 13 keeps; arXiv API categories were rate-limited or timed out; updated briefing, coverage/scout logs, index, daily rollup, and Logseq mirrors; GitHub commit/push verification follows
 
 ## [2026-11-13 12:30] add | added the user-requested Anthropic emotion-concepts research item; created the canonical arXiv paper summary and preliminary Nov 13 one-item briefing/coverage note; recorded the April publication dates, not a new Nov 13 release; updated index and daily-variants rollup; synchronized six changed wiki artifacts to Logseq and verified byte parity; git diff --check passed; full link checker still reports five existing unresolved Nov 12 index paths for raw captures (the files exist under raw/articles), with 0 unresolved titles or ambiguous links; no full-day sweep/curation query, GitHub/Lumistorm publication, commit, or push
@@ -17771,3 +17773,7 @@ tags: ['wiki']
 ## [2026-11-12 21:56] ingest | 2026-11-12_Mirendil__1BillionSeriesAFundsAIResearchAndDevelop.md
 ## [2026-11-12 21:56] ingest | 2026-11-12_Usingwearablestoenablecardiovascular-kidney-metabo.md
 ## [2026-11-12 21:56] ingest | 2026-11-12_Google_snewGeminimodelisbetteratunderstandingcompl.md
+## [2026-11-13 21:35] ingest | 2026-11-13_Amazonhasaplantoindextheworld_sonlineshoppingdata.md
+## [2026-11-13 21:35] ingest | 2026-11-13_End_to_End4_BitTraining.md
+## [2026-11-13 21:35] ingest | 2026-11-13_IntroducingChatGPTWallet.md
+## [2026-11-13 21:35] ingest | 2026-11-13_JensenHuang_sdepartureblastsbigholeinAIstartupfund.md
