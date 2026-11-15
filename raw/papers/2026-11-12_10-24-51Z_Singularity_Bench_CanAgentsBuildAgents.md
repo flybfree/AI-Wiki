@@ -1,0 +1,18 @@
+---
+title: Singularity-Bench: Can Agents Build Agents?
+published: 2026-11-12T10:24:51Z
+authors: Yang Zhou, Krish Agarwal, Zhuoming Chen, Zerui Wang, Zhenyu Zhang, Wenshuang Li, Xinpeng Wei, Zhichen Zeng, Jingyu Liu, Jue Wang, Sen Wu, Ziheng Jiang, Zhen Dong, Han Cai, Binhang Yuan, Ying Sheng, Ce Zhang, Bo Li, Beidi Chen
+url: http://arxiv.org/abs/2611.16591v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Singularity-Bench: Can Agents Build Agents?
+
+## Abstract
+Frontier AI agents increasingly succeed on realistic, long-horizon tasks and are beginning to improve the systems through which they operate. Yet existing benchmarks often restrict agents to narrow action spaces, use simplified environments, or rely on verification methods that are unreliable for evaluating arbitrary agent-generated systems. We introduce Singularity-Bench, an open-ended benchmark for autonomous AI development with six end-to-end tasks spanning pre-training, mid-training, post-training, inference, the agent harness, and cluster orchestration. Each task requires agents to implement core systems from a minimal starting point and evaluates them against mature human-engineered baselines on identical hardware. Additionally, through extensive red-teaming covering 9 of the 10 categories in the OWASP Top 10 for Agentic Applications, we expose reward-hacking vulnerabilities in the conventional Harbor framework and develop Breakwater, an extension of Harbor that blocks all attacks tested in our study. Across 11 agents built from 7 frontier models and 2 harnesses, Opus 5.5 with Claude Code matches or outperforms the human baseline on all six tasks with a Singularity-Index of 1.25, suggesting it may have the skills needed to reach the singularity. The remaining agents average only 0.58. Our vision is for Singularity-Bench to track how much of AI development agents can already automate and when they may transition from assisting to taking end-to-end responsibility for building stronger successors.
+
+## Metadata
+- **Published**: 2026-11-12T10:24:51Z
+- **Authors**: Yang Zhou, Krish Agarwal, Zhuoming Chen, Zerui Wang, Zhenyu Zhang, Wenshuang Li, Xinpeng Wei, Zhichen Zeng, Jingyu Liu, Jue Wang, Sen Wu, Ziheng Jiang, Zhen Dong, Han Cai, Binhang Yuan, Ying Sheng, Ce Zhang, Bo Li, Beidi Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.16591v1)

@@ -1,68 +1,68 @@
 ---
-title: "Summary: Daily AI Intelligence Briefing — 2026-11-14 (interim)"
+title: "Summary: Daily AI Intelligence Briefing — 2026-11-14"
 date: "2026-11-14"
 type: briefing
-status: "interim through 18:00 CST; thin verified intake"
-tags: [ai-intelligence, daily-briefing, governance, safety, research-coverage]
+status: "canonical final local edition; GitHub sync pending Rich's review"
+tags: [ai-intelligence, daily-briefing, governance, reliability, research-coverage]
 sources:
   - "https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview"
+  - "https://status.deepseek.com/incidents/7252143961119"
   - "https://benchlm.ai/model-updates"
-  - "https://www.anthropic.com/news"
-  - "https://deepmind.google/blog/"
-  - "https://about.fb.com/news/tag/ai/"
-  - "https://openai.com/news/"
 ---
-# Summary: Daily AI Intelligence Briefing — 2026-11-14 (interim)
+# Summary: Daily AI Intelligence Briefing — 2026-11-14
 
-**Coverage window: Saturday, November 14, 2026, 00:00–18:00 CST (America/Chicago; UTC−06:00).** This is a deliberately thin interim brief. The local raw intake contained no November 14 captures, and the available search path was not Brave-backed. One substantive same-day item was verified: *The Verge* published an interview with AI-governance researcher Helen Toner revisiting whether corporate boards and executives provide reliable accountability for frontier-AI safety. No target-day model launch or paper approval was confirmed; research discovery remains incomplete because arXiv requests were rate-limited.
+**Coverage window: Saturday, November 14, 2026, 00:00–23:59 CST (America/Chicago; UTC−06:00).** The verified day is thin: one fresh governance interview and one short AI service disruption were confirmed. The strongest shared lesson is about operational accountability—trust cannot rest on a single leader's judgment, while even routine AI products need transparent reliability reporting. No November 14 model release or newly approved research paper was confirmed in the available checks. Search and arXiv discovery were incomplete, so this is not evidence that nothing else happened.
 
 ## Key Themes
 
-### 1. Frontier-AI safety accountability remains a governance question, not a newly reported incident
+### 1. Frontier-AI accountability cannot depend on trusting one executive
 
-In a [November 14 *Verge* interview with Helen Toner](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview), the discussion returns to the limits of relying on a single executive, board, or voluntary company commitment to control decisions about powerful AI systems. The fresh item is the interview and its governance argument—not a new lab disclosure or verified safety event. The piece uses earlier OpenAI board history and previously reported agent incidents as context; those older events should not be counted as November 14 developments.
+In a [November 14 interview with CSET's Helen Toner](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview), *The Verge* revisits the limits of relying on AI-company leaders to police their own safety decisions. Toner argues that if a safety plan depends on any one person being trusted to get it right, the plan is too fragile. This is an interview and governance argument—not a newly reported safety incident, company commitment, or policy change.
 
-**Why it matters:** as agents gain authority to use tools and affect external systems, governance needs observable checks and independent accountability, rather than depending only on leaders' assurances. Toner's comments are analysis and opinion in an interview, not an audit finding or a policy change.
+**Why it matters:** as AI systems gain more autonomy and access to tools, accountability needs durable decision rights, independent scrutiny, and transparent incident reporting rather than assurances from individual executives.
 
-### 2. No target-day model launch or curated paper was verified
+### 2. A brief service outage is an operational signal, not a model-quality result
 
-The current [BenchLM release tracker](https://benchlm.ai/model-updates) lists HeyGen Decision 1, dated November 13, as its latest confirmed release in the recent window; the available official lab/newsroom checks did not verify a November 14 release from the major labs searched. This is a coverage statement, not proof that no announcement occurred. The independent tracker is secondary evidence; its release dates were not promoted into a new model claim.
+DeepSeek's [official status page](https://status.deepseek.com/incidents/7252143961119) recorded degraded performance for its web/chat service on November 14. The status entry shows a 22-minute incident and says service was restored; it does not identify a cause. This is a service-availability event, not evidence of a model safety failure or a change to the underlying model.
 
-The read-only local curation check found **0 papers approved `keep` on November 14 CST**. No uncurated paper candidates are included. The arXiv API returned HTTP 429 for the five target-window category queries, while the latest successful unfiltered `cs.AI` response ended at November 12 18:59 UTC; paper discovery is therefore incomplete, not empty by evidence.
+**Why it matters:** customers and downstream agents depend on the reliability of the whole service path—availability, tool access, and recovery—not just model benchmarks. Clear status timelines help users distinguish a provider outage from failures in their own applications.
+
+### 3. The day's evidence is too incomplete to call it a quiet research or release day
+
+The local intake had no raw article captures dated November 14. A generic multi-backend search was used because the configured direct Brave search credential was unavailable; results were checked against primary sources before inclusion. No target-day model release was confirmed in the sources checked, but the search gap prevents treating that as proof of absence.
+
+The arXiv scout fetched 1,300 entries across 14 queries, yet its newest records were dated November 12, before the November 14 local window. The curation database returned 922 `keep` records (911 normalized stable summary identities), zero approvals for November 14 CST, and zero kept-paper identities left uncovered by prior dated briefings. Nineteen summaries generated from the recent paper intake remain uncurated; 17 contain error stubs and two have content but no `keep` decision. None is presented as approved research.
+
+**Why it matters:** a stale search index and a queue of unreviewed summaries can make a day look empty when it is only under-observed. Keep the distinction between “not confirmed” and “did not happen.”
+
+## Research Papers Approved for Inclusion
+
+The complete local curation query found **0 `keep` approvals for November 14 CST** and **0 previously kept papers still uncovered** by earlier daily briefings. This edition therefore includes **0 selected research papers and 0 paper-summary links**. The 19 recent candidate summaries remain uncurated (17 contain error stubs) and are excluded. The arXiv scout results are stale relative to the target window, so the zero approved count does not mean there were no relevant submissions.
 
 ## What Changed Today
 
-- A new *Verge* interview put board and executive accountability back into the AI-safety discussion; it introduced no new company incident or governance commitment.
-- No November 14-dated model release was confirmed in the release tracker or the available official-source sweep. November 13 and earlier releases are not recast as today's launches.
-- The local approved-paper count is zero, but the arXiv query failure prevents a conclusion that there were no relevant new submissions.
+- A new *Verge* interview returned attention to executive accountability in frontier-AI safety; it reported no new incident or formal commitment.
+- DeepSeek's status page recorded and resolved a 22-minute web/chat performance degradation.
+- No November 14 model release or locally confirmed paper approval was identified. Research discovery remains incomplete, so neither finding is a claim that no releases or papers existed.
+- No previously kept paper remained uncovered after stable-filename and URL-encoded stem normalization; no paper carry-forward was needed today.
 
 ## Why It Matters
 
-- Agent safety is a property of the deployed system, permissions, oversight, and governance—not just a model card or executive assurance.
-- The strongest operational follow-up is to look for independent evaluation access, public incident reporting, and decision rights that survive commercial pressure.
-- A thin and partially searched news corpus should not be mistaken for a quiet day; the Brave and arXiv coverage gaps remain material.
+The day reinforces a practical distinction: AI risk and user impact emerge from governance and deployed service behavior, not only from model capability. Oversight needs durable checks on decision-making, while operators need observable reliability and recovery. At the same time, weak discovery coverage should lower confidence in “nothing happened” conclusions.
 
-## Watch Next
+## What to Watch Next
 
-1. Whether any company or regulator responds to the accountability questions with a concrete, independently checkable mechanism.
-2. Recheck official lab newsrooms and model release records for items published later on November 14 or dated November 15 UTC but within the local-day window.
-3. Retry the arXiv API after its rate limit clears, then reconcile any resulting candidates with the page-level curation queue. Only approved `keep` papers belong in a later dated briefing.
+1. Whether AI labs make governance and safety decision-making independently reviewable rather than dependent on individual leaders.
+2. Whether DeepSeek publishes a cause or follow-up for the November 14 service disruption, and whether similar incidents recur.
+3. Re-run direct Brave-backed lab, product, incident, and model-release searches when credentials are available.
+4. Refresh the arXiv API coverage and review the 19 uncurated summaries. Any later-approved paper belongs to its approval-date briefing, not retroactively to this edition.
 
-## Source Links
+## Sources / References
 
 - [The Verge — Helen Toner on OpenAI, AI safety, and policy](https://www.theverge.com/podcast/1032907/helen-toner-openai-cset-ai-safety-policy-interview)
+- [DeepSeek Status — Web/Chat degraded performance, November 14](https://status.deepseek.com/incidents/7252143961119)
 - [BenchLM — AI model updates and release dates](https://benchlm.ai/model-updates)
-- [OpenAI News](https://openai.com/news/)
-- [Anthropic Newsroom](https://www.anthropic.com/news)
-- [Google DeepMind News](https://deepmind.google/blog/)
-- [Meta AI newsroom archive](https://about.fb.com/news/tag/ai/)
 
-## Intake and Verification Notes
+## CTA
 
-- **Local corpus:** no raw article capture dated November 14 was present at the start of this run. One same-day *Verge* interview was identified through search and linked above.
-- **Classification:** include the interview as a governance discussion, with its status as commentary clearly labeled; exclude retrospective AI roundups, recycled November 12–13 model/news items, and claims lacking primary-source confirmation.
-- **Search provenance:** `BRAVE_SEARCH_API_KEY` was unset. The direct Brave-backed sweep could not run; a generic multi-backend web-search fallback and direct first-party-page discovery were used, and are not represented as Brave. No DuckDuckGo/DDGS search was used.
-- **Model coverage:** no November 14 model launch could be confirmed. Tracker entries with November 13 or earlier release dates remain date-qualified and are not counted as today's release.
-- **Curation:** a read-only SQLite query found 0 `keep` decisions updated during November 14 CST. Pending candidates were omitted.
-- **arXiv:** five category-specific API requests (`cs.AI`, `cs.CL`, `cs.LG`, `cs.CV`, `stat.ML`) for the interim local-day window returned HTTP 429. The latest successful unfiltered `cs.AI` API response listed November 12 18:59 UTC as its newest record. No paper was promoted; target-window discovery is incomplete.
-- **Edition status:** interim through 18:00 CST, not a full-day final. Refresh if late-day primary-source news, target-date papers, or verified paper approvals arrive.
+Use the source links to follow the governance and reliability updates, and treat the research and model-release picture as provisional until the incomplete discovery lanes are refreshed.

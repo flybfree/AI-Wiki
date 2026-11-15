@@ -1,0 +1,18 @@
+---
+title: We Are What We Remember: Mental-State-Driven Memory for Long-Term Character Dialogue
+published: 2026-11-12T03:17:19Z
+authors: Zhicheng Jia, Shuchen Wu, Zhuoshi Tong, Haisen Liao, Sicheng Zhou
+url: http://arxiv.org/abs/2611.16223v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# We Are What We Remember: Mental-State-Driven Memory for Long-Term Character Dialogue
+
+## Abstract
+Shared history in human dialogue is not merely a repository of facts, but the foundation of evolving relationships and mutual understanding. However, mainstream conversational memory systems rely on passive semantic similarity over external fact stores, frequently retrieving topically similar records while missing relationally pivotal experiences. Inspired by cognitive psychology's Self-Memory System (SMS), we propose MindMem, a mental-state-driven memory framework that asynchronously consolidates shared experiences into source-linked mental states of the character, the user, and their relationship. At each turn, a specialized mental-state reasoner (Mind) contextualizes these persistent states to anticipate latent user needs, form proactive intentions, and recover supporting episodic evidence that surface-level matching overlooks. To evaluate history-sensitive adaptation beyond factual recall, we introduce MemReal-Bench, a longitudinal benchmark grounded in month-long real-user interactions across dyadic and group scenes. By pairing Direct Question Answering (DQA) with Situated Memory Realization (SMR), it tests whether agents bridge the gap between knowing past facts and naturally using shared history, world rules, and relational trajectories. On MemReal-Bench, MindMem reaches 59.03% SMR and 82.58% DQA, exceeding the strongest memory baseline by 24.19 and 9.19 percentage points, respectively, and outperforming oracle target-memory injection on SMR. Code and dataset are available at https://github.com/jiazhicheng7-ctrl/MindMem.
+
+## Metadata
+- **Published**: 2026-11-12T03:17:19Z
+- **Authors**: Zhicheng Jia, Shuchen Wu, Zhuoshi Tong, Haisen Liao, Sicheng Zhou
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.16223v1)

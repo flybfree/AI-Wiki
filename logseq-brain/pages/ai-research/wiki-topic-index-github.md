@@ -90,7 +90,7 @@ GitHub-friendly copy: use this version in the repository/browser.
 
 ### Recent industry signal
 
-- [Summary: Daily AI Intelligence Briefing — 2026-11-14 (interim)](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-14.md) — through 18:00 CST; one new governance discussion, no confirmed November 14 model release or curated paper; Brave and arXiv coverage incomplete
+- [Summary: Daily AI Intelligence Briefing — 2026-11-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-14.md) — final local edition; governance accountability and a resolved DeepSeek service disruption; no confirmed Nov 14 model release or paper keep; Brave/arXiv coverage incomplete
 - [AI Updates Today (July 2026): Latest AI Model Releases](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-10_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md)
 - [Repowise: Codebase Intelligence for AI Agents](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-10_Repowise_Codebase_Intelligence_for_AI_Agents_summary.md)
 - [Generative AI Recent News — AI Business](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/entities/article/2026-07-10_GenerativeAIrecentnews_AIBusiness_summary.md)
