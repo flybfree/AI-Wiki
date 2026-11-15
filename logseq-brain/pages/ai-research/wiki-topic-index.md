@@ -87,6 +87,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ### Recent industry signal
 
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-14.md|Summary: Daily AI Intelligence Briefing — 2026-11-14 (interim)]] — through 18:00 CST; thin verified intake and incomplete discovery
 - [[entities/article/2026-07-10_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md|AI Updates Today (July 2026): Latest AI Model Releases]]
 - [[entities/article/2026-07-09_Repowise_Codebase_Intelligence_for_AI_Agents_summary.md|Repowise: Codebase Intelligence for AI Agents]]
 - [[entities/article/2026-07-10_GenerativeAIrecentnews_AIBusiness_summary.md|Generative AI Recent News — AI Business]]
