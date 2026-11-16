@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-14
+> Last updated: 2026-11-15
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+- [Summary: Daily AI Intelligence Briefing — 2026-11-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-15.md) — interim through 18:00 CST; AI-incident diplomacy, South Australia data-center siting, Bharat Semi edge-AI funding; no confirmed same-day model release or paper keep; Brave/arXiv discovery incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-14.md) — final local edition; Helen Toner's governance interview and a resolved DeepSeek web/chat disruption; no confirmed model release or Nov 14 paper keep; Brave/arXiv discovery incomplete
 - [Summary: Daily AI Intelligence Briefing — 2026-11-13](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-13.md) — canonical full-day local edition; agentic checkout and shopping data, mixed-precision training, API/tool expansion, safety evaluation, open weather datasets, sovereign cyber products, NVIDIA funding implications, and model provenance; 14 confirmed keeps with 14 paper-summary links; arXiv coverage stale before the target window; GitHub/Lumistorm held pending review of new paper links
 - [Summary: Daily AI Intelligence Briefing — 2026-11-12](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-12.md) — canonical final through 23:59 CST; Gemini 4 Hydrogen, Perplexity Decider and Bielik-One, Inkling 2 Small open weights, Hark Handoff², agentic product/R&D workflows, Daybreak and Fireworks/Notion security, frontier-AI litigation, child-safety research, and NVIDIA leadership; 0 target-day keeps or uncovered carry-forwards; arXiv discovery incomplete; Lumistorm post 246 published and verified
