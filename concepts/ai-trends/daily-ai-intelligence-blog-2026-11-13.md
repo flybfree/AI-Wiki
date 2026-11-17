@@ -2,7 +2,7 @@
 title: "Summary: Daily AI Intelligence Briefing — 2026-11-13"
 date: "2026-11-13"
 type: briefing
-status: "canonical final edition; all 15 paper-summary URLs verified; Lumistorm publication pending"
+status: "canonical final edition; all 15 paper-summary URLs verified; Lumistorm post #249 published and verified"
 tags: [ai-intelligence, daily-briefing, agentic-commerce, safety-evaluations, open-weights, cybersecurity, research]
 sources:
   - "https://openai.com/index/introducing-chatgpt-wallet/"
@@ -119,7 +119,7 @@ The same product shift appears across commerce, APIs, and enterprise tools: the 
 - **Classification and dates:** retained AI-relevant product, model, research, infrastructure, safety, and funding items; excluded unrelated search results and did not redraft older announcements as November 13 releases. NVIDIA's resignation is dated November 12; Runway Praxis-1's official open-weight release is dated November 11; both are date-qualified context. HeyGen Decision 1 is listed for November 13 by the tracker and documented by HeyGen.
 - **Curation:** complete read-only SQLite query: 922 keep rows, 921 stable summary identities, and 14 approvals converting to November 13 CST. All 14 paths resolved to unique existing `concepts/papers/*_summary.md` files. The prior keep backlog was compared against earlier dated briefings; 907 historical identities had no uncovered carry-forward after prefix-normalizing one truncated legacy stem.
 - **Research discovery:** arXiv API requests to cs.AI, cs.CL, cs.LG, cs.CV, and stat.ML returned HTTP 200 but the newest records in each result set were timestamped November 12 around 18:59 UTC, before the November 13 06:00 UTC window. Zero target-window records were returned; this is stale/incomplete coverage, not evidence that no relevant papers were submitted. No secondary paper roundup was substituted.
-- **Publication preflight:** the target slug `daily-ai-intelligence-2026-11-13` is absent; WordPress authentication succeeds and the existing `Daily AI Briefing` category is ID 5. All 15 summary targets are already present on GitHub and return HTTP 200. A scoped wiki correction is in progress; no dated WordPress post exists yet, and a new post under the stable slug is pending the wiki sync.
+- **Publication:** created [Lumistorm post #249](https://lumistorm.net/daily-ai-intelligence-2026-11-13/) under the stable slug `daily-ai-intelligence-2026-11-13` in the existing `Daily AI Briefing` category (ID 5). REST read-back, cache-busted live-page, and `/blog/` archive checks returned HTTP 200; the public body includes 15 canonical paper-summary links and contains no front matter or raw wiki syntax.
 
 ## Sources / References
 
