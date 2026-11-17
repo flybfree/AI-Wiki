@@ -1,0 +1,18 @@
+---
+title: Between Rigor and Reality: How AI Safety Benchmark Developers Understand Benchmark Use and Maintenance
+published: 2026-11-13T20:31:23Z
+authors: Megan Li, Ningjing Tang, Christopher Stewart, Hoda Heidari, Hong Shen
+url: http://arxiv.org/abs/2611.18930v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Between Rigor and Reality: How AI Safety Benchmark Developers Understand Benchmark Use and Maintenance
+
+## Abstract
+Safety benchmarks are cited as the primary tool to understand the risks posed by generative AI (GenAI) systems, yet growing evidence suggests they often fail to meet the needs of real-world safety evaluation. We present findings from five interviews with AI safety benchmark developers in academia and industry. We find a disconnect between perceptions of the intended usefulness of safety benchmarks and their practical usefulness in safety evaluations of deployed systems. Our participants offered perspectives on two challenges contributing to this disconnect: (1) the difficulty of achieving inter-rater reliability on safety constructs, and (2) a lack of clarity regarding how to address persistent threats to external validity. Based on our analysis, we argue that safety benchmarks must not only be grounded in deployment contexts, but actively integrated with them. To facilitate this, we outline pathways for more transparent communication between academic and industry AI safety stakeholders.
+
+## Metadata
+- **Published**: 2026-11-13T20:31:23Z
+- **Authors**: Megan Li, Ningjing Tang, Christopher Stewart, Hoda Heidari, Hong Shen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.18930v1)

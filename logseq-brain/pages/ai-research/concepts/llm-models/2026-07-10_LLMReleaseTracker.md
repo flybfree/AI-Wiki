@@ -39,7 +39,8 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 | **Perplexity Decider v1.3 / Decider Flash v1.3** | Open-weight typed decision models for classification, routing, scoring, and evidence-span location | Perplexity says both are downloadable on Hugging Face under Apache terms; v1.3 adds `locate`. Bidirectional attention and evaluation results are publisher-described; not general-purpose chat models |
 | **SpeakLeash Bielik-One** | Four open-weight 4B–11B decision models returning structured probabilities | Nov 12 family launch; Apache-2.0 model cards and merged-weight/adapter options verified on Hugging Face; specialized decision models, not standard chat assistants |
 | **BotPsy-0.8B** | Open-weight, on-device tool-use model for low- to medium-difficulty personal workflows | Tether reports it beats tested ≤1.2B peers across six benchmarks and tops its broader comparison set on five of six; Apache-2.0 weights are available on Hugging Face |
-|| **Qwen4-Max** | Alibaba-hosted multimodal flagship for coding, professional work, reasoning, and agent tasks | QwenCloud’s model-release record dates the hosted `qwen4-max` listing to Nov 16 after the Nov 11 Token Plan preview; 1M context and native vision; no downloadable Qwen4-Max weights verified |
+| **Qwen4-Max** | Alibaba-hosted multimodal flagship for coding, professional work, reasoning, and agent tasks | QwenCloud’s model-release record dates the hosted `qwen4-max` listing to Nov 16 after the Nov 11 Token Plan preview; 1M context and native vision; no downloadable Qwen4-Max weights verified |
+| **Tencent Hy4 flash** | Hosted, cost-oriented multimodal model for everyday work; planned open release is not yet available | Tencent reports 224B total parameters (including 64B Engram), 12B active, and up to 1M context. Tencent says it plans to open-source the model; no downloadable weights or license were verified on Nov 16 |
 | **Gemini 4 Carbon** | Google’s broader-availability model for long-horizon engineering, cybersecurity, and scientific reasoning | General availability announced Nov 10; company reports benchmark leadership on selected tasks; API introductory pricing runs through Nov 30 |
 | **Claude Fable 5.2** | Anthropic's broadly available model for difficult technical work | Anthropic reports up to 30% faster output than Fable 5.1; $8/M input, $40/M output |
 | **Claude Mythos 5.2** | Restricted high-capability sibling for approved cybersecurity and biomedical work | Same underlying model as Fable 5.2; access through Anthropic verification programs |
@@ -63,6 +64,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
 - **The latest confirmed hosted flagship is Qwen4-Max.** QwenCloud dates the `qwen4-max` endpoint to Nov 16 after the Nov 11 Token Plan preview; it is multimodal with a 1M-token context, but no Qwen4-Max downloadable weights were verified. This does not mean smaller Qwen4 open-weight models have shipped.
+- **Tencent Hy4 flash adds a second Nov 16 hosted multimodal release.** Tencent reports 224B total parameters, 12B active, and a 1M-token context; the company plans a future open-source release, but no weights or license were public in the checked release materials. Do not count the plan as current open-weight availability.
 - **Gemini 4 Hydrogen adds a fast closed-model tier on Nov 12.** Google positions it for execution and Search, with Orchestrator routing work between Hydrogen and Carbon; pricing and performance should be benchmarked on equal-success production tasks.
 - **Typed decision models are a distinct open-weight track.** Perplexity Decider v1.3/Flash v1.3 and SpeakLeash Bielik-One target calibrated choices and extraction rather than free-form chat; test calibration, abstention, and workload fit before using outputs to trigger actions.
 
@@ -73,6 +75,14 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **No November 9 diffusion-language checkpoint was confirmed** in the targeted official-source check. Google's Gemini Diffusion remains described as an experimental demo, not a new dated release.
 
 ## Chronological Release Log
+
+### 2026-11-16 - Tencent Hy4 flash hosted release
+
+- **Sources**: [Tencent announcement](https://www.tencent.com/tencent-launches-hy4-flash-to-power-high-speed-cost-efficient-ai-deployment-for-everyday-workflows) · [Tencent Cloud model details](https://cloud.tencent.com/tokenhub/hy4-flash-en)
+- **Model**: Hy4 flash, a multimodal Tencent Hy model announced November 16, 2026.
+- **Availability**: Tencent reports 224B total parameters (including 64B Engram parameters), 12B active parameters, multimodal inputs, and up to 1M context. It lists hosted API pricing and says it plans to open-source the model later. The checked release and model-detail pages did not provide downloadable weights, a public repository, or a license, so this is a hosted launch—not a verified open-weight release.
+- **Why it matters**: The design targets lower-cost everyday agent and office workloads. Tencent reports the costs and performance comparisons; independent reproduction is not established by the announcement.
+- **Follow-up**: Recheck for an official repository, model card, license, and downloadable checkpoints before moving Hy4 flash into the open-weight inventory.
 
 ### 2026-11-16 - Qwen4-Max hosted release
 

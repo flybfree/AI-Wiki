@@ -1,0 +1,18 @@
+---
+title: Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?
+published: 2026-11-14T03:15:59Z
+authors: Abhishek Rai
+url: http://arxiv.org/abs/2611.19123v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Plain MCP: Do Decision Models and Code Mode Make Tool Use Cheaper and Faster?
+
+## Abstract
+Model Context Protocol (MCP) gateways manage tool catalogs for language model agents using two primary paradigms: code mode where agents write scripts against tool stubs and decision layers which are cheap routers that preselect tool subsets. Using a controlled harness across 12 servers, up to 1,958 distractor tools, and three open-weight agents including Qwen, Gemma, and Nemotron, we present a preregistered evaluation on a sealed test split to determine when each approach succeeds. Code mode substantially outperforms plain MCP, cutting token usage by 70 to 90 percent while significantly boosting utility. Declaring return-shape hints in code mode stubs is a first-order variable, swinging success by up to 39.5 points for lower-performing agents, an effect larger than adding a router. The central hypothesis that a decision layer in front of code mode beats code mode alone is not confirmed, showing minor, statistically non-significant improvements for weaker agents and a slight cost for the strongest. We publicly release our harness, a finetuned 4B tool selection model, and all evaluation traces to support robust community experimentation on local AI privacy and agent architectures.
+
+## Metadata
+- **Published**: 2026-11-14T03:15:59Z
+- **Authors**: Abhishek Rai
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.19123v1)

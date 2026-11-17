@@ -1,0 +1,18 @@
+---
+title: Model Maps: A Documentation Framework for Tracing Foundation Model Ancestry and Understanding AI Entanglement
+published: 2026-11-13T22:54:13Z
+authors: Rachel Hong, Madeleine Grunde-McLaughlin, Sarah Cen, Jevan Hutson, Jamie Morgenstern, Tadayoshi Kohno
+url: http://arxiv.org/abs/2611.18998v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Model Maps: A Documentation Framework for Tracing Foundation Model Ancestry and Understanding AI Entanglement
+
+## Abstract
+The development of foundation models incorporates pre-existing AI artifacts like models, datasets, and benchmarks. These relationships, as part of the broader AI supply chain, produce "entangled" webs in which properties of artifacts upstream can influence the outputs of a foundation model downstream - a phenomenon known as AI entanglement. Without visibility into these connections, a black-box model can inherit upstream properties that result in security vulnerabilities, hallucinations, or biased predictions, yet developers are left with no recourse to identify or mitigate the root issue. To address these concerns, we introduce model maps as a conceptual documentation framework for tracing model ancestry that builds on previous documentation frameworks like ecosystem graphs, datasheets, and model cards. A model map for a given foundation model is a detailed knowledge graph that represents the relationships between artifacts that influence the resulting foundation model. Our framework incorporates a taxonomy of 13 dependency mechanisms including model fine-tuning and synthetic data generation. We apply this framework to construct model maps of 15 closed and open-weight foundation models to illustrate the complexity of AI entanglement in current model development practices. From our model maps, we record 2,778 unique dependencies and trace artifacts that are located up to 9 hops away from a resulting foundation model. Our findings suggest that AI transparency requirements should extend beyond individual models and training-data disclosures to encompass upstream dependencies, which would enable more effective risk assessment, auditing, and accountability across the AI supply chain. To help developers, regulators, and researchers understand and analyze the interactions that can influence the behavior of a foundation model, we release these these model maps at https://modelmaps.ai.
+
+## Metadata
+- **Published**: 2026-11-13T22:54:13Z
+- **Authors**: Rachel Hong, Madeleine Grunde-McLaughlin, Sarah Cen, Jevan Hutson, Jamie Morgenstern, Tadayoshi Kohno
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.18998v1)

@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-11-17 00:00] finalize/publish | finalized the canonical Nov 16 CST AI-only briefing after 24 direct Brave-backed searches and primary-source/date checks; added Tencent Hy4 flash (hosted, future open-source plan only) alongside the official Qwen4-Max date, agent accountability/evaluation, healthcare and user controls, OpenAI science access, pharma evidence lags, Corma funding, and child safety; curation query found 0 Nov 16 keeps and 0 uncovered carry-forwards across 911 unique kept-paper identities, with 17 raw candidates still uncurated and arXiv discovery incomplete; selected paper/link counts 0/0; updated the LLM Release Tracker, indexes, family rollup, and coverage audit; synchronized seven scoped files to both Logseq trees and verified byte/hash parity; published Lumistorm post #251 at https://lumistorm.net/daily-ai-intelligence-2026-11-16/ with REST status/category/source read-back, cache-busted live page, date, source-link, raw-wiki-syntax, and archive-order checks passed; no GitHub commit/push pending Rich’s review
+
 ## [2026-11-16 18:00] summarize | created the AI-only November 16 interim edition through 18:00 CST; covered the California AG’s OpenAI agent-incident lawsuit and scoped embedded evaluation, child-safety classifier/interventions, healthcare computer-use evaluations, Apple permission controls, Google Notebook/privacy updates, and Qwen4-Max’s official Nov 16 hosted-release record; read-only curation query found 0 Nov 16 CST keeps; direct Brave unavailable (BRAVE_SEARCH_API_KEY unset), arXiv API returned HTTP 429 and latest scout stops Nov 13; dated briefing, coverage audit, indexes, tracker, and Logseq mirrors updated and verified 7/7 file parity in both trees; the GitHub push script completed successfully and origin/master was verified against local HEAD
 ## [2026-11-16 00:00] finalize/publish | finalized the November 15 CST AI-only edition with six themes, a reported 22:29 CST Qwen4-Max launch and explicit official-date caveat, Apple health-AI eligibility conflict, AI-assisted science, Childlight/IWF evidence, infrastructure, and cross-border incident procedures; complete read-only curation query confirmed 0 Nov 15 keeps and 0 uncovered carry-forwards across 911 stable kept-paper identities, with 20 generated candidates uncurated; 14 Nov 13 approved summaries passed original-arXiv-link and mirror checks; Brave unavailable and arXiv results stop Nov 13; updated dated page, index, coverage audit, recurring hub, and Logseq copies; created Lumistorm post #248 at https://lumistorm.net/daily-ai-intelligence-2026-11-15/ and verified REST status/category/source links, cache-busted live page, and /blog/ ordering; GitHub sync awaits Rich’s review, no commit or push
 
@@ -17830,3 +17832,23 @@ tags: ['wiki']
 ## [2026-11-15 21:36] ingest | 2026-11-15_ApplelaunchesnewapptostudyhowpeopleuseAIforhealth.md
 ## [2026-11-15 21:36] ingest | 2026-11-15_Apple_snewstudylookstoimprovetheeffectivenessofAIh.md
 ## [2026-11-15 21:36] ingest | 2026-11-15_ReportsofAI-relatedchildsexualabusematerialrise840.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_14-28-47Z_PersonalizationofBasicandMoralValuesGuidingLLM_Con.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_10-08-31Z_AlgorithmicOpacityasaPrincipal_AgentProblem.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_22-54-13Z_ModelMaps_ADocumentationFrameworkforTracingFoundat.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_18-05-23Z_TradeGauntlet_EvaluatingComplianceControlsforAuton.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_20-31-23Z_BetweenRigorandReality_HowAISafetyBenchmarkDevelop.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_19-08-56Z_Self_ImprovementMemoryEnablesContinualRecursiveSel.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_17-33-20Z_TypingMatters_Muscle_LanguageandTypingBehaviourinL.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_22-55-26Z_Agent_ZTA_Achain_AwareZeroTrustModelforBidirection.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_09-48-58Z_ReasoningModelsConfabulatetoDefendInjectedBeliefsA.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_20-12-24Z_MemeEconomy_DoLLMAgentsTradeEthicsforSurvival.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_15-13-47Z_CleanTickets_WrongOrders_CatchingSilentErrorswitha.md
+## [2026-11-16 21:37] stage-paper | 2026-11-13_19-46-07Z_WeHaveAlltheCards_SecuringAgentCardsattheOperation.md
+## [2026-11-16 21:37] stage-paper | 2026-11-14_03-15-59Z_BeyondPlainMCP_DoDecisionModelsandCodeModeMakeTool.md
+## [2026-11-16 21:37] stage-paper | 2026-11-14_02-30-13Z_CanAgenticLLMsWriteTask_BasedParallelCode_AStudyof.md
+## [2026-11-16 21:37] stage-paper | 2026-11-14_02-42-34Z_GuidingAIAgentstoGenerateConjecturesbyEncodingHowT.md
+## [2026-11-16 21:37] stage-paper | 2026-11-14_00-00-56Z_SurveyWeave_AnAgenticFrameworkforAutomatedSurveyGe.md
+## [2026-11-16 21:37] stage-paper | 2026-11-14_02-45-19Z_ConditionalEndorsement_SimulatingHowAdultswithDiff.md
+## [2026-11-16 21:37] ingest | 2026-11-16_Pharma_sAIbetsmaytakeyearstoproveout-R_DWorld.md
+## [2026-11-16 21:37] ingest | 2026-11-16_BroadeningaccesstoAIforscientists.md
+## [2026-11-16 21:37] ingest | 2026-11-16_CybersecurityAIstartupCormareaches_1Bvaluationinab.md
