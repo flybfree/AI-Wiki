@@ -2,7 +2,7 @@
 title: "Summary: Daily AI Intelligence Briefing — 2026-11-13"
 date: "2026-11-13"
 type: briefing
-status: "canonical final local edition; GitHub and Lumistorm held pending paper-link sync review"
+status: "canonical final edition; all 15 paper-summary URLs verified; Lumistorm publication pending"
 tags: [ai-intelligence, daily-briefing, agentic-commerce, safety-evaluations, open-weights, cybersecurity, research]
 sources:
   - "https://openai.com/index/introducing-chatgpt-wallet/"
@@ -84,7 +84,7 @@ Separately, the earlier user-requested [Emotion Concepts and their Function in a
 - [The AI Era's Lines of Code? A Case Study on What an Engineer's Token Spend Measures](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-10_00-17-26Z_TheAIEra_sLinesofCode_ACaseStudyonWhatanEng_summary.md) — a study of 404 engineers reports wide token-spend variation and only a weak within-person relationship between spend and commits; token volume is a poor stand-alone productivity proxy and also reflects non-coding work.
 - [LLMs and the Homogenization of Teaching](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-10_23-24-33Z_LLMsandtheHomogenizationofTeaching_summary.md) — across math-problem and essay-feedback tasks, the study reports less lexical and pedagogical diversity in directly prompted model outputs than human references; the implication is to measure instructional range, not just fluency or correctness.
 
-**Paper-link audit:** 14 selected summaries → 14 unique canonical summary targets → 14 visible original arXiv URLs locally. A separate, previously user-requested April spotlight is also linked, for 15 unique summary links overall; it is explicitly not counted as a November 13 keep. All 14 newly selected papers' original IDs were recovered from matching raw paper captures; no URLs were inferred from titles. Their GitHub raw URLs currently return HTTP 404 because the local summaries are not in the remote branch. GitHub sync is withheld pending Rich's explicit review, so public publication is blocked until the 14 selected targets are available and re-verified.
+**Paper-link audit:** 14 selected summaries → 14 unique canonical summary targets → 14 visible original arXiv URLs. The separate, date-qualified April emotion-concepts spotlight is the 15th summary target and is not counted as a November 13 keep. All 14 selected papers' original IDs were recovered from matching raw paper captures; no URLs were inferred from titles. On November 16, all 15 GitHub raw summary URLs returned HTTP 200.
 
 ## What Changed Today
 
@@ -119,7 +119,7 @@ The same product shift appears across commerce, APIs, and enterprise tools: the 
 - **Classification and dates:** retained AI-relevant product, model, research, infrastructure, safety, and funding items; excluded unrelated search results and did not redraft older announcements as November 13 releases. NVIDIA's resignation is dated November 12; Runway Praxis-1's official open-weight release is dated November 11; both are date-qualified context. HeyGen Decision 1 is listed for November 13 by the tracker and documented by HeyGen.
 - **Curation:** complete read-only SQLite query: 922 keep rows, 921 stable summary identities, and 14 approvals converting to November 13 CST. All 14 paths resolved to unique existing `concepts/papers/*_summary.md` files. The prior keep backlog was compared against earlier dated briefings; 907 historical identities had no uncovered carry-forward after prefix-normalizing one truncated legacy stem.
 - **Research discovery:** arXiv API requests to cs.AI, cs.CL, cs.LG, cs.CV, and stat.ML returned HTTP 200 but the newest records in each result set were timestamped November 12 around 18:59 UTC, before the November 13 06:00 UTC window. Zero target-window records were returned; this is stale/incomplete coverage, not evidence that no relevant papers were submitted. No secondary paper roundup was substituted.
-- **Publication:** the canonical local wiki page and both configured Logseq mirrors are byte-identical; SHA-256 was verified across all 21 files in the scoped manifest. No GitHub commit or push was made. The WordPress authentication preflight succeeded, the target slug was absent, and the existing `Daily AI Briefing` category is ID 5; no post was written because all 14 canonical GitHub summary targets return HTTP 404 until the reviewed files are synchronized. Public publication remains incomplete pending Rich's explicit GitHub review/approval.
+- **Publication preflight:** the target slug `daily-ai-intelligence-2026-11-13` is absent; WordPress authentication succeeds and the existing `Daily AI Briefing` category is ID 5. All 15 summary targets are already present on GitHub and return HTTP 200. A scoped wiki correction is in progress; no dated WordPress post exists yet, and a new post under the stable slug is pending the wiki sync.
 
 ## Sources / References
 
@@ -133,4 +133,4 @@ The same product shift appears across commerce, APIs, and enterprise tools: the 
 
 ## CTA
 
-Before approving public synchronization, review the 14 selected paper summaries and their original arXiv links. Once the reviewed files are on GitHub and their canonical summary URLs return successfully, rerun the link audit and publish the matching Lumistorm post; until then, keep this final local edition distinct from public publication.
+For more source-linked AI coverage, visit [Lumistorm](https://lumistorm.net/blog/).
