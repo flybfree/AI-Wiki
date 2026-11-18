@@ -95,7 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
-- [Summary: Daily AI Intelligence Briefing — 2026-11-17](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-17.md) — interim through 18:06 CST; GPT-6.2 Astra/Sol, Microsoft's Ignite model wave, AI safety/observability, Perplexity orchestration, NVIDIA science agents; 0 confirmed Nov 17 paper keeps; arXiv API rate-limited
+- [Summary: Daily AI Intelligence Briefing — 2026-11-17](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-17.md) — canonical full-day final; GPT-6.2 Astra/Sol, Microsoft Ignite models, capability safeguards/economic diffusion, Perplexity routing and agents, Isomorphic Labs’ $5B Series C, and AI-for-science; 0 Nov 17 keeps and 0 uncovered carry-forwards across 921 stable identities; arXiv rate-limited; Lumistorm post #252 updated/verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-16.md) — canonical final local edition; agent accountability and independent evaluation, healthcare and user controls, hosted Qwen4-Max and Tencent Hy4 flash, research access, pharma evidence lags, cybersecurity funding, and child safety; 0 local-date keeps plus 0 uncovered carry-forwards; arXiv discovery incomplete; Lumistorm post #251 published/verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-15.md) — canonical full-day final through 23:59 CST; reported Qwen4-Max launch at 22:29 CST with official Nov 16 date caveat, OpenAI AI-science disclosure, Apple health-AI study, Childlight child-safety data, incident governance and infrastructure; 0 target-day keeps/0 uncovered carry-forwards; 20 uncurated candidates; Brave/arXiv discovery incomplete; Lumistorm post #248 published; GitHub sync awaits Rich’s review
 - [Summary: Daily AI Intelligence Briefing — 2026-11-14](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-14.md) — final local edition; Helen Toner's governance interview and a resolved DeepSeek web/chat disruption; no confirmed model release or Nov 14 paper keep; Brave/arXiv discovery incomplete
@@ -2959,6 +2959,8 @@ tags: ['wiki']
 - [[entities/article/2026-10-01_Sep23_2026ScienceClaudediscoversanovelenzymesystem_summary.md]] : Sep 23, 2026 Science Claude discovers a novel enzyme system with CRISPR-like repeats
 - [[entities/article/2026-09-28_EngramisasamplerthatturnsbrokenAIhallucinationsint_summary.md]] : Engram is a sampler that turns broken AI hallucinations into music
 - [[entities/article/2026-09-29_Automatingcoherentlong-formvideogeneration_summary.md]] : Automating coherent long-form video generation
+- [[entities/article/2026-09-28_AIPrinciples_GoogleAI_summary.md]] : Summary: Google AI Principles
+- [[entities/article/2026-09-28_TheproblemisnottheAIcode_butnobodyknowsanythingany_summary.md]] : Summary: The problem is not the AI code, but nobody knows anything anymore
 - [[2026-09-28_Anthropic_sCEOisabouttohavedinnerwithPresidentTrum.md]] : Anthropic’s CEO is about to have dinner with President Trump
 - [[entities/article/2026-10-09_PuttingTaskExpertiseintoRLAchievesState-of-the-Art_summary.md]] : Putting Task Expertise into RL Achieves State-of-the-Art Performance on Text-to-SQL
 - [[2026-09-28_Proactionboostssales60_andsaves75_hourswithCodex.md]] : Proaction boosts sales 60% and saves 75+ hours with Codex
@@ -3217,7 +3219,7 @@ tags: ['wiki']
 - [[2026-10-08_Goodfiresaysitsnew_inside-out_monitorscatchrogueAI.md]] : Goodfire says its new ‘inside-out’ monitors catch rogue AI agents at a fraction of the cost
 - [[2026-10-08_USATodaybecomesthelatestpublishertosueOpenAI.md]] : USA Today becomes the latest publisher to sue OpenAI
 - [[2026-10-08_FiredOpenAIsafetyresearchersdisputemisconductclaim.md]] : Fired OpenAI safety researchers dispute misconduct claims, warn of chilling effect
-- [[2026-10-08_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md]] : Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website
+- [[raw/articles/2026-10-08_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md]] : Pretend you’re sitting at Elizabeth Holmes’ desk on this weirdly detailed website
 - [[2026-10-08_AnthropiclaunchesfreeAIsecurityscansforopen-source.md]] : Anthropic launches free AI security scans for open-source projects
 - [[2026-10-08_LegalOnhalvesCodexcostswhilemaintainingdevelopment.md]] : LegalOn halves Codex costs while maintaining development speed - OpenAI
 - [[2026-10-09_AnnouncementsOct6_2026ExpandingtheCyberVerificatio.md]] : Announcements Oct 6, 2026 Expanding the Cyber Verification Program We’re launching a new, expanded version of our Cyber Verification Program, which makes advanced cyber capabilities and reduced blocking classifiers available to qualifying security professionals.
@@ -3437,3 +3439,7 @@ tags: ['wiki']
 - [[2026-11-16_Pharma_sAIbetsmaytakeyearstoproveout-R_DWorld.md]] : Pharma's AI bets may take years to prove out - R&D World
 - [[2026-11-16_BroadeningaccesstoAIforscientists.md]] : Broadening access to AI for scientists
 - [[2026-11-16_CybersecurityAIstartupCormareaches_1Bvaluationinab.md]] : Cybersecurity AI startup Corma reaches $1B valuation in about 3 months
+- [[2026-11-17_HesoldDeepMindtoGoogle_NowhisLondonAIfirmisworth_5.md]] : He sold DeepMind to Google. Now his London AI firm is worth $50bn - The Times
+- [[2026-11-17_IntroducingGPT-6_2AstraandSol.md]] : Introducing GPT-6.2 Astra and Sol
+- [[2026-11-17_SatyaNadellasayshe_sAGI-pillednow.md]] : Satya Nadella says he’s AGI-pilled now
+- [[raw/articles/2026-10-08_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md]] : Legacy mirror path was `articles/2026-10-08_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md`; canonical capture is under `raw/articles/`

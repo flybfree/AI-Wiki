@@ -23,3 +23,4 @@ Guardrails, security incidents, red-teaming, policy, regulation, and safety-orie
 - [2026 07 27 Nvidia Microsoftlaunchopenaisecurityalliance Witho](../../entities/article/2026-07-27_Nvidia_MicrosoftlaunchopenAIsecurityalliance_witho_summary.md)
 - [2026 07 23 Howaiguardrailsareimpedingtheworkofoffensivecybers](../../entities/article/2026-07-23_HowAIguardrailsareimpedingtheworkofoffensivecybers_summary.md)
 - [[../papers/2026-07-23_21-53-34Z_ToolGuardian_DeclarativeSecurityforAIAgent__summary.md|2026 07 23 21 53 34Z Toolguardian Declarativesecurityforaiagent]]
+- [Summary: Google AI Principles](../../entities/article/2026-09-28_AIPrinciples_GoogleAI_summary.md) — Google's published AI-governance principles.

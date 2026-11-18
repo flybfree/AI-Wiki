@@ -87,7 +87,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ### Recent industry signal
 
-- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-17.md|Summary: Daily AI Intelligence Briefing — 2026-11-17]] — interim through 18:06 CST; GPT-6.2 Astra/Sol, Microsoft's Ignite model wave, safety/observability, Perplexity orchestration, and AI-for-science; 0 target-day paper keeps; arXiv rate-limited
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-17.md|Summary: Daily AI Intelligence Briefing — 2026-11-17]] — canonical full-day final; GPT-6.2 Astra/Sol, Microsoft Ignite models, safeguards and economic diffusion, Perplexity routing/agents, Isomorphic Labs’ $5B Series C, and AI-for-science; 0 target-date keeps and 0 uncovered carry-forwards; arXiv rate-limited; Lumistorm post #252 verified
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-14.md|Summary: Daily AI Intelligence Briefing — 2026-11-14]] — final local edition; governance accountability, a resolved DeepSeek service disruption, and incomplete release/research discovery
 - [[entities/article/2026-07-10_AIUpdatesToday_July2026__LatestAIModelReleases_summary.md|AI Updates Today (July 2026): Latest AI Model Releases]]
 - [[entities/article/2026-07-09_Repowise_Codebase_Intelligence_for_AI_Agents_summary.md|Repowise: Codebase Intelligence for AI Agents]]
@@ -102,8 +102,13 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 ### AI Security
 
 
+### AI Governance & Policy
+
+- [[entities/article/2026-09-28_AIPrinciples_GoogleAI_summary.md|Summary: Google AI Principles]] — Google's stated framework for AI innovation, responsible development and deployment, and collaborative progress.
+
 ### Industry Analysis
 
+- [[entities/article/2026-09-28_TheproblemisnottheAIcode_butnobodyknowsanythingany_summary.md|Summary: The problem is not the AI code, but nobody knows anything anymore]] — personal commentary on AI-assisted coding, system knowledge, and maintenance; anecdotal, not an empirical study.
 
 ---
 

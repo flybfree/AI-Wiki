@@ -20,3 +20,4 @@ Coding agents, PR workflows, refactoring, debugging, and AI-assisted software en
 ## Representative Summaries
 
 - [2026 07 23 21 48 28Z Howdoaicodingagentscontributetosoftwaredeve](../papers/2026-07-23_21-48-28Z_HowDoAICodingAgentsContributetoSoftwareDeve_summary.md)
+- [Summary: The problem is not the AI code, but nobody knows anything anymore](../../entities/article/2026-09-28_TheproblemisnottheAIcode_butnobodyknowsanythingany_summary.md) — commentary on AI coding's knowledge and maintenance risks.
