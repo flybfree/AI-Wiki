@@ -27,7 +27,7 @@ This page is designed as an **update-first tracker**:
 
 ## Current Snapshot
 
-**Last reviewed**: 2026-11-16
+**Last reviewed**: 2026-11-17
 
 ### Current release verdict
 
@@ -35,6 +35,9 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 
 | Model | Current role | Signal |
 |---|---|---|
+| **GPT-6.2 Astra** | Frontier model for demanding professional, scientific, and long-horizon work | OpenAI says API input/output prices are 20% below GPT-6 Astra ($8/$40 per million; $0.40 cached input); first externally released model at OpenAI's High AI self-improvement threshold; company benchmarks and risk ratings require independent evaluation |
+| **GPT-6.2 Sol** | Efficient everyday and multi-step agent model | OpenAI says it is available in ChatGPT Work, Codex, and API; it keeps GPT-6.1 Sol's stated rates ($2/$10 per million; $0.10 cached input); not an open-weight release |
+| **Microsoft MAI Ignite 2026 wave** | Seven announced in-house models spanning coding, cybersecurity, image, real-time, transcription, and decision workloads | Includes MAI Code 2/Code 2 Flash and MAI Cyber 2 Flash; Microsoft reports benchmark and cost comparisons, not independent results; no downloadable model weights verified |
 | **Gemini 4 Hydrogen** | Closed-weight fast execution model for everyday coding, debugging, agent workflows, and Google Search | Google reports 57% on Terminal-Bench 4.1 vs. 18.2% for Gemini 3.8 Flash; 1M context; API pricing $1.50/M input and $7.50/M output. Orchestrator's Terminal-Bench 4.0 result is near-Carbon success at 24% less quota and 19% faster; all results are company-reported |
 | **Perplexity Decider v1.3 / Decider Flash v1.3** | Open-weight typed decision models for classification, routing, scoring, and evidence-span location | Perplexity says both are downloadable on Hugging Face under Apache terms; v1.3 adds `locate`. Bidirectional attention and evaluation results are publisher-described; not general-purpose chat models |
 | **SpeakLeash Bielik-One** | Four open-weight 4B–11B decision models returning structured probabilities | Nov 12 family launch; Apache-2.0 model cards and merged-weight/adapter options verified on Hugging Face; specialized decision models, not standard chat assistants |
@@ -63,7 +66,9 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Frontier capability now has distinct access tiers.** Anthropic says Fable 5.2 is broadly available while Mythos 5.2 is gated through cybersecurity and life-sciences verification programs.
 - **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
-- **The latest confirmed hosted flagship is Qwen4-Max.** QwenCloud dates the `qwen4-max` endpoint to Nov 16 after the Nov 11 Token Plan preview; it is multimodal with a 1M-token context, but no Qwen4-Max downloadable weights were verified. This does not mean smaller Qwen4 open-weight models have shipped.
+- **The newest verified dated releases are GPT-6.2 Astra/Sol and Microsoft's Nov 17 Ignite model wave.** OpenAI's Astra is a closed hosted/API release with a High AI self-improvement designation; Microsoft announced seven in-house models. Keep vendor performance and pricing claims separate from independent results.
+- **No new open-weight release was verified for Nov 17.** Perplexity's Orchestrator can route among frontier and open-weight models, but it is a service/API announcement, not a new model checkpoint.
+- **Qwen4-Max and Tencent Hy4 flash remain the latest confirmed Nov 16 hosted releases** in the prior wave; neither was counted as a Nov 17 release, and Tencent's future-open-source plan is not current weight availability.
 - **Tencent Hy4 flash adds a second Nov 16 hosted multimodal release.** Tencent reports 224B total parameters, 12B active, and a 1M-token context; the company plans a future open-source release, but no weights or license were public in the checked release materials. Do not count the plan as current open-weight availability.
 - **Gemini 4 Hydrogen adds a fast closed-model tier on Nov 12.** Google positions it for execution and Search, with Orchestrator routing work between Hydrogen and Carbon; pricing and performance should be benchmarked on equal-success production tasks.
 - **Typed decision models are a distinct open-weight track.** Perplexity Decider v1.3/Flash v1.3 and SpeakLeash Bielik-One target calibrated choices and extraction rather than free-form chat; test calibration, abstention, and workload fit before using outputs to trigger actions.
@@ -75,6 +80,21 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **No November 9 diffusion-language checkpoint was confirmed** in the targeted official-source check. Google's Gemini Diffusion remains described as an experimental demo, not a new dated release.
 
 ## Chronological Release Log
+
+### 2026-11-17 - OpenAI GPT-6.2 Astra and Sol
+
+- **Source**: [OpenAI release](https://openai.com/index/introducing-gpt-6-2-astra-sol) · [GPT-6.2 system card](https://deploymentsafety.openai.com/gpt-6-2-astra-sol)
+- **Models**: GPT-6.2 Astra and GPT-6.2 Sol; OpenAI also announced the legal-work configuration Astra for Law.
+- **Availability**: OpenAI says Astra and Sol are available through ChatGPT Work, Codex, and the API for eligible paid/enterprise/education access. Astra's stated API prices are $8/M input, $0.40/M cached input, and $40/M output; Sol carries GPT-6.1 Sol's $2/$0.10/$10 rates.
+- **Why it matters**: OpenAI positions Astra for demanding professional/scientific tasks and Sol for efficient everyday and multi-step agent workflows. The company says Astra is its first externally released model at the High AI self-improvement threshold and that both models meet its Critical cybersecurity threshold.
+- **Current take / follow-up**: Evaluate with matched harnesses, real task success, review effort, and full cost. Treat benchmarks and risk-control effectiveness as vendor-reported until independently replicated; test access gates, containment, and monitor performance.
+
+### 2026-11-17 - Microsoft MAI model wave at Ignite
+
+- **Source**: [Microsoft AI — seven new models](https://microsoft.ai/news/microsoft-ignite-2026/) · [MAI Code 2 and Code 2 Flash](https://microsoft.ai/news/introducing-mai-code-2-and-mai-code-2-flash/)
+- **Models**: Seven announced in-house models across coding, cybersecurity, image, real-time, transcription, and decision workloads, including MAI Code 2, MAI Code 2 Flash, and MAI Cyber 2 Flash.
+- **Why it matters**: Microsoft is pitching narrower, lower-cost task models as alternatives to general frontier systems. Its coding quality and price comparisons are publisher-reported and should not be treated as independent benchmarks.
+- **Current take / follow-up**: Keep this in the closed/hosted track; no public downloadable weights or license were verified. Test which models are actually available in the target service and compare end-to-end task costs.
 
 ### 2026-11-16 - Tencent Hy4 flash hosted release
 
