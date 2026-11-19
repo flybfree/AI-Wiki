@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-17
+> Last updated: 2026-11-18
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -95,6 +95,7 @@ tags: ['wiki']
 ## Entities
 
 ## Concepts
+- [Summary: Daily AI Intelligence Briefing — 2026-11-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-18.md) — interim through 18:00 CST; Gemini 4 Neon and Genie 4, OpenAI chip-design and academic-access updates, agent privacy and supply-chain risks, California safety recommendations, and Anthropic IPO pricing; arXiv discovery stale and live paper-curation store locked
 - [Summary: Daily AI Intelligence Briefing — 2026-11-17](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-17.md) — canonical full-day final; GPT-6.2 Astra/Sol, Microsoft Ignite models, capability safeguards/economic diffusion, Perplexity routing and agents, Isomorphic Labs’ $5B Series C, and AI-for-science; 0 Nov 17 keeps and 0 uncovered carry-forwards across 921 stable identities; arXiv rate-limited; Lumistorm post #252 updated/verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-16.md) — canonical final local edition; agent accountability and independent evaluation, healthcare and user controls, hosted Qwen4-Max and Tencent Hy4 flash, research access, pharma evidence lags, cybersecurity funding, and child safety; 0 local-date keeps plus 0 uncovered carry-forwards; arXiv discovery incomplete; Lumistorm post #251 published/verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-15](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-15.md) — canonical full-day final through 23:59 CST; reported Qwen4-Max launch at 22:29 CST with official Nov 16 date caveat, OpenAI AI-science disclosure, Apple health-AI study, Childlight child-safety data, incident governance and infrastructure; 0 target-day keeps/0 uncovered carry-forwards; 20 uncurated candidates; Brave/arXiv discovery incomplete; Lumistorm post #248 published; GitHub sync awaits Rich’s review

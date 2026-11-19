@@ -27,7 +27,7 @@ This page is designed as an **update-first tracker**:
 
 ## Current Snapshot
 
-**Last reviewed**: 2026-11-17
+**Last reviewed**: 2026-11-18
 
 ### Current release verdict
 
@@ -35,6 +35,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 
 | Model | Current role | Signal |
 |---|---|---|
+| **Gemini 4 Neon** | Closed-weight mid-tier frontier model for complex coding, knowledge work, science, and higher-frequency agent workflows | Google reports a 1M-token context, API pricing of $3/M input and $15/M output ($0.15/M cached), and #3 on Artificial Analysis Intelligence Index at xhigh; benchmarks and rollout are publisher-reported |
 | **GPT-6.2 Astra** | Frontier model for demanding professional, scientific, and long-horizon work | OpenAI says API input/output prices are 20% below GPT-6 Astra ($8/$40 per million; $0.40 cached input); first externally released model at OpenAI's High AI self-improvement threshold; company benchmarks and risk ratings require independent evaluation |
 | **GPT-6.2 Sol** | Efficient everyday and multi-step agent model | OpenAI says it is available in ChatGPT Work, Codex, and API; it keeps GPT-6.1 Sol's stated rates ($2/$10 per million; $0.10 cached input); not an open-weight release |
 | **Microsoft MAI Ignite 2026 wave** | Seven announced in-house models spanning coding, cybersecurity, image, real-time, transcription, and decision workloads | Includes MAI Code 2/Code 2 Flash and MAI Cyber 2 Flash; Microsoft reports benchmark and cost comparisons, not independent results; no downloadable model weights verified |
@@ -66,8 +67,8 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Frontier capability now has distinct access tiers.** Anthropic says Fable 5.2 is broadly available while Mythos 5.2 is gated through cybersecurity and life-sciences verification programs.
 - **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
-- **The newest verified dated releases are GPT-6.2 Astra/Sol and Microsoft's Nov 17 Ignite model wave.** OpenAI's Astra is a closed hosted/API release with a High AI self-improvement designation; Microsoft announced seven in-house models. Keep vendor performance and pricing claims separate from independent results.
-- **No new open-weight release was verified for Nov 17.** Perplexity's Orchestrator can route among frontier and open-weight models, but it is a service/API announcement, not a new model checkpoint.
+- **Gemini 4 Neon is the newest verified dated model release (Nov 18).** Google positions it between Carbon and Hydrogen for frontier capability at faster, lower-cost task execution; its ranking and rollout claims need matched independent testing.
+- **GPT-6.2 Astra/Sol and Microsoft's seven-model Ignite wave remain the prior day's closed/hosted launches.** No same-day downloadable open-weight checkpoint and license were verified on Nov 18; do not count an API or product feature as an open-weight release.
 - **Qwen4-Max and Tencent Hy4 flash remain the latest confirmed Nov 16 hosted releases** in the prior wave; neither was counted as a Nov 17 release, and Tencent's future-open-source plan is not current weight availability.
 - **Tencent Hy4 flash adds a second Nov 16 hosted multimodal release.** Tencent reports 224B total parameters, 12B active, and a 1M-token context; the company plans a future open-source release, but no weights or license were public in the checked release materials. Do not count the plan as current open-weight availability.
 - **Gemini 4 Hydrogen adds a fast closed-model tier on Nov 12.** Google positions it for execution and Search, with Orchestrator routing work between Hydrogen and Carbon; pricing and performance should be benchmarked on equal-success production tasks.
@@ -80,6 +81,14 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **No November 9 diffusion-language checkpoint was confirmed** in the targeted official-source check. Google's Gemini Diffusion remains described as an experimental demo, not a new dated release.
 
 ## Chronological Release Log
+
+### 2026-11-18 - Google Gemini 4 Neon
+
+- **Source**: [Google — Gemini 4 Neon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-neon/) · [Gemini 4 Neon model card](https://deepmind.google/models/model-cards/gemini-4-neon/)
+- **Model**: Gemini 4 Neon, a closed/hosted model for complex software engineering, knowledge work, science, and production-grade agent workflows.
+- **Availability and pricing**: Google announced rollout on Nov 18 through the Gemini API/AI Studio, Gemini for business, Antigravity, and Gemini app for eligible paid tiers. Google lists a 1M-token context and API pricing of $3/M input, $0.15/M cached input, and $15/M output.
+- **Claims**: Google reports 61 and #3 on the Artificial Analysis Intelligence Index at xhigh and strong results on selected agent, coding, and science tasks. Treat the vendor's benchmark selection and comparisons as claims pending matched independent evaluation.
+- **Follow-up**: Compare Neon with Astra and other models using equal task success, latency, retries, review effort, and complete task cost. No downloadable weights or license were verified; keep it out of the open-weight inventory.
 
 ### 2026-11-17 - OpenAI GPT-6.2 Astra and Sol
 
