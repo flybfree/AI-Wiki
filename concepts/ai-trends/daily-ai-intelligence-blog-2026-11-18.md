@@ -93,7 +93,7 @@ The competitive unit is becoming a model-plus-system: price and benchmark scores
 - [OpenAI — Advancing chip design with OpenAI models](https://openai.com/index/advancing-chip-design-with-our-models/)
 - [OpenAI — Broadening access to AI for scientists](https://openai.com/index/expanding-chatgpt-for-academic-researchers/)
 - [Reuters — Meta’s Muse agent and early safety mishaps](https://www.reuters.com/investigations/meta-bets-big-muse-ai-agent-early-safety-mishaps-surface-2026-11-18) · [Ars Technica’s follow-up](https://arstechnica.com/tech-policy/2026/11/muse-privacy-invasions-are-freaking-out-meta-staffers-internal-chats-show/)
-- [Wiz — Microsoft Agent Framework compromise](https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi) · [The Register — incident coverage](https://www.theregister.com/2026/11/18/microsofts_official_python_agent_framework_hijacked_to_distribute_malware/)
+- [Wiz — Microsoft Agent Framework compromise](https://www.wiz.io/blog/malicious-version-of-microsofts-agent-framework-published-to-pypi) · [The Register — incident coverage](https://theregister.com/security/2026-11-18/microsofts-official-python-agent-framework-hijacked-to-distribute-malware/5310858)
 - [California Governor — AI safety recommendations](https://www.gov.ca.gov/2026/11/18/governor-newsoms-nation-leading-ai-safety-framework-is-getting-even-stronger-as-california-releases-next-steps-on-mandatory-safety-standards-and-oversight/)
 - [Anthropic — IPO pricing announcement](https://www.anthropic.com/news/anthropic-prices-initial-public-offering)
 - [OpenAI and Microsoft model releases — Nov. 17 briefing](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-17.md)
