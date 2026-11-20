@@ -87,6 +87,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ### Recent industry signal
 
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-19.md|Summary: Daily AI Intelligence Briefing — 2026-11-19]] — AI-only interim through 18:00 CST; Google Mac computer use, Genie 4 API and Tool Retrieval, OpenAI’s Performance Factory, NVIDIA/Microsoft open-model deployment, chip export approvals, and Anthropic’s first trading day; arXiv scoring blocked by the review database lock; no papers promoted
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-18.md|Summary: Daily AI Intelligence Briefing — 2026-11-18]] — canonical full-day final; Gemini 4 Neon, Apache-licensed specialist models, local AI hardware, AI-assisted research, school platform controls, agent security, governance, and frontier financing; current paper-keep count unavailable; Lumistorm post #254 verified
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-17.md|Summary: Daily AI Intelligence Briefing — 2026-11-17]] — canonical full-day final; GPT-6.2 Astra/Sol, Microsoft Ignite models, safeguards and economic diffusion, Perplexity routing/agents, Isomorphic Labs’ $5B Series C, and AI-for-science; 0 target-date keeps and 0 uncovered carry-forwards; arXiv rate-limited; Lumistorm post #252 verified
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-14.md|Summary: Daily AI Intelligence Briefing — 2026-11-14]] — final local edition; governance accountability, a resolved DeepSeek service disruption, and incomplete release/research discovery
