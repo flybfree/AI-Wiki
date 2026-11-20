@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-18
+> Last updated: 2026-11-20
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -96,7 +96,7 @@ tags: ['wiki']
 - [[entities/article/2026-11-19_HowOpenAI_sPerformanceFactorykeepsChatGPTfast_summary.md|Summary: How OpenAI’s Performance Factory keeps ChatGPT fast]] — production agent workflow, adversarial checks, human deployment review, and outcome verification
 
 ## Concepts
-- [Summary: Daily AI Intelligence Briefing — 2026-11-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-19.md) — AI-only interim through 18:00 CST; Google Mac computer use, Genie 4 API and Tool Retrieval, OpenAI’s Performance Factory, NVIDIA/Microsoft open-model deployment, AI-chip export-license disclosure, and Anthropic’s first trading day; arXiv scoring stalled on the locked review database, no papers promoted
+- [Summary: Daily AI Intelligence Briefing — 2026-11-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-19.md) — canonical full-day AI-only final; agent product controls and production workflows, Aion/edge models, safety and liability, chip export approvals vs. shipments, China pacing debate, and Anthropic’s first trading day; 3 confirmed CST keep approvals/3 linked summaries, arXiv discovery incomplete, GitHub sync awaits review, Lumistorm post blocked by pending summary links
 - [Summary: Daily AI Intelligence Briefing — 2026-11-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-18.md) — canonical full-day AI-only final; Gemini 4 Neon, two Apache-licensed specialist model releases, RTX Spark local AI, AI-assisted research/chip design, school Search/Gemini controls, agent permission and supply-chain risks, California recommendations, and Anthropic IPO pricing; current paper-keep count unavailable, 0 papers promoted; Lumistorm post #254 published and verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-17](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-17.md) — canonical full-day final; GPT-6.2 Astra/Sol, Microsoft Ignite models, capability safeguards/economic diffusion, Perplexity routing and agents, Isomorphic Labs’ $5B Series C, and AI-for-science; 0 Nov 17 keeps and 0 uncovered carry-forwards across 921 stable identities; arXiv rate-limited; Lumistorm post #252 updated/verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-16](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-16.md) — canonical final local edition; agent accountability and independent evaluation, healthcare and user controls, hosted Qwen4-Max and Tencent Hy4 flash, research access, pharma evidence lags, cybersecurity funding, and child safety; 0 local-date keeps plus 0 uncovered carry-forwards; arXiv discovery incomplete; Lumistorm post #251 published/verified
@@ -3447,3 +3447,7 @@ tags: ['wiki']
 - [[2026-11-17_SatyaNadellasayshe_sAGI-pillednow.md]] : Satya Nadella says he’s AGI-pilled now
 - [[raw/articles/2026-10-08_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md]] : Legacy mirror path was `articles/2026-10-08_Pretendyou_resittingatElizabethHolmes_deskonthiswe.md`; canonical capture is under `raw/articles/`
 - [[2026-11-18_Thenation_slargestschooldistrictsconsiderditchingG.md]] : The nation’s largest school districts consider ditching Google Search
+- [[2026-11-19_HowOpenAI_sPerformanceFactorykeepsChatGPTfast.md]] : How OpenAI’s Performance Factory keeps ChatGPT fast
+- [[2026-11-19_WhatDoesChinaThinkAboutanAISlowdown_.md]] : What Does China Think About an AI Slowdown?
+- [[2026-11-19_Agameyoucannotwinunlessyouhaveaquantumcomputer.md]] : A game you cannot win unless you have a quantum computer
+- [[2026-11-19_EverythingThatHappenedinAIToday_Thursday_November1.md]] : Everything That Happened in AI Today (Thursday, November 19, 2026)

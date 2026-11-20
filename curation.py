@@ -127,36 +127,47 @@ def explicit_interest(title: str, text: str, tags: list[str] | None = None) -> d
 
 def _db() -> sqlite3.Connection:
     STATE_DIR.mkdir(exist_ok=True)
-    db = sqlite3.connect(DB_PATH)
+    db = sqlite3.connect(DB_PATH, timeout=30)
     db.row_factory = sqlite3.Row
-    db.execute(
-        """
-        CREATE TABLE IF NOT EXISTS decisions (
-            path TEXT PRIMARY KEY,
-            decision TEXT NOT NULL CHECK(decision IN ('keep', 'reject', 'skip')),
-            note TEXT NOT NULL DEFAULT '',
-            features TEXT NOT NULL,
-            updated_at TEXT NOT NULL,
-            title TEXT NOT NULL DEFAULT '',
-            source TEXT NOT NULL DEFAULT '',
-            preview TEXT NOT NULL DEFAULT '',
-            decision_source TEXT NOT NULL DEFAULT 'manual'
+    try:
+        db.execute("PRAGMA busy_timeout = 30000")
+        db.execute(
+            """
+            CREATE TABLE IF NOT EXISTS decisions (
+                path TEXT PRIMARY KEY,
+                decision TEXT NOT NULL CHECK(decision IN ('keep', 'reject', 'skip')),
+                note TEXT NOT NULL DEFAULT '',
+                features TEXT NOT NULL,
+                updated_at TEXT NOT NULL,
+                title TEXT NOT NULL DEFAULT '',
+                source TEXT NOT NULL DEFAULT '',
+                preview TEXT NOT NULL DEFAULT '',
+                decision_source TEXT NOT NULL DEFAULT 'manual'
+            )
+            """
         )
-        """
-    )
-    columns = {row[1] for row in db.execute("PRAGMA table_info(decisions)")}
-    for name in ("title", "source", "preview", "decision_source"):
-        if name not in columns:
-            default = "'manual'" if name == "decision_source" else "''"
-            db.execute(f"ALTER TABLE decisions ADD COLUMN {name} TEXT NOT NULL DEFAULT {default}")
-    # Older automatic keeps were identified only by their audit note. Preserve
-    # that history as automatic rather than allowing it into the manual model.
-    db.execute(
-        "UPDATE decisions SET decision_source = 'automatic' "
-        "WHERE note LIKE 'automatic keep:%' AND decision_source != 'automatic'"
-    )
-    db.commit()
-    return db
+        columns = {row[1] for row in db.execute("PRAGMA table_info(decisions)")}
+        for name in ("title", "source", "preview", "decision_source"):
+            if name not in columns:
+                default = "'manual'" if name == "decision_source" else "''"
+                db.execute(f"ALTER TABLE decisions ADD COLUMN {name} TEXT NOT NULL DEFAULT {default}")
+        # Older automatic keeps were identified only by their audit note. Apply
+        # this migration only while legacy rows exist; unconditional UPDATEs on
+        # every read request caused lock contention between concurrent GETs.
+        has_legacy_auto_keeps = db.execute(
+            "SELECT 1 FROM decisions "
+            "WHERE note LIKE 'automatic keep:%' AND decision_source != 'automatic' LIMIT 1"
+        ).fetchone()
+        if has_legacy_auto_keeps:
+            db.execute(
+                "UPDATE decisions SET decision_source = 'automatic' "
+                "WHERE note LIKE 'automatic keep:%' AND decision_source != 'automatic'"
+            )
+        db.commit()
+        return db
+    except Exception:
+        db.close()
+        raise
 
 
 def _frontmatter(text: str) -> dict[str, Any]:
@@ -572,55 +583,57 @@ def _profile_gate_config() -> dict[str, Any]:
 
 def list_candidates(status: str = "pending", limit: int = 50, offset: int = 0) -> list[dict[str, Any]]:
     db = _db()
-    decisions = _decisions(db)
-    profile = _profile(db)
-    profile_gate = _profile_gate_config()
-    result = []
-    for path in _candidate_paths(status):
-        item = candidate(path)
-        decision = decisions.get(item["path"])
-        if decision and decision["decision"] == "reject":
-            continue
-        item["decision"] = decision["decision"] if decision else "pending"
-        item["note"] = decision["note"] if decision else ""
-        item["updated_at"] = decision["updated_at"] if decision else ""
-        if status == "pending":
-            evidence = _interest_evidence(item)
-            item["interest"] = {
-                "relevant": evidence["relevant"],
-                "durable": evidence["durable"],
-                "accepted": evidence["accepted"],
-                "title_hits": evidence["title_hits"],
-                "body_hits": evidence["body_hits"],
-                "durable_signals": evidence["durable_signals"],
-                "application_hit": evidence["application_hit"],
-            }
-            item["title"] = evidence["title"]
-            item["score"] = _score_with_title(
-                evidence["title"], evidence["text"], item["tags"], profile
-            )
-            if not evidence["accepted"] or not item.get("source"):
+    try:
+        decisions = _decisions(db)
+        profile = _profile(db)
+        profile_gate = _profile_gate_config()
+        result = []
+        for path in _candidate_paths(status):
+            item = candidate(path)
+            decision = decisions.get(item["path"])
+            if decision and decision["decision"] == "reject":
                 continue
-            profile_active = (
-                profile_gate["enabled"]
-                and profile["reviewed"] >= profile_gate["minimum_reviewed"]
-            )
-            if profile_active and item["score"] < profile_gate["reject_floor"]:
-                # High-confidence profile mismatches stay out of the queue.
-                continue
-            if profile_active and item["score"] < profile_gate["minimum_queue_fit"]:
-                # Defer low-fit items without deleting their source summaries.
-                continue
-            if profile_active and item["score"] < profile_gate["manual_review_floor"]:
-                # Borderline candidates remain visible for manual judgment.
-                item["review_band"] = "borderline"
+            item["decision"] = decision["decision"] if decision else "pending"
+            item["note"] = decision["note"] if decision else ""
+            item["updated_at"] = decision["updated_at"] if decision else ""
+            if status == "pending":
+                evidence = _interest_evidence(item)
+                item["interest"] = {
+                    "relevant": evidence["relevant"],
+                    "durable": evidence["durable"],
+                    "accepted": evidence["accepted"],
+                    "title_hits": evidence["title_hits"],
+                    "body_hits": evidence["body_hits"],
+                    "durable_signals": evidence["durable_signals"],
+                    "application_hit": evidence["application_hit"],
+                }
+                item["title"] = evidence["title"]
+                item["score"] = _score_with_title(
+                    evidence["title"], evidence["text"], item["tags"], profile
+                )
+                if not evidence["accepted"] or not item.get("source"):
+                    continue
+                profile_active = (
+                    profile_gate["enabled"]
+                    and profile["reviewed"] >= profile_gate["minimum_reviewed"]
+                )
+                if profile_active and item["score"] < profile_gate["reject_floor"]:
+                    # High-confidence profile mismatches stay out of the queue.
+                    continue
+                if profile_active and item["score"] < profile_gate["minimum_queue_fit"]:
+                    # Defer low-fit items without deleting their source summaries.
+                    continue
+                if profile_active and item["score"] < profile_gate["manual_review_floor"]:
+                    # Borderline candidates remain visible for manual judgment.
+                    item["review_band"] = "borderline"
+                else:
+                    item["review_band"] = "standard"
             else:
-                item["review_band"] = "standard"
-        else:
-            item["score"] = _score_with_title(item["title"], item["preview"], item["tags"], profile)
-        if status == "all" or item["decision"] == status:
-            result.append(item)
-    db.close()
+                item["score"] = _score_with_title(item["title"], item["preview"], item["tags"], profile)
+            if status == "all" or item["decision"] == status:
+                result.append(item)
+    finally:
+        db.close()
     result = _dedupe_candidates(result)
     result.sort(key=lambda item: (-item["score"], item["title"].lower()))
     return result[max(0, offset) : max(0, offset) + max(1, min(limit, 200))]
@@ -762,9 +775,11 @@ def delete_rejected(path: str, note: str = "") -> dict[str, Any]:
 
 def profile() -> dict[str, Any]:
     db = _db()
-    value = _profile(db)
-    value.update(decision_stats(db))
-    db.close()
+    try:
+        value = _profile(db)
+        value.update(decision_stats(db))
+    finally:
+        db.close()
     value.pop("positive", None)
     value.pop("negative", None)
     return value

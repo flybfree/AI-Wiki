@@ -1,4 +1,6 @@
 from pathlib import Path
+from concurrent.futures import ThreadPoolExecutor
+import sqlite3
 import tempfile
 import unittest
 from unittest.mock import patch
@@ -69,6 +71,47 @@ class LearnedQueueFitTests(unittest.TestCase):
             )
             with patch.object(curation, "CURATION_CONFIG_PATH", config_path):
                 self.assertEqual(curation._profile_gate_config()["minimum_queue_fit"], 0.72)
+
+
+class ConcurrentDashboardReadTests(unittest.TestCase):
+    def test_concurrent_profile_and_queue_reads_do_not_lock_or_leak_database(self):
+        with tempfile.TemporaryDirectory() as temp_dir:
+            wiki = Path(temp_dir) / "wiki"
+            pending = wiki / "pending" / "papers"
+            pending.mkdir(parents=True)
+            (pending / "agent_harness_summary.md").write_text(
+                "---\ntitle: Agent harness architecture for tool use\n"
+                "source_url: https://arxiv.org/abs/2601.00000\n"
+                "tags: [agents]\n---\n## Summary\n"
+                "An agent harness architecture for tool-use evaluation.\n"
+            )
+            config = {
+                "enabled": True,
+                "minimum_reviewed": 50,
+                "minimum_queue_fit": 0.65,
+                "manual_review_floor": 0.35,
+                "reject_floor": 0.20,
+            }
+            with (
+                patch.object(curation, "ROOT", wiki),
+                patch.object(curation, "STATE_DIR", wiki / ".curation"),
+                patch.object(curation, "DB_PATH", wiki / ".curation" / "review.sqlite3"),
+                patch.object(curation, "CURATION_CONFIG_PATH", wiki / "curation_config.yaml"),
+                patch.object(curation, "_profile_gate_config", return_value=config),
+                patch.object(curation, "_score_with_title", return_value=0.8),
+            ):
+                def read_view(index):
+                    if index % 2:
+                        return len(curation.list_candidates("pending"))
+                    return curation.profile()["reviewed"]
+
+                with ThreadPoolExecutor(max_workers=8) as pool:
+                    results = list(pool.map(read_view, range(24)))
+
+                self.assertEqual(results.count(1), 12)
+                self.assertEqual(results.count(0), 12)
+                with sqlite3.connect(wiki / ".curation" / "review.sqlite3", timeout=2) as db:
+                    self.assertEqual(db.execute("PRAGMA quick_check").fetchone()[0], "ok")
 
 
 if __name__ == "__main__":
