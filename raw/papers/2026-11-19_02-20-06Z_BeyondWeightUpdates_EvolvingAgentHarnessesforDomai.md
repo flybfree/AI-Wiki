@@ -1,0 +1,18 @@
+---
+title: Beyond Weight Updates: Evolving Agent Harnesses for Domain Specialization
+published: 2026-11-19T02:20:06Z
+authors: BoHao Chen
+url: http://arxiv.org/abs/2611.25380v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Beyond Weight Updates: Evolving Agent Harnesses for Domain Specialization
+
+## Abstract
+Domain specialization of LLM agents is usually framed as a weight-update problem: collect trajectories, run reinforcement learning (RL) or supervised fine-tuning (SFT), and deploy a new checkpoint. We study a complementary axis: evolving the \textbf{agent harness}---the system prompt, tool schemas, skill library, and planning scaffolding---while keeping the policy frozen. We cast harness evolution as an RL-style outer loop and instantiate it with GEPA, a reflective evolutionary optimizer. The resulting harness adapters require no GPU training, are loadable per vertical domain, and compose with weight-based RL. Experiments with Codev, a Claude Code-style coding agent, on SWE-bench Verified, OfficeBench, and Terminal-Bench show a consistent pattern: weight updates give the strongest single-path gains, harness evolution recovers most of those gains at a small fraction of the compute, and combining both paths is best overall. We also analyze a failure mode of SFT-based specialization---shortened reasoning chains and increased truncation---and argue that harness adapters avoid it by construction. Our results position harness evolution as a practical, non-destructive complement to weight updates for vertical agents.
+
+## Metadata
+- **Published**: 2026-11-19T02:20:06Z
+- **Authors**: BoHao Chen
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.25380v1)

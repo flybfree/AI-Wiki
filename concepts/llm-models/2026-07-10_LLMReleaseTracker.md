@@ -27,7 +27,7 @@ This page is designed as an **update-first tracker**:
 
 ## Current Snapshot
 
-**Last reviewed**: 2026-11-18
+**Last reviewed**: 2026-11-20
 
 ### Current release verdict
 
@@ -44,7 +44,10 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 | **SpeakLeash Bielik-One** | Four open-weight 4B–11B decision models returning structured probabilities | Nov 12 family launch; Apache-2.0 model cards and merged-weight/adapter options verified on Hugging Face; specialized decision models, not standard chat assistants |
 | **BotPsy-0.8B** | Open-weight, on-device tool-use model for low- to medium-difficulty personal workflows | Tether reports it beats tested ≤1.2B peers across six benchmarks and tops its broader comparison set on five of six; Apache-2.0 weights are available on Hugging Face |
 | **Qwen4-Max** | Alibaba-hosted multimodal flagship for coding, professional work, reasoning, and agent tasks | QwenCloud’s model-release record dates the hosted `qwen4-max` listing to Nov 16 after the Nov 11 Token Plan preview; 1M context and native vision; no downloadable Qwen4-Max weights verified |
-| **Tencent Hy4 flash** | Hosted, cost-oriented multimodal model for everyday work; planned open release is not yet available | Tencent reports 224B total parameters (including 64B Engram), 12B active, and up to 1M context. Tencent says it plans to open-source the model; no downloadable weights or license were verified on Nov 16 |
+| [**Tencent Hy4 flash**](https://huggingface.co/tencent/Hy4-flash) | Open-weight, 224B total / 12B active multimodal MoE for cost-sensitive agent and office workflows | Weights appeared Nov 17 CST under Tencent Hy License 1.0; the hosted model launched Nov 16 and supports 1M context. Check the license’s commercial-service terms before hosting |
+| [**Tencent Hy4 full weights**](https://huggingface.co/tencent/Hy4) | Open-heavyweight multimodal checkpoint for server-scale use | Weights for Hy4, Hy4-FP8, and Hy4 base were posted at 03:52 UTC Nov 20 (21:52 CST Nov 19) under Tencent Hy License 1.0, not Apache 2.0. The card lists 770B backbone / 49B active text parameters and 1M context; qualifying large MaaS providers need separate written terms |
+| [**Inkling 2 Mini**](https://thinkingmachines.ai/model-card/inkling-2-mini/) | Apache-2.0 open-weight multimodal local model | Released Nov 20; 26.4B total, 3.4B unique active and 5.4B effective active with loops; 1M context and roughly 20GB checkpoint. Thinking Machines' model card and benchmark claims are publisher evidence |
+| [**Ayb 0.5**](https://huggingface.co/blog/Metric-AI/ayb-05-intro) | Armenian-language open-weight model family | Metric AI Lab lists 0.8B, 4B, and 9B variants released Nov 20; the Ayb-0.5-9B card uses CC BY-NC 4.0, so do not treat it as unrestricted commercial weights |
 | **Gemini 4 Carbon** | Google’s broader-availability model for long-horizon engineering, cybersecurity, and scientific reasoning | General availability announced Nov 10; company reports benchmark leadership on selected tasks; API introductory pricing runs through Nov 30 |
 | **Claude Fable 5.2** | Anthropic's broadly available model for difficult technical work | Anthropic reports up to 30% faster output than Fable 5.1; $8/M input, $40/M output |
 | **Claude Mythos 5.2** | Restricted high-capability sibling for approved cybersecurity and biomedical work | Same underlying model as Fable 5.2; access through Anthropic verification programs |
@@ -67,10 +70,13 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Frontier capability now has distinct access tiers.** Anthropic says Fable 5.2 is broadly available while Mythos 5.2 is gated through cybersecurity and life-sciences verification programs.
 - **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
-- **Gemini 4 Neon is the newest verified dated model release (Nov 18).** Google positions it between Carbon and Hydrogen for frontier capability at faster, lower-cost task execution; its ranking and rollout claims need matched independent testing.
+- **Gemini 4 Neon remains the newest verified closed-frontier release (Nov 18).** The latest open-weight updates are Inkling 2 Mini and Ayb 0.5 (Nov 20); Tencent's much larger Hy4 full weights arrived late Nov 19 CST under a custom license.
 - **GPT-6.2 Astra/Sol and Microsoft's seven-model Ignite wave remain the prior day's closed/hosted launches.** No same-day downloadable open-weight checkpoint and license were verified on Nov 18; do not count an API or product feature as an open-weight release.
-- **Qwen4-Max and Tencent Hy4 flash remain the latest confirmed Nov 16 hosted releases** in the prior wave; neither was counted as a Nov 17 release, and Tencent's future-open-source plan is not current weight availability.
-- **Tencent Hy4 flash adds a second Nov 16 hosted multimodal release.** Tencent reports 224B total parameters, 12B active, and a 1M-token context; the company plans a future open-source release, but no weights or license were public in the checked release materials. Do not count the plan as current open-weight availability.
+- **Qwen4-Max and Tencent Hy4 flash were hosted releases on Nov 16.** Tencent published Hy4 flash weights on Nov 17 CST under Tencent Hy License 1.0; the later full Hy4 weights release is tracked below as a Nov 19 CST event.
+- **Hy4 flash moved from hosted launch to downloadable weights on Nov 17 CST.** Tencent's 224B total / 12B active multimodal checkpoint uses the Tencent Hy License 1.0; its full 770B Hy4 weights followed late Nov 19 CST.
+- **Inkling 2 Mini and Ayb 0.5 add two different open-weight options on Nov 20.** Inkling is an Apache-2.0 looped multimodal model with a roughly 20GB checkpoint; Ayb 0.5 targets Armenian and English, with CC BY-NC 4.0 terms listed for its 9B model card. Keep vendor benchmarks attributed and check the exact Ayb checkpoint license.
+- **Tencent Hy4 weights appeared late Nov 19 CST, not Nov 20 CST.** The 770B multimodal model is downloadable under Tencent Hy License 1.0, which adds terms for large model-as-a-service providers; do not label it Apache 2.0 or count it as a Nov 20 local-day release.
+- **No Nov 20 closed-frontier general model release was verified.** The API changelog dates GPT-Live-1.1 to Nov 19, and model catalogs that list Pixtral Large 2502 on Nov 20 reflect a router listing of Mistral's older, deprecated model rather than a new Mistral launch.
 - **Gemini 4 Hydrogen adds a fast closed-model tier on Nov 12.** Google positions it for execution and Search, with Orchestrator routing work between Hydrogen and Carbon; pricing and performance should be benchmarked on equal-success production tasks.
 - **Typed decision models are a distinct open-weight track.** Perplexity Decider v1.3/Flash v1.3 and SpeakLeash Bielik-One target calibrated choices and extraction rather than free-form chat; test calibration, abstention, and workload fit before using outputs to trigger actions.
 
@@ -81,6 +87,13 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **No November 9 diffusion-language checkpoint was confirmed** in the targeted official-source check. Google's Gemini Diffusion remains described as an experimental demo, not a new dated release.
 
 ## Chronological Release Log
+
+### 2026-11-20 - open-weight local releases; Tencent Hy4 date-qualified
+
+- **Sources**: [Thinking Machines — Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) · [Inkling 2 Mini model card](https://thinkingmachines.ai/model-card/inkling-2-mini/) · [Metric AI Lab — Ayb 0.5](https://huggingface.co/blog/Metric-AI/ayb-05-intro) · [Ayb-0.5-9B model card](https://huggingface.co/Metric-AI/Ayb-0.5-9B) · [Tencent Hy4 weights](https://huggingface.co/tencent/Hy4)
+- **Models**: Inkling 2 Mini (26.4B total / 3.4B unique active, Apache 2.0) and Ayb 0.5 (0.8B/4B/9B Armenian-English family; CC BY-NC 4.0 listed for the 9B card). Tencent Hy4 weights were posted at 03:52 UTC Nov 20, which is 21:52 CST Nov 19; they are adjacent-day context, under Tencent Hy License 1.0 rather than Apache 2.0.
+- **Why it matters**: Open-weight access spans a local multimodal model, language-specific checkpoints, and a cluster-scale flagship with commercial-service thresholds. These are different deployment and licensing choices, not one “open” tier.
+- **Current take / follow-up**: Benchmark claims remain publisher-reported. Verify local runtime support, memory, per-checkpoint licenses, and Tencent's Section 10 requirements before deployment; no new Nov 20 closed-frontier release or diffusion language model was verified.
 
 ### 2026-11-18 - Google Gemini 4 Neon
 

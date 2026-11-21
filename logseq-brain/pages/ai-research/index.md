@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-20
+> Last updated: 2026-11-21
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -96,6 +96,7 @@ tags: ['wiki']
 - [[entities/article/2026-11-19_HowOpenAI_sPerformanceFactorykeepsChatGPTfast_summary.md|Summary: How OpenAI’s Performance Factory keeps ChatGPT fast]] — production agent workflow, adversarial checks, human deployment review, and outcome verification
 
 ## Concepts
+- [Summary: Daily AI Intelligence Briefing — 2026-11-20](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-20.md) — canonical full-day AI-only final; formal-verification status of the Claude-assisted Riemann proof claim, Inkling 2 Mini and Ayb 0.5 open weights, Watch Duty and chemistry/finance evaluations, agent privacy/security, and Anthropic’s IPO close; 0 Nov 20 CST keeps, 0 uncovered carry-forwards, 36 uncurated raw paper candidates, arXiv discovery incomplete; Lumistorm post #256 published/verified; GitHub sync awaits Rich’s review
 - [Summary: Daily AI Intelligence Briefing — 2026-11-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-19.md) — canonical full-day AI-only final; agent product controls and production workflows, Aion/edge models, safety and liability, chip export approvals vs. shipments, China pacing debate, and Anthropic’s first trading day; 3 confirmed CST keep approvals/3 linked summaries, arXiv discovery incomplete, GitHub sync awaits review, Lumistorm post blocked by pending summary links
 - [Summary: Daily AI Intelligence Briefing — 2026-11-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-18.md) — canonical full-day AI-only final; Gemini 4 Neon, two Apache-licensed specialist model releases, RTX Spark local AI, AI-assisted research/chip design, school Search/Gemini controls, agent permission and supply-chain risks, California recommendations, and Anthropic IPO pricing; current paper-keep count unavailable, 0 papers promoted; Lumistorm post #254 published and verified
 - [Summary: Daily AI Intelligence Briefing — 2026-11-17](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-17.md) — canonical full-day final; GPT-6.2 Astra/Sol, Microsoft Ignite models, capability safeguards/economic diffusion, Perplexity routing and agents, Isomorphic Labs’ $5B Series C, and AI-for-science; 0 Nov 17 keeps and 0 uncovered carry-forwards across 921 stable identities; arXiv rate-limited; Lumistorm post #252 updated/verified

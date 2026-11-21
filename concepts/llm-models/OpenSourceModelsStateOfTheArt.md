@@ -1,15 +1,15 @@
 ---
-title: "Open-Source Models State of the Art — 2026-11-12"
-date: 2026-11-12
+title: "Open-Source Models State of the Art — 2026-11-20"
+date: 2026-11-20
 status: draft
-tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-12"]
+tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-20"]
 ---
 
-# Open-Source Models State of the Art — 2026-11-12
+# Open-Source Models State of the Art — 2026-11-20
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-12 and includes Perplexity Decider v1.3 and SpeakLeash Bielik-One as specialized open-weight decision models alongside general-purpose and local-deployment checkpoints. It distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
+This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-20 and adds Thinking Machines' Inkling 2 Mini and Metric AI Lab's Armenian-focused Ayb 0.5 family. Tencent Hy4 flash weights were available from November 17 CST; the 770B full Hy4 weights arrived late on November 19 CST, both under Tencent Hy License terms. The page distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
 
 ## Semantic links
 - [Foundation Models State of the Art — 2026-08-27](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-07-27_FoundationModelsStateOfTheArt.md) — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
@@ -18,10 +18,11 @@ This page tracks the current open-weight frontier and the models most relevant f
 
 ## Snapshot
 
-Open-source model progress now splits into two tracks:
+Open-weight model progress spans three practical tracks:
 
-- frontier open-weight generalists
+- open heavyweight and frontier generalists
 - local-first quantized and fine-tuned models
+- specialized language and task models, with license scope checked separately
 
 The practical question is no longer just “what is the strongest open model?” It is also “what model can I run locally, tune for my tasks, and keep updated as the ecosystem moves?”
 
@@ -36,6 +37,8 @@ This table is a discovery-oriented shortlist, not a catalog limited to models al
 | Model | Openness | Approx. 4-bit memory / package | Capability profile | Discovery value |
 |---|---|---:|---|---|
 | [Qwen3.8-27B](https://huggingface.co/Qwen/Qwen3.8-27B) | Open-weight, Apache 2.0 | 15–20 GB | Dense multimodal reasoning, coding, image/video input, tools, agents | Strong broad replacement candidate for local generalist workloads |
+| [Inkling 2 Mini](https://huggingface.co/thinkingmachines/Inkling-2-Mini) | Open-weight, Apache 2.0 | About 20 GB checkpoint | 26.4B total / 3.4B unique active; looped multimodal transformer, text and image input, 1M context | Local agent/coding candidate; distinguish the 5.4B effective active count with loops from stored parameters |
+| [Ayb-0.5-9B](https://huggingface.co/Metric-AI/Ayb-0.5-9B) | Open-weight, CC BY-NC 4.0 | 9B checkpoint | Armenian/English language specialization, based on Qwen3.5-9B | Useful language-specific release; noncommercial license means it is not a general commercial deployment option |
 | [BotPsy-0.8B](https://huggingface.co/qvac/BotPsy-0.8B) | Open weights, Apache-2.0 listed on Hugging Face | 0.8B parameters; BF16, Q8, and Q4 variants | Qwen3.5-0.8B-based tool-use agent for low- to medium-difficulty on-device tasks | Tether reports it beats tested ≤1.2B peers across six tests; multi-step retrieval remains weak and high-stakes use is excluded |
 | [LFM3-1.7B](https://huggingface.co/LiquidAI/LFM3-1.7B) | Open-weight, LFM Open License 1.0 | About 0.8 GB raw 4-bit weights | 1.7B text model, 256K context, native tool use; part of a six-model multimodal family | Compact local-agent and fine-tuning candidate; check each modality's runtime support |
 | [LFM2.5-24B-A2B](https://huggingface.co/LiquidAI/LFM2.5-24B-A2B) | Open-weight, LFM Open License 1.0 | About 12 GB raw 4-bit weights | 24B total / 2B active MoE, 131K context | Higher-capacity local agent candidate; add runtime and KV-cache headroom |
@@ -68,6 +71,8 @@ This table is a discovery-oriented shortlist, not a catalog limited to models al
 | [Meituan LongCat-2.5](https://huggingface.co/meituan-longcat/LongCat-2.5) | Open weights, MIT (no trademark or patent grant) | Cluster-scale; not a consumer-local model | Meituan reports 1.6T total / ~48B active; native multimodal LongcatCausalLM for long-horizon agents | Weights released Nov 9; HF marks custom code, and the documented deployment path is Meituan's NPU-optimized SGLang-FluentLLM stack |
 | [Nemotron 3.5 Super VL 120B-A12B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4) | Open-weight, OpenMDW-1.1 | 75.1 GB NVFP4 package | 120B total / 12B active hybrid Mamba-2–Transformer MoE; text, images, video; up to 1M context | Large multimodal agent model; NVIDIA's documented NVFP4 recipe targets DGX Spark |
 | [Nemotron 3.5 Transcribe 30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) | Open-weight, OpenMDW-1.1 | GPU-oriented; BF16, FP8, and NVFP4 checkpoints | 34B total / about 4.3B active including audio encoder; 40-language transcription, translation, diarization, and audio Q&A | Open speech specialist; not a compact local model |
+| [Tencent Hy4](https://huggingface.co/tencent/Hy4) | Open weights, Tencent Hy License 1.0 | Cluster-scale; model card lists 770B backbone parameters | Multimodal text/image/video flagship, 49B active text parameters, 1M context | Weights posted Nov 19 CST; large MaaS providers may need a separate written license under Section 10 |
+| [Tencent Hy4 flash](https://huggingface.co/tencent/Hy4-flash) | Open weights, Tencent Hy License 1.0 | Cluster-scale; 224B total including Engram | Multimodal 12B-active model, 1M context, targeted at cost-sensitive agent and office work | Weights appeared Nov 17 CST; Section 10 terms apply to qualifying model-as-a-service use |
 | [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) | Open-weights | Very large | 276B total, 12B active, 1M context, variable thinking | Important frontier open-weight release, not consumer-local |
 | [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) | Open-weight, MIT | Hundreds of GB | Frontier reasoning, math, coding, research | Server-class reasoning reference |
 | [Llama 3.1 405B](https://huggingface.co/meta-llama/Llama-3.1-405B) | Open-weight, Meta license | 220–250 GB | Large-scale general reasoning and coding | Multi-GPU server reference |
@@ -109,6 +114,14 @@ The model's practical differentiator is controllable reasoning rather than a sep
 Qwen reports strong results on coding and computer-use evaluations, including 73.0 on Terminal-Bench 2.1, 61.7 on SWE-bench Pro, 84.3 on OSWorld-Verified, and 81.9 on AndroidWorld. These are vendor-reported results using different harnesses and should be treated as directional rather than directly comparable across model cards.[1] The local trade-off is compelling but not free: a Q4_K_M build is about 17 GB, while dense-model memory bandwidth and long reasoning traces can make inference feel slow even when the model fits.[2]
 
 **Best fit:** a local multimodal coding and agent model when Apache licensing, long context, image/video input, and controllable reasoning matter. **Main caveat:** configure context length and reasoning effort explicitly; otherwise local latency and token usage can overwhelm the benefit of the compact 27B footprint.
+
+## Inkling 2 Mini spotlight
+
+[Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/) is a multimodal autoregressive looped transformer released on November 20, 2026. Its [official model card](https://thinkingmachines.ai/model-card/inkling-2-mini/) lists 26.4B total and 3.4B unique active parameters; repeated passes through the middle layers raise effective active work to 5.4B per token. It accepts text and images, supports up to 1M context, and is released under Apache 2.0 with downloadable [Hugging Face weights](https://huggingface.co/thinkingmachines/Inkling-2-Mini). The card describes a roughly 20GB mixed-precision checkpoint and local support for Apple silicon with at least 32GB of memory and DGX Spark.
+
+Thinking Machines reports strong results on agentic coding and reasoning evaluations; these remain publisher-reported until independently reproduced with matched harnesses. The model is a local open-weight release, not a new closed-frontier model or a diffusion-based language model.
+
+**Best fit:** local multimodal coding and agent experiments where Apache 2.0 weights and a modest checkpoint matter. **Main caveat:** the model card's active-parameter figures describe compute, not weight storage; leave memory for the runtime, context cache, and workload.
 
 ## Qwen3.8-Flash-Next spotlight
 
@@ -272,6 +285,7 @@ These discussion notes are retained from earlier 2026 research passes; they are 
 
 ## Progress log
 
+- **2026-11-20** — Added Inkling 2 Mini as an Apache-2.0, downloadable local multimodal model; added Ayb 0.5 as a language-specific open-weight family with CC BY-NC 4.0 terms on the Ayb-0.5-9B card. Recorded Tencent Hy4's weights as a late-November-19-CST open-heavyweight release under Tencent Hy License 1.0, not as a November 20 local-day release. Verified official release/model cards and kept vendor evaluations attributed.
 - **2026-11-12** — Added Perplexity Decider v1.3/Flash v1.3 and SpeakLeash Bielik-One as specialized open-weight decision models. Perplexity's official post states Apache-licensed Hugging Face weights; Bielik-One's dated release schedule and Hugging Face model cards verify the Nov 12 release, downloadable weights, and Apache-2.0 licensing. Kept the models separate from general-purpose chat rankings and noted that calibration and publisher benchmarks need workload-specific checks.
 
 - **2026-11-09** — Added Meituan LongCat-2.5 as an open-weight heavyweight after the official Nov 9 weights announcement and Hugging Face model card verified MIT licensing, the 1.6T/~48B scale claim, a `LongcatCausalLM` custom-code configuration, and a custom NPU serving path. Do not equate sparse active parameters with consumer-local memory requirements.
@@ -327,6 +341,9 @@ These discussion notes are retained from earlier 2026 research passes; they are 
 - [NVIDIA Nemotron 3.5 Super and Lightning](https://research.nvidia.com/labs/nemotron/Nemotron-3.5-Super-and-Lightning/) · [Super VL NVFP4 model card](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Super-VL-120B-A12B-NVFP4)
 - [NVIDIA Nemotron 3.5 Transcribe and Granary v2](https://huggingface.co/blog/nvidia/nemotron-transcribe-granary) · [Transcribe model card](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) · [Granary v2 dataset](https://huggingface.co/datasets/nvidia/Granary-v2) · [600M streaming ASR model](https://huggingface.co/nvidia/nemotron-3.5-asr-streaming-0.6b)
 - [Gemini 4 Carbon announcement — proprietary, not an open-weight entry](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/)
+- [Inkling 2 Mini release](https://thinkingmachines.ai/news/inkling-2-mini/) · [official model card](https://thinkingmachines.ai/model-card/inkling-2-mini/) · [downloadable weights](https://huggingface.co/thinkingmachines/Inkling-2-Mini)
+- [Ayb 0.5 announcement](https://huggingface.co/blog/Metric-AI/ayb-05-intro) · [Ayb-0.5-9B card and license](https://huggingface.co/Metric-AI/Ayb-0.5-9B)
+- [Tencent Hy4 weights](https://huggingface.co/tencent/Hy4) · [Tencent Hy4 flash weights](https://huggingface.co/tencent/Hy4-flash) · [Tencent Hy License](https://huggingface.co/tencent/Hy4/blob/main/LICENSE) · [full-weight release post timestamped Nov 20 UTC / Nov 19 CST](https://x.com/TencentHunyuan/status/2123625549147070538)
 - [LLM Release Tracker](https://github.com/flybfree/AI-Wiki/blob/master/concepts/llm-models/2026-07-10_LLMReleaseTracker.md)
 - [LLM Model Evolution](https://github.com/flybfree/AI-Wiki/blob/master/concepts/llm-models/2026-06-10_LLMModelEvolution.md)
 - [Inference Layer: Quantized Models, GGUF, and Local Use](https://github.com/flybfree/AI-Wiki/blob/master/concepts/self-improving-ai-loops/2026-06-10_Lesson2_InferenceLayer.md)
