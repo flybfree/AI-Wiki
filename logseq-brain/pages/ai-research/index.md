@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-21
+> Last updated: 2026-11-22
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -96,7 +96,7 @@ tags: ['wiki']
 - [[entities/article/2026-11-19_HowOpenAI_sPerformanceFactorykeepsChatGPTfast_summary.md|Summary: How OpenAI’s Performance Factory keeps ChatGPT fast]] — production agent workflow, adversarial checks, human deployment review, and outcome verification
 
 ## Concepts
-- [Summary: Daily AI Intelligence Briefing — 2026-11-21](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-21.md) — AI-only interim through 18:00 CST; AI inference prompt exposure and ZDR failures, Muse agent compromise, Cairn/MONAI Label offensive-agent findings, Anthropic IPO safety-governance scrutiny; 0 Nov 21 CST paper keeps; arXiv requests rate-limited; model sweep found no verified same-day launch
+- [Summary: Daily AI Intelligence Briefing — 2026-11-21](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-21.md) — canonical full-day AI-only final; Together AI prompt-sample exposure, inference-provider ZDR risk, agent security and human-directed offensive use, OpenAI outage, Anthropic IPO governance, open-weight distribution, and likeness licensing; 0 Nov 21 keeps plus 1 uncovered approved-paper carry-forward; 10 uncurated summaries; arXiv scout recency incomplete; no Nov 21 model launch verified; Lumistorm post #257 published and verified; GitHub sync awaits Rich's review
 - [Summary: Daily AI Intelligence Briefing — 2026-11-20](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-20.md) — canonical full-day AI-only final; formal-verification status of the Claude-assisted Riemann proof claim, Inkling 2 Mini and Ayb 0.5 open weights, Watch Duty and chemistry/finance evaluations, agent privacy/security, and Anthropic’s IPO close; 0 Nov 20 CST keeps, 0 uncovered carry-forwards, 36 uncurated raw paper candidates, arXiv discovery incomplete; Lumistorm post #256 published/verified; GitHub sync awaits Rich’s review
 - [Summary: Daily AI Intelligence Briefing — 2026-11-19](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-19.md) — canonical full-day AI-only final; agent product controls and production workflows, Aion/edge models, safety and liability, chip export approvals vs. shipments, China pacing debate, and Anthropic’s first trading day; 3 confirmed CST keep approvals/3 linked summaries, arXiv discovery incomplete, GitHub sync awaits review, Lumistorm post blocked by pending summary links
 - [Summary: Daily AI Intelligence Briefing — 2026-11-18](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-18.md) — canonical full-day AI-only final; Gemini 4 Neon, two Apache-licensed specialist model releases, RTX Spark local AI, AI-assisted research/chip design, school Search/Gemini controls, agent permission and supply-chain risks, California recommendations, and Anthropic IPO pricing; current paper-keep count unavailable, 0 papers promoted; Lumistorm post #254 published and verified
@@ -3453,3 +3453,7 @@ tags: ['wiki']
 - [[2026-11-19_WhatDoesChinaThinkAboutanAISlowdown_.md]] : What Does China Think About an AI Slowdown?
 - [[2026-11-19_Agameyoucannotwinunlessyouhaveaquantumcomputer.md]] : A game you cannot win unless you have a quantum computer
 - [[2026-11-19_EverythingThatHappenedinAIToday_Thursday_November1.md]] : Everything That Happened in AI Today (Thursday, November 19, 2026)
+- [[2026-11-21_HowGoogleDuplexevolvedtoalsocallbusinessesforyouin.md]] : How Google Duplex evolved to also call businesses for you in Gemini
+- [[2026-11-21_Combattingadversarialdistillation.md]] : Combatting adversarial distillation
+- [[2026-11-21_EverythingThatHappenedinAIToday_Friday_November20_.md]] : Everything That Happened in AI Today (Friday, November 20, 2026)
+- [[2026-11-21_IntroducingInkling2Mini.md]] : Introducing Inkling 2 Mini

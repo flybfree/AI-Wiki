@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-11-22 00:00 CST] finalize/publish | finalized the Nov 21 full-day AI-only briefing; direct Brave sweep checked 32 targeted queries; normalized four local captures to Nov 20 source dates; added date-verified Fortune reporting on Chinese open-weight distribution and TechCrunch reporting on likeness licensing; full curation query returned 0 Nov 21 CST keeps plus 1 uncovered approved carry-forward (1 canonical summary link); arXiv target-day queries returned zero records but scout recency ends Nov 19 and ten generated summaries remain uncurated; updated dated page, audit, index, and family hub; synchronized five changed files to both Logseq mirrors and verified 10/10 byte comparisons; created and updated Lumistorm post #257 at https://lumistorm.net/daily-ai-intelligence-2026-11-21/ with REST read-back, category 5, cache-busted page, all 18 source links, no-wiki-syntax, and /blog/ ordering checks passing; GitHub sync awaits Rich's review, no commit/push
+
 ## [2026-11-21 18:00 CST] interim/briefing | created the AI-only Nov 21 interim through 18:00 after direct Brave-backed lab, model, incident, and governance searches plus Neuron Atom, AI Universe Explorer, and AI Weekly review; no local Nov 21 raw captures; included the Dragos/Ars inference-supply-chain privacy update, distinct Meta Muse exploit research, Amazon Cairn/MONAI Label threat intelligence with its Sep/Nov20 dates explicit, and NPR's Anthropic IPO safety-governance analysis; no same-day model release verified; read-only curation query found 0 Nov 21 CST keeps across 925 total keep rows; four arXiv API category/topic queries returned HTTP 429, so research coverage remains incomplete and no paper was promoted; updated dated briefing, coverage audit, index, daily family rollup, and this log; synchronized five scoped files to both Logseq trees and verified byte parity; required GitHub push script follows
 
 ## [2026-11-21 00:00 CST] finalize/publish | completed the full-day Nov 20 AI-only briefing after a direct Brave-backed lab/news/model sweep and local-time review of The Neuron Atom feeds; covered the Riemann/Lean verification status, Inkling 2 Mini and Ayb 0.5 releases, Hy4 UTC-vs-CST date boundary, Watch Duty and MedChemBench/Hebbia evaluations, Meta Muse permissions, the EC AI-assisted campaign, OpenAI distillation safeguards, and Anthropic’s IPO close; full read-only curation query returned 925 keep rows, 0 Nov 20 CST keeps, and 0 uncovered carry-forwards after normalizing legacy entities/paper paths; 36 raw paper candidates remain uncurated and the arXiv index stops Nov 19 18:59 UTC, so discovery is incomplete; updated the dated page, coverage audit, model snapshot/tracker, index, and family hub; mirrored seven scoped files to both Logseq trees and verified 14/14 byte comparisons; published Lumistorm post #256 at https://lumistorm.net/daily-ai-intelligence-2026-11-20/ in existing category 5; REST read-back, cache-busted post, source links, no-wiki-syntax, and /blog/ ordering all verified; no GitHub commit or push pending Rich’s review
@@ -17875,3 +17877,54 @@ tags: ['wiki']
 ## [2026-11-19 21:09] ingest | 2026-11-19_WhatDoesChinaThinkAboutanAISlowdown_.md
 ## [2026-11-19 21:09] ingest | 2026-11-19_Agameyoucannotwinunlessyouhaveaquantumcomputer.md
 ## [2026-11-19 21:09] ingest | 2026-11-19_EverythingThatHappenedinAIToday_Thursday_November1.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_04-32-25Z_WhyDoLLMsHelpwithScientificMisconductRequestsandWh.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_14-13-27Z_NariQ_Sub_3_BitQuantizationforLong_HorizonAgenticT.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_19-44-59Z_CoMPASS_AMulti_TurnBenchmarkforMeasuringLLMReinfor.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_20-25-44Z_EverydayBench_EvaluatingSatisfactoryCompletionofLi.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_09-09-23Z_Duopra_FromFull_DuplexConversationtoFull_DuplexAge.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_12-28-53Z_Evaluatingsafeguardinginmulti_turnconversationswit.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_12-57-53Z_StudyingAIActMentions_AfirstlookattheimpactoftheEu.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_06-55-41Z_HarnessesThatImproveThemselves_AUnifyingFrameworkf.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_00-15-38Z_SafePersonalRSI_EvaluatingandRepairingPersonal_Age.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_16-19-56Z_ContextasaResource.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_18-59-07Z_TrainingLanguageModelsforIntrospectiveOversight.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_05-26-45Z_MATE_MobileAgentTrustworthyExecutionforSafeandEffi.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_14-56-21Z_FrontiermodelsneedonlyonetexttounmaskitshumanorAIa.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_02-47-44Z_TowardaScienceofAIAgentSocieties.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_10-08-26Z_HabitusMem_BeliefMemoryoverEvolvingUserPreferences.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_06-26-12Z_Canyoumakemodelsbelievefalsefactsintheprompt.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_16-57-03Z_TheResolutionHypothesis_AgentEvolution_sKeyIsIdent.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_18-44-25Z_AgentTrustInfrastructure_ATI__AFederatedIdentity_T.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_01-00-38Z_Pandora_sToolboxOrWhyAgentSafetyCannotBeVerified.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_05-32-18Z_HowFeedback_FreeSelf_EvolutionReshapesAgentSkills_.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_16-56-46Z_ValuesShapeWhatSelf_ImprovingCodingAgentsBuild.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_21-37-02Z_DreamingUpAuthors_FactualPrevalenceandLLMHallucina.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_18-23-35Z_ReplicationofAgenticSecurityEvents_AuditandInvesti.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_18-20-01Z_TheGeometryofLies_KnowledgeandPersonaDirectionsfor.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_02-20-06Z_BeyondWeightUpdates_EvolvingAgentHarnessesforDomai.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_18-54-19Z_SoK_AssessingtheEvolutionofLLMCapabilityinSoftware.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_12-31-23Z_CanWeight_SpaceProgrammingAlterLearnedEthicalPrior.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_06-53-32Z_CopilotorCulprit_HowAIIsChangingOpen_SourceBugRepo.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_14-23-10Z_Probingagentovereagernessinrealisticsettingswithco.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_03-11-24Z_EvolveWhereItMatters_Coverage_GuidedSelf_Evolution.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_18-32-14Z_Whoareyou_ThePersonalImitationGame.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_22-08-51Z_SomeMemoriesMustFade_PersistenceandDecayofUserMemo.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_23-05-05Z_MANGOArena_SameSeeds_DifferentChainsEvaluatingLLMA.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_11-08-07Z_WhatSurvivestheShiftfromTexttoPixels_ConditionalPr.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_12-40-42Z_RememberedasBrief_StoredPreferencesSilentlyRemoveD.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_04-58-34Z_PersonaLenses_WhatMakesaVision_LanguageModelSeeThr.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_09-01-02Z_CharacterizingandDetectingUnfaithfulWorkReportsbyC.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_17-35-47Z_IsabellePoolServer_apooledverificationserviceforpr.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_10-05-59Z_LMLineage_ContentLineageandContextGovernanceforLLM.md
+## [2026-11-21 21:50] stage-paper | 2026-11-16_13-05-46Z_Evaluation_FreeRecursiveSelf_ImprovementforCodingA.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_09-06-14Z_ThinkOnce_ActFast_Cost_EffectiveRecursiveSelf_Impr.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_08-46-09Z_FromReliancetoOverreliance_TaxonomizingandDetectin.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_17-59-13Z_MindtheGap_ADeployedMulti_AgentSystemforDocumentat.md
+## [2026-11-21 21:50] stage-paper | 2026-11-19_16-29-16Z_HowMuchShouldanAgentRemember_DeploymentLessonsfrom.md
+## [2026-11-21 21:50] stage-paper | 2026-11-17_12-24-19Z_WorldviewsinLargeLanguageModels.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_15-10-11Z_BaseRSI_RecursiveSelf_ImprovementofaBaseVision_Lan.md
+## [2026-11-21 21:50] stage-paper | 2026-11-18_19-23-44Z_LivingofftheLocalModel_AbusingBrowser_EmbeddedLang.md
+## [2026-11-21 21:50] ingest | 2026-11-21_HowGoogleDuplexevolvedtoalsocallbusinessesforyouin.md
+## [2026-11-21 21:50] ingest | 2026-11-21_Combattingadversarialdistillation.md
+## [2026-11-21 21:50] ingest | 2026-11-21_EverythingThatHappenedinAIToday_Friday_November20_.md
+## [2026-11-21 21:50] ingest | 2026-11-21_IntroducingInkling2Mini.md
