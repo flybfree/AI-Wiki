@@ -32,7 +32,7 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 - [[concepts/2026-06-09_LLMsAndFoundationModelsHub.md|LLMs & Foundation Models Hub — Main]]
 - [[concepts/llm-models/2026-07-10_LLMReleaseTracker.md|LLM Release Tracker — Current Model Tracker]]
-- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-11-09]] — adds Meituan LongCat-2.5 heavyweight MIT weights with custom-code/NPU deployment caveats
+- [[concepts/llm-models/OpenSourceModelsStateOfTheArt.md|Open-Source Models State of the Art — 2026-11-22]] — adds Sarvam-105B-1711 Apache-2.0 open-weight checkpoint for on-prem enterprise/Indic agents; vendor comparisons remain unverified independently
 - [[concepts/2026-07-27_FoundationModelsStateOfTheArt.md|Foundation Models State of the Art — 2026-08-27]] — includes Claude Opus 5 and GPT-5.6 Sol/Terra/Luna
 - [[concepts/hermes-agent-guide.md|Fable 5 Integration Notes]]
 - [[concepts/llm-models/2026-06-10_LLMModelEvolution.md|LLM Model Evolution]]
@@ -87,6 +87,8 @@ GitHub-friendly copy: [wiki-topic-index-github.md](wiki-topic-index-github.md)
 
 ### Recent industry signal
 
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-22.md|Summary: Daily AI Intelligence Briefing — 2026-11-22]] — AI-only interim through 18:00 CST; provider-level privacy enforcement, Sarvam open weights, OpenAI pretraining metric proposal, grid and policy signals; 0 Nov 22 paper keeps; Brave unavailable and arXiv search incomplete
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-21.md|Summary: Daily AI Intelligence Briefing — 2026-11-21]] — canonical full-day final; inference privacy, agent security, OpenAI outage, Anthropic IPO governance, open-weight distribution, and likeness licensing; 0 target-day keeps plus 1 approved carry-forward
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-19.md|Summary: Daily AI Intelligence Briefing — 2026-11-19]] — AI-only interim through 18:00 CST; Google Mac computer use, Genie 4 API and Tool Retrieval, OpenAI’s Performance Factory, NVIDIA/Microsoft open-model deployment, chip export approvals, and Anthropic’s first trading day; arXiv scoring blocked by the review database lock; no papers promoted
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-18.md|Summary: Daily AI Intelligence Briefing — 2026-11-18]] — canonical full-day final; Gemini 4 Neon, Apache-licensed specialist models, local AI hardware, AI-assisted research, school platform controls, agent security, governance, and frontier financing; current paper-keep count unavailable; Lumistorm post #254 verified
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-17.md|Summary: Daily AI Intelligence Briefing — 2026-11-17]] — canonical full-day final; GPT-6.2 Astra/Sol, Microsoft Ignite models, safeguards and economic diffusion, Perplexity routing/agents, Isomorphic Labs’ $5B Series C, and AI-for-science; 0 target-date keeps and 0 uncovered carry-forwards; arXiv rate-limited; Lumistorm post #252 verified

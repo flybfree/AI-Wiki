@@ -7,7 +7,7 @@ tags: [llm-models, evolution, tracking]
 
 # LLM Release Tracker
 
-**Source**: [AI/ML API comparison article](https://aimlapi.com/blog/top-llm-models-in-2026-the-best-ai-models-for-reasoning-coding-multimodal-tasks) · [Fazm April releases roundup](https://fazm.ai/blog/new-llm-releases-april-2026) · [LLM Model Evolution](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-06-10_LLMModelEvolution.md)
+**Source**: [Sarvam-105B-1711 release](https://www.sarvam.ai/blogs/sarvam-105b-1711) · [AI/ML API comparison article](https://aimlapi.com/blog/top-llm-models-in-2026-the-best-ai-models-for-reasoning-coding-multimodal-tasks) · [Fazm April releases roundup](https://fazm.ai/blog/new-llm-releases-april-2026) · [LLM Model Evolution](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-06-10_LLMModelEvolution.md)
 
 > A living one-stop shop for the latest model releases, with the newest update pinned at the top and older snapshots moved downward into a chronological record.
 
@@ -27,7 +27,7 @@ This page is designed as an **update-first tracker**:
 
 ## Current Snapshot
 
-**Last reviewed**: 2026-11-20
+**Last reviewed**: 2026-11-22
 
 ### Current release verdict
 
@@ -35,6 +35,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 
 | Model | Current role | Signal |
 |---|---|---|
+| [**Sarvam-105B-1711**](https://huggingface.co/sarvamai/sarvam-105b-1711) | Apache-2.0 open-weight checkpoint of Sarvam’s existing 105B model for enterprise agents, voice, and Indic-language workloads | Announced Nov 22; 10.3B active, 160K context, 65GB NVFP4 checkpoint for a workstation-class GPU. Sarvam reports a 73.9 eight-benchmark average at $0.15/M blended; all comparisons are publisher-run |
 | **Gemini 4 Neon** | Closed-weight mid-tier frontier model for complex coding, knowledge work, science, and higher-frequency agent workflows | Google reports a 1M-token context, API pricing of $3/M input and $15/M output ($0.15/M cached), and #3 on Artificial Analysis Intelligence Index at xhigh; benchmarks and rollout are publisher-reported |
 | **GPT-6.2 Astra** | Frontier model for demanding professional, scientific, and long-horizon work | OpenAI says API input/output prices are 20% below GPT-6 Astra ($8/$40 per million; $0.40 cached input); first externally released model at OpenAI's High AI self-improvement threshold; company benchmarks and risk ratings require independent evaluation |
 | **GPT-6.2 Sol** | Efficient everyday and multi-step agent model | OpenAI says it is available in ChatGPT Work, Codex, and API; it keeps GPT-6.1 Sol's stated rates ($2/$10 per million; $0.10 cached input); not an open-weight release |
@@ -70,7 +71,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Frontier capability now has distinct access tiers.** Anthropic says Fable 5.2 is broadly available while Mythos 5.2 is gated through cybersecurity and life-sciences verification programs.
 - **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
-- **Gemini 4 Neon remains the newest verified closed-frontier release (Nov 18).** The latest open-weight updates are Inkling 2 Mini and Ayb 0.5 (Nov 20); Tencent's much larger Hy4 full weights arrived late Nov 19 CST under a custom license.
+- **Gemini 4 Neon remains the newest verified closed-frontier release (Nov 18); Sarvam-105B-1711 is the newest target-day open-weight checkpoint (Nov 22).** Sarvam updates an existing 105B model with agent, instruction-following, and Indic-language post-training; its price/performance claims are publisher-reported. Inkling 2 Mini and Ayb 0.5 remain Nov 20 releases, and Tencent Hy4 full weights arrived late Nov 19 CST under a custom license.
 - **GPT-6.2 Astra/Sol and Microsoft's seven-model Ignite wave remain the prior day's closed/hosted launches.** No same-day downloadable open-weight checkpoint and license were verified on Nov 18; do not count an API or product feature as an open-weight release.
 - **Qwen4-Max and Tencent Hy4 flash were hosted releases on Nov 16.** Tencent published Hy4 flash weights on Nov 17 CST under Tencent Hy License 1.0; the later full Hy4 weights release is tracked below as a Nov 19 CST event.
 - **Hy4 flash moved from hosted launch to downloadable weights on Nov 17 CST.** Tencent's 224B total / 12B active multimodal checkpoint uses the Tencent Hy License 1.0; its full 770B Hy4 weights followed late Nov 19 CST.
@@ -87,6 +88,13 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **No November 9 diffusion-language checkpoint was confirmed** in the targeted official-source check. Google's Gemini Diffusion remains described as an experimental demo, not a new dated release.
 
 ## Chronological Release Log
+
+### 2026-11-22 - Sarvam-105B-1711 open-weight checkpoint
+
+- **Sources**: [Sarvam announcement](https://www.sarvam.ai/blogs/sarvam-105b-1711) · [NVFP4 model card](https://huggingface.co/sarvamai/sarvam-105b-1711) · [BF16 weights](https://huggingface.co/sarvamai/sarvam-105b-1711-bf16)
+- **Model**: New checkpoint/post-training of the existing 105B mixture-of-experts model; the card lists 10.3B active parameters. It targets tool use, instruction following, enterprise agents, voice, and Indian languages.
+- **Availability and license**: Apache-2.0 weights are on Hugging Face; BF16 and 65GB NVFP4 versions are available. Sarvam reports a 160K context and on-premises use on one workstation-class GPU.
+- **Claims and follow-up**: Sarvam reports 73.9 average across eight conversational-agent tests at $0.15/M blended pricing, but its comparisons are publisher-run. Independently evaluate the exact model, price mix, language set, runtime, hardware memory, and end-to-end agent success before ranking it against closed or open peers.
 
 ### 2026-11-20 - open-weight local releases; Tencent Hy4 date-qualified
 

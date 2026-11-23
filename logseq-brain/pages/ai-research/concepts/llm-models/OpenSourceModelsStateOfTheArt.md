@@ -1,15 +1,15 @@
 ---
-title: "Open-Source Models State of the Art — 2026-11-20"
-date: 2026-11-20
+title: "Open-Source Models State of the Art — 2026-11-22"
+date: 2026-11-22
 status: draft
-tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-20"]
+tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-22"]
 ---
 
-# Open-Source Models State of the Art — 2026-11-20
+# Open-Source Models State of the Art — 2026-11-22
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-20 and adds Thinking Machines' Inkling 2 Mini and Metric AI Lab's Armenian-focused Ayb 0.5 family. Tencent Hy4 flash weights were available from November 17 CST; the 770B full Hy4 weights arrived late on November 19 CST, both under Tencent Hy License terms. The page distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
+This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-22 and adds Sarvam-105B-1711, an Apache-2.0 post-trained checkpoint of Sarvam's existing 105B model for enterprise agents and Indic-language workloads. Its 65GB NVFP4 weights target one workstation-class GPU, not a ≤32GB local setup. The page distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
 
 ## Semantic links
 - [Foundation Models State of the Art — 2026-08-27](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-07-27_FoundationModelsStateOfTheArt.md) — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
@@ -73,6 +73,7 @@ This table is a discovery-oriented shortlist, not a catalog limited to models al
 | [Nemotron 3.5 Transcribe 30B-A4B](https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Transcribe-30B-A4B) | Open-weight, OpenMDW-1.1 | GPU-oriented; BF16, FP8, and NVFP4 checkpoints | 34B total / about 4.3B active including audio encoder; 40-language transcription, translation, diarization, and audio Q&A | Open speech specialist; not a compact local model |
 | [Tencent Hy4](https://huggingface.co/tencent/Hy4) | Open weights, Tencent Hy License 1.0 | Cluster-scale; model card lists 770B backbone parameters | Multimodal text/image/video flagship, 49B active text parameters, 1M context | Weights posted Nov 19 CST; large MaaS providers may need a separate written license under Section 10 |
 | [Tencent Hy4 flash](https://huggingface.co/tencent/Hy4-flash) | Open weights, Tencent Hy License 1.0 | Cluster-scale; 224B total including Engram | Multimodal 12B-active model, 1M context, targeted at cost-sensitive agent and office work | Weights appeared Nov 17 CST; Section 10 terms apply to qualifying model-as-a-service use |
+| [Sarvam-105B-1711](https://huggingface.co/sarvamai/sarvam-105b-1711) | Open weights, Apache 2.0 | 65GB NVFP4 checkpoint; Sarvam targets one 96GB workstation GPU | 105B total / 10.3B active; 160K context; post-trained for agentic tool use, instruction following, voice, and Indian languages | Released Nov 22 as a checkpoint of an existing model; performance and price comparisons are Sarvam-reported. Not a 32GB-class local model |
 | [Inkling-Small](https://thinkingmachines.ai/news/inkling-small/) | Open-weights | Very large | 276B total, 12B active, 1M context, variable thinking | Important frontier open-weight release, not consumer-local |
 | [DeepSeek-R1](https://huggingface.co/deepseek-ai/DeepSeek-R1) | Open-weight, MIT | Hundreds of GB | Frontier reasoning, math, coding, research | Server-class reasoning reference |
 | [Llama 3.1 405B](https://huggingface.co/meta-llama/Llama-3.1-405B) | Open-weight, Meta license | 220–250 GB | Large-scale general reasoning and coding | Multi-GPU server reference |
@@ -122,6 +123,14 @@ Qwen reports strong results on coding and computer-use evaluations, including 73
 Thinking Machines reports strong results on agentic coding and reasoning evaluations; these remain publisher-reported until independently reproduced with matched harnesses. The model is a local open-weight release, not a new closed-frontier model or a diffusion-based language model.
 
 **Best fit:** local multimodal coding and agent experiments where Apache 2.0 weights and a modest checkpoint matter. **Main caveat:** the model card's active-parameter figures describe compute, not weight storage; leave memory for the runtime, context cache, and workload.
+
+## Sarvam-105B-1711 spotlight
+
+[Sarvam-105B-1711](https://www.sarvam.ai/blogs/sarvam-105b-1711) is a November 22 open-weight checkpoint of Sarvam's existing 105B mixture-of-experts model. Its [Hugging Face card](https://huggingface.co/sarvamai/sarvam-105b-1711) lists 10.3B active parameters and Apache-2.0 licensing; the release adds post-training for instruction following, tool calling, agent tasks, and Indian languages. Sarvam offers BF16 weights and a 65GB NVFP4 checkpoint and reports a 160K-token context. The company says the quantized version can run on one workstation-class GPU, including an RTX PRO 6000 Blackwell configuration.
+
+Sarvam reports a 73.9 average across eight conversational-agent benchmarks at a blended $0.15 per million tokens, close to its reported scores for Gemini 3.5 Flash-Lite and Gemma 4 31B at higher listed prices. These numbers come from Sarvam's own evaluation setup, so they are not independent head-to-head results. Check hardware capacity, KV-cache/context needs, the exact input/output price mix, Indian-language performance, and tool-call reliability in a matched workload before deployment.
+
+**Best fit:** on-premises or private enterprise voice and agent workloads where Indic-language support and Apache-2.0 weights are valuable. **Main caveat:** a 65GB checkpoint is server/workstation class despite only 10.3B active parameters; sparse activation does not make the full weight set small.
 
 ## Qwen3.8-Flash-Next spotlight
 
