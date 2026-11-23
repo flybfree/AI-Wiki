@@ -28,3 +28,7 @@ This work is significant because it addresses the emerging field of "personal AI
 - **Autoethnography:** A method of self-reflection and qualitative research using personal experience as data.
 - **Personal AI Agents / Digital Twins:** AI systems designed to mimic specific individuals.
 - **Large Language Models (LLMs):** Foundation models used for natural language processing tasks.
+
+## Original research paper
+
+[Canonical original paper (arXiv:2611.24888v1)](https://arxiv.org/abs/2611.24888v1)

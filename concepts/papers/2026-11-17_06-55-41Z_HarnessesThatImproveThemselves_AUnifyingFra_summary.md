@@ -32,3 +32,7 @@ This work is significant because it shifts the focus of agent optimization from 
 - Benchmark Gaming
 - Context and State Management
 - Verification and Recovery Mechanisms
+
+## Original research paper
+
+[Canonical original paper (arXiv:2611.22299v1)](https://arxiv.org/abs/2611.22299v1)

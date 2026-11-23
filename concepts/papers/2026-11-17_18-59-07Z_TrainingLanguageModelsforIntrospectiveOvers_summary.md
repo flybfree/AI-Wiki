@@ -32,3 +32,7 @@ This research is significant because it addresses a critical bottleneck in AI sa
 - Transcript Monitoring
 - Honesty Training
 - Qwen3.6-27B
+
+## Original research paper
+
+[Canonical original paper (arXiv:2611.23365v1)](https://arxiv.org/abs/2611.23365v1)

@@ -30,3 +30,7 @@ This work is significant because it shifts the paradigm from building isolated A
 - Economic Dynamics in AI
 - Autonomy in Artificial Intelligence
 - Networked AI Agents
+
+## Original research paper
+
+[Canonical original paper (arXiv:2611.25404v1)](https://arxiv.org/abs/2611.25404v1)

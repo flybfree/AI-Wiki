@@ -2,7 +2,7 @@
 title: "Summary: Daily AI Intelligence Briefing — 2026-11-22"
 date: "2026-11-22"
 type: briefing
-status: "AI-only interim through 18:00 CST; 0 Nov 22 paper keeps; direct Brave unavailable; arXiv discovery incomplete"
+status: "canonical full-day AI-only final through 23:59 CST; 4 Nov 22 confirmed paper keeps; Brave unavailable; arXiv discovery incomplete"
 tags: [ai-intelligence, daily-briefing, models, security, infrastructure, governance, research]
 sources:
   - "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers"
@@ -13,10 +13,14 @@ sources:
   - "https://fortune.com/2026/11/22/ai-data-centers-power-grid-capacity/"
   - "https://www.nga.org/news/press-releases/governors-call-for-ai-action/"
   - "https://www.theneuron.ai/newsletter/who-really-wins-from-anthropic-s-ipo/"
+  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-17_06-55-41Z_HarnessesThatImproveThemselves_AUnifyingFra_summary.md"
+  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-17_18-59-07Z_TrainingLanguageModelsforIntrospectiveOvers_summary.md"
+  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-19_02-47-44Z_TowardaScienceofAIAgentSocieties_summary.md"
+  - "https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-18_18-32-14Z_Whoareyou_ThePersonalImitationGame_summary.md"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-11-22
 
-**Coverage window: Sunday, November 22, 2026, 00:00–18:00 CST (America/Chicago, UTC−06:00); interim edition.** The clearest new signals are practical rather than speculative: OpenRouter has publicly responded to evidence that inference providers mishandled customer prompts by removing three unnamed providers and 125 endpoints from Zero Data Retention eligibility; Sarvam has released an open-weight, post-trained checkpoint aimed at lower-cost enterprise agents; and OpenAI’s chief scientist has proposed using pretraining perplexity as a shared progress measure tied to safety and pacing commitments. Two broader constraints are also getting harder to ignore: AI data-center expansion is colliding with a slower electricity grid, and governors are asking Congress for a federal AI framework that still leaves states room to address deployment harms. These are company claims, analysis, and nonbinding policy recommendations—not new laws or independently validated model rankings. No newly approved paper was found by 18:00 CST, and the paper-discovery pass was incomplete.
+**Coverage window: Sunday, November 22, 2026, 00:00–23:59 CST (America/Chicago, UTC−06:00); canonical full-day final.** The clearest pattern is that AI deployment is increasingly shaped by the infrastructure around models: inference providers’ handling of prompts, the power grid, access controls, and governance. OpenRouter disclosed enforcement after prompt-handling failures; Sarvam released an open-weight, post-trained checkpoint for enterprise agents; and OpenAI’s chief scientist proposed pretraining perplexity as one input to shared safety pacing. Governors also asked Congress for a federal AI framework that preserves state deployment protections. These are company claims, analysis, and nonbinding policy recommendations—not new laws or independently validated model rankings. The complete local curation query confirms four research papers approved on November 22 CST; their titles link to canonical summaries. Paper discovery remains incomplete, so this is a final edition for verified available coverage, not a claim of exhaustive literature or news discovery.
 
 ## Key Themes
 
@@ -46,7 +50,7 @@ The proposal is more than a metric: Pachocki calls for frontier developers to es
 
 ### 4. Sarvam turns an existing 105B model into a more deployable agent checkpoint
 
-Sarvam’s [November 22 release post](https://www.sarvam.ai/blogs/sarvam-105b-1711) and [Hugging Face model card](https://huggingface.co/sarvamai/sarvam-105b-1711) describe Sarvam-105B-1711 as a new open-weight checkpoint of an existing 105-billion-parameter mixture-of-experts model, with 10.3B active parameters—not a wholly new foundation-model architecture. The Apache-2.0 weights add post-training for instruction following, tool use, enterprise-agent tasks, and Indian languages. Sarvam reports a 160K-token context and offers BF16 weights plus a 65GB NVFP4 checkpoint intended to run on one workstation-class GPU, enabling on-premises deployment where data should not go to a third-party API.
+Sarvam’s [November 22 release post](https://www.sarvam.ai/blogs/sarvam-105b-1711) and [Hugging Face model card](https://huggingface.co/sarvamai/sarvam-105b-1711) describe Sarvam-105B-1711 as a new open-weight checkpoint of an existing 105-billion-parameter mixture-of-experts model, with 10.3B active parameters—not a wholly new foundation-model architecture. The Apache-2.0 weights add post-training for instruction following, tool use, enterprise-agent tasks, and Indian languages. Sarvam reports a 160K-token context and offers BF16 weights plus a 65GB NVFP4 checkpoint intended to run on one workstation-class GPU, enabling on-premises deployment where data should not go to a third-party API. In the day’s model landscape, no new closed-frontier launch was verified; this is an open-heavyweight checkpoint, while customization options and dated model context remain tracked in the [open-model snapshot](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/OpenSourceModelsStateOfTheArt.md).
 
 Sarvam’s own eight-benchmark average is 73.9 at a blended $0.15 per million tokens, compared with 74.0 at $0.85 for Gemini 3.5 Flash-Lite and 73.0 at $0.54 for Gemma 4 31B. The company also reports gains over its February checkpoint on IFBench (32.5 to 82.5), Tau2 customer-service tool use (46.2 to 85.5), and its Indic suite (30.1 to 79.1). These comparisons and costs are publisher-reported, use Sarvam’s evaluation setup, and need matched independent replication; the attractive trade-off is a testable claim, not settled ranking.
 
@@ -79,7 +83,7 @@ A [November 22 newsletter from The Neuron](https://www.theneuron.ai/newsletter/w
 - Sarvam released an Apache-2.0 open-weight 105B checkpoint, extending an existing model rather than introducing a new architecture.
 - The NGA issued bipartisan AI-governance principles, while Fortune connected AI-linked data-center growth with grid capacity, local permitting, and who pays.
 - The Neuron’s IPO analysis is a new interpretation of last week’s listing, not a new IPO event.
-- No additional closed-frontier model launch was verified by 18:00 CST. No November 22 paper keep was recorded.
+- No additional closed-frontier model launch was verified during the target day. Four research papers were approved in the local curation workflow at about 18:25 CST and are included below; other generated candidate summaries remain unapproved.
 
 ## Why It Matters
 
@@ -93,11 +97,20 @@ The common thread is that AI’s impact is increasingly shaped by infrastructure
 4. Independent tests of Sarvam-105B-1711 using matched agent tasks, Indian-language evaluation, full cost, and the exact NVFP4 hardware/runtime configuration.
 5. U.S. grid connection, project-delay, and ratepayer-cost developments; separate proposed on-site generation from capacity actually brought online.
 6. Congressional response to the governors’ principles and any concrete state/federal allocation or preemption language.
-7. The full local-date arXiv scout and page-level review when the rate-limited topic query recovers.
+7. A fresh arXiv scout that reaches the November 22 local-date window, and page-level review of the 12 generated candidate summaries that remain unapproved.
 
 ## Research Curation and Coverage Limits
 
-The local wiki contained no November 22 raw article captures, paper records, or generated paper summaries at run time. A read-only query of the curation database found **0 keep decisions on November 22 CST** across 925 total keep rows; the November 21 final already carried forward its one previously uncovered approved paper, and no paper is being promoted here. Direct Brave search could not run because `BRAVE_SEARCH_API_KEY` was unavailable; the general web-search integration returned results through fallback search providers, and official company/government pages were checked directly where possible. AI Universe Explorer and The Neuron’s Atom feed were reviewed; dates and primary claims were verified rather than accepted from aggregator summaries. ArXiv’s recent `cs.AI`, `cs.LG`, and `cs.CL` responses ended on November 19; a broader submitted-date query returned zero, while the focused topic query was rate-limited (HTTP 429). Research discovery is therefore **incomplete**, not evidence that no relevant paper was submitted.
+The local intake contained one target-date article capture, [OpenAI’s “Perplexity and Intelligence”](https://openai.com/index/perplexity-and-intelligence/), and 12 generated raw paper-summary candidates; those candidates have no matching curation decisions and are not presented as approved. A read-only query of the complete SQLite decision store found **929 keep rows overall** and **4 keep approvals dated November 22 in America/Chicago**, after converting stored UTC timestamps. Stable summary identities were compared against earlier dated briefings; all four target-date approvals were uncovered and each has one canonical summary link below. The four canonical summaries are present and now expose visible original arXiv URLs. Direct Brave search could not run because `BRAVE_SEARCH_API_KEY` was unavailable. A general web-search fallback was used only as a discovery aid, with target-day claims checked against primary sources where available; the fallback is not represented as a Brave sweep. The saved arXiv scout fetched 14 query families / 21 pages / 1,200 entries, but its newest result was dated November 20 06:45 UTC, before the November 22 CST target window; several topic queries also stopped at their page caps. The research discovery pass is therefore **incomplete**, not evidence that no other relevant paper was submitted. Unreviewed candidates are omitted.
+
+## Approved Research Papers — 4 Confirmed Keeps
+
+All four items below were approved on November 22 CST. Approval date is distinct from each paper’s submission date. Each title links to its canonical rendered summary, which now contains a visible original-paper URL.
+
+- [Harnesses That Improve Themselves: A Unifying Framework for Self-Improving Agent Harnesses](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-17_06-55-41Z_HarnessesThatImproveThemselves_AUnifyingFra_summary.md) — The paper separates runtime bugs from model limitations, then proposes a four-stage loop for diagnosing, patching, validating, and deploying modular harness changes. Its reported SWE-bench Lite results favor gated modular updates over prompt reflection and full rewrites; this makes runtime verification and rollback central to agent improvement rather than treating the model as the only optimization target.
+- [Training Language Models for Introspective Oversight](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-17_18-59-07Z_TrainingLanguageModelsforIntrospectiveOvers_summary.md) — A separately trained observer role reached mean AUROC 0.907 across five held-out oversight evaluations, ahead of the paper’s honesty-training, transcript-monitoring, and activation-oracle baselines. This suggests that verifiable behavioral reporting can improve oversight, while the reported result remains bounded to the tested model and evaluation set.
+- [Toward a Science of AI Agent Societies](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-19_02-47-44Z_TowardaScienceofAIAgentSocieties_summary.md) — The authors define agent societies through individualized objectives, rules/governance, autonomy, and scale/complexity, then classify economic, conflict, unsafe, and system-level behaviors. The framework gives researchers a way to distinguish genuine societal dynamics from simple multi-agent coordination and to expose gaps in today’s platforms.
+- [Who are you? The Personal Imitation Game](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/papers/2026-11-18_18-32-14Z_Whoareyou_ThePersonalImitationGame_summary.md) — A proposed benchmark tests whether models can imitate a specific person, not merely sound generally human. Its 20-person deception study was statistically inconclusive, which is important: personal-AI identity claims need larger evaluations and explicit privacy/consent analysis rather than anecdotal demonstrations.
 
 ## Sources / References
 

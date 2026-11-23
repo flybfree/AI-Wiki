@@ -1,0 +1,18 @@
+---
+title: Git History Is a Pangenome: Repetition in Code Training Corpora and What Deduplication Removes, Keeps and Misses
+published: 2026-11-20T05:38:42Z
+authors: Saurabh Chopra
+url: http://arxiv.org/abs/2611.27154v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Git History Is a Pangenome: Repetition in Code Training Corpora and What Deduplication Removes, Keeps and Misses
+
+## Abstract
+Code models are increasingly trained on the full history of software repositories, every version of every file, rather than on a single snapshot. The tools that deduplicate training data were built for snapshots, and what they do to a history has not been measured. We measured it on a pre-registered random sample of 306 public repositories, 25 mature projects, and the 12 repositories behind the SWE-bench benchmark. A history is mostly repetition: in the vocabulary of text indexing, a pangenome, one text in many near-identical variants. The history of a typical repository holds the equivalent of 19 copies of its current code, and a mature repository holds 89. The reason is that each edit changes a few lines and leaves the rest of the file in place: nine tokens in ten of a changed file already existed before the change. Exact-match deduplication removes none of these copies, since no two versions are identical. Large training pipelines already deduplicate their snapshots by grouping near-identical files and keeping one. Applied across versions, the same step brings the repetition down to about two copies. But two problems remain. The deduplicator keeps one version of each file, and in widely used implementations, including the one we measured, the rule for choosing that version ignores dates, so for half of all files the version kept for training is an old one. Sorting versions newest first before deduplicating fixes the problem at almost no cost. The second problem is benchmark answers. Benchmarks such as SWE-bench test a model on real bug fixes, and a merged fix survives in a median of 18 later versions of the files it changed. Therefore, removing benchmark fixes needs a separate step that checks every version. We turn the measurements into a short set of rules for teams that train on code history, and release the instruments and frozen outputs.
+
+## Metadata
+- **Published**: 2026-11-20T05:38:42Z
+- **Authors**: Saurabh Chopra
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.27154v1)
