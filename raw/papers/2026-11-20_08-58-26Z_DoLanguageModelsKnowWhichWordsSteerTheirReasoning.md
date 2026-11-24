@@ -1,0 +1,18 @@
+---
+title: Do Language Models Know Which Words Steer Their Reasoning?
+published: 2026-11-20T08:58:26Z
+authors: Yanbei Jiang, Chao Lei, Jey Han Lau, Krista A. Ehinger, Rena Gao Wei
+url: http://arxiv.org/abs/2611.27317v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Do Language Models Know Which Words Steer Their Reasoning?
+
+## Abstract
+While chain-of-thought (CoT) prompting elicits intermediate reasoning steps from language models, it is unclear which words in the context actually steer the CoT. We identify Phantom Context Influence (PCI): language models are disproportionately steered by semantically irrelevant context words, even as the same models deny those words' relevance when asked. To localize PCI, we introduce Leave-One-Out Word JSD analysis, which removes one context word at a time from the otherwise intact context to isolate its marginal effect on the next-token distribution; words whose removal flips the prediction (pivot words) are passed to the same LLM to self-judge whether it recognizes this predictive dependence. Across four models and three benchmarks, language models largely do not know which words steer their reasoning, a mismatch we call the Generation-Judgment Contradiction. Inspired by this phenomenon, we propose Online KV Suppression: it scores every prompt word's influence over the whole chain of thought in a single pass, then zeroes the KV-cache entries of the highest-influence word the model itself judges inert and redecodes. This single-word intervention improves CoT accuracy across four models and five reasoning benchmarks, by up to 8.9 percentage points on math reasoning benchmark.
+
+## Metadata
+- **Published**: 2026-11-20T08:58:26Z
+- **Authors**: Yanbei Jiang, Chao Lei, Jey Han Lau, Krista A. Ehinger, Rena Gao Wei
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.27317v1)

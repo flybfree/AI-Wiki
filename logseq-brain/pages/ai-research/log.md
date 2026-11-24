@@ -5,6 +5,8 @@ tags: ['wiki']
 ---
 # Log
 
+## [2026-11-24 00:00 CST] finalize/publish | finalized the Nov 23 full-day AI-only briefing; direct Brave-backed lab/model/security/research sweep and The Neuron Atom feed checks added Google Research DeepCrossAttention, Ai2 RoboTrack models/benchmark, and Paradromics–NVIDIA edge-computing collaboration alongside verified model, agent-security, Google product, AI-science, and NVIDIA governance coverage; exact-local-date arXiv category/topic queries returned 340 unique discovery records but no paper approval; complete curation query found 0 Nov 23 CST keeps and 0 uncovered approved papers after stable-stem normalization; 16 generated paper summaries remain uncurated; canonical briefing, audit, index, topic indexes, and family hub updated; 7 scoped files synchronized to both Logseq trees with all 14 SHA-256 comparisons passing; Lumistorm post #259 published at https://lumistorm.net/daily-ai-intelligence-2026-11-23/ and verified by REST read-back, cache-busted page, and /blog/ order; GitHub sync awaits Rich's review and explicit approval; no commit or push
+
 ## [2026-11-23 18:00 CST] interim/briefing | published the AI-only interim through 18:00 CST after a targeted generic-search fallback and first-party verification (direct Brave unavailable); included Z.ai GLM-5.4 with weights explicitly not yet released, Cyberhaven’s scoped 87/100 agent data-leak test, OpenAI/Cisco Shirudo, Google Gemini file slicing and Search Personal Intelligence, Google DeepMind’s Lean-checked quantum-circuit research, Meta’s early-stage medical-model research, and NVIDIA’s CEO reinstatement; excluded date-mismatched Anthropic research, stale Frostbite recirculation, and corrected the Neuron digest’s stale Riemann-proof status against the Nov 21 Lean/Mathlib statement; complete curation query found 0 Nov 23 CST keeps; arXiv API returned HTTP 429/timeout, so discovery is incomplete; briefing, coverage audit, scout-failure log, release tracker, open-model snapshot, indexes, and Logseq mirror updated; required GitHub push verification follows
 
 ## [2026-11-23 00:00 CST] finalize/publish | finalized the Nov 22 full-day AI-only briefing; complete read-only curation query found 4 keeps approved on Nov 22 CST and 4 uncovered canonical summary identities, with original arXiv links added to the local summaries; 12 generated candidate summaries remain unapproved; arXiv scout covered 14 query families/21 pages/1,200 records but newest results stop Nov 20 UTC, so research discovery remains incomplete; Brave key unavailable and targeted fallback search was not represented as Brave; updated dated page, audit, indexes, daily family hub, and four paper summaries; synchronized 11 scoped files to both Logseq mirrors with 22/22 SHA-256 comparisons passing; WordPress auth/category-5/slug preflight passed but public GitHub summary copies lack the newly added original-paper links, so required paper-link chain is not verified and no post was written; GitHub sync awaits Rich’s review and explicit approval; no commit or push
@@ -17947,3 +17949,20 @@ tags: ['wiki']
 ## [2026-11-22 21:46] stage-paper | 2026-11-20_05-19-59Z_DoSeniorAgentsDoTheirJob_MeasuringRoleIntegrityinH.md
 ## [2026-11-22 21:46] stage-paper | 2026-11-20_04-40-59Z_CoEvoBench_CanLLMsDriveRecursiveCo_EvolutionofAgen.md
 ## [2026-11-22 21:46] ingest | 2026-11-22_PerplexityandIntelligence.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_08-31-28Z_HookEvo_AFrameworkforCoordinatedPluginEvolutiononH.md
+## [2026-11-23 21:43] stage-paper | 2026-11-21_01-17-42Z_WhenaPermittedActionCompletesaForbiddenWorkflow_De.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_18-56-49Z_AutoPILOT_AVisualAgentHarnessforReal_TimeGameplay.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_17-09-10Z_WhoGradestheAgent_PrivilegeSeparationforCoding_Age.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_10-24-25Z_JaggedRobustness_UnevenSafetyTransferandEmergingVu.md
+## [2026-11-23 21:43] stage-paper | 2026-11-21_08-09-46Z_Aegis_AConversationalPrototypeforLungCancerRiskInf.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_11-40-10Z_TrainedonHarm_StillRefusing_ATraining_TimeDefensef.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_08-58-26Z_DoLanguageModelsKnowWhichWordsSteerTheirReasoning.md
+## [2026-11-23 21:43] stage-paper | 2026-11-21_03-21-55Z_InformationAccessandGain_LossFraminginSixLargeLang.md
+## [2026-11-23 21:43] stage-paper | 2026-11-21_08-41-43Z_PersuasionfromWithin_Model_BasedInsiderAttacksinMu.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_19-22-41Z_DemystifyingtheAutoresearchHarness_HowContextandSk.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_21-47-43Z_WhenToolsFail_AgentsFabricate_SilentFailureandVeri.md
+## [2026-11-23 21:43] stage-paper | 2026-11-21_06-43-13Z_AgentMoneyBenchmark_CanAIAgentsBeTrustedtoSpendMon.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_23-46-36Z_DiversityoverScale_RecursiveSelf_ImprovementwithEn.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_21-06-00Z_INSEP_Refusal_DirectionInseparabilityasaDefenseAga.md
+## [2026-11-23 21:43] stage-paper | 2026-11-20_10-25-54Z_Cleave_SeveringGuardrailsandAuditingSpectralCoupli.md
+## [2026-11-23 21:43] ingest | 2026-11-23_Superchargingtransformerresidualconnections.md
