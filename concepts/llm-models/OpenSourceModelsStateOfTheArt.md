@@ -1,15 +1,15 @@
 ---
-title: "Open-Source Models State of the Art — 2026-11-22"
-date: 2026-11-22
+title: "Open-Source Models State of the Art — 2026-11-23"
+date: 2026-11-23
 status: draft
-tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-22"]
+tags: ["wiki", "open-source-models", "foundation-models", "state-of-the-art", "local-use", "gguf", "quantization", "2026-11-23"]
 ---
 
-# Open-Source Models State of the Art — 2026-11-22
+# Open-Source Models State of the Art — 2026-11-23
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 
-This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-22 and adds Sarvam-105B-1711, an Apache-2.0 post-trained checkpoint of Sarvam's existing 105B model for enterprise agents and Indic-language workloads. Its 65GB NVFP4 weights target one workstation-class GPU, not a ≤32GB local setup. The page distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
+This page tracks the current open-weight frontier and the models most relevant for local deployment. The snapshot is refreshed through 2026-11-23. Sarvam-105B-1711 remains the newest verified downloadable checkpoint in the local-day inventory: an Apache-2.0 post-trained version of Sarvam's existing 105B model whose 65GB NVFP4 weights target one workstation-class GPU, not a ≤32GB local setup. Z.ai announced GLM-5.4 today but has not published its promised weights or license, so it is tracked as a staged/proprietary announcement rather than listed as open weight. The page distinguishes open-source artifacts, open weights under model-specific terms, and proprietary models; sparse activation reduces compute per token but does not erase total-weight storage requirements.
 
 ## Semantic links
 - [Foundation Models State of the Art — 2026-08-27](https://github.com/flybfree/AI-Wiki/blob/master/concepts/2026-07-27_FoundationModelsStateOfTheArt.md) — 5 title terms overlap, shared tags: foundationmodels, stateoftheart, wiki, 5 topic terms overlap
@@ -25,6 +25,8 @@ Open-weight model progress spans three practical tracks:
 - specialized language and task models, with license scope checked separately
 
 The practical question is no longer just “what is the strongest open model?” It is also “what model can I run locally, tune for my tasks, and keep updated as the ecosystem moves?”
+
+**Staged release watch:** [Z.ai’s GLM-5.4](https://z.ai/blog/glm-5.4) is a 750B Loop Transformer announcement, not a current open-weight checkpoint. Z.ai says weights will follow safety hardening, without a release date or license. Do not add it to downloadable/open-weight rankings until the files and terms are published. See the [Nov 23 briefing](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-23.md) and [release tracker](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-07-10_LLMReleaseTracker.md).
 
 ## Two-tier local model reference table
 
@@ -222,6 +224,7 @@ Google's [Gemma release log](https://ai.google.dev/gemma/docs/releases) lists **
 - whether long-context compact models remain useful once real tool use and retrieval are layered in
 - whether hybrid sparse/linear attention and multi-token prediction translate into repeatable serving gains outside vendor demos
 - whether model-hub support arrives quickly enough for new releases to become reproducible local workflows
+- whether Z.ai follows through on GLM-5.4 weights with an explicit license and enough safety/technical detail to evaluate the staged release
 
 ## Local-use quantized and fine-tuned models
 
@@ -294,6 +297,7 @@ These discussion notes are retained from earlier 2026 research passes; they are 
 
 ## Progress log
 
+- **2026-11-23** — Added a staged-release note for Z.ai’s GLM-5.4 Loop Transformer. Z.ai announced a 750B base with a shared 28-layer block run twice, but downloadable weights and license terms are not available; do not count it as open weight until they are published. The latest verified downloadable checkpoint remains Sarvam-105B-1711 from Nov 22.
 - **2026-11-20** — Added Inkling 2 Mini as an Apache-2.0, downloadable local multimodal model; added Ayb 0.5 as a language-specific open-weight family with CC BY-NC 4.0 terms on the Ayb-0.5-9B card. Recorded Tencent Hy4's weights as a late-November-19-CST open-heavyweight release under Tencent Hy License 1.0, not as a November 20 local-day release. Verified official release/model cards and kept vendor evaluations attributed.
 - **2026-11-12** — Added Perplexity Decider v1.3/Flash v1.3 and SpeakLeash Bielik-One as specialized open-weight decision models. Perplexity's official post states Apache-licensed Hugging Face weights; Bielik-One's dated release schedule and Hugging Face model cards verify the Nov 12 release, downloadable weights, and Apache-2.0 licensing. Kept the models separate from general-purpose chat rankings and noted that calibration and publisher benchmarks need workload-specific checks.
 

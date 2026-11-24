@@ -27,7 +27,7 @@ This page is designed as an **update-first tracker**:
 
 ## Current Snapshot
 
-**Last reviewed**: 2026-11-22
+**Last reviewed**: 2026-11-23
 
 ### Current release verdict
 
@@ -35,6 +35,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 
 | Model | Current role | Signal |
 |---|---|---|
+| **GLM-5.4** | Z.ai’s new 750B Loop Transformer flagship for generalized coding and reasoning | Announced Nov 23; loops a shared block of 28 GLM-5 layers twice. Available in Z.ai products/Coding Plan; API is forthcoming. Z.ai plans weights after safety hardening, so this is **not yet an open-weight release**. Its 2T–3T-comparable capability claim is publisher-reported |
 | [**Sarvam-105B-1711**](https://huggingface.co/sarvamai/sarvam-105b-1711) | Apache-2.0 open-weight checkpoint of Sarvam’s existing 105B model for enterprise agents, voice, and Indic-language workloads | Announced Nov 22; 10.3B active, 160K context, 65GB NVFP4 checkpoint for a workstation-class GPU. Sarvam reports a 73.9 eight-benchmark average at $0.15/M blended; all comparisons are publisher-run |
 | **Gemini 4 Neon** | Closed-weight mid-tier frontier model for complex coding, knowledge work, science, and higher-frequency agent workflows | Google reports a 1M-token context, API pricing of $3/M input and $15/M output ($0.15/M cached), and #3 on Artificial Analysis Intelligence Index at xhigh; benchmarks and rollout are publisher-reported |
 | **GPT-6.2 Astra** | Frontier model for demanding professional, scientific, and long-horizon work | OpenAI says API input/output prices are 20% below GPT-6 Astra ($8/$40 per million; $0.40 cached input); first externally released model at OpenAI's High AI self-improvement threshold; company benchmarks and risk ratings require independent evaluation |
@@ -71,7 +72,7 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **Frontier capability now has distinct access tiers.** Anthropic says Fable 5.2 is broadly available while Mythos 5.2 is gated through cybersecurity and life-sciences verification programs.
 - **Agent execution has a dedicated low-cost tier.** Meta positions Muse Ember for repeated tool calls, coding subtasks, routing, and document work rather than as a general replacement for its highest-capability model.
 - **Benchmark comparisons are workload-specific.** Vendor and benchmark-publisher results should be tested against the buyer's own harness, tools, and success criteria.
-- **Gemini 4 Neon remains the newest verified closed-frontier release (Nov 18); Sarvam-105B-1711 is the newest target-day open-weight checkpoint (Nov 22).** Sarvam updates an existing 105B model with agent, instruction-following, and Indic-language post-training; its price/performance claims are publisher-reported. Inkling 2 Mini and Ayb 0.5 remain Nov 20 releases, and Tencent Hy4 full weights arrived late Nov 19 CST under a custom license.
+- **GLM-5.4 is the newest verified Nov 23 model announcement, but not an open-weight release.** Z.ai describes a 750B base with a shared 28-layer block run twice; model access is through Z.ai products/Coding Plan, the API is forthcoming, and weights are only promised after safety hardening. The 2T–3T-comparable capability claim and 30B comparison are publisher-reported. Sarvam-105B-1711 remains the newest verified downloadable open-weight checkpoint in this local-day window (Nov 22); no Nov 23 weights/license were verified.
 - **GPT-6.2 Astra/Sol and Microsoft's seven-model Ignite wave remain the prior day's closed/hosted launches.** No same-day downloadable open-weight checkpoint and license were verified on Nov 18; do not count an API or product feature as an open-weight release.
 - **Qwen4-Max and Tencent Hy4 flash were hosted releases on Nov 16.** Tencent published Hy4 flash weights on Nov 17 CST under Tencent Hy License 1.0; the later full Hy4 weights release is tracked below as a Nov 19 CST event.
 - **Hy4 flash moved from hosted launch to downloadable weights on Nov 17 CST.** Tencent's 224B total / 12B active multimodal checkpoint uses the Tencent Hy License 1.0; its full 770B Hy4 weights followed late Nov 19 CST.
@@ -88,6 +89,13 @@ This section is the living summary. Keep it short, opinionated, and current. Whe
 - **No November 9 diffusion-language checkpoint was confirmed** in the targeted official-source check. Google's Gemini Diffusion remains described as an experimental demo, not a new dated release.
 
 ## Chronological Release Log
+
+### 2026-11-23 - Z.ai GLM-5.4 Loop Transformer announcement
+
+- **Source**: [Z.ai — GLM-5.4: Toward Generalized Coding with Our First Loop Transformer](https://z.ai/blog/glm-5.4) · [Nov 23 daily briefing](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-23.md)
+- **Architecture**: Z.ai says GLM-5.4 converts its pretrained GLM-5 base into a 750B Loop Transformer and runs a shared block of 28 layers for two iterations. Its headline comparison to 2T–3T-parameter models is a company claim; the post also describes an iso-parameter 30B experiment with roughly 10% more total training compute.
+- **Availability / openness**: Available through Z.ai’s GLM Coding Plan, ZCode, and chat product; API access is forthcoming. Z.ai says it plans to publish weights after necessary safety hardening. No downloadable weights or license were verified, so do not count GLM-5.4 as an open-weight release yet.
+- **Follow-up**: Check for the actual weight repository and license, independent matched benchmarks, serving cost/latency, and the reported tendency toward long “marathon thinking” loops.
 
 ### 2026-11-22 - Sarvam-105B-1711 open-weight checkpoint
 
