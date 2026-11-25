@@ -1,0 +1,18 @@
+---
+title: mini-psych-agent: Evaluating Human-Like Behavior in LLM Agents through Interactive Psychological Environments
+published: 2026-11-23T09:34:35Z
+authors: Yi-Fei Cao, Tianxin Huang, Hanbo Xie, Jian-Qiao Zhu
+url: http://arxiv.org/abs/2611.30365v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# mini-psych-agent: Evaluating Human-Like Behavior in LLM Agents through Interactive Psychological Environments
+
+## Abstract
+A Large Language Model (LLM), its harness, and the test-time compute budget jointly determine its behavior. Consequently, the same underlying model, embedded in different agentic workflows or allocated different amounts of test-time compute, can exhibit markedly different performance. Psychologists face an analogous challenge when evaluating human performance: the same person may behave differently under different incentives and levels of deliberation. Psychological tasks therefore provide an ideal testbed for studying such behavioral variation. However, when adapted to LLMs, these tasks are typically text-transcribed, replaying fixed, language-rendered experiments as static prompts. This format is ill-suited to agent evaluation, where actions can alter future observations and task states. Conversely, although dynamic environments are prevalent in the evaluation of LLM agents, they rarely ask whether the resulting behavior is human-like. Here, we bridge this gap by transforming psychological tasks into dynamic environments in which agents can interact and by using a learned human-policy model to evaluate how compatible the resulting behavioral trajectories are with human behavior. Across these environments, we find that this compatibility varies with an LLM's agentic configuration and the psychological task, and that memory raises it mainly by making choices more predictable rather than more human-like. These findings motivate a more holistic evaluation of LLM agents in psychology-inspired environments, accounting for both the backbone model and its agentic scaffold.
+
+## Metadata
+- **Published**: 2026-11-23T09:34:35Z
+- **Authors**: Yi-Fei Cao, Tianxin Huang, Hanbo Xie, Jian-Qiao Zhu
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.30365v1)

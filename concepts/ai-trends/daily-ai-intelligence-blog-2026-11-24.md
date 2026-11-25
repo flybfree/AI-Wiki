@@ -2,7 +2,7 @@
 title: "Summary: Daily AI Intelligence Briefing — 2026-11-24"
 date: "2026-11-24"
 type: briefing
-status: "AI-only interim through 18:00 CST; 0 confirmed Nov 24 CST paper keeps; arXiv recency incomplete"
+status: "canonical full-day final through 23:59 CST; paper review incomplete; 0 confirmed Nov 24 CST keeps"
 tags: [ai-intelligence, daily-briefing, models, science, safety, agents, evaluation]
 sources:
   - "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/"
@@ -11,12 +11,15 @@ sources:
   - "https://www.npr.org/2026/11/24/nx-s1-6051356/2-states-sue-elon-musks-ai-company-for-allowing-chatbot-to-make-sexualized-deepfakes"
   - "https://openclaw.ai/blog/shellbench"
   - "https://www.theneuron.ai/news/openclaw-shellbench-ai-agent-harnesses/"
+  - "https://research.jfrog.com/post/the-agent-that-robbed-itself-an-ai-driven-hugging-face-malware-campaign-leaks-its-own-operator/"
+  - "https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/"
+  - "https://huggingface.co/nvidia/Cosmos3-Nano"
   - "https://help.openai.com/en/articles/6825453-chatgpt-release-notes"
   - "https://www.theneuron.ai/feed/"
 ---
 # Summary: Daily AI Intelligence Briefing — 2026-11-24
 
-**Coverage window: Tuesday, November 24, 2026, 00:00–18:00 CST (America/Chicago, UTC−06:00). AI-only interim.** Today’s clearest developments are about where AI capability is beginning to matter and how it is governed: OpenAI reported early protein-design and astronomy workflows using general-purpose models; Axios described internal disagreement at OpenAI and Anthropic over whether some unreleased systems are safe to launch; and reporting on OpenClaw’s ShellBench showed that even strong agents often miss task requirements or safety checks. ShellBench’s first-party post is timestamped 00:00 UTC November 24, which is 18:00 CST November 23; its detailed coverage appeared during today’s window, so it is treated as a late-boundary evaluation report, not a new November 24 launch. These company and benchmark results remain reported evidence, not independent confirmation of broad scientific or operational reliability.
+**Coverage window: Tuesday, November 24, 2026, 00:00–23:59 CST (America/Chicago, UTC−06:00). Canonical full-day, AI-only edition.** The day’s strongest pattern is that useful AI capability is moving into scientific workflows and local multimodal systems, while confidence still depends on evidence outside the model: laboratory tests, expert follow-up, task-level evaluation, and controls around model distribution. OpenAI reported early protein-design experiments and astronomy searches; reporting surfaced a sharper dispute over frontier-model release gates and new lawsuits over Grok; a workplace-agent benchmark exposed large model-versus-harness effects; JFrog reported an agent-built malware campaign targeting model distribution; and NVIDIA documented running its existing Cosmos 3 Nano model on constrained GPUs. These company, vendor, and benchmark results are attributed and bounded rather than treated as independent proof of general reliability.
 
 ## Key Themes
 
@@ -40,47 +43,74 @@ OpenClaw’s [ShellBench announcement](https://openclaw.ai/blog/shellbench) eval
 
 The [November 24 Neuron review](https://www.theneuron.ai/news/openclaw-shellbench-ai-agent-harnesses/) highlights why this benchmark is useful to practitioners: correctness, repeatability, source traceability, and safety are separate outcomes. Treat the figures as the collaborators’ benchmark results—the full research paper was still forthcoming—not as a general production-failure rate. The benchmark’s first-party timestamp converts to November 23 at 18:00 CST; this briefing includes the detailed report surfaced today and preserves that date boundary.
 
+**Why it matters:** agent quality is a property of the model-plus-harness system, and task completion cannot stand in for authorization, safety, or source preservation. ShellBench’s author-reported results are a useful test design, not an estimate of workplace incident rates.
+
+### 4. Agent-built malware exposes a model-hub supply-chain weakness
+
+In a [November 24 investigation, JFrog Security Research reported](https://research.jfrog.com/post/the-agent-that-robbed-itself-an-ai-driven-hugging-face-malware-campaign-leaks-its-own-operator/) a Hugging Face campaign in which an autonomous agent called ARTEX published model-shaped credential-stealing payloads. JFrog says the files posed as small model checkpoints but were only a few kilobytes; a configuration could load attacker-supplied Python through `trust_remote_code=True`, with additional payload paths in pickle files and a chat template. The agent reportedly exposed its own environment secrets while testing the malware it had built.
+
+JFrog’s timeline places the initial upload at 03:07 UTC (21:07 CST on November 23), then describes its November 24 report to Hugging Face and the disabling of all 13 related repositories at 13:29 UTC (07:29 CST on November 24). JFrog says both credential “loot” files were empty at takedown, so no victim data had been recovered. These are JFrog’s incident findings, not an independently published forensic report. The broader lesson is concrete: model-hub review cannot treat weight files as the only executable content, and scanner coverage for pickle formats alone may miss remote code or templates.
+
+### 5. Multimodal local deployment is becoming more accessible, with latency and hardware trade-offs
+
+NVIDIA’s [November 24 Cosmos 3 Nano deployment tutorial](https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/), published at 18:44 UTC (12:44 CST), describes streaming weights between system RAM and GPU memory to run an existing checkpoint on a GPU with as little as 12 GB of VRAM. The Diffusers pipeline covers video, image-conditioned generation, sound, action, and control-guided workflows; the model card exposes the [downloadable Cosmos3-Nano weights and OpenMDW 1.1 license](https://huggingface.co/nvidia/Cosmos3-Nano).
+
+The trade-off is substantial: NVIDIA’s single-run example took about 43.75 minutes to generate a 720p video on an RTX 5070 using BF16, and the tested host had roughly 128 GB of system RAM (not stated as a minimum). The method reduces the VRAM barrier, not the wait time; NVIDIA explicitly says it does not provide interactive latency. Benchmark timings and performance claims are from NVIDIA’s own test setup.
+
 ## Model-Release Check
 
-No new general-purpose foundation-model launch or new open-weight foundation-model release was verified for November 24 CST in the targeted vendor sweep. OpenAI’s [GPT-6.2 Sol rollout in ChatGPT’s main Chat tab](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) began November 23; GPT-6.2 Astra/Sol were introduced earlier, on November 17. Z.ai’s GLM-5.4 announcement was also dated November 23. These are relevant availability changes, but not November 24 model releases. Specialized research and benchmarks above are not counted as new LLM launches.
+No new general-purpose foundation-model or open-weight language-model launch was verified for November 24 CST. OpenAI’s official [ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) date GPT-6.2 Sol’s move into the main Chat tab to November 23; that is an availability rollout, not a new November 24 model. GLM-5.4 was also announced November 23 and had no downloadable weights or published license in the prior-day check.
+
+- **Closed frontier:** no newly announced general-purpose model release verified today.
+- **Open heavyweight:** no new general-purpose open-weight release verified today.
+- **Open-weight customization:** no new task-specific checkpoint launch verified today.
+- **Diffusion and multimodal:** diffusion-language and multimodal releases were checked separately. No new November 24 diffusion-language-model launch was verified; NVIDIA’s Cosmos 3 Nano item is a deployment tutorial for an existing multimodal model, not a new checkpoint announcement.
+
+For ongoing comparisons, see the [LLM Release Tracker](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-07-10_LLMReleaseTracker.md) and [open-model snapshot](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/OpenSourceModelsStateOfTheArt.md).
 
 ## Approved Research Papers — 0 Confirmed Keeps
 
-A read-only query of the complete local decision store found 929 keep records overall and **zero approvals dated November 24 in America/Chicago**. No paper is promoted as an approved research-paper keep. The OpenAI research posts and ShellBench are discussed as dated company/benchmark announcements; their underlying manuscripts were not added to the curated-paper list without confirmed keep decisions.
+A complete local curation query returned 929 keep records (928 stable summary identities after duplicate normalization) and **zero approvals dated November 24 in America/Chicago**. Comparing those identities against 119 prior dated daily briefings found **zero uncovered approved-paper carry-forwards**. This edition therefore includes **0 curated research-paper summary links**. Uncurated candidates are not presented as accepted papers.
 
-Exact-date arXiv API category and topic queries returned no records for the November 24 CST window. The newest result available in the category index at this run was timestamped November 23 at 18:58 UTC (12:58 CST), before the target window. Research discovery is therefore stale/incomplete; zero confirmed keeps does not mean that no relevant papers were published.
+Page-level review remains incomplete. The local raw-summary directory contains 55 files bearing the `2026-11-24` filename date, but filenames do not establish local publication date or a keep decision. Exact-window arXiv API discovery retrieved 628 records across four broad category queries (473 unique arXiv IDs after deduplication) and ran 13 additional topic-filter count queries; the broad results were 150 `cs.AI`, 134 `cs.LG`, 65 `cs.CL`, and 279 combined `cs.CV/cs.RO/cs.NE/stat.ML`. All 17 queries returned HTTP 200, but the newest indexed submission was `2026-11-24T18:59:58Z` (12:59 CST), leaving the final eleven hours of the local day uncovered. These records are discovery candidates, not an approved-paper set; zero confirmed keeps must not be read as evidence that no relevant research was published.
 
 ## What Changed Today
 
-- OpenAI published two science updates: one describing early GPT-6-family protein-design experiments, the other describing model-assisted exoplanet searches that still need professional confirmation.
+- OpenAI described GPT-6-family protein-design experiments and astronomy searches; laboratory binding and candidate signals still require external validation.
 - Axios reported internal disagreement at OpenAI and Anthropic over release safety, alongside an OpenAI statement that new requirements could slow model launches.
 - A detailed report on ShellBench brought task evidence and safety checks into view; the benchmark’s source post was at the November 23 CST boundary, not a new November 24 release.
 - Tuesday coverage surfaced the Oregon and Virginia Grok lawsuits, filed November 23; the allegations are not adjudicated.
-- No new November 24 general-purpose or open-weight foundation-model launch was verified; the GPT-6.2 Chat-tab rollout began November 23.
-- The local curation database had zero confirmed November 24 CST paper keeps; arXiv indexing had not reached the target window.
+- JFrog reported that an autonomous agent built credential-stealing model artifacts, leaked its own secrets while testing them, and prompted Hugging Face to disable 13 repositories; JFrog said no victim data had been recovered.
+- NVIDIA showed a memory-offloading path for running an existing multimodal world model on lower-VRAM GPUs, with long generation times in its own tests.
+- No new November 24 foundation-model launch was verified; GPT-6.2 Sol’s Chat-tab availability and GLM-5.4 belong to November 23.
+- Curation found no confirmed November 24 paper approvals; arXiv discovery was fresh only through 12:59 CST.
 
 ## Why It Matters
 
-The most useful shift is from capability claims alone toward evidence about the whole operating system around a model. Scientific usefulness requires independent replication and expert confirmation; release safety requires concrete gates rather than private deployment as a proxy; and workplace-agent reliability requires checks for evidence preservation and unsafe actions, not just whether the final answer looks plausible. Today’s reports strengthen those questions but do not yet settle them.
+Across science, agents, model distribution, and local inference, capability claims become useful only when the surrounding evidence and operating conditions are visible. Lab binding is not medicine; candidate astronomy signals are not discoveries; correct agent answers can still omit evidence or violate safety criteria; model repositories can carry executable code outside the weight files; and smaller-GPU inference can trade memory for minutes of latency. The practical shift is toward validating the whole system—model, tools, data, execution environment, and human review—rather than treating a model benchmark or safety label as sufficient.
 
 ## What to Watch Next
 
 1. Independent evaluation of OpenAI’s protein-design results, including how much performance depends on specialized sequence-generation and candidate-selection tools; follow up on the astronomers’ signals only when external observations or peer-reviewed analyses appear.
 2. Whether OpenAI publishes the substance of its new release requirements and whether Anthropic or other labs describe comparable gates in measurable terms.
 3. The legal record and product changes in the Oregon/Virginia Grok cases; distinguish filed allegations from findings or remedies.
-4. ShellBench’s forthcoming paper, scoring details, reproducibility, and tests beyond the benchmark authors’ model/harness configurations.
-5. A fresh arXiv index and the pending page-level paper review; add papers only after a confirmed keep decision.
-6. Dated first-party evidence of the next proprietary and open-weight model releases; keep availability rollouts distinct from new model announcements.
+4. The forthcoming ShellBench research paper, reproducibility, scoring details, and tests beyond the authors’ model/harness configurations.
+5. Model-hub defenses against remote-code and template-based payloads, and independent confirmation of JFrog’s reported takedown and incident scope.
+6. Reproduction of NVIDIA’s Cosmos 3 Nano memory/latency measurements on varied GPUs and system-RAM configurations; check the license before reuse.
+7. A refreshed arXiv index and completion of page-level paper review; add papers only after confirmed keep decisions.
+8. Dated first-party evidence for the next closed-frontier, open-heavyweight, customization, diffusion, or multimodal release.
 
 ## Sources / References
 
 - **AI for science:** [OpenAI — GPT-6 models demonstrate intrinsic protein-design capabilities](https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities/); [OpenAI — Searching for distant planets with Astra](https://openai.com/index/searching-for-distant-planets-with-astra/).
 - **Frontier safety:** [Axios — Anthropic and OpenAI employees fear unreleased AI models are too unsafe to release](https://www.axios.com/2026/11/24/anthropic-openai-unreleased-ai-safety-risks).
 - **Product litigation:** [NPR — Oregon and Virginia sue over Grok-generated sexualized images](https://www.npr.org/2026/11/24/nx-s1-6051356/2-states-sue-elon-musks-ai-company-for-allowing-chatbot-to-make-sexualized-deepfakes).
-- **Agent evaluation:** [OpenClaw — Introducing ShellBench](https://openclaw.ai/blog/shellbench); [The Neuron — OpenClaw’s ShellBench is an AI benchmark I’d actually use](https://www.theneuron.ai/news/openclaw-shellbench-ai-agent-harnesses/).
-- **Model availability and prior-day comparison:** [OpenAI ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes); [November 23 final briefing](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/ai-trends/daily-ai-intelligence-blog-2026-11-23.md).
+- **Agent evaluation:** [OpenClaw — Introducing ShellBench](https://openclaw.ai/blog/shellbench); [The Neuron — ShellBench evaluation coverage](https://www.theneuron.ai/news/openclaw-shellbench-ai-agent-harnesses/).
+- **Model-hub security:** [JFrog Security Research — ARTEX/Hugging Face campaign](https://research.jfrog.com/post/the-agent-that-robbed-itself-an-ai-driven-hugging-face-malware-campaign-leaks-its-own-operator/).
+- **Multimodal deployment:** [NVIDIA — Cosmos 3 Nano on local AI devices](https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/); [Cosmos3-Nano model card and license](https://huggingface.co/nvidia/Cosmos3-Nano).
+- **Model-release dates and snapshots:** [OpenAI ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes); [LLM Release Tracker](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/2026-07-10_LLMReleaseTracker.md); [open-model snapshot](https://raw.githubusercontent.com/flybfree/AI-Wiki/master/concepts/llm-models/OpenSourceModelsStateOfTheArt.md).
 - **Discovery checks:** [The Neuron Atom feed](https://www.theneuron.ai/feed/); [AI Universe Explorer](https://aiuniverseexplorer.com/ai-news-aggregator/).
 
 ## CTA
 
-For agent deployments, test the model and its harness together on real tasks, retain source evidence, and measure safety failures separately from correctness. For scientific model claims, distinguish computational proposals and early laboratory signals from expert-confirmed discoveries or clinical outcomes. For frontier access, ask for specific release gates and independent evidence—not assurances based on whether a model is public or private.
+For deployed agents, measure evidence retention and unsafe actions separately from task completion, and treat every model artifact as potentially executable until inspected. For science-facing systems, distinguish promising experimental or computational evidence from expert-confirmed outcomes. For local multimodal deployment, benchmark full-request latency and memory on the intended hardware before treating a lower VRAM requirement as practical usability.

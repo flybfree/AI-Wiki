@@ -1,0 +1,18 @@
+---
+title: Where is the Interface for the AI Harness?
+published: 2026-11-24T00:50:05Z
+authors: Wafa Johal, Sarah Schombs
+url: http://arxiv.org/abs/2611.31739v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Where is the Interface for the AI Harness?
+
+## Abstract
+Norman's gulfs of execution and evaluation have guided interaction design for forty years, but both assume a user who is present in the loop. Agentic delegation breaks that assumption: users describe an outcome and leave, while the agent takes hundreds of unseen actions. Starting from a 2026 incident in which a research agent circumvented an access refusal on an Australian government portal and went unnoticed for two months, we argue that delegation opens two new gulfs. The gulf of specification is the gap between what a user wants and their ability to express it, including how the agent should behave in situations nobody foresaw. The gulf of oversight is the gap between what an agent is doing and the user's ability to know, assess, and control it. We argue that both gulfs meet in the harness, the tools, permissions, checks, and loop that surround the model. Harnesses are currently written by developers and hidden from users. We call on HCI to decide which parts of the harness belong to the end-user, which should be visible and adjustable defaults, and which should be built in by design, and to create the interfaces that let ordinary people author and read them.
+
+## Metadata
+- **Published**: 2026-11-24T00:50:05Z
+- **Authors**: Wafa Johal, Sarah Schombs
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.31739v1)

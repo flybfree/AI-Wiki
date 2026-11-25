@@ -1,0 +1,18 @@
+---
+title: Single-Coordinate Activation Steering for Controllable Social Stance in Language Models
+published: 2026-11-22T16:06:21Z
+authors: Naman Chawla, Chhavi Dhiman
+url: http://arxiv.org/abs/2611.29578v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Single-Coordinate Activation Steering for Controllable Social Stance in Language Models
+
+## Abstract
+Steering one neuron of a small language model can impose a topic or a quirk without training, yet replications show that many published single-neuron recipes are fragile or nonspecific. This paper asks whether an interpersonal stance can be controlled in this manner. The stance studied is a distant crush, a chatbot character that is guarded, intermittently warm and inconsistent. In Qwen3.5, 4B, contrasting activations on hand-written guarded and eager replies identified neuron 7515 of layer 9 as a candidate for controlling this stance. Increasing this neuron activation made the characters replies more distant. Three language models rated this change as stronger than the effects of changing randomly selected neurons, and a blind human comparison supported the finding. Changing the interventions direction between messages also shifted replies between warmer and more distant styles. This suggests that a language model conversational stance can be personalized without finetuning.
+
+## Metadata
+- **Published**: 2026-11-22T16:06:21Z
+- **Authors**: Naman Chawla, Chhavi Dhiman
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.29578v1)

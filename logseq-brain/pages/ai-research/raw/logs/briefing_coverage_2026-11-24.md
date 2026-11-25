@@ -1,8 +1,8 @@
 # Briefing coverage audit — 2026-11-24
 
-- **Status:** AI-only interim briefing through Tuesday, November 24, 2026, 18:00 CST (America/Chicago, UTC−06:00).
+- **Status:** canonical full-day, AI-only final for Tuesday, November 24, 2026, 00:00–23:59 CST (America/Chicago, UTC−06:00).
 - **Canonical briefing:** `concepts/ai-trends/daily-ai-intelligence-blog-2026-11-24.md`.
-- **Local target-day corpus:** No `2026-11-24`-dated raw article, summary, or paper files were present in the wiki intake when checked. The briefing was built from the dated primary-source and discovery sweep, not from a populated local capture set.
+- **Local target-day corpus:** No raw article captures were named `2026-11-24`; the intake contains five raw paper captures and 55 generated raw summaries bearing that filename date. Filename date is not a local publication date or a curation decision. The briefing combines the verified primary-source/news sweep with the available local intake.
 
 ## Search and source coverage
 
@@ -10,6 +10,7 @@
 - **Company/newsroom checks:** OpenAI’s dated newsroom contained two November 24 science posts, both fetched and reviewed. OpenAI’s ChatGPT release notes were checked for the GPT-6.2 Chat-tab rollout date. Other named-vendor searches produced no verified November 24 general-purpose or open-weight model launch in the scoped search.
 - **The Neuron Atom feed:** Parsed 10 entries and converted UTC publication timestamps to CST before classifying. The OpenClaw ShellBench explainer was published November 24 at 11:21 CST and is included as a target-day report. The DeepMind superintelligence explainer references a November 19 essay; the Jensen Huang item concerns the November 23 board announcement; the NHS screening item traces to a 2025 trial announcement; those were not represented as new November 24 events. The digest page titled November 24 was published November 23 at 21:22 CST and was treated as a prior-date source, not as a target-day event list.
 - **AI Universe Explorer:** Reviewed its live aggregator page. It contained many duplicate/syndicated entries, including OpenAI’s previously covered perplexity proposal, and no additional target-day claim was included without stronger date/source verification. The aggregator was used as discovery, not authority.
+- **Full-day follow-up provenance:** The prior 18:00 CST interim recorded 46 direct Brave-backed queries. For this midnight completion, `BRAVE_SEARCH_API_KEY` was absent from both the process environment and `/home/rich/.env`; additional keyless general-search results were used only as discovery leads, not represented as Brave results. JFrog’s report and NVIDIA’s Cosmos tutorial were checked against their primary pages, and official OpenAI release notes and newsroom pages were checked directly. NVIDIA’s article is timestamped `2026-11-24T18:44:05Z` (12:44 CST). JFrog’s page is date-only, but its timeline records Hugging Face disabling the repos at 13:29 UTC (07:29 CST), so the report’s takedown update is inside the target local day; the campaign’s first uploads were on Nov 23 CST.
 - **Duplicates/date boundaries:** The Neuron’s Jensen Huang coverage repeats the November 23 board action already in the prior-day briefing. Amazon’s official Decart purchase announcement is timestamped November 23 at 13:46:59 UTC (07:46:59 CST), so it was not counted as a November 24 event. The primary OpenClaw ShellBench article’s `article:published_time` is `2026-11-24T00:00:00Z`, which is November 23 at 18:00 CST; its detailed Neuron report is from November 24. The briefing labels this as a late-boundary report and does not call it a new November 24 launch. OpenAI’s GPT-6.2 Sol Chat-tab rollout is dated November 23 in official release notes; GPT-6.2 was introduced November 17. Z.ai’s GLM-5.4 announcement was dated November 23. None is counted as a November 24 model release.
 
 ## Classification before inclusion
@@ -35,16 +36,17 @@
 
 ## Research-paper curation and discovery
 
-- Read-only query of `/home/rich/wiki/ai-research/.curation/review.sqlite3` returned **929 keep rows overall** and **0 keep approvals dated November 24 in America/Chicago**. The latest keep timestamp is `2026-11-23T00:25:04.115167+00:00` (November 22, 18:25 CST). The prior November 23 audit recorded 0 November 23 keeps and 0 uncovered approved identities; the current database still has 929 rows. Thus the November 24 briefing has **0 approved-paper links and 0 uncovered approved carry-forwards**. Uncurated candidates are not represented as keeps.
-- Five exact-date arXiv API queries covered broad `cs.AI/cs.LG/cs.CL` and adjacent `cs.CV/cs.RO/stat.ML/cs.NE` categories plus targeted agents/tool use, reasoning/evaluation/oversight, and diffusion/multimodal/world-model terms. Each exact-window query returned `totalResults=0`. A general `cat:cs.AI` freshness check returned a latest entry timestamped `2026-11-23T18:58:52Z` (November 23, 12:58 CST), before the target window. The index is stale for this run; zero returned records are not evidence that no relevant papers exist.
-- Paper curation is incomplete at the page-review level. Only confirmed `keep` decisions are eligible for the approved-paper section; none was found for November 24.
+- Read-only query of `/home/rich/wiki/ai-research/.curation/review.sqlite3` returned **929 keep rows**, normalized to **928 stable summary identities**, and **0 keep approvals dated November 24 in America/Chicago** after converting timestamps from their stored timezone. The latest keep timestamp is `2026-11-23T00:25:04.115167+00:00` (November 22, 18:25 CST). Stable-identity and canonical-path reconciliation across **119 prior dated daily briefings** found **0 uncovered approved carry-forwards**; three older `entities/paper/` summaries were resolved to their extant paths. The selected-paper count and canonical summary-link count are both **0**. Uncurated candidates are not represented as keeps.
+- Exact local-date arXiv window: `202611240600`–`202611250559` UTC. Four broad category queries returned HTTP 200 and retrieved 628 records: `cs.AI` 150, `cs.LG` 134, `cs.CL` 65, and combined `cs.CV OR cs.RO OR cs.NE OR stat.ML` 279. Deduplication by arXiv ID yielded **473 unique records**. Thirteen additional targeted topic-filter count queries (world models, agents, tool use, memory, reasoning, LLMs, quantization, open source, self-improvement, fine-tuning, benchmarks, diffusion, multimodal) also returned HTTP 200. The newest indexed record was `2026-11-24T18:59:58Z` (12:59 CST), leaving the final eleven hours of the target local day uncovered. Research discovery is incomplete and these are discovery candidates, not paper approvals.
+- Page-level curation remains incomplete. The 55 raw summary files bearing the `2026-11-24` filename date were not treated as approved solely on filename or summary presence. Only confirmed `keep` decisions are eligible; none converted to November 24 CST.
 
 ## Publication and synchronization
 
-- **Wiki:** Created the interim briefing and this coverage audit. Updated the root index, both topic indexes, the daily-variants rollup, and the wiki log.
-- **Logseq:** Seven scoped files were copied to both `/home/rich/wiki/ai-research/logseq-brain/pages/ai-research/` and `/home/rich/logseq-brain/pages/ai-research/`; all 14 source-to-mirror SHA-256 comparisons passed before the push.
-- **GitHub:** The user explicitly authorized push. The required command is `bash /home/rich/.hermes/scripts/wiki_git_push.sh` from `/home/rich/wiki/ai-research`; successful completion requires exit code 0, local/remote branch equality, and a clean worktree. The exact result is reported in the run completion message.
-- **External website:** No WordPress/Lumistorm post was requested for this 18:00 interim wiki update; no public-site write was attempted.
+- **Wiki:** Finalized the dated briefing and this audit; updated the root index, both topic indexes, the daily-variants rollup, and the wiki log.
+- **Logseq:** Final scoped sync covered 7 files across `/home/rich/wiki/ai-research/logseq-brain/pages/ai-research/` and `/home/rich/logseq-brain/pages/ai-research/`; all 21 source/mirror and mirror-to-mirror SHA-256 byte comparisons passed after the final updates.
+- **GitHub:** Sync is blocked pending Rich’s review and explicit approval. No commit or push was made; `wiki_git_push.sh` was not invoked.
+- **Lumistorm:** Authenticated user preflight returned HTTP 200; slug was absent before the write; existing `Daily AI Briefing` category ID 5 was reused. Created post **#260**, status `publish`, at https://lumistorm.net/daily-ai-intelligence-2026-11-24/. REST read-back returned the exact slug, published status, category 5, and all 12 expected source links. The cache-busted public page returned HTTP 200 with the target date and all 12 links, with no raw wiki syntax. `/blog/` returned HTTP 200 and listed this post first.
+- **Logseq parity:** Final scoped sync covers the dated briefing, this audit, both indexes, GitHub-facing index, daily-variants rollup, and wiki log. Byte/hash verification after the final audit/index/log updates is recorded in the completion report.
 
 ## Primary references
 
@@ -55,4 +57,7 @@
 - [OpenClaw — ShellBench benchmark](https://openclaw.ai/blog/shellbench)
 - [The Neuron — ShellBench evaluation coverage](https://www.theneuron.ai/news/openclaw-shellbench-ai-agent-harnesses/)
 - [OpenAI ChatGPT release notes](https://help.openai.com/en/articles/6825453-chatgpt-release-notes)
+- [JFrog Security Research — ARTEX/Hugging Face campaign](https://research.jfrog.com/post/the-agent-that-robbed-itself-an-ai-driven-hugging-face-malware-campaign-leaks-its-own-operator/)
+- [NVIDIA — Cosmos 3 Nano on local AI devices](https://developer.nvidia.com/blog/how-to-run-nvidia-cosmos-3-on-local-ai-devices-using-hugging-face-diffusers/)
+- [NVIDIA Cosmos3-Nano model card and license](https://huggingface.co/nvidia/Cosmos3-Nano)
 - [The Neuron Atom feed](https://www.theneuron.ai/feed/) · [AI Universe Explorer](https://aiuniverseexplorer.com/ai-news-aggregator/)

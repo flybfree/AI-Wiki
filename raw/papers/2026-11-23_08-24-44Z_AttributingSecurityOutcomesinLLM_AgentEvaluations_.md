@@ -1,0 +1,18 @@
+---
+title: Attributing Security Outcomes in LLM-Agent Evaluations: The Role of Content-Free State
+published: 2026-11-23T08:24:44Z
+authors: Abdelmonaim Bounite, Zangir Iklassov
+url: http://arxiv.org/abs/2611.30259v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Attributing Security Outcomes in LLM-Agent Evaluations: The Role of Content-Free State
+
+## Abstract
+Security benchmarks for LLM agents record whether each attack succeeded and compare agents, attacks, and defenses by attack success rate (ASR). Such comparisons are valid only if the agent, the attack, and the defense cause each verdict. We show that verdicts also depend on content-free state: details of a run that carry no information about the system under test, such as the Python hash seed, the order of tools or evidence, and the scoring of failed runs. We require that this state influence no verdict (decision noninterference) and treat it as untrusted input, because evaluators and requesters of LLM-based gates can choose it. Our framework, TARE (Testing Attribution of Reported Effects), attributes a reported effect to the agent, attack, or defense only if it exceeds the measured influence of content-free state. On Agent Security Bench (ASB), runs with a fixed hash seed are identical for seven agents from four model families, yet changing the seed changes up to 17% of an agent's verdicts while the ASR moves by at most 5 points. The seed acts through the tool order: sorting the tool list instead of reverse-sorting it raises the ASR by up to 19 points, because ASB's naming convention places attacker tools first. When the same evidence is reordered, six of seven LLM judges change their decision on 17-91% of 98 proposed actions. Across eighteen agent-defense combinations, TARE's worst-case test attributes effects to two of three defenses, one of them in opposite directions on two agents, and a test fixed in advance confirms a 4.8-point decrease from the third; in the attributed decreases, 35-69% of the stopped attacks end without any tool call, which ASB counts as a failed attack. Reproducible verdicts are thus not necessarily attributable, and security evaluations of LLM agents should report the influence of content-free state. We release TARE, the ASB patch, and all verdict tables.
+
+## Metadata
+- **Published**: 2026-11-23T08:24:44Z
+- **Authors**: Abdelmonaim Bounite, Zangir Iklassov
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.30259v1)
