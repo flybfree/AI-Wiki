@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-24
+> Last updated: 2026-11-25
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -96,6 +96,7 @@ tags: ['wiki']
 - [[entities/article/2026-11-19_HowOpenAI_sPerformanceFactorykeepsChatGPTfast_summary.md|Summary: How OpenAI’s Performance Factory keeps ChatGPT fast]] — production agent workflow, adversarial checks, human deployment review, and outcome verification
 
 ## Concepts
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-25.md|Summary: Daily AI Intelligence Briefing — 2026-11-25]] — interim through 18:00 CST; DeepMind mass-spectrometry skills, agent containment and California litigation, Sakana/Amini specialist models, and AI-infrastructure financing; 0 Nov 25 CST paper keeps; arXiv coverage incomplete
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-24.md|Summary: Daily AI Intelligence Briefing — 2026-11-24]] — canonical full-day final; OpenAI AI-for-science, frontier release-safety debate and Grok litigation, ShellBench, JFrog’s agent-built model-hub malware report, and NVIDIA Cosmos 3 Nano local deployment; 0 confirmed paper keeps/0 uncovered carry-forwards; arXiv partial through 12:59 CST; [Lumistorm post #260](https://lumistorm.net/daily-ai-intelligence-2026-11-24/) published and verified
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-23.md|Summary: Daily AI Intelligence Briefing — 2026-11-23]] — canonical full-day final; GLM-5.4 and DeepCrossAttention, RoboTrack open checkpoints/benchmark, agent data exposure and Shirudo, Google file slicing/personalization, AI-assisted science, and NVIDIA/Paradromics; 0 confirmed Nov 23 CST paper keeps, review incomplete; Lumistorm post #259 verified
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-22.md|Summary: Daily AI Intelligence Briefing — 2026-11-22]] — canonical full-day final; inference-provider privacy enforcement, OpenAI pretraining-metric proposal, Sarvam-105B-1711 open weights, grid/policy constraints, industrial-cyber testing, and 4 confirmed research papers; Brave unavailable, arXiv recency stale
