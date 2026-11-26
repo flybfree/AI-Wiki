@@ -1,0 +1,18 @@
+---
+title: Calm Agent: Reframing Agent Interaction around Intermittent Human Attention
+published: 2026-11-24T05:56:02Z
+authors: Dian Jin, Zixun Fu, Guan Wang, Yancheng Yuan
+url: http://arxiv.org/abs/2611.32009v1
+type: paper-summary
+tags: [paper-summary, arxiv]
+---
+
+# Calm Agent: Reframing Agent Interaction around Intermittent Human Attention
+
+## Abstract
+AI agents can carry out auxiliary tasks while users focus on other work. Yet users still need to understand task state, make changes, and respond when help is required. We argue that agents for ongoing auxiliary tasks should be designed around intermittent human attention: tasks should continue between interactions, and users should be able to return with little effort to understand and control them. We develop this position as Calm Agent. It connects three on-demand interaction modes: Delegate, Adjust, and Check, through a persistent task representation. Generative interaction provides controls and feedback suited to open-ended goals, while existing controls support routine actions. We illustrate these principles with Orvlet, a desktop prototype for background execution and compact task interfaces. We identify challenges in adapting interfaces while preserving continuity, coordinating attention across tasks, providing responsive interaction, and learning user habits over time. The aim is to support continuing task control while protecting attention for primary work.
+
+## Metadata
+- **Published**: 2026-11-24T05:56:02Z
+- **Authors**: Dian Jin, Zixun Fu, Guan Wang, Yancheng Yuan
+- **Source**: [ArXiv Link](http://arxiv.org/abs/2611.32009v1)
