@@ -43,12 +43,12 @@ This is a bounded search result, not proof that no model was announced anywhere 
 
 ## Date-Qualified Items from the Rolling Intake
 
-The [The Neuron Atom feed](https://www.theneuron.ai/digest/feed/) entry for November 26 was updated at 17:01 CST, but its date label did not make every linked item a November 26 event. Its original publication timestamp converts to November 25 at 19:07 CST. The most prominent linked items were checked and excluded from today’s event count when their source dates fell outside this window:
+[The Neuron Atom feed](https://www.theneuron.ai/digest/feed/) entry for November 26 was updated at 17:01 CST, but its date label did not make every linked item a November 26 event. Its original publication timestamp converts to November 25 at 19:07 CST. The most prominent linked items were checked and excluded from today’s event count when their source dates fell outside this window:
 
 - Anthropic’s [Messages API migration to Rust](https://www.anthropic.com/research/migrating-api-to-rust) carries a first-party publication timestamp of November 25 at 00:00 UTC, which is November 24 at 18:00 CST.
-- OpenAI’s [Private Inference pilot](https://x.com/sama/status/2125638790593274259) and the shared ChatGPT/Codex usage-limit coverage were dated November 25 in their source reporting.
-- Amazon–Meta discussions about shopping-agent access were reported November 25; Ant Group’s Ling-3.2-air was announced earlier in the week. These are not November 26 launches.
-- New York’s AI-chatbot-toy moratorium was signed November 24, not November 26.
+- OpenAI’s [Private Inference pilot](https://x.com/sama/status/2125638790593274259) and [shared ChatGPT/Codex usage-limit report](https://techcrunch.com/2026/11/25/openai-says-heavy-chatgpt-users-may-hit-limits-sooner-as-it-merges-chat-and-work/) were dated November 25 in their source reporting.
+- [Amazon–Meta shopping-agent talks](https://the-decoder.com/amazon-and-meta-are-in-talks-to-end-the-block-on-metas-ai-shopping-agent-muse-in-amazons-online-store/) were reported November 25. Ant Group’s [Ling-3.2-air model card](https://huggingface.co/inclusionAI/Ling-3.2-air) was updated November 24 UTC, and contemporary reporting dates its announcement to November 23; neither is a November 26 launch.
+- The [New York Governor’s office](https://www.governor.ny.gov/news/consumers-begin-their-holiday-shopping-season-governor-hochul-signs-five-year-ban-ai-chatbot) dates the AI-chatbot-toy moratorium signing to November 24, not November 26.
 
 The feed remains useful for discovery, but source timestamps and original release records take precedence over roundup labels.
 
