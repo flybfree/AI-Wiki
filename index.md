@@ -9,7 +9,7 @@ tags: ['wiki']
 
 **Source**: [Original Article](https://github.com/flybfree/AI-Wiki/wiki)
 > Content catalog for AI Intelligence.
-> Last updated: 2026-11-26
+> Last updated: 2026-11-27
 ## Self Improving AI Loops
 - [[concepts/self-improving-ai-loops/2026-06-10_Self-Improving-AI-Loops.md|Self-Improving AI Loops]] — module overview and core concepts
 - [[concepts/self-improving-ai-loops/2026-06-10_Lesson1_ParadigmShift.md|Lesson 1: The Paradigm Shift — From Prompting to Loops]] — hierarchy of leverage, three failure modes, Ralph loops, inner/outer loop
@@ -96,7 +96,8 @@ tags: ['wiki']
 - [[entities/article/2026-11-19_HowOpenAI_sPerformanceFactorykeepsChatGPTfast_summary.md|Summary: How OpenAI’s Performance Factory keeps ChatGPT fast]] — production agent workflow, adversarial checks, human deployment review, and outcome verification
 
 ## Concepts
-- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-26.md|Summary: Daily AI Intelligence Briefing — 2026-11-26]] — canonical full-day AI-only final; GigaChat 4’s split-license open weights, Kandinsky/Ming image-video updates, DeepL Aure v2, NVIDIA Parse data/recipe release, and Reuters’ attributed China compute/distillation report; 0 target-day keeps/0 uncovered carry-forwards; Brave/arXiv discovery incomplete; [Lumistorm post #262](https://lumistorm.net/daily-ai-intelligence-2026-11-26/) published/verified
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-27.md|Summary: Daily AI Intelligence Briefing — 2026-11-27]] — AI-only interim through 18:00 CST; KVAE-3.0 specialist tokenizers and an LTX-2.5/Trainium3 engineering result; no verified target-day general-purpose frontier launch or paper keep; local capture scan empty and arXiv coverage stale
+|- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-26.md|Summary: Daily AI Intelligence Briefing — 2026-11-26]] — canonical full-day AI-only final; GigaChat 4’s split-license open weights, Kandinsky/Ming image-video updates, DeepL Aure v2, NVIDIA Parse data/recipe release, and Reuters’ attributed China compute/distillation report; 0 target-day keeps/0 uncovered carry-forwards; Brave/arXiv discovery incomplete; [Lumistorm post #262](https://lumistorm.net/daily-ai-intelligence-2026-11-26/) published/verified
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-25.md|Summary: Daily AI Intelligence Briefing — 2026-11-25]] — canonical full-day final through 23:59 CST; DeepMind scientific tools, agent boundaries and litigation, specialist/local inference, AI financing, and FCC orbital compute; 0 confirmed Nov 25 keeps; curation and final-hours arXiv coverage incomplete
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-24.md|Summary: Daily AI Intelligence Briefing — 2026-11-24]] — canonical full-day final; OpenAI AI-for-science, frontier release-safety debate and Grok litigation, ShellBench, JFrog’s agent-built model-hub malware report, and NVIDIA Cosmos 3 Nano local deployment; 0 confirmed paper keeps/0 uncovered carry-forwards; arXiv partial through 12:59 CST; [Lumistorm post #260](https://lumistorm.net/daily-ai-intelligence-2026-11-24/) published and verified
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-23.md|Summary: Daily AI Intelligence Briefing — 2026-11-23]] — canonical full-day final; GLM-5.4 and DeepCrossAttention, RoboTrack open checkpoints/benchmark, agent data exposure and Shirudo, Google file slicing/personalization, AI-assisted science, and NVIDIA/Paradromics; 0 confirmed Nov 23 CST paper keeps, review incomplete; Lumistorm post #259 verified
