@@ -96,7 +96,7 @@ tags: ['wiki']
 - [[entities/article/2026-11-19_HowOpenAI_sPerformanceFactorykeepsChatGPTfast_summary.md|Summary: How OpenAI’s Performance Factory keeps ChatGPT fast]] — production agent workflow, adversarial checks, human deployment review, and outcome verification
 
 ## Concepts
-- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-27.md|Summary: Daily AI Intelligence Briefing — 2026-11-27]] — AI-only interim through 18:00 CST; KVAE-3.0 specialist tokenizers and an LTX-2.5/Trainium3 engineering result; no verified target-day general-purpose frontier launch or paper keep; local capture scan empty and arXiv coverage stale
+- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-27.md|Summary: Daily AI Intelligence Briefing — 2026-11-27]] — canonical full-day AI-only local final; KVAE-3.0 media tokenizers and an Android Create My Widget review; 1 confirmed Nov 27 keep/1 summary link; no general-purpose model launch verified; arXiv and page-level review incomplete; Lumistorm held pending GitHub paper-summary availability
 |- [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-26.md|Summary: Daily AI Intelligence Briefing — 2026-11-26]] — canonical full-day AI-only final; GigaChat 4’s split-license open weights, Kandinsky/Ming image-video updates, DeepL Aure v2, NVIDIA Parse data/recipe release, and Reuters’ attributed China compute/distillation report; 0 target-day keeps/0 uncovered carry-forwards; Brave/arXiv discovery incomplete; [Lumistorm post #262](https://lumistorm.net/daily-ai-intelligence-2026-11-26/) published/verified
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-25.md|Summary: Daily AI Intelligence Briefing — 2026-11-25]] — canonical full-day final through 23:59 CST; DeepMind scientific tools, agent boundaries and litigation, specialist/local inference, AI financing, and FCC orbital compute; 0 confirmed Nov 25 keeps; curation and final-hours arXiv coverage incomplete
 - [[concepts/ai-trends/daily-ai-intelligence-blog-2026-11-24.md|Summary: Daily AI Intelligence Briefing — 2026-11-24]] — canonical full-day final; OpenAI AI-for-science, frontier release-safety debate and Grok litigation, ShellBench, JFrog’s agent-built model-hub malware report, and NVIDIA Cosmos 3 Nano local deployment; 0 confirmed paper keeps/0 uncovered carry-forwards; arXiv partial through 12:59 CST; [Lumistorm post #260](https://lumistorm.net/daily-ai-intelligence-2026-11-24/) published and verified
@@ -3465,3 +3465,9 @@ tags: ['wiki']
 - [[2026-11-21_IntroducingInkling2Mini.md]] : Introducing Inkling 2 Mini
 - [[2026-11-22_PerplexityandIntelligence.md]] : Perplexity and Intelligence
 - [[2026-11-23_Superchargingtransformerresidualconnections.md]] : Supercharging transformer residual connections
+- [[2026-11-27_EverythingThatHappenedinAIToday_Friday_November27_.md]] : Everything That Happened in AI Today (Friday, November 27, 2026)
+- [[2026-11-27_TrainingaScalableForecastingAgent_GuestPostwithMan.md]] : Training a Scalable Forecasting Agent (Guest Post with Mantic)
+- [[2026-11-27_Android_sDIYwidgetsareabitofvibe-codingfun.md]] : Android’s DIY widgets are a bit of vibe-coding fun
+- [[2026-11-27_WhatDoestheAIBoomMeanforMaterialsInformatics__IDTe.md]] : What Does the AI Boom Mean for Materials Informatics? : IDTechEx Webinar
+- [[2026-11-27_VerifiableSocialReasoningforLLMAssistants.md]] : Verifiable Social Reasoning for LLM Assistants
+- [[2026-11-27_GPT-6modelsdemonstrateintrinsicprotein-designcapab.md]] : GPT-6 models demonstrate intrinsic protein-design capabilities
